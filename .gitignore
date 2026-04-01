@@ -1,1 +1,10 @@
-.pyenv/
+.env*
+**/.env*
+*.db*
+**/.db*
+*.json*
+**/.json*
+*.csv*
+**/.csv*
+**/__pycache__/
+**/*.mp3
