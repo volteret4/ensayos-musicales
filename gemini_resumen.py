@@ -32,7 +32,7 @@ def _generate_with_retry(prompt, diferencia, max_retries=5):
     for attempt in range(max_retries):
         try:
             return client.models.generate_content(
-                model='gemini-2.0-flash', # Actualizado a la versión estable actual
+                model='gemini-2.5-flash', # Actualizado a la versión estable actual
                 contents=prompt
             )
         except ClientError as e:
