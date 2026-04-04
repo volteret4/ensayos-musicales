@@ -83,52 +83,96 @@ def summarize_files(folder_path):
                 if not content.strip(): continue
 
                 prompt = f"""
-You are a renowned music historian and critic. Extract all musically significant information from the transcript and output it as structured data entries. Be exhaustive — do not summarize away details.
+You are a renowned music historian and critic. Extract all musically significant information from the transcript and output it as structured markdown. Be exhaustive — do not summarize away details.
 
-ENTRY FORMAT — one entry per line:
+═══ STRUCTURE ═══
 
-  __type__ @Artist Name **Descriptive Title** : description
+For each artist or band with meaningful coverage, open a section:
 
-For member entries specifically:
+  # artist - Exact Artist Name
 
-  __member__ @BandName @@MemberName **MemberName – Role** : description
+Then add ONLY the subsections for which you have real data:
 
-ENTRY TYPES:
-  artist, album, song, genre, event, venue, instrument, member, influence, curiosity
+  ## members        one name per line (bare name, no formatting)
+  ## genres         one genre per line (bare name)
+  ## labels         one label per line (bare name)
+  ## venues         one venue per line (bare name)
+  ## instruments    one instrument or gear item per line (bare name)
+  ## albums         one entry per line: **Title (Year) – Subtitle** : description
+  ## songs          one entry per line: **Song Title (Year)** : description
+  ## curiosities    one entry per line: **Descriptive Title** : description
 
-RULES:
+═══ ENTRY FORMAT ═══
 
-1. @Artist is OPTIONAL — include only when the entry belongs clearly to a specific artist or band.
-   - For collaborations: @Artist One, Artist Two
-   - Band-level facts → @BandName  |  Individual facts → @MemberName
-   - Omit @Artist for genres, broad historical events, venues, or curiosities not tied to one artist.
+For ## members / genres / labels / venues / instruments — just the name, one per line:
 
-2. __member__ entries MUST use @BandName @@MemberName (both fields required):
-   - @BandName  = the group they belong to
-   - @@MemberName = the individual person (creates their own profile for solo work, side projects, etc.)
-   - Example: __member__ @The Ramones @@Dee Dee Ramone **Dee Dee Ramone – Primary Songwriter** : Born Douglas Colvin, raised on US military bases in Germany. Wrote the majority of the Ramones catalogue. Heroin addiction was a constant destabilizing force.
-   - Do NOT create __artist__ entries for band members. Their solo albums, songs, etc. go in the appropriate type tagged @MemberName.
+  John Lennon
+  Punk Rock
+  EMI Records
 
-3. **Descriptive Title** must be informative — never a bare name.
-   GOOD: **Ramones (1976) – Debut Album**  |  **Dee Dee Ramone – Primary Songwriter**  |  **Roskilde 2000 – Fatal Crowd Crush**
-   BAD:  **Ramones (1976)**                |  **Dee Dee Ramone**                        |  **Roskilde 2000**
+For ## albums / songs / curiosities — one entry per line:
 
-4. description: specific, factual, detailed. Include dates, places, names, figures. No generic praise.
+  **Descriptive Title** : specific description with dates, names, places, figures
 
-WHAT TO EXTRACT (be exhaustive):
-- Artist biography, formation, breakup, lineup changes → artist, member entries
-- Album/song recording details, production stories, chart performance, inspirations → album, song entries
-- Musical influences and who they in turn influenced → influence entries
-- Collaborations and guest appearances → song/album entries with multiple @artists
-- Myths, controversies, anecdotes, behind-the-scenes stories → curiosity entries
-- Gear, signature sounds, unique techniques → instrument entries
-- Festivals, disasters, landmark concerts → event entries
-- Genres and musical movements, their origins and defining traits → genre entries
+Title must be INFORMATIVE, never a bare name:
+  GOOD: **Abbey Road (1969) – Final Studio Album**  |  **Come Together (1969)**  |  **Ed Sullivan Debut – 73 Million Viewers**
+  BAD:  **Abbey Road**                              |  **Come Together**         |  **Ed Sullivan**
 
-OUTPUT RULES:
-- You MAY add ## Section Headers for human readability (e.g., ## Albums, ## Members, ## Curiosities)
-- Every non-header line must be a valid entry or blank — no prose paragraphs, no bullet points
-- Do not invent any information not present in the source text
+Description: factual, detailed, concrete. No generic praise. Include years, cities, chart positions, real names.
+
+═══ WHAT TO EXTRACT ═══
+
+  ## members:       lineup at relevant period, key changes, who joined or left and when
+  ## albums:        recording context, studio, producers, chart performance, cultural impact
+  ## songs:         origin story, meaning, recording anecdotes, chart positions, live history
+  ## curiosities:   scandals, controversies, historical firsts, behind-the-scenes, personal stories
+  ## instruments:   signature gear, custom tunings, recording techniques, studio equipment
+  ## genres:        just list genre names — factual prose goes in standalone # genre sections
+  ## labels:        just list label names — factual prose goes in standalone # label sections
+  ## venues:        just list venue names — factual prose goes in standalone # venue sections
+
+═══ STANDALONE SECTIONS (at end of file) ═══
+
+After all artist sections, add sections for entities NOT tied to a single artist:
+
+  # genre - Genre Name
+
+  ## curiosities
+  **Descriptive Title** : description
+
+
+  # label - Label Name
+
+  ## curiosities
+  **Descriptive Title** : description
+
+
+  # venue - Venue Name
+
+  ## curiosities
+  **Descriptive Title** : description
+
+
+  # instrument - Instrument Name
+
+  ## curiosities
+  **Descriptive Title** : description
+
+
+  # curiosity
+
+  **Descriptive Title** : description
+  **Another Title** : description
+
+Use # curiosity (no name) for facts that do NOT belong to any single artist, genre, label, venue, or instrument.
+
+═══ RULES ═══
+
+- Multiple artists in one file is fine — start each with # artist - Name
+- Do NOT create a section if you have no real data for it
+- Do NOT invent information not present in the source text
+- Do NOT write prose paragraphs  — only entries in the formats above
+
 
 Text to process:
 

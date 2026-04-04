@@ -5,6 +5,7 @@ import os
 TRANSCRIPTS_FOLDER = 'transcripts'
 RESUMENES_FOLDER = 'resumenes'
 INPUT_FOLDER = "./mp3_input"
+LANGUAGE = "es"
 
 os.makedirs(TRANSCRIPTS_FOLDER, exist_ok=True)
 os.makedirs(RESUMENES_FOLDER, exist_ok=True)
@@ -39,7 +40,7 @@ def transcribir_podcasts(directorio_entrada):
 
                 print(f"Procesando: {os.path.join(rel_path, archivo)}...")
                 try:
-                    resultado = model.transcribe(os.path.join(root, archivo), language="en", fp16=False)
+                    resultado = model.transcribe(os.path.join(root, archivo), language=LANGUAGE, fp16=False)
                     with open(ruta_txt, "w", encoding="utf-8") as f:
                         f.write(resultado["text"])
                     print(f"  ✓ Transcripción guardada.")

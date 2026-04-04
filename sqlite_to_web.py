@@ -3,161 +3,222 @@ import json
 import sqlite3
 import urllib.request
 
-DB_PATH = 'music_facts.db'
+DB_PATH  = 'music_facts.db'
 OUT_HTML = 'music_map.html'
+
+# ── Colours ───────────────────────────────────────────────────────────────────
 
 TYPE_COLORS = {
     'artists':     '#e74c3c',
     'albums':      '#3498db',
     'songs':       '#5dade2',
     'genres':      '#2ecc71',
-    'events':      '#f39c12',
-    'instruments': '#9b59b6',
+    'labels':      '#f39c12',
     'venues':      '#1abc9c',
-    'members':     '#e67e22',
-    'influences':  '#a29bfe',
+    'instruments': '#9b59b6',
     'curiosities': '#95a5a6',
+    'members':     '#e67e22',
 }
 DEFAULT_COLOR = '#bdc3c7'
 
 CAT_LABELS = {
     'albums':      'Álbumes',
     'songs':       'Canciones',
-    'events':      'Eventos',
     'genres':      'Géneros',
-    'curiosities': 'Curiosidades',
-    'instruments': 'Instrumentos',
+    'labels':      'Sellos',
     'venues':      'Lugares',
+    'instruments': 'Instrumentos',
+    'curiosities': 'Curiosidades',
     'members':     'Miembros',
-    'influences':  'Influencias',
 }
 
 
 # ── Data loading ──────────────────────────────────────────────────────────────
 
 def load_data():
-    conn = sqlite3.connect(DB_PATH)
+    conn       = sqlite3.connect(DB_PATH)
     all_tables = {r[0] for r in conn.execute("SELECT name FROM sqlite_master WHERE type='table'")}
 
     if 'artists' not in all_tables:
         conn.close()
         return [], []
 
-    # Primary artists = those with explicit __artist__ entries in artists_data
-    primary_artist_ids = set()
-    if 'artists_data' in all_tables:
-        for (aid,) in conn.execute('SELECT DISTINCT artist_id FROM artists_data'):
-            primary_artist_ids.add(aid)
-
+    # ── Artists ───────────────────────────────────────────────────────────────
     artists = {}
-    for aid, name in conn.execute('SELECT id, name FROM artists ORDER BY name'):
-        artists[aid] = {'id': aid, 'name': name, 'categories': {},
-                        'is_primary': aid in primary_artist_ids}
+    for aid, name, is_primary in conn.execute(
+        'SELECT id, name, is_primary FROM artists ORDER BY name'
+    ):
+        artists[aid] = {
+            'id': aid, 'name': name,
+            'is_primary': bool(is_primary),
+            'categories': {},
+            'member_of': [],
+        }
 
-    # Fallback: source_file → artist_ids (for entries without @Artist tag)
-    source_to_artists = {}
-    if 'source_artists' in all_tables:
-        for sf, aid in conn.execute('SELECT source_file, artist_id FROM source_artists'):
-            source_to_artists.setdefault(sf, set()).add(aid)
-
-    # Primary: direct entry_artists junction (from @Artist field in md)
-    direct_map = {}   # (data_table, data_id) → set of artist_ids
-    if 'entry_artists' in all_tables:
-        for dt, did, aid in conn.execute('SELECT data_table, data_id, artist_id FROM entry_artists'):
-            direct_map.setdefault((dt, did), set()).add(aid)
-
-    # member_data_id → artist_id (from @@Member field in __member__ entries)
-    member_data_to_artist = {}
-    if 'member_artist_links' in all_tables:
-        for md_id, aid in conn.execute('SELECT members_data_id, artist_id FROM member_artist_links'):
-            member_data_to_artist[md_id] = aid
-
-    skip = {'artists', 'source_artists', 'artist_relations', 'entry_artists'}
-    obj_tables = sorted(t for t in all_tables if not t.endswith('_data') and t not in skip)
-
-    # Sentinel for items with no artist association
-    UNATTRIBUTED_ID = -1
-    artists[UNATTRIBUTED_ID] = {'id': UNATTRIBUTED_ID, 'name': '[ Sin atribuir ]', 'categories': {},
-                                 'is_primary': True}
-
-    for obj_table in obj_tables:
-        data_table = obj_table + '_data'
-        if data_table not in all_tables:
-            continue
-        cols = [r[1] for r in conn.execute(f'PRAGMA table_info({data_table})')]
-        fk_candidates = [c for c in cols if c not in ('id', 'description', 'source_folder', 'source_file')]
-        if not fk_candidates:
-            continue
-        fk = fk_candidates[0]
-        has_folder = 'source_folder' in cols
-
-        items = {}
-        extra = ', d.source_folder' if has_folder else ''
-        for row in conn.execute(
-            f'SELECT o.id, o.name, d.id, d.description, d.source_file{extra} '
-            f'FROM {obj_table} o JOIN {data_table} d ON d.{fk}=o.id ORDER BY o.name'
+    # ── Band members ──────────────────────────────────────────────────────────
+    band_member_map = {}   # band_id → [member_id, ...]
+    if 'band_members' in all_tables:
+        for band_id, member_id in conn.execute(
+            'SELECT band_id, member_id FROM band_members ORDER BY band_id, member_id'
         ):
-            if has_folder:
-                iid, name, d_id, desc, sf, folder = row
-            else:
-                iid, name, d_id, desc, sf = row
-                folder = os.path.dirname(sf) or '.'
+            band_member_map.setdefault(band_id, []).append(member_id)
+            if member_id in artists and band_id in artists:
+                artists[member_id]['member_of'].append(artists[band_id]['name'])
 
-            if iid not in items:
-                items[iid] = {'id': iid, 'name': name, 'facts': [], 'aids': set()}
-            # For member entries, resolve @@Member → linked artist profile
-            if obj_table == 'members':
-                linked = member_data_to_artist.get(d_id)
-                if linked is not None and items[iid].get('linked_artist_id') is None:
-                    items[iid]['linked_artist_id'] = linked
-            items[iid]['facts'].append(
-                {'description': desc, 'source_folder': folder, 'source_file': sf}
+    # ── Entity curiosities map ─────────────────────────────────────────────────
+    # (context_type, context_id) → [{title, description, source_file}, ...]
+    entity_curiosities = {}
+    if 'curiosities' in all_tables:
+        for title, desc, ctx_type, ctx_id, sf in conn.execute(
+            "SELECT title, description, context_type, context_id, source_file "
+            "FROM curiosities ORDER BY title"
+        ):
+            key = (ctx_type, ctx_id)
+            entity_curiosities.setdefault(key, []).append(
+                {'description': f'{title}: {desc}', 'source_file': sf}
             )
-            # Prefer direct @Artist link; fall back to source_file inference
-            direct_aids = direct_map.get((data_table, d_id), set())
-            if direct_aids:
-                items[iid]['aids'].update(direct_aids)
-            else:
-                items[iid]['aids'].update(source_to_artists.get(sf, set()))
 
-        for item in items.values():
-            aids = item.pop('aids')
-            if not aids:
-                aids = {UNATTRIBUTED_ID}
-            for aid in aids:
-                if aid in artists:
-                    cats = artists[aid]['categories']
-                    cats.setdefault(obj_table, [])
-                    if not any(x['id'] == item['id'] for x in cats[obj_table]):
-                        cats[obj_table].append(dict(item))
-
-    # Remove sentinel if it ended up with no items
-    if not artists[UNATTRIBUTED_ID]['categories']:
-        del artists[UNATTRIBUTED_ID]
-
-    relations = []
-    if 'artist_relations' in all_tables:
-        rel_map = {}
-        for aid, rid, ctx in conn.execute(
-            'SELECT artist_id, related_artist_id, context FROM artist_relations'
+    # ── Albums ────────────────────────────────────────────────────────────────
+    if 'albums' in all_tables and 'albums_data' in all_tables:
+        album_items = {}   # (album_id, artist_id) → item dict
+        for album_id, name, artist_id in conn.execute(
+            'SELECT id, name, artist_id FROM albums ORDER BY name'
         ):
-            key = (aid, rid)
-            if key not in rel_map:
-                rel_map[key] = []
-            if len(rel_map[key]) < 2:
-                rel_map[key].append(ctx)
-        for (aid, rid), ctxs in rel_map.items():
-            relations.append({'source_id': aid, 'target_id': rid, 'contexts': ctxs})
+            if artist_id in artists:
+                album_items[(album_id, artist_id)] = {
+                    'id': album_id, 'name': name, 'facts': [],
+                }
+        for album_id, artist_id, desc, sf in conn.execute(
+            'SELECT a.id, a.artist_id, d.description, d.source_file '
+            'FROM albums a JOIN albums_data d ON d.album_id = a.id'
+        ):
+            key = (album_id, artist_id)
+            if key in album_items:
+                album_items[key]['facts'].append({'description': desc, 'source_file': sf})
+        for (_, artist_id), item in album_items.items():
+            artists[artist_id]['categories'].setdefault('albums', []).append(item)
+
+    # ── Songs ─────────────────────────────────────────────────────────────────
+    if 'songs' in all_tables and 'songs_data' in all_tables:
+        song_items = {}
+        for song_id, name, artist_id in conn.execute(
+            'SELECT id, name, artist_id FROM songs ORDER BY name'
+        ):
+            if artist_id in artists:
+                song_items[(song_id, artist_id)] = {
+                    'id': song_id, 'name': name, 'facts': [],
+                }
+        for song_id, artist_id, desc, sf in conn.execute(
+            'SELECT s.id, s.artist_id, d.description, d.source_file '
+            'FROM songs s JOIN songs_data d ON d.song_id = s.id'
+        ):
+            key = (song_id, artist_id)
+            if key in song_items:
+                song_items[key]['facts'].append({'description': desc, 'source_file': sf})
+        for (_, artist_id), item in song_items.items():
+            artists[artist_id]['categories'].setdefault('songs', []).append(item)
+
+    # ── Artist curiosities ────────────────────────────────────────────────────
+    for facts in [entity_curiosities.get(('artist', aid), []) for aid in artists]:
+        pass  # will be done per-artist below
+    for aid in artists:
+        facts = entity_curiosities.get(('artist', aid), [])
+        if facts:
+            # Group into one item per curiosity entry
+            for i, f in enumerate(facts):
+                item = {
+                    'id':    aid * 10000 + i,
+                    'name':  f['description'].split(':')[0][:80],
+                    'facts': [f],
+                }
+                artists[aid]['categories'].setdefault('curiosities', []).append(item)
+
+    # ── Association categories (genres, labels, venues, instruments) ──────────
+    assoc = [
+        ('genres',      'artist_genres',      'genres',      'genre_id',      'genre'),
+        ('labels',      'artist_labels',       'labels',      'label_id',      'label'),
+        ('venues',      'artist_venues',       'venues',      'venue_id',      'venue'),
+        ('instruments', 'artist_instruments',  'instruments', 'instrument_id', 'instrument'),
+    ]
+    for cat, junc, entity_table, fk, ctx_type in assoc:
+        if junc not in all_tables or entity_table not in all_tables:
+            continue
+        for artist_id, eid, ename in conn.execute(
+            f'SELECT j.artist_id, e.id, e.name '
+            f'FROM {junc} j JOIN {entity_table} e ON j.{fk} = e.id '
+            f'ORDER BY e.name'
+        ):
+            if artist_id not in artists:
+                continue
+            facts = entity_curiosities.get((ctx_type, eid), [])
+            item = {'id': eid, 'name': ename, 'facts': facts}
+            artists[artist_id]['categories'].setdefault(cat, []).append(item)
+
+    # ── Members category (bands) ──────────────────────────────────────────────
+    for band_id, member_ids in band_member_map.items():
+        if band_id not in artists:
+            continue
+        members_list = []
+        for mid in member_ids:
+            if mid not in artists:
+                continue
+            members_list.append({
+                'id':               mid,
+                'name':             artists[mid]['name'],
+                'facts':            entity_curiosities.get(('artist', mid), []),
+                'linked_artist_id': mid if artists[mid]['is_primary'] else None,
+            })
+        if members_list:
+            artists[band_id]['categories']['members'] = members_list
+
+    # ── Relations: dashed lines between primary member artists and their bands ─
+    relations = []
+    seen = set()
+    for band_id, member_ids in band_member_map.items():
+        for mid in member_ids:
+            if band_id not in artists or mid not in artists:
+                continue
+            if not artists[mid]['is_primary']:
+                continue
+            key = (min(band_id, mid), max(band_id, mid))
+            if key not in seen:
+                seen.add(key)
+                relations.append({'source_id': band_id, 'target_id': mid, 'type': 'member'})
 
     conn.close()
     return list(artists.values()), relations
 
 
-# ── HTML generation ───────────────────────────────────────────────────────────
+# ── D3 ────────────────────────────────────────────────────────────────────────
+
+D3_LOCAL  = 'd3.v7.min.js'
+D3_URL    = 'https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js'
+D3_BACKUP = 'https://unpkg.com/d3@7/dist/d3.min.js'
+
+
+def get_d3():
+    if os.path.exists(D3_LOCAL):
+        with open(D3_LOCAL, 'r', encoding='utf-8') as f:
+            return f.read()
+    for url in (D3_URL, D3_BACKUP):
+        try:
+            print(f'Descargando D3.js desde {url} ...')
+            with urllib.request.urlopen(url, timeout=20) as r:
+                src = r.read().decode('utf-8')
+            with open(D3_LOCAL, 'w', encoding='utf-8') as f:
+                f.write(src)
+            print(f'  → guardado ({len(src)//1024} KB)')
+            return src
+        except Exception as e:
+            print(f'  fallo ({e}), probando siguiente...')
+    raise RuntimeError('No se pudo descargar D3.js. Descárgalo manualmente como d3.v7.min.js')
+
+
+# ── CSS ───────────────────────────────────────────────────────────────────────
 
 CSS = '''
 * { box-sizing: border-box; margin: 0; padding: 0; }
-body { font-family: 'Segoe UI', sans-serif; background: #1a1a2e; color: #eee;
+body { font-family: "Segoe UI", sans-serif; background: #1a1a2e; color: #eee;
        display: flex; height: 100vh; overflow: hidden; }
 
 #sidebar { width: 300px; min-width: 220px; background: #16213e; padding: 14px;
@@ -182,8 +243,7 @@ body { font-family: 'Segoe UI', sans-serif; background: #1a1a2e; color: #eee;
 .ac-item mark { background: none; color: #e94560; font-weight: bold; }
 
 #legend { display: flex; flex-direction: column; gap: 4px; }
-.leg-item { display: flex; align-items: center; gap: 7px; font-size: 0.78rem;
-            cursor: pointer; user-select: none; }
+.leg-item { display: flex; align-items: center; gap: 7px; font-size: 0.78rem; }
 .leg-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
 
 #panel { flex: 1; overflow-y: auto; border-top: 1px solid #0f3460; padding-top: 10px; }
@@ -203,14 +263,16 @@ svg { width: 100%; height: 100%; }
 .node text { pointer-events: none; fill: #ddd; text-anchor: middle; }
 .node.expanded > circle { stroke: #fff !important; stroke-width: 2.5px !important; }
 .node.selected > circle { stroke: #fff !important; stroke-width: 3px !important; }
-.node.member-linked > circle { stroke: #e94560 !important; stroke-width: 2.5px !important; stroke-dasharray: 4 2; }
-line.edge-solid { stroke: #2a3a5e; stroke-width: 1.5px; }
-line.edge-dashed { stroke: #555; stroke-width: 1px; stroke-dasharray: 6 3; opacity: 0.6; }
+.node.member-linked > circle { stroke: #e94560 !important; stroke-width: 2.5px !important;
+                                stroke-dasharray: 4 2; }
+line.edge-solid  { stroke: #2a3a5e; stroke-width: 1.5px; }
+line.edge-member { stroke: #e67e22; stroke-width: 1px; stroke-dasharray: 6 3; opacity: 0.5; }
+line.edge-dashed { stroke: #555;    stroke-width: 1px; stroke-dasharray: 6 3; opacity: 0.4; }
 '''
 
-# Plain JS — no Python f-string interpolation needed here
+# ── JS ────────────────────────────────────────────────────────────────────────
+
 JS = r'''
-// ── Data injected by Python ──────────────────────────────────────────────────
 const ARTISTS       = /*ARTISTS*/[];
 const RELATIONS     = /*RELATIONS*/[];
 const COLORS        = /*COLORS*/{};
@@ -220,35 +282,35 @@ const DEFAULT_COLOR = /*DEFAULT_COLOR*/'#bdc3c7';
 // ── State ────────────────────────────────────────────────────────────────────
 const expandedArtists    = new Set();
 const expandedCategories = new Set();
-let selectedNodeId = null;
+let   selectedNodeId     = null;
 
-// ── SVG / zoom / simulation ───────────────────────────────────────────────────
+// ── SVG / zoom / sim ──────────────────────────────────────────────────────────
 const svgEl = document.getElementById('svg');
 const svg   = d3.select(svgEl);
 const g     = svg.append('g');
-const W     = () => svgEl.clientWidth;
-const H     = () => svgEl.clientHeight;
+const W = () => svgEl.clientWidth;
+const H = () => svgEl.clientHeight;
 
-const zoom = d3.zoom().scaleExtent([0.1, 8]).on('zoom', e => g.attr('transform', e.transform));
+const zoom = d3.zoom().scaleExtent([0.05, 8]).on('zoom', e => g.attr('transform', e.transform));
 svg.call(zoom);
 
 const sim = d3.forceSimulation()
   .force('link',    d3.forceLink().id(d => d.id)
-                       .distance(d => d.dashed ? 220 : d.etype === 'cat' ? 110 : 55)
-                       .strength(d => d.dashed ? 0.04 : 0.5))
+                       .distance(d => d.etype === 'member' ? 260
+                                    : d.etype === 'cat'    ? 110
+                                    : d.etype === 'item'   ? 55 : 200)
+                       .strength(d => d.etype === 'member' ? 0.03
+                                    : d.etype === 'cat'    ? 0.5  : 0.5))
   .force('charge',  d3.forceManyBody().strength(d =>
-    d.ntype === 'artist' ? -500 : d.ntype === 'category' ? -180 : -60))
+    d.ntype === 'artist' ? -600 : d.ntype === 'category' ? -200 : -80))
   .force('center',  d3.forceCenter(W() / 2, H() / 2))
-  .force('collide', d3.forceCollide(d => (d.r || 8) + 5));
+  .force('collide', d3.forceCollide(d => (d.r || 8) + 6));
 
-// Position memory
 const pos = {};
-
 sim.on('tick', () => {
   sim.nodes().forEach(n => { pos[n.id] = { x: n.x, y: n.y }; });
-  g.selectAll('line.edge-solid, line.edge-dashed')
-    .attr('x1', d => d.source.x).attr('y1', d => d.source.y)
-    .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
+  g.selectAll('line').attr('x1', d => d.source.x).attr('y1', d => d.source.y)
+                     .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
   g.selectAll('.node').attr('transform', d => `translate(${d.x},${d.y})`);
 });
 
@@ -256,28 +318,37 @@ sim.on('tick', () => {
 function computeGraph() {
   const nodes = [], edges = [];
 
+  // Artist nodes (primary always; non-primary only if explicitly expanded)
   for (const a of ARTISTS) {
-    // Show primary artists always; non-primary (member-only) only when explicitly expanded
     if (a.is_primary || expandedArtists.has(a.id)) {
       nodes.push({ id: `a_${a.id}`, ntype: 'artist', label: a.name,
                    data: a, r: 20, color: COLORS.artists || '#e74c3c' });
     }
   }
+
+  // Member relation edges (between primary artist nodes)
   for (const rel of RELATIONS) {
-    edges.push({ id: `rel_${rel.source_id}_${rel.target_id}`,
-                 source: `a_${rel.source_id}`, target: `a_${rel.target_id}`,
-                 dashed: true, rel });
+    if (rel.type === 'member') {
+      edges.push({ id: `rel_${rel.source_id}_${rel.target_id}`,
+                   source: `a_${rel.source_id}`, target: `a_${rel.target_id}`,
+                   etype: 'member' });
+    }
   }
+
+  // Expanded artists → categories → items
   for (const artistId of expandedArtists) {
     const artist = ARTISTS.find(a => a.id === artistId);
     if (!artist) continue;
+
     for (const [catType, items] of Object.entries(artist.categories)) {
       if (!items.length) continue;
       const catId = `cat_${artistId}_${catType}`;
       nodes.push({ id: catId, ntype: 'category',
-                   label: (CAT_LABELS[catType] || catType) + `\n(${items.length})`,
-                   catType, artistId, items, r: 13, color: COLORS[catType] || DEFAULT_COLOR });
+                   label: (CAT_LABELS[catType] || catType) + ` (${items.length})`,
+                   catType, artistId, items, r: 13,
+                   color: COLORS[catType] || DEFAULT_COLOR });
       edges.push({ id: `e_${catId}`, source: `a_${artistId}`, target: catId, etype: 'cat' });
+
       const catKey = `${artistId}_${catType}`;
       if (expandedCategories.has(catKey)) {
         for (const item of items) {
@@ -293,44 +364,42 @@ function computeGraph() {
       }
     }
   }
+
   return { nodes, edges };
 }
 
 // ── Render ────────────────────────────────────────────────────────────────────
-// fromClick=true: pin existing nodes so only new ones drift into place
 function render(fromClick = false) {
   const { nodes, edges } = computeGraph();
 
   for (const n of nodes) {
     if (pos[n.id]) {
       n.x = pos[n.id].x; n.y = pos[n.id].y;
-      // Pin nodes that already have a position so they don't jump
       if (fromClick) { n.fx = n.x; n.fy = n.y; }
     } else if (n.ntype === 'category' && pos[`a_${n.artistId}`]) {
       const p = pos[`a_${n.artistId}`];
-      n.x = p.x + (Math.random() - 0.5) * 50; n.y = p.y + (Math.random() - 0.5) * 50;
+      n.x = p.x + (Math.random() - 0.5) * 60; n.y = p.y + (Math.random() - 0.5) * 60;
     } else if (n.ntype === 'item') {
       const p = pos[`cat_${n.artistId}_${n.catType}`];
-      if (p) { n.x = p.x + (Math.random() - 0.5) * 35; n.y = p.y + (Math.random() - 0.5) * 35; }
+      if (p) { n.x = p.x + (Math.random() - 0.5) * 40; n.y = p.y + (Math.random() - 0.5) * 40; }
     }
   }
 
   sim.nodes(nodes);
   sim.force('link').links(edges);
   sim.alpha(fromClick ? 0.25 : 0.6).restart();
-
-  // Unpin after new nodes have settled
   if (fromClick) {
-    setTimeout(() => {
-      sim.nodes().forEach(n => { n.fx = null; n.fy = null; });
-    }, 600);
+    setTimeout(() => sim.nodes().forEach(n => { n.fx = null; n.fy = null; }), 600);
   }
 
   // Edges
-  g.selectAll('line.edge-solid').data(edges.filter(e => !e.dashed), e => e.id)
-    .join('line').attr('class', 'edge-solid');
-  g.selectAll('line.edge-dashed').data(edges.filter(e => e.dashed), e => e.id)
-    .join('line').attr('class', 'edge-dashed');
+  g.selectAll('line.edge-solid').data(
+    edges.filter(e => e.etype === 'cat' || e.etype === 'item'), e => e.id
+  ).join('line').attr('class', 'edge-solid');
+
+  g.selectAll('line.edge-member').data(
+    edges.filter(e => e.etype === 'member'), e => e.id
+  ).join('line').attr('class', 'edge-member');
 
   // Nodes
   const nodeGroups = g.selectAll('.node').data(nodes, d => d.id)
@@ -344,12 +413,12 @@ function render(fromClick = false) {
           )
           .on('click', onNodeClick);
         grp.append('circle').attr('r', d => d.r).attr('fill', d => d.color).attr('stroke', '#1a1a2e');
-        grp.append('text').attr('dy', d => d.r + 10)
+        grp.append('text').attr('dy', d => d.r + 11)
           .style('font-size', d => d.ntype === 'artist' ? '10px' : '8px');
         return grp;
       },
       update => update,
-      exit => exit.remove()
+      exit   => exit.remove()
     );
 
   nodeGroups.select('text').each(function(d) {
@@ -357,7 +426,7 @@ function render(fromClick = false) {
     el.selectAll('*').remove();
     d.label.split('\n').forEach((line, i) => {
       el.append('tspan').attr('x', 0).attr('dy', i === 0 ? 0 : '1.1em')
-        .text(line.length > 24 ? line.slice(0, 22) + '…' : line);
+        .text(line.length > 26 ? line.slice(0, 24) + '…' : line);
     });
   });
 
@@ -366,7 +435,7 @@ function render(fromClick = false) {
       (d.ntype === 'artist'   && expandedArtists.has(d.data?.id)) ||
       (d.ntype === 'category' && expandedCategories.has(`${d.artistId}_${d.catType}`))
     )
-    .classed('selected', d => d.id === selectedNodeId)
+    .classed('selected',      d => d.id === selectedNodeId)
     .classed('member-linked', d => d.linked_artist_id != null);
 }
 
@@ -382,6 +451,10 @@ function onNodeClick(event, d) {
       }
     } else {
       expandedArtists.add(id);
+      // Auto-expand members category for bands
+      if (d.data.categories.members?.length) {
+        expandedCategories.add(`${id}_members`);
+      }
     }
     showArtistPanel(d.data);
   } else if (d.ntype === 'category') {
@@ -389,24 +462,23 @@ function onNodeClick(event, d) {
     expandedCategories.has(key) ? expandedCategories.delete(key) : expandedCategories.add(key);
   } else if (d.ntype === 'item') {
     if (d.linked_artist_id != null) {
-      // Member node → expand that artist's profile in the graph
       activateArtist(d.linked_artist_id);
-    } else {
-      selectedNodeId = d.id;
-      showItemPanel(d);
+      return;
     }
+    selectedNodeId = d.id;
+    showItemPanel(d);
   }
   render(true);
 }
 
-// Expand an artist by id, pan/zoom the camera to it
 function activateArtist(artistId) {
   if (!expandedArtists.has(artistId)) expandedArtists.add(artistId);
   const artist = ARTISTS.find(a => a.id === artistId);
-  if (artist) showArtistPanel(artist);
+  if (artist) {
+    if (artist.categories.members?.length) expandedCategories.add(`${artistId}_members`);
+    showArtistPanel(artist);
+  }
   render(true);
-
-  // Pan to the artist node after the simulation has had a moment to settle
   setTimeout(() => {
     const node = sim.nodes().find(n => n.id === `a_${artistId}`);
     if (!node) return;
@@ -419,21 +491,17 @@ function activateArtist(artistId) {
 }
 
 function showArtistPanel(artist) {
-  const color = COLORS.artists || '#e74c3c';
-  const rels = RELATIONS.filter(r => r.source_id === artist.id || r.target_id === artist.id);
-  const relHtml = rels.length ? `
-    <p style="font-size:.75rem;color:#888;margin:8px 0 4px">Relacionado con:</p>
-    ${rels.map(r => {
-      const otherId = r.source_id === artist.id ? r.target_id : r.source_id;
-      const other = ARTISTS.find(a => a.id === otherId);
-      return `<div class="rel-card">${other ? other.name : otherId}: ${r.contexts[0] || ''}</div>`;
-    }).join('')}
-  ` : '';
+  const color  = COLORS.artists || '#e74c3c';
+  const catCount = Object.keys(artist.categories).length;
+  const memberOf = artist.member_of?.length
+    ? `<p style="font-size:.72rem;color:#888;margin-bottom:6px">Miembro de: ${artist.member_of.join(', ')}</p>`
+    : '';
   document.getElementById('panel').innerHTML = `
     <h2 style="color:${color}">${artist.name}</h2>
+    ${memberOf}
     <p style="font-size:.75rem;color:#888;margin-bottom:8px">
-      ${Object.keys(artist.categories).length} categorías · haz clic en una para expandir
-    </p>${relHtml}`;
+      ${catCount} categoría${catCount !== 1 ? 's' : ''} · haz clic en una para expandir
+    </p>`;
 }
 
 function showItemPanel(d) {
@@ -446,7 +514,7 @@ function showItemPanel(d) {
     ${d.facts.map(f => `
       <div class="fact-card" style="border-left-color:${color}">
         ${f.description}
-        <div class="fact-src">📂 ${f.source_folder} / ${f.source_file.split('/').pop()}</div>
+        ${f.source_file ? `<div class="fact-src">📂 ${f.source_file}</div>` : ''}
       </div>`).join('')}`;
 }
 
@@ -460,7 +528,7 @@ svg.on('click', () => {
 // ── Autocomplete search ───────────────────────────────────────────────────────
 const searchEl = document.getElementById('search');
 const acList   = document.getElementById('ac-list');
-let acActive   = -1;  // keyboard-selected index
+let   acActive = -1;
 
 function highlight(text, q) {
   if (!q) return text;
@@ -473,18 +541,13 @@ function buildAcList(q) {
   acList.innerHTML = '';
   acActive = -1;
   if (!q) { acList.classList.remove('open'); return; }
-
-  const matches = ARTISTS.filter(a => a.name.toLowerCase().includes(q.toLowerCase()));
+  const matches = ARTISTS.filter(a => a.is_primary && a.name.toLowerCase().includes(q.toLowerCase()));
   if (!matches.length) { acList.classList.remove('open'); return; }
-
-  matches.slice(0, 12).forEach((artist, idx) => {
+  matches.slice(0, 12).forEach(artist => {
     const div = document.createElement('div');
     div.className = 'ac-item';
     div.innerHTML = highlight(artist.name, q);
-    div.addEventListener('mousedown', e => {
-      e.preventDefault();  // don't blur the input
-      selectAcItem(artist);
-    });
+    div.addEventListener('mousedown', e => { e.preventDefault(); selectAcItem(artist); });
     acList.appendChild(div);
   });
   acList.classList.add('open');
@@ -497,27 +560,21 @@ function selectAcItem(artist) {
 }
 
 searchEl.addEventListener('input', () => buildAcList(searchEl.value));
-
 searchEl.addEventListener('keydown', e => {
   const items = acList.querySelectorAll('.ac-item');
   if (!items.length) return;
-  if (e.key === 'ArrowDown') {
+  if (e.key === 'ArrowDown') { e.preventDefault(); acActive = Math.min(acActive + 1, items.length - 1); }
+  else if (e.key === 'ArrowUp')  { e.preventDefault(); acActive = Math.max(acActive - 1, 0); }
+  else if (e.key === 'Enter' && acActive >= 0) {
     e.preventDefault();
-    acActive = Math.min(acActive + 1, items.length - 1);
-  } else if (e.key === 'ArrowUp') {
-    e.preventDefault();
-    acActive = Math.max(acActive - 1, 0);
-  } else if (e.key === 'Enter' && acActive >= 0) {
-    e.preventDefault();
-    const artist = ARTISTS.filter(a => a.name.toLowerCase().includes(searchEl.value.toLowerCase()))[acActive];
+    const q = searchEl.value.toLowerCase();
+    const artist = ARTISTS.filter(a => a.is_primary && a.name.toLowerCase().includes(q))[acActive];
     if (artist) selectAcItem(artist);
     return;
-  } else if (e.key === 'Escape') {
-    acList.classList.remove('open'); return;
-  } else { return; }
+  } else if (e.key === 'Escape') { acList.classList.remove('open'); return; }
+  else { return; }
   items.forEach((el, i) => el.classList.toggle('active', i === acActive));
 });
-
 document.addEventListener('click', e => {
   if (!e.target.closest('#search-wrap')) acList.classList.remove('open');
 });
@@ -531,42 +588,23 @@ render();
 '''
 
 
-D3_LOCAL  = 'd3.v7.min.js'
-D3_URL    = 'https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js'
-D3_BACKUP = 'https://unpkg.com/d3@7/dist/d3.min.js'
-
-
-def get_d3():
-    """Return D3 source, downloading and caching it locally on first run."""
-    if os.path.exists(D3_LOCAL):
-        with open(D3_LOCAL, 'r', encoding='utf-8') as f:
-            return f.read()
-    for url in (D3_URL, D3_BACKUP):
-        try:
-            print(f"Descargando D3.js desde {url} ...")
-            with urllib.request.urlopen(url, timeout=20) as r:
-                src = r.read().decode('utf-8')
-            with open(D3_LOCAL, 'w', encoding='utf-8') as f:
-                f.write(src)
-            print(f"  → guardado en {D3_LOCAL} ({len(src)//1024} KB)")
-            return src
-        except Exception as e:
-            print(f"  fallo ({e}), probando siguiente URL...")
-    raise RuntimeError("No se pudo descargar D3.js. Descárgalo manualmente como d3.v7.min.js")
-
-
 def inject_data(js, artists, relations):
-    """Replace /*PLACEHOLDER*/ comments in JS with actual JSON data."""
-    js = js.replace('/*ARTISTS*/[]',         json.dumps(artists,    ensure_ascii=False))
-    js = js.replace('/*RELATIONS*/[]',        json.dumps(relations,  ensure_ascii=False))
-    js = js.replace('/*COLORS*/{}',           json.dumps(TYPE_COLORS, ensure_ascii=False))
-    js = js.replace('/*CAT_LABELS*/{}',       json.dumps(CAT_LABELS, ensure_ascii=False))
+    js = js.replace('/*ARTISTS*/[]',    json.dumps(artists,    ensure_ascii=False))
+    js = js.replace('/*RELATIONS*/[]',  json.dumps(relations,  ensure_ascii=False))
+    js = js.replace('/*COLORS*/{}',     json.dumps(TYPE_COLORS, ensure_ascii=False))
+    js = js.replace('/*CAT_LABELS*/{}', json.dumps(CAT_LABELS, ensure_ascii=False))
     js = js.replace("/*DEFAULT_COLOR*/'#bdc3c7'", f"'{DEFAULT_COLOR}'")
     return js
 
 
 def build_html(artists, relations):
     d3_src = get_d3()
+    legend = ''.join(
+        f'<div class="leg-item">'
+        f'<div class="leg-dot" style="background:{color}"></div>'
+        f'<span>{CAT_LABELS.get(t, t).capitalize()}</span></div>'
+        for t, color in TYPE_COLORS.items()
+    )
     return f'''<!DOCTYPE html>
 <html lang="es">
 <head>
@@ -582,13 +620,7 @@ def build_html(artists, relations):
     <input id="search" type="text" placeholder="Buscar artista...">
     <div id="ac-list"></div>
   </div>
-  <div id="legend">
-    {''.join(
-      f'<div class="leg-item"><div class="leg-dot" style="background:{color}"></div>'
-      f'<span>{CAT_LABELS.get(t, t).capitalize()}</span></div>'
-      for t, color in TYPE_COLORS.items()
-    )}
-  </div>
+  <div id="legend">{legend}</div>
   <div id="panel"><p class="empty">Haz clic en un artista para explorar.</p></div>
 </div>
 <div id="graph"><svg id="svg"></svg></div>
@@ -601,21 +633,23 @@ def build_html(artists, relations):
 
 def main():
     if not os.path.exists(DB_PATH):
-        print(f"No se encuentra {DB_PATH}. Ejecuta primero md_to_sqlite.py")
+        print(f'No se encuentra {DB_PATH}. Ejecuta primero md_to_sqlite.py')
         return
 
     artists, relations = load_data()
     if not artists:
-        print("La base de datos está vacía.")
+        print('La base de datos está vacía.')
         return
 
     html = build_html(artists, relations)
     with open(OUT_HTML, 'w', encoding='utf-8') as f:
         f.write(html)
 
-    n_rels = len(relations)
-    n_cats = sum(len(a['categories']) for a in artists)
-    print(f"{len(artists)} artistas, {n_cats} categorías totales, {n_rels} relaciones → {OUT_HTML}")
+    primary  = sum(1 for a in artists if a['is_primary'])
+    n_cats   = sum(len(a['categories']) for a in artists)
+    n_rels   = len(relations)
+    print(f'{primary} artistas primarios ({len(artists)} total), '
+          f'{n_cats} categorías, {n_rels} relaciones miembro → {OUT_HTML}')
 
 
 if __name__ == '__main__':
