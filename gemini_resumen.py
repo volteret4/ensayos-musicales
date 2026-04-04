@@ -83,25 +83,60 @@ def summarize_files(folder_path):
                 if not content.strip(): continue
 
                 prompt = f"""
-                You are a renowned music historian and critic, an expert on artists, albums, genres, and musical events. Your task is to prepare a comprehensive document for an essay on music.
+You are a renowned music historian and critic. Extract all musically significant information from the transcript and output it as structured data entries. Be exhaustive — do not summarize away details.
 
-                Your goal is to extract all the interesting and relevant information from the following English text (for example, from the podcast *Ongoing History of New Music* by Alan Cross). You are not interested in basic data such as release dates or band formation/dissolution; look for in-depth information, trivia, anecdotes, myths, influences, musical style, cultural impact, collaborations, production details, song inspiration, artistic evolution, and any other information that might be useful for a detailed analysis.
+ENTRY FORMAT — one entry per line:
 
-                Produce a complete summary that includes:
+  __type__ @Artist Name **Descriptive Title** : description
 
-                - Subheadings organizing the information (for example: “Album Context,” “Style and Sound,” “Trivia and Anecdotes,” “Cultural Impact,” “Collaborations,” “Related Events”).
+For member entries specifically:
 
-                - Within each subheading, describe the relevant information clearly and in detail. Do not limit the number of bullet points; Prioritize richness and depth of information.
+  __member__ @BandName @@MemberName **MemberName – Role** : description
 
-                Maintain an informative and academic, yet readable, tone.
+ENTRY TYPES:
+  artist, album, song, genre, event, venue, instrument, member, influence, curiosity
 
-                Text:
+RULES:
 
-                {content}
-                """
+1. @Artist is OPTIONAL — include only when the entry belongs clearly to a specific artist or band.
+   - For collaborations: @Artist One, Artist Two
+   - Band-level facts → @BandName  |  Individual facts → @MemberName
+   - Omit @Artist for genres, broad historical events, venues, or curiosities not tied to one artist.
+
+2. __member__ entries MUST use @BandName @@MemberName (both fields required):
+   - @BandName  = the group they belong to
+   - @@MemberName = the individual person (creates their own profile for solo work, side projects, etc.)
+   - Example: __member__ @The Ramones @@Dee Dee Ramone **Dee Dee Ramone – Primary Songwriter** : Born Douglas Colvin, raised on US military bases in Germany. Wrote the majority of the Ramones catalogue. Heroin addiction was a constant destabilizing force.
+   - Do NOT create __artist__ entries for band members. Their solo albums, songs, etc. go in the appropriate type tagged @MemberName.
+
+3. **Descriptive Title** must be informative — never a bare name.
+   GOOD: **Ramones (1976) – Debut Album**  |  **Dee Dee Ramone – Primary Songwriter**  |  **Roskilde 2000 – Fatal Crowd Crush**
+   BAD:  **Ramones (1976)**                |  **Dee Dee Ramone**                        |  **Roskilde 2000**
+
+4. description: specific, factual, detailed. Include dates, places, names, figures. No generic praise.
+
+WHAT TO EXTRACT (be exhaustive):
+- Artist biography, formation, breakup, lineup changes → artist, member entries
+- Album/song recording details, production stories, chart performance, inspirations → album, song entries
+- Musical influences and who they in turn influenced → influence entries
+- Collaborations and guest appearances → song/album entries with multiple @artists
+- Myths, controversies, anecdotes, behind-the-scenes stories → curiosity entries
+- Gear, signature sounds, unique techniques → instrument entries
+- Festivals, disasters, landmark concerts → event entries
+- Genres and musical movements, their origins and defining traits → genre entries
+
+OUTPUT RULES:
+- You MAY add ## Section Headers for human readability (e.g., ## Albums, ## Members, ## Curiosities)
+- Every non-header line must be a valid entry or blank — no prose paragraphs, no bullet points
+- Do not invent any information not present in the source text
+
+Text to process:
+
+{content}
+"""
 
                 # Contar archivos (ignora subdirectorios)
-                num_archivos1 = len([f for f in os.listdir(rel_path) if os.path.isfile(os.path.join(rel_path, f))])
+                num_archivos1 = len([f for f in os.listdir(root) if os.path.isfile(os.path.join(root, f))])
                 num_archivos2 = len([f for f in os.listdir(output_dir) if os.path.isfile(os.path.join(output_dir, f))])
 
                 # Diferencia

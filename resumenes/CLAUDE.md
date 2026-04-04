@@ -2,48 +2,80 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## Overview
+## Project Goal
 
-Two-script pipeline that transcribes audio podcasts to text (English) and summarizes them (Spanish):
+Build a pipeline that transcribes music podcasts, summarizes them into structured data, and eventually populates a SQLite database to power an interactive web map of music knowledge (artists, albums, genres, events, anecdotes).
 
-1. `audio_to_text.py` — Whisper-based transcription
-2. `gemini_resumen.py` — Gemini API summarization
-
-## Running the Scripts
+## Running the Pipeline
 
 ```bash
-# Activate the virtual environment first
-source .pyenv/bin/activate
+# Full pipeline (transcribe → summarize → cleanup)
+bash main.sh
 
-# Step 1: Transcribe audio files from mp3_input/ → transcripts/
-python audio_to_text.py
-
-# Step 2: Summarize transcripts from mp3_input/ → summary_*.txt
-python gemini_resumen.py
+# Individual steps
+python3 audio_to_text.py      # Transcribe audio files in mp3_input/
+python3 gemini_resumen.py     # Summarize transcripts via Gemini API
+python3 borrar_mp3_escritos.py  # Delete processed MP3s and TXT files
 ```
 
-No build, lint, or test commands exist — this is a minimal scripted project.
+The pipeline is idempotent: each script skips files that already have output.
+
+## Secrets
+
+All API keys are stored in `.encrypted.env` (encrypted with SOPS+age). To use them, call `load_sops_env()` from `sops_env.py` — this decrypts and injects vars into `os.environ`. Required vars: `GEMINI_API_KEY`, `TELEGRAM_BOT`, `TELEGRAM_CHAT_ID`.
+
+`sops` CLI and an age key must be available for decryption to work.
 
 ## Data Flow
 
 ```
-mp3_input/*.{mp3,m4a,wav,opus}
-        ↓ audio_to_text.py (Whisper "base", CPU, language=en)
-transcripts/*.txt
-        ↓ gemini_resumen.py (Gemini 2.0 Flash)
-summary_<filename>.txt (saved in root)
+mp3_input/[subfolders]/podcast.mp3
+  → audio_to_text.py (Whisper, local CPU)
+  → transcripts/[subfolders]/podcast.txt
+
+transcripts/[subfolders]/podcast.txt
+  → gemini_resumen.py (Gemini 2.5 Flash)
+  → resumenes/[subfolders]/podcast.md
+  → (source txt moved to transcripts/[subfolders]/summarized/)
+
+borrar_mp3_escritos.py
+  → deletes mp3 when its .txt exists
+  → deletes .txt when its .md exists
 ```
 
-## Key Behaviors
+Subdirectory structure under `mp3_input/` is mirrored in `transcripts/` and `resumenes/`.
 
-- **Transcription is idempotent**: skips files that already have a corresponding `.txt` in `transcripts/`
-- **Whisper runs on CPU** (`fp16=False`) — intentional, no GPU required
-- **Summaries are in Spanish**, 10 key bullet points per transcript
-- The Gemini API key is hardcoded in `gemini_resumen.py` line 5 — use an env var if changing it
+## Summary Format
 
-## Dependencies
+`gemini_resumen.py` produces markdown with this entry format per fact:
 
-Managed inside `.pyenv/` (Python 3.14.3 virtualenv). Key packages:
-- `openai-whisper` — transcription
-- `google-genai` — Gemini API client
-- `torch` — required by Whisper
+```
+__type__ **object** : description
+```
+
+Where `type` is one of: `artist`, `album`, `genre`, `event`, `general music curiosity`, `instrument`, etc. The `resumenes/` folder holds these files; two example outputs are at the repo root (`Rock's Greatest Disasters [...].md`, `The Original Ramones [...].md`).
+
+## Python Environment
+
+The project uses a local `.pyenv/` virtual environment. Key packages: `openai-whisper`, `google-genai`, `requests`. No `requirements.txt` — install via pip into `.pyenv/`.
+
+## Full Pipeline
+
+```bash
+# After adding new audio to mp3_input/:
+python3 audio_to_text.py      # → transcripts/*.txt
+python3 gemini_resumen.py     # → resumenes/*.md  (moves processed txts to transcripts/summarized/)
+python3 borrar_mp3_escritos.py  # deletes processed mp3s and txts
+
+# Build the web map (run after resumenes/ has content):
+python3 md_to_sqlite.py       # → music_facts.db
+python3 sqlite_to_web.py      # → music_map.html
+```
+
+## md_to_sqlite.py
+
+Walks `resumenes/` recursively, parses every line matching `__type__ **object** : description`, and inserts into a `facts` table in `music_facts.db`. Clears and rebuilds the DB on each run.
+
+## sqlite_to_web.py
+
+Reads `music_facts.db` and generates a self-contained `music_map.html` with a D3.js v7 force-directed graph. Nodes are unique `(type, object)` pairs, sized by number of facts and coloured by type. Edges connect objects that appear in the same source file. Clicking a node shows all its facts in a sidebar. Includes type-filter checkboxes and a search box.
