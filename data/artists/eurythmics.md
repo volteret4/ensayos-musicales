@@ -1,0 +1,9 @@
+# artist - Eurythmics
+
+## genres
+- New Wave
+- Post-Disco New Wave
+
+## curiosities
+**Post-Disco New Wave Category (Early 1980s)** : Identified as a Post-Disco New Wave band.
+

@@ -1,0 +1,24 @@
+# genre - New Wave
+
+## curiosities
+**"Second British Invasion" (Early 1980s)** : MTV acquired many British promotional films, leading to numerous British artists appearing on American TV screens and being labeled as New Wave.
+**British New Wave Description** : One description for this era of British music noted a shift from "F you" to "we're F'd" (implying a change from aggression to pessimism).
+**Broad Definition (Early 1980s)** : New Wave encompassed a wide range of sounds, generally anything progressive with more in common with punk than traditional blues-based rock and roll.
+**Continued Influence and Fragmentation** : New Wave's ideas continue to influence music, fragmenting into subgenres like electric clash, cold wave, dark wave, synth wave, chill wave, post disco, new pop.
+**Decline of Term (By 1985)** : By 1985, the concept of New Wave became too broad, unwieldy, and meaningless as genre differences blurred and commonalities disappeared.
+**Early Musical Application (Early 1970s)** : Some writers began referring to groups like The Velvet Underground and New York Dolls as "New Wave" or "a New Wave in rock," applying the film definition to artists rejecting blues-based rock and roll norms.
+**First Era/Wave (c. 1977-1979)** : Appeared as punk was peaking, characterized as post-punk. British examples were spiky, angular, and agitated, with some bands being happy and fun, wearing sharp suits and skinny ties, playing choppy, sharp-sounding pop with clever, sometimes geeky lyrics.
+**First Revival – "New Wave of New Wave" (Early 1990s)** : A British phenomenon, the term was coined by music journalists (poached from "new wave of British heavy metal"). Bands unabashedly mined material from the 1977-80 period (e.g., Wire, XTC, The Clash, Bowie, Blondie, The Stranglers) for inspiration. This revival was short-lived and soon subsumed into Brit Pop.
+**Interchangeable with Punk (Late 1977)** : By the end of 1977, "punk" and "New Wave" were sometimes used interchangeably.
+**MTV's Defining Influence (August 1, 1981)** : The debut of MTV established what New Wave was in the early 1980s. Its visual nature (makeup, wild clothes, crazy personas) made second-wave New Wave bands perfect for television, leading to sales spikes for MTV-featured bands.
+**Malcolm McLaren's Popularization (Late 1977)** : Malcolm McLaren, former manager of the New York Dolls, started using the term to describe cool new bands that weren't quite punk.
+**Melody and Pop Songwriting** : Melody and pop-style songwriting elements were a significant part of the New Wave movement.
+**North American Reception of Punk (Late 1970s)** : North America initially did not embrace punk as it did in the UK, considering it too political, class-oriented, crass, vulgar, and violent, which negatively affected bands like The Ramones and The Clash.
+**Origin of Term – French Cinema (Late 1950s)** : The term "New Wave" (Nouvelle Vague in French) first applied to a new generation of French filmmakers like Jean-Luc Godard and François Truffaut who rejected traditional cinema.
+**Recommended Reading** : "Rip It Up and Start Again, Post Punk 1978 to 1984" by Simon Friff provides a deep dive into New Wave and Post Punk.
+**Second Era/Wave – Synth Integration (c. 1980 onwards)** : Began in earnest around 1980 with the widespread introduction of synthesizers, which became cheap, portable, and powerful enough for everyday musicians, many of whom had no formal training but enjoyed creating new sounds.
+**Second Revival – Early 2000s** : A full-on revival emerged, featuring a new generation of bands (e.g., The Killers, Franz Ferdinand, Bloc Party, Kaiser Chiefs, Ladytron, The Ting Tings, The Fools, Yeah Yeah Yeahs, Interpol, The Rapture, The Bravery, Hot Hot Heat) inspired by artists like New Order, The Cure, Duran Duran, Bowie, Depeche Mode, The Smiths, Joy Division, The Fall, Blondie, The Stranglers, Gang of Four, Squeeze, Elvis Costello, XTC, and The Cars. British music papers often referred to this as "New New Wave."
+**Sire Records Marketing Strategy (Late 1970s)** : Seymour Stein of Sire Records co-opted the term "New Wave" to market his new signings (e.g., The Ramones, The Dead Boys, The Talking Heads, The Pretenders, The Undertones, Echo & The Bunnymen), launching a "Don't Call It Punk" campaign to differentiate the American version.
+**Stripped Punk DNA** : Some New Wave acts, like Culture Club and Wham!, had their punk DNA stripped away, resulting in a different sound.
+**Subgenres Emergence (Early 1980s)** : As the scene grew, subgenres emerged, including Synthpop, New Romantics, "darker guitars" (e.g., Public Image Limited, Joy Division, The Cure), "dorky bands" (e.g., Devo, The B-52s, Oingo Boingo), and Post-Disco New Wave (e.g., New Order, Dead or Alive, Eurythmics, The Human League).
+

@@ -177,14 +177,14 @@ def parse_file(filepath, conn):
                 section  = 'curiosities'
                 continue
 
-            # Skip any other # header lines
-            if s.startswith('#'):
-                continue
-
             # ── Sub-header: ## section ─────────────────────────────────────
             m = re.match(r'^##\s+(.+)', s, re.IGNORECASE)
             if m:
                 section = m.group(1).strip().lower().replace(' ', '_')
+                continue
+
+            # Skip any other # header lines
+            if s.startswith('#'):
                 continue
 
             if ctx_type is None or section is None:

@@ -43,6 +43,9 @@ def load_data():
         conn.close()
         return [], []
 
+    mention_item_keys    = set()  # (source_artist_id, item_name)
+    mention_targets_map  = {}     # (source_artist_id, item_name) → [{id, name}, …]
+
     # ── Artists ───────────────────────────────────────────────────────────────
     artists = {}
     for aid, name, is_primary in conn.execute(
@@ -65,6 +68,18 @@ def load_data():
             if member_id in artists and band_id in artists:
                 artists[member_id]['member_of'].append(artists[band_id]['name'])
 
+    # ── Cross-reference mention keys + targets ───────────────────────────────
+    if 'cross_references' in all_tables:
+        for src_id, tgt_id, iname in conn.execute(
+            'SELECT DISTINCT source_artist_id, target_artist_id, item_name FROM cross_references'
+        ):
+            if src_id in artists:
+                mention_item_keys.add((src_id, iname))
+            if src_id in artists and tgt_id in artists:
+                mention_targets_map.setdefault((src_id, iname), []).append(
+                    {'id': tgt_id, 'name': artists[tgt_id]['name']}
+                )
+
     # ── Entity curiosities map ─────────────────────────────────────────────────
     # (context_type, context_id) → [{title, description, source_file}, ...]
     entity_curiosities = {}
@@ -75,7 +90,7 @@ def load_data():
         ):
             key = (ctx_type, ctx_id)
             entity_curiosities.setdefault(key, []).append(
-                {'description': f'{title}: {desc}', 'source_file': sf}
+                {'title': title, 'description': f'{title}: {desc}', 'source_file': sf}
             )
 
     # ── Albums ────────────────────────────────────────────────────────────────
@@ -87,6 +102,8 @@ def load_data():
             if artist_id in artists:
                 album_items[(album_id, artist_id)] = {
                     'id': album_id, 'name': name, 'facts': [],
+                    'is_mention_source':  (artist_id, name) in mention_item_keys,
+                    'mentioned_artists':  mention_targets_map.get((artist_id, name), []),
                 }
         for album_id, artist_id, desc, sf in conn.execute(
             'SELECT a.id, a.artist_id, d.description, d.source_file '
@@ -107,6 +124,8 @@ def load_data():
             if artist_id in artists:
                 song_items[(song_id, artist_id)] = {
                     'id': song_id, 'name': name, 'facts': [],
+                    'is_mention_source':  (artist_id, name) in mention_item_keys,
+                    'mentioned_artists':  mention_targets_map.get((artist_id, name), []),
                 }
         for song_id, artist_id, desc, sf in conn.execute(
             'SELECT s.id, s.artist_id, d.description, d.source_file '
@@ -119,17 +138,17 @@ def load_data():
             artists[artist_id]['categories'].setdefault('songs', []).append(item)
 
     # ── Artist curiosities ────────────────────────────────────────────────────
-    for facts in [entity_curiosities.get(('artist', aid), []) for aid in artists]:
-        pass  # will be done per-artist below
     for aid in artists:
         facts = entity_curiosities.get(('artist', aid), [])
         if facts:
-            # Group into one item per curiosity entry
             for i, f in enumerate(facts):
+                title = f.get('title', f['description'].split(':')[0]).strip()
                 item = {
-                    'id':    aid * 10000 + i,
-                    'name':  f['description'].split(':')[0][:80],
-                    'facts': [f],
+                    'id':               aid * 10000 + i,
+                    'name':             title[:80],
+                    'facts':            [f],
+                    'is_mention_source': (aid, title) in mention_item_keys,
+                    'mentioned_artists': mention_targets_map.get((aid, title), []),
                 }
                 artists[aid]['categories'].setdefault('curiosities', []).append(item)
 
@@ -185,6 +204,25 @@ def load_data():
                 seen.add(key)
                 relations.append({'source_id': band_id, 'target_id': mid, 'type': 'member'})
 
+    # ── Cross-reference relations (mention edges between artists) ────────────
+    if 'cross_references' in all_tables:
+        # Count item_type occurrences per undirected pair
+        pair_type_counts = {}
+        for src_id, tgt_id, itype in conn.execute(
+            'SELECT source_artist_id, target_artist_id, item_type FROM cross_references'
+        ):
+            pair = (min(src_id, tgt_id), max(src_id, tgt_id))
+            pair_type_counts.setdefault(pair, {})
+            pair_type_counts[pair][itype] = pair_type_counts[pair].get(itype, 0) + 1
+
+        _type_to_cat = {'album': 'albums', 'song': 'songs', 'curiosity': 'curiosities'}
+        for (s, t), counts in pair_type_counts.items():
+            if s not in artists or t not in artists:
+                continue
+            dominant = max(counts, key=counts.get)
+            color = TYPE_COLORS.get(_type_to_cat.get(dominant, ''), DEFAULT_COLOR)
+            relations.append({'source_id': s, 'target_id': t, 'type': 'mention', 'color': color})
+
     conn.close()
     return list(artists.values()), relations
 
@@ -234,7 +272,7 @@ body { font-family: "Segoe UI", sans-serif; background: #1a1a2e; color: #eee;
 #search:focus { border-color: #e94560; }
 #ac-list { display: none; position: absolute; top: 100%; left: 0; right: 0;
            background: #0f3460; border: 1px solid #1a3a7e; border-top: none;
-           border-radius: 0 0 6px 6px; max-height: 220px; overflow-y: auto; z-index: 200; }
+           border-radius: 0 0 6px 6px; max-height: 380px; overflow-y: auto; z-index: 200; }
 #ac-list.open { display: block; }
 .ac-item { padding: 7px 10px; font-size: 0.82rem; cursor: pointer;
            border-bottom: 1px solid #16213e; }
@@ -256,6 +294,17 @@ body { font-family: "Segoe UI", sans-serif; background: #1a1a2e; color: #eee;
             font-style: italic; color: #aaa; }
 #panel .empty { color: #555; font-size: 0.82rem; }
 
+#focus-bar { display: none; flex-direction: column; gap: 6px;
+             padding-bottom: 10px; border-bottom: 1px solid #0f3460; }
+#focus-bar.active { display: flex; }
+#focus-back { background: #0f3460; color: #eee; border: 1px solid #1a3a7e;
+              border-radius: 5px; padding: 5px 10px; cursor: pointer;
+              font-size: 0.8rem; text-align: left; }
+#focus-back:hover { background: #16213e; color: #e94560; }
+#focus-depth-row { display: flex; align-items: center; gap: 8px; }
+#focus-label { font-size: 0.78rem; color: #aaa; white-space: nowrap; }
+#focus-slider { flex: 1; accent-color: #e94560; cursor: pointer; }
+
 #graph { flex: 1; }
 svg { width: 100%; height: 100%; }
 .node { cursor: pointer; }
@@ -265,9 +314,15 @@ svg { width: 100%; height: 100%; }
 .node.selected > circle { stroke: #fff !important; stroke-width: 3px !important; }
 .node.member-linked > circle { stroke: #e94560 !important; stroke-width: 2.5px !important;
                                 stroke-dasharray: 4 2; }
-line.edge-solid  { stroke: #2a3a5e; stroke-width: 1.5px; }
-line.edge-member { stroke: #e67e22; stroke-width: 1px; stroke-dasharray: 6 3; opacity: 0.5; }
-line.edge-dashed { stroke: #555;    stroke-width: 1px; stroke-dasharray: 6 3; opacity: 0.4; }
+line.edge-solid   { stroke: #2a3a5e; stroke-width: 1.5px; }
+line.edge-member  { stroke: #e67e22; stroke-width: 1px; stroke-dasharray: 6 3; opacity: 0.5; }
+line.edge-mention { stroke: #8e44ad; stroke-width: 1px; stroke-dasharray: 3 5; opacity: 0.35; }
+line.edge-dashed  { stroke: #555;    stroke-width: 1px; stroke-dasharray: 6 3; opacity: 0.4; }
+.node.mention-source > circle { stroke: #3498db !important; stroke-width: 2px !important;
+                                 stroke-dasharray: 3 3; }
+.artist-link { color: #e94560; font-weight: 600; cursor: pointer;
+               text-decoration: none; border-bottom: 1px dotted #e94560; }
+.artist-link:hover { color: #fff; border-bottom-color: #fff; }
 '''
 
 # ── JS ────────────────────────────────────────────────────────────────────────
@@ -283,6 +338,30 @@ const DEFAULT_COLOR = /*DEFAULT_COLOR*/'#bdc3c7';
 const expandedArtists    = new Set();
 const expandedCategories = new Set();
 let   selectedNodeId     = null;
+let   focusArtistId      = null;
+let   focusDepth         = 1;
+
+// ── Adjacency list for BFS (artist-to-artist relations) ──────────────────────
+const artistAdj = {};
+for (const rel of RELATIONS) {
+  (artistAdj[rel.source_id] = artistAdj[rel.source_id] || new Set()).add(rel.target_id);
+  (artistAdj[rel.target_id] = artistAdj[rel.target_id] || new Set()).add(rel.source_id);
+}
+
+function bfsArtists(startId, depth) {
+  const visited = new Set([startId]);
+  let frontier = [startId];
+  for (let d = 0; d < depth && frontier.length; d++) {
+    const next = [];
+    for (const id of frontier) {
+      for (const nb of (artistAdj[id] || [])) {
+        if (!visited.has(nb)) { visited.add(nb); next.push(nb); }
+      }
+    }
+    frontier = next;
+  }
+  return visited;
+}
 
 // ── SVG / zoom / sim ──────────────────────────────────────────────────────────
 const svgEl = document.getElementById('svg');
@@ -296,15 +375,19 @@ svg.call(zoom);
 
 const sim = d3.forceSimulation()
   .force('link',    d3.forceLink().id(d => d.id)
-                       .distance(d => d.etype === 'member' ? 260
-                                    : d.etype === 'cat'    ? 110
-                                    : d.etype === 'item'   ? 55 : 200)
-                       .strength(d => d.etype === 'member' ? 0.03
-                                    : d.etype === 'cat'    ? 0.5  : 0.5))
+                       .distance(d => d.etype === 'member'  ? 240
+                                    : d.etype === 'mention' ? 280
+                                    : d.etype === 'cat'     ? 90
+                                    : d.etype === 'item'    ? 45 : 180)
+                       .strength(d => d.etype === 'member'  ? 0.03
+                                    : d.etype === 'mention' ? 0.01
+                                    : d.etype === 'cat'     ? 0.9
+                                    : d.etype === 'item'    ? 0.7 : 0.5))
   .force('charge',  d3.forceManyBody().strength(d =>
-    d.ntype === 'artist' ? -600 : d.ntype === 'category' ? -200 : -80))
-  .force('center',  d3.forceCenter(W() / 2, H() / 2))
-  .force('collide', d3.forceCollide(d => (d.r || 8) + 6));
+    d.ntype === 'artist' ? -220 : d.ntype === 'category' ? -60 : -20))
+  .force('x',       d3.forceX(W() / 2).strength(0.02))
+  .force('y',       d3.forceY(H() / 2).strength(0.02))
+  .force('collide', d3.forceCollide(d => (d.r || 8) + 4));
 
 const pos = {};
 sim.on('tick', () => {
@@ -318,20 +401,28 @@ sim.on('tick', () => {
 function computeGraph() {
   const nodes = [], edges = [];
 
-  // Artist nodes (primary always; non-primary only if explicitly expanded)
+  // Artist nodes
+  // Focus mode: only artists in BFS set (all expanded)
+  // Normal mode: all primary artists; non-primary only if expanded
   for (const a of ARTISTS) {
-    if (a.is_primary || expandedArtists.has(a.id)) {
+    const visible = focusArtistId !== null
+      ? expandedArtists.has(a.id)
+      : (a.is_primary || expandedArtists.has(a.id));
+    if (visible) {
       nodes.push({ id: `a_${a.id}`, ntype: 'artist', label: a.name,
                    data: a, r: 20, color: COLORS.artists || '#e74c3c' });
     }
   }
 
-  // Member relation edges (between primary artist nodes)
+  // Artist-to-artist relation edges (member, mention)
+  // In focus mode, only between artists in the focused set
   for (const rel of RELATIONS) {
-    if (rel.type === 'member') {
+    if (rel.type === 'member' || rel.type === 'mention') {
+      if (focusArtistId !== null &&
+          (!expandedArtists.has(rel.source_id) || !expandedArtists.has(rel.target_id))) continue;
       edges.push({ id: `rel_${rel.source_id}_${rel.target_id}`,
                    source: `a_${rel.source_id}`, target: `a_${rel.target_id}`,
-                   etype: 'member' });
+                   etype: rel.type, color: rel.color || null });
     }
   }
 
@@ -356,7 +447,9 @@ function computeGraph() {
           const linked = item.linked_artist_id ?? null;
           nodes.push({ id: itemId, ntype: 'item', label: item.name,
                        facts: item.facts, catType, artistId,
-                       linked_artist_id: linked,
+                       linked_artist_id:  linked,
+                       is_mention_source: item.is_mention_source ?? false,
+                       mentioned_artists: item.mentioned_artists ?? [],
                        r: linked != null ? 11 : 7,
                        color: COLORS[catType] || DEFAULT_COLOR });
           edges.push({ id: `e_${itemId}`, source: catId, target: itemId, etype: 'item' });
@@ -375,22 +468,18 @@ function render(fromClick = false) {
   for (const n of nodes) {
     if (pos[n.id]) {
       n.x = pos[n.id].x; n.y = pos[n.id].y;
-      if (fromClick) { n.fx = n.x; n.fy = n.y; }
     } else if (n.ntype === 'category' && pos[`a_${n.artistId}`]) {
       const p = pos[`a_${n.artistId}`];
-      n.x = p.x + (Math.random() - 0.5) * 60; n.y = p.y + (Math.random() - 0.5) * 60;
+      n.x = p.x + (Math.random() - 0.5) * 20; n.y = p.y + (Math.random() - 0.5) * 20;
     } else if (n.ntype === 'item') {
       const p = pos[`cat_${n.artistId}_${n.catType}`];
-      if (p) { n.x = p.x + (Math.random() - 0.5) * 40; n.y = p.y + (Math.random() - 0.5) * 40; }
+      if (p) { n.x = p.x + (Math.random() - 0.5) * 15; n.y = p.y + (Math.random() - 0.5) * 15; }
     }
   }
 
   sim.nodes(nodes);
   sim.force('link').links(edges);
-  sim.alpha(fromClick ? 0.25 : 0.6).restart();
-  if (fromClick) {
-    setTimeout(() => sim.nodes().forEach(n => { n.fx = null; n.fy = null; }), 600);
-  }
+  sim.alpha(fromClick ? 0.2 : 0.6).restart();
 
   // Edges
   g.selectAll('line.edge-solid').data(
@@ -400,6 +489,11 @@ function render(fromClick = false) {
   g.selectAll('line.edge-member').data(
     edges.filter(e => e.etype === 'member'), e => e.id
   ).join('line').attr('class', 'edge-member');
+
+  g.selectAll('line.edge-mention').data(
+    edges.filter(e => e.etype === 'mention'), e => e.id
+  ).join('line').attr('class', 'edge-mention')
+               .attr('stroke', d => d.color || '#8e44ad');
 
   // Nodes
   const nodeGroups = g.selectAll('.node').data(nodes, d => d.id)
@@ -435,8 +529,9 @@ function render(fromClick = false) {
       (d.ntype === 'artist'   && expandedArtists.has(d.data?.id)) ||
       (d.ntype === 'category' && expandedCategories.has(`${d.artistId}_${d.catType}`))
     )
-    .classed('selected',      d => d.id === selectedNodeId)
-    .classed('member-linked', d => d.linked_artist_id != null);
+    .classed('selected',       d => d.id === selectedNodeId)
+    .classed('member-linked',  d => d.linked_artist_id != null)
+    .classed('mention-source', d => d.is_mention_source === true);
 }
 
 // ── Interaction ───────────────────────────────────────────────────────────────
@@ -457,6 +552,9 @@ function onNodeClick(event, d) {
       }
     }
     showArtistPanel(d.data);
+    // Pin this artist while neighbors rearrange, then release
+    d.fx = d.x; d.fy = d.y;
+    setTimeout(() => { d.fx = null; d.fy = null; }, 1500);
   } else if (d.ntype === 'category') {
     const key = `${d.artistId}_${d.catType}`;
     expandedCategories.has(key) ? expandedCategories.delete(key) : expandedCategories.add(key);
@@ -490,6 +588,63 @@ function activateArtist(artistId) {
   }, 350);
 }
 
+function applyFocus() {
+  const ids = bfsArtists(focusArtistId, focusDepth);
+  expandedArtists.clear();
+  expandedCategories.clear();
+  for (const id of ids) {
+    expandedArtists.add(id);
+    const a = ARTISTS.find(x => x.id === id);
+    if (a) {
+      for (const cat of Object.keys(a.categories)) {
+        expandedCategories.add(`${id}_${cat}`);
+      }
+    }
+  }
+  render(true);
+}
+
+function focusOnArtist(artistId) {
+  focusArtistId = artistId;
+  document.getElementById('focus-slider').value = focusDepth;
+  document.getElementById('focus-label').textContent = `Profundidad: ${focusDepth}`;
+  document.getElementById('focus-bar').classList.add('active');
+  applyFocus();
+  setTimeout(() => {
+    const node = sim.nodes().find(n => n.id === `a_${artistId}`);
+    if (!node) return;
+    const scale = 1.8;
+    svg.transition().duration(600).call(
+      zoom.transform,
+      d3.zoomIdentity.translate(W() / 2 - node.x * scale, H() / 2 - node.y * scale).scale(scale)
+    );
+  }, 350);
+}
+
+function navigateToArtist(artistId) {
+  const node = sim.nodes().find(n => n.id === `a_${artistId}`);
+  if (node) {
+    const scale = 1.8;
+    svg.transition().duration(600).call(
+      zoom.transform,
+      d3.zoomIdentity.translate(W() / 2 - node.x * scale, H() / 2 - node.y * scale).scale(scale)
+    );
+  } else {
+    focusOnArtist(artistId);
+  }
+}
+
+function clearFocus() {
+  focusArtistId = null;
+  focusDepth = 1;
+  document.getElementById('focus-slider').value = 1;
+  document.getElementById('focus-label').textContent = 'Profundidad: 1';
+  document.getElementById('focus-bar').classList.remove('active');
+  expandedArtists.clear();
+  expandedCategories.clear();
+  render(true);
+}
+
 function showArtistPanel(artist) {
   const color  = COLORS.artists || '#e74c3c';
   const catCount = Object.keys(artist.categories).length;
@@ -504,6 +659,21 @@ function showArtistPanel(artist) {
     </p>`;
 }
 
+function linkifyArtists(text, mentionedArtists) {
+  if (!mentionedArtists || !mentionedArtists.length) return text;
+  // Sort longest name first to avoid partial replacements
+  const sorted = [...mentionedArtists].sort((a, b) => b.name.length - a.name.length);
+  let html = text;
+  for (const { id, name } of sorted) {
+    const esc = name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    html = html.replace(
+      new RegExp('\\b' + esc + '\\b', 'gi'),
+      `<a class="artist-link" data-id="${id}">${name}</a>`
+    );
+  }
+  return html;
+}
+
 function showItemPanel(d) {
   const color = COLORS[d.catType] || DEFAULT_COLOR;
   document.getElementById('panel').innerHTML = `
@@ -513,7 +683,7 @@ function showItemPanel(d) {
     </p>
     ${d.facts.map(f => `
       <div class="fact-card" style="border-left-color:${color}">
-        ${f.description}
+        ${linkifyArtists(f.description, d.mentioned_artists)}
         ${f.source_file ? `<div class="fact-src">📂 ${f.source_file}</div>` : ''}
       </div>`).join('')}`;
 }
@@ -523,6 +693,13 @@ svg.on('click', () => {
   document.getElementById('panel').innerHTML =
     '<p class="empty">Haz clic en un artista para explorar.</p>';
   render(true);
+});
+
+document.getElementById('panel').addEventListener('click', e => {
+  const link = e.target.closest('.artist-link');
+  if (!link) return;
+  e.preventDefault();
+  navigateToArtist(+link.dataset.id);
 });
 
 // ── Autocomplete search ───────────────────────────────────────────────────────
@@ -540,10 +717,12 @@ function highlight(text, q) {
 function buildAcList(q) {
   acList.innerHTML = '';
   acActive = -1;
-  if (!q) { acList.classList.remove('open'); return; }
-  const matches = ARTISTS.filter(a => a.is_primary && a.name.toLowerCase().includes(q.toLowerCase()));
+  const primaryArtists = ARTISTS.filter(a => a.is_primary);
+  const matches = q
+    ? primaryArtists.filter(a => a.name.toLowerCase().includes(q.toLowerCase()))
+    : [...primaryArtists].sort((a, b) => a.name.localeCompare(b.name));
   if (!matches.length) { acList.classList.remove('open'); return; }
-  matches.slice(0, 12).forEach(artist => {
+  matches.slice(0, q ? 15 : 500).forEach(artist => {
     const div = document.createElement('div');
     div.className = 'ac-item';
     div.innerHTML = highlight(artist.name, q);
@@ -554,12 +733,13 @@ function buildAcList(q) {
 }
 
 function selectAcItem(artist) {
-  searchEl.value = artist.name;
+  searchEl.value = '';
   acList.classList.remove('open');
-  activateArtist(artist.id);
+  focusOnArtist(artist.id);
 }
 
 searchEl.addEventListener('input', () => buildAcList(searchEl.value));
+searchEl.addEventListener('focus', () => buildAcList(searchEl.value));
 searchEl.addEventListener('keydown', e => {
   const items = acList.querySelectorAll('.ac-item');
   if (!items.length) return;
@@ -580,8 +760,18 @@ document.addEventListener('click', e => {
 });
 
 window.addEventListener('resize', () => {
-  sim.force('center', d3.forceCenter(W() / 2, H() / 2)).restart();
+  sim.force('x', d3.forceX(W() / 2).strength(0.02))
+     .force('y', d3.forceY(H() / 2).strength(0.02))
+     .restart();
 });
+
+// ── Focus bar controls ────────────────────────────────────────────────────────
+document.getElementById('focus-slider').addEventListener('input', function() {
+  focusDepth = +this.value;
+  document.getElementById('focus-label').textContent = `Profundidad: ${focusDepth}`;
+  if (focusArtistId !== null) applyFocus();
+});
+document.getElementById('focus-back').addEventListener('click', clearFocus);
 
 // ── Boot ──────────────────────────────────────────────────────────────────────
 render();
@@ -616,6 +806,13 @@ def build_html(artists, relations):
 <body>
 <div id="sidebar">
   <h1>🎵 Music Map</h1>
+  <div id="focus-bar">
+    <button id="focus-back">← Mapa completo</button>
+    <div id="focus-depth-row">
+      <span id="focus-label">Profundidad: 1</span>
+      <input id="focus-slider" type="range" min="1" max="10" value="1">
+    </div>
+  </div>
   <div id="search-wrap">
     <input id="search" type="text" placeholder="Buscar artista...">
     <div id="ac-list"></div>
