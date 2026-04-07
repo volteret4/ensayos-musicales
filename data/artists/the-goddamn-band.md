@@ -7,6 +7,6 @@
 - Members of Dinner is Ruined
 
 ## curiosities
-**Formation for Koch Machine Glow (2001)** : This band was assembled by Gord Downey to back him on his first solo record, "Koch Machine Glow."
-**Renamed Country of Miracles (2003)** : For Gord Downey's second solo album, "The Battle of the Nudes," the group was renamed Country of Miracles.
+**Formation for Koch Machine Glow (2001)** : This band was assembled by Gord Downey to back him on his first solo record, "Koch Machine Glow." ← https://www.youtube.com/watch?v=Um_KEEcCeT4
+**Renamed Country of Miracles (2003)** : For Gord Downey's second solo album, "The Battle of the Nudes," the group was renamed Country of Miracles. ← https://www.youtube.com/watch?v=Um_KEEcCeT4
 

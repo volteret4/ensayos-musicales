@@ -4,6 +4,6 @@
 - Post-Punk
 
 ## curiosities
-**Influence on "New Wave of New Wave"** : Groups in the early 1990s "new wave of new wave" movement mined their material for inspiration.
-**Lawsuit Against Elastica** : Sued Elastica for "nicking bits" of their old songs.
+**Influence on "New Wave of New Wave"** : Groups in the early 1990s "new wave of new wave" movement mined their material for inspiration. ← https://www.youtube.com/watch?v=9CNNsqXiL6U
+**Lawsuit Against Elastica** : Sued Elastica for "nicking bits" of their old songs. ← https://www.youtube.com/watch?v=9CNNsqXiL6U
 

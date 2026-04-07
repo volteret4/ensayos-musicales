@@ -4,5 +4,5 @@
 - Scott Weiland
 
 ## curiosities
-**Band Name Misnomer** : Despite the name, the band contained no women.
+**Band Name Misnomer** : Despite the name, the band contained no women. ← https://www.youtube.com/watch?v=TDwagoyMvck
 

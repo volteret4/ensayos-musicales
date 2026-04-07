@@ -1,8 +1,5 @@
-# artist - Public Image Ltd
+# artist - Public Image Ltd.
 
-## members
-- Johnny Lydon
-
-## songs
-**Death Disco (1979)** : This song was played as an example of Johnny Lydon's work, after discussing how he narrowly missed the Lockerbie bombing in 1988.
+## curiosities
+**Dark Sound (Post-Punk Era)** : John Lydon's Public Image Ltd. was noted for its dark sound, fitting into the coalescing dark music scene that preceded the full emergence of goth rock. ← https://www.youtube.com/watch?v=XaLsZFLrMnI
 

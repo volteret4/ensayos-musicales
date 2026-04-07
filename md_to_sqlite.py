@@ -5,9 +5,9 @@ Reads all .md files from data/ (produced by merge_resumenes.py) and builds
 music_facts.db with a fully normalised schema.
 
 Schema overview:
-  artists, genres, labels, venues, instruments          — entity tables
+  artists, genres, labels, concerts, instruments        — entity tables
   band_members, artist_genres, artist_labels,
-  artist_venues, artist_instruments                     — junction tables
+  artist_concerts, artist_instruments                   — junction tables
   albums  + albums_data                                 — per-artist albums
   songs   + songs_data                                  — per-artist songs
   curiosities                                           — facts with context_type / context_id
@@ -41,7 +41,7 @@ CREATE TABLE IF NOT EXISTS labels (
     id   INTEGER PRIMARY KEY AUTOINCREMENT,
     name TEXT NOT NULL UNIQUE
 );
-CREATE TABLE IF NOT EXISTS venues (
+CREATE TABLE IF NOT EXISTS concerts (
     id   INTEGER PRIMARY KEY AUTOINCREMENT,
     name TEXT NOT NULL UNIQUE
 );
@@ -65,10 +65,10 @@ CREATE TABLE IF NOT EXISTS artist_labels (
     label_id  INTEGER NOT NULL REFERENCES labels(id),
     PRIMARY KEY (artist_id, label_id)
 );
-CREATE TABLE IF NOT EXISTS artist_venues (
-    artist_id INTEGER NOT NULL REFERENCES artists(id),
-    venue_id  INTEGER NOT NULL REFERENCES venues(id),
-    PRIMARY KEY (artist_id, venue_id)
+CREATE TABLE IF NOT EXISTS artist_concerts (
+    artist_id  INTEGER NOT NULL REFERENCES artists(id),
+    concert_id INTEGER NOT NULL REFERENCES concerts(id),
+    PRIMARY KEY (artist_id, concert_id)
 );
 CREATE TABLE IF NOT EXISTS artist_instruments (
     artist_id     INTEGER NOT NULL REFERENCES artists(id),
@@ -118,6 +118,20 @@ CREATE TABLE IF NOT EXISTS curiosities (
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
+def split_source(raw, fallback):
+    """Split embedded ' ← podcast | url' from description.
+    Returns (clean_description, source_file_str).
+    source_file_str format: 'podcast_name|url' or fallback path if no source."""
+    if ' ← ' in raw:
+        desc_part, src_part = raw.split(' ← ', 1)
+        fields = [x.strip() for x in src_part.split(' | ', 1)]
+        name = fields[0]
+        url  = fields[1] if len(fields) > 1 else ''
+        sf   = f'{name}|{url}' if url else (name if name else fallback)
+        return desc_part.strip(), sf
+    return raw.strip(), fallback
+
+
 def get_or_insert(c, table, name):
     c.execute(f'INSERT OR IGNORE INTO {table} (name) VALUES (?)', (name,))
     return c.execute(f'SELECT id FROM {table} WHERE name = ?', (name,)).fetchone()[0]
@@ -137,7 +151,7 @@ def ensure_artist(c, name, is_primary=True):
 # ── File parser ───────────────────────────────────────────────────────────────
 
 # Section names that contain bare-name lists (not **Title** : desc entries)
-LIST_SECTIONS = {'members', 'member_of', 'genres', 'labels', 'venues', 'instruments'}
+LIST_SECTIONS = {'members', 'member_of', 'genres', 'labels', 'concerts', 'instruments'}
 
 
 def parse_file(filepath, conn):
@@ -156,7 +170,7 @@ def parse_file(filepath, conn):
 
             # ── Top-level header: # artist - Name  /  # genre - Name  etc. ──
             m = re.match(
-                r'^#\s+(artist|genre|label|venue|instrument)\s+-\s+(.+)',
+                r'^#\s+(artist|genre|label|concert|instrument)\s+-\s+(.+)',
                 s, re.IGNORECASE,
             )
             if m:
@@ -194,11 +208,12 @@ def parse_file(filepath, conn):
             if ctx_type == 'standalone':
                 me = ENTRY_RE.match(s)
                 if me:
+                    desc, sf = split_source(me.group(2).strip(), rel)
                     c.execute(
                         'INSERT OR IGNORE INTO curiosities '
                         '(title, description, context_type, context_id, source_file) '
                         'VALUES (?,?,?,?,?)',
-                        (me.group(1).strip(), me.group(2).strip(), 'general', 0, rel),
+                        (me.group(1).strip(), desc, 'general', 0, sf),
                     )
                 continue
 
@@ -237,11 +252,11 @@ def parse_file(filepath, conn):
                             (ctx_id, lid),
                         )
 
-                    elif section == 'venues':
-                        vid = get_or_insert(c, 'venues', name)
+                    elif section == 'concerts':
+                        cid = get_or_insert(c, 'concerts', name)
                         c.execute(
-                            'INSERT OR IGNORE INTO artist_venues (artist_id, venue_id) VALUES (?,?)',
-                            (ctx_id, vid),
+                            'INSERT OR IGNORE INTO artist_concerts (artist_id, concert_id) VALUES (?,?)',
+                            (ctx_id, cid),
                         )
 
                     elif section == 'instruments':
@@ -255,8 +270,8 @@ def parse_file(filepath, conn):
                     me = ENTRY_RE.match(s)
                     if not me:
                         continue
-                    title = me.group(1).strip()
-                    desc  = me.group(2).strip()
+                    title        = me.group(1).strip()
+                    desc, sf     = split_source(me.group(2).strip(), rel)
 
                     if section == 'albums':
                         c.execute(
@@ -269,7 +284,7 @@ def parse_file(filepath, conn):
                         ).fetchone()[0]
                         c.execute(
                             'INSERT OR IGNORE INTO albums_data (album_id, description, source_file) VALUES (?,?,?)',
-                            (album_id, desc, rel),
+                            (album_id, desc, sf),
                         )
 
                     elif section == 'songs':
@@ -283,7 +298,7 @@ def parse_file(filepath, conn):
                         ).fetchone()[0]
                         c.execute(
                             'INSERT OR IGNORE INTO songs_data (song_id, description, source_file) VALUES (?,?,?)',
-                            (song_id, desc, rel),
+                            (song_id, desc, sf),
                         )
 
                     elif section == 'curiosities':
@@ -291,7 +306,7 @@ def parse_file(filepath, conn):
                             'INSERT OR IGNORE INTO curiosities '
                             '(title, description, context_type, context_id, source_file) '
                             'VALUES (?,?,?,?,?)',
-                            (title, desc, 'artist', ctx_id, rel),
+                            (title, desc, 'artist', ctx_id, sf),
                         )
                 continue
 
@@ -299,11 +314,12 @@ def parse_file(filepath, conn):
             if section == 'curiosities':
                 me = ENTRY_RE.match(s)
                 if me:
+                    desc, sf = split_source(me.group(2).strip(), rel)
                     c.execute(
                         'INSERT OR IGNORE INTO curiosities '
                         '(title, description, context_type, context_id, source_file) '
                         'VALUES (?,?,?,?,?)',
-                        (me.group(1).strip(), me.group(2).strip(), ctx_type, ctx_id, rel),
+                        (me.group(1).strip(), desc, ctx_type, ctx_id, sf),
                     )
 
     conn.commit()
@@ -336,12 +352,12 @@ def build_db():
         ('  member-only',       'SELECT COUNT(*) FROM artists WHERE is_primary=0'),
         ('genres',              'SELECT COUNT(*) FROM genres'),
         ('labels',              'SELECT COUNT(*) FROM labels'),
-        ('venues',              'SELECT COUNT(*) FROM venues'),
+        ('concerts',            'SELECT COUNT(*) FROM concerts'),
         ('instruments',         'SELECT COUNT(*) FROM instruments'),
         ('band_members',        'SELECT COUNT(*) FROM band_members'),
         ('artist_genres',       'SELECT COUNT(*) FROM artist_genres'),
         ('artist_labels',       'SELECT COUNT(*) FROM artist_labels'),
-        ('artist_venues',       'SELECT COUNT(*) FROM artist_venues'),
+        ('artist_concerts',     'SELECT COUNT(*) FROM artist_concerts'),
         ('artist_instruments',  'SELECT COUNT(*) FROM artist_instruments'),
         ('albums',              'SELECT COUNT(*) FROM albums'),
         ('albums_data',         'SELECT COUNT(*) FROM albums_data'),
@@ -351,7 +367,7 @@ def build_db():
         ('  artist',            "SELECT COUNT(*) FROM curiosities WHERE context_type='artist'"),
         ('  genre',             "SELECT COUNT(*) FROM curiosities WHERE context_type='genre'"),
         ('  label',             "SELECT COUNT(*) FROM curiosities WHERE context_type='label'"),
-        ('  venue',             "SELECT COUNT(*) FROM curiosities WHERE context_type='venue'"),
+        ('  concert',           "SELECT COUNT(*) FROM curiosities WHERE context_type='concert'"),
         ('  instrument',        "SELECT COUNT(*) FROM curiosities WHERE context_type='instrument'"),
         ('  general',           "SELECT COUNT(*) FROM curiosities WHERE context_type='general'"),
     ]

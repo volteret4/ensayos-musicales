@@ -1,5 +1,5 @@
-# instrument - Four track recorder
+# instrument - Four-track recorder
 
 ## curiosities
-**Scott Weiland's Demo Recording (May 1995)** : Scott Weiland used a cheap four-track recorder to create his demo "Chateau Mars" at the Chateau Marmont Hotel.
+**John Frusciante's Demo Tool (Mid-1990s)** : During his period of addiction and hiatus from the Red Hot Chili Peppers, John Frusciante used a four-track recorder to make demos for his solo material. These tapes were the only musical items that survived his house fire in 1996. ← https://www.youtube.com/watch?v=TESrEzVHLCc
 

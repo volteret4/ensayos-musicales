@@ -10,5 +10,5 @@
 - Michigan
 
 ## curiosities
-**Iggy Pop's First Band** : Iggy Pop served as the drummer for this Detroit band in the mid-1960s, playing gigs around Michigan and recording songs.
+**Iggy Pop's First Band** : Iggy Pop served as the drummer for this Detroit band in the mid-1960s, playing gigs around Michigan and recording songs. ← https://www.youtube.com/watch?v=gsSTJWN6cUo
 

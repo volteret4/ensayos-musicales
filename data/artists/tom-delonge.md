@@ -1,0 +1,15 @@
+# artist - Tom DeLonge
+
+## members
+- Tom DeLonge
+
+## curiosities
+**Beliefs on Alien Civilizations and Moon Landing** : DeLonge believes that fossilized remains, potentially from ancient alien civilizations, will be discovered on Mars. While he believes humans did land on the moon, he postulates that theories of the moon landing being faked (e.g., by Stanley Kubrick on a soundstage) were deliberately leaked to distract humanity from a secret discovery made on the moon. ← https://www.youtube.com/watch?v=pmKjZzypzvg
+**CIA Phone Tapping and Zero Point Energy** : DeLonge suspects that the CIA or another intelligence agency once tapped his phone to determine what information he possessed, possibly related to "zero point energy," a concept prominently featured in unidentified aerial phenomena investigations. ← https://www.youtube.com/watch?v=pmKjZzypzvg
+**Government Engagement and Alien Claims** : DeLonge has engaged in discussions with the US government concerning his investigations into UFOs. He claims that an alien life form has already been discovered but is being kept secret from the public. He has also been involved with the *New York Times* stories detailing US jet fighters' encounters with "tick-tock-shaped objects" off the coast of California. ← https://www.youtube.com/watch?v=pmKjZzypzvg
+**Lost Time and Area 51 Encounter** : DeLonge claims to have experienced periods of "lost time" that he cannot recall or account for. This occurred while he was researching Area 51, specifically during a camping trip near Groom Lake in Nevada when he had some kind of encounter, after which three hours had passed without his memory. ← https://www.youtube.com/watch?v=pmKjZzypzvg
+**Majestic 12 Connection** : In UFO lore, the Majestic 12 is a purported secret group of scientists and military types privy to information about UFOs. Tom DeLonge claims that members of the modern-day Majestic 12 have been in contact with him. ← https://www.youtube.com/watch?v=pmKjZzypzvg
+**To The Stars Academy Projects** : DeLonge and his To The Stars Academy produced a multi-part series on unidentified aerial phenomena for the History Channel. He has also co-written non-fiction books on the subject, which were accompanied by sci-fi novels exploring a vast alien cover-up. ← https://www.youtube.com/watch?v=pmKjZzypzvg
+**UFO Investigation and Resignation from Blink-182** : Tom DeLonge is profoundly dedicated to uncovering the truth behind UFOs, a pursuit that was a primary reason for his departure from Blink-182, allowing him to focus entirely on this project. He founded the To The Stars Academy, described as a serious organization staffed with scientists, engineers, and military personnel who share his belief in UFOs. ← https://www.youtube.com/watch?v=pmKjZzypzvg
+**UFO Research Obsession** : Tom DeLonge is deeply obsessed with UFOs and their research. This passion was a primary reason for his departure from blink-182, allowing him to pursue UFO investigations full-time. ← https://www.youtube.com/watch?v=xc85sLj0Cnk
+

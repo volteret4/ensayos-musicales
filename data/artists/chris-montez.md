@@ -1,5 +1,5 @@
 # artist - Chris Montez
 
 ## songs
-**Let's Dance (1962)** : Big hit in 1962, covered by The Ramones.
+**Let's Dance (1962)** : Big hit in 1962, covered by The Ramones. ← https://www.youtube.com/watch?v=tZV1lz-obQE
 

@@ -1,6 +1,5 @@
-# genre - Hip Hop
+# genre - Hip-Hop
 
 ## curiosities
-**Part of Diverse 80s Alt-Rock** : "early rap and hip pop" was a genre played on alt-rock radio stations in the late 80s, contributing to their breadth of music.
-**Pioneers of Continuous Song Release** : the hip hop world has "got this figured out" by releasing a steady "drip, drip, drip" of new songs, replacing the traditional album-centric release cycle.
+**Malcolm McLaren's Evangelism (Early 1980s)** : In the early 1980s, Malcolm McLaren discovered rap and hip-hop coming out of New York. He became a significant evangelist for this new sound and began producing his own records incorporating these elements. His 1983 album *Duck Rock*, featuring the World's Famous Supreme Team, introduced scratching and was massively influential, particularly in the UK. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
 

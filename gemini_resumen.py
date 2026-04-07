@@ -83,7 +83,11 @@ def summarize_files(folder_path):
                 if not content.strip(): continue
 
                 prompt = f"""
-You are a renowned music historian and critic. Extract all musically significant information from the transcript and output it as structured markdown. Be exhaustive — do not summarize away details.
+You are a renowned music historian and critic. Extract all musically significant information from the transcript and output it as structured markdown. Be exhaustive — preserve every detail, anecdote, date, name, and figure mentioned.
+
+═══ FILTER ═══
+
+IGNORE completely any sentence or passage that mentions "Alan Cross" (the host). Do not extract host commentary, personal opinions introduced by the host, or meta-references to the podcast itself.
 
 ═══ STRUCTURE ═══
 
@@ -94,9 +98,10 @@ For each artist or band with meaningful coverage, open a section:
 Then add ONLY the subsections for which you have real data:
 
   ## members        one name per line (bare name, no formatting)
+  ## member of      one band name per line (bare name) — bands this artist belongs to
   ## genres         one genre per line (bare name)
   ## labels         one label per line (bare name)
-  ## venues         one venue per line (bare name)
+  ## concerts       one concert or festival name per line (bare name)
   ## instruments    one instrument or gear item per line (bare name)
   ## albums         one entry per line: **Title (Year) – Subtitle** : description
   ## songs          one entry per line: **Song Title (Year)** : description
@@ -104,32 +109,40 @@ Then add ONLY the subsections for which you have real data:
 
 ═══ ENTRY FORMAT ═══
 
-For ## members / genres / labels / venues / instruments — just the name, one per line:
+For ## members / member of / genres / labels / concerts / instruments — just the name, one per line:
 
   John Lennon
   Punk Rock
   EMI Records
+  Woodstock 1969
 
 For ## albums / songs / curiosities — one entry per line:
 
-  **Descriptive Title** : specific description with dates, names, places, figures
+  **Descriptive Title** : full description
 
 Title must be INFORMATIVE, never a bare name:
   GOOD: **Abbey Road (1969) – Final Studio Album**  |  **Come Together (1969)**  |  **Ed Sullivan Debut – 73 Million Viewers**
   BAD:  **Abbey Road**                              |  **Come Together**         |  **Ed Sullivan**
 
-Description: factual, detailed, concrete. No generic praise. Include years, cities, chart positions, real names.
+Description must be RICH and COMPLETE — write everything the transcript says about it:
+  - Include all dates, cities, chart positions, sales figures, real names, studio names
+  - Include cause-and-effect context: why something happened, what led to it, what it caused
+  - Include comparisons and influences mentioned
+  - Aim for 2–5 sentences per entry. Do NOT truncate or summarise — if the transcript gives detail, keep it.
+  - No generic praise ("groundbreaking", "iconic") unless the transcript itself uses those words
+  - End EVERY albums/songs/curiosities entry with one short verbatim quote from the transcript that captures the core idea, formatted as: "exact words from transcript."
 
 ═══ WHAT TO EXTRACT ═══
 
-  ## members:       lineup at relevant period, key changes, who joined or left and when
-  ## albums:        recording context, studio, producers, chart performance, cultural impact
-  ## songs:         origin story, meaning, recording anecdotes, chart positions, live history
-  ## curiosities:   scandals, controversies, historical firsts, behind-the-scenes, personal stories
-  ## instruments:   signature gear, custom tunings, recording techniques, studio equipment
+  ## members:       lineup at relevant period, key changes, who joined or left and when, and why
+  ## member of:     bands or supergroups this person is or was a member of
+  ## albums:        recording context, studio, producers, chart performance, cultural impact, sales
+  ## songs:         origin story, full meaning, recording anecdotes, chart positions, live history, covers
+  ## curiosities:   scandals, controversies, historical firsts, behind-the-scenes stories, personal details
+  ## instruments:   signature gear, custom tunings, recording techniques, studio equipment and how used
   ## genres:        just list genre names — factual prose goes in standalone # genre sections
   ## labels:        just list label names — factual prose goes in standalone # label sections
-  ## venues:        just list venue names — factual prose goes in standalone # venue sections
+  ## concerts:      specific concerts or festivals attended/performed — factual prose goes in standalone # concert sections
 
 ═══ STANDALONE SECTIONS (at end of file) ═══
 
@@ -138,40 +151,42 @@ After all artist sections, add sections for entities NOT tied to a single artist
   # genre - Genre Name
 
   ## curiosities
-  **Descriptive Title** : description
+  **Descriptive Title** : description. "verbatim quote."
 
 
   # label - Label Name
 
   ## curiosities
-  **Descriptive Title** : description
+  **Descriptive Title** : description. "verbatim quote."
 
 
-  # venue - Venue Name
+  # concert - Concert or Festival Name
 
   ## curiosities
-  **Descriptive Title** : description
+  **Descriptive Title** : description. "verbatim quote."
 
 
   # instrument - Instrument Name
 
   ## curiosities
-  **Descriptive Title** : description
+  **Descriptive Title** : description. "verbatim quote."
 
 
   # curiosity
 
-  **Descriptive Title** : description
-  **Another Title** : description
+  **Descriptive Title** : description. "verbatim quote."
+  **Another Title** : description. "verbatim quote."
 
-Use # curiosity (no name) for facts that do NOT belong to any single artist, genre, label, venue, or instrument.
+Use # curiosity (no name) for facts that do NOT belong to any single artist, genre, label, concert, or instrument.
 
 ═══ RULES ═══
 
 - Multiple artists in one file is fine — start each with # artist - Name
 - Do NOT create a section if you have no real data for it
 - Do NOT invent information not present in the source text
-- Do NOT write prose paragraphs  — only entries in the formats above
+- Do NOT write prose paragraphs — only entries in the formats above
+- Do NOT mention Alan Cross or the podcast host under any section
+- The verbatim quote must be words actually spoken/written in the transcript — do NOT paraphrase or invent
 
 
 Text to process:
@@ -180,13 +195,13 @@ Text to process:
 """
 
                 # Contar archivos (ignora subdirectorios)
-                num_archivos1 = len([f for f in os.listdir(root) if os.path.isfile(os.path.join(root, f))])
-                num_archivos2 = len([f for f in os.listdir(output_dir) if os.path.isfile(os.path.join(output_dir, f))])
+                num_transcripts = len([f for f in os.listdir(root) if os.path.isfile(os.path.join(root, f))])
+                # num_resumenes = len([f for f in os.listdir(output_dir) if os.path.isfile(os.path.join(output_dir, f))])
 
                 # Diferencia
-                diferencia = num_archivos1 - num_archivos2
+                # diferencia = num_transcripts - num_resumenes
 
-                response = _generate_with_retry(prompt, diferencia)
+                response = _generate_with_retry(prompt, num_transcripts)
 
                 with open(output_path, 'w', encoding='utf-8') as out_f:
                     out_f.write(response.text)

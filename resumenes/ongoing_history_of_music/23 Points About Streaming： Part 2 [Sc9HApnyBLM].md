@@ -1,230 +1,242 @@
 # artist - Justin Bieber
 
 ## curiosities
+
 **Streaming Payout System Advantage** : Benefits already rich and famous artists; his percentage of streams dictates his percentage of money received from Spotify.
 
 # artist - Panic! At The Disco
 
 ## albums
+
 **Pray for the Wicked (Year not specified)** : Has around 2 billion collective streams on Spotify.
 
 ## curiosities
+
 **Streaming Success (Top 3%)** : Doing well under streaming, in the top 3% of artists on Spotify.
 **Metadata Challenges – Exclamation Mark** : The location of the exclamation mark in their name has changed over the years, posing a metadata issue.
 
 # artist - Depeche Mode
 
 ## members
+
 Martin Gore
 
 ## labels
+
 Mute Records
 
 ## albums
+
 **Music for the Masses (1987)** : Album featuring "Behind the Wheel", released on Mute Records.
 
 ## songs
-**Behind the Wheel (1987)** : Album track from *Music for the Masses*; has been re-released multiple times on various labels and territories; has many remixes, the exact number unknown even to Martin Gore as of 2003; has been available on vinyl, CD, and digital files; exists in monthly versions, some including their cover of "Route 66". Each version, remix, live recording, and cover in different territories requires a new International Standard Recording Code (ISRC) number.
+
+**Behind the Wheel (1987)** : Album track from _Music for the Masses_; has been re-released multiple times on various labels and territories; has many remixes, the exact number unknown even to Martin Gore as of 2003; has been available on vinyl, CD, and digital files; exists in monthly versions, some including their cover of "Route 66". Each version, remix, live recording, and cover in different territories requires a new International Standard Recording Code (ISRC) number.
 **Master and Servant (Year not specified)** : Poses a metadata issue concerning the use of "AND" versus an ampersand between "Master" and "Servant".
 **Route 66 (Cover) (Year not specified)** : Covered by Depeche Mode, included in monthly versions of "Behind the Wheel".
 
 # artist - Guns N' Roses
 
 ## curiosities
+
 **Metadata Challenges – Apostrophe Placement** : Spelling issue regarding the placement of the apostrophe in their name.
 
 # artist - Twenty One Pilots
 
 ## curiosities
+
 **Metadata Challenges – Hyphenation** : Their name should not be split with a hyphen (e.g., "Twenty-One Pilots"), as this creates a metadata issue.
 **Metadata Challenges – Song Title Spelling** : A specific song by the band is mentioned as having a title spelled as one word, which compounds metadata issues.
 
 # artist - U2
 
 ## members
+
 The Edge
 Adam Clayton
 Larry Mullen
 Bono
 
 ## albums
+
 **The Joshua Tree (Year not specified)** : Described as one of the best-selling albums of all time.
 
 ## songs
-**Where the Streets Have No Name (Year not specified)** : The opening track for *The Joshua Tree*; features a cinematic introduction evocative of a sunrise or sunset; begins with a keyboard drone; an organ resolves from the drone at 25 seconds; The Edge's guitar fades in at 42 seconds; Adam Clayton's bass makes a stab at 1 minute and 9 seconds, followed by Larry Mullen's drumming building up; a chord change occurs at 1 minute and 41 seconds, heralding a new phase; Bono begins singing at 1 minute and 46 seconds after the song started. Its almost two-minute introduction would likely struggle to survive in the current streaming environment due to shortened attention spans.
+
+**Where the Streets Have No Name (Year not specified)** : The opening track for _The Joshua Tree_; features a cinematic introduction evocative of a sunrise or sunset; begins with a keyboard drone; an organ resolves from the drone at 25 seconds; The Edge's guitar fades in at 42 seconds; Adam Clayton's bass makes a stab at 1 minute and 9 seconds, followed by Larry Mullen's drumming building up; a chord change occurs at 1 minute and 41 seconds, heralding a new phase; Bono begins singing at 1 minute and 46 seconds after the song started. Its almost two-minute introduction would likely struggle to survive in the current streaming environment due to shortened attention spans.
 
 ## curiosities
+
 **Pre-Internet Era Success** : Thrived pre-2000, with momentum generated from that part of their careers keeping them active today.
 
 # artist - The Beatles
 
 ## albums
+
 **Sgt. Pepper's Lonely Hearts Club Band (1967)** : Released on June 1, 1967; meant to be enjoyed as a whole, in sequence, over 39 minutes and 36 seconds; a turning point that established the album as the primary currency of the recorded music business.
 
 ## curiosities
+
 **Shift to Album-Oriented Artistry (circa 1965)** : Starting around 1965, they began to conceptualize music less as individual songs and more as artistic statements featuring ten, twelve, or more tracks.
 **Early Career Constant Song Flow** : Delivered a constant flow of new songs, similar to the expectation for artists today.
 
 # artist - Bob Dylan
 
 ## curiosities
+
 **Shift to Album-Oriented Artistry (circa 1965)** : Starting around 1965, he began to conceptualize music less as individual songs and more as artistic statements featuring ten, twelve, or more tracks.
 
 # artist - The Beach Boys
 
 ## curiosities
+
 **Shift to Album-Oriented Artistry (circa 1965)** : Starting around 1965, they began to conceptualize music less as individual songs and more as artistic statements featuring ten, twelve, or more tracks.
 
 # artist - Radiohead
 
 ## albums
+
 **A Moon Shaped Pool (2016)** : Mentioned as one of the last albums the speaker listened to front-to-back as the artist intended.
 
 # artist - Tool
 
 ## albums
+
 **Fear Inoculum (Year not specified)** : Mentioned as one of the last albums the speaker listened to front-to-back as the artist intended.
 
 # artist - Foo Fighters
 
 ## songs
+
 **Unnamed Track (Year not specified)** : Has been streamed approximately 400 million times on Spotify alone, with an estimated worth to the band of around $1.6 million US.
 
 # artist - Pearl Jam
 
 ## curiosities
+
 **Pre-Internet Era Success** : Thrived pre-2000, with momentum generated from that part of their careers keeping them active today.
 
 # artist - Red Hot Chili Peppers
 
 ## curiosities
+
 **Pre-Internet Era Success** : Thrived pre-2000, with momentum generated from that part of their careers keeping them active today.
 
 # artist - Green Day
 
 ## curiosities
+
 **Pre-Internet Era Success** : Thrived pre-2000, with momentum generated from that part of their careers keeping them active today.
 
 # artist - The Offspring
 
 ## curiosities
+
 **Pre-Internet Era Success** : Thrived pre-2000, with momentum generated from that part of their careers keeping them active today.
 
 # artist - The Rolling Stones
 
 ## curiosities
+
 **Pre-Internet Era Success** : Thrived pre-2000, with momentum generated from that part of their careers keeping them active today.
 
 # artist - Paul McCartney
 
 ## curiosities
+
 **Pre-Internet Era Success** : Thrived pre-2000, with momentum generated from that part of his career keeping him active today.
 
-# genre - Classical Recordings
+# genre - Classical
 
 ## curiosities
+
 **Early Use of Long-Playing Albums (June 1948)** : The long-playing album (LP) first appeared in June 1948, initially used for classical recordings due to the format's expense.
 
 # genre - Broadway Shows
 
 ## curiosities
+
 **Early Use of Long-Playing Albums (June 1948)** : The long-playing album (LP) first appeared in June 1948, initially used for Broadway shows due to the format's expense.
 
 # genre - Jazz
 
 ## curiosities
+
 **Early Use of Long-Playing Albums (June 1948)** : The long-playing album (LP) first appeared in June 1948, initially used for jazz recordings due to the format's expense.
 
 # genre - Pop
 
 ## curiosities
+
 **Single-Driven Era (Pre-1965)** : Popular music, including pop, was primarily released as single songs before the mid-1960s.
 **"Musical Moneyball" Beneficiary** : Has benefited significantly from data-driven "musical moneyball" strategies due to demonstrated streaming success, leading labels to spend more time and money promoting it.
 
 # genre - R&B
 
 ## curiosities
+
 **Single-Driven Era (Pre-1965)** : Popular music, including R&B, was primarily released as single songs before the mid-1960s.
 **"Musical Moneyball" Beneficiary** : Has benefited significantly from data-driven "musical moneyball" strategies due to demonstrated streaming success, leading labels to spend more time and money promoting it.
 
 # genre - Country
 
 ## curiosities
+
 **Single-Driven Era (Pre-1965)** : Popular music, including country, was primarily released as single songs before the mid-1960s.
 **Lower Prioritization in Streaming Era** : Receives less label time and money for promotion compared to hip hop, rap, R&B, and pop, as it has demonstrated less streaming success in the "musical moneyball" era.
 
 # genre - Blues
 
 ## curiosities
+
 **Single-Driven Era (Pre-1965)** : Popular music, including blues, was primarily released as single songs before the mid-1960s.
 
 # genre - Rock and Roll
 
 ## curiosities
+
 **Seven-Inch Single as Core (1950s)** : When rock and roll emerged in the 1950s, the seven-inch single became its "heart and soul." Albums were typically released only after a series of successful singles, often repackaging singles with extra tracks.
 
 # genre - Hip Hop
 
 ## curiosities
+
 **Metadata Challenges – Stylized Spellings** : Artists, song titles, and albums often use alternate or stylized spellings, complicating metadata management.
 **"Musical Moneyball" Beneficiary** : Has benefited significantly from data-driven "musical moneyball" strategies due to demonstrated streaming success, leading labels to spend more time and money promoting it.
 
 # genre - Rap
 
 ## curiosities
+
 **"Musical Moneyball" Beneficiary** : Has benefited significantly from data-driven "musical moneyball" strategies due to demonstrated streaming success, leading labels to spend more time and money promoting it.
 
 # genre - Rock
 
 ## curiosities
+
 **Decline as Mainstream Force** : Receives less label time and money for promotion compared to hip hop, rap, R&B, and pop, as it has demonstrated less streaming success in the "musical moneyball" era. This explains why rock has not been a big mainstream force as it once was.
 **Post-Internet Era Challenges** : It may be true that a post-internet rock band will never achieve the same level of mainstream success as pre-internet artists.
 
 # label - Mute Records
 
 ## curiosities
-**Depeche Mode Album Release (1987)** : Released Depeche Mode's *Music for the Masses* album in 1987.
+
+**Depeche Mode Album Release (1987)** : Released Depeche Mode's _Music for the Masses_ album in 1987.
 
 # venue - Stadium
 
 ## curiosities
+
 **Pre-Internet Era Achievement** : Before 2000, it was still possible for an act to become so big that they could fill a stadium.
-
-# instrument - Keyboard
-
-## curiosities
-**U2's "Where the Streets Have No Name" (Introduction)** : The song begins with a keyboard drone.
-
-# instrument - Organ
-
-## curiosities
-**U2's "Where the Streets Have No Name" (Introduction)** : An organ resolves out of the keyboard drone at the 25-second mark.
-
-# instrument - Guitar
-
-## curiosities
-**U2's "Where the Streets Have No Name" (Introduction)** : The Edge's guitar fades in at the 42-second mark.
-
-# instrument - Bass
-
-## curiosities
-**U2's "Where the Streets Have No Name" (Introduction)** : Adam Clayton's bass delivers a "stab" at 1 minute and 9 seconds.
-
-# instrument - Drums
-
-## curiosities
-**U2's "Where the Streets Have No Name" (Introduction)** : Larry Mullen's drumming begins building at 1 minute and 9 seconds, following Adam Clayton's bass stab.
 
 # curiosity
 
-**The Ongoing History of New Music Unlimited (Apple Podcasts)** : A subscription service launched with Apple Podcasts for $3.49 a month, offering ad-free access to the full archive of shows, brand new episodes two days early, and special bonus episodes.
-**The Ongoing History of New Music (Amazon Music)** : Available early and ad-free on Amazon Music, included with Prime.
 **Library Concept Origin** : The idea of taking all the world's knowledge and storing it in one place originated many centuries ago, leading to the concept of the library.
 **Recorded Music Libraries** : Governments, public broadcasters, and companies began collecting recorded audio, applying the library concept to music.
 **BBC Physical Media Archive** : Famously holds hundreds of kilometers of shelving for physical media.
 **Zero Freitas' Private Record Collection** : A collector in Brazil on a quest to amass all records ever made, possessing at least 8 million records and over 100,000 compact discs.
 **Celestial Jukebox Concept (1994)** : Popularized by law professor Paul Goldstein; envisioned as a giant networked computer database holding humanity's music in digital form, available instantly to anyone with an Internet connection. This concept, once considered science fiction, is now a theoretical reality with modern streaming.
-**Napster Launch (1999)** : Went online on June 1, 1999, exactly 32 years to the day after *Sgt. Pepper's Lonely Hearts Club Band* was released; made it seem possible to download any song (illegally); allowed users to acquire music "a la carte" when the industry was phasing out singles.
+**Napster Launch (1999)** : Went online on June 1, 1999, exactly 32 years to the day after _Sgt. Pepper's Lonely Hearts Club Band_ was released; made it seem possible to download any song (illegally); allowed users to acquire music "a la carte" when the industry was phasing out singles.
 **iTunes Music Store Launch (2003)** : Started with several hundred thousand songs and has since expanded to about 60 million tracks, all available for sale; facilitated the return of the single by selling individual tracks for 99 cents, which dealt a hard blow to the concept of the album.
 **Modern Digital Music Libraries (Streaming)** : Streaming platforms draw from digital music libraries containing at least 90 million songs, with new additions daily, accessible anytime, anywhere, on any device, often for a negligible or free price.
 **Streaming Payout System (Overall Percentage Share)** : Spotify and other platforms pay artists based on their overall percentage share of total streams, meaning if an artist gets X percent of streams in a month, they receive X percent of the money. This system favors already established and popular artists.
@@ -246,7 +258,7 @@ Bono
 **Single-Driven Pop Music (Pre-1965)** : Before approximately 1965, popular music (R&B, country, blues, rock and roll) was primarily released and consumed as single songs.
 **Shift to Album as Artistic Statement (circa 1965)** : Around 1965, artists like The Beatles, Bob Dylan, and The Beach Boys began creating music as artistic statements with multiple tracks, fostering the album concept.
 **FM Radio's Role in Album Popularity (1960s)** : In the 1960s, FM stations, initially "dumping grounds" with low ratings, began playing album tracks instead of just Top 40 singles, which proved popular and made the recorded music industry realize the higher profit margins of albums.
-**Album as Industry Currency (Post-1967)** : Following *Sgt. Pepper's Lonely Hearts Club Band* (1967), the album became the primary currency of the recorded music business, with singles serving as enticements to buy the full album.
+**Album as Industry Currency (Post-1967)** : Following _Sgt. Pepper's Lonely Hearts Club Band_ (1967), the album became the primary currency of the recorded music business, with singles serving as enticements to buy the full album.
 **Recorded Music Business Value (Early 2021)** : The entire global recorded music business was valued at approximately $21 billion at the beginning of 2021.
 **Spotify Market Capitalization (Early 2021)** : Spotify alone had a market cap of $248 billion, roughly 10 times the value of the entire recorded music industry it serves.
 **Apple Music's Corporate Backing (Early 2021)** : Apple Music is supported by Apple, a company valued at $2.5 trillion.

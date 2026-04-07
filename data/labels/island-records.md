@@ -1,5 +1,5 @@
 # label - Island Records
 
 ## curiosities
-**Chris Blackwell's Role** : Chris Blackwell was the head of Island Records at the time of the 1996 incident in Jamaica involving Jimmy Buffett and Bono.
+**Chris Blackwell's Role** : Chris Blackwell was the head of Island Records at the time of the 1996 incident in Jamaica involving Jimmy Buffett and Bono. ← https://www.youtube.com/watch?v=hmnMG6f80Sg
 

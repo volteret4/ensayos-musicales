@@ -1,5 +1,5 @@
 # label - Minty Fresh
 
 ## curiosities
-**Veruca Salt Single Deal** : An indie label that approached Veruca Salt for a single after only a couple of shows.
+**Veruca Salt Single Deal** : An indie label that approached Veruca Salt for a single after only a couple of shows. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 

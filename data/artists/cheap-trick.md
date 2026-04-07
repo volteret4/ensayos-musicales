@@ -7,5 +7,5 @@
 - Power Pop
 
 ## songs
-**(late 1970s / early 1980s)** : A big favorite band of the Foo Fighters members when they were growing up.
+**(late 1970s / early 1980s)** : A big favorite band of the Foo Fighters members when they were growing up. ← https://www.youtube.com/watch?v=Mh-qg1izM98
 

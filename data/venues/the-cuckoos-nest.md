@@ -1,6 +1,6 @@
 # venue - The Cuckoo's Nest
 
 ## curiosities
-**"Birthplace of Slam Dancing"** : Southern California music lore credits this club as the birthplace of slam dancing, as it hosted many punk shows from bands like The Ramones, The Damned, and Social Distortion.
-**Police Crackdown (Era of Disco)** : Local police started busting shows at the club, charging that it was a "den of violence," which intensified the audience's aggressive behavior. Local civic authorities attempted to shut the place down.
+**"Birthplace of Slam Dancing"** : Southern California music lore credits this club as the birthplace of slam dancing, as it hosted many punk shows from bands like The Ramones, The Damned, and Social Distortion. ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
+**Police Crackdown (Era of Disco)** : Local police started busting shows at the club, charging that it was a "den of violence," which intensified the audience's aggressive behavior. Local civic authorities attempted to shut the place down. ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
 

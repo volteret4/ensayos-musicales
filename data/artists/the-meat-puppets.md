@@ -7,5 +7,5 @@
 - SST
 
 ## curiosities
-**Hardcore Spreaders** : One of the groups whose hardcore music was spread by SST Records.
+**Hardcore Spreaders** : One of the groups whose hardcore music was spread by SST Records. ← https://www.youtube.com/watch?v=VOv5mT1dJd8
 

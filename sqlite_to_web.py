@@ -14,7 +14,7 @@ TYPE_COLORS = {
     'songs':       '#5dade2',
     'genres':      '#2ecc71',
     'labels':      '#f39c12',
-    'venues':      '#1abc9c',
+    'concerts':    '#1abc9c',
     'instruments': '#9b59b6',
     'curiosities': '#95a5a6',
     'members':     '#e67e22',
@@ -26,7 +26,7 @@ CAT_LABELS = {
     'songs':       'Canciones',
     'genres':      'Géneros',
     'labels':      'Sellos',
-    'venues':      'Lugares',
+    'concerts':    'Conciertos',
     'instruments': 'Instrumentos',
     'curiosities': 'Curiosidades',
     'members':     'Miembros',
@@ -156,7 +156,7 @@ def load_data():
     assoc = [
         ('genres',      'artist_genres',      'genres',      'genre_id',      'genre'),
         ('labels',      'artist_labels',       'labels',      'label_id',      'label'),
-        ('venues',      'artist_venues',       'venues',      'venue_id',      'venue'),
+        ('concerts',    'artist_concerts',      'concerts',    'concert_id',    'concert'),
         ('instruments', 'artist_instruments',  'instruments', 'instrument_id', 'instrument'),
     ]
     for cat, junc, entity_table, fk, ctx_type in assoc:
@@ -215,10 +215,16 @@ def load_data():
             pair_type_counts.setdefault(pair, {})
             pair_type_counts[pair][itype] = pair_type_counts[pair].get(itype, 0) + 1
 
+        member_pairs = {
+            (min(r['source_id'], r['target_id']), max(r['source_id'], r['target_id']))
+            for r in relations if r['type'] == 'member'
+        }
         _type_to_cat = {'album': 'albums', 'song': 'songs', 'curiosity': 'curiosities'}
         for (s, t), counts in pair_type_counts.items():
             if s not in artists or t not in artists:
                 continue
+            if (s, t) in member_pairs:
+                continue  # already shown as member relation, skip duplicate
             dominant = max(counts, key=counts.get)
             color = TYPE_COLORS.get(_type_to_cat.get(dominant, ''), DEFAULT_COLOR)
             relations.append({'source_id': s, 'target_id': t, 'type': 'mention', 'color': color})
@@ -289,6 +295,8 @@ body { font-family: "Segoe UI", sans-serif; background: #1a1a2e; color: #eee;
 .fact-card { background: #0f3460; border-radius: 5px; padding: 7px 9px; margin-bottom: 6px;
              font-size: 0.78rem; line-height: 1.45; border-left: 3px solid #e94560; }
 .fact-src { font-size: 0.68rem; color: #777; margin-top: 3px; }
+.fact-src a { color: #5dade2; text-decoration: none; }
+.fact-src a:hover { text-decoration: underline; }
 .rel-card { background: #1a1a2e; border-radius: 5px; padding: 6px 9px; margin-bottom: 5px;
             font-size: 0.76rem; line-height: 1.4; border-left: 3px solid #555;
             font-style: italic; color: #aaa; }
@@ -420,7 +428,7 @@ function computeGraph() {
     if (rel.type === 'member' || rel.type === 'mention') {
       if (focusArtistId !== null &&
           (!expandedArtists.has(rel.source_id) || !expandedArtists.has(rel.target_id))) continue;
-      edges.push({ id: `rel_${rel.source_id}_${rel.target_id}`,
+      edges.push({ id: `rel_${rel.type}_${rel.source_id}_${rel.target_id}`,
                    source: `a_${rel.source_id}`, target: `a_${rel.target_id}`,
                    etype: rel.type, color: rel.color || null });
     }
@@ -493,7 +501,7 @@ function render(fromClick = false) {
   g.selectAll('line.edge-mention').data(
     edges.filter(e => e.etype === 'mention'), e => e.id
   ).join('line').attr('class', 'edge-mention')
-               .attr('stroke', d => d.color || '#8e44ad');
+               .style('stroke', d => d.color || '#8e44ad');
 
   // Nodes
   const nodeGroups = g.selectAll('.node').data(nodes, d => d.id)
@@ -659,6 +667,20 @@ function showArtistPanel(artist) {
     </p>`;
 }
 
+function renderSource(sf) {
+  if (!sf) return '';
+  const pipe = sf.indexOf('|');
+  if (pipe > -1) {
+    const name = sf.slice(0, pipe).trim();
+    const url  = sf.slice(pipe + 1).trim();
+    if (url.startsWith('http')) {
+      return `<div class="fact-src"><a href="${url}" target="_blank" rel="noopener">📺 ${name || 'Ver fuente'}</a></div>`;
+    }
+  }
+  // Fallback: plain file path (old-format data)
+  return `<div class="fact-src">📂 ${sf}</div>`;
+}
+
 function linkifyArtists(text, mentionedArtists) {
   if (!mentionedArtists || !mentionedArtists.length) return text;
   // Sort longest name first to avoid partial replacements
@@ -684,7 +706,7 @@ function showItemPanel(d) {
     ${d.facts.map(f => `
       <div class="fact-card" style="border-left-color:${color}">
         ${linkifyArtists(f.description, d.mentioned_artists)}
-        ${f.source_file ? `<div class="fact-src">📂 ${f.source_file}</div>` : ''}
+        ${renderSource(f.source_file)}
       </div>`).join('')}`;
 }
 
@@ -800,6 +822,12 @@ def build_html(artists, relations):
 <head>
 <meta charset="UTF-8">
 <title>Music Map</title>
+<!-- Umami Analytics -->
+<script>
+    defer
+    src="https://cloud.umami.is/script.js"
+    data-website-id="5d84fd6c-0760-4a0c-a2d0-ffabb82179f5"
+</script>
 <script>{d3_src}</script>
 <style>{CSS}</style>
 </head>

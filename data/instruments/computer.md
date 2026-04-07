@@ -1,0 +1,5 @@
+# instrument - Computer
+
+## curiosities
+**Apple Macintosh Introduction (January 22, 1984)** : The Apple Macintosh computer was first introduced during Super Bowl 18 on January 22, 1984, with its famous "Big Brother" commercial directed by Ridley Scott. This event marked a significant moment that would deeply impact the music industry. The Mac quickly became a favorite among musicians, especially with the development of software like Pro Tools by DigiDesign, which established the Macintosh as standard equipment in both recording studios and live performance settings. The growing adoption by musicians led Apple and third-party software companies to increasingly cater to the specific needs and demands of the music community. Today, modern recording studios are heavily reliant on computers, hard drives, and various software solutions like Pro Tools for recording and manipulating music, a trend that largely began with the introduction of the Macintosh. ← https://www.youtube.com/watch?v=Somq2MoRi5Q
+
