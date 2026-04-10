@@ -1,2 +1,0 @@
-# genre - Power Pop
-

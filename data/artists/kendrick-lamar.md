@@ -1,6 +1,6 @@
 # artist - Kendrick Lamar
 
 ## curiosities
-**Artist with Game-Changing Music Videos** : Director X and Taj Khrichlo directed influential music videos for them. ← https://www.youtube.com/watch?v=eqTFinLk3oU
-**Music Video Collaborations** : Kendrick Lamar is one of the artists for whom Director X has directed "game-changing videos." ← https://www.youtube.com/watch?v=XaLsZFLrMnI
+**Featured in Game-Changing Music Videos** : Kendrick Lamar is an artist for whom Director X has created "game-changing videos," highlighting the significant visual impact of his work. "These guys are responsible for game-changing videos from artists like Drake and Coldplay and Kendrick Lamar and so many more." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
+**Game-Changing Music Videos** : Director X is credited with creating "game-changing videos" for Kendrick Lamar. "These guys are responsible for game-changing videos from artists like Drake and Coldplay and Kendrick Lamar and so many more." ← https://www.youtube.com/watch?v=IIJySSo276k
 

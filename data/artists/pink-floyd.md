@@ -2,26 +2,29 @@
 
 ## members
 - David Gilmour
-- Nick Mason
-- Snowy White : Guitarist who recorded a unique solo for the 8-track edition of "Animals" to connect "Pigs on the Wing, Parts 1 and 2".
+- Richard Wright
+- Roger Waters
+
+## genres
+- Classic Rock
+- Psychedelic Rock
 
 ## instruments
-- **Black Strat (1969)** : David Gilmour's legendary "Black Strat" guitar, famously used on many iconic Pink Floyd recordings, was purchased at Manny's Music in 1969.
-- **Wah pedal** : David Gilmour incorporated the wah pedal into Pink Floyd's material, contributing to the band's sonic palette.
-- EMS VCS III
+- Fender Precision Bass
+- Fender Stratocaster ("Black Strat")
+- Hammond B3
 
 ## albums
-**Animals (1977)** : The 8-track edition of this album contains a unique guitar solo not found on any other commercially released version. ← https://www.youtube.com/watch?v=qtdetc5-MQo
-**Dark Side of the Moon (1973)** : This album was covered in its entirety by The Flaming Lips and Star Death and White Dwarfs in 2009. ← https://www.youtube.com/watch?v=yuA9Xor8vfw
-**Dark Side of the Moon (1973) – Sonic Exploration** : The band was intrigued by new sonic possibilities and used a primitive synthesizer on this landmark album. ← https://www.youtube.com/watch?v=5PJRCC6EwUY
+**Animals** : The iconic album cover for "Animals" was designed by Storm Thorgerson, whose distinctive visual style greatly contributed to the band's aesthetic. His creation for this album is recognized among his most impactful works. "So yeah, Dark Side of the Moon, wish you were here in animals, all are his creations." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
+**The Dark Side of the Moon** : The iconic album cover for "The Dark Side of the Moon" was designed by Storm Thorgerson, renowned as one of the most famous album art creators of all time. His work on this cover is considered a seminal piece in album art history. "So yeah, Dark Side of the Moon... all are his creations." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
+**Wish You Were Here** : The iconic album cover for "Wish You Were Here" was designed by Storm Thorgerson. This artwork is one of his many celebrated contributions to album art, solidifying his reputation as a legendary designer. "So yeah, Dark Side of the Moon, wish you were here in animals, all are his creations." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
 
 ## songs
-**Money (1973)** : The introduction to this song features a famous cash register sequence, which was created using old-school, labor-intensive sound manipulation techniques. This involved carefully measuring out magnetic tape, cutting the desired sound bites with a razor blade, and then piecing them together with special splicing tape to form a loop. The process was described as mind-numbingly complex and took many hours to complete. ← https://www.youtube.com/watch?v=Somq2MoRi5Q
-**On the Run (1973)** : This instrumental track features the EMS VCS III, a primitive synthesizer that lacked a traditional keyboard. The use of the instrument created a repetitive, futuristic soundscape that became a hallmark of the album's experimental nature. ← https://www.youtube.com/watch?v=5PJRCC6EwUY
-**Pigs on the Wing, Parts 1 and 2 (1977)** : On the 8-track edition of "Animals", these two songs were stitched together into one long track. To facilitate this, guitarist Snowy White played a unique solo between the two parts. This ultra-long version, with Snowy White's solo, is the only piece of officially released Pink Floyd music that is now commercially unavailable. ← https://www.youtube.com/watch?v=qtdetc5-MQo
+**Comfortably Numb (1979)** : David Gilmour's iconic guitar solo on Pink Floyd's "Comfortably Numb" was performed using his famous "Black Strat," a Fender Stratocaster. This solo is considered one of the most celebrated in rock history, demonstrating the Stratocaster's expressive capabilities. "David Gilmore's beautiful solo on Pink Floyd's comfortably numb was played on his famous Black Strat, a guitar he bought at Mani's Music in New York in 1970." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
 
 ## curiosities
-**Associated with Concept Albums** : Considered a band that typically made concept albums, a practice deemed "uncool" for punk and hardcore bands during the early 80s. ← https://www.youtube.com/watch?v=tZV1lz-obQE
-**Covered by Weezer (pre-2018)** : Pink Floyd's music has been playfully covered by Weezer during their tours. ← https://www.youtube.com/watch?v=yuA9Xor8vfw
-**Guitar Style Influence** : David Gilmour's guitar style was one of several that John Frusciante intensely studied by the age of 11. ← https://www.youtube.com/watch?v=TESrEzVHLCc
+**Collectible Acetates** : Pink Floyd is included in a list of artists whose acetates are among the most valuable and collectible records. "Beyond that, we have more Beatles, more Quarryman, some Rolling Stones, Jimmy Hendrix, Michael Jackson demonstration CD, more acetates from Pink Floyd, with drawing Bob Dylan album." ← https://www.youtube.com/watch?v=IIJySSo276k
+**Cultural Antagonism (1975)** : In 1975, a t-shirt emblazoned with "I Hate Pink Floyd" worn by Johnny Rotten played a symbolic role in his recruitment for the Sex Pistols. This demonstrated a clear generational and stylistic antagonism, with punk rock emerging in stark opposition to the established progressive rock acts like Pink Floyd. "He was immediately considered for the job of lead singer of the sex pistols, based on the fact that he was wearing an eye-hate pink Floyd t-shirt." ← https://www.youtube.com/watch?v=-CT7yYXonIk
+**Defining Classic Rock in Early 1990s** : Pink Floyd was one of the older, established acts that were grouped under the emerging term "classic rock" in the early 1990s, at a time when hair metal's popularity was waning. "Rock was dominated by hair metal bands, which was really starting to get old and played out. It was also dominated by older acts that were defining a new term, classic rock, Rolling Stones, Pink Floyd, Elton John, and so on." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
+**Neo-Psych Influence** : Pink Floyd's psychedelic sounds from the late 60s and early 70s were updated by Neo-Psych bands in the post-punk era, combining their classic approach with new gear and a punk attitude. "With new gear and a punk-influenced attitude, they updated what pink floyd and the beetles had done back in the day." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 

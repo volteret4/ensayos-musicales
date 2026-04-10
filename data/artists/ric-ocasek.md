@@ -1,8 +1,5 @@
 # artist - Ric Ocasek
 
-## members
-- The Cars
-
 ## curiosities
-**Death (2019)** : died in 2019. ← https://www.youtube.com/watch?v=sOU54d8mr5k
+**Weezer Producer** : Ric Ocasek of The Cars produced three Weezer albums: the Blue Album, the Green Album, and "Everything Will Be All Right in the End." He was specifically hired for the latter to guide Weezer back to their early sound. He passed away after producing "Everything Will Be All Right in the End." "This was the third and last album to be produced by Rico Cacic of the Cars before he died." ← https://www.youtube.com/watch?v=LYRPxtP61JM
 

@@ -1,12 +1,10 @@
 # artist - The Human League
 
 ## genres
+- New Pop
 - New Wave
-- Post-Disco New Wave
-- Techno Pop
+- Synth Pop
 
 ## curiosities
-**12-Inch Remix Business** : After New Order's "Blue Monday," The Human League, along with other bands, embraced the 12-inch remix format for their music. ← https://www.youtube.com/watch?v=OiqdZfxdBP0
-**Post-Disco New Wave Category (Early 1980s)** : Identified as a Post-Disco New Wave band. ← https://www.youtube.com/watch?v=9CNNsqXiL6U
-**Sequencers for Live Performance** : The use of sequencers, specifically the Roland MC-4, allowed groups like The Human League to transition from the studio to live performances, triggering a series of synthesizer events without further human intervention. ← https://www.youtube.com/watch?v=OiqdZfxdBP0
+**Sheffield New Pop Band** : The Human League, originating from Sheffield, was categorized as a New Pop band, largely due to their new wavy approach, the prominent use of synthesizers, and the impact of music videos on their presentation. "And so was the human leg who came out of Sheffield." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 

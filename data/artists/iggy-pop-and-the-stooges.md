@@ -1,0 +1,15 @@
+# artist - Iggy Pop and The Stooges
+
+## members
+- Chris (guitarist)
+
+## instruments
+- JCM 800 single channel master volume Marshall Amp Heads (100 watt, model 2203)
+- Marshall VBA bass amplifiers
+
+## curiosities
+**Backstage Rider – Entertainment Requests (Bob Hope/Dwarves)** : The rider includes bizarre entertainment requests such as "Someone dressed as Bob Hope doing fantastic Bob Hope impersonations" or, alternatively, "Seven dwarves dressed up as those dwarves out of that marvelous Walt Disney film about the woman who goes to sleep for 100 years after biting a poise and dwarf" (conflating Sleeping Beauty and Snow White, later implying Cinderella). It notes that "Tollia people are acceptable, of course. It's attitude more than height that's important here. And don't forget the pointy hats." "Or I guess this is in lieu of a Bob Hope impersonator. Seven dwarves dressed up as those dwarves out of that marvelous Walt Disney film about the woman who goes to sleep for 100 years after biting a poise and dwarf." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**Backstage Rider – Guitarist's Counting Skills** : The rider humorously highlights guitarist Chris's counting abilities, stating he "will personally count on arrival" the "six knobs" on each amplifier and describing him as "the closest thing that we have in our touring party to a mathematical genius." "Chris will personally count on arrival and trust me, he's a very good counter." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**Backstage Rider – Humorous and Detailed Amp Specifications** : The band's rider contains extremely detailed, yet humorously exaggerated, specifications for their amplifiers. For bass, it requests three Marshall VBA bass amplifiers, emphasizing their quality ("Please make sure they're good ones"). For guitar, it asks for three JCM 800 single channel master volume Marshall Amp Heads (100 watt, model 2203), requiring recent testing (within "living memory, preferably that of a goldfish"). It specifies "six knobs" (War, Pestilence, Famine, later corrected to Presence, Bass, Middle, Treble, Pre, and Post-Game) and two inputs (high and low impedance), explicitly forbidding dual-channel reverb heads or foot switches. "No, I mean recently within a living memory, preferably that of a goldfish." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**Backstage Rider – Specific Catering Demands** : Catering requirements include dinner for Iggy and two others, available at the venue or a local restaurant, with local cuisine or steak/chicken (or humorously, "endangered species, including moths and anything really cute, snake whale or nurse shark"). It explicitly states that "Cauliflower and broccoli cut into individual florets and then thrown immediately in the garbage." For loadout, two enormous pizzas are requested, often left on the bus to be discarded later due to their unwieldy size. "Cauliflower and broccoli cut into individual florets and then thrown immediately in the garbage." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+

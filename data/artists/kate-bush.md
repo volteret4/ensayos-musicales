@@ -1,5 +1,5 @@
 # artist - Kate Bush
 
 ## curiosities
-**First and Only TV Appearance (1979)** : Kate Bush made her first and only television appearance on Saturday Night Live in 1979, where she was introduced by guest host Eric Idle and performed in a gold sparkly bodysuit. Her performance inspired a recipe for braised ribs by then-university student and future actor Kyle MacLachlan. ← https://www.youtube.com/watch?v=0DFmS6MPbFI
+**Collaborated with Anton Corbijn** : Photographer Anton Corbijn, known for designing The Killers' "Sam's Town" cover, is a favored collaborator of Kate Bush, contributing to her unique visual aesthetic. "The photographer was Anton Corbin, the Dutch guy who was a favorite of you two, Depeche Mode, Coldplay, Bruce Springsteen, Kate Bush..." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
 

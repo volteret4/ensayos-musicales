@@ -1,18 +1,9 @@
 # artist - Muse
 
-## members
-- Matt Bellamy
-
-## genres
-- Alt Rock
-
 ## albums
-**The Resistance (2009)** : This album deeply incorporates the conspiracy theories of frontman Matt Bellamy, including those related to the Illuminati. ← https://www.youtube.com/watch?v=1KyNY3zv6uc
+**The Resistance (2009) – Album Source for Uprising** : This album contained the track "Uprising" which was the number one alt-rock track in the world at the beginning of the 2010s, having held that position since mid-October 2009. The album's success highlighted the band's continued relevance into the new decade. "From the resistance, this is muse and uprising." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
 
-## curiosities
-**Arena Headliners Since 2000** : mentioned as one of the few rock bands to emerge since 2000 capable of filling an arena as a headliner. ← https://www.youtube.com/watch?v=GmYlTwI_TQQ
-**Continued Performance in 2010s** : one of the older groups that kept doing what they did best throughout the 2010s. ← https://www.youtube.com/watch?v=sOU54d8mr5k
-**Covered by Renée Fleming** : Muse's material was featured on a covers album released by opera singer Renée Fleming in 2010. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
-**Management by QPrime** : Muse are among the current clients managed by QPrime, the management company founded by Cliff Burnstein and Peter Mensch. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
-**UK Chart Success (2010s)** : did well on the UK charts in the 2010s, considered one of the "monsters" of British alternative rock. ← https://www.youtube.com/watch?v=sOU54d8mr5k
+## songs
+**Uprising (2009) – Number One Alt-Rock Track** : This song was the number one alt-rock track in the world as the 2010s decade began, a position it had maintained since mid-October 2009. It represented one of Muse's biggest singles in their career. "One of the biggest singles of muse's career." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
+**Uprising (2010)** : This song was part of Muse's setlist when they headlined Coachella in 2010, sharing the top billing with Gorillaz and Jay-Z, marking a period when Coachella was beginning its shift towards pop and hip-hop. "Muse and uprising, one of the songs they played during their Coachella set in 2010." ← https://www.youtube.com/watch?v=ZzIqIydZTlA
 

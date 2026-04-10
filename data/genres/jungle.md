@@ -1,5 +1,5 @@
 # genre - Jungle
 
 ## curiosities
-**UK Club Culture Subdivision (Late 1980s - Early 1990s)** : After 1988, British club culture diversified, splitting into many distinct scenes, including jungle. ← https://www.youtube.com/watch?v=OiqdZfxdBP0
+**Underground Dance Scene** : Jungle was one of the underground dance music genres of the late 90s. Its shift towards commercialization was seen as a negative by fans who valued its underground roots. ← https://www.youtube.com/watch?v=YvcnHKI4oIw
 

@@ -2,39 +2,34 @@
 
 ## members
 - Black Francis
-- David Lovering
+- Black Francis (Charles Michael Kijerich Thompson IV) (guitarist, singer)
+- David Lovering (drums)
 - Joey Santiago
-- Kelly Deal
-- Kim Deal
-- Kim Deal (bass player)
+- Kim Deal (bass)
+
+## genres
+- Alt Rock
+- Experimental Noise
+- Nerd Rock (associated)
 
 ## labels
-- (unnamed) record label in the UK
+- 4AD
 
-## venues
-- Minneapolis
-- Vancouver
+## albums
+**Doolittle (1989)** : This album, released in 1989, featured the song "Monkey Gone to Heaven." The Pixies' music on this album, coupled with their general interest in strange things like science fiction and astronomy, and frontman Black Francis's non-stereotypical rock star appearance, made them influential on future geeky bands. "This is Monkey Gone to Heaven from their greatest album, 1989's Doodle." ← https://www.youtube.com/watch?v=h6snk0m4200
 
 ## songs
-**This One (2004)** : Performed live at the Fine Line Music Cafe in Minneapolis on April 13, 2004, which was the first show of their reunion tour. ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
+**Monkey Gone to Heaven (1989)** : Featured on their "Doolittle" album, this song exemplifies The Pixies' style. The band, originating from the University of Massachusetts, had members with unusual interests, such as one who moonlighted as a professional magician, and their songs often showed an interest in science fiction and astronomy, contributing to their nerdy image. "This is Monkey Gone to Heaven from their greatest album, 1989's Doodle." ← https://www.youtube.com/watch?v=h6snk0m4200
 
 ## curiosities
-**Band Breakup** : The Pixies broke up, which led to the reactivation of The Breeders as Kim Deal was "without anything to do." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Black Francis's Breakup Announcement (January 15, 1993)** : Singer Black Francis decided to leave for good, sending a fax to the management company on January 15, 1993, to announce his departure and the band's official breakup, a decision he later regretted. ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
-**Black Francis's Solo Career** : After the breakup, Black Francis renamed himself Frank Black and released a string of solo albums. ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
-**Breakup Tensions (Early 1990s)** : Tensions built throughout the early 90s due to creative differences, power struggles, and an endless cycle of recording and touring, making the band feel they weren't getting ahead. ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
-**David Lovering's Post-Band Career** : Drummer David Lovering became a magician called "The Scientific Phenomenalist," applying his engineering knowledge to magic, though it was not financially lucrative and led to a "financial mess." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
-**First Reunion Show (April 13, 2004)** : The band played together for the first time since their 1992 U2 show at a club in Minneapolis on April 13, 2004, after a gap of 11 years, two months, and 30 days. ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
-**Increased Fame While Apart** : While the band was apart, their fame grew significantly, helped by bands like The Smashing Pumpkins and Nirvana publicly praising them, building their myth and legend. ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
-**Influence on Blur (Late Britpop)** : The band's "low-fi American alternative music" fascinated Damon Albarn, contributing to Blur's aesthetic reversal away from Britpop in 1997. ← https://www.youtube.com/watch?v=vzyMSSlD7Yg
-**Jim Greer's Spin Magazine Article (1992)** : Bass player Kim Deal's boyfriend, Jim Greer, a writer for Spin Magazine, followed the Pixies on the U2 tour and documented their experiences with U2, management, and road crew, further increasing band tensions. ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
-**Joey Santiago's Post-Band Career** : Guitarist Joey Santiago stayed with music, becoming a composer for TV and film, including writing a couple of songs for the series "Weeds." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
-**Kelly Deal's Legal Troubles** : Kelly Deal was busted when she accepted a FedEx package full of heroin, which took a couple of years to resolve. ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
-**Kim Deal's Frustration** : Kim Deal formed The Breeders because her original songs were not being recorded by The Pixies. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Kim Deal's Post-Breakup Project** : Kim Deal turned her Pixies side project, The Breeders, into a full-time band with her sister Kelly Deal. ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
-**Last Show Before Breakup (April 25, 1992)** : The band was "fried" after their last show with U2 in Vancouver on April 25, 1992, leading to a decision for a one-year break. ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
-**Opening for U2 (1992)** : The band toured opening for U2 during the Achtung Baby tour in 1992, playing to less than a quarter-full arenas and stadiums, as their musical style was a "bad fit" for the audience, despite U2's respect for the band. ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
-**Reunion Motivation (2004)** : The reunion was motivated by "time healing wounds," the fact that no one was making much money separately, and significant financial offers for a reunion tour due to their increased fame. ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
-**Sales Comparison** : The Breeders' second album, "Last Splash" (1993), sold more copies than all The Pixies' records combined up to that point. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Support for The Breeders Demo** : Their UK record label provided Kim Deal with $11,000 to record a demo for The Breeders' first album, "Pod." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
+**Black Francis's Appearance** : Frontman Black Francis was noted for looking somewhat nerdy, departing from the typical image of a rock star, which further contributed to the band's association with "nerd rock." "And if we're honest, frontman black, Francis looked a little nerdy. Certainly unlike a stereotypical rock star." ← https://www.youtube.com/watch?v=h6snk0m4200
+**Cultural Impact and Name Origin** : Even non-musicians were captivated by The Pixies' influence; Chris Carter, the creator of The X-Files, named the lead character in his series Millennium, Frank Black, after the name Black Francis adopted after the Pixies disbanded. "Chris Carter, the creator of the X-Files, named the lead character in the series Millennium, Frank Black, because that was the name Black Francis assumed after the Pixies broke up." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
+**Distinctive Dynamics and Influence** : The Pixies immediately stood out due to their dynamic shifts, featuring quiet verses that gave way to explosive choruses using Sonic Youth-like chords. This approach went on to inspire and influence hundreds of aspiring musicians, including Kurt Cobain of Nirvana, Dave Grohl, and Billy Corrigan of The Smashing Pumpkins. "Quiet verses gave way to explosive choruses using sonic youth like chords. An approach that would eventually inspire and influence hundreds of aspiring musicians, including a kid named Kurt Cobain of Nirvana and Dave Grohl, the Hoofwriters and Billy Corrigan of the Smashing Pumpkins." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
+**Formation and Lineup** : The Pixies were formed in 1986 by two roommates from the University of Massachusetts: guitarist and singer Black Francis (real name Charles Michael Kijerich Thompson IV, an anthropology major) and Joey Santiago. They were soon joined by former cheerleader Kim Deal on bass, and her friend David Lovering on drums. "They were formed in 1986 by two roommates from the University of Massachusetts, guitarist and singer-black Francis and anthropology major whose real name is Charles, Michael Kijerich, Thompson IV and Joey Santiago." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
+**Influence on Alternative Music** : Despite potentially not identifying as a "nerd rock band," their unique approach influenced a wide range of artists from Radiohead to Nirvana and The Smashing Pumpkins, and had a specific impact on the geeky bands that emerged in the 1990s. "Their influence on everyone from radio head to Nirvana to the smashing pumpkins is well documented." ← https://www.youtube.com/watch?v=h6snk0m4200
+**Inspiration for Lollapalooza** : While playing in England, The Pixies may have inspired the entire Lollapalooza concept. When they headlined the final day of the 1990 Reading Festival, over 30,000 people happily sang along. Legend has it that members of Jane's Addiction's management team were so impressed by this display of raw energy and the crowd's engagement with a particular song that they wondered if a similar atmosphere could be created in North America, leading to the first Lollapalooza show less than a year later in Arizona. "And it was while playing in England that the Pixies may have inspired the entire law of a pollution concept. Let me explain that." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
+**International Label Deal** : Unable to find an American label interested in their experimental noise, The Pixies were initially signed by 4AD, an adventurous indie label based in the UK. "As they couldn't find an American label interested in their brand of experimental noise, the group was first picked up by 4AD, that adventurous indie label out of the UK." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
+**Toured with Weezer** : Weezer's "Drive Times" app included routing for a spring tour with The Pixies. "Here is the routing we got from Weezer's agent, William Morris, Endeavor agency. And this is our spring tour next spring with the Pixies." ← https://www.youtube.com/watch?v=LYRPxtP61JM
+**Unconventional Interests** : Members of the band exhibited unconventional interests, such as one member who worked as a professional magician, and their songs often reflected a general curiosity for strange topics, including science fiction and astronomy. "One of their members moonlight as a professional magician, and their song show a general interest in strange things, including science fiction and astronomy." ← https://www.youtube.com/watch?v=h6snk0m4200
+**University Origins** : The Pixies formed at the University of Massachusetts, establishing an early connection to an academic environment. "First of all, the band was born at the University of Massachusetts." ← https://www.youtube.com/watch?v=h6snk0m4200
 

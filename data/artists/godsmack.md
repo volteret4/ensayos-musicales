@@ -1,8 +1,9 @@
 # artist - Godsmack
 
-## members
-- Sully Erna
+## albums
+**Godsmack (1998) – Self-Titled Album** : The cover of Godsmack's 1998 self-titled album features a striking photograph of Tony Tiller, a woman with distinctive red hair, wild eyebrows, and piercings, looking over her left shoulder. The band discovered this 1994 photo, originally taken in Brooklyn, in a photographer's book and subsequently bought the rights to use it for their album art. "It features a woman with red hair, wild eyebrows, and piercings looking over her left shoulder." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
 
 ## curiosities
-**Warped Tour Veteran** : Joined the Warped Tour as a "seriously grizzled veteran." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
+**"Godsmack" Album Controversy & Sales Impact** : The 1998 self-titled Godsmack album sparked controversy due to its liner notes, which included a Wiccan pentagram and references to "Salem Witches," along with lyrics deemed "outrageously offensive" by a concerned parent. This led to complaints about the absence of a parental advisory warning, resulting in major retailers Walmart and Kmart refusing to sell the record. The label then issued an altered version with the advisory sticker, which ironically caused the album to sell even better. "Some father in the US took notice of the record and was outraged that there wasn't a parental advisory warning on the cover." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
+**Model on Self-Titled Album Cover** : Tony Tiller, the woman with red hair and piercings featured on Godsmack's 1998 self-titled album cover, had her photograph taken in Brooklyn in 1994 while she was deeply involved in the club scene and its fashion drama. She only discovered her image was used when the album was released and now lives off the grid, bald, often barefoot, and dedicated to meditation, esoteric studies, cooking, and unique artsy hobbies, jokingly running a "reform school for rude kittens." "Tony only found out about it when the album was released." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
 

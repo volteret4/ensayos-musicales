@@ -1,6 +1,8 @@
 # genre - Emo
 
 ## curiosities
-**Goth Leanings (N/A)** : Some emo-ish bands emphasize their Goth leanings, particularly with their look. ← https://www.youtube.com/watch?v=RvzvcACkYqk
-**Mainstream Integration (Mid-2000s)** : Went mainstream in the mid-2000s, which helped pop punk to "pick up steam." ← https://www.youtube.com/watch?v=pE7TaWSUa-o
+**Origins and Mainstream Rise** : Emo had its roots in the American Underground Hardcore punk scene of the 1980s but began to bubble up into the mainstream by the late 1990s. Its breakthrough was characterized by bands applying pop sensibilities to emotional themes of heartbreak and loss, making it more marketable and appealing. "Now Emo had its roots in the American Underground Hardcore punk scene of the 1980s. But by the late 1990s, it had begun to bubble up towards the mainstream." ← https://www.youtube.com/watch?v=-CT7yYXonIk
+**Post-9/11 Resonance** : After the events of September 11, 2001, music infused with anguish, such as Emo, seemed particularly relevant and necessary. This context likely amplified the genre's appeal and contributed to its subsequent surge in popularity. "And after the events of 9-11, music with anguish seemed to be necessary." ← https://www.youtube.com/watch?v=-CT7yYXonIk
+**Short-Lived Trend (2000s)** : Emo was an alt-rock trend that burned intensely but had a relatively short lifespan. By 2009, most rock fans had grown tired of it and moved on, indicating its rapid peak and subsequent decline within the music landscape. "Emo was one of those alt rock trends that burned very hot and very bright. And it didn't last very long." ← https://www.youtube.com/watch?v=-CT7yYXonIk
+**Subculture and Fashion** : The rise of Emo music led to the creation of a distinct Emo subculture, complete with its own fashion, hairstyles, and language. For a period, it seemed that nearly every new band was labeled Emo, highlighting its widespread cultural impact. "The Emo subculture was created to service all this with its own fashion and hairstyles and language." ← https://www.youtube.com/watch?v=-CT7yYXonIk
 

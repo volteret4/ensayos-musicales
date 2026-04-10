@@ -1,15 +1,6 @@
 # artist - Beck
 
-## venues
-- Coachella (1999)
-- Lollapalooza (1992-1995)
-- Warped Tour
-
 ## curiosities
-**Arkansas Ranch House Rental** : Beck reportedly rents out a three-bedroom, two-bathroom ranch house with hardwood floors, a fireplace, and a large backyard in North Little Rock, Arkansas, for $1,250 a month. ← https://www.youtube.com/watch?v=qtdetc5-MQo
-**Coachella Performance (1999)** : Beck was part of the lineup for the very first Coachella festival on October 9-10, 1999. ← https://www.youtube.com/watch?v=7JP2tjJibTQ
-**Influenced by Gary Numan** : Beck was influenced by Gary Numan. ← https://www.youtube.com/watch?v=hmnMG6f80Sg
-**Lollapalooza Participation (1992-1995)** : Beck was among the major participants during Lollapalooza's "glory years" between 1992 and 1995. ← https://www.youtube.com/watch?v=7JP2tjJibTQ
-**Management by Silver Artist Management** : Beck is among the current clients managed by John Silva's Silver Artist Management. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
-**Warped Tour Participation** : Beck is listed among the staggering number of artists who played on the Warped Tour. ← https://www.youtube.com/watch?v=7JP2tjJibTQ
+**Backstage Rider – Modest Requirements** : Beck had a reputation for being similarly undemanding in his rider requests. He typically asked for two packs of Rice Krisps, a container of hummus, and some bottled water and soft drinks, reflecting a very straightforward approach to backstage hospitality. "Two packs of rice crisps, a container of hummus and some bottled water and soft drinks." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**Declined Mad Men Score Offer** : Beck was approached multiple times by the producers of the TV series *Mad Men* with an offer to compose the score for the show. Despite repeated invitations, he declined all of them. "When producers were pulling together the TV series that would be known as Mad Men, they offered back the chance to write the score. They offered in the gig multiple times, but he turned them all down." ← https://www.youtube.com/watch?v=aSk1XQHNkd8
 

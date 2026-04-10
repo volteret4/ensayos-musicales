@@ -1,8 +1,8 @@
 # artist - Geddy Lee
 
-## members
-- Geddy Lee
+## instruments
+- Mini-Moog
 
-## curiosities
-**Negro League Baseball Collection and Donation** : Geddy Lee is an avid baseball fanatic. He once collected over 200 autographed baseballs from the old Negro League, which he later donated to the Negro Baseball League Museum in Kansas City. ← https://www.youtube.com/watch?v=xc85sLj0Cnk
+## songs
+**Tom Sawyer (1981)** : Geddy Lee extensively uses the Mini-Moog synthesizer on Rush songs, including the iconic track "Tom Sawyer." The instrument's unique sounds are a prominent feature of the band's progressive rock style. "Getty Lee used a lot of Mini-Mog on rush songs including Tom Sawyer." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
 

@@ -1,41 +1,25 @@
 # artist - Talking Heads
 
 ## members
-- Chris
-- Chris Frantz
 - David Byrne
-- Jerry Harrison
-- Martino
-- Tina
-- Tina Weymouth
 
 ## genres
+- Dance Punk
 - Funk
+- Nerd Rock
 - New Wave
-- Post-Punk
-- Punk
+- Punk Funk
+- Punk Rock
 
-## venues
-- CBGB
-- Unspecified "scuzzy little club" in New York
+## albums
+**Fear of Music (1979) – Second with Brian Eno** : This was the band's third album overall, and their second collaboration with producer Brian Eno. It marked a significant evolution in their sound, becoming incredibly danceable and fresh due to its strong, funky rhythm section. "By their third album, their second with producer Brian Eno, they devolved into something so dancing, yet so fresh, that you couldn't help moving to the beat." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 
 ## songs
-**Crosseyed and Painless** : Featured as an example of the band's rhythm section work, anchored by Chris Frantz and Tina Weymouth. ← https://www.youtube.com/watch?v=CVPPymc_qrk
-**Life During Wartime** : This song features the dream bass playing of Tina Weymouth, showcasing her distinctive funky style. ← https://www.youtube.com/watch?v=95clNVd0hYg
+**Life During Wartime (1979)** : This song, released in 1979, exemplified the Talking Heads' nerdy musical approach, especially when contrasted with the mainstream rock releases of the era from bands like Van Halen, Led Zeppelin, The Eagles, Tom Petty, and Aerosmith. Its distinctive sound showcased how weird and nerdy their music was perceived at the time. "Talking heads from 1979 and life during wartime put that song into the context of the big mainstream rock releases of the day." ← https://www.youtube.com/watch?v=h6snk0m4200
 
 ## curiosities
-**Art School Origins** : Chris Frantz and Tina Weymouth met while attending art school in Rhode Island. ← https://www.youtube.com/watch?v=CVPPymc_qrk
-**Breaking 70s Stereotypes** : Tina Weymouth broke many stereotypes prevalent in the 1970s, when girls were typically expected to only sing or strum an acoustic guitar. Punk rock's ethos, "if you have something to say, say it. All you need is the guts to do it," helped to dismantle these rules. ← https://www.youtube.com/watch?v=95clNVd0hYg
-**Brian Eno's Production Influence** : Producer Brian Eno contributed to the group creating slinky and funky grooves, which took post-punk musicianship to new levels. ← https://www.youtube.com/watch?v=CVPPymc_qrk
-**Chris Frantz and Tina Weymouth's Relationship** : Chris Frantz (drums) and Tina Weymouth (bass) are a husband and wife team. ← https://www.youtube.com/watch?v=CVPPymc_qrk
-**Evolution of Time Signature** : Early Talking Heads material was in basic 4/4 time, but their sound evolved significantly by the 1980s. ← https://www.youtube.com/watch?v=CVPPymc_qrk
-**Formation and Early Days** : The group was formed by David Byrne, Chris, and Martino after they lived together in Rhode Island while attending art school. They later moved to New York City, where they spent a lot of time playing gigs at "a scuzzy little club." ← https://www.youtube.com/watch?v=oPgeSCy93bo
-**Impact on Female Musicians** : Tina Weymouth's very appearance as a bass player with the Talking Heads exploded numerous stereotypes and broke down many silly preconceptions. She was a leading "suffragette" for the cause of the female bassist back in the day. ← https://www.youtube.com/watch?v=95clNVd0hYg
-**Inspiration for Future Female Bassists** : Her influence started a trend, inspiring many female bassists who followed, including Melissa Auf der Maur (Whom, Smashing Pumpkins), D'Arcy Wretzky (Smashing Pumpkins), Kim Deal (Pixies, The Breeders), Kim Gordon (Sonic Youth), Nikki Monninger (Silversun Pickups), and Sean Yseult (White Zombie). ← https://www.youtube.com/watch?v=95clNVd0hYg
-**Move to New York** : Chris Frantz and Tina Weymouth decided to move to New York with singer David Byrne in the middle 1970s. ← https://www.youtube.com/watch?v=CVPPymc_qrk
-**Musical Skill and Funkiness** : Beyond her visual impact, Tina Weymouth was also a very good musician; few new wave bands had a bass player as funky as she was. ← https://www.youtube.com/watch?v=95clNVd0hYg
-**Pioneer Female Bassist (1976-1977)** : When Talking Heads moved to New York in 1976-1977, people were shocked to discover their bass player was a woman, as very few had ever seen such a thing before. This was considered "unladylike" and almost as scandalous as a woman playing the drums. ← https://www.youtube.com/watch?v=95clNVd0hYg
-**Post-Band Careers** : Following their time with Talking Heads, David Byrne pursued a solo career, Jerry Harrison embarked on his own projects, and Chris and Tina formed the band Tom Tom Club. ← https://www.youtube.com/watch?v=oPgeSCy93bo
-**Rhythmically Complex Sound** : Out of all the bands to emerge from the punk and new wave scene of the late 1970s and early 1980s, the Talking Heads were easily the most rhythmically complex. ← https://www.youtube.com/watch?v=CVPPymc_qrk
-**Signed by Seymour Stein** : Talking Heads were signed to Sire Records by its founder, Seymour Stein. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
+**Art School Background and Convention Challenge** : The Talking Heads, with their solid art school background, aimed to challenge musical conventions, contributing to their "bent" musical outlook. "With a solid art school background, the group was all about challenging conventions when it came to music." ← https://www.youtube.com/watch?v=h6snk0m4200
+**David Byrne's Social Awkwardness** : Frontman David Byrne was known for being socially awkward in person, later speculating that he might be on the Asperger spectrum. This awkwardness often translated into his stage presence, making him appear quirky, experimental, and occasionally paranoid, yet he was celebrated in the punk era for his authenticity. "In person, he was socially awkward. He later speculated that he's somewhere on the Asperger spectrum and was almost as awkward on stage." ← https://www.youtube.com/watch?v=h6snk0m4200
+**Embrace of Individuality in Punk** : The Talking Heads thrived in the late 1970s punk rock scene, which allowed artists to express themselves regardless of their identity or musical ability, as long as they had something meaningful to say. This environment was perfect for their unique, nerdy music. "He's a great example of how punk allowed everyone to be who they were. As long as you had something to say, you should be able to say it regardless of who you were or your musical ability." ← https://www.youtube.com/watch?v=h6snk0m4200
+**Influence on Modest Mouse** : Modest Mouse was described as sounding like a "reincarnation" of Talking Heads in the 2006-2007 period. This indicates the enduring influence of Talking Heads' distinctive sound on subsequent generations of bands. "Modest mouse sounded like a reincarnation of the talking heads." ← https://www.youtube.com/watch?v=-CT7yYXonIk
 

@@ -1,7 +1,5 @@
 # genre - New Rock
 
 ## curiosities
-**100 Weird Things About New Rock Series** : An ongoing 10-part podcast series exploring various "weirdnesses" in new rock, including sex, the law, drugs, strange recordings, excess road stories, and bad behavior, with Part 5 focusing on the intersection of rock and drugs. ← https://www.youtube.com/watch?v=RKvFJMkZdBE
-**Podcast Focus** : The podcast "Angling History of New Music Podcast with Alan Cross" focuses on the ongoing history of new music, specifically highlighting "New Rock's greatest rhythm sections." ← https://www.youtube.com/watch?v=CVPPymc_qrk
-**Top 100 Moments Series (2004)** : The content discussed is part of a series called "The Top 100 Moments in New Rock," which originally aired in the spring of 2004. This series aimed to document significant events in the genre's history. ← https://www.youtube.com/watch?v=Somq2MoRi5Q
+**Top 100 Moments Broadcast (2004)** : The "Top 100 Moments in New Rock" series originally aired in the spring of 2004, providing a historical perspective on pivotal events in the genre's development up to that point. The series aimed to revisit where music had been and how much it had changed. "Now bear in mind that these shows originally aired in the spring of 2004." ← https://www.youtube.com/watch?v=MTDY6qT11Dc
 

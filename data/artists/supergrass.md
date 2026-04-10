@@ -1,5 +1,5 @@
 # artist - Supergrass
 
-## curiosities
-**Britpop Era Band** : Mentioned as one of the bands present at the Britpop "party" in the mid-1990s. ← https://www.youtube.com/watch?v=vzyMSSlD7Yg
+## songs
+**Alright (1996)** : The distinctive couch, a recurring prop in The Cranberries' album art, made an appearance in the music video for Supergrass's 1996 song "Alright." Its presence in the video hints at its journey and use across different artistic projects. "Although it did appear in the video for the Supergrass song, all right, in 1996." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
 

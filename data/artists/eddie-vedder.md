@@ -1,17 +1,11 @@
 # artist - Eddie Vedder
 
-## members
-- Corin Tucker (Sleater-Kinney) – guest vocals
-- Eddie Vedder
-
-## albums
-**Into the Wild (2008) – Original Soundtrack** : Eddie Vedder contributed the entire soundtrack for Sean Penn's 2006 movie "Into the Wild," which told the true story of Christopher McCandless. The soundtrack was released in September 2008 and included Eddie's cover of "Hard Sun." ← https://www.youtube.com/watch?v=yuA9Xor8vfw
-
-## songs
-**Hard Sun (2008) – Indio Cover** : Sean Penn, working on the movie "Into the Wild," suggested Eddie Vedder cover "Hard Sun" by Canadian artist Indio (Gordon Peterson) after finding an out-of-print CD. Vedder, unfamiliar with Indio, loved the song and included it on the soundtrack, bringing in Corin Tucker of Sleater-Kinney for backup vocals. The song was released as a single when the soundtrack came out in September 2008 and became a hit. Gordon Peterson sued Vedder, alleging lack of permission and "eroding the integrity of the song" by changing lyrics (e.g., from "when she comes to greet me, she is mercy at my feet. When I stayed to pillage her, she just throws it back at me"). However, a judge ruled in April 2010 that Vedder did not materially infringe on the song, as he kept the general structure and melody. ← https://www.youtube.com/watch?v=yuA9Xor8vfw
+## genres
+- Grunge
 
 ## curiosities
-**Childhood Taping Habit – Early Bootlegger** : As a child, Eddie Vedder would secretly bring tape recorders into concerts to capture performances, reflecting an early personal interest in live music preservation that later influenced Pearl Jam’s policies. ← https://www.youtube.com/watch?v=OrHtPVBjXw4
-**Surfing Enthusiast** : Eddie Vedder has a passion for surfing, which has led to dangerous encounters with rip currents, nearly killing him on multiple occasions. ← https://www.youtube.com/watch?v=xc85sLj0Cnk
-**The Vandals Fan** : Was a fan of The Vandals. ← https://www.youtube.com/watch?v=tZV1lz-obQE
+**Bozo the Clown Show Appearance (Early 1970s)** : One of Eddie Vedder's most significant childhood triumphs was an appearance on the nationally broadcast "Bozo the Clown Show" in the early 1970s. "Eddie's biggest triumph was probably his appearance on the nationally broadcast Bozo the Clown Show in the early 1970s." ← https://www.youtube.com/watch?v=dVJuITJyNTU
+**Child Modeling Career (Early 1970s)** : Before his fame as a grunge icon, Eddie Vedder had a child modeling career in Chicago, often paraded by his mother through photo shoots and TV commercial auditions. He had a headshot listing his details (Eddie J. Mueller, height 43 inches, weight 38 pounds, size 5, hair light brown, eyes blue) and appeared in department store catalogs and commercials for Hallmark reading cards and Chuckles candy. "Eddie was a child model." ← https://www.youtube.com/watch?v=dVJuITJyNTU
+**Mattel's Big Wheel Commercial Appearance (1972)** : Around age seven or eight in 1972, Eddie Vedder appeared in a nationally broadcast TV commercial for Mattel's Big Wheel, which ran during Saturday morning cartoons. "One of the kids on the Big Wheel? Eddie Vetter." ← https://www.youtube.com/watch?v=dVJuITJyNTU
+**Reluctance to be Known as Child Model** : Despite his past as a cute child model, Eddie Vedder, now a grunge icon with serious social, political, and environmental views, prefers not to be remembered for his early career in modeling for brands like Blue and Dales. "He would rather not be known as the cute child model for Blue and Dales." ← https://www.youtube.com/watch?v=dVJuITJyNTU
 

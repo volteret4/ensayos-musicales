@@ -1,13 +1,12 @@
 # artist - Eminem
 
-## venues
-- Warped Tour
+## genres
+- Hip Hop
+- Rap
 
 ## albums
-**Debut Album (November 1996 or 1997)** : Released a debut album the previous November relative to his 1997 Warped Tour appearance. ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
+**The Eminem Show (2002)** : This album was recognized as the biggest selling album of 2002, with sales reaching 8 million copies. Its commercial performance highlighted its popularity at a time when recorded music sales were beginning to face challenges from digital distribution. "The biggest selling album of 2002 was the M&M show with 8 million." ← https://www.youtube.com/watch?v=-CT7yYXonIk
 
-## curiosities
-**Seeking Attention (1997)** : Was still trying to get attention at the time of his 1997 Warped Tour appearance. ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
-**Warped Tour Participation** : Eminem is listed among the staggering number of artists who played on the Warped Tour. ← https://www.youtube.com/watch?v=7JP2tjJibTQ
-**Warped Tour Performer (1997)** : A white rapper from Detroit who performed on the 1997 Warped Tour. ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
+## songs
+**Lose Yourself (2002)** : This song was identified in a New York University study as being highly popular among students who exhibited psychopathic tendencies. The study correlated music preferences with psychopathy scores. "Psychopathic trending students really dug M&M's lose yourself, black streets no diggity, and Justin Bieber's do what you mean." ← https://www.youtube.com/watch?v=aSk1XQHNkd8
 

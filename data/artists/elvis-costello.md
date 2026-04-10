@@ -1,17 +1,8 @@
 # artist - Elvis Costello
 
-## members
-- Declan McManus
-
 ## genres
-- New Wave
-
-## albums
-**This Year's Model (1978)** : His second album, released in 1978, serving as an example of UK New Wave. His music was not punk, straight rock, or traditional pop, but something different: spiky, angular, and somewhat agitated. ← https://www.youtube.com/watch?v=9CNNsqXiL6U
+- Punk Rock (perceived as Nerd Rock)
 
 ## curiosities
-**Exception to Fading Away** : Elvis Costello is cited as "another good one" for a musician who successfully evolves and avoids fading away with age. ← https://www.youtube.com/watch?v=nyfdGYWelic
-**Influence on Hot Hot Heat** : His early new wave style inspired and informed the band Hot Hot Heat. ← https://www.youtube.com/watch?v=9CNNsqXiL6U
-**Inspired by Sex Pistols (December 2, 1976)** : As a computer operator, Declan McManus was greatly inspired by the Sex Pistols after seeing them on a TV show where they caused a scandal by swearing. He admired their "attitude, the anger, the energy." This inspiration led him to quit his computer job, pick up a guitar, and change his name to Elvis Costello. ← https://www.youtube.com/watch?v=oPgeSCy93bo
-**UK New Wave Example (1977-78)** : Considered an example of UK New Wave from the first wave (around 1977-78). ← https://www.youtube.com/watch?v=9CNNsqXiL6U
+**Saturday Night Live Appearance (December 1977)** : During his performance on Saturday Night Live in December 1977, at the peak of his "angry young songwriter" phase, Elvis Costello, dressed with thick glasses and a powder blue sport coat, was observed by SNL writer Tom Davis, who famously thought, "this isn't punk rock, this is nerd rock." This moment contributed to the coining of the term "nerd rock" and directly led to the creation of the recurring "The Nerds" sketch on the show. "In December 1977, Elvis Costello appeared on Saturday Night Live. He was at the height of his angry young songwriter years, complete with his thick glasses and powder blue sport coat." ← https://www.youtube.com/watch?v=h6snk0m4200
 

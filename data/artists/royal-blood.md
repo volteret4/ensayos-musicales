@@ -1,11 +1,12 @@
 # artist - Royal Blood
 
+## members
+- Ben Thatcher
+- Mike Kerr
+
 ## genres
-- Alt Rock
-- Hard Rock
-- Heavy Metal
+- Guitar-based Rock
 
 ## curiosities
-**Brit Award Win (2014)** : became the first rock band formed within the last decade to win a Brit Award for Best British Group in 2014. ← https://www.youtube.com/watch?v=sOU54d8mr5k
-**Continued Performance in 2010s** : one of the older groups that kept doing what they did best throughout the 2010s. ← https://www.youtube.com/watch?v=sOU54d8mr5k
+**Emerging Guitar-Based Band** : Royal Blood, a guitar-based band with an edgy sound, successfully found their footing in late 2012, demonstrating that some rock acts could still break through despite the genre's overall struggles in the 2010s. "Royal blood, very much a guitar-based band with an edge. Mike Care and Ben Thatcher found their footing in late 2012, and they managed to figure things out." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
 

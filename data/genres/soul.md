@@ -1,8 +1,5 @@
 # genre - Soul
 
 ## curiosities
-**Fishbone's Blend** : Fishbone incorporated soul elements into their blend of genres. ← https://www.youtube.com/watch?v=PdCAjFW04Oc
-**Rob Gretton's DJ Setlist** : Before punk records were widely available, Rob Gretton, later manager of Joy Division and New Order, frequently played soul and reggae music during his DJ sets at the Rafters club in Manchester. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
-**Something On Your Mind (1960)** : Bobby Marshan's song "Something On Your Mind" (1960) is identified as a soul track. ← https://www.youtube.com/watch?v=Epz5Sn151bk
-**Tim Buckley's Exploration** : Tim Buckley explored elements of soul in his music during his career. ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
+**Les Paul Guitar's Versatility** : The Gibson Les Paul guitar has been continuously in production since its 1952 introduction and is widely used across virtually every genre, including soul. Its solid-body design resolved feedback issues common with older hollow-body guitars, making it ideal for amplified soul music. "The Les Paul has been in production ever since, and has been used by guitars into rock, punk, metal, pop, country, soul, R&B, jazz, reggae, and virtually every other genre you want to mention." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
 

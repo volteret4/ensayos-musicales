@@ -1,7 +1,5 @@
-# genre - Electronic Music
+# genre - Electronic music
 
 ## curiosities
-**Foundation on Roland TR-808** : The Roland TR-808 drum machine is considered the foundation of a significant amount of electronic music, largely due to its unique sound characteristics derived from defective transistors. ← https://www.youtube.com/watch?v=0DFmS6MPbFI
-**Industrial Subgenre** : Cabaret Voltaire played a role in the creation of the heavy form of electronic music known as Industrial Music. ← https://www.youtube.com/watch?v=VOv5mT1dJd8
-**Malcolm McLaren's Exploration** : Malcolm McLaren later explored electronic music and club music, releasing a series of singles and albums that achieved success on the dance charts. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
+**John Frusciante's Work During Hiatus** : During his time away from the Red Hot Chili Peppers, John Frusciante was actively involved in making electronic music, though he continued to practice guitar. This period marked a different creative direction for him before his return to rock music. "Practicing guitar is something I was always doing even though I'm making electronic music." ← https://www.youtube.com/watch?v=Nr-3Y3UWQcI
 

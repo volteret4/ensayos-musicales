@@ -1,10 +1,5 @@
 # artist - Liam Gallagher
 
 ## curiosities
-**Captain's Intervention (1998)** : During the March 1998 air rage incident, the captain intervened, threatening to divert the flight and remove Liam, Oasis, and their 30-member entourage if the disturbance continued. ← https://www.youtube.com/watch?v=hmnMG6f80Sg
-**Captain's Intervention (March 1998)** : The captain had to intervene, threatening to divert the flight and remove Liam, the rest of Oasis, and their 30-member entourage if the disruptive behavior continued. ← https://www.youtube.com/watch?v=3eGBnwPWRGo
-**Cathay Pacific Air Rage Incident (1998)** : In March 1998, on a Cathay Pacific flight from Hong Kong to Perth, Australia, Liam Gallagher reportedly freaked out over a scone. The incident escalated, involving him lighting a cigarette, swearing at the flight crew, and throwing items around the cabin. ← https://www.youtube.com/watch?v=hmnMG6f80Sg
-**Cathay Pacific Air Rage Incident (March 1998)** : On a Cathay Pacific flight from Hong Kong to Perth, Australia, he reportedly "freaked out over a scone," escalating into a full-blown case of air rage. He lit a cigarette, swore at the flight crew, and threw items around the cabin. ← https://www.youtube.com/watch?v=3eGBnwPWRGo
-**Cathay Pacific Ban** : Liam Gallagher is still banned from Cathay Pacific. He has stated he would rather walk to Australia than fly with the airline again. ← https://www.youtube.com/watch?v=hmnMG6f80Sg
-**Cathay Pacific Flight Ban** : Liam Gallagher is still banned from Cathay Pacific, stating he would "rather walk to Australia than fly Cathay." ← https://www.youtube.com/watch?v=3eGBnwPWRGo
+**Alleged Teeth Extraction in German Brawl** : Liam Gallagher claims that during a brawl in a German bar in 2002, local police retaliated for him starting the fight by pulling a bunch of teeth out of his head with pliers while he was unconscious. "Liam Gallagher claims that when he got into a brawl in a German bar in 2002, local police pulled a bunch of teeth out of his head with pliers while he was unconscious in retaliating for starting the fight." ← https://www.youtube.com/watch?v=GO0K_N7Ys7I
 

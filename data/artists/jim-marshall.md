@@ -1,21 +1,14 @@
 # artist - Jim Marshall
 
-## venues
-- London
-
 ## instruments
-- Amplifiers
-- Drums
-- Marshall amplifier
-- Marshall stack
-- Speaker cabinets
+- JTM45 amplifier (inventor)
+- Marshall Stack (inventor)
 
 ## curiosities
-**Addressing Customer Needs for Rock and Roll** : Customers began to complain that American amps were inadequate for the "new-ish thing called rock and roll." ← https://www.youtube.com/watch?v=gsSTJWN6cUo
-**Drum Shop Owner (1960)** : Opened his own drum shop in London in 1960, where he continued to perform and teach lessons. ← https://www.youtube.com/watch?v=gsSTJWN6cUo
-**Early Life and Engineering Background** : Born in England in 1923. Worked in his family's fish and chip shop. Unable to enlist in the war due to health reasons, he studied to be an engineer. ← https://www.youtube.com/watch?v=gsSTJWN6cUo
-**Interest in Sound and Amplification** : As an engineer, he was deeply interested in sound and amplification. His shop sold American-made amplifiers like Fender amps. ← https://www.youtube.com/watch?v=gsSTJWN6cUo
-**Invention of the Marshall Amplifier (1963)** : In 1963, Jim and his staff engineered and built what they intended to be the "loudest, cleanest, most rugged amplifier they could make." ← https://www.youtube.com/watch?v=gsSTJWN6cUo
-**Legacy of Marshall Amplifiers** : This amplifier, along with speaker cabinets featuring 12-inch and 19-inch speakers, became hugely popular with British musicians. His products, including the famous Marshall amplifier and Marshall stack, are still considered "standard gear" and "dream gear" for guitar players globally, and were "conceived, invented, manufactured and marketed by a drummer." ← https://www.youtube.com/watch?v=gsSTJWN6cUo
-**Talented Drummer and Teacher** : Became a very skilled drummer very quickly. Taught drums to students who would become prominent musicians, including Mitch Mitchell (Jimi Hendrix) and Mickey Waller (Jeff Beck, Rod Stewart, Jimmy Page). ← https://www.youtube.com/watch?v=gsSTJWN6cUo
+**Challenge to Design Louder Amplifiers** : Jim Marshall was consistently approached by musicians like Pete Townshend and Ritchie Blackmore, who expressed a strong desire for bigger, more powerful, and louder amplifiers. They challenged him to design an amp with specific sound and flexibility requirements. "And the one thing that they always talked about, the one thing they always pushed Jim for was a bigger, more powerful, and louder amplifier." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
+**Creation of the JTM45** : After six attempts, Jim Marshall and three employees, working out of a series of garden sheds, successfully created the JTM45. This was the first high-power guitar amplifier specifically engineered to endure and excel in the demanding environment of rock and roll. "Using that design, and after six attempts, Jim and three employees working in a series of garden sheds created the JT-M45, the first high-power guitar amp designed to survive and thrive in a super-intense rock-and-roll environment." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
+**Drummer and Music Shop Owner** : In 1962, Jim Marshall was a drummer based in London who also gave lessons at his music shop. His shop became a hub for musicians, including many future British stars, who frequently requested more powerful amplifiers. "In 1962, Jim Marshall was a drummer playing around London and giving lessons at his music shop." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
+**Inspiration from Fender Bassman** : Before designing his own amplifiers, Jim Marshall imported units, including many Fender Bassman amps, despite their high cost. He used the Bassman as a starting point, taking one apart to understand its design and mechanics. "Before he started building his own amps, Jim Marshall imported units from elsewhere. And that included a ton of Fender Basements, even though they were very expensive." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
+**Meaning of "JTM45"** : The "J" in JTM45 stands for Jim (Marshall), the "T" for his son Terry, and the "M" for Marshall. The "45" originally denoted its output of 45 Watts, though later models pushed significantly more power. "Why JT-M? Well, the J is for Jim, the T is for his son Terry, and the M is for Marshall, of course. And the 45? Well, that was its original output, 45 Watts." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
+**Rapid Success of Marshall Amplifiers** : The JTM45's first live performance occurred at a pub gig in September 1963. Within just 18 months, Marshall amplifiers had become the most popular amps throughout the United Kingdom, even surpassing the previously dominant Vox amplifiers used by The Beatles. "Within 18 months, Marshall's were the most popular amps in all of the UK, even blowing away Vox amplifiers, which were used by the Beatles." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
 

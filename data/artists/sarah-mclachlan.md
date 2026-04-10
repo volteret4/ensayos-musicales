@@ -1,8 +1,8 @@
 # artist - Sarah McLachlan
 
-## venues
-- Lilith Fair
+## labels
+- Network Records
 
 ## curiosities
-**Lilith Fair Founding (1997)** : Sarah McLachlan founded Lilith Fair, a female-centric festival that toured North America for three consecutive summers, beginning in 1997. ← https://www.youtube.com/watch?v=7JP2tjJibTQ
+**Nurtured by Network Records** : Network Records played a role in nurturing the rise of Sarah McLachlan, a young woman from Nova Scotia who was part of a band called October Game. "Later, Network would find a young Nova Scotia woman from a band called October Game and helped nurture the rise of Sarah McLaughlin." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
 

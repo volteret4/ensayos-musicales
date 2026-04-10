@@ -2,4 +2,28 @@
 
 ## members
 - Ed Robertson
+- Steven Page
+
+## genres
+- Geek Rock
+- Nerd Rock
+
+## labels
+- Network Records
+- Warner
+
+## albums
+**Gordon (1992)** : Following a bidding war among record labels, Barenaked Ladies signed with Warner and released "Gordon" in 1992. This album became a number-one record and achieved platinum status, setting the stage for almost a decade of successful nerd rock. "And after a bidding war they signed on to Warner and released an album called Gordon in 1992. A number one record and another platinum release." ← https://www.youtube.com/watch?v=h6snk0m4200
+
+## songs
+**If I Had $1000000 (1992)** : This song is famously associated with fans throwing boxes of Craft Dinner at the band during performances, a tradition stemming from the song's lyrics. The band discourages this practice due to the potential for injury. "And to this day, fans insist on throwing boxes of craft dinner at the band as the result of this song." ← https://www.youtube.com/watch?v=h6snk0m4200
+
+## curiosities
+**Backstage Rider – Bananas and Scotch** : The Barenaked Ladies used to ask for 20 pounds of bananas, along with one good bottle of single malt scotch, in their rider. "The bear naked ladies used to ask for 20 pounds of bananas for some reason, along with one good bottle of single malt scotch." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**Backstage Rider – Dietary Open-Mindedness with Exclusions** : The band and crew described themselves as "very open-minded yet health conscious about their diets," welcoming diverse meal ideas like Turkey dinner, Indian, Japanese, Meatloaf, or Ham and Scalloped potatoes. However, they explicitly requested not to be offered "chicken breast or vegetarian lasagna again," suggesting these items had become overused. "So please don't offer chicken breast or vegetarian lasagna again." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**First Indie Platinum in Canada** : "The Yellow Tape" cassette, self-released by the Barenaked Ladies in 1991, became the first independent music release in the history of Canadian music to be certified platinum, selling nearly 100,000 copies. "That was the first ever indie release to be certified platinum in the history of Canadian music." ← https://www.youtube.com/watch?v=h6snk0m4200
+**Founding Members and Humor** : The group was founded by Ed Robertson and Steven Page, who channeled their distinctive sense of humor into their songwriting. "The group was formed by Ed Robertson and Stephen Page. They both had an odd sense of humor which they channeled into writing songs." ← https://www.youtube.com/watch?v=h6snk0m4200
+**Given New Lease on Life by Network** : Network Records is credited with providing the Barenaked Ladies with a new lease on life, suggesting a significant boost or turning point in their career. "And Network was responsible for giving the bare naked ladies a new lease on life." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
+**Origins as Buskers in Toronto** : The Barenaked Ladies began their career as unusual buskers in Toronto, often described as performance artists due to their geeky and nerdy style. "Toronto's bare naked ladies were launching their career as weird buskers. They were almost performance artists of some sort." ← https://www.youtube.com/watch?v=h6snk0m4200
+**The Yellow Tape (1991)** : Despite persistent rejections from record labels, the band released a cassette called "The Yellow Tape" in 1991, primarily to meet demand from their loyal cult following. It sold nearly 100,000 copies directly from their performances, becoming the first indie release in Canadian music history to be certified platinum, eventually leading to a major label deal. "In 1991 they released a cassette called The Yellow Tape because, well it was yellow. And the whole idea was to satisfy demands from fans. They sold so many off the stage that it ended up becoming a legitimate commercial release selling nearly 100,000 copies." ← https://www.youtube.com/watch?v=h6snk0m4200
 

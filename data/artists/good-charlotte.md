@@ -1,11 +1,5 @@
 # artist - Good Charlotte
 
-## genres
-- Pop Punk
-- Pop Punk (criticized)
-
 ## curiosities
-**"Too Light" Criticism** : Considered "a little too light" and "too poppy for punk" in the mid-2000s. ← https://www.youtube.com/watch?v=pE7TaWSUa-o
-**Influenced by Dookie (1994)** : Cited as one of the pop punk bands whose path was paved by the success of Green Day's *Dookie* album. ← https://www.youtube.com/watch?v=nyfdGYWelic
-**Initial Acceptance, Then Rejection** : Started out being "fine" on alt-rock radio but were eventually "showered down by the audience" and accused of "kiddie punk" due to their perceived "lightness." ← https://www.youtube.com/watch?v=pE7TaWSUa-o
+**Influenced by Blink-182** : Good Charlotte is listed among the artists who have been notably influenced by Blink-182, highlighting the impact of Blink-182's sound and career on the development of other bands in the pop punk scene. "Some 41 good Charlotte simple-plan panic at the disco, followed boy, headly, billy talent, you would meet six, paramour, you know, you get the idea." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE
 

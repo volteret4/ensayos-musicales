@@ -1,22 +1,28 @@
 # artist - Devo
 
 ## members
-- Bach Cassali (keyboardist)
-- Gerald Casale
-- Mark Mothersbaugh
+- Buji Boy (persona)
+- The Chinaman (persona)
 
 ## genres
+- Alt Rock
+- Industrial
 - New Wave
+- Post-Punk
+- Sci-Fi Rock
+
+## labels
+- Morecord
 
 ## albums
-**Are We Not Men We Are Devo? (1978)** : This album features the track "Uncontrollable Urge," which was adopted as the theme song for the TV show "Ridiculousness." ← https://www.youtube.com/watch?v=0DFmS6MPbFI
-**Are We Not Men? We Are Devo! (1978) – Debut Album** : This album served as a major introduction to the New Wave sound. It featured a cover of The Rolling Stones' "Satisfaction" that highlighted the genre's unique direction by departing from the expected speed, intensity, and anger of punk. ← https://www.youtube.com/watch?v=bYsV3ozbk4M
+**Are We Not Men? (1978)** : The title of Devo's album was adapted from a line in H.G. Wells' 1896 science fiction novel, "The Island of Dr. Moreau," reflecting the band's intellectual and sci-fi-bent approach to their music. "The album even adepts its title from a line in an 1896 science fiction novel called The Island of Dr. Moro." ← https://www.youtube.com/watch?v=h6snk0m4200
 
 ## songs
-**(I Can't Get No) Satisfaction (1978)** : A cover of the Rolling Stones classic that caused confusion among listeners due to its departure from punk norms. The track's unique arrangement served to highlight how New Wave differed from the angry, high-speed style of traditional punk. ← https://www.youtube.com/watch?v=bYsV3ozbk4M
-**Uncontrollable Urge (1978)** : Featured on the band's 1978 album "Are We Not Men We Are Devo?", this track was never released as a single but became a live favorite and was licensed as the theme song for the TV show "Ridiculousness." The composer, Mark Mothersbaugh, reportedly earned a million dollars a year from this licensing. ← https://www.youtube.com/watch?v=0DFmS6MPbFI
+**Satisfaction (1977)** : Devo's cover of The Rolling Stones' "Satisfaction" is presented as a prime example of their nerdy aesthetic and experimental approach, featuring their distinctive electronic sound. "As for something to play, this cover of the Rolling Stone Satisfaction from 1977 is pretty much as nerdy as it gets." ← https://www.youtube.com/watch?v=h6snk0m4200
 
 ## curiosities
-**"Dorky Bands" Category (Early 1980s)** : Identified as one of the "dorky bands" within the New Wave genre. ← https://www.youtube.com/watch?v=9CNNsqXiL6U
-**Tonto's Temporary Residence** : At one point during its later life, after falling out of widespread use due to its size, the Tonto synthesizer resided in the Los Angeles studio of Mark Mothersbaugh, a member of the band Devo. ← https://www.youtube.com/watch?v=6SdPPsmpgJg
+**David Bowie's Advocacy (1977)** : David Bowie became aware of Devo in 1977 after a friend's wife sent him a demo tape. Bowie was highly impressed and immediately campaigned to secure them a record deal with Morecord. "In 1977, David Bowie heard about Devo when the wife of a friend sent him a demo tape. Bowie loved it and immediately campaigned to get the Morecord deal, which he managed to do." ← https://www.youtube.com/watch?v=h6snk0m4200
+**Distinctive Image and Personas** : The band adopted a unique uniform, consisting of yellow radiation suits and hats resembling plastic flower pots, to visually represent their theory of devolution. They also sometimes appeared on stage under personas such as Buji Boy and the Chinaman. "They began to dress in a weird uniform, yellow radiation suits with hats that looked like plastic flower pots." ← https://www.youtube.com/watch?v=h6snk0m4200
+**Electronic Evolution and Influence** : As Devo delved deeper into electronic music, their sound became even more quirky and strange, inspiring a wide array of artists across new wave, post-punk, industrial, and alt-rock genres, including the B-52s, Oingo Boingo, Nine Inch Nails, Primus, and Weezer. Even Soundgarden covered one of their songs. "As time went on, Devo got deeper into electronics, which only served to make them more quirky and strange." ← https://www.youtube.com/watch?v=h6snk0m4200
+**Formation and Devolution Theory (1973)** : Devo formed in Akron, Ohio, in 1973, developing a theory of devolution, which posited that humankind was regressing or evolving backward. This intellectual concept informed their quirky, experimental music. "They were formed in Akron, Ohio in 1973 and came up with this theory of devolution." ← https://www.youtube.com/watch?v=h6snk0m4200
 

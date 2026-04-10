@@ -3,10 +3,7 @@
 ## members
 - Vince Neil
 
-## albums
-**New Tattoo (2000)** : Mötley Crüe released an album titled "New Tattoo," which contributed to the glorification of tattoos in rock culture. ← https://www.youtube.com/watch?v=jZeMmPekKMQ
-
 ## curiosities
-**Mötley Crüe Glorified Tattoos in the 80s** : During the 1980s hair metal era, Mötley Crüe, alongside bands like Guns N' Roses and L.A. Guns, openly glorified tattoos as a key part of their visual shock appeal, complementing their hair, makeup, and spandex. ← https://www.youtube.com/watch?v=jZeMmPekKMQ
-**Proposed Performance in Iraqi War (Unknown Year)** : Mötley Crüe was in talks with the US State Department to fly to Baghdad during the Iraqi War to play The Rolling Stones' "Street Fightin' Man" for the troops, but the plan never came to fruition. ← https://www.youtube.com/watch?v=qtdetc5-MQo
+**"New Rockers" (Late 1980s)** : Identified as one of the "new rockers" of the late 1980s, characterized by "more flash than substance," during a period when pop music was dominant. "The new rockers, Poison, Motley Crew, Quiet Rhyth, were really more flash than substance." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
+**Vince Neil's Relationship with Jeanine Lindemulder** : Vince Neil, the lead singer of Mötley Crüe, was involved in a sex tape with porn star Jeanine Lindemulder, who famously appeared on the cover of Blink-182's 1999 album "Enema of the State." This detail is noted as part of Lindemulder's extensive and varied career history. "Somewhere on her resume is a sex tape with Motley Crucinger Vince Neal." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
 

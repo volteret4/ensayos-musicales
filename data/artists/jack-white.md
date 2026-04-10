@@ -1,26 +1,13 @@
 # artist - Jack White
 
-## members
-- Jack White
-
-## labels
-- Beggars Banquet Records
-- Matador
-- Rough Trade
-- XL Recordings
-- Young Turks
-
 ## albums
-**Lazaretto (2014) – Title Track** : The title track from this 2014 album was featured in the discussion. ← https://www.youtube.com/watch?v=Z7glrAoXtkA
-**The Upholsterers (Year Unknown) – Debut Album** : Jack White recorded an album with his boss in a band called The Upholsterers, named after their shared profession. ← https://www.youtube.com/watch?v=xc85sLj0Cnk
-
-## songs
-**"Lazaretto" (2014) – Modern Blue Notes** : The guitar solo and lines in the second half of this song are highlighted as a modern application of "blue notes" or "bent notes." These sounds fall between the accepted tones of a piano and outside conventional scales, creating a "slurring" effect. ← https://www.youtube.com/watch?v=_Pi7JLwAeOI
+**Lazaretto (2014) – Featured Track** : An unspecified track from Jack White's 2014 album, "Lazaretto," was played in the discussion, highlighting his continued success as a post-2000 artist capable of filling large venues and achieving widespread distribution across platforms. "This is from 2014. And all you listen to me keep something gotten thrown down to the North. Let's air up a mountain. Quarantine on the aisle now. I'll shout it to a ghost and a way I can. Oh, yeah, I can't. Oh, yeah, I can't." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
 
 ## curiosities
-**Apprentice Upholsterer** : Before breaking into the music business, Jack White was an apprentice upholsterer. He even formed a band, The Upholsterers, with his boss. ← https://www.youtube.com/watch?v=xc85sLj0Cnk
-**Arena Headliners Since 2000** : mentioned as an artist associated with arena-filling capacity, following the White Stripes. ← https://www.youtube.com/watch?v=GmYlTwI_TQQ
-**Certified Indie Artist** : Recognized as a certifiably indie artist due to recording for labels within the Beggars Group, which includes Matador, Rough Trade, XL Recordings, and Young Turks. ← https://www.youtube.com/watch?v=VOv5mT1dJd8
-**Record Store Day Support** : The artist is noted for supporting Record Store Day. ← https://www.youtube.com/watch?v=nX8uAFDzDYM
-**Taxidermy Practitioner** : Jack White has also taken up taxidermy as a hobby. ← https://www.youtube.com/watch?v=xc85sLj0Cnk
+**2014 Tour Rider – "No Banana Tour" Policy** : Jack White's 2014 tour rider famously included a "no banana tour" policy, explicitly stating, "Seriously, we don't want to see bananas anywhere in the building." The reasons for this strict prohibition were not specified, leading to speculation that it might have been another type of promoter test. "Seriously, we don't want to see bananas anywhere in the building." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**2014 Tour Rider – Exact Guacamole Recipe** : Jack White's main requirement in his rider was for fresh guacamole, which had to be made using a very exacting recipe. The rider listed all the necessary ingredients and precisely detailed the methods for combining them, emphasizing that the avocados should "not be mushed too much because we want it chunky." "All the ingredients are listed in the writer, the methods for which they should be combined are listed right there as well. And the avocados must not be mushed too much because we want it chunky." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**Important Figure in Rock (By end of 2000s)** : This guitarist, a former choir boy from Detroit, was referred to in the transcript as "Jack Dwight" and was considered "one of the most important figures in all of rock" by the end of the decade due to his impact with The White Stripes. "By the end of the decade, the guitarist, this former choir boy from Detroit named Jack Dwight, was considered to be one of the most important figures in all of rock." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
+**Post-2000 Superstar Status** : Jack White is recognized as one of the few acts to emerge since 2000 who is consistently capable of filling arenas or amphitheaters and achieving substantial success with both streaming and physical media distribution. "Jack White, one of the few acts to emerge since 2000, who was capable of reliably being able to fill an arena or amphitheater and to have substantial success distributing a song through streaming and physical media." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
+**Preference for Analog Recording** : Jack White is known for his preference for "the old fashioned way" of recording music. This involves using "real to real tape, analog recording consoles," and requiring "take after take after take until they nail their parts," a method that also embraces imperfections for their artistic beauty. "You don't have to be as good as some of the people from the old analog days when you couldn't fix glaring mistakes with digital trickery." ← https://www.youtube.com/watch?v=7Zniri9uSlc
+**Strict Cell Phone Ban at Concerts** : Jack White implements a rigorous policy at his concerts, requiring attendees to lock their cell phones in special bags upon entry. These bags remain locked until fans leave the venue, ensuring a phone-free experience and forcing audience members to engage fully with the live performance. This strict approach is highlighted as an extreme measure against cell phone use at gigs. "And guys like Jack White won't let you into one of his gigs unless you lock your cell phone in a bag that won't be unlocked until you leave." ← https://www.youtube.com/watch?v=xid8CZf4oYo
 

@@ -1,0 +1,7 @@
+# label - Marshall
+
+## curiosities
+**First Marshall Amplifier, the JTM45** : By 1963, Jim Marshall had created the first Marshall amplifier, the JTM45, after musicians frequented his shop seeking louder amps. This amplifier was revolutionary for its time, pushing a "screaming" 100 Watts and utilizing tubes for a warm sound, contrasting with emerging solid-state circuitry. "And by 1963, he had created the first ever Marshall amplifier, the JT-M45. It pushed out a screaming 100 Watts, an unheard of amount for 1963." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
+**Head and Cabinet Design** : Marshall amplifiers pioneered the design where the amplifier (the "head") was separate from the speaker cabinets. This innovative approach allowed bands to string together more heads and cabinets, leading to the visual phenomenon of "giant walls of Marshall cabinets" on stage, often with only some actually plugged in. "The amplifier was separate from the speaker cabinets. It's known as a head, which was a new way of looking at things." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
+**Tube-Driven Warm Sound** : Marshall amplifiers, including the JTM45, were designed with tubes instead of the then-new solid-state circuitry. This choice gave them a wonderfully warm sound that became a signature characteristic. "They also used tubes rather than the hot new solid state circuitry, which gave them a wonderfully warm sound." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
+

@@ -1,5 +1,5 @@
-# genre - Post-punk
+# genre - Post-Punk
 
 ## curiosities
-**Segmentation and Evolution** : Post-punk music underwent continuous separation and segmentation into an ever-growing number of streams, leading to increasingly interesting musical developments. ← https://www.youtube.com/watch?v=VOv5mT1dJd8
+**Definition** : Post-punk describes all music that was encouraged by the punk explosion after roughly 1977 or 1978. "Post-punk is the most common term. That's easy to figure out. It's all the music that the punk explosion encouraged to happen after 1977 or 78 or so." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
 

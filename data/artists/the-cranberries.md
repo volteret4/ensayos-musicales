@@ -2,27 +2,23 @@
 
 ## members
 - Dolores O'Riordan
-- Dolores O'Riordan (singer, songwriter)
-
-## venues
-- Woodstock '94
+- Fergal Lawler
+- Mike Hogan
+- Noel Hogan
 
 ## albums
-**Everybody Else Is Doing It, So Why Can't We?** : The band's first album, which sold six million copies. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**No Need To Argue** : The band's second album, which sold around 17 million copies. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Third Album** : Sold another five million copies. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-
-## songs
-**Some god** : A mosh pit formed during their performance of this song, which was noted as an unusual occurrence. ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
-**Water Circle (1990)** : The band's first recording with Dolores O'Riordan, a rough demo tape circulated to record companies in 1990. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Zombie (1994)** : This was a "monster song" released in 1994. Its original music video featured singer Dolores O'Riordan. ← https://www.youtube.com/watch?v=yuA9Xor8vfw
+**Everybody Else Is Doing It, So Why Can't We? (1993) – Debut Album** : The cover art for the Cranberries' 1993 debut album was conceived by art director Callie and photographed by Andy Earl. The concept involved renting a specific couch and having three band members sit on it, with one member positioned on the floor in front, establishing a visual motif that would recur in their future work. "An art director called Callie was hired. The decision was made to rent a couch and have the members sit on it." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
+**First Two Records** : The band's first two albums were described as "monstrous." "Their first two records were monstrous." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**No Need to Argue (1994) – Second Album** : For their 1994 second album, "No Need to Argue," art director Callie and photographer Andy Earl made a concerted effort to locate and reuse the exact same couch from their debut album. The couch was transported around Dublin for various photos, with the final cover shot taken in a specially constructed stark white studio room, featuring the band in suits, an idea inspired by a recent Blur photoshoot. "Callie called up Earl and had him find that very same couch." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
+**Second Album Sales** : The band's second album sold "almost 17 million copies." "The second sold almost 17 million copies." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Something Else (2017) – Unplugged Album** : The distinctive couch that featured prominently on the Cranberries' early album covers made a return appearance on the cover of their 2017 unplugged album, "Something Else." Its whereabouts in the intervening years remain unknown, though it was seen in a Supergrass video. "The couch disappeared from the Cranberries world until 2017 when it appeared on the cover of the unplugged album." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
 
 ## curiosities
-**90s Cultural Impact** : Their first three albums were widely owned by "90s kids," often alongside records by Pearl Jam and Oasis. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Dolores O'Riordan's Death** : Lived a "delicate existence" for the rest of her life, and died in a London hotel room at the age of 46. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Dolores O'Riordan's Global Fame and Struggles** : Dolores O'Riordan became one of the most famous singers globally (male or female), but the pressures of the music business, endless touring, and constant tabloid/paparazzi harassment led to a nervous breakdown by age 24. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Dolores O'Riordan's Voice** : Dolores O'Riordan possessed a distinctive voice that could range from "sweet as honey" to "growly and yelpy." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Irish Origins** : Formed by four teenagers in Limorak, on the West Coast of Ireland. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Rapid Signing in 1992** : Signed by a record company in 1992 amidst a "stampede to sign any band with a whiff of alternative about them," despite not fitting the usual guitar-heavy North American alt-rock or UK pre-Britpop sound. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Woodstock '94 Performance** : The Cranberries performed at Woodstock '94, contributing to career boosts for alternative acts. ← https://www.youtube.com/watch?v=7JP2tjJibTQ
+**Breakup Date (September 15, 2003)** : While an exact date is difficult to pinpoint, September 15, 2003, is considered approximately correct for when the members scattered to pursue solo endeavors, being "sick of each other" and "tired of being in the band." "It's hard to find an exact date, but September 15th 2003 seems to be about right. All the members scattered after that date to do their own thing." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Dolores O'Riordan's Six-and-a-Half-Year Separation** : Singer Dolores O'Riordan stated she hadn't physically seen "the lads" for six and a half years after the band's initial separation, specifically mentioning Mike Hogan. "I hadn't seen the lads physically for six and a half years, right?" ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Fan Excitement for Reunion** : The band's fans were described as "pumped" and "delighted" about the reunion. "And the fans are called the fans are pumped, they're delighted, you know?" ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Natural Reunion at Trinity College** : Dolores O'Riordan described feeling "really natural" upon seeing her bandmates again at Trinity College, as if she "saw him yesterday," likening the feeling to "a family." "And when I walked in, I just felt really natural. They felt like I saw him yesterday, you know what I mean?" ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Son's Confirmation Catalyst (June 2009)** : Dolores O'Riordan invited Mike and Fergal, along with their families, to her son's confirmation in June. This was her first time seeing Fergal since their separation. The presence of all their children, who didn't remember The Cranberries, also contributed to the reunion desire. "And so then my son then made his confirmation in June and I invited Mike Ferg and no with their wives and children." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**The Recurring Couch Motif** : A specific rented couch became a distinctive and recurring visual element for The Cranberries' album artwork. It appeared on the covers of their debut album, "Everybody Else Is Doing It, So Why Can't We?" (1993), their second album, "No Need to Argue" (1994), and surprisingly, their 2017 unplugged album, "Something Else." The same couch also made a cameo in the 1996 music video for the Supergrass song "Alright." "The couch disappeared from the Cranberries world until 2017 when it appeared on the cover of the unplugged album." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
+**Trinity College Philosophical Society Event (2009)** : The reunion process began when Trinity College made Dolores O'Riordan a member of their philosophical society and invited her to perform. She asked Mike and Noel Hogan and Fergal Lawler to play with her, marking their first reunion. "Trinity College made me a member of their philosophical society and they wanted me to do a couple of songs, you know?" ← https://www.youtube.com/watch?v=yR3xc3ra5tE
 

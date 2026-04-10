@@ -1,6 +1,6 @@
 # artist - Phil Collins
 
 ## curiosities
-**Influential Music Video Artist** : his music videos, along with Madonna, Peter Gabriel, Michael Jackson, and Aerosmith, fascinated Taj Khrichlo and made him fall in love with the art of music videos in the 80s. ← https://www.youtube.com/watch?v=eqTFinLk3oU
-**Influential Music Videos (1980s)** : Phil Collins' music videos from the MTV/MuchMusic era of the 1980s were highly influential, inspiring fascination with music video storytelling, dancing, and style. ← https://www.youtube.com/watch?v=XaLsZFLrMnI
+**Iconic Music Videos** : Phil Collins' music videos from the 1980s were among those that captivated audiences and inspired a passion for music video storytelling during the MTV/MuchMusic era. "watching videos by like Madonna and Peter Gabriel and like Phil Collins and Michael Jackson and and Errol Smith." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
+**Music Video Influence** : Phil Collins' music videos from the 1980s MTV and Much Music era were significant in drawing directors like Director X into the art form, admired for their storytelling, dancing, and distinctive style. "The MTV, much music era watching videos by like Madonna and Peter Gabriel and like Phil Collins and Michael Jackson and Errol Smith." ← https://www.youtube.com/watch?v=IIJySSo276k
 

@@ -1,9 +1,14 @@
 # artist - The Melvins
 
 ## members
-- Buzz Osborne
+- Buzz Osborne (leader)
+
+## genres
+- Grunge
+
+## labels
+- CZ
 
 ## curiosities
-**Buzz Osborne's Recommendation (1990)** : Buzz Osborne, who was idolized by Kurt Cobain, recommended Dave Grohl for the open drummer position in Nirvana after Scream broke up. ← https://www.youtube.com/watch?v=_AY5lS-FmlU
-**Nirvana Connection** : Buzz Osborne, a member of this Seattle band, provided Dave Grohl with Krist Novoselic's phone number, facilitating Grohl's eventual recruitment into Nirvana. ← https://www.youtube.com/watch?v=gsSTJWN6cUo
+**Early Grunge Sound** : The Melvins, led by Buzz Osborne from Aberdeen, Washington, were featured on the 1985 "Deep Six" compilation, contributing some of the earliest sounds of grunge, arguably the most important alternative sound of the 1990s. "That's some of the earliest sounds of grunge, arguably the most important alternative sound of the 1990s. And it started in the local Seattle Indy scene." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
 

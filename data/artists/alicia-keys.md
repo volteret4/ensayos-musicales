@@ -1,12 +1,6 @@
 # artist - Alicia Keys
 
-## genres
-- Hip-hop
-
-## songs
-**[Unnamed 6/8 Song]** : Alicia Keys released a "pretty good" song a few years prior that featured a 6/8 groove. This track incorporated a distinct "hip-hop thing to the bottom" and was influenced by James Brown's "It's a Man's World." ← https://www.youtube.com/watch?v=VR5Fncdc2kQ
-
 ## curiosities
-**Artist with Videos Directed by Director X** : Director X has directed music videos for her. ← https://www.youtube.com/watch?v=eqTFinLk3oU
-**Music Video Collaborations** : Director X has directed videos for Alicia Keys. ← https://www.youtube.com/watch?v=XaLsZFLrMnI
+**Music Video Directing Work** : Taj Khrichlo has directed music videos for Alicia Keys. "I've directed videos for Alicia Keys, Puff Daddy, Cisco, Destiny's Child, Drake, Justin Bieber, Two Chains, Rosalie, Igeez, Shampo, Beanie Man, Ariana Grande." ← https://www.youtube.com/watch?v=IIJySSo276k
+**Videos Directed by Taj Khrichlo** : Alicia Keys is one of the artists for whom Taj Khrichlo has directed music videos. "I've directed videos for Alicia Keys, Puff Daddy, Cisco, Destiny's Child, Drake, Justin Bieber, Two Chains, Rosalie, Igeez, Shampo, Beanie Man, Ariana Grande, Okay, now you're just bragging. Come on, John Mayer, the list goes on." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 

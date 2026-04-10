@@ -1,17 +1,16 @@
 # artist - The Who
 
 ## members
-- Keith Moon
-- Keith Moon (godfather of Zach Starky)
-- Roger Daltrey
+- Pete Townshend
+
+## genres
+- Rock Opera
 
 ## instruments
-- High-powered concert bass amplifiers (from Sun Musical Equipment Company)
+- Gibson Les Paul
+- Marshall Amplifier
 
 ## curiosities
-**Keith Moon as Godfather** : Keith Moon, the legendary drummer for The Who, was the godfather of Zach Starky and gave him his first drum kit. ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
-**Keith Moon's Drum Kit** : Keith Moon's large drum kit served as the inspiration for Jeff Hyman (Joey Ramone) to expand his own drum set to a similar size. ← https://www.youtube.com/watch?v=gsSTJWN6cUo
-**Management by Kit Lambert & Chris Stamp** : Kit Lambert and Chris Stamp were instrumental in developing The Who into the band they became. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
-**Musical Education** : Trent Carr played music by The Who for Tim White as part of White's "musical rock and roll education" during their youth in Scarborough and downtown Toronto. ← https://www.youtube.com/watch?v=y7kmkWJ54ww
-**Zach Starky's Drummer Role** : Zach Starky, son of Ringo Starr, secured a gig with The Who and has been on call to play live with them ever since. ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
+**Backstage Rider – Pre-Show Nap Provision for Pete Townshend** : The Who's tour rider included a provision for Pete Townshend, who liked to take a nap before shows. To facilitate this, a large queen or king-sized bed with fine linens was required to be supplied in his dressing room. "To facilitate that, a large queen or king bed with fine linens was to be supplied in a dressing room." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**Rock Opera Precedent (1970s)** : The Who is mentioned as a band associated with rock operas in the 1970s, serving as a point of reference when Green Day released their `American Idiot` rock opera. "A rock opera. What a dumb idea. Didn't that go up with the who in the 1970s?" ← https://www.youtube.com/watch?v=MK7L0eCpDHc
 

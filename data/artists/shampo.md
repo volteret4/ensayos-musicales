@@ -1,5 +1,5 @@
 # artist - Shampo
 
 ## curiosities
-**Artist with Videos Directed by Director X** : Director X has directed music videos for him. ← https://www.youtube.com/watch?v=eqTFinLk3oU
+**Music Video Directing Work** : Taj Khrichlo has directed music videos for Shampo (likely a typo for Shaggy or Sean Paul). "I've directed videos for Alicia Keys, Puff Daddy, Cisco, Destiny's Child, Drake, Justin Bieber, Two Chains, Rosalie, Igeez, Shampo, Beanie Man, Ariana Grande." ← https://www.youtube.com/watch?v=IIJySSo276k
 

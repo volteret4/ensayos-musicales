@@ -1,5 +1,11 @@
 # artist - Chris Cornell
 
+## instruments
+- Gibson ES-335 series
+
 ## curiosities
-**Death (2017)** : died by suicide on May 17, 2017, in a hotel room in Detroit, one of two shocking suicides within two months in 2017. ← https://www.youtube.com/watch?v=sOU54d8mr5k
+**Audioslave Vocalist (Pre-2005)** : He was the singer for Audioslave, which was formed from the members of Rage Against the Machine, contributing to the mid-2000s rock renaissance. "Chris Cornell of Soundguard doing the singing." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
+**Death in Detroit (2017)** : Chris Cornell passed away on May 18, 2017, in room 1136 of the MGM Grand Hotel in Detroit. The tragedy occurred shortly after Soundgarden had performed at the nearby Fox Hotel. Feeling anxious after the show and fearing insomnia, Cornell took a couple of Ativan tablets. He spoke to his wife at 11:35 PM, then his bodyguard found him at 12:15 AM in a locked bathroom with a red exercise band around his neck and blood from his mouth after kicking in the door. He was declared dead at 1:30 AM, with the coroner ruling it suicide by hanging. His widow, Vicki Cornell, subsequently sued his doctor for prescribing Ativan. "At 130, Chris Cornell was declared dead. A coroner's report would rule that it was suicide, death by hanging." ← https://www.youtube.com/watch?v=xid8CZf4oYo
+**Friendship with Chester Bennington** : Chris Cornell maintained a close friendship with Linkin Park's Chester Bennington, with both artists frequently commiserating about their shared personal demons and struggles. This bond was tragically underscored by Bennington's death by suicide a couple of months after Cornell's, on what would have been Cornell's 53rd birthday. "Chester and Chris were great, great friends, often commiserating about their various personal demons." ← https://www.youtube.com/watch?v=xid8CZf4oYo
+**Grave Proximity to Toto Memorial** : Chris Cornell's grave in the Hollywood Forever Cemetery is located just a few feet away from a memorial dedicated to Toto, the dog character from the movie *The Wizard of Oz*. His grave is often outlined with hundreds of orange carnations. "If you visit Chris Cornell's grave in the Hollywood Forever Cemetery, which by the way is outlined with hundreds of orange carnations, or at least when I was there earlier this year, look across the road from Chris's grave. He's buried just a few feet from a memorial to Toto, the dog from the Wizard of Oz." ← https://www.youtube.com/watch?v=aSk1XQHNkd8
 

@@ -1,6 +1,5 @@
 # genre - Thrash Metal
 
 ## curiosities
-**Ice-T's Appreciation** : Ice-T, founder of Body Count, appreciated the speed of thrash metal, and Slayer was a favorite of his. ← https://www.youtube.com/watch?v=PdCAjFW04Oc
-**Influence of Hardcore Punk** : Developed as hardcore punk began to influence metal, leading metal bands to play faster and harder. ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
+**Offshoot of Hardcore Punk** : Thrash Metal emerged as a direct consequence of hardcore punk. Some of the musical innovations and intensity from hardcore acts directly influenced metal musicians, leading to the birth of this new subgenre. "and some of what they did landed in the laps of some of the metal kits, resulting in the birth of Thrash Metal." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 

@@ -1,37 +1,30 @@
 # artist - Sonic Youth
 
 ## members
-- Kim Gordon (bass, guitar, vocals, songwriter)
+- Kim Gordon (implied, as one of the key figures alongside Thurston Moore)
+- Thurston Moore (implied, as one of the key figures alongside Kim Gordon)
 
 ## genres
-- Alt Rock
-- Alt-Rock
+- Avant-garde Rock
 - Indie Rock
-- No Wave
-- Non-mainstream Rock
+- Punk
 
-## venues
-- Lollapalooza (1992-1995)
+## labels
+- DGC Records
+- Enigma
+- SST Records
 
 ## albums
-**Goo (1990) – First Major Label Album** : Co-produced by Butch Vig. Featured the song "Cool Thing," written by Kim Gordon. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
+**Daydream Nation (1988) – Double Set on Enigma** : This double album was released in 1988 after the band moved to the indie label Enigma, and is considered their best indie moment. "Sonic Youth's best indie moment probably came in 1988 when they moved to another indie label called Enigma and released a double set called Daydream Nation." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
 
 ## songs
-**Cool Thing (1990)** : Featured on the album "Goo" (1990). Written by Kim Gordon after an encounter with LL Cool J, whose attitude towards women she disliked. Featured guest vocals from Chuck D of Public Enemy. Kim Gordon sang lead vocals and played bass on the track. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
+**Teenage Ride (1988)** : This song is mentioned as being from their 1988 double album, Daydream Nation. "This is called Teenage Ride." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
 
 ## curiosities
-**Beneficiary of Alt-Rock Appetite** : Benefited from record labels looking for alt-rock beyond grunge after the "Grunge Gold Rush." ← https://www.youtube.com/watch?v=pE7TaWSUa-o
-**Butch Vig Remix Production** : Butch Vig produced a remix record for the group. ← https://www.youtube.com/watch?v=gsSTJWN6cUo
-**Collaboration on Mike Watt's Album (1995)** : Members of Sonic Youth contributed to Mike Watt's solo album "Ball-Hog or Tugboat," which also featured Dave Grohl. ← https://www.youtube.com/watch?v=_AY5lS-FmlU
-**Democratic Structure** : Operated as a "democracy," with Kim Gordon not solely serving as the front person but having her turn as a songwriter and lead singer. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Guitar Sound Refinement** : Over ten years, the band refined their guitar sound, becoming ranked as one of the most important American indie rock bands of the 1980s. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Kim Gordon as an Icon** : Became an icon for a "certain group of women" for her role in a cool indie band, influencing many young women, including Courtney Love. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Kim Gordon's Activism** : Kim Gordon wrote "Cool Thing" expressing a desire for liberation of "girls from male, white, corporate oppression." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Kim Gordon's Early Life** : Kim Gordon was born in Rochester, New York, raised in Los Angeles, but formed her first band while a student at York University in Toronto. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Kim Gordon's Other Creative Work** : Kim Gordon is also a visual artist (painting), former owner of a clothing line, has done acting, written books, directed music videos, and produced albums. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Lollapalooza Participation (1992-1995)** : Sonic Youth was among the major participants during Lollapalooza's "glory years" between 1992 and 1995. ← https://www.youtube.com/watch?v=7JP2tjJibTQ
-**No Wave Origins** : Emerged from the "weird New York City-based scene" known as No Wave. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**North American Non-Mainstream Rock (Late 1980s)** : In the late 1980s, Sonic Youth was considered one of the bands popular among North American fans interested in non-mainstream rock. These fans often spent time in small, dark clubs or record stores, seeking out music not stocked by mainstream retailers like Walmart. ← https://www.youtube.com/watch?v=OiqdZfxdBP0
-**Posthumous Representation by Silver Artist Management** : Silver Artist Management, led by John Silva, continues to look after the interests of Sonic Youth. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
-**Video Co-production** : Kim Gordon co-produced the music video for The Breeders' song "Cannonball" (1993). ← https://www.youtube.com/watch?v=Eo32mAZd8DI
+**Early Legal Download Example (1995)** : Sonic Youth's music was offered as an example of the first legal downloadable music provided by Sonic Net in mid-1995. These early downloads were characterized by variable audio quality, sometimes described as only "a little better than a bad AM radio," due to the nascent stage of digital music distribution before widespread MP3 adoption. "Sonic Youth, an example of what some of the first legal downloadable music sounded like, when Sonic Net became the first company to offer such a thing in the middle of 1995." ← https://www.youtube.com/watch?v=MTDY6qT11Dc
+**Emergence and Influence** : Sonic Youth emerged from the No Wave scene in 1981 to become one of the most important and influential indie bands of the 1980s. They were known for their use of feedback, guitars strangled with screwdrivers and drumsticks, and a wall of noise that was felt more than heard. "But one band was to emerge out of the sea of noise to become one of the most important and influential Indy bands of the 1980s." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
+**Influence on Mogwai** : Mogwai cites Sonic Youth as a significant influence, particularly among post-punk bands. "The guys in Mug-Y are highly influenced by post-punk bands, like Jordy Vision, Sonic Youth, and my Bloody Valentine." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
+**Influence on Mono** : Japanese post-rock band Mono is influenced by Sonic Youth, alongside My Bloody Valentine. "So am I saying a classical band influenced by Sonic Youth in my bloody Valentine? That's absolutely what I'm saying." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
+**Influence on Nirvana's Major Label Deal** : Kurt Cobain of Nirvana decided to sign with DGC records, a major label conglomerate, largely because Sonic Youth had signed with DGC approximately a year earlier. He believed that if it was a good enough label for Sonic Youth, it was good enough for Nirvana. "And one of the big reasons Kurt Cobain decided to make the job from indie to major was because Sonic Youth had signed with DGC about a year earlier." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
+**Pushing Musical Boundaries** : As the 1980s progressed, Sonic Youth's music became more structured, but they consistently pushed the edge of the musical envelope. A deal with Black Flag's indie label, SST Records, helped them spread their influence throughout North America. "Although Sonic Youth's music became more structured as the 80s progressed, there was always the sense that they were pushing the edge of the musical envelope and thanks to a deal with black flags, indie label, SST records, they were able to spread their influence throughout North America." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
 

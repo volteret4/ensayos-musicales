@@ -1,5 +1,5 @@
 # artist - ZZ Top
 
 ## curiosities
-**Unsuccessful 12-Inch Remixes** : ZZ Top also attempted to get into the 12-inch remix business, which is noted as "a bad idea." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
+**Consistent Lineup (since 1969)** : ZZ Top has maintained the same three members since 1969. ← https://www.youtube.com/watch?v=ocMHRLQMQY0
 

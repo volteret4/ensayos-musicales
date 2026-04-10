@@ -1,15 +1,17 @@
 # artist - Dead Kennedys
 
 ## members
-- D.H. Peligro
+- Jello Biafra
 
 ## genres
-- Punk
+- Hardcore
+
+## labels
+- Alternative Tentacles
+
+## albums
+**Fresh Fruit for Rotting Vegetables (1980)** : This album was released in 1980 on the band's own label, Alternative Tentacles, featuring their ultra-political leader Jello Biafra. "Here's something from their 1980 album Fresh Fruit for Roddy Vegetables, which came out on the band's own label, which they called Alternative Tentacles." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 
 ## songs
-**Holiday in Cambodia** : An example of early, aggressive punk rock with political messaging, contrasted with later pop punk. ← https://www.youtube.com/watch?v=pE7TaWSUa-o
-
-## curiosities
-**Bands for Moshing** : Listed among the bands to which audience members would mosh, as depicted and influenced by "The Decline of Western Civilization" movie. ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
-**D.H. Peligro's Association** : D.H. Peligro, who was briefly hired as a drummer for the Red Hot Chili Peppers after Jack Irons quit, was a member of the Dead Kennedys. ← https://www.youtube.com/watch?v=TESrEzVHLCc
+**Holiday in Cambodia (1980)** : A song from their 1980 album *Fresh Fruit for Rotting Vegetables*, representing the band's politically charged hardcore sound. "It's holiday and Cambodia." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 

@@ -1,9 +1,5 @@
 # artist - Hedley
 
-## genres
-- Pop Punk (criticized)
-
 ## curiosities
-**"Too Light" Criticism** : Considered "a little too light" and "too poppy for punk" in the mid-2000s, leading some alt-rock radio stations to refuse to play them. ← https://www.youtube.com/watch?v=pE7TaWSUa-o
-**Audience Rejection** : Alt-rock audiences were not receptive, generating immediate complaints like "why are you playing that kiddie punk?" when their songs were aired. ← https://www.youtube.com/watch?v=pE7TaWSUa-o
+**Influenced by Blink-182** : Hedley is recognized as one of the artists whose work reflects the influence of Blink-182, pointing to Blink-182's impact on their sound or stylistic choices. "Some 41 good Charlotte simple-plan panic at the disco, followed boy, headly, billy talent, you would meet six, paramour, you know, you get the idea." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE
 

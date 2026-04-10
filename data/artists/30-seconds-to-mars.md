@@ -1,17 +1,8 @@
 # artist - 30 Seconds to Mars
 
-## members
-- Jared Leto
-
 ## genres
-- Emo (with Goth leanings)
-- Emo-ish (with Goth leanings)
-
-## albums
-**This Is War (2009)** : Designed as a profound album that explores spiritual themes and the state of society over the preceding decade. It delves into themes of isolation, alienation, loneliness, and what leader Jared Leto refers to as "the universal sadness." ← https://www.youtube.com/watch?v=1KyNY3zv6uc
+- Emo
 
 ## curiosities
-**Goth Leanings** : Emphasize their Goth leanings, particularly through their visual style. ← https://www.youtube.com/watch?v=evlGhfUe6QQ
-**Goth Leanings in Look (N/A)** : Emphasize their Goth leanings, especially through their look. ← https://www.youtube.com/watch?v=RvzvcACkYqk
-**Warped Tour Veteran** : An artist with "Warped" on their resume, noted as someone "you may not have expected." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
+**Leading Emo Band** : 30 Seconds to Mars was among the bands that saw their rise during the Emo trend in the 2000s. Their inclusion in a list of prominent Emo and Emo-ish bands highlights their contribution to the genre's significant, though short-lived, impact on the alt-rock scene. "Dashboard, confessional, taking back Sunday, panic at the disco, followed boy, story of the year, funeral for a friend, 30 seconds to Mars." ← https://www.youtube.com/watch?v=-CT7yYXonIk
 

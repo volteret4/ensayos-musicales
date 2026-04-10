@@ -1,7 +1,13 @@
 # artist - Aerosmith
 
+## members
+- Joe Perry
+
+## instruments
+- Gibson Les Paul
+
 ## curiosities
-**Chris Shiflett's Early Listening** : Chris Shiflett listened to Aerosmith as a kid, following his brothers' tastes. ← https://www.youtube.com/watch?v=Mh-qg1izM98
-**Influential Music Video Artist** : their music videos, along with Madonna, Peter Gabriel, Phil Collins, and Michael Jackson, fascinated Taj Khrichlo and made him fall in love with the art of music videos in the 80s. ← https://www.youtube.com/watch?v=eqTFinLk3oU
-**Influential Music Videos (1980s)** : Aerosmith's music videos from the MTV/MuchMusic era of the 1980s were highly influential, inspiring fascination with music video storytelling, dancing, and style. ← https://www.youtube.com/watch?v=XaLsZFLrMnI
+**Iconic Music Videos** : Aerosmith's music videos from the 1980s were among those that contributed to the allure of music videos during the MTV/MuchMusic era. "watching videos by like Madonna and Peter Gabriel and like Phil Collins and Michael Jackson and and Errol Smith." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
+**Music Video Influence** : Aerosmith's music videos from the 1980s MTV and Much Music era were impactful in fostering an appreciation for the art form among directors like Director X, who was drawn to their storytelling, dancing, and style. "The MTV, much music era watching videos by like Madonna and Peter Gabriel and like Phil Collins and Michael Jackson and Errol Smith." ← https://www.youtube.com/watch?v=IIJySSo276k
+**Role in Seattle Hybrid Sound** : In the Seattle music scene, it was common and not considered strange for people to be into both Black Flag and Aerosmith at the same time, contributing to a unique local hybrid of hard rock and hardcore punk. "No one considered it strange to be both into black flag and air smith at the same time." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
 

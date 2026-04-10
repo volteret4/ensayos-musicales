@@ -1,9 +1,14 @@
 # artist - Kaiser Chiefs
 
-## genres
-- New New Wave
-- New Wave
+## labels
+- Kaiser Chiefs (self-released or label named after band?) - *The transcript literally says "released on a label called Kaiser Chiefs," which is highly unusual and likely a mistake or misstatement. I must report it as stated.*
+
+## albums
+**Employment (2005) – Debut Record** : The debut record by the Kaiser Chiefs, released in 2005. "The Kaiser Chiefs are from Leeds, and released a debut record in 2005 called Employment." ← https://www.youtube.com/watch?v=raRCZ0Y5up8
+
+## songs
+**I Predict a Riot (2005)** : A single from their 2005 debut album, "Employment." "Kaiser Chiefs, and I predict a riot from 2005." ← https://www.youtube.com/watch?v=raRCZ0Y5up8
 
 ## curiosities
-**UK New Wave Revivalist (Early 2000s)** : Identified as a UK-based New Wave revivalist band. ← https://www.youtube.com/watch?v=9CNNsqXiL6U
+**Origin** : The Kaiser Chiefs originate from Leeds. "The Kaiser Chiefs are from Leeds." ← https://www.youtube.com/watch?v=raRCZ0Y5up8
 

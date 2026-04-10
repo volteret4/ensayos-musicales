@@ -1,6 +1,5 @@
 # label - Columbia
 
 ## curiosities
-**Imprint of Sony** : An imprint of Sony, one of the major record labels. ← https://www.youtube.com/watch?v=pE7TaWSUa-o
-**Signed The Offspring** : The Offspring transitioned from Epitaph Records to Columbia. ← https://www.youtube.com/watch?v=pE7TaWSUa-o
+**Major Label Signing in Seattle** : Columbia was one of the major record labels that actively sought out and signed bands from the developing indie scene in Seattle, including Alice in Chains. "Major record labels had heard about the developing indie scene and were in town snapping up some of the bigger bands. Allison Chains was signed by Columbia." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
 

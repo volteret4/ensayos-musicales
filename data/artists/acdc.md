@@ -1,16 +1,6 @@
 # artist - AC/DC
 
-## members
-- Brian Johnson
-
-## albums
-**Back in Black (1980)** : Sold 50 million copies, cited as an example of a past mega-seller unlikely to be replicated in the current music sales landscape. ← https://www.youtube.com/watch?v=Epz5Sn151bk
-**High Way to Heal (2023)** : A company called Next Mid Health released this album, featuring 11 slightly tweaked AC/DC songs covered by a band composed of doctors. It includes tracks like "Shoot to Drill," specifically aimed at oral surgeons. ← https://www.youtube.com/watch?v=qtdetc5-MQo
-
-## songs
-**You Shook Me All Night Long** : A line from this song (referred to as "Should Me All Night Long" in the transcript) provided the title for Veruca Salt's 1994 debut album, "American Thighs." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-
 ## curiosities
-**Homage on Active Rock Radio** : acknowledged and played as an influential classic artist on active rock radio stations. ← https://www.youtube.com/watch?v=sOU54d8mr5k
-**Management by QPrime** : AC/DC were clients of QPrime, the management company founded by Cliff Burnstein and Peter Mensch. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
+**Album Art Designed by Storm Thorgerson** : AC/DC's album covers were among the many iconic designs created by the renowned Storm Thorgerson and his partner Aubrey Powell. Their collaboration extended to shaping the visual identity of several legendary rock bands. "That includes Pink Floyd, Black Sabbath, Led Zeppelin, ACDC..." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
+**Viability as a Musical Choice** : In the modern music era, the notion of musical choice has expanded, making bands like AC/DC just as viable an option for listeners as more contemporary or indie acts such as Arcade Fire. This highlights the breakdown of traditional musical divisions and increased acceptance of diverse tastes. "Arcade fire? Every bit as viable as a musical choice as ACDC." ← https://www.youtube.com/watch?v=-CT7yYXonIk
 

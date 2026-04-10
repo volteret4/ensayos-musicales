@@ -1,12 +1,11 @@
 # artist - Coheed and Cambria
 
 ## members
-- Claudio Sanchez
+- Michael Todd (until August 4, 2011)
 
 ## albums
-**The Amory Wars (Ongoing Series)** : All of the band's albums are installments in a continuous science fiction storyline known as The Amory Wars. This narrative unfolds in "Heaven's Fence," a Federation comprising 78 Planets that are interconnected by "the Keywork," a unique energy source. ← https://www.youtube.com/watch?v=1KyNY3zv6uc
-**Year of the Black Rainbow (2010)** : The deluxe version of this album included a 352-page novel written by singer Claudio Sanchez, further integrating the band's extensive conceptual storyline. ← https://www.youtube.com/watch?v=1KyNY3zv6uc
+**Year of the Black Rainbow (2010)** : This album features Michael Todd on bass. A track from it, "We Are the Joverna," was played as an example during a segment discussing Todd's drug-related armed robbery incident. "This is from their 2010 album, Year of the Black Rainbow." ← https://www.youtube.com/watch?v=dVJuITJyNTU
 
-## curiosities
-**Warped Tour Veteran** : An artist with "Warped" on their resume, noted as someone "you may not have expected." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
+## songs
+**We Are the Joverna (2010)** : This song is from the album "Year of the Black Rainbow" and features Michael Todd on bass. It was highlighted in the context of Todd's armed robbery and subsequent departure from the band. "And this is We Are the Joverna." ← https://www.youtube.com/watch?v=dVJuITJyNTU
 

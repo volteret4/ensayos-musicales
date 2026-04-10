@@ -1,8 +1,8 @@
 # artist - David Cassidy
 
-## members
-- The Partridge Family
+## genres
+- Pop
 
 ## curiosities
-**Death (2017)** : died in November 2017. ← https://www.youtube.com/watch?v=sOU54d8mr5k
+**Simplistic Pop Appeal (Early 1970s)** : Represented the "simplistic pop" that entranced the generation following the hippies, much to the dismay of older music fans. "The generation following them seemed to be totally entranced by simplistic pop made by David Cassidy..." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
 

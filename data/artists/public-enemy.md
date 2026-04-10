@@ -2,8 +2,7 @@
 
 ## members
 - Chuck D
-- Terminator X
 
 ## curiosities
-**Guest Vocals on "Cool Thing"** : Chuck D provided guest vocals on Sonic Youth's 1990 song "Cool Thing." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
+**Chuck D Joins Prophets of Rage** : Chuck D of Public Enemy joined the instrumental members of Rage Against the Machine along with B-Real of Cypress Hill to form Prophets of Rage. "Interesting that be real is now in profits of Rage with the other Rage guys in Chuck D. of Public Enemy." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
 

@@ -1,5 +1,0 @@
-# artist - Erasure
-
-## curiosities
-**12-Inch Remix Business** : After New Order's "Blue Monday," Erasure, along with other bands, embraced the 12-inch remix format for their music. ← https://www.youtube.com/watch?v=OiqdZfxdBP0
-

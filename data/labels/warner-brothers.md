@@ -1,5 +1,5 @@
 # label - Warner Brothers
 
 ## curiosities
-**Green Day Signing (1993)** : Rob Cavallo, a Warner Brothers rep, signed Green Day to the label with a $300,000 advance without ever seeing them play live. ← https://www.youtube.com/watch?v=nyfdGYWelic
+**Largest Record Company in 1988** : In 1988, Warner Brothers was considered the largest record company in the world, and it was to this major label that R.E.M. transitioned from their indie label IRS. "Then in 1988, the group accepted an offer to jump from IRS. Their indie label, the one they'd been with from the beginning, to Warner Brothers, the largest record company in the world at the time." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
 

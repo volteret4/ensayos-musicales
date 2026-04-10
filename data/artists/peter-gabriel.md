@@ -1,14 +1,8 @@
 # artist - Peter Gabriel
 
-## members
-- Stuart Copeland (credited drummer, contributed snare drum sample)
-
-## albums
-**So (1986)** : For this album, Peter Gabriel utilized sampling techniques. Although Stuart Copeland is credited with playing on the record, his actual contribution was providing a snare drum sound, which was then sampled from an old Police record and used throughout the album. ← https://www.youtube.com/watch?v=OiqdZfxdBP0
-
 ## curiosities
-**Featured on Alt-Rock Playlists** : his music was found on radio playlists for late 1986 alt-rock stations. ← https://www.youtube.com/watch?v=eqTFinLk3oU
-**Influential Music Video Artist** : his music videos, along with Madonna, Phil Collins, Michael Jackson, and Aerosmith, fascinated Taj Khrichlo and made him fall in love with the art of music videos in the 80s. ← https://www.youtube.com/watch?v=eqTFinLk3oU
-**Influential Music Videos (1980s)** : Peter Gabriel's music videos from the MTV/MuchMusic era of the 1980s were highly influential, inspiring fascination with music video storytelling, dancing, and style. ← https://www.youtube.com/watch?v=XaLsZFLrMnI
-**Snare Drum Sampling for "So"** : Peter Gabriel used a sampled snare drum sound from an old Police record for his "So" album, with Stuart Copeland credited for the original sound contribution. ← https://www.youtube.com/watch?v=OiqdZfxdBP0
+**Album Art Designed by Storm Thorgerson** : Peter Gabriel's album covers were among the many iconic designs created by the renowned Storm Thorgerson and his partner Aubrey Powell. Their work helped establish distinctive visual styles for a wide range of musical artists. "That includes Pink Floyd, Black Sabbath, Led Zeppelin, ACDC, the police, Genesis, Peter Gabriel..." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
+**Backstage Rider – Oxygen for Altitude and Specific Massage** : When touring, Peter Gabriel's rider specifies that oxygen must be on standby, particularly when performing in high-altitude cities, for medical purposes. Additionally, he requires a one-hour pre-show massage, which must start exactly at 6:20 PM and be performed by a woman. "It must be one hour. It must start exactly at 6.20 pm and the masseuse must be a woman." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**Iconic Music Videos** : Peter Gabriel's music videos from the 1980s were significant in fostering a love for the art form during the MTV/MuchMusic era. "watching videos by like Madonna and Peter Gabriel and like Phil Collins and Michael Jackson and and Errol Smith." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
+**Music Video Influence** : Peter Gabriel's music videos from the 1980s MTV and Much Music era were highly influential, captivating directors like Director X with their storytelling, dancing, and style. "The MTV, much music era watching videos by like Madonna and Peter Gabriel and like Phil Collins and Michael Jackson and Errol Smith." ← https://www.youtube.com/watch?v=IIJySSo276k
 

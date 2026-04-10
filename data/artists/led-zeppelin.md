@@ -1,23 +1,21 @@
 # artist - Led Zeppelin
 
+## members
+- Jimmy Page
+- John Paul Jones
+
 ## instruments
-- Theremin
+- Gibson Les Paul
 
 ## albums
-**Led Zeppelin IV (1971)** : Cited as one of the most significant rock releases of all time, commonly found in rock fans' collections. ← https://www.youtube.com/watch?v=VR5Fncdc2kQ
+**In Through the Out Door** : The album cover for "In Through the Out Door" was designed by Storm Thorgerson, a highly acclaimed album art creator. This work is part of his extensive portfolio that defined the visual identities of numerous legendary bands. "The Led Zeppelin logo, along with the album's presence and in through the outdoor, came from Thorgerson." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
+**Presence** : The album cover for "Presence" was designed by Storm Thorgerson, a highly acclaimed album art creator. His distinctive visual style contributed significantly to the aesthetic of this and many other iconic rock albums. "The Led Zeppelin logo, along with the album's presence... came from Thorgerson." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
 
 ## songs
-**Babe I'm Gonna Leave You (1969)** : A 1967 recording that features a descending riff similar to those found in Chicago’s "25 or 6 to 4" and Green Day’s "Brain Stew". The riff was conceived around the same time George Harrison was writing "While My Guitar Gently Weeps". ← https://www.youtube.com/watch?v=rfObVld9rIE
-**Stairway to Heaven (1971)** : The band faced legal charges alleging this song was lifted from the 1967 instrumental "Taurus" by the band Spirit. While the two tracks sound similar on record, the band successfully defended the song in court by demonstrating that the sheet music showed "very, very stark and pronounced" differences. ← https://www.youtube.com/watch?v=rfObVld9rIE
-**Whole Lotta Love (1969)** : This song features a "wild goofy solo" played on a Theremin in its middle section. ← https://www.youtube.com/watch?v=OiqdZfxdBP0
+**Stairway to Heaven** : The background flute sound on this iconic song is cited as the most famous example of the Mellotron's use. ← https://www.youtube.com/watch?v=ocMHRLQMQY0
 
 ## curiosities
-**"Relax" Snare Drum Sample Source** : A snare drum sound from a Led Zeppelin record was sampled and used as the snare drum sound in Frankie Goes to Hollywood's 1984 song "Relax." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
-**Chris Shiflett's Early Listening** : Chris Shiflett listened to Led Zeppelin as a kid, following his brothers' tastes. ← https://www.youtube.com/watch?v=Mh-qg1izM98
-**Dave Grohl's Early Listening** : Dave Grohl listened to Led Zeppelin when he was young. ← https://www.youtube.com/watch?v=Mh-qg1izM98
-**Homage on Active Rock Radio** : acknowledged and played as an influential classic artist on active rock radio stations. ← https://www.youtube.com/watch?v=sOU54d8mr5k
-**Influence on Dave Grohl** : Dave Grohl learned to play drums and guitar by playing along to their records. ← https://www.youtube.com/watch?v=gsSTJWN6cUo
-**Management by Peter Grant** : Led Zeppelin was famously protected by their manager, Peter Grant, known for his "fearsome scary" demeanor and "constant threats of violence." ← https://www.youtube.com/watch?v=PzyvXmDKFUc
-**One-Off Reunion Show Management (2007)** : QPrime, the management company founded by Cliff Burnstein and Peter Mensch, managed Led Zeppelin for their singular reunion show in 2007. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
-**Theremin Experimentation (1960s)** : The group experimented with Theremins in the 1960s. ← https://www.youtube.com/watch?v=OiqdZfxdBP0
+**Early 1970s Success and Critical Reception** : The band was "huge" in the early 1970s, an exception to the era's pop dominance. However, critics "absolutely hated" and "despised them" during this period. "And people tend to forget that in the early 1970s, the critics absolutely hated Led Zeppelin. They despised them." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
+**Jimmy Page's Occult Involvement (Mid-1970s)** : Led Zeppelin guitarist Jimmy Page was known for his deep involvement in the occult. This fascination reportedly influenced David Bowie, who believed that his association with Page had put his soul in danger, contributing to Bowie's drug-induced paranoia about witches. "Page was deep into the occult." ← https://www.youtube.com/watch?v=dVJuITJyNTU
+**Logo and Album Art by Storm Thorgerson** : The distinctive Led Zeppelin logo, along with the artwork for seminal albums such as "Presence" and "In Through the Out Door," were created by the acclaimed album art designer Storm Thorgerson. His visual contributions were integral to the band's iconic image. "The Led Zeppelin logo, along with the album's presence and in through the outdoor, came from Thorgerson." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
 

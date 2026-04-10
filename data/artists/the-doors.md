@@ -1,20 +1,5 @@
 # artist - The Doors
 
-## members
-- Jim Morrison
-
-## genres
-- Gothic (first use of term for modern music)
-
 ## albums
-**The Doors (1967)** : The first album by The Doors was the first instance where the word "gothic" was used to describe modern music. Its sound was dark, mysterious, and even violent, embodying elements that would later be associated with the goth genre. ← https://www.youtube.com/watch?v=XaLsZFLrMnI
-
-## songs
-**My Only Friend (1967)** : A song from The Doors' 1967 debut album, referenced as an example of their dark, mysterious, and violent sound that led to the application of the term "gothic" to their music. ← https://www.youtube.com/watch?v=XaLsZFLrMnI
-
-## curiosities
-**Early Stage Diving (1969)** : Jim Morrison was documented doing stage diving around 1969. ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
-**Jim Morrison Faked Death** : A conspiracy theory claims that Jim Morrison faked his own death in Paris. ← https://www.youtube.com/watch?v=pmKjZzypzvg
-**Past Platinum Album Sales** : In previous decades, every single album released by The Doors would consistently go platinum every year. ← https://www.youtube.com/watch?v=Z7glrAoXtkA
-**Piracy Impact on Album Sales** : Previously accustomed to selling millions of copies of their albums each year, the band's sales world drastically shrunk due to music piracy. ← https://www.youtube.com/watch?v=nX8uAFDzDYM
+**The Doors (1967) – Debut Album Billboard Ad** : The Doors made history in 1967 by being the first band ever to advertise the release of a new album on a billboard. This promotional billboard was erected in Los Angeles to announce their self-titled debut record. "The doors were the first band to ever advertise the release of a new album on a billboard. It was erected in Los Angeles in 1967 for their self title debut record." ← https://www.youtube.com/watch?v=GO0K_N7Ys7I
 

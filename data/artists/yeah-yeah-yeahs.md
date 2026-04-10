@@ -1,9 +1,9 @@
 # artist - Yeah Yeah Yeahs
 
 ## genres
-- New New Wave
-- New Wave
+- Guitar-based Rock
+- Indie Rock
 
 ## curiosities
-**New York-based New Wave Revivalist (Early 2000s)** : Identified as a New York-based New Wave revivalist band. ← https://www.youtube.com/watch?v=9CNNsqXiL6U
+**Amazing Reputation and Academy Awards Connection** : The Yeah Yeah Yeahs, a prominent band from the New York indie rock scene, have built an "amazing reputation" that extends beyond music, notably reaching the Academy Awards. This highlights their broad cultural impact and artistic acclaim. "The yay-yay-yes have an amazing reputation that extends through the Academy Awards." ← https://www.youtube.com/watch?v=xid8CZf4oYo
 

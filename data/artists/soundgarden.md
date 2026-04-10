@@ -3,30 +3,17 @@
 ## members
 - Chris Cornell
 
-## genres
-- Alt-Rock
-- Grunge
-
-## venues
-- Lollapalooza
-- Lollapalooza (1992)
-- Lollapalooza (1996)
-- Molson Park
-
-## albums
-**Superunknown (1994) – Album Featuring "My Way"** : the song "My Way" from this album is played. ← https://www.youtube.com/watch?v=eqTFinLk3oU
-
-## songs
-**My Way (1994) – Superunknown Track** : played at the end of a segment, from their *Superunknown* album. ← https://www.youtube.com/watch?v=eqTFinLk3oU
+## labels
+- CZ
+- Columbia (implied major label)
+- Subpop
 
 ## curiosities
-**Chris Cornell and Susan Silver's Relationship** : Susan Silver began dating Soundgarden's singer, Chris Cornell, approximately a year after she became the band's manager in 1986. They married in 1990. The couple initially kept their personal and professional lives separate, with many fans unaware that the singer and manager were married. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
-**Evolving Sound** : By 1994, the band was "evolving into something different" from their initial grunge sound. ← https://www.youtube.com/watch?v=pE7TaWSUa-o
-**Grunge Invasion of UK (Early 1990s)** : The band, along with Pearl Jam and Nirvana, supplanted the "proud tradition of British rock and wall" during the grunge invasion of the UK. ← https://www.youtube.com/watch?v=vzyMSSlD7Yg
-**Key Grunge Band** : contributed to Alt Rock coalescing around hard guitar rock with "riff-ready songs." ← https://www.youtube.com/watch?v=eqTFinLk3oU
-**Lawsuit Against Susan Silver (2003)** : Following their divorce in 2003, Chris Cornell initiated a lawsuit against Susan Silver for $1 million in damages. He alleged that as Soundgarden's manager, she had diverted funds owed to him to other band members. The suit also claimed that Silver refused to return Cornell's guitars, demos, journals, notes, and his two Grammy Awards statues. It further sought to bar her from ever representing Soundgarden again due to "irreconcilable conflicts of interest." This lawsuit contributed to the delay in a Soundgarden reunion. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
-**Lollapalooza Festival Performance (1992)** : Soundgarden was a main stage act at the 1992 Lollapalooza Festival, which featured an "awesome" energy and an arguably best-ever lineup. ← https://www.youtube.com/watch?v=qC0Ee4-dpnI
-**Lollapalooza Performance (1992)** : Soundgarden performed on the main stage lineup of Lollapalooza in 1992. ← https://www.youtube.com/watch?v=7JP2tjJibTQ
-**Lollapalooza Performance (1996)** : Soundgarden was featured in the 1996 Lollapalooza lineup, even though the festival's vibe was said to have changed with Metallica as headliner. ← https://www.youtube.com/watch?v=7JP2tjJibTQ
-**Management by Susan Silver (1985-1998)** : Susan Silver began managing Soundgarden in 1985, formally taking over in 1986. She continued to manage them until their breakup in 1997, formally retiring from working with the band and shutting down her company, Silver Management, in 1998. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
+**Appearance on Deep Six** : Soundgarden was one of the groups that appeared on the "Deep Six" compilation, which showcased the burgeoning Seattle music scene. "Other groups to appear on the Deep Six compilation included a new band called Soundgarden, a band called Green River featuring guitarist Jeff Amit, who would later go on to a former group called Pearl Jam." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
+**Chris Cornell's Availability Post-Soundgarden** : After the dissolution of Soundgarden, Chris Cornell had not been actively involved in many projects. This made him available when producer Rick Rubin connected him with the instrumental members of Rage Against the Machine, leading to their collaboration and the formation of Audioslave. "Now Chris hadn't been doing very much since the dissolution of Soundgarden, so why not see if there was any chemistry there?" ← https://www.youtube.com/watch?v=t2uXHP9cBdM
+**Chris Cornell's Prior Band** : Chris Cornell, who became the singer for Audioslave, was formerly associated with Soundgarden. "Chris Cornell of Soundguard doing the singing." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
+**Chris Cornell's Solo Struggles** : In 2001, producer Rick Rubin noted that Soundgarden was not getting back together and Chris Cornell's solo work had not gained traction, prompting him to suggest Cornell join forces with the instrumental members of Rage Against the Machine. "Chris Cardell's solo work is okay, but it hasn't gained him any traction." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
+**Legal Fight Post-Chris Cornell's Death** : Following Chris Cornell's death in May 2017, the remaining members of Soundgarden entered into a prolonged legal dispute over the future of the band with Cornell's widow, Vicki Cornell. The band had been back together, recording and touring, seemingly settled into a new phase of their career before the tragedy. "And there's been a legal fight over the future of Soundgarden ever since." ← https://www.youtube.com/watch?v=xid8CZf4oYo
+**Predecessor to Audioslave** : Soundgarden is identified as one of the two "previous incarnations" that Audioslave embodied. The flame sculpture on Audioslave's debut album cover explicitly symbolizes "the memory of two previous incarnations, namely Soundgarden and Rage Against the Machine." "The flame is the eternal flame, or the flame of remembrance, embodying the memory of two previous incarnations, namely Soundgarden and Rage Against the Machine." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
+**Signed to Major Label** : Soundgarden was initially on the Subpop roster in mid-1988 but later "defected to a major" label, indicating their transition from independent to mainstream. "The roster featured local indie groups like SoundGarden and Screaming Trees and Mud Honey. And as an added touch, the company started the Subpop Singles Club." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
 

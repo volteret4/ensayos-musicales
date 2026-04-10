@@ -1,16 +1,10 @@
 # artist - Morrissey
 
-## members
-- (from The Smiths)
-
-## venues
-- Coachella (1999)
-
-## songs
-**November Spawned a Monster (1988)** : Morrissey performed this 1988 song at the very first Coachella festival in October 1999. ← https://www.youtube.com/watch?v=7JP2tjJibTQ
-
 ## curiosities
-**Autographing Other Artists' Albums** : Morrissey reportedly used to autograph albums by other artists, such as David Bowie, Patti Smith, Lou Reed, and New York Dolls, and then sell them at his gigs for up to $300. ← https://www.youtube.com/watch?v=qtdetc5-MQo
-**Coachella Performance (1999)** : Morrissey was part of the lineup for the very first Coachella festival on October 9-10, 1999. A recording of him performing his 1988 song "November Spawned a Monster" from that weekend was featured. ← https://www.youtube.com/watch?v=7JP2tjJibTQ
-**Tour Rider Requirement on Shorts** : When Morrissey goes on tour, he has a strict demand that no member of his crew, including any locally hired personnel, is allowed to wear shorts, regardless of the city or climate. Wearing shorts is considered a "deal breaker" for working a Morrissey show. ← https://www.youtube.com/watch?v=0DFmS6MPbFI
+**Backstage Rider – Festival Meat Preparation Buffer** : When performing at festivals with other acts, Morrissey's rider politely requests that his dressing rooms be situated away from any barbecued or meat preparation areas, and not downwind, to avoid the aroma of cooking meat reaching him or the band. "The performer politely requests that where barbecued food meat is being prepared, that the Moorse dressing rooms are situated away from any meat preparation and not downwind." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**Backstage Rider – Personal Food Preferences** : Morrissey's rider typically requests salt and vinegar chips, a bottle of red wine, cornflakes, Coco-Puffs or Special K, a pint of milk, two green apples, a packet of cashews, cheese sandwiches, and a cupcake. "Salt and vinegar chips, a bottle of red wine, cornflakes, coca-puffs, or special K, a pint of milk, two green apples, a packet of cashews, cheese sandwiches, and a cupcake." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**Backstage Rider – Ticketed Vegan Policy** : Tickets for Morrissey's shows often feature an important note stating that "only vegan food options will be available for purchase for this event" and that "outside food containing meat, dairy, or other animal products will not be permitted inside the venue," reinforcing his strict dietary stance. "Important, please note only vegan food options will be available for purchase for this event. Outside food containing meat, dairy, or other animal products will not be permitted inside the venue." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**Backstage Rider – Venue-Wide Vegetarianism** : Morrissey's rider often includes a controversial clause: if he is performing, everyone in the venue must be vegetarian for that night. This means no meat is to be sold or served anywhere in the venue, with meat treated as a "prohibited item," and this rule is strongly policed. "If Moorse is going to be a vegetarian, then everyone in the venue has to be a vegetarian for that night." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**Declined Role on Friends** : Morrissey was invited to appear on the popular TV show *Friends*. He declined the offer because the script required him to sing with the character Phoebe Buffay. "Morrissey was invited to appear on Friends. Yes, that TV show, but he declined because the script called for him to sing with Phoebe's character." ← https://www.youtube.com/watch?v=aSk1XQHNkd8
+**Jerry Finn's Final Production Work** : In July 2008, longtime Blink-182 producer Jerry Finn had just completed his work on a Morrissey album shortly before suffering a cerebral hemorrhage and a massive heart attack, which ultimately led to his death. "In July 2008, just after finishing up work on a Morrissey album, he suffered a cerebral hemorrhage that was followed by a massive heart attack, which destroyed him." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE
 

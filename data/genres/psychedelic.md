@@ -1,5 +1,0 @@
-# genre - Psychedelic
-
-## curiosities
-**Tim Buckley's Exploration** : Tim Buckley explored psychedelic elements in his music during his career. ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
-

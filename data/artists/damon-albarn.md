@@ -1,8 +1,5 @@
 # artist - Damon Albarn
 
-## members
-- Damon Albarn
-
 ## curiosities
-**Ping Pong Fan** : Damon Albarn is a fan of ping pong. ← https://www.youtube.com/watch?v=xc85sLj0Cnk
+**Gorillaz Co-creator (Pre-2005)** : He "had left blur behind and had created gorillas with comic book artist Jimmy Hewlett," leading to significant record sales during the mid-2000s rock resurgence. "Damon Alburn had left blur behind and had created gorillas with comic book artist Jimmy Hewlett." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
 

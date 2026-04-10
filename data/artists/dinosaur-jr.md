@@ -1,6 +1,5 @@
 # artist - Dinosaur Jr.
 
 ## curiosities
-**Collaboration on Mike Watt's Album (1995)** : Members of Dinosaur Jr. contributed to Mike Watt's solo album "Ball-Hog or Tugboat," which also featured Dave Grohl. ← https://www.youtube.com/watch?v=_AY5lS-FmlU
-**Don Fleming's Production Work** : Don Fleming, who co-produced Hole's debut album "Pretty on the Inside," was known for his work with Dinosaur Jr. and other indie groups. ← https://www.youtube.com/watch?v=Eo32mAZd8DI
+**Boston Area Indie Band** : Dinosaur Jr. is listed as one of the amazing indie bands that emerged from the Boston area's rich college music scene. "We had Mission of Burma, the Delphwegos, the Lemonheads, Gang Green, the throwing muses, Dinosaur, Junior, Julianne Hatfield and the Blake Babies, and of course the greatest Boston area college band of them all, the Pixies." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
 

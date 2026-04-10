@@ -1,5 +1,5 @@
 # genre - Electronica
 
 ## curiosities
-**Year Zero (1988)** : The year 1988 is considered "Year Zero" in the history of what is now called electronica, as it marked the point when Detroit Techno, Chicago House, and the New York dance scene were all embraced by English music fans. ← https://www.youtube.com/watch?v=OiqdZfxdBP0
+**Third Choice in 2000** : In 2000, electronica was presented as a "third choice" for music listeners, after pop, rap, and hip hop, suggesting its growing popularity. "A third choice would be all the flavors of electronica." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
 

@@ -1,8 +1,12 @@
 # artist - Slayer
 
-## genres
-- Thrash Metal
+## members
+- Kerry King
+
+## instruments
+- Marshall JCM 800
+- Marshall Stacks
 
 ## curiosities
-**Branding Iron Merch** : Slayer offers a branding iron with their logo as band merchandise, priced at $75. It is designed for burning the Slayer logo into a stake, not for people or animals. ← https://www.youtube.com/watch?v=qtdetc5-MQo
+**Marshall Stacks Setup** : Kerry King of Slayer is noted for his specific Marshall stacks setup, utilizing the JCM 800 model. This configuration is crucial to the band's aggressive sound and demonstrates the power and impact of Marshall amplification in heavy metal. "Slayer's Kerry King, making the most of his Marshall stacks set up." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
 

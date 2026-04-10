@@ -1,40 +1,18 @@
 # artist - The Smashing Pumpkins
 
 ## members
-- Billy (Corgan)
 - Billy Corgan
-- Darcy (Wretzky)
-- James (Iha)
-- Jimmy Chamberlain
-- Jonathan Melvoin (touring keyboardist)
-
-## genres
-- Alt-Rock
-
-## venues
-- Cabaret Metro Chicago
-- Lollapalooza (1992-1995)
-- Madison Square Garden (New York)
-- St Andrews Hall (Detroit)
+- Nicole Fiorentino
 
 ## albums
-**Melancholy and the Infinite Sadness Tour (1996)** : Tour during which 17-year-old Bernadette O'Brien died in a mosh pit at their Dublin concert on May 11, 1996. ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
+**Siamese Dream (1993)** : The Smashing Pumpkins' second album, *Siamese Dream*, was released on July 19, 1993, in the UK and a week later in North America. Billy Corgan initially envisioned an "outsider artist" creating an avant-garde, untrained, but passionate cover that might not be widely understood or liked, but this idea was rejected by the label. Instead, a photograph by Melody McDaniel featuring two seven-year-old child models, Ali Langer and Los Angeles Roberts, was chosen. The girls, who had never met before but displayed instant chemistry, were photographed in Los Angeles. They were kept smiling with popsicles from a passing ice cream truck and only settled down when promised they could keep the shoes they were trying on. "The label rejected the idea and a photo of two little girls was selected." ← https://www.youtube.com/watch?v=sn5TWBFd0XM
 
 ## curiosities
-**Associated with Grunge Era** : mentioned as "cousins like the pumpkins" alongside Nirvana, part of the great music from the grunge era. ← https://www.youtube.com/watch?v=eqTFinLk3oU
-**Bernadette O'Brien Tragedy (1996)** : On May 11, 1996, during a concert at The Point Theatre in Dublin on the Melancholy and the Infinite Sadness Tour, 17-year-old Bernadette O'Brien rushed the stage and into a mosh pit, suffering massive internal injuries from the crush and dying. Billy Corgan stopped the gig, stating, "There's a girl who's nearly dying. We as human beings cannot play up here while people are getting hurt down there." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
-**Billy Corgan's Anti-Moshing Stance (1995)** : Singer Billy Corgan publicly took a stand against moshing in 1995, stating, "I wish you'd understand that in an environment like this, it's fairly inappropriate and unfair to the rest of the people around you. I and we publicly take a stand against Moshing." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
-**Continuing Popularity in 21st Century** : remains popular decades after its emergence, making it harder for new artists to break through. ← https://www.youtube.com/watch?v=eqTFinLk3oU
-**Drug Overdoses and Jonathan Melvoin's Death (1996)** : During The Smashing Pumpkins' 1996 World Tour, significant drug problems emerged. In February, drummer Jimmy Chamberlain and touring keyboardist Jonathan Melvoin overdosed on heroin in Thailand. Chamberlain promised it was an isolated incident. However, in May, both overdosed again in Spain and "almost died." Melvoin was subsequently fired but remained with the band to complete the tour, while Chamberlain was put on "double secret probation." On July 11, 1996, prior to two sold-out shows at Madison Square Garden in New York, Jimmy and Jonathan went to a part of the East Village to purchase heroin, buying a potent type known as "red rum." At 4 AM the next morning, Jonathan Melvoin, who was a trained emergency medical technician, died from an overdose. Chamberlain, upon waking, called the police, and everyone involved gave statements at the precinct within hours. ← https://www.youtube.com/watch?v=8UIBWyUt38g
-**Final Performance Before Breakup (December 2, 2000)** : The band’s last show before their breakup took place at the Cabaret Metro in Chicago, initiated by Billy Corgan’s decision to end the group. ← https://www.youtube.com/watch?v=OrHtPVBjXw4
-**Influenced by My Bloody Valentine** : Counted among the bands significantly influenced by My Bloody Valentine's innovative use of guitar noise and walls of sound. ← https://www.youtube.com/watch?v=VOv5mT1dJd8
-**Jimmy Chamberlain's Firing (1996)** : Five days after Jonathan Melvoin's death, around July 17, 1996, Billy Corgan, James Iha, and D'arcy Wretzky issued a statement announcing their decision to "sever our relationship" with Jimmy Chamberlain. The statement expressed devastation and detailed a nine-year struggle with Chamberlain's "insidious disease of drug and alcohol addiction," which had "nearly destroyed everything we are and stand for." The band resolved to continue without him, wishing him well. Chamberlain was exiled from the band for three years, during which time The Smashing Pumpkins' fortunes began to decline. ← https://www.youtube.com/watch?v=8UIBWyUt38g
-**Jimmy Chamberlain's Return (1999)** : In an effort to revitalize the band's fortunes, Jimmy Chamberlain was approached to rejoin The Smashing Pumpkins. On April 10th, 1999, the band appeared in their "familiar form" for the first time since July 1996 at St Andrews Hall in Detroit, marking Chamberlain's return. ← https://www.youtube.com/watch?v=8UIBWyUt38g
-**Kenny Leung Tragedy (2007)** : On September 24, 2007, 20-year-old Kenny Leung died after being dragged unconscious from a mosh pit at their gig at the P&E Forum in Vancouver. Although an autopsy couldn't officially connect his death to crowd surfing or moshing, the incident reinforced the need to control activity at the front of the stage. ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
-**Lollapalooza Participation (1992-1995)** : The Smashing Pumpkins were among the major participants during Lollapalooza's "glory years" between 1992 and 1995. ← https://www.youtube.com/watch?v=7JP2tjJibTQ
-**Management by QPrime** : The Smashing Pumpkins were clients of QPrime, the management company founded by Cliff Burnstein and Peter Mensch. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
-**Management by Sharon Osbourne** : The Smashing Pumpkins were clients of Sharon Osbourne, though the relationship "didn't work out so well" during that time. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
-**Opening Act for Red Hot Chili Peppers (Early 1990s)** : The Smashing Pumpkins opened for the Red Hot Chili Peppers during the tour supporting *Blood Sugar Sex Magic*. ← https://www.youtube.com/watch?v=TESrEzVHLCc
-**Post-90s Decline** : The Smashing Pumpkins "lost their way" after the 1990s as alt-rock began to wane. ← https://www.youtube.com/watch?v=7JP2tjJibTQ
-**Rising Popularity (Early 1990s)** : Mentioned as a band "blowing up everywhere" during the period when major labels were highly interested in alternative music and California punk. ← https://www.youtube.com/watch?v=nyfdGYWelic
+**"Siamese Dream" Cover Models Reunion** : The two young girls featured on *The Smashing Pumpkins'* *Siamese Dream* album cover, Ali Langer and Los Angeles Roberts, were child models who met for the first time at the photoshoot in Los Angeles. They are not Siamese twins, as the title might imply. In 2018, Langer and Roberts, now a nurse and an IT professional respectively, reunited to help promote a reformed Smashing Pumpkins and their tour. It has been confirmed that one-time Smashing Pumpkins bassist Nicole Fiorentino is not one of the girls on the cover, despite a claim she made that even fooled Billy Corgan. "In 2018, Ali and Los Angeles got back together to help promote a reformed smashing pumpkins and a tour." ← https://www.youtube.com/watch?v=sn5TWBFd0XM
+**Billy Corgan's Vow to Reunite (June 25, 2005)** : Corgan vowed to bring the band back on the same day he released his solo album. "But then he vowed to bring the band back the same day he released his solo album which was June 25th, 2005." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Influence by Slint** : The Smashing Pumpkins were influenced by Slint, a connection that is evident when their songs are played back to back. "We heard how slint influenced the smashing pumpkins, and that influence is pretty obvious when you play songs from both bands back to back." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
+**Name Retirement (December 2, 2000)** : Billy Corgan retired The Smashing Pumpkins' name with a final concert in Chicago on this date. "Billy Corgan retired the name with a final show in Chicago in December 2nd of 2000." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Official Reunion Confirmation (April 30, 2006)** : The band's reunion was officially confirmed on this date. "The official confirmation of that reunion came April 30th of 2006." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Recruitment from Slint** : After breaking up The Smashing Pumpkins, Billy Corgan recruited David Pajo, guitarist from Slint, for his subsequent short-lived band, Zwan. "In fact, when Billy Corrigan broke up the smashing pumpkins, he recruited Slint guitarist David Peio for this short-lived band called Zwan." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
+**Time Apart (6 years, 5 months, 20 days)** : This interval is measured between the last gig of the old lineup (December 2, 2000) and the first gig of the new lineup (May 22, 2007). "So that works out to six years, five months and 20 days." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
 

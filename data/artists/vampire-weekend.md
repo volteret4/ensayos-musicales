@@ -1,11 +1,5 @@
 # artist - Vampire Weekend
 
-## labels
-- XL
-
-## albums
-**Contra (2010)** : included one of their biggest singles, a song about a non-alcoholic Mexican drink, and was released on the indie label XL. ← https://www.youtube.com/watch?v=sOU54d8mr5k
-
-## songs
-**Song about a non-alcoholic Mexican drink (2010)** : one of the biggest singles from their album "Contra." ← https://www.youtube.com/watch?v=sOU54d8mr5k
+## curiosities
+**Rise Through Hipster Bloggers** : Vampire Weekend serves as an example of a band that achieved rapid fame by gaining support from influential "hipster bloggers." This illustrates the significant power of independent online tastemakers in the digital age, enabling bands to reach a wide audience without traditional label support. "Just as bands like Ovenpire weekend." ← https://www.youtube.com/watch?v=-CT7yYXonIk
 

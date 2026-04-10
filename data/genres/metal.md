@@ -1,8 +1,6 @@
 # genre - Metal
 
 ## curiosities
-**Body Count's Impact** : Body Count brought metal to black audiences and was a big part of the move into nu metal. Alicia Fox fronts a Judas Priest tribute band. ← https://www.youtube.com/watch?v=PdCAjFW04Oc
-**Covers of "All I Want For Christmas Is You"** : There is a "surprising number of metal versions" of Mariah Carey's hit song "All I Want For Christmas Is You." ← https://www.youtube.com/watch?v=nYPGQiDL5bw
-**Gasoline-Powered Electric Guitar (Unknown Year)** : Matthias Krantz claims to have invented the first gasoline-powered electric guitar, featuring an onboard amplifier powered by a tiny gas motor with a pull start and choke, though the motor's noise reportedly drowns out the guitar. ← https://www.youtube.com/watch?v=qtdetc5-MQo
-**Goth Elements (N/A)** : Various metal scenes have absorbed elements of Goth. ← https://www.youtube.com/watch?v=RvzvcACkYqk
+**Layne Staley's Vocal Appeal** : Layne Staley's unique vocal delivery, ranging from menacing monotone to sharp screams, appealed to both metal fans and alternative kids. "And those vocals appealed to both metal fans and alternative kids." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
+**Les Paul Guitar's Versatility** : The Gibson Les Paul guitar has been continuously in production since its 1952 introduction and is widely used across virtually every genre, including metal. Its solid-body design resolved feedback issues common with older hollow-body guitars, making it ideal for amplified metal music. "The Les Paul has been in production ever since, and has been used by guitars into rock, punk, metal, pop, country, soul, R&B, jazz, reggae, and virtually every other genre you want to mention." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
 

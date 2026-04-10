@@ -1,0 +1,9 @@
+# genre - Nerdcore
+
+## curiosities
+**Annual Festival for Nerd Culture (2007-2013)** : Nerdapalooza was a festival specifically catering to nerd culture that ran annually between 2007 and 2013, providing a gathering point for fans and artists within the nerd rock and related genres. "Oh, and speaking of festivals, there was Nerdapalooza, which ran between 2007 and 2013." ← https://www.youtube.com/watch?v=h6snk0m4200
+**Hip Hop Equivalent of Nerd Rock** : Nerdcore is described as a specific corner of the hip hop universe that functions as the rap equivalent of nerd rock, embodying a similar cultural and thematic approach within the hip hop genre. "This is a corner of the hip hop universe that is to rap what Nerdrock is to regular rock." ← https://www.youtube.com/watch?v=h6snk0m4200
+**Notable Artists** : The genre's history can be traced back to the Beastie Boys and includes artists such as MC-9N-Headedfoot Jesus, Kulkith, and MF Doom. "Reaching back to the Beastie Boys and following through artists like MC-9N-Headedfoot Jesus, Kulkith, MF Doom, and a whole bunch more." ← https://www.youtube.com/watch?v=h6snk0m4200
+**Online Resource** : For those interested in exploring Nerdcore, the term "Geekstah Wrap" (G-E-E-K-S-T-A-R-P) is suggested as a search term on the internet. "If that sounds appealing, dig around on the internet for Geekstah Wrap. That G-E-E-K-S-T-A-R-P Geekstah Wrap. It exists." ← https://www.youtube.com/watch?v=h6snk0m4200
+**Wizard Rock Festival** : Rockstock is a festival dedicated to the Wizard Rock genre, featuring bands inspired by Harry Potter. Its name is notably spelled with a silent 'W' at the beginning. "That scene is big enough to have its own festival, which they call Rockstock, which is spelled with a silent W at the beginning." ← https://www.youtube.com/watch?v=h6snk0m4200
+

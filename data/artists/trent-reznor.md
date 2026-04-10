@@ -1,7 +1,9 @@
 # artist - Trent Reznor
 
+## instruments
+- Mini-Moog
+
 ## curiosities
-**Age** : As of the recording, Trent Reznor is 52 years old. ← https://www.youtube.com/watch?v=Z7glrAoXtkA
-**Past Client of Silver Artist Management** : Trent Reznor was a client of John Silva's Silver Artist Management for a period. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
-**Vintage Arcade Game Collector** : Trent Reznor shares a similar hobby to Slash, collecting vintage arcade games. ← https://www.youtube.com/watch?v=xc85sLj0Cnk
+**Long-time Mini-Moog Fan** : Trent Reznor has been a devoted fan of the Mini-Moog synthesizer since its inception, consistently incorporating its sounds into his music. His appreciation underscores the instrument's enduring appeal in industrial and electronic rock. "Trent Resner has been a big Mini-Mog fan from the beginning." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
+**Nine Inch Nails Reinvention (Pre-2005)** : He successfully reinvented Nine Inch Nails by spring 2005, contributing to the broader resurgence of rock music. "Trent Resner had successfully reinvented nine-inch nails." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
 

@@ -1,48 +1,24 @@
 # artist - Metallica
 
 ## members
-- Cliff Burton (former bass player, died 1986)
-- James Hetfield (frontman)
+- Cliff Burton (until September 27, 1986)
+- James Hetfield
 - Kirk Hammett
-- Lars Ulrich
 
 ## genres
-- Rock and Roll
-
-## labels
-- Tau Records (mentioned mockingly)
-
-## venues
-- Lollapalooza
-- Lollapalooza (1996)
-- Rasputin Music, San Francisco
-
-## instruments
-- **Wah pedal** : Kirk Hammett utilizes a wah pedal as a defining characteristic of his guitar sound throughout Metallica's "Enter Sandman."
+- Thrash Metal
 
 ## albums
-**Black Album (1991)** : Achieved a Double Diamond award, claiming 30 million sales and confirmed at least 22 million. Cited as part of the "old breed" of artists to achieve such high sales figures. ← https://www.youtube.com/watch?v=Epz5Sn151bk
+**Master of Puppets (1986) – Tour Support and Tragic Accident** : Metallica was on tour in support of this album when bassist Cliff Burton tragically died in a bus accident in Sweden on September 27, 1986. The tour was traveling between Stockholm and Copenhagen at the time of the fatal incident. "Metallica was on tour in support of their master of puppets album and was between Stockholm and Copenhagen." ← https://www.youtube.com/watch?v=dVJuITJyNTU
+**Rockabye Baby Rendition (Year Unspecified)** : Metallica's songs have been adapted into lullaby versions for infants as part of the "Rockabye Baby" series of CDs, which "baby-fies" rock songs for children. ← https://www.youtube.com/watch?v=BHN6db7m3DM
+**St. Anger (2003)** : This 2003 album was highlighted as one of the worst examples of the "loudness wars," particularly criticized for its snare drum sound. Its CD edition exemplifies how excessive compression can lead to a significant loss of audio quality and listener fatigue. "But to my ears, nothing really is quite as bad as a couple of Metallica albums, including the 2003 record, St. Hangar." ← https://www.youtube.com/watch?v=ZzIqIydZTlA
 
 ## songs
-**Enter Sandman** : Kirk Hammett extensively uses a wah pedal throughout Metallica's "Enter Sandman," making it a recognizable feature of the song. ← https://www.youtube.com/watch?v=6SdPPsmpgJg
-**Orion (Year not specified in text)** : This song, written by Cliff Burton, is honored by a transcription of its musical notes tattooed under James Hetfield's inner left arm, serving as a tribute to Burton after his death in a 1986 tour bus accident. ← https://www.youtube.com/watch?v=jZeMmPekKMQ
+**Orion (1986) – Cliff Burton's Instrumental Legacy** : An instrumental track from the "Master of Puppets" album, "Orion" was primarily written by Cliff Burton. It held significant personal meaning and was notably played at his funeral following his death in a tour bus accident. "It's an instrumental called Orion which was written mostly by Cliff Burton." ← https://www.youtube.com/watch?v=dVJuITJyNTU
 
 ## curiosities
-**Active Rock Radio Support (2010s)** : benefited from active rock radio outlets. ← https://www.youtube.com/watch?v=sOU54d8mr5k
-**Consistent Success (2010s)** : one of the most consistently successful bands of the 2010s decade, largely due to active rock radio programming. ← https://www.youtube.com/watch?v=sOU54d8mr5k
-**Copyright Violations on Napster** : Documented 1.4 million copyright violations of 95 Metallica songs, linked to approximately 350,000 Napster users. ← https://www.youtube.com/watch?v=gsSTJWN6cUo
-**Impact of Music Piracy** : The band was hit hard by music piracy. ← https://www.youtube.com/watch?v=nX8uAFDzDYM
-**James Hetfield's Band Formation Tattoo (1981)** : On his right hand, he has "M81," signifying Metallica and the year of the band's formation, 1981. ← https://www.youtube.com/watch?v=jZeMmPekKMQ
-**James Hetfield's Birth Year Tattoo (1963)** : On his left shoulder, James Hetfield has flaming playing cards displaying an ace, nine, six, and three, representing his birth year, 1963. ← https://www.youtube.com/watch?v=jZeMmPekKMQ
-**James Hetfield's Cliff Burton Tribute Tattoos** : Just above his right elbow are the letters "CBL," representing Cliff Burton's initials. Under his inner left arm, there are musical notes that transcribe the song "Orion," a piece Cliff Burton wrote for the band, honoring the former bassist who died in a tour bus accident in 1986. ← https://www.youtube.com/watch?v=jZeMmPekKMQ
-**James Hetfield's Pyro Incident Tattoo (1992)** : The flames in his 1963 birth year tattoo are a direct reference to a 1992 show in Montreal where he literally caught fire due to ill-timed pyrotechnics. ← https://www.youtube.com/watch?v=jZeMmPekKMQ
-**James Hetfield's Religious Tattoos** : James Hetfield has an illustration depicting a fight between Saint Michael and Satan, reflecting his long-standing interest in religious stories. On his left wrist, he has "Matthew 613," referring to the biblical verse "lead us not into temptation," which is likely connected to his personal struggles with addiction. ← https://www.youtube.com/watch?v=jZeMmPekKMQ
-**Lollapalooza Headliner (1996)** : Metallica headlined Lollapalooza in 1996, a choice that "didn't feel right" and was described as "kind of hijacked the whole thing," contributing to a perceived change in the festival's vibe. ← https://www.youtube.com/watch?v=7JP2tjJibTQ
-**Management by QPrime (Since 1984)** : Metallica joined Cliff Burnstein and Peter Mensch at QPrime in 1984 and remains their biggest client. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
-**Napster Lawsuit** : In April 2000, the band sued Napster after discovering unreleased Metallica files on the platform. ← https://www.youtube.com/watch?v=gsSTJWN6cUo
-**Napster Lawsuit Stance** : The band has long been outspoken about the role of digital downloads in the music business, tracing back to the days of Napster and illegal file sharing. ← https://www.youtube.com/watch?v=nX8uAFDzDYM
-**Post-COVID Tour Bus Affordability** : Following COVID-19 restrictions, the band was one of the few acts able to afford expensive tour buses due to their short supply and high rental costs. ← https://www.youtube.com/watch?v=nX8uAFDzDYM
-**Production Management** : Kevin Lyman worked as a production manager for Metallica while at the concert promotion company Goldenvoice. ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
-**Record Store Day Support (April 19, 2008)** : Headlined the first Record Store Day on April 19, 2008, at Rasputin Music in San Francisco, drawing fans who waited in line for up to three days for an autograph session. They are noted as one of the biggest supporters of Record Store Day and the vinyl resurrection. ← https://www.youtube.com/watch?v=nX8uAFDzDYM
-**Vigorous Anti-Downloading Stance** : Lars Ulrich, the drummer, was the public face of the band's strong opposition to free music downloading and their legal actions against Napster. ← https://www.youtube.com/watch?v=gsSTJWN6cUo
+**Black Noise Whiskey Enhancement** : Metallica has a unique whiskey blend that achieves its distinctive taste by being exposed to ultra-low sound waves. This patent-pending sonic enhancement process is called Black Noise, and the master distiller suggests it alters the molecular interaction of the whiskey's various chemicals, impacting its finish. "Metallica has a whiskey blend that gets its distinctive taste from being subjected to ultra low sound waves." ← https://www.youtube.com/watch?v=GO0K_N7Ys7I
+**Collaborated with Anton Corbijn** : Photographer Anton Corbijn, known for designing The Killers' "Sam's Town" cover, is a favored collaborator of Metallica, contributing to their powerful visual imagery. "The photographer was Anton Corbin, the Dutch guy who was a favorite of you two, Depeche Mode, Coldplay, Bruce Springsteen, Kate Bush, Bjork Simple Minds, R.E.M. Metallica..." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
+**Lollapalooza 1996 Headliner Controversy** : The band "hijacked the headliner spot" on the 1996 Lollapalooza tour, an event that, within two years, signaled the decline of the Alt Nation and the return of boy bands and pop charts. "We knew it was all going to hell when Metallica hijacked the headliner spot on the 1996 Lollipalooza tour." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
+**Potential Link to Hardcore Punk** : It is suggested that without the evolution of hardcore punk, the emergence of thrash metal, and consequently bands like Metallica, might not have happened. "So, no hardcore punk, possibly no Metallica." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 

@@ -1,14 +1,24 @@
 # artist - Michael Jackson
 
-## instruments
-- EMU Systems gear
+## genres
+- Pop
 
 ## albums
-**Thriller (1982)** : Michael Jackson utilized EMU Systems gear during the creation of his "Thriller" album, likely for sampling purposes. ← https://www.youtube.com/watch?v=OiqdZfxdBP0
+**Demonstration CD (Year Unknown)** : A demonstration CD by Michael Jackson is cited as a collectible item, featuring in a list of valuable and rare recordings. "Beyond that, we have more Beatles, more Quarryman, some Rolling Stones, Jimmy Hendrix, Michael Jackson demonstration CD, more acetates from Pink Floyd, with drawing Bob Dylan album." ← https://www.youtube.com/watch?v=IIJySSo276k
+**Posthumous Chart Success** : After Michael Jackson's death, his albums experienced a surge in popularity, leading to them topping the charts. This event caused Billy Talent's "Dead Silence" to debut at number two, behind all of Michael Jackson's albums, during the same week. ← https://www.youtube.com/watch?v=ocMHRLQMQY0
+
+## songs
+**Beat It (1982)** : Alongside "Billie Jean," this track was among the initial songs to be officially licensed for use in a video game. It was featured in the Sega Genesis game *Moonwalker* in 1990, demonstrating an early collaboration between the music and video game industries. "The first proper song to be licensed for inclusion into a video game was, Michael Jackson's Billie Jean and Beat It. It was in the Sega Genesis game Moonwalker in 1990." ← https://www.youtube.com/watch?v=aSk1XQHNkd8
+**Billie Jean (1982)** : This song was one of the first proper songs to be licensed for inclusion in a video game, specifically the Sega Genesis game *Moonwalker*, released in 1990. This marked a significant early step in integrating popular music into the gaming industry. "The first proper song to be licensed for inclusion into a video game was, Michael Jackson's Billie Jean and Beat It." ← https://www.youtube.com/watch?v=aSk1XQHNkd8
 
 ## curiosities
-**Influential Music Video Artist** : his music videos, along with Madonna, Peter Gabriel, Phil Collins, and Aerosmith, fascinated Taj Khrichlo and made him fall in love with the art of music videos in the 80s. ← https://www.youtube.com/watch?v=eqTFinLk3oU
-**Influential Music Videos (1980s)** : Michael Jackson's music videos from the MTV/MuchMusic era of the 1980s were highly influential, inspiring fascination with music video storytelling, dancing, and style. ← https://www.youtube.com/watch?v=XaLsZFLrMnI
-**Michael Jackson Alive Conspiracy** : A conspiracy theory posits that Michael Jackson is still alive and is currently living under the name Dave Dave. ← https://www.youtube.com/watch?v=pmKjZzypzvg
-**Quincy Jones' Production Influenced by Tonto** : Michael Jackson's albums, produced by Quincy Jones, benefited from Jones's learning experience with the Tonto synthesizer. This exposure to Tonto's capabilities brought new attention to the possibilities of electronically generated music and influenced the production sound of Jackson's work. ← https://www.youtube.com/watch?v=6SdPPsmpgJg
+**Artwork for Dead Silence** : Kent Taylor was the artist who created the artwork for Billy Talent's "Dead Silence" album. He is known for his work in band-related touring, Perincent, and silk screen art. ← https://www.youtube.com/watch?v=ocMHRLQMQY0
+**Engineer on Blood Sugar Sex Magik** : Rick Rubin served as the engineer for the Red Hot Chili Peppers' album "Blood Sugar Sex Magik," where he collaborated with Brendan O'Brien. ← https://www.youtube.com/watch?v=ocMHRLQMQY0
+**Fill-in Drummer for Billy Talent** : Jordan Hastings, a drummer from the band AlexisOnFire, temporarily joined Billy Talent to record drums for the "Afraid of Heights" album and to perform live when Aaron Solowoniuk had to step away due to an MS relapse. He was highly praised for his skill and contribution. His first two shows with Billy Talent were in Russia, and his third was at the Rock am Ring Festival in Germany. ← https://www.youtube.com/watch?v=ocMHRLQMQY0
+**Iconic Music Videos** : Michael Jackson's music videos from the 1980s were pivotal in the MTV/MuchMusic era, inspiring fascination with their storytelling, dancing, and style. "watching videos by like Madonna and Peter Gabriel and like Phil Collins and Michael Jackson and and Errol Smith." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
+**Mellotron Usage** : O'Brien owned and used a Mellotron, a "taped piano" instrument, famously on the Red Hot Chili Peppers' album "Blood Sugar Sex Magik" and specifically on their song "Breaking the Girl." He later used this same Mellotron on Billy Talent's songs "Saint Veronica" and "White Sparrows" from the album "Billy Talent III," after the band expressed their admiration for its sound. ← https://www.youtube.com/watch?v=ocMHRLQMQY0
+**Music Video Influence** : Michael Jackson's music videos from the 1980s MTV and Much Music era were highly influential, inspiring music video directors like Director X to fall in love with the art form due to their storytelling, dancing, and style. "The MTV, much music era watching videos by like Madonna and Peter Gabriel and like Phil Collins and Michael Jackson and Errol Smith." ← https://www.youtube.com/watch?v=IIJySSo276k
+**Pop Dominance in Early 1990s** : Michael Jackson was one of the artists who ruled pop music at the very beginning of the 1990s, before the rise of grunge and alternative music culture changed the musical landscape. "At the very beginning of the decade, pop music ruled Michael Jackson, Janet Jackson, Maddon, Millie Vanilley, and new kids on the block." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
+**Production Style** : Brendan O'Brien, known as Pearl Jam's favorite producer, employs an improvisational and spontaneous production style. He frequently adds unexpected instrumentation, like xylophones, or layers background vocals on the spot, tucking these elements into the mix to create subtle effects. He also operates his own recording studio in Atlanta, filled with various gear. ← https://www.youtube.com/watch?v=ocMHRLQMQY0
+**Saluted on Teal Album** : Michael Jackson was among the artists whose songs were saluted (covered) on Weezer's Teal Album. "and Michael Jackson were all saluted on the album." ← https://www.youtube.com/watch?v=LYRPxtP61JM
 

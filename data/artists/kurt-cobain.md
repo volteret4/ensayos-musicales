@@ -1,12 +1,20 @@
 # artist - Kurt Cobain
 
 ## instruments
-- Guitar : The specific guitar used by Kurt Cobain in the "Smells Like Teen Spirit" music video was purchased by Jim Irsay for nearly $5 million.
+- Fender Stratocaster (signature model)
+- Silver Face Fender Twin Reverb
+
+## albums
+**Bleach (1989)** : Kurt Cobain used a borrowed silver face Fender Twin Reverb amplifier during the recording of Nirvana's "Bleach" album. His appreciation for its sound was so strong that he subsequently purchased his own. "Kurt Cobain used a borrowed silver face twin reverb on the Bleach album." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
+
+## songs
+**About A Girl (1989)** : Kurt Cobain recorded his guitar parts for Nirvana's song "About a Girl" using his original silver face Fender Twin Reverb amplifier. This amplifier contributed to the distinctive sound of the track on the "Bleach" album. "Nirvana and about a girl with Kurt playing his parts through a silver face Fender Twin Reverb." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
 
 ## curiosities
-**Final Performance Condition (1994) – Severe Health Issues** : During the Munich show, Cobain was suffering from bronchitis, laryngitis, drug addiction, and serious mental health issues, just one month before his death. ← https://www.youtube.com/watch?v=OrHtPVBjXw4
-**Medical Appliance Collector** : Kurt Cobain had a unique hobby of collecting old medical appliances. ← https://www.youtube.com/watch?v=xc85sLj0Cnk
-**Rehab Stay at Exodus Recovery Center (Spring 1994)** : Was present at the Exodus recovery center in Marina del Rey when Scott Weiland considered checking in for detox, contributing to Weiland's decision not to check in. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**The Vandals Fan** : Was a fan of The Vandals. ← https://www.youtube.com/watch?v=tZV1lz-obQE
-**Tragic Suicide (1994)** : Killed himself shortly after escaping from rehab, an event that "hurt" Alan Cross and affected Scott Weiland's issues. ← https://www.youtube.com/watch?v=TDwagoyMvck
+**Body Discovery Description (1994)** : A dramatic audio clip describing the scene of Kurt Cobain's death reports finding him with "a shotgun laying on his chest and the mud running out of his ear," an image that would later be confirmed by official reports of his suicide. "And then the kids through the last door, and they were just gay, and they were with the shotgun, and they left his chest, and the mud running out of his ear." ← https://www.youtube.com/watch?v=MTDY6qT11Dc
+**Discovery of Body (1994)** : On Friday, April 8th, 1994, an electrician discovered Kurt Cobain's body in a room above a greenhouse at his home. The electrician found him "laying there with a shotgun laying on his chest and blood running out of his ear," with the shotgun pointing at his neck. A suicide note was found stuck in a plant that had been dumped out. "The story began to unfold when any electrician noticed a body lying on the floor of a room above a greenhouse." ← https://www.youtube.com/watch?v=MTDY6qT11Dc
+**Impact of Suicide (1994)** : Kurt Cobain's suicide on April 8th, 1994, was described as the "seminal unifying and unforgettable moment for the new rock nation." For those "around then and into music," the day was said to be unforgettable. "If you are around then and into music, you will never, ever, ever, ever, forget that day." ← https://www.youtube.com/watch?v=MTDY6qT11Dc
+**Official Death Confirmation (1994)** : On April 8th, 1994, at 4 p.m., Oscar Venet of the Seattle Police Media update information line announced that the King County Medical Examiner's office had positively identified Kurt Cobain's body by fingerprints. The autopsy confirmed he died of a shotgun wound to the head, which at the time appeared to be self-inflicted. The Seattle Police Department Homicide and King County Medical Examiner's offices continued their investigation. "The King County Medical Examiner's office has positively identified the body of Kurt Colbein by fingerprints." ← https://www.youtube.com/watch?v=MTDY6qT11Dc
+**Suicide (1994)** : Kurt Cobain's suicide in 1994 is identified as occurring shortly after the peak of rock's fourth cycle, leading to the subsequent decline of alternative rock. "The peak for this cycle came shortly before Kurt Cobain's suicide in 1994." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
+**Suicide Note Excerpt (1994)** : An excerpt from Kurt Cobain's suicide note includes lines about his inability to fool people or himself, his concern about putting people off by faking it, his dramatic duty, and a wish for people to remember that "it's better to burn out than to fade away." The note concludes with "Peace, love, empathy, Kurt Colbein." "It's better to put it out. They just fade away. Peace, love, empathy, Kurt Colbein." ← https://www.youtube.com/watch?v=MTDY6qT11Dc
 

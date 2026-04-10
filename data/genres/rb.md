@@ -1,10 +1,6 @@
 # genre - R&B
 
 ## curiosities
-**"Musical Moneyball" Beneficiary** : Has benefited significantly from data-driven "musical moneyball" strategies due to demonstrated streaming success, leading labels to spend more time and money promoting it. ← https://www.youtube.com/watch?v=Sc9HApnyBLM
-**Early Rheostatics Style (Early 1980s)** : The Rheostatics incorporated R&B elements and a horn section in their early sound before evolving. ← https://www.youtube.com/watch?v=P0pOgz3ZobE
-**Foundation of Rock** : Rock music was born out of a collision between blues, R&B, country, and hillbilly music in the 1950s. ← https://www.youtube.com/watch?v=PdCAjFW04Oc
-**Roots of Rock** : Many of rock's roots are in rhythm and blues. ← https://www.youtube.com/watch?v=PdCAjFW04Oc
-**Single-Driven Era (Pre-1965)** : Popular music, including R&B, was primarily released as single songs before the mid-1960s. ← https://www.youtube.com/watch?v=Sc9HApnyBLM
-**The Four Tops Missed Flight (1988)** : The R&B group, The Four Tops, had seats booked on Pan Am Flight 103 on December 21, 1988, but overslept after performing on BBC's Top of the Pops the night before, missing the flight by minutes and thus avoiding the Lockerbie bombing. ← https://www.youtube.com/watch?v=hmnMG6f80Sg
+**Les Paul Guitar's Versatility** : The Gibson Les Paul guitar has been continuously in production since its 1952 introduction and is widely used across virtually every genre, including R&B. Its solid-body design resolved feedback issues common with older hollow-body guitars, making it ideal for amplified R&B music. "The Les Paul has been in production ever since, and has been used by guitars into rock, punk, metal, pop, country, soul, R&B, jazz, reggae, and virtually every other genre you want to mention." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
+**Mini-Moog's Prominence** : The Mini-Moog synthesizer is considered the most famous synth in history due to its extensive use across a wide array of genres, including R&B. Its unique sounds and portability made it highly desirable for musicians seeking innovative textures. "I think it's the most famous synth in history given how much it was used in rock, pop, disco, funk, R&B, and jazz." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
 

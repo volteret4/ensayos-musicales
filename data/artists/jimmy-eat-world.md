@@ -1,13 +1,8 @@
 # artist - Jimmy Eat World
 
 ## genres
-- Pop Punk (implied)
+- Emo
 
-## venues
-- Warped Tour
-
-## curiosities
-**Management by Silver Artist Management** : Jimmy Eat World is among the current clients managed by John Silva's Silver Artist Management. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
-**Warped Tour Participation** : Jimmy Eat World is listed among the staggering number of artists who played on the Warped Tour. ← https://www.youtube.com/watch?v=7JP2tjJibTQ
-**Warped Tour Veteran** : An artist with "Warped" on their resume, noted as someone "you may not have expected." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
+## albums
+**Bleed American (2001)** : This Emo-style album achieved significant commercial success, selling a million copies between 2002 and 2003. Its popularity played a major role in bringing Emo music into the mainstream and spurred a trend for record labels to sign other Emo and Emo-ish bands. "Their bleed American album, an Emo style record sold a million copies through 2002 and 2003." ← https://www.youtube.com/watch?v=-CT7yYXonIk
 

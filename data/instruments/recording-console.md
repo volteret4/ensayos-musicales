@@ -1,5 +1,5 @@
-# instrument - Recording Console
+# instrument - Recording console
 
 ## curiosities
-**Lemmy's Cheeseburger Incident** : A $2 million recording console at A&M Studios in Los Angeles was damaged when Motörhead frontman Lemmy slammed a cheeseburger into it during a fit of rage, requiring technicians to clean out the food before work could resume. ← https://www.youtube.com/watch?v=0DFmS6MPbFI
+**eBay Purchase for Rubber Factory** : The Black Keys bought a recording console on eBay for their *Rubber Factory* album sessions. Although it had a storied past, having been owned by the sound engineer for Loverboy, the band deemed it "crap" and abandoned it in the factory after completing their recording. "They bought a recording console on eBay, which happened to have been owned by the guy who went to Soundford Loverboy." ← https://www.youtube.com/watch?v=ooNAHswiT5Q
 

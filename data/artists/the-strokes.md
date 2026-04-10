@@ -1,22 +1,38 @@
 # artist - The Strokes
 
+## members
+- Albert Hammond Jr.
+- Julian Casablancas (singer)
+
+## genres
+- Garage Rock
+- Guitar-based Rock
+- Indie Rock
+
 ## labels
-- Beggars Banquet Records
-- Matador
-- Rough Trade
-- XL Recordings
-- Young Turks
+- Rough Trade Records
 
 ## albums
-**Is This It (2001) – Influential Debut** : Released in 2001, this debut album is highly acclaimed, world-renowned, and was instrumental in revitalizing rock music during an era of boy bands and pop stars. ← https://www.youtube.com/watch?v=Z7glrAoXtkA
+**Is This It (2001) – Debut Album** : The Strokes' 2001 debut album featured dual cover art designs. The North American version prominently displayed a scientific photograph of subatomic particles in a bubble chamber, while international releases depicted a provocative shot of a woman's naked rear and hip adorned with a black glove, photographed by Colin Lane. The band ultimately preferred the scientific image for global release, but it was too late for the initial pressings. "If you bought the record in North America, we see something very scientific." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
+**Is This It (Year Unspecified - Post 9/11)** : This debut record, released as New York was dealing with 9/11's aftermath, created a significant buzz, sounding "very fresh, very raw, very exciting." It became one of the foundational albums for the indie rock movement later in the decade. "But next to what else was being released and it sounded very fresh, very raw, very exciting. The name of the band? The Strokes." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
+**Is This It? (2001) – Debut Full-Length Album** : The full album released after a bidding war among American labels. It was available in the UK on July 30, 2001, and in North America on October 9, 2001. The album's release suggested to listeners that "maybe the rock scene doesn't seem so hopeless anymore." "The UK got it right away, July the 30th. North America got it October 9th." ← https://www.youtube.com/watch?v=raRCZ0Y5up8
+**The Modern Age (2001) – Debut EP** : Released by Rough Trade Records in London on January 29, 2001. This EP was so popular that Rough Trade struggled to keep enough copies in stock in stores. Its success garnered attention from American labels, leading to a bidding war for the band. "It was so popular that Rough Trade struggled to keep enough of these EP's in stock in stores." ← https://www.youtube.com/watch?v=raRCZ0Y5up8
 
 ## songs
-**Last Night (2001)** : A notable song from the band's debut album, Is This It. ← https://www.youtube.com/watch?v=Z7glrAoXtkA
-**Last Nite (2001)** : A track where the band openly admitted to taking musical elements from Tom Petty's "American Girl". ← https://www.youtube.com/watch?v=rfObVld9rIE
-**Unnamed Song (2001)** : An unnamed song from 2001 is presented as an example of a band putting new life into rock during the last great upswing of the 12-year cycle in the early 2000s, before streaming irreparably broke the cycle. ← https://www.youtube.com/watch?v=nX8uAFDzDYM
+**Last Night (2001)** : A single from their debut record, "Is This It," released in October 2001. "The strokes with last night, from their debut record, Is This It from October 2001." ← https://www.youtube.com/watch?v=raRCZ0Y5up8
 
 ## curiosities
-**Arena/Stadium Scale Limitation** : While they attract large crowds, the band generally cannot fill an arena or stadium, falling short of the massive stature held by acts like U2 or Pearl Jam. ← https://www.youtube.com/watch?v=Z7glrAoXtkA
-**Certified Indie Artist** : Recognized as a certifiably indie artist due to recording for labels within the Beggars Group, which includes Matador, Rough Trade, XL Recordings, and Young Turks. ← https://www.youtube.com/watch?v=VOv5mT1dJd8
-**Limited Chart Topping Success** : Despite their influence, only two of their albums have reached number one on a national chart—once in the UK and once in Australia. ← https://www.youtube.com/watch?v=Z7glrAoXtkA
+**Continued Reverence** : As pioneers of the early 2000s indie rock revival centered in New York, The Strokes maintain a revered status among fans and critics, testament to their lasting influence on guitar-based rock music. "The strokes continued to be revered." ← https://www.youtube.com/watch?v=xid8CZf4oYo
+**Dual Cover Art for "Is This It" (2001)** : The Strokes' 2001 debut album, "Is This It," was released with two distinct covers. The North American version showcased a scientific image of subatomic particles in a bubble chamber, an image previously seen on Prince's "Graffiti Bridge" and a book by Freeman Dyson. The international version, which initially appeared on early North American editions (July and August 2001) before a change, featured a controversial shot of photographer Colin Lane's then-girlfriend's naked rear and hip, wearing a black Chanel glove. "Record collectors will often look for an album that has different covers in different countries." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
+**Formation and Early Work (1998-1999)** : The band was formed in 1998 and, by the end of the decade, had developed a set of about a dozen songs. "The strokes were formed in 1998 and, head by the end of the decade, worked up a set of about a dozen songs." ← https://www.youtube.com/watch?v=raRCZ0Y5up8
+**Garage Rock Approach** : Their music was characterized as a form of Garage Rock, offering a fresh take on a back-to-basics approach previously seen with punk in the 70s and grunge in the early 90s. "They characterized what they were doing as a form of Garage Rock, a fresh take on the same back-to-basics approach that we saw with punk in the 70s and Grunge in the early 90s." ← https://www.youtube.com/watch?v=raRCZ0Y5up8
+**Indie Rock Revival Post 9/11** : The Strokes were among the bands that drove an indie rock revival following the world events of 9/11 and the American invasion of Iraq and Afghanistan, contributing to a period when rock music began to rise in popularity again. "After 9-11 and the American invasion of Iraq and Afghanistan, Happy music no longer seemed appropriate. This popularity began to rise again, driven by an indie rock revival. I don't think the strokes and the A.A.S and the white stripes and the killers." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
+**Influence on Matt Helders** : Matt Helders, the drummer for Arctic Monkeys, formed "new allegiances" to The Strokes as he gravitated towards guitar-based indie bands. ← https://www.youtube.com/watch?v=YvcnHKI4oIw
+**Lack of American Label Interest** : Initially, no American record label showed interest in The Strokes. This was attributed to major labels making significant profits from pop acts, diverting all their attention and money to that genre. "It was cool stuff, but no American record label was interested." ← https://www.youtube.com/watch?v=raRCZ0Y5up8
+**Move to England for Opportunity** : Following in the footsteps of bands like Nirvana, the Pixies, and the Ramones, The Strokes took their act to England, where they received a much warmer welcome and found a label willing to release their music. "So the strokes did what Nirvana and the Pixies had done a dozen years earlier, and what the Ramones did a dozen years before that. They took their act to England, where they received a much warmer welcome." ← https://www.youtube.com/watch?v=raRCZ0Y5up8
+**Mystery Model on "Is This It" Cover** : The woman featured on the international cover of The Strokes' "Is This It," depicted from behind with a black glove, was the then-girlfriend of photographer Colin Lane. Lane took the spontaneous shot as she stepped out of the shower, utilizing a Chanel glove from a previous shoot. Despite the image's widespread recognition, Lane has never publicly revealed her name, and the couple are no longer together. "Oh, and who is the woman in that photo? No idea." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
+**New York Origin, UK/Europe Acceptance** : Formed in New York, The Strokes first found acceptance and embrace in the UK and Europe before making a significant impact in their home country. "The Strokes formed in New York but first embraced in the UK and Europe." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
+**Post-9/11 Buzz** : Their debut record caused a significant buzz in New York while the city was still grappling with the aftermath of 9/11, offering a fresh sound. "As the city was still struggling with the aftermath of 9-11, an independent band was causing a buzz with their debut record." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
+**Reason for North American Cover Change (2001)** : The decision to use the scientific bubble chamber image for the North American cover of "Is This It" was made by The Strokes themselves, as they found it "a lot cooler" than the international nude shot. However, by the time singer Julian Casablancas contacted the label, the first edition of the album had already been pressed with the international cover. Consequently, buyers in North America during July and August 2001 received the original cover before the bubble chamber shot became standard. "When the band stumbled on the bubble chamber picture, they just thought it was a lot cooler and they wanted it to be the cover of the album for the world." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
+**Stylistic Title Formatting for "Is This It"** : The deliberate omission of a question mark in The Strokes' album title "Is This It" was a conscious stylistic decision made by the art director. This choice was based on the belief that including a question mark simply "didn't look right" with the chosen typography and overall design aesthetic. "That's a stylistic decision. According to the art director, it just didn't look right." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
 

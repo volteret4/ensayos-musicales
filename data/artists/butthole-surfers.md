@@ -1,14 +1,8 @@
 # artist - Butthole Surfers
 
-## members
-- Gibby Haynes
+## albums
+**Independent Worms Saloon (1993)** : This album, released in 1993, featured the track "The Annoying Song," which was notably produced by John Paul Jones, the bass player for Led Zeppelin. "From 1993, an album entitled Independent Worms Saloon." ← https://www.youtube.com/watch?v=7Zniri9uSlc
 
-## venues
-- Lollapalooza (1991)
-
-## curiosities
-**Introduction to Heroin** : Gibby Haynes was identified as the person who apparently introduced Scott Weiland to heroin. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Lollapalooza 1991 Performer** : performed at the first Lollapalooza festival in 1991. ← https://www.youtube.com/watch?v=eqTFinLk3oU
-**Lollapalooza Performance (1991)** : Butthole Surfers performed at the very first Lollapalooza show, which began outside Phoenix on July 18, 1991. ← https://www.youtube.com/watch?v=7JP2tjJibTQ
-**Rehab Stay at Exodus Recovery Center (Spring 1994)** : Gibby Haynes was also present at the Exodus recovery center in Marina del Rey when Scott Weiland considered checking in for detox, contributing to Weiland's decision not to check in. ← https://www.youtube.com/watch?v=TDwagoyMvck
+## songs
+**The Annoying Song (1993)** : Featured on the 1993 album "Independent Worms Saloon," this track was produced by John Paul Jones, who is known as the bass player for Led Zeppelin. "That's the butthole surfers with The Annoying Song." ← https://www.youtube.com/watch?v=7Zniri9uSlc
 

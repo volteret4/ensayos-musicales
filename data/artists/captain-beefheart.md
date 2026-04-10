@@ -1,5 +1,5 @@
 # artist - Captain Beefheart
 
-## songs
-**A Song by Captain Beefheart (pre-2009)** : One of Captain Beefheart's songs was covered by The Black Keys in 2009 for a split 7-inch single. ← https://www.youtube.com/watch?v=yuA9Xor8vfw
+## albums
+**Trout Mask Replica (1969) – Critics' Favorite Album** : In a survey comparing public and critical music tastes, critics specifically mentioned Captain Beefheart's 1969 album, *Trout Mask Replica*, as one of their favorites, calling it "baffling." This album is known for its experimental and challenging nature, appealing to a critical audience. "The critics professed to love Nick Cave and the bad seeds, The Fall, and Captain B. Farts baffling 1969 album Trout Mass Grapelka." ← https://www.youtube.com/watch?v=aSk1XQHNkd8
 

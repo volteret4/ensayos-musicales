@@ -1,10 +1,5 @@
 # artist - Lemmy
 
-## members
-- (from Motörhead)
-- Lemmy
-
 ## curiosities
-**Recording Console Cheeseburger Attack (A&M Studios, Los Angeles)** : During an argument in the studio, Lemmy, frontman of Motörhead, reportedly freaked out when he was proven wrong. In a fit of anger, he slammed his cheeseburger into a $2 million recording console at A&M Studios in Los Angeles, halting the session for cleanup. ← https://www.youtube.com/watch?v=0DFmS6MPbFI
-**WWII Axis Memorabilia Collector** : Lemmy was known for his collection of memorabilia from all Axis countries of World War II, including Germany, Hungary, and Italy. ← https://www.youtube.com/watch?v=xc85sLj0Cnk
+**Rainbow Bar & Grill Tribute** : Lemmy Kilmister was a regular patron at The Rainbow Bar & Grill on Sunset Boulevard in Los Angeles. Following his death, the venue preserved his favorite chair at the end of the bar as a permanent tribute. Patrons can also order "a Lemmy," which is his preferred drink of Jack Daniel's and Coke. "Lemmy of Motorhead was a fixture at a venue called the Rainbow in Sunset Boulevard in Los Angeles. After he died, they preserved his favorite chair at the end of the bar as a tribute. You can also order a drink in the bar called a Lemmy, which is favorite drink, Jack Daniels and Coke." ← https://www.youtube.com/watch?v=aSk1XQHNkd8
 

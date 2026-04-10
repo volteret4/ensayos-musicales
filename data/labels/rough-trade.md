@@ -1,7 +1,5 @@
 # label - Rough Trade
 
 ## curiosities
-**C86 Cassette Contributor (1986)** : One of the indie labels from which bands were selected to contribute to the NME's C86 cassette collection in 1986. ← https://www.youtube.com/watch?v=VOv5mT1dJd8
-**Home to Major Artists** : Was notably home to The Smiths, who were recognized as the biggest indie band of their era. ← https://www.youtube.com/watch?v=VOv5mT1dJd8
-**Part of Beggars Group** : Operates as one of the labels within the "solar system" of the Beggars Group. ← https://www.youtube.com/watch?v=VOv5mT1dJd8
+**Pioneering Independent Label** : Rough Trade was among the small independent labels that emerged in the post-punk era, specializing in operating outside the major label system and supporting independent artists. "that included rough trade for a D, beggars banquet, epitaph, SST, and many others." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 

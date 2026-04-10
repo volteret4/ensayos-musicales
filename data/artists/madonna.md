@@ -1,23 +1,13 @@
 # artist - Madonna
 
-## members
-- Christopher Chaconis
-
-## labels
-- Maverick
+## genres
+- Pop
 
 ## songs
-**Borderline (1984)** : This mainstream pop song was covered by The Flaming Lips and Star Death and White Dwarfs in 2009, who interpreted it with a slower tempo. ← https://www.youtube.com/watch?v=yuA9Xor8vfw
+**Bedtime Story (1994)** : This song, co-produced by Nellee Hooper (referred to as "Mally Hooper" in transcript), features a sample of Madonna's moaning voice. This sample was later used in the background of the Garbage song "Number One Crush," which appeared on the *Romeo and Juliet* soundtrack. "The sample is taken from her song Bedtime Story, which was co-produced by Garbage producer, Mally Hooper." ← https://www.youtube.com/watch?v=aSk1XQHNkd8
 
 ## curiosities
-**Championing Deftones' Signing** : In the 1990s, while running her Maverick label, Madonna personally approved the demo tapes of the band Deftones, leading to their record deal after A&R representative Guy Oseary brought the material to her attention. ← https://www.youtube.com/watch?v=0DFmS6MPbFI
-**Chess Fan** : Madonna is a fan of playing chess. ← https://www.youtube.com/watch?v=xc85sLj0Cnk
-**First Record Deal with Seymour Stein** : Seymour Stein of Sire Records was responsible for giving Madonna her first proper record deal. ← https://www.youtube.com/watch?v=hjProJd_JrM
-**Influential Music Video Artist** : her music videos, along with Peter Gabriel, Phil Collins, Michael Jackson, and Aerosmith, fascinated Taj Khrichlo and made him fall in love with the art of music videos in the 80s. ← https://www.youtube.com/watch?v=eqTFinLk3oU
-**Influential Music Videos (1980s)** : Madonna's music videos from the MTV/MuchMusic era of the 1980s were highly influential, inspiring fascination with music video storytelling, dancing, and style. Directors featured on the Art Context podcast have worked with her. ← https://www.youtube.com/watch?v=XaLsZFLrMnI
-**Michigan Vineyard Owner** : Madonna co-owns Ciccone Vineyard and Winery in Michigan with her father. ← https://www.youtube.com/watch?v=xc85sLj0Cnk
-**Sibling Rivalry with Christopher Chaconis** : Did not get along with her brother Christopher Chaconis, especially after he published a memoir about growing up with her. Things are believed to be okay now. ← https://www.youtube.com/watch?v=5bB7GAUM63Y
-**Signed by Seymour Stein** : Madonna was signed to Sire Records by its founder, Seymour Stein. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
-**Trusted Promoter by Arthur Fogel** : Madonna reportedly trusts Arthur Fogel as her sole promoter in the world. ← https://www.youtube.com/watch?v=hjProJd_JrM
-**Working with Iconic Directors** : Taj Khrichlo dreams of hearing stories from directors who worked with Madonna. ← https://www.youtube.com/watch?v=eqTFinLk3oU
+**Iconic Music Videos** : Madonna's music videos from the 1980s were highly influential, contributing to the fascination with music videos during the MTV/MuchMusic era. Directors working with her, and others, created visually compelling storytelling. "watching videos by like Madonna and Peter Gabriel and like Phil Collins and Michael Jackson and and Errol Smith." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
+**Music Video Influence** : Madonna's music videos from the 1980s MTV and Much Music era were pivotal in shaping the love for music videos for directors like Director X, who admired their storytelling, dancing, and style. The potential for discussing directors' work with Madonna is highlighted as a fascinating topic. "The MTV, much music era watching videos by like Madonna and Peter Gabriel and like Phil Collins and Michael Jackson and Errol Smith." ← https://www.youtube.com/watch?v=IIJySSo276k
+**Pop Dominance in Early 1990s** : Madonna was a prominent figure in the pop music scene that dominated the very beginning of the 1990s, preceding the major cultural shift towards grunge and alternative music. "At the very beginning of the decade, pop music ruled Michael Jackson, Janet Jackson, Maddon, Millie Vanilley, and new kids on the block." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
 

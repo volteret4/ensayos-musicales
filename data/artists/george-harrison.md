@@ -1,12 +1,9 @@
 # artist - George Harrison
 
-## members
-- (from The Beatles)
-
 ## instruments
-- Guitar : A guitar once owned by George Harrison is part of Jim Irsay's extensive music memorabilia collection.
+- Fender Twin Reverb
+- Gibson Les Paul Custom
 
 ## curiosities
-**Austin Powers Doll at Beatles Meetings** : As throat cancer progressed and made speaking difficult, George Harrison would bring an Austin Powers doll to Beatles board meetings. When he found the proceedings disagreeable and lacked the strength to speak, he would pull the doll's cord, making it exclaim, "Why must I be surrounded by fricking idiots?" ← https://www.youtube.com/watch?v=0DFmS6MPbFI
-**Father of Danny Harrison** : George Harrison is the father of musician, composer, and producer Danny Harrison. ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
+**Les Paul Custom on "While My Guitar Gently Weeps"** : George Harrison notably played a Gibson Les Paul Custom during the recording of "While My Guitar Gently Weeps." This demonstrates the versatility of the Les Paul model across different musical contexts and artists. "Now keep in mind that this is the same type of guitar George Harrison plays on while my guitar gently weeps." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
 

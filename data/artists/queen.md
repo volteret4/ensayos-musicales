@@ -1,23 +1,15 @@
 # artist - Queen
 
 ## members
-- Brian May
 - Freddie Mercury
 
-## genres
-- Mainstream Rock
+## albums
+**A Day at the Races (N/A) – Cancelled Press Appearance** : This album was scheduled for release three weeks after December 1st, 1976, and was the follow-up to the highly successful *A Night at the Opera*, which featured "Bohemian Rhapsody." During the pre-release press tour for *A Day at the Races*, the band was booked to appear on the *Today* chat show but had to cancel due to singer Freddie Mercury falling ill with a throat infection, leading to the Sex Pistols taking their slot. "In three weeks, they were scheduled to release an album called A Day at the Races, the Follow Up To a Night at the Opera, a fabulously successful album that contained the worldwide hit Bohemian Rhapsody." ← https://www.youtube.com/watch?v=MTDY6qT11Dc
+**A Night at the Opera (N/A) – Predecessor Album** : This album was a "fabulously successful" release, featuring the worldwide hit "Bohemian Rhapsody." It was the predecessor to *A Day at the Races*. "A Night at the Opera, a fabulously successful album that contained the worldwide hit Bohemian Rhapsody." ← https://www.youtube.com/watch?v=MTDY6qT11Dc
 
 ## songs
-**Bohemian Rhapsody (1975)** : It is estimated that this song is so popular it is played on the radio somewhere in the world at least once an hour. ← https://www.youtube.com/watch?v=qtdetc5-MQo
-**We Will Rock You (1977)** : Swiss researchers unexpectedly found that this specific song, when used as an external stimulus, could stimulate the pancreas to produce more insulin in diabetic patients implanted with designer cells. ← https://www.youtube.com/watch?v=qtdetc5-MQo
+**Bohemian Rhapsody (N/A)** : This song was a worldwide hit featured on Queen's "fabulously successful" album, *A Night at the Opera*. "A Night at the Opera, a fabulously successful album that contained the worldwide hit Bohemian Rhapsody." ← https://www.youtube.com/watch?v=MTDY6qT11Dc
 
 ## curiosities
-**Asteroid Named After Brian May** : An asteroid has been named after him. ← https://www.youtube.com/watch?v=QfiRRtsZoYU
-**Brian May's Chancellorship of Liverpool University** : He is currently the Chancellor of Liverpool University, having taken over the position from Cherie Blair. ← https://www.youtube.com/watch?v=QfiRRtsZoYU
-**Brian May's PhD in Astrophysics** : Brian May is a full-fledged physicist with a doctorate based on his work titled "A Survey of Radio Velocities in the Zodiacal Dust Cloud." ← https://www.youtube.com/watch?v=QfiRRtsZoYU
-**Freddie Mercury and Princess Diana** : Freddie Mercury was a close friend of Princess Diana. One night, he dressed her as a man and took her to a party at a gay club in South London without anyone discovering her identity. ← https://www.youtube.com/watch?v=qtdetc5-MQo
-**Management by John Reid** : Queen was managed by John Reid. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
-**Medical Pancreas Stimulation** : Research on non-drug ways to stimulate the pancreas in people with diabetes found that music, specifically "We Will Rock You" by Queen, could turn on designer cells in implanted capsules to produce more insulin. The mechanism for this is currently unknown. ← https://www.youtube.com/watch?v=qtdetc5-MQo
-**Pat Smear's Early Listening** : Pat Smear listened to Queen growing up, before punk rock was readily available. ← https://www.youtube.com/watch?v=Mh-qg1izM98
-**Taylor Hawkins' Hidden Records** : Taylor Hawkins hid his Queen records from his brother and his brother's friends in Laguna Beach, California, where hard rock was "frowned upon." ← https://www.youtube.com/watch?v=Mh-qg1izM98
+**Cancelled "Today" Show Appearance (1976)** : Queen was scheduled to appear on the popular UK chat show *Today* on December 1st, 1976, as part of their pre-release press tour for *A Day at the Races*. However, singer Freddie Mercury "suddenly took ill" with a throat infection, forcing the band to cancel their live appearance. This cancellation opened the slot for the Sex Pistols, leading to their infamous, career-defining interview. "But singer Freddie Mercury suddenly took ill. It was a throat infection or something. And Queen, the band, had to cancel their appearance." ← https://www.youtube.com/watch?v=MTDY6qT11Dc
 

@@ -1,12 +1,8 @@
 # artist - Bob Dylan
 
-## songs
-**Knockin' On Heaven's Door (1973)** : Sung by Bono at the traditional Māori funeral of Greg Carroll in New Zealand. ← https://www.youtube.com/watch?v=VR5Fncdc2kQ
+## albums
+**Collectible Album (Year Unknown)** : An album by Bob Dylan is mentioned as a valuable and collectible record, appearing in a list of highly sought-after musical artifacts. "Beyond that, we have more Beatles, more Quarryman, some Rolling Stones, Jimmy Hendrix, Michael Jackson demonstration CD, more acetates from Pink Floyd, with drawing Bob Dylan album." ← https://www.youtube.com/watch?v=IIJySSo276k
 
 ## curiosities
-**Covered by The Sisters of Mercy (Early Goth Days)** : Bob Dylan was among the artists whose songs were covered by The Sisters of Mercy in their early days, indicating their influence or the source material they drew from. ← https://www.youtube.com/watch?v=XaLsZFLrMnI
-**Family Connection Belief** : Hugh Dillon was a huge fan, believing Bob Dylan was a relative because they shared the same last name; he inherited this appreciation from his older brothers and sisters. ← https://www.youtube.com/watch?v=y7kmkWJ54ww
-**Metal Sculpting and Welding** : Bob Dylan is involved in sculpting, with metal being one of his preferred mediums, making him a proficient welder. ← https://www.youtube.com/watch?v=xc85sLj0Cnk
-**Pioneers of Album-Oriented Rock** : around 1965, he looked at the album format and began to write longer, more complex songs and collections of songs released in a carefully sequenced order, shifting rock/pop away from singles. ← https://www.youtube.com/watch?v=eqTFinLk3oU
-**Shift to Album-Oriented Artistry (circa 1965)** : Starting around 1965, he began to conceptualize music less as individual songs and more as artistic statements featuring ten, twelve, or more tracks. ← https://www.youtube.com/watch?v=Sc9HApnyBLM
+**Unconfirmed Backstage Conduct – Turning Backs** : An unconfirmed story suggests that when Bob Dylan walked from his dressing room to the stage, everyone present was required to turn their back as he passed by, creating an aura of mystique or privacy. "I can't confirm this, but the story I heard was that when he walked from the dressing room to the stage, everyone had to turn their back as he walked by." ← https://www.youtube.com/watch?v=z2hvUDtBxho
 

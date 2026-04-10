@@ -1,6 +1,6 @@
 # artist - 2 Chainz
 
 ## curiosities
-**Artist with Videos Directed by Director X** : Director X has directed music videos for him (likely a transcription error from "Two Chains"). ← https://www.youtube.com/watch?v=eqTFinLk3oU
-**Music Video Collaborations** : Director X has directed videos for 2 Chainz. ← https://www.youtube.com/watch?v=XaLsZFLrMnI
+**Music Video Directing Work** : Taj Khrichlo has directed music videos for 2 Chainz. "I've directed videos for Alicia Keys, Puff Daddy, Cisco, Destiny's Child, Drake, Justin Bieber, Two Chains, Rosalie, Igeez, Shampo, Beanie Man, Ariana Grande." ← https://www.youtube.com/watch?v=IIJySSo276k
+**Videos Directed by Taj Khrichlo** : 2 Chainz is one of the artists for whom Taj Khrichlo has directed music videos. "I've directed videos for Alicia Keys, Puff Daddy, Cisco, Destiny's Child, Drake, Justin Bieber, Two Chains, Rosalie, Igeez, Shampo, Beanie Man, Ariana Grande, Okay, now you're just bragging. Come on, John Mayer, the list goes on." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 

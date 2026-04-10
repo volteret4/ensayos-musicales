@@ -1,51 +1,51 @@
 # artist - Headstones
 
 ## members
-- Frontini (early)
+- Bernie Brin
+- Chris Ost
 - Hugh Dillon
-- Mark Gibson (early)
-- Randy Kwan (early)
+- Randy Kwan
 - Tim White
 - Trent Carr
 
 ## genres
-- Raw angst
-- Rock and Roll
+- Dark Rock and Roll
 
 ## labels
-- MCA
-
-## venues
-- Gas Work
-- Ilda's Cos (Bloor Street)
-- Sneaky Dee's
-- The Blue Moon Saloon
-- The Quack
-- The Silver Dollar
-- X-Ray & Ultrasound
+- High Five
 
 ## albums
-**People Skills (2019)** : Featured the song "Leave It All Behind." ← https://www.youtube.com/watch?v=y7kmkWJ54ww
-**Picture of Health (1993)** : Debut album released in July 1993. Was a huge hit and went platinum immediately. The band felt green and overwhelmed during recording, questioning some production choices. Songs were developed from extensive live performances in Toronto bars like Sneaky Dee's and The Blue Moon Saloon. ← https://www.youtube.com/watch?v=y7kmkWJ54ww
-**Smile and Wave (1996)** : Third album. Featured the controversial song "Cubically Contained." Alan Cross described it as his favorite Headstones record. ← https://www.youtube.com/watch?v=y7kmkWJ54ww
-**Teeth and Tissue (1995)** : Second album released in March 1995. Suffered from "second album syndrome" due to the band's demanding touring schedule (120-160 shows/year) for "Picture of Health," forcing them to write furiously on the road with incomplete songs. ← https://www.youtube.com/watch?v=y7kmkWJ54ww
+**Little Army (2017)** : Considered one of the band's greatest achievements as songwriters, this album served as the blueprint for "People Skills." It was recorded at Bathhouse in Kingston, at a time when Hugh Dillon was dealing with personal issues, including Gord Lewis's passing, yet it reflected a deep sense of gratitude. "There's the headstones from 2017 and the little army record, which, as we've already discussed, led into the people skills album from 2019." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Love and Fury (2013)** : This was the Headstones' reunion record, inspired by Randy Kwan's encouragement for the band to get back together. It featured songs like "Been This Way For Years" and "Far Away From Here" and helped establish trust among the band members in their renewed collaboration. "The headstones with far away from here from the 2013 reunion album Love and Fury." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Nichols for Your Nightmares** : This album contained the song "Blonde and Blue." "It's blonde and blue." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Oracle for High Fy (2000)** : This album was made around 2000, during which time Hugh Dillon relapsed in his attempts to clean up from addiction. It was the last record the band released before their breakup in 2003. "This is reframed every single failure from the headstones, the Oracle of High Fy album, the last record before the breakup." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**People Skills (2019)** : This album included the song "Caught in a Loop" and its blueprint was developed from the "Little Army" album. It was recorded at Bathhouse in Kingston. "This is the headstones and caught in a loop from their 2019 album People Skills." ← https://www.youtube.com/watch?v=zBd13KtYlAA
 
 ## songs
-**Cemetery (1993)** : From the debut album "Picture of Health." Co-written by Hugh Dillon and Randy Kwan. Described as a "timeless" track and remains in the band's live setlist. ← https://www.youtube.com/watch?v=y7kmkWJ54ww
-**Cubically Contained (1996)** : From the album "Smile and Wave." An undated, explicit version was played on the radio at 5:30 PM by Alan Cross, then a program director, leading to "big trouble" with the Canadian Broadcast Standards Council due to concerns about children. It is considered a timeless song and remains in the band's live setlist. ← https://www.youtube.com/watch?v=y7kmkWJ54ww
-**Leave It All Behind (2019)** : Featured on the album "People Skills." ← https://www.youtube.com/watch?v=y7kmkWJ54ww
-**Smile and Wave (1996)** : Title track and a significant single from the band's third album. ← https://www.youtube.com/watch?v=y7kmkWJ54ww
-**Tweeter and the Monkey Man (1993)** : A single from the platinum debut album "Picture of Health." ← https://www.youtube.com/watch?v=y7kmkWJ54ww
-**Without a Sound (1996)** : From the album "Smile and Wave." ← https://www.youtube.com/watch?v=y7kmkWJ54ww
+**Been This Way For Years** : This song was written during rehearsals for the Randy Kwan benefit concert. Hugh Dillon sought his wife Midori's approval regarding its explicit lyrics before its release, and she found them fitting. "I had to ask my wife, is it all right? If I swear this much in the song. And she said it fits in that one and fair enough." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Blonde and Blue** : This song is mentioned as being from the album "Nichols for your nightmares." "It's blonde and blue." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Caught in a Loop (2019)** : This song, from the album "People Skills," was chosen to introduce Part Two of the program because it thematically linked to the Headstones' struggles and feeling "caught in a loop" in the mid-1990s. "This is the headstones and caught in a loop from their 2019 album People Skills." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Devils on Fire** : Hugh Dillon heard Trent Carr's guitar riff for this song and immediately knew he wanted to be involved in its creation. "right out of the gate, I heard his riff for Devils on Fire and I went, whatever the f*** that is, I won't get any part of it." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Dimes and Penny** : This song features a guitar solo by Trent Carr that Hugh Dillon considers one of his favorites, highlighting Trent's musical talent. "this solo he did on Dimes and Penny, which is one of my favorite solos." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Far Away From Here (2013)** : Featured on the 2013 reunion album "Love and Fury," this song developed from a sound Hugh Dillon heard in the studio. He was immediately drawn to it and had lyrics ready, quickly completing the song. "Let's hear that song far away from here. This is from that reunion record, 2013's Love and Fury." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Neverland** : This song originated from Trent Carr's guitar playing, which Hugh Dillon heard and immediately recognized as the basis for a new song. "I heard his guitar playing for, um, Neverland. And I went, what's that? That's a song." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Reframed Every Single Failure (2000)** : This track is from the "Oracle of High Fy" album, which was the last record released by the Headstones before their initial breakup. "Reframed every single failure from the headstones, the Oracle of High Fy album, the last record before the breakup." ← https://www.youtube.com/watch?v=zBd13KtYlAA
 
 ## curiosities
-**Band Dynamics** : Hugh Dillon describes a unique dynamic where band members have "no respect for each other" as friends, often joking, but when they perform, they transform into "incredible human beings," eliciting immense respect for their musical talent. ← https://www.youtube.com/watch?v=y7kmkWJ54ww
-**Connection to The Tragically Hip** : Hugh Dillon knew Gord Downie and Paul Langlois from high school in Kingston, sharing dramatic arts classes. Downie and Langlois showed significant support, appearing at Headstones' showcases at Ultrasound and Gas Work, and vouching for them to MCA, which was instrumental in the band securing their record deal. ← https://www.youtube.com/watch?v=y7kmkWJ54ww
-**Early Life & Drug Career (pre-1989)** : Singer Hugh Dillon grew up in Kingston, struggling with reading, writing, and math, but drawn to rock and roll and movies. He became involved in selling drugs, including LSD to Gord Downie. His drug career escalated to moving "10 pounds of dope at a time" to Kingston, leading to trouble with the law and "various figures" where "guns were involved" and he "got the shit kicked out of me." ← https://www.youtube.com/watch?v=y7kmkWJ54ww
-**Forced Exile to England (1989)** : After his drug career imploded and facing potential lifelong imprisonment, Dillon's parents bought him a plane ticket to England on the condition he wouldn't return to Kingston for a couple of years. At 19, never having flown or used a subway before, he went to London. ← https://www.youtube.com/watch?v=y7kmkWJ54ww
-**Formation of Sean Penn & The Ten$hry (circa 1986)** : Prior to Headstones, Hugh Dillon, Randy Kwan, Mark Gibson, and Frontini formed a band in Toronto called Sean Penn & The Ten$hry, drinking heavily and playing together. Trent Carr joined later, which Hugh Dillon credits with "changing everything" due to his non-stereotypical guitar style. ← https://www.youtube.com/watch?v=y7kmkWJ54ww
-**Intense Touring Schedule (early 1990s)** : After the success of "Picture of Health," the band toured relentlessly, performing between 120 and 160 shows per year, leading to a loyal fanbase. ← https://www.youtube.com/watch?v=y7kmkWJ54ww
-**London Experience (1989)** : In London, Hugh Dillon busked, lived in a squat, and drank with Lemmy from Motorhead. He vowed to pursue show business instead of crime, finding a natural ability for it. ← https://www.youtube.com/watch?v=y7kmkWJ54ww
-**Signing with MCA** : The band was discovered when Tony Wantamaker from MuchMusic gave their demo tape to Yvonne Mettzell, who ran the X-Ray & Ultrasound club. Mettzell booked them for a showcase, inviting key industry figures like Cam Carpenter (MCA) and Go Bamford, which led to their signing. ← https://www.youtube.com/watch?v=y7kmkWJ54ww
-**Songwriting Approach** : Hugh Dillon emphasizes that the band prioritizes writing songs that "stand up live." He often identifies new musical ideas by listening to band members "subconsciously noodle" during live situations, then isolates those unique notes or riffs to develop them further. ← https://www.youtube.com/watch?v=y7kmkWJ54ww
+**2003 Breakup Due to Addiction** : The band broke up in 2003 at Hugh Dillon's behest because he recognized that the band's atmosphere was enabling his addiction, and he feared for his life. Despite the band being their livelihood, manager Bernie Brin and the other members understood the gravity of the situation. "So the band breaks up when? 2003." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Benefit Concert for Randy Kwan's Son** : The band played a reunion benefit concert at the Sound Academy for Randy Kwan's son, Hunter, attracting 2500 attendees. This gig was the Headstones' first performance after an eight-year hiatus and a way to honor Randy's memory and support his child. "We played at the Sound Academy, which was like, you know, 2500 people. We hadn't played in eight years or whatever." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Challenges of Medical Treatment for Addiction** : During his initial attempts to get clean and sober, Hugh Dillon tried prescribed drugs like Naltrexone and Antabuse. These medications caused bloating and other issues, leading to comments that made him feel he "looked a lot better when he was shooting heroin," which was a humbling and unhealthy experience. "The trick was for me is to get rid of all of the drugs including the medical drugs that the doctors prescribed." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Chris Ost's Production Contributions** : Chris Ost co-produced "Love and Fury" and "Little Army," earning the trust of the band members due to his "ego-less" approach and deep understanding of their musical style, helping them perfect their sound. "By that time we had Chris Ost, he co-producing with us." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Commitment to Future Touring and Recording** : The Headstones are committed to a long future of touring and recording, indicating their ongoing plans and ambition to continue making music. "They plan to be around for a long time, yet, touring and recording." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Early Recklessness with Frankie Venom** : In their youth, Hugh Dillon and Frankie Venom engaged in dangerous stunts like bumper hitching on the back of a moving van, which Hugh likened to playing "Jackass" before the show existed. This period illustrates their early bond and daredevil attitudes. "Frank and I are on the back of a van and he's like, let's see how far you can go." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Experience with Anhedonia** : During his recovery, Hugh Dillon suffered from anhedonia, an inability to experience joy, which compounded the difficulty of his situation alongside his medical treatments and lack of therapy. "So I had a thinkled anodonia. So which means you can't experience joy." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Gord Lewis's Early Support** : Gord Lewis of Teenage Head was a significant fan and supporter of the Headstones, boosting their confidence and believing in their potential. Hugh Dillon recalled a memorable moment sitting in a hotel room with Gord. "Gord Lewis was always such a huge fan that gave us confidence because he was like, you guys can do it." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Hugh Dillon's Recovery Journey** : Hugh Dillon's recovery from addiction was a long and arduous process, supported primarily by his wife Midori, manager Bernie Brin, and bandmates Tim White and Trent Carr, who never gave up on him. He underwent multiple rehab and detox programs, eventually reaching a point of honesty that enabled change. "My wife, my family, my wife is the, Midori is the prime mover and all of it because she never, and like these guys, and this is why I go back to the people behind the scenes." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Hugh's Producing Role and Band Dynamics** : As a lyricist and singer who took on a producing role, Hugh Dillon often struggled to articulate musical problems, relying on Tim White's ability to "disassemble a song" and Trent Carr's natural, "painter-like" talent, despite the frustration of trying to capture specific takes. "I'm a lyricist and a singer. I don't have the same skill set." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Post-Breakup Hardship for Hugh Dillon** : After the Headstones' breakup, Hugh Dillon struggled financially and emotionally, taking jobs like cutting down trees. He felt profound depression and found it difficult to make eye contact with others during this period of adjustment. "I had to go get a job cutting down trees and, you know, watching my hand as I put wood in the wood chipper." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Randy Kwan as Reunion Catalyst** : The Headstones reunited due to the terminal cancer diagnosis of their first bass player, Randy Kwan. Randy, who had previously offered Hugh a place to stay, encouraged Hugh to appreciate the band's legacy and get back together with the other members. "The reunion was this. I had, you know, everyone knew Randy Kwan. Randy was in my typing class." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Support from Hamish White** : Hugh Dillon received crucial support from Hamish White, an addiction recovery counselor on Young Street. White, who had overcome his own struggles, offered non-judgmental and thoughtful guidance that significantly aided Hugh's journey to sobriety. "I had a you know a addiction recovery counseling a dude named Hamish White up on Young Street who just had been through the ringer himself." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Tim White's Post-Breakup Career** : Following the Headstones' breakup, Tim White continued his career in the recording business, leveraging his expertise as a musician. "Tim's been in the recording business since since I didn't write away right away." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Trent Carr's Post-Breakup Creative Path** : After the band's hiatus, Trent Carr focused on his artistic pursuits and began writing music for film and TV, successfully scoring the film "Giant Sub-Africa," which is available on Netflix. He preferred not to play in another band after the Headstones. "I kind of made it work in that world a little bit and then just kind of kept doing that part of it all kept my toe and being a musician but never tried to play in a band after that." ← https://www.youtube.com/watch?v=zBd13KtYlAA
+**Unconventional Therapist in Rehab** : Hugh Dillon once had an effective therapist in rehab who, despite being "a little odd," proved instrumental in his early recovery, helping him realize the need for honesty. This therapist was later arrested in the parking lot of the rehab facility for robbing banks. "The funny thing is this guy was arrested in the parking lot of the rehab for robbing banks." ← https://www.youtube.com/watch?v=zBd13KtYlAA
 

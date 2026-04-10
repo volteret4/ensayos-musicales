@@ -1,9 +1,11 @@
 # artist - Elton John
 
-## albums
-**Live Album from WABC-FM Broadcast (1970) – Bootleg-Driven Release** : Following widespread unauthorized recordings of his November 17, 1970, WABC-FM performance, Elton John’s record company released an official live album based on the same material. ← https://www.youtube.com/watch?v=OrHtPVBjXw4
+## genres
+- Classic Rock
+
+## songs
+**Crocodile Rock (1972)** : Released in 1972, this song contributed to a period of nostalgia for 1950s music, as the aging hippie generation observed the rise of simpler pop. "Elton John singing Crocodile Rock in 1972." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
 
 ## curiosities
-**Management by John Reid** : Elton John was managed by John Reid. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
-**WABC-FM Broadcast Bootleg Explosion (1970)** : A 48-minute live performance broadcast on WABC-FM in New York was recorded by thousands of listeners, demonstrating the power of radio in spreading bootlegs and forcing official responses. ← https://www.youtube.com/watch?v=OrHtPVBjXw4
+**Defining Classic Rock in Early 1990s** : Elton John was recognized as an older act that helped define the category of "classic rock" in the early 1990s, a period when the musical landscape was shifting away from the excesses of hair metal. "Rock was dominated by hair metal bands, which was really starting to get old and played out. It was also dominated by older acts that were defining a new term, classic rock, Rolling Stones, Pink Floyd, Elton John, and so on." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
 

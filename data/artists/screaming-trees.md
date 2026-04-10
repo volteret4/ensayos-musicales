@@ -1,6 +1,8 @@
 # artist - Screaming Trees
 
+## labels
+- Subpop
+
 ## curiosities
-**Management by QPrime** : Screaming Trees were clients of QPrime, the management company founded by Cliff Burnstein and Peter Mensch. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
-**Management by Susan Silver** : The Screaming Trees were managed by Susan Silver in the Seattle area during the early days of the grunge scene. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
+**Subpop Roster** : Screaming Trees was featured on the Subpop label's roster by the middle of 1988, highlighting their presence within the Seattle indie scene. "The roster featured local indie groups like SoundGarden and Screaming Trees and Mud Honey." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
 

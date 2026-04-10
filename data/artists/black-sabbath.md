@@ -1,18 +1,12 @@
 # artist - Black Sabbath
 
 ## members
-- Michael Bolton
-- Ozzy Osbourne
-- Ronnie James Dio
-- Terry Chimes
+- Tony Iommi
 
 ## instruments
-- Drums
+- Gibson Les Paul
 
 ## curiosities
-**Covered by Weezer (pre-2018)** : Black Sabbath's music has been playfully covered by Weezer during their tours. ← https://www.youtube.com/watch?v=yuA9Xor8vfw
-**Fandom of Japan's PM** : Japan's first female Prime Minister, Sen-e Takachi, who is a metalhead and drummer, lists Black Sabbath among the bands she loves and still plays along to at 64. ← https://www.youtube.com/watch?v=0DFmS6MPbFI
-**Homage on Active Rock Radio** : acknowledged and played as an influential classic artist on active rock radio stations. ← https://www.youtube.com/watch?v=sOU54d8mr5k
-**Influence on Dave Grohl** : Dave Grohl learned to play drums and guitar by playing along to their records. ← https://www.youtube.com/watch?v=gsSTJWN6cUo
-**Terry Chimes' Membership** : Terry Chimes played drums for Black Sabbath after his time with The Clash. ← https://www.youtube.com/watch?v=QfiRRtsZoYU
+**Album Art Designed by Storm Thorgerson** : Black Sabbath's album covers were among the many iconic designs created by the renowned Storm Thorgerson and his partner Aubrey Powell. Their work contributed significantly to the visual identity of various rock legends. "That includes Pink Floyd, Black Sabbath, Led Zeppelin..." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
+**Saluted on Teal Album** : Black Sabbath was among the artists whose songs were saluted (covered) on Weezer's Teal Album. "Black Sabbath." ← https://www.youtube.com/watch?v=LYRPxtP61JM
 

@@ -1,35 +1,15 @@
 # artist - Twenty One Pilots
 
-## members
-- Chris Salih (Original Drummer)
-- Josh Dun
-- Nick Thomas (Original Bassist)
-- Tyler Joseph
-
 ## genres
 - Alternative Rock
-- Indie
-
-## labels
-- Fueled by Ramen
-- Tinderbox
+- Pop Rock
 
 ## albums
-**21 Pilots (2009) – Self-Titled Debut Album** : A home-recorded indie release that sold 115,000 copies despite its DIY origins. ← https://www.youtube.com/watch?v=PmwfC4HR3_I
-**Blurryface (2015) – Breakthrough Album** : A massive success selling 2 million copies, centered on themes of insecurity and mental health. ← https://www.youtube.com/watch?v=PmwfC4HR3_I
-**Regional at Best (2011) – Discontinued Second Album** : Primarily a Tyler Joseph solo project, this album was wiped from existence as part of their major label deal and is now a rare collector's item. ← https://www.youtube.com/watch?v=PmwfC4HR3_I
-**Trench (2018) – Fifth Studio Album** : A concept album that expanded the band's mythology into the fictional city of Dema. ← https://www.youtube.com/watch?v=PmwfC4HR3_I
-**Vessel (2013) – Third Studio Album** : Their Fueled by Ramen debut, which launched them into the international festival circuit. ← https://www.youtube.com/watch?v=PmwfC4HR3_I
+**Blurryface (2016)** : This album contributed significantly to Twenty One Pilots becoming one of the top streaming artists in 2016, the year streaming generated more revenue for the American recorded music business than all other forms of music distribution combined. "If we go back to that year, we'll see that one of the top streaming artists of 2016 was these guys, thanks to their blurry face album." ← https://www.youtube.com/watch?v=ZzIqIydZTlA
 
 ## songs
-**Car Radio (2013)** : A hit single written after Tyler Joseph’s car was burglarized, leaving him in silence without his music. ← https://www.youtube.com/watch?v=PmwfC4HR3_I
-**Chlorine (2018)** : A track from _Trench_ whose title was teased through chemical atomic numbers on a hidden website. ← https://www.youtube.com/watch?v=PmwfC4HR3_I
-**Stressed Out (2015)** : A global breakthrough single that defined the _Blurryface_ era's success. ← https://www.youtube.com/watch?v=PmwfC4HR3_I
+**Stressed Out (2016)** : This song was highlighted as one of the tracks that contributed to streaming's takeover as the biggest revenue generator for the recorded music industry in 2016, marking a significant shift from physical media. "21 pilots and stressed out one of the songs that contributed to streaming taking over physical media as the biggest revenue generator for the recorded music industry." ← https://www.youtube.com/watch?v=ZzIqIydZTlA
 
 ## curiosities
-**Lore and Mythology** : The band created an immersive world involving "Bishops" and the "Banditos" to bring mystery back to music in the internet age. ← https://www.youtube.com/watch?v=PmwfC4HR3_I
-**Metadata Challenges – Hyphenation** : Their name should not be split with a hyphen (e.g., "Twenty-One Pilots"), as this creates a metadata issue. ← https://www.youtube.com/watch?v=Sc9HApnyBLM
-**Metadata Challenges – Song Title Spelling** : A specific song by the band is mentioned as having a title spelled as one word, which compounds metadata issues. ← https://www.youtube.com/watch?v=Sc9HApnyBLM
-**Origin of Band Name** : Derived from Arthur Miller's play _All My Sons_, concerning 21 pilots who died due to faulty parts. ← https://www.youtube.com/watch?v=PmwfC4HR3_I
-**The Skeleton Clique** : The band's dedicated fanbase, known for their inclusive culture and calling each other "frens". ← https://www.youtube.com/watch?v=PmwfC4HR3_I
+**Pop-Leaning Rock Sound** : Twenty One Pilots are mentioned as an example of an artist whose sound leaned more towards the pop end of rock, a characteristic shared by other successful rock acts in the streaming-dominated 2010s. "But these artists and songs all had one thing in mind. Their sounds leaned more towards the pop end of rock, like 21 Pilots." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
 

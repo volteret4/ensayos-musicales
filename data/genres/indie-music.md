@@ -1,0 +1,6 @@
+# genre - Indie Music
+
+## curiosities
+**Evolution into Mainstream Influence** : By the early 1990s, indie and alternative music began to be taken very seriously. As the number of major labels decreased, the power and importance of independent labels gained more attention, shifting the dynamic of the music industry. "For the early 90s, people had begun to take Indie and alternative music very, very seriously. And as the number of major label shrunk, more attention was paid to the power and importance of independent labels." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
+**Historical Perception and Growth** : Not long ago, indie music was widely ignored, with the belief that any good music would be picked up by a major label. It was often seen as the domain of "weirdos and outliers," not good enough for broad enjoyment. However, this allowed it to grow in its "Petri dish" without capitalistic interference, to the point where it could no longer be ignored by the early 1990s. "There was a time, not that long ago, when indie music was ignored by most people. The thinking was that if the music was any good, then it would have been picked up and released by a major label, right?" ← https://www.youtube.com/watch?v=sCtQqVBtCaI
+

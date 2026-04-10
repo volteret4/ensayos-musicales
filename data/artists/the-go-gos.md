@@ -1,8 +1,8 @@
 # artist - The Go-Go's
 
-## members
-- Belinda Carlisle
+## genres
+- Pop
 
 ## curiosities
-**InXS Opening Act (Mid-1980s)** : InXS frequently opened for bands like The Go-Go's during their constant touring. ← https://www.youtube.com/watch?v=23OgreyK66o
+**Part of LA Alternative Scene** : The Go-Go's were part of the Los Angeles alternative scene when they first started, before evolving into a pure pop band. "Just like the gogos, they were part of the LA alternative scene when they first started out before transitioning into a pure pop band." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 

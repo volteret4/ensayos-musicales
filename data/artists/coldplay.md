@@ -1,25 +1,31 @@
 # artist - Coldplay
 
 ## members
-- Chris Martin
 - Guy Berryman
 
 ## genres
-- Alt Rock
+- Pop Rock
+- Rock
+
+## instruments
+- Fender Precision Bass
 
 ## albums
-**Viva La Vida or Death and All His Friends (2008)** : The album containing the title track "Viva La Vida". ← https://www.youtube.com/watch?v=rfObVld9rIE
-
-## songs
-**Viva La Vida (2008)** : This song was the subject of a plagiarism lawsuit by guitarist Joe Satriani, who alleged it was taken from his track "If I Could Fly". The dispute ended in a sealed out-of-court settlement; Coldplay denied any wrongdoing, and the details remain confidential. ← https://www.youtube.com/watch?v=rfObVld9rIE
+**A Rush of Blood to the Head (Year Unspecified)** : This previous album was followed up by `X&Y`, with the band spending most of 2004 working on its successor. "Working on the follow-up to a rush of blood to the head." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
+**Rockabye Baby Rendition (Year Unspecified)** : Coldplay's songs have been adapted into lullaby versions for infants as part of the "Rockabye Baby" series of CDs, which "baby-fies" rock songs for children. ← https://www.youtube.com/watch?v=BHN6db7m3DM
+**Viva La Vida (2008)** : Released in 2008, this album sold 2.1 million copies and contributed to Coldplay's reputation as potentially the biggest band of that decade. While its record sales were not as high as pre-Napster era albums, the band compensated through massive concert ticket sales. "And when their 2008 album Viva La Vita came out, it all started to come true." ← https://www.youtube.com/watch?v=-CT7yYXonIk
+**X&Y (2005) – Third Album Success** : Released on June 6, 2005, this album was a "hard record to make" after extensive touring. Despite the challenge, it "hit the cycle" and sold "somewhere around 14 million copies," becoming a major success in the mid-2000s rock resurgence. "They showed up with X and Y on June 6th of 2005. Now, third records are hard, especially for a band that had been working in touring as much as cold play. And it was a hard record to make, but in the end, they hit the cycle. And they sold somewhere around 14 million copies." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
 
 ## curiosities
-**Artist with Game-Changing Music Videos** : Director X and Taj Khrichlo directed influential music videos for them. ← https://www.youtube.com/watch?v=eqTFinLk3oU
-**Chris Martin's Ancestor and Daylight Savings Time** : Chris Martin's great-great-grandfather is credited with developing the concept of daylight savings time before World War I. ← https://www.youtube.com/watch?v=QfiRRtsZoYU
-**Covered by Weezer (pre-2018)** : Coldplay's music has been playfully covered by Weezer during their tours. ← https://www.youtube.com/watch?v=yuA9Xor8vfw
-**Impact of Music Piracy** : The band was hit hard by music piracy. ← https://www.youtube.com/watch?v=nX8uAFDzDYM
-**Music Video Collaborations** : Coldplay is one of the artists for whom Director X has directed "game-changing videos." ← https://www.youtube.com/watch?v=XaLsZFLrMnI
-**Post-Britpop Emergence (Late 1990s)** : The band came along "too late for Britpop," but their sound garnered "wide appeal" and they "exploded into another massive British export." ← https://www.youtube.com/watch?v=vzyMSSlD7Yg
-**UK Chart Success (2010s)** : did well on UK charts in the 2010s, considered one of the "monsters" of British alternative rock. ← https://www.youtube.com/watch?v=sOU54d8mr5k
-**Wembley Stadium Beer Sales Comparison** : When Coldplay played Wembley Stadium, their fans consumed approximately 120,000 pints of beer per night, significantly less than Oasis's record-setting 250,000 pints over three nights at the same venue. ← https://www.youtube.com/watch?v=0DFmS6MPbFI
+**2004 Hiatus for Album Production** : The band spent most of 2004 "out of sight working on the follow-up to a rush of blood to the head," indicating a focused effort on their next album. "After spending most of 2004 out of sight working on the follow-up to a rush of blood to the head..." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
+**Backstage Rider – Extensive Towel Requirement** : Coldplay's rider demands a substantial quantity of towels: at least 60 bath-sized towels, which translates to 15 towels per band member, highlighting a significant need for hygiene or other backstage uses. "At least 60 bath-sized towels, so 15 towels, remember? At least no American beer ever." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**Backstage Rider – No American Beer & Past Sock Request** : The band explicitly stipulates "no American beer ever" in their rider. Historically, Coldplay also used to request socks, a common demand for bands starting out on tour. "At least no American beer ever." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**Challenges of Third Albums** : The `X&Y` album was a "hard record to make," reflecting the common difficulty bands face with their third releases, especially after extensive touring. "Third records are hard, especially for a band that had been working in touring as much as cold play." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
+**Collaborated with Anton Corbijn** : Photographer Anton Corbijn, known for designing The Killers' "Sam's Town" cover, is a favored collaborator of Coldplay, contributing to their album art and promotional imagery. "The photographer was Anton Corbin, the Dutch guy who was a favorite of you two, Depeche Mode, Coldplay..." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
+**Featured in Game-Changing Music Videos** : Coldplay is an artist for whom Director X has created "game-changing videos," contributing to their impactful visual content. "These guys are responsible for game-changing videos from artists like Drake and Coldplay and Kendrick Lamar and so many more." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
+**Game-Changing Music Videos** : Director X is credited with creating "game-changing videos" for Coldplay. "These guys are responsible for game-changing videos from artists like Drake and Coldplay and Kendrick Lamar and so many more." ← https://www.youtube.com/watch?v=IIJySSo276k
+**Leading Eco-Friendly Music Practices** : Coldplay is recognized as a major act that has done more than most to adopt eco-friendly practices in the music industry. Their concerts are powered by renewable energy, including solar panels, fan-powered bikes that generate electricity, and kinetic floors that harness crowd movement. They collaborate with BMW to develop rechargeable battery systems, plant a tree for every ticket sold, donate to environmental causes, and prioritize electric trains or buses for travel between gigs. Their merchandise uses minimal plastic, single-use plastics are phased out at shows, and their staging is designed for energy efficiency. "They have probably done more in this area than any other major act. Concerts are powered through renewable energy, not just solar panels, but they have bikes that fans can ride to generate power." ← https://www.youtube.com/watch?v=ZzIqIydZTlA
+**Live Performance Success** : By 2008, Coldplay was considered one of the "big boys" in the alt-rock universe, along with bands like Foo Fighters, Weezer, Pearl Jam, and U2. They demonstrated their ability to draw massive audiences, selling millions of concert tickets despite comparatively lower record sales in the post-Napster era. "While the big boys, like the Foo Fighters and Coldplay and Weezer and Pearl Jam and you too, continued to do their thing for the latter half of the Zero-Zero's, a couple of trends and movements emerged in the Alt Rock universe." ← https://www.youtube.com/watch?v=-CT7yYXonIk
+**Social Media-Friendly Concerts** : Coldplay is cited as an example of a band that embraces the ubiquitous presence of cell phones at concerts by designing their live shows to be "social media friendly." This approach aims to make gigs "Instagramable and TikTok Ready," encouraging fans to capture and share interesting visuals, aligning with the strategy of "can't beat them, join them." "You can put cold play in this category." ← https://www.youtube.com/watch?v=xid8CZf4oYo
+**Streaming Success with Pop-Leaning Rock Sound** : Coldplay achieved considerable streaming success during the 2010s, with their songs being streamed hundreds of millions, and in some instances, billions of times. Their musical style was noted for leaning more towards the pop end of rock, contributing to their widespread appeal in the streaming era. "There was the luminaires, Lorde, Imagine Dragons, Coldplay, Mumford and Sons. They all had songs that streamed hundreds of millions, and in some cases billions of times through the decade." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
 

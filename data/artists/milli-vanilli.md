@@ -1,10 +1,8 @@
 # artist - Milli Vanilli
 
-## members
-- Fab Morvan
-- Rob Pilatus
+## genres
+- Pop
 
 ## curiosities
-**Fab Morvan's Second Grammy Nomination (2025)** : Thirty-five years after having his Grammy revoked for lip-syncing, Fab Morvan was nominated for another Grammy in 2025 for Best Audio Book for his narration of "You Know What's True, the real story of Milli Vanilli." ← https://www.youtube.com/watch?v=0DFmS6MPbFI
-**Grammy Award Revocation (1990)** : Fab Morvan and Rob Pilatus were forced to return their Grammy Award in 1990 after it was discovered they had lip-synced to other singers' voices on all their records and live performances. ← https://www.youtube.com/watch?v=0DFmS6MPbFI
+**Pop Dominance in Early 1990s** : Milli Vanilli contributed to the pop music sound that ruled at the very beginning of the 1990s, before a series of events and the rise of Generation X ushered in the era of grunge and alternative music. "At the very beginning of the decade, pop music ruled Michael Jackson, Janet Jackson, Maddon, Millie Vanilley, and new kids on the block." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
 

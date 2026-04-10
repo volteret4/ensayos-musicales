@@ -1,9 +1,5 @@
 # artist - Dave Navarro
 
-## instruments
-- Guitar
-
 ## curiosities
-**Goth Fashion and Home Decor (N/A)** : Known for how he dresses, with a notable Goth influence, including having a coffin in the front room of his house. ← https://www.youtube.com/watch?v=RvzvcACkYqk
-**Gothic Aesthetic** : Dresses in a manner that suggests Goth leanings and reportedly has a coffin in the front room of his house. ← https://www.youtube.com/watch?v=evlGhfUe6QQ
+**Red Hot Chili Peppers Guitarist (1995)** : He was the guitarist for the Red Hot Chili Peppers on their 1995 album, `One Hot Minute`, which was considered inferior to the band's previous work. "Dave Navarro, X of Jane's addiction, of course, was considered to be inferior to what they had accomplished with John Fruciante..." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
 

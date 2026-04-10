@@ -1,6 +1,5 @@
 # artist - Neil Young
 
-## curiosities
-**"Robot Ride" Reference** : Mentioned alongside other great Canadian bands, specifically referenced with "your Robot Ride." ← https://www.youtube.com/watch?v=y7kmkWJ54ww
-**Model Train Enthusiast** : Neil Young is passionate about model trains. ← https://www.youtube.com/watch?v=xc85sLj0Cnk
+## songs
+**Only Love Can Break Your Heart** : This song was included in a Spotify playlist created by Queen Mary University in London, which listed 700 songs most likely to induce chills or goosebumps in people. The research indicated that sadder, slower, less intense, and more instrumental songs generally proved most effective in eliciting this physical response. "This playlist included Only Love Can Break Your Heart by Neil Young." ← https://www.youtube.com/watch?v=mTbagQE7akQ
 

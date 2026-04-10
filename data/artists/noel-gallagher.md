@@ -1,5 +1,8 @@
 # artist - Noel Gallagher
 
+## instruments
+- Gibson ES-335 series
+
 ## curiosities
-**Driving Suspension Without a License (2023)** : In 2023, Noel Gallagher, who has never learned to drive and does not possess a driver's license, was suspended from driving for six months and fined £2,000 for unpaid speeding tickets, accumulating 18 penalty points. This occurred because he is the registered owner of the Range Rover, and when his chauffeur was caught speeding, Noel failed to identify the driver in court summonses, making him legally responsible by default. ← https://www.youtube.com/watch?v=qtdetc5-MQo
+**Teenage Milk Truck Theft** : As a teenager, Noel Gallagher and a friend stole a milk truck after locking the driver in a public bathroom. They eventually gave up on the endeavor upon realizing the impracticality of having 20,000 quarts of milk. "When Noel Gallagher was a teenager, he and his mate stole a milk truck after locking the driver into public bathroom. They gave up when they realized that there was really nothing they could do with 20,000 quarts of milk." ← https://www.youtube.com/watch?v=aSk1XQHNkd8
 

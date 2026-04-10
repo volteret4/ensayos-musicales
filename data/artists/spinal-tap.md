@@ -1,5 +1,5 @@
 # artist - Spinal Tap
 
-## curiosities
-**2025 Reunion and 11-Pack Water Merch** : The fictional band Spinal Tap returned in 2025, launching new merchandise, including a line of Liquid Death canned water. In homage to their iconic "goes to 11" concept, these cans were sold in special 11-packs. ← https://www.youtube.com/watch?v=0DFmS6MPbFI
+## songs
+**Bitch School (Year Unknown)** : The single for "Bitch School" features Mariah O'Brien on its front cover, depicted as being led around on a chain. "If you go back to their single bitch school, that's her on the front cover being led around on a chain." ← https://www.youtube.com/watch?v=sn5TWBFd0XM
 

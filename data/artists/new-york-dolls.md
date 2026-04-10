@@ -1,8 +1,5 @@
 # artist - New York Dolls
 
 ## curiosities
-**Early Application of "New Wave" Term (Early 1970s)** : Referred to as "New Wave" or "a New Wave in rock" by some writers in the early 1970s, due to their rejection of traditional blues-based rock and roll norms. ← https://www.youtube.com/watch?v=9CNNsqXiL6U
-**Managed by Malcolm McLaren** : Was managed by Malcolm McLaren at one point. ← https://www.youtube.com/watch?v=9CNNsqXiL6U
-**Management Attempt by Malcolm McLaren (1973)** : After attending a New York fashion fair in 1973, Malcolm McLaren developed a deep interest in the New York Dolls and decided to try band management with them. This endeavor proved to be a "disaster," and the band soon broke up. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
-**Morrissey Autographing** : Morrissey reportedly signed New York Dolls' records and sold them at his own gigs. ← https://www.youtube.com/watch?v=qtdetc5-MQo
+**Early Performances at Mercer Art Center (Early 1970s)** : The New York Dolls, considered one of the "most important of all the pre-punk bands," played some of their very first gigs at the Mercer Art Center in the early 1970s. This venue was a crucial hub for New York's "outrageous weird stuff" before its collapse in 1973. "The New York Dolls, one of the most important of all the pre-punk bands, along with the Ramones, were known to play some of their very first gigs at the Mercer Art Center." ← https://www.youtube.com/watch?v=MTDY6qT11Dc
 

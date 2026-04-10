@@ -1,14 +1,11 @@
 # artist - Talk Show
 
 ## members
-- David Coots
+- David Coutts
 - Dean DeLeo
 - Eric Kretz
 - Robert DeLeo
 
-## albums
-**Talk Show (Unknown Year) – Debut Album** : Released by the band formed by the other three members of Stone Temple Pilots (Robert DeLeo, Dean DeLeo, Eric Kretz) with singer David Coots, while Scott Weiland was making his solo album *12 Bar Blues*. It sold approximately 60,000 copies and received poor reviews. ← https://www.youtube.com/watch?v=TDwagoyMvck
-
 ## curiosities
-**Formation During Scott Weiland's Solo Period (1998)** : The band was formed by the remaining three members of Stone Temple Pilots (Robert, Dean, Eric) during Scott Weiland's period of working on his solo album, *12 Bar Blues*. ← https://www.youtube.com/watch?v=TDwagoyMvck
+**STP Hiatus Project** : During a hiatus of Stone Temple Pilots in 1998, which was intended to help Scott Weiland with his issues, the other three members (Dean DeLeo, Robert DeLeo, and Eric Kretz) formed a new project called Talk Show with singer David Coutts. This project "did not work out very well," leading to the original STP lineup reuniting. "At that point, the other three quarters of STP formed a new project called Talk Show with the singer named David Coots, which did not work out very well and STP was tuned back together in its original form." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
 

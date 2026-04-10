@@ -1,58 +1,49 @@
 # artist - Stone Temple Pilots
 
 ## members
+- Chester Bennington
+- David Coutts
+- DeLeo brothers
 - Dean DeLeo
 - Eric Kretz
+- Jeff Gutt
+- Mary Forsberg
 - Robert DeLeo
 - Scott Weiland
 
 ## genres
-- Alt Rock
-- Alt-Rock
-- Grunge
-- Hard Rock
-- Straight Ahead Rock
+- Nu Metal
 
 ## labels
-- Major label
-
-## venues
-- Lollapalooza (1992)
-- Molson Park
-- Vyper Room
+- Filter
+- Velvet Revolver
 
 ## albums
-**Core (1993) – Debut Record** : The band's debut record. Its release was followed by a tour during which lead singer Scott Weiland became a heroin addict while the band was selling millions of records. Sold about four times as much as *Tiny Music Songs from the Vatican Gift Shop*. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Number 4 (1999) – Fourth Album** : The band's fourth album, with Brendan O'Brien as producer, on which they started working in February 1999 after Scott Weiland's return. Released on October 26, 1999. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Purple (1994) – Second Album** : Recorded in Atlanta during a break in the band's touring schedule, completed quickly in four weeks partly due to Scott Weiland's access to a local drug dealer. Released on June 7, 1994, it was noted for being less grunge and more "straight ahead alt rock" compared to *Core*. It debuted at #1 on US charts, #1 in Australia, #2 in Canada, and #10 in the UK. Sold about three times as much as *Tiny Music Songs from the Vatican Gift Shop*. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Tiny Music Songs from the Vatican Gift Shop (1996) – Third Album** : Recorded with basics on the West Coast (at actor Jimmy Stewart's mansion in Santa Barbara) and finished in Atlanta with producer Brendan O'Brien. Scott Weiland consciously attempted to channel David Bowie in melodies and lyrics. Released on March 26, 1996, it was a big radio hit but sold less in stores, about two million copies, a third of *Purple*'s sales and a quarter of *Core*'s. ← https://www.youtube.com/watch?v=TDwagoyMvck
-
-## songs
-**Big Empty (1994)** : A hit song that preceded the *Purple* album, originally given to the producers of *The Crow* movie soundtrack (released March 1994) and later included on *Purple*. Its style was consistent with songs from *Core*. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Down (1999)** : The very first song the band tackled when re-entering the studio with producer Brendan O'Brien in February 1999 for their fourth album, *Number 4*. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Plush (1993)** : From the band's debut album *Core*. Reportedly a song about death, inspired by a newspaper story of a girl found dead in San Diego. It won a Grammy for Best Hard Rock Performance and remains a staple on radio station playlists worldwide. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Sour Girl (1999)** : A single from the fourth album, *Number 4*, written about Scott Weiland's ex-wife, Janina (though their divorce was not finalized at the time). ← https://www.youtube.com/watch?v=TDwagoyMvck
+**Stone Temple Pilots (2018) – Self-Titled Album** : This self-titled album was released on March 16, 2018, featuring Jeff Gutt as the band's new lead singer. This marked a new chapter for the band, showcasing their first single with Gutt. "And on March 16th, 2018, Stone Temple Pod's version, what is this? Three, four? Release date, self-titled album." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
 
 ## curiosities
-**Album Chart Rebound (1997)** : Due to the successful six-week tour, *Tiny Music Songs from the Vatican Gift Shop* jumped 78 spots on the album charts in one month. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Cancelled Tiny Music Tour (1996-1997)** : The band canceled a significant portion of their planned tour to support *Tiny Music Songs from the Vatican Gift Shop* through late 1996 and into 1997 due to Scott Weiland's drug dependency, stating "Our singer is a junkie, and we can't go on the road with him until he's well." ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Continuing Popularity in 21st Century** : remains extremely popular with fans despite ceasing to exist, making it harder for new artists to break through. ← https://www.youtube.com/watch?v=eqTFinLk3oU
-**Heroin Addiction During Early Success (1993)** : While selling millions of records and touring following their debut album *Core*, the band discovered their lead singer, Scott Weiland, had become a heroin addict. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Las Vegas Show as Scott Weiland's "Last Night of Freedom" (August 12, 1999)** : The band performed a show in Las Vegas, which Scott Weiland referred to as his "last night of freedom" before he had to turn himself in the next day due to court conditions for leaving the state. The band described his performance as "insanely great." ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Lollapalooza Festival Performance (1992)** : Stone Temple Pilots performed on the second stage at selected dates of the 1992 Lollapalooza Festival. ← https://www.youtube.com/watch?v=qC0Ee4-dpnI
-**Lollapalooza Performance (1992)** : Stone Temple Pilots performed at various stops on the second stage of the Lollapalooza tour in 1992. ← https://www.youtube.com/watch?v=7JP2tjJibTQ
-**Manager's Statement on Scott Weiland's Relapse (January 6, 1997)** : Manager Steve Stewart issued a statement confirming Scott Weiland was "having problems again" and receiving care, but stressed the band had not broken up and no one had been fired. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**New York City Gig Cancellation (June 11, 1999)** : A scheduled gig in New York City was canceled due to Scott Weiland's probation issues. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Official Statement on Scott Weiland's Drug Dependency (1996)** : The band issued a rare public statement explicitly stating that Scott Weiland was unable to perform or rehearse due to drug dependency, not typical issues like exhaustion. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Other Members Form Talk Show (1998)** : While Scott Weiland was working on his solo album, the other three members (Robert DeLeo, Dean DeLeo, Eric Kretz) formed a side project called Talk Show with singer David Coots, releasing an album that did not perform well. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Plans for Comeback Activities (March 2000)** : Plans were in place for more showcase gigs, a tour, and even a pay-per-view event, indicating a strong positive outlook for the band's future. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Reunion Press Conference (October 1, 1996)** : In the same place they had previously announced Weiland's departure, the band declared they were "fit and ready to rock," with Scott Weiland expressing his renewed commitment and feeling like a "young kid." ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Reunion for Fourth Album (February 1999)** : Dean DeLeo initiated a call to Scott Weiland, leading to their reunion and entry into the studio with producer Brendan O'Brien to work on their fourth album, *Number 4*. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Rumored Lollapalooza Headliners (March 1999)** : There were rumors that the band would headline Lollapalooza if the festival were to be reactivated. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Rumors of Permanent Split (May 25, 1997)** : After a show in Toronto, rumors circulated that the band was "finished for good" due to Scott Weiland's ongoing issues. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Scott Weiland's Temporary Departure (1996)** : Weiland was effectively "out" of the band, especially after the suggestion that he pay millions in restitution for the canceled tour dates. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Six-Week Comeback Tour (November 4 - December 14, 1996)** : Embarked on a six-week road trip starting in Los Angeles, during which Scott Weiland was accompanied by a guardian, had a nightly curfew, and no international borders were crossed to simplify customs. The tour was successful, with Weiland performing well. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Surprise Gig at Vyper Room (March 16, 1999)** : Performed a surprise gig in Los Angeles, signaling their return to live performances. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**Unexpected Tour Cancellations (Late 1996 - Early 1997)** : Following a successful six-week tour, a New Year's show in Anchorage, Alaska, and two January shows in Hawaii were canceled without explanation, impacting over 30,000 fans. ← https://www.youtube.com/watch?v=TDwagoyMvck
-**VH1 Special Taping (March 8, 2000)** : All four members traveled to New York to tape a special for the VH1 video channel. ← https://www.youtube.com/watch?v=TDwagoyMvck
+**Auditions for New Singer (2016-2017)** : Despite Chester Bennington's suicide in 2017, Stone Temple Pilots remained determined to continue. They held a very long series of auditions, which began in February 2016 and concluded on November 14, 2017. "They ran from February 2016 and didn't end until November 14th, 2017." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
+**Backstage Rider – Strict No Drugs, No Alcohol Policy** : Due to Scott Weiland's personal struggles, the band's rider enforced a strict "no drugs, no alcohol" policy backstage. The only exception explicitly allowed was one six-pack of Amstel Light beer. "at no time will alcoholic beverages be tolerated backstage? Except one six pack of Amstel Light." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**Backstage Rider – Vegetarian and Vegan Meals** : The classic Stone Temple Pilots lineup required two vegetarian and two vegan meals to be provided backstage. "They needed two vegetarian and two vegan meals." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**Chester Bennington Departs (2015)** : Chester Bennington amicably left Stone Temple Pilots on November 9, 2015, to return to Linkin Park. The initial plan was for him to rejoin STP after completing Linkin Park's next project. "Chester left the group amicably on November 9th, 2015 to go back to Lincoln Park." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
+**Chester Bennington Joins (2013)** : In May 2013, after firing Scott Weiland, the band announced that Chester Bennington of Linkin Park would join as a full-time member. This arrangement lasted about 18 months, during which they toured extensively and released one 5-track EP. "In May of that year, they announced that Chester Bennington of Lincoln Park was the new guy and as a full-time member too." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
+**Chester Bennington's Vocalist Role** : Chester Bennington was "drafted" to sing for Stone Temple Pilots for a couple of years, indicating a temporary but significant role in the band. "He was drafted into sing for Stone Tip of Pilots for a couple of years." ← https://www.youtube.com/watch?v=cUqdY_T7luM
+**DeLeo Brothers' New Project (Post-STP)** : The DeLeo brothers formed a new band called Army of Anyone with Richard Patrick from Filter, but "nothing much happened" with it. "The Delayos formed a new band called Army of Anyone with Richard Patrick a Filter, but nothing much happened." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Gradual Dissolution (September 1, 2003)** : The band's initial breakup was gradual, without a formal announcement, as they "just quietly evaporated." "The best I can tell, STP was done by about September 1st 2003." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Hiatus and Talk Show Project (1998)** : In 1998, the band went on a hiatus aimed at helping Scott Weiland get clean. During this break, the other three members formed a new project called Talk Show with singer David Coutts, which ultimately "did not work out very well," leading to STP's reunion in its original form. "At that point, the other three quarters of STP formed a new project called Talk Show with the singer named David Coots, which did not work out very well and STP was tuned back together in its original form." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
+**Initial Breakup (2002)** : Following more turbulent years, Stone Temple Pilots broke up in 2002. "There are more tumultuous years followed and then the band broke up in 2002." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
+**Jeff Gutt Joins (2017)** : Jeff Gutt, a former member of the nu metal band Dry Cell and a former contestant who finished second on *The X Factor* in 2013 (after two seasons), was announced as the new frontman on November 14, 2017. He became the band's fourth lead singer. "The new guy was Jeff Goot, a former member of a new metal band called Dry Cell. And get this, a former contestant on the TV talent show X Factor." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
+**Lawsuit Over Contract Fulfillment** : The band faced a lawsuit from their record company alleging they hadn't fulfilled their original contract regarding the number of albums they were supposed to release. "There was a lawsuit from their record company saying that STP never really fulfilled their original contract in terms of the number of albums that they were supposed to make." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Mary Forsberg's Reunion Catalyst (2007)** : Scott Weiland's estranged wife, Mary Forsberg, initiated a potential reunion by calling the DeLeo brothers to invite them to play a private party. "The story is that Mary Forsberg, who by the way is now Wyland's estranged wife, she called the Delayo brothers and she said, hey, you know, we're having this private party, you want to come over and play?" ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Musical Adoration** : Chester Bennington held a deep admiration for Stone Temple Pilots, describing that he "adored" the band. "He adored Stone Temple Pilots." ← https://www.youtube.com/watch?v=cUqdY_T7luM
+**Original Lineup and Scott Weiland's Issues** : The band, originally formed in San Diego as Muddy Joe Young, consisted of brothers Dean and Robert DeLeo, drummer Eric Kretz, and singer Scott Weiland. This lineup remained intact until 1998, despite Weiland's struggles with drug and alcohol problems, criminal convictions, and periods in jail and rehab. "Despite Wyland's rug problems and his alcohol issues and his various criminal convictions and assorted time in jail and rehab, this lineup stuck together until 1998." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
+**Promoter Offers for Reunion (2007)** : Around the same time, promoters floated offers for the band to reform for a series of festivals, offering "decent coin," which led to the belief that a reunion was a "done deal" though nothing immediately materialized. "Around the same time some offers had been floated from promoters, offering decent coin if the band would reform for a series of some refesibles." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Reformation Date (April 15, 2008)** : After extensive investigation, this date is cited as the best estimate for when Stone Temple Pilots reformed. "Well, after all kinds of digging, the best date I can come up with is about April 15th, 2008." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Scott Weiland Fired (2013)** : After another reunion that lasted until 2013, Scott Weiland, still out of control due to his issues, was fired from Stone Temple Pilots on February 27, 2013. The band retained the rights to their name, intending to continue with a more reliable singer. "Wyland was still out of control. He was fired on February 27th of 2013." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
+**Scott Weiland Quits Velvet Revolver (March 21, 2008)** : Weiland surprised his Velvet Revolver bandmates by announcing mid-show that this would be his last tour with them, freeing him up for a potential STP reunion. "On March 21st, 2008, Wyland announced in the middle of a Velvet Revolver show that this would be his last tour with the band." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Scott Weiland's Death (2015)** : After being fired from Stone Temple Pilots, Scott Weiland's drug abuse worsened, leading to his death on December 3, 2015, in the back of a tour bus. "Wyland spiraled into oblivion before his drug abuse cut up with him and he died in the back of a tour bus on December 3rd, 2015." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
+**Scott Weiland's Issues and Alignment (2003+)** : Scott Weiland had personal issues and aligned himself against the DeLeo brothers, contributing to the band's quiet demise. "Scott Wyand had his issues and he had lined himself against the Delayo brothers." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Scott Weiland's Personal Troubles (2000s)** : Weiland's marriage was "on the rocks," and he served an "eight-day jail sentence on a DUI charge," highlighting a period of significant personal complications. "Wyland's marriage was on the rocks. There was an eight-day jail sentence on a DUI charge." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Time Apart (4 years, 7 months, 14 days)** : The band was apart for approximately this duration, from their gradual dissolution around September 1, 2003, to their reformation on April 15, 2008. "That would mean they were a part for approximately four years, seven months, and fourteen days." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Weiland Joins Velvet Revolver (Post-STP)** : Scott Weiland joined Velvet Revolver, formed with ex-Guns N' Roses members, which released two albums and toured for three years, managing "all those egos." "Meanwhile, Wyland ended up in Velvet Revolver with the ex-Gunz and Roses guys. And they did pretty well for two albums." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
 
