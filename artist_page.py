@@ -147,6 +147,11 @@ body { font-family: "Segoe UI", system-ui, sans-serif; background: #0d1117;
            flex-shrink: 0; }
 
 #search-wrap { padding: 12px; border-bottom: 1px solid #30363d; }
+/* Nuevo estilo para el filtro */
+#filter-wrap { padding: 0 12px 12px 12px; border-bottom: 1px solid #30363d; }
+#filter-label { font-size: 0.7rem; color: #8b949e; margin-bottom: 4px; display: flex; justify-content: space-between; }
+#filter-label b { color: #58a6ff; }
+#filter-slider { width: 100%; accent-color: #1f6feb; cursor: pointer; height: 4px; }
 #search { width: 100%; padding: 7px 10px; background: #0d1117; color: #c9d1d9;
           border: 1px solid #30363d; border-radius: 6px; font-size: 0.85rem;
           outline: none; }
@@ -216,6 +221,7 @@ const ARTISTS      = /*ARTISTS*/[];
 const NAME_TO_ID   = /*NAME_TO_ID*/{};
 const SEC_COLORS   = /*SEC_COLORS*/{};
 const SEC_LABELS   = /*SEC_LABELS*/{};
+let minElements = 0;
 
 // Index for fast lookup by id
 const byId = {};
@@ -227,12 +233,28 @@ const listEl    = document.getElementById('artist-list');
 const countEl   = document.getElementById('count-label');
 let   activeId  = null;
 
+function getArtistDataCount(a) {
+  return a.members.length +
+         a.genres.length +
+         a.labels.length +
+         a.concerts.length +
+         a.instruments.length +
+         a.albums.length +
+         a.songs.length +
+         a.curiosities.length;
+}
+
 function renderList(q) {
   const qL = q.toLowerCase();
   listEl.innerHTML = '';
   let count = 0;
   for (const a of ARTISTS) {
+    // FILTRO POR CANTIDAD DE DATOS
+    const totalData = getArtistDataCount(a);
+    if (totalData < minElements) continue;
+
     if (q && !a.name.toLowerCase().includes(qL)) continue;
+
     count++;
     const div = document.createElement('div');
     div.className = 'artist-item' + (a.id === activeId ? ' active' : '');
@@ -377,6 +399,20 @@ function showArtist(id) {
 // ── Boot ─────────────────────────────────────────────────────────────────────
 renderList('');
 
+// Listener para el slider
+const filterSlider = document.getElementById('filter-slider');
+const minValLabel  = document.getElementById('min-val');
+
+filterSlider.addEventListener('input', (e) => {
+  minElements = +e.target.value;
+  minValLabel.textContent = minElements;
+  renderList(searchEl.value.trim()); // Refrescar lista
+});
+
+// Configurar el máximo del slider basado en el artista más "completo"
+const maxData = ARTISTS.reduce((max, a) => Math.max(max, getArtistDataCount(a)), 0);
+filterSlider.max = maxData;
+
 // Restore from hash
 const hashId = parseInt(location.hash.slice(1));
 if (hashId && byId[hashId]) {
@@ -412,6 +448,10 @@ def build_html(artists, name_to_id):
 <div id="sidebar">
   <div id="search-wrap">
     <input id="search" type="text" placeholder="Buscar artista..." autocomplete="off">
+  </div>
+  <div id="filter-wrap">
+    <div id="filter-label">Mínimo elementos: <b id="min-val">0</b></div>
+    <input id="filter-slider" type="range" min="0" max="100" value="0">
   </div>
   <div id="count-label"></div>
   <div id="artist-list"></div>
