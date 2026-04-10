@@ -348,6 +348,7 @@ const expandedCategories = new Set();
 let   selectedNodeId     = null;
 let   focusArtistId      = null;
 let   focusDepth         = 1;
+let minElements = 0;
 
 // ── Adjacency list for BFS (artist-to-artist relations) ──────────────────────
 const artistAdj = {};
@@ -413,14 +414,23 @@ function computeGraph() {
   // Focus mode: only artists in BFS set (all expanded)
   // Normal mode: all primary artists; non-primary only if expanded
   for (const a of ARTISTS) {
-    const visible = focusArtistId !== null
-      ? expandedArtists.has(a.id)
-      : (a.is_primary || expandedArtists.has(a.id));
-    if (visible) {
-      nodes.push({ id: `a_${a.id}`, ntype: 'artist', label: a.name,
-                   data: a, r: 20, color: COLORS.artists || '#e74c3c' });
+      // Calcular total de elementos (suma de todos los arrays en categorías)
+      const totalItems = Object.values(a.categories).reduce((sum, cat) => sum + cat.length, 0);
+
+      // Si no llega al mínimo, lo ignoramos (a menos que sea el artista en foco)
+      if (focusArtistId === null && totalItems < minElements) continue;
+
+      const visible = focusArtistId !== null
+        ? expandedArtists.has(a.id)
+        : (a.is_primary || expandedArtists.has(a.id));
+
+      if (visible) {
+        nodes.push({
+          id: `a_${a.id}`, ntype: 'artist', label: a.name,
+          data: a, r: 20, color: COLORS.artists || '#e74c3c'
+        });
+      }
     }
-  }
 
   // Artist-to-artist relation edges (member, mention)
   // In focus mode, only between artists in the focused set
@@ -794,8 +804,17 @@ document.getElementById('focus-slider').addEventListener('input', function() {
   if (focusArtistId !== null) applyFocus();
 });
 document.getElementById('focus-back').addEventListener('click', clearFocus);
-
+document.getElementById('filter-slider').addEventListener('input', function() {
+  minElements = +this.value;
+  document.getElementById('min-data-val').textContent = minElements;
+  render(true); // Re-renderiza con el filtro aplicado
+});
 // ── Boot ──────────────────────────────────────────────────────────────────────
+const maxPossible = ARTISTS.reduce((max, a) => {
+  const count = Object.values(a.categories).reduce((sum, c) => sum + c.length, 0);
+  return Math.max(max, count);
+}, 0);
+document.getElementById('filter-slider').max = maxPossible;
 render();
 '''
 
@@ -844,6 +863,12 @@ def build_html(artists, relations):
   <div id="search-wrap">
     <input id="search" type="text" placeholder="Buscar artista...">
     <div id="ac-list"></div>
+  </div>
+  <div id="filter-bar" style="padding: 10px 0; border-bottom: 1px solid #0f3460;">
+      <div style="display: flex; justify-content: space-between; font-size: 0.75rem; color: #aaa; margin-bottom: 4px;">
+        <span>Mín. elementos: <b id="min-data-val">0</b></span>
+      </div>
+      <input id="filter-slider" type="range" min="0" max="50" value="0" style="width: 100%; accent-color: #e94560; cursor: pointer;">
   </div>
   <div id="legend">{legend}</div>
   <div id="panel"><p class="empty">Haz clic en un artista para explorar.</p></div>
