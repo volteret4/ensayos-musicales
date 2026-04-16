@@ -1,0 +1,9 @@
+# artist - Lady Gaga
+
+## curiosities
+**Attended "Who the F Is Arthur Fogel" Premiere** : Lady Gaga attended the Hollywood premiere of the documentary "Who the F Is Arthur Fogel" in full costume, demonstrating her high regard for the concert promoter Arthur Fogel. She later sat with Stewart Copeland of The Police at the after-party. "Because Arthur is so well regarded by Lady Gaga, so was she. In full costume, of course." ← https://www.youtube.com/watch?v=hjProJd_JrM
+**Chateau Marmont After-Party** : Following the premiere of the Arthur Fogel documentary, Lady Gaga was present at the after-party held at the Chateau Marmont in Los Angeles. She was observed sitting on a couch with Stewart Copeland of The Police, described as being "terrific people." "And at one point, I found myself quite accidentally sitting on a couch with Lady Gaga to my left and steward Copeland of the police on my right." ← https://www.youtube.com/watch?v=hjProJd_JrM
+**Collaborator with Sean Lennon** : Lady Gaga has collaborated with Sean Lennon on records. "Lady Gaga." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
+**Defaced Magazine Cover at Abbey Road** : During a private tour of Abbey Road Studios, a fashion magazine featuring Lady Gaga on the cover was discovered. Someone had used a Sharpie to draw a beard and mustache on her image, found amidst vintage and new recording gear throughout the building. "There was also a fashion magazine with Lady Gaga on the cover. Someone had taken a sharpie and drawn a beard and a mustache on her." ← https://www.youtube.com/watch?v=hjProJd_JrM
+**Relationship with Arthur Fogel** : Lady Gaga holds Arthur Fogel in high regard, and he is one of the concert industry figures she trusts. Her respect for him was evident by her attending the premiere of his documentary. "Because Arthur is so well regarded by Lady Gaga, so was she." ← https://www.youtube.com/watch?v=hjProJd_JrM
+

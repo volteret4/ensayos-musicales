@@ -1,0 +1,5 @@
+# artist - The Curse
+
+## curiosities
+**Possible First All-Female Canadian Punk Band; Shoeshine Boy Written About Emanuel Jaques Murder (1977)** : The Curse are contenders with the B-Girls for the title of Canada's first all-female punk band, having been ready to perform as early as May 1977. The following month they played CBGB in New York on a bill with the Viletones, Diodes, and Teenage Head. They were more intense than the B-Girls — member Mickey Skin performed with a fake lobotomy scar and the band had an explicitly feminist agenda, often starting food fights at shows. Their most controversial song, "Shoeshine Boy," was written about the 1977 murder of 12-year-old Emanuel Jaques in Toronto: a boy shining shoes on Yonge Street who was offered $35 to help move photographic equipment, then tortured and raped for 12 hours before being strangled and drowned in a kitchen sink. The crime catalyzed the city's cleanup of its red-light district. "They were intent on destroying the patriarchy of music." ← https://www.youtube.com/watch?v=0X7TQMGgqbY
+

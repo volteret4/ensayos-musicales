@@ -1,5 +1,5 @@
-# instrument - Effects pedals
+# instrument - Effects Pedals
 
 ## curiosities
-**Shoegaze Sound Shaping** : Effects pedals were crucial in creating the shoegaze sound, which involved "droning, distorted guitars" run through "all kinds of effects pedals" to achieve its characteristic loud, layered, and dreamy textures. "droning, distorted guitars, running through all kinds of effects pedals" ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
+**Sound Manipulation Technique** : Effects pedals were a common method used to manipulate the sounds of traditional rock instruments like guitars, bass, and drums, enabling musicians to create diverse sonic textures before the widespread adoption of synthesizers. "There were plenty of ways to manipulate the sounds of those instruments, you know, effects, pedals, studio tricks, happy accidents that happened when you least expected them." ← https://www.youtube.com/watch?v=5PJRCC6EwUY
 

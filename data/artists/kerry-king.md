@@ -1,5 +1,8 @@
 # artist - Kerry King
 
+## member of
+- Slayer
+
 ## instruments
 - Marshall JCM 800
 - Marshall Stacks

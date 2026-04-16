@@ -3,6 +3,10 @@
 ## members
 - Zach D. LaRocca
 
+## concerts
+- Coachella
+- Lollapalooza
+
 ## curiosities
 **2022 Reunion Tour Cut Short** : The band embarked on a reunion tour in 2022, which lasted only 36 days, from July 9, 2022, in Troy, Wisconsin, to August 14, 2022, at Madison Square Garden. The tour was cut short after vocalist Zach D. LaRocca tore his Achilles tendon on stage. "Although their reunion lasted all of 36 days before it fell apart, the first show July 9, 2022 in Troy, Wisconsin, last show, August 14, 2022 at Madison Square Garden. It might have gone on longer and might have been much bigger. Ted Singer, Zach D. LaRocca, not torn his Achilles on stage." ← https://www.youtube.com/watch?v=ZzIqIydZTlA
 **Breakup Date (October 18, 2000)** : The band officially "fell apart" on this date. "They fell apart on October the 18th, 2000." ← https://www.youtube.com/watch?v=yR3xc3ra5tE

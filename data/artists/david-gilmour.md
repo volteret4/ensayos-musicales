@@ -1,7 +1,11 @@
 # artist - David Gilmour
 
+## member of
+- Pink Floyd
+
 ## instruments
 - "Black Strat" (Fender Stratocaster)
+- Big Muff
 
 ## curiosities
 **Auction Sale of the "Black Strat"** : David Gilmour's legendary "Black Strat" was eventually sold at auction for nearly $4 million US dollars. The purchaser was Jim Irsay, who is the owner of the Indianapolis Colts. "It sold at auction for nearly $4 million US dollars to Jim Isray, the owner of the Indianapolis Colts." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw

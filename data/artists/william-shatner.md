@@ -1,0 +1,19 @@
+# artist - William Shatner
+
+## labels
+- Decca
+
+## albums
+**The Transformed Man (1968)** : This album was recorded after Decca Records asked Shatner to make a record while he was a young actor having success with Star Trek. He conceived it as a philosophical project linking classic literature (Shakespeare, Edmond Rostand) with modern song lyrics, aiming to show comparative or opposing philosophies. Each track was designed as a six-minute pairing (three minutes literature, three minutes music) meant to be heard together for context. "The most famous being the transformed man from 1968." ← https://www.youtube.com/watch?v=hjProJd_JrM
+
+## songs
+**Lucy in the Sky with Diamonds (1968)** : Featured on "The Transformed Man" album, Shatner performed this song out of its original context, which led to some confusion among listeners. He explained his interpretation of it as "LSD," a vision of tangerine trees and marmalade skies, performed as a "guy looped," contrasting with literary figures who achieve great heights without drugs. "People took things like Lucy and the Sky with Diamonds out of context. They were, what's he doing? Well, what I'm doing is performing LSD, a guy who thinks of tangering trees and marmalade skies." ← https://www.youtube.com/watch?v=hjProJd_JrM
+
+## curiosities
+**"How Time Flies" Broadway Adaptation** : Following the successful tour of "How Time Flies," Shatner was so pleased that he decided to take the production to Broadway. After negotiations, the show did make it to Broadway, though with a rejigged format. "When the two are wrapped up, the shot was so pleased that he declared we're taking this thing to Broadway." ← https://www.youtube.com/watch?v=hjProJd_JrM
+**"How Time Flies" Stage Production (2000s)** : Shatner conceived a stage production based on reminiscences from his 60-year career in show business. The show was structured as a celebrity interview in front of an audience, incorporating audio and video clips over 90 minutes with a 15-minute intermission, and toured through Vancouver, Regina, Edmonton, Winnipeg, Toronto, and Montreal. "The tour for the production, which was called How Time Flies, by the way, started in Vancouver and made its way through Regina Edmonton Winnipeg, Toronto Montreal." ← https://www.youtube.com/watch?v=hjProJd_JrM
+**"The Hockey Song" Sing-along Attempt** : Shatner wanted to end each "How Time Flies" show with a sing-along and considered performing "The Hockey Song" by Stompin' Tom Connors. However, he struggled with it in rehearsals, indicating he couldn't quite make it work. "But in rehearsals, he just couldn't seem to make it work." ← https://www.youtube.com/watch?v=hjProJd_JrM
+**Documentary Filmmaker** : William Shatner is mentioned as another individual who has "turned into documentaries," working with Zach Wilde and others. This comes up in a discussion about Dave Grohl's filmmaking endeavors, suggesting a shared interest in the medium. "Another guy who is turned into documentaries. Who's that William Shatter? Wow. Yeah. There you go." ← https://www.youtube.com/watch?v=Mh-qg1izM98
+**Private Jet Travel** : Shatner travelled between gigs on his private jet during the "How Time Flies" tour, offering a ride from Toronto to Montreal on one occasion. "But when it came time to get from Toronto to Montreal, he invited me on his private jet, which let me tell you something, has ruined me for any air travel for the rest of my life." ← https://www.youtube.com/watch?v=hjProJd_JrM
+**Regina Brewpub Beer Order** : During the "How Time Flies" tour, Shatner was at a brewpub in Regina and, being a beer lover, ordered a flight of various beers. Upon noticing a non-drinker, he gave a direct order to drink beer, using a voice reminiscent of his "Wrath of Khan" character. "Then in a voice right out of the wrath of Khan, he gave me an order. You will drink beer!" ← https://www.youtube.com/watch?v=hjProJd_JrM
+

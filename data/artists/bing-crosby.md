@@ -1,0 +1,6 @@
+# artist - Bing Crosby
+
+## curiosities
+**Early Microphone Singer** : Bing Crosby is mentioned as one of the performers who benefited from electrical recording, enabling a softer, more romantic singing style facilitated by microphones. He was a prominent "microphone singer" and later a "crooner." "This is where we get performers like Frank Sinatra and Bing Crosby." ← https://www.youtube.com/watch?v=NAroxFbYkRw
+**Pioneer of Magnetic Tape Recording in Radio** : Bing Crosby, a major radio star, was instrumental in popularizing magnetic tape recording in the US. Hating to perform two live shows daily for different time zones, his musical director, Merton Mackenzie, introduced him to Jack Mullen's German Magnetophone machines in 1947. Impressed by the sound quality, Crosby invested $50,000 (over half a million today) in Ampex, a recording technology company, and hired Mullen as his chief engineer. This allowed him to pre-record his shows, freeing him to pursue other activities like golfing, and ultimately set the standard for audio and video recording on tape. "This technology meant that he could record his East Coast performance, leave the studio, and then hit the links and let the technicians with their tape machines take care of the West Coast feed." ← https://www.youtube.com/watch?v=NAroxFbYkRw
+

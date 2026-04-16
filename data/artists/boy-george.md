@@ -1,5 +1,8 @@
 # artist - Boy George
 
+## member of
+- Culture Club
+
 ## genres
 - New Pop
 

@@ -1,5 +1,8 @@
 # artist - Michael Hutchence
 
+## member of
+- INXS
+
 ## curiosities
 **Confrontation with Prince (1994)** : At the World Music Awards in Monaco in 1994, Hutchence, whose behavior was worsening due to increasing drug and alcohol use stemming from his brain injury, attempted to pick a fight with Prince. "And at the World Music Awards in Monaco in 1994, he tried to pick a fight with Prince." ← https://www.youtube.com/watch?v=dVJuITJyNTU
 **Copenhagen Assault and Irreversible Brain Damage (August 1992)** : While touring Copenhagen with girlfriend Helena Christensen, Hutchence was sucker-punched by an impatient taxi driver, causing him to fall and hit his head violently on the curb. Although paramedics initially assumed he was on drugs, he sustained severe, irreversible brain damage, which fundamentally altered his personality. "The blow to the head brought something out of Michael and it ended up killing him." ← https://www.youtube.com/watch?v=dVJuITJyNTU

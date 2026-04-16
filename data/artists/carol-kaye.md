@@ -1,5 +1,8 @@
 # artist - Carol Kaye
 
+## member of
+- The Wrecking Crew
+
 ## instruments
 - Fender Precision Bass
 

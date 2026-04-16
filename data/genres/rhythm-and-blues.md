@@ -1,0 +1,6 @@
+# genre - Rhythm and Blues
+
+## curiosities
+**Emergence of Rhythm and Blues (Late 1940s)** : Rhythm and Blues (R&B) emerged in the late 1940s as big jazz bands downsized due to economic pressures, wartime, and musician strikes. Smaller groups began to emphasize rhythm and beat, contrasting with the less danceable bebop. This new focus, combined with influences from country, western, hillbilly, and traditional blues, created the fertile ground for the birth of rock in the 1950s. "And by the late 1940s, this became known as rhythm and blues." ← https://www.youtube.com/watch?v=_Pi7JLwAeOI
+**R&B's Origins in the Great Migration – Cotton Gin, Slavery, and Urban Demographics** : The origins of rhythm and blues trace back to the invention of the cotton gin in 1794, which entrenched slavery, and the subsequent dispossession of African-American land, which drove the Great Migration from the rural South to northern cities from the late nineteenth century through the early twentieth. This demographic shift was the crucible in which jazz and blues evolved into rhythm and blues. "The cotton gin (1794) entrenched slavery, dispossession drove the Great Migration, and the resulting demographic shift was the crucible in which jazz and blues evolved into R&B." ← https://www.youtube.com/watch?v=f2KA97T4u08
+

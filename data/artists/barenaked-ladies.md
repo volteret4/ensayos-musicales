@@ -2,6 +2,7 @@
 
 ## members
 - Ed Robertson
+- Ed Robertson (singer)
 - Steven Page
 
 ## genres
@@ -17,8 +18,10 @@
 
 ## songs
 **If I Had $1000000 (1992)** : This song is famously associated with fans throwing boxes of Craft Dinner at the band during performances, a tradition stemming from the song's lyrics. The band discourages this practice due to the potential for injury. "And to this day, fans insist on throwing boxes of craft dinner at the band as the result of this song." ← https://www.youtube.com/watch?v=h6snk0m4200
+**The Big Bang Theory Theme** : The Barenaked Ladies are associated with the theme for "The Big Bang Theory," representing another example of a band generating significant income by licensing their music for a TV show's opening sequence. ← https://www.youtube.com/watch?v=sfie4YYncxk
 
 ## curiosities
+**1992 Toronto Concert Ban – Name Deemed Objectifying Despite Band's Explanation** : The Barenaked Ladies were banned from performing at a Toronto concert in 1992 because city officials considered their name objectifying toward women. The band explained that the name was intended as harmless "childlike language," but the ban was upheld regardless. "The band explained the name was 'childlike language,' but the ban was maintained." ← https://www.youtube.com/watch?v=f4TOWLYRnGs
 **Backstage Rider – Bananas and Scotch** : The Barenaked Ladies used to ask for 20 pounds of bananas, along with one good bottle of single malt scotch, in their rider. "The bear naked ladies used to ask for 20 pounds of bananas for some reason, along with one good bottle of single malt scotch." ← https://www.youtube.com/watch?v=z2hvUDtBxho
 **Backstage Rider – Dietary Open-Mindedness with Exclusions** : The band and crew described themselves as "very open-minded yet health conscious about their diets," welcoming diverse meal ideas like Turkey dinner, Indian, Japanese, Meatloaf, or Ham and Scalloped potatoes. However, they explicitly requested not to be offered "chicken breast or vegetarian lasagna again," suggesting these items had become overused. "So please don't offer chicken breast or vegetarian lasagna again." ← https://www.youtube.com/watch?v=z2hvUDtBxho
 **First Indie Platinum in Canada** : "The Yellow Tape" cassette, self-released by the Barenaked Ladies in 1991, became the first independent music release in the history of Canadian music to be certified platinum, selling nearly 100,000 copies. "That was the first ever indie release to be certified platinum in the history of Canadian music." ← https://www.youtube.com/watch?v=h6snk0m4200

@@ -1,5 +1,8 @@
 # artist - Steve Jones
 
+## member of
+- Sex Pistols
+
 ## instruments
 - Gibson Les Paul Custom
 

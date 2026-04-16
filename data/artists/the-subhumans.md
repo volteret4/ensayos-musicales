@@ -1,0 +1,5 @@
+# artist - The Subhumans
+
+## curiosities
+**Jerry Hanna's Arrest and Litton Industries Bombing – Punk Activism Leading to Jail Time** : The Subhumans formed in Vancouver in 1978 with original members known as Useless, Dimwit, Wimpy, and Normal. Original singer Useless (real name Jerry Hanna) quit in 1981 and joined a group called Direct Action, also known as the Vancouver Five or Squamish Five. On October 14, 1982, Direct Action bombed a plant owned by Litton Industries in Toronto — which manufactured guidance systems for cruise missiles — injuring several workers and three police officers (no one was killed). Hanna was not part of the bombing itself but supported it and was involved in planning other actions, including a planned Brink's truck robbery using stolen automatic weapons. He was convicted and sentenced to ten years in prison, serving five. His arrest and trial rallied the punk community; multiple benefit concerts were organized. "He was convicted and sent to jail for ten years, serving five." ← https://www.youtube.com/watch?v=0X7TQMGgqbY
+

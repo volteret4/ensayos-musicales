@@ -4,6 +4,7 @@
 - Mark Knopfler
 
 ## instruments
+- Fender Stratocaster
 - Fender Twin Reverb
 
 ## songs

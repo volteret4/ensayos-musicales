@@ -3,9 +3,13 @@
 ## genres
 - Hip-hop
 
+## concerts
+- **Joint Tour with Rage Against the Machine** : Wu-Tang Clan, described as a "very political hip-hop outfit," toured with Rage Against the Machine. This combination caused concern among law enforcement authorities, leading to attempts to block gigs due to fears of civil unrest. Eventually, both bands realized their political ideologies were not entirely aligned, and there were even rumors of a backstage fight between them. "Rage decided to tour with Wu-Teng Clan, a very political hip-hop outfit. This combination scared certain law enforcement authorities along the itinerary, which created more difficulties."
+
 ## albums
 **Once Upon a Time in Shaolin (2017) – Unique CD Album** : As of mid-2017, this CD album was the most expensive record, selling for $2 million US at auction. Only one copy was ever produced, and it was purchased by Martin Shkreli. This particular item is a CD, not a vinyl record. "At the top of the charts, as of mid-2017, is once upon a time in Shaolin by Wu-Teng Klan, only one copy was ever produced, and after some hype, it was sold at auction for $2 million US." ← https://www.youtube.com/watch?v=IIJySSo276k
 
 ## curiosities
+**Canadian Embassy's "Wuhan-Tang Clan" T-Shirt Diplomatic Incident** : A significant diplomatic incident arose in China when the Canadian Embassy in Beijing designed a T-shirt for individuals who visited Wuhan early in the pandemic. The design featured the iconic Wu-Tang Clan logo with "Wuhan" superimposed, which sparked outrage online in China. Critics perceived the "W" in the logo as resembling a bat, linking it to the alleged origin of COVID-19, and viewed the T-shirt as an horrific attack on Wuhan and China. "The online world in China went ballistic saying that this was an attack on Wuhan and China because they thought the W of the official Wu-Tang logo looked like a bat." ← https://www.youtube.com/watch?v=-N6IM5Nm5iw
 **Lipstick Merchandising Line** : Wu-Tang Clan has expanded its merchandising beyond typical band products, now selling several shades of lipstick. "Wu Tei in clan has branched further into merchandising. They now sell several shades of lipstick." ← https://www.youtube.com/watch?v=GO0K_N7Ys7I
 

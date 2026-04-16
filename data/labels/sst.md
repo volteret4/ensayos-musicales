@@ -1,5 +1,8 @@
 # label - SST
 
 ## curiosities
+**First Release: Nervous Breakdown** : The first release on SST was Black Flag's EP titled "Nervous Breakdown" in 1979. "The first release on the label was a Black Flag EP entitled Nervous Breakdown in 1979." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
+**Founded by Greg Ginn for Black Flag** : SST was founded by guitarist Greg Ginn in 1978, originally as an electronic components mail-order company established in 1966 when he was 12. Ginn repurposed it into a record label specifically to distribute material from his band, Black Flag, because no other label would work with them. "He'd started the company in 1966 when he was just 12 and the purpose was to sell electronic components through the mail. But in 1978, he turned it into a record label to distribute material from his band because no other label wanted to touch what they were doing." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
+**Hardcore Spreader** : Beyond Black Flag, SST was instrumental in spreading hardcore music from numerous other groups, including The Minutemen and The Meat Puppets. The label's output of hardcore records increased in popularity and widespread distribution as Ronald Reagan's presidency continued. "Not only did SST release flag records, they were also too happy to spread hardcore from groups like The Minutemen, The Meat Puppets, and dozens of others." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
 **Pioneering Independent Label** : SST was one of the small independent labels that specialized in releasing music outside the traditional major label system during the post-punk indie movement. "that included rough trade for a D, beggars banquet, epitaph, SST, and many others." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 

@@ -1,5 +1,5 @@
-# artist - Billy Joe Armstrong
+# artist - Billy Joe (Armstrong)
 
-## instruments
-- Gibson Les Paul
+## member of
+- Green Day
 

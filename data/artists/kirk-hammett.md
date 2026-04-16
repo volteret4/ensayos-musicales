@@ -1,5 +1,8 @@
 # artist - Kirk Hammett
 
+## member of
+- Metallica
+
 ## instruments
 - Gibson Les Paul
 

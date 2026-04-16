@@ -1,5 +1,8 @@
 # artist - Mike Dirnt
 
+## member of
+- Green Day
+
 ## instruments
 - Fender Precision Bass
 

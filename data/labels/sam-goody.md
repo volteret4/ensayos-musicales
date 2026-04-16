@@ -1,5 +1,8 @@
 # label - Sam Goody
 
 ## curiosities
+**Decline and Current Status** : The Sam Goody chain has significantly declined, with only two locations remaining in operation today. These two stores are now under the ownership of Canada's Sunrise Records. "And today there are just two locations. And they are now owned by Canada's Sunrise Records." ← https://www.youtube.com/watch?v=jD1dWxNLvfE
+**Founding and Early Strategy (1948 - 1951)** : Sam Goody was a large American record chain founded in New York in 1948 by Sam Goodywitz, who initially opened a single store in Manhattan. By 1951, he had expanded it into a chain based out of Minneapolis. Goody's distinctive strategy was to exclusively sell brand new 33 1/3 LP records. "Sam Goody was a huge American chain followed by Sam Goodywitz in New York in 1948." ← https://www.youtube.com/watch?v=jD1dWxNLvfE
 **Part of Musicland Group Bankruptcy (2006)** : Sam Goody was a brand within the Musicland Group, which declared bankruptcy in 2006, marking a significant moment in the decline of physical record store chains. "There was the music land group featuring brands like Sun Coast and Sam Goodie, Bankrupt in 2006." ← https://www.youtube.com/watch?v=ZzIqIydZTlA
+**Promotional Gimmick and Peak (Mid-20th Century)** : Sam Goody implemented a unique promotional gimmick: customers who purchased $25 worth of records received a free record player. This was a significant incentive, as LPs at the time sold for $4.85 each, equivalent to at least $50 today. At its peak, the company operated over 1,300 stores under both the Sam Goody name and "music client." "If you bought $25 worth of records, then remember that LPs were selling at $4.85 at the time... you got a free record player." ← https://www.youtube.com/watch?v=jD1dWxNLvfE
 

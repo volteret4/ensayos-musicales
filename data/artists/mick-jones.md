@@ -1,5 +1,8 @@
 # artist - Mick Jones
 
+## member of
+- The Clash
+
 ## instruments
 - Digital wristwatch (for sound effect)
 

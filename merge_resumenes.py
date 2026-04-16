@@ -60,7 +60,7 @@ class ArtistData:
         self.member_of   = []
         self.genres      = []
         self.labels      = []
-        self.venues      = []
+        self.concerts    = []
         self.instruments = []
         self.albums      = {}
         self.songs       = {}
@@ -88,7 +88,7 @@ class EntityData:
 
 # ── Parser compatible con ambos sentidos ──────────────────────────────────────
 
-def parse_folder(folder, artists, genres, labels, venues, instruments, standalone):
+def parse_folder(folder, artists, genres, labels, concerts, instruments, standalone):
     if not os.path.exists(folder):
         return
 
@@ -102,7 +102,7 @@ def parse_folder(folder, artists, genres, labels, venues, instruments, standalon
 
     store_for = {
         'genre': genres, 'label': labels,
-        'venue': venues, 'instrument': instruments
+        'concert': concerts, 'instrument': instruments
     }
 
     # Cache podcast.env data per directory to avoid repeated reads
@@ -128,12 +128,18 @@ def parse_folder(folder, artists, genres, labels, venues, instruments, standalon
                     if not s: continue
 
                     # Detectar cabecera principal
-                    m = re.match(r'^#\s+(artist|genre|label|venue|instrument)\s+-\s+(.+)', s, re.IGNORECASE)
+                    m = re.match(r'^#\s+(artist|genre|label|venue|concert|instrument)\s+-\s+(.+)', s, re.IGNORECASE)
                     if m:
-                        ctx_type, ctx_name = m.group(1).lower(), m.group(2).strip()
+                        ctx_type = m.group(1).lower()
+                        ctx_name = m.group(2).strip()
+                        # Normalise legacy 'venue' → 'concert'
+                        if ctx_type == 'venue':
+                            ctx_type = 'concert'
                         section = None
-                        if ctx_type == 'artist': get_artist(ctx_name)
-                        else: get_entity(store_for[ctx_type], ctx_name)
+                        if ctx_type == 'artist':
+                            get_artist(ctx_name)
+                        else:
+                            get_entity(store_for[ctx_type], ctx_name)
                         continue
 
                     if re.match(r'^#\s+curiosity\s*$', s, re.IGNORECASE):
@@ -158,10 +164,19 @@ def parse_folder(folder, artists, genres, labels, venues, instruments, standalon
 
                     elif ctx_type == 'artist':
                         artist = get_artist(ctx_name)
-                        list_keys = {'members', 'member_of', 'genres', 'labels', 'venues', 'instruments'}
+                        list_keys = {'members', 'member_of', 'genres', 'labels', 'concerts', 'instruments'}
                         if section in list_keys:
                             name = s.lstrip('- ').strip()
-                            if name: artist.add_list(section.replace(' ', '_'), name)
+                            if not name: continue
+                            norm = section.replace(' ', '_')
+                            artist.add_list(norm, name)
+                            # Maintain inverse member relationships automatically
+                            if norm == 'members':
+                                # The listed name is a member → that person's member_of = ctx_name
+                                get_artist(name).add_list('member_of', ctx_name)
+                            elif norm == 'member_of':
+                                # ctx_name is a member of the listed band → band's members = ctx_name
+                                get_artist(name).add_list('members', ctx_name)
                         else:
                             me = ENTRY_RE.match(s)
                             if me:
@@ -206,7 +221,7 @@ def write_artist(artist, out_dir):
         _write_list_section(f, 'members', artist.members)
         _write_list_section(f, 'genres', artist.genres)
         _write_list_section(f, 'labels', artist.labels)
-        _write_list_section(f, 'venues', artist.venues)
+        _write_list_section(f, 'concerts', artist.concerts)
         _write_list_section(f, 'instruments', artist.instruments)
 
         _write_entry_section(f, 'albums', artist.albums)
@@ -232,29 +247,36 @@ def write_standalone_curiosities(standalone, out_dir):
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
-    artists, genres, labels, venues, instruments, standalone = {}, {}, {}, {}, {}, {}
+    artists, genres, labels, concerts, instruments, standalone = {}, {}, {}, {}, {}, {}
 
     # 1. Cargar datos existentes para no perder relaciones previas
     if os.path.exists(DATA_FOLDER):
-        parse_folder(DATA_FOLDER, artists, genres, labels, venues, instruments, standalone)
+        parse_folder(DATA_FOLDER, artists, genres, labels, concerts, instruments, standalone)
 
     # 2. Mezclar nuevos resumenes
     if os.path.exists(RESUMENES_FOLDER):
-        parse_folder(RESUMENES_FOLDER, artists, genres, labels, venues, instruments, standalone)
+        parse_folder(RESUMENES_FOLDER, artists, genres, labels, concerts, instruments, standalone)
 
     # 3. Guardar con el formato exacto requerido por md_to_sqlite.py
     artist_dir = os.path.join(DATA_FOLDER, 'artists')
     for a in artists.values(): write_artist(a, artist_dir)
 
     for etype, store, subdir in [
-        ('genre', genres, 'genres'), ('label', labels, 'labels'),
-        ('venue', venues, 'venues'), ('instrument', instruments, 'instruments'),
+        ('genre',   genres,      'genres'),
+        ('label',   labels,      'labels'),
+        ('concert', concerts,    'concerts'),
+        ('instrument', instruments, 'instruments'),
     ]:
         d = os.path.join(DATA_FOLDER, subdir)
         for e in store.values(): write_entity(etype, e, d)
 
     write_standalone_curiosities(standalone, DATA_FOLDER)
-    print("Mezcla finalizada respetando el formato de relaciones SQL.")
+
+    n_artists  = len(artists)
+    n_members  = sum(1 for a in artists.values() if a.member_of)
+    print(f"Mezcla finalizada: {n_artists} artistas ({n_members} con member_of), "
+          f"{len(genres)} géneros, {len(labels)} sellos, "
+          f"{len(concerts)} conciertos, {len(instruments)} instrumentos.")
 
 if __name__ == '__main__':
     main()

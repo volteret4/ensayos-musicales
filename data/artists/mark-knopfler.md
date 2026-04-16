@@ -1,5 +1,8 @@
 # artist - Mark Knopfler
 
+## member of
+- Dire Straits
+
 ## instruments
 - Fender Stratocaster (signature model)
 - Fender Twin Reverb

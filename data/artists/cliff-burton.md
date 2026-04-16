@@ -1,5 +1,8 @@
 # artist - Cliff Burton
 
+## member of
+- Metallica
+
 ## instruments
 - Bass
 

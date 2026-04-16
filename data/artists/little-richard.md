@@ -1,5 +1,17 @@
 # artist - Little Richard
 
+## genres
+- Rock and Roll
+
+## songs
+**Tutti Frutti (1955)** : This is one of Little Richard's best-known songs. The original, uncensored lyrics of "Tutti Frutti" are mentioned as containing not-so-subtle hints about his sexuality, specifically being gay or bisexual with gay leanings, when the song was written and released. "search for the original, uncensored lyrics of Tuti Fruity." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ
+
 ## curiosities
 **Backstage Rider – Moral Beliefs Distribution** : During various religious periods in his career, Little Richard's rider specified that he be allowed to distribute souvenir books summarizing his moral beliefs free of charge to the audience, reflecting his strong spiritual convictions at the time. "His writer specified that he'd be able to distribute free of charge souvenir books that summarized Little Richard's moral beliefs." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**Flamboyance and Influence** : Despite performing as a Black and gay artist in the US South in the 1950s, Little Richard's flamboyance, energy, and music had a massive effect across rock and roll. His influence extended to artists like The Beatles, James Brown, David Bowie, and even Lemmy of Motorhead, reverberating through the entire genre. "His flamboyance, his energy, and his music reverberated through all of rock and roll." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ
+**Internal Conflict with Sexuality** : Little Richard's relationship with his sexuality was complex, marked by a constant internal war. He sometimes reveled in it, showcasing his flamboyant personality, but at other times experienced periods of self-loathing, indicating a conflicted personal journey. "That Little Richard was always at war with his sexuality, sometimes exalting in it, sometimes descending into self-loathing." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ
+**Officiated Bruce Willis and Demi Moore's Wedding (1987)** : In November 1987, Little Richard, who was an ordained minister, officiated the marriage of actors Bruce Willis and Demi Moore. His role as the officiating pastor made the ceremony legally binding. "the officiating pastor was Little Richard. He was an ordained minister, so was illegal." ← https://www.youtube.com/watch?v=-N6IM5Nm5iw
+**Pioneer Black Crossover Artist** : Little Richard was the first Black artist to successfully cross over, appealing to both Black and white audiences and effectively breaking the color barrier. His shows attracted people of all races, significantly contributing to cultural change in the segregated 1950s. "Little Richard was the first black artist to cross over." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ
+**Rock's First Openly Gay Rock Star** : Little Richard is argued to be rock's first openly gay rock star, or at least bisexual with strong gay leanings. He openly embraced effeminate mannerisms, wore makeup, engaged in "rough trade," and famously declared, "Elvis may have been the king of rock and roll, but I and the queen." "you can make an argument that he was Rock's first openly gay rock star." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ
+**Weird and Scary Image** : Little Richard was identified as another artist, alongside Billy Lee Riley, who pushed the boundaries of the then-radical world of rock and roll with a "weird and scary" persona. "And there were others like him, like the weird and scary little Richard." ← https://www.youtube.com/watch?v=6oUkMOkEr9U
 

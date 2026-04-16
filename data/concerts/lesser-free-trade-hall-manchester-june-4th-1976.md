@@ -1,0 +1,6 @@
+# concert - Lesser Free Trade Hall, Manchester (June 4th, 1976)
+
+## curiosities
+**Catalyst for New Bands and Labels** : The attendees of this sparsely attended concert were profoundly influenced, leading many to form highly influential bands like Joy Division, the Pet Shop Boys, Simply Red, and The Smiths. It also inspired the establishment of significant labels such as Factory Records. "Only 40 some people were there, but they left to form bands like George Division and the Pet Shop Boys and simply read and the Smiths and to establish factory records." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
+**Legendary Sex Pistols Performance** : On June 4th, 1976, a still-unknown band called The Sex Pistols performed at the Lesser Free Trade Hall in Manchester, a show arranged by the Buzzcocks. Despite an audience of only around 40 people, this gig has achieved mythic and legendary status as one of the most important in rock history. "They arranged for a still unknown band called The Sex Pistols to play the lesser free trade hall in Manchester on June 4th, 1976, a show that has gone down in myth and legend as one of the most important gigs in the history of rock." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
+

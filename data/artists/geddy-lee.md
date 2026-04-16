@@ -1,5 +1,8 @@
 # artist - Geddy Lee
 
+## member of
+- Rush
+
 ## instruments
 - Mini-Moog
 

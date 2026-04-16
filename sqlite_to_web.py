@@ -295,8 +295,8 @@ body { font-family: "Segoe UI", sans-serif; background: #1a1a2e; color: #eee;
 .fact-card { background: #0f3460; border-radius: 5px; padding: 7px 9px; margin-bottom: 6px;
              font-size: 0.78rem; line-height: 1.45; border-left: 3px solid #e94560; }
 .fact-src { font-size: 0.68rem; color: #777; margin-top: 3px; }
-.fact-src a { color: #5dade2; text-decoration: none; }
-.fact-src a:hover { text-decoration: underline; }
+.fact-src a { color: #5dade2; text-decoration: none; cursor: pointer; }
+.fact-src a:hover { text-decoration: underline; color: #85c1e9; }
 .rel-card { background: #1a1a2e; border-radius: 5px; padding: 6px 9px; margin-bottom: 5px;
             font-size: 0.76rem; line-height: 1.4; border-left: 3px solid #555;
             font-style: italic; color: #aaa; }
@@ -804,17 +804,24 @@ document.getElementById('focus-slider').addEventListener('input', function() {
   if (focusArtistId !== null) applyFocus();
 });
 document.getElementById('focus-back').addEventListener('click', clearFocus);
-document.getElementById('filter-slider').addEventListener('input', function() {
-  minElements = +this.value;
-  document.getElementById('min-data-val').textContent = minElements;
-  render(true); // Re-renderiza con el filtro aplicado
-});
 // ── Boot ──────────────────────────────────────────────────────────────────────
-const maxPossible = ARTISTS.reduce((max, a) => {
-  const count = Object.values(a.categories).reduce((sum, c) => sum + c.length, 0);
-  return Math.max(max, count);
-}, 0);
-document.getElementById('filter-slider').max = maxPossible;
+// Compute the set of actual element counts so the slider snaps to existing values
+const _countVals = [...new Set(
+  ARTISTS.map(a => Object.values(a.categories).reduce((s,c) => s + c.length, 0))
+)].sort((a, b) => a - b);
+const _filterSlider  = document.getElementById('filter-slider');
+const _minDataValEl  = document.getElementById('min-data-val');
+_filterSlider.min    = 0;
+_filterSlider.max    = _countVals.length - 1;
+// Start at MAX so only the richest artists appear first — drag left to expand
+_filterSlider.value  = _countVals.length - 1;
+minElements          = _countVals[_countVals.length - 1] ?? 0;
+_minDataValEl.textContent = minElements;
+_filterSlider.addEventListener('input', function() {
+  minElements = _countVals[+this.value] ?? 0;
+  _minDataValEl.textContent = minElements;
+  render(true);
+});
 render();
 '''
 

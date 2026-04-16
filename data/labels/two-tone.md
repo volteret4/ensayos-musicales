@@ -1,5 +1,5 @@
-# label - Two-Tone
+# label - Two-tone
 
 ## curiosities
-**British Indie Label** : A UK indie label that was a major factor in breaking new music, particularly since the punk era of the 1970s. "There was rough trade, two-tone and stiff, mute, and dozens of others." ← https://www.youtube.com/watch?v=raRCZ0Y5up8
+**Culturally Significant Label** : Established by Jerry Dammers of The Specials, Two-tone evolved beyond just a record label to become a distinct sound and a cultural movement, actively promoting racial harmony. Its first release, "Gangsters" by The Specials in May 1979, sold 5,000 copies and reached number six on the British charts, an unprecedented success for an indie record. "So he started his own label and he called it Two-tone. This became not just a record label, but a sound and a cultural movement promoting racial harmony." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
 

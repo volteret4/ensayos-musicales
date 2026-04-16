@@ -3,3 +3,7 @@
 ## genres
 - Hardcore
 
+## labels
+- Mystic Records
+- SST
+

@@ -1,6 +1,11 @@
 # genre - Goth
 
 ## curiosities
+**80s Alt-Rock Radio Inclusion** : Goth music was among the diverse genres featured on alt-rock radio playlists in the 1980s, demonstrating the broad range of music played before the rise of grunge. ← https://www.youtube.com/watch?v=eqTFinLk3oU
+**Emergence of Goth Music** : Goth music did not widely emerge until bands like Bauhaus appeared in the late 1970s. This historical context is used to compare with the earlier visual and musical elements of "proto-goth" seen in the 1974 film "Phantom of the Paradise." ← https://www.youtube.com/watch?v=eqTFinLk3oU
 **Fresh Approach in Early 1990s** : Goth music saw a "fresh approach" in the early 1990s, indicating an evolution or revitalization of the genre during that period. "along with a fresh approach to Goth." ← https://www.youtube.com/watch?v=t2uXHP9cBdM
+**Goth / Gothic Rock – Joy Division and The Cure into Bauhaus, Alien Sex Fiend, Siouxsie** : Gothic rock began with dark, somber, bleak groups such as Joy Division and The Cure, then got darker with groups like Bauhaus, Alien Sex Fiend, and Siouxsie and the Banshees. The genre focused on the dark side of music, often with genuine Gothic overtones drawn from the original Gothic culture of the 1800s — elements of doom, sometimes romantic, occasionally supernatural. "Goth or Gothic Rock, which focused on the dark side of the music, often with genuine Gothic overtones." ← https://www.youtube.com/watch?v=M11CC71FSWE
+**Identity Marker** : Goth is cited as a music genre that comes with specific fashion trends, which individuals might adopt to utilize music as an "identity marker." This allows them to project their identity and form friendships within a community of shared musical and aesthetic preferences. ← https://www.youtube.com/watch?v=m7MbV-eCLyE
+**Peter Murphy's Status** : Peter Murphy was described as a "Goth God" when Nine Inch Nails opened for him in 1990. "Nine H. Nails were opening for Goth God Peter Murphy." ← https://www.youtube.com/watch?v=DKdF8NgF5Bw
 **Post-Punk Subgenre** : Goth is identified as a major post-punk genre that emerged in the late 1970s and early 1980s, and is one of the genres that "are still with us today." "There was new wave, techno pop, and all its subsets, industrial music, goth, and a revival of scot." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 

@@ -1,5 +1,5 @@
-# genre - Hip-Hop
+# genre - Hip hop
 
 ## curiosities
-**Dominance in Major Festivals (Post-2008)** : Starting around 2008, hip-hop, alongside pop music, became the primary driving force in major music festivals such as Lollapalooza and Coachella. This change was a direct response to a cultural shift in America, where these genres became more popular with the festival-going demographic, crucial for selling large numbers of tickets. "But the original Alt Rock component is long, long gone. La La Palosa is still signs up a few rock bands each year, but it's mostly a pop and hip-hop thing now." ← https://www.youtube.com/watch?v=ZzIqIydZTlA
+**Game-Changing Genre and Stagnation** : Hip hop was initially an "incredibly game changing" genre, but it has since "hit something of a wall." A generation gap has emerged within hip hop, pitting "old schoolers and gangster rap fans" against contemporary artists like Drake and Chris Brown. "Meanwhile hip hop, which was incredibly game changing, has also hit something of a wall." ← https://www.youtube.com/watch?v=m7MbV-eCLyE
 

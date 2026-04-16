@@ -1,10 +1,8 @@
-# artist - Guns N' Roses
+# artist - Guns n' Roses
 
 ## members
 - Duff McKagan
-- Slash
 
 ## instruments
 - Fender Precision Bass
-- Gibson Les Paul
 

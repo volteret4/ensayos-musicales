@@ -1,5 +1,14 @@
 # artist - Mariah Carey
 
+## albums
+**Daydream (1995)** : While working on this major pop record, Mariah Carey secretly recorded a grunge album titled "Someone's Ugly Daughter" under the band name Chick, due to burnout from pop music. She wrote, produced, sang backup vocals, and directed videos for this grunge project. "In nineteen ninety five, Mariah Carey was working on her dream line album, Big Record for Her. And she was so burned out on pop that she made a grunge record in secret with a band she called Chick." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
+**Someone's Ugly Daughter (1995)** : This grunge album was secretly created by Mariah Carey in 1995 under the pseudonym Chick, while she was simultaneously working on her pop album "Daydream." Carey was responsible for writing, producing, singing backup, and directing the videos for this project, which is described as typical angsty female-fronted rock from the nineties. "The album was called Someone's Ugly Daughter. Mariah wrote, produced and sang backup. She also directed video." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
+
+## songs
+**Malibu (1995)** : This song is from the grunge album "Someone's Ugly Daughter," which Mariah Carey secretly wrote, produced, and sang backup for, under the band name Chick, due to feeling burned out on pop music. The track is characteristic of angsty female-fronted rock from the 1990s. "This is called Malibu." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
+
 ## curiosities
 **Album Sales (2005)** : In 2005, Mariah Carey's album sold 4.9 million copies, reflecting a noticeable decrease in sales compared to top-selling albums from the early 2000s. This period marked a more significant downturn in overall recorded music sales. "2005, Mariah Carey, 4.9 million." ← https://www.youtube.com/watch?v=-CT7yYXonIk
+**Dressing Room Request for Puppies** : Mariah Carey once famously included a specific request in her contract rider: her dressing room needed to be furnished with a basket of puppies. This type of request is common in contract riders, which outline requirements for artists before, during, and after a show. "Mariah Carey once insisted that her dressing room be furnished with a basket of puppies." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
+**Secret Grunge Album as "Chick"** : In 1995, while deeply involved in her "Daydream" pop album, Mariah Carey secretly recorded a grunge record, "Someone's Ugly Daughter," under the band name Chick. Feeling exhausted by pop music, she wrote, produced, sang backup vocals, and even directed videos for this project, which is noted for its quality and resemblance to typical 90s female-fronted alternative rock. "she made a grunge record in secret with a band she called Chick. The album was called Someone's Ugly Daughter." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
 

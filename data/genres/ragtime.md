@@ -1,0 +1,6 @@
+# genre - Ragtime
+
+## curiosities
+**Controversy and Reception of Ragtime (c. 1900)** : Ragtime, particularly works like Scott Joplin's "Maple Leaf Rag," was considered radical and met with significant resistance upon its emergence around 1900. Its syncopated rhythms, often in 2/4 time, sharply contrasted with the predominant waltz time of the Victorian era. A music magazine from 1900 reflected the alarm, describing ragtime as "virulent poison" akin to a "malaria's epidemic" corrupting the youth, a sentiment that also contained elements of racism. "The editors were very concerned about this whole ragtime thing. This is a quote. The counters of the music stores are loaded with the virulent poison, which in the form of malaria's epidemic is finding its way into the homes and brains of the youth to such an extent as to where Rouse won suspicions of their sanity." ← https://www.youtube.com/watch?v=_Pi7JLwAeOI
+**Origins of Ragtime (Late 1800s)** : Ragtime, an African American musical form, first appeared in St. Louis in the very late 1800s. This music was deliberately unsmooth, characterized by its syncopated or "ragged" rhythms, and served as a precursor to jazz. "Jazz was born out of a form of African American sound called Ragtime, which first appeared in St. Louis in the very late 1800s." ← https://www.youtube.com/watch?v=_Pi7JLwAeOI
+

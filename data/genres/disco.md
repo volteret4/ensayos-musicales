@@ -1,5 +1,9 @@
 # genre - Disco
 
 ## curiosities
+**Bubble Burst Impact (Early 1980s)** : The bursting of the disco bubble at the dawn of the 1980s was a significant factor contributing to the record industry's first major sales crisis, as it caused record sales to go into "free fall." "At the dawn of the 80s, the disco bubble had burst and record sales were suddenly in free fall for the first time." ← https://www.youtube.com/watch?v=2RKchFW42Jc
+**Late 70s/Early 80s Bubble Burst** : The "disco bubble" burst as the 1970s turned into the 1980s, contributing to the recorded music industry's worst downturn since the 1930s and prompting an industry shift towards cheaper-to-produce New Wave acts. "As the 70s turned into 80s, the disco bubble burst, sending the recorded music industry into its worst downturn since the 1930s." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
 **Mini-Moog's Prominence** : The Mini-Moog synthesizer is considered the most famous synth in history due to its extensive use across a wide array of genres, including disco. Its unique sounds and portability made it highly desirable for musicians seeking innovative textures. "I think it's the most famous synth in history given how much it was used in rock, pop, disco, funk, R&B, and jazz." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
+**Perception of Emptiness** : At the end of the 1970s, disco was widely perceived by "cool" people as lightweight, vacuous, and empty, in contrast to the perceived authenticity and intellectualism of New Wave. "there was disco, which no cool person ever admitted to liking. It was just vacuism empty." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
+**R&B Expansion** : Disco emerged as an expansion of R&B's main sounds post-1978, alongside the rapid mutation of funk and soul. "R&B's main sounds, which included fun console, began mutating even faster, expanding to include disco, and within a year, hip hop." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
 

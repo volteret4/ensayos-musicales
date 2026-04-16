@@ -3,10 +3,13 @@
 ## members
 - Chuck Mosley
 - Courtney Love
+- Jim Martin
 - Mike Patton
 
 ## genres
 - Alternative
+- Alternative Hard Rock
+- Alternative Metal
 
 ## albums
 **Introduce Yourself (1987) – Second Album** : Faith No More's second album, released in 1987, was on a slightly bigger label than their debut. It also featured Chuck Mosley on vocals, and included the song "We Care A Lot". "The first was an indie record called We Care A Lot in 1985, and the second was on a slightly bigger label entitled Introduce Yourself in 1987." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
@@ -18,7 +21,10 @@
 
 ## curiosities
 **90s Alternative Success** : With Mike Patton as the new singer, Faith No More's 1989 album featuring Patton's lyrics was released in June, received Grammy nominations, and within a year, the band became a prominent fixture on video channels, achieving early success in the alternative 90s. "And within a year, Faith No More was all over the video channels, and we're on their way to becoming one of the biggest early successes of the alternative 90s." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
+**Champion Pumpkin Grower** : Jim Martin is recognized as one of the most successful growers of champion pumpkins in the United States. "Jim Martin used to be a member of Faith No More is one of the greatest growers of champion pumpkins in all the United States." ← https://www.youtube.com/watch?v=xc85sLj0Cnk
 **Chuck Mosley's Erratic Behavior** : While Chuck Mosley was the frontman for the band's first two albums, his behavior became increasingly problematic. He got into fights with other band members, sometimes even on stage. He had his own roadies who also fought with the band's roadies. Incidents included falling asleep on stage and insisting the band only perform acoustic bass songs, which led to the other members losing "faith" in him and quitting. "Then there was the time he fell asleep on stage, and then he got it into his head that all the band should do is acoustic bass songs, and that's when everybody around him in Faith No More had no more faith." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
+**Comeback in Alternative Metal** : Faith No More was mentioned as an older group that made a comeback in the 2010s, alongside Jane's Addiction and Biohazard, within the Alternative Metal/Alternative Hard Rock scene that was prominent in the 90s. This contributed to the renewed success of heavy bands from the past. "Plus we saw comebacks from older groups like Jane's Addiction, Biohazard and Faith No More to name a few." ← https://www.youtube.com/watch?v=HSvgRyGiOpE
+**Courtney Love Briefly Auditioned (1983); Chuck Mosley Fired After Falling Asleep at Showcase; Mike Patton Took Over** : Faith No More evolved from a band called Sharp Young Men, eventually cycling through several singers, including an approximately 20-minute audition by Courtney Love sometime in 1983. Chuck Mosley served as singer from 1983 and recorded their first two albums, but was fired in 1988 after getting into fights with bandmates and roadies, refusing to do anything but acoustic sets, and — most critically — falling asleep on stage during an important showcase performance. His replacement was Mike Patton, who fronted the band for 10 years (1988–1998) and again from 2009 onward. "Epic" remains their biggest song, from Patton's first album with them. "He actually fell asleep on stage during an important showcase event." ← https://www.youtube.com/watch?v=l0F22NTnQzQ
 **Early Singer Changes** : By 1983, the band, originally named Sharp Young Men, changed their name to Faith No More and brought in Chuck Mosley as singer. Mosley had replaced Courtney Love, who was part of the group for approximately 15 minutes. "He replaced a woman named Courtney Love, yes her, who was part of the group for about 15 minutes." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
 **Mike Patton Joins** : After Chuck Mosley's departure, the remaining members reconvened and approached Mike Patton, who was the singer for Mr. Bungle and had met Faith No More in 1986. Patton joined as lead singer by January 1989, and promptly wrote all the lyrics for their next album in two weeks. "After the Mosley Fiasco, he was approached to become the lead singer, and by January 1989, he was in." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
 

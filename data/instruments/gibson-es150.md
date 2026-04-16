@@ -1,0 +1,6 @@
+# instrument - Gibson ES150
+
+## curiosities
+**Bar Pickup Design** : The Gibson ES150 utilized a bar pickup, characterized by its long, hexagon shape. This pickup was uniquely positioned under the strings, rather than over them, which prevented interference with the player's performance. "It used what was known as a bar pickup. It had a long hexagon shape. Unlike other guitars, this pickup set under the strings not over the top, which tended to interfere with playing the instrument." ← https://www.youtube.com/watch?v=E6cXyaHALBQ
+**Priced Package for Amplified Performance** : The Gibson ES150 electric guitar, including a chord, cost $72.50. A complete package, which included an amplifier and case, was priced at $155, equivalent to almost $3,000 in contemporary money. This cost was justified by its ability to finally compete in volume and intensity with loud instruments like the saxophone, marking a profound influence on music. "It cost $72.50 with a chord. If you wanted an amp in a case, the package was $155. That's almost $3,000 in today's money. But it was worth it because for the very first time, an electric guitar could compete in volume and intensity with a saxophone, probably the loudest instrument of the day. It began to have a profound influence on music." ← https://www.youtube.com/watch?v=E6cXyaHALBQ
+

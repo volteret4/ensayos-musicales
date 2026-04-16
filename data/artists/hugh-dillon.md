@@ -1,0 +1,19 @@
+# artist - Hugh Dillon
+
+## member of
+- Headstones
+- The Headstones
+
+## members
+- The Headstones (singer)
+
+## curiosities
+**Early Connection to The Slinks and Gord Downie** : Served as Gord Downie's "light guy" for his first high school band, The Slinks. Dillon later briefly joined The Slinks as a singer after Downie moved on. "I was Gordowney's light guy at the first high school dance where his band called the slinks performed." ← https://www.youtube.com/watch?v=y7kmkWJ54ww
+**Exile to England** : Following a violent confrontation related to his drug activities and a brush with the law, Dillon's parents gave him an ultimatum to leave Kingston, which he signed an agreement not to return to for several years. He traveled to England, his first time on a plane or subway, where he busked, squatted, and famously drank with Lemmy from Motörhead, resolving to pursue music instead of a life of crime. "So I got on a plane. I went to England, never been on a plane in my life, never been on a subway." ← https://www.youtube.com/watch?v=y7kmkWJ54ww
+**High School Friendship with Gord Downie** : Dillon and Gord Downie shared a strong mutual respect stemming from high school, where they were in the same classes (including dramatic arts) due to their names starting with 'D'. They would jokingly compare Downie's band rehearsals to Dillon's drug exploits. "Gordie and I had always had a mutual respect because in high school it was Dylan Downey, so we were in one of the same classes and the same dramatic arts class because our names started with D." ← https://www.youtube.com/watch?v=y7kmkWJ54ww
+**Kingston Upbringing and Early Influences** : Grew up in Kingston, sharing high school with future members of The Tragically Hip and David Usher. He struggled academically but was intensely drawn to rock and roll, absorbing music from his older siblings and becoming a huge Bob Dylan fan. "I remember being 18 and I grew up in Kingston with David Usher and the guys in the hip. We all went to the same high school." ← https://www.youtube.com/watch?v=y7kmkWJ54ww
+**Musical Development in England** : While in England, Dillon honed his songwriting skills and gained confidence performing covers and his own music on the streets, a period crucial to his development as a frontman and lyricist. "I'd learned to write songs and play on the street in England. And I was playing covers and stuff. So I had no compunction in terms of playing my own music." ← https://www.youtube.com/watch?v=y7kmkWJ54ww
+**Obsessive Record Collector and Musical Knowledge** : Dillon developed an extensive and "crazy" knowledge of rock and roll by obsessively collecting and listening to records for what he estimates as "10,000 hours." This deep immersion in music, including guitar licks and lyrics, allows him to identify and appreciate unique musical elements from his bandmates. "I grew up just obsessively listening to records. I was a record collector and I had crates of them." ← https://www.youtube.com/watch?v=y7kmkWJ54ww
+**Past Involvement in Drug Dealing** : In his youth, Dillon engaged in drug dealing, including selling LSD to Gord Downie and cocaine. At 18, he was trafficking large quantities of marijuana (10 pounds at a time) between Ottawa and Kingston, selling to university students, a path he recognized could lead to prison. "My drug career blew up in my face... I was going 10 pounds a dope at a time and bringing it back to Kingston." ← https://www.youtube.com/watch?v=y7kmkWJ54ww
+**Portrayal of Joe Dick in "Hardcore Logo"** : Hugh Dillon played the character Joe Dick, who was the singer and songwriter for the fictional band Hardcore Logo in the 1996 movie "Hardcore Logo." He received credit alongside Swamp Baby for the Genie Award-winning song "Who the Hell Do You Think You Are." "Hugh Dylan, who plays the character Joe Dick, and Swamp Baby." ← https://www.youtube.com/watch?v=Yl2poVWguu0
+

@@ -1,0 +1,3 @@
+# curiosity
+
+**Hannah's Affinity for Punk Rock and Underground Music** : Hannah, the victim profiled in the episode, cultivated a distinct personal identity rooted in punk rock culture. Her body became a "canvas of ink and water" after getting her first tattoo at 16, with some of these designs drawing inspiration from her "infatuation of punk rock." She explicitly identified as "a punk," which informed her choice of avoiding "preppier clothes," and her musical tastes leaned towards "anything that's more obscure and underground," favoring sounds that were "loud and not mainstream." "Some are inspired by her infatuation of punk rock."

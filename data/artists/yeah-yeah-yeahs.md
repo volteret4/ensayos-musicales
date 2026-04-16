@@ -1,5 +1,8 @@
 # artist - Yeah Yeah Yeahs
 
+## members
+- Karen O
+
 ## genres
 - Guitar-based Rock
 - Indie Rock

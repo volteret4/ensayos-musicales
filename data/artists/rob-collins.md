@@ -1,5 +1,8 @@
 # artist - Rob Collins
 
+## member of
+- The Charlatans UK
+
 ## instruments
 - Hammond B3
 

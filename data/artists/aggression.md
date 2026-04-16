@@ -1,0 +1,5 @@
+# artist - Aggression
+
+## genres
+- Nardcore
+

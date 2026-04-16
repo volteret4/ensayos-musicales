@@ -1,0 +1,8 @@
+# artist - Grateful Dead
+
+## curiosities
+**Deodorant with "Matured" Scent as Merchandise** : The Grateful Dead offered a unique merchandise item in 2020: deodorant that reportedly smelled like "matured." "Grateful dead deodorant. And yes, it does smell like matured." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
+**Featured in Apple Commercials** : The Grateful Dead's music has been used in Apple commercials, highlighting the company's diverse approach to selecting artists for its iPod and iPhone advertising campaigns. ← https://www.youtube.com/watch?v=sfie4YYncxk
+**Grateful Dead Designated Taping Zones (1984) – First Major Band to Officially Allow Fan Recording** : After years of tolerating the tape-trading community that had formed around their unique live shows, the Grateful Dead formally began allowing and even designating special taping zones at their concerts in 1984, setting a precedent for the acceptance of fan recordings. "In 1984, they began allowing and designating 'recording zones' for fans, setting a precedent." ← https://www.youtube.com/watch?v=OrHtPVBjXw4
+**Wall of Sound (1972)** : The Grateful Dead pioneered concert amplification with their "Wall of Sound" setup in 1972, which represented a significant breakthrough in modern concert sound. This system generated at least 26,000 watts, and possibly up to 30,000 watts, marking a massive leap in power and clarity for live music and establishing new standards for large-scale concert sound. "when it comes to modern day concert amplification, it was the grateful dead who really broke through with their wall of sound setup in 1972." ← https://www.youtube.com/watch?v=NAroxFbYkRw
+

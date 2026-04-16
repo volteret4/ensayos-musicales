@@ -5,6 +5,7 @@
 
 ## genres
 - Funk
+- New Wave Revival
 - Punk Funk
 
 ## curiosities

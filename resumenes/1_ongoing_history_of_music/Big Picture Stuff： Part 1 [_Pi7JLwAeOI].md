@@ -1,0 +1,127 @@
+# artist - Subhumans
+## songs
+**The Big Picture (1980)** : This song, released in 1980, was presented as setting the tone for a discussion about ultra big-picture ideas and concepts in music. "Vancouver's subhumans with the big picture from 1980."
+
+# artist - Green Day
+## songs
+**Brain Stew (Mentioned)** : This song was mentioned in the context of taking a moment to digest information about music's evolutionary origins and the hardwiring of the brain for music. "Green day and brains too."
+
+# artist - Megamath
+## songs
+**Pythagoras (Mentioned)** : This song, by the group Megamath, was played after a detailed discussion about Pythagoras's profound influence on music theory and the development of Pythagorean tuning. "I actually found a song called Pythagoras by a group called Megamath."
+
+# artist - Jack White
+## songs
+**Lazaretto (2014) - Guitar Solos with Blue Notes** : The guitar solo and lines in the second half of Jack White's song "Lazaretto" are highlighted as a modern example of "blue notes" or "bent notes" in rock music. These notes are outside conventional piano scales and embody the "natural imperfections" that Pythagoras historically aimed to eliminate from music. "Check out the solo Jack White does in his song Lazerado, as well as the guitar lines in the second half of the song."
+
+# artist - Enheduanna
+## curiosities
+**First Known Composer and Singer-Songwriter (c. 2300 BC)** : Enheduanna, a royal Sumerian woman and high priestess in the city-state of Ur, is historically recognized as the first composer known by name and the first singer-songwriter. Living around 2300 BC, she was a poet whose works were set to music as hymns for Sumerian gods at the temple, some of which she performed herself, and notably, some of her religious songs contained "dirty and sexy" content. There is no documentation of any earlier music attributed to a specific composer. "So as far as history is concerned, Enhead Dwana was the first ever singer songwriter."
+
+# artist - Sappho
+## instruments
+lyre
+## curiosities
+**Pioneer of Lyric Poetry and Love Songs (Ancient Greece)** : Sappho, a poet from the Greek island of Lesbos, challenged ancient conventions which restricted music to religious rituals, lamentations, or praising men. She wrote lyric poetry specifically intended to be sung, typically accompanied by a lyre, and became known as a symbol of love and desire between women, giving rise to the terms "sapphic" and "lesbian." While much of her work has been lost, it is unknown if she performed her own compositions. "She wrote lyric poetry, which was supposed to be sung in a company by someone on a lyre."
+
+# artist - Luscious Jackson
+## members
+Kate Schellenbach
+## songs
+**Daughters of the Chaos (1992)** : This song, released in 1992, features Kate Schellenbach on drums. Its inclusion honored the ancient tradition of women as humanity's first drummers, highlighting the historical significance of women in percussive music. "Here she is playing with Luscious Jackson. This is Daughters of the Chaos from 1992."
+
+# artist - Kate Schellenbach
+## member of
+Luscious Jackson
+Beastie Boys
+## instruments
+drums
+## curiosities
+**Early Beastie Boys Member and Multi-Award-Winning Producer** : Kate Schellenbach is a drummer who was an early member of the Beastie Boys before their ascent to widespread fame. Beyond her musical contributions to bands like Luscious Jackson, she has forged a successful career in television production, including winning an Emmy Award as a segment producer on *The Ellen DeGeneres Show* and serving as a producer for *The Late Late Show with James Corden*. "She was once part of the Beastie Boys before they took off."
+
+# artist - Scott Joplin
+## instruments
+piano
+## songs
+**Maple Leaf Rag (1899)** : This ragtime composition, written by African American pianist Scott Joplin in 1899, played a pivotal role in Western music's "Great Metric Shift" from 3/4 to 4/4 time. Its highly rhythmic, syncopated, and choppy style, often in 2/4 time, was considered radical for its era, contrasting with the prevailing waltz-time music of the Victorian age. "That's called Maple Leaf Reg, written in 1899 by an African American pianist named Scott Joplin."
+
+# artist - Pearl Jam
+## albums
+**Lightning Bolt (2013)** : This album, released in 2013, includes the song "Let The Records Play." The album and song were mentioned in the context of the history of vinyl records and the band's frontman, Eddie Vedder, being a "hardcore vinyl fan." "Hardcore, vinyl fan, Eddie Vetter, with Pearl Jam and Let The Records Play from the Lightning Bold album from 2013."
+## songs
+**Let The Records Play (2013)** : This song from the 2013 album *Lightning Bolt*, performed by Pearl Jam and featuring Eddie Vedder, was played following a segment detailing the historical shift from shellac to vinyl records and the subsequent growth of the recorded music industry. "Hardcore, vinyl fan, Eddie Vetter, with Pearl Jam and Let The Records Play from the Lightning Bold album from 2013."
+
+# artist - Eddie Vedder
+## member of
+Pearl Jam
+## curiosities
+**Hardcore Vinyl Fan** : Eddie Vedder, frontman for Pearl Jam, is noted as a "hardcore vinyl fan." This detail was highlighted when his band's song "Let The Records Play" was featured after a discussion about the invention and significant impact of vinyl records on the music industry. "Hardcore, vinyl fan, Eddie Vetter, with Pearl Jam and Let The Records Play from the Lightning Bold album from 2013."
+
+# genre - Blues
+## curiosities
+**Origins of Blues and Blue Notes (c. 1870s)** : The blues genre emerged from the US Deep South around the 1870s, following the end of slavery, drawing from slave work songs, spiritual music, and African musical traditions. It is characterized by "blue notes," which are pitches that fall between the accepted tones found on a conventional piano keyboard, also known as "bent notes." These notes represent the kind of "natural imperfections" that Pythagoras sought to eliminate from music, favoring discrete tones, while blues players embraced them. "The blues came out of the deep south beginning in about the 1870s following the end of slavery."
+**Development and Spread of Blues (c. 1870-1950s)** : Concurrently with jazz, the blues developed in the US South, with roots as early as 1870, becoming widely heard by 1901-1902, facilitated by gramophones and phonographs. Simpler in arrangement than jazz, often requiring little more than a guitar and a voice, blues found its base in "Jukejoints," African American gathering places for music, dance, and drink. These venues formed the "Chitlin Circuit," a touring network for musicians stretching from Florida to New York City's Apollo Theater and Cotton Club. The blues fused with country, western, and hillbilly music, leading to the birth of rock'n'roll by the early 1950s. "And by the early 1950s, we have a descendant called Rock'n'Roll."
+
+# genre - Ragtime
+## curiosities
+**Origins of Ragtime (Late 1800s)** : Ragtime, an African American musical form, first appeared in St. Louis in the very late 1800s. This music was deliberately unsmooth, characterized by its syncopated or "ragged" rhythms, and served as a precursor to jazz. "Jazz was born out of a form of African American sound called Ragtime, which first appeared in St. Louis in the very late 1800s."
+**Controversy and Reception of Ragtime (c. 1900)** : Ragtime, particularly works like Scott Joplin's "Maple Leaf Rag," was considered radical and met with significant resistance upon its emergence around 1900. Its syncopated rhythms, often in 2/4 time, sharply contrasted with the predominant waltz time of the Victorian era. A music magazine from 1900 reflected the alarm, describing ragtime as "virulent poison" akin to a "malaria's epidemic" corrupting the youth, a sentiment that also contained elements of racism. "The editors were very concerned about this whole ragtime thing. This is a quote. The counters of the music stores are loaded with the virulent poison, which in the form of malaria's epidemic is finding its way into the homes and brains of the youth to such an extent as to where Rouse won suspicions of their sanity."
+
+# genre - Jazz
+## curiosities
+**Evolution and Cultural Dominance of Jazz (Late 1800s - Mid-1950s)** : Jazz was born out of Ragtime, first appearing in St. Louis in the very late 1800s and developing further as an offshoot in New Orleans, particularly among African Americans. Characterized by its syncopated rhythms, jazz quickly became the music that drove American culture, maintaining this prominent role until the mid-1950s. "And that was jazz, which became the music that drove American culture until the mid-1950s."
+**Decline of Big Band Jazz and Rise of R&B (1920s-1950s)** : Throughout the 1920s and 1930s, jazz was primarily performed by "big bands," which could comprise up to 20 or more players. However, these large ensembles became expensive to maintain, especially with the onset of the Depression, World War II (which drew musicians to war), and a paralyzing US musician strike from 1942-1944 that shut down the recording industry. Post-war labor shortages further impacted musician availability, forcing groups to downsize to 4-6 players. This led to the emergence of less danceable bebop, while others began to emphasize rhythm and beat, leading to the emergence of rhythm and blues (R&B) by the late 1940s, setting the stage for rock in the 1950s. "And by the late 1940s, this became known as rhythm and blues."
+**Jazz's Role in Popularizing 4/4 Time** : As ragtime evolved into jazz, jazz players expanded the common 2/4 time signature of ragtime into 4/4 time. With jazz becoming the primary driver of culture, at least in a musical sense, four four time took over. And now more than 90% of music, maybe even more, is in four four time. "As ragtime begat jazz, jazz players expanded that two beats per bar into four beats per bar."
+
+# genre - Rhythm and Blues
+## curiosities
+**Emergence of Rhythm and Blues (Late 1940s)** : Rhythm and Blues (R&B) emerged in the late 1940s as big jazz bands downsized due to economic pressures, wartime, and musician strikes. Smaller groups began to emphasize rhythm and beat, contrasting with the less danceable bebop. This new focus, combined with influences from country, western, hillbilly, and traditional blues, created the fertile ground for the birth of rock in the 1950s. "And by the late 1940s, this became known as rhythm and blues."
+
+# genre - Rock'n'Roll
+## curiosities
+**Birth of Rock'n'Roll (1950s)** : Rock'n'Roll emerged in the 1950s from a confluence of musical developments, including the evolution of rhythm and blues from jazz, and its fusion with country, western, hillbilly, and traditional blues music. This new genre was a direct descendant of the blues, its genesis ultimately linked to the Great Migration and the abolition of slavery. "Add in country, western, hillbilly, and traditional blues, and you have the conditions for the birth of rock in the 1950s."
+
+# label - Columbia Records
+## curiosities
+**Pioneering Vinyl Records in Response to Shellac Crisis** : In response to the 1940s shellac shortage caused by World War II, Columbia Records tasked its chief engineer, Dr. Peter Goldmark, with finding a substitute material for phonograph records. Goldmark's team developed a solution using polyvinyl chloride (vinyl), an artificial substance previously used for sewer pipes in the 1920s. Vinyl proved more durable and allowed grooves to be cut closer together, increasing music capacity fivefold compared to 78 RPM shellac discs, thus catalyzing the recorded music industry's transformation into a multi-billion-dollar business with the introduction of 12-inch 33 1/3 RPM LPs and 7-inch 45 RPM singles. "This is where Columbia records stepped in with their chief engineer, a guy by the name of Dr. Peter Goldmark."
+
+# instrument - Lyre
+## curiosities
+**Accompaniment for Ancient Lyric Poetry** : The lyre was an instrument commonly used to accompany lyric poetry in ancient times. Sappho, a Greek poet from Lesbos, wrote lyric poetry specifically intended to be sung in company by someone playing a lyre, demonstrating its integral role in the performance of early poetic and musical works. "She wrote lyric poetry, which was supposed to be sung in a company by someone on a lyre."
+
+# instrument - Drum
+## curiosities
+**Women as Humanity's First Formalized Drummers (c. 3000 years ago)** : The drum, identified as the oldest instrument known to humans, was primarily associated with women in ancient times, roughly 3,000 years ago. Carvings, paintings, and sculptures from ancient Egypt (around the time of the pyramids), Mesopotamia (including Sumeria), Ancient Greece, and Ancient Israel depict women as crucial drummers, entrusted with keeping the beat for music designed to induce religious and mystical trance states. Over centuries, men gradually took over the instrument, transforming it into a military tool for battle, thereby moving women away from their historical role. "The main picture, though, is that women were humanity's first formalized drummers."
+
+# instrument - Knife
+## curiosities
+**Knife as a Musical Instrument in Blues** : One of the earliest and most effective methods to create "blue notes" or "bent notes" in blues music was to use a knife on the fretboard of a guitar to bend the strings. This technique allowed musicians to produce sounds outside conventional scales, a practice Pythagoras would have disapproved of, and subsequently spread from blues to jazz, R&B, and rock, becoming an integral part of modern music. "What are the earliest and most effective ways to conjure up these blue notes, these notes that weren't notes, was to use a knife on the fretboard of a guitar to bend the strings."
+
+# instrument - Broken Bottle
+## curiosities
+**Broken Bottle as a Musical Instrument in Blues** : A broken bottle served as an improvised but effective tool for blues musicians to create "blue notes" or "bent notes" on a guitar fretboard. Used as an alternative when a knife was unavailable, this method allowed for string bending and the production of sounds outside conventional scales, contributing significantly to the distinctive sound of blues, jazz, R&B, and rock. "If a knife wasn't available, well then a broken bottle would do."
+
+# instrument - Vinyl Record
+## curiosities
+**From Shellac Crisis to Multi-Billion Dollar Industry** : The vinyl record, made from polyvinyl chloride, revolutionized the music industry after its introduction as a substitute for shellac during the World War II shortage. Developed by Dr. Peter Goldmark and Columbia Records, vinyl proved more durable and allowed for closer-cut grooves, increasing music capacity fivefold over 78 RPM shellac discs. The subsequent introduction of the 12-inch 33 1/3 RPM LP and the 7-inch 45 RPM single propelled the recorded music industry into a multi-billion-dollar enterprise. "Vial proved to be much more durable for phonograph records, and because the grooves could be cut so much closer together, these records could hold five times the amount of music per side than an old 78 RPM shellac disc."
+
+# curiosity
+
+**Connections TV Show (1970s)** : The BBC premiered a show called 'Connections' in the 1970s, starring science historian James Burke. Over about 20 years and 70 shows, Burke demonstrated how seemingly unconnected scientific achievements, discoveries, and historical events were actually deeply interconnected, forming the basis of modern society, technology, and medicine. "Burke showed how seemingly unconnected scientific achievements and discoveries made it with historical events. And it turns out that they were actually connected, but not in ways you'd have ever expected."
+**Evolutionary Purpose of Music - Mating** : Charles Darwin theorized that human appreciation for music might be linked to the mating calls of birds and other animals, suggesting that the brain's music centers are connected to the species' need for reproduction. This theory aligns with the observation that nearly 90% of all songs ever written are related to love or sex. "He thought human appreciation of music might somehow be related to the mating calls of birds and other creatures."
+**Evolutionary Purpose of Music - Raising Young** : Another theory suggests music evolved from the need to raise young, specifically through lullabies. Anthropologists have found no societies that do not use lullabies to calm babies, which serves as a survival mechanism by preventing crying that could alert predators to vulnerable infants. "Anthropologists have yet to find any societies that don't use lullabies to calm babies and to stop them from crying."
+**Evolutionary Purpose of Music - Collective Voice** : Early humans used music as a collective voice to bring individuals together during times of celebration, sadness, rituals, and war. This function helped foster community and cohesion within early human tribes. "It brought individuals together in time of celebration and sadness for rituals and for war."
+**Evolutionary Purpose of Music - Preserving Stories** : Before written language existed, music was crucial for preserving ancient stories, myths, folk tales, and histories across thousands of generations. Setting important cultural information to music allowed it to be stored and passed down, aiding the survival of cultures from early human migrations out of Africa through ancient Roman and Greek civilizations. "It's now thought that myths and folk tales and histories managed to survive for so many years because they were stored and passed down as songs."
+**Summary of Music's Evolutionary Roles** : Music evolved to hold a special place in the human brain due to its multiple crucial roles in survival and cultural development: facilitating mating, serving as a survival mechanism for protecting infants via lullabies, uniting tribes, and preserving cultural stories and history before the advent of written language. "Music therefore evolved in a special place in our brains because we needed to mate. We needed to keep our babies from turning us all into food. We needed to bring the tribe together and we needed to preserve our stories and thus our culture."
+**Pythagoras and the Institutionalization of Music (c. 570 BC)** : Pythagoras, known for his mathematical contributions, is considered arguably the most important figure in the history of music for institutionalizing musical sounds. Around 570 BC, he sought to bring order to the unconstrained and undefined state of music, using math and science to coordinate and confine musical notes and tuning. His work forms the basis for distinguishing melody from noise and underpins virtually all music today. "But Pythagoras was also arguably the most important person in the history of music."
+**Pythagorean Tuning System** : Pythagoras developed a fundamental tuning system based on mathematical ratios by experimenting with string lengths. He observed that a string half the length of another produced a tone exactly twice as high, leading to the organization of tones using a 3:2 ratio. This mathematically pure system became the foundational method for tuning instruments and composing Western music, influencing intonations and scales. "And Pythagorean tuning became the basis for tuning instruments and thus composing music."
+**Pythagorean Tuning in Western Music History** : Pythagorean tuning was the dominant and almost exclusive method for tuning Western music from around 570 BC until the early 1500s. Although Western music began to experiment with and move beyond this tuning by the 1800s, Pythagoras's foundational argument that music should be based on mathematics profoundly influenced all subsequent musical development, laying the groundwork for the music listened to today. "In fact it was pretty much the only accepted way of tuning for Western music until the beginning of the 1500s."
+**Non-Pythagorean Musical Systems** : Not all cultures adopted Pythagoras's mathematically precise system of organizing music. Many cultures, including those in Africa, the Indian subcontinent, China, and more recently the US South, utilized notes that fell between Pythagoras's "perfect" natural ratios, indicating a broader approach to musical intonation. "Other cultures were fond of using the notes between Pythagoras' perfect natural ratios."
+**The Great Migration and the Birth of Jazz and Blues (1910-1940)** : The Great Migration, occurring between 1910 and 1940, saw approximately 2 million African Americans move from the impoverished, racially discriminatory US South to the Midwest and Northeast, enabled by the expanding railroad system. This mass movement followed the abolition of slavery in 1865 by the 13th Amendment and years of living under Jim Crow laws. As they settled in cities like Memphis, St. Louis, Chicago, and Detroit, they brought their rich cultural traditions, including work songs, spirituals, gospel, and African musical influences, which collectively led to the birth of jazz and the blues. "And this led to the birth of two extremely important musical genres, jazz and the blues."
+**The 13th Amendment's Indirect Role in Rock and Roll** : The ratification of the 13th Amendment, which outlawed slavery on December 16, 1865, set in motion a chain of events that profoundly influenced American music. It enabled the Great Migration of African Americans from the South to the North in the early 20th century, which in turn fostered the cultural conditions for the birth of genres like blues and jazz, ultimately leading to the rise of rock and roll in the 1950s. "All that, the rise of rock and roll, began with the great migration of the early 20th century, which was made possible by the ratification of the 13th Amendment, outlawing slavery on December 16th, 1865."
+**Human Preference for 120 BPM Tempo** : Across various cultures globally, humans exhibit a consistent preference for music played at a tempo of 120 beats per minute. This tempo is exemplified by popular songs such as Journey's "Don't Stop Believin'," Adele's "Rumor Has It," and Bon Jovi's "It's My Life." "Studies around the world of various cultures point to the fact that humans display a preference for music played at a tempo of 120 beats per minute."
+**Human Preference for 4/4 Time Signature** : Humans generally prefer songs written in 4/4 time, which is characterized by a "one, two, three, four" beat. This time signature is fundamental to many popular genres and is widely recognized as the standard dance beat, rock beat, and disco beat. "We also prefer songs written in 4 or 4 times."
+**The Great Metric Shift to 4/4 Time (c. 1910)** : Prior to 1900, the most popular time signature in Western music was 3/4 time, or waltz time, exemplified by songs like "The Star-Spangled Banner" or "Take Me Out to the Ball Game." However, around 1910, a significant change known as the "Great Metric Shift" occurred, moving Western music's preference from 3/4 to 4/4 time. Musicologists largely credit ragtime, with its highly rhythmic, syncopated, and choppy nature, as the primary catalyst for this fundamental shift in musical rhythm. "But then, about 120 years ago, western music underwent something that might be called the Great Metric Shift."
+**World War II Shellac Crisis and Record Shortage (1940s)** : The Japanese invasion of the Malay Peninsula on December 8, 1941, severely impacted the recording industry by cutting off the world's primary supply of shellac. Shellac, derived from the waxy resin secreted by female lac bugs found in the region (modern-day Malaysia, Thailand, Myanmar, Singapore), was a crucial component (one-third) of phonograph records in the 1940s, alongside minerals, cotton fibers, and carbon. This interruption led to a significant record shortage, forcing consumers to trade in old records to acquire new ones. "But because the Meile Peninsula was now under hostile control by the Japanese Imperial Army, the world's supply of raw materials for shellac, and therefore records, was shut down."
+**American Musician Strike (1942-1944)** : The American musician strike, lasting from 1942 to 1944, significantly pressured the music industry by effectively shutting down the recording industry during that period. This strike exacerbated an already challenging environment for music production, occurring concurrently with the shellac shortage caused by World War II. "There was also a paralyzing musician strike in the US that lasted from 1942 to 1944, which pretty much shut down the recording industry."
+**Dr. Peter Goldmark and the Invention of Vinyl Records** : Dr. Peter Goldmark, chief engineer for Columbia Records, spearheaded the development of vinyl records in the 1940s. Faced with a shellac shortage due to World War II, Goldmark's team innovated by using polyvinyl chloride (vinyl), a material previously used for sewer pipes, as a record substrate. This groundbreaking invention led to more durable records that could hold five times more music per side than shellac discs, fundamentally transforming the recording industry with the introduction of the LP and single formats. "This is where Columbia records stepped in with their chief engineer, a guy by the name of Dr. Peter Goldmark."

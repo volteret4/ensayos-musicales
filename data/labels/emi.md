@@ -1,0 +1,9 @@
+# label - EMI
+
+## curiosities
+**Formation from Gramophone Company Merger (1931)** : EMI (Electrical and Musical Industries) was formed in 1931 through the merger of the Gramophone Company (which owned the HMV label and stores) and another recorded music manufacturer. "Ten years later, there was a merger between the gramophone company and another recorded music manufacturer, resulting in electrical and musical industries, henceforth known as EMI." ← https://www.youtube.com/watch?v=jD1dWxNLvfE
+**Former Label of Red Hot Chili Peppers** : EMI Records was the previous record label for the Red Hot Chili Peppers before they switched to Warner for their "Blood Sugar Sex Magik" album in 1991. "First of all, the Chili Peppers switch labels moving from EMI to Warner." ← https://www.youtube.com/watch?v=TESrEzVHLCc
+**Fun Lovin' Criminals Signing** : Fun Lovin' Criminals were signed to a deal with EMI after being discovered performing in a club. "On one of these occasions, they were noticed by a record guy who signed them to a deal with EMI." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M
+**MusicNet (Failed Online Music Store)** : EMI was one of the labels involved with "MusicNet," an early online music store created by major labels in an attempt to sell digital files. Similar to its competitor, this service was difficult to use, featured restrictions, and was loaded with complicated digital rights management (DRM) safeguards. It hung on longer than its competitor but was eventually sold off for parts in 2005. "MusicNet, which handled BMG, EMI and Warner." ← https://www.youtube.com/watch?v=nX8uAFDzDYM
+**Sex Pistols Initial Record Deal** : The Sex Pistols were initially signed to EMI Records, but their record deal was short-lived as they were "booted off" the label. This marked the beginning of their difficulties in securing stable record contracts. "They were first signed to EMI but they were booted off." ← https://www.youtube.com/watch?v=zWNzlSxrj6s
+
