@@ -1,7 +1,7 @@
 import os
 import shutil
 from google import genai
-from google.genai.errors import ClientError
+from google.genai.errors import ClientError, ServerError
 from sops_env import load_sops_env
 import requests
 import time
@@ -36,7 +36,7 @@ def _generate_with_retry(prompt, diferencia, max_retries=5):
                 model='gemini-2.5-flash', # Actualizado a la versión estable actual
                 contents=prompt
             )
-        except ClientError as e:
+        except (ClientError, ServerError) as e:
 
             # Extraemos el código de error independientemente de si es Client o Server
             code = getattr(e, 'code', None) or getattr(e, 'status_code', None)
