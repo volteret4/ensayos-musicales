@@ -1,5 +1,12 @@
 # instrument - Guitars
 
 ## curiosities
+**Decline in Sales (Late 90s)** : In the late 1990s, guitar sales "dropped" significantly, a phenomenon attributed to the exploding DJ culture and the rise in popularity of turntables. "DJ culture was exploding. Guitar sales had dropped." ← https://www.youtube.com/watch?v=amHre9ZZFkU
+**Madchester Sound Component** : Guitars were "reintroduced" into the acid house-inspired Manchester sound, leading to "jangly guitars" as a key component of the Madchester aesthetic. "what if you took the attitude of acid house and reintroduced proper guitars?" ← https://www.youtube.com/watch?v=DSvoppf1dGY
+**Oasis's "Guitar Pop"** : Oasis's sound was characterized as "guitar pop," emphasizing the prominence and loudness of their guitar arrangements, comparable to punk bands but with added groove and melody. "This was guitar pop as loud as anything the sex pistols or the clash had done, but with much more of a groove and with more melody." ← https://www.youtube.com/watch?v=DSvoppf1dGY
+**Oasis's Overproduction on *Be Here Now*** : The *Be Here Now* album by Oasis was criticized for being "too thick with unnecessary layers of guitars," which contributed to its "shrill" sound. "The songs were too long, the melodies uninspired, and the record was just too thick with unnecessary layers of guitars." ← https://www.youtube.com/watch?v=5q5EnZj1FwE
+**Post-Grunge Tuning** : In Post-Grunge, guitars were tuned "not too nearly as low" as they typically were in Grunge, reflecting a slightly different sonic aesthetic. "The guitars are too nearly as low." ← https://www.youtube.com/watch?v=amHre9ZZFkU
+**Sharp and Thin Sound in Goth Music** : Early Goth music was characterized by guitars that produced a "sharp and thin" sound. "The guitars were sharp and thin while the singing could be almost operatic at times." ← https://www.youtube.com/watch?v=gd9sO7c3N1s
 **Shoegaze Characteristics** : In shoegaze music, guitars were often described as "droning" and "distorted," played through various effects pedals to create layers of sound, contributing to the genre's immersive sonic textures. "droning, distorted guitars, running through all kinds of effects pedals" ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
+**Suede's Distinctive Sound** : Suede's `Metal Mickey` featured "sharp, slashing guitars" and "Glam guitars," which were part of their distinct sound that celebrated 70s and 80s eccentric English rock. "those sharp, slashing guitars, the gladness of it all, and the undisguised accent." ← https://www.youtube.com/watch?v=5q5EnZj1FwE
 

@@ -15,6 +15,7 @@
 **Greetings from LA (1972)** : This album features the song "Sweet Surrender." "This is from a 1972 album entitled Greetings from LA, and the song is Sweet Surrender." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
 
 ## songs
+**Song to the Siren** : This song was famously covered by This Mortal Coil on their 1984 album "It'll End in Tears," with their version becoming a popular track that spent two years on the UK Indie charts. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 **Sweet Surrender (1972)** : This song is featured on Tim Buckley's 1972 album, *Greetings from LA*. "This is from a 1972 album entitled Greetings from LA, and the song is Sweet Surrender." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
 
 ## curiosities

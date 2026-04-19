@@ -1,6 +1,7 @@
 # artist - Rob Baker
 
 ## member of
+- Rick and the Rodent S
 - The Tragically Hip
 
 ## instruments

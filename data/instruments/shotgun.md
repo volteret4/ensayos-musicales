@@ -1,0 +1,8 @@
+# instrument - Shotgun
+
+## curiosities
+**Absence of Fingerprints (1994)** : A forensics report dated May 6, 1994, by senior ID technician T. Geronimo, stated that no legible fingerprints were found on the shotgun associated with Kurt Cobain's death, despite four cards of latent prints being lifted. "The four cards of lifted latent prints contain no legible prints." ← https://www.youtube.com/watch?v=sKWgbxk46eM
+**Disputed Marks on Hands (1994)** : Police reports claimed that "Marks Fund" on Kurt Cobain's hands were consistent with the firing of a Remington M11 shotgun. However, Detective Tom Grant stated he was unable to duplicate these results with his own M11, casting doubt on the consistency. "the Marks Fund on Kurt's hands were consistent with the firing of a Remington M11 shotgun." ← https://www.youtube.com/watch?v=sKWgbxk46eM
+**Loaded with Three Shells (1994)** : The shotgun found with Kurt Cobain was loaded with three shells. This detail raised questions for investigators who wondered why someone intending to commit suicide would load more than a single shell. "There were three shells loaded into that shotgun." ← https://www.youtube.com/watch?v=sKWgbxk46eM
+**Role in Kurt Cobain's Death (1994)** : A shotgun was identified as the weapon used in Kurt Cobain's death, which was initially declared a self-inflicted wound to the head. Questions arose regarding its use, with some asking why he would choose a shotgun over a lethal heroin overdose for a "better looking corpse." "A shotgun wound to the head and at this time the wound appears to be self-inflicted." ← https://www.youtube.com/watch?v=sKWgbxk46eM
+

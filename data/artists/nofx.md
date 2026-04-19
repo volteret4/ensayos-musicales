@@ -1,12 +1,15 @@
-# artist - NOFX
+# artist - NoFX
 
 ## genres
 - Punk
-- Skate Culture
+- Skate Punk
 
-## concerts
-- Vans Warped Tour (1996)
+## labels
+- Epitaph
+
+## albums
+**Punk in Drublic (1994)** : This fifth studio album, released on July 19, 1994, was put out by Epitaph after the band had been active for nearly a decade. Benefiting from Epitaph's relationship with major labels and the explosion of Green Day's popularity, "Punk in Drublic" sold over a million copies despite NoFX's policy against MTV playing their videos. "these guys kind of went along for the ride and ended up selling more than a million copies of their new record, which they called Punk in Drupalik." ← https://www.youtube.com/watch?v=gkLMwrthZ9s
 
 ## curiosities
-**Booked for Content Pivot (1996)** : NOFX was selected to play the 1996 Warped Tour, reflecting the festival's new emphasis on punk and skate-friendly music following its partnership with Vans. "This meant booking fishbone, the muddy, muddy boss tones, no effect, 3-11 penny wise, and this weird new group from San Diego called Blink 182." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
+**MTV Video Policy** : NoFX had a strict policy against allowing MTV to play their music videos, which likely prevented them from achieving even greater mainstream success during the 1990s punk rock revival. "No Effects had a policy of not letting MTV play their videos." ← https://www.youtube.com/watch?v=gkLMwrthZ9s
 

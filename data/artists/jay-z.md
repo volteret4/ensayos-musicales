@@ -1,9 +1,5 @@
-# artist - Jay-Z
-
-## concerts
-- Coachella
+# artist - Jay Z
 
 ## curiosities
-**Featured in Apple Commercials** : Jay-Z's music has been utilized in Apple commercials, highlighting the company's inclusion of prominent hip-hop artists in their advertisements for products such as the iPod and iPhone. ← https://www.youtube.com/watch?v=sfie4YYncxk
-**Maybach Exelero Custom Car Purchase** : Jay-Z made an extravagant purchase, spending eight million dollars on a single, custom-made car: a Maybach Exelero. This particular model is noted for its rarity, being unfamiliar even to car enthusiasts. "Jay Z spent eight million dollars on a single car. It's a custom made Maybach exolero." ← https://www.youtube.com/watch?v=GO0K_N7Ys7I
+**Illuminati Role Theory** : There are conspiracy theories concerning Jay Z's alleged role in the Illuminati. "Jay Z in Beyonce's role in the Illuminati" ← https://www.youtube.com/watch?v=pmKjZzypzvg
 

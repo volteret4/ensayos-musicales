@@ -1,8 +1,12 @@
-# artist - Nine-inch Nails
+# artist - Nine-inch nails
 
-## concerts
-- Lollapalooza 1991
+## members
+- Trent Reznor
+
+## genres
+- Gothic (implied influence)
+- Industrial
 
 ## curiosities
-**Lollapalooza 1991 Lineup** : Nine-inch Nails were part of the lineup for the first Lollapalooza festival in the summer of 1991, at a time when they were considered a "weirdo group" with little mainstream potential. ← https://www.youtube.com/watch?v=eqTFinLk3oU
+**Gothic Trappings in Industrial Music** : Trent Reznor and Nine Inch Nails, at the end of the 1980s, exemplified how gothic trappings were evident in new industrial bands, demonstrating the genre's crossover influence. "New industrial bands at the time definitely had Gothic trappings. Just look at Trent Resner and Nine-inch nails at the end of the decade." ← https://www.youtube.com/watch?v=XaLsZFLrMnI
 

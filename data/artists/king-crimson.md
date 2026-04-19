@@ -3,3 +3,6 @@
 ## members
 - Robert Fripp
 
+## labels
+- Island Records
+

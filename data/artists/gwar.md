@@ -1,5 +1,5 @@
-# artist - GWAR
+# artist - Gwar
 
 ## curiosities
-**GWAR (Richmond VA, 1984) – Death Piggy + Slave Pit Merged in Abandoned Dairy Plant; Dave Brocky Died Heroin Overdose 2014; Viking Funeral for Character Oderus Urungus** : GWAR began when two Richmond, Virginia bands — Death Piggy and an organization called the Slave Pit — merged in a deserted dairy bottling plant overrun by hippies, with the goal of creating the most barbaric band in America. The main GWAR character for decades was Oderus Urungus, played by co-founder Dave Brocky, who died of a heroin overdose in 2014. His character persona was given a Viking funeral. The band has released about 15 albums and extended into short films, feature-length movies, comic books, beer, barbecue sauce, CBD products, board games, a bar, sex toys, a short-lived sitcom (Holiston, 2012–2013), and an animated cartoon for Funny or Die. "When co-founder Dave Brocky died of a heroin overdose in 2014, he was sent off with a Viking funeral. Well, okay, he wasn't. He was given a proper funeral. But his persona, Odares Arungas, was." ← https://www.youtube.com/watch?v=DiyIPBKiVW4
+**Student Dressed as Member to Pick Up Grades** : A design student once attempted to make an impression by attending his grade pickup while dressed as a member of Gwar. This unusual approach, however, did not result in an improvement of his academic marks. "A design student went to pick up his grades while dressed as a member of guar. That did not improve his marks." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
 

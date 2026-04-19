@@ -3,6 +3,7 @@
 ## genres
 - Alt Rock
 - Geek Rock
+- Nerd Rock
 
 ## albums
 **Nerf Herder (1996)** : This self-titled debut album, released in 1996, featured an alt-rock radio hit and was characterized by its self-referential and mundane subject matter. The band's name itself, taken from a Star Wars quote, cemented their geek rock identity. "This was an alt-rock radio hit from 1996, and it was from their self-titled debut album." ← https://www.youtube.com/watch?v=h6snk0m4200
@@ -15,5 +16,7 @@
 
 ## curiosities
 **Name Origin from Star Wars** : The band's name, "Nerf Herder," is a direct quote from the Star Wars film "The Empire Strikes Back," where Princess Leia refers to Han Solo as "a stuck-up, half-witted, scruffy-looking Nerf Herder." In Star Wars lore, "Nerf" are buffalo-like creatures and their tenders are considered smart, making the name a strong indicator of their geek identity. "Then the Star Wars film The Empire Strikes Back, Princess Leia calls Han Solo, and I quote, a stuck-up, half-witted, scruffy-looking Nerf Herder." ← https://www.youtube.com/watch?v=h6snk0m4200
+**Pioneering Geek Rock Terminology** : Nerf Herder may have been the first band to actually describe what they do as Geek Rock or Nerd Rock, cementing their place as originators in defining the genre. "In fact, they may be the first band to actually describe what they do as Geek Rock or Nerd Rock." ← https://www.youtube.com/watch?v=amHre9ZZFkU
 **Self-Identified Geek Rock Band** : Nerf Herder is believed to be the first band on the planet to describe themselves as a "Geek Rock" group, solidifying their identity within this subgenre. "Now, as far as anybody can tell, the first band on the planet described themselves as a Geek Rock group was Nerf Herder." ← https://www.youtube.com/watch?v=h6snk0m4200
+**Star Wars Naming Convention** : The band's name, "Nerf Herder," itself is a direct Star Wars reference, which explicitly "screams Nerd" and aligns perfectly with the Geek Rock ethos of celebrating pop culture and technology. "The very name Nerf Herder screams Nerd because that's a Star Wars reference." ← https://www.youtube.com/watch?v=amHre9ZZFkU
 

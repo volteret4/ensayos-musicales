@@ -10,3 +10,6 @@
 ## songs
 **Hand Stand Me Now (2002)** : This song is mentioned as being from The Libertines' 2002 album "Liberty and Stabby Welvent." "It's called, Hand Stand Me Now." ← https://www.youtube.com/watch?v=dVJuITJyNTU
 
+## curiosities
+**The Good Mixer Regulars** : The Libertines were among the bands who were regular patrons of The Good Mixer pub on Inverness Street in Camden, London, during the Britpop era of the early and mid-1990s. This pub was a key social spot where many groups of the era would gather. "Other regulars included the Librieteens and then later the darkness and travis." ← https://www.youtube.com/watch?v=sKHdTSfDd6E
+

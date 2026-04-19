@@ -1,0 +1,7 @@
+# genre - Industrial Hip Hop
+
+## curiosities
+**1990s Momentum and Nu-Metal Connection** : The sound of Industrial Hip Hop gained significant momentum in the 1990s, influenced by bands like Rage Against the Machine and Beastie Boys, and further supported by the emergence of numerous nu-metal bands. "That particular sound gained momentum in the 1990s. Think Rage Against the Machine, Ice Teas Body Counts, and Beastie Boy songs like Sabotage. Any number of new metal bands also helped." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
+**Mid-1980s Roots with Electronic Fusion** : Industrial Hip Hop has roots dating back to the mid-1980s, when hip hop elements began to be fused into beat-heavy keyboard and drum machine music, drawing from early industrial sounds. "its roots can be found in the middle 1980s when hip hop elements were fused into beat heavy keyboard and drum machine music." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
+**Modern Range from Kanye West to Underground** : Today, Industrial Hip Hop is a distinct genre with a broad spectrum, encompassing work by prominent artists like Kanye West with his "Yeezus" album, as well as more underground acts such as Corporate Adventure, Dälek, and Saul Williams. "And today, Industrial Rap is its own thing and ranges from Kanye West when he released his Yeezus album to artists with names like Corporate Adventure and Dalek and Saul Williams." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
+

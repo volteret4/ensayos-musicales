@@ -2,4 +2,5 @@
 
 ## member of
 - The Breeders
+- The Pixies
 

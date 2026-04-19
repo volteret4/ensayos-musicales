@@ -1,6 +1,7 @@
 # artist - Ice-T and Body Count
 
 ## concerts
+- Lollapalooza (1991)
 - Lollapalooza 1991
 
 ## curiosities

@@ -1,5 +1,5 @@
-# genre - Dream pop
+# genre - Dream Pop
 
 ## curiosities
-**80s Alt-Rock Radio Inclusion** : Ethereal dream pop was among the diverse genres featured on alt-rock radio playlists in the 1980s, demonstrating the broad range of music played before the rise of grunge. ← https://www.youtube.com/watch?v=eqTFinLk3oU
+**Early 90s Mention** : Dream pop was mentioned as one of the many forms of Alt Rock that enjoyed moments in the sun during the 90s, highlighting the breadth of alternative sounds beyond the mainstream. "We could have just as well mentioned, early emo, dream pop, math rock, post-hardcore, alt metal, alt country, Tweet Rock, contemporary Christian alternative music, and so many more." ← https://www.youtube.com/watch?v=amHre9ZZFkU
 

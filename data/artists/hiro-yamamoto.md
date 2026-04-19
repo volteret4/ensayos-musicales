@@ -2,4 +2,6 @@
 
 ## member of
 - Soundgarden
+- The Shims
+- Truly
 

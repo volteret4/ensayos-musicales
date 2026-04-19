@@ -1,6 +1,10 @@
 # artist - Sinéad O'Connor
 
+## albums
+**I Do Not Want What I Haven't Got (1991) - First Alternative Album Grammy Winner** : Sinéad O'Connor's album "I Do Not Want What I Haven't Got" won the very first Grammy Award in the "Alternative Album" category in 1991. This victory solidified her place in alternative music history and marked a new era for Grammy recognition of the genre. "And the winner was Shanato Conner for her I do not want what I haven't got album." ← https://www.youtube.com/watch?v=gP3oQeYEvso
+
 ## songs
+**Black Boys on Mopeds** : This song by Sinéad O'Connor directly addresses both racism and the policies of Margaret Thatcher. "Shenato Conner's Black Boys and Moe Peds is about racism and market thatcher." ← https://www.youtube.com/watch?v=0ARYt4sYT90
 **I Am Stretched on Your Grave (1990)** : This Grammy Award-winning song from 1990 features an entire drum part adapted from Clyde Stubblefield's break in James Brown's 1969 song "Funky Drummer," forming its rhythmic basis. The lyrics of the song are derived from an anonymous Irish poem written in the 17th century. "And the entire drum part was adapted from Clyde's Stubblefields bit in the James Brown's song Funky Drummer from 1969." ← https://www.youtube.com/watch?v=VnXBJqKwkrw
 
 ## curiosities

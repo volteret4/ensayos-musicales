@@ -2,6 +2,7 @@
 
 ## members
 - Bill Priddle
+- Greg Nori
 - Greig Nori
 - Morris Paller
 - Trevor McGregor
@@ -16,6 +17,7 @@
 ## curiosities
 **Bill Priddle's Work with Broken Social Scene** : After Treble Charger disbanded, guitarist Bill Priddle dedicated more time to working with Broken Social Scene. "Guitarist Bill Prittle wanted to spend more time working with Broken Social Scene which he has." ← https://www.youtube.com/watch?v=P0pOgz3ZobE
 **CD-ROM Interactive Content** : The CD-ROM portion of the *Self Title* re-release featured a digital scene showcasing some of Treble Charger's "Can Rock" friends, a feature considered "groundbreaking" and "really cool" for its era. "If you stuck this thing into your computer, you were rewarded with a digital scene that featured some of treble chargers, Ken Rock, friends, really nice gesture, really cool for 1995 or 2006 or whenever it came out." ← https://www.youtube.com/watch?v=P0pOgz3ZobE
+**Greg Nori's Membership** : Greg Nori was a member of Treble Charger for decades before moving into band management and production. "Greg has been a member of treble charger for decades..." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
 **Greig Nori's Management and Production Career** : Singer Greig Nori became actively involved in managing and producing Sum 41, a band he discovered. He also managed other bands, worked with beer companies, and secured various television gigs. "Singer Greg Norrie has had his hands full with managing and producing a band he discovered. You might have heard of them, they're called Sum41." ← https://www.youtube.com/watch?v=P0pOgz3ZobE
 **Morris Paller's Percussion Career** : Another former drummer, Morris Paller, obtained a degree in contemporary percussion performance and is now highly sought after by composers globally. "And another former drummer, Morris Paltar, now has a degree in contemporary percussion performance and is sought out by composers around the world." ← https://www.youtube.com/watch?v=P0pOgz3ZobE
 **Name Change to Treble Charger** : The band changed its name to Treble Charger after an American band already using "NC17" threatened legal action. "So rather than fight that, they changed their name to treble charger." ← https://www.youtube.com/watch?v=P0pOgz3ZobE

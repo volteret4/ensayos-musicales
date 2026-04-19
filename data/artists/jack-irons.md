@@ -1,7 +1,9 @@
 # artist - Jack Irons
 
 ## member of
+- Eleven
 - Pearl Jam
+- Red Hot Chili Peppers
 
 ## instruments
 - Drums

@@ -2,6 +2,7 @@
 
 ## genres
 - Hardcore
+- Hardcore punk
 - Punk
 
 ## concerts
@@ -15,5 +16,7 @@
 
 ## curiosities
 **Grizzled Veteran Participant** : The Descendents were among the seasoned acts who participated in the Warped Tour, highlighting the festival's ability to attract established artists. "We also have Joan Jett in the descendants." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
+**Influence on Major Artists** : The Descendents are cited among several California hardcore bands that were very important to the musical education of figures like Eddie Vedder and Dave Grohl. "Talk to Eddie Vetter or Dave Grohl, and they'll tell you how some of these bands were really, really important to their musical education." ← https://www.youtube.com/watch?v=0qigzi1j81U
+**Influence on Other Musicians** : The Descendents are noted as being very important to the musical education of musicians like Eddie Vedder and Dave Grohl. "Talk to Eddie Vetter or Dave Grohl, and they'll tell you how some of these bands were really, really important to their musical education." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
 **Origin and Evolution to Melody** : Hailing from Manhattan Beach in the southwest part of Los Angeles, The Descendents initially played very hardcore music but eventually evolved into a unique sound. Their distinctiveness stemmed from incorporating more melody into their music, a strategy that helped them stand out from the crowd. "They were very hardcore at first, but eventually evolved into something unique." ← https://www.youtube.com/watch?v=tZV1lz-obQE
 

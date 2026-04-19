@@ -1,5 +1,10 @@
 # genre - Folk
 
 ## curiosities
+**Bob Dylan's Mainstream Acceptance** : Bob Dylan, despite having a distinct and unusual singing voice, secured a major record deal, possibly due to his origins in the folk scene. This suggests that certain genres or artistic communities could be more accommodating to unconventional vocal styles early in a career. "Dylan had a major record deal, but maybe it was because he came from the folk scene." ← https://www.youtube.com/watch?v=7_ZmZxnSOnE
+**Component of Indie Folk** : Folk music is identified as one of the genres that came together in Indie Folk, contributing to its rootsy and acoustic characteristics. "This is a corner of alt rock where folk, blues, gospel, and even a little country came together." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
+**Early Radio Exposure (1940s)** : Folk music gained increased airplay on radio in the 1940s when stations sought material from non-ASCAP performers during a conflict with established artists and music publishers, contributing to its growing public appeal. "This meant more country and folk and hillbilly and R&B were heard on the radio." ← https://www.youtube.com/watch?v=GES0Ms_kaCI
+**Largest Growth in UK (2010s)** : Of all British music scenes, folk experienced probably the largest growth during the 2010s, expanding from artists like Mumford & Sons to include Laura Marling, Jake Bugg, Ben Howard, and Ed Sheeran. "Of all the scenes in Britain during this decade, folk probably saw the largest growth." ← https://www.youtube.com/watch?v=sOU54d8mr5k
+**Roskilde Representation** : Folk music is one of the genres represented at the Roskilde festival, which hosts approximately 180 different acts for up to 130,000 people. "There's rock, there's folk, there's electronic and hip hop. They're all represented in one way or the other." ← https://www.youtube.com/watch?v=7JP2tjJibTQ
 **Tim Buckley's Beginning** : Tim Buckley started his musical career as a folk singer in the 1960s before exploring other genres. "He began as a folk singer back in the 1960s." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
 

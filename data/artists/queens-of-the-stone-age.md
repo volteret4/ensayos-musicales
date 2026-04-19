@@ -1,18 +1,38 @@
 # artist - Queens of the Stone Age
 
 ## members
+- Dave Grohl (on drums for No One Knows video)
 - Josh Homme
 - Nick Oliveri
+
+## genres
+- Alt Rock
+- Alternative
+- Rock
 
 ## labels
 - Beggars Banquet Records (via Beggars Group)
 
+## concerts
+- Big Day Out, Sydney (2001)
+
 ## albums
+**Lullabies to Paralyze (2005)** : This album, released in 2005, was one of three strong albums that solidified Queens of the Stone Age's position as a serious force in music. "three strong albums, rated R in 2000, Songs For The Death in 2002, and Lilabai's to Paralyze in 2005." ← https://www.youtube.com/watch?v=7dXtgTkdv9w
 **Number One Records in 2010s** : Queens of the Stone Age was among the artists, including Blink-182, Green Day, Coldplay, Jack White, Red Hot Chili Peppers, Slipknot, Pearl Jam, Foo Fighters, U2, Linkin Park, Fall Out Boy, Evanescence, and David Bowie, who achieved number one records during the 2010s. This demonstrated the continued success of rock acts in an era where hip hop was a dominant cultural force. "Link wanted a two Green Day Coldplay Jack White, Red Hotch-Lie Pepper, Slipp-Nont, Queens of the Stone Age, Pearl Jam, Foo Fighters, U2, Link and Park Follow Boy, Evan Essence, Queens of the Stone Age, and Bowie all had number one records over the course of the decade." ← https://www.youtube.com/watch?v=HSvgRyGiOpE
+**Rated R (2000)** : This album, released in 2000, was one of three strong albums that helped Queens of the Stone Age emerge as a serious force in rock. "three strong albums, rated R in 2000, Songs For The Death in 2002, and Lilabai's to Paralyze in 2005." ← https://www.youtube.com/watch?v=7dXtgTkdv9w
+**Songs For The Deaf (2002)** : Released in 2002, this album was one of three strong albums that contributed to Queens of the Stone Age becoming a serious force. "three strong albums, rated R in 2000, Songs For The Death in 2002, and Lilabai's to Paralyze in 2005." ← https://www.youtube.com/watch?v=7dXtgTkdv9w
 **Songs for the Deaf (2002)** : Released in the summer of 2002, this album was conceived as a concept record, though its conceptual nature is subtle and often missed. It is intended to be a soundtrack for a drive from Los Angeles through the desert to Joshua Tree National Park, with the listener flipping through small-town radio stations along the way. The artwork on some versions of the album depicts the dashboard of a Fiat 124 spider, visually representing this journey. "This is supposed to be taken as a soundtrack of a drive from Los Angeles through to Joshua Tree National Park out in the desert, while flipping through small town radio stations along the way, hence the dashboard of a Fiat 124 spider shown in the artwork of some versions of the album." ← https://www.youtube.com/watch?v=1KyNY3zv6uc
+**Villains (2017)** : This album, released in 2017, contains the song "The Way You Used To Do" as track two of nine. Its metadata identifies it as an alternative album. "It's labeled as an alternative song released in 2017, and it's track two of nine on the villain's album." ← https://www.youtube.com/watch?v=AcADOuQUiAQ
+
+## songs
+**No One Knows (2002)** : The music video for "No One Knows," released in 2002, was instrumental in helping Queens of the Stone Age "claw their way into the sphere of attention." The video also benefited from the involvement of Dave Grohl, who played drums, adding to its coolness factor and appeal. "Queens of the Stone Age was able to claw their way into the sphere of attention with the clip for No One Knows in 2002." ← https://www.youtube.com/watch?v=7IDbqdIw3WU
+**The Way You Used To Do (2017)** : This song is track two of nine on the 2017 album *Villains*. Its metadata includes the song title, artist name, album title, names of all composers, classification as an alternative song, release year, artwork, lyrics, and technical information like bitrate and sample rate. "I have the title of the song, here's the artist, here's the album, here are the names of all the composers." ← https://www.youtube.com/watch?v=AcADOuQUiAQ
 
 ## curiosities
+**21st Century Concept Album Artists** : Queens of the Stone Age is mentioned as one of the bands that have released concept records in the 21st century. "Let's see, we got Green Day, Queen to the Stone Age, ever clear." ← https://www.youtube.com/watch?v=Dm5N6yDRxXQ
 **Backstage Rider – Map of Ireland Test** : Amongst all the printed requirements in their rider, Queens of the Stone Age included a test: the promoter was required to post a map of Ireland on the wall of the dressing room. The absence of the map was seen as an indication that the promoter might have overlooked other important details. "The promoter was required to post a map of Ireland on the wall of the dressing room." ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**Continued Activity in 2010s** : This established band continued its characteristic musical output throughout the 2010s, contrasting with the softer pop alt-rock trend. "Older groups, the food fighters, Lincoln Park, Black Keys, Chili Peppers, Green Day, Queens of the Stone Age, Royal Blood, Muse, Blink 182, Pearl Jam, they just kept doing what they did best." ← https://www.youtube.com/watch?v=sOU54d8mr5k
+**Emerging Big Band (2000s)** : Queens of the Stone Age are included in the list of bands that were "soon-to-be-big" in the early 2000s, during a period of rock revival and burgeoning indie scenes. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 **Joshua Tree Studio Client** : Queens of the Stone Age are listed as a past client of the studio in Joshua Tree, California, where the Foo Fighters recorded their song "Outside." This studio doubles as the owner's house, with clients typically bunking there. "Clients have included queens of the Stone Age." ← https://www.youtube.com/watch?v=Mh-qg1izM98
 **Music Video Direction by Liam Lynch** : Liam Lynch directed music videos for Queens of the Stone Age. "He went on to direct music videos for... Queen of the Stone Age." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M
 **Nick Oliveri Fired, SWAT Standoff (July 12, 2011) – Domestic Abuse Leading to Career Ejection** : Nick Oliveri was initially fired from Queens of the Stone Age after being physically abusive to his girlfriend. After a truce appeared to be arranged, a SWAT team descended on his house on July 12, 2011, following an assault on his girlfriend. He was arrested on charges including drugs and weapons, faced up to 15 years in prison, and received a plea deal for probation and community service. Despite this, he can be heard as a contributor on the band's 2013 album *…Like Clockwork*, though he is no longer a full member. "Even though he faced up to 15 years in jail, he got a plea deal for probation and community service." ← https://www.youtube.com/watch?v=oljjY7jO-kM

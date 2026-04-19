@@ -1,5 +1,8 @@
 # artist - Mike Watt
 
+## member of
+- The Stooges
+
 ## members
 - Ad-Rock
 - Eddie Vedder
@@ -16,4 +19,7 @@
 
 ## songs
 **Big Train (1995)** : A track from Mike Watt's 1995 solo album *Ball-Hog or Tugboat*, featuring Dave Grohl on drums. This recording was highlighted as an example of the kind of music that helped Dave Grohl regain his enthusiasm for playing after a period of deep depression following Kurt Cobain's death. "This is what encouraged Dave to try creating his own band." ← https://www.youtube.com/watch?v=_AY5lS-FmlU
+
+## curiosities
+**Played Bass on *The Weirdness*** : Punk stalwart Mike Watt joined The Stooges to play bass on their reunion album, *The Weirdness*, released in 2007. "On base was punk stalwart Mike Watt." ← https://www.youtube.com/watch?v=w-rihv544I8
 

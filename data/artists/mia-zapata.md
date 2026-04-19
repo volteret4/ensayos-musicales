@@ -1,0 +1,27 @@
+# artist - Mia Zapata
+
+## genres
+- Grunge
+- Indie
+- Riot Grrrl
+
+## concerts
+- The Comet Tavern
+
+## albums
+**Frenching the Bully (1992)** : The debut album by The Gits, Mia Zapata's band, which received very good reviews. A second album, titled "Enter the Conquering Chicken," was planned but never released due to Zapata's murder. "A 1992 debut album entitled Franching the Bullie got some very good reviews." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
+
+## songs
+**Second Skin (Year Not Specified)** : A song from The Gits' debut album, "Frenching the Bully." This song exemplifies the sound of the band and Mia Zapata's musical contribution. "It's from their debut album, Franching the Bulley, and is called Second Skate." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
+
+## curiosities
+**Community Outcry and Fundraising** : Mia Zapata's death sent shockwaves through the Seattle music community. Bands like Nirvana, Soundgarden, and Pearl Jam collectively raised $70,000 to hire a private detective to investigate the case, reflecting the deep concern and desire for justice within the tight-knit scene. "Even after bands like Nirvana, Soundgarden and Pearl Jam helped raise $70,000 to hire a private detective to look into things." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
+**DNA Match to Jesus Mesquia** : In 2003, a breakthrough occurred in Mia Zapata's cold case when a DNA sample from a bite mark on her breast, preserved in cold storage by the Seattle PD, matched Jesus Mesquia. Mesquia, a Cuban immigrant and fisherman with a history of violence against women, had been in Seattle at the time of the murder. "The saliva from that bite mark belonged to Jesus Mesquia." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
+**Frontperson of The Gits** : Mia Zapata was the frontperson of the band The Gits and a central figure in the emerging grunge and riot grrrl scene in Seattle in the early 1990s. She was well-liked and contributed to a tight-knit music community in the city. "And when she joined a group called The Gits as their front person, Bettsworth of the band was going to do well." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
+**Home Alive Initiative** : In response to Mia Zapata's murder and the intense fear in the Seattle music community, a new initiative called Home Alive was started. This organization began teaching self-defense to local women and continues to operate. "A new initiative called Home Alive was started and began teaching self-defense to local women." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
+**Identification by Medical Examiner** : Despite having no identification on her body, Mia Zapata was identified by the medical examiner, who happened to be a fan of The Gits. This personal connection helped quickly identify the victim in a case with no witnesses. "Although she had no idea on her, the medical examiner happened to be a fan of The Gits and he was able to identify her." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
+**Mesquia's Death in Prison** : Jesus Mesquia, convicted of Mia Zapata's murder, died in a Seattle prison in May 2021 at the age of 66. The cause of his death was never publicly released. "And then in May 2021, he died in a Seattle prison at the age of 66. No cause of death was ever released." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
+**Murder Reconstruction and Conviction** : Police reconstructed the murder, believing Jesus Mesquia snuck up on Mia Zapata while she was listening to music on headphones, dragged her to his car, raped, assaulted, and strangled her, and then dumped her body. Mesquia was sentenced to 37 years in prison, which was later reduced to 36 years on appeal. "Reconstructing the murder, police believed that Mesquia snuck up on Mia from behind. She didn't hear anything because she was listening to music on headphones. She was then dragged to his car, raped, assaulted, and strangled, and then her body dumped." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
+**Rape, Beating, and Strangling in Seattle** : Mia Zapata was murdered on Wednesday, July 7, 1993. At about 2:10 AM, after leaving The Comet Tavern in Seattle's Capitol Hill District and briefly visiting a friend, she was killed within an hour. Her body was found several blocks away, having been raped, strangled, severely beaten, and suffering a lacerated liver. "Her body was found several blocks away. She'd been raped. She'd been strangled. She'd also been severely beaten and suffered a lacerated liver, an injury that would have killed her if she hadn't been strangled." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
+**Tributes and Legacy** : Mia Zapata's legacy is preserved through various tributes, including plays, documentaries, songs, albums, and music videos dedicated to her memory. Her story continues to be told and remembered. "Meanwhile, there have been plays and documentaries about Mia's apata. And there have been songs and albums and music videos dedicated to her." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
+

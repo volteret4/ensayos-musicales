@@ -8,6 +8,7 @@
 
 ## albums
 **Ignore the Ignorant (Fourth Album)** : This was the fourth album released by The Cribs, and it is notable for being one of the records that featured Johnny Marr on guitar during his time with the band. "Here's a single from their fourth album entitled Ignore the Ignorant. This was one of the records that featured Johnny Mar." ← https://www.youtube.com/watch?v=gxbuajGKbko
+**Last Record (produced by Alex Kapranos)** : Alex Kapranos produced The Cribs' last record in Vancouver during a break from Franz Ferdinand's touring schedule, at the end of 2006. "I went to Vancouver and produced the crib's last record." ← https://www.youtube.com/watch?v=RWbKqqW78yg
 
 ## songs
 **We Share the Same Skies** : This single is from The Cribs' fourth album, *Ignore the Ignorant*, and features Johnny Marr, formerly of The Smiths, on guitar. "This is called We Share the Same Skies. The cribs featuring two identical twins and their younger brother, and for that song Johnny Mar, X of the Smiths on guitar." ← https://www.youtube.com/watch?v=gxbuajGKbko

@@ -2,6 +2,7 @@
 
 ## genres
 - Dream Pop
+- Dreampop
 - Ethereal
 - Post-rock
 - Shoegaze
@@ -12,14 +13,19 @@
 ## albums
 **Second Album (1999)** : This unnamed 1999 album achieved significant popularity, leading to a long story profiling the band in the *New York Times Magazine*. "But it was their second album in 1999 that blew up so big that they were profiled in a long story in the New York Times magazine." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
 **Von (1996)** : This was Sigur Rós's first album, released two years after their formation. "Their first album was entitled Vaughn, and came out in 1996." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
+**Ágætis byrjun (1999) – International Breakthrough** : Released in 1999, this album marked a significant international breakthrough for Sigur Rós, earning them a feature in The New York Times magazine and establishing it as arguably the last great Dreampop record of the 90s. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 
 ## songs
+**Svefn-g-englar** : This song from the album "Ágætis byrjun" is described as lovely and indicative of Sigur Rós's dreamy sound, with its title potentially referencing "sleepwalkers and angels." It is emblematic of their unique approach to music. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 **Svefn-g-englar (1999)** : This track, translated as "Sleepwalking Angels," is derived from an Icelandic pun that only locals would understand. It runs over 10 minutes on the album and over 9 minutes as a single. "My favorite track from the album is a song that translates as Sleepwalking Angels, but is actually derived from a pun that only people from Iceland will understand." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
 **Ágætis Byrjun (1999)** : A track from their 1999 album, it consists of ten very lovely, soothing songs and has been described as "Cosmic and Gentle Pink Floyd." "It's, I think it's a Gaitis Burin, where ten songs, all of which are very lovely, very soothing." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
 
 ## curiosities
 **Formation and Sound (1994)** : Sigur Rós was formed in Iceland in 1994 and is best described by the word "ethereal," with lyrics that blend Icelandic and a unique form of "gibberish vocals" called Valenska. "They're from Iceland, and they were born in 1994. And the word that goes best with them is ethereal." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
+**Hopelandic Language** : Similar to the Cocteau Twins, Sigur Rós sings in a self-invented language they call "Hopelandic." It shares vague phonetic similarities with Icelandic but is distinct, and the band encouraged listeners to interpret and write down what they heard in booklets. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
+**Icelandic Origin** : Sigur Rós is an Icelandic band, whose music is likened to the Cocteau Twins in its use of a made-up language. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 **Influences** : Sigur Rós draws from shoegaze traditions, citing My Bloody Valentine and Ride, as well as dream pop influences like the Cocteau Twins, The Verve, and Radiohead's work from *OK Computer* and beyond. "Siger-Rus, which means victory rose, by the way, comes from the tradition of groups into Shugays, such as My Bloody Valentine and Ride." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
+**Musical Activity Since 1997** : Sigur Rós has been creating their distinctive style of music since 1997, continuing into the 21st century. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 **Name Meaning** : The band's name, Sigur Rós, translates to "victory rose" in English. "Siger Rousse, which means victory rose, by the way, comes from the tradition of groups into Shugays, such as My Bloody Valentine and Ride." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
 **Pop Culture Placement** : One of Sigur Rós's songs was notably used in an episode of *The Simpsons*, marking an interesting placement for post-rock music. "One of the songs was even used in an episode of The Simpsons, an interesting spot for Post Rock." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
 **Recommended Post-Rock Band** : The band is explicitly listed as a recommendation for those wanting to explore post-rock further. "If you want to go deeper, look into bands like Talk Talk, Slint, Barxide Coses, Tortoise, Magwai, Stereolab, Godspeed you, Black Amper, we always keep coming back to them." ← https://www.youtube.com/watch?v=9-v4qnOO8wY

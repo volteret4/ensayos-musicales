@@ -1,6 +1,12 @@
 # artist - Björk
 
+## genres
+- Electronica
+
 ## curiosities
 **Collaborated with Anton Corbijn** : Photographer Anton Corbijn, who designed The Killers' "Sam's Town" cover, is a favored collaborator of Björk, known for capturing her distinctive artistic vision. "The photographer was Anton Corbin, the Dutch guy who was a favorite of you two, Depeche Mode, Coldplay, Bruce Springsteen, Kate Bush, Bjork..." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
+**High Concept Music Videos** : Björk was deeply involved in creating high-concept music videos during the mid to late 1990s. Her artistic and innovative approach to visuals contributed to the trend of music videos becoming serious art forms. "Bjork was into it." ← https://www.youtube.com/watch?v=7IDbqdIw3WU
 **Ricardo Lopez Acid Bomb (September 1996) – Sulfuric Acid Book Mailed from Hollywood, Florida; Intercepted by Scotland Yard** : On September 12, 1996, Ricardo Lopez — a 21-year-old former pest control worker from Atlanta, obsessed with Björk for months — mailed a hollowed-out book rigged to spray sulfuric acid in the face of whoever opened it to Björk's London home. Lopez had documented his obsession on video over nine months; some tapes were at least 11 hours long. His stated motive was rage that Björk had been dating Black men, specifically Goldie. After mailing the package, Lopez filmed himself shaving his head, painting his nipples red, and painting his face red and green, before shooting himself in the mouth with a .38 caliber pistol on camera. Florida police found his body on September 16. Reviewing his tapes, they saw him hold up the package to the camera long enough to read the address. They traced the parcel to a south London post office, where Scotland Yard intercepted it just before it was delivered. "I am the angel of death for her." ← https://www.youtube.com/watch?v=lyYsTon_NSc
+**Synth Pop's Continued Presence in the 90s** : While 80s-style Technopop declined in the 1990s, elements of synth pop continued to live on and be present in her music. "It did, however, live in some respects in the music of nine-inch nails, de Pesh mode, radio head, and Bjork." ← https://www.youtube.com/watch?v=1KF5MwJVYng
+**Ubiquitous 90s Electronica Artist** : Anything Björk did in the 1990s was broadly considered Electronica, showcasing her significant presence and versatility within the genre's wide-ranging definition. "And just about anything Bjork did in the 1990s." ← https://www.youtube.com/watch?v=amHre9ZZFkU
 

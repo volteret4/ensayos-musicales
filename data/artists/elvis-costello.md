@@ -1,19 +1,51 @@
 # artist - Elvis Costello
 
+## members
+- Declan McManus
+
 ## genres
+- Alternative music
 - British New Wave
 - New Wave
 - Pop
+- Punk Rock
 - Punk Rock (perceived as Nerd Rock)
+- Rock
+
+## labels
+- (not mentioned)
+- Sire Records
+- Stiff Records
+
+## concerts
+- Roskilde Festival
+
+## instruments
+- Guitar
 
 ## albums
+**My Aim Is True (1977)** : A copy of Elvis Costello's "My Aim Is True" album on CD is cited as an example of a poor early CD remaster. This specific CD sounds "awful," characterized by significant background hiss, a lack of bass, and rolled-off trebles, due to the master tapes for vinyl being directly transferred to CD without proper remastering for the new format. "I have a copy of Elvis Costello's My Amus True album and it sounds awful." ← https://www.youtube.com/watch?v=yPok3MemDmE
+**My Aim Is True (1977) – Debut Album** : Recorded by Declan McManus (before he adopted the name Elvis Costello) using accumulated sick days from his computer programmer job. The album was described as articulate, literate, and occasionally angry. His manager suggested he change his name to Elvis Costello. It was released on July 22, 1977. "That first record was called My Amos True and it came out July 22nd, 1977." ← https://www.youtube.com/watch?v=gKrAXMG8sTc
+**My Aim is True (1977) – Debut Album with Clover** : When Stiff Records signed Elvis Costello, they needed to release material quickly. Jake Riviera, head of Stiff, recruited the band Clover to provide energy and anger to Costello's acoustic, twangy demos at Pathway Studios. Everyone from Clover, except their lead singer, played on the debut album, with the band officially changing their name to The Shamrocks for the contract to avoid legal issues with another group named Clover. ← https://www.youtube.com/watch?v=CkSIErb0hxY
+**This Year's Model** : This album was mentioned as the first pre-recorded cassette the host could remember buying, highlighting its early availability in the cassette format. `"The first pre-recorded cassette I can ever remember buying was this year's model from Elvis Costello."` ← https://www.youtube.com/watch?v=OuFvfZJKcpc
 **This Year's Model (1978)** : This album is cited as an example of the first wave of British New Wave music from around 1977-78. His music during this period was not punk, nor straight rock or traditional pop, instead characterized as spiky, angular, and somewhat agitated. "Elvis Costello from a second album, 1978's This Year's Model." ← https://www.youtube.com/watch?v=9CNNsqXiL6U
+
+## songs
+**Radio Radio (1978)** : Elvis Costello was specifically asked by a producer of Saturday Night Live not to play this song during his appearance on December 17, 1978, because NBC, the network, owned many radio stations and the song was considered insulting to radio programmers. Despite the request, he played it anyway, making it a notable incident similar to the Sex Pistols' appearance on Bill Grundy's show. "You can play the show, the producer said, if you promise not to play your song Radio Radio." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
+**Tramp the Dirt Down** : In this song, Elvis Costello expressed a potent and visceral hatred for Margaret Thatcher, going so far as to sing about dancing on her grave. This reflected a deep-seated opposition to her policies and legacy among some artists and the public. "Elvis Costello sang about dancing on her grave and tramp the dirt down." ← https://www.youtube.com/watch?v=0ARYt4sYT90
 
 ## curiosities
 **Anti-Home Taping Stance (Early 1980s)** : During the "home taping crisis" of the early 1980s, Elvis Costello was among the artists who signed anti-home taping petitions, aligning with the record industry's view that unauthorized copying was "killing music." "Artists like Elvis Costello signed anti-home taping petitions." ← https://www.youtube.com/watch?v=2RKchFW42Jc
 **Columbus Holiday Inn Bar Fight (March 10, 1979) – Racist Remarks, Punch from Bonnie Bramlett, Career Nearly Ruined in America** : On March 10, 1979, Elvis Costello and his entourage were drinking heavily in a bar at a Holiday Inn in Columbus, Ohio, when they encountered Stephen Stills's party. Costello made blatant racist remarks about Ray Charles and James Brown. Stephen Stills's companion Bonnie Bramlett punched Costello, a full brawl broke out, and the incident made national news. American media sided with Stills; Costello became toxic and his American career took years to recover. He later described the incident in his memoirs *Unfaithful Music and Disappearing Ink* (2015) and acknowledged it without denial or excuse. "An old barfight from 37 years ago — but there are real serious things that haven't been fixed that are not my doing or my responsibility." ← https://www.youtube.com/watch?v=oljjY7jO-kM
+**Computer Programmer Day Job** : Before finding musical fame, Declan McManus worked as a computer programmer for the Elizabeth Arden's Cosmetics company. "Declan McManus, he was a computer programmer for the Elizabeth Arden's Cosmetics company." ← https://www.youtube.com/watch?v=gKrAXMG8sTc
 **Concert Ticket Price Example** : At an unspecified time, an Elvis Costello concert ticket cost $7, which illustrates the historical affordability of concert tickets compared to contemporary prices, where such an amount would barely cover modern service charges. "There's one for an Elvis Costello show, $7." ← https://www.youtube.com/watch?v=8q2bRZyHnHE
+**Early Backup Band (Clover/The Shamrocks)** : Stiff Records expedited the release of Elvis Costello's debut album, *My Aim is True*, and due to time constraints, a permanent band could not be assembled. Jake Riviera, the head of Stiff, brought in a touring group named Clover to provide instrumentation for Costello's acoustic demos at Pathway Studios. They played under the name The Shamrocks for the official contract to avoid being sued by another band called Clover. ← https://www.youtube.com/watch?v=CkSIErb0hxY
 **Early Career Mention (1977)** : Elvis Costello's music from 1977 is referenced as a starting point for discussions on the post-punk era, indicating his early presence in the evolving music landscape. "a little oldest Costello from 1977 to start things." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
+**Early Roskilde Performance (Career Boost)** : Elvis Costello performed at the Roskilde Festival early in his career, an appearance that is credited with significantly boosting his career. "U2 and Elvis Costello got big career boots by playing Ross killed early on." ← https://www.youtube.com/watch?v=7v1REnqKuXE
+**Inspiration from Sex Pistols (December 2, 1976)** : Declan McManus, then a computer operator, was deeply inspired by the Sex Pistols' scandalous appearance on a TV show where they used "bad words." Feeling they had "shaken up the system," he decided to quit his data entry job, picked up a guitar, and changed his name to Elvis Costello, embodying the attitude, anger, and energy he saw in the Sex Pistols. "He wanted to be involved in whatever it was that the sex pistols embodied, the attitude, the anger, the energy." ← https://www.youtube.com/watch?v=oPgeSCy93bo
+**Inspired by Sex Pistols** : He became a Sex Pistols fan, finding inspiration in their disregard for the established rules of music, art, fashion, society, and the English class system. He quit his day job directly because of the Sex Pistols' influence. "He became a sex pistols fan because he was inspired by their disregard for the rules of music and of art and a fashion, of society, of the class system of England." ← https://www.youtube.com/watch?v=gKrAXMG8sTc
 **My Aim Is True (1977) – Debut Album Recorded by Clover, Who Became Huey Lewis and the News** : Before his music career, Elvis Costello worked as a computer operator for Elizabeth Arden cosmetics, running invoices on an IBM 360 mainframe, taking occasional sick days to demo songs. When he signed to Stiff Records, he needed a backing band. An American group called Clover had just arrived in England hoping for their big break, but found themselves stranded in the middle of punk and unwanted. They needed money for plane tickets home. Elvis went to their residency at Headley Grange, told them he needed a studio band and specifically didn't need a singer, so Clover's own singer was sent to wait elsewhere while the rest of the band backed Elvis through six four-hour sessions for his debut. Clover was paid and sent back to the US, where they reinvented themselves as Huey Lewis and the News. The singer who had to hang out during the Costello sessions was Huey Lewis. "That banished singer was Huey Lewis." ← https://www.youtube.com/watch?v=mmI2oN9zolQ
 **Saturday Night Live Appearance (December 1977)** : During his performance on Saturday Night Live in December 1977, at the peak of his "angry young songwriter" phase, Elvis Costello, dressed with thick glasses and a powder blue sport coat, was observed by SNL writer Tom Davis, who famously thought, "this isn't punk rock, this is nerd rock." This moment contributed to the coining of the term "nerd rock" and directly led to the creation of the recurring "The Nerds" sketch on the show. "In December 1977, Elvis Costello appeared on Saturday Night Live. He was at the height of his angry young songwriter years, complete with his thick glasses and powder blue sport coat." ← https://www.youtube.com/watch?v=h6snk0m4200
+**Saturday Night Live Incident (December 17, 1978)** : As a last-minute replacement for the Sex Pistols (who faced visa issues), Elvis Costello appeared on "Saturday Night Live" in December 1978. Producers explicitly asked him not to play "Radio Radio" due to NBC's ownership of radio stations and the song's critical lyrics. Costello agreed but then famously played "Radio Radio" instead of the requested song, causing a stir. "But then this is what happened on December 17, 1978... Radio Radio." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
+**Saturday Night Live Performance** : Elvis Costello was called in at the last minute to fill the Sex Pistols' slot on Saturday Night Live when they were forced to cancel due to visa issues. "Some guy named Elvis Costello was called in at the last minute." ← https://www.youtube.com/watch?v=gKrAXMG8sTc
 

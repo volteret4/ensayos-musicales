@@ -1,9 +1,16 @@
 # artist - Spice Girls
 
 ## genres
+- Girl Power
 - Pop
 
 ## curiosities
+**Gen Y Pop Preference** : The Spice Girls were cited as an example of the pop artists that Generation Y was into, indicating a shift in musical tastes away from Alt Rock as Gen Y came of age. "It was all spice girls and backstreet boys and puff daddy and on vogue." ← https://www.youtube.com/watch?v=amHre9ZZFkU
 **Initiating the Pop Resurgence in Mid-1990s** : After grunge's dominance declined around mid-1996, the Spice Girls were at the forefront of a new wave of happy pop songs, marking the beginning of a pop music resurgence driven by the emerging Gen Y. "It began with the spice girls, but within a few years, the biggest popular music stars in the world were a bunch of boy bands and singers like Britney Spears." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
+**New Generation's Preference** : The Spice Girls were among the artists preferred by a younger generation of music fans coming of age after the Britpop era, signaling a move towards more commercial pop music. "And you know what they wanted? Ice Girls. Britney Spears. Robbie Williams." ← https://www.youtube.com/watch?v=DSvoppf1dGY
+**Precursor to Pop Decline** : The Spice Girls were mentioned as representing the mid-90s pop music scene, preceding the period when their generation of fans began to seek out angrier and more complex music, contributing to the rise of bands like Alexis on Fire. "But during that time, we were seeing the end of the spike in pop music, you know, the back street boys and instincts and Christine Aguilar is in Britney Spears and that group of people who had been into pop since the middle 90s with spice girls and whatever, they were now getting older and they were getting angry and they were looking for something that spoke to that anger and their fears and their frustrations." ← https://www.youtube.com/watch?v=nEPT8ZVZ0so
+**Rise of Pop Music** : The Spice Girls were among the pop artists that defined the musical tastes of Generation Y towards the end of the 1990s, reflecting a shift away from brooding grunge and post-punk alt-rock. "This cheerful generation led us to an era of spice girls and backstreet boys in sync, Britney Spears." ← https://www.youtube.com/watch?v=7JP2tjJibTQ
+**Success Post-Britpop (1997)** : As Britpop ended in 1997, the music scene shifted to groups like the Spice Girls, embodying "girl power" and their hit song "Wannabe," indicating a new popular trend that replaced the Britpop wave. "It was all spice girls and girl power and wannabe." ← https://www.youtube.com/watch?v=vzyMSSlD7Yg
+**Successor to Britpop** : By the end of 1997, the Spice Girls and the "girl power" movement had supplanted Britpop in public and media interest, perfectly aligning with the typical six-year cycle of a cultural wave. "It was all spice girls and girl power and wannabe." ← https://www.youtube.com/watch?v=5q5EnZj1FwE
 **Symbol of 90s Pop Dominance** : Hugh Dillon cited the Spice Girls, alongside the Backstreet Boys, as emblematic of the pop music era in the 1990s that he felt overshadowed and marginalized "great music" and rock bands like his own, intensifying his despair during his addiction struggles. "the f**king spice girls and the backstreet boys and all this great music f**king fades into the background." ← https://www.youtube.com/watch?v=zBd13KtYlAA
 

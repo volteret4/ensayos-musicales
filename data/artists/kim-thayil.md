@@ -2,4 +2,5 @@
 
 ## member of
 - Soundgarden
+- The Shims
 

@@ -11,8 +11,12 @@
 ## genres
 - New Metal
 
+## concerts
+- **Woodstock 99 Appearance** : The band's appearance at Woodstock 99 was marred by violence and destruction, contributing to their "ill-advised career moves" and backlash. "an appearance at Woodstock 99 that was marred by violence and destruction."
+
 ## albums
 **Greatest Hits (2005)** : This album was released on November 8, 2005, after which the band went silent, leading to this date being considered their breakup. "A greatest hits record followed on November 8th of that year and then nothing." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Massive Sales for Early Albums** : For a couple of their albums, Limp Biscuit achieved "freaking huge" commercial success, selling over 40 million albums. "But let's not forget that for a couple of albums, they were freaking huge. They sold over 40 million albums." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
 **Significant Other (1999)** : This album was released in 1999, marking the band's peak popularity. "The album was called Significant Other." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
 **The Unquestionable Truth Part One (2005)** : This EP was released in the spring of 2005, but it "nobody seemed to care." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
 
@@ -27,7 +31,9 @@
 **Guitarist Wes Borland's Departures and Return (2001-2004)** : Guitarist Wes Borland initially quit the band in 2001. He was replaced by Mike Smith, but Smith departed by 2004, leading to Borland's return. "First guitarist Wes Borland had quit 2001. He was replaced by Mike Smith, but by 2004 he had gone. Wes was back." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
 **New Album Work Begins (August 24, 2009)** : By August 24, 2009, all members of the reunited band had begun working on a new album. "And in August the 24th of 2009, everyone started working on a new album." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
 **Public Disfavor & Internal Issues (Mid-2005)** : By mid-2005, Limp Biscuit, and Fred Durst in particular, had "worn out their welcome with the public" as their sound and approach had gone "out of style." This period was also marked by internal problems. "But by the middle of 2005, Limp Biscuit in general and Fred Durst in particular had worn out their welcome with the public." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Rapid Decline** : The band experienced a swift decline at the end of the 90s due to "ill-advised career moves," including their controversial Woodstock 99 appearance, and the release of "below-par albums." "they flamed up pretty fast at the end of the 90s." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
 **Reunion Announcement (February 11, 2009)** : On this date, Fred Durst posted a message on Twitter – "1am Pacific time. Limp Biscuit.com tonight" – signaling the band's official return. "And on February 11th of 2009, those who were following Fred on Twitter... got this message. 1am Pacific time. Limp Biscuit.com tonight." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
 **Reunion Rumors (Fall 2008)** : By the fall of 2008, rumors began circulating that the band's internal differences had been resolved and they were reuniting. "There were rumors that differences had been fixed and that Limp Biscuit was back together." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Symbol of New Metal's Downfall** : Limp Biscuit came to symbolize "the worst of new metal" and became the central focus of the backlash against the genre, despite attracting 50,000 people to stadium shows. "If it's just one band that came to symbolize the worst of new metal and a group that was the focus of the backlash, it was Limp Biscuit." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
 **Time Apart (3 years, 3 months, 3 days)** : The band was apart for this duration, from their designated breakup date of November 8, 2005, to their reunion announcement on February 11, 2009. "Let Biscuit and Nookie, apart for three years, three months and three days." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
 

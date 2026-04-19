@@ -1,5 +1,5 @@
-# genre - Trip Hop
+# genre - Trip-hop
 
 ## curiosities
-**Sound Definition** : Trip Hop is fundamentally a form of down-tempo music that ingeniously integrates elements of electronic and hip hop in a manner that makes their primary ingredients subtle. It also incorporates aspects of funk, soul, jazz, various samples, and a range of sonic experimentation. "It's basically a form of down-tempo music that incorporated elements of both electronic and hip hop, but it's a way that you really can't tell that those are the main ingredients." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
+**Early Gorillaz Sound** : The first Gorillaz single, "Tomorrow Comes Today" (2000), was explicitly described as being "very much in line with the trip-hop sounds of the time," and the debut album also prominently featured this genre among others. "It's called Tomorrow Comes Today and it's very much in line with the trip-hop sounds of the time." ← https://www.youtube.com/watch?v=iVdTCqpd798
 

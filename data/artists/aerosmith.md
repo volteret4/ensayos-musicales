@@ -3,19 +3,40 @@
 ## members
 - Joe Perry
 
+## genres
+- Classic Rock
+- Classic rock
+- Mainstream rock
+- Rock
+
+## concerts
+- Winnipeg Arena (August 30, 1978)
+
 ## instruments
 - Gibson Les Paul
 
 ## songs
+**Head First (1994) - First Digitally Downloadable Song from a Major Band** : On June 27, 1994, Aerosmith released "Head First" as the first song from a major band to be made digitally downloadable. The track, which was three minutes and 14 seconds long, took up to 90 minutes to download due to its 4.3 megabytes and the internet speeds of the era. "On June 27th, 1994, they released a song called Head First." ← https://www.youtube.com/watch?v=gP3oQeYEvso
 **Head First (1994) – First Major Label Download** : Released in June 1994, this song marked Aerosmith as the first major label artist to offer a song for download. However, it was viewed as an experiment rather than a step towards the future. "Errol Smith, at least a song called Head First in June 1994, making them the first major label artist to offer a song this way." ← https://www.youtube.com/watch?v=Yq2A_o9-ulM
 **Ragdoll (Year Not Specified)** : A song written by Holly Knight. "She wrote Ragdoll for Erasmith." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M
+**Walk This Way (1986) – Run-DMC Crossover** : In 1986, Aerosmith collaborated with Run-DMC on a crossover version of "Walk This Way," marking an early and significant fusion of rock and hip hop. "Remember the Erasmith Run DMC crossover with Walk This Way in 1986?" ← https://www.youtube.com/watch?v=tdTs-4Irv8c
 
 ## curiosities
+**"Dinosaurs" of Late 80s Rock** : Aerosmith was cited as a classic rock band whose "second act" career alienated Generation X at the turn of the 90s, being seen as outdated "dinosaurs." "You know, lots of Van Halen and Erasmith and Leonard Skinner didn't know what John was. They were just dinosaurs." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
 **80s Music Video Icon** : Aerosmith was recognized as an artist whose music videos contributed to the captivating and influential visual landscape of the 1980s MTV and MuchMusic era. "watching videos by like Madonna, Peter Gabriel, and like Phil Collins and Michael Jackson and Eros Smith." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
+**Awful Concert Sound (1978)** : The concert in Winnipeg Arena on August 30, 1978, featured Aerosmith as the headliner and ACDC as the opener. The sound was extremely poor, described as a "blare of distortion" for over two and a half hours, making it impossible to recognize any of Aerosmith's songs. "People around me were going, are they playing Walk This Way or is that Walk in the Dog? I can't tell." ← https://www.youtube.com/watch?v=qrrwqdpCjpQ
+**Collaboration with Bob Rock** : Aerosmith is listed among Bob Rock's clients. "We got the cult, Veruch assault, Erasmith, Motley crew, Ardady Pease, the Tea Party, Eric and High Fy, Afghan Wigs, David Lee Roth, the Conorline Crush, Cher." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
+**Collaboration with Bruce Fairbairn** : Bruce Fairbairn produced mega-platinum albums for Aerosmith throughout the 1980s and 1990s. "Throughout the 80s and 90s, he produced mega platinum albums for Erasmith and ACDC and Bon Jovi and Inaccess and Kiss and Leverboy and Poison, The Scorpions and Van Halen and a ton of others." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
+**Collaboration with Run DMC** : Aerosmith collaborated with Run DMC, marking an early instance of rockers and rappers finding common ground. "the collaborations of groups like Aerosmith and Run DMC." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
 **Declined to Perform for Donald Trump** : Aerosmith was among the artists who declined invitations to perform for Donald Trump's events. "The killers, Celine Dion, Meat Lough and Erasmith all turned him down to play various things." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
 **Iconic Music Videos** : Aerosmith's music videos from the 1980s were among those that contributed to the allure of music videos during the MTV/MuchMusic era. "watching videos by like Madonna and Peter Gabriel and like Phil Collins and Michael Jackson and and Errol Smith." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 **Impact of Music Videos** : Aerosmith's music videos were influential in the 80s, contributing to the era that made people fall in love with the art form through channels like MTV and MuchMusic. ← https://www.youtube.com/watch?v=eqTFinLk3oU
 **Influential Music Videos** : Aerosmith's music videos were cited among those that captivated and inspired future music video directors like Tadges-Krischlo in the 1980s, due to their compelling storytelling, visuals, and style. "I was watching music videos by like Madonna and Peter Gabriel and like Phil Collins and Michael Jackson and Eros Smith. And I was always fascinated by music videos and the storytelling and the dancing and the style and all that stuff." ← https://www.youtube.com/watch?v=5PJRCC6EwUY
+**Las Vegas Residency Trend** : Aerosmith joined a growing number of rock bands who began accepting offers for Las Vegas residencies, following the path of pop stars who had successfully redefined Vegas entertainment. This trend allowed artists to have fans come to them, rather than enduring the exhaustive nature of traditional touring. "David Lee Roth, Error Smith, Motley Crude, Journey, The Eagles, and Billy Idle among them." ← https://www.youtube.com/watch?v=GYUuTbOvyak
+**Managed by Peter Mensch (Pre-Q Prime)** : Before co-founding Q Prime, Peter Mensch was fired from another management agency where he had been looking after Aerosmith. This early experience in management contributed to his later career. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
 **Music Video Influence** : Aerosmith's music videos from the 1980s MTV and Much Music era were impactful in fostering an appreciation for the art form among directors like Director X, who was drawn to their storytelling, dancing, and style. "The MTV, much music era watching videos by like Madonna and Peter Gabriel and like Phil Collins and Michael Jackson and Errol Smith." ← https://www.youtube.com/watch?v=IIJySSo276k
+**Music Video Inspiration** : Aerosmith's music videos were mentioned as part of the "MTV, MuchMusic era" that contributed to the hosts' early fascination with music videos and their creative aspects. "I came up in the 80s era where that's what made me fall in love with music videos, right? The MTV, much music era, watching videos by like Madonna, Peter Gabriel, and like Phil Collins and Michael Jackson and Eros Smith." ← https://www.youtube.com/watch?v=TsiYLGGSJ2U
+**Nancy Spungen's Groupie Activities – Slept with Every Member** : Nancy Spungen, known for her hardcore groupie lifestyle, reportedly slept with every single member of Aerosmith. "Apparently, she also slept with every single member of Aerosmith." ← https://www.youtube.com/watch?v=OcylgiXkDP8
+**Opposition to Trump Campaign Music Use** : Aerosmith was among numerous artists who objected to Donald Trump's campaign utilizing their music at political rallies. Many artists, despite the technical legality of blanket venue licenses, filed cease and desist orders and lawsuits to prevent their music from being associated with the campaign. "The list of artists against Trump using their music is long." ← https://www.youtube.com/watch?v=GYUuTbOvyak
 **Role in Seattle Hybrid Sound** : In the Seattle music scene, it was common and not considered strange for people to be into both Black Flag and Aerosmith at the same time, contributing to a unique local hybrid of hard rock and hardcore punk. "No one considered it strange to be both into black flag and air smith at the same time." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
 

@@ -1,0 +1,6 @@
+# label - Asylum Records
+
+## curiosities
+**Foundation and Singer-Songwriter Paradise Vision (1971)** : Asylum Records was founded in 1971 by former William Morris Agency show business agents David Geffen and Elliot Roberts. The label's creation was spurred by Geffen's client, Jackson Browne, who struggled to secure a record deal. Geffen envisioned Asylum as a haven for singer-songwriters, embracing a slightly "crazy" ethos reflected in its name. "Asylum was founded in 1971 by a couple of former show business agents at the William Morris Agency." ← https://www.youtube.com/watch?v=7_ZmZxnSOnE
+**Key Artists on Roster** : Asylum Records quickly attracted a roster of prominent singer-songwriters and bands, establishing itself as a significant force in the early 1970s. Artists such as Joni Mitchell, Linda Ronstadt, J.D. Souther, and The Eagles were among those who joined the label. The founders, being fans of Bob Dylan's unique voice, were also open to signing and experimenting with artists like Tom Waits, whom they saw as a potential "Dylan." "They got Johnny Mitchell, Linda Ronstadt, JD Suther, the Eagles? They all became members of the roster." ← https://www.youtube.com/watch?v=7_ZmZxnSOnE
+

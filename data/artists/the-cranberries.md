@@ -4,6 +4,7 @@
 - (a couple of brothers)
 - (a friend)
 - Dolores O'Riordan
+- Dolores O'Riordan (singer)
 - Dolores O'Riordan (singer, songwriter)
 - Fergal Lawler
 - Mike Hogan
@@ -11,6 +12,11 @@
 
 ## genres
 - Alt Rock
+- Alt-Rock
+- Dreampop (adjacent)
+
+## concerts
+- Woodstock 94
 
 ## albums
 **(Third Album, Title not specified) (Year not specified)** : The band's third album continued their commercial success, selling an additional five million copies. "The third, another five million." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
@@ -21,18 +27,24 @@
 **No Need to Argue (Year not specified)** : The band's second album proved even more successful than their debut, selling approximately 17 million copies. "The second, no need to argue, sold around 17 million copies." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Second Album Sales** : The band's second album sold "almost 17 million copies." "The second sold almost 17 million copies." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
 **Something Else (2017) – Unplugged Album** : The distinctive couch that featured prominently on the Cranberries' early album covers made a return appearance on the cover of their 2017 unplugged album, "Something Else." Its whereabouts in the intervening years remain unknown, though it was seen in a Supergrass video. "The couch disappeared from the Cranberries world until 2017 when it appeared on the cover of the unplugged album." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
+**To the Faithful Departed (1996)** : This album was produced by Bruce Fairbairn. "This is from their 1996 album to the Faithful Departed." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
 
 ## songs
 **Water Circle (1990) – Demo Tape** : This demo recording from 1990 marks the very first appearance of Dolores O'Riordan as the new singer for The Cranberries. The track is described as "a bit rough," reflecting its demo status. "This is a bit rough, but it is the first appearance of Doors with the cranberries and the year is 1990." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Zombie** : A mosh pit reportedly formed even for The Cranberries when they played this song, despite its musical style not typically being associated with moshing. The lyric snippet "E-I-E, E-I-E, N-E, N-E, N-E, N-E, N-E" is a clear reference to the song. "But I even saw a pit form for the cranberries when they played this song. Some Dodd, but whatever. E-I-E, E-I-E, N-E, N-E, N-E, N-E, N-E," ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
+**Zombie (1994)** : This song addresses a 1993 IRA bombing that resulted in the deaths of two people. "Zombie, from the Cranberries, is about a 1993 IRA bombing that killed two people." ← https://www.youtube.com/watch?v=4PlieAEthSg
 **Zombie (1994) – IRA Bombing Protest Song; Two Children Died; Often Mistaken for a Song About the Undead** : "Zombie" by the Cranberries is 100% a Troubles protest song, inspired by two IRA bombings in England in February 1993 in which two children died and 56 people were injured. Many listeners assume the song is about the undead. It was a major worldwide hit and remains one of the most recognizable protest songs of the 1990s. "How many people think that zombie from the cranberries is about the undead? Well, no. It is a 100% a Troubles protest song." ← https://www.youtube.com/watch?v=YsNRNKvd1GI
+**Zombie (1994) – Monster Song** : This song was described as a "monster song" from 1994. "The Cranberries 1994 Monster song, Zombie." ← https://www.youtube.com/watch?v=yuA9Xor8vfw
+**Zombie (N/A)** : This song addresses a 1993 IRA bombing which resulted in the deaths of two people. "Zombie from the Cranberries is about a 1993 IRA bombing that killed two people." ← https://www.youtube.com/watch?v=cM3-tINKdvo
 
 ## curiosities
 **Breakup Date (September 15, 2003)** : While an exact date is difficult to pinpoint, September 15, 2003, is considered approximately correct for when the members scattered to pursue solo endeavors, being "sick of each other" and "tired of being in the band." "It's hard to find an exact date, but September 15th 2003 seems to be about right. All the members scattered after that date to do their own thing." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
 **Cultural Impact on 90s Generation** : The first three Cranberries albums were widely owned by "90s kids," often placed alongside records by popular bands like Pearl Jam and Oasis, signifying their significant cultural footprint. "Everyone had those first three cranberries albums right next to their records by Pearl Jam and Oasis." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
+**Dolores O'Riordan's Death (2018)** : Dolores O'Riordan was found dead in her London hotel room around 9 AM on January 15, 2018. Investigations revealed she had been drinking heavily the previous night, with several mini-bar bottles and an empty champagne bottle found in her room. She apparently drew a bath while in her pajamas, laid down, passed out, and died below the surface of the water, with no evidence of drug abuse found. "But as we all know, at around 9 that morning, Dolores was found dead in her London hotel room." ← https://www.youtube.com/watch?v=yuA9Xor8vfw
 **Dolores O'Riordan's Global Fame and Struggles** : For a period, Dolores O'Riordan was one of the most famous singers worldwide. However, the immense pressure of the music business, continuous touring, and constant harassment from tabloids and paparazzi led her to suffer a nervous breakdown at the age of 24. She lived a "delicate existence" thereafter, eventually dying in a London hotel room at 46. "And for a while, she was one of the most famous singers in the entire world, male or female. But that didn't work well with her." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Dolores O'Riordan's Six-and-a-Half-Year Separation** : Singer Dolores O'Riordan stated she hadn't physically seen "the lads" for six and a half years after the band's initial separation, specifically mentioning Mike Hogan. "I hadn't seen the lads physically for six and a half years, right?" ← https://www.youtube.com/watch?v=yR3xc3ra5tE
 **Dolores O'Riordan's Vocal Range** : Dolores O'Riordan possessed a remarkable vocal talent, characterized by a versatile voice that could transition from "sweet as honey" to "growly and yelpy" as needed. "She had a great voice. It could be a sweet as honey or as growly and yelpy as it needed to be." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
+**Dreampop Adjacency** : The Cranberries are mentioned as an artist whose music, being dreamy, atmospheric, and immersive, could be "shoehorned" into the Dreampop scene of the late 80s to mid-90s, despite not being core Dreampop. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 **Fan Excitement for Reunion** : The band's fans were described as "pumped" and "delighted" about the reunion. "And the fans are called the fans are pumped, they're delighted, you know?" ← https://www.youtube.com/watch?v=yR3xc3ra5tE
 **Irish Origin** : The band was formed in Limerick, on the West Coast of Ireland, by four teenagers: a couple of brothers, their friend, and Dolores O'Riordan. "They were from Limerick on the West Coast of Ireland. They were formed by four teenagers, a couple of brothers, their friend, and a tiny, feisty woman named Dolores Orreardum." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Natural Reunion at Trinity College** : Dolores O'Riordan described feeling "really natural" upon seeing her bandmates again at Trinity College, as if she "saw him yesterday," likening the feeling to "a family." "And when I walked in, I just felt really natural. They felt like I saw him yesterday, you know what I mean?" ← https://www.youtube.com/watch?v=yR3xc3ra5tE

@@ -1,5 +1,7 @@
 # genre - House Music
 
 ## curiosities
+**Chicago Development** : After Detroit techno sounds migrated to Chicago, they acquired a distinct flavor largely thanks to DJ Frankie Knuckles, who played influential sets at a club called The Warehouse. This Chicago style subsequently became known as House Music. "These sounds moved to Chicago, where they took on a slightly different flavor thanks to a DJ named Frankie Knuckles, who spun some awesome sets at a club called The Warehouse, and soon this Chicago style became known as House Music." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
+**Chicago Synth Pop Influence** : Synth pop influences specifically settled in Chicago, where they became a fundamental component in the emergence and growth of house music. "In North America, synth pop influences settled in Chicago, where the sounds became integral to the rise of house music." ← https://www.youtube.com/watch?v=1KF5MwJVYng
 **Ghost Ship Fire During House Music Concert (Oakland, California, December 2, 2016)** : An old warehouse in Oakland, California, known as the Ghost Ship, illegally converted into artist lofts and not zoned for entertainment, caught fire during a house music concert organized by the label 100% Silk. The second-floor concert was held in a "death trap" building that lacked adequate safety measures, including sprinklers, fire alarms, and sufficient exit routes. "The concert was on the second floor and put on by a house music label called 100% silk." ← https://www.youtube.com/watch?v=Pgchw2h87aw
 

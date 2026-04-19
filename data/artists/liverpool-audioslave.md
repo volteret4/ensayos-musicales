@@ -1,0 +1,6 @@
+# artist - Liverpool Audioslave
+
+## curiosities
+**Name Sold for $30,000 (October 2002) – To American Supergroup** : A group from Liverpool already named Audioslave was approached by the managers of the American supergroup (Chris Cornell with Rage Against the Machine's instrumentalists) to acquire their name. After initially rejecting a $5,000 offer, they were eventually paid $30,000 in late October 2002, just weeks before the American band's album release. "The managers rang them up and offered them $5,000 for their name. That seemed a little cheap, so they said no. And so the number went up and up and up. But since this was late October 2002, and the American AudioSlave album was set to be released in less than three weeks, the Liverpool AudioSlave knew they had the upper hand. In the end, they were paid $30,000 to go away." ← https://www.youtube.com/watch?v=lip0bZX7hBE
+**Renamed "The Most Terrifying Thing" – After Selling Name** : After selling their name to the American supergroup for $30,000 in October 2002, the Liverpool band Audioslave changed their name to "The Most Terrifying Thing." "Liverpool AudioSlave changed their name to the most terrifying thing." ← https://www.youtube.com/watch?v=lip0bZX7hBE
+

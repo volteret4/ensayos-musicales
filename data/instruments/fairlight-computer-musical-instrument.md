@@ -1,0 +1,6 @@
+# instrument - Fairlight Computer Musical Instrument
+
+## curiosities
+**High Cost and Studio Exclusivity** : Initially priced at $30,000 and above, the Fairlight CMI was only affordable for high-end recording studios. Despite its prohibitive cost, its capabilities revolutionized what could be done with sound manipulation in professional settings, as demonstrated in songs like Frankie Goes to Hollywood's "Relax." "Now, naturally, the only people who could really afford these things, which sold for $30,000 and up, were high in recording studios." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
+**Pioneering Digital Sampler and Synthesizer (1980s)** : The Fairlight CMI, developed by an Australian company, was a groundbreaking device capable of synthesizing sounds, sequencing events, and most notably, digitally sampling sounds for the first time. It allowed users to record, isolate, and manipulate any sound, which appeared as waveforms on a black and white monitor and could be edited with a light pen. "An Australian company came up with something they called the Fairlight Computer Musical Instrument. It could synthesize sounds, sequence events, and, and this is a biggie, sample sounds digitally." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
+

@@ -1,5 +1,8 @@
 # artist - Robert Palmer
 
+## member of
+- The Power Station
+
 ## concerts
 - Ocean Center (July 17)
 - St. Petersburg (August 15)

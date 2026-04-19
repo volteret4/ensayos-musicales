@@ -2,4 +2,5 @@
 
 ## member of
 - Pixies
+- The Pixies
 

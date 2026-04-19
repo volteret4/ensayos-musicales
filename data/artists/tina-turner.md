@@ -1,6 +1,11 @@
 # artist - Tina Turner
 
+## genres
+- Pop
+- Rock
+
 ## songs
+**GoldenEye (1995) – Title Theme** : Tina Turner performed the title theme for the 1995 James Bond film "GoldenEye," Pierce Brosnan's first movie as Bond. The song was written by Bono and The Edge of U2, making it essentially a U2 song "disguised as a Tina Turner performance." It became a decent hit in various parts of the world, including the UK Top 10 and Top 5 in several European countries. "The producers approached Tina Turner to do the theme and then she was connected with Bondo in the edge of U2 to write the song so they did." ← https://www.youtube.com/watch?v=K0pgJ7XAlpo
 **The Best (Year Not Specified)** : A song written by Holly Knight. "She wrote... the best for Tina Turner." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M
 
 ## curiosities

@@ -1,0 +1,11 @@
+# artist - Henry Goldrich
+
+## instruments
+- Wawa pedal
+
+## curiosities
+**Contribution to the Formation of The Ramones** : Henry Goldrich indirectly played a role in the formation of The Ramones. In 1973, Douglas Colvin and John Cummings visited Manie's Music after deciding to form a band while high. They purchased a guitar, a bass, and a small amp from the store, which were the foundational instruments for the band they would form a year later, as D.D. and Johnny Ramone with Joey and Tommy Ramone. "The Ramones, another band made possible by Henry Goldrich, the proprietor of Manie's music in New York." ← https://www.youtube.com/watch?v=6SdPPsmpgJg
+**Introduction of the Wah-Wah Pedal to Iconic Guitarists** : In the mid-1960s, Henry Goldrich introduced the wah-wah pedal to two influential customers, Jimmy Hendrix and Eric Clapton, convincing them to buy one. This act significantly impacted how these guitarists played and altered the entire direction of guitar-based rock and roll music. "In the middle 60s, Henry brought in a new guitar gizmo called a Wawa pedal. He then convinced two customers to buy one. One was up and coming guitarist named Jimmy Hendrix. And then there was Eric Clapton, a hot new player from the UK." ← https://www.youtube.com/watch?v=6SdPPsmpgJg
+**Legacy and Passing** : Henry Goldrich, the proprietor of Manie's Music, passed away at the age of 88 in early 2021. The store itself went out of business in 2009, marking the end of a significant era for New York City's music scene. "Both Henry and the store are gone. Place went out of business in 2009 and Henry died at the age of 88 in early 2021." ← https://www.youtube.com/watch?v=6SdPPsmpgJg
+**Proprietor of Manie's Music** : Henry Goldrich inherited Manie's Music, a music store on West 58th between 6th and 7th avenues in New York City, from his saxophone player father, Manie. The store, established in 1935, became a legendary destination for musicians to buy gear. Henry ensured the store was stocked with the best instruments and accessories, making it a critical hub for touring and local artists. "Henry inherited a music star from his father, a saxophone player turned music retailer. Manie's music on West 58th between 6th and 7th avenues was the place everyone in New York City went for their gear, starting in 1935." ← https://www.youtube.com/watch?v=6SdPPsmpgJg
+

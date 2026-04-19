@@ -1,6 +1,7 @@
 # artist - Mick Jones
 
 ## member of
+- Big Audio Dynamite
 - The Clash
 
 ## instruments

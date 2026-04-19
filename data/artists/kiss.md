@@ -1,16 +1,32 @@
-# artist - KISS
+# artist - Kiss
 
 ## members
 - Ace Frehley
-- Gene Simmons
 - Paul Stanley
-- Peter Criss
+
+## genres
+- Rock
+
+## concerts
+- Coventry
+- Donington
+- Donington Park (1988)
+
+## instruments
+- Electric guitar
+
+## albums
+**Biggest Records (mid-1970s)** : Bob Ezrin produced Kiss's biggest records during the mid-1970s, including their "Destroyer" album. "Bob produced Kiss' biggest records of the middle 70s. You know the Destroyer Abble produced by Canadian..." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
+**Destroyer (mid-1970s)** : This album by Kiss was produced by Canadian Bob Ezrin, contributing to their biggest records of the middle 1970s. "You know the Destroyer Abble produced by Canadian..." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
 
 ## curiosities
-**1970s Popularity and Manufactured Consensus** : In the 1970s, KISS was widely perceived as the "greatest and biggest and best band in the world" by a significant portion of young music fans, a consensus heavily reinforced by various media channels including radio DJs, magazines, record stores, and older siblings. "And they were kiss fans because everywhere they went, someone would tell them that kiss was the greatest and biggest and best band in the world." ← https://www.youtube.com/watch?v=Z7glrAoXtkA
-**Cultural Consensus Example** : KISS is used as an example of a band that achieved widespread cultural consensus in the speaker's youth. In his high school class of 30, five were pop fans, five country, and the remaining 20 were KISS fans, driven by their omnipresence on radio, in record stores (racked up front), and on magazine covers (Cream, Circus). "For example, when I was in high school, grade 10, 30 people in the class, five of them were pop music fans, five of them were country music fans, and they remaining 20 were kiss fans." ← https://www.youtube.com/watch?v=4xxgPX-aR90
-**Fishing Boat Concert (2019)** : In one of the strangest concerts of the year, three members of KISS, in full makeup, performed a gig for eight people aboard a fishing boat off the coast of Australia. The concert's purpose was to use low-frequency rock and roll sounds to attract sharks for people on a glass-bottom boat to observe, but no sharks appeared. "Unfortunately, no sharks turned up." ← https://www.youtube.com/watch?v=72Lei7uug8c
-**Image and Performance** : KISS was a band that took the use of makeup in performance "even further" than the New York Dolls, creating an iconic and exaggerated visual style. They were known for their elaborate stage presence. "Soon, the dolls were playing regular gigs alongside Iggy Pop, and a band who took the makeup thing even further. They were called KISS." ← https://www.youtube.com/watch?v=0xd0Hf5REg4
-**KISS Formed January 30, 1973 at Popcorn Club, Queens NY – Real Names Abandoned; Makeup Ditched 1983, Restored 1996** : KISS evolved out of a glittery band called Wicked Lester. Stanley Eisen and Hame Whits (later Paul Stanley and Gene Simmons) recruited drummer George Criscuola (Peter Criss, who had been in a band called Lips) and guitarist Paul Frehley (Ace Frehley — renamed because there was already a Paul). Their first show was January 30, 1973 at a club in Queens, New York called Popcorn. Building on glam and glitter of the early 1970s, KISS adopted wild costumes and elaborate makeup, keeping their real appearances a closely guarded secret for a decade. After blowing up in 1975, they ditched the makeup on September 18, 1983 for an MTV appearance revealing their faces for the first time. The reunion of the original lineup in 1996 restored the old makeup designs. Paul Stanley and Gene Simmons retired in December 2023. "When they played their first show on January 30, 1973 at a club in Queens, New York called Popcorn, the legend began." ← https://www.youtube.com/watch?v=DiyIPBKiVW4
-**Tribute Band (Mini KISS)** : KISS has a tribute band called Mini KISS, which consists of three little people (under four feet) and a 300-pound female singer. "Many KISS features three little people, they're all under four feet, and a 300 pound female singer." ← https://www.youtube.com/watch?v=72Lei7uug8c
+**Ace Frehley Death (2025) – Brain Hemorrhage After Two Falls, at 74** : Ace Frehley, the iconic original Kiss guitarist who inspired countless young people to pick up the guitar in the 1970s, died at age 74. He suffered a brain hemorrhage following two falls, which led to the family's decision to withdraw life support. "His death was the result of a brain hemorrhage after two falls, leading the family to decide to withdraw life support." ← https://www.youtube.com/watch?v=ZPlsR7_WiZQ
+**Catalog Sale (2020s)** : Kiss sold a portion of their music catalog for $300 million, participating in a significant trend where artists monetized their life's work for upfront financial security and tax advantages. This "gold rush" for catalogs saw companies acquiring music rights, benefiting artists with immediate cash and ensuring their music's long-term public consciousness. "Kiss 300 million." ← https://www.youtube.com/watch?v=GYUuTbOvyak
+**Discovery by Jeff Buckley** : Kiss was one of the bands that Jeff Buckley discovered when he was young. "discovered rush and kiss and various prog rock bands." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
+**Donington Festival Performance (August 28, 1988)** : Kiss was among the notable bands scheduled to perform at the outdoor rock show at Donington, England, on August 28, 1988, an event tragically marked by a fatal crowd collapse during another band's set. "Guns and roses, kiss iron maiden, and others were on the bill." ← https://www.youtube.com/watch?v=Pgchw2h87aw
+**Early Gigs at Coventry** : Kiss played early gigs at the club Coventry, the same venue where Joey Ramone's first band, Sniper, also used to perform. "One of the places that they used to play was a club called Coventry, a venue that also saw early gigs by a band called Kiss." ← https://www.youtube.com/watch?v=j8uk7BnbXwU
+**Early Hard Rock Preference** : Dave Grohl started listening to Kiss before his exposure to The B-52s and Devo, indicating an early appreciation for "big, loud rock." "And then Devo and Kiss, actually before B-52s and Devo." ← https://www.youtube.com/watch?v=8ynrwaUi-sA
+**Influence on Kid Rock's Vision** : Kiss was cited by Kid Rock as an influence on his musical vision, which he described as "very white trash Public Enemy style rap, plus The Stooges, plus Kiss, plus Hank Williams." "A vision he calls very white trash public enemy style rap, plus the stooge's plus kiss plus Hank Williams." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
+**Influence on Pacific Northwest Rock** : Kiss's rock music was mentioned as an influence that freely mixed with hardcore punk in the Pacific Northwest, contributing to the unique blend that formed grunge. "Here beevus and butthead, rock from black Sabbath, kiss and lead zeppelin, mixed freely with hardcore punk that came up with the coast from California..." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
+**Known for Scaring People** : Kiss was known for scaring a lot of people during their career. "so was Alice Cooper and Kiss." ← https://www.youtube.com/watch?v=5vKSjpvVQa8
 

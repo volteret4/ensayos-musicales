@@ -1,0 +1,6 @@
+# label - Universal Music Group
+
+## curiosities
+**Extensive Subdivision of Imprints** : The Universal Music Group acts as a "Russian nesting doll" of labels, comprising numerous divisions like Interscope Geffen-ANM, Capitol Music Group, Republic Records, Island Records, and many others, which are further subdivided into more imprints globally, including specific regional offices. "The main label is Universal. And under that, our division's known as Interscope Geffen-ANM, Capital Music Group, Republic Records, Island Records, Caroline Records, Isolation Network, Universal Music Group Nashville, Universal Music Latin entertainment, the Verge label group, Universal Music Enterprises, Eagle Rock Entertainment, Universal Music UK, Universal Music Hong Kong, Universal Music Japan, and Universal Music Sweden." ← https://www.youtube.com/watch?v=AcADOuQUiAQ
+**Major Label Status and Ownership** : Universal Music Group is identified as the largest of the three major multinational record corporations. It is owned by a French company called Vivendi and operates a vast network of sub-labels and divisions across the globe. "Universal, which is the biggest known by a French company called Vendee." ← https://www.youtube.com/watch?v=AcADOuQUiAQ
+

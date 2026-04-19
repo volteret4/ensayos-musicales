@@ -8,6 +8,9 @@
 - Jeff Burrows (Crash Karma)
 - Mike Turner (Crash Karma)
 
+## concerts
+- Edge Fest
+
 ## albums
 **Blue Green Orange (1999)** : This album was released in 1999. "There was another album called Blue Green Orange in 1999." ← https://www.youtube.com/watch?v=P0pOgz3ZobE
 **Crash Karma (2010)** : This was the debut and only record released by the band Crash Karma, formed in 2008 by Edwin, Mike Turner (ex-Our Lady Peace), and Jeff Burrows (The Tea Party). "they had one record in 2010." ← https://www.youtube.com/watch?v=P0pOgz3ZobE
@@ -31,5 +34,6 @@
 **Initial Breakup (Post-2003)** : After releasing their album *Quicksilver Meat Dream* in 2003, the band broke up, with all members pursuing individual endeavors. "and then they broke up. Everybody went off to do other things." ← https://www.youtube.com/watch?v=P0pOgz3ZobE
 **Jag Tana's Post-I Mother Earth Career** : Jag Tana founded a record label, produced several acts, and also engaged in television projects following the band's breakup. "Jag Tana started a record label and produced a few acts as well as working on a TV project or two." ← https://www.youtube.com/watch?v=P0pOgz3ZobE
 **Record Label Bidding War** : After recording demos and performing gigs, the band became the focus of a bidding war among record labels. "They recorded some demos, played some gigs, and ended up being the subject of a bidding war." ← https://www.youtube.com/watch?v=P0pOgz3ZobE
+**Subject of Bidding War** : I Mother Earth was the subject of a fierce bidding war among several labels, highlighting their significant potential and the industry's increasing interest in Canadian talent during the 1990s. Their performance at Edge Fest further showcased their popularity. "Another band that had been the subject of a fierce bitty war among several labels." ← https://www.youtube.com/watch?v=6PGgNCaW4xo
 **Vocalist Change (Post-Scenery and Fish)** : Following the release of their second album, original vocalist Edwin decided to depart from the band and was replaced by Brian Byrne. "Edwin decided he didn't want to be part of the band anymore, so he was replaced by Brian Burn." ← https://www.youtube.com/watch?v=P0pOgz3ZobE
 

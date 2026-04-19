@@ -1,5 +1,8 @@
 # label - Sub Pop
 
 ## curiosities
+**Early Grunge Catalyst** : Sub Pop was a small, "perpetually broke" independent record label that played a key role in the early grunge scene by releasing songs from local bands, such as Mudhoney's "Touch Me I'm Sick" in early 1988. "Then along came a small, perpetually broke independent record label called Subpop, which really songs from local bands like this." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
+**Halifax-Seattle Connection** : Sub Pop signed Sloan for their first album, "Smeared," contributing to the perception between late 1991 and 1993 that Halifax was becoming the "new Seattle" due to its burgeoning music scene. This signing linked Canadian indie rock with a prominent American alternative label. "largely because of this band who ended up being signed to Subpop for their first album." ← https://www.youtube.com/watch?v=6PGgNCaW4xo
 **Interest in Canadian Talent (1990s)** : In the early 1990s, following the success of Nirvana, Sub Pop Records showed interest in signing Canadian bands. This reflected a broader industry "rush to sign Canadian bands" during the era of the Canadian rock revolution, indicating a recognition of the burgeoning talent. "The subpop. Yeah. I remember the subpop came up to Toronto." ← https://www.youtube.com/watch?v=y7kmkWJ54ww
+**Seattle-based Indie Label** : Sub Pop is an indie label from Seattle, identified as one of the more important labels in the American Pacific Northwest that released records by bands like Mecca Normal. It was well-known for signing grunge bands and also supported other indie acts. "and Subpop from Seattle." ← https://www.youtube.com/watch?v=Qss5kC2FUx0
 

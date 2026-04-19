@@ -1,6 +1,7 @@
 # artist - Dallas Green
 
 ## member of
+- Alexis on Fire
 - Alexisonfire
 - City and Colour
 

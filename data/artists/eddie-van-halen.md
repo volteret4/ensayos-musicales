@@ -8,6 +8,9 @@
 - Frankenstein guitar (heavily modified Stratocaster)
 - Frankenstrat
 
+## songs
+**Beat It** : Eddie Van Halen performed the guitar solo on Michael Jackson's song "Beat It." "Yes Eddie Vetter does the solo, but all the other guitars are Steve Lucathur." ← https://www.youtube.com/watch?v=yuA9Xor8vfw
+
 ## curiosities
 **Constantly Modified Frankenstrat** : Eddie Van Halen's famous Frankenstrat guitar was subject to continuous modifications. He persistently altered the instrument in his relentless pursuit of the specific guitar tones he envisioned in his mind. "Think of Eddie Van Halen's Frankenstrat, which was always being modified as Eddie chased the guitar tones he heard in his head." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
 **Frankenstein Guitar** : Eddie Van Halen's "Frankenstein" guitar is essentially a heavily modified Fender Stratocaster, showcasing his innovative approach to instrument customization. "and Eddie Van Halen's Frankenstein guitar, that's basically a heavily modified Stratocaster." ← https://www.youtube.com/watch?v=E6cXyaHALBQ

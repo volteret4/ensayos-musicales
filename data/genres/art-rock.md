@@ -1,5 +1,5 @@
-# genre - Art Rock
+# genre - art rock
 
 ## curiosities
-**Keyboard Integration** : Art rock artists like Jean-Michel Jarre, Tomita, and Vangelis were noted for their early adoption and integration of electronic keyboards into their music, contributing to the genre's distinct sound. "We also had art rock types getting into these keyboards, names like Jami Shaljar, Tommida and Vengellis." ← https://www.youtube.com/watch?v=5PJRCC6EwUY
+**Bowie's Consistent Style** : Art rock was a genre frequently associated with David Bowie's work, notably influencing the sound of his 2002 album *Heathen*, which felt like a 70s record, and present in the experimental elements of his final album *Blackstar*. Bowie's DNA can also be found in glam, punk, folk, hard rock, grunge, industrial, electronic, indie rock, and hip-hop. "No wonder then that the album felt somewhat like a 70s record, very art rock, very art pop, along with some of the dystopianism and dread heard on records like Ziggy Stardust and Aladdin St. Diamond Dogs and Station to Station." ← https://www.youtube.com/watch?v=Yq2A_o9-ulM
 

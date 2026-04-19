@@ -1,5 +1,8 @@
-# artist - Panic! At The Disco
+# artist - Panic at the Disco
+
+## genres
+- Emo
 
 ## curiosities
-**Influenced by Blink-182** : Panic! At The Disco is included in a list of artists who have been shaped by the influence of Blink-182, underscoring Blink-182's enduring legacy within the broader music landscape. "Some 41 good Charlotte simple-plan panic at the disco, followed boy, headly, billy talent, you would meet six, paramour, you know, you get the idea." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE
+**Leading Emo Band** : Panic at the Disco emerged as part of the wave of Emo and Emo-ish bands signed by labels in the early 2000s. Their music helped define the sound and aesthetic of the rapidly growing Emo scene and its associated subculture. "Dashboard, confessional, taking back Sunday, panic at the disco, followed boy, story of the year, funeral for a friend, 30 seconds to Mars." ← https://www.youtube.com/watch?v=-CT7yYXonIk
 

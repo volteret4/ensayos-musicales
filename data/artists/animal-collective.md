@@ -1,5 +1,8 @@
 # artist - Animal Collective
 
+## members
+- Panda Bear
+
 ## genres
 - Psych Rock
 - Psychedelic Rock

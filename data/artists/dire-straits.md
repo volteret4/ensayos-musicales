@@ -7,6 +7,13 @@
 - Fender Stratocaster
 - Fender Twin Reverb
 
+## albums
+**Brothers in Arms (1985) - First CD to Sell Over a Million Copies** : Dire Straits' "Brothers in Arms" was the first Compact Disc to sell more than one million copies, achieving this milestone in 1985. This represented a significant commercial success for the relatively new CD format and for the band. "The first compact disc to sell more than a million copies was Brothers and Arms by Dyer Straits that happened in 1985." ← https://www.youtube.com/watch?v=gP3oQeYEvso
+**Brothers in Arms (1985) – First CD to Sell a Million Copies** : This album, noted for its beautiful recording, became the first compact disc to sell a million copies by 1986. Philips, a key developer of CD technology, sponsored Dire Straits' tour in support of this digitally recorded album, with leader Mark Knopfler appearing in a TV commercial extolling the CD's virtues. "Dire Straits, Brothers and Arms album, a beautifully recorded album, became the first CD to sell a million copies." ← https://www.youtube.com/watch?v=BHkJFA0LMro
+
 ## songs
 **Money for Nothing (1985)** : This song was rated very low by students who scored high on the psychopathy scale in a New York University study. The research explored musical preferences among individuals with psychopathic tendencies, finding this track unpopular with that group. "These same people rated songs like Money for Nothing by Dire Straits, and the next My Shirona really low, same thing with classical music they didn't like it." ← https://www.youtube.com/watch?v=aSk1XQHNkd8
+
+## curiosities
+**Philips Sponsorship and Mark Knopfler Commercial** : Philips, one of the developers of the compact disc, sponsored Dire Straits' tour for their digitally recorded album "Brothers in Arms." The band's leader, Mark Knopfler, also appeared in a TV commercial to promote the advantages of the CD format, contributing to the album becoming the first to sell a million copies on CD. "Phillips went so far as to sponsor DireStraight's Tour in support of their digitally recorded album Brothers and Arms. Leader Mark Knopfler even did a TV commercial, extolling the virtues of the CD." ← https://www.youtube.com/watch?v=BHkJFA0LMro
 

@@ -2,4 +2,5 @@
 
 ## member of
 - Nirvana
+- Soundgarden
 

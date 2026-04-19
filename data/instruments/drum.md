@@ -1,5 +1,6 @@
 # instrument - Drum
 
 ## curiosities
+**Dismissal in Early 1960s** : In the early 1960s, there was a widespread belief that music reliant on drums was becoming outdated. A London paper predicted that the public would tire of "background noise created by three guitars and a drumbeat" by Christmas, reflecting a dismissive attitude towards the instrumentation of emerging rock groups. "One of London's papers wrote, by Christmas, the public will have tired of background noise created by three guitars and a drumbeat." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
 **Women as Humanity's First Formalized Drummers (c. 3000 years ago)** : The drum, identified as the oldest instrument known to humans, was primarily associated with women in ancient times, roughly 3,000 years ago. Carvings, paintings, and sculptures from ancient Egypt (around the time of the pyramids), Mesopotamia (including Sumeria), Ancient Greece, and Ancient Israel depict women as crucial drummers, entrusted with keeping the beat for music designed to induce religious and mystical trance states. Over centuries, men gradually took over the instrument, transforming it into a military tool for battle, thereby moving women away from their historical role. "The main picture, though, is that women were humanity's first formalized drummers." ← https://www.youtube.com/watch?v=_Pi7JLwAeOI
 

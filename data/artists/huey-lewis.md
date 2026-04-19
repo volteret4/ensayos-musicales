@@ -1,5 +1,8 @@
 # artist - Huey Lewis
 
+## member of
+- Huey Lewis and the News
+
 ## genres
 - Pop
 

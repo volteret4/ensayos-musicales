@@ -1,6 +1,7 @@
 # artist - Gord Sinclair
 
 ## member of
+- Rick and the Rodent S
 - The Tragically Hip
 
 ## instruments

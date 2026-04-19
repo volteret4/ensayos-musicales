@@ -2,4 +2,5 @@
 
 ## member of
 - Sex Pistols
+- The Vicious White Kids
 

@@ -1,5 +1,8 @@
 # artist - John Bonham
 
+## member of
+- Led Zeppelin
+
 ## instruments
 - Drums
 

@@ -13,4 +13,5 @@
 
 ## curiosities
 **Breakthrough with Home Studio Recording** : Tame Impala, the project of Australia's Kevin Parker, achieved a breakthrough with the album "Lonerism," which was completely recorded in his home studio. This success positioned Tame Impala as one of the most successful artists in the 2010s resurgence of psychedelic rock. "One of the most successful of this new group of psych artists was Tayman Palo, the project of Australia's Kevin Parker." "After getting started with a few releases in the Outs, Kevin and Tayman Palo broke through with an album completely recorded in his home studio." ← https://www.youtube.com/watch?v=HSvgRyGiOpE
+**Hipster Music Association** : This band was popular among those identifying with hipster culture in the 2010s, aligning with tastes for older or retro sounds. "If that was your scene, I'm going to bet that you and your like-minded friends could also agree on indie era radiohead, LCD sound system, bright eyes, arcade fire, willko, tame and pala, body bear, fleet foxes, and these guys, who were so intertwined with hipster culture, that they actually became a meme." ← https://www.youtube.com/watch?v=sOU54d8mr5k
 
