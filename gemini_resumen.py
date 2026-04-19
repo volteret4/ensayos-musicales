@@ -4,6 +4,7 @@ from google import genai
 from google.genai.errors import ClientError
 from sops_env import load_sops_env
 import requests
+import time
 
 # 1. Configuración de la API
 load_sops_env()
@@ -36,53 +37,53 @@ def _generate_with_retry(prompt, diferencia, max_retries=5):
                 contents=prompt
             )
         except ClientError as e:
-            if e.code == 429:
-                print("Rate limit alcanzado. Abortando el script.")
-                MENSAJE_WORKING = f"Faltan {diferencia} artículos por resumir"
-                payload_working = {
-                    "chat_id": TELEGRAM_CHAT_ID,
-                    "text": MENSAJE_WORKING
-                }
-                response = requests.post(TELEGRAM_URL, data=payload_working)
 
+            # Extraemos el código de error independientemente de si es Client o Server
+            code = getattr(e, 'code', None) or getattr(e, 'status_code', None)
+
+            if code in [429, 503]:
+                motivo = "Rate Limit (429)" if code == 429 else "Alta Demanda (503)"
+                print(f"{motivo} detectado. Abortando script...")
+
+                mensaje_error = f"⚠️ {motivo}. Faltan {diferencia} artículos por resumir."
+                payload = {
+                    "chat_id": TELEGRAM_CHAT_ID,
+                    "text": mensaje_error
+                }
+                requests.post(TELEGRAM_URL, data=payload)
+
+                # Salida inmediata del sistema
                 raise SystemExit(1)
             else:
+                print("Esperando tres segundos por si falla")
+                time.sleep(3)
                 raise
 
-def summarize_files(folder_path):
-    # Recorremos todas las subcarpetas de transcripts
-    for root, dirs, files in os.walk(folder_path):
-        # Evitar procesar archivos que ya están en la carpeta 'summarized'
-        if 'summarized' in root:
-            continue
+def split_text(text, max_chars=35000):
+    """Divide el texto en fragmentos respetando saltos de línea."""
+    if len(text) <= max_chars:
+        return [text]
 
-        txt_files = [f for f in files if f.endswith('.txt')]
+    chunks = []
+    while len(text) > 0:
+        if len(text) <= max_chars:
+            chunks.append(text)
+            break
 
-        for filename in txt_files:
-            file_path = os.path.join(root, filename)
+        # Buscamos el último punto o salto de línea dentro del límite
+        split_at = text.rfind('\n', 0, max_chars)
+        if split_at == -1: # Si no hay saltos de línea, buscamos un punto
+            split_at = text.rfind('. ', 0, max_chars)
+        if split_at == -1: # Si no hay nada, cortamos a machete
+            split_at = max_chars
 
-            # Determinar ruta relativa para replicar en 'resumenes'
-            rel_path = os.path.relpath(root, folder_path)
-            output_dir = os.path.join(OUTPUT_FOLDER, rel_path)
-            os.makedirs(output_dir, exist_ok=True)
+        chunks.append(text[:split_at].strip())
+        text = text[split_at:].strip()
 
-            base_name = os.path.splitext(filename)[0]
-            output_path = os.path.join(output_dir, f"{base_name}.md")
+    return chunks
 
-            if os.path.exists(output_path):
-                print(f"--- Saltando: {filename} (ya resumido) ---")
-                response = requests.post(TELEGRAM_URL, data=payload_end)
-                continue
 
-            print(f"--- Resumiendo: {os.path.join(rel_path, filename)} ---")
-
-            try:
-                with open(file_path, 'r', encoding='utf-8') as file:
-                    content = file.read()
-
-                if not content.strip(): continue
-
-                prompt = f"""
+PROMPT_TEMPLATE = """
 You are a renowned music historian and critic. Extract all musically significant information from the transcript and output it as structured markdown. Be exhaustive — preserve every detail, anecdote, date, name, and figure mentioned.
 
 ═══ FILTER ═══
@@ -103,7 +104,7 @@ Then add ONLY the subsections for which you have real data:
   ## labels         one label per line (bare name)
   ## concerts       one concert or festival name per line (bare name)
   ## instruments    one instrument or gear item per line (bare name)
-  ## albums         one entry per line: **Title (Year) – Subtitle** : description
+  ## albums         one entry per line: **Title (Year) - Subtitle** : description
   ## songs          one entry per line: **Song Title (Year)** : description
   ## curiosities    one entry per line: **Descriptive Title** : description
 
@@ -121,14 +122,14 @@ For ## albums / songs / curiosities — one entry per line:
   **Descriptive Title** : full description
 
 Title must be INFORMATIVE, never a bare name:
-  GOOD: **Abbey Road (1969) – Final Studio Album**  |  **Come Together (1969)**  |  **Ed Sullivan Debut – 73 Million Viewers**
+  GOOD: **Abbey Road (1969) - Final Studio Album**  |  **Come Together (1969)**  |  **Ed Sullivan Debut - 73 Million Viewers**
   BAD:  **Abbey Road**                              |  **Come Together**         |  **Ed Sullivan**
 
 Description must be RICH and COMPLETE — write everything the transcript says about it:
   - Include all dates, cities, chart positions, sales figures, real names, studio names
   - Include cause-and-effect context: why something happened, what led to it, what it caused
   - Include comparisons and influences mentioned
-  - Aim for 2–5 sentences per entry. Do NOT truncate or summarise — if the transcript gives detail, keep it.
+  - Aim for 2-5 sentences per entry. Do NOT truncate or summarise — if the transcript gives detail, keep it.
   - No generic praise ("groundbreaking", "iconic") unless the transcript itself uses those words
   - End EVERY albums/songs/curiosities entry with one short verbatim quote from the transcript that captures the core idea, formatted as: "exact words from transcript."
 
@@ -194,25 +195,65 @@ Text to process:
 {content}
 """
 
-                # Contar archivos (ignora subdirectorios)
+
+def summarize_files(folder_path):
+    # Recorremos todas las subcarpetas de transcripts
+    for root, dirs, files in os.walk(folder_path):
+        # Evitar procesar archivos que ya están en la carpeta 'summarized'
+        if 'summarized' in root:
+            continue
+
+        txt_files = [f for f in files if f.endswith('.txt')]
+
+        for filename in txt_files:
+            file_path = os.path.join(root, filename)
+
+            # Determinar ruta relativa para replicar en 'resumenes'
+            rel_path = os.path.relpath(root, folder_path)
+            output_dir = os.path.join(OUTPUT_FOLDER, rel_path)
+            os.makedirs(output_dir, exist_ok=True)
+
+            base_name = os.path.splitext(filename)[0]
+            output_path = os.path.join(output_dir, f"{base_name}.md")
+
+            if os.path.exists(output_path):
+                print(f"--- Saltando: {filename} (ya resumido) ---")
+                response = requests.post(TELEGRAM_URL, data=payload_end)
+                continue
+
+            try:
+                with open(file_path, 'r', encoding='utf-8') as file:
+                    full_content = file.read()
+
+                if not full_content.strip(): continue
+
                 num_transcripts = len([f for f in os.listdir(root) if os.path.isfile(os.path.join(root, f))])
-                # num_resumenes = len([f for f in os.listdir(output_dir) if os.path.isfile(os.path.join(output_dir, f))])
-
-                # Diferencia
-                # diferencia = num_transcripts - num_resumenes
-
-                response = _generate_with_retry(prompt, num_transcripts)
-
-                with open(output_path, 'w', encoding='utf-8') as out_f:
-                    out_f.write(response.text)
-
-                # Mover a 'summarized' dentro de la subcarpeta actual
+                text_chunks = split_text(full_content, max_chars=35000)
                 summarized_dir = os.path.join(root, 'summarized')
                 os.makedirs(summarized_dir, exist_ok=True)
-                shutil.move(file_path, os.path.join(summarized_dir, filename))
 
             except Exception as e:
-                print(f"Error: {e}")
+                print(f"Error leyendo {filename}: {e}", flush=True)
+                continue
+
+            for i, chunk in enumerate(text_chunks):
+                suffix = f" (Parte {i+1}/{len(text_chunks)})" if len(text_chunks) > 1 else ""
+                print(f"--- Resumiendo: {os.path.join(rel_path, filename)}{suffix} ---", flush=True)
+                try:
+                    response = _generate_with_retry(PROMPT_TEMPLATE.format(content=chunk), num_transcripts)
+
+                    mode = 'w' if i == 0 else 'a'
+                    with open(output_path, mode, encoding='utf-8') as out_f:
+                        if i > 0: out_f.write("\n\n--- CONTINUACIÓN DEL DOCUMENTO ---\n\n")
+                        out_f.write(response.text)
+
+                except SystemExit:
+                    raise
+                except Exception as e:
+                    print(f"Error en {filename} parte {i+1}: {e}", flush=True)
+                    break
+            else:
+                shutil.move(file_path, os.path.join(summarized_dir, filename))
 
 # 2. Ejecución
 summarize_files(INPUT_FOLDER)
