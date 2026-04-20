@@ -650,7 +650,7 @@ def build_html(data):
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Music Encyclopedia</title>
-<link rel="icon" type="image/png" href="img/books.png" />
+<link rel="icon" type="image/png" href="/img/books.png" />
 <!-- Umami Analytics -->
 <script>
     defer
