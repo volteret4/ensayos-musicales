@@ -9,9 +9,12 @@
 - Russell Hobbs
 
 ## genres
+- Alt Rock
 - Alt-rock
 - Brit-pop
+- Dance
 - Dub
+- Electronic
 - Hip-hop
 - Pop
 - Reggae
@@ -56,6 +59,7 @@
 ## curiosities
 **2010 World Tour Performance Method** : During their first "proper" world tour in 2010, the nine-person live band (including Mick Jones and Paul Simonon) performed in front of a screen with visuals projected behind them, a shift from their earlier method of hiding behind the screen. "Instead of hiding behind a screen, like the first tour, they were out front with visuals projected on the screen behind them." ← https://www.youtube.com/watch?v=iVdTCqpd798
 **21st Century Rock Success** : Gorillaz were cited as one of the limited examples of bands from the first decade of the 21st century that might compare to the alt-rock titans of the 80s and 90s. "Now think about it, outside of Coldplay, Jack White, Gorillas and maybe Lincoln Park. Who else from the first decade of the 21st century can rank against the alt rock giants of the 80s and 90s?" ← https://www.youtube.com/watch?v=tFBSrKMEZxI
+**Alt Rock Success in the 2000s (Potential Inclusion)** : Gorillaz were mentioned as a group that "could also be thrown into this mix" of artists who blended alt rock sensibilities with dance influences and had alt rock hits in the 2000s. "You could also throw in gorillas into this mix if you want...They all had alt rock hits in the odds." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Animated Concept Band** : The band Gorillaz is entirely an animated concept, conceived and created by Damon Albarn and Jamie Hewlett. All of their releases are conceptual in nature. "In fact the band itself is nothing but an animated concept created by Damon Albarn and Curtunus Jamie Hewlett." ← https://www.youtube.com/watch?v=1KyNY3zv6uc
 **Character Lore During Hiatus (c. 2015)** : During the band's hiatus, the characters became active on social media and a virtual book explained their individual stories: Murdoc was captured by a record company and forced to make an album; Noodle returned to Japan and took over the Yakuza; 2D was swallowed by a whale named Massive Dick; and Russell, who had become a giant, washed up on a North Korean beach, was imprisoned, starved, and shrunk back to normal size. "Murdoch had been captured by the record company and was ordered to make another album under duress." ← https://www.youtube.com/watch?v=iVdTCqpd798
 **Creation and Concept** : Formed by Damon Albarn and Jamie Hewlett in 1997, the band originated from their observations of MTV artists' perceived vacuity and lack of substance. The idea was to create a "fake band" with fictional characters to comment on contemporary music. "Bloody hell, somebody said, we should just form a fake band. You make some music, all draw the characters." ← https://www.youtube.com/watch?v=iVdTCqpd798

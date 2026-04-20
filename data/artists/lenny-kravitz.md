@@ -16,6 +16,7 @@
 **Let Love Rule (1989) – Debut Album** : Released in 1989, this debut album initiated Lenny Kravitz's career, leading to a series of platinum records and four consecutive Grammy wins for Best Male Rock Vocalist. "Since releasing his debut album Let Love Rule, Lenny has had a string of platinum records and won the Grammy for Best Male Rock Vocalist four years in a row." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 
 ## songs
+**B-Side Blues (1991)** : Lenny Kravitz released a song titled "B-Side Blues," directly acknowledging and incorporating the concept of a B-side into its title. This track further demonstrates how artists sometimes engaged with the idea of the B-side. "There's a Lenny Kravitz song called B side blues." ← https://www.youtube.com/watch?v=QBCEmZ4Jheo
 **Mr. Cab Driver** : This song by Lenny Kravitz is noted for tackling the issue of racism. "Racism was tackled in Mr. Cab driver by Lenny Kravitz." ← https://www.youtube.com/watch?v=0ARYt4sYT90
 **Mr. Cab Driver (1989)** : This song is from Lenny Kravitz's debut album, "Let Love Rule," released in 1989. "This is Lenny Kravitz, a Mr. Cab driver. Mr. Cab driver, don't like the way I look." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 

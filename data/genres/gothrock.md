@@ -9,3 +9,6 @@
 **Sound Characteristics** : Goth is characterized as being "softer and slower" and "introspective," in contrast to industrial music. It often employs a keyboard-based approach similar to early 1980s technopop and smoother modern electronic sounds, making it "a little more danceable." "On the other hand, Goth has a keyboard based approach that is more in common with the techno popper of the early 1980s and the smoother flavors of modern electronic than it does with any hard techno." ← https://www.youtube.com/watch?v=evlGhfUe6QQ
 **Worldwide Presence** : Goth is described as one of the strongest, most solid, and most widespread subcultures in rock, with a worldwide presence including scenes in France, Belgium, Scandinavia, Russia, Japan, and New Zealand. "Goth is one of the strongest, most solid, most widespread of all the sub-cultures in rock and it's worldwide." ← https://www.youtube.com/watch?v=evlGhfUe6QQ
 
+## artists
+- The Sisters of Mercy
+

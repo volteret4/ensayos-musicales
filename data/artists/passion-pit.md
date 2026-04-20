@@ -3,6 +3,7 @@
 ## genres
 - Analog sound
 - Keyboard-based
+- New Wave Revival
 
 ## instruments
 - ARP (modeled by Yamaha SK line)
@@ -26,6 +27,7 @@
 **Analog Tuning Challenges** : While analog keyboards offer depth, they require a lot of tuning during live performances, which is a trade-off compared to sterile digital sampled keyboards. "Yeah, but once in a while I see why, because we're on stage, there's a lot of tuning going on. But it makes the sounds much more depth to it." ← https://www.youtube.com/watch?v=1KF5MwJVYng
 **Apartment Studio Setup** : One member records in a soundproofed two-bedroom apartment on the Lower East Side, using the larger bedroom as a studio. The soundproofing includes 3,000 pounds of sand under the floor and insulated walls to prevent disturbing neighbors. "Well, I have a two bedroom apartment and a lower east side, and I sleep in the smaller bedroom, and the slightly larger bedroom is my studio, but I've had it soundproofed." ← https://www.youtube.com/watch?v=1KF5MwJVYng
 **Boston-Based 20-Somethings** : The group is based in Boston and is composed of musicians in their twenties who have developed a significant obsession with a specific type of sound from the 1980s. "Passion Pit is a Boston-based group of 20-somethings who, even though they weren't even born until halfway through the decade, have developed a major obsession with a certain type of sound from the 1980s." ← https://www.youtube.com/watch?v=1KF5MwJVYng
+**Embracing 80s Alt Rock** : Passion Pit was described as having "more than a tinge of 80s alt rock" in their music, fitting into the broader New Wave Revival trend of the 2000s. "Phoenix, Passion Pits, the Tingtings all had more than a tinge of 80s alt rock to what they did." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Hoarding Old Equipment** : The band actively acquires vintage gear, including analog drum machines, spring reverb units, tape delays, and old synths, often through platforms like eBay. "I'm sort of a hoarder when it comes to old equipment." ← https://www.youtube.com/watch?v=1KF5MwJVYng
 **SK30's Hidden Value** : The Yamaha SK30 is highly valued by the band because it contains a CS80 chip, which is usually found in much more expensive synthesizers. One member acquired an SK30 for free. "Their chip inside of them is... The SK30 is a CS80 chip, which is a lot more expensive synthesizer than the SK30." ← https://www.youtube.com/watch?v=1KF5MwJVYng
 **Yamaha SK Line Preference** : The band expresses a strong preference for the Yamaha SK line of synthesizers, specifically the SK15, SK20, and SK30, valuing their expressive capabilities which are modeled after ARP synths. "We love the Yamaha SK line. 15, 20, 30." ← https://www.youtube.com/watch?v=1KF5MwJVYng

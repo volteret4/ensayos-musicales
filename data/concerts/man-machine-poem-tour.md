@@ -8,3 +8,6 @@
 **Response to Cancer Diagnosis** : This tour was announced on May 25, 2016, the day after Gord Downie's incurable brain tumor was publicly announced, leading to a period of denial for fans. Tickets sold out across Canada in minutes on June 3rd. "one day later, the hip announced the man-machine poem tour. Now, from our perspective, the news was dire, but hey, it couldn't be that bad yet, right?" ← https://www.youtube.com/watch?v=Um_KEEcCeT4
 **Start Date** : The tour was set to begin in Victoria on July 22, 2016. "Everything was set to start in Victoria on July 22nd." ← https://www.youtube.com/watch?v=Um_KEEcCeT4
 
+## artists
+- The Tragically Hip
+

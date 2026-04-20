@@ -6,3 +6,6 @@
 **Financial Restructuring & IPO (2005)** : In spring 2005, Warner Music Group underwent a significant organizational and financial restructuring, which involved cuts of $250 million. They planned an Initial Public Offering (IPO) to raise $750 million, expecting a $1.4 billion windfall from a $2.6 billion purchase made 18 months prior. "The new owners of Warner Music Group will be reaping a windfall of $1.4 billion from the $2.6 billion purchase a mere 18 months ago if their planned IPO moves forward." ← https://www.youtube.com/watch?v=qQm7u3W13eM
 **Public Response to Lincoln Park** : Warner Music Group publicly fired back at Lincoln Park's statements during contract renegotiations, labeling the band's claims as a "ploy." They asserted that Linkin Park's management was using "fictitious numbers" and making "baseless charges and inflammatory threats," emphasizing their significant investments in the band and generous compensation for their success. "Warner fired back, saying that this was just a ploy during a time of contract re-negotiation." ← https://www.youtube.com/watch?v=qQm7u3W13eM
 
+## artists
+- Lincoln Park
+

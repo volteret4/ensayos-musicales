@@ -13,3 +13,16 @@
 **Specialization in Emerging Styles** : 4AD was crucial in establishing the emerging Dreampop and Goth-adjacent styles, signing acts like Bauhaus, Cocteau Twins, This Mortal Coil, and AR Kane that had a distinctive sound. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 **Strong Visual Identity** : Beyond its sound, 4AD was known for its powerful visual identity, characterized by its distinctive logo and album artwork. This cohesive aesthetic contributed to its unique reputation. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 
+## artists
+- AR Kane
+- Cocteau Twins
+- Da-Da
+- Dead Can Dance
+- MARRS
+- Modern English
+- Pixies
+- The Birthday Party
+- The Pixies
+- This Mortal Coil
+- Throwing Muses
+

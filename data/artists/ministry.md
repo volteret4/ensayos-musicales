@@ -32,6 +32,7 @@
 ## songs
 **Every Day Is Halloween (1984)** : Released in 1984 during Ministry's Goth period, this song has become an "immortal Goth anthem" with lyrics that perfectly encapsulate the Goth ethos. "Ministry from 1984 with an immortal Goth anthem every day is Halloween." ← https://www.youtube.com/watch?v=evlGhfUe6QQ
 **Everyday Is Halloween (Year Unspecified)** : Released by Ministry after their pivot to a gothic sound, this song became recognized as a goth anthem, marking their significant contribution to the genre. "releasing every day as Halloween, a Goth anthem." ← https://www.youtube.com/watch?v=XaLsZFLrMnI
+**Tonight We Murder (1992)** : This song is listed as an example of a track that deals with the subject of murder in rock music. "Tonight we murder by ministry." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4
 
 ## curiosities
 **Acknowledged Influence of Public Image Limited** : Ministry is one of the bands cited as having acknowledged the significant importance of Public Image Limited. "Nine-inch nails, massive attack, manic street preachers, ministry, primal scream, they all acknowledged the importance of public image limited." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ

@@ -19,7 +19,7 @@
 - Warped Tour
 
 ## albums
-**Let's Go (1994)** : Released in June 1994, this album was recorded for Bad Religion's Epitaph Records. Rancid's material gained attention during the period Bad Religion was also recording, leading to its release and contribution to the burgeoning pop punk scene. "Rancid and Salvation from there, let's go album, which was released in June of 1994." ← https://www.youtube.com/watch?v=pE7TaWSUa-o
+**Let's Go (1994)** : This was Rancid's second album, released on June 21, 1994. The band maintained their punk rock ethics by staying with Epitaph but agreed to a strategic compromise where Warner Brothers, a major label, would distribute and "stealthily promote" their records. "Ransett met the industry halfway. They stayed with epitaph, which pleased bad religion and preserved their punk rock ethics, but they agreed to have their epitaph records distributed and stealthily promoted by Warner Brothers, one of the majors." ← https://www.youtube.com/watch?v=gkLMwrthZ9s
 **Life Won't Wait (1998)** : The 1998 album _Life Won't Wait_ includes the song "Turn Table." "It's from Rancid's 1998 album, Life Won't Wait." ← https://www.youtube.com/watch?v=IIJySSo276k
 
 ## songs

@@ -5,6 +5,7 @@
 - Kevin Shields
 
 ## genres
+- Alt Rock
 - Dreampop
 - Fuzz
 - Guitar Noise
@@ -26,7 +27,9 @@
 **Only Shallow (1981)** : This track by My Bloody Valentine, released on the Creation label, showcases the band's distinctive guitar noise and walls of sound that influenced countless other groups. While the transcript states "from 1981," it is widely accepted that Loveless, the album it appears on, was released in 1991. "My Bloody Valentine with Only Shallow from 1981, released on the Creation label." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
 
 ## curiosities
+**21st Century Reunion** : My Bloody Valentine was cited as one of the alt-rock bands that undertook a reunion in the first decade of the 21st century, participating in a movement that aimed to revitalize the scene and attract former fans. "In addition, the Pixies...my bloody Valentine...These reunions injected some life into the scene, albeit temporary life." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Bass Player Driving a Cab** : A sign of the band's inactive and struggling state was bass player Debbie Gooch being observed driving a taxi in London. "And when bass player Debbie Gooch was seen driving a cab in London, you knew things were bad." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
+**Example of Shoegaze-leaning Dreampop** : My Bloody Valentine is mentioned as a group whose sound demonstrates Dreampop's connection to the Shoegaze genre. Their music, rich in atmosphere, textures, reverb, and echo, represents the more serious attitude and higher volume often associated with the shoegaze elements within Dreampop. "Yes, Dreampop can be quiet like the cocktail twins and Mazzy Star, but it can also leak into the Shougay's world and touch on groups like Slow Dive and My Bloody Valentine." ← https://www.youtube.com/watch?v=jhgZrwtYE2g
 **Expensive Record and Label Bankruptcy Threat** : My Bloody Valentine, one of Alan McGee's "proudest signings" to Creation Records, turned in a record that was "so expensive to make that it nearly bankrupted the label," highlighting the financial vulnerabilities of independent labels. "one of McGee's proudest signings, my bloody Valentine, turned in a record that was so expensive to make that it nearly bankrupted the label." ← https://www.youtube.com/watch?v=zB5zxycrbnY
 **Influence on Mogwai** : Mogwai cites My Bloody Valentine as a significant influence, particularly among post-punk bands. "The guys in Mug-Y are highly influenced by post-punk bands, like Jordy Vision, Sonic Youth, and my Bloody Valentine." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
 **Influence on Mono** : Japanese post-rock band Mono is influenced by My Bloody Valentine, alongside Sonic Youth. "So am I saying a classical band influenced by Sonic Youth in my bloody Valentine? That's absolutely what I'm saying." ← https://www.youtube.com/watch?v=9-v4qnOO8wY

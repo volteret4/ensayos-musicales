@@ -26,6 +26,7 @@
 ## concerts
 - Lollapalooza
 - Lollapalooza (1992-1995 era)
+- Tibetan Freedom Festival 1996
 
 ## instruments
 - Big Muff
@@ -64,4 +65,5 @@
 **North American Non-Mainstream Rock (Late 1980s)** : In the late 1980s, Sonic Youth was a prominent example of the non-mainstream rock and hardcore punk preferred by fans in North America who sought music beyond the mainstream. This audience typically frequented small, dark clubs and independent record stores. "If you're in North America and into non-mainstream rock, you're into bands like REM and Sonic Youth and Hardcore Punk and the cooler Technopop bands from the UK." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
 **Pushing Musical Boundaries** : As the 1980s progressed, Sonic Youth's music became more structured, but they consistently pushed the edge of the musical envelope. A deal with Black Flag's indie label, SST Records, helped them spread their influence throughout North America. "Although Sonic Youth's music became more structured as the 80s progressed, there was always the sense that they were pushing the edge of the musical envelope and thanks to a deal with black flags, indie label, SST records, they were able to spread their influence throughout North America." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
 **Thurston Moore in Ron Ashton's Band** : Thurston Moore of Sonic Youth was a member of a band that Ron Ashton played in after The Stooges' initial breakup. "Ron Ashton played in a series of bands, none of which did much, although there was the group that featured Thurston Moore of Sonic Youth, also Mark Arm of Mudhoney and Jay Mascus of Dinosaur Jr." ← https://www.youtube.com/watch?v=w-rihv544I8
+**Tibetan Freedom Festival Performer** : Sonic Youth was among the artists who performed at the inaugural Tibetan Freedom Show at Golden Gate Park in San Francisco on July 15, 1996. "The line up included the Beastie Boys, plus the smashing pumpkins, Bjork, Sonic Youth." ← https://www.youtube.com/watch?v=9_BTe15NooI
 

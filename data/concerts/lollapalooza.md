@@ -9,6 +9,7 @@
 **Cultural Phenomenon (Early 1990s)** : In January 1993, Lollapalooza was recognized as a significant cultural "thing," alongside the rising grunge movement. Its popularity influenced radio station management to pursue an alternative format. "Lola Palusa was a thing and thought, yeah, this is maybe something that we can work with." ← https://www.youtube.com/watch?v=bI6TTA-fn7c
 **Current Static Format** : In contemporary times, Lollapalooza has transformed from a touring festival into a static event held annually in Chicago every August. "Lala Palusa is a static festival held in Chicago every August." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
 **Decline and Hiatus (1997-2003)** : Enthusiasm for Lollapalooza waned after the 1997 tour, leading to a hiatus. Another attempt in 2003 was largely forgotten. "There was one more tour in 1997, but by that time enthusiasm had waned. Another attempt was made in 2003, but nobody remembers that." ← https://www.youtube.com/watch?v=7JP2tjJibTQ
+**Doc Martens as Essential Accessory (Early 1990s)** : In the early 1990s, Doc Martens reached the height of their popularity, becoming an indispensable fashion accessory for anyone associated with the "Lollapalooza nation." These black boots, with their distinctive yellow stitching, perfectly complemented the grunge aesthetic of flannel shirts and jeans prevalent at the festival. "Docks reached the peak of popularity in the early 1990s as they became an essential accessory for anyone who was part of the Lava Polluzination." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM
 **Evolution from Alt-Rock to Pop/Hip-Hop** : Originally conceived in 1990 as a touring festival showcasing "left-of-center and alternative bands" like Red Hot Chili Peppers, Soundgarden, Rage Against The Machine, Pearl Jam, Tool, Green Day, Metallica, Hole, Smashing Pumpkin, Speedy Boy, Sonic Youth, and Remones, Lollapalooza was an essential part of 90s music culture. After its original concept "ran out of steam" in the late 90s, it was reborn as a single weekend event in Chicago. However, its original alt-rock focus is now largely gone, with the festival primarily featuring pop and hip-hop acts, reflecting a cultural shift in America. "When La La Palosa was first conceived in 1990, it was a full-blown touring festival of Weirdos, featuring the best in left-of-center and alternative bands." ← https://www.youtube.com/watch?v=ZzIqIydZTlA
 **Expanded Format (1992)** : For its second year in 1992, Lollapalooza expanded significantly, incorporating multiple stages and a wider array of attractions. "And this time things were expanded across multiple stages and multiple attractions." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
 **Festival for the Alternative Generation** : For several years in the 1990s, Lollapalooza was recognized as the premier touring music festival catering to the alternative generation. "And for the next couple of years, Lala Palusa was the touring music festival for the alternative generation." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
@@ -38,4 +39,19 @@
 **The Black Keys' Performance Slot** : Following the positive critical reception of their third album, *Rubber Factory*, The Black Keys earned a performance slot at the Lollapalooza festival. "more good reviews, a slotted Lollapalooza..." ← https://www.youtube.com/watch?v=ooNAHswiT5Q
 **The Crow Soundtrack (1994) Alignment** : *The Crow* soundtrack, released in 1994, was noted for being curated "right at the peak of a whole alternative in Lollapaloo's period." This indicates the soundtrack's strong alignment with the dominant alternative music trends and the popularity of festivals like Lollapalooza during that era. "Again, this was 1994, right at the peak of a whole alternative in Lollapaloo's period, and the music supervisors nailed it." ← https://www.youtube.com/watch?v=zIkjd1OjCXM
 **Traveling Festival Concept Decline (late 90s)** : By the time the 1990s ended, the idea of a traveling alternative music festival, exemplified by Lollapalooza, was "burning out" as alt-rock itself was on the wane. "By the time the 90s drew to a close, the idea of a traveling alternative music festival was burning out." ← https://www.youtube.com/watch?v=7JP2tjJibTQ
+
+## artists
+- 21 Pilots
+- Green Day
+- Hole
+- Metallica
+- Pearl Jam
+- Rage Against The Machine
+- Ramones
+- Red Hot Chili Peppers
+- Sonic Youth
+- Soundgarden
+- The Black Keys
+- The Smashing Pumpkins
+- Tool
 

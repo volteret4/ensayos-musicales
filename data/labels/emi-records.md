@@ -18,3 +18,9 @@
 **Sex Pistols Contract and Dropping** : The Sex Pistols secured a deal with EMI Records through Malcolm McLaren, but the contract was short-lived. The band was dropped due to their controversial nature and was paid to "go away." ← https://www.youtube.com/watch?v=PzyvXmDKFUc
 **State of Flux** : Around the mid-2000s, EMI was "in a great state of flux when it came to management and ownership," contributing to Radiohead's reluctance to renew their contract and influencing their decision to explore independent options. "admittedly, EMI was in a great state of flux when it came to management and ownership." ← https://www.youtube.com/watch?v=JUvDp3_RBH0
 
+## artists
+- Radiohead
+- Sex Pistols
+- Sigue Sigue Sputnik
+- The Beatles
+

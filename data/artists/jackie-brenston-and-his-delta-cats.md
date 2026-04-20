@@ -15,7 +15,7 @@
 - Saxophones
 
 ## songs
-**Rocket 88 (1951)** : Recorded on March 3, 1951, this song about an Oldsmobile, performed by Ike Turner and his Kings of Rhythm, is considered by many musicologists to be the first true Rock and Roll record, signifying the "Ground Zero for Rock and Roll." "The song was called Rocket 88, and for many musicologists, that was the first true Rock and Roll record." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
+**Rocket 88 (1951)** : Recorded on March 2nd, 1951, and released in late March 1951, "Rocket 88" is often considered by some, particularly producer Sam Phillips, as the first true rock and roll record. The song features distorted bass due to a damaged amplifier speaker cone, a sound that Phillips intentionally kept, contributing to its innovative sound. "But then producer Sam Phillips, a white guy, said, hold on, sounds kind of cool. Let's use it as is." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ
 
 ## curiosities
 **Accidental Bass Distortion on "Rocket 88"** : During the recording session for "Rocket 88" on March 2nd, 1951, bass player Willie Kizart's amplifier was accidentally dropped, jarring loose the speaker cone. This resulted in a distinctive buzz and vibration. Producer Sam Phillips decided to embrace this "cool" distorted sound, which became a new and defining characteristic of the track, potentially making it the first rock and roll record. "But then producer Sam Phillips, a white guy, said, hold on, sounds kind of cool. Let's use it as is." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ

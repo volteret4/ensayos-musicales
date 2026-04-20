@@ -2,4 +2,5 @@
 
 ## member of
 - Alice in Chains
+- Lane Staley
 

@@ -5,3 +5,11 @@
 **Dissemination via Radio (WWII Era)** : Gospel music, along with other styles like Boogie-Woogie, Jump Blues, Swing, and Spear Trolls, became part of a "whole new melting pot of sounds" that spread rapidly via radio during World War II. This shift was attributed to the decline of Big Bands and the American Federation of Musicians strike, creating new programming opportunities for radio stations. "Boogie-Wooogie, Jump Blues, Swing, Gospel, Spear Trolls, a whole new melting pot of sounds was created and disseminated through the radio as a result of the big band problems and the musician's strike." ← https://www.youtube.com/watch?v=V7WjNR1ujhk
 **Mainstream Artists Topping Charts** : The gospel charts can be topped by unexpected artists, as demonstrated by Snoop Dogg's "Bible of Love" album reaching number one in 2018. "In 2018 Snoop Dogg had a number one album on the gospel charts. It's called Bible of Love." ← https://www.youtube.com/watch?v=GO0K_N7Ys7I
 
+## artists
+- Jack L. Cooper
+- Mary Clayton
+- Sister Rosetta Tharp
+- Sister Rosetta Tharpe
+- The Strumbellas
+- U2
+

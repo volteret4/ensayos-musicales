@@ -4,3 +4,7 @@
 **Contentious Relationship with Nine Inch Nails** : TVT's relationship with Nine Inch Nails turned into a "nightmare" after president Steve Gottlieb, who expected an "edgier Depeche Mode," vehemently disliked "Pretty Hate Machine," calling it an "abortion." Gottlieb predicted low sales (20,000 copies) and later engaged in a nearly two-year legal battle with Trent Reznor, prohibiting him from releasing new music and demanding the removal of his vocals from a 1000 Homo DJs track. "Company presidents Steve Gottlieb knew that the market for this cataphing was only so big, so he changed the name of the label to TVT and started looking for bands." ← https://www.youtube.com/watch?v=M3nUQtja0qc
 **Origin and Business Model** : Originally named TV Toons, this Chicago-based company specialized in releasing compilations of old TV theme songs, catering to niche markets like the "Gillian's Island" theme. Recognizing the limited scope of this market, company president Steve Gottlieb rebranded it as TVT and diversified into signing bands. "This was a label that up until that time, specialized in releasing compilations of old TV theme songs." ← https://www.youtube.com/watch?v=M3nUQtja0qc
 
+## artists
+- Nine Inch Nails
+- Trent Reznor
+

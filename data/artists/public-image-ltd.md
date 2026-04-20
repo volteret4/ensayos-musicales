@@ -1,11 +1,9 @@
-# artist - Public Image Ltd
+# artist - Public Image Ltd.
 
-## members
-- Jah Wobble
-
-## instruments
-- Bass guitar
+## concerts
+- **New York City Riots** : Public Image Ltd. was associated with riots that occurred during their performances in New York City, which were highlighted as significant and special events in rock history. "the public image riots in New York City"
+- New York City Riots
 
 ## curiosities
-**Jah Wobble – Pioneer of Dub and World Music Integration in Post-Punk** : Jah Wobble, described as eccentric and "difficult," distinguished himself with a deep dub-influenced groove rooted in Jamaican music and was a pioneer in integrating world music influences into his work. "Distinguished himself with a deep dub-influenced groove and was a pioneer in integrating 'world music.'" ← https://www.youtube.com/watch?v=95clNVd0hYg
+**New York City Riots** : Public Image Ltd. was involved in "public image riots in New York City," an event listed as one of many other legendary gigs worth consideration in rock history for its special nature. "the public image riots in New York City." ← https://www.youtube.com/watch?v=huAvyInzz3Q
 

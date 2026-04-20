@@ -10,5 +10,12 @@
 **Overdrive Mechanism** : Distortion, also known as overdrive, occurs when an electrical signal is pushed beyond the capacity of an amplifier's circuitry. This excessive power causes the signal to "clip," cutting off its peaks and troughs and adding new characteristics like overtones, sustain, and compression. Extreme overdrive results in distortion. "Distortion is also known as overdrive. Basically it means you've pushed the electrical signal past what the circuitry and the amplifier can handle." ← https://www.youtube.com/watch?v=iGav9uJwA_w
 **Pete Townsend's Intentional Destruction** : After accidentally breaking his guitar on a low ceiling, Pete Townsend of The Who amplified his frustration by hammering his guitar into his amplifier until both were splintered, setting a precedent for instrument destruction. "He was annoyed and decided to make a spectacle of his frustration and hammered the guitar into the stage in his amp until it was nothing but splinters." ← https://www.youtube.com/watch?v=yPok3MemDmE
 **Pre-amplifier Sections** : To allow for powerful distortion at lower, more manageable volumes, pre-amplifier sections were added to standard amplifiers. Turning up the pre-amp creates distortion, while a master volume knob controls the overall output volume. This innovation enabled guitarists to achieve "big amp" sounds even in small spaces or at low volumes. "This was solved by adding a pre-amplifier section to a standard amplifier. Turn that up and you get distortion." ← https://www.youtube.com/watch?v=iGav9uJwA_w
+**Ramones' Initial Purchase** : The Ramones, specifically John Cummings and Douglas Colvin, spent $250 combined to purchase their first guitar, bass, and an amp, marking the initial investment for their band's formation. "So after spending $250 between them on a guitar, a bass, and an amp, they held their first rehearsal four days later." ← https://www.youtube.com/watch?v=VYi3r0G-ne4
 **Tim Buckley's Possessions** : At the time of his death, Tim Buckley owned nothing more than the clothes on his back, a guitar, and an amplifier, reflecting his deep debt. "owned nothing more than the clothes on his back, a guitar, and an amplifier." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
+
+## artists
+- Jack Miller
+- Jeff Beck
+- Jim Marshall
+- Tim Buckley
 

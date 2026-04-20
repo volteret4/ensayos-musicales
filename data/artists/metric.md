@@ -6,6 +6,10 @@
 ## concerts
 - Twilight Soundtracks
 
+## songs
+**Help I'm Alive (2009)** : This song served as an A-side, with its B-side being "Help I'm a B-side." This pairing illustrates artists engaging in playful commentary about the B-side concept during the album era when B-sides received less respect. "The B side to metrics help I'm alive is help I'm a B side." ← https://www.youtube.com/watch?v=QBCEmZ4Jheo
+**Help I'm a B-side (2009)** : This track was the B-side to Metric's "Help I'm Alive." Its title directly references its status as a B-side, playfully acknowledging the diminishing respect for the format during the album era. "The B side to metrics help I'm alive is help I'm a B side." ← https://www.youtube.com/watch?v=QBCEmZ4Jheo
+
 ## curiosities
 **Beneficiary of Radio Star Maker** : Metric's career was furthered by the funding available from the new Radio Star Maker program, introduced in 2000. This program, along with Factor, was instrumental in supporting emerging and established Canadian talent. "Soon this cash was instrumental in helping further the careers of metric, broken social scene, Alexis on fire, city and color, and many more." ← https://www.youtube.com/watch?v=6PGgNCaW4xo
 **Indie Rock Revival (2000s)** : Metric is mentioned as one of the "fresh sounding bands" that emerged during the Indie Rock Revival in the early 2000s. ← https://www.youtube.com/watch?v=kFLMkvJAaUY

@@ -7,3 +7,9 @@
 **Sex Pistols Visa Issues (December 1978)** : In December 1978, the Sex Pistols were scheduled to perform on this new NBC show but were prevented from doing so due to visa problems. This led to Elvis Costello being brought in as a last-second replacement. "In December 1978, the Sex Pistols were booked to play this new show on NBC called Saturday Night Live. However, they ran into visa problems and were replaced at the last second on the show by this geeky guy from England named Elvis Costello." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
 **The B-52s 1980 Performance Impact** : The B-52s' performance on Saturday Night Live in 1980 profoundly influenced future musicians, notably transfixing Kurt Cobain and highlighting the band's unique appeal to a new generation. "Kurt Cobain saw the one Saturday Night Live in 1980. It was absolutely transfixed by them." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
 
+## artists
+- Arcade Fire
+- Phoebe Bridgers
+- Radiohead
+- Sex Pistols
+

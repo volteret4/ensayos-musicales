@@ -4,6 +4,7 @@
 - Garage Rock
 - Guitar-based Rock
 - Indie Rock
+- Rock
 - Swedish Garage Rock
 
 ## labels
@@ -26,5 +27,6 @@
 **Major Label Deal with Alan McGee** : In 2000, following their second album, "Vini Vidi Vicious," The Hives were signed by Alan McGee, the founder of Creation Records (who discovered Oasis), to his new label, Pop Tones. This deal led to a major label contract that some speculated was worth $50 million. "By 2000, Alan McGee had a new label called Pop Tones and he wanted The Hives. So he signed them. One thing led to another and suddenly, the Hives had a major label deal that some said was worth $50 million." ← https://www.youtube.com/watch?v=UpWz3X33vSY
 **Origin and Longevity** : The Hives originated from Fagersta, Sweden, and had been active in various forms since 1989, prior to gaining wider recognition in the early 2000s. "They were from Feggers to Sweden and had been hanging around in some form or another since 1989." ← https://www.youtube.com/watch?v=raRCZ0Y5up8
 **Part of Indy Rock Revival** : The Hives were explicitly named as a band that, alongside The Strokes, The White Stripes, the Yeah Yeah Yeahs, Interpol, The Vines, and Arcade Fire, was a firm part of the Indy Rock Revival in the late 2003/early 2004 period. "The strokes were firmly part of the Indy Rock Revival that also included the white stripes, the yay-yayas, interpole, the vines, the hives, and this new band called Arcade Fire." ← https://www.youtube.com/watch?v=jEfofyobGiI
+**Sweden's Sharpest Dressed Band** : The Hives are acclaimed as potentially Sweden's sharpest dressed band, known for their unwavering commitment to a black and white color palette. Their outfits consistently feature variations such as black shirts with white satin ties, black pants, and white shoes, or the inverse, making their monochrome aesthetic a distinctive signature. "And there are the hives, who just might be Sweden's sharpest dress band. The clothes may change, but the palette remains the same. Black and white. Black shirts, white satin ties, black pants, white shoes, or maybe vice versa, whatever, is always a variation on black and white." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM
 **Swedish Origins and Sound Pivot** : Formed in Sweden in 1989, The Hives significantly pivoted their sound in 1993 to a very "garage-y" style. This stylistic shift preceded their breakthrough success in the early 2000s. "They are Swedish and were formed in 1989. But in 1993, there was a big pivot in their sound to something very garage-y." ← https://www.youtube.com/watch?v=UpWz3X33vSY
 

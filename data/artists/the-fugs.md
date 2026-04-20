@@ -1,5 +1,8 @@
 # artist - The Fugs
 
+## members
+- Ed Sanders
+
 ## genres
 - Performance Art
 - Rock
@@ -13,5 +16,6 @@
 **CIA Man (1965) - First Deliberate F-Bomb on a Rock Record** : Recorded in 1965 and featured on "The Fugs First Album," "CIA Man" is recognized as the first instance of anyone deliberately dropping an F-bomb on a rock and roll record. The use of such language was groundbreaking and controversial for its time, still necessitating censorship for broadcast decades later. "And that, as far as we know, is the first time anyone anywhere in the world dropped the F-bomb on a rock and roll record. Deliveredly." ← https://www.youtube.com/watch?v=gP3oQeYEvso
 
 ## curiosities
+**Ed Sanders' "Punk Rock" Usage (1970)** : The founder of The Fugs, Ed Sanders, described his 1970 solo album, "Sanders Truck Stop," as "punk rock redneck sentimentality" in a Chicago Tribune interview, marking one of the earliest uses of the phrase "punk rock" in print. "Ed Sanders, the founder of a New York-based weirdo band called The Fugs, had released a solo album called Sanders Truck Stop. And in this interview, he described his record as punk rock redneck sentimentality." ← https://www.youtube.com/watch?v=VYi3r0G-ne4
 **Pioneers of Explicit Language** : The Fugs were a "weirdo rock band" that leaned towards performance art and satire, and are credited as the first band to deliberately include an "F-bomb" on a record with their 1965 song "C.I.A. Man." "The Fugs, the first band, to deliberately drop an F-bombs on record, as far as we can document anyway." ← https://www.youtube.com/watch?v=yPok3MemDmE
 

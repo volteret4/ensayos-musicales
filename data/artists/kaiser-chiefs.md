@@ -1,5 +1,8 @@
 # artist - Kaiser Chiefs
 
+## genres
+- New Wave Revival
+
 ## labels
 - Kaiser Chiefs (self-released or label named after band?) - *The transcript literally says "released on a label called Kaiser Chiefs," which is highly unusual and likely a mistake or misstatement. I must report it as stated.*
 

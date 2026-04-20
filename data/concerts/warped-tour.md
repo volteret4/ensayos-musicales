@@ -24,3 +24,29 @@
 **Significant Impact on Bands** : Many bands benefited greatly from the exposure gained on the Warped Tour, with some acts, like Blink-182, appearing six times, including during periods when they were selling millions of records. "One band that benefited greatly from the Warped Tour exposure was these guys who appeared six different times." ← https://www.youtube.com/watch?v=44dXy0StjIQ
 **Vans Sponsorship (1996 onwards)** : From 1996, the festival became the Vans Warped Tour, with Vans, a maker of skateboard shoes, as its sponsor. This partnership helped to solidify and promote the connection between melodic punk rock and skateboard culture. "But from 1996 on, it became the Vans Warped Tour, Vans being the maker of skateboard shoes." ← https://www.youtube.com/watch?v=44dXy0StjIQ
 
+## artists
+- Alexis on Fire
+- Beck
+- Blackfire
+- Blink 182
+- Blink-182
+- Eminem
+- Fall Out Boy
+- Goldfinger
+- Green Day (Warped Tour)
+- Il Scarlett
+- Jimmy Eat World
+- Katie Perry
+- Limp Bizkit
+- Linkin Park
+- MXPX
+- No Doubt
+- Pennywise
+- Rancid
+- Rise Against
+- Saves the Day
+- Sublime
+- Sum 41
+- The Offspring
+- Weezer
+

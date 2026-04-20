@@ -1,6 +1,7 @@
 # artist - Grateful Dead
 
 ## curiosities
+**Artwork Designer** : Stanley Mouse Miller's resume includes work for the Grateful Dead. "Stanley Mous Miller's resume included the grateful dead, Journey, and the Steve Miller band." ← https://www.youtube.com/watch?v=pwebM3TfSdg
 **Deodorant with "Matured" Scent as Merchandise** : The Grateful Dead offered a unique merchandise item in 2020: deodorant that reportedly smelled like "matured." "Grateful dead deodorant. And yes, it does smell like matured." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
 **Featured in Apple Commercials** : The Grateful Dead's music has been used in Apple commercials, highlighting the company's diverse approach to selecting artists for its iPod and iPhone advertising campaigns. ← https://www.youtube.com/watch?v=sfie4YYncxk
 **Grateful Dead Designated Taping Zones (1984) – First Major Band to Officially Allow Fan Recording** : After years of tolerating the tape-trading community that had formed around their unique live shows, the Grateful Dead formally began allowing and even designating special taping zones at their concerts in 1984, setting a precedent for the acceptance of fan recordings. "In 1984, they began allowing and designating 'recording zones' for fans, setting a precedent." ← https://www.youtube.com/watch?v=OrHtPVBjXw4

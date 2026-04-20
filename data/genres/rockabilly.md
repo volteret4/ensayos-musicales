@@ -6,3 +6,13 @@
 **Past Trend** : Rockabilly is mentioned as a past musical trend, questioning if anyone is "still into rock ability." "Anyone still into rock ability?" ← https://www.youtube.com/watch?v=evlGhfUe6QQ
 **Successor to Ska in Press Favor** : Rockabilly was declared the "next big thing" by an editor or writer in the British music press, leading to an overnight abandonment of Ska by the media. "some editor or writer decided that rockabilly was the next big thing and everyone abandoned SCA almost overnight." ← https://www.youtube.com/watch?v=zB5zxycrbnY
 
+## artists
+- Billy Lee Riley
+- Hassel Adkins
+- Mojo Nixon
+- Stray Cats
+- The 5678's
+- The Clash
+- The Rockatines
+- Vince Taylor
+

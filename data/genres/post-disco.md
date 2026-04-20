@@ -1,5 +1,5 @@
-# genre - Post disco
+# genre - Post-Disco
 
 ## curiosities
-**Flavor of Alternative Dance** : Post disco was identified as one of the "million flavors" that appeared under the Alternative Dance umbrella as the genre exploded in popularity during the 1990s. "A million flavors appeared. Post disco, electrical clash, new rave, big beat." ← https://www.youtube.com/watch?v=amHre9ZZFkU
+**Definition** : Post-disco refers to dance music that emerged from the disco boom of the late 1970s. "Post-disco obviously dance music born out of the disco boom of the late 70s." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
 

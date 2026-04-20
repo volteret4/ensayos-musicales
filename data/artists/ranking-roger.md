@@ -1,6 +1,7 @@
 # artist - Ranking Roger
 
 ## member of
+- General Public
 - The English Beat
 
 ## curiosities

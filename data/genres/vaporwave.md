@@ -6,3 +6,6 @@
 **Internet-Native with Visuals and Anonymity** : Emerging in the early 2010s, Vaporwave is an internet-native music form that extends beyond sound to include memes, art, graphic design, typography, Reddit threads, and often anonymous social and political commentary. "Vaporware is a very internet-former music that comes with memes and art and graphic design and topography and long threads on reddits and bits of social and political commentary, all often cloaked by anonymity." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
 **Screwed and Chopped Technique** : A key technique in Vaporwave is "Screwed and Chopped," where samples are not only added but also specifically slowed down, contributing to the genre's distinct sonic atmosphere. "Vaporware also uses a technique called Screwed and Chopped, in which samples are added, but also slowed down." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
 
+## artists
+- 2814
+

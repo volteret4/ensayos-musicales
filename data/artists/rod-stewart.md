@@ -7,6 +7,8 @@
 - London Show
 
 ## songs
+**Maggie May (1971)** : This hit song was released in 1971 with "Reason to Believe" as its B-side. It is an example of a successful A-side paired with another notable track. "The Rod Stewart hit Maggie May was made with Reason to Believe as the B side in 1971." ← https://www.youtube.com/watch?v=QBCEmZ4Jheo
+**Reason to Believe (1971)** : Released in 1971, "Reason to Believe" was the B-side to Rod Stewart's hit single "Maggie May." "The Rod Stewart hit Maggie May was made with Reason to Believe as the B side in 1971." ← https://www.youtube.com/watch?v=QBCEmZ4Jheo
 **Sailing (Year Not Given)** : "Sailing" was the fifteenth video played on MTV's first broadcast day, August 1, 1981. "One hour later, sailing was the 15th video." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
 **She Won't Dance With Me (Year Not Given)** : This song's music video was the third ever shown on MTV's launch day, August 1, 1981, and contributed to Rod Stewart's significant early presence on the channel. "His, she won't dance with me, was the third video ever shown." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
 

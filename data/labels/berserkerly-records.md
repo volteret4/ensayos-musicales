@@ -6,3 +6,7 @@
 **Founding (1973)** : Berserkerly Records was founded in 1973 by members of the Bay Area band Earthquake. The founders were frustrated with the business practices of larger labels and sought to operate more effectively on their own. "Berserkerly Records, a company founded by members of a Bay Area band called Earthquake in 1973." ← https://www.youtube.com/watch?v=dDcD8kg0wEk
 **Operations (Approx. 10 years)** : The label operated for about ten years, navigating the complexities of the music business independently. "And for about ten years, they muddled their way through the process." ← https://www.youtube.com/watch?v=dDcD8kg0wEk
 
+## artists
+- Earthquake
+- Jonathan Richman and the Modern Lovers
+

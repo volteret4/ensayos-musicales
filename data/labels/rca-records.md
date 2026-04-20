@@ -9,3 +9,8 @@
 **Pioneering Stereo and Disco Releases** : RCA Records was at the forefront of technical innovation with Ethel Gabriel's involvement in the first stereophonic recordings, including supervising Bing Crosby's first stereo session. The label also embraced new genres, releasing its first disco records with Gabriel's contributions, demonstrating forward-thinking in both technology and genre. "She even supervised the first-ever stereo recording session for Bing Crosby, and she was involved with RCA's first-ever disco releases." ← https://www.youtube.com/watch?v=oRR7N-YUcRE
 **Response to David Bowie's Album Cover Controversy (1971)** : RCA Records had to intervene when *The Man Who Sold the World* album, featuring David Bowie in a dress on its original cover, was refused by many American record stores in 1971. To address this sales impediment, the label supplied an alternative cover. "And many record stores refused to stock the album until RCA records supplied them with a different cover." ← https://www.youtube.com/watch?v=2RKchFW42Jc
 
+## artists
+- David Bowie
+- Ethel Gabriel
+- Lou Reed
+

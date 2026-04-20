@@ -7,3 +7,9 @@
 **Hardcore Spreader** : Beyond Black Flag, SST was instrumental in spreading hardcore music from numerous other groups, including The Minutemen and The Meat Puppets. The label's output of hardcore records increased in popularity and widespread distribution as Ronald Reagan's presidency continued. "Not only did SST release flag records, they were also too happy to spread hardcore from groups like The Minutemen, The Meat Puppets, and dozens of others." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
 **Pioneering Independent Label** : SST was one of the small independent labels that specialized in releasing music outside the traditional major label system during the post-punk indie movement. "that included rough trade for a D, beggars banquet, epitaph, SST, and many others." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 
+## artists
+- Black Flag
+- Hüsker Dü
+- The Meat Puppets
+- The Minutemen
+

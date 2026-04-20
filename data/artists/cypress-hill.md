@@ -9,6 +9,7 @@
 - **Lollapalooza Festival (1992)** : Cypress Hill performed on the second stage at selected dates during the 1992 Lollapalooza Festival, which was praised for its "absolutely awesome" energy. "Cypress Hill."
 - **Lollapalooza Festival Bookings** : Cypress Hill was a mainstay act booked at the Lollapalooza Festival, which was instrumental in introducing rap to white audiences. "The La La Paloza Festival helped bring rap to white kids by booking mainstayjacks like Ice Tea, Ice Cube, George Clinton, Cypress Hill, and a tribe called Quest."
 - **Woodstock 94 Performance** : Cypress Hill performed at Woodstock 94, solidifying their presence in major music festivals. "They were Woodstock 94."
+- Check Your Head Tour
 - Judgment Night
 - Lollapalooza (1992)
 - Lollapalooza Festival 1992
@@ -27,5 +28,6 @@
 **Judgment Night Collaboration with Pearl Jam (1993)** : Cypress Hill collaborated with rock band Pearl Jam for the 1993 *Judgment Night* soundtrack. This pairing was considered radical at the time due to the limited crossover between rock and hip-hop. The project was a major catalyst for the creation of rap rock and nu metal, and helped bridge the divide between rock and hip-hop fans. "The pairings included Pearl Jam and Cypress Hill, Slayer working with Ice Tea, Faith No More and Buella Tribe, Dinosaur Jr., and Del the Funky Homo sapien, 11 collaborations at all." ← https://www.youtube.com/watch?v=zIkjd1OjCXM
 **Lollapalooza 1992 Second Stage Act** : Cypress Hill was among the bands featured on the second stage at selected dates during the 1992 Lollapalooza Festival, which boasted a critically acclaimed lineup. "You could have seen the stone type of pilots rage against the machine, Cypress Hill." ← https://www.youtube.com/watch?v=huAvyInzz3Q
 **Project Revolution Performer (2002)** : Cypress Hill performed at the inaugural Project Revolution tour in 2002, alongside DJ Z-Trip. "The first edition was in 2002 and featured Cypress Hill on a buddy named DJ Z-Trip." ← https://www.youtube.com/watch?v=YcdidjWaIqE
+**Touring Partner for Check Your Head** : Cypress Hill toured with the Beastie Boys following the release of their "Check Your Head" album. "They toured not only with Cypress Hill, but also get this, The Rollins Band." ← https://www.youtube.com/watch?v=9_BTe15NooI
 **White Fan Base Expansion** : As a "straight rapper-former," Cypress Hill found themselves gaining more and more white fans, demonstrating the expanding reach of rap music. "Even straight rapper-formers like Dela Sol, Cypress Hill, NWA and Iced Tea found themselves with more and more white fans." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
 

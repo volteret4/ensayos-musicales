@@ -22,6 +22,7 @@
 **Influences and Evolution in Fourth Wave** : Fourth wave emo bands draw inspiration from various sources, with some influenced by 90s emo, others developing their sounds independently, and still others incorporating emo elements with their unique twists. The potential for these bands to achieve mainstream consciousness in the 2020s remains uncertain. "Some of the bands are inspired by 90s emo. Others have come up with sounds independently of that. Still others have taken elements of emo and put their own twist on things. Will any of them explode into mainstream consciousness in the 2020s? Hard to say." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
 **Late 90s Diversification and Accessibility** : By the end of the 1990s, emo had diversified considerably in terms of sound and style. While traditional emo (maintained by bands like Fugazi) persisted, more bands incorporated catchy guitar hooks instead of droning strumming. Vocals became less screamy, and lyrics, though still emotional, were less dire, moving from depressed to melancholy, with some songs even sounding happy. This increased accessibility to a wider audience. "By the end of the 1990s, emo came in all sorts of different colors and shapes. Sure, there was traditional emo, Fugazi made sure they kept that alive. But more events were using catchy guitar hooks instead of the drony strumming. While a lot of arrangements still had that loud, soft, loud, soft dynamic, vocals started to become a little less screamy. Lyrix were still very emotional but not quite as dire. Some had moved up the scale from depressed to merely somewhat melancholy. And hey, some songs actually sounded downright happy. All this contributed to a situation where emo is more accessible, more palatable to more people." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
 **Mainstream Breakthrough in the 2000s** : Emo music achieved mainstream popularity during the first decade of the 21st century. This surge contributed to pop punk's continued momentum, with bands like My Chemical Romance introducing new twists to the genre. "Pop punk roared through the first five or seven years of the century, picking up steam when emo went mainstream." ← https://www.youtube.com/watch?v=pE7TaWSUa-o
+**Major Success in the 2000s** : Between the summer of 2002 and the end of the decade, numerous bands, including Dashboard Confessional, Jimmy Eat World, and My Chemical Romance, were grouped into the emo category and achieved major success, leading to a period where "it seriously seemed as if the whole world was going emo." "All of them, for better or for worse, were clumped into the emo category, and they all had major success between the summer of 2002 and the rest of the decade." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Musical Evolution in Second Wave** : During the second wave, emo bands introduced greater dynamics into their songs, featuring loud, explosive screaming segments interspersed with quiet, melodic passages. "Bands began to put more dynamics into their songs, large, how'd explosive screaming bits, interspersed with quiet melodic parts." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
 **Musical Variations** : Emo exhibits a range of musical styles, from simple and straightforward compositions to more complex forms featuring unusual song structures and intricate guitar work. "Some emo is pretty simple and straightforward. Other flavors are more complex with unusual song structures and intricate guitar work." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
 **MySpace Artist Style** : Emo was identified as one of the distinctive styles associated with "MySpace Artists." The platform's direct artist-to-fan interaction fostered communities around genres like emo, contributing to their popularization and the launch of new acts. "Before long, we had something called MySpace Artists, a distinctive set of styles that involved pop punk, emo, and indie acts." ← https://www.youtube.com/watch?v=GYUuTbOvyak
@@ -30,15 +31,59 @@
 **Original D.C. Scene Dissolution** : The original D.C. emo scene, prominent around 1988 and largely confined to the Washington D.C. area and bands on the Discord label, had completely dissolved by that year, with all involved bands breaking up and moving on. "However, this original DC emo scene was completely over by about 1988. All the bands involved had broken up and moved on." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
 **Origins Debate** : The origin of emo is a tricky subject with very divergent opinions, with some researchers even tracing its roots back to The Beach Boys' "Pet Sounds" album in 1966. "And even this is a tricky subject because there are some very divergent opinions on who was responsible for this whole thing." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
 **Origins and Mainstream Rise** : Emo had its roots in the American Underground Hardcore punk scene of the 1980s but began to bubble up into the mainstream by the late 1990s. Its breakthrough was characterized by bands applying pop sensibilities to emotional themes of heartbreak and loss, making it more marketable and appealing. "Now Emo had its roots in the American Underground Hardcore punk scene of the 1980s. But by the late 1990s, it had begun to bubble up towards the mainstream." ← https://www.youtube.com/watch?v=-CT7yYXonIk
+**Origins as Emotional Hardcore** : Emo is an offshoot of a particular type of hardcore punk that originated in the Washington D.C. area in the mid-1980s. It was originally known as Emotional Hardcore, or Emocore, characterized by loud, often screaming music grounded in sensitivity, anxiety, shyness, and heavy emotion. "Emo is an offshoot of a particular type of hardcore punk that originated in the Washington DC area in the middle 80s. Its original name was Emotional Hardcore, or Emocore for short, or just plain emo." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Origins in Hardcore** : Hardcore music is noted for pointing in the direction of what would become emo as early as the mid-1980s, with Minor Threat being a specific example. "Minor Threat pointed in the direction of what would become emo as early as the mid-1980s." ← https://www.youtube.com/watch?v=0qigzi1j81U
+**Post-9/11 Explosion in Popularity** : Emo remained a niche genre until after the traumatic events of September 11th, after which emo bands experienced an explosion in popularity for several years. Despite some bands not embracing the label, emo was pervasive in the early 2000s. "Emo stayed in its own corner of the alternative universe until after the traumatic events of 9-11. For the following several years, emo bands exploded in popularity." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Post-9/11 Resonance** : After the events of September 11, 2001, music infused with anguish, such as Emo, seemed particularly relevant and necessary. This context likely amplified the genre's appeal and contributed to its subsequent surge in popularity. "And after the events of 9-11, music with anguish seemed to be necessary." ← https://www.youtube.com/watch?v=-CT7yYXonIk
 **Rock Subtype** : Emo is listed as one of the many subtypes that rock music diversified into over the decades. "punk, metal, Prague, country rock, industrial, grunge, crock, rock, emo" ← https://www.youtube.com/watch?v=evlGhfUe6QQ
 **Second Wave (1994 onwards)** : The second wave of emo began in 1994, directly following the first wave. This period saw emo spread and evolve, incorporating more dynamics into songs with explosive screaming juxtaposed with quiet melodic sections. "The traditional hardcore community thought second wave emo groups and their fans were a bunch of whims. But at the same time, though, there were those who appreciated this raw, emotional honesty. Emo had not only spread, but it evolved." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
 **Shift Towards Melodicism** : Blink 182's "Enema of the State" had a significant effect on Emo, causing Emo bands to move away from super intense, hardcore-influenced punk towards more melodic and poppy styles. "Emo bands moved away from being super intense hardcore influence punk bands to being more melodic and poppy." ← https://www.youtube.com/watch?v=_tkLRJiOBu0
 **Short-Lived Trend (2000s)** : Emo was an alt-rock trend that burned intensely but had a relatively short lifespan. By 2009, most rock fans had grown tired of it and moved on, indicating its rapid peak and subsequent decline within the music landscape. "Emo was one of those alt rock trends that burned very hot and very bright. And it didn't last very long." ← https://www.youtube.com/watch?v=-CT7yYXonIk
 **Subculture and Fashion** : The rise of Emo music led to the creation of a distinct Emo subculture, complete with its own fashion, hairstyles, and language. For a period, it seemed that nearly every new band was labeled Emo, highlighting its widespread cultural impact. "The Emo subculture was created to service all this with its own fashion and hairstyles and language." ← https://www.youtube.com/watch?v=-CT7yYXonIk
+**Subgenre Fragmentation** : Emo became so popular that it began to cleave off and form new subgenres, including Emo Pop and Emo Rap, as well as regional variations like North Carolina emo, Midwest emo, and Aussie emo. "The emo thing got so big that bits of it cleaved off to form new subgenres." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **The Emo Tremble and Tap** : In contrast to slam dancing or mashing, emo developed its own unique dance styles. The "emo tremble" involved ringing one's hands while bouncing on the balls of the feet in time with the music, with a variation called the "emo tap" where one taps their chest to the rhythm. "Because emo wasn't about slam dancing or mashing, a new thing developed. The emo tremble. Basically, you ring your hands while bouncing off the balls of your feet in time with the music. A variation of that is sometimes called the emo tap, where you tap your chest along with the music." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
 **Thematic Influence on Emo Rap** : Emo's characteristic themes and emotional feel are a direct influence on Emo Rap, contributing to its personal and vulnerable lyrical content. "Basically, we get all of Emo's hits when it comes to themes and feels, made it with hip hop, very personal, very vulnerable stuff, heartbreak, fear, anxiety, depression, loneliness." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
 **Third Wave (2000-2010)** : The third wave of emo, occurring in the early 2000s, represented "peak emo." It began around 2000, peaked around 2008, and started moving into the background by 2010. This period saw emo blow up into the mainstream and fragment into numerous variations, much to the annoyance of purists who often declared "that's not emo." "Third wave emo begins in 2000 and proceeds starting in about 2008 and moved into the background again as of around 2010. This is when things not only began to blow up in the mainstream but also splinter into a million different variations, something that really annoyed the purists. Forgive them if they screamed, that's not emo, about a bunch of acts that were being labeled emo." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
 **Third Wave Crossover and Fragmentation** : The third wave was characterized by a crossover between "proper emo" and emo-like bands that were also classified as punk, pop punk, post-hardcore, and metalcore. This resulted in significant fragmentation, producing subgenres like emo-pop and screamo. Many third wave bands, some of whom had existed for years, achieved mainstream impact only in the early 2000s. "There was, in short, a crossover between proper emo, if you'll allow me to use that term, an emo-like bands, who were probably best classified as punk, pop punk, post-hardcore, and metalcore. There's a lot of fragmentation. Emo-pop, screamo bands, just a couple of examples. And not all third wave emo bands were brand new, some had been around for years. It was only in the early 2000s that they came of age and started making an impact beyond a small scene." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
+**Underground Gestation and Stereotypes** : Emo culture developed underground throughout the 1980s and 1990s, leading to the creation of the stereotypical "emo kid" image, complete with black hair, long bangs, black clothes, and thick-rimmed glasses. The genre also became associated with stigmas like depression and self-harm. "Emotional culture gestated underground through the 80s and 90s, resulting in the creation of the stereotypical emo kid with his or her black hair, the long bangs, the black clothes, the glasses with the thick rims." ← https://www.youtube.com/watch?v=_yslM5oanRo
+
+## artists
+- 30 Seconds to Mars
+- AFI
+- Alexis on Fire
+- Alexisonfire
+- Basement
+- Blink 182
+- Dashboard Confessional
+- Fall Out Boy
+- Fugazi
+- Funeral for a Friend
+- Into It. Over It.
+- Jawbreaker
+- Jimmy Eat World
+- Just Friends
+- Modern Baseball
+- My Chemical Romance
+- New Found Glory
+- Panic at the Disco
+- Panic! at the Disco
+- Paramore
+- Pianos Become The Teeth
+- Plain White T's
+- Red Jumpsuit Apparatus
+- Rites of Spring
+- Saves The Day
+- Saves the Day
+- Simple Plan
+- Story of the Year
+- Sunny Day Real Estate
+- Taking Back Sunday
+- The All-American Rejects
+- The Hotelier
+- The World Is A Beautiful Place & I Am No Longer Afraid To Die
+- The World Is a Beautiful Place & I Am No Longer Afraid to Die
+- Thirty Seconds to Mars
+- Thursday
+- Touche Amore
+- Weezer
 

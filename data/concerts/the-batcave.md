@@ -10,3 +10,6 @@
 **Strict Music Policy** : The Batcave enforced a strict music policy, explicitly stating "absolutely no funk." Its musical aim was to fuse "glam era David Bowie" with Dr. Frankenforder from The Rocky Horror Picture Show, promoting an environment of diverse sexuality. "And there was a definite music policy in this place, absolutely no funk." ← https://www.youtube.com/watch?v=gd9sO7c3N1s
 **Theatrical Decor and Policy** : Decorated with black walls, leather, lace, and design cues from 1930s-40s black and white horror films, the club enforced an unofficial dress code and a strict music policy that excluded funky or poppy sounds, focusing on a reinvention of glam-era David Bowie crossed with Tim Curry's Dr. Frank N. Furter from The Rocky Horror Picture Show. "Specimen's club had black walls and was decorated with leather and lace and other design cues from black and white horror films from the 30s and 40s. There was an unofficial dress code, and there was a hard and fast music policy. Nothing funky, nothing poppy." ← https://www.youtube.com/watch?v=XaLsZFLrMnI
 
+## artists
+- Alien Sex Fiend
+

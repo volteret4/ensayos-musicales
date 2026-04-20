@@ -5,3 +5,17 @@
 **R&B Mutation** : Soul, identified as one of the primary sounds within R&B, experienced rapid mutation after 1978, influencing the emergence of new styles such as disco and hip hop. "R&B's main sounds, which included fun console, began mutating even faster, expanding to include disco, and within a year, hip hop." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
 **Tim Buckley's Exploration** : Tim Buckley explored the soul genre as part of his musical evolution. "cycling through folk, psych, bits of jazz, fun, and soul." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
 
+## artists
+- Amy Winehouse
+- Bad Brains
+- Bobby Marshan
+- Fishbone
+- Mary Clayton
+- Nobody
+- Portishead
+- Sam Cooke
+- Sly Stone
+- The Clash
+- The Winston's
+- Tim Buckley
+

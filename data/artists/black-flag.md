@@ -14,6 +14,7 @@
 - Mugger
 
 ## genres
+- American Hardcore
 - Hardcore
 - Hardcore Punk
 - Hardcore punk
@@ -27,7 +28,7 @@
 
 ## albums
 **Damaged (1981)** : This album was a pivotal record for Nate Mendel, who initially struggled to understand hardcore music but experienced a click halfway through listening to "Damaged." He was drawn to its energy, aggression, and "weirdness." "Well, the one that, that, where I understood what hardcore we call it, hardcore at the time was about, was, uh, black flags damaged." ← https://www.youtube.com/watch?v=Mh-qg1izM98
-**Nervous Breakdown (1979)** : This EP was the very first release on the SST label in 1979, which was established by Greg Ginn specifically to distribute material from Black Flag because no other labels would work with them. "The first release on the label was a Black Flag EP entitled Nervous Breakdown in 1979." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
+**Nervous Breakdown (1979)** : Released in January 1979, almost simultaneously with The Middle Class's debut, this EP contained 4 songs over 5 minutes and 13 seconds. The band had to create their own label, SST, to release it. "Released at almost exactly the same time, and I mean with the days of each other, was Black Flag's nervous breakdown." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
 **Nervous Breakdown (1979) – Debut EP** : Released in January 1979, almost simultaneously with The Middle Class's "Out of Vogue," this EP features 4 songs totaling 5 minutes and 13 seconds. The band, originally formed as Panic in 1977, had to create its own record label, SST, to release the EP after failing to secure a deal with other labels. SST was founded by Greg Ginn, who owned a ham radio electronics company called Solid State Tuners, and bass player Chuck Dukowski. "Released at almost exactly the same time, and I mean with the days of each other, was Black Flag's nervous breakdown. It was marginally longer, 4 songs over 5 minutes and 13 seconds, so you know. And the band also had to form its own record label to get it out." ← https://www.youtube.com/watch?v=0qigzi1j81U
 
 ## songs
@@ -38,6 +39,7 @@
 **Wasted (1979)** : This track from the "Nervous Breakdown" EP, released in 1979, succinctly captured the typical feelings of a hardcore kid at the time with its short, sharp, and fast delivery. "From that record, this is Wasted. And it pretty much describes how a typical hardcore kid might have felt back then." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
 
 ## curiosities
+**Association with Slam Dancing** : Black Flag is mentioned in the context of Orange County punks who popularized slam dancing in the late 1970s. Their performances at clubs like The Cuckoo's Nest are cited as part of the birth of this aggressive dance style. "Black flag, fear, bands like that. Playing at clubs like The Cookus Nest in Costa Mesa, which has gone down on history as the birthplace of slam dancing." ← https://www.youtube.com/watch?v=bferkEWvJg0
 **Documented Moshing in Film** : Black Flag was one of the groups featured in Penelope Spheeris's film "The Decline of Western Civilization," which documented the punk scene in D.C. and Southern California and visually showcased moshing to wider audiences. "Moshing to groups like the circle jerks and black flag." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
 **Fidget Spinners as Merch (2017)** : Black Flag, among numerous other bands and artists, sold branded fidget spinners as merchandise in 2017. This reflects a trend where fidget spinners became one of the top-selling band merch items for the year. "Everybody sold branded fidget spinners, arcade fire, David Bowie, Prince Black Flag, the misfits, Nirvana, Queens of the Stone Age, followed boy, weird." ← https://www.youtube.com/watch?v=aSk1XQHNkd8
 **Formation and Early Name** : The band was founded by Greg Ginn and originally came together in 1977 under the name "Panic." "Greg Ginn, the founder of the band, which had come together in 1977 under the name Panic" ← https://www.youtube.com/watch?v=0qigzi1j81U

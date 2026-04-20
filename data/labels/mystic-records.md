@@ -8,3 +8,10 @@
 **Prolific Recording** : Moody estimated that he recorded around 500 bands over a period of about six years for Mystic Records. "estimates that he recorded somewhere around 500 bands over about six years." ← https://www.youtube.com/watch?v=44dXy0StjIQ
 **Scene Coalescence through Compilations** : The compilations released by Mystic Records were instrumental in helping the emerging skate punk scene to coalesce and gain structure. "And these compilations went a long way to helping the scene coalesce." ← https://www.youtube.com/watch?v=44dXy0StjIQ
 
+## artists
+- Bad Religion
+- Black Flag
+- No FX
+- Suicidal Tendencies
+- The Minutemen
+

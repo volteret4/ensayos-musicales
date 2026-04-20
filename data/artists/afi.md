@@ -1,6 +1,7 @@
 # artist - AFI
 
 ## genres
+- Emo
 - Punk
 
 ## curiosities

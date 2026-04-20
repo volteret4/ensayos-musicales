@@ -10,3 +10,12 @@
 **Simple Minds and "Don't You (Forget About Me)"** : When composer Keith Forsey was struggling to find an artist for "Don't You (Forget About Me)" for *The Breakfast Club* soundtrack, he turned to Virgin Records for suggestions. Virgin suggested Simple Minds, despite the band's initial reluctance to record an outsider's song, ultimately leading to their biggest hit. "So in desperation, Keith Forsy turned to Virgin Records. Have you got anyone you think could do this on justice? Virgin had a listen, gave it a thing and said, well, how about simple minds?" ← https://www.youtube.com/watch?v=zIkjd1OjCXM
 **Support for Online Music (1996)** : Virgin Records supported David Bowie's decision to make his song "Telling Lies" available for download in 1996, seeing him as the perfect test bed for this new digital distribution method. "In 1996, he made a song available for download with the support of his label Virgin Records, who also saw where things were going." ← https://www.youtube.com/watch?v=Yq2A_o9-ulM
 
+## artists
+- David Bowie
+- Lenny Kravitz
+- Public Image Limited
+- Sex Pistols
+- Simple Minds
+- The Smashing Pumpkins
+- The Stooges
+

@@ -6,3 +6,8 @@
 **Prominent Disappearance - Glenn Miller** : The leader of a prominent Big Band, Glenn Miller, mysteriously disappeared in December 1942 when his military plane went down over the English Channel during World War II. "No one has ever heard from Big Band leader Glenn Miller after his military plane evidently went down somewhere over the English Channel while on a mission during World War II." ← https://www.youtube.com/watch?v=sCwgvHg86Oc
 **WWII Decline Factors** : The Big Band genre experienced a decline during World War II because many musicians were drafted, dance halls closed, and gasoline rationing hindered touring. Additionally, some ambitious musicians grew tired of the rigid structure and began to explore new styles like bebop. "When the war started, Big Band started to suffer." ← https://www.youtube.com/watch?v=V7WjNR1ujhk
 
+## artists
+- Benny Goodman
+- Paul Whiteman
+- Tommy Dorsey
+

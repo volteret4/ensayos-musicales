@@ -6,3 +6,6 @@
 **Publishing Deal and House Down Payments** : Sony offered 5440 a publishing deal which included upfront money that enabled band members to make down payments for their houses. However, this involved selling the rights to half of their songs, a "double edged sword" where the initial financial relief was later offset by the ongoing loss of half their publishing income. "once we signed a deal with Sony, they gave us basically money for down payments for our houses for publishing." ← https://www.youtube.com/watch?v=W9gdKha0PLg
 **Signing 5440 After Warner Drop (c. 1997)** : Sony Music Canada signed 5440 after the band was dropped by Warner. This came about as Sony, referred to as "Selene Bucks," under Paul Berger and A&R Richard Zuckerman, was looking to expand and found interest in 5440, offering them a new record deal though without an American component. "Sony, you know, started to grow as a company. We called it Selene Bucks. You know, Paul Berger was brought in to run the company. And he was eager to find stuff. And somebody mentioned us to him and Richard Zuckerman, who was his A&R guy." ← https://www.youtube.com/watch?v=W9gdKha0PLg
 
+## artists
+- 5440
+

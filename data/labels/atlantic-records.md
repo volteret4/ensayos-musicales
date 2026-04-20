@@ -7,3 +7,9 @@
 **Signing of Mighty Joe Young** : An agent who saw Mighty Joe Young perform tipped off Atlantic Records, who then observed the group multiple times. Following a show at The Shamrock in Silver Lake, Atlantic Records made an offer, and the band signed their major label deal on April 1st, 1992. "The agent who saw the band play, tipped off Atlantic Records who came down to see the group play a bunch of times." ← https://www.youtube.com/watch?v=r6vVw66-gmI
 **Signing of P.O.D.** : Atlantic Records signed P.O.D. after the band gained a substantial fanbase through Christian-friendly clubs across the US, marking P.O.D.'s transition from the Christian Underground to the mainstream. "POD became one of the first major crossovers from the Christian Underground into the mainstream world of Heathen Rock." ← https://www.youtube.com/watch?v=g-tBn8dsSqw
 
+## artists
+- Eugenius
+- P.O.D.
+- Stone Temple Pilots
+- Tori Amos
+

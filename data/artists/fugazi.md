@@ -5,11 +5,14 @@
 
 ## genres
 - Emo
+- Hardcore punk
 - Post-Hardcore
+- Post-hardcore
 - Straight Edge
 
 ## labels
 - Discord Records
+- K Records
 
 ## albums
 **Fugazi (1988)** : This self-titled debut EP was released in 1988 and is emblematic of early Fugazi, a band characterized by its commitment to raw emotion. The band not only set standards for emo core but also established their label, Discord Records, as the spiritual home for the burgeoning emo world, though this scene was initially small and localized to D.C. "This is from their 1988 Cell Title debut EP. It's called Waking Room." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
@@ -27,6 +30,7 @@
 **Influence on Mogwai** : Mogwai cites Fugazi as an influence. "They also like to cop ideas from Fugazi, and Kraftwerk, and Nirvana, and Electronic Offits like the Orb and the Apex Twin." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
 **Major Influence on Dave Grohl** : Fugazi served as a significant influence on the musical universe of a teenage Dave Grohl, representing the kind of music he "lived for." "Fugazi, a major influence on the musical universe of a teenage Dave Grohl." ← https://www.youtube.com/watch?v=8ynrwaUi-sA
 **Preservers of Traditional Emo** : By the end of the 1990s, as emo diversified into various subgenres, Fugazi was credited with actively keeping traditional emo alive. "Sure, there was traditional emo, Fugazi made sure they kept that alive." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
+**Screamo Band Dispreference** : Fugazi's music was mentioned in contrast to what Screamo bands preferred, who opted for "old Joy Division and Smith records." This suggests a distinction in musical taste and potentially a different approach to intensity and political messaging between the groups. "They preferred old Joy Division and Smith records over Weezer and Fugazi." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Standard Bearers for Emo Core** : Fugazi not only defined the standards for emo core but also provided a centralized home for the genre through their label, Discord Records. "Not only did Fugazi set the standards for emo core, but they also gave it a home." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
 **The Ultimate Emo Band** : Due to their profound ethical stance, anti-commercialism, and focus on raw emotion, Fugazi earned the reputation of becoming "the ultimate emo band." "And in the process, Fugazi became the ultimate emo band." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
 **Touring Partners** : Explosions in the Sky, a Texas-based post-rock band, toured with Fugazi. "They've toured with nine-inch nails, Fugazi, and here's that name again, Godspeed, New Black Emperor." ← https://www.youtube.com/watch?v=9-v4qnOO8wY

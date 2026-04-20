@@ -5,3 +5,7 @@
 **Polarizing and Extreme** : This genre is intentionally polarizing and designed to elicit extreme responses due to its extreme form of pop, making it a style that is not universally appealing. "It's an extreme form of pop designed to elicit extreme responses, so not for everybody." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
 **UK Origins in Early 2010s** : Hyperpop began in the UK in the early 2010s, with its songs being ultra-catchy and having an overtly cartoonish pop quality. "Hyperpop started in the UK in the early 2010s. The songs were ultra catchy, almost like I said, cartoonish and how pop they were." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
 
+## artists
+- 100 gecs
+- Sophie
+

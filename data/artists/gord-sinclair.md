@@ -2,6 +2,7 @@
 
 ## member of
 - Rick and the Rodent S
+- The Rodents
 - The Tragically Hip
 
 ## instruments

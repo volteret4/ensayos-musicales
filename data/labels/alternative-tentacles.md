@@ -10,3 +10,8 @@
 **Home for Hardcore Punk** : Over the years, Alternative Tentacles expanded beyond just the Dead Kennedys to become a significant label for many other hardcore punk bands. "and it eventually became the home of a ton of other hardcore punk bands over the years." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
 **Released NoMeansNo's "Wrong"** : The label released NoMeansNo's popular album "Wrong" in the fall of 1989. This highlights its continued relevance in the hardcore and post-hardcore scenes into the late 1980s. "It came out on the Dead Kennedy's Alternative Tentacles label in the fall of 1989." ← https://www.youtube.com/watch?v=0qigzi1j81U
 
+## artists
+- Dead Kennedys
+- No Means No
+- NoMeansNo
+

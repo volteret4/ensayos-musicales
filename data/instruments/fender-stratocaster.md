@@ -8,3 +8,12 @@
 **Rapid Popularity** : The Stratocaster quickly gained immense popularity after its introduction. "Stratz became very popular, very fast." ← https://www.youtube.com/watch?v=E6cXyaHALBQ
 **Revolutionary Double Cutaway Design** : Unlike the Telecaster's single cutaway, the Stratocaster featured a double cutaway body shape. This design was revolutionary in 1953, as previous electric guitars largely mimicked traditional acoustic shapes. The double cutaway provided easier access for fingers to reach higher positions on the fretboard. "While the Telecaster is known as a single cutaway, the shape of the Stratocaster's body is a double cutaway. This makes it easier for the fingers to get way up high on the fretboard. All this was very revolutionary for 1953. Up until then, electric guitars were more or less crafted to ape the shape of a traditional acoustic guitar. This was something completely different." ← https://www.youtube.com/watch?v=E6cXyaHALBQ
 
+## artists
+- Buddy Holly
+- Dire Straits
+- Eric Clapton
+- Jimi Hendrix
+- Nirvana
+- Red Hot Chili Peppers
+- Smashing Pumpkins
+

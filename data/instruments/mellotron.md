@@ -9,3 +9,8 @@
 **Tape-Based Operation (Unspecified)** : The Mellotron is an antique, tape-based instrument where each key triggers a specific piece of tape, which plays for approximately 11 seconds. When the key is released, a spring retracts the tape. Sustain is limited to the tape's length, and changing sounds requires manually unscrewing the top and replacing entire looms of 36 tapes. "Okay. So basically, there is a tape. It's not a tape loop. It's a piece of tape that lasts about 20 seconds. No, it's 11. Oh, is it? Yeah." ← https://www.youtube.com/watch?v=0fQQubt9UTI
 **Used in "Mad World" Cover** : Michael Andrews stripped down Tears for Fears' "Mad World" cover to its basics, utilizing a mellotron alongside piano and other flourishes, partly for artistic reasons and partly due to budget constraints. "Andrews stripped the song down to its basics, just piano, a melaton and a few other flourishes." ← https://www.youtube.com/watch?v=yuA9Xor8vfw
 
+## artists
+- Billy Talent
+- Orchestral Manoeuvres in the Dark
+- Pink Floyd
+

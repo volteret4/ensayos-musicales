@@ -13,3 +13,19 @@
 **Spacemen 3 (UK, Mid-1980s) – "Taking Drugs to Make Music to Take Drugs To"** : Spacemen 3 were categorized as a drug band because members openly and enthusiastically discussed their regular drug use. Their early demos were released under the title Taking Drugs to Make Music to Take Drugs To, which was their stated mission. They promoted what they called "minimalist psychedelia": one or two chords often sufficed, and the drone was central to the effect. Active on the UK indie charts from the mid-to-late 1980s, they split into two projects when the band dissolved — co-frontman Jason Pierce went on to form Spiritualized. "Their early demos were issued under the title, Taking Drugs to Make Music To Take Drugs To." ← https://www.youtube.com/watch?v=B2ZbaaYx0MI
 **The Paisley Underground (Los Angeles) – Jangly 12-String Guitars; The Bangles, R.E.M., Tom Petty** : In Los Angeles in the early 1980s, a scene called the Paisley Underground blended classic rock (birds, Byrds, post-Beatles George Harrison), the Doors, Creedence Clearwater Revival, and post-punk alternative into jangly, 12-string guitar-driven psychedelic pop. The Bangles emerged from this scene, beginning as a mamas-and-papas-influenced pop-psych post-punk band. This jangly-guitar approach was also enormously influential on R.E.M. (their first half-dozen records) and Tom Petty. "This was a sound dominated by jangly guitars, reminiscent of the kind of music played by groups like the birds and the hallies." ← https://www.youtube.com/watch?v=B2ZbaaYx0MI
 
+## artists
+- Animal Collective
+- Ariel Pink
+- King Gizzard and the Lizard Wizard
+- Love
+- Mac DeMarco
+- Pink Floyd
+- Tame Impala
+- Temples
+- The Beatles
+- The Black Angels
+- The Byrds
+- The Doors
+- Unknown Mortal Orchestra
+- War on Drugs
+

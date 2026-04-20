@@ -5,6 +5,7 @@
 - Art Alexakis (singer)
 
 ## concerts
+- The Paradise
 - The Paradise (Boston)
 - The Paradise, Boston (1997)
 
@@ -21,4 +22,5 @@
 **Donna's Domain Review** : Art Alexakis received "rave reviews" in a couple of categories on Donna's Domain, a website that rates rock stars' penis size and sexual ability. This indicates positive feedback from the site's critics regarding his attributes. "Art Delexicus, if Everclar gets rave reviews in a couple of categories." ← https://www.youtube.com/watch?v=dMsEj62KFEw
 **Lawsuit and Settlement (1997-1999)** : Following the stage-diving incident, Tamika Messier filed a lawsuit on December 10, 1997, against The Paradise club, Max Lane, Drew Bledsoe, and Everclear, seeking damages. The case concluded in March 1999 with a $1.2 million settlement, primarily covered by Lane and Bledsoe, but Everclear also contributed, significantly increasing their liability insurance premiums. "On December 10th, 1997, Tamika followed a lawsuit against the club, Max Lane, drew blood soap, and Everclear." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
 **Max Lane Stage Dive Incident (November 13, 1997)** : During an Everclear show at The Paradise in Boston, New England Patriots football players Drew Bledsoe, Scott Zolak, and Max Lane stage-dived. The 305-pound Max Lane landed on 23-year-old Tamika Messier, crushing her and causing severe neck, shoulder, and arm injuries, including herniated discs. "When he arced off the stage, he landed on 23-year-old Tamika Messier." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
+**Stage Diving Injury Lawsuit** : On November 13, 1997, during an Everclear show at The Paradise in Boston, stage diving was prevalent. Two New England Patriots players, Drew Bledsoe and Scott Zolak, along with lineman Max Lane (who weighed 305 pounds), climbed onto the stage. Lane dove into the crowd, landing on 23-year-old Tamika Messier and crushing her. She suffered neck, shoulder, and arm injuries, including two herniated discs and three fused vertebrae. Messier filed a lawsuit on December 10 against the players, their club, and the band, eventually receiving $1.2 million for her pain and suffering. "Lane Dove. He landed on 23 year old Tamika Messier crushing her. She suffered injuries to her neck, shoulders and arms." ← https://www.youtube.com/watch?v=bferkEWvJg0
 

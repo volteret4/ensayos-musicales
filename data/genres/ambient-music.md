@@ -8,3 +8,6 @@
 **Origin Story (Car Accident)** : The genre's conception by Brian Eno was directly influenced by a 1975 car accident that left him bedridden for months. During this time, being unable to adjust the volume of very quiet "heart music," he had an epiphany about music's potential to create a harmonious sensory experience akin to color or light. "In 1975, he got into a car accident, and this led him bedridden for several months." ← https://www.youtube.com/watch?v=QfiRRtsZoYU
 **Soundscape Concept** : After his accident, Eno began experimenting with synthesizers to develop a "soft mesmerizing sound that gently went through various repetitions," which he termed "soundscapes" rather than mere sounds, a concept he fully mastered by 1979. "These weren't so much sounds as they were sound scapes, and he called it ambient music." ← https://www.youtube.com/watch?v=QfiRRtsZoYU
 
+## artists
+- Brian Eno
+

@@ -5,3 +5,10 @@
 **Trent Reznor's Own Label** : Nothing Records is Trent Reznor's successful record label. Its establishment and operation represent a later phase in his career, allowing him greater creative control and business acumen after his contentious experiences with earlier labels like TVT. "The success of his nothing records label, and of course, the long-awaited 1999 double album, The Fragile." ← https://www.youtube.com/watch?v=M3nUQtja0qc
 **Trent Reznor's Vanity Boutique Label** : Interscope, a subsidiary of Universal, created Nothing Records for Trent Reznor of Nine-inch Nails. This vanity boutique label offered Reznor additional creative control and the ability to sign, develop, and produce talent independently, illustrating a major label strategy to attract and retain significant artists. "Years later, Interscope, which is part of Universal, created nothing records for Trent Resner in Nine-inch Nails." ← https://www.youtube.com/watch?v=Ft8nruhWCas
 
+## artists
+- Atticus Ross
+- Marilyn Manson
+- Nine Inch Nails
+- Nine-inch Nails
+- Trent Reznor
+

@@ -8,3 +8,14 @@
 **Musical Characteristics** : Geek Rockers often favored "weird instruments and strange electronic effects" in addition to standard guitar, bass, and drums, contributing to their distinctive sound. "Geeks liked weird instruments and strange electronic effects to go with their standard guitar bass and drums." ← https://www.youtube.com/watch?v=amHre9ZZFkU
 **Outsider Status** : Geek Rockers were seen as "outsiders" even within the outlier universe of Alt Rock; being labeled "weird" by Goth kids, Lofi practitioners, and Shoegazers was considered a "badge of honor." "Geek Rockers were outsiders even in the outlier universe of Alt Rock. In the Goth Kids and Low Fires and Shoegays's branded You as Weird, that was a badge of honor." ← https://www.youtube.com/watch?v=amHre9ZZFkU
 
+## artists
+- AJR
+- Alt J
+- Barenaked Ladies
+- Nerf Herder
+- Public Service Broadcasting
+- The Decemberists
+- They Might Be Giants
+- Titus Andronicus
+- Weezer
+

@@ -6,3 +6,6 @@
 **Favorable Deal for Green Day** : Green Day benefited from a financially advantageous agreement with Lookout Records, which allocated them 60% of the gross profits from their record sales. The band earned over $150,000 from sales of approximately 70,000 copies of their albums 39 Smooth and Kerplunk. "By getting a nice 60% of the gross profits, Green Day had earned over $150,000 from those records, nice, very smart." ← https://www.youtube.com/watch?v=nyfdGYWelic
 **Founded by Lawrence Livermore** : Lookout Records was established by Lawrence Livermore, who is also credited with giving Frank Edwin Wright III (Tre Cool) his stage name. "From the time he was about 12, Frank had been in a band with a dude named Lawrence Livermore, the founder of Lookout Records, so there's the connection." ← https://www.youtube.com/watch?v=nyfdGYWelic
 
+## artists
+- Green Day
+

@@ -2,6 +2,7 @@
 
 ## member of
 - Motorhead
+- Motörhead
 
 ## curiosities
 **Attendance at Ramones' Final Show** : Lemmy of Motorhead was among the notable figures who came to pay their respects at the Ramones' final concert on August 6, 1996, in Hollywood. "All kinds of people came to pay their respects, including Lemmy of Motorhead." ← https://www.youtube.com/watch?v=Epz5Sn151bk

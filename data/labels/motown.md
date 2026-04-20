@@ -5,3 +5,7 @@
 **Demo Destruction Policy** : Motown pressed about 250 demo copies of Frank Wilson's "Do I Love You Indeed I Do?" in 1965, but these were largely destroyed because Motown head Berry Gordy did not believe the demo was any good, resulting in only 2 to 5 copies surviving. "About 250 copies of the demo were pressed up because neither Wilson nor Motown had buried gordy, but that the demo was any good. Those 250 records were destroyed, except maybe between two and at most five copies." ← https://www.youtube.com/watch?v=tbmssCZ05ro
 **Henry Cosby as Staff Producer** : Motown employed Henry Cosby as a staff producer. Cosby was also a co-writer of Stevie Wonder's 1966 hit "Uptight Everything's All Right," which later gained a share of royalties from Oasis's "Step Out" due to musical similarities. "a staff producer at Motown named Henry Cosby." ← https://www.youtube.com/watch?v=L09R2evjyMc
 
+## artists
+- Frank Wilson
+- Henry Cosby
+

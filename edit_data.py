@@ -4,14 +4,16 @@ edit_data.py — Interactive music data editor
 Run: python edit_data.py
 Open: http://localhost:8765
 """
-import os, json, re, sqlite3, subprocess, sys
+import os, json, re, sqlite3, subprocess, sys, shutil
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from urllib.parse import urlparse
 from edit_data_html import HTML
 
-PORT        = 8765
-DB_PATH     = './music_facts.db'
-DATA_FOLDER = './data'
+PORT           = 8765
+DB_PATH        = './music_facts.db'
+DATA_FOLDER    = './data_corregida'
+PENDING_FOLDER = './data_corregida/pendiente'
+VALIDATED_JSON = './data_corregida/validated.json'
 
 TYPE_TO_DIR = {
     'artist': 'artists', 'genre': 'genres', 'label': 'labels',
@@ -25,9 +27,18 @@ def slug(name):
     s = re.sub(r'[\s_]+', '-', s)
     return s.strip('-') or 'unknown'
 
-def entity_filepath(etype, name):
-    d = TYPE_TO_DIR.get(etype, etype + 's')
-    return os.path.join(DATA_FOLDER, d, slug(name) + '.md')
+def entity_filepath(etype, name, pending=False):
+    d    = TYPE_TO_DIR.get(etype, etype + 's')
+    base = PENDING_FOLDER if pending else DATA_FOLDER
+    return os.path.join(base, d, slug(name) + '.md')
+
+def resolve_filepath(etype, name):
+    """Return the entity file path, checking data_corregida then pendiente."""
+    fp = entity_filepath(etype, name)
+    if os.path.exists(fp): return fp
+    fp2 = entity_filepath(etype, name, pending=True)
+    if os.path.exists(fp2): return fp2
+    return fp   # return expected path even if not found
 
 # ── MD helpers ────────────────────────────────────────────────────────────────
 def _read(fp):
@@ -188,6 +199,116 @@ def edit_entry(fp, section, old_key, new_title, new_desc):
         out.append(line)
     _write(fp, out)
 
+# ── Validated JSON helpers ────────────────────────────────────────────────────
+def _load_validated():
+    if os.path.exists(VALIDATED_JSON):
+        with open(VALIDATED_JSON, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    return {}
+
+def _save_validated(v):
+    os.makedirs(DATA_FOLDER, exist_ok=True)
+    with open(VALIDATED_JSON, 'w', encoding='utf-8') as f:
+        json.dump(v, f, ensure_ascii=False, indent=2)
+
+# ── Pending entity loading ────────────────────────────────────────────────────
+_LIST_SECS = {'members', 'member_of', 'genres', 'labels', 'concerts', 'instruments'}
+_ENTRY_RE  = re.compile(r'^\*\*(.+?)\*\*\s*:\s*(.+)')
+
+def parse_pending_md(etype, fp):
+    """Parse a pending MD file → entity dict matching load_data() format."""
+    name = ''; sections = {}; cur = None
+    with open(fp, 'r', encoding='utf-8') as f:
+        for raw in f:
+            s = raw.strip()
+            if not s: continue
+            m = re.match(r'^#\s+\w+\s+-\s+(.+)', s)
+            if m: name = m.group(1).strip(); continue
+            m2 = re.match(r'^##\s+(.+)', s)
+            if m2: cur = m2.group(1).strip().lower().replace(' ', '_'); continue
+            if cur is None: continue
+            if cur in _LIST_SECS:
+                sections.setdefault(cur, []).append(s.lstrip('- ').strip())
+            elif cur != 'artists':  # skip derived ## artists section
+                me = _ENTRY_RE.match(s)
+                if me:
+                    sections.setdefault(cur, []).append({
+                        'name': me.group(1).strip(),
+                        'facts': [{'description': me.group(2).strip(), 'source_file': ''}],
+                    })
+    if not name: return None
+    if etype == 'artist':
+        return {
+            'id': 0, 'name': name, 'is_primary': True,
+            'member_of':   [{'id': None, 'name': n} for n in sections.get('member_of', [])],
+            'members':     [{'id': None, 'name': n} for n in sections.get('members', [])],
+            'genres':      sections.get('genres', []),
+            'labels':      sections.get('labels', []),
+            'concerts':    sections.get('concerts', []),
+            'instruments': sections.get('instruments', []),
+            'albums':      sections.get('albums', []),
+            'songs':       sections.get('songs', []),
+            'curiosities': sections.get('curiosities', []),
+            '_pending': True, '_etype': etype, '_file': os.path.basename(fp),
+        }
+    return {
+        'id': 0, 'name': name,
+        'curiosities': [
+            {'title': e['name'], 'description': e['facts'][0]['description'], 'source_file': ''}
+            for e in sections.get('curiosities', [])
+        ],
+        '_pending': True, '_etype': etype, '_file': os.path.basename(fp),
+    }
+
+def load_pending():
+    """Return pending entities grouped by subdir key."""
+    if not os.path.exists(PENDING_FOLDER): return {}
+    result = {}
+    for subdir, etype in [('artists','artist'),('genres','genre'),('labels','label'),
+                           ('concerts','concert'),('instruments','instrument')]:
+        pnd_dir = os.path.join(PENDING_FOLDER, subdir)
+        if not os.path.isdir(pnd_dir): continue
+        elist = []
+        for fn in sorted(os.listdir(pnd_dir)):
+            if not fn.endswith('.md'): continue
+            e = parse_pending_md(etype, os.path.join(pnd_dir, fn))
+            if e: elist.append(e)
+        if elist: result[subdir] = elist
+    return result
+
+def accept_pending(etype, name):
+    """Move entity from pendiente to data_corregida, pulling referenced children too."""
+    subdir  = TYPE_TO_DIR.get(etype, etype + 's')
+    fn      = slug(name) + '.md'
+    src     = os.path.join(PENDING_FOLDER, subdir, fn)
+    dst_dir = os.path.join(DATA_FOLDER, subdir)
+    dst     = os.path.join(dst_dir, fn)
+    if not os.path.exists(src):
+        return False, f'Not found in pendiente: {src}'
+    os.makedirs(dst_dir, exist_ok=True)
+    shutil.move(src, dst)
+    accepted_children = []
+    if etype == 'artist':
+        parsed = parse_pending_md('artist', dst)
+        if parsed:
+            for field, child_etype in [
+                ('genres','genre'), ('labels','label'),
+                ('concerts','concert'), ('instruments','instrument'),
+                ('members','artist'), ('member_of','artist'),
+            ]:
+                for item in parsed.get(field, []):
+                    child_name = item if isinstance(item, str) else item.get('name', '')
+                    if not child_name: continue
+                    child_sub = TYPE_TO_DIR.get(child_etype, child_etype + 's')
+                    child_fn  = slug(child_name) + '.md'
+                    child_pnd = os.path.join(PENDING_FOLDER, child_sub, child_fn)
+                    child_dst = os.path.join(DATA_FOLDER, child_sub, child_fn)
+                    if os.path.exists(child_pnd) and not os.path.exists(child_dst):
+                        os.makedirs(os.path.join(DATA_FOLDER, child_sub), exist_ok=True)
+                        shutil.move(child_pnd, child_dst)
+                        accepted_children.append(f'{child_sub}/{child_fn}')
+    return True, accepted_children
+
 # ── SQLite data loading ───────────────────────────────────────────────────────
 def load_data():
     if not os.path.exists(DB_PATH):
@@ -278,23 +399,35 @@ def load_data():
             gen.append({'id': i, 'title': title, 'description': desc, 'source_file': sf or ''})
 
     conn.close()
+    validated = _load_validated()
+
+    def is_validated(et, nm):
+        return bool(validated.get(f'{et}:{slug(nm)}'))
+
     primary = sorted(
-        [a for a in artists.values() if a['is_primary']],
+        [a for a in artists.values() if a['is_primary'] and not is_validated('artist', a['name'])],
         key=lambda x: re.sub(r'^(The|Los|Las)\s+', '', x['name'], flags=re.IGNORECASE),
     )
+    for ek in ('genre', 'label', 'concert', 'instrument'):
+        entities[ek] = [e for e in entities[ek] if not is_validated(ek, e['name'])]
+
     return {
-        'artists': primary,
-        'genres':  entities['genre'],  'labels':      entities['label'],
-        'concerts': entities['concert'], 'instruments': entities['instrument'],
+        'artists':   primary,
+        'genres':    entities['genre'],    'labels':      entities['label'],
+        'concerts':  entities['concert'],  'instruments': entities['instrument'],
         'gen_curiosities': gen,
+        'pending': load_pending(),
+        'validated_count': len(validated),
     }
 
 # ── DB rebuild ────────────────────────────────────────────────────────────────
 def rebuild_db():
     if os.path.exists(DB_PATH):
         os.remove(DB_PATH)
-    r1 = subprocess.run([sys.executable, 'md_to_sqlite.py'],  capture_output=True, text=True)
-    r2 = subprocess.run([sys.executable, 'find_mentions.py'], capture_output=True, text=True)
+    env = os.environ.copy()
+    env['MUSIC_DATA_FOLDER'] = DATA_FOLDER
+    r1 = subprocess.run([sys.executable, 'md_to_sqlite.py'],  capture_output=True, text=True, env=env)
+    r2 = subprocess.run([sys.executable, 'find_mentions.py'], capture_output=True, text=True, env=env)
     return {
         'ok':  r1.returncode == 0 and r2.returncode == 0,
         'out': (r1.stdout + r2.stdout).strip(),
@@ -323,6 +456,27 @@ class Handler(BaseHTTPRequestHandler):
             d = load_data()
             self._json(d if d is not None else {'error': 'No DB — run md_to_sqlite.py first'}, 200 if d else 500)
             return
+
+        if path.startswith('/img/'):
+            # Construye la ruta local (ej: ./img/axe-svgrepo-com.png)
+            local_path = "." + path
+            if os.path.exists(local_path):
+                self.send_response(200)
+                # Establece el tipo de contenido según la extensión
+                if path.endswith(".png"):
+                    self.send_header('Content-type', 'image/png')
+                elif path.endswith(".svg"):
+                    self.send_header('Content-type', 'image/svg+xml')
+                self.end_headers()
+                with open(local_path, 'rb') as f:
+                    self.wfile.write(f.read())
+                return
+            else:
+                self.send_error(404, "Imagen no encontrada")
+                return
+        # --- FIN DE LA NUEVA SECCIÓN ---
+
+
         # Serve main HTML for everything else
         b = HTML.encode()
         self.send_response(200)
@@ -344,12 +498,39 @@ class Handler(BaseHTTPRequestHandler):
         etype = d.get('type', '')
         name  = d.get('name', '')
 
-        if path == '/api/delete/entity':
-            fp = entity_filepath(etype, name)
-            if os.path.exists(fp): os.remove(fp)
+        if path == '/api/validate':
+            v = _load_validated()
+            v[f'{etype}:{slug(name)}'] = True
+            _save_validated(v)
             self._json({'ok': True}); return
 
-        fp = entity_filepath(etype, name)
+        if path == '/api/unvalidate':
+            v = _load_validated()
+            v.pop(f'{etype}:{slug(name)}', None)
+            _save_validated(v)
+            self._json({'ok': True}); return
+
+        if path == '/api/pending/accept':
+            ok, result = accept_pending(etype, name)
+            if ok:
+                self._json({'ok': True, 'accepted_children': result}); return
+            self._json({'error': result}, 404); return
+
+        if path == '/api/pending/delete':
+            pnd_fp = entity_filepath(etype, name, pending=True)
+            if os.path.exists(pnd_fp): os.remove(pnd_fp)
+            self._json({'ok': True}); return
+
+        if path == '/api/delete/entity':
+            fp = entity_filepath(etype, name)
+            if os.path.exists(fp):
+                os.remove(fp)
+            else:
+                pnd_fp = entity_filepath(etype, name, pending=True)
+                if os.path.exists(pnd_fp): os.remove(pnd_fp)
+            self._json({'ok': True}); return
+
+        fp = resolve_filepath(etype, name)
         if not os.path.exists(fp):
             self._json({'error': f'File not found: {fp}'}, 404); return
 

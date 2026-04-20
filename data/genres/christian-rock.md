@@ -13,3 +13,6 @@
 **Shifting Perception in the Late 90s** : Towards the end of the 1990s, stereotypes associated with Christian rock began to diminish. Bands started attracting fans based on their sound rather than solely their message, offering positive, current, and less preachy music that resembled mainstream rock while notably lacking themes of sex and drugs. "Instead of weak and safe imitations of the real thing, these bands began to attract fans for their sound and not their message." ← https://www.youtube.com/watch?v=g-tBn8dsSqw
 **Subtle Religious Message** : Many Christian Rock bands produce music that sounds mainstream, with listeners often unaware of the religious orientation of the artists unless explicitly told. "And here's the weird thing, unless you even know, you'd never guess that these bands were all about God." ← https://www.youtube.com/watch?v=g-tBn8dsSqw
 
+## artists
+- Striper
+

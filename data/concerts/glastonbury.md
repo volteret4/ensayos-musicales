@@ -8,3 +8,16 @@
 **Largest Greenfield Festival** : Glastonbury is known as the largest annual Greenfield Festival in the world, meaning people gather in a field, specifically Worthy Farm (a working dairy farm), for five days almost every June. It has been held annually since 1981, with "fallow years" every half-decade to allow the land and local residents to recover from the crowds. "It is known as the largest annual Greenfield Festival in the world, and this simply means that people come to a field, and in this case it's worthy farm, which is a working dairy farm, for five days just about every June." ← https://www.youtube.com/watch?v=7JP2tjJibTQ
 **Planned Return in 2021** : The Glastonbury festival announced its intention to return in June 2021, provided vaccine distribution and efficacy are successful. "Glastonbury says it'll be back in June 2021." ← https://www.youtube.com/watch?v=nYPGQiDL5bw
 
+## artists
+- Bruce Springsteen
+- Coldplay
+- David Bowie
+- Foo Fighters
+- Muse
+- Neil Young
+- Paul McCartney
+- Radiohead
+- The Cure
+- The Rolling Stones
+- U2
+

@@ -5,4 +5,5 @@
 
 ## songs
 **The Men's Movement (1992)** : This song, from Consolidated's 1992 album "Play More Music," directly tackled the controversial topic of moshing. Live performances of the song often incorporated direct audience interaction, where individuals could voice their opinions on moshing through a microphone in the crowd, reflecting the divide between moshers and those who wanted to enjoy shows without harm. "And it contained a song called The Men's Movement, which addressed the whole issue of moshing." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
+**The Men's Movement (Year Unspecified)** : Consolidated, described as a San Francisco ultra-left-wing band, created an anti-mosh track called "The Men's Movement." The song incorporated comments from the audience about moshing, specifically addressing the dangers faced by "short girls" and the desire to watch the show without getting hurt. "San Francisco's Ultra Left Wing band consolidated incorporating comments from the audience about moshing in a song called The Men's Movement." ← https://www.youtube.com/watch?v=bferkEWvJg0
 

@@ -6,3 +6,6 @@
 **Industrial Music Label** : Mute was identified as one of the labels where industrial music thrived, providing a platform for artists to produce and distribute their heavy, electronic-based sounds. "Industrial lived on labels like wax tracks and mute and strange European imprints." ← https://www.youtube.com/watch?v=amHre9ZZFkU
 **Promoter of Techno Pop** : Over several years, Mute became instrumental in introducing the world to numerous techno pop artists, including Depeche Mode, Erasure, and Yazoo. "And over the next few years, Mute would introduce the world to more of these techno pop practitioners, including the Pesh mode and Erasier and Yazoo." ← https://www.youtube.com/watch?v=9uTORLOm5Yg
 
+## artists
+- The Normal
+

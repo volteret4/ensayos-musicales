@@ -7,3 +7,7 @@
 **Source for Unique 7-inch Vinyl** : Third Man Records, Jack White's record store in Nashville, was the source for a specific 7-inch record with catalog number TMR001, featuring The Dead Weather and a Gary Numan cover. "I pull out this 45 RPM, seven-inch record that I bought at Jack White's third-man record store in Nashville, it actually has the catalog number TMR001." ← https://www.youtube.com/watch?v=VlIErdSSVOM
 **Vinyl-Centric Philosophy** : Third Man Records, founded by Jack White, has the motto "your turntable's not dead" and is entirely dedicated to vinyl, with a unique setup in Nashville allowing for recording, mixing, and pressing of records locally. "The motto of Jack White's third man records is, your turntable's not dead." ← https://www.youtube.com/watch?v=GES0Ms_kaCI
 
+## artists
+- Elvis Presley
+- Jack White
+

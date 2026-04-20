@@ -5,3 +5,6 @@
 **Linkin Park's "Wild Reception" (2001)** : Linkin Park received a "wild reception" during their performance on the 2001 Ozzfest tour. This significant positive reception contributed to the band's momentum, which they capitalized on by releasing their remix album *Reanimation*. "including the wild reception they got on the 2001 Oz Fest tour" ← https://www.youtube.com/watch?v=YcdidjWaIqE
 **Merger with Warped Tour (1998)** : In 1998, Ozzfest merged with the Warped Tour for a special event known as "Skaten for Satan," creating a unique combined audience. "In 1998, the Warped Tour emerged with Oz Fest for something that was called Skaten for Satan." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
 
+## artists
+- Drowning Pool
+

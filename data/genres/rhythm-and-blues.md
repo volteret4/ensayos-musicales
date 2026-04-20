@@ -7,3 +7,6 @@
 **R&B's Origins in the Great Migration – Cotton Gin, Slavery, and Urban Demographics** : The origins of rhythm and blues trace back to the invention of the cotton gin in 1794, which entrenched slavery, and the subsequent dispossession of African-American land, which drove the Great Migration from the rural South to northern cities from the late nineteenth century through the early twentieth. This demographic shift was the crucible in which jazz and blues evolved into rhythm and blues. "The cotton gin (1794) entrenched slavery, dispossession drove the Great Migration, and the resulting demographic shift was the crucible in which jazz and blues evolved into R&B." ← https://www.youtube.com/watch?v=f2KA97T4u08
 **RCA's Saris (Not Red) Vinyl Coding** : For its 7-inch singles, RCA used "saris" colored vinyl for Rhythm and Blues releases, specifically clarifying that it was "not red." This was part of a short-lived attempt to color-code genres by vinyl pressing color. "Rhythm and blues was saris. Not red, saris." ← https://www.youtube.com/watch?v=VlIErdSSVOM
 
+## artists
+- Chuck Berry
+

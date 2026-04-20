@@ -7,3 +7,30 @@
 **Later Terminology** : The word "indie" emerged as a term slightly later than "post punk" to describe the music evolving from the original punk scene. "The word that came a little later was indie." ← https://www.youtube.com/watch?v=9uTORLOm5Yg
 **MySpace Artist Style** : Indie was identified as one of the distinctive styles associated with "MySpace Artists." The platform's direct artist-to-fan interaction fostered communities around genres like indie, contributing to their popularization and the launch of new acts. "Before long, we had something called MySpace Artists, a distinctive set of styles that involved pop punk, emo, and indie acts." ← https://www.youtube.com/watch?v=GYUuTbOvyak
 
+## artists
+- Arcade Fire
+- Arctic Monkeys
+- Blur
+- Butch Vig
+- Elliot Smith
+- Georgia Hubley
+- Joy Division
+- Lorde
+- MXPX
+- Manic Street Preachers
+- Mia Zapata
+- Neutral Milk Hotel
+- No Doubt
+- Oasis
+- Radiohead
+- Sonic Youth
+- St. Vincent
+- The Apples in Stereo
+- The Killers
+- The Pixies
+- The Pocket Gods
+- The Smiths
+- The Strokes
+- The White Stripes
+- Will Cullen Hart
+

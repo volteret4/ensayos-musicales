@@ -5,6 +5,7 @@
 **"The Joshua Tree" as a Cultural Phenomenon** : U2's album, The Joshua Tree, not only achieved critical and commercial success by selling over 25 million albums, but it also became a cultural phenomenon with an impact lasting for years, even decades, solidifying its place as one of the most significant rock releases of all time. "An album is a critical success. It turns into a commercial smash and every once in a while, every once in a long, long while, it turns into a cultural phenomenon with an impact that last years, maybe decades." ← https://www.youtube.com/watch?v=VR5Fncdc2kQ
 **12-Year Rock and Pop Cycle** : Historically, popular music followed a 12-year cycle where rock's popularity and influence would ascend while pop descended, and vice versa. This pattern can be traced back to the early 1950s, with rock gaining traction around 1951, peaking by 1957, and then declining as pop surged. The cycle reversed in 1964 with The Beatles' arrival in America, sustaining until about 1970 when pop again took over. Rock saw a resurgence with punk in 1976, faded by 1982-83 with new pop stars, and returned around 1990 with alternative and grunge until 1996. After another pop resurgence and rock being "declared dead," rock experienced a final comeback in 2000-2001, remaining dominant until about 2008 before falling off a cliff. This cycle, which historically predicted a rock revival after 2014 (and even after Donald Trump's 2016 election, which usually correlated with rock's resurgence), no longer held, suggesting it has been irreparably broken by streaming and the decline of traditional music gatekeepers. "This is a dance that extends back to the early 1950s. It says that when rock is on the ascended, in terms of popularity and influence, pop is on the descendant and vice versa." ← https://www.youtube.com/watch?v=nX8uAFDzDYM
 **12-Year Rock and Pop Cycle Theory** : Since the 1950s, a theory suggests a predictable 12-year cycle for the rise and fall of rock and pop popularity, where rock ascends for approximately six years, then declines for six years as pop rises, driven by demographic and cultural forces. This cycle dictates that rock reaches a peak, new ideas become exhausted, and the generation pushing rock ages out, leading to a decline before pop resurgence. "Since the 1950s, we've been able to track the rise and fall in the popularity of rock versus pop." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
+**1950s Classification** : In the 1950s, Rock was one of only four main headings, alongside pop, country, and R&B, under which most released music could be classified. This highlights a stark contrast to the nearly 2,000 categories available today. "In the 1950s, you had rock, pop, country, and R&B. Most everything that was released back then could be classified under one of those four headings." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **1950s Fashion Sense** : In the 1950s, when rock music emerged, it developed its own fashion style, with a significant element being how men wore their hair. This early look was generally neat, greased back, sometimes with a ducktail or pompadour, and long hair was considered an outlier until The Beatles. "When rock was born in the 1950s, it, like so many other musical styles, came with its own fashion sense." ← https://www.youtube.com/watch?v=VnXBJqKwkrw
 **Album as New Playground (1960s)** : By the 1960s, the rock album became a new creative outlet for artists who sought to break free from the limited capacity of the 7-inch single, exemplified by The Beatles' concept albums. "The album became this new playground for artists who didn't like being restricted by the meager capacity of the 7-inch single, the Beatles especially." ← https://www.youtube.com/watch?v=GES0Ms_kaCI
 **Birth from Collision of Genres (1950s)** : Rock music originated in the 1950s from the blending of several genres, specifically blues, R&B, country, and hillbilly music. "rock music was born out of a collision between blues, R&B, country, and hillbilly music back in the 1950s." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
@@ -45,11 +46,13 @@
 **Impact of Short Attention Spans on Songwriting** : The changing nature of music, driven by shrinking attention spans in the streaming era, is particularly detrimental to rock songs, which traditionally feature longer instrumental buildups that are now being eliminated to capture listener attention within the first 30 seconds. "No more long buildups. Really bad thing for rock songs when you think about it, right?" ← https://www.youtube.com/watch?v=Z7glrAoXtkA
 **Inability to Rebound Post-2000** : The recorded music industry has largely failed to create new superstar rock acts since the turn of the century, contrasting with previous decades when numerous rock bands could fill arenas and stadiums. This decline is attributed to the breakdown of old industry models, which prioritized physical music sales and allowed for longer artist development. "The recorded music industry has done a terrible job of creating new superstar acts since the beginning of the century." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
 **Increasing Las Vegas Residencies for Rock Bands** : Following the success of pop artists in Las Vegas, rock bands began increasingly entertaining and accepting offers for residencies in the city. This trend represented a new touring model for rock artists, providing a less exhaustive alternative to traditional tours. "And it wasn't long before rock bands started entertaining and accepting offers." ← https://www.youtube.com/watch?v=GYUuTbOvyak
+**Innovation During Decline** : The decline of rock's dominant position at the end of the 2000s was not necessarily negative, as being in the "down part of a cycle" often leads to significant innovation. This uncertainty fosters a willingness to experiment with new sounds and approaches. "And this isn't necessarily a bad thing because being in the down part of a cycle can lead to a lot of innovation." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Les Paul Guitar's Versatility** : The Gibson Les Paul guitar has been continuously in production since its 1952 introduction and is widely used across virtually every genre, including rock. Its solid-body design resolved feedback issues common with older hollow-body guitars, making it ideal for amplified rock music. "The Les Paul has been in production ever since, and has been used by guitars into rock, punk, metal, pop, country, soul, R&B, jazz, reggae, and virtually every other genre you want to mention." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
 **Less Intense Post-2008** : Following the 2008 financial crisis and subsequent economic recovery, rock music also became happier, or at least less intense than might have been expected. "Rock also got happier, or at least less intense than it was otherwise expected to be." ← https://www.youtube.com/watch?v=sOU54d8mr5k
 **Limited Marketing and Algorithm Suppression** : In the streaming era, as record labels increasingly invested marketing and promotional dollars into pop and hip hop due to their higher streaming numbers, rock music received far less attention. This, combined with algorithms that tamped down rock songs because they weren't streamed as much, contributed to the genre's struggle. "Meanwhile, rock and country got far less marketing and promotional attention than they used to contributing to their struggle." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
 **Loss of Dominance in 21st Century** : In the 21st century, rock is "no longer the main musical driver of popular culture," with hip hop surpassing it, although its appeal has not necessarily shrunk. "we have to admit that it is no longer the main musical driver of popular culture. It just isn't. Hip hop is king." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
 **Male Domination in History** : The vast majority of rock history has been "a very male thing," with a common prejudice that girls "just couldn't rock" and were "built wrong," a notion that took a long time to overcome. This historical context set the stage for movements like Riot Grrrl. "There's no question that the vast majority of rock history involves dudes. It's been a very male thing" ← https://www.youtube.com/watch?v=Qss5kC2FUx0
+**Mid-2000s Dominance and Late-2000s Decline** : Rock held a dominant position roughly between 2004 and 2008, but then the music cycle shifted, leading to a decline in its power and societal influence by the end of the 2000s. This decline allowed for other genres, like teen pop, to take focus. "As we saw, rock had been on top for years, maybe 2004-2008, but then the cycle began to turn." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Mid-60s Political and Social Engagement** : By the mid-1960s, rock music had become deeply immersed in political and social protest. This shift was largely driven by significant contemporary movements and events, including the civil rights movement, the women's rights movement, the burgeoning drug culture, and especially the Vietnam War. During this period, there was a widespread belief that Rock and Roll possessed the power to fundamentally change the world. "by the time we got to the middle 60s, Rock was steeped in political and social protest, thanks to the civil rights movement, the women's rights movement, drug culture, and especially the Vietnam War and all that went with it." ← https://www.youtube.com/watch?v=0ARYt4sYT90
 **Mini-Moog's Prominence** : The Mini-Moog synthesizer is considered the most famous synth in history due to its extensive use across a wide array of genres, including rock. Its unique sounds and portability made it highly desirable for musicians seeking innovative textures. "I think it's the most famous synth in history given how much it was used in rock, pop, disco, funk, R&B, and jazz." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
 **Most Consumed Genre by Concert Tickets in 2010s** : While hip hop was the dominant cultural force globally in the 2010s, rock remained the most consumed genre in many countries, including Canada, the US, and the UK, when accounting for concert tickets sold. This indicates strong live performance engagement for rock music. "But if we had in concert tickets sold, rock remained the most consumed genre in many countries around the planet, including Canada, the US and the UK." ← https://www.youtube.com/watch?v=HSvgRyGiOpE
@@ -57,6 +60,7 @@
 **Multiracial Contributions** : Despite its perceived whiteness, rock music's evolution has always involved and continues to involve multiracial contributions. "It also foretold of a world where we would see more multiracial contributions to this music." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 **Nickelback's Competence and Success** : Nickelback is described as a "very, very competent, solid rock band," having achieved immense success with millions of fans and over 50 million albums sold worldwide. "they are a very, very competent, solid rock band." ← https://www.youtube.com/watch?v=TsiYLGGSJ2U
 **Nostalgia Boom for Older Acts (2016 onward)** : The "Concert Nostalgia Boom" reflects a resurgence of interest in "heritage acts" or "legacy bands" from the 1960s, 70s, and 80s, who began touring again to very large audiences. Fans are willing to pay significant amounts to see these classic artists, driven by a desire to relive their youth. Promoters like Live Nation and AEG increasingly rely on these older acts to fill arenas and stadiums, as the recorded music industry has struggled to create a similar number of new stadium-filling artists. "Fans want to see these classic artists while they still can, and they're willing to pay for the privilege." ← https://www.youtube.com/watch?v=ZzIqIydZTlA
+**Poets in Rock** : The text describes "poets in rock" as a rare phenomenon, citing Bob Dylan, Bruce Springsteen, Patti Smith, Jim Morrison, Bono, and Lou Reed as examples. It also mentions Joni Mitchell and Leonard Cohen as poets, though not strictly "rock" artists. "True poets speak to you in ways that no one else can. And poets in rock are a rare thing." ← https://www.youtube.com/watch?v=dnz_Ycd_q7s
 **Post-1978 Fragmentation** : After 1978, mainstream rock fragmented into numerous sub-genres, with people discussing metal, prog, folk rock, soft rock, country rock, blues rock, and punk, indicating a diversification of the genre. "Same thing with mainstream rock. People were now talking about metal and Prague and folk rock, and soft rock, and country rock, and blues rock, and of course, punk." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
 **Post-2000 Arena-Filling Bands Rarity** : It has become exceptionally difficult for rock bands to emerge since 2000 and achieve the status of arena headliners. Aside from a few exceptions like Arcade Fire, Muse, Linkin Park (though no longer active), and Jack White/The White Stripes, names quickly run out, making Imagine Dragons a rare success story from that era. "Name all the rock bands who have emerged since 2000, who are capable of filling an arena as a headliner today." ← https://www.youtube.com/watch?v=GmYlTwI_TQQ
 **Post-Technopop Resurgence in US** : By the mid-1980s, as pure Technopop declined, rock music in the US experienced a resurgence. This period saw "rock flexing its muscles again," exemplified by the rise of hair metal and a growing interest in indie/alternative music, offering a counterpoint to electronic sounds. "In the US, rock began flexing its muscles again, think hair metal and the growing interest in Indian alternative music." ← https://www.youtube.com/watch?v=5PJRCC6EwUY
@@ -71,6 +75,7 @@
 **Repeatedly Declared "Dead"** : Rock music has been declared "dead" multiple times throughout its history. Such pronouncements occurred in 1956, the early 1960s, the early 70s, the late 70s (during the disco era), the mid-80s, and the mid-90s, indicating a recurring pattern of older generations dismissing its relevance. "Rock was declared dead again in the early 70s, the late 70s during disco, the middle 80s, the middle 90s, and again and again and again." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
 **Resurrection 2001-2004** : Between 2001 and 2004, rock music experienced a significant resurrection, marked by numerous successful records from both established acts and emerging artists. This period saw many bands achieve multi-platinum, gold, and platinum sales across various markets. "By the end of 2003, Rock's Resurrection was well underway with plenty of big records." ← https://www.youtube.com/watch?v=7dXtgTkdv9w
 **Return of Rock in Early 2000s** : The early 2000s saw signs of rock's potential resurgence, including an MTV compilation titled "The Return of the Rock" in June 2000, which featured new metal and alt-rock bands. This period marked a "polar shift in the public's tastes" after 50 years of cyclical dominance between rock and pop. "MTV, the Chief Spreaders of the Pop Plague of the Time, released a compilation album. They entitled The Return of the Rock." ← https://www.youtube.com/watch?v=7dXtgTkdv9w
+**Return to Center in Mid-2000s** : By the middle of the 2000s, major legacy groups from the 90s and earlier roared back, helping to make rock, particularly the alternative variety, front and center once again. This period was described as very healthy for the genre. "And we also recounted how major legacy groups from the 90s and before, roared back by the middle of the decade to once again make rock, especially of the alternative variety, front and center once again." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Rock Grooves with Dance Influence** : The Stone Roses created rock grooves that successfully integrated with acid house sensibilities, showcasing a fusion of traditional rock elements with contemporary dance music. "And together they created rock grooves that fit in perfectly with the asset house sensibilities of the day." ← https://www.youtube.com/watch?v=CVPPymc_qrk
 **Sales Decline in late 90s** : Towards the end of the 1990s, the popularity of rock music of all stripes began to decline as hip-hop and electronic music exploded in popularity, leading to a drop in guitar sales. "That took some of the interest away from rock of all stripes. Sales of guitars fell." ← https://www.youtube.com/watch?v=7JP2tjJibTQ
 **Shift to Hip Hop and Rap for Protest** : In the 21st century, rock music has ceased to be the dominant cultural force for protest that it once was. Instead, hip hop and rap have largely taken over this role, becoming the primary musical vehicles for expressing dissent and activism. "rock music just isn't the cultural force that it was when it comes to this sort of thing. Hip hop and rap have taken over." ← https://www.youtube.com/watch?v=0ARYt4sYT90
@@ -88,4 +93,100 @@
 **Universal Target of Criticism** : All rock music eventually became a target for critics. *Variety* magazine famously called it "the most destructive force in the country," characterizing it as a "lewd, lascivious, and larceness influence on youth." These critiques highlight the intense moral panic and generational clash associated with the genre. "All rock became a target. Variety magazine said it was the most destructive force in the country, a lewd, lascivious, and larceness influence on youth." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
 **Unstoppable Force** : Despite continuous opposition from ministers, calls for record burnings, and attempts by authorities to crack down on it, rock music proved to be an unstoppable cultural force. After the rise of figures like Elvis, Little Richard, Jerry Lee Lewis, and The Beatles, rock was here to stay. "No matter how many ministers wailed against it, no matter how many records were burned, no matter how many authorities tried to crack down on it, rock was here to stay." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
 **Use of Mutes** : Mutes are also found in rock music, though perhaps less frequently than in classical or jazz. The song "The Distance" by Cake is cited as an example where a trumpet mute is utilized. "And even rock." ← https://www.youtube.com/watch?v=D8GU8ZpSgY8
+
+## artists
+- 7 Year Bitch
+- Ace of Cups
+- Aerosmith
+- Anberlin
+- Andrea Hogan (Hügellands Roondance)
+- Bakar
+- Beastie Boys
+- Blockade P's
+- Bobby Jean Hall
+- Body Count
+- Bush
+- Captain Beefheart
+- Cheap Trick
+- Chris Cornell
+- Chrissie Hynde
+- Cindy Blackman Santana
+- Coldplay
+- Creed
+- D.H. Peligro
+- David Bowie
+- David Lee Roth
+- Eagles of Death Metal
+- Elton John
+- Elvis Costello
+- Evanescence
+- Faith No More
+- Fanny
+- Foo Fighters
+- Gerbrieth
+- Gord Downie
+- Green Day
+- Grisfolk
+- Guns N' Roses
+- Happy Guys
+- Hassel Adkins
+- Ice-T
+- Imagine Dragons
+- Interpol
+- Iron Maiden
+- Jars of Clay
+- Jody Linscott
+- Kiss
+- Led Zeppelin
+- Lenny Kravitz
+- Limp Bizkit
+- Lincoln Park
+- Linkin Park
+- Lou Reed
+- MC5
+- Menza Droppo
+- Metallica
+- Måneskin
+- Nickelback
+- Nine Inch Nails
+- P.O.D.
+- Pearl Jam
+- Queens of the Stone Age
+- Quixonic
+- Radiohead
+- Rage Against the Machine
+- Red Hot Chili Peppers
+- Sixpence None the Richer
+- Sly Stone
+- Southern Culture on the Skids
+- Stone Temple Pilots
+- System of a Down
+- The Beatles
+- The Cure
+- The Fugs
+- The Hives
+- The International Noise Conspiracy
+- The New York Dolls
+- The Red Hot Chili Pipers
+- The Rolling Stones
+- The Sadies
+- The Smashing Pumpkins
+- The Stone Roses
+- The Strokes
+- The Tragically Hip
+- The Tweeds
+- The Velvet Underground
+- The White Stripes
+- The Who
+- Thread
+- Three Days Grace
+- Tina Turner
+- Tori Amos
+- U2
+- UFO
+- USS
+- Vangelis
+- Weezer
+- Wendy Melvoin
+- Wolf Alice
 

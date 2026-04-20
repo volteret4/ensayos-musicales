@@ -9,3 +9,7 @@
 **Retains John Lennon's Songs** : Sony will retain ownership of John Lennon's songs until 70 years after his death (after 2050), despite Paul McCartney regaining control of his own works. "John Lennon's songs, however, will remain with Sony until 70 years after his death. None of his errors will see the benefit of that money until sometime after 2050." ← https://www.youtube.com/watch?v=Pe40SqDrpZ0
 **Scooping Up Catalogs** : Sony is listed among the publishing arms of major labels that are actively acquiring catalogs, especially from artists who have been their long-time signings. "Then you add in the publishing arms of labels like Universal and Sony and Warner, who were also scooping up catalogues, usually of artists who have been their signings for years." ← https://www.youtube.com/watch?v=Pe40SqDrpZ0
 
+## artists
+- Fiona Apple
+- The Beatles
+

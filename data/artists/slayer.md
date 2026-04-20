@@ -2,6 +2,7 @@
 
 ## members
 - Kerry King
+- Tom Araya
 
 ## genres
 - Thrash Metal
@@ -26,4 +27,5 @@
 **Snake Collector** : Kerry King has a hobby of collecting snakes. "Keri King of Slayer collects snakes." ← https://www.youtube.com/watch?v=xc85sLj0Cnk
 **Songs About Jeffrey Dahmer** : Slayer is among the many artists who have reportedly written songs about the serial killer Jeffrey Dahmer. "Jeffrey Dahmer seems to have the most songs written about him with about 50 Pearl Jam, Slayer, Black Eyed Peas, Katy Perry, Eminem, Dr. Dre, Violent Femmes, J. Cole and many more." ← https://www.youtube.com/watch?v=FtGJHhqXcDI
 **Thrash Metal Pioneer** : Slayer is cited as an example of a thrash metal band, a genre that emerged as hardcore punk influenced metal, leading to faster and harder music. "So I think Slayer, Motorhead, Megadeath, and Anthrax." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
+**Tom Araya's Spinal Injuries from Headbanging** : Tom Araya of Slayer experienced severe problems with his upper spine, necessitating spinal fusion therapy. Doctors identified years of headbanging as the cause of his condition. "Tom Aurea of Slayer started having problems with his upper spine. It got so bad that he had to undergo spinal fusion therapy. The cause? Head banging." ← https://www.youtube.com/watch?v=bferkEWvJg0
 

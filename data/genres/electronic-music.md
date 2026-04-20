@@ -7,3 +7,16 @@
 **Pioneering Composers and Equipment** : The foundational work of Daphne Oram and Delia Derbyshire in the BBC Radiofonc Workshop, utilizing sine wave oscillators and magnetic tape machines before the advent of synthesizers, was crucial for the development of electronic music and EDM. Their experiments in composing with synthetic sounds paved the way for future innovations in the genre. "If you're into electronic music and EDM, you should know that these next two women are essential to what you'd listen to." ← https://www.youtube.com/watch?v=oRR7N-YUcRE
 **Vaporwave Micro-Genre** : Vaporwave is described as a subgenre, or more accurately a micro-genre, of electronic music, indicating its specific sonic characteristics and targeted audience within the broader electronic sphere. "This is a subgenre of electronic music. No, wait, it's more like a micro-genre, which means that it's very, very specific in the way it sounds, and it's aimed at a small and specific audience." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
 
+## artists
+- Can
+- Daphne Oram
+- Delia Derbyshire
+- John Frusciante
+- Kraftwerk
+- MGMT
+- Malcolm Cecil
+- Orchestral Manoeuvres in the Dark
+- Robert Margouleff
+- Tangerine Dream
+- Wendy Carlos
+

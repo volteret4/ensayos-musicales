@@ -11,9 +11,11 @@
 **British Resistance and "Musical Imperialism"** : The popularity of grunge in the UK sparked a backlash from many in Britain who viewed it as "musical imperialism" from the colonies, which they felt "must be stopped." This sentiment helped fuel the rise of homegrown Britpop. "How could this music from the colonies be taking over? It's musical imperialism. It must be stopped." ← https://www.youtube.com/watch?v=DSvoppf1dGY
 **Catalyst for Record Label Pivots** : The unexpected sales success of grunge, particularly Nirvana's Nevermind, prompted record labels to drastically "pivot" their strategies. This shift initiated the "Grunge Gold Rush," as labels aggressively sought to sign more alternative rock acts. "So this caused the record labels to pivot... And so began the Grunge Gold Rush." ← https://www.youtube.com/watch?v=pE7TaWSUa-o
 **Categorization of Stone Temple Pilots** : Upon hearing songs like "Plush," many listeners and critics were quick to categorize Stone Temple Pilots as a grunge band, or worse, a "blatant Pearl Jam rip off," despite Scott Weiland's personal aversion to the label and his attempts to differentiate the band's style. "When most people first heard the song, they were quick to categorize STP as a grunge band or worse, a blatant Pearl Jam rip off." ← https://www.youtube.com/watch?v=r6vVw66-gmI
+**Centrality in the 1990s** : In the 1990s, grunge held the "center" of the alt rock scene, providing a dominant and unifying sound that shaped the genre for the decade. This contrasts with the fragmentation of alt rock in the 2000s. "In the 90s, grunge held from the center." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Characteristics of the Sound** : Grunge was characterized by low-tuned guitars and an anti-star image for its frontmen and women, becoming the most familiar sound of the 90s Alt Rock explosion and the genre around which all others evolved for years. "Grunge moved from being a sea of different sounds to one that centered on low-tuned guitars and anti-star frontman and women." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
 **Codification of Alternative** : Grunge emerged as a defining sound that codified the previously scattered alternative rock universe, providing a central point around which everything else could coalesce and organize, making Alt Rock unstoppable for a period. "But then along came something that sort of codified everything, something around which everything else could coalesce and organize." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
 **Consigned to History** : By the end of 1997, grunge was considered "consigned to the history books," much like Britpop and Technopop, signifying its era had passed. "Britpop was officially done, consigned to the history books, just like Grunge and Technopop." ← https://www.youtube.com/watch?v=vzyMSSlD7Yg
+**Consolidating 90s Alt Rock** : Grunge became so big and popular in the 1990s that it consolidated and codified alt rock as almost exclusively guitar-based, narrowing the genre's sonic scope. This was beneficial for spreading the alt rock attitude globally but ultimately led to dilution and burnout by the decade's end. "Grunge was so big and so popular that it had the effect of consolidating and codifying alt rock as almost exclusively guitar based." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Core Principles** : The grunge movement valued authenticity, humbleness, and "street cred," actively downplaying and avoiding the concept of conventional stardom. It embraced "slacker culture" with its "apathetic egalitarianism," focusing on the people, the fans, and "real, honest music." "Gen X wanted music of their own, music made by their own people that dealt with their own issues and attitudes. And they let it be known that they valued authenticity, humbleness, and street cred." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
 **Cultural Identity** : Grunge transcended mere music; it was a comprehensive culture with its own rules, goals, politics, aesthetic, philosophy, and fashion sense, eventually developing its own class system. "Grunge wasn't just a type of music. It was a culture with its own rules and goals and politics." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
 **Cultural Storm Example (1990-1996)** : Grunge is cited as an example of a "perfect cultural storm," with its period of significant impact and influence spanning from 1990 to 1996. "Think of Grunge from 90 to 96." ← https://www.youtube.com/watch?v=vzyMSSlD7Yg
@@ -38,6 +40,7 @@
 **Explosion of the Early-Mid 90s** : The "grunge explosion" of the early to mid-1990s was a pivotal period during which this underground form of rock and roll dramatically rose to prominence, ultimately surpassing and replacing many mainstream rock acts. Bands such as Nirvana, Soundgarden, and The Smashing Pumpkins became highly influential during this era. "Eventually, thanks mainly to the grunge explosion of the early mid-90s, this underground form of rock and roll overtook and replaced most of the mainstream rock acts." ← https://www.youtube.com/watch?v=Ft8nruhWCas
 **Female Response to Male Dominance** : Riot Grrrl bands largely sprang up as a direct "female response to Grunge," due to the perception that the male-dominated music offered "no room for us." This spurred women to create their own space and sing about their own issues, directly challenging the existing paradigm. "Riot Girl bands sprang up largely as a female response to Grunge." ← https://www.youtube.com/watch?v=Qss5kC2FUx0
 **Fender Twin Reverb in Grunge** : The Fender Twin Reverb amplifier, known for its clean sound, surprisingly found use in the grunge era, which was largely characterized by distortion. Kurt Cobain notably used a Twin Reverb on Nirvana's "Bleach" album, demonstrating its unexpected versatility. "The amp even found use in the Grunge era, which seems a little weird given that Grunge was all about distortion." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
+**Flannel and Jeans Aesthetic** : The grunge look was famously characterized by its casual aesthetic of flannel shirts and jeans. This attire was frequently complemented by black Doc Martens featuring their distinctive yellow stitching, especially prevalent during the early 1990s. "The black boots with their yellow stitching went well with the Grunge flannel and jeans." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM
 **Foundation in Drop Tunings** : Grunge music emerged with a foundation in "no fingers tuning," specifically drop D or drop C sharp, adopted by guitarists in the Pacific Northwest. This tuning style was directly inspired by Tony Iommi's Black Sabbath guitar sound, which originated from his industrial accident and subsequent modifications. "That dropped D or in Tony's case, drop C sharp became the foundation of grunge." ← https://www.youtube.com/watch?v=V7WjNR1ujhk
 **Foundation of Commercial Alt-Rock Radio** : For many years, grunge became the "foundation" of commercial alt-rock radio's sound. From a ratings perspective, it was safer to play grunge or grunge-ish, guitar-based music, often with drop-tuning, rather than risk chances on truly new and different sounds. ← https://www.youtube.com/watch?v=eqTFinLk3oU
 **Generational Impact** : Grunge was Generation X's favorite music and served as a "gateway drug" into many other forms of Alt Rock, leading to movements like the mid-90s punk revival (Green Day, The Offspring), aggressive hardcore and industrial sounds, and an uptick in goth music. "Grunge was not only generation X's favorite music, but the gateway drug into so many other forms of Alt Rock." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
@@ -93,4 +96,31 @@
 **Unveiling the Alternative Universe** : Grunge "punched a hole" into the parallel universe of alternative rock, which had existed for decades alongside mainstream rock, making its diverse artists and music visible and acknowledged by the general public for the first time. "But grunge punched a hole into this parallel universe, allowing everyone to see what was going on over there." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
 **Waning Influence (1994)** : Although still popular in 1994, grunge appeared to be declining, with alt-rock fans beginning to seek out new sounds. "Grunge, although still very big in 1994, seemed to be on the wane." ← https://www.youtube.com/watch?v=44dXy0StjIQ
 **Widespread Saturation** : Grunge expanded rapidly from its Seattle origins to become a global phenomenon, leading to a "frenzy and saturation and delusion" where places like Halifax were briefly dubbed "Seattle East" due to the widespread obsession. "that's the kind of frenzy and saturation and delusion that we began to see as grunge expanded from its little corner of America to, well, everywhere." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
+
+## artists
+- Alice in Chains
+- Bam Bam
+- Butch Vig
+- Chris Cornell
+- Corn
+- David Bowie
+- Dee Plakas
+- Eddie Vedder
+- Green River
+- InXS
+- L7
+- Lane Staley
+- Malfunkshun
+- Mia Zapata
+- Nirvana
+- Pearl Jam
+- Rage Against the Machine
+- Scott Weiland
+- Screaming Trees
+- Smashing Pumpkins
+- Soundgarden
+- Stone Temple Pilots
+- The Melvins
+- The Smashing Pumpkins
+- Tina Bell
 

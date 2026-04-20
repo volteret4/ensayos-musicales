@@ -2,11 +2,13 @@
 
 ## curiosities
 **"Race Music" Controversy and Racism (1950s)** : During the 1950s, R&B, primarily created by Black performers, faced significant racist backlash and protests from religious groups. These groups openly claimed R&B was "corrupting the young white people of America" and leading them to juvenile delinquency, inciting demands for bans and large-scale public record burnings. "Meanwhile, there were growing protests about race music. The R&B made by black performers who were finding fans among white kids. This said many religious groups, not at all concerned about hiding their racism, was corrupting the young white people of America, leading them into juvenile delinquency." ← https://www.youtube.com/watch?v=41eKVp8JIhU
+**1950s Classification** : In the 1950s, R&B was identified as one of the four primary categories for classifying released music, a sharp contrast to the nearly 2,000 distinct categories found in modern music services like Spotify. "In the 1950s, you had rock, pop, country, and R&B. Most everything that was released back then could be classified under one of those four headings." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **All-Female Acts in R&B** : The R&B genre also saw the formation of significant all-female acts, such as Klymaxx, founded by Bernadette Cooper, showcasing women's contributions beyond rock-centric genres. "Bernadette Cooper was the founder of the all-female R&B Act Climax." ← https://www.youtube.com/watch?v=9GHpC0kCgHY
 **Blackroc Album Collaboration** : R&B artists were featured as guest musicians on The Black Keys' 2009 collaboration album *Blackroc*, blending R&B influences with the band's sound. "Lots of R&B and hip-hop guests on that album." ← https://www.youtube.com/watch?v=PmwfC4HR3_I
 **Blamed for Immorality and Crime (1930s-1940s)** : In the 1930s and 1940s, rhythm and blues music faced accusations of being "the devil's music" that inevitably led to crime. This scapegoating echoed earlier criticisms directed at hot jazz and preceded similar condemnations of rock and roll in the 1950s. "The same cries were heard in the 30s and 40s about rhythm and blues." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
 **Blamed for Youth Behavior (1960s-1970s)** : Throughout the 1960s and 1970s, conservative parents, politicians, and religious groups consistently attributed the promotion of violence, drug use, immoral behavior, and other perceived negative actions of children to R&B, alongside rock music. "Parents, politicians and religious groups had no trouble blaming contemporary music. Rock and R&B especially, for promoting violence, drug use, immoral behavior, and everything else that their kids were doing or might do." ← https://www.youtube.com/watch?v=41eKVp8JIhU
 **Breakdown of Music Consensus and Cycle Theory Modification** : The traditional music cycle theory (Rock vs. Pop) is challenged by the breakdown of consensus in music consumption, as individuals now control their musical experiences without traditional cultural filters. The rise of Rap, Hip Hop, and R&B as powerful and popular genres introduces a "third element" to the cycle theory, making future predictions more complex, akin to the "Three Body Problem" in physics. "Meanwhile, rap, hip hop and R&B have become vastly more powerful and popular." ← https://www.youtube.com/watch?v=XM1RvL7Kdts
+**Decline in Popularity (Early 1970s)** : In the early 1970s, many music fans abandoned the "soulful R&B" of the 1960s, opting instead for a softer, "Mellow" sound, reflecting a shift in musical tastes. "Many fans had deserted the mind-blowing acid rock and the hard-driving funk and the soulful R&B of the 60s and decided to go all soft." ← https://www.youtube.com/watch?v=VYi3r0G-ne4
 **Dominance of Streaming Medium** : R&B songs heavily dominate the streaming medium, with artists like Drake, Ed Sheeran, The Weeknd, and Justin Bieber being prominent examples. "The medium is totally dominated by pop, R&B, and hip-hop songs." ← https://www.youtube.com/watch?v=Z7glrAoXtkA
 **Early Radio Exposure (1940s)** : R&B received more airplay on radio in the 1940s when a dispute between music publishers and broadcasters led stations to feature artists not affiliated with ASCAP, boosting its popularity among the public. "This meant more country and folk and hillbilly and R&B were heard on the radio." ← https://www.youtube.com/watch?v=GES0Ms_kaCI
 **Early Use of "Rocking and Rolling"** : R&B singers, alongside blues artists, were among the primary users of the terms "rocking and rolling" and "rock and roll" in their songs during the decades following Trixie Smith's 1922 recording. This usage, particularly in songs played for white audiences by DJs like Alan Freed, was crucial to the popularization of the term that would define a new genre. "And in the coming years, those words, rocking and rolling and rocking roll, appeared in other songs, almost exclusively amongst blues and R&B singers." ← https://www.youtube.com/watch?v=oRR7N-YUcRE
@@ -26,4 +28,20 @@
 **Pre-1978 Categorization** : R&B was one of the four straightforward categories for popular music before 1978, alongside rock, pop, and country. "Before 1978, things were fairly simple...We had rock, we had pop, we had country, we had R&B." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
 **Rise in the 1940s** : In the 1940s, following the decline of big bands, young people gravitated towards R&B, alongside the blues, country western, and bebop. This shift represented a rejection of the "old outdated music of the 20s and 30s" and the adoption of newer, more contemporary sounds. ← https://www.youtube.com/watch?v=m7MbV-eCLyE
 **Vocal Expression Controversy** : R&B acts were among the musical artists whose new forms of vocal expression, facilitated by microphones, generated decades of strong criticism from purists. Their singing styles were considered by some to be "degenerate forms of singing," challenging the established vocal norms of earlier generations. "R&B acts, Elvis, The Beatles, Dylan, Jagger, New Waivers, rappers all the way up to and beyond death medillars." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
+
+## artists
+- Aaliyah
+- Alan Freed
+- Amy Winehouse
+- Bernadette Cooper
+- Bobby Jean Hall
+- David Bowie
+- Gladys Knight
+- Gnarls Barkley
+- James Brown
+- Stella Santana
+- The Black Keys
+- The Clash
+- The Four Tops
+- The Jam
 

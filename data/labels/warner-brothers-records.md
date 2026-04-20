@@ -9,3 +9,7 @@
 **Label's Misjudgment of Linkin Park's Sound** : Despite Linkin Park's eventual success with over 100 million records sold, Warner Brothers Records was initially unsure how to market the band, with some, including the label president, reportedly disliking their sound and debating whether to release their debut album at all due to "screaming and rapping." They made various suggestions, such as cutting the rap, Mike Shinoda rapping like Fred Durst, bringing in a reggae vocalist, or adding gimmicks to Joe Hahn. "Warner did not know what to do with Lincoln Park and some, including apparently the president of the label just hated their sound." ← https://www.youtube.com/watch?v=cUqdY_T7luM
 **Shareholder Threat Over Body Count's "Cop Killer"** : During the controversy surrounding Body Count's song "Cop Killer," shareholders of Warner Brothers Records threatened to withdraw all their investments if the label did not address the band and the song. "It got so crazy that shareholders threatened to pull all their money for Warner Brothers records if the label didn't do something about Body Count." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 
+## artists
+- Lincoln Park
+- Linkin Park
+

@@ -27,3 +27,25 @@
 **Simultaneous Independent Discovery** : Described as a specific genre of 80s music that was simultaneously and independently discovered by a number of artists, representing an important part of alt-rock history. "What we're hearing is a number of artists simultaneously and independently discovering a specific genre of Aedes music. Back then, it was called Technopop, although synthpop was also acceptable. Some people loved it. Some people hated it. But whatever the opinion, it was a very important part of alt-rock history." ← https://www.youtube.com/watch?v=1KF5MwJVYng
 **TVT Records' Expectation for Nine Inch Nails** : TVT Records founder Steve Gottlieb initially signed Trent Reznor, believing he had found "the next Depeche Mode," a "dancing technopop band capable of turning out hit singles." This expectation clashed with the heavier, darker music of "Pretty Hate Machine." "Steve heard Trent's demos and thought he had the next depeche moan on his hands, a dancing technopop band capable of turning out hit singles." ← https://www.youtube.com/watch?v=DKdF8NgF5Bw
 
+## artists
+- A Flock of Seagulls
+- ABC
+- Bronski Beat
+- Camouflage
+- Depeche Mode
+- Duran Duran
+- Erasure
+- Eurythmics
+- Gary Numan
+- Information Society
+- Kon Kan
+- Kraftwerk
+- Men Without Hats
+- Ministry
+- Orchestral Manoeuvres in the Dark
+- Orchestral Manoeuvres in the Dark (OMD)
+- Soft Cell
+- The Communards
+- The Human League
+- When in Rome
+

@@ -14,3 +14,24 @@
 **Pop Punk Headliner Absence (2010s)** : Pop punk bands no longer headlined major festivals like Coachella in the 2010s, indicative of the genre's decline in mainstream popularity. "Pop punk bands no longer headline festivals like Coachella or La Paloza." ← https://www.youtube.com/watch?v=sOU54d8mr5k
 **Tupac Shakur Hologram Performance (2012)** : Coachella hosted a pivotal moment in hologram technology in 2012 when a virtual Tupac Shakur performed alongside Dr. Dre and Snoop Dogg. Although technically a sophisticated projection using Pepper's Ghost, its remarkably lifelike appearance was a "turning point" in the development and acceptance of such performances. "Then in 2012, a very dead two-pock Shakur showed up at Coachella during a set featuring Dr. Dre and Snoop Dog." ← https://www.youtube.com/watch?v=GYUuTbOvyak
 
+## artists
+- Beastie Boys
+- Blink 182
+- Coldplay
+- Depeche Mode
+- Gorillaz
+- Jane's Addiction
+- Jay-Z
+- Muse
+- Nine Inch Nails
+- Oasis
+- Radiohead
+- Rage Against The Machine
+- Red Hot Chili Peppers
+- Smashing Pumpkins
+- The Cure
+- The Killers
+- Tool
+- Weezer
+- Yeah Yeah Yeahs
+

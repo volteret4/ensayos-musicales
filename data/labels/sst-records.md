@@ -5,3 +5,9 @@
 **Release of Hüsker Dü Records** : SST Records released a series of records by Hüsker Dü before the band signed with a major label, Warner Records. This underscores SST's role in nurturing influential indie bands. "Husker Do found a lot of love on college radio and after a series of records, some of which Ron Blackfags' SST label" ← https://www.youtube.com/watch?v=0qigzi1j81U
 **Spreading Indie Influence** : SST Records, an indie label associated with Black Flag, played a crucial role in allowing bands like Sonic Youth and Husker Dew to spread their influence throughout North America. "Although Sonic Youth's music became more structured as the 80s progressed, there was always the sense that they were pushing the edge of the musical envelope and thanks to a deal with black flags, indie label, SST records, they were able to spread their influence throughout North America." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
 
+## artists
+- Black Flag
+- Husker Dew
+- Hüsker Dü
+- Sonic Youth
+

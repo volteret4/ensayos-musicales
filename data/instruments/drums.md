@@ -15,6 +15,7 @@
 **Inventive Grunge Rhythms** : Drummers in grunge were characterized as "hard hitting" and developed "new ways of filling holes with inventive and intricate rhythms," contributing significantly to the genre's distinct sound. "Drummers were hard hitting and worked out new ways of filling holes with inventive and intricate rhythms." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
 **Jay Weinberg's Chosen Instrument** : Jay Weinberg gravitated towards playing the drums after attending Ozzfest 2000, starting at age 14 and being mostly self-taught. "that Osfest gig hadn't been thinking about playing the drums." ← https://www.youtube.com/watch?v=dY7uB_QQWBc
 **Joe Sumner's Early Learning** : Joe Sumner learned a little drums early on. "He'd already learned a little guitar and drums..." ← https://www.youtube.com/watch?v=dY7uB_QQWBc
+**Joey Ramone's Initial Role** : Jeff Hyman (Joey Ramone) was initially the drummer for The Ramones, but he later moved to lead vocals as it became apparent he was a better singer. "Their drummer was a 6'6-inch skinny guy named Jeff Heimann, an OCD-suffering refugee from a failed band called Sniper." ← https://www.youtube.com/watch?v=VYi3r0G-ne4
 **London Hudson's Role** : London Hudson is the drummer for Suspect 208 and St. Electric. "Then there was London Hudson on drums." ← https://www.youtube.com/watch?v=dY7uB_QQWBc
 **Miles Ulrich's Role** : Miles Ulrich is the drummer for Taipei Houston. "Miles is the drummer..." ← https://www.youtube.com/watch?v=dY7uB_QQWBc
 **Modern Female Drumming Community** : Today, female drummers are ubiquitous worldwide, forming a "worldwide sisterhood" sometimes referred to as "chicks with sticks." They faced numerous barriers including sexism, lack of seriousness, and limited opportunities but persevered and succeeded against the odds. "And today, female drummers are really everywhere, comprising a worldwide sisterhood that some have called chicks with sticks." ← https://www.youtube.com/watch?v=9GHpC0kCgHY
@@ -29,6 +30,7 @@
 **Spencer Tweedy's Role** : Spencer Tweedy started his musical career as a drummer in pre-teen rock bands. "He's a drummer who started with a pre-teen rock band called The Blisters..." ← https://www.youtube.com/watch?v=dY7uB_QQWBc
 **Structural Changes for Volume (Post-WWII)** : After World War II, the shift to smaller combos and the demand for increased volume led to "structural changes" in drummers' kits. The beat became "bigger and more important" and needed to be heard over larger crowds, influencing how drum kits were configured and played. "It also addresses drummers and the structural changes to their kits." ← https://www.youtube.com/watch?v=qrrwqdpCjpQ
 **Teresa of Avila's Defiance and Reintroduction to Church** : After a millennium of prohibition, Teresa of Avila, a nun, defied the ban by playing drums and dancing in church to her own beat, causing a scandal. Despite this, she successfully brought the drum back into the church as a "respectable and suitable instrument for use in worship and ceremony." "But then we meet Teresa of Abelop. She was a nun who defied hundreds of years of prohibition and started playing the drum and dancing in church to her own beat." ← https://www.youtube.com/watch?v=9GHpC0kCgHY
+**Tommy Ramone's Role** : Tommy (Tommy Ramone), the band's manager and a recording engineer, took over on drums for The Ramones after Jeff Hyman moved to lead vocals. "And their manager, Tommy, a recording engineer who once worked with Jimmy Hendrix, took over on drums." ← https://www.youtube.com/watch?v=VYi3r0G-ne4
 **Traditional Instrument for Learning** : Drums are identified as a traditional instrument, similar to the guitar and keyboard, that demands years of time and dedication to master. This dedication is juxtaposed with the accessibility and speed of creating music using electronic tools and computer programs. "Learning to play a traditional instrument like the guitar or keyboard or drums or whatever takes time and dedication." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
 **Traditional Rock Instrument** : Drums were an essential part of traditional rock music's instrumentation, typically accompanied by vocals, guitars, bass, piano, and organ. Their sounds were frequently altered using effects pedals and studio techniques. "For the longest time, the sounds of rock were made with voice guitars, bass, drums and keyboards like piano and organ." ← https://www.youtube.com/watch?v=5PJRCC6EwUY
 **Traditional Trag Jazz Instrument** : Drums are a traditional instrument used in Trag Jazz, a revival of Dixieland Jazz. Trag Jazz music was explicitly made with drums, among other brass and rhythm instruments. "That meant music made with trumpets, the trombone, the clarinet, the banjo, upright bass and drums." ← https://www.youtube.com/watch?v=zNIVqKqAlnk
@@ -37,4 +39,99 @@
 **World War II Opportunities** : World War II significantly changed opportunities for female drummers as men from big bands were drafted. By 1942, band leaders, desperate to fill vacancies, actively sought women musicians, providing them an unprecedented chance to showcase their abilities. "But then came World War II. The men who populated the big bands of the era were drafted, leaving plenty of openings. And by 1942, music magazines and newspapers were filled with ads from band leaders desperate for anyone, even women, to fill slots in their orchestras." ← https://www.youtube.com/watch?v=9GHpC0kCgHY
 **YouTube Drum Covers** : A modern phenomenon showcasing female drummers' talent is the abundance of YouTube drum cover artists. These drummers sit behind kits and play along to challenging songs by bands like Rush or Tool, with examples like Mettal Cohen, Christina Reibelchenko, Roger Meisner, and Nandi Bushell demonstrating exceptional skill. "If you're interested in learning more, look up some of the women doing drum covers on YouTube. This is when they sit behind a kid and play along to a really difficult song by band like Rush or Toul." ← https://www.youtube.com/watch?v=9GHpC0kCgHY
 **Zach Starkey's First Kit** : Zach Starkey, son of Ringo Starr, received his first drum kit from his godfather, Keith Moon of The Who. "He got his first kit from Keith Moon of the Who." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
+
+## artists
+- Alan Leach
+- Alice in Chains
+- Angus Fay
+- Arkells
+- Atsuko Yamano
+- Beastie Boys
+- Bill Berry
+- Billy Talent
+- Bob Bryar
+- Bonnie Brantz
+- Butch Vig
+- Chrissy Lee
+- Christina Reibelchenko
+- Cindy Blackman Santana
+- Claire Lane
+- Colin Petersen
+- Dave Grohl
+- Dave Rowntree
+- Debbie Peterson
+- Dee Plakas
+- Dennis Bryon
+- Depeche Mode
+- Doddy Dottagin
+- Foo Fighters
+- Georgia Hubley
+- Gina Shock
+- Ginger Bianco
+- Hassel Adkins
+- Honey Lantree
+- Iggy Pop
+- Imagine Dragons
+- Jack Irons
+- Jackie Brenston and his Delta Cats
+- Jane's Addiction
+- Janet Weiss
+- Jason Bonham
+- Jenny Jones
+- Jim Gordon
+- Jim Marshall
+- Joey Ramone
+- John Bonham
+- John Dolmayan
+- Johnny Fay
+- Joseph Marciano Armstrong (Joey Armstrong)
+- Julie Turner
+- June Miles Kingston
+- Kate Schellenbach
+- Kings of Leon
+- Larry Mullen
+- Lynn Perko-Trelle
+- Marion Panky
+- Maureen "Moe" Tucker
+- Maureen Tucker
+- Meg White
+- Mettal Mettal Cohen
+- Mitzi Bush
+- Mo Tucker
+- Nancy Ball
+- Nandi Bushell
+- New Order
+- Nihilist Spasm Band
+- Olivia Favillot
+- Paloma Romero
+- Patty Schemel
+- Pauline Brattie
+- Rage Against the Machine
+- Ramones
+- Red Hot Chili Peppers
+- Ringo Starr
+- Rob Bourdon
+- Roger Meisner
+- Roxy Petrucci
+- Samantha Maloney
+- Still-May Ditty
+- Talking Heads
+- Taylor Hawkins
+- Teresa Taylor
+- Terri Lyne Carrington
+- Terry Chimes
+- The Carpenters
+- The Ramones
+- The Smiths
+- The Stone Roses
+- The Strokes
+- The Tragically Hip
+- Tim Oxford
+- Tina Ambrose
+- Topper Headon
+- U2
+- Vera McClellan-a-Hans
+- Viola Smith
+- Weezer
+- Zach Starkey
 

@@ -8,10 +8,24 @@
 **Los Angeles Adoption** : Los Angeles, a natural home for the alienated and unconventional, quickly adopted punk rock once records from New York bands like the Ramones and singles from the Sex Pistols began circulating. The scene was driven by themes of alienation, hopelessness, and a desire to challenge the status quo. "LA had always been a place for the alienated the outcast and the weird, so it was a natural place for punk to land." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
 **Mid-1970s Emergence** : Punk rock rose in the middle of the 1970s, initially seen as an "aberration," a niche for "weirdos and misfits and outliers," and dismissed as "just noise" by rock purists who thought it would fade away. However, it persisted and is still discussed today. "There's one other event that we need to include on this list, and that's the rise of punk rock in the middle of the 1970s." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
 **New York Origins** : Punk initially began in New York City as a "low-key, artsy sort of thing," cultivated by alienated artists in economically depressed areas like the Bowery, who gravitated to venues like CBGB. "To recap, punk started in New York as a low-key artsy sort of thing." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
+**Origin of Alternative Music** : The entire concept of alternative music was born out of the punk rock explosion of the mid-1970s. Its angry guitars directly led to a variety of post-punk sounds. "Now, the whole concept of alternative music was born out of the punk rock explosion of the middle 1970s." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Origin of Goth Music** : Goth music emerged as a direct byproduct of the British punk rock explosion of the late 1970s. "Goth music cleaves off from the original British punk rock explosion from the late 1970s." ← https://www.youtube.com/watch?v=gd9sO7c3N1s
 **San Francisco Eclecticism** : San Francisco punk was arguably the "most eclectic" of all the early punk scenes, uniquely blending elements of the artsy, the angry, and the city's established hippie, drug culture, and left-wing political traditions, which paved the way for later rock, new wave, and technopop sounds. "It often combined the best of the artsy side of things with the best of the angry side. And of course, there was the hippie side with its drug culture and left-wing politics." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
 **Shift to Darker Music** : As the original punk scene faded, individuals with a darker sensibility began to coalesce around existing dark music, leading to the formation of the Goth scene. "As the original punk scene died away, the darker minded slowly coalesced around those who already made dark music at least part time." ← https://www.youtube.com/watch?v=gd9sO7c3N1s
 **Socio-economic Roots (1974)** : The deconstruction of punk's origins begins in 1974, examining the socio-economic factors that served as a "great musical Big Bang" in history. "Let's start this deconstruction by looking at the socio-economic factors behind one of the great musical Big Bangs in history. And we're going to begin in 1974." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
 **Toronto Scene** : The punk scene in Toronto, while tiny, was significant enough to form the "third leg of a triangle that extended through both New York and London." It was not as artsy as New York punk, nor as political or class-conscious as UK punk, but it was characterized by its raw anger. "Toronto punk wasn't as artsy as New York punk. And it certainly wasn't as political or as class conscious as what they were doing in the UK. But man, it could still be really, really angry." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
 **UK Transformation** : Upon reaching the UK, punk rock took on a distinct identity, intensely fueled by political grievances and the entrenched class system, contrasting with its more artistic New York counterpart. "In England though, things were rather different. English punk was very, very different from what was happening in America. Well, punk was more of an art statement in New York. It was fueled by politics and the class system in the UK." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
+
+## artists
+- Agent Orange
+- Danko Jones
+- Forgotten Rebels
+- Kate Schellenbach
+- Patty Smith
+- Plasmatics
+- Propagandhi
+- Teenage Head
+- The Clash
+- The Exploited
+- The Ramones
 

@@ -16,3 +16,12 @@
 **Unsuitable Venue and Harsh Conditions (July 23-25, 1999)** : The 30th-anniversary Woodstock concert, held from July 23-25, 1999, in Rome, New York, took place at a former Air Force Base that had been designated a hazardous waste site. Attendees endured high temperatures in the upper 30s Celsius, miles of hot concrete and asphalt, and a severe lack of shade, contributing to extreme discomfort and dangerous conditions. "The event was held at an old Air Force Base that had been declared, believe it to not, a hazardous waste site." ← https://www.youtube.com/watch?v=Pgchw2h87aw
 **Widespread Fires, Looting, and Property Damage** : On Sunday night at Woodstock 99, candles distributed by a peace group for a vigil were instead used by the mob to ignite widespread fires, burning looted fire booths, bonfires, 12-foot plywood perimeter walls, ATM machines, and merchandise tables. A speaker tower was also set ablaze and toppled, leading MTV to characterize the scene as "out of a concentration camp." "A peace group called PAX had given away a hundred thousand candles with the idea of holding a Sunday night candlelight vigil during the pepper set. But the mob used the candles to set everything on fire." ← https://www.youtube.com/watch?v=Pgchw2h87aw
 
+## artists
+- Kid Rock
+- Korn
+- Limp Bizkit
+- Metallica
+- Rage Against the Machine
+- Red Hot Chili Peppers
+- The Tragically Hip
+

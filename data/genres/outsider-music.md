@@ -8,3 +8,18 @@
 **Origin and Definition** : Outsider music is a genre that evolved from outsider art, also known as art brute, which originated in France in the 1920s and referred to art created by children or the mentally ill. The concept of outsider music began to take hold in the 1950s within the fringes of the jazz world before moving into rock and pop. It is characterized by self-taught musicians who often lack conventional training or adherence to music theory, driven by the sheer joy of expression without concern for external opinions. "No two outsider musicians sound alike." ← https://www.youtube.com/watch?v=HcK4M7-02ik
 **Shaping Modern View** : The modern understanding of outsider music was significantly shaped by Irwin Chisett, a music journalist and DJ at WFMU. Chisett championed these artists, featuring their music and releasing compilation CDs titled *Songs in the Key of X*. "Our modern view of outsider music was shaped by Irwin Chisett, a music journalist and a DJ at WFMU, an independent community radio station in East Orange, New Jersey." ← https://www.youtube.com/watch?v=HcK4M7-02ik
 
+## artists
+- BJ Snowden
+- Complete
+- Hassel Adkins
+- Jan Terry
+- Jimmy Mitchell
+- Nihilist Spasm Band
+- Nobody
+- Rugby Anz
+- Sun Seed
+- The Amazing Dolores
+- The Space Lady
+- Wildman Fisher
+- Yoho Wath Thirteen
+

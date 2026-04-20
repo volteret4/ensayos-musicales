@@ -14,3 +14,14 @@
 **Sex Pistols Signing Incident – March 10, 1977** : The Sex Pistols signed their record deal with A&M Records outside Buckingham Palace on March 10, 1977. This event was a significant moment in the band's history before their notoriously brief and tumultuous career. "Sid really got into being a sex pistol. He was there when the pistol signed their record deal with A&M records outside of Buckingham Palace in March 10th, 1977." ← https://www.youtube.com/watch?v=OcylgiXkDP8
 **Sex Pistols' Brief Contract** : A&M Records signed the Sex Pistols to a contract, but this agreement lasted a mere five days before the band was once again paid to leave. This reflected the band's contentious reputation and the labels' reluctance to manage them. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
 
+## artists
+- Captain Beefheart
+- Chris Cornell
+- Human League
+- OMD
+- Orchestral Manoeuvres in the Dark
+- Sex Pistols
+- Soundgarden
+- The Carpenters
+- The Police
+

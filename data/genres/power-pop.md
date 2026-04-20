@@ -6,3 +6,15 @@
 **First Wave New Wave Characteristic** : The first wave of New Wave was characterized as an energetic, guitar-based, slightly jittery brand of power pop. "The energetic guitar based, slightly jittery brand of power pop featuring people in suit jackets and skinny ties." ← https://www.youtube.com/watch?v=9CNNsqXiL6U
 **The Raspberries as Pioneers** : The Raspberries are widely cited as a groundbreaking band and one of the first examples of the Power Pop sound, particularly in the context of early alt-rock. "Ask anyone about Power Pop, and they will talk about the raspberries." ← https://www.youtube.com/watch?v=HBS24NwhrE8
 
+## artists
+- Cheap Trick
+- Foo Fighters
+- Greg Kihn
+- Hüsker Dü
+- Jonathan Richman and the Modern Lovers
+- Sparks
+- The Greg Kihn Band
+- The Pretenders
+- The Raspberries
+- Weezer
+

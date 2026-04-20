@@ -3,6 +3,7 @@
 ## curiosities
 **"Daddy's Car" by Flow Machines (2016) – First AI-Generated Pop Song** : "Daddy's Car" is credited as the first-ever AI-generated pop song, with its melodies and harmonies produced by the Flow Machines AI program. Human composer Benoit Carey then crafted the lyrics and handled the final production, creating the track in the style of The Beatles. "At the end of the day, flow machines is credited with creating the first ever AI-generated pop song." ← https://www.youtube.com/watch?v=QFtS8fl553Y
 **12-Year Rock and Pop Cycle** : Historically, popular music followed a 12-year cycle where pop's popularity and influence would descend while rock ascended, and vice versa. This pattern can be traced back to the early 1950s, with pop surging after rock's decline around 1957. The cycle reversed in 1964 with The Beatles' arrival in America, sustaining until about 1970 when pop again took over. Pop stars in 1982-83 led to a fade in rock, and after 1996, pop made a comeback, with rock being "declared dead." Public sentiment embraced pop again around 2008 after rock's dominance, but the traditional 12-year cycle, which would have predicted a rock revival, did not re-establish itself due to factors like streaming and the decline of traditional music gatekeepers. "Rock then goes into a decline while pop music surges." ← https://www.youtube.com/watch?v=nX8uAFDzDYM
+**1950s Classification** : In the 1950s, Pop was one of four primary categories, including rock, country, and R&B, used to classify the majority of music releases. This simplistic classification stands in contrast to the vast number of genres identified today. "In the 1950s, you had rock, pop, country, and R&B. Most everything that was released back then could be classified under one of those four headings." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Artist Release Strategy** : The pop world has adapted to the streaming era by treating albums primarily as collections of songs intended to be released as a "parade of singles," with the album serving as merely a "wrapper." "Which is why when a pop artist prepares an album, it's basically a collection of songs that will be released as a parade of singles. The album is just a rapper." ← https://www.youtube.com/watch?v=Z7glrAoXtkA
 **Auto-Tune Prevalence** : Auto-tune is notably prevalent in pop recordings, where many singers heavily rely on "help after the fact from electronics" to achieve unnaturally perfect vocal performances. This widespread use contributes to a certain homogeneity in vocal pitch across the genre. "This is especially prevalent in pop recordings. Not all these pop singers are singing all that well. They get a lot of help after the fact from electronics." ← https://www.youtube.com/watch?v=7Zniri9uSlc
 **Broad Genre Stocked in Early Stores** : Pop music was a genre commonly found in early record retail displays, alongside rock, country, and instrumental albums, as stores aimed to offer a wide selection to customers. "They had to stock a wide range of genres, rock, pop, country, and plenty of those instrumental albums that were supposed to be good for moon music for older people." ← https://www.youtube.com/watch?v=jD1dWxNLvfE
@@ -21,6 +22,7 @@
 **Marketing Focus by Labels** : Record labels prioritize focusing their marketing money and attention on pop acts, along with R&B and hip-hop, because these genres generate the most revenue from streaming. "So streaming, generating more than half your revenues. And if pop, R&B, and hip-hop songs are behind those streams, where do you think the labels are going to focus their money and attention?" ← https://www.youtube.com/watch?v=Z7glrAoXtkA
 **Modern Las Vegas Residency Trend** : Pop stars played a crucial role in establishing and popularizing modern artist residencies in Las Vegas, beginning with Celine Dion in 2003 and further cemented by Britney Spears in 2013. Their success redefined Vegas entertainment, making it a destination for major musical acts beyond gambling. "She sparked a new trend for pop stars in Vegas." ← https://www.youtube.com/watch?v=GYUuTbOvyak
 **OpenAI's Frank Sinatra Style Demonstration (N/A)** : OpenAI released an AI-generated track on SoundCloud that they described as "classic pop in the style of Frank Sinatra." Although the computer somewhat captured the musical style, the lyrics were noted as being quite rudimentary and nonsensical, highlighting early challenges in AI's lyrical capabilities. "To demonstrate things, Open AI released this unsound cloud which they described as classic pop in the style of Frank Sinatra." ← https://www.youtube.com/watch?v=QFtS8fl553Y
+**Pop Resurgence Amidst Financial Crisis (2008-2009)** : The resurgence of fluffy pop music in the late 2000s was considered "a bit odd" given the severe financial crisis of 2008 and 2009, as uncertain times typically do not manifest in such lighthearted music. Possible explanations included distraction, the rise of social media, or the influence of TV shows like "Idle" programs. "In one sense, this was a bit odd, given the horrible financial crisis of 2008 and 2009. Usually uncertain times don't manifest themselves in fluffy pop music, but this time it did." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Pre-1978 Categorization** : Prior to 1978, pop music was a distinct and simpler category within the four main genres of popular music, alongside rock, country, and R&B. "Before 1978, things were fairly simple...We had rock, we had pop, we had country, we had R&B." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
 **Preference of Younger Generations** : As emo's popularity waned during its decline (around 2008-2010), younger fans entering their coming-of-age years began to seek out different musical genres, with pop identified as one of their primary preferences. "Younger fans now in their coming of age years wanted something different, and for them that was pop, K-pop specifically, and hip-hop, so interest-wained." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
 **Punk Reconciliation and New Wave Birth** : Despite punk's reaction against "insipid pop" on 1970s AM radio, there was a reconciliation between pop and punk, leading to the creation of New Wave. "Pop and punk had a baby, and they called it New Wave." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
@@ -33,5 +35,80 @@
 **Songs About Ted Bundy** : Pop music is one of the genres, alongside rock, metal, and hip hop, that features songs written about the serial killer Ted Bundy. This demonstrates the broad appeal of true crime themes across different musical styles. "There are a similar number of songs about Ted Bundy, rock, pop, metal, hip hop." ← https://www.youtube.com/watch?v=FtGJHhqXcDI
 **Songwriting Adaptation for Streaming** : Pop producers have reverse-engineered the listening habits of pop fans, creating songs that are front-heavy, often starting with the chorus, and jamming multiple hooks into the first half-minute to cater to impatience and short attention spans, especially to retain attention for the 30-second Spotify payout threshold. "Producers have basically reverse engineered the listening habits of pop fans and started writing songs in a way that plays into their impatience and their short attention spans." ← https://www.youtube.com/watch?v=Z7glrAoXtkA
 **Streaming Success in Pop** : Pop music has significantly benefited from the "musical moneyball" approach, demonstrating high streaming success that leads labels to prioritize time and money in promoting this genre. "Hip hop, rap, R&B, and pop have benefited the most from this musical money ball because those genres have demonstrated the most streaming success." ← https://www.youtube.com/watch?v=Sc9HApnyBLM
+**Teen Pop Resurgence in Late 2000s** : Following a period where rock was dominant (2004-2008), the music cycle shifted focus back to teen pop and pop in general, becoming "back in Vogue, and in a big, big way" by the late 2000s, exemplified by artists like Lady Gaga and Justin Bieber. "And the focus once again became on teen pop. In fact, pop in general was back in Vogue, and in a big, big way, we had Lady Gaga, Black Eyed Peas, Justin Bieber, Rihanna, Taylor Swift, Beyonce." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Trent Reznor's Billboard Record** : Trent Reznor, as co-composer of "34 Ghosts 4," shares the record for the "pop song" with the most weeks at number one on Billboard, referring to Lil Nas X's "Old Town Road." "So yes, Trent Rezner is the co-holder of the record for the pop song, the pop song, with the most weeks at number one on Billboard." ← https://www.youtube.com/watch?v=DKdF8NgF5Bw
+
+## artists
+- Adele
+- Avril Lavigne
+- Backstreet Boys
+- Bad Religion
+- Bay City Rollers
+- Blondie
+- Bobby Jean Hall
+- Bobby Sherman
+- Britney Spears
+- Bronski Beat
+- Carly Rae Jepsen
+- Coldplay
+- David Cassidy
+- Debbie Gibson
+- Ed Sheeran
+- Elvis Costello
+- Fall Out Boy
+- Fifi Dobbson
+- Fiona Apple
+- George W. Johnson
+- Gorillaz
+- Greg Alexander
+- Happy Mondays
+- Huey Lewis
+- Hüsker Dü
+- Imagine Dragons
+- Janet Jackson
+- Joe Meek
+- Joni Mitchell
+- Justin Bieber
+- Katy Perry
+- Kid Rock
+- Les Paul
+- Lil Nas X
+- Linkin Park
+- Lulu
+- Madonna
+- Maroon 5
+- Michael Jackson
+- Milli Vanilli
+- Millie Small
+- NSync
+- New Kids on the Block
+- P!nk
+- Panic! at the Disco
+- Paramore
+- Ramones
+- Rihanna
+- Sky Suitenam
+- Sophie
+- Spice Girls
+- Stiff Little Fingers
+- Susan Aglukark (Aglukark)
+- T-Packs
+- The Bangles
+- The Beatles
+- The Buzzcocks
+- The Go-Go's
+- The Jam
+- The Monkees
+- The New Radicals
+- The Police
+- The Ramones
+- The Smiths
+- The Undertones
+- The Vibrators
+- Tiffany
+- Tina Turner
+- Vangelis
+- Wendy Melvoin
+- Whitney Houston
+- XTC
 

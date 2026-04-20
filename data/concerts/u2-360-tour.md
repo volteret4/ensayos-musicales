@@ -9,3 +9,6 @@
 **One Claw Stage Repurposed (Post-Tour)** : One of the unique "claw" stages from the U2 360 tour has been repurposed and is now located at the Loveland Living Planet Aquarium in Salt Lake City, where it serves as a multi-functional space for concerts, movies, community events, and a farmer's market. "I can't find two of them, but one can be seen at the Loveland Living Planet Aquarium in Salt Lake City." ← https://www.youtube.com/watch?v=19Z_AAEy8Bc
 **Record-Breaking Gross Revenue (Pre-2019)** : The U2 360 tour, with 111 shows and 7.3 million tickets sold, recorded an official box office take of $736 million US dollars, making it the highest-grossing concert tour of all time for several years. Adjusted for inflation, its gross nears $1 billion, securing its place as the third highest-grossing tour historically. "Officially, the box-oppest take was $736 million US dollars." ← https://www.youtube.com/watch?v=19Z_AAEy8Bc
 
+## artists
+- U2
+

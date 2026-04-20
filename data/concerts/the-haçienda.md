@@ -9,3 +9,6 @@
 **Opening and Purpose (June 26, 1982)** : The Haçienda nightclub, located on Whitworth Street in Manchester, opened on June 26, 1982, as the "headquarters" of the city's cultural revolution. It was conceived by Tony Wilson, head of Factory Records, with the serial number FAC51, and designed to showcase and celebrate Manchester's music, although it proved to be a "money pit." "On June 26, 1982, this cultural revolution got its headquarters, the Hossie end of nightclub on Whitworth Street." ← https://www.youtube.com/watch?v=2RKchFW42Jc
 **Taken Over by Criminal Gangs** : The Haçienda was eventually taken over by criminal gangs, which contributed to the decline and burnout of the Madchester scene. "The Haseyenda had been taken over by criminal gangs and factory records was out of business." ← https://www.youtube.com/watch?v=DSvoppf1dGY
 
+## artists
+- New Order
+

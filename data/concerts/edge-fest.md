@@ -8,3 +8,19 @@
 **Hip Participation** : The Tragically Hip was noted for their participation in festivals like Edge Fest during their "golden ears" period of success. "festivals like Edge Fest." ← https://www.youtube.com/watch?v=Um_KEEcCeT4
 **Showcase for Canadian Talent** : Edge Fest provided a crucial platform for numerous Canadian acts, including Our Lady Peace, The Tea Party, Blue Rodeo, Crash Test Dummies, Sons of Freedom, Real Statics, The Tragically Hip, Headstones, and Big Sugar, among many others. It became a clear indicator of the robust domestic support for Canadian rock music. "Arlady Peace, the Tea Party, Blue Rodeo, Crash Test Dummies, Sons of Freedom, Real Statics, Trajically Hip, Headstones, Arlady Peace, Big Sugar and so many others took part over the years." ← https://www.youtube.com/watch?v=6PGgNCaW4xo
 
+## artists
+- Big Sugar
+- Blue Rodeo
+- Blur
+- Crash Test Dummies
+- Foo Fighters
+- Green Day
+- I Mother Earth
+- Our Lady Peace
+- Rush
+- Sons of Freedom
+- The Headpins
+- The Tea Party
+- The Tragically Hip
+- USS
+

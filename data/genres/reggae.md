@@ -10,7 +10,26 @@
 **Dog Preference for Reggae** : Researchers have found that dogs' stress levels significantly decrease when exposed to reggae music, a phenomenon that Scotland seems to lead studies in. This is believed to be due to reggae rhythms being similar to a dog's resting heartbeat. "Researchers have long known that dogs love reggae. Scotland seems to lead study in this area." ← https://www.youtube.com/watch?v=nYPGQiDL5bw
 **Dogs' Preferred Music Genre** : Scientific studies indicate that dogs respond positively to certain types of music, particularly those with rhythms close to their own heartbeat, to help with issues like separation anxiety, hyperactivity, or fear of thunderstorms. Science has determined that reggae music, especially that of Bob Marley, is the perfect genre for dogs. "It turns out that dogs gravitate towards music most in tune with their own heartbeat and science has determined that the perfect music for dogs is reggae, especially Bob Marley." ← https://www.youtube.com/watch?v=GO0K_N7Ys7I
 **Gorillaz Debut Album Component** : Reggae music was one of the various genres that contributed to the experimental nature of the Gorillaz's debut album. "The music was rather experimental, more trip-hop, some alt-rock, bits of Brit-pop, little dub, little reggae, and a bunch of hip-hop." ← https://www.youtube.com/watch?v=iVdTCqpd798
+**Influence on British Bassists** : The deep, fat, and warm bass grooves originating from New Jamaican immigrants significantly influenced British bassists like Paul Simmonon of The Clash. "He'd been absorbing the deep bass sounds he heard coming from the windows of New Jamaican immigrants. It was fat and warm and had a groove unlike anything that came out of Britain." ← https://www.youtube.com/watch?v=kbFfT0pKchI
 **Influence on Public Image Limited** : Johnny Lydon deeply incorporated reggae influences into the experimental sound of Public Image Limited. "He got deep into reggae and dub." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
 **Influence on The Police** : The Police incorporated elements of reggae into their short, tight pop songs, contributing to their edgy and distinct sound, which was characterized as New Wave. "Another important group was the police, two Englishmen and an American who played short, tight pop songs with a bit of reggae and scoff layer." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
 **Les Paul Guitar's Versatility** : The Gibson Les Paul guitar has been continuously in production since its 1952 introduction and is widely used across virtually every genre, including reggae. Its solid-body design resolved feedback issues common with older hollow-body guitars, making it ideal for amplified reggae music. "The Les Paul has been in production ever since, and has been used by guitars into rock, punk, metal, pop, country, soul, R&B, jazz, reggae, and virtually every other genre you want to mention." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
+
+## artists
+- Bad Brains
+- Bob Marley
+- D.H. Peligro
+- Don Letts
+- Gorillaz
+- Grace Jones
+- Jimmy Cliff
+- Option 30
+- Peter Tosh
+- Public Image Limited
+- Taylor Hawkins
+- The Clash
+- The Police
+- The Specials
+- Trent Reznor
+- UB40
 

@@ -7,3 +7,12 @@
 **Resurgence in Punk and New Wave** : The "surf sound" or "surf feel" reappeared during the punk and new wave movements of the 1970s, indicating its infectious and fun nature. "It was just too much fun to play, which is one of the reasons the surf sound, or at least the surf feel, showed up during the punk and new wave explosions of the 1970s." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
 **Worldwide Contemporary Scene** : Contemporary surf music is a global phenomenon, with traditional and innovative groups found worldwide, including in Denmark, London, Japan, and Toronto, demonstrating its enduring appeal and adaptability. "Although it's been around since the 1950s, surf music is still very much with us. Some is still pretty traditional and sticks to the original rules of arrangement and performance. But then there are other groups who have done their best to advance the art of surf rock or bands that abuse surf as a big influence. And it's worldwide too." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
 
+## artists
+- Dick Dale
+- Shadowy Men on a Shadowy Planet
+- The Chantays
+- The Del-Tones
+- The Sufaris
+- The Surf Regets
+- The Ventures
+

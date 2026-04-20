@@ -35,3 +35,29 @@
 **Warped Tour Content Pivot (1996)** : After securing Vans as a title sponsor in 1996, the Warped Tour shifted its musical focus away from broad-range alternative to concentrate more specifically on punk and music associated with skate culture. "Kevin moved the festival from broad range alternative to focusing on punk and other music that went well with skate culture." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
 **Warped Tour's Initial Focus (1995)** : The first Warped Tour in 1995 was designed as a "baby brother" to Lollapalooza, featuring a collection of up-and-coming alternative bands across two stages. "The first version was designed as kind of a baby brother to Lola, Paloza, a collection of up and coming alternative bands performing on two stages." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
 
+## artists
+- Alice in Chains
+- Beastie Boys
+- Depeche Mode
+- Faith No More
+- Grace Jones
+- Green Day
+- InXS
+- Jane's Addiction
+- Jesus Jones
+- Lorde
+- Maureen Tucker
+- Ministry
+- Nirvana
+- Pearl Jam
+- Queens of the Stone Age
+- Rage Against the Machine
+- Red Hot Chili Peppers
+- Smashing Pumpkins
+- Soundgarden
+- The Bangles
+- The Pixies
+- The Smashing Pumpkins
+- The Velvet Underground
+- Tool
+

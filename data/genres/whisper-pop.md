@@ -6,3 +6,10 @@
 **Female-Dominant Vocal Style** : Whisper Pop is characterized as a low-key, quiet, subdued, and sometimes breathy vocal performance style, almost exclusively employed by female artists, and seen as a possible counter-movement to "big diva performances." "We're going to call this whisper pop, low-key, quiet, subdued, and sometimes breathy-seeing, almost exclusively by female artists." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
 **Indie Girl Voice and Little Girl Vocal Connections** : This vocal style is sometimes referred to as the "indie girl voice" or linked to the "little girl vocal" style of the 1980s and 90s, indicating a lineage for its unique approach. "Some call it the indie girl voice. Others will point back to the 1980s and 90s when there was something called the little girl vocal." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
 
+## artists
+- Billie Eilish
+- Grimes
+- Lana Del Rey
+- Lorde
+- Selena Gomez
+

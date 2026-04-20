@@ -32,6 +32,7 @@
 **Indie-Driven Scene (Mid-90s)** : The Britpop scene of the mid-1990s was nearly 100% indie-driven. Bands like Blur, on the small Food label, and Oasis, signed to the "formerly has been" Creation label, achieved massive success, transforming Britain's musical landscape as their "alternative" sounds became mainstream. "The brick pop scene was nearly 100% indie driven back in the middle of the 90s." ← https://www.youtube.com/watch?v=Ft8nruhWCas
 **Influence on British Indie Rock** : Just as grunge significantly impacted North American guitar rock, Britpop had "long lasting influences on indie rock and Britain." "Just as Grunge has had long lasting influences on North American guitar rock, so has Britpop on indie rock and Britain." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
 **Lingering Influence** : Despite its end, Britpop's influence continues to live on alongside its myths, legends, and stories. "Its influence would live along with all the myths and legends and stories, but all things must pass, you know." ← https://www.youtube.com/watch?v=5q5EnZj1FwE
+**Madchester Foundations** : The foundations of Britpop were "essentially Madchester," indicating a direct lineage and influence from the earlier scene. "But Brickpop's foundations were essentially Madchester." ← https://www.youtube.com/watch?v=q_Scyr2czh8
 **Official End (1997)** : By the end of 1997, Britpop was "officially over," with most artists distancing themselves from the genre due to a "bad hangover," the toll of drug use, and public/media boredom. Its influence would live on, but the wave had passed, consistent with the typical six-year cycle of cultural storms. "By the time the year was over, almost everyone was distancing themselves from anything to do with Britpop. The party was officially over." ← https://www.youtube.com/watch?v=vzyMSSlD7Yg
 **Origin as Defense against Grunge** : Britpop emerged in the early to mid-1990s as a "made in Britain approach" by young musicians to fight back against the perceived "musical imperialism" of grunge and American alt-rock, which threatened to "swamp" the UK music scene. "They decided to fight back with a real, made in Britain approach." ← https://www.youtube.com/watch?v=5q5EnZj1FwE
 **Origin of the Term "Britpop"** : The term "Britpop" first appeared in *The Face* magazine's May 1994 issue during an interview with Blur, as an abbreviation of "British Pop" to describe the band's vision for a renewed emphasis on UK popular music. The *Guardian* newspaper then used the term, and it became widely adopted after an *NME* issue in January 1995. "The first appearance of the word seems to have been in the face... There was an interview with Blur in the May 1994 issue... The magazine then abbreviated that to Brit Pop." ← https://www.youtube.com/watch?v=vzyMSSlD7Yg
@@ -49,9 +50,39 @@
 **Response to Grunge** : Britpop emerged in the middle 1990s as a "nationalistic celebration of British music heritage," largely prompted by concerns in the UK over the rising popularity of American grunge bands, which was seen as coming "at the expensive homegrown British artists." "Consider the Britpop scene in the middle 1990s. That sound, that nationalistic celebration of British music heritage, was prompted in large part by grunge." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
 **Resurgence of Guitars** : By the time the future members of the Arctic Monkeys became musically aware, Britpop was a dominant force, instrumental in bringing guitars back to the forefront of music. ← https://www.youtube.com/watch?v=YvcnHKI4oIw
 **Speaker's Fandom** : The speaker is a self-professed "big Brit Pop fan." "I'm a big Brit Pop fan." ← https://www.youtube.com/watch?v=4xxgPX-aR90
+**Successor to Madchester** : Britpop emerged after the decline of Madchester, following a brief lull in the British music scene. "And then there's a bit of a law and then Brickpop comes along." ← https://www.youtube.com/watch?v=q_Scyr2czh8
 **Term Coined in British Press** : The word "Britpop" first appeared in the May 1994 issue of *The Face* magazine, following an interview with Blur discussing a renewed emphasis on British pop. It was then used by *The Guardian* and gained widespread adoption after an *NME* issue in January 1995. "The first appearance of the word seems to have been in the face, one of those new British magazines that I mentioned earlier." ← https://www.youtube.com/watch?v=5q5EnZj1FwE
 **The Good Mixer Pub as a Britpop Hub** : In the early and middle 1990s, The Good Mixer pub on Inverness Street in Camden, London, became a crucial hangout spot for many individuals who would go on to form prominent Britpop bands. Musicians from groups like Blur, Oasis, The Libertines, The Darkness, and Travis were regulars. This establishment was a place where many bands were formed and songs took shape. Its popularity as a Britpop hub eventually led to an influx of fans, much to the chagrin of the original working-class clientele. "In the early and middle 90s, this became a hangout for many of the people who would form the bands of the era." ← https://www.youtube.com/watch?v=sKHdTSfDd6E
 **Toronto as a Staging Ground for British Acts** : Toronto served as a key staging ground for British bands breaking into the North American market, forming a "third leg of a triangle" with New York and London. Many British bands from 1984 credit the radio station for their success in North America. "Toronto is like the third leg of a triangle that extends through New York and London and a lot of British acts used to break into America by using Toronto as a staging ground." ← https://www.youtube.com/watch?v=4xxgPX-aR90
 **Toronto's Role in North American Breakout** : Toronto played a crucial role as a "staging ground" for many British acts from 1984 onwards to break into the North American market, forming a "third leg of a triangle that extends through New York and London." This support for British music meant Toronto-based radio stations often led the culture in promoting bands like Happy Mondays, Stone Roses, and The Charlatans, weeks ahead of other Canadian outlets and even US markets. "We did very well promoting British music because Toronto is like the third leg of a triangle that extends through New York and London." ← https://www.youtube.com/watch?v=bI6TTA-fn7c
 **Wobbling and Decline (1995-1996)** : As 1995 transitioned into 1996, Britpop began to show signs of instability and "getting a little wobbly," indicating the natural progression of a cultural storm reaching its end. "And as 1995 turned into 1996, it became apparent that Britpop was getting a little wobbly." ← https://www.youtube.com/watch?v=vzyMSSlD7Yg
+
+## artists
+- Ash
+- Black Grape
+- Blur
+- Cast
+- Dodgy
+- Echo Belly
+- Elastica
+- Gene
+- Liam Gallagher
+- Marion
+- Men's Wear
+- Noel Gallagher
+- Northern Opera
+- Oasis
+- Ocean Colour Scene
+- Pulp
+- Rage Against the Machine
+- Salad
+- Shed 7
+- Sleeper
+- Stone Roses
+- Suede
+- Supergrass
+- The Charlatans
+- The Stone Roses
+- These Animal Men
+- Whiteout
 

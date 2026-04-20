@@ -1,5 +1,8 @@
 # artist - Ozzy Osborne
 
+## member of
+- Black Sabbath
+
 ## members
 - Mike Bordin
 

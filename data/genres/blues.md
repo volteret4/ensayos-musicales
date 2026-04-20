@@ -2,6 +2,7 @@
 
 ## curiosities
 **"Dirty Blues" Records (1950s)** : By 1952, *Jet* magazine noted an unprecedented number of "dirty blues records" on sale, often making no effort to conceal their suggestive nature. These records, using "cunning inflections" and standard "dirty record vocabulary" like "rock and roll," "writer," "grind," and "grass," were criticized for directly describing sexual activity. "Never have there been as many dirty blues records on sale as today." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
+**CBGB's Original Music Policy** : When Hilly Crystal bought the club that would become CBGB, he initially named it to reflect his music policy, which included country, bluegrass, and blues, among "other music for uplifting gourmandizers." "He named it after his music policy, the kinds of acts he would book, country, blue grass and blues and other music for uplifting gourmandizers." ← https://www.youtube.com/watch?v=VYi3r0G-ne4
 **Component of Indie Folk** : Blues music is identified as one of the genres that came together in Indie Folk, contributing to its rootsy and acoustic characteristics. "This is a corner of alt rock where folk, blues, gospel, and even a little country came together." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
 **Development and Spread of Blues (c. 1870-1950s)** : Concurrently with jazz, the blues developed in the US South, with roots as early as 1870, becoming widely heard by 1901-1902, facilitated by gramophones and phonographs. Simpler in arrangement than jazz, often requiring little more than a guitar and a voice, blues found its base in "Jukejoints," African American gathering places for music, dance, and drink. These venues formed the "Chitlin Circuit," a touring network for musicians stretching from Florida to New York City's Apollo Theater and Cotton Club. The blues fused with country, western, and hillbilly music, leading to the birth of rock'n'roll by the early 1950s. "And by the early 1950s, we have a descendant called Rock'n'Roll." ← https://www.youtube.com/watch?v=_Pi7JLwAeOI
 **Early 20th-Century Mississippi Delta Slide Guitar** : In the early 20th century, blues players in the Mississippi Delta developed unique slide guitar techniques. Lacking proper "steels" used in Hawaiian music, they famously improvised by pressing knives or the necks of beer bottles against their guitar strings. "The earliest players didn't have proper steels used by players of the Hawaiian style. They used a knife on their strings and when a knife wasn't available, the neck of a beer bottle would do an pinch." ← https://www.youtube.com/watch?v=D8GU8ZpSgY8
@@ -17,4 +18,24 @@
 **Origins of Blues and Blue Notes (c. 1870s)** : The blues genre emerged from the US Deep South around the 1870s, following the end of slavery, drawing from slave work songs, spiritual music, and African musical traditions. It is characterized by "blue notes," which are pitches that fall between the accepted tones found on a conventional piano keyboard, also known as "bent notes." These notes represent the kind of "natural imperfections" that Pythagoras sought to eliminate from music, favoring discrete tones, while blues players embraced them. "The blues came out of the deep south beginning in about the 1870s following the end of slavery." ← https://www.youtube.com/watch?v=_Pi7JLwAeOI
 **Post-Civil War Spread and Delta Roots** : Folk blues or rural blues began to spread across the Deep South following the American Civil War. The three-line stanza structure of these songs can be traced back to the field songs prevalent in the Mississippi Delta, forming foundational elements for genres like rock, R&B, funk, and hip hop. "The structure of these songs with their three line stances can trace back to the field songs in the Mississippi Delta." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ
 **Reunion Rehearsal Foundation** : John Frusciante suggested that the Red Hot Chili Peppers learn old blues songs as a foundational exercise during their reunion. This was part of a strategy to start from scratch and build basic rock and roll building blocks, making the songwriting process feel more natural. "He was like, let's learn some old blue songs and let's learn some really old red hot chili pepper songs." ← https://www.youtube.com/watch?v=Nr-3Y3UWQcI
+
+## artists
+- Bonnie Raitt
+- Buster Brown
+- Hassel Adkins
+- Iggy Pop
+- Junior Kimbrough
+- Luther "Guitar" Johnson
+- Ma Rainey
+- Memphis Minnie
+- Robert Johnson
+- Roy Brown
+- Screamin' Jay Hawkins
+- Sister Rosetta Tharp
+- Sister Rosetta Tharpe
+- Steve Grossman
+- The Clash
+- The Prime Movers
+- The Strumbellas
+- Trixie Smith
 

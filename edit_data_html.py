@@ -46,10 +46,18 @@ body { font-family: "Segoe UI", system-ui, sans-serif; background: #0d1117;
 .list-item.active { background: #1c2128; color: #58a6ff; border-left-color: #58a6ff; font-weight: 600; }
 .list-item mark   { background: none; color: #f0883e; font-weight: bold; }
 .list-name { overflow: hidden; text-overflow: ellipsis; flex: 1; min-width: 0; }
-.list-del  { opacity: 0; background: none; border: none; color: #da3633;
-             cursor: pointer; font-size: 0.85rem; padding: 0 2px; flex-shrink: 0; }
-.list-item:hover .list-del { opacity: 1; }
-.list-del:hover { color: #f85149; }
+.list-tick { opacity: 0; background: none; border: none; color: #3fb950;
+             cursor: pointer; font-size: 0.9rem; padding: 0 2px; flex-shrink: 0; }
+.list-item:hover .list-tick { opacity: 1; }
+.list-tick:hover { color: #2ea043; }
+
+.pending-group { padding: 8px 14px 2px; font-size: 0.65rem; font-weight: 700;
+                 letter-spacing: 0.08em; text-transform: uppercase; color: #484f58; }
+.pending-badge { font-size: 0.65rem; padding: 1px 7px; border-radius: 10px;
+                 font-weight: 700; margin-left: 8px; vertical-align: middle; }
+.btn-accept-entity { background: #238636; color: #fff; border: none;
+                     border-radius: 5px; padding: 4px 12px; font-size: 0.75rem; cursor: pointer; }
+.btn-accept-entity:hover { background: #2ea043; }
 
 /* ── Content area ── */
 #content { flex: 1; overflow-y: auto; padding: 32px 40px; }
@@ -137,6 +145,30 @@ body { font-family: "Segoe UI", system-ui, sans-serif; background: #0d1117;
 #toast pre { font-size: 0.72rem; color: #8b949e; margin-top: 6px;
              white-space: pre-wrap; max-height: 130px; overflow-y: auto; }
 
+/* ── Rename inline ── */
+.rename-wrap { display: none; align-items: center; gap: 6px; margin-bottom: 16px; }
+.rename-wrap.open { display: flex; }
+.rename-input { background: #0d1117; color: #e6edf3; border: 1px solid #58a6ff;
+                border-radius: 5px; padding: 5px 10px; font-size: 1rem;
+                font-weight: 700; width: 320px; outline: none; }
+.btn-rename { background: none; border: 1px solid #30363d; color: #8b949e;
+              border-radius: 5px; padding: 4px 10px; font-size: 0.75rem; cursor: pointer; }
+.btn-rename:hover { background: #1f6feb; color: #fff; border-color: #1f6feb; }
+
+/* ── Add entry / tag forms ── */
+.add-form { display: none; flex-direction: column; gap: 6px;
+            margin-top: 10px; padding: 10px 12px;
+            background: #0d1117; border: 1px dashed #30363d; border-radius: 6px; }
+.add-form.open { display: flex; }
+.add-form input, .add-form textarea {
+  background: #161b22; color: #c9d1d9; border: 1px solid #30363d;
+  border-radius: 5px; padding: 5px 8px; font-size: 0.84rem; font-family: inherit; outline: none; }
+.add-form input:focus, .add-form textarea:focus { border-color: #58a6ff; }
+.add-form textarea { resize: vertical; min-height: 70px; }
+.btn-add { background: none; border: 1px solid #30363d; color: #3fb950;
+           border-radius: 4px; padding: 2px 8px; font-size: 0.7rem; cursor: pointer; }
+.btn-add:hover { background: #238636; color: #fff; border-color: #238636; }
+
 /* ── Transition helpers ── */
 .removing { opacity: 0; transform: translateX(14px);
             transition: opacity 0.2s, transform 0.2s; pointer-events: none; }
@@ -149,7 +181,7 @@ body { font-family: "Segoe UI", system-ui, sans-serif; background: #0d1117;
 _BODY = """
 <div id="sidebar">
   <div id="sb-header">
-    <h1>🎵 Music Editor</h1>
+    <h1>🪓 Music Editor</h1>
     <button id="btn-rebuild">⚙ Rebuild DB</button>
   </div>
   <div id="tab-bar">
@@ -159,6 +191,7 @@ _BODY = """
     <button class="tab-btn" data-tab="concerts">🎪 Conc.</button>
     <button class="tab-btn" data-tab="instruments">🎸 Inst.</button>
     <button class="tab-btn" data-tab="curiosities">✨ Gen.</button>
+    <button class="tab-btn" data-tab="pendiente" id="tab-pendiente">⏳ Pend.</button>
   </div>
 
   <div id="panel-artists" class="panel active">
@@ -213,6 +246,11 @@ _BODY = """
     </div>
     <div id="curiosity-count" class="panel-count"></div>
     <div id="curiosity-list"  class="panel-list"></div>
+  </div>
+
+  <div id="panel-pendiente" class="panel">
+    <div id="pending-count" class="panel-count" style="padding-top:10px"></div>
+    <div id="pending-list"  class="panel-list"></div>
   </div>
 </div>
 
@@ -299,11 +337,11 @@ function renderList(items, listId, countId, q, etype, clickFn) {
     const name = item.name ?? item;
     if (q && !name.toLowerCase().includes(q.toLowerCase())) continue;
     n++;
-    const sid = store({action:'delete-entity', type:etype, name});
+    const sid = store({action:'validate-entity', type:etype, name});
     const div = document.createElement('div');
     div.className = 'list-item';
     div.innerHTML = `<span class="list-name">${hl(name, q)}</span>
-      <button class="list-del" data-sid="${sid}" title="Eliminar">✕</button>`;
+      <button class="list-tick" data-sid="${sid}" title="Marcar como validado">✓</button>`;
     div.querySelector('.list-name').addEventListener('click', () => {
       document.querySelectorAll('.list-item').forEach(el => el.classList.remove('active'));
       div.classList.add('active');
@@ -342,6 +380,104 @@ function renderAllLists(q={}) {
   renderList(DATA.concerts,    'concert-list',    'concert-count',    q.concerts||'',    'concert',    e=>showEntity('concert',e));
   renderList(DATA.instruments, 'instrument-list', 'instrument-count', q.instruments||'', 'instrument', e=>showEntity('instrument',e));
   renderCuriosityList(DATA.gen_curiosities, q.curiosities||'');
+  renderPendingList(DATA.pending || {});
+}
+
+// ── Pending panel ─────────────────────────────────────────────────────────────
+const PENDING_ORDER = [
+  ['artists','artist','🎤 Artistas'], ['genres','genre','🎵 Géneros'],
+  ['labels','label','💿 Sellos'], ['concerts','concert','🎪 Conciertos'],
+  ['instruments','instrument','🎸 Instrumentos'],
+];
+
+function renderPendingList(pending) {
+  const listEl = document.getElementById('pending-list');
+  const cntEl  = document.getElementById('pending-count');
+  listEl.innerHTML = '';
+  let total = 0;
+  for (const [subdir, etype, label] of PENDING_ORDER) {
+    const items = pending[subdir];
+    if (!items?.length) continue;
+    const grp = document.createElement('div');
+    grp.className = 'pending-group';
+    grp.textContent = `${label} (${items.length})`;
+    listEl.appendChild(grp);
+    for (const entity of items) {
+      total++;
+      const div = document.createElement('div');
+      div.className = 'list-item';
+      div.innerHTML = `<span class="list-name">${entity.name}</span>`;
+      div.querySelector('.list-name').addEventListener('click', () => {
+        document.querySelectorAll('.list-item').forEach(el => el.classList.remove('active'));
+        div.classList.add('active');
+        if (etype === 'artist') showPendingArtist(entity);
+        else showPendingEntity(etype, entity);
+      });
+      listEl.appendChild(div);
+    }
+  }
+  // Update tab label with count
+  const tab = document.getElementById('tab-pendiente');
+  if (tab) tab.textContent = total > 0 ? `⏳ Pend. (${total})` : '⏳ Pend.';
+  cntEl.textContent = `${total} pendiente${total!==1?'s':''}`;
+}
+
+// ── Show pending artist ───────────────────────────────────────────────────────
+function showPendingArtist(artist) {
+  activeEntity = {type:'artist', name:artist.name, pending:true};
+  const acceptSid  = store({action:'accept-pending',  type:'artist', name:artist.name});
+  const discardSid = store({action:'discard-pending', type:'artist', name:artist.name});
+
+  let html = `<div id="entity-detail">
+    <h1>${artist.name}</h1>
+    <div class="entity-toolbar">
+      <div class="entity-badge" style="background:#f0883e22;color:#f0883e;border:1px solid #f0883e">⏳ Pendiente</div>
+      <button class="btn-accept-entity" data-sid="${acceptSid}">✓ Aceptar</button>
+      <button class="btn-del-entity" data-sid="${discardSid}">🗑 Descartar</button>
+    </div>`;
+
+  if (artist.member_of?.length) {
+    const links = artist.member_of.map(b => `<span>${b.name}</span>`).join(', ');
+    html += `<div class="member-of-line">Miembro de: ${links}</div>`;
+  }
+  for (const key of ['members','member_of','genres','labels','concerts','instruments']) {
+    if (artist[key]?.length)
+      html += makeTagSection('artist', artist.name, key, artist[key], SEC_COLORS[key]);
+  }
+  for (const key of ['albums','songs','curiosities']) {
+    if (artist[key]?.length)
+      html += makeEntrySection('artist', artist.name, key, artist[key], SEC_COLORS[key]);
+  }
+  html += '</div>';
+  document.getElementById('content').innerHTML = html;
+}
+
+// ── Show pending entity ───────────────────────────────────────────────────────
+function showPendingEntity(etype, entity) {
+  activeEntity = {type:etype, name:entity.name, pending:true};
+  const color      = E_COLORS[etype] || '#888';
+  const acceptSid  = store({action:'accept-pending',  type:etype, name:entity.name});
+  const discardSid = store({action:'discard-pending', type:etype, name:entity.name});
+
+  let html = `<div id="entity-detail">
+    <h1>${entity.name}</h1>
+    <div class="entity-toolbar">
+      <div class="entity-badge" style="background:#f0883e22;color:#f0883e;border:1px solid #f0883e">⏳ Pendiente</div>
+      <button class="btn-accept-entity" data-sid="${acceptSid}">✓ Aceptar</button>
+      <button class="btn-del-entity" data-sid="${discardSid}">🗑 Descartar</button>
+    </div>`;
+
+  if (entity.curiosities?.length) {
+    const items = entity.curiosities.map(c => ({
+      name: c.title,
+      facts: [{description: c.description, source_file: c.source_file}],
+    }));
+    html += makeEntrySection(etype, entity.name, 'curiosities', items, color);
+  } else {
+    html += `<p style="color:#484f58;font-size:0.85rem">Sin datos detallados.</p>`;
+  }
+  html += '</div>';
+  document.getElementById('content').innerHTML = html;
 }
 
 ['artists','genres','labels','concerts','instruments'].forEach(type => {
@@ -402,11 +538,13 @@ function makeCard(etype, ename, section, item, color) {
 
 function makeTagSection(etype, ename, skey, items, color) {
   const secDelSid = store({action:'delete-section', type:etype, name:ename, section:skey});
+  const addSid    = store({action:'open-add-tag',   type:etype, name:ename, section:skey});
+  const saveSid   = store({action:'save-add-tag',   type:etype, name:ename, section:skey});
   const tags = items.map(item => {
-    const nm      = item.name ?? item;
-    const linked  = item.id != null;
-    const delSid  = store({action:'delete-entry',  type:etype, name:ename, section:skey, key:nm, is_list:true});
-    const goSid   = linked ? store({action:'go-artist', id:item.id}) : null;
+    const nm     = item.name ?? item;
+    const linked = item.id != null;
+    const delSid = store({action:'delete-entry', type:etype, name:ename, section:skey, key:nm, is_list:true});
+    const goSid  = linked ? store({action:'go-artist', id:item.id}) : null;
     return `<span class="tag" style="color:${color};border-color:${color};background:${color}22">
       <span class="tag-name ${linked?'linked':''}" ${goSid?`data-sid="${goSid}"`:''}>
         ${nm}
@@ -417,32 +555,63 @@ function makeTagSection(etype, ename, skey, items, color) {
   return `<div class="section">
     <div class="section-header">
       <span class="section-title" style="color:${color}">${SEC_LABELS[skey]||skey} (${items.length})</span>
-      <button class="btn-del-section" data-sid="${secDelSid}">✕ Sección</button>
+      <div style="display:flex;gap:4px">
+        <button class="btn-add" data-sid="${addSid}">+ Añadir</button>
+        <button class="btn-del-section" data-sid="${secDelSid}">✕ Sección</button>
+      </div>
     </div>
     <div class="tag-list">${tags}</div>
+    <div class="add-form">
+      <input class="add-tag-input" placeholder="Nombre…">
+      <div class="edit-btns">
+        <button class="btn-save" data-sid="${saveSid}">Añadir</button>
+        <button class="btn-cancel">Cancelar</button>
+      </div>
+    </div>
   </div>`;
 }
 
 function makeEntrySection(etype, ename, skey, items, color) {
   const secDelSid = store({action:'delete-section', type:etype, name:ename, section:skey});
+  const addSid    = store({action:'open-add-entry', type:etype, name:ename, section:skey});
+  const saveSid   = store({action:'save-add-entry', type:etype, name:ename, section:skey});
   return `<div class="section">
     <div class="section-header">
       <span class="section-title" style="color:${color}">${SEC_LABELS[skey]||skey} (${items.length})</span>
-      <button class="btn-del-section" data-sid="${secDelSid}">✕ Sección</button>
+      <div style="display:flex;gap:4px">
+        <button class="btn-add" data-sid="${addSid}">+ Añadir</button>
+        <button class="btn-del-section" data-sid="${secDelSid}">✕ Sección</button>
+      </div>
     </div>
     ${items.map(item => makeCard(etype, ename, skey, item, color)).join('')}
+    <div class="add-form">
+      <input  class="add-entry-title" placeholder="Título">
+      <textarea class="add-entry-desc" rows="4" placeholder="Descripción (opcional)"></textarea>
+      <div class="edit-btns">
+        <button class="btn-save" data-sid="${saveSid}">Añadir</button>
+        <button class="btn-cancel">Cancelar</button>
+      </div>
+    </div>
   </div>`;
 }
 
 // ── Show artist ───────────────────────────────────────────────────────────────
 function showArtist(artist) {
   activeEntity = {type:'artist', name:artist.name};
-  const delSid = store({action:'delete-entity', type:'artist', name:artist.name});
+  const delSid    = store({action:'delete-entity',  type:'artist', name:artist.name});
+  const renameSid = store({action:'open-rename',    type:'artist', name:artist.name});
+  const doRenSid  = store({action:'save-rename',    type:'artist', name:artist.name});
 
   let html = `<div id="entity-detail">
     <h1>${artist.name}</h1>
+    <div class="rename-wrap">
+      <input class="rename-input" value="${artist.name}" placeholder="Nuevo nombre">
+      <button class="btn-save" data-sid="${doRenSid}">Guardar</button>
+      <button class="btn-cancel">Cancelar</button>
+    </div>
     <div class="entity-toolbar">
       <div class="entity-badge" style="background:#e9456022;color:#e94560;border:1px solid #e94560">Artista</div>
+      <button class="btn-rename" data-sid="${renameSid}">✏ Renombrar</button>
       <button class="btn-del-entity" data-sid="${delSid}">🗑 Eliminar artista</button>
     </div>`;
 
@@ -469,13 +638,21 @@ function showArtist(artist) {
 // ── Show named entity ─────────────────────────────────────────────────────────
 function showEntity(etype, entity) {
   activeEntity = {type:etype, name:entity.name};
-  const color  = E_COLORS[etype] || '#888';
-  const delSid = store({action:'delete-entity', type:etype, name:entity.name});
+  const color     = E_COLORS[etype] || '#888';
+  const delSid    = store({action:'delete-entity', type:etype, name:entity.name});
+  const renameSid = store({action:'open-rename',   type:etype, name:entity.name});
+  const doRenSid  = store({action:'save-rename',   type:etype, name:entity.name});
 
   let html = `<div id="entity-detail">
     <h1>${entity.name}</h1>
+    <div class="rename-wrap">
+      <input class="rename-input" value="${entity.name}" placeholder="Nuevo nombre">
+      <button class="btn-save" data-sid="${doRenSid}">Guardar</button>
+      <button class="btn-cancel">Cancelar</button>
+    </div>
     <div class="entity-toolbar">
       <div class="entity-badge" style="background:${color}22;color:${color};border:1px solid ${color}">${E_LABEL[etype]||etype}</div>
+      <button class="btn-rename" data-sid="${renameSid}">✏ Renombrar</button>
       <button class="btn-del-entity" data-sid="${delSid}">🗑 Eliminar</button>
     </div>`;
 
@@ -494,10 +671,14 @@ function showEntity(etype, entity) {
 
 // ── Show general curiosity ────────────────────────────────────────────────────
 function showGenCuriosity(c) {
-  const color = SEC_COLORS.curiosities;
+  const color  = SEC_COLORS.curiosities;
+  const delSid = store({action:'delete-curiosity', key:c.title});
   document.getElementById('content').innerHTML = `<div id="entity-detail">
     <h1>${c.title}</h1>
-    <div class="entity-badge" style="background:${color}22;color:${color};border:1px solid ${color};margin-bottom:16px;display:inline-block">Curiosidad</div>
+    <div class="entity-toolbar" style="margin-bottom:16px">
+      <div class="entity-badge" style="background:${color}22;color:${color};border:1px solid ${color}">Curiosidad</div>
+      <button class="btn-del-entity" data-sid="${delSid}">🗑 Eliminar</button>
+    </div>
     <div class="card" style="border-left-color:${color}">
       <div class="card-body">${c.description}</div>${srcHtml(c.source_file)}
     </div>
@@ -511,20 +692,51 @@ function fadeOut(el) {
 }
 
 // ── Delete operations ─────────────────────────────────────────────────────────
-async function doDeleteEntity(etype, name, listItemEl) {
-  const noun = etype === 'artist' ? 'artista' : E_LABEL[etype]?.toLowerCase() || etype;
-  if (!confirm(`¿Eliminar ${noun} "${name}"?\nSe borrará el archivo .md permanentemente.`)) return;
-  const r = await api('/api/delete/entity', {type:etype, name});
-  if (!r.ok) { toast('Error al eliminar', 'err'); return; }
+async function doValidateEntity(etype, name, listItemEl) {
+  const r = await api('/api/validate', {type:etype, name});
+  if (!r.ok) { toast('Error al validar', 'err'); return; }
   const key = etype === 'artist' ? 'artists' : etype + 's';
   if (DATA[key]) DATA[key] = DATA[key].filter(e => e.name !== name);
   if (listItemEl) fadeOut(listItemEl);
+  toast(`"${name}" validado ✓`);
+}
+
+async function doAcceptPending(etype, name) {
+  const r = await api('/api/pending/accept', {type:etype, name});
+  if (!r.ok) { toast('Error al aceptar', 'err'); return; }
+  // Remove from pending data
+  const subdir = etype === 'artist' ? 'artists' : etype + 's';
+  if (DATA.pending?.[subdir]) DATA.pending[subdir] = DATA.pending[subdir].filter(e => e.name !== name);
+  renderPendingList(DATA.pending || {});
+  // Reload full data so the entity now appears in the main list
+  await loadData();
+  const extra = r.accepted_children?.length ? ` (+${r.accepted_children.length} referenciados)` : '';
+  toast(`"${name}" aceptado${extra} ✓`);
+}
+
+async function doDeleteEntity(etype, name, listItemEl, isPending=false) {
+  if (!isPending) {
+    const noun = etype === 'artist' ? 'artista' : E_LABEL[etype]?.toLowerCase() || etype;
+    if (!confirm(`¿Eliminar ${noun} "${name}"?\nSe borrará el archivo .md permanentemente.`)) return;
+  }
+  const ep = isPending ? '/api/pending/delete' : '/api/delete/entity';
+  const r  = await api(ep, {type:etype, name});
+  if (!r.ok) { toast('Error al eliminar', 'err'); return; }
+  if (isPending) {
+    const subdir = etype === 'artist' ? 'artists' : etype + 's';
+    if (DATA.pending?.[subdir]) DATA.pending[subdir] = DATA.pending[subdir].filter(e => e.name !== name);
+    renderPendingList(DATA.pending || {});
+  } else {
+    const key = etype === 'artist' ? 'artists' : etype + 's';
+    if (DATA[key]) DATA[key] = DATA[key].filter(e => e.name !== name);
+  }
+  if (listItemEl) fadeOut(listItemEl);
   if (activeEntity?.type === etype && activeEntity?.name === name) {
     document.getElementById('content').innerHTML =
-      '<div id="placeholder">← Elemento eliminado. Selecciona otro.</div>';
+      `<div id="placeholder">← ${isPending ? 'Descartado' : 'Eliminado'}. Selecciona otro.</div>`;
     activeEntity = null;
   }
-  toast(`"${name}" eliminado`);
+  toast(`"${name}" ${isPending ? 'descartado' : 'eliminado'}`);
 }
 
 async function doDeleteSection(etype, name, section, sectionEl) {
@@ -577,6 +789,81 @@ async function saveEdit(card, etype, ename, section, origKey) {
   toast('Guardado ✓');
 }
 
+// ── Add entry helpers ─────────────────────────────────────────────────────────
+function openAddForm(btn) {
+  const section = btn.closest('.section');
+  const form    = section.querySelector('.add-form');
+  form.classList.add('open');
+  (form.querySelector('.add-tag-input') || form.querySelector('.add-entry-title'))?.focus();
+}
+
+async function saveAddTag(form, etype, ename, section) {
+  const input = form.querySelector('.add-tag-input');
+  const key   = input?.value.trim();
+  if (!key) return;
+  const r = await api('/api/add/entry', {type:etype, name:ename, section, key, is_list:true});
+  if (!r.ok) { toast('Error al añadir', 'err'); return; }
+  // Append new tag to tag-list
+  const color  = SEC_COLORS[section] || '#888';
+  const delSid = store({action:'delete-entry', type:etype, name:ename, section, key, is_list:true});
+  const tag    = document.createElement('span');
+  tag.className = 'tag';
+  tag.style.cssText = `color:${color};border-color:${color};background:${color}22`;
+  tag.innerHTML = `<span class="tag-name">${key}</span>
+    <button class="tag-del" data-sid="${delSid}">✕</button>`;
+  form.closest('.section').querySelector('.tag-list').appendChild(tag);
+  input.value = '';
+  form.classList.remove('open');
+  toast(`"${key}" añadido`);
+}
+
+async function saveAddEntry(form, etype, ename, section) {
+  const title = form.querySelector('.add-entry-title')?.value.trim();
+  const desc  = form.querySelector('.add-entry-desc')?.value.trim() || '';
+  if (!title) return;
+  const r = await api('/api/add/entry', {type:etype, name:ename, section, key:title, desc, is_list:false});
+  if (!r.ok) { toast('Error al añadir', 'err'); return; }
+  const color   = SEC_COLORS[section] || '#888';
+  const cardHtml = makeCard(etype, ename, section, {name:title, facts:[{description:desc, source_file:''}]}, color);
+  const tmp     = document.createElement('div');
+  tmp.innerHTML = cardHtml;
+  form.before(tmp.firstElementChild);
+  form.querySelector('.add-entry-title').value = '';
+  form.querySelector('.add-entry-desc').value  = '';
+  form.classList.remove('open');
+  toast(`"${title}" añadido`);
+}
+
+// ── Rename helpers ────────────────────────────────────────────────────────────
+function openRename() {
+  const wrap = document.querySelector('.rename-wrap');
+  if (!wrap) return;
+  wrap.classList.add('open');
+  wrap.querySelector('.rename-input')?.focus();
+}
+
+function closeRename() {
+  document.querySelector('.rename-wrap')?.classList.remove('open');
+}
+
+async function saveRename(etype, oldName) {
+  const input   = document.querySelector('.rename-input');
+  const newName = input?.value.trim();
+  if (!newName || newName === oldName) { closeRename(); return; }
+  const r = await api('/api/rename/entity', {type:etype, name:oldName, new_name:newName});
+  if (!r.ok) { toast('Error al renombrar', 'err'); return; }
+  // Update DATA
+  const key = etype === 'artist' ? 'artists' : etype + 's';
+  const item = DATA[key]?.find(e => e.name === oldName);
+  if (item) { item.name = newName; if (item.id && byId[item.id]) byId[item.id].name = newName; }
+  // Update sidebar list and h1
+  renderAllLists();
+  document.querySelector('#entity-detail h1').textContent = newName;
+  activeEntity.name = newName;
+  closeRename();
+  toast(`Renombrado a "${newName}"`);
+}
+
 // ── Rebuild DB ────────────────────────────────────────────────────────────────
 async function rebuildDB() {
   const btn = document.getElementById('btn-rebuild');
@@ -595,9 +882,13 @@ document.getElementById('btn-rebuild').addEventListener('click', rebuildDB);
 
 // ── Unified event delegation on #content ─────────────────────────────────────
 document.getElementById('content').addEventListener('click', e => {
-  // Cancel has no data-sid — handle first
+  // btn-cancel: close edit form, add form, or rename wrap — no data-sid needed
   if (e.target.classList.contains('btn-cancel')) {
-    closeEdit(e.target.closest('.card')); return;
+    const card = e.target.closest('.card');
+    if (card) { closeEdit(card); return; }
+    const form = e.target.closest('.add-form');
+    if (form) { form.classList.remove('open'); return; }
+    closeRename(); return;
   }
 
   const btn = e.target.closest('[data-sid]');
@@ -606,14 +897,29 @@ document.getElementById('content').addEventListener('click', e => {
   const d = get(btn.dataset.sid);
   if (!d) return;
 
-  // btn-save shares data-sid with open-edit, so check class before action
+  // btn-save is shared by edit-save, add-tag-save, add-entry-save, rename-save
   if (btn.classList.contains('btn-save')) {
+    if (d.action === 'save-add-tag') {
+      saveAddTag(btn.closest('.add-form'), d.type, d.name, d.section); return;
+    }
+    if (d.action === 'save-add-entry') {
+      saveAddEntry(btn.closest('.add-form'), d.type, d.name, d.section); return;
+    }
+    if (d.action === 'save-rename') {
+      saveRename(d.type, d.name); return;
+    }
+    // default: card edit save
     saveEdit(btn.closest('.card'), d.type, d.name, d.section, btn.dataset.origKey || d.key);
     return;
   }
 
   if (d.action === 'go-artist') {
     const a = byId[d.id]; if (a) showArtist(a);
+  } else if (d.action === 'accept-pending') {
+    doAcceptPending(d.type, d.name);
+  } else if (d.action === 'discard-pending') {
+    if (!confirm(`¿Descartar "${d.name}"? Se eliminará del pendiente.`)) return;
+    doDeleteEntity(d.type, d.name, null, true);
   } else if (d.action === 'delete-entity') {
     doDeleteEntity(d.type, d.name, null);
   } else if (d.action === 'delete-section') {
@@ -621,18 +927,33 @@ document.getElementById('content').addEventListener('click', e => {
   } else if (d.action === 'delete-entry') {
     const parent = d.is_list ? btn.closest('.tag') : btn.closest('.card');
     doDeleteEntry(d.type, d.name, d.section, d.key, d.is_list, parent);
+  } else if (d.action === 'delete-curiosity') {
+    if (!confirm(`¿Eliminar curiosidad "${d.key}"?`)) return;
+    api('/api/delete/curiosity', {key: d.key}).then(r => {
+      if (r.ok) {
+        DATA.gen_curiosities = DATA.gen_curiosities.filter(c => c.title !== d.key);
+        renderCuriosityList(DATA.gen_curiosities, '');
+        document.getElementById('content').innerHTML =
+          '<div id="placeholder">← Curiosidad eliminada.</div>';
+        toast('Curiosidad eliminada');
+      } else { toast('Error', 'err'); }
+    });
   } else if (d.action === 'open-edit') {
     openEdit(btn.closest('.card'), d.key, d.desc);
+  } else if (d.action === 'open-add-tag' || d.action === 'open-add-entry') {
+    openAddForm(btn);
+  } else if (d.action === 'open-rename') {
+    openRename();
   }
 });
 
-// Sidebar list-del via delegation
+// Sidebar ✓ tick via delegation
 document.getElementById('sidebar').addEventListener('click', e => {
-  const btn = e.target.closest('.list-del[data-sid]');
+  const btn = e.target.closest('.list-tick[data-sid]');
   if (!btn) return;
   e.stopPropagation();
   const d = get(btn.dataset.sid);
-  if (d) doDeleteEntity(d.type, d.name, btn.closest('.list-item'));
+  if (d) doValidateEntity(d.type, d.name, btn.closest('.list-item'));
 });
 
 // Escape closes open edit forms
@@ -652,6 +973,7 @@ def build_html():
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Music Editor</title>
+<link rel="icon" type="image/png" href="img/axe.png" />
 <style>{CSS}</style>
 </head>
 <body>

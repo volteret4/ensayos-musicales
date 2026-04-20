@@ -228,12 +228,14 @@ def write_artist(artist, out_dir):
         _write_entry_section(f, 'songs', artist.songs)
         _write_entry_section(f, 'curiosities', artist.curiosities)
 
-def write_entity(etype, entity, out_dir):
+def write_entity(etype, entity, out_dir, artist_names=None):
     os.makedirs(out_dir, exist_ok=True)
     path = os.path.join(out_dir, slug(entity.name) + '.md')
     with open(path, 'w', encoding='utf-8') as f:
         f.write(f'# {etype} - {entity.name}\n\n')
         _write_entry_section(f, 'curiosities', entity.curiosities)
+        if artist_names:
+            _write_list_section(f, 'artists', sorted(artist_names))
 
 def write_standalone_curiosities(standalone, out_dir):
     if not standalone: return
@@ -257,18 +259,32 @@ def main():
     if os.path.exists(RESUMENES_FOLDER):
         parse_folder(RESUMENES_FOLDER, artists, genres, labels, concerts, instruments, standalone)
 
-    # 3. Guardar con el formato exacto requerido por md_to_sqlite.py
+    # 3. Construir índice inverso: entidad → artistas que la usan
+    entity_artists = {
+        'genre':      defaultdict(set),
+        'label':      defaultdict(set),
+        'concert':    defaultdict(set),
+        'instrument': defaultdict(set),
+    }
+    for a in artists.values():
+        for g in a.genres:      entity_artists['genre'][g].add(a.name)
+        for l in a.labels:      entity_artists['label'][l].add(a.name)
+        for c in a.concerts:    entity_artists['concert'][c].add(a.name)
+        for i in a.instruments: entity_artists['instrument'][i].add(a.name)
+
+    # 4. Guardar con el formato exacto requerido por md_to_sqlite.py
     artist_dir = os.path.join(DATA_FOLDER, 'artists')
     for a in artists.values(): write_artist(a, artist_dir)
 
     for etype, store, subdir in [
-        ('genre',   genres,      'genres'),
-        ('label',   labels,      'labels'),
-        ('concert', concerts,    'concerts'),
+        ('genre',      genres,      'genres'),
+        ('label',      labels,      'labels'),
+        ('concert',    concerts,    'concerts'),
         ('instrument', instruments, 'instruments'),
     ]:
         d = os.path.join(DATA_FOLDER, subdir)
-        for e in store.values(): write_entity(etype, e, d)
+        for e in store.values():
+            write_entity(etype, e, d, artist_names=entity_artists[etype].get(e.name))
 
     write_standalone_curiosities(standalone, DATA_FOLDER)
 

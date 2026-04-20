@@ -7,3 +7,12 @@
 **Foundations in Early Electronic Music** : Electronic Dance Music (EDM) owes its roots to pioneers like Daphne Oram and Delia Derbyshire. Their early work in composing with synthetic sounds and experimental audio equipment, particularly at the BBC Radiofonc Workshop, established critical techniques and sounds that would eventually influence the development of modern EDM. "If you're into electronic music and EDM, you should know that these next two women are essential to what you'd listen to." ← https://www.youtube.com/watch?v=oRR7N-YUcRE
 **Integration into Hyperpop** : EDM elements, specifically keyboards, are a key component of Hyperpop, contributing to its exaggerated and dance-oriented sound. "So that means a lot of earwormy hooks, lots of dance beats, EDM keyboards, plenty of auto tune, and even a cartoonish feel" ← https://www.youtube.com/watch?v=tdTs-4Irv8c
 
+## artists
+- Avicii
+- Calvin Harris
+- David Guetta
+- Deadmau5
+- Skrillex
+- Sophie
+- Swedish House Mafia
+

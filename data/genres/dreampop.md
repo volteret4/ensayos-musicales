@@ -3,6 +3,7 @@
 ## curiosities
 **1980s Product Influencing Bedroom Pop** : Dreampop, a genre that emerged in the 1980s, is noted as having a definite connection to Bedroom Pop, indicating a shared aesthetic or influence on the later genre. "And there's a definite connection to both Dreampop, which was a product of the 80s" ← https://www.youtube.com/watch?v=tdTs-4Irv8c
 **21st Century Revival and Technology (2000s)** : Dreampop, and its cousin Shoegaze, experienced a significant revival in the 21st century, partly driven by technological advancements. Laptops made it easier for artists to create densely textured, studio-quality music in bedrooms using synthesizers and software, facilitating a surge of new material by the time streaming services like Spotify launched in 2008. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
+**Atmospheric and Textured Sound** : Dreampop is fundamentally defined by its emphasis on creating atmosphere and rich textures, heavily utilizing reverb and echo effects. While related to Tweetpop, it typically conveys a slightly more serious attitude and often has a greater volume. The genre encompasses artists like the Cocteau Twins and Mazzy Star, known for their quiet sounds, but can also extend into the shoegaze realm with groups such as Slowdive and My Bloody Valentine. "Dreampop is all about atmosphere and textures with lots of reverb and echo." ← https://www.youtube.com/watch?v=jhgZrwtYE2g
 **COVID-19 Influence (2020s)** : Dreampop made significant inroads in the 2020s, potentially due to the COVID-19 pandemic. Lockdown conditions encouraged many artists to create music in their bedrooms, increasing the supply of this type of music. Additionally, the genre's relaxing qualities offered a needed antidote to the stress and isolation of the time. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 **Characteristics** : Defined by atmosphere, sonic textures, and sometimes sheer volume, Dreampop maintains a melodic core. It ranges in volume from barely audible softness to extreme loudness. Its history traces back to the immersive sounds of the 1960s, like The Velvet Underground, and the "Wall of Sound" techniques of Phil Spector. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 **Characteristics and Influence** : Dreampop emerged by blending ideas from psychedelic music with intricate textures and atmospheric sounds, often achieved through electronics or studio techniques. The genre aimed for "total immersion in music," with acts like the Cocteau Twins pioneering a "dreamy, slightly stone sort of sound" and unique vocal approaches. "These groups copped ideas from psychedelic music and blended them with interesting textures and atmosphere, often using electronics or studio tricks." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
@@ -15,4 +16,34 @@
 **Overlap with Sub-genres** : Dreampop significantly touches on and overlaps with other alternative rock sub-genres, including shoegaze and modern psychedelic material. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 **UK Origins and US Expansion** : Early Dreampop was primarily confined to the UK. However, American artists and collaborators like David Lynch, Angelo Badalamenti, and Julee Cruise, and bands like Galaxie 500, soon began exploring the genre's territory. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 **Volume Continuum** : The genre's volume range is vast, spanning from "barely there softness" to an intensity "beyond a jet engine," yet it consistently retains a melodic quality. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
+
+## artists
+- AR Kane
+- Beach House
+- Belly
+- Billie Eilish
+- Chapterhouse
+- Chromatics
+- Chvrches
+- Cigarettes After Sex
+- Cocteau Twins
+- Cowboy Junkies
+- Curve
+- DIIV
+- Japanese Breakfast
+- Lush
+- M83
+- Mazzy Star
+- My Bloody Valentine
+- Pale Saints
+- Sigur Rós
+- Slowdive
+- Spiritualized
+- Still Corners
+- The Catherine Wheel
+- The Cranes
+- The Ocean Blue
+- The Sundays
+- This Mortal Coil
+- Washed Out
 

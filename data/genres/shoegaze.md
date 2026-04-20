@@ -17,3 +17,21 @@
 **Retreat Due to Grunge** : Shoegaze "retreated into the background" without ever truly disappearing, largely due to Grunge's dominance, which "pushed Shoegaze out of the way" and threatened to overwhelm the UK domestic rock scene in the early 90s. "Instead, it retreated into the background without ever really going away. Its influences can still be felt today and later bands like Silver Sun pickups." ← https://www.youtube.com/watch?v=amHre9ZZFkU
 **Shoegaze's Failure to Ignite Masses** : Shoegaze music "failed to ignite the masses" in the early 1990s, contributing to a lack of homegrown British material and allowing American alt-rock to dominate. "Shougays failed to ignite the masses." ← https://www.youtube.com/watch?v=vzyMSSlD7Yg
 
+## artists
+- A Place to Bury Strangers
+- AR Kane
+- Adorable
+- Braids
+- Chapter House
+- Curve
+- Engineers
+- Lush
+- M83
+- My Bloody Valentine
+- Ride
+- School of Seven Bells
+- Sigur Rós
+- Slowdive
+- The Catherine Wheel
+- The Pains of Being Pure at Heart
+

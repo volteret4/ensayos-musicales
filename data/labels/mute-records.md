@@ -8,3 +8,8 @@
 **Informal Artist Contracts** : Mute Records was known for its unconventional approach to artist contracts. For example, their long-standing relationship with Depeche Mode existed for years based solely on a handshake, without any formal written agreement. "They never really signed a formal contract with Mut. For years, the relationship honestly existed on nothing more than a handshake." ← https://www.youtube.com/watch?v=zB5zxycrbnY
 **John Cage "4'33"" Box Set (2019)** : In 2019, Mute Records compiled a box set featuring over 50 artists covering John Cage's silent composition, "Four Minutes and 33 Seconds," including Depeche Mode, New Order, Moby, Erasure, and Afghan Whigs. "mute records compiled a bunch of them in a box set featuring depeche mode, new order, moby, erasure, afghan wigs, and several dozen more." ← https://www.youtube.com/watch?v=72Lei7uug8c
 
+## artists
+- Daniel Miller
+- Depeche Mode
+- The Normal
+

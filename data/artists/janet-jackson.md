@@ -9,6 +9,9 @@
 ## concerts
 - Australia Concert (November)
 
+## songs
+**Scream (1995) - Most Expensive Music Video** : The music video for "Scream," a collaboration between Janet Jackson and her brother Michael, was released in 1995 and became the most expensive music clip ever shot at the time. Its total budget reached $7 million. "The most expensive clip ever shot was screened by Michael Jackson and Sister Janet, which was released in 1995." ← https://www.youtube.com/watch?v=r8AazBVoS7g
+
 ## curiosities
 **Lip-Syncing Walkout (2019)** : In November, hordes of fans left a Janet Jackson concert in Australia due to what was described as "horrible" lip-syncing. "Hordes of fans poured out of a Janet Jackson concert in Australia in November because the lip-syncing was so horrible." ← https://www.youtube.com/watch?v=72Lei7uug8c
 **Nipplegate Controversy (2004)** : During the Super Bowl halftime show on February 1, 2004, Janet Jackson was involved in a major controversy known as "Nipplegate." During the song "Rock Your Body," Justin Timberlake pulled off part of her costume, briefly revealing her right nipple to the broadcast audience for approximately four-tenths of a second. This incident sparked a heated public discussion and frustration among viewers who wanted to rewatch the moment, contributing indirectly to the creation of YouTube. "At the end of the song, Rock Your Body. Timberlake reached over and pulled off part of Jackson's costume, revealing her right nipple to the broadcast audience for approximately four tenths of a second." ← https://www.youtube.com/watch?v=7IDbqdIw3WU

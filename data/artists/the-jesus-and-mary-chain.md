@@ -7,6 +7,7 @@
 - William Reed
 
 ## genres
+- Alt Rock
 - Feedback Rock
 - Fuzz Rock
 - Guitar-based music
@@ -24,12 +25,13 @@
 - The Crow (1994)
 
 ## songs
-**Just Like Honey (1985)** : A song by The Jesus and Mary Chain, released in 1985, presented as an example of the experimental music emerging from the post-punk era. "Here's the Jesus and Marychain from 1985 with Just Like Honey." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
+**Just Like Honey (1985)** : "Just Like Honey," released by The Jesus and Mary Chain in 1985, was a single that was instrumental in establishing Creation Records as a significant force in British indie culture. "The Jesus and Mary Chain with just like honey, the single that established Creation records as a force in British indie culture in 1985." ← https://www.youtube.com/watch?v=zB5zxycrbnY
 **Kill Surf City** : This song was recorded by The Jesus and Mary Chain. "The Jesus and Mary chain, not only recorded a song called Kill Surf City, but they also covered the Beach Boys Surfing USA." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
 **Never Understand (1985)** : This single, released in March 1985, generated excitement among "the cool kids" and contributed to the anticipation surrounding The Jesus and Mary Chain's concert at North London Polytechnic College. "In March 1985, the Jesus and Marychain had a single called Never Understand, which had the cool kids pretty excited." ← https://www.youtube.com/watch?v=huAvyInzz3Q
 **Surfing USA – The Beach Boys cover** : The Jesus and Mary Chain covered The Beach Boys' classic song "Surfing USA." "but they also covered the Beach Boys Surfing USA." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
 
 ## curiosities
+**21st Century Reunion** : The Jesus and Mary Chain were mentioned as one of the alt-rock bands that reunited in the first decade of the 21st century, joining a wave of reformations that aimed to re-energize the scene and bring back older fans. "In addition, the Pixies...Jesus and Marychain...These reunions injected some life into the scene, albeit temporary life." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Comparison to AR Kane** : AR Kane was often referred to by more than one writer as "the Black Jesus and Mary Chain" due to their noisy sound in their early days, indicating a shared aesthetic with this band. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 **Early Success for Creation Records** : The release of a single by The Jesus and Mary Chain in November 1984 marked a pivotal moment for Creation Records, as its strong sales began to attract serious attention to the label. The band went on to become one of the most notorious "noisy bands" of the 1980s. "Paydard came in November 1984 when Creation released a single by the Jesus and Mary chain. Their single sold well enough that Creation started getting some serious attention." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
 **John Hughes Film Exposure (1980s)** : The Jesus and Mary Chain's music was included on the carefully selected soundtracks of John Hughes' 1980s films. These soundtracks were vital in introducing many people, particularly in North America, to a variety of alternative rock bands, especially those from the UK. "So many people learned of bands like The Specials and Spandovalet and Billy Idle and General Public and Wang Chung and Yellow and New Order and the Psychedelic Furs and the Smiths and Echo and the Bunyman, Susanne Vagan in excess the Jesus and Mary chain, Flesh for Luluo and so many others from those soundtrack albums." ← https://www.youtube.com/watch?v=zIkjd1OjCXM

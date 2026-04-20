@@ -2,6 +2,7 @@
 
 ## members
 - Clem Burke
+- Deborah Harry
 
 ## genres
 - New Wave
@@ -9,6 +10,7 @@
 - New wave
 - Pop
 - Punk
+- Punk Rock
 
 ## labels
 - Hypnosis Song Fund (as purchaser of publishing rights)
@@ -22,6 +24,8 @@
 ## curiosities
 **Clem Burke Death (2025) – Cancer Kept Secret** : Clem Burke, original drummer of Blondie, died in 2025 of cancer, which had been kept secret. He briefly played with the Ramones under the name Elvis Ramone. He also participated in an eight-year academic study on the physical and psychological effects of being a professional drummer, for which he received an honorary doctorate in music. "His cancer was kept secret." ← https://www.youtube.com/watch?v=ZPlsR7_WiZQ
 **Clem Burke – Elvis Ramone and Academic Drumming Study** : Burke briefly filled in as drummer for the Ramones under the name "Elvis Ramone." He was also the subject of an eight-year university study examining the physical and psychological demands placed on professional rock drummers, resulting in an honorary doctorate in music. "Participated in an eight-year study on the physical and psychological effects of being a professional drummer, receiving an honorary doctorate in music." ← https://www.youtube.com/watch?v=ZPlsR7_WiZQ
+**Deborah Harry Dressed by Stephen Sprouse** : New York designer Stephen Sprouse famously dressed his neighbor, Deborah Harry, the charismatic front person of Blondie. This collaboration between the rising designer and the iconic musician highlighted the close ties between fashion and music in the New York scene. "In New York, Stephen Sprouse dressed up as neighbor, Debra Harry of Blondie." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM
+**Early CBGB Scene Involvement** : Blondie was one of the bands, along with Suicide, The Talking Heads, and The Heartbreakers, that contributed to CBGB becoming the central hub for the new music scene that was developing. "CBGB was becoming the center of a new scene featuring bands with names like Blondie and Suicide and The Talking Heds and a television spin-off band called The Heartbreakers." ← https://www.youtube.com/watch?v=VYi3r0G-ne4
 **Early Punk Influence** : Blondie was an influential band in the early punk movement, contributing to the development of the new music scene alongside groups like the Ramones and the Sex Pistols. Their work helped shape the landscape for subsequent alternative and rock groups. "It started with bands like the Ramones and the Sex Pistols and Blondie." ← https://www.youtube.com/watch?v=bI6TTA-fn7c
 **Emerging Popularity** : Blondie was attracting a significant amount of attention as a new group. "For example, a group called Blondie was attracting a lot of attention." ← https://www.youtube.com/watch?v=gKrAXMG8sTc
 **Ground Zero of New York Punk** : Blondie was a major part of the "Ground Zero" of New York punk, rooted in the scene at CBGB. "Blondie, who were, of course, a major part of Ground Zero of New York punk at CBGP." ← https://www.youtube.com/watch?v=bYsV3ozbk4M

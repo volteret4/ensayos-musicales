@@ -8,6 +8,9 @@
 - Simon Jones
 - Simon Tongue
 
+## genres
+- Alt Rock
+
 ## concerts
 - Ireland
 - Lollapalooza (1992-1995 era)
@@ -32,7 +35,9 @@
 **Grammy Credit Discrepancy** : "Bittersweet Symphony" was nominated for a Grammy Award for Best Song, but the ballot controversially listed the songwriters as "Jagger Richards," reflecting the outcome of the publishing dispute rather than Richard Ashcroft's original composition. "And the ballot listed the songwriters of Bitter Sweet Symphony as Jagger Richards." ← https://www.youtube.com/watch?v=AcADOuQUiAQ
 **Guitarist's Exit Before First Breakup (1998)** : On June 7, 1998, after a show in Rysho, Dusseldorf, Germany, singer Richard Ashcroft had a physical altercation with guitarist Nick McCabe, resulting in McCabe suffering a broken hand. McCabe subsequently decided to leave the band and was replaced by session guitarist B.J. Cole for the remaining tour commitments. "Which face took a pounding and Nick ended up with a broken hand. And with that, Nick decided he was done." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
 **Influence on Sigur Rós** : The Verve is cited as an important influence for Sigur Rós, alongside dream pop acts like the Cocteau Twins and Radiohead's later work. "Dreampop, the Cocktoe twins are very important here, along with the Verve and anything Radiohead did with OK Computer and Beyond." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
+**Manchester Origin** : The Verve is included in a list of numerous artists with roots in Manchester. "Verve." ← https://www.youtube.com/watch?v=q_Scyr2czh8
 **Manchester Origins** : The Verve are listed among the numerous bands from Manchester, emphasizing the city's prolific musical output. "loads of loads of Aces, Buzcocs of Fall, James, Godly and Cream, Badly Drone Boy, Elbow, you know, John Mayl, Star Sailor-Verb, Phil Linnett, group of Manchester, Smith and you are a simply red, all his, you know, he goes on and on and this, this is bands and bands and bands, you know." ← https://www.youtube.com/watch?v=KF_adyXf86Q
+**Multiple 21st Century Reunions** : The Verve was noted for having reunited "again" in the first decade of the 21st century, highlighting their participation in the trend of alt-rock bands reforming to boost the scene's temporary vitality and re-engage former fans. "In addition, the Pixies...the Verve again...These reunions injected some life into the scene, albeit temporary life." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Post-Britpop Heroes** : The Verve emerged as new heroes for music fans after the decline of Britpop, indicating a shift in musical taste among the audience who had grown up and moved on from the Britpop era. "Their new heroes were Radiohead and the Verve and eventually Coldplay." ← https://www.youtube.com/watch?v=DSvoppf1dGY
 **Reunion for Touring** : The Verve were one of many bands from past decades that reunited in the 21st century, a trend largely motivated by financial incentives. With declining CD sales impacting artist revenues, returning to the touring circuit offered a lucrative way to appeal to nostalgic fan bases and fill large venues. "The list of reunions is long." ← https://www.youtube.com/watch?v=GYUuTbOvyak
 **Second Breakup Over Solo Career Ambitions (2008)** : The reunion was initially successful, especially regarding live performances, but it dissolved again around August 10, 2008. The breakup allegedly occurred because Nick McCabe and Simon Jones believed that Richard Ashcroft was using the reunion to re-establish his solo career, leading to a major conflict. "Why? Well, because Nick McCabe and Simon Jones allegedly believed that Richard Ashcroft was using this reunion just to get his solo career happening again." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ

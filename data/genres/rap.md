@@ -18,3 +18,21 @@
 **Vinyl Preference for Sampling (Post-CD Era)** : Rap and hip-hop performers continued to use old school records for samples and grooves, revering their historical importance and preferring vinyl for its tactile nature in mixing and scratching. "Rap and hip-hop performers. They kept going back to old school records for samples and grooves." ← https://www.youtube.com/watch?v=GES0Ms_kaCI
 **Vocal Expression Controversy** : Rappers were among the artists whose new forms of vocal expression, facilitated by microphones, generated decades of strong criticism from purists. Their singing styles were considered by some to be "degenerate forms of singing," challenging the established vocal norms of earlier generations. "R&B acts, Elvis, The Beatles, Dylan, Jagger, New Waivers, rappers all the way up to and beyond death medillars." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
 
+## artists
+- Afrika Bambaataa
+- Bakar
+- Beastie Boys
+- Biggie
+- Body Count
+- Dr. Dre
+- Dre
+- Eminem
+- Fishbone
+- Grandmaster Flash
+- Lincoln Park
+- Nelly
+- Run-D.M.C.
+- Snoop
+- Tupac
+- Yazan
+

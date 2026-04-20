@@ -6,3 +6,6 @@
 **Rejection of First Album Mix** : Elektra Records rejected the initial mix of The Stooges' self-titled debut album. The label president, Jack Holtzman, personally stepped in to remix the record before its release. "The first mix was rejected by the record label. The lecture president, Jack Holtzman, came in to do it himself." ← https://www.youtube.com/watch?v=w-rihv544I8
 **Signing of The Stooges** : Elektra Records, through talent scout Danny Fields, signed The Stooges despite the label's bosses being "absolutely stupified" by the band's unconventional sound. Fields was known for signing influential hippie bands like The Doors. "He, for example, was the guy who signed the doors. While in Detroit, to check out another bank called the MC5, Danny heard about the stuages. And even though his bosses were absolutely stupified by them, they agreed to sign the band." ← https://www.youtube.com/watch?v=w-rihv544I8
 
+## artists
+- The Stooges
+

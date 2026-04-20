@@ -12,6 +12,7 @@
 **Brothers in Arms (1985) – First CD to Sell a Million Copies** : This album, noted for its beautiful recording, became the first compact disc to sell a million copies by 1986. Philips, a key developer of CD technology, sponsored Dire Straits' tour in support of this digitally recorded album, with leader Mark Knopfler appearing in a TV commercial extolling the CD's virtues. "Dire Straits, Brothers and Arms album, a beautifully recorded album, became the first CD to sell a million copies." ← https://www.youtube.com/watch?v=BHkJFA0LMro
 
 ## songs
+**Brothers in Arms (1985)** : In 1985, a CD single for this Dire Straits song was reportedly the first ever CD single, though it was primarily a promotional item and not intended for general commercial sale. "the first ever CD single was for the Dyer Straight Song Brothers and Arms in 1985, but it wasn't designed for general sale. It was mostly a promo item." ← https://www.youtube.com/watch?v=QBCEmZ4Jheo
 **Money for Nothing (1985)** : This song was rated very low by students who scored high on the psychopathy scale in a New York University study. The research explored musical preferences among individuals with psychopathic tendencies, finding this track unpopular with that group. "These same people rated songs like Money for Nothing by Dire Straits, and the next My Shirona really low, same thing with classical music they didn't like it." ← https://www.youtube.com/watch?v=aSk1XQHNkd8
 
 ## curiosities

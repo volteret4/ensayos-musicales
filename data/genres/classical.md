@@ -13,3 +13,19 @@
 **Shift from LP Domain (1960s)** : By the 1960s, LPs were no longer exclusively the domain of serious music like classical, as rock and pop music began to be collected on albums. "LPs were no longer the domain of good or serious music like classical or jazz or movie soundtracks." ← https://www.youtube.com/watch?v=GES0Ms_kaCI
 **Traditional Album Format** : Before 1965, albums were primarily reserved for "proper music" like classical recordings, jazz, soundtracks, and Broadway cast recordings, distinguishing them from the singles-driven pop and rock and roll markets. ← https://www.youtube.com/watch?v=eqTFinLk3oU
 
+## artists
+- Béla Bartók
+- Claude Debussy
+- Fiona Apple
+- Franz Liszt
+- Jean Sibelius
+- Kate Bush
+- Lenny Kravitz
+- Ludwig van Beethoven
+- Moondog
+- Richard Wagner
+- Rodrigo y Gabriela
+- Tori Amos
+- Vangelis
+- Wendy Carlos
+

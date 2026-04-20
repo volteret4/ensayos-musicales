@@ -20,3 +20,21 @@
 **Successor to Grunge (Late 1990s)** : After the original grunge bands died off and the genre's popularity waned in the late 1990s, New Metal emerged as a replacement, albeit described as "Dreck-like." ← https://www.youtube.com/watch?v=eqTFinLk3oU
 **Woodstock 99 Lineup and Crowd Demeanor** : The lineup for Woodstock 99 was heavily populated with "intense and angry new metal bands," including Limp Bizkit, Korn, Kid Rock, Rage Against the Machine, and Metallica. This concentration of aggressive music was cited as contributing to an atmosphere of "male rage and testosterone" among the 200,000 attendees, fostering the frustration and negative energy that escalated into widespread hatred and violence. "Added in the fact that the lineup was filled with intense and angry new metal bands, LeBiscuit corn, kid rocked, kid rocked, rage guns, the machine, Metallica, tons of mail rage and testosterone." ← https://www.youtube.com/watch?v=Pgchw2h87aw
 
+## artists
+- 3Days Grace
+- Corn
+- Disturbed
+- Evanescence
+- Incubus
+- Korn
+- Limp Biscuit
+- Limp Bizkit
+- Lincoln Park
+- Linkin Park
+- Lip knots
+- Mudvayne
+- Orgy
+- Papa Roach
+- Puddle of Mud
+- System of a Down
+

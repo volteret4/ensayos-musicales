@@ -13,6 +13,7 @@
 - Foo Fighters
 
 ## genres
+- Alternative Rock
 - Classic Rock
 - DC Hardcore
 - Punk Rock
@@ -136,4 +137,5 @@
 **Taking Over Drumming Duties – Freak Baby** : Dave Grohl's full-time transition to drums came when he was a member of the band Freak Baby. The original drummer was performing so poorly that Grohl decided to take over the drumming responsibilities himself. "Because when he was in a band called Freak Baby the drummer was so bad that Dave just kind of took over." ← https://www.youtube.com/watch?v=gsSTJWN6cUo
 **Transition to Drums (1985)** : Around his 16th birthday in January 1985, as Freak Baby evolved into Mission Impossible, Dave Grohl transitioned from guitar to playing the drums. "By this time, David moved to Drums, and this is where we finally get to Dave's earliest recordings that we can find." ← https://www.youtube.com/watch?v=8ynrwaUi-sA
 **UFO and Science Fiction Fascination** : Dave Grohl has had a lifelong fascination with UFOs and science fiction, dating back to his childhood. He would lie in his front yard waiting for UFOs, had "crazy UFO dreams," and loved science fiction toys and action figures. This interest influenced his choice of the name "Foo Fighters" for his band and "Roswell Records" for his label, both referencing UFO phenomena. "Well, for a long time, since I was a kid, I'd always been really fascinated with UFOs." ← https://www.youtube.com/watch?v=_AY5lS-FmlU
+**Wearing Prada Boosted Sales** : Dave Grohl's decision to wear Prada products helped boost the luxury brand's fortunes within specific market segments. His public appearances wearing Prada caught the attention of young people who follow celebrity fashion trends. "Later, Prada, so their fortunes rise in certain segments after guys like Beck and Dave Grohl started wearing their stuff." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM
 

@@ -8,3 +8,14 @@
 **Sex Pistols Signing (1977)** : In 1977, after EMI and A&M Records dropped the Sex Pistols due to their controversial nature, Richard Branson seized the opportunity to sign them. This "smart move" capitalized on the punk explosion and led to a string of New Wave and Post-Punk hits for Virgin. "Branson though saw an opportunity and signed them up. Smart move." ← https://www.youtube.com/watch?v=dDcD8kg0wEk
 **Transition to Record Label (Post-Distribution)** : Initially, Virgin distributed imports for other labels rather than signing artists directly. Later, Branson and his partners decided to establish their own label. "The company didn't sign any artist directly, what they did was distribute imports for other labels. But after a while, why not start a new label?" ← https://www.youtube.com/watch?v=dDcD8kg0wEk
 
+## artists
+- Culture Club
+- Genesis
+- Human League
+- Lenny Kravitz
+- Mike Oldfield
+- Sex Pistols
+- Simple Minds
+- Smashing Pumpkins
+- XTC
+

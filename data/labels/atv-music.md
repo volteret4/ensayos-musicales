@@ -8,3 +8,6 @@
 **Sale of Catalog to Michael Jackson (1985)** : In 1985, ATV Music, holding 4,000 songs including 250 by The Beatles and tracks by The Rolling Stones, Elvis, and Bruce Springsteen, was sold to Michael Jackson for $47.5 million. "In 1985, ATV Music, that company with the Beatles publishing, went up for sale. Four thousand songs, including 250 from the Beatles, which is pretty much everything they ever wrote, as well as tracks by the Rolling Stones, Elvis and Bruce Springsteen. Jackson then outbid McCartney, paying $47.5 million for this catalog." ← https://www.youtube.com/watch?v=Pe40SqDrpZ0
 **Sony Acquires Larger Share Option (2006)** : Sony retained an option to buy an additional 50% of Jackson's remaining share in ATV Music in 2006, which would have resulted in Sony owning 75% of The Beatles' publishing, with the catalog valued at $1 billion at that time. "In 2006, Jacko was having more financial issues, so Sony retained an option to buy 50% of Jackson's remaining share. So that means Sony would own 75% of the Beatles publishing. And at that point, the catalog was valued at about $1 billion." ← https://www.youtube.com/watch?v=Pe40SqDrpZ0
 
+## artists
+- The Beatles
+

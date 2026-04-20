@@ -8,3 +8,16 @@
 **Subgenre of New Wave** : As the New Wave genre expanded and diversified, synthpop became one of its defined subgenres. "Synthpop had its own section." ← https://www.youtube.com/watch?v=9CNNsqXiL6U
 **Trent Reznor's Early Aspiration** : Trent Reznor was profoundly inspired by synth-pop bands like The Human League, OMD, and Depeche Mode, finding their synthesizers and drum machines "really cool," to the extent that he once considered a job working for a company that made them. His band Option 30 also worked to avoid being "too polisish" or "too heavily towards synth pop," despite its influence. "But the synthesizers and drum machines of the human league and OMD and Depeche mode. Now that was really cool." ← https://www.youtube.com/watch?v=M3nUQtja0qc
 
+## artists
+- 'Til Tuesday
+- ABC
+- Cabaret Voltaire
+- Chromatics
+- Depeche Mode
+- Heaven's 17
+- OMD
+- Option 30
+- The Human League
+- Thomas Dolby
+- Trent Reznor
+

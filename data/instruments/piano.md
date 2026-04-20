@@ -14,3 +14,30 @@
 **Role in Smaller Combos Post-WWII** : During World War II, as big dance bands were stripped of members due to drafting and economic constraints, smaller combos of three to five players emerged. The piano often played a key role in these groups, particularly in the development of bebop jazz in the 1940s. "During World War II, the big dance bands of the era were stripped of their members as many were drafted, maintaining a group of ten or twelve or more members became too expensive. And the big bands gave way to smaller combos of three, four or five players. In the 1940s, a form of jazz based on the abilities of the combo called the bebop developed, and such groups often had a piano player." ← https://www.youtube.com/watch?v=dJiSZ4X0F2g
 **Traditional Keyboard in Rock** : The piano was identified as a traditional keyboard instrument commonly used in rock music for an extended period, contributing to the genre's foundational sounds. "For the longest time, the sounds of rock were made with voice guitars, bass, drums and keyboards like piano and organ." ← https://www.youtube.com/watch?v=5PJRCC6EwUY
 
+## artists
+- Andrew McMahon
+- Anthony Carone
+- Arkells
+- Ben Folds
+- Billy Talent
+- Butch Vig
+- Chris Martin
+- Chuck Leavell
+- David Bowie
+- Fiona Apple
+- Garth Hudson
+- Imagine Dragons
+- Jackie Brenston and his Delta Cats
+- Joni Mitchell
+- Kate Bush
+- Keane
+- Mary Guibert
+- Matt Bellamy
+- Pinedop Smith
+- Ray Davies
+- Tim Rice-Oxley
+- Topper Headon
+- Tori Amos
+- Trent Reznor
+- Weezer
+

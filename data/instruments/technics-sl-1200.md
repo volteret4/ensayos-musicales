@@ -6,3 +6,6 @@
 **Indestructible Turntable for DJs** : The Technics SL-1200 turntable, even a 2010 model, is renowned for its durability and is considered "pretty much indestructible," especially by those who have deejayed in clubs. Many expect it to be the last turntable they would ever need to purchase due to its robust construction. "This turntable is pretty much indestructible. If you've ever deejated a club, you'll know what I'm talking about." ← https://www.youtube.com/watch?v=VlIErdSSVOM
 **Production Halt and Revival** : Technics manufactured the SL-1200 in large quantities until 2010, when they ceased production, deeming it no longer cost-effective. However, the subsequent resurgence of vinyl records led to a dramatic increase in prices for used 1200s, prompting Technics to reintroduce the model in 2016, though at a significantly higher cost—two to three times its original price. "Techniques cranked them out by the thousands until 2010, when they decided that it was just too much trouble, and the return on investment just wasn't worth it." ← https://www.youtube.com/watch?v=IIJySSo276k
 
+## artists
+- Fatboy Slim
+

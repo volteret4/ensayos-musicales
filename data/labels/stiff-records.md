@@ -8,3 +8,11 @@
 **Promoter of DIY Punk** : Stiff Records was instrumental in promoting the "do it yourself" (DIY) punk ethos during the genre's formative years. "perhaps the most important label when it came to pushing DIY punk, do it yourself punk, in the infancy of that music." ← https://www.youtube.com/watch?v=dDcD8kg0wEk
 **Sale to Island Records (1983)** : Due to financial difficulties and mismanagement, Stiff Records was sold off by 1983, with Island Records acquiring it. "Stiff was terrible at conducting business. They were irresponsible and they bled money and were sold off by 1983. And the buyer? Another indie. Island Records." ← https://www.youtube.com/watch?v=dDcD8kg0wEk
 
+## artists
+- Elvis Costello
+- Madness
+- Motörhead
+- The Damned
+- The Pogues
+- The Pointed Sticks
+

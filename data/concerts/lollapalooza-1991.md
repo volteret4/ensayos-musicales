@@ -6,3 +6,18 @@
 **First Ever Tour Featuring Diverse Acts** : The 1991 Lollapalooza tour was the inaugural event of the festival, featuring diverse artists such as Living Color and Body Count as main stage performers. "first ever La La Palusatour in 1991." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 **Modest Success and Unsold Tickets** : Despite its significant lineup, the inaugural Lollapalooza in 1991 was only a modest success, with "many, many, many unsold tickets." However, the fact that "upwards of 20,000 people paid to see all these decidedly non-mainstream bands" was enough to convince promoters to stage the festival again. ← https://www.youtube.com/watch?v=eqTFinLk3oU
 
+## artists
+- Body Count
+- Butthole Surfers
+- Ice-T & Body Count
+- Ice-T and Body Count
+- Jane's Addiction
+- Living Color
+- Living Colour
+- Nine Inch Nails
+- Nine-inch Nails
+- Rage Against the Machine
+- Rollins Band
+- Siouxsie and the Banshees
+- Trent Reznor
+

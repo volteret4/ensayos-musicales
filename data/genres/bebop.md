@@ -5,3 +5,11 @@
 **Rise in the 1940s** : Following the decline of big bands in the 1940s, bebop became a genre that young people gravitated towards, alongside R&B, the blues, and country western. This marked a generational shift in musical preference, moving away from older styles. ← https://www.youtube.com/watch?v=m7MbV-eCLyE
 **Role in Big Band Decline** : The rise of bebop, with its complex and un-danceable nature, appealed to musicians seeking artistic freedom and challenge, and its pioneers like Charlie Parker and Miles Davis contributed to the decline of the more commercially focused big bands. "Their work helped put the nail in the coffin of the big bands." ← https://www.youtube.com/watch?v=V7WjNR1ujhk
 
+## artists
+- Charlie Parker
+- Dexter Gordon
+- Dizzy Gillespie
+- Miles Davis
+- Sonny Rollins
+- Thelonius Monk
+

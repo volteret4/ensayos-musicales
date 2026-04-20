@@ -5,3 +5,13 @@
 **Timing with Alt Revolution Peak** : The soundtrack was released just as the "alternative revolution of the early 1990s was starting to peak," positioning it at a significant moment in music history. "That Judgment Night soundtrack appeared just as the alternative revolution of the early 1990s was starting to peak." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
 **Wall-Breaking and Genre-Breaching** : The "Judgment Night" soundtrack was highly influential, lauded for having "tore down a lot of musical walls and breached plenty of genre barriers." "That record tore down a lot of musical walls and breached plenty of genre barriers." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
 
+## artists
+- Boo-Yaa T.R.I.B.E.
+- Cypress Hill
+- Del the Funky Homosapien
+- Dinosaur Jr.
+- Faith No More
+- Ice-T
+- Pearl Jam
+- Slayer
+

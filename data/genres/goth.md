@@ -20,3 +20,28 @@
 **Theater of Hate as an Example** : The band Theater of Hate is cited as an example of a goth band. "Steve Guthrie was a member of a Gothband called Theater of Hate." ← https://www.youtube.com/watch?v=QfiRRtsZoYU
 **UK Origin** : A significant portion of this early Goth music originated from the UK. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 
+## artists
+- 45 Grave
+- Alien Sex Fiend
+- Bauhaus
+- Casey Chaos
+- Christian Death
+- David Bowie
+- Joy Division
+- Marilyn Manson
+- Ministry
+- Nine Inch Nails
+- Rage Against the Machine
+- Sex Gang Children
+- Siouxsie and the Banshees
+- Sisters of Mercy
+- Skinny Puppy
+- Southern Death Cult
+- The Cure
+- The Dance Society
+- The March Violets
+- The Sisters of Mercy
+- Theater of Hate
+- Type O Negative
+- Zimax
+

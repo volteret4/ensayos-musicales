@@ -6,3 +6,8 @@
 **The Space Lady's Early Instrument** : The Space Lady (Susan Dietrich) initially played the accordion as a street musician before transitioning to a synthesizer in the 1980s. "She played the accordion." ← https://www.youtube.com/watch?v=HcK4M7-02ik
 **Unexpected Use in Rock Music** : The accordion was notably played by Sheryl Crow as a guest musician on Scott Weiland's solo album, 12 Bar Blues. Its inclusion was considered unusual and interesting for a rock record, diverging from what would typically be heard in Weiland's band, Stone Temple Pilots. "She was brought in to play of all things the accordion. This wasn't STP, but I'm sure as hell was interesting." ← https://www.youtube.com/watch?v=-f9jhqAHkQo
 
+## artists
+- Mumford & Sons
+- The Space Lady
+- They Might Be Giants
+

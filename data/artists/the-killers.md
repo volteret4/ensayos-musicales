@@ -15,6 +15,7 @@
 - Indie Band
 - Indie Rock
 - New Wave
+- New Wave Revival
 
 ## labels
 - Eldridge Industries (as purchaser of publishing rights)
@@ -77,6 +78,7 @@
 **Emerging Big Band (2000s)** : The Killers are identified as one of the "soon-to-be-big bands" that appeared in the early 2000s, coinciding with a period of renewed public interest in new and exciting music. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 **Grammy Nomination for Springsteen-influenced Song** : An unnamed song from "Sam's Town," heavily influenced by Bruce Springsteen's "Born to Run," received a Grammy nomination in the category of Best Rock Song. "The result was a single that was nominated for a Grammy in the category of Best Rock Song." ← https://www.youtube.com/watch?v=2EerEOuP52I
 **Indie Rock Revival Post 9/11** : The Killers were part of the indie rock revival that saw rock's popularity begin to rise again in the wake of the 9/11 attacks and subsequent American military interventions in Iraq and Afghanistan. "I don't think the strokes and the A.A.S and the white stripes and the killers." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
+**Influence from Interpol** : The Killers were identified as one of the "likeminded groups" that experienced an immediate influence from Interpol's debut record, "Turn on the Bright Lights," released in 2002. "There was a little Interpol in everyone from the killers to the XX." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Influence from The Strokes** : After hearing The Strokes' debut album "Is This It," a young band from Las Vegas called The Killers reportedly became "depressed." They subsequently discarded all their ongoing work and "started from scratch," with only one song, "Mr. Brightside," surviving this creative overhaul. The influence of The Strokes can be heard in the construction and recording of that song. "A young band from Las Vegas called the Killers, heard the album, got depressed, and then throughout everything that they were doing and started from scratch." ← https://www.youtube.com/watch?v=jEfofyobGiI
 **Influence of David Bowie** : The Killers' sound and vision contain "bits of Bowie DNA," indicating a clear influence from David Bowie's work. "Nirvana, the sex pistols, the food fighters, nine inch nails, REM smashing pumpkins, the killers, Scott Wyland, Coldplay. They all have bits of Bowie DNA in their sound and vision." ← https://www.youtube.com/watch?v=Yl2poVWguu0
 **Influence on The Struts** : The Killers were cited as one of the influences on the British band The Struts, along with Queen, Aerosmith, Oasis, and The Rolling Stones. This reflects a trend of new young bands drawing inspiration from old school classic rock and iconic acts. "A British band brought up on Queen, Aerosmith Oasis, the killers and the Rolling Stones." ← https://www.youtube.com/watch?v=HSvgRyGiOpE

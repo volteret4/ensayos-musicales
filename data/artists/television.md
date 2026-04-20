@@ -5,12 +5,22 @@
 - Richard Lloyd
 - Tom Verlaine
 
+## genres
+- Art rock
+- Post-punk
+- Punk
+
 ## concerts
 - CBGB
 
 ## curiosities
 **Artsy Style** : Television's sound was considerably more artistic and experimental compared to the louder, faster punk bands like the Ramones. "But not all of New York punk was loud and fast. Maybe you'd catch a set by television, which of course was a lot more artsy." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
+**CBGB Debut (March 31, 1974)** : Tom Verlaine and Richard Hell approached Hilly Crystal in March 1974 about playing at CBGB. Hilly, believing they were into country, bluegrass, or blues, offered them Sunday nights for a $1 cover. Television played their first gig on March 31, 1974, marking the beginning of CBGB's "real era" as a rock venue. "Still, on March 31, 1974, television played their first gig, and their real era of CBGB had begun." ← https://www.youtube.com/watch?v=VYi3r0G-ne4
+**CBGB Residency and Scene Growth** : Television's Sunday night residency quickly became one of the best nights at CBGB, drawing the crowd that had been displaced by the collapse of the Mercer Arts Center. This growing interest led Hilly Crystal to institute a rock-only policy within a few months of Television's debut, signifying the club's transformation into a hub for the new scene. "That Sunday night residency became one of the best nights of the week for CBGB, the crowd that had been displaced by the collapse of the Mercer Arts Center reconvened there." ← https://www.youtube.com/watch?v=VYi3r0G-ne4
 **CBGB Scene Originators (March 1974)** : This New York group is credited with initiating a significant music scene at CBGB, a club located in the crime-ridden Bowery area of New York. Their early performances began around March 1974. "The New York group that can be credited with getting some kind of scene started at CBGB down the bowry." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
+**Embraced by New York Avant-garde** : Television was recognized as an "artsy soulmate" for other experimental New York artists like Patti Smith, and their music was embraced when bands like Pere Ubu brought their Cleveland sound to New York. "When Ubu brought this music to New York, home of artsy soulmates like television and Patsy Smith, they were embraced." ← https://www.youtube.com/watch?v=VYi3r0G-ne4
+**Formation and Early Style** : Tom Verlaine and Richard Hell, formerly of The Neon Boys, regrouped under the name Television and were pioneers of a "new type of unusual rock and roll" in New York. "They were refugees from a band called the Neon Boys, who had just regrouped under the name Television. They were into a new type of unusual rock and roll." ← https://www.youtube.com/watch?v=VYi3r0G-ne4
+**Influence on Interpol** : Interpol was immediately compared to Television upon their formation in 1997, indicating a clear stylistic or atmospheric connection to the earlier band's post-punk sound. "They had come together in New York in 1997 and were immediately compared to bands we'd been around 20 years earlier, Joy Division, Television, even the Doors and Lou Reed." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Manager at Ramones' Debut** : The manager of Television was present at CBGB on August 16, 1974, when the Ramones played their first gig to a tiny audience. "The manager of another band called Television, an artist from the neighborhood who had moved up from Chihuahua, Mexico, and a scene-ster named Ligs McNeil." ← https://www.youtube.com/watch?v=j8uk7BnbXwU
 **Pioneering Performances at CBGB (1973)** : In December 1973, band members Richard Hell, Richard Lloyd, and Tom Verlaine approached Hilly Crystal, owner of a bar named CBGBOMFUG, and secured a Sunday night slot for their band, Television, to perform for an admission fee of $1. After a challenging beginning, their performances at CBGB, combined with the earlier collapse of the Mercer Art Center, helped establish the club as the epicenter for New York's burgeoning punk rock scene. "Marina Half Weeks later, television played their first ever rock night at CBGB. And admission was $1." ← https://www.youtube.com/watch?v=MTDY6qT11Dc
 **Presence in CBGB Scene** : Television was one of the many groups that were integral to the punk rock scene that developed at CBGB in the 1970s. "The Ramones, the talking heads, blondie, television, and so many hundreds of other groups turned this dive bar into a scene." ← https://www.youtube.com/watch?v=Epz5Sn151bk

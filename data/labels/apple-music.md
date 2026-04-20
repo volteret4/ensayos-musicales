@@ -6,3 +6,6 @@
 **Ownership by Apple** : Apple Music operates as a subsidiary of the larger Apple corporation. "Apple music is owned by Apple." ← https://www.youtube.com/watch?v=Sc9HApnyBLM
 **User Spike during COVID-19** : During the COVID-19 lockdowns, when people were confined to their homes, Apple Music experienced a significant surge in user engagement as individuals increasingly turned to streaming services for entertainment and connection. "Spotify, Apple Music, and YouTube saw big spikes in users." ← https://www.youtube.com/watch?v=nX8uAFDzDYM
 
+## artists
+- Paula Toledo
+

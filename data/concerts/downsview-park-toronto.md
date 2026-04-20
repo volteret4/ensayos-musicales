@@ -10,3 +10,6 @@
 **Proximity of Band to Collapse** : Due to unforeseen delays in the production schedule, Radiohead narrowly avoided being on stage during the collapse; had things been running on time, the band would have been sound-checking when the structure failed. "Had things been on time, Radiohead would have been sound checking at the time of the collapse." ← https://www.youtube.com/watch?v=vt6DVj7S6nk
 **Victim's Father's Expertise** : Ken Johnson, the father of the deceased drum tech Scott Johnson, works for Britain's National Access and Scaffolding Confederation and serves on its health and safety and technical committees. Given his professional background, he "has no doubt why the accident happened." "Ken Johnson, Scott's father, works for Britain's national access and scaffolding confederation, and sits on their health and safety and technical committees. He has no doubt why the accident happened." ← https://www.youtube.com/watch?v=vt6DVj7S6nk
 
+## artists
+- Radiohead
+

@@ -6,3 +6,7 @@
 **Popularity during Hawaiian Craze (Early 1900s)** : Following the United States' annexation of the Kingdom of Hawaii in 1893, a craze for "all things Hawaiian" swept the American mainland. This cultural trend included the ukulele, which saw a surge in popularity. "This included the ukulele, and something called the Spanish guitar, which had been introduced to Hawaii by Spanish and Mexican sailors before the annexation." ← https://www.youtube.com/watch?v=V7WjNR1ujhk
 **Prominence in 2010s Alt Rock** : Ukuleles were prominently featured in the music of a new generation of individual singer-songwriters, duos, or small combos in the 2010s, particularly in the softer side of alt rock. "What kind of music was big? Well, acoustic guitars, mandalins, banjos, ukulele's, accordions, played by a new generation of individual singer-songwriters, duos, or small combos." ← https://www.youtube.com/watch?v=sOU54d8mr5k
 
+## artists
+- Billie Eilish
+- Mumford & Sons
+

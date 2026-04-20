@@ -6,3 +6,13 @@
 **Notable Bands** : Besides MXPX, P.O.D. once recorded for Tooth and Nail. Other bands associated with the label include The Juliana Theory, Zao, Starflyer 59, Further Seems Forever, Mae, and Anberlin. "POD, once recorded for them." ← https://www.youtube.com/watch?v=g-tBn8dsSqw
 **Supporting Heavy Christian Music** : The label's purpose was to allow these bands to create the music they desired without pressure to convert non-believers or appease concerned parents. "Tooth and Nail allowed the bands to make the music they wanted with no attempt to either A, convert non-believers or B, please frighten to parents." ← https://www.youtube.com/watch?v=g-tBn8dsSqw
 
+## artists
+- Anberlin
+- Further Seems Forever
+- MXPX
+- Mae
+- P.O.D.
+- Starflyer 59
+- The Juliana Theory
+- Zao
+

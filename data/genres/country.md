@@ -1,7 +1,9 @@
 # genre - Country
 
 ## curiosities
+**1950s Classification** : Country was one of only four main classifications for music in the 1950s, alongside rock, pop, and R&B, illustrating the much simpler genre landscape of that era compared to contemporary music. "In the 1950s, you had rock, pop, country, and R&B. Most everything that was released back then could be classified under one of those four headings." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Broad Genre Stocked in Early Stores** : Country music was part of the diverse genre selection that early record retailers were obliged to stock, ensuring a variety of options for their clientele alongside rock, pop, and instrumental music. "They had to stock a wide range of genres, rock, pop, country, and plenty of those instrumental albums that were supposed to be good for moon music for older people." ← https://www.youtube.com/watch?v=jD1dWxNLvfE
+**CBGB's Original Music Policy** : When Hilly Crystal bought the club that would become CBGB, he initially named it to reflect his music policy, which included country, bluegrass, and blues, among "other music for uplifting gourmandizers." "He named it after his music policy, the kinds of acts he would book, country, blue grass and blues and other music for uplifting gourmandizers." ← https://www.youtube.com/watch?v=VYi3r0G-ne4
 **Component of Indie Folk** : Country music is identified as one of the genres that came together in Indie Folk, contributing to its rootsy and acoustic characteristics. "This is a corner of alt rock where folk, blues, gospel, and even a little country came together." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
 **Early Radio Exposure (1940s)** : During a schism between musicians unions, music publishers, and broadcasters in the 1940s, radio stations, unable to play music from established ASCAP artists, began gravitating to country music, leading to increased public exposure and popularity. "This meant more country and folk and hillbilly and R&B were heard on the radio." ← https://www.youtube.com/watch?v=GES0Ms_kaCI
 **Foundational Element** : Country music was a key component, along with the blues and R&B, that blended to create the new music style that appealed to post-war teenagers on emerging radio stations in the 1950s. "played music derived from a mix of the blues, country and R&B." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
@@ -13,4 +15,19 @@
 **Pre-1978 Categorization** : Country music was one of the four principal genres of popular music before 1978, each with its own flavor, allowing for easy categorization. "Before 1978, things were fairly simple...We had rock, we had pop, we had country, we had R&B." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
 **RCA's Green Vinyl Coding** : In an attempt to color-code records by genre, RCA designated green vinyl for country music releases. This system was part of the initial launch of the 7-inch single but did not last long. "Country was green." ← https://www.youtube.com/watch?v=VlIErdSSVOM
 **Radio Format Alternative** : In January 1993, a radio station considered flipping to a country music format, which was a "real possibility." However, new management ultimately decided to double down on an alternative format instead, after observing the rise of grunge and Lollapalooza. "Instead of flipping the station to country, which had been a real possibility, they looked around and saw that Grunge was happening." ← https://www.youtube.com/watch?v=bI6TTA-fn7c
+
+## artists
+- Eddie Arnold
+- GG Allin
+- Hassel Adkins
+- Jason Aldean
+- John Denver
+- Kid Rock
+- Les Paul
+- Patsy Cline
+- Susan Aglukark (Aglukark)
+- The Strumbellas
+- The Surley Young Bucks
+- The White Stripes
+- Wanda Jackson
 

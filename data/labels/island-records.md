@@ -13,3 +13,16 @@
 **Move to England & Diversification (1962)** : Although the company was based in the United States after 1962, Chris Blackwell moved back to England that same year and began signing local acts. This expanded Island's roster to include British groups like the Spencer Davis Group, Roxy Music, King Crimson, and Traffic. "That same year, Blackwell moved back to England where he started signing local acts, the Spencer Davis group, Roxy Music, King Crimson, Traffic." ← https://www.youtube.com/watch?v=dDcD8kg0wEk
 **Multimedia Collaboration with Philips Media** : Island Records partnered with Philips Media to announce "Doors and Windows," a CDI (Compact Disc Interactive) disc by The Cranberries. This release was heralded as a technological breakthrough in multimedia entertainment, offering an interactive look at the band alongside music content. "Island Records and Philips Media announced a technological breakthrough in multimedia entertainment. Doors and Windows, an intimate, interactive look at one of the most successful new groups in music today." ← https://www.youtube.com/watch?v=BHkJFA0LMro
 
+## artists
+- Bob Marley and the Wailers
+- Bono
+- Chris Blackwell
+- Crenbury's
+- King Crimson
+- Millie Small
+- My Bloody Valentine
+- Roxy Music
+- Spencer Davis Group
+- Traffic
+- U2
+

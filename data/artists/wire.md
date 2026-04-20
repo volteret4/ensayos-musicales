@@ -5,7 +5,7 @@
 - Post-Punk
 
 ## songs
-**Three Girl Rumba (1977)** : Released in 1977, this track's melody was deliberately "nicked" by Justine Frischmann for Elastica's 1994 song "Connection." Due to Frischmann's admission, a lawsuit was avoided, but Elastica was ordered to "surrender a certain amount of the royalties from that first album to Wire." "This is Wire, with a track called Three Girl Rumba that came out in 1977." ← https://www.youtube.com/watch?v=rfObVld9rIE
+**Three Girl Rumba (1977)** : This 1977 track was later found to have significant similarities with Elastica's 1994 song "Connection." Elastica's leader, Justine Frieshmund, admired Wire and openly admitted to "nicking" parts of "Three Girl Rumba" for her band's song. "The name of that song is Three Girl Rumbaw from Wire, 1977." ← https://www.youtube.com/watch?v=L09R2evjyMc
 
 ## curiosities
 **Influence on "New Wave of New Wave"** : Wire was a significant inspiration for groups associated with the "new wave of new wave" movement in the early 1990s, who mined material from the 1977-1980 period. "They were wild about groups like Wire." ← https://www.youtube.com/watch?v=9CNNsqXiL6U

@@ -6,6 +6,8 @@
 **Definition and Origins** : "Indie" music is defined by artists who operate independently from major record labels, often self-producing or even launching their own labels. This movement saw early examples like the Buzzcocks and was fostered by small independent labels working outside the major system. "Now indie, as far as we're concerned, means artists who have done everything on their own with no help, that is independent from one of the big established record labels." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 **Digital World's Influence** : The Indie Rock Revival of the early 2000s served as one of the earliest and most prominent examples of how the nascent "new digital world" could effectively generate and sustain a novel musical movement. The ease of illegal file-sharing platforms like Napster enabled listeners to effortlessly discover and access new bands, circumventing traditional record store searches and contributing to the genre's organic rise and widespread appeal. "The indie rock revival was one of the very first examples of how the new digital world could produce and sustain a brand new musical movement and trend." ← https://www.youtube.com/watch?v=xid8CZf4oYo
 **Early 2000s Revival** : The early 2000s witnessed a significant "Indie Rock Revival," a broad cultural movement spanning North America and parts of Europe that brought about a resurgence of "stripped down guitar-based rock." This movement was crucial because, by the end of the 1990s, guitar rock was widely considered "dead," with electronica predicted to dominate music. Bands, many originating from New York (The Strokes, Yeah Yeah Yeahs, Interpol, TV on the Radio), Detroit (The White Stripes), Sweden (The Hives), England (The Libertines), and Scotland (Franz Ferdinand), spearheaded this revival, initially operating underground before their music gained traction on radio, TV, films, and commercials, and at festivals like Coachella and Glastonbury. "This was important because at the end of the 1990s, it did look like guitar rock was dead. It was all about electronica." ← https://www.youtube.com/watch?v=xid8CZf4oYo
+**Early 2000s Revival Wave** : Sum 41 also positioned itself at the beginning of the indie rock revival in the early 2000s, capitalizing on this burgeoning scene to achieve rapid international recognition. "in the beginning of this whole indie rock revival in the early 2000." ← https://www.youtube.com/watch?v=6L4xKBFEYkE
+**Early Classic - Pere Ubu's "Final Solution"** : Pere Ubu's 1976 song "Final Solution," the third song they ever recorded, became recognized as an "indie rock classic," showcasing their self-produced and experimental approach to music. "This has become something of an indie rock classic." ← https://www.youtube.com/watch?v=VYi3r0G-ne4
 **Engine of Change** : Indie rock is described as the engine of change for rock and roll, where all forthcoming sounds, trends, and fads originate. Its work and art drag listeners into the future. "The indie universe is the engine of change for rock and roll. Whatever sounds and trends and fads are coming next start here." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
 **Equivalence to Alternative Music** : By the mid-1980s, indie music in the UK was pushing its weight around and for all intents and purposes was considered the same as what was called alternative music in North America. "By the middle 80s, indie music, which for all intents and purposes was the same as what we would call alternative music here in North America, was really pushing its weight around." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
 **Explosion in Post-Grunge Era** : After a period where the grunge "well basically went dry" in the late 1990s, indie rock has "exploded" as alt-rock radio has moved away from its heavy reliance on grunge guitars. This has led to a much greater variety of sounds in alt-rock today. ← https://www.youtube.com/watch?v=eqTFinLk3oU
@@ -21,4 +23,38 @@
 **Revolution and Resurgence (2000-2004)** : The period between 2000 and 2004 saw an "Indie Rock Revolution" and a subsequent resurgence of all things rock. During this time, the rock world continued the habit of making music videos, as exemplified by bands like Queens of the Stone Age, who used clips like "No One Knows" to gain attention. "And the rock world was still in the habit of making videos, especially around 2000 to 2004, during the Indie Rock Revolution and the subsequent resurgence of all things rock at that time." ← https://www.youtube.com/watch?v=7IDbqdIw3WU
 **Revolution in Late 1990s and 2000s** : An "indie rock revolution" began to take hold in the very late 1990s and subsequently "exploded" for the following decade, representing a new generation's effort to revitalize the genre. By the mid-2000s, the indie rock scene was rapidly growing in size, popularity, and influence. "a new generation of young people decided to take matters into their own hands and kickstart things themselves. We saw this with the indie rock revolution that started taking hold in the very late 1990s and then exploded for the next decade." ← https://www.youtube.com/watch?v=7dXtgTkdv9w
 **Rise in the 21st Century** : Indie rock experienced a significant rise in the first decade of the 21st century, becoming a powerful force globally. Its growth was fueled by new technologies that leveled the playing field, allowing small independent companies to quickly distribute music worldwide without major label support. "the rise of Indy Rock in the first decade of the 21st century." ← https://www.youtube.com/watch?v=-CT7yYXonIk
+
+## artists
+- Arcade Fire
+- Arkells
+- Bakar
+- Clinic
+- Constantine's
+- David Bowie
+- Franz Ferdinand
+- Interpol
+- Joel Plaskett
+- Joy Division
+- Metric
+- Pavement
+- R.E.M.
+- Sleater-Kinney
+- Sonic Youth
+- Stars
+- Sum 41
+- TV on the Radio
+- The Cure
+- The Hives
+- The Killers
+- The Libertines
+- The Replacements
+- The Smiths
+- The Strokes
+- The White Stripes
+- U2
+- USS
+- Winter Sleep
+- XTC
+- Ye-Eyes
+- Yeah Yeah Yeahs
 

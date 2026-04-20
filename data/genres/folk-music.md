@@ -6,3 +6,8 @@
 **Various Flavors in 1950s Britain** : In mid to late 1950s Britain, folk music existed in "various flavors" alongside imported American rock and roll and the skiffle craze. This diverse musical landscape was the backdrop against which Trag Jazz emerged. "In the midst of imported American rock and roll records, the skiffle craze and various flavors of folk music, some young people rejected contemporary sounds, in favor of something known as Trag Jazz." ← https://www.youtube.com/watch?v=zNIVqKqAlnk
 **Vehicle for Communist-Labeled Messages (1930s-1940s)** : In the 1930s and 1940s, folk music was utilized by artists like Woody Guthrie and Pete Seeger to disseminate messages. This led to them being labeled as communists by authorities. "In the 30s and 40s, Woody got three and Pete Seeger used folk music to spread messages that had them labeled as communists." ← https://www.youtube.com/watch?v=0ARYt4sYT90
 
+## artists
+- Kate Bush
+- Pete Seeger
+- Woody Guthrie
+

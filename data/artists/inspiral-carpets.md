@@ -5,6 +5,9 @@
 - Madchester Sound
 - Madchester sound
 
+## labels
+- Factory Records
+
 ## concerts
 - Brixton Academy
 
@@ -12,6 +15,7 @@
 - Keyboards (60s inspired)
 
 ## curiosities
+**Conflict with Noel Gallagher** : Noel Gallagher, who later rose to fame with Oasis, had a past "fall out with Sean" (presumably Shaun Ryder, or a member of Inspiral Carpets named Sean) because "Sean had some words in his spirals," indicating a disagreement or conflict involving the band. "He'd fallen out with Sean because Sean had some words in his spirals." ← https://www.youtube.com/watch?v=q_Scyr2czh8
 **Holy Trinity of Madchester** : The Inspiral Carpets were one of the three bands forming the "Holy Trinity" of the Madchester scene, alongside Happy Mondays and The Stone Roses, representing the core of the movement in Manchester in the late 1980s and early 1990s. "commercial reign for the Inspiral Carpet is one of the bands that formed the Holy Trinity of madchester." ← https://www.youtube.com/watch?v=KF_adyXf86Q
 **Madchester Sound Figure** : Inspiral Carpets were identified as a prominent band within the "Madchester Sound" scene at the beginning of the 1990s, alongside The Stone Roses, The Happy Mondays, and The Charlatans. "The Mad Chester Sound, featuring bands like The Roses and The Happy Mondays and The Charlotons and The Inspiral Carpets, was all the rage." ← https://www.youtube.com/watch?v=huAvyInzz3Q
 **Noel Gallagher's Roadie Gig (1988)** : Before joining Oasis, Noel Gallagher worked as a roadie for the band Inspiral Carpets around 1988. This job offered him early exposure to the practicalities of touring and the music industry. "Noel eventually got a job as a roadie with the Inspiral Carpets." ← https://www.youtube.com/watch?v=_b3KRS-Yx_s

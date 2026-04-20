@@ -4,7 +4,7 @@
 - Indie
 
 ## albums
-**300 by 30 (2020)** : This album features 298 songs, none of which are longer than 40 seconds. It was created in 2020, demonstrating an extreme adaptation to the streaming payment model where only the first 30 seconds of a song are compensated. ← https://www.youtube.com/watch?v=eqTFinLk3oU
+**300 by 30 (2020)** : This album, released in 2020 by the British band The Pocket Gods, featured 298 songs, none of which exceeded 40 seconds in length, representing an extreme adaptation to streaming payment models where payment only occurs after 30 seconds of playback. "a British band called The Pocket Gods released an album in 2020 called 300 by 30. It featured 298 songs, none of which were longer than 40 seconds." ← https://www.youtube.com/watch?v=2wZydttn4Cs
 **Short Song Albums (Various)** : The band created a series of albums comprised solely of songs that were no longer than 40 seconds. This creative choice was a deliberate protest against Spotify's payout structure, which compensates artists only if a song is streamed for at least 30 seconds. Their albums underscored the pointlessness of laboring over longer tracks if uncompensated beyond the 30-second mark. "They made their point over a series of albums where none of their songs were more than 40 seconds long." ← https://www.youtube.com/watch?v=nX8uAFDzDYM
 
 ## songs

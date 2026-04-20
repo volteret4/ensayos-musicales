@@ -12,3 +12,12 @@
 **Release of 5440's Greatest Hits (Post-Drop)** : Despite dropping 5440 from their US deal, Warner Canada later released a "Greatest Hits" album for the band. This compilation performed very well, providing significant "mailbox cash" for 5440 and helping to "reset" the band's reputation with the Canadian audience, giving MuchMusic more material to feature. "Warner Canada did that. Yeah. Which did really well. So bucket loads." ← https://www.youtube.com/watch?v=W9gdKha0PLg
 **Vevo Joint Venture Partner** : Warner was among the four major record labels that partnered to launch Vevo on December 8, 2009. This joint venture sought to establish a premier platform for music videos, providing a controlled environment for content distribution and advertising revenue generation. "Vivo, a joint venture between the four major record labels at the time, Universal, Sony, Warner and EMI." ← https://www.youtube.com/watch?v=7IDbqdIw3WU
 
+## artists
+- 5440
+- Barenaked Ladies
+- Fanny
+- Hüsker Dü
+- Lincoln Park
+- Madonna
+- Red Hot Chili Peppers
+

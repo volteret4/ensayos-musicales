@@ -8,3 +8,8 @@
 **Short Song Lengths** : Death Metal, particularly through bands like Napalm Death, has produced some of the shortest songs in rock history, demonstrating an extreme compression of musical ideas into very brief durations. "But last we think that's as short as we can go, I offer this from the Death Metal Band Napom Death. The song is called You Suffer." ← https://www.youtube.com/watch?v=T1XSJIm0Nh4
 **Vocal Expression Controversy** : Death Metal acts were among the artists whose new forms of vocal expression, facilitated by microphones, generated decades of strong criticism from purists. Their singing styles were considered by some to be "degenerate forms of singing," challenging the established vocal norms of earlier generations, with criticism extending "all the way up to and beyond death medillars." "R&B acts, Elvis, The Beatles, Dylan, Jagger, New Waivers, rappers all the way up to and beyond death medillars." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
 
+## artists
+- Cannibal Corpse
+- Deicide
+- Napalm Death
+

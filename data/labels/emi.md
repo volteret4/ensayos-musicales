@@ -14,3 +14,10 @@
 **Sex Pistols Initial Record Deal** : The Sex Pistols were initially signed to EMI Records, but their record deal was short-lived as they were "booted off" the label. This marked the beginning of their difficulties in securing stable record contracts. "They were first signed to EMI but they were booted off." ← https://www.youtube.com/watch?v=zWNzlSxrj6s
 **Vevo Joint Venture Partner** : EMI was one of the four major record labels that formed a joint venture to launch Vevo on December 8, 2009. This collaboration aimed to create a controlled platform for premium music videos, ensuring labels retained influence over content and advertising. "Vivo, a joint venture between the four major record labels at the time, Universal, Sony, Warner and EMI." ← https://www.youtube.com/watch?v=7IDbqdIw3WU
 
+## artists
+- Fun Lovin' Criminals
+- Kate Bush
+- Radiohead
+- Red Hot Chili Peppers
+- Sex Pistols
+

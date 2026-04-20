@@ -15,3 +15,11 @@
 **Peak in Early 1990s, Olympia Hub** : The Riot Grrrl movement and scene was at its peak in the early 1990s, with Olympia, Washington, located south of Seattle, identified as its primary root and home, analogous to Seattle's role for Grunge. This location became a critical incubator for the movement. "a scene and movement that was at its peak in the early 1990s. If Seattle was home to Grunge, you had to go south down Interstate 5 to Olympia, Washington to find where the Riot Girl thing took root." ← https://www.youtube.com/watch?v=Qss5kC2FUx0
 **Second Wave of Groups** : After the original scene fragmented, a "second wave of groups" emerged to carry on the mission of Riot Grrrl, including bands like Sleater-Kinney and Team Dresch. These groups continued the feminist and political messages of the movement, adapting them for a new era. "But there was also a second wave of groups that carried on with the mission." ← https://www.youtube.com/watch?v=Qss5kC2FUx0
 
+## artists
+- 7 Year Bitch
+- Bikini Kill
+- Bratmobile
+- Heavens to Betsy
+- Huggy Bear
+- Sleater-Kinney
+

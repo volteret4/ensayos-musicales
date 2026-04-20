@@ -11,3 +11,11 @@
 **Split 7-inch Single Release (2009)** : In the spring of 2009, a split 7-inch single featuring The Flaming Lips and Stardeath and White Dwarfs (covering Madonna's "Borderline") and The Black Keys (covering a Captain Beefheart song) was released on green vinyl for Record Store Day. "In the spring of 2009, Star Death and the Flaming Lips released a split 7-inch single with the black keys. This was for record-stored 8." ← https://www.youtube.com/watch?v=yuA9Xor8vfw
 **Vinyl Resurgence Event** : Record Store Day, held on the third Saturday of April, was created in response to the backlash against intangible digital tracks and the desire for a tactile music experience, featuring special limited edition releases from artists and labels. "This has led to the creation of events like Record Store Day, which happens on the third Saturday of April." ← https://www.youtube.com/watch?v=GES0Ms_kaCI
 
+## artists
+- Billie Eilish
+- Foo Fighters
+- Jack White
+- Metallica
+- Paul McCartney
+- Taylor Swift
+

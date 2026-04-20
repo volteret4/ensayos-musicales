@@ -11,7 +11,7 @@
 - Black Swan
 
 ## songs
-**My Man Rocks Me with One Steady Roll (1922)** : Recorded in September 1922, this song by Trixie Smith is significant for being the first secular use of the words "rock and roll" in a song with multiple meanings, moving beyond the original nautical or gospel connotations towards euphemistic sexual implications. "This is the first secular use of the words rock and roll in a song where it has a bunch of different meanings." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ
+**My Man Rocks Me with One Steady Roll (1922)** : Trixie Smith recorded this song in September 1922 with The Jazz Masters. It is widely considered the first example of the words "rocking and rolling" being used in a secular song, explicitly referring to sex. Its release predated the widespread adoption of the term rock and roll, marking a significant linguistic precursor. "And as far as anyone can tell, this song, which is about sex in case you miss the memo, is the first example of the use of rocking and rolling to be used in a secular song." ← https://www.youtube.com/watch?v=oRR7N-YUcRE
 
 ## curiosities
 **Early Career as Actor and Vaudeville Performer** : Beyond her recording career, Trixie Smith was also an actor and Vaudeville performer. She had a prolific recording career in the 1920s and 1930s, making four dozen blues recordings, demonstrating her multifaceted talents in entertainment. "Trixie Smith was also an actor and Vodville performer." ← https://www.youtube.com/watch?v=oRR7N-YUcRE

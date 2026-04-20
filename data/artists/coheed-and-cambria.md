@@ -9,7 +9,7 @@
 
 ## albums
 **Concept Album Series** : Coheed and Cambria exclusively release concept albums, all of which are installments in a continuous storyline called "The Armory Wars." This saga is set in "Heaven's Fence," a Federation comprising 78 planets connected by a special energy source known as the Keywork. "Their records are all installments in the storyline of the Armory Wars which takes place in Heaven's Fence, a Federation of 78 Planets connected by the Keywork, a special sort of energy." ← https://www.youtube.com/watch?v=1KyNY3zv6uc
-**Year of the Black Rainbow (2010)** : This album features Michael Todd on bass. A track from it, "We Are the Joverna," was played as an example during a segment discussing Todd's drug-related armed robbery incident. "This is from their 2010 album, Year of the Black Rainbow." ← https://www.youtube.com/watch?v=dVJuITJyNTU
+**Year of the Black Rainbow (2010)** : This album, released in 2010, was offered in a Deluxe version. This special edition included a 352-page novel, which was written by the band's singer, Claudio Sanchez, further expanding the conceptual universe. "The band's 2010 album, Year of the Black Rainbow, also came in a Deluxe version which included a 352 page novel written by singer Claudio Sanchez." ← https://www.youtube.com/watch?v=1KyNY3zv6uc
 
 ## songs
 **We Are the Joverna (2010)** : This song is from the album "Year of the Black Rainbow" and features Michael Todd on bass. It was highlighted in the context of Todd's armed robbery and subsequent departure from the band. "And this is We Are the Joverna." ← https://www.youtube.com/watch?v=dVJuITJyNTU

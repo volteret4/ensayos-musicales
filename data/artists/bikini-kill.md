@@ -13,6 +13,9 @@
 - Riot Girl
 - Riot Grrrl
 
+## labels
+- K Records
+
 ## concerts
 - International Pop Underground Convention
 - Love Rock Revolution Girl Style
@@ -22,12 +25,13 @@
 
 ## songs
 **Rebel Girl (1992) – Riot Grrrl Anthem; Kathleen Hanna Told Kurt Cobain About Teen Spirit Deodorant** : "Rebel Girl" is one of the defining songs of the riot grrrl movement, led by Kathleen Hanna. Hanna was friends with Kurt Cobain and once noted that he smelled like a flowery girly deodorant. He misunderstood, thinking she was paying him a compliment about his punk attitude, and wrote "Smells Like Teen Spirit" — not knowing that Teen Spirit was the name of a fruity deodorant. Hanna is married to Adam Horowitz of the Beastie Boys and continues her activism today. "He had no idea that teen spirit was the name of a girly, fruity deodorant." ← https://www.youtube.com/watch?v=YsNRNKvd1GI
-**Suck My Left One (1991)** : This song is featured on Bikini Kill's self-released 1991 demo album, "Revolution Girl Style Now." "This is from their 1991 demo album, Revolution Girl Style Now. It's called Suck My Left One." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
+**Suck My Left One (1991)** : This 1991 song from Bikini Kill demonstrates the band's attitude and pioneering sound, featuring radical feminist politics and hard music. It was performed at the Love Rock Revolution Girl Style event, showcasing the band's early influential work. "Bikini Kill from 1991 with Suck My Left One." ← https://www.youtube.com/watch?v=Qss5kC2FUx0
 
 ## curiosities
 **Evergreen State College Roots** : Kathleen Hanna, a member of Bikini Kill, was a student at Evergreen State College in Olympia and was involved with an art gallery that occasionally hosted bands. This environment contributed to the nascent Riot Grrrl scene by providing a platform for emerging artists and ideas. "Kathleen was a student at Evergreen State College in Olympia, helping with an art gallery that sometimes hosted bands." ← https://www.youtube.com/watch?v=Qss5kC2FUx0
 **Female-Centric Concerts** : The band actively promoted a female-centric atmosphere at their gigs, encouraging women to move to the front of the stage while asking men to stay at the back. "They encouraged all their gigs to be female centric, urging women up to the front of the stage and men to the back." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Feminist Show Ethos** : Bikini Kill was known for favoring women at their shows, often with a "girls to the front, guys to the back" policy, and for demanding that their gigs be safe spaces for women. This ethos was a core tenet of the Riot Grrrl movement, establishing an empowering environment. "Favouring women at their shows. Check. Demanding that these gigs be safe spaces for women? Absolutely." ← https://www.youtube.com/watch?v=Qss5kC2FUx0
+**Kathleen Hanna's Band** : Bikini Kill is the Riot Grrrl band associated with Kathleen Hanna, who is married to Adam Horowitz. "she of the Riot Girl Band Bikini Kill." ← https://www.youtube.com/watch?v=9_BTe15NooI
 **Kathleen Hannah's Fearlessness** : Singer Kathleen Hannah was renowned for her confrontational and fearless stage presence. It was common for her to physically engage with hecklers by diving off the stage, earning her a heroic status among both punk women and men. "When some dude moved up to heckle them, it wasn't uncommon for her to dive off the stage at the guy." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Longevity of Original Riot Grrrl Bands** : Bikini Kill was the only original Riot Grrrl band to continue performing beyond the mid-90s, lasting until 1997. Most other early bands like Bratmobile, Heavens to Betsy, and Huggy Bear had broken up by 1994 due to internal conflicts and issues surrounding media coverage. "The only original Riot Girl band to make it beyond all that was Bikini Kill. They lasted until 1997." ← https://www.youtube.com/watch?v=Qss5kC2FUx0
 **Origin of Name "Bikini Kill"** : The name "Bikini Kill" came several iterations after Kathleen Hanna's first group, Amy Carter, and was named after a zine that she published with Tobi Vail. This reflects the DIY zine culture central to the Riot Grrrl movement and the band's feminist messaging. "Amy Kill came several iterations later and was named after a scene that she published with Toby." ← https://www.youtube.com/watch?v=Qss5kC2FUx0

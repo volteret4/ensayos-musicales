@@ -6,3 +6,19 @@
 **Post-Punk Subgenre** : Techno Pop, including its various subsets, is listed as a major post-punk genre that emerged in the late 1970s and early 1980s, contributing to the development of contemporary music. "There was new wave, techno pop, and all its subsets, industrial music, goth, and a revival of scot." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 **Rise of Microgenres** : Techno Pop led to the development of several microgenres, including New Romanticism, which in turn produced bands like Duran Duran, Spandau Ballet, and ABC. "Technopop began several microgenres of its own, including something called New Romanticism, which ended up giving us Durand-Duran and Spando Balais and ABC." ← https://www.youtube.com/watch?v=9uTORLOm5Yg
 
+## artists
+- ABC
+- Duran Duran
+- Gary Numan
+- Klaus Nomi
+- Nine Inch Nails
+- Orchestral Manoeuvres in the Dark
+- Soft Cell
+- Spandau Ballet
+- The Human League
+- The Normal
+- Thompson Twins
+- Trent Reznor
+- Ultravox
+- Visage
+

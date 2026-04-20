@@ -8,3 +8,10 @@
 **Recording Environment and Sound** : Practitioners of Lofi prefer making recordings in "grittier, less high-tech surroundings," such as a studio with less than state-of-the-art gear or facilities, a garage, or a bedroom, resulting in a "grittier low-tech sound." "Lofi practitioners prefer to make recordings in grittier, less high-tech surroundings, producing a, well, a grittier low-tech sound." ← https://www.youtube.com/watch?v=amHre9ZZFkU
 **Term Coined in 1986** : Although Lofi-style recordings existed for decades, the term itself was coined in 1986 by a DJ from a community FM station in New Jersey, who hosted a show dedicated to home recordings. "but it wasn't until 1986 when a DJ from a community FM station in New Jersey coined the term when he hosted a show dedicated to home recordings." ← https://www.youtube.com/watch?v=amHre9ZZFkU
 
+## artists
+- Beck
+- Dinosaur Jr.
+- Pavement
+- R.E.M.
+- Sebadoh
+

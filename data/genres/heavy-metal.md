@@ -21,3 +21,15 @@
 **Shift in UK Market Dominance** : This increased chart presence marked a shift from a long period where American metal and hard rock bands, with few exceptions like Accept and Scorpions, largely dominated the British market. "And this was a nice change from a long stretch where American metal and hard rock bands pretty much had the British market to themselves, with a couple of bands like Accept and Scorpions thrown in." ← https://www.youtube.com/watch?v=sOU54d8mr5k
 **William S. Burrows' Literary Usage (1961-1965)** : Writer and poet William S. Burrows used the character "Uranian Willie, the Heavy Metal Kid" in his 1961 novel "The Soft Machine" and a 1965 spoken word performance. While the term appeared, Burrows was discussing aliens and addictive drugs, not music, and thus his work is not considered the origin of the musical genre's name. "Burrows isn't talking about music at all. He's actually talking about aliens and addictive drugs." ← https://www.youtube.com/watch?v=D8GU8ZpSgY8
 
+## artists
+- Accept
+- Anthrax
+- Black Sabbath
+- Judas Priest
+- Metallica
+- Motörhead
+- Ozzy Osbourne
+- Royal Blood
+- Scorpions
+- Sepultura
+

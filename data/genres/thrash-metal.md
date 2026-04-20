@@ -6,3 +6,16 @@
 **Emergence from Hardcore Influence** : Thrash metal developed as a direct result of hardcore punk's influence on metal music. Metal bands started adopting the faster tempos and harder-hitting aggression characteristic of hardcore, creating a new, more intense subgenre. "Hardcore punk began to influence metal. Metal bands started playing faster and harder, resulting in thrash metal." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
 **Offshoot of Hardcore Punk** : Thrash Metal emerged as a direct consequence of hardcore punk. Some of the musical innovations and intensity from hardcore acts directly influenced metal musicians, leading to the birth of this new subgenre. "and some of what they did landed in the laps of some of the metal kits, resulting in the birth of Thrash Metal." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 
+## artists
+- Anthrax
+- Body Count
+- Ice-T
+- Megadeth
+- Metallica
+- Motorhead
+- Municipal Waste
+- Power Trip
+- Slayer
+- The Great Kat
+- Warbringer
+

@@ -28,7 +28,7 @@
 
 ## songs
 **Epic** : A well-known song by Faith No More, which resonated with a new generation of fans after the band's reunion. "Faith No More with Epic." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
-**We Care A Lot (1987)** : This song was featured on Faith No More's first two albums, *We Care A Lot* (1985) and *Introduce Yourself* (1987), during Chuck Mosley's tenure as lead singer. "There's Faith No More from 1987 with We Care A Lot featuring singer Chuck Mosley." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
+**We Care A Lot (1987)** : This song was featured on Faith No More's first two albums, _We Care A Lot_ (1985) and _Introduce Yourself_ (1987), during Chuck Mosley's tenure as lead singer. "There's Faith No More from 1987 with We Care A Lot featuring singer Chuck Mosley." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
 
 ## curiosities
 **90s Alternative Success** : With Mike Patton as the new singer, Faith No More's 1989 album featuring Patton's lyrics was released in June, received Grammy nominations, and within a year, the band became a prominent fixture on video channels, achieving early success in the alternative 90s. "And within a year, Faith No More was all over the video channels, and we're on their way to becoming one of the biggest early successes of the alternative 90s." ← https://www.youtube.com/watch?v=vLZla5h4xKQ

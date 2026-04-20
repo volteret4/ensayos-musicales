@@ -5,3 +5,10 @@
 **Nine Deaths in Crowd Crush (June 30, 2000)** : During Pearl Jam's performance at the Roskilde Festival in Denmark on June 30, 2000, approximately 30 minutes into their set, a group of people fell down in a specific area on the rain-slicked, muddy ground, leading to a crowd crush. This incident resulted in the suffocation of nine people, likely within five minutes of falling, and injured 26 others, three seriously. "In total, nine people died. Twenty-six were injured, three of them seriously." ← https://www.youtube.com/watch?v=Pgchw2h87aw
 **Woodstock Emulation and Evolution (1971-Present)** : The Roskilde Festival, held in Denmark in late June, began in 1971 as an attempt to emulate Woodstock. Over the years, it evolved from a hippie gathering into a major European event known for booking "very cool and very edgy acts," attracting attendees from across the continent. "It began in 1971 as an attempt to emulate Woodstock." ← https://www.youtube.com/watch?v=7v1REnqKuXE
 
+## artists
+- Elvis Costello
+- Pearl Jam
+- Radiohead
+- The Cure
+- U2
+

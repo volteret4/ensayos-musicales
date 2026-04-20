@@ -7,6 +7,7 @@
 ## genres
 - Emo
 - Emo (original sound)
+- Emo Pop
 - Pop
 - Pop Punk
 

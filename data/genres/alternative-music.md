@@ -6,3 +6,16 @@
 **Overtaking the Mainstream (Mid-90s)** : The "grunge explosion" of the early to mid-1990s saw alternative rock transition from an underground form to the mainstream, largely replacing traditional mainstream rock acts. This shift made the term "alternative" somewhat contradictory, as it was no longer an alternative to anything, prompting a search for new terminology like "New Rock." "In other words, by the middle of the 90s, alternative music wasn't an alternative to anything anymore. It was now the mainstream, which caused much soul searching and hand-winging amongst musicians and fans like." ← https://www.youtube.com/watch?v=Ft8nruhWCas
 **UK Interchangeability with Indie** : In the UK, the term "Indie" is often roughly interchangeable with "alternative." This is attributed to the specific structure of the British music industry, which provides independent artists a greater opportunity to penetrate the mainstream compared to North America. "In the UK, Indie can be roughly interchangeable with alternative." ← https://www.youtube.com/watch?v=Ft8nruhWCas
 
+## artists
+- Depeche Mode
+- Dropkick Murphys
+- Elvis Costello
+- Iggy Pop
+- Joy Division
+- Nirvana
+- Soundgarden
+- The Modern Lovers
+- The Smashing Pumpkins
+- The Smiths
+- The Velvet Underground
+

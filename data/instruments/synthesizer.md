@@ -33,3 +33,18 @@
 **Vintage vs. Soft Synths (Contemporary)** : Older, vintage synthesizers, despite their finicky nature, weight, and tendency to drift out of tune, are now highly collectible and expensive (e.g., a Jupiter-8 on eBay can cost £2000). Many contemporary musicians prefer modern "soft synths" in computers for their reliability, consistent tuning, and ease of use, despite nostalgic purists. "The funny thing is now, you know, a lot of youngsters are looking to collect these things. You try and get a Jupiter 8 on eBay now. It's like £2000 or something." ← https://www.youtube.com/watch?v=0fQQubt9UTI
 **Voltage Controlled Breakthrough (1963)** : In 1963, inventor Don Buchla developed the voltage-controlled synthesizer. This "little black box" offered much greater precision in taming electronically generated sounds than previous devices, representing a major breakthrough in synthesizer technology. "Then a breakthrough, 1963, an inventor named Don Buckla, came up with a voltage controlled synthesizer." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
 
+## artists
+- Barry Manilow
+- Bob Moog
+- David Bowie
+- Depeche Mode
+- Gillian Gilbert
+- Human League
+- Orchestral Manoeuvres in the Dark
+- The Beatles
+- The Human League
+- The Monkees
+- Trent Reznor
+- U2
+- Walter Carlos
+

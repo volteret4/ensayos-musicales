@@ -15,7 +15,6 @@
 
 ## concerts
 - **Cuba Gig** : Audioslave performed a gig in Cuba, listed among other historically special and unforgettable concerts. "audio slave in Cuba"
-- **First Performance (2002)** : Audioslave's first performance took place on November 25, 2002, on top of the marquee of the Ed Sullivan Theater, as part of an appearance on the *Late Show with David Letterman*. "The first Audio Slave performance was on November 25, 2002. And the gig was in a weird spot. They played on top of the marquee on the Ed Sullivan theater as part of an appearance on the late show with David Letterman."
 - **First Performance (2002)** : Audioslave's first performance took place on November 25, 2002, on top of the marquee of the Ed Sullivan Theater, as part of an appearance on the _Late Show with David Letterman_. "The first Audio Slave performance was on November 25, 2002. And the gig was in a weird spot. They played on top of the marquee on the Ed Sullivan theater as part of an appearance on the late show with David Letterman."
 - Cuba Concert
 

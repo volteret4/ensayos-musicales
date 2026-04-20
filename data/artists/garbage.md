@@ -9,6 +9,7 @@
 - Steve Marker (producer, sound engineer)
 
 ## genres
+- Alt Rock
 - Electronic
 - Orchestral
 
@@ -27,6 +28,7 @@
 **The World Is Not Enough (1999) – Title Theme** : Garbage, with Shirley Manson on vocals, performed the theme song for the 1999 James Bond film "The World Is Not Enough." The song, partially recorded in Vancouver, was offered to Manson by composer David Arnold after numerous other artists were rejected. Despite an "ugly plagiarism charge" that was later dismissed, the song became another solid hit for the Bond franchise. "Arnold then called up Shirley Manson and offered it to her and Garbage and she nearly stroked out when she got the offer because it had always been her dream to sing a Bond theme." ← https://www.youtube.com/watch?v=K0pgJ7XAlpo
 
 ## curiosities
+**21st Century Reunion** : Garbage was included in the list of alt-rock acts that reunited in the first decade of the 21st century, contributing to a period of reformations that brought temporary excitement and engagement back to the scene. "In addition, the Pixies...garbage...These reunions injected some life into the scene, albeit temporary life." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **First Meeting and Kurt Cobain's Death (1994)** : The band members, including Shirley Manson, met for the first time in London on April 8, 1994, which tragically coincided with the day Kurt Cobain killed himself. Butch Vig, who had produced Nirvana's "Nevermind," received the news during this initial meeting, causing the project to be temporarily put on hold. "They all met up in London on April 8th of 1994. Yeah, that's that's right. They met for the first time the day Kurt Cobain killed himself." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Formation and Search for a Singer** : Garbage was formed by producers Butch Vig, Duke Erikson, and sound engineer Steve Marker, who specifically sought a female singer in the vein of Chrissie Hynde or Patty Smith, one who could sing in a lower register. "She was drafted into Garbage by three dudes, butch vig, the record producer, Duke Erickson, and another producer and sound engineer named Steve Marker." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Plagiarism Charge for "The World Is Not Enough" (1999)** : Garbage's theme song for "The World Is Not Enough" faced an "ugly plagiarism charge" from songwriters who claimed it sounded too similar to an unused theme they had written for "The Thomas Crown Affair." Given both films were MGM properties, an internal issue was suspected. The charge was eventually rejected by the courts, allowing the song to remain a solid hit. "There was an ugly plagiarism charge from a couple of songwriters who said this song sounded too much like a theme that they'd written for the Thomas Crown affair but not used." ← https://www.youtube.com/watch?v=K0pgJ7XAlpo

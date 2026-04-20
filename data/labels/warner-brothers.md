@@ -7,3 +7,10 @@
 **Signing of Linkin Park** : Warner Brothers eventually signed Linkin Park on their fourth attempt, despite the band having been rejected about four dozen times by various labels. Most within the label, apart from one persistent advocate, held low expectations for the band's potential success. "They were finally signed to Warner Brothers on their fourth try. They had been rejected three times, fourth try, they got in. No one at the label, with the exception of the guy who successfully begged his bosses to give the band a contract, thought that Lincoln Park would amount to anything." ← https://www.youtube.com/watch?v=7dXtgTkdv9w
 **Strategic Major Label Distribution for Indie Bands** : Warner Brothers, a major label, engaged in a unique partnership with Rancid, an Epitaph band, by agreeing to distribute and "stealthily promote" their records. This allowed Rancid to maintain their punk rock ethics by staying with an indie label while benefiting from a major's reach. "but they agreed to have their epitaph records distributed and stealthily promoted by Warner Brothers, one of the majors." ← https://www.youtube.com/watch?v=gkLMwrthZ9s
 
+## artists
+- Green Day
+- Linkin Park
+- R.E.M.
+- Rancid
+- Talking Heads
+

@@ -8,3 +8,11 @@
 **Explosion of Flavors in the 90s** : As the 90s progressed, the number of artists under the Alternative Dance umbrella "exploded," leading to "a million flavors" such as Post disco, electrical clash, new rave, and big beat. "As the 90s progressed, the number of artists that fell under the umbrella of Alternative Dance exploded. A million flavors appeared." ← https://www.youtube.com/watch?v=amHre9ZZFkU
 **Post-Punk Subgenre** : Alternative dance music emerged from Technopop, forming part of the diverse subgenres that arose during the post-punk era. "and a form of alternative dance" ← https://www.youtube.com/watch?v=XaLsZFLrMnI
 
+## artists
+- Chemical Brothers
+- Daft Punk
+- Fatboy Slim
+- Lo-Fidelity Allstars
+- New Order
+- Propellerheads
+

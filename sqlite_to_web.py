@@ -848,6 +848,8 @@ def build_html(artists, relations):
 <head>
 <meta charset="UTF-8">
 <title>Music Map</title>
+<link rel="icon" type="image/png" href="/img/dots.png" />
+
 <!-- Umami Analytics -->
 <script>
     defer

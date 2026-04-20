@@ -8,3 +8,15 @@
 **Early 80s Electronic Roots** : In the early 1980s, nerd rock became heavily rooted in electronics, utilizing keyboards, synthesizers, sequencers, and drum machines, as tech-minded people uninterested in traditional instruments were drawn to the new technology, and synthesizers were equated with the music of the future and science fiction. "For a time, nerd rock was heavily rooted in electronics, keyboards synthesizers, sequencers, drum machines, and so on." ← https://www.youtube.com/watch?v=h6snk0m4200
 **Evolution from Folk to Electronic** : The music genre initially began as a form of folk music (FILK Rock), then incorporated surrealism, and later integrated elements of synth-based new wave and post-punk, especially as electronic instruments became more accessible and powerful. "The music started as a form of folk music, moved into surrealism and then parts of the synth based new wave and post punk world." ← https://www.youtube.com/watch?v=h6snk0m4200
 
+## artists
+- AJR
+- Barenaked Ladies
+- Nerf Herder
+- Public Service Broadcasting
+- Talking Heads
+- The Decemberists
+- They Might Be Giants
+- Thomas Dolby
+- Titus Andronicus
+- Weezer
+

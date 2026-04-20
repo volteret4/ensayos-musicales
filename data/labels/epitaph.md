@@ -11,3 +11,9 @@
 **The Offspring's Smash Release** : The Offspring's seminal album "Smash" (1994) was issued through Epitaph, which was the label associated with Bad Religion. "It was a complete indie thing and issued through Bad Religions Epitaph label." ← https://www.youtube.com/watch?v=44dXy0StjIQ
 **Unconventional Marketing & Success** : Epitaph, an independent label, experienced an unusual stroke of luck when The Offspring's first single was picked up by an LA radio station, an event noted as something that "almost never happened to Epitaph bands." Recognizing the potential, the label "dug deep" to fund a modest $5,000 for The Offspring to produce a music video, which subsequently gained significant airplay on MTV and dramatically boosted their album sales. "the first single was picked up by an LA radio station which was pretty cool because that almost never happened to Epitaph bands." ← https://www.youtube.com/watch?v=8UIBWyUt38g
 
+## artists
+- Bad Religion
+- NoFX
+- Rancid
+- The Offspring
+

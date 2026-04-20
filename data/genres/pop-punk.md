@@ -30,3 +30,37 @@
 **Willow Smith's Genre Shift (2021)** : Willow Smith transitioned to a more pop-punk style for her fourth album in 2021, a change aided by collaboration with Travis Barker of Blink-182. "For her fourth album in 2021, she switched things up a bit into a more pop punk vein with help from Travis Barker of Blink 182." ← https://www.youtube.com/watch?v=dY7uB_QQWBc
 **Worldwide Phenomenon** : In contrast to many niche punk derivatives, pop punk has evolved into a worldwide phenomenon, becoming one of the most popular forms of punk rock of all time and a leading form of alternative rock over the last 25 years. "one of the most popular forms of punk rock of all time." ← https://www.youtube.com/watch?v=tZV1lz-obQE
 
+## artists
+- 5 Seconds of Summer
+- All Time Low
+- Avril Lavigne
+- Bad Religion
+- Bass Drum of Death
+- Billy Idol
+- Blink 182
+- Blink-182
+- Fall Out Boy
+- Generation X
+- Goldfinger
+- Good Charlotte
+- Green Day
+- Hedley
+- My Chemical Romance
+- Neck Deep
+- New Found Glory
+- PUP
+- Panic! At The Disco
+- Panic! at the Disco
+- Paramore
+- Rancid
+- Simple Plan
+- Social Distortion
+- Sum 41
+- Taking Back Sunday
+- The All-American Rejects
+- The Offspring
+- The Vandals
+- The Wonder Years
+- Ty Segall
+- Wavves
+

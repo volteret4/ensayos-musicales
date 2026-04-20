@@ -4,3 +4,6 @@
 **Commercial Availability and Impact** : The Maestro FZ1 Fuzz tone was released in 1962, allowing guitarists to achieve distorted effects with a simple foot pedal. It featured a volume and attack control and a self-contained power supply, and it could be used with electric bass for effects like "Sousa Fone" or "tuba" sounds. Its success led other manufacturers to create their own pedals, like the Tone Bender, Fuzz Face, and Big Muff, cementing distortion as a core element of rock music. "A built-in foot pedal switch attaches to your amplifier with a handy jack. Makes possible all these effects with the touch of a toe." ← https://www.youtube.com/watch?v=6SdPPsmpgJg
 **First Distortion Pedal (Maestro FZ1 Fuzz tone)** : The first-ever fuzz pedal for guitar, the Maestro FZ1 Fuzz tone, was designed by Grady Martin with help from Glenn Snottie and Revis Hobbs, and manufactured by Gibson. Its creation stemmed from an accidental faulty transformer that produced a fuzzy sound on Marty Robbins' "Don't Worry" in late 1960. The pedal allowed guitarists to create distorted sounds on demand, fundamentally changing the landscape of rock music. "And so it began the manufacture of the first ever Fuzz pedal for the guitar, the first ever distortion pedal, the Maestro Fuzz tone." ← https://www.youtube.com/watch?v=6SdPPsmpgJg
 
+## artists
+- Grady Martin
+

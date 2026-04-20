@@ -1,5 +1,5 @@
 # label - Curious Cast
 
 ## curiosities
-**Podcast Network** : Curious Cast is identified as a network that hosts a variety of podcasts. "Curious Cast has a lot of podcasts available on its network." ← https://www.youtube.com/watch?v=YFv6Ln00XjA
+**Podcast Network** : Curious Cast is a network that hosts various podcasts, including "Art Context," a new show focusing on music video directors. "Before we leave today's ongoing History of New Music podcast, I want you to know that we're part of a network called Curious Cast." ← https://www.youtube.com/watch?v=kbFfT0pKchI
 

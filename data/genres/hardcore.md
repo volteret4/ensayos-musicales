@@ -15,6 +15,7 @@
 **Dead Kennedys' Contribution** : The highly political Bay Area punk band, The Dead Kennedys, played a significant role in establishing the stylistic foundation for what would later be known as Hardcore music. "The highly political Dead Kennedys, a Bay Area punk band that helps at the table for what would later be called Hardcore." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
 **Definition and Grievances** : Hardcore punk, or hardcore, is a subgenre of punk rock. Its creators were drawn to the faster and heavier aspects of original punk bands and sought to express grievances against societal norms. These grievances included disgust with yuppies and their culture, broken homes, ruined families, capitalist exploitation, consumerism, and corrupt politicians. They also disliked "high and mighty rock stars," New Wave aesthetics (skinny ties, eyeliner), and the established music industry, sometimes just wanting to "get wasted." "Hardcore punk, or just hardcore, if you prefer, is a subgenre, obviously, of punk rock. Its creators love the faster and heavier end of the original punk rock bands, but they also had, well, they had some grievances that they needed to express. Epis and their culture disgusted them, broken homes and ruined families, destroyed them, capitalist exploitation, yuppies, consumerism, corrupt politicians. They also aren't crazy about high and muddy rock stars, or the posters of New Wave with their skinny ties and eyeliner, the weasels of the established recorded music industry, and sometimes the people behind Hardcore just wanted to get wasted." ← https://www.youtube.com/watch?v=0qigzi1j81U
 **Diversity in Contributors** : While hardcore was largely composed of white males, some of its most important contributors were Black and Latino, highlighting the genre's internal diversity despite its typical demographic profile. "Hardcore was largely made up of white males, but some of the sounds most important contributors were black and Latino." ← https://www.youtube.com/watch?v=0qigzi1j81U
+**Early 1990s Influence - Mia Zapata** : Mia Zapata is considered a significant influence on the hardcore scene of the early 1990s. "If you're into hardcore or the ride girl scene of the early 1990s you may have, she was in a band called The Gits. She's considered to be a big influence on a lot of the women attached to and inspired by this scene." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4
 **Early Reach to Japan** : Hardcore reached Japan surprisingly early, establishing a scene there as far back as 1977. "It even reached Japan as early as 1977." ← https://www.youtube.com/watch?v=0qigzi1j81U
 **Early West Coast Sound** : In Los Angeles and Southern California, the original punk rock scene had faded by 1979, replaced by a new, even more stripped-down type of punk. This sound typically featured guitars, bass, drums, and a vocalist, with traditional verse-chorus structures often abandoned in favor of extremely short songs, sometimes under 32 seconds. "The original punk rock scene was gone by about 1979, and in its place was a new type of punk that was stripped down even further. Guitar's bass drums vocalist, that's it. The traditional first chorus first song structure wasn't necessary. In fact, if everything could be said in 32 seconds or less, so be it." ← https://www.youtube.com/watch?v=0qigzi1j81U
 **Essential for Grunge** : Hardcore's influence was so profound that it is considered essential to the emergence of grunge, implying that without hardcore, grunge would not have developed as it did. "Honestly, no hardcore, no grunge." ← https://www.youtube.com/watch?v=0qigzi1j81U
@@ -34,4 +35,55 @@
 **Reagan Era Rebellion and Community** : American Hardcore flourished during the Reagan years, serving as a broad rebellion against everything, including the perceived rebellion of the original punk rockers. Despite its rebellious nature, it fostered a strong community through fanzines, dedicated promoters, and collaborative projects, such as the formation of independent record labels specifically for hardcore acts. "American Hardcore rose during the Reagan years, and was all about rebelling against, well, everything, including the rebellion of the original punk rockers." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 **Touring Underserved Cities** : The north-south touring flow of punk and hardcore bands meant they frequently played in underserved cities and towns, including the Seattle area, where major touring acts were infrequent. This created opportunities for local scenes to flourish and for unique cross-pollination of musical styles. "The North South flow of punk and hardcore bands meant that these groups played a lot of underserved cities and towns when it came to tours. They had to play somewhere so they would play anywhere. And that included the Seattle area. At the time, the Pacific Northwest was sort of off the grid when it came to major touring acts. So if you wanted to see live music, it was much easier to catch a punk show than anything else." ← https://www.youtube.com/watch?v=0qigzi1j81U
 **UK Hardcore and D-Beat** : The UK developed its own hardcore derivative called D-Beat, characterized by a distinctive drum pattern. UK Hardcore was a fusion of British punk (like the Sex Pistols) and the New Wave of British Heavy Metal (NWOBHM) bands that emerged in the early 1980s, with Motörhead being a major influence. "Then we have the UK, home of a hardcore derivative called Debeat, which referred to a distinctive sort of drum pattern that went with a lot of the songs. UK Hardcore was an amalgamation of British punk, especially the Sex Bistels, and the new wave of British heavy metal bands that appeared at the beginning of the 1980s. The biggest influence from that scene was Motorhead." ← https://www.youtube.com/watch?v=0qigzi1j81U
+
+## artists
+- Agent Orange
+- Agnostic Front
+- Alexis on Fire
+- Alexisonfire
+- Bad Brains
+- Bad Religion
+- Beastie Boys
+- Big Boys
+- Black Flag
+- Circle Jerks
+- Cro-Mags
+- Dane Bramage
+- Dayglo Abortions
+- Dead Kennedys
+- Descendents
+- Discharge
+- Dropkick Murphys
+- Embrace
+- Fear
+- Foo Fighters
+- Fucked Up
+- GBH
+- Gang Green
+- Hüsker Dü
+- Mia Zapata
+- Misfits
+- Mob 47
+- Nate Mendel
+- No Means No
+- NoMeansNo
+- Raw Power
+- Red Hot Chili Peppers
+- Red Kross
+- Refused
+- SNFU
+- Scream
+- Social Distortion
+- Suicidal Tendencies
+- The Adolescents
+- The Asexuals
+- The Dead Kennedys
+- The Descendents
+- The Exploited
+- The Jirms
+- The Meat Puppets
+- The Minutemen
+- The Subhumans
+- Turnstile
+- Wretched
 

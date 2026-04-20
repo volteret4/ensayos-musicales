@@ -16,6 +16,7 @@
 **Influence on Smashing Pumpkins** : Billy Corgan acknowledged that some of The Smashing Pumpkins' sound was influenced by Judas Priest, leading to "shock and horror" among fans who perceived this as a breach of genre tribalism. "I recall one time when Billy Corgan admitted that some of the smashing pumpkin sound was influenced by Judas Priest and there was shock and horror, treason." ← https://www.youtube.com/watch?v=2EerEOuP52I
 **Layne Staley's Vocal Appeal** : Layne Staley's unique vocal delivery, ranging from menacing monotone to sharp screams, appealed to both metal fans and alternative kids. "And those vocals appealed to both metal fans and alternative kids." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
 **Les Paul Guitar's Versatility** : The Gibson Les Paul guitar has been continuously in production since its 1952 introduction and is widely used across virtually every genre, including metal. Its solid-body design resolved feedback issues common with older hollow-body guitars, making it ideal for amplified metal music. "The Les Paul has been in production ever since, and has been used by guitars into rock, punk, metal, pop, country, soul, R&B, jazz, reggae, and virtually every other genre you want to mention." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
+**Long Hair as a Standard** : In the mid-1970s, long hair became an expected stylistic choice within metal, a tradition that persists. Along with hard rock, metal music often "required" this look from its practitioners and fans. "Long hair became standard in some quarters. Hard rock and metal often required it. That's a tradition that continues today." ← https://www.youtube.com/watch?v=bferkEWvJg0
 **Monsters of Rock Tours** : In the early 2000s, there were "monsters of rock tours" that featured large, stadium-filling metal groups. This concept inspired the Pop Disaster Tour for punk bands. "Now at the time, there were these monsters of rock tours featuring big stadium-filling metal groups." ← https://www.youtube.com/watch?v=_tkLRJiOBu0
 **Post-1978 Rock Diversification** : After 1978, mainstream rock diversified, with metal being one of the specific sub-genres that people began to identify and discuss, marking a more complex musical landscape. "People were now talking about metal and Prague and folk rock, and soft rock, and country rock, and blues rock, and of course, punk." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
 **Pre-Supergroup Formation** : Musicians who would later form prominent bands, like Stephen Perkins and Dave Navarro of Jane's Addiction, were initially members of metal bands, indicating the genre as a foundational training ground for some artists. "Soon, Eric introduced Perry to two school buddies. guitarist Dave Navarro and a drummer named Stephen Perkins who were both members of a metal band called disaster." ← https://www.youtube.com/watch?v=CVPPymc_qrk
@@ -25,4 +26,47 @@
 **Skate Punk Crossover** : By 1985, some skate punk incorporated elements of heavy metal, including guitar solos, leading to a community fracture. Some bands moved fully into metal genres as a result. "By 1985, the original Skate Punk sound had acquired a new thing, elements of heavy metal, including guitar solos." ← https://www.youtube.com/watch?v=44dXy0StjIQ
 **Songs About Ted Bundy** : Metal is one of the genres, including rock, pop, and hip hop, that includes songs written about the serial killer Ted Bundy. This highlights the genre's engagement with dark and often controversial subject matter. "There are a similar number of songs about Ted Bundy, rock, pop, metal, hip hop." ← https://www.youtube.com/watch?v=FtGJHhqXcDI
 **Study Reveals Metal Fans Among Happiest (2021)** : A 2021 scientific experiment studying metal music and its fans uncovered that metal enthusiasts are among the happiest music fans, ranking second only to jazz fans in terms of overall happiness. The study also noted that metal fans are the most likely among all music fans to engage in sexual activity in a car. "One of the things a 2021 experiment uncovered was that metal fans are among the happiest music fans out there." ← https://www.youtube.com/watch?v=-N6IM5Nm5iw
+
+## artists
+- AC/DC
+- Alice in Chains
+- Alien Weaponry
+- Bad Wolves
+- Black Sabbath
+- Body Count
+- Dancing
+- Dimebag Darrell
+- Disaster
+- Hades
+- Ice-T
+- Iron Maiden
+- Joe Satriani
+- Kid Rock
+- Lamb of God
+- Lane Staley
+- Leo
+- Lincoln Park
+- Living Colour
+- Marilyn Manson
+- Marsha Zazula
+- Metallica
+- Misfits
+- Nine Inch Nails
+- No Means No
+- NoMeansNo
+- Ozzy Osbourne
+- Plasmatics
+- Rhett Forrester
+- Rob Halford
+- Ronnie James Dio
+- Roxy Petrucci
+- Scorpions
+- Scott Weiland
+- Soundgarden
+- Stone Temple Pilots
+- Striper
+- Sum 41
+- Testament
+- The White Stripes
+- Trent Reznor
 

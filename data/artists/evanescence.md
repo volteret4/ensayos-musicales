@@ -2,6 +2,7 @@
 
 ## members
 - Amy Lee
+- Terry Balsamo
 
 ## genres
 - Christian alternative rock
@@ -27,4 +28,5 @@
 **Modern Multi-tracking (200+ Tracks)** : Evanescence utilized extensive multi-tracking in their music production, with one particular song featuring over 200 tracks. The band reported losing count of the numerous layers involved in creating the mix for this song. This level of multi-tracking stands in stark contrast to earlier recording methods and the opposition faced by multi-track recording innovators in the 1950s. "Evan Essence, 200 plus tracks, went into creating that mix." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
 **Multi-Platinum Success** : Evanescence, led by Amy Lee, achieved unexpected multi-platinum success in the early 2000s, though some categorized them on the fringes of new metal. "The surprise, multi-platinum success of Amy Lee and Evan Essence, another group that some insist on placing on the fringes of New Metal." ← https://www.youtube.com/watch?v=7dXtgTkdv9w
 **Shift from Christian Rock Label** : While Evanescence started within the Christian rock scene and gained initial traction there, they may no longer be considered part of that world due to their crossover success and subsequent controversies. "They may not be considered to be part of the Christian rock world now, but that's where they started." ← https://www.youtube.com/watch?v=g-tBn8dsSqw
+**Terry Balsamo's Headbanging-Related Stroke** : Guitarist Terry Balsamo suffered a stroke while playing for Evanescence, which doctors suspect might have been related to his headbanging on stage. This highlights the potential severe health risks associated with the practice. "While playing guitar for Evan Essence, he had stroke. Doctors think it might have been related to his head banging." ← https://www.youtube.com/watch?v=bferkEWvJg0
 

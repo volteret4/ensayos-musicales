@@ -10,3 +10,9 @@
 **Signing of Turnkey Operations** : Universal signed Arkells after the band had already completed two albums ("Jackson Square" and "Michigan Left") and cultivated a substantial fan base. This made Arkells an attractive "turnkey operation" to the major label, a desirable situation in modern music industry practices. "You were one of these turnkey, turnkey operations that you were able to present, uh, two albums and a fan base to a major label." ← https://www.youtube.com/watch?v=kKNn01M8GG4
 **Vevo Joint Venture Partner** : Universal was one of the four major record labels that formed the joint venture to launch Vevo on December 8, 2009. This initiative aimed to create a dedicated online platform for music videos, controlled by the labels, to ensure premium content and attract targeted advertising. "Vivo, a joint venture between the four major record labels at the time, Universal, Sony, Warner and EMI." ← https://www.youtube.com/watch?v=7IDbqdIw3WU
 
+## artists
+- Arkells
+- Lorde
+- Nine-inch Nails
+- U2
+

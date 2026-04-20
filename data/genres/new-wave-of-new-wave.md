@@ -5,3 +5,11 @@
 **First New Wave Revival (Early 1990s)** : This movement, termed by British music journalists who borrowed the phrase from "New Wave of British Heavy Metal," marked the first revival of new wave music in the early 1990s. "The first revival of new wave was called, wait for it, the new wave of new wave, which emerged in the very early 1990s." ← https://www.youtube.com/watch?v=9CNNsqXiL6U
 **Short-Lived Movement** : This revival did not last long, as many of its associated bands were soon incorporated into the larger Britpop movement, effectively becoming "stillborn." "The new wave of new wave did not last long because many of the bands tagged with that label were soon subsumed into something bigger that we call Brit Pop." ← https://www.youtube.com/watch?v=9CNNsqXiL6U
 
+## artists
+- Blondie
+- David Bowie
+- Elastica
+- The Clash
+- The Stranglers
+- Wire
+

@@ -6,3 +6,9 @@
 **Improved and Cheaper (1980s)** : By the 1980s, amplifiers had become significantly "better and cheaper." This improvement was a key factor in a major shift in concert sound, enabling the widespread adoption of speaker systems hung above the audience, which freed up stage space and enhanced sound quality. "Amplifiers got better and cheaper." ← https://www.youtube.com/watch?v=qrrwqdpCjpQ
 **Introduction with Electrical Recording (1925)** : Amplifiers were introduced as part of the new electrical recording technology in 1925, working in conjunction with microphones. This advancement was critical for capturing and enhancing sound beyond the limitations of purely acoustic methods. "This involved the use of these newfangled listening sticks called microphones and also things called amplifiers." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
 
+## artists
+- Blink 182
+- Depeche Mode
+- Dick Dale
+- Link Wray
+

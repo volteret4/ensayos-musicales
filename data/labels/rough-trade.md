@@ -13,3 +13,12 @@
 **Signed The Strokes** : Rough Trade, a UK-based label, signed The Strokes after American labels showed no interest in the band despite the buzz they had generated. Rough Trade "loved what they heard" from the band's demos, leading to their debut album "This Is It." "So they sent some demos to Rough Trade in the UK, and Rough Trade loved what they heard." ← https://www.youtube.com/watch?v=UpWz3X33vSY
 **Transition to Record Label (1978)** : In 1978, Jeff Travis expanded Rough Trade into an independent record label. One of its earliest releases was "Alternative Ulster" by the Belfast band Stiff Little Fingers. "In 1978, Travis decided to jump into the indie record label game and one of the labels very earliest releases was by a bell fast band called Stiff Little Fingers." ← https://www.youtube.com/watch?v=dDcD8kg0wEk
 
+## artists
+- Agit Pop
+- Stiff Little Fingers
+- The Flying Bricks
+- The Normal (Daniel Miller)
+- The Smiths
+- The Strokes
+- Young Marble Giants
+

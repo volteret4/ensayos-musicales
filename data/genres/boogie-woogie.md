@@ -4,3 +4,6 @@
 **Dissemination via Radio (WWII Era)** : Boogie-Woogie was one of several new sounds, including Jump Blues, Swing, Gospel, and Spear Trolls, that became part of a "melting pot" of music disseminated through radio during World War II. This was a direct result of the problems faced by Big Bands and the American Federation of Musicians strike, which opened airwaves to diverse genres. "Boogie-Wooogie, Jump Blues, Swing, Gospel, Spear Trolls, a whole new melting pot of sounds was created and disseminated through the radio as a result of the big band problems and the musician's strike." ← https://www.youtube.com/watch?v=V7WjNR1ujhk
 **Historical Racist Criticism** : Boogie-Woogie was targeted in a British newspaper review which described it as deplorable and tribal, originating from America and stemming from the "jungle," suggesting it might be "the Negro's revenge." This criticism also linked boogie-woogie with other genres like ragtime, blues, jazz, and hot cha-cha under the same racist condemnation in 1956. "It follows ragtime, blues, jazz, hot cha-cha, and the boogie-woogie, which surely originated in the jungle. We sometimes wonder whether this is the Negro's revenge." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
 
+## artists
+- Pinedop Smith
+

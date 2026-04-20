@@ -5,3 +5,7 @@
 **Interview Location** : The interview for this transcript, involving Neil Osborne, Brad Merritt, Matt Johnson, and David Genn of 5440, took place in the basement of the Horseshoe Tavern in Toronto. "Neil Brad, Matt and David all took part in this chat in the basement of the horseshoe tavern in Toronto." ← https://www.youtube.com/watch?v=W9gdKha0PLg
 **The Tragically Hip Record Deal Showcase** : The Tragically Hip showcased their material at the Horseshoe Tavern in Toronto, a performance that led to their signing with MCA Records. "The tragically hip was signed to MCA Records after they showcased their stuff at the horseshoe tavern in Toronto." ← https://www.youtube.com/watch?v=oMBmdfrA47Q
 
+## artists
+- 5440
+- The Tragically Hip
+

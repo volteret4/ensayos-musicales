@@ -11,6 +11,7 @@
 **Historical Scope** : The history of alternative rock, as explored in this series, delves into every facet of the genre, tracing its origins from the 1950s right up to the present day. "So every Sunday you'll get a brand new episode of this series that examines every single facet of alt-rock from the 1950s right up to, well, pretty much today." ← https://www.youtube.com/watch?v=0xd0Hf5REg4
 **Historical Series Overview** : The "history of alt-rock series" is a 15-part deep dive examining every facet of alt-rock from the 1950s up to the present day. "We're going all the way back to this spring of 2010 and a 15-part deep dive into the history of alternative rockets, the history of alt-rock series." ← https://www.youtube.com/watch?v=9uTORLOm5Yg
 **History Overview** : The history of alternative rock spans from its pioneers in the 1950s and 60s, through explosions in the 1970s and early 80s, the "alt-rock nation" days of the 1990s, and the rise of indie rock in the early 21st century. It encompasses punk, new wave, grunge, Britpop, and indie movements. "We started all the way back in the 1950s and we tracked the early pioneers through the 60s and early 70s, followed by the explosion of the 1970s and early 80s, the alt-rock nation days of the 1990s and the rise of Indy Rock in the first decade of the 21st century." ← https://www.youtube.com/watch?v=-CT7yYXonIk
+**History Series Context (2010)** : A 15-part deep dive into the history of alternative rock, titled "the history of alt-rock series," was produced, examining every facet of alt-rock from the 1950s up to the present day. "a 15-part deep dive into the history of alternative rockets, the history of alt-rock series." ← https://www.youtube.com/watch?v=VYi3r0G-ne4
 **Long History of Revivals** : The segment of the rock universe known as alternative rock has existed for nearly 50 years, and throughout this half-century, it has experienced numerous internal revivals where older sounds are rediscovered and re-fashioned. "We've been calling a certain segment of the rock universe alternative for almost 50 years now." ← https://www.youtube.com/watch?v=gkLMwrthZ9s
 **Longest Surviving Sub-culture** : Goth is identified as one of the longest surviving alternative rock sub-cultures in the world. "Think of this as a beginner's guide to one of the longest surviving alternative rock sub-cultures in the world." ← https://www.youtube.com/watch?v=evlGhfUe6QQ
 **Mainstream Takeover in Early 90s** : Alternative rock began taking over the mainstream in the fall of 1992, coinciding with the release and commercial success of Stone Temple Pilots' debut album *Core* and hit song "Plush." "From the fall of 1992, right as alternative rock was taking over the mainstream, that Stone Temple Pilots and plush a huge commercial success, 10 million copies sold around the world." ← https://www.youtube.com/watch?v=r6vVw66-gmI
@@ -20,4 +21,25 @@
 **Rejection of the Fade-Out Technique** : A key legacy of punk and New Wave, influencing alternative rock, was the shunning of the fade-out as a song ending technique. Bands like Pearl Jam and Nirvana, along with many other punk and alternative groups, opted for definitive beginnings and endings for their songs. "One of the legacies of punk in New Wave was the fact that the fader became shunned." ← https://www.youtube.com/watch?v=gP3oQeYEvso
 **Shift in Ethos and Anti-Fashion** : With the rapid growth of alternative rock, especially grunge, the entire ethos of music videos shifted. Glamour was out, replaced by an unpolished and authentic aesthetic. Fancy sets and costumes gave way to anti-fashion, and camera and band performances became central, often accompanied by an increased level of sincerity and irony. "Glamour was out, unpolished and authentic was in. Fancy sets and costumes were out, anti-fashion took over from fashion." ← https://www.youtube.com/watch?v=7IDbqdIw3WU
 **Struggles in 2000** : At the turn of the millennium, Alt Rock "had apparently reached some kind of a dead end," with grunge heroes either having broken up, moved on, or died, and New Metal being too polarizing to carry the genre. "Rock, especially Alt Rock, had apparently reached some kind of a dead end." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
+
+## artists
+- Beck
+- Blackfire
+- Dave Grohl
+- Green Day
+- Hüsker Dü
+- INXS
+- Jane's Addiction
+- Lincoln Park
+- Lou Reed
+- Nirvana
+- Pixies
+- R.E.M.
+- Scott Weiland
+- Sonic Youth
+- Stone Temple Pilots
+- The Cure
+- The Smiths
+- The Velvet Underground
+- Twenty One Pilots
 
