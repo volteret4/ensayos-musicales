@@ -1,0 +1,15 @@
+[Unit]
+Description=Collages de orpheus
+After=network.target
+
+[Service]
+Type=simple
+User=pepe
+WorkingDirectory=/home/pepe/gits/pollo/ensayos-musicales
+Environment="PATH=/usr/bin:/usr/local/bin"
+ExecStart=/home/pepe/Scripts/python_venv/bin/python3 /home/pepe/gits/pollo/ensayos-musicales/edit_data.py
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
