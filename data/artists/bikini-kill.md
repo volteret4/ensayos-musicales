@@ -5,6 +5,7 @@
 - Kathleen Hanna
 - Kathleen Hannah (singer)
 - Tobi Vail
+- Toby Vale
 
 ## genres
 - Feminist Rock

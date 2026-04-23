@@ -1,5 +1,8 @@
 # artist - Social Distortion
 
+## members
+- Mike Ness
+
 ## genres
 - Hardcore
 - Hardcore punk
@@ -17,6 +20,7 @@
 
 ## curiosities
 **Cuckoo's Nest Performances** : Social Distortion was among the punk bands that performed at The Cuckoo's Nest in Costa Mesa, a club renowned for its role in the early development of slam dancing. "The place hosted a lot of punk shows, from the Ramones to the Dam to Social Distortion." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
+**Heroin Problem Overcome** : Mike Ness of Social Distortion successfully overcame a heroin addiction. "Mike Ness of Social Distortion had a heroin problem that he managed to kick and Shannon Hoon of Blind Mel and had a drug counselor but he wasn't able to keep Hoon from OD and dying." ← https://www.youtube.com/watch?v=EyagC0T7mR4
 **Influence on Major Artists** : Social Distortion is cited among several California hardcore bands that were very important to the musical education of figures like Eddie Vedder and Dave Grohl. "Talk to Eddie Vetter or Dave Grohl, and they'll tell you how some of these bands were really, really important to their musical education." ← https://www.youtube.com/watch?v=0qigzi1j81U
 **Influence on Other Musicians** : Social Distortion is noted as being very important to the musical education of musicians like Eddie Vedder and Dave Grohl. "Talk to Eddie Vetter or Dave Grohl, and they'll tell you how some of these bands were really, really important to their musical education." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
 **Multiple Warped Tour Shows (1997)** : Social Distortion performed a number of shows during the 1997 Warped Tour. "social distortion played a bunch." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4

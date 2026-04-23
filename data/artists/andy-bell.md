@@ -3,4 +3,5 @@
 ## member of
 - Beady Eye
 - Oasis
+- Ride
 

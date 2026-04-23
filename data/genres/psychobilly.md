@@ -2,12 +2,15 @@
 
 ## curiosities
 **Description** : Psychobilly is described as a crazier and more amped-up version of rockabilly music. Hassel Adkins is noted as a pioneer in this style. "If you're into psychobilly, the crazier and more amped-up version of rockabilly, Hassel Adkins was a pioneer." ← https://www.youtube.com/watch?v=HcK4M7-02ik
+**Genre Definition** : Psychobilly is described as a musical genre that blends elements of punk, old-school rock and roll from the 1950s and early 1960s, rockabilly (an early form of rock and roll), and rhythm and blues. "This is a mix of punk old school rock and roll from the 50s and early 60s, rockabilly in early form of rock and roll, and rhythm and blues." ← https://www.youtube.com/watch?v=I9_3EbwKPnU
+**Geographical Home and Fan Pockets** : While psychobilly has fans globally, including unexpectedly in Eastern Europe, its primary home is in the US South. "Although Psychobilly has pockets of fans everywhere, including oddly enough, Eastern Europe, its home is in the US south." ← https://www.youtube.com/watch?v=I9_3EbwKPnU
 **Origin and Description** : Psychobilly is defined as a "tiny sort of bluesy garage rock" that conjures the atmosphere of a B-grade horror movie. Lux Interior and Poison Ivy of The Cramps are largely credited with the invention of this genre. "psychobilly, a tiny sort of bluesy garage rock that sounds like it belongs in a big-rate horror movie. Hell, Lux and Ivy pretty much invented psychobilly." ← https://www.youtube.com/watch?v=oLC49nCf0ZM
 **Psychobilly – The Cramps from NYC Punk; Real Home Now Europe (Especially Post-Soviet States); Canadian Bands: The Brains, Gutter Demons, The Creepshow** : Psychobilly combines one part punk, one part rockabilly (country-fied early rock and roll from the 1950s), and one part schlocky sci-fi and horror movies. Tip further toward horror and you get Gothabilly; drop country elements and you get Horror Punk. The Cramps emerged from the New York punk stew of the 1970s as the kings of psychobilly, but psychobilly's real home has become Europe — first the UK, then eastern Europe (East Germany, Poland, Bulgaria, and former Soviet satellite states). Canadian contributions include The Brains, the Gutter Demons, and The Creepshow, the last of which mines horror movie themes. "Most of these flavors also have themes of sex and violence in common, and more than a few ditch electric-based guitarists for upright double bases." ← https://www.youtube.com/watch?v=9cAeeExXKwU
 **Punk with Rockabilly and Horror** : Psychobilly is a form of punk music characterized by an "old-time rockability feel" that is grittier than traditional rockabilly. A key element of its aesthetic is a "fascination with horror movies." "Psychobilly was a form of punk that had an old-time rockability feel, but was even more gritty. Plus, it had a fascination with horror movies." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 
 ## artists
 - Hassel Adkins
+- Mojo Nixon
 - Poison Ivy
 - The Cramps
 

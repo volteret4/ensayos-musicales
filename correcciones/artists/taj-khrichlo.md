@@ -1,0 +1,7 @@
+# artist - Taj Khrichlo
+
+## curiosities
+**Career as Music Video Director** : Taj Khrichlo is identified as one of the top music video directors worldwide, known for producing "game-changing videos" for prominent artists. He has been working in the music video industry for over two decades. His production company, Fella, gained significant recognition with the music video for "Popstar." "Director X and Taj Khrichlo, two of the biggest music video directors on the planet. These guys are responsible for game-changing videos from artists like Drake and Coldplay and Kendrick Lamar and so many more." "We broke our production company, Fella, with this music video for DJ Khaled, Drake and Bieber called Popstar." ← https://www.youtube.com/watch?v=TsiYLGGSJ2U
+**Host of Art Katex Podcast** : Taj Khrichlo is identified as a host of the new podcast "Art Katex, the Architects of Art." He is recognized as one of the biggest music video directors globally. "The cool thing is the show is hosted by Director X and Taj Khrichlo, two of the biggest music video directors on the planet." ← https://www.youtube.com/watch?v=zNIVqKqAlnk
+**Responsible for Game-Changing Music Videos** : Taj Khrichlo has created "game-changing videos" for prominent artists such as Drake, Coldplay, and Kendrick Lamar, among many others. "These guys are responsible for game-changing videos from artists like Drake and Coldplay and Kendrick Lamar and so many more." ← https://www.youtube.com/watch?v=zNIVqKqAlnk
+

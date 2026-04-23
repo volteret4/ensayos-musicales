@@ -6,7 +6,10 @@
 ## genres
 - Mod
 - Mod Culture
+- Mod Revival
+- New Wave
 - Pop
+- Post-Punk
 - Punk
 - Punk Rock
 - R&B
@@ -16,6 +19,7 @@
 
 ## songs
 **Art School (1977)** : This song is the first track on side one of their 1977 debut album, "In The City." "The jam and art school, side one, track one from their 1977 album In The City." ← https://www.youtube.com/watch?v=gKrAXMG8sTc
+**Down in the Tube Station at Midnight** : This song exemplifies the sound of The Jam, recognized as the foremost British Mod Revival band. The band was pivotal in the 1970s revival, adopting mod attitudes and aesthetics within the post-punk era. "The jam, the greatest of the British mod revival bands with down in the Tube Station at midnight." ← https://www.youtube.com/watch?v=mAlc-N2wn5s
 
 ## curiosities
 **Box Set Demo Contributions** : The Jam has benefited from including demo versions in their box set collections, leveraging this format to release previously unheard material. "David Bowie, the cure, the jam, the remones, joy division, the velvet underground, the smashing pumpkins, they've all benefited from putting demo versions into their box set collections." ← https://www.youtube.com/watch?v=zT6pRGYLWhw
@@ -25,6 +29,7 @@
 **Family Management** : The band members' parents were supportive, partly because the group was managed by the singer's father. "First of all, they were managed by the singer's father." ← https://www.youtube.com/watch?v=gKrAXMG8sTc
 **Famous Union Jack Jackets** : As The Jam gained more financial success, they commissioned their tailor to create their famous Union Jack jackets. These distinctive jackets became an iconic part of their stage presence and a strong visual representation of their British Mod identity. "Here when the band had more money they commissioned their tailor to make them their famous union jack jackets." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM
 **Formation in Woking** : The band was formed by three teenagers in the city of Woking during a shower. They established a routine of meeting daily at noon in one of their school rooms to jam, which ultimately led to them adopting the name "The Jam." "Up in the city of walking, three teenagers started a band during one shower." ← https://www.youtube.com/watch?v=gKrAXMG8sTc
+**Greatest Mod Revival Band** : The Jam is highlighted as the biggest and greatest of the British mod revival bands. They played a crucial role in the 1970s resurgence of mod culture, with some post-punk bands adopting its attitudes and aesthetics. "The jam, the greatest of the British mod revival bands with down in the Tube Station at midnight." ← https://www.youtube.com/watch?v=mAlc-N2wn5s
 **Hepworth's Suits and Tailored Collars** : Paul Weller enforced a strict Mod dress code, insisting that the band wear suits purchased from a Mod club called Hepworth's. Before leaving the store, he personally ensured that all suit collars were precisely cut down to a width of 1 inch to achieve the authentic sharp Mod look. "He insisted that the band wear suits purchased at a mod club called Hepworth's. But before they left the store he insisted that all the collars be cut down to a width of 1 inch." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM
 **Leaders of 1970s Mod Revival** : The Jam, spearheaded by their leader Paul Weller, were instrumental in leading a significant Mod revival in the 1970s. Weller's lifelong fascination with the original Mods and his admiration for bands like The Kinks and The Who heavily influenced the band's visual and musical direction. "There was a mod revival in the 1970s and was led by the jam." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM
 **Managerial Connection** : John Weller, father of Paul Weller and manager of The Jam, played a role in pushing for The Vapors to record their hit song "Turning Japanese." "John Weller, the father of the jam's Paul Weller and manager of that band, pushed to have the Vapers recorded." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M

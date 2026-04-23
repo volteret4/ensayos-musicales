@@ -1,4 +1,4 @@
-# artist - J Mascis
+# artist - J. Mascis
 
 ## member of
 - Dinosaur Jr.

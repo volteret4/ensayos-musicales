@@ -7,8 +7,10 @@
 
 ## genres
 - Motown
+- New Wave
 - Post-Punk
 - Ska
+- Two Tone
 
 ## labels
 - Sire Records
@@ -30,6 +32,7 @@
 **Radio Discovery in Brandon, Manitoba** : The speaker learned about The English Beat while working at KX96 in Brandon, Manitoba, a station known for its eclectic mix of music in 1983. "So that's where I learned a little bit about the English beat and the specials and a few other artists that we played." ← https://www.youtube.com/watch?v=4xxgPX-aR90
 **Ranking Roger's Death in 2019** : Ranking Roger, a member of The English Beat, died in 2019. "Ranking Roger of the English Beat." ← https://www.youtube.com/watch?v=sdPeii-8Ysw
 **Saxa's Ska Pedigree** : Saxa, the band's saxophonist, had previously played with legendary Ska artists like Prince Buster and Desmond Dekker, bringing deep genre knowledge to The English Beat. "saxo had played with Scott Giants like Prince Buster and Desmond Decker in the early days, so this guy really knew what he was doing." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
+**Second Wave Ska Band** : The English Beat is mentioned as a British group associated with the "Two Tone" sound, characteristic of the "second wave" of ska in the late 1970s and early 1980s. "Second wave Skop was what we heard from two tone bands, like the Specials, and British groups like Madness and the English beats in the late 70s and early 80s." ← https://www.youtube.com/watch?v=mAlc-N2wn5s
 **Selling Blank Cassettes at Shows** : The band sold blank cassettes at their merchandise table during their shows, actively encouraging fans to bootleg the performances and copy their records. This action directly contradicted the music industry's "Home Taping Is Killing Music" campaign. `"The English beat sold blank cassettes at their merch table at their shows, in hopes that fans would bootleg the show and copy their records."` ← https://www.youtube.com/watch?v=OuFvfZJKcpc
 **The English Beat – Mirror in the Bathroom (1980); Held Out Against Violence and Racism Through Music; Second Wave Ended ~1985** : The English Beat, led by Dave Wakeling, were formed in the late 1970s and had their first hit with "Mirror in the Bathroom" (1980), a classic of the great ska revival. The second wave of ska — spanning roughly 1979 to 1985 — was vibrant and carried a hopeful message as a positive alternative to hard economic times and racial riots in Britain. By the mid-1980s, Jerry Dammers was broke and Two-Tone was falling apart under huge debt; despite efforts by the Clash, the Beat, and Bad Manners, the second wave ended around 1985. "Ska was a positive alternative to the hard economic times and the racial riots that were plaguing Britain in the early 1980s." ← https://www.youtube.com/watch?v=VxWp7HrT8oE
 

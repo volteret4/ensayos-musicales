@@ -11,6 +11,7 @@
 ## genres
 - Garage Rock
 - Mod
+- R&B
 - Rock
 - Rock Opera
 
@@ -26,6 +27,7 @@
 ## instruments
 - Gibson Les Paul
 - Marshall Amplifier
+- Modular console (Olympic Studios)
 - Rickenbacker guitar
 
 ## albums
@@ -36,6 +38,7 @@
 ## songs
 **I Can't Explain** : An original song, covered by David Bowie on his 1972 album Pinups. "David Boyle from his 1972 album, Pinups, and his version of The Who's can explain." ← https://www.youtube.com/watch?v=_YjwRApoJhA
 **Who Are You** : This song serves as the theme for the popular TV show "CSI," being heard on every episode. Its use as a consistent theme song represents a significant and ongoing source of revenue through licensing. ← https://www.youtube.com/watch?v=sfie4YYncxk
+**Won't Get Fooled Again** : The famous scream by Roger Daltrey towards the end of this song was recorded at Olympic Studios. "Roger Dahltry's famous scream near the end of the Who's Won't Get Fooled Again was recorded at Olympic." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
 
 ## curiosities
 **Accidental Death of Chauffeur (January 4, 1970)** : On January 4, 1970, outside the Red Lion Pub near London, Keith Moon's car was pelted with rocks and bottles by a crowd of skinheads. His chauffeur, Neil Bowen, stepped out to try and calm the situation. In a panic, Moon, who did not have a driver's license, jumped behind the wheel and hit the accelerator, trapping and dragging Bowen beneath the car, leading to his death in hospital. "On January 4, 1970, Keith ran into an angry crowd outside the Red Lion Pub near London, a group of skinheads went after Moon and his Bentley pelting it with rocks and bottles." ← https://www.youtube.com/watch?v=5vKSjpvVQa8
@@ -50,13 +53,16 @@
 **Continued Activity** : The Who are still actively making records and touring, thereby competing for audience attention and money in the music marketplace. "I mean, the stones, members of Pink Floyd, and you too, and the Eagles, and the who, and Dylan, and Paul McCartney, they're still making records, they're still touring." ← https://www.youtube.com/watch?v=Z7glrAoXtkA
 **Drummer Zach Starkey** : Zach Starkey, son of Ringo Starr, secured a gig with The Who and has been their on-call drummer for live performances ever since. His godfather, Keith Moon, was also The Who's drummer. "He got a gig with The Who, which seems fitting, given his family history. And since then, he's been on call with them whenever the Who plays live." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
 **Following Sgt. Pepper's Lead** : The Who were among the bands that got into the act of creating concept albums after the release of The Beatles' *Sgt. Pepper's Lonely Hearts Club Band*. "That opened the floodgates, the moody blues, the who, Frank Zappa, the kinks, and a bunch of other bands got into the act." ← https://www.youtube.com/watch?v=Dm5N6yDRxXQ
+**Hotel Room Trashing** : The Who were known for their wild behavior on tour, including trashing hotel rooms, an anecdote frequently brought up in discussions about crazy tours in music history. "The Who Trashing Hotel Rooms led Zeppelin's tours with their private jet groupies and tons of drugs." ← https://www.youtube.com/watch?v=Jvh8SP2QKXQ
 **Influence on Death** : Death, originally a funk band, had a musical epiphany after witnessing a performance by The Who, which contributed to their shift towards a harder sound. "after seeing the who and Alice Cooper, they had an epiphany." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 **Influence on Jeff Buckley** : The Who was one of the bands that Jeff Buckley's stepfather introduced him to. "the who." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
 **Instrument Smashing** : The Who were known for smashing their instruments on stage as part of their performances. "the who smashed their instruments" ← https://www.youtube.com/watch?v=SIK2YFSmf9U
 **Loudest Band Record (1976)** : For an extended period, The Who held the record for being the loudest band, having been clocked at 126 decibels during a show in London on May 31, 1976. This sound level is significant as it reaches the threshold where physical pain begins for listeners. "On May 31, 1976, they were clocked at 126 decibels at a show in London." ← https://www.youtube.com/watch?v=qrrwqdpCjpQ
+**Mod Culture Icon** : The Who were particularly embraced by the Mod culture, a British subculture that emerged in 1958 and was intensely focused on music, fashion, motor scooters, and drugs. They were a key band for this movement's embrace of British R&B. "and especially the Who." ← https://www.youtube.com/watch?v=mAlc-N2wn5s
 **Mod Culture Influence** : The Who was a significant local band whose music was highly popular among the Mod youth cult in mid-1960s Britain. "locally the Who and the Kinks in the Small Faces." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM
 **Mod Revival Inspiration** : The Who was one of Paul Weller's favorite bands, serving as a key inspiration for his fascination with the original Mods and his decision to infuse The Jam's image with Mod aesthetics. "Leader Paul Weller had always been fascinated by the original mods and his favorite bands became the Kinks in the Who." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM
 **Multiple Factors in Cincinnati Tragedy** : Observers attributed the Cincinnati stampede to several factors: the prevalence of 80% general admission tickets, which incentivized a rush for prime viewing spots; the prolonged waiting times for fans, some of whom had consumed alcohol or drugs; and the breaking open of only a single pair of doors, creating a bottleneck that led to the crush. "Observers blamed the tragedy on several factors." ← https://www.youtube.com/watch?v=Pgchw2h87aw
+**Music Via Olympic Console** : Records by The Who, along with those by Led Zeppelin, very likely had their music processed through one of the famous modular consoles from Olympic Studios of the late 1960s and early 1970s, which is now preserved at the National Music Center in Calgary. "If you have records by the Who and Led Zeppelin, there is a very good chance the music went through that exact hardware." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
 **Musical Exposure for Lenny Kravitz** : Lenny Kravitz was exposed to the music of The Who during his upbringing, among other seminal rock and jazz artists. "But along with jazz and classical, he was exposed to the who and Led Zeppelin, KISS, and Pink Floyd and Jimmy Hendrix in the Rolling Stones." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 **Recording at Battery Studios** : The Who recorded classic albums at Battery Studios in Willesden Green, London, the same studio later used by The Tragically Hip for *Fully Completely*. "Pink Floyd, Palmer Cartney, Black Sabbath, Rod Stewart, the Cure, the Who, and dozens more had all made classic albums there." ← https://www.youtube.com/watch?v=Vs1YyXgLpTE
 **Reunion for Touring** : The Who were one of many bands from the 60s, 70s, 80s, and 90s that reunited in the 21st century. This trend was primarily driven by financial motivations, as declining CD sales from 2000-2001 led to shrinking royalty revenues for artists, while promoters sought reliable acts to fill large venues and appeal to nostalgic fan demographics with disposable income. "The list of reunions is long." ← https://www.youtube.com/watch?v=GYUuTbOvyak

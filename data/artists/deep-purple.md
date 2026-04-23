@@ -14,6 +14,8 @@
 
 ## songs
 **Highway Star (1972)** : This 1972 song features John Lorde running his Hammond organ through a Big Muff pedal, showcasing how distortion pedals could be effectively applied to instruments other than guitars to create a powerful, growling sound. "Check out John Lorde from Deep Purple on Highway Star from 1972. This is a Hammond organ run through a pedal." ← https://www.youtube.com/watch?v=iGav9uJwA_w
+**Smoke on the Water** : The Rolling Stones Mobile Recording Studio is explicitly mentioned and immortalized within the lyrics of this song. "It's even immortalized in the deep purple song Smoke on the Water." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
+**Smoke on the Water (Guitar Riff Surveys)** : Consistently appeared in multiple surveys for greatest guitar riffs. It ranked at number four in the Sky Arts survey and also at number four in Guitar World magazine's survey. "deep purples, smoke on the water, which you can see coming." ← https://www.youtube.com/watch?v=KtdIMNoHqA8
 **Smoke on the Water – Riff Derived from Beethoven's Fifth in Reverse** : Guitarist Ritchie Blackmore based the iconic opening riff of this song on a reversed version of the opening notes of Beethoven's Fifth Symphony. The riff also bears similarity to a 1963 bossa nova song called "Maria Moita." "Based the iconic riff on a reversed version of the opening notes of Beethoven's Fifth Symphony." ← https://www.youtube.com/watch?v=0DFmS6MPbFI
 
 ## curiosities

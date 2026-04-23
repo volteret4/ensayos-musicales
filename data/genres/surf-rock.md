@@ -8,4 +8,5 @@
 - Dick Dale and the Deltones
 - Duane Eddy
 - The 5678's
+- The Beach Boys
 

@@ -11,6 +11,7 @@
 
 ## curiosities
 **Additional Albums (1990s)** : Rusty released two more unnamed albums before the end of the 1990s. "And two more albums before the end of the 90s." ← https://www.youtube.com/watch?v=P0pOgz3ZobE
+**Early 1990s Prime Time Success** : Rusty was listed as one of the Canadian bands that achieved "prime time" attention and success in the early 1990s. "There was Pluto and Jail and Doeboys and Rusty and Sloan." ← https://www.youtube.com/watch?v=U2kYleeMnl8
 **Ken MacNeil's Post-Rusty Career** : After the band scattered, Ken MacNeil found work as a bricklayer and construction worker in Northern Ontario. "One of the guys, I think it was Ken. Found a job as a bricklayer and construction worker in Northern Ontario." ← https://www.youtube.com/watch?v=P0pOgz3ZobE
 **Rusty Farewell Show (November 25, 2000)** : The band performed a farewell concert in Toronto on November 25, 2000. "There was a farewell show in Toronto on November 25, 2000." ← https://www.youtube.com/watch?v=P0pOgz3ZobE
 **Rusty Formation and Early Recordings** : Scott McCullough teamed up with singer Ken MacNeil in Toronto, gathered a full band, and began recording independent records. "He teamed up with singer Ken McNeil in Toronto, pulled a full group around them, and started recording indie records." ← https://www.youtube.com/watch?v=P0pOgz3ZobE

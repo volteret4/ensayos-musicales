@@ -5,3 +5,7 @@
 **Extensive Vinyl Collection** : The BBC possesses an extremely large vinyl collection, with its record shelves extending for an impressive 66 miles, which is equivalent to 100 kilometers. "Someone measured the shelving the BBC has for its records. And those shelves extend for sixty six miles, a hundred kilometers of shelves filled with records." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
 **Nine Inch Nails Miniseries Partnership** : The BBC is collaborating with HBO to develop a sci-fi miniseries based on Nine Inch Nails' concept album *Year Zero*. This project involves significant financial investment and major industry players. "Year Zero is so compelling that HBO and the BBC are working together to create a sci-fi miniseries based on the record." ← https://www.youtube.com/watch?v=1KyNY3zv6uc
 
+## artists
+- Daphne Orham
+- Delia Derbyshire
+

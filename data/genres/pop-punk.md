@@ -4,6 +4,7 @@
 **1990s Explosion** : Pop punk experienced a significant and widespread surge in popularity throughout the 1990s, marking a major shift in the musical landscape and cementing its status as a major genre. "Pop punk exploded in popularity throughout the 1990s." ← https://www.youtube.com/watch?v=tZV1lz-obQE
 **21st Century Spread and "Too Poppy" Bifurcation** : Pop punk continued to expand into the 21st century, but by the mid-2000s, a "bifurcation" emerged within the genre. Some bands were criticized for being "too poppy for punk," leading to their rejection by certain alt-rock radio stations and being derisively labeled "kitty punk" by audiences who felt their fans were "too young." "we started to see a bifurcation in the pop punk world. For some, you could be too poppy for punk." ← https://www.youtube.com/watch?v=pE7TaWSUa-o
 **Accessibility Compared to Grunge** : In the mid-1990s, pop punk offered a sound that was "even more accessible to more people than Grunge," contributing significantly to its broad appeal and widespread popularity. "In fact, you can argue that this form of alt-rock was even more accessible to more people than Grunge." ← https://www.youtube.com/watch?v=pE7TaWSUa-o
+**All-Women and LGBTQ+ Band** : Meet Me @ The Altar is an "excellent pop punk band" composed entirely of women and LGBTQ+ individuals, described as a "black version of Paramore." "They're an excellent pop punk band." ← https://www.youtube.com/watch?v=_1NNvxgx8uA
 **Blink-182's Influence** : Blink-182 is regarded as one of the most influential pop punk bands of the 21st century. Their distinct sound and successful career trajectory have inspired a lengthy list of artists within the genre and beyond. "Blink has to be considered one of the most influential pop punk bands of the 21st century." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE
 **Brief Surge in 2010s, Compared to Previous Waves** : Pop Punk experienced a brief surge in the 2010s, though it was less popular than its "first wave" in the 90s and "second wave" in the 2000s. The genre was kept alive by "Big Heritage Acts" like The Offspring, Blink-182, Sum 41, and Simple Plan, as well as "culty bands" such as Wavves, Bass Drum of Death, Ty Segall, and PUP, who sometimes incorporated harder edges and garage rock elements. "Another genre that saw a brief surge in the 2010s was Pop Punk." "Although it was nowhere nearer as popular as we saw in the 90s, which was the first wave, and in the Outs, the second wave." ← https://www.youtube.com/watch?v=HSvgRyGiOpE
 **California Origin and Naming** : In California, punk bands began experimenting with melody, harmonies, and arrangements, adopting a less serious approach to punk rock. This evolving style started gaining coverage in the San Francisco-based publication *Maximum Rock and Roll*, which subsequently began using the term "pop punk" to describe melodic punk bands like Social Distortion and The Vandals. "California bands decided not to be so serious when it came to punk rock after a while." ← https://www.youtube.com/watch?v=tZV1lz-obQE
@@ -27,6 +28,7 @@
 **Reflection of Economic Optimism** : The rise of pop punk coincided with an improving global economy and a more positive public mood, following a severe recession earlier in the decade. The genre served as a welcome "antidote" and release from the gloom associated with grunge and the previous economic downturn. "After a brutal recession earlier in the decade, the world economy began to improve, and people's moods began to improve." ← https://www.youtube.com/watch?v=pE7TaWSUa-o
 **Rock's Last Years at Cultural Peak** : The mid-90s surge of pop punk represented "rock's last years at the top of the cultural heat" before the increasing power and influence of hip-hop and rap began to dominate the music landscape. "In many ways, this was rocks last years at the top of the cultural heat before hip-hop and rap really started to exert its power and influence." ← https://www.youtube.com/watch?v=pE7TaWSUa-o
 **Venue Changes** : Venues historically associated with booking pop punk bands either closed or began booking different types of acts. "Venues that were once known for booking these bands either closed or moved to booking different acts." ← https://www.youtube.com/watch?v=sOU54d8mr5k
+**Willow Smith's Flair for the Genre** : Willow Smith has explored various styles but has a particular flair for pop punk, working both solo and in collaborations with artists like Machine Gun Kelly and Travis Barker. "But really seems to have a flair for punk pop, working on her own as well as collaborating with people like Machine Gun Kelly and Travis Barker of Blink 182." ← https://www.youtube.com/watch?v=_1NNvxgx8uA
 **Willow Smith's Genre Shift (2021)** : Willow Smith transitioned to a more pop-punk style for her fourth album in 2021, a change aided by collaboration with Travis Barker of Blink-182. "For her fourth album in 2021, she switched things up a bit into a more pop punk vein with help from Travis Barker of Blink 182." ← https://www.youtube.com/watch?v=dY7uB_QQWBc
 **Worldwide Phenomenon** : In contrast to many niche punk derivatives, pop punk has evolved into a worldwide phenomenon, becoming one of the most popular forms of punk rock of all time and a leading form of alternative rock over the last 25 years. "one of the most popular forms of punk rock of all time." ← https://www.youtube.com/watch?v=tZV1lz-obQE
 
@@ -45,6 +47,7 @@
 - Good Charlotte
 - Green Day
 - Hedley
+- Meet Me @ The Altar
 - My Chemical Romance
 - Neck Deep
 - New Found Glory
@@ -63,4 +66,5 @@
 - The Wonder Years
 - Ty Segall
 - Wavves
+- Willow
 

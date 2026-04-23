@@ -1,0 +1,8 @@
+# instrument - Magnetic Tape
+
+## curiosities
+**Analog Recording Medium** : Magnetic tape is an analog recording medium, often represented by the "A" in Spars Codes (e.g., AAD, ADA, AAA). Music recorded on old-school magnetic tape is considered an analog recording. "If it was recorded on old-school magnetic tape, that's analog, so A." ← https://www.youtube.com/watch?v=yPok3MemDmE
+**Nazi Origin and Commercialization** : Magnetic tape was originally a Nazi invention that was brought to the Allies as part of the spoils of war. Bing Crosby subsequently invested his own money to help commercialize this technology, revolutionizing recording sessions by enabling sound editing. "This was a Nazi invention brought back to the Allies as part of the swoils of war." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
+**Revolutionizing Recording Through Editing** : The adoption of magnetic tape revolutionized recording sessions because it allowed for editing. Performers could splice together different takes or parts of performances using a razor blade, a capability that purists criticized as "cheating" if a musician couldn't play a song perfectly in one go. "This revolutionized recording sessions because tape could be edited." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
+**Revolutionizing Recording and Editing** : In the 1950s, recording studios transitioned from direct-to-disk methods to magnetic tape. This innovation allowed for mistakes to be corrected by rewinding and re-recording, eliminating the need to discard entire disks and paving the way for multi-track recording and electronic fade-outs. "But in the 1950s, recording studios started changing over from the direct to disk method to magnetic tape." ← https://www.youtube.com/watch?v=yPok3MemDmE
+

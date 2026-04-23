@@ -3,6 +3,7 @@
 ## members
 - (four-piece, all-female band)
 - Debbie Peterson
+- Susanna Hoffs
 
 ## genres
 - Alternative
@@ -10,6 +11,9 @@
 - Paisley Underground
 - Pop
 - Pop (later)
+
+## instruments
+- Rickenbacker
 
 ## albums
 **All Over the Place (1984) – Debut Album** : The Bangles' 1984 debut album is noted as a "great sounding record." Before their mainstream success as a Top 40 band, they were part of the alternative scene known as The Paisley Underground. "Their debut album from 1984 is still a great sounding record." ← https://www.youtube.com/watch?v=9GHpC0kCgHY

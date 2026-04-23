@@ -3,6 +3,7 @@
 ## member of
 - Alice in Chains
 - Layne Staley
+- Mad Season
 
 ## members
 - Layne Staley

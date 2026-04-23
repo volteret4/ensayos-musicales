@@ -14,6 +14,9 @@
 - 1982 World Tour
 - Ozzfest 2000
 
+## songs
+**Crazy Train (Guitar World Survey)** : Ranked at number two in Guitar World magazine's survey for greatest guitar riffs, specifically crediting Randy Rhoads for the guitar work. "And second spot, crazy train, Randy Rhodes playing for Ozzy Osport, good call." ← https://www.youtube.com/watch?v=KtdIMNoHqA8
+
 ## curiosities
 **1982 World Tour Advertisement** : An advertisement from 1982 promoted Ozzy Osbourne's "1982 World Tour" with special guests Starfighters, live at an auditorium. The ad described an "awesome garage of sound and light" that would "rip through you in a rage of heavy metal fury," encouraging attendees to "Enter the world of a madman." The face value of a ticket for this event was $9 in 1982. "The 1982 Sunom rates Aussie Osborne in the flesh. This Tuesday at the auditorium an awesome garage of sound in light will rip through you in a rage of heavy metal fury." ← https://www.youtube.com/watch?v=OCkov6FTliE
 **Active Rock Radio Airplay** : This classic rock artist was played on active rock radio stations in the 2010s as an homage to traditional rock values, alongside new material. "They also played the homage to guns and rouses, NACDC and Led Zeppelin and Van Halen and Ozzy and Sabbath and Death Lepred and Jimmy Hendrix." ← https://www.youtube.com/watch?v=sOU54d8mr5k

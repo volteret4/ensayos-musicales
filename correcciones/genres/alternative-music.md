@@ -1,0 +1,21 @@
+# genre - Alternative music
+
+## curiosities
+**Contemporary Meaning** : Today, "alternative music" continues to exist, often referred to as "indie" or "underground music." It describes cutting-edge rock that operates below the mainstream radar, found in small clubs and niche record stores, and is typically sought out by a more selective audience. "So alternative music, rock that is an alternative to everything we see in here in the mainstreams till exists, is just that you have to look for it and maybe sometime call it Indie or underground music." ← https://www.youtube.com/watch?v=Ft8nruhWCas
+**Origin of the Term** : In the 1970s and early 1980s, "alternative music" became the term for music created by "weird kids" that was not played on mainstream radio or signed by major labels. Small independent record labels, offering a "career alternative" for these bands, became known as "alternative record companies," thereby defining the bands and their music as "alternative." "By the very early 1980s, those small indie labels had become known as alternative record companies because they provided a career option, a career alternative for the weird band who couldn't find homes with the majors." ← https://www.youtube.com/watch?v=Ft8nruhWCas
+**Overtaking the Mainstream (Mid-90s)** : The "grunge explosion" of the early to mid-1990s saw alternative rock transition from an underground form to the mainstream, largely replacing traditional mainstream rock acts. This shift made the term "alternative" somewhat contradictory, as it was no longer an alternative to anything, prompting a search for new terminology like "New Rock." "In other words, by the middle of the 90s, alternative music wasn't an alternative to anything anymore. It was now the mainstream, which caused much soul searching and hand-winging amongst musicians and fans like." ← https://www.youtube.com/watch?v=Ft8nruhWCas
+**UK Interchangeability with Indie** : In the UK, the term "Indie" is often roughly interchangeable with "alternative." This is attributed to the specific structure of the British music industry, which provides independent artists a greater opportunity to penetrate the mainstream compared to North America. "In the UK, Indie can be roughly interchangeable with alternative." ← https://www.youtube.com/watch?v=Ft8nruhWCas
+
+## artists
+- Depeche Mode
+- Dropkick Murphys
+- Elvis Costello
+- Iggy Pop
+- Joy Division
+- Nirvana
+- Soundgarden
+- The Modern Lovers
+- The Smashing Pumpkins
+- The Smiths
+- The Velvet Underground
+

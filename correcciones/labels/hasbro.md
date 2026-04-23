@@ -1,0 +1,5 @@
+# label - Hasbro
+
+## curiosities
+**Hit Clips Toy Line (Late 90s/Early 2000s)** : Hasbro produced "Hit Clips," tiny toys launched in the late 1990s and early 2000s that played 60-second clips of popular songs. Initially distributed as McDonald's Kids Meal toys, they later evolved into standalone devices costing about $20, with cartridges of song clips selling for $3.99. Many popular artists, including In Sync, Backstreet Boys, Simple Plan, Britney Spears, Avril Lavigne, and Smash Mouth, had their songs featured on these devices. "Does anybody remember hit clips? If you were a kid in the late 90s or early 2000s, you might remember these tiny toys from Hasbro that played a 60-second clip of some popular song of the day. It was like a gateway drug for kids to young to have a proper MP3 player. In fact, hit clips started as a toy that you got in McDonald's Kids meals. They then morphed into a device that cost about 20 bucks, and a cartridge of song clips, not full songs, which is clips sold for $3.99." ← https://www.youtube.com/watch?v=fhq9WVeiE_U
+

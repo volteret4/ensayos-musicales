@@ -1,0 +1,6 @@
+# artist - Dave Meyers
+
+## curiosities
+**Debut Interviewee on "Art Context"** : Dave Meyers, a long-standing figure in music video direction, was the inaugural guest on the "Art Context" podcast. His interview delved into his artistic philosophy, his extensive body of work, and his perspective as a white director navigating the black music world, including discussions on Black Lives Matter. "The first podcast that debut of the show was with Dave Myers. Another guy that's been in a game for a long, long time. And just talking about that philosophy behind his approach to art, the work he's done. And as well digging into some of the larger world issues out there, like we have a whole talk about Black Lives Matter on that podcast." ← https://www.youtube.com/watch?v=5PJRCC6EwUY
+**First Guest on Art Context Podcast** : Dave Meyers, a long-time director in the music industry, was the inaugural guest on the "Art Context" podcast. His interview delved into his artistic philosophy, body of work, and broader world issues, including a discussion on Black Lives Matter and his unique perspective as a white director in a predominantly Black music environment. "the first podcast that debut of the show was with Dave Myers." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
+

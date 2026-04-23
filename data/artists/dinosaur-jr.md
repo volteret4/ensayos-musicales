@@ -3,8 +3,11 @@
 ## members
 - Donna Dresch
 - J Mascis
+- J. Mascis
 
 ## genres
+- Alt Rock
+- Fuzzy Guitars (descriptive)
 - Lofi
 
 ## concerts
@@ -19,4 +22,5 @@
 **J Mascis in Ron Ashton's Band** : J Mascis of Dinosaur Jr. was a member of a band that Ron Ashton played in after The Stooges' initial breakup. "Ron Ashton played in a series of bands, none of which did much, although there was the group that featured Thurston Moore of Sonic Youth, also Mark Arm of Mudhoney and Jay Mascus of Dinosaur Jr." ← https://www.youtube.com/watch?v=w-rihv544I8
 **Judgment Night Collaboration with Del the Funky Homosapien (1993)** : Dinosaur Jr. collaborated with hip-hop artist Del the Funky Homosapien for the 1993 *Judgment Night* soundtrack. This pairing was considered radical at the time due to the limited crossover between rock and hip-hop. The project was a major catalyst for the creation of rap rock and nu metal, and helped bridge the divide between rock and hip-hop fans. "The pairings included Pearl Jam and Cypress Hill, Slayer working with Ice Tea, Faith No More and Buella Tribe, Dinosaur Jr., and Del the Funky Homo sapien, 11 collaborations at all." ← https://www.youtube.com/watch?v=zIkjd1OjCXM
 **Lofi Classification** : Dinosaur Jr. was explicitly considered to be a Lofi band, indicating their contribution to a sound characterized by grittier, less high-tech recordings, often perceived as authentic and real. "We had Dinosaur Jr., Cebado, even Beck, especially as indie label work, were all considered to be Lofi." ← https://www.youtube.com/watch?v=amHre9ZZFkU
+**Shoegaze DNA Contributor** : Dinosaur Jr., particularly through J. Mascis's work, is cited as a significant contributor to the "DNA" of shoegaze music. Their characteristic "fuzzy guitars and vulnerable introspective lyrics" blended well with other emerging sounds that would define the genre. "J. Mascus and Dinosaur Jr., for example, have a lot to answer for, with their fuzzy guitars and vulnerable introspective lyrics." ← https://www.youtube.com/watch?v=vEHdoUlGurY
 

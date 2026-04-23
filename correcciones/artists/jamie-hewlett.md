@@ -1,0 +1,17 @@
+# artist - Jamie Hewlett
+
+## member of
+- Gorillaz
+
+## curiosities
+**Aging of Characters** : Hewlett became "a little bored with the characters" and decided to age them up, most notably Noodle, who transitioned from a 10-year-old girl to a 17-year-old teen. "Jamie had grown a little bored with the characters, so he decided to age them up a bit." ← https://www.youtube.com/watch?v=iVdTCqpd798
+**Album Artwork** : Hewlett's "Tank Girl" work led to commissions for album artwork, including the EP "You Got It!" by the British group Senseless Things, featuring a distinctive drawing of an alien. "He and his buddy, Alan Martin, had their own strip called Tank Girl." ← https://www.youtube.com/watch?v=iVdTCqpd798
+**Co-Creator of Gorillaz** : Jamie Hewlett is one of the two human creators of Gorillaz, a comic book artist responsible for creating the band's fictional characters and visual universe. "Now he's not a musician. He's a comic book artist, which in this case is just as important a role as being the music guy." ← https://www.youtube.com/watch?v=iVdTCqpd798
+**Dispute with Damon Albarn (Post-2010)** : Following "The Fall" album, Jamie Hewlett and Damon Albarn had a falling out for about four years. Hewlett reportedly felt that the music was becoming too prominent, overshadowing his comic creations, leading to his dissatisfaction. "The Jamie, the music was getting bigger while his comic creations were taking more of a back seat. Didn't like that very much." ← https://www.youtube.com/watch?v=iVdTCqpd798
+**Diverse Creative Projects** : Beyond comics, Hewlett designed nightclub decor, opened a clothing store, wrote for a computer magazine, and created a comic strip about a gay Buddhist kung fu cop. "He also designed the decor for a nightclub. He opened a clothing store. He wrote for a computer magazine." ← https://www.youtube.com/watch?v=iVdTCqpd798
+**Early Career** : In the late 1980s, Jamie Hewlett worked for the British magazine "Deadline," known for comic strips and drawings. He co-created the strip "Tank Girl" with Alan Martin. "By the late 1980s, he was working for a British magazine called Deadline, which featured comic strips and drawings by a variety of English artists." ← https://www.youtube.com/watch?v=iVdTCqpd798
+**Gorillaz Co-creator (Pre-2005)** : As a "comic book artist," he co-created Gorillaz with Damon Albarn, resulting in a successful music project. "Comic book artist Jimmy Hewlett." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
+**Inspiration for Gorillaz Characters** : While sharing a London flat with Damon Albarn in 1997, Hewlett, inspired by MTV's perceived lack of substance, created the four fictional members of Gorillaz: 2D, Murdoc, Noodle, and Russell. "Jamie came up with 2D, Murdoch, Noodle and Russell." ← https://www.youtube.com/watch?v=iVdTCqpd798
+**Pulp's "Common People" Comic Strip** : In 1995, Hewlett illustrated a comic strip based on the story of Pulp's song "Common People," which was included with the French version of the single and an Australian box set. This connection highlights his acquaintanceship with Pulp's Jarvis Cocker. "He also illustrated a comic strip in 1995 that was based entirely on the story told in this song by Pulp." ← https://www.youtube.com/watch?v=iVdTCqpd798
+**Tank Girl Movie** : His comic strip "Tank Girl" was optioned for a movie, which was made in 1995. Prior to this, Steven Spielberg had expressed interest in working with Hewlett. "It was option for a movie that was made in 1995." ← https://www.youtube.com/watch?v=iVdTCqpd798
+

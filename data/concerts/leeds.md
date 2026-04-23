@@ -5,6 +5,7 @@
 
 ## artists
 - AC/DC
+- Billy Talent
 - Black Sabbath
 - Green Day
 - Guns N' Roses

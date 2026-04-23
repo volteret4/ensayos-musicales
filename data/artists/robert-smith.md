@@ -1,6 +1,7 @@
 # artist - Robert Smith
 
 ## member of
+- Cult Hero
 - The Cure
 
 ## curiosities

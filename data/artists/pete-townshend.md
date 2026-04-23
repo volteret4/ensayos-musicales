@@ -5,6 +5,7 @@
 
 ## instruments
 - Gibson Les Paul
+- Gibson SG
 - Marshall Amplifier (pushed Jim Marshall for louder amps)
 
 ## songs

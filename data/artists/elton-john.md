@@ -5,12 +5,14 @@
 - Rock
 
 ## albums
+**Goodbye Yellow Brick Road** : This album was recorded at Trident Studios. "Hired by Elton John for albums like Goodby Yellow, Brick Road." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
 **Greatest Hits Volume One** : This album was acquired for $4.99 plus tax, which was considered a significant expense at the time. The purchase was met with a mother's fury due to the cost being over five dollars for something deemed trivial. "It was Elton John's greatest hits volume one." ← https://www.youtube.com/watch?v=jD1dWxNLvfE
 
 ## songs
 **Benny and the Jets** : In this song, Elton John is noted for pronouncing "calf" as "cough," an example of an artist retaining a British accent despite the general tendency for accents to flatten out in singing. "Elton John producing calf as cough in Benny and the Jets." ← https://www.youtube.com/watch?v=_YjwRApoJhA
 **Crocodile Rock (1972)** : Released in 1972, this song contributed to a period of nostalgia for 1950s music, as the aging hippie generation observed the rise of simpler pop. "Elton John singing Crocodile Rock in 1972." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
 **Crocodile Rock (1973)** : This song was mentioned as part of a renewed fascination with the music of the 1950s, which made a comeback in 1973, alongside movies like "American Graffiti" and the TV show "Happy Days." "Elton John singing songs like Crocodile Rock, stuff like that." ← https://www.youtube.com/watch?v=gkLMwrthZ9s
+**Saturday Night's Alright for Fighting** : This song was played on the handmade C. Bechstein concert grand piano, which is well over 100 years old, located at Trident Studios. "A bunch of early Elton John has played on this piano, like Saturday nights all right for fighting." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
 
 ## curiosities
 **Defining Classic Rock in Early 1990s** : Elton John was recognized as an older act that helped define the category of "classic rock" in the early 1990s, a period when the musical landscape was shifting away from the excesses of hair metal. "Rock was dominated by hair metal bands, which was really starting to get old and played out. It was also dominated by older acts that were defining a new term, classic rock, Rolling Stones, Pink Floyd, Elton John, and so on." ← https://www.youtube.com/watch?v=5Y6nHw5xx88

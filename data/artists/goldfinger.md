@@ -8,6 +8,7 @@
 - Pop Punk
 - Ska
 - Ska Punk
+- Ska-punk
 - Third Wave Ska
 
 ## concerts
@@ -15,6 +16,7 @@
 
 ## songs
 **Here in Your Bedroom (1995)** : This song features Darren Fyfer on drums. "There's Goldfinger from 1995 with Hearing Your Bedroom featuring Darren Fyferon drums." ← https://www.youtube.com/watch?v=jZeMmPekKMQ
+**Here in Your Bedroom (1996)** : This 1996 song by Goldfinger is presented as an example of music from the ska-punk scene. It represents the "third wave" of ska, which originated in the US in the 1990s and blended traditional ska rhythms with angsty punk rock. "So music from the Skop punk scene, Goldfinger from 1996 with Here in Your Bedroom." ← https://www.youtube.com/watch?v=mAlc-N2wn5s
 
 ## curiosities
 **Donna's Domain Review** : Goldfinger guitarist Charlie Paulson "apparently lacks rhythm" according to a review on Donna's Domain, a website that rates rock stars' penis size and sexual ability. This critique specifically targets his musical attribute in the context of the website's evaluations. "And Goldfinger guitarist Charlie Palson apparently lacks rhythm." ← https://www.youtube.com/watch?v=dMsEj62KFEw

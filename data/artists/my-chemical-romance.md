@@ -5,6 +5,7 @@
 
 ## genres
 - Emo
+- Emo Pop
 - Pop Punk
 - Rock Opera
 
@@ -13,6 +14,7 @@
 
 ## concerts
 - **2025 Reunion Tour** : My Chemical Romance has a reunion tour scheduled for 2025, which includes performances in stadiums. "My chemical romance has a 2025 reunion tour planned. Stadiums."
+- Project Revolution Tour (2007-2008)
 - Vans Warped Tour (2004)
 
 ## albums

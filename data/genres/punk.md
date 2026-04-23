@@ -11,7 +11,10 @@
 **British Punk as Goth Origin** : Gothrock originated as a spin-off from British punk music in the 1970s. "Gothrock began as a spin-off from the British punk of the 1970s" ← https://www.youtube.com/watch?v=evlGhfUe6QQ
 **Canadian Punk Band** : NoMeansNo is identified as a "fine Canadian punk band" from Victoria, active since the late 1970s, known for doing things their own way, which sometimes leads to trouble. "no means no, a fine Canadian punk band from Victoria who have been around since the late 1970s." ← https://www.youtube.com/watch?v=DgN0vBIugLc
 **Chinese Punk Scene** : The punk genre is active in China, as evidenced by Seymour Stein's visit to the D22 club in Beijing where he listened to "band after band performed Chinese punk and alternative." Stein believed something significant was happening in China's music scene that would become "big everywhere." "Seymour found a stool near the front, closed his eyes, and listened to band after band performed Chinese punk and alternative." ← https://www.youtube.com/watch?v=hjProJd_JrM
+**Colin McDonald's Early Bands** : Colin McDonald played in "not serious" punk bands with friends during his high school years, before the formation of The Trews. "I started playing in like not serious like kind of punk and grunge bands in high school." ← https://www.youtube.com/watch?v=3zbKOwkpkAM
+**Credo of Inclusivity** : The 1990s began with Generation X's "restatement of the punk rock credo that anyone with anything to say should be allowed to say it regardless of musical ability, class, sex, religion, or race." This ethos denounced "isms of all kinds," especially sexism and racism, fostering an environment for genre blending. "the decade began with Generation X's restatement of the punk rock credo that anyone with anything to say should be allowed to say it regardless of musical ability, class, sex, religion, or race." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE
 **DIY Mentality and Evolution** : During the 1960s and 70s, independent record labels played a crucial role in nurturing and promoting musicians who were exiled from the mainstream. This era, propelled by punk's do-it-yourself mentality, pushed for change and evolution from below. "On part one, we looked at the importance of independent record labels when it came to nurturing promoting musicians exiled from the mainstream during the 60s and 70s. This round pushed for change and evolution from below with their do-it-yourself mentality." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
+**David Bowie's Influence on British Punks** : By 1975, David Bowie was a favorite among British punks, who appreciated his music, non-status quo fashion sense, and defiant attitude. His influence was so strong that most London punks at the time were also fans of Bowie. "By 1975, he'd become a favorite among British punks." ← https://www.youtube.com/watch?v=rw0uXf5UJvo
 **Description** : Rugby Anz is described as a band that played "the noisiest sort of punk." "There were four women who were into the noisiest sort of punk that I'd heard up until that point." ← https://www.youtube.com/watch?v=HcK4M7-02ik
 **Disruptive Force in Music** : Punk music is identified as having significantly "shaken" older music, leading to a greater openness among musicians to explore "new paths." This indicates its role as a powerful, transformative, and disruptive force in the musical landscape. "The older music had been shaken by punk so much that people were more willing than ever to find new paths." ← https://www.youtube.com/watch?v=zNIVqKqAlnk
 **Dogma and Escape** : By the late 1970s and early 1980s, musicians were seeking freedom from the rigid dogma of punk, alongside an escape from disco, which encouraged experimentation in sound, visuals, and attitudes. "In new generation of musicians, we're freed from the rigid dogma of punk and an escape from disco..." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
@@ -19,6 +22,8 @@
 **Dress Code** : Punk fans typically adhere to a recognizable dress code, often characterized by jeans, t-shirts, and leather jackets, creating a uniform that signifies their tribal affiliation within the music subculture. "Punk's dress one way..." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM
 **Early 2010s Bleakness and Mid-Decade Revival** : Punk faced a "bleak" period at the beginning of the 2010s due to the faltering of Pop Punk and Emo. However, by the mid-teens, things had improved, possibly influenced by political situations like Donald Trump's presidency and Brexit. This revival was categorized as Garage Punk and Post Punk, building on previous punk eras but showcasing a wide variety of approaches from artists like Against Me!, Sleater-Kinney, Japandroids, Fucked Up, Parquet Courts, Idles, and Sleaford Mods. "However, at the beginning of the decade, it did look kind of bleak." "If there's a way to categorize that mid-decade revival in Punk, it would perhaps be Garage Punk and Post Punk." ← https://www.youtube.com/watch?v=HSvgRyGiOpE
 **Early Characteristics (1970s and early 1980s)** : In its initial phase during the 1970s and early 1980s, punk was defined by its "loud, fast, angry and nihilistic" sound. This intense style gradually evolved into pop punk through the integration of more melodic and harmonic elements. "the loud, fast, angry and nihilistic punk of the 1970s and early 1980s morphed into the pop punk that is so big today." ← https://www.youtube.com/watch?v=pE7TaWSUa-o
+**Editorial Stance and Anti-Disco Sentiment (1976)** : The first editorial of Punk magazine, published in January 1976, issued a provocative and defiant call to action. It famously urged readers to engage in extreme acts rather than listen to disco, emphasizing the magazine's role in guiding its audience towards a new musical and cultural sensibility. "Kill yourself, jump off a cliff, drive nails into your head, become a robot and join the staff at Disneyland, OD, anything. Just don't listen to disco, educate yourself, read punk." ← https://www.youtube.com/watch?v=1y2UuU-me_s
+**Energetic Influence** : The song "Crack My Spine Like A Whip" is described as having an "almost punky" energy, highlighting the genre's influence on the band's more high-octane tracks. "It just has a immediate energy to it, almost punky in a lot of ways." ← https://www.youtube.com/watch?v=G9H9q7BYqEA
 **Ethos of Open Expression** : At its fundamental core, the punk scene of the 1970s promoted the radical idea that anyone should be empowered to express themselves freely, regardless of their age, social class, gender, or perceived musical ability. While much of punk music was characterized by its loud, fast, and angry delivery, this foundational spirit of uninhibited expression ultimately also provided a philosophical basis for the emergence of gentler, more introspective forms of musical communication, such as prototweet. "At the heart of punk was the idea that anyone should be able to say what they wanted, regardless of age, class, gender, or musical ability." ← https://www.youtube.com/watch?v=jhgZrwtYE2g
 **Evolutionary Leap** : Hüsker Dü's *Zen Arcade* was described as a "huge evolutionary leap for punk" by combining the power and energy of hardcore with melody and more conventional song structures. "This was a huge evolutionary leap for punk." ← https://www.youtube.com/watch?v=Dm5N6yDRxXQ
 **Foundational Influence** : Punk music, exemplified by bands like the Ramones, Sex Pistols, and Blondie, marked the beginning of a significant shift in the music scene, leading to the development of numerous subsequent genres and artists. "It started with bands like the Ramones and the Sex pistols and Blondie." ← https://www.youtube.com/watch?v=oPgeSCy93bo
@@ -29,24 +34,30 @@
 **Identity Marker** : Punk is listed as a specific fashion trend and music genre that individuals might adopt to use music as an "identity marker," projecting their self-image to the world and forming social connections with like-minded fans. ← https://www.youtube.com/watch?v=m7MbV-eCLyE
 **Initial Rejection for Mass Consumption** : When record labels sought alt-rock beyond grunge, "pure punk was considered to be a little too strident, little too intense for mass consumption." Its unrefined nature was seen as unsuitable for widespread mainstream appeal. "At first, pure punk was considered to be a little too strident, little too intense for mass consumption." ← https://www.youtube.com/watch?v=pE7TaWSUa-o
 **Intensified Moral Outrage (1970s)** : The emergence of punk music in the 1970s intensified the moral outrage among conservatives. Punk was specifically targeted for its "angry, nihilistic approach" and non-mainstream fashion styles, leading to accusations that it was transforming children into "rebellious, disrespectful, and anti-establishment goons" and calls for its suppression. "Then, the metal and punk of the 1970s just got them into more of a froth. This music is turning our children into rebellious, disrespectful, and anti-establishment goons. It must be stopped. Punk was singled out because of the music's often angry, nihilistic approach, not to mention the new fashion styles which were decidedly non-mainstream." ← https://www.youtube.com/watch?v=41eKVp8JIhU
+**Intertwined with Other Genres** : By the end of the 1980s, punk, funk, rap, hip hop, and metal were "all becoming inextricably intertwined," setting the stage for new genres like nu metal. "So by the end of the 1980s, there were signs that punk, funk, rap, hip hop and metal were all becoming inextricably intertwined." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE
 **Kevin Lyman's "Punk Rock Summer Boot Camp"** : Kevin Lyman, the founder of the Warped Tour, often referred to the grueling, low-paying, and tough environment of the tour as his "punk rock summer boot camp," suggesting that surviving the Warped Tour prepared bands for anything. "The Wonder Kevin Lyman often called Warped his punk rock summer boot camp." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
 **Late 70s/Early 80s Scene** : The punk scene of the late 1970s and early 1980s was a fertile ground for bands like the Talking Heads, who emerged with rhythmically complex sounds that pushed post-punk musicianship. "Out of all the bands to emerge from the punk and new wave scene of the late 70s in the early 1980s, the talking heads were easily the most rhythmically complex." ← https://www.youtube.com/watch?v=CVPPymc_qrk
 **Les Paul Guitar's Versatility** : The Gibson Les Paul guitar has been continuously in production since its 1952 introduction and is widely used across virtually every genre, including punk. Its solid-body design resolved feedback issues common with older hollow-body guitars, making it ideal for amplified punk music. "The Les Paul has been in production ever since, and has been used by guitars into rock, punk, metal, pop, country, soul, R&B, jazz, reggae, and virtually every other genre you want to mention." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
 **Limitations and Evolution** : While initially impactful, punk's limitations, such as its often angry themes and reliance on two or three chords, led to cross-pollination with pop music, eventually birthing New Wave. "As cool as punk was, it did have its limitations. I mean, how long could you go on being so angry, thrashing over two or three chords?" ← https://www.youtube.com/watch?v=bYsV3ozbk4M
 **Listeners Have Longest Average Workouts** : According to a study by Test Fitness Equipment, individuals who listen to punk music while exercising tend to have the longest average workouts, lasting approximately 53 minutes. "for those who listen to punk while working out, tend to have the longest average workouts at fifty three minutes." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
 **London's Punk Years** : The late 1970s, specifically 1976 and 1977, were known as the punk years in London, characterized by a collapsing economy, widespread strikes, high unemployment, rolling blackouts, and entrenched class system issues. This environment directly influenced bands like The Clash. "Inspiration was taken from what they saw around them in London during the punk years." ← https://www.youtube.com/watch?v=4PlieAEthSg
+**Magazine Origin of the Term (1976)** : The term "punk" was adopted as the name for the musical genre from a fanzine started by Legs McNeil and his friend in January 1976. The decision to name the magazine "Punk" was influenced by the album artwork of The Dictators, and it rapidly became the defining label for the new wave of hard, fast rock music emerging from New York. "So that is when legs and his buddy decided to call the magazine punk." ← https://www.youtube.com/watch?v=1y2UuU-me_s
 **Original Antagonism Towards Pop** : Punk music was initially conceived and developed as an "attack on pop," establishing an inherent opposition to mainstream popular music and its conventions. "Punk was originally created as an attack on pop." ← https://www.youtube.com/watch?v=pE7TaWSUa-o
 **Palatability of Pop Punk** : The emergence of pop punk made the genre "more palatable" for audiences who found the raw, "pure punk" sound "a little too intense." This adaptation broadened punk's appeal to a wider audience. "more palatable for those for whom pure punk was a little too intense." ← https://www.youtube.com/watch?v=pE7TaWSUa-o
 **Perennial Nature and Generational Rediscovery** : Punk is described as a genre that "never goes away," embodying an attitude and aesthetic that has persisted for nearly 50 years. Every generation since the 1970s has rediscovered punk and adopted its "fierce do-it-yourself ethic," which has been strengthened by technology's role in democratizing music. "Now Punk never goes away." "That attitude and aesthetic has been with us for nearly 50 years, and it cannot be killed and it will not die." ← https://www.youtube.com/watch?v=HSvgRyGiOpE
+**Post-Refurbishment Use of Rolling Stones Mobile Studio** : Following its refurbishment, the Rolling Stones Mobile Recording Studio became a favored tool for recording live performances by numerous punk bands, starting with the Ramones. "The truck was used to record live performances by a long line of punk bands from the Ramones on down." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
 **Pre-Punk Influence** : The Stooges are widely recognized as a foundational "pre-punk" band, with their 1969 debut album going down in history as one of the most important pre-punk records of all time. Their raw and primitive sound significantly predated and influenced the punk movement. "It has gone down on history as being one of the most important pre-punk records of all time." ← https://www.youtube.com/watch?v=w-rihv544I8
 **Protest Fashion and Doc Martens** : Punks adopted Doc Martens as a form of "protest fashion" because these boots were seen as unpretentious, working-class footwear, providing a stark contrast to the Birkenstocks favored by hippies. Their practical steel toe was also useful in confrontations, fitting perfectly with the punk uniform of jeans, jackets, and mohawks. "Punk's and skinheads adopt the shoe as a protest fashion thing. These were unpretentious working-class boots, the exact opposite of the Birken stops worn by hippies. And they went perfectly with a punk uniform of jeans instead of jackets and mohawks. The steel toe was also handy in a fight." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM
 **Radio Hostility** : In the late 1970s, American mainstream radio stations vehemently rejected punk rock, viewing it as too dangerous, weird, violent, polarizing, class-conscious, and political, often refusing to play any music associated with the term. "They hated anything associated with that word. There would have oaks music that was too dangerous, too weird, too violent, too polarizing, too class conscious, and too political." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
 **Reactionary Nature** : Like grunge, punk was a reactionary movement, implying a shared philosophy of stripping back artifice in rock music. "Like punk, Grunge was reactionary." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
 **Reading Festival Adoption** : The Reading festival became the first major festival to embrace British punk music, alongside British new wave and British metal. "It also became the first major festival to really embrace British punk and British new wave as well as British metal." ← https://www.youtube.com/watch?v=7JP2tjJibTQ
+**Recording in Old Church Halls** : Many punk and post-punk bands found a suitable recording environment in Wessex Studios, an old church hall in North London known for its live sound, creating a notable contrast between the genre's raw energy and the historic setting. "I think it's got a while that all these punk bands recorded in an old church hall." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
 **Role in Concept Album Decline** : Punk, alongside Alt Rock, played a significant role in the disappearance of the concept album in the 1980s and 1990s, viewing such projects as "vestiges of old rock" that needed to be "expunged from the culture." "Punk and Alt Rock had a lot to do with its death because these types of projects were seen as vestiges of old rock and needed to be expunged from the culture." ← https://www.youtube.com/watch?v=Dm5N6yDRxXQ
 **Safety Pin Aesthetic** : The punk fashion aesthetic was significantly influenced by New York punk Richard Hell, who famously held his decomposing clothes together with safety pins. Malcolm McLaren, inspired by this look, and Vivienne Westwood, his partner, subsequently introduced this distinct style in their clothing shop, shaping the early visual identity of punk. "Malcolm McLaren had been inspired by how a New York punk named Richard Hell held his decomposing clothes together with safety pins. So he took that idea back to his partner Vivian Westwood, who introduced that look in their shop." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM
 **Seven-Inch Singles Collection Niche** : Specializing in collecting seven-inch singles from punk bands is identified as a specific and popular niche within the broader hobby of record collecting. "Maybe you'll specialize in seven inch singles from punk bands." ← https://www.youtube.com/watch?v=IIJySSo276k
+**Straight Edge Movement** : A branch of punk rock known as Straight Edge advocates for abstaining from all drugs and alcohol. "This year a member of the branch of punk called Straight Edge, which issues all drugs or alcohol, or a member of the more ascetic teetooling branch of the Christian rock scene, alcohol is pretty much everywhere in rock and roll." ← https://www.youtube.com/watch?v=i5lR8zz7_ZE
 **Transformative Impact** : Punk music, pioneered by bands like the Ramones and Sex Pistols, drastically changed the music scene. Its influence led to the development of numerous new groups and genres, including alternative rock. "It started with bands like the Ramones and the Sex Pistols and Blondie." ← https://www.youtube.com/watch?v=bI6TTA-fn7c
+**Transition to Rock Sound** : Billy Talent's first two albums were considered "punk records," but their third album, "Billy Talent 3," marked a shift towards a more "rock record" sound. This evolution was partly a conscious effort to move beyond the early 2000s "screamy" trend and incorporate more melody into their music. "it was kind of our rock record where the first two were more of a punk record." ← https://www.youtube.com/watch?v=GT_u0eFDlk8
 **Trent Reznor's Perspective** : Trent Reznor acknowledged punk bands like the Sex Pistols, The Clash, and The Ramones as "cool." However, his primary musical inspiration stemmed from the electronic sounds of synth-pop, which he considered "really cool" by comparison. "Punk bands like the Sex Bistles and the Clash and the Remones were cool and everything." ← https://www.youtube.com/watch?v=M3nUQtja0qc
 **Vinyl Adherence (Post-CD Era)** : Punk bands, along with other alt-rock groups, were noted for their refusal to adopt digital music, consistently releasing 7-inch singles and vinyl albums through independent record stores. "Punk and other alt-rock bands. There were many groups who never bought into digital ever." ← https://www.youtube.com/watch?v=GES0Ms_kaCI
 **Warped Tour Content Pivot (1996)** : Following its sponsorship by Vans in 1996, the Warped Tour underwent a content pivot, moving from broad-range alternative music to specifically focus on punk and other genres that complemented skate culture. "Kevin moved the festival from broad range alternative to focusing on punk and other music that went well with skate culture." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
@@ -62,6 +73,8 @@
 - Bad Religion
 - Beastie Boys
 - Big Boys
+- Billy Talent
+- Björk
 - Black Flag
 - Blackfire
 - Blink 182
@@ -69,11 +82,13 @@
 - Blondie
 - Box Car Racer
 - Buzzcocks
+- Camper Van Beethoven
 - Dave Rowbotham
 - David Bowie
 - Dead Boys
 - Dead Kennedys
 - Descendents
+- Devo
 - Don Letts
 - Fear
 - Fishbone
@@ -81,6 +96,7 @@
 - Fontaines D.C.
 - Fucked Up
 - Gary Numan
+- Generation X
 - Green Day
 - Husker Dew
 - Hüsker Dü
@@ -91,11 +107,13 @@
 - Johnny Thunders
 - Kim Fowley
 - L7
+- Lene Lovich
 - Living Color
 - Living Colour
 - MC5
 - MXPX
 - Minor Threat
+- Mojo Nixon
 - NOFX
 - Nation of Ulysses
 - Nirvana
@@ -104,6 +122,7 @@
 - Operation Ivy
 - Parquet Courts
 - Patti Smith
+- Paulie Styrin
 - Pennywise
 - Poison Ivy
 - Pure Hell
@@ -112,6 +131,7 @@
 - Rugby Anz
 - Scum of the Earth
 - Sex Pistols
+- Siouxsie and the Banshees
 - Sleaford Mods
 - Sleater-Kinney
 - Sonic Youth
@@ -128,6 +148,7 @@
 - The Damned
 - The Dead Boys
 - The Dead Kennedys
+- The Dictators
 - The Germs
 - The Go-Go's
 - The Headstones
@@ -137,8 +158,13 @@
 - The Pretenders
 - The Ramones
 - The Replacements
+- The Runaways
 - The Sex Pistols
+- The Specials
 - The Stooges
+- The Surf Punks
+- The Tragically Hip
+- The Trews
 - The Undertones
 - The Vandals
 - The Vibrators

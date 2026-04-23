@@ -15,6 +15,7 @@
 
 ## songs
 **Personality Crisis (1973)** : This song features Johnny Thunders on guitar. It is mentioned in the context of his possible murder in April 1991. "New's Johnny with the New York Dolls have personality crisis." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4
+**Teenage News (N/A)** : This unreleased song was the initial preferred choice for the name of the fanzine created by Legs McNeil and his friend. They eventually decided against it in favor of a name more directly related to The Dictators, which ultimately became "Punk." "And their first choice for the name of their fanzine was Teenage News after an unreleased song by the New York Dolls." ← https://www.youtube.com/watch?v=1y2UuU-me_s
 
 ## curiosities
 **David Johansen Death (2025) – Stage 4 Brain Cancer at 75** : David Johansen, charismatic frontman of proto-punk pioneers New York Dolls, died at age 75. He had been diagnosed with stage 4 brain cancer and was also facing costly surgeries for a back fracture. After the Dolls dissolved, he adopted the persona of Buster Poindexter. "Diagnosed with stage 4 brain cancer and facing costly surgeries for a back fracture." ← https://www.youtube.com/watch?v=ZPlsR7_WiZQ

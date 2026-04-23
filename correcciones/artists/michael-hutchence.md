@@ -1,0 +1,12 @@
+# artist - Michael Hutchence
+
+## member of
+- INXS
+
+## curiosities
+**Confrontation with Prince (1994)** : At the World Music Awards in Monaco in 1994, Hutchence, whose behavior was worsening due to increasing drug and alcohol use stemming from his brain injury, attempted to pick a fight with Prince. "And at the World Music Awards in Monaco in 1994, he tried to pick a fight with Prince." ← https://www.youtube.com/watch?v=dVJuITJyNTU
+**Copenhagen Assault and Irreversible Brain Damage (August 1992)** : While touring Copenhagen with girlfriend Helena Christensen, Hutchence was sucker-punched by an impatient taxi driver, causing him to fall and hit his head violently on the curb. Although paramedics initially assumed he was on drugs, he sustained severe, irreversible brain damage, which fundamentally altered his personality. "The blow to the head brought something out of Michael and it ended up killing him." ← https://www.youtube.com/watch?v=dVJuITJyNTU
+**Death by Apparent Suicide (November 22, 1997)** : Michael Hutchence was found dead in a Sydney hotel room on November 22, 1997, in what was apparently a suicide. Those close to him believe his death was ultimately a consequence of the brain injury he suffered five years prior in Copenhagen. "on November 22, 1997, Hutchins was found dead in a Sydney hotel room, apparently by suicide." ← https://www.youtube.com/watch?v=dVJuITJyNTU
+**Post-Injury Personality Change and Aggression (1992-1997)** : Following his brain injury, the previously quiet and gentle Hutchence became aggressive, erratic, and quick to fight, suffering from headaches, vomiting, and a destroyed sense of taste and smell. This change led to rages where he destroyed furniture, damaged a valuable guitar owned by Andrew Farriss, and even threatened bassist Gary Beers with a knife in the studio. "From that point on, the quiet, gentle Michael Hutchins was suddenly different." ← https://www.youtube.com/watch?v=dVJuITJyNTU
+**Relationship with Paula Yates and Tabloid Coverage (1995-1997)** : Hutchence was involved in a complex and unhealthy breakup with British TV personality Paula Yates, the mother of his children, by 1995. Their relationship was characterized by extensive drug and alcohol use and became a prominent subject of tabloid coverage. "By 1995, he was locked into a complex breakup with Paula Yates, the British TV person." ← https://www.youtube.com/watch?v=dVJuITJyNTU
+

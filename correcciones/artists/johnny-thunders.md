@@ -1,0 +1,34 @@
+# artist - Johnny Thunders
+
+## member of
+- New York Dolls
+- The Heartbreakers
+
+## genres
+- New York punk rock
+- Protopunk
+- Punk
+
+## instruments
+- Guitar
+
+## albums
+**So Alone (1978) – Debut Album** : Johnny Thunders, a New York punk pioneer, included an instrumental surf track called "Pipeline" (originally by The Chantays from 1962) on his debut album. "His debut album features an instrumental entitled Pipeline, a surf track from the Shantays from 1962." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
+
+## songs
+**Chinese Rocks (Year Not Specified)** : A song by The Heartbreakers, co-written with D.D. Ramone, which is explicitly about heroin. This track reflects the raw punk ethos and the drug culture prevalent in the scene. "These are the heartbreakers in Chinese rocks, and yes, the song is about heroin. And the co-writer is D.D. Ramon." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
+**Pipeline (1962) – The Chantays cover** : Johnny Thunders covered "Pipeline," an instrumental surf track originally by The Chantays from 1962, on his debut album. "His debut album features an instrumental entitled Pipeline, a surf track from the Shantays from 1962." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
+
+## curiosities
+**Autopsy Findings and Police Indifference** : An autopsy confirmed the presence of drugs but not in fatal amounts; however, it also revealed he was suffering from advanced leukemia, a previously unknown condition. Despite requests from his family to reinvestigate, New Orleans police showed no interest, and there were claims that the original police report was missing and the coroner had a history of falsifying autopsy results. "An autopsy was ordered and yes, he had drugs in the system but not in fatal amounts. They did find though that he was suffering from advanced leukemia, something that no one had known. The family asked the New Orleans cops to investigate again and again, but they just weren't interested. Some claim that the original police report is missing and that the corner had a rep for falsifying autopsy results." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4
+**Conflicting Coroner's Report and Unsolved Questions** : A conflicting coroner's report indicated that Johnny Thunders did not have fatal amounts of drugs in his system, casting further doubt on the overdose ruling. Efforts by his family and friends to reopen the investigation were stonewalled, leaving the absolute truth about his death unknown. "A conflicting coroner's report also showed that Thunders did not have fatal amounts of drugs in his system, so there had to be another reason for his death." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
+**Death in New Orleans - April 23, 1991** : Johnny Thunders was found dead on April 23, 1991, in room 37 of the St. Peter House in New Orleans. The coroner initially ruled his death a drug overdose, but many people, including his bandmate Steve Klasson, suspected foul play. "But on April 23rd, 1991, Johnny was found dead in New Orleans in room 37 of a place called St. Peter House. The corner ruled a drug overdose, but a lot of people believed and still believe otherwise." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4
+**Evidence Supporting Murder Theory** : The theory of murder is supported by the fact that his room was ransacked, and all his valuables—cash, passport, and clothes—were missing. His body was found in a peculiar fetal position, stuffed under a coffee table, with rigor mortis already set in, indicating he had been dead for some time before discovery. "The evidence for this is decent too because his room was found to be ransacked and all his valuables, his cash, his passport is closed. They were all gone. And then there was the matter of Johnny's body. When it was found, it was in a weird fetal position stuffed underneath the coffee table. Rigor Mortis had already set in." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4
+**Found Dead in New Orleans** : Johnny Thunders, the guitarist for the influential Protopunk band The New York Dolls and later his punk band The Heartbreakers, was found dead on April 23, 1991, at the St. Peter Guesthouse in New Orleans. He was known to have advanced leukemia and was a serious drug user. "On April 23, 1991, he was found dead at the St. Peter guesthouse in New Orleans." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
+**Influential Guitarist** : He was regarded as an inspired guitarist whose style and attitude were extremely influential on many famous musicians. "He was an inspired guitarist. A lot of famous people say his style and attitude was extremely influential." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4
+**Pioneering New York Punk Rocker** : Johnny Thunders was one of the original New York punk rockers of the 1970s. "Johnny was one of the original New York punk rockers of the 1970s." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4
+**Struggles with Addiction** : Despite being a talented musician, Johnny Thunders was a drinker and a heroin addict, which characterized much of his career, though he managed to maintain it. "But Johnny was also a drinker and a junkie. Heron was his thing. But he did manage to hold his career together despite this need to be strung out much of the time." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4
+**Suspected Murder by Drug Gang** : Guitar player Steve Klasson alleged that Johnny, while seeking drugs, became involved with a local group who drugged him with LSD, stole his methadone stash (which he used to get off heroin), and then murdered him while he was incapacitated. "Steve Klasson was a guitar player in Johnny's band. He said that in his search for drugs, Johnny had become involved with an ugly bunch of locals who wanted his supply of methadone, which he had been taking to get off the smack. To rip him off, they drugged him with LSD. Then they stole his stash. And then as he was lying, they're all stoned. They murdered him." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4
+**Suspicious Overdose Ruling** : Thunders' death was initially ruled an overdose of cocaine and methadone. However, this conclusion was challenged by figures like D.D. Ramone, who suspected foul play. Ramone believed Thunders had a large supply of methadone from the UK, got involved with dangerous drug individuals, was drugged with LSD, killed, and his methadone stolen. "His death was initially ruled an overdose of cocaine and methadone, open and shut case. But not everyone believes that." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
+**Unresolved Cause of Death** : The exact cause of Johnny Thunders' death remains uncertain, with possibilities including a drug overdose complicated by leukemia or murder by a New Orleans drug gang. "So was Johnny Thunders the victim of a drug overdose complicated by leukemia? Or was he killed by a New Orleans drug gang? We might never know." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4
+

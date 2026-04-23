@@ -16,6 +16,7 @@
 - Howard Jones
 - Imagine Dragons
 - Malcolm Cecil
+- Mumford & Sons
 - New Order
 - Rami Jaffee
 - Richard Coles

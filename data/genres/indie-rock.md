@@ -1,7 +1,9 @@
 # genre - Indie Rock
 
 ## curiosities
+**21st Century Revival and Cheap Instruments** : The 21st century saw an "indie revival" characterized by numerous guitar-based bands. Many of these bands consciously chose to use cheap instruments, such as those favored by The White Stripes, Yeah Yeah Yeahs, The Strokes, and The Black Keys, as part of their anti-establishment image, shunning expensive vintage gear. "Then the 21st century began with the indie revival with dozens and dozens of guitar based bands, many choosing to use cheap instruments as part of their anti-establishment image." ← https://www.youtube.com/watch?v=fQCOj3_zy54
 **Aesthetics Compared to Hip Hop** : Indie attitudes are distinct from hip-hop; for example, an indie band would not typically sing about luxury items like "drinking crystal in the back of a maybok" or "diamonds and their new grills." "Compare indie attitudes with hip hop. Now an indie band wouldn't think about singing about drinking crystal in the back of a maybok, well, discussing the size of the diamonds and their new grills." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
+**Birth in North America** : North American indie rock is a key subject of "Chapter 8" in the history of Alt Rock. It refers to the independent rock scene that developed across the continent, often in regional enclaves. "The birth of North American indie rock and the first use of the word alternative." ← https://www.youtube.com/watch?v=XjTWcy8RHEs
 **Defining Characteristics** : The indie universe encompasses the underground, the non-mainstream, the experimental, the daring, the outliers, the unusual, and the non-conformist. It represents music that is often "not ready for prime time" in the mainstream. "This is the universe of the underground, the non-mainstream, the experimental, the daring, the outliers, the unusual, the non-conformist." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
 **Definition and Origins** : "Indie" music is defined by artists who operate independently from major record labels, often self-producing or even launching their own labels. This movement saw early examples like the Buzzcocks and was fostered by small independent labels working outside the major system. "Now indie, as far as we're concerned, means artists who have done everything on their own with no help, that is independent from one of the big established record labels." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 **Digital World's Influence** : The Indie Rock Revival of the early 2000s served as one of the earliest and most prominent examples of how the nascent "new digital world" could effectively generate and sustain a novel musical movement. The ease of illegal file-sharing platforms like Napster enabled listeners to effortlessly discover and access new bands, circumventing traditional record store searches and contributing to the genre's organic rise and widespread appeal. "The indie rock revival was one of the very first examples of how the new digital world could produce and sustain a brand new musical movement and trend." ← https://www.youtube.com/watch?v=xid8CZf4oYo
@@ -25,6 +27,7 @@
 **Rise in the 21st Century** : Indie rock experienced a significant rise in the first decade of the 21st century, becoming a powerful force globally. Its growth was fueled by new technologies that leveled the playing field, allowing small independent companies to quickly distribute music worldwide without major label support. "the rise of Indy Rock in the first decade of the 21st century." ← https://www.youtube.com/watch?v=-CT7yYXonIk
 
 ## artists
+- Ace of Cups
 - Arcade Fire
 - Arkells
 - Bakar
@@ -36,6 +39,7 @@
 - Joel Plaskett
 - Joy Division
 - Metric
+- PJ Harvey
 - Pavement
 - R.E.M.
 - Sleater-Kinney

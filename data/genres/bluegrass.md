@@ -5,5 +5,6 @@
 **New Influence in Alt Rock (Late 2000s)** : Bluegrass was considered as a potential new musical influence for the alt-rock crowd in the late 2000s, alongside folk. This experimentation emerged as rock entered a phase of innovation during its cyclical decline. "Could the industry maybe sell a form of folk and bluegrass influence music to the alt-rock crowd?" ← https://www.youtube.com/watch?v=_yslM5oanRo
 
 ## artists
+- Captain Kick and the Cowboy Ramblers
 - Mumford & Sons
 

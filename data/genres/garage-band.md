@@ -7,6 +7,7 @@
 
 ## artists
 - Count Five
+- Foxboro Hot Tubs
 - Poison Ivy
 - The Barbarians
 - The Kingsmen

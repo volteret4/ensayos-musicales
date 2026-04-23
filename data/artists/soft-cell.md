@@ -5,6 +5,7 @@
 
 ## genres
 - Electronic
+- New Romantic
 - New Wave
 - Synth Classic
 - Synth-pop

@@ -11,6 +11,9 @@
 - Art rock
 - Progressive rock
 
+## labels
+- Helium 3 (distributed by Warner Music Group)
+
 ## concerts
 - Coachella
 - Glastonbury
@@ -18,9 +21,13 @@
 - Reading
 - Wembley Stadium
 
+## instruments
+- Vox units
+
 ## albums
 **Absolution (2003) – Album That First Registered in North America** : Muse's third studio album produced "Time Is Running Out," described as the first Muse song to register in any meaningful way in North America. "The first song that registered in any meaningful way in North America. It's a very important record." ← https://www.youtube.com/watch?v=NbtZ_nfxb3I
 **Black Holes and Revelations (2006) – Astronomy, Cosmology, and Conspiracy Themes; Knight of Cydonia** : The album's title track and lead single "Knights of Cydonia" takes its name from a region on Mars (Cydonia) where some people believe they can see an ancient humanoid face from orbit — reflecting Bellamy's interest in astronomy and fringe science. "The title was taken from a region on Mars, that's known as Cydonia." ← https://www.youtube.com/watch?v=NbtZ_nfxb3I
+**Drones (2015)** : This album was recorded entirely at The Warehouse Studio in Vancouver. "Muse, with dead inside from their 2015 album, Drones, recorded entirely at the warehouse studio in Vancouver." ← https://www.youtube.com/watch?v=N5kSZOl-5UY
 **Drones (2015) – Recorded Largely in Vancouver; Themes of Unthinking Obedience** : Recorded largely in Vancouver, the album deals not only with unmanned aerial vehicles but with people who act without thinking or do the bidding of others without questioning. Themes include deep ecology and the empathy gap. "Both origin of symmetry from 2001 and black holes and revelations from 2006 were about astronomy and cosmology and quantum physics." ← https://www.youtube.com/watch?v=NbtZ_nfxb3I
 **Showbiz (1999) – First Album Featuring Material from 1997 Demo** : The band's debut album included a more polished version of "Do We Need This?", which first appeared on a 1997 demo tape. "Do We Need This? would later show up in a more polished form on the band's 1999 album Showbiz." ← https://www.youtube.com/watch?v=NbtZ_nfxb3I
 **The Resistance** : This album heavily incorporates frontman Matt Bellamy's conspiracy theories, encompassing various topics from the Illuminati downwards. "The resistance from Muse which plays deeply into Mad Bellamy's conspiracy theories involving everything from the Illuminati on down." ← https://www.youtube.com/watch?v=1KyNY3zv6uc
@@ -29,6 +36,8 @@
 **The Second Law (2012) – Themed After the Second Law of Thermodynamics** : The album takes the Second Law of Thermodynamics — involving the increasing entropy of the universe — as its conceptual framework. "The band's 2012 album is themed after the Second Law of Thermodynamics, which involves the increasing of entropy in the universe." ← https://www.youtube.com/watch?v=NbtZ_nfxb3I
 
 ## songs
+**Dead Inside (2015)** : This song is from their 2015 album, Drones, which was recorded entirely at The Warehouse Studio in Vancouver. "Muse, with dead inside from their 2015 album, Drones, recorded entirely at the warehouse studio in Vancouver." ← https://www.youtube.com/watch?v=N5kSZOl-5UY
+**Dig Down** : The song "Dig Down" is used as a specific example to illustrate the structure and purpose of an ISRC code. Its ISRC is Gb A-H-T-17-00303, with "Gb" indicating Great Britain as the issuing country, "A-H-T" likely referring to Helium 3 (the band's label, distributed by Warner Music Group) as the registrant, "17" for the year 2017, and "00303" as the unique designation code for that specific recording. "Let's dig into an example using Muse and their song Dig Down. The ISRC of this recording is Gb A-H-T-1700303." ← https://www.youtube.com/watch?v=5kPmqmbFfkY
 **Neutron Star Collision (Twilight Soundtrack)** : One of several Muse songs that appeared on *Twilight* movie soundtracks, written as a direct concession to author Stephenie Meyer's fandom. Meyer acknowledged Muse repeatedly in her novels — in *New Moon* she thanked "the talented musicians who inspire me, particularly the band Muse"; in *Eclipse* called them "rock gods"; in *Breaking Dawn* called them "the very aptly named Muse." "I don't think Muse supports either Team Edward or Team Jacob." ← https://www.youtube.com/watch?v=NbtZ_nfxb3I
 **Uprising (2009) – Number One Alt-Rock Track** : This song was the number one alt-rock track in the world as the 2010s decade began, a position it had maintained since mid-October 2009. It represented one of Muse's biggest singles in their career. "One of the biggest singles of muse's career." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
 **Uprising (2010)** : This song was part of Muse's setlist when they headlined Coachella in 2010, sharing the top billing with Gorillaz and Jay-Z, marking a period when Coachella was beginning its shift towards pop and hip-hop. "Muse and uprising, one of the songs they played during their Coachella set in 2010." ← https://www.youtube.com/watch?v=ZzIqIydZTlA
@@ -48,6 +57,7 @@
 **North American Breakthrough Delay** : Despite performing in arenas across Europe, Muse continued to play clubs in North America until the release of their fourth album, indicating a slower path to prominence on that continent. "They might have been playing arenas in Europe, but when it came to their fourth album, they were still playing clubs on this side of the Atlantic." ← https://www.youtube.com/watch?v=8sAxFvktx-A
 **Recipient of Marketing Investment** : Muse is an example of an established performer who still receives marketing investment from record labels, in contrast to the limited support for emerging rock acts. "Any money that is available goes to performers who already have a track record like, uh, muse." ← https://www.youtube.com/watch?v=Z7glrAoXtkA
 **Recording at Abbey Road Studios** : Muse is among the list of legendary artists and bands who have made albums at the historic Abbey Road Studios in London. "I mean, Beatles, Pink Floyd, Oasis, Blur, Muse, Kate Bush, DePeshmo, Iron Maiden, Queen, You Tube Michael Jackson, Glenn Miller. They all made albums there." ← https://www.youtube.com/watch?v=hjProJd_JrM
+**Recording at Air Lyndhurst Hall** : Muse was a client at Air Lyndhurst Hall, George Martin's studio in North London, known for its expansive hexagonal Studio One that can accommodate orchestras and choirs. "Clients have included you too, Adele, Kate Bush, Liam Gallagher, Coldplay Muse, and Mumford and Sons." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
 **Sheep Farming** : Matt Bellamy is keenly interested in sheep farming, with a flock of nearly 200 sheep, effectively making him a shepherd. "It's not terribly well known, but Matt Bellamy of Muse is really into sheep farming. He has nearly 200 sheep." ← https://www.youtube.com/watch?v=xc85sLj0Cnk
 **Twilight Saga Influence** : Muse's music was a significant influence on Stephenie Meyer, the author of *The Twilight Saga* novels, who did a lot of her writing while listening to their music. Consequently, Muse made the cut for the movie soundtracks, appearing on the various *Twilight* discs. "Stephanie Myers, the author of The Novels in which the movies were based, is a big fan of muse. She did a lot of writing to their music, so it's no surprise that they made the cut for the movie." ← https://www.youtube.com/watch?v=zIkjd1OjCXM
 **UK Alt Rock Success (2010s)** : Muse was identified as one of the "monsters" in the UK alt-rock scene that did well during the 2010s. "Meanwhile, the Monsters did well, and that would include Coldplay and Muse and Gorillas." ← https://www.youtube.com/watch?v=sOU54d8mr5k

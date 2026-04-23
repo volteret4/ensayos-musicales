@@ -10,6 +10,7 @@
 ## artists
 - Can
 - Daphne Oram
+- Daphne Orham
 - Delia Derbyshire
 - John Frusciante
 - Kraftwerk

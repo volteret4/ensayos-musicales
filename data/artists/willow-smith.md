@@ -1,5 +1,8 @@
 # artist - Willow Smith
 
+## member of
+- Willow
+
 ## genres
 - pop
 - pop punk

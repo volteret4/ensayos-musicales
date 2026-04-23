@@ -3,7 +3,9 @@
 ## curiosities
 **Alt Rock (North America) vs Indie (UK) – Same Thing, Different Words** : The term "alternative" evolved in North America from FM radio stations in the 1970s that played slightly different music from corporate rock stations (an "alternative" to Journey, Styx, and Boston), and from bands who recorded for independent labels because major labels wouldn't have them. Campus radio stations spread the term. In the UK, the exact same thing was called "Indie," because these bands recorded for independent labels. Both terms describe left-of-center rock that descends not from the Beatles/Stones/Led Zeppelin lineage but from Iggy Pop, Bowie, the Velvet Underground, and the Ramones. "Same say, in North America these artists recorded for independent labels that were an alternative to the mainstream, hence it was alternative music. In the UK these artists recorded for Indy labels." ← https://www.youtube.com/watch?v=M11CC71FSWE
 **Concept Evolution** : The concept of alt-rock has evolved to the point where it may no longer exist as a distinct category. Instead, it is seen as simply "different flavors of rock," with varying levels of popularity, where any style has the potential to briefly enter the mainstream. "the concept of alt-rock no longer exists. It's just different flavors of rock with some being more popular than others." ← https://www.youtube.com/watch?v=-CT7yYXonIk
+**Connected to Independent Labels** : The term "alternative rock" is theorized to have derived from the practice of bands recording for small, independent record labels. For artists whose sound was considered too radical for major labels, these independent companies served as their only "alternative," hence the music they produced was labeled "alternative rock." "So therefore bands who recorded for these alternative labels made alternative rock." ← https://www.youtube.com/watch?v=XjTWcy8RHEs
 **Disdain for Video Practice** : The alt-rock revolution brought artists who were largely disdainful of the industry practice of "We Must Make a Video" and were often openly hostile towards the MTV machine. This stance marked a fracture in the music video world, as these artists challenged the established norms of promotional video production. "These artists were largely disdainful of the whole We Must Make a Video Practice, and were often openly hostile to the MTV machine." ← https://www.youtube.com/watch?v=7IDbqdIw3WU
+**Embrace of Unique Female Artists** : Alternative rock provided a fertile ground for female artists who deviated from conventional norms in sound and appearance, often exhibiting bewildering senses of style, poise, and confidence. This genre, particularly with the openness of Gen Xers during the Grunge explosion, embraced musicians like Björk, who introduced different musical styles and kept music innovative. "when we slide into the world of alt rock, there are some women who sound like no one else." ← https://www.youtube.com/watch?v=rEawe_1Fqf0
 **Factors in Alt-Rock Growth (Mid-1980s)** : The expansion of the alternative scene in North America during the mid-1980s was significantly aided by college radio, bands actively touring alt-friendly clubs, independent record stores stocking unique music, and MTV's role in playing music videos from new UK bands. These elements collectively helped evangelize new fans and spread the movement. "Yes, college radio helped. So did all the bands willing to tour alt-friendly clubs and so did independent record stores, which set themselves apart from the big chains by stocking more of the weird stuff." ← https://www.youtube.com/watch?v=zB5zxycrbnY
 **Grammy Award Category Introduction (1991)** : The "Alternative Album" category was first introduced at the Grammy Awards in 1991, years after alternative albums began to gain prominence. This marked a significant moment of formal recognition for the genre by the Recording Academy. "It wasn't until 1991 that the genre had its own category." ← https://www.youtube.com/watch?v=gP3oQeYEvso
 **Heritage of Mid-2000s Rock** : The successful rock music of the mid-2000s, which ruled in the summer of 2005, was "music based on alt-rock heritage," with influences from the 90s alt-rock, 80s underground rock, and 70s punk. "Rock, and remember this is music based on alt-rock heritage, ruled." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
@@ -26,13 +28,16 @@
 - Beck
 - Blackfire
 - Dave Grohl
+- Florence + The Machine
 - Green Day
 - Hüsker Dü
 - INXS
 - Jane's Addiction
+- Leonard Cohen
 - Lincoln Park
 - Lou Reed
 - Nirvana
+- Pere Ubu
 - Pixies
 - R.E.M.
 - Scott Weiland

@@ -2,5 +2,6 @@
 
 ## member of
 - Corn
+- KoRn
 - Korn
 

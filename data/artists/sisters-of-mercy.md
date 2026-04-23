@@ -2,6 +2,7 @@
 
 ## genres
 - Goth
+- Gothic rock
 
 ## curiosities
 **Covered "1969"** : The Sisters of Mercy are among the artists who have covered The Stooges' song "1969." "Tracks on this album have been covered by the Sex Pistols, Joey Ramone, Sonic Youth, the Sisters of Mercy, Joan Jett, Red Cross, and the Black Keys." ← https://www.youtube.com/watch?v=w-rihv544I8

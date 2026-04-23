@@ -6,6 +6,9 @@
 ## genres
 - Rock and Roll
 
+## instruments
+- Gretsch guitars
+
 ## songs
 **Bo Diddley (1955)** : This song is associated with the distinctive "Bo Diddley beat," a rhythm that Bo Diddley popularized and introduced to rock and roll, even though its history dates back at least 50 years before him. The beat has since been widely adopted by artists like Iggy Pop and Joan Jett. "the man who used a particular rhythm so effectively that we actually now call it the bow-diddly beat." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ
 

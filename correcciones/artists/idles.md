@@ -1,0 +1,11 @@
+# artist - Idles
+
+## genres
+- Garage Punk
+- Post Punk
+- Punk
+
+## curiosities
+**Accent Preservation** : Idles is cited as a British band whose members maintain their regional accent while singing, distinguishing them from the general trend of accents flattening out in musical performances. "anything by the British band Idols." ← https://www.youtube.com/watch?v=_YjwRApoJhA
+**Working-Class Rage Approach to Punk Revival** : Idles was cited as an example of a band that brought "working-class rage" to the mid-decade punk revival of the 2010s. This revival encompassed a wide variety of styles, including Garage Punk and Post Punk, and demonstrated how punk had evolved beyond just a sound to an attitude and a way of life. "There was a wide variety of approaches from Laura Jane Grace and against me to the riot girl sensibilities of the reformed Slater Kinney, to the grinding sound of Japan droids, to the intensity of F-Dup and the stoner feel of Park Ae Courts and the working-class rage of idols and sleafed mods." ← https://www.youtube.com/watch?v=HSvgRyGiOpE
+

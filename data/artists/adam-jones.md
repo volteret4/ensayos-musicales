@@ -1,6 +1,7 @@
 # artist - Adam Jones
 
 ## member of
+- Tom Morello
 - Tool
 
 ## instruments

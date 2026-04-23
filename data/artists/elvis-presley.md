@@ -6,6 +6,7 @@
 
 ## genres
 - Alternative Music
+- Popular Music
 - Rock and Roll
 - Rock and Roll (implied)
 - Rock and roll
@@ -55,7 +56,9 @@
 **Presidential Paper Clip Sale** : In early 2018, a paper clip that once belonged to Elvis Presley was sold for three thousand dollars. "Nearly twenty eighteen somebody bought a paper clip once owned by Elvis Presley. They paid three thousand dollars for it." ← https://www.youtube.com/watch?v=GO0K_N7Ys7I
 **Refusal to Play Encores** : Elvis Presley famously refused to perform encores. This policy led to the iconic "Elvis has left the building" announcement, which was specifically designed to prompt fans, who often desired more music, to leave the venue. "Elvis Presley refused to do Encore's. Hence the famous Elvis has left the building announcement, designed to clear out fans who wanted more." ← https://www.youtube.com/watch?v=bferkEWvJg0
 **Rock and Roll Peak (1956)** : The first cycle of rock and roll, beginning in 1951, peaked with Elvis Presley in 1956, marking a significant high point for the genre. "It peaked with Elvis in 1956." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
+**Rock and Roll Pioneer** : Elvis Presley brought rock and roll to the masses in the 1950s, ushering in a completely new era in music. Despite his epic waning, he remains a towering figure in the history of popular music. "he's the guy that brought rock and roll to the masses in the 1950s, and he basically ushered in a whole new era in music." ← https://www.youtube.com/watch?v=rw0uXf5UJvo
 **Sam Phillips' "White Boy" Quote** : Record producer Sam Phillips famously stated his desire to find a white male vocalist who could sing with the soul of a black man, believing it would make him a million dollars. Elvis Presley ultimately became that artist. "The record producer Sam Phillips famously said, if I could find a white boy who could sing like a black man, I'd make a million dollars." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
+**Shared Birthday with David Bowie** : Elvis Presley shares a birthday with David Bowie. "a guy who coincidentally shares a birthday with Elvis." ← https://www.youtube.com/watch?v=rw0uXf5UJvo
 **Songs in ATV Music Catalog (1985)** : The ATV Music catalog, purchased by Michael Jackson in 1985, included tracks by Elvis. "as well as tracks by the Rolling Stones, Elvis and Bruce Springsteen." ← https://www.youtube.com/watch?v=Pe40SqDrpZ0
 **Wasp Species** : A wasp species has been named *Presucolia, I'm all shook up us*, a clear reference to Elvis Presley's iconic song. The name cleverly incorporates one of his most famous phrases. "Presucolia, I'm all shook up us." ← https://www.youtube.com/watch?v=VMPLplhDk8I
 

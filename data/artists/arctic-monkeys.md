@@ -14,6 +14,9 @@
 - Domino Records
 - Indie Labels
 
+## instruments
+- Vox units
+
 ## albums
 **AM (2013)** : AM is the band's 2013 album, from which the song "Why'd You Only Call Me When You're High?" was one of six singles. ← https://www.youtube.com/watch?v=YvcnHKI4oIw
 **Favorite Worst Nightmare (Second Studio Record)** : This was the band's second studio record, featuring the international hit "Fluorescent Adolescent." ← https://www.youtube.com/watch?v=YvcnHKI4oIw
@@ -44,6 +47,7 @@
 **Matt Helders' Drummer Origin** : Matt Helders became the band's drummer by necessity, as all other instruments were already claimed, making him the "Ringo" of the group. His background included being "very much into beats" and listening to Motown due to his parents' influence. By his teens, he was deeply immersed in hip hop, with Wu Tang, Outcast, and Eminem as favorites, and he harbored dreams of becoming a DJ by age 14. ← https://www.youtube.com/watch?v=YvcnHKI4oIw
 **Matt Helders' Hip Hop and Dance Scene Disillusionment** : By the late 1990s, Matt Helders' interest in the dance scene, encompassing genres like garage and jungle, waned as it became more commercial ("big money territory"). This shift was a "huge turnoff" for those who preferred the underground nature of these scenes. ← https://www.youtube.com/watch?v=YvcnHKI4oIw
 **Media Frenzy for Internet Breakthrough** : When the media recognized that the Arctic Monkeys were poised to be the first band to achieve mainstream success through the internet, a "frenzy" ensued, intensifying their rapid rise to fame. ← https://www.youtube.com/watch?v=YvcnHKI4oIw
+**MySpace Discovery** : The band gained attention from numerous record labels after fans began posting their early do-it-yourself recordings on MySpace. This illustrates a shift in how A&R departments scouted new talent, leveraging online platforms. "They came to the attention of a lot of record labels as the result of fans posting their early do-it-yourself recordings to my space." ← https://www.youtube.com/watch?v=5kPmqmbFfkY
 **MySpace Fan-Driven Success** : Despite the band not knowing what MySpace was, their fanbase grew exponentially because fans created tribute pages on the platform featuring their music. "The Arctic Monkeys had no idea what MySpace was, but they benefited from fans who created tribute pages with their music." ← https://www.youtube.com/watch?v=XM1RvL7Kdts
 **MySpace Strategy and Viral Success** : Arctic Monkeys were an early adopter of MySpace, choosing to upload all their music onto the platform for free listening and encouraging fans to share it widely. This unconventional strategy proved highly effective, leading the band to go viral on MySpace, sell out gigs rapidly, and generate significant buzz that attracted record labels. "Against all conventional wisdom, they started uploading all their music onto MySpace." ← https://www.youtube.com/watch?v=GYUuTbOvyak
 **New Wave of Alt-Rock** : The Arctic Monkeys were part of a new crop of indie artists who emerged after the alt-rock bottomed out, many of whom operated outside the standard music industry model, signaling a return for alt-rock in a few years. "They had names like The Arctic Monkeys, Arcade Fire, The White Stripes, The Killers, and The Strokes." ← https://www.youtube.com/watch?v=7JP2tjJibTQ

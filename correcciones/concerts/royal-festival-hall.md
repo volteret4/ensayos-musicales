@@ -1,0 +1,10 @@
+# concert - Royal Festival Hall
+
+## curiosities
+**MTV Unplugged Performance (August 23, 1996)** : The Royal Festival Hall in London was the venue for Oasis's MTV Unplugged performance on August 23, 1996. Liam Gallagher famously pulled out at the last minute, claiming a sore throat, leading Noel Gallagher to take over lead vocals for the entire set, while Liam watched from the balcony, heckling the band. "Oasis, without Liam performing their MTV set at Royal Festival Hall in London on August 23, 1996." ← https://www.youtube.com/watch?v=S6qB5B1PdyA
+**Site of Ziggy Stardust's Debut (July 8, 1972)** : The Royal Festival Hall in London was the venue where David Bowie first introduced his iconic Ziggy Stardust character to the world on July 8, 1972, a pivotal moment in rock history and the start of Ziggy's 360-day public lifespan. "That night, David Bowie stepped on stage at the Royal Festival Hall in London and introduced himself by saying, hi, I'm Ziggy." ← https://www.youtube.com/watch?v=2RKchFW42Jc
+**Venue for Liam's MTV Unplugged No-Show (August 23, 1996)** : This London venue was scheduled to host Oasis's MTV Unplugged set. However, Liam Gallagher pulled out at the last minute, claiming a sore throat, leading Noel Gallagher to perform the entire set himself, while Liam heckled from the balcony. "Epic Battle No. 3 between Noelle and Liam involved an oasis obligation to perform at an MTV unplug set at the Royal Festival Hall on August 23rd, 1996." ← https://www.youtube.com/watch?v=_b3KRS-Yx_s
+
+## artists
+- Oasis
+

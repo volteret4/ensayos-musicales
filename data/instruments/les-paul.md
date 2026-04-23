@@ -1,0 +1,7 @@
+# instrument - Les Paul
+
+## curiosities
+**Coveted 1958-1960 Les Paul Standard** : Les Paul Standards produced between 1958 and 1960 are considered among the finest electric guitars ever made, with the 1958 Les Paul Standard sunburst being particularly coveted. These instruments are extremely rare and command very high prices today. "If you have, say, a 1958 Les Paul Standard sunburst, you have one of the most coveted axes of all time. They are extremely rare and extremely expensive today." ← https://www.youtube.com/watch?v=fQCOj3_zy54
+**Famous Model** : The Les Paul is one of the celebrated guitar models that helped define the early evolution of the electric guitar, particularly from manufacturer Gibson. "We looked at the introduction of famous models like the Stratocaster, the Les Paul, and the Rickenbacher." ← https://www.youtube.com/watch?v=fQCOj3_zy54
+**Post-1969 Quality Issues** : Following Gibson's sale in 1969 to an Ecuadorian conglomerate, the quality of Les Paul guitars declined due to new owners implementing changes in construction and manufacturing processes. These issues created a demand for older, pre-sale models, contributing to the vintage guitar market. "Then Gibson was sold in 1969, and the new owners implemented a series of changes in the way guitars were constructed and manufactured. These are the Les Pauls that you can buy today." ← https://www.youtube.com/watch?v=fQCOj3_zy54
+

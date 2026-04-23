@@ -7,9 +7,11 @@
 - Surf music (influence)
 
 ## instruments
+- Gretsch guitar
 - Guitar (twangy sound)
 
 ## songs
+**Guitar Twang Track** : A Gretsch guitar is credited with providing a significant "twang" sound to one of Duane Eddy's tracks. "It's a Gretch that gives this track so much twang." ← https://www.youtube.com/watch?v=d9HNqb9gJSU
 **Rebel Rouser (1958)** : Released in 1958, this track featured a "super twangy" guitar sound and a significant amount of reverb. While not a surf song itself, it contained many elements that would influence the coming surf music wave and electric guitar playing in general. "This wasn't a surf song, there was a couple of years too early for that, but it had a lot of the elements, including a ton of reverb." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
 
 ## curiosities

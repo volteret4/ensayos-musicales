@@ -16,12 +16,14 @@
 
 ## instruments
 - Bass
+- C. Bechstein concert grand piano
 - Gibson Les Paul
 
 ## albums
 **Red Rose Speedway (1973)** : Paul McCartney wrote and recorded the Bond theme "Live and Let Die" during the sessions for his album "Red Rose Speedway." This timing integrated the Bond theme's creation directly into his ongoing recording work for the album. "He had it recorded in a week all during the sessions for McCartney's Red Rose Speedway album." ← https://www.youtube.com/watch?v=K0pgJ7XAlpo
 
 ## songs
+**Hey Jude** : Paul McCartney played the handmade C. Bechstein concert grand piano at Trident Studios on this song. "This is the piano that we hear Paul McCartney playing on Hey Jude." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
 **Hey Jude (1968)** : A song recorded in 1968 that features four minutes of the vocable "na na na na." At 26 years old, McCartney was able to take his tenor range to a very high F for this song. "if we go back to 1968 and the recording of Hey Jude, a song that features four minutes of the vocal ball, na na na na, McCartney takes his tenor range to a very high F." ← https://www.youtube.com/watch?v=_YjwRApoJhA
 **Let It Be** : This composition by Paul McCartney is the most downloaded track among all Beatles songs. "The most downloaded track is Let It Be, which is a Paul McCartney composition." ← https://www.youtube.com/watch?v=72Lei7uug8c
 **Live and Let Die (1973) – Bond Theme Song** : Paul McCartney was chosen by co-producer Albert Broccoli to write the theme song for the 1973 James Bond film "Live and Let Die." McCartney reportedly wrote the song in about a day after reading a copy of the book and recorded it within a week during sessions for his "Red Rose Speedway" album at Air Studios. Producer George Martin insisted that McCartney's version be used as the title sequence, leading to its inclusion despite initial producer hesitancy. The song became a major worldwide hit, despite some "tortured grammar" in its lyrics. "Albert Broccoli had this idea of getting Paul McCartney to write the song." ← https://www.youtube.com/watch?v=K0pgJ7XAlpo

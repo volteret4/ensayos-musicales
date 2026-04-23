@@ -6,7 +6,15 @@
 **Hip-Organized Festival** : The Tragically Hip organized and headlined their own festival called Another Roadside Attraction. "their own another roadside attraction." ← https://www.youtube.com/watch?v=Um_KEEcCeT4
 **Lollapalooza Imitator** : Another Roadside Attraction was among the imitator festivals spawned by Lollapalooza's success in the 1990s. "This spawned imitators, edgefest, little fair, summer salt, another roadside attraction." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
 **The Tragically Hip Initiative** : Another Roadside Attraction was a Canadian-based summer music festival organized by The Tragically Hip, which took place in 1993, 1995, and 1997. It was one of several festivals contributing to the vibrant Canadian music scene of the 1990s. "There was another roadside attraction, which was organized by the Trajically Hip in 1993, 1995 and 1997." ← https://www.youtube.com/watch?v=6PGgNCaW4xo
+**The Tragically Hip's Touring Festival** : Another Roadside Attraction was a touring festival hosted by The Tragically Hip in 1993, 1995, and 1997. It featured a mix of Canadian performers such as Daniel Lanois, Spirit of the West, and Rheostatics, alongside international acts including Midnight Oil, Blues Traveler, Matthew Sweet, and Sheryl Crow. "The tragically hip had lined another roadside attraction in 1993, 95 and 97." ← https://www.youtube.com/watch?v=U2kYleeMnl8
 
 ## artists
+- Blues Traveler
+- Daniel Lanois
+- Matthew Sweet
+- Midnight Oil
+- Rheostatics
+- Sheryl Crow
+- Spirit of the West
 - The Tragically Hip
 

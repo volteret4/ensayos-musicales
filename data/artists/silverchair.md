@@ -3,6 +3,8 @@
 ## genres
 - Grunge (sound-alike)
 - Post-Grunge
+- alternative rock
+- grunge
 
 ## labels
 - Sony
@@ -11,6 +13,7 @@
 - The Cable Guy
 
 ## curiosities
+**Bridging Rock and Metal** : Silverchair was noted alongside Soundgarden, Nirvana, and Alice in Chains as bands that "slowly closed that big attitude gap between rock and old school metal" throughout the early and mid-90s, contributing to a more open musical landscape. "bands like Soundgarden and Silverchair Nirvana and the smashing pumpkins and Alice and Chains slowly closed that big attitude gap between rock and old school metal." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE
 **Catalog Sale** : Silverchair is mentioned as one of the artists who have "cashed out" by selling their music catalog. "Everyone from the killers to Barry Manelow to Silver Chair to the Beach Boys to members of Allison Chains have cashed out." ← https://www.youtube.com/watch?v=Pe40SqDrpZ0
 **Catalog Sale to Sony (2020s)** : Silverchair sold their entire music catalog to Sony, joining hundreds of other artists in the "gold rush" for catalog acquisitions. While the exact price of the deal was kept secret, it is believed the band walked away with at least an eight-figure sum, providing them with significant financial security. "Even Silver Chair cashed in. They sold their entire catalog to Sony." ← https://www.youtube.com/watch?v=GYUuTbOvyak
 **International Grunge Success** : Hailing from Australia, Silverchair was a new band that garnered a record deal because their sound resembled grunge, demonstrating the genre's international reach and influence beyond its Seattle origins. "Silver chair was from Australia." ← https://www.youtube.com/watch?v=tFBSrKMEZxI

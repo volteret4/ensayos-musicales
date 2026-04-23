@@ -8,6 +8,7 @@
 **Popularity Driven by Volume (Post-WWII)** : Following World War II, as smaller musical combos replaced expensive big bands, the saxophone saw a surge in popularity. This was largely due to its ability to "be heard above the dind" of other instruments, addressing the need for louder individual instruments in reduced ensemble sizes. "This explains the surge in the popularity of the saxophone, which could be heard above the dind." ← https://www.youtube.com/watch?v=qrrwqdpCjpQ
 **Prominence in Ska** : The saxophone is noted as a significant brass instrument in traditional ska music. Its presence, along with the trombone and trumpet, contributes to ska's characteristic sound. "Traditionally, ska also featured lots of brass instruments. The trombone is big, so it was the saxophone, maybe the trumpet." ← https://www.youtube.com/watch?v=zNIVqKqAlnk
 **Sid Vicious's Alleged Saxophone Pogoing** : One theory regarding the origin of the Pogo dance suggests that Sid Vicious, in addition to being a bassist, was rumored to play the saxophone. It is claimed that he would jump up and down on the spot while attempting to play the instrument, which may have contributed to the Pogo's development. "There's another story that says when Sid played the saxophone, yes, it's claimed that he played the saxophone, that he jumped up and down on the spot." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
+**They Might Be Giants' Early Instrumentation** : In the early years of They Might Be Giants, John Linnell contributed to the backup music on the saxophone. "and saxophone." ← https://www.youtube.com/watch?v=I9_3EbwKPnU
 
 ## artists
 - Dave Manning
@@ -17,5 +18,6 @@
 - Saxa
 - The Farriss Brothers
 - The Stooges
+- They Might Be Giants
 - Trent Reznor
 

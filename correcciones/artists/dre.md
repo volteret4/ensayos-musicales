@@ -1,0 +1,5 @@
+# artist - Dre
+
+## genres
+- Rap
+

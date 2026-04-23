@@ -10,19 +10,26 @@
 **Founding (July 4, 1959)** : Island Records was founded on July 4th, 1959, by Englishman Chris Blackwell and two partners in Jamaica. The label's name was inspired by the Harry Belafonte song "Island in the Sun," and it began with a startup capital of 100 pounds. "So on July 4th, 1959, he and two partners created Island Records, taking the name from the Harry Belafonte song Island in the Sun." ← https://www.youtube.com/watch?v=dDcD8kg0wEk
 **Independent Label Status in Early 80s** : In the early 1980s, Island Records was considered an independent label, notable for releasing music by bands such as U2, who maintained an "indiness" even as they gained popularity. "even U2, who recorded for island records, which in the early 80s was an independent label." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 **Initial Focus (Jamaican & Caribbean Music)** : From its inception, Island Records focused on exporting Ska, Reggae, and other music from Jamaica and the Caribbean to the rest of the world. "from day one, Island Records was all about exporting Scott, Reggae and other music from Jamaica and the Caribbean." ← https://www.youtube.com/watch?v=dDcD8kg0wEk
+**Initial Skepticism for Mumford & Sons (2008)** : In early 2008, an unnamed executive at Island Records expressed significant doubt about signing Mumford & Sons, dismissing them as a "banjo band" and "dustbin merchants" and questioning their potential as "the next big alternative band" due to their unconventional instrumentation. "Good Lord Smith. This is 2008. We need the next big alternative band." ← https://www.youtube.com/watch?v=P1RyOchn7pk
+**Launchpad for Major Success** : Island Records secured a deal with Florence + The Machine, leading to the release of their debut album, "Lungs," in summer 2009. This partnership resulted in a significant commercial success, with the album selling 3 million copies and receiving prestigious awards. "she ended up with a deal with island records that resulted in the lungs album in the summer of 2009, very big hit, 3 million copies, plus a couple of prestigious awards." ← https://www.youtube.com/watch?v=rEawe_1Fqf0
+**Lewis Bloom's Persistence and Scouting** : Lewis Bloom of the A&R department at Island Records relentlessly scouted Mumford & Sons after their formation in December 2007. He observed them repeatedly until he was confident they were ready for a deal, eventually convincing the label despite initial reservations. "He scouted Mumford and son, surely after the band was formed in December 2007." ← https://www.youtube.com/watch?v=P1RyOchn7pk
 **Move to England & Diversification (1962)** : Although the company was based in the United States after 1962, Chris Blackwell moved back to England that same year and began signing local acts. This expanded Island's roster to include British groups like the Spencer Davis Group, Roxy Music, King Crimson, and Traffic. "That same year, Blackwell moved back to England where he started signing local acts, the Spencer Davis group, Roxy Music, King Crimson, Traffic." ← https://www.youtube.com/watch?v=dDcD8kg0wEk
 **Multimedia Collaboration with Philips Media** : Island Records partnered with Philips Media to announce "Doors and Windows," a CDI (Compact Disc Interactive) disc by The Cranberries. This release was heralded as a technological breakthrough in multimedia entertainment, offering an interactive look at the band alongside music content. "Island Records and Philips Media announced a technological breakthrough in multimedia entertainment. Doors and Windows, an intimate, interactive look at one of the most successful new groups in music today." ← https://www.youtube.com/watch?v=BHkJFA0LMro
+**Unconventional Debut Album Deal** : Island Records, impressed by the self-financed *Sigh No More* album, negotiated a licensing deal where they licensed the album from Mumford & Sons' indie label, Gentlemen of the Road. Island agreed to cover all manufacturing, distribution, and promotion costs, while the band received only a licensing fee without subsequent profits, deemed the "safest way forward" at the time as it required no upfront money or liability from the band. "Island then negotiated a deal whereby they licensed the album from Mumford through their gentlemen of the road indie label." ← https://www.youtube.com/watch?v=P1RyOchn7pk
 
 ## artists
 - Bob Marley and the Wailers
 - Bono
 - Chris Blackwell
 - Crenbury's
+- Florence + The Machine
 - King Crimson
 - Millie Small
+- Mumford & Sons
 - My Bloody Valentine
 - Roxy Music
 - Spencer Davis Group
+- The Slits
 - Traffic
 - U2
 

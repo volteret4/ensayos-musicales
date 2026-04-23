@@ -17,6 +17,7 @@
 - Story of the Year
 - The Refused
 - The Used
+- Thursday
 - Touche Amore
 - Underoath
 

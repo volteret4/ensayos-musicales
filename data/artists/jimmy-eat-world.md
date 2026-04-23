@@ -9,6 +9,7 @@
 
 ## albums
 **Bleed American (2001)** : This Emo-style album achieved significant commercial success, selling a million copies between 2002 and 2003. Its popularity played a major role in bringing Emo music into the mainstream and spurred a trend for record labels to sign other Emo and Emo-ish bands. "Their bleed American album, an Emo style record sold a million copies through 2002 and 2003." ← https://www.youtube.com/watch?v=-CT7yYXonIk
+**Clarity (1999)** : Jimmy Eat World's early albums, especially "Clarity," were highly influential for the emo scene. Released near the end of the 1990s, it contributed to emo's breakthrough as the genre evolved to be more poppy and punky, incorporating hooks and melodies. "The first Jimmy Eat World albums were big for the scene, especially their clarity album." ← https://www.youtube.com/watch?v=mAlc-N2wn5s
 
 ## curiosities
 **Emo Credentials and Mainstream Success** : Jimmy Eat World possessed genuine emo credentials and contributed to the widespread popularity of third wave emo through songs that helped the genre achieve significant commercial success. Their rise also coincided with a period where some emo lyrics took a darker turn. "And then there were bands like Jimmy Eat World. They have emo credentials, but they also had songs like, well, this. Thanks to songs like that, third wave emo was huge, but things also got dark." ← https://www.youtube.com/watch?v=v_am7ifh7Pk

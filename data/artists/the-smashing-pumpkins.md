@@ -19,6 +19,8 @@
 - Grunge
 - Grunge (sound-alike)
 - Rock
+- alternative rock
+- metal
 
 ## labels
 - Virgin Records
@@ -57,6 +59,7 @@
 
 ## songs
 **Bullet with Butterfly Wings (1995)** : This was a big single from the 1995 concept album *Mellon Collie and the Infinite Sadness*. The lyrics of the song are said to embody the frustrations of a teenager railing against the world. "The smashing pumpkins and bullet with butterfly wings, a big single from their 1995 album Melon Collie and the Infinite Sadness, which is, yes, a concept record." ← https://www.youtube.com/watch?v=Dm5N6yDRxXQ
+**Bullet with Butterfly Wings (Year Unspecified)** : This song is based on a popular four-chord progression (E, B, C#, A) but is played in the key of B flat, demonstrating how common musical structures can be adapted with different keys. "all these songs are constructed around those chords." ← https://www.youtube.com/watch?v=fS8V3kYXT6w
 **Louie Louie (Cover)** : The Smashing Pumpkins are among the numerous artists who have covered Richard Berry's "Louie Louie," with the song being covered more than 1600 times in total. "And since then, the song has been covered more than 1600 times by everyone from the beach boys to the stooges to motorhead to black flag to the smashing pumpkins." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
 **Rhinoceros (1989) – Original Indie Version** : This original version of the song appeared on the 1989 indie cassette *Moon*, prior to The Smashing Pumpkins signing with Virgin Records and releasing *Gish*. It served as an early demo for the later, refined version. "The smashing pumpkins from their indie days, that's Rhinoceros, the original version from 1989, Indie cassette called Moon." ← https://www.youtube.com/watch?v=zT6pRGYLWhw
 **Stand Inside You Love (2000)** : This song was a single from the concept album *Machina, The Machines of God*. "This was a single from Machina, The Machines of God. It's called Stand Inside You Love." ← https://www.youtube.com/watch?v=1KyNY3zv6uc
@@ -72,6 +75,7 @@
 **Billy Corgan's Anti-Moshing Stance (1995)** : In 1995, Billy Corgan publicly took a stand against moshing during a show in Chicago, expressing that such behavior was inappropriate and unfair to other audience members. This reflected a growing concern among bands about safety in mosh pits. "I and we publicly take a stand against mashing." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
 **Billy Corgan's Continued Presence** : Billy Corgan continues to be involved with The Smashing Pumpkins "in one form or another," indicating the band's ongoing, albeit evolving, existence. "We still have Billy Corgid in the smashing pumpkins in one form or another." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
 **Billy Corgan's Vow to Reunite (June 25, 2005)** : Corgan vowed to bring the band back on the same day he released his solo album. "But then he vowed to bring the band back the same day he released his solo album which was June 25th, 2005." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Bridging Rock and Metal** : Billy Corgan and The Smashing Pumpkins were part of the movement in the early to middle 90s that "slowly closed that big attitude gap between rock and old school metal." Corgan specifically expressed admiration for bands like AC/DC and Led Zeppelin, contributing to a new open-mindedness within alternative rock. "Then guys like Billy Corgan started saying the same thing. Some of those old ACDC records? Pretty great riffs, man." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE
 **Career Decline (late 90s)** : Towards the end of the 1990s, The Smashing Pumpkins were noted to have "lost their way," indicating a period of creative or commercial difficulty. "The smashing pumpkins lost their way." ← https://www.youtube.com/watch?v=7JP2tjJibTQ
 **Championing Classic Rock** : Billy Corgan of The Smashing Pumpkins publicly championed classic rock groups such as Cheap Trick and Judas Priest. This demonstrates a broad musical appreciation that defies the traditional "pick a side" mentality once prevalent among rock fans. "Billy Corgan of the Smashing Pumpkins champion groups like Cheap Trick and Judas Priest." ← https://www.youtube.com/watch?v=Ft8nruhWCas
 **Continued Popularity Post-90s** : The Smashing Pumpkins are one of the acts from the 90s that continued to be very popular, making it difficult for new artists to break through in the 21st century due to their continued demand and airplay. ← https://www.youtube.com/watch?v=eqTFinLk3oU

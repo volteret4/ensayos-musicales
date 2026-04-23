@@ -6,6 +6,7 @@
 **Role in IMS's "Hello World" (N/A)** : The classical composition "Hello World," a pioneering piece entirely created and notated by the IMS computer program, was scored for violin, clarinet, and piano. This demonstrates early AI's ability to produce music for specific string and wind instruments. "It was a classical composition for clarinet, violin, and piano." ← https://www.youtube.com/watch?v=QFtS8fl553Y
 
 ## artists
+- Captain Kick and the Cowboy Ramblers
 - Kate Bush
 - Russell Senior
 

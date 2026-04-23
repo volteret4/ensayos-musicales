@@ -2,6 +2,7 @@
 
 ## member of
 - Bam Bam
+- BamBam
 - Feedback
 - Pearl Jam
 - Skinyard

@@ -2,6 +2,7 @@
 
 ## member of
 - Sex Pistols
+- The Sex Pistols
 
 ## curiosities
 **Fan of Trout Mask Replica** : The future Johnny Rotten of the Sex Pistols was among the many individuals who bought and listened to Captain Beefheart's "Trout Mask Replica," specifically because of its "un-listenable" and challenging nature. "But many people, like the future Johnny Rotten of the Sex Bistels, bought it and played it because it was un-listenable." ← https://www.youtube.com/watch?v=6oUkMOkEr9U

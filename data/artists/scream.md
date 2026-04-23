@@ -1,6 +1,7 @@
 # artist - Scream
 
 ## members
+- Dave Grohl
 - Dave Grohl (drums)
 - Dave Grohl (drums, later)
 - Dave Grohl (drums, vocals)
@@ -29,5 +30,6 @@
 **First Extensive Touring** : Joining Scream provided Dave Grohl with his first opportunities to tour extensively across America and, for the first time, in Europe (including Amsterdam), at ages 17 and 18, which he viewed as a liberating experience. "I'd never been past Chicago, and also, and I joined Scream. And we tour America. I think I was 18 or 17. We tour America, and it was just like, oh my God, I'd never been to California." ← https://www.youtube.com/watch?v=8ynrwaUi-sA
 **Lawsuit Against Dave Grohl (1990)** : After Dave Grohl joined Nirvana and they signed a major label deal, someone associated with Scream sued him for $40,000. They claimed Dave was still under contract to them due to an agreement he had signed, despite the band having "long broken up." This legal issue highlighted the complexities of early career contracts. "When he joined Nirvana and they were signed to DGC, Dave was immediately sued by someone associated with Scream for $40,000 saying that he was still under contract to them, even though Scream had long broken up." ← https://www.youtube.com/watch?v=_AY5lS-FmlU
 **Local Legends (Pre-Grohl)** : Before Dave Grohl joined in 1987, Scream was considered a legendary local DC hardcore group, having been active for approximately five years. "he became a fan of a local DC hardcore group called Scream. They were legends around town." ← https://www.youtube.com/watch?v=8ynrwaUi-sA
+**Mid-Tour Breakup (1990)** : In September 1990, the band Scream broke up abruptly in the middle of a tour when their bass player unexpectedly left due to "girlfriend problems." This sudden dissolution left drummer Dave Grohl stranded in Los Angeles and actively seeking a new musical engagement, which ultimately led to his joining Nirvana. "Dave Girl was part of a group called Scream, but they broke up in September 1990 right in the middle of a tour when the bass player bailed because of girlfriend problems." ← https://www.youtube.com/watch?v=1y2UuU-me_s
 **Underage Touring and Deception** : When Dave Grohl joined Scream at age 17, he was underage to play in bars, so he lied about his age, claiming to be 22, to be able to tour and perform legally. "Dave was just 17 at the time, which meant he was under age when he came to playing at bars. So he lied. He said he was 22." ← https://www.youtube.com/watch?v=8ynrwaUi-sA
 

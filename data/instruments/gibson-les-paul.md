@@ -1,6 +1,7 @@
 # instrument - Gibson Les Paul
 
 ## curiosities
+**Initial Launch and Reputation (1950s)** : Appearing around the same time as Fender's classic models in the early 1950s, the Gibson Les Paul was positioned as a finer quality electric guitar, emphasizing traditional construction methods like the dovetail joint and glue. "There was another classic guitar model that appeared at exactly the same time. And this is finally where we get to the Gibson Les Paul." ← https://www.youtube.com/watch?v=d9HNqb9gJSU
 **Signature Guitar Model** : Les Paul is most famously remembered for the guitar model that bears his name, produced by Gibson, a result of his ideas being accepted by the company. "But he's most remembered for the guitar that bears his name, a guitar by Gibson." ← https://www.youtube.com/watch?v=E6cXyaHALBQ
 
 ## artists
@@ -25,7 +26,9 @@
 - Smashing Pumpkins
 - The Beatles
 - The Edge
+- The Rolling Stones
 - The Who
 - Tony Iommi
 - Tool
+- ZZ Top
 

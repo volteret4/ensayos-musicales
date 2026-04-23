@@ -1,12 +1,15 @@
 # artist - ZZ Top
 
 ## members
+- Billy Gibbons
 - Frank Beard
 
 ## instruments
 - Drum samples (from Ministry)
+- Gibson Les Paul
 
 ## curiosities
+**"Texas Experience" Tour (1976)** : In 1976, ZZ Top attempted to bring the "entire Texas experience" on the road, which involved transporting real, live animals to every gig. During one show, a buffalo escaped and caused significant damage, wrecking nine rented limousines parked at the venue. "In 1976, Zizi Topp tried to take the entire Texas experience on the road, which involved transporting real live animals to every gig." ← https://www.youtube.com/watch?v=Jvh8SP2QKXQ
 **Asteroid** : The band ZZ Top has an asteroid named after them, joining a select group of musicians recognized in space. "Eric Clapton, Brian Wilson, ZZ Topp, Yes, Bruce Springsteen, and Jimmy Page are among those with their own pieces of space rock." ← https://www.youtube.com/watch?v=VMPLplhDk8I
 **Consistent Lineup (since 1969)** : ZZ Top has maintained the same three members since 1969. ← https://www.youtube.com/watch?v=ocMHRLQMQY0
 **Unsuccessful 12-inch Remix Venture** : ZZ Top attempted to get into the 12-inch remix business, but this venture is described as a "bad idea." This implies that while the 12-inch format was successful for many, it wasn't universally suited for all bands or genres. "So did a band like ZZ Top which was a bad idea but that's completely other story." ← https://www.youtube.com/watch?v=OiqdZfxdBP0

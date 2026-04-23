@@ -3,7 +3,9 @@
 ## curiosities
 **Ancient Female Drummers** : Women have been playing drums since ancient times, with archaeological evidence of a female figure playing a frame drum dating back 9300 years in present-day Turkey, likely a priestess. The first known drummer by name, La Poushiau, granddaughter of Sumerian king Narasim, was also likely a priestess, indicating women's early and significant role in rhythmic and religious ceremonies across Mesopotamia, Egypt, the Americas, and Australia, and even mentioned in the Bible. "Women have been beating drums since ancient times, and I mean really, really ancient." ← https://www.youtube.com/watch?v=9GHpC0kCgHY
 **Cognitive Benefits of Drumming** : A scientific publication from June 2020, authored by thirteen researchers, titled "Drum Training Induces Long-Term Plasticity in the Sarah Bellum and Connected Cortical Tissues," presented findings that indicate playing the drums is beneficial for the brain. "The scientific publication, which was written by thirteen researchers, is entitled Drum Training Induces Long-Term Plasticity in the Sarah Bellum and Connected Cortical Tissues. So in other words, playing the drums is good for your brain." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
+**Common Ailments for Hard-Hitting Drummers** : Hard-hitting drummers often suffer from specific physical ailments after years of playing. Neil Peart experienced several of these, including arthritis, carpal tunnel syndrome, chronic tendonitis, shoulder problems, and lower back issues, which made performing particularly painful during his later tours. "arthritis and carpal tunnel, two things that hard-hitting drummers often suffer after years behind the kit." ← https://www.youtube.com/watch?v=B0CZ1deEgic
 **Dave Grohl's Guest Appearance** : Dave Grohl played the drums on The Bird and the Bee's recording of "Little Drummer Boy." "And he is the Little Drumrboy on their recording." ← https://www.youtube.com/watch?v=nYPGQiDL5bw
+**Drummers' Lack of Respect and Standouts** : Over the decades, drummers have often been subjected to jokes and a general lack of respect within the music industry. Despite this, some drummers, like Neil Peart, stand out significantly and are admired, even worshipped, by fans, other drummers, and musicians alike for their exceptional talent. "Over the decades, drummers haven't really received a lot of respect." ← https://www.youtube.com/watch?v=B0CZ1deEgic
 **Early Christian and Medieval Prohibition** : In the second century, Clement of Alexandria condemned percussionists as members of an "insane cult." This was followed by John Paul III banning the tambourine, and in 526 AD, the church banned all women from music lessons, including singing. This suppression of women in music, particularly drumming, lasted for a thousand years. "In the second century, Clement of Alexandria attacked musicians, all musicians, focusing on percussionists of all kinds, saying that playing such instruments made them members of an insane cult." ← https://www.youtube.com/watch?v=9GHpC0kCgHY
 **Establishing and Holding the Beat** : The drummer's primary role is to establish and maintain the beat, providing the fundamental rhythmic structure upon which the rest of the band builds. "The drummer establishes and holds the beat." ← https://www.youtube.com/watch?v=CVPPymc_qrk
 **Gender Barrier Breaking – Maureen Tucker's Role** : In 1965, when Maureen "Mo" Tucker joined The Velvet Underground, playing the drums was widely considered a "man's job," and there were no women drummers in rock music. Her presence behind the kit, despite her unconventional style, broke serious gender barriers, though her pioneering role was only recognized in retrospect. "when Mo joined the band in 1965 there were no women drummers See back then playing the drums was considered to be a man's job. So Mo broke down some serious gender barriers." ← https://www.youtube.com/watch?v=gsSTJWN6cUo
@@ -20,6 +22,7 @@
 **Miles Ulrich's Role** : Miles Ulrich is the drummer for Taipei Houston. "Miles is the drummer..." ← https://www.youtube.com/watch?v=dY7uB_QQWBc
 **Modern Female Drumming Community** : Today, female drummers are ubiquitous worldwide, forming a "worldwide sisterhood" sometimes referred to as "chicks with sticks." They faced numerous barriers including sexism, lack of seriousness, and limited opportunities but persevered and succeeded against the odds. "And today, female drummers are really everywhere, comprising a worldwide sisterhood that some have called chicks with sticks." ← https://www.youtube.com/watch?v=9GHpC0kCgHY
 **Neil Peart's Influence on Drum Fills** : Taylor Hawkins credits Neil Peart's drumming from Rush records as a direct source of inspiration for "any crazy fill" he incorporates into his own playing. This indicates a deep study of Peart's technique and its integration into Hawkins' style. "A lot of like anything weird that I do on the drums is usually ripped off from a rush record, like any crazy fill." ← https://www.youtube.com/watch?v=Mh-qg1izM98
+**Neil Peart's Musical Approach** : Neil Peart was renowned as a highly musical drummer who did far more than simply keep time. His setup included an extensive array of percussion instruments, such as chimes, gongs, special cymbals, temple blocks, octobans, rototoms, blocking shields, and various electronic percussion devices. He utilized exquisitely tuned drums of different sizes and depths, performing with fluid movements and no wasted motion, constantly refining his playing even later in his career. "He was a very musical drummer. He didn't just keep time." ← https://www.youtube.com/watch?v=B0CZ1deEgic
 **Patrick Carney's John Bonham Phase** : During the recording of *Attack and Release* in summer 2007, Patrick Carney was heavily influenced by John Bonham, setting up his drum kit in the studio in a similar fashion. This approach contributed to a bigger, deeper, and tighter drum sound on the album. "he was going through a whole John Bonham phase, and started setting up his kit in the studio like Bonzo used to, and the result is a bigger, deeper, tighter sound." ← https://www.youtube.com/watch?v=PmwfC4HR3_I
 **Post-Technopop Resurgence** : Following the decline of pure Technopop in the mid-1980s, drums, along with guitar and bass, returned to the forefront of music. Bands like The Smiths consciously devised fresh approaches to their use, in direct opposition to the perceived soullessness of electronic music. "Few groups fought back with new approaches to the guitar bass and drums lineup." ← https://www.youtube.com/watch?v=5PJRCC6EwUY
 **Post-WWII Regression and Persistent Sexism** : Following World War II, the big band era ended, and the return of soldiers led to a decline in demand for female musicians. The old sexist attitudes resurfaced, making it difficult for women to find work, with beliefs like "girls can't play drums" becoming prevalent again. "Soldiers came back from the war and their female stand-ins were no longer required. It became harder for women musicians to find work and the old sexist attitudes returned. Girls can't play drums and all that." ← https://www.youtube.com/watch?v=9GHpC0kCgHY
@@ -65,9 +68,11 @@
 - Depeche Mode
 - Doddy Dottagin
 - Foo Fighters
+- Fredo Hernandez
 - Georgia Hubley
 - Gina Shock
 - Ginger Bianco
+- Gorillaz
 - Hassel Adkins
 - Honey Lantree
 - Iggy Pop
@@ -98,6 +103,7 @@
 - Mettal Mettal Cohen
 - Mitzi Bush
 - Mo Tucker
+- Mumford & Sons
 - Nancy Ball
 - Nandi Bushell
 - New Order

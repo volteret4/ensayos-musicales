@@ -4,7 +4,9 @@
 - The Darkness
 
 ## instruments
+- Voice (head voice)
 - Voice (head voice, high belt)
+- Voice (high belt)
 
 ## albums
 **Permission to Land (2003) - Debut Album** : Released in 2003, *Permission to Land* was The Darkness's debut album, which initially prompted reactions questioning whether the band was a joke or parodying artists like Freddie Mercury. It features the song "I Believe in a Thing Called Love" and showcases Justin Hawkins's unique vocal technique and impressive range. "When we first started hearing about the band and I guess it was 2003 with their permission to land album, the initial reaction was, come on." ← https://www.youtube.com/watch?v=7_ZmZxnSOnE

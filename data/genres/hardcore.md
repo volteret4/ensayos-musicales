@@ -33,6 +33,7 @@
 **Political Engagement** : Hardcore inspired people across the political spectrum to engage in politics, fostering activism in places like the Middle East and Indonesia, where Muslim hardcore acts used the genre to protest human rights injustices. "People got into politics because of hardcore, and we're talking all sides of the political spectrum. This includes Muslim hardcore acts in places like the Middle East and Indonesia, who used this style of music to rail against human rights and justices." ← https://www.youtube.com/watch?v=0qigzi1j81U
 **Punk Subgenre** : Hardcore emerged as one of the sub-genres into which punk rock mutated as it receded from the mainstream in the 1980s, preserving the punk attitude and DIY tenets. "It mutated into sub-genres like hardcore and oi and a narco punk." ← https://www.youtube.com/watch?v=gkLMwrthZ9s
 **Reagan Era Rebellion and Community** : American Hardcore flourished during the Reagan years, serving as a broad rebellion against everything, including the perceived rebellion of the original punk rockers. Despite its rebellious nature, it fostered a strong community through fanzines, dedicated promoters, and collaborative projects, such as the formation of independent record labels specifically for hardcore acts. "American Hardcore rose during the Reagan years, and was all about rebelling against, well, everything, including the rebellion of the original punk rockers." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
+**Shared Influence for Ho99o9** : The members of Ho99o9, TheOGM and Yeti999, bonded over their shared love for hardcore music, alongside hip-hop and horror movies, which influenced the formation of their punk rap group. "They both loved hardcore and they loved hip-hop." ← https://www.youtube.com/watch?v=_1NNvxgx8uA
 **Touring Underserved Cities** : The north-south touring flow of punk and hardcore bands meant they frequently played in underserved cities and towns, including the Seattle area, where major touring acts were infrequent. This created opportunities for local scenes to flourish and for unique cross-pollination of musical styles. "The North South flow of punk and hardcore bands meant that these groups played a lot of underserved cities and towns when it came to tours. They had to play somewhere so they would play anywhere. And that included the Seattle area. At the time, the Pacific Northwest was sort of off the grid when it came to major touring acts. So if you wanted to see live music, it was much easier to catch a punk show than anything else." ← https://www.youtube.com/watch?v=0qigzi1j81U
 **UK Hardcore and D-Beat** : The UK developed its own hardcore derivative called D-Beat, characterized by a distinctive drum pattern. UK Hardcore was a fusion of British punk (like the Sex Pistols) and the New Wave of British Heavy Metal (NWOBHM) bands that emerged in the early 1980s, with Motörhead being a major influence. "Then we have the UK, home of a hardcore derivative called Debeat, which referred to a distinctive sort of drum pattern that went with a lot of the songs. UK Hardcore was an amalgamation of British punk, especially the Sex Bistels, and the new wave of British heavy metal bands that appeared at the beginning of the 1980s. The biggest influence from that scene was Motorhead." ← https://www.youtube.com/watch?v=0qigzi1j81U
 
@@ -60,6 +61,7 @@
 - Fucked Up
 - GBH
 - Gang Green
+- Ho99o9
 - Hüsker Dü
 - Mia Zapata
 - Misfits
@@ -78,6 +80,7 @@
 - The Adolescents
 - The Asexuals
 - The Dead Kennedys
+- The Dead Milkmen
 - The Descendents
 - The Exploited
 - The Jirms

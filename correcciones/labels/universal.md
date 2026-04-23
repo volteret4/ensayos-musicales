@@ -1,0 +1,18 @@
+# label - Universal
+
+## curiosities
+**Acquisition of Catalogs** : Universal's publishing arm is actively scooping up music catalogs, often from artists who have been signed to them for many years. "Then you add in the publishing arms of labels like Universal and Sony and Warner, who were also scooping up catalogues, usually of artists who have been their signings for years." ← https://www.youtube.com/watch?v=Pe40SqDrpZ0
+**Major Label Structure** : Universal is identified as one of the four multinational giants that dominate the global flow of recorded music. It operates with numerous subsidiary labels, including Interscope, Island, Def Jam, DGC, and Real World, all functioning under the Universal umbrella and considered major labels. "In the case of Universal, they have sub labels like Interscope, Island, Def Jam, DGC, Real World, and a ton of others who all operate under the Universal Umbrella and thus can all be considered major labels in some fashion." ← https://www.youtube.com/watch?v=Ft8nruhWCas
+**Major Record Label** : Universal is identified as one of the three major record labels that dominate the music industry, operating as a multinational entity controlling a significant portion of the world's music trade and revenue. "The music industry is dominated by three major record labels, Universal, Sony, and Warner." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
+**One of Three Major Labels** : Universal is identified as one of the three major recorded music companies, and the biggest among them. "their number has been whittled down to just three companies, the Universal, the biggest, Sony and Warner music." ← https://www.youtube.com/watch?v=sOU54d8mr5k
+**One of Three Major Labels (Present Day)** : Universal is identified as one of the three major multinational record labels in the present day, alongside Sony and Warner. Its formation includes the merger of companies like Polygram. "Today, we're down to just three. Universal, Sony and Warner and all their subsidiary labels, and there were dozens and dozens of those." ← https://www.youtube.com/watch?v=dDcD8kg0wEk
+**Press Play (Failed Online Music Store)** : Universal was a joint venture partner in "Press Play," one of two early online music stores created by major labels in an attempt to sell digital files. This service was difficult to use, came with restrictions, and included complicated digital rights management (DRM) safeguards. It was a disaster, lasting only about two years before being shuttered in March 2003. "There was Press Play, which was a joint venture between Universal and Sony." ← https://www.youtube.com/watch?v=nX8uAFDzDYM
+**Signing of Turnkey Operations** : Universal signed Arkells after the band had already completed two albums ("Jackson Square" and "Michigan Left") and cultivated a substantial fan base. This made Arkells an attractive "turnkey operation" to the major label, a desirable situation in modern music industry practices. "You were one of these turnkey, turnkey operations that you were able to present, uh, two albums and a fan base to a major label." ← https://www.youtube.com/watch?v=kKNn01M8GG4
+**Vevo Joint Venture Partner** : Universal was one of the four major record labels that formed the joint venture to launch Vevo on December 8, 2009. This initiative aimed to create a dedicated online platform for music videos, controlled by the labels, to ensure premium content and attract targeted advertising. "Vivo, a joint venture between the four major record labels at the time, Universal, Sony, Warner and EMI." ← https://www.youtube.com/watch?v=7IDbqdIw3WU
+
+## artists
+- Arkells
+- Lorde
+- Nine-inch Nails
+- U2
+

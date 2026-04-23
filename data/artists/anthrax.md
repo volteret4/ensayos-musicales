@@ -10,12 +10,15 @@
 - Heavy Metal
 - Industrial Hip Hop (collaboration)
 - Thrash Metal
+- metal
+- speed metal
 
 ## albums
 **Bring the Noise (1988) – Public Enemy Collaboration** : Anthrax collaborated with Public Enemy on the 1988 album "Bring the Noise," contributing to a sound that fused hip hop elements and beat-heavy music, influencing Industrial Hip Hop. "especially when they brought in anthrax to do it on their 1988 album Bring the Noise." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
 **Top 10 Albums in 2010s** : Anthrax, as one of the "Big Four" of Thrash Metal, released albums in the 2010s that reached the top 10 charts. While a Thrash Metal revival was noted with newer bands, none achieved the same commercial heights as the Big Four. "The other members of the so-called Big Four, Slayer, Megadeth and Anthrax also had albums that reached the top 10." ← https://www.youtube.com/watch?v=HSvgRyGiOpE
 
 ## songs
+**Bring the Noise (1991) - Public Enemy Collaboration** : In 1991, Anthrax, a speed metal band, collaborated with Public Enemy to create a metal update of Public Enemy's 1987 track. This collaboration was immensely popular and successful, demonstrating a "middle ground between guitar bass rock and full on rap" and appealing to fans with its aggressive nature and heavy beats. "Anthrax was a speed metal band... they decided it would be cool if they teamed up with Public Enemy for a metal update of their 1987 track Bring the Noise." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE
 **Caught in a Mosh** : This song by Anthrax was inspired by an incident at a show in Denver. During the concert, stage divers damaged guitarist Scott Ian's effects pedals. His guitar tech, Arty Ring, went into the pit to resolve the issue but was severely beaten up, leading to his quote, "Man, I got caught in a mosh," which became the song title. "Anthrax wrote a song called Caught in a Mosh." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
 
 ## curiosities

@@ -19,6 +19,7 @@
 
 ## songs
 **Cut Your Hair (1994)** : This song is from Pavement's 1994 album, *Crooked Rain, Crooked Rain*, which managed to achieve a hit single on Alternative Radio, showcasing their ability to blend Lofi aesthetics with broader appeal. "Pavement from 1994 with Cut Your Hair." ← https://www.youtube.com/watch?v=amHre9ZZFkU
+**Stereo (1997)** : A song released by the band Pavement in 1997. Its title directly addresses the concept of stereo sound. "pavement and stereo from 1997." ← https://www.youtube.com/watch?v=8BZMo41DjlY
 
 ## curiosities
 **Damon Albarn's Later Influence** : By 1997, Blur's Damon Albarn became fascinated by low-fi American alternative music from bands like Pavement, signaling a shift away from Britpop's sound. "Damon had become fascinated by low-fi American alternative music from bands like Pavement and the Pixies." ← https://www.youtube.com/watch?v=5q5EnZj1FwE

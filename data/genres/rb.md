@@ -8,14 +8,17 @@
 **Blamed for Immorality and Crime (1930s-1940s)** : In the 1930s and 1940s, rhythm and blues music faced accusations of being "the devil's music" that inevitably led to crime. This scapegoating echoed earlier criticisms directed at hot jazz and preceded similar condemnations of rock and roll in the 1950s. "The same cries were heard in the 30s and 40s about rhythm and blues." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
 **Blamed for Youth Behavior (1960s-1970s)** : Throughout the 1960s and 1970s, conservative parents, politicians, and religious groups consistently attributed the promotion of violence, drug use, immoral behavior, and other perceived negative actions of children to R&B, alongside rock music. "Parents, politicians and religious groups had no trouble blaming contemporary music. Rock and R&B especially, for promoting violence, drug use, immoral behavior, and everything else that their kids were doing or might do." ← https://www.youtube.com/watch?v=41eKVp8JIhU
 **Breakdown of Music Consensus and Cycle Theory Modification** : The traditional music cycle theory (Rock vs. Pop) is challenged by the breakdown of consensus in music consumption, as individuals now control their musical experiences without traditional cultural filters. The rise of Rap, Hip Hop, and R&B as powerful and popular genres introduces a "third element" to the cycle theory, making future predictions more complex, akin to the "Three Body Problem" in physics. "Meanwhile, rap, hip hop and R&B have become vastly more powerful and popular." ← https://www.youtube.com/watch?v=XM1RvL7Kdts
+**British Bands' Embrace (1960s)** : In the 1960s, British bands including The Rolling Stones, The Yardbirds, The Kinks, and especially The Who, began experimenting with and playing R&B. This genre subsequently became a significant part of the Mod culture's musical landscape. "Then British bands trying their handed R&B, like the Rolling Stones and the Yard Birds and the Kinks, and especially the Who." ← https://www.youtube.com/watch?v=mAlc-N2wn5s
 **Decline in Popularity (Early 1970s)** : In the early 1970s, many music fans abandoned the "soulful R&B" of the 1960s, opting instead for a softer, "Mellow" sound, reflecting a shift in musical tastes. "Many fans had deserted the mind-blowing acid rock and the hard-driving funk and the soulful R&B of the 60s and decided to go all soft." ← https://www.youtube.com/watch?v=VYi3r0G-ne4
 **Dominance of Streaming Medium** : R&B songs heavily dominate the streaming medium, with artists like Drake, Ed Sheeran, The Weeknd, and Justin Bieber being prominent examples. "The medium is totally dominated by pop, R&B, and hip-hop songs." ← https://www.youtube.com/watch?v=Z7glrAoXtkA
 **Early Radio Exposure (1940s)** : R&B received more airplay on radio in the 1940s when a dispute between music publishers and broadcasters led stations to feature artists not affiliated with ASCAP, boosting its popularity among the public. "This meant more country and folk and hillbilly and R&B were heard on the radio." ← https://www.youtube.com/watch?v=GES0Ms_kaCI
 **Early Use of "Rocking and Rolling"** : R&B singers, alongside blues artists, were among the primary users of the terms "rocking and rolling" and "rock and roll" in their songs during the decades following Trixie Smith's 1922 recording. This usage, particularly in songs played for white audiences by DJs like Alan Freed, was crucial to the popularization of the term that would define a new genre. "And in the coming years, those words, rocking and rolling and rocking roll, appeared in other songs, almost exclusively amongst blues and R&B singers." ← https://www.youtube.com/watch?v=oRR7N-YUcRE
 **Famous Plane Crash Victims (Various Dates)** : The R&B genre has seen several of its artists die in tragic plane crashes. These include Otis Redding, who died in 1967 when his small plane crashed into Lake Monona, and Aaliyah, who died when her plane crashed on takeoff after a video shoot in the Bahamas. "Otis Redding died on December 10th, 1967, when his small plane crashed into Lake Monoma near Madison, Wisconsin." ← https://www.youtube.com/watch?v=hmnMG6f80Sg
+**Foundation of Rock and Roll** : R&B was a foundational genre that merged with others in the 1950s to create rock and roll. "Rock and Roll begins in the 1950s when R&B and several other genres merge, thanks to Elvis, Chuck Berry, and Little Richard." ← https://www.youtube.com/watch?v=pLf3kUONewg
 **Foundational Element** : R&B, combined with the blues and country, formed the mixed musical foundation that new radio stations played for teenagers in the 1950s, leading to the development of rock and roll. "played music derived from a mix of the blues, country and R&B." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
 **Growth During Musicians' Strike (1942)** : R&B acts were not covered by the prohibitions of the American Federation of Musicians strike in 1942 because ACAPE did not consider them "real musicians." This allowed them to continue recording and performing, leading to a rapid spread of their sound when other genres, particularly Big Bands, were restricted from recording. "Acape also did not consider country musicians, western performers, and R&B acts to be real musicians. As a result, they were not covered by any prohibitions." ← https://www.youtube.com/watch?v=V7WjNR1ujhk
 **Increased Radio Exposure (WWII Era)** : The shift in radio programming during World War II, allowing local stations more autonomy after 7 pm and preferring records over live acts, provided significant airplay for R&B records. This newfound exposure introduced R&B to audiences who had never heard it before, contributing to a melting pot of new sounds. "But it also made room for country, western, hillbilly, and R&B records. People started to hear other genres on the radio for the very first time." ← https://www.youtube.com/watch?v=V7WjNR1ujhk
+**Influence on "Blurred Lines"** : Robin Thicke and Pharrell Williams were noted to be deeply influenced by "old Funkin' R&B" when they created "Blurred Lines," which they explicitly produced as an homage to the "groove and feel" of Marvin Gaye's 1977 R&B song "Got to Give It Up." "Both are deep into old Funkin' R&B and produced this song as an homage to Marvin Gaye's 1977 song Got to Give It Up." ← https://www.youtube.com/watch?v=fS8V3kYXT6w
 **Influence on Rock and Roll** : R&B records, particularly those sourced from the US South, were observed by Leo Mintz of Rendezvous Records to be popular among white teenagers in the late 1940s and early 1950s. This observation led to radio announcer Alan Freed playing R&B on his show, eventually coining the term "Rock and Roll" for the music. "Leo noticed that a lot of white kids were buying the R&B records that he brought in from the US South." ← https://www.youtube.com/watch?v=jD1dWxNLvfE
 **Influence on Vaporwave** : R&B is identified as one of the source genres from which Vaporwave drew elements, contributing to its unique sound. "Vaporware took bits from Psych, Lounge Music, R&B, and the Chill Wave of the Outs, and then slowed everything down." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
 **Jukebox Stocking (1950s)** : In the 1950s, bars and restaurants began stocking jukeboxes with more R&B records in response to young people's musical preferences. "they began stocking them with more R&B and early Rock and Roll records." ← https://www.youtube.com/watch?v=GES0Ms_kaCI
@@ -26,7 +29,10 @@
 **Pioneering Introduction to White Audiences** : In the 1950s, disc jockey Allan Freed in Cleveland was known for playing Black R&B records for white kids, a radical and influential practice for the time. This crossover exposure helped lay the groundwork for what would become rock and roll. "Back in the 1950s, Alan Fried was a disc jockey and cleveland, playing black R&B records for white kids. Really radical thing to do at the time." ← https://www.youtube.com/watch?v=6SdPPsmpgJg
 **Post-1978 Bifurcation and Mutation** : After 1978, R&B underwent a significant bifurcation into classic and modern styles, with its main sounds, including funk and soul, mutating rapidly to encompass disco and, within a year, hip hop. "R&B's main sounds, which included fun console, began mutating even faster, expanding to include disco, and within a year, hip hop." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
 **Pre-1978 Categorization** : R&B was one of the four straightforward categories for popular music before 1978, alongside rock, pop, and country. "Before 1978, things were fairly simple...We had rock, we had pop, we had country, we had R&B." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
+**Prominence at Fame Recording Studios** : Fame Recording Studios in Sheffield, Alabama, became widely recognized as the go-to place for R&B musicians to record. "A Gainer reputation is the place for soul, blues, and R&B musicians to make records." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
 **Rise in the 1940s** : In the 1940s, following the decline of big bands, young people gravitated towards R&B, alongside the blues, country western, and bebop. This shift represented a rejection of the "old outdated music of the 20s and 30s" and the adoption of newer, more contemporary sounds. ← https://www.youtube.com/watch?v=m7MbV-eCLyE
+**Sexual Encounters Playlists Ranking** : R&B was ranked third most common on playlists created to soundtrack sexual encounters, after pop and hip hop. "Hip hop was in second place followed by R&B." ← https://www.youtube.com/watch?v=KtdIMNoHqA8
+**Traditional Rock Roots** : Standard rock music is traditionally rooted in the blues and R&B traditions. "approaches that weren't necessarily rooted in the blues and R&B traditions of standard rock." ← https://www.youtube.com/watch?v=pLf3kUONewg
 **Vocal Expression Controversy** : R&B acts were among the musical artists whose new forms of vocal expression, facilitated by microphones, generated decades of strong criticism from purists. Their singing styles were considered by some to be "degenerate forms of singing," challenging the established vocal norms of earlier generations. "R&B acts, Elvis, The Beatles, Dylan, Jagger, New Waivers, rappers all the way up to and beyond death medillars." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
 
 ## artists
@@ -35,13 +41,24 @@
 - Amy Winehouse
 - Bernadette Cooper
 - Bobby Jean Hall
+- Chuck Berry
 - David Bowie
+- Elvis
 - Gladys Knight
 - Gnarls Barkley
 - James Brown
+- Little Richard
+- Mamie Smith
+- Marvin Gaye
+- Ruth Brown
+- Sister Rosetta Tharp
 - Stella Santana
 - The Black Keys
 - The Clash
 - The Four Tops
 - The Jam
+- The Kinks
+- The Rolling Stones
+- The Who
+- The Yardbirds
 

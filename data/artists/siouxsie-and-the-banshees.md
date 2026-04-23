@@ -11,7 +11,10 @@
 - Goth
 - Goth music
 - Gothic
+- Gothic rock
 - Neo-Psych
+- Post-Punk
+- Punk
 
 ## concerts
 - Debut (September 1976)
@@ -21,6 +24,7 @@
 **The Scream (1978) - Debut Album** : This album established Siouxsie and the Banshees as one of the first-generation goth bands, characterized by their dark aesthetic and influence on the burgeoning genre. "This is from 1978. Susie in the Banshees, one of the first of the first generation Goth bands." ← https://www.youtube.com/watch?v=XaLsZFLrMnI
 
 ## songs
+**Christine (1980)** : "Christine," released in 1980 by Siouxsie and the Banshees, is presented as an example from the extensive world of Gothic rock, a genre that began to flourish in the late 1970s and early 1980s. "Something from the fantastically large world of Gothic rock, Susie in the Banshees with Christine from 1980." ← https://www.youtube.com/watch?v=mAlc-N2wn5s
 **Cities in Dust (1985)** : This song is about the eruption of Mount Vesuvius in 79 AD, an event that buried and preserved the ancient Roman cities of Pompeii and Herculaneum. "Both Pompeii by Bastille and cities and dust from Suzy and the Banshees are about the eruption of Mount Vesuvius in 79 AD." ← https://www.youtube.com/watch?v=4PlieAEthSg
 **Cities in Dust (N/A)** : This song is inspired by the eruption of Mount Vesuvius in 79 AD, which famously destroyed the Roman city of Pompeii. "Both Pompey by Bastille and City's Indust from Suzy and the Banshee's are about the eruption of Mount Vesuvius in 79 AD." ← https://www.youtube.com/watch?v=cM3-tINKdvo
 **Hong Kong Garden (Early Live Version)** : An early live recording of this song was made at the BBC, predating its official studio recording and release as the band's first single. "That was recorded live at the BBC long before it was properly recorded and released as the band's first single." ← https://www.youtube.com/watch?v=oPgeSCy93bo
@@ -40,6 +44,8 @@
 **Major 90s Goth Band** : Siouxsie and the Banshees were identified as one of the major Goth bands of the 1990s, known for their dark sounds, introspective lyrics, and a style often inspired by Gothic novels and 1800s fashions. "The major goth bands of the 90s were Bauhaus and Suzy and the Banshee's, Sisters of Mercy, and if we go back to the very beginning we'll find that Joy Division was a major influence." ← https://www.youtube.com/watch?v=amHre9ZZFkU
 **Pioneering Goth Band** : Siouxsie and the Banshees were among the very first and first-generation Goth bands to emerge, helping define the genre. "Amongst the very first were Suzy in the banshees." ← https://www.youtube.com/watch?v=gd9sO7c3N1s
 **Produced by Steve Lillywhite** : Steve Lillywhite, who produced records for Siouxsie and the Banshees, sold his royalties from his work. "Steve Lillewight, who produced records for everyone from Susie in the Banshees and the psychedelic furs to the killers in Peter Gabriel and you too, sold his royalties." ← https://www.youtube.com/watch?v=Pe40SqDrpZ0
+**Queen of Goth** : For many fans and critics, Siouxsie Sioux, the lead singer of Siouxsie and the Banshees, holds the title of the "Queen of Goth." This acknowledges her iconic status and significant influence within the Gothic rock scene that emerged in the late 1970s and early 1980s. "And for many, the Queen of Goth remains Susie Sue of Susie in the Banshees." ← https://www.youtube.com/watch?v=mAlc-N2wn5s
+**Recording at Wessex Studios** : Siouxsie and the Banshees recorded at Wessex Studios, an old church hall in North London recognized for its live sound, making it a favored location for punk and post-punk groups. "A lot of punk bands and post punk bands, like using the place, the clash and the damned and suzy and the banshees and the pretenders and the specials and generation X and the sex pistols." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
 **Second Generation Goth Influence** : The band was instrumental in carrying Goth music beyond its UK birthplace by the mid-1980s, alongside The Sisters of Mercy and The Cure. "It was carried on the wings of music, sisters of mercy, suzzy in the banshees and the cure." ← https://www.youtube.com/watch?v=evlGhfUe6QQ
 **Siouxsie Sioux as Archetype** : Singer Siouxsie Sioux's distinctive black hair, makeup, and striking appearance made her an archetype for thousands of Goth followers. "With her really striking appearance and her black hair and the makeup, Suzy became an archetype for thousands." ← https://www.youtube.com/watch?v=gd9sO7c3N1s
 

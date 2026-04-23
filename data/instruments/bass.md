@@ -24,7 +24,10 @@
 
 ## artists
 - Beastie Boys
+- Bedouin Soundclash
+- Billy Talent
 - Boris Baker
+- Carol K
 - Carol Kaye
 - Cliff Burton
 - Dave "Phoenix" Farrell
@@ -44,6 +47,7 @@
 - Rage Against the Machine
 - Ramones
 - Red Hot Chili Peppers
+- Scott Reeder
 - Sid Vicious
 - Talking Heads
 - The Black Keys
@@ -54,6 +58,7 @@
 - The Stone Roses
 - The Strokes
 - The Tragically Hip
+- Thundercat
 - Tim Commerford
 - Tim White
 - Topper Headon

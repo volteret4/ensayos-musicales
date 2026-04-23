@@ -1,0 +1,20 @@
+# artist - Rolling Stones
+
+## genres
+- Classic Rock
+
+## concerts
+- Steel Wheels Tour (1989)
+
+## albums
+**Liver Than You'll Ever Be (1969) – Bootleg That Received Official Critical Praise and Forced an Official Live Album** : Recorded at a Rolling Stones concert in 1969 using a concealed microphone by the same "Dub" responsible for the Dylan bootleg, this recording received glowing reviews — including one in *Rolling Stone* magazine — for its exceptional sound quality. The critical reception was so strong that it effectively forced the band to release an official live album in response. "Received rave reviews, including one from Rolling Stone magazine, for its excellent quality, and forced the release of an official live album." ← https://www.youtube.com/watch?v=Uly2cT2vc28
+
+## curiosities
+**Cocaine Party Story in South of France** : Ahmet Ertegun recounted a story from when the Rolling Stones were in the South of France, at a party with a bowl of cocaine. When the local chief of police arrived, the band members, including Mick Jagger, disguised the cocaine by smearing it on their faces as if it were powder makeup. "he told me the great story about when, you know, they were in the South of France. There was a bowls of cocaine going around. And the chief of police in the little town where they were all staying comes to the party that they're at." ← https://www.youtube.com/watch?v=QIA7V4PxCdM
+**Collaboration with Steve Lillywhite** : The Rolling Stones were among the many notable bands and artists with whom British producer Steve Lillywhite worked on albums. "Steve Lilley White, the British producer who worked on albums from You Too, The Psychedelic Furs, Peter Gabriel Simple Minds, Talking Heads, Morrissey, Rolling Stones, Dave Matthews, BDI, The Killer, Suzing the Banshees, and dozens more." ← https://www.youtube.com/watch?v=hjProJd_JrM
+**Defining Classic Rock in Early 1990s** : In the early 1990s, as hair metal was becoming played out, the Rolling Stones were among the older acts that began to define the new term "classic rock," showcasing their enduring appeal alongside contemporary genres. "Rock was dominated by hair metal bands, which was really starting to get old and played out. It was also dominated by older acts that were defining a new term, classic rock, Rolling Stones, Pink Floyd, Elton John, and so on." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
+**Documented Stage Diving in Germany (1964)** : There is documented evidence of some stage diving occurring at a Rolling Stones show in Germany in the summer of 1964. This potentially places the origins of stage diving even earlier than commonly thought. "And there's even documented evidence of some stage diving at a rolling stone show in Germany in the summer of 1964." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
+**Managed by Q Prime for Comeback Tour (1989)** : Q Prime looked after The Rolling Stones for their comeback *Steel Wheels Tour* in 1989. This engagement demonstrated Q Prime's ability to manage established rock icons. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
+**Rolling Stones Lips and Tongue Logo – Designer Received Little Compensation** : The father of actor Nicholas Braun (known from *Succession*), Craig Braun, co-developed the famous Rolling Stones lips-and-tongue logo. Despite the logo's enduring ubiquity and commercial value, Braun received very little financial compensation for his work. "Craig Braun co-developed the famous lips and tongue logo and received little financial benefit." ← https://www.youtube.com/watch?v=qtdetc5-MQo
+**Ticketron's Challenges with Major Shows** : By the late 1980s, Ticketron struggled significantly to handle the volume of requests for major shows like those by the Rolling Stones. Their computer systems were overwhelmed, leading to processing times of up to five minutes per request, which forced Ticketron to revert to selling physical, hard tickets for these high-demand events. "It got so bad that for big shows, Rolling Stone, Led Zeppelin II examples, the Ticketron had to become a seller of hard tickets just like the old days." ← https://www.youtube.com/watch?v=OCkov6FTliE
+

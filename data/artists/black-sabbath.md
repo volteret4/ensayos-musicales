@@ -2,6 +2,7 @@
 
 ## members
 - Geeser Butler
+- Geezer
 - Geezer Butler
 - Glenn Hughes
 - Ian Gillan
@@ -9,6 +10,7 @@
 - Ozzy Osbourne
 - Ronnie James Dio
 - Terry Chimes
+- Tony
 - Tony Iomi
 - Tony Iommi
 
@@ -19,6 +21,8 @@
 - Heavy blues rock
 - Heavy metal
 - Metal
+- hard rock
+- metal
 
 ## concerts
 - Leeds
@@ -26,14 +30,18 @@
 - Roskilde
 
 ## instruments
+- BC Rich
 - Electric guitar
 - Gibson Les Paul
+- Gibson SG
 
 ## albums
 **Black Sabbath (1970)** : This album, released in 1970, features the song "Black Sabbath," which prominently showcases Tony Iomi's distinctive use of the tri tone. Played with a trill and added distortion, this recording is considered by some to be a foundational moment in the birth of heavy metal music. "In 1970, Black Sabbath released an album called Black Sabbath, that included a song called Black Sabbath. And you can clearly hear Iomi's tri tone played with a little bit of a trill." ← https://www.youtube.com/watch?v=41eKVp8JIhU
+**Quad Encoded Albums (Year Unknown)** : This band released albums that were encoded in quadraphonic sound. This was part of a trend where several "big names" experimented with the quad format. "There were also some quad encoded albums from some big names. Black Sabbath..." ← https://www.youtube.com/watch?v=8BZMo41DjlY
 
 ## songs
 **Black Sabbath (1970)** : Featured on the 1970 album of the same name, this song clearly displays Tony Iomi's tri tone, played with a trill and distortion. Iomi's inspiration for this sound came from Gustav Holst's "Mars, the Bringer of War," which he adapted by slowing it down and adding distortion, marking it as a pivotal moment for the birth of heavy metal. "And you can clearly hear Iomi's tri tone played with a little bit of a trill. For some, this is the birth of heavy metal." ← https://www.youtube.com/watch?v=41eKVp8JIhU
+**Iron Man (Guitar World Survey)** : Ranked at number eight in Guitar World magazine's survey for greatest guitar riffs. "black Sabbath's Iron Man at number eight." ← https://www.youtube.com/watch?v=KtdIMNoHqA8
 **Supernaut (unspecified year)** : A cover version of this Black Sabbath song was recorded by the Ministry side project 1000 Homo DJs, featuring Trent Reznor on original vocals. Due to Trent's restrictive contract with TVT Records, his vocals were demanded to be removed by the label, and Al Jorgensen subsequently re-sang the track. "A cover of a black sap of the song called Super Not with Trent on vocals." ← https://www.youtube.com/watch?v=M3nUQtja0qc
 
 ## curiosities
@@ -46,6 +54,7 @@
 **Geezer Butler's Headbanging Injury Observations** : Geezer Butler started noticing a range of injuries associated with headbanging as the practice became widespread by the 1980s. These injuries included strained necks, whiplash, ruined carotid arteries, and even neck fractures. "Geeser started noting injuries from strain necks to whiplash to ruin cardioid arteries to even neck fractures." ← https://www.youtube.com/watch?v=bferkEWvJg0
 **Influence on Bad Brains** : Black Sabbath was an influence on Bad Brains during their early evolution from jazz fusion to punk rock. "they were also interested in groups like Black Sabbath and some of the punk rock that was starting to come out of New York and the UK." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 **Influence on Grunge** : Black Sabbath, along with Led Zeppelin and Heart, was a key influence that crossbred with punk/hardcore in the Pacific Northwest to eventually become Grunge, a development attributed to the unique touring conditions created by the Rocky Mountains. "And that's how it crossbred with Led Zeppelin and Black Sabbath and Hart. To eventually become Grunge, that would not have happened without the Rocky Mountains being in the way." ← https://www.youtube.com/watch?v=0qigzi1j81U
+**Influence on Grunge Bands** : Black Sabbath was openly acknowledged by grunge musicians like Kurt Cobain and members of Soundgarden and Alice in Chains as a "pretty good band" and a "huge influence" on their music, demonstrating a re-evaluation and appreciation for old-school metal within the alternative scene of the 90s. "Boys like Kurt Cobain and the dudes from Soundguard, Dinales and Chains weren't shy about saying, hey, don't diss black Sabbath and Judas Priest and kiss, they were pretty good bands." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE
 **Influence on Ice-T** : Ice-T cited Black Sabbath as one of the rock bands he admired, alongside Led Zeppelin and Judas Priest, influencing his move into metal with Body Count. "Zeppelin, Black Sabbath, Judas Priest, that kind of thing." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 **Influence on Nirvana** : Kurt Cobain of Nirvana proudly claimed his band was a "cross between the Beatles and Black Sabbath," demonstrating Black Sabbath's influential role in shaping the sound of later alternative and grunge music. "Kurt Cobain proudly proclaimed that Nirvana was a cross between the Beatles and Black Sabbath." ← https://www.youtube.com/watch?v=Ft8nruhWCas
 **Influence on Pacific Northwest Rock** : Black Sabbath was identified as one of the bands whose rock music mixed freely with hardcore punk in the Pacific Northwest, influencing the development of the grunge sound. "Here beevus and butthead, rock from black Sabbath, kiss and lead zeppelin, mixed freely with hardcore punk that came up with the coast from California..." ← https://www.youtube.com/watch?v=tFBSrKMEZxI

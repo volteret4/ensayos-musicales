@@ -4,6 +4,7 @@
 - Industrial Rap
 
 ## albums
+**808s & Heartbreak** : Kanye West's album *808s & Heartbreak* is directly named after the Roland TR-808 drum machine, signifying its critical role and inspiration in the album's sound and themes. "Kanye West's 808 and heartbreak album named after the TR808." ← https://www.youtube.com/watch?v=dablAKDOOV0
 **Yeezus (Year Not Specified) – Industrial Rap Example** : Kanye West's album "Yeezus" is presented as a modern example of Industrial Rap, showcasing how the genre evolved to include mainstream artists. "And today, Industrial Rap is its own thing and ranges from Kanye West when he released his Yeezus album" ← https://www.youtube.com/watch?v=tdTs-4Irv8c
 
 ## curiosities

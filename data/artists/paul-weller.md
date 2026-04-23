@@ -6,6 +6,7 @@
 - The Jam
 
 ## instruments
+- Epiphone Casino
 - Marshall amplifiers
 
 ## curiosities

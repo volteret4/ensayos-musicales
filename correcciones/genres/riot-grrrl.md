@@ -1,0 +1,13 @@
+# genre - Riot Grrrl
+
+## curiosities
+**Early 1990s Influence - Mia Zapata** : Mia Zapata is recognized as a major influence on the riot grrrl scene of the early 1990s. "If you're into hardcore or the ride girl scene of the early 1990s you may have, she was in a band called The Gits. She's considered to be a big influence on a lot of the women attached to and inspired by this scene." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4
+**Key Influences** : Bands within the Riot Grrrl movement frequently cited Kim Gordon as an influential figure. Some members were also fans of Sugar Baby Doll, a San Francisco group that had briefly included Courtney Love. "These groups also often cited Kim Gordon as an influence. And some were fans of Sugar Baby Doll, that San Francisco group that included Courtney for a while." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
+**Movement Description** : The Riot Grrrl scene originated in the Pacific Northwest and comprised hardcore punk bands that voiced their anger from a distinctly female perspective, addressing topics like female empowerment, domestic abuse, rape, sexuality, racism, the patriarchal nature of society, and various feminist ideologies. "Riot Girls were hardcore punk bands that expressed themselves in the same angry way as male bands have been doing for years, except from the female perspective." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
+**Origin as a Response to Hardcore** : The Riot Grrrl movement was initiated by women who were repulsed by the perceived testosterone-driven and male-exclusive nature of hardcore punk. They took action to create their own movement as a direct response to this male-dominated world. "Some women repulsed by the testosterone of hardcore and its exclusive women took matters into their own hands and created the entire Riot Girl movement as a response." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
+
+## artists
+- Bikini Kill
+- Mia Zapata
+- Sleater-Kinney
+

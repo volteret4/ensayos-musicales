@@ -1,0 +1,6 @@
+# artist - Director X (Julien Christian Lutz)
+
+## curiosities
+**Art Context Podcast Host** : Co-host of the new podcast *Art Context*, which aims to provide a platform for music video directors to share their stories, influences, and creative processes. He was influenced by the storytelling, dancing, and style of 80s music videos from artists like Madonna, Peter Gabriel, Phil Collins, Michael Jackson, and Aerosmith, which made him "fall in love with the art." "Our show is pretty much about, it's in the world of music. It's pretty much us sitting down with storytellers that come from music videos." ← https://www.youtube.com/watch?v=G9H9q7BYqEA
+**Renowned Music Video Director** : One of the "biggest music video directors on the planet," responsible for "game-changing videos" for artists such as Drake, Coldplay, Kendrick Lamar, Alicia Keys, Puff Daddy, Sisqo, Destiny's Child, Justin Bieber, 2 Chainz, Rosalía, Iggy Azalea, Sean Paul, Beenie Man, and Ariana Grande. His career spans from the late 90s and he remains "relevant" in the field. He co-founded the production company Fella with Taj Critchlow. "X is the goat because as long as he's been doing it, like late 90s to now, it's still relevant." ← https://www.youtube.com/watch?v=G9H9q7BYqEA
+

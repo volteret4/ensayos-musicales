@@ -1,0 +1,8 @@
+# artist - Mark Anofrio
+
+## curiosities
+**Case Dismissal (1998)** : After initial delays and Anofrio dropping claims on three of the six songs, the case was ultimately brought before a federal judge on December 1, 1998, and subsequently dismissed. "Everything finally ended up before a federal judge on December 1, 1998, at which point the case was thrown out." ← https://www.youtube.com/watch?v=wYD_dIvYY5o
+**Copyright Infringement and Unfair Competition Charges** : Anofrio charged Trent Reznor with copyright infringement and unfair competition in his plagiarism lawsuit. "He charged Trent with copyright infringement and unfair competition." ← https://www.youtube.com/watch?v=wYD_dIvYY5o
+**Plagiarism Allegations Against Trent Reznor (1997)** : Mark Anofrio, an LA musician recording under the name Elephant Man, accused Trent Reznor of stealing six of his songs. He claimed to have met Reznor during an internet chat session and subsequently mailed a tape of his compositions to Reznor's home. "On August 18th, 1997, he was notified that an LA musician named Mark Anofrio had accused Trent of stealing six of his songs." ← https://www.youtube.com/watch?v=wYD_dIvYY5o
+**Specific Song Allegations** : Anofrio alleged that five songs from Nine Inch Nails' 1994 album "The Downward Spiral" ("Closer," "Hurt," "March of the Pigs," "Mr. Self-destruct," and "Downward Spiral") and the song "Burn" (contributed to the "Natural Born Killers" soundtrack) were ripoffs of his "Elephant Man" compositions. "He says, closer, hurt, march of the pigs, Mr. Self-destruct, and downward spiral are all ripoffs of Elephant Man." ← https://www.youtube.com/watch?v=wYD_dIvYY5o
+

@@ -1,0 +1,8 @@
+# instrument - Electric Guitar (General)
+
+## curiosities
+**Future Discussion on Amplifiers** : Future segments of the story will discuss amplifiers, recognizing their critical role as an electric guitar without amplification is not truly electric. "and we should talk about amplifiers, given that an electric guitar without amplification isn't really electric at all." ← https://www.youtube.com/watch?v=d9HNqb9gJSU
+**Historical Development Background** : The discussion follows the history of the electric guitar from its very beginning through the necessary developments before the first units were sold in the 1930s, leading up to the iconic Fender and Gibson models of the 1950s. "Last time we started right at the very beginning and went through everything that had to happen before the first units were sold in the 1930s." ← https://www.youtube.com/watch?v=d9HNqb9gJSU
+**Revolutionary Impact on Music (1950s)** : Starting in the 1950s, the electric guitar revolutionized popular music genres such as country, blues, jazz, and especially rock, fundamentally changing the sound of music forever. "Starting in the 1950s, it revolutionized many types of popular music, country, the blues, jazz and most of all, rock." ← https://www.youtube.com/watch?v=d9HNqb9gJSU
+**Unleashing Volume and Distortion** : Unlike acoustic instruments where desirable distortion is limited by physical effort, the electric guitar offers boundless potential for volume, distortion, and power, allowing players to evoke a wide range of intense sounds. "It can be played so that the notes are pristine, or you can summon all the demons of hell with volume and distortion and power and glory." ← https://www.youtube.com/watch?v=d9HNqb9gJSU
+

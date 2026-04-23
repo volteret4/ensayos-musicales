@@ -1,0 +1,29 @@
+# artist - Mother Love Bone
+
+## members
+- Andrew Wood
+- Jeff Ament
+- Stone Gossard
+
+## labels
+- Mercury Records
+
+## albums
+**Apple (1990) – Debut Album Halted by Tragedy** : Mother Love Bone's debut album, *Apple*, was scheduled for release on March 20, 1990. However, just four days prior, singer Andrew Wood tragically overdosed on heroin and subsequently died, leading to the album's release being delayed and ultimately impacting the band's future. "That record was called Apple, and it was set for release on March 20, 1990. But just four days before that could happen, this was Friday March the 16th. Andrew Wood's girlfriend found him in his apartment completely comatose." ← https://www.youtube.com/watch?v=lip0bZX7hBE
+**Apple (Undated)** : Mother Love Bone's debut record, which they intended to release after securing a major label deal with Mercury Records. The band had ambitions of becoming successful rock and roll stars. "That debut record was called Apple." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
+
+## songs
+**Stargazer (Undated)** : A song mentioned from Mother Love Bone's repertoire, likely from their debut album "Apple." "Mother Love Bone with Stargazer, really good band..." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
+
+## curiosities
+**Andrew Wood's Death** : Lead singer Andrew Wood overdosed on heroin, suffered a massive cerebral hemorrhage, and died just before the release of their debut album, "Apple." His death was a crucial event that set in motion the formation of other bands and projects like Temple of the Dog, contributing to the scene's coalescence. "Not just before that album was released, their singer Andrew Wood, overdosed on heroin, suffered a massive cerebral hemorrhage, and died." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
+**Andrew Wood's Death (March 19, 1990) – Heroin Overdose** : Andrew Wood, the popular singer of Mother Love Bone, died on Monday, March 19, 1990, the day before their album *Apple* was due for release. He was found comatose on March 16 after a heroin overdose, and after brain activity ceased, his family chose to take him off life support. "Andrew was a really popular guy, and he had lots of friends in Seattle. His death hit Chris Cornell, his old roommate particularly hard." ← https://www.youtube.com/watch?v=lip0bZX7hBE
+**Band Disintegration after Singer's Death** : Mother Love Bone dissolved after their singer, Andrew Wood, died from a heroin overdose. This event led Stone Gossard and Jeff Ament to seek new musical projects, eventually leading to the formation of what would become Pearl Jam. "Stone and Jeff were looking for something to do after their band Mother Love Bone fell apart when their singer Andrew Wood died of a heroin overdose." ← https://www.youtube.com/watch?v=zT6pRGYLWhw
+**Evolution from Malfunkshun – Group's Origin** : Mother Love Bone developed out of an earlier group named Malfunkshun, which notably featured Greg Gilmore, a musician who had also spent time in Skinyard with Jack Endino and Daniel House. "They had evolved out of malfunction, a group featuring a dude named Greg Gilmore, who, for a time, had been in Skinyard with Jack and Dino and Daniel House." ← https://www.youtube.com/watch?v=lip0bZX7hBE
+**Frontman's Tragic Death (1990)** : Mother Love Bone, a band described as local heroes "poised for big things," had their dreams shattered when their frontman, Andrew Wood, died of a heroin overdose. His death occurred just days before their major label album was scheduled to be released, cutting short their potential rise. "Mother Lovevone, some local heroes that were poised for big things had their dreams shot to hell when frontman Andrew Wood died of a heroin overdose just days before their major label album was supposed to come out." ← https://www.youtube.com/watch?v=zIkjd1OjCXM
+**Major Label Ambitions** : Mother Love Bone actively sought to become successful rock stars and achieve a major label deal, which they eventually secured with Mercury Records. This contrasted with the uncommercial nature of some early grunge bands. "Mother Love Bone wanted to be successful. They wanted to be rock and roll stars. They wanted a major label deal, and they got it." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
+**Major Label Deal (November 1988) – Seattle Pioneers** : In November 1988, Mother Love Bone secured a major label record deal, becoming one of the first Seattle bands to achieve this milestone. Their debut EP was well received, setting the stage for their anticipated album *Apple*. "In November 1988, Mother Love Bone became one of the first of what would be a long line of Seattle bands to nail a major label record deal." ← https://www.youtube.com/watch?v=lip0bZX7hBE
+**Manager Kelly Curtis's Distraction** : Kelly Curtis, who initially co-managed Alice in Chains, became distracted by the growing popularity of Mother Love Bone, his other management client. This distraction led to Susan Silver taking on more day-to-day responsibilities for Alice in Chains. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
+**Precursor to Pearl Jam** : The "fallout" from Mother Love Bone directly led to the formation of Pearl Jam. "And then there was the Fallout from Mother Love Bone, which eventually resulted in the formation of Pearl Jam, who also went right to a major." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
+**Transformation into Pearl Jam – Post-Tragedy Rebirth** : Following the tragic death of Andrew Wood, the surviving members of Mother Love Bone, Jeff Ament and Stone Gossard, collaborated with Chris Cornell and Matt Cameron to form Temple of the Dog. This collaboration eventually led Ament and Gossard to form a new band with Eddie Vedder, initially called Mookie Blaylock, which soon became Pearl Jam. "When Mother Lovebone collapsed and turned into Pearl Jam, Kelly became their full-time manager, leaving Susan to deal with Allison Chains." ← https://www.youtube.com/watch?v=lip0bZX7hBE
+

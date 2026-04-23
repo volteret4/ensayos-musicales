@@ -5,4 +5,5 @@
 
 ## artists
 - Mumford & Sons
+- Sarah McLachlan
 

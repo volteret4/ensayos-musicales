@@ -6,6 +6,7 @@
 
 ## genres
 - Garage Rock (core)
+- Post-Punk
 - Punk
 - Punk Rock
 
@@ -29,6 +30,7 @@
 **First Punk Rock Single (N/A)** : The British group The Damned holds the distinction of being the first punk rock band to release a single, predating the Sex Pistols' debut. "That honor goes to a British group called The Damned." ← https://www.youtube.com/watch?v=MTDY6qT11Dc
 **Garage Rock Core** : The Damned are categorized as having a Garage Rock core due to their "back to basics approach," linking them to the fundamental characteristics of the genre amidst the punk movement. "The sex pistols, the clash, the damned, all those groups are garage rock bands at their core because of their back to basics approach." ← https://www.youtube.com/watch?v=UpWz3X33vSY
 **Grizzled Veteran Participant** : The Damned, an English punk band from the 1970s, joined the Warped Tour, demonstrating that the festival also attracted established and older acts. "There was the damned, yes, the English punk band from the 1970s." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
+**Recording at Wessex Studios** : The Damned recorded at Wessex Studios, an old church hall in North London known for its live sound, which was a popular choice among punk and post-punk bands. "A lot of punk bands and post punk bands, like using the place, the clash and the damned and suzy and the banshees and the pretenders and the specials and generation X and the sex pistols." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
 **Sid Vicious Considered for Lead Singer – Missed Audition** : Sid Vicious was considered to be the lead singer of The Damned, a new punk band at the time. However, he failed to show up for the audition and did not get the gig. "It's also possible that he was considered to be the lead singer of another new punk band called The Damned." ← https://www.youtube.com/watch?v=OcylgiXkDP8
 **Vampire Claim** : Dave Vanian, the singer of the punk band The Damned, sometimes claimed to be a vampire, which was noted as an interesting detail in the context of the emerging Goth scene. "Some remembered that Dave Vainian of the punk band The Damned, sometimes claimed to be a vampire, which, and I was pretty interesting." ← https://www.youtube.com/watch?v=gd9sO7c3N1s
 **Vampire Persona** : Dave Vanian, the frontman of the punk band The Damned, sometimes claimed to be a vampire, which added an interesting, dark, and theatrical element that was aligned with emerging goth sensibilities. "And some remember the Dave Vainian of the punk band The Damned, sometimes claimed to be a vampire, which was interesting." ← https://www.youtube.com/watch?v=XaLsZFLrMnI

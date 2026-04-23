@@ -12,6 +12,7 @@
 **Blast (1992) – Award-Winning Video** : This song, likely Pure's biggest hit, won the Best Alternative Video Award at the 1993 MuchMusic Video Awards. "This song, which was probably their biggest, was the winner of the Best Alternative Video Award at the 1993 Much Music Video Awards." ← https://www.youtube.com/watch?v=P0pOgz3ZobE
 
 ## curiosities
+**Early 1990s Prime Time Success** : Pure was listed as one of the Canadian bands that gained "prime time" exposure and success in the early 1990s. "The early 90s were pretty amazing with a long list of Canadian bands getting a shot at prime time. We had moist, the watchman, lowest of the low, sons of freedom, grapes of wrath, rhymes with orange, pure Gandarva's limb lifter." ← https://www.youtube.com/watch?v=U2kYleeMnl8
 **Hollywood Movie Soundtracks** : Several of Pure's songs were featured on Hollywood movie soundtracks. "Couple of songs made it onto Hollywood movie soundtracks." ← https://www.youtube.com/watch?v=P0pOgz3ZobE
 **Jerry Harrison Production** : One of Pure's albums was produced by Jerry Harrison, who is known as the keyboardist for Talking Heads. "One of them was produced by Jerry Harrison, the keyboardist for the talking hits." ← https://www.youtube.com/watch?v=P0pOgz3ZobE
 **Jordy Birch's Post-Pure Career** : Singer Jordy Birch continued his career in music after Pure's breakup, notably with his project "Guilty About Girls" in 2008. "Singer Jordy Birch has stayed with music. He had a fantastic project called Guilty About Girls in 2008." ← https://www.youtube.com/watch?v=P0pOgz3ZobE

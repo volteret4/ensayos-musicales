@@ -1,0 +1,25 @@
+# genre - Outsider Music
+
+## curiosities
+**Admiration for Spirit** : The spirit of outsider musicians is to be admired due to their unbridled authenticity and their insatiable need to express themselves through music, regardless of how it sounds to others. They are seen as "unintentional renegades" who should be celebrated for their joy and human spirit in action. "Their spirit is to be admired, even if the music is a little challenging." ← https://www.youtube.com/watch?v=HcK4M7-02ik
+**Characteristics** : Outsider musicians are often self-taught and may exhibit a naive approach to musical conventions. They do not care about traditions, music theory, or the opinions of others, prioritizing the joy of creation. Many may have intellectual disabilities, mental illnesses like schizophrenia, or simply a left-of-center view of reality, which manifests in their music. A common trait is a childlike quality in their creations. "There is often a childlike quality to what they create." ← https://www.youtube.com/watch?v=HcK4M7-02ik
+**Definition and Appeal** : Outsider music is a compilation of material made by individuals who believe themselves to be musical but may not realize their lack of conventional talent. Despite this, their music often contains "much joy" and is described as "infectiously fun." "It was a compilation of what's known as outsider music, material made by people who feel that they are musical, but don't realize that they just aren't." ← https://www.youtube.com/watch?v=UsPoPUByjYw
+**Historical Precedents/Comparisons** : Artists previously covered in discussions of outsider music include Wesley Willis, The Shags, The Legendary Stardust Cowboy, Jandek, Captain B. Fart, Daniel Johnson, Florence Foster Jenkins, and Charles Manson. Brian Wilson of The Beach Boys is also considered a potential inclusion, given his life story. "On those programs, I covered Wesley Willis, the Shags, the legendary Stardust cowboy, Jandic, Captain B. Fart, Daniel Johnson, Florence Foster Jenkins, and even Charles Manson." ← https://www.youtube.com/watch?v=HcK4M7-02ik
+**Origin and Definition** : Outsider music is a genre that evolved from outsider art, also known as art brute, which originated in France in the 1920s and referred to art created by children or the mentally ill. The concept of outsider music began to take hold in the 1950s within the fringes of the jazz world before moving into rock and pop. It is characterized by self-taught musicians who often lack conventional training or adherence to music theory, driven by the sheer joy of expression without concern for external opinions. "No two outsider musicians sound alike." ← https://www.youtube.com/watch?v=HcK4M7-02ik
+**Shaping Modern View** : The modern understanding of outsider music was significantly shaped by Irwin Chisett, a music journalist and DJ at WFMU. Chisett championed these artists, featuring their music and releasing compilation CDs titled *Songs in the Key of X*. "Our modern view of outsider music was shaped by Irwin Chisett, a music journalist and a DJ at WFMU, an independent community radio station in East Orange, New Jersey." ← https://www.youtube.com/watch?v=HcK4M7-02ik
+
+## artists
+- BJ Snowden
+- Complete
+- Hassel Adkins
+- Jan Terry
+- Jimmy Mitchell
+- Nihilist Spasm Band
+- Nobody
+- Rugby Anz
+- Sun Seed
+- The Amazing Dolores
+- The Space Lady
+- Wildman Fisher
+- Yoho Wath Thirteen
+

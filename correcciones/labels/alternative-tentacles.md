@@ -1,0 +1,17 @@
+# label - Alternative Tentacles
+
+## curiosities
+**Dead Kennedys' DIY Label** : Alternative Tentacles, a California-based label, was formed by the Dead Kennedys after they initially just wanted to release one single. They found the experience enjoyable enough to transform it into a full-time business, mirroring the strategies of Black Flag with SST and Bad Religion with Epitaph. "Alternative Tentacles, another California label formed by a band who couldn't find anyone else to believe in them. This was the label of the dead Kennedys." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
+**Dead Kennedys' Own Label** : Alternative Tentacles was the band's own label, used by San Francisco's Dead Kennedys to release their 1980 album _Fresh Fruit for Rotting Vegetables_. "which came out on the band's own label, which they called Alternative Tentacles." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
+**First Release: California Über Alles** : The label's first release was the Dead Kennedys' self-produced single, "California Über Alles," in 1979. "This is the first Alternative Tentacles release, as the dead Kennedys, with their self-produced single, California Uber Alice." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
+**Founded by East Bay Ray** : Alternative Tentacles was formed by Dead Kennedys' guitarist East Bay Ray in 1979 to release the band's music, particularly their first single "California Über Alles." Over the years, it became a home for many other hardcore punk bands, though the Dead Kennedys remained its primary client. "DK's guitarist East Bay Ray formed alternative tentacles in 1979, and it eventually became the home of a ton of other hardcore punk bands over the years. But its main client was the dead Kennedys." ← https://www.youtube.com/watch?v=0qigzi1j81U
+**Founding by East Bay Ray** : Alternative Tentacles was formed by Dead Kennedys guitarist East Bay Ray in 1979 as the band's independent label to release their music. "DK's guitarist East Bay Ray formed alternative tentacles in 1979," ← https://www.youtube.com/watch?v=PEHkKfmmDiI
+**Global Export of Hardcore** : This label distinguished itself by developing relationships with other independent labels around the world, enabling the export of American hardcore music to new international markets. "Because Alternative Tentacles managed to develop a relationship with other labels around the world, other indie labels, they were able to export American hardcore to places it had never been." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
+**Home for Hardcore Punk** : Over the years, Alternative Tentacles expanded beyond just the Dead Kennedys to become a significant label for many other hardcore punk bands. "and it eventually became the home of a ton of other hardcore punk bands over the years." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
+**Released NoMeansNo's "Wrong"** : The label released NoMeansNo's popular album "Wrong" in the fall of 1989. This highlights its continued relevance in the hardcore and post-hardcore scenes into the late 1980s. "It came out on the Dead Kennedy's Alternative Tentacles label in the fall of 1989." ← https://www.youtube.com/watch?v=0qigzi1j81U
+
+## artists
+- Dead Kennedys
+- No Means No
+- NoMeansNo
+

@@ -9,5 +9,6 @@
 - O-Tecker
 - Primal Scream
 - Sweet Exorcist
+- The KLF
 - The Stone Roses
 

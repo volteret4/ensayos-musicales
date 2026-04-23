@@ -6,4 +6,5 @@
 
 ## artists
 - Kelly Deal
+- Tame Impala
 

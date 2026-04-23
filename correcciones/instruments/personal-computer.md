@@ -1,0 +1,6 @@
+# instrument - Personal Computer
+
+## curiosities
+**Catalyst for Digital Music Consumption** : The increasing prevalence of personal computers, coupled with the mandatory inclusion of CD-ROM drives (initially for software installation), inadvertently made them central to digital music. Users discovered they could play music CDs and transfer digital files to their hard drives, laying the groundwork for new forms of music consumption and distribution like MP3s and file sharing, despite early limitations in hard drive capacity. "All new computers had to have a CD-ROM drive." ← https://www.youtube.com/watch?v=r8AazBVoS7g
+**Evolution of Home Use (1990s)** : Before the 1990s, personal computers were uncommon in homes, primarily found in universities, workplaces, or "nerd" basements, being complicated, temperamental, and expensive. This began to change significantly in the early 90s, particularly with user-friendly operating systems like Microsoft Windows 3.1 and Windows 95, which made computers accessible to a broader public. "As the 90s dawned, personal computers with their clunky, dust interfaces and tiny hard drives were not all that common outside of universities, workplaces, and basements were nerds lived." ← https://www.youtube.com/watch?v=r8AazBVoS7g
+

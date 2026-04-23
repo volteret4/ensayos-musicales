@@ -1,0 +1,9 @@
+# artist - Godspeed You! Black Emperor
+
+## curiosities
+**Collaboration with Steve Albini** : The legendary producer Steve Albini, known for his work with Nirvana and Pixies, also worked on albums with Godspeed You! Black Emperor. "This is from a 2009 album entitled Him to the Immortal Wind, which is a big fan favorite and recorded by the legendary Steve Elbeni, who did all those albums with Nirvana and the Pixies and the Breeders and Bush. And here we go again, Godspeed you, Black Emperor." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
+**Continued Activity in the 90s** : The band, a Canadian group, continued their distinct musical approach into the late 1990s, further cementing their role in the post-rock scene. "Canada's Godspeed U-Black Emperor kept doing whatever they were doing." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
+**Montreal Collective** : Godspeed You! Black Emperor is described as a Montreal collective that significantly contributed to defining post-rock in the 1990s. "And because Grunge and everything else that went along with it opened people's ears to new ideas, we got bands like StereoLab and Tortoise and the wild Godspeed U-Black Emperor, the Montreal Collective, that went a long way towards defining what we're talking about here." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
+**Recommended Post-Rock Band** : The band is explicitly listed as a recommendation for those wanting to explore post-rock further. "If you want to go deeper, look into bands like Talk Talk, Slint, Barxide Coses, Tortoise, Magwai, Stereolab, Godspeed you, Black Amper, we always keep coming back to them." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
+**Touring Partners** : Explosions in the Sky, a Texas-based post-rock band, toured with Godspeed You! Black Emperor. "They've toured with nine-inch nails, Fugazi, and here's that name again, Godspeed, New Black Emperor." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
+

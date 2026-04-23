@@ -1,0 +1,6 @@
+# artist - Mozart
+
+## curiosities
+**Scatological Letters and Lyrics** : Approximately 12% of Mozart's letters to his friends and associates contained at least one reference to poop. Some of his song lyrics also included scatological content, necessitating changes by other individuals. This aspect of his personality is so notable that it has been speculated to be linked to a case of Tourette's. "Approximately 12% of all Mozart's letters to friends and associates had at least one reference to poop in it." ← https://www.youtube.com/watch?v=GO0K_N7Ys7I
+**The Mozart Effect – Enhanced Intellect Theory** : The "Mozart effect" is a theory suggesting that exposing fetuses and babies to classical music can enhance a child's intellect in the womb, potentially leading to better math skills, spatial perception, and 8-9 IQ points higher. Studies at various universities appeared to confirm this, leading to the state of Georgia allocating $100,000 annually to provide every newborn with a classical music CD or tape. However, later research, including a 1999 project, questioned the theory, finding that babies received similar benefits from listening to Mozart as from listening to a parent read a Stephen King novel. ← https://www.youtube.com/watch?v=BHN6db7m3DM
+

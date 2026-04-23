@@ -7,4 +7,5 @@
 
 ## artists
 - MGMT
+- The Dukes of Stratosphear
 

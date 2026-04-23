@@ -1,0 +1,14 @@
+# genre - No Wave
+
+## curiosities
+**Attitude Towards Experimentation in New York** : The no wave scene in New York was part of the experimental lineage, contributing to the development of an attitude that characterized post-rock. "Then we trace this attitude towards experimentation through things like crowd rock, David Bowie, public image limited, and the no wave seen in New York." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
+**Avant-Garde New York Movement** : No Wave was a short-lived, highly avant-garde post-punk style that appeared in New York City in the late 1970s and early 1980s. Its practitioners explicitly rebelled against all musical conventions, prioritizing noise, confrontation, and dissonance to create "groundbreaking art" and avoid rock clichés. "No Wave practitioners rebelled against all musical conventions. The worst thing, they believed, was to recycle the same old rock clichés over and over and over again." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
+**Origins and Philosophy** : Emerging in the late 1970s from New York City's East Village, No Wave was a short-lived movement that combined punk and avant-garde rock. Adherents believed rock and roll had become too conservative and even punk was institutionalized, leading them to create music often lacking musical training, characterized by negativity, harshness, formlessness, noise, and atonality. "A short-lived movement centered in the East Village known as No Wave was born in the late 1970s. Now No Wave was equal parts punk and avant-garde rock." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
+
+## artists
+- DNA
+- Mars
+- Sonic Youth
+- Teenage Jesus and the Jerks
+- Theoretical Girls
+

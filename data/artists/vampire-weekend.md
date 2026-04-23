@@ -1,10 +1,16 @@
 # artist - Vampire Weekend
 
+## members
+- Ezra Koenig
+
 ## labels
 - XL
 
 ## concerts
 - Twilight Soundtracks
+
+## instruments
+- Epiphone Sheratone II
 
 ## albums
 **Contra (2010)** : This album, released on the indie label XL, featured one of the band's biggest singles. "One of the biggest singles from Vampire Weekends Contra album, which was released on the indie label XL, was a song about a non-alcoholic Mexican drink that you might find at a hipster spot." ← https://www.youtube.com/watch?v=sOU54d8mr5k

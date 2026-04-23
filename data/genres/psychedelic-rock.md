@@ -16,6 +16,7 @@
 ## artists
 - Animal Collective
 - Ariel Pink
+- Can
 - King Gizzard and the Lizard Wizard
 - Love
 - Mac DeMarco

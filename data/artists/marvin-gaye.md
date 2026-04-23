@@ -2,6 +2,8 @@
 
 ## genres
 - Blues Rock
+- Funk
+- R&B
 - Soul/R&B (implied)
 
 ## songs

@@ -3,6 +3,7 @@
 ## genres
 - Goth
 - Gothic
+- Gothic rock
 
 ## concerts
 - The Batcave

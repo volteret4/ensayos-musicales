@@ -2,6 +2,8 @@
 
 ## curiosities
 **Elvis Costello's "Radio Radio" Incident (December 17, 1978)** : Replacing the Sex Pistols, Elvis Costello performed on December 17, 1978. A producer asked him not to play "Radio Radio" due to its critical lyrics toward radio programmers and NBC's ownership of radio stations. Costello verbally agreed but then famously played the controversial song anyway, creating a moment likened to the Sex Pistols' earlier UK TV scandal. "Now you can play the show, the producer said, if you promise not to play your song Radio Radio." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
+**Elvis Costello's Act of Defiance (1977)** : On December 17, 1977, Saturday Night Live hosted Elvis Costello and The Attractions as a last-minute replacement for the Sex Pistols. Despite specific instructions from producers not to play "Radio Radio," Costello famously stopped his agreed-upon song, "Less Than Zero," mid-performance and launched into the controversial, network-banned track, making a powerful statement of defiance on live television. "But you got to think that Elvis had his fingers crossed because it's not exactly what happened that night." ← https://www.youtube.com/watch?v=1y2UuU-me_s
+**Klaus Nomi's Performance with David Bowie (December 15, 1979)** : Klaus Nomi made a significant appearance with David Bowie on Saturday Night Live on December 15, 1979, where he provided backup vocals on three songs, a collaboration initiated after Bowie was deeply impressed by Nomi's live shows. "And that led to Nomi's appearance with Bowie on Saturday Night Live. The date was December 15, 1979. He sang back up on three songs." ← https://www.youtube.com/watch?v=sEZ13v1LNYQ
 **Red Hot Chili Peppers' Problematic Performance (1992)** : The Red Hot Chili Peppers performed on "Saturday Night Live" with a visibly tense John Frusciante, who Anthony Kiedis believed sabotaged their performance of "Under the Bridge" with dissonant, out-of-tune guitar playing and vocals. The incident, following a kick from Kiedis to Frusciante during "Stone Cold Bush," marked a low point in their relationship leading up to Frusciante's departure. "And when the band flew back to New York to play Saturday Night Live, Anthony was livid because he thought John sabotaged everything." ← https://www.youtube.com/watch?v=TESrEzVHLCc
 **Sex Pistols Cancellation and Costello Replacement** : The Sex Pistols were compelled to cancel a crucial appearance on Saturday Night Live due to issues with their visa applications. As a result, Elvis Costello was contacted at the last minute to perform in their stead. "forcing them to cancel an important appearance on Saturday Night Live. Some guy named Elvis Costello was called in at the last minute." ← https://www.youtube.com/watch?v=gKrAXMG8sTc
 **Sex Pistols Visa Issues (December 1978)** : In December 1978, the Sex Pistols were scheduled to perform on this new NBC show but were prevented from doing so due to visa problems. This led to Elvis Costello being brought in as a last-second replacement. "In December 1978, the Sex Pistols were booked to play this new show on NBC called Saturday Night Live. However, they ran into visa problems and were replaced at the last second on the show by this geeky guy from England named Elvis Costello." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
@@ -9,7 +11,9 @@
 
 ## artists
 - Arcade Fire
+- Elvis Costello & The Attractions
 - Phoebe Bridgers
 - Radiohead
 - Sex Pistols
+- The Sex Pistols
 

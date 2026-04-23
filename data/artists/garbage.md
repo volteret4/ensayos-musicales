@@ -16,6 +16,9 @@
 ## labels
 - (unspecified, but got a deal based on Butch Vig's reputation)
 
+## concerts
+- Summersault Festival
+
 ## albums
 **Garbage (1995) – Debut Album** : The self-titled debut album by Garbage was released in 1995. Butch Vig, the band's drummer, was also their producer. The album features the song "Only Happy When It Rains." "This is Garbage from the 1995 debut with Butch Vigs on drums." ← https://www.youtube.com/watch?v=gsSTJWN6cUo
 **Garbage (1995) – Self-titled Debut** : This self-titled debut album was released on August 15, 1995. It featured "I'm Only Happy When It Rains" as one of its five singles. "And the first record, a self-titled thing, came out on August 15th 1995." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
@@ -38,4 +41,5 @@
 **Shirley Manson's Discovery** : Steve Marker discovered Shirley Manson singing with a Scottish band called Angel Fish after seeing her on television, leading to her being tracked down for the new project. "But then it was Steve Marker who turned on a TV and saw a Scottish band called Angel Fish and saw Shirley singing for them." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Shirley Manson's Initial Audition Failure** : Shirley Manson initially failed her audition for the band. However, due to her shared musical tastes with the other members, they decided to give her another chance, which she then successfully "nailed." "When Shirley finally did have a chance to audition for the band, she failed. But because she had the same taste in music as the guys, they decided to take a chance anyway." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Stage Performance Motivation** : Shirley Manson finds stepping on stage to be like a "bolt in the arm," instantly rejuvenating and energizing her. This feeling makes all the "weird things" and difficulties of touring worthwhile, especially when she sees the lit-up faces of the fans enjoying the show. "The minute you step on stage, it's like a bolt in the arm." ← https://www.youtube.com/watch?v=DgN0vBIugLc
+**Summersault Festival International Act** : Garbage was an international act featured in Our Lady Peace's Summersault Festival lineup in 1998, which also included Canadian artists. "That lineup included I'm other Earth, McGandarves, as well as international flavor from Garbage, the Crystal Method and Eve 6." ← https://www.youtube.com/watch?v=U2kYleeMnl8
 

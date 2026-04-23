@@ -30,11 +30,14 @@
 **Reduced Instrumental Lead-up Time** : The average instrumental lead-up to vocals in a pop song, which was around 17 seconds in the 1980s, has dramatically decreased to less than five seconds, reflecting the need for immediate engagement in the streaming era. "Now in the 80s, the average instrumental lead up to the vocals of a pop song was around 17 seconds. Now it's less than five." ← https://www.youtube.com/watch?v=Z7glrAoXtkA
 **Resurgence in Mid-1990s** : After the decline of grunge around mid-1996, pop music experienced a resurgence, spearheaded by acts like the Spice Girls and later boy bands and singers such as Britney Spears, becoming "absolutely huge" until about 2001. This was attributed to Gen Y coming of age and wanting "Happy Pop songs." "It began with the spice girls, but within a few years, the biggest popular music stars in the world were a bunch of boy bands and singers like Britney Spears." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
 **Rock and Pop Music Cycle Theory** : A historical theory suggests that Rock and Pop music have been in a continuous, competitive cycle, with one genre ascending while the other declines, a pattern traceable back to the 1950s and recurring approximately every 12 to 13 years. "This cycle of twelve or thirteen years can be traced all the way back to the 1950s." ← https://www.youtube.com/watch?v=XM1RvL7Kdts
+**Sexual Encounters Playlists Dominance** : Pop artists were the most common on playlists created by people to soundtrack their sexual encounters, dominating the 11,000 songs analyzed from 150 playlists. "Songs by pop artists were most common on these playlists." ← https://www.youtube.com/watch?v=KtdIMNoHqA8
+**Sexual Partners Average** : Pop fans ranked second in average lifetime sexual partners among all genres surveyed, with an average of 15, behind metal fans. "If pop was seconded 15." ← https://www.youtube.com/watch?v=KtdIMNoHqA8
 **Shift in Gorillaz Sound** : The Gorillaz album "Plastic Beach" marked a deliberate shift towards a more pop-oriented sound compared to the band's first two records. "As for the music, it's much more pop than the first two records. That was by design from the outset." ← https://www.youtube.com/watch?v=iVdTCqpd798
 **Singles-Driven Era (Pre-1965)** : Before approximately 1965, pop music predominantly existed as 7-inch 45 RPM singles, with albums being reserved for other genres. This singles-first approach defined the commercial landscape of the genre in its early years. ← https://www.youtube.com/watch?v=eqTFinLk3oU
 **Songs About Ted Bundy** : Pop music is one of the genres, alongside rock, metal, and hip hop, that features songs written about the serial killer Ted Bundy. This demonstrates the broad appeal of true crime themes across different musical styles. "There are a similar number of songs about Ted Bundy, rock, pop, metal, hip hop." ← https://www.youtube.com/watch?v=FtGJHhqXcDI
 **Songwriting Adaptation for Streaming** : Pop producers have reverse-engineered the listening habits of pop fans, creating songs that are front-heavy, often starting with the chorus, and jamming multiple hooks into the first half-minute to cater to impatience and short attention spans, especially to retain attention for the 30-second Spotify payout threshold. "Producers have basically reverse engineered the listening habits of pop fans and started writing songs in a way that plays into their impatience and their short attention spans." ← https://www.youtube.com/watch?v=Z7glrAoXtkA
 **Streaming Success in Pop** : Pop music has significantly benefited from the "musical moneyball" approach, demonstrating high streaming success that leads labels to prioritize time and money in promoting this genre. "Hip hop, rap, R&B, and pop have benefited the most from this musical money ball because those genres have demonstrated the most streaming success." ← https://www.youtube.com/watch?v=Sc9HApnyBLM
+**Studying Effectiveness** : Pop music was listed as the third genre on the "do not listen to" list for studying, but with disagreement among respondents: 23% found it productive versus 22% finding it distracting. It was also listed at the top of "best study buddy genres," being only slightly better than lo-fi tracks. "Pop is also listed at the top of best study buddy genres." ← https://www.youtube.com/watch?v=KtdIMNoHqA8
 **Teen Pop Resurgence in Late 2000s** : Following a period where rock was dominant (2004-2008), the music cycle shifted focus back to teen pop and pop in general, becoming "back in Vogue, and in a big, big way" by the late 2000s, exemplified by artists like Lady Gaga and Justin Bieber. "And the focus once again became on teen pop. In fact, pop in general was back in Vogue, and in a big, big way, we had Lady Gaga, Black Eyed Peas, Justin Bieber, Rihanna, Taylor Swift, Beyonce." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Trent Reznor's Billboard Record** : Trent Reznor, as co-composer of "34 Ghosts 4," shares the record for the "pop song" with the most weeks at number one on Billboard, referring to Lil Nas X's "Old Town Road." "So yes, Trent Rezner is the co-holder of the record for the pop song, the pop song, with the most weeks at number one on Billboard." ← https://www.youtube.com/watch?v=DKdF8NgF5Bw
 
@@ -53,6 +56,7 @@
 - Coldplay
 - David Cassidy
 - Debbie Gibson
+- Duran Duran
 - Ed Sheeran
 - Elvis Costello
 - Fall Out Boy
@@ -63,6 +67,7 @@
 - Greg Alexander
 - Happy Mondays
 - Huey Lewis
+- Husker Dü
 - Hüsker Dü
 - Imagine Dragons
 - Janet Jackson
@@ -85,6 +90,7 @@
 - P!nk
 - Panic! at the Disco
 - Paramore
+- R.E.M.
 - Ramones
 - Rihanna
 - Sky Suitenam
@@ -102,12 +108,16 @@
 - The New Radicals
 - The Police
 - The Ramones
+- The Replacements
 - The Smiths
 - The Undertones
 - The Vibrators
 - Tiffany
 - Tina Turner
+- Tori Amos
+- Tune-Yards
 - Vangelis
+- Ween
 - Wendy Melvoin
 - Whitney Houston
 - XTC

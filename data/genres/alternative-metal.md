@@ -8,4 +8,5 @@
 - Biohazard
 - Faith No More
 - Jane's Addiction
+- Primus
 

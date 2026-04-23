@@ -6,4 +6,5 @@
 ## artists
 - Living Color
 - Living Colour
+- Primus
 

@@ -1,0 +1,7 @@
+# instrument - Cricket Bat
+
+## curiosities
+**Noel Gallagher's Weapon (May 1995)** : A cricket bat was used by Noel Gallagher to hit Liam Gallagher during a violent altercation at Rockfield Studios in May 1995, after Liam had battered Noel's bedroom door. Some accounts claim Liam's arm was broken in the incident. "Noel then grabbed a cricket bat, opened the door, and started whacking Liam with it." ← https://www.youtube.com/watch?v=S6qB5B1PdyA
+**Paolo Huet's Possession and Auction** : The specific cricket bat allegedly used by Noel Gallagher to assault Liam ended up in the possession of music writer Paolo Huet. Huet later auctioned the bat, complete with a certificate of authenticity, for approximately $1,000 US dollars. "By the way, that cricket bat that Noel allegedly walked Liam with ended up in the possession of a music writer named Paolo Huet. He later auctioned it off, complete with a certificate of authenticity, and I think it sold for about $1,000 US dollars." ← https://www.youtube.com/watch?v=S6qB5B1PdyA
+**Weapon in Gallagher Brother Fight (May 1995)** : A cricket bat was used by Noel Gallagher to assault Liam Gallagher during a heated argument at Rockfield Studios in May 1995. Accounts suggest Noel broke Liam's arm with the bat. The bat later became a music industry collectible, auctioned for around a thousand US dollars. "Noelle then grabbed a cricket bat, opened the door, and started walking Liam with it." ← https://www.youtube.com/watch?v=_b3KRS-Yx_s
+

@@ -3,6 +3,11 @@
 ## genres
 - New Wave (early categorization)
 
+## instruments
+- Gibson Flying V
+- Rickenbacker
+- Vox units
+
 ## albums
 **Wildflowers (1994)** : This album features the song "Mary Jane's Last Dance." "This is a clip of a Tom Petty song called Mary Jane's Last Dance, which was released in 1993." ← https://www.youtube.com/watch?v=rfObVld9rIE
 
@@ -12,6 +17,7 @@
 **Mary Jane's Last Dance (1993)** : Released in 1993, this song was noted for its similarity to the Red Hot Chili Peppers' "Dani California." Tom Petty, however, downplayed any "negative intent," stating that "a lot of rock and roll songs sound alike" and expressing disinterest in frivolous lawsuits over pop songs. "This is a clip of a Tom Petty song called Mary Jane's Last Dance, which was released in 1993." ← https://www.youtube.com/watch?v=4cZfegexwwk
 
 ## curiosities
+**Covered in Early Days** : The Trews covered songs by Tom Petty during their formative years, integrating them into their sets that often included three hours of music comprising both cover songs and their own developing material. "Tom Petty covers." ← https://www.youtube.com/watch?v=3zbKOwkpkAM
 **Death (October 2017)** : Tom Petty died in October 2017. "Tom Petty left us that October..." ← https://www.youtube.com/watch?v=sOU54d8mr5k
 **Death in 2017** : Tom Petty was one of the significant musicians who died in 2017. "Tom Petty." ← https://www.youtube.com/watch?v=sdPeii-8Ysw
 **Initial New Wave Categorization** : When Tom Petty first emerged, some in the music industry categorized him as a New Wave artist due to his short, sharp songs and anti-corporate stance, illustrating the broad initial application of the term. "For example, when Tom Petty first appeared with his short, sharp songs, and anti-corporate stance, some people in the industry categorized him as a new wave artist." ← https://www.youtube.com/watch?v=bYsV3ozbk4M

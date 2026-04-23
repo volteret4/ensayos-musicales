@@ -7,6 +7,7 @@
 - Alt Rock
 - Alternative Rock
 - Low-fi American alternative
+- alt rock
 
 ## labels
 - 4AD
@@ -36,4 +37,5 @@
 **Limited Mainstream Breakthrough** : The Pixies, along with Jane's Addiction, were alternative rock bands that existed before the major punk revival, but despite their influence, they "did okay" without fully breaking through to mainstream attention. "Other bands who would come before, and I'm thinking of the Pixies and Jane's addiction, did okay, but they didn't really break through to the mainstream." ← https://www.youtube.com/watch?v=gkLMwrthZ9s
 **Producer Steve Albini's Work** : The legendary producer Steve Albini, who recorded Mono's *Hymn to the Immortal Wind* album, is known for his work on albums with the Pixies. "This is from a 2009 album entitled Him to the Immortal Wind, which is a big fan favorite and recorded by the legendary Steve Elbeni, who did all those albums with Nirvana and the Pixies and the Breeders and Bush." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
 **Reunion for Touring** : The Pixies were one of many bands from past decades that reunited in the 21st century, a trend largely motivated by financial incentives. With declining CD sales impacting artist revenues, returning to the touring circuit offered a lucrative way to appeal to nostalgic fan bases and fill large venues. "The list of reunions is long." ← https://www.youtube.com/watch?v=GYUuTbOvyak
+**Rising Prominence in Early 90s** : The Pixies were identified as one of the groups that "starting to get noticed" at the beginning of the 1990s, playing a role in the coalescence of the Alt Rock scene around the tastes of Generation X. "Groups like Jane's addiction and the Pixies are starting to get noticed." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE
 

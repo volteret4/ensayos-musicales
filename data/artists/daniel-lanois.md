@@ -3,6 +3,9 @@
 ## members
 - Bob Lanois (brother)
 
+## concerts
+- Another Roadside Attraction
+
 ## albums
 **Achtung Baby (U2) (Year Not Specified)** : Daniel Lanois worked on this U2 album. "Actung Baby, all that you can't leave behind and the biggest U2 record of them all." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
 **All That You Can't Leave Behind (U2) (Year Not Specified)** : Daniel Lanois worked on this U2 album. "all that you can't leave behind and the biggest U2 record of them all." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
@@ -12,6 +15,7 @@
 **Wide Awakened America (U2) (Year Not Specified)** : Daniel Lanois worked on this U2 album. "Wide Awakened America, Actung Baby, all that you can't leave behind and the biggest U2 record of them all." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
 
 ## curiosities
+**Another Roadside Attraction Tourmate** : Daniel Lanois was a Canadian performer who toured with The Tragically Hip's Another Roadside Attraction festival in 1993, 1995, and 1997. "Tourmates included Canadian performers like Daniel Landwass, Spirit of the West and the Rio Statics." ← https://www.youtube.com/watch?v=U2kYleeMnl8
 **Birth and Early Life** : Daniel Lanois was born in Hull, Quebec, in 1951. Following his parents' divorce, he moved with his mother to Ancaster, now a suburb of Hamilton. "Daniel was born in Hull Quebec in 1951 when his parents divorced he moved with his mom to Ann Caster, which is now a suburb of Hamilton." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
 **Breakthrough with U2** : Lanois's big break came in 1984 when Brian Eno, recruited by U2 to evolve their sound, brought Lanois onto the project, leading to the creation of "The Unforgettable Fire" album. This album was a breakthrough for both U2 and Lanois. "Then came the Big Break. In 1984 Eno was contacted by U2 to help them take their sound to the next level and when Eno finally agreed to take the job he called up Dan and held it and the result was the unforgettable fire." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
 **Discovered by Brian Eno** : Daniel Lanois, a young Canadian musician, was discovered and subsequently mentored by Brian Eno, who "took him under his wing." "along the way he discovered this young Canadian kid called Daniel Lannwan, took him under his wing." ← https://www.youtube.com/watch?v=QfiRRtsZoYU

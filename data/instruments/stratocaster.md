@@ -1,5 +1,7 @@
 # instrument - Stratocaster
 
 ## curiosities
+**Famous Model** : The Stratocaster is recognized as one of the iconic guitar models introduced by Fender, contributing significantly to the instrument's evolution and popularity. "We looked at the introduction of famous models like the Stratocaster, the Les Paul, and the Rickenbacher." ← https://www.youtube.com/watch?v=fQCOj3_zy54
 **Inventor Leo Fender Could Not Play Guitar** : Leo Fender, celebrated as the inventor of iconic guitars like the Stratocaster and Telecaster, as well as many famous guitar amplifiers, famously could not play the guitar himself. "Leo Fender, the inventor of the Stratocaster and the Telecaster guitars, as well as the seller of many iconic guitar amplifiers. He couldn't play the guitar." ← https://www.youtube.com/watch?v=0D4wGWI-_z8
+**Post-CBS Quality Decline** : After Fender was sold to CBS in 1965, the quality of Stratocaster models, along with Telecasters, diminished due to cost-cutting measures. These changes included using only three neck bolts instead of four, cheaper woods, inferior lacquers, increased plastic components, and thinner metal parts, leading to a negative reputation among serious players. "The lacquers used for finishing the guitars changed, making them look shabby. Cheaper woods were used for both the body and the neck. More plastic was used as well as thinner metal in place of prestige." ← https://www.youtube.com/watch?v=fQCOj3_zy54
 

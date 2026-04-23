@@ -6,6 +6,9 @@
 ## concerts
 - Vans Warped Tour (2008)
 
+## songs
+**Dark Horse (2012)** : This 2012 song was the subject of a lawsuit filed by Christian rapper Flame, who claimed that a keyboard ostinato in "Dark Horse" infringed on the ostinato in his 2008 Grammy-winning track "Joyful Noise." Flame also controversially claimed that the religious message of his song was "irreparably tarnished" by the "witchcraft paganism, black magic, and illuminati imagery" in Perry's video. Despite "Dark Horse" being 10 BPM slower and having a different pitch for the keyboard figure, Flame initially won, but Katy Perry won on appeal. "A Christian rapper filed a suit against Katie Perry over her 2012 song called Dark Horse." ← https://www.youtube.com/watch?v=fS8V3kYXT6w
+
 ## curiosities
 **Barbecue Band** : Katy Perry was once a "Barbecue Band" on the Warped Tour, a role where bands prepare post-show meals for others in exchange for a spot on the tour. "Barbecue bands have included Blink-1ity-2, Katie Perry, and My Chemical Romance." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
 **JonBenét Ramsey Identity Theory** : A conspiracy theory asserts that Katy Perry is actually an all grown-up JonBenét Ramsey. "did you know that Katie Perry is actually an all grown-up John but a Ramsey" ← https://www.youtube.com/watch?v=pmKjZzypzvg

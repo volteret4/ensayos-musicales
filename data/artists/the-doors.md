@@ -13,6 +13,7 @@
 - University of Michigan - October 20, 1967
 
 ## albums
+**Catalog Sales (Pre-Internet)** : Before the advent of the internet and the decline of physical record sales, every single album by The Doors consistently sold a million copies annually, even though the band ceased to exist in 1973. This highlights the significant income legacy artists used to earn from catalog sales. "every single door is album sold a million copies a year, even though the band came to an end in 1973." ← https://www.youtube.com/watch?v=5kPmqmbFfkY
 **The Doors (1967) - Debut Album** : This album was the first modern music to be described as "gothic," noted for its dark, mysterious, and even violent qualities, influencing the nascent goth sound. "As far as we can tell, the first use of the word gothic to describe modern music was used in relation to the doors, first album." ← https://www.youtube.com/watch?v=XaLsZFLrMnI
 **The Doors (1967) – Debut Album Billboard Ad** : The Doors made history in 1967 by being the first band ever to advertise the release of a new album on a billboard. This promotional billboard was erected in Los Angeles to announce their self-titled debut record. "The doors were the first band to ever advertise the release of a new album on a billboard. It was erected in Los Angeles in 1967 for their self title debut record." ← https://www.youtube.com/watch?v=GO0K_N7Ys7I
 

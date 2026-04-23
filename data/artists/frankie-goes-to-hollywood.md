@@ -3,6 +3,9 @@
 ## members
 - Holly Johnson
 
+## genres
+- New Wave
+
 ## labels
 - BBC (banned song)
 

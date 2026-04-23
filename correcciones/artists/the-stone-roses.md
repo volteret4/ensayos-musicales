@@ -1,0 +1,66 @@
+# artist - The Stone Roses
+
+## members
+- Ian Brown
+- Ian Brown (singer)
+- John Squire (guitarist)
+- Mani (Gary Mounfield)
+- Reni (Alan John Wren)
+
+## genres
+- 60s Pop
+- 60s Psychedelia
+- Acid House
+- British indie music
+- Britpop
+- House
+- Indie music
+- Madchester
+- Madchester Sound
+- Madchester sound
+- Modern Dance
+- Rave
+- Rock
+
+## labels
+- Silvertone
+
+## concerts
+- **Spike Island (May 27th, 1990) – Legendary Outdoor Gig** : This legendary outdoor concert, held on a reclaimed chemical dump on a peninsula by the River Mersey, attracted 28,000 to 30,000 people—the band's largest crowd ever. Despite immense hype and a 15-song set, the performance was generally considered average or below average, marked by nervousness, tentativeness, and a suspect sound system, except for the last ten minutes. Its legendary status is attributed more to the cultural "meeting of the minds" between Madchester and rave kids, and the heavy media hype, rather than the musical quality. "The Stone Roses with something from their 15 song set played at Spike Island on May 27th 1990."
+- Spike Island (May 27, 1990)
+
+## instruments
+- Bass
+- Drums
+- Guitar (Reni rumored)
+
+## albums
+**First Album (N/A)** : The first album by The Stone Roses is considered one of three essential albums to take to Mars, indicating its high regard. "and the first Stone Roses album." ← https://www.youtube.com/watch?v=Yl2poVWguu0
+**Self-titled debut record (1989)** : Released in May 1989, this album was instrumental in establishing The Stone Roses as the biggest indie band in the UK at the beginning of the 1990s. It notably yielded five major hit singles. "Their self title debut record which you come out in May of 1989 had given up five major hit singles." ← https://www.youtube.com/watch?v=qC0Ee4-dpnI
+**The Stone Roses (1989) - Debut Record** : Released on March 13, 1989, this self-titled debut is consistently ranked as one of the greatest British rock records ever. It was a seminal work of the Madchester movement. "one of the many singles from their self-titled debut record, which was released on March 13, 1989. It is still ranked as one of the greatest British rock records ever." ← https://www.youtube.com/watch?v=DSvoppf1dGY
+**The Stone Roses (1989) – Debut Album** : Released in May 1989, this self-titled debut established The Stone Roses as the biggest indie band in the UK at the beginning of the 1990s. It produced five major hit singles and was instrumental in the popularity of the "Madchester Sound." "Their self-titled debut record, which had come out in May of 1989, had given up five major hit singles." ← https://www.youtube.com/watch?v=huAvyInzz3Q
+
+## songs
+**Fools Gold (1989)** : This track is considered one of The Stone Roses' finest works, showcasing the dance groove established by Reni on drums and Mani on bass. Released in 1989, it embodies the band's distinctive sound. "From 1989, the Stone Roses with Fools Gold." ← https://www.youtube.com/watch?v=CVPPymc_qrk
+**She Bangs the Drums (1989)** : This was one of the singles from their self-titled debut record, released on March 13, 1989. It is representative of the Madchester sound. "Those are the stone roses with she bangs the drums." ← https://www.youtube.com/watch?v=DSvoppf1dGY
+
+## curiosities
+**Awesome Unit Together** : The Stone Roses were considered an "awesome unit" when they were together, implying a synergy that was lost upon their split. "The Stone Roses, an awesome unit when they were together." ← https://www.youtube.com/watch?v=-f9jhqAHkQo
+**Biggest UK Indie Band (Early 1990s)** : At the beginning of the 1990s, The Stone Roses were recognized as the biggest indie band in the UK. This status was largely driven by the success of their self-titled debut album and their association with the burgeoning Madchester scene. "At the beginning of the 1990s the biggest Indie band in the UK was the Stone Roses." ← https://www.youtube.com/watch?v=qC0Ee4-dpnI
+**British Airways Air Rage Conviction (February 13, 1998) – Sentenced to Four Months in Strangeways** : Ian Brown boarded British Airways Flight 1611 from Paris to Manchester on February 13, 1998. During the short flight, a dispute arose with flight attendant Christine Cooper when she made what Brown interpreted as a dismissive wave. Brown allegedly shouted at her and threatened to chop off her hands; when the pilot came out to investigate, Brown reportedly repeated the threat. He was also said to have banged on the cockpit door for 20 to 30 seconds during descent. When the plane landed, he was arrested and charged with air rage. At trial in October 1998, Brown's defense — that his remarks were jokes and he never banged on the door — was not believed. On October 23, 1998, he was sentenced to four months at Strangeways prison. Brown maintained he was made an example because of a timing coincidence with a genuine air rage case in Spain, and claimed racism as a factor. "Ian and his friends and supporters maintained that he was set up as an example." ← https://www.youtube.com/watch?v=fMVGuHjJp9U
+**Early Recognition** : The speaker recalled reading about The Stone Roses and immediately recognizing their potential to become a significant band. The radio station's staff enthusiastically supported their music, believing they were leading the culture in Toronto, Ontario, Western New York, and possibly beyond, particularly for British music. "I remember reading about the Happy Mondays and thinking, okay, this band is going to be something along with the stone roses and the charlatans." ← https://www.youtube.com/watch?v=4xxgPX-aR90
+**Holy Trinity of Madchester** : The Stone Roses were identified as one of the three bands that formed the "Holy Trinity of Madchester," alongside the Happy Mondays and Inspiral Carpets, representing the core of the scene's popularity. "Along with the carpets and the stone roses, the Mondays exemplified what madchester was all about." ← https://www.youtube.com/watch?v=q_Scyr2czh8
+**Influence on Oasis** : Oasis's music showed bits of The Stone Roses, indicating their influence on the Britpop band's sound. "There were bits of Beatles, it's a Bowie and T-Rex and the Jam and the Stones and the Stone Roses in there." ← https://www.youtube.com/watch?v=DSvoppf1dGY
+**Influential British Band** : Emerging from Britain in the late 1980s, The Stone Roses became one of the most popular and influential bands of their time. By 1988, they had developed a new sound that blended 60s pop, 60s psychedelia, and modern dance, perfectly fitting the era of rave and house music in the UK, especially with the popularity of ecstasy. "Out of all the bands to come out of Britain in the late 1980s, no one was more popular and influential than the Stone Roses." ← https://www.youtube.com/watch?v=CVPPymc_qrk
+**Label Issues and Inactivity** : By the time the Madchester scene was ending, The Stone Roses faced significant problems with their label, Silvertone, which resulted in them being "unable to get anything together" and ceasing to release new material for a period. "by this time the roses had gotten to their whole silver tone thing and they were unable to get anything together." ← https://www.youtube.com/watch?v=q_Scyr2czh8
+**Madchester Pioneers** : The Stone Roses were one of the key bands in the Madchester scene, contributing to its initial rise and popularity. "Along with the Stone Roses and the Happy Mondays and the Inspiral Carpets, we got the Charlotons and we got James and maybe it does another pretty good bands." ← https://www.youtube.com/watch?v=DSvoppf1dGY
+**Madchester Scene Decline** : The Stone Roses were a key band in the Madchester scene, which was described as "pretty much over" by the early 1990s, leaving a void in British music that Britpop would later fill. "The madchester scene featuring the stone roses and the happy Mondays was pretty much over." ← https://www.youtube.com/watch?v=5q5EnZj1FwE
+**Madchester Sound Pioneers** : The Stone Roses were a prominent band within the "Madchester sound," a genre that was described as "all the rage" and came to a climax with their Spike Island concert. "The Mad Chester sound featuring bands like the Roses and the Happy Mondays and the Charlotons and the Inspiral Carpets was all the rage" ← https://www.youtube.com/watch?v=qC0Ee4-dpnI
+**Manchester Scene Decline (Early 1990s)** : The Stone Roses were a prominent band in the Manchester scene, which was "pretty much over" by the early 1990s, contributing to a void in British music that allowed American grunge to gain traction. "The Manchester scene featuring the stone roses... was pretty much over." ← https://www.youtube.com/watch?v=vzyMSSlD7Yg
+**Paralysis by Legal Hassles** : The band's golden period was cut short after about 18 months, as they became paralyzed by legal hassles, contributing to the decline of the Madchester scene. "The Stone Roses were paralyzed by legal hassles." ← https://www.youtube.com/watch?v=DSvoppf1dGY
+**Refusal to Reunite for Recording** : The Stone Roses are highlighted as a band, alongside The Clash and The Smiths, that opted not to record new material even when offered multi-million dollars after their initial breakup. This serves as a parallel to Rage Against the Machine's post-reunion stance on new recordings. "Same with the Stone Roses. If they all did try to get back together and make the same kind of music they did when they were young angry men, what would the results be?" ← https://www.youtube.com/watch?v=t2uXHP9cBdM
+**Reni and Mani's Formation and Departure** : Reni, whose full name is Alan John Wren, joined the band as drummer in 1985. Mani, whose real name is Gary Mounfield, joined as bassist in 1987. They created rock grooves that aligned with the acid house sensibilities of the day. Reni was the first to leave the band in the 1990s as it disintegrated, largely remaining out of sight since, with rumors suggesting he switched to guitar for solo material. Mani later joined Primal Scream. "Rennie was the first guy to leave the band when things began to disintegrate in the 1990s." ← https://www.youtube.com/watch?v=CVPPymc_qrk
+**Reunion for Six Years (2011-2017)** : The Stone Roses reunited in 2011 and managed to maintain their reunion for six years, joining a significant wave of bands from various eras who got back together in the 21st century. This reunion trend was often driven by the financial opportunities presented by live touring amidst declining CD sales. "and even the stone roses managed to hold it together for six years starting in 2011." ← https://www.youtube.com/watch?v=GYUuTbOvyak
+**Solo Efforts Inferior to Band Output** : The individual solo careers of singer Ian Brown and guitarist John Squire were significantly less successful and impactful than the band's collective achievements, especially those from the early 1990s. This illustrates a case where "the whole is actually greater than the sum of its parts." "But when you split up singer Ian Brown and guitarist John Squire, again, not so much." ← https://www.youtube.com/watch?v=-f9jhqAHkQo
+**Spike Island Concert (May 27, 1990)** : This outdoor concert at Spike Island, a peninsula in the Mersey River surrounded by chemical factories and power plants on a reclaimed chemical dump, was proclaimed "the gig of the year" upon its announcement. Despite being considered an "average or even below average" performance by the band, who seemed nervous and tentative, it drew their largest crowd (28,000-30,000 people). The event became legendary because it was a pivotal "meeting of the minds" for "Madchester kids" and "rave kids," fostered by ecstasy, and was heavily hyped by the British music press as the start of the 90s. "The line they took was, the 90s begin now. Ain't it great?" ← https://www.youtube.com/watch?v=huAvyInzz3Q
+

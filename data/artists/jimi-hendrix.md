@@ -3,6 +3,10 @@
 ## member of
 - The Jimi Hendrix Experience
 
+## genres
+- metal
+- rock and roll
+
 ## concerts
 - Monterey Pop Festival (1967)
 - Monterey Pop Festival (Monterey)
@@ -13,6 +17,8 @@
 - Fender Stratocaster
 - Fender Stratocaster (signature model)
 - Fender Twin Reverb
+- Gibson Flying V
+- Gibson SG
 - Guitar
 - Lighter fluid
 - Match
@@ -25,8 +31,10 @@
 **Hey Joe (Year Unknown)** : This Jimi Hendrix song was covered by Patti Smith and featured on the A-side of her debut seven-inch single in 1974. ← https://www.youtube.com/watch?v=Z9T9wi0vEvc
 **Purple Haze** : A song by Jimi Hendrix that is famously prone to misheard lyrics. Many listeners incorrectly hear the line as "Excuse me while I kiss this guy" for generations. "How many people get it wrong with Jimmy Hendrix and Purple Hayes? What is he singing here? Excuse me, while I kiss this guy." ← https://www.youtube.com/watch?v=_YjwRApoJhA
 **Purple Haze (1967)** : Released in 1967, the opening of this iconic song is entirely built around the "devil's triad." Jimi Hendrix is specifically credited with bringing the tri tone to public attention through this track, contributing significantly to the proliferation of heavy distorted music in the 1960s and 70s. "But we also must credit Jimmy Hendrix for bringing the tri tone to our attention in 1967 with purple haze. The opening is all devil's triad." ← https://www.youtube.com/watch?v=41eKVp8JIhU
+**Purple Haze (Sky Arts Survey)** : Ranked at number 14 in the Sky Arts survey of greatest guitar riffs. It was noted as the only Jimi Hendrix song to appear in the top 20 of that particular survey. "The only Jimmy Hendrick song in the top 20 is purple haze number 14." ← https://www.youtube.com/watch?v=KtdIMNoHqA8
 
 ## curiosities
+**"Surround Windows" Request** : The only specific design request Jimi Hendrix made for Electric Lady Studios was for "surround windows," which were incorporated into the control room doors using a plasma cutter. "He only said one thing to me. He said, hey man, I want surround windows." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
 **Active Rock Radio Airplay** : This classic rock artist was played on active rock radio stations in the 2010s as an homage to traditional rock values, alongside new material. "They also played the homage to guns and rouses, NACDC and Led Zeppelin and Van Halen and Ozzy and Sabbath and Death Lepred and Jimmy Hendrix." ← https://www.youtube.com/watch?v=sOU54d8mr5k
 **Cherokee Ancestry** : Jimi Hendrix's mother was one-quarter Cherokee, which means Jimi himself had one-eighth Cherokee heritage. "Jimmy Hendrix's mother, one quarter Cherokee that made him, what, one eighth?" ← https://www.youtube.com/watch?v=YFv6Ln00XjA
 **Collectible Records** : Jimi Hendrix is mentioned as an artist whose records are among the most valuable and collectible. "Beyond that, we have more Beatles, more Quarryman, some Rolling Stones, Jimmy Hendrix, Michael Jackson demonstration CD, more acetates from Pink Floyd, with drawing Bob Dylan album." ← https://www.youtube.com/watch?v=IIJySSo276k
@@ -36,14 +44,19 @@
 **Early Career - Tommy Ramone's Connection** : Tommy (Ramone), who later became the drummer for The Ramones, was a recording engineer who had previously worked with Jimi Hendrix. "And their manager, Tommy, a recording engineer who once worked with Jimmy Hendrix, took over on drums." ← https://www.youtube.com/watch?v=VYi3r0G-ne4
 **Featured in Apple Commercials** : Jimi Hendrix's music has been part of Apple's iconic TV commercial campaigns, showcasing the company's strategy of incorporating renowned artists' songs into their advertisements for products such as the iPod and iPhone. ← https://www.youtube.com/watch?v=sfie4YYncxk
 **Giant of Rock Music** : Jimi Hendrix is recognized as one of the significant figures in the broader landscape of rock music. "Where would we be with a bow diddly and little Richard and Jimmy Hendrix?" ← https://www.youtube.com/watch?v=PdCAjFW04Oc
+**High Studio Spending** : In 1969, Jimi Hendrix was incurring "insane" studio costs of $200,000 annually, which served as a major impetus for him to build his own recording facility. "Do you know how much Jimmy was spending in 1969 dollars? 200,000 a year, which was an insane amount because he was always in the studio recording." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
 **Iconic Guitar Pyrotechnics** : In 1967, at the Monterey Pop Festival, Jimi Hendrix concluded his set by setting his guitar on fire using lighter fluid and a match, before then breaking it into pieces. This act became one of the most memorable moments in rock history for its dramatic and destructive artistry. "In 1967, Jimmy Hendrix set his guitar on fire at the end of his set at the Monterey Pop Festival, a little lighter fluid, a match, and boom!" ← https://www.youtube.com/watch?v=yPok3MemDmE
 **Iconic Monterey Performance** : Jimi Hendrix famously set a Fender Stratocaster on fire during his performance at the Monterey festival, an act that became one of the most iconic moments in rock history. "That guitar, Jimmy Hendrix set on fire at Monterey, a Strat..." ← https://www.youtube.com/watch?v=E6cXyaHALBQ
 **Influence on Daniel Lanois** : Jimi Hendrix was a significant influence on Daniel Lanois, particularly in his passion for the guitar. "Daniel got deep into music, especially the guitar and especially Jimmy Hendrix by the way." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
 **Influence on Jeff Buckley** : Jimi Hendrix was one of the artists that Jeff Buckley's stepfather introduced him to. "Jimmy Hendrix." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
+**Influence on Metal and Rock** : Jimi Hendrix is mentioned as one of the "black guys" to whom metal music "owed a big debt" in the 1980s, highlighting the foundational contributions of black artists to the development of rock and roll and its subgenres. "even though metal owed a big debt to black guys like Jimmy Hendrix and Phil Linatov, then Lizzie." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE
 **Live Recording Sampled by Beastie Boys** : A "quick squawk" from a live Jimi Hendrix recording from 1969 was sampled and used in the Beastie Boys' 1992 song "Pass the Mic." This illustrates the use of live performance snippets in sampling, adding dynamic and recognizable elements to new compositions. "After a quick squawk from alive Jimmy Hendrix recording from 1969, we end up at a sample of a 1970 track called I Walk on Gilded Splinters from Johnny Jenkins at around the three minute and fifteen second market of the song." ← https://www.youtube.com/watch?v=r8AazBVoS7g
 **Most Famous Black Solo Rock Performer** : Among black solo performers in rock, Jimi Hendrix is highlighted as the most renowned. "Jimmy Hendrix is the most famous." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 **Multiple Stories of Wah Pedal Acquisition** : There are several anecdotes regarding how Jimi Hendrix acquired his Vox wah-wah pedal. One story suggests he bought it from Manny's Music in New York and accidentally discovered its technology. Another claims Frank Zappa gave him his pedal after Hendrix saw Zappa use one. A third says his bass player, Noel Redding, was shown the pedal in a London music store and invited Hendrix to listen. "It is said that Jimmy bought his, a unit made by Vox, the company whose supply and amplifiers to the Beatles and accidentally discovered the technology, from Manny's music on West 48th Street in New York earlier that year." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ
 **Musical Exposure** : Lenny Kravitz was exposed to Jimi Hendrix's music during his formative years, alongside various other rock and jazz artists. "But along with jazz and classical, he was exposed to the who and Led Zeppelin, KISS, and Pink Floyd and Jimmy Hendrix in the Rolling Stones." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 **Pioneer of Wah-Wah Pedal on Record** : Jimi Hendrix was one of the first, if not *the* first, artists to incorporate the wah-wah pedal into his sound, particularly on record. While Eric Clapton also used it around the same time on "Tales of Brave Ulysses," Hendrix's "Burning the Midnight Lamp" (a B-side) was released within days of Clapton's track in the spring of 1967, marking a pivotal moment in guitar effects. "Jimmy was right there when the wall-watt pedal came in in 1967." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ
+**Purchase of Generation Nightclub** : In 1969, Jimi Hendrix purchased the Generation Nightclub, a venue he enjoyed for jamming, with the intention of converting it into his personal recording studio. "In 1969, Jimmy bought a nightclub, which is a place he loved to jam in. It's called the Generation Nightclub." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
 **UK Breakout Precedent** : Jimi Hendrix, originally from Seattle, became a sensation in the UK in the 1960s long before breaking out in America. This historical precedent inspired Subpop record label owners to try a similar strategy for their grunge bands like Nirvana. "See Jimmy was from Seattle too, but back in the 1960s, he became a sensation in the UK long before he broke an America." ← https://www.youtube.com/watch?v=DSvoppf1dGY
+**Vision for Electric Lady Studios** : Hendrix initially expressed a desire to install a "little 28 tracks" in a corner of the nightclub, which his producer Eddie Kramer understood as the need for a comprehensive studio given Hendrix's substantial recording expenses at the time. "Hey, when you come down and we want you to see this place because Jimmy wants to put a little 28 tracks to the end of the back corner." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
+**Work at Olympic Studios** : Jimi Hendrix recorded at Olympic Studios, a prominent London recording facility. "Jimmy Hendrix also worked here." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
 

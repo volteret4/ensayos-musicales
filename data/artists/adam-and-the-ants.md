@@ -4,6 +4,7 @@
 - Kevin Mooney
 
 ## genres
+- New Romantic
 - New Romanticism
 - New Wave
 

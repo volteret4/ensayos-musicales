@@ -1,6 +1,7 @@
 # artist - Elvis
 
 ## genres
+- R&B
 - Rock and Roll
 
 ## songs
@@ -9,6 +10,8 @@
 ## curiosities
 **Addiction Parallels** : Hugh Dillon drew a comparison between his own extreme pain and the struggles of Elvis or Jim Morrison, indicating that his addiction had driven him to a point where his next step was "not living." "It's like Elvis or Jim Morrison. It was, you know, my next step was not living." ← https://www.youtube.com/watch?v=zBd13KtYlAA
 **Appearance and Impact (1950s)** : Elvis came along in the 1950s, captivating millions of post-war kids, who were then emerging as "teenagers." His music, a blend of blues, country, and R&B, was played on new radio stations and greatly annoyed their parents, which made it dangerous, forbidden, and therefore very attractive to the youth. "Elvis came along in the 1950s, just as millions of post-war kids, these new constructs that were now being called teenagers, began gravitating to new radio stations that played music derived from a mix of the blues, country and R&B." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
+**Army Service** : Elvis went into the army, which created a temporary void in the music scene. "There's a law when Elvis goes into the army but is soon filled by the Beach Boys and Songs about California and surfing." ← https://www.youtube.com/watch?v=pLf3kUONewg
+**Early Rock and Roll Pioneer** : Elvis contributed to the merge of R&B and several other genres that led to rock and roll in the 1950s. "Rock and Roll begins in the 1950s when R&B and several other genres merge, thanks to Elvis, Chuck Berry, and Little Richard." ← https://www.youtube.com/watch?v=pLf3kUONewg
 **Faked Death Theory** : Similar to Jim Morrison, a theory exists that Elvis faked his own death. The FBI is even said to possess a 663-page report on this subject. "same with Elvis. In fact, the FBI is said to have a 663-page report on the subject." ← https://www.youtube.com/watch?v=pmKjZzypzvg
 **Impact on Rock's Momentum** : Elvis is cited as one of the key figures whose emergence, alongside Little Richard and Jerry Lee Lewis, made rock music unstoppable. Despite widespread criticism, record burnings, and attempts by authorities to crack down on the genre, rock solidified its presence in music following his rise. "None of this actually slowed anything down, of course. We got Elvis, then Little Richard, then Jerry Lee Lewis. And then after that, the Beatles." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
 **Influence on The Black Keys** : Elvis was one of the favorite artists that inspired the short hooks used in the composition of songs for The Black Keys' *El Camino* album, indicating a classic rock and roll influence. "and Elvis". ← https://www.youtube.com/watch?v=PmwfC4HR3_I

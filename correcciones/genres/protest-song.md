@@ -1,0 +1,11 @@
+# genre - Protest Song
+
+## curiosities
+**Definition and Impact** : A protest song is defined as music that aims to encourage political and social change. When executed effectively and under the right circumstances, such a song can empower and mobilize people to take action, uplift spirits, and even provoke or intimidate established authorities. "Its music that encourages political and social change, and if done right and if circumstances are correct, the song can mobilize people to take action, it can lift spirits, and it can annoy or even scare authorities of the establishment." ← https://www.youtube.com/watch?v=0ARYt4sYT90
+**Diverse Forms and Targets** : Protest music manifests across a wide spectrum of genres, including classical, folk, reggae, pop, hip hop, and rock. These songs frequently rail against war, demand social justice, challenge politicians, and advocate for greater rights for women, minorities, labor groups, and the marginalized. "It can rail against war, demand social justice, collod politicians, and petition for greater rights for women, minorities, labor, and the marginalized." ← https://www.youtube.com/watch?v=0ARYt4sYT90
+**Musicians as Thought Leaders** : The singers and musicians behind protest music are often regarded as thought leaders, social influencers, and, at least for a period, even prophets. Their art gives voice to dissent and aspirations for a better society. "The singers and musicians behind this music may be regarded as thought leaders, social influencers, and even profits, at least for a time." ← https://www.youtube.com/watch?v=0ARYt4sYT90
+
+## artists
+- Buffy Sainte-Marie
+- Snotty Nose Rez Kids
+

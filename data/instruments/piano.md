@@ -35,6 +35,7 @@
 - Matt Bellamy
 - Pinedop Smith
 - Ray Davies
+- Sarah McLachlan
 - Tim Rice-Oxley
 - Topper Headon
 - Tori Amos

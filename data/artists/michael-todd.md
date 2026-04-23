@@ -1,5 +1,8 @@
 # artist - Michael Todd
 
+## member of
+- Coheed and Cambria
+
 ## instruments
 - Bass
 

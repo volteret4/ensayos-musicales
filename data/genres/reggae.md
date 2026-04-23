@@ -13,13 +13,18 @@
 **Influence on British Bassists** : The deep, fat, and warm bass grooves originating from New Jamaican immigrants significantly influenced British bassists like Paul Simmonon of The Clash. "He'd been absorbing the deep bass sounds he heard coming from the windows of New Jamaican immigrants. It was fat and warm and had a groove unlike anything that came out of Britain." ← https://www.youtube.com/watch?v=kbFfT0pKchI
 **Influence on Public Image Limited** : Johnny Lydon deeply incorporated reggae influences into the experimental sound of Public Image Limited. "He got deep into reggae and dub." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
 **Influence on The Police** : The Police incorporated elements of reggae into their short, tight pop songs, contributing to their edgy and distinct sound, which was characterized as New Wave. "Another important group was the police, two Englishmen and an American who played short, tight pop songs with a bit of reggae and scoff layer." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
+**Introduced to Punks by Don Letts** : In the 1970s, Don Letts, a DJ, played a crucial role in introducing reggae music to a new generation of punk kids in clubs. With few punk records available at the time, Jamaican music, including reggae, served as the initial soundtrack for the burgeoning punk scene. "He was the DJ who introduced reggae and dub to a new generation of these punk kids in the 1970s in clubs where they hung out. See, there were no punk records yet, so that music, Jamaican music, dub music, black music became theirs until they had some punk records to listen to." ← https://www.youtube.com/watch?v=_1NNvxgx8uA
 **Les Paul Guitar's Versatility** : The Gibson Les Paul guitar has been continuously in production since its 1952 introduction and is widely used across virtually every genre, including reggae. Its solid-body design resolved feedback issues common with older hollow-body guitars, making it ideal for amplified reggae music. "The Les Paul has been in production ever since, and has been used by guitars into rock, punk, metal, pop, country, soul, R&B, jazz, reggae, and virtually every other genre you want to mention." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
+**Pet Preference (Dogs)** : Based on research from the University of Glasgow, reggae music is identified as the best possible music for dogs because it closely matches their resting heartbeat. "The best possible music for your dog is reggae." ← https://www.youtube.com/watch?v=KtdIMNoHqA8
+**Rastafarian Marijuana Use** : Rastafarians utilize marijuana for spiritual purposes. "For example, Rastafferians use marijuana for spiritual reasons." ← https://www.youtube.com/watch?v=i5lR8zz7_ZE
+**Shared Skinhead and Swadehed Interest** : Reggae music was a shared musical interest between the skinhead movement and the Swadeheds, reflecting a broader appreciation for specific genres within these British subcultures. "but they also shared a skinhead interest in soul, reggae, and sky." ← https://www.youtube.com/watch?v=mAlc-N2wn5s
 
 ## artists
 - Bad Brains
 - Bob Marley
 - D.H. Peligro
 - Don Letts
+- Dread Zeppelin
 - Gorillaz
 - Grace Jones
 - Jimmy Cliff

@@ -15,6 +15,7 @@
 
 ## songs
 **Dancing with Myself (1980)** : The original version of this "dancing, poppy punk song" was first performed and released by Billy Idol as part of Generation X (known as Gen X at the time) in the fall of 1980. He later remixed and re-released the song when he embarked on his solo career. "The original version of Dancing with Myself, Billy Idol did it first when he was part of Generation X, although they were known as Gen X by the time that song came out in the fall of 1980." ← https://www.youtube.com/watch?v=tZV1lz-obQE
+**The Lig Idol (1983)** : This song, released in 1983, featured a rhythm track supplied by a LinnDrum, an electronic device invented by Roger Linn that uses real drum samples. Its appearance on the song was considered radical at the time, indicating that Billy's drummer could take the day off and introducing brand new sounds and beats that would revolutionize music. "The Lig Idol from 1983 with a rhythm track supplied by a Linn drum, an electronic device invented by Roger Linn that uses real drum samples in its programming." ← https://www.youtube.com/watch?v=dablAKDOOV0
 
 ## curiosities
 **Grizzled Veteran Participant** : Billy Idol was listed as one of the "seriously grizzled veterans" who joined the Warped Tour over the years. "Billy Eidl." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4

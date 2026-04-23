@@ -1,0 +1,16 @@
+# label - Warner Brothers
+
+## curiosities
+**Acquisition of Sire Records (1978)** : Warner Brothers acquired Sire Records in 1978, incorporating the formerly independent label into a major label operation. This acquisition included artists signed to Sire at the time, such as the Talking Heads. "But when Sire was acquired by Warner Brothers in 1978, they became part of a major label operation." ← https://www.youtube.com/watch?v=dDcD8kg0wEk
+**Largest Record Company in 1988** : In 1988, Warner Brothers was considered the largest record company in the world, and it was to this major label that R.E.M. transitioned from their indie label IRS. "Then in 1988, the group accepted an offer to jump from IRS. Their indie label, the one they'd been with from the beginning, to Warner Brothers, the largest record company in the world at the time." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
+**Rob Cavallo's Pivotal Role in Signing Green Day** : Rob Cavallo, a representative for Warner Brothers, played a crucial role in signing Green Day to the label. Cavallo had a strong history of success, including helping to launch The Goo Goo Dolls, and his father had managed prominent groups such as The Lovin' Spoonful and Earth Wind & Fire. He famously signed Green Day for $300,000 without ever having seen them perform live. "But then a Warner Brothers rep named Rob Covello started some hard lobbying. He also had a pretty good track record." ← https://www.youtube.com/watch?v=nyfdGYWelic
+**Signing of Linkin Park** : Warner Brothers eventually signed Linkin Park on their fourth attempt, despite the band having been rejected about four dozen times by various labels. Most within the label, apart from one persistent advocate, held low expectations for the band's potential success. "They were finally signed to Warner Brothers on their fourth try. They had been rejected three times, fourth try, they got in. No one at the label, with the exception of the guy who successfully begged his bosses to give the band a contract, thought that Lincoln Park would amount to anything." ← https://www.youtube.com/watch?v=7dXtgTkdv9w
+**Strategic Major Label Distribution for Indie Bands** : Warner Brothers, a major label, engaged in a unique partnership with Rancid, an Epitaph band, by agreeing to distribute and "stealthily promote" their records. This allowed Rancid to maintain their punk rock ethics by staying with an indie label while benefiting from a major's reach. "but they agreed to have their epitaph records distributed and stealthily promoted by Warner Brothers, one of the majors." ← https://www.youtube.com/watch?v=gkLMwrthZ9s
+
+## artists
+- Green Day
+- Linkin Park
+- R.E.M.
+- Rancid
+- Talking Heads
+

@@ -1,0 +1,14 @@
+# artist - Sinéad O'Connor
+
+## albums
+**I Do Not Want What I Haven't Got (1991) - First Alternative Album Grammy Winner** : Sinéad O'Connor's album "I Do Not Want What I Haven't Got" won the very first Grammy Award in the "Alternative Album" category in 1991. This victory solidified her place in alternative music history and marked a new era for Grammy recognition of the genre. "And the winner was Shanato Conner for her I do not want what I haven't got album." ← https://www.youtube.com/watch?v=gP3oQeYEvso
+
+## songs
+**Black Boys on Mopeds** : This song by Sinéad O'Connor directly addresses both racism and the policies of Margaret Thatcher. "Shenato Conner's Black Boys and Moe Peds is about racism and market thatcher." ← https://www.youtube.com/watch?v=0ARYt4sYT90
+**I Am Stretched on Your Grave (1990)** : This Grammy Award-winning song from 1990 features an entire drum part adapted from Clyde Stubblefield's break in James Brown's 1969 song "Funky Drummer," forming its rhythmic basis. The lyrics of the song are derived from an anonymous Irish poem written in the 17th century. "And the entire drum part was adapted from Clyde's Stubblefields bit in the James Brown's song Funky Drummer from 1969." ← https://www.youtube.com/watch?v=VnXBJqKwkrw
+
+## curiosities
+**Death (July 26, 2023) – Found Unresponsive in London Apartment; Coroner Ruled Natural Causes in January 2024** : Sinéad O'Connor led a troubled life with both physical and mental health struggles from the beginning. During her career she became an icon for refusing to bend to anyone or anything, always doing everything her own way. She survived multiple suicide attempts over the years, and friends and followers were regularly concerned about her well-being. She was found unresponsive in her London apartment on July 26, 2023, and was declared dead at the scene. In January 2024, the Coroner's report determined she died of natural causes — nothing suspicious, case closed. Her first two albums are considered stone-cold classics. "She became an icon as someone who refused to bend and insisted on doing everything and I mean everything her way." ← https://www.youtube.com/watch?v=-JPLLJyOid8
+**Early Encounter (1987)** : The speaker first met Sinéad O'Connor in 1987 when she was 19, describing her as a "little girl" but with an undeniable presence that indicated "you did not want to mess with her." "I met her for the first time in 1987, which she was 19. This little girl who came into the studio, but you could tell that you did not want to mess with her." ← https://www.youtube.com/watch?v=4xxgPX-aR90
+**Emotionally Impactful Episode** : An episode about Sinéad O'Connor, referred to as a "re-memoration," was particularly difficult for the speaker to produce due to a personal connection, and it continues to resonate powerfully. "So yeah, the Schneider Conner one was tough because I've been following her career." ← https://www.youtube.com/watch?v=4xxgPX-aR90
+

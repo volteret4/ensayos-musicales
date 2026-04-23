@@ -1,0 +1,7 @@
+# artist - Roger Linn
+
+## curiosities
+**Collaboration with Steve Porcaro and Art Wood** : Following suggestions from Steve Porcaro, the keyboardist of Toto, Linn enlisted studio drummer Art Wood to record drum samples for the LM-1. Wood was placed in a closet at Linn's house and tasked with repeatedly hitting various parts of his drum kit. "Following some suggestions by Steve Becaro, the keyboardist in the band Toto, he brought in a studio drummer named Art Wood." ← https://www.youtube.com/watch?v=dablAKDOOV0
+**Innovations in LM-1 Design** : Linn integrated controls into the LM-1 for changing the pitch of each sound and delaying notes to mimic human swing or shuffle beats. He also accidentally introduced the concept of quantization, which automatically corrects beats to perfect time. "Lynn also added a control that allowed the operator to delay a note by a fraction of a second, which mimicked how human drummers might play with a swing or a shuffle beat." ← https://www.youtube.com/watch?v=dablAKDOOV0
+**Pioneer of Drum Sampling (1980)** : Roger Linn revolutionized drum machines by moving away from drum synthesis to digital samples of real drums. In 1980, he released the Linn LM-1 Drum Computer, the first drum machine to incorporate this technology. "Lynn moved away from drum synthesis to drum samples. He wanted drums, damn it. Not something that sounded like a bunch of crickets." ← https://www.youtube.com/watch?v=dablAKDOOV0
+

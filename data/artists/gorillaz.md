@@ -6,7 +6,9 @@
 - Jamie Hewlett
 - Murdoc Niccals
 - Noodle
+- Remi Kabaka Jr. (real person behind Russell Hobbs)
 - Russell Hobbs
+- Russell Hobbs (virtual character)
 
 ## genres
 - Alt Rock
@@ -34,6 +36,7 @@
 - World Tour (2010)
 
 ## instruments
+- Drums
 - iPad (used for album recording)
 
 ## albums
@@ -78,6 +81,7 @@
 **Phase 2: Slowboat to Hades** : This era followed the debut album, with the band's website shutting down for nearly a year and Kong Studios appearing abandoned, guided by a robot. It concluded after the release and success of the "Demon Days" album. "After shutting down the website for what must have been close to a year, you could still go there, but Kong Studios was closed." ← https://www.youtube.com/watch?v=iVdTCqpd798
 **Phase 3: Escape to Plastic Beach** : This era was associated with the "Plastic Beach" album. The Gorillaz headquarters became "Plastic Island" in the Pacific Trash Vortex, modeled after Tracy Island from "Thunderbirds," and the website offered a virtual tour of this island. "Plastic Island was the new Gorillas headquarters. It was out in the middle of the Pacific Trash Vortex." ← https://www.youtube.com/watch?v=iVdTCqpd798
 **Phase 4: Humans After All** : This era followed the "Plastic Beach" period and included the release of "The Fall" album. "And after Resolve done, it was Time 4 Phase 4, which was called Humans After All." ← https://www.youtube.com/watch?v=iVdTCqpd798
+**Real Person Behind Virtual Character** : While Russell Hobbs is a virtual character in the band Gorillaz, he is embodied by a real black man named Remi Kabaka Jr., who has served as the band's drummer and producer since 2016. "Russell Hobbs of Gorillaz? Yeah, he's a virtual character, but behind him is a real black man named Remi Kakaba Jr. He's been the band's drummer and producer since 2016." ← https://www.youtube.com/watch?v=_1NNvxgx8uA
 **Search for a Star Contest** : A talent contest launched during the "Demon Days" era, inviting global entries of minute-long audio, video, or image files. The prize was a chance to collaborate with the band and have a virtual room in Kong Studios. While the virtual room never happened, collaborations, such as for the song "Kids With Guns," did occur. "The prize was a chance to collaborate with the band and have your own virtual room inside Kong Studios." ← https://www.youtube.com/watch?v=iVdTCqpd798
 **Successful Collaboration (Pre-2005)** : Created by Damon Albarn and comic book artist Jamie Hewlett, the band was "selling lots of records" by spring 2005, contributing to the rock renaissance. "Damon Alburn had left blur behind and had created gorillas with comic book artist Jimmy Hewlett. They were selling lots of records." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
 **Touring Challenges as a Virtual Band** : The nature of Gorillaz as a virtual band made conventional touring difficult and expensive, which could have negatively impacted their overall success. "And being a virtual band, it was difficult and expensive for the band to tour in a conventional way which could have impacted things." ← https://www.youtube.com/watch?v=Z7glrAoXtkA

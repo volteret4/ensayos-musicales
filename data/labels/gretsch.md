@@ -1,0 +1,8 @@
+# label - Gretsch
+
+## curiosities
+**Beatles Boost (1964)** : Following George Harrison's performance with a Gretsch Chet Atkins Country Gentleman on The Ed Sullivan Show in February 1964, orders for Gretsch guitars surged, with production increasing from 5,000 to 13,000 units annually. "And again, after that broadcast, orders for those guitars blew up." ← https://www.youtube.com/watch?v=d9HNqb9gJSU
+**Breakthrough with Duo Jet (1953)** : Gretsch's breakthrough came in 1953 with the Duo Jet, a guitar featuring a semi-hollow body construction and internal sound chambers, which produced a distinct sound unlike those from Gibson, Epiphone, or Fender. "But the Gretch guitar that broke through came in 1953 and was called the duo jet." ← https://www.youtube.com/watch?v=d9HNqb9gJSU
+**Company History and Instrument Range** : Gretsch, a musical instrument manufacturer, originated in a Brooklyn factory in 1883 with German immigrant Friedrich Gretsch crafting banjos, drums, and tambourines. Under his son's leadership, Spanish guitars were added to their product line. "Friedrich Gresh, a German immigrant, began by crafting banjos and drums and tambourines." ← https://www.youtube.com/watch?v=d9HNqb9gJSU
+**Country and Rockabilly Popularity** : Initially popular among country players, particularly through endorsement by fingerpicker Chet Atkins who favored the 6120 model, Gretsch guitars later found widespread use among rockabilly artists and the burgeoning rock and roll scene of the late 1950s. "At first, Gretch was big with country players. Gretch, Chad Atkins, a great finger picker, became an endorser for Gretch and loved a model called the 6120." ← https://www.youtube.com/watch?v=d9HNqb9gJSU
+

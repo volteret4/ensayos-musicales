@@ -6,6 +6,7 @@
 - Red Hot Chili Peppers
 
 ## instruments
+- Ibanez custom
 - Marshall amplifier
 
 ## curiosities

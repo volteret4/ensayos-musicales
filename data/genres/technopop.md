@@ -38,6 +38,7 @@
 - Eurythmics
 - Gary Numan
 - Information Society
+- Klaus Nomi
 - Kon Kan
 - Kraftwerk
 - Men Without Hats

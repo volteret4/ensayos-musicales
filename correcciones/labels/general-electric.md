@@ -1,0 +1,9 @@
+# label - General Electric
+
+## curiosities
+**Co-development of the First Speaker** : In 1921, General Electric collaborated with AT&T on a project that led to the creation of the first speaker, a paper coil device capable of reproducing sound. This invention was crucial for the development of amplified sound. "And that happened in 1921, when a co-development project between General Electric and AT&T resulted in the first speaker, a paper call that reproduced sound." ← https://www.youtube.com/watch?v=E6cXyaHALBQ
+**Parent Company of NBC and Censorship Allegations** : General Electric was identified as the parent company of NBC, which hosted Saturday Night Live. Rage Against the Machine accused GE and NBC of censorship after they were quickly removed from the show due to an on-stage protest and rumored plans by Zach de la Rocha to denounce GE as a manufacturer of weapons and perpetrator of war crimes during the First Gulf War. "he was rumored that Zach was going to call out General Electric, the parent company of NBC, as manufacturers of weapons and perpetrators of war crimes in the first Gulf War." ← https://www.youtube.com/watch?v=t2uXHP9cBdM
+
+## artists
+- Rage Against the Machine
+

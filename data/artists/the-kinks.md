@@ -7,12 +7,18 @@
 ## genres
 - Garage Rock
 - Mod
+- R&B
+
+## instruments
+- Gibson Flying V
+- Vox products
 
 ## songs
 **You Really Got Me** : Two months before The Beatles' "I Feel Fine" was recorded, The Kinks were working at IBC Studios in London. Frustrated with not achieving the desired sound for a song Ray Davies had written on piano, his brother Dave Davies took a razor blade to the speaker cone of his Vox Elpico amp and poked holes in it with a pin. This deliberate damage created a cool, distorted sound that became iconic for the track. "But not before Brother Dave Davies hacked up the speaker code of his Vox Elpico amp with a razor blade and poking some holes in it with a pin for good measure." ← https://www.youtube.com/watch?v=iGav9uJwA_w
 **You Really Got Me (1964) - Alleged Unintentional F-Bomb** : During a take for the 1964 song "You Really Got Me," there was apparently some anger in the studio. Dave Davies is alleged to have uttered an F-word under his breath just before the guitar solo, making it a debated instance of an unintentional expletive on record. "Apparently, there was some anger in the studio during the take that resulted in that record." ← https://www.youtube.com/watch?v=gP3oQeYEvso
 
 ## curiosities
+**Early R&B Exploration** : The Kinks were among the British bands in the 1960s who ventured into playing R&B, a style that became part of the Mod culture's evolving musical preferences. "Then British bands trying their handed R&B, like the Rolling Stones and the Yard Birds and the Kinks, and especially the Who." ← https://www.youtube.com/watch?v=mAlc-N2wn5s
 **Following Sgt. Pepper's Lead & 70s Golden Age** : The Kinks were among the bands that got into the act of creating concept albums after the release of The Beatles' *Sgt. Pepper's Lonely Hearts Club Band*, and were also mentioned as a prominent act during the golden age of the concept album in the 1970s. "That opened the floodgates, the moody blues, the who, Frank Zappa, the kinks, and a bunch of other bands got into the act." ← https://www.youtube.com/watch?v=Dm5N6yDRxXQ
 **Mod Culture Influence** : The Kinks were an influential local band whose music resonated strongly with the Mod youth cult in mid-1960s Britain. "locally the Who and the Kinks in the Small Faces." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM
 **Mod Revival Inspiration** : The Kinks were one of Paul Weller's favorite bands, significantly influencing his deep fascination with the original Mods and his subsequent leadership of The Jam's Mod revival. "Leader Paul Weller had always been fascinated by the original mods and his favorite bands became the Kinks in the Who." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM

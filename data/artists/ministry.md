@@ -7,6 +7,8 @@
 - Al Jourgensen (frontman)
 - Alan Jorgensen
 - John Bechtel (touring keyboard player)
+- Paul Barker
+- William Rieflin
 
 ## genres
 - Alternative
@@ -54,6 +56,7 @@
 **Musical Evolution** : Ministry began as a lightweight technopop band, transitioned through a distinct, though brief (a couple of years), Goth stage, and then evolved into one of the heaviest industrial bands. "They started out as a distinctly lightweight technopop band and went through a distinct Goth stage before becoming one of the heaviest industrial bands around." ← https://www.youtube.com/watch?v=evlGhfUe6QQ
 **Pivot to Goth** : Alan Jorgensen pivoted his band Ministry from a light technopop sound to something very gothic, exemplified by their goth anthem "Everyday Is Halloween." "Alan Jorgensen pivoted his band ministry from being a light technopop band to something very Gothic, releasing every day as Halloween, a Goth anthem." ← https://www.youtube.com/watch?v=XaLsZFLrMnI
 **Post-Grunge Era Presence** : Ministry was an act that retained a place on alternative playlists during a period when guitar music, particularly grunge, became the dominant sound, showing that industrial and other genres still found an audience. "Yes, there were still acts like the Beastie Boys and the Chili Peppers and Ministry and Alannis Moore said, but the primary focus remained guitar music." ← https://www.youtube.com/watch?v=2wZydttn4Cs
+**Side Project 1000 Homo DJs** : Ministry's Al Jourgensen initiated a side project called 1000 Homo DJs to release some of Ministry's outtakes. This project utilized fake names for all contributing members, including Jourgensen (Lux/Buck Satan), his songwriting partner Paul Barker (Pan/Officer Aggro), and drummer William Rieflin (We Willy Riefer), and even featured uncredited vocals from Trent Reznor. "He started a goofy side project called 1000 Home Old DJs as a way of releasing some ministry outtakes while keeping things separate from his main band." ← https://www.youtube.com/watch?v=itK5fEqnA5E
 **Sympathy for Trent Reznor** : Al Jourgensen was very sympathetic to Trent Reznor's contract situation with TVT Records, which led to their collaboration on the 1000 Homo DJs project. "Al Jorrenson was very sympathetic to Trent's situation." ← https://www.youtube.com/watch?v=DKdF8NgF5Bw
 **The Matrix Soundtrack Contribution (1999)** : Ministry was featured on the first *Matrix* soundtrack, released in 1999. The album was characterized by "really cool heavy stuff," including contributions from other heavy acts like Marilyn Manson, The Prodigy, Rammstein, and Rage Against the Machine. "It was some really cool heavy stuff, Marilyn Manson, Ministry of the Prodigy, Ramstein, Rage Against the Machine." ← https://www.youtube.com/watch?v=zIkjd1OjCXM
 

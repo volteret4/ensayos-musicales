@@ -5,4 +5,5 @@
 
 ## artists
 - David Bowie
+- Living Colour
 

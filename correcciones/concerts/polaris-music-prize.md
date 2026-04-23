@@ -1,0 +1,5 @@
+# concert - Polaris Music Prize
+
+## curiosities
+**Establishment and Purpose (2006)** : The Polaris Music Prize was established in Canada in 2006, mirroring international awards like Scandinavia's Polar Music Prize and the UK's Mercury Prize. Its goal is to identify the "best album of the year" without considering genre or commercial success, aiming for a true meritocracy focused solely on musical merit. A jury of music professionals outside the label system nominates hundreds of albums, which are then narrowed down to a long list of 40, then a short list of 10. In September, a sequestered jury determines the winner, who receives $50,000, while short-listed artists get $3,000. It intentionally generates controversy and encourages listeners to discover new music. "Since 2006, we've had the Polaris music prize in Canada. The goal of each of these music prizes is to determine the best album of the year without any regard to genre or commercial success." ← https://www.youtube.com/watch?v=ZzIqIydZTlA
+

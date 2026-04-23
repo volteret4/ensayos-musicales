@@ -3,3 +3,6 @@
 ## members
 - Ian Anderson
 
+## instruments
+- Hiwatt
+

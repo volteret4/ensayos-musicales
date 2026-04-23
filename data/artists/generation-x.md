@@ -8,6 +8,8 @@
 
 ## genres
 - Pop Punk
+- Post-Punk
+- Punk
 
 ## concerts
 - **Dingwalls (July 6th, 1976, London)** : Generation X, with a young Billy Idol among its members, attended this Ramones concert, drawing inspiration that would significantly contribute to the British punk rock movement. "Generation X featuring a very young Billy Idol."
@@ -19,4 +21,5 @@
 
 ## curiosities
 **Billy Idol Witnesses The Ramones (July 4, 1976)** : A "very young Billy Isle" (Idol), then part of Generation X, was present at The Ramones' influential gig at the Roundhouse in London on July 4, 1976. He was among the many future British punk figures who were "transformed by what they saw and heard." "Generation X featuring a very young Billy Isle. They were all at these gigs and they were all transformed by what they saw and heard." ← https://www.youtube.com/watch?v=huAvyInzz3Q
+**Recording at Wessex Studios** : Generation X recorded at Wessex Studios, an old church hall in North London that attracted many punk and post-punk bands for its distinctive live sound. "A lot of punk bands and post punk bands, like using the place, the clash and the damned and suzy and the banshees and the pretenders and the specials and generation X and the sex pistols." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
 

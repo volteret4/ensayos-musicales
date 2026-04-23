@@ -1,0 +1,7 @@
+# label - Recording Industry Association of America (RIAA)
+
+## curiosities
+**Formalization of Gold Records (1958)** : In 1958, the RIAA formalized its award system, announcing that any single or album achieving over one million dollars in sales (not copies) in the United States would be certified as a gold record. This applied specifically to sales within the US. "In 1958, the Recording Industry Association of America decided to formalize everything." ← https://www.youtube.com/watch?v=gP3oQeYEvso
+**Introduction of Multi-Platinum and Diamond Awards (1984, 1999)** : Due to the increasing volume of record sales, Multi-Platinum awards were introduced in 1984, followed by the Diamond Award in 1999 for sales of 10 million copies. In both instances, there were multiple simultaneous recipients, thus no single "first" awardee for these categories. "Multi-platinum awards were introduced in 1984. And then in 1999, they came up with a diamond award, which meant sales of 10 million copies." ← https://www.youtube.com/watch?v=gP3oQeYEvso
+**Reformalization of Sales Awards (1976)** : In 1976, the RIAA reformalized its awards, changing the definition of a gold album to 500,000 copies sold in America. Concurrently, a new Platinum Award was introduced to recognize sales of one million copies in the US. "Awards were based on dollar sales until 1976 when things were reformalized." ← https://www.youtube.com/watch?v=gP3oQeYEvso
+
