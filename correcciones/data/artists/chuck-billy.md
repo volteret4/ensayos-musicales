@@ -1,0 +1,9 @@
+# artist - Chuck Billy
+
+## curiosities
+**Acknowledging Heritage Live** : Chuck Billy frequently acknowledges his Native American heritage when Testament performs live, bringing awareness to his background. "He often acknowledges that when the band plays live." ← https://www.youtube.com/watch?v=YFv6Ln00XjA
+**Connections to Other Metal Bands** : In addition to his work with Testament, Chuck Billy has contributed to another metal band, Exodus, and was once considered for the role of frontman for Sepultura. He is also friends with many other prominent figures in the metal scene. "In addition to working with Testament, he's also contributed to Exodus, another metal band. And once had a shot at being the frontman for Sepulchura. He's also friends with a ton of other big name metal dudes." ← https://www.youtube.com/watch?v=YFv6Ln00XjA
+**Hard Rock Hotel Display** : He has had his own display at the Hard Rock Hotel, showcasing his connection to music and Indigenous culture. "and he's had his own display at the Hard Rock Hotel." ← https://www.youtube.com/watch?v=YFv6Ln00XjA
+**Pomo Heritage** : Chuck Billy, whose real name is Charles Billy, is the frontman of Testament. His father was Native American, specifically from the Pomo tribe, which is indigenous to Northern California. "Their frontman is a guy named Chuck Billy and that's his real name, Charles Billy. ... his father was Native American. He's of the Pomo, a tribe indigenous to Northern California." ← https://www.youtube.com/watch?v=YFv6Ln00XjA
+**Smithsonian Exhibit Participant** : Chuck Billy participated in a Smithsonian exhibit titled "Up Where We Belong: Native Americans in Popular Culture," highlighting his presence and influence within broader cultural contexts. "he participated in an exhibit at the Smithsonian called Up Were We Belong Native Americans in popular culture." ← https://www.youtube.com/watch?v=YFv6Ln00XjA
+

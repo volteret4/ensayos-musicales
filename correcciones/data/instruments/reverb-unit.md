@@ -1,0 +1,9 @@
+# instrument - Reverb unit
+
+## curiosities
+**Echo Chamber Design** : Bill Putnam's first reverb unit, or echo chamber, consisted of a speaker and a microphone placed in a tiled bathroom, which provided a natural echo effect. "Putnam's first reverb unit or echo chamber was a speaker and a microphone hanging in a tile bathroom." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
+**Plate Reverbs** : Plate reverbs were a method of creating reverb using plates of sheet metal hung in special rooms. "The two most important being plate reverbs, which used plates of sheet metal hung in one of those special rooms." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
+**Spring Reverbs** : Spring reverbs were more portable and were first found in Hammond Organs in the 1930s. This innovation allowed the replication of natural church-like reverb in smaller spaces or homes, where organs were commonly experienced. "But more important was the spring reverb, which were portable. The first units were found in Hammond Organs in the 1930s." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
+**Studio Integration** : Soon after its initial use, recording studios globally started designing special rooms specifically for creating reverb effects, such as the reverb room at the back of World Famous Studio 2 at Abbey Road Studios, or in basements, stairwells, and loading docks. Tiled bathrooms remained a fallback option. "And soon recording studios around the world had special rooms designed just to create that effect." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
+**Wet Reverb Terminology** : Early surf guitarists appreciated the dueling effect of Fender's external reverb tank, which they felt made the guitar sound "wet," akin to waves. This term, "wet reverb," is still used today. "The early surf guitars picked up on this due effect, and to them it made the guitar sound wet, just like the waves. In fact we still call this a wet reverb." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
+

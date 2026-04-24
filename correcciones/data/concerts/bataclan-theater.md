@@ -1,0 +1,5 @@
+# concert - Bataclan Theater
+
+## curiosities
+**Massacre During Eagles of Death Metal Concert (2015)** : On Friday, November 13, 2015, the Bataclan theater in Paris was the site of a horrific massacre, part of a series of coordinated attacks across the city. Three heavily armed men, French natives of Algerian descent (Foued Muhammad Agad, Sami Amimour, and Ismaël Omar Mostefaï), stormed the venue at 9:40 PM, just as Eagles of Death Metal began their set in front of approximately 1500 people, following opening act White Miles. The attackers killed three people outside before entering and opening fire, leading to 90 deaths, mostly within the first 20 minutes of the attack, and hundreds wounded. Hostages were taken, and the event concluded by 1 AM, with bodies removed over 10 hours and identification made difficult by IDs left in checked coats. "A series of coordinated attacks across the city culminated with a massacre at the Bataclan theater where Eagles of Death Metal were performing." ← https://www.youtube.com/watch?v=xid8CZf4oYo
+

@@ -1,0 +1,25 @@
+# artist - The Grateful Dead
+
+## members
+- Owsley "Bear" Stanley
+
+## genres
+- Jam Band
+
+## instruments
+- Alltec cabinets (Voice of the Theater series)
+- Macintosh tube amps
+- Radial horns
+- Ring tweeters
+
+## curiosities
+**Clash and Accommodation with Ticketmaster** : The Grateful Dead engaged in a confrontation with Ticketmaster over the issue of service fees, similar to battles faced by other bands. Despite the challenges, they successfully held their ground and eventually negotiated an equitable agreement with Ticketmaster, maintaining control over their unique ticketing system. "They held their ground and eventually reached an equitable deal with ticket master." ← https://www.youtube.com/watch?v=8q2bRZyHnHE
+**Development of the Wall of Sound (1972-1973)** : Following the realization that their existing system was inadequate, The Grateful Dead's crew embarked on a year-long experimentation with PA gear, led by Owsley "Bear" Stanley. Their efforts culminated in the unveiling of the revolutionary "Wall of Sound" in 1973, a system designed to drastically improve live sound. "Over the next year, their crew experimented with PA gear, led by a former ballet dancer from Kentucky turned LSD drug dealer name Ausley Bear Stanley." ← https://www.youtube.com/watch?v=qrrwqdpCjpQ
+**Early Direct-to-Fan Ticketing (1970s)** : The Grateful Dead developed and maintained a highly efficient direct-to-fan mail order ticketing platform called Grateful Dead Ticket Service during the 1970s. This system allowed them to sell thousands of tickets directly to their dedicated fanbase, known as "deadheads," and gave them significant control over ticket distribution, which they were unwilling to relinquish. "Over years and years, the dead built up their own mail order ticketing platform called Grateful Dead Ticket Service." ← https://www.youtube.com/watch?v=8q2bRZyHnHE
+**Early Sound System Inadequacy (1972)** : In 1972, The Grateful Dead held a meeting in their Novato, California, warehouse practice space to discuss the inadequacy of their concert sound. Their system, designed by Bob Hyal in 1968, utilized Alltec's "Voice of the Theater" series cabinets, radial horns (a novel inclusion at the time), ring tweeters, and a custom crossover, and while "better than most," it was deemed "lacking by 1972" for the band's needs. ← https://www.youtube.com/watch?v=qrrwqdpCjpQ
+**Influence on Other Bands** : The Grateful Dead's innovative approach to ticketing and their successful negotiation with Ticketmaster served as a model and source of advice for other prominent bands, including U2 and Pearl Jam, who later sought to challenge the established ticketing system. "Several bands took notice of what the dead did and asked them for advice." ← https://www.youtube.com/watch?v=8q2bRZyHnHE
+**Rarely Made Music Videos** : The Grateful Dead rarely embraced the idea of making music videos, in contrast to the industry's push for them. Their reluctance highlighted the resistance from some artists against the burgeoning music video industry and its financial demands. "The grateful dead rarely touched the idea." ← https://www.youtube.com/watch?v=7IDbqdIw3WU
+**The Wall of Sound (1973)** : The "Wall of Sound" was an innovative and massive concert sound system unveiled by The Grateful Dead in 1973. It weighed 75 tons, stood three stories tall, was 100 feet wide, and required four semis and 21 people for transport. The system contained hundreds of speakers, specifically 568 JBLs and approximately 50 Electro Voice tweeters, powered by mostly Macintosh tube amps pumping out around 26,000 watts. Vocals went through one set of speakers while instrumentation went through others, arranged in "line arrays" for even sound dispersion. "The wall contained hundreds of speakers, 568 JBLs, and about 50 electro voice tweeters, to be specific, along with amplifiers, mostly Macintosh tube amps, pumping out something around 26,000 watts, which was absolutely insane for its day." ← https://www.youtube.com/watch?v=qrrwqdpCjpQ
+**Wall of Sound Debut and Dismantling (1974)** : The Grateful Dead's "Wall of Sound" made its debut at the Cow Palace in San Francisco on March 23, 1974. Despite its impressive scale and sound quality—described as "so loud and so clear that it sounded great at a quarter of a mile"—it proved to be too expensive to operate and maintain. Consequently, the band had the system dismantled within a year of its introduction. "Within a year, though, it proved to be too expensive, and the band headed dismantled." ← https://www.youtube.com/watch?v=qrrwqdpCjpQ
+**Wall of Sound Feedback** : The Grateful Dead were known for their live performances, where "Deadheads" (fans) would experience extended periods of guitar screeches and feedback. These were amplified through the band's custom-designed "Wall of Sound" PA system, creating an immersive and powerful auditory experience. "Deadheads were often treated to long whales of guitar screeches, played through the band's custom wall of sound PA system." ← https://www.youtube.com/watch?v=iGav9uJwA_w
+

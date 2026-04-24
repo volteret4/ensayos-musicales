@@ -1,0 +1,15 @@
+# genre - Whisper Pop
+
+## curiosities
+**Anti-Diva Movement** : The rise of Whisper Pop is posited as being in direct opposition to the powerful, "big diva performances" characteristic of artists like Celine Dion or Mariah Carey, offering a contrasting vocal aesthetic. "And it's possible that the rise of whisper pop was in direct opposition to big diva performances." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
+**Aspire Plugin for Artificial Whispers** : Due to the popularity of Whisper Pop, Terry's, the company behind Auto-Tune, developed a recording studio software plugin called Aspire, designed to artificially add or augment a whisper-like quality to vocals. "Terry's, the company that gave us auto-tune, created a new plugin for recording studio software called Aspire, which can artificially add a whisper-like quality to vocals, or at least augment that particular style of singing." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
+**Female-Dominant Vocal Style** : Whisper Pop is characterized as a low-key, quiet, subdued, and sometimes breathy vocal performance style, almost exclusively employed by female artists, and seen as a possible counter-movement to "big diva performances." "We're going to call this whisper pop, low-key, quiet, subdued, and sometimes breathy-seeing, almost exclusively by female artists." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
+**Indie Girl Voice and Little Girl Vocal Connections** : This vocal style is sometimes referred to as the "indie girl voice" or linked to the "little girl vocal" style of the 1980s and 90s, indicating a lineage for its unique approach. "Some call it the indie girl voice. Others will point back to the 1980s and 90s when there was something called the little girl vocal." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
+
+## artists
+- Billie Eilish
+- Grimes
+- Lana Del Rey
+- Lorde
+- Selena Gomez
+

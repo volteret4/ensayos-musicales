@@ -1,0 +1,42 @@
+# genre - New Metal
+
+## curiosities
+**Categorization Challenges** : Some bands initially categorized as new metal, such as Incubus, Puddle of Mud, Evanescence, Orgy, Papa Roach, and 3Days Grace, were easily digestible and eventually "escaped that classification," which many fought hard to do. "Some were easily digestible. And maybe some of them should have never been categorized under the heading of new metal to begin with." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
+**Contribution to Industrial Hip Hop Momentum** : Nu-metal bands are noted for helping Industrial Hip Hop gain momentum in the 1990s, by incorporating rap rock sounds. "Any number of new metal bands also helped." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
+**Critical Reception (Early 2000s)** : In the early 2000s, new metal often faced critical dismissal, as evidenced by the "critical pasting" of Linkin Park's debut single "One Step Closer" for being perceived as "more of the same old new metal." "it got a critical pasting because it was, well, more of the same old and new metal." ← https://www.youtube.com/watch?v=YcdidjWaIqE
+**Decline and Linkin Park's Accessibility** : By the early 2000s, the "whole new metal thing was largely over," but Linkin Park continued to achieve significant success. This was attributed to their sound being notably more "accessible" and "super radio friendly" than other bands within the genre. "And even though the whole new metal thing was largely over, Lincoln Park didn't care. But then again, no one from that whole genre sounded as accessible as them." ← https://www.youtube.com/watch?v=zIlCaKCvylI
+**Decline by Mid-2000s** : By the mid-2000s, the "new metal" genre was considered "dead," leading bands like Linkin Park to intentionally reduce their rap elements in later albums due to uncertainty about fan acceptance. "The new metal was dead so the amount of wrapping that fans might find acceptable was uncertain." ← https://www.youtube.com/watch?v=YcdidjWaIqE
+**Dominant in Late 1990s** : New Metal was a significant genre in the late 1990s, from which bands like Linkin Park emerged, though most did not achieve the same level of enduring success. "pretty much the only group to emerge from the whole new metal thing of the late 90s bigger and stronger." ← https://www.youtube.com/watch?v=YcdidjWaIqE
+**Evolution in Early 2000s** : The classification of bands like Incubus in early 2000 as "new metal" prompted questions about whether the genre was evolving to become "less polarizing" or if its definition was shifting. Evanescence was also described as being on the "fringes" of new metal. "At the time, they were most generally classified as a new metal band, which was a bit odd, as a scratchy, but then, wait, was new metal evolving into something less polarizing?" ← https://www.youtube.com/watch?v=7dXtgTkdv9w
+**Extremes of the Genre** : Some bands, like Limp Biscuit, pushed new metal "to its extremes and beyond." "And then there were those who took new metal to its extremes and beyond. Bands like Limp Biscuit." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
+**Industry Belief of Demise** : By the end of 1999, record labels had turned down Linkin Park's demos almost 50 times, reflecting the music industry's belief that new metal was "over." "that's how much the industry believed that new metal was over." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
+**Intense Metal Leanings** : Other new metal bands, including Disturbed, Mudvayne, Lip knots, and System of a Down, were "much more intense because of their pronounced metal leanings." "Other bands were much more intense because of their pronounced metal leanings, disturbed, mud veins, lip knots, system of a down." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
+**Jada Pinkett Smith's Band** : Jada Pinkett Smith, Willow's mother, is the singer of a new metal band called Wicked Wisdom. "mom is a singer of a new metal band called Wicked Wisdom." ← https://www.youtube.com/watch?v=_1NNvxgx8uA
+**Late 1990s Band Signings** : The late 1990s saw numerous new metal bands being signed, indicating a peak in its commercial interest and label activity. "The late 1990s saw signing after signing after signing of new metal bands." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
+**Late 1990s Rock-Hip Hop Hybrid** : New Metal emerged at the end of the 1990s as a significant genre that fused elements of rock and hip hop, indirectly giving rise to successful bands like Linkin Park. "then we had the whole new metal thing at the end of the 1990s which indirectly gave birth to Lincoln Park, still one of the biggest bands of the 21st century." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
+**Limp Bizkit's Impact on Nu-Metal** : Limp Bizkit became one of the most successful and "in-your-face" bands of the new metal era following their major label deal, which was facilitated by a pivotal connection with Korn. "limp biscuit had a major label deal and were on their way to becoming one of the most successful and most in-your-face bands of the new metal era." ← https://www.youtube.com/watch?v=Somq2MoRi5Q
+**Polarizing Form of Alt-Rock** : New metal was characterized as "one of the most polarizing forms of alt-rock ever conceived," with some of it aging well and "the rest of it, not so much." "new metal, which was one of the most polarizing forms of alt-rock ever conceived. Some of it has aged okay. The rest of it, not so much." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
+**Polarizing Genre in 2001** : In the summer of 2001, new metal was the biggest thing in music, but it was also a "very, very polarizing" genre. Listeners typically had strong opinions, either being intensely interested in it or completely disliking it. "New metal, the biggest thing at the time, was very, very polarizing. You were either really into it or you hated it." ← https://www.youtube.com/watch?v=jEfofyobGiI
+**Polarizing Nature (2000)** : While successful in terms of sales (e.g., Limp Bizkit, Papa Roach), the "sound and the attitude of New Metal was just so polarizing that it could only go so far" in carrying rock music at the turn of the millennium. "But the sound and the attitude of New Metal was just so polarizing that it could only go so far." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
+**Popularity in Late 90s** : This genre was prominent in the late 1990s, with bands like Limp Biscuit achieving significant sales and success. "Limp Biscuit was one of the bands of the new metal era of the late 90s." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Successor to Grunge (Late 1990s)** : After the original grunge bands died off and the genre's popularity waned in the late 1990s, New Metal emerged as a replacement, albeit described as "Dreck-like." ← https://www.youtube.com/watch?v=eqTFinLk3oU
+**Woodstock 99 Lineup and Crowd Demeanor** : The lineup for Woodstock 99 was heavily populated with "intense and angry new metal bands," including Limp Bizkit, Korn, Kid Rock, Rage Against the Machine, and Metallica. This concentration of aggressive music was cited as contributing to an atmosphere of "male rage and testosterone" among the 200,000 attendees, fostering the frustration and negative energy that escalated into widespread hatred and violence. "Added in the fact that the lineup was filled with intense and angry new metal bands, LeBiscuit corn, kid rocked, kid rocked, rage guns, the machine, Metallica, tons of mail rage and testosterone." ← https://www.youtube.com/watch?v=Pgchw2h87aw
+
+## artists
+- 3Days Grace
+- Corn
+- Disturbed
+- Evanescence
+- Incubus
+- Korn
+- Limp Biscuit
+- Limp Bizkit
+- Lincoln Park
+- Linkin Park
+- Lip knots
+- Mudvayne
+- Orgy
+- Papa Roach
+- Puddle of Mud
+- System of a Down
+

@@ -1,0 +1,5 @@
+# concert - Notting Hill Carnival
+
+## curiosities
+**Origin and Notting Hill Riot** : The Notting Hill Carnival is an annual summer event in London that began in 1964. On August 30, 1976, during the carnival, bad relations between the mostly black, West Indian immigrant community of Notting Hill and the police escalated into a riot. The police had a policy of arbitrary stop-and-search harassment, and about 1,600 officers were present, an extreme number given no trouble was expected. The riot was triggered around 5 p.m. by an attempted arrest of a pickpocket, leading residents to fight back. The confrontation resulted in 300 police officers hospitalized, 35 police vehicles overturned and burned, and significant property damage. 66 people were arrested, with 17 black youths facing 79 charges in trials that cost a then-record quarter-million pounds. "On August 30, 1976, there was a riot in the Notting Hill area of London... the neighborhood was enjoying its annual carnival, a summer event that began in 1964." ← https://www.youtube.com/watch?v=4PlieAEthSg
+

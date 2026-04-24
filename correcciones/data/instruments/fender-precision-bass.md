@@ -1,0 +1,30 @@
+# instrument - Fender Precision Bass
+
+## curiosities
+**Frets for Accuracy** : A key feature of the Precision Bass was the inclusion of frets on its neck, a departure from the fretless double bass. This innovation allowed players to accurately place their fingers, minimizing "bum notes" and contributing to the instrument's name, "Precision." "Because it actually had flats on the neck, unlike a double base, the player knew exactly where the fingers had to go. Bum notes became a thing of the past, hence the name Precision." ← https://www.youtube.com/watch?v=E6cXyaHALBQ
+**Game-Changing Electric Bass** : The Fender Precision Bass, often called the P-Bass, followed the Telecaster and represented another significant innovation. Prior to its introduction, bassists relied on large, impractical stand-up double basses, which were necessary to produce deep notes. The Precision Bass solved this problem by offering a portable, Telecaster-sized instrument. "Hot on the heels of the Telecaster came the Fender Precision Base. This again was a game changer. Up until then, musicians said to use the big stand-up double base. These things were huge as big or bigger than the person playing it. It had to be that large to produce deep notes, physics, but it just wasn't very practical. The Fender Precision Base or P-Base, as some called it, was the size of a Telecaster, as well as being of similar shape, making it a snap to carry around." ← https://www.youtube.com/watch?v=E6cXyaHALBQ
+**Notable Players** : Numerous famous musicians have played the Precision Bass, including Sting, Paul Simmon of The Clash, Colin Greenwood of Radiohead, Adam Clayton of U2, Mark Hoppitz from Blake Wentedy II, Duff McKagan of Guns n' Roses, and D.D. Ramone. "Countless rockers have played the precision base. Sting, Paul Simmon and the clash, Colin Greenwood, a radiohead, U2's Adam Clayton, Mark Hoppitz from Blake Wentedy II, Duff McKagan of Guns n' Roses, and D.D. Ramone, that running thunk of all those classic Ramone songs, that's a P-Base." ← https://www.youtube.com/watch?v=E6cXyaHALBQ
+**Widespread Adoption** : While not the first electric bass, the Precision Bass was the first to gain widespread attention and adoption. Initially, traditional musicians were slow to accept the "newfangled electrical thingy." However, by the end of the 1950s, it had converted almost all rock and roll, jazz, and country musicians to the electric bass. "It wasn't the first electric base, but it was the first one to attract any widespread attention. Things started slow. Musicians can be big into tradition in this newfangled electrical thingy, was a slap in the face. But at the end of the 1950s, almost everyone had been converted to playing an electric base, rock and roll players, jazz artists, and country musicians." ← https://www.youtube.com/watch?v=E6cXyaHALBQ
+
+## artists
+- Blake Wentedy II
+- Brian Wilson
+- Carol Kaye
+- Coldplay
+- Duff McKagan
+- Fall Out Boy
+- Green Day
+- Guns N' Roses
+- Guns n' Roses
+- Guy Berryman
+- Mike Dirnt
+- Pete Wentz
+- Pink Floyd
+- Radiohead
+- Roger Waters
+- Sting
+- The Clash
+- The Ramones
+- The Wrecking Crew
+- U2
+

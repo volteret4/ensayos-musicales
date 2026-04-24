@@ -1,0 +1,25 @@
+# genre - Electronica
+
+## curiosities
+**Broad and Meaningless Term** : Electronica was described as a term used in the late 90s that was "so broad that it's almost meaningless," encompassing a wave of bands that seemed to eschew guitars entirely. "There's one more genre that I want to highlight and I hesitate ever so slightly. Because it's a term that's so broad that it's almost meaningless." ← https://www.youtube.com/watch?v=amHre9ZZFkU
+**Component of Trip Hop** : Electronica was identified as one of the genres that crossbred with hip hop to create Trip Hop. "Trip Hop, a British crossbreeding of hip hop and electronica." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
+**Diverse Applications** : The term Electronica was applied to a wide range of artists, including Underworld, The Crystal Method, Faithless, Moby (for non-danceable headphone music), and even parts of Madonna's *Ray of Light*, U2's *Pop*, and anything Björk did in the 1990s. "Underworld and the Crystal Method and Faithless were definitely Electronica. Some people called what Fat Boy Slim did, Electronica. Moeby was an example of non-danceable headphone Electronica, not most of his stuff." ← https://www.youtube.com/watch?v=amHre9ZZFkU
+**Evolution to EDM** : What was once called Electronica has since evolved into what is known as EDM today, becoming a massive genre in its own right. "What we used to call electronic is what we call EDM today. And we don't need to talk about how big that has become, do we?" ← https://www.youtube.com/watch?v=amHre9ZZFkU
+**Failed Savior of Alt Rock** : Despite predictions in 1997 that Electronica would "save All Rock" following The Prodigy's global success, it ultimately "ended up not being the future of All Rock." "Electronica, of course, ended up not being the future of All Rock. Instead, it branched off and bloomed on its own." ← https://www.youtube.com/watch?v=amHre9ZZFkU
+**Late 90s Trends Leading to 2000s Revival** : The revival of dancey, electronic elements in 2000s alt rock grew directly out of late 1990s trends towards electronica, with acts like The Prodigy, The Chemical Brothers, and Fatboy Slim maintaining relevance and paving the way for newer artists. "We saw a revival of that kind of attitude in the odds as an outgrowth of late 90s trends towards electronica." ← https://www.youtube.com/watch?v=_yslM5oanRo
+**Listening Modes** : While dancing was encouraged with Electronica, it was also designed for "lean back listening," allowing individuals to "chill out or something to enjoy in headphones." "Yes, you could dance to Electronica, that was encouraged. But it was also made for lean back listening to chill out or something to enjoy in headphones." ← https://www.youtube.com/watch?v=amHre9ZZFkU
+**Rise with DJ Culture** : The rise of Electronica coincided with the explosion of DJ culture, a decline in guitar sales, and a surge in turntable sales, which for a period "threatened to exceed that of guitars" as everyone wanted to be a DJ. "DJ culture was exploding. Guitar sales had dropped. Sales of turntables went up. In fact there was a year or two when turntable sales threatened to exceed that of guitars because everybody wanted to be a DJ." ← https://www.youtube.com/watch?v=amHre9ZZFkU
+**Third Choice in 2000** : In 2000, electronica was presented as a "third choice" for music listeners, after pop, rap, and hip hop, suggesting its growing popularity. "A third choice would be all the flavors of electronica." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
+**Vinyl Preservation** : Vinyl, an otherwise "dead format," was kept alive predominantly by DJs who preferred it over CDs for spinning, scratching, and beat mixing. "Vinyl, which was an otherwise dead format, was kept alive really only by DJs who wanted something other than CDs to spin and scratch and beat mix." ← https://www.youtube.com/watch?v=amHre9ZZFkU
+**Year Zero (1988) in the UK** : The year 1988 is considered "Year Zero" for Electronica, particularly in the UK. This was when Detroit Techno, Chicago House, and the New York dance scene were enthusiastically embraced by English music fans, coinciding with the "Summer of Love" and the rise of ecstasy, which catalyzed a new dance and rave culture. "This brings us to Year Zero in the whole history of what we now call Electronica." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
+
+## artists
+- Air
+- Björk
+- Fatboy Slim
+- Goldfrapp
+- LCD Soundsystem
+- Moby
+- The Chemical Brothers
+- The Prodigy
+

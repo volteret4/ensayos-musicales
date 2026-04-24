@@ -1,0 +1,7 @@
+# label - Vans
+
+## curiosities
+**Influence on Tour Content** : The new sponsorship from Vans in 1996 led to a significant content pivot for the Warped Tour, moving its focus from broad alternative music to punk and other genres that aligned well with skate culture. "His new sponsorship also meant a content pivot. Kevin moved the festival from broad range alternative to focusing on punk and other music that went well with skate culture." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
+**Preferred Sponsor (1997)** : Kevin Lyman, the founder of the Warped Tour, refused an attempt by Airwalks to scoop the sponsorship for 1997 because he genuinely liked the individuals in charge of Vans. "Airwalks, another shoe company, tried to scoop the sponsorship for 1997, but Kevin said no because he really liked the guys in charge of Vans." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
+**Warped Tour Title Sponsor (1996-2018)** : Vans, the skateboard and shoe company, secured the title sponsorship for the Warped Tour in 1996 with a deal worth $300,000. This occurred after a blizzard canceled a meeting with potential sponsor Calvin Klein, allowing Vans to step in during the 24-hour delay. The festival officially became the Vans Warped Tour from 1996 onwards until its end in 2018. "And before anything could be rescheduled, Vans, the skateboard company, the shoe company, stepped in during that 24 hour delay and signed a deal for $300,000. So from 1996 forward, it was officially the Vans Warped Tour." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
+

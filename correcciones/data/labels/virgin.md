@@ -1,0 +1,21 @@
+# label - Virgin
+
+## curiosities
+**Expansion into Other Areas & Sale to EMI (1992)** : Thanks to its musical success, Virgin diversified into other business areas. Branson eventually sold the company to EMI for approximately a billion dollars in 1992, using the funds to finance the creation of Virgin Airlines. "Thanks to music, Virgin expanded into other areas before Branson sold the company to EMI for about a billion dollars in 1992. And that's how he managed to finance the creation of Virgin Airlines." ← https://www.youtube.com/watch?v=dDcD8kg0wEk
+**Expansion to Retail Store (Age 22)** : At 22, Branson expanded his venture into a small retail store named "Virgin Records and Tapes" located in the Notting Hill area of London. "When he was 22, the venture expanded to a small store called Virgin Records and Tapes in the Notting Hill area of London." ← https://www.youtube.com/watch?v=dDcD8kg0wEk
+**First Major Hit (Tubular Bells)** : Virgin's first signing was Mike Oldfield's "Tubular Bells," which became a huge hit and provided the financial resources for the company's expansion. "So Branson and his partners did, and their first signing was 2-biter bells by Mike Oldfield. That became a huge hit which allowed Virgin to finance an expansion." ← https://www.youtube.com/watch?v=dDcD8kg0wEk
+**Founding as Mail-Order Service (Age 15)** : Richard Branson started Virgin at the age of 15 as a mail-order record service and fanzine, operating out of his bedroom. "Richard Branson started Virgin when he was just 15. His first incarnation was a male-order record service and fan scene from his bedroom." ← https://www.youtube.com/watch?v=dDcD8kg0wEk
+**Sex Pistols Signing (1977)** : In 1977, after EMI and A&M Records dropped the Sex Pistols due to their controversial nature, Richard Branson seized the opportunity to sign them. This "smart move" capitalized on the punk explosion and led to a string of New Wave and Post-Punk hits for Virgin. "Branson though saw an opportunity and signed them up. Smart move." ← https://www.youtube.com/watch?v=dDcD8kg0wEk
+**Transition to Record Label (Post-Distribution)** : Initially, Virgin distributed imports for other labels rather than signing artists directly. Later, Branson and his partners decided to establish their own label. "The company didn't sign any artist directly, what they did was distribute imports for other labels. But after a while, why not start a new label?" ← https://www.youtube.com/watch?v=dDcD8kg0wEk
+
+## artists
+- Culture Club
+- Genesis
+- Human League
+- Lenny Kravitz
+- Mike Oldfield
+- Sex Pistols
+- Simple Minds
+- Smashing Pumpkins
+- XTC
+

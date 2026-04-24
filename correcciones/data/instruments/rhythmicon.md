@@ -1,0 +1,7 @@
+# instrument - Rhythmicon
+
+## curiosities
+**Early Beat-Keeping Device (1930s)** : Developed in the 1930s with the help of Leon Thereman, the Rhythmicon was an early attempt at a machine to keep the beat. While considered "pretty cool," it was ultimately deemed "way too complicated" for practical use. "This is an issue that goes back to at least the 1930s when Leon Thereman, the same guy, helped develop a device called the Rhythmicon." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
+**Early Electronic Rhythm Device (1932)** : Created by Henry Cowell and Leon Theremin, the Rhythmicon, prototyped in 1932, resembled a small organ with 16 keys. It generated beats from rotating wheels that interrupted a beam of light, disrupting a photoelectric current at various intervals to create complex, layered rhythms. "The beats came from rotating wheels within the body of the rhythmicon, which broke a beam of light, disrupting a photoelectric current in various intervals, depending on which key you pressed." ← https://www.youtube.com/watch?v=dablAKDOOV0
+**Prototypes and Preservation** : A prototype of the Rhythmicon was unveiled in 1932. A second unit is preserved at the Smithsonian Institute, while a third is displayed in another museum. "A prototype was unveiled in 1932, followed by a second which still lives at the Smithsonian Institute, a third unit is on display in a museum somewhere." ← https://www.youtube.com/watch?v=dablAKDOOV0
+

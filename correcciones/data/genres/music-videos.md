@@ -1,0 +1,6 @@
+# genre - Music Videos
+
+## curiosities
+**MTV and MuchMusic's Impact (1980s)** : The 1980s era, marked by the rise of MTV and MuchMusic, fostered a deep fascination with music videos due to their compelling storytelling, dancing, and distinct style. This period was influential for directors like Taj and Director X, who were inspired by iconic videos from artists such as Madonna, Peter Gabriel, Phil Collins, Michael Jackson, and Aerosmith. "I came up in the 80s era where that's what made me fall in love with music videos, right? The MTV, much music era" ← https://www.youtube.com/watch?v=KaIp6KVn-co
+**The Art Context Podcast's Focus** : The podcast "Art Context: The Architects of Art," hosted by Director X and Taj, aims to tell the stories of music video directors, delving into their influences, breakthroughs, and the collaborative process behind creating impactful content. The show seeks to give these creative artists, who produce some of the most widely viewed content, the recognition they deserve. "Our show is pretty much about, it's in the world of music. It's pretty much us sitting down with storytellers that come from music videos." ← https://www.youtube.com/watch?v=KaIp6KVn-co
+

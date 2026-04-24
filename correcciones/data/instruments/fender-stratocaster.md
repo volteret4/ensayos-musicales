@@ -1,0 +1,19 @@
+# instrument - Fender Stratocaster
+
+## curiosities
+**Collaborative Design for Comfort and Versatility** : Crafted in 1953 by Freddie Tavares and Leo Fender, in collaboration with country guitarists, the Stratocaster was designed with an innovative new shape for enhanced comfort. It could be played easily both sitting down (on the knee) and standing (balanced on a strap). Its body featured a slight contour on the back to fit comfortably against the player's ribs. "Working together with some country guitars, Freddie and Leo crafted a new guitar with a new shape that could be comfortably played both sitting down with the thing on your knee, or nicely balanced while hanging on a strap around your neck. And the back of the body is slightly contoured so it fits nicely against the player's ribs." ← https://www.youtube.com/watch?v=E6cXyaHALBQ
+**Enhanced Pickup and Tonal Options** : The Stratocaster was equipped with three pickups, one more than the Telecaster. It also included a switch that allowed players to select between these pickups, offering a greater variety of sounds. Additionally, its bridge could be precisely adjusted to accommodate different string types and playing styles. "Oh, and it had three pickups, one more than the Telecaster. And there was a switch that allowed the player to pop between each of the pickups to achieve different sounds. Plus, the bridge could be very precisely adjusted for different types of strings and playing styles." ← https://www.youtube.com/watch?v=E6cXyaHALBQ
+**Marketing Name (Stratocaster Airplanes)** : The name "Stratocaster" was a marketing choice, echoing the "Stratocaster" airplanes that were capturing public attention in the 1950s. This mirrored Fender's earlier strategy of naming the Telecaster after television. "More marketing. In the 1950s, there were airplanes called Stratocasters that were capturing the public's attention. So just as the Telecaster's name was from television, another new thing, so did the name Stratocaster." ← https://www.youtube.com/watch?v=E6cXyaHALBQ
+**Notable Players** : The Stratocaster has been used by an extensive list of influential musicians, including Eric Clapton, The Edge, Kirk Cobain, John Fershianti of the Red Hot Chili Peppers, Mark Knopfler of Dire Straits, Body Rate, P-Towns, and John Lennon, among many others. "And over the years, Stratz had been used by Eric Clapton, the Edge, Kirk Cobain, John Fershianti of the Red Hot Chili Peppers, Mark Knopfler of Dire Straits, Body Rate, P-Towns and John Lennon and gazillions more." ← https://www.youtube.com/watch?v=E6cXyaHALBQ
+**Rapid Popularity** : The Stratocaster quickly gained immense popularity after its introduction. "Stratz became very popular, very fast." ← https://www.youtube.com/watch?v=E6cXyaHALBQ
+**Revolutionary Double Cutaway Design** : Unlike the Telecaster's single cutaway, the Stratocaster featured a double cutaway body shape. This design was revolutionary in 1953, as previous electric guitars largely mimicked traditional acoustic shapes. The double cutaway provided easier access for fingers to reach higher positions on the fretboard. "While the Telecaster is known as a single cutaway, the shape of the Stratocaster's body is a double cutaway. This makes it easier for the fingers to get way up high on the fretboard. All this was very revolutionary for 1953. Up until then, electric guitars were more or less crafted to ape the shape of a traditional acoustic guitar. This was something completely different." ← https://www.youtube.com/watch?v=E6cXyaHALBQ
+
+## artists
+- Buddy Holly
+- Dire Straits
+- Eric Clapton
+- Jimi Hendrix
+- Nirvana
+- Red Hot Chili Peppers
+- Smashing Pumpkins
+

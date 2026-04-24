@@ -1,0 +1,8 @@
+# artist - Rick Rubin
+
+## curiosities
+**Defense of Metallica's "Death Magnetic" Sound** : As the producer for Metallica's "Death Magnetic" album, Rick Rubin, along with the band, maintained that the album's sound was "all fine" despite widespread fan complaints and online petitions regarding its excessive compression and lack of dynamic range. "Metallica and producer Rick Rubin say hey it's all fine." ← https://www.youtube.com/watch?v=Yl2poVWguu0
+**Producer for Minutes to Midnight** : Rick Rubin served as the producer for Linkin Park's third studio album, Minutes to Midnight, a project that spanned approximately 18 months of work. "Lincoln Park spent about 18 months working on their third album, this time with producer Rick Rubin." ← https://www.youtube.com/watch?v=zIlCaKCvylI
+**Suggested Meditation to Rivers Cuomo** : Producer Rick Rubin suggested Vipassanā meditation to Rivers Cuomo around 2003, when Weezer was working on the Red Album. Rivers initially resisted but eventually found it beneficial for his creativity and well-being. "It was producer Rick Rubin, who first suggested this in about 2003 when Weezer was working on the red album." ← https://www.youtube.com/watch?v=LYRPxtP61JM
+**TR-808 Production for Beastie Boys** : As producer for the Beastie Boys' first album, Rick Rubin utilized the Roland TR-808, notably "fattening up" its sound and laying it underneath songs to achieve their distinctive sound. "Producer Rick Rubin fattened up the sound and laid it underneath songs like this." ← https://www.youtube.com/watch?v=dablAKDOOV0
+

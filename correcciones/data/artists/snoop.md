@@ -1,0 +1,5 @@
+# artist - Snoop
+
+## genres
+- Rap
+

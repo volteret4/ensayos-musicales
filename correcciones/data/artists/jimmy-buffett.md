@@ -1,0 +1,15 @@
+# artist - Jimmy Buffett
+
+## labels
+- Pan Am (airline involved in incident)
+
+## songs
+**Jamaica Mistaica** : Jimmy Buffett wrote this song about the January 16, 1996, incident in Jamaica where Jamaican cops mistakenly opened fire on his plane, the "Hemisphere Dancer," while Bono and his family were onboard. The chorus directly references the apology from the Jamaican government and the terrifying experience. "Jimmy Buffett went on to write a song about the incident called Jamaica Mistakea." ← https://www.youtube.com/watch?v=hmnMG6f80Sg
+**Jamaica Mistaica (1996)** : This song was written by Jimmy Buffett as a direct response to a terrifying incident on January 16, 1996. While he was piloting his Grumman HU-16 C plane, "Hemisphere Dancer," carrying Bono and his family, Jamaican police mistakenly opened fire on the aircraft at Negril airport. The song's chorus reflects the event, with lyrics like, "Don't you know we made a big mistake? We'd be so sad if you told us goodbye and we promised not to shoot you out of the sky." "Jimmy Buffett went on to write a song about the incident called Jamaica Mistakea." ← https://www.youtube.com/watch?v=3eGBnwPWRGo
+
+## curiosities
+**"Parrothead" Alcohol Sales Influence** : Jimmy Buffett is an artist known for his dedicated fanbase, often referred to as "Parrotheads," who reliably consume significant amounts of alcohol at his concerts. This strong fan reputation allows Buffett to demand and receive a share of alcohol sales, sometimes leading to him earning 105% or more of ticket sales. "Jimmy Buffett is one of those acts because his fans, the parrots, will reliably drink a lot at every show. And Jimmy will get 105% of ticket sales." ← https://www.youtube.com/watch?v=8q2bRZyHnHE
+**Obituary Interview Subject** : Jimmy Buffett was one of the artists for whom the speaker conducted numerous interviews following his death, as part of his role as a commentator for news networks during such events. "So the last big one was, I did a whole bunch of every, Jimmy Buffett was a big one." ← https://www.youtube.com/watch?v=4xxgPX-aR90
+**Pilot and Plane Owner in Jamaican Shooting (1996)** : On January 16, 1996, Jimmy Buffett was at the controls of his Grumman HU-16C plane, "Hemisphere Dancer," while taxing at Negril airport in Jamaica, with Bono and his family onboard. The plane was mistakenly fired upon by Jamaican police who believed it was involved in drug running. Following the incident, Buffett penned the song "Jamaica Mistaica" about the event. "He's talking about his family. It was very scary. Let me tell you." ← https://www.youtube.com/watch?v=hmnMG6f80Sg
+**Pilot and Songwriter** : Jimmy Buffett is an accomplished pilot who owned the Grumman HU-16 C plane, "Hemisphere Dancer." He was at the controls when the plane, carrying Bono and his family, was mistakenly fired upon by Jamaican police at Negril airport in 1996. Following this incident, Buffett wrote a song about the experience, "Jamaica Mistaica." "Buffett was at the controls. He's also a pilot." ← https://www.youtube.com/watch?v=3eGBnwPWRGo
+

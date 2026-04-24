@@ -1,0 +1,5 @@
+# artist - 11 (band)
+
+## curiosities
+**Assisted Chris Cornell** : Members of the band 11 provided assistance to Chris Cornell during the 18-month period he was putting together his solo record, Euphoria Morning. "he put together a solo record with help from some friends from a band called 11." ← https://www.youtube.com/watch?v=-f9jhqAHkQo
+

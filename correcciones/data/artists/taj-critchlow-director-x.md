@@ -1,0 +1,6 @@
+# artist - Taj Critchlow (Director X)
+
+## curiosities
+**Art Context Podcast Host** : Co-host of the new podcast *Art Context*, which explores the journeys and creative processes of music video directors, aiming to give these "amazing creative artists" the recognition they deserve. His fascination with music videos began in the 80s, watching MTV and MuchMusic, particularly videos by artists like Madonna, Peter Gabriel, Phil Collins, Michael Jackson, and Aerosmith. He views the podcast as "another form of storytelling, but through an audio medium." "I feel like we live in the world where we don't give these amazing creative artists, the flowers they deserve." ← https://www.youtube.com/watch?v=G9H9q7BYqEA
+**Renowned Music Video Director** : One of the "biggest music video directors on the planet," he broke out into the industry with Director X (Julien Christian Lutz) with the music video for DJ Khaled, Drake, and Justin Bieber called "Topstar." He co-founded the production company Fella with Julien Christian Lutz. Both are from Brampton, Ontario. "We broke our production company, Fella, with this music video for DJ Khaled, Drake and Bieber called Topstar." ← https://www.youtube.com/watch?v=G9H9q7BYqEA
+

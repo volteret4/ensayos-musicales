@@ -1,0 +1,13 @@
+# artist - Daniel Landwom
+
+## instruments
+- Rhythm guitar
+
+## curiosities
+**"Science Teacher" Role for "Where the Streets Have No Name"** : During the recording of U2's "Where the Streets Have No Name," he used a large blackboard and a pointer, acting as a "science teacher," to visually guide the band members, particularly the rhythm section, through the complex time signature changes (from 6/8 to 4/4) in the song's intro. "I was in, I was the science teacher so I had the pointer and I pointed at the chord changes as they came around." ← https://www.youtube.com/watch?v=L03Yk1SHRNM
+**Canadian Heritage** : Identifies as Canadian and humorously claims responsibility for originating the "toque thing." "Listen man, I’m Canadian, I started the toop thing." ← https://www.youtube.com/watch?v=L03Yk1SHRNM
+**Early Recording Experiments in Hamilton** : Prior to working with U2, he conducted experiments in an old, vacated Hamilton library building (constructed in the 1920s or 30s) which offered unique acoustics with its "endless corridors and labyrinths and beautiful foyers and mezzanines." The city provided him with keys to this building, allowing him to record rock and roll records in spaces that were more reverberant or dense than his own padded studio, seeking expansive recording environments. "I had already experimented in the old Hamilton library because the library had relocated and the building they vacated was a beautiful building. I think built in the 20s or 30s and it had endless corridors and labyrinths and beautiful foyes and mezzanines" ← https://www.youtube.com/watch?v=L03Yk1SHRNM
+**Ownership of Infinite Sustain Guitar** : Daniel Landwom possesses one of the three "infinite sustain guitars" invented and built by Michael Brook. "He built one for himself, for Edge and then I have the third one." ← https://www.youtube.com/watch?v=L03Yk1SHRNM
+**Production Partnership with Brian Eno** : Collaborated with Brian Eno from late 1979 to early 1980s, producing "half a dozen ambient records in Hamilton" and developing a "textural sound" that they later brought to U2. "I had been working with Brian late 1979 to, let’s say, late 82, 83. We made a half a dozen ambient records in Hamilton and we had refined this textural sound that Brian was very excited about" ← https://www.youtube.com/watch?v=L03Yk1SHRNM
+**Respect for the Rhythm Section** : Larry Mullen of U2 specifically wanted to work with Daniel Landwom on "The Joshua Tree" due to Landwom's reputation for having a strong respect for the rhythm section. "Larry Melon once and he said one of the reasons he wanted to work with you on the Joshua Tree was because you had a real respect for the rhythm section." ← https://www.youtube.com/watch?v=L03Yk1SHRNM
+

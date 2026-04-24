@@ -1,0 +1,6 @@
+# instrument - Tape (magnetic tape)
+
+## curiosities
+**Nazi Invention, Mullen's Discovery** : Magnetic tape, stored on reels and used in the German Magnetophone machines, was a secret Nazi recording technology discovered by Jack Mullen at the end of World War II. Its ability to store and play back hours of high-quality audio revolutionized recording, far surpassing the 20-minute limit of radio transcription disks, and enabled continuous broadcasts that confused Allied monitors. "It used reels of magnetic tape to store and play back audio. And they were amazing." ← https://www.youtube.com/watch?v=NAroxFbYkRw
+**Spread to US Recording Studios** : After Jack Mullen brought Magnetophone technology to the US, it was championed by Bing Crosby, who invested in Ampex to develop and commercialize it. Magnetic tape soon became the standard for audio and video recording and quickly spread to recording studios. Its introduction allowed for cutting, editing, multi-track, and sound-on-sound recording, fundamentally transforming the modern music industry. "The technology soon spread to recording studios. Electrical recording now used mixing boards and tape, and this tape could be cut and edited, and soon multi-track recording meant that sound-on sound recordings were possible." ← https://www.youtube.com/watch?v=NAroxFbYkRw
+

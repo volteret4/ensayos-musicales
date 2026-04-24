@@ -1,0 +1,8 @@
+# instrument - Rickenbacker 12-string guitar
+
+## curiosities
+**Distinctive Sound and Industry Adoption** : The 12-string guitar produces an easily recognizable sound. Following the success of Rickenbacker's 360-12 model, other manufacturers like Gibson and Gretsch also began producing 12-string guitars. "Again, a 12 string guitar is easy to pick out." ← https://www.youtube.com/watch?v=d9HNqb9gJSU
+**Possible Mexican Origin (Late 19th Century)** : The exact origin of the 12-string guitar is uncertain, but it is possible that the instrument originated in Mexico towards the end of the 19th century. "No one's really sure who came up with this idea, but it is possible that 12 string guitars originated in Mexico towards the end of the 19th century." ← https://www.youtube.com/watch?v=d9HNqb9gJSU
+**Second Ever Made Acquired by George Harrison** : George Harrison purchased the second 12-string Rickenbacker electric guitar ever made from a company representative who met The Beatles at the Plaza Hotel in New York. "He bought the second ever 12 string Rickenbacher electric ever made." ← https://www.youtube.com/watch?v=d9HNqb9gJSU
+**Tuning and "Courses" Explanation** : A 12-string guitar is strung with six pairs of strings, called courses. Each pair consists of two closely spaced strings; for the four lower pairs, they are tuned an octave apart, while the two higher pairs are tuned to the same note. "With a 12 string, you have six pairs of strings, with each string in the pair very close together and tuned to the same note, an octave apart for the four lower pairs, and to the same note for the two higher ones. These pairings are called courses." ← https://www.youtube.com/watch?v=d9HNqb9gJSU
+

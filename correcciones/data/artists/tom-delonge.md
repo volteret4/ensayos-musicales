@@ -1,0 +1,19 @@
+# artist - Tom Delonge
+
+## member of
+- Angels & Airwaves
+- Blink-182
+
+## albums
+**To The Stars (2015)** : This was Tom DeLonge's first solo album, released in April 2015, shortly after his definitive departure from Blink-182. The album featured eight songs consisting of Blink-182 demos and other unreleased material, offering insights into his creative process during that period. "In April 2015, we got the first Tom DeLong solo album. He called it To The Stars." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE
+
+## songs
+**New World (2015)** : This track is a sample from Tom DeLonge's solo album, "To The Stars," which was released in the spring of 2015. The album comprised Blink-182 demos and other solo material. "This is called New World." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE
+
+## curiosities
+**Entrepreneurial Ventures** : Outside of music, Tom DeLonge founded a shoe company called McBeth, which achieved success. He also established a software company named Mod Life, specifically designed to help musicians monetize their creative output. These ventures reflected his diverse interests beyond performance. "Plus, he had a shoe company called McBeth that was doing well. Then there was his software company called Mod Life, which is aimed at helping musicians monetize what they produced." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE
+**Financial Security** : Tom DeLonge possesses substantial financial resources, which contribute to his overall satisfaction and independence. Being part of a band that sold approximately 40 million albums means that monetary concerns are largely irrelevant for him. "He has more than enough money to keep him happy. And when you're in a band that sold 40 million or so albums, you know, money's not much of a problem." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE
+**Literary Ambitions** : Tom DeLonge has expanded his creative endeavors into writing, undertaking ambitious projects such as writing up to 15 novels. Each novel is co-authored with different individuals and is conceived to be accompanied by its own album, creating an interconnected multimedia universe. "he had all kinds of other things he wanted to do, including running up to 15 novels, each with different co-authors, each with albums to go with them." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE
+**Personal Hardships (2000s)** : During the mid-2000s, Tom DeLonge faced significant personal challenges. His brother was deployed to Iraq, a war he opposed, and his father was diagnosed with leukemia. These events, combined with the Blink-182 breakup and a serious back injury that led to painkiller addiction, created a difficult period in his life. "His brother was deployed to Iraq, a war that Tom opposed. His father was diagnosed with leukemia. In other words, it wasn't a very good time." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE
+**Political Activism** : Tom DeLonge became actively involved in politics, endorsing John Kerry for president and campaigning on the election circuit for a period. His political engagement stemmed from a desire for reform after four years of George Bush's presidency, deeply influencing the philosophical underpinnings of his band, Angels & Airwaves. "He endorsed John Kerry for president. He got sucked into politics. He even toured the election circuit for a while." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE
+

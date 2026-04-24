@@ -1,0 +1,7 @@
+# artist - Jack Russell
+
+## curiosities
+**Death Details - August 7, 2024** : Jack Russell died on August 7, 2024, just one month after announcing his retirement, due to complications from Lewy Body Dementia. "A month later, on August 7, he was dead from complications resulting from the disease." ← https://www.youtube.com/watch?v=HBS24NwhrE8
+**Extensive Health Issues** : After the Station Nightclub fire, Jack Russell continued to perform despite battling numerous health issues. In 2009, a fall in his bathroom caused two cracked vertebrae and a herniated disc. He also struggled with painkiller addiction and alcoholism. "Jack eventually went back to playing live, although he had all kinds of health issues. In 2009, a fall in his bathroom resulted in two crack vertebrae in a herniated disc. He battled painkiller addiction in alcoholism." ← https://www.youtube.com/watch?v=HBS24NwhrE8
+**Lewy Body Dementia Diagnosis and Retirement (2024)** : On July 17, 2024, Russell announced his retirement from touring after being diagnosed with Lewy Body Dementia, a neurological disease similar to Parkinson's. This condition was also responsible for the deaths of Casey Kasem and contributed to Robin Williams' suicide. "on July 17, 2024, he announced that he was retiring from touring because he'd been diagnosed with Lewy Body Dementia, which is a neurological disease similar to Parkinson's. It's the same thing that killed Casey Kasim and the same condition that prompted Robin Williams to take his own life." ← https://www.youtube.com/watch?v=HBS24NwhrE8
+

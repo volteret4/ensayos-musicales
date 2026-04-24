@@ -1,0 +1,40 @@
+# genre - Reggae
+
+## curiosities
+**1977 British Context** : In 1977, reggae was not as ubiquitous as it is today; its growing popularity in Britain was spurred by the political and economic situation in Jamaica, which led many Jamaicans to immigrate to Britain under a soon-to-be-eliminated Commonwealth law. "Ari developed a taste for reggae. And this is more radical than it sounds right now. See today, reggae and scott, that's everywhere, right? Not so in 1977, but that was changing thanks to the political and economic situation in Jamaica." ← https://www.youtube.com/watch?v=9uTORLOm5Yg
+**Basic Enduring Sound** : Reggae music is listed as one of the basic and enduring sounds that will never go away, but is continuously challenged by new genres. "The basic sounds are still with us. Rock, alternative, indie, Goth, industrial, metal, synth-based music, ska, reggae, and so on. They're never going to go away." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
+**Benefit for Dogs** : Science has confirmed that reggae is the most beneficial music for dogs, particularly tunes that match a dog's resting heartbeat, to ensure proper soothing. "science has confirmed that the best music you can play for your dog is reggae." ← https://www.youtube.com/watch?v=72Lei7uug8c
+**Bluebeat in Coventry** : In the industrial city of Coventry, many Jamaican immigrants settled, bringing their music, which was then referred to as Bluebeat. This genre existed alongside Northern Soul, R&B, and other British youth music movements. "industrial city of Coventry... home to many Jamaican immigrants in their music, which was now being called Bluebeat. In Coventry, Bluebeat existed alongside several other genres, Northern Soul, R&B, Reggae, as well as some of the music of the British youth movements, the mods, the rockers, the Teddyboys, and of course, the punk rockers." ← https://www.youtube.com/watch?v=9uTORLOm5Yg
+**Bob Marley's Legacy** : Bob Marley is referred to as the "King of All Things reggae," highlighting his paramount influence and status within the genre. "The King of All Things reggae." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
+**Cultural and Musical Mixing** : Jamaican immigrants, seeking jobs in post-war labor-shortage Britain, became part of the British working class, leading to an inevitable mixing of cultures and, consequently, music, greatly influencing British artists like The Slits and The Clash. "See, the UK was still suffering a certain amount of post-war labor shortages, and these immigrants became part of the British working class, and that led to an inevitable mixing of cultures. And of music, of course." ← https://www.youtube.com/watch?v=9uTORLOm5Yg
+**Dog Preference for Reggae** : Researchers have found that dogs' stress levels significantly decrease when exposed to reggae music, a phenomenon that Scotland seems to lead studies in. This is believed to be due to reggae rhythms being similar to a dog's resting heartbeat. "Researchers have long known that dogs love reggae. Scotland seems to lead study in this area." ← https://www.youtube.com/watch?v=nYPGQiDL5bw
+**Dogs' Preferred Music Genre** : Scientific studies indicate that dogs respond positively to certain types of music, particularly those with rhythms close to their own heartbeat, to help with issues like separation anxiety, hyperactivity, or fear of thunderstorms. Science has determined that reggae music, especially that of Bob Marley, is the perfect genre for dogs. "It turns out that dogs gravitate towards music most in tune with their own heartbeat and science has determined that the perfect music for dogs is reggae, especially Bob Marley." ← https://www.youtube.com/watch?v=GO0K_N7Ys7I
+**Gorillaz Debut Album Component** : Reggae music was one of the various genres that contributed to the experimental nature of the Gorillaz's debut album. "The music was rather experimental, more trip-hop, some alt-rock, bits of Brit-pop, little dub, little reggae, and a bunch of hip-hop." ← https://www.youtube.com/watch?v=iVdTCqpd798
+**Influence on British Bassists** : The deep, fat, and warm bass grooves originating from New Jamaican immigrants significantly influenced British bassists like Paul Simmonon of The Clash. "He'd been absorbing the deep bass sounds he heard coming from the windows of New Jamaican immigrants. It was fat and warm and had a groove unlike anything that came out of Britain." ← https://www.youtube.com/watch?v=kbFfT0pKchI
+**Influence on Public Image Limited** : Johnny Lydon deeply incorporated reggae influences into the experimental sound of Public Image Limited. "He got deep into reggae and dub." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
+**Influence on The Police** : The Police incorporated elements of reggae into their short, tight pop songs, contributing to their edgy and distinct sound, which was characterized as New Wave. "Another important group was the police, two Englishmen and an American who played short, tight pop songs with a bit of reggae and scoff layer." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
+**Introduced to Punks by Don Letts** : In the 1970s, Don Letts, a DJ, played a crucial role in introducing reggae music to a new generation of punk kids in clubs. With few punk records available at the time, Jamaican music, including reggae, served as the initial soundtrack for the burgeoning punk scene. "He was the DJ who introduced reggae and dub to a new generation of these punk kids in the 1970s in clubs where they hung out. See, there were no punk records yet, so that music, Jamaican music, dub music, black music became theirs until they had some punk records to listen to." ← https://www.youtube.com/watch?v=_1NNvxgx8uA
+**Les Paul Guitar's Versatility** : The Gibson Les Paul guitar has been continuously in production since its 1952 introduction and is widely used across virtually every genre, including reggae. Its solid-body design resolved feedback issues common with older hollow-body guitars, making it ideal for amplified reggae music. "The Les Paul has been in production ever since, and has been used by guitars into rock, punk, metal, pop, country, soul, R&B, jazz, reggae, and virtually every other genre you want to mention." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
+**Pet Preference (Dogs)** : Based on research from the University of Glasgow, reggae music is identified as the best possible music for dogs because it closely matches their resting heartbeat. "The best possible music for your dog is reggae." ← https://www.youtube.com/watch?v=KtdIMNoHqA8
+**Rastafarian Marijuana Use** : Rastafarians utilize marijuana for spiritual purposes. "For example, Rastafferians use marijuana for spiritual reasons." ← https://www.youtube.com/watch?v=i5lR8zz7_ZE
+**Shared Skinhead and Swadehed Interest** : Reggae music was a shared musical interest between the skinhead movement and the Swadeheds, reflecting a broader appreciation for specific genres within these British subcultures. "but they also shared a skinhead interest in soul, reggae, and sky." ← https://www.youtube.com/watch?v=mAlc-N2wn5s
+
+## artists
+- Bad Brains
+- Bob Marley
+- D.H. Peligro
+- Don Letts
+- Dread Zeppelin
+- Gorillaz
+- Grace Jones
+- Jimmy Cliff
+- Option 30
+- Peter Tosh
+- Public Image Limited
+- Taylor Hawkins
+- The Clash
+- The Police
+- The Specials
+- Trent Reznor
+- UB40
+

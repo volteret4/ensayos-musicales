@@ -1,0 +1,12 @@
+# instrument - Roland CR-78
+
+## curiosities
+**First Microprocessor-Based Rhythm Machine (1978)** : Released by Roland in 1978, the CompuRhythm CR-78 was the first microprocessor-based rhythm machine, powered by an Intel 80008 chip. It sold for $1,000, came in a wooden box, offered 14 sounds and 20 presets, and, crucially, was programmable. "And then in 1978 the company was called Roland by this time, they released the CR-78. The CR stood for Compu Rhythm. It sold for a thousand dollars and came in a wooden box and was the first ever microprocessor based rhythm machine was based on the Intel 80008 chip." ← https://www.youtube.com/watch?v=dablAKDOOV0
+**Major Step Forward** : Despite its sounds not being drastically different from other machines on the market, the CR-78's programmability marked a major technological advancement in drum machine technology. "And that made it a major step forward in drum machine technology." ← https://www.youtube.com/watch?v=dablAKDOOV0
+**Memory for Four Beats** : The CR-78 was equipped with enough memory to store four different user-programmed beats, a significant feature for its time. "It had enough memory to store four different beats." ← https://www.youtube.com/watch?v=dablAKDOOV0
+**Ultravox's Embrace and Modification** : Ultravox, particularly drummer Warren Cann, embraced the CR-78 for their 1980 album *Vienna*. Cann modified his unit to address tempo drift, jury-rigging voltage regulators to keep the tempo tight, and also modified it to produce a fatter bass drum sound. "A big problem was keeping the machine from drifting off its pre-assigned tempo... So Warren opened it up and started playing with voltage regulators. He jury rigged away to keep tempo tight, as well as a way to make the bass drum sound fatter." ← https://www.youtube.com/watch?v=dablAKDOOV0
+**Widely Used in Hit Songs** : The Roland CR-78 was widely featured on numerous hit songs in the early 1980s, including Phil Collins' "In the Air Tonight" (before live drums), Hall & Oates' "I Can't Go for That," Blondie's "Heart of Glass," Roxy Music's "Dance Away," and tracks by Genesis, Peter Gabriel, OMD, and Gary Numan. "You have definitely heard a CR-78 in action. It's what we hear in the Phil Collins song in the air tonight before the real drums kick in. It's here and I can't go for that from Hall and Oats." ← https://www.youtube.com/watch?v=dablAKDOOV0
+
+## artists
+- Orchestral Manoeuvres in the Dark
+

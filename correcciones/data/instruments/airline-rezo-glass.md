@@ -1,0 +1,6 @@
+# instrument - Airline Rezo Glass
+
+## curiosities
+**Department Store Origin and Current Value** : Originally sold at Montgomery Ward department stores for the modest price of $99 in 1964, the Airline Rezo Glass was considered to have a humble pedigree. Today, however, a vintage model can fetch around $3,000, demonstrating a significant increase in its collectible value, especially due to its association with artists like Jack White. "This guitar was only available at Montgomery Ward department stores and sold for the princely sum of $99. By the way, if you want to get a vintage Redmond Gummary Ward airline guitar today, expect to pay somewhere around $3,000." ← https://www.youtube.com/watch?v=fQCOj3_zy54
+**Fiberglass Construction (1964)** : The Airline Rezo Glass guitar, built by Velco in 1964, was a pioneering instrument made from fiberglass, then a state-of-the-art material. This allowed for non-traditional body shapes and contributed to its unique character, featuring a short neck with only 20 frets. "It was built by a company called Velco and was made a fiberglass, a then-stated-the-art material, which allowed for non-traditional body shapes. It had a short neck too with only 20 frets." ← https://www.youtube.com/watch?v=fQCOj3_zy54
+

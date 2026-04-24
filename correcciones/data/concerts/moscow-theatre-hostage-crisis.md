@@ -1,0 +1,7 @@
+# concert - Moscow Theatre Hostage Crisis
+
+## curiosities
+**Associated Conspiracy Theories** : The Moscow Theatre hostage crisis has given rise to numerous theories and conspiracies, with some suggesting connections back through Russia's FSB security service all the way to Vladimir Putin. "If you want to go down a real rabbit hole, read up on how this tragedy spiraled into a number of theories and conspiracies that led back through Russia's FSB security service, all the way up to Vladimir Putin." ← https://www.youtube.com/watch?v=Pgchw2h87aw
+**Chechen Rebel Siege (October 23, 2002)** : On October 23, 2002, up to 50 armed Chechen rebels stormed the Dubrakva Theatre in Moscow during a musical performance, taking approximately 900 people hostage. The crisis lasted four days. "This is when Chechen rebels took over the Dubrakva Theatre where around 900 people were watching a musical." ← https://www.youtube.com/watch?v=Pgchw2h87aw
+**Resolution and Uncertain Casualties** : The Moscow Theatre hostage crisis concluded when authorities pumped a noxious gas, reportedly fentanyl-based, into the theatre to incapacitate everyone, including the gunmen. However, some hostage-takers had gas masks, and shooting ensued. The precise death toll remains uncertain, estimated between 200 and 300 or more, with over 700 injured. "It ended when authorities pumped in a noxious gas, apparently based on fentanyl, in hopes of unacetizing everyone, including the gunmen." ← https://www.youtube.com/watch?v=Pgchw2h87aw
+
