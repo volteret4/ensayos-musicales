@@ -9,6 +9,7 @@
 
 ## genres
 - Glam rock
+- Glitter Rock
 - New Wave (early description)
 - Pre-punk
 - Proto-punk
@@ -27,4 +28,5 @@
 **Pioneers of Makeup and Spandex on Stage** : The New York Dolls were notable as the first group to incorporate makeup and spandex into their stage attire. While they never explicitly discussed their sexuality, they were content to let audiences draw their own conclusions, contributing to an ambiguous and liberated image. "They never spoke with their sexuality, but we're only too happy to let people make assumptions." ← https://www.youtube.com/watch?v=hswtuenFwvM
 **Pioneers of Over-the-Top Glam Makeup** : The New York Dolls were notable for their adoption of over-the-top glam makeup styles during the early 1970s, contributing to the flamboyant visual aesthetic of the era. "Styles run from the over-the-top glam of David Bowie and the New York Dolls in the early 1970s..." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM
 **Predecessor to The Heartbreakers** : Johnny Thunders, who was previously known as Johnny Volum, was a member of the New York Dolls before moving on to form The Heartbreakers. "Thunders had been a part of the New York dolls, but had now moved on to a group called The Heartbreakers." ← https://www.youtube.com/watch?v=gKrAXMG8sTc
+**Spandex and Makeup Style** : The New York Dolls were notable for their "Spandex and makeup wearing" style, emblematic of the glitter rock movement that found a home in America. "the Spandex and makeup wearing New York dolls." ← https://www.youtube.com/watch?v=blDNqVFheAw
 

@@ -9,6 +9,7 @@
 - New Wave
 - Pop
 - Post-punk pop
+- Powerpop
 
 ## labels
 - Virgin
@@ -31,6 +32,7 @@
 
 ## curiosities
 **Featured on MTV** : XTC was one of the New Wave bands whose music videos were regularly broadcast on MTV, helping to shape the channel's early identity and popularize the genre. "They played all the groups that we've talked about in many more. Eurythmics, XTC, Soft Sale, Adamance, Human League, Bowah Wow, and The Go Go's..." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
+**New Wave Powerpop** : XTC is listed as one of the bands whose musical output can be categorized under the new wave umbrella of Powerpop. Their style contributed to the genre's presence within the emerging alternative rock scene, characterized by clever songwriting and melodic hooks. "We can probably include the jam, the smiths, XTC, squeeze, and the vapors." ← https://www.youtube.com/watch?v=hstJ8M2laho
 **Prolific Output and Creative Shift** : XTC was a prolific band, often releasing at least one album per year. In 1985, they sought a creative departure from their usual post-punk quirkiness, embracing 60s psychedelia and aiming for a more fun, less serious approach to songwriting, which led to the creation of their pseudonymous project, The Dukes of Stratosphear. "XTC was a pretty prolific band in their day, releasing at least an album a year, but in 1985 they decided to try something different." ← https://www.youtube.com/watch?v=itK5fEqnA5E
 **Times Square Soundtrack Contribution (1980)** : XTC was included on the soundtrack for the 1980 movie *Time Square*. This soundtrack was noteworthy for being one of the initial collections to feature the nascent alternative music movement of the time, such as punk and new wave. "The soundtrack featured the pretenders, Roxy music, Gary Newman, XTC, Joe Jackson." ← https://www.youtube.com/watch?v=zIkjd1OjCXM
 

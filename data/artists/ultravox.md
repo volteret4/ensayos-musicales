@@ -21,4 +21,5 @@
 ## curiosities
 **Early Gloomy Incarnation** : In their initial phase, Ultravox was quite gloomy, contributing to the dark music that attracted early goth adherents before the band lightened up considerably. "Ultravox, who would later lighten up considerably, were quite gloomy in their first incarnation, making songs like Saturday Night in the City of the Dead, and the Wild, the Beautiful, and the Damned." ← https://www.youtube.com/watch?v=XaLsZFLrMnI
 **Early Goth Scene Inspiration** : The first version of Ultravox was recognized as one of the artists whose dark music helped attract punk refugees who were looking for a gloomier sound, contributing to the formation of the Goth scene. "That would include David Bowie and joint-evision, the first version of Ultravox, and an Irish performance art group called The Virgin Proons." ← https://www.youtube.com/watch?v=gd9sO7c3N1s
+**New Romantic Descendant** : Ultravox is identified as a band that emerged from the New Romantic movement, directly influenced by the legacy of glam rock, particularly David Bowie and Roxy Music. "Ultravox." ← https://www.youtube.com/watch?v=blDNqVFheAw
 

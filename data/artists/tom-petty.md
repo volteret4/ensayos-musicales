@@ -1,10 +1,13 @@
 # artist - Tom Petty
 
 ## genres
+- Alternative (early categorization)
 - New Wave (early categorization)
+- Powerpop (early categorization)
 
 ## instruments
 - Gibson Flying V
+- Recording console (from Sound City Studios)
 - Rickenbacker
 - Vox units
 
@@ -20,6 +23,7 @@
 **Covered in Early Days** : The Trews covered songs by Tom Petty during their formative years, integrating them into their sets that often included three hours of music comprising both cover songs and their own developing material. "Tom Petty covers." ← https://www.youtube.com/watch?v=3zbKOwkpkAM
 **Death (October 2017)** : Tom Petty died in October 2017. "Tom Petty left us that October..." ← https://www.youtube.com/watch?v=sOU54d8mr5k
 **Death in 2017** : Tom Petty was one of the significant musicians who died in 2017. "Tom Petty." ← https://www.youtube.com/watch?v=sdPeii-8Ysw
+**Early Categorization in the 1980s** : In the early 1980s, Tom Petty was sometimes erroneously categorized into the Powerpop, New Wave, or Alternative artist mix. This happened due to a tendency at the time to label any short, sharp rock songs as Powerpop, illustrating the confusion around genre definitions. "But by the time we got to the middle of the decade, big guitar sounds with big hooks that just happened to have pot melodies were coming back into Vogue, thanks to groups like REM." ← https://www.youtube.com/watch?v=hstJ8M2laho
 **Initial New Wave Categorization** : When Tom Petty first emerged, some in the music industry categorized him as a New Wave artist due to his short, sharp songs and anti-corporate stance, illustrating the broad initial application of the term. "For example, when Tom Petty first appeared with his short, sharp songs, and anti-corporate stance, some people in the industry categorized him as a new wave artist." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
 **Opposition to Trump Campaign Music Use** : Tom Petty was among a long list of artists who expressed strong opposition to Donald Trump's campaign using their music at political rallies. Despite venues often holding blanket performing rights licenses, artists did not want their work associated with the campaign and many pursued cease and desist orders or lawsuits. "The list of artists against Trump using their music is long." ← https://www.youtube.com/watch?v=GYUuTbOvyak
 **Strokes' "American Girl" Acknowledgment** : Tom Petty recounted that The Strokes "took American girl for their song Last Night," and he "saw an interview with him saying where they actually admitted it and that made me laugh out loud." Petty expressed a preference for artists admitting influence rather than malicious theft. "The strokes took American girl for their song last night. And I saw an interview with him saying where they actually admitted it and that made me laugh out loud." ← https://www.youtube.com/watch?v=rfObVld9rIE

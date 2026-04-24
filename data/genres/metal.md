@@ -10,6 +10,7 @@
 **Closing Gap with Punk** : With the rise of grunge in the early 1990s, the "gap started to close between punk and old school metal," as grunge artists openly acknowledged influences from bands like Black Sabbath, Judas Priest, and Kiss. "With Nirvana and all their grunge peers, the gap started to close between punk and old school metal." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE
 **Debt to Black Artists** : In the 1980s, metal "owed a big debt to black guys like Jimmy Hendrix and Phil Linatov" of Thin Lizzy, acknowledging the significant but often uncredited contributions of black musicians to the genre's development. "even though metal owed a big debt to black guys like Jimmy Hendrix and Phil Linatov, then Lizzie." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE
 **Early Influence on Hardcore** : Heavy metal of the era was an influence on early hardcore, alongside punk rock styles like the Sex Pistols, Ramones, and The Clash. "The punk rock styles, the sex pistols, the romones, and the clash were influenced, but so was the heavy metal of the era." ← https://www.youtube.com/watch?v=0qigzi1j81U
+**Early Rock Subdivision (Pre-1977)** : Metal was identified as one of the multitude of different directions that rock music had grown into by 1977, signifying an early and distinct subgenre within the broader rock landscape. "Rock had already grown in a multitude of different directions, metal, Prague, psych, and the so-called corporate rock bands like Boston and Kansas." ← https://www.youtube.com/watch?v=vJszsJQpINQ
 **Early Skateboarding Soundtrack** : In the 1970s, kids at the Oxnard skate park initially skated to metal, before punk rock became their preferred soundtrack. "And they all skated to either metal or southern rock." ← https://www.youtube.com/watch?v=44dXy0StjIQ
 **Fusion with Hip Hop** : Metal's fusion with hip hop led to the emergence of "new metal," representing the "hardest, heaviest and most intense marriage of hip hop and rock." "But at the other end of the spectrum was the hardest, heaviest and most intense marriage of hip hop and rock. And this is when we get into what became known as new metal." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
 **Goth Elements in Metal** : Various metal scenes, particularly death metal, have absorbed elements of Goth. "There were a series of metal scenes that have absorbed elements of Goth, especially death metal." ← https://www.youtube.com/watch?v=evlGhfUe6QQ
@@ -32,6 +33,7 @@
 **Skate Punk Crossover** : By 1985, some skate punk incorporated elements of heavy metal, including guitar solos, leading to a community fracture. Some bands moved fully into metal genres as a result. "By 1985, the original Skate Punk sound had acquired a new thing, elements of heavy metal, including guitar solos." ← https://www.youtube.com/watch?v=44dXy0StjIQ
 **Songs About Ted Bundy** : Metal is one of the genres, including rock, pop, and hip hop, that includes songs written about the serial killer Ted Bundy. This highlights the genre's engagement with dark and often controversial subject matter. "There are a similar number of songs about Ted Bundy, rock, pop, metal, hip hop." ← https://www.youtube.com/watch?v=FtGJHhqXcDI
 **Study Reveals Metal Fans Among Happiest (2021)** : A 2021 scientific experiment studying metal music and its fans uncovered that metal enthusiasts are among the happiest music fans, ranking second only to jazz fans in terms of overall happiness. The study also noted that metal fans are the most likely among all music fans to engage in sexual activity in a car. "One of the things a 2021 experiment uncovered was that metal fans are among the happiest music fans out there." ← https://www.youtube.com/watch?v=-N6IM5Nm5iw
+**Warsaw Pact Confusion** : The London metal band Warsaw Pact created confusion for Joy Division (then called Warsaw), necessitating Joy Division's name change to avoid being mistaken for the metal group. "Warsaw was always getting confused with a London metal band called Warsaw Pact." ← https://www.youtube.com/watch?v=1VWJ0uCQx8w
 
 ## artists
 - AC/DC
@@ -76,4 +78,5 @@
 - Testament
 - The White Stripes
 - Trent Reznor
+- Warsaw Pact
 

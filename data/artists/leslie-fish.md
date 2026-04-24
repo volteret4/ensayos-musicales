@@ -11,5 +11,7 @@
 
 ## curiosities
 **First Commercial FILK Recording (1976)** : Leslie Fish was the first artist to release a commercial recording in the FILK music genre. "She was the first person to release a commercial FILK recording, 1976." ← https://www.youtube.com/watch?v=h6snk0m4200
+**First Commercial Filke Recording (1976)** : Leslie Fish was the first person to release a commercial recording in the Filke music genre, setting a precedent for this niche form of music. "She was the first person to release a commercial Filke recording, 1976." ← https://www.youtube.com/watch?v=8lQv8eMJ868
 **Godmother of FILK Music** : Leslie Fish is recognized as the godmother of FILK music, having been an anti-Vietnam war activist before becoming a pioneer in the genre. She made the first commercial FILK recording in 1976. "The godmother of FILK music has to be Leslie Fish, a former anti-Vietnam war activist." ← https://www.youtube.com/watch?v=h6snk0m4200
+**Godmother of Filke Music** : Leslie Fish is recognized as the "godmother of Filke music." She was an anti-Vietnam war activist and made the first commercial Filke recording in 1976. "The godmother of Filke music has to be Leslie Fish, a former anti-Vietnam war activist." ← https://www.youtube.com/watch?v=8lQv8eMJ868
 

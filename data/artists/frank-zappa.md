@@ -3,6 +3,13 @@
 ## instruments
 - Big Muff
 
+## albums
+**Joe's Garage (Year not specified)** : Warren Cuccurullo is named-checked four times on this album, notably in the songs "Catholic Girls" and "Cru Slut." "Warren is named checked four times on the Joe's Garage album." ← https://www.youtube.com/watch?v=DA2iJsu3GRY
+
+## songs
+**Catholic Girls (Year not specified)** : This song from the "Joe's Garage" album features a name-check of Warren Cuccurullo. "For example, he's mentioned in the song, Catholic Girls, as well as in the song, Cru Slut." ← https://www.youtube.com/watch?v=DA2iJsu3GRY
+**Cru Slut (Year not specified)** : This song from the "Joe's Garage" album mentions Warren Cuccurullo, specifically in the context of him "buying the leather cap and trousers and cyborg." "For example, he's mentioned in the song, Catholic Girls, as well as in the song, Cru Slut." ← https://www.youtube.com/watch?v=DA2iJsu3GRY
+
 ## curiosities
 **Amphibious Fish Species** : An amphibious fish known as a mudskipper, characterized by its big, googly eyes, has also been named after Frank Zappa. This highlights Zappa's diverse recognition within the scientific community. "A mudskipper, which is an amphibious fish with big, googly eyes." ← https://www.youtube.com/watch?v=VMPLplhDk8I
 **Ancient Shellfish Species** : An ancient shellfish species, *A moratoma Zappa*, was named in tribute to Frank Zappa, further demonstrating his unique appeal to scientists. "An ancient shellfish. A moratoma Zappa." ← https://www.youtube.com/watch?v=VMPLplhDk8I
@@ -12,6 +19,7 @@
 **Following Sgt. Pepper's Lead** : Frank Zappa was among the bands that got into the act of creating concept albums after the release of The Beatles' *Sgt. Pepper's Lonely Hearts Club Band*. "That opened the floodgates, the moody blues, the who, Frank Zappa, the kinks, and a bunch of other bands got into the act." ← https://www.youtube.com/watch?v=Dm5N6yDRxXQ
 **Frank Zappa – Childhood Mercury Exposure Linked to Prostate Cancer Death at 52** : Frank Zappa died of prostate cancer at age 52. As a child he played with vials of poisonous mercury that his father, a chemist working in the defense industry, brought home. Mercury exposure has been linked to this disease. "As a child, he played with vials of poisonous mercury his father, a defense industry chemist, brought home." ← https://www.youtube.com/watch?v=qtdetc5-MQo
 **Jellyfish Species** : A jellyfish species, *Fiaella Zappai*, has been named in honor of Frank Zappa, adding to the list of scientific discoveries bearing his name. "He also has a jellyfish named after him. Fiaella Zappai." ← https://www.youtube.com/watch?v=VMPLplhDk8I
+**Musical Hero for Young Germans** : Zappa was considered a musical hero by young Germans in the post-war period, admired for his unconventional and experimental approach to music. "Frank Zappa and whatever it was that Zappa did." ← https://www.youtube.com/watch?v=ePZDkqLM_gw
 **Musical Parent** : Frank Zappa is the father of Dweezil Zappa, who has dedicated his career to preserving his father's legacy. "keeping his father's legacy alive." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
 **Offer to John Frusciante (1988)** : In 1988, Frank Zappa called the then 17-year-old John Frusciante to offer him a gig in his band. However, Frusciante decided against joining because Zappa "wouldn't condone anyone who used illegal drugs in his band," a condition Frusciante was unwilling to meet at the time. "Frank Zappa called, but since Zappa wouldn't condone anyone who used illegal drugs in his band, John decided that he'd better not go." ← https://www.youtube.com/watch?v=TESrEzVHLCc
 **Spider Species** : The spider *Packagnatha Zappa* was named after Frank Zappa by two Belgian biologists who discovered it in the mountainous regions of Cameroon. They observed that the spider's markings strongly resembled Zappa's distinctive moustache. "Two Belgian biologists found it and thought its markings looked a lot like Frank's moustache." ← https://www.youtube.com/watch?v=VMPLplhDk8I

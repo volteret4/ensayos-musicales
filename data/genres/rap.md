@@ -39,6 +39,7 @@
 - Eminem
 - Fishbone
 - Grandmaster Flash
+- Kraftwerk
 - Lincoln Park
 - Nelly
 - Run DMC

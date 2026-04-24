@@ -1,7 +1,5 @@
-# instrument - Edison Cylinder
+# instrument - Edison cylinder
 
 ## curiosities
-**First Commercially Available Recording (1888)** : In November 1888, the first commercially available recording was released as a tiny Edison cylinder integrated into a talking doll. Priced at an "insane" $10, the doll recited "Twinkle Twinkle Little Star." "It was a tiny cylinder, an Edison cylinder inserted into a talking doll that went on sale for the insane price of $10 in November of 1888" ← https://www.youtube.com/watch?v=gP3oQeYEvso
-**First Playable Audio Recording (1877)** : Thomas Edison's "talking machine" invention in 1877 produced the first audio recording that could be played back. Edison's recitation of "Mary Had a Little Lamb" was the inaugural recording, though the original cylinder was later destroyed during his experiments. "The first audio ever recorded and played back was by Thomas Edison who recited Mary Haddle Little Lamb into his new talking machine invention in 1877." ← https://www.youtube.com/watch?v=gP3oQeYEvso
-**Oldest Playable Musical Recording (1888)** : An Edison cylinder recording from 1888, featuring 500 musicians and 4,000 singers performing Handel's "Israel and Egypt" at London's Crystal Palace, is recognized as the oldest playable musical recording. "The oldest playable musical recording is thought to be an Edison cylinder of 500 musicians and 4,000 singers performing Handel's Israel and Egypt which was made at London's Crystal Palace." ← https://www.youtube.com/watch?v=gP3oQeYEvso
+**Limited Recording Capacity** : The original Edison cylinder could hold only about two minutes of music, directly influencing the required length of songs committed to this early audio recording format. "An original Edison cylinder could hold maybe two minutes worth of music, therefore any songs committed to the format had to be two minutes or shorter, otherwise you'd run into space." ← https://www.youtube.com/watch?v=08i9lVd6T8c
 

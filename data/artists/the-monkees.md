@@ -9,6 +9,9 @@
 ## instruments
 - Synthesizer
 
+## albums
+**Pisces Aquarius Capricorn and John Limited (1967)** : Released in 1967, this album features the song "Star Collector," which is notable for containing the first known instance of a synthesizer being used on a rock record. The synthesizer on the track is described as having a "razor sharp" sound. "The first known use of a synthesizer on a rock record was in 1967 on an album called Pisces Aquarius Capricorn and John Limited by the Monkeys." ← https://www.youtube.com/watch?v=iL9KpQFqH4o
+
 ## songs
 **Not Your Steppin' Stone (1967)** : This song was the B-side to The Monkees' single "I'm a Believer." It gained an unexpected punk rock association when the Sex Pistols, surprisingly fans of the manufactured 1960s TV band, frequently performed roaring live versions of it. "When the pistols played live, they often roared through this B side to the monkey single, I'm a believer. This is a not your step-in-stone." ← https://www.youtube.com/watch?v=gkLMwrthZ9s
 **Star Collector (1967)** : This song is noted as one of the very first instances, if not the first, of a synthesizer being used on a record. "The monkeys were among the first, if not the very first, to use a synth on a record. This appeared in a 1967 song called Star Collector." ← https://www.youtube.com/watch?v=0fQQubt9UTI

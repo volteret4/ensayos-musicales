@@ -2,6 +2,7 @@
 
 ## members
 - D.H. Peligro
+- D.H. Pellegrot (former)
 - East Bay Ray
 - East Bay Ray (guitarist)
 - Jello Biafra

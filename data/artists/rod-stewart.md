@@ -3,6 +3,9 @@
 ## member of
 - Small Faces / Faces
 
+## genres
+- Glam Rock
+
 ## concerts
 - London Show
 
@@ -15,6 +18,7 @@
 ## curiosities
 **Concert Ticket Sales Comparison** : The Tragically Hip's Canadian tour for *Fully Completely* experienced such high demand that tickets sold out faster than those for Rod Stewart in some cities. "The supporting Canadian tour sold out in minutes and in some cities the hip sold out faster than Rod Stewart and John Mellon Camp." ← https://www.youtube.com/watch?v=Vs1YyXgLpTE
 **Early MTV Dominance** : Rod Stewart had an overwhelming presence on MTV's launch day, August 1, 1981. Of the channel's initial library of 250 videos, 30 were by Stewart, and his videos were played 17 times on the first day, including the 3rd, 15th, 37th, 51st, 77th, 97th, and 110th slots. "When MTV signed on in the summer of 1981, their entire music library consisted of 250 videos, 30 of which were by Rod Stewart." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
+**Glam Rock Dressing Style** : In the mid-1970s, Rod Stewart's dressing style reflected the influence of glam, indicating his adoption of the genre's aesthetic. "Look at how Rod Stewart was dressing." ← https://www.youtube.com/watch?v=blDNqVFheAw
 **Invitation to New York Dolls** : In November 1972, Rod Stewart extended an invitation to the New York Dolls to open a show for him in London. This opportunity marked a significant moment for the Dolls, bringing them international exposure, though it was tragically overshadowed by the death of their drummer, Billy Mercier, during the trip. "Rod Stewart of all people invited the band to London to open a show for him in November of 1972." ← https://www.youtube.com/watch?v=0xd0Hf5REg4
 **MTV Launch Library (1981)** : At MTV's launch on August 1, 1981, their entire video library consisted of only 250 music videos, with 30 of them being by Rod Stewart. This highlights the limited content available at MTV's inception. "When they first launched their entire library, it consisted of 250 music videos, 30 of which were by Rod Stewart." ← https://www.youtube.com/watch?v=9CNNsqXiL6U
 **Model Train Enthusiast** : Rod Stewart, along with Neil Young and Frank Sinatra, shares a deep affection for model trains. "All love their model trains." ← https://www.youtube.com/watch?v=xc85sLj0Cnk

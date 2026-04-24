@@ -3,6 +3,7 @@
 ## members
 - Florence Leontine Mary Welch
 - Florence Welch
+- Isabella Summers
 - Isabella Summers (The Machine)
 
 ## genres
@@ -17,6 +18,7 @@
 ## albums
 **Ceremonials** : This album was in the process of being recorded at Abbey Road Studio 1 when a private tour took place. Studio 1, the smallest of the Abbey Road studios, was "jammed with gear" during the recording sessions. "Florence and the machine were above midway through recording their ceremonials album." ← https://www.youtube.com/watch?v=hjProJd_JrM
 **Ceremonials (Year not stated)** : Florence + The Machine was observed recording what would become their Ceremonials album in Studio Three at Abbey Road. "where Florence and the machine were set up recording what would become the ceremonials album." ← https://www.youtube.com/watch?v=N5kSZOl-5UY
+**Lungs (2009)** : This debut album was released in the summer of 2009, selling 3 million copies and earning "a couple of prestigious awards." The record contains 13 songs, six of which were released as singles, including "Dog Days Are Over." "Eventually, she ended up with a deal with island records that resulted in the lungs album in the summer of 2009, very big hit, 3 million copies, plus a couple of prestigious awards." ← https://www.youtube.com/watch?v=clPuV7ezrIc
 **Lungs (2009) - Debut Album** : Released in the summer of 2009, "Lungs" was the debut album by Florence + The Machine, following their deal with Island Records. It was a very big hit, selling 3 million copies and earning the band several prestigious awards. The record featured 13 songs, six of which were released as singles. "Eventually, she ended up with a deal with island records that resulted in the lungs album in the summer of 2009, very big hit, 3 million copies, plus a couple of prestigious awards." ← https://www.youtube.com/watch?v=rEawe_1Fqf0
 
 ## songs
@@ -34,6 +36,7 @@
 **Client Base Growth** : After relocating to the Hamilton house, the studio's client base expanded significantly, attracting numerous Canadian artists like Martha and the Muffins, The Parachute Club, and Bruce Cockburn. "That's where their client base increased exponentially." ← https://www.youtube.com/watch?v=N5kSZOl-5UY
 **Closure (May 2011) and Reasons** : Sound City closed down permanently in May 2011. Its demise was attributed to the challenging economy, the evolving state of the music industry, and the significant expenses associated with upkeep, maintenance, and keeping pace with technological advancements. "The place was stripped of gear and it was shut down for good." ← https://www.youtube.com/watch?v=N5kSZOl-5UY
 **Comparisons to Kate Bush and Tori Amos** : Upon the release of their debut album "Lungs," Florence + The Machine, particularly Florence Welch, immediately drew comparisons to artists like Kate Bush and Tori Amos, and these comparisons have continued. "Comparisons to Kate Bush and Tory Amos started immediately, and they continue." ← https://www.youtube.com/watch?v=rEawe_1Fqf0
+**Comparisons to Other Artists** : Upon their debut, Florence + The Machine immediately drew comparisons to Kate Bush and Tori Amos, comparisons that have continued throughout their career. "Comparisons to Kate Bush and Tory Amos started immediately, and they continue." ← https://www.youtube.com/watch?v=clPuV7ezrIc
 **Conversion to Residential Studio (1960s)** : In the 1960s, composer Michel Magne purchased the château and transformed it into a recording studio. He converted one wing into one of the world's first residential recording studios, where artists could live and work on their projects. "He turned one wing into one of the first residential recording studios in the world." ← https://www.youtube.com/watch?v=N5kSZOl-5UY
 **Current Facilities** : The facility now boasts four state-of-the-art rooms for recording, one dedicated mastering room, and another specifically for video editing. "There are now four state of the art rooms for recording, one for mastering, and another dedicated to just video editing." ← https://www.youtube.com/watch?v=N5kSZOl-5UY
 **Current Ownership** : Upon Daniel Lanois' departure to work with U2, Bob Doige assumed ownership and continues to operate the studio today. "When that happened, a guy named Bob Doige took over the studio and runs it to this day." ← https://www.youtube.com/watch?v=N5kSZOl-5UY

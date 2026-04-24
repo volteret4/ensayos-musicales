@@ -7,6 +7,7 @@
 - Perry Farrell
 - Sergio
 - Stephen Perkins
+- Stephen Perkins (drummer)
 
 ## genres
 - Alternative
@@ -50,6 +51,7 @@
 **Band Naming Origin** : The band's name, Jane's Addiction, was derived from "Jane," a friend of Eric Avery described as a "junkie hooker." "Jane being the junkie hooker after which the band was eventually named." ← https://www.youtube.com/watch?v=CVPPymc_qrk
 **Comeback in Alternative Metal** : Jane's Addiction was mentioned as an older group that made a comeback in the 2010s, alongside Biohazard and Faith No More, within the Alternative Metal/Alternative Hard Rock scene that was prominent in the 90s. This contributed to the renewed success of heavy bands from the past. "Plus we saw comebacks from older groups like Jane's Addiction, Biohazard and Faith No More to name a few." ← https://www.youtube.com/watch?v=HSvgRyGiOpE
 **Communal Living in East Hollywood** : In the 1980s, Jane Bainter, Sergio, Perry Farrell, and approximately half a dozen other individuals shared a Victorian house on Wilton Street in East Hollywood. This communal living situation provided the backdrop for many of the personal experiences reflected in the song "Jane Says." "Jane, Sergio, Perry, and about half a dozen other people shared a Victorian house on Wilton Street in East Hollywood back in the 1980s." ← https://www.youtube.com/watch?v=DAjcCk9xYWk
+**Declared Influence** : Jane's Addiction is among a partial list of artists and bands who have publicly stated that they have been influenced by Joy Division in some way. "You too, arcade fire, smashing pumpkins, nine inch nails, to pesh mode, sisters of mercy, ministry, chain addiction, the smiths, Bjork, Jesus and Marychain, Moby, primal scream, the Charlotains, Interpol, editors, white lies, Frans Ferdinand. I could go on, but I think you get the point." ← https://www.youtube.com/watch?v=1VWJ0uCQx8w
 **Deepening into Alt-Rock** : As listeners immersed themselves further into the 1990s alternative music scene, they would often discover bands like Jane's Addiction, signifying an embrace of diverse and influential acts from the era. ← https://www.youtube.com/watch?v=m7MbV-eCLyE
 **Drug-Oriented Social Circle (Early 1990s)** : Dave Gahan was introduced to the social circle that hung around Jane's Addiction by Teresa Conroy, where drugs were consistently available, significantly contributing to his escalating substance abuse. "She introduced him to the people who hung around Jane's Diction, and there were always drugs available with that crowd." ← https://www.youtube.com/watch?v=Jvh8SP2QKXQ
 **Founding Lollapalooza (1991)** : Perry Farrell, the singer for Jane's Addiction, conceived and established Lollapalooza in 1991, an "all-encompassing genre-bending traveling road show" that famously featured a mix of alternative rock and hardcore rap bands. This festival was groundbreaking in bridging racial and social barriers through music. "In 1991, Jane's edition singer Perry Farrell came up with the idea of an all-encompassing genre-bending traveling road show he called Lola Palusa." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE

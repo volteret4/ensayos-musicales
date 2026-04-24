@@ -3,6 +3,7 @@
 ## members
 - David Pajo
 - Josephine Wiggs
+- Kelley Deal
 - Kelly Deal
 - Kelly Deal (twin sister of Kim Deal)
 - Kim Deal
@@ -30,6 +31,7 @@
 **Early Funding and Hiatus** : Kim Deal secured $11,000 from The Pixies' UK record label to record a demo, which eventually became their album "Pod." Following its release, the band went on hiatus as Kim returned to The Pixies and Tanya Donnelly rejoined Throwing Muses. "She sent a demo to the Pixies record label in the UK and they gave her $11,000 to record a demo." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Formation as an Outlet** : The Breeders were formed by Kim Deal, the bassist for The Pixies, because she was frustrated that her original songs were not being recorded by her primary band, and she sought an outlet for her own material. "Kim was really frustrated because she had written a bunch of songs that she knew would never be recorded by the Pixies, so this band became her outlet." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Formation from Pixies Frustration** : The Breeders were formed by Kim Deal, who was frustrated by her inability to contribute more creatively to the Pixies. The band was described as an "almost all-female band." "When Kim became frustrated with not being able to contribute more to the Pixies, she formed an almost all-female band called The Breeders with Kelly Unlead Guitar." ← https://www.youtube.com/watch?v=oLC49nCf0ZM
+**Indie Alternative Act** : Fronted by sisters Kim and Kelley Deal, The Breeders were a significant indie alternative act in the early part of the decade. "The breeders, fronted by Kim and Kelly Deel, who were a big indie alternative act early in the decade." ← https://www.youtube.com/watch?v=zZM9ajwYr9E
 **Kelly Deal's Legal Troubles** : Kelly Deal, Kim's sister and band member, faced legal issues when she was caught accepting a FedEx package containing heroin, which took several years to resolve. "But then Kelly got busted when she accepted a FedEx package full of heroin and that took a couple of years to sort out." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
 **Kim Deal's Side Project** : The Breeders originated as Kim Deal's side project while she was still a member of The Pixies. After The Pixies' breakup, she developed it into a full-time band with her sister, Kelly Deal. "Kim Deel remade the breeders, her Pixies side project, into a full-time thing with her sister Kelly." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
 **Knitting Hobby and Online Store** : Kelly Deal is proficient at knitting and operates an online store where she sells unique, handmade scarves. These scarves, which are either knitted or crafted from recycled felt and wool sweaters, are one-of-a-kind, signed by her, and typically retail for around $100 each. "all are one of a kind hand made by her and signed." ← https://www.youtube.com/watch?v=xc85sLj0Cnk

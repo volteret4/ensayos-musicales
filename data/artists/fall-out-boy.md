@@ -10,6 +10,7 @@
 - Emo Pop
 - Pop
 - Pop Punk
+- Powerpop (contemporary, maybe)
 
 ## concerts
 - Warped Tour
@@ -21,6 +22,7 @@
 **Save Rock and Roll (2013)** : This album marked Fall Out Boy's return from hiatus in 2013 and was presented as a significant exception to the general decline of pop punk. "Fallout Boy, who actually returned from Mahayatus in 2013 with an album that they called Save Rock and Roll." ← https://www.youtube.com/watch?v=sOU54d8mr5k
 
 ## curiosities
+**Contemporary Powerpop (Possible)** : Fall Out Boy is tentatively included as a potential contemporary Powerpop band, indicating that elements of the genre might be found in their sound. This highlights the genre's pervasive influence and its presence, even if subtle, in various modern acts. "Well we have Jimmy Eat World, OkGo, All American Rejects, Simple Plan, maybe Fallout Boy." ← https://www.youtube.com/watch?v=hstJ8M2laho
 **Continued Touring** : Fall Out Boy continued to be an active touring act into the 2010s, performing alongside other established pop punk bands. "So it was the offspring and Billy Towns and Fallout Boy." ← https://www.youtube.com/watch?v=pE7TaWSUa-o
 **Entire Band Clone Theory** : Building on the Pete Wentz clone theory, some conspiracy theorists allege that all members of Fall Out Boy are dead and have been replaced by man-made humans. Additionally, it is claimed that the cloned Patrick Stump was originally born a woman. "Turns out that all of the members of follow up boy are dead Pete was just the last one to go and Oh, did I mention that bad-made Patrick Stump was actually born a woman?" ← https://www.youtube.com/watch?v=pmKjZzypzvg
 **Fidget Spinners as Merch (2017)** : In 2017, Fall Out Boy, like many other bands, offered branded fidget spinners as part of their merchandise. These items were identified as one of the hottest band merch trends of the year. "Everybody sold branded fidget spinners, arcade fire, David Bowie, Prince Black Flag, the misfits, Nirvana, Queens of the Stone Age, followed boy, weird." ← https://www.youtube.com/watch?v=aSk1XQHNkd8

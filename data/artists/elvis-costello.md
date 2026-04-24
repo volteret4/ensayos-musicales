@@ -6,8 +6,11 @@
 ## genres
 - Alternative music
 - British New Wave
+- Nerd Rock
 - New Wave
 - Pop
+- Powerpop
+- Punk
 - Punk Rock
 - Punk Rock (perceived as Nerd Rock)
 - Rock
@@ -19,6 +22,7 @@
 
 ## concerts
 - Roskilde Festival
+- Saturday Night Live (December 1977)
 
 ## instruments
 - Guitar
@@ -36,6 +40,7 @@
 **Tramp the Dirt Down** : In this song, Elvis Costello expressed a potent and visceral hatred for Margaret Thatcher, going so far as to sing about dancing on her grave. This reflected a deep-seated opposition to her policies and legacy among some artists and the public. "Elvis Costello sang about dancing on her grave and tramp the dirt down." ← https://www.youtube.com/watch?v=0ARYt4sYT90
 
 ## curiosities
+**"Nerd Rock" Attribution and SNL Sketches (December 1977)** : During his appearance on Saturday Night Live in December 1977, Elvis Costello, characterized by his thick glasses and powder-blue sport coat, was performing at the peak of his "angry young songwriter" phase. A writer for the show, Beats, observed his performance and coined the term "nerd rock" to describe his style, leading to the creation of the recurring "Nerds" sketches on SNL featuring Gilda Radner, Jane Curtin, and Bill Murray. "this isn't punk rock, this is nerd rock." ← https://www.youtube.com/watch?v=8lQv8eMJ868
 **Anti-Home Taping Stance (Early 1980s)** : During the "home taping crisis" of the early 1980s, Elvis Costello was among the artists who signed anti-home taping petitions, aligning with the record industry's view that unauthorized copying was "killing music." "Artists like Elvis Costello signed anti-home taping petitions." ← https://www.youtube.com/watch?v=2RKchFW42Jc
 **Artwork Designer** : Barney Bubbles did design work for Elvis Costello. "He did work for Billy Bragg, Elvis Costello, and Ian Jury." ← https://www.youtube.com/watch?v=pwebM3TfSdg
 **Box Set Collection** : Three box sets from Elvis Costello are noted as being in a collection, showing his extensive catalog and appeal for multi-disc releases. "Three From Elvis Costello." ← https://www.youtube.com/watch?v=5kPmqmbFfkY
@@ -50,7 +55,10 @@
 **Early Roskilde Performance (Career Boost)** : Elvis Costello performed at the Roskilde Festival early in his career, an appearance that is credited with significantly boosting his career. "U2 and Elvis Costello got big career boots by playing Ross killed early on." ← https://www.youtube.com/watch?v=7v1REnqKuXE
 **Inspiration from Sex Pistols (December 2, 1976)** : Declan McManus, then a computer operator, was deeply inspired by the Sex Pistols' scandalous appearance on a TV show where they used "bad words." Feeling they had "shaken up the system," he decided to quit his data entry job, picked up a guitar, and changed his name to Elvis Costello, embodying the attitude, anger, and energy he saw in the Sex Pistols. "He wanted to be involved in whatever it was that the sex pistols embodied, the attitude, the anger, the energy." ← https://www.youtube.com/watch?v=oPgeSCy93bo
 **Inspired by Sex Pistols** : He became a Sex Pistols fan, finding inspiration in their disregard for the established rules of music, art, fashion, society, and the English class system. He quit his day job directly because of the Sex Pistols' influence. "He became a sex pistols fan because he was inspired by their disregard for the rules of music and of art and a fashion, of society, of the class system of England." ← https://www.youtube.com/watch?v=gKrAXMG8sTc
+**Musical Style** : Elvis Costello specialized in short, sharp, choppy songs, featuring a significant amount of rhythm guitar and a vaguely anti-corporate stance. This musical approach was similar to that of Talking Heads, Blondie, and Tom Petty and the Heartbreakers, all of whom were categorized under the New Wave banner. "like the talking heads and blondie and Elvis Costello, Tom Petty specialized in short, sharp choppy songs with lots of rhythm guitar and vaguely anti-corporate stents." ← https://www.youtube.com/watch?v=iL9KpQFqH4o
 **My Aim Is True (1977) – Debut Album Recorded by Clover, Who Became Huey Lewis and the News** : Before his music career, Elvis Costello worked as a computer operator for Elizabeth Arden cosmetics, running invoices on an IBM 360 mainframe, taking occasional sick days to demo songs. When he signed to Stiff Records, he needed a backing band. An American group called Clover had just arrived in England hoping for their big break, but found themselves stranded in the middle of punk and unwanted. They needed money for plane tickets home. Elvis went to their residency at Headley Grange, told them he needed a studio band and specifically didn't need a singer, so Clover's own singer was sent to wait elsewhere while the rest of the band backed Elvis through six four-hour sessions for his debut. Clover was paid and sent back to the US, where they reinvented themselves as Huey Lewis and the News. The singer who had to hang out during the Costello sessions was Huey Lewis. "That banished singer was Huey Lewis." ← https://www.youtube.com/watch?v=mmI2oN9zolQ
+**New Wave Artist** : Elvis Costello was identified as a New Wave artist, grouped alongside bands such as Talking Heads, Blondie, and Tom Petty and the Heartbreakers, indicating his contribution to the evolving sound of modern rock. "The talking heads and blondie and Elvis Costello were new wave." ← https://www.youtube.com/watch?v=iL9KpQFqH4o
+**New Wave Powerpop with Punk Influence** : Elvis Costello is identified as an artist who brought a "little punk into the mix" of the new wave brand of Powerpop, alongside Joe Jackson and The Buzzcocks. He also had some of Nick Lowe's tracks turned into hits. "Elvis Costello and Joe Jackson. They brought a little punk into the mix." ← https://www.youtube.com/watch?v=hstJ8M2laho
 **Saturday Night Live Appearance (December 1977)** : During his performance on Saturday Night Live in December 1977, at the peak of his "angry young songwriter" phase, Elvis Costello, dressed with thick glasses and a powder blue sport coat, was observed by SNL writer Tom Davis, who famously thought, "this isn't punk rock, this is nerd rock." This moment contributed to the coining of the term "nerd rock" and directly led to the creation of the recurring "The Nerds" sketch on the show. "In December 1977, Elvis Costello appeared on Saturday Night Live. He was at the height of his angry young songwriter years, complete with his thick glasses and powder blue sport coat." ← https://www.youtube.com/watch?v=h6snk0m4200
 **Saturday Night Live Incident (December 17, 1978)** : As a last-minute replacement for the Sex Pistols (who faced visa issues), Elvis Costello appeared on "Saturday Night Live" in December 1978. Producers explicitly asked him not to play "Radio Radio" due to NBC's ownership of radio stations and the song's critical lyrics. Costello agreed but then famously played "Radio Radio" instead of the requested song, causing a stir. "But then this is what happened on December 17, 1978... Radio Radio." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
 **Saturday Night Live Performance** : Elvis Costello was called in at the last minute to fill the Sex Pistols' slot on Saturday Night Live when they were forced to cancel due to visa issues. "Some guy named Elvis Costello was called in at the last minute." ← https://www.youtube.com/watch?v=gKrAXMG8sTc

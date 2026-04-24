@@ -7,5 +7,6 @@
 
 ## curiosities
 **Family Background** : Garth Richardson is the son of Jack Richardson, a prominent Canadian record producer, and grew up observing his father's work with various bands. "And then came his kid, Garth. Garth Richardson grew up watching his dad work with all these bands." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
+**Producer of Rage Against The Machine** : Garth Richardson is credited with producing Rage Against The Machine's debut record, contributing to its acclaimed audio quality. He is the son of Jack Richardson, a legendary Canadian producer known for his work on The Guess Who's most successful albums. "Props to Garth Richardson, the son of legendary Canadian producer Jack Richardson." ← https://www.youtube.com/watch?v=Xo5DRSW95QQ
 **Stutter and Name Spelling** : Garth Richardson intentionally spells his first name with three G's due to a stutter he has, which he enjoys making fun of. His Vancouver-based company is named Triple G Productions. "Garth usually goes by his first name, which he spells with three G's. So why is he do that? Because he has a stutter. He likes to make fun of it." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
 

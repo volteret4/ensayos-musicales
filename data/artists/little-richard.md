@@ -2,6 +2,7 @@
 
 ## genres
 - R&B
+- Rock
 - Rock and Roll
 
 ## songs
@@ -20,6 +21,7 @@
 **Internal Conflict with Sexuality** : Little Richard's relationship with his sexuality was complex, marked by a constant internal war. He sometimes reveled in it, showcasing his flamboyant personality, but at other times experienced periods of self-loathing, indicating a conflicted personal journey. "That Little Richard was always at war with his sexuality, sometimes exalting in it, sometimes descending into self-loathing." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ
 **Officiated Bruce Willis and Demi Moore's Wedding (1987)** : In November 1987, Little Richard, who was an ordained minister, officiated the marriage of actors Bruce Willis and Demi Moore. His role as the officiating pastor made the ceremony legally binding. "the officiating pastor was Little Richard. He was an ordained minister, so was illegal." ← https://www.youtube.com/watch?v=-N6IM5Nm5iw
 **Pioneer Black Crossover Artist** : Little Richard was the first Black artist to successfully cross over, appealing to both Black and white audiences and effectively breaking the color barrier. His shows attracted people of all races, significantly contributing to cultural change in the segregated 1950s. "Little Richard was the first black artist to cross over." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ
+**Pioneer of Flamboyance** : Little Richard is noted as the most flamboyant member of rock's first generation, known for his distinctive hair, costumes, makeup, wild performances, and "unclear sexuality," which contributed to a style that influenced later artists. "Little Richard, the most flamboyant member of Rock's First Generation. He had the hair, the costumes, the makeup, the wild performances, and the... Well, let's just call it unclear sexuality." ← https://www.youtube.com/watch?v=blDNqVFheAw
 **Rock's First Openly Gay Rock Star** : Little Richard is argued to be rock's first openly gay rock star, or at least bisexual with strong gay leanings. He openly embraced effeminate mannerisms, wore makeup, engaged in "rough trade," and famously declared, "Elvis may have been the king of rock and roll, but I and the queen." "you can make an argument that he was Rock's first openly gay rock star." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ
 **Weird and Scary Image** : Little Richard was identified as another artist, alongside Billy Lee Riley, who pushed the boundaries of the then-radical world of rock and roll with a "weird and scary" persona. "And there were others like him, like the weird and scary little Richard." ← https://www.youtube.com/watch?v=6oUkMOkEr9U
 

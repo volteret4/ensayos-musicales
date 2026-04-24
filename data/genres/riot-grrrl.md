@@ -8,6 +8,12 @@
 
 ## artists
 - Bikini Kill
+- Bratmobile
+- Heavens to Betsy
+- Huggy Bear
 - Mia Zapata
+- Pagan Babies
 - Sleater-Kinney
+- Sugar Baby Doll
+- Team Dresch
 

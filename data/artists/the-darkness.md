@@ -4,6 +4,9 @@
 - Justin Hawkins
 - Justin Vockins
 
+## genres
+- Glam
+
 ## albums
 **Permission to Land (2003)** : The debut album for The Darkness, released in 2003. It featured the song "I Believe in a Thing Called Love" and introduced Justin Hawkins's unique vocal style to the public, which sparked debate about whether the band was a serious act or a parody. "the 2003 album Permission to Land" ← https://www.youtube.com/watch?v=7_ZmZxnSOnE
 **Permission to Land (2003) - Debut Impact** : The band's 2003 album was initially met with speculation as to whether their sound was a deliberate joke or parody of Queen and Freddie Mercury, though lead singer Justin Hawkins was entirely serious about their musical approach. "When we first started hearing about the band and I guess it was 2003 with their permission to land album, the initial reaction was, come on. This is a joke, right?" ← https://www.youtube.com/watch?v=sEZ13v1LNYQ
@@ -14,6 +17,7 @@
 ## curiosities
 **Fan Brings Stuffed Dead Dog to Autograph Session** : During the peak popularity of The Darkness, various types of fans attended their autograph sessions. One memorable instance involved a fan who brought his grandmother's stuffed dead dog to be autographed. "One fan brought his grandmother's dead dog. It was stuffed, but still." ← https://www.youtube.com/watch?v=aSk1XQHNkd8
 **Frontman's Bizarre Pool Accident** : Justin Vockins, the frontman of The Darkness, underwent emergency surgery for chemical burns following a strange swimming pool accident. While mixing pool chemicals, treated water unexpectedly burst from the pump, melting his swim shorts onto his legs. "He was mixing chemicals for the pool when the treated water burst out of the pump and melted his swimming shorts onto his legs." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
+**Modern Glam Influence** : The existence of The Darkness is attributed to the legacy of glam rock, suggesting that without glam, they would likely not exist. "Would we have the darkness if not for Glam? I'm guessing no." ← https://www.youtube.com/watch?v=blDNqVFheAw
 **Public Perception and Authenticity** : The Darkness's distinctive high-pitched vocal style (often mistaken for falsetto) and overall sound led to a divided public opinion, with roughly half of listeners perceiving them as a "bizarre novelty act" and the other half recognizing their genuine artistry. "I think if you survey the general public the results might be about 50-50." ← https://www.youtube.com/watch?v=sEZ13v1LNYQ
 **The Good Mixer Regulars** : The Darkness were noted as regular attendees of The Good Mixer pub on Inverness Street in Camden, London, following the initial Britpop wave in the early and mid-1990s. This pub was a central meeting point for musicians of the era. "Other regulars included the Librieteens and then later the darkness and travis." ← https://www.youtube.com/watch?v=sKHdTSfDd6E
 

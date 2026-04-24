@@ -54,7 +54,9 @@
 - Billy Talent
 - Bob Bryar
 - Bonnie Brantz
+- Brad Vilk
 - Butch Vig
+- Chris Berkett
 - Chrissy Lee
 - Christina Reibelchenko
 - Cindy Blackman Santana

@@ -1,6 +1,7 @@
 # concert - Saturday Night Live
 
 ## curiosities
+**B-52s Appearance (early 1980)** : The B-52s' performance on *Saturday Night Live* in early 1980 had a significant cultural impact, most notably changing the life of a young Kurt Cobain, who discovered New Wave music through watching their appearance. "People like a young Kurt Colbaine who discovered new wave when he saw the B-52s appear on Saturday Night Live in early 1980, changed his life." ← https://www.youtube.com/watch?v=iL9KpQFqH4o
 **Elvis Costello's "Radio Radio" Incident (December 17, 1978)** : Replacing the Sex Pistols, Elvis Costello performed on December 17, 1978. A producer asked him not to play "Radio Radio" due to its critical lyrics toward radio programmers and NBC's ownership of radio stations. Costello verbally agreed but then famously played the controversial song anyway, creating a moment likened to the Sex Pistols' earlier UK TV scandal. "Now you can play the show, the producer said, if you promise not to play your song Radio Radio." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
 **Elvis Costello's Act of Defiance (1977)** : On December 17, 1977, Saturday Night Live hosted Elvis Costello and The Attractions as a last-minute replacement for the Sex Pistols. Despite specific instructions from producers not to play "Radio Radio," Costello famously stopped his agreed-upon song, "Less Than Zero," mid-performance and launched into the controversial, network-banned track, making a powerful statement of defiance on live television. "But you got to think that Elvis had his fingers crossed because it's not exactly what happened that night." ← https://www.youtube.com/watch?v=1y2UuU-me_s
 **Klaus Nomi's Performance with David Bowie (December 15, 1979)** : Klaus Nomi made a significant appearance with David Bowie on Saturday Night Live on December 15, 1979, where he provided backup vocals on three songs, a collaboration initiated after Bowie was deeply impressed by Nomi's live shows. "And that led to Nomi's appearance with Bowie on Saturday Night Live. The date was December 15, 1979. He sang back up on three songs." ← https://www.youtube.com/watch?v=sEZ13v1LNYQ
@@ -8,6 +9,7 @@
 **Sex Pistols Cancellation and Costello Replacement** : The Sex Pistols were compelled to cancel a crucial appearance on Saturday Night Live due to issues with their visa applications. As a result, Elvis Costello was contacted at the last minute to perform in their stead. "forcing them to cancel an important appearance on Saturday Night Live. Some guy named Elvis Costello was called in at the last minute." ← https://www.youtube.com/watch?v=gKrAXMG8sTc
 **Sex Pistols Visa Issues (December 1978)** : In December 1978, the Sex Pistols were scheduled to perform on this new NBC show but were prevented from doing so due to visa problems. This led to Elvis Costello being brought in as a last-second replacement. "In December 1978, the Sex Pistols were booked to play this new show on NBC called Saturday Night Live. However, they ran into visa problems and were replaced at the last second on the show by this geeky guy from England named Elvis Costello." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
 **The B-52s 1980 Performance Impact** : The B-52s' performance on Saturday Night Live in 1980 profoundly influenced future musicians, notably transfixing Kurt Cobain and highlighting the band's unique appeal to a new generation. "Kurt Cobain saw the one Saturday Night Live in 1980. It was absolutely transfixed by them." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
+**The Tragically Hip's Performance (March 27, 1997)** : The Tragically Hip made a special musical guest appearance on Saturday Night Live on March 27, 1997, performing two songs, including "Nautical Disaster." This booking for a band that had not broken the US market was facilitated by Kingston native Dan Aykroyd. Despite being a major platform for national US TV exposure, the performance did not lead to a significant breakthrough for the band in America. "That was one of two songs they performed on Saturday Night Live on March 27th, 1997. ... The answer is Dan Acroid. Dan is from Kingston. In fact, if you go back to the movie Sneakers with Acroid and Robert Redford and Ben Kingsley, Sydney Ponce, and River Phoenix in 1992, you'll see Dan wearing a tragically hip t-shirt under a sport coat." ← https://www.youtube.com/watch?v=PnLdgohA5gY
 
 ## artists
 - Arcade Fire
@@ -15,5 +17,6 @@
 - Phoebe Bridgers
 - Radiohead
 - Sex Pistols
+- The B-52s
 - The Sex Pistols
 

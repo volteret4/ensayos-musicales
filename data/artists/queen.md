@@ -5,6 +5,9 @@
 - Freddie Mercury
 - Freddie Mercury (singer)
 
+## genres
+- Glam Rock
+
 ## instruments
 - Vox units
 
@@ -33,6 +36,7 @@
 **Catalog Sale (2020s)** : Queen's catalog was sold for over $1 billion, representing one of the largest deals in the music business involving the acquisition of publishing rights. "Queen got over $1 billion." ← https://www.youtube.com/watch?v=Yq2A_o9-ulM
 **Covered by Nine Inch Nails** : In the spring of 1990, Nine Inch Nails performed a cover of an old Queen song while on tour as the opener for Peter Murphy. This performance was part of their setlist during a period of growing frustration for Trent Reznor with TVT Records. "Trent went on the road as the opener for Peter Murphy and one of the songs in the nine-inch nail set list at that time was this cover of an old song by Queen." ← https://www.youtube.com/watch?v=M3nUQtja0qc
 **Freddie Mercury's Love for Cats** : Freddie Mercury was famously devoted to his cats, going so far as to call home from the road to speak with them. "Freddie Mercury, who is nuts about his cats, golf and phone home from the road, just to talk to them. Seriously." ← https://www.youtube.com/watch?v=xc85sLj0Cnk
+**Glam Rock Flamboyance** : Queen's embrace of glam rock was evident through Freddie Mercury's distinct flamboyance, a direct reflection of the genre's theatricality. "Freddie Mercury's Flamboyance with Queen, glam rock." ← https://www.youtube.com/watch?v=blDNqVFheAw
 **Guitarist Launched Sports Bras** : Brian May, Queen's guitarist, diversified his ventures by launching a new line of sports bras in the past year. "Brian May, the guitarist in Queen, launched a new line of sports bras. This year." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
 **Influence on Jeff Buckley** : Queen was one of the bands that Jeff Buckley's stepfather introduced him to. "and Queen." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
 **Influence on The Struts** : Queen was cited as one of the influences on the British band The Struts, along with Aerosmith, Oasis, The Killers, and The Rolling Stones. This reflects a trend of new young bands drawing inspiration from old school classic rock and iconic acts. "A British band brought up on Queen, Aerosmith Oasis, the killers and the Rolling Stones." ← https://www.youtube.com/watch?v=HSvgRyGiOpE

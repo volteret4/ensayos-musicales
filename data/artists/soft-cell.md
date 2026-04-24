@@ -10,6 +10,7 @@
 - Synth Classic
 - Synth-pop
 - Techno Pop
+- Techno pop
 - Technopop
 
 ## albums
@@ -23,6 +24,8 @@
 ## curiosities
 **Dave Ball Death (2025) – Performed in Wheelchair, Completed Final Album Before Death** : Dave Ball, one half of British synth-pop duo Soft Cell, died in 2025. His final years were marked by severe health problems that forced him to perform from a wheelchair. He died shortly after completing a final album with the group. "Died shortly after completing a final album with the group." ← https://www.youtube.com/watch?v=ZPlsR7_WiZQ
 **Featured on MTV** : Soft Cell was among the many New Wave artists whose videos were played on MTV, indicating their role in the genre's growth and visibility during the early 1980s. "They played all the groups that we've talked about in many more. Eurythmics, XTC, Soft Sale, Adamance, Human League, Bowah Wow, and The Go Go's..." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
+**Kraftwerk Influence** : Soft Cell, an early 80s techno pop act, is identified as having been influenced by Kraftwerk, demonstrating the German band's widespread reach in shaping the electronic music landscape. "Early 80s techno pop like OMD and Soft Cell. Craftwork." ← https://www.youtube.com/watch?v=ePZDkqLM_gw
 **MTV Era Popularity** : Part of the wave of "fun, fresh music" from the UK that became popular in North America due to exposure on MTV in its early days. "There was Durand Durant and the Human League and Blomage and the Thompson Twins and Soft Cell." ← https://www.youtube.com/watch?v=1KF5MwJVYng
+**New Romantic Descendant** : Soft Cell (referred to as "Soft-Sale") is identified as a band that emerged from the New Romantic movement, directly influenced by the legacy of glam rock, particularly David Bowie and Roxy Music. "Soft-Sale." ← https://www.youtube.com/watch?v=blDNqVFheAw
 **Prominent Technopop Band** : Soft Cell was recognized as one of the bands contributing to the commercial peak of Technopop in the early 1980s, further expanding the genre's accessibility and popularity. "They were joined by bands like Durant, Rand, Soft Cell, OMD, ABC, DePesh Mode, Oflaca Seagulls, Men Without Hats, and so many others." ← https://www.youtube.com/watch?v=5PJRCC6EwUY
 

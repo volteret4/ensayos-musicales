@@ -13,6 +13,7 @@
 ## artists
 - Dave Manning
 - David Bowie
+- Lene Lovich
 - Mr. Bungle
 - Ronnie Ross
 - Saxa

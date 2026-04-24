@@ -7,6 +7,7 @@
 
 ## genres
 - Britpop
+- Glam
 
 ## concerts
 - Trainspotting
@@ -26,6 +27,7 @@
 **Artsy Style and Observational Lyrics** : Pulp was noted for being "more artsy than most," with lead singer Jarvis Cocker's lyrics frequently characterized as "observational." This lyrical approach was a key influence on the Arctic Monkeys. ← https://www.youtube.com/watch?v=YvcnHKI4oIw
 **Artwork Designer** : Peter Saville, chief art design guy at Factory Records, did design work for Pulp. "He did everything from gig posters to album design for Joy Division New Order, Roxas music, Swade, pulp, Martha Nemuffins, and Noam D." ← https://www.youtube.com/watch?v=pwebM3TfSdg
 **Britpop Peak** : Pulp reached its Britpop peak with Russell Senior as a guitarist and violinist, though singer Jarvis Cocker (referred to as "Jarvis Pulp" in the transcript) was noted to be getting most of the attention during this period. "He was with them at their Brit Pot Peak." ← https://www.youtube.com/watch?v=7jMfH9xAOpI
+**Contemporary Glam Trappings** : Pulp is listed as an act exhibiting "Glam trappings" in their music and visual style, demonstrating glam's ongoing influence in later decades. "and Pulp." ← https://www.youtube.com/watch?v=blDNqVFheAw
 **Founding and Obscurity** : Jarvis Cocker founded Pulp in Sheffield in 1978. The band "languished in obscurity for a decade and a half," not even registering as a footnote in British music before their breakthrough in the mid-1990s. "Jarvis Cocker founded Pulp in Sheffield in 1978." ← https://www.youtube.com/watch?v=5q5EnZj1FwE
 **Indefinite Hiatus** : Pulp went on an indefinite hiatus after the Britpop era came to an end. "Pulp went on an indefinite hiatus." ← https://www.youtube.com/watch?v=5q5EnZj1FwE
 **Long History and Mid-90s Success** : Pulp had been active since the late 1970s but did not achieve significant success until the mid-1990s, coinciding with when the Arctic Monkeys were in junior high. This timing meant Pulp was an unavoidable presence for young, aspiring musicians in Sheffield. ← https://www.youtube.com/watch?v=YvcnHKI4oIw

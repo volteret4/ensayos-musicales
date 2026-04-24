@@ -9,6 +9,9 @@
 
 ## genres
 - Hot Rod Rock
+- Pop
+- Powerpop
+- Rock
 - Surf Music
 - Surf Rock
 - Vocal Surf
@@ -32,6 +35,7 @@
 
 ## curiosities
 **"Punk Beach Boys" Comparison** : The Surf Punks were described as being "sort of like the Beach Boys, if they had been members of your frat house, but punk," illustrating their blend of surf culture and punk attitude. "They were sort of like the beach boys, if they had been members of your frat house, but punk." ← https://www.youtube.com/watch?v=I9_3EbwKPnU
+**American Influence** : The Beach Boys are revered by classic rock and pop fans and are noted for their melodies, which were admired by early Powerpop bands like Big Star. They represent an American counterpart to the British influences on Powerpop. "But we also have to give props to the so-called bubblegum sound of the 1960s and early 1970s." ← https://www.youtube.com/watch?v=hstJ8M2laho
 **Brian Wilson Death (2025) – Respiratory Failure and Sepsis After Long COVID** : Brian Wilson, creative genius of The Beach Boys, died in 2025. He had battled mental health issues since the 1960s and subsequent cognitive decline. His death was complicated by long COVID contracted in 2022, which led to respiratory failure and sepsis. "His death was complicated by long COVID contracted in 2022, leading to respiratory failure and sepsis." ← https://www.youtube.com/watch?v=ZPlsR7_WiZQ
 **Cameo on Home Improvement** : The legendary band made an appearance on the TV show *Home Improvement*, which was known for attracting high-profile cameos. "The Beach Boys...all made appearances." ← https://www.youtube.com/watch?v=6O5TCTO-go4
 **Catalog Sale** : The Beach Boys are mentioned as one of the artists who have "cashed out" by selling their music catalog. "Everyone from the killers to Barry Manelow to Silver Chair to the Beach Boys to members of Allison Chains have cashed out." ← https://www.youtube.com/watch?v=Pe40SqDrpZ0

@@ -7,5 +7,6 @@
 
 ## artists
 - MGMT
+- The Cult
 - The Dukes of Stratosphear
 

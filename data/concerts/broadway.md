@@ -5,4 +5,5 @@
 
 ## artists
 - John Goodman
+- Noel Coward
 

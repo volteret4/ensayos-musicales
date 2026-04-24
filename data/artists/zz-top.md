@@ -8,6 +8,9 @@
 - Drum samples (from Ministry)
 - Gibson Les Paul
 
+## songs
+**Legs (XXXX)** : In the 1980s, an extended version of this song was created and played in bars, which was considered shocking at the time because ZZ Top was a "proper rock band" that typically would not allow their music to be turned into a dance-floor track. This marked a departure from the common perception that rock bands were "not meant for dancing." "Remember being in a bar when I heard an extended version of ZZ Top's legs shocking since that was a proper rock band that had allowed one of their songs to be turned into a dance floor track." ← https://www.youtube.com/watch?v=08i9lVd6T8c
+
 ## curiosities
 **"Texas Experience" Tour (1976)** : In 1976, ZZ Top attempted to bring the "entire Texas experience" on the road, which involved transporting real, live animals to every gig. During one show, a buffalo escaped and caused significant damage, wrecking nine rented limousines parked at the venue. "In 1976, Zizi Topp tried to take the entire Texas experience on the road, which involved transporting real live animals to every gig." ← https://www.youtube.com/watch?v=Jvh8SP2QKXQ
 **Asteroid** : The band ZZ Top has an asteroid named after them, joining a select group of musicians recognized in space. "Eric Clapton, Brian Wilson, ZZ Topp, Yes, Bruce Springsteen, and Jimmy Page are among those with their own pieces of space rock." ← https://www.youtube.com/watch?v=VMPLplhDk8I

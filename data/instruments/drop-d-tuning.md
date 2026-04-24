@@ -1,5 +1,6 @@
-# instrument - Drop-D Tuning
+# instrument - Drop D Tuning
 
 ## curiosities
-**Grunge Characteristic** : Drop-D tuning became a preferred characteristic of grunge and grunge-ish guitar-based alt-rock, especially favored by commercial alt-rock radio for its "safer from a ratings point of view" appeal, reinforcing a homogeneous sound. "That is, guitar-based, preferably with drop tuning." ← https://www.youtube.com/watch?v=2wZydttn4Cs
+**Genre-Defining Impact** : Drop D tuning became a signature element for the grunge genre, heavily utilized by bands like Nirvana, Soundgarden, Pearl Jam, and Alice in Chains. Its influence extended beyond grunge, appearing in songs by a wide range of artists including the Foo Fighters, Muse, Tool, Green Day, and Rage Against the Machine, establishing it as a popular technique for achieving a heavier sound in modern rock. "Drop D not only became synonymous with grunge, Nirvana, Sound Garden, Pearl Jam, Allison Chains, but it can be heard in a lot of other songs by the Foo Fighters, Muse, Tool, Green Day, Rage Against the Machine, and dozens of others." ← https://www.youtube.com/watch?v=iGav9uJwA_w
+**Heavy Sound Creation** : Drop D tuning is a guitar tuning where the lowest string is tuned down a whole step from E to D. This modification, without delving deeply into music theory, alters how chords are formed and sound, resulting in a grittier, heavier, and more powerful guitar tone. When combined with a foot pedal and an overdriven amplifier, it produces a distinctive and impactful sound. "This is where you tune the lowest string on a guitar to a D instead of an E. That's a whole step." ← https://www.youtube.com/watch?v=iGav9uJwA_w
 

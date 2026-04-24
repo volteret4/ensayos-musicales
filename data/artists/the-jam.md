@@ -10,6 +10,7 @@
 - New Wave
 - Pop
 - Post-Punk
+- Powerpop
 - Punk
 - Punk Rock
 - R&B
@@ -34,6 +35,7 @@
 **Leaders of 1970s Mod Revival** : The Jam, spearheaded by their leader Paul Weller, were instrumental in leading a significant Mod revival in the 1970s. Weller's lifelong fascination with the original Mods and his admiration for bands like The Kinks and The Who heavily influenced the band's visual and musical direction. "There was a mod revival in the 1970s and was led by the jam." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM
 **Managerial Connection** : John Weller, father of Paul Weller and manager of The Jam, played a role in pushing for The Vapors to record their hit song "Turning Japanese." "John Weller, the father of the jam's Paul Weller and manager of that band, pushed to have the Vapers recorded." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M
 **Musical Identity** : Despite the music press categorizing them with other punk bands, The Jam intentionally carved out a distinct niche. They blended the energy, aggression, and attitude of punk with a strong understanding of melody and song structure. "This new group would end up carving out a specific niche all of their own." ← https://www.youtube.com/watch?v=gKrAXMG8sTc
+**New Wave Powerpop** : The Jam are listed as one of the bands whose music, along with other acts like The Smiths and XTC, could be included in the new wave spectrum of Powerpop. Their sound contributed to the integration of Powerpop into alternative rock, demonstrating the influence of punk. "We can probably include the jam, the smiths, XTC, squeeze, and the vapors." ← https://www.youtube.com/watch?v=hstJ8M2laho
 **Origin of The Style Council** : The Jam was the foundational band from which The Style Council evolved, subsequently leading to The Paul Weller Movement and Paul Weller's solo career. "which all began with this band, The Jam." ← https://www.youtube.com/watch?v=oPgeSCy93bo
 **Paul Weller's Influence** : Initially an R&B band, The Jam shifted direction after singer Paul Weller witnessed a Sex Pistols show. While embracing punk's energy, they distinguished themselves by also showing respect for British mod culture of the 1960s, rather than adhering to a pure "destroy everything" punk ethos. "After singer Paul Weller saw a Sex Pistols show, he steered things in a slightly different direction." ← https://www.youtube.com/watch?v=gKrAXMG8sTc
 **Punk Attitude, Pop Sound** : The Jam's overall attitude was definitively influenced by the punk scene, yet their sound was distinctly pop-oriented. They covered a wide array of material, from old Stax and Motown records to The Kinks and even the original Batman theme, successfully achieving their own significant hits on the pop charts. "Their attitude was definitely influenced by the punk scene but their sound was very pop." ← https://www.youtube.com/watch?v=tZV1lz-obQE

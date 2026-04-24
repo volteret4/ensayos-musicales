@@ -77,5 +77,6 @@
 - The Velvet Underground
 - Tin Machine
 - Tool
+- Tune-Yards
 - Weezer
 

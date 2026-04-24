@@ -1,6 +1,7 @@
 # artist - Thomas Dolby
 
 ## members
+- Thomas Morgan Robertson
 - Thomas Morgan Robertson (real name)
 
 ## genres
@@ -9,6 +10,7 @@
 - Synth Pop
 
 ## instruments
+- Electronics gear
 - Home-built keyboard synthesizers
 - Recording tape
 
@@ -27,6 +29,7 @@
 **Headspace Company** : Thomas Dolby founded a company called Headspace, which is involved in various "cool electronic stuff." "He has a company called Headspace that does a lot of cool electronic stuff." ← https://www.youtube.com/watch?v=QfiRRtsZoYU
 **Mad Scientist Persona** : Thomas Dolby cultivated a distinct mad scientist persona, characterized by a white lab coat, wild hair, and an elaborate setup of complex electronic equipment, particularly prominent in the visuals for "She Blinded Me with Science." This image was considered highly nerdy. "He had this mad scientist persona complete with the white lab coat and crazy hair surrounded by all kinds of complex electronics gear." ← https://www.youtube.com/watch?v=h6snk0m4200
 **Nokia Ringtone Technology Invention** : Thomas Dolby invented the core technology inside Nokia cell phones that enables them to play ringtones. "the thing inside the phone that allows the ring tune to be played was invented by Thomas Dolby." ← https://www.youtube.com/watch?v=QfiRRtsZoYU
+**Origin of Stage Name "Dolby"** : In the 1970s, Thomas Robertson's friends nicknamed him "Dolby" because he spent a significant amount of time experimenting with home-built keyboard synthesizers and recording tape, associating him with the "Dolby" noise reduction technology that was becoming prevalent in home stereos. "That's when his friends nicknamed him Dolby, after the noise reduction technology that was being introduced to home stereos at the time." ← https://www.youtube.com/watch?v=8lQv8eMJ868
 **Origins of "Dolby" Nickname** : In the 1970s, while experimenting with home-built keyboard synthesizers and recording tape, his friends nicknamed him "Dolby." This moniker was a reference to the noise reduction technology that was becoming prevalent in home stereo systems at the time. "That's when his friends nicknamed him Dolby after the noise reduction technology that was being introduced to home stereos at the time." ← https://www.youtube.com/watch?v=h6snk0m4200
 **Similar Musical Approach** : Mentioned alongside Howard Jones as an artist who shared a similar approach to utilizing electronic instruments in his music. "Same thing with Thomas Dolby." ← https://www.youtube.com/watch?v=1KF5MwJVYng
 

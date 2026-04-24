@@ -15,6 +15,8 @@
 **Dominance in the 2010s Streaming Era** : Pop music, driven by late millennial and Gen Z music fans, quickly gravitated from CDs to streaming, becoming the new technology's biggest users. This focus further increased attention on pop artists, leading record companies to invest more money into the genre, creating a "circle of success" that extended pop's usual dominance beyond the 12-year cycle. "When streaming took off, we were firmly in an era when pop and hip hop ruled, pushed forward by late millennial music fans plus members of Gen Z." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
 **Dominance of Streaming Medium** : Pop songs heavily dominate the streaming medium, with artists like Drake, Ed Sheeran, The Weeknd, and Justin Bieber being prominent examples. "The medium is totally dominated by pop, R&B, and hip-hop songs." ← https://www.youtube.com/watch?v=Z7glrAoXtkA
 **Early 1990s Dominance** : Pop music, featuring artists like Michael Jackson, Janet Jackson, Madonna, Milli Vanilli, and New Kids on the Block, largely ruled the music scene at the very beginning of the 1990s before a shift in public mood and the rise of grunge. "At the very beginning of the decade, pop music ruled Michael Jackson, Janet Jackson, Maddon, Millie Vanilley, and new kids on the block." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
+**Early Categorization (1955)** : In 1955, "pop" was one of four primary categories used to classify popular music. This straightforward classification system predated the significant fragmentation of rock and roll into numerous subgenres. "In the beginning, and I'm talking about, about 1955, it was easy to categorize popular music. There was rock, pop, country, and R&B." ← https://www.youtube.com/watch?v=hstJ8M2laho
+**Evolution of Pop Music** : The 1990s saw popular music remade in the image of Generation X, with an emphasis on authenticity, anger, and a reflection of their dreams and fears, moving away from previous sounds. "They remade popular music in their own image." ← https://www.youtube.com/watch?v=zZM9ajwYr9E
 **Generation Y Preference** : Generation Y's musical tastes leaned much more towards the pop side, preferring cheerful music over the brooding grunge or intense post-punk alt-rock favored by previous generations. "Their tastes leaned much more to the pop side." ← https://www.youtube.com/watch?v=7JP2tjJibTQ
 **Late 1990s Ascendancy** : By the late 1990s, the cycle of rock and pop had swung back to where it was in the mid to late 1980s, with pop music once again in the ascendancy, driven by artists like the Spice Girls and Britney Spears. "The cycle of rock and pop had once again swung to where it was in the middle to late 1980s. That is to say pop was in the Ascended." ← https://www.youtube.com/watch?v=7JP2tjJibTQ
 **Les Paul's Primary Genre** : Les Paul was primarily known as a jazz and pop artist. His background in these genres informed his innovative experiments with electric guitars and multi-track recording technology. "He was a jazz and pop artist who experimented with making his own electric guitars, as well as messing around with this new multi-track tape machine technology." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
@@ -47,13 +49,16 @@
 - Backstreet Boys
 - Bad Religion
 - Bay City Rollers
+- Berlin
 - Blondie
 - Bobby Jean Hall
 - Bobby Sherman
 - Britney Spears
 - Bronski Beat
 - Carly Rae Jepsen
+- Cheap Trick
 - Coldplay
+- David Bowie
 - David Cassidy
 - Debbie Gibson
 - Duran Duran
@@ -76,6 +81,7 @@
 - Justin Bieber
 - Katy Perry
 - Kid Rock
+- Lady Gaga
 - Les Paul
 - Lil Nas X
 - Linkin Park
@@ -100,15 +106,19 @@
 - Susan Aglukark (Aglukark)
 - T-Packs
 - The Bangles
+- The Beach Boys
 - The Beatles
 - The Buzzcocks
+- The Byrds
 - The Go-Go's
 - The Jam
+- The Knack
 - The Monkees
 - The New Radicals
 - The Police
 - The Ramones
 - The Replacements
+- The Smithereens
 - The Smiths
 - The Undertones
 - The Vibrators
@@ -118,6 +128,7 @@
 - Tune-Yards
 - Vangelis
 - Ween
+- Weezer
 - Wendy Melvoin
 - Whitney Houston
 - XTC

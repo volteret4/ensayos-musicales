@@ -2,6 +2,7 @@
 
 ## genres
 - Classic Rock
+- Glam Rock
 - Rock
 
 ## albums
@@ -18,6 +19,7 @@
 **Defining Classic Rock in Early 1990s** : Elton John was recognized as an older act that helped define the category of "classic rock" in the early 1990s, a period when the musical landscape was shifting away from the excesses of hair metal. "Rock was dominated by hair metal bands, which was really starting to get old and played out. It was also dominated by older acts that were defining a new term, classic rock, Rolling Stones, Pink Floyd, Elton John, and so on." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
 **Eclipsing U2's Tour Gross** : Elton John's concert tours have exceeded the gross revenue of U2's 360 tour, positioning him among the highest-earning artists in modern live music. "Ed Sheeran, Elton John, Coldplay, and Taylor Swift have eclipsed that." ← https://www.youtube.com/watch?v=19Z_AAEy8Bc
 **Eminem's AA Sponsor** : Elton John acts as Eminem's sponsor in Alcoholics Anonymous, providing support and understanding from his own experience with addiction. Eminem contacts him when he needs strength. "Whenever M. feels that he needs strength, he calls Elton, who of course understands addiction all too well." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
+**Glam Rock Costumes** : Elton John's "wild costumes" are identified as a manifestation of glam rock's influence, demonstrating how the aesthetic seeped into various areas of rock. "Elton John's Wild Costumes, that's glam rock." ← https://www.youtube.com/watch?v=blDNqVFheAw
 **Hiding Sexuality and Fanbase Erosion (Late 1970s)** : Despite marrying a woman in 1984, rumors about Elton John's homosexuality and bisexuality contributed to the erosion of his fanbase in the late 1970s. He felt compelled to hide his true sexual orientation for decades, which caused a significant emotional toll on him. "the rumors of his homo and bisexuality helped to road his fanbase in the late 1970s." ← https://www.youtube.com/watch?v=hswtuenFwvM
 **John Wayne Gacy's Musical Preference** : Serial killer John Wayne Gacy, responsible for at least 33 victims, was noted to be a fan of Elton John, among other artists. This detail highlights his personal musical tastes despite his horrific crimes. "John Wayne Gacy... was into Elton John, Bob Dylan, Neil Diamond, and Aureo Speedwagon." ← https://www.youtube.com/watch?v=FtGJHhqXcDI
 **Major International Rock Act (Early 1970s)** : Elton John was one of the biggest international rock acts in the early 1970s, at a time when much of rock music was considered tired. "The biggest international rock acts in the early 1970s were Led Zeppelin, Pink Floyd, The Rolling Stones, Elton John, and as unbelievable as it sounds today, Grand Funk Railroad." ← https://www.youtube.com/watch?v=VYi3r0G-ne4

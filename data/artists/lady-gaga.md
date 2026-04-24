@@ -1,5 +1,9 @@
 # artist - Lady Gaga
 
+## genres
+- Glam
+- Pop
+
 ## songs
 **Shallow (Year Unspecified)** : This Grammy and Academy Award-winning song by Lady Gaga features a three-note progression. Songwriter Steve Ronson accused Gaga of copyright infringement, claiming the progression was similar to his 2012 song "Almost." Ronson made "noises about suing" based on just three notes played over three seconds, a claim widely seen as frivolous. "Then along comes Lady Gaga with her Grammy and Academy Award-winning song, Shallow, which features this three note progression." ← https://www.youtube.com/watch?v=fS8V3kYXT6w
 
@@ -7,6 +11,7 @@
 **Attended "Who the F Is Arthur Fogel" Premiere** : Lady Gaga attended the Hollywood premiere of the documentary "Who the F Is Arthur Fogel" in full costume, demonstrating her high regard for the concert promoter Arthur Fogel. She later sat with Stewart Copeland of The Police at the after-party. "Because Arthur is so well regarded by Lady Gaga, so was she. In full costume, of course." ← https://www.youtube.com/watch?v=hjProJd_JrM
 **Chateau Marmont After-Party** : Following the premiere of the Arthur Fogel documentary, Lady Gaga was present at the after-party held at the Chateau Marmont in Los Angeles. She was observed sitting on a couch with Stewart Copeland of The Police, described as being "terrific people." "And at one point, I found myself quite accidentally sitting on a couch with Lady Gaga to my left and steward Copeland of the police on my right." ← https://www.youtube.com/watch?v=hjProJd_JrM
 **Collaborator with Sean Lennon** : Lady Gaga has collaborated with Sean Lennon on records. "Lady Gaga." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
+**Contemporary Pop Glam** : Lady Gaga is cited as a pop act that incorporates glam elements, illustrating the genre's continued presence and impact even in modern pop music. "We can even throw in pop acts like Lady Gaga into the mix." ← https://www.youtube.com/watch?v=blDNqVFheAw
 **Defaced Magazine Cover at Abbey Road** : During a private tour of Abbey Road Studios, a fashion magazine featuring Lady Gaga on the cover was discovered. Someone had used a Sharpie to draw a beard and mustache on her image, found amidst vintage and new recording gear throughout the building. "There was also a fashion magazine with Lady Gaga on the cover. Someone had taken a sharpie and drawn a beard and a mustache on her." ← https://www.youtube.com/watch?v=hjProJd_JrM
 **Las Vegas Residency Trend** : Lady Gaga joined the growing number of pop stars who established Las Vegas residencies, a trend initiated by artists like Celine Dion and Britney Spears. These residencies allowed popular artists to perform to dedicated fan bases in a fixed location, contributing to Las Vegas's evolution as a diverse entertainment destination. "That led to Lady Gaga, Prince, the Backstreet Boys, Mariah Carey, Cher, Shania Twain, Bruno Mars, Adele, and dozens and dozens more." ← https://www.youtube.com/watch?v=GYUuTbOvyak
 **Manager Troy Carter** : Troy Carter was the person behind Lady Gaga's career and has since become a significant tech entrepreneur. "Troy Carter was the person behind Lady Gaga and has become an important tech entrepreneur." ← https://www.youtube.com/watch?v=AcADOuQUiAQ

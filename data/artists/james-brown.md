@@ -1,6 +1,7 @@
 # artist - James Brown
 
 ## genres
+- Funk
 - Funk/Soul (implied)
 - R&B
 
@@ -12,6 +13,7 @@
 **Attempted Royalty Securitization** : James Brown attempted to package his royalties against the market, similar to David Bowie's "Bowie Bonds," but did not achieve the same level of success. "James Brown, the Isle brothers, and a few others tried the same thing, but not with the same success." ← https://www.youtube.com/watch?v=Pe40SqDrpZ0
 **Collaborated with Art Wood** : Studio drummer Art Wood, whose drum samples became central to the Linn LM-1, had a history of playing with James Brown. "He also played with Tina Turner, James Brown, and Bed Middler." ← https://www.youtube.com/watch?v=dablAKDOOV0
 **Covered in Early Days** : The Trews included James Brown covers in their extensive live sets during their early career, playing multiple nights a week and developing their original material alongside rock and R&B classics. "We do like James Brown." ← https://www.youtube.com/watch?v=3zbKOwkpkAM
+**Funk Influence** : Even the funk music of James Brown had an impact on the experimental German music of the late 1960s, demonstrating the broad range of styles absorbed by artists aiming to forge a unique identity. "and even the funk of James Brown had an impact." ← https://www.youtube.com/watch?v=ePZDkqLM_gw
 **Influence on Living Color** : James Brown was one of the key inspirations for Living Color, influencing their unique funk metal sound. "They were inspired equally by James Brown, Funkadelic, Run DMC, Slion the Family Stone, and Led Zeppelin Van Halen, and the Clash." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 **Mite Species** : A species of mite has been named after James Brown, adding him to the list of musicians honored in the scientific naming of organisms. "Well James Brown has a might named after him. Yes, a might." ← https://www.youtube.com/watch?v=VMPLplhDk8I
 **Mod Culture Influence** : James Brown was a prominent R&B artist from the United States whose music was deeply admired and cherished by the Mod youth cult in Britain during the mid-1960s. "The mods loved rhythm and blues, R&B music, people like James Brown from the States..." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM

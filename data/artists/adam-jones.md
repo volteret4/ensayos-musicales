@@ -1,6 +1,7 @@
 # artist - Adam Jones
 
 ## member of
+- Electric Sheep
 - Tom Morello
 - Tool
 

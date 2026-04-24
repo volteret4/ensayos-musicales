@@ -1,5 +1,8 @@
-# artist - A tribe called Quest
+# artist - A Tribe Called Quest
 
 ## concerts
-- **Lollapalooza Festival Bookings** : A Tribe Called Quest was a mainstay act booked at the Lollapalooza Festival, which was instrumental in introducing rap to white audiences. "The La La Paloza Festival helped bring rap to white kids by booking mainstayjacks like Ice Tea, Ice Cube, George Clinton, Cypress Hill, and a tribe called Quest."
+- Lollapalooza 1991
+
+## curiosities
+**Lollapalooza 1991 Performer** : A Tribe Called Quest was among the "rap stars" featured on the 1991 Lollapalooza tour, contributing to the festival's diverse lineup that deliberately mixed alternative rock with hardcore rap and hip hop to bridge cultural divides. "When presented with rap stars like Ice Tea and Ice Cube at a tribe called Quest in George Clinton and Cypress Hill." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE
 

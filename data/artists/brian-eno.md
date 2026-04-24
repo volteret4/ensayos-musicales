@@ -1,6 +1,7 @@
 # artist - Brian Eno
 
 ## member of
+- David Bowie
 - Roxy Music
 
 ## genres
@@ -11,6 +12,7 @@
 - Post-Punk
 
 ## instruments
+- Synthesizer
 - Synthesizers
 
 ## albums
@@ -33,6 +35,7 @@
 **Interest in Canadian Avant-garde** : Brian Eno, a British musical experimenter, showed interest in several avant-garde Canadian performers. This led him to a recording by "Time Twins" that Daniel Lanois had produced. "Brian Eno who at the time just happened to be interested in several avant-garde Canadian performers." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
 **Inventor of Ambient Music** : Brian Eno is widely credited with inventing the concept and genre of ambient music through several of his albums, which in turn laid the foundational groundwork for many different genres of electronic music. "Several of these albums invented the whole concept and genre of ambient music." ← https://www.youtube.com/watch?v=QfiRRtsZoYU
 **Key Contributor to Bowie's Berlin Trilogy** : Brian Eno made significant contributions to David Bowie's albums "Low" (especially Side 2) and "Lodger" during the Berlin trilogy period. While he did not produce "Lodger" (Tony Visconti did), he played an essential role in helping Bowie explore his musical ideas. "Brian Eno was there to make some important contributions." ← https://www.youtube.com/watch?v=rw0uXf5UJvo
+**Later Career and Influence** : Brian Eno later went on to invent ambient music and became one of the world's most successful record producers, working with influential acts like U2. "that Eno in the review is Brian Eno, who would later invent A&B in music and become one of the world's most successful record producers for, you know, a couple of little acts like you too." ← https://www.youtube.com/watch?v=blDNqVFheAw
 **Multifaceted Career and Influence** : Brian Eno is celebrated not just as a musician but also as a composer, record producer, music theorist, philosopher, filmmaker, writer, lecturer, and creator of art installations exhibited globally. His diverse contributions span multiple creative and intellectual fields. "Since then, he's established himself not only as a musician, but as a composer, a record producer, a music theorist, a philosopher, a filmmaker, a writer, a lecturer, and someone who conceives of and constructs art installations that are displaying galleries around the world." ← https://www.youtube.com/watch?v=QfiRRtsZoYU
 **Music for Spore Video Game** : Brian Eno contributed music to the popular video game "Spore." "Well, you know Will writes video games spore. Well, I guess he did the music." ← https://www.youtube.com/watch?v=QfiRRtsZoYU
 **No Wave Fan and Collector** : Despite being a renowned "super producer" rather than a performer in the No Wave movement, Brian Eno was a significant fan of the scene. His interest was so strong that he actively collected material from various No Wave bands, ultimately compiling some of it for a compilation album. "He wasn't a performer, but he was a fan." ← https://www.youtube.com/watch?v=XjTWcy8RHEs
@@ -42,6 +45,7 @@
 **Producer for Renowned Artists** : Eno has a distinguished career as a record producer, having worked on albums for iconic artists such as David Bowie, U2, Talking Heads, and Coldplay. "He's produced records for David Bowie, you two, the Talking Hits and Coldplay" ← https://www.youtube.com/watch?v=QfiRRtsZoYU
 **Production Partnership with Daniel Landwom** : Collaborated with Daniel Landwom from late 1979 to early 1980s, producing "half a dozen ambient records in Hamilton" and developing a unique "textural sound" before working with U2. "I had been working with Brian late 1979 to, let’s say, late 82, 83. We made a half a dozen ambient records in Hamilton and we had refined this textural sound that Brian was very excited about" ← https://www.youtube.com/watch?v=L03Yk1SHRNM
 **Recruitment by U2** : In 1984, U2 contacted Brian Eno to help them elevate their sound. When Eno agreed, he brought Daniel Lanois into the project, leading to "The Unforgettable Fire." "In 1984 Eno was contacted by U2 to help them take their sound to the next level and when Eno finally agreed to take the job he called up Dan and held it and the result was the unforgettable fire." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
+**Role in Roxy Music and Critic's View** : Brian Eno, described as a "balding, long-haired, unique look-alike," played synthesizer for Roxy Music. His heavy use of the instrument on Side Two of their debut album was singled out by a 1973 Cream Magazine review as lacking "the saving grace of drums and bass line." "the synthesizer, played by a balding, long-haired, unique look-alike named Eno, without the saving grace of drums and bass line." ← https://www.youtube.com/watch?v=blDNqVFheAw
 **Spider Species** : A spider species, *Sudo-Korena, Brian Eno*, was named after Brian Eno. This honor is given with context to his role as co-producer of U2's "The Joshua Tree" album. "that album was of course co-produced by Brian Eno, and he has a spider named after him. Sudo-Korena, Brian Eno." ← https://www.youtube.com/watch?v=VMPLplhDk8I
 **Transition to Ambient Music** : Brian Eno, originally from a rock background with Roxy Music, embarked on solo experiments in ambient music, which diverged significantly from rock. His work emphasized atmospherics, textures, repetition, and sought to create a "mode" rather than tell stories with lyrics, often without lyrics at all. "Same thing with Brian Eno's solo experiments in ambient music." ← https://www.youtube.com/watch?v=pLf3kUONewg
 **Vintage Pornography Collection** : Super producer Brian Eno has openly acknowledged his collection of vintage pornography. "super producer Brian Eno, has been very upfront about his collection of vintage porn." ← https://www.youtube.com/watch?v=xc85sLj0Cnk

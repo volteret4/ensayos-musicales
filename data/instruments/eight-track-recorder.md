@@ -1,5 +1,5 @@
-# instrument - Eight-Track Recorder
+# instrument - Eight-track recorder
 
 ## curiosities
-**Analog Recording Preference** : The White Stripes chose Toe Rag Studios in London for recording their 2003 "Elephant" album specifically because of its "ancient eight track recorder," along with its analog tape and analog console. This demonstrated a deliberate choice for an old-school, all-analog recording process. "The attraction was the studio's ancient eight track recorder. It's pile of analog tape and it's analog console." ← https://www.youtube.com/watch?v=yPok3MemDmE
+**Custom-built for "Switched-On Bach"** : Wendy Carlos's "Switched-On Bach" album was recorded on a custom-built eight-track recorder. This specialized equipment was necessary for the extensive overdubbing required to create the complex, multi-layered classical arrangements using a monophonic synthesizer, highlighting the technical challenges of early electronic music production. "I can't imagine how many overdubs were required to make something like this, especially considering that it was reported on an eight-track recorder that had to be custom-built." ← https://www.youtube.com/watch?v=oRR7N-YUcRE
 

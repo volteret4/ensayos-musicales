@@ -12,6 +12,7 @@
 **Ray Kurzweil's Computer-Composed Piano Music (1967)** : In 1967, a 17-year-old Ray Kurzweil appeared on the CBS show "I've Got a Secret" to demonstrate a computer he had built and programmed. This machine composed a piece of music specifically for the piano, showcasing an early example of computer-generated instrumental music. "He demonstrated a piece of music for the piano that was composed by a computer that he built in programs." ← https://www.youtube.com/watch?v=QFtS8fl553Y
 **Role in IMS's "Hello World" (N/A)** : The classical composition "Hello World," entirely conceived and notated by the IMS computer program, was written for piano, alongside clarinet and violin. This highlights the capacity of early AI music generation to produce scores for traditional ensembles. "It was a classical composition for clarinet, violin, and piano." ← https://www.youtube.com/watch?v=QFtS8fl553Y
 **Role in Smaller Combos Post-WWII** : During World War II, as big dance bands were stripped of members due to drafting and economic constraints, smaller combos of three to five players emerged. The piano often played a key role in these groups, particularly in the development of bebop jazz in the 1940s. "During World War II, the big dance bands of the era were stripped of their members as many were drafted, maintaining a group of ten or twelve or more members became too expensive. And the big bands gave way to smaller combos of three, four or five players. In the 1940s, a form of jazz based on the abilities of the combo called the bebop developed, and such groups often had a piano player." ← https://www.youtube.com/watch?v=dJiSZ4X0F2g
+**Tori Amos's Primary Instrument** : After a stint fronting a rock band, Tori Amos returned to the piano, using it as her primary instrument for writing songs that delved into complex themes like religion, politics, and sexuality. "After a short stint, fronting a rock band called Why Can't Tori Read, she went back to the piano and started writing songs that focused on everything from religion, to politics, and feminism, to sexuality, and sexual abuse." ← https://www.youtube.com/watch?v=zZM9ajwYr9E
 **Traditional Keyboard in Rock** : The piano was identified as a traditional keyboard instrument commonly used in rock music for an extended period, contributing to the genre's foundational sounds. "For the longest time, the sounds of rock were made with voice guitars, bass, drums and keyboards like piano and organ." ← https://www.youtube.com/watch?v=5PJRCC6EwUY
 
 ## artists
@@ -20,7 +21,9 @@
 - Arkells
 - Ben Folds
 - Billy Talent
+- Björk
 - Butch Vig
+- Chris Berkett
 - Chris Martin
 - Chuck Leavell
 - David Bowie

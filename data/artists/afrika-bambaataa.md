@@ -1,8 +1,10 @@
 # artist - Afrika Bambaataa
 
 ## genres
+- Breakbeat dancing
 - Electro
 - Garage
+- Hip Hop
 - Hip hop
 - House
 - Miami bass
@@ -13,4 +15,5 @@
 
 ## curiosities
 **Founding Father of Rap** : Afrika Bambaataa is widely recognized as one of the founding fathers of rap, particularly for his influential track "Planet Rock." This song's innovative use of electronic sounds and sampling, including a Kraftwerk sample, profoundly shaped the direction of hip hop and related genres. "And he is recognized as one of the founding fathers of rap." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
+**Pioneer of Hip Hop** : Afrika Bambaataa is recognized as one of the most influential early rappers, DJs, and hip hop producers, credited with coming up with breakbeat dancing. His work, particularly "Planet Rock," directly leveraged the influential beats from Kraftwerk's "Trans-Europe Express," solidifying Kraftwerk's foundational role in hip hop. "Now, here's Africa Vambada, one of the most influential of all the early rappers DJs and hip hop producers. He's one of the people who came up with breakbeat dancing." ← https://www.youtube.com/watch?v=ePZDkqLM_gw
 

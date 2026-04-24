@@ -1,4 +1,4 @@
-# artist - Chris (Novoselic)
+# artist - Chris Novoselic
 
 ## member of
 - Nirvana

@@ -6,6 +6,7 @@
 ## genres
 - Punk Rock
 - Riot Girl
+- Riot Grrrl
 
 ## concerts
 - International Pop Underground Convention
@@ -19,4 +20,5 @@
 ## curiosities
 **Early Breakup** : By 1994, Bratmobile had broken up. This was part of the general decline of the original Riot Grrrl scene due to various internal and external pressures, including conflicting ideas about media coverage and the co-option of "girl power." "By 1994, Brad Mabel, Evans De Betsy and Huggy Bear had all broken up." ← https://www.youtube.com/watch?v=Qss5kC2FUx0
 **Olympia-based Pioneer** : Bratmobile, a three-woman band from Olympia, was an early pioneer in the Riot Grrrl scene. The group emerged from the "widely read feminist zine scene," specifically influenced by a zine called "Girl Germs." "Another early pioneer in this scene we just talked about was Bratmobile. Again they were from Olympia, three women, and again this is a band that grew out of the widely red feminist scene." ← https://www.youtube.com/watch?v=Qss5kC2FUx0
+**Riot Grrrl Band** : Bratmobile is mentioned as one of the bands within the Riot Grrrl movement. "And then there were bands like Sugar Baby Doll and the Pagan Babies and Brat Mobio and Heaven's De Betsy and Huggy Bear." ← https://www.youtube.com/watch?v=zZM9ajwYr9E
 

@@ -14,6 +14,7 @@
 - The Blitz Club
 
 ## curiosities
+**New Romantic Descendant** : Visage is identified as a band that emerged from the Romantic movement, directly influenced by the legacy of glam rock, particularly David Bowie and Roxy Music. "Visage." ← https://www.youtube.com/watch?v=blDNqVFheAw
 **New Romantic Example** : Listed as one of the bands associated with the New Romanticism movement. "Then there was Visage, Adam in the Ants, Spandovalet." ← https://www.youtube.com/watch?v=1KF5MwJVYng
 **Origin from Blitz Kids Movement** : Visage was fronted by Steve Strange, who gained recognition as one of the Blitz kids featured in David Bowie's "Ashes to Ashes" video. The band's emergence reflects its roots in the Blitz kids' subculture and the broader New Romantic movement. "Steve Strange, one of the people in that video, would later front of band called Visage, which did okay." ← https://www.youtube.com/watch?v=mAlc-N2wn5s
 **Pioneers of 1980s Techno Pop** : Visage is highlighted as a key act in the development of 1980s techno pop, a genre characterized by the pervasive use of synthesizers. They are grouped with other influential bands like Depeche Mode, Human League, and Yazoo. "And this brings us to the techno pop sounds of the 1980s, to Pesh Mode, Human League, Yazoo, Visage." ← https://www.youtube.com/watch?v=OiqdZfxdBP0

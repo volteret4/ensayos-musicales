@@ -2,4 +2,5 @@
 
 ## member of
 - The Pogs
+- The Pogues
 

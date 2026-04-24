@@ -5,12 +5,15 @@
 - The Sex Pistols
 
 ## instruments
+- Amplifiers
 - Bass guitar (on "Holidays in the Sun")
 - Gibson Les Paul Custom
 - Guitar
+- Microphones
 
 ## curiosities
 **Overdubbed Les Paul Sound** : In 1977, Steve Jones of the Sex Pistols achieved a thick, heavy sound by overdubbing his Gibson Les Paul Custom approximately 20 times. This technique showcased the guitar's capability for aggressive tones in punk rock. "He's playing a Gibson Les Paul custom that has been overdubbed unto itself around 20 times to get that thick, heavy sound." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
 **Played Bass on "Holidays in the Sun"** : After Glenn Matlock's departure from The Sex Pistols, Steve Jones took on the role of playing the bass parts for the song "Holidays in the Sun." "Bass player Glenn Matlock had been fired, so it was up to Steve to play the bass parts." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
 **Stolen Microphones for Sex Pistols** : Steve Jones was one of the thugs who broke into a David Bowie Ziggy Stardust performance in London and stole the band's microphones. These stolen microphones were then literally used by Jones in his new band, the Sex Pistols. "One of those thieves was a kid named Steve Jones, and those mics were literally used in his new band called the Sex Pistols." ← https://www.youtube.com/watch?v=Dm5N6yDRxXQ
+**Theft of Bowie's Gear (July 1973)** : As a young thief in July 1973, Steve Jones broke into the Hammersmith Odeon during a David Bowie and The Spiders from Mars' engagement and stole microphones and amplifiers. This gear is believed to have been used by Jones and the Sex Pistols in their early rehearsals and gigs starting in 1975, initiating their contribution to the punk rock era. "a young thief named Steve Jones broke into the theatre and made off with a bunch of microphones and amplifiers." ← https://www.youtube.com/watch?v=blDNqVFheAw
 

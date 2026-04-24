@@ -6,6 +6,9 @@
 ## genres
 - Thrash Metal
 
+## concerts
+- Greta (toured with)
+
 ## albums
 **No Sleep till Hammer Smith** : The title of the Beastie Boys' song "No Sleep Till Brooklyn" was purely intentionally inspired by Motorhead's album *No Sleep till Hammer Smith*. "And if you're a Motorhead fan, any similarity between the title of this song and Motorhead's No Sleep till Hammer Smith is purely intentional." ← https://www.youtube.com/watch?v=l1jPP1FhGo8
 
@@ -13,5 +16,6 @@
 **Band T-Shirt Etiquette** : Motorhead t-shirts were specifically mentioned in the context of people wearing band shirts bought from "fast fashion places" without knowing anything about the band. "They've got a Motorhead or Nirvana shirt." ← https://www.youtube.com/watch?v=KtdIMNoHqA8
 **Candles with Whiskey and Smoke Scent as Merchandise** : Motorhead's merchandise line in 2020 included candles that distinctively smelled like whiskey and smoke. "melted candles from Motorhead. And yes, they smell like whiskey and smoke." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
 **Devilhead Logo** : Motorhead's distinctive "Devilhead" logo is cited as a powerful marketing tool. "Think about the Rolling Stones Lips and Tongue, or Motorheads Devilhead." ← https://www.youtube.com/watch?v=pwebM3TfSdg
+**Sex Toy Line (Unspecified Year)** : Motorhead is among the rock acts that have released their own line of sex toys. "Also, Guar, Mothly Crew, Ghost, Motorhead, No Effects, which is an inflatable sheep, if you must ask, and appropriately the English punk band, the vibrators." ← https://www.youtube.com/watch?v=DA2iJsu3GRY
 **Thrash Metal Pioneer** : Motorhead is mentioned as an example of a thrash metal band, a style that blended hardcore punk aggression with metal's sound, characterized by faster and harder playing. "So I think Slayer, Motorhead, Megadeath, and Anthrax." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
 

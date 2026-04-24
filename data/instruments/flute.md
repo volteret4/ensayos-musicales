@@ -5,5 +5,6 @@
 **Sample Source for "Sure Shot"** : A flute sample from Jeremy Steig's 1970 instrumental "Howlin' For Judy" became the central element of the Beastie Boys' 1994 song "Sure Shot." The unauthorized use of this sample led to significant legal issues for the Beastie Boys. "The Beastie Boys got into trouble with Sure Shot from the Il Communication album in 1994, and the issue is the flute." ← https://www.youtube.com/watch?v=fS8V3kYXT6w
 
 ## artists
+- Björk
 - Mike DeAngeles
 

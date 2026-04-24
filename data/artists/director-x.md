@@ -5,8 +5,12 @@
 - Music Video Director
 - R&B (as influence)
 
+## labels
+- Fella (production company)
+
 ## curiosities
 **"Popstar" Music Video (DJ Khaled, Drake, Justin Bieber)** : Director X's production company, Fella, achieved a breakthrough with the music video for "Popstar" by DJ Khaled, Drake, and Justin Bieber. "We broke our production company, Fella, with this music video for DJ Khaled Drake and Bieber called Popstar." ← https://www.youtube.com/watch?v=EyagC0T7mR4
+**"Popstar" Music Video Breakthrough** : Director X's production company, Fella, achieved a significant breakthrough with the music video for "Popstar," a collaboration between DJ Khaled, Drake, and Justin Bieber. "we broke our production company, Fella, with this music video for DJ Khaled, Drake and Bieber called Popstar." ← https://www.youtube.com/watch?v=8lQv8eMJ868
 **"Popstar" Video and Fella Production Company** : Director X and Taj Tajes-Krishnark "broke our production company, Fella, with this music video for DJ Khaled, Drake, and Bieber called Popstar." "We broke our production company, Fella, with this music video for DJ Khaled, Drake, and Bieber called Popstar." ← https://www.youtube.com/watch?v=zUQ2vZzmRiI
 **"Topstar" Music Video Success** : Director X, along with Tadges Christelot, broke their production company, Fella, with the music video for DJ Khaled, Drake, and Justin Bieber's "Topstar." This project contributed significantly to their career trajectory. "We broke our production company, Fella, with this music video for DJ Khaled Drake and Bieber called Topstar." ← https://www.youtube.com/watch?v=QBCEmZ4Jheo
 **1980s Music Video Influences** : Director X developed his passion for music videos during the 1980s MTV and Much Music era, drawing inspiration from the storytelling, dancing, and style in videos by artists like Madonna, Peter Gabriel, Phil Collins, Michael Jackson, and Aerosmith. "I came up I came up in the 80s era where that's what made me fall in love with music videos, right? The MTV, much music era watching videos by like Madonna and Peter Gabriel and like Phil Collins and Michael Jackson and Errol Smith." ← https://www.youtube.com/watch?v=IIJySSo276k

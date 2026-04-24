@@ -10,9 +10,12 @@
 **Impact on Singing Style (Crooning)** : The invention of the microphone revolutionized singing, allowing for new vocal techniques like crooning. Previously, singers had to belt out songs to be heard, but the microphone enabled the human voice to explore a wider range of expression, which purists often criticized as a "degenerate form of singing." "The microphone became a new tool for the human voice, allowing it to go in all kinds of new directions." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
 **Introduction with Electrical Recording (1925)** : Microphones, referred to as "newfangled listening sticks," were introduced with electrical recording technology in 1925, alongside amplifiers. This innovation marked a significant technological shift from the acoustic recording methods that preceded it. "This involved the use of these newfangled listening sticks called microphones and also things called amplifiers." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
 **Role in Manufactured Pop Stars** : Microphones, along with "electronic manipulation," were noted in a 1962 quote as tools used to create "synthetic phonographic personalities." The quote highlighted that the sounds on these records often bore only a "passing resemblance" to what was actually "crooned into the microphone," suggesting early concerns about audio manipulation. "The only sounds that are heard from their records may only bear a passing resemblance to those that were crooned into the microphone." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
+**Theft from Bowie (July 1973)** : Microphones were among the equipment stolen from David Bowie at the Hammersmith Odeon in London in July 1973 by Steve Jones, who later used them with the Sex Pistols. "made off with a bunch of microphones and amplifiers." ← https://www.youtube.com/watch?v=blDNqVFheAw
 
 ## artists
 - Beastie Boys
 - Blink 182
+- Sex Pistols
+- Steve Jones
 - USS
 

@@ -3,6 +3,7 @@
 ## genres
 - California hardcore
 - Hardcore
+- Punk
 - Skate punk
 - Trash metal
 

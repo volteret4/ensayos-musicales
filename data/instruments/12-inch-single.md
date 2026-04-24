@@ -1,0 +1,7 @@
+# instrument - 12-inch single
+
+## curiosities
+**Accidental Birth in 1974** : The 12-inch single was born in 1974 when remixer Tom Molten, facing a shortage of 7-inch blanks for a new mix, asked a studio engineer to press his track onto a 12-inch blank instead. The engineer instructed it be played at 45 RPM, establishing the new format. "And just like that, the 12-inch single was born." ← https://www.youtube.com/watch?v=08i9lVd6T8c
+**DJs' Preferred Format** : DJs quickly favored the 12-inch format for its ease of handling due to its size, its stability from its heavier weight, and its capacity to store more music, especially bass, thanks to wider groove spacing. Its extended lip also enabled new DJ techniques like slip-cuing and scratching. "DJs love the new 12-inch format because they were bigger, they were easier to handle. Because they were heavier, you didn't have to be as careful moving them around. Because the grooves were wider apart, they could store more music, especially bass." ← https://www.youtube.com/watch?v=08i9lVd6T8c
+**Survival Post-Disco** : Even after the disco genre "imploded" in the early 1980s, the 12-inch extended remix survived as a format. Record labels and artists continued to utilize it, recognizing its advantages in reaching dance club audiences and promoting multiple sales of a single. "Even though disco had imploded by the beginning of the 80s, the 12 inch extended remix survived." ← https://www.youtube.com/watch?v=08i9lVd6T8c
+

@@ -11,6 +11,7 @@
 
 ## songs
 **A Tout le Monde (1995)** : This French-language single was briefly broadcast on MTV before being banned due to concerns that it promoted suicide, a claim vehemently denied by band leader Dave Mustaine. More than a decade later, on September 13, 2006, Kimveer Gill quoted lyrics from this song in his suicide note after carrying out a shooting at Dawson College in Montreal. "In 1995, Megadeth released a single song in French called A Tudor Monde. He was shown on MTV once before being banned on the grounds that it promoted suicide, something that leader Dave Mustaine denied." ← https://www.youtube.com/watch?v=FtGJHhqXcDI
+**Anarchy in the UK (1998) - Cover Version** : Megadeth covered the Sex Pistols' "Anarchy in the UK" in 1998. During the recording, singer Dave Mustaine evidently did not fully comprehend some of Johnny Rotten's original lyrics, leading him to improvise and create new words for certain parts of the song. "singer Dave Mustain didn't quite understand all the words that Johnny was singing, so we made up a few new ones." ← https://www.youtube.com/watch?v=k9ok8M31-38
 
 ## curiosities
 **Dave Mustaine's Spinal Stenosis from Headbanging** : Dave Mustaine attributed his spinal stenosis to years of headbanging. This specific medical condition is another example of the chronic injuries that musicians can sustain from the physical demands of certain performance styles. "Megadeth's Dave Mustaine says his spinal stenosis was caused by years of banging his head." ← https://www.youtube.com/watch?v=bferkEWvJg0

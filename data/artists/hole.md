@@ -3,6 +3,7 @@
 ## members
 - Courtney Love
 - Kristen Pfaff
+- Melissa Oftamar (possible)
 - Patty Schemel
 
 ## genres

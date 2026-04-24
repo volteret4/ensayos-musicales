@@ -9,6 +9,7 @@
 
 ## genres
 - Death Metal (influence)
+- Glam
 - Goth
 - Industrial
 - Industrial metal
@@ -39,6 +40,7 @@
 
 ## curiosities
 **Abundant Tattoos** : Marilyn Manson is noted for having "a ton" of tattoos, suggesting extensive body art. "And Marilyn Manson has a ton." ← https://www.youtube.com/watch?v=jZeMmPekKMQ
+**Alleged Drug Use with Human Remains** : Marilyn Manson has been associated with numerous strange and controversial acts, including the allegation that he smoked drugs which had been reportedly cut with human remains. "Marilyn Manson, who's been known for many weird things, including allegedly smoking drugs that had been cut with human remains." ← https://www.youtube.com/watch?v=lzwQggT0qR0
 **Anti-Christian Antics** : Manson has been outspoken against Christianity, sometimes tearing pages out of a Bible during concerts to shock audiences. "And Manson hasn't exactly been kind when it came to Christianity. In concert, he'd sometimes tear pages out of a Bible. So again, shocking." ← https://www.youtube.com/watch?v=SIK2YFSmf9U
 **Artistic Sensibility** : Marilyn Manson is mentioned among a group of bands that possess an inherent artistic sensibility without being "over the top," often attributed to members having attended art school, studied art, or collected art. "You too, the cure, Marilyn Manson, Roxy Music, the Sex Pistols, Blur, they all get it without going over the top, mainly because each one of them either A went to art school, or B studied art, or C collect art." ← https://www.youtube.com/watch?v=RWbKqqW78yg
 **Association with Trent Reznor** : Trent Reznor's association with Marilyn Manson during his period of deep depression and addiction "certainly didn't help" his struggles. "hanging out with his new buddy Marilyn Manson, certainly didn't help." ← https://www.youtube.com/watch?v=DKdF8NgF5Bw
@@ -50,6 +52,7 @@
 **Body Modification Myths** : Several myths circulate about Marilyn Manson's body, including claims that he tattooed his private parts black, had breast implants, pulled audience members on stage for sex, or distributed puppies to the audience to be torn apart on cue. All of these claims are false. "Manson also did not tattoo his private bits black. He did not have breast implants, pull someone from the audience to have sex with on stage, or distribute puppies to the audience to be torn apart on cue." ← https://www.youtube.com/watch?v=sQrbNUDZuOQ
 **Columbine School Shooting Misinformation (1999)** : Following the Columbine school shootings, false reports spread that the shooters wore Marilyn Manson makeup and t-shirts and were big fans of his music, despite these stories being completely misinformed. This misinformation caused a massive blowback, leading to death threats and cancelled shows, and nearly ruined him professionally and personally. "Things peaked after the Columbine school shootings when it was reported that the shooters were wearing Maryland Manson makeup and t-shirts and were big fans of Manson's music. Now, that was not true. It did not happen that way." ← https://www.youtube.com/watch?v=SIK2YFSmf9U
 **Complex Persona** : Marilyn Manson's image is extreme, but the individual (Brian Warner) is described as "very well read, very well spoken," creating a powerful attraction for diverse fans. "Marilyn Manson's music image is pretty extreme. At the same time, Manson himself is very well read, very well spoken." ← https://www.youtube.com/watch?v=evlGhfUe6QQ
+**Contemporary Glam Trappings** : Marilyn Manson is listed as an act exhibiting "Glam trappings" in their music and visual style, demonstrating glam's ongoing influence in later decades. "Look at acts like Marilyn Manson." ← https://www.youtube.com/watch?v=blDNqVFheAw
 **Current Artistic Pursuits** : Today, Marilyn Manson continues his artistic endeavors, having branched out into painting and acting in both film and television. "Manson today continues to do his thing, although he's branched out into art, he paints, and acting in both film and television." ← https://www.youtube.com/watch?v=SIK2YFSmf9U
 **Donna's Domain Review** : Marilyn Manson was "described as being lame" on Donna's Domain, a website that rates rock stars' penis size and sexual ability. This assessment suggests an unfavorable evaluation by the website's critics. "Marilyn Manson, however, is described as being lame." ← https://www.youtube.com/watch?v=dMsEj62KFEw
 **Embalmed Makeup Look** : Marilyn Manson is recognized for pioneering a distinctive "embalmed" makeup look, which became a signature part of his provocative and theatrical image. "to the embalmed look of Marilyn Manson." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM

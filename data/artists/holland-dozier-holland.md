@@ -1,5 +1,8 @@
-# artist - Holland Dozier Holland
+# artist - Holland-Dozier-Holland
+
+## members
+- Lamont Dozier
 
 ## curiosities
-**Attempted Bowie Bonds** : This songwriting team attempted to create financial instruments similar to Bowie Bonds, securitizing their music royalties to generate capital. "James Brown, the songwriting team of Holland Dozier Holland, the Isle of Brothers, Ashford and Simpson, even the guy who wrote songs like I Love Rock and Roll for Joan Jett, and another songwriter who wrote songs for Rod Stewart and Tupac." ← https://www.youtube.com/watch?v=Yq2A_o9-ulM
+**Lamont Dozier's Death** : Lamont Dozier, who was one-third of the highly influential Motown songwriting team Holland-Dozier-Holland, died on August 8th at the age of 81. "That very same day at Lamont Dozier, one-third of the great Motown songwriting team, Holland Dozier Holland, died at the age of 81." ← https://www.youtube.com/watch?v=sdPeii-8Ysw
 

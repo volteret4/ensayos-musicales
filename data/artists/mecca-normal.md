@@ -8,6 +8,7 @@
 - Activist
 - Confrontational
 - Pre-Riot Girl
+- Proto-Riot Grrrl
 
 ## labels
 - K Records
@@ -19,5 +20,6 @@
 
 ## curiosities
 **Control Over Releases** : Mecca Normal maintained full control over their releases, which allowed them to issue records on important indie labels in the American Pacific Northwest, such as K Records, Kill Rock Stars, and Sub Pop. This DIY approach was characteristic of the pre-Riot Grrrl scene and their activist stance. "As they controlled everything they released, methanol was able to get records out on a lot of the more important indie labels in the American Pacific Northwest." ← https://www.youtube.com/watch?v=Qss5kC2FUx0
+**Proto-Riot Grrrl Group** : Mecca Normal, from Vancouver, is identified as a proto-Riot Grrrl group, part of the foundational bands that set the stage for the movement. "We could spend hours talking about proto-Riot girl groups like Vancouver's Mecha Normal or Toronto's Fifth Column." ← https://www.youtube.com/watch?v=zZM9ajwYr9E
 **Vancouver Pre-Riot Grrrl Activists** : Formed in 1984 in Vancouver, Mecca Normal consists of David Lester and front person Jean Smith, who, like Patti Smith, is a poet. The band is known for its confrontational and activist nature, frequently addressing feminist themes, and continues to be active at some level. "That way have Vancouver's mecha normal." ← https://www.youtube.com/watch?v=Qss5kC2FUx0
 

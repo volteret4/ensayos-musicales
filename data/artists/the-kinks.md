@@ -7,7 +7,9 @@
 ## genres
 - Garage Rock
 - Mod
+- Powerpop
 - R&B
+- Rock
 
 ## instruments
 - Gibson Flying V
@@ -18,6 +20,7 @@
 **You Really Got Me (1964) - Alleged Unintentional F-Bomb** : During a take for the 1964 song "You Really Got Me," there was apparently some anger in the studio. Dave Davies is alleged to have uttered an F-word under his breath just before the guitar solo, making it a debated instance of an unintentional expletive on record. "Apparently, there was some anger in the studio during the take that resulted in that record." ← https://www.youtube.com/watch?v=gP3oQeYEvso
 
 ## curiosities
+**British Invasion Influence** : The Kinks are cited as one of the British Invasion bands that followed The Beatles, further developing the sound that would lead to Powerpop. They are considered an influence by later Powerpop acts like Big Star. "Through the Beatles came all the rest of the British invasion bands, especially the Kinks and the Who." ← https://www.youtube.com/watch?v=hstJ8M2laho
 **Early R&B Exploration** : The Kinks were among the British bands in the 1960s who ventured into playing R&B, a style that became part of the Mod culture's evolving musical preferences. "Then British bands trying their handed R&B, like the Rolling Stones and the Yard Birds and the Kinks, and especially the Who." ← https://www.youtube.com/watch?v=mAlc-N2wn5s
 **Following Sgt. Pepper's Lead & 70s Golden Age** : The Kinks were among the bands that got into the act of creating concept albums after the release of The Beatles' *Sgt. Pepper's Lonely Hearts Club Band*, and were also mentioned as a prominent act during the golden age of the concept album in the 1970s. "That opened the floodgates, the moody blues, the who, Frank Zappa, the kinks, and a bunch of other bands got into the act." ← https://www.youtube.com/watch?v=Dm5N6yDRxXQ
 **Mod Culture Influence** : The Kinks were an influential local band whose music resonated strongly with the Mod youth cult in mid-1960s Britain. "locally the Who and the Kinks in the Small Faces." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM

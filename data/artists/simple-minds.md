@@ -3,6 +3,9 @@
 ## members
 - Jim Kerr
 
+## genres
+- Synth and sample constructed music
+
 ## labels
 - Steve Lillywhite (producer)
 - Virgin
@@ -16,5 +19,6 @@
 **12-inch Remix Business** : Simple Minds embraced the 12-inch remix format, joining many other bands in the 1980s who saw its potential for club play and extending their musical presence beyond traditional album releases. This trend followed the success of New Order's "Blue Monday." "And so was Depeche Mode and The Cure and The Human League and Simple Minds and The Cult and Killing Joke and Erasure and Psychedelic Furs and Madness. They all got into the 12-inch business." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
 **Collaborated with Anton Corbijn** : Photographer Anton Corbijn, known for designing The Killers' "Sam's Town" cover, is a favored collaborator of Simple Minds, contributing to their visual identity. "The photographer was Anton Corbin, the Dutch guy who was a favorite of you two, Depeche Mode, Coldplay, Bruce Springsteen, Kate Bush, Bjork Simple Minds..." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
 **Collaboration with Steve Lillywhite** : Simple Minds are among the artists who have collaborated with the famous record producer Steve Lillywhite. "He's also worked with Morrissey and The Pogues and Simple Mines." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4
+**Kraftwerk Influence** : Simple Minds is mentioned as one of the bands influenced by Kraftwerk's approach to synth and sample-constructed music, highlighting the German group's role in shaping the sound of early electronic pop. "Many synth and sample constructed music running from simple minds to Depesh Mode. Craftwork." ← https://www.youtube.com/watch?v=ePZDkqLM_gw
 **Use of Mobile Studio** : Simple Minds employed the Rolling Stones Mobile Recording Studio for their recording sessions. "It was also used by bad company and simple mines and dire straits and Santana and Iron Maiden and others." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
 

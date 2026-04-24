@@ -4,6 +4,7 @@
 **Decline in Popularity (Early 1970s)** : In the early 1970s, many music fans abandoned the "hard-driving funk" of the 1960s, opting instead for a softer, "Mellow" sound, reflecting a shift in musical tastes. "Many fans had deserted the mind-blowing acid rock and the hard-driving funk and the soulful R&B of the 60s and decided to go all soft." ← https://www.youtube.com/watch?v=VYi3r0G-ne4
 **Development of Unique Styles** : Funk music has been a significant fascination for bassists like Flea, leading to the development of unique and widely copied playing styles characterized by techniques such as slap bass. "But because of his hardcore jazz background and because of his fascination with funk, Flea quickly developed a unique style that has been copied by millions all over the world." ← https://www.youtube.com/watch?v=CVPPymc_qrk
 **Early Integration in Alt-Rock** : Funk sounds "had been a part of alt-rock since the original punk rock days," evident in the bass lines of bands like The Slits, Public Image Limited, Gang of Four, The Bad Brains, and early Red Hot Chili Peppers, setting the stage for punk-funk and later rap fusions. "Funk sounds had been a part of alt-rock since the original punk rock days." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE
+**Evolution from R&B (Pre-1977)** : Funk, in its various forms, was one of the musical styles that R&B "begat" before 1977, demonstrating the genre's organic evolution and subdivision. "R&B began to begat things like funk in various forms of soul and dance music." ← https://www.youtube.com/watch?v=vJszsJQpINQ
 **Groove Creation in Drummers** : Drummers, by studying funk artists like James Brown and George Clinton, can learn to incorporate intricate timing elements, such as microsecond delays, that are essential for crafting compelling grooves. "He also studied James Brown and George Clinton records and learned how to insert a microsecond delay into his time keeping something that's essential to a good groove." ← https://www.youtube.com/watch?v=CVPPymc_qrk
 **Influence on "Blurred Lines"** : Both Robin Thicke and Pharrell Williams are described as being "deep into old Funk" and R&B, which influenced their deliberate attempt to copy the groove and feel of Marvin Gaye's "Got to Give It Up" when creating "Blurred Lines." "Both are deep into old Funkin' R&B and produced this song as an homage to Marvin Gaye's 1977 song Got to Give It Up." ← https://www.youtube.com/watch?v=fS8V3kYXT6w
 **Influence on Drum Breaks** : Funk music, especially its drum breaks, became a primary source for DJs looking to loop sections on their turntables during the rise of hip-hop. The funkier the break, the more desirable it was for sampling. "DJs were looking for drum breaks that they could loop on their turntables, the funkier or the break, the better." ← https://www.youtube.com/watch?v=VnXBJqKwkrw
@@ -24,6 +25,7 @@
 - Death
 - Fishbone
 - Gang of Four
+- James Brown
 - Jody Linscott
 - Kid Rock
 - Living Colour

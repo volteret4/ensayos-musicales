@@ -7,6 +7,7 @@
 ## artists
 - Audioslave
 - Chris Cornell
+- Rage Against The Machine
 - Rage Against the Machine
 - Soundgarden
 

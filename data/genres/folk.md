@@ -20,6 +20,7 @@
 - Bobby Jean Hall
 - Buffy Sainte-Marie
 - Camper Van Beethoven
+- David Bowie
 - Ed Sheeran
 - Jacob Dylan
 - Jake Bugg

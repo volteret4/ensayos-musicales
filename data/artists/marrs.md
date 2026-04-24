@@ -1,15 +1,28 @@
-# artist - M/A/R/R/S
+# artist - MARRS
 
 ## members
-- Alex
-- Ivo Watts Russell
-- Martin
-- Rudy
-- Stephen
+- Alex Ayuli (AR Kane)
+- Martin Young (Colorbox)
+- Rudy Tambala (AR Kane)
+- Russell Smith
+- Stephen Young (Colorbox)
+
+## genres
+- Alt Rock (sampling)
+- Dance Music
+- Hip Hop
+- Hip-Hop
+
+## labels
+- 4AD
 
 ## songs
-**Pump Up The Volume (1987) – Groundbreaking Sample-Based Single** : Created by five London-based producers and musicians (Martin, Alex, Rudy, Ivo Watts Russell, and Stephen, whose initials formed the band name M/A/R/R/S), this single was a groundbreaking musical collage. It extensively used samples from diverse sources including Israeli singer Ofra Haza, James Brown, the Iranian Revolutionary Army chorus, and rap duo Eric B. & Rakim, with the latter's sample providing the song's title. Initially distributed anonymously on 500 white labels to club DJs in the fall of 1987, its sounds and ideas rapidly spread through dance clubs and eventually into mainstream pop and rock, making a long-lasting impact despite not being the first sampled hit. "The song was issued under a name made up of the initials of the five main guys behind the project." ← https://www.youtube.com/watch?v=Somq2MoRi5Q
+**Pump Up The Volume (1987)** : This single was a "Frankenstein monster of a song" created by a 4AD studio project involving musicians, producers, and DJs. It utilized samples from more than two dozen other recordings, including artists like James Brown, Run DMC, Afrika Bambaataa, Kool & The Gang, Public Enemy, Islamic music, chanting, a movie trailer, and various sound effects. This track pioneered a new method of deconstructing and reconstructing music and had an incalculable effect on dance music, hip-hop, and any form of alt rock interested in sampling. "Mars and pump up the volume from 1987, one of the most important indie dance records of the decade." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
+**Pump Up the Volume (1987) – Frankenstein Monster of a Song** : This studio creation, released in 1987, was an "absolutely huge record in the history of sampling and studio technology." It was assembled by Ivo Watts Russell of 4AD records, combining classic beats, samples from various records, contributions from rap groups like Eric B. and Rakim, Israeli pop singer Afrahaza, James Brown, and even a recording of the Iranian Revolutionary Army chorus. The song became a one-hit wonder and introduced many to new music technologies and dance clubs. "That's a made up studio creation called Mars from 1987. A Frankenstein monster of a song called Pump Up the Volume." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
+**Pump Up the Volume (1988)** : This 1988 hit was a number one smash and a one-hit wonder for MARRS. It was highly influential in merging hip hop and dance music through the art of sampling. The group's name, MARRS, was an acronym formed from the initials of its members. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 
 ## curiosities
-**White Label Distribution of "Pump Up The Volume"** : To introduce their innovative sample-heavy single "Pump Up The Volume," M/A/R/R/S distributed 500 anonymous white label copies to club DJs. This strategy allowed the track's sounds and ideas to spread organically through dance clubs before breaking into mainstream pop and rock, contributing to its significant and lasting impact. "This song was mailed out on an anonymous white label to 500 club DJs, and from there the sounds and ideas spread, first through the dance clubs, and finally into mainstream pop and rock." ← https://www.youtube.com/watch?v=Somq2MoRi5Q
+**Collaboration and Formation** : MARRS formed in 1988 through a collaboration between members of AR Kane (Alex Ayuli, Rudy Tambala), Colorbox (Martin Young, Stephen Young), and Russell Smith, an associate of AR Kane. The name is an acronym of the members' initials. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
+**Groundbreaking Sampling Project** : MARRS was a collaborative studio project involving musicians, producers, and DJs associated with 4AD, and its single "Pump Up The Volume" redefined music production through extensive and diverse sampling. No one had previously deconstructed and reconstructed music in such a fashion. "No one had ever deconstructed and then reconstructed music in this fashion before." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
+**Sampling Innovation** : "Pump Up the Volume" was a landmark track in the use of sampling, showcasing a new art form that profoundly influenced hip hop and dance music, and is considered part of the broader Dreampop story. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 

@@ -21,6 +21,7 @@
 - Low-fi American alternative music
 - Nerd Rock (associated)
 - New Rock
+- Powerpop (in DNA)
 - Surf (subtle influence)
 
 ## labels
@@ -58,6 +59,7 @@
 **Formation and Lineup** : The Pixies were formed in 1986 by two roommates from the University of Massachusetts: guitarist and singer Black Francis (real name Charles Michael Kijerich Thompson IV, an anthropology major) and Joey Santiago. They were soon joined by former cheerleader Kim Deal on bass, and her friend David Lovering on drums. "They were formed in 1986 by two roommates from the University of Massachusetts, guitarist and singer-black Francis and anthropology major whose real name is Charles, Michael Kijerich, Thompson IV and Joey Santiago." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
 **Frank Black's Telecaster Loyalty** : Frank Black of The Pixies is recognized as one of the most loyal Fender Telecaster players, having favored the instrument almost from the very beginning of his career. "One of the most loyal Telecaster players is Frank Black of the Pixies. These favorite Telecasters almost from the very beginning." ← https://www.youtube.com/watch?v=E6cXyaHALBQ
 **Headlining Reading Festival (1990)** : Their popularity earned The Pixies the prestigious honor of headlining the main stage on the final day of the 1990 Reading Festival. Their performance was met with an enthusiastic crowd of over 30,000 people who sang and screamed along. ← https://www.youtube.com/watch?v=Z9T9wi0vEvc
+**Hidden Powerpop DNA** : The Pixies are described as having "plenty of PowerPop in their DNA," though these elements are often obscured or "well hidden under all those soft, loud, loud guitars." This suggests a foundational influence of Powerpop on their sound, even if their overall style is more closely associated with alternative rock. "The Pixies have plenty of PowerPop in their DNA, but it's well hidden under all those soft, loud, loud guitars." ← https://www.youtube.com/watch?v=hstJ8M2laho
 **Increased Fame While Apart** : During their separation, The Pixies paradoxically grew more famous than they had been when active, largely due to prominent bands like The Smashing Pumpkins and Nirvana publicly praising them, which helped build their "myth and legend." "And while they were apart, the Pixies had become more famous than they ever had been when they were together." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
 **Influence Disproportionate to Sales** : The Pixies exerted a profound influence on the music scene, particularly in inspiring the creation of Lollapalooza and the subsequent alternative nation movement of the 1990s, despite not achieving massive record sales. ← https://www.youtube.com/watch?v=Z9T9wi0vEvc
 **Influence on Alternative Music** : Despite potentially not identifying as a "nerd rock band," their unique approach influenced a wide range of artists from Radiohead to Nirvana and The Smashing Pumpkins, and had a specific impact on the geeky bands that emerged in the 1990s. "Their influence on everyone from radio head to Nirvana to the smashing pumpkins is well documented." ← https://www.youtube.com/watch?v=h6snk0m4200

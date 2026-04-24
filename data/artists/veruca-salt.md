@@ -1,8 +1,13 @@
 # artist - Veruca Salt
 
 ## members
+- Louise Post
 - Louise Post (leader, songwriter, singer)
+- Nina Gordon
 - Nina Gordon (leader, songwriter, singer)
+
+## genres
+- Power Pop
 
 ## labels
 - Geffen
@@ -16,6 +21,7 @@
 
 ## curiosities
 **Band Name Homage** : The band The Dude from South Africa is named after Veruca Salt's song "Seether." "the dude band from South Africa, named after that song." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
+**Great American Power Pop Band** : Veruca Salt, bookended by Nina Gordon and Louise Post, is recognized as one of the great American power pop bands of the mid-1990s. "Veruchas Salt, bookended by Nina Gordon and Louise Post. They were one of the great American power pop bands of the middle 1990s." ← https://www.youtube.com/watch?v=zZM9ajwYr9E
 **Nirvana and Pearl Jam Influence** : Like many bands of the era, Veruca Salt drew inspiration from the success of grunge giants such as Pearl Jam and Nirvana to begin creating their own music. "Like so many bands, they were inspired by the success of bands like Pearl Jam and Nirvana to start making their own music." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Non-Collaborative Songwriting** : The band's leadership, Nina Gordon and Louise Post, managed songwriting in a unique, non-collaborative manner where the person who wrote a song was also the one who performed the lead vocals for it. "They handled all the songwriting, but not really in a collaborative way. The deal was, whoever wrote the song got to sing it." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Rapid Rise to Major Label** : After performing only a couple of shows, Veruca Salt quickly gained attention, first being approached by the indie label Minty Fresh for a single. This single's success led to them opening a tour for Hole, who were signed to Geffen, ultimately resulting in Veruca Salt signing with Geffen as well. "After just a couple of shows, they were approached by an indie label called Minty Fresh." ← https://www.youtube.com/watch?v=Eo32mAZd8DI

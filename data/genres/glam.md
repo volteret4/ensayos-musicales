@@ -8,9 +8,16 @@
 ## artists
 - Alice in Chains
 - David Bowie
+- Goldfrapp
+- Lady Gaga
 - Lane Staley
+- Marilyn Manson
 - Mark Bolan
+- Placebo
+- Prince
+- Pulp
 - Sleeze
 - Suede
 - Suzi Quatro
+- The Darkness
 

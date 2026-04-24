@@ -1,5 +1,8 @@
 # artist - Prince
 
+## genres
+- Glam
+
 ## concerts
 - Roskilde
 
@@ -26,6 +29,8 @@
 **Fidget Spinners as Merch (2017)** : In 2017, merchandise featuring branded fidget spinners was sold under Prince's name or estate. This was part of a broader trend where many artists offered fidget spinners as a popular merch item. "Everybody sold branded fidget spinners, arcade fire, David Bowie, Prince Black Flag, the misfits, Nirvana, Queens of the Stone Age, followed boy, weird." ← https://www.youtube.com/watch?v=aSk1XQHNkd8
 **Giant of Rock Music** : Prince is recognized as one of the significant figures in the broader landscape of rock music. "I can teen a turner, funk a delix, Stevie Wonder, Bob Marley, Prince or Slash." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 **Impact of Death** : Prince's departure was cited as an instance where fans experienced a significant emotional void, underscoring how deeply artists' music integrates into their listeners' lives. "It happened when Prince left us." ← https://www.youtube.com/watch?v=zIlCaKCvylI
+**Influence of Electric Warrior** : A young artist who would later be known as Prince was significantly "taken by" T-Rex's *Electric Warrior* album in America. "In America, a kid who would be later known as Prince, was taken by it." ← https://www.youtube.com/watch?v=blDNqVFheAw
+**Influence of Glam Culture** : A strong case can be made for Prince being influenced by various aspects of glam culture, including its aesthetic and musical style. "We could also make a very strong case for prints being influenced by aspects of Glam culture." ← https://www.youtube.com/watch?v=blDNqVFheAw
 **Influenced by Rick James** : Prince recognized Rick James' significant importance and influence on his own music, noting that his own artistry wouldn't exist without James preceding him. "If you go back and you listen to Prince, Prince will tell you how important Rick James was and Prince will tell you that, you know, you don't get to Prince without Rick James being there first." ← https://www.youtube.com/watch?v=Pe40SqDrpZ0
 **Las Vegas Residency Trend** : Prince joined the growing number of pop stars who established Las Vegas residencies, a trend initiated by artists like Celine Dion and Britney Spears. These residencies allowed popular artists to perform to dedicated fan bases in a fixed location, contributing to Las Vegas's evolution as a diverse entertainment destination. "That led to Lady Gaga, Prince, the Backstreet Boys, Mariah Carey, Cher, Shania Twain, Bruno Mars, Adele, and dozens and dozens more." ← https://www.youtube.com/watch?v=GYUuTbOvyak
 **Last Public Sighting (Record Store Day 2016)** : One of Prince's final public appearances occurred on Record Store Day in 2016, when he was spotted at a store called The Electric Fetus. Tragically, he passed away five days later. "One of the final public settings of prints happened on record store day 2016 when he was spotted at a place called the Electric Fetus." ← https://www.youtube.com/watch?v=jD1dWxNLvfE

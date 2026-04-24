@@ -10,6 +10,7 @@
 
 ## concerts
 - **The Roundhouse (July 4th, 1976, London)** : The Stranglers opened the night at this significant Ramones gig, which introduced US-style punk rock to England and served as a catalyst for the British punk scene. "The stranglers started the night"
+- Rainbow
 - Roundhouse (July 4, 1976)
 
 ## instruments
@@ -34,4 +35,5 @@
 **Jean-Jacques Burnel's Background** : Jean-Jacques Burnel, though not always technically precise, was trained on the classical guitar, which influenced his tendency towards more melodic bass lines. "He was trained on the classical guitar. This explains two things. His bass lines tended to be more melodic." ← https://www.youtube.com/watch?v=kbFfT0pKchI
 **Lawsuit against Elastica** : The Stranglers sued Elastica for reportedly taking elements from their old songs. "another time by the Stranglers for nicking bits of their old songs." ← https://www.youtube.com/watch?v=9CNNsqXiL6U
 **Opening for The Ramones (July 4, 1976)** : The Stranglers were one of the two bands on the bill opening for The Ramones at the Roundhouse in Camden, London, on July 4, 1976. They started the night's performances. "The stranglers started the night and the official headliners were a group called the Flamen Groovies." ← https://www.youtube.com/watch?v=huAvyInzz3Q
+**Shared London Gig** : Joy Division performed a show with The Stranglers at a London venue called the Rainbow on April 4, 1980, during which Ian Curtis suffered three attacks in the first five songs and later collapsed entirely. "On April 4, 1980, during a show with the stranglers at a London venue called the Rainbow, Ian suffered three attacks during the first five songs of the set before collapsing entirely." ← https://www.youtube.com/watch?v=1VWJ0uCQx8w
 

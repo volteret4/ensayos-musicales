@@ -3,6 +3,7 @@
 ## member of
 - Joy Division
 - New Order
+- Warsaw
 
 ## instruments
 - Bass

@@ -2,4 +2,5 @@
 
 ## member of
 - Florence + The Machine
+- Florence Welch
 

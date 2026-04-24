@@ -35,6 +35,7 @@
 ## artists
 - 5 Seconds of Summer
 - All Time Low
+- All-American Rejects
 - Avril Lavigne
 - Bad Religion
 - Bass Drum of Death

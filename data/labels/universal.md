@@ -14,5 +14,6 @@
 - Arkells
 - Lorde
 - Nine-inch Nails
+- Sloan
 - U2
 

@@ -1,5 +1,8 @@
 # artist - Pete Doherty
 
+## member of
+- The Libertines
+
 ## curiosities
 **Chronic Rehab Cycle** : Pete Doherty, described as a "perpetually-stoned British rocker," spent years in and out of rehab and came very close to death on many occasions due to his struggles with addiction. "Pete Dockertey, the perpetually-stoned British rocker, was in and out of rehab for years." ← https://www.youtube.com/watch?v=EyagC0T7mR4
 **Cocaine Possession Conviction** : Pete Doherty was sentenced to six months in jail on charges of cocaine possession. "Pete Dockardy, six months for cocaine possession charges." ← https://www.youtube.com/watch?v=6xygY-npCr4

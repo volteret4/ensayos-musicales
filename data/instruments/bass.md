@@ -29,6 +29,7 @@
 - Boris Baker
 - Carol K
 - Carol Kaye
+- Chris Berkett
 - Cliff Burton
 - Dave "Phoenix" Farrell
 - Dell Palmer
