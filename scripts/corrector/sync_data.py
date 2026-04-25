@@ -12,6 +12,7 @@ SOURCE         = './data'
 DEST           = './correcciones'
 PENDING_DIR    = './pendiente'
 VALIDATED_JSON = os.path.join(DEST, 'validated.json')
+DELETED_JSON   = os.path.join(DEST, 'deleted.json')
 
 SUBDIRS = ['artists', 'genres', 'labels', 'concerts', 'instruments']
 ETYPE   = {'artists': 'artist', 'genres': 'genre', 'labels': 'label',
@@ -91,25 +92,29 @@ def _append_to_section(fp, sec, new_line):
     _write(fp, lines)
 
 
-def merge_into(src, dst, skip=None):
+def merge_into(src, dst, skip=None, del_entries=None, del_secs=None):
     """Merge new content from src into dst. Returns True if dst was modified."""
-    skip = skip or set()
+    skip       = skip or set()
+    del_entries = del_entries or {}
+    del_secs    = del_secs or set()
     src_secs = _parse_sections(src)
     dst_secs = _parse_sections(dst)
     changed  = False
     for sec, data in src_secs.items():
         if sec in skip: continue
+        if sec in del_secs: continue
+        del_items = {x.lower() for x in del_entries.get(sec, [])}
         if data['type'] == 'list':
             dst_lower = {x.lower() for x in dst_secs.get(sec, {}).get('items', [])}
             for item in data['items']:
-                if item and item.lower() not in dst_lower:
+                if item and item.lower() not in dst_lower and item.lower() not in del_items:
                     _append_to_section(dst, sec, f'- {item}\n')
                     dst_lower.add(item.lower())
                     changed = True
         else:
             dst_lower = {k.lower() for k in dst_secs.get(sec, {}).get('items', {})}
             for title, desc in data['items'].items():
-                if title.lower() not in dst_lower:
+                if title.lower() not in dst_lower and title.lower() not in del_items:
                     _append_to_section(dst, sec, f'**{title}** : {desc}\n')
                     dst_lower.add(title.lower())
                     changed = True
@@ -126,10 +131,21 @@ def save_validated(v):
     with open(VALIDATED_JSON, 'w', encoding='utf-8') as f:
         json.dump(v, f, ensure_ascii=False, indent=2)
 
+def load_deleted():
+    if os.path.exists(DELETED_JSON):
+        with open(DELETED_JSON, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    return {'entities': {}, 'entries': {}, 'sections': {}, 'curiosities': []}
+
 
 def main():
     os.makedirs(DEST, exist_ok=True)
     validated    = load_validated()
+    deleted      = load_deleted()
+    del_entity_k = deleted.get('entities', {})
+    del_entries  = deleted.get('entries', {})
+    del_secs     = deleted.get('sections', {})
+    del_curios   = {c.lower() for c in deleted.get('curiosities', [])}
     updated, reactivated, new_pending = [], [], []
 
     for subdir in SUBDIRS:
@@ -146,8 +162,17 @@ def main():
             dst_path = os.path.join(dst_dir, fn)
             pnd_path = os.path.join(pnd_dir, fn)
 
+            entity_key = f'{etype}:{fn[:-3]}'
+            if del_entity_k.get(entity_key):
+                continue  # skip entities that were explicitly deleted
+
+            fk               = f'{subdir}/{fn}'
+            file_del_entries = del_entries.get(fk, {})
+            file_del_secs    = set(del_secs.get(fk, []))
+
             if os.path.exists(dst_path):
-                if merge_into(src_path, dst_path, skip=skip):
+                if merge_into(src_path, dst_path, skip=skip,
+                              del_entries=file_del_entries, del_secs=file_del_secs):
                     updated.append(f'{subdir}/{fn}')
                     key = f'{etype}:{fn[:-3]}'
                     if key in validated:
@@ -169,7 +194,8 @@ def main():
             with open(dst_c, 'r', encoding='utf-8') as f:
                 dst_k = {m.group(1).strip().lower()
                          for line in f if (m := ENTRY_RE.match(line.strip()))}
-            new = {k: v for k, v in src_e.items() if k.lower() not in dst_k}
+            new = {k: v for k, v in src_e.items()
+                   if k.lower() not in dst_k and k.lower() not in del_curios}
             if new:
                 with open(dst_c, 'a', encoding='utf-8') as f:
                     for k, v in sorted(new.items()): f.write(f'**{k}** : {v}\n')

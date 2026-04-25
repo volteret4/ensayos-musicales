@@ -14,6 +14,7 @@ DB_PATH        = 'db/music_facts.db'
 DATA_FOLDER    = 'correcciones'
 PENDING_FOLDER = 'pendiente'
 VALIDATED_JSON = 'correcciones/validated.json'
+DELETED_JSON   = 'correcciones/deleted.json'
 
 TYPE_TO_DIR = {
     'artist': 'artists', 'genre': 'genres', 'label': 'labels',
@@ -210,6 +211,24 @@ def _save_validated(v):
     os.makedirs(DATA_FOLDER, exist_ok=True)
     with open(VALIDATED_JSON, 'w', encoding='utf-8') as f:
         json.dump(v, f, ensure_ascii=False, indent=2)
+
+def _load_deleted():
+    if os.path.exists(DELETED_JSON):
+        with open(DELETED_JSON, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    return {'entities': {}, 'entries': {}, 'sections': {}, 'curiosities': []}
+
+def _save_deleted(dlted):
+    os.makedirs(DATA_FOLDER, exist_ok=True)
+    with open(DELETED_JSON, 'w', encoding='utf-8') as f:
+        json.dump(dlted, f, ensure_ascii=False, indent=2)
+
+def _file_key(fp):
+    """Normalize path to relative key like 'artists/beatles.md'."""
+    for prefix in (DATA_FOLDER + '/', PENDING_FOLDER + '/'):
+        if fp.startswith(prefix):
+            return fp[len(prefix):]
+    return fp
 
 # ── Pending entity loading ────────────────────────────────────────────────────
 _LIST_SECS = {'members', 'member_of', 'genres', 'labels', 'concerts', 'instruments'}
@@ -411,6 +430,57 @@ def load_data():
     for ek in ('genre', 'label', 'concert', 'instrument'):
         entities[ek] = [e for e in entities[ek] if not is_validated(ek, e['name'])]
 
+    # Apply deleted / edited filters so the web reflects changes without a DB rebuild
+    deleted    = _load_deleted()
+    del_keys   = deleted.get('entities', {})
+    del_ents   = deleted.get('entries', {})
+    del_secs   = deleted.get('sections', {})
+    del_curios = {c.lower() for c in deleted.get('curiosities', [])}
+    renames    = deleted.get('renames', {})  # {file_key: {section: {old_lower: new_name}}}
+
+    primary = [a for a in primary if not del_keys.get(f'artist:{slug(a["name"])}')]
+    for ek in ('genre', 'label', 'concert', 'instrument'):
+        entities[ek] = [e for e in entities[ek] if not del_keys.get(f'{ek}:{slug(e["name"])}')]
+    gen = [c for c in gen if c['title'].lower() not in del_curios]
+
+    def _apply_field_filters(obj, fk, string_fields, named_fields, fact_fields):
+        o_secs = set(del_secs.get(fk, []))
+        o_ents = del_ents.get(fk, {})
+        o_renames = renames.get(fk, {})
+        for field in string_fields:
+            if field in o_secs:
+                obj[field] = []
+            else:
+                rm = {x.lower() for x in o_ents.get(field, [])}
+                rn = o_renames.get(field, {})
+                obj[field] = [rn.get(x.lower(), x) for x in obj[field] if x.lower() not in rm]
+        for field in named_fields:
+            if field in o_secs:
+                obj[field] = []
+            else:
+                rm = {x.lower() for x in o_ents.get(field, [])}
+                obj[field] = [m for m in obj[field] if m['name'].lower() not in rm]
+        for field in fact_fields:
+            if field in o_secs:
+                obj[field] = []
+            else:
+                rm = {x.lower() for x in o_ents.get(field, [])}
+                obj[field] = [x for x in obj[field] if x.get('name', x.get('title', '')).lower() not in rm]
+
+    for a in primary:
+        fk = f'artists/{slug(a["name"])}.md'
+        _apply_field_filters(a, fk,
+            string_fields=('genres', 'labels', 'concerts', 'instruments'),
+            named_fields=('members', 'member_of'),
+            fact_fields=('albums', 'songs', 'curiosities'))
+
+    for ek in ('genre', 'label', 'concert', 'instrument'):
+        sub = TYPE_TO_DIR[ek]
+        for e in entities[ek]:
+            fk = f'{sub}/{slug(e["name"])}.md'
+            _apply_field_filters(e, fk,
+                string_fields=(), named_fields=(), fact_fields=('curiosities',))
+
     return {
         'artists':   primary,
         'genres':    entities['genre'],    'labels':      entities['label'],
@@ -521,6 +591,9 @@ class Handler(BaseHTTPRequestHandler):
         if path == '/api/pending/delete':
             pnd_fp = entity_filepath(etype, name, pending=True)
             if os.path.exists(pnd_fp): os.remove(pnd_fp)
+            dlted = _load_deleted()
+            dlted.setdefault('entities', {})[f'{etype}:{slug(name)}'] = True
+            _save_deleted(dlted)
             self._json({'ok': True}); return
 
         if path == '/api/delete/entity':
@@ -530,6 +603,9 @@ class Handler(BaseHTTPRequestHandler):
             else:
                 pnd_fp = entity_filepath(etype, name, pending=True)
                 if os.path.exists(pnd_fp): os.remove(pnd_fp)
+            dlted = _load_deleted()
+            dlted.setdefault('entities', {})[f'{etype}:{slug(name)}'] = True
+            _save_deleted(dlted)
             self._json({'ok': True}); return
 
         fp = resolve_filepath(etype, name)
@@ -540,16 +616,42 @@ class Handler(BaseHTTPRequestHandler):
 
         if path == '/api/delete/section':
             delete_section(fp, section)
+            dlted = _load_deleted()
+            fk = _file_key(fp)
+            norm = section.lower().replace(' ', '_')
+            secs = dlted.setdefault('sections', {}).setdefault(fk, [])
+            if norm not in secs: secs.append(norm)
+            _save_deleted(dlted)
             self._json({'ok': True}); return
 
         key = d.get('key', '')
 
         if path == '/api/delete/entry':
             delete_entry(fp, section, key, is_list=d.get('is_list', False))
+            dlted = _load_deleted()
+            fk   = _file_key(fp)
+            norm = section.lower().replace(' ', '_')
+            kl   = key.strip().lower()
+            items = dlted.setdefault('entries', {}).setdefault(fk, {}).setdefault(norm, [])
+            if kl not in items: items.append(kl)
+            _save_deleted(dlted)
             self._json({'ok': True}); return
 
         if path == '/api/edit/entry':
-            edit_entry(fp, section, key, d.get('new_title', key), d.get('new_desc', ''))
+            new_title = d.get('new_title', key)
+            edit_entry(fp, section, key, new_title, d.get('new_desc', ''))
+            # If the title changed, track the rename so sync_data won't restore the old value
+            kl = key.strip().lower()
+            ntl = new_title.strip().lower()
+            if kl != ntl:
+                dlted = _load_deleted()
+                fk   = _file_key(fp)
+                norm = section.lower().replace(' ', '_')
+                # Mark old name as deleted and store rename map for web filtering
+                items = dlted.setdefault('entries', {}).setdefault(fk, {}).setdefault(norm, [])
+                if kl not in items: items.append(kl)
+                dlted.setdefault('renames', {}).setdefault(fk, {}).setdefault(norm, {})[kl] = new_title
+                _save_deleted(dlted)
             self._json({'ok': True}); return
 
         if path == '/api/add/entry':
@@ -567,6 +669,11 @@ class Handler(BaseHTTPRequestHandler):
 
         if path == '/api/delete/curiosity':
             delete_standalone_curiosity(key)
+            dlted = _load_deleted()
+            kl = key.strip().lower()
+            curios = dlted.setdefault('curiosities', [])
+            if kl not in curios: curios.append(kl)
+            _save_deleted(dlted)
             self._json({'ok': True}); return
 
         self._json({'error': 'Unknown endpoint'}, 404)
