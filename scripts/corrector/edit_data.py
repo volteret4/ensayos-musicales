@@ -230,6 +230,95 @@ def _file_key(fp):
             return fp[len(prefix):]
     return fp
 
+# ── MD section parser (used by merge) ────────────────────────────────────────
+def _parse_md_sections(fp):
+    """Parse MD file → {section_key: {'type': 'list'|'entry', 'items': list|dict}}"""
+    result = {}; cur = None
+    with open(fp, 'r', encoding='utf-8') as f:
+        for raw in f:
+            s = raw.strip()
+            if not s: continue
+            m = re.match(r'^##\s+(.+)', s)
+            if m: cur = m.group(1).strip().lower().replace(' ', '_'); continue
+            if s.startswith('#'): cur = None; continue
+            if cur is None: continue
+            if cur in _LIST_SECS:
+                result.setdefault(cur, {'type': 'list', 'items': []})['items'].append(
+                    s.lstrip('- ').strip())
+            else:
+                me = _ENTRY_RE.match(s)
+                if me:
+                    result.setdefault(cur, {'type': 'entry', 'items': {}})['items'][
+                        me.group(1).strip()] = me.group(2).strip()
+    return result
+
+def _update_list_refs(sec_key, old_name, new_name):
+    """Replace old_name → new_name in sec_key list section of all artist files."""
+    artist_dir = os.path.join(DATA_FOLDER, 'artists')
+    if not os.path.isdir(artist_dir): return
+    old_lower = old_name.strip().lower()
+    for fn in os.listdir(artist_dir):
+        if not fn.endswith('.md'): continue
+        fp = os.path.join(artist_dir, fn)
+        lines = _read(fp)
+        out, in_sec, changed = [], False, False
+        for line in lines:
+            s   = line.strip()
+            sec = _section_name(line)
+            if sec is not None:
+                in_sec = (sec == sec_key); out.append(line); continue
+            if s.startswith('# '):
+                in_sec = False; out.append(line); continue
+            if in_sec and s.startswith('- ') and s[2:].strip().lower() == old_lower:
+                out.append(f'- {new_name}\n'); changed = True
+            else:
+                out.append(line)
+        if changed:
+            _write(fp, out)
+
+def merge_entities(etype, target_name, source_name):
+    """Merge source entity content into target, delete source, update cross-refs."""
+    src_fp = resolve_filepath(etype, source_name)
+    dst_fp = resolve_filepath(etype, target_name)
+    if not os.path.exists(src_fp):
+        return False, f'Origen no encontrado: {src_fp}'
+    if not os.path.exists(dst_fp):
+        return False, f'Destino no encontrado: {dst_fp}'
+    if os.path.realpath(src_fp) == os.path.realpath(dst_fp):
+        return False, 'Origen y destino son el mismo archivo'
+
+    skip = {'artists'} if etype != 'artist' else set()
+    src_secs = _parse_md_sections(src_fp)
+    dst_secs = _parse_md_sections(dst_fp)
+
+    for sec, data in src_secs.items():
+        if sec in skip: continue
+        if data['type'] == 'list':
+            dst_lower = {x.lower() for x in dst_secs.get(sec, {}).get('items', [])}
+            for item in data['items']:
+                if item and item.lower() not in dst_lower:
+                    add_entry_to_md(dst_fp, sec, item, is_list=True)
+                    dst_lower.add(item.lower())
+        else:
+            dst_lower = {k.lower() for k in dst_secs.get(sec, {}).get('items', {})}
+            for title, desc in data['items'].items():
+                if title.lower() not in dst_lower:
+                    add_entry_to_md(dst_fp, sec, title, desc=desc, is_list=False)
+                    dst_lower.add(title.lower())
+
+    os.remove(src_fp)
+    dlted = _load_deleted()
+    dlted.setdefault('entities', {})[f'{etype}:{slug(source_name)}'] = True
+    _save_deleted(dlted)
+
+    if etype == 'artist':
+        _update_list_refs('members',   source_name, target_name)
+        _update_list_refs('member_of', source_name, target_name)
+    else:
+        _update_list_refs(etype + 's', source_name, target_name)
+
+    return True, None
+
 # ── Pending entity loading ────────────────────────────────────────────────────
 _LIST_SECS = {'members', 'member_of', 'genres', 'labels', 'concerts', 'instruments'}
 _ENTRY_RE  = re.compile(r'^\*\*(.+?)\*\*\s*:\s*(.+)')
@@ -666,6 +755,14 @@ class Handler(BaseHTTPRequestHandler):
                 self._json({'error': 'new_name required'}, 400); return
             rename_entity(etype, name, new_name)
             self._json({'ok': True}); return
+
+        if path == '/api/merge/entity':
+            source = d.get('source', '')
+            if not source:
+                self._json({'error': 'source required'}, 400); return
+            ok, err = merge_entities(etype, name, source)
+            if ok: self._json({'ok': True}); return
+            self._json({'error': err}, 400); return
 
         if path == '/api/delete/curiosity':
             delete_standalone_curiosity(key)

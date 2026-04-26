@@ -176,6 +176,45 @@ body { font-family: "Segoe UI", system-ui, sans-serif; background: #0d1117;
 ::-webkit-scrollbar { width: 5px; }
 ::-webkit-scrollbar-track { background: transparent; }
 ::-webkit-scrollbar-thumb { background: #30363d; border-radius: 3px; }
+
+/* ── Merge button ── */
+.btn-merge { background: none; border: 1px solid #30363d; color: #8b949e;
+             border-radius: 5px; padding: 4px 10px; font-size: 0.75rem; cursor: pointer; }
+.btn-merge:hover { background: #6e40c9; color: #fff; border-color: #6e40c9; }
+
+/* ── Merge modal ── */
+.modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.75);
+                 display: flex; align-items: center; justify-content: center; z-index: 300; }
+.modal-overlay.hidden { display: none; }
+.modal-box { background: #161b22; border: 1px solid #30363d; border-radius: 10px;
+             width: 460px; max-width: 92vw; max-height: 82vh;
+             display: flex; flex-direction: column; overflow: hidden; box-shadow: 0 8px 32px #000a; }
+.modal-header { display: flex; align-items: center; justify-content: space-between;
+                padding: 14px 18px 10px; border-bottom: 1px solid #21262d; }
+.modal-header h2 { font-size: 0.95rem; font-weight: 700; color: #e6edf3; }
+.modal-close { background: none; border: none; color: #8b949e; cursor: pointer;
+               font-size: 1.1rem; padding: 0 2px; line-height: 1; }
+.modal-close:hover { color: #f85149; }
+.modal-sub { padding: 8px 18px 4px; font-size: 0.8rem; color: #8b949e; line-height: 1.5; }
+.modal-sub strong { color: #c9d1d9; }
+.modal-search-wrap { padding: 8px 14px; border-bottom: 1px solid #21262d; }
+.modal-list { flex: 1; overflow-y: auto; min-height: 100px; max-height: 340px; padding: 4px 0; }
+.modal-item { padding: 8px 18px; font-size: 0.84rem; cursor: pointer;
+              border-left: 3px solid transparent; color: #8b949e; }
+.modal-item:hover { background: #1c2128; color: #c9d1d9; }
+.modal-item.selected { background: #1c2128; color: #58a6ff;
+                       border-left-color: #58a6ff; font-weight: 600; }
+.modal-item mark { background: none; color: #f0883e; font-weight: bold; }
+.modal-footer { padding: 12px 18px; border-top: 1px solid #21262d;
+                display: flex; gap: 8px; justify-content: flex-end; align-items: center; }
+.modal-footer-note { font-size: 0.72rem; color: #484f58; flex: 1; }
+.btn-merge-confirm { background: #6e40c9; color: #fff; border: none;
+                     border-radius: 5px; padding: 6px 18px; font-size: 0.82rem; cursor: pointer; }
+.btn-merge-confirm:disabled { background: #21262d; color: #484f58; cursor: not-allowed; }
+.btn-merge-confirm:not(:disabled):hover { background: #8957e5; }
+.btn-merge-cancel { background: #21262d; color: #8b949e; border: 1px solid #30363d;
+                    border-radius: 5px; padding: 6px 18px; font-size: 0.82rem; cursor: pointer; }
+.btn-merge-cancel:hover { background: #30363d; color: #c9d1d9; }
 """
 
 _BODY = """
@@ -259,6 +298,27 @@ _BODY = """
 </div>
 
 <div id="toast"></div>
+
+<div id="merge-modal" class="modal-overlay hidden">
+  <div class="modal-box">
+    <div class="modal-header">
+      <h2>⊕ Fusionar con…</h2>
+      <button class="modal-close" id="merge-close">✕</button>
+    </div>
+    <p class="modal-sub">Elige el elemento a absorber. Su contenido se moverá a
+      <strong id="merge-target-label"></strong> y el original será eliminado.</p>
+    <div class="modal-search-wrap">
+      <input id="merge-search" class="panel-search" type="text"
+             placeholder="Buscar…" autocomplete="off">
+    </div>
+    <div id="merge-list" class="modal-list"></div>
+    <div class="modal-footer">
+      <span class="modal-footer-note">Reconstruirá la BD automáticamente</span>
+      <button class="btn-merge-cancel" id="merge-cancel-btn">Cancelar</button>
+      <button class="btn-merge-confirm" id="merge-confirm-btn" disabled>Fusionar</button>
+    </div>
+  </div>
+</div>
 """
 
 _JS = r"""
@@ -601,6 +661,7 @@ function showArtist(artist) {
   const delSid    = store({action:'delete-entity',  type:'artist', name:artist.name});
   const renameSid = store({action:'open-rename',    type:'artist', name:artist.name});
   const doRenSid  = store({action:'save-rename',    type:'artist', name:artist.name});
+  const mergeSid  = store({action:'open-merge',     type:'artist', name:artist.name});
 
   let html = `<div id="entity-detail">
     <h1>${artist.name}</h1>
@@ -612,6 +673,7 @@ function showArtist(artist) {
     <div class="entity-toolbar">
       <div class="entity-badge" style="background:#e9456022;color:#e94560;border:1px solid #e94560">Artista</div>
       <button class="btn-rename" data-sid="${renameSid}">✏ Renombrar</button>
+      <button class="btn-merge"  data-sid="${mergeSid}">⊕ Fusionar</button>
       <button class="btn-del-entity" data-sid="${delSid}">🗑 Eliminar artista</button>
     </div>`;
 
@@ -642,6 +704,7 @@ function showEntity(etype, entity) {
   const delSid    = store({action:'delete-entity', type:etype, name:entity.name});
   const renameSid = store({action:'open-rename',   type:etype, name:entity.name});
   const doRenSid  = store({action:'save-rename',   type:etype, name:entity.name});
+  const mergeSid  = store({action:'open-merge',    type:etype, name:entity.name});
 
   let html = `<div id="entity-detail">
     <h1>${entity.name}</h1>
@@ -653,6 +716,7 @@ function showEntity(etype, entity) {
     <div class="entity-toolbar">
       <div class="entity-badge" style="background:${color}22;color:${color};border:1px solid ${color}">${E_LABEL[etype]||etype}</div>
       <button class="btn-rename" data-sid="${renameSid}">✏ Renombrar</button>
+      <button class="btn-merge"  data-sid="${mergeSid}">⊕ Fusionar</button>
       <button class="btn-del-entity" data-sid="${delSid}">🗑 Eliminar</button>
     </div>`;
 
@@ -944,6 +1008,8 @@ document.getElementById('content').addEventListener('click', e => {
     openAddForm(btn);
   } else if (d.action === 'open-rename') {
     openRename();
+  } else if (d.action === 'open-merge') {
+    openMergeModal(d.type, d.name);
   }
 });
 
@@ -960,6 +1026,91 @@ document.getElementById('sidebar').addEventListener('click', e => {
 document.addEventListener('keydown', e => {
   if (e.key === 'Escape')
     document.querySelectorAll('.edit-form.open').forEach(f => closeEdit(f.closest('.card')));
+});
+
+// ── Merge modal ───────────────────────────────────────────────────────────────
+let _mergeCtx = { etype: null, targetName: null, sourceName: null };
+
+function openMergeModal(etype, targetName) {
+  _mergeCtx = { etype, targetName, sourceName: null };
+  document.getElementById('merge-target-label').textContent = targetName;
+  document.getElementById('merge-search').value = '';
+  document.getElementById('merge-confirm-btn').disabled = true;
+  renderMergeList('');
+  document.getElementById('merge-modal').classList.remove('hidden');
+  document.getElementById('merge-search').focus();
+}
+
+function closeMergeModal() {
+  document.getElementById('merge-modal').classList.add('hidden');
+  _mergeCtx = { etype: null, targetName: null, sourceName: null };
+}
+
+function renderMergeList(q) {
+  const { etype, targetName } = _mergeCtx;
+  const dataKey = etype === 'artist' ? 'artists' : etype + 's';
+  const items   = DATA[dataKey] || [];
+  const listEl  = document.getElementById('merge-list');
+  listEl.innerHTML = '';
+  let n = 0;
+  for (const item of items) {
+    const name = item.name ?? item;
+    if (name === targetName) continue;
+    if (q && !name.toLowerCase().includes(q.toLowerCase())) continue;
+    n++;
+    const div = document.createElement('div');
+    div.className = 'modal-item' + (name === _mergeCtx.sourceName ? ' selected' : '');
+    div.innerHTML = q ? hl(name, q) : name;
+    div.addEventListener('click', () => {
+      listEl.querySelectorAll('.modal-item').forEach(x => x.classList.remove('selected'));
+      div.classList.add('selected');
+      _mergeCtx.sourceName = name;
+      document.getElementById('merge-confirm-btn').disabled = false;
+    });
+    listEl.appendChild(div);
+  }
+  if (!n) {
+    const empty = document.createElement('div');
+    empty.style.cssText = 'padding:16px 18px;color:#484f58;font-size:0.82rem';
+    empty.textContent = q ? 'Sin resultados' : 'No hay otros elementos';
+    listEl.appendChild(empty);
+  }
+}
+
+async function doMerge() {
+  const { etype, targetName, sourceName } = _mergeCtx;
+  if (!sourceName) return;
+  const noun = etype === 'artist' ? 'artista' : E_LABEL[etype]?.toLowerCase() || etype;
+  if (!confirm(
+    `¿Fusionar "${sourceName}" en "${targetName}"?\n\n` +
+    `• El contenido de "${sourceName}" se copiará a "${targetName}"\n` +
+    `• "${sourceName}" será eliminado permanentemente\n` +
+    `• Se reconstruirá la base de datos`
+  )) return;
+  const r = await api('/api/merge/entity', {type: etype, name: targetName, source: sourceName});
+  if (!r.ok) { toast('Error al fusionar: ' + (r.error || ''), 'err'); return; }
+  closeMergeModal();
+  toast('Fusionado. Reconstruyendo BD…');
+  const rb = await api('/api/rebuild', {});
+  await loadData();
+  if (rb.ok) {
+    toast(`"${sourceName}" fusionado en "${targetName}" ✓`);
+  } else {
+    toast(`Fusionado (error rebuild: ${rb.err || rb.out})`, 'err');
+  }
+}
+
+document.getElementById('merge-search').addEventListener('input', e =>
+  renderMergeList(e.target.value.trim()));
+document.getElementById('merge-close').addEventListener('click', closeMergeModal);
+document.getElementById('merge-cancel-btn').addEventListener('click', closeMergeModal);
+document.getElementById('merge-confirm-btn').addEventListener('click', doMerge);
+document.getElementById('merge-modal').addEventListener('click', e => {
+  if (e.target.id === 'merge-modal') closeMergeModal();
+});
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape' && !document.getElementById('merge-modal').classList.contains('hidden'))
+    closeMergeModal();
 });
 
 // ── Boot ──────────────────────────────────────────────────────────────────────
