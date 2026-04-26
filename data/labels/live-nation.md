@@ -7,3 +7,8 @@
 **Promoter in Reunion Era** : Live Nation was identified as one of the large promoters needing to sell tickets for various venues as new acts struggled to reach superstar status in the 21st century. Along with AEG, Live Nation capitalized on the "reunion fever" by bringing back heritage performers to appeal to nostalgic fan bases with disposable income. "Meanwhile, large promoters like Live Nation and AEG needed to sell tickets for festivals, stadiums, amphitheaters and arenas." ← https://www.youtube.com/watch?v=GYUuTbOvyak
 **The Police Reunion Facilitation (2007-2008)** : Arthur Fogel, Live Nation's Head of Global Touring, was instrumental in securing The Police reunion tour. He offered a financial deal so substantial that the notoriously fractious band could not refuse, leading to a tour that grossed $359 million ($508 million in today's cash). "But when live nations head of global touring, Arthur Fogel, put an offer on the table, the numbers were so big that there was just no way the guys could turn it down." ← https://www.youtube.com/watch?v=GYUuTbOvyak
 
+## artists
+- Jay-Z
+- Madonna
+- U2
+

@@ -1,52 +1,39 @@
-# genre - Hardcore Punk
+# genre - Hardcore punk
 
 ## curiosities
-**80s "Bro Rock" Backsliding** : In the 1980s, hardcore punk represented a "backsliding" in terms of gender inclusivity, becoming "amongst the most testosterone-driven bro rock ever." This subgenre notably pushed women to the back, contrasting with the more inclusive dogma of original punk and highlighting the need for movements like Riot Grrrl. "For example, hardcore punk was amongst the most testosterone-driven bro rock ever. Women were pushed to the back." ← https://www.youtube.com/watch?v=Qss5kC2FUx0
-**American Predecessor** : California punk rock is identified as the main predecessor to American hardcore punk. "California punk rock, which was the main predecessor to American hardcore punk." ← https://www.youtube.com/watch?v=44dXy0StjIQ
-**Ancestry of Emo** : Hardcore punk is identified as the genre from which emo, a subgenre characterized by its emotional and introspective qualities, descended. "descended of, believe it or not, hardcore punk." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
-**Anti-Establishment Origins** : Hardcore punk emerged from the fast, hard, radical, and angry end of the punk rock spectrum, with its roots in late 1970s California. It was both anti-establishment and anti-hippie, deliberately anti-commercial, and positioned itself against what its proponents considered to be the corrupt music industry. "Hardcore comes from the fast, hard, radical, and angry end of the punk rock spectrum. Its roots can be found in the late 1970s in California." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
-**California Influence on Pacific Northwest** : Hardcore punk music, particularly from California bands like Dead Kennedys, Black Flag, and Bad Religion, traveled up the coast and freely mixed with other rock influences in the Pacific Northwest, forming a crucial part of the "petri dish" that developed grunge. "mixed freely with hardcore punk that came up with the coast from California, bands like the dead Kennedys and black flag and bad religion." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
-**Canadian Origin of the Term** : The term "hardcore" itself is believed to be a Canadian invention. Vancouver band D.O.A. released an album titled "Hardcore 81," which, if it didn't formally invent the term, was instrumental in popularizing it and establishing the band as godfathers of the genre. "And the word hardcore seems to have been a Canadian invention. Vancouver's D.O.A released an album entitled Hardcore 81, which if it didn't invent the term, sure made it popular." ← https://www.youtube.com/watch?v=0ARYt4sYT90
-**Catalyst for Indie Labels** : Hardcore was an essential catalyst for the rise of independent record labels in an industry dominated by major labels, as many bands were forced to create their own labels to release their music. "including being an essential catalyst for the rise of indie record labels in a world dominated by majors." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
-**Continued Global Presence** : Hardcore continues to thrive globally today, manifesting in various sounds and flavors. "And hardcore lives today around the world in a variety of sounds and flavors." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
-**Core Ethos and Characteristics** : Hardcore punk was characterized by its anti-hippy stance, strong anti-commercialism, and deep anti-establishment and anti-music industry sentiments. Its practitioners were often deeply committed to social, political, and environmental subjects. The genre was inherently anti-military, anti-authority, and generally anti-violence, placing a high value on authenticity and loudly calling out any perceived "posers." "Hardcore was also anti-hippy. They were against any sort of commercialism. They were very anti-establishment, very anti-music industry, and often all-in when it came to social, political, and environmental subjects." ← https://www.youtube.com/watch?v=0ARYt4sYT90
-**Critique of Second Wave Emo** : The traditional hardcore community largely viewed second wave emo groups and their fans as "a bunch of whims," indicating a dismissive perception of the evolving genre. "The traditional hardcore community thought second wave emo groups and their fans were a bunch of whims." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
-**Definition and Characteristics** : Hardcore punk is defined as a subgenre of punk rock, characterized by its creators' preference for faster and heavier music than original punk bands, used to express grievances against societal norms, capitalist exploitation, corrupt politicians, and mainstream music industry figures. It prioritizes playing harder, faster, and louder over technique or melody, with shouting and screaming being more important. "Hardcore punk or just hardcore, if you prefer, is a subgenre, obviously, of punk rock. Its creators love the faster and heavier end of the original punk rock bands, but they also had, well, they had some grievances that they needed to express." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
-**Element in Fever 333's Sound** : Hardcore punk is listed as one of the genres that Fever 333's single "BLU-N-GREY" straddles, indicating its influence on the band's aggressive, hybrid sound. "This is a single which straddles hip hop, industrial, rap metal, trap metal, and even a little hardcore punk." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
-**Emo's Foundation** : Hardcore punk from Washington, D.C. is identified as the foundational roots of emo. However, emo differentiated itself by prioritizing emotional content over the anti-authority themes typically found in hardcore punk. "Its roots are in the hardcore punk scene of Washington, DC, but instead of rebelling against authority, emo is much more emotional." ← https://www.youtube.com/watch?v=mAlc-N2wn5s
-**Foundation for Alternative Music and Grunge** : Hardcore helped establish the concept of alternative music in the early to mid-1980s, eventually leading major labels to sign influential bands and, ultimately, giving rise to grunge. "Hardcore helped create the whole notion of alternative music in early and middle 1980s, eventually leading major labels to some great bands who in turn influenced the next generation. Honestly, no hardcore, no grunge." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
-**Geographical Origins** : Hardcore punk first took root in the late 1970s on the East and West Coasts of North America, specifically in Vancouver, San Francisco, Southern California, Washington, D.C., Boston, and New York City. It also had scenes in the UK and later spread to Italy and Japan. "Hardcore first took root on the East and West Coast of North America in the late 1970s, specifically in Vancouver, San Francisco, Southern California, Washington, D.C., Boston and New York City." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
-**Impetus for Independent Labels** : Due to its radical and anti-commercial nature, existing record labels had no interest in working with hardcore acts. This forced these acts to start their own labels, such as SST, Epitaph, and Alternative Tentacles, becoming a crucial factor in the establishment of the indie music universe in the early 1980s. "Alright, so if this is the way it was going to be, there was no chance that the existing record labels were going to work with any hardcore acts. So the only thing these acts could do was start their own labels." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
-**Influence in Seattle** : In Seattle, hardcore punk was easily mixed with hard rock, exemplified by the simultaneous appreciation for bands like Black Flag and Aerosmith. This blend resulted in a unique local hybrid sound that was sludgy, slow, and low, often carrying the negative and pessimistic tone of nihilistic hardcore acts. "Hardcore punk mixed easily with hard rock and Seattle. No one considered it strange to be both into black flag and air smith at the same time." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
-**Influence on Emo Bands** : Emo bands initially had a "super intense hardcore influence," but this shifted towards more melodic and poppy sounds following the release of albums like Blink 182's "Enema of the State." "Emo bands moved away from being super intense hardcore influence punk bands to being more melodic and poppy." ← https://www.youtube.com/watch?v=_tkLRJiOBu0
-**Influence on Metal** : Hardcore music has profoundly influenced metal, particularly bands like Metallica, Anthrax, Slayer, and Sepultura, through its raw energy and aggressive sound. "First of all, we've seen the influence this music has had on metal" ← https://www.youtube.com/watch?v=PEHkKfmmDiI
-**International Spread** : Hardcore punk caught on globally during the 1980s, driven by relentless touring of bands playing inexpensive, all-ages shows in underserved towns and cities. It spread to Canada (Toronto, Montreal, Edmonton, West Coast), Italy (Raw Power, Wretched), Sweden (Mob 47, The Refused), Eastern Europe, and Japan (as early as 1977). "It's amazing the number of places where hardcore punk caught on during the 1980s." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
-**New York Hardcore Chug** : In the New York City hardcore scene, guitars were often played by muting chords with the entire palm, a technique informally known as the "New York Hardcore chug." "Guitars tended to play by muting chords with the whole palm. Some people called this the New York Hardcore chug." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
-**North American Underground (Late 1980s)** : Hardcore Punk was a significant part of the non-mainstream rock scene favored by North American audiences at the end of the 1980s. Fans of this genre typically sought out music in small, dark clubs and independent record stores, rejecting mainstream music. "If you're in North America and into non-mainstream rock, you're into bands like REM and Sonic Youth and Hardcore Punk and the cooler Technopop bands from the UK." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
-**Political Origins** : This genre emerged as a direct musical and cultural response to the conservative political climate associated with Ronald Reagan's presidency. "Meanwhile Dave grew up as a fan of hardcore punk, a genre that was created in response to Ronald Reagan." ← https://www.youtube.com/watch?v=8ynrwaUi-sA
-**Political and Social Engagement** : Hardcore inspired political engagement across the spectrum, including Muslim hardcore acts in the Middle East and Indonesia who used the music to protest human rights injustices. "People got into politics because of hardcore and were talking all sides of the political spectrum." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
-**Racial Diversity in Contributions** : While largely composed of white males, hardcore also saw significant contributions from black and Latino musicians. "Hardcore was largely made up of white males, but some of the sounds most important contributors were black and Latino." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
-**Reaction to Right-Wing Politics (Late 1970s / Early 1980s)** : Hardcore punk emerged at the end of the 1970s as a direct reaction to the severe right-wing political turns in both the US (beginning of the Reagan era) and the UK (Margaret Thatcher's policies and austerity measures). Many young people on the left were staunchly opposed to Reagan's conservative policies, for whom "Reaganomics was a four-letter word," fueling the genre's development. "part of the development of hardcore punk was a reaction to the right-wing attitude of America during his presidency." ← https://www.youtube.com/watch?v=0ARYt4sYT90
-**Role in Post-Hardcore and Skate Punk** : The genre was foundational in the creation of post-hardcore music and skate punk. "and in creating post-hardcore music as well as skate punk and emo." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
-**Short, Sharp, and Fast Message** : Hardcore was characterized by its brevity and intensity, delivering messages in a short, sharp, and fast manner. "Hardcore was short, sharp, and fast. If that's all you needed to get out your message, well, so be it." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
-**Skate Punk Evolution** : Some bands who initially ventured into heavy metal elements in their skate punk sound eventually remained true to hardcore punk. "But of course, there were those who remained true to hardcore punk." ← https://www.youtube.com/watch?v=44dXy0StjIQ
-**Stripped-Down Sound** : The genre in Southern California, emerging around 1979, was even more stripped-down than original punk, often featuring only guitar, bass, drums, and a vocalist. Traditional verse-chorus song structures were often foregone, with songs sometimes lasting 32 seconds or less. "The traditional first-core's first song structure wasn't necessary. In fact, if everything could be said in 32 seconds or less, so be it." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
-**Subgenres of Hardcore Punk** : Hardcore punk itself encompasses several distinct subgenres, including bandage, death core, pornogrind, screamo, power violence, positive hardcore, nard core, and Nintendo core. "Just looking at hardcore punk, that includes bandage, death core, pornogrines, screamo, power violence, positive hardcore, nard core, Nintendo core." ← https://www.youtube.com/watch?v=tZV1lz-obQE
-**Topic of "Alt Rock" Chapter 8** : American hardcore punk is a specific focus of "Chapter 8" in the history of Alt Rock series. "And here in Chapter 8, we're going to talk about American hardcore punk." ← https://www.youtube.com/watch?v=XjTWcy8RHEs
+**Influence on Josh Homme** : Josh Homme discovered hardcore punk after only two weeks of polka lessons, with bands like GBH and Discharge being particularly important for their guitarists' straight up and down strumming style, which influenced his own playing. "That lasted about two weeks before he discovered hardcore punk, and two bands were particularly important, GBH and discharge." ← https://www.youtube.com/watch?v=mG1TQuhcf1o
+**Root of Emo** : A specific type of hardcore punk that originated in the Washington D.C. area in the mid-1980s is identified as the direct origin of emo music, then known as Emotional Hardcore or Emocore. "Emo is an offshoot of a particular type of hardcore punk that originated in the Washington DC area in the middle 80s." ← https://www.youtube.com/watch?v=_yslM5oanRo
+**Roots of Emo (1980s)** : The American Underground Hardcore punk scene of the 1980s is identified as the foundational origin for Emo music. This shows Emo's direct lineage from a more aggressive and underground punk subgenre before it evolved and gained mainstream appeal. "Now Emo had its roots in the American Underground Hardcore punk scene of the 1980s." ← https://www.youtube.com/watch?v=-CT7yYXonIk
 
 ## artists
+- Adolescents
+- Agent Orange
+- Agnostic Front
+- Asexuals
 - Bad Brains
 - Bad Religion
-- Bikini Kill
 - Black Flag
-- D.O.A.
+- Circle Jerks
+- Cro-Mags
+- DOA
+- Dayglo Abortions
 - Dead Kennedys
-- Fever 333
-- Ho99o9
-- Husker Dew
-- Husker Du
-- Husker Dü
+- Descendents
+- Discharge
+- Effing Goofs
+- Fugazi
+- GBH
+- Gang Green
 - Minor Threat
-- Rites of Spring
-- Sonic Youth
+- Minutemen
+- Mob 47
+- Raw Power
+- Red Cross
+- SNFU
+- Social Distortion
+- Subhumans
+- The Germs
+- The Middle Class
+- The Refused
+- Wretched
 

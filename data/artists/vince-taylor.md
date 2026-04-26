@@ -4,6 +4,7 @@
 - Rockabilly
 
 ## songs
+**Brand New Cadillac (1959)** : Released in April 1959 as a B-side, this song is the original version later covered by The Clash. Vince Taylor, the American singer, also served as part of the inspiration for David Bowie's Ziggy Stardust character. "The original was by Vince Taylor, an American singer who provided part of the inspiration for David Bowie's Ziggy Stardust character." ← https://www.youtube.com/watch?v=_KJ60im4KAc
 **Pledge in My Love (1959)** : This single, released in 1959 by British rock-abilly singer Vince Taylor, had a B-side that was significantly more popular and was covered by numerous bands over the years, including The Downliner's Sect, The Renegades, Hepstars, Shamrocks, The Sikky Boys (1976), Kim Fowley (1977), and The Clash (1979). "In 1959, a British rock-abilly singer named Vince Taylor released a single called Pledge in My Love. It was an okay song, but the B side was so much better." ← https://www.youtube.com/watch?v=gkLMwrthZ9s
 
 ## curiosities

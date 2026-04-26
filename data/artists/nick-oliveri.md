@@ -1,6 +1,7 @@
 # artist - Nick Oliveri
 
 ## member of
+- Kyuss
 - Queens of the Stone Age
 
 ## curiosities

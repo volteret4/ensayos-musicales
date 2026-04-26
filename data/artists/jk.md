@@ -1,4 +1,4 @@
-# artist - J.K.
+# artist - JK
 
 ## member of
 - Jamiroquai

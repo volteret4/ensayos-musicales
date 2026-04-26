@@ -5,6 +5,7 @@
 - Dave
 - Dave Baksh
 - Derek Whibley
+- Deryck Whibley
 - Frank Zummo
 - Gramic Vity
 - John Marshall
@@ -14,6 +15,7 @@
 - Tom Thacker
 
 ## genres
+- Canadian Punk
 - Corporatized Punk
 - Hard Rock Metal
 - Indie Rock
@@ -103,6 +105,8 @@
 **Extensive Use of Marshall Amplifiers** : Sum 41 is listed among hundreds of musicians, both famous and lesser-known, who utilize Jim Marshall's amplifiers. This inclusion underscores the enduring popularity and critical role Marshall amplifiers play in achieving loud, powerful rock sounds across many decades. "Over the decades, Jim's amplifiers became synonymous with loud, powerful rock and today they used by slash, oasis, the death tones, rob zombie, Paul Weller, some 41, pop erosion, hundreds of others, famous and not so famous." ← https://www.youtube.com/watch?v=PNiL63fY1Y8
 **First Guitar at 13** : Derek Whibley received a fake guitar around age eight, but it wasn't until he was 13 that he got a real guitar, immediately forming his first band in Ajax. "when I got a real guitar I was about 13." ← https://www.youtube.com/watch?v=6L4xKBFEYkE
 **Formation Origin - 41 Days into Summer Vacation** : Sum 41 was formed 41 days into the band members' summer vacation in 1996, coinciding with the day the Warp Tour came through their area, which became the inspiration for the band's name. "Because you formed the band 41 days into your summer vacation? 41 into the summer vacation, true." ← https://www.youtube.com/watch?v=6L4xKBFEYkE
+**Formation and Massive Sales** : Sum 41 began in 1996 and went on to achieve significant commercial success, selling a total of 30 million records. "Some 41 started up in 1996 and went on to sell 30 million records." ← https://www.youtube.com/watch?v=0QtMI00T5jw
+**Global Album Sales (Late 2002)** : By late 2002, Sum 41 had not only sold many records in Canada but also millions around the world. "Some 41, not only sold a ton of records in Canada, but they also sold millions around the world." ← https://www.youtube.com/watch?v=ua93Ui1u6UI
 **Influenced by Blink-182** : Sum 41 is recognized as one of the many artists who owe a debt to Blink-182, indicating their influence on the band's musical style or approach within the pop punk genre. "Some 41 good Charlotte simple-plan panic at the disco, followed boy, headly, billy talent, you would meet six, paramour, you know, you get the idea." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE
 **International Commercial Success** : Between 2001 and 2004, Sum 41's albums 'Does This Look Infected' and 'Chuck' all achieved gold or platinum status in multiple major markets including Canada, the US, the UK, and Japan, showcasing their broad international appeal. "all went gold or platinum in Canada, the US, the UK, and Japan." ← https://www.youtube.com/watch?v=7dXtgTkdv9w
 **Interviewed Band** : Sum 41 is among the notable artists and bands that have been interviewed. "Daniel Lannoy, some 41, Billy Corgan..." ← https://www.youtube.com/watch?v=bI6TTA-fn7c

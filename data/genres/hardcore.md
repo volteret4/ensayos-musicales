@@ -4,6 +4,7 @@
 **"Damaged" as an Introduction** : For Nate Mendel, the Black Flag album "Damaged" served as a crucial entry point into understanding hardcore music. The album's "energy," "aggression," and "weirdness" resonated with him, defining what the genre was about. "Well, the one that, that, where I understood what hardcore we call it, hardcore at the time was about, was, uh, black flags damaged." ← https://www.youtube.com/watch?v=Mh-qg1izM98
 **80s Concept Album Example** : Hüsker Dü released a breakthrough hardcore album in the 1980s that also functioned as a concept album, marking an early instance of the format within the alt rock lineage. "before we moved on to a breakthrough hardcore album from Husker Doe in the 1980s." ← https://www.youtube.com/watch?v=1KyNY3zv6uc
 **Aggressive Dance Forms (Late 1970s)** : Hardcore emerged from punk rock in the late 1970s as one of the most aggressive forms of music. This genre encouraged dancing with "enthusiasm," which involved deliberately crashing or slamming into other dancers, giving rise to "slam dancing." "This was among the most aggressive forms of music ever invented. The idea was to dance with, well, let's call it enthusiasm, deliberately crashing or slamming into other dancers, hence the term slam dancing." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
+**Aggressive Turn in North America (Early 1990s)** : In North America, music had turned aggressive in some quarters, including hardcore, indicating early shifts. "And dust-trimon music and hardcore, for example." ← https://www.youtube.com/watch?v=Rf1tFWQg51Y
 **American Invention and Characteristics** : Hardcore punk was an American invention, predominantly from the West Coast, that intensified the original punk rock formula. It became faster, more aggressive, harsher, angrier, and more violent, characterized by a high "testosterone" level. It vehemently opposed the status quo, mainstream rock, and corporate culture, positioning itself as intensely anti-rock star. "Hardcore is against anything that the status quo had to offer. It had to be as far from mainstream rock as possible." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
 **American Invention and Evolution** : Hardcore emerged as an American invention, serving as a direct descendant of the hard, fast, and loud punk music of the 1970s. It sought to amplify these characteristics, making the music even harder, faster, and louder than its predecessor, though bands still occasionally yielded to the temptation to sing "fun songs" amidst the genre's intensity. "The direct descendants of the hard, fast, and loud punk of the 1970s was hardcore, an American invention that tried to amp things up so that the music was even harder, faster, and louder than punk." ← https://www.youtube.com/watch?v=tZV1lz-obQE
 **Bay Area Hardcore (San Francisco)** : Despite San Francisco's hippie history, or perhaps because of it, the Bay Area became a significant magnet for hardcore punk bands, with Dead Kennedys being particularly important. "Although the place had a hippie history, or maybe because of it, the Bay Area became a magnet for hardcore punk bands, and no other band was more important than the dead Kennedys." ← https://www.youtube.com/watch?v=0qigzi1j81U
@@ -18,9 +19,12 @@
 **Early 1990s Influence - Mia Zapata** : Mia Zapata is considered a significant influence on the hardcore scene of the early 1990s. "If you're into hardcore or the ride girl scene of the early 1990s you may have, she was in a band called The Gits. She's considered to be a big influence on a lot of the women attached to and inspired by this scene." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4
 **Early Reach to Japan** : Hardcore reached Japan surprisingly early, establishing a scene there as far back as 1977. "It even reached Japan as early as 1977." ← https://www.youtube.com/watch?v=0qigzi1j81U
 **Early West Coast Sound** : In Los Angeles and Southern California, the original punk rock scene had faded by 1979, replaced by a new, even more stripped-down type of punk. This sound typically featured guitars, bass, drums, and a vocalist, with traditional verse-chorus structures often abandoned in favor of extremely short songs, sometimes under 32 seconds. "The original punk rock scene was gone by about 1979, and in its place was a new type of punk that was stripped down even further. Guitar's bass drums vocalist, that's it. The traditional first chorus first song structure wasn't necessary. In fact, if everything could be said in 32 seconds or less, so be it." ← https://www.youtube.com/watch?v=0qigzi1j81U
+**Economics of Indie Bands** : For bands like Husker Dü, the economics of being an indie hardcore band became unsustainable, prompting them to sign with major labels to ensure a longer career, reliable payment, downtime, and wider audience reach. "The economics of being an indie band just didn't work for them anymore. They couldn't afford to stay indie." ← https://www.youtube.com/watch?v=DYtsWfguqGo
 **Essential for Grunge** : Hardcore's influence was so profound that it is considered essential to the emergence of grunge, implying that without hardcore, grunge would not have developed as it did. "Honestly, no hardcore, no grunge." ← https://www.youtube.com/watch?v=0qigzi1j81U
 **Foundational Genre** : Hardcore was a foundational genre for Alexis on Fire, from which their sound evolved. The band members "came up through Hardcore and punk rock," viewing their music as the next natural progression. "We all kind of came up, I think, through Hardcore and punk rock and stuff like that. And this was just the next progression of that, you know?" ← https://www.youtube.com/watch?v=nEPT8ZVZ0so
+**Fusion with Ska** : A segment of the American punk underground fused Ska with hardcore influences, playing a significant role in the development of the third wave of Ska in the early 1990s. "Given their background they inevitably fused SCAT with hardcore influences." ← https://www.youtube.com/watch?v=WX2GlpMNg_8
 **Geographic Origins and Spread (Late 1970s)** : Hardcore first took root simultaneously on both the East and West Coasts of North America in the late 1970s, specifically in Vancouver, San Francisco, Southern California, Washington, D.C., Boston, and New York City. From these North American scenes, it spread to the UK, Italy, and Japan. "Hardcore first took root on the East and West Coast of North America in the late 1970s, specifically in Vancouver, San Francisco, Southern California, Washington, D.C., Boston, and New York City. The UK also had its own Hardcore scenes, and from there it spread to Italy and Japan." ← https://www.youtube.com/watch?v=0qigzi1j81U
+**Gospel Spread by Touring** : Hardcore bands like Black Flag and Bad Religion were known for spreading the "gospel of hardcore" by touring constantly, establishing a strong underground presence and influence. "And there were bands like Black Flag and Bad Religion that spread the gospel of hardcore by touring constantly." ← https://www.youtube.com/watch?v=xdn31jMOOA4
 **Hardcore in Eastern Europe** : Before the fall of the Iron Curtain, hardcore was a potent underground force in Eastern Europe, demonstrating its ability to thrive in politically restrictive environments. "Hardcore was a powerful underground force in Eastern Europe before the fall of the Iron Curtain." ← https://www.youtube.com/watch?v=0qigzi1j81U
 **Hüsker Dü's Impact** : Hüsker Dü made a major impact in American hardcore by blending the genre's power and energy with melody and more conventional song structures, sometimes even incorporating piano and acoustic guitars. "In the history of American hardcore, they were a major influence." ← https://www.youtube.com/watch?v=Dm5N6yDRxXQ
 **Impact of Rocky Mountains on West Coast Touring** : The presence of the Rocky Mountains made touring north-south along the West Coast (from San Diego to Vancouver) much easier and more affordable for bands than touring east-west across North America. This geographic reality fostered a semi-distinct ecosystem for West Coast bands and influenced the spread of hardcore. "If you're in a band on the west coast, it is much easier and much more affordable to tour north south than it is east west. You can blame the Rocky Mountains. It takes time to cross the range and there aren't that many places to play between the western and eastern slopes. So that means for a certain level of band, you inhabit a semi distinct ecosystem. You're not cut off from the rest of the continent, but it does affect how you tour." ← https://www.youtube.com/watch?v=0qigzi1j81U
@@ -38,10 +42,13 @@
 **Straight Edge Lifestyle** : This is a specific hardcore lifestyle adopted by bands like Hard Stance, characterized by strict adherence to abstinence from alcohol, recreational drugs, and even cigarettes. "This meant no drinking, no drugs, not even cigarettes ever." ← https://www.youtube.com/watch?v=Xo5DRSW95QQ
 **Touring Underserved Cities** : The north-south touring flow of punk and hardcore bands meant they frequently played in underserved cities and towns, including the Seattle area, where major touring acts were infrequent. This created opportunities for local scenes to flourish and for unique cross-pollination of musical styles. "The North South flow of punk and hardcore bands meant that these groups played a lot of underserved cities and towns when it came to tours. They had to play somewhere so they would play anywhere. And that included the Seattle area. At the time, the Pacific Northwest was sort of off the grid when it came to major touring acts. So if you wanted to see live music, it was much easier to catch a punk show than anything else." ← https://www.youtube.com/watch?v=0qigzi1j81U
 **UK Hardcore and D-Beat** : The UK developed its own hardcore derivative called D-Beat, characterized by a distinctive drum pattern. UK Hardcore was a fusion of British punk (like the Sex Pistols) and the New Wave of British Heavy Metal (NWOBHM) bands that emerged in the early 1980s, with Motörhead being a major influence. "Then we have the UK, home of a hardcore derivative called Debeat, which referred to a distinctive sort of drum pattern that went with a lot of the songs. UK Hardcore was an amalgamation of British punk, especially the Sex Bistels, and the new wave of British heavy metal bands that appeared at the beginning of the 1980s. The biggest influence from that scene was Motorhead." ← https://www.youtube.com/watch?v=0qigzi1j81U
+**Vancouver's Historic Scene** : In the 1970s and 1980s, Vancouver was predominantly known for its hardcore music scene. Bands like No Means No, DOA, and Adversity emerged from this era, contributing to the city's distinctive and influential musical "edge" that Matthew Good believes has since been lost. "If you look at the city's music history, I mean, we're predominantly known for hardcore in the 80s and the 70s, 80s, that kind of thing." ← https://www.youtube.com/watch?v=--g0gugy3ZE
 
 ## artists
+- Adversity
 - Agent Orange
 - Agnostic Front
+- Alexis On Fire
 - Alexis on Fire
 - Alexisonfire
 - Bad Brains
@@ -51,9 +58,12 @@
 - Black Flag
 - Circle Jerks
 - Cro-Mags
+- DOA
 - Dane Bramage
+- David Bowie
 - Dayglo Abortions
 - Dead Kennedys
+- Death
 - Descendents
 - Discharge
 - Dropkick Murphys
@@ -64,11 +74,13 @@
 - GBH
 - Gang Green
 - Ho99o9
+- Husker Dü
 - Hüsker Dü
 - Mia Zapata
 - Misfits
 - Mob 47
 - Nate Mendel
+- Nirvana
 - No Means No
 - NoMeansNo
 - Raw Power
@@ -89,6 +101,7 @@
 - The Meat Puppets
 - The Minutemen
 - The Subhumans
+- Tin Machine
 - Turnstile
 - Wretched
 

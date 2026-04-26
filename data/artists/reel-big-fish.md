@@ -9,5 +9,6 @@
 
 ## curiosities
 **Bus Fire Incident (2002)** : In October 2002, while Reel Big Fish's bus was parked at a truck stop in Columbia, South America, the driver returned to find smoke pouring out of the vehicle. Six band members and three crew members were asleep inside at the time but fortunately woke up and evacuated before anyone was hurt. "The driver stopped to get something to drink and when he came back he noticed smoke pouring out of the bus." ← https://www.youtube.com/watch?v=DgN0vBIugLc
+**Fourth Wave Continuation** : Reel Big Fish is mentioned as a third-wave group that is finding new fans, demonstrating cooperation from both second and third-wave bands in the emergence of the fourth wave of Ska. "Third wave groups like Ranset and Wheel Big Fish are finding new fans." ← https://www.youtube.com/watch?v=WX2GlpMNg_8
 **Third Wave Ska Band** : Reel Big Fish was identified as a band from the "third wave" of Ska, which arrived in the 1990s. This wave saw significant popularity with bands like No Doubt, The Mighty Mighty Bosstones, Sublime, Goldfinger, and Dance Hall Crashers. "Third wave Scott arrived in the 1990s, no doubt, muddy, muddy boss tones, sublime, real big fish, gold finger, dancehall crashes and so many more." ← https://www.youtube.com/watch?v=HSvgRyGiOpE
 

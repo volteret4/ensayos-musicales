@@ -1,6 +1,7 @@
 # artist - David Jones
 
 ## member of
+- David Bowie
 - The King Bees
 
 ## curiosities

@@ -4,6 +4,7 @@
 - Late 80s British pop
 
 ## songs
+**Never Gonna Give You Up** : This song was used by the US Army during Operation Just Cause in December 1989 as part of a continuous music bombardment outside the Vatican Embassy in Panama City. The goal was to force Panamanian dictator Manuel Noriega to surrender. "Too much never going to give you up from Rick Astley, Kenny Loggins and Danger Zone from the Top Gun Soundtrack." ← https://www.youtube.com/watch?v=R1wdsGt07Gg
 **Never Gonna Give You Up (Year Unspecified)** : This song is central to the "Rickrolling" internet meme, where users are tricked into clicking a link that redirects them to its music video. Despite the video being viewed over a billion times, Astley hasn't made substantial money from it because he didn't write the song (performance rights largely go to the composers Stock, Aiken and Waterman) and YouTube payouts require videos to run for at least 30 seconds. "And even though the video has been viewed over a billion times, Rick hasn't made much money from it." ← https://www.youtube.com/watch?v=bferkEWvJg0
 
 ## curiosities

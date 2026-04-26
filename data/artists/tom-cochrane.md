@@ -1,6 +1,7 @@
 # artist - Tom Cochrane
 
 ## concerts
+- Live 8 (Canadian show)
 - Magnetic Hill
 
 ## curiosities

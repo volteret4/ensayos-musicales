@@ -5,7 +5,11 @@
 - Funk/Soul (implied)
 - R&B
 
+## concerts
+- Live 8
+
 ## songs
+**Funky Drummer (1970)** : James Brown's 1970 song "Funky Drummer" features a drum break by Clyde Stubblefield that has been sampled in nearly 2,000 other songs. This specific drum beat became a highly influential and frequently used sample in various musical genres. "That's James Brown's drummer Clyde Stubbelfield from a 1970 song called Funky Drummer." ← https://www.youtube.com/watch?v=ak6OuOUkRrQ
 **It's a Man's World** : This song was used by Alicia Keys as inspiration for one of her tracks in 6/8 time, where she added a hip-hop element. "She copied James Brown. It's a man's world." ← https://www.youtube.com/watch?v=VR5Fncdc2kQ
 
 ## curiosities

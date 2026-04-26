@@ -1,5 +1,6 @@
-# genre - Cold Wave
+# genre - Cold wave
 
 ## curiosities
-**French and Belgian Minimalist Dance** : Described as a French and Belgian style of minimalist synthesized dance music, typically characterized by bands releasing only a couple of seven-inch singles before disappearing. "There was Cold Wave, a French and Belgian style of minimalist synthesized dance music, played by bands who released a couple of seven-inch singles before disappearing forever." ← https://www.youtube.com/watch?v=1KF5MwJVYng
+**Characteristics and Themes** : Cold wave was characterized by minor keys, harsh, mechanical, robotic sounds, and bleak lyrics. Its themes could delve into sexual perversion, the occult, fascination with pain and death, and occasionally even fascism, making it a challenging genre not for everyone. "Some called this cold wave, minor key stuff, harsh mechanical robotic, and featuring bleak lyrics, or something even worse. Sexual perversion, the occult of fascination with pain and death, and even in some cases, fascism." ← https://www.youtube.com/watch?v=zSFhhEaiYwE
+**Emergence as Technopop's "Cousin" (1979)** : By 1979, a "cold, distant cousin" to Technopop emerged, known as cold wave. This music captured a dystopian view of the future amidst a brutal recession, high unemployment, and the escalating Cold War. "Some called this cold wave, minor key stuff, harsh mechanical robotic, and featuring bleak lyrics, or something even worse. Sexual perversion, the occult of fascination with pain and death, and even in some cases, fascism." ← https://www.youtube.com/watch?v=zSFhhEaiYwE
 

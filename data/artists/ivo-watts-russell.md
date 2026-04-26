@@ -1,5 +1,5 @@
-# artist - Ivo Watts-Russell
+# artist - Ivo Watts Russell
 
 ## member of
-- This Mortal Coil
+- M/A/R/R/S
 

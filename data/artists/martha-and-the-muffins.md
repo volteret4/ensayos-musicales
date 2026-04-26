@@ -1,13 +1,9 @@
-# artist - Martha and the Muffins
+# artist - Martha and the muffins
 
-## genres
-- New Wave
-
-## songs
-**Echo Beach (1979)** : This song, released in the fall of 1979 by Toronto's Martha and the Muffins, became a big international hit throughout 1980 and is now considered a classic of the new wave era. It stands as an example of a Canadian indie artist achieving international success during a pivotal time for Canadian music. "Toronto's Martha and the Muffins with Echo Beach, a big hit around the planet through 1980 and now considered a classic of the new wave era." ← https://www.youtube.com/watch?v=6PGgNCaW4xo
-**We're Afraid to Call It Love. Let's Call It Swimming (1981)** : This song was produced by Daniel Lanois at Grant Avenue Studios in Hamilton in 1981. "Here's a song produced by Daniel Landwaw at Grant Avenue Studios for Martha and the muffins in 1981. We're afraid to call it love. Let's call it swimming." ← https://www.youtube.com/watch?v=N5kSZOl-5UY
+## members
+- Martha Johnson
+- Tim Gain
 
 ## curiosities
-**Artwork Designer** : Peter Saville, chief art design guy at Factory Records, did design work for Martha and the Muffins. "He did everything from gig posters to album design for Joy Division New Order, Roxas music, Swade, pulp, Martha Nemuffins, and Noam D." ← https://www.youtube.com/watch?v=pwebM3TfSdg
-**Collaboration with Daniel Lanois** : After learning from Brian Eno, Daniel Lanois applied his new recording techniques to sessions with bands like Martha and the Muffins. "Landwom learned a lot about recording music which he then applied to sessions with bands like Martha and the Muffins and the Parachute Club." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
+**Long-Term Unmarried Relationship (Since 1981)** : Martha Johnson and founding member Tim Gain of Martha and the muffins have been together since 1981. Despite common assumptions, they have not married. "Martha Johnson and founding member Tim Gain together since 1981 and despite what you may have read, not married." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0
 

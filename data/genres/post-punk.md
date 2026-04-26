@@ -1,28 +1,23 @@
-# genre - Post Punk
+# genre - Post-punk
 
 ## curiosities
-**Catch-all Term** : "Post punk" emerged as a catch-all phrase for music that originated from the punk scene but did not sound like traditional punk. "The first was post punk. It was a catch-all phrase for the music that came out of the original punk scene, but didn't sound like punk." ← https://www.youtube.com/watch?v=9uTORLOm5Yg
-**Complexity and Experimentation** : This new music, unlike previous genres, was characterized by its complexity and experimental nature, unusual in its inspiration, tensions, construction, composition, and execution, moving beyond the simple two- or three-chord punk songs. "This new music was unlike anything that had come before it. It seemed more complex and experimental. Not necessarily complicated when it came to playing it, but certainly unusual in its inspiration, its tensions, its construction, its composition, and its execution." ← https://www.youtube.com/watch?v=9uTORLOm5Yg
-**DIY Tenets** : The central tenets of the "do it yourself" ethos from punk rock ingrained themselves into many other genres loosely grouped under the umbrella of post punk. While these sounds were not strictly punk, the influence of punk was clearly discernible. "And the central tenets of doing it yourself, engraved itself into many other genres loosely grouped under the umbrella of post punk." ← https://www.youtube.com/watch?v=gkLMwrthZ9s
-**Emergence of Gentler Bands** : As the 1970s transitioned into the 1980s, the post-punk era witnessed the emergence of a new wave of bands that consciously moved away from loud guitars and aggressive vocals. These groups presented a significant departure from the soft rock that had previously dominated mainstream charts, instead offering a cool, arty, and often melancholic romanticism. They frequently recorded introspective songs, sometimes in their own bedrooms, for independent labels, thereby laying crucial groundwork for the development of Tweetpop. "And as the 70s turned into the 80s, the post punk era, bands who didn't yell over loud guitars began showing up." ← https://www.youtube.com/watch?v=jhgZrwtYE2g
-**Gothrock Origin** : Gothrock is identified as one of the longest surviving genres that emerged from post-punk. "Goth Rock may be one of the longest surviving of all the post punk genres." ← https://www.youtube.com/watch?v=evlGhfUe6QQ
-**Mid-Decade Punk Revival Style** : Post Punk was identified as a key style categorizing the mid-decade punk revival of the 2010s, alongside Garage Punk. This revival, possibly influenced by political events, represented a diverse range of approaches from bands like Against Me!, Sleater-Kinney, Japandroids, Fucked Up, Parquet Courts, Idles, and Sleaford Mods, building on previous punk eras. "If there's a way to categorize that mid-decade revival in Punk, it would perhaps be Garage Punk and Post Punk." ← https://www.youtube.com/watch?v=HSvgRyGiOpE
-**Recommended Reading** : Simon Frith's book, "Rip It Up and Start Again, Post Punk 1978 to 1984," is recommended for those wanting to explore the concept of New Wave and Post Punk in depth. "There's an excellent book on the whole concept of New Wave and Post Punk called Rip It Up and Start Again, Post Punk 1978 to 1984 by Simon Frith." ← https://www.youtube.com/watch?v=9CNNsqXiL6U
-**Rejection of Avant-garde Labels** : While the music was avant-garde, terms like "avant-garde" or "postmodern" were deemed too pretentious to describe the burgeoning scene. "It was definitely avant-garde, but you couldn't call it that. That was way too pretentious. Postmodern? No, same thing." ← https://www.youtube.com/watch?v=9uTORLOm5Yg
-**Term Coined in 1977** : The term "post punk" emerged around 1977, coinciding with the peak of punk, to describe the music that came after it. It served as an umbrella term for a new sound that rejected traditional rock and roll norms but maintained a connection to punk's expressive freedom. "Ergo, the name post punk, which was an umbrella term for this music." ← https://www.youtube.com/watch?v=9CNNsqXiL6U
+**Definition and Origin** : "Post-punk" describes a sound or band that isn't punk rock but could not have existed without punk coming first, indicating an evolved but similar DNA. It is the oldest of the "post-" prefixed terms. The first recorded use in print was in the British magazine Sounds in 1977, to describe Siouxsie and the Banshees. "In the case of post punk, for example, the term is used to describe a band or sound, which isn't punk rock, but listening to them, you could tell that punk had happened." ← https://www.youtube.com/watch?v=__7iEl3lH8g
+**Evolution from Punk** : Following the punk rock explosion of the mid-1970s, punk's angry guitars gave rise to a diverse range of post-punk sounds. This music, while distinct from punk, clearly showed its origins and influence. "The punk and its angry guitars begin a variety of post-punk sounds. This music wasn't punk, but you could tell by listening to it that something like punk must have happened." ← https://www.youtube.com/watch?v=_yslM5oanRo
+**Influence from David Bowie** : David Bowie's album "Low" became very important to a new generation of kids in the post-punk era who sought to move beyond guitar-centric punk styles. His experimental and synthesizer-driven music offered a different path, influencing bands like Joy Division. "Low became very important to a new generation of kids in the post punk era who wanted to do something different than just play guitars, punk style." ← https://www.youtube.com/watch?v=2FyAZGUI_mk
+**Origin of Goth and Industrial** : The post-punk era, beginning in the late 1970s, was a time when punk's influence encouraged diverse musical experimentation, leading to the emergence of both Goth and Industrial music with their distinct dark sounds and sensibilities. "We call this the post-punk era, and some of the very first bands from this era were into dark sounds and sensibilities." ← https://www.youtube.com/watch?v=amHre9ZZFkU
+**Transformed by Krautrock** : Krautrock's entry into the UK music scene, facilitated by British labels, had a significant impact, transforming the sound of post-punk music in the country. Its influences are clearly audible in bands like Joy Division and New Order. "This is how crop rock started to make serious inroads into the UK, inroads that changed post-punk music in the country." ← https://www.youtube.com/watch?v=ePZDkqLM_gw
 
 ## artists
-- Against Me!
-- Fontaines D.C.
-- Fucked Up
-- Idles
-- Japandroids
+- David Bowie
 - Joy Division
-- Parquet Courts
-- Scott Weiland
-- Sleaford Mods
-- Sleater-Kinney
-- Soy DeSant
+- Killing Joke
+- Kim Gordon
+- Rough Trade
+- Siouxsie and the Banshees
+- Talking Heads
+- Television
+- The Alarm
 - The Cure
-- The Slits
+- The Pixies
+- The Smiths
 

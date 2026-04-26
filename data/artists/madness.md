@@ -6,6 +6,7 @@
 ## genres
 - New Wave
 - Post-Punk
+- Punk Rock
 - Ska
 
 ## labels
@@ -15,6 +16,7 @@
 - **Madstock Festival (August 18, 1992)** : Madness, described as "one of the great British Ska bands," played at the Madstock festival in Finsbury Park, London, on August 18, 1992. This event marked the band's first appearance in eight years and attracted exactly 36,000 and seven people. "Played an event in Finsbury Park in London called Madstock."
 
 ## songs
+**Madness (1979)** : This song is a cover of a 1964 original by Jamaican Ska artist Prince Buster. Its release in 1979 showcased how second-wave Ska was a revival of the original 1960s Ska sound. "There's Madness from 1979 with another cover. The original was by Jamaican Scottinger Prince Buster from 1964, showing again how second wave SCAT was a revival of the original SCAT of the 1960s." ← https://www.youtube.com/watch?v=WX2GlpMNg_8
 **One Step Beyond (1979)** : During Madness's performance of "One Step Beyond" at the Madstock festival on August 18, 1992, the collective dancing ("skanking") of the 36,000+ attendees created vibrations so intense they simulated an earthquake for blocks around. These vibrations were strong enough to register on the Richter scale. "So many people were dancing in skankinger in the song, one step beyond, that they created vibrations that simulated an earthquake for blocks." ← https://www.youtube.com/watch?v=2RKchFW42Jc
 **One Step Beyond (Late 70s / Early 80s Cover)** : This song was a significant hit among the 1960s British subculture known as Swadeheds. Madness later covered the track during the ska revival of the late 1970s and early 1980s, bringing it to a new generation. "And of course, madness would cover that song during the sky revival of the late 70s and early 80s." ← https://www.youtube.com/watch?v=mAlc-N2wn5s
 

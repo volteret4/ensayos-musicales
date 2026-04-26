@@ -16,6 +16,9 @@
 ## labels
 - Pixies record label (UK)
 
+## concerts
+- Lollapalooza 1994
+
 ## albums
 **Last Splash (1993)** : Released in August 1993, this album "exploded" in popularity, largely due to the success of its single, "Cannonball." "In August 1993, a record called Last Splash. This thing exploded, thanks mainly to a single called Cannonball." ← https://www.youtube.com/watch?v=oLC49nCf0ZM
 **Pod (Year not mentioned)** : This was one of the early albums released by The Breeders, formed by Kim Deal when she sought more creative input than she could achieve with the Pixies. "There was one album called POD" ← https://www.youtube.com/watch?v=oLC49nCf0ZM

@@ -1,0 +1,19 @@
+# artist - Richard Hell and the Voidoids
+
+## members
+- Richard Hell (Richard Myers)
+
+## genres
+- Nihilistic Punk
+- Punk Rock
+
+## songs
+**Blank Generation (1977)** : A reimagining of "The Beat Generation" from 1959, Richard Hell performed this song with both Television and The Heartbreakers, but neither band included it on official recordings. It first appeared as a demo in 1975 and then on an EP in 1976, before its 1977 release. The title originated as a temporary placeholder Richard Hell used while searching for a name to describe his disaffected and bored generation, and it ultimately stuck, becoming an anthem of the New York punk era. It has since been featured on various records, compilations, movies, and TV shows, amassing 22.7 million plays and views on Spotify and YouTube, with a one-hit wonder score of 2.63 out of 10. "Richard was looking for a name for his generation of disaffected and bored people. But he couldn't think of anything, so he just inserted the word Blank as a placeholder until he thought of something better. He never did, so it stuck." ← https://www.youtube.com/watch?v=_qxdftwrX3E
+**The Beat Generation (1959)** : This earlier song served as the basis for Richard Hell's reimagining, which eventually became "Blank Generation." "Their hit was called Blank Generation, which was a reimagining of a song called The Beat Generation that was released in 1959." ← https://www.youtube.com/watch?v=_qxdftwrX3E
+
+## curiosities
+**Connection to Sex Pistols' Origins** : Inspired by Richard Hell's fashion, Malcolm McLaren used the safety pin aesthetic at his London store, Sex, and eventually conceived the idea of forming a band, the Sex Pistols, to act as a living advertisement for the shop. "McLaren then imported Richard's safety pin look back to Britain and opened a clothing shop that sold these kinds of clothes. The store became a magnet for young, disaffected kids. And to promote his store, Malcolm came up with the idea of forming a band that would be a living, breathing advertisement for the place. This store was called Sex. And the name of this band would be the Sex Pistols." ← https://www.youtube.com/watch?v=_qxdftwrX3E
+**Early Life and Artistic Path** : Richard Hell, born Richard Myers in Kentucky, initially moved to New York with the ambition of becoming a poet before becoming captivated by the burgeoning punk scene at CBGB. "Richard, his real name was Richard Myers, was a member of several New York punk bands who hung out at CBGB, the brilliant television and the heartbreakers featuring the doomed Johnny Thunders, ex of the New York dolls. Richard was born in Kentucky but moved to New York with plans of being a poet." ← https://www.youtube.com/watch?v=_qxdftwrX3E
+**Formation of The Voidoids** : Richard Hell grew dissatisfied with The Heartbreakers and decided to form his own band, The Voidoids, a nihilistic punk group. The band's name was taken from a novel Richard was writing at the time. "But back to Richard. He grew tired of the heartbreakers very quickly and decided he needed to front his own band. They became known as the Voidoy's, a nihilistic punk group. The name came from the title of a novel Richard was working on at the time." ← https://www.youtube.com/watch?v=_qxdftwrX3E
+**Influence on Punk Fashion** : Richard Hell's distinctive safety-pin-adorned clothing caught the attention of UK band manager Malcolm McLaren in New York. McLaren subsequently brought this "safety pin look" to Britain, incorporating it into his clothing shop "Sex," which became a popular spot for disaffected youth. "So Richard wore his clothes until they fell apart. In fact, he wore them even after they fell apart, holding things together with safety pins. This went a wannabe band manager from the UK named Malcolm McLaren, saw Richard in New York and thought he had brilliant fashion sense." ← https://www.youtube.com/watch?v=_qxdftwrX3E
+

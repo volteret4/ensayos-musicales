@@ -1,6 +1,6 @@
-# instrument - Electric bass
+# instrument - Electric Bass
 
 ## curiosities
-**Fundamental to Rock and Roll** : The electric bass, with its low, steady thump, is considered essential to the development and current state of rock and roll, playing a crucial role alongside the electric guitar and drums. "Yes, it's true that Rock and Roll really took off with the invention of the electric guitar, but can you imagine it becoming what it has today without the low, steady, thump of an electric bass played through big cabinets powered by a warm sounding tube amplifiers?" ← https://www.youtube.com/watch?v=kbFfT0pKchI
-**Interplay with Drummers** : The lockstep rhythms produced by the bass player and drummer are vital to rock music, emphasizing the collaborative and foundational role of the electric bass in a rhythm section. "And would Rock have become what it has without the lockstep rhythms produced by the bass player and the drummer?" ← https://www.youtube.com/watch?v=kbFfT0pKchI
+**Establishment as a Standard** : The Fender Precision Bass and similar instruments quickly became the standard for bass players. Their practical advantages over the double bass, such as portability and ease of amplification, made them indispensable in the evolving music landscape. "It, and bases like them, soon became the standard." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
+**Fender Precision Bass as the First Success** : The Fender Precision Bass, introduced in 1951, marked a pivotal moment as the world's first commercially successful solid-body electric bass. Its design, based on the Fender Telecaster, made it small, light, and capable of being plugged directly into an amplifier. "It was the world's first commercially successful solid body base." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
 

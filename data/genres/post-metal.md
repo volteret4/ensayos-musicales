@@ -1,5 +1,5 @@
-# genre - Post-Metal
+# genre - Post-metal
 
 ## curiosities
-**Characteristics and Riff Focus** : Post-metal is described as heavy, crushing, slow, doom-laden music that evokes a feeling of dread. While there is some post-rock that shares these characteristics, post-metal distinguishes itself by making riffs a central part of the song structure, unlike post-rock where riffs are often secondary to texture. "This is heavy, crushing, slow, doom-laden stuff that comes with a feeling of dread. There's post-rock like that, but post-metal gets us back into riffs as a central part of the song structure." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
+**Definition** : "Post-metal" describes a band that has taken metal to "some kind of a next level," signifying a sound that is at least "once removed" from the preceding metal genre. "Post metal. Same deal. And the band was taken metal to some kind of a next level." ← https://www.youtube.com/watch?v=__7iEl3lH8g
 

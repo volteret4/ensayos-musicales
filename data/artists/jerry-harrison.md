@@ -1,6 +1,7 @@
 # artist - Jerry Harrison
 
 ## member of
+- Jonathan Richman & The Modern Lovers
 - Talking Heads
 - The Modern Lovers
 - The Talking Heads

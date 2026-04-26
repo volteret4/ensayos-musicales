@@ -1,6 +1,7 @@
 # artist - Peter Hook
 
 ## member of
+- Ian Curtis
 - Joy Division
 - New Order
 - Warsaw

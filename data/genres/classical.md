@@ -1,6 +1,7 @@
 # genre - Classical
 
 ## curiosities
+**Audio Testing** : Classical music was among the various genres rigorously tested by Bernhard Grill during the development of the MP3 compression software. This extensive testing aimed to ensure the algorithm's effectiveness across a wide range of musical complexities. "He tried every form of music. Rock, metal, funk, jazz, classical, pop, everything but rap because he hated rap." ← https://www.youtube.com/watch?v=v7DXXu_1fvM
 **Carol of the Drum Composition** : Catherine Davis, a classical composer, wrote "Carol of the Drum" in 1941, reportedly drawing inspiration from a Czech song that has never been definitively located. "In 1941, Catherine Davis, a classical composer, wrote Carol of the Drum, apparently loosely basing it on a check song that's never been found." ← https://www.youtube.com/watch?v=nYPGQiDL5bw
 **Comprehensive Music Classification** : Classical music was acknowledged as a genre that couldn't be omitted from the comprehensive categorization of music, even in the context of popular music discussions from 1955. This underscores its distinct and enduring presence in the musical landscape. "And I guess we can't leave out classical can we?" ← https://www.youtube.com/watch?v=hstJ8M2laho
 **Domain of Early Albums** : Before the mid-1960s, albums were predominantly used for "adult music" genres such as classical, jazz, and Broadway show recordings. This perception shifted as rock music developed, producing sophisticated albums that garnered similar recognition. "Prior to the mid-1960s, albums had been the domain of adult music, serious music, jazz, classical, Broadway show recordings." ← https://www.youtube.com/watch?v=yPok3MemDmE
@@ -13,6 +14,7 @@
 **Pain Control Application** : Classical music is recommended as the best music for controlling pain if the individual suffering cannot control what music is played. Specifically, Mozart, combined with Advil, has been proven to effectively work on inflammation. "if the person can't be in charge, go with classical music." ← https://www.youtube.com/watch?v=KtdIMNoHqA8
 **Pet Preference (Cats)** : Research conducted at Louisiana State University indicates that cats have a strong preference for classical music. "Cats love classical music." ← https://www.youtube.com/watch?v=KtdIMNoHqA8
 **RCA's Red and Midnight Blue Vinyl Coding** : RCA assigned red vinyl for "serious classical" music and midnight blue for "popular classical" releases as part of its short-lived color-coding system for 7-inch singles. "Serious classical was red. Popular classical was midnight blue." ← https://www.youtube.com/watch?v=VlIErdSSVOM
+**Scatological Humor in the 18th Century** : The presence of scatological humor in the works and letters of classical composers like Mozart demonstrates that such humor was more mainstream and accepted in polite society in the 18th century than it is today. "it reinforces the thinking that scatter logical humor was way more mainstream back then, including in polite society than it is today." ← https://www.youtube.com/watch?v=7kH_AfT3i4k
 **Shift from LP Domain (1960s)** : By the 1960s, LPs were no longer exclusively the domain of serious music like classical, as rock and pop music began to be collected on albums. "LPs were no longer the domain of good or serious music like classical or jazz or movie soundtracks." ← https://www.youtube.com/watch?v=GES0Ms_kaCI
 **Studying Aid for High Achievers** : Classical music was identified as the number one genre listened to by students who achieved the highest grades, suggesting it is highly effective for studying. "Number one, classical." ← https://www.youtube.com/watch?v=KtdIMNoHqA8
 **Traditional Album Format** : Before 1965, albums were primarily reserved for "proper music" like classical recordings, jazz, soundtracks, and Broadway cast recordings, distinguishing them from the singles-driven pop and rock and roll markets. ← https://www.youtube.com/watch?v=eqTFinLk3oU
@@ -20,16 +22,20 @@
 ## artists
 - Béla Bartók
 - Claude Debussy
+- Elvis Costello
 - Fiona Apple
 - Franz Liszt
 - Jean Sibelius
+- Johann Pachelbel
 - Kate Bush
 - Lenny Kravitz
 - Ludwig van Beethoven
 - Moondog
+- Muse
 - Richard Wagner
 - Rodrigo y Gabriela
 - Tori Amos
 - Vangelis
 - Wendy Carlos
+- Wolfgang Amadeus Mozart
 

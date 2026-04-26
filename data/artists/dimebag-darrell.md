@@ -1,5 +1,9 @@
 # artist - Dimebag Darrell
 
+## member of
+- Damageplan
+- Pantera
+
 ## genres
 - Metal
 - Power Metal
@@ -12,7 +16,9 @@
 
 ## curiosities
 **Assassination at El Rosa Villa Concert** : Dimebag Darrell, a revered guitarist from Pantera and Damageplan, was assassinated on December 8, 2004, exactly 24 years after John Lennon's death. During a Damageplan gig at the El Rosa Villa venue in Columbus, Ohio, attended by about 400 people, Nathan Gale rushed the stage and shot Darrell three times in the head at point-blank range as the band began their first song. "As the band started their first song at around 10-20 that night, a man named Nathan Gayle, 6'3", 250 pounds and wearing a Columbus Blue Jacket's hockey jersey, rushed the stage and shot Darryl with a 9mm semi-automatic pistol." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
+**Enduring Legacy in Metal History** : Dimebag Darrell and his former band, Pantera, are highly revered in the history of metal music, maintaining a significant legacy despite his tragic passing. "Dimebag Daryl and Pantera remained revered in the halls of Middle History." ← https://www.youtube.com/watch?v=YhdsufCUC2w
 **Impact on Concert Security Protocols** : The assassination of Dimebag Darrell marked the only American mass shooting event to occur at a rock show. The tragic incident led to the implementation of numerous new security protocols for concerts, aiming to prevent a recurrence of such violence. "Whatever the motivation, the assassination of Dimebag Darryl resulted in all kinds of new security protocols for concerts, because no one wants to repeat what happened that night in Columbus, Ohio." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
 **Multiple Fatalities and Injuries** : The assassination of Dimebag Darrell quickly escalated into a mass shooting. In addition to Darrell, Damageplan's head of security, a fan who attempted to help, and a club employee were also shot and killed. Three members of Damageplan's road crew sustained non-fatal gunshot wounds. The shooter, Nathan Gale, was killed by a responding police officer three minutes after the attack began. "Darryl took 3 gunshots to the head at Point Blank Range, the right cheek, the left ear, and the back of his head. He never had a chance. When Damage Plan's head of security tackled Gayle, he was shot to death, too." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
+**Onstage Assassination - Alrosa Villa (2004)** : On December 8th, 2004, while performing with his band Damageplan at Alrosa Villa in Columbus, Ohio, Dimebag Darrell was fatally shot three times in the head at point-blank range by Nathan Gale, an ex-Marine diagnosed with schizophrenia. The attack also resulted in the deaths of Damageplan's head of security, a fan, and a club employee, with three road crew members sustaining non-fatal injuries, and led to the implementation of new security protocols for concerts. "Daryl was shot on the head three times at Point Plank Range, the right cheek, the left ear, and the back of the head." ← https://www.youtube.com/watch?v=YhdsufCUC2w
 **Shooter's Background and Motivation** : Nathan Gale, the assailant, was a 6'3", 250-pound former Marine who had been discharged due to a diagnosis of paranoid schizophrenia. Friends reported he had been "a little off" in the months leading up to the incident. While investigators explored theories—such as Gale being upset Darrell quit Pantera, or believing Darrell stole his lyrics or tried to steal his identity—the definitive motive for the assassination remains unknown. "Gayle was an expert who had told relatives he'd been discharged because of a diagnosis of paranoid schizophrenia." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
 

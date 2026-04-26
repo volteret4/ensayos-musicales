@@ -4,6 +4,7 @@
 - Karen O
 
 ## genres
+- Alt Rock
 - Art Punk
 - Guitar-based Rock
 - Indie Rock
@@ -12,6 +13,7 @@
 - Coachella
 
 ## curiosities
+**Alt Rock Resurgence of 2004** : The Yeah Yeah Yeahs, identified as "the Ye-Yaz," were named as one of the new and exciting bands contributing to the resurgence of Alt Rock by 2004. "By 2004, Alt Rock was back with all kinds of new exciting bands that was Franz Ferdinand and Modest Mouse and the Killers and Billy Towns and the Stills and Jet, the Ye-Yaz and Hot Hot Heat." ← https://www.youtube.com/watch?v=ua93Ui1u6UI
 **Amazing Reputation and Academy Awards Connection** : The Yeah Yeah Yeahs, a prominent band from the New York indie rock scene, have built an "amazing reputation" that extends beyond music, notably reaching the Academy Awards. This highlights their broad cultural impact and artistic acclaim. "The yay-yay-yes have an amazing reputation that extends through the Academy Awards." ← https://www.youtube.com/watch?v=xid8CZf4oYo
 **Embracing Cheap Instruments** : The Yeah Yeah Yeahs are mentioned as an example of bands from the indie revival that embraced the use of inexpensive instruments as part of an anti-establishment image. This choice reflected a rejection of the high-end, vintage gear associated with earlier rock eras. "They wouldn't be caught dead playing, let's say a vintage-less paw, think white stripes, yeah, yeah, yeah, and the strokes and the black keys." ← https://www.youtube.com/watch?v=fQCOj3_zy54
 **Indie Rock Revival (2000s)** : The Yeah Yeah Yeahs (transcribed as "the yay-y-yes") are cited as one of the new, "fresh sounding bands" that emerged during the Indie Rock Revival in the early 2000s. ← https://www.youtube.com/watch?v=kFLMkvJAaUY

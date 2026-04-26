@@ -12,5 +12,6 @@
 - Blink-182
 - Gord Downie
 - Leonard Skinnerd
+- Sublime
 - The Tragically Hip
 

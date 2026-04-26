@@ -2,6 +2,7 @@
 
 ## member of
 - Red Hot Chili Peppers
+- SOS All Stars
 
 ## instruments
 - Drum kit (308 pieces)

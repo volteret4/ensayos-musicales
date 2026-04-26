@@ -2,4 +2,5 @@
 
 ## member of
 - Billy Talent
+- The Matthew Good Band
 

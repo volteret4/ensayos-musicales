@@ -11,6 +11,8 @@
 - Powerpop
 
 ## songs
+**Drive** : This song was famously sung by a member of the band other than their regular lead vocalist. "drive by the cars all sung by someone other than the regular dude out front" ← https://www.youtube.com/watch?v=M1JTdUxOEMU
+**My Best Friend's Girl** : Nirvana performed a cover of this song during their last-ever show in Munich, Germany, in March 1994. "One of the songs that evening was a cover of the cars my best friend's girl." ← https://www.youtube.com/watch?v=cS8k3PYU_Eo
 **My Best Friend's Girl – Original Version** : Nirvana covered this song by The Cars as the opening track of their final concert on March 1, 1994. "Things started okay with the cover of the cars my best friends girl..." ← https://www.youtube.com/watch?v=Epz5Sn151bk
 
 ## curiosities

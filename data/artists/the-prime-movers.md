@@ -1,6 +1,7 @@
 # artist - The Prime Movers
 
 ## members
+- Iggy Pop
 - James Newell Osterberg (Iggy)
 
 ## genres

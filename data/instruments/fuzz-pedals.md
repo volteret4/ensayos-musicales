@@ -1,8 +1,5 @@
-# instrument - Fuzz pedals
+# instrument - Fuzz Pedals
 
 ## curiosities
-**St. Vincent's Unique Sound** : St. Vincent (Annie Clark) utilizes a diverse collection of fuzz pedals, which she combines in "weird ways" to modify her guitar's sound, making it resemble "something other than a guitar" and contributing to her distinctive sonic identity. "She has a collection of fuzz pedals that she combines in weird ways to make her guitar sound like something other than a guitar." ← https://www.youtube.com/watch?v=oLC49nCf0ZM
-
-## artists
-- St. Vincent
+**Matt Bellamy's Outboard Gear** : Matt Bellamy frequently uses outboard gear such as fuzz pedals to manipulate his guitar sound. "Matt loves outboard gear like pitch shifters and fuzz pedals" ← https://www.youtube.com/watch?v=nVIswnZYFkU
 

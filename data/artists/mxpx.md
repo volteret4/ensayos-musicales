@@ -5,6 +5,7 @@
 - Christian punk
 - Indie
 - Punk
+- Punk Rock
 
 ## labels
 - Major Label
@@ -28,5 +29,6 @@
 **Formation (1993)** : MXPX, a punk band originating from Bremerton, Washington, was formed in 1993. "Another Christian theme band that got started in the 1990s was MXPX, a punk band from Bremerton, Washington. They were formed in 1993." ← https://www.youtube.com/watch?v=6cbL0zLQeIs
 **Formation and Early Releases** : MXPX, a Christian punk band from Bremerton, Washington, formed in 1993. While still in high school, they released a series of seven-inch singles through Tooth and Nail, a Christian-owned Seattle-based record label. "They were formed in 1993 and by the time the guys got out of high school, they had already released a series of seven-inch singles for a label called Tooth and Nail." ← https://www.youtube.com/watch?v=g-tBn8dsSqw
 **Mainstream Exposure** : The band achieved notable mainstream exposure, signing with a major label, touring on the Warped Tour, and even appearing in a Pepsi commercial. "All the bands have been signed to a major label and has moved on to touring with the warp tour and can be seen in a Pepsi commercial." ← https://www.youtube.com/watch?v=6cbL0zLQeIs
+**Mid-90s Attention** : MXPX gained attention during the mid-1990s punk rock revival, performing "okay" in terms of record sales, though not reaching the massive numbers of the era's biggest bands. "Other punk bands to get attention during the middle 90s included MXPX." ← https://www.youtube.com/watch?v=0QtMI00T5jw
 **Success Following The Offspring** : This band was discovered by fans due to The Offspring's significant success in late 1994, marking the beginning of Skate Punk's "glory years." "And this led to fans discovering bands like Goldfinger, Lagwagon, Face to Face, MXPX, and Unwritten Law." ← https://www.youtube.com/watch?v=44dXy0StjIQ
 

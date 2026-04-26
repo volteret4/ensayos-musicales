@@ -1,6 +1,5 @@
-# genre - Latin Music
+# genre - Latin music
 
 ## curiosities
-**International Explosion via YouTube** : Latin music experienced an international explosion in popularity due to YouTube. The platform's global reach and monetization capabilities eliminated geographic barriers, allowing music to exist in a "borderless world." "Latin music exploded." ← https://www.youtube.com/watch?v=7IDbqdIw3WU
-**Use of Mutes** : Mutes are employed in Latin music to alter the volume or tonal quality of brass instruments, helping them blend with other ensemble members. "They're used in Latin music." ← https://www.youtube.com/watch?v=D8GU8ZpSgY8
+**Breakout Success (2010s)** : Latin music experienced a significant breakout in the 2010s, with artists like Bad Bunny achieving widespread success globally. This period marked a substantial increase in its international reach and popularity. "Latin music busted out all over." ← https://www.youtube.com/watch?v=mNqqLDpUuZY
 

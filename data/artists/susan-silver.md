@@ -1,5 +1,8 @@
 # artist - Susan Silver
 
+## member of
+- Alice in Chains
+
 ## curiosities
 **Atmosphere Artist Management (2005-2011) – Post-Divorce Venture** : After her divorce from Chris Cornell, Susan Silver established a new company called Atmosphere Artist Management in 2005. This venture, however, was later shut down in 2011 for unspecified reasons. "Susan created a new company called Atmosphere Artist Management in 2005, but it was shut down for some reason in 2011." ← https://www.youtube.com/watch?v=lip0bZX7hBE
 **Co-Manager of Alice in Chains – Partnership with Kelly Curtis** : Susan Silver co-managed Alice in Chains with Kelly Curtis through their shared management company. When Mother Love Bone collapsed and transformed into Pearl Jam, Kelly Curtis shifted his focus to become Pearl Jam's full-time manager, leaving Susan to manage Alice in Chains independently. "When Mother Lovebone started to get hot, Kelly wanted to spend more time with them. Meanwhile, Ken wanted out, so Susan and Kelly became co-managers of Allison Chains through their own management company." ← https://www.youtube.com/watch?v=lip0bZX7hBE

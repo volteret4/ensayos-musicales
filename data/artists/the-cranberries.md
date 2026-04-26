@@ -13,7 +13,9 @@
 ## genres
 - Alt Rock
 - Alt-Rock
+- Alternative Music
 - Dreampop (adjacent)
+- Modern Rock
 
 ## concerts
 - Woodstock 94
@@ -52,6 +54,7 @@
 **Irish Icon and Activist** : Dolores O'Riordan was an icon in Ireland. Before her death in 2018, she was an activist working on behalf of children globally. "She's an icon in Ireland, and before she died in 2018, she worked as an activist on behalf of children all over the world." ← https://www.youtube.com/watch?v=zZM9ajwYr9E
 **Irish Origin** : The band was formed in Limerick, on the West Coast of Ireland, by four teenagers: a couple of brothers, their friend, and Dolores O'Riordan. "They were from Limerick on the West Coast of Ireland. They were formed by four teenagers, a couple of brothers, their friend, and a tiny, feisty woman named Dolores Orreardum." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Natural Reunion at Trinity College** : Dolores O'Riordan described feeling "really natural" upon seeing her bandmates again at Trinity College, as if she "saw him yesterday," likening the feeling to "a family." "And when I walked in, I just felt really natural. They felt like I saw him yesterday, you know what I mean?" ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Rise of New Alternative Bands (Mid-90s)** : The Cranberries were one of the new bands emerging in the mid-1990s as alternative music gained widespread acceptance. "We had new bands like Weezer and Rage Against the Machine and Beck and the Cranberries in the Verve." ← https://www.youtube.com/watch?v=ua93Ui1u6UI
 **Son's Confirmation Catalyst (June 2009)** : Dolores O'Riordan invited Mike and Fergal, along with their families, to her son's confirmation in June. This was her first time seeing Fergal since their separation. The presence of all their children, who didn't remember The Cranberries, also contributed to the reunion desire. "And so then my son then made his confirmation in June and I invited Mike Ferg and no with their wives and children." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
 **The Recurring Couch Motif** : A specific rented couch became a distinctive and recurring visual element for The Cranberries' album artwork. It appeared on the covers of their debut album, "Everybody Else Is Doing It, So Why Can't We?" (1993), their second album, "No Need to Argue" (1994), and surprisingly, their 2017 unplugged album, "Something Else." The same couch also made a cameo in the 1996 music video for the Supergrass song "Alright." "The couch disappeared from the Cranberries world until 2017 when it appeared on the cover of the unplugged album." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
 **Trinity College Philosophical Society Event (2009)** : The reunion process began when Trinity College made Dolores O'Riordan a member of their philosophical society and invited her to perform. She asked Mike and Noel Hogan and Fergal Lawler to play with her, marking their first reunion. "Trinity College made me a member of their philosophical society and they wanted me to do a couple of songs, you know?" ← https://www.youtube.com/watch?v=yR3xc3ra5tE

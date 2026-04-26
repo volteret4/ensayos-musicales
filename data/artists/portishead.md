@@ -17,6 +17,7 @@
 - Samples
 
 ## albums
+**Dummy** : The stripped-down sound of Portishead's album "Dummy" fascinated Noel Gallagher and served as an inspiration for the vibe he aimed to create with Oasis' "Wonderwall," though without venturing into trip-hop territory. "Noll had become fascinated by the stripped-down sound of the Portushead album, Dummy, and was looking to create that vibe without going into trip-hop territory." ← https://www.youtube.com/watch?v=IhG-WJH9om8
 **Dummy (1994) – Debut Record** : Portishead's debut album was released in the summer of 1994. The following year, it earned the prestigious Mercury Prize, solidifying its critical acclaim. "Portus Head's debut record came out on the summer of 1994, and it won the Mercury Prize the following year, and this was one of the singles." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 
 ## songs

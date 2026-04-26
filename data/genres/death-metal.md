@@ -6,10 +6,12 @@
 **Goth Elements Absorbed** : Death metal is a metal scene that has "absorbed elements of Goth." "There were a series of metal scenes that have absorbed elements of Goth, especially death metal." ← https://www.youtube.com/watch?v=evlGhfUe6QQ
 **Recommended for Cats** : Based on studies indicating cats' preference for fast beats and deep bass, certain types of death metal are suggested as potentially appealing to felines. "Well, techno would be good, so with certain types of death metal." ← https://www.youtube.com/watch?v=0D4wGWI-_z8
 **Short Song Lengths** : Death Metal, particularly through bands like Napalm Death, has produced some of the shortest songs in rock history, demonstrating an extreme compression of musical ideas into very brief durations. "But last we think that's as short as we can go, I offer this from the Death Metal Band Napom Death. The song is called You Suffer." ← https://www.youtube.com/watch?v=T1XSJIm0Nh4
+**US Airbase Mosul "Disco Room" (2004)** : In an interrogation room at the U.S. Airbase in Mosul, Iraq, known as the "disco room" and operational from 2004, detainees were subjected to powerful strobe lights and super loud death metal as an "enhanced interrogation" tactic. "According to some anonymous FBI reports, there was an interrogation room set up in the prison at the U.S. Airbase in Mosul, Iraq. It was known as the disco room and was an operation from 2004. The themes were blasted with powerful strobe lights and super loud death metal." ← https://www.youtube.com/watch?v=R1wdsGt07Gg
 **Vocal Expression Controversy** : Death Metal acts were among the artists whose new forms of vocal expression, facilitated by microphones, generated decades of strong criticism from purists. Their singing styles were considered by some to be "degenerate forms of singing," challenging the established vocal norms of earlier generations, with criticism extending "all the way up to and beyond death medillars." "R&B acts, Elvis, The Beatles, Dylan, Jagger, New Waivers, rappers all the way up to and beyond death medillars." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
 
 ## artists
 - Cannibal Corpse
+- Cruachan
 - Deicide
 - Napalm Death
 

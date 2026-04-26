@@ -1,0 +1,5 @@
+# concert - Woodstock 50
+
+## curiosities
+**Failed 50th Anniversary Attempt (2019)** : The planned Woodstock 50 festival in 2019, intended to celebrate the 50th anniversary of the original event, was an "utter failure" spearheaded by original promoter Michael Lang. It faced problems from the outset, including the investor Densu Aegis Network pulling out due to liability concerns (influenced by the disastrous Woodstock 99) and doubts about Lang's ability to guarantee safety. Internal conflicts over planning and money allocation, venue cancellations (first Watkins Glen International Speedway, then no other venues willing to host), and artist withdrawals (including The Black Keys) ultimately led to its cancellation on July 19, 2019, just weeks before it was to begin. Michael Lang's death in January 2022 further confirmed the unlikelihood of future Woodstock events. "The festival did have an investor, the Densu Aegis Network. But then they got cold feet and pulled out just a few months before things were supposed to get started." ← https://www.youtube.com/watch?v=uEe_HLUay5M
+

@@ -20,8 +20,10 @@
 - Bobby Jean Hall
 - Buffy Sainte-Marie
 - Camper Van Beethoven
+- Clannad
 - David Bowie
 - Ed Sheeran
+- Elvis Costello
 - Jacob Dylan
 - Jake Bugg
 - John Denver
@@ -29,6 +31,7 @@
 - Julian Taylor
 - Kingston Trio
 - Laura Marling
+- Leonard Cohen
 - Mumford & Sons
 - Nick Drake
 - PJ Harvey
@@ -36,6 +39,7 @@
 - Steve Grossman
 - Susan Aglukark (Aglukark)
 - The Strumbellas
+- The Waterboys
 - Tim Buckley
 - Tom Waits
 - Tune-Yards

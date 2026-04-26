@@ -3,6 +3,10 @@
 ## member of
 - Weezer
 
+## albums
+**Alone, The Home Recordings (Collection of Demos)** : Rivers Cuomo worked by himself on "Alone, The Home Recordings," a collection of demos that includes tracks such as "Super Friend." This personal project serves as an archive for various unreleased and evolving songs, including material that originated from the "Songs From The Black Hole" project. "That's River's Cuomo, working by himself on a collection of demos called Alone, The Home Recordings." ← https://www.youtube.com/watch?v=gdWLtMy4TBU
+**Home Alone Demo Recordings (Contains Black Hole Songs)** : The "Home Alone Demo Recordings" released by Rivers Cuomo contain a significant number of songs originally intended for the abandoned "Songs From The Black Hole" project. These recordings offer fans a deeper insight into the mythical lost Weezer record and its evolution into "Pinkerton" and other tracks. "If you're interested in going deeper into that story, get home-alone demo recordings released by Rivers' Cuomo. They contain a number of Black Hole songs." ← https://www.youtube.com/watch?v=gdWLtMy4TBU
+
 ## curiosities
 **Aversion to Punk Funk** : In the early 90s, Rivers Cuomo was talked out of forming a punk funk band because he worried it would hinder the band's chances, especially with the growing emphasis on authenticity in the alternative scene. As a former metalhead, he feared this background could be detrimental to the group. "Rivers had been talked out of forming a punk funk band." ← https://www.youtube.com/watch?v=DoJa8jcrlUA
 **Birth and Childhood** : Rivers Cuomo was born in New York City to a hippie musician father and a hippie mother. He was raised in several Buddhist communities for the first ten years of his life, including an ashram called Yogaville, before his parents divorced in 1975, and the family settled in Connecticut. "Rivers was born in New York City. Dad was a hippie musician, and mum was a hippie hippie hippie." ← https://www.youtube.com/watch?v=DoJa8jcrlUA

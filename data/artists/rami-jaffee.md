@@ -1,5 +1,9 @@
 # artist - Rami Jaffee
 
+## member of
+- Foo Fighters
+- The Birds of Satan
+
 ## instruments
 - Keyboards
 

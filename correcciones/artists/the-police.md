@@ -1,8 +1,6 @@
 # artist - The Police
 
 ## members
-- (an American)
-- (two Englishmen)
 - Stewart Copeland
 - Sting
 - Sting (Gordon Sumner)

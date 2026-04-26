@@ -3,6 +3,7 @@
 ## member of
 - Joy Division / New Order
 - New Order
+- The Other Two
 
 ## instruments
 - Synthesizer

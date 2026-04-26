@@ -2,7 +2,9 @@
 
 ## member of
 - Foo Fighters
+- Kurt Cobain
 - Nirvana
+- The Birds of Satan
 - The Germs
 
 ## members

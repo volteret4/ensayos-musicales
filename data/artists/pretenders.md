@@ -1,6 +1,7 @@
 # artist - Pretenders
 
 ## members
+- Chrissie Hynde
 - Chrissy Hind
 
 ## curiosities

@@ -1,16 +1,8 @@
-# genre - Techno
+# genre - techno
 
 ## curiosities
-**Darker Cousin of House** : Described as the "darker heavier cousin of house," with its core DNA characterized as "Technopop on Crystal Meth." "And let's not forget about Tecno, the darker heavier cousin of house. At the heart of Tecno's DNA is Tecno Pop on Crystal Meth." ← https://www.youtube.com/watch?v=1KF5MwJVYng
-**Definition and Characteristics** : Techno is fundamentally percussion-based electronic dance music, typically stripped down to emphasize bass lines and drum beats. Its origins are diverse, stemming from early synthesizer pioneers, avant-garde electronic composers, Kraftwerk, David Bowie, the English techno pop scene, and Afrika Bambaataa. "Generally speaking, techno is percussion-based electronic dance music, stripped down to the point where bass lines and drum beats rule." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
-**Detroit Origins** : The techno genre solidified in Detroit, where three friends – Kevin Saunderson, Juan Atkins, and Derrick May – combined influences from Motown, disco, dance music, and the aforementioned electronic pioneers. Their goal was to create funky dance music using affordable synthesizers, which eventually moved to Chicago and then internationally. "But it took this small scene in Detroit to take all those elements and put them together in a new and highly influential way." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
-**Foundation Laid by Kraftwerk** : All techno music, including artists like Underworld and Daft Punk, and the entire Detroit techno scene, can be traced back in some fashion to the profound influence of Kraftwerk, highlighting their foundational role in electronic dance music. "Today's EDM and all techno from groups like Underworld and anything that came out of Detroit to Daff Punk, Ambient and Chillout music, Craftwork influence." ← https://www.youtube.com/watch?v=ePZDkqLM_gw
-**Recommended for Cats** : Research suggests that cats are fond of music with a fast beat and deep bass, making techno a genre potentially enjoyable for feline listeners. "Well, techno would be good, so with certain types of death metal." ← https://www.youtube.com/watch?v=0D4wGWI-_z8
+**David Bowie's Incorporation (1997)** : Techno was among the new genres of dance music that David Bowie explored and integrated into his 1997 album, *Earthling*. His adoption of the genre was interpreted by some as an official endorsement from a major artist. "He'd become interested in various new genres of dance music, including industrial, techno, jungle, and drum and bass." ← https://www.youtube.com/watch?v=Yq2A_o9-ulM
 
 ## artists
-- Aphex Twin
-- Autechre
-- Daft Punk
-- Madonna
-- Underworld
+- David Bowie
 

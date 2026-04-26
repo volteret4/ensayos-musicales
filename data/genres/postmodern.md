@@ -6,4 +6,5 @@
 
 ## artists
 - Depeche Mode
+- Joy Division
 

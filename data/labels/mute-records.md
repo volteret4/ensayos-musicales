@@ -6,11 +6,13 @@
 **Founding and Focus** : Mute Records was founded by Daniel Miller using the earnings from his surprise hit single "Warm Leatherette." It was deliberately designed as an "all synthesizer label," a strategic move that proved highly successful after 1981 when keyboard-driven music began making a significant impact on the British charts. "founded an independent record company called Mut. Now Mut was designed to be an all synthesizer label" ← https://www.youtube.com/watch?v=zB5zxycrbnY
 **Independent Ethos and Longevity** : Mute Records was founded in Daniel Miller's bedroom in 1978. It remained 100% independent between 1978 and 2002, with its only dealings with major labels being through distribution to get records and CDs into stores. Otherwise, Mute operated entirely on its own terms. "Between 1978 and 2002, mute was 100% independent. The only dealings it had with major labels was through distribution, that is getting the actual records and CDs into stores." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
 **Informal Artist Contracts** : Mute Records was known for its unconventional approach to artist contracts. For example, their long-standing relationship with Depeche Mode existed for years based solely on a handshake, without any formal written agreement. "They never really signed a formal contract with Mut. For years, the relationship honestly existed on nothing more than a handshake." ← https://www.youtube.com/watch?v=zB5zxycrbnY
+**Inspiral Carpets Association** : Mute Records was the label for Inspiral Carpets, one of the "Holy Trinity" bands of the Madchester scene in the late 1980s and early 1990s. "The Holy Trinity was the Inspiral Carpets on the roster of mute records." ← https://www.youtube.com/watch?v=Q4dEV1yn3OY
 **John Cage "4'33"" Box Set (2019)** : In 2019, Mute Records compiled a box set featuring over 50 artists covering John Cage's silent composition, "Four Minutes and 33 Seconds," including Depeche Mode, New Order, Moby, Erasure, and Afghan Whigs. "mute records compiled a bunch of them in a box set featuring depeche mode, new order, moby, erasure, afghan wigs, and several dozen more." ← https://www.youtube.com/watch?v=72Lei7uug8c
 **Mark Price (Flood)'s Engineering Role** : Before his rise as a renowned producer and remixer, Mark Price, known as Flood, worked as an engineer at Mute Records. In this capacity, he worked on recording sessions for significant bands, including Depeche Mode. "Eventually he got a job as an engineer at mute records, working sessions for bands like DePesh Mode." ← https://www.youtube.com/watch?v=08i9lVd6T8c
 
 ## artists
 - Daniel Miller
 - Depeche Mode
+- Inspiral Carpets
 - The Normal
 

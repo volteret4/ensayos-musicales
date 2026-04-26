@@ -20,6 +20,7 @@
 - Lollapalooza Festival (1992)
 
 ## songs
+**Lush Song in Volkswagen Passat Ad (1996)** : In 1996, an unspecified song by the dreampop band Lush was featured in a TV advertisement for the Volkswagen Passat car. "In 1996, a song by the Dreampop band Lush ended up in a TV ad for the Volkswagen Passat." ← https://www.youtube.com/watch?v=DYtsWfguqGo
 **Sweetness and Light (1990)** : Released in the fall of 1990, this track achieved success as an "alt rock radio hit" in North America before Christmas of that year, and was a "hit shoogas track on both sides of the Atlantic." Much of their material, including this song, was produced by Robin Guthrie of the Cocteau Twins. "This is Lush with sweetness and light." ← https://www.youtube.com/watch?v=vEHdoUlGurY
 
 ## curiosities

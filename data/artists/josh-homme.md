@@ -1,7 +1,10 @@
 # artist - Josh Homme
 
 ## member of
+- Eagles of Death Metal
 - Josh Homme
+- Katzenjammer
+- Kyuss
 - Queens of the Stone Age
 - Them Crooked Vultures
 

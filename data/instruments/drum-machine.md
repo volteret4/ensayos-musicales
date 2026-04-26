@@ -1,13 +1,15 @@
-# instrument - Drum machine
+# instrument - Drum Machine
 
 ## curiosities
-**Evolution from Rhythm Machines (1960s-1970s)** : Rhythm machines, which initially offered pre-programmed standard beats like waltzes and fox-trots, evolved into drum machines in the 1960s and 1970s. Companies like Roland, Multivox, and Bentley began selling increasingly sophisticated devices that were particularly popular with new German electronic bands. "In the 60s and 70s, rhythm machines evolved into drum machines. Companies like Roland and multi-box and Bentley started selling devices which were actually pretty cool." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
-**Threat to Drummers (1980s)** : The widespread adoption and advancement of drum machines in the 1980s, especially after Roland unveiled the TR808, made "flesh and blood drummers really got nervous." These analog drum machines had unique, inspiring sounds that challenged traditional percussionists. "Flush and blood drummers really got nervous through the 1980s, especially after Roland unveiled the TR808." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
+**Acid House Rhythms** : The Roland TR-808 drum machine was specifically identified as providing the rhythmic foundation for Acid House music, making it an essential piece of gear for the genre's distinctive sound. "Acid House with its bass lines from Roland TV 303 synthesizers and TR808 drum machines." ← https://www.youtube.com/watch?v=0FYq5MBdHw4
+**Catalyst for Genre Explosion** : The introduction of the drum machine as a new technology significantly contributed to the "explosion" in genre classifications in popular music. Along with synthesizers, samplers, and digital recording, it opened up "entirely new vistas of unimaginable sound and creativity," leading to the rapid proliferation of genres and sub-genres. "Add a new technology like the synthesizer, the drum machine, the sampler, and digital recording technology, an entirely new vistas of unimaginable sound and creativity opened up." ← https://www.youtube.com/watch?v=vJszsJQpINQ
+**Dominant Instrument in Technopop** : Drum machines were a key component of Technopop, often serving as a dominant instrument alongside electronic keyboards. Their integration meant that "real drums weren't really in the mix" for many practitioners, who embraced the new possibilities offered by these electronic devices. "This in a nutshell was post-punk music where electronic keyboards and related gear, like drum machines, were the dominant instruments." ← https://www.youtube.com/watch?v=5PJRCC6EwUY
+**Dr. Avalanche - The Sisters of Mercy's Drum Machine** : The Sisters of Mercy's drum machine was named Dr. Avalanche because it frequently crashed. Over time, various models served as "the doctor," including Roland TR-55, TR-606, TR-808, and currently a custom MacBook partly designed by the British military. "Somewhere at the back was drummer Dr. Avalanche. He drum machine the gutt its name because it kept, well, crashing." ← https://www.youtube.com/watch?v=XaLsZFLrMnI
+**New Order's Encore Practice** : New Order initially used Stephen Morris's drum machine to play on its own during encores, allowing the band to leave the stage early. This unconventional practice was a precursor to their embrace of electronic elements and machine-driven music. "just turning on Stephen Morris' drum machine and letting it go while everybody walked off stage" ← https://www.youtube.com/watch?v=zB5zxycrbnY
+**New Order's Rhythmic Innovation** : New Order increasingly incorporated drum machines into their sound, with drummer Stephen Morris taking on the task of programming the new generation of these machines. This allowed the band to experiment with complex rhythms, evolving their music towards a dance-oriented style. "Stephen Morris began to learn how to program the new generation of drum machines, which allowed the band to experiment with more complex rhythms." ← https://www.youtube.com/watch?v=0FYq5MBdHw4
+**They Might Be Giants' Early Usage** : They Might Be Giants occasionally used a drum machine in their early performances and recordings. "Sometimes they'd use a drum machine." ← https://www.youtube.com/watch?v=I9_3EbwKPnU
 
 ## artists
-- Echo & the Bunnymen
-- Kingdom Come
 - New Order
-- The Sisters of Mercy
-- They Might Be Giants
+- Stephen Morris
 

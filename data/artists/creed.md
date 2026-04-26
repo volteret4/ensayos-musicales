@@ -11,6 +11,7 @@
 - Christian alternative rock
 - Post-Grunge
 - Rock
+- Rock (implied)
 
 ## labels
 - Wind-up Records
@@ -45,6 +46,7 @@
 **Private Performance for Prince** : Creed was once booked by Prince to perform at a private party. The intention behind this booking was to rekindle high school memories for those in attendance. "Prince booked Creed for a private party. The city wanted to bring back memories of high school." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
 **Public Backlash (Mid-2000)** : Similar to Limp Biscuit, Creed quickly experienced a public backlash beginning sometime in mid-2000. "And like Limp Biscuit, they saw the public turn on them rather quickly, beginning sometime in mid 2000." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
 **Reunion Catalyst in Las Vegas (2008)** : In 2008, Scott Stapp and guitarist Mark Tremonti met at the Hard Rock Hotel in Las Vegas and decided to reunite, aiming to "set things right" and redefine Creed's legacy positively. "In 2008, Scott and guitars Mark Tramonty met up at the Hard Rock Hotel in Vegas, and they decided that it was time to get back together and set things right." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Rock Act Breakthrough** : Creed was noted as one of the rock acts that managed to break through in a big way around the end of the 1990s, alongside bands like Limp Bizkit and Korn. "And then we had, well, I'll just say it, Creed." ← https://www.youtube.com/watch?v=hBQE4t72i3o
 **Scott Stapp's Brawl (2006)** : Stapp was involved in a brawl with three members of 311 in the lobby of a Baltimore hotel in 2006. "Scott kept getting in trouble, like the brawl with three guys from 311 in the lobby of a Baltimore hotel in 2006." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
 **Scott Stapp's Car Accident (July 2002)** : Stapp was involved in a car accident in July 2002, leading to the cancellation of a significant portion of a major tour. He was charged with reckless driving of his SUV. "Then Scott got into a car accident, July of 2002, forcing the cancellation of a good chunk of a big tour. Scott was charged with reckless driving of his SUV." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
 **Scott Stapp's Damaged Public Image** : Stapp's image as a virtuous father and husband was undermined by several incidents, including an accusation of throwing a bottle at his wife. "But then several things surfaced to make that image look hypocritical, including the time that he threw a bottle at his wife." ← https://www.youtube.com/watch?v=yR3xc3ra5tE

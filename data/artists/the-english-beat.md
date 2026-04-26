@@ -9,6 +9,7 @@
 - Motown
 - New Wave
 - Post-Punk
+- Punk Rock
 - Ska
 - Two Tone
 

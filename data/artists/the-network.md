@@ -15,6 +15,7 @@
 - Green Day (opening act)
 
 ## albums
+**Money Money 2020 (2003) - Studio Album** : This record was released in 2003 through Adeline Records, a label owned by Billy Joe Armstrong. The band's sound was remarkably similar to Green Day, leading to speculation that The Network was actually Green Day performing material from their allegedly stolen *Cigarettes and Valentines* sessions. "In 2003, a weird band called The Network released a record called Money, Money, 2020 through Adeline Records, which oddly enough is a label owned by Billy Joe Armstrong." ← https://www.youtube.com/watch?v=_lSbUUfBNNI
 **Money Money 2020 (2003) - Suspected Green Day Project** : This album was released in 2003 by The Network on the indie label Adeline Records, which is owned by Green Day's Billie Joe Armstrong. Although Billie Joe Armstrong has denied any connection, it is widely suspected that all three members of Green Day are involved, with evidence including lyrical biographical references to Armstrong and the band's website registration to Green Day Inc. "In 2003, an indie label based out of the Bay Area of California issued an album called Money Money 2020 by a group called The Network." ← https://www.youtube.com/watch?v=itK5fEqnA5E
 
 ## songs

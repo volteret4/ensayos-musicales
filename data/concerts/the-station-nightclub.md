@@ -1,0 +1,5 @@
+# concert - The Station Nightclub
+
+## curiosities
+**Deadly Fire (February 20, 2003)** : On February 20, 2003, The Station Nightclub in West Warwick, Rhode Island (erroneously called Long Island in the transcript), became the scene of a horrific fire during a Great White concert. A pyrotechnic display at the beginning of the band's set ignited highly flammable foam insulation on the walls and ceiling. The entire 450-capacity building was consumed by flames within six minutes, resulting in 230 injuries and 100 fatalities, including Great White guitarist Ty Longley and the local radio DJ who was MCing the event. The disaster led to criminal trials, civil lawsuits that paid out approximately $176 million in settlements, and the imprisonment of one of the club's owners. Crucially, this tragedy mandated increased insurance requirements and a comprehensive list of new safety protocols for indoor venues, making concert-going significantly safer worldwide after that date. "230 people were injured and 100 died, including Great White guitarist Ty Longley and a local radio DJ who was MCing the show." ← https://www.youtube.com/watch?v=GlcOoINI7EQ
+

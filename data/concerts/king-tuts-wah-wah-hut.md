@@ -1,8 +1,5 @@
-# concert - King Tuts Wah Wah Hut
+# concert - King Tut's Wah Wah Hut
 
 ## curiosities
-**Alleged Discovery Site of Oasis** : On May 31, 1993, King Tuts Wah Wah Hut on St. Vincent Street in Glasgow, Scotland, was the alleged site where Oasis was discovered by Alan McGee of Creation Records. The band purportedly secured their performance slot that night by threatening the owner with arson. "King Tuts, Wawa Hut on St Vincent Street in Glasgow, Scotland. This is the place where Oasis was discovered by Alan McGee of creation records after they allegedly threatened the owner with arson if he didn't let them play that night." ← https://www.youtube.com/watch?v=Yl2poVWguu0
-
-## artists
-- Oasis
+**Oasis Discovery (May 31, 1993)** : This Glasgow venue was the site of Oasis's discovery by Alan McGee, head of Creation Records, on May 31, 1993. Due to a set time mix-up, McGee, who intended to see another band, witnessed Oasis perform a four-song set, leading him to offer them an indie label deal. "a bunch of Yabo's from Manchester who bullied their way on stage at a venue called King Tuts Wawa Hut in Glasgow. That was May 31, 1993." ← https://www.youtube.com/watch?v=Q4dEV1yn3OY
 

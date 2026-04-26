@@ -2,6 +2,7 @@
 
 ## members
 - (one former member of Clover)
+- Bobby LaKind
 - Jeff "Skunk" Baxter
 
 ## curiosities

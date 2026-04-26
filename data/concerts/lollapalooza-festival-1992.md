@@ -1,16 +1,9 @@
-# concert - Lollapalooza Festival 1992
+# concert - Lollapalooza Festival (1992)
 
 ## curiosities
-**Canadian Stop (Molson Park, Barrie)** : The Canadian leg of the 1992 Lollapalooza Festival took place at Molson Park in Barrie, North of Toronto. The energy there was described as "absolutely awesome." "The Canadian stop was at Moulson Park in Barry, North of Toronto. In place with Jam, the energy was just absolutely awesome." ← https://www.youtube.com/watch?v=huAvyInzz3Q
-**Second Year and Stellar Lineup** : The 1992 Lollapalooza Festival marked its second year as Perry Farrell's traveling roadshow and circus. It featured an "absolutely awesome" and arguably the best lineup in the event's history, with main stage acts including Red Hot Chili Peppers, Soundgarden, Pearl Jam, Ministry, and Ice Cube. A second stage at selected dates featured Stone Temple Pilots, Rage Against the Machine, and Cypress Hill. "This was the second year of Perry Farrell's traveling roadshow in circus. And looking back, it's really hard to believe that all these big names shared the same stage day after day, week after week." ← https://www.youtube.com/watch?v=huAvyInzz3Q
+**Al Jourgensen's Backstage Incident** : At the Canadian stop of the 1992 Lollapalooza Festival, Ministry's leader Al Jourgensen was involved in a memorable backstage incident. He was seen throwing various pieces of furniture from his trailer, drinking from a broken bottle of Bushmills whiskey, and then compelled an observer to help him arrange the discarded furniture into a makeshift "living room" on the concrete outside. "The last thing to come out of the trailer was Al Jorgensen, the leader of ministry and he was carrying this broken bottle of Bush Mills whiskey." ← https://www.youtube.com/watch?v=qC0Ee4-dpnI
+**Arguably the Best Lineup** : The 1992 iteration of Perry Farrell's "traveling roadshow and circus" is often considered to have arguably the best lineup in the festival's history. It featured a star-studded main stage with Red Hot Chili Peppers, Soundgarden, Pearl Jam, Ministry, and Ice Cube, plus a second stage at selected dates showcasing Stone Tap O'Pilots, Rage Against the Machine, and Cypress Hill. The Canadian stop in Barrie, north of Toronto, was noted for its "absolutely awesome" energy and a bizarre backstage incident involving Ministry's Al Jourgensen. "arguably the best lineup in the history of that event." ← https://www.youtube.com/watch?v=qC0Ee4-dpnI
 
 ## artists
-- Cypress Hill
-- Ice Cube
-- Ministry
-- Pearl Jam
-- Rage Against the Machine
-- Red Hot Chili Peppers
-- Soundgarden
-- Stone Temple Pilots
+- Lush
 

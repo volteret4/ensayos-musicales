@@ -1,8 +1,10 @@
 # artist - The Vandals
 
 ## genres
+- California Hardcore
 - Pop Punk
 - Punk
+- Punk Rock
 
 ## albums
 **Fear of a Punk Planet (1990) – Produced by Bacchus Sallie** : Released in 1990, this album was produced by Bacchus Sallie, who is identified as the keyboardist for Devo. "the album was called Fear of a Punk Planet and was produced by Bacchus Sallie, the keyboardist for Devo." ← https://www.youtube.com/watch?v=tZV1lz-obQE

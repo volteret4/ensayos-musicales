@@ -1,0 +1,5 @@
+# genre - Rock duo
+
+## curiosities
+**Rise of Two-Piece Bands (Early 2000s)** : The early 2000s saw a significant increase in the popularity of two-piece rock bands, departing from the traditional three-member minimum (guitar, bass, drums). This shift was facilitated by advancements in technology such as samplers, pedals, and guitar effects, allowing two people to perform all the necessary music on stage. While early examples like Suicide (1970s), The Inbreds (1992), and Local H (mid-1990s) were rare, The White Stripes' breakthrough in the early 2000s catalyzed the trend. This new generation included numerous Canadian bands like Black Pistol Fire, Death from Above 1979, Japandroids, The Pack A.D., USS, and The Blue Stones, alongside international acts such as Twenty One Pilots, The Black Keys, Drenge, The Kills, and The Raveonettes. The phenomenon is admired for the ability of two musicians to create a sound comparable to much larger bands. "That all began to change in the early 2000s, because that's when the white stripes started hitting the big time." ← https://www.youtube.com/watch?v=GlcOoINI7EQ
+

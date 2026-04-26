@@ -6,4 +6,5 @@
 
 ## artists
 - Staggered Crossing
+- Wide Mouth Mason
 

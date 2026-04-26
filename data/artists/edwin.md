@@ -10,3 +10,6 @@
 ## songs
 **Testing out Therese (Year Unspecified)** : This song is mentioned as being about "testing out Therese," likely a mishearing of "theories," in the context of the episode's theme. ← https://www.youtube.com/watch?v=eqTFinLk3oU
 
+## curiosities
+**Post-I Mother Earth Collaborations** : After leaving I Mother Earth, Edwin collaborated with Christian Samson (drummer of Glüleg) and Ruben Huzenga (guitarist of Glüleg), who worked with him in his studio. He also became an ex-member who joined Crash Karma. "Christian Samson played around with Edwin after he left I Mother Earth." ← https://www.youtube.com/watch?v=22SSwvfRMVg
+

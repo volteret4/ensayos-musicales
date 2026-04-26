@@ -1,6 +1,11 @@
 # artist - Morrissey
 
 ## member of
+- The Nosebleeds
+- The Smiths
+
+## members
+- The Nosebleeds
 - The Smiths
 
 ## genres
@@ -8,6 +13,10 @@
 
 ## concerts
 - Coachella (1999)
+
+## albums
+**Viva Hate (1988)** : This album, released in 1988, was the first of Morrissey's solo albums and is considered one of his two best solo efforts. It marked a promising start to his post-Smiths career. "The two best being the first Viva Hate from 1988..." ← https://www.youtube.com/watch?v=vev8lzfW6Xo
+**Your Arsenal (1992)** : Released in 1992, this was Morrissey's third solo album and is recognized as one of his two strongest solo records, following the initial success of "Viva Hate." "and the third, your arsenal from 1992." ← https://www.youtube.com/watch?v=vev8lzfW6Xo
 
 ## songs
 **Margaret on the Guillotine** : Morrissey wrote this song for The Smiths, taking an extreme stance against Margaret Thatcher. The title itself suggests a profound and provocative opposition to her political figure. "Morrissey went even further, writing a song for the Smiths called Margaret on the Gillotine." ← https://www.youtube.com/watch?v=0ARYt4sYT90
@@ -20,16 +29,21 @@
 **Backstage Rider – Venue-Wide Vegetarianism** : Morrissey's rider often includes a controversial clause: if he is performing, everyone in the venue must be vegetarian for that night. This means no meat is to be sold or served anywhere in the venue, with meat treated as a "prohibited item," and this rule is strongly policed. "If Moorse is going to be a vegetarian, then everyone in the venue has to be a vegetarian for that night." ← https://www.youtube.com/watch?v=z2hvUDtBxho
 **Charisma and Media Appeal** : Morrissey, the singer of The Smiths, possessed notable charisma and a strong personality. He was known for being quick with "pithy outrageous quotes," a characteristic that made him particularly popular with the British music media. "He had charisma and personality to burn and he was quick with a pithy outrageous quote." ← https://www.youtube.com/watch?v=zB5zxycrbnY
 **Collaboration with Steve Lillywhite** : Morrissey is among the artists with whom renowned record producer Steve Lillywhite has collaborated. "He's also worked with Morrissey." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4
+**Controversial Quotes (Examples)** : Morrissey was known for his provocative public statements, which often garnered press attention and made him both a villain and a hero. ← https://www.youtube.com/watch?v=vev8lzfW6Xo
 **Declined Humans Album Participation** : Morrissey was among the artists who declined to participate in the Gorillaz album "Humans." "those who declined to participate included Morrissey, and Dion Warwick, who had some kind of religion." ← https://www.youtube.com/watch?v=iVdTCqpd798
 **Declined Role on Friends** : Morrissey was invited to appear on the popular TV show *Friends*. He declined the offer because the script required him to sing with the character Phoebe Buffay. "Morrissey was invited to appear on Friends. Yes, that TV show, but he declined because the script called for him to sing with Phoebe's character." ← https://www.youtube.com/watch?v=aSk1XQHNkd8
 **Dreampop Adjacency** : Morrissey is mentioned as an artist whose music could be "shoehorned" into the Dreampop scene if it possessed dreamy, atmospheric, and immersive qualities. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
+**First Band - The Nosebleeds** : Morrissey's first serious attempt at music was with a group called The Nosebleeds, which also featured guitarist Billy Duffy. This group had a short lifespan before its members moved on to other projects. "His first series attempt at doing something was in a group called the nosebleeds, which featured a guitarist by the name of Billy Duffy..." ← https://www.youtube.com/watch?v=vev8lzfW6Xo
 **Influence on Brandon Flowers** : Morrissey is credited by Brandon Flowers as the inspiration behind his decision to write songs about murder, highlighting his impact on Flowers' lyrical content. "Brad and Flores says that he was moved to write songs about murder by Morrissey of the Smiths." ← https://www.youtube.com/watch?v=FtGJHhqXcDI
 **Influence on Suede** : Morrissey was cited as an influence on Suede, which celebrated "the great eccentric English rock of the 70s and 80s" and consciously chose to sing with a London accent. "Instead, Swade celebrated the great eccentric English rock of the 70s and 80s. Bowie, Roxy music, T-Rex, the Smiths, Morrissey, British Psych, Jagger Swagger, Glam guitars." ← https://www.youtube.com/watch?v=vzyMSSlD7Yg
 **Interviewed Artist** : Morrissey is among the notable artists and bands that have been interviewed. "Foo Fighters, Morrissey, Peter Hook of Joy Division in New Order..." ← https://www.youtube.com/watch?v=bI6TTA-fn7c
+**Interviewed by Host** : Morrissey was among the artists interviewed by the host over the years. "I've had the privilege of talking to a ton of really cool people over the years...Morrissey Blur." ← https://www.youtube.com/watch?v=ua93Ui1u6UI
 **Jerry Finn's Final Production Work** : In July 2008, longtime Blink-182 producer Jerry Finn had just completed his work on a Morrissey album shortly before suffering a cerebral hemorrhage and a massive heart attack, which ultimately led to his death. "In July 2008, just after finishing up work on a Morrissey album, he suffered a cerebral hemorrhage that was followed by a massive heart attack, which destroyed him." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE
 **Legendary Albums at Olympic** : Morrissey, among a plethora of other artists, recorded legendary albums at Olympic Studios. "Oasis, U2, the Arctic Monkeys, the Killers, the Pesh Mode, Moracy, Pink Floyd, Massive Attack, the Spice Girls, Adele and dozens and dozens of others made legendary albums at Olympic." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
+**Producer Mick Ronson's Death (April 1993)** : Mick Ronson, who produced for Morrissey, died in April 1993 from cancer. "Mick Ronson, David Bowie's guitarist and Morrissey's producer, Cancer April 1993." ← https://www.youtube.com/watch?v=ua93Ui1u6UI
 **Records Banned by Spillers Records (2019)** : In 2019, Spillers Records, a long-standing record store in Cardiff, Wales, banned all of Morrissey's records from its inventory. This decision was made because the store's management believed Morrissey was aligning too closely with far-right politics and groups. "In 2019, they banned all of his records because they believe Maserah is floating too much with far-right politics and far-right groups." ← https://www.youtube.com/watch?v=jD1dWxNLvfE
 **Royalty Dispute and Appeals** : Morrissey was sued by former Smiths bandmates Mike Joyce and Andy Rourke in 1996 for non-payment of royalties. While Andy Rourke settled for £80,000, Mike Joyce was awarded £1.2 million, a decision Morrissey continues to appeal. "Morrissey, by the way, still hasn't paid up because he keeps appealing it to the courts." ← https://www.youtube.com/watch?v=CVPPymc_qrk
+**Solo Career Trajectory** : After The Smiths' breakup, Morrissey initially seemed poised to become a major solo star, benefiting from the cult following he amassed with his previous band. However, his solo career began to decline in the mid-1990s, as he struggled to produce consistent albums, moved to Los Angeles, refused interviews, and toured less frequently. "Although it got off to a promising start, Morris' solo career hit the skids in the mid 1990s." ← https://www.youtube.com/watch?v=vev8lzfW6Xo
 **Successful Solo Foray** : Morrissey launched his solo career months after The Smiths disbanded in the fall of 1987. He has continued to make records on his own ever since, establishing himself as one of the more successful solo artists in modern rock history. "Morrissey, one of the more successful solo forays in the history of modern rock." ← https://www.youtube.com/watch?v=-f9jhqAHkQo
 **Suede Influence** : Morrissey was celebrated by Suede as an influence, representing the great eccentric English rock of the 1970s and 1980s that Suede sought to revive. "Instead, Swade celebrated the great eccentric English rock of the 70s and 80s. David Bowie, Roxy Music, T-Rex, Smiths, Morrissey, British Psych, Jagger Swagger, Glam guitars..." ← https://www.youtube.com/watch?v=5q5EnZj1FwE
 

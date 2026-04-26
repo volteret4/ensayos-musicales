@@ -1,6 +1,7 @@
 # artist - Duff McKagan
 
 ## member of
+- Guns & Roses
 - Guns N' Roses
 - Guns and Roses
 - Guns n' Roses

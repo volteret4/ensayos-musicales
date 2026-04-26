@@ -7,6 +7,7 @@
 - Emo
 - Emo Pop
 - Pop Punk
+- Punk Rock
 - Rock Opera
 
 ## labels
@@ -39,6 +40,7 @@
 **Gerard Way "Transformed Into a Demon" TikTok Theory (2025 Reunion Tour)** : During My Chemical Romance's 2025 reunion tour, a TikTok user claimed that vocalist Gerard Way "transformed into a demon" mid-performance, generating a viral conspiracy theory among fans. "A TikTok user claimed that vocalist Gerard Way 'transformed into a demon' mid-performance." ← https://www.youtube.com/watch?v=0DFmS6MPbFI
 **Goth Leanings** : This band, categorized as "emo-ish," emphasizes Goth leanings, particularly through their visual style. "Some emo-ish bands emphasize their Goth leanings, especially with their look. Check out 30 seconds to Mars or my chemical romance." ← https://www.youtube.com/watch?v=evlGhfUe6QQ
 **Largest Emo Band** : My Chemical Romance was identified as arguably the biggest band within the Emo movement. Their prominence marked the peak of Emo's popularity, an alt-rock trend known for burning "very hot and very bright" before its decline around 2009. "Perhaps the biggest band of them all was this group by Chemical Romance." ← https://www.youtube.com/watch?v=-CT7yYXonIk
+**Legacy of Mid-90s Punk Revival** : My Chemical Romance is one of the bands whose existence can be directly attributed to the impact of the mid-1990s punk rock revival. "It's certainly not a stretch to say the groups like... My Chemical Romance, and many others wouldn't have existed had it not been for what happened in the middle 1990s." ← https://www.youtube.com/watch?v=0QtMI00T5jw
 **Post-Cure Influence** : My Chemical Romance was cited as a group influenced by The Cure, demonstrating the breadth of The Cure's impact on bands across various subgenres of alternative music. "if you're looking for bands influenced by them we can turn to groups like Interpol, Smashing Pumpkins, The Killers, Nine-H Nails, My Chemical Romance, and so many more." ← https://www.youtube.com/watch?v=amHre9ZZFkU
 **Reunion for Touring** : My Chemical Romance was one of many bands from past decades that reunited in the 21st century, a trend largely motivated by financial incentives. With declining CD sales impacting artist revenues, returning to the touring circuit offered a lucrative way to appeal to nostalgic fan bases and fill large venues. "The list of reunions is long." ← https://www.youtube.com/watch?v=GYUuTbOvyak
 **Theatrical Live Performances** : In concert, My Chemical Romance adopted a highly theatrical approach for *The Black Parade*, featuring extensive role-playing and costumes, which was also reflected in the music video for "Welcome to the Black Parade." "In concert, my chemical romance was very theatrical about all this, lots of role playing in costumes." ← https://www.youtube.com/watch?v=1KyNY3zv6uc

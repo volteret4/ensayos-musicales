@@ -5,6 +5,7 @@
 **East Bay Indie Label** : Lookout Records was an "East Bay indie label" that released Green Day's early records. This period with Lookout Records is considered a pivotal moment where the pop punk story truly began to gain momentum. "Green Day released a couple of records on an East Bay indie label called Lookout Records." ← https://www.youtube.com/watch?v=pE7TaWSUa-o
 **Favorable Deal for Green Day** : Green Day benefited from a financially advantageous agreement with Lookout Records, which allocated them 60% of the gross profits from their record sales. The band earned over $150,000 from sales of approximately 70,000 copies of their albums 39 Smooth and Kerplunk. "By getting a nice 60% of the gross profits, Green Day had earned over $150,000 from those records, nice, very smart." ← https://www.youtube.com/watch?v=nyfdGYWelic
 **Founded by Lawrence Livermore** : Lookout Records was established by Lawrence Livermore, who is also credited with giving Frank Edwin Wright III (Tre Cool) his stage name. "From the time he was about 12, Frank had been in a band with a dude named Lawrence Livermore, the founder of Lookout Records, so there's the connection." ← https://www.youtube.com/watch?v=nyfdGYWelic
+**Green Day's Early Releases** : Lookout Records was the indie label that released Green Day's first two albums, which ultimately brought the band to the attention of major labels like Warner. "the band's first two releases on an indie called Lookout Records." ← https://www.youtube.com/watch?v=Q4dEV1yn3OY
 
 ## artists
 - Green Day

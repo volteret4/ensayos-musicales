@@ -1,7 +1,12 @@
 # artist - Joe Strummer
 
 ## member of
+- Joe Strummer
 - The Clash
+- The Mescaleros
+
+## members
+- Joe Strummer
 
 ## genres
 - Punk Rock
@@ -11,12 +16,21 @@
 
 ## curiosities
 **Background and Lifestyle Choice** : Joe Strummer, despite being the privileged son of a diplomat, intentionally chose to live with his "down-and-up punk friends," embracing a punk lifestyle. ← https://www.youtube.com/watch?v=Z9T9wi0vEvc
+**Children with Gay Sultor** : Joe Strummer spent many years with Gay Sultor, though they never married. Together, they had two daughters, Jazz Domino Holly and Lola Mabeline. "Joe then spent many years with a woman named Gay Sultor. They never married but they did have two daughters. Jazz Domino Holly and Lola Mabeline." ← https://www.youtube.com/watch?v=U40hOYy_94E
+**Death (December 2002)** : Joe Strummer of The Clash died just before Christmas in 2002 from a heart attack. "Joe Strummer of the Clash, heart attack just before Christmas, 2002." ← https://www.youtube.com/watch?v=ua93Ui1u6UI
+**Death by Heart Attack** : Joe Strummer passed away due to a heart attack. "the heart attack that killed Joe Strummer." ← https://www.youtube.com/watch?v=NQgn0_mUh74
 **Deep-Sea Snail Species** : In 2014, Joe Strummer, who died in 2002, had a species of spiky, golf ball-sized sea snails named after him: *Elvini Conca Strummer-I*. These snails inhabit extreme environments near hydrothermal vents in the deep ocean, living at depths of almost 12,000 feet in dark, hot, and acidic conditions. "a new species of Elvini Conca should be named Strummer-I, toughbuggers." ← https://www.youtube.com/watch?v=VMPLplhDk8I
 **Diplomat's Son – Real Name John Miller, Born in Ankara, Raised Across Multiple Postings** : Joe Strummer's entire punk persona was built on a working-class streetwise identity that contradicted his actual origins. His real name was John Mellor (referred to as John Miller in the podcast). He was born in Ankara, Turkey, while his father, a British diplomat with the Foreign Service, was posted there. His father subsequently received postings to Mexico City, Cairo, and Bonn, West Germany — providing Joe and his brother with security, good schools, and comfortable accommodations. The family eventually settled in Surrey, England, where the boys attended private schools befitting a diplomat's salary. Joe transformed himself into a punk musician via art school and spent the rest of his life distancing Joe Strummer the punk from his privileged origins. "He considered his upbringing to be an embarrassment." ← https://www.youtube.com/watch?v=e6S5CTX7kkE
+**Early Life and Background** : Joe Strummer came from a privileged background, as his father was a diplomat. He was born in Turkey and lived in exotic places like Cairo and Mexico City before his family moved to England. He attended private schools and boarding school, and initially wanted to be a cartoonist. "He came from privilege. His dad was a diplomat and little Joe was born in Turkey and lived in exotic places like Cairo and Mexico City before the family moved to England." ← https://www.youtube.com/watch?v=U40hOYy_94E
+**First Marriage for Citizenship** : In 1970, Joe Strummer married Pamela Muleman from South Africa for 400 pounds, a sum she paid him so she could obtain British citizenship. He used the money to purchase the first real guitar he ever owned, and the couple subsequently divorced. "In 1970, Joe married a woman named Pamela Muleman. She was from South Africa and she needed her British citizenship. So Joe married her 400 pounds." ← https://www.youtube.com/watch?v=U40hOYy_94E
+**Godfather Role** : Joe Strummer became the Godfather to British singer Lily Allen. "He had also become Godfather to British singer Lily Allen." ← https://www.youtube.com/watch?v=U40hOYy_94E
 **Healthy Lifestyle Choices (1971-2002)** : Despite smoking and drinking, Joe Strummer maintained a vegetarian diet since 1971 and regularly ran marathons, practices that made his sudden death from a heart condition particularly unexpected. "Yes, he smoked and drank, but he'd been a vegetarian since 1971. He ran marathons." ← https://www.youtube.com/watch?v=19Z_AAEy8Bc
 **Inspirational Figure** : For a generation of punk fans, Joe Strummer served as an inspirational figure, holding a similar level of significance as John Lennon did for the preceding generation. ← https://www.youtube.com/watch?v=Z9T9wi0vEvc
+**Interviewed by Host** : Joe Strummer was among the artists interviewed by the host over the years. "I've had the privilege of talking to a ton of really cool people over the years...Joe Stromer, The Clash." ← https://www.youtube.com/watch?v=ua93Ui1u6UI
 **Later Life and Reunion Prospects** : As he grew older, Joe Strummer mellowed somewhat. By late 2002, after many years of rumors and false starts, a reunion of The Clash seemed to be a real possibility. ← https://www.youtube.com/watch?v=Z9T9wi0vEvc
 **Mentioned in Rage Against The Machine Liner Notes** : Joe Strummer, described as a musician and revolutionary, was acknowledged with "props" in the liner notes of Rage Against The Machine's debut album. "Revolutionaries and musicians like Chuck D and Joe Stromer get props." ← https://www.youtube.com/watch?v=Xo5DRSW95QQ
+**Modest Lifestyle** : Even at the time of his death, Joe Strummer lived a low-key and modest life with his second wife, Lucinda. "Even at the time of his death, Joe was low-key and living very modestly with his second wife, Lucinda." ← https://www.youtube.com/watch?v=U40hOYy_94E
+**Path to Punk Rock** : Two significant factors led Joe Strummer to become a punk rocker: his discovery of rock music around age 10, and the suicide of his brother, David. Following these events, Joe actively turned his back on his upper-middle-class upbringing and immersed himself in the punk rock lifestyle. "The things that put Joe in the road to being a punk were A, his discovery of rock music at about age 10, and B, his brother David's suicide." ← https://www.youtube.com/watch?v=U40hOYy_94E
 **Political Activism** : Beyond his musical contributions, Joe Strummer was highly political, actively campaigning against issues such as poverty and racism, and consistently supporting labor groups. ← https://www.youtube.com/watch?v=Z9T9wi0vEvc
 **Redefining Punk Rock** : As a member of The Clash, Joe Strummer was pivotal in expanding the definition of punk rock, moving it beyond its basic "three chords and an attitude roots" to incorporate more complex themes and sounds. ← https://www.youtube.com/watch?v=Z9T9wi0vEvc
 **Sudden Death (2002)** : On Sunday, December 22, 2002, Joe Strummer died of a heart attack on his kitchen floor in Somerset, England, shortly after returning from a walk with his dog. His death, likely the result of an unknown hereditary condition, occurred when he was just 50 years old, marking the passing of a "founding father of punk." ← https://www.youtube.com/watch?v=Z9T9wi0vEvc

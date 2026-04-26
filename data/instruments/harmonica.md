@@ -6,5 +6,7 @@
 
 ## artists
 - Captain Kick and the Cowboy Ramblers
+- Johnny Greenwood
+- Radiohead
 - U2
 

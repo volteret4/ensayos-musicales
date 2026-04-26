@@ -1,6 +1,7 @@
 # genre - Funk
 
 ## curiosities
+**Audio Testing** : Funk music was among the various genres rigorously tested by Bernhard Grill during the development of the MP3 compression software. This extensive testing aimed to ensure the algorithm's effectiveness across a wide range of musical complexities. "He tried every form of music. Rock, metal, funk, jazz, classical, pop, everything but rap because he hated rap." ← https://www.youtube.com/watch?v=v7DXXu_1fvM
 **Decline in Popularity (Early 1970s)** : In the early 1970s, many music fans abandoned the "hard-driving funk" of the 1960s, opting instead for a softer, "Mellow" sound, reflecting a shift in musical tastes. "Many fans had deserted the mind-blowing acid rock and the hard-driving funk and the soulful R&B of the 60s and decided to go all soft." ← https://www.youtube.com/watch?v=VYi3r0G-ne4
 **Development of Unique Styles** : Funk music has been a significant fascination for bassists like Flea, leading to the development of unique and widely copied playing styles characterized by techniques such as slap bass. "But because of his hardcore jazz background and because of his fascination with funk, Flea quickly developed a unique style that has been copied by millions all over the world." ← https://www.youtube.com/watch?v=CVPPymc_qrk
 **Early Integration in Alt-Rock** : Funk sounds "had been a part of alt-rock since the original punk rock days," evident in the bass lines of bands like The Slits, Public Image Limited, Gang of Four, The Bad Brains, and early Red Hot Chili Peppers, setting the stage for punk-funk and later rap fusions. "Funk sounds had been a part of alt-rock since the original punk rock days." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE
@@ -13,6 +14,7 @@
 **Mini-Moog's Prominence** : The Mini-Moog synthesizer is considered the most famous synth in history due to its extensive use across a wide array of genres, including funk. Its unique sounds and portability made it highly desirable for musicians seeking innovative textures. "I think it's the most famous synth in history given how much it was used in rock, pop, disco, funk, R&B, and jazz." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
 **R&B Mutation** : Funk, as one of R&B's main sounds, began mutating rapidly post-1978, contributing to R&B's expansion into new genres like disco and hip hop. "R&B's main sounds, which included fun console, began mutating even faster, expanding to include disco, and within a year, hip hop." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
 **Tim Buckley's Exploration** : Tim Buckley explored the funk genre as part of his musical evolution. "cycling through folk, psych, bits of jazz, fun, and soul." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
+**Transformative Influence on Chad Smith** : Chad Smith's drumming underwent a significant transformation after he received instruction from a funk drummer named Larry Frentangelo. This guidance led him to view himself as a musician rather than merely a drummer, profoundly changing his playing style. "But then he was given instruction by a funk drummer named Larry Frentangelo." ← https://www.youtube.com/watch?v=WL3zEWJJNuw
 
 ## artists
 - Ani DiFranco
@@ -25,6 +27,8 @@
 - Death
 - Fishbone
 - Gang of Four
+- Glüleg
+- Grace Jones
 - James Brown
 - Jody Linscott
 - Kid Rock

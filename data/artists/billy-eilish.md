@@ -1,0 +1,7 @@
+# artist - Billy Eilish
+
+## curiosities
+**Ongoing Tic Symptoms** : Although many of Billy Eilish's Tourette Syndrome symptoms have subsided over the years, some persist, becoming noticeable if one spends enough time with her. These tics include wiggling her ear back and forth, clicking her jaw, raising her eyebrows, and flexing her arm, all involuntarily. Interestingly, these tics never seem to manifest when she is performing. "She'll wiggle her ear back and forth, click her jaw, raise her eyebrows, flex her arm, all involuntarily." ← https://www.youtube.com/watch?v=u5NLt6mkmrk
+**Public Discussions of Tourette** : Billy Eilish has candidly spoken about her Tourette Syndrome on camera with both David Letterman and Ellen DeGeneres, though she doesn't discuss it often. She describes the condition as exhausting but a part of her life, and she is willing to talk about it if it helps others facing similar challenges. "Billy doesn't talk about her Tourette that often, but when she does, she's very candid." ← https://www.youtube.com/watch?v=u5NLt6mkmrk
+**Tourette Syndrome Diagnosis** : Billy Eilish has been very open about living with Tourette Syndrome, a neurological condition that causes involuntary tics or movements. Her symptoms began at a very young age, including blinking and rapid jaw clicks, making it seem like her teeth were chattering. She received a formal diagnosis when she was 11. "This is a neurological condition that results in involuntary ticks or movements." ← https://www.youtube.com/watch?v=u5NLt6mkmrk
+

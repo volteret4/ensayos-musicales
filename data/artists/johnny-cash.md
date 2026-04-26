@@ -3,6 +3,9 @@
 ## genres
 - Country Rock and Roll
 
+## labels
+- Third Man Records
+
 ## concerts
 - Overton Park Shell (June 1)
 

@@ -6,5 +6,9 @@
 
 ## artists
 - David Bowie
+- Lana Del Rey
+- M.I.A.
+- T-Rex
 - Tim Buckley
+- Trip Shakespeare
 

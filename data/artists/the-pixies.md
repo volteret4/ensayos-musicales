@@ -16,11 +16,15 @@
 - Alt Rock
 - Alternative
 - Alternative rock
+- Avant-garde
+- College Rock
+- Experimental
 - Experimental Noise
 - Indie
 - Low-fi American alternative music
 - Nerd Rock (associated)
 - New Rock
+- Post-punk
 - Powerpop (in DNA)
 - Surf (subtle influence)
 
@@ -38,12 +42,16 @@
 - Fender Telecaster
 
 ## albums
+**Do Little (1989)** : This album, released in 1989, is today considered a classic of Alt Rock. At the time, the band struggled to find an American label to release it, so they went through the British label 4AD, which specialized in experimental and avant-garde post-punk. "Back then, they couldn't find anyone in America to release it so they had to go through 4AD, the British label which specialized in experimental and avant-garde post-punk." ← https://www.youtube.com/watch?v=xdn31jMOOA4
 **Doolittle (1989)** : This album, released in 1989, featured the song "Monkey Gone to Heaven." The Pixies' music on this album, coupled with their general interest in strange things like science fiction and astronomy, and frontman Black Francis's non-stereotypical rock star appearance, made them influential on future geeky bands. "This is Monkey Gone to Heaven from their greatest album, 1989's Doodle." ← https://www.youtube.com/watch?v=h6snk0m4200
 **Indie Cindy (2014) – Reunion Album** : This album, released in 2014, features the song "Bag Boy." "The pixies with beg boy from my 2014 album entitled Indy Cindy." ← https://www.youtube.com/watch?v=Z7glrAoXtkA
 **Surfer Rosa (1988) – Debut Album** : The debut album by The Pixies is titled *Surfer Rosa*, which directly references surf culture and the band's subtle surf influences. "The name of the Pixies debut album is Surfer Rosa." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
+**Trompe le Monde (1991)** : The Pixies released "Trompe le Monde" in 1991, adding to the year's significant musical output. "The Pixies came out with Trump Lamont" ← https://www.youtube.com/watch?v=Rf1tFWQg51Y
 
 ## songs
 **Bag Boy (2014)** : This song is from The Pixies' 2014 album *Indie Cindy*. "The pixies with beg boy from my 2014 album entitled Indy Cindy." ← https://www.youtube.com/watch?v=Z7glrAoXtkA
+**Debaser** : During their performance at the Reading Festival in the UK in 1990, the crowd singing along to "Debaser" greatly inspired Perry Farrell, leading him to create Lollapalooza. "the crowd singing along to the Pixies as they played their song Debacer." ← https://www.youtube.com/watch?v=Rf1tFWQg51Y
+**Debaser (1989)** : This song from their 1989 album "Do Little" played a pivotal role in inspiring Perry Farrell to create Lollapalooza. Farrell witnessed 30,000 people jumping and screaming to "Debaser" at the 1990 Reading Festival in England, prompting his vision for a similar festival experience in America. "He saw 30,000 kids jumping up and down, screaming their brains out to Debacer by the Pixies." ← https://www.youtube.com/watch?v=xdn31jMOOA4
 **Debaser (Year Unknown)** : During The Pixies' headlining set at the 1990 Reading Festival, this song prompted over 30,000 fans to sing and scream along with Black Francis. The intense crowd reaction to "Debaser" was a key inspiration for Perry Farrell in conceiving the Lollapalooza Festival. ← https://www.youtube.com/watch?v=Z9T9wi0vEvc
 **Monkey Gone to Heaven (1989)** : Featured on their "Doolittle" album, this song exemplifies The Pixies' style. The band, originating from the University of Massachusetts, had members with unusual interests, such as one who moonlighted as a professional magician, and their songs often showed an interest in science fiction and astronomy, contributing to their nerdy image. "This is Monkey Gone to Heaven from their greatest album, 1989's Doodle." ← https://www.youtube.com/watch?v=h6snk0m4200
 
@@ -66,6 +74,9 @@
 **Influence on Damon Albarn (1997)** : The Pixies were among the low-fi American alternative bands that captivated Damon Albarn of Blur by 1997, playing a role in his shift away from Britpop and inspiring Blur's self-titled 1997 album. "Damon had become fascinated by low-fi American alternative music from bands like Pavement and The Pixies." ← https://www.youtube.com/watch?v=vzyMSSlD7Yg
 **Inspiration for Lollapalooza** : Perry Farrell, who attended the 1990 Reading Festival with Jane's Addiction, witnessed The Pixies' performance and the fervent crowd reaction to songs like "Debaser." This scene, with 30,000 fans singing along, was the decisive factor that convinced Farrell his idea for an annual North American festival (Lollapalooza) could succeed. ← https://www.youtube.com/watch?v=Z9T9wi0vEvc
 **International Label Deal** : Unable to find an American label interested in their experimental noise, The Pixies were initially signed by 4AD, an adventurous indie label based in the UK. "As they couldn't find an American label interested in their brand of experimental noise, the group was first picked up by 4AD, that adventurous indie label out of the UK." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
+**Limited Fanbase, Major Influence** : Despite not having a large fanbase at the time, The Pixies were highly regarded by influential figures. One such figure was Perry Farrell, founder of Jane's Addiction, who found them amazing and was inspired by their live performance at the Reading Festival. "But there were a few key people who thought they were amazing." ← https://www.youtube.com/watch?v=xdn31jMOOA4
+**Musical Influence on Matthew Good** : The Pixies were a significant influence on Matthew Good's songwriting, particularly in their approach to the bass guitar. He noted their use of the bass as a "straight A instrument" that moved in steps, which contrasted with the more melodic bass lines of 60s and 70s music he also admired. "But also someone that was massively influenced by bands like The Pixies and the Replacements and Afghan Wigs and that kind of things. It was a straight A instrument." ← https://www.youtube.com/watch?v=--g0gugy3ZE
+**Origin as College Rock Band** : The Pixies were cited as an example of a band that, similar to R.E.M., started out as a "college rock band." This designation described music popular on campus radio stations during a period when the broader terms "alternative" and "Indie" were less established. "REM, for example, began as a college rock band, sort of the pixies." ← https://www.youtube.com/watch?v=Z8BTWo66SDI
 **Post-Breakup Careers and Challenges** : Following the breakup, members pursued diverse paths: Black Francis became Frank Black, releasing solo albums; Kim Deal transformed her side project, The Breeders, into a full-time band with her sister Kelly (who later faced legal issues after being busted for heroin); drummer David Lovering became "the scientific phenomenalist," a magician, but struggled financially; and guitarist Joey Santiago found success as a composer for TV and film, contributing to shows like "Weeds." "Everybody scattered. Black frances renamed himself Frank Black and released a string of solo albums, Kim Deel remade the breeders, her Pixies side project, into a full-time thing with her sister Kelly." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
 **Post-Reunion Activity** : The Pixies have remained together following their reunion in 2004. "The pixies. They're still together after their 2004 reunion." ← https://www.youtube.com/watch?v=Z7glrAoXtkA
 **Producer Gil Norton's Work** : Gil Norton, who was initially the first producer on The Strokes' debut album project, was known for his previous work with The Pixies. Despite his reputation, The Strokes found his output for their album "too pretentious," leading to his replacement. "The first producer on the project was Gil Norton, known for his work with The Pixies." ← https://www.youtube.com/watch?v=jEfofyobGiI

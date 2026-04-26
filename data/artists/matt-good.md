@@ -1,5 +1,8 @@
 # artist - Matt Good
 
+## member of
+- Matthew Good Band
+
 ## curiosities
 **David Gen Collaboration** : David Gen, who co-wrote the song "Make the Leave" for Ian Thorneley's "Tiny Pictures" album, also worked with Matt Good. ← https://www.youtube.com/watch?v=QIA7V4PxCdM
 **Edgefest Performer** : Matt Good was one of the Canadian artists who performed at Edgefest during its national run from 1997 to 1999, which primarily showcased Canadian talent. "Arlady Pieces, I'm other Earth, finger-11, gobslone, Matt Good." ← https://www.youtube.com/watch?v=U2kYleeMnl8

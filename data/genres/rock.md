@@ -10,6 +10,7 @@
 **1970s Canadian Talent Boost** : Cancon rules in the 1970s significantly boosted Canadian rock talent, including bands like Rush, April Wine, The Guess Who, and Triumph, turning them into Canadian success stories. "Just on the rock side, we had Rush, April Wine, the Guess Who, Triumph, Crobar, Teenage Head, Max Webster, Chilowac, FM, Saga, and a foot-and-cold water." ← https://www.youtube.com/watch?v=U2kYleeMnl8
 **Album as New Playground (1960s)** : By the 1960s, the rock album became a new creative outlet for artists who sought to break free from the limited capacity of the 7-inch single, exemplified by The Beatles' concept albums. "The album became this new playground for artists who didn't like being restricted by the meager capacity of the 7-inch single, the Beatles especially." ← https://www.youtube.com/watch?v=GES0Ms_kaCI
 **American Truck Enthusiasts' Preference** : Rock was identified as the favorite genre for American truck enthusiasts, accounting for 21% of preferences among drivers of F-150s, Rams, and Hummer vehicles. "We learned that the favorite genre of American truck enthusiasts is rock, 21%." ← https://www.youtube.com/watch?v=KtdIMNoHqA8
+**Audio Testing** : Rock music was among the various genres rigorously tested by Bernhard Grill during the development of the MP3 compression software. This extensive testing aimed to ensure the algorithm's effectiveness across a wide range of musical complexities. "He tried every form of music. Rock, metal, funk, jazz, classical, pop, everything but rap because he hated rap." ← https://www.youtube.com/watch?v=v7DXXu_1fvM
 **Birth from Collision of Genres (1950s)** : Rock music originated in the 1950s from the blending of several genres, specifically blues, R&B, country, and hillbilly music. "rock music was born out of a collision between blues, R&B, country, and hillbilly music back in the 1950s." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 **Broad Genre Stocked in Early Stores** : Rock was one of the many genres stocked in small record displays at various retailers, including furniture stores, department stores, and drug stores, in the early days of record selling. Stores had to stock a wide range to cater to diverse tastes. "They had to stock a wide range of genres, rock, pop, country, and plenty of those instrumental albums that were supposed to be good for moon music for older people." ← https://www.youtube.com/watch?v=jD1dWxNLvfE
 **Canadian Radio Support (Early 2000s)** : In the early 2000s, Canadian radio was "playing rock music," with multiple stations across the country supporting rock bands like Billy Talent. This environment, combined with high rotation on MuchMusic, greatly contributed to the band's initial success in Canada. "it was at the time where radio was playing rock music and there was multiple stations across across the country that were playing us." ← https://www.youtube.com/watch?v=GT_u0eFDlk8
@@ -33,6 +34,7 @@
 **Dominance in Canada** : Despite hip hop being the dominant global music form, rock remains the number one genre in Canada, especially when factoring in concert ticket sales, followed by pop, then hip hop and R&B combined. This indicates that "rock is not dead." "I will tell you that the United States is the biggest hip hop, sorry, the biggest music market in the world. So we tend to believe whatever comes out of the US if you were to look at Canada and Canada alone and take into account things like concert ticket sales. Rock is by far and away the number one genre in Canada, followed by pop, followed by hip hop and R&B." ← https://www.youtube.com/watch?v=4xxgPX-aR90
 **Dominant in the 1990s** : The 1990s were identified as the "last decade where rock ruled everything" and where it was the "dominant form of music." "The last decade where rock ruled everything. ... the 90s were the last decade where rock was the dominant form of music." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
 **Early Categorization (1955)** : In 1955, "rock" was one of the four main categories for popular music, making it easy to classify mainstream music. As rock and roll grew, it fragmented over the years, leading to the necessity of specifying subgenres within rock. "In the beginning, and I'm talking about, about 1955, it was easy to categorize popular music. There was rock, pop, country, and R&B." ← https://www.youtube.com/watch?v=hstJ8M2laho
+**Early Drummers' Influences** : Chad Smith of the Red Hot Chili Peppers initially followed the lead of prominent rock bands such as Black Sabbath, The Rolling Stones, The Beatles, The Who, and Led Zeppelin, establishing himself as a straight-ahead rock drummer early in his career. "And at first he was a straight ahead rock guy, following the lead of Black Sabbath and the Stones and the Beatles, the Who and Led Zeppelin." ← https://www.youtube.com/watch?v=WL3zEWJJNuw
 **Early Package Tours (1950s)** : In the 1950s, the early days of rock music, package tours became the most efficient and cost-effective method to send acts on tour, bundling multiple artists together with often a common backing band and on-site PA equipment. "In the early days of rock, and we're talking the 1950s here, the most efficient and cost-effective way to put acts on tour was to bundle them together as a package and put them all out on the road together at the same time." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
 **Early Singular Form** : In the early days, exemplified by Elvis, rock was a "pretty singular thing" before it began to diversify. "Back in the days of Elvis, rock was a pretty singular thing." ← https://www.youtube.com/watch?v=evlGhfUe6QQ
 **Eclipsed by Hip Hop** : Rock music, after being the leading form of music for 50-60 years since the 1950s, has now been eclipsed by hip hop as the driving force in popular culture. "Now rock has been eclipsed by hip hop. That is now the driving force in popular culture." ← https://www.youtube.com/watch?v=Z7glrAoXtkA
@@ -46,6 +48,7 @@
 **FM Radio Growth (1960s)** : The rock LP fostered the growth of FM radio, as DJs on these stations, which had less commercial pressure, could play longer album tracks. "The rock album also gave rise to FM Radio, this new medium that allowed the DJs to play longer tracks than they did on AM radio." ← https://www.youtube.com/watch?v=GES0Ms_kaCI
 **Few Black Solo Performers** : Historically, rock music has seen relatively few big-name black solo performers, with Jimi Hendrix being the most famous, followed by Lenny Kravitz. "Rock has not seen many big name black solo performers." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 **Fragmentation and Segmentation (2010s)** : The 2010s saw an explosion of new genres, sub-genres, and even sub-sub-sub-sub-sub-sub-genres within rock, driven by new ideas, creative cross-pollination, and new technology. "In the 2010s, we saw an explosion of new genres and sub-genres and sub-sub-genres and even sub-sub-sub-sub-sub-sub-genres all heated by new ideas, creative cross-pollination, and new technology." ← https://www.youtube.com/watch?v=sOU54d8mr5k
+**Fragmentation in 1980s** : Rock music began to fragment significantly around 1980, leading to the emergence of new terms like "alternative." "alternative dates back to at least 1980, a time when rock was really starting to fragment." ← https://www.youtube.com/watch?v=__7iEl3lH8g
 **Front-of-Stage Crush** : A major cause of death at rock concerts, "front of stage crush" occurs when the crowd surges forward towards the barrier separating the audience from the stage. This can result in people being crushed against the barricade or each other, falling and being trampled, or in cases of "crowd collapse," where many people suddenly go down. "This is when the crowd surges forward to the barrier separating the audience from the stage." ← https://www.youtube.com/watch?v=7v1REnqKuXE
 **Fusion with Rap Vocals** : Faith No More was noted for being one of the first rock bands to successfully blend heavy guitars with rap-style vocals. "They were one of the very first rock bands to realize that heavy guitars could be mixed with rap style vocals." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
 **German Post-War Identity** : After World War II, young German musicians were determined to create a form of rock that was distinct from what was being made in the UK and America, specifically rejecting traditional German music tainted by the Nazi legacy. Their goal was a new, different sound that moved away from the status quo. "Many were into rock, but they were determined to create rock that was different from what was being made in the UK and America." ← https://www.youtube.com/watch?v=ePZDkqLM_gw
@@ -54,6 +57,7 @@
 **Heavy Metal as a Subgenre** : Heavy metal developed as one of the largest subgenres of rock, characterized by its loud and heavy guitar-driven sound, with bands like Led Zeppelin, Black Sabbath, and Deep Purple pioneering the style. "One of the biggest subgenres of rock is Heavy Metal." ← https://www.youtube.com/watch?v=D8GU8ZpSgY8
 **Historical Racist Criticism** : Rock was targeted in a British newspaper review which described it as deplorable and tribal, originating from America and stemming from the "jungle," suggesting it might be "the Negro's revenge." This criticism also linked rock with other genres like ragtime, blues, jazz, hot cha-cha, and boogie-woogie under the same racist condemnation in 1956. "It follows ragtime, blues, jazz, hot cha-cha, and the boogie-woogie, which surely originated in the jungle. We sometimes wonder whether this is the Negro's revenge." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
 **Historical Segmentation (1950s onwards)** : Rock music began to segment, stratify, and separate almost from its inception in the 1950s. Initially, music genres were fairly easy to navigate, primarily consisting of rock, pop, R&B, and country. However, as more people contributed to these sounds, each genre evolved and subdivided into distinct but related new forms. "Rock began to segment, stratify, and separate from the moment it was born in the 1950s." ← https://www.youtube.com/watch?v=vJszsJQpINQ
+**Historical UK Christmas Number One Challenge** : For several years in the 2000s, the UK Christmas singles chart number one spot was dominated by TV talent show winners or novelty tracks. This trend meant that no genuine rock song had reached the top since Queen's 1991 reissue of "Bohemian Rhapsody," until Rage Against the Machine's "Killing in the Name" broke the streak in 2009. "There hadn't been a genuine rock song to finish at number one since the reissue of Queen's Bohemian Rhapsody in 1991." ← https://www.youtube.com/watch?v=uEe_HLUay5M
 **Impact of Guitar Sales Decline** : A significant drop in electric guitar sales during the 2010s, reported by the Washington Post in 2017 to be down by a third to about a million per year in the US, raised questions about whether fewer young people were interested in making rock music. Major manufacturers like Gibson and Fender faced debt, and Guitar Center filed for bankruptcy in 2020. "Did rock struggle for attention in the 2010s because fewer people are interested in making it?" ← https://www.youtube.com/watch?v=5Y6nHw5xx88
 **Impact of Short Attention Spans on Songwriting** : The changing nature of music, driven by shrinking attention spans in the streaming era, is particularly detrimental to rock songs, which traditionally feature longer instrumental buildups that are now being eliminated to capture listener attention within the first 30 seconds. "No more long buildups. Really bad thing for rock songs when you think about it, right?" ← https://www.youtube.com/watch?v=Z7glrAoXtkA
 **Inability to Rebound Post-2000** : The recorded music industry has largely failed to create new superstar rock acts since the turn of the century, contrasting with previous decades when numerous rock bands could fill arenas and stadiums. This decline is attributed to the breakdown of old industry models, which prioritized physical music sales and allowed for longer artist development. "The recorded music industry has done a terrible job of creating new superstar acts since the beginning of the century." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
@@ -66,7 +70,9 @@
 **Limited Marketing and Algorithm Suppression** : In the streaming era, as record labels increasingly invested marketing and promotional dollars into pop and hip hop due to their higher streaming numbers, rock music received far less attention. This, combined with algorithms that tamped down rock songs because they weren't streamed as much, contributed to the genre's struggle. "Meanwhile, rock and country got far less marketing and promotional attention than they used to contributing to their struggle." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
 **Liner Notes Golden Age (Mid-1960s)** : By the mid-1960s, as LPs became the dominant format for rock music, liner notes entered a "golden age," providing rich contextual material alongside the music and artwork. This trend was notably influenced by albums like Bob Dylan's "Highway 61 Revisited," which featured distinctive, engaging liner notes. "By the mid-60s, LPs were starting to become the format of choice for all types of music, including rock." ← https://www.youtube.com/watch?v=KaIp6KVn-co
 **Loss of Dominance in 21st Century** : In the 21st century, rock is "no longer the main musical driver of popular culture," with hip hop surpassing it, although its appeal has not necessarily shrunk. "we have to admit that it is no longer the main musical driver of popular culture. It just isn't. Hip hop is king." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
+**Major Type of Popular Music (Pre-1977)** : Prior to 1977, rock was considered one of the few major types of popular music, alongside pop, country, and R&B, under which all music could be broadly grouped. "Up until about 1977 there were only a few major types of popular music. You had pop, you had rock, you had country, and R&B." ← https://www.youtube.com/watch?v=__7iEl3lH8g
 **Male Domination in History** : The vast majority of rock history has been "a very male thing," with a common prejudice that girls "just couldn't rock" and were "built wrong," a notion that took a long time to overcome. This historical context set the stage for movements like Riot Grrrl. "There's no question that the vast majority of rock history involves dudes. It's been a very male thing" ← https://www.youtube.com/watch?v=Qss5kC2FUx0
+**Mid-1970s Rule-Bound Nature** : By the mid-1970s, much of the rock genre had become highly structured and rule-bound, prescribing specific methods for musical creation. "By the time we got to the mid-1970s, most of Rock had organized itself so that there were rules. You did things this way and not that way." ← https://www.youtube.com/watch?v=zSFhhEaiYwE
 **Mid-1980s Canadian Scene Development** : By the mid-1980s, Canadian rock had established a strong presence, with artists like Rush, April Wine, BTO, Loverboy, Triumph, and Bryan Adams achieving significant domestic and international album sales, some going multi-platinum abroad. "By the time we got to the middle 80s, there was a feeling that Canada really had something going on when it came to rock." ← https://www.youtube.com/watch?v=U2kYleeMnl8
 **Mid-2000s Dominance and Late-2000s Decline** : Rock held a dominant position roughly between 2004 and 2008, but then the music cycle shifted, leading to a decline in its power and societal influence by the end of the 2000s. This decline allowed for other genres, like teen pop, to take focus. "As we saw, rock had been on top for years, maybe 2004-2008, but then the cycle began to turn." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Mid-60s Political and Social Engagement** : By the mid-1960s, rock music had become deeply immersed in political and social protest. This shift was largely driven by significant contemporary movements and events, including the civil rights movement, the women's rights movement, the burgeoning drug culture, and especially the Vietnam War. During this period, there was a widespread belief that Rock and Roll possessed the power to fundamentally change the world. "by the time we got to the middle 60s, Rock was steeped in political and social protest, thanks to the civil rights movement, the women's rights movement, drug culture, and especially the Vietnam War and all that went with it." ← https://www.youtube.com/watch?v=0ARYt4sYT90
@@ -76,6 +82,7 @@
 **Multiracial Contributions** : Despite its perceived whiteness, rock music's evolution has always involved and continues to involve multiracial contributions. "It also foretold of a world where we would see more multiracial contributions to this music." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 **Nickelback's Competence and Success** : Nickelback is described as a "very, very competent, solid rock band," having achieved immense success with millions of fans and over 50 million albums sold worldwide. "they are a very, very competent, solid rock band." ← https://www.youtube.com/watch?v=TsiYLGGSJ2U
 **Nostalgia Boom for Older Acts (2016 onward)** : The "Concert Nostalgia Boom" reflects a resurgence of interest in "heritage acts" or "legacy bands" from the 1960s, 70s, and 80s, who began touring again to very large audiences. Fans are willing to pay significant amounts to see these classic artists, driven by a desire to relive their youth. Promoters like Live Nation and AEG increasingly rely on these older acts to fill arenas and stadiums, as the recorded music industry has struggled to create a similar number of new stadium-filling artists. "Fans want to see these classic artists while they still can, and they're willing to pay for the privilege." ← https://www.youtube.com/watch?v=ZzIqIydZTlA
+**Origins in Late 40s and Early 50s** : Rock music's origins trace back to the late 1940s and early 1950s, when various musical traditions such as blues, rhythm and blues, western, country, folk, and hillbilly began to blend and evolve, eventually coalescing into what became known as rock and roll. "I think just about anyone with a passing knowledge of rock is aware of its origins back in the late 40s and early 50s, when blues, rhythm and blues, western, country, folk, and hillbilly traditions began to mix and match, eventually coalescing into what became known as rock and roll." ← https://www.youtube.com/watch?v=cuUF4MByxyo
 **Poets in Rock** : The text describes "poets in rock" as a rare phenomenon, citing Bob Dylan, Bruce Springsteen, Patti Smith, Jim Morrison, Bono, and Lou Reed as examples. It also mentions Joni Mitchell and Leonard Cohen as poets, though not strictly "rock" artists. "True poets speak to you in ways that no one else can. And poets in rock are a rare thing." ← https://www.youtube.com/watch?v=dnz_Ycd_q7s
 **Post-1978 Fragmentation** : After 1978, mainstream rock fragmented into numerous sub-genres, with people discussing metal, prog, folk rock, soft rock, country rock, blues rock, and punk, indicating a diversification of the genre. "Same thing with mainstream rock. People were now talking about metal and Prague and folk rock, and soft rock, and country rock, and blues rock, and of course, punk." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
 **Post-2000 Arena-Filling Bands Rarity** : It has become exceptionally difficult for rock bands to emerge since 2000 and achieve the status of arena headliners. Aside from a few exceptions like Arcade Fire, Muse, Linkin Park (though no longer active), and Jack White/The White Stripes, names quickly run out, making Imagine Dragons a rare success story from that era. "Name all the rock bands who have emerged since 2000, who are capable of filling an arena as a headliner today." ← https://www.youtube.com/watch?v=GmYlTwI_TQQ
@@ -109,6 +116,7 @@
 **Subtype Stratification** : Over decades, rock music extensively cleaved, separated, and stratified into "a million different subtypes," leading to an equal number of related subcultures. "Over the decades, rock music is cleaved and separated and stratified into a million different subtypes" ← https://www.youtube.com/watch?v=evlGhfUe6QQ
 **Surgeons' Most Popular Operating Music** : According to data from Spotify, the rock song "Rock You Like a Hurricane" by Scorpions is the most popular rock song played by surgeons while they are operating. The transcript also notes that this song is the 11th most popular song overall in this context. "And according to Spotify, the most popular rock song played by surgeons while their operating is rock you like a hurricane from the scorpions. This is the 11th most popular song." ← https://www.youtube.com/watch?v=aSk1XQHNkd8
 **The Trews' Early Repertoire** : In their early days, The Trews played a lot of "just rock stuff" in their extensive cover sets, alongside R&B and other genres, which contributed to their development as a rock band. "We do like James Brown and the Black Cros and just like a lot of just rock stuff, you know." ← https://www.youtube.com/watch?v=3zbKOwkpkAM
+**Three Days Grace Radio Dominance (2007)** : In 2007, no rock band received more radio airplay across all of North America than Three Days Grace, highlighting their significant presence and popularity within the rock genre. "In 2007, no rock band received more radio airplay across all of North America than three days grace." ← https://www.youtube.com/watch?v=CyTI00SIrLE
 **Traditional Instrumentation** : For a long time, the foundational sounds of rock music were predominantly created using vocals, guitars, bass, drums, and traditional keyboards such as piano and organ. These instruments formed the core of the genre's sonic palette. "For the longest time, the sounds of rock were made with voice guitars, bass, drums and keyboards like piano and organ." ← https://www.youtube.com/watch?v=5PJRCC6EwUY
 **Transcendent Experience** : At its best, rock music offers a transcendent experience, providing an escape from the ordinary through elements like fantasy, costuming, makeup, visuals, theatrics, sci-fi, sex, horror, shock, occult themes, exaggeration, and sexual ambiguity. "At its very best, Rock is a transcendent experience. Something that takes us away from the ordinary and the normal and the safe." ← https://www.youtube.com/watch?v=blDNqVFheAw
 **Transition from Punk Sound** : Billy Talent's third album, "Billy Talent 3," was described by the band as "our rock record," signifying a deliberate shift in sound from their previous two albums, which were categorized as "punk records." This marked an effort to expand their musical identity. "it was kind of our rock record where the first two were more of a punk record." ← https://www.youtube.com/watch?v=GT_u0eFDlk8
@@ -123,18 +131,22 @@
 - Aerosmith
 - Anberlin
 - Andrea Hogan (Hügellands Roondance)
+- Arcade Fire
 - Bakar
 - Beastie Boys
+- Big Wreck
 - Billy Talent
 - Blockade P's
 - Bobby Jean Hall
 - Body Count
+- Brian Ferry
 - Bush
 - Captain Beefheart
 - Cheap Trick
 - Chris Cornell
 - Chrissie Hynde
 - Cindy Blackman Santana
+- Clannad
 - Coldplay
 - Creed
 - D.H. Peligro
@@ -149,19 +161,24 @@
 - Fanny
 - Foo Fighters
 - Gerbrieth
+- Glüleg
 - Gord Downie
 - Green Day
 - Grisfolk
 - Guns N' Roses
+- Halsey
 - Happy Guys
 - Hassel Adkins
 - Ice-T
 - Imagine Dragons
 - Interpol
 - Iron Maiden
+- Jane's Addiction
 - Jars of Clay
 - Jody Linscott
+- Kid Rock
 - Kiss
+- Lana Del Rey
 - Led Zeppelin
 - Lenny Kravitz
 - Limp Bizkit
@@ -169,6 +186,8 @@
 - Linkin Park
 - Little Richard
 - Lou Reed
+- Lowest of the Low
+- M.I.A.
 - MC5
 - Menza Droppo
 - Metallica
@@ -178,6 +197,7 @@
 - P.O.D.
 - Patti Smith
 - Pearl Jam
+- Queen
 - Queens of the Stone Age
 - Quixonic
 - Radiohead
@@ -186,16 +206,19 @@
 - Red Hot Chili Peppers
 - Run DMC
 - Sixpence None the Richer
+- Sloan
 - Sly Stone
 - Southern Culture on the Skids
 - Staggered Crossing
 - Stone Temple Pilots
 - System of a Down
+- Tegan and Sarah
 - The Beach Boys
 - The Beatles
 - The Byrds
 - The Cure
 - The Fugs
+- The Happy Guys
 - The Hives
 - The International Noise Conspiracy
 - The Kinks
@@ -211,12 +234,16 @@
 - The Trews
 - The Tweeds
 - The Velvet Underground
+- The Waterboys
 - The White Stripes
 - The Who
+- Thin Lizzy
 - Thread
 - Three Days Grace
+- Three Doors Down
 - Tin Machine
 - Tina Turner
+- Tool
 - Tori Amos
 - Tune-Yards
 - U2

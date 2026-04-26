@@ -1,8 +1,9 @@
-# genre - Canadian Rock
+# genre - Canadian rock
 
 ## curiosities
-**1990s Renaissance/Revolution** : The early 1990s marked a "Canadian rock Renaissance" or "revolution," where bands like The Headstones, The Tragically Hip, Our Lady Peace, I Mother Earth, Moist, and Sloan simultaneously emerged. This movement helped correct the widespread perception that Canadian music was substandard, fostering fierce nationalistic pride and demand for Canadian artists, with The Tragically Hip serving as a unifying force. "So this is 92 93. So we're at the beginning of this this Canadian rock Renaissance or this can rock revolution." ← https://www.youtube.com/watch?v=y7kmkWJ54ww
+**Biff Naked's Independence** : Biff Naked is noted as one of the most fiercely independent women in the history of Canadian rock. "Biff naked, one of the most fiercely independent women in the history of Canadian rock." ← https://www.youtube.com/watch?v=NQgn0_mUh74
 
 ## artists
-- USS
+- Biff Naked
+- The Headstones
 

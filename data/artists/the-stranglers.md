@@ -1,12 +1,14 @@
 # artist - The Stranglers
 
 ## members
+- David Greenfield
 - Jean-Jacques Burnel
 - Jean-Jacques Burnel (JJ Burnel)
 
 ## genres
 - British band
 - New Wave of New Wave
+- Punk
 
 ## concerts
 - **The Roundhouse (July 4th, 1976, London)** : The Stranglers opened the night at this significant Ramones gig, which introduced US-style punk rock to England and served as a catalyst for the British punk scene. "The stranglers started the night"
@@ -29,11 +31,13 @@
 ## curiosities
 **Aggressive Bass Sound** : Jean-Jacques Burnel achieved a unique, growly and aggressive sound by using a pick, playing very close to the guitar's bridge, and driving his amplifier into distortion territory. This approach redefined the role of a bass player within a band. "And to get that growly song, he played very close to the guitar's bridge and drove his amplifier into distortion territory." ← https://www.youtube.com/watch?v=kbFfT0pKchI
 **Band Formation and Royalty Settlement** : Formed in 1974, this British band later noticed a strong similarity between their 1977 song "No More Heroes" and Elastica's song "Waking Up." This similarity resulted in The Stranglers being awarded a piece of the royalties from Elastica's first album, which was described as an actual case of "theft." "British band that was formed in 1974, noticed that the Elastica song Waking Up sounded awfully like one of their songs from 1977 called No More Heroes." ← https://www.youtube.com/watch?v=L09R2evjyMc
+**Beginning of Recordings** : Following the Sex Pistols' notorious TV appearance and the subsequent surge in punk rock's popularity, The Stranglers began to record. "The stranglers began to record." ← https://www.youtube.com/watch?v=wYuNolSDLFM
 **Formation (1974)** : The Stranglers are a British band formed in 1974. "The Stranglers, a British band that was formed in 1974." ← https://www.youtube.com/watch?v=4cZfegexwwk
 **Influence on "New Wave of New Wave"** : The Stranglers were a significant inspiration for groups associated with the "new wave of new wave" movement in the early 1990s, who drew inspiration from the 1977-1980 period. "They were wild about groups like [...] the Stranglers." ← https://www.youtube.com/watch?v=9CNNsqXiL6U
 **Jean-Jacques Burnel – Classical Guitar Training Applied to Aggressive, Melodic Bass** : Jean-Jacques Burnel came to the bass with a classical guitar background and developed melodic yet aggressive bass lines, using a pick and distortion effects. His approach redefined the instrument's role within his band. "With classical guitar training, he developed melodic but aggressive bass lines using a pick and distortion." ← https://www.youtube.com/watch?v=95clNVd0hYg
 **Jean-Jacques Burnel's Background** : Jean-Jacques Burnel, though not always technically precise, was trained on the classical guitar, which influenced his tendency towards more melodic bass lines. "He was trained on the classical guitar. This explains two things. His bass lines tended to be more melodic." ← https://www.youtube.com/watch?v=kbFfT0pKchI
 **Lawsuit against Elastica** : The Stranglers sued Elastica for reportedly taking elements from their old songs. "another time by the Stranglers for nicking bits of their old songs." ← https://www.youtube.com/watch?v=9CNNsqXiL6U
+**Older Than Punk Contemporaries** : This British band, which rose to prominence during the original punk era of the 1970s, had members who were generally older than most of their punk peers, with most being in their middle to upper 20s when the band gained traction. "A strangler's, the fierce British band who blew up during the original punk era of the 1970s, were a few years older than most of their punk contemporaries." ← https://www.youtube.com/watch?v=P45lJTdneoI
 **Opening for The Ramones (July 4, 1976)** : The Stranglers were one of the two bands on the bill opening for The Ramones at the Roundhouse in Camden, London, on July 4, 1976. They started the night's performances. "The stranglers started the night and the official headliners were a group called the Flamen Groovies." ← https://www.youtube.com/watch?v=huAvyInzz3Q
 **Shared London Gig** : Joy Division performed a show with The Stranglers at a London venue called the Rainbow on April 4, 1980, during which Ian Curtis suffered three attacks in the first five songs and later collapsed entirely. "On April 4, 1980, during a show with the stranglers at a London venue called the Rainbow, Ian suffered three attacks during the first five songs of the set before collapsing entirely." ← https://www.youtube.com/watch?v=1VWJ0uCQx8w
 

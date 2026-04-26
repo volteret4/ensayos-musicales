@@ -5,6 +5,7 @@
 - EMI
 
 ## curiosities
+**Beatles Producer Death in 2016** : George Martin, the renowned producer for The Beatles, was among the notable music industry figures who died in 2016, a year characterized by significant losses of musical icons. "David Bowie, Prince, Glen Fry of the Eagles, two members of the Jefferson Airplane, Matt Roberts of Three Doors Down, George Michael, Beatles producer George Martin, Keith Emerson and Greg Lake of Emerson, like in Palmer, Maurice White of Earth Wind and Fire and dozens more." ← https://www.youtube.com/watch?v=ewnAgd7fTQw
 **Contractor for The Beatles** : After leaving EMI, George Martin was hired back by The Beatles to continue his production work with them, but this time as an independent contractor, not an EMI employee. "The Beatles then hired him back and he continued to work with them as a contractor, not as an employee of EMI." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
 **Custom 56-Track Console** : Air Studios on Oxford Street featured a specialized 56-track recording console that was custom-made specifically for George Martin. "There was a 56 track recording console that was custom made just for George." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
 **Death (March 8, 2016)** : George Martin, known as the Beatles' producer, died on March 8, 2016, at 90 years old. "March 8th, Beatles producer George Martin. He was 90 years old." ← https://www.youtube.com/watch?v=sOU54d8mr5k

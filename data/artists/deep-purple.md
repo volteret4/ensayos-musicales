@@ -9,6 +9,9 @@
 - Album Rock
 - Heavy Metal (credited with popularizing)
 
+## concerts
+- Live 8 (Canadian show)
+
 ## instruments
 - Hammond B3
 
@@ -21,4 +24,5 @@
 ## curiosities
 **Musical Background** : Deep Purple was part of the "album rock" genre that the speaker grew up listening to after an album rock station became available in his small town in 1978. "So Deep Purple, Van Halen, Led Zeppelin, ACDC, all that stuff. I was a dazed and confused rock guy who played in a metal trio." ← https://www.youtube.com/watch?v=4xxgPX-aR90
 **Pioneers of Heavy Metal (Mid-1970s)** : Deep Purple is cited as one of the influential bands whose "loud, heavy guitar rock" sound contributed to the definition and popularization of the heavy metal genre starting in the mid-1970s. "But once heavy metal was introduced into the music vernacular, other people began to pick it up and use it to describe a new wave of loud, heavy guitar rock as groups like Led Zeppelin, Black Sabbath, and Deep Purple began their rise." ← https://www.youtube.com/watch?v=D8GU8ZpSgY8
+**Sampled in a Single Song (Year not specified)** : Deep Purple is mentioned as one of the artists whose material was sampled in a single song that featured 20 separate samples. All artists involved, including Deep Purple, received a "little piece of it," indicating a licensing framework was in place for this particular use. "This one single features 20 separate samples and all the artists involved from the comedorist Deep Purple, James Brown and the suite got a little piece of it." ← https://www.youtube.com/watch?v=ak6OuOUkRrQ
 

@@ -5,5 +5,6 @@
 
 ## artists
 - Portishead
+- Skinny Puppy
 - Tune-Yards
 

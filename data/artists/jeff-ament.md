@@ -1,6 +1,7 @@
 # artist - Jeff Ament
 
 ## member of
+- Green River
 - Mookie Blaylock
 - Mother Love Bone
 - Pearl Jam

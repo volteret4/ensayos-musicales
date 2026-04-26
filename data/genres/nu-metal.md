@@ -1,13 +1,5 @@
-# genre - Nu Metal
+# genre - Nu-metal
 
 ## curiosities
-**Dominance and Polarization (Late 1990s)** : In the late 1990s, Nu Metal became the dominant genre in rock, following the fading of earlier alt-rock movements like grunge and Britpop. This scene was highly polarizing, contributing to widespread dissatisfaction among many rock fans who felt the music being made was unappealing. "New metal ruled. And as we saw in chapter 13, that scene was very, very polarizing." ← https://www.youtube.com/watch?v=-CT7yYXonIk
-**Emergence from Genre Blending** : The intertwining of punk, funk, rap, hip hop, and metal by the end of the 1980s was identified as the precursor to the development of nu metal, which was expected to be a significant topic in future discussions of 90s alt-rock. "And who knew that in a few years would be talking about this thing called new metal?" ← https://www.youtube.com/watch?v=PqOJ3YiFgYE
-**Judgment Night Soundtrack as Catalyst (1993)** : The 1993 *Judgment Night* soundtrack, featuring unprecedented collaborations between rock and hip-hop acts, served as a major catalyst for the creation of nu metal. This project, which brought together 11 diverse pairings, helped popularize the crossover of these genres and led to the widespread success of nu metal later in the 1990s. "In retrospect, this was a major catalyst for the creation of rap rock and new metal, two genres that would be very, very big later in the decade." ← https://www.youtube.com/watch?v=zIkjd1OjCXM
-
-## artists
-- Dry Cell
-- Korn
-- Slipknot
-- Stone Temple Pilots
+**Polarizing Sound** : Nu-metal emerged as a polarizing sound in the late 1990s, filling some of the void left by the decline of alternative rock. "the polarizing sound of new metal" ← https://www.youtube.com/watch?v=Q4dEV1yn3OY
 

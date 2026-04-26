@@ -19,4 +19,5 @@
 
 ## curiosities
 **Influence on Grunge** : Heart was a key influence, alongside Led Zeppelin and Black Sabbath, that crossbred with punk/hardcore in the Pacific Northwest to eventually become Grunge. This unexpected cross-pollination was a result of the unique touring challenges posed by the Rocky Mountains, which made it easier for bands to play local punk shows in the Seattle area than major touring acts. "And that's how it crossbred with Led Zeppelin and Black Sabbath and Hart. To eventually become Grunge, that would not have happened without the Rocky Mountains being in the way." ← https://www.youtube.com/watch?v=0qigzi1j81U
+**Nancy Wilson Collaboration** : Nancy Wilson of Heart was among the notable musicians who joined Taylor Hawkins on his Co-Tale Riders albums. Her contribution added to the project's broad musical scope and impressive roster of guest artists. "So did Nancy Wilson of Heart." ← https://www.youtube.com/watch?v=dD-VEcFpIFA
 

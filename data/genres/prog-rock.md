@@ -1,24 +1,8 @@
-# genre - Prog Rock
+# genre - Prog rock
 
 ## curiosities
-**1970s Excess** : By 1973, prog rock bands were perceived as aspiring to create "new forms of classical music" with excessive complexity and musical virtuosity. This grandiosity, coupled with the stadium rock trend, contributed to a sense that rock had "gone off the rails," prompting a desire for a "complete reboot" that punk rock would provide. "First, we had all these prog rock bands that seemed to aspire to creating new forms of classical music, lots of complexity, lots of musical virtuosity." ← https://www.youtube.com/watch?v=gkLMwrthZ9s
-**2112 as a Prog Rock Landmark** : Rush's album *2112* is a seminal example of Prog Rock, particularly its entire first side which is a continuous piece. It masterfully blends traditional Prog Rock elements with sci-fi themes to tell a complex narrative, drawing inspiration from Ayn Rand's *Anthem*. The album was a critical and commercial success, solidifying Rush's place in the genre. "The entire first side is absolutely brilliant. Prague Rock mixed with sci-fi with more of that 1937 Ayn Rand novel Anthem." ← https://www.youtube.com/watch?v=B0CZ1deEgic
-**Comparison to German Sound** : While early German rock (Krautrock) incorporated elements of prog rock, it was generally considered less pretentious and bombastic than the mainstream prog rock of the day, aiming for a subdued and semi-structured improvisational style. "It was artsy, but nowhere near as pretentious and bombastic as the Prague Rock of the day." ← https://www.youtube.com/watch?v=ePZDkqLM_gw
-**Complex Music Development** : Prog rock emerged from the 1960s era of hippies and drugs, leading to bands that created music so complex it resembled classical compositions. "Then comes Dylan, the hippies, and drugs, leading to everything from an explosion in garage bands to groups that make music so complex they might have well been classical musicians. That's prog." ← https://www.youtube.com/watch?v=pLf3kUONewg
-**Disconnected from Mainstream (1974)** : In 1974, Prog Rock, characterized by its "virtuoso performances," was a big genre but difficult for the average person to connect with. It was seen as part of the "bad shape" music was in, with millionaire rock stars living decadent lives disconnected from ordinary people. "There was Prague Rock with its virtuoso performances, that was a big thing, but it was hard for the average person to identify with that." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
-**Early Synthesizer Adoption** : In the 1970s, as synthesizer technology became more accessible, its experimental sounds began to integrate into prog rock. Bands like Emerson Lake & Palmer and Yes were among many in the genre dabbling with these new instruments. "These sounds worked their way into prog rock in the 1970s." ← https://www.youtube.com/watch?v=5PJRCC6EwUY
-**Growing Scene** : In the early 1970s, there was a growing progressive rock scene. However, artists like Jonathan Richmond, who preferred the rawness of bands like The Velvet Underground and The Stooges, actively opposed it, often yelling "I hate hippies" in Boston. "Instead of being into the beetles and the stones and the growing prog rock scene, Richmond preferred the strange rawness of the velvet underground and the stooges." ← https://www.youtube.com/watch?v=0xd0Hf5REg4
-**Hammond B3's Role** : The Hammond B3 organ was a favored instrument among numerous progressive rock players. Its distinctive sound and versatility, particularly when paired with a Leslie speaker, made it a staple in the genre. "Other players included John Lord of Deep Purple, Keith Emerson of Emerson Lincoln Palmer, Richard Wright of Pink Floyd, Tony Banks of Genesis, and a ton of other Prok Rock players." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
-**Historical Embrace of Concept Albums** : Progressive rock bands extensively utilized concept albums in the late 1960s and 1970s, often favoring increased complexity. "Prague rock bands were all over them, and the more complex the better." ← https://www.youtube.com/watch?v=1KyNY3zv6uc
-**Popularity in 1970s UK** : In the United Kingdom during the 1970s, Prog Rock was a highly popular genre. This created a strong market and an "appetite for artists who sounded and looked different," which was a favorable environment for emerging unique talents like Kate Bush. "Progrott was really hot in the UK at the time, and there was an appetite for artists who sounded and looked different." ← https://www.youtube.com/watch?v=clPuV7ezrIc
-**Post-1978 Rock Diversification** : Prog rock became a distinct category discussed within mainstream rock after 1978, reflecting the broader segmentation of music into more specific styles. "People were now talking about metal and Prague and folk rock, and soft rock, and country rock, and blues rock, and of course, punk." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
+**Jeff Buckley's Discovery** : Jeff Buckley discovered prog rock bands like Rush and Kiss early in his musical journey. "discovered rush and kiss and various prog rock bands." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
 
 ## artists
-- Emerson Lake & Palmer
-- Kate Bush
-- Led Zeppelin
-- Peter Gabriel
-- Rush
-- The Police
-- Yes
+- Jeff Buckley
 

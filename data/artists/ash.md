@@ -16,6 +16,7 @@
 
 ## songs
 **I Like Dogs (c. 1993)** : This was the first song Ash ever co-wrote, at the age of 13, with a friend who was "half Norwegian, half Sri Lankan." At the time, the G chord was the only one he knew how to play. "we wrote our first songs called I Like Dogs. The only chord I knew, G chord." ← https://www.youtube.com/watch?v=ayPJfDAF_to
+**Sick Party** : This track is notable for its unusual recording method, which reportedly involves recording the band members in a public washroom while they are vomiting. "There's a track out there called Sick Party, which involves recording the band in a public washroom vomiting. Seriously." ← https://www.youtube.com/watch?v=J_VEOIwavtg
 
 ## curiosities
 **Britpop Party Attendee** : Ash was listed among the bands that were part of the Britpop scene and received coverage during its peak. "Here's a list of some of the people at the Britpop party. ...Ash..." ← https://www.youtube.com/watch?v=5q5EnZj1FwE

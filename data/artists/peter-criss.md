@@ -2,4 +2,5 @@
 
 ## member of
 - KISS
+- Kiss
 

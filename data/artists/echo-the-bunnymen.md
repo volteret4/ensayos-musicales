@@ -1,18 +1,9 @@
-# artist - Echo & the Bunnymen
+# artist - Echo & The Bunnymen
 
-## genres
-- Neo-Psych
-- New Wave
-- Post-Punk
-
-## instruments
-- Drum machine
-- Korg Mini Pops Jr.
-- Roland TR-77
+## concerts
+- John Hughes Movies
 
 ## curiosities
-**"Echo" Drum Machine Name** : Echo & the Bunnymen initially relied on a small, affordable Korg Mini Pops Jr. drum machine, which sold for under $150. This unit eventually earned the nickname "Echo," which contributed to the band's own name. "It is the Echo in Echo in the Bunnyman." ← https://www.youtube.com/watch?v=dablAKDOOV0
-**Drum Machine Use** : Echo & the Bunnymen utilized a drum machine in their performances, rather than a flesh-and-blood drummer. This reflects a broader trend in the 1980s where electronic rhythm devices began to replace or augment traditional drummers. "The echo and echo in the bunny-man is actually a drum machine." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
-**Shift to Human Drummers** : As the band developed, the Korg Mini Pops Jr. (affectionately called "poor little Echo") was replaced by a human drummer. This human drummer then coexisted with another drum machine, the Roland TR-77. "But once the band got good enough, poor little Echo was ditched in favor of a human drummer, who by the way coexisted with another unit called the Roland TR-77." ← https://www.youtube.com/watch?v=dablAKDOOV0
-**Sire Records Signing** : Echo & the Bunnymen were signed by Seymour Stein to Sire Records, demonstrating his interest in new post-punk music from the UK and Ireland. Sire Records leveraged the "New Wave" term for marketing these bands in North America. "echoing the bunny-man." ← https://www.youtube.com/watch?v=9CNNsqXiL6U
+**John Hughes Film Exposure (1980s)** : Echo & The Bunnymen's music was included on the carefully selected soundtracks of John Hughes' 1980s films. These soundtracks were vital in introducing many people, particularly in North America, to a variety of alternative rock bands, especially those from the UK. "So many people learned of bands like The Specials and Spandovalet and Billy Idle and General Public and Wang Chung and Yellow and New Order and the Psychedelic Furs and the Smiths and Echo and the Bunyman, Susanne Vagan in excess the Jesus and Mary chain, Flesh for Luluo and so many others from those soundtrack albums." ← https://www.youtube.com/watch?v=zIkjd1OjCXM
+**Peele Sessions Recordings (70s, 80s, 90s)** : Echo & The Bunnymen (referred to as "Equivalent of the Buntyman") were part of the hundreds of bands that recorded "Peele Sessions" live at the BBC throughout the 70s, 80s, and 90s. These sessions were instrumental in allowing bands to be broadcast despite the BBC's "Needle Time" restrictions. "The Smiths, R.E.M., New Order, the Fall, Equivalent of the Buntyman, Susie the Banshee, the Bus Cox, the list is almost endless." ← https://www.youtube.com/watch?v=ak6OuOUkRrQ
 

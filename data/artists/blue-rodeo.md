@@ -9,6 +9,8 @@
 
 ## concerts
 - Edge Fest
+- Live 8 (Canadian show)
+- SARS-Stock (2003)
 
 ## curiosities
 **1990s Multi-Platinum Album Success** : Blue Rodeo, which started as an "old country band," saw all of its albums released in the 1990s achieve multi-platinum sales. "All their 90s albums went multi-platinum." ← https://www.youtube.com/watch?v=U2kYleeMnl8

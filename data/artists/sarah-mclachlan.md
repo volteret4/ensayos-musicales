@@ -7,6 +7,7 @@
 - Lilith Fair
 - Lilith Fair (1997-1999)
 - Lilith Fair (founder, performer)
+- Live 8
 
 ## instruments
 - Acoustic Guitar

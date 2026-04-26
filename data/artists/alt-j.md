@@ -1,16 +1,20 @@
-# artist - Alt J
+# artist - Alt-J
 
-## genres
-- Geek Rock
+## members
+- Tom Sonny Green
+
+## labels
+- Indie Labels
 
 ## albums
-**Relaxer (2017)** : This album features the song "3-W-W," which is an abbreviation for "three worn words." The song exemplifies Alt J's distinctive and often intellectually rich lyrical themes, which draw from a wide range of academic, literary, and cultural references. "Let's play this one from the 2017 album Relaxer." ← https://www.youtube.com/watch?v=h6snk0m4200
+**Relaxer (2017)** : This album, released in 2017, features the song "3WW," which stands for "three worn words." The band is known for its geeky song subject matter and its name derived from a Mac keyboard shortcut. "Let's play this one from their 2017 album Relaxer. It's called 3-W-W, which is short for three worn words." ← https://www.youtube.com/watch?v=8lQv8eMJ868
 
 ## songs
-**3-W-W (2017)** : Short for "three worn words," this song from the 2017 album "Relaxer" tells the story of a lovelorn young man on a walkabout. He thinks about a bronze statue of Juliet in Verona, Italy, whose chest is worn smooth due to the legend that rubbing it brings good luck in love, illustrating the band's rich and specific narrative approach. "It's called 3-W-W, which is short for three worn words, W-O-R-N words." ← https://www.youtube.com/watch?v=h6snk0m4200
-**Tessellate** : This song's title references a mathematical term for a plain surface covered by repeated use of a single shape without gaps or overlapping, indicative of Alt J's intellectually themed songwriting. "A plain surface covered by repeated use of a single shape without gaps or overlapping. That's a Tessilate, by the way, which is also the name of one of their songs." ← https://www.youtube.com/watch?v=h6snk0m4200
+**3WW (2017)** : Featured on their 2017 album "Relaxer," "3WW" is an abbreviation for "three worn words." The song tells the story of a love-lorn young man on a walkabout who contemplates a bronze statue of Juliet in Verona, Italy, where legend suggests rubbing the statue's chest brings good luck. "The song is about a love-loan young man who goes on some kind of walk about and keeps thinking about a bronze statue of Juliet, the character from Shakespeare's play, in Verona, Italy." ← https://www.youtube.com/watch?v=8lQv8eMJ868
+**Tessellate (Year not mentioned)** : This song title refers to the geometric concept of a plain surface covered by the repeated use of a single shape without gaps or overlapping, exemplifying Alt-J's properly geeky subject matter in their lyrics. "A plain surface covered by repeated use of a single shape without gaps or overlapping. That's a Tessellate, by the way, which is also a name of one of their songs." ← https://www.youtube.com/watch?v=8lQv8eMJ868
 
 ## curiosities
-**Diverse Thematic Content** : Alt J's songs feature appropriately geeky subject matter, drawing from a wide range of references including a photographer in the Spanish Civil War, Natalie Portman's character in the movie "The Professional," the children's book "Where the Wild Things Are," and Truman Capote's book "In Cold Blood." "Subject matter for their songs is appropriately geeky, a photographer in the Spanish Civil War, Natalie Portman's character in the movie The Professional." ← https://www.youtube.com/watch?v=h6snk0m4200
-**Name Origin from Keyboard Shortcut** : The band's name, Alt J, originates from a Mac keyboard shortcut (Option Key + J) which produces the Delta symbol (Δ). This symbol, a Greek letter, is used in science, mathematics, and engineering to denote change or difference, highlighting the band's geeky and intellectual identity. "Alt J comes from a keyboard shortcut on a Mac. If you're a scientist or a mathematician or an engineer and you want to use the symbol for Delta, which is the Greek letter that looks like a triangle, and is used to indicate change or difference, the keyboard shortcut on a Mac is Option Key, the equivalent of the Alt key on a PC keyboard, and the letter J." ← https://www.youtube.com/watch?v=h6snk0m4200
+**Band Name Origin (Mac Keyboard Shortcut)** : The band name "Alt-J" is derived from a keyboard shortcut on a Mac computer. Pressing the Option key (equivalent to Alt on a PC) and the letter 'J' produces the delta symbol (Δ), a Greek letter that looks like a triangle and is used in science and mathematics to denote change or difference. "the keyboard shortcut on a Mac is Option Key... and the letter J, hence Alt J." ← https://www.youtube.com/watch?v=8lQv8eMJ868
+**Geeky Song Subject Matter** : Alt-J's songs frequently draw inspiration from a wide range of properly geeky and intellectual subjects. Examples include a photographer in the Spanish Civil War, Natalie Portman's character in "The Professional," the children's book "Where the Wild Things Are," Truman Capote's "In Cold Blood," and the geometric concept of tessellation. "Subject matter for their songs is a properly geeky, a photographer in the Spanish Civil War, Natalie Portman's character in the movie The Professional." ← https://www.youtube.com/watch?v=8lQv8eMJ868
+**UK Alt Rock Success (2010s)** : This band was noted for its strong chart performance in the UK alt-rock scene during the 2010s, emerging from indie labels. "Arctic Monkeys, Mumford & Sons, Fools, Alt J, Toot or Cinema Club." ← https://www.youtube.com/watch?v=sOU54d8mr5k
 

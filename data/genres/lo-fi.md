@@ -1,9 +1,10 @@
-# genre - Lo-Fi
+# genre - Lo-fi
 
 ## curiosities
-**Genre of Mercury Prize Winners** : Young Fathers, an Edinburgh-based band, are described as a "fantastic Lo-fi Indy Tronica band" and won Britain's Mercury Prize in 2014. "Young fathers, fantastic Lofi Indy Tronica band from Edinburgh, who won Britain's Mercury Prize in 2014." ← https://www.youtube.com/watch?v=_1NNvxgx8uA
-**Studying Aid Classification** : Lo-fi tracks were listed as a "best study buddy genre," being only slightly less effective than pop music for studying. "It's only slightly better than low-fi tracks." ← https://www.youtube.com/watch?v=KtdIMNoHqA8
+**1990s Influence on Bedroom Pop** : The lo-fi sounds and attitude prevalent in the 1990s are identified as having a definite connection to Bedroom Pop, suggesting a stylistic lineage. "And there's a definite connection to both Dreampop, which was a product of the 80s, and the low-fi slacker sounds in attitude of the 1990s." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
+**Part of Alt Rock Umbrella** : Lo-fi was one of the "new fresh, strange and fascinating sounds" discovered under the umbrella of Alternative Rock in the 1990s. "Things like Goth, Industrial, Shoegays, Lofi, even singer songwriters that didn't fit the mainstream's view of Rock." ← https://www.youtube.com/watch?v=0QtMI00T5jw
 
 ## artists
-- Young Fathers
+- Blur
+- PJ Harvey
 

@@ -5,6 +5,7 @@
 
 ## songs
 **Saturday Night (1975)** : This song featured a distinctive chant, and the Ramones were noted for their "unself-conscious ripoff" of this chant in their own music. "The Ramones and their unself-conscious ripoff of the Basidy Rollers Saturday Night." ← https://www.youtube.com/watch?v=j8uk7BnbXwU
+**Saturday Night (1975) - Bubble Gum AM Radio Hit** : This was a "huge bubble gum AM radio hit" that summer, and its chanting was part of the inspiration for The Ramones' "Blitzkrieg Bop." "This song was called Saturday Night. This was a huge bubble gum AM radio hit that summer." ← https://www.youtube.com/watch?v=wYuNolSDLFM
 **Songs (Year Unspecified)** : U2, under their original name Feedback, included songs by the Bay City Rollers in their setlist during their first public performance at a school talent contest in 1976 at Mount Temple Comprehensive School. "they played show me the way by Peter Frampton, some bassity rollers, and the middle of beach boy songs." ← https://www.youtube.com/watch?v=sKHdTSfDd6E
 
 ## curiosities

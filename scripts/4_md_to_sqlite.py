@@ -18,7 +18,7 @@ import re
 import sqlite3
 
 DB_PATH     = 'db/music_facts.db'
-DATA_FOLDER = os.environ.get('MUSIC_DATA_FOLDER', './correcciones')
+DATA_FOLDER = os.environ.get('MUSIC_DATA_FOLDER', './resumenes')
 
 ENTRY_RE = re.compile(r'^\*\*(.+?)\*\*\s*:\s*(.+)')
 

@@ -6,5 +6,6 @@
 ## artists
 - Beastie Boys
 - Explosions in the Sky
+- Huevos Rancheros
 - Mogwai
 

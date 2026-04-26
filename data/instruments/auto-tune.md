@@ -1,5 +1,5 @@
-# instrument - Auto-Tune
+# instrument - Auto-tune
 
 ## curiosities
-**Company's New Vocal Plugin** : Terry's, the company known for creating Auto-Tune, developed a new plugin called Aspire to specifically add or augment a whisper-like quality to vocals, in response to the popularity of the Whisper Pop genre. "Terry's, the company that gave us auto-tune, created a new plugin for recording studio software called Aspire, which can artificially add a whisper-like quality to vocals, or at least augment that particular style of singing." ← https://www.youtube.com/watch?v=tdTs-4Irv8c
+**Comparison to Historical Opposition** : The opposition faced by multi-track recording innovators in the early 1950s is compared to modern-day reactions against digital audio manipulation tools like Auto-tune. Both represent technological advancements that draw criticism from those who prefer older, less "tricked" methods. "Their opposition was just like what we see with digital trick-or-age such as auto-tune and the editing and composing tools available to any musician today." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
 

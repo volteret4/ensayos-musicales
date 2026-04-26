@@ -5,6 +5,8 @@
 
 ## genres
 - Acid House
+- Alternative
+- Rave
 - Tweetpop
 
 ## labels
@@ -12,6 +14,7 @@
 
 ## albums
 **C86 Compilation (1986)** : Primal Scream was featured on the NME's *C86* compilation cassette in 1986, distinguishing themselves as one of the few bands from the tape to later achieve widespread recognition, ultimately becoming the biggest act associated with C86. Their contribution to the compilation showcased their early "tweey" sound, which predated their embrace of acid house and subsequent transformation into a "very druggy band." "But the biggest of all of the C86 bands was primal scream." ← https://www.youtube.com/watch?v=jhgZrwtYE2g
+**Screamadelica (1991) - Career Best** : Released in September 1991, "Screamadelica" is considered the best album of Primal Scream's career. It served as a perfect bridge between the English rave scene and alternative music. "Primal's scream released their brilliant Screama Delica album in September. That was the best album of their career and a perfect bridge between the English rave scene and alternative." ← https://www.youtube.com/watch?v=Rf1tFWQg51Y
 
 ## songs
 **Velocity Girl (1986)** : This song was the first track on the legendary C86 cassette collection, which featured a compilation of power pop and jangly guitar-based songs from various UK indie labels. The track is notable for its brevity, clocking in at 81 seconds. "Primal Scream with Velocity Girl, the first track on the mythical C86 cassette collection." ← https://www.youtube.com/watch?v=VOv5mT1dJd8

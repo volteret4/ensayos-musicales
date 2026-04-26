@@ -12,6 +12,7 @@
 - Parquet Courts
 - Sleaford Mods
 - Sleater-Kinney
+- Sublime
 - The Headcoats
 - The Mighty Caesars
 - The Mummies

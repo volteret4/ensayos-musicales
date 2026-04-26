@@ -1,11 +1,14 @@
 # artist - Garbage
 
 ## members
+- Butch Vig (drummer)
 - Butch Vig (drums)
 - Butch Vig (record producer)
+- Duke Erikson (guitarist)
 - Duke Erikson (producer)
 - Shirley Manson
 - Shirley Manson (singer)
+- Steve Marker (bass player)
 - Steve Marker (producer, sound engineer)
 
 ## genres
@@ -20,6 +23,7 @@
 - Summersault Festival
 
 ## albums
+**Garbage (1995) - Debut Album** : When Garbage released their self-titled debut album in 1995, the band members' ages were: drummer Butch Vig (39), guitarist Duke Erikson (44), bass player Steve Marker (36), and singer Shirley Manson (29). "When they released their first album in 1995, Vig, the drummer, was 39. Guitarist Duke Ericsson was 44. Bass player Steve Marker was 36. And singer Shirley Manson was the baby at 29." ← https://www.youtube.com/watch?v=P45lJTdneoI
 **Garbage (1995) – Debut Album** : The self-titled debut album by Garbage was released in 1995. Butch Vig, the band's drummer, was also their producer. The album features the song "Only Happy When It Rains." "This is Garbage from the 1995 debut with Butch Vigs on drums." ← https://www.youtube.com/watch?v=gsSTJWN6cUo
 **Garbage (1995) – Self-titled Debut** : This self-titled debut album was released on August 15, 1995. It featured "I'm Only Happy When It Rains" as one of its five singles. "And the first record, a self-titled thing, came out on August 15th 1995." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Only Happy When It Rains (1995)** : This song is from Garbage's 1995 debut album. Butch Vig, who is also known as a grunge super producer, played drums on the track. "Garbage with only happy when it rains with grunge super producer Butch Vig on drums." ← https://www.youtube.com/watch?v=gsSTJWN6cUo

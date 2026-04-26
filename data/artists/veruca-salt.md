@@ -15,8 +15,10 @@
 
 ## albums
 **American Thighs (1994)** : This debut record was released in the fall of 1994. Its title is directly derived from a lyric found in the AC/DC song "Shook Me All Night Long." "In the fall of 1994, they released their debut record. It was called American Thighs." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
+**Ghost Notes (2015)** : The comeback record by Veruca Salt, released on July 10, 2015. This album holds significance as it was released on the very first "New Music Friday," the coordinated global release day adopted by 45 countries. "This album was released on the first new music Friday, July 10, 2015." ← https://www.youtube.com/watch?v=GlcOoINI7EQ
 
 ## songs
+**Laughing in the Sugar Bowl (2015)** : A song by Veruca Salt from their 2015 album "Ghost Notes," which was released on the inaugural "New Music Friday" of July 10, 2015. "The comeback record by Varukasal called Ghost Notes and this is Laughing in the Sugar Bowl." ← https://www.youtube.com/watch?v=GlcOoINI7EQ
 **Seether (1994)** : The lead single from the album "American Thighs," this song was originally a Minty Fresh release written by Nina Gordon. It gained significant traction after being picked up by MTV, which propelled its popularity. "The lead single was a version of the Minty Fresh song written by Nina Gordon. And when MTV picked it up, bam!" ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 
 ## curiosities

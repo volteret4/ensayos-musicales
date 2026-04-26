@@ -5,4 +5,11 @@
 
 ## artists
 - 5440
+- Beck
+- Pearl Jam
+- R.E.M.
+- Rage Against the Machine
+- The Cranberries
+- The Verve
+- Weezer
 

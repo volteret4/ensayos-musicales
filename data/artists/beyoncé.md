@@ -1,9 +1,13 @@
 # artist - Beyoncé
 
+## albums
+**Beyoncé (2013)** : A self-titled album released by Beyoncé on Friday, June 10, 2013, as a surprise. This unconventional Friday release date, before the establishment of the global release day, gave her a strategic head start over other artists for chart sales, as it allowed her first chart week to include Friday, Saturday, Sunday, and Monday, thereby artificially inflating her initial sales figures. "She decided to mess things up with a surprise release of a self titled album on June 10, 2013, which was a Friday." ← https://www.youtube.com/watch?v=GlcOoINI7EQ
+
 ## curiosities
 **2023 Tour High Ticket & Service Charges** : For Beyoncé's 2023 tour, some tickets were sold for as much as $4,000. Due to service charges being set as a percentage of the face value, the service charge on these high-priced tickets could reach up to $550, illustrating the significant impact of percentage-based fees on expensive tickets. "If we look at Beyonce's 2023 tour, some tickets sold for $4,000 and the service charge, a percentage of the face value, could be as high as $550." ← https://www.youtube.com/watch?v=8q2bRZyHnHE
 **Contemporary Catalog Sale** : Beyoncé is listed among modern artists who have sold parts of their back catalog for significant financial gain, demonstrating the broad appeal of this strategy in the music industry. ← https://www.youtube.com/watch?v=sfie4YYncxk
 **Fan Spending** : Beyoncé ranked second for the most expensive performer for fans, with an average fan spending approximately $500 a year on her. This figure is less than half of what Taylor Swift fans spend. "second place Cogné." ← https://www.youtube.com/watch?v=KtdIMNoHqA8
+**Most Powerful Woman in Music** : Beyoncé is widely considered to be "probably the most powerful woman in music today," reflecting her immense influence and standing within the industry. "And we can't not mention Beyoncé, who is probably the most powerful woman in music today." ← https://www.youtube.com/watch?v=11UsTJQyQds
 **Music for Confidence** : Beyoncé's music was listed among artists that make people feel the most confident, alongside Lizzo, Taylor Swift, Adele, and Lady Gaga. "The music that makes people feel the most confident, Lizzo, Taylor Swift, Adele, Beyoncé, and Lady Gaga." ← https://www.youtube.com/watch?v=KtdIMNoHqA8
 **Surprise Album Releases** : Beyoncé became known for releasing albums without prior announcement in the 2010s, a strategy that David Bowie had pioneered with his 2013 album *The Next Day*. "I think Beyonce, who became known for doing this sort of thing. Did she do it before Bowie? Nope." ← https://www.youtube.com/watch?v=Yq2A_o9-ulM
 

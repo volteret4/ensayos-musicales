@@ -5,6 +5,7 @@
 **Traditional Keyboard in Rock** : The organ was listed as a traditional keyboard instrument frequently employed in rock music, forming part of the conventional instrumentation for many decades. "For the longest time, the sounds of rock were made with voice guitars, bass, drums and keyboards like piano and organ." ← https://www.youtube.com/watch?v=5PJRCC6EwUY
 
 ## artists
+- Arcade Fire
 - Kate Bush
 - U2
 

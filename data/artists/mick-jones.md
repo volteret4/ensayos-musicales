@@ -2,6 +2,7 @@
 
 ## member of
 - Big Audio Dynamite
+- Sigue Sigue Sputnik
 - The Clash
 
 ## instruments

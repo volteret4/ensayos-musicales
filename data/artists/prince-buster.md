@@ -8,6 +8,8 @@
 
 ## songs
 **"Song from 1949" (1963)** : Prince Buster covered the 1949 song, originally written by Carl Sigmund and Herb Madison, in 1963. This cover was significant as Prince Buster was an early practitioner of ska, bringing the song into the nascent genre. "In 1963, it was covered by Prince Buster, one of the early practitioners of a local sound called ska." ← https://www.youtube.com/watch?v=zNIVqKqAlnk
+**Al Capone (1967)** : This song is presented as an excellent example of the early days of Ska, representing the "first wave." "This is Prince Buster from 1967. Prince Buster with an excellent example of the early days of Scott." ← https://www.youtube.com/watch?v=WX2GlpMNg_8
+**Madness (1964)** : This original song by Prince Buster was covered by the band Madness in 1979, highlighting how second-wave Ska revived original 1960s Ska. "The original was by Jamaican Scottinger Prince Buster from 1964, showing again how second wave SCAT was a revival of the original SCAT of the 1960s." ← https://www.youtube.com/watch?v=WX2GlpMNg_8
 
 ## curiosities
 **Death (September 9, 2016)** : Prince Buster, a renowned pioneer of ska music, died on September 9, 2016, due to a stroke. "September 9th, Prince Buster, a great scop pioneer, a stroke." ← https://www.youtube.com/watch?v=sOU54d8mr5k

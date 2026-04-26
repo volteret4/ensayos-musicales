@@ -1,10 +1,14 @@
 # artist - Incubus
 
+## members
+- Brandon Boyd
+
 ## genres
 - New Metal
 - new metal
 
 ## concerts
+- **Honda Sponsored Tour (2002)** : In 2002, Incubus undertook a tour sponsored by Honda. Singer Brandon Boyd explained that this corporate sponsorship, for a band "hovering right above the underground and right below the mainstream," enabled them to offer $35 arena tickets (which was unheard of at the time) and afford their own PA, monitors, and production for a larger, higher-quality show. "Taking on a corporate sponsor allows a band like us who's not the biggest band in the world but is somewhere sort of hovering right above the underground and right below the mainstream. It gives us the opportunity to do a couple of things that are very important to us."
 - Vans Warped Tour (multiple times)
 
 ## curiosities

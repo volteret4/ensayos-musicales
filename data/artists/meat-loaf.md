@@ -11,5 +11,6 @@
 ## curiosities
 **COVID-19 as Cause of Death** : Meat Loaf died on January 20th at age 74, and despite a history of various health problems, it was ultimately COVID-19 that claimed his life. "He'd had many health problems over the years, but it appears that it was COVID that finally did him in at age 74." ← https://www.youtube.com/watch?v=sdPeii-8Ysw
 **Declined to Perform for Donald Trump** : Meat Loaf turned down various requests to perform for Donald Trump, joining a list of artists who chose not to show musical support. "The killers, Celine Dion, Meat Lough and Erasmith all turned him down to play various things." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
+**Guantanamo Bay Torture** : Meat Loaf's music was among the tracks used for musical torture at Camp Delta, the military prison at Guantanamo Bay. Prisoners were sometimes forced to listen to it, even through headphones, for extended periods during interrogation. "If it wasn't Eminem, the music came from Dr. Dre and Meatloaf, sometimes while being forced to wear headphones." ← https://www.youtube.com/watch?v=R1wdsGt07Gg
 **Successful Singer in the 70s and 80s** : Meat Loaf was one of the most successful singers of the 1970s and 1980s. "Meatloaf, one of the most successful singers of the 70s and 80s." ← https://www.youtube.com/watch?v=sdPeii-8Ysw
 

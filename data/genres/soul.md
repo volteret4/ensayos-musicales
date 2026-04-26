@@ -1,6 +1,7 @@
 # genre - Soul
 
 ## curiosities
+**British Youth Culture Appeal** : Soul music, alongside R&B, Reggae, and Ska (known as Bluebeat), was embraced by segments of British youth culture like the mods, rockers, and teddy boys, and later by early British punks. "This slightly evolved form of SCAT lived side by side with R&B and Soul and Reggae. It was also embraced by certain segments of British youth culture like the mods and the rockers and the teddy boys." ← https://www.youtube.com/watch?v=WX2GlpMNg_8
 **Evolution from R&B (Pre-1977)** : Various forms of soul music were among the styles that R&B "begat" before 1977, illustrating the genre's dynamic development and diversification. "R&B began to begat things like funk in various forms of soul and dance music." ← https://www.youtube.com/watch?v=vJszsJQpINQ
 **Les Paul Guitar's Versatility** : The Gibson Les Paul guitar has been continuously in production since its 1952 introduction and is widely used across virtually every genre, including soul. Its solid-body design resolved feedback issues common with older hollow-body guitars, making it ideal for amplified soul music. "The Les Paul has been in production ever since, and has been used by guitars into rock, punk, metal, pop, country, soul, R&B, jazz, reggae, and virtually every other genre you want to mention." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw
 **Prominence at Fame Recording Studios** : Fame Recording Studios in Sheffield, Alabama, established itself as a premier destination for soul musicians to record their music. "A Gainer reputation is the place for soul, blues, and R&B musicians to make records." ← https://www.youtube.com/watch?v=QEkGSpxeuMk
@@ -12,9 +13,13 @@
 - Amy Winehouse
 - Bad Brains
 - Bobby Marshan
+- David Bowie
 - Fishbone
 - Mary Clayton
+- Nathaniel Rateliff
+- Nathaniel Rateliff & The Night Sweats
 - Nobody
+- Odds
 - Portishead
 - Sam Cooke
 - Sister Rosetta Tharp

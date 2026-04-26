@@ -3,6 +3,7 @@
 ## genres
 - Alt Rock
 - Alt Rock (exception)
+- Alternative
 - Classical
 - Dreampop (adjacent)
 - Hair Metal (briefly)
@@ -13,6 +14,7 @@
 
 ## labels
 - Atlantic Records
+- Major labels (unspecified)
 
 ## instruments
 - Harpsichord
@@ -31,6 +33,7 @@
 ## curiosities
 **Academic Analysis of Performance Style** : An academic article titled "Piano Sexual Fascinations of Tori Amos's Sexualized Virtuosity in Performance" extensively dissects her unique stage presence and playing over eight pages. The article highlights her "pianistic virtuosity and technical facility alongside her sexualized physicality," noting how she "straddles the piano chair, twists her body to face the audience," and "violates the protocols of basic girliness that demand closed legs" by directing her voice and "genitals" at the audience, in contrast to classical tradition. "Amuses' pianistic virtuosity and technical facility alongside her sexualized physicality in performance separate her from most women singer songwriters who play the piano." ← https://www.youtube.com/watch?v=dJiSZ4X0F2g
 **Advocacy for Sexual Abuse Victims** : Tori Amos is a survivor of sexual assault, having been raped at knifepoint at age 22. She has been a part of the Rape, Abuse & Incest National Network (RAINN) and continues to support this organization and similar ones that help victims. "This isn't especially important because Tori, because she was raped at knife point when she was 22. She continues to support that organization and others like it." ← https://www.youtube.com/watch?v=zZM9ajwYr9E
+**Alternative Artist on Major Label** : Tori Amos was highlighted as an artist whose "delicate music" was categorized as "alternative," even though she recorded for major labels. This demonstrates the flexible nature of the "alternative" label, which could encompass a wide range of artists regardless of their record label affiliation. "But the word was also used to describe delicate music from artists like Kate Bush or Tori Amos, both of whom, by the way, recorded from major labels." ← https://www.youtube.com/watch?v=Z8BTWo66SDI
 **Anti-Grunge Appeal** : Her piano-based music, characterized by its quieter nature and female perspective, stood in direct opposition to the dominant guitar-driven grunge sound of the early 1990s. This "anti-grunge" approach proved highly effective in the musical landscape of the time. "Tori's music was much the same, except quieter and from a female perspective." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI
 **Brief Hair Metal Phase** : Tori Amos had a short-lived and "really weird" experience as the lead singer of a hair metal band called Why Can't Tori Read, which eventually came to an end, allowing her to pursue her distinct musical muse. "There was a brief spin as the lead singer in a hair metal band called Why Can't Tori Read, which was really weird, but then that came to a blessed end." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI
 **Child Prodigy and Early Expulsion** : Tori Amos was a child prodigy who was accepted into the music program at John Hopkins University at the exceptionally young age of five, making her the youngest ever. However, she was expelled at age 11 because she preferred to play music by ear and favored rock and pop songs over classical masters, which was considered "bad form" for a classical program. "Like Kate, she was a child prodigy, more so actually, since she was accepted into the music program at John Hopkins University at age five, five, youngest ever." ← https://www.youtube.com/watch?v=clPuV7ezrIc

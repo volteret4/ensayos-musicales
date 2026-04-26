@@ -1,6 +1,7 @@
 # label - Mute
 
 ## curiosities
+**British Independent (Indy) Label** : Mute was cited as an example of a British independent label, which the British commonly referred to as "Indy," signifying its independent status. These labels operated as standalone entities, completely unaffiliated with the major multinational record labels of the era. "And this list included mute and factory and rough trade and creation and dozens more." ← https://www.youtube.com/watch?v=Z8BTWo66SDI
 **British Indie Label** : A UK indie label that was a major factor in breaking new music, particularly since the punk era of the 1970s. "There was rough trade, two-tone and stiff, mute, and dozens of others." ← https://www.youtube.com/watch?v=raRCZ0Y5up8
 **Founded for Guitar-less Music** : Mute Records was founded by Daniel Miller using profits from his single "Warm Leatherette," specifically dedicated to releasing guitar-less music. "He took the profits and founded his own independent record label devoted entirely to guitar less music. He called the label Mute." ← https://www.youtube.com/watch?v=9uTORLOm5Yg
 **Industrial Music Label** : Mute was identified as one of the labels where industrial music thrived, providing a platform for artists to produce and distribute their heavy, electronic-based sounds. "Industrial lived on labels like wax tracks and mute and strange European imprints." ← https://www.youtube.com/watch?v=amHre9ZZFkU

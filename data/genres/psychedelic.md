@@ -6,5 +6,6 @@
 
 ## artists
 - Nirvana (1960s band)
+- The Stone Roses
 - Yoho Wath Thirteen
 

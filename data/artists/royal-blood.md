@@ -10,6 +10,9 @@
 - Hard Rock
 - Heavy Metal
 
+## songs
+**I Let It Go** : A song by the English band Royal Blood, featured as an example of the "new breed of two piece rock bands that is really flourished in the 21st century." "English Royal Blood, representing a new breed of two piece rock bands that is really flourished in the 21st century." ← https://www.youtube.com/watch?v=GlcOoINI7EQ
+
 ## curiosities
 **Brit Award for Best British Group (2014)** : Royal Blood became the first rock band formed within the preceding decade (2004-2014) to win a Brit Award for Best British Group in 2014. "In 2014, Royal Blood became the first Rock band formed within the last decade to win a Brit Award for Best British Group." ← https://www.youtube.com/watch?v=sOU54d8mr5k
 **Continued Activity in 2010s** : This established band continued its characteristic musical output throughout the 2010s, contrasting with the softer pop alt-rock trend. "Older groups, the food fighters, Lincoln Park, Black Keys, Chili Peppers, Green Day, Queens of the Stone Age, Royal Blood, Muse, Blink 182, Pearl Jam, they just kept doing what they did best." ← https://www.youtube.com/watch?v=sOU54d8mr5k

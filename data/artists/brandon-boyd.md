@@ -1,5 +1,8 @@
 # artist - Brandon Boyd
 
+## member of
+- Incubus
+
 ## curiosities
 **Buddhist and Spiritual Tattoos** : Many of Boyd's tattoos are based on Buddhism, including multiple renditions of the mantra known as "Omnipadma," which is associated with qualities like generosity, patience, and wisdom. He also has an all-seeing eye embedded within a pyramid on his back, a picture of an owl, and the Eye of Horus on his right ankle. "But the one that attracts the most attention are the ones based on Buddhism. The mantra known as Omnipadma, which deals with all the qualities of generosity and patience and wisdom. He has many of those tattoos." ← https://www.youtube.com/watch?v=jZeMmPekKMQ
 **Intricate Geometric and Crop Circle Designs** : Brandon Boyd of Incubus possesses a variety of very intricate tattoos, including geometric designs. One specific design on his forearm resembles a crop circle, which he reportedly had done in Cleveland. "Brendan Boyd of Inkybus has a number of very intricate tattoos. Some are geometric designs. There's one on his forearm that looks like some kind of crop circle that he had done in Cleveland." ← https://www.youtube.com/watch?v=jZeMmPekKMQ

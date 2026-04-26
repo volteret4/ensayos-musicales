@@ -1,5 +1,8 @@
 # artist - Georgia Hubley
 
+## member of
+- Yo La Tengo
+
 ## genres
 - Indie
 

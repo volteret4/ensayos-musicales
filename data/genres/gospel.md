@@ -8,10 +8,12 @@
 **More Granular Classification** : Gospel music was identified as one of the more granular genre classifications in 1955, showing an early inclination to define specific musical styles beyond the broader categories of popular music. "You could slice certain genres into thinner slices to include big band, Dixie Land, Scott, Hillbilly, and Jazz, gospel, Broadway show music." ← https://www.youtube.com/watch?v=hstJ8M2laho
 
 ## artists
+- Death
 - Jack L. Cooper
 - Mary Clayton
 - Sister Rosetta Tharp
 - Sister Rosetta Tharpe
 - The Strumbellas
+- The Waterboys
 - U2
 

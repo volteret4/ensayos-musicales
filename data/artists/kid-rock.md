@@ -6,9 +6,13 @@
 ## genres
 - Country
 - Funk
+- Hard rock
 - Hip-Hop
 - Metal
+- New Metal (bucket)
 - Pop
+- Rap
+- Rock
 
 ## labels
 - Top Dog
@@ -21,6 +25,7 @@
 ## albums
 **Debut Album (circa 1990)** : Kid Rock released his first album around 1990, marking the beginning of his fusion of various genres. "since about 1990, which is when he released his first album." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
 **Devil Without A Cause (1998)** : In August 1998, MTV began playing tracks from this album, and Kid Rock was picked up by the Warped Tour, leading to significant momentum. A year later, the album had sold over four million copies. "MTV started playing tracks from his album Devil Without A Cause. He was picked up by the Warped Tour, and from there things began to build. A year later, Devil Without A Cause, it sold more than four million copies." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
+**Devil Without a Cause** : This album became a massive commercial success, eventually selling 14 million copies. Its sound was a unique blend of rap, hard rock, and metal, which led to it being categorized within the new metal genre. "His devil without a cause album would end up selling 14 million copies." ← https://www.youtube.com/watch?v=hBQE4t72i3o
 **Top Dog Label Record (1996)** : By 1996, Kid Rock was releasing records on his own Top Dog label, receiving good reviews and "props from other rap and rock players." "By 1996, he was getting good reviews for the record he put out on his own top dog label. He was even getting props from other rap and rock players." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
 
 ## curiosities
@@ -29,7 +34,9 @@
 **Need for Opportunity** : Despite good reviews and industry recognition, Kid Rock needed a specific "window of opportunity" where rock and rap "synced up just so" for his career to truly take off. "All he needed was a window of opportunity. That moment when Rock and Rap synced up just so." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
 **Participant in Early Tour (1992)** : Kid Rock was mentioned as having been on the Warped Tour in 1992. "Kid Rock was there in 1992." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
 **Real Name and Upbringing** : His real name is Bob Richie, and he grew up in Romeo, Michigan, a Detroit suburb. Contrary to some stories, his father was a "very successful car dealer," and he grew up in a house with a five-acre yard and an apple orchard, not in a trailer. "His real name was Bob Richie and he grew up in the Detroit suburb of Romeo, Michigan. Dad was a car dealer, a very successful car dealer, by the way, so don't believe all those stories about Kid Rock coming straight out of a trailer. He grew up in a house with a yard that was five acres and had an apple orchard." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
+**Romeo, Michigan Hometown - Population 3,596** : Kid Rock's hometown is Romeo, Michigan, a town in the southeastern part of the state with a population of 3,596. He achieved his fame while living in Detroit. "Let's take a moment to acknowledge Kid Rock. Yeah, he achieved his fame while living in Detroit, but his hometown is Romeo Michigan, which is in the southeastern part of the state. Population 3596." ← https://www.youtube.com/watch?v=CyTI00SIrLE
 **Sex Tape with Scott Stapp of Creed (1999, Florida) – Red Light District Attempted to Sell; Lawsuit Prevented Release** : In 2005, a company called Red Light District — the same distributor behind the Paris Hilton tape — came into possession of approximately 45 minutes of video footage from 1999, shot on tour in Florida, featuring Kid Rock and Creed singer Scott Stapp being pleasured by a series of groupies in a motor home. Red Light District would not confirm how they obtained the tape and intended to sell it. A lawsuit was filed and the tape was never officially released. The episode was further incongruous given that approximately six months before the tape emerged, in June 2000, Stapp had been named the first inductee into the Fatherhood Hall of Fame by the organization WomenForFatherhood.org. "Kid Rock and Scott Stapp have had a falling out." ← https://www.youtube.com/watch?v=GIUTQhcmR5s
+**Significant Record Sales** : Kid Rock has sold 25 million records, demonstrating his substantial commercial success. "This is a guy that sold 25 million records." ← https://www.youtube.com/watch?v=CyTI00SIrLE
 **Supported Donald Trump** : Kid Rock was among the musicians who showed support for Donald Trump, in contrast to many other artists who declined to perform for him. "Outside of Kid Rock, Ted Nugent, three doors down and ace freely." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
 **The Crow: Salvation Soundtrack Contribution (2000)** : Kid Rock contributed to *The Crow: Salvation* soundtrack, released in the spring of 2000. This album was associated with the sequel to *The Crow: City of Angels*, although the movie itself did not appear until 2004 and went straight to DVD. "More Hole, More Filter, Monster Magnet, Stabbing Westward, Kid Rock, Crystal Method." ← https://www.youtube.com/watch?v=zIkjd1OjCXM
 **Unreleased Sex Tape with Scott Stapp (1999)** : A 45-minute sex tape featuring Kid Rock, Scott Stapp, and four groupies, filmed in an RV or tour bus around 1999, was reportedly obtained by Red Light District in 2005. Lawsuits prevented its official release, but it is accessible online. "It was the tape featuring Scott Stap of Creed and Kid Rock." ← https://www.youtube.com/watch?v=DA2iJsu3GRY

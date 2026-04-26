@@ -1,7 +1,7 @@
-# concert - King Tuts Wawa Hut
+# concert - King Tut's Wawa Hut
 
 ## curiosities
-**Oasis's Unscheduled Breakout Performance (May 31, 1993)** : On a Sunday in May 1993, Oasis, despite not being on the schedule, forced their way onto the stage at this Glasgow, Scotland venue. Having arrived by hitching a ride with another Manchester group, 18 Wheeler, they threatened the club's owner and bouncers to secure their performance slot. This audacious act proved pivotal, as Alan McGee of Creation Records, who was coincidentally in the audience to see other bands, was so impressed by their set that he signed them immediately. "Oasis literally bullied their way on stage for a set at King Tuts Wawa Hut in Glasgow, Scotland." ← https://www.youtube.com/watch?v=8UIBWyUt38g
+**Oasis' Breakthrough Performance (May 31, 1993)** : On May 31, 1993, Oasis, having bullied the owner into allowing them to play, performed a four-song set at King Tut's Wawa Hut in Glasgow. This performance was accidentally witnessed by Alan McGee of Creation Records, leading to the band's signing. "This was the night Alan McGee, the head of creation records, accidentally showed up early and inadvertently against his will, caught the Oasis set. But it was enough for him to sign the band." ← https://www.youtube.com/watch?v=IhG-WJH9om8
 
 ## artists
 - Oasis

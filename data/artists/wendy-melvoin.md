@@ -1,5 +1,8 @@
 # artist - Wendy Melvoin
 
+## member of
+- Prince
+
 ## members
 - Lisa Coleman (musical partner)
 

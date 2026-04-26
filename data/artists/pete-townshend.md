@@ -14,4 +14,5 @@
 ## curiosities
 **Customers of Manie's Music** : Pete Townshend is listed among the famous musicians who visited Manie's Music in New York City to purchase gear. The store was a crucial stop for touring musicians. "Customers included the Beatles and Pete Townsend and Bob Dylan and literally thousands more." ← https://www.youtube.com/watch?v=6SdPPsmpgJg
 **Feedback Integration** : Around the same time The Beatles were discovering how to use feedback, Pete Townshend of The Who was also independently exploring and discovering ways to incorporate feedback into his guitar playing, making it a deliberate part of his sound. "Meanwhile, Pete Townsend of the Who was discovering ways of incorporating feedback into his playing." ← https://www.youtube.com/watch?v=iGav9uJwA_w
+**First Generation Guitar Hero** : Pete Townshend is listed among the first to be declared a "guitar hero," recognized for his seemingly supernatural mastery of the electric guitar. "Pete Townsend... They were among the first to be declared guitar heroes." ← https://www.youtube.com/watch?v=nVIswnZYFkU
 

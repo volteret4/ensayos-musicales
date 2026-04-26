@@ -6,6 +6,7 @@
 - Siouxsie Sioux
 - Siouxsie Sioux (Susan Ballion)
 - Steve Severin
+- Suzy (Siouxsie)
 
 ## genres
 - Goth
@@ -14,10 +15,13 @@
 - Gothic rock
 - Neo-Psych
 - Post-Punk
+- Post-punk
 - Punk
 
 ## concerts
+- 100 Club Punk Special (September 20, 1976)
 - Debut (September 1976)
+- Lollapalooza (1991)
 - Lollapalooza 1991
 
 ## albums
@@ -27,7 +31,9 @@
 **Christine (1980)** : "Christine," released in 1980 by Siouxsie and the Banshees, is presented as an example from the extensive world of Gothic rock, a genre that began to flourish in the late 1970s and early 1980s. "Something from the fantastically large world of Gothic rock, Susie in the Banshees with Christine from 1980." ← https://www.youtube.com/watch?v=mAlc-N2wn5s
 **Cities in Dust (1985)** : This song is about the eruption of Mount Vesuvius in 79 AD, an event that buried and preserved the ancient Roman cities of Pompeii and Herculaneum. "Both Pompeii by Bastille and cities and dust from Suzy and the Banshees are about the eruption of Mount Vesuvius in 79 AD." ← https://www.youtube.com/watch?v=4PlieAEthSg
 **Cities in Dust (N/A)** : This song is inspired by the eruption of Mount Vesuvius in 79 AD, which famously destroyed the Roman city of Pompeii. "Both Pompey by Bastille and City's Indust from Suzy and the Banshee's are about the eruption of Mount Vesuvius in 79 AD." ← https://www.youtube.com/watch?v=cM3-tINKdvo
+**Hong Kong Garden (1977)** : This song is identified as Siouxsie and the Banshees' very first single and is considered "the very first post punk single," appearing in a British magazine called Sounds in 1977. While not punk rock, its existence was contingent on punk having come first. "It's Susie in the Banshees with Hong Kong Garden." ← https://www.youtube.com/watch?v=__7iEl3lH8g
 **Hong Kong Garden (Early Live Version)** : An early live recording of this song was made at the BBC, predating its official studio recording and release as the band's first single. "That was recorded live at the BBC long before it was properly recorded and released as the band's first single." ← https://www.youtube.com/watch?v=oPgeSCy93bo
+**The Passenger (Cover)** : Siouxsie and the Banshees covered Iggy Pop's song "The Passenger," originally from his 1977 album Lust for Life. "The passenger, a song later covered by and performed by Susie in the Banshee's and Baw House." ← https://www.youtube.com/watch?v=OxctiPr0l-8
 
 ## curiosities
 **Accused of Being "Too Pop"** : Siouxsie was later accused by some within the Goth scene of becoming "too pop" for the genre. "Sousing the banshees and the cure out front, although Susie would later be accused of being too pop for Goth." ← https://www.youtube.com/watch?v=gd9sO7c3N1s
@@ -35,13 +41,17 @@
 **Bromley Contingent Member** : Siouxsie Sioux was a member of the Bromley Contingent, a group of fans who consistently followed the Sex Pistols to their gigs. "Singer Suzy Su was a member of a group of fans called the Bromley Contention, who followed the sex pistols around from gig to gig." ← https://www.youtube.com/watch?v=gd9sO7c3N1s
 **Collaboration with Steve Lillywhite** : Siouxsie and the Banshees were among the many notable bands and artists with whom British producer Steve Lillywhite worked on albums. "Steve Lilley White, the British producer who worked on albums from You Too, The Psychedelic Furs, Peter Gabriel Simple Minds, Talking Heads, Morrissey, Rolling Stones, Dave Matthews, BDI, The Killer, Suzing the Banshees, and dozens more." ← https://www.youtube.com/watch?v=hjProJd_JrM
 **Debut Performance – September 1976** : The band made its debut performance in September 1976 with Sid Vicious on drums. Susan Ballion, who later reinvented herself as Siouxsie Sioux, was the vocalist. "He was the drummer for Susie in the Banshees when they made their debut in September of 1976." ← https://www.youtube.com/watch?v=OcylgiXkDP8
+**Early Performance with Sid Vicious** : On September 20, 1976, Sid Vicious played drums for a very early version of Siouxsie and the Banshees at the 100 Club Punk Special, where the group improvised interminably on the Lord's Prayer. "On September 20th, 1976, Sid somehow ended up playing drums for a very early version of Suzy in the Banshees at a two-day punk event called the 100 Club Punk Special." ← https://www.youtube.com/watch?v=LE4YenwmeXM
+**First Post-Punk Association** : Siouxsie and the Banshees are strongly associated with the term "post-punk," with their 1977 single "Hong Kong Garden" being cited as potentially the first post-punk single. Their sound was not punk rock but could not have existed without punk preceding it. "Susie in the Banshees were their very first single Hong Kong Garden. They will forever be associated with the term post punk." ← https://www.youtube.com/watch?v=__7iEl3lH8g
 **Goth Affiliation Debate** : The band's "Goth purity" has been debated among Goth fans, and the band themselves have, at times, distanced themselves from the Goth label. Despite this, their dark music, introspective themes, and fashion sense inextricably linked them to Goth culture, and their discovery often led listeners back to Goth. "Now there is a big debate as to the Goth purity of both the banshees and the cure among the faithful and both bands have at one time or another, distance themselves from the Goth label." ← https://www.youtube.com/watch?v=evlGhfUe6QQ
 **Goth Archetype** : Siouxsie Sioux, with her striking appearance of black hair, heavy mascara and eyeshadow, and soulful eyes, along with the band name "Banshees" (evoking horror), became an archetype for goths worldwide, establishing them as one of the first-generation goth bands. "Susie made for a striking figure, black hair, lots of mascara, and eyeshadow, big soulful eyes, and the name Banshees conjured up just the right amount of horror. She became an archetype for Goth's Worldwide." ← https://www.youtube.com/watch?v=XaLsZFLrMnI
 **Growing Influence** : The band continued to gain popularity, and Siouxsie's fashion choices, particularly, became increasingly influential within the goth scene. "Suzy and the band she has just kept getting bigger and Suzy's fashion choices became more popular." ← https://www.youtube.com/watch?v=XaLsZFLrMnI
 **Influence on The Dresden Dolls** : The Dresden Dolls are described as sounding like what would have happened if Siouxsie and the Banshees had been playing in East Berlin cabarets in 1932. "they look and sound like what might have happened had Suzy and the Banshee's been playing the Cabaret's and East Berlin in 1932." ← https://www.youtube.com/watch?v=evlGhfUe6QQ
+**Inspiration for John Frusciante** : John McGeoch is a significant source of inspiration for John Frusciante, particularly because of McGeoch's ability to create vastly different sounds from one song to the next. "He is a real thing for John McGocke of Suzy and the Banshees, because his sound can be so different from song to song." ← https://www.youtube.com/watch?v=nVIswnZYFkU
 **Lollapalooza 1991 Lineup** : Siouxsie and the Banshees were part of the lineup for the first Lollapalooza festival in the summer of 1991. ← https://www.youtube.com/watch?v=eqTFinLk3oU
 **Lollapalooza 1991 Performer** : Siouxsie and the Banshees were part of the lineup for the first Lollapalooza tour in the summer of 1991, contributing to the festival's success despite initial ticket struggles, and helping to demonstrate the demand for non-mainstream music. "Along with founding band Jane's addiction, the line up included Suzy and the band sheets, living color, iced tea and body count, butthole surfers, Rawens band and some weirdo group that was never going to go anywhere called Nine-inch Nails." ← https://www.youtube.com/watch?v=2wZydttn4Cs
 **Major 90s Goth Band** : Siouxsie and the Banshees were identified as one of the major Goth bands of the 1990s, known for their dark sounds, introspective lyrics, and a style often inspired by Gothic novels and 1800s fashions. "The major goth bands of the 90s were Bauhaus and Suzy and the Banshee's, Sisters of Mercy, and if we go back to the very beginning we'll find that Joy Division was a major influence." ← https://www.youtube.com/watch?v=amHre9ZZFkU
+**Peele Sessions Recordings (70s, 80s, 90s)** : Siouxsie and the Banshees were among the numerous "cool bands" invited to record live off the floor for the "Peele Sessions" at the BBC during the 70s, 80s, and 90s. These sessions provided a means for artists to be heard on the BBC, circumventing "Needle Time" restrictions on commercial records. "The Smiths, R.E.M., New Order, the Fall, Equivalent of the Buntyman, Susie the Banshee, the Bus Cox, the list is almost endless." ← https://www.youtube.com/watch?v=ak6OuOUkRrQ
 **Pioneering Goth Band** : Siouxsie and the Banshees were among the very first and first-generation Goth bands to emerge, helping define the genre. "Amongst the very first were Suzy in the banshees." ← https://www.youtube.com/watch?v=gd9sO7c3N1s
 **Produced by Steve Lillywhite** : Steve Lillywhite, who produced records for Siouxsie and the Banshees, sold his royalties from his work. "Steve Lillewight, who produced records for everyone from Susie in the Banshees and the psychedelic furs to the killers in Peter Gabriel and you too, sold his royalties." ← https://www.youtube.com/watch?v=Pe40SqDrpZ0
 **Queen of Goth** : For many fans and critics, Siouxsie Sioux, the lead singer of Siouxsie and the Banshees, holds the title of the "Queen of Goth." This acknowledges her iconic status and significant influence within the Gothic rock scene that emerged in the late 1970s and early 1980s. "And for many, the Queen of Goth remains Susie Sue of Susie in the Banshees." ← https://www.youtube.com/watch?v=mAlc-N2wn5s

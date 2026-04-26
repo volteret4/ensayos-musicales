@@ -2,4 +2,5 @@
 
 ## member of
 - Blue Rodeo
+- Crash Vegas
 

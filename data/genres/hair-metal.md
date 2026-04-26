@@ -1,20 +1,8 @@
-# genre - Hair Metal
+# genre - Hair metal
 
 ## curiosities
-**Decline in Popularity (Early 1990s)** : By early 1990, there were clear indications that Hair Metal's popularity was waning, with audiences growing tired of both it and older classic rock bands. This shift created an opening for bands like Depeche Mode, who were embraced by Gen X as the new drivers of music culture. "By early 1990, there were indications that hair metal was done and people were tired of old classic rock bands." ← https://www.youtube.com/watch?v=Jvh8SP2QKXQ
-**Direct Line from Glam Rock** : Hair metal is described as a direct descendant of glam rock, characterized by "big hair, the dudes looking like ladies, the makeup, the spandex, and the stomping good time party all the time songs." Mötley Crüe in 1985 is compared to Slade in 1973 to illustrate this direct lineage. "Then we get into hair metal, the big hair, the dudes looking like ladies, the makeup, the spandex, and the stomping good time party all the time songs. It's all very Glam Rock, isn't it?" ← https://www.youtube.com/watch?v=blDNqVFheAw
-**Dominance in Late 1980s** : Hair metal was a prominent and popular genre in the late 1980s, influencing the musical landscape just before the rise of grunge and alternative rock. "Now you gotta remember that this is the late 1980s, hair metal was big and grunge was still a few years away." ← https://www.youtube.com/watch?v=r6vVw66-gmI
-**Dominance in the 1980s** : Hair metal was the dominant rock genre for most of the 1980s before its popularity waned. "Rare metal takes over for most of the 80s before flaming out and being replaced by grunge in all the Alt Rock in the 1990s." ← https://www.youtube.com/watch?v=pLf3kUONewg
-**Embrace of Visual Shock and Tattoos** : The hair metal era of the 1980s was characterized by its emphasis on visual shock and appeal, which included elaborate hair, makeup, spandex, distinctive shoes, and a strong embrace of tattoos. Bands like Mötley Crüe, Guns N' Roses, and LA Guns prominently glorified tattoos as part of this aesthetic. "So, so the hair metal era was, was very big into, um, into visual shock and appeal. So, you know, the hair, the makeup, the spandex, the, you know, the shoes and all the rest of it, tattoos went along with that." ← https://www.youtube.com/watch?v=jZeMmPekKMQ
-**Gibson Flying V Popularity (1980s)** : The Gibson Flying V experienced its most successful years in the 1980s, becoming a prominent "pointy" guitar associated with the Spandex-clad aesthetic of Hair Metal bands. "when we got to the 80s with the Spandex of Hair Metal, the point you guitar from Gibson had its best years." ← https://www.youtube.com/watch?v=d9HNqb9gJSU
-**Influence on Guitar Design** : The hair metal genre, prevalent during the 1980s music video era, strongly influenced the demand for outrageous and visually striking guitar designs. Bands in this genre favored guitars that resembled medieval weapons, such as those from BC Rich, for their MTV videos. "If you were in a hair metal band, this is exactly the kind of outrageous guitar you wanted for your MTV video." ← https://www.youtube.com/watch?v=fQCOj3_zy54
-**Peak Power Ballad Era** : In the early 1990s, prior to the grunge explosion, rock radio was largely dominated by hair metal and the "peak power ballad" era, featuring bands like White Snake and Poison. This genre was characterized as "rocky but sentimental and let's face it, sappy kind of stuff," which created a contrast with the raw sound of emerging punk and grunge. "Most of rock radio was still in the thrall of the age of hair metal. We'd reach peak power ballad too with bands like White Snake and Poison." ← https://www.youtube.com/watch?v=gkLMwrthZ9s
-**US Rock Resurgence in Mid-80s** : In the mid-1980s, as pure Technopop waned, hair metal emerged as a significant form of rock music in the US, demonstrating rock's renewed strength and providing an alternative to the electronic trends. "In the US, rock began flexing its muscles again, think hair metal and the growing interest in Indian alternative music." ← https://www.youtube.com/watch?v=5PJRCC6EwUY
+**Mainstream Rejection (Late 1980s)** : Hair metal represented a mainstream music genre that the alternative and non-mainstream rock audience actively rejected by the late 1980s. This rejection was part of a broader desire to separate from anything on Top 40 radio or popular culture. "You want nothing to do with hair metal or classic rock or new kids on the block or anything on top 40 radio." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
 
 ## artists
-- Alice in Chains
-- Lane Staley
-- Mötley Crüe
-- Poison
-- White Snake
+- Taylor Hawkins
 

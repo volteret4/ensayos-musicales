@@ -1,14 +1,11 @@
-# artist - Dream
+# artist - D:Ream
 
 ## members
 - Brian Cox
 
 ## genres
-- Electro Pop
-
-## instruments
-- Keyboards
+- Dance
 
 ## curiosities
-**Brian Cox's Parallel Careers** : In the early 1990s, Brian Cox was a keyboardist in the electro-pop band Dream while simultaneously pursuing his PhD in physics. He is now Professor Brian Cox, a prominent British scientist involved with the Large Hadron Collider in Switzerland. "Back in the early 90s, Brian played keyboards in an electro pop band called Dream." ← https://www.youtube.com/watch?v=QfiRRtsZoYU
+**Band Disbanded in 1997** : The dance act D:Ream, which featured Brian Cox on keyboards, ended in 1997. "When the band died in 1997, he continued with his education earning a doctorate in philosophy and working with high energy particle physics." ← https://www.youtube.com/watch?v=7jMfH9xAOpI
 

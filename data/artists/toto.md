@@ -13,6 +13,7 @@
 **Toto IV (1982)** : This was Toto's fourth album, released in 1982, and featured the singles "Africa" and "Rosanna." "Africa was a single from Totos' fourth album back in 1982." ← https://www.youtube.com/watch?v=yuA9Xor8vfw
 
 ## songs
+**Africa** : This song was famously sung by a member of the band other than their regular lead vocalist. "Africa by Toto" ← https://www.youtube.com/watch?v=M1JTdUxOEMU
 **Africa (1982)** : A single from their 1982 album *Toto IV*, "Africa" became a huge hit despite the band not believing in the song's potential much. It later gained significant meme status and was featured in the Netflix show *Stranger Things*. "It was released as a single and became a huge hit, even though Toto didn't really believe in the song all that much." ← https://www.youtube.com/watch?v=yuA9Xor8vfw
 **Africa (1982) (Drinking Song Survey)** : Ranked at number 10 in a whiskey retailer's analysis of Spotify playlists referencing drinking or partying, a placement questioned by the commentator as to whether it's truly considered a drinking song. "But why is Toto's Africa at number 10? Does anyone really consider that to be a drinking song?" ← https://www.youtube.com/watch?v=KtdIMNoHqA8
 **Rosanna (1982)** : This was another major single from Toto's 1982 album *Toto IV*. "But it was Rosanna, the other big single from that same total album." ← https://www.youtube.com/watch?v=yuA9Xor8vfw

@@ -1,5 +1,8 @@
 # artist - Joel Plaskett
 
+## member of
+- Thrush Hermit
+
 ## genres
 - Indie Rock
 

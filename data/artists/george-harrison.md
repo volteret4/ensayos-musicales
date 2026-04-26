@@ -11,6 +11,7 @@
 ## albums
 **All Things Must Pass (1970)** : Released in November 1970 and co-produced by Phil Spector, this album featured immersive production techniques. Unlike Spector's usual upbeat, high-energy productions, with Harrison, Spector "brought things down, at least a little bit." ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 **All Things Must Pass (1970) – Reissue with Promotional Gnomes (2021)** : The reissue of George Harrison's seminal album "All Things Must Pass," originally released at the end of 1970, came with unique promotional items in 2021. For the new version, new promotional gnomes were made available, echoing the original album cover featuring Harrison with garden gnomes. "New promotional gnomes were made available for the new version." ← https://www.youtube.com/watch?v=-N6IM5Nm5iw
+**Wonder Wall Music (1968)** : This 1968 album by George Harrison was later cited by Noel Gallagher as having something to do with the title of Oasis' "Wonderwall." "And still later, he said it had something to do with the title of a 1968 album by George Harrison called Wonder Wall Music." ← https://www.youtube.com/watch?v=IhG-WJH9om8
 
 ## songs
 **Here Comes the Sun** : This song, from The Beatles' *Abbey Road* album, is the most streamed of all Beatles songs. "His song Here Comes the Sun from the Abbey Road album is the most streamed of all Beatles songs." ← https://www.youtube.com/watch?v=72Lei7uug8c

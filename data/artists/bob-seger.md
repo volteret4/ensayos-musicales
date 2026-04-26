@@ -1,6 +1,7 @@
 # artist - Bob Seger
 
 ## songs
+**Making Thunderbirds** : Bob Seger's song is mentioned as telling the story of the assembly line for the Ford Thunderbird. "making Thunderbirds from Bob Seeger, the story of the assembly line." ← https://www.youtube.com/watch?v=_KJ60im4KAc
 **Turn the Page** : This song, about life on the road, was covered by Metallica. "all about life on the road turned the page." ← https://www.youtube.com/watch?v=DgN0vBIugLc
 
 ## curiosities

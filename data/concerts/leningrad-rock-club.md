@@ -1,0 +1,7 @@
+# concert - Leningrad Rock Club
+
+## curiosities
+**Center of Soviet Rock** : Despite the strict oversight by the KGB, the Leningrad Rock Club became the highly influential center of Soviet rock until its closure in 1991. It served as a vital, albeit controlled, hub for the burgeoning rock scene in the USSR, fostering a unique blend of official and unofficial musical expression. "In spite of all that, though, it became the center of Soviet rock and this highly influential until the place closed down in 1991." ← https://www.youtube.com/watch?v=NyKvAhO7MHE
+**KGB-Supervised Venue** : Opened in 1981, the Leningrad Rock Club was the most famous of the KGB-supervised rock clubs in the USSR. Bands wishing to play had to audition before austere men in suits, who then supervised every performance from a balcony, controlling music, lyrics, clothes, and image. "The most famous of these KGB rock clubs was in Leningrad, which opened in 1981." ← https://www.youtube.com/watch?v=NyKvAhO7MHE
+**Source for Red Wave Album** : In 1986, American tourist Joanna Stingray smuggled out numerous recordings from Leningrad, many of them originating from this club. These recordings were subsequently released on the influential double LP "Red Wave," showcasing underground bands from the USSR to a wider audience. "In 1986, an American tourist named Joanna Stingray smuggled out a bunch of recordings from Lennongrad, mostly from this club, and released them on a double LP called Red Wave, four underground bands from the USSR in 1986." ← https://www.youtube.com/watch?v=NyKvAhO7MHE
+

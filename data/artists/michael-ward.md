@@ -1,5 +1,8 @@
 # artist - Michael Ward
 
+## member of
+- School of Fish
+
 ## members
 - Jacob Dylan (The Wallflowers)
 

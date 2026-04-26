@@ -1,11 +1,19 @@
 # artist - Neil Young
 
+## genres
+- Grunge (godfather of)
+- Hard Rock
+
 ## labels
 - Hypnosis Song Fund (as purchaser of publishing rights)
 
 ## concerts
 - Desert Trip
 - Glastonbury
+- Live 8 (Canadian show)
+
+## instruments
+- Overdriven guitar
 
 ## songs
 **Down By The River (1969)** : This song is cited as an example of a rock song from 60 years prior that deals with the subject of murder. "We can go back 60 years for songs like That Tracks Like Down By The River by Neil Young." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4
@@ -17,7 +25,9 @@
 **50% Share of Catalog Sale for $150 Billion** : Neil Young sold a 50% share in his music catalog for an astonishing $150 billion. He is considered one of "the great Canadians of old" whose catalog was acquired by the Hypnosis Song Fund. "Neil Young, $150 billion for just a 50% share in his catalog" "We have the great Canadians of old, whether that's Neil Young" ← https://www.youtube.com/watch?v=Pe40SqDrpZ0
 **Canadian Songwriting Legacy** : Neil Young was mentioned by Robert Plant as a part of Canada's "rich history of songwriting," alongside Joni Mitchell and Leonard Cohen, in what The Trews interpreted as Plant's apology after an earlier disagreement. "Canada has always had such a rich history of songwriting and with Neil Young and Joni Mitchell and Leonard Cohen and the trues." ← https://www.youtube.com/watch?v=3zbKOwkpkAM
 **Catalog Sale** : Neil Young is one of many artists, including a significant portion of Fleetwood Mac, who have accepted offers to sell their song catalogs. These deals provide a large upfront payout for future royalties. ← https://www.youtube.com/watch?v=sfie4YYncxk
+**Childhood Polio Diagnosis** : Neil Young was diagnosed with polio in 1951 when he was five years old. He was hospitalized for a period at the Hospital for Sick Children in Toronto. Although he mostly recovered from the illness, he was left with a slight limp on his left side. "Neil Young was diagnosed with polio in 1951 at the age of five." ← https://www.youtube.com/watch?v=u5NLt6mkmrk
 **Flow to America** : Neil Young was one of the ambitious and talented Canadian musicians who flowed south to seek their fortune in America. His music, along with other established Canadian acts, received increased airplay on Canadian FM radio due to new rules requiring more diverse and Canadian content. "ambitious, talented Canadian musicians flowed south to seek their fortune in America." ← https://www.youtube.com/watch?v=6PGgNCaW4xo
+**Godfather of Grunge** : Neil Young is recognized as the "godfather of Grunge," particularly in Seattle where he was a big favorite. His career phase in the 1970s, characterized by "obnoxiously overdriven guitar grinding under a simple melody" and a "calculated sloppiness," held a specific appeal that deeply resonated with and influenced the burgeoning Seattle music scene. "If Iggy Pop was the godfather of punk, the Ramones, with the Johnny Apples seeds of alt rock, well then Neil Young, a big favorite in Seattle, is the godfather of Grunge." ← https://www.youtube.com/watch?v=xdn31jMOOA4
 **Increased FM Airplay** : Due to new FM radio rules in Canada that mandated playing more album tracks and Canadian content, Neil Young's music, alongside others like The Guess Who and Bachman-Turner Overdrive, saw significantly more airplay. This was in part because there weren't enough new Canadian bands of a certain caliber yet. "a lot more guest who, back then turn or overdrive the band and Neil Young got played." ← https://www.youtube.com/watch?v=6PGgNCaW4xo
 **Model Train Enthusiast** : Neil Young is passionate about model trains. "Neil Young, Rod Stewart, and get this Frank Sinatra. All love their model trains." ← https://www.youtube.com/watch?v=xc85sLj0Cnk
 **Model Trains Hobby** : Neil Young finds that engaging with model trains provides him with a very relaxing pastime. "Neil Young finds model trains very relaxing." ← https://www.youtube.com/watch?v=CgDCaUxbQDU

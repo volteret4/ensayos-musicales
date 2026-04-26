@@ -2,6 +2,7 @@
 
 ## member of
 - Grey Daze
+- Happy Mondays
 - Pinchico
 - Sean Doodle and his friends
 - The Trews

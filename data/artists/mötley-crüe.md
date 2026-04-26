@@ -1,10 +1,14 @@
 # artist - Mötley Crüe
 
 ## members
+- Mick Mars
 - Vince Neil
 
 ## genres
 - Hair Metal
+
+## concerts
+- Live 8 (Canadian show)
 
 ## instruments
 - 1972 Ford Pantera (sports car)

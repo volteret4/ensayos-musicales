@@ -1,8 +1,5 @@
 # artist - Silverstein
 
-## members
-- (Not explicitly listed, but implies band members)
-
 ## genres
 - Screamo
 

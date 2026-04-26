@@ -5,4 +5,5 @@
 
 ## artists
 - Cult Hero
+- Primitive Radio Gods
 

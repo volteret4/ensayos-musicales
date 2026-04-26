@@ -10,4 +10,6 @@
 - Captain Kick and the Cowboy Ramblers
 - Memphis Minnie
 - Mumford & Sons
+- Radiohead
+- The Pogues
 

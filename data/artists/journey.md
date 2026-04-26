@@ -7,6 +7,7 @@
 - Corporate Rock
 
 ## songs
+**Don't Stop Believin' (1981) - Spotify Top 100 Most Streamed** : Journey's "Don't Stop Believin'" was one of only four rock songs to appear in Spotify's top 100 most streamed songs of the 2010s. Its inclusion highlights the enduring appeal of classic rock tracks even amidst a decade dominated by pop and hip hop streaming. "Well, okay, there's journey and don't stop believing." ← https://www.youtube.com/watch?v=mNqqLDpUuZY
 **Don't Stop Believin' (Year Unspecified)** : This song is cited as an example of a track that utilizes the 1564 chord progression, a common sequence in popular music. "And then there's don't stop believing by journey, Barbie girl by Aqua and John Denver's Take Me Home Country Roads." ← https://www.youtube.com/watch?v=fS8V3kYXT6w
 
 ## curiosities

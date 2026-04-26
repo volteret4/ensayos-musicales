@@ -2,6 +2,7 @@
 
 ## member of
 - Alice in Chains
+- Layne Staley
 
 ## concerts
 - The Cable Guy

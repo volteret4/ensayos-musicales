@@ -8,6 +8,7 @@
 ## genres
 - Hip Hop
 - Industrial Hip Hop (influenced)
+- Rap
 - rap
 
 ## concerts
@@ -26,6 +27,9 @@
 **Bomb Squad's Influential Sound** : Public Enemy's production team, The Bomb Squad, developed a sound that contributed to the lineage of Industrial Hip Hop, especially when they collaborated with Anthrax. "The sound of public enemies production, team known as the bomb squad, had something going on too" ← https://www.youtube.com/watch?v=tdTs-4Irv8c
 **Chuck D Joins Prophets of Rage** : Chuck D of Public Enemy joined the instrumental members of Rage Against the Machine along with B-Real of Cypress Hill to form Prophets of Rage. "Interesting that be real is now in profits of Rage with the other Rage guys in Chuck D. of Public Enemy." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
 **Collaboration with Anthrax** : Public Enemy collaborated with Anthrax, an example of rap-rock crossovers in the 1990s. "and Anthrax in Public Enemy." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
+**Grammy Protest Symbol (1990)** : To protest the Rapp Award not being televised during the Grammy Awards, Sinead O'Connor had the Public Enemy logo shaved into her head, ensuring it would be seen by people whenever she appeared on television. "When the Rapp Award wasn't televised during the Grammy Awards, she had the public enemy logo shaved into her head, so it would be seen by people anytime she was on TV." ← https://www.youtube.com/watch?v=afuqjWl1JyI
+**Influence on Chris O'Connor** : Chris O'Connor, the frontman for Primitive Radio Gods, was inspired by Public Enemy, incorporating elements of their style into his early solo material. This influence was evident in the demos he recorded under the Primitive Radio Gods name. "The band broke up, and singer Chris O'Connor went out on his own, recording some public enemy-inspired material under the name Primitive Radio Gods." ← https://www.youtube.com/watch?v=SOAL0GODN3M
+**Influence on Tom Morello** : Public Enemy was a significant influence on Tom Morello, contributing to his development of the "scratching" guitar technique, mimicking a DJ on a turntable. "public enemy and run DMC were big influences, which also moved him to start scratching his guitar strings like a DJ wood on a turntable." ← https://www.youtube.com/watch?v=nVIswnZYFkU
 **Ostrich Farm Owner** : Terminator X owns and operates an ostrich farm in rural North Carolina. "Terminator X of public enemy has an ostrich farm in rural North Carolina." ← https://www.youtube.com/watch?v=xc85sLj0Cnk
 **Sampled by Nine Inch Nails** : Public Enemy's audio was sampled for Nine Inch Nails' "Pretty Hate Machine." Chris Vrenna manipulated these samples with computers, rendering them largely unidentifiable within the album's tracks. "For example, if you go through that first album, you'll hear samples from Jane's Addiction, Public Enemy, This Mortal Coil, and many others." ← https://www.youtube.com/watch?v=M3nUQtja0qc
 **Sampling of Funky Drummer Break** : Public Enemy is mentioned as one of many hip-hop artists who extensively sampled Clyde Stubblefield's drum break from James Brown's "Funky Drummer." "Lots and lots of hip-hop ranging from public enemy to NWA, to LL Cool J, to run DMC to the Beastie Boys." ← https://www.youtube.com/watch?v=VnXBJqKwkrw

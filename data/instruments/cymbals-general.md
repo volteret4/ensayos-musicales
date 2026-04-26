@@ -1,0 +1,7 @@
+# instrument - Cymbals (General)
+
+## curiosities
+**Oldest Manufacturer: Avedis Zildjian** : The oldest known manufacturer of cymbals is Avedis Zildjian, a company that traces its origins back to Constantinople in 1623. The founder of the company initially pursued alchemy, attempting to turn base metals into gold, before abandoning that quest to focus on the art of cymbal making. Zildjian continues to be the largest cymbal manufacturer globally. "As far as I know, the oldest manufacturer of symbols is a company called Avidis Zilgin, which can trace their roots to Constantinople in 1623." ← https://www.youtube.com/watch?v=WL3zEWJJNuw
+**Sound Characteristics and Construction** : Cymbals are thin, round pieces of metal that do not produce a distinct musical note when struck but instead create a unique and identifiable sound. This sound is determined by the cymbal's diameter, thickness, and shape, with the specific metals and alloys used in its construction being the most crucial factor. "Symbols are thin, round pieces of metal that don't produce a distinct note when they're hit, but they do have a distinctive sound." ← https://www.youtube.com/watch?v=WL3zEWJJNuw
+**Variety of Types** : There are numerous types of cymbals, each with its own history and sonic characteristics, including crash, splash, ride, hi-hat, China type, and sizzle cymbals. "There are many different types of symbols, crash, splash, ride, hi-hat, China type, sizzle, all with different histories." ← https://www.youtube.com/watch?v=WL3zEWJJNuw
+

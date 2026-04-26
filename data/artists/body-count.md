@@ -15,6 +15,7 @@
 
 ## concerts
 - **Lollapalooza 1991 Appearance** : Ice-T performed with Body Count at the 1991 Lollapalooza Festival, an appearance that "blew everyone's mind" due to its rap and rock fusion. "Iced Tea blew everyone's mind with his appearance on the 1991 Lama Pulusa Festival. He rapped, but he also rocked with his new band Body Count."
+- Lollapalooza (1991)
 - Lollapalooza 1991
 
 ## curiosities

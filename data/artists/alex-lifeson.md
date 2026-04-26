@@ -1,6 +1,7 @@
 # artist - Alex Lifeson
 
 ## member of
+- Jackalope
 - Rush
 
 ## instruments

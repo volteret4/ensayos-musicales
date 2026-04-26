@@ -5,4 +5,5 @@
 
 ## artists
 - Arctic Monkeys
+- The Smiths
 

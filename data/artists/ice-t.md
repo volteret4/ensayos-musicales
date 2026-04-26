@@ -14,6 +14,7 @@
 - **Lollapalooza 1991 Performance** : Ice-T "blew everyone's mind" with his appearance at the 1991 Lollapalooza Festival, where he rapped and also rocked with his band Body Count, showcasing a rap and rock fusion. "Iced Tea blew everyone's mind with his appearance on the 1991 Lama Pulusa Festival. He rapped, but he also rocked with his new band Body Count."
 - **Lollapalooza Festival Bookings** : Ice-T was a mainstay act booked at the Lollapalooza Festival, which was instrumental in introducing rap to white audiences. "The La La Paloza Festival helped bring rap to white kids by booking mainstayjacks like Ice Tea, Ice Cube, George Clinton, Cypress Hill, and a tribe called Quest."
 - Judgment Night
+- Lollapalooza (1991)
 - Lollapalooza 1991
 - Vans Warped Tour (1999)
 

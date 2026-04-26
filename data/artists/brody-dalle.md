@@ -1,6 +1,7 @@
 # artist - Brody Dalle
 
 ## member of
+- Queens of the Stone Age
 - The Distillers
 
 ## curiosities

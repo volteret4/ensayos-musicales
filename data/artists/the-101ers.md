@@ -2,6 +2,10 @@
 
 ## members
 - Joe (guitar player)
+- Joe Strummer (former)
+
+## genres
+- Pub Rock
 
 ## concerts
 - Nashville

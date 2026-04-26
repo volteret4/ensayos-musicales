@@ -3,15 +3,18 @@
 ## members
 - Jim Reed
 - John Reed
+- John Reid
 - Phil King
 - Two brothers (unnamed)
 - William Reed
+- William Reid
 
 ## genres
 - Alt Rock
 - Feedback Rock
 - Fuzz Rock
 - Guitar-based music
+- Indie Rock
 - Indie music
 - Noise Pop (implied)
 - Noise Rock
@@ -27,13 +30,18 @@
 - North London Polytechnic College (March 15, 1985)
 - The Crow (1994)
 
+## instruments
+- Portastudio
+
 ## albums
+**Darklands (1987) - EP** : This EP, released by one of the most important Scottish indie bands of the 1980s, features the song "On the Web," which was notably made on a Portastudio. Its inclusion on this influential record highlights how low-fidelity recording techniques were being adopted by significant artists as a deliberate artistic choice, contributing to the evolving lo-fi scene. "In 1987, they issued an EP entitled Darklands. On it was this song made on a port of studio. It's called On the Web." ← https://www.youtube.com/watch?v=Jq-e-fZxXOs
 **Psycho Candy (1985) - Debut Record** : Released in November 1985, this album was the band's debut and featured the song "Just Like Honey," which garnered significant attention. The album presented a large slab of fuzz guitar combined with lovely, breathy melodies, contributing a crucial "DNA" to the emerging shoegaze sound. "Then in November 1985, they released their debut record called Psycho Candy, and the song that grabbed everybody's attention was this one." ← https://www.youtube.com/watch?v=vEHdoUlGurY
 
 ## songs
 **Just Like Honey (1985)** : "Just Like Honey," released by The Jesus and Mary Chain in 1985, was a single that was instrumental in establishing Creation Records as a significant force in British indie culture. "The Jesus and Mary Chain with just like honey, the single that established Creation records as a force in British indie culture in 1985." ← https://www.youtube.com/watch?v=zB5zxycrbnY
 **Kill Surf City** : This song was recorded by The Jesus and Mary Chain. "The Jesus and Mary chain, not only recorded a song called Kill Surf City, but they also covered the Beach Boys Surfing USA." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
 **Never Understand (1985)** : This single, released in March 1985, generated excitement among "the cool kids" and contributed to the anticipation surrounding The Jesus and Mary Chain's concert at North London Polytechnic College. "In March 1985, the Jesus and Marychain had a single called Never Understand, which had the cool kids pretty excited." ← https://www.youtube.com/watch?v=huAvyInzz3Q
+**On the Web (1987)** : This song, featured on The Jesus and Mary Chain's "Darklands" EP, was notably recorded using a Portastudio. Its inclusion on an influential indie rock record demonstrates the increasing adoption of low-fidelity recording equipment by significant bands in the late 1980s as a means to achieve a particular sound and aesthetic. "These things, these things, like a rain." ← https://www.youtube.com/watch?v=Jq-e-fZxXOs
 **Surfing USA – The Beach Boys cover** : The Jesus and Mary Chain covered The Beach Boys' classic song "Surfing USA." "but they also covered the Beach Boys Surfing USA." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
 **Upside Down (Year not specified)** : This single became a surprise hit for the band. Its release followed the band's formation by brothers Jim and William Reed, who, after being unemployed for five years, drew inspiration from 1960s girl groups while adding layers of noise to their songs. "It released a single call Upside Down, which was a surprise hit." ← https://www.youtube.com/watch?v=vEHdoUlGurY
 
@@ -47,6 +55,7 @@
 **Musical Philosophy and Style** : The Jesus and Mary Chain, a Scottish group led by "two brawling, hard to deal with brothers," championed the beauty and power found in noise, feedback, and fuzz. They sought to create "the most extreme guitar-based music they could," resisting the contemporary trend of guitar bands diminishing in prominence. "A Scottish group centered around two brawling, hard to deal with brothers who believed that there was beauty and power and noise and feedback and fuzz." ← https://www.youtube.com/watch?v=zB5zxycrbnY
 **North London Polytechnic Riot (March 15, 1985)** : This infamous gig became known as "the great Jesus and Marychain riot." The band, having recently moved from Scotland to London, had a hit single "Never Understand." Promoters oversold tickets, leading to an impatient, cramped, and surly crowd. After an opening band member threw a bottle at the audience, the crowd erupted. The Jesus and Mary Chain then kept the audience waiting an hour before playing a 20-minute, feedback-laden set and leaving, prompting the crowd to throw beer cans, invade the stage, and smash all the band's gear. The event received significant media attention due to the presence of the British music press. "The Jesus and Marychain provocateurs of the Great Riots at North London Polytechnic on March 15th, 1985." ← https://www.youtube.com/watch?v=huAvyInzz3Q
 **On-Stage Conflicts** : Brothers John and William Reed were known to engage in physical altercations even while performing, fighting on stage in the middle of a show. "And then there was John and William Reed of the Jesus and Mary chain. They'd even fight on stage in the middle of a show." ← https://www.youtube.com/watch?v=5bB7GAUM63Y
+**On-Stage Fighting** : Brothers John and William Reid of The Jesus and Mary Chain were known for their intense conflicts, which even manifested physically on stage during live performances. "They'd even fight on stage in the middle of a show." ← https://www.youtube.com/watch?v=cjWxC2jQVrA
 **Reed Brothers' Early Life** : Brothers Jim and William Reed from East Kilbride were unemployed for five years prior to forming the band. Their background influenced their approach to music, leading them to create noise with their guitars and express a disdain for conventional rock and roll. "They'd been unemployed for five years, and like the Ramones, they loved the girl groups of the 1960s." ← https://www.youtube.com/watch?v=vEHdoUlGurY
 **The Crow Soundtrack Contribution (1994)** : The Jesus and Mary Chain contributed to *The Crow* soundtrack in 1994, which was released during the peak of the alternative and Lollapalooza period. The film's music supervisors were praised for successfully curating a dark and suitable collection that reflected the movie's themes and tragic production. "They got the cure and rage against the machine, and Jesus and Mary Chain and the violent foms." ← https://www.youtube.com/watch?v=zIkjd1OjCXM
 **The Great Jesus and Mary Chain Riot** : Their concert at North London Polytechnic on March 15th, 1985, escalated into a riot. Factors contributing to the chaos included oversold tickets, a prolonged wait, and the band's deliberately provocative, short, feedback-heavy performance. The resulting stage invasion, gear smashing, and crowd violence were extensively covered by the British music press, cementing its place in rock history. "this gig has gone down in Indiraq history as the great Jesus and Mary chain riot." ← https://www.youtube.com/watch?v=qC0Ee4-dpnI

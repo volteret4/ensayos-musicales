@@ -14,6 +14,7 @@
 - Island Records
 
 ## concerts
+- Live 8
 - Time Square
 
 ## instruments
@@ -27,6 +28,7 @@
 **Avalon (1982)** : This is the title track from their 1982 album, *Avalon*. It is frequently recommended as a quality record for use when testing audio equipment due to its exquisite sound on vinyl. "There's Roxy Music with a title track of their 1982 Avalon album, a great record to use. When testing out audio equipment." ← https://www.youtube.com/watch?v=B2g4QSREzpw
 **Dance Away** : The Roland CR-78 drum machine can be heard contributing to the rhythm track of Roxy Music's song "Dance Away." "Roxy Music, it's in the song Dance Away" ← https://www.youtube.com/watch?v=dablAKDOOV0
 **Love Is the Drug (1975)** : A song that captures the essence of glam, with lyrics like "love is the drug for me." "love is the drug for me." ← https://www.youtube.com/watch?v=blDNqVFheAw
+**Love is the Drug (Year not specified)** : This song by Roxy Music featuring Brian Ferry was implied to be played after a discussion about Brian Ferry's son, Otis. The lyrics mention, "Love is the drug and I need to score. So we're not showing our hit and run. Boy meets girl with a beat goes on. Stitch up tight, can't she beat? Love is the drug and we're going to meet." "Love is the drug and I need to score." ← https://www.youtube.com/watch?v=U40hOYy_94E
 **Virginia Plain (1972)** : This song, released as a standalone single in the UK and part of the North American release of their debut album, notably served as a single about a brand of cigarettes, reflecting the band's unique and often peculiar approach. "Roxy Music and Virginia Plane, part of the North American release of their debut album, and a standalone single on the UK." ← https://www.youtube.com/watch?v=blDNqVFheAw
 
 ## curiosities

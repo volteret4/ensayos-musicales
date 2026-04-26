@@ -12,6 +12,8 @@
 - Air
 - D:Ream
 - Daft Punk
+- David Bowie
+- Donna Summer
 - Faithless
 - Fatboy Slim
 - Gnarls Barkley
@@ -20,6 +22,7 @@
 - Grace Jones
 - LCD Soundsystem
 - OutKast
+- Runrig
 - The Chemical Brothers
 - The Prodigy
 

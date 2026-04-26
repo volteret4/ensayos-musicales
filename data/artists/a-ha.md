@@ -1,7 +1,15 @@
-# artist - a-ha
+# artist - A-Ha
+
+## members
+- Paul Waaktaar-Savoy (guitarist)
+
+## genres
+- New Wave
+
+## songs
+**The Living Daylights (1987) – Title Theme** : A-Ha, a band described as "gigantic" in 1987, was hired to sing the theme for "The Living Daylights," the first James Bond film starring Timothy Dalton. Guitarist Paul Waaktaar-Savoy collaborated with John Barry on the song, which was released in June 1987 and became a sizable hit, particularly in their home country of Norway. "Norway's A-Ha was hired. They were gigantic in 1987 so this made sense." ← https://www.youtube.com/watch?v=K0pgJ7XAlpo
 
 ## curiosities
-**A-HA Pioneered Electric Vehicle Adoption in Norway (1990s) – Civil Disobedience with Electric Fiat** : The Norwegian band a-ha played a key role in normalizing electric vehicles in Norway in the 1990s, using an electric Fiat for acts of civil disobedience and actively campaigning for their adoption. Their influence helped seed the country's subsequent dominance in EV uptake. "Used an electric Fiat for acts of civil disobedience and promoted the adoption of electric vehicles." ← https://www.youtube.com/watch?v=qtdetc5-MQo
-**A-HA Pioneered Electric Vehicles in Norway (1990s) – Civil Disobedience with a Fiat** : The Norwegian band a-ha was instrumental in the popularization of electric vehicles in Norway in the 1990s. They used a Fiat electric car for acts of civil disobedience and actively promoted EV adoption. "Used a Fiat electric car for acts of civil disobedience and promoted the adoption of electric vehicles." ← https://www.youtube.com/watch?v=0DFmS6MPbFI
-**a-ha and Norway's Electric Vehicle Revolution – Civil Disobedience Starting 1989** : In 1989, Morten Harket and Mags of a-ha joined former Norwegian Prime Minister Gro Harlem Brundtland in driving an illegally non-toll-paying electric Fiat Panda (imported from Italy, backseat filled with batteries, 25-mile range, 20 hours to charge) around Norway, refusing to pay tolls, taxes, or parking fees, insisting that non-polluting vehicles should be exempt. They were fined repeatedly, declined to pay, and when the car was impounded and auctioned, they bought it back — 14 times. When Brundtland was re-elected Prime Minister in 1990, she made electrification of Norway's car fleet a government priority. By the 2020s, Norway has more electric vehicles per capita than any country on earth, with 90% of all new cars sold being electric. "It would not have happened without the help of a-ha." ← https://www.youtube.com/watch?v=fnZx8EGnszw
+**Saluted on Teal Album** : A-Ha was among the artists whose songs were saluted (covered) on Weezer's Teal Album. "Ah-Ha." ← https://www.youtube.com/watch?v=LYRPxtP61JM
+**Technopop Descendant** : Listed as one of the artists who descended from the original Technopop scene. "There was Bronsky beat, aha, yellow, Elfaville, Frankie Ghost of Hollywood. They all descended from the original Tecno Pop scene." ← https://www.youtube.com/watch?v=1KF5MwJVYng
 

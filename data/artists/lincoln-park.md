@@ -4,6 +4,7 @@
 - Chester Bennington
 - DJ Johan
 - Mike Chinota
+- Rob Borden
 
 ## genres
 - Alt Rock
@@ -21,6 +22,9 @@
 ## concerts
 - Hollywood Bowl
 - Project Revolution Tour
+
+## instruments
+- Electronic drums
 
 ## albums
 **A Thousand Sons (2010) – Fourth Studio Album** : Released on September 10, 2010, this album had worldwide sales of around 6 million. It polarized fans and critics due to an evolving sound, featuring guitars in the background, fewer raps for Mike Chinota, more electronic elements, and programmed beats, alongside a concept dealing with nuclear war. The band anticipated the pushback, viewing the changes as a necessary creative evolution. "A Thousand Sons, which came out on September 10, 2010. Very successful record." ← https://www.youtube.com/watch?v=qQm7u3W13eM
@@ -43,6 +47,7 @@
 **Carpool Karaoke Appearance (2017)** : On July 14, 2017, the band filmed an episode of "Carpool Karaoke" with James Corden. Footage from the event showed Chester Bennington appearing happy and healthy just days before his death. "On July 14, 2017, the band shot an episode of Carpool Karaoke with James Corden. That seemed to be loads of fun." ← https://www.youtube.com/watch?v=qQm7u3W13eM
 **Chester Bennington Tribute Concert (2017)** : On October 27, 2017, a three-hour tribute concert for Chester Bennington was held at the Hollywood Bowl. The event featured friends from Blink 182, System of a Down, Korn, and Avenged Sevenfold, and was streamed live, reaching millions of viewers as Linkin Park paid tribute to their fallen bandmate. "On October 27th, 2017, there was a three hour tribute to Chester featuring his friends from Blink 182, system of a downed corn, a bench, seven fold and more." ← https://www.youtube.com/watch?v=qQm7u3W13eM
 **Early Career Success & Control** : By 2011, approximately 10 years after forming, Lincoln Park had sold over 80 million albums and amassed millions of fans globally. They exercised firm control over their career, dictating a schedule of releasing a new album every 18 months, rather than their record label. "In the 10 years since the band was formed, they'd sold over 80 million albums." ← https://www.youtube.com/watch?v=qQm7u3W13eM
+**Embraced Modern Electronic Drums** : Rob Borden of Lincoln Park is one of the contemporary drummers who has adopted modern electronic drums. These instruments are utilized to trigger sounds, tones, patterns, and samples, demonstrating their versatility in modern music production and performance. "Today's electronic drums have been embraced by players such as Danny Carey, Neil Peart, Will Champion of Coldplay, Rob Borden of Lincoln Park, and many, many others." ← https://www.youtube.com/watch?v=WL3zEWJJNuw
 **Favorable Contract Renegotiation (2005)** : After a public dispute with Warner Music Group, Lincoln Park secured a $15 million advance for their next album, "Minutes to Midnight," and an option for up to five additional albums with an exceptionally high royalty rate of 20%. Warner had little choice but to agree, given their new presence in financial markets and the risk of losing "the biggest rock band in the world at the time." "Lincoln Park had a $15 million advance for the next album which was Minutes to Midnight. They were also given an option for up to 5 more albums with a royalty rate of 20%, which is a pretty insanely high rate." ← https://www.youtube.com/watch?v=qQm7u3W13eM
 **Initial Record Label Rejections** : Their demos were turned down by record labels almost 50 times before they were signed at the end of 1999, which reflected the music industry's belief that new metal was "over" at that time. "And to think that their demos were turned down by record labels almost 50 times before they were signed at the end of 1999, that's how much the industry believed that new metal was over." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
 **LP Recharge Online Game** : Chester Bennington was involved in the creation of "LP Recharge," an online action game based on the band itself. The game was launched through Facebook, demonstrating the band's engagement with new digital platforms. "He was also involved in the creation of LP Recharge, which was an online action game based on the band and launched through Facebook." ← https://www.youtube.com/watch?v=qQm7u3W13eM

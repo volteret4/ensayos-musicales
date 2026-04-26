@@ -1,0 +1,7 @@
+# instrument - Piggadino
+
+## curiosities
+**Forerunner of Future Technologies (Mid-15th century)** : Despite its crude nature and "hideous clash" of music and technology, the Piggadino, invented 600 years ago, is considered a "forerunner of future music-related technologies." It conceptually anticipated modern developments such as sampling, sequencing, and synthesis. "However, the Piggadino, invented 600 years ago, was the forerunner of future music-related technologies, like sampling and sequencing and synthesis." ← https://www.youtube.com/watch?v=ak6OuOUkRrQ
+**Mechanism and Sound (Mid-15th century)** : To play the Piggadino, pigs were laid out from smallest to largest, with a spike connected to a keyboard positioned at the "high end" of each pig. Pressing a key caused the corresponding pig to be "spiked," producing "an oink of a certain note," allowing for tunes to be played, though the sound "didn't sound very good." "Pressing a key, the corresponding pig would be spiked, resulting in an oink of a certain note." ← https://www.youtube.com/watch?v=ak6OuOUkRrQ
+**Mid-15th Century Invention (Mid-15th century)** : The Piggadino was a unique musical instrument created in the mid-15th century by Abbe DeBang at the challenge of King Louis XI of France, who sought amusement. It was constructed using pigs of varying sizes, each connected to a piano-like keyboard via a spike. "The result was the Piggadino, a keyboard that required a number of pigs of varying sizes." ← https://www.youtube.com/watch?v=ak6OuOUkRrQ
+

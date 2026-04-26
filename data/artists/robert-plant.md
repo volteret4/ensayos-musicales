@@ -1,5 +1,8 @@
 # artist - Robert Plant
 
+## member of
+- Led Zeppelin
+
 ## curiosities
 **Apology and Compliment to The Trews** : After his initial displeasure regarding The Trews' "Bohemian Rhapsody" cover, Robert Plant later offered a subtle apology during a show in Calgary at the Saddledome. He publicly acknowledged Canada's rich songwriting history, mentioning Neil Young, Joni Mitchell, and Leonard Cohen, and significantly, included "the trues" in this esteemed list. "Canada has always had such a rich history of songwriting and with Neil Young and Joni Mitchell and Leonard Cohen and the trues. And I took that as his his apology for telling us." ← https://www.youtube.com/watch?v=3zbKOwkpkAM
 **Collaboration with Jason Bonham** : Robert Plant, alongside Jimmy Page, required Jason Bonham to fill in on drums on occasion. "Jimmy Page and Robert Plant needed somebody to keep time." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
