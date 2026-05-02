@@ -1,0 +1,1 @@
+The provided transcript "EsperYa.... Punda sobre Sobre se puede usar" contains no musically significant information as per the extraction criteria. Therefore, no output can be generated.
