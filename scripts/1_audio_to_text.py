@@ -5,7 +5,7 @@ import os
 TRANSCRIPTS_FOLDER = 'transcripts'
 RESUMENES_FOLDER = 'resumenes'
 INPUT_FOLDER = "mp3_input"
-LANGUAGE = "es"
+LANGUAGE = "en"
 
 os.makedirs(TRANSCRIPTS_FOLDER, exist_ok=True)
 os.makedirs(RESUMENES_FOLDER, exist_ok=True)
