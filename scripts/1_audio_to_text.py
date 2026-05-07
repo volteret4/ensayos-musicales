@@ -4,7 +4,7 @@ import os
 # --- CONFIGURACIÓN DE RUTAS ---
 TRANSCRIPTS_FOLDER = 'transcripts'
 RESUMENES_FOLDER = 'resumenes'
-INPUT_FOLDER = "./mp3_input"
+INPUT_FOLDER = "mp3_input"
 LANGUAGE = "es"
 
 os.makedirs(TRANSCRIPTS_FOLDER, exist_ok=True)
