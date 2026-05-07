@@ -12,6 +12,9 @@
 ## labels
 - Creation Records
 
+## concerts
+- Devotional Tour (1993-1994)
+
 ## albums
 **C86 Compilation (1986)** : Primal Scream was featured on the NME's *C86* compilation cassette in 1986, distinguishing themselves as one of the few bands from the tape to later achieve widespread recognition, ultimately becoming the biggest act associated with C86. Their contribution to the compilation showcased their early "tweey" sound, which predated their embrace of acid house and subsequent transformation into a "very druggy band." "But the biggest of all of the C86 bands was primal scream." ← https://www.youtube.com/watch?v=jhgZrwtYE2g
 **Screamadelica (1991) - Career Best** : Released in September 1991, "Screamadelica" is considered the best album of Primal Scream's career. It served as a perfect bridge between the English rave scene and alternative music. "Primal's scream released their brilliant Screama Delica album in September. That was the best album of their career and a perfect bridge between the English rave scene and alternative." ← https://www.youtube.com/watch?v=Rf1tFWQg51Y
@@ -20,6 +23,7 @@
 **Velocity Girl (1986)** : This song was the first track on the legendary C86 cassette collection, which featured a compilation of power pop and jangly guitar-based songs from various UK indie labels. The track is notable for its brevity, clocking in at 81 seconds. "Primal Scream with Velocity Girl, the first track on the mythical C86 cassette collection." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
 
 ## curiosities
+**"Scared Straight" by Depeche Mode's Debauchery** : Primal Scream, who opened for Depeche Mode on much of their 1993-94 Devotional Tour, was reportedly "scared straight" by the intense drug use and debauchery displayed by Dave Gahan and the rest of Depeche Mode during that period. "Primo's scream who opened up much of the 93 94 devotional tour was scared straight by Dave and the rest of Dopech Mode's debutshery." ← Ongoing History of New Music > People Who (Almost) Died | https://www.youtube.com/watch?v=7rXwaxlEkbQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Acknowledged Influence of Public Image Limited** : Primal Scream is mentioned as one of the bands that recognized the importance of Public Image Limited's musical contributions. "Nine-inch nails, massive attack, manic street preachers, ministry, primal scream, they all acknowledged the importance of public image limited." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
 **Band Name Inspiration** : A later indie band was inspired by and took the title of Primal Scream's C86 contribution, "Velocity Girl," as their own band name. "And that there was this group on the creation label who not only became rather famous, but a later indie band took the title of their C86 contribution as a name for themselves." ← https://www.youtube.com/watch?v=VOv5mT1dJd8
 **Declared Influence** : Primal Scream is among a partial list of artists and bands who have publicly stated that they have been influenced by Joy Division in some way. "You too, arcade fire, smashing pumpkins, nine inch nails, to pesh mode, sisters of mercy, ministry, chain addiction, the smiths, Bjork, Jesus and Marychain, Moby, primal scream, the Charlotains, Interpol, editors, white lies, Frans Ferdinand. I could go on, but I think you get the point." ← https://www.youtube.com/watch?v=1VWJ0uCQx8w

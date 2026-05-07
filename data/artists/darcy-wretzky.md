@@ -1,6 +1,5 @@
-# artist - D'arcy Wretzky
+# artist - Darcy (Wretzky)
 
 ## member of
-- Smashing Pumpkins
 - The Smashing Pumpkins
 

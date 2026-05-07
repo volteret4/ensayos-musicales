@@ -10,7 +10,8 @@ ENTRY_RE = re.compile(r'^\*\*(.+?)\*\*\s*:\s*(.+)')
 # ── Podcast source helpers ─────────────────────────────────────────────────────
 
 def load_podcast_env(folder):
-    """Read podcast.env from folder. Returns (title, playlist_id)."""
+    """Read podcast.env from folder. Returns (title, playlist_id).
+    Accepts both TITLE=/NAME= and PLAYLIST=/YT_PLAYLIST= key variants."""
     env_path = os.path.join(folder, 'podcast.env')
     if not os.path.exists(env_path):
         return '', ''
@@ -22,10 +23,10 @@ def load_podcast_env(folder):
             if not sep:
                 continue
             k = k.strip().upper()
-            v = v.strip()
-            if k == 'TITLE':
+            v = v.strip().strip('"').strip("'")
+            if k in ('TITLE', 'NAME'):
                 title = v
-            elif k == 'PLAYLIST':
+            elif k in ('PLAYLIST', 'YT_PLAYLIST'):
                 m = re.search(r'[?&]list=([A-Za-z0-9_-]+)', v)
                 if m:
                     playlist_id = m.group(1)
@@ -36,15 +37,23 @@ def extract_video_id(filename):
     m = re.search(r'\[([A-Za-z0-9_-]{8,12})\]', filename)
     return m.group(1) if m else ''
 
-def make_source_str(podcast_title, video_id, playlist_id):
-    """Build 'podcast_title | https://youtube.com/watch?v=VID&list=LIST'."""
+def extract_chapter_title(filename):
+    """Extract chapter title from 'Chapter Title [VID_ID].md' filenames."""
+    name = os.path.splitext(filename)[0]
+    name = re.sub(r'\s*\[[A-Za-z0-9_-]{8,12}\]\s*$', '', name)
+    return name.strip()
+
+def make_source_str(podcast_title, video_id, playlist_id, chapter_title=''):
+    """Build 'Podcast > Chapter | https://youtube.com/watch?v=VID&list=LIST'."""
     if not video_id:
         return ''
     url = f'https://www.youtube.com/watch?v={video_id}'
     if playlist_id:
         url += f'&list={playlist_id}'
-    if podcast_title:
-        return f'{podcast_title} | {url}'
+    parts = [p for p in (podcast_title, chapter_title) if p]
+    label = ' > '.join(parts)
+    if label:
+        return f'{label} | {url}'
     return url
 
 def slug(name):
@@ -112,7 +121,8 @@ def parse_folder(folder, artists, genres, labels, concerts, instruments, standal
             _env_cache[root] = load_podcast_env(root)
         title, playlist_id = _env_cache[root]
         video_id = extract_video_id(filename)
-        return make_source_str(title, video_id, playlist_id)
+        chapter_title = extract_chapter_title(filename)
+        return make_source_str(title, video_id, playlist_id, chapter_title)
 
     for root, _dirs, files in os.walk(folder):
         for filename in sorted(files):

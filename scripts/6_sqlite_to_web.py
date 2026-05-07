@@ -738,6 +738,7 @@ document.getElementById('panel').addEventListener('click', e => {
 const searchEl = document.getElementById('search');
 const acList   = document.getElementById('ac-list');
 let   acActive = -1;
+let   acMatches = [];
 
 function highlight(text, q) {
   if (!q) return text;
@@ -749,12 +750,12 @@ function highlight(text, q) {
 function buildAcList(q) {
   acList.innerHTML = '';
   acActive = -1;
-  const primaryArtists = ARTISTS.filter(a => a.is_primary);
-  const matches = q
-    ? primaryArtists.filter(a => a.name.toLowerCase().includes(q.toLowerCase()))
-    : [...primaryArtists].sort((a, b) => a.name.localeCompare(b.name));
-  if (!matches.length) { acList.classList.remove('open'); return; }
-  matches.slice(0, q ? 15 : 500).forEach(artist => {
+  const ql = q.toLowerCase();
+  const sorted = [...ARTISTS.filter(a => a.is_primary)].sort((a, b) => a.name.localeCompare(b.name));
+  const filtered = ql ? sorted.filter(a => a.name.toLowerCase().includes(ql)) : sorted;
+  if (!filtered.length) { acList.classList.remove('open'); acMatches = []; return; }
+  acMatches = filtered.slice(0, 20);
+  acMatches.forEach(artist => {
     const div = document.createElement('div');
     div.className = 'ac-item';
     div.innerHTML = highlight(artist.name, q);
@@ -767,11 +768,12 @@ function buildAcList(q) {
 function selectAcItem(artist) {
   searchEl.value = '';
   acList.classList.remove('open');
+  acMatches = [];
   focusOnArtist(artist.id);
 }
 
 searchEl.addEventListener('input', () => buildAcList(searchEl.value));
-searchEl.addEventListener('focus', () => buildAcList(searchEl.value));
+searchEl.addEventListener('focus', () => { if (searchEl.value) buildAcList(searchEl.value); });
 searchEl.addEventListener('keydown', e => {
   const items = acList.querySelectorAll('.ac-item');
   if (!items.length) return;
@@ -779,8 +781,7 @@ searchEl.addEventListener('keydown', e => {
   else if (e.key === 'ArrowUp')  { e.preventDefault(); acActive = Math.max(acActive - 1, 0); }
   else if (e.key === 'Enter' && acActive >= 0) {
     e.preventDefault();
-    const q = searchEl.value.toLowerCase();
-    const artist = ARTISTS.filter(a => a.is_primary && a.name.toLowerCase().includes(q))[acActive];
+    const artist = acMatches[acActive];
     if (artist) selectAcItem(artist);
     return;
   } else if (e.key === 'Escape') { acList.classList.remove('open'); return; }
@@ -805,17 +806,17 @@ document.getElementById('focus-slider').addEventListener('input', function() {
 });
 document.getElementById('focus-back').addEventListener('click', clearFocus);
 // ── Boot ──────────────────────────────────────────────────────────────────────
-// Compute the set of actual element counts so the slider snaps to existing values
+// Slider positions map 1-to-1 to actual unique element counts — no empty stops.
 const _countVals = [...new Set(
   ARTISTS.map(a => Object.values(a.categories).reduce((s,c) => s + c.length, 0))
 )].sort((a, b) => a - b);
 const _filterSlider  = document.getElementById('filter-slider');
 const _minDataValEl  = document.getElementById('min-data-val');
 _filterSlider.min    = 0;
-_filterSlider.max    = _countVals.length - 1;
-// Start at MAX so only the richest artists appear first — drag left to expand
-_filterSlider.value  = _countVals.length - 1;
-minElements          = _countVals[_countVals.length - 1] ?? 0;
+_filterSlider.max    = Math.max(0, _countVals.length - 1);
+// Start at MAX — only the richest artist(s) appear; drag left to reveal more
+_filterSlider.value  = +_filterSlider.max;
+minElements          = _countVals.length > 0 ? _countVals[_countVals.length - 1] : 0;
 _minDataValEl.textContent = minElements;
 _filterSlider.addEventListener('input', function() {
   minElements = _countVals[+this.value] ?? 0;

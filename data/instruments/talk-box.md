@@ -1,5 +1,8 @@
-# instrument - Talk Box
+# instrument - Talk box
 
 ## curiosities
-**Elvino Ray's Role in Invention (1930s)** : Elvino Ray, Win Butler's grandfather, helped invent the talk box device in the 1930s, a device famously used by musicians like Peter Frampton with their guitars, demonstrating his innovative spirit in instrument development. "You know those talk boxes used by people like Peter Frampton with their guitars? It's a ridiculous device, but Elvino Ray helped invent that back in the 1930s." ← https://www.youtube.com/watch?v=Q_c-m_NDznw
+**First Used on "Beverly Hills"** : The talk box on a guitar was used for the first time in a Weezer song on "Beverly Hills." This marked a new sonic exploration for the band. "It was also the first Weezer song to use a talk box on a guitar." ← Ongoing History of New Music > Rivers Cuomo and Weezer - Alt-Rock's Nerd Heroes Part 2 | https://www.youtube.com/watch?v=LYRPxtP61JM&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+
+## artists
+- Weezer
 

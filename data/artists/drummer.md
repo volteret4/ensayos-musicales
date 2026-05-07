@@ -1,5 +1,8 @@
 # artist - Drummer
 
+## member of
+- Grant Lee Buffalo
+
 ## members
 - Patrick Carney (bass in studio)
 - Patrick Carney (bass)

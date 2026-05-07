@@ -1,9 +1,10 @@
-# concert - Reading Festival (1990)
+# concert - Reading Festival 1990
 
 ## curiosities
-**Inspiration for Lollapalooza** : The Pixies headlined the final day of the 1990 Reading Festival, where over 30,000 attendees happily sang along. This display of raw energy and crowd engagement reportedly impressed members of Jane's Addiction's management team, leading them to conceive of Lollapalooza as a similar event for North America. "When the Pixies headlined the final day of the 1990 Reading Festival, more than 30,000 people happily sang along. And legend has it that members of Jane's Addictions Management team were impressed by this display of raw energy." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
-**Perry Farrell's Epiphany** : The 1990 Reading Festival in England was the site of a "profound revelatory moment" for Perry Farrell, founder of Jane's Addiction. Witnessing 30,000 kids enthusiastically responding to The Pixies' song "Debaser," Farrell was inspired to create a similar large-scale festival experience in America, which became Lollapalooza. "Perry had an epiphany. This profound revelatory moment at the 1990 Reading Festival in England. He saw 30,000 kids jumping up and down, screaming their brains out to Debacer by the Pixies." ← https://www.youtube.com/watch?v=xdn31jMOOA4
+**Inspiration for Lollapalooza** : Perry Farrell, then with Jane's Addiction, was present at the 1990 Reading Festival and witnessed The Pixies' overwhelming performance. The sight of 30,000 fans singing along to "Debaser" was the direct inspiration that convinced him to establish the Lollapalooza Festival in North America. ← Ongoing History of New Music > From the Archives： The Top 100 Moments in New Rock - Part 9 | https://www.youtube.com/watch?v=Z9T9wi0vEvc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**The Pixies' Headlining Performance** : In 1990, The Pixies were granted the prestigious honor of headlining the main stage on the final day of the Reading Festival in the UK. Their performance drew an ecstatic crowd of over 30,000 people who enthusiastically sang along to their songs, notably "Debaser." ← Ongoing History of New Music > From the Archives： The Top 100 Moments in New Rock - Part 9 | https://www.youtube.com/watch?v=Z9T9wi0vEvc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
+- Jane's Addiction
 - The Pixies
 
