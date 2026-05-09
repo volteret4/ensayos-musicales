@@ -1,0 +1,80 @@
+# artist - Björk
+
+## genres
+Techno
+Trip-hop
+Electronica
+Experimental Electronic
+IDM
+
+## instruments
+Flutes
+Harps
+Wind sounds
+Music boxes
+Synthesizers
+Computer (as a compositional tool)
+Orchestral instruments
+
+## albums
+**Utopia (2017) - Release and Production** : Released in November 2017 after a long gestation period, with Björk describing it as "radically different" from her previous album, *Vulnicura*. The album's launch was unusual due to Björk providing minimal information in interviews and delaying announcements for the single and album details until shortly before their market release. The production and composition of *Utopia* are credited to both Björk and Arca, with the album's physical sticker even stating "Björk and Arca." "El lanzamiento de su último disco era como muy distinto, lo hacía sin casi sin datos."
+**Utopia (2017) - Compositional Approach** : For this album, Björk adopted a distinct compositional method, starting with rhythmic bases and flutes to construct complex rhythmic structures and songs, with lyrics being incorporated almost at the very end of the process. This approach differed significantly from her usual working style, contributing to a noticeably different sound. "Para este disco ya ha trabajado sobre las bases rítmicas y las flautas estas que ahora tanto le gustan con ellas ha elaborado todas las estructuras rítmicas y las canciones más complejas y con una canción casi terminada ella ha incorporado la litra."
+**Utopia (2017) - Lyrical and Sonic Qualities** : The lyrics of *Utopia* are characterized as less intense, sad, or macabre compared to *Vulnicura*, leaning instead towards being more "banal," cheerful, pompous, and cyclical. Sonically, Björk's voice is less predominant, with a rhythmic sound enveloping the entire composition, marking a significant change. The flute work is described as complex, processed, and enriched with synthesizers and numerous sound effects, moving beyond the simpler flute sounds heard in earlier albums like *Medúlla*. "Las letras a lo mejor no son tan intensas como como teníamos en el vulcnicura que era como tan triste tan deprimente tan intenso emocionalmente a veces que así hasta macabro."
+**Utopia (2017) - Commercial Performance** : Despite receiving "incredible reviews" and being considered "a great work," *Utopia* experienced the worst chart and sales performance of Björk's entire career. For instance, in Japan, historically a significant market for her, the album sold merely 1,500 units in its first week, barely entering the sales rankings. This commercial outcome is attributed not to the album's quality but to a perceived growing disconnect between Björk's sound and the broader public, contrasting with her increasingly faithful yet shrinking fanbase. "Ha tenido el peor arranque en los posicionamientos de listas y de ventas de toda la carrera de Bjork."
+**Vulnicura (2015) - Tour and Style** : The tour for *Vulnicura* concluded in 2017. This album was characterized by very sad, depressing, emotionally intense, and sometimes macabre lyrics. It also featured moments of arhythmic and experimental electronic sounds, such as in tracks like "Mouth Mantra" and "Notget," though these elements were less prominent or more "hidden" within the album's overall sound compared to *Utopia*. "La gira del volnicura había terminado durante este 2017."
+**Biophilia (2011) - Departure from Style** : The style established in *Biophilia* was one that Björk was perceived to be moving away from in the lead-up to *Utopia*, as she explored new or revisited old musical avenues. "Veíamos que Bjorky estaba abandonando ese camino en el que se había metido un poco en los últimos discos, en el biofile y el búlmicura."
+**Vespertine (2001) - Instrumental History** : Since the release of *Vespertine*, Björk has consistently incorporated instruments such as flutes, harps, wind sounds, and music boxes into her sonic palette. This historical context made her presentation of flutes as a "new" element for *Utopia* initially surprising to some. "Bjork llevaba usando flautas, arpas, sonidos y viento, cajas de música, todas estas cosas, yo creo que desde el web es pertín."
+**Medúlla (2004) - Instrumental History** : Similar to *Vespertine*, *Medúlla* is cited as an album where Björk consistently employed flutes, harps, wind sounds, and music boxes. The complex and processed flute work on *Utopia* is noted as significantly different from what one might have expected or heard on *Medúlla*. "El trabajo de flautas no es lo que te esperabas a niños con la flauta está de prescodar sino que son sonidos verdaderamente complejos que están pasados por procesamiento."
+
+## songs
+**The Gate (2017)** : This song from *Utopia* prominently features Arca's "passionate rhythmic work," including the "famous arrhythmias" that contribute to the album's contemporary sound. "Tenemos canciones como el sumi o como el utopía, el mismo utopía que le da nombre al título en el que arca hace unos trabajos rítmicos apasionantes."
+**Utopia (2017)** : The title track of the album, it showcases Arca's "passionate rhythmic work" and incorporates notable "arrhythmias" that help make the album feel current and less isolated in Björk's self-referential creative bubble. "El mismo utopía que le da nombre al título en el que arca hace unos trabajos rítmicos apasionantes."
+**Blissing Me (2017)** : Identified as one of the popular, "classic Björk" technical songs on *Utopia*. "Curiosamente a todo el mundo le está encantando el blismi y todas estas canciones como más técnicas de Bjork clásica."
+**Mouth Mantra (2015)** : A track from *Vulnicura* that featured experimental electronic and arhythmic elements, which were somewhat "hidden" within the overall album context but hinted at the directions explored more explicitly in *Utopia*. "Teníamos el maudmantra o el tema note que quedaban como muy escondidos en lo que venía ser el volnicura."
+**Notget (2015)** : Another song from *Vulnicura* that exhibited arhythmic and experimental electronic characteristics. These aspects, while present, were less prominent than they became in *Utopia*, where similar elements were brought to the forefront. "El maudmantra o el tema note que quedaban como muy escondidos en lo que venía ser el volnicura y aquí es como que esto otra vez mucho más visible."
+
+## curiosities
+**"Tinder Album" Comment** : Björk referred to *Utopia* as her "Tinder album," a statement that even she found challenging to fully explain, leading to its direct omission from deeper analysis due to its enigmatic nature. "Dice Bjorky es su album Tinder o lo que quiera que se edifique, ni ella misma es capaz de explicar a que se refiere con lo del album Tinder."
+**Brit Awards 2016 Absence** : Björk was awarded a prize at the Brit Awards in 2016 but did not attend to collect it. Her absence was due to being intensely preoccupied with working on her new album, *Utopia*, which subsequently created high anticipation for its release. "Bjork le daba en el premio en el Brita Wars el 2016, el cual no iba a recoger precisamente porque estaba demasiado ocupada trabajando en su disco."
+**2017 DJ Sets and Sound Artist Sessions** : In 2017, following the *Vulnicura* tour, Björk engaged in numerous DJ sets and sound artist sessions. During these performances, she heavily delved into classic techno sounds and rhythmic structures reminiscent of trip-hop, albeit with a harder edge, sometimes echoing the sound of Arca. "Bjorky en este 2017 había hecho varias sesiones pinchándonos, no tocando, sino haciendo como medio de DJ o de artistas de sonido, en el cual se había entrado muchísimo otra vez en esos sonidos del tecno más clásico."
+**Performances with Nature Motifs** : Around the time of *Utopia*'s development, Björk's appearances often featured her surrounded by natural plants and dressed in bird or nature-inspired costumes, leading to speculation about a potential nature-themed album. "Hacia esas actuaciones rodeadas de plantas naturales y disfrazadas de pájaro y de naturaleza."
+**Vague Album Launch Information** : The launch of *Utopia* was uncharacteristically discreet, with Björk providing minimal details throughout the creative process and leading up to the release. This contrasted sharply with her usual practice of offering extensive information about her projects. Album details were confirmed only days before its market debut in November, causing it to be absent from promotional release lists until late. "El lanzamiento de su último disco era como muy distinto, lo hacía sin casi sin datos, Bjork siempre había sido una persona que daba como bastantes datos puntual y durante todo el proceso creativo."
+**Artwork by Jesse Kanda** : The distinct visual identity of *Utopia*, particularly the "weird mask" and the overall album artwork, was created by Jesse Kanda, a significant plastic artist. Kanda has a history of collaborating with Arca and also contributed by directing music videos for Björk during her *Vulnicura* era. "La máscara la CIA y la máscara, no la máscara sino todo el trabajo artístico del disco, la CIA y la máscara, que es un artista plástico muy importante, que es el que ha trabajado con Arca y que de hecho había trabajado con ella también."
+**Extensive Flute Section on Utopia** : A notable feature of *Utopia* is the involvement of 15 to 17 flutists, making the presence of flutes a prominent and defining characteristic of the album. This extensive use of flutes was initially met with some skepticism by those expecting a "newer" sound from Björk. "O sea, 17 flautistas y flautas, 15 flautistas y flautas no se hacían falta tantos."
+**Initial Disappointment with Flutes as "New"** : There was an initial feeling of disappointment when Björk highlighted flutes as the "most bombastic" or "newest" element of *Utopia*. This reaction stemmed from the fact that flutes, along with harps, wind sounds, and music boxes, have been a constant presence in her sound since albums like *Vespertine* and *Medúlla*. "Me des de fin o un poco cuando Bjork dijo que lo más rin bombante o lo más nuevo que iba a traernos del futuro eran flautas."
+**Growing Self-Influence and Detachment from Trends** : Over the past decade, Björk has increasingly become her own primary influence, leading to a gradual disengagement from mainstream musical trends. While she was initially at the forefront of electronic music innovation, she has progressively moved towards self-inspiration, which has somewhat isolated her from the recent rhythmic revolution in electronic music. "Bjork, en los últimos 10 años, yo creo que se ha desculgado un poco de las tendencias musicales... para un poco pasarle como lo que le pasa a muchos de esos grandísimos genios y artistas que después de muchos años pasan a convertirse en ellos casi la única influencia de sí mismos."
+**Future Version with More Flutes** : Björk has expressed her intention to create and release another version of *Utopia* that incorporates even more flutes, indicating a continued fascination with the instrument's potential. "Ella ya no se ha dicho que quiere hacer una versión con más flautas todavía de este disco."
+**Shrinking but Loyal Fanbase** : Despite creating an album of immense quality like *Utopia*, Björk's audience is characterized as increasingly loyal but also progressively smaller. This situation suggests that while her dedicated fans cherish her work, her sound is becoming more alienating to a broader public, leading to reduced sales and chart performance. "El público de Bjork a la vez que cada vez más fieles cada vez más reducido."
+
+# artist - Arca
+
+## member of
+Björk (collaborator on Utopia)
+
+## albums
+**Arca's Last Album (Unnamed)** : Arca's most recent album before *Utopia* was noted for containing numerous influences from Björk, demonstrating a reciprocal creative relationship between the two artists. "El último disco de arca tenía muchísimas influencias de Bjork."
+
+## curiosities
+**Musical Influence on Björk's Utopia** : Arca played a crucial role in shaping the sound of Björk's *Utopia*, making the album sound "more complete," "more current," and more aligned with the latest trends in experimental electronic music. His "fantastic work" involved integrating recent experimental electronic trends and contributing passionate rhythmic arrangements and "famous arrhythmias" to tracks like "The Gate" and the title track "Utopia." "Arca ha hecho un trabajo fantástico en este disco cogiendo todo eso y incorporando muchas de las últimas tendencias de la elitónica más experimental."
+**Collaboration and Co-authorship with Björk** : The collaboration between Arca and Björk on *Utopia* was so extensive that the album's production and composition are almost entirely co-signed by both artists. The album's sticker explicitly credits "Björk and Arca," highlighting their integrated creative partnership, where it's difficult to conceive of one's contribution without the other's. "Este disco está firmado como Bjork y arca sus piensas en la etiqueta de pegatina que pone el disco abajo pone Bjork y arca la producción incluso la composición están firmadas por ambos casi en completo en el disco."
+**Youth and Trend Immersion** : Arca is described as a young artist who is deeply immersed in the latest trends concerning sound, rhythm, and the overall landscape of contemporary electronic music. This contemporary sensibility greatly complements Björk's established sound. "Arca es muy joven está muy metida en las últimas tendencias del sonido y de la rítmia y de los ritmos de la electrónica que se está haciendo."
+
+# artist - Jesse Kanda
+
+## member of
+Arca (collaborator)
+Björk (collaborator)
+
+## curiosities
+**Artwork for Björk's Utopia** : Jesse Kanda is a highly regarded plastic and graphic artist responsible for the distinctive visual direction of Björk's *Utopia* album, including the "weird mask" and the overall artistic concept. "La máscara la CIA y la máscara, no la máscara sino todo el trabajo artístico del disco, la CIA y la máscara, que es un artista plástico muy importante."
+**Videography for Björk's Vulnicura Era** : Kanda previously collaborated with Björk during her *Vulnicura* period, contributing to the creation of some of her music videos, indicating an ongoing artistic relationship. "Había hecho algún videoclip de Bjork en la etapa del Gurnicura con lo cual."
+**Collaboration with Arca** : Kanda has also worked with Arca, highlighting his connections within the experimental electronic music scene and his role as a visual artist for contemporary musicians. "Es el que ha trabajado con Arca."
+
+# genre - Electronica
+
+## curiosities
+**Rhythmic Revolution in Recent Years** : The last 10 years have seen a "new rhythmic revolution" within electronic music, with many artists creating entirely new sounds, particularly from the experimental electronic (IDM) scene. Björk was noted for having become somewhat disconnected from these recent developments, making her re-engagement with them in *Utopia* noteworthy. "En los últimos años, yo creo que sobre todo en los últimos 10 años, ha habido como una nueva revolución rítmica dentro de la música electrónica."
+
+# curiosity
+
+**Björk's Re-engagement with Electronic Trends** : Björk, who was once a foundational figure in electronic music, had gradually become somewhat disconnected from its latest trends over the past decade. Her work on *Utopia*, particularly through collaboration with Arca and the integration of processed flutes and experimental electronic rhythms, marked a significant re-engagement with contemporary electronic music. This move is seen as enriching for her music and potentially broadening her appeal to younger audiences. "Se había como quedado un poco descolgada de las últimas tendencias electrónicas de la que Bjork fue posiblemente uno de los pilares lo cual ha sido muy en ricocedor."
