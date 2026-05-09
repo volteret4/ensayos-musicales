@@ -6,6 +6,34 @@ from sopsdotenv import load_sops_env
 import requests
 import time
 
+# Rotación de keys
+
+# Definimos los nombres de los archivos
+file1 = ".encrypted.env"
+file2 = ".encrypted_2.env"
+file3 = ".encrypted_3.env"
+temp  = ".encrypted_4.env"
+
+try:
+    # 1. mv .encrypted.env .encrypted.env_4
+    os.rename(file1, temp)
+
+    # 2. mv .encrypted.env_2 .encrypted.env
+    os.rename(file2, file1)
+
+    # 3. mv .encrypted.env_3 .encrypted.env_2
+    os.rename(file3, file2)
+
+    # 4. mv .encrypted.env_4 .encrypted.env_3
+    os.rename(temp, file3)
+
+    print("Rotación de archivos completada con éxito.")
+
+except FileNotFoundError as e:
+    print(f"Error: No se encontró uno de los archivos. {e}")
+except Exception as e:
+    print(f"Ocurrió un error inesperado: {e}")
+
 # 1. Configuración de la API
 load_sops_env()
 client = genai.Client(api_key=os.environ['GEMINI_API_KEY'])

@@ -7,12 +7,12 @@ Charts:   db/charts.db     (local, construida con build_charts_db.py)
           → fallback a Wikidata si la DB local no existe
 
 Uso:
-    python3 scripts/3_awards_charts.py
-    python3 scripts/3_awards_charts.py --file resumenes/.../archivo.md
-    python3 scripts/3_awards_charts.py --force       # sobreescribe secciones existentes
-    python3 scripts/3_awards_charts.py --dry-run     # no modifica archivos
-    python3 scripts/3_awards_charts.py --no-charts   # solo premios
-    python3 scripts/3_awards_charts.py --no-awards   # solo charts
+    python3 scripts/4_awards_charts.py
+    python3 scripts/4_awards_charts.py --file resumenes/.../archivo.md
+    python3 scripts/4_awards_charts.py --force       # sobreescribe secciones existentes
+    python3 scripts/4_awards_charts.py --dry-run     # no modifica archivos
+    python3 scripts/4_awards_charts.py --no-charts   # solo premios
+    python3 scripts/4_awards_charts.py --no-awards   # solo charts
 """
 
 import os
