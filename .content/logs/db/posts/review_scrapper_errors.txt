@@ -1,0 +1,957 @@
+
+==================================================
+Artista: Chromatics
+Álbum: Kill For Love
+Fecha: 2026-05-08 23:55:29
+==================================================
+
+URL: http://prettymuchamazing.com/reviews/albumreviews/chromatics-kill-for-love-2
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/albumreviews/chromatics-kill-for-love-2 (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/albumreviews/chromatics-kill-for-love-2 (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+
+URL: http://www.tinymixtapes.com/music-review/chromatics-kill-love
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/chromatics-kill-love (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+Excepción: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/chromatics-kill-love (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+
+
+==================================================
+Artista: Chromeo
+Álbum: White Women
+Fecha: 2026-05-08 23:57:59
+==================================================
+
+URL: http://prettymuchamazing.com/reviews/chromeo-white-women
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/chromeo-white-women (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/chromeo-white-women (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+
+
+==================================================
+Artista: Chromeo
+Álbum: Business Casual
+Fecha: 2026-05-08 23:58:45
+==================================================
+
+URL: http://www.tinymixtapes.com/music-review/chromeo-business-casual
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/chromeo-business-casual (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+Excepción: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/chromeo-business-casual (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+
+URL: http://www.eyeweekly.com/music/ondisc/article/102407
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.eyeweekly.com', port=80): Max retries exceeded with url: /music/ondisc/article/102407 (Caused by NameResolutionError("HTTPConnection(host='www.eyeweekly.com', port=80): Failed to resolve 'www.eyeweekly.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='www.eyeweekly.com', port=80): Max retries exceeded with url: /music/ondisc/article/102407 (Caused by NameResolutionError("HTTPConnection(host='www.eyeweekly.com', port=80): Failed to resolve 'www.eyeweekly.com' ([Errno -2] Name or service not known)"))
+
+URL: http://www.eyeweekly.com/music/ondisc/article/102407
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.eyeweekly.com', port=80): Max retries exceeded with url: /music/ondisc/article/102407 (Caused by NameResolutionError("HTTPConnection(host='www.eyeweekly.com', port=80): Failed to resolve 'www.eyeweekly.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='www.eyeweekly.com', port=80): Max retries exceeded with url: /music/ondisc/article/102407 (Caused by NameResolutionError("HTTPConnection(host='www.eyeweekly.com', port=80): Failed to resolve 'www.eyeweekly.com' ([Errno -2] Name or service not known)"))
+
+URL: http://www.ravemagazine.com.au/content/view/22626/180/
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.ravemagazine.com.au', port=80): Max retries exceeded with url: /content/view/22626/180/ (Caused by NameResolutionError("HTTPConnection(host='www.ravemagazine.com.au', port=80): Failed to resolve 'www.ravemagazine.com.au' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='www.ravemagazine.com.au', port=80): Max retries exceeded with url: /content/view/22626/180/ (Caused by NameResolutionError("HTTPConnection(host='www.ravemagazine.com.au', port=80): Failed to resolve 'www.ravemagazine.com.au' ([Errno -2] Name or service not known)"))
+
+
+==================================================
+Artista: case/lang/veirs
+Álbum: case/lang/veirs
+Fecha: 2026-05-09 00:01:59
+==================================================
+
+URL: http://www.tinymixtapes.com/music-review/neko-case-kd-lang-laura-veirs-caselangveirs
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/neko-case-kd-lang-laura-veirs-caselangveirs (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+Excepción: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/neko-case-kd-lang-laura-veirs-caselangveirs (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+
+
+==================================================
+Artista: Caribou
+Álbum: Suddenly
+Fecha: 2026-05-09 00:12:53
+==================================================
+
+URL: https://themusic.com.au/reviews/caribou-suddenly-christopher-h-james/H507MzI1NDc/26-02-20/
+Texto: Read Review
+Estado: Error HTTP: 405
+Código HTTP: 405
+
+
+==================================================
+Artista: Cigarettes After Sex
+Álbum: Cry
+Fecha: 2026-05-09 00:16:34
+==================================================
+
+URL: https://themusic.com.au/reviews/cigarettes-after-sex-cry-lauren-baxter/t0Gjq6qtrK8
+Texto: Read Review
+Estado: Error HTTP: 405
+Código HTTP: 405
+
+
+==================================================
+Artista: Chelsea Wolfe
+Álbum: Birth Of Violence
+Fecha: 2026-05-09 00:21:58
+==================================================
+
+URL: https://music.avclub.com/chelsea-wolfe-goes-back-to-the-land-on-the-starkly-beau-1838015100
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='music.avclub.com', port=443): Max retries exceeded with url: /chelsea-wolfe-goes-back-to-the-land-on-the-starkly-beau-1838015100 (Caused by NameResolutionError("HTTPSConnection(host='music.avclub.com', port=443): Failed to resolve 'music.avclub.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPSConnectionPool(host='music.avclub.com', port=443): Max retries exceeded with url: /chelsea-wolfe-goes-back-to-the-land-on-the-starkly-beau-1838015100 (Caused by NameResolutionError("HTTPSConnection(host='music.avclub.com', port=443): Failed to resolve 'music.avclub.com' ([Errno -2] Name or service not known)"))
+
+
+==================================================
+Artista: Chelsea Wolfe
+Álbum: Abyss
+Fecha: 2026-05-09 00:22:36
+==================================================
+
+URL: http://www.tinymixtapes.com/music-review/chelsea-wolfe-abyss
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/chelsea-wolfe-abyss (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+Excepción: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/chelsea-wolfe-abyss (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+
+
+==================================================
+Artista: MGMT
+Álbum: Loss Of Life
+Fecha: 2026-05-09 00:34:20
+==================================================
+
+URL: https://www.popmatters.com/mgmt-loss-of-life-review
+Texto: Read Review
+Estado: Error HTTP: 503
+Código HTTP: 503
+
+
+==================================================
+Artista: MGMT
+Álbum: Little Dark Age
+Fecha: 2026-05-09 00:36:18
+==================================================
+
+URL: https://prettymuchamazing.com/reviews/mgmt-little-dark-age
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='prettymuchamazing.com', port=443): Max retries exceeded with url: /reviews/mgmt-little-dark-age (Caused by NameResolutionError("HTTPSConnection(host='prettymuchamazing.com', port=443): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPSConnectionPool(host='prettymuchamazing.com', port=443): Max retries exceeded with url: /reviews/mgmt-little-dark-age (Caused by NameResolutionError("HTTPSConnection(host='prettymuchamazing.com', port=443): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+
+
+==================================================
+Artista: Mogwai
+Álbum: Rave Tapes
+Fecha: 2026-05-09 00:46:06
+==================================================
+
+URL: http://www.themusicfix.co.uk/content/19982/mogwai-capsule-review.html
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.themusicfix.co.uk', port=80): Max retries exceeded with url: /content/19982/mogwai-capsule-review.html (Caused by NewConnectionError("HTTPConnection(host='www.themusicfix.co.uk', port=80): Failed to establish a new connection: [Errno 111] Connection refused"))
+Excepción: HTTPConnectionPool(host='www.themusicfix.co.uk', port=80): Max retries exceeded with url: /content/19982/mogwai-capsule-review.html (Caused by NewConnectionError("HTTPConnection(host='www.themusicfix.co.uk', port=80): Failed to establish a new connection: [Errno 111] Connection refused"))
+
+
+==================================================
+Artista: Mogwai
+Álbum: As The Love Continues
+Fecha: 2026-05-09 00:48:47
+==================================================
+
+URL: https://themusic.com.au/reviews/mogwai-as-the-love-continues-christopher-h-james/l3qDi4qNjI8/15-02-21/
+Texto: Read Review
+Estado: Error HTTP: 405
+Código HTTP: 405
+
+URL: https://www.sputnikmusic.com/review/82861/Mogwai-As-the-Love-Continues/
+Texto: Read Review
+Estado: Error al verificar: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Excepción: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+
+==================================================
+Artista: Massive Attack
+Álbum: Heligoland
+Fecha: 2026-05-09 01:00:00
+==================================================
+
+URL: http://www.eyeweekly.com/music/ondisc/article/82802
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.eyeweekly.com', port=80): Max retries exceeded with url: /music/ondisc/article/82802 (Caused by NameResolutionError("HTTPConnection(host='www.eyeweekly.com', port=80): Failed to resolve 'www.eyeweekly.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='www.eyeweekly.com', port=80): Max retries exceeded with url: /music/ondisc/article/82802 (Caused by NameResolutionError("HTTPConnection(host='www.eyeweekly.com', port=80): Failed to resolve 'www.eyeweekly.com' ([Errno -2] Name or service not known)"))
+
+URL: http://www.themusicfix.co.uk/capsule/2010/02#9049
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.themusicfix.co.uk', port=80): Max retries exceeded with url: /capsule/2010/02 (Caused by NewConnectionError("HTTPConnection(host='www.themusicfix.co.uk', port=80): Failed to establish a new connection: [Errno 111] Connection refused"))
+Excepción: HTTPConnectionPool(host='www.themusicfix.co.uk', port=80): Max retries exceeded with url: /capsule/2010/02 (Caused by NewConnectionError("HTTPConnection(host='www.themusicfix.co.uk', port=80): Failed to establish a new connection: [Errno 111] Connection refused"))
+
+URL: http://rss.feedsportal.com/c/266/f/3834/s/9015168/l/0L0Sindependent0O0Carts0Eentertainment0Cmusic0Creviews0Calbum0Emassive0Eattack0Eheligoland0Evirgin0E18920A720Bhtml/story01.htm
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='rss.feedsportal.com', port=80): Max retries exceeded with url: /c/266/f/3834/s/9015168/l/0L0Sindependent0O0Carts0Eentertainment0Cmusic0Creviews0Calbum0Emassive0Eattack0Eheligoland0Evirgin0E18920A720Bhtml/story01.htm (Caused by NameResolutionError("HTTPConnection(host='rss.feedsportal.com', port=80): Failed to resolve 'rss.feedsportal.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='rss.feedsportal.com', port=80): Max retries exceeded with url: /c/266/f/3834/s/9015168/l/0L0Sindependent0O0Carts0Eentertainment0Cmusic0Creviews0Calbum0Emassive0Eattack0Eheligoland0Evirgin0E18920A720Bhtml/story01.htm (Caused by NameResolutionError("HTTPConnection(host='rss.feedsportal.com', port=80): Failed to resolve 'rss.feedsportal.com' ([Errno -2] Name or service not known)"))
+
+URL: http://www.tinymixtapes.com/music-review/Massive-Attack-Heligoland
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/Massive-Attack-Heligoland (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+Excepción: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/Massive-Attack-Heligoland (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+
+URL: http://rss.feedsportal.com/c/266/f/3834/s/8fac064/l/0L0Sindependent0O0Carts0Eentertainment0Cmusic0Creviews0Calbum0Emassive0Eattack0Eheligoland0Evirgin0E1890A4520Bhtml/story01.htm
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='rss.feedsportal.com', port=80): Max retries exceeded with url: /c/266/f/3834/s/8fac064/l/0L0Sindependent0O0Carts0Eentertainment0Cmusic0Creviews0Calbum0Emassive0Eattack0Eheligoland0Evirgin0E1890A4520Bhtml/story01.htm (Caused by NameResolutionError("HTTPConnection(host='rss.feedsportal.com', port=80): Failed to resolve 'rss.feedsportal.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='rss.feedsportal.com', port=80): Max retries exceeded with url: /c/266/f/3834/s/8fac064/l/0L0Sindependent0O0Carts0Eentertainment0Cmusic0Creviews0Calbum0Emassive0Eattack0Eheligoland0Evirgin0E1890A4520Bhtml/story01.htm (Caused by NameResolutionError("HTTPConnection(host='rss.feedsportal.com', port=80): Failed to resolve 'rss.feedsportal.com' ([Errno -2] Name or service not known)"))
+
+URL: http://www.the-fly.co.uk/words/reviews/album-reviews/6932/album-review:-massive-attack
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.the-fly.co.uk', port=80): Max retries exceeded with url: /words/reviews/album-reviews/6932/album-review:-massive-attack (Caused by ConnectTimeoutError(<HTTPConnection(host='www.the-fly.co.uk', port=80) at 0x7f821ea6de10>, 'Connection to www.the-fly.co.uk timed out. (connect timeout=10)'))
+Excepción: HTTPConnectionPool(host='www.the-fly.co.uk', port=80): Max retries exceeded with url: /words/reviews/album-reviews/6932/album-review:-massive-attack (Caused by ConnectTimeoutError(<HTTPConnection(host='www.the-fly.co.uk', port=80) at 0x7f821ea6de10>, 'Connection to www.the-fly.co.uk timed out. (connect timeout=10)'))
+
+URL: http://www.ravemagazine.com.au/content/blogcategory/40/180/
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.ravemagazine.com.au', port=80): Max retries exceeded with url: /content/blogcategory/40/180/ (Caused by NameResolutionError("HTTPConnection(host='www.ravemagazine.com.au', port=80): Failed to resolve 'www.ravemagazine.com.au' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='www.ravemagazine.com.au', port=80): Max retries exceeded with url: /content/blogcategory/40/180/ (Caused by NameResolutionError("HTTPConnection(host='www.ravemagazine.com.au', port=80): Failed to resolve 'www.ravemagazine.com.au' ([Errno -2] Name or service not known)"))
+
+URL: http://onethirtybpm.com/2010/02/03/album-review-massive-attack-heligoland/
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='onethirtybpm.com', port=80): Max retries exceeded with url: /2010/02/03/album-review-massive-attack-heligoland/ (Caused by NameResolutionError("HTTPConnection(host='onethirtybpm.com', port=80): Failed to resolve 'onethirtybpm.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='onethirtybpm.com', port=80): Max retries exceeded with url: /2010/02/03/album-review-massive-attack-heligoland/ (Caused by NameResolutionError("HTTPConnection(host='onethirtybpm.com', port=80): Failed to resolve 'onethirtybpm.com' ([Errno -2] Name or service not known)"))
+
+
+==================================================
+Artista: M83
+Álbum: Junk
+Fecha: 2026-05-09 01:04:53
+==================================================
+
+URL: http://prettymuchamazing.com/reviews/m83-junk
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/m83-junk (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/m83-junk (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+
+URL: http://fasterlouder.junkee.com/m83-recycles-80s-electro-pop-on-junk/860782
+Texto: Read Review
+Estado: Error HTTP: 530
+Código HTTP: 530
+
+
+==================================================
+Artista: Kings of Convenience
+Álbum: Declaration Of Dependence
+Fecha: 2026-05-09 01:07:27
+==================================================
+
+URL: http://www.the-fly.co.uk/words/reviews/album-reviews/6149/kings-of-convenience
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.the-fly.co.uk', port=80): Max retries exceeded with url: /words/reviews/album-reviews/6149/kings-of-convenience (Caused by ConnectTimeoutError(<HTTPConnection(host='www.the-fly.co.uk', port=80) at 0x7f821ea6ee00>, 'Connection to www.the-fly.co.uk timed out. (connect timeout=10)'))
+Excepción: HTTPConnectionPool(host='www.the-fly.co.uk', port=80): Max retries exceeded with url: /words/reviews/album-reviews/6149/kings-of-convenience (Caused by ConnectTimeoutError(<HTTPConnection(host='www.the-fly.co.uk', port=80) at 0x7f821ea6ee00>, 'Connection to www.the-fly.co.uk timed out. (connect timeout=10)'))
+
+
+==================================================
+Artista: Kamasi Washington
+Álbum: Harmony of Difference
+Fecha: 2026-05-09 01:16:31
+==================================================
+
+URL: https://prettymuchamazing.com/reviews/kamasi-washington-harmony-of-difference
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='prettymuchamazing.com', port=443): Max retries exceeded with url: /reviews/kamasi-washington-harmony-of-difference (Caused by NameResolutionError("HTTPSConnection(host='prettymuchamazing.com', port=443): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPSConnectionPool(host='prettymuchamazing.com', port=443): Max retries exceeded with url: /reviews/kamasi-washington-harmony-of-difference (Caused by NameResolutionError("HTTPSConnection(host='prettymuchamazing.com', port=443): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+
+
+==================================================
+Artista: Khruangbin
+Álbum: A LA SALA
+Fecha: 2026-05-09 01:18:35
+==================================================
+
+URL: https://www-ft-com.ezproxy.depaul.edu/content/8d13b0b3-674e-4515-a557-d08d72297dc8
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www-ft-com.ezproxy.depaul.edu', port=443): Max retries exceeded with url: /content/8d13b0b3-674e-4515-a557-d08d72297dc8 (Caused by NameResolutionError("HTTPSConnection(host='www-ft-com.ezproxy.depaul.edu', port=443): Failed to resolve 'www-ft-com.ezproxy.depaul.edu' ([Errno -2] Name or service not known)"))
+Excepción: HTTPSConnectionPool(host='www-ft-com.ezproxy.depaul.edu', port=443): Max retries exceeded with url: /content/8d13b0b3-674e-4515-a557-d08d72297dc8 (Caused by NameResolutionError("HTTPSConnection(host='www-ft-com.ezproxy.depaul.edu', port=443): Failed to resolve 'www-ft-com.ezproxy.depaul.edu' ([Errno -2] Name or service not known)"))
+
+
+==================================================
+Artista: Kim Gordon
+Álbum: No Home Record
+Fecha: 2026-05-09 01:20:01
+==================================================
+
+URL: https://themusic.com.au/reviews/kim-gordon-no-home-record-lauren-baxter/NzQjKyotLC8
+Texto: Read Review
+Estado: Error HTTP: 405
+Código HTTP: 405
+
+
+==================================================
+Artista: Young Fathers
+Álbum: White Men Are Black Men Too
+Fecha: 2026-05-09 01:26:24
+==================================================
+
+URL: http://artrockermagazine.com/?p=1667
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='artrockermagazine.com', port=80): Max retries exceeded with url: /?p=1667 (Caused by NewConnectionError("HTTPConnection(host='artrockermagazine.com', port=80): Failed to establish a new connection: [Errno 111] Connection refused"))
+Excepción: HTTPConnectionPool(host='artrockermagazine.com', port=80): Max retries exceeded with url: /?p=1667 (Caused by NewConnectionError("HTTPConnection(host='artrockermagazine.com', port=80): Failed to establish a new connection: [Errno 111] Connection refused"))
+
+URL: http://music.thedigitalfix.com/content/id/21093/young-fathers.html
+Texto: Read Review
+Estado: Error HTTP: 410
+Código HTTP: 410
+
+
+==================================================
+Artista: Yeasayer
+Álbum: Erotic Reruns
+Fecha: 2026-05-09 01:28:38
+==================================================
+
+URL: https://themusic.com.au/reviews/yeasayer-erotic-reruns-guido-farnell/S71XX15BQEM
+Texto: Read Review
+Estado: Error HTTP: 405
+Código HTTP: 405
+
+
+==================================================
+Artista: Xiu Xiu
+Álbum: Ignore Grief
+Fecha: 2026-05-09 01:39:17
+==================================================
+
+URL: https://www.allmusic.com/album/ignore-grief-mw0003906037
+Texto: Read Review
+Estado: Error al verificar: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Excepción: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+URL: https://www.slantmagazine.com/music/xiu-xiu-ignore-grief-album-review/
+Texto: Read Review
+Estado: Error al verificar: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Excepción: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+
+==================================================
+Artista: Queens Of The Stone Age
+Álbum: Villains
+Fecha: 2026-05-09 01:40:33
+==================================================
+
+URL: http://diymag.com/2017/08/25/queens-of-the-stone-age-villains
+Texto: Read Review
+Estado: Error al verificar: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Excepción: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+URL: https://prettymuchamazing.com/reviews/queens-of-the-stone-age-villains
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='prettymuchamazing.com', port=443): Max retries exceeded with url: /reviews/queens-of-the-stone-age-villains (Caused by NameResolutionError("HTTPSConnection(host='prettymuchamazing.com', port=443): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPSConnectionPool(host='prettymuchamazing.com', port=443): Max retries exceeded with url: /reviews/queens-of-the-stone-age-villains (Caused by NameResolutionError("HTTPSConnection(host='prettymuchamazing.com', port=443): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+
+
+==================================================
+Artista: Fuck Buttons
+Álbum: Tarot Sport
+Fecha: 2026-05-09 01:48:08
+==================================================
+
+URL: http://www.tinymixtapes.com/Fuck-Buttons,9846
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /Fuck-Buttons,9846 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+Excepción: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /Fuck-Buttons,9846 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+
+URL: http://www.ravemagazine.com.au/content/view/17400/180/
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.ravemagazine.com.au', port=80): Max retries exceeded with url: /content/view/17400/180/ (Caused by NameResolutionError("HTTPConnection(host='www.ravemagazine.com.au', port=80): Failed to resolve 'www.ravemagazine.com.au' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='www.ravemagazine.com.au', port=80): Max retries exceeded with url: /content/view/17400/180/ (Caused by NameResolutionError("HTTPConnection(host='www.ravemagazine.com.au', port=80): Failed to resolve 'www.ravemagazine.com.au' ([Errno -2] Name or service not known)"))
+
+
+==================================================
+Artista: Run The Jewels
+Álbum: Run The Jewels 3
+Fecha: 2026-05-09 01:53:17
+==================================================
+
+URL: http://prettymuchamazing.com/reviews/run-the-jewels-3
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/run-the-jewels-3 (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/run-the-jewels-3 (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+
+
+==================================================
+Artista: Oneohtrix Point Never
+Álbum: Rifts
+Fecha: 2026-05-09 01:56:12
+==================================================
+
+URL: http://www.tinymixtapes.com/Oneohtrix-Point-Never,10049
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /Oneohtrix-Point-Never,10049 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+Excepción: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /Oneohtrix-Point-Never,10049 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+
+
+==================================================
+Artista: Gorillaz
+Álbum: Humanz
+Fecha: 2026-05-09 01:57:20
+==================================================
+
+URL: http://prettymuchamazing.com/reviews/gorillaz-humanz
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/gorillaz-humanz (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/gorillaz-humanz (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+
+
+==================================================
+Artista: BadBadNotGood
+Álbum: IV
+Fecha: 2026-05-09 02:02:09
+==================================================
+
+URL: http://fasterlouder.junkee.com/badbadnotgood-give-us-the-same-same-but-different-on-iv/864375
+Texto: Read Review
+Estado: Error HTTP: 530
+Código HTTP: 530
+
+URL: http://prettymuchamazing.com/reviews/badbadnotgood-iv
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/badbadnotgood-iv (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/badbadnotgood-iv (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+
+
+==================================================
+Artista: Beach House
+Álbum: Bloom
+Fecha: 2026-05-09 02:06:27
+==================================================
+
+URL: http://www.tinymixtapes.com/music-review/beach-house-bloom
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/beach-house-bloom (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+Excepción: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/beach-house-bloom (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+
+URL: http://music.thedigitalfix.com/content/17187/beach-house.html
+Texto: Read Review
+Estado: Error HTTP: 410
+Código HTTP: 410
+
+URL: http://www.independent.co.uk/arts-entertainment/music/reviews/album-beach-house-bloom-bella-union-7742272.html
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.independent.co.uk', port=443): Read timed out. (read timeout=10)
+Excepción: HTTPSConnectionPool(host='www.independent.co.uk', port=443): Read timed out. (read timeout=10)
+
+URL: http://www.ravemagazine.com.au/content/view/32887/180/
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.ravemagazine.com.au', port=80): Max retries exceeded with url: /content/view/32887/180/ (Caused by NameResolutionError("HTTPConnection(host='www.ravemagazine.com.au', port=80): Failed to resolve 'www.ravemagazine.com.au' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='www.ravemagazine.com.au', port=80): Max retries exceeded with url: /content/view/32887/180/ (Caused by NameResolutionError("HTTPConnection(host='www.ravemagazine.com.au', port=80): Failed to resolve 'www.ravemagazine.com.au' ([Errno -2] Name or service not known)"))
+
+
+==================================================
+Artista: Beach House
+Álbum: 7
+Fecha: 2026-05-09 02:07:44
+==================================================
+
+URL: https://music.avclub.com/beach-house-finds-beauty-in-chaos-on-album-no-7-1825933132
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='music.avclub.com', port=443): Max retries exceeded with url: /beach-house-finds-beauty-in-chaos-on-album-no-7-1825933132 (Caused by NameResolutionError("HTTPSConnection(host='music.avclub.com', port=443): Failed to resolve 'music.avclub.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPSConnectionPool(host='music.avclub.com', port=443): Max retries exceeded with url: /beach-house-finds-beauty-in-chaos-on-album-no-7-1825933132 (Caused by NameResolutionError("HTTPSConnection(host='music.avclub.com', port=443): Failed to resolve 'music.avclub.com' ([Errno -2] Name or service not known)"))
+
+URL: https://prettymuchamazing.com/reviews/beach-house-7
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='prettymuchamazing.com', port=443): Max retries exceeded with url: /reviews/beach-house-7 (Caused by NameResolutionError("HTTPSConnection(host='prettymuchamazing.com', port=443): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPSConnectionPool(host='prettymuchamazing.com', port=443): Max retries exceeded with url: /reviews/beach-house-7 (Caused by NameResolutionError("HTTPSConnection(host='prettymuchamazing.com', port=443): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+
+URL: https://www.tinymixtapes.com/music-review/beach-house-7
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/beach-house-7 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+Excepción: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/beach-house-7 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+
+
+==================================================
+Artista: The Cinematic Orchestra
+Álbum: To Believe
+Fecha: 2026-05-09 02:27:31
+==================================================
+
+URL: https://themusic.com.au/article/rm2qoKOipaQ/the-cinematic-orchestra-to-believe-guido-farnell/
+Texto: Read Review
+Estado: Error HTTP: 405
+Código HTTP: 405
+
+
+==================================================
+Artista: Unknown Mortal Orchestra
+Álbum: Multi-Love
+Fecha: 2026-05-09 02:30:55
+==================================================
+
+URL: http://prettymuchamazing.com/reviews/unknown-mortal-orchestra-multi-love
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/unknown-mortal-orchestra-multi-love (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/unknown-mortal-orchestra-multi-love (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+
+
+==================================================
+Artista: Unknown Mortal Orchestra
+Álbum: II
+Fecha: 2026-05-09 02:31:53
+==================================================
+
+URL: http://prettymuchamazing.com/reviews/unknown-mortal-orchestra-ii
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/unknown-mortal-orchestra-ii (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/unknown-mortal-orchestra-ii (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+
+URL: http://hangout.altsounds.com/reviews/155937-review-unknown-mortal-orchestra-ii-album.html
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='hangout.altsounds.com', port=80): Max retries exceeded with url: /reviews/155937-review-unknown-mortal-orchestra-ii-album.html (Caused by NameResolutionError("HTTPConnection(host='hangout.altsounds.com', port=80): Failed to resolve 'hangout.altsounds.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='hangout.altsounds.com', port=80): Max retries exceeded with url: /reviews/155937-review-unknown-mortal-orchestra-ii-album.html (Caused by NameResolutionError("HTTPConnection(host='hangout.altsounds.com', port=80): Failed to resolve 'hangout.altsounds.com' ([Errno -2] Name or service not known)"))
+
+URL: http://www.the-fly.co.uk/reviews/album/1016800/unknown-mortal-orchestra/
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.the-fly.co.uk', port=80): Max retries exceeded with url: /reviews/album/1016800/unknown-mortal-orchestra/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.the-fly.co.uk', port=80) at 0x7f820ccbd150>, 'Connection to www.the-fly.co.uk timed out. (connect timeout=10)'))
+Excepción: HTTPConnectionPool(host='www.the-fly.co.uk', port=80): Max retries exceeded with url: /reviews/album/1016800/unknown-mortal-orchestra/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.the-fly.co.uk', port=80) at 0x7f820ccbd150>, 'Connection to www.the-fly.co.uk timed out. (connect timeout=10)'))
+
+
+==================================================
+Artista: Swans
+Álbum: To Be Kind
+Fecha: 2026-05-09 02:40:40
+==================================================
+
+URL: http://prettymuchamazing.com/reviews/swans-to-be-kind
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/swans-to-be-kind (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/swans-to-be-kind (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+
+
+==================================================
+Artista: Nick Cave And The Bad Seeds
+Álbum: Ghosteen
+Fecha: 2026-05-09 02:49:50
+==================================================
+
+URL: https://music.avclub.com/on-ghosteen-nick-cave-invites-us-into-his-bright-abyss-1838846105
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='music.avclub.com', port=443): Max retries exceeded with url: /on-ghosteen-nick-cave-invites-us-into-his-bright-abyss-1838846105 (Caused by NameResolutionError("HTTPSConnection(host='music.avclub.com', port=443): Failed to resolve 'music.avclub.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPSConnectionPool(host='music.avclub.com', port=443): Max retries exceeded with url: /on-ghosteen-nick-cave-invites-us-into-his-bright-abyss-1838846105 (Caused by NameResolutionError("HTTPSConnection(host='music.avclub.com', port=443): Failed to resolve 'music.avclub.com' ([Errno -2] Name or service not known)"))
+
+URL: http://www.undertheradarmag.com/reviews/nick_cave_the_bad_seeds_ghosteen/
+Texto: Read Review
+Estado: Error al verificar: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Excepción: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+
+==================================================
+Artista: David Byrne and Fatboy Slim
+Álbum: Here Lies Love
+Fecha: 2026-05-09 02:55:13
+==================================================
+
+URL: http://rss.feedsportal.com/c/266/f/3834/s/9cd71d9/l/0L0Sindependent0O0Carts0Eentertainment0Cmusic0Creviews0Calbum0Edavid0Ebyrne0Eand0Efatboy0Eslim0Ehere0Elies0Elove0Enonesuch0E19357470Bhtml/story01.htm
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='rss.feedsportal.com', port=80): Max retries exceeded with url: /c/266/f/3834/s/9cd71d9/l/0L0Sindependent0O0Carts0Eentertainment0Cmusic0Creviews0Calbum0Edavid0Ebyrne0Eand0Efatboy0Eslim0Ehere0Elies0Elove0Enonesuch0E19357470Bhtml/story01.htm (Caused by NameResolutionError("HTTPConnection(host='rss.feedsportal.com', port=80): Failed to resolve 'rss.feedsportal.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='rss.feedsportal.com', port=80): Max retries exceeded with url: /c/266/f/3834/s/9cd71d9/l/0L0Sindependent0O0Carts0Eentertainment0Cmusic0Creviews0Calbum0Edavid0Ebyrne0Eand0Efatboy0Eslim0Ehere0Elies0Elove0Enonesuch0E19357470Bhtml/story01.htm (Caused by NameResolutionError("HTTPConnection(host='rss.feedsportal.com', port=80): Failed to resolve 'rss.feedsportal.com' ([Errno -2] Name or service not known)"))
+
+URL: http://www.eyeweekly.com/music/ondisc/article/88185
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.eyeweekly.com', port=80): Max retries exceeded with url: /music/ondisc/article/88185 (Caused by NameResolutionError("HTTPConnection(host='www.eyeweekly.com', port=80): Failed to resolve 'www.eyeweekly.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='www.eyeweekly.com', port=80): Max retries exceeded with url: /music/ondisc/article/88185 (Caused by NameResolutionError("HTTPConnection(host='www.eyeweekly.com', port=80): Failed to resolve 'www.eyeweekly.com' ([Errno -2] Name or service not known)"))
+
+URL: http://onethirtybpm.com/2010/04/09/album-review-david-byrne-fatboy-slim-here-lies-love/
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='onethirtybpm.com', port=80): Max retries exceeded with url: /2010/04/09/album-review-david-byrne-fatboy-slim-here-lies-love/ (Caused by NameResolutionError("HTTPConnection(host='onethirtybpm.com', port=80): Failed to resolve 'onethirtybpm.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='onethirtybpm.com', port=80): Max retries exceeded with url: /2010/04/09/album-review-david-byrne-fatboy-slim-here-lies-love/ (Caused by NameResolutionError("HTTPConnection(host='onethirtybpm.com', port=80): Failed to resolve 'onethirtybpm.com' ([Errno -2] Name or service not known)"))
+
+
+==================================================
+Artista: Actress
+Álbum: R.I.P.
+Fecha: 2026-05-09 03:12:31
+==================================================
+
+URL: http://www.tinymixtapes.com/music-review/actress-rip
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/actress-rip (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+Excepción: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/actress-rip (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+
+URL: http://www.ravemagazine.com.au/content/view/33325/180/
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.ravemagazine.com.au', port=80): Max retries exceeded with url: /content/view/33325/180/ (Caused by NameResolutionError("HTTPConnection(host='www.ravemagazine.com.au', port=80): Failed to resolve 'www.ravemagazine.com.au' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='www.ravemagazine.com.au', port=80): Max retries exceeded with url: /content/view/33325/180/ (Caused by NameResolutionError("HTTPConnection(host='www.ravemagazine.com.au', port=80): Failed to resolve 'www.ravemagazine.com.au' ([Errno -2] Name or service not known)"))
+
+
+==================================================
+Artista: Aphex Twin
+Álbum: Syro
+Fecha: 2026-05-09 03:17:27
+==================================================
+
+URL: http://prettymuchamazing.com/reviews/aphex-twin-syro
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/aphex-twin-syro (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/aphex-twin-syro (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+
+URL: http://www.tinymixtapes.com/music-review/aphex-twin-syro
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/aphex-twin-syro (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+Excepción: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/aphex-twin-syro (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+
+
+==================================================
+Artista: Caribou
+Álbum: Swim
+Fecha: 2026-05-09 03:20:46
+==================================================
+
+URL: http://www.bowlegs.co.uk/album-reviews/2010/4/7/caribou-swim.html
+Texto: Read Review
+Estado: Error HTTP: 405
+Código HTTP: 405
+
+URL: http://www.eyeweekly.com/music/ondisc/article/88164
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.eyeweekly.com', port=80): Max retries exceeded with url: /music/ondisc/article/88164 (Caused by NameResolutionError("HTTPConnection(host='www.eyeweekly.com', port=80): Failed to resolve 'www.eyeweekly.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='www.eyeweekly.com', port=80): Max retries exceeded with url: /music/ondisc/article/88164 (Caused by NameResolutionError("HTTPConnection(host='www.eyeweekly.com', port=80): Failed to resolve 'www.eyeweekly.com' ([Errno -2] Name or service not known)"))
+
+URL: http://www.tinymixtapes.com/music-review/Caribou-Swim
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/Caribou-Swim (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+Excepción: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/Caribou-Swim (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+
+URL: http://www.themusicfix.co.uk/content/review/10064/caribou.html
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.themusicfix.co.uk', port=80): Max retries exceeded with url: /content/review/10064/caribou.html (Caused by NewConnectionError("HTTPConnection(host='www.themusicfix.co.uk', port=80): Failed to establish a new connection: [Errno 111] Connection refused"))
+Excepción: HTTPConnectionPool(host='www.themusicfix.co.uk', port=80): Max retries exceeded with url: /content/review/10064/caribou.html (Caused by NewConnectionError("HTTPConnection(host='www.themusicfix.co.uk', port=80): Failed to establish a new connection: [Errno 111] Connection refused"))
+
+URL: http://www.the-fly.co.uk/words/reviews/album-reviews/7513/album-review:-caribou
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.the-fly.co.uk', port=80): Max retries exceeded with url: /words/reviews/album-reviews/7513/album-review:-caribou (Caused by ConnectTimeoutError(<HTTPConnection(host='www.the-fly.co.uk', port=80) at 0x7f820ccbff00>, 'Connection to www.the-fly.co.uk timed out. (connect timeout=10)'))
+Excepción: HTTPConnectionPool(host='www.the-fly.co.uk', port=80): Max retries exceeded with url: /words/reviews/album-reviews/7513/album-review:-caribou (Caused by ConnectTimeoutError(<HTTPConnection(host='www.the-fly.co.uk', port=80) at 0x7f820ccbff00>, 'Connection to www.the-fly.co.uk timed out. (connect timeout=10)'))
+
+URL: http://www.ravemagazine.com.au/content/view/20479/180/
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.ravemagazine.com.au', port=80): Max retries exceeded with url: /content/view/20479/180/ (Caused by NameResolutionError("HTTPConnection(host='www.ravemagazine.com.au', port=80): Failed to resolve 'www.ravemagazine.com.au' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='www.ravemagazine.com.au', port=80): Max retries exceeded with url: /content/view/20479/180/ (Caused by NameResolutionError("HTTPConnection(host='www.ravemagazine.com.au', port=80): Failed to resolve 'www.ravemagazine.com.au' ([Errno -2] Name or service not known)"))
+
+URL: http://onethirtybpm.com/2010/04/20/album-review-caribou-swim/
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='onethirtybpm.com', port=80): Max retries exceeded with url: /2010/04/20/album-review-caribou-swim/ (Caused by NameResolutionError("HTTPConnection(host='onethirtybpm.com', port=80): Failed to resolve 'onethirtybpm.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='onethirtybpm.com', port=80): Max retries exceeded with url: /2010/04/20/album-review-caribou-swim/ (Caused by NameResolutionError("HTTPConnection(host='onethirtybpm.com', port=80): Failed to resolve 'onethirtybpm.com' ([Errno -2] Name or service not known)"))
+
+
+==================================================
+Artista: MGMT
+Álbum: Congratulations
+Fecha: 2026-05-09 03:23:23
+==================================================
+
+URL: http://www.bowlegs.co.uk/album-reviews/2010/4/10/mgmt-congratulations.html
+Texto: Read Review
+Estado: Error HTTP: 405
+Código HTTP: 405
+
+URL: http://www.eyeweekly.com/music/ondisc/article/87600
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.eyeweekly.com', port=80): Max retries exceeded with url: /music/ondisc/article/87600 (Caused by NameResolutionError("HTTPConnection(host='www.eyeweekly.com', port=80): Failed to resolve 'www.eyeweekly.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='www.eyeweekly.com', port=80): Max retries exceeded with url: /music/ondisc/article/87600 (Caused by NameResolutionError("HTTPConnection(host='www.eyeweekly.com', port=80): Failed to resolve 'www.eyeweekly.com' ([Errno -2] Name or service not known)"))
+
+URL: http://www.themusicfix.co.uk/capsule/2010/04#9777
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.themusicfix.co.uk', port=80): Max retries exceeded with url: /capsule/2010/04 (Caused by NewConnectionError("HTTPConnection(host='www.themusicfix.co.uk', port=80): Failed to establish a new connection: [Errno 111] Connection refused"))
+Excepción: HTTPConnectionPool(host='www.themusicfix.co.uk', port=80): Max retries exceeded with url: /capsule/2010/04 (Caused by NewConnectionError("HTTPConnection(host='www.themusicfix.co.uk', port=80): Failed to establish a new connection: [Errno 111] Connection refused"))
+
+URL: http://rss.feedsportal.com/c/266/f/3834/s/9e17a9d/l/0L0Sindependent0O0Carts0Eentertainment0Cmusic0Creviews0Calbum0Emgmt0Econgratulations0Ecolumbia0E19395450Bhtml/story01.htm
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='rss.feedsportal.com', port=80): Max retries exceeded with url: /c/266/f/3834/s/9e17a9d/l/0L0Sindependent0O0Carts0Eentertainment0Cmusic0Creviews0Calbum0Emgmt0Econgratulations0Ecolumbia0E19395450Bhtml/story01.htm (Caused by NameResolutionError("HTTPConnection(host='rss.feedsportal.com', port=80): Failed to resolve 'rss.feedsportal.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='rss.feedsportal.com', port=80): Max retries exceeded with url: /c/266/f/3834/s/9e17a9d/l/0L0Sindependent0O0Carts0Eentertainment0Cmusic0Creviews0Calbum0Emgmt0Econgratulations0Ecolumbia0E19395450Bhtml/story01.htm (Caused by NameResolutionError("HTTPConnection(host='rss.feedsportal.com', port=80): Failed to resolve 'rss.feedsportal.com' ([Errno -2] Name or service not known)"))
+
+URL: http://rss.feedsportal.com/c/266/f/3834/s/9eb1b51/l/0L0Sindependent0O0Carts0Eentertainment0Cmusic0Creviews0Calbum0Emgmt0Econgratulations0Esony0E19417810Bhtml/story01.htm
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='rss.feedsportal.com', port=80): Max retries exceeded with url: /c/266/f/3834/s/9eb1b51/l/0L0Sindependent0O0Carts0Eentertainment0Cmusic0Creviews0Calbum0Emgmt0Econgratulations0Esony0E19417810Bhtml/story01.htm (Caused by NameResolutionError("HTTPConnection(host='rss.feedsportal.com', port=80): Failed to resolve 'rss.feedsportal.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='rss.feedsportal.com', port=80): Max retries exceeded with url: /c/266/f/3834/s/9eb1b51/l/0L0Sindependent0O0Carts0Eentertainment0Cmusic0Creviews0Calbum0Emgmt0Econgratulations0Esony0E19417810Bhtml/story01.htm (Caused by NameResolutionError("HTTPConnection(host='rss.feedsportal.com', port=80): Failed to resolve 'rss.feedsportal.com' ([Errno -2] Name or service not known)"))
+
+URL: http://www.tinymixtapes.com/music-review/MGMT-Congratulations
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/MGMT-Congratulations (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+Excepción: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/MGMT-Congratulations (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+
+URL: http://onethirtybpm.com/2010/04/13/album-review-mgmt-congratulations/
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='onethirtybpm.com', port=80): Max retries exceeded with url: /2010/04/13/album-review-mgmt-congratulations/ (Caused by NameResolutionError("HTTPConnection(host='onethirtybpm.com', port=80): Failed to resolve 'onethirtybpm.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='onethirtybpm.com', port=80): Max retries exceeded with url: /2010/04/13/album-review-mgmt-congratulations/ (Caused by NameResolutionError("HTTPConnection(host='onethirtybpm.com', port=80): Failed to resolve 'onethirtybpm.com' ([Errno -2] Name or service not known)"))
+
+URL: http://www.ravemagazine.com.au/content/view/20211/180/
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.ravemagazine.com.au', port=80): Max retries exceeded with url: /content/view/20211/180/ (Caused by NameResolutionError("HTTPConnection(host='www.ravemagazine.com.au', port=80): Failed to resolve 'www.ravemagazine.com.au' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='www.ravemagazine.com.au', port=80): Max retries exceeded with url: /content/view/20211/180/ (Caused by NameResolutionError("HTTPConnection(host='www.ravemagazine.com.au', port=80): Failed to resolve 'www.ravemagazine.com.au' ([Errno -2] Name or service not known)"))
+
+URL: http://www.the-fly.co.uk/words/reviews/album-reviews/7418/album-review:-mgmt
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.the-fly.co.uk', port=80): Max retries exceeded with url: /words/reviews/album-reviews/7418/album-review:-mgmt (Caused by ConnectTimeoutError(<HTTPConnection(host='www.the-fly.co.uk', port=80) at 0x7f820ccbc160>, 'Connection to www.the-fly.co.uk timed out. (connect timeout=10)'))
+Excepción: HTTPConnectionPool(host='www.the-fly.co.uk', port=80): Max retries exceeded with url: /words/reviews/album-reviews/7418/album-review:-mgmt (Caused by ConnectTimeoutError(<HTTPConnection(host='www.the-fly.co.uk', port=80) at 0x7f820ccbc160>, 'Connection to www.the-fly.co.uk timed out. (connect timeout=10)'))
+
+
+==================================================
+Artista: Yves Tumor
+Álbum: Safe In The Hands Of Love
+Fecha: 2026-05-09 03:32:11
+==================================================
+
+URL: https://www.tinymixtapes.com/music-review/yves-tumor-safe-hands-love
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/yves-tumor-safe-hands-love (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+Excepción: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/yves-tumor-safe-hands-love (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+
+
+==================================================
+Artista: Death Grips
+Álbum: The Money Store
+Fecha: 2026-05-09 03:47:35
+==================================================
+
+URL: http://prettymuchamazing.com/reviews/albumreviews/death-grips-the-money-store
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/albumreviews/death-grips-the-money-store (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/albumreviews/death-grips-the-money-store (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+
+URL: http://www.tinymixtapes.com/music-review/death-grips-money-store
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/death-grips-money-store (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+Excepción: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/death-grips-money-store (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+
+
+==================================================
+Artista: American Football
+Álbum: American Football (LP3)
+Fecha: 2026-05-09 03:55:39
+==================================================
+
+URL: https://themusic.com.au/article/MfApJSQnJik/american-football-american-football-lp3-donald-finlayson/
+Texto: Read Review
+Estado: Error HTTP: 405
+Código HTTP: 405
+
+
+==================================================
+Artista: Wet Leg
+Álbum: moisturizer
+Fecha: 2026-05-09 04:00:42
+==================================================
+
+URL: https://www.undertheradarmag.com/reviews/moisturizer_wet_leg
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.undertheradarmag.com', port=443): Read timed out. (read timeout=10)
+Excepción: HTTPSConnectionPool(host='www.undertheradarmag.com', port=443): Read timed out. (read timeout=10)
+
+
+==================================================
+Artista: Iron Maiden
+Álbum: Senjutsu
+Fecha: 2026-05-09 04:07:07
+==================================================
+
+URL: https://themusic.com.au/reviews/iron-maiden-senjutsu-album-review-tiana-speter/J00zOzo9PD8/03-09-21/
+Texto: Read Review
+Estado: Error HTTP: 405
+Código HTTP: 405
+
+
+==================================================
+Artista: Harry Styles
+Álbum: Harry's House
+Fecha: 2026-05-09 04:17:35
+==================================================
+
+URL: https://themusic.com.au/reviews/harry-styles-harrys-house-album-review/G0MHDw4xMDM/17-05-22
+Texto: Read Review
+Estado: Error HTTP: 405
+Código HTTP: 405
+
+
+==================================================
+Artista: LMFAO
+Álbum: Sorry For Party Rocking
+Fecha: 2026-05-09 04:21:10
+==================================================
+
+URL: http://www.ravemagazine.com.au/content/view/28080/180/
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.ravemagazine.com.au', port=80): Max retries exceeded with url: /content/view/28080/180/ (Caused by NameResolutionError("HTTPConnection(host='www.ravemagazine.com.au', port=80): Failed to resolve 'www.ravemagazine.com.au' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='www.ravemagazine.com.au', port=80): Max retries exceeded with url: /content/view/28080/180/ (Caused by NameResolutionError("HTTPConnection(host='www.ravemagazine.com.au', port=80): Failed to resolve 'www.ravemagazine.com.au' ([Errno -2] Name or service not known)"))
+
+
+==================================================
+Artista: David Bowie
+Álbum: The Next Day
+Fecha: 2026-05-09 04:36:58
+==================================================
+
+URL: http://www.bbc.co.uk/music/reviews/rnpn
+Texto: Read Review
+Estado: Error al verificar: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Excepción: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+URL: http://prettymuchamazing.com/reviews/david-bowie-the-next-day
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/david-bowie-the-next-day (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/david-bowie-the-next-day (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+
+URL: http://music.thedigitalfix.com/content/18556/david-bowie.html
+Texto: Read Review
+Estado: Error HTTP: 410
+Código HTTP: 410
+
+URL: http://www.the-fly.co.uk/reviews/album/1017377/david-bowie-the-next-day/
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.the-fly.co.uk', port=80): Max retries exceeded with url: /reviews/album/1017377/david-bowie-the-next-day/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.the-fly.co.uk', port=80) at 0x7f82256db350>, 'Connection to www.the-fly.co.uk timed out. (connect timeout=10)'))
+Excepción: HTTPConnectionPool(host='www.the-fly.co.uk', port=80): Max retries exceeded with url: /reviews/album/1017377/david-bowie-the-next-day/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.the-fly.co.uk', port=80) at 0x7f82256db350>, 'Connection to www.the-fly.co.uk timed out. (connect timeout=10)'))
+
+URL: http://www.undertheradarmag.com/reviews/david_bowie_the_next_day/
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.undertheradarmag.com', port=443): Read timed out. (read timeout=10)
+Excepción: HTTPSConnectionPool(host='www.undertheradarmag.com', port=443): Read timed out. (read timeout=10)
+
+
+==================================================
+Artista: Tortoise
+Álbum: The Catastrophist
+Fecha: 2026-05-09 05:04:39
+==================================================
+
+URL: http://www.themusicfix.co.uk/content/id/21480/tortoise.html
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.themusicfix.co.uk', port=80): Max retries exceeded with url: /content/id/21480/tortoise.html (Caused by NewConnectionError("HTTPConnection(host='www.themusicfix.co.uk', port=80): Failed to establish a new connection: [Errno 111] Connection refused"))
+Excepción: HTTPConnectionPool(host='www.themusicfix.co.uk', port=80): Max retries exceeded with url: /content/id/21480/tortoise.html (Caused by NewConnectionError("HTTPConnection(host='www.themusicfix.co.uk', port=80): Failed to establish a new connection: [Errno 111] Connection refused"))
+
+URL: http://www.tinymixtapes.com/music-review/tortoise-catastophist
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/tortoise-catastophist (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+Excepción: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/tortoise-catastophist (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+
+URL: http://www.undertheradarmag.com/reviews/tortoise_the_catastrophist/
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.undertheradarmag.com', port=443): Read timed out. (read timeout=10)
+Excepción: HTTPSConnectionPool(host='www.undertheradarmag.com', port=443): Read timed out. (read timeout=10)
+
+
+==================================================
+Artista: Geese
+Álbum: Getting Killed
+Fecha: 2026-05-09 05:06:42
+==================================================
+
+URL: https://www.godisinthetvzine.co.uk/2025/10/02/geese-getting-killed-partisan-pias/
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.godisinthetvzine.co.uk', port=443): Read timed out. (read timeout=10)
+Excepción: HTTPSConnectionPool(host='www.godisinthetvzine.co.uk', port=443): Read timed out. (read timeout=10)
+
+
+==================================================
+Artista: John Maus
+Álbum: Addendum
+Fecha: 2026-05-09 05:17:12
+==================================================
+
+URL: http://www.earbuddy.net/71607/john-maus-addendum.html/reviews
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.earbuddy.net', port=80): Read timed out. (read timeout=10)
+Excepción: HTTPConnectionPool(host='www.earbuddy.net', port=80): Read timed out. (read timeout=10)
+
+
+==================================================
+Artista: The Pop Group
+Álbum: Honeymoon on Mars
+Fecha: 2026-05-09 05:47:17
+==================================================
+
+URL: http://spectrumculture.com/2017/01/16/pop-group-honeymoon-mars/
+Texto: Read Review
+Estado: Error al verificar: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Excepción: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+
+==================================================
+Artista: Deftones
+Álbum: Gore
+Fecha: 2026-05-09 06:49:25
+==================================================
+
+URL: http://prettymuchamazing.com/reviews/deftones-gore
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/deftones-gore (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='prettymuchamazing.com', port=80): Max retries exceeded with url: /reviews/deftones-gore (Caused by NameResolutionError("HTTPConnection(host='prettymuchamazing.com', port=80): Failed to resolve 'prettymuchamazing.com' ([Errno -2] Name or service not known)"))
+
+URL: http://www.tinymixtapes.com/music-review/deftones-gore
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/deftones-gore (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+Excepción: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/deftones-gore (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+
+
+==================================================
+Artista: Deftones
+Álbum: Diamond Eyes
+Fecha: 2026-05-09 06:50:20
+==================================================
+
+URL: http://www.eyeweekly.com/music/ondisc/article/91712
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.eyeweekly.com', port=80): Max retries exceeded with url: /music/ondisc/article/91712 (Caused by NameResolutionError("HTTPConnection(host='www.eyeweekly.com', port=80): Failed to resolve 'www.eyeweekly.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='www.eyeweekly.com', port=80): Max retries exceeded with url: /music/ondisc/article/91712 (Caused by NameResolutionError("HTTPConnection(host='www.eyeweekly.com', port=80): Failed to resolve 'www.eyeweekly.com' ([Errno -2] Name or service not known)"))
+
+URL: http://www.themusicfix.co.uk/content/review/10199/deftones.html
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.themusicfix.co.uk', port=80): Max retries exceeded with url: /content/review/10199/deftones.html (Caused by NewConnectionError("HTTPConnection(host='www.themusicfix.co.uk', port=80): Failed to establish a new connection: [Errno 111] Connection refused"))
+Excepción: HTTPConnectionPool(host='www.themusicfix.co.uk', port=80): Max retries exceeded with url: /content/review/10199/deftones.html (Caused by NewConnectionError("HTTPConnection(host='www.themusicfix.co.uk', port=80): Failed to establish a new connection: [Errno 111] Connection refused"))
+
+
+==================================================
+Artista: Deftones
+Álbum: Koi No Yokan
+Fecha: 2026-05-09 06:50:41
+==================================================
+
+URL: http://hangout.altsounds.com/reviews/154394-review-deftones-koi-yokan-album.html
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='hangout.altsounds.com', port=80): Max retries exceeded with url: /reviews/154394-review-deftones-koi-yokan-album.html (Caused by NameResolutionError("HTTPConnection(host='hangout.altsounds.com', port=80): Failed to resolve 'hangout.altsounds.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='hangout.altsounds.com', port=80): Max retries exceeded with url: /reviews/154394-review-deftones-koi-yokan-album.html (Caused by NameResolutionError("HTTPConnection(host='hangout.altsounds.com', port=80): Failed to resolve 'hangout.altsounds.com' ([Errno -2] Name or service not known)"))
+
+URL: http://www.popmatters.com/pm/review/165472-deftones-koi-no-yokan/
+Texto: Read Review
+Estado: Error HTTP: 503
+Código HTTP: 503
+
+
+==================================================
+Artista: John Maus
+Álbum: We Must Become The Pitiless Censors Of Ourselves
+Fecha: 2026-05-09 07:07:25
+==================================================
+
+URL: http://www.tinymixtapes.com/music-review/john-maus-we-must-become-pitiless-censors-ourselves
+Texto: Read Review
+Estado: Error al verificar: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/john-maus-we-must-become-pitiless-censors-ourselves (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+Excepción: HTTPSConnectionPool(host='www.tinymixtapes.com', port=443): Max retries exceeded with url: /music-review/john-maus-we-must-become-pitiless-censors-ourselves (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)')))
+
+URL: http://www.the-fly.co.uk/words/reviews/album-reviews/10266/album-review:-john-maus
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.the-fly.co.uk', port=80): Max retries exceeded with url: /words/reviews/album-reviews/10266/album-review:-john-maus (Caused by ConnectTimeoutError(<HTTPConnection(host='www.the-fly.co.uk', port=80) at 0x7f820ccbf680>, 'Connection to www.the-fly.co.uk timed out. (connect timeout=10)'))
+Excepción: HTTPConnectionPool(host='www.the-fly.co.uk', port=80): Max retries exceeded with url: /words/reviews/album-reviews/10266/album-review:-john-maus (Caused by ConnectTimeoutError(<HTTPConnection(host='www.the-fly.co.uk', port=80) at 0x7f820ccbf680>, 'Connection to www.the-fly.co.uk timed out. (connect timeout=10)'))
+
+URL: http://onethirtybpm.com/reviews/album-review-john-maus-we-must-become-the-pitiless-censors-of-ourselves/
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='onethirtybpm.com', port=80): Max retries exceeded with url: /reviews/album-review-john-maus-we-must-become-the-pitiless-censors-of-ourselves/ (Caused by NameResolutionError("HTTPConnection(host='onethirtybpm.com', port=80): Failed to resolve 'onethirtybpm.com' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='onethirtybpm.com', port=80): Max retries exceeded with url: /reviews/album-review-john-maus-we-must-become-the-pitiless-censors-of-ourselves/ (Caused by NameResolutionError("HTTPConnection(host='onethirtybpm.com', port=80): Failed to resolve 'onethirtybpm.com' ([Errno -2] Name or service not known)"))
+
+URL: http://www.ravemagazine.com.au/content/view/27783/180/
+Texto: Read Review
+Estado: Error al verificar: HTTPConnectionPool(host='www.ravemagazine.com.au', port=80): Max retries exceeded with url: /content/view/27783/180/ (Caused by NameResolutionError("HTTPConnection(host='www.ravemagazine.com.au', port=80): Failed to resolve 'www.ravemagazine.com.au' ([Errno -2] Name or service not known)"))
+Excepción: HTTPConnectionPool(host='www.ravemagazine.com.au', port=80): Max retries exceeded with url: /content/view/27783/180/ (Caused by NameResolutionError("HTTPConnection(host='www.ravemagazine.com.au', port=80): Failed to resolve 'www.ravemagazine.com.au' ([Errno -2] Name or service not known)"))
+
+
+==================================================
+Artista: Tori Amos
+Álbum: In Times Of Dragons
+Fecha: 2026-05-09 08:06:27
+==================================================
+
+URL: https://spectrumculture.com/2026/05/04/tori-amos-in-times-of-dragons-review/
+Texto: Read Review
+Estado: Error al verificar: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Excepción: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
