@@ -14,7 +14,7 @@ client = genai.Client(api_key=os.environ['GEMINI_API_KEY'])
 TELEGRAM_BOT = os.environ['TELEGRAM_BOT']
 TELEGRAM_CHAT_ID = os.environ['TELEGRAM_CHAT_ID']
 TELEGRAM_URL = f"https://api.telegram.org/bot{TELEGRAM_BOT}/sendMessage"
-MENSAJE = "Se ha completado la realización de resumenes"
+MENSAJE = "Se ha completado la realización de resumenes en ensayos musicales"
 
 payload_end = {
     "chat_id": TELEGRAM_CHAT_ID,
