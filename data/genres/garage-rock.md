@@ -1,6 +1,7 @@
-# genre - Garage Rock
+# genre - Garage rock
 
 ## curiosities
+**Simple Rebellious Vibe** : Garage rock typically features two or three chords played on guitar, bass, and drums, characterized by a loose, rebellious vibe that prioritizes feeling good over complexity. "Garage rock, two or three chords played on guitar, bass and drums with a loose rebellious vibe. Nothing too complicated. It's just gotta feel good." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
 **Antiquity and Cyclical Nature** : Garage rock is nearly as old as rock music itself, having first emerged in the early 1960s. Since then, it has consistently ebbed and flowed through the decades, experiencing constant revivals. "It is almost as old as rock itself. And since it first emerged in the early 1960s, it has ebbed and flowed constantly through the decades." ← Ongoing History of New Music > Alt Rock Revivals Part 3： Emo | https://www.youtube.com/watch?v=v_am7ifh7Pk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Biggest Revival (Late 1990s/Early 2000s)** : The most significant Garage Rock revival since punk occurred at the end of the 1990s and into the early 2000s. This resurgence was spurred by a disillusionment with the state of alternative rock, the burnout of grunge, the polarizing nature of nu-metal, and the dominance of pop music. It began in New York, with bands like The Strokes and The White Stripes, and coincided with a post-9/11 shift in public taste and youth seeking music with "more teeth, more bite." "This is what happened with Garage Rock at the very end of the 1990s in the early 2000s." ← Ongoing History of New Music > Alt Rock Revivals Part 4： Garage Rock | https://www.youtube.com/watch?v=UpWz3X33vSY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Cyclical Revival (Late 1960s, Early 2000s)** : Garage rock from the late 1960s played a role in the lineage of the Indie Rock Revival of the early 2000s, serving as a foundational style that was "repeated" and combined with punk. Bands like The Hives were part of this later revival. "which itself was a repeat of the garage rock of the late 60s, made it with a punk in the mid 1970s." ← Ongoing History of New Music > The 100 Greatest Rock Moments of the Millennium So Far - Part 2： (90-81) | https://www.youtube.com/watch?v=vJszsJQpINQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -21,52 +22,5 @@
 **Sonic Compatibility with Cassette** : The inherent "reduced sound" quality of cassette tapes has made it a characteristic and attractive medium for genres like garage rock. This specific sound, though not objectively pure, is appreciated by passionate fans who find it suitable for their music. "el sonido del caset es como un sonido que se ha hecho muy característico en ciertos estilos de música como puede ser el rock de garage." ← Music Radar Clan > Coleccionar Cassettes. Cosas que hay que saber. | https://www.youtube.com/watch?v=W5mOafWo-28&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## artists
-- ? and the Mysterians
-- Banshee
-- Bass Drum of Death
-- Chad Allen and the Expressions
-- Count Five
-- International Noise Conspiracy
-- JET
-- Jay Reatar
-- Joe Strummer
-- L7
-- PUP
-- Question Mark in the Mysterians
-- The 5678's
-- The Barbarians
-- The Black Keys
-- The Black Lips
-- The Brian Jones Town Massacre
-- The Clash
-- The Datsons
-- The Feminine Complex
-- The Guess Who
-- The Hives
-- The Horrors
-- The Jesus and Mary Chain
-- The Kingsmen
-- The Kinks
-- The Liberty's
-- The Poppers
-- The Pretty Things
-- The Ramones
-- The Rolling Stones
-- The Seeds
-- The Shaggs
-- The Shags
-- The Standells
-- The Strangeloves
-- The Strokes
-- The Subways
-- The Trashmen
-- The Troggs
-- The Vines
-- The Von Bondis
-- The White Stripes
-- The Who
-- Ty Seagull
-- Ty Segall
-- Wavves
-- Ye-Eyes
+- Shadowy Men on a Shadowy Planet
 

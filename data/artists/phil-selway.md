@@ -17,4 +17,3 @@
 **Family Background** : Phil Selway comes from a family with an academic background. "He comes from a family of academics." ← https://www.youtube.com/watch?v=t-G22K0vLnM ← phil-selway
 **Joining "On a Friday"** : Phil Selway was recruited into "On a Friday" from another Abingdon-based group called Jungle Telegraph. His role was to replace the band's "horrible drum machine," Dr. Rhythm. "Phil Selway was drafted in from an Albington group called Jungle Telegraph to replace that horrible drum machine." ← https://www.youtube.com/watch?v=t-G22K0vLnM ← phil-selway
 **Nickname "Mad Dog"** : Phil earned the nickname "Mad Dog" because he "used to be prone to big temper tantrums." "And his nickname is Mad Dog because he used to be prone to big temper tantrums." ← https://www.youtube.com/watch?v=t-G22K0vLnM ← phil-selway
-

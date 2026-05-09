@@ -3,10 +3,8 @@
 ## member of
 - Three Days Grace
 
-
 ## charts
 **"Get Lucky" — Billboard Year-End Hot 100** : #14, 2013.
-
 
 ## lists
 **"Homework" (1997) — 1001 Albums You Must Hear Before You Die** : #850.

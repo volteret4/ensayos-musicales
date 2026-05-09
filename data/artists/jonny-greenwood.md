@@ -9,4 +9,3 @@
 ## curiosities
 **Expensive Soundtrack Edition** : The physical release of the "Phantom Thread" soundtrack is projected to be costly, with an estimated price of 35 to 40 euros. "va a ser bastante cara la edición creo que va a valer como 35 casi 40 euros." ← Music Radar Clan > Lanzamientos ABRIL 2018 | https://www.youtube.com/watch?v=3_SAz8OxeIA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jonny-greenwood
 **Oscar Nomination for Phantom Thread** : Jonny Greenwood received an Oscar nomination (or win) for his musical score for the film "Phantom Thread," creating significant demand among fans. "lo nominaron a los carno o logano." ← Music Radar Clan > Lanzamientos ABRIL 2018 | https://www.youtube.com/watch?v=3_SAz8OxeIA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jonny-greenwood
-

@@ -1,2 +1,0 @@
-# artist - Guru Guru
-

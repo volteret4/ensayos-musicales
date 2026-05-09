@@ -1,6 +1,7 @@
-# instrument - Guitar
+# instrument - guitar
 
 ## curiosities
+**Renewed Excitement for Playing (2019)** : After a period of focusing on electronic music, John Frusciante became excited about playing the guitar again, which ultimately led to his third return to the Red Hot Chili Peppers. "After spending all that time working with electronic music, John had become excited about playing the guitar again." ← https://www.youtube.com/watch?v=CPxy_KOv87o
 **62 Stratocaster Gifted to John Frusciante (1998)** : Upon John Frusciante's return to the Red Hot Chili Peppers in 1998, having lost his own instruments, Anthony Kiedis purchased a '62 Stratocaster for him to facilitate his re-entry into music. "John didn't even own a guitar at the time, so Anthony took him to a music shop and bought him a 62 Stratocaster to get him started." ← Ongoing History of New Music > The Long Strange Trip of John Frusciante Part 1 | https://www.youtube.com/watch?v=TESrEzVHLCc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **80s Virtuosity vs. Swans' Atmospheric Sound** : In the 1980s, rock guitar sounds were characterized by their sharpness, with virtuoso guitarists playing very fast and complex scores, often utilizing pedals and pitch-shifting effects. In contrast, Michael Gira of Swans pursued a radically different approach, aiming to create a completely atmospheric guitar sound that often blurred the line between playing and noise, rather than focusing on instrumental virtuosity. "en los 80 las guitarras del rock se hicieron muy puntagudas, y otra vez con esos grandes virtuosos de la guitarra que tocaba muy rápido tenían partituras muy complejas." ← Music Radar Clan > SWANS. Una visión del rock diferente | https://www.youtube.com/watch?v=sJ3HuN7woDc&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **90s European Guitar Production Style** : In contrast to the US, 90s European guitar production favored much drier and more differentiated sounds, where individual guitars were easily distinguishable. This style avoided the heavy echo or intertwined track effects common in US production. "Mientras que en Europa gustaban los nidos mucho más secos, mucho más diferenciados donde las guitarras son fáciles de distinguirlas unas de las otras." ← Music Radar Clan > Mellon Collie and The Infinite Sadness： ¿Por qué suena diferente？ | https://www.youtube.com/watch?v=mYPtjJN11zU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
@@ -91,102 +92,12 @@
 **Wolves Song Tuning** : The song "Wolves" by Big Wreck was developed when Ian Thorneley discovered a particular guitar tuning and shape, which inspired the song's creation. "but we put the guitar in a particular tuning. I was, I think I was on the phone at the time and my fingers just kind of found a shape." ← Ongoing History of New Music > Ian Thornley - In His Own Words： Part 2 | https://www.youtube.com/watch?v=QIA7V4PxCdM&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- Adam Jones
-- Alabama Shakes
-- Alice in Chains
-- Alien Ant Farm
-- Anthony Carone
-- Arkells
-- Beastie Boys
-- Billy Talent
-- Bob Marley
-- Brad Delson
-- Captain Kick and the Cowboy Ramblers
-- Carol K
-- Chris Berkett
-- Chuck Berry
-- Colin Cripps
-- Daniel Ash
-- Dave Grohl
-- David Gilmour
-- Depeche Mode
-- Dick Dale
-- Django Reinhart
-- Ed O'Brien
-- Elvis Costello
-- Elvis Presley
-- Foo Fighters
-- Gerry Rafferty
-- Graham Coxon
-- Hassel Adkins
-- Hillel Slovak
-- Imagine Dragons
-- Jane's Addiction
-- Jeff "Skunk" Baxter
-- Jeff Beck
-- Jeff Buckley
-- Jet Beck
-- Jim Martin
-- Jimi Hendrix
-- Joe Walsh
-- Joey Santiago
+- Beck
+- Ian Thorneley
+- Jacob Danger Armstrong
+- Jay Weinberg
+- Joe Sumner
 - John Frusciante
-- Johnny Greenwood
-- Johnny Marr
-- Johnny Thunders
-- Josh Homme
-- Joy Division
-- KISS
-- Kelly Deal
-- Kings of Leon
-- Kurt Cobain
-- Kurt Schaffer
-- Lana Del Rey
-- Les Paul
-- Matt Bellamy
-- Memphis Mini
-- Memphis Minnie
-- Michael Ward
-- Mick Ronson
-- Nancy Wilson
-- Nate Albert
-- New Order
-- Nihilist Spasm Band
-- Nirvana
-- Noel Gallagher
-- Oasis
-- Pat Smear
-- Paul Stanley
-- Peggy Jones
-- Perry Bamonte
-- Phoebe Bridgers
-- Poison Ivy
-- Radiohead
-- Rage Against the Machine
-- Reznik
-- Rob Baker
-- Robert Fripp
-- Russell Senior
-- Sinead O'Connor
-- Sloan
-- Sonic Youth
-- Steve Jones
-- The B-52s
-- The Clash
-- The Edge
-- The Mighty Mighty Bosstones
-- The Night Watchman
-- The Ramones
-- The Smiths
-- The Tragically Hip
-- They Might Be Giants
-- Tim Buckley
-- Tim Oxford
-- Tom Morello
-- Tony Iommi
-- Trent Carr
-- Trent Reznor
+- Levi Evans
 - U2
-- Warren Cuccurullo
-- Weezer
 

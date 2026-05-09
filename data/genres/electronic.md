@@ -1,6 +1,7 @@
-# genre - Electronic
+# genre - electronic
 
 ## curiosities
+**John Frusciante's Post-RHCP Exploration (2009-2019)** : After his second departure from the Red Hot Chili Peppers, John Frusciante's solo albums became very electronic, as he expressed a desire to try something he knew nothing about and had lost interest in traditional rock band songwriting. "He said he'd lost interest in traditional rock band songwriting and wanted to try something he knew nothing about." ← https://www.youtube.com/watch?v=CPxy_KOv87o
 **Continued Remixing in Grunge Era** : During the grunge era, when rock-based remixes saw a decline, electronic outfits, along with industrial groups and some others, continued to utilize remixing. "Oh, it was still done for industrial groups, electronic outfits and a few others." ← Ongoing History of New Music > The History of Remixes | https://www.youtube.com/watch?v=08i9lVd6T8c&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Doctor Who Soundtrack as Foundation** : The soundtrack for the 1960s "Doctor Who" series is recognized as one of the most important albums in electronic music history. It is credited with having laid the foundations for the electronic genre, preceding many works considered classical electronic music. "la bandas sonora del doctor H, de la serie de los años 60, es uno de los álbumes más importantes de la historia de la electrónica, uno de los álbumes que asentó las bases de la electrónica." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Dominance in Late 1990s** : Electronic music, along with pop and hip-hop, dominated the music scene at the end of the 1990s, contributing to rock's perceived decline. "Pop, electronic eye and hip-hop had taken over. Rock itself had fallen into the doldrums." ← Ongoing History of New Music > The 00's Part 3： The Return of Rock | https://www.youtube.com/watch?v=7dXtgTkdv9w&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -31,79 +32,6 @@
 **Warp Records - Cult Label** : Warp Records is recognized as "one of the best cult electronic labels," signifying its important role in the development and dissemination of electronic music. "una de las mejores discográficas de culto de la electrónica." ← Music Radar Clan > Lanzamientos Diciembre 2017 | https://www.youtube.com/watch?v=zKLlsA2kSqY&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## artists
-- Air
-- Alva Noto
-- Amon Düül
-- Andrea Hogan (Hügellands Roondance)
-- Arca
-- Atticus Ross
-- Avicii
-- Björk
-- Boards of Canada
-- Brian Eno
-- Chrome Sparks
-- DJ Shadow
-- Daft Punk
-- Daniel Avery
-- David Bowie
-- David Holmes
-- Depeche Mode
-- Diplo
-- Doctor Who Soundtrack
-- Duran Duran
-- Erasure
-- Eurythmics
-- Faithless
-- Fatboy Slim
-- Franz Ferdinand
-- Garbage
-- Gary Numan
-- Gnarls Barkley
-- Goldie
-- Gorillaz
-- Grace Jones
-- Jackalope
-- Jean-Michel Jarre
-- Jlin
 - John Frusciante
-- Jon Lein Stranger
-- Jóhann Jóhannsson (as "Jojan Johansson")
-- Kraftwerk
-- Ladytron
-- Long Distance Calling
-- M83
-- MGMT
-- Mark Peters
-- Massive Attack
-- Moby
-- Moses Sumney
-- Muse
-- New Order
-- Nine Inch Nails
-- OMD
-- Orbital
-- Orchestral Manoeuvres in the Dark
-- Orchestral Manoeuvres in the Dark (OMD)
-- OutKast
-- Peter Culman
-- Plus 44
-- Portishead
-- Ryuichi Sakamoto
-- Seahawks
-- Skepta
-- Soft Cell
-- Soulwax
-- Tangerine Dream
-- The Avalanches
-- The Chemical Brothers
-- The Holidays
-- The Human League
-- The Orb
-- The Prodigy
-- The Smiths
-- The xx
-- Thundercat
-- U.S. Girls
-- USS
-- Vangelis
+- Speed Dealer Mums
 

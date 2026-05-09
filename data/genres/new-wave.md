@@ -1,6 +1,7 @@
-# genre - New Wave
+# genre - New wave
 
 ## curiosities
+**San Francisco Punk Influence** : The experimental nature of early San Francisco punk, with its eclectic blend of styles, helped set the stage for the development of new wave music. "The result was some very interesting experimentation, which set the stage for later rock, new wave, and technopop sounds." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
 **"Punk Only Intelligent"** : New Wave was frequently characterized as "like punk only intelligent," a description that highlighted its experimental and artistic dimensions while retaining the raw energy and attitude of its punk predecessor. This broad definition allowed for significant "wiggle room" and fostered diverse musical approaches. "People described new wave as like punk only intelligent." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 6 | https://www.youtube.com/watch?v=iL9KpQFqH4o&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **1978 Emergence and Characteristics** : New Wave began to appear in 1978 as punk was peaking and burning out. It resulted from a cross-pollination between punk's attitude and pop's melody, featuring twitchy, spiky, choppy, and nervous sounds with experimental structures, geeky vocals, artsy intellectualism, and a suburban vibe, contrasting with traditional rock's blues roots. "Pop and punk had a baby, and they called it New Wave." ← Ongoing History of New Music > The Post-Punk Explosion Part 1： New Wave | https://www.youtube.com/watch?v=bYsV3ozbk4M&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **1978-1982 Music Industry Revolution** : Between 1978 and 1982, the music industry underwent a revolution, including the rise of New Wave music. "nacían el de New Wave" ← Music Radar Clan > Cómo Michael Jackson hizo el disco más vendido de la historia | https://www.youtube.com/watch?v=4WGG23ajaiA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
@@ -131,101 +132,6 @@
 **Vocal Style Development** : As New Wave gained popularity, new vocal styles began to emerge, with singers often sounding "geeky" and unashamed. This reflected a musical ethos that was catchy, fun, and perceived as more authentic than mainstream offerings, providing artists a license to be silly and goofy in a fashionable and artistic manner. "Singer sounded, uh, kind of geeky, orn't ashamed of it, because they didn't care." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 6 | https://www.youtube.com/watch?v=iL9KpQFqH4o&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- 999
-- A Flock of Seagulls
-- A-Ha
-- ABC
-- Adam and the Ants
-- Alexis Taylor
-- Berlin
-- Bloc Party
 - Blondie
-- Blur
-- Bow Wow Wow
-- Culture Club
-- David Bowie
-- David Byrne
-- Dead or Alive
-- Depeche Mode
-- Devo
-- Duran Duran
-- Echo & the Bunnymen
-- Elvis Costello
-- English Beat
-- Erasure
-- Eurythmics
-- Field Music
-- Flock of Seagulls
-- Frankie Goes to Hollywood
-- Gary Numan
-- Grace Jones
-- Great Buildings
-- Greg Kihn
-- Interpol
-- Joan Jett
-- Joe Jackson
-- John Frusciante
-- Joy Division
-- Klaus Nomi
-- Lene Lovich
-- Lucky Pierre
-- Madness
-- Marilyn Manson
-- Martha and the Muffins
-- Massive Attack
-- Michael Jackson
-- Missing Persons
-- New Order
-- No Doubt
-- OMD
-- Option 30
-- Orchestral Manoeuvres in the Dark (OMD)
-- Pet Shop Boys
-- Pulp
-- Ramones
-- Real Life
 - Rough Trade
-- Seahawks
-- Siouxsie and the Banshees
-- Soft Cell
-- Squeeze
-- Talking Heads
-- Tame Impala
-- Taylor Hawkins
-- Television
-- The B-52s
-- The Buggles
-- The Buzzcocks
-- The Cars
-- The Clash
-- The Cure
-- The English Beat
-- The Fixx
-- The Go-Go's
-- The Greg Kihn Band
-- The Human League
-- The Jam
-- The Killers
-- The Knack
-- The Police
-- The Pretenders
-- The Quick
-- The Razberries
-- The Records
-- The Romantics
-- The Rubinous
-- The Shoes
-- The Smiths
-- The Specials
-- The Spungtones
-- The Strokes
-- The Talking Heads
-- The Undertones
-- The Vapors
-- The White Stripes
-- Tom Petty and the Heartbreakers
-- Trent Reznor
-- XTC
-- cavern of antimatter
-- expression Boy
 

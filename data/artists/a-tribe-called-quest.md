@@ -1,6 +1,7 @@
-# artist - A Tribe Called Quest
+# artist - A tribe called Quest
 
 ## concerts
+- **Lollapalooza Festival Bookings** : A Tribe Called Quest was a mainstay act booked at the Lollapalooza Festival, which was instrumental in introducing rap to white audiences. "The La La Paloza Festival helped bring rap to white kids by booking mainstayjacks like Ice Tea, Ice Cube, George Clinton, Cypress Hill, and a tribe called Quest."
 - Lollapalooza 1991
 
 ## albums
@@ -9,15 +10,12 @@
 ## curiosities
 **Lollapalooza 1991 Performer** : A Tribe Called Quest was among the "rap stars" featured on the 1991 Lollapalooza tour, contributing to the festival's diverse lineup that deliberately mixed alternative rock with hardcore rap and hip hop to bridge cultural divides. "When presented with rap stars like Ice Tea and Ice Cube at a tribe called Quest in George Clinton and Cypress Hill." ← Ongoing History of New Music > The 90s Part 5a： Hip-Hop's Effects Part 1 | https://www.youtube.com/watch?v=PqOJ3YiFgYE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
-
 ## awards
 **The Source (1994)** : Won.
 **Grammy Award for Best Rap Album (1997) — Beats, Rhymes and Life** : Nominated.
 **Grammy Award for Best Music Film (2012) — Beats, Rhymes & Life: The Travels of A Tribe Called Quest** : Nominated.
 **Brit Award for International Group (2017)** : Won.
 **Rock and Roll Hall of Fame (2024)** : Won.
-
-
 
 ## lists
 **"People’s Instinctive Travels and the Paths of Rhythm" (1990) — 1001 Albums You Must Hear Before You Die** : #681.

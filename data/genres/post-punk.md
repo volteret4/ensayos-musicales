@@ -1,6 +1,8 @@
-# genre - Post Punk
+# genre - Post-punk
 
 ## curiosities
+**Evolution from Punk** : Following the punk rock explosion of the mid-1970s, punk's angry guitars gave rise to a diverse range of post-punk sounds. This music, while distinct from punk, clearly showed its origins and influence. "The punk and its angry guitars begin a variety of post-punk sounds. This music wasn't punk, but you could tell by listening to it that something like punk must have happened." ← https://www.youtube.com/watch?v=_yslM5oanRo
+**Origin of Goth and Industrial** : The post-punk era, beginning in the late 1970s, was a time when punk's influence encouraged diverse musical experimentation, leading to the emergence of both Goth and Industrial music with their distinct dark sounds and sensibilities. "We call this the post-punk era, and some of the very first bands from this era were into dark sounds and sensibilities." ← https://www.youtube.com/watch?v=amHre9ZZFkU
 **Catch-all Term** : "Post punk" emerged as a catch-all phrase for music that originated from the punk scene but did not sound like traditional punk. "The first was post punk. It was a catch-all phrase for the music that came out of the original punk scene, but didn't sound like punk." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 7 | https://www.youtube.com/watch?v=9uTORLOm5Yg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Complexity and Experimentation** : This new music, unlike previous genres, was characterized by its complexity and experimental nature, unusual in its inspiration, tensions, construction, composition, and execution, moving beyond the simple two- or three-chord punk songs. "This new music was unlike anything that had come before it. It seemed more complex and experimental. Not necessarily complicated when it came to playing it, but certainly unusual in its inspiration, its tensions, its construction, its composition, and its execution." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 7 | https://www.youtube.com/watch?v=9uTORLOm5Yg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **DIY Tenets** : The central tenets of the "do it yourself" ethos from punk rock ingrained themselves into many other genres loosely grouped under the umbrella of post punk. While these sounds were not strictly punk, the influence of punk was clearly discernible. "And the central tenets of doing it yourself, engraved itself into many other genres loosely grouped under the umbrella of post punk." ← Ongoing History of New Music > Alt Rock Revivals Part 1： Punk | https://www.youtube.com/watch?v=gkLMwrthZ9s&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -13,19 +15,11 @@
 **Term Coined in 1977** : The term "post punk" emerged around 1977, coinciding with the peak of punk, to describe the music that came after it. It served as an umbrella term for a new sound that rejected traditional rock and roll norms but maintained a connection to punk's expressive freedom. "Ergo, the name post punk, which was an umbrella term for this music." ← Ongoing History of New Music > Alt Rock Revivals Part 5： New Wave | https://www.youtube.com/watch?v=9CNNsqXiL6U&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- Against Me!
-- Fontaines D.C.
-- Fucked Up
-- Grace Jones
-- Idles
-- Japandroids
 - Joy Division
-- New Order
-- Parquet Courts
-- Scott Weiland
-- Sleaford Mods
-- Sleater-Kinney
-- Soy DeSant
+- Rough Trade
+- Talking Heads
+- Television
+- The Alarm
 - The Cure
-- The Slits
+- The Smiths
 

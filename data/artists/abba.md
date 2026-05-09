@@ -1,4 +1,13 @@
-# artist - ABBA
+# artist - Abba
+
+## albums
+**Abba Gold (1992) – British Chart Longevity** : "Abba Gold," a greatest hits compilation, stands as one of the most successful albums ever, achieving remarkable chart longevity in the UK. As of July 2021, the album had spent an astounding 1,000 weeks on the British charts, equivalent to over 19 years. "As of July 2021, it has been on the British charts for 1,000 weeks, which is more than 19 years." ← https://www.youtube.com/watch?v=-N6IM5Nm5iw
+**The Visitors** : This album holds the distinction of being the first popular music album to be created on compact disk. It was part of the initial wave of CD releases, showcasing the new format's capability for mainstream music. `"And the first popular music album to be created on compact disk was The Visitors from Abba."` ← https://www.youtube.com/watch?v=OuFvfZJKcpc
+**The Visitors (1981) – First Popular Music Album on CD** : Pressed in August 1982, Abba's 1981 album "The Visitors" holds the distinction of being the first popular music album released on compact disc. "That honor went to Abba with their 1981 album The Visitors. It was pressed in August of 1982." ← https://www.youtube.com/watch?v=BHkJFA0LMro
+**Super Trouper** : The album "Super Trouper" includes an unusual audio feature at its conclusion: an endless loop of applause embedded in the vinyl's run-out groove. This allowed the sound of applause to continue playing indefinitely for listeners. "Abba had an endless loop of applause at the end of Super Trooper." ← Ongoing History of New Music > Hidden Tracks and Other Sundry | https://www.youtube.com/watch?v=J_VEOIwavtg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**The Visitors (1981) - First Pop Album on CD** : Released in late 1981, this album by ABBA holds the distinction of being the first pop music album launched on the Compact Disc format. Its release marked an early, albeit slow, step for the CD into the pop music market. "en 1981 a finales de año tuvimos el primer disco lanzado en disco compacto que fue de Aba de Visitors." ← Music Radar Clan > ESPECIAL FORMATOS： El CD | https://www.youtube.com/watch?v=7iRO7Hwg9V0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**The Visitors (1982) - Possible First Commercially Available CD** : Some sources contend that ABBA's album "The Visitors" was one of the very first commercially available Compact Discs. These initial CDs for consumers rolled off the production line on August 17, 1982, in a factory outside Hanover, West Germany. "Others insist it was The Visitors by Ava." ← Ongoing History of New Music > The Ongoing History Book of Firsts | https://www.youtube.com/watch?v=gP3oQeYEvso&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**The Visitors (Year not specified)** : ABBA's album *The Visitors* was the first compact disc to be manufactured for public sale. This marked a significant milestone in the commercial launch and widespread availability of the CD format. "The first CD to be manufactured for public sale was The Visitors by Ava." ← Ongoing History of New Music > Music vs Technology Over The Years | https://www.youtube.com/watch?v=ak6OuOUkRrQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## members
 - Benny Anderson
@@ -19,12 +28,6 @@
 - Eurovision (1974)
 - Midnight Special (1976)
 - Saturday Night Live (1975)
-
-## albums
-**Super Trouper** : The album "Super Trouper" includes an unusual audio feature at its conclusion: an endless loop of applause embedded in the vinyl's run-out groove. This allowed the sound of applause to continue playing indefinitely for listeners. "Abba had an endless loop of applause at the end of Super Trooper." ← Ongoing History of New Music > Hidden Tracks and Other Sundry | https://www.youtube.com/watch?v=J_VEOIwavtg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**The Visitors (1981) - First Pop Album on CD** : Released in late 1981, this album by ABBA holds the distinction of being the first pop music album launched on the Compact Disc format. Its release marked an early, albeit slow, step for the CD into the pop music market. "en 1981 a finales de año tuvimos el primer disco lanzado en disco compacto que fue de Aba de Visitors." ← Music Radar Clan > ESPECIAL FORMATOS： El CD | https://www.youtube.com/watch?v=7iRO7Hwg9V0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
-**The Visitors (1982) - Possible First Commercially Available CD** : Some sources contend that ABBA's album "The Visitors" was one of the very first commercially available Compact Discs. These initial CDs for consumers rolled off the production line on August 17, 1982, in a factory outside Hanover, West Germany. "Others insist it was The Visitors by Ava." ← Ongoing History of New Music > The Ongoing History Book of Firsts | https://www.youtube.com/watch?v=gP3oQeYEvso&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**The Visitors (Year not specified)** : ABBA's album *The Visitors* was the first compact disc to be manufactured for public sale. This marked a significant milestone in the commercial launch and widespread availability of the CD format. "The first CD to be manufactured for public sale was The Visitors by Ava." ← Ongoing History of New Music > Music vs Technology Over The Years | https://www.youtube.com/watch?v=ak6OuOUkRrQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## songs
 **Dancing Queen (Year not specified)** : This song is provided as an example of uplifting music, which is suggested as beneficial for exercising happiness according to a study by the French streaming service Deezer. "Abbas dancing queen. That's an example of the sort of happy music we should appreciate." ← Ongoing History of New Music > More and More Medical Mysteries of Music | https://www.youtube.com/watch?v=1HMW9rGtJHI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -49,15 +52,12 @@
 **US Popularity through Television and Radio** : ABBA's popularity in the United States was primarily driven by television and radio exposure, as they had minimal live presence in the country. Most Americans first saw them on TV shows like "Saturday Night Live," "American Bandstand" in 1975, or their initial appearance on Dina Shore's show that same year. "Abba's popularity in the United States stems from television and radio. They had virtually no live music presence in the United States ever." ← For the Record - The 70s > Ep. 56 - Talk Shows of the 1970s | https://www.ftr70.com/
 **Unique Mid-70s Pop Vibe** : ABBA possessed a distinct European look and sound, setting them apart from other mid-70s pop groups. They were not categorized as rock or part of the singer-songwriter movement, and their rise occurred before the full advent of the disco era in 1974. "Abba had a different vibe from other pop groups of the mid 70s they were just European in their look in their sound they were not rock they were not part of the singer songwriter movement and we were not quite yet into the disco era in 1974." ← For the Record - The 70s > Ep. 56 - Talk Shows of the 1970s | https://www.ftr70.com/
 
-
 ## awards
 **First prize of the Eurovision Song Contest (1974)** : Won.
 **Brit Award for International Album (1977) — Arrival** : Nominated.
 **Rockbjörnen for the century's Swedish group/artist (1999)** : Won.
 **Rock and Roll Hall of Fame (2010)** : Won.
 **Musikexportpriset (2021)** : Won.
-
-
 
 ## charts
 **"Waterloo" — Billboard Year-End Hot 100** : #49, 1974.
@@ -83,8 +83,6 @@
 **""I Have a Dream" ‡" — UK Singles Chart** : #5, 1980.
 **""Super Trouper" ‡" — UK Singles Chart** : #8, 1981.
 **""One of Us" ‡" — UK Singles Chart** : #5, 1982.
-
-
 
 ## lists
 **"Arrival" (1976) — 1001 Albums You Must Hear Before You Die** : #353.

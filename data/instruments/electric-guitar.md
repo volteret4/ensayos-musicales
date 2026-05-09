@@ -1,6 +1,11 @@
-# instrument - Electric Guitar
+# instrument - Electric guitar
 
 ## curiosities
+**Amplification of Devil's Triad with Distortion** : The "devil's triad" (flattened fifth) can be significantly enhanced and its dissonant effect amplified by adding distortion when played on an electric guitar. This technique contributes to the powerful, "cool," and often "warlike" qualities associated with this chord, particularly in genres like heavy metal. "For some extra oomph, let's hear that on an electric guitar with some distortion. And boom. Cool. There's your devil's triad." ← https://www.youtube.com/watch?v=41eKVp8JIhU
+**Early Religious Condemnation** : Historically, electric guitars were deemed to have "no place in hymns," reflecting a broader religious rejection of rock music. "Electric guitars had no place in hymns." ← https://www.youtube.com/watch?v=g-tBn8dsSqw
+**Evolution of Tones from Clean to Distorted** : Before 1960, the electric guitar was primarily intended to produce clean, clear sounds, mirroring an acoustic guitar but louder. However, early experimentation, both deliberate (overdriving amps, physical speaker damage) and accidental (faulty equipment), led to the discovery of distorted, growly, and powerful sounds. This shift, cemented by the invention of the fuzz pedal, transformed the electric guitar into an instrument capable of a much wider and raunchier sonic palette. "At this time, the purpose of the electric guitar was to provide clean, clear sounds like an acoustic. You wanted the same tones as an acoustic guitar, just louder, so you could be heard over all the other instruments while not having to rely on a microphone." ← https://www.youtube.com/watch?v=6SdPPsmpgJg
+**Guitar Riffs as Foundational** : Bands such as Black Sabbath and Led Zeppelin were pioneers in creating "so many of the great guitar riffs first," effectively claiming them as their own and establishing significant influences on rock music. ← https://www.youtube.com/watch?v=m7MbV-eCLyE
+**Pioneering Techniques** : Artists like Jimmy Hendrix and Eddie Van Halen were recognized for being the "first to do things with an electric guitar that no one else had," indicating their foundational role in developing new techniques and sounds for the instrument. ← https://www.youtube.com/watch?v=m7MbV-eCLyE
 **21st Century Sales Decline (US)** : In the first decade and a half of the 21st century, electric guitar sales in the United States experienced a significant decline, dropping by a third. This trend was attributed to younger generations gravitating towards electronic music production, which required less intensive practice, and an aging, shrinking customer base primarily composed of older hobbyists. "In the first decade and a half of the 21st century, electric guitar sales slid as young people gravitated more towards making music electronically, using devices that didn't take years of practice to master." ← Ongoing History of New Music > The Story of the Electric Guitar - Part 3 | https://www.youtube.com/watch?v=fQCOj3_zy54&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Adaptability and Resilience** : Despite repeated declarations from pundits that rock music and, by extension, the electric guitar were "dead," the instrument has consistently demonstrated remarkable adaptability. It has successfully met challenges and evolved, particularly when wielded by innovative and unconventional musicians. "And while there have been many occasions where pundits have declared that rock and by extension the tools to make this music dead, the electric guitar has proven to be extremely adaptable and has so far been able to take on all comers, especially when placed in the hands of radicals and rule breakers." ← Ongoing History of New Music > The Story of the Electric Guitar - Part 3 | https://www.youtube.com/watch?v=fQCOj3_zy54&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Ascension to Power (1920s-1960s)** : Over a 30-year period, from the 1920s to the 1960s, the electric guitar solidified its place in music. This rise was facilitated by technological advancements, the increasing need for louder volume in performances, evolving social conditions, and shifts in public musical taste. By the 1960s, it was recognized as one of the most potent musical inventions ever. "At over the next 30 years, the electric guitar found its place in music, helped along by technology, the need for volume, changing social conditions, and the ever evolving musical taste of the public. By the 1960s, the electric guitar was regarded as one of the most powerful musical inventions of all time." ← Ongoing History of New Music > The Story of the Electric Guitar - Part 1 | https://www.youtube.com/watch?v=E6cXyaHALBQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -47,9 +52,18 @@
 **Widespread Manufacturing by Early 1940s** : Following the influential performances of Charlie Christian, demand for electric guitars surged, leading to even more manufacturers entering the production market by the early 1940s. "After Charlie Christian, demand for the electric guitars went way up. And by the early 1940s, even more manufacturers were in the game." ← Ongoing History of New Music > The Story of the Electric Guitar - Part 1 | https://www.youtube.com/watch?v=E6cXyaHALBQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- Les Paul
+- Black Sabbath
+- Charlie Christian
+- Chuck Berry
+- Eddie Van Halen
+- George Barnes
+- Jeff Buckley
+- Jimi Hendrix
+- Jimmy Hendrix
+- Kiss
 - Link Wray
-- Mike DeAngeles
-- Queens of the Stone Age
-- Tool
+- Robert Fripp
+- Sister Rosetta Tharpe
+- St. Vincent
+- The Great Kat
 

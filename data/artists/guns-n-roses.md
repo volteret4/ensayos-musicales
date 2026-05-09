@@ -1,12 +1,25 @@
-# artist - Guns N' Roses
+# artist - Guns n' Roses
 
 ## members
 - Axl Rose
-- Dave Navarro
 - Duff McKagan
+- Dave Navarro
 - Izzy Stradlin
 - Matt Sorum
 - Slash
+
+## instruments
+- Fender Precision Bass
+- Gibson Les Paul
+
+## songs
+**Don't Cry** : Shannon Hoon of Blind Melon sang backup vocals on "Don't Cry" and appeared in its music video. "He actually sang backup vocals on a couple of gunner songs and can be seen in the video for Don't Cry." ← https://www.youtube.com/watch?v=ZhzjZixCcK8
+**Don't Cry (1991)** : In the music video for this song, Axl Rose was seen wearing a Nirvana hat, indicating his appreciation for the band despite the later feud. "In fact, if you go back to the band's Don't Cry video, Axel is wearing a Nirvana hat." ← Ongoing History of New Music > Modern Rock Feuds | https://www.youtube.com/watch?v=zUr9sjWgUcw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Estranged** : This nine-minute song from the *Use Your Illusion II* album had a music video that cost an estimated $5 million to produce. The high-budget video helped boost the album's sales to around 10 million copies. "Guns in Roses spent $5 million on estranged, a nine-minute song from the Usure Illusion 2 album, which helped that record sell around 10 million copies." ← Ongoing History of New Music > The Rise and Fall and Future of the Music Video - Part 2 | https://www.youtube.com/watch?v=7IDbqdIw3WU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Nightrain (Drinking Song Survey)** : Ranked second in a sub-survey of popular drinking songs. The song's title is explicitly noted as a brand of very cheap wine. "It's followed by guns and roses, night train, which in case you did not know is a brand of very cheap wine." ← Ongoing History of New Music > Survey Says： Useful and Odd Music Surveys and Polls | https://www.youtube.com/watch?v=KtdIMNoHqA8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Sweet Child o' Mine (Guitar Riff Surveys)** : Consistently ranked highly across multiple guitar riff surveys. It took the top spot in both the Sky Arts survey and a 2022 UK commissioned survey. "and at the top spot, sweet child of mine from guns and roses." ← Ongoing History of New Music > Survey Says： Useful and Odd Music Surveys and Polls | https://www.youtube.com/watch?v=KtdIMNoHqA8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Used to Love Her (but I Had to Kill Her) (Year not given)** : Justin Barber listened to this song for half an hour on August 17, 2002, before he murdered his wife in an attempt to collect on an insurance policy. The same song also contributed to the death of Thomas Wilhelm's live-in girlfriend, whom he shot after listening to the track on repeat while drunk. "Another thing they uncovered is that he listened to guns and roses, specifically the song used to love her, but I had to kill her. And he listened to this song for half an hour before he set after his wife." ← Ongoing History of New Music > Murder Ballads (and Other Deadly Songs) | https://www.youtube.com/watch?v=FtGJHhqXcDI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Welcome to the Jungle** : This song was part of the playlist used by the US Army during Operation Just Cause in December 1989. It was pumped at full volume for 24 hours a day around the Vatican Embassy in Panama City to compel Manuel Noriega to surrender. "There was also plenty of welcome to the jungle from guns and roses." ← Ongoing History of New Music > Using Music as a Weapon | https://www.youtube.com/watch?v=R1wdsGt07Gg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## genres
 - Rock
@@ -23,21 +36,9 @@
 - San Francisco 1992 (ahead of Oakland show)
 - Use Your Illusion Tour
 
-## instruments
-- Fender Precision Bass
-- Gibson Les Paul
-
 ## albums
 **The General (1999) - Unreleased Album** : Guns N' Roses was scheduled to release this album in 1999, but it never materialized. "Guns and roses? Well, they were supposed to release the general in 1999 and you get the idea." ← Ongoing History of New Music > Great Lost Albums | https://www.youtube.com/watch?v=_lSbUUfBNNI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Use Your Illusion II** : This album featured the nine-minute song "Estranged," which was supported by an elaborate and expensive music video costing $5 million. The video's promotion helped the *Use Your Illusion II* album sell approximately 10 million copies. "Guns in Roses spent $5 million on estranged, a nine-minute song from the Usure Illusion 2 album, which helped that record sell around 10 million copies." ← Ongoing History of New Music > The Rise and Fall and Future of the Music Video - Part 2 | https://www.youtube.com/watch?v=7IDbqdIw3WU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-
-## songs
-**Don't Cry (1991)** : In the music video for this song, Axl Rose was seen wearing a Nirvana hat, indicating his appreciation for the band despite the later feud. "In fact, if you go back to the band's Don't Cry video, Axel is wearing a Nirvana hat." ← Ongoing History of New Music > Modern Rock Feuds | https://www.youtube.com/watch?v=zUr9sjWgUcw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Estranged** : This nine-minute song from the *Use Your Illusion II* album had a music video that cost an estimated $5 million to produce. The high-budget video helped boost the album's sales to around 10 million copies. "Guns in Roses spent $5 million on estranged, a nine-minute song from the Usure Illusion 2 album, which helped that record sell around 10 million copies." ← Ongoing History of New Music > The Rise and Fall and Future of the Music Video - Part 2 | https://www.youtube.com/watch?v=7IDbqdIw3WU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Nightrain (Drinking Song Survey)** : Ranked second in a sub-survey of popular drinking songs. The song's title is explicitly noted as a brand of very cheap wine. "It's followed by guns and roses, night train, which in case you did not know is a brand of very cheap wine." ← Ongoing History of New Music > Survey Says： Useful and Odd Music Surveys and Polls | https://www.youtube.com/watch?v=KtdIMNoHqA8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Sweet Child o' Mine (Guitar Riff Surveys)** : Consistently ranked highly across multiple guitar riff surveys. It took the top spot in both the Sky Arts survey and a 2022 UK commissioned survey. "and at the top spot, sweet child of mine from guns and roses." ← Ongoing History of New Music > Survey Says： Useful and Odd Music Surveys and Polls | https://www.youtube.com/watch?v=KtdIMNoHqA8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Used to Love Her (but I Had to Kill Her) (Year not given)** : Justin Barber listened to this song for half an hour on August 17, 2002, before he murdered his wife in an attempt to collect on an insurance policy. The same song also contributed to the death of Thomas Wilhelm's live-in girlfriend, whom he shot after listening to the track on repeat while drunk. "Another thing they uncovered is that he listened to guns and roses, specifically the song used to love her, but I had to kill her. And he listened to this song for half an hour before he set after his wife." ← Ongoing History of New Music > Murder Ballads (and Other Deadly Songs) | https://www.youtube.com/watch?v=FtGJHhqXcDI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Welcome to the Jungle** : This song was part of the playlist used by the US Army during Operation Just Cause in December 1989. It was pumped at full volume for 24 hours a day around the Vatican Embassy in Panama City to compel Manuel Noriega to surrender. "There was also plenty of welcome to the jungle from guns and roses." ← Ongoing History of New Music > Using Music as a Weapon | https://www.youtube.com/watch?v=R1wdsGt07Gg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## curiosities
 **1992 MTV Music Video Awards Altercation** : A backstage confrontation occurred at the 1992 MTV Music Video Awards between Axl Rose, Kurt Cobain, and Courtney Love, where Axl reportedly told Kurt to "keep his woman in line." Separately, Guns N' Roses bassist Duff McKagan and Nirvana bassist Chris Novoselic were also involved in a verbal dispute. "This boiled over to an altercation backstage at the 1992 MTV Music Video Awards between Axel, Kurt and Courtney Love." ← Ongoing History of New Music > Modern Rock Feuds | https://www.youtube.com/watch?v=zUr9sjWgUcw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -69,4 +70,3 @@
 **Velvet Revolver's Core (2004)** : Velvet Revolver was described as "basically Guns and Roses with Scott Wyland and some other guy," highlighting the strong influence and presence of the former Guns N' Roses members in the supergroup's lineup. "It was basically guns and roses with Scott Wyland and some other guy." ← Ongoing History of New Music > Scott Weiland： Part 3 | https://www.youtube.com/watch?v=WfTq9d2YadY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Video Appearance** : Slash, Duff McKagan, and Matt Sorum from Guns N' Roses and Velvet Revolver made an appearance in The Strokes' music video for their song "Someday," the third single from their debut album "Is This It." "They even had Slash, Duff McKagan and Matt Soren from Guns and Roses and Velvet Revolver appear in their video." ← Ongoing History of New Music > The Strokes | https://www.youtube.com/watch?v=jEfofyobGiI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Vintage Pinball Machine Collector** : Slash has a keen interest in vintage pinball games and actively collects them. "Slash of Guns n' Roses really likes his vintage pinball games. He collects them." ← Ongoing History of New Music > Hobbies of Musicians | https://www.youtube.com/watch?v=xc85sLj0Cnk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-

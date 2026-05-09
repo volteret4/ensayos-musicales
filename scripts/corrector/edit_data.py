@@ -11,7 +11,7 @@ from edit_data_html import HTML
 
 PORT           = 8765
 DB_PATH        = 'db/music_facts.db'
-DATA_FOLDER    = 'correcciones'
+DATA_FOLDER    = 'data'
 PENDING_FOLDER = 'pendiente'
 VALIDATED_JSON = 'correcciones/validated.json'
 DELETED_JSON   = 'correcciones/deleted.json'

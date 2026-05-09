@@ -1,36 +1,12 @@
 # artist - Florence + The Machine
 
-## members
-- Florence Leontine Mary Welch
-- Florence Welch
-- Isabella "Issa" Summers
-- Isabella Summers
-- Isabella Summers (The Machine)
-- Tom Munger
-
-## genres
-- Alternative Rock
-- Hip Hop (Isabella Summers' obsession)
-- Jazz (Tom Munger's harp style)
-- Rock (Tom Munger's harp style)
-
-## labels
-- (None explicitly mentioned for the band's releases, only for Ashock)
-- Island Records
-
 ## concerts
+- Twilight Soundtracks
 - Coachella (April 2015)
 - Glastonbury
-- Twilight Soundtracks
-
-## instruments
-- Drum
-- Effects pedals (for harp)
-- Harp
-- Vocals
 
 ## albums
-**Ceremonials** : This album was in the process of being recorded at Abbey Road Studio 1 when a private tour took place. Studio 1, the smallest of the Abbey Road studios, was "jammed with gear" during the recording sessions. "Florence and the machine were above midway through recording their ceremonials album." ← https://www.youtube.com/watch?v=hjProJd_JrM ← florence-the-machine
+**Ceremonials** : This album was in the process of being recorded at Abbey Road Studio 1 when a private tour took place. Studio 1, the smallest of the Abbey Road studios, was "jammed with gear" during the recording sessions. "Florence and the machine were above midway through recording their ceremonials album." ← https://www.youtube.com/watch?v=hjProJd_JrM
 **Ceremonials (2011)** : This album was recorded at Abbey Road Studios, specifically in studio three. The recording setup for Florence & Company in the studio was notable for its exotic instruments, carpets, and candles. "When that album was being recorded at Abbey Road Studios, I was given a tour of the facility. Florence & Company were set up in studio three with all kinds of exotic instruments and carpets and candles." ← https://www.youtube.com/watch?v=24NeCYqlVco ← florence-the-machine
 **Ceremonials (Year not stated)** : Florence + The Machine was observed recording what would become their Ceremonials album in Studio Three at Abbey Road. "where Florence and the machine were set up recording what would become the ceremonials album." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
 **High As Hope (June 29th) - Highly Anticipated Release** : "High As Hope" is presented as one of the most anticipated albums of the year from Florence + The Machine, following a lengthy wait for new material. The album includes previously released singles such as "Sky Full of Song" (referred to as Sordysa Goldfin Martín in the transcript) and "Hunger" (referred to as Auremallos in the transcript). "Dios mío, es una de los discos, yo creo que más esperados el año, estaba tarando un montón Florens once en sacar el nuevo disco." ← Music Radar Clan > LANZAMIENTOS JUNIO 2018 | https://www.youtube.com/watch?v=AvdFC5Q0nKk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← florence-the-machine
@@ -39,6 +15,8 @@
 **Lungs (2009) - Debut Album** : Released in the summer of 2009, "Lungs" was the debut album by Florence + The Machine, following their deal with Island Records. It was a very big hit, selling 3 million copies and earning the band several prestigious awards. The record featured 13 songs, six of which were released as singles. "Eventually, she ended up with a deal with island records that resulted in the lungs album in the summer of 2009, very big hit, 3 million copies, plus a couple of prestigious awards." ← https://www.youtube.com/watch?v=rEawe_1Fqf0 ← florence-the-machine
 
 ## songs
+**Rabbit Heart (2009)** : A British CD single release for "Rabbit Heart" was notably packaged with a 7-inch single of the same song. This combined physical release, however, sold only 64 copies across the entire UK. "I heard a story about the British release of a Florence the Machine CD single for Rabbit Heart that was packaged with a 7 inch single of the same song." ← https://www.youtube.com/watch?v=QBCEmZ4Jheo
+**Shake It Out** : This song is from Florence + The Machine's "Ceremonials" album and was one of the tracks the band was working on at Abbey Road Studio 1 during a private tour. "Florence and the machine would shake it out from the ceremonial's album." ← https://www.youtube.com/watch?v=hjProJd_JrM
 **Dog Days Are Over** : The demo for this song was instrumental in helping Florence Welch and Isabella Summers secure their first record deal. The song's title was inspired by an art installation in South London called "The Dog Days Are Over," which Florence frequently passed on her way to art school. "The demo of Dog Days are over that helped Florence Welch and her machine partner is a summer's Get That First Record deal." ← https://www.youtube.com/watch?v=24NeCYqlVco ← florence-the-machine
 **Dog Days Are Over (2009)** : This song was the second single released from Florence + The Machine's debut album, "Lungs." Its release contributed to the album's commercial success and the band's burgeoning popularity. "Florence and the machine with dog days are over from her, well, they're actually because remember that we're actually talking about a band here, their debut album, Lungz." ← https://www.youtube.com/watch?v=rEawe_1Fqf0 ← florence-the-machine
 **Dog Days Are Over (Demo Version)** : A demo version of "Dog Days Are Over" was what Florence Welch circulated before being signed to a label. An A&R person recognized its potential, leading to her signing. The demo is described as "a little less refined" than the final recording, offering insight into the creative process. "This is a demo of Dog Days or Over. See if you can pick out the differences between the version we all know, the one we've heard on the radio for years, and this one. A demo version of Dog Days or Over from Florence in the Machine. A little less refined than the final recording that we know today, but still it's a really cool bit of insight into the creative process, isn't it?" ← https://www.youtube.com/watch?v=5kPmqmbFfkY ← florence-the-machine
@@ -48,13 +26,15 @@
 **Little Donkey (2008)** : This track was part of an elaborate puppet show video project created by Florence and Issa Summers under the name Flora Bull and Miss A Rebella. The video was described as "very weird and violent and kind of bloody" and was an early exploration of taking on characters during performance, which contributed to the evolution of the "Florence and the machine" concept. "It's called Little Donkey, and appears online under the name Flora Bull and Miss A Rebella." ← https://www.youtube.com/watch?v=24NeCYqlVco ← florence-the-machine
 **My Boy Builds Coffins (2009)** : This was Florence's very first proper song, written about her first real boyfriend who was actually building a coffin for the cover of an album his indie band was making. It later appeared on her *Lungs* album and was recorded with the help of Isabella Summers. "It was called My Boy Builds Coffins, which later turned up in her 2009 album Lungs." ← https://www.youtube.com/watch?v=24NeCYqlVco ← florence-the-machine
 **No Light, No Light** : This song, featured on the *Ceremonials* album, prominently showcases both big drums and the harp played by Tom Munger. The inclusion of harp in such a distinctive way highlights the band's use of interesting and unusual instrumentation. "He used to track from the ceremonials out in the features both big drums and harp. It's called No Light, No Light." ← https://www.youtube.com/watch?v=24NeCYqlVco ← florence-the-machine
-**Rabbit Heart (2009)** : A British CD single release for "Rabbit Heart" was notably packaged with a 7-inch single of the same song. This combined physical release, however, sold only 64 copies across the entire UK. "I heard a story about the British release of a Florence the Machine CD single for Rabbit Heart that was packaged with a 7 inch single of the same song." ← https://www.youtube.com/watch?v=QBCEmZ4Jheo ← florence-the-machine
-**Shake It Out** : This song is from Florence + The Machine's "Ceremonials" album and was one of the tracks the band was working on at Abbey Road Studio 1 during a private tour. "Florence and the machine would shake it out from the ceremonial's album." ← https://www.youtube.com/watch?v=hjProJd_JrM ← florence-the-machine
 **Sky Full of Song (Florence + The Machine Single)** : This song, referred to in the transcript as "Sordysa Goldfin Martín," is mentioned as one of the advance singles released from Florence + The Machine's highly anticipated album, "High As Hope." "el record de Sordysa Goldfin Martín." ← Music Radar Clan > LANZAMIENTOS JUNIO 2018 | https://www.youtube.com/watch?v=AvdFC5Q0nKk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← florence-the-machine
 **Skyfall of Song (Year Unspecified) - 7-inch Single** : A 7-inch single release for "Skyfall of Song." "insales single, Skyfall of Song, en 7 pulgadas." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← florence-the-machine
 **Song from Ceremonials (Year not stated)** : A song by Florence + The Machine, from their album Ceremonials, was recorded in Studio Three at Abbey Road in London. "From Florence and the machine, recorded in studio three at Abbey Road in London." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
 
 ## curiosities
+**Low Sales for Combined CD/7-inch Single (64 copies)** : A unique British release of Florence + The Machine's "Rabbit Heart" featured a CD single bundled with a 7-inch vinyl single of the same song. Despite this interesting physical package, it achieved very low commercial success, selling only 64 copies in the entire UK. "Yeah, it sold 64 copies in the entire UK." ← https://www.youtube.com/watch?v=QBCEmZ4Jheo
+**Recording "Ceremonials" at Abbey Road Studio 1** : Florence + The Machine were midway through recording their "Ceremonials" album at Abbey Road Studio 1. Studio 1, despite being the smallest of the Abbey Road studios, was packed with gear for their sessions. "Studio 1, the smallest of the studios, was jammed with gear. Florence and the machine were above midway through recording their ceremonials album." ← https://www.youtube.com/watch?v=hjProJd_JrM
+**Touching Equipment During Recording** : During a private tour of Abbey Road Studios, an observer admitted to touching a lot of Florence + The Machine's equipment in Studio 1 while they were recording "Ceremonials." The artist later reportedly did not mind this intrusion. "And since some of the big fan of Florence, I kind of touched a lot of her stuff." ← https://www.youtube.com/watch?v=hjProJd_JrM
+**Twilight Soundtracks Contribution** : Florence + The Machine contributed to the various *Twilight* soundtracks that accompanied the film series. These soundtracks featured a nice selection of tunes, mostly album cuts and outtakes, from a range of artists spanning different genres. "The Paramore, Lincoln Park, Collective Soul, Death Cab for Cutie, Tom York, the Killers, Editors, Metric, Block Keys, Dead Weather, Beck, Vampire Weekend, Florence in the Machine." ← https://www.youtube.com/watch?v=zIkjd1OjCXM
 **"France's Abbey Road"** : The château earned the nickname "France's Abbey Road" due to its popularity and the high caliber of artists it attracted. "They called it France's Abbey Road." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
 **Abandonment and Deterioration** : Following its sale, Le Studio was abandoned for years, remaining closed, unheated, and unpowered. Attempts to sell the property in 2008 failed, leading to its decay into a "wrecked hulk." "La Studio sat closed, unheated, unpowered, and abandoned for years." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
 **Accessibility** : Artists would fly into the neighboring island of Antigua and then take a smaller plane or boat to reach Montserrat and the studio. "Artists would fly into neighboring Antigua and then take a small plane or boat over to Montserrat." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
@@ -107,7 +87,6 @@
 **Literary and Dark Interests** : During her time at an exclusive private school, Florence developed a deep interest in literature, particularly Emily Dickinson and Emily Brontë. She also cultivated a fascination with Jack the Ripper and murder, with "the grizzlier, the better," indicating an early attraction to macabre themes. "She devoured all sorts of literature, especially Emily Dickinson and Emily Bronte. Oh, and she also developed a thing for anything to do with Jack the Ripper and anything to do with murder, the grizzlier, the better." ← https://www.youtube.com/watch?v=24NeCYqlVco ← florence-the-machine
 **Location and Building History** : The Warehouse Studio is situated in the Gastown area of Vancouver, operating out of the city's oldest brick building. Built in 1886 as a grocery warehouse, it later served as Vancouver City Hall, then reverted to a glass company warehouse. After falling into disuse and suffering fires, Bryan Adams purchased and extensively restored the almost completely burned-out building in 1991. "It was built, yes, as a warehouse, a grocery warehouse in 1886." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
 **Location and Construction (1974)** : Le Studio was a purpose-built recording facility constructed in 1974 in Morin Heights, Quebec. Designers Andre Perry and Yale Brandeis envisioned it as a country retreat where the natural surroundings would inspire artists. "It was a purpose-built facility, built in 1974." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
-**Low Sales for Combined CD/7-inch Single (64 copies)** : A unique British release of Florence + The Machine's "Rabbit Heart" featured a CD single bundled with a 7-inch vinyl single of the same song. Despite this interesting physical package, it achieved very low commercial success, selling only 64 copies in the entire UK. "Yeah, it sold 64 copies in the entire UK." ← https://www.youtube.com/watch?v=QBCEmZ4Jheo ← florence-the-machine
 **Musical Legacy** : Despite the physical destruction of the studio, the music created within its walls endures as its lasting legacy. "The only thing that survives was the music that was made there." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
 **Name Change to Abbey Road (1970)** : The studio changed its name from EMI Studios to Abbey Road Studios in 1970. This change was prompted by the immense publicity generated by its most famous clients, The Beatles, who had released their album *Abbey Road* the previous year. "It stayed with the name EMI Studios until 1970, when the Beatles, their most famous clients, released an album called Abbey Road." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
 **Notable Clients** : The studio has attracted a wide array of prominent artists from around the world, including The Offspring, Slayer, The Tragically Hip, Three Days Grace, Metallica, AC/DC, R.E.M., Matthew Good, Nickelback, and Muse (who recorded their 2015 album *Drones* there). "Warehouse studios has been very popular with some big names from all over the world." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
@@ -122,7 +101,6 @@
 **Potential Future Buyers** : Paul McCartney and Andrew Lloyd Webber have publicly stated their willingness to purchase Abbey Road Studios if it were ever put up for sale again. "And if it were to be put up for sale, people like Paul McCartney and Andrew Lloyd Webber have said that they'd be up for buying it." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
 **Protected Status and Sale (2013)** : Despite its abandonment, the Château was a protected site, which prevented developers from acquiring the land. In 2013, it was listed for sale at approximately $2 million, with an estimated half-million dollars needed for repairs to make it livable. "Fortunately, though, it was a protected site." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
 **Rebirth as Arts Center** : The Château was eventually purchased by four music fans and is now in the process of being reborn as a center for the arts. "Happily, though, it has been purchased by four music fans and is being reborn as a center for the arts." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
-**Recording "Ceremonials" at Abbey Road Studio 1** : Florence + The Machine were midway through recording their "Ceremonials" album at Abbey Road Studio 1. Studio 1, despite being the smallest of the Abbey Road studios, was packed with gear for their sessions. "Studio 1, the smallest of the studios, was jammed with gear. Florence and the machine were above midway through recording their ceremonials album." ← https://www.youtube.com/watch?v=hjProJd_JrM ← florence-the-machine
 **Residential Studio Concept** : Following a contemporary trend, AIR Montserrat was designed as a residential studio, allowing musicians to live and work on their projects for as long as needed in an isolated, inspiring environment. "Instruct a state-of-the-art residential facility where musicians could work and play for as long as they liked." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
 **Sale Threat (2010) and Preservation** : In 2010, EMI Records' financial difficulties led to Abbey Road being put up for sale, sparking concerns that property developers might convert it into luxury condos. A "save Abbey Road" campaign was launched, and EMI ultimately retained ownership. "There was real concern about the fate of Abbey Road in 2010 when EMI ran into financial difficulties and the place was put up for sale." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
 **Sale and Decline (1988)** : Andre Perry and Yale Brandeis sold the facility in 1988, after which its condition and reputation deteriorated significantly. "Andre Perry and Yale Brandeis sold the facility in 1988, and after that it was, frankly, never the same." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
@@ -140,11 +118,32 @@
 **The Penthouse Studio** : The Penthouse studio, located on the third floor, is exclusively used for mixing and mastering recordings, and is not equipped for setting up instruments or recording. "Then there's the studio up in the third floor called the Penthouse." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
 **The Tea Party Recording (1997)** : The Tea Party recorded their fourth album, *Transmission*, at Le Studio in 1997. "The Tea Party, clients of the former La Studio and Moran Heights Quebec." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
 **Tony Bongiovi's Background and Vision** : Tony Bongiovi began his recording career at 17 at Motown Studios in Detroit, later moving to Media Sound in New York. Observing the rapid changes in recording technology and musical tastes, he conceived a studio design that challenged the conventional "dead" room acoustics of the mid-1970s. "Tony got into the recording game when he was just 17." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
-**Touching Equipment During Recording** : During a private tour of Abbey Road Studios, an observer admitted to touching a lot of Florence + The Machine's equipment in Studio 1 while they were recording "Ceremonials." The artist later reportedly did not mind this intrusion. "And since some of the big fan of Florence, I kind of touched a lot of her stuff." ← https://www.youtube.com/watch?v=hjProJd_JrM ← florence-the-machine
 **Tourist Landmark and Graffiti Tradition** : The studio's gate and crosswalk remain a global attraction, drawing fans who frequently stop traffic for photos and write graffiti on the wall alongside the sidewalk. The wall is periodically whitewashed, only for the graffiti to reappear. "That gate in front of the studio, and that crosswalk are still there, and people come from all over the world to stop traffic into right graffiti on the wall that runs along the sidewalk in front of the building." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
 **Transformation into Trade School (Since 2004)** : Since 2004, Metalworks has diversified its operations by becoming a trade school. It teaches a range of subjects from recording engineering to sound reinforcement and music industry law, with this educational venture subsidizing its recording business. "Since 2004, it's been a trade school, teaching everything from recording engineering to sound reinforcement to music industry law." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
-**Twilight Soundtracks Contribution** : Florence + The Machine contributed to the various *Twilight* soundtracks that accompanied the film series. These soundtracks featured a nice selection of tunes, mostly album cuts and outtakes, from a range of artists spanning different genres. "The Paramore, Lincoln Park, Collective Soul, Death Cab for Cutie, Tom York, the Killers, Editors, Metric, Block Keys, Dead Weather, Beck, Vampire Weekend, Florence in the Machine." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← florence-the-machine
 **Unconventional Manager Acquisition** : Florence Welch secured her current manager, Mayrid Nash, through a highly unusual encounter. While very drunk, Florence pestered Nash, one half of the UK outfit "Queens of Noise," all night before following her into the toilets to sing an "Edgames song." Nash was impressed, and this led to their management deal. "Florence got her current manager when she was very, very drunk. She ran into Mayrid Nash, one half of a UK outfit called Queens of Noise." ← https://www.youtube.com/watch?v=rEawe_1Fqf0 ← florence-the-machine
 **Unique Atmosphere and Host** : Magne was known for being an "interesting host," and the studio fostered a decadent atmosphere with frequent parties, abundant alcohol, drugs, and "not infrequent sex parties." "Not only could you live and work at the studio, Manga was also a very interesting host." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
 **Unique Design with Glass Windows** : The studio was designed with large, floor-to-ceiling glass windows to maximize its connection to the natural environment. While acoustically challenging, this feature was integral to the studio's unique "vibe." "This is why the studio had big floor-deceiling glass windows." ← https://www.youtube.com/watch?v=N5kSZOl-5UY ← florence-the-machine
 
+## members
+- Florence Leontine Mary Welch
+- Florence Welch
+- Isabella "Issa" Summers
+- Isabella Summers
+- Isabella Summers (The Machine)
+- Tom Munger
+
+## genres
+- Alternative Rock
+- Hip Hop (Isabella Summers' obsession)
+- Jazz (Tom Munger's harp style)
+- Rock (Tom Munger's harp style)
+
+## labels
+- (None explicitly mentioned for the band's releases, only for Ashock)
+- Island Records
+
+## instruments
+- Drum
+- Effects pedals (for harp)
+- Harp
+- Vocals

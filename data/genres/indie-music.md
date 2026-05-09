@@ -1,6 +1,7 @@
-# genre - Indie Music
+# genre - Indie music
 
 ## curiosities
+**Injecting New Life into Rock (Early 2000s)** : In the early 2000s, indie music played a crucial role in revitalizing a rock scene that had become "more-bun." It helped inject new energy and sounds into the genre. "So far, we've looked at how indie music injected new life into a more-bun rock scene." ← https://www.youtube.com/watch?v=_yslM5oanRo
 **Challenges in Early 1990s** : In the early 1990s, operating as an indie group was considered a significant risk due to the prevailing belief among rock fans that successful bands would naturally secure major label deals. This attitude created a challenging environment for independent artists. "The fact that you were still in the indie just meant that you weren't worth anyone's time." ← Ongoing History of New Music > Lost CanRock Bands of the '90s： Part 1 | https://www.youtube.com/watch?v=22SSwvfRMVg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **DIY Ethic** : A crucial aspect of being indie is the "do it yourself" (DIY) ethic. Without the extensive infrastructure of a massive label, artists and those committed to distributing their music often have to handle much of the business and marketing themselves, acting as independent business people. "Another aspect of being Indy is the do it yourself, Ethic." ← Ongoing History of New Music > The History of Indie Rock： Part 1 | https://www.youtube.com/watch?v=dDcD8kg0wEk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Definition of Independent (Indie)** : "Indie" is short for independent, referring to music from artists not directly signed to one of the major multinational record labels (Universal, Sony, Warner). Artists recording for any other label, or operating independently of the three majors, are considered indie. The term describes a type of record company, its signed artists, and the music they create, having nothing to do with a band's sound or record sales. "Indy is, of course, short for independent. This means we're dealing with music from artists who are not signed directly to one of the major multinational record labels." ← Ongoing History of New Music > The History of Indie Rock： Part 1 | https://www.youtube.com/watch?v=dDcD8kg0wEk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -15,4 +16,9 @@
 **Market Dominance in Streaming Era** : Despite traditional wisdom, independent labels and do-it-yourself musicians account for approximately 96% of all new music uploaded to streaming services daily, a significant shift from the 4% contributed by major labels. "96% of all new music comes from independent musicians." ← Ongoing History of New Music > The History of the 2010s Part 2： The Role of Indie Rock | https://www.youtube.com/watch?v=sOU54d8mr5k&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Rising Market Share** : The market share for indie labels has been increasing by double digits for nearly 25 years. "The market share for indie labels has been rising by double digits for almost 25 years now." ← Ongoing History of New Music > The History of the 2010s Part 2： The Role of Indie Rock | https://www.youtube.com/watch?v=sOU54d8mr5k&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **UK Dominance in Early 1990s** : At the beginning of the 1990s, The Stone Roses were recognized as the biggest Indie band in the UK, signaling the genre's significant popularity and influence during that specific period. "At the beginning of the 1990s the biggest Indie band in the UK was the Stone Roses." ← Ongoing History of New Music > Legendary Gigs | https://www.youtube.com/watch?v=qC0Ee4-dpnI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+
+## artists
+- New Order
+- The Jesus and Mary Chain
+- The Stone Roses
 

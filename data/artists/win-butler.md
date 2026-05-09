@@ -12,4 +12,3 @@
 **Family of Musicians - Mother Liza** : Win Butler's mother, Liza, was featured on The King Family Show, a variety program that aired on ABC in 1965, linking her directly to the family's musical television presence. "Wins Mom Liza was also on that show." ← https://www.youtube.com/watch?v=Q_c-m_NDznw ← win-butler
 **Montreal Religious Studies** : After prep school, Win Butler moved to Montreal to pursue religious studies, first at Concordia University and then at McGill University, which is where he would eventually meet his future bandmate and wife, Regine Chassagne. "Meanwhile, Wins moved to Montreal because he wanted to study religion, first to Concordia, then a McGill." ← https://www.youtube.com/watch?v=Q_c-m_NDznw ← win-butler
 **Religious Upbringing** : Win Butler was raised Mormon, a detail that provides background to his early life and potential influences. "he was raised Mormon." ← https://www.youtube.com/watch?v=Q_c-m_NDznw ← win-butler
-

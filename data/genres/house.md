@@ -1,12 +1,12 @@
 # genre - House
 
 ## curiosities
+**Influence on 2000s Alt Rock** : House music was cited as one of the numerous dance influences that were combined with alt rock sensibilities by artists in the 2000s, reflecting the era's diverse and fragmenting musical landscape. "These acts blended alt rock sensibilities with a million different types of dance influences, from old school raves to disco to house to R&B to certain elements of hip hop." ← https://www.youtube.com/watch?v=_yslM5oanRo
+**Prominence in the UK** : House music was a major genre in the UK during the late 1980s, creating a cultural backdrop that amplified the appeal of bands like The Stone Roses, whose sound integrated modern dance grooves. "It was the perfect combination for the times, especially since Rave and House were so big in the UK." ← https://www.youtube.com/watch?v=CVPPymc_qrk
 **Birth from Disco Producers (Early 80s)** : House music emerged from disco producers in the early 1980s, becoming the second pillar of modern electronic music alongside techno. It was developed as a "shock therapy" against the baroque disco of the late 70s, emphasizing simple and repetitive sounds. ← Music Radar Clan > Daft Punk： Como el Homework revolucionó la electrónica | https://www.youtube.com/watch?v=myhlWJ6DQpw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← house
 **Evolution into Club Culture (90s)** : By the 1990s, house music evolved significantly into what became known as "club culture," adapting to faster tempos and giving rise to subgenres like "Isis House." ← Music Radar Clan > Daft Punk： Como el Homework revolucionó la electrónica | https://www.youtube.com/watch?v=myhlWJ6DQpw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← house
 **Independent Status Today** : Although originating as a "sister movement" to Techno, House music is now completely independent, with clear distinctions from Techno. "a día de hoy la música jausa es completamente independiente, que no tienen nada que ver y que son muy fáciles de separar." ← Music Radar Clan > De KRAFTWERK al TECHNO. Cómo se sentaron las bases del Techno | https://www.youtube.com/watch?v=MIG5FWLHOL4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← house
-**Influence on 2000s Alt Rock** : House music was cited as one of the numerous dance influences that were combined with alt rock sensibilities by artists in the 2000s, reflecting the era's diverse and fragmenting musical landscape. "These acts blended alt rock sensibilities with a million different types of dance influences, from old school raves to disco to house to R&B to certain elements of hip hop." ← https://www.youtube.com/watch?v=_yslM5oanRo ← house
 **Origination with Jeff Mills** : House music, particularly its development, is attributed to the pioneering efforts of DJ Jeff Mills in the early 1980s, alongside Techno. "nace la música techno y la música haus." ← Music Radar Clan > HISTORIA Y EVOLUCIÓN DEL DJ | https://www.youtube.com/watch?v=VtfJyysUI7A&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← house
-**Prominence in the UK** : House music was a major genre in the UK during the late 1980s, creating a cultural backdrop that amplified the appeal of bands like The Stone Roses, whose sound integrated modern dance grooves. "It was the perfect combination for the times, especially since Rave and House were so big in the UK." ← https://www.youtube.com/watch?v=CVPPymc_qrk ← house
 **Rhythmic Foundation on Roland TR-808** : House music, along with Hip Hop and Techno, was rhythmically based on the Roland TR-808 drum machine, which became accessible and affordable to producers in the mid-1980s. "la música jausa y la música techno se basaron ritmicamente en la rolante R8808." ← Music Radar Clan > De KRAFTWERK al TECHNO. Cómo se sentaron las bases del Techno | https://www.youtube.com/watch?v=MIG5FWLHOL4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← house
 **Second Wave of Club Culture** : House music is listed as one of the key genres in the "second wave of club culture" that took hold in the mid-1990s, alongside Techno, Acid House, Progressive, and Euro Trance. "el techno, el Aisid House, el House, el Progressive." ← Music Radar Clan > HISTORIA Y EVOLUCIÓN DEL DJ | https://www.youtube.com/watch?v=VtfJyysUI7A&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← house
 **Shared Early Identity with Techno** : At its inception, House music in Chicago was very similar to Techno in Detroit, making them difficult to distinguish. Many anthems were considered part of both genres. "Cuando nacieron la música jausa en Chicago y la música en Detroit eran muy parecidos, eran movimientos muy hermanos y nos cuesta muchísimo marcar las diferencias entre uno y otros los inicios." ← Music Radar Clan > De KRAFTWERK al TECHNO. Cómo se sentaron las bases del Techno | https://www.youtube.com/watch?v=MIG5FWLHOL4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← house
@@ -14,10 +14,7 @@
 
 ## artists
 - Afrika Bambaataa
-- Daft Punk
 - Happy Mondays
-- James
-- Jeff Mills
 - New Order
 - The Stone Roses
 

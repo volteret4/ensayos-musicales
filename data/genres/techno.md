@@ -1,6 +1,7 @@
-# genre - Techno
+# genre - techno
 
 ## curiosities
+**David Bowie's Incorporation (1997)** : Techno was among the new genres of dance music that David Bowie explored and integrated into his 1997 album, *Earthling*. His adoption of the genre was interpreted by some as an official endorsement from a major artist. "He'd become interested in various new genres of dance music, including industrial, techno, jungle, and drum and bass." ← https://www.youtube.com/watch?v=Yq2A_o9-ulM
 **80s Characteristics** : Early techno was characterized by "slow, classic tempos," which Daft Punk's Homework later revisited, contrasting with the faster, more complex electronic music of the mid-90s. ← Music Radar Clan > Daft Punk： Como el Homework revolucionó la electrónica | https://www.youtube.com/watch?v=myhlWJ6DQpw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Birth in Detroit (Early 80s)** : Techno music originated in Detroit in the early 1980s, establishing itself as one of the two foundational pillars of modern electronic music, contrasting sharply with the elaborate disco of the late 70s. Its sound was based on simple, repetitive elements. ← Music Radar Clan > Daft Punk： Como el Homework revolucionó la electrónica | https://www.youtube.com/watch?v=myhlWJ6DQpw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Conceptual Breaking Music** : Techno was a conceptually groundbreaking form of music, making it challenging to identify its foundational pillars at times. "Esta música fue tan conceptualmente rompedora que a veces es difícil buscar los pilares sobre los que se basa." ← Music Radar Clan > De KRAFTWERK al TECHNO. Cómo se sentaron las bases del Techno | https://www.youtube.com/watch?v=MIG5FWLHOL4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
@@ -54,15 +55,5 @@
 **Widespread Musical Influence Post-1985** : Techno profoundly changed the understanding of music and its influences have spread across nearly all musical styles created after 1985. It led to a significant increase in the prominence of rhythmic bases across various genres. "ha tenido influencias en toda la música postura en 1985." ← Music Radar Clan > De Madonna a las tiendas de ropa, el TECHNO está por todas partes | https://www.youtube.com/watch?v=qSlLE4EKtmo&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## artists
-- Aphex Twin
-- Autechre
-- Björk
-- Crabwork
-- Daft Punk
-- Jeff Mills
-- John Frusciante
-- Juanáxia
-- Madonna
-- Socomo Anderran resistan
-- Underworld
+- David Bowie
 

@@ -2,6 +2,6 @@
 
 ## member of
 - Gav
-- Gobb
 - Sum 41
+- Gobb
 

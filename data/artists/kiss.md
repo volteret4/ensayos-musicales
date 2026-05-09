@@ -1,37 +1,30 @@
-# artist - Kiss
+# artist - KISS
 
 ## members
 - Ace Frehley
+- Gene Simmons
 - Paul Stanley
 - Peter Criss
 
-## genres
-- Glam Rock
-- Glitter Rock
-- Hard Rock
-- Punk Rock (early perception)
-- Rock
-- hard rock
-- metal
-
-## concerts
-- Coventry
-- Donington
-- Donington Park (1988)
-
 ## instruments
+- Gene Simmons' tongue
+- Guitar
 - BC Rich
 - Electric guitar
 
-## albums
-**Biggest Records (mid-1970s)** : Bob Ezrin produced Kiss's biggest records during the mid-1970s, including their "Destroyer" album. "Bob produced Kiss' biggest records of the middle 70s. You know the Destroyer Abble produced by Canadian..." ← Ongoing History of New Music > Canadian Producers | https://www.youtube.com/watch?v=QkSKxm_U9Yc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Destroyer (mid-1970s)** : This album by Kiss was produced by Canadian Bob Ezrin, contributing to their biggest records of the middle 1970s. "You know the Destroyer Abble produced by Canadian..." ← Ongoing History of New Music > Canadian Producers | https://www.youtube.com/watch?v=QkSKxm_U9Yc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-
-## songs
-**Beth** : This song was sung by drummer Peter Criss and became a huge hit for the band. "Peter Chris saying Beth for kiss and that was a huge hit." ← Ongoing History of New Music > The Second Voice | https://www.youtube.com/watch?v=M1JTdUxOEMU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Beth (Year not specified)** : This song is mentioned as an existing example of a power ballad, indicating that the genre had roots prior to its more widespread emergence and popularization in the 1980s. "Beth by Kiss, awesome." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/
-
 ## curiosities
+**"Knights in Satan's Service" Rumor** : The band actively encouraged and let spread rumors, such as the claim that KISS stood for "Knights in Satan's Service," which contributed to their shocking image for a significant portion of the public. "Like for example, that KISS actually stood for Knights in Satan's Service." ← https://www.youtube.com/watch?v=SIK2YFSmf9U
+**"Weird Thing" Influence** : KISS, with their distinct "weird thing going for him," were acknowledged for their contributions to the emerging Goth aesthetic. "and even KISS, who had, you know, that weird thing going for him." ← https://www.youtube.com/watch?v=gd9sO7c3N1s
+**1970s Popularity and Manufactured Consensus** : In the 1970s, KISS was widely perceived as the "greatest and biggest and best band in the world" by a significant portion of young music fans, a consensus heavily reinforced by various media channels including radio DJs, magazines, record stores, and older siblings. "And they were kiss fans because everywhere they went, someone would tell them that kiss was the greatest and biggest and best band in the world." ← https://www.youtube.com/watch?v=Z7glrAoXtkA
+**Comic Book Persona** : KISS presented themselves as comic book characters, utilizing makeup, elaborate costumes, and Gene Simmons' signature long tongue as key elements of their persona. "Now granted, they were comic book characters, quite literally." ← https://www.youtube.com/watch?v=SIK2YFSmf9U
+**Cultural Consensus Example** : KISS is used as an example of a band that achieved widespread cultural consensus in the speaker's youth. In his high school class of 30, five were pop fans, five country, and the remaining 20 were KISS fans, driven by their omnipresence on radio, in record stores (racked up front), and on magazine covers (Cream, Circus). "For example, when I was in high school, grade 10, 30 people in the class, five of them were pop music fans, five of them were country music fans, and they remaining 20 were kiss fans." ← https://www.youtube.com/watch?v=4xxgPX-aR90
+**Fishing Boat Concert (2019)** : In one of the strangest concerts of the year, three members of KISS, in full makeup, performed a gig for eight people aboard a fishing boat off the coast of Australia. The concert's purpose was to use low-frequency rock and roll sounds to attract sharks for people on a glass-bottom boat to observe, but no sharks appeared. "Unfortunately, no sharks turned up." ← https://www.youtube.com/watch?v=72Lei7uug8c
+**Image and Performance** : KISS was a band that took the use of makeup in performance "even further" than the New York Dolls, creating an iconic and exaggerated visual style. They were known for their elaborate stage presence. "Soon, the dolls were playing regular gigs alongside Iggy Pop, and a band who took the makeup thing even further. They were called KISS." ← https://www.youtube.com/watch?v=0xd0Hf5REg4
+**KISS Formed January 30, 1973 at Popcorn Club, Queens NY – Real Names Abandoned; Makeup Ditched 1983, Restored 1996** : KISS evolved out of a glittery band called Wicked Lester. Stanley Eisen and Hame Whits (later Paul Stanley and Gene Simmons) recruited drummer George Criscuola (Peter Criss, who had been in a band called Lips) and guitarist Paul Frehley (Ace Frehley — renamed because there was already a Paul). Their first show was January 30, 1973 at a club in Queens, New York called Popcorn. Building on glam and glitter of the early 1970s, KISS adopted wild costumes and elaborate makeup, keeping their real appearances a closely guarded secret for a decade. After blowing up in 1975, they ditched the makeup on September 18, 1983 for an MTV appearance revealing their faces for the first time. The reunion of the original lineup in 1996 restored the old makeup designs. Paul Stanley and Gene Simmons retired in December 2023. "When they played their first show on January 30, 1973 at a club in Queens, New York called Popcorn, the legend began." ← https://www.youtube.com/watch?v=DiyIPBKiVW4
+**Musical Exposure for Lenny Kravitz** : Lenny Kravitz was exposed to the music of KISS during his upbringing, among other seminal rock and jazz artists. "But along with jazz and classical, he was exposed to the who and Led Zeppelin, KISS, and Pink Floyd and Jimmy Hendrix in the Rolling Stones." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
+**Over-the-Top Stage Shows** : Their performances were characterized by over-the-top stage shows, featuring extensive pyrotechnics, blood spitting by Gene Simmons, and fire breathing. "Gene Simmons' tongue, and spitting blood and breathing fire over the top stage shows with lots of pyro" ← https://www.youtube.com/watch?v=SIK2YFSmf9U
+**Theatrical Guitar Destruction** : In the 1970s, Paul Stanley of KISS theatrically destroyed "many, many guitars" as an integral part of their stage show, contributing to the band's elaborate and high-energy performances. "You can look at KISS in the 1970s. Paul Stanley, theatrically, went through many, many guitars as part of his show." ← https://www.youtube.com/watch?v=yPok3MemDmE
+**Tribute Band (Mini KISS)** : KISS has a tribute band called Mini KISS, which consists of three little people (under four feet) and a 300-pound female singer. "Many KISS features three little people, they're all under four feet, and a 300 pound female singer." ← https://www.youtube.com/watch?v=72Lei7uug8c
 **Ace Frehley Death (2025) – Brain Hemorrhage After Two Falls, at 74** : Ace Frehley, the iconic original Kiss guitarist who inspired countless young people to pick up the guitar in the 1970s, died at age 74. He suffered a brain hemorrhage following two falls, which led to the family's decision to withdraw life support. "His death was the result of a brain hemorrhage after two falls, leading the family to decide to withdraw life support." ← Ongoing History of New Music > 2025 In Memoriam | https://www.youtube.com/watch?v=ZPlsR7_WiZQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **American Glitter Rock** : Kiss is identified as a band influenced by the American variant of glitter rock, known for its riffy guitars and glam aesthetics. "This is where we meet KISS." ← Ongoing History of New Music > The Surprising History of Glam Rock | https://www.youtube.com/watch?v=blDNqVFheAw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Catalog Sale (2020s)** : Kiss sold a portion of their music catalog for $300 million, participating in a significant trend where artists monetized their life's work for upfront financial security and tax advantages. This "gold rush" for catalogs saw companies acquiring music rights, benefiting artists with immediate cash and ensuring their music's long-term public consciousness. "Kiss 300 million." ← Ongoing History of New Music > The 100 Greatest Rock Moments of the Millennium So Far - Part 1： (100-91) | https://www.youtube.com/watch?v=GYUuTbOvyak&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -51,3 +44,23 @@
 **Known for Scaring People** : Kiss was known for scaring a lot of people during their career. "so was Alice Cooper and Kiss." ← Ongoing History of New Music > The Most Dangerous Artists in Rock | https://www.youtube.com/watch?v=5vKSjpvVQa8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Most Gold Records for a Group** : Kiss holds the distinction of being the group that has accumulated the most gold records throughout its career, with their record label awarding them several hundred. However, these awards have been "enormously questioned" due to many corresponding to different editions of the same album, implying multiple awards for a single musical work. ← Music Radar Clan > Qué es un disco de ORO？    cómo se concede？ | https://www.youtube.com/watch?v=GHVIyfsZBe4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
+## genres
+- Glam Rock
+- Glitter Rock
+- Hard Rock
+- Punk Rock (early perception)
+- Rock
+- metal
+
+## concerts
+- Coventry
+- Donington
+- Donington Park (1988)
+
+## albums
+**Biggest Records (mid-1970s)** : Bob Ezrin produced Kiss's biggest records during the mid-1970s, including their "Destroyer" album. "Bob produced Kiss' biggest records of the middle 70s. You know the Destroyer Abble produced by Canadian..." ← Ongoing History of New Music > Canadian Producers | https://www.youtube.com/watch?v=QkSKxm_U9Yc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Destroyer (mid-1970s)** : This album by Kiss was produced by Canadian Bob Ezrin, contributing to their biggest records of the middle 1970s. "You know the Destroyer Abble produced by Canadian..." ← Ongoing History of New Music > Canadian Producers | https://www.youtube.com/watch?v=QkSKxm_U9Yc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+
+## songs
+**Beth** : This song was sung by drummer Peter Criss and became a huge hit for the band. "Peter Chris saying Beth for kiss and that was a huge hit." ← Ongoing History of New Music > The Second Voice | https://www.youtube.com/watch?v=M1JTdUxOEMU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Beth (Year not specified)** : This song is mentioned as an existing example of a power ballad, indicating that the genre had roots prior to its more widespread emergence and popularization in the 1980s. "Beth by Kiss, awesome." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/

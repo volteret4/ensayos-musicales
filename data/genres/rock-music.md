@@ -1,6 +1,8 @@
-# genre - Rock Music
+# genre - Rock music
 
 ## curiosities
+**Categorization Confusion** : The categorization of rock music can be highly confusing, as exemplified by a Paris mega store with numerous genre sections where bands like Nine-inch Nails were placed under "electronics" instead of "industrial," and Nirvana under "mainstream rock" instead of "grunge." This highlights the arbitrary and often debated nature of genre classification. "In which section would I find band X? Why? Why was Nine-inch nails under electronics instead of industrial? If there was a grunge section, where was Nirvana? Oh, it's, oh, they're over in the mainstream rock rack." ← https://www.youtube.com/watch?v=Ft8nruhWCas
+**Early Segmentation and Stratification (1960s)** : By the time rock music celebrated its 10th birthday in the mid-1960s, it had already begun to segment and stratify. This led to a division between "acceptable mainstream stuff" and music that was either not ready for or not interested in prime time, giving birth to new musical subcultures. "See, even as rock celebrated its 10th birthday, it had began to segment and stratify." ← https://www.youtube.com/watch?v=6oUkMOkEr9U
 **Comeback Prediction via Cycles** : Historical cycles in pop music, dating back to the 1950s, demonstrate an alternating dominance between rock and pop. When pop is at its peak, rock is at its low point. Based on this pattern, a significant rock comeback was predicted for approximately two years after the late 90s, led by unknown artists with fresh ideas. "there were cycles in pop music that go back to the 1950s. They describe a fight between rock and pop." ← Ongoing History of New Music > The 00's Part 2： The Indie Revolution | https://www.youtube.com/watch?v=raRCZ0Y5up8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Commercial Domain of Rock Music (Early 70s)** : In the early 1970s, the commercial production of rock music was primarily dominated by its country of birth, the United States, and England, which significantly contributed to its shaping and development. "at that time the production of rock music commercially was the domain of the country of its birth the United States and the country that helped shape it England." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/
 **Defining Rock Music in the Early 70s** : As the 1960s transitioned into the 1970s, the parameters of rock music were still largely being defined, with ongoing discussions about its form, content, and commercial viability. "As the 60s became the 70s there was much that was still being defined about rock music." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/
@@ -24,5 +26,7 @@
 **Termites' Preference for Loud, Heavy Music** : An Australian study has revealed that termites demonstrate a remarkable preference for rock music, particularly when it is loud and heavy. The study found that these insects will consume wood twice as fast when exposed to such music. "An Australian study says that termites will eat wood twice as fast if exposed to music like this." ← Ongoing History of New Music > 60 Mind-Blowing Facts in 60 Minutes： 4th Edition | https://www.youtube.com/watch?v=GO0K_N7Ys7I&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- Mamie Smith
+- Iggy Pop
+- John Frusciante
+- The Stooges
 

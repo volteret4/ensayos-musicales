@@ -1,6 +1,7 @@
-# genre - Glam Rock
+# genre - Glam rock
 
 ## curiosities
+**Influence on Suede** : David Bowie's glam rock period of the early 1970s was a significant influence on Suede, particularly singer Brett Anderson. By 1992, this glam aesthetic felt fresh and fabulous again, contributing to Suede's unique style. "Singer Brett Anderson was a fan of David Bowie's glam rock period of the early 1970s." ← https://www.youtube.com/watch?v=DSvoppf1dGY
 **1970s British Movement** : Glam rock was a prominent music movement in Britain during the 1970s, featuring artists such as Bowie, T-Rex, The Sweet, and Gary Glitter. Its flashy fashion spurred a "Ted revival" around 1974, as a counter-reaction to its style. "This was in large part a response to the glam rock of the era, Boi, T-Rex, the sweet, Gary Glitter, and so on." ← Ongoing History of New Music > The Tribes of Alt-Rock | https://www.youtube.com/watch?v=mAlc-N2wn5s&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Brief but Global Impact** : Glam rock's "moment in the sun" was short-lived, primarily from 1971 to 1975, and largely a UK phenomenon with only David Bowie and Roxy Music gaining significant traction in North America. However, its DNA of "extremism, flamboyance, and theatricality" has spread globally across rock and pop, continually reappearing in fashion and music trends. "Glam was not around for very long. We can terribly put its moment in the sun from 1971 to 1975." ← Ongoing History of New Music > The Surprising History of Glam Rock | https://www.youtube.com/watch?v=blDNqVFheAw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Decline and Enduring Influence** : Glam and glitter rock largely became "extinct" by 1977, but their influence persisted throughout the 1980s, 1990s, and continues to be seen today. "And while glam and glitter were pretty much extinct by 1977, its influence continued into the 80s, 90s and even today." ← Ongoing History of New Music > The Surprising History of Glam Rock | https://www.youtube.com/watch?v=blDNqVFheAw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -26,26 +27,6 @@
 **Transition to Metal** : The song "Love is Like Oxygen" by Sweet is cited as an example of the transition of glam rock into metal, indicating a stylistic evolution within the band's career and the genre itself. "Love is like oxygen shows the transition of glam rock to metal." ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum
 
 ## artists
-- Alvin Stardust
 - David Bowie
-- Elton John
-- Freddie Mercury
-- Gary Glitter
-- Kate Bush
-- Kiss
-- Mark Bowen
-- Mott the Hoople
-- Mud
-- Queen
-- Rod Stewart
-- Roxy Music
-- Slade
-- Sparks
-- Sweet
-- T-Rex
-- T. Rex
-- The Rolling Stones
-- The Struts
-- The Sweet
-- Wizzard
+- New York Dolls
 

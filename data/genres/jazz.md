@@ -1,6 +1,7 @@
-# genre - Jazz
+# genre - jazz
 
 ## curiosities
+**Bowie's Late Career Exploration** : Jazz elements were among the diverse musical styles David Bowie explored and incorporated into his final album, *Blackstar*, alongside art rock and various experimental approaches. "It has elements of art, rock, jazz, and a variety of experimental approaches." ← https://www.youtube.com/watch?v=Yq2A_o9-ulM
 **"Selling Out" Perception** : Accusing a jazz player of "selling out" is considered extremely offensive by many fans, akin to a grave insult. Jazz is widely regarded as a very serious art form where the pursuit of its artistic goals should not be corrupted by commercial interests. ← Ongoing History of New Music > The Concept of Selling Out： Part 2 | https://www.youtube.com/watch?v=sfie4YYncxk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **20th Century Cultural Dominance** : Jazz, in all its forms, was the dominant music that propelled Western culture forward during the first half of the 20th century, before being superseded by rock and roll in the 1950s. "The first half of the 20th century was dominated by jazz in all its forms. That was the music that pushed Western culture forward." ← Ongoing History of New Music > Trying to be a Superstar in the 21st Century | https://www.youtube.com/watch?v=Z7glrAoXtkA&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **A Challenge and a Risk** : Noted jazz critic Gary Giddin characterized jazz in a 1979 Village Voice article as "a challenge to the listener and a risk to the performer," suggesting it demanded a high level of engagement and effort from its audience. "Gidden said in that village voice article that jazz was, quote, a challenge to the listener and a risk to the performer." ← For the Record - The 70s > Ep. 38 - The Influence of Jazz on 70s Popular Music | https://seventies.libsyn.com/ep-38-the-influence-of-jazz-on-70s-popular-music
@@ -84,62 +85,5 @@
 **Use of Mutes** : Mutes are a common accessory in jazz music, particularly for brass instruments like trumpets and trombones, allowing musicians to modify sound and integrate into combos or orchestras. "They're in jazz." ← Ongoing History of New Music > Rock Explainer 4 | https://www.youtube.com/watch?v=D8GU8ZpSgY8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- Amy Winehouse
-- Ani DiFranco
-- Beastie Boys
-- Benny Goodman
-- Blood, Sweat & Tears
-- Can
-- Charles Mingus
-- Charlie Christian
-- Charlie Parker
-- Cindy Blackman Santana
-- Darwin Grosse
 - David Bowie
-- Dexter Gordon
-- Dizzy Gillespie
-- Eddie Lang
-- Elvis Costello
-- Fiona Apple
-- Gino Vannelli
-- Glüleg
-- Ian Thornley
-- Jack L. Cooper
-- Jack Miller
-- John Coltrane
-- Joni Mitchell
-- Kamasi Washington
-- Kendrick Lamar
-- Lenny Kravitz
-- Les Paul
-- Living Color
-- Living Colour
-- Louis Armstrong
-- MF Doom
-- Malcolm Cecil
-- Massive Attack
-- Miles Davis
-- Mingus Big Band
-- Paul Whiteman
-- Portishead
-- Quincy Jones
-- Red Hot Chili Peppers
-- Ruth Brown
-- Sister Rosetta Tharp
-- Sonny Rollins
-- Stereolab
-- Sun Ra
-- Terri Lyne Carrington
-- The Police
-- The Smashing Pumpkins
-- The White Stripes
-- Thelonius Monk
-- Thundercat
-- Tim Buckley
-- Tom Waits
-- Tommy Dorsey
-- Traffic
-- UB Blake
-- War
-- Wu Tang Clan
 

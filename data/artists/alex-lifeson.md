@@ -1,8 +1,8 @@
 # artist - Alex Lifeson
 
 ## member of
-- Jackalope
 - Rush
+- Jackalope
 
 ## instruments
 - Fender Telecaster

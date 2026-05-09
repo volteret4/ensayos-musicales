@@ -7,5 +7,5 @@
 - Drums
 
 ## curiosities
-**Musical Parent/Uncle** : Johnny Fay, the drummer for The Tragically Hip, is the uncle of Angus Fay, who was also a drummer for Cassadour. "nephew of hip drummer Johnny Fay." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← johnny-fay
+**Musical Parent/Uncle** : Johnny Fay, the drummer for The Tragically Hip, is the uncle of Angus Fay, who was also a drummer for Cassadour. "nephew of hip drummer Johnny Fay." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
 

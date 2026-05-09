@@ -1,56 +1,27 @@
-# artist - AC/DC
+# artist - ACDC
 
 ## members
+- Bon Scott
 - Angus Young
 - Axl Rose
-- Bon Scott
 - Bon Scott (former singer)
 - Brian Johnson
 - Dave Evans
 - Malcolm Young
 - Phil Rudd
 
-## genres
-- Classic rock
-- Hard Rock
-- Mainstream rock
-- Metal
-- hard rock
-
-## labels
-- Sony
-
 ## concerts
+- Winnipeg Arena (August 30, 1978)
 - Kiel Opera House (September 18, 1980)
 - Leeds
 - Reading
 - SARS-Stock (2003)
 
-## instruments
-- Gibson SG
-
-## albums
-**Albums Released in 2010s** : AC/DC was among the "monsters of rock" from previous decades that came roaring back with new albums in the 2010s, contributing to rock's overall consumption and the health of the recorded music industry. "We saw albums from Pearl Jam and Soundgarden, Radio Head, Green Day, Allison Chains, ACDC, Metallica, Nine-inch Nails and David Bowie." ← Ongoing History of New Music > The History of the 2010s Part 4： The Revivals | https://www.youtube.com/watch?v=HSvgRyGiOpE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Back in Black (Year Unspecified) - Cassette Edition** : This iconic album is being released on cassette tape. This edition is published by Sony. The speaker speculates that this cassette release occurred because there are so many existing editions of "Back in Black" that the label no longer knows what else to release. "Tenemos el Backing Black en cassette, editado por Sony." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
-**Back in Black – Mega-Selling Album** : This album sold 50 million copies, representing a sales benchmark for a mega-seller that is now largely unattainable in the current music market. "ACDC move 50 million copies of Back and Black..." ← Ongoing History of New Music > The Ongoing History Book of Lasts | https://www.youtube.com/watch?v=Epz5Sn151bk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Back to Black (Year Unspecified)** : This album is one of only five worldwide to have been awarded a "Uranium record." ← Music Radar Clan > Qué es un disco de ORO？    cómo se concede？ | https://www.youtube.com/watch?v=GHVIyfsZBe4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
-**Highway to Hell (Year not given)** : Richard Ramirez, known as the Night Stalker, was obsessed with this album, particularly the song "Night Prowler." Despite Ramirez's fandom, AC/DC did not actually inspire his killings but faced public backlash, being branded as Satanists by those who distrusted hard rock and metal. "He was obsessed with the album High Way to Hell and loved the song Night Prouller." ← Ongoing History of New Music > Murder Ballads (and Other Deadly Songs) | https://www.youtube.com/watch?v=FtGJHhqXcDI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-
-## songs
-**Back in Black** : This song's samples were illegally used by the Beastie Boys in their track "Rock Hard," leading to the single's withdrawal under threat of heavy legal action. "Rock Hard...contained some illegal AC-DC samples from the song Back in Black." ← Ongoing History of New Music > Remembering the Beastie Boys Part 1 | https://www.youtube.com/watch?v=l1jPP1FhGo8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Back in Black (Guitar World Survey)** : Ranked at number three in Guitar World magazine's survey for greatest guitar riffs. It also appeared at number four in a whiskey retailer's analysis of Spotify playlists for drinking songs. "back in black by ACDC at number three." ← Ongoing History of New Music > Survey Says： Useful and Odd Music Surveys and Polls | https://www.youtube.com/watch?v=KtdIMNoHqA8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Have a Drink on Me (Drinking Song Survey)** : Ranked as the number one drinking song in a sub-survey that was described as "a little less subtle" than another analysis of Spotify playlists. "And top spot is ACDC again, but this time with have a drink on me." ← Ongoing History of New Music > Survey Says： Useful and Odd Music Surveys and Polls | https://www.youtube.com/watch?v=KtdIMNoHqA8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Highway to Hell (Drinking Song Survey)** : Ranked as the second most popular drinking song in a whiskey retailer's analysis of Spotify playlists referencing drinking or partying. "highway to hell at number two." ← Ongoing History of New Music > Survey Says： Useful and Odd Music Surveys and Polls | https://www.youtube.com/watch?v=KtdIMNoHqA8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Highway to Hell (Year not specified)** : This track is cited as "about perfect" for anger management, according to suggestions accompanying a study on daily music intake for maximum benefit. "ACDC's highway to hell is about perfect, although certain tracks from Ramstein and Metallica are good too." ← Ongoing History of New Music > More and More Medical Mysteries of Music | https://www.youtube.com/watch?v=1HMW9rGtJHI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Night Prowler (Year not given)** : Richard Ramirez, the Night Stalker, was particularly fond of this song, which features lyrics such as "Was that noise out your window or a shadow on your blind and you'd either naked like a body in a tomb, suspended animation as I slip into your room?" Although Ramirez was a fan, AC/DC was not deemed to have inspired his murders but was "dogged for years" with the association and accused of Satanism by critics of hard rock and metal. "He was obsessed with the album High Way to Hell and loved the song Night Prouller, which has these lyrics. Was that noise out your window or a shadow on your blind and you'd either naked like a body in a tomb, suspended animation as I slip into your room?" ← Ongoing History of New Music > Murder Ballads (and Other Deadly Songs) | https://www.youtube.com/watch?v=FtGJHhqXcDI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Shook Me All Night Long (Year not specified)** : A line from this classic AC/DC song served as the inspiration for the title of Veruca Salt's 1994 debut album, "American Thighs." "that phrase is taken from the line in the ACDC song, Shook Me All Night Long." ← Ongoing History of New Music > The 90's Part 2B： Front Women | https://www.youtube.com/watch?v=Eo32mAZd8DI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**TNT** : The riff structure of the Beastie Boys' song "No Sleep Till Brooklyn" is notably similar to AC/DC's "TNT," a similarity that was not accidental. "And if you're an ACDC fan, note how similar the riff structure is to their song TNT. That is not an accident." ← Ongoing History of New Music > Remembering the Beastie Boys Part 1 | https://www.youtube.com/watch?v=l1jPP1FhGo8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**TNT (Drinking Song Survey)** : Placed at number 18 in a whiskey retailer's analysis of 23,425 Spotify playlists that referenced drinking or partying. This gave the group five songs in the top 20 of drinking songs in that specific analysis. "and TNT was at number 18." ← Ongoing History of New Music > Survey Says： Useful and Odd Music Surveys and Polls | https://www.youtube.com/watch?v=KtdIMNoHqA8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Thunderstruck** : This song is cited as an example of a "big song" by "big stars" that continued to command significant licensing fees even as prices for indie bands began to shrink. It represents the top tier of potential earnings from music licensing deals. ← Ongoing History of New Music > The Concept of Selling Out： Part 2 | https://www.youtube.com/watch?v=sfie4YYncxk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Thunderstruck (Drinking Song Survey)** : Topped one survey as the most popular drinking song based on an analysis of 23,425 Spotify playlists referencing drinking or partying. It also appeared at number one in another, less subtle sub-survey of drinking songs. "Thunderstruck in the top spot." ← Ongoing History of New Music > Survey Says： Useful and Odd Music Surveys and Polls | https://www.youtube.com/watch?v=KtdIMNoHqA8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**You Shook Me All Night Long (Drinking Song Survey)** : Placed at number eight in a whiskey retailer's analysis of 23,425 Spotify playlists that referenced drinking or partying. "You shook me all night long, was at number eight." ← Ongoing History of New Music > Survey Says： Useful and Odd Music Surveys and Polls | https://www.youtube.com/watch?v=KtdIMNoHqA8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-
 ## curiosities
+**Artwork Design Studio** : Hipgnosis, a London-based design studio, created artwork for ACDC. "They did work for Pink Floyd, Led Zeppelin, ACDC, Peter Gabriel, and many others." ← https://www.youtube.com/watch?v=pwebM3TfSdg
+**Awful Concert Sound (1978)** : ACDC opened for Aerosmith at the Winnipeg Arena on August 30, 1978, with Bon Scott on lead vocals. Despite the potential for an "awesome" show, the sound was described as a "blare of distortion," making the entire experience terrible. "That should have been awesome, but it wasn't." ← https://www.youtube.com/watch?v=qrrwqdpCjpQ
+**Interactive Packaging** : ACDC has released albums and box sets with elaborate art, including packaging that features embedded LED screens for moving pictures instead of static images. "Tool, ACDC, Pink Floyd, and others have released albums and box sets loaded with art, even to the point of including LED screens embedded in the packaging." ← https://www.youtube.com/watch?v=pwebM3TfSdg
+**Soviet Blacklist Entry – Neo-Fascism and Violence** : ACDC appeared on the Soviet Union's "not recommended music" list in 1985, categorized under the reasons of "Neo-Fascism and Violence." "ACDC, Neo-Fascism and Violence." ← https://www.youtube.com/watch?v=YeNWDtN_sHE
 **1980 High Voltage Tour at Kiel Opera House** : AC/DC's "High Voltage Tour" took place on September 18, 1980, at the Kiel Opera House. The concert was heavily promoted, with tickets available at various outlets including Backstage Records, Lane Co-op, Spectrum, Peaches, the Kiel Opera House box office, and through Dial Tix. "Plug into the 1980 AC DC high voltage tour. E-lectrophying. Scorching AC DC live in concerts of September 18 at the Kiel opera house." ← Ongoing History of New Music > The Weird History of Concert Tickets Part 2 | https://www.youtube.com/watch?v=8q2bRZyHnHE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Acknowledged by Grunge Artists** : Billy Corgan of The Smashing Pumpkins openly admired "some of those old ACDC records" for their "pretty great riffs," signifying how 90s alternative artists were embracing and acknowledging the quality of classic hard rock. "Some of those old ACDC records? Pretty great riffs, man." ← Ongoing History of New Music > The 90s Part 5a： Hip-Hop's Effects Part 1 | https://www.youtube.com/watch?v=PqOJ3YiFgYE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Active Rock Radio Airplay** : This classic rock band was played on active rock radio stations in the 2010s as an homage to traditional rock values, alongside new material. "They also played the homage to guns and rouses, NACDC and Led Zeppelin and Van Halen and Ozzy and Sabbath and Death Lepred and Jimmy Hendrix." ← Ongoing History of New Music > The History of the 2010s Part 2： The Role of Indie Rock | https://www.youtube.com/watch?v=sOU54d8mr5k&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -82,11 +53,41 @@
 **Worked with Brendan O'Brien – Shared Producer with Chris Cornell** : AC/DC has utilized the production talents of Brendan O'Brien, who also produced Chris Cornell's 2015 solo album *Higher Truth*. This connection highlights the producer's versatility and reach across various legendary rock acts. "he's a guy that's worked from everyone from Pearl Jam, to Billy Talent, to Bruce Springsteen, to ACDC." ← Ongoing History of New Music > Chris Cornell： 6 Degrees of Separation | https://www.youtube.com/watch?v=lip0bZX7hBE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Youth Music Preferences** : AC/DC is cited as an artist that Humber College students include in their recent listening habits, alongside contemporary acts, highlighting the diverse tastes of younger generations. "And it would be Drake, Dodger Cat, Justin Bieber, ACDC Iron Maiden, Beatles, Drake, whatever." ← Ongoing History of New Music > OGHONM 1000th Episode： The Q&A From the Live Recording | https://www.youtube.com/watch?v=4xxgPX-aR90&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
+## genres
+- Classic rock
+- Hard Rock
+- Mainstream rock
+- Metal
+
+## labels
+- Sony
+
+## instruments
+- Gibson SG
+
+## albums
+**Albums Released in 2010s** : AC/DC was among the "monsters of rock" from previous decades that came roaring back with new albums in the 2010s, contributing to rock's overall consumption and the health of the recorded music industry. "We saw albums from Pearl Jam and Soundgarden, Radio Head, Green Day, Allison Chains, ACDC, Metallica, Nine-inch Nails and David Bowie." ← Ongoing History of New Music > The History of the 2010s Part 4： The Revivals | https://www.youtube.com/watch?v=HSvgRyGiOpE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Back in Black (Year Unspecified) - Cassette Edition** : This iconic album is being released on cassette tape. This edition is published by Sony. The speaker speculates that this cassette release occurred because there are so many existing editions of "Back in Black" that the label no longer knows what else to release. "Tenemos el Backing Black en cassette, editado por Sony." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Back in Black – Mega-Selling Album** : This album sold 50 million copies, representing a sales benchmark for a mega-seller that is now largely unattainable in the current music market. "ACDC move 50 million copies of Back and Black..." ← Ongoing History of New Music > The Ongoing History Book of Lasts | https://www.youtube.com/watch?v=Epz5Sn151bk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Back to Black (Year Unspecified)** : This album is one of only five worldwide to have been awarded a "Uranium record." ← Music Radar Clan > Qué es un disco de ORO？    cómo se concede？ | https://www.youtube.com/watch?v=GHVIyfsZBe4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Highway to Hell (Year not given)** : Richard Ramirez, known as the Night Stalker, was obsessed with this album, particularly the song "Night Prowler." Despite Ramirez's fandom, AC/DC did not actually inspire his killings but faced public backlash, being branded as Satanists by those who distrusted hard rock and metal. "He was obsessed with the album High Way to Hell and loved the song Night Prouller." ← Ongoing History of New Music > Murder Ballads (and Other Deadly Songs) | https://www.youtube.com/watch?v=FtGJHhqXcDI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+
+## songs
+**Back in Black** : This song's samples were illegally used by the Beastie Boys in their track "Rock Hard," leading to the single's withdrawal under threat of heavy legal action. "Rock Hard...contained some illegal AC-DC samples from the song Back in Black." ← Ongoing History of New Music > Remembering the Beastie Boys Part 1 | https://www.youtube.com/watch?v=l1jPP1FhGo8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Back in Black (Guitar World Survey)** : Ranked at number three in Guitar World magazine's survey for greatest guitar riffs. It also appeared at number four in a whiskey retailer's analysis of Spotify playlists for drinking songs. "back in black by ACDC at number three." ← Ongoing History of New Music > Survey Says： Useful and Odd Music Surveys and Polls | https://www.youtube.com/watch?v=KtdIMNoHqA8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Have a Drink on Me (Drinking Song Survey)** : Ranked as the number one drinking song in a sub-survey that was described as "a little less subtle" than another analysis of Spotify playlists. "And top spot is ACDC again, but this time with have a drink on me." ← Ongoing History of New Music > Survey Says： Useful and Odd Music Surveys and Polls | https://www.youtube.com/watch?v=KtdIMNoHqA8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Highway to Hell (Drinking Song Survey)** : Ranked as the second most popular drinking song in a whiskey retailer's analysis of Spotify playlists referencing drinking or partying. "highway to hell at number two." ← Ongoing History of New Music > Survey Says： Useful and Odd Music Surveys and Polls | https://www.youtube.com/watch?v=KtdIMNoHqA8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Highway to Hell (Year not specified)** : This track is cited as "about perfect" for anger management, according to suggestions accompanying a study on daily music intake for maximum benefit. "ACDC's highway to hell is about perfect, although certain tracks from Ramstein and Metallica are good too." ← Ongoing History of New Music > More and More Medical Mysteries of Music | https://www.youtube.com/watch?v=1HMW9rGtJHI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Night Prowler (Year not given)** : Richard Ramirez, the Night Stalker, was particularly fond of this song, which features lyrics such as "Was that noise out your window or a shadow on your blind and you'd either naked like a body in a tomb, suspended animation as I slip into your room?" Although Ramirez was a fan, AC/DC was not deemed to have inspired his murders but was "dogged for years" with the association and accused of Satanism by critics of hard rock and metal. "He was obsessed with the album High Way to Hell and loved the song Night Prouller, which has these lyrics. Was that noise out your window or a shadow on your blind and you'd either naked like a body in a tomb, suspended animation as I slip into your room?" ← Ongoing History of New Music > Murder Ballads (and Other Deadly Songs) | https://www.youtube.com/watch?v=FtGJHhqXcDI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Shook Me All Night Long (Year not specified)** : A line from this classic AC/DC song served as the inspiration for the title of Veruca Salt's 1994 debut album, "American Thighs." "that phrase is taken from the line in the ACDC song, Shook Me All Night Long." ← Ongoing History of New Music > The 90's Part 2B： Front Women | https://www.youtube.com/watch?v=Eo32mAZd8DI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**TNT** : The riff structure of the Beastie Boys' song "No Sleep Till Brooklyn" is notably similar to AC/DC's "TNT," a similarity that was not accidental. "And if you're an ACDC fan, note how similar the riff structure is to their song TNT. That is not an accident." ← Ongoing History of New Music > Remembering the Beastie Boys Part 1 | https://www.youtube.com/watch?v=l1jPP1FhGo8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**TNT (Drinking Song Survey)** : Placed at number 18 in a whiskey retailer's analysis of 23,425 Spotify playlists that referenced drinking or partying. This gave the group five songs in the top 20 of drinking songs in that specific analysis. "and TNT was at number 18." ← Ongoing History of New Music > Survey Says： Useful and Odd Music Surveys and Polls | https://www.youtube.com/watch?v=KtdIMNoHqA8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Thunderstruck** : This song is cited as an example of a "big song" by "big stars" that continued to command significant licensing fees even as prices for indie bands began to shrink. It represents the top tier of potential earnings from music licensing deals. ← Ongoing History of New Music > The Concept of Selling Out： Part 2 | https://www.youtube.com/watch?v=sfie4YYncxk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Thunderstruck (Drinking Song Survey)** : Topped one survey as the most popular drinking song based on an analysis of 23,425 Spotify playlists referencing drinking or partying. It also appeared at number one in another, less subtle sub-survey of drinking songs. "Thunderstruck in the top spot." ← Ongoing History of New Music > Survey Says： Useful and Odd Music Surveys and Polls | https://www.youtube.com/watch?v=KtdIMNoHqA8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**You Shook Me All Night Long (Drinking Song Survey)** : Placed at number eight in a whiskey retailer's analysis of 23,425 Spotify playlists that referenced drinking or partying. "You shook me all night long, was at number eight." ← Ongoing History of New Music > Survey Says： Useful and Odd Music Surveys and Polls | https://www.youtube.com/watch?v=KtdIMNoHqA8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## awards
 **Rock and Roll Hall of Fame (2003)** : Won.
-
-
 
 ## lists
 **"Highway to Hell" (1979) — 1001 Albums You Must Hear Before You Die** : #425.

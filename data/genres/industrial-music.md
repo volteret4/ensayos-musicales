@@ -1,6 +1,8 @@
-# genre - Industrial Music
+# genre - Industrial music
 
 ## curiosities
+**Characteristics** : Industrial music is characterized by guitars, synthesizers, and driving beats, with acts like Nine Inch Nails, Marilyn Manson, and Ministry being prominent examples. "Industrial music is another option. guitars, synthesizers, and driving beats from acts like nine-inch nails in Maryland, Manson, and ministry." ← https://www.youtube.com/watch?v=0qigzi1j81U
+**Yamaha DX7 Prominence in 1980s** : The Yamaha DX7 synthesizer and its FM synthesis technology significantly shaped the sound of industrial music in the 1980s. The instrument's ubiquity meant its sounds were integrated into tracks across various genres, including industrial music, becoming a defining sonic characteristic of the era. "The DX7 and its FM synthesis technology really did become the sound of the 80s, no matter what the genre, including industrial music." ← https://www.youtube.com/watch?v=TsiYLGGSJ2U
 **Aggressive Turn in North America (Early 1990s)** : In North America, music had turned aggressive in some quarters, including industrial music, indicating early shifts. "And dust-trimon music and hardcore, for example." ← Ongoing History of New Music > The Amazing Year That Was 1991 | https://www.youtube.com/watch?v=Rf1tFWQg51Y&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Breakthrough in Early 90s** : A "strange thing happened at the beginning of the 90s" when a number of industrial-minded groups broke through into the mainstream, some even before Grunge, possibly due to "anxiety brought on by the first Gulf War," the "intense recession," or "never-ending Republican rule in the US." "But then a strange thing happened at the beginning of the 90s. Maybe it was the anxiety brought on by the first Gulf War. Maybe it was the intense recession. Maybe it was the never-ending Republican rule in the US." ← Ongoing History of New Music > The 90s Part 7： The Other Genres | https://www.youtube.com/watch?v=amHre9ZZFkU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Brutal and Heavy Programming** : The inherent ability of keyboards and drum machines to be programmed to create brutal and heavy sounds inevitably led some musicians to explore this direction, cementing its roots in electronic music. "Because keyboards and drum machines could be programmed to sound so brutal and heavy, it was inevitable that some musicians would take this root." ← Ongoing History of New Music > The Roots of New Wave through Techno-Pop | https://www.youtube.com/watch?v=1KF5MwJVYng&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -26,16 +28,9 @@
 **Retreat to Margins** : Industrial music is still present today, but it has "again retreated to the margins," awaiting a future time when society might once more require "really, really angry music." "Industrial is still a thing. It's out there. But it's again retreated to the margins, awaiting a time when we once again need really, really angry music." ← Ongoing History of New Music > The 90s Part 7： The Other Genres | https://www.youtube.com/watch?v=amHre9ZZFkU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- Cabaret Voltaire
-- David Bowie
-- Einstürzende Neubauten
-- Joy Division
-- KMFDM
-- Kraftwerk
+- Alice Cooper
+- Front 242
+- Marilyn Manson
 - Ministry
 - Nine Inch Nails
-- Rage Against the Machine
-- Skinny Puppy
-- The Prodigy
-- Throbbing Gristle
 

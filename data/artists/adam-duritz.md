@@ -1,16 +1,13 @@
 # artist - Adam Duritz
 
 ## curiosities
-**Multiple Celebrity Relationships** : Adam Duritz is noted for his relationships with multiple celebrities, including dating Jennifer Aniston and Courtney Cox, in addition to Winona Ryder. "who dated both Jennifer Aniston and Courtney Cox, by the way, he's just a greedy get" ← https://www.youtube.com/watch?v=Yl2poVWguu0 ← adam-duritz
-
+**Multiple Celebrity Relationships** : Adam Duritz is noted for his relationships with multiple celebrities, including dating Jennifer Aniston and Courtney Cox, in addition to Winona Ryder. "who dated both Jennifer Aniston and Courtney Cox, by the way, he's just a greedy get" ← https://www.youtube.com/watch?v=Yl2poVWguu0
 
 ## awards
 **Academy Award for Best Original Song (2005) — Accidentally in Love** : Nominated.
 
-
 ## charts
 **"Get Lucky" — Billboard Year-End Hot 100** : #14, 2013.
-
 
 ## lists
 **"Homework" (1997) — 1001 Albums You Must Hear Before You Die** : #850.

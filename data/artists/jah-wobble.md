@@ -1,6 +1,6 @@
 # artist - Jah Wobble
 
 ## member of
-- Public Image Limited
 - Public Image Ltd
+- Public Image Limited
 

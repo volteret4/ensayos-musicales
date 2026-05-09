@@ -1,6 +1,9 @@
-# genre - Pop Music
+# genre - Pop music
 
 ## curiosities
+**Aging Out of Top 40** : As teenagers, individuals tend to "age out of our top 40 years," starting to seek music that is perceived as "cooler, more substantial, more meaningful, more complex, and more cool." This reflects a shift in taste towards more nuanced and identity-defining genres. ← https://www.youtube.com/watch?v=m7MbV-eCLyE
+**Counterpoint in Best Pop Music** : The best pop music has always featured a strong sense of counterpoint between the bass line and the melody, with these elements moving independently but complementing each other. This shows a musical sophistication often overlooked in the genre. "The best pop music has always had a really good sense of counterpoint between the bass line and the melody." ← https://www.youtube.com/watch?v=LYRPxtP61JM
+**Initial Musical Taste** : For most people, musical lives begin with pop music, which is characterized as "easily digestible with singable melodies and fun beats." The "Top 40" or prevalent songs in one's immediate environment often define this initial phase of musical engagement. ← https://www.youtube.com/watch?v=m7MbV-eCLyE
 **1996 Resurgence** : Pop music began to regain its strength and chart dominance as early as 1996, with artists like the Spice Girls and Britney Spears leading the charge, effectively challenging the rock acts that had previously held the top positions. "pop started flexing its muscles again, spice girls, Britney Spears, Backstreet Boys, Mariah Carey, and Sink." ← Ongoing History of New Music > The 00's Part 1： The Sad State of Rock | https://www.youtube.com/watch?v=hBQE4t72i3o&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **7-inch Single Medium (1960s)** : By the early 1960s, the 7-inch single remained the medium of choice for pop music, even as artists increasingly collected songs onto LPs. "It was still the medium of choice for pop music." ← Ongoing History of New Music > The History of Vinyl： Part 2 | https://www.youtube.com/watch?v=GES0Ms_kaCI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Avoidance in Medical Settings** : High energy pop music is identified as one of the genres that should be avoided in doctor's or dentist's waiting rooms for anxious patients. "Okay, so if that kind of music works, what music should be avoided? Country and high energy pop." ← Ongoing History of New Music > More and More Medical Mysteries of Music | https://www.youtube.com/watch?v=1HMW9rGtJHI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -26,5 +29,5 @@
 **Strength Post-2008 Financial Crisis** : The recovery from the 2008 financial crisis reinforced the strength of pop music in the long-standing pop versus rock cycle, helping to extend its run. "But when things got better, it reinforced the strength of pop in the decades-long pop versus rock cycle and actually helped extend that run." ← Ongoing History of New Music > The History of the 2010s Part 2： The Role of Indie Rock | https://www.youtube.com/watch?v=sOU54d8mr5k&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- Fleetwood Mac
+- Kraftwerk
 

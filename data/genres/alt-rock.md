@@ -1,6 +1,7 @@
-# genre - Alt-rock
+# genre - Alt rock
 
 ## curiosities
+**Punk Roots** : Understanding the origins of punk rock in the mid-1970s is crucial for comprehending where today's alt-rock came from and for predicting future musical trends, as punk was the "big bang moment" for alternative music. "This you want to know where today's alt rock came from and you're looking to predict what may happen to our music in the future." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
 **"Golden Age" of Commercial Alt-Rock Radio** : The pre-grunge era of commercial alt-rock radio in the 1980s is retrospectively considered by some to be a "golden age." This period was characterized by hardcore music fans staffing stations, who were on a mission to deliver good music, despite low salaries and the constant threat of format changes. ← Ongoing History of New Music > Theories, Thoughts, and Half-Baked Ideas | https://www.youtube.com/watch?v=eqTFinLk3oU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **1980s Culture** : In the 1980s, the alt-rock scene, including bands, managers, labels, DJs, record stores, and fans, embraced an "outsider-ness," desiring no connection with the mainstream, and fostered a "very tribal" environment. "People involved in the scene, the bands and the managers, the labels and the DJs, the record stores and fans, reveled in their outsider-ness." ← Ongoing History of New Music > Theories, Thoughts, and Half-Baked Ideas | https://www.youtube.com/watch?v=2wZydttn4Cs&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **1980s Radio Diversity** : Commercial alt-rock radio stations in the 1980s exhibited staggering breadth in their playlists, featuring techno pop, industrial, various forms of punk, early rap and hip hop, goth, British indie, remixes, ethereal dream pop, and guitar rock, with each station having a distinct local flavor due to a lack of centralized charts. "This kind of variety was typical for alt rock stations all across North America. No two stations were exactly the same, each had its own local flavor." ← Ongoing History of New Music > Theories, Thoughts, and Half-Baked Ideas | https://www.youtube.com/watch?v=2wZydttn4Cs&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -39,12 +40,6 @@
 **Vinyl Adherence (Post-CD Era)** : Many alt-rock bands, alongside punk, never fully embraced digital formats, continuing to release 7-inch singles and vinyl albums to independent record stores. "Punk and other alt-rock bands. There were many groups who never bought into digital ever." ← Ongoing History of New Music > The History of Vinyl： Part 2 | https://www.youtube.com/watch?v=GES0Ms_kaCI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- Björk
-- Eugenius
-- Gorillaz
-- Jill Sobule
-- Pavement
-- Slow Burn
-- The Cure
-- The Sundays
+- Dropkick Murphys
+- Econoline Crush
 

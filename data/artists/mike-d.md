@@ -1,2 +1,6 @@
-# artist - Mike D.
+# artist - Mike D
+
+## member of
+- Beastie Boys
+- Mike Watt
 

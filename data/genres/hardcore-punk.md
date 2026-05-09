@@ -1,6 +1,8 @@
-# genre - Hardcore Punk
+# genre - Hardcore punk
 
 ## curiosities
+**Root of Emo** : A specific type of hardcore punk that originated in the Washington D.C. area in the mid-1980s is identified as the direct origin of emo music, then known as Emotional Hardcore or Emocore. "Emo is an offshoot of a particular type of hardcore punk that originated in the Washington DC area in the middle 80s." ← https://www.youtube.com/watch?v=_yslM5oanRo
+**Roots of Emo (1980s)** : The American Underground Hardcore punk scene of the 1980s is identified as the foundational origin for Emo music. This shows Emo's direct lineage from a more aggressive and underground punk subgenre before it evolved and gained mainstream appeal. "Now Emo had its roots in the American Underground Hardcore punk scene of the 1980s." ← https://www.youtube.com/watch?v=-CT7yYXonIk
 **80s "Bro Rock" Backsliding** : In the 1980s, hardcore punk represented a "backsliding" in terms of gender inclusivity, becoming "amongst the most testosterone-driven bro rock ever." This subgenre notably pushed women to the back, contrasting with the more inclusive dogma of original punk and highlighting the need for movements like Riot Grrrl. "For example, hardcore punk was amongst the most testosterone-driven bro rock ever. Women were pushed to the back." ← Ongoing History of New Music > Riot Grrrls - A Primer | https://www.youtube.com/watch?v=Qss5kC2FUx0&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **American Predecessor** : California punk rock is identified as the main predecessor to American hardcore punk. "California punk rock, which was the main predecessor to American hardcore punk." ← Ongoing History of New Music > History of Skate Punk | https://www.youtube.com/watch?v=44dXy0StjIQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Ancestry of Emo** : Hardcore punk is identified as the genre from which emo, a subgenre characterized by its emotional and introspective qualities, descended. "descended of, believe it or not, hardcore punk." ← Ongoing History of New Music > Alt Rock Revivals Part 3： Emo | https://www.youtube.com/watch?v=v_am7ifh7Pk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -37,21 +39,32 @@
 **Topic of "Alt Rock" Chapter 8** : American hardcore punk is a specific focus of "Chapter 8" in the history of Alt Rock series. "And here in Chapter 8, we're going to talk about American hardcore punk." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 8 | https://www.youtube.com/watch?v=XjTWcy8RHEs&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
+- Adolescents
+- Agent Orange
+- Agnostic Front
+- Asexuals
 - Bad Brains
 - Bad Religion
-- Bikini Kill
 - Black Flag
-- D.O.A.
+- Circle Jerks
+- Cro-Mags
+- DOA
+- Dayglo Abortions
 - Dead Kennedys
-- Fever 333
-- Ho99o9
-- Husker Dew
-- Husker Du
-- Husker Dü
+- Descendents
+- Effing Goofs
+- Fugazi
+- Gang Green
 - Minor Threat
-- Nirvana
-- Operation Ivy
-- Rancid
-- Rites of Spring
-- Sonic Youth
+- Minutemen
+- Mob 47
+- Raw Power
+- Red Cross
+- SNFU
+- Social Distortion
+- Subhumans
+- The Germs
+- The Middle Class
+- The Refused
+- Wretched
 

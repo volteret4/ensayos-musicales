@@ -1,6 +1,10 @@
-# genre - Hip-hop
+# genre - Hip hop
 
 ## curiosities
+**Birth on New York Streets** : Hip hop, alongside rap, began on the streets of New York in the 1970s. It involved DJs skillfully manipulating records for beats and MCs delivering rhymes, fostering a competitive environment that birthed turntableism. "When disco was happening in the clubs back in the 70s, rap and hip hop was being born on the streets of New York." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
+**Game-Changing Genre and Stagnation** : Hip hop was initially an "incredibly game changing" genre, but it has since "hit something of a wall." A generation gap has emerged within hip hop, pitting "old schoolers and gangster rap fans" against contemporary artists like Drake and Chris Brown. "Meanwhile hip hop, which was incredibly game changing, has also hit something of a wall." ← https://www.youtube.com/watch?v=m7MbV-eCLyE
+**Influence on 2000s Alt Rock** : Hip hop, alongside other genres, contributed "certain elements" as a dance influence that artists in the 2000s merged with alt rock sensibilities, illustrating the extensive cross-genre blending occurring at the time. "These acts blended alt rock sensibilities with a million different types of dance influences, from old school raves to disco to house to R&B to certain elements of hip hop." ← https://www.youtube.com/watch?v=_yslM5oanRo
+**Sound World vs. Music World** : Hip hop operates within a "world of sound," which grants it vast sonic possibilities due to its ability to incorporate sounds from any source. This makes its creative scope often much broader than that of traditional rock music, drawing parallels to early electronic composers. "See, hip hop lives in a world of sound, not just in a world of music." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
 **Billboard Chart Coverage** : Billboard magazine includes a specialty chart for hip-hop, reflecting its coverage of various music genres alongside its main Hot 100 singles and Top 200 album charts. "Billboard magazine. This is where we find the hot 100 singles, the top 200 album charts, and a couple of dozen specialty charts for dance, alt-rock, hip-hop, and so on." ← Ongoing History of New Music > Music Questions People Almost Never Ask | https://www.youtube.com/watch?v=TsiYLGGSJ2U&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Cultural Impact Comparison** : Academics often argue that the emergence of hip-hop in popular culture was an even more significant development than the arrival of The Beatles, highlighting its profound and widespread influence. "There are people, academics, who will argue that the appearance of hip-hop in popular culture was an even bigger deal than the Beatles." ← Ongoing History of New Music > Why Punk Happened | https://www.youtube.com/watch?v=YaYaFW2q6qI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Development with SL-1200 Turntable** : The Technics SL-1200 turntable and the machines it inspired were foundational to the invention of hip-hop, enabling techniques like scratching and beat mixing that defined the genre. "Hip-hop and rap could not have been invented if it were not for the SL-1200 and the machines it inspired." ← Ongoing History of New Music > The Beginners Guide to Vinyl | https://www.youtube.com/watch?v=IIJySSo276k&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -17,11 +21,11 @@
 **Warped Tour Expansion** : While primarily a punk festival, the Warped Tour eventually branched out to include different genres, such as hip-hop. "Warped was primarily about punk, but eventually it branched out into different genres like hip-hop." ← Ongoing History of New Music > The 90s Part 9： The Festivals | https://www.youtube.com/watch?v=7JP2tjJibTQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- A Tribe Called Red
-- Ani DiFranco
-- Chris Cornell
-- Gorillaz
-- Rage Against the Machine
-- Snotty Nose Rez Kids
-- Wu-Tang Clan
+- Afrika Bambaataa
+- Bad Brains
+- Beastie Boys
+- Grandmaster Flash
+- Insane Clown Posse
+- OutKast
+- Run-D.M.C.
 

@@ -1,6 +1,8 @@
-# genre - Classical Music
+# genre - Classical music
 
 ## curiosities
+**Historical Perception in Late 19th/Early 20th Century** : During the late 19th and early 20th century, classical music was regarded by elders as "uplifting and sophisticated," distinguishing it from popular genres that were often met with disdain. ← https://www.youtube.com/watch?v=m7MbV-eCLyE
+**Seeking Complexity with Age** : With increasing age, individuals may turn to classical music in their pursuit of "complexity, challenge and sophistication" in their listening habits. This indicates an evolving relationship with music, moving beyond earlier identity-driven preferences. ← https://www.youtube.com/watch?v=m7MbV-eCLyE
 **19th-Century Revival** : After Johann Sebastian Bach's death in March 1685, he was nearly forgotten until a significant revival in the 19th century re-established him as a retro hero and one of the most important and influential composers of all time. "The only reason we talk about Bach today is because there was a Bach revival in the 19th century." ← Ongoing History of New Music > What's the Big Deal About Joy Division？ | https://www.youtube.com/watch?v=1VWJ0uCQx8w&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Adam Jones' Musical Background** : Adam Jones of Tool learned classical music through his violin training via the Suzuki method, an influence that can be heard in Tool's music. "and he learned to play classical music, which of course makes sense if you're at all familiar with Toul's music, right?" ← Ongoing History of New Music > Modern Guitar Heroes：  The Men | https://www.youtube.com/watch?v=nVIswnZYFkU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Ancient Roots** : Classical music dates back at least 600 years. "Classical music goes back at least 600 years." ← Ongoing History of New Music > Alt Rock Revivals Part 2：  Ska | https://www.youtube.com/watch?v=WX2GlpMNg_8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -21,10 +23,4 @@
 **One-Hit Wonders in Classical Music** : Classical music also features its share of "one-hit wonders," composers largely known for a single, ubiquitous piece despite having created a vast body of work. Johann Pachelbel with "Canon in D" is a prime example, alongside figures like Jeremiah Clark, Samuel Barber, and Thomas Albinoni. "There's a whole subset of classical music fans devoted to these kinds of one hit wonders. They'll bring up names like Jeremiah Clark, Samuel Barner and Thomas Albionini." ← Ongoing History of New Music > Great Alt-Rock One-Hit Wonders of the 90s： Part 2 | https://www.youtube.com/watch?v=SOAL0GODN3M&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Palestinian Detainee Torture** : Reports from Israel indicated that Palestinian detainees were tied to tiny chairs with hoods over their heads and blasted with classical music at high volume as a form of interrogation and torture. "Also from Israel, there were reports of Palestinian detainees being tied to tiny chairs with hoods over their heads and blasted with classical music at high volume." ← Ongoing History of New Music > Using Music as a Weapon | https://www.youtube.com/watch?v=R1wdsGt07Gg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **The Mozart Effect Controversy** : Classical music became central to the "Mozart effect" theory, which proposed it could enhance infant intellect. This led to state-funded initiatives like Georgia providing classical music CDs to newborns. However, later research challenged the exclusivity of classical music's benefits, suggesting other forms of stimulation yielded similar results. ← Ongoing History of New Music > Medical Mysteries of Music | https://www.youtube.com/watch?v=BHN6db7m3DM&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-
-## artists
-- Alessandro Stradella
-- David Bowie
-- Johann Sebastian Bach
-- Massive Attack
 

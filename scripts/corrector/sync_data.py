@@ -156,6 +156,8 @@ def main():
         etype = ETYPE[subdir]
         skip  = SKIP_ENTITY_SECS if subdir != 'artists' else set()
 
+        if not os.path.isdir(dst_dir):
+            continue  # correcciones/ subdirs removed after migrate_to_data.py --cleanup
         for fn in sorted(os.listdir(src_dir)):
             if not fn.endswith('.md'): continue
             src_path = os.path.join(src_dir, fn)

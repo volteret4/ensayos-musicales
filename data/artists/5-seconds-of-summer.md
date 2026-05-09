@@ -4,8 +4,7 @@
 - Pop Punk
 
 ## curiosities
-**New Generation Band** : 5 Seconds of Summer is highlighted as one of the bands representing a "new generation of pop punk" that emerged after 2010. "For example, five seconds of summer." ← https://www.youtube.com/watch?v=pE7TaWSUa-o ← 5-seconds-of-summer
-
+**New Generation Band** : 5 Seconds of Summer is highlighted as one of the bands representing a "new generation of pop punk" that emerged after 2010. "For example, five seconds of summer." ← https://www.youtube.com/watch?v=pE7TaWSUa-o
 
 ## awards
 **American Music Award for New Artist of the Year** : Won.
@@ -21,9 +20,7 @@
 **MTV Europe Music Award for Best Australian Act (2015)** : Won.
 **MTV Europe Music Award for Best Rock (2018)** : Won.
 
-
 ## charts
 **"Amnesia" — Billboard Year-End Hot 100** : #86, 2014.
 **"She Looks So Perfect" — Billboard Year-End Hot 100** : #93, 2014.
-**"Youngblood" — Billboard Year-End Hot 100** : #36, 2018.
 **"Youngblood" — Billboard Year-End Hot 100** : #33, 2019.

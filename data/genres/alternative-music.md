@@ -1,6 +1,10 @@
-# genre - Alternative Music
+# genre - Alternative music
 
 ## curiosities
+**Contemporary Meaning** : Today, "alternative music" continues to exist, often referred to as "indie" or "underground music." It describes cutting-edge rock that operates below the mainstream radar, found in small clubs and niche record stores, and is typically sought out by a more selective audience. "So alternative music, rock that is an alternative to everything we see in here in the mainstreams till exists, is just that you have to look for it and maybe sometime call it Indie or underground music." ← https://www.youtube.com/watch?v=Ft8nruhWCas
+**Origin of the Term** : In the 1970s and early 1980s, "alternative music" became the term for music created by "weird kids" that was not played on mainstream radio or signed by major labels. Small independent record labels, offering a "career alternative" for these bands, became known as "alternative record companies," thereby defining the bands and their music as "alternative." "By the very early 1980s, those small indie labels had become known as alternative record companies because they provided a career option, a career alternative for the weird band who couldn't find homes with the majors." ← https://www.youtube.com/watch?v=Ft8nruhWCas
+**Overtaking the Mainstream (Mid-90s)** : The "grunge explosion" of the early to mid-1990s saw alternative rock transition from an underground form to the mainstream, largely replacing traditional mainstream rock acts. This shift made the term "alternative" somewhat contradictory, as it was no longer an alternative to anything, prompting a search for new terminology like "New Rock." "In other words, by the middle of the 90s, alternative music wasn't an alternative to anything anymore. It was now the mainstream, which caused much soul searching and hand-winging amongst musicians and fans like." ← https://www.youtube.com/watch?v=Ft8nruhWCas
+**UK Interchangeability with Indie** : In the UK, the term "Indie" is often roughly interchangeable with "alternative." This is attributed to the specific structure of the British music industry, which provides independent artists a greater opportunity to penetrate the mainstream compared to North America. "In the UK, Indie can be roughly interchangeable with alternative." ← https://www.youtube.com/watch?v=Ft8nruhWCas
 **"Big Bang" Origin** : Alternative music emerged as a "big bang" from the two core principles of 1970s punk rock: a musical reset and a DIY attitude. This led to chain reactions of new ideas, sounds, attitudes, fashion, belief systems, and general approaches, breaking rules and exploring new concepts. "Taken together, these two principles resulted in what can be described as the big bang for what would later be called alternative music." ← Ongoing History of New Music > The Post-Punk Explosion Part 7： All the rest | https://www.youtube.com/watch?v=LgJ7ww2AgF4&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **"Dookie" Grammy Award** : Grimbey's album "Dookie" was recognized for its excellence in the genre, receiving the Grammy Award for Best Alternative Music Album. This award solidified its status and influence within the alternative music landscape of the 1990s. "También te hubo el Grammy al mejor álbum de música alternativa." ← Music Radar Clan > Green Day - Dookie (¿el concierto más divertido de los '90？) | https://www.youtube.com/watch?v=hPloRX7TWrY&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **1990s Keyboard Dominance** : In the early 1990s, before the massive success of "Smells Like Teen Spirit," alternative rock radio was largely dominated by keyboard-based music from bands like Depeche Mode, INXS, New Order, and The Cure, with a generally "left-leaning" sound. "alt rock radio at the time was about Depeche Mode and in excess, New Order, The Curie Ratio and Left Leaning Alternative Music that was more often than not keyboard based." ← Ongoing History of New Music > Alt Rock Revivals Part 1： Punk | https://www.youtube.com/watch?v=gkLMwrthZ9s&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -20,22 +24,15 @@
 **Transformation in the 80s and 90s** : New Order, formed by the remaining members of Joy Division, played a crucial role in transforming alternative music throughout the 1980s and into the 1990s, building upon the foundations laid by their previous band. "And of course, there's the work of New Order, who helped transform alternative music in the 80s and into the 90s." ← Ongoing History of New Music > What's the Big Deal About Joy Division？ | https://www.youtube.com/watch?v=1VWJ0uCQx8w&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- Beck
-- Camper Van Beethoven
 - Depeche Mode
+- Dropkick Murphys
 - Elvis Costello
-- Elvis Presley
-- Fatboy Slim
-- Grimbey
 - Iggy Pop
 - Joy Division
-- New Order
-- Pearl Jam
-- R.E.M.
-- Rage Against the Machine
-- Smashing Pumpkins
-- The Cranberries
-- The Cure
-- The Verve
-- Weezer
+- Nirvana
+- Soundgarden
+- The Modern Lovers
+- The Smashing Pumpkins
+- The Smiths
+- The Velvet Underground
 

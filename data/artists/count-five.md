@@ -9,4 +9,3 @@
 
 ## curiosities
 **Mid-60s Garage Band** : The Count Five were listed among a series of rough, ragged, and raw-sounding bands from the 1960s who emerged from garages and basements across North America. Their tough look, often featuring leather jackets, garnered comparisons to rebellious figures like Marlon Brando, and contributed to people referring to such groups as looking like "punks." "The Count Five with an example of mid-60s garage rock." ← https://www.youtube.com/watch?v=Z8BTWo66SDI ← count-five
-

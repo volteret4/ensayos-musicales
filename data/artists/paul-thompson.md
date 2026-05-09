@@ -2,6 +2,6 @@
 
 ## member of
 - Franz Ferdinand
-- The Cure
 - Yummy Fur
+- The Cure
 

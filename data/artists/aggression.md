@@ -3,7 +3,6 @@
 ## genres
 - Nardcore
 
-
 ## charts
 **"Adele" — UK Vinyl Albums Chart** : entrada.
 **"Amy Winehouse" — UK Vinyl Albums Chart** : entrada.
@@ -16,8 +15,6 @@
 **"Queen" — UK Vinyl Albums Chart** : entrada.
 **"Various Artists" — UK Vinyl Albums Chart** : entrada.
 **"Fleetwood Mac" — UK Vinyl Albums Chart** : entrada.
-**"Amy Winehouse" — UK Vinyl Albums Chart** : entrada.
-**"Queen" — UK Vinyl Albums Chart** : entrada.
 **"Kylie Minogue" — UK Vinyl Albums Chart** : entrada.
 **"Harry Styles" — UK Vinyl Albums Chart** : entrada.
 **"Glass Animals" — UK Vinyl Albums Chart** : entrada.

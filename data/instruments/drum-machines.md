@@ -1,6 +1,9 @@
-# instrument - Drum machines
+# instrument - Drum Machines
 
 ## curiosities
+**Early Basic Models (Early Days)** : The very first drum machines were simple, non-programmable units, often integrated with home organs. They offered basic preset rhythms like "bossa nova" or "tango" but lacked versatility. "We used to have an old drum machine right in the early days that was just the sort of thing that you used to have with your home organ and it just repressed my shit and it bossaed over one, bossaed over two, tango, etc." ← https://www.youtube.com/watch?v=0fQQubt9UTI
+**Programmable Models and Distinctive Sounds (Late 1970s)** : The Roland CR-78 was an early programmable drum machine, though complicated to operate. It allowed for the creation of distinctive intro patterns, such as the one famously heard in OMD's "Enola Gay." "But the first programmable drum machine we got is most famously probably known for the intro to Enola Gay. The roll and CR78. You could program that." ← https://www.youtube.com/watch?v=0fQQubt9UTI
+**Technological Advancements (Early 1980s)** : Drum machines were among the new electronic technologies that emerged in the early 1980s, contributing to the expanded sonic palette of post-punk and genres like Dreampop, enabling more complex music production. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 **Alternative Dance Basis** : Drum machines were a fundamental component of Alternative Dance, used extensively alongside keyboards, loops, and samples to create the genre's electronic foundation. "Lots of keyboards and drum machines and loops and samples." ← Ongoing History of New Music > The 90s Part 7： The Other Genres | https://www.youtube.com/watch?v=amHre9ZZFkU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Commercialization and Impact (1982)** : The year 1982 saw the launch and massive commercialization of some of the most important drum machines in history. These instruments provided the hard, strong, and intense rhythmic bases that enabled a significant evolutionary leap in hip hop music, moving it away from boogie influences. "1982 son los lanzamientos algunas de las cajas de ritmos más importantes en la historia y empezamos a tener esas bases rígicas tan duras tan fuertes tan intensas que nos aban las cajas de ritmos que se empezaban a comercializar masivamente." ← Music Radar Clan > El RAP antes del RAP (los primeros años del rap) | https://www.youtube.com/watch?v=USvB-AVhfzs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Evolution from Novelty to Standard** : Drum machines, along with effects pedals, Marshall stacks, and synthesizers, introduced novel sounds to music production. Over time, they have become "part of the standard arsenal of musical tools," signifying their ubiquitous presence in contemporary music. ← Ongoing History of New Music > What A Drag It Is Getting Old (Musically) | https://www.youtube.com/watch?v=m7MbV-eCLyE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -13,9 +16,5 @@
 **Used in Mali Music Project** : Drum machines, referred to as "cajas de ritmos," were an integral part of the sounds Damon Albarn explored and incorporated into his "Mali Music" album, reflecting their popularity in that region of Africa. "las cajas de ritmos que son tan populares en esa zona de África." ← Music Radar Clan > Los discos menos conocidos de Damon Albarn (Gorillaz y Blur) | https://www.youtube.com/watch?v=ISMaaXwwVaY&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## artists
-- Daft Punk
-- Nitzer Ebb
-- Skinny Puppy
-- The Human League
-- Trent Reznor
+- New Order
 

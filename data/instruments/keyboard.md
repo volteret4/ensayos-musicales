@@ -1,24 +1,20 @@
 # instrument - Keyboard
 
 ## curiosities
+**Goth's Primary Instrument** : Goth music primarily employs a keyboard-based approach, drawing influence from early 1980s technopop and smoother modern electronic sounds. "On the other hand, Goth has a keyboard based approach that is more in common with the techno popper of the early 1980s and the smoother flavors of modern electronic than it does with any hard techno." ← https://www.youtube.com/watch?v=evlGhfUe6QQ
+**Industrial Use** : Industrial music utilizes "sharp keyboard sounds of techno" over heavy beats. "industrial relies on guitars and the sharp keyboard sounds of techno over ultra heavy beats." ← https://www.youtube.com/watch?v=evlGhfUe6QQ
+**Traditional Instrument for Learning** : The keyboard is listed as a traditional instrument, alongside guitar and drums, that requires significant time and dedication to learn proficiently, often taking years. This contrasts with modern electronic instruments and software that offer easier ways to create music. "Learning to play a traditional instrument like the guitar or keyboard or drums or whatever takes time and dedication." ← https://www.youtube.com/watch?v=5Y6nHw5xx88
 **Gillian Gilbert's Role in New Order** : Gillian Gilbert, a keyboardist, joined the remaining members of Joy Division to form New Order, indicating a shift towards incorporating keyboards more prominently. "Y el resto de la banda pues acabaría cogiendo una teclista, Gilean Gilbert y fundaría en lo que sería New Order." ← Music Radar Clan > Especial JOY DIVISION： 4. La banda tras el final | https://www.youtube.com/watch?v=r5DddiWrUbA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← keyboard
-**Goth's Primary Instrument** : Goth music primarily employs a keyboard-based approach, drawing influence from early 1980s technopop and smoother modern electronic sounds. "On the other hand, Goth has a keyboard based approach that is more in common with the techno popper of the early 1980s and the smoother flavors of modern electronic than it does with any hard techno." ← https://www.youtube.com/watch?v=evlGhfUe6QQ ← keyboard
-**Industrial Use** : Industrial music utilizes "sharp keyboard sounds of techno" over heavy beats. "industrial relies on guitars and the sharp keyboard sounds of techno over ultra heavy beats." ← https://www.youtube.com/watch?v=evlGhfUe6QQ ← keyboard
 **Initial Reluctance by Joy Division Members** : The members of Joy Division, excluding Ian Curtis, were initially somewhat hesitant to incorporate keyboards, synthesizers, and more experimental sounds into their music. "Aunque el resto de la banda que no era Ian Curtis siempre habían sido como un poco reacios a trabajar lo que eran los intentizadores y los teclados y todo ese rollo más experimental." ← Music Radar Clan > Especial JOY DIVISION： 4. La banda tras el final | https://www.youtube.com/watch?v=r5DddiWrUbA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← keyboard
 **Ostinato in "Dark Horse" Lawsuit** : A keyboard figure, specifically an ostinato (a repeating phrase), was at the center of the plagiarism lawsuit between Katy Perry's "Dark Horse" and Flame's "Joyful Noise." Flame claimed Perry's keyboard ostinato infringed on his, despite differences in tempo and pitch. "He claimed that a keyboard figure, and we call keyboard figures Austinatos, which is a repeating phrase in the musical work, he claimed that this figure in Katie's song infringed on the Austinato in his 2008 Grammy winning track Joyful Noise." ← https://www.youtube.com/watch?v=fS8V3kYXT6w ← keyboard
 **Perry Bamonte Joining The Cure** : Perry Bamonte, originally a guitar tech for The Cure, stepped into the role of keyboardist when Roger O'Donnell left the band just before the final leg of the 1991 Disintegration tour, showcasing the versatility required of road crew members. "But when Roger O'Donnell left the cure just before the final leg of the disintegration tour in 1991, Perry Bimonte became the band's keyboardist and after that he played guitar on the next four albums." ← https://www.youtube.com/watch?v=ZVGnSVfed9s ← keyboard
-**Traditional Instrument for Learning** : The keyboard is listed as a traditional instrument, alongside guitar and drums, that requires significant time and dedication to learn proficiently, often taking years. This contrasts with modern electronic instruments and software that offer easier ways to create music. "Learning to play a traditional instrument like the guitar or keyboard or drums or whatever takes time and dedication." ← https://www.youtube.com/watch?v=5Y6nHw5xx88 ← keyboard
 
 ## artists
 - Chris Martin
-- Clint Boon
 - Fiona Apple
 - Jean-Michel Jarre
 - John Bechtel
 - Keith Emerson
-- New Order
-- Perry Bamonte
-- Rush
 - The Dandy Warhols
 - The Farriss Brothers
 - Tomita

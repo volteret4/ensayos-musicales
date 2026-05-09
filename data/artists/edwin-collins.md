@@ -6,12 +6,12 @@
 ## genres
 - New Pop
 
+## songs
+**A Girl Like You (1995)** : "A Girl Like You" by Edwin Collins was one of two legitimate hits from the soundtrack of the 1995 movie *Empire Records*. The film, starring Liv Tyler and Renée Zellweger, featured numerous tracks from the 80s and 90s, with 16 included on the soundtrack CD. "And there were two legitimate hits, till I hear it from you by the Jim Blossoms and a girl like you from Edwin Collins." ← https://www.youtube.com/watch?v=zIkjd1OjCXM
+**A Girl Like You (1994)** : This song became a massive worldwide hit for Edwin Collins in 1994. "Edwin had a massive worldwide hit with this one in 1994. That's Edwin Collins and a girl like you." ← https://www.youtube.com/watch?v=NQgn0_mUh74 ← edwin-collins
+
 ## albums
 **Gorgeous George (1994)** : This album featured Edwin Collins' massive worldwide hit, "A Girl Like You." "Huge hit from his album Gorgeous George." ← https://www.youtube.com/watch?v=NQgn0_mUh74 ← edwin-collins
-
-## songs
-**A Girl Like You (1994)** : This song became a massive worldwide hit for Edwin Collins in 1994. "Edwin had a massive worldwide hit with this one in 1994. That's Edwin Collins and a girl like you." ← https://www.youtube.com/watch?v=NQgn0_mUh74 ← edwin-collins
-**A Girl Like You (1995)** : "A Girl Like You" by Edwin Collins was one of two legitimate hits from the soundtrack of the 1995 movie *Empire Records*. The film, starring Liv Tyler and Renée Zellweger, featured numerous tracks from the 80s and 90s, with 16 included on the soundtrack CD. "And there were two legitimate hits, till I hear it from you by the Jim Blossoms and a girl like you from Edwin Collins." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← edwin-collins
 
 ## curiosities
 **Brain Surgery and Post-Stroke Speech (2005)** : Less than a week after his hemorrhages, Edwin underwent brain surgery to relieve pressure in his skull. For weeks afterward, he could only utter four phrases: "Yes," "No," "Grace Maxwell" (his wife's name), and "The possibilities are endless." "for weeks afterwards, he could only say four things. Yes, no. Grace Maxwell, which is the name of his wife, and weirdly, the possibilities are endless." ← https://www.youtube.com/watch?v=NQgn0_mUh74 ← edwin-collins
@@ -28,4 +28,3 @@
 **Speech vs. Singing Anomaly** : Following his strokes, Edwin experienced significant stuttering when speaking. However, remarkably, when he sang, his stutter completely disappeared. "He still has trouble speaking, Edwin stutters a lot. But when he starts to sing, there's not a stutter to be heard." ← https://www.youtube.com/watch?v=NQgn0_mUh74 ← edwin-collins
 **The Possibilities Are Endless (Documentary)** : A documentary film was made about Edwin Collins' experience and recovery from his strokes and brain injuries, sharing his remarkable story with audiences. "There's also a documentary entitled The Possibilities Are Endless." ← https://www.youtube.com/watch?v=trMzjWWmbZo ← edwin-collins
 **Wife's Book on Recovery** : His wife, Grace Maxwell, documented Edwin's recovery journey in her book titled "Falling and Laughing, The Restoration of Edwin Collins." "Grace wrote a book about Edwin's recovery called Falling and Laughing, The Restoration of Edwin Collins, which is extremely good." ← https://www.youtube.com/watch?v=NQgn0_mUh74 ← edwin-collins
-

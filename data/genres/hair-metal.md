@@ -1,6 +1,7 @@
-# genre - Hair Metal
+# genre - Hair metal
 
 ## curiosities
+**Mainstream Rejection (Late 1980s)** : Hair metal represented a mainstream music genre that the alternative and non-mainstream rock audience actively rejected by the late 1980s. This rejection was part of a broader desire to separate from anything on Top 40 radio or popular culture. "You want nothing to do with hair metal or classic rock or new kids on the block or anything on top 40 radio." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
 **Decline by 1990-1991** : By 1990, hair metal, which had been strong for about eight years, was overexposed and tired. The proliferation of too many bands and an abundance of power ballads led to a dilution of quality and waning public interest. "It had been going strong for about eight years, but it was overexposed and tired." ← Ongoing History of New Music > The Amazing Year That Was 1991 | https://www.youtube.com/watch?v=Rf1tFWQg51Y&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Decline in Popularity (Early 1990s)** : By early 1990, there were clear indications that Hair Metal's popularity was waning, with audiences growing tired of both it and older classic rock bands. This shift created an opening for bands like Depeche Mode, who were embraced by Gen X as the new drivers of music culture. "By early 1990, there were indications that hair metal was done and people were tired of old classic rock bands." ← Ongoing History of New Music > Introducing ＂Uncharted＂： Depeche Mode and the Debauched Devotional Tour | https://www.youtube.com/watch?v=Jvh8SP2QKXQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Direct Line from Glam Rock** : Hair metal is described as a direct descendant of glam rock, characterized by "big hair, the dudes looking like ladies, the makeup, the spandex, and the stomping good time party all the time songs." Mötley Crüe in 1985 is compared to Slade in 1973 to illustrate this direct lineage. "Then we get into hair metal, the big hair, the dudes looking like ladies, the makeup, the spandex, and the stomping good time party all the time songs. It's all very Glam Rock, isn't it?" ← Ongoing History of New Music > The Surprising History of Glam Rock | https://www.youtube.com/watch?v=blDNqVFheAw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -15,10 +16,5 @@
 **US Rock Resurgence in Mid-80s** : In the mid-1980s, as pure Technopop waned, hair metal emerged as a significant form of rock music in the US, demonstrating rock's renewed strength and providing an alternative to the electronic trends. "In the US, rock began flexing its muscles again, think hair metal and the growing interest in Indian alternative music." ← Ongoing History of New Music > The Post-Punk Explosion Part 2： Techno-Pop | https://www.youtube.com/watch?v=5PJRCC6EwUY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- Alice in Chains
-- John Ondrasik
-- Lane Staley
-- Mötley Crüe
-- Poison
-- White Snake
+- Taylor Hawkins
 

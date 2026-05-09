@@ -2,9 +2,9 @@
 
 ## member of
 - Beady Eye
+- Oasis
 - E-Racer
 - Erasure
-- Oasis
 - Ride
 
 ## curiosities
@@ -15,4 +15,3 @@
 **Prominent LGBTQ+ Figure of the 80s** : Andy Bell is recognized as one of the most important figures of the 1980s for the LGBTQ+ community, especially during a challenging era for these collectives. His activism and visibility made him a key protagonist in the fight for rights. "era uno de los grandísimos protagonistas de los 80, que era un poco la época más dura para todos estos colectivos." ← Music Radar Clan > Erasure y Vince Clarke | https://www.youtube.com/watch?v=aqEBoxXXAv8&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← andy-bell
 **Solo Project Alongside Erasure** : Andy Bell pursued a small solo project that complemented his work with Erasure, demonstrating his ongoing creativity while maintaining his commitment to the main band. This parallel endeavor did not interrupt Erasure's continuous work. "Andy Bell también tuvo su pequeño proyecto en solitario, completado complementario a AirHor." ← Music Radar Clan > Erasure y Vince Clarke | https://www.youtube.com/watch?v=aqEBoxXXAv8&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← andy-bell
 **Transformative Impact on Vince Clarke's Music** : While Andy Bell's contribution to Erasure's first album, *Wonderland*, was limited due to already completed material, his incredible personality and interpretive style later brought a new, romantic, dreamy, and sometimes melancholic touch to Vince Clarke's compositions. This unique interpretation gave Erasure a much more complete sound. "esa increíble personalidad Andy Bell le empezó a dar un toque totalmente nueva la música de Vince Clark." ← Music Radar Clan > Erasure y Vince Clarke | https://www.youtube.com/watch?v=aqEBoxXXAv8&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← andy-bell
-

@@ -2,20 +2,19 @@
 
 ## members
 - John Fogarty
-- John Fogerty
 - Tom Fogarty
+- John Fogerty
 - Tom Fogerty
+
+## songs
+**Fortunate Son (1969)** : This song, written by John Fogerty, was inspired by the disparity where children of wealthy and connected parents received draft deferments for the Vietnam War. It was controversially played during Donald Trump's presidential campaign, despite Trump himself receiving five draft deferments and at the same time being reported to have called soldiers and war dead "losers and suckers." "fortune at sun by credence clearwater revival, which was inspired by the kids of rich and connected parents getting draft affirmants for Vietnam, which is exactly what happened with Donald Trump five times." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
+
+## curiosities
+**Sibling Rivalry** : The band experienced a rivalry between brothers John Fogarty and Tom Fogarty. "John versus Tom Fogarty of Creedence Clearwater Revival." ← https://www.youtube.com/watch?v=5bB7GAUM63Y
+**Intra-Band Conflict** : John and Tom Fogerty, brothers and members of Creedence Clearwater Revival, experienced significant conflict. "John versus Tom Fogarty of Creedence, Clearwater Revival." ← https://www.youtube.com/watch?v=cjWxC2jQVrA ← creedence-clearwater-revival
 
 ## instruments
 - Rickenbacker
 
 ## albums
 **Green River (1969)** : The album *Green River* was prevented from reaching the number one spot on the charts specifically because of the chart dominance of The Archies' "Sugar Sugar." The band had five songs make it to number two and then stall out, with "Green River" being one of them. "The reason why Green River could not make it to number one is because of this song." ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum
-
-## songs
-**Fortunate Son (1969)** : This song, written by John Fogerty, was inspired by the disparity where children of wealthy and connected parents received draft deferments for the Vietnam War. It was controversially played during Donald Trump's presidential campaign, despite Trump himself receiving five draft deferments and at the same time being reported to have called soldiers and war dead "losers and suckers." "fortune at sun by credence clearwater revival, which was inspired by the kids of rich and connected parents getting draft affirmants for Vietnam, which is exactly what happened with Donald Trump five times." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ ← creedence-clearwater-revival
-
-## curiosities
-**Intra-Band Conflict** : John and Tom Fogerty, brothers and members of Creedence Clearwater Revival, experienced significant conflict. "John versus Tom Fogarty of Creedence, Clearwater Revival." ← https://www.youtube.com/watch?v=cjWxC2jQVrA ← creedence-clearwater-revival
-**Sibling Rivalry** : The band experienced a rivalry between brothers John Fogarty and Tom Fogarty. "John versus Tom Fogarty of Creedence Clearwater Revival." ← https://www.youtube.com/watch?v=5bB7GAUM63Y ← creedence-clearwater-revival
-

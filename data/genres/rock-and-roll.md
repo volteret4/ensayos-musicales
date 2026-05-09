@@ -1,6 +1,16 @@
-# genre - Rock and Roll
+# genre - Rock and roll
 
 ## curiosities
+**Blamed for Counterculture Issues (1960s-1970s)** : With the rise of the counterculture in the 1960s and early 1970s, rock music became a scapegoat for conservative critics. It was blamed for promoting various social changes, including long hair, the sexual revolution, drug use, and opposition to foreign wars, intensifying the "apple-plactic" reaction from traditional society. "They played music for everything from long hair to the sexual revolution to drug use to opposition against foreign wars." ← https://www.youtube.com/watch?v=41eKVp8JIhU
+**Blamed for Youth Behavior (1960s-1970s)** : Throughout the 1960s and 1970s, conservative parents, politicians, and religious groups consistently blamed rock and R&B music for encouraging violence, drug use, immoral behavior, and other perceived negative actions among young people. This blame further escalated with the advent of metal and punk music in the 1970s. "Parents, politicians and religious groups had no trouble blaming contemporary music. Rock and R&B especially, for promoting violence, drug use, immoral behavior, and everything else that their kids were doing or might do." ← https://www.youtube.com/watch?v=41eKVp8JIhU
+**Creation of Generation Gaps** : The emergence of rock and roll led to the formation of "huge generation gaps," indicating its significant impact on cultural divisions between younger and older generations. ← https://www.youtube.com/watch?v=m7MbV-eCLyE
+**Early Condemnation as "Devil's Music" (1950s)** : Upon its emergence in the 1950s, rock and roll was widely condemned, particularly in the United States and across the Western world, as "the devil's music." Critics feared its associated dancing and energetic performances would lead youth down a path of immorality, destruction, disrespect, and godlessness, triggering widespread rallies and record burnings. "All this dancing and gyrating and hootin' and hollering was labeled the devil's music. It beckoned youth down a dangerous path towards immorality and destruction." ← https://www.youtube.com/watch?v=41eKVp8JIhU
+**Extraordinary Events** : Sometimes "something extraordinary happens" in rock and roll, akin to a "perfect storm" where cultural, political, demographic, economic, scientific, and technological factors align to create something entirely new and unexpected. "Every once in a while, something extraordinary happens in rock and roll. I hate to use the cliche of a perfect storm, but that's exactly what I'm talking about." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
+**Narrow Musical Idiom** : Within the broader scope of musical note combinations, the idiom and aesthetics of rock and roll represent a significantly narrower range of pleasing musical patterns. This narrowed scope increases the likelihood of musical repetition and similarities between songs. "And if we narrow things down further to, let's say, the idiom and aesthetics of rock and roll, we have an even narrower." ← https://www.youtube.com/watch?v=L09R2evjyMc
+**Origin of Current Popular Music Era** : The current era of popular music is traced back to the birth of rock and roll in the early 1950s. Approaching 70 years old, this era is now prone to repetition and, potentially, stagnation due to the finite nature of musical components like the 12 notes in the Western scale and chord changes. ← https://www.youtube.com/watch?v=m7MbV-eCLyE
+**Origin of the Term "Rock and Roll"** : The term "rock and roll" as a genre descriptor originated from disc jockey Allan Freed's need to rebrand his radio show after a lawsuit with Moondog. Freed decided to use an African-American slang phrase for sex, which was understood by the youth but overlooked by parents, thus becoming the defining term for the new music of the 1950s. "That's how rock and roll came to be used to describe this new sort of music in the 1950s." ← https://www.youtube.com/watch?v=6SdPPsmpgJg
+**Protestant Denominations' Moral Fight (1950s onwards)** : As the Catholic Church's influence waned, many Protestant denominations, particularly Evangelical Churches in America, spearheaded a renewed moral fight against contemporary music. This battle intensified with the rise of rock and roll in the 1950s, which they believed was incompatible with a "world of clean living." "And this battle really ramped up with the rise of rock and roll in the 1950s. You see, to them, rock and roll had no place in a world of clean living." ← https://www.youtube.com/watch?v=41eKVp8JIhU
+**Shift in Guitar Tones by Fuzz** : The accidental failure of a transformer in a recording console while Grady Martin was recording in late 1960 led to the invention of the fuzz pedal, which fundamentally changed the sound of the electric guitar in rock and roll. Previously, electric guitars aimed for clean, clear sounds like an acoustic; fuzz introduced powerful, raunchy distortion, making the distorted guitar sound "forever front and center." "When satisfaction was being written and recorded, he heard that riff being played by a horn section and he set the pedal to sound like maybe a saxophone or something close to it." ← https://www.youtube.com/watch?v=6SdPPsmpgJg
 **"60 Minute Man" and "Rock 'Em, Roll 'Em" Lyric** : The term "rock and roll" also appeared in songs like "60 Minute Man" by Billy Ward and His Dominoes. This song included the explicit line, "I Rock'em, I Roll'em, all night long," further illustrating the early, suggestive use of the phrase within R&B music before its adoption as a genre label. "Including Billy Ward and his Dominoes, who released a song called 60-Minute Man that included the line, I Rock'em, I Roll'em, all night long." ← Ongoing History of New Music > Driven By Her： Unsung Heroines | https://www.youtube.com/watch?v=oRR7N-YUcRE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **"Devil's Music" and Racial Undertones (1950s)** : Emerging in the early 1950s, rock and roll, exemplified by songs like "Rocket 88," was initially perceived as "the devil's music." It was a blend of rhythm and blues (then called "race records") with hillbilly and country music, frightening "decent folks." There were also "uptight, let's face it, racist views" against white kids listening to "black music with its jungle drums." "This was the devil's music." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 1 | https://www.youtube.com/watch?v=6oUkMOkEr9U&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **"Man's World" and Patriarchy** : The rock and roll industry in the 1970s was predominantly a "man's world," characterized by a patriarchal society where women struggled to make their way and were often considered a "novelty." Discussing their musical achievements often necessitated acknowledging their gender and the pervasive misogyny of the era. "Rock and roll was a man's world. The music industry was a patriarchal society and women who tried to make their way in it or did make their way in it were unique." ← For the Record - The 70s > Ep. 7 - Women Who Rocked the 70s | http://www.ftr70.com
@@ -127,38 +137,8 @@
 **Western Soft Power Weapon** : Western rock and roll was a significant component of the US's "soft power" strategy during the Cold War, aimed at subtly undermining Soviet influence and spreading American ideology. The music was exported to create demand for capitalistic culture and inspire social instability by causing oppressed people to grumble about their conditions and absorb messages that softened attitudes toward the West. "And Western rock and roll was a very big part of this." ← Ongoing History of New Music > The Great KGB Punk Conspiracy | https://www.youtube.com/watch?v=NyKvAhO7MHE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- 38 Special
-- Alan Freed
-- April Wine
-- Arkells
-- Big Joe Turner
-- Bill Haley and His Comets
-- Bo Diddley
-- Chuck Berry
-- David Bowie
-- Elvis
+- Duane Eddy
 - Elvis Presley
-- Foo Fighters
-- Ian Dury and the Blockheads
-- Iggy Pop and the Stooges
-- Jerry Lee Lewis
-- Joe Meek
-- Kings of Leon
-- Kyle Perkins
-- Led Zeppelin
-- Little Richard
-- Manic Street Preachers
-- Mojo Nixon
-- Oasis
-- Queen
-- Ramones
-- Sigue Sigue Sputnik
-- Sister Rosetta Tharp
-- Sister Rosetta Tharpe
-- Steely Dan
-- Taylor Hawkins
+- Link Wray
 - The Beatles
-- The New York Dolls
-- The Tragically Hip
-- U2
 

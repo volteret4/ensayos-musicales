@@ -1,5 +1,0 @@
-# artist - Flipper
-
-## genres
-- Punk
-

@@ -1,5 +1,11 @@
 # artist - Jandek
 
+## labels
+- Corwood Industries
+
+## albums
+**Living in a Moon So Blue (1982) – One of 50+ Albums by Houston's Most Mysterious Outsider Artist** : Jandek (believed to be Sterling Richard Smith of Houston, Texas) has been releasing albums since 1978 on his own Corwood Industries label — more than 51 records on vinyl, CD, and DVD — communicating only through an anonymous Houston P.O. box. His music features wacky tunings, stream-of-consciousness lyrics, off-key singing, and unusual chord structures, delivered with absolute earnestness. A documentary, *Jandek on Corwood*, was made about him; he began making live appearances for the first time in 2004, including a sold-out Toronto show. "Since 1978, Jandek has released no fewer than 51 indie albums on his own label called Corwood Industries." ← https://www.youtube.com/watch?v=Dt7mb4yyuWM
+
 ## members
 - Decker (referenced in name origin)
 - Sterling Smith
@@ -10,14 +16,8 @@
 - Spoken Word
 - Texas Blues Country Music
 
-## labels
-- Corwood Industries
-
 ## concerts
 - **Glasgow Festival (2004)** : Jandek performed live at a small festival in Glasgow in October 2004, marking what is believed to be his first public performance ever. "In October 2004, he performed live at a small festival in Glasgow. As far as anyone knows, this was the first time Jandec played in public."
-
-## albums
-**Living in a Moon So Blue (1982) – One of 50+ Albums by Houston's Most Mysterious Outsider Artist** : Jandek (believed to be Sterling Richard Smith of Houston, Texas) has been releasing albums since 1978 on his own Corwood Industries label — more than 51 records on vinyl, CD, and DVD — communicating only through an anonymous Houston P.O. box. His music features wacky tunings, stream-of-consciousness lyrics, off-key singing, and unusual chord structures, delivered with absolute earnestness. A documentary, *Jandek on Corwood*, was made about him; he began making live appearances for the first time in 2004, including a sold-out Toronto show. "Since 1978, Jandek has released no fewer than 51 indie albums on his own label called Corwood Industries." ← https://www.youtube.com/watch?v=Dt7mb4yyuWM ← jandek
 
 ## songs
 **12 Minutes Since February 22nd** : This song exemplifies Jandek's strange musical style, which combines Texas Blues Country music, barely electric boogie, spoken word, and various other eccentric elements. "This is called 12 Minutes Since February 22nd. It's been 12 Minutes Since February 22nd." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← jandek
@@ -33,4 +33,3 @@
 **Post-Debut Performances and Media** : Since his first public performance in October 2004, Jandek has played on average a couple of shows per year, always with different backing musicians, without promotion or post-event acknowledgment. A film of a Toronto performance exists, and a one-act play featuring Jandek ran on PBS. "Several other appearances followed, all with no promotion and get this, no acknowledgement afterwards that they ever happened. Since then, Jandec has played on average a couple of shows per year, each time with different backing musicians. There was a film of a performance in Toronto and then a one-act play featuring Jandec that ran on PBS." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← jandek
 **Prolific and Anonymous Output** : Jandek has released approximately 100 albums and DVDs, sometimes up to five per year, none of which include biographical information or more than nonexistent liner notes. His financing was unknown, though evidence in 1986 suggested he might have been a machinist. "Keeping track of Jandec is hard. These release somewhere around 100 albums and DVDs, sometimes up to 5 a year. None have ever come with any biographical information. Dinner notes are almost nonexistent. No one knew who this guy was or what he was trying to accomplish or how he was financing this operation, although evidence emerged in 1986 that he was some kind of machinist, so maybe he had a day job." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← jandek
 **Unknown Guest Musicians** : Some of Jandek's songs feature guest appearances from other musicians, but nothing is known about their identities either. "Some songs feature guest appearances from other musicians, but nothing is known about them, either." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← jandek
-

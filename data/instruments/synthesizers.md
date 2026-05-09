@@ -1,6 +1,7 @@
-# instrument - Synthesizers
+# instrument - synthesizers
 
 ## curiosities
+**Moroder's Pioneering Experimentation** : Giorgio Moroder, an Italian composer, was a key figure in experimenting with the new synthesizers that were emerging. His innovative use of these instruments resulted in a distinctive, futuristic sound, notably in Donna Summer's "I Feel Love," which profoundly inspired other musicians and electronic music genres. "Director Alan Parker made an interesting choice when it came to composing the music. He chose Georgioma Rotor, an Italian who was experimenting with the new synthesizers that were coming out." ← https://www.youtube.com/watch?v=zIkjd1OjCXM
 **"Godsend" for Technopop (Late 1970s)** : Cheaper, portable, and more powerful synthesizers became a "godsend" at the end of the 1970s. Their ease of operation allowed musicians to create songs by fiddling with sounds, prioritizing attitude over traditional musical ability. "The new cheaper, portable and more powerful synthesizer was a godsend. You really didn't have to know much about music to operate one." ← Ongoing History of New Music > The Post-Punk Explosion Part 3： Industrial | https://www.youtube.com/watch?v=zSFhhEaiYwE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **1980s Tribute in "Always"** : Blink 182's song "Always" from their self-titled album prominently featured synth sounds as part of its tribute to 1980s music. "The song was their tribute to the 80s, with its synth sounds." ← Ongoing History of New Music > The Rise and Fall and Rise of Blink 182 Part 2 | https://www.youtube.com/watch?v=_tkLRJiOBu0&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Central to Nine Inch Nails' Early Sound** : In the early days of Nine Inch Nails, Trent Reznor heavily relied on synthesizers and computers due to his limited guitar experience. This allowed him a "pretty big palette of sounds" to simulate various instruments and create the desired textures for "Pretty Hate Machine." "It wasn't really based on, can I play the guitar because I can simulate that through the computer." ← Ongoing History of New Music > Deep Dark Secrets of Nine Inch Nails | https://www.youtube.com/watch?v=M3nUQtja0qc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -17,15 +18,4 @@
 **Theme Song Composition** : Synthesizers were used by imaging producer Amin Batia in 1993 for the composition of the ongoing history show's theme song. "The theme song is a combo of me doing stuff with my synthesizers, some production library stuff, some sound effects." ← Ongoing History of New Music > OGHONM 1000th Episode： The Q&A From the Live Recording | https://www.youtube.com/watch?v=4xxgPX-aR90&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Trent Reznor's Early Fascination** : Synthesizers were a profound source of inspiration for Trent Reznor from a young age. He found them, along with drum machines from bands like The Human League, OMD, and Depeche Mode, "really cool," to the extent that he once considered a job working for a company that made them. "But the synthesizers and drum machines of the human league and OMD and Depeche mode. Now that was really cool." ← Ongoing History of New Music > Deep Dark Secrets of Nine Inch Nails | https://www.youtube.com/watch?v=M3nUQtja0qc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Usage in Antichrist Superstar** : Synthesizers were utilized in Marilyn Manson's "Antichrist Superstar," contributing to its complex musicality, alongside elements of New Wave and various rock and metal genres. "y desintetizadores." ← Music Radar Clan > Cómo Marilyn Manson revolucionó el mundo con Antichrist Superstar | https://www.youtube.com/watch?v=P0QBVwi9KZQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
-
-## artists
-- Björk
-- Blink 182
-- Boards of Canada
-- Brian Eno
-- Depeche Mode
-- Joy Division
-- New Order
-- Nitzer Ebb
-- Trent Reznor
 

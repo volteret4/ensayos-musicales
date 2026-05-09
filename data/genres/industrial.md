@@ -1,6 +1,7 @@
-# genre - Industrial
+# genre - industrial
 
 ## curiosities
+**David Bowie's Incorporation (1997)** : Industrial music was one of the new dance genres that David Bowie became interested in and incorporated into his 1997 album, *Earthling*. This was seen by some as Bowie giving his official recognition to the genre. "He'd become interested in various new genres of dance music, including industrial, techno, jungle, and drum and bass." ← https://www.youtube.com/watch?v=Yq2A_o9-ulM
 **80s Alt-Rock Radio Inclusion** : Industrial music was among the diverse genres featured on alt-rock radio playlists in the 1980s, demonstrating the broad range of music played before the rise of grunge. ← Ongoing History of New Music > Theories, Thoughts, and Half-Baked Ideas | https://www.youtube.com/watch?v=eqTFinLk3oU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Basic Enduring Sound** : Industrial music is listed as one of the basic and enduring sounds that will never go away, but is continuously challenged by new genres. "The basic sounds are still with us. Rock, alternative, indie, Goth, industrial, metal, synth-based music, ska, reggae, and so on. They're never going to go away." ← Ongoing History of New Music > The History of the 2010s Part 3： The New Genres | https://www.youtube.com/watch?v=tdTs-4Irv8c&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **British Invention and Rapid Spread** : Industrial music was a British invention that emerged quickly following the punk movement. Alongside Goth, Technopop, and Modern Skah, it experienced rapid dissemination and often a brief existence, influenced by the intense cultural churn within the British Isles. "There was Goth and Tecdopop and Industrial, Modern Skah, which were all basically British inventions." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 9 | https://www.youtube.com/watch?v=zB5zxycrbnY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -20,23 +21,5 @@
 **US Military Lawsuit (2014)** : Canadian industrial pioneer Skinny Puppy sued the US military for $666,000 in 2014 after discovering their music was used without permission for "enhanced interrogation" on prisoners at Guantanamo Bay, as revealed by a former guard. "In 2014, Canadian industrial pioneer Skinny Puppy sued the US military for using their music on prisoners." ← Ongoing History of New Music > Using Music as a Weapon | https://www.youtube.com/watch?v=R1wdsGt07Gg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- Al Jourgensen
-- Andrea Hogan (Hügellands Roondance)
-- Björk
 - David Bowie
-- Delirium
-- Devo
-- Fever 333
-- Front 242
-- Jackalope
-- Marilyn Manson
-- Ministry
-- Nine Inch Nails
-- Nine-inch nails
-- Nitzer Ebb
-- Psychic TV
-- Public Image Limited
-- Skinny Puppy
-- The Soft Moon
-- Trent Reznor
 

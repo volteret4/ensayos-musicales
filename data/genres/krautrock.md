@@ -1,7 +1,7 @@
 # genre - Krautrock
 
 ## curiosities
-**Attitude Towards Experimentation** : Krautrock contributed to tracing the experimental attitude that defined post-rock, following earlier influences like The Velvet Underground. "Then we trace this attitude towards experimentation through things like crowd rock, David Bowie, public image limited, and the no wave seen in New York." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← krautrock
+**Attitude Towards Experimentation** : Krautrock contributed to tracing the experimental attitude that defined post-rock, following earlier influences like The Velvet Underground. "Then we trace this attitude towards experimentation through things like crowd rock, David Bowie, public image limited, and the no wave seen in New York." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
 **Bowie's "Krautrock Muse"** : David Bowie actively followed his "Krautrock Muse," heavily influenced by German bands like Kraftwerk, Can, and Neu!, which shaped the sound of his Berlin albums "Low" and "Heroes." "Bowie continued to follow his Crout Rock Muse." ← https://www.youtube.com/watch?v=rw0uXf5UJvo ← krautrock
 **Characterized by Specific Elements** : Krautrock is identifiable by its unique sound, which includes a distinct beat, the pervasive use of electronics, an "icy coldness," a sometimes droning approach, tasteful improvisations, and a deliberate departure from rock's traditional rhythm and blues roots. These elements allowed it to work its way into many forms of rock. "The beat, the use of electronics, the icy coldness, the sometimes use of a drony approach, the tasteful improvisations, and above all, a move far, far away from rock's traditional roots, which of course is rhythm and blues." ← https://www.youtube.com/watch?v=ePZDkqLM_gw ← krautrock
 **Declining Influence on Lodger** : David Bowie's *Lodger* album marked a departure from previous works in the Berlin Trilogy by having significantly fewer influences from classic German Krautrock bands. "no tiene tantas influencias de esas bandas clásicas del que Rock Aleman." ← Music Radar Clan > David Bowie： La trilogía de Berlin 3 | https://www.youtube.com/watch?v=kU1JcEjezIc&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← krautrock
@@ -11,7 +11,6 @@
 **Influence on Electronic Music** : Krautrock is mentioned as an influence on the sound of Boards of Canada, contributing to their unique electronic style. "tiene influencias de Brian Eno, de tangera indream del crowd rock." ← Music Radar Clan > BOARDS OF CANADA. La visión romántica del IDM | https://www.youtube.com/watch?v=llE5K5hjwVg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← krautrock
 **Influence on Joy Division** : Krautrock was a key influence on Joy Division's sound, especially as guided by producer Martin Hannett. Hannett steered the band towards a sound that sometimes approached Krautrock, alongside other experimental electronic music styles. "los aferca a veces incluso al Crab Rock." ← Music Radar Clan > Especial JOY DIVISION： 2. Unknown Pleasures | https://www.youtube.com/watch?v=I9nK6TmzqGs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← krautrock
 **Influence on Post-Punk** : Krautrock began to make serious inroads into the UK after British labels like Virgin Records signed numerous bands, viewing it as a form of prog rock. This exposure significantly changed post-punk music in the country, influencing its sound with icy coldness, hypnotic rhythms, and electronic elements. "This is how crop rock started to make serious inroads into the UK, inroads that changed post-punk music in the country." ← https://www.youtube.com/watch?v=ePZDkqLM_gw ← krautrock
-**Influence on Post-punk** : Krautrock was a significant influence on post-punk bands like Joy Division, contributing to their experimental, non-instrumental, and background soundscapes. "tenía influencias del crowd rock, tenía influencias de can, tenían influencias de pin flow y de la velvet underground" ← Music Radar Clan > Especial JOY DIVISION： 1. Inicios en la escena post-punk | https://www.youtube.com/watch?v=CMtcKk1o3ac&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← krautrock
 **Influences and Approaches** : This music blended psychedelic rock and electronic music, bravely exploring approaches not rooted in the traditional blues and R&B of standard rock. "They liked psychedelic rock and electronic music. And they were brave enough to try approaches that weren't necessarily rooted in the blues and R&B traditions of standard rock." ← https://www.youtube.com/watch?v=pLf3kUONewg ← krautrock
 **International Diffusion (Late 1970s)** : In the late 1970s, German Krautrock had significant diffusion within Europe, but its reach was considerably limited outside the continent. While some bands like Kraftwerk were known in the United States, the genre did not achieve widespread mainstream success or major chart presence there. ← Music Radar Clan > David Bowie： La trilogía de Berlin 2 | https://www.youtube.com/watch?v=OpwDA0bUMw8&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← krautrock
 **Nomenclature: "Kajshmi music" vs. "Krautrock"** : Germans initially called it "Kajshmi music" (cosmic music), but a "cheeky Brit" coined the name "Krautrock," which ultimately stuck. "The Germans called it Kajshmi music, cosmic music. But then some cheeky Brit decided it should be called Kratrock and that name stuck." ← https://www.youtube.com/watch?v=pLf3kUONewg ← krautrock
@@ -22,10 +21,4 @@
 
 ## artists
 - Can
-- Cluster
-- David Bowie
-- Depeche Mode
-- Kraftwerk
-- Neu!
-- Stereolab
 

@@ -1,14 +1,8 @@
 # artist - Kirk Hammett
 
 ## member of
-- Kirk Hammett
 - Metallica
-- Robert
-
-## members
-- James
 - Kirk Hammett
-- Lars
 - Robert
 
 ## instruments
@@ -16,11 +10,11 @@
 - Wawa pedal
 
 ## songs
-**Enter Sandman (Year)** : Kirk Hammett extensively uses the wah-wah pedal throughout Metallica's song "Enter Sandman," demonstrating the enduring presence and impact of this effect in rock music. "Kirk Hammett uses it all the way through Metallica's Inter Sandman." ← https://www.youtube.com/watch?v=6SdPPsmpgJg ← kirk-hammett
+**Enter Sandman (Year)** : Kirk Hammett extensively uses the wah-wah pedal throughout Metallica's song "Enter Sandman," demonstrating the enduring presence and impact of this effect in rock music. "Kirk Hammett uses it all the way through Metallica's Inter Sandman." ← https://www.youtube.com/watch?v=6SdPPsmpgJg
 
 ## curiosities
+**Bunk Swap with Cliff Burton (September 27, 1986)** : On the night of the fatal bus crash that killed Cliff Burton, Kirk Hammett's usual bunk was chosen by Burton after a card game. Hammett, indifferent, opted for another bunk, inadvertently avoiding the fatal spot. "Cliff drew the Ace of Spades which was the high card so he got to choose his bunk first. And he chose the bunk that Kirk Hammett had been using." ← https://www.youtube.com/watch?v=dVJuITJyNTU
 **"It's Alive" Exhibition at ROM** : Hammett's extensive, comprehensive, and well-preserved collection of classic horror movie posters and artwork is deemed significant enough to be featured in major museum exhibitions, including "It's Alive: Classic Horror and Sci-Fi Art from the Kirk Hammett Collection" at the Royal Ontario Museum (ROM) in Toronto. This exhibition ran from July 12, 2019, until January 5, 2020, with plans to tour other museums globally thereafter. "This collection is so big and so comprehensive and so well preserved that it's the subject of exhibitions at major museums, including the Royal Ontario Museum in Toronto." ← https://www.youtube.com/watch?v=CgDCaUxbQDU ← kirk-hammett
-**Bunk Swap with Cliff Burton (September 27, 1986)** : On the night of the fatal bus crash that killed Cliff Burton, Kirk Hammett's usual bunk was chosen by Burton after a card game. Hammett, indifferent, opted for another bunk, inadvertently avoiding the fatal spot. "Cliff drew the Ace of Spades which was the high card so he got to choose his bunk first. And he chose the bunk that Kirk Hammett had been using." ← https://www.youtube.com/watch?v=dVJuITJyNTU ← kirk-hammett
 **Childhood Interest in Horror** : Hammett's fascination with horror began around age five or six, in the late 1960s or early 1970s. He was initially drawn to the genre because it offered a distinctly different feel and atmosphere compared to the prevalent Disney movies and cartoons that defined much of the culture he experienced as a child. "It was something that I was attracted to initially because it was so different and had a different sort of feel and atmosphere to a lot of the culture I was getting at the time as a 5 or 6 year old, you know, that would have entailed a lot of Disney movies and cartoons." ← https://www.youtube.com/watch?v=CgDCaUxbQDU ← kirk-hammett
 **Collection Focus on Universal Monsters** : While he enjoys most horror movies from the turn of the last century to modern times, Hammett primarily focuses his collection on classic Universal horror monsters and movies from the early 1930s. His key interest lies in characters such as Frankenstein, Dracula, The Mummy, Wolfman, Phantom of the Opera, Creature from the Black Lagoon, and The Hunchback. "But I try to keep it to what I really love and what means the most to me, which is the classic universal horror monsters and those movies that came out in the early 30s." ← https://www.youtube.com/watch?v=CgDCaUxbQDU ← kirk-hammett
 **Discovery of Rare Posters** : When Hammett started collecting over three decades ago, the existence of a "Frankenstein 3 sheet" or a "Mummy 3 sheet" poster was entirely unknown. He subsequently found both, and these pieces currently represent the only known copies of their kind in the world. "when I first started 30 years ago, no one knew that there was a Frankenstein three sheet out there or a mummy three sheet. I mean, I found both." ← https://www.youtube.com/watch?v=CgDCaUxbQDU ← kirk-hammett
@@ -35,3 +29,8 @@
 **John Marshall as Guitar Tech** : Kirk Hammett of Metallica has John Marshall as his dedicated guitar tech. Marshall, who previously played guitar for Metal Church, transitioned to this role for Metallica. "John Marshall was a guitarist for the band Metal Church before he was picked to be Kirk Hammett's guitar tech in Metallica." ← https://www.youtube.com/watch?v=ZVGnSVfed9s ← kirk-hammett
 **Preference for Thematic Horror** : Hammett prefers horror movies with supernatural, monster, outer space, or paranormal themes, tending to avoid overtly violent horror. He sees "torture porn" as a "cheap thrill" that often lacks the plot and intrigue he values, making it difficult for him to recognize any artistry in it. "I tend to shy away from horror movies that are overtly violent. You know, I like horror but I don't like horror for the sake of it." ← https://www.youtube.com/watch?v=CgDCaUxbQDU ← kirk-hammett
 
+## members
+- James
+- Kirk Hammett
+- Lars
+- Robert

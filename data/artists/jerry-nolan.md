@@ -3,6 +3,6 @@
 ## member of
 - Heartbreakers
 - New York Dolls
-- The Heartbreakers
 - The New York Dolls
+- The Heartbreakers
 

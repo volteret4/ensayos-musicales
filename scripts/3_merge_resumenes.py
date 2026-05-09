@@ -5,6 +5,7 @@ from collections import defaultdict
 
 RESUMENES_FOLDER   = './resumenes'
 DATA_FOLDER        = './data'
+PENDING_FOLDER     = './pendiente'
 TRANSCRIPTS_FOLDER = './transcripts'
 
 ENTRY_RE = re.compile(r'^\*\*(.+?)\*\*\s*:\s*(.+)')
@@ -390,6 +391,14 @@ def write_standalone_curiosities(standalone, out_dir):
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
+def _existing_slugs(base_dir, subdir):
+    """Return set of .md slugs already in base_dir/subdir/."""
+    d = os.path.join(base_dir, subdir)
+    if not os.path.isdir(d):
+        return set()
+    return {fn[:-3] for fn in os.listdir(d) if fn.endswith('.md')}
+
+
 def main():
     artists, genres, labels, concerts, instruments, standalone = {}, {}, {}, {}, {}, {}
 
@@ -397,11 +406,15 @@ def main():
     if os.path.exists(DATA_FOLDER):
         parse_folder(DATA_FOLDER, artists, genres, labels, concerts, instruments, standalone)
 
-    # 2. Mezclar nuevos resumenes
+    # 2. Cargar entidades pendientes (para no perder info en re-ejecuciones)
+    if os.path.exists(PENDING_FOLDER):
+        parse_folder(PENDING_FOLDER, artists, genres, labels, concerts, instruments, standalone)
+
+    # 3. Mezclar nuevos resumenes
     if os.path.exists(RESUMENES_FOLDER):
         parse_folder(RESUMENES_FOLDER, artists, genres, labels, concerts, instruments, standalone)
 
-    # 3. Construir índice inverso: entidad → artistas que la usan
+    # 4. Construir índice inverso: entidad → artistas que la usan
     entity_artists = {
         'genre':      defaultdict(set),
         'label':      defaultdict(set),
@@ -414,9 +427,18 @@ def main():
         for c in a.concerts:    entity_artists['concert'][c].add(a.name)
         for i in a.instruments: entity_artists['instrument'][i].add(a.name)
 
-    # 4. Guardar con el formato exacto requerido por md_to_sqlite.py
-    artist_dir = os.path.join(DATA_FOLDER, 'artists')
-    for a in artists.values(): write_artist(a, artist_dir)
+    # 5. Guardar: existentes → data/, nuevos → pendiente/
+    data_artist_slugs = _existing_slugs(DATA_FOLDER, 'artists')
+    artist_dir         = os.path.join(DATA_FOLDER,   'artists')
+    pending_artist_dir = os.path.join(PENDING_FOLDER, 'artists')
+    n_updated = n_pending = 0
+    for a in artists.values():
+        if slug(a.name) in data_artist_slugs:
+            write_artist(a, artist_dir)
+            n_updated += 1
+        else:
+            write_artist(a, pending_artist_dir)
+            n_pending += 1
 
     for etype, store, subdir in [
         ('genre',      genres,      'genres'),
@@ -424,9 +446,12 @@ def main():
         ('concert',    concerts,    'concerts'),
         ('instrument', instruments, 'instruments'),
     ]:
-        d = os.path.join(DATA_FOLDER, subdir)
+        data_slugs = _existing_slugs(DATA_FOLDER, subdir)
+        d          = os.path.join(DATA_FOLDER,   subdir)
+        pending_d  = os.path.join(PENDING_FOLDER, subdir)
         for e in store.values():
-            write_entity(etype, e, d, artist_names=entity_artists[etype].get(e.name))
+            out_dir = d if slug(e.name) in data_slugs else pending_d
+            write_entity(etype, e, out_dir, artist_names=entity_artists[etype].get(e.name))
 
     write_standalone_curiosities(standalone, DATA_FOLDER)
 
@@ -435,6 +460,8 @@ def main():
     print(f"Mezcla finalizada: {n_artists} artistas ({n_members} con member_of), "
           f"{len(genres)} géneros, {len(labels)} sellos, "
           f"{len(concerts)} conciertos, {len(instruments)} instrumentos.")
+    if n_pending:
+        print(f"  → {n_updated} artistas actualizados en data/, {n_pending} nuevos en pendiente/")
 
 if __name__ == '__main__':
     main()

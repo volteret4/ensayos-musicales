@@ -1,9 +1,9 @@
 # artist - The Doobie Brothers
 
 ## members
+- Jeff "Skunk" Baxter
 - (one former member of Clover)
 - Bobby LaKind
-- Jeff "Skunk" Baxter
 - Tom Johnston
 
 ## genres
@@ -23,4 +23,3 @@
 **Clover Member's Post-Breakup Path** : Following the breakup of the American band Clover in 1978, one of its members joined The Doobie Brothers. This individual later left music altogether to become a chiropractor. "One guy joined the Dubie Brothers before quitting music to become a chiropractor." ← https://www.youtube.com/watch?v=itK5fEqnA5E ← the-doobie-brothers
 **Performance on The Midnight Special (1973)** : The Doobie Brothers performed "Jesus Is Just Alright" on the TV show *The Midnight Special* in 1973. "You can still find the video of the Dubie Brothers performing that on the Midnight Special in 1973." ← For the Record - The 70s > Ep. 32 - Take Me to Church - Religion in 70s Popular Music | https://seventies.libsyn.com/ep-32-take-me-to-church-religion-in-70s-popular-music
 **Unintentional Religious Following** : The Doobie Brothers' cover of "Jesus Is Just Alright" was not recorded with religious intent; band member Tom Johnston stated they were "just musicians outplaying a gig." However, the song's popularity attracted religious fans, known as "one-wayers," who would attend their shows, point their fingers skyward, and even throw scriptures onto the stage, much to the band's initial confusion. "Little did they know they were trying to enlist the support of the wrong guys." ← For the Record - The 70s > Ep. 32 - Take Me to Church - Religion in 70s Popular Music | https://seventies.libsyn.com/ep-32-take-me-to-church-religion-in-70s-popular-music
-
