@@ -52,6 +52,7 @@
 **Warped Tour Content Pivot (1996)** : Following its sponsorship by Vans in 1996, the Warped Tour underwent a content pivot, moving from broad-range alternative music to specifically focus on punk and other genres that complemented skate culture. "Kevin moved the festival from broad range alternative to focusing on punk and other music that went well with skate culture." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
 **Warped Tour Focus** : The Warped Tour, created by Kevin Lyman, was primarily focused on punk music when it started in 1995, though it eventually branched out into other genres like hip-hop. "Warped was primarily about punk, but eventually it branched out into different genres like hip-hop." ← https://www.youtube.com/watch?v=7JP2tjJibTQ
 **Wholesome Rider Example – Ramones** : The Ramones' backstage rider was characterized as "pretty wholesome for a punk band," suggesting a contrast with common perceptions or demands associated with the genre. "Pretty wholesome for a punk band, right?" ← https://www.youtube.com/watch?v=z2hvUDtBxho
+**Successor to Bubblegum Music** : By the close of the 1970s, punk music emerged as a dominant force, taking over from Bubblegum Music. This shift marked a significant change in popular music trends, as punk passed the torch from its predecessor. "By the end of the 70s, Bubblegum Music had passed the torch on to punk." ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum
 
 ## artists
 - 311

@@ -2,6 +2,8 @@
 
 ## member of
 - The Pretenders
+- London SS
+- Pretenders
 
 ## genres
 - Punk Rock
@@ -22,4 +24,6 @@
 **Publishing Rights Sale to Hypnosis Song Fund** : Chrissie Hynde sold her publishing rights to the Hypnosis Song Fund. "Hypnosis is bought publishing from... Chrissy Hine" ← https://www.youtube.com/watch?v=Pe40SqDrpZ0
 **Signature Telecaster Model (2021)** : In 2021, Chrissie Hynde became one of the few female guitarists to receive her own signature model, an ice-blue Telecaster. This guitar was based on a 1965 version she purchased in New York City in 1981, and its characteristic chiming chords are integral to her sound. "In 2021, she became one of the few female guitarists to have her own signature model, an ice-blue Telecaster, based on a 1965 version she bought in New York City in 1981." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0
 **Songwriting Philosophy** : Hynde's approach to songwriting focused on the intriguing idea of crafting the best melodies over the fewest possible chord changes, emphasizing melodic strength and simplicity. "And when it came to songwriting, she became intrigued at how some of the best melodies could be written over the top of the fewest number of chord changes." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0
+**Attempted Marriage to Sid Vicious for Work Permit** : While working illegally in the UK, Chrissie Hynde, then employed at Malcolm McLaren's "Sex" shop, paid Sid Vicious two pounds to marry her so she could obtain a work permit. The plan was thwarted when the office where they intended to marry was closed on the chosen day. "She paid Sid two pounds to marry her so she could get a work permit. And it almost happened too, but the day they went to get married, the office was closed." ← https://www.youtube.com/watch?v=LE4YenwmeXM ← chrissie-hynde
+**Punk Pioneer** : Chrissie Hynde of The Pretenders was a pioneer who took advantage of punk rock values, inspiring many to express themselves regardless of background or gender. "Suzy Su, of Suzy in the Banshee's, members of the Slitz, Pauli Styrene of X-Ray Specks, Chrissy Hinder, the Pretenders, Patty Smith, and so many more. They were all pioneers and they all inspired many people, women, but also men, to do what they did." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← chrissie-hynde
 

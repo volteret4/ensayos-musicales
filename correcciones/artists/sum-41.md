@@ -12,6 +12,7 @@
 - Steve O
 - Steve-O
 - Tom Thacker
+- Deryck Whibley
 
 ## genres
 - Corporatized Punk
@@ -20,6 +21,7 @@
 - Metal
 - Pop Punk
 - Punk Rock
+- Canadian Punk
 
 ## labels
 - Aquarius
@@ -115,4 +117,6 @@
 **Steve-O's Support for Famous Stars and Straps** : Steve-O of Sum 41 is mentioned as someone who publicly wears gear from Travis Barker's clothing company, Famous Stars and Straps, contributing to the brand's visibility. This highlights collaboration and mutual support among artists in their non-musical endeavors. "and Steve O of some 41". ← https://www.youtube.com/watch?v=WIFxAaReLn0
 **Total Record Sales** : Sum 41 has sold "somewhere north of 10 million records" over their career, originating as "suburban brats" who formed a band during summer vacation in the 1990s. "This man has been responsible for tons of hits somewhere north of 10 million records, not bad for a bunch of suburban brats who decided to form a band during summer vacation back in the 1990s." ← https://www.youtube.com/watch?v=puFgo2ft7hQ
 **Unexpected Hit - With Me** : The song "With Me," a ballad, became an unexpected hit many years after its initial album release, without being officially promoted as a single or serviced to radio. Its popularity grew organically, entering iTunes Top 10 and being sung by entire festival crowds in Europe, surprising the band. Its success is attributed to the "digital environment," possibly playlists or movie soundtracks, and it garnered YouTube numbers comparable to "Fat Lip." "I was always surprised we had this song called With Me and it was a ballad and we never really thought much of it." ← https://www.youtube.com/watch?v=puFgo2ft7hQ
+**Formation and Massive Sales** : Sum 41 began in 1996 and went on to achieve significant commercial success, selling a total of 30 million records. "Some 41 started up in 1996 and went on to sell 30 million records." ← https://www.youtube.com/watch?v=0QtMI00T5jw ← sum-41
+**Global Album Sales (Late 2002)** : By late 2002, Sum 41 had not only sold many records in Canada but also millions around the world. "Some 41, not only sold a ton of records in Canada, but they also sold millions around the world." ← https://www.youtube.com/watch?v=ua93Ui1u6UI ← sum-41
 

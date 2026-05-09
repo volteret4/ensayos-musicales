@@ -1,0 +1,14 @@
+# artist - The Wild Bunch
+
+## members
+- DJs
+- bailanines de breakdance
+- cantantes
+- grafiteros
+
+## curiosities
+**Artistic Fusion Point in Europe** : The Wild Bunch was considered one of the major artistic fusion points in Europe during its era, leading to incredible outcomes. It not only spawned Massive Attack, Tricky, and Portishead, but also producers who shaped the sound of Björk, a more electronic U2, and Madonna, and notably included the artist Banksy. "de Wild Bans fue uno de los grandes puntos de glóson artística que tuvimos en Europa durante esa época y acabo generando cosas increíbles." ← Music Radar Clan > Massive Attack y El Origen del Trip Hop en Bristol. | https://www.youtube.com/watch?v=bpOr4KKm5rM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-wild-bunch
+**Bristol Hip Hop Association (80s-1989)** : The Wild Bunch was a small association in Bristol active during the 1980s, including 1989. It served as a hub where many young, almost adolescent individuals gathered around hip hop culture, encompassing graffiti artists, DJs, singers, and breakdancers. This collective is credited with giving birth to the foundational bases of Trip Hop. "The Wild Bunch venía a ser una asociación dentro del Bristol que muchos jóvenes, casi adolescentes tenían en torno a la cultura hip hop." ← Music Radar Clan > Massive Attack y El Origen del Trip Hop en Bristol. | https://www.youtube.com/watch?v=bpOr4KKm5rM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-wild-bunch
+**Dissolution and Artistic Movements** : The group eventually dissolved, which subsequently led to a series of incredible artistic movements. From its members emerged the three founding members of Massive Attack, as well as Tricky and Nellee Hooper. "Porque en ese preño grupo de Wild Bunch, que se acabó disolviendo para que ha en 1969 [sic, likely 1989/early 90s], e que los llenó una serie de movimientos artísticos increíbles." ← Music Radar Clan > Massive Attack y El Origen del Trip Hop en Bristol. | https://www.youtube.com/watch?v=bpOr4KKm5rM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-wild-bunch
+**Mid-Late 80s Legacy** : This small group of almost adolescent people from Bristol, active in the second half of the 1980s, established one of the most important pillars of 1990s culture. Crucially, it laid the foundational influences for music that continues to resonate today. "Entonces tenemos ahí ese pequeño grupo de gente, casi adolescente, bristo, que en la segunda mitad de los años 80, gestó uno de los pilares más importantes de la cultura de los 90, pero sobre todo que sentó bases de influencias de la música que aún seguimos teniendo en día." ← Music Radar Clan > Massive Attack y El Origen del Trip Hop en Bristol. | https://www.youtube.com/watch?v=bpOr4KKm5rM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-wild-bunch
+

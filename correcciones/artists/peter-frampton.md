@@ -6,3 +6,5 @@
 ## curiosities
 **Guest Appearance on The Simpsons' "Hullabalooza" Episode** : Peter Frampton made a guest appearance on The Simpsons in the famous "Hullabalooza" episode, alongside Cypress Hill, Sonic Youth, and The Smashing Pumpkins. "guesting on The Simpsons in the famous Hullabalooza episode, along with Sonic Youth, The Smashing Pumpkins, and Peter Frampton." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
 
+## instruments
+- **Talk Box** : Frampton made effective use of the talk box, an electronic device that distorts sound, similar to Joe Walsh's pioneering use of the Bob Hyle-created version for "Rocky Mountain Way." "Something that Peter Frampton would make good use of too."

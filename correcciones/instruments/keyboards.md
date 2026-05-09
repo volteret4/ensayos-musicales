@@ -7,6 +7,7 @@
 **Inspiral Carpets' 60s Inspired Sound** : Inspiral Carpets were known for their 60s-inspired keyboards, which contributed to their psychedelic sound within the Manchester scene. "They were among the more psychedelic sounding of all the Manchester bands with their 60s inspired keyboards." ← https://www.youtube.com/watch?v=DSvoppf1dGY
 **Rami Jaffee's Role** : Rami Jaffee, a Foo Fighters keyboardist, was a former member of The Wallflowers. "Foo Fighters keyboardist Rami Jaffee." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
 **Unusual Use in Post-Rock** : In post-rock, keyboards, along with other traditional rock instruments, are employed in unusual ways to produce non-rock outcomes, contributing to the genre's experimental philosophy. "What we're doing is producing non-rock outcomes. That means compositions without the usual verse chorus, verse structure, and more atmospheric, some more experimentation, and more of a cinematic approach to audio." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
+**First-time Incorporation in Suede** : The band Suede incorporated a keyboardist, Neil Codling, for the first time with the recording of their album *Coming Up* in 1996. This addition brought a totally new musical atmosphere and fresh ideas to the band's sound. "incorporaban un teclista por primera vez y eso le daba un aire totalmente nueva a la banda." ← Music Radar Clan > SUEDE： Pilares del Brit Pop | https://www.youtube.com/watch?v=sYus7Bx3yVU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← keyboards
 
 ## artists
 - Beastie Boys

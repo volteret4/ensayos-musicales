@@ -9,6 +9,7 @@
 **Relationship with Anti-Records** : Epitaph Records is described as a "sister label" to Anti-Records. "anti-records, which is a sister label to epitaph records..." ← https://www.youtube.com/watch?v=AcADOuQUiAQ
 **Released Hurley Album** : Weezer's "Hurley" album was the only Weezer album to be released on Epitaph Records. "The only Weezer album to be released on Epitaph records." ← https://www.youtube.com/watch?v=LYRPxtP61JM
 **Roll the Tanks Album Release** : Epitaph Records is the label that released Roll the Tanks' 2014 album, "Broke Till Midnight." "That's from a 2014 album entitled, Broke Till Midnight, band on the epitaph label called, Roll the Tanks, and they're singing about record players." ← https://www.youtube.com/watch?v=TsiYLGGSJ2U
+**Punk Rock Indie Success** : Based in Orange County, California, Epitaph Records is a punk rock label funded by the band Bad Religion, who were dissatisfied with the major label system. After initial difficulties, the label achieved massive success with The Offspring's album *Smash*, which became the biggest-selling independent record in modern history with 15 million worldwide sales. "Epitaph was funded by a band that was unsatisfied with the major label system. In this case, the group was Bad Religion." ← Ongoing History of New Music > Definition (from the vault) | https://www.youtube.com/watch?v=Ft8nruhWCas&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
 - Bad Religion

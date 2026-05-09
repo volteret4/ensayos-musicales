@@ -2,6 +2,7 @@
 
 ## member of
 - Rush
+- Jackalope
 
 ## instruments
 - Fender Telecaster

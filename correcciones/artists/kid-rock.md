@@ -9,6 +9,10 @@
 - Hip-Hop
 - Metal
 - Pop
+- Hard rock
+- New Metal (bucket)
+- Rap
+- Rock
 
 ## labels
 - Top Dog
@@ -22,6 +26,7 @@
 **Debut Album (circa 1990)** : Kid Rock released his first album around 1990, marking the beginning of his fusion of various genres. "since about 1990, which is when he released his first album." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
 **Devil Without A Cause (1998)** : In August 1998, MTV began playing tracks from this album, and Kid Rock was picked up by the Warped Tour, leading to significant momentum. A year later, the album had sold over four million copies. "MTV started playing tracks from his album Devil Without A Cause. He was picked up by the Warped Tour, and from there things began to build. A year later, Devil Without A Cause, it sold more than four million copies." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
 **Top Dog Label Record (1996)** : By 1996, Kid Rock was releasing records on his own Top Dog label, receiving good reviews and "props from other rap and rock players." "By 1996, he was getting good reviews for the record he put out on his own top dog label. He was even getting props from other rap and rock players." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
+**Devil Without a Cause** : This album became a massive commercial success, eventually selling 14 million copies. Its sound was a unique blend of rap, hard rock, and metal, which led to it being categorized within the new metal genre. "His devil without a cause album would end up selling 14 million copies." ← https://www.youtube.com/watch?v=hBQE4t72i3o ← kid-rock
 
 ## curiosities
 **Early Reception as "Weird"** : When he first appeared, Kid Rock was considered "pretty weird," especially since the term "white rapper" often brought up images of Vanilla Ice, outside of the Beastie Boys. "When he first appeared, he was considered pretty weird. Outside of the Beastie boys, the term white wrapper conjured up images of vanilla ice." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
@@ -33,4 +38,7 @@
 **Supported Donald Trump** : Kid Rock was among the musicians who showed support for Donald Trump, in contrast to many other artists who declined to perform for him. "Outside of Kid Rock, Ted Nugent, three doors down and ace freely." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
 **The Crow: Salvation Soundtrack Contribution (2000)** : Kid Rock contributed to *The Crow: Salvation* soundtrack, released in the spring of 2000. This album was associated with the sequel to *The Crow: City of Angels*, although the movie itself did not appear until 2004 and went straight to DVD. "More Hole, More Filter, Monster Magnet, Stabbing Westward, Kid Rock, Crystal Method." ← https://www.youtube.com/watch?v=zIkjd1OjCXM
 **Woodstock 99 Performance and Crowd Demeanor** : Kid Rock performed at Woodstock 99, contributing to a lineup dominated by "intense and angry new metal bands." This combination of artists fostered an environment characterized by "male rage and testosterone," which was identified as a significant factor in the festival's descent into frustration, hatred, and violence. "Added in the fact that the lineup was filled with intense and angry new metal bands, LeBiscuit corn, kid rocked, rage guns, the machine, Metallica, tons of mail rage and testosterone." ← https://www.youtube.com/watch?v=Pgchw2h87aw
+**Romeo, Michigan Hometown - Population 3,596** : Kid Rock's hometown is Romeo, Michigan, a town in the southeastern part of the state with a population of 3,596. He achieved his fame while living in Detroit. "Let's take a moment to acknowledge Kid Rock. Yeah, he achieved his fame while living in Detroit, but his hometown is Romeo Michigan, which is in the southeastern part of the state. Population 3596." ← https://www.youtube.com/watch?v=CyTI00SIrLE ← kid-rock
+**Significant Record Sales** : Kid Rock has sold 25 million records, demonstrating his substantial commercial success. "This is a guy that sold 25 million records." ← https://www.youtube.com/watch?v=CyTI00SIrLE ← kid-rock
+**Unreleased Sex Tape with Scott Stapp (1999)** : A 45-minute sex tape featuring Kid Rock, Scott Stapp, and four groupies, filmed in an RV or tour bus around 1999, was reportedly obtained by Red Light District in 2005. Lawsuits prevented its official release, but it is accessible online. "It was the tape featuring Scott Stap of Creed and Kid Rock." ← https://www.youtube.com/watch?v=DA2iJsu3GRY ← kid-rock
 

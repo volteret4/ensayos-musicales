@@ -5,6 +5,7 @@
 - Hardcore
 - Skate punk
 - Trash metal
+- Punk
 
 ## labels
 - Mystic Records

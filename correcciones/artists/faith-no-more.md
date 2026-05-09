@@ -14,6 +14,12 @@
 - Alternative Metal
 - Heavy guitars mixed with rap style vocals
 - Rock
+- Metal
+- crunchy metallic guitars
+- hard rock
+- heavy beats
+- rap
+- rap style vocal delivery
 
 ## concerts
 - **Judgment Night (1993) Soundtrack Collaboration** : Faith No More worked with Boo-Yaa Tribe on the soundtrack for the 1993 movie "Judgment Night," which was designed to pair alternative bands with hard rap acts. "Faith No More worked with Booeya Tribe."
@@ -25,10 +31,13 @@
 **The Real Thing (1989)** : This album, released in 1989, contained the band's biggest hit. "He's the biggest hit from an album called The Real Thing in 1989." ← https://www.youtube.com/watch?v=7jMfH9xAOpI
 **The Real Thing (1989) – Breakthrough Album** : This album, released in June 1989, was the first to feature Mike Patton on vocals, who wrote all the lyrics in two weeks. It garnered Grammy nominations and within a year propelled Faith No More to widespread visibility on video channels, making them one of the biggest early successes of the alternative 90s. "Mike record was released in June 1989, and ended up being nominated for some Grammys." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
 **We Care A Lot (1985) – Debut Album** : This was Faith No More's first album, released as an indie record in 1985, featuring Chuck Mosley on vocals. The song "We Care A Lot" also appeared on their second album. "The first was an indie record called We Care A Lot in 1985, and the second was on a slightly bigger label entitled Introduce Yourself in 1987." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
+**The Real Thing (1989) - Third Studio Album** : Released on June 20, 1989, this album initially saw slow traction with its first two singles. However, the release of its third single, "Epic," in January 1990 propelled the album to massive success, establishing Faith No More as a significant crossover act. "At first, it just kind of sat there through its first two singles." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← faith-no-more
 
 ## songs
 **Epic** : A well-known song by Faith No More, which resonated with a new generation of fans after the band's reunion. "Faith No More with Epic." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
 **We Care A Lot (1987)** : This song was featured on Faith No More's first two albums, _We Care A Lot_ (1985) and _Introduce Yourself_ (1987), during Chuck Mosley's tenure as lead singer. "There's Faith No More from 1987 with We Care A Lot featuring singer Chuck Mosley." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
+**Epic (1990) - Breakthrough Single** : Released in January 1990 as the third single from "The Real Thing," this song was a "stomping mix of hard rock, metal, and rap." Its accompanying video, featuring a poor little fish, was shown extensively on MTV, turning it into a massive hit, reaching the Top 10/Top 40 in America and introducing rap to white kids in the suburbs. "It was a stomping mix of hard rock, metal, and rap." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← faith-no-more
+**We Care A Lot (Early, 1985)** : This single was released early in Faith No More's career, featuring singer Chuck Mosley. Its unique sound, characterized by crunchy metallic guitars, heavy beats, and a rap-style vocal delivery, stood out significantly in 1985, as nobody else was doing that kind of music at the time. "Early Faith No More featuring singer Chuck Mosley and We Care A Lot." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← faith-no-more
 
 ## curiosities
 **90s Alternative Success** : With Mike Patton as the new singer, Faith No More's 1989 album featuring Patton's lyrics was released in June, received Grammy nominations, and within a year, the band became a prominent fixture on video channels, achieving early success in the alternative 90s. "And within a year, Faith No More was all over the video channels, and we're on their way to becoming one of the biggest early successes of the alternative 90s." ← https://www.youtube.com/watch?v=vLZla5h4xKQ
@@ -50,4 +59,9 @@
 **Reunion Announcement (2009)** : Despite previous denials of any reunion plans, the band announced their return on February 24, 2009, after a separation of 10 years, nine months, and 28 days. The reunion occurred without guitarist Jim Martin. "And on February 24th of 2009, 10 years, nine months, and 28 days after Billy Gould sent out that fax, they know more announced that they were, yes, getting back together." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
 **Reunion for Touring** : Faith No More was one of many bands from past decades that reunited in the 21st century, a trend largely motivated by financial incentives. With declining CD sales impacting artist revenues, returning to the touring circuit offered a lucrative way to appeal to nostalgic fan bases and fill large venues. "The list of reunions is long." ← https://www.youtube.com/watch?v=GYUuTbOvyak
 **Successful European Tour and New Generation's Interest (2009)** : A summer tour of Europe proved "amazingly successful" for the reunited band, coinciding with a new generation of fans discovering their music. "A summer tour of Europe was amazingly successful. And in the interim, a new generation got into this song." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ
+**Case for "Bent Band" Inclusion** : A case could be made for including Faith No More on a list of "bent" or unconventional artists from the alternative era. "And if you look closely at Faith No More, you can actually make a case for them." ← https://www.youtube.com/watch?v=I9_3EbwKPnU ← faith-no-more
+**Courtney Love's Brief Tenure** : For a period, Courtney Love served as the band's front person, an interesting historical note given her later prominence. "A woman named Courtney Love was their front person for a time." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← faith-no-more
+**Formation and Early Following (1982-1985)** : Faith No More formed in San Francisco in 1982 and developed a substantial cult following in the Bay Area by 1985, despite initial difficulties in finding a stable singer. "They were formed in San Francisco in 1982, and by 1985 they had a rather substantial cult following in the Bay area." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← faith-no-more
+**Mike Bordin Introduces Dreadlocks to Metal** : Mike Bordin, the former drummer for Faith No More, is widely acknowledged as the pioneer who introduced dreadlocks into the metal music genre in the late 1980s. "Mike Borden, the former German for Faith No More, is credited as being the guy who introduced dreads into metal in the late 1980s." ← https://www.youtube.com/watch?v=Q3zkJX8S4Xc ← faith-no-more
+**Suburban Rap Introduction** : Along with the Beastie Boys, Faith No More played a key role in making rap accessible to white suburban kids through their successful crossover songs like "Epic." "And just as we saw with the Beastie Boys, it found purchase with white kids in the suburbs." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← faith-no-more
 

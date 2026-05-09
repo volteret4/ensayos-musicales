@@ -5,5 +5,5 @@
 - Ska
 
 ## curiosities
-**First Wave Ska Originator** : The Toots and the Maytals were an originator of the "first wave" of Ska, a style born in Jamaica in the 1950s. Along with Desmond Dekker and The Skatalites, these artists comprised the initial pioneers of the genre. "Those originators, Desmond Decker, Tutson the Maytaws, the Scott lights and so on, all from Jamaica comprised that first wave." ← https://www.youtube.com/watch?v=HSvgRyGiOpE
+**First Wave Ska Originator** : The Toots and the Maytals were an originator of the "first wave" of Ska, a style born in Jamaica in the 1950s. Along with Desmond Dekker and The Skatalites, these artists comprised the initial pioneers of the genre. "Those originators, Desmond Decker, Tutson the Maytaws, the Scott lights and so on, all from Jamaica comprised that first wave." ← https://www.youtube.com/watch?v=HSvgRyGiOpE ← the-toots-and-the-maytals
 

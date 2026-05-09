@@ -9,4 +9,8 @@
 
 ## curiosities
 **Post-Breakup Reformation** : The Vapors broke up in 1982 but reformed in 2016 and were still playing gigs as of the transcript's date, without achieving any further significant hits. "Well they broke up in 1982, but reformed in 2016 and are still playing gigs." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M
+**New Wave Powerpop** : The Vapors are mentioned as a band contributing to the new wave iteration of Powerpop. Their sound, like other contemporaries, demonstrated how Powerpop's core elements were adopted and adapted within the burgeoning alternative rock scene. "We can probably include the jam, the smiths, XTC, squeeze, and the vapors." ← https://www.youtube.com/watch?v=hstJ8M2laho ← the-vapors
 
+## genres
+- New Wave
+- Powerpop

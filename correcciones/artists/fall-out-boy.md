@@ -10,6 +10,8 @@
 - Emo Pop
 - Pop
 - Pop Punk
+- Powerpop (contemporary, maybe)
+- Punk Rock
 
 ## concerts
 - Warped Tour
@@ -34,4 +36,6 @@
 **Shift Towards Pop** : In the late 2000s, as pure pop gained dominance, Fall Out Boy consciously decided to "err on the side of pop when it came to writing new tunes." This strategic shift aimed to adapt to changing mainstream music trends. "This was the direction taken by Fallout Boy." ← https://www.youtube.com/watch?v=pE7TaWSUa-o
 **Shift from Emo Sound** : After the peak of third wave emo, Fall Out Boy was noted as one of the bands that moved on to explore other sounds and styles, diverging from their original emo sound. "Others moved on to other sounds and styles, think panic at the disco and fallout boy in Paramore." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
 **Third Wave Emo Chart Success** : Fall Out Boy was among the bands whose emo records achieved mainstream success during the third wave of emo (early 2000s), with their albums reaching the top 10 on charts. "Emo records from bands like...Fallout Boy... all rocketed into the top 10 on the album charts." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
+**Contemporary Powerpop (Possible)** : Fall Out Boy is tentatively included as a potential contemporary Powerpop band, indicating that elements of the genre might be found in their sound. This highlights the genre's pervasive influence and its presence, even if subtle, in various modern acts. "Well we have Jimmy Eat World, OkGo, All American Rejects, Simple Plan, maybe Fallout Boy." ← https://www.youtube.com/watch?v=hstJ8M2laho ← fall-out-boy
+**Legacy of Mid-90s Punk Revival** : Fall Out Boy is one of the bands whose existence can be directly attributed to the impact of the mid-1990s punk rock revival. "It's certainly not a stretch to say the groups like... Followed Boy... wouldn't have existed had it not been for what happened in the middle 1990s." ← https://www.youtube.com/watch?v=0QtMI00T5jw ← fall-out-boy
 

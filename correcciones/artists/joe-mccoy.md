@@ -2,4 +2,5 @@
 
 ## member of
 - Memphis Minnie
+- Memphis Mini
 

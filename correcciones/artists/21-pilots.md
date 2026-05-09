@@ -62,3 +62,18 @@
 **The Banditos (Trench Mythology)** : In the fictional world of Dema, the Banditos are portrayed as the heroic figures who seek to liberate the city's inhabitants. They are uniquely identifiable by a specific shade of yellow, a color that the bishops, including Niko, are unable to perceive. "Another within dma is a group called the Banditos. They're the good guys who want to liberate the people of the city." ← https://www.youtube.com/watch?v=8sAxFvktx-A
 **The Skeleton Clique** : The band's dedicated fanbase is known as the Skeleton Clique, who pride themselves on being "very, very welcoming" and "the most inclusive clique ever." Members refer to each other as "frens" (spelled F-R-E-N-S) and often use the phrase "Stay Street." "And it helped build the fanbase, which by the way, had become known as the Skeleton clique." ← https://www.youtube.com/watch?v=8sAxFvktx-A
 
+## awards
+**Alternative Press Music Award for Artist of the Year** : Won.
+**Billboard Music Award for Top Rock Album — Blurryface** : Won.
+**Billboard Music Award for Top Rock Album — Scaled and Icy** : Won.
+**Billboard Music Award for Top Rock Artist** : Won.
+**iHeartRadio Music Awards** : Won.
+**Billboard Music Award for Top Rock Song — Heathens** : Won.
+**Grammy Awards — Stressed Out** : Won.
+**MTV Europe Music Award for Best Live Act (2016)** : Won.
+**MTV Europe Music Award for Best Alternative (2016)** : Won.
+**NRJ Music Award for International Revelation of the Year (2016)** : Won.
+
+## charts
+**"Magic" — Billboard Year-End Hot 100** : #32, 1975.
+**"388" — NME Chart** : 5 semanas.

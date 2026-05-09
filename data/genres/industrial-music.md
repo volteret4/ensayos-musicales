@@ -36,5 +36,6 @@
 - Nine Inch Nails
 - Rage Against the Machine
 - Skinny Puppy
+- The Prodigy
 - Throbbing Gristle
 

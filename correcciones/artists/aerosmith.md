@@ -8,9 +8,11 @@
 - Classic rock
 - Mainstream rock
 - Rock
+- metal
 
 ## concerts
 - Winnipeg Arena (August 30, 1978)
+- Ozark Music Festival (1974)
 
 ## instruments
 - Gibson Les Paul
@@ -20,6 +22,9 @@
 **Head First (1994) – First Major Label Download** : Released in June 1994, this song marked Aerosmith as the first major label artist to offer a song for download. However, it was viewed as an experiment rather than a step towards the future. "Errol Smith, at least a song called Head First in June 1994, making them the first major label artist to offer a song this way." ← https://www.youtube.com/watch?v=Yq2A_o9-ulM
 **Ragdoll (Year Not Specified)** : A song written by Holly Knight. "She wrote Ragdoll for Erasmith." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M
 **Walk This Way (1986) – Run-DMC Crossover** : In 1986, Aerosmith collaborated with Run-DMC on a crossover version of "Walk This Way," marking an early and significant fusion of rock and hip hop. "Remember the Erasmith Run DMC crossover with Walk This Way in 1986?" ← https://www.youtube.com/watch?v=tdTs-4Irv8c
+**Walk This Way (1986)** : The collaboration with Run DMC on "Walk This Way" in early 1986 was the first song to effectively bridge the divide between rap and rock music, a period when rap was often marginalized by the mainstream. This track helped to demonstrate the potential for rock and rap to coexist and laid groundwork for future genre fusions. "And the first song to bridge this gap between rap and rock was the run DMC, Aerosmith collaboration on Walk This Way in early 1986." ← https://www.youtube.com/watch?v=RN3JIDtPayY ← aerosmith
+**Walk This Way (1986) - Run DMC Collaboration** : This cover of an Aerosmith classic, re-recorded in May 1986 with Run DMC, was instrumental in resurrecting Aerosmith's then-dead career. The song became a massive hit, peaking at number four in the American charts and number 17 in Canada, effectively bringing rap music to a white rock audience and expanding Aerosmith's reach. "The result simultaneously resurrected Erasmith's dead career while bringing rap to a bunch of white kids and vice versa." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← aerosmith
+**Walk This Way (Guitar Riff Mentions)** : This song was mentioned as one of the "usual suspects" that consistently appears in various guitar riff surveys, though its specific ranking was not provided in this context. "walk this way from Erasmith." ← https://www.youtube.com/watch?v=KtdIMNoHqA8 ← aerosmith
 
 ## curiosities
 **"Dinosaurs" of Late 80s Rock** : Aerosmith was cited as a classic rock band whose "second act" career alienated Generation X at the turn of the 90s, being seen as outdated "dinosaurs." "You know, lots of Van Halen and Erasmith and Leonard Skinner didn't know what John was. They were just dinosaurs." ← https://www.youtube.com/watch?v=tFBSrKMEZxI
@@ -42,4 +47,37 @@
 **Nancy Spungen's Groupie Activities – Slept with Every Member** : Nancy Spungen, known for her hardcore groupie lifestyle, reportedly slept with every single member of Aerosmith. "Apparently, she also slept with every single member of Aerosmith." ← https://www.youtube.com/watch?v=OcylgiXkDP8
 **Opposition to Trump Campaign Music Use** : Aerosmith was among numerous artists who objected to Donald Trump's campaign utilizing their music at political rallies. Many artists, despite the technical legality of blanket venue licenses, filed cease and desist orders and lawsuits to prevent their music from being associated with the campaign. "The list of artists against Trump using their music is long." ← https://www.youtube.com/watch?v=GYUuTbOvyak
 **Role in Seattle Hybrid Sound** : In the Seattle music scene, it was common and not considered strange for people to be into both Black Flag and Aerosmith at the same time, contributing to a unique local hybrid of hard rock and hardcore punk. "No one considered it strange to be both into black flag and air smith at the same time." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
+**80s Music Video Influence** : Aerosmith's music videos from the 1980s were listed as instrumental in sparking an early and deep interest in the visual storytelling aspect of music videos. "watching videos by like... Eros Smith." ← https://www.youtube.com/watch?v=vWvYe1a-2Aw ← aerosmith
+**Influence in 80s Music Videos** : Aerosmith's music videos were cited as part of the MTV/Much Music era of the 1980s that inspired Director X's love for the art form, including their storytelling, dancing, and style. "The MTV, much music era watching videos by like Madonna and Peter Gabriel and like Phil Collins and Michael Jackson and uh uh and Errol Smith." ← https://www.youtube.com/watch?v=EyagC0T7mR4 ← aerosmith
+**Influence on Music Video Directors (1980s)** : Aerosmith's music videos, popular during the 1980s on channels like MTV and MuchMusic, were noted as a source of inspiration for music video directors like Taj and Director X, who were drawn to their visual storytelling and overall style. "watching videos by like Madonna and Peter Gabriel and like Phil Collins and Michael Jackson and Errol Smith." ← https://www.youtube.com/watch?v=KaIp6KVn-co ← aerosmith
+**Influential Music Video Artist** : Aerosmith is listed among the artists from the 80s MTV/MuchMusic era whose music videos were influential in fostering a love for the art form, specifically for their storytelling, dancing, and style. "The MTV much music era watching videos by like Madonna, Peter Gabriel. And like Phil Collins and Michael Jackson and Eros Smith." ← https://www.youtube.com/watch?v=fS8V3kYXT6w ← aerosmith
+**Music Video Icon (1980s)** : Aerosmith's music videos from the 1980s were part of the "MTV, Much Music era," contributing to the widespread fascination with the storytelling, dancing, and style showcased in music videos during that period. "And and Errol Smith and I was always fascinated by music videos and the storytelling and the dancing and the style and all that stuff." ← https://www.youtube.com/watch?v=mAlc-N2wn5s ← aerosmith
 
+## albums
+**Rox (Year unspecified) - Favorite Album** : Aerosmith's album "Rox" was cited as one of The Trews' favorite records, influencing their desire to work with producer Jack Douglas, who had famously worked with Aerosmith. "Aerosmith's Rox is one of our favorite records." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← aerosmith
+
+## awards
+**Rock and Roll Hall of Fame (2001)** : Won.
+
+## charts
+**"Dream On" — Billboard Year-End Hot 100** : #51, 1976.
+**"Walk This Way" — Billboard Year-End Hot 100** : #90, 1977.
+**"Angel" — Billboard Year-End Hot 100** : #34, 1988.
+**"Love in an Elevator" — Billboard Year-End Hot 100** : #81, 1989.
+**"Janie's Got a Gun" — Billboard Year-End Hot 100** : #61, 1990.
+**"What It Takes" — Billboard Year-End Hot 100** : #91, 1990.
+**"Cryin'" — Billboard Year-End Hot 100** : #60, 1993.
+**"Livin' on the Edge" — Billboard Year-End Hot 100** : #94, 1993.
+**"Crazy" — Billboard Year-End Hot 100** : #68, 1994.
+**"Amazing" — Billboard Year-End Hot 100** : #72, 1994.
+**"I Don't Want to Miss a Thing" — Billboard Year-End Hot 100** : #23, 1998.
+**"Jaded" — Billboard Year-End Hot 100** : #47, 2001.
+
+## lists
+**"Toys in the Attic" (1975) — 1001 Albums You Must Hear Before You Die** : #331.
+**"Rocks" (1976) — 1001 Albums You Must Hear Before You Die** : #358, 7.0/10 Scaruffi.
+**"Pump" (1989) — 1001 Albums You Must Hear Before You Die** : #654, 7.0/10 Scaruffi.
+**"Rocks" (1976) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #366, 7.0/10 Scaruffi.
+**"Rocks" (1976) — Scaruffi 1970s** : #154, 7.0/10 Scaruffi.
+**"Toys in the Attic" (1975) — Scaruffi 1970s** : #155.
+**"Pump" (1989) — Scaruffi 1980s** : #228, 7.0/10 Scaruffi.

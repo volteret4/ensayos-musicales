@@ -16,6 +16,7 @@
 **Rise of 12-inch Single and Remix (1970s)** : With the rise of disco and early DJ culture in the 1970s, the 12-inch single and the extended remix emerged as new formats. "And with disco in the rise of early DJ culture came the 12-inch single and the extended remix." ← https://www.youtube.com/watch?v=GES0Ms_kaCI
 **Rock Declared Dead During Disco Era (Late 1970s)** : Rock music was among the many times it was declared dead during the late 1970s, a period when disco music was particularly prevalent and popular. This reflects a recurring pattern where new genres are seen as replacing and killing off established ones. "Rock was declared dead again in the early 70s, the late 70s during disco, the middle 80s, the middle 90s, and again and again and again." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
 **Thelma Houston Hit** : Thelma Houston's 1976 cover of "Don't Leave Me This Way" became a significant disco hit. "Thelma Houston turned it into a big disco hit in 1976." ← https://www.youtube.com/watch?v=7jMfH9xAOpI
+**Billboard Chart Dominance in the 70s** : Disco music ascended to prominence on the Billboard charts by the end of the 1970s, effectively replacing Bubblegum Music as a leading genre. This rise signified a major shift in mainstream musical taste. "it gave way on the Billboard charts to disco." ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum
 
 ## artists
 - David Bowie

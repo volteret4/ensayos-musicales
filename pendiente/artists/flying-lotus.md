@@ -1,0 +1,7 @@
+# artist - Flying Lotus
+
+## curiosities
+**Amazement with *To Pimp a Butterfly* Project** : Flying Lotus expressed profound amazement regarding his involvement in Kendrick Lamar's *To Pimp a Butterfly*. His sentiments, shared by other collaborators like Thundercat, underscore the album's innovative and impactful creative process. "tenemos muchas entrevistas de mucha gente que trabajó en este disco como Flying Lotus." ← Music Radar Clan > Kendrick Lamar：  To pimp a butterfly | https://www.youtube.com/watch?v=ENmSJbhbGeo&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← flying-lotus
+**Collaboration on *To Pimp a Butterfly*** : Flying Lotus was one of the 65 credited artists involved in the creation of Kendrick Lamar's *To Pimp a Butterfly*. His participation demonstrates the album's broad appeal and collaborative pull among influential musicians. "entre esos 65 artistas está Doctor Dree, está Snow Dog, está Farrell Williams, está Thundercat, está Soundwave, está Flying Lotus." ← Music Radar Clan > Kendrick Lamar：  To pimp a butterfly | https://www.youtube.com/watch?v=ENmSJbhbGeo&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← flying-lotus
+**Comparison to Madlib** : Madlib is often compared to Flying Lotus within the hip hop community, although Madlib is considered more underground. "es como un flying Lotus, más o menos, pero más underground." ← Music Radar Clan > MF DOOM. Repaso de un genio | https://www.youtube.com/watch?v=vTqwHtjW410&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← flying-lotus
+

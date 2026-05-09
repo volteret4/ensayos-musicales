@@ -6,6 +6,7 @@
 - Mookie Blaylock
 - Pearl Jam
 - Temple of the Dog
+- Bad Radio
 
 ## genres
 - Grunge
@@ -31,4 +32,10 @@
 **Mattel's Big Wheel Commercial Appearance (1972)** : Around age seven or eight in 1972, Eddie Vedder appeared in a nationally broadcast TV commercial for Mattel's Big Wheel, which ran during Saturday morning cartoons. "One of the kids on the Big Wheel? Eddie Vetter." ← https://www.youtube.com/watch?v=dVJuITJyNTU
 **Move to Seattle (1991)** : During the filming of *Singles* in early 1991, Eddie Vedder had already moved from San Diego to Seattle. At this time, he was "hanging out with his future bandmates," indicating the very early stages of Pearl Jam's formation, before the band's widespread recognition. "As Singles started filling, Pearl Jam had barely been born, although Eddie Vetter had already moved from San Diego to Seattle where he was hanging out with his future bandmates." ← https://www.youtube.com/watch?v=zIkjd1OjCXM
 **Reluctance to be Known as Child Model** : Despite his past as a cute child model, Eddie Vedder, now a grunge icon with serious social, political, and environmental views, prefers not to be remembered for his early career in modeling for brands like Blue and Dales. "He would rather not be known as the cute child model for Blue and Dales." ← https://www.youtube.com/watch?v=dVJuITJyNTU
+**Child Modeling and Acting Career** : Eddie Vedder was a child model, similar to Chris Murphy, and also appeared in a "long forgotten Canadian film called The Silent Partner," all before he completed grade one. "Eddie Vetter. He was a child model too. He even ended up in a long forgotten Canadian film called The Silent Partner, all that before he got out of grade one." ← https://www.youtube.com/watch?v=mbic-70ZhpE ← eddie-vedder
+**Joining Bad Radio** : Eddie Vedder secured his position as singer for Bad Radio largely due to a homemade demo where he covered Bruce Springsteen's "Atlantic City." The band had been inspired by Duran Duran but sought a new singer, leading to auditions where Eddie was chosen. "Eddie got the gig. And largely because they liked his homemade demo of him covering Bruce Springsteen's Atlantic City." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← eddie-vedder
+**Pre-Pearl Jam Jobs and Bands** : Before moving from San Diego to Seattle to join Pearl Jam, Eddie Vedder moved from Chicago to San Diego where he worked booking bands in a club, security at a hotel, and at a gas station, alongside his passion for surfing. He was involved in several bands, including The Butts, Surf and Destroy, and Indian Style (featuring future Rage Against the Machine drummer Brad Wilk), with Bad Radio showing the most promise. "When Eddie Vetter moved from Chicago to San Diego, he got a job booking bands in a club. He also worked security at a hotel. He worked at a gas station and he spent a lot of time surfing." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← eddie-vedder
+**Severe Stage Fright** : While in Bad Radio, Eddie Vedder suffered from severe stage fright, to the extent that he sometimes wore goggles that were blocked out or "blinders" so he couldn't see the audience. "Eddie had severe stage fright. And sometimes had to wear goggles that were blocked out so he couldn't see the audience." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← eddie-vedder
 
+## instruments
+- vocals

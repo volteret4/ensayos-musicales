@@ -2,4 +2,5 @@
 
 ## member of
 - Grand Funk Railroad
+- Grand Funk
 

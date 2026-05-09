@@ -7,6 +7,8 @@
 - Emo
 - Pop Punk
 - Rock Opera
+- Emo Pop
+- Punk Rock
 
 ## labels
 - Reprise Records
@@ -14,6 +16,7 @@
 ## concerts
 - **2025 Reunion Tour** : My Chemical Romance has a reunion tour scheduled for 2025, which includes performances in stadiums. "My chemical romance has a 2025 reunion tour planned. Stadiums."
 - Vans Warped Tour (2004)
+- Project Revolution Tour (2007-2008)
 
 ## albums
 **The Black Parade (2006)** : Released on October 23, 2006, this rock opera, like Green Day's *American Idiot*, was released on the Reprise label. The album's central character is "The Patient," whose memories and impressions are captured in the songs as he faces death. Upon his death, The Patient is transported away by a parade, known as the Black Parade, which is the album's namesake. The concept is linked to a fun childhood memory and Gerard Way's view on how death approaches. "The central character was the patient. As he's about to die and move to the other side, his memories and impressions are captured in the songs." ← https://www.youtube.com/watch?v=1KyNY3zv6uc
@@ -40,4 +43,5 @@
 **Post-Cure Influence** : My Chemical Romance was cited as a group influenced by The Cure, demonstrating the breadth of The Cure's impact on bands across various subgenres of alternative music. "if you're looking for bands influenced by them we can turn to groups like Interpol, Smashing Pumpkins, The Killers, Nine-H Nails, My Chemical Romance, and so many more." ← https://www.youtube.com/watch?v=amHre9ZZFkU
 **Reunion for Touring** : My Chemical Romance was one of many bands from past decades that reunited in the 21st century, a trend largely motivated by financial incentives. With declining CD sales impacting artist revenues, returning to the touring circuit offered a lucrative way to appeal to nostalgic fan bases and fill large venues. "The list of reunions is long." ← https://www.youtube.com/watch?v=GYUuTbOvyak
 **Theatrical Live Performances** : In concert, My Chemical Romance adopted a highly theatrical approach for *The Black Parade*, featuring extensive role-playing and costumes, which was also reflected in the music video for "Welcome to the Black Parade." "In concert, my chemical romance was very theatrical about all this, lots of role playing in costumes." ← https://www.youtube.com/watch?v=1KyNY3zv6uc
+**Legacy of Mid-90s Punk Revival** : My Chemical Romance is one of the bands whose existence can be directly attributed to the impact of the mid-1990s punk rock revival. "It's certainly not a stretch to say the groups like... My Chemical Romance, and many others wouldn't have existed had it not been for what happened in the middle 1990s." ← https://www.youtube.com/watch?v=0QtMI00T5jw ← my-chemical-romance
 

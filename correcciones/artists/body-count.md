@@ -16,6 +16,7 @@
 ## concerts
 - **Lollapalooza 1991 Appearance** : Ice-T performed with Body Count at the 1991 Lollapalooza Festival, an appearance that "blew everyone's mind" due to its rap and rock fusion. "Iced Tea blew everyone's mind with his appearance on the 1991 Lama Pulusa Festival. He rapped, but he also rocked with his new band Body Count."
 - Lollapalooza 1991
+- Lollapalooza (1991)
 
 ## curiosities
 **"Cop Killer" Controversy (1992)** : The song "Cop Killer" became highly controversial, widely perceived as an attack on police forces, escalating into a significant First Amendment debate in the U.S. and drawing parallels to the Black Lives Matter movement. "And there were provocations like the song Cop Killer, which was taken as an an attack on police forces everywhere. Metal thing blew up into a big first amendment debate in the US, which had many of the same elements as the Black Lives Matter movement." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
@@ -30,4 +31,5 @@
 **Reaching White Audiences** : Body Count was instrumental in helping rap and hip hop reach more white kids, bridging cultural divides. "And thanks to groups like Body Count, Living Color, the Beastie Boys and Rage Against the Machine, rap and hip hop was able to reach both more white kids." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
 **Warner Brothers Records Shareholder Threat** : The controversy surrounding "Cop Killer" was so intense that shareholders threatened to withdraw all their money from Warner Brothers Records if the label did not take action regarding Body Count. "It got so crazy that shareholders threatened to pull all their money for Warner Brothers records if the label didn't do something about Body Count." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 **White Audiences' Reception** : Body Count, as an all-black metal band, did not always receive appreciation from white audiences, highlighting racial tensions in the metal scene. "And second, white audiences didn't always appreciate an all-black metal band." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
+**Lollapalooza 1991 Performer** : Body Count, featuring Ice-T, was one of the bands on the first-ever Lollapalooza tour in 1991. Their inclusion highlighted the festival's genre-bending approach, which integrated alternative rock with hardcore rap and metal. "Ice Tea and Body Count, one of the bands in the first ever Lola Palusa tour in 1991." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← body-count
 

@@ -1,0 +1,5 @@
+# artist - Sufjan Stevens (as "Sub-Jance Stevens")
+
+## albums
+**The Greatest Gift (December 8, 2017)** : This new material from Sufjan Stevens, referred to as "Sub-Jance Stevens, Andy Gray, Tskift" in the transcript, is set for release on December 8th. It consists of a series of discarded recordings and alternate versions from his acclaimed 2015 album, "Carrie & Lowell," which was considered one of the great albums of that year. These are tracks that were left out of the original release. "tenemos nuevo material de Sub-Jance Stevens, Andy Gray, Tskift, es pero no es, me refiero este disco realmente vienen a ser una serie de grabaciones y versiones desechadas de la grabación de su trabajo del 2015, del carril Lowell, que había sido uno de los grandes discos del 2015 y ha sacado un poco todo este tema o todos estos temas que se habían quedado un poco ahí fuera." ← Music Radar Clan > Lanzamientos Diciembre 2017 | https://www.youtube.com/watch?v=zKLlsA2kSqY&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← sufjan-stevens-as-sub-jance-stevens
+

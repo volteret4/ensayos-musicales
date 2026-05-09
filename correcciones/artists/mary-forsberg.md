@@ -2,4 +2,5 @@
 
 ## member of
 - Stone Temple Pilots
+- Scott Weiland
 

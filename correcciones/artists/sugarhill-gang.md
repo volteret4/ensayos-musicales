@@ -6,3 +6,5 @@
 ## curiosities
 **Sampling Source for Beastie Boys** : The Sugarhill Gang's music was sampled in the Beastie Boys' song "Shake Your Rump." "There were eight samples contained therein, including material from... Sugar Hill Gang." ← https://www.youtube.com/watch?v=l1jPP1FhGo8
 
+## albums
+**Rapper's Delight (1979)** : This album is often considered the first and most important modern rap song, though the speaker notes this is sometimes an overvaluation, as it was just one of several significant Sugar Hill Records releases from the same year. It is frequently cited as the first modern rap release largely because it was Sugar Hill Records' inaugural offering, but other contemporary releases could equally mark this historical milestone. "normalmente consideramos este rap presidado como el primero porque efectivamente fue el primer lanzamiento de la discográfica su ágil pero usamos este por usar este y no por usar cualquier otro." ← Music Radar Clan > El RAP antes del RAP (los primeros años del rap) | https://www.youtube.com/watch?v=USvB-AVhfzs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← sugarhill-gang

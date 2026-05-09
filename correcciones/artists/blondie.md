@@ -3,6 +3,9 @@
 ## members
 - Clem Burke
 - Deborah Harry
+- Cristina Blonday
+- Debbie Harry
+- Debra Harry
 
 ## genres
 - New Wave
@@ -11,6 +14,8 @@
 - Pop
 - Punk
 - Punk Rock
+- Art Rock
+- Powerpop
 
 ## labels
 - Hypnosis Song Fund (as purchaser of publishing rights)
@@ -20,6 +25,8 @@
 
 ## songs
 **Hangin' on the Telephone (1979)** : This 1979 song is mentioned as an example of a track that could be chosen by a listener who is asked what kind of music they'd like to hear while on hold. "I think this 1979 song from Blonde would be one." ← https://www.youtube.com/watch?v=D8GU8ZpSgY8
+**Heart of Glass** : This iconic song by Blondie features the Roland CR-78 drum machine prominently, contributing to its signature sound. "Blondie, think of Heart of Glass" ← https://www.youtube.com/watch?v=dablAKDOOV0 ← blondie
+**One Way or Another (1978)** : This song is specifically cited as an example of Blondie's output that could be classified as Powerpop, demonstrating the band's versatility and how their new wave sound often intersected with Powerpop characteristics. "Think about songs like One Way or Another." ← https://www.youtube.com/watch?v=hstJ8M2laho ← blondie
 
 ## curiosities
 **Clem Burke Death (2025) – Cancer Kept Secret** : Clem Burke, original drummer of Blondie, died in 2025 of cancer, which had been kept secret. He briefly played with the Ramones under the name Elvis Ramone. He also participated in an eight-year academic study on the physical and psychological effects of being a professional drummer, for which he received an honorary doctorate in music. "His cancer was kept secret." ← https://www.youtube.com/watch?v=ZPlsR7_WiZQ
@@ -39,4 +46,17 @@
 **Record Deal and Distribution** : Blondie was among the New York groups that secured record deals, allowing their music to be distributed beyond the confines of New York City and reach a wider audience. "Eventually, word gets out and groups like the Ramones and the Talking Heads and television in Blondie and Patty Smith get record deals and their music begins to be distributed beyond New York." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
 **Richie Edwards' Musical Preference** : Blondie was among the artists Richie Edwards enjoyed, alongside Jordy Vision, The Clash, The Police, and The Boomtown Rats. "He liked Jordy Vision, the clash, the police, the Womentown rats, and blondie." ← https://www.youtube.com/watch?v=sCwgvHg86Oc
 **Shared Bills with Ramones** : In 1975, Blondie played on bills alongside the Ramones at CBGB, highlighting the vibrant and interconnected early punk scene in New York. "Other times, they'd be on a bill with a talking heads or blondey or a band called Tuftarts." ← https://www.youtube.com/watch?v=j8uk7BnbXwU
+**Biggest Selling American New Wave Band** : By 1983, Blondie, alongside Talking Heads, had become one of the biggest selling American New Wave bands. Their success marked a significant crossover from their punk roots into the mainstream. "The Talking Hits from 1983, and along with Blondie, they became the biggest selling American New Wave bands." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← blondie
+**CBGB Staple (1978)** : By 1978, Blondie was a staple at CBGB in New York and accepted by all the punks. While their music was not purely punk, it could not have been created without punk's prior existence, as it adopted the correct attitude and approach but introduced additional elements that defined the New Wave sound. "By 1978, was a staple at CBGB in New York, they were accepted by all the punks." ← https://www.youtube.com/watch?v=iL9KpQFqH4o ← blondie
+**Early Performances at CBGB** : Blondie was among the influential bands performing at CBGB by the summer of 1974. Their regular appearances helped to define the club's status as a breeding ground for the burgeoning punk and new wave scenes in Lower Manhattan. "By the summer of 1974, Hilly's bar, now known just as CBGB to everyone, was hosting not just television, but the Ramones, Patty Smith, Suicide, Blondie, Talking Heads, the Heartbreakers, and a bunch of other groups." ← https://www.youtube.com/watch?v=uEe_HLUay5M ← blondie
+**Emergence in New Wave Scene** : Blondie, along with Talking Heads, found a proper place in the music scene once New Wave gained traction, having previously stood out among the punk acts at clubs like CBGB. They capitalized on the new marketing strategies and visual emphasis of the era. "And finally, there was a proper place for those two bands who stuck out so much amongst all those punks at CBGB." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← blondie
+**Formation and Early Scene (1975)** : Blondie was formed around 1975 and quickly became part of the punk and art rock scene centered at CBGB. "Blondie was part of the punk and art rock scene at CBGB starting in about 1975." ← https://www.youtube.com/watch?v=P45lJTdneoI ← blondie
+**Global Success (1978)** : After a couple of years of hard work following their formation, Blondie became one of the biggest bands in the world, with their breakthrough record released in 1978. "And after a couple of years of very hard work, Blondie became one of the biggest bands in the world." ← https://www.youtube.com/watch?v=P45lJTdneoI ← blondie
+**Long-Term Couple, Never Married** : Debra Harry and Cristina Blonday were a long-term couple, but they never officially married. "Debra Harry and Cristina Blonday, a long-time couple, but they never married." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← blondie
+**New Wave Branding** : Blondie was one of the bands, alongside Talking Heads and Elvis Costello, that Sire Records branded as New Wave. This strategy was implemented to circumvent the negative stigmas associated with punk rock, enabling their music to gain acceptance on mainstream radio. "The talking hits, one of the first bands to be branded as new wave by their label Sire Records." ← https://www.youtube.com/watch?v=iL9KpQFqH4o ← blondie
+**New Wave Classification** : Blondie was specifically considered part of the New Wave movement, particularly as the definition of punk narrowed in the United States to bands like Ramones. Their sound placed them outside the pure punk genre and firmly within the more diverse New Wave category. "Entonces blondes, los toquing heads y toda esta parte el divo podían ser considerados en New Wave." ← Music Radar Clan > Que es el New Wave | https://www.youtube.com/watch?v=jxaTsoSRXZE&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← blondie
+**Non-Punk Act at CBGB (After Early Stages)** : At the CBGB club in New York, Blondie, particularly after their initial stages, were identified as a band that did not fit the pure punk mold. As the distinction between punk and New Wave became clearer in the United States, bands like Blondie, Talking Heads, and Devo were considered New Wave. "o como podían ser blondes y después de las primeras etapas." ← Music Radar Clan > Que es el New Wave | https://www.youtube.com/watch?v=jxaTsoSRXZE&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← blondie
+**Pioneers of New Music (Early 90s Perspective)** : Blondie was cited as one of the bands, alongside the Ramones and Sex Pistols, that initiated the "new music scene." "It started with bands like the Ramones and the Sex Pistols and Blondie." ← https://www.youtube.com/watch?v=ua93Ui1u6UI ← blondie
+**Prominent New Wave Artist** : Blondie was listed among the artists who exemplified the New Wave movement. Their distinctive sound and commercial appeal helped establish the genre during its peak. "And running the crest of New Wave, who artists like the police, Elvis Costello, Blondie, Devo, and The Talking Hits." ← https://www.youtube.com/watch?v=Z8BTWo66SDI ← blondie
+**Publishing Catalog Sale (N/A)** : Blondie is among the artists who have sold their music publishing catalogs as part of a trend since the mid-2010s. "blondie." ← https://www.youtube.com/watch?v=dnQ1pNbIUjw ← blondie
 

@@ -7,6 +7,7 @@
 - Darby Crash (leader)
 - Pat Smear
 - Pat Smear (guitar)
+- Darby Crash
 
 ## genres
 - Hardcore punk
@@ -30,4 +31,9 @@
 **Early Sound Comparison** : The Germs' first proper show recording, titled "Germicide" from the summer of 1977, was perceived by guitarist Pat Smear as sounding like Alice Cooper, despite being a burgeoning punk rock act. This highlights their initial sonic aspirations before fully embracing the punk identity. "If you ever listen to the first germs recording, which is our first proper show, which is the thing, who called germicide, we think we sound like Alaskupper." ← https://www.youtube.com/watch?v=Mh-qg1izM98
 **Inspiration for Bad Religion** : The Germs were cited as an inspiration for the high school students who formed Bad Religion in 1980, encouraging them to be part of the hardcore movement. "They came together in 1980, when a bunch of high school students, inspired by the likes of Black Flag, the Circle Jerks, and the germs, decided that they wanted a piece of the reaction." ← https://www.youtube.com/watch?v=0qigzi1j81U
 **Prominent L.A. Punk Band** : The Germs were among the bands that performed at The Masque, a Hollywood Boulevard venue that was central to the early Los Angeles punk scene. "This was the home to places like X, the Germans, the blasters, the dills, the screamers, the weirdos, the zeros." ← https://www.youtube.com/watch?v=YaYaFW2q6qI
+**Darby Crash's Untimely Death** : Darby Crash died of a heroin overdose on December 7, 1980, tragically just one day before the assassination of John Lennon. This unfortunate timing meant his death was largely overshadowed and almost lost to history. "He was almost lost to history because he had the misfortune of dying of a heroin overdose one day before John Lennon was assassinated." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← the-germs
+**Influence of The Ramones** : The Germs were among hundreds of bands that emerged following the Ramones' continuous touring, drawing inspiration from their raw and straightforward punk approach. "The germs were one of literally hundreds of bands that spring up in the wake of the Ramones, who were on the road almost continuously." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← the-germs
+**Led by Darby Crash** : The Germs were fronted by the self-destructive Darby Crash, whose volatile personality was central to the band's identity. "Now, they were led by the self-destructive Darby Crash." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← the-germs
+**Pat Smear's Pre-Nirvana Band** : Before joining Nirvana as a touring guitarist, Pat Smear was a member of The Germs. The band's singer, Darby Crash, died of a heroin overdose in 1980, marking one of Smear's early experiences with bandmate loss. "And before that, he was in the germs." ← https://www.youtube.com/watch?v=dD-VEcFpIFA ← the-germs
+**Simple, Fast Punk Ethos** : Like the Ramones and English punk bands, The Germs demonstrated that impactful music could be made by playing just two chords very fast for approximately two minutes, emphasizing simplicity and raw energy. "Like them in the English punks, the germs showed everyone that you could play two chords very fast for two minutes, and that was really all you needed to do." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← the-germs
 

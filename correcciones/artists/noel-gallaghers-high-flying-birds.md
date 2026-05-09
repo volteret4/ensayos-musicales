@@ -5,7 +5,10 @@
 
 ## songs
 **The Death of You and Me** : This track was the first single released from Noel Gallagher's High Flying Birds' debut album. "This was the first single. It's called The Death of You and Me." ← https://www.youtube.com/watch?v=5bB7GAUM63Y
+**The Death of You and Me (2011)** : This was the first single released from Noel Gallagher's High Flying Birds' debut album. "This was the first single. It's called The Death of You and Me." ← https://www.youtube.com/watch?v=cjWxC2jQVrA ← noel-gallaghers-high-flying-birds
 
 ## curiosities
 **Liam Gallagher's Dismissive Tweet** : In response to the formation of Noel Gallagher's High Flying Birds, Liam Gallagher publicly mocked the band on Twitter, referring to them as "High Flying turds." "Or as Liam tweeted out in response, High Flying turds." ← https://www.youtube.com/watch?v=5bB7GAUM63Y
 
+## members
+- Noel Gallagher

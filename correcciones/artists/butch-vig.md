@@ -3,6 +3,7 @@
 ## member of
 - Firetown
 - Spooner
+- Garbage
 
 ## genres
 - Grunge
@@ -25,4 +26,6 @@
 **Producer of Notable Albums** : Butch Vig is a renowned record producer who worked with Kim Gordon and Sonic Youth on their album "Goo" and famously produced Nirvana's seminal album "Nevermind." He also produced L7's "Bricks Are Heavy." "butch vig, the guy who worked with Kim Gordon and the rest of Sonic Youth on the Goo album, and the dude who had just finished helping Nirvana make never mind." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Shaping the Grunge Revolution – Nirvana's "Nevermind"** : Butch Vig's production work on Killdozer's 1989 record "For Ladies Only" attracted attention across the US. This led Kurt Cobain to relocate Nirvana to Vig's Wisconsin studios to work on demos for their major label debut, which later became the album "Nevermind." Kurt Cobain was so impressed that he asked Vig to produce the entire album, a project that helped shape the "whole grunge revolution of the early 1990s." "Kurt Cobain decided to relocate Nirvana To butch's studios in Wisconsin to work on demos for what would become their major label debut." ← https://www.youtube.com/watch?v=gsSTJWN6cUo
 **Transition to Producer – Madison Indie Scene** : After playing in bands like Spooner (three albums) and Firetown (one album), Butch Vig developed a keen interest in producing music. He established a small studio space in Madison, Wisconsin, where he began working with local indie groups, including Killdozer. "It was around this time that butch became interested in producing music So he ran into small space in Madison, Wisconsin Where he began working with local indie groups including a group called Killdozer." ← https://www.youtube.com/watch?v=gsSTJWN6cUo
+**Producer and Engineer Career** : Butch Vig worked for years as a recording engineer and record producer before achieving significant fame. "He'd been knocking around for years as a recording engineer and record producer..." ← https://www.youtube.com/watch?v=P45lJTdneoI ← butch-vig
+**Producing Nirvana's Nevermind (Age 36)** : At age 36, Butch Vig was asked to produce Nirvana's *Nevermind* album, a project that "set him up for life" due to its monumental success. "before he was asked to produce Never Mind for Nirvana. That's set him up for life, starting age 36." ← https://www.youtube.com/watch?v=P45lJTdneoI ← butch-vig
 

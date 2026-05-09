@@ -18,6 +18,9 @@ TYPE_COLORS = {
     'instruments': '#9b59b6',
     'curiosities': '#95a5a6',
     'members':     '#e67e22',
+    'awards':      '#f1c40f',
+    'charts':      '#d63031',
+    'lists':       '#00b894',
 }
 DEFAULT_COLOR = '#bdc3c7'
 
@@ -30,6 +33,9 @@ CAT_LABELS = {
     'instruments': 'Instrumentos',
     'curiosities': 'Curiosidades',
     'members':     'Miembros',
+    'awards':      'Premios',
+    'charts':      'Charts',
+    'lists':       'Listas',
 }
 
 
@@ -151,6 +157,24 @@ def load_data():
                     'mentioned_artists': mention_targets_map.get((aid, title), []),
                 }
                 artists[aid]['categories'].setdefault('curiosities', []).append(item)
+
+    # ── Awards, Charts, Lists ─────────────────────────────────────────────────
+    for tbl, cat in [('awards', 'awards'), ('artist_charts', 'charts'), ('artist_lists', 'lists')]:
+        if tbl not in all_tables:
+            continue
+        for row_id, artist_id, title, desc, sf in conn.execute(
+            f'SELECT id, artist_id, title, description, source_file FROM {tbl} ORDER BY title'
+        ):
+            if artist_id not in artists:
+                continue
+            item = {
+                'id':                row_id,
+                'name':              title,
+                'facts':             [{'description': desc, 'source_file': sf}],
+                'is_mention_source': False,
+                'mentioned_artists': [],
+            }
+            artists[artist_id]['categories'].setdefault(cat, []).append(item)
 
     # ── Association categories (genres, labels, venues, instruments) ──────────
     assoc = [

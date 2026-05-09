@@ -25,6 +25,9 @@ SECTION_COLORS = {
     'albums':      '#3498db',
     'songs':       '#5dade2',
     'curiosities': '#95a5a6',
+    'awards':      '#f1c40f',
+    'charts':      '#d63031',
+    'lists':       '#00b894',
 }
 
 SECTION_LABELS = {
@@ -37,6 +40,9 @@ SECTION_LABELS = {
     'albums':      'Álbumes',
     'songs':       'Canciones',
     'curiosities': 'Curiosidades',
+    'awards':      'Premios',
+    'charts':      'Charts',
+    'lists':       'Listas',
 }
 
 # entity_type -> (table, junction, fk)
@@ -64,6 +70,7 @@ def load_data():
             'member_of': [], 'members': [],
             'genres': [], 'labels': [], 'concerts': [], 'instruments': [],
             'albums': [], 'songs': [], 'curiosities': [],
+            'awards': [], 'charts': [], 'lists': [],
         }
 
     if 'band_members' in all_tables:
@@ -128,6 +135,17 @@ def load_data():
             if ctx_id in all_artists:
                 all_artists[ctx_id]['curiosities'].append(
                     {'name': title, 'facts': [{'description': desc, 'source_file': sf or ''}]}
+                )
+
+    for field, tbl in [('awards', 'awards'), ('charts', 'artist_charts'), ('lists', 'artist_lists')]:
+        if tbl not in all_tables:
+            continue
+        for row_id, name, artist_id, desc, sf in conn.execute(
+            f'SELECT id, title, artist_id, description, source_file FROM {tbl} ORDER BY title'
+        ):
+            if artist_id in all_artists:
+                all_artists[artist_id][field].append(
+                    {'name': name, 'facts': [{'description': desc, 'source_file': sf or ''}]}
                 )
 
     # ── Named entities (genres, labels, concerts, instruments) ───────────────
@@ -431,7 +449,10 @@ function showArtist(id) {
     html += `</div></div>`;
   }
 
-  for (const [key, items] of [['albums', a.albums], ['songs', a.songs], ['curiosities', a.curiosities]]) {
+  for (const [key, items] of [
+    ['albums', a.albums], ['songs', a.songs], ['curiosities', a.curiosities],
+    ['awards', a.awards || []], ['charts', a.charts || []], ['lists', a.lists || []],
+  ]) {
     if (!items.length) continue;
     const color = SEC_COLORS[key] || '#888';
     html += `<div class="section">`;
@@ -502,7 +523,8 @@ let minElements = 0;
 function getCount(a) {
   return a.members.length + a.genres.length + a.labels.length +
          a.concerts.length + a.instruments.length +
-         a.albums.length + a.songs.length + a.curiosities.length;
+         a.albums.length + a.songs.length + a.curiosities.length +
+         (a.awards?.length || 0) + (a.charts?.length || 0) + (a.lists?.length || 0);
 }
 
 const artistListEl  = document.getElementById('artist-list');
@@ -710,7 +732,8 @@ def main():
         f.write(html)
 
     total_facts = sum(
-        len(a['albums']) + len(a['songs']) + len(a['curiosities'])
+        len(a['albums']) + len(a['songs']) + len(a['curiosities']) +
+        len(a['awards']) + len(a['charts']) + len(a['lists'])
         for a in data['artists']
     )
     print(f"{len(data['artists'])} artistas, {total_facts} entradas → {OUT_HTML}")

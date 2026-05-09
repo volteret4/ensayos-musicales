@@ -12,6 +12,8 @@
 **Sharp and Thin Sound in Goth Music** : Early Goth music was characterized by guitars that produced a "sharp and thin" sound. "The guitars were sharp and thin while the singing could be almost operatic at times." ← https://www.youtube.com/watch?v=gd9sO7c3N1s
 **Shoegaze Characteristics** : In Shoegaze, guitars were characterized by "lots of distortion, lots of feedback," playing a central role in creating the genre's loud, fuzzy, and buzzy sound. "Lots of distortion, lots of feedback with vocals buried in the mix." ← https://www.youtube.com/watch?v=amHre9ZZFkU
 **Suede's Distinctive Sound** : Suede's `Metal Mickey` featured "sharp, slashing guitars" and "Glam guitars," which were part of their distinct sound that celebrated 70s and 80s eccentric English rock. "those sharp, slashing guitars, the gladness of it all, and the undisguised accent." ← https://www.youtube.com/watch?v=5q5EnZj1FwE
+**Increased Use in Industrial Music (By 1987)** : By 1987, guitars became significantly more prevalent in industrial music, particularly among North American groups like Skinny Puppy and Ministry, marking a notable shift in the genre's instrumentation. "Thanks to groups like Skinny Puppy and Ministry, guitars were being used a lot more, especially by North American industrial groups." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← guitars
+**Outsold by Turntables (Late 1990s - Early 2000s)** : In the late 1990s and early 2000s, guitar rock faced a grim period, with guitars being outsold by turntables due to the overwhelming popularity of pop, hip-hop, dance music, and electronica. "turntables were outselling guitars." ← https://www.youtube.com/watch?v=Q4dEV1yn3OY ← guitars
 
 ## artists
 - Blink 182

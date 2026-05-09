@@ -15,6 +15,7 @@
 - Punk
 - Techno Pop
 - Technopop
+- New Romantic
 
 ## labels
 - Beggars Banquet
@@ -43,4 +44,8 @@
 **Synthesizer Discovery and Creative Shift** : In the spring of 1979, Gary Numan, who had previously favored guitars, encountered a Mini-Moog synthesizer in a studio. This spontaneous discovery radically altered his musical direction, leading him to abandon plans for a punk album and instead explore the concept of electronic punk songs, marking a pivotal moment in his career and the development of Technopop. "Another milestone in the creation of Tectopop came in the spring of 1979, when Gary Newman, previously a big fan of guitars, started playing with the new synthesizer someone had left in a studio, was a mini-mog." ← https://www.youtube.com/watch?v=5PJRCC6EwUY
 **Times Square Soundtrack Contribution (1980)** : Gary Numan contributed to the soundtrack for the 1980 movie *Time Square*. This soundtrack gained recognition for being one of the pioneering compilations to feature the emerging alternative music of the day, including punk rock and new wave. "The soundtrack featured the pretenders, Roxy music, Gary Newman, XTC, Joe Jackson." ← https://www.youtube.com/watch?v=zIkjd1OjCXM
 **Use of Flesh-and-Blood Drummer** : Unlike some contemporary electronic bands, Numan notably insisted on retaining a human drummer. "unlike Gary Newman who insisted on keeping a flesh and blood drummer, this group used recorded beats played off a real-to-real tape machine on stage." ← https://www.youtube.com/watch?v=1KF5MwJVYng
+**Alien-like Image** : Gary Numan cultivated a sharp visual image, described as resembling a "cold, detached alien" and likened to "Ziggy Stardust's love child." This look, characterized by sharp suits, ties, and perfectly groomed hair, was part of a broader aesthetic linked to the dehumanized electronic music sound that emerged in the late 1970s. "Meanwhile Gary Newman looked sharp too, but also a lot like some kind of cold detached alien. Maybe it was Ziggy Stardust's love child." ← https://www.youtube.com/watch?v=iL9KpQFqH4o ← gary-numan
+**Asperger Syndrome** : Gary Numan is one of three musicians specifically confirmed to have Asperger Syndrome. "musicians who are confirmed to have Asperger's. Very Newman, Travis Meeks of Days of the News and Susan Boyle are three." ← https://www.youtube.com/watch?v=NQgn0_mUh74 ← gary-numan
+**CR-78 Usage** : Gary Numan's distinctive sound in the early 1980s included the use of the Roland CR-78 drum machine. "and Gary Newman." ← https://www.youtube.com/watch?v=dablAKDOOV0 ← gary-numan
+**Possible Asperger Syndrome** : Gary Numan is mentioned as a musician who probably had Asperger Syndrome, a high-functioning type of autism often linked to above-average intelligence and notable creativity. "On the musician side, Mozart probably had aspergers, M&M, Gary Newman, Michael Jackson." ← https://www.youtube.com/watch?v=trMzjWWmbZo ← gary-numan
 

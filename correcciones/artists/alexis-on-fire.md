@@ -16,11 +16,15 @@
 - Post-Hardcore
 - Punk Rock
 - Screamo
+- Alternative
+- Indy
+- New Rock
 
 ## labels
 - Distort
 - EMI Music Publishing
 - Equal Vision
+- Universal (for distribution)
 
 ## concerts
 - Bellingham, Washington
@@ -63,4 +67,5 @@
 **Touring Challenges** : The band experienced significant disparity in audience numbers during their early tours. For example, they played a successful show at the Croatian Cultural Center in Vancouver to a thousand people with Billy Talent, only to cross the border into Bellingham, Washington, and play for only the bar staff, with Dallas Green not even performing due to voice issues. Later, attempts to "hammer it" in America during the "Old Crows" era, including a "disastrous" Warped Tour and long unfulfilling American tours where only 40-60% of shows were good, became mentally exhausting. "We played for the bar staff. I don't even think I played the show. You didn't. I didn't. I took a T-shirt. Because your voice was bothering you." ← https://www.youtube.com/watch?v=nEPT8ZVZ0so
 **Wade McNeil's Promotion Skills** : Even at 15 years old, Wade McNeil was adept at negotiating and promoting shows. He was known for organizing events and was responsible for booking Alexis on Fire's first American tour by connecting with people in internet chat rooms. "Wade was one of those kids. Wade can promote a show. Wade at 15 years old is Negoshi." ← https://www.youtube.com/watch?v=nEPT8ZVZ0so
 **Watch Out Album Artwork** : The artwork for the "Watch Out" album features two Catholic schoolgirls engaged in a knife fight. This imagery was inspired by a long-standing joke where the band would describe their sound on flyers as "two Catholic schoolgirls in a knife fight." Dallas Green photographed his then-girlfriend and her friend, who were actual Catholic high school students at the time and wore their own school uniforms for the shoot. "So when you make flyers for a show, back in the day you'd always have like the name of the band and then underneath it in parentheses or whatever, we'd have a little description of what the band was. And it was always something like, you know, crushing buffalo metal core or like, you know, whatever." ← https://www.youtube.com/watch?v=nEPT8ZVZ0so
+**Successful Canadian Indy Band** : Alexis On Fire is recognized as one of the best-selling Canadian Indy bands in recent years. They record for the Indy label Distort, which, due to lacking its own comprehensive distribution capabilities, subcontracts all its distribution needs to the major label Universal. This partnership allows them to maintain their independent status while benefiting from broader market reach. "This is how Alexis On Fire managed to become one of the best selling Canadian Indy bands the last few years." ← Ongoing History of New Music > Etymology： Part 1 | https://www.youtube.com/watch?v=Z8BTWo66SDI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 

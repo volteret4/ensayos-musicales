@@ -10,12 +10,17 @@
 - Punk
 - Punk Rock
 - R&B
+- Mod Revival
+- New Wave
+- Post-Punk
+- Powerpop
 
 ## albums
 **In The City (1977) – Debut Record** : This was the band's debut record, released on May 20, 1977. "The debut record was called In The City that came out May 20, 1977." ← https://www.youtube.com/watch?v=gKrAXMG8sTc
 
 ## songs
 **Art School (1977)** : This song is the first track on side one of their 1977 debut album, "In The City." "The jam and art school, side one, track one from their 1977 album In The City." ← https://www.youtube.com/watch?v=gKrAXMG8sTc
+**Down in the Tube Station at Midnight** : This song exemplifies the sound of The Jam, recognized as the foremost British Mod Revival band. The band was pivotal in the 1970s revival, adopting mod attitudes and aesthetics within the post-punk era. "The jam, the greatest of the British mod revival bands with down in the Tube Station at midnight." ← https://www.youtube.com/watch?v=mAlc-N2wn5s ← the-jam
 
 ## curiosities
 **Box Set Demo Contributions** : The Jam has benefited from including demo versions in their box set collections, leveraging this format to release previously unheard material. "David Bowie, the cure, the jam, the remones, joy division, the velvet underground, the smashing pumpkins, they've all benefited from putting demo versions into their box set collections." ← https://www.youtube.com/watch?v=zT6pRGYLWhw
@@ -33,4 +38,10 @@
 **Paul Weller's Influence** : Initially an R&B band, The Jam shifted direction after singer Paul Weller witnessed a Sex Pistols show. While embracing punk's energy, they distinguished themselves by also showing respect for British mod culture of the 1960s, rather than adhering to a pure "destroy everything" punk ethos. "After singer Paul Weller saw a Sex Pistols show, he steered things in a slightly different direction." ← https://www.youtube.com/watch?v=gKrAXMG8sTc
 **Punk Attitude, Pop Sound** : The Jam's overall attitude was definitively influenced by the punk scene, yet their sound was distinctly pop-oriented. They covered a wide array of material, from old Stax and Motown records to The Kinks and even the original Batman theme, successfully achieving their own significant hits on the pop charts. "Their attitude was definitely influenced by the punk scene but their sound was very pop." ← https://www.youtube.com/watch?v=tZV1lz-obQE
 **Radio Airplay in Brandon, Manitoba** : The Jam was among the eclectic mix of music played by KX96, a radio station in Brandon, Manitoba, where the speaker worked in 1983. This station exposed him to a broader range of artists beyond standard rock. "but there'd be Aztec camera. There would be the jam. There would be the clash." ← https://www.youtube.com/watch?v=4xxgPX-aR90
+**Brit-Pop Influence Comparison** : The Jam are mentioned in comparison to Oasis's "more classic British" Brit-Pop style, alongside Paul Weller and The Rolling Stones, serving to distinguish this particular sonic identity from Pulp's "kitsch" approach. "Oasis would be that movement, perhaps of the more classic British of Paul Weller and of The Rolling Stones, if The Jam." ← Music Radar Clan > PULP： Pilares del Brit Pop | https://www.youtube.com/watch?v=0r8_s6hR3Ss&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-jam
+**Connection to Jane's Addiction** : The show aimed to explore the connection between The Jam and Jane's Addiction. "What happened between the Jam and Jane's addiction?" ← https://www.youtube.com/watch?v=ua93Ui1u6UI ← the-jam
+**Greatest Mod Revival Band** : The Jam is highlighted as the biggest and greatest of the British mod revival bands. They played a crucial role in the 1970s resurgence of mod culture, with some post-punk bands adopting its attitudes and aesthetics. "The jam, the greatest of the British mod revival bands with down in the Tube Station at midnight." ← https://www.youtube.com/watch?v=mAlc-N2wn5s ← the-jam
+**Influence on Noel Gallagher** : Paul Weller's work in this band was idolized by Noel Gallagher from a young age, contributing to his musical development and eventually leading to a collaboration. "Ever since he was a kid, no idolized Willers work in the jam." ← https://www.youtube.com/watch?v=IhG-WJH9om8 ← the-jam
+**Influence on Oasis** : The Jam was recognized as one of the deep-rooted British musical influences that shaped Oasis's sound, alongside artists such as Paul Weller, The Rolling Stones, and The Who, connecting Oasis to a rich heritage of classical British music. "Oasis venía de lo más profundo británico, tenía influencias de Paul Wunder, tenía influencias de De Jam." ← Music Radar Clan > OASIS： Pilares del Brit Pop | https://www.youtube.com/watch?v=hHuqc4TgoOs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-jam
+**New Wave Powerpop** : The Jam are listed as one of the bands whose music, along with other acts like The Smiths and XTC, could be included in the new wave spectrum of Powerpop. Their sound contributed to the integration of Powerpop into alternative rock, demonstrating the influence of punk. "We can probably include the jam, the smiths, XTC, squeeze, and the vapors." ← https://www.youtube.com/watch?v=hstJ8M2laho ← the-jam
 

@@ -9,4 +9,9 @@
 
 ## curiosities
 **Trainspotting Soundtrack Contribution (1996)** : Underworld contributed to the first *Trainspotting* soundtrack in 1996. This soundtrack gained widespread acclaim and is often listed among the best movie soundtracks of all time, known for its mix of old and new rock and electronic music that captured the film's desperate yet uplifting tone. "New Order, Pulp, Blur, Underworld, Elastica, Lou Reed." ← https://www.youtube.com/watch?v=zIkjd1OjCXM
+**Electronic Music Integration** : Underworld was listed as one of the artists who began incorporating electronic sounds into their music towards the end of the 1990s, reflecting the genre's increasing prominence. "Similarly, electronic music started coming out of Bjork, and Moby, and Underworld, and the Crystal Method, and Daffed Punk, and Air." ← https://www.youtube.com/watch?v=hBQE4t72i3o ← underworld
+**Kraftwerk Influence** : Underworld, a prominent group in EDM and techno, is directly linked to Kraftwerk's influence, illustrating how the German pioneers laid foundational groundwork for these electronic genres. "Today's EDM and all techno from groups like Underworld and anything that came out of Detroit to Daff Punk, Ambient and Chillout music, Craftwork influence." ← https://www.youtube.com/watch?v=ePZDkqLM_gw ← underworld
 
+## genres
+- EDM
+- Techno

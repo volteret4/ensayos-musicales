@@ -10,6 +10,7 @@
 **Fanzine Coverage (1960s)** : The fanzine "Punk," which appeared at the end of 1975, covered "raw, primitive garage bands from the 60s" like Question Mark and the Mysterians, recognizing their influence on the emerging punk scene. "It also covered Iggy Pop and the Stooges, The New York Dolls, and even some of their raw, primitive garage bands from the 60s like Question Mark and Mysterians." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 3 | https://www.youtube.com/watch?v=VYi3r0G-ne4&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **First Revival: Punk Rock (Mid-1970s)** : The punk rock explosion of the mid-1970s is recognized as the first revival of Garage Rock. This new incarnation was essentially the same fundamental sound, but typically louder, sometimes angrier, occasionally political, and often much faster, while maintaining its core DNA. Bands like the Sex Pistols, The Clash, and The Damned are considered Garage Rock at their core due to their back-to-basics approach. "So the punk rock explosion of the middle 70s was the first ever revival of garage rock." ← Ongoing History of New Music > Alt Rock Revivals Part 4： Garage Rock | https://www.youtube.com/watch?v=UpWz3X33vSY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Influence of Revivals** : Each time garage rock has experienced a revival and re-emerged into prominence, it has exerted a significant influence on the prevailing music of that era. "And each time it's come up for air, it's had a major influence on the music of the day." ← Ongoing History of New Music > Alt Rock Revivals Part 3： Emo | https://www.youtube.com/watch?v=v_am7ifh7Pk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Influence on Shoegaze** : Garage rock exerted strong influences on the shoegaze sound, contributing significantly to its noisy and guitar-driven characteristics. "tenía como esas influencias muy fortes del garaje que podía ser de sonidjuz o de esa parte del roca americano." ← Music Radar Clan > DREAM POP y SHOEGAZE. Diferencias entre ellos. | https://www.youtube.com/watch?v=75cEjgxTR3U&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Minor Revival: Garage Punk (Late 1980s/Early 1990s)** : After the punk explosion and its subsequent diversification in the 1980s, a minor revival emerged in the late 1980s and early 1990s, labeled "Garage Punk." These bands, such as The Headcoats, The Mighty Caesars, and The Mummies, drew more heavily from The Stooges than The Kingsmen, resulting in a louder and faster sound compared to the original Garage Rock acts. "After the punk explosion and its segmentation and stratification into many different forms throughout the 1980s, there was a minor revival in the late 80s and early 1990s." ← Ongoing History of New Music > Alt Rock Revivals Part 4： Garage Rock | https://www.youtube.com/watch?v=UpWz3X33vSY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Mixed with Pop Punk in 2010s** : Garage Rock elements were sometimes added to Pop Punk styles by "culty bands" in the 2010s. This mix created a harder edge for these bands, such as Wavves, Bass Drum of Death, Ty Segall, and PUP, contributing to the brief surge of Pop Punk during the decade. "And if you were inclined to look, you would have also found some interesting culty bands who plumbed Pop Punk styles and occasionally took things a little harder and then also maybe add a little garage rock to the mix." ← Ongoing History of New Music > The History of the 2010s Part 4： The Revivals | https://www.youtube.com/watch?v=HSvgRyGiOpE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Origins and Original Era (1964-1968)** : The roots of Garage Rock trace back to the early 1960s, sparked by inspiration from The Beatles and the British Invasion. Initially, it was simply called "Rock," not "Garage Rock." Its golden age was between 1964 (especially after The Beatles' Ed Sullivan appearance) and around 1968, when rock became more polished. An estimated 184,000 Garage bands formed in the US during those four years alone. "The roots of Garage Rock began in the early 1960s, when bands inspired by the Beatles and the rest of the British invasion started springing up like mushrooms." ← Ongoing History of New Music > Alt Rock Revivals Part 4： Garage Rock | https://www.youtube.com/watch?v=UpWz3X33vSY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -17,15 +18,18 @@
 **Ramones' Sound Influence** : The core of The Ramones' music was described as "bubblegum pop mixed with 60s garage rock played at a million miles an hour," defining their distinct, fast-paced style. "at its core, this music was bubblegum pop mixed with 60s garage rock played at a million miles an hour." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 3 | https://www.youtube.com/watch?v=VYi3r0G-ne4&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Regional Diversity** : Garage Rock lacked a single, unified sound, instead exhibiting strong regional variations across different areas. For instance, Surf Rock developed distinctly on the American West Coast. "There was no one sound for Garage Rock bands. Everything was very regional." ← Ongoing History of New Music > Alt Rock Revivals Part 4： Garage Rock | https://www.youtube.com/watch?v=UpWz3X33vSY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Revival in Early 2000s** : Around the time The Strokes' debut album "Is This It" was gaining traction, there was significant talk about a garage rock revival. This movement, often associated with a "new look at an old sound," was seen as a key component of the broader Indy Rock Revival. "People were talking about a garage rock revival and the return of Indy Rock and a new look at an old sound." ← Ongoing History of New Music > The Strokes | https://www.youtube.com/watch?v=jEfofyobGiI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Sonic Compatibility with Cassette** : The inherent "reduced sound" quality of cassette tapes has made it a characteristic and attractive medium for genres like garage rock. This specific sound, though not objectively pure, is appreciated by passionate fans who find it suitable for their music. "el sonido del caset es como un sonido que se ha hecho muy característico en ciertos estilos de música como puede ser el rock de garage." ← Music Radar Clan > Coleccionar Cassettes. Cosas que hay que saber. | https://www.youtube.com/watch?v=W5mOafWo-28&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## artists
 - ? and the Mysterians
+- Banshee
 - Bass Drum of Death
 - Chad Allen and the Expressions
 - Count Five
 - International Noise Conspiracy
 - JET
 - Jay Reatar
+- Joe Strummer
 - L7
 - PUP
 - Question Mark in the Mysterians
@@ -34,10 +38,13 @@
 - The Black Keys
 - The Black Lips
 - The Brian Jones Town Massacre
+- The Clash
 - The Datsons
 - The Feminine Complex
 - The Guess Who
 - The Hives
+- The Horrors
+- The Jesus and Mary Chain
 - The Kingsmen
 - The Kinks
 - The Liberty's

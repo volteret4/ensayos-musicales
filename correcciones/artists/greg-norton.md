@@ -2,4 +2,5 @@
 
 ## member of
 - Husker Du
+- Husker Dü
 

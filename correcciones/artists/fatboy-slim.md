@@ -10,12 +10,15 @@
 - Electronic Dance Music
 - Electronica
 - Electronica (some people called)
+- Alternative Music
+- Electronic
 
 ## instruments
 - Technics SL-1200
 
 ## albums
 **You've Come A Long Way Baby (1998)** : This 1998 album featured the track "Right Here Right Now" and contributed to Fatboy Slim's achievement of number one albums and singles by the end of the decade. "Fat Boy Slim and right here right now from his 1998 album You've Come A Long Way Baby." ← https://www.youtube.com/watch?v=amHre9ZZFkU
+**You've Come a Long Way, Baby (1998)** : Released in 1998, this album was highlighted as one of the most important electronic albums of the 90s, showcasing the intricate and rapid sound characteristic of the era. ← Music Radar Clan > Daft Punk： Como el Homework revolucionó la electrónica | https://www.youtube.com/watch?v=myhlWJ6DQpw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← fatboy-slim
 
 ## songs
 **Right Here Right Now (1998)** : From his 1998 album *You've Come A Long Way Baby*, this song was part of Fatboy Slim's output that reached number one on albums and singles charts, making him a radio staple by the end of the 90s. "Fat Boy Slim and right here right now from his 1998 album You've Come A Long Way Baby." ← https://www.youtube.com/watch?v=amHre9ZZFkU
@@ -27,4 +30,7 @@
 **Massive Gigs and Commercial Success** : By 1996, under the name Fatboy Slim, Norman Cook was "presiding over huge gigs featuring thousands of dancers," and by the end of the 1990s, he achieved widespread commercial success with number one albums and singles, becoming a constant presence on the radio. "By 1996 he was calling himself Fat Boy Slim and presiding over huge gigs featuring thousands of dancers." ← https://www.youtube.com/watch?v=amHre9ZZFkU
 **Technics SL-1200 Endorsement** : Fatboy Slim is mentioned as a prominent DJ who prefers and endorses the Technics SL-1200 turntable, highlighting its reputation among professional users for DJing. "If you ever need an endorsement of the SL-1200, just ask Fatboy Slim, and what decks he prefers to use when he DJs." ← https://www.youtube.com/watch?v=IIJySSo276k
 **Transition from Indie Pop to Dance Music** : Norman Cook, formerly the bass player for the "nice tight English Indy pop band" The Housemartins in the 1980s, transitioned into producing dance music, adopting the moniker Fatboy Slim by 1996. "Norman Cook used to be the bass player for the House Martins, a nice tight English Indy pop band from the 1980s." ← https://www.youtube.com/watch?v=amHre9ZZFkU
+**DJ Evolvement into Star** : Norman Cook, under the moniker Fatboy Slim, was one of the DJs who successfully transitioned from being behind the turntables to composing mainstream-friendly dance tracks, evolving into a recognized star within the electronic music scene. "DJs like Norman Cook were able to get out from behind the turntables, and compose some very mainstream friendly dance tracks like this. He was known as Fatboy Slim." ← https://www.youtube.com/watch?v=hBQE4t72i3o ← fatboy-slim
+**DJ Musician Producer** : Fatboy Slim is mentioned as one of the DJs who evolved into a complex producer and musician, an emergence facilitated by the advent and adoption of the MIDI system in DJ booths in the 1990s. "pues los chemical Proder, Fatboy Slim, un montón de esta gente importante." ← Music Radar Clan > HISTORIA Y EVOLUCIÓN DEL DJ | https://www.youtube.com/watch?v=VtfJyysUI7A&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← fatboy-slim
+**Producer for Alternative Music** : Fatboy Slim (mentioned as "Fadro y Slim") was noted as one of the electronic artists who started working as producers for many alternative music records during the 1990s. This crossover contributed to the blending of electronic and alternative sounds. ← Music Radar Clan > Daft Punk： Como el Homework revolucionó la electrónica | https://www.youtube.com/watch?v=myhlWJ6DQpw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← fatboy-slim
 

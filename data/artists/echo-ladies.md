@@ -1,0 +1,9 @@
+# artist - Echo Ladies
+
+## genres
+- Noise rock
+- Rock
+
+## albums
+**Pink Noise (June 8th) - UK Debut/EP Expansion** : This album from Echo Ladies is either their debut or an extension/EP expanding on an initial work, and it has received very positive reviews in the United Kingdom. The band's sound is characterized by rock with a "noisy" touch, occasionally drawing comparisons to groups like Sonic Youth or Cocteau Twins (referred to as Curnilofa in the transcript), appealing to those who appreciate a classic guitar pedal sound. "Esta banda acaba de nacer a cenada su album de boot y es como una ampliación o un EP o algo que amplia la primera parte." ← Music Radar Clan > LANZAMIENTOS JUNIO 2018 | https://www.youtube.com/watch?v=AvdFC5Q0nKk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← echo-ladies
+

@@ -2,4 +2,5 @@
 
 ## member of
 - The Shaggs
+- The Shags
 

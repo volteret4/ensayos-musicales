@@ -1,0 +1,7 @@
+# artist - Jesse Kanda
+
+## curiosities
+**Artwork for Björk's Utopia** : Jesse Kanda is a highly regarded plastic and graphic artist responsible for the distinctive visual direction of Björk's *Utopia* album, including the "weird mask" and the overall artistic concept. "La máscara la CIA y la máscara, no la máscara sino todo el trabajo artístico del disco, la CIA y la máscara, que es un artista plástico muy importante." ← Music Radar Clan > Lo que rodea a Björk y Utopia | https://www.youtube.com/watch?v=9MYcEQEHi9M&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jesse-kanda
+**Collaboration with Arca** : Kanda has also worked with Arca, highlighting his connections within the experimental electronic music scene and his role as a visual artist for contemporary musicians. "Es el que ha trabajado con Arca." ← Music Radar Clan > Lo que rodea a Björk y Utopia | https://www.youtube.com/watch?v=9MYcEQEHi9M&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jesse-kanda
+**Videography for Björk's Vulnicura Era** : Kanda previously collaborated with Björk during her *Vulnicura* period, contributing to the creation of some of her music videos, indicating an ongoing artistic relationship. "Había hecho algún videoclip de Bjork en la etapa del Gurnicura con lo cual." ← Music Radar Clan > Lo que rodea a Björk y Utopia | https://www.youtube.com/watch?v=9MYcEQEHi9M&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jesse-kanda
+

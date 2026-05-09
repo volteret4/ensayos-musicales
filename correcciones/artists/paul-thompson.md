@@ -3,4 +3,5 @@
 ## member of
 - Franz Ferdinand
 - Yummy Fur
+- The Cure
 

@@ -1,13 +1,28 @@
 # artist - Beyoncé
 
+## genres
+- (Not mentioned)
+
+## labels
+- (Not mentioned)
+
+## concerts
+- (Not mentioned)
+
+## instruments
+- (Not mentioned)
+
 ## albums
-**Beyoncé (2013)** : A self-titled album released by Beyoncé on Friday, June 10, 2013, as a surprise. This unconventional Friday release date, before the establishment of the global release day, gave her a strategic head start over other artists for chart sales, as it allowed her first chart week to include Friday, Saturday, Sunday, and Monday, thereby artificially inflating her initial sales figures. "She decided to mess things up with a surprise release of a self titled album on June 10, 2013, which was a Friday." ← https://www.youtube.com/watch?v=GlcOoINI7EQ
+**Beyoncé (2013)** : A self-titled album released by Beyoncé on Friday, June 10, 2013, as a surprise. This unconventional Friday release date, before the establishment of the global release day, gave her a strategic head start over other artists for chart sales, as it allowed her first chart week to include Friday, Saturday, Sunday, and Monday, thereby artificially inflating her initial sales figures. "She decided to mess things up with a surprise release of a self titled album on June 10, 2013, which was a Friday." ← https://www.youtube.com/watch?v=GlcOoINI7EQ ← beyoncé
+**Lemonade** : This album was initially released under an exclusive contract with Apple Music, which Beyoncé later completely regretted. She has referenced this exclusive deal in her songs, indicating that it took a toll on her. "no tenemos el Lemony por un contrato exclusivo que hizo con Apple Music del que se acabó completamente repintiendo por el que yo estén en la exclusiva del Lemony, en el cual Villonz se en alguna canción ha dicho que la ha pasado factura" ← Music Radar Clan > Artistas que no están en Spotify y por qué | https://www.youtube.com/watch?v=RQYV60lqU8Y&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← beyoncé
 
 ## curiosities
-**2023 Tour High Ticket & Service Charges** : For Beyoncé's 2023 tour, some tickets were sold for as much as $4,000. Due to service charges being set as a percentage of the face value, the service charge on these high-priced tickets could reach up to $550, illustrating the significant impact of percentage-based fees on expensive tickets. "If we look at Beyonce's 2023 tour, some tickets sold for $4,000 and the service charge, a percentage of the face value, could be as high as $550." ← https://www.youtube.com/watch?v=8q2bRZyHnHE
-**Contemporary Catalog Sale** : Beyoncé is listed among modern artists who have sold parts of their back catalog for significant financial gain, demonstrating the broad appeal of this strategy in the music industry. ← https://www.youtube.com/watch?v=sfie4YYncxk
-**Fan Spending** : Beyoncé ranked second for the most expensive performer for fans, with an average fan spending approximately $500 a year on her. This figure is less than half of what Taylor Swift fans spend. "second place Cogné." ← https://www.youtube.com/watch?v=KtdIMNoHqA8
-**Most Powerful Woman in Music** : Beyoncé is widely considered to be "probably the most powerful woman in music today," reflecting her immense influence and standing within the industry. "And we can't not mention Beyoncé, who is probably the most powerful woman in music today." ← https://www.youtube.com/watch?v=11UsTJQyQds
-**Music for Confidence** : Beyoncé's music was listed among artists that make people feel the most confident, alongside Lizzo, Taylor Swift, Adele, and Lady Gaga. "The music that makes people feel the most confident, Lizzo, Taylor Swift, Adele, Beyoncé, and Lady Gaga." ← https://www.youtube.com/watch?v=KtdIMNoHqA8
-**Surprise Album Releases** : Beyoncé became known for releasing albums without prior announcement in the 2010s, a strategy that David Bowie had pioneered with his 2013 album *The Next Day*. "I think Beyonce, who became known for doing this sort of thing. Did she do it before Bowie? Nope." ← https://www.youtube.com/watch?v=Yq2A_o9-ulM
+**2023 Tour High Ticket & Service Charges** : For Beyoncé's 2023 tour, some tickets were sold for as much as $4,000. Due to service charges being set as a percentage of the face value, the service charge on these high-priced tickets could reach up to $550, illustrating the significant impact of percentage-based fees on expensive tickets. "If we look at Beyonce's 2023 tour, some tickets sold for $4,000 and the service charge, a percentage of the face value, could be as high as $550." ← https://www.youtube.com/watch?v=8q2bRZyHnHE ← beyoncé
+**Collaborated with James Blake** : Beyoncé has collaborated with James Blake. "Ha colaborado con Villonce." ← Music Radar Clan > JAMES BLAKE. El mago del sonido. | https://www.youtube.com/watch?v=dLsLxcMVZFM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← beyoncé
+**Contemporary Catalog Sale** : Beyoncé is listed among modern artists who have sold parts of their back catalog for significant financial gain, demonstrating the broad appeal of this strategy in the music industry. ← https://www.youtube.com/watch?v=sfie4YYncxk ← beyoncé
+**Exclusive Contract Regret** : Beyoncé's exclusive deal for "Lemonade" with Apple Music, though temporary, caused her regret. This contract eventually expired, leading to the album's release on all digital platforms. "en cuanto a cada vez se contratos exclusividad con Apple Music que era por un tiempo, acaba siendo liberado para todos los suportes digitales." ← Music Radar Clan > Artistas que no están en Spotify y por qué | https://www.youtube.com/watch?v=RQYV60lqU8Y&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← beyoncé
+**Fan Spending** : Beyoncé ranked second for the most expensive performer for fans, with an average fan spending approximately $500 a year on her. This figure is less than half of what Taylor Swift fans spend. "second place Cogné." ← https://www.youtube.com/watch?v=KtdIMNoHqA8 ← beyoncé
+**Most Powerful Woman in Music** : Beyoncé is widely considered to be "probably the most powerful woman in music today," reflecting her immense influence and standing within the industry. "And we can't not mention Beyoncé, who is probably the most powerful woman in music today." ← https://www.youtube.com/watch?v=11UsTJQyQds ← beyoncé
+**Music for Confidence** : Beyoncé's music was listed among artists that make people feel the most confident, alongside Lizzo, Taylor Swift, Adele, and Lady Gaga. "The music that makes people feel the most confident, Lizzo, Taylor Swift, Adele, Beyoncé, and Lady Gaga." ← https://www.youtube.com/watch?v=KtdIMNoHqA8 ← beyoncé
+**Surprise Album Releases** : Beyoncé became known for releasing albums without prior announcement in the 2010s, a strategy that David Bowie had pioneered with his 2013 album *The Next Day*. "I think Beyonce, who became known for doing this sort of thing. Did she do it before Bowie? Nope." ← https://www.youtube.com/watch?v=Yq2A_o9-ulM ← beyoncé
 

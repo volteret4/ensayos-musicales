@@ -2,6 +2,7 @@
 
 ## members
 - Thomas Morgan Robertson (real name)
+- Thomas Morgan Robertson
 
 ## genres
 - Alt-Rock
@@ -11,6 +12,7 @@
 ## instruments
 - Home-built keyboard synthesizers
 - Recording tape
+- Electronics gear
 
 ## albums
 **The Golden Age of Wireless (1982)** : This debut album was released in 1982 and gained significant traction due to the constant rotation of its single "She Blinded Me with Science" on MTV. The album contributed to Thomas Dolby's mad scientist persona, surrounded by complex electronic gear. "In 1982, he released a debut album called The Golden Age of Wireless." ← https://www.youtube.com/watch?v=h6snk0m4200
@@ -29,4 +31,6 @@
 **Nokia Ringtone Technology Invention** : Thomas Dolby invented the core technology inside Nokia cell phones that enables them to play ringtones. "the thing inside the phone that allows the ring tune to be played was invented by Thomas Dolby." ← https://www.youtube.com/watch?v=QfiRRtsZoYU
 **Origins of "Dolby" Nickname** : In the 1970s, while experimenting with home-built keyboard synthesizers and recording tape, his friends nicknamed him "Dolby." This moniker was a reference to the noise reduction technology that was becoming prevalent in home stereo systems at the time. "That's when his friends nicknamed him Dolby after the noise reduction technology that was being introduced to home stereos at the time." ← https://www.youtube.com/watch?v=h6snk0m4200
 **Similar Musical Approach** : Mentioned alongside Howard Jones as an artist who shared a similar approach to utilizing electronic instruments in his music. "Same thing with Thomas Dolby." ← https://www.youtube.com/watch?v=1KF5MwJVYng
+**Early Users of Fairlight CMI (1979 onwards)** : Thomas Dolby, known for his electronic music and innovative use of technology, was an artist who readily saw "new possibilities" in the Fairlight CMI. This pioneering digital sampler, appearing in 1979, provided tools for unique sound manipulation that aligned with his artistic vision. "Peter Gabriel, Kate Bush, Brian Eno, David Byrne, New Order, and Thomas Dolby all saw new possibilities in the technology." ← https://www.youtube.com/watch?v=ak6OuOUkRrQ ← thomas-dolby
+**Origin of Stage Name "Dolby"** : In the 1970s, Thomas Robertson's friends nicknamed him "Dolby" because he spent a significant amount of time experimenting with home-built keyboard synthesizers and recording tape, associating him with the "Dolby" noise reduction technology that was becoming prevalent in home stereos. "That's when his friends nicknamed him Dolby, after the noise reduction technology that was being introduced to home stereos at the time." ← https://www.youtube.com/watch?v=8lQv8eMJ868 ← thomas-dolby
 

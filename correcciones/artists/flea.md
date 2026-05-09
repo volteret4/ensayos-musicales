@@ -3,6 +3,9 @@
 ## member of
 - Mike Watt
 - Red Hot Chili Peppers
+- Hate
+- Jane's Addiction
+- Rocket Juice & the Moon
 
 ## curiosities
 **Creative State Before Reunion** : Anthony Kiedis observed that in the band's previous incarnation (before John's return), Flea was not "feeling his best self" and was not "on fire" musically. This perceived lack of enthusiasm from Flea was a factor that led Anthony to start contemplating John's potential involvement. "I knew that Flea was in a mood in a disposition where he wasn't feeling his, his, his best self in the previous incarnation. For whatever reason, it just like he wasn't, he wasn't on fire." ← https://www.youtube.com/watch?v=Nr-3Y3UWQcI
@@ -18,4 +21,11 @@
 **Reaching Out to Frusciante for Reunion (1998)** : Flea was instrumental in convincing John Frusciante to rejoin the Red Hot Chili Peppers in 1998. He visited Frusciante at his house and "broached the subject" of him coming back, expressing his personal desire for the reunion. His garage was subsequently set up as a rehearsal space for the reunited band. "And Flea went by the house for a visit and broached the subject above John rejoining the band. Nothing would make me happier, he said." ← https://www.youtube.com/watch?v=TESrEzVHLCc
 **Recipient of Jam Suggestion** : John Frusciante mentioned to Flea that Chad Smith had expressed missing playing with them and suggested a jam session. This conversation took place while John and Flea were in John's kitchen. "I didn't really talk about it until, Flea and I were standing in my kitchen and Chad had said something to me when I saw him at Flea's wedding." ← https://www.youtube.com/watch?v=Nr-3Y3UWQcI
 **Simultaneous Reunion Discussion with Anthony** : Flea and Anthony Kiedis remarkably approached each other at the same time to discuss John Frusciante's return, both having independently been thinking about it. Flea had a "more important" thing to tell Anthony, which turned out to be the same subject. "Basically, we were both saying the exact same thing at the exact same time, which was what do you think about John?" ← https://www.youtube.com/watch?v=Nr-3Y3UWQcI
+**Chess Enthusiast** : Flea, the bassist for the Red Hot Chili Peppers, is an avid chess player. When the band is on tour, he frequently challenges individuals to games, including grandmasters who are invited backstage specifically to play him. "When the chili peppers are on the road, he'll often challenge people to games, including grandmasters who are invited backstage for the purpose of playing flea." ← https://www.youtube.com/watch?v=CgDCaUxbQDU ← flea
+**Transition from Trumpet to Bass** : Before becoming a renowned bassist for the Red Hot Chili Peppers, Michael Balzary, known as Flea, was originally a trumpet player. He learned to play the bass guitar from Hillel Slovak, who taught him the instrument. "Hillel was the guy who taught this trumpet player named Michael Ballzery to play bass." ← https://www.youtube.com/watch?v=CTZ4FfDVFfE ← flea
 
+## instruments
+- Bass
+
+## songs
+**Give It Away (1991) - Bassline Origin** : Flea developed the distinctive bassline for "Give It Away" while working on a side project called Hate, with members of the punk-funk band Fishbone. He had originally intended it for Hate, but the band dissolved before it could be recorded. "Lee came up with the bass line while working on a side project called Hate with a few members of the punk-funk band Fishbone." ← https://www.youtube.com/watch?v=Rf1tFWQg51Y ← flea

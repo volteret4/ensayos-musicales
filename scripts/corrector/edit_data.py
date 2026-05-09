@@ -357,6 +357,9 @@ def parse_pending_md(etype, fp):
             'albums':      sections.get('albums', []),
             'songs':       sections.get('songs', []),
             'curiosities': sections.get('curiosities', []),
+            'awards':      sections.get('awards', []),
+            'charts':      sections.get('charts', []),
+            'lists':       sections.get('lists', []),
             '_pending': True, '_etype': etype, '_file': os.path.basename(fp),
         }
     return {
@@ -430,6 +433,7 @@ def load_data():
             'id': aid, 'name': name, 'is_primary': bool(isp),
             'member_of': [], 'members': [], 'genres': [], 'labels': [],
             'concerts': [], 'instruments': [], 'albums': [], 'songs': [], 'curiosities': [],
+            'awards': [], 'charts': [], 'lists': [],
         }
 
     if 'band_members' in tabs:
@@ -476,6 +480,16 @@ def load_data():
             if cid in artists:
                 artists[cid]['curiosities'].append(
                     {'name': title, 'facts': [{'description': desc, 'source_file': sf or ''}]}
+                )
+
+    for field, tbl in [('awards', 'awards'), ('charts', 'artist_charts'), ('lists', 'artist_lists')]:
+        if tbl not in tabs: continue
+        for row_id, name, arid, desc, sf in conn.execute(
+            f'SELECT id, title, artist_id, description, source_file FROM {tbl} ORDER BY title'
+        ):
+            if arid in artists:
+                artists[arid][field].append(
+                    {'name': name, 'facts': [{'description': desc, 'source_file': sf or ''}]}
                 )
 
     entities = {}
@@ -561,7 +575,7 @@ def load_data():
         _apply_field_filters(a, fk,
             string_fields=('genres', 'labels', 'concerts', 'instruments'),
             named_fields=('members', 'member_of'),
-            fact_fields=('albums', 'songs', 'curiosities'))
+            fact_fields=('albums', 'songs', 'curiosities', 'awards', 'charts', 'lists'))
 
     for ek in ('genre', 'label', 'concert', 'instrument'):
         sub = TYPE_TO_DIR[ek]

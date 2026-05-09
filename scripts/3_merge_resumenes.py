@@ -1,22 +1,29 @@
+import json
 import os
 import re
 from collections import defaultdict
 
-RESUMENES_FOLDER = './resumenes'
-DATA_FOLDER      = './data'
+RESUMENES_FOLDER   = './resumenes'
+DATA_FOLDER        = './data'
+TRANSCRIPTS_FOLDER = './transcripts'
 
 ENTRY_RE = re.compile(r'^\*\*(.+?)\*\*\s*:\s*(.+)')
 
 # ── Podcast source helpers ─────────────────────────────────────────────────────
 
 def load_podcast_env(folder):
-    """Read podcast.env from folder. Returns (title, playlist_id).
-    Accepts both TITLE=/NAME= and PLAYLIST=/YT_PLAYLIST= key variants."""
+    """Read podcast.env from folder. Returns (title, playlist_id, source_url).
+    Keys accepted:
+      TITLE= / NAME=            — podcast name
+      PLAYLIST= / YT_PLAYLIST=  — YouTube playlist URL (playlist_id extracted)
+      URL= / WEBSITE= / RSS=    — generic source URL (non-YouTube podcasts)
+    """
     env_path = os.path.join(folder, 'podcast.env')
     if not os.path.exists(env_path):
-        return '', ''
+        return '', '', ''
     title = ''
     playlist_id = ''
+    source_url = ''
     with open(env_path, 'r', encoding='utf-8') as f:
         for line in f:
             k, sep, v = line.strip().partition('=')
@@ -30,7 +37,9 @@ def load_podcast_env(folder):
                 m = re.search(r'[?&]list=([A-Za-z0-9_-]+)', v)
                 if m:
                     playlist_id = m.group(1)
-    return title, playlist_id
+            elif k in ('URL', 'WEBSITE', 'RSS'):
+                source_url = v
+    return title, playlist_id, source_url
 
 def extract_video_id(filename):
     """Extract YouTube video ID from 'Title [VID_ID].md' filenames."""
@@ -43,18 +52,80 @@ def extract_chapter_title(filename):
     name = re.sub(r'\s*\[[A-Za-z0-9_-]{8,12}\]\s*$', '', name)
     return name.strip()
 
-def make_source_str(podcast_title, video_id, playlist_id, chapter_title=''):
-    """Build 'Podcast > Chapter | https://youtube.com/watch?v=VID&list=LIST'."""
-    if not video_id:
-        return ''
-    url = f'https://www.youtube.com/watch?v={video_id}'
-    if playlist_id:
-        url += f'&list={playlist_id}'
+def make_source_str(podcast_title, video_id, playlist_id, chapter_title='', source_url=''):
+    """Build source attribution string.
+    YouTube:  'Podcast > Chapter | https://youtube.com/watch?v=VID&list=LIST'
+    Generic:  'Podcast > Chapter | https://feeds.example.com/rss'
+    No URL:   'Podcast > Chapter'
+    """
+    if video_id:
+        url = f'https://www.youtube.com/watch?v={video_id}'
+        if playlist_id:
+            url += f'&list={playlist_id}'
+    else:
+        url = source_url
     parts = [p for p in (podcast_title, chapter_title) if p]
     label = ' > '.join(parts)
-    if label:
+    if not label and not url:
+        return ''
+    if label and url:
         return f'{label} | {url}'
-    return url
+    return label or url
+
+def _norm_ep(t):
+    """Normaliza título de episodio para matching flexible."""
+    t = t.lower()
+    t = re.sub(r'[^\w\s]', ' ', t)
+    return re.sub(r'\s+', ' ', t).strip()
+
+def _transcripts_mirror(resumenes_root):
+    """Devuelve la carpeta transcripts/ equivalente a una ruta de resumenes/."""
+    norm = os.path.normpath(resumenes_root)
+    base = os.path.normpath(RESUMENES_FOLDER)
+    if norm.startswith(base):
+        rel = os.path.relpath(norm, base)
+        return os.path.join(TRANSCRIPTS_FOLDER, rel)
+    return None
+
+def load_episodes_index(folder):
+    """Carga episodes.json → dict {título_normalizado: url_episodio}."""
+    path = os.path.join(folder, 'episodes.json')
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        return {
+            _norm_ep(ep['title']): ep['url']
+            for ep in data.get('episodes', [])
+            if ep.get('title') and ep.get('url')
+        }
+    except Exception:
+        return {}
+
+def match_episode_url(chapter_title, index):
+    """Intenta encontrar la URL del episodio más cercana al título del capítulo.
+    Prueba: exacto → uno contiene al otro → mayor solapamiento de palabras."""
+    if not chapter_title or not index:
+        return ''
+    norm = _norm_ep(chapter_title)
+    if norm in index:
+        return index[norm]
+    # Containment match
+    for ep_norm, url in index.items():
+        if norm in ep_norm or ep_norm in norm:
+            return url
+    # Word-overlap fallback: ≥ 60 % de palabras coinciden
+    words = set(norm.split())
+    best_url, best_ratio = '', 0.0
+    for ep_norm, url in index.items():
+        ep_words = set(ep_norm.split())
+        if not ep_words:
+            continue
+        ratio = len(words & ep_words) / max(len(words), len(ep_words))
+        if ratio > best_ratio:
+            best_ratio, best_url = ratio, url
+    return best_url if best_ratio >= 0.6 else ''
 
 def slug(name):
     s = name.lower().strip()
@@ -114,15 +185,45 @@ def parse_folder(folder, artists, genres, labels, concerts, instruments, standal
         'concert': concerts, 'instrument': instruments
     }
 
-    # Cache podcast.env data per directory to avoid repeated reads
+    # Cache podcast.env y episodes.json por directorio
     _env_cache = {}
+    _ep_cache  = {}
+
+    def _load_env_with_fallback(root):
+        """Carga podcast.env; si no existe en resumenes/, busca en transcripts/."""
+        env = load_podcast_env(root)
+        if not env[0] and not env[2]:  # sin título ni URL
+            alt = _transcripts_mirror(root)
+            if alt and os.path.isdir(alt):
+                env = load_podcast_env(alt)
+        return env
+
+    def _load_ep_index(root):
+        """Carga episodes.json; busca también en la carpeta transcripts/ espejo."""
+        idx = load_episodes_index(root)
+        if not idx:
+            alt = _transcripts_mirror(root)
+            if alt and os.path.isdir(alt):
+                idx = load_episodes_index(alt)
+        return idx
+
     def get_file_source(root, filename):
         if root not in _env_cache:
-            _env_cache[root] = load_podcast_env(root)
-        title, playlist_id = _env_cache[root]
-        video_id = extract_video_id(filename)
+            _env_cache[root] = _load_env_with_fallback(root)
+        title, playlist_id, source_url = _env_cache[root]
+
+        video_id      = extract_video_id(filename)
         chapter_title = extract_chapter_title(filename)
-        return make_source_str(title, video_id, playlist_id, chapter_title)
+
+        # Para fuentes no-YouTube, intentar URL específica del episodio
+        if not video_id and chapter_title:
+            if root not in _ep_cache:
+                _ep_cache[root] = _load_ep_index(root)
+            ep_url = match_episode_url(chapter_title, _ep_cache[root])
+            if ep_url:
+                source_url = ep_url
+
+        return make_source_str(title, video_id, playlist_id, chapter_title, source_url)
 
     for root, _dirs, files in os.walk(folder):
         for filename in sorted(files):
@@ -220,9 +321,37 @@ def _write_entry_section(f, header, entries):
             f.write(f'**{t}** : {d}\n')
         f.write('\n')
 
+_ENRICHMENT_SECTIONS = {'awards', 'charts', 'lists'}
+
+def _read_enrichment_sections(path):
+    """Lee secciones ## awards/charts/lists de un archivo existente para preservarlas."""
+    if not os.path.exists(path):
+        return ''
+    blocks = []
+    current = []
+    inside = False
+    with open(path, 'r', encoding='utf-8') as f:
+        for line in f:
+            m = re.match(r'^##\s+(\w+)', line)
+            if m:
+                if inside and current:
+                    blocks.append(''.join(current))
+                inside = m.group(1).lower() in _ENRICHMENT_SECTIONS
+                current = [line] if inside else []
+            elif inside:
+                current.append(line)
+    if inside and current:
+        blocks.append(''.join(current))
+    return '\n'.join(blocks)
+
+
 def write_artist(artist, out_dir):
     os.makedirs(out_dir, exist_ok=True)
     path = os.path.join(out_dir, slug(artist.name) + '.md')
+
+    # Preservar secciones de enriquecimiento (awards, charts, lists) si ya existen
+    enrichment = _read_enrichment_sections(path)
+
     with open(path, 'w', encoding='utf-8') as f:
         f.write(f'# artist - {artist.name}\n\n')
 
@@ -237,6 +366,9 @@ def write_artist(artist, out_dir):
         _write_entry_section(f, 'albums', artist.albums)
         _write_entry_section(f, 'songs', artist.songs)
         _write_entry_section(f, 'curiosities', artist.curiosities)
+
+        if enrichment:
+            f.write('\n' + enrichment)
 
 def write_entity(etype, entity, out_dir, artist_names=None):
     os.makedirs(out_dir, exist_ok=True)

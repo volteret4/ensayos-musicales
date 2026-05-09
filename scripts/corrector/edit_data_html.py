@@ -331,12 +331,13 @@ function get(id)  { return _S.get(+id); }
 const SEC_COLORS = {
   members:'#e67e22', member_of:'#e67e22', genres:'#2ecc71', labels:'#f39c12',
   concerts:'#1abc9c', instruments:'#9b59b6', albums:'#3498db', songs:'#5dade2',
-  curiosities:'#95a5a6',
+  curiosities:'#95a5a6', awards:'#f1c40f', charts:'#d63031', lists:'#00b894',
 };
 const SEC_LABELS = {
   members:'Miembros', member_of:'Miembro de', genres:'Géneros', labels:'Sellos',
   concerts:'Conciertos', instruments:'Instrumentos', albums:'Álbumes',
-  songs:'Canciones', curiosities:'Curiosidades',
+  songs:'Canciones', curiosities:'Curiosidades', awards:'Premios',
+  charts:'Charts', lists:'Listas',
 };
 const E_COLORS = {genre:'#2ecc71', label:'#f39c12', concert:'#1abc9c', instrument:'#9b59b6'};
 const E_LABEL  = {genre:'Género',  label:'Sello',   concert:'Concierto', instrument:'Instrumento'};
@@ -504,7 +505,7 @@ function showPendingArtist(artist) {
     if (artist[key]?.length)
       html += makeTagSection('artist', artist.name, key, artist[key], SEC_COLORS[key]);
   }
-  for (const key of ['albums','songs','curiosities']) {
+  for (const key of ['albums','songs','curiosities','awards','charts','lists']) {
     if (artist[key]?.length)
       html += makeEntrySection('artist', artist.name, key, artist[key], SEC_COLORS[key]);
   }
@@ -689,7 +690,7 @@ function showArtist(artist) {
     if (artist[key]?.length)
       html += makeTagSection('artist', artist.name, key, artist[key], SEC_COLORS[key]);
   }
-  for (const key of ['albums','songs','curiosities']) {
+  for (const key of ['albums','songs','curiosities','awards','charts','lists']) {
     if (artist[key]?.length)
       html += makeEntrySection('artist', artist.name, key, artist[key], SEC_COLORS[key]);
   }

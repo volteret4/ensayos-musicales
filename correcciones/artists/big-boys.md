@@ -2,6 +2,7 @@
 
 ## members
 - Randy Biscuit Turner
+- (all members were skaters themselves)
 
 ## genres
 - Funk

@@ -18,4 +18,5 @@
 **Esteemed Fanbase** : The Sadies and Dallas Good had a respected fanbase that included notable acts like the Barenaked Ladies and Billy Talent. "Fans included the bear naked ladies, Billy Towns and many, many others." ← https://www.youtube.com/watch?v=sdPeii-8Ysw
 **Extensive Collaborations** : Dallas Good was well-regarded in Canadian music circles and collaborated with numerous other artists, including Gord Downie, Neil Young, and Buffy St. Marie. "Dallas was very liked in Canadian music circles, having worked with many others, including Gordon Downey, Neil Young and Buffy St. Marie." ← https://www.youtube.com/watch?v=sdPeii-8Ysw
 **Formation and Early History** : The Sadies are a Toronto-based band that formed in 1994, with Dallas Good as their singer and guitarist. "The Sadies, band that formed back in 1994." ← https://www.youtube.com/watch?v=sdPeii-8Ysw
+**Andrew Scott's Hiatus Project** : During Sloan's temporary hiatus after "Twice Removed," Andrew Scott performed gigs with The Sadies, pursuing individual musical projects. "Andrew had a few gigs with bands called The Sadies and Makers Mark." ← https://www.youtube.com/watch?v=mbic-70ZhpE ← the-sadies
 

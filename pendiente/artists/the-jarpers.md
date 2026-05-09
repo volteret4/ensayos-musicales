@@ -1,0 +1,33 @@
+# artist - The Jarpers
+
+## members
+- Eric Clapton
+- Jet Beck
+- Jim MacArcy
+- Jimmy Page
+- John Paul Jones
+- K3C
+
+## genres
+- Beat music
+- Heavy Metal
+- Psicodelia
+- Ritman Blues
+- Rock
+
+## concerts
+- Crawdaddy Club
+
+## songs
+**Forge of Love** : This song marked a departure from The Jarpers' preferred Ritman Blues sound, as it was much more oriented towards the popular "Beatle sound" of the era. Its commercial success, despite not being their preferred style, highlights the musical climate of the early 60s. "Frustrándolemente arrancaban con el grandísimo Forge of Love que era como una canción como mucho más rentada hacia el sonido beat el y no tanto se ritman blues sueleño que les gustaba ellos." ← Music Radar Clan > The Yardbirds, una banda clave para entender la historia de la música | https://www.youtube.com/watch?v=dCGrHEAqPC0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-jarpers
+
+## curiosities
+**Ahead of Their Time Early Albums** : The initial albums by The Jarpers, despite their historical importance, were not commercially successful at the time of their release. This was likely because their sound, which is now considered highly interesting, was too advanced for a public engrossed in the "Beatle sound" craze. "Los primeros discos de los Jarpers no tuvieron una mejor mucha éxito pero por que eran a lo mejor tal vez un poco adelantado los escuchas ahora son interesantísimos." ← Music Radar Clan > The Yardbirds, una banda clave para entender la historia de la música | https://www.youtube.com/watch?v=dCGrHEAqPC0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-jarpers
+**Discovery by George L. Maresky** : The band was discovered by George L. Maresky, the owner of the Crawdaddy Club, a venue where The Ronin Estons had become famous. Maresky, who had discovered The Ronin Estons, almost discovered The Jarpers, and later discovered Sob Masin. "A ellos al final curiosamente los descubrió George L. Mersky que era el doño del cloud de la clave que era donde se hicieron famosos los Ronin Estons." ← Music Radar Clan > The Yardbirds, una banda clave para entender la historia de la música | https://www.youtube.com/watch?v=dCGrHEAqPC0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-jarpers
+**Dissolution and Legacy** : After several years of success, albeit leaning more towards a "Beatle sound" at a time when Europe was more open to Ritman Blues, The Jarpers began a decline and eventually dissolved. From their "remains," seminal groups like Crim, Jet Beck's own band, and Lésepirín were formed, marking them as a crucial but often overlooked origin point for Psycocdelia and Heavy Metal. "De este curioso grupo medio fallido que tardó mucho en tener éxito tuvo un éxito un poco corto y luego una lenta de cadencia ahí una formación tan inestable de ahí nació un el grupo duro de lo que sería parte de la revolución de la música." ← Music Radar Clan > The Yardbirds, una banda clave para entender la historia de la música | https://www.youtube.com/watch?v=dCGrHEAqPC0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-jarpers
+**Early 60s Pioneers** : The Jarpers began in the first generation of bands in the early 60s, alongside contemporaries like The Beatles, The Ronin Estons, The Hoos, and The Animas. They were heavily inspired by American Ritman Blues, which was difficult to obtain in Europe at the time. "Los Jarverts empezaría en esa primera generación pues en los primeros años de los 60 pues con los Beatles con los Rolling Stones con los juegos con los ánimas y con todo." ← Music Radar Clan > The Yardbirds, una banda clave para entender la historia de la música | https://www.youtube.com/watch?v=dCGrHEAqPC0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-jarpers
+**Foundational Influence on Rock** : The Jarpers were extremely important in defining the sound of music, especially rock music, and are considered the "seed" from which much world-changing music later blossomed. Despite their significant impact, they are often overlooked. "Si hubo una banda que fue importantísima para definir el sonido de la música y sobre todo para definir lo que sería la música rock y de la que por desgracia no son la mucho fueron los Jarverts." ← Music Radar Clan > The Yardbirds, una banda clave para entender la historia de la música | https://www.youtube.com/watch?v=dCGrHEAqPC0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-jarpers
+**Struggling Against Beatle Sound** : Despite their strong consolidation in Ritman Blues, The Jarpers struggled to gain traction in the wake of the immense popularity of The Beatles, The Hoos, and The Kings. Their Ritman Blues sound, which they favored, didn't resonate as much with a public more attuned to the "Beatle sound." "Un sonido como tan ritman blues y tan cerrado a la música del rock sueleño no terminada de Cajar el público estaba con mucho más uniento del sonido beat el." ← Music Radar Clan > The Yardbirds, una banda clave para entender la historia de la música | https://www.youtube.com/watch?v=dCGrHEAqPC0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-jarpers
+**Unstable Lineup and Internal Strife** : The Jarpers were characterized by numerous internal fights and a perpetually unstable lineup, despite attracting some of the greatest guitarists in music history. Talented individuals often stayed for only a short time before leaving, leading to a lack of cohesion. "La verdad es que teníamos ahí como muchas peleas internas en trode los Jarpers teníamos como un núcleo duro clásico que era el que formaba en K3C y Jim MacArcy y por el otro lado teníamos esos grandes talentos guitarristas que estaban pasando por el grupo." ← Music Radar Clan > The Yardbirds, una banda clave para entender la historia de la música | https://www.youtube.com/watch?v=dCGrHEAqPC0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-jarpers
+**Unsuccessful Reformation Attempts** : Years later, there were several attempts to reform The Jarpers, but these efforts did not go well. The most talented former members showed no interest, and those who were interested (K3C and Jim MacArcy) were not considered the "most interesting" parts of The Jarpers by the public. "La cosa no fue bien de refiero en parte de la gente más sentosa que pasó por los Jarpers no quería saber nada de la historia los más interesados que evidentemente era macarzi y real no eran como lo más interesante tampoco de los Jarpers." ← Music Radar Clan > The Yardbirds, una banda clave para entender la historia de la música | https://www.youtube.com/watch?v=dCGrHEAqPC0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-jarpers
+

@@ -3,6 +3,8 @@
 ## member of
 - Big Audio Dynamite
 - The Clash
+- London SS
+- Sigue Sigue Sputnik
 
 ## instruments
 - Digital wristwatch (for sound effect)

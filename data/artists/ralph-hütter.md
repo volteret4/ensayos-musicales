@@ -1,0 +1,10 @@
+# artist - Ralph Hütter
+
+## member of
+- Crabwork
+
+## curiosities
+**Co-Founder of Crabwork** : Ralph Hütter, alongside Florian Schneider, initiated Crabwork as a personal project, with their collaborative work dating back to before 1970. Early recordings from that year feature the duo performing together, establishing their foundational role in the band. "Crabwork realmente es el proyecto personal de dos personas, de Ralph y de Florian, que empezaron a trabajar juntos, de hecho tenemos ya grabaciones de antes en 1970." ← Music Radar Clan > Quienes eran Kraftwerk realmente？ | https://www.youtube.com/watch?v=9zIi8kqDI7g&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← ralph-hütter
+**Mortgaging Home for Equipment Development** : Ralph Hütter took the drastic step of mortgaging his personal home to finance the development of the first 36-step sequencer. This critical piece of equipment was built in collaboration with the German sound company Matt Rangweacher, demonstrating his extreme dedication and financial commitment to Crabwork's technological advancement. "el propio Ralph llega y potecar su casa para poder pagar el desarrollo de esta máquina." ← Music Radar Clan > Quienes eran Kraftwerk realmente？ | https://www.youtube.com/watch?v=9zIi8kqDI7g&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← ralph-hütter
+**Obsession with Kling Klang Studio** : Ralph Hütter and Florian Schneider became pathologically obsessed with the Kling Klang Studio, turning it into the central hub of their existence. They practically lived in the studio, eating and sleeping there, to the point where it was said the studio had completely "dominated their personality" and taken over their lives. "prácticamente decían que el estudio sabía poderado y dominado la personalidad de Ralph Yfloria, que estaban obsesionados de una manera enfermita, comían allí, dormían allí." ← Music Radar Clan > Quienes eran Kraftwerk realmente？ | https://www.youtube.com/watch?v=9zIi8kqDI7g&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← ralph-hütter
+

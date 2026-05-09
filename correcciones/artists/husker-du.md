@@ -7,6 +7,7 @@
 
 ## genres
 - Hardcore Punk
+- Punk Rock
 
 ## albums
 **Zen Arcade (1984)** : Released in 1984, this album is considered highly significant for the development of emo. It demonstrated that American hardcore could incorporate melody and meaningful lyrics while still being played very fast and loud. The band also experimented with tape effects, acoustic instruments, and vocal harmonies, and introduced deeply personal and emotional lyrical themes. Many observers have compared its impact on emo to that of The Beatles' "White Album." "In 1984, they released a very important album called Zen Arcade. This record showed it was possible for American hardcore to be played very, very fast and very, very loud, but with melody and with meaningful lyrics." ← https://www.youtube.com/watch?v=v_am7ifh7Pk

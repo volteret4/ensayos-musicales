@@ -11,4 +11,5 @@
 
 ## curiosities
 **New Emo Band from Connecticut** : The World Is a Beautiful Place & I Am No Longer Afraid to Die, a group from Connecticut, was presented as one of the newer emo bands emerging during the genre's strong revival in the middle of the 2010s. Their album "Harmlessness" from 2015 featured the song "Mental Health." "It's a group from Connecticut called The World Is A Beautiful Place, and I am no longer afraid to die." ← https://www.youtube.com/watch?v=HSvgRyGiOpE
+**Keeping Fourth Wave Emo Alive** : The World Is A Beautiful Place & I Am No Longer Afraid To Die was one of the bands credited with sustaining the fourth wave of emo, which remained largely underground and regional throughout most of the 2010s. Their name is humorously highlighted as potentially "the most emo band name ever." "And my favorite, the world is a beautiful place, and I am no longer afraid to die, which could be the most emo band name ever." ← Ongoing History of New Music > Alt Rock Revivals Part 3： Emo | https://www.youtube.com/watch?v=v_am7ifh7Pk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 

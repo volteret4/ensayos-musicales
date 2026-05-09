@@ -23,3 +23,5 @@
 **Discovery by Prince and Musical Foil** : Prince discovered 19-year-old Wendy Melvoin and immediately recruited her for his band, Prince and The Revolution. She became an "important musical foil" for Prince, enhancing his music both in the studio and on stage. "And when he came across 19-year-old Wendy Melvoine, he knew he somehow had to have her in his band." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0
 **Family Musical Legacy** : Wendy Melvoin comes from a highly musical family: her father, Mike Melvoin, was a pianist in the legendary Wrecking Crew; her brother, Jonathan Melvoin, was a touring keyboardist for The Smashing Pumpkins before his death in 1996; and her sister, Susanna Melvoin, a singer who worked with Roger Waters and Eric Clapton and co-wrote with Madonna, was the subject of Prince's song "Nothing Compares 2 U." "Her father is pianist Mike Melvoine. He was part of the famous group of LA musicians known as The Racking Crew, who played on literally thousands of songs..." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0
 
+## member of
+- Prince

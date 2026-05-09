@@ -8,6 +8,7 @@
 - Garage Rock (core)
 - Punk
 - Punk Rock
+- Post-Punk
 
 ## labels
 - Stiff Records
@@ -33,4 +34,9 @@
 **Vampire Claim** : Dave Vanian, the singer of the punk band The Damned, sometimes claimed to be a vampire, which was noted as an interesting detail in the context of the emerging Goth scene. "Some remembered that Dave Vainian of the punk band The Damned, sometimes claimed to be a vampire, which, and I was pretty interesting." ← https://www.youtube.com/watch?v=gd9sO7c3N1s
 **Vampire Persona** : Dave Vanian, the frontman of the punk band The Damned, sometimes claimed to be a vampire, which added an interesting, dark, and theatrical element that was aligned with emerging goth sensibilities. "And some remember the Dave Vainian of the punk band The Damned, sometimes claimed to be a vampire, which was interesting." ← https://www.youtube.com/watch?v=XaLsZFLrMnI
 **Witnessing The Ramones (July 4, 1976)** : The Damned, who would become the first British punk band to release a record, were present at The Ramones' July 4, 1976 gig at the Roundhouse in London. They were among those "transformed by what they saw and heard." "the damn who would become the first British punk band to release a record... They were all at these gigs and they were all transformed by what they saw and heard." ← https://www.youtube.com/watch?v=huAvyInzz3Q
+**Pioneering DIY Approach** : The Damned's release of "New Rose" proved that bands could bypass major labels and "make a record ourselves" with a minimal budget, championing a "do it yourself" (DIY) approach that convinced many groups to be more proactive in recording and releasing music. "This DIY, this do it yourself approach, preached by the Damned, convinced many groups to take a much more proactive approach when it came to recording and releasing music." ← https://www.youtube.com/watch?v=wYuNolSDLFM ← the-damned
+**Recording at Wessex Studios** : The Damned recorded at Wessex Studios, an old church hall in North London known for its live sound, which was a popular choice among punk and post-punk bands. "A lot of punk bands and post punk bands, like using the place, the clash and the damned and suzy and the banshees and the pretenders and the specials and generation X and the sex pistols." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← the-damned
+**Sid Vicious Audition** : Sid Vicious was considered for the lead vocalist position in The Damned but failed to show up for the audition. "Sid was considered for lead vocalist of the damned, but me forgot to show up for the audition." ← https://www.youtube.com/watch?v=LE4YenwmeXM ← the-damned
 
+## albums
+**New Rose (1976) - First British Punk Single** : Released on October 22, 1976, on the new label Stiff, this 45 rpm single had a budget of just £50. It holds historical significance as the "first made in Britain punk rock record." Beyond its chronological first, it was crucial for demonstrating a "second way to go" for punk rockers: making records "cheap, do it dirty, and then release it through one of the many independent record labels." "The Damned and New Rose, the seven-inch single that has gone down in history as being the first made in Britain punk rock record." ← https://www.youtube.com/watch?v=wYuNolSDLFM ← the-damned

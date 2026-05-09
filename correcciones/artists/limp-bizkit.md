@@ -7,6 +7,11 @@
 ## genres
 - New Metal
 - Rock
+- Grunge
+- Metal
+- New Punk
+- Rap
+- Rock Punk Hip Hop
 
 ## labels
 - Interscope Records
@@ -20,6 +25,7 @@
 - Woodstock 1999
 - Woodstock 99
 - Woodstock 99 (1999)
+- Woodstock Festival (1999)
 
 ## songs
 **Break Stuff (Year not specified)** : Limp Bizkit performed this hit song on Saturday at Woodstock 99, and immediately following their set, a significant amount of vandalism erupted among the crowd, marking the start of a period of escalating destructive behavior. "starting with a ton of vandalism after LeBiscuit played their hit break stuff on Saturday." ← https://www.youtube.com/watch?v=Pgchw2h87aw
@@ -40,4 +46,10 @@
 **Participant in 1997 Tour** : Limp Bizkit was among the various bands participating in the Warped Tour in 1997. "Some band called Limp Biscuit was there." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
 **Promoter Liability for Crowd Control** : An investigation conducted by the state coroner into the death of Jessica Mitchellick at the Big Day Out Festival concluded that the promoters were legally liable for failing to adequately police the crowd density in front of the stage during Limp Bizkit's set. "an investigation by the state corner found that the promoters were, in fact, libel for not policing the crowd density in front of the stage." ← https://www.youtube.com/watch?v=Pgchw2h87aw
 **Woodstock 1999 Crowd Incitement** : Limp Bizkit was present at Woodstock 1999, where their performance was associated with encouraging the crowd to engage in frenzied, uncontrolled behavior. This contributed to the overall violence and issues at the festival. "Lim Biscuit, who was also Woodstock 99, encouraging the crowd to go nuts..." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y
+**California New Punk Scene** : Limp Bizkit is mentioned as a band that emerged years later from the "new punk" bases being laid in California in the late 1980s. "saldrían pues... Limp Bizkit." ← Music Radar Clan > Cuál fue el primer disco de Grunge？ | https://www.youtube.com/watch?v=7F0g3YpRrY4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← limp-bizkit
+**Woodstock '99 Violence** : Limp Bizkit's performance at the 30th-anniversary Woodstock Festival in Rome, New York, in the summer of 1999 was marred by significant violence, sexual assaults, and vandalism, which cast a negative light on both the band and the new metal scene. "Later that summer, they played the 30th anniversary Woodstock Festival in Rome, New York. And their set was marred by violence, sexual assaults, and vandalism." ← https://www.youtube.com/watch?v=hBQE4t72i3o ← limp-bizkit
+**Zero DB Initiative Signatory** : Limp Bizkit is among the artists who signed the Zero DB initiative, which was formed in 2008 as part of the charity Reprieve. This group encourages the condemnation of music as torture and advocates for governments to enforce international treaties related to prisoner treatment. "The Sinees include Tom Morello, average against the machine, members of REM, rise against Pearl Jam, Trent Reznor, Limp Biscuit, system of a down, disturbed the estate of Prince, the Chili Peppers, Eminem, Marilyn Manson, Neil Diamond, Dr. Dre, and a host of others." ← https://www.youtube.com/watch?v=R1wdsGt07Gg ← limp-bizkit
 
+## albums
+**Chocolate Starfish and the Hot Dog Flavored Water (2000)** : Despite its controversial title, this album achieved significant commercial success upon its release in 2000, selling 400,000 copies on its first day and a full million copies by the end of its first week. "But even still, their next album, the horribly-named Chocolate Starfish in the hotdog flavored water, sold 400,000 copies on the day it was released in 2000, and a full million by the end of its first week." ← https://www.youtube.com/watch?v=hBQE4t72i3o ← limp-bizkit
+**Significant Other (1999)** : Released on June 22nd, 1999, this album debuted at the top of the charts, selling an impressive 643,000 copies in its first week. By its second week, it had breached the 1 million mark in sales, demonstrating the immense popularity of new metal at the time. "On June 22nd, 1999, Limp Biscuit released their significant other album. It debuted on the top of the charts selling 643,000 copies in its first week. In its second week, it breached the 1 million mark." ← https://www.youtube.com/watch?v=hBQE4t72i3o ← limp-bizkit

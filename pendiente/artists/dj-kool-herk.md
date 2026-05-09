@@ -1,0 +1,16 @@
+# artist - DJ Kool Herk
+
+## members
+- Clive Campbell
+
+## genres
+- Hip Hop
+
+## instruments
+- Two turntables
+
+## curiosities
+**Apache and the Perfect Beat** : In his 2005 interview with Terry Gross, DJ Kool Herk recounted how his "merry go round" experiment took off with the song "Apache," often referred to as "The Incredible Bongo Rock." He noticed that people would specifically wait for this part of his set. The success of using "Apache" in this manner led other DJs to search for the "perfect beat," though, according to Herk, no one has ever truly beaten "that record" (Apache). "Everybody would come and really wait for that particular part of my format for me to get into it. And that's when everybody started searching for the perfect beat, trying to beat that record." ← For the Record - The 70s > Ep. 6 - The 70s Roots of Hip Hop | https://seventies.libsyn.com/ep-6-the-70s-roots-of-hip-hop
+**Father of Hip Hop** : Clive Campbell, known as DJ Kool Herk, is widely regarded as the father of hip hop. Born in Jamaica, he moved to New York and began his DJ career by playing at his sister's birthday party. He quickly gained recognition for his skills at house parties and block parties before transitioning to club DJing. "Clive Campbell, a native of Jamaica moved to New York. He is considered by many people to be the father of hip hop." ← For the Record - The 70s > Ep. 6 - The 70s Roots of Hip Hop | https://seventies.libsyn.com/ep-6-the-70s-roots-of-hip-hop
+**The Merry Go Round Technique** : DJ Kool Herk pioneered the "merry go round" technique, which involved using two turntables to extend the "break" sections of funk and soul records. He observed that dancers (B-boys) would wait for specific parts of records to perform their special moves. By extending these instrumental breaks, he allowed dancers more time to "do their thing" and showcase their best moves, which became known as breakdancing in the 1980s. He discussed this experiment in a 2005 interview with Terry Gross on NPR's Fresh Air. "He took that to turn table technique to extend the break like the ones we just heard and give it up or turn it a loose, which he called the merry go round." ← For the Record - The 70s > Ep. 6 - The 70s Roots of Hip Hop | https://seventies.libsyn.com/ep-6-the-70s-roots-of-hip-hop
+

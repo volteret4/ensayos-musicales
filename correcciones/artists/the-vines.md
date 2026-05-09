@@ -4,6 +4,8 @@
 - Craig Nichols
 - Craig Nichols (singer, guitarist)
 - Patrick Matthews (bass player)
+- Craig Nicholls
+- Patrick Matthews
 
 ## genres
 - Garage Rock
@@ -27,4 +29,20 @@
 **Quality of Music** : Despite their frontman's erratic nature, the band's music was consistently described as good. "In the meantime though, the music was good. It was good." ← https://www.youtube.com/watch?v=raRCZ0Y5up8
 **Rolling Stone Cover (2002)** : In October 2002, the band was featured on the cover of Rolling Stone magazine, under the headline "Rock is back. Meet the Vines," symbolizing the perceived return of rock music. "In October 2002, they appeared on the cover of Rolling Stone. The headline was, Rock is back. Meet the Vines." ← https://www.youtube.com/watch?v=raRCZ0Y5up8
 **Single Release and Hype (2001)** : A single released in November 2001 generated incredible hype, marking a turning point in their career. "But then a single in November 2001. The hype was incredible." ← https://www.youtube.com/watch?v=raRCZ0Y5up8
+**"Tonight Show" Rehearsal Trashing (December 2002)** : In December 2002, The Vines secured a significant opportunity with a spot on "The Tonight Show with Jay Leno." However, during rehearsal, Craig Nicholls trashed the set, leading to the band being kicked off the show and losing one of their best chances to reach a new audience. "The Vines get a big break with the spot on the tonight show with Jay Leno. But during rehearsal, Craig trashed the set." ← Ongoing History of New Music > Alt Rocks Craziest People | https://www.youtube.com/watch?v=CgReNKciFJo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← the-vines
+**Brisbane Incident (September 2002)** : In September 2002, an unexplained incident occurred in Brisbane, Australia, where Craig Nicholls reportedly bombarded passing cars with "big backs and flay o' fishes." "In September 2002, there was an unexplained incident in Brisbane, Australia where he bombarded passing cars with big backs and flay o' fishes." ← Ongoing History of New Music > Alt Rocks Craziest People | https://www.youtube.com/watch?v=CgReNKciFJo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← the-vines
+**Coca-Cola Paranoia (April 2003)** : In April 2003, Craig Nicholls refused to drink any Coca-Cola. He claimed that his image had mysteriously manifested itself on a Coke can while on the tour bus. "April 2003, Craig refuses to drink any Coca-Cola after he says his image mysteriously manifested itself on a Coke can on the tour bus." ← Ongoing History of New Music > Alt Rocks Craziest People | https://www.youtube.com/watch?v=CgReNKciFJo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← the-vines
+**Comparisons to Nirvana** : The Vines and their lead singer, Craig Nicholls, were frequently compared to Nirvana and Kurt Cobain. One English newspaper even featured them on its cover with the caption, "The Screwed Up Story of the Best Band Since Nirvana." "you'll find a lot of comparisons between the Vines and Nirvana and Craig and Kurt." ← Ongoing History of New Music > Alt Rocks Craziest People | https://www.youtube.com/watch?v=CgReNKciFJo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← the-vines
+**Craig Nicholls' Dislike of Live Performance** : Craig Nicholls reportedly "hates to play live" and prefers to work in the studio. His aversion to live performances often manifests in destructive behavior during Vines gigs, with him leading the smashing of equipment. "Craig hates to play live. He'd rather just mess around in the studio if that's okay with everyone." ← Ongoing History of New Music > Alt Rocks Craziest People | https://www.youtube.com/watch?v=CgReNKciFJo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← the-vines
+**Craig Nicholls' Drug and Alcohol Use** : Lead singer Craig Nicholls reportedly consumes a lot of drugs and appears to be drunk almost all the time. There is also a rumor that he eats at McDonald's at least once a day. "He apparently takes lots of drugs. He seems to be drunk almost all the time." ← Ongoing History of New Music > Alt Rocks Craziest People | https://www.youtube.com/watch?v=CgReNKciFJo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← the-vines
+**Incident with Record Label Executive (May 2002)** : In May 2002, Craig Nicholls had a freak out on the band's bus when an executive from The Vines' record label brought several people to meet him. "There was that incident in May of 2002 when he freaked out at an executive from the Vines record label who brought some people to meet Craig on the bus." ← Ongoing History of New Music > Alt Rocks Craziest People | https://www.youtube.com/watch?v=CgReNKciFJo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← the-vines
+**On-Stage Brawl in Boston (January 2003)** : In January 2003, during a gig in Boston, Craig Nicholls and bass player Patrick Matthews engaged in a brawl on stage. "January 2003, Craig and bass player Patrick Matthews get into a brawl on stage during a gig in Boston." ← Ongoing History of New Music > Alt Rocks Craziest People | https://www.youtube.com/watch?v=CgReNKciFJo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← the-vines
+**Pre-Show Bathroom Ritual** : Craig Nicholls has a reputation for locking himself in the bathroom for up to three hours before a show. "then there's his reputation of locking himself in the bathroom for up to three hours before a show." ← Ongoing History of New Music > Alt Rocks Craziest People | https://www.youtube.com/watch?v=CgReNKciFJo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← the-vines
+**Sydney, Australia Origin** : The Vines are described as a "much hyped band from Sydney, Australia," known for producing "pretty solid music." "The Vines are this much hype band from Sydney, Australia who put out some pretty solid music." ← Ongoing History of New Music > Alt Rocks Craziest People | https://www.youtube.com/watch?v=CgReNKciFJo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← the-vines
 
+## labels
+- The Vines record label
+
+## concerts
+- Boston gig
+- The Tonight Show with Jay Leno

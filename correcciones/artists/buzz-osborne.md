@@ -2,6 +2,7 @@
 
 ## member of
 - Melvins
+- The Melvins
 
 ## curiosities
 **Cassette Distributor** : A young musician from Aberdeen, Washington, Buzz Osborne was known for distributing homemade cassettes featuring his favorite punk songs, including tracks from indie bands, The Stooges, Bad Brains, and Black Flag, only to people he deemed "cool." These tapes are credited with changing the world of rock and roll forever. "Several years earlier, a young musician from the logging town of Aberdeen, Washington, named Buzz Osborne began giving out cassettes featuring his favorite punk songs, All Indie bands, TBI from the stuages, tracks from bad brains and black flag, and Buzz gave these tapes only to people he considered cool." ← https://www.youtube.com/watch?v=sCtQqVBtCaI

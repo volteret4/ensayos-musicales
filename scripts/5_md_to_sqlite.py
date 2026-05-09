@@ -113,6 +113,31 @@ CREATE TABLE IF NOT EXISTS curiosities (
     source_file  TEXT    NOT NULL DEFAULT '',
     UNIQUE (title, context_type, context_id, source_file)
 );
+
+CREATE TABLE IF NOT EXISTS awards (
+    id          INTEGER PRIMARY KEY AUTOINCREMENT,
+    artist_id   INTEGER NOT NULL REFERENCES artists(id),
+    title       TEXT    NOT NULL,
+    description TEXT    NOT NULL DEFAULT '',
+    source_file TEXT    NOT NULL DEFAULT '',
+    UNIQUE (artist_id, title)
+);
+CREATE TABLE IF NOT EXISTS artist_charts (
+    id          INTEGER PRIMARY KEY AUTOINCREMENT,
+    artist_id   INTEGER NOT NULL REFERENCES artists(id),
+    title       TEXT    NOT NULL,
+    description TEXT    NOT NULL DEFAULT '',
+    source_file TEXT    NOT NULL DEFAULT '',
+    UNIQUE (artist_id, title)
+);
+CREATE TABLE IF NOT EXISTS artist_lists (
+    id          INTEGER PRIMARY KEY AUTOINCREMENT,
+    artist_id   INTEGER NOT NULL REFERENCES artists(id),
+    title       TEXT    NOT NULL,
+    description TEXT    NOT NULL DEFAULT '',
+    source_file TEXT    NOT NULL DEFAULT '',
+    UNIQUE (artist_id, title)
+);
 '''
 
 
@@ -308,6 +333,24 @@ def parse_file(filepath, conn):
                             'VALUES (?,?,?,?,?)',
                             (title, desc, 'artist', ctx_id, sf),
                         )
+                    elif section == 'awards':
+                        c.execute(
+                            'INSERT OR IGNORE INTO awards '
+                            '(artist_id, title, description, source_file) VALUES (?,?,?,?)',
+                            (ctx_id, title, desc, sf),
+                        )
+                    elif section == 'charts':
+                        c.execute(
+                            'INSERT OR IGNORE INTO artist_charts '
+                            '(artist_id, title, description, source_file) VALUES (?,?,?,?)',
+                            (ctx_id, title, desc, sf),
+                        )
+                    elif section == 'lists':
+                        c.execute(
+                            'INSERT OR IGNORE INTO artist_lists '
+                            '(artist_id, title, description, source_file) VALUES (?,?,?,?)',
+                            (ctx_id, title, desc, sf),
+                        )
                 continue
 
             # ── Named entity sections (genre / label / venue / instrument) ──
@@ -370,6 +413,9 @@ def build_db():
         ('  concert',           "SELECT COUNT(*) FROM curiosities WHERE context_type='concert'"),
         ('  instrument',        "SELECT COUNT(*) FROM curiosities WHERE context_type='instrument'"),
         ('  general',           "SELECT COUNT(*) FROM curiosities WHERE context_type='general'"),
+        ('awards',              'SELECT COUNT(*) FROM awards'),
+        ('artist_charts',       'SELECT COUNT(*) FROM artist_charts'),
+        ('artist_lists',        'SELECT COUNT(*) FROM artist_lists'),
     ]
     for label, query in rows:
         n = c.execute(query).fetchone()[0]

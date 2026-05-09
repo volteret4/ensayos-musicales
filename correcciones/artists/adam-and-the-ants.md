@@ -6,6 +6,7 @@
 ## genres
 - New Romanticism
 - New Wave
+- New Romantic
 
 ## curiosities
 **Featured on MTV** : Adam and the Ants were among the artists whose music videos were featured on MTV, contributing to the channel's programming and the widespread exposure of New Wave music. "They played all the groups that we've talked about in many more. Eurythmics, XTC, Soft Sale, Adamance, Human League, Bowah Wow, and The Go Go's..." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
@@ -13,3 +14,11 @@
 **Managed by Malcolm McLaren** : After his tumultuous tenure with the Sex Pistols, Malcolm McLaren went on to manage other acts, including Adam and the Ants. This was part of McLaren's continued involvement in the music industry following the punk rock era. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
 **New Romantic Example** : Listed as one of the bands associated with the New Romanticism movement. "Then there was Visage, Adam in the Ants, Spandovalet." ← https://www.youtube.com/watch?v=1KF5MwJVYng
 
+## charts
+**"525" — NME Chart** : 16 semanas.
+**"534" — NME Chart** : 19 semanas.
+**"Antmusic" — UK Singles Chart** : #9, 1981.
+**"Ant Rap" — UK Singles Chart** : #6, 1982.
+
+## lists
+**"Kings of the Wild Frontier" (1980) — 1001 Albums You Must Hear Before You Die** : #452.

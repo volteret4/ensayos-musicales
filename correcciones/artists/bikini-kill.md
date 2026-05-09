@@ -5,6 +5,8 @@
 - Kathleen Hanna
 - Kathleen Hannah (singer)
 - Tobi Vail
+- Kathleen Hannah
+- Toby Vale
 
 ## genres
 - Feminist Rock
@@ -12,6 +14,7 @@
 - Punk Rock
 - Riot Girl
 - Riot Grrrl
+- Garagey Rock
 
 ## labels
 - K Records
@@ -22,6 +25,7 @@
 
 ## albums
 **Revolution Girl Style Now (1991) – Demo Album** : This self-released demo album from 1991 was a highly influential and important record within the Riot Grrrl movement of the early 1990s. "McKinney Kill from their self-released 1991 demo album, Revolution Girl Style Now. Very important record for the ride girl movement of the early 1990s." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
+**Revolution Girl Style Now (1991)** : This release from 1991 is cited as a sample of Bikini Kill's loud and angry music. The title itself embodies the ethos of the Riot Grrrl movement. "Here's a sample from their 1991 release, Revolution Girl Style Now." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← bikini-kill
 
 ## songs
 **Rebel Girl (1992) – Riot Grrrl Anthem; Kathleen Hanna Told Kurt Cobain About Teen Spirit Deodorant** : "Rebel Girl" is one of the defining songs of the riot grrrl movement, led by Kathleen Hanna. Hanna was friends with Kurt Cobain and once noted that he smelled like a flowery girly deodorant. He misunderstood, thinking she was paying him a compliment about his punk attitude, and wrote "Smells Like Teen Spirit" — not knowing that Teen Spirit was the name of a fruity deodorant. Hanna is married to Adam Horowitz of the Beastie Boys and continues her activism today. "He had no idea that teen spirit was the name of a girly, fruity deodorant." ← https://www.youtube.com/watch?v=YsNRNKvd1GI
@@ -39,4 +43,9 @@
 **Reunion and Continued Influence** : Bikini Kill has reunited, demonstrating the lasting impact of the band and the Riot Grrrl movement. Kathleen Hanna, a key member, has also pursued other projects, including documentary filmmaking and coaching at an all-girl music camp. "They have also reunited, but Kathleen has been very busy doing other things, including documentary filmmaking, acting as a coach at an all-girl music camp." ← https://www.youtube.com/watch?v=Qss5kC2FUx0
 **Riot Grrrl Prominence** : Bikini Kill was formed by four women in 1990 and gained significant coverage during the peak of the Riot Grrrl movement in the early 1990s, becoming one of its most important groups. "One of the most important groups on that scene was Bikini Kill, who were formed by four women in 1990." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Spelling of "Riot Grrrl" Origin** : Kathleen Hanna and Tobi Vail published a zine in 1991 titled "Riot Girl" using the three 'R's spelling. The concept behind this specific spelling was to convey fierceness and reclaim the word "girl" by adding a "growl" sound. "But then we have another scene published in 1991 by Kathleen Hannah and Toby Vale. They called it Riot Girl with the three Rs." ← https://www.youtube.com/watch?v=Qss5kC2FUx0
+**Band History** : Bikini Kill was active from 1990 to 1997 before their breakup. "Bikini Kill originally ran from 1990 to 1997 before breaking up." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← bikini-kill
+**Critically Praised and Influential** : Bikini Kill was part of the riot grrrl scene, which, though not commercially successful, garnered critical praise and was highly influential for subsequent generations of bands. "There were groups like Bikini Kill." ← https://www.youtube.com/watch?v=0QtMI00T5jw ← bikini-kill
+**Kathleen Hannah's Band** : Bikini Kill is the Riot Girl band that Kathleen Hannah, Adam Horowitz's wife, was a part of. "She of the Riot Girl Band Bikini Kill and the woman who accidentally inspired Kurt Cobain to write a song called Smells Like Teen Spirit." ← https://www.youtube.com/watch?v=HZzP0qswdwM ← bikini-kill
+**Riot Grrrl Pioneers** : Bikini Kill, led by Kathleen Hanna and Tobi Vail, epitomized the Riot Grrrl movement. They were deeply involved in feminist politics, advocating for safe spaces for women at shows by urging them to the front while "dudes" went to the back. They also published zines, aligning with the DIY spirit of the movement. "They were heavily into feminist politics. They favored women at their shows, urging them down fronts and dudes to the back. Meaning that gigs be safe places for women? Check. Publishing zines? Yep, that too. And was the music loud and angry? You bet." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← bikini-kill
+**Teen Spirit Deodorant Connection** : Kathleen Hannah, a member of the all-girl punk band Bikini Kill, was the person who coined the phrase "Kurt smells like teen spirit," referring to the fruity-smelling deodorant brand. This deodorant was also the "deodorant of choice of Toby Vale," another member of Bikini Kill and Kurt Cobain's girlfriend. "Now, you may or may not know this, but teen spirit is a fruity smelling brand of deodorant that girls wear." ← https://www.youtube.com/watch?v=k9ok8M31-38 ← bikini-kill
 

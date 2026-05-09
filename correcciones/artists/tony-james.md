@@ -2,4 +2,5 @@
 
 ## member of
 - Generation X
+- Sigue Sigue Sputnik
 

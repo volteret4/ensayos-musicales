@@ -3,6 +3,7 @@
 ## members
 - Clint Boon
 - Noel Gallagher (roadie)
+- Tim Burgess
 
 ## genres
 - Britpop
@@ -20,4 +21,7 @@
 **Madchester Sound Figure** : The Charlatans were identified as a prominent band within the "Madchester Sound" scene at the beginning of the 1990s, alongside The Stone Roses, The Happy Mondays, and Inspiral Carpets. "The Mad Chester Sound, featuring bands like The Roses and The Happy Mondays and The Charlotons and The Inspiral Carpets, was all the rage." ← https://www.youtube.com/watch?v=huAvyInzz3Q
 **Noel Gallagher as Roadie** : Noel Gallagher worked as a roadie for The Charlatans before achieving fame with Oasis. "Do you remember him playing a roading for the crash? Yeah, I remember him." ← https://www.youtube.com/watch?v=KF_adyXf86Q
 **Relationship with Noel Gallagher** : Gazz Wheeling recalls Noel Gallagher having a falling out with Shaun Ryder but maintaining a good relationship with Clint Boon, The Charlatans' keyboard player, through whom Gazz and his wife Kelly knew Noel. "he'd fallen out with Sean because Sean had some words in his barrels, but I hadn't, because I knew Clint was okay. And me and, and Kelly knew Noll through him." ← https://www.youtube.com/watch?v=KF_adyXf86Q
+**Declared Influence** : The Charlatans are among a partial list of artists and bands who have publicly stated that they have been influenced by Joy Division in some way. "You too, arcade fire, smashing pumpkins, nine inch nails, to pesh mode, sisters of mercy, ministry, chain addiction, the smiths, Bjork, Jesus and Marychain, Moby, primal scream, the Charlotains, Interpol, editors, white lies, Frans Ferdinand. I could go on, but I think you get the point." ← https://www.youtube.com/watch?v=1VWJ0uCQx8w ← the-charlatans
 
+## songs
+**Over Again (Single) (December 1, 2017)** : A new single from The Charlatans, referred to as "over game" in the transcript, is set to be released on December 1st. "sale el nuevo single de los charlatans over game." ← Music Radar Clan > Lanzamientos Diciembre 2017 | https://www.youtube.com/watch?v=zKLlsA2kSqY&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-charlatans

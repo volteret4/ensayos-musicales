@@ -1,0 +1,6 @@
+# genre - Jamaican music
+
+## curiosities
+**Global Diaspora and UK Influence** : Following Jamaica's independence from the United Kingdom, there was a significant musical diaspora that spread Jamaican music worldwide. This led to Jamaica becoming a major source of musical inspiration for the UK, with British bands adapting Jamaican ska and artists like Culture Club incorporating strong Jamaican influences into pop music. "hubo un enorme dias por a musical de Jamaica que se esparció por todo el mundo y le un grandísimo germen de la música a Hamayaka para el Reino Unido." ← Music Radar Clan > ROSALIA. Por qué la apropiación cultural es un timo. | https://www.youtube.com/watch?v=PubYV9sbFQw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jamaican-music
+**Proto-rap Influence (1970s)** : Jamaican music sometimes influenced the development of proto-rap during the 1970s, contributing to the blend of Afro-Jazz, funky music, and narrative styles. "ese afro y jazz a veces incluso con influencias de música Jamaican a veces influencias de música funky que van combinando ciertas narrativas." ← Music Radar Clan > El RAP antes del RAP (los primeros años del rap) | https://www.youtube.com/watch?v=USvB-AVhfzs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jamaican-music
+

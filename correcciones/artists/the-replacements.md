@@ -3,6 +3,7 @@
 ## members
 - Paul Westerberg (leader)
 - Paul Westerberg (leader, songwriter)
+- Paul Westerberg
 
 ## genres
 - Hardcore (early)
@@ -13,6 +14,7 @@
 - Power pop (later)
 - Punk
 - Punk Rock
+- Pop
 
 ## labels
 - Twin Tone
@@ -35,4 +37,9 @@
 **Paul Westerberg's Songwriting** : Paul Westerberg, the band's leader, developed into a highly accomplished songwriter as the band progressed. "Leader Paul Westorberg grew into a very accomplished songwriter," ← https://www.youtube.com/watch?v=PEHkKfmmDiI
 **Produced by Tommy Ramone** : After leaving his drumming role with the Ramones, Tommy Ramone transitioned to a successful career as a producer, notably producing albums for The Replacements. "He also produced albums for the replacements and Red Cross." ← https://www.youtube.com/watch?v=j8uk7BnbXwU
 **Reunion for Touring** : The Replacements were one of many bands from past decades that reunited in the 21st century, a trend largely motivated by financial incentives. With declining CD sales impacting artist revenues, returning to the touring circuit offered a lucrative way to appeal to nostalgic fan bases and fill large venues. "The list of reunions is long." ← https://www.youtube.com/watch?v=GYUuTbOvyak
+**Influence on Grunge Bands** : The Replacements were cited as an influence on grunge bands, highlighting the diverse punk rock spectrum that shaped the alternative music scene. "Yeah, we were into the clash and black flag and the replacements in the Dead Kennedys 2." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← the-replacements
+**Musical Influence on Matthew Good** : The Replacements were a significant influence on Matthew Good's songwriting, particularly in their approach to the bass guitar. He noted their use of the bass as a "straight A instrument" that moved in steps, which contrasted with the more melodic bass lines of 60s and 70s music he also admired. "But also someone that was massively influenced by bands like The Pixies and the Replacements and Afghan Wigs and that kind of things. It was a straight A instrument." ← https://www.youtube.com/watch?v=--g0gugy3ZE ← the-replacements
+**Paul Westerberg's Confessional Lyrics** : The band's leader, Paul Westerberg, was known for his anguished and confessional lyrics. This lyrical sensitivity often provided a contrasting element to the loud and raw nature of their music, a combination that proved effective and resonated with listeners. "And then there was leader Paul Westberg's anguished confessional lyrics." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← the-replacements
+**Punk Roots with Pop Sensibilities** : Similar to Husker Dü, The Replacements' musical philosophy was deeply rooted in punk. However, they distinguished themselves with even stronger pop sensibilities, blending the raw energy of punk with more melodic and structured elements. "Like Husker Do, their philosophies were firmly rooted in punk, but with even greater pop sensibilities." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← the-replacements
+**Sex Pistols Influence** : The Replacements, forming in a Minneapolis basement, honored their heroes, the Sex Pistols. They quickly became known for their unpredictable, high-energy performances in local clubs. "In honor of their heroes, the sex pistols, the replacements quickly became known for their unpredictable high-energy sets of clubs around town." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← the-replacements
 

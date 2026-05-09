@@ -11,6 +11,7 @@
 - Christian alternative rock
 - Post-Grunge
 - Rock
+- Rock (implied)
 
 ## labels
 - Wind-up Records
@@ -20,6 +21,7 @@
 **Millions of Records Sold** : The band sold "millions of records" and concert tickets during their career. "Now like Limp Biscuit, this is a band that sold millions of records and concert tickets." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
 **My Own Prison (1998)** : This was Creed's first album. It initially found success by selling in Christian record stores before breaking through to mainstream sales in the millions. The album's commercial success sparked debate about the band's spirituality, with both supportive and skeptical reactions. "Creed from their first album, 1998's My Own Prison." ← https://www.youtube.com/watch?v=g-tBn8dsSqw
 **Weathered (2002)** : This was the band's third album, which sold its six millionth copy around late 2002. "Around the same time, their third album, Weathered, sold its six millionth copy." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**My Own Prison (1998) - Debut Album** : Released in 1998, this was Creed's first album. It initially found sales success in Christian record stores before breaking through to sell millions of records in the mainstream. The album's commercial performance sparked extensive debate regarding the band's spirituality. Its success was significantly bolstered by the "Christian underground." "Creed from their first album, 1998's My Own Prison." ← https://www.youtube.com/watch?v=6cbL0zLQeIs ← creed
 
 ## songs
 **Overcome (2009)** : This was the first single released from their reunion album, *Full Circle*. "The first single was entitled Overcome." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
@@ -51,4 +53,8 @@
 **Spirituality Debate** : Following their mainstream success and multi-million record sales, there was extensive discussion and debate regarding the authenticity of Creed's spirituality, with opinions divided among their audience. "And once Creed broke through and started selling records in the millions, there was much talk and much debate on the nature of the band's spirituality." ← https://www.youtube.com/watch?v=g-tBn8dsSqw
 **Tens of Millions in Sales** : As a band with Scott Stapp as singer, Creed sold "tens of millions of records," indicating significant commercial success during their tenure. "Tens of millions of records were sold when he was the singer with Creed." ← https://www.youtube.com/watch?v=-f9jhqAHkQo
 **Time Apart (4 years, 10 months, 23 days)** : The band was apart for this duration, from their formal breakup on June 4, 2004, to their formal reunion announcement on April 27, 2009. "Creed, back together after being apart for four years, 10 months, and 23 days." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
+**Christian Values Grounded** : Although Creed never traditionally identified as a "Christian band," their music and image were deeply rooted in Christian values. This aspect was particularly well-received and appreciated in their home region of northwestern Florida. "Although they never professed to be a Christian band in the traditional sense, Creed certainly was grounded in Christian values." ← https://www.youtube.com/watch?v=6cbL0zLQeIs ← creed
+**Musical Style and Image** : Creed's sound was characterized by "fat and tuned low" guitars, and their songs consistently featured spiritual imagery and themes, notably without any swearing. Their public image projected them as "nice, safe, church-going boys." "The guitars were fat and tuned low. And the songs were filled with spiritual images and themes. There was no swearing. They looked like nice, safe, church-going boys." ← https://www.youtube.com/watch?v=6cbL0zLQeIs ← creed
+**Rock Act Breakthrough** : Creed was noted as one of the rock acts that managed to break through in a big way around the end of the 1990s, alongside bands like Limp Bizkit and Korn. "And then we had, well, I'll just say it, Creed." ← https://www.youtube.com/watch?v=hBQE4t72i3o ← creed
+**Wholesome Band Name** : The band's chosen name, "Creed," contributed to their overall wholesome perception and resonated with audiences, particularly within the Christian market. "and with a name like Creed, well that just sounded so, holds on, didn't it?" ← https://www.youtube.com/watch?v=6cbL0zLQeIs ← creed
 

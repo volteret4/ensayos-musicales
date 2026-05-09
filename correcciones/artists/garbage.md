@@ -7,6 +7,10 @@
 - Shirley Manson
 - Shirley Manson (singer)
 - Steve Marker (producer, sound engineer)
+- Butch Vig
+- Butch Vig (drummer)
+- Duke Erikson (guitarist)
+- Steve Marker (bass player)
 
 ## genres
 - Alt Rock
@@ -20,6 +24,8 @@
 **Garbage (1995) – Debut Album** : The self-titled debut album by Garbage was released in 1995. Butch Vig, the band's drummer, was also their producer. The album features the song "Only Happy When It Rains." "This is Garbage from the 1995 debut with Butch Vigs on drums." ← https://www.youtube.com/watch?v=gsSTJWN6cUo
 **Garbage (1995) – Self-titled Debut** : This self-titled debut album was released on August 15, 1995. It featured "I'm Only Happy When It Rains" as one of its five singles. "And the first record, a self-titled thing, came out on August 15th 1995." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Only Happy When It Rains (1995)** : This song is from Garbage's 1995 debut album. Butch Vig, who is also known as a grunge super producer, played drums on the track. "Garbage with only happy when it rains with grunge super producer Butch Vig on drums." ← https://www.youtube.com/watch?v=gsSTJWN6cUo
+**Garbage (1995) - Debut Album** : When Garbage released their self-titled debut album in 1995, the band members' ages were: drummer Butch Vig (39), guitarist Duke Erikson (44), bass player Steve Marker (36), and singer Shirley Manson (29). "When they released their first album in 1995, Vig, the drummer, was 39. Guitarist Duke Ericsson was 44. Bass player Steve Marker was 36. And singer Shirley Manson was the baby at 29." ← https://www.youtube.com/watch?v=P45lJTdneoI ← garbage
+**Version 2.0 (June 22nd Re-release) - Important 90s Album Reissue** : This is a re-release of Garbage's "Version 2.0," an album described as one of the most important records of the 1990s. Its re-issue is highly anticipated by many fans. "uno de los discos más importantes de los 90, yo creo que es una de las rediciones que la gente tiene muchísimas ganas." ← Music Radar Clan > LANZAMIENTOS JUNIO 2018 | https://www.youtube.com/watch?v=AvdFC5Q0nKk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← garbage
 
 ## songs
 **I'm Only Happy When It Rains (1995)** : This song was one of five singles released from Garbage's 1995 self-titled debut album and is notably sung by Shirley Manson. "This was one of five singles. I'm only happy when it rains." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
@@ -38,4 +44,11 @@
 **Shirley Manson's Discovery** : Steve Marker discovered Shirley Manson singing with a Scottish band called Angel Fish after seeing her on television, leading to her being tracked down for the new project. "But then it was Steve Marker who turned on a TV and saw a Scottish band called Angel Fish and saw Shirley singing for them." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Shirley Manson's Initial Audition Failure** : Shirley Manson initially failed her audition for the band. However, due to her shared musical tastes with the other members, they decided to give her another chance, which she then successfully "nailed." "When Shirley finally did have a chance to audition for the band, she failed. But because she had the same taste in music as the guys, they decided to take a chance anyway." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Stage Performance Motivation** : Shirley Manson finds stepping on stage to be like a "bolt in the arm," instantly rejuvenating and energizing her. This feeling makes all the "weird things" and difficulties of touring worthwhile, especially when she sees the lit-up faces of the fans enjoying the show. "The minute you step on stage, it's like a bolt in the arm." ← https://www.youtube.com/watch?v=DgN0vBIugLc
+**Fashion Icon** : Shirley Manson is also recognized as a fashion icon, having worked with various designers and stylists. "She's also something of a fashion icon and has worked with designers and stylists." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← garbage
+**Prominent Female-Fronted Band** : Garbage was noted as part of a generation of interesting bands from the late 90s featuring charismatic female lead singers, with Shirley Manson as their vocalist. "teníamos a Garbage que tenía a Sirly Manson." ← Music Radar Clan > Recordar a THE CRANBERRIES | https://www.youtube.com/watch?v=9HTrbETl_Pg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← garbage
+**Shirley Manson's Cameo with Queen of the Stone Age** : Shirley Manson, a member of Garbage, made a good cameo in a Queen of the Stone Age project, indicating the band's diverse range of collaborators. "Lidya Garbage que va patentemente no tenía nada que ver pero lo hizo bastante buen cameo." ← Music Radar Clan > Queens of The Stone Age  - Villains (información y reseña) | https://www.youtube.com/watch?v=EyxGTW1j85I&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← garbage
+**Shirley Manson's Influence** : Shirley Manson, the Scottish singer drafted into the American band Garbage, has had a notable impact on contemporary artists. Her approach to singing and music has been cited as an influence by Amy Lee of Evanescence, Katy Perry, Lady Gaga, Billie Eilish, and Lana Del Rey. "Her approach to singing and music has been cited as an influence by Amy Lee of Evan Essence, Katie Perry, Lady Gaga, Billie Eilish and Lana Del Rey." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← garbage
+**Summersault Festival International Act** : Garbage was an international act featured in Our Lady Peace's Summersault Festival lineup in 1998, which also included Canadian artists. "That lineup included I'm other Earth, McGandarves, as well as international flavor from Garbage, the Crystal Method and Eve 6." ← https://www.youtube.com/watch?v=U2kYleeMnl8 ← garbage
 
+## concerts
+- Summersault Festival

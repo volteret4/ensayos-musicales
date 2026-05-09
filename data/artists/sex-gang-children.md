@@ -6,5 +6,5 @@
 - Gothic rock
 
 ## curiosities
-**Proud Goth Identity** : Sex Gang Children were among the bands that openly embraced and were proud of being called Goth. "sex gang children..." ← https://www.youtube.com/watch?v=gd9sO7c3N1s
+**Proud Goth Identity** : Sex Gang Children were among the bands that openly embraced and were proud of being called Goth. "sex gang children..." ← https://www.youtube.com/watch?v=gd9sO7c3N1s ← sex-gang-children
 

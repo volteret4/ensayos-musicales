@@ -12,3 +12,5 @@
 ## curiosities
 **Gig in the Sky (2007)** : On February 27, 2007, Jay Kay and his band performed aboard a private Boeing 757 chartered by Sony Ericsson as a stunt to promote Jamiroquai's "High Times" album. The "Gig in the Sky" event, which included 200 contest winners, featured a specially outfitted cabin with a stage. The plane flew from Munich to Athens, and when it reached 35,000 feet, the band played five songs, breaking six Guinness World Records, including highest concert, fastest concert, highest recording, and fastest recording. "The event called Gig in the Sky also featured 200 contest winners." ← https://www.youtube.com/watch?v=hmnMG6f80Sg
 
+## member of
+- Jamiroquai

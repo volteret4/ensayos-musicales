@@ -5,3 +5,5 @@
 **Intricate Geometric and Crop Circle Designs** : Brandon Boyd of Incubus possesses a variety of very intricate tattoos, including geometric designs. One specific design on his forearm resembles a crop circle, which he reportedly had done in Cleveland. "Brendan Boyd of Inkybus has a number of very intricate tattoos. Some are geometric designs. There's one on his forearm that looks like some kind of crop circle that he had done in Cleveland." ← https://www.youtube.com/watch?v=jZeMmPekKMQ
 **Personal and Family Tattoos** : Among his other tattoos are the names of his parents and a teardrop design located on the index finger of both hands. "There's also an all-seeing eye embedded in the pyramid on his back. To go with a picture of an owl, there's the eye of Horus on his right ankle. The names of his parents, a teardrop on the index finger of both hands and so on others." ← https://www.youtube.com/watch?v=jZeMmPekKMQ
 
+## member of
+- Incubus

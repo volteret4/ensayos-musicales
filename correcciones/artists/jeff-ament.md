@@ -5,6 +5,7 @@
 - Mother Love Bone
 - Pearl Jam
 - Temple of the Dog
+- Green River
 
 ## curiosities
 **Naming Fictional Band "Citizen Dick"** : Jeff Ament was tasked with coming up with a name for a fictional band that he, Eddie Vedder, Stone Gossard, and actor Matt Dillon would be part of in the movie *Singles*. From his list of options, "Citizen Dick" was selected as the winning name. "Jeff Amit had been given the task of coming up with a name for a fictional band that he, Eddie and Stone and Matt Dillon, one of the stars of the film, would be in, so he listed a bunch of options." ← https://www.youtube.com/watch?v=zIkjd1OjCXM

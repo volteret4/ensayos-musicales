@@ -6,6 +6,7 @@
 - Indie Rock
 - Rock
 - Swedish Garage Rock
+- raw indie rock scene
 
 ## labels
 - Creation Records (Alan McGee's prior label)
@@ -19,6 +20,7 @@
 ## songs
 **Hate to Say I Told You So (2002)** : A song from their album "Vini Vidi Vicious," which found its audience after the album's re-release in April 2002. "The Hives, with hate to say I told you so from their album, Vini Vidi Vicious." ← https://www.youtube.com/watch?v=raRCZ0Y5up8
 **I Hate to Say I Told You So (2000)** : This track is presented as an "amazing slice of modern Garage Rock" from The Hives. It contributed to their rapid ascent to a major label deal after their second studio album, "Vini Vidi Vicious," released in 2000. "Swedish Garage Rock, The Hives, and I hate to say I told you so." ← https://www.youtube.com/watch?v=UpWz3X33vSY
+**Tic-Tic-Boom (Year Unspecified)** : This song by The Hives is presented as an example of music aligning with the garage rock and Indie Rock Revival movement of the early 2000s, originating from Sweden. "From Sweden, the hives, part of the garage rock slash Indie Rock Revival of the early 2000s, that's called tic-tic-boom." ← https://www.youtube.com/watch?v=vJszsJQpINQ ← the-hives
 
 ## curiosities
 **Enduring Presence** : Hailing from Sweden, The Hives are noted as one of the bands from the early 2000s indie rock revival that are "still with us," indicating their continued activity and relevance in the music scene. "The hives are still with us." ← https://www.youtube.com/watch?v=xid8CZf4oYo
@@ -29,4 +31,6 @@
 **Part of Indy Rock Revival** : The Hives were explicitly named as a band that, alongside The Strokes, The White Stripes, the Yeah Yeah Yeahs, Interpol, The Vines, and Arcade Fire, was a firm part of the Indy Rock Revival in the late 2003/early 2004 period. "The strokes were firmly part of the Indy Rock Revival that also included the white stripes, the yay-yayas, interpole, the vines, the hives, and this new band called Arcade Fire." ← https://www.youtube.com/watch?v=jEfofyobGiI
 **Sweden's Sharpest Dressed Band** : The Hives are acclaimed as potentially Sweden's sharpest dressed band, known for their unwavering commitment to a black and white color palette. Their outfits consistently feature variations such as black shirts with white satin ties, black pants, and white shoes, or the inverse, making their monochrome aesthetic a distinctive signature. "And there are the hives, who just might be Sweden's sharpest dress band. The clothes may change, but the palette remains the same. Black and white. Black shirts, white satin ties, black pants, white shoes, or maybe vice versa, whatever, is always a variation on black and white." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM
 **Swedish Origins and Sound Pivot** : Formed in Sweden in 1989, The Hives significantly pivoted their sound in 1993 to a very "garage-y" style. This stylistic shift preceded their breakthrough success in the early 2000s. "They are Swedish and were formed in 1989. But in 1993, there was a big pivot in their sound to something very garage-y." ← https://www.youtube.com/watch?v=UpWz3X33vSY
+**Pioneers of the Indie Rock Revival (Early 2000s)** : The Hives were among the "new, sharp clever bands" that emerged during the Indie Rock Revival or Post-Punk Revival period around 2000-2001. This movement was a refurbished version of old-school early alt-rock, garage rock, and punk styles. "We gave us new, sharp clever bands like the strokes and the hives, the yay-yaz, friends ferdinand, interpool, and the arctic monkeys." ← https://www.youtube.com/watch?v=vJszsJQpINQ ← the-hives
+**Raw Indie Rock Scene Association** : The Hives are considered part of the "raw indie rock scene," often grouped with bands like The Vines, The Strokes, The Datsuns, and The Doves. "part of that whole raw indie rock scene." ← Ongoing History of New Music > Alt Rocks Craziest People | https://www.youtube.com/watch?v=CgReNKciFJo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← the-hives
 

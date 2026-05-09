@@ -3,6 +3,7 @@
 ## members
 - John Sinclair (manager)
 - Wayne Kramer (co-founder, lead guitarist)
+- Fred 'Sonic' Smith
 
 ## genres
 - Garage Rock (exception)
@@ -37,4 +38,7 @@
 **Pre-Punk Pioneers** : The MC5 is recognized as one of the most important pre-punk bands, known for their influential sound, attitude, and political stance. "He was one of the co-founders of Detroit's MC5, one of the most important pre-punk bands." ← https://www.youtube.com/watch?v=HBS24NwhrE8
 **Proto-Punk and Political Activism (Mid-Late 1960s)** : The MC5, a proto-punk band hailing from Detroit, was essentially an extension of the Marxist Black Panther Party, a militant socialist black nationalist organization that generated considerable controversy in the mid to late 1960s. The band further established an affiliated group known as The White Panthers. Despite their eventual internal political struggles that led to the band's dissolution, the MC5 effectively amplified the voices of marginalized people in the US during their active period. "The MC5, the Proto-Punk Band from Detroit, were essentially a wing of the Marxist Black Panther Party, a militant socialist black nationalist organization that stood up a lot of controversy in the middle of late 60s." ← https://www.youtube.com/watch?v=0ARYt4sYT90
 **Record Deal and Democratic National Convention (1968)** : The MC5 secured a "big record deal" in 1968. Around the same time, they performed at the "ill-fated" Democratic National Convention in Chicago, appearing as guests of the White Panther Party. "Somehow they were signed to a big record deal in 1968. This was at around the same time as they appeared at the ill-fated Democratic National Convention in Chicago as guests of the White Panther Party." ← https://www.youtube.com/watch?v=6oUkMOkEr9U
+**Early "Punk" Usage in Print (April 6, 1969)** : A review of an album by this Detroit group, penned by rock writer Lester Banks and published in Rolling Stone magazine on April 6, 1969, contained an early and significant use of the word "punks" in a musical context. Banks described the group with the phrase "a bunch of 16-year-old punks on a meth power trip," marking an important step in associating the term with rebellious rock music. "In a review of an album by a Detroit group called the MC5, published in Rolling Stone magazine on April the 6th of 1969, he managed to use this phrase. A bunch of 16-year-old punks on a meth power trip." ← https://www.youtube.com/watch?v=Z8BTWo66SDI ← mc5
+**Fred 'Sonic' Smith's Death (November 1994)** : Fred 'Sonic' Smith, a member of MC5, died in November 1994 from a heart attack. "Fred Sonic Smith, member of the MC-5...heart attack, November 1994." ← https://www.youtube.com/watch?v=ua93Ui1u6UI ← mc5
+**Sampled in KLF Song** : Samples from MC5 were among at least eight distinct samples used in The KLF's massive 1990 single "What Time Is Love." "There were at least eight samples in this track, including from the MC5." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← mc5
 

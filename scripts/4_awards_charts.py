@@ -1,18 +1,23 @@
 #!/usr/bin/env python3
 """
-Enriquece los .md de resumenes/ con secciones ## awards y ## charts.
+Enriquece los archivos de data/artists/ con secciones ## awards, ## charts y ## lists.
 
 Premios:  Wikidata SPARQL  (siempre online)
 Charts:   db/charts.db     (local, construida con build_charts_db.py)
-          → fallback a Wikidata si la DB local no existe
+Listas:   db/charts.db     (Scaruffi, Rolling Stone, Pitchfork…)
+          → fallback a Wikidata para charts si la DB local no existe
+
+Cada archivo de data/artists/ tiene un único artista, por lo que el proceso
+es directo: leer nombre → buscar datos → añadir secciones al final.
+3_merge_resumenes.py preserva estas secciones al reescribir los archivos.
 
 Uso:
-    python3 scripts/4_awards_charts.py
-    python3 scripts/4_awards_charts.py --file resumenes/.../archivo.md
-    python3 scripts/4_awards_charts.py --force       # sobreescribe secciones existentes
-    python3 scripts/4_awards_charts.py --dry-run     # no modifica archivos
-    python3 scripts/4_awards_charts.py --no-charts   # solo premios
-    python3 scripts/4_awards_charts.py --no-awards   # solo charts
+    python3 scripts/3_awards_charts.py
+    python3 scripts/3_awards_charts.py --file data/artists/radiohead.md
+    python3 scripts/3_awards_charts.py --force       # sobreescribe secciones existentes
+    python3 scripts/3_awards_charts.py --dry-run     # no modifica archivos
+    python3 scripts/3_awards_charts.py --no-charts   # solo premios y listas
+    python3 scripts/3_awards_charts.py --no-awards   # solo charts y listas
 """
 
 import os
@@ -22,8 +27,8 @@ import sqlite3
 import argparse
 import requests
 
-RESUMENES_FOLDER = './resumenes'
-CHARTS_DB        = './db/charts.db'
+ARTISTS_FOLDER = './data/artists'
+CHARTS_DB      = './db/charts.db'
 SPARQL_URL       = "https://query.wikidata.org/sparql"
 SEARCH_URL       = "https://www.wikidata.org/w/api.php"
 HEADERS          = {"User-Agent": "EnsayosMusicales/1.0 (ensayos@musicales.org)"}
@@ -62,19 +67,29 @@ def _get(url, params):
     elapsed = time.time() - _last_request
     if elapsed < 1.2:
         time.sleep(1.2 - elapsed)
-    for attempt in range(3):
+    _RETRY_WAIT = [15, 30, 60]
+    for attempt in range(4):
         try:
-            r = requests.get(url, params=params, headers=HEADERS, timeout=20)
+            r = requests.get(url, params=params, headers=HEADERS, timeout=30)
             if r.status_code == 429:
-                time.sleep(5 * (attempt + 1))
+                time.sleep(10 * (attempt + 1))
+                continue
+            if r.status_code in (502, 503, 504):
+                if attempt == 3:
+                    r.raise_for_status()
+                time.sleep(_RETRY_WAIT[min(attempt, 2)])
                 continue
             r.raise_for_status()
             _last_request = time.time()
             return r.json()
-        except requests.RequestException:
-            if attempt == 2:
+        except requests.exceptions.Timeout:
+            if attempt == 3:
                 raise
-            time.sleep(3)
+            time.sleep(_RETRY_WAIT[min(attempt, 2)])
+        except requests.RequestException:
+            if attempt == 3:
+                raise
+            time.sleep(10)
     return {}
 
 
@@ -380,9 +395,11 @@ def process_file(filepath, force, dry_run, no_awards, no_charts, charts_db):
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    artists = re.findall(r'^# artist - (.+)$', content, re.MULTILINE)
-    if not artists:
+    # Cada archivo de data/artists/ tiene exactamente un artista
+    m = re.search(r'^# artist - (.+)$', content, re.MULTILINE)
+    if not m:
         return
+    artist = m.group(1).strip()
 
     already_awards = '## awards' in content
     already_charts = '## charts' in content
@@ -392,86 +409,73 @@ def process_file(filepath, force, dry_run, no_awards, no_charts, charts_db):
     needs_lists    = not no_charts and (force or not already_lists)
 
     if not needs_awards and not needs_charts and not needs_lists:
-        print(f"--- Saltando (ya enriquecido): {os.path.basename(filepath)} ---")
-        return
+        return  # silencioso — son miles de archivos
 
-    use_local_db   = charts_db and os.path.exists(charts_db)
-    charts_source  = f"local DB" if use_local_db else "Wikidata"
+    use_local_db = charts_db and os.path.exists(charts_db)
+    print(f"  {artist}...", end=' ', flush=True)
 
-    print(f"\n=== {os.path.basename(filepath)} ===")
-    print(f"Artistas: {', '.join(artists)}"
-          f"  |  charts → {charts_source}")
+    awards, charts, lists = [], [], []
 
-    enrichments = {}
-    for artist in artists:
-        print(f"  {artist}...", end=' ', flush=True)
+    if needs_awards:
         try:
-            awards = []
-            charts = []
-            lists  = []
-
-            # Premios: siempre Wikidata
-            if needs_awards:
-                qid = search_qid(artist)
-                if qid:
-                    awards = get_awards(qid)
-                    if needs_charts and not use_local_db:
-                        charts = get_chart_peaks_wikidata(qid)
-                    print(f"({qid})", end=' ', flush=True)
-                else:
-                    print("(QID no encontrado)", end=' ', flush=True)
-
-            # Charts y listas: DB local tiene prioridad
-            if use_local_db:
-                if needs_charts:
-                    charts = query_local_charts(artist, charts_db)
-                if needs_lists:
-                    lists = query_local_lists(artist, charts_db)
-
-            print(f"→ {len(awards)} premios, {len(charts)} charts, {len(lists)} listas")
-            if awards or charts or lists:
-                enrichments[artist] = {"awards": awards, "charts": charts, "lists": lists}
-
+            qid = search_qid(artist)
+            if qid:
+                awards = get_awards(qid)
+                if needs_charts and not use_local_db:
+                    charts = get_chart_peaks_wikidata(qid)
         except Exception as e:
-            print(f"error: {e}")
+            print(f"(premios: {e})", end=' ', flush=True)
 
-    if not enrichments:
+    if use_local_db:
+        try:
+            if needs_charts:
+                charts = query_local_charts(artist, charts_db)
+            if needs_lists:
+                lists = query_local_lists(artist, charts_db)
+        except Exception as e:
+            print(f"(charts: {e})", end=' ', flush=True)
+
+    print(f"→ {len(awards)} premios, {len(charts)} charts, {len(lists)} listas")
+
+    if not (awards or charts or lists):
         return
 
-    new_content = rebuild_content(content, enrichments, force)
+    try:
+        enrichments = {artist: {"awards": awards, "charts": charts, "lists": lists}}
+        new_content = rebuild_content(content, enrichments, force)
 
-    if not dry_run:
-        with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(new_content)
-        print(f"  ✓ Guardado")
-    else:
-        print("  (dry-run, no se escribe)")
+        if not dry_run:
+            with open(filepath, 'w', encoding='utf-8') as f:
+                f.write(new_content)
+    except Exception as e:
+        print(f"error escribiendo: {e}")
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Enriquece resumenes con ## awards y ## charts"
+        description="Enriquece data/artists/ con ## awards, ## charts y ## lists"
     )
-    parser.add_argument('--folder',     default=RESUMENES_FOLDER)
-    parser.add_argument('--file',       help='Procesar un único .md')
-    parser.add_argument('--charts-db',  default=CHARTS_DB,
+    parser.add_argument('--folder',    default=ARTISTS_FOLDER,
+                        help=f'Carpeta de artistas (default: {ARTISTS_FOLDER})')
+    parser.add_argument('--file',      help='Procesar un único .md')
+    parser.add_argument('--charts-db', default=CHARTS_DB,
                         help=f'Ruta a charts.db (default: {CHARTS_DB})')
-    parser.add_argument('--force',      action='store_true',
+    parser.add_argument('--force',     action='store_true',
                         help='Reemplazar secciones existentes')
-    parser.add_argument('--dry-run',    action='store_true',
+    parser.add_argument('--dry-run',   action='store_true',
                         help='No modificar archivos')
-    parser.add_argument('--no-awards',  action='store_true',
+    parser.add_argument('--no-awards', action='store_true',
                         help='Omitir sección ## awards')
-    parser.add_argument('--no-charts',  action='store_true',
-                        help='Omitir sección ## charts')
+    parser.add_argument('--no-charts', action='store_true',
+                        help='Omitir secciones ## charts y ## lists')
     args = parser.parse_args()
 
     if not os.path.exists(args.charts_db):
-        print(f"⚠ charts.db no encontrada en {args.charts_db}")
-        print("  → charts se obtendrán de Wikidata (más lento)")
-        print("  → Ejecuta primero: python3 scripts/build_charts_db.py\n")
+        print(f"⚠  charts.db no encontrada en {args.charts_db}")
+        print("   Ejecuta primero: python3 scripts/build_charts_db.py")
+        print("   Sin ella los charts/listas se omiten y los premios van por Wikidata.\n")
 
     kwargs = dict(
         force=args.force, dry_run=args.dry_run,
@@ -483,14 +487,16 @@ def main():
         process_file(args.file, **kwargs)
         return
 
-    for root, _, files in os.walk(args.folder):
-        for filename in sorted(files):
-            if not filename.endswith('.md'):
-                continue
-            try:
-                process_file(os.path.join(root, filename), **kwargs)
-            except Exception as e:
-                print(f"Error en {filename}: {e}")
+    files = sorted(f for f in os.listdir(args.folder) if f.endswith('.md'))
+    total = len(files)
+    print(f"Procesando {total} artistas en {args.folder}…\n")
+    for i, filename in enumerate(files, 1):
+        if i % 100 == 0:
+            print(f"  [{i}/{total}]")
+        try:
+            process_file(os.path.join(args.folder, filename), **kwargs)
+        except Exception as e:
+            print(f"Error en {filename}: {e}")
 
 
 if __name__ == "__main__":

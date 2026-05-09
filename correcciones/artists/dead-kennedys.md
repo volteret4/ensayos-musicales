@@ -6,6 +6,7 @@
 - East Bay Ray (guitarist)
 - Jello Biafra
 - Jello Biafra (singer)
+- D.H. Pellegrot (former)
 
 ## genres
 - American Hardcore punk
@@ -15,6 +16,8 @@
 - Indie Hardcore Punk
 - Punk
 - Surf rock (influence)
+- California Hardcore
+- Punk Rock
 
 ## labels
 - Alternative Tentacles
@@ -46,4 +49,12 @@
 **Pseudonyms for Performances** : Due to their controversial name, which was considered "super tasteless," the band often had to perform under pseudonyms. "Their name gave them problems, sort of super tasteless, so they often had to perform under pseudonyms." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
 **Reunion in 2001** : The Dead Kennedys had a reunion in 2001 that continued for several years. "There was also a Dead Kennedys reunion in 2001 that stuck for years." ← https://www.youtube.com/watch?v=sdPeii-8Ysw
 **Used "Thatchergate" Samples** : The Dead Kennedys incorporated samples from Crass's infamous "Thatchergate" tape into their own musical tracks. This act connected them to a significant political hoax that fooled major intelligence agencies. "samples from this tape were used in tracks by both Crasse and the dead Kennedys." ← https://www.youtube.com/watch?v=0ARYt4sYT90
+**Cassette Circulation in Seattle** : The Dead Kennedys were one of the indie punk bands from other parts of the country whose music was featured on homemade cassettes. These cassettes were passed around among key people in Seattle in the mid-1980s, contributing to the city's unique musical stew of influences. "They featured indie punk bands from other parts of the country, Dead Kennedys, Huskadoo, Replacements, and of course Sonic Youth." ← https://www.youtube.com/watch?v=xdn31jMOOA4 ← dead-kennedys
+**Destroying the Status Quo** : The band's philosophy was centered on challenging and destroying the status quo, which heavily influenced their music and public actions. Their refusal to conform to label demands underscored this commitment. "The decays were all about destroying the status quo." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← dead-kennedys
+**Formation of Alternative Tentacles Records** : Rather than compromise on their name or artistic vision, the Dead Kennedys decided to form their own record label, Alternative Tentacles. This label became a major influence in the Bay Area music scene and is credited with paving the way for bands like Rancid and Green Day. "So, instead of compromising the decays formed their own record label, which they called alternative tentacles." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← dead-kennedys
+**Frequent Vancouver Performances** : Matthew Good recalled that the Dead Kennedys frequently played in Vancouver during his childhood in the 1980s. Their regular appearances highlight the city's once vibrant and influential music scene, which he believes has since lost its "edge." "I can't count how many times a day Kennedy's came to town when I was a kid, you know." ← https://www.youtube.com/watch?v=--g0gugy3ZE ← dead-kennedys
+**Influence on Grunge Bands** : The Dead Kennedys were noted as an influence on grunge artists, indicating the continued relevance of hardcore punk to the evolving alternative rock sound of the 90s. "Yeah, we were into the clash and black flag and the replacements in the Dead Kennedys 2." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← dead-kennedys
+**Jello Biafra's 1979 Mayoral Campaign** : In 1979, singer Jello Biafra ran for mayor of San Francisco as a satirical act of political protest. He finished fourth in a field of ten candidates. One of his campaign promises was to mandate that all city politicians wear clown suits, highlighting his anti-establishment views. "For example, in 1979, Singer Jello Biafra ran for mayor of San Francisco." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← dead-kennedys
+**Refusal to Change Name for Contract** : The Dead Kennedys, known for their ultra-political stance, were approached by several record labels offering contracts on the condition that they change their band name. The band found this unacceptable, as compromising their identity went against their core ethos. "The ultra-political dead Kennedys were accorded by several labels saying that they could have a contract if they would just, you know, change their name." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← dead-kennedys
+**Sex Pistols Aesthetic Influence** : The Dead Kennedys emerged in the United States shortly after the Sex Pistols gained prominence, and their aesthetic was "deeply inspired" by the look established by the British band. "Poco después vendrán los dead Kennedy. Inspiradísimos en la estética de los 6 pistos." ← Music Radar Clan > El PUNK como movimiento estético | https://www.youtube.com/watch?v=m6wiAVLkXa0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← dead-kennedys
 

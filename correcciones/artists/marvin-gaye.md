@@ -3,6 +3,8 @@
 ## genres
 - Blues Rock
 - Soul/R&B (implied)
+- Funk
+- R&B
 
 ## songs
 **Got to Give It Up (1977)** : A 1977 song whose estate successfully sued Robin Thicke over similarities in his song "Blurred Lines." The court case relied on a "note by note" comparison of the musical notation, leading to a jury finding of infringement and an award of $7.2 million. "Marvin Gaye's 1977 song got to give it up." ← https://www.youtube.com/watch?v=4cZfegexwwk

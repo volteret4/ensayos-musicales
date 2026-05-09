@@ -9,3 +9,6 @@
 ## curiosities
 **Obscure Music Found on YouTube** : A rare 3-track EP by this Nashville group, originally released in 1987 on Ferrelet Records as a vinyl 12-inch single, was impossible to find on traditional digital platforms or record store catalogs but was eventually discovered on YouTube, demonstrating the platform's vast and unexpected content. "Years ago, I found a 3-track EP by a Nashville group called 69 Tribe." ← https://www.youtube.com/watch?v=XM1RvL7Kdts
 
+## charts
+**"Original Soundtrack" — UK Vinyl Albums Chart** : 24 semanas.
+**"The Prodigy" — UK Vinyl Singles Chart** : entrada.

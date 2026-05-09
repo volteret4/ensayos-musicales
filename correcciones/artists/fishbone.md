@@ -12,14 +12,18 @@
 - Ska
 - Skate Culture
 - Soul
+- Punk Funk
 
 ## concerts
 - Lollapalooza (1991)
 - Lollapalooza 1993
 - Vans Warped Tour (1996)
+- Lollapalooza
 
 ## albums
 **Truth and Soul (1988) – Second Album** : This was Fishbone's second album, released in 1988, marking a period of their best years. "Here's something from their second album Truth and Soul, which came out in 1988." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
+**Early 90s Festival Performances** : By the early 1990s, Fishbone was performing on the main stage of Lollapalooza, demonstrating their growing prominence within the alternative music scene. "And in a few years they'd be performing on the main stage of Lola Puluso." ← https://www.youtube.com/watch?v=WX2GlpMNg_8 ← fishbone
+**Truth and Soul (1988)** : This second album by Fishbone is recommended for listeners unfamiliar with the band, featuring songs like "Ma and Pa." The band became a significant part of the West Coast alternative scene by 1988, bridging the second wave of Ska with the upcoming third wave. "If you're unfamiliar with Fishbone, dig into their second album Truth and Soul, which featured songs like this. It's Ma and Pa." ← https://www.youtube.com/watch?v=WX2GlpMNg_8 ← fishbone
 
 ## songs
 **Ma and Pa (1988)** : This song is featured on Fishbone's second album, "Truth and Soul," released in 1988. "This is Fishbone with Ma and Pa." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
@@ -36,4 +40,6 @@
 **Pioneers of Genre Blending (1979)** : Fishbone formed in 1979 in South Central LA with four black members, becoming highly important for blending punk and funk, along with ska, hard rock, soul, and elements of hip hop and rap. "They were formed in 1979, four black guys from South Central LA. Their stuff was socially conscious, anti-racist, clever, witty, and basically a lot of fun." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 **Socially Conscious and Anti-Racist Message** : Their music was characterized by socially conscious, anti-racist, clever, and witty lyrics, contributing to their unique and fun sound. "Their stuff was socially conscious, anti-racist, clever, witty, and basically a lot of fun." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 **Touring with Beastie Boys and Lollapalooza 1993** : Fishbone opened for the Beastie Boys on tour and was a main stage performer at the 1993 Lollapalooza tour, showcasing their widespread recognition. "the Beastie Boys would tag fishbone to open one of their tours, and they were one of the main stage performers on the 1993 La Lava Pulusa tour." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
+**Bridge to the Third Wave** : Fishbone is credited with serving as vital connective tissue between the second wave of Ska in the late 1970s and early 1980s and the emergence of the third wave. They became an important part of the West Coast alternative scene, making serious inroads to Alt Rock by 1988 and stirring the beginnings of the third wave. "A band that served as vital connective tissue between the second wave of SCAT in the very late 70s and the early 80s and what was to come with the third wave." ← https://www.youtube.com/watch?v=WX2GlpMNg_8 ← fishbone
+**Influence on Flea's Bassline** : Flea from Red Hot Chili Peppers was working on a side project called Hate with members of the punk-funk band Fishbone when he developed the bassline for "Give It Away." "Lee came up with the bass line while working on a side project called Hate with a few members of the punk-funk band Fishbone." ← https://www.youtube.com/watch?v=Rf1tFWQg51Y ← fishbone
 

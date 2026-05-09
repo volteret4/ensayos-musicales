@@ -2,6 +2,8 @@
 
 ## members
 - Vince Neil
+- Mick Mars
+- Nikki Sixx
 
 ## instruments
 - 1972 Ford Pantera (sports car)
@@ -20,4 +22,12 @@
 **Vehicular Manslaughter of Razzle (1984)** : In 1984, Vince Neil and Razzle, the drummer for Hanoi Rocks, left a party in Neil's powerful 1972 Ford Pantera to get more alcohol. While driving 65 mph in a 25 mph zone, Neil hit a wet patch, crossed into oncoming traffic, and crashed into two cars. Razzle died in the hospital, and Neil suffered cuts and cracked ribs. "While going 65 in a 25 miles per hour zone, the Pantera hit a wet patch of pavement, it crossed over into the opposite lane and crashed into two cars traveling the other way." ← https://www.youtube.com/watch?v=5vKSjpvVQa8
 **Vince Neil's Relationship with Jeanine Lindemulder** : Vince Neil, the lead singer of Mötley Crüe, was involved in a sex tape with porn star Jeanine Lindemulder, who famously appeared on the cover of Blink-182's 1999 album "Enema of the State." This detail is noted as part of Lindemulder's extensive and varied career history. "Somewhere on her resume is a sex tape with Motley Crucinger Vince Neal." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
 **Vineyard Arrangements** : Vince Neil has established arrangements with vineyards. "All have arrangements with vineyards." ← https://www.youtube.com/watch?v=xc85sLj0Cnk
+**Glam Rock Lineage** : Mötley Crüe in 1985 is presented as being "cut from the same cloth" as 1973 Slade, illustrating the direct lineage from glam rock to hair metal, characterized by big hair, makeup, spandex, and party anthems. "But 1985 Motley Crew, next to 1973 Slade, and you'll see that they're cut from the same cloth." ← https://www.youtube.com/watch?v=blDNqVFheAw ← mötley-crüe
+**Nikki Sixx's 1987 Overdose** : On December 23, 1987, Mötley Crüe bassist Nikki Sixx experienced a severe overdose. His heart stopped, and he was clinically dead for two minutes, requiring two shots of adrenaline to be revived. "Nikki Sixth of Motley Crew needed two shots of adrenaline to restart his heart on December 23rd, 1987. He was gone for two minutes." ← Ongoing History of New Music > People Who (Almost) Died | https://www.youtube.com/watch?v=7rXwaxlEkbQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← mötley-crüe
+**Rehab at Impact Drug and Alcohol Treatment Center** : Every member of Mötley Crüe reportedly attended the Impact Drug and Alcohol Treatment Center in Pasadena for rehabilitation. "This is a place that is hosted every member of Motley Crew and also Brent Gerowicz of Bad Religion." ← https://www.youtube.com/watch?v=EyagC0T7mR4 ← mötley-crüe
 
+## genres
+- Hair Metal
+
+## concerts
+- Live 8 (Canadian show)

@@ -5,14 +5,27 @@
 - Fergal Lawler
 - Mike Hogan
 - Noel Hogan
+- (a couple of brothers)
+- (a friend)
+- Dolores O'Riordan (singer)
+- Dolores O'Riordan (singer, songwriter)
 
 ## genres
 - Alt Rock
 - Alt-Rock
 - Dreampop (adjacent)
+- Alternative Music
+- Dream Pop
+- Indie Alternative
+- Modern Rock
+- Música Alternativa
+- Pop Rock
+- Pop Rock Celta
+- Shoegaze
 
 ## concerts
 - Woodstock 94
+- John Peel Sessions (BBC)
 
 ## albums
 **(Third Album, Title not specified) (Year not specified)** : The band's third album continued their commercial success, selling an additional five million copies. "The third, another five million." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
@@ -24,6 +37,8 @@
 **Second Album Sales** : The band's second album sold "almost 17 million copies." "The second sold almost 17 million copies." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
 **Something Else (2017) – Unplugged Album** : The distinctive couch that featured prominently on the Cranberries' early album covers made a return appearance on the cover of their 2017 unplugged album, "Something Else." Its whereabouts in the intervening years remain unknown, though it was seen in a Supergrass video. "The couch disappeared from the Cranberries world until 2017 when it appeared on the cover of the unplugged album." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
 **To the Faithful Departed (1996)** : This album was produced by Bruce Fairbairn. "This is from their 1996 album to the Faithful Departed." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
+**Sales Figures** : The Cranberries sold 50 million albums, demonstrating their significant commercial success. "Dolores O'Rourkeden was the face and voice of the cranberries, a band that sold 50 million albums." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← the-cranberries
+**Wake Up and Smell the Coffee (2001) - Post-Hype Release** : This album was released in 2001, marking a period of decline for the band, which often accompanies the release of compilation albums. It coincided with significant personal issues among band members. "se acaban el ese disco el güey que pasó el de cofio, que más o el de cofio ya que era el 2001." ← Music Radar Clan > Recordar a THE CRANBERRIES | https://www.youtube.com/watch?v=9HTrbETl_Pg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-cranberries
 
 ## songs
 **Water Circle (1990) – Demo Tape** : This demo recording from 1990 marks the very first appearance of Dolores O'Riordan as the new singer for The Cranberries. The track is described as "a bit rough," reflecting its demo status. "This is a bit rough, but it is the first appearance of Doors with the cranberries and the year is 1990." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
@@ -32,6 +47,9 @@
 **Zombie (1994) – IRA Bombing Protest Song; Two Children Died; Often Mistaken for a Song About the Undead** : "Zombie" by the Cranberries is 100% a Troubles protest song, inspired by two IRA bombings in England in February 1993 in which two children died and 56 people were injured. Many listeners assume the song is about the undead. It was a major worldwide hit and remains one of the most recognizable protest songs of the 1990s. "How many people think that zombie from the cranberries is about the undead? Well, no. It is a 100% a Troubles protest song." ← https://www.youtube.com/watch?v=YsNRNKvd1GI
 **Zombie (1994) – Monster Song** : This song was described as a "monster song" from 1994. "The Cranberries 1994 Monster song, Zombie." ← https://www.youtube.com/watch?v=yuA9Xor8vfw
 **Zombie (N/A)** : This song addresses a 1993 IRA bombing which resulted in the deaths of two people. "Zombie from the Cranberries is about a 1993 IRA bombing that killed two people." ← https://www.youtube.com/watch?v=cM3-tINKdvo
+**Animal Instinct (Late 1999)** : This song, along with "Imagination", was released towards the end of 1999. It demonstrates the band's continued output and loyal fanbase several years after their initial hype. "justo al final es de los 99 yo creo que obteníamos las cacinas como el animal instito." ← Music Radar Clan > Recordar a THE CRANBERRIES | https://www.youtube.com/watch?v=9HTrbETl_Pg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-cranberries
+**Imagination (Late 1999)** : Released in late 1999, this track, alongside "Animal Instinct", showcases The Cranberries' sustained creative output and their ability to retain a faithful following years after their initial period of high popularity. "el imagination entonces aún seguían a 5 o 6 años después del hype." ← Music Radar Clan > Recordar a THE CRANBERRIES | https://www.youtube.com/watch?v=9HTrbETl_Pg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-cranberries
+**Zombie (1994) - Global Breakthrough** : Released in 1994, this song made The Cranberries world-famous, building on prior work and earning them widespread recognition. Its success came after the band had established a solid, slower path in their career. "cuando en el 94 salían con zombie que ... le hacía mundialmente famosos." ← Music Radar Clan > Recordar a THE CRANBERRIES | https://www.youtube.com/watch?v=9HTrbETl_Pg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-cranberries
 
 ## curiosities
 **Breakup Date (September 15, 2003)** : While an exact date is difficult to pinpoint, September 15, 2003, is considered approximately correct for when the members scattered to pursue solo endeavors, being "sick of each other" and "tired of being in the band." "It's hard to find an exact date, but September 15th 2003 seems to be about right. All the members scattered after that date to do their own thing." ← https://www.youtube.com/watch?v=yR3xc3ra5tE
@@ -49,4 +67,16 @@
 **The Recurring Couch Motif** : A specific rented couch became a distinctive and recurring visual element for The Cranberries' album artwork. It appeared on the covers of their debut album, "Everybody Else Is Doing It, So Why Can't We?" (1993), their second album, "No Need to Argue" (1994), and surprisingly, their 2017 unplugged album, "Something Else." The same couch also made a cameo in the 1996 music video for the Supergrass song "Alright." "The couch disappeared from the Cranberries world until 2017 when it appeared on the cover of the unplugged album." ← https://www.youtube.com/watch?v=_tbKuJR0cPs
 **Trinity College Philosophical Society Event (2009)** : The reunion process began when Trinity College made Dolores O'Riordan a member of their philosophical society and invited her to perform. She asked Mike and Noel Hogan and Fergal Lawler to play with her, marking their first reunion. "Trinity College made me a member of their philosophical society and they wanted me to do a couple of songs, you know?" ← https://www.youtube.com/watch?v=yR3xc3ra5tE
 **Unique Sound in 90s Alt-Rock** : Despite not fitting the prevalent guitar-heavy alt-rock sound in North America or the Britpop style in the UK, The Cranberries were signed in 1992 during a period of high demand for alternative bands, and successfully integrated into the growing alt-rock scene. "And even though the cranberries didn't fit with the usual guitar-heavy stuff that was happening in North America, or even the pre-briot pop stuff that was happening in the UK, they nevertheless became part of the growing alt-roxene." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
+**Cancelled Tours and Unexplained Concert Stops** : The band had several tours cancelled and concerts halted without clear explanations, leading to various incorrect speculations and legends about Dolores O'Riordan's health. "había habido varias giras de los gran barris que habían sido canceladas y conciertos que habían sido parados además como sin explicaciones." ← Music Radar Clan > Recordar a THE CRANBERRIES | https://www.youtube.com/watch?v=9HTrbETl_Pg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-cranberries
+**Dissolution due to Personal Problems** : The band experienced a decline in the new century, culminating in their dissolution around 2001 due to significant personal problems among the members. "el nuevo siglo ya vino un poco como la cuesta abajo ... había bastantes problemas personales entre ellos que los llevaban a disolverse." ← Music Radar Clan > Recordar a THE CRANBERRIES | https://www.youtube.com/watch?v=9HTrbETl_Pg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-cranberries
+**Distinctive Style and Lyrical Depth** : The band maintained a very personal style, never compromising their artistic integrity for chart success. Dolores O'Riordan's lyrics were consistently intense, intimate, and never as banal as those found in many contemporary bands. "no fue una banda que se echó a las listas a cualquier precio con lo cual seguió como manteniendo un estilo muy personal las letras de dolores siguieron siendo como muy bastante intensas y bastante intimistas." ← Music Radar Clan > Recordar a THE CRANBERRIES | https://www.youtube.com/watch?v=9HTrbETl_Pg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-cranberries
+**Dolores O'Riordan's Impact** : Dolores O'Riordan, the face and voice of The Cranberries, possessed a powerful and unique vocal style, recognized as one of the most distinctive in the history of alternative rock. She was a significant influence on contemporary artists like Adele, Florence Welch, and Halsey. "Her powerful vocal style was unique and has been called one of the most distinctive voices in the history of Al Rock. Talk to Adele or Florence Welcher, Hallsley, and they'll tell you that Dolores was a huge influence on them." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← the-cranberries
+**Early Discovery and Alternative Roots** : The Cranberries were not discovered by a major multinational corporation but emerged from the alternative music scene, signing with Island Records. They worked with The Smiths' producer and had their first John Peel session on the BBC before releasing any album. "los descubrieron Islan Records, habían trabajado con el productor de los Smith, había sido dos también descubiertos por John Pil la primera sesión de los gran bris con John Pil en los vivicis ehs son anteriores a que tuviese ningún disco." ← Music Radar Clan > Recordar a THE CRANBERRIES | https://www.youtube.com/watch?v=9HTrbETl_Pg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-cranberries
+**Irish Icon and Activist** : Dolores O'Riordan was an icon in Ireland. Before her death in 2018, she was an activist working on behalf of children globally. "She's an icon in Ireland, and before she died in 2018, she worked as an activist on behalf of children all over the world." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← the-cranberries
+**Post-Hype Success and Loyal Fanbase** : Following their initial surge in popularity, The Cranberries enjoyed several years of solid success. Five to six years after their major breakthrough, they continued to maintain a faithful fanbase and their distinctive style, refusing to sell out for chart positions. "seguían a 5 o 6 años después del hype siguiendo con una base fiel de seguidores con un estilo propio que no se habían vendido a las listas a cualquier precio." ← Music Radar Clan > Recordar a THE CRANBERRIES | https://www.youtube.com/watch?v=9HTrbETl_Pg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-cranberries
+**Reunions and Professionalism** : Despite internal disagreements, The Cranberries reunited multiple times, performing songs from Dolores O'Riordan's solo career during these concerts. These reunions were generally well-received by fans, distinguishing them from many other 90s band reunions that were considered mistakes. "cuando se hicieron las reunificaciones de los frambarris llegaron a tocar en los conterdos alguna canción de la trayectoria de solitaría de dolores." ← Music Radar Clan > Recordar a THE CRANBERRIES | https://www.youtube.com/watch?v=9HTrbETl_Pg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-cranberries
+**Rise of New Alternative Bands (Mid-90s)** : The Cranberries were one of the new bands emerging in the mid-1990s as alternative music gained widespread acceptance. "We had new bands like Weezer and Rage Against the Machine and Beck and the Cranberries in the Verve." ← https://www.youtube.com/watch?v=ua93Ui1u6UI ← the-cranberries
+**Survival of the Hype** : Unlike many bands of their generation that struggled to survive the intense hype of the late 90s (like Republica or No Doubt), The Cranberries built a more solid and slower career path, allowing them to successfully navigate and endure the period of high demand. "fueron una banda que supieron capiar muy bien ese hype del que no sobrevivieron mucha gente." ← Music Radar Clan > Recordar a THE CRANBERRIES | https://www.youtube.com/watch?v=9HTrbETl_Pg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-cranberries
 
+## labels
+- Island Records

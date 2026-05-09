@@ -5,6 +5,9 @@
 - John Reed
 - Two brothers (unnamed)
 - William Reed
+- John Reid
+- Phil King
+- William Reid
 
 ## genres
 - Alt Rock
@@ -13,6 +16,11 @@
 - Guitar-based music
 - Indie music
 - Noise Rock
+- Garage Rock
+- Indie Rock
+- Noise Pop (implied)
+- Post-Punk (implied)
+- Shoegaze
 
 ## labels
 - Creation Records
@@ -29,6 +37,8 @@
 **Kill Surf City** : This song was recorded by The Jesus and Mary Chain. "The Jesus and Mary chain, not only recorded a song called Kill Surf City, but they also covered the Beach Boys Surfing USA." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
 **Never Understand (1985)** : This single, released in March 1985, generated excitement among "the cool kids" and contributed to the anticipation surrounding The Jesus and Mary Chain's concert at North London Polytechnic College. "In March 1985, the Jesus and Marychain had a single called Never Understand, which had the cool kids pretty excited." ← https://www.youtube.com/watch?v=huAvyInzz3Q
 **Surfing USA – The Beach Boys cover** : The Jesus and Mary Chain covered The Beach Boys' classic song "Surfing USA." "but they also covered the Beach Boys Surfing USA." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
+**On the Web (1987)** : This song, featured on The Jesus and Mary Chain's "Darklands" EP, was notably recorded using a Portastudio. Its inclusion on an influential indie rock record demonstrates the increasing adoption of low-fidelity recording equipment by significant bands in the late 1980s as a means to achieve a particular sound and aesthetic. "These things, these things, like a rain." ← https://www.youtube.com/watch?v=Jq-e-fZxXOs ← the-jesus-and-mary-chain
+**Upside Down (Year not specified)** : This single became a surprise hit for the band. Its release followed the band's formation by brothers Jim and William Reed, who, after being unemployed for five years, drew inspiration from 1960s girl groups while adding layers of noise to their songs. "It released a single call Upside Down, which was a surprise hit." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← the-jesus-and-mary-chain
 
 ## curiosities
 **21st Century Reunion** : The Jesus and Mary Chain were mentioned as one of the alt-rock bands that reunited in the first decade of the 21st century, joining a wave of reformations that aimed to re-energize the scene and bring back older fans. "In addition, the Pixies...Jesus and Marychain...These reunions injected some life into the scene, albeit temporary life." ← https://www.youtube.com/watch?v=_yslM5oanRo
@@ -42,4 +52,20 @@
 **The Great Jesus and Mary Chain Riot** : Their concert at North London Polytechnic on March 15th, 1985, escalated into a riot. Factors contributing to the chaos included oversold tickets, a prolonged wait, and the band's deliberately provocative, short, feedback-heavy performance. The resulting stage invasion, gear smashing, and crowd violence were extensively covered by the British music press, cementing its place in rock history. "this gig has gone down in Indiraq history as the great Jesus and Mary chain riot." ← https://www.youtube.com/watch?v=qC0Ee4-dpnI
 **Unconventional Concert Style** : The Jesus and Mary Chain were known for their radical departure from traditional concert formats. Their sets were typically brief, lasting only 10 to 20 minutes, predominantly featuring "squalling feedback," and they often performed with their backs to the audience. This confrontational approach was perceived as more of a "provocation" than a conventional musical performance. "They really didn't believe in staging traditional concerts. Sets ran anywhere from 10 to 20 minutes... They sort of played songs but spent most of the time immersed in squalting feedback and more often than not they'd play with their backs to the audience." ← https://www.youtube.com/watch?v=qC0Ee4-dpnI
 **Unconventional Live Performances** : The Jesus and Mary Chain were known for their departure from traditional concert staging. Their sets typically lasted only 10 to 20 minutes, primarily featuring "squalling feedback" rather than clearly defined songs, and they often played with their backs to the audience. Their performances were considered "not so much a gig as it was a provocation." "They sort of played songs, but spent most of the time immersed in squalling feedback." ← https://www.youtube.com/watch?v=huAvyInzz3Q
+**Alan Moulder's Production Work** : The Jesus and Mary Chain (inferred from "Jesus and Medichain") is one of the bands that Alan Moulder has produced, highlighting his connection to influential alternative and shoegaze sounds. "él ha producido a Jesus and Medichain." ← Music Radar Clan > Queens of The Stone Age  - Villains (información y reseña) | https://www.youtube.com/watch?v=EyxGTW1j85I&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-jesus-and-mary-chain
+**Connection to Creation Records** : A demo tape from the band fortuitously reached Alan McGee, the head of Creation Records, leading to the label releasing their single "Upside Down" and later their debut album. This connection was pivotal in their early career. "Through some happenstance, their demo tape came to the attention of Alan McGee and an indelabel called Creation Records." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← the-jesus-and-mary-chain
+**Danceable, Garage-Influenced Sound** : Their sound, which was notably guitar-driven and imbued with garage influences, was sometimes described as a bit more danceable or suitable for a lively bar environment compared to the more introspective dreampop. "a veces podía ser incluso un pelín más bailable o más de bar movido de lo que podía ser el dreampop." ← Music Radar Clan > DREAM POP y SHOEGAZE. Diferencias entre ellos. | https://www.youtube.com/watch?v=75cEjgxTR3U&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-jesus-and-mary-chain
+**Early Controversies** : The band generated considerable controversy through incidents such as getting arrested for drugs and performing short, 20-minute concerts that frequently descended into violence. On some occasions, their shows would feature the band playing just a single, prolonged chord. "Meanwhile, the band created all sorts of controversy by getting arrested for drugs and playing short 20-minute concerts that often devolved into violence." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← the-jesus-and-mary-chain
+**Important Mid-80s Band** : The Jesus and Mary Chain were an important band formed in the mid-1980s, contributing to the Shoegaze movement that connected the two main generations of indie music. "tenemos otros grupos muy importantes como tenemos de Jesus a Mary Jane." ← Music Radar Clan > La generación perdida del Indie： SHOEGAZE | https://www.youtube.com/watch?v=kbiXssvv3aE&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-jesus-and-mary-chain
+**On-Stage Fighting** : Brothers John and William Reid of The Jesus and Mary Chain were known for their intense conflicts, which even manifested physically on stage during live performances. "They'd even fight on stage in the middle of a show." ← https://www.youtube.com/watch?v=cjWxC2jQVrA ← the-jesus-and-mary-chain
+**Pillar of Shoegaze** : The band is considered a foundational pillar of the shoegaze sound, particularly instrumental in establishing its characteristically guitar-distortion-focused and noisy aesthetic. "yo creo que la base en la que se son, se tentaba el pilar del sugeis." ← Music Radar Clan > DREAM POP y SHOEGAZE. Diferencias entre ellos. | https://www.youtube.com/watch?v=75cEjgxTR3U&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-jesus-and-mary-chain
+**Reed Brothers' Early Life** : Brothers Jim and William Reed from East Kilbride were unemployed for five years prior to forming the band. Their background influenced their approach to music, leading them to create noise with their guitars and express a disdain for conventional rock and roll. "They'd been unemployed for five years, and like the Ramones, they loved the girl groups of the 1960s." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← the-jesus-and-mary-chain
+**Scottish Origin** : The band is noted for being Scottish, contributing to the idea of a distinct "Scottish sound" that was influential in the early development of shoegaze and dreampop. "de Jesus me dichan eran escoceses." ← Music Radar Clan > DREAM POP y SHOEGAZE. Diferencias entre ellos. | https://www.youtube.com/watch?v=75cEjgxTR3U&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-jesus-and-mary-chain
+**Unconventional Instrumentation** : The band intentionally rejected conventional rock and roll practices, which they claimed to hate. This manifested in their unique approach to instruments, such as not tuning guitars, using a bass with only two strings, and having the drummer stand up to play only a snare and a tom with mallets, deliberately omitting a bass drum and cymbals as "extraneous clutter." "Tune the guitar? Why? Two strings on the bass? That's fine. And what was the drummer doing standing up and playing a snare in a taunt on with mallets? No bass drum, no cymbals? Extrany is clutter." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← the-jesus-and-mary-chain
 
+## instruments
+- Portastudio
+
+## albums
+**Darklands (1987) - EP** : This EP, released by one of the most important Scottish indie bands of the 1980s, features the song "On the Web," which was notably made on a Portastudio. Its inclusion on this influential record highlights how low-fidelity recording techniques were being adopted by significant artists as a deliberate artistic choice, contributing to the evolving lo-fi scene. "In 1987, they issued an EP entitled Darklands. On it was this song made on a port of studio. It's called On the Web." ← https://www.youtube.com/watch?v=Jq-e-fZxXOs ← the-jesus-and-mary-chain
+**Psycho Candy (1985) - Debut Record** : Released in November 1985, this album was the band's debut and featured the song "Just Like Honey," which garnered significant attention. The album presented a large slab of fuzz guitar combined with lovely, breathy melodies, contributing a crucial "DNA" to the emerging shoegaze sound. "Then in November 1985, they released their debut record called Psycho Candy, and the song that grabbed everybody's attention was this one." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← the-jesus-and-mary-chain

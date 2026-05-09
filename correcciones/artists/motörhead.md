@@ -13,6 +13,7 @@
 
 ## songs
 **Louie Louie (Cover)** : Motörhead is among the numerous artists who have covered Richard Berry's "Louie Louie," with the song being covered more than 1600 times in total. "And since then, the song has been covered more than 1600 times by everyone from the beach boys to the stooges to motorhead to black flag to the smashing pumpkins." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
+**Killed by Death (Year Unspecified) - 7-inch Single** : A 7-inch single of "Killed by Death" (transcribed as "gilos"). "el single gilos de motorgén 7 pulgadas también." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← motörhead
 
 ## curiosities
 **Adoption of the "Rock Dot" Umlaut** : Motörhead famously adopted the umlaut (or "rock dot") in their name, contributing to the association of these diacritics with metal bands, primarily for their cool, foreign, or menacing aesthetic. "There's Motley Crew, Queen's Reich, Spinal Tap, Green Jelly, Motorhead, Maximal Park, Moxie Frouze, and tons of others." ← https://www.youtube.com/watch?v=yPok3MemDmE
@@ -22,4 +23,7 @@
 **Major Influence on UK Hardcore** : Motörhead was identified as the biggest influence from the New Wave of British Heavy Metal scene on UK Hardcore, which itself was an amalgamation of British punk and NWOBHM. "The biggest influence from that scene was Motorhead." ← https://www.youtube.com/watch?v=0qigzi1j81U
 **Managed by Sharon Osborne** : Motörhead were among the clients managed by Sharon Osborne, daughter of the old-school manager Don Arden. Osborne's management career encompassed a range of heavy rock and metal acts. ← https://www.youtube.com/watch?v=PzyvXmDKFUc
 **Origin of "Headbanging" Term** : According to Lemmy, the term "headbanging" was derived from the name of his band, suggesting a direct link such as "Motörhead banging." The band's fast songs, some reaching 200 beats per minute, put extreme strain on the neck. "Then if you had talked to Lemmy, he would say that the term head banging was derived from the name of his band." ← https://www.youtube.com/watch?v=bferkEWvJg0
+**Ongoing Re-edition & Remastering Campaign** : Much of Motörhead's material has been undergoing re-editing and remastering in recent years, with the process still incomplete. This ongoing effort indicates a comprehensive revisiting of their discography. "también se está reditando mucho material en los últimos años de motorgén, aún no está todo reditado y remasterizado." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← motörhead
 
+## albums
+**Deaf Forever (Year Unspecified) - Re-edition** : This album is being re-edited as part of an ongoing project to re-edit and remaster much of Motörhead's material over recent years, a process that is not yet complete. "también se redita el dezo flori de motorgén." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← motörhead

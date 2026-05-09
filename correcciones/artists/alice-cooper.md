@@ -8,6 +8,7 @@
 - Garage Rock (evolution from)
 - Heavy metal
 - Industrial music
+- Punk Rock (early perception)
 
 ## albums
 **Breakthrough Albums (Early 1970s)** : Bob Ezrin produced Alice Cooper's breakthrough albums in the early 1970s, marking a significant point in Ezrin's career. "His big break came in the early 1970s when he produced the breakthrough albums for Alice Cooper." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
@@ -17,6 +18,8 @@
 **Dead Babies** : One of the darker and weirder song titles associated with Alice Cooper's evolving persona. "with titles like Dead Babies" ← https://www.youtube.com/watch?v=SIK2YFSmf9U
 **I Love the Dead** : A song title that exemplifies the increasingly dark and unusual content of Alice Cooper's music. "and I love the dead." ← https://www.youtube.com/watch?v=SIK2YFSmf9U
 **Killer** : A song title reflecting the darker and stranger direction of Alice Cooper's music. "Killer" ← https://www.youtube.com/watch?v=SIK2YFSmf9U
+**I'm Eighteen (1970)** : This song by Alice Cooper was the only track Johnny Lydon recognized on the jukebox during his 1975 audition for Malcolm McLaren's new band, which would become the Sex Pistols. Lydon gyrated like a belly dancer, miming and singing the words as best he could to this song, ultimately securing his position as the band's vocalist. "Johnny had never heard of most of the songs in the jukebox, but he did recognize I'm 18 from Alice Cooper." ← https://www.youtube.com/watch?v=AymMybE33zU ← alice-cooper
+**No More Mr. Nice Guy (1973)** : This song was among those on playlists used to subject Iraqi prisoners of war to long stretches of metal music during the First Gulf War, beginning in 1990. "ACDC shook me all night long, paranoid from Black Sabbath, and no more Mr. Nice Guy from Alice Cooper were some of the songs on those playlists." ← https://www.youtube.com/watch?v=R1wdsGt07Gg ← alice-cooper
 
 ## curiosities
 **Bread as Merchandise** : Alice Cooper ventured into unusual merchandise in 2020, offering his own branded bread. "Alice Cooper bread, chocolate milk." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ
@@ -30,4 +33,9 @@
 **Pioneering Theatrical Rock** : Alice Cooper introduced a new level of theatricality to rock music, with his elaborate stage shows influencing a wide range of genres from heavy metal to art rock and industrial music. "But in the process, Alice brought a new sense of theatricality to rock. Alice worked influenced everything from heavy metal to art rock to industrial music." ← https://www.youtube.com/watch?v=SIK2YFSmf9U
 **Post-Garage Rock Band** : The band that eventually became Alice Cooper is mentioned as an exception that continued to perform and evolve after the general end of the original Garage Rock era around 1968. "The MC5, the band that eventually became Alice Cooper, to name 2." ← https://www.youtube.com/watch?v=UpWz3X33vSY
 **Singer Adopts Band Name (1973)** : By 1973, the band's singer, Vincent Furnier, had fully embraced the name "Alice Cooper" as his own stage persona. "By 1973, the singer, Vincent Fernier, was now being called Alice Cooper." ← https://www.youtube.com/watch?v=SIK2YFSmf9U
+**Chelsea Hotel Guest** : Alice Cooper was cited as one of the numerous musicians who were guests at the Chelsea Hotel. "Bob Dylan, Patty Smith, Leonard Cohen, Janice Joplin, Jimmy Henrichs, Tom Waits, Jim Morrison, Jeff Beck, Johnny Mitchell, Alice Cooper, the guys in Pink Floyd, and many, many others." ← https://www.youtube.com/watch?v=LE4YenwmeXM ← alice-cooper
+**Early Association with "Punk Rock"** : In 1971, when the term "punk rock" was primarily an aesthetic concept used by critics rather than a distinct musical genre, Alice Cooper was among the artists whose music was sometimes referred to as "punk rock" by observers. "For example, Alice Cooper was originally called punk rock." ← https://www.youtube.com/watch?v=Z8BTWo66SDI ← alice-cooper
+**Early Influence from Noel Coward** : Alice Cooper was exposed to the work of Noel Coward, who was making music for the West End and Broadway in the mid-1960s, influencing Cooper's theatrical approach. "and Alice Cooper." ← https://www.youtube.com/watch?v=blDNqVFheAw ← alice-cooper
+**Influence on Gothic Rock (Early 1970s)** : Alice Cooper is credited for his influence on Gothic rock through his "death-obsessed shock rock" of the early 1970s. His theatrical and dark aesthetic paved the way for the morbid and supernatural themes prevalent in Goth music. "We also have to give Alice Cooper credit for his death-obsessed shock rock of the early 1970's." ← https://www.youtube.com/watch?v=mAlc-N2wn5s ← alice-cooper
+**Influence on Sid Vicious's Early Busking** : Sid Vicious and John Lighten (Johnny Rotten) would busk by playing covers of Alice Cooper songs, with the "joke" being that they would play until they were paid to stop. "Sid and John Lighten picked up some spare change busking, usually by playing covers by Alice Cooper." ← https://www.youtube.com/watch?v=LE4YenwmeXM ← alice-cooper
 

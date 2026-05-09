@@ -7,3 +7,6 @@
 ## albums
 **My Big Hero** : This record by Atticus Ross's band was released through Trent Reznor's Nothing Records in the late 1990s. The band released two albums in total. "He and Trent first crossed paths in the late 90s when a 12-round record called My Big Hero was released through Trent's Nothing Records." ← https://www.youtube.com/watch?v=DKdF8NgF5Bw
 
+## charts
+**"The Stone Roses" — UK Vinyl Albums Chart** : entrada.
+**"David Hasselhoff" — UK Vinyl Singles Chart** : entrada.

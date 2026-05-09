@@ -14,6 +14,8 @@
 - Lollapalooza (1992)
 - Lollapalooza Festival 1992
 - Project Revolution
+- Check Your Head Tour (with Beastie Boys)
+- Lollapalooza 1991
 
 ## albums
 **Black Sunday (1993)** : This record, released in the summer of 1993, debuted at number one on the charts, marking the first time any rap group had achieved this feat. "When it arrived in the summer of 1993, it debuted at number one on the charts. The first time any rap group had done that." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
@@ -30,4 +32,8 @@
 **Project Revolution Performer (2002)** : Cypress Hill performed at the inaugural Project Revolution tour in 2002, alongside DJ Z-Trip. "The first edition was in 2002 and featured Cypress Hill on a buddy named DJ Z-Trip." ← https://www.youtube.com/watch?v=YcdidjWaIqE
 **Touring Partner for Check Your Head** : Cypress Hill toured with the Beastie Boys following the release of their "Check Your Head" album. "They toured not only with Cypress Hill, but also get this, The Rollins Band." ← https://www.youtube.com/watch?v=9_BTe15NooI
 **White Fan Base Expansion** : As a "straight rapper-former," Cypress Hill found themselves gaining more and more white fans, demonstrating the expanding reach of rap music. "Even straight rapper-formers like Dela Sol, Cypress Hill, NWA and Iced Tea found themselves with more and more white fans." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
+**B-Real Auditions for Velvet Revolver (2003)** : B-Real, the rapper from Cypress Hill, was one of the singers who tried out for the band that would become Velvet Revolver, but he did not work out for the group. "Same with Be Real of Cypress Hill." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← cypress-hill
+**Co-headlining Tour with Beastie Boys** : Cypress Hill toured with the Beastie Boys following the release of *Check Your Head*, demonstrating a shared platform with diverse acts. "They toured not only with Cypress Hill, but also get this, The Rollins Band." ← https://www.youtube.com/watch?v=HZzP0qswdwM ← cypress-hill
+**Lollapalooza 1991 Performer** : Cypress Hill was among the "rap stars" who performed at the 1991 Lollapalooza festival, playing a key role in the event's groundbreaking integration of alternative rock and hardcore rap, which helped to bridge racial and social barriers. "When presented with rap stars like Ice Tea and Ice Cube at a tribe called Quest in George Clinton and Cypress Hill." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← cypress-hill
+**Shared Combatant Spirit** : Along with System of a Down, Cypress Hill adopted a combatant spirit directed against the system, moving beyond purely personal feelings to address broader societal issues. This ideological alignment mirrored the protest-oriented music of groups like Rage Against the Machine, demonstrating a continued thread of resistance within rock. "Cómo sistema fadda aún, o cómo los Cypress Hill también retomaban ese espíritu combatiente en contra del sistema inotanto, en contra del sentimiento personal." ← Music Radar Clan > Poniendo en su lugar a Rage Against the Machine | https://www.youtube.com/watch?v=BZwjNagkRcU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← cypress-hill
 

@@ -4,6 +4,7 @@
 - Chester Bennington
 - DJ Johan
 - Mike Chinota
+- Rob Borden
 
 ## genres
 - Alt Rock
@@ -54,4 +55,7 @@
 **Public Contract Negotiation** : The band issued a press release criticizing Warner Music Group for an expected $1.4 billion windfall from their IPO, with only $7 million going to company operations and nothing to artists, while Warner fired back accusing the band's management of using "fictitious numbers" and "inflammatory threats" as a negotiating tactic. This public dispute lasted for months, drawing significant media attention. "This very public fight went on for months before an agreement was reached." ← https://www.youtube.com/watch?v=qQm7u3W13eM
 **Record Industry Evolution & Sales Decline** : Over their career, the band witnessed a drastic shift in the record industry; their first album sold 30 million copies, but by their sixth album in 2014, worldwide sales barely reached a million. This decline in physical sales was attributed to streaming taking over, yet the band sustained itself through touring and a deep catalog. "By the time the numbers started coming in for their sixth album in 2014, World Wide Sales barely added up to a million." ← https://www.youtube.com/watch?v=qQm7u3W13eM
 **Sophisticated Online & Social Media Strategy** : Lincoln Park developed an exceptionally smart and effective online and social media organization, recognized for its modern 21st-century approach to engaging and maintaining their fanbase. The band members were deeply involved, constantly interacting, providing special content, and releasing music directly to fans. "I have never seen an organization smarter than the one behind Lincoln Park." ← https://www.youtube.com/watch?v=qQm7u3W13eM
+**Embraced Modern Electronic Drums** : Rob Borden of Lincoln Park is one of the contemporary drummers who has adopted modern electronic drums. These instruments are utilized to trigger sounds, tones, patterns, and samples, demonstrating their versatility in modern music production and performance. "Today's electronic drums have been embraced by players such as Danny Carey, Neil Peart, Will Champion of Coldplay, Rob Borden of Lincoln Park, and many, many others." ← https://www.youtube.com/watch?v=WL3zEWJJNuw ← lincoln-park
 
+## instruments
+- Electronic drums

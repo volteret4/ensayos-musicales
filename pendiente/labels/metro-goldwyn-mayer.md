@@ -1,0 +1,6 @@
+# label - Metro-Goldwyn-Mayer
+
+## curiosities
+**Executive's Opinion on The Velvet Underground Album** : An executive from Metro-Goldwyn-Mayer famously dismissed "The Velvet Underground & Nico" as "shit" after hearing it. Despite his strong negative reaction, he was ironically the person in charge of Verve Records, the label that ultimately released the album. "un director, un director ejecutivo de la Metro Golden Mayor después de escucharlo, le decía Andy Warhol la famosa frase de Andy, esto es una mierda." ← Music Radar Clan > The Velvet Underground： Una vision más humana que musical | https://www.youtube.com/watch?v=_TMMVFTuyC4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← metro-goldwyn-mayer
+**Parent Company of Verve Records** : Metro-Goldwyn-Mayer was the parent company of Verve Records, which ultimately released The Velvet Underground & Nico. An executive from MGM was directly involved in the album's reception and eventual release through its Verve division. "pertenecía la Metro Golden Mayor y era la persona que acababa finalmente editando el disco de la Belvet Underground." ← Music Radar Clan > The Velvet Underground： Una vision más humana que musical | https://www.youtube.com/watch?v=_TMMVFTuyC4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← metro-goldwyn-mayer
+

@@ -7,6 +7,9 @@
 ## genres
 - Garage Rock
 - Mod
+- Powerpop
+- R&B
+- Rock
 
 ## songs
 **You Really Got Me** : Two months before The Beatles' "I Feel Fine" was recorded, The Kinks were working at IBC Studios in London. Frustrated with not achieving the desired sound for a song Ray Davies had written on piano, his brother Dave Davies took a razor blade to the speaker cone of his Vox Elpico amp and poked holes in it with a pin. This deliberate damage created a cool, distorted sound that became iconic for the track. "But not before Brother Dave Davies hacked up the speaker code of his Vox Elpico amp with a razor blade and poking some holes in it with a pin for good measure." ← https://www.youtube.com/watch?v=iGav9uJwA_w
@@ -20,4 +23,13 @@
 **Previous Reigning Champions of Sibling Rivalry** : Before Liam and Noel Gallagher, Ray and Dave Davies of The Kinks were considered the benchmark for intense and long-standing sibling rivalries in music. Their continuous feuding was widely known and documented. "Even crazier than what we've seen with Ray and Dave Davies of the Kinks, the previous reigning champions." ← https://www.youtube.com/watch?v=_b3KRS-Yx_s
 **Recording with Speaker Damage (1964)** : While recording a song in 1964, band member Dave Davies employed an unusual technique to achieve distortion by slashing the speaker cone of his small amplifier. This intentional damage, whether by razor blade or screwdriver, produced a distinctive sound but provided limited control over the characteristics of the distortion. "When the band was recording this song in 1964, he slashed the speaker cone of his small amp." ← https://www.youtube.com/watch?v=PNiL63fY1Y8
 **UK Garage Rock Example** : The Kinks are cited as a UK band from the original Garage Rock era, alongside The Pretty Things, The Who, and to some extent, The Rolling Stones. "Out of the UK, there were bands like the Kinks and the Pretty Things and the Who, even the Rolling Stones to a certain extent." ← https://www.youtube.com/watch?v=UpWz3X33vSY
+**British Invasion Influence** : The Kinks are cited as one of the British Invasion bands that followed The Beatles, further developing the sound that would lead to Powerpop. They are considered an influence by later Powerpop acts like Big Star. "Through the Beatles came all the rest of the British invasion bands, especially the Kinks and the Who." ← https://www.youtube.com/watch?v=hstJ8M2laho ← the-kinks
+**Conceptual Film Experimentation** : Around the same time The Monkees were gaining popularity, British acts like The Kinks were experimenting with conceptual films designed to promote their songs and albums. This marked an early phase of artists exploring the visual medium beyond simple performance clips. "At about the same time, British acts like the kinks and the hoo were experimenting with conceptual films designed to promote songs and albums." ← Ongoing History of New Music > The Rise and Fall and Future of the Music Video - Part 1 | https://www.youtube.com/watch?v=lqd6IbUJ7tg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← the-kinks
+**Early R&B Exploration** : The Kinks were among the British bands in the 1960s who ventured into playing R&B, a style that became part of the Mod culture's evolving musical preferences. "Then British bands trying their handed R&B, like the Rolling Stones and the Yard Birds and the Kinks, and especially the Who." ← https://www.youtube.com/watch?v=mAlc-N2wn5s ← the-kinks
+**Early Use of "New Wave" Term** : The term "New Wave" was initially used in music to refer to the new generation of bands emerging, including The Kinks. This early usage applied to groups that represented a fresh musical movement departing from mainstream consumption. "Se usaba para hacer referencia a la nueva ganación de los Beatles, los Beach Boys, Rolling Stones, los Kings y de todas estas bandas." ← Music Radar Clan > Que es el New Wave | https://www.youtube.com/watch?v=jxaTsoSRXZE&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-kinks
+**Persistent Sibling Rivalry** : Ray and Dave Davies of The Kinks are noted for their long-standing and intense sibling rivalry, described as a "bad one" that has continued for an extended period. "Ray and Dave Davies of the Kinks, that's a bad one that's been going on forever." ← https://www.youtube.com/watch?v=cjWxC2jQVrA ← the-kinks
+**Sibling Feud** : There was significant animosity and "no love lost" between brothers Ray and Dave Davies, who were both members of The Kinks. "There's Ray and Dave Davies and the Kinks, so no love lost there." ← https://www.youtube.com/watch?v=zUr9sjWgUcw ← the-kinks
 
+## instruments
+- Gibson Flying V
+- Vox products

@@ -11,6 +11,7 @@
 
 ## songs
 **Scream (1995) - Most Expensive Music Video** : The music video for "Scream," a collaboration between Janet Jackson and her brother Michael, was released in 1995 and became the most expensive music clip ever shot at the time. Its total budget reached $7 million. "The most expensive clip ever shot was screened by Michael Jackson and Sister Janet, which was released in 1995." ← https://www.youtube.com/watch?v=r8AazBVoS7g
+**Scream (1995)** : This video, a collaboration with her brother Michael Jackson, was released in 1995 and had an extraordinarily high production budget. In today's money, the 4-minute and 47-second video cost just under 15 million dollars, making it one of the most expensive music videos ever produced. "Remember the video for Scream by Michael and Janet Jackson back in 1995? And today's money. That video, which runs for 4 minutes and 47 seconds, cost just under 15 million dollars." ← Ongoing History of New Music > The Rise and Fall and Future of the Music Video - Part 1 | https://www.youtube.com/watch?v=lqd6IbUJ7tg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← janet-jackson
 
 ## curiosities
 **Lip-Syncing Walkout (2019)** : In November, hordes of fans left a Janet Jackson concert in Australia due to what was described as "horrible" lip-syncing. "Hordes of fans poured out of a Janet Jackson concert in Australia in November because the lip-syncing was so horrible." ← https://www.youtube.com/watch?v=72Lei7uug8c

@@ -2,4 +2,5 @@
 
 ## member of
 - Dogstar
+- Dog Star
 

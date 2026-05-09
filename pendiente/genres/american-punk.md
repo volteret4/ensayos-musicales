@@ -1,0 +1,6 @@
+# genre - American Punk
+
+## curiosities
+**Grimbey's "Sell-Out" Status** : Grimbey faced severe backlash and was labeled as "sell-outs" by the punk community after signing with Reprise Records, a label owned by Warner Brothers. This decision to move from an underground discography to a more professional, corporate structure was seen as a betrayal of punk ideals, despite the band initially rejecting even larger multinationals. "acabaron siendo tachados elendidos." ← Music Radar Clan > Green Day - Dookie (¿el concierto más divertido de los '90？) | https://www.youtube.com/watch?v=hPloRX7TWrY&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← american-punk
+**Grimbey's Early Success and Respect** : Before signing with a major label, Grimbey cultivated a significant and respected presence within the American punk scene through their independent releases. Their initial success was entirely self-made, demonstrating their authenticity and influence in the underground. "se habían hecho un hueco muy importante y respetado dentro de la escena panca americana." ← Music Radar Clan > Green Day - Dookie (¿el concierto más divertido de los '90？) | https://www.youtube.com/watch?v=hPloRX7TWrY&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← american-punk
+

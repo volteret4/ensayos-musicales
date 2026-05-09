@@ -4,6 +4,8 @@
 - Foo Fighters
 - Nirvana
 - The Germs
+- Kurt Cobain
+- The Birds of Satan
 
 ## members
 - Foo Fighters

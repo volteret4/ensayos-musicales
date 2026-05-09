@@ -19,6 +19,8 @@
 **B-Side Blues (1991)** : Lenny Kravitz released a song titled "B-Side Blues," directly acknowledging and incorporating the concept of a B-side into its title. This track further demonstrates how artists sometimes engaged with the idea of the B-side. "There's a Lenny Kravitz song called B side blues." ← https://www.youtube.com/watch?v=QBCEmZ4Jheo
 **Mr. Cab Driver** : This song by Lenny Kravitz is noted for tackling the issue of racism. "Racism was tackled in Mr. Cab driver by Lenny Kravitz." ← https://www.youtube.com/watch?v=0ARYt4sYT90
 **Mr. Cab Driver (1989)** : This song is from Lenny Kravitz's debut album, "Let Love Rule," released in 1989. "This is Lenny Kravitz, a Mr. Cab driver. Mr. Cab driver, don't like the way I look." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
+**American Woman (Cover)** : Lenny Kravitz's cover of The Guess Who's "American Woman" serves as an example of the complexities of Canadian content rules (MAPL). Although Kravitz is American and the production was American, the original music and lyrics were written by four Canadian members of The Guess Who, making it technically "Canadian" for radio purposes. "Lenny Kravitz, his cover of the guest who's American woman... Lenny Kravitz and an illustration of how strange Canadian content rules can be for radio in this country." ← https://www.youtube.com/watch?v=5kPmqmbFfkY ← lenny-kravitz
+**Are You Gonna Go My Way?** : Lenny Kravitz is noted to use a Gibson Flying V on this track. "Here's Lenny Kravitz using a Flying V on, Are You Gonna Go My Way?" ← https://www.youtube.com/watch?v=d9HNqb9gJSU ← lenny-kravitz
 
 ## curiosities
 **Alias Romeo Blue** : Before finding mainstream success, Kravitz experimented with various musical phases, including performing under the alias "Romeo Blue," which was not successful. "By 1988, he had gone through several musical phases, including a stint going by the name Romeo Blue, which didn't go very well." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
@@ -31,3 +33,5 @@
 **Successful Real Estate Ventures** : In addition to his ongoing music career, Lenny Kravitz has achieved significant financial success in real estate, renovating properties in locations such as New York, the Bahamas, Miami, Paris, and Toronto. "Today, he still performs in records, but is making gazillions of dollars in the real estate business by renovating properties in New York, the Bahamas, Miami, Paris, and Toronto." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 **Toronto Condo Design** : Lenny Kravitz is involved in designing condos for the Toronto real estate market, similar to Pharrell Williams. "Lenny Kravitz isn't the only artist to get into designing condos for the Toronto market." ← https://www.youtube.com/watch?v=72Lei7uug8c
 
+## instruments
+- Gibson Flying V

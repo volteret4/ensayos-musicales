@@ -10,12 +10,27 @@
 - Ron Ashton
 - Scott Ashton
 - Steve McCay
+- Rob Ashton
 
 ## genres
 - Pre-punk
 - Punk
 - Punk Rock
 - Rock music
+- Alternative
+- Angry
+- Arrogant
+- Fuzzy
+- High Energy Rock and Roll
+- Loud
+- New Rock
+- Nihilistic
+- Powerful
+- Punky
+- Raw
+- Sloppy
+- Spontaneous
+- Violent
 
 ## labels
 - Columbia Records
@@ -29,6 +44,10 @@
 - State Street in Ann Arbor (First Gig) - Halloween, 1967
 - The Rock'n'Roll Farm (Last Original Gig) - February 9, 1974
 - University of Michigan - October 20, 1967
+- **Richard's Club, Atlanta (October 1973)** : The band played a show here during a punishing tour where they sometimes performed twice a day. This venue was the site of the infamous "Elton John in a gorilla suit" incident. "In October 1973, Iggy and the Stooges were playing a show at Richard's Club of Then You and Atlanta."
+- American Theatre
+- Ann Arbor
+- Michigan Palace
 
 ## instruments
 - Ball-peen hammers
@@ -46,6 +65,10 @@
 **Skull Ring (2003) – Iggy Pop Solo Album featuring The Stooges** : This album was released under Iggy Pop's name after Virgin Records suggested he incorporate guest musicians, specifically hinting at the "Ashton Boys," to generate buzz for his next record and avoid being dropped. Ron and Scott Ashton appeared on four songs, marking a close, but not official, reunion of the band members. "Ron and Scott appeared on four songs in a record that was eventually released under the title Skull Ring." ← https://www.youtube.com/watch?v=w-rihv544I8
 **The Stooges (1969) – Self-titled debut** : This album was produced by John Cale of The Velvet Underground. Due to the band's inability to rehearse for more than 20 minutes, half the material was allegedly written the night before their first day in the studio, with old avant-garde ideas reworked into more coherent songs. The initial mix was rejected by Elektra president Jack Holtzman, who then re-mixed it himself, but despite this, the album did not sell well as it was considered too raw and primitive for most people at the time. "Nobody was making music that sounded like this." ← https://www.youtube.com/watch?v=w-rihv544I8
 **The Weirdness (2007) – Reunion Album** : This album was released on March 6, 2007, marking the first album of new material from The Stooges since *Raw Power* in 1973, a gap of 34 years. It featured Iggy Pop, Ron Ashton, and Scott Ashton, with punk stalwart Mike Watt on bass. The album was followed by extensive touring throughout the mid-2000s. "It was the first album of new stuages material since raw power in 1973, 34 years." ← https://www.youtube.com/watch?v=w-rihv544I8
+**Fun House (1970) - Second Studio Album (example)** : One of three major label albums recorded between August 1969 and May 1973. During this period, the band's lineup shifted almost monthly. "The stooages recorded three major label albums between August 1969 and May 1973 with a line up shifting almost monthly." ← https://www.youtube.com/watch?v=OxctiPr0l-8 ← the-stooges
+**Metallic KO (1974) - Live Bootleg Release** : A cassette recording of a particularly brutal performance at Michigan Palace in 1974, where Iggy Pop demanded a Detroit gang beat him on stage and the audience threw beer bottles. This album, released years later, was formerly a highly respected bootleg and is known for its raw and dangerous quality, with breaking beer bottles audible on the recording. "Years later a cassette recording of that performance would be released on an album called Metallic KO." ← https://www.youtube.com/watch?v=OxctiPr0l-8 ← the-stooges
+**Raw Power (1973) - Third Studio Album (example)** : One of three major label albums recorded between August 1969 and May 1973. During this period, the band's lineup shifted almost monthly. "The stooages recorded three major label albums between August 1969 and May 1973 with a line up shifting almost monthly." ← https://www.youtube.com/watch?v=OxctiPr0l-8 ← the-stooges
+**The Stooges (1969) - Debut Studio Album (example)** : One of three major label albums recorded between August 1969 and May 1973. During this period, the band's lineup shifted almost monthly. "The stooages recorded three major label albums between August 1969 and May 1973 with a line up shifting almost monthly." ← https://www.youtube.com/watch?v=OxctiPr0l-8 ← the-stooges
 
 ## songs
 **1969 (1969)** : A song from The Stooges' 1969 debut record. This track has been widely covered by numerous artists, including the Sex Pistols, Joey Ramone, Sonic Youth, the Sisters of Mercy, Joan Jett, Red Cross, and The Black Keys, solidifying its status as an influential pre-punk anthem. "Tracks on this album have been covered by the Sex Pistols, Joey Ramone, Sonic Youth, the Sisters of Mercy, Joan Jett, Red Cross, and the Black Keys." ← https://www.youtube.com/watch?v=w-rihv544I8
@@ -97,4 +120,22 @@
 **Ron Ashton's Estrangement and Side Projects** : After the initial breakup of The Stooges, Ron Ashton was estranged from the group due to the "death trip" drug use. He later played in several bands that didn't achieve significant success, though one group featured Thurston Moore of Sonic Youth, Mark Arm of Mudhoney, and J Mascis of Dinosaur Jr. He also pursued acting, appearing in the original *Texas Chainsaw Massacre* (1974). "Ron Ashton played in a series of bands, none of which did much, although there was the group that featured Thurston Moore of Sonic Youth, also Mark Arm of Mudhoney and Jay Mascus of Dinosaur Jr." ← https://www.youtube.com/watch?v=w-rihv544I8
 **Steve McCay's Post-Stooges Work** : Saxophonist Steve McCay, who performed on the *Fun House* album, continued his career working with a variety of avant-garde performers. "Steve McCay, he was the saxophoneist who turned on the funhouse album, while he worked with a series of on-guard performers." ← https://www.youtube.com/watch?v=w-rihv544I8
 **The Complete Fun House Session Box Set** : A deluxe release titled "The Complete Funhouse Session" offers a comprehensive look into the recording process of the *Fun House* album. Priced at $100, it includes all recordings made during the album's production, including conversations between takes. "The complete funhouse session. A hundred bucks, and you get to hear everything that went on during the recording of that album, including all the talking between takes." ← https://www.youtube.com/watch?v=w-rihv544I8
+**Acknowledged by Sex Pistols** : Fans, including members of the Sex Pistols, later acknowledged that Iggy Pop was indeed the "Godfather of Punk," recognizing The Stooges' foundational role in the genre. "Fans like the Sex Festels would later acknowledge that Iggy was, yes, the godfather of punk." ← https://www.youtube.com/watch?v=OxctiPr0l-8 ← the-stooges
+**Appearance on Iggy Pop's "Skull Ring" (Pre-Reunion)** : At the suggestion of Iggy Pop's record company, Ron and Scott Ashton appeared on four songs of Iggy's solo album "Skull Ring." While not a full Stooges reunion, this collaboration served as a significant step towards their eventual reformation. "Ron and Scott appeared on four songs in a record that was eventually released under the title Skull Ring. That wasn't an actual Stooges reunion. These guys were just hired to play on Iggy's record, but it was close." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← the-stooges
+**Band Breakup (1974)** : The band broke up in 1974. This event directly contributed to Iggy Pop's subsequent decline into a severe state of drug addiction and homelessness. "In 1974, his band, the stooge's head, broken up and Iggy was reduced to a babbling, wandering junkie prone to blockouts." ← Ongoing History of New Music > Alt Rocks Craziest People | https://www.youtube.com/watch?v=CgReNKciFJo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← the-stooges
+**Band Disintegration** : The Stooges "finally blew apart," leading to Iggy Pop's severe mental health crisis and eventual hospitalization, described as a "babbling, strung out freak prone to blockouts and random acts of violence." "When the Stooages finally blew apart, Iggy had nowhere to go but a psychiatric hospital in Los Angeles." ← https://www.youtube.com/watch?v=OxctiPr0l-8 ← the-stooges
+**Blueprint for Punk** : The Stooges' three studio albums and the famous live bootleg "Metallic KO" served as crucial blueprints for the punk music that emerged in the 1970s and 80s. Their nihilistic and violent style profoundly influenced future bands. "Those three studio albums and that famous bootleg became blueprints for the punk that was to follow in the 1970s and 80s." ← https://www.youtube.com/watch?v=OxctiPr0l-8 ← the-stooges
+**Dave Alexander's Death (1975)** : Original bassist Dave Alexander died in 1975 from pneumonia, which resulted from complications related to an inflamed pancreas, likely caused by excessive alcohol consumption. "And original bassist Dave Alexander died in 1975 of pneumonia, resulting from complications surrounding and inflamed pancreas that probably resulted from way too much alcohol." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← the-stooges
+**Debut Performance (October 31, 1967)** : The band, initially called Iggy and the Psychedelic Stooges, made their debut on October 31, 1967, in Ann Arbor, Michigan. They were characterized by a loud, spontaneous, sloppy, fuzzy, arrogant, violent, angry, and powerful sound. "And on October 31, 1967, Iggy and the psychedelic studios made their debut in Ann Arbor, Michigan." ← https://www.youtube.com/watch?v=OxctiPr0l-8 ← the-stooges
+**Drug Problems and Chaotic Incidents** : The band faced severe drug issues, with Iggy Pop spending time in a mental ward. Other chaotic incidents included a member attempting to drive their 15-foot high truck under a 13-foot high bridge and problems with violent Detroit biker gangs. "Drugs were a big part of their problem. Iggy actually ended up in a mental ward for a while." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← the-stooges
+**Elton John's Attempted Signing and Gorilla Prank (1973)** : Elton John, in a competitive rivalry with David Bowie, attempted to show support for and potentially sign The Stooges to his new record label. This led to a surprise visit where Elton, in a gorilla suit, crashed their stage in October 1973, startling Iggy Pop who was heavily under the influence of Quaaludes. "Elton thought he'd have a little fun with Bowie and his relationship with the Stooges, and in the process, maybe he could sign them to his new record label." ← https://www.youtube.com/watch?v=7kH_AfT3i4k ← the-stooges
+**Extreme Performances** : The Stooges, featuring Iggy Pop, were known for their "extreme things" performed in America, contributing to the outrageous aesthetic that inspired David Bowie's Ziggy Stardust persona. "who was doing all kinds of extreme things in America with his band, The Stooges." ← https://www.youtube.com/watch?v=blDNqVFheAw ← the-stooges
+**Influence on "Punk" Terminology** : Lester Banks, a Detroit rock writer, extensively covered the kind of rock performed by The Stooges and Iggy Pop. His writings helped to shape the early critical understanding of this raw and energetic style of music, which was later associated with the "punk" aesthetic. "Lester Banks began spewing out thousands and thousands of rapturous words on the kind of rock played by the Count Five, Iggy Pop and the Stooges and others of their ilk." ← https://www.youtube.com/watch?v=Z8BTWo66SDI ← the-stooges
+**Name Change to The Stooges** : Shortly after their debut as Iggy and the Psychedelic Stooges, the band's name was shortened to simply "The Stooges," marking the beginning of the legend of Iggy Pop. "The psychedelic studios soon became just the stooages. And here begins the legend of Iggy Pop." ← https://www.youtube.com/watch?v=OxctiPr0l-8 ← the-stooges
+**Pioneers of Punk and Alternative Rock** : Iggy Pop and the Stooges were "absolutely bloody essential" in laying the groundwork for all the punk, alternative, and New Rock music that emerged in subsequent decades, suggesting that the landscape of music would be vastly different without their influence. "Iggy Pop and the Stooges were absolutely bloody essential in setting the stage for all the punk, alternative, and New Rock that was to come in the decades ahead." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← the-stooges
+**Post-Gorilla Incident Demise** : Following the bizarre incident with Elton John in the gorilla suit, the mutual admiration between Elton and The Stooges did not lead to a record deal, and the band spiraled towards a breakup, with Iggy Pop deepening his drug use. "Alas, the mutual admiration didn't amount to anything after that. Iggy and the Stooges spiraled towards a breakup, Iggy got deeper into drugs, and Elton never did sign him or the band to a record contract." ← https://www.youtube.com/watch?v=7kH_AfT3i4k ← the-stooges
+**Reunion Gap - 29 Years, Two Months, 19 Days** : The time between the Stooges' breakup on February 9, 1974, and their reunion at the Coachella Festival on April 27, 2003, totaled 10,670 days, or 29 years, two months, and 19 days, making them the "reunion champions" for the longest hiatus mentioned. "February 9th, 1974 to April 27th, 2003. 10,670 days or 29 years, two months and 19 days from breakup to reunion." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← the-stooges
+**Reunion at Coachella Festival (2003)** : The surviving members of Iggy Pop and the Stooges officially reunited for a performance at the Coachella Festival on April 27, 2003. "And so it came to pass that Iggy Pop and the Stooges, the surviving members, performed at the Coachella Festival on April 27th, 2003." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← the-stooges
+**Ron Ashton's Post-Breakup Career** : After the Stooges disbanded, guitarist Ron Ashton played in several bands alongside his brother Scott and also took on minor acting roles in low-budget films. "Meanwhile, guitarist Ron Ashton played in a couple of bands with his brothers Scott, did a little acting in a couple of low-budget films." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← the-stooges
+**Violent Breakup (1974)** : The Stooges ultimately "exploded" on February 9, 1974, amidst a chaotic "haze of heroin, insanity, and debt." "The Stooges finally exploded on February 9th 1974 in a haze of heroin, insanity, and debt." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← the-stooges
 

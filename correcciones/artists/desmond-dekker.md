@@ -9,3 +9,8 @@
 **First Wave Ska Originator** : Desmond Dekker was an originator of the "first wave" of Ska, a style born in Jamaica in the 1950s. Along with Toots and the Maytals and The Skatalites, these artists comprised the initial pioneers of the genre. "Those originators, Desmond Decker, Tutson the Maytaws, the Scott lights and so on, all from Jamaica comprised that first wave." ← https://www.youtube.com/watch?v=HSvgRyGiOpE
 **Ska Giant and Saxa's Collaborator** : Desmond Dekker is recognized as a "Ska Giant" with whom The English Beat's saxophonist, Saxa, had previously played in his early career. "saxo had played with Scott Giants like Prince Buster and Desmond Decker in the early days, so this guy really knew what he was doing." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 
+## labels
+- Island
+
+## songs
+**The Israelites (1969)** : This song became Ska's first worldwide hit, released on the new label Island, run by Chris Blackwell. "That was SCAT's first worldwide hit, the Israelites from Desmond Decker." ← https://www.youtube.com/watch?v=WX2GlpMNg_8 ← desmond-dekker

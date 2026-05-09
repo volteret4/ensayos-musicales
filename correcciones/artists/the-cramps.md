@@ -3,6 +3,7 @@
 ## members
 - Lux Interior
 - Poison Ivy (Kristi Marlena Wallace)
+- Lux interior (Erick perkaiser)
 
 ## genres
 - Bluesy Garage Rock
@@ -11,6 +12,10 @@
 - Punk
 - Punk Rock (implied influence)
 - Surf (mixed with horror and camp)
+- Garage rock
+- Gothabilly
+- Punk rock
+- Surf music
 
 ## labels
 - CBGB (venue where they played often)
@@ -35,4 +40,11 @@
 **New York City Influence** : From New York City, The Cramps were noted for a sound that shared similarities with the harder, more punk rock-influenced American goth acts of the early 1980s. "The same with the cramps from New York City." ← https://www.youtube.com/watch?v=XaLsZFLrMnI
 **Originators of Psychobilly** : The Cramps, originating from New York, were deeply involved in punk and psychobilly, a distinctive bluesy garage rock genre described as sounding like it belongs in a B-movie horror film. Lux and Ivy are credited with "pretty much invented psychobilly." "Hell, Lux and Ivy pretty much invented psychobilly." ← https://www.youtube.com/watch?v=oLC49nCf0ZM
 **Pioneers of Psychobilly** : The Cramps, emerging from New York City in the late 70s, were a key band in the Psychobilly genre, a form of punk with a gritty, old-time rockabilly feel and a fascination for horror movies. "If you want to get into that music, try the cramps, who came out of New York City in the late 70s." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4
+**Enduring Core (Until 2006)** : While other members of The Cramps changed over time, Lux interior and Poison Ivy remained a constant, together recording and performing until 2006. "Other members of the Cramps came and went, but Lux and Poison Ivy stayed together recording and performing until 2006." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← the-cramps
+**Lux Interior's Death (February 4, 2009)** : Lux interior died suddenly on February 4, 2009, from an aortic dissection, an undiagnosed condition where the body's largest artery ruptures, leading to rapid internal bleeding. He and Poison Ivy had been married for 37 years. "But then on February 4th, 2009, Lux suddenly died after suffering an aortic dissection, an undiagnosed condition where your aorta, the largest artery in your body, bursts, and you bleed out internally in seconds." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← the-cramps
+**Lux Interior's Screaming Role** : Lux interior, the singer for The Cramps, was later hired specifically for his unique ability to scream. His screaming can be heard in Francis Ford Coppola's film version of "Dracula," attributed to Lux rather than actor Gary Oldman. "In fact, singer Lux interior would later be hired for his ability to scream. If you've ever seen Francis Ford Coppola's version of Dracula, that's not Gary Oldham doing the screaming. That's Lux." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← the-cramps
+**Meeting and Formation (Sacramento 1972-1975)** : Erick perkaiser (Lux interior) and Kristi Marlena Wallace (Poison Ivy) met in Sacramento in 1972. They were drawn together by a shared passion for horror movies and record collecting. By 1975, they had formed The Cramps and began performing at venues like CBGB, sharing stages with bands such as The Ramones, Blondie, Talking Heads, and Patti Smith. "They met in Sacramento back in 1972, and were drawn together by their love of horror movies and record collecting. By 1975, they'd formed the Cramps and were playing places like CBGB alongside their hormones and blondie and talking heads and patty smith and so many others." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← the-cramps
+**New York Alternative Scene Presence (1980s)** : The Cramps were a significant, though often underrated, band within the New York alternative scene throughout the 1980s. "The Cramps were an important and, in my view, very underrated part of the New York alternative scene throughout the 1980s." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← the-cramps
+**Poison Ivy's Guitar Influence** : Poison Ivy's distinctive guitar style was considered a crucial influence on various aspects of the punk rock music scene. "Her guitar style was seen as an essential influence on certain areas of the punk rock universe." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← the-cramps
+**Sound and Style** : Their distinctive sound was a fusion of garage rock and surf music, leading to the development of genres known as psychobilly and Gotha Billy. The band members were equally influenced by punk and horror movies. "Their sound combined elements of garage rock and surf music and something that became known as psychobilly and Gotha Billy. The Cramps were equal part punks and horror movie." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← the-cramps
 

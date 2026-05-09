@@ -2,6 +2,7 @@
 
 ## members
 - Jesse Hughes
+- Josh Homme
 
 ## genres
 - Rock
@@ -13,6 +14,7 @@
 ## songs
 **I Love the Devil (Year not specified)** : This song was being performed by Eagles of Death Metal at the Bataclan venue in Paris on November 13, 2015. The band was approximately 45 minutes into their set and had reached the guitar solo when gunmen stormed the venue and opened fire. "Eagles of Death Metal got as far as the guitar solo before the gunman opened fire." ← https://www.youtube.com/watch?v=Pgchw2h87aw
 **Kiss the Devil (Year Not Specified)** : This was the third song Eagles of Death Metal were performing at the Bataclan Theater in Paris on November 13, 2015, when armed terrorists stormed the venue, initiating a mass shooting. "Eagles of Death Metal was into the third song of the night. It was called Kiss the Devil." ← https://www.youtube.com/watch?v=xid8CZf4oYo
+**Steelers Wheel Song (1973)** : A cover of a 1973 song by Steelers Wheel served as the centerpiece of Eagles of Death Metal's debut record, `Peace, Love, and Death Metal`. "And the centerpiece of the whole thing seemed to be this cover of a Steelers' Wheel Song from 1973." ← https://www.youtube.com/watch?v=BvhjsTUIS2o ← eagles-of-death-metal
 
 ## curiosities
 **Attack Progression and Hostage Taking** : The shooting inside the Bataclan lasted at least 10 minutes, followed by the gunmen reloading and resuming random firing, even shooting four survivors they found playing dead. Two gunmen ascended to the balconies, taking approximately 20 hostages, forcing some to act as lookouts, while the third remained downstairs. Police arrived at 10:15 PM and locked down the building. Negotiations over a cell phone for almost an hour focused on France's involvement in Syria. "The shooting lasted for at least 10 minutes before the gunman reloaded and then they started to shoot again at random." ← https://www.youtube.com/watch?v=Pgchw2h87aw
@@ -23,4 +25,9 @@
 **Jesse Hughes' Testimony and Resilience** : Eagles of Death Metal singer Jesse Hughes, alongside other band members and 300 survivors, returned to Paris to testify in the trial following the Bataclan attack. He defiantly stated, "Evil did not win. You can't kill rock and roll," and three months after the shootings, the band returned to Paris to complete the interrupted show. "'Evil did not win,' he said. "'You can't kill rock and roll.'" ← https://www.youtube.com/watch?v=Pgchw2h87aw
 **Music Video Direction by Liam Lynch** : Liam Lynch directed music videos for Eagles of Death Metal. "He went on to direct music videos for... Eagles of Death Metal." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M
 **Return to Paris After Attack (2016)** : Following the horrific Bataclan Massacre, Eagles of Death Metal defiantly returned to Paris on February 16, 2016. The band performed again in the city to finish their interrupted show and to pay tribute to the 90 victims, including their merchandise manager, Nick Alexander, who died in the attack. "On February 16, 2016, the band returned to Paris to finish the show and to pay tribute to those who died, including the group's merch manager, Nick Alexander." ← https://www.youtube.com/watch?v=xid8CZf4oYo
+**Band Name Origin (1998)** : Co-founded in 1998 by Josh Homme and Jesse Hughes, the band's name arose from a night spent listening to the Polish metal band Vader, leading someone to suggest playing "Death Metal, but like the Eagles." An alternative account states Josh Homme coined the phrase after someone in a bar mistakenly referred to Scorpions' "Winds of Change" as "Death Metal." "The name came from a night listening to a Polish metal band called Vader. And someone, no one is sure who, said, we should play Death Metal, but like the Eagles." ← https://www.youtube.com/watch?v=BvhjsTUIS2o ← eagles-of-death-metal
+**Bataclan Attack (November 13, 2015)** : Josh Homme was not present at the Bataclan theater in Paris on November 13, 2015, when terrorists attacked an Eagles of Death Metal concert, resulting in the deaths of 89 people, due to his flexible touring schedule with the band. "That's why he wasn't at the Bataclan theater in Paris when terrorists took over the place on November 13th, 2015 and killed 89 people who were all at an Eagles of Deathmale show." ← https://www.youtube.com/watch?v=BvhjsTUIS2o ← eagles-of-death-metal
+**Josh Homme's Touring Flexibility** : While Josh Homme is officially a full-time member of Eagles of Death Metal, he does not consistently tour with the band, which explains his absence from certain performances. "although Josh is officially a full-time member of that band, he doesn't always tour with him." ← https://www.youtube.com/watch?v=BvhjsTUIS2o ← eagles-of-death-metal
 
+## albums
+**Peace, Love, and Death Metal** : This was the debut record released by Eagles of Death Metal. "they released a record entitled Peace, Love, and Death Metal." ← https://www.youtube.com/watch?v=BvhjsTUIS2o ← eagles-of-death-metal

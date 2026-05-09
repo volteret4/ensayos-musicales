@@ -3,9 +3,12 @@
 ## genres
 - Emo
 - Pop Punk
+- Powerpop (contemporary)
+- Punk Rock
 
 ## concerts
 - Vans Warped Tour (multiple times)
+- Live 8 (Canadian show)
 
 ## curiosities
 **Collaboration with Arnold Lanni** : Arnold Lanni has been a major part of Simple Plan. "There's Arnold Lanai who's been a major part of Arlady Peace in a simple plan." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
@@ -14,4 +17,6 @@
 **Frequent Warped Tour Participant** : Simple Plan has been a consistent presence on the Warped Tour, participating at least 11 times throughout its history. "Simple Plan has participated at least 11 times." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
 **Influenced by Blink-182** : Simple Plan is identified as one of the bands that demonstrates the influence of Blink-182, suggesting that Blink-182's work has had a discernible effect on their music or career trajectory. "Some 41 good Charlotte simple-plan panic at the disco, followed boy, headly, billy talent, you would meet six, paramour, you know, you get the idea." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE
 **Third Wave Emo Chart Success** : Simple Plan was among the bands whose emo records achieved mainstream success during the third wave of emo (early 2000s), with their albums reaching the top 10 on charts. "Emo records from bands like...Simple Plan... all rocketed into the top 10 on the album charts." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
+**Contemporary Powerpop** : Simple Plan is mentioned as a current band that belongs to the Powerpop tradition. Their presence indicates that the genre continues to evolve and inspire new acts, maintaining a musical lineage that stretches back to 1963. "Well we have Jimmy Eat World, OkGo, All American Rejects, Simple Plan, maybe Fallout Boy." ← https://www.youtube.com/watch?v=hstJ8M2laho ← simple-plan
+**Legacy of Mid-90s Punk Revival** : Simple Plan is one of the bands whose existence can be directly attributed to the impact of the mid-1990s punk rock revival. "It's certainly not a stretch to say the groups like Simple Plan... wouldn't have existed had it not been for what happened in the middle 1990s." ← https://www.youtube.com/watch?v=0QtMI00T5jw ← simple-plan
 

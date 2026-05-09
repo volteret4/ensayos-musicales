@@ -1,6 +1,7 @@
 # artist - Matt Bellamy
 
 ## member of
+- Mios
 - Muse
 
 ## instruments

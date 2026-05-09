@@ -22,6 +22,7 @@
 ## artists
 - Al Jourgensen
 - Andrea Hogan (Hügellands Roondance)
+- Björk
 - David Bowie
 - Delirium
 - Devo
@@ -36,5 +37,6 @@
 - Psychic TV
 - Public Image Limited
 - Skinny Puppy
+- The Soft Moon
 - Trent Reznor
 

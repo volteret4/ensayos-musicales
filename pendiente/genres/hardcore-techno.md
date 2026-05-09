@@ -1,0 +1,10 @@
+# genre - Hardcore Techno
+
+## curiosities
+**Decline by Mid-1990s** : By 1994, hardcore techno was in decline, receding into much smaller, niche circles of enthusiasts. This decline coincided with a general shift in techno towards softer, slower, and less aggressive sounds, and the rise of the Big Beat genre. "Hardcore techno was dying and was going into much more minority circles of people who continued to embrace that sound." ← Music Radar Clan > The Prodigy： Electrónica y rabia que hizo historia | https://www.youtube.com/watch?v=WWj6hkbXHGY&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← hardcore-techno
+**Focus on Singles Over Albums** : Nearly all hardcore techno was released and consumed via singles. The Prodigy's debut album, "Experience" (1992), was noted as one of the very few, possibly the only, hardcore techno album of its kind to successfully cross into the mainstream and achieve significant album sales and impact. "Almost all hardcore techno was worked through singles. I think it was almost the first time this album was made as a hardcore techno album and had quite an impact." ← Music Radar Clan > The Prodigy： Electrónica y rabia que hizo historia | https://www.youtube.com/watch?v=WWj6hkbXHGY&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← hardcore-techno
+**Origins and Characteristics in Europe** : Hardcore Techno emerged in Europe as an extreme variant of techno, heavily influenced by a severe drug problem that "wiped out entire generations." People under the influence accelerated already rapid techno (120-140 BPM) to extreme tempos, reaching 170-180 BPM, and sometimes exceeding 200 BPM. This high-speed, intense sound was often considered "unbearable to listen to" by those not altered by drugs. "Europe had a very serious drug problem. Here drugs wiped out entire generations. And one of the effects it had was hardcore techno." ← Music Radar Clan > The Prodigy： Electrónica y rabia que hizo historia | https://www.youtube.com/watch?v=WWj6hkbXHGY&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← hardcore-techno
+
+## artists
+- The Prodigy
+

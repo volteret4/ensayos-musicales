@@ -10,4 +10,7 @@
 ## curiosities
 **Australian Origin (Pre-2005)** : The band emerged from Australia during the mid-2000s rock revival. "From Australia we got jet." ← https://www.youtube.com/watch?v=MK7L0eCpDHc
 **Use of Bo Diddley Beat** : Jet is mentioned as an artist who uses rhythms and beats that are not protected by copyright, specifically implying the use of the "Bo Diddley beat." "That's why you can have bow diddly. And Iggy Pop. And you too. And Jet." ← https://www.youtube.com/watch?v=rfObVld9rIE
+**Early 2000s Revival Band** : Jet was one of the Garage Rock revival bands in the early 2000s. They were noted as being big fans of Iggy Pop and were among the new wave of bands waiting to be discovered during this resurgence. "Back at the beginning of the program, we heard JET, obviously big fans of Iggy Pop." ← Ongoing History of New Music > Alt Rock Revivals Part 4： Garage Rock | https://www.youtube.com/watch?v=UpWz3X33vSY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
+## genres
+- Garage Rock

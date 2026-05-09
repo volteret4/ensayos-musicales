@@ -1,0 +1,6 @@
+# instrument - Scratching
+
+## curiosities
+**Current Importance and Respect** : Despite initial dismissal, the culture of scratching is now considered extremely important and is generally respected within music. Its evolution demonstrates how once-criticized techniques can become fundamental and revered. "hoy en día la cultura de la scratching es importantísima y aparte normalmente respetada." ← Music Radar Clan > EL TRAP SÍ ES MÚSICA. (Aunque a lo mejor no te guste) | https://www.youtube.com/watch?v=6i0O3u5g1rM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← scratching
+**Initial Dismissal as Non-Musical** : In the early 1980s, when scratching first emerged with the concept of the DJ, many "old-fashioned critics" claimed it was not music. They argued that it was simply moving a record from one side to another and "destroying it," reflecting a resistance to new forms of musical expression. "cuando nací a el scratching alternabilismo o el concepto del DJ para ver a un montón de críticos trasnuchados y de gente rancia que nos decía que hacer scratching no era música porque lo único que hacían era mover un disco de un lado a otro y destrozarlo." ← Music Radar Clan > EL TRAP SÍ ES MÚSICA. (Aunque a lo mejor no te guste) | https://www.youtube.com/watch?v=6i0O3u5g1rM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← scratching
+

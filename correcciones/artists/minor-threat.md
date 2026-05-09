@@ -8,6 +8,7 @@
 - Emo (precursor)
 - Hardcore punk
 - Punk
+- Emo
 
 ## labels
 - Dischord
@@ -30,4 +31,5 @@
 **Precursor to Emo** : The band's music is noted for pointing in the direction of what would later become emo as early as the mid-1980s. "Fourth, if you dig back far enough, you'll see that Miner Threat pointed in the direction of what would become emo as early as the mid-1980s." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
 **Predecessor to Embrace** : Ian MacKaye was a member of this hardcore band before he was inspired to leave and form Embrace, a proto-emo group. "Everyone was inspired to leave his hardcore band called Minor Threat to form a proto-emo group called Embrace." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
 **Straight Edge Movement** : Ian MacKaye was a central figure in the straight edge movement, a philosophy promoting a life without alcohol, drugs, or promiscuous sex, which continues as a lifestyle for many today. "And fifth, McKay was a big part of this straight edge movement. No alcohol, no drugs of any kind, no promiscuous sex." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
+**Early Emo Band** : Minor Threat is recognized as one of the early original emo bands, representing the genre's roots in the hardcore punk scene of Washington, D.C., but with a focus on emotional themes. "Early original emo bands included minor threat and rights of spring." ← https://www.youtube.com/watch?v=mAlc-N2wn5s ← minor-threat
 

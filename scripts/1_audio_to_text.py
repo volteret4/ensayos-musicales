@@ -2,9 +2,9 @@ import whisper
 import os
 
 # --- CONFIGURACIÓN DE RUTAS ---
-TRANSCRIPTS_FOLDER = 'transcripts/For the Record - The 70s'
-RESUMENES_FOLDER = 'resumenes/For the Record - The 70s'
-INPUT_FOLDER = "/mnt/NFS/podcasts/For the Record - The 70s"
+TRANSCRIPTS_FOLDER = 'transcripts/Hit Parade Music History and Music Trivia'
+RESUMENES_FOLDER = 'resumenes/Hit Parade Music History and Music Trivia'
+INPUT_FOLDER = "/mnt/NFS/podcasts/Hit Parade Music History and Music Trivia"
 LANGUAGE = "en"
 
 os.makedirs(TRANSCRIPTS_FOLDER, exist_ok=True)

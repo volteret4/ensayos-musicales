@@ -10,4 +10,5 @@
 
 ## curiosities
 **Nuggets Band from Boston** : Formed in 1962, The Standells were a "Nuggets band" known for their classic 60s Garage Rock sound. Their song "Dirty Water" was specifically written about the heavily polluted Charles River in Boston. "The stand-ells were formed in 1962 and recorded this song written about the heavily polluted Charles River in Boston." ← https://www.youtube.com/watch?v=UpWz3X33vSY
+**Mid-60s Garage Band** : The Standells were among the rough, ragged, and raw-sounding bands of the 1960s originating from garages and basements across North America. Their adoption of tough imagery, frequently involving leather jackets, prompted observers to liken their appearance to rebellious figures such as Marlon Brando and James Dean, suggesting they looked like "punks." "There was the count five, the barbarians, the standels, the trogs." ← https://www.youtube.com/watch?v=Z8BTWo66SDI ← the-standells
 

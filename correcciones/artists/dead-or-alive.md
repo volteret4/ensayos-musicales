@@ -2,4 +2,5 @@
 
 ## genres
 - Post-Disco New Wave
+- New Wave
 

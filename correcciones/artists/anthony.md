@@ -2,4 +2,5 @@
 
 ## member of
 - Arkells
+- Red Hot Chili Peppers
 

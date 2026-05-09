@@ -8,6 +8,7 @@
 - Kim Deal
 - Kim Deal (bass player, songwriter)
 - Tanya Donnelly
+- Kelley Deal
 
 ## genres
 - Alt Rock
@@ -35,4 +36,8 @@
 **Knitting Hobby and Online Store** : Kelly Deal is proficient at knitting and operates an online store where she sells unique, handmade scarves. These scarves, which are either knitted or crafted from recycled felt and wool sweaters, are one-of-a-kind, signed by her, and typically retail for around $100 each. "all are one of a kind hand made by her and signed." ← https://www.youtube.com/watch?v=xc85sLj0Cnk
 **Reactivation After Pixies Breakup** : The Breeders were reactivated after The Pixies broke up, leaving Kim Deal free to focus on new songs and return to the studio with her band. "But then the Pixies broke up and Kim was without anything to do, so the breeders were reactivated, some new songs were written, and the band returned to the studio." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
 **Touring with Nirvana** : A year after Kelly Deal started playing guitar, The Breeders embarked on a tour with Nirvana, highlighting their rapid rise in the music scene. "A year later, the breeders were off touring with Nirvana." ← https://www.youtube.com/watch?v=oLC49nCf0ZM
+**Collaboration with Queen of the Stone Age** : Members of The Breeders (inferred from "los buffiders") have participated in Queen of the Stone Age's projects, highlighting the extensive network of collaborators the band has engaged over the years. "los buffiders." ← Music Radar Clan > Queens of The Stone Age  - Villains (información y reseña) | https://www.youtube.com/watch?v=EyxGTW1j85I&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-breeders
+**Indie Alternative Act** : Fronted by sisters Kim and Kelley Deal, The Breeders were a significant indie alternative act in the early part of the decade. "The breeders, fronted by Kim and Kelly Deel, who were a big indie alternative act early in the decade." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← the-breeders
 
+## concerts
+- Lollapalooza 1994

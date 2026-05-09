@@ -20,3 +20,5 @@
 **Influence on Other Musicians** : Agent Orange is noted as being very important to the musical education of musicians like Eddie Vedder and Dave Grohl. "Talk to Eddie Vetter or Dave Grohl, and they'll tell you how some of these bands were really, really important to their musical education." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
 **Pioneers of Surf/Punk Integration** : Formed in Orange County in 1979, Agent Orange was one of the first bands to not just cover surf songs but to deeply incorporate the surf feel into punk rock, influencing skate punk and snowboarders. "Agent Orange was formed in Orange County. I mean, where else? In 1979, and they were one of the first bands of their type, not to just cover surf songs, which they did, but to really incorporate the surf feel with punk rock." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
 
+## lists
+**"Living In Darkness" (1981) — Scaruffi 1980s** : #229, 7.0/10 Scaruffi.

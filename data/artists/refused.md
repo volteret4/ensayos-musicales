@@ -4,5 +4,5 @@
 - Hardcore
 
 ## curiosities
-**Part of Swedish Hardcore Scene** : Refused is highlighted as a band from Sweden's hardcore scene, indicating the genre's international reach beyond North America. "There was Sweden with Mob 47, the refused in a few others." ← https://www.youtube.com/watch?v=0qigzi1j81U
+**Part of Swedish Hardcore Scene** : Refused is highlighted as a band from Sweden's hardcore scene, indicating the genre's international reach beyond North America. "There was Sweden with Mob 47, the refused in a few others." ← https://www.youtube.com/watch?v=0qigzi1j81U ← refused
 

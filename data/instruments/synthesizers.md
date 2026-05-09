@@ -16,11 +16,15 @@
 **Technological Advancements (Early 1980s)** : In the early 1980s, synthesizers became more powerful and more affordable. This, alongside other electronic technologies, facilitated new sounds in the post-punk era and played a crucial role in the development of genres like Dreampop. ← Ongoing History of New Music > Dreampop - A History | https://www.youtube.com/watch?v=kFLMkvJAaUY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Theme Song Composition** : Synthesizers were used by imaging producer Amin Batia in 1993 for the composition of the ongoing history show's theme song. "The theme song is a combo of me doing stuff with my synthesizers, some production library stuff, some sound effects." ← Ongoing History of New Music > OGHONM 1000th Episode： The Q&A From the Live Recording | https://www.youtube.com/watch?v=4xxgPX-aR90&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Trent Reznor's Early Fascination** : Synthesizers were a profound source of inspiration for Trent Reznor from a young age. He found them, along with drum machines from bands like The Human League, OMD, and Depeche Mode, "really cool," to the extent that he once considered a job working for a company that made them. "But the synthesizers and drum machines of the human league and OMD and Depeche mode. Now that was really cool." ← Ongoing History of New Music > Deep Dark Secrets of Nine Inch Nails | https://www.youtube.com/watch?v=M3nUQtja0qc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Usage in Antichrist Superstar** : Synthesizers were utilized in Marilyn Manson's "Antichrist Superstar," contributing to its complex musicality, alongside elements of New Wave and various rock and metal genres. "y desintetizadores." ← Music Radar Clan > Cómo Marilyn Manson revolucionó el mundo con Antichrist Superstar | https://www.youtube.com/watch?v=P0QBVwi9KZQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## artists
+- Björk
 - Blink 182
+- Boards of Canada
 - Brian Eno
 - Depeche Mode
+- Joy Division
 - New Order
 - Nitzer Ebb
 - Trent Reznor

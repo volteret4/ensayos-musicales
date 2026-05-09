@@ -21,3 +21,5 @@
 **Collaboration with Travis Barker** : For her 2021 album, Willow collaborated with Travis Barker of Blink-182 to infuse a pop-punk sound into her music. "she switched things up a bit into a more pop punk vein with help from Travis Barker of Blink 182." ← https://www.youtube.com/watch?v=dY7uB_QQWBc
 **Early Pop Success** : At the age of 10, Willow achieved significant pop success with her single "Whip My Hair," which became a top 15 hit. "At age 10, she released a single called With My Hair, which became a top 15 pop hit." ← https://www.youtube.com/watch?v=dY7uB_QQWBc
 
+## member of
+- Willow

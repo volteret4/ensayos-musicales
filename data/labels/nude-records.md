@@ -1,0 +1,11 @@
+# label - Nude Records
+
+## curiosities
+**Distribution Deal with Sony** : Despite Suede being signed to Nude Records, Sony had a distribution agreement for Suede's material. This arrangement was put in place because Suede's potential sales and global reach were considered too substantial for an independent label like Nude to manage entirely on its own. "Sony tenía un acuerdo de distribución con New Records para el material de Swade." ← Music Radar Clan > SUEDE： Pilares del Brit Pop | https://www.youtube.com/watch?v=sYus7Bx3yVU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← nude-records
+**Founding and Breakthrough (1991/1993)** : Nude Records, an independent label established in 1991, released Suede's debut album in 1993, which became one of the most important records of the 90s in the UK and revolutionized the British recording market. "discográfica independiente llamada New Records, que habían nacido en 1991, en 1993 salía uno de los discos más importantes para los 90 dentro del Reino Unido, que sería el disco de Suite" ← Music Radar Clan > El BRIT POP como negocio discográfico | https://www.youtube.com/watch?v=uIx0P0TssZ0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← nude-records
+**Refusal to be Acquired (1990s)** : Nude Records consistently refused to be acquired by any multinational corporation throughout the 1990s. This independent stance, coupled with Suede's successful launch, significantly accelerated the entire development of the Britpop movement, as major labels were desperate to find new stars. "New Records nunca llegó a acceder Buenav, al final acabo siendo comprada, pero en más refiero durante los 90 New Records no accedió a ser comprada por ninguna multinacional." ← Music Radar Clan > El BRIT POP como negocio discográfico | https://www.youtube.com/watch?v=uIx0P0TssZ0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← nude-records
+**Suede's Core Label** : Nude Records was the independent label that signed Suede. All of Suede's record contracts, rights, and creative freedoms were held with Nude Records until the label eventually closed. "Soy firmos contratos discórafico con New Records, y siempre estuvo con New Records hasta que New Records acabó cerrando." ← Music Radar Clan > SUEDE： Pilares del Brit Pop | https://www.youtube.com/watch?v=sYus7Bx3yVU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← nude-records
+
+## artists
+- Suede
+

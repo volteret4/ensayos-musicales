@@ -1,0 +1,6 @@
+# instrument - Turntable Needle
+
+## curiosities
+**Compatibility Issues for Desktop Turntables** : Many desktop turntables, particularly those that are not designed with technical specifications, often present significant compatibility problems with standard needles. Users may find themselves embarking on a "horrible process" of searching for suitable needles, as these turntables are frequently compatible with only a very limited number of non-standard options. "Puedes acabarte enfrascado un horrible proceso de búsqueda de agujas porque el tocadiscos es sobre mesa que tiene, sencillamente no es compatible con muchas agujas estandar y a veces solo son compatibles con muy pocas agujas." ← Music Radar Clan > Qué tocadiscos comprar | https://www.youtube.com/watch?v=LLjoLK_EV7Q&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← turntable-needle
+**Diamond Needles** : The speaker specifies that both of his "Aquí llama JT 1200" turntables are fitted with diamond needles. This indicates a preference for this type of high-quality needle, especially for the demanding practice of scratching. "Los dos tienen sus agujas de diamante." ← Music Radar Clan > Qué tocadiscos comprar | https://www.youtube.com/watch?v=LLjoLK_EV7Q&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← turntable-needle
+

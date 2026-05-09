@@ -8,9 +8,11 @@
 
 ## instruments
 - Guitar (twangy sound)
+- Gretsch guitar
 
 ## songs
 **Rebel Rouser (1958)** : Released in 1958, this track featured a "super twangy" guitar sound and a significant amount of reverb. While not a surf song itself, it contained many elements that would influence the coming surf music wave and electric guitar playing in general. "This wasn't a surf song, there was a couple of years too early for that, but it had a lot of the elements, including a ton of reverb." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
+**Guitar Twang Track** : A Gretsch guitar is credited with providing a significant "twang" sound to one of Duane Eddy's tracks. "It's a Gretch that gives this track so much twang." ← https://www.youtube.com/watch?v=d9HNqb9gJSU ← duane-eddy
 
 ## curiosities
 **Death Details - April 30, 2024** : Duane Eddy died on April 30th, 2024, at the age of 86. His cause of death was cancer. "On April 30th, Dwayne Eddy died of cancer at age 86." ← https://www.youtube.com/watch?v=HBS24NwhrE8

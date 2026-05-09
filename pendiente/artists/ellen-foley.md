@@ -1,0 +1,6 @@
+# artist - Ellen Foley
+
+## curiosities
+**"Bat Out of Hell" Song Origins** : Ellen Foley, who was on the National Lampoon tour with Meat Loaf, stated that many of the songs that ultimately formed the *Bat Out of Hell* album were conceived and developed during that tour. This suggests a creative environment fostered by their collaborative work on the road. "Ellen Foley, the female singer who duets with Meatloaf in the Song, was also on that National Lampoon tour, and she said that many of the songs that became Bad Out of Hell were born on that tour." ← For the Record - The 70s > Ep. 42 - Rock Operas of the 70s | https://seventies.libsyn.com/ep-42-rock-operas-of-the-70s
+**"Paradise by the Dashboard Light" Recording** : Ellen Foley, who duets with Meat Loaf on "Paradise by the Dashboard Light," specifically requested to sing her parts with Meat Loaf present in the room. This allowed her to sing directly to him, with both artists fully in character: she as the demanding girl and he as the "poor, frightened, horny guy." "Now Foley sang her parts with Meatloaf in the room. She asked for that so that she could sing directly to him. We were both in character. He was that poor, frightened, horny guy." ← For the Record - The 70s > Ep. 42 - Rock Operas of the 70s | https://seventies.libsyn.com/ep-42-rock-operas-of-the-70s
+

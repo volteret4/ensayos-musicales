@@ -2,4 +2,5 @@
 
 ## member of
 - Weezer
+- Tapeworm
 
