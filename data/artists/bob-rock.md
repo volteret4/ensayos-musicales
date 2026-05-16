@@ -19,3 +19,41 @@
 **Production Philosophy for Metallica** : For Metallica's "Black Album," Bob Rock advocated for a streamlined sound, focusing on traditional song structures and melody, and reducing the intensity of riffing, drumming, and thrashing. This approach led to a significant increase in album sales despite initial backlash from purist fans. "Bob made them work with traditional song structures. He made them concentrate more on melody. He got them to pull back on the riffing and the drumming and the thrashing." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
 **Vancouver Music Scene Origins** : Bob Rock emerged from the Vancouver music scene, similar to Bruce Fairbairn. "Bob also came out of the Vancouver music scene." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
 
+
+
+## awards
+**Juno Award for Recording Engineer of the Year (1982)** : Nominated.
+**Juno Award for Recording Engineer of the Year (1982)** : Won.
+**Juno Award for Recording Engineer of the Year (1983) — No Stranger to Danger** : Nominated.
+**Juno Award for Recording Engineer of the Year (1983) — Worlds Away** : Nominated.
+**Juno Award for Songwriter of the Year (1983)** : Nominated.
+**Juno Award for Songwriter of the Year (1983)** : Won.
+**Juno Award for Recording Engineer of the Year (1983) — No Stranger to Danger** : Won.
+**Juno Award for Songwriter of the Year (1987)** : Nominated.
+**Juno Award for Recording Engineer of the Year (1987)** : Nominated.
+**Juno Award for Recording Engineer of the Year (1989)** : Nominated.
+**Jack Richardson Producer of the Year Award (1990) — Dr. Feelgood** : Nominated.
+**Jack Richardson Producer of the Year Award (1990) — Blue Murder** : Nominated.
+**Jack Richardson Producer of the Year Award (1992)** : Nominated.
+**Jack Richardson Producer of the Year Award (1993)** : Nominated.
+**Jack Richardson Producer of the Year Award (1999)** : Nominated.
+**Jack Richardson Producer of the Year Award (2000)** : Nominated.
+**Jack Richardson Producer of the Year Award (2000)** : Won.
+**Jack Richardson Producer of the Year Award (2001)** : Nominated.
+**Jack Richardson Producer of the Year Award (2002)** : Nominated.
+**Jack Richardson Producer of the Year Award (2003)** : Nominated.
+**Jack Richardson Producer of the Year Award (2005) — Some Kind of Monster** : Nominated.
+**Juno Award for Recording Engineer of the Year (2005)** : Nominated.
+**Jack Richardson Producer of the Year Award (2005) — Some Kind of Monster** : Won.
+**Jack Richardson Producer of the Year Award (2007)** : Nominated.
+**Canadian Music Hall of Fame (2007)** : Won.
+**Jack Richardson Producer of the Year Award (2008)** : Nominated.
+**Jack Richardson Producer of the Year Award (2010) — Haven't Met You Yet** : Nominated.
+**Jack Richardson Producer of the Year Award (2010) — Haven't Met You Yet** : Won.
+**Jack Richardson Producer of the Year Award (2012)** : Nominated.
+
+## charts
+**"Airplanes" — Billboard Year-End Hot 100** : #6, 2010.
+**"Nothin' on You" — Billboard Year-End Hot 100** : #11, 2010.
+**"Magic" — Billboard Year-End Hot 100** : #63, 2010.
+**"So Good" — Billboard Year-End Hot 100** : #80, 2012.

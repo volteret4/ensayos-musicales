@@ -9,3 +9,10 @@
 ## curiosities
 **Blue Velvet and Twin Peaks Collaboration** : Angelo Badalamenti collaborated with David Lynch, composing very dreamy songs for Lynch's 1986 film "Blue Velvet" and continuing their partnership for the "Twin Peaks" TV series. This collaboration was initiated after Lynch's attempt to license an existing Dreampop track failed. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 
+
+
+## lists
+**"Soundtrack from Twin Peaks" (1990) — AOTY Must Hear 1990s** : #415, 80 AOTY.
+**"Soundtrack from Twin Peaks" (1990) — Sputnikmusic Best Albums 1990** : #4, 80 AOTY.
+**"Twin Peaks: Fire Walk With Me" (1992) — Sputnikmusic Best Albums 1992** : #5, 4.4 Sputnik.
+**"Twin Peaks: Music From Season 2 And More" (2007) — Sputnikmusic Best Albums 2007** : #99, 4.05 Sputnik.

@@ -18,3 +18,25 @@
 **Bipolar and Schizoaffective Disorder** : Brian Wilson is identified as suffering from bipolar disorder and also touching on schizoaffective disorder. "Brian Wilson of the Beach Boys is bipolar, also touching on something called Skit-so-effective disorder." ← https://www.youtube.com/watch?v=NQgn0_mUh74 ← brian-wilson
 **Unrealized Production of "Seasons in the Sun"** : Brian Wilson of The Beach Boys had specific creative ideas for "Seasons in the Sun," which almost became a Beach Boys single, but the song's original artist, Terry Jackson, did not have the patience to see Wilson's vision through. "that was very close to becoming a Beach Boys single, but Jackson did not have the patience for all the things that Brian Wilson wanted to do with that song." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/
 
+
+
+## awards
+**Kennedy Center Honors** : Won.
+**Grammy Awards** : Won.
+**Grammy Award for Best Contemporary Song (1967) — Good Vibrations** : Nominated.
+**Grammy Award for Best Pop Performance by a Duo or Group with Vocals (1967) — Good Vibrations** : Nominated.
+**Grammy Award for Best Performance by a Vocal Group (1967) — Good Vibrations** : Nominated.
+**Grammy Award for Best Arrangement, Instrumental and Vocals (1967) — Good Vibrations** : Nominated.
+**Golden Raspberry Award for Worst Original Song (1988) — Let's Go to Heaven in My Car** : Nominated.
+**Grammy Award for Best Historical Album (1999) — The Pet Sounds Sessions** : Nominated.
+**Grammy Award for Best Pop Vocal Album (2005) — Smile** : Nominated.
+**MusiCares Person of the Year (2005)** : Won.
+**Grammy Award for Best Rock Instrumental Performance (2005) — The Elements: Fire** : Won.
+**Grammy Award for Best Music Film (2006)** : Nominated.
+**Grammy Award for Best Historical Album (2013) — The Smile Sessions** : Won.
+
+## lists
+**"SMiLE" (2004) — 1001 Albums You Must Hear Before You Die** : #980, 92 AOTY.
+**"SMiLE" (2004) — AOTY Must Hear 2000s** : #287, 92 AOTY.
+**"SMiLE" (2004) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #399, 92 AOTY.
+**"SMiLE" (2004) — Sputnikmusic Best Albums 2004** : #128, 92 AOTY.

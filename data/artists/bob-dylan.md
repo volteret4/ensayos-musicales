@@ -68,3 +68,85 @@
 **Sculpture Hobby** : Bob Dylan dedicates time to sculpting as an artistic pursuit. "Bob Dylan does sculpture." ← https://www.youtube.com/watch?v=CgDCaUxbQDU ← bob-dylan
 **Songwriters Hall of Fame Induction (1982)** : Bob Dylan was inducted into the Songwriters Hall of Fame in 1982, and notably, the only person he would allow to be photographed with him at the event was Dina Shore. When asked why, Dylan stated it was so his mother would finally acknowledge his success. "in 1982 Bob Dylan was inducted into the song writers Hall of Fame and the only person that he would have his photo. Taken with was Dina sure even she was a little bit shocked about that when he was asked why he said so my mother will finally think I'm somebody." ← For the Record - The 70s > Ep. 56 - Talk Shows of the 1970s | https://www.ftr70.com/
 
+
+
+## awards
+**Polar Music Prize** : Won.
+**honorary doctor of the University of St Andrews** : Won.
+**honorary doctorate from Princeton University** : Won.
+**Commandeur des Arts et des Lettres** : Won.
+**Knight of the Legion of Honour** : Won.
+**Grammy Award for Album of the Year (1973)** : Won.
+**Grammy Award for Best Male Rock Vocal Performance (1980)** : Won.
+**Rock and Roll Hall of Fame (1988)** : Won.
+**Grammy Award for Best Rock Performance by a Duo or Group with Vocal (1990)** : Won.
+**Grammy Lifetime Achievement Award (1991)** : Won.
+**Grammy Award for Best Traditional Folk Album (1995)** : Won.
+**Kennedy Center Honors (1997)** : Won.
+**Grammy Award for Album of the Year (1998)** : Won.
+**Grammy Award for Best Male Rock Vocal Performance (1998)** : Won.
+**Grammy Award for Best Contemporary Folk Album (1998)** : Won.
+**Academy Award for Best Original Song (2001) — Things Have Changed** : Won.
+**Grammy Award for Best Contemporary Folk Album (2002)** : Won.
+**Grammy Award for Best Americana Album (2007)** : Won.
+**Princess of Asturias Award for the Arts (2007)** : Won.
+**Grammy Award for Best Solo Rock Vocal Performance (2007)** : Won.
+**Pulitzer Prize Special Citations and Awards (2008)** : Won.
+**National Medal of Arts (2009)** : Won.
+**Terence Donovan Award (2009)** : Won.
+**Presidential Medal of Freedom (2012)** : Won.
+**Nobel Prize in Literature (2016)** : Won.
+
+## charts
+**"Like a Rolling Stone" — Billboard Year-End Hot 100** : #41, 1965.
+**"Rainy Day Women #12 & 35" — Billboard Year-End Hot 100** : #74, 1966.
+**"Lay Lady Lay" — Billboard Year-End Hot 100** : #52, 1969.
+**"Man Gave Names to All the Animals" — Spain Singles Chart** : #1, 1980.
+**"Man Gave Names to All the Animals" — Spain Singles Chart** : #1, 1980.
+
+## lists
+**"The Freewheelin’ Bob Dylan" (1963) — 1001 Albums You Must Hear Before You Die** : #36.
+**"Bringing It All Back Home" (1965) — 1001 Albums You Must Hear Before You Die** : #50, 100 AOTY.
+**"Highway 61 Revisited" (1965) — 1001 Albums You Must Hear Before You Die** : #58, 8.0/10 Scaruffi.
+**"Blonde on Blonde" (1966) — 1001 Albums You Must Hear Before You Die** : #64, 100 AOTY.
+**"Blood on the Tracks" (1975) — 1001 Albums You Must Hear Before You Die** : #340, 100 AOTY.
+**"Time Out of Mind" (1997) — 1001 Albums You Must Hear Before You Die** : #854, 87 AOTY.
+**"The Bootleg Series, Vol. 4: Live 1966: The “Royal Albert Hall” Concert" (1998) — 1001 Albums You Must Hear Before You Die** : #860.
+**"Blonde on Blonde" (1966) — AOTY Must Hear 1960s** : #65, 100 AOTY.
+**"Highway 61 Revisited" (1965) — AOTY Must Hear 1960s** : #75, 8.0/10 Scaruffi.
+**"Bringing It All Back Home" (1965) — AOTY Must Hear 1960s** : #78, 100 AOTY.
+**"The Times They Are A-Changin'" (1964) — AOTY Must Hear 1960s** : #82, 82 AOTY.
+**"The Freewheelin’ Bob Dylan" (1963) — AOTY Must Hear 1960s** : #87.
+**"Desire" (1976) — AOTY Must Hear 1970s** : #89, 7.0/10 Scaruffi.
+**"Blood on the Tracks" (1975) — AOTY Must Hear 1970s** : #108, 100 AOTY.
+**"Time Out of Mind" (1997) — AOTY Must Hear 1990s** : #107, 87 AOTY.
+**"The Bootleg Series Vol. 8: Tell Tale Signs" (2008) — AOTY Must Hear 2000s** : #66, 80 AOTY.
+**"Modern Times" (2006) — AOTY Must Hear 2000s** : #183, 86 AOTY.
+**"Shadows in the Night" (2015) — AOTY Must Hear 2010s** : #533, 81 AOTY.
+**"The Bootleg Series Vol. 11: The Basement Tapes Complete" (2014) — AOTY Must Hear 2010s** : #550, 93 AOTY.
+**"Tempest" (2012) — AOTY Must Hear 2010s** : #741, 84 AOTY.
+**"Shadow Kingdom" (2023) — AOTY Must Hear 2020s** : #322, 82 AOTY.
+**"The Bootleg Series Vol. 17: Fragments - Time Out of Mind Sessions (1996-1997) [Deluxe]" (2023) — AOTY Must Hear 2020s** : #362, 87 AOTY.
+**"Rough and Rowdy Ways" (2020) — AOTY Must Hear 2020s** : #643, 89 AOTY.
+**"Blood on the Tracks" (1975) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #9, 100 AOTY.
+**"Highway 61 Revisited" (1965) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #18, 8.0/10 Scaruffi.
+**"Blonde on Blonde" (1966) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #38, 100 AOTY.
+**"Bringing It All Back Home" (1965) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #181, 100 AOTY.
+**"The Freewheelin’ Bob Dylan" (1963) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #255.
+**"The Basement Tapes" (1975) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #335.
+**"John Wesley Harding" (1967) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #337, 7.0/10 Scaruffi.
+**"“Love and Theft”" (2001) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #411.
+**"Blonde on Blonde" (1966) — Scaruffi 1960s** : #2, 100 AOTY.
+**"Highway 61 Revisited" (1965) — Scaruffi 1960s** : #15, 8.0/10 Scaruffi.
+**"Basement Tapes" (1967) — Scaruffi 1960s** : #89, 7.0/10 Scaruffi.
+**"John Wesley Harding" (1967) — Scaruffi 1960s** : #90, 7.0/10 Scaruffi.
+**"Desire" (1976) — Scaruffi 1970s** : #189, 7.0/10 Scaruffi.
+**"Oh Mercy" (1989) — Scaruffi 1980s** : #282, 7.0/10 Scaruffi.
+**"“Love and Theft”" (2001) — Grammy Award: Album of the Year nominees** : #2002.
+**"Blood on the Tracks" (1975) — Pitchfork: The 100 Best Albums of the 1970s** : #5, 100 AOTY.
+**"Time Out of Mind" (1997) — Pitchfork: The 150 Best Albums of the 1990s** : #68, 87 AOTY.
+**"Blonde on Blonde" (1966) — Pitchfork: The 200 Best Albums of the 1960s** : #6, 100 AOTY.
+**"Highway 61 Revisited" (1965) — Pitchfork: The 200 Best Albums of the 1960s** : #14, 8.0/10 Scaruffi.
+**"Bringing It All Back Home" (1965) — Pitchfork: The 200 Best Albums of the 1960s** : #38, 100 AOTY.
+**"The Freewheelin’ Bob Dylan" (1963) — Pitchfork: The 200 Best Albums of the 1960s** : #55.
+**"Time Out of Mind" (1997) — Sputnikmusic Best Albums 1997** : #121, 87 AOTY.

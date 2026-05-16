@@ -15,3 +15,8 @@
 **Model, Writer, Spiritualist, Musician** : Andrea Hogan, a German-born musician, was a former model who wrote horror movies, supported the Goth scene, and was a poet and pagan spiritualist. She worked under various names, including Hügellands Roondance, exploring genres from ambient and electronic to rock, industrial, and black metal. She was also friends with musicians like Martin Gore of Depeche Mode. "Andrea was a former model who wrote horror movies and supported the Goth scene. She was a poet and pagan spiritualist. She was also a musician who worked under a variety of names and a variety of genres, ranging from ambient and electronic to rock industrial and even black metal." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
 **Victim of Kongsberg Attack** : Andrea Hogan was one of five people killed in a mass killing spree on October 13, 2021, in Kongsberg, Norway. The attacker, Espen Bråthen, a Danish man with a history of mental illness, used a bow and arrow and a knife, beginning his attack in a supermarket and then prowling a residential neighborhood. Andrea was the fifth and final person killed in her home during the 35-minute rampage. "Andrea was one of the dead, the fifth and final person killed. All of them were either mining their own business in public or killed in their homes." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
 
+
+
+## lists
+**"Ritorno" (2020) — Sputnikmusic Best Albums 2020** : #162, 3.8 Sputnik.
+**"Due In Color" (2023) — Sputnikmusic Best Albums 2023** : #155, 3.76 Sputnik.

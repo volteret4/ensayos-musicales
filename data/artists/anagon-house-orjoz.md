@@ -9,3 +9,7 @@
 ## curiosities
 **Personal Style** : The artist is a well-known Swedish singer recognized for her distinctive and personal musical style. "es una cantante sueka que tiene como un estilo muy personal." ← Music Radar Clan > Lanzamientos Marzo 2018 | https://www.youtube.com/watch?v=KoWlht2iA7o&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← anagon-house-orjoz
 
+
+
+## lists
+**"Go" (1976) — Scaruffi 1970s** : #306, 7.0/10 Scaruffi.

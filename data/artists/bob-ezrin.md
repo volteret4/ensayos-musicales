@@ -19,3 +19,15 @@
 **Los Angeles Residency** : Bob Ezrin has been living in Los Angeles for several decades. "Bob Ezerman has been a Los Angeles for decades." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
 **Uncle Said's Influence** : His uncle, named Said, was a significant music fan who reportedly owned the first stereo system in Canada during the 1950s, when stereo technology was very new. Uncle Said also had a record collection boasting over 15,000 albums. "His uncle said was a big music fan. He apparently had the first ever stereo system in Canada." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
 
+
+
+## awards
+**Canadian Music Hall of Fame (2004)** : Won.
+**Jack Richardson Producer of the Year Award (2013)** : Nominated.
+**Canada's Walk of Fame (2013)** : Won.
+
+## charts
+**"Airplanes" — Billboard Year-End Hot 100** : #6, 2010.
+**"Nothin' on You" — Billboard Year-End Hot 100** : #11, 2010.
+**"Magic" — Billboard Year-End Hot 100** : #63, 2010.
+**"So Good" — Billboard Year-End Hot 100** : #80, 2012.

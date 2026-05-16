@@ -34,3 +34,29 @@
 **Influential Visual Image and Body Positivity Advocacy** : Billie Eilish's visual image has been highly influential, as she consciously refuses to adhere to music industry expectations for women to dress provocatively. Her preference for baggy clothes is a deliberate response to counter judgment of women's bodies, and she has been very outspoken against body shaming, which has had a significant impact. "She refuses to play the music industry game where women are supposed to dress sexy. The baggy clothes are a calculated response to people judging women's bodies. She's been very outspoken about body shaming." ← https://www.youtube.com/watch?v=11UsTJQyQds ← billie-eilish
 **Openness About Mental Health and Tourette Syndrome** : Billie Eilish is candid about her mental health issues, including depression, which she has suffered from for years. She is also open about her Tourette syndrome, encouraging other sufferers to speak about it to help reduce the associated stigma. "And she's very open about mental health issues, including depression, something that's doctor for years. And she's open about her Tourette syndrome, urging other sufferers to talk about it and reduce the stigma." ← https://www.youtube.com/watch?v=11UsTJQyQds ← billie-eilish
 
+
+
+## charts
+**"Bad Guy" — Billboard Year-End Hot 100** : #4, 2019.
+**"When the Party's Over" — Billboard Year-End Hot 100** : #67, 2019.
+**"Bury a Friend" — Billboard Year-End Hot 100** : #73, 2019.
+**"Everything I Wanted" — Billboard Year-End Hot 100** : #18, 2020.
+**"Bad Guy" — Billboard Year-End Hot 100** : #46, 2020.
+**"Therefore I Am" — Billboard Year-End Hot 100** : #25, 2021.
+**"Happier Than Ever" — Billboard Year-End Hot 100** : #94, 2021.
+**"What Was I Made For?" — Billboard Year-End Hot 100** : #81, 2023.
+**"Birds of a Feather" — Billboard Year-End Hot 100** : #15, 2024.
+**"What Was I Made For?" — Billboard Year-End Hot 100** : #46, 2024.
+**"Lunch" — Billboard Year-End Hot 100** : #48, 2024.
+**"Wildflower" — Billboard Year-End Hot 100** : #89, 2024.
+**""Everything I Wanted" ‡" — UK Singles Chart** : #10, 2020.
+
+## lists
+**"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" (2019) — AOTY Must Hear 2010s** : #88, 80 AOTY.
+**"HIT ME HARD AND SOFT" (2024) — AOTY Must Hear 2020s** : #217, 86 AOTY.
+**"Guitar Songs" (2022) — AOTY Must Hear 2020s** : #420, 80 AOTY.
+**"Happier Than Ever" (2021) — AOTY Must Hear 2020s** : #536, 83 AOTY.
+**"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" (2019) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #397, 80 AOTY.
+**"Don't Smile at Me" (2017) — Scaruffi 2010s** : #389, 7.0/10 Scaruffi.
+**"Happier Than Ever" (2021) — Grammy Award: Album of the Year nominees** : #2022, 83 AOTY.
+**"HIT ME HARD AND SOFT" (2024) — Grammy Award: Album of the Year nominees** : #2025, 86 AOTY.

@@ -39,3 +39,27 @@
 ## albums
 **Let Go (2002)** : This debut album was a massive success, reaching number one in numerous countries and making Avril Lavigne the youngest female solo performer at 17 years old to have a number one album in the UK. Globally, it sold over 16 million records, with 7 million sales in the US alone. "That record was a monster, hitting number one in a bunch of countries. And it made her the youngest female solo performer to have a number one album in the UK." ← https://www.youtube.com/watch?v=11UsTJQyQds ← avril-lavigne
 **Six Studio Albums (Present)** : Avril Lavigne has released a total of six studio albums, continuing to produce millions-selling records throughout her career in the 2000s and beyond. "She's now up to six studio albums and acts who list her as an influence include Paramore, Fifi Dopson and Sky Sweetenham." ← https://www.youtube.com/watch?v=11UsTJQyQds ← avril-lavigne
+
+
+## awards
+**Premios Oye!** : Won.
+**Grammy Award for Best New Artist (2003)** : Nominated.
+**Juno Fan Choice (2019)** : Won.
+**Juno Fan Choice (2020)** : Won.
+**Member of the Order of Canada (2024)** : Won.
+
+## charts
+**"Complicated" — Billboard Year-End Hot 100** : #11, 2002.
+**"Sk8er Boi" — Billboard Year-End Hot 100** : #96, 2002.
+**"I'm with You" — Billboard Year-End Hot 100** : #18, 2003.
+**"My Happy Ending" — Billboard Year-End Hot 100** : #54, 2004.
+**"Don't Tell Me" — Billboard Year-End Hot 100** : #92, 2004.
+**"Girlfriend" — Billboard Year-End Hot 100** : #12, 2007.
+**"Keep Holding On" — Billboard Year-End Hot 100** : #64, 2007.
+**"What the Hell" — Billboard Year-End Hot 100** : #62, 2011.
+
+## lists
+**"Under My Skin" (2004) — Juno Awards: Album of the Year** : #2005.
+**"The Best Damn Thing" (2007) — Juno Awards: Album of the Year** : #2008.
+**"Goodbye Lullaby" (2011) — Juno Awards: Album of the Year** : #2012.
+**"Love Sux" (2022) — Juno Awards: Album of the Year** : #2023.

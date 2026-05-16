@@ -20,3 +20,10 @@
 **Songs Acquired by Paul McCartney (1973)** : Many of Buddy Holly's songs were part of the Norvat Jack Music company, which Paul McCartney acquired in 1973. Buddy Holly was described as one of McCartney's idols. "Norvat Jack Music, which contained many of the songs by Buddy Holly, one of McCartney's idols." ← https://www.youtube.com/watch?v=Pe40SqDrpZ0
 **Musical Influence on Matthew Good** : Matthew Good listened "a lot of Buddy Holly" while developing his 2004 album `White Light Rock and Roll Review`. This influence contributed to his decision to record the album in a primitive, "live off the floor" style, emulating classic recording techniques. "I had been listening to like a lot of Buddy Holly" ← https://www.youtube.com/watch?v=--g0gugy3ZE ← buddy-holly
 
+
+
+## charts
+**"Peggy Sue" — Billboard Year-End Hot 100** : #50, 1958.
+
+## lists
+**"20 Golden Greats" (1977) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #166.

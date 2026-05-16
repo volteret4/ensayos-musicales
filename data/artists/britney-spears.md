@@ -53,3 +53,83 @@
 **Significant Figure in Music History** : Britney Spears was an extremely important figure in music over the last 30 years, not just herself, but her entire generation of teen pop artists, from a discographic and market perspective. "Britney Spears fue una persona importantísima los últimos 30 años en música." ← Music Radar Clan > Poniendo a Britney Spears en su lugar | https://www.youtube.com/watch?v=ad2agh7IXH8&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← britney-spears
 **Transition to Solo Career** : After leaving Disney Channel, Britney Spears, along with Christina Aguilera and others, attempted to launch solo careers in a market predominantly defined by boy and girl bands. "después de que toda esa generación abandonase el Disney Channel en Estados Unidos, Britney Spears fue una de ellas, no solo y hasta Cristina Guilera varias intentaron lanzar sus carreras en solitario, pero era la generación de las Boys y las Yels Bans." ← Music Radar Clan > Poniendo a Britney Spears en su lugar | https://www.youtube.com/watch?v=ad2agh7IXH8&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← britney-spears
 
+
+
+## awards
+**Blockbuster Entertainment Awards** : Won.
+**Billboard Millennium Award** : Won.
+**The Record of the Year (1999) — ...Baby One More Time** : Nominated.
+**VIVA Comet Awards (1999)** : Won.
+**Teen Choice Award for Choice Music – Single (1999) — ...Baby One More Time** : Won.
+**Smash Hits Poll Winners Party (1999)** : Won.
+**IHeartRadio MMVAs (1999)** : Won.
+**Bravo Otto (1999)** : Won.
+**MTV Europe Music Award for Best Song (1999) — ...Baby One More Time** : Won.
+**TMF Awards (1999)** : Won.
+**Billboard Music Award for Top Female Artist (1999)** : Won.
+**YoungStar Award (1999) — …Baby One More Time** : Won.
+**Rockbjörnen (1999)** : Won.
+**Grammy Award for Best New Artist (2000)** : Nominated.
+**Mnet Asian Music Award for Best International Artist (2000) — Oops!... I Did It Again** : Won.
+**Nickelodeon Kids' Choice Awards (2000)** : Won.
+**American Music Award for Favorite Pop/Rock Song (2000)** : Won.
+**Amadeus Austrian Music Awards (2000)** : Won.
+**Japan Gold Disc Award (2000)** : Won.
+**World Music Awards (2000)** : Won.
+**Danish Music Awards (2000)** : Won.
+**Echo Music Prize (2001)** : Won.
+**Echo Pop Award for the Best International Rock/Pop Female Artist (2001)** : Won.
+**MTV Asia Awards (2002)** : Won.
+**star on Hollywood Walk of Fame (2003)** : Won.
+**Glamour Award (2003)** : Won.
+**Golden Raspberry Award for Worst Actress (2003)** : Won.
+**Grammy Award for Best Dance/Electronic Recording (2004) — Toxic** : Won.
+**Ivor Novello Awards (2004) — Toxic** : Won.
+**NME Awards (2005)** : Won.
+**Gaygalan Awards (2005) — Toxic** : Won.
+**NRJ Music Awards (2007) — Blackout** : Won.
+**MTV Video Music Award for Best Female Video (2008) — Piece of Me** : Won.
+**Bambi Award (2008)** : Won.
+**Los Premios MTV Latinoamérica (2009)** : Won.
+**MTV Australia Awards (2009) — Circus** : Won.
+**MTV Video Music Brazil (2009)** : Won.
+**Shorty Awards (2010)** : Won.
+**O Music Awards (2011)** : Won.
+**People's Choice Awards (2014)** : Won.
+**Webby Award (2014)** : Won.
+**Radio Disney Music Awards (2014) — Ooh La La** : Won.
+**GLAAD Vanguard Award (2018)** : Won.
+**Time 100 (2021)** : Won.
+
+## charts
+**"...Baby One More Time" — Billboard Year-End Hot 100** : #5, 1999.
+**"Sometimes" — Billboard Year-End Hot 100** : #86, 1999.
+**"Oops!... I Did It Again" — Billboard Year-End Hot 100** : #55, 2000.
+**"From the Bottom of My Broken Heart" — Billboard Year-End Hot 100** : #77, 2000.
+**"Toxic" — Billboard Year-End Hot 100** : #48, 2004.
+**"Everytime" — Billboard Year-End Hot 100** : #83, 2004.
+**"Womanizer" — Billboard Year-End Hot 100** : #80, 2008.
+**"Piece of Me" — Billboard Year-End Hot 100** : #83, 2008.
+**"Circus" — Billboard Year-End Hot 100** : #27, 2009.
+**"Womanizer" — Billboard Year-End Hot 100** : #39, 2009.
+**"If U Seek Amy" — Billboard Year-End Hot 100** : #74, 2009.
+**"Till the World Ends" — Billboard Year-End Hot 100** : #27, 2011.
+**"I Wanna Go" — Billboard Year-End Hot 100** : #46, 2011.
+**"Hold It Against Me" — Billboard Year-End Hot 100** : #60, 2011.
+**"...Baby One More Time" — UK Best Selling Singles** : 1999.
+**"...Baby One More Time" — UK Indie Singles Chart** : 1999.
+**"Sometimes" — UK Indie Singles Chart** : 1999.
+**"Born to Make You Happy" — UK Indie Singles Chart** : 2000.
+**"Oops!... I Did It Again" — UK Indie Singles Chart** : 2000.
+**"Lucky" — UK Indie Singles Chart** : 2000.
+**"I'm a Slave 4 U" — UK Indie Singles Chart** : 2001.
+**"Overprotected" — UK Indie Singles Chart** : 2002.
+**"I'm Not a Girl, Not Yet a Woman" — UK Indie Singles Chart** : 2002.
+**"Boys" — UK Indie Singles Chart** : 2002.
+**""Stronger"" — UK Singles Chart** : #2, 2001.
+**""Womanizer" ‡" — UK Singles Chart** : #8, 2009.
+
+## lists
+**"…Baby One More Time" (1999) — 1001 Albums You Must Hear Before You Die** : #895.
+**"Blackout" (2007) — AOTY Must Hear 2000s** : #115, 63 AOTY.
+**"Blackout" (2007) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #441, 63 AOTY.

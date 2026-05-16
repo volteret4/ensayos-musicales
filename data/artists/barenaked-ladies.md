@@ -43,3 +43,25 @@
 
 ## concerts
 - Live 8 (Canadian show)
+
+
+## awards
+**CASBY Award** : Won.
+**MuchMusic Video Award for Peoples Choice: Favourite Canadian Group (1992)** : Won.
+**Juno Award for Group of the Year (1993)** : Nominated.
+**Juno Award for Entertainer of the Year (1993)** : Nominated.
+**MuchMusic Video Award for Peoples Choice: Favourite Canadian Group (1993)** : Won.
+**MuchMusic Video Award for Peoples Choice: Favourite Canadian Group (1995)** : Won.
+**Billboard Music Awards (1998) — One Week** : Won.
+**Juno Award for Group of the Year (1999)** : Won.
+**Juno Award for Pop Album of the Year (1999) — Stunt** : Won.
+**Juno Award for Single of the Year (1999) — One Week** : Won.
+**Juno Award for Group of the Year (2001)** : Won.
+**Juno Award for Pop Album of the Year (2001) — Maroon** : Won.
+**Juno Award for Children's Album of the Year (2009) — Snacktime!** : Won.
+
+## charts
+**"One Week" — Billboard Year-End Hot 100** : #51, 1998.
+
+## lists
+**"Gordon" (1992) — Juno Awards: Album of the Year** : #1993.

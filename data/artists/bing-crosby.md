@@ -17,3 +17,10 @@
 **Pioneer of Magnetic Tape Recording in Radio** : Bing Crosby, a major radio star, was instrumental in popularizing magnetic tape recording in the US. Hating to perform two live shows daily for different time zones, his musical director, Merton Mackenzie, introduced him to Jack Mullen's German Magnetophone machines in 1947. Impressed by the sound quality, Crosby invested $50,000 (over half a million today) in Ampex, a recording technology company, and hired Mullen as his chief engineer. This allowed him to pre-record his shows, freeing him to pursue other activities like golfing, and ultimately set the standard for audio and video recording on tape. "This technology meant that he could record his East Coast performance, leave the studio, and then hit the links and let the technicians with their tape machines take care of the West Coast feed." ← https://www.youtube.com/watch?v=NAroxFbYkRw
 **Transition from Big Band Singer to Solo Star (1942)** : Bing Crosby, a former employee singer in a big band, became a major solo radio star due to a loophole in the American Federation of Musicians strike of 1942. As singers were not considered "musicians" by the union, they were exempt from the strike and free to launch independent careers, a new phenomenon at the time. "Bing Crosby had once been a big band employee, but was set free as a result of the musician strike in 1942." ← https://www.youtube.com/watch?v=V7WjNR1ujhk
 
+
+
+## charts
+**"True Love" — Billboard Year-End Hot 100** : #44, 1956.
+**"Isle of Innisfree" — UK Singles Chart** : #11, 1952.
+**""Isle of Innisfree" ‡" — UK Singles Chart** : #11, 1953.
+**"True Love" — UK Singles Chart** : #19, 1957.

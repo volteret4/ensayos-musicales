@@ -91,3 +91,10 @@
 **In A Flat Field (1980) - Debut Album** : Released in the fall of 1980, this record established the stylistic groundwork for the emerging British Goth movement. "A record that set the pace for the British Goth movement." ← https://www.youtube.com/watch?v=A89ipsMeMAg ← bauhaus
 **The Skies Gone Out (Year not specified) - Career Bestseller** : This, their third record, became the biggest seller of their career. Its success was significantly aided by Peter Murphy's appearance in Maxell commercials, the band's role in David Bowie's film "The Hunger," and Bowie's appreciation for their cover of his song "Ziggy Stardust." "The Skies Gone Out, the biggest seller of their career." ← https://www.youtube.com/watch?v=seLx5Ud4v7Y ← bauhaus
 **The Sky's Gone Out (Year unspecified) - Biggest Seller** : This album became the biggest seller of Bauhaus's career, largely due to a combination of factors including David Bowie's fandom, the band's appearance in his movie "The Hunger," Peter Murphy's role in Maxell commercials, and their cover of David Bowie's "Ziggy Stardust." "The Sky's Gone Out, the biggest seller of their career." ← https://www.youtube.com/watch?v=A89ipsMeMAg ← bauhaus
+
+
+## lists
+**"Mask" (1981) — 1001 Albums You Must Hear Before You Die** : #489, 7.0/10 Scaruffi.
+**"In the Flat Field" (1980) — AOTY Must Hear 1980s** : #177, 83 AOTY.
+**"Mask" (1981) — Scaruffi 1980s** : #257, 7.0/10 Scaruffi.
+**"The Bela Session" (2018) — Sputnikmusic Best Albums 2018** : #4, 4.17 Sputnik.

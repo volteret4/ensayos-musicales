@@ -5,3 +5,7 @@
 **Public Discussions of Tourette** : Billy Eilish has candidly spoken about her Tourette Syndrome on camera with both David Letterman and Ellen DeGeneres, though she doesn't discuss it often. She describes the condition as exhausting but a part of her life, and she is willing to talk about it if it helps others facing similar challenges. "Billy doesn't talk about her Tourette that often, but when she does, she's very candid." ← https://www.youtube.com/watch?v=u5NLt6mkmrk ← billy-eilish
 **Tourette Syndrome Diagnosis** : Billy Eilish has been very open about living with Tourette Syndrome, a neurological condition that causes involuntary tics or movements. Her symptoms began at a very young age, including blinking and rapid jaw clicks, making it seem like her teeth were chattering. She received a formal diagnosis when she was 11. "This is a neurological condition that results in involuntary ticks or movements." ← https://www.youtube.com/watch?v=u5NLt6mkmrk ← billy-eilish
 
+
+
+## lists
+**"The Texas-Jerusalem Crossroads" (2001) — AOTY Must Hear 2000s** : #457, 69 AOTY.

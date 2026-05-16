@@ -6,3 +6,8 @@
 **Initial Claim to "Bitter Sweet Symphony" Rights** : Allen Klein initiated a lawsuit against The Verve for their use of the "The Last Time" sample in "Bitter Sweet Symphony." Leveraging his ownership of The Rolling Stones' pre-1970 catalog, he successfully argued for a share of the new song's rights, initially securing 50% based on the understanding that The Verve had exceeded the granted usage. His legal action succeeded over Andrew Loog Oldham's similar claim due to Klein's established ownership of the Rolling Stones' rights. "el que consiguió reclamar del 50% de los derechos evitarse sin poner al entender que había abusado de los derechos que harían permitido." ← Music Radar Clan > Bitter Sweet Symphony： Quien fue su verdadero compositor？ | https://www.youtube.com/watch?v=CsBQFChCsuM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← allen-klein
 **Lawsuit Against Andrew Loog Oldham** : Prior to his involvement with The Verve, Allen Klein successfully sued Andrew Loog Oldham over the rights to the instrumental versions of The Rolling Stones' songs that Oldham had created in the late 1960s. This legal victory transferred the ownership of these instrumental rights, including the specific five notes, to Klein. "Alinclain ya en su día habían mandado a Alinclain por los derechos de estas versiones instrumentales que había hecho a finales de los 60 y por el cual había acabado perdiendo todos los derechos que tenía suelas canciones." ← Music Radar Clan > Bitter Sweet Symphony： Quien fue su verdadero compositor？ | https://www.youtube.com/watch?v=CsBQFChCsuM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← allen-klein
 
+
+
+## charts
+**"Steal My Sunshine" — Billboard Year-End Hot 100** : #78, 1999.
+**""Steal My Sunshine" ‡" — UK Singles Chart** : #3, 2000.

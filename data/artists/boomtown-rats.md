@@ -5,3 +5,8 @@
 
 ## songs
 **I Don't Like Mondays** : This song was recorded at Trident Studios. "It's here that the Boombtown Raths recorded I don't like Mondays." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← boomtown-rats
+
+
+## charts
+**"461" — NME Chart** : 8 semanas.
+**"479" — NME Chart** : 8 semanas.

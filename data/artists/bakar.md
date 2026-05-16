@@ -19,3 +19,11 @@
 **Genre-Blurring Approach** : Bakar's musical style intentionally blurs the lines between rap, indie rock, rock, and various other genres, an approach compared to Bloc Party. "Since then, his whole thing has been to blur the lines between rap, indie rock, rock, and any number of other genres. In some senses, he's doing a lot of the same sort of thing as Block Party." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 **Yemeni and Tanzanian Heritage** : Bakar's parents are of Yemeni and Tanzanian descent, and he grew up in Camden, North London. "Mom and Dad were Yemeni and Tanzanian, but he grew up in Camden in North London." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 
+
+
+## lists
+**"Honor Killed the Samurai" (2016) — AOTY Must Hear 2010s** : #393, 82 AOTY.
+**"The Night's Gambit" (2013) — AOTY Must Hear 2010s** : #675, 82 AOTY.
+**"The Thief Next to Jesus" (2024) — AOTY Must Hear 2020s** : #187, 84 AOTY.
+**"Grief Pedigree" (2012) — Scaruffi 2010s** : #222, 7.0/10 Scaruffi.
+**"A Martyr's Reward" (2021) — Sputnikmusic Best Albums 2021** : #184, 3.77 Sputnik.

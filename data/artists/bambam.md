@@ -43,3 +43,7 @@
 **Tina Bell's Departure and Tragic Death** : Tina Bell left BamBam in 1990 and quit music entirely, falling on hard times by the 2010s, struggling with depression and alcohol. She tragically died of cirrhosis of the liver in an empty Las Vegas apartment in 2012, with her body not found for a couple of weeks. "Tina left BamBam in 1990 and was not replaced. They continued as an instrumental band. Tina quit music entirely. By the 2010, she'd fallen on hard times, often finding it hard to find a decent place to live. She volunteered at a local church, but still struggled with depression, which she sought to treat with alcohol. She ended up dying of cirrhosis of the liver in an empty Las Vegas apartment in 2012." ← https://www.youtube.com/watch?v=Cy5SCQV0HAY ← bambam
 **Tina Bell's Experience with Racial Abuse** : Tina Bell, a barely five-foot-black woman fronting a heavy rock band, endured a "sickening" amount of racial abuse, highlighting the significant challenges and prejudices she faced as a pioneer in the music scene. "Tina had an especially rough time. She was a barely five-foot-block woman, fronting a heavy rock band, and the amount of racial abuse she endured was sickening." ← https://www.youtube.com/watch?v=Cy5SCQV0HAY ← bambam
 
+
+
+## charts
+**"473" — NME Chart** : 16 semanas.

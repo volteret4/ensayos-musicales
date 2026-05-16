@@ -22,3 +22,7 @@
 **Olympia-based Pioneer** : Bratmobile, a three-woman band from Olympia, was an early pioneer in the Riot Grrrl scene. The group emerged from the "widely read feminist zine scene," specifically influenced by a zine called "Girl Germs." "Another early pioneer in this scene we just talked about was Bratmobile. Again they were from Olympia, three women, and again this is a band that grew out of the widely red feminist scene." ← https://www.youtube.com/watch?v=Qss5kC2FUx0
 **Riot Grrrl Band** : Bratmobile is mentioned as one of the bands within the Riot Grrrl movement. "And then there were bands like Sugar Baby Doll and the Pagan Babies and Brat Mobio and Heaven's De Betsy and Huggy Bear." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← bratmobile
 
+
+
+## lists
+**"Pottymouth" (1993) — Pitchfork: The 150 Best Albums of the 1990s** : #149.

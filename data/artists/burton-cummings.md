@@ -6,3 +6,12 @@
 ## member of
 - The Devarons
 - The Guess Who
+
+
+## charts
+**"Stand Tall" — Billboard Year-End Hot 100** : #63, 1977.
+
+## lists
+**"Burton Cummings" (1976) — Juno Awards: Album of the Year** : #1977.
+**"My Own Way to Rock" (1977) — Juno Awards: Album of the Year** : #1978.
+**"Woman Love" (1980) — Juno Awards: Album of the Year** : #1981.

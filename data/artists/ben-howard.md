@@ -9,3 +9,11 @@
 
 ## albums
 **Noonday Dream (June 1st) - Singer-songwriter Album** : This album, referred to in the transcript as "Nonday Dream," is from Ben Howard, an artist described as a "singer with a guitar" who has achieved considerable success in the United Kingdom over several years. His style might appeal to those who enjoy artists comparable to Bon Iver (referred to as Curnivar net in the transcript), but in an English, male version. "es el típico chico un tanto cantador con la guitarra." ← Music Radar Clan > LANZAMIENTOS JUNIO 2018 | https://www.youtube.com/watch?v=AvdFC5Q0nKk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← ben-howard
+
+
+## lists
+**"These Waters" (2009) — Sputnikmusic Best Albums 2009** : #51, 4.1 Sputnik.
+**"Burgh Island" (2012) — Sputnikmusic Best Albums 2012** : #75, 4.02 Sputnik.
+**"I Forget Where We Were" (2014) — Sputnikmusic Best Albums 2014** : #28, 4.1 Sputnik.
+**"Noonday Dream" (2018) — Sputnikmusic Best Albums 2018** : #90, 3.91 Sputnik.
+**"Another Friday Night/Hot Heavy Summer" (2018) — Sputnikmusic Best Albums 2018** : #177, 3.84 Sputnik.

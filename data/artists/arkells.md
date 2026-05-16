@@ -104,3 +104,14 @@
 **Value of a Professional Producer** : After self-producing "Michigan Left," the band learned that hiring a professional producer is "actually a very helpful thing." They found it challenging as "kids doing something for the first time" to work through all the questions and decisions involved in making a record. They view a producer as a "part psychologist," "social worker," and "translator" who can communicate effectively with each musician, ensuring good vibes and progress. "hiring a producer is actually a very helpful thing because I do remember it being tough as a bunch of like kids doing something for the first time." ← https://www.youtube.com/watch?v=kKNn01M8GG4
 **Wedding Song Popularity** : Several acoustic versions of Arkells' songs, including "1111," "My Heart's All Yours," and "And Then Some," have become popular choices for first dances at weddings. The band regularly receives emails and videos from couples using their music for these special occasions, considering it a "very cool" and precious recognition. "Like that 1111 acoustic version has been used at like first dances for weddings, like countless times. Same thing with our acoustic versions of my heart, so it's yours. And, and then some, those three songs like we get in the summertime, like a couple of emails every week with videos from someone's wedding." ← https://www.youtube.com/watch?v=kKNn01M8GG4
 
+
+
+## awards
+**Juno Award for Breakthrough Group of the Year (2010)** : Nominated.
+**Juno Award for Breakthrough Group of the Year (2010)** : Won.
+**Juno Award for Group of the Year (2012)** : Nominated.
+**Juno Award for Rock Album of the Year (2012) — Michigan Left** : Nominated.
+**Juno Award for Group of the Year (2012)** : Won.
+**Juno Award for Songwriter of the Year (2013)** : Nominated.
+**Juno Award for Group of the Year (2015)** : Won.
+**Juno Award for Group of the Year (2019)** : Won.

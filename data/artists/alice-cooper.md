@@ -39,3 +39,27 @@
 **Influence on Gothic Rock (Early 1970s)** : Alice Cooper is credited for his influence on Gothic rock through his "death-obsessed shock rock" of the early 1970s. His theatrical and dark aesthetic paved the way for the morbid and supernatural themes prevalent in Goth music. "We also have to give Alice Cooper credit for his death-obsessed shock rock of the early 1970's." ← https://www.youtube.com/watch?v=mAlc-N2wn5s ← alice-cooper
 **Influence on Sid Vicious's Early Busking** : Sid Vicious and John Lighten (Johnny Rotten) would busk by playing covers of Alice Cooper songs, with the "joke" being that they would play until they were paid to stop. "Sid and John Lighten picked up some spare change busking, usually by playing covers by Alice Cooper." ← https://www.youtube.com/watch?v=LE4YenwmeXM ← alice-cooper
 
+
+
+## awards
+**star on Hollywood Walk of Fame** : Won.
+**Heritage Award** : Won.
+**honorary doctorate** : Won.
+**Rock and Roll Hall of Fame (2011)** : Won.
+
+## charts
+**"School's Out" — Billboard Year-End Hot 100** : #75, 1972.
+**"Only Women Bleed" — Billboard Year-End Hot 100** : #63, 1975.
+**"You and Me" — Billboard Year-End Hot 100** : #48, 1977.
+**"I Never Cry" — Billboard Year-End Hot 100** : #82, 1977.
+**"How You Gonna See Me Now" — Billboard Year-End Hot 100** : #87, 1979.
+**"Poison" — Billboard Year-End Hot 100** : #91, 1989.
+**"330" — NME Chart** : 9 semanas.
+
+## lists
+**"School’s Out" (1972) — 1001 Albums You Must Hear Before You Die** : #264.
+**"Billion Dollar Babies" (1973) — 1001 Albums You Must Hear Before You Die** : #296.
+**"Pretties For You" (1969) — Scaruffi 1960s** : #71, 7.0/10 Scaruffi.
+**"Love It To Death" (1971) — Scaruffi 1970s** : #160, 7.0/10 Scaruffi.
+**"Hey Stoopid" (1991) — Sputnikmusic Best Albums 1991** : #189, 3.8 Sputnik.
+**"Brutal Planet" (2000) — Sputnikmusic Best Albums 2000** : #166, 3.95 Sputnik.

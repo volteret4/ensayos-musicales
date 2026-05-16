@@ -19,3 +19,15 @@
 **Recording "Do They Know It's Christmas?" (November 25, 1984)** : Just two weeks after Bob Geldof saw the BBC documentary on the Ethiopian famine, 25 of Britain's most renowned musicians assembled at Sarm Studios in London's Notting Hill area on November 25, 1984. They gathered to record the charity single "Do They Know It's Christmas?", which marked the official beginning of the Band-Aid project. "On November the 25th, 1984, just two weeks after that BBC broadcast, 25 of Britain's most famous musicians gathered at Sarm studios in the Notting Hill area of London to crank out a song that was now called Do They Know It's Christmas?" ← https://www.youtube.com/watch?v=Somq2MoRi5Q
 **Recruitment of Musicians for Band-Aid** : Bob Geldof initiated the Band-Aid project by reaching out to prominent musicians to create a charity single. His first call was to Midge Ure of Ultravox, followed by Sting of The Police, and Simon Le Bon of Duran Duran. As word spread, other notable artists such as Bono, David Bowie, and Paul Weller of The Jam, enthusiastically joined the effort, forming a supergroup of British talent. "First, he called mid-Jour of the band UltraVox. Sting of the police was called next, and Simon LeBawn of Durand Iran, and as words spread more people jumped on board." ← https://www.youtube.com/watch?v=Somq2MoRi5Q
 
+
+
+## lists
+**"Music From Big Pink" (1968) — 1001 Albums You Must Hear Before You Die** : #127.
+**"The Band" (1969) — 1001 Albums You Must Hear Before You Die** : #155, 96 AOTY.
+**"The Band" (1969) — AOTY Must Hear 1960s** : #11, 96 AOTY.
+**"Music From Big Pink" (1968) — AOTY Must Hear 1960s** : #38.
+**"The Band" (1969) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #57, 96 AOTY.
+**"Music From Big Pink" (1968) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #100.
+**"II" (1969) — Scaruffi 1960s** : #14, 8.0/10 Scaruffi.
+**"Music From Big Pink" (1968) — Scaruffi 1960s** : #75.
+**"The Band" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #81, 96 AOTY.

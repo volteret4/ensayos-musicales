@@ -30,3 +30,27 @@
 ## songs
 **Finest Lovin' Man (1971)** : Written and performed by Bonnie Raitt on her self-titled debut album, released in November 1971. Bonnie was 21 years old when she recorded this song. "Here is a finest 11 man written and performed by Rock and Roll Hall of Fame, or Bonnie Raight, on her self-titled debut album, released in November 1971." ← For the Record - The 70s > Ep. 7 - Women Who Rocked the 70s | http://www.ftr70.com
 **Runaway (1977)** : A cover of Del Shannon's song, this was Bonnie Raitt's first real radio play in 1977. "Bonnie did not get any real radio play at all until she did a cover of Del Shannon's Runaway in 1977." ← For the Record - The 70s > Ep. 7 - Women Who Rocked the 70s | http://www.ftr70.com
+
+
+## awards
+**honorary doctor of the Berklee College of Music** : Won.
+**Maple Blues Awards** : Won.
+**star on Hollywood Walk of Fame** : Won.
+**MusiCares Person of the Year (1992)** : Won.
+**Rock and Roll Hall of Fame (2000)** : Won.
+**Grammy Award for Song of the Year (2003) — Just Like That** : Won.
+**Americana Lifetime Achievement Award for Performance (2012)** : Won.
+**Kennedy Center Honors (2024)** : Won.
+
+## charts
+**"Something to Talk About" — Billboard Year-End Hot 100** : #55, 1991.
+**"I Can't Make You Love Me" — Billboard Year-End Hot 100** : #100, 1992.
+**"Love Sneakin' Up On You" — Billboard Year-End Hot 100** : #94, 1994.
+
+## lists
+**"Nick of Time" (1989) — 1001 Albums You Must Hear Before You Die** : #656.
+**"Dig In Deep" (2016) — AOTY Must Hear 2010s** : #437, 81 AOTY.
+**"Nick of Time" (1989) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #492.
+**"Give It Up" (1972) — Scaruffi 1970s** : #195, 7.0/10 Scaruffi.
+**"Luck of the Draw" (1991) — Grammy Award: Album of the Year nominees** : #1992.
+**"Longing in Their Hearts" (1994) — Grammy Award: Album of the Year nominees** : #1995.

@@ -22,3 +22,7 @@
 **Prolific Motown Session Percussionist** : Bobby Jean Hall is an acclaimed percussionist known for her extensive work on numerous Motown records. Her contributions can be heard on recordings by iconic artists such as The Temptations, Diana Ross and The Supremes, and Smokey Robinson and The Miracles, making her a foundational element of the Motown sound. "Bobby Jean Hall is an all-around percussionist who can be heard on a ton of Motown records, including recordings by the temptations, Diana Rosses and The Spremes, and Smokey Robinson in The Miracles." ← https://www.youtube.com/watch?v=9GHpC0kCgHY
 **Versatile Session Musician** : Beyond Motown, Bobby Jean Hall has an impressive client list that includes a diverse range of legendary artists. Her percussion work has graced albums by Bob Dylan, Lynyrd Skynyrd, Rod Stewart, Janis Joplin, Joni Mitchell, Dolly Parton, The Doobie Brothers, Aretha Franklin, Tracy Chapman, James Taylor, and Stevie Nicks, highlighting her status as a highly sought-after session player. "Other clients have included Bob Dylan, Leonard Skinner, Rod Stewart, Janice Joplin, Joni Mitchell, Dolly Parton, The Dooby Brothers, Aretha Franklin, Tracy Chapman, James Taylor, and Stevie Nicks." ← https://www.youtube.com/watch?v=9GHpC0kCgHY
 
+
+
+## charts
+**"Rich Girl" — Billboard Year-End Hot 100** : #23, 1977.

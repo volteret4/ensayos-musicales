@@ -137,3 +137,10 @@
 **The Rock Show (2001)** : Written by Mark Hoppus in about 10 minutes as a deliberate "F you" to the record label, who were pressuring the band for a commercial hit. Intended as a cheesy, disposable pop punk song, it unexpectedly became the album's first single and a major hit, backfiring on Mark's intention. The song refers to the real-life club Soma in San Diego. "The Rock Show from Blink 182 written in 10 minutes and intended as an F you to the record label, which kind of backfired, but in a good way, I guess." ← Ongoing History of New Music > The Rise and Fall and Rise of Blink 182 Part 2 | https://www.youtube.com/watch?v=_tkLRJiOBu0&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **When You F'd Hitler (Unreleased/Joke Song)** : Another joke song, played for record label executives as an act of rebellion during creative struggles. "One was called F the Dog, and the other one was when you F'd Hitler, which freaked out the label people." ← Ongoing History of New Music > The Rise and Fall and Rise of Blink 182 Part 2 | https://www.youtube.com/watch?v=_tkLRJiOBu0&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **You Don't Know What You've Got (2023)** : This track is a "cancer song" featured on the *One More Time* album, inspired by Mark Hoppus's battle with large B cell lymphoma. "And yes, there was a cancer song. It's called You Don't Know What You've Got." ← Ongoing History of New Music > Catching Up with Blink 182 | https://www.youtube.com/watch?v=EaGUC4av1R4&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+
+
+## charts
+**"All the Small Things" — Billboard Year-End Hot 100** : #40, 2000.
+
+## lists
+**"ONE MORE TIME…" (2023) — Kerrang! The 50 Best Albums of 2023** : #16.

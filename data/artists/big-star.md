@@ -29,3 +29,15 @@
 **Reunion and Alex Chilton's Death** : The band reunited in 1993 and remained active until singer Alex Chilton passed away from a heart attack, marking the end of their second phase. "A cult following built, and in 1993, the group reunited and stayed together until singer Alex Chilton died of a heart attack." ← https://www.youtube.com/watch?v=Cy5SCQV0HAY ← big-star
 **Undiscovered Cult Favorite** : After their breakup due to commercial struggles, Big Star remained an undiscovered cult favorite for approximately two decades. They were later "discovered" by a number of 90s-era alt-rock bands, who recognized that Big Star's sound from 1971 was significantly ahead of its time. "Big Star remained an undiscovered cult favorite for a couple of decades. But then they were discovered by a number of 90s era alt rock bands who realized that whatever Big Star was doing back in 1971, they were way, way ahead of their time." ← https://www.youtube.com/watch?v=hstJ8M2laho ← big-star
 
+
+
+## lists
+**"#1 Record" (1972) — 1001 Albums You Must Hear Before You Die** : #242.
+**"3rd" (1978) — 1001 Albums You Must Hear Before You Die** : #403.
+**"Keep an Eye on the Sky" (2009) — AOTY Must Hear 2000s** : #17, 90 AOTY.
+**"3rd" (1978) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #285.
+**"Radio City" (1974) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #359, 7.0/10 Scaruffi.
+**"#1 Record" (1972) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #474.
+**"Radio City" (1974) — Scaruffi 1970s** : #180, 7.0/10 Scaruffi.
+**"Third" (1978) — Scaruffi 1970s** : #181, 7.0/10 Scaruffi.
+**"3rd" (1978) — Pitchfork: The 100 Best Albums of the 1970s** : #66.

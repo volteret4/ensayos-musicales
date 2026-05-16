@@ -45,3 +45,25 @@
 **Music Has the Right to Children (1996) - Mythical Debut** : This album created a myth within electronic music, released on Skam / Super_IMG. It revolutionized the electronic scene in the United Kingdom because it strongly contrasted with the prevailing IDM sound of the mid-90s, pioneering a completely new sound. The album is imbued with contained emotions behind its instrumental sound, inspired by nature, and features a very nostalgic and romantic quality, sometimes even recalling dream pop. It also notably incorporates real instruments like bass, guitars, and classic drums, a departure from most IDM artists. "ese disco convocionó el electrónicamente al rin unido porque contra esta era muchísimo con lo que teníamos el idm." ← Music Radar Clan > BOARDS OF CANADA. La visión romántica del IDM | https://www.youtube.com/watch?v=llE5K5hjwVg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← boards-of-canada
 **The Campfire Headphase (2005) - Natural & Dream Pop Infused** : This album saw Boards of Canada transition to a sound much closer to that of a band, reminiscent of Spiritualized, incorporating many more instruments. It is less electronic and synthetic, and significantly more natural, making it sometimes sound more like a dream pop band integrated into electronic music rather than an electronic band with dream pop influences. This record is considered a very romantic journey through the evolution of dream pop. "Borsov canada casi se convierte en una banda, en eso recuerda mucho a otra gente como espíritu a la insta, meten muchísimo más instrumento, no están elitrónico, no están sintéticos, es muchísimo más natural." ← Music Radar Clan > BOARDS OF CANADA. La visión romántica del IDM | https://www.youtube.com/watch?v=llE5K5hjwVg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← boards-of-canada
 **Tomorrow's Harvest (2007) - Ambient Culmination** : Identified as their last album to date, this record is almost a culmination of ambient music. It features a very retro and ancient sound, at times recalling instrumental parts by Jean-Michel Jarre or Can, and sometimes appearing almost as a tribute to Brian Eno. It is described as an almost entirely ambient, completely romantic, beautiful, and wonderful album, considered one of the best albums of the 2010s decade. "un disco que es casi un cúlmende de la música ambiental, muy retro, con un sonido muy antiguo, a veces recuerda a esas partes instrumentales ya miseliar, a veces puede recordar a Ken, a veces parece casi un tributo de Brian Eno." ← Music Radar Clan > BOARDS OF CANADA. La visión romántica del IDM | https://www.youtube.com/watch?v=llE5K5hjwVg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← boards-of-canada
+
+
+## lists
+**"Music Has the Right to Children" (1998) — 1001 Albums You Must Hear Before You Die** : #879, 90 AOTY.
+**"Music Has the Right to Children" (1998) — AOTY Must Hear 1990s** : #84, 90 AOTY.
+**"Hi Scores" (1996) — AOTY Must Hear 1990s** : #148, 88 AOTY.
+**"The Campfire Headphase" (2005) — AOTY Must Hear 2000s** : #226, 78 AOTY.
+**"Geogaddi" (2002) — AOTY Must Hear 2000s** : #423, 7.0/10 Scaruffi.
+**"In a Beautiful Place Out in the Country" (2000) — AOTY Must Hear 2000s** : #477, 74 AOTY.
+**"Tomorrow's Harvest" (2013) — AOTY Must Hear 2010s** : #683, 81 AOTY.
+**"Geogaddi" (2002) — Scaruffi 2000s** : #245, 7.0/10 Scaruffi.
+**"Aquarius" — John Peel's Record Box** : #11.
+**"Music Has the Right to Children" (1998) — Pitchfork: The 150 Best Albums of the 1990s** : #26, 90 AOTY.
+**"Music Has the Right to Children" (1998) — Pitchfork: The 50 Best IDM Albums of All Time** : #2, 90 AOTY.
+**"Geogaddi" (2002) — Pitchfork: The 50 Best IDM Albums of All Time** : #5, 7.0/10 Scaruffi.
+**"In a Beautiful Place Out in the Country" (2000) — Pitchfork: The 50 Best IDM Albums of All Time** : #12, 74 AOTY.
+**"In a Beautiful Place Out in the Country" (2000) — Resident Advisor: The Best Electronic Records of 2000-25** : #84, 74 AOTY.
+**"Hi Scores" (1996) — Sputnikmusic Best Albums 1996** : #145, 88 AOTY.
+**"Music Has the Right to Children" (1998) — Sputnikmusic Best Albums 1998** : #14, 90 AOTY.
+**"In a Beautiful Place Out in the Country" (2000) — Sputnikmusic Best Albums 2000** : #59, 74 AOTY.
+**"Geogaddi" (2002) — Sputnikmusic Best Albums 2002** : #6, 7.0/10 Scaruffi.
+**"The Campfire Headphase" (2005) — Sputnikmusic Best Albums 2005** : #191, 78 AOTY.

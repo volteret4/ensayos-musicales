@@ -51,3 +51,27 @@
 **Secret Love Child Daisy Lowe – DNA Confirmed 15 Years Later, Gavin Already Her Godfather** : In the 1980s, Gavin Rossdale had a fling with British fashion designer Pearl Lowe. They broke up, and Pearl later gave birth to a daughter named Daisy. The question of paternity was uncertain, and Gavin was not initially suspected. Gavin was asked to be Daisy's godfather and accepted — meaning he was the godfather of his own biological child. It was not until the autumn of 2004, approximately 15 years after Daisy's birth, that Pearl persuaded Gavin to take a DNA test, which confirmed he was the father. The revelation put strain on his relationship with wife Gwen Stefani, while Pearl's then-boyfriend Danny Goffey of Supergrass also had to be informed. At age 18, Daisy posed nude in the magazine *ID*. "Gavin Rossdale is actually the father of his goddaughter." ← https://www.youtube.com/watch?v=e6S5CTX7kkE
 **The Crow: City of Angels Soundtrack Contribution (1996)** : Bush was featured on the soundtrack for *The Crow: City of Angels*, the 1996 sequel to *The Crow*. This collection was considered "pretty much as good as the first one" and included other prominent bands of the era. "Bush, Corn, Deftones, E-Pop, White Zombie, Filter." ← https://www.youtube.com/watch?v=zIkjd1OjCXM
 
+
+
+## charts
+**"Running Up That Hill" — Billboard Year-End Hot 100** : #23, 2022.
+**"452" — NME Chart** : 8 semanas.
+
+## lists
+**"The Dreaming" (1982) — 1001 Albums You Must Hear Before You Die** : #504, 7.0/10 Scaruffi.
+**"Hounds of Love" (1985) — 1001 Albums You Must Hear Before You Die** : #555, 94 AOTY.
+**"The Sensual World" (1989) — 1001 Albums You Must Hear Before You Die** : #649, 86 AOTY.
+**"Kick Inside" (1978) — AOTY Must Hear 1970s** : #43, 7.0/10 Scaruffi.
+**"The Sensual World" (1989) — AOTY Must Hear 1980s** : #4, 86 AOTY.
+**"Hounds of Love" (1985) — AOTY Must Hear 1980s** : #89, 94 AOTY.
+**"The Dreaming" (1982) — AOTY Must Hear 1980s** : #144, 7.0/10 Scaruffi.
+**"Never for Ever" (1980) — AOTY Must Hear 1980s** : #187, 72 AOTY.
+**"Aerial" (2005) — AOTY Must Hear 2000s** : #222, 83 AOTY.
+**"Before the Dawn" (2016) — AOTY Must Hear 2010s** : #359, 81 AOTY.
+**"50 Words for Snow" (2011) — AOTY Must Hear 2010s** : #808, 86 AOTY.
+**"Hounds of Love" (1985) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #68, 94 AOTY.
+**"Kick Inside" (1978) — Scaruffi 1970s** : #373, 7.0/10 Scaruffi.
+**"The Dreaming" (1982) — Scaruffi 1980s** : #499, 7.0/10 Scaruffi.
+**"Hounds of Love" (1985) — Pitchfork: The 200 Best Albums of the 1980s** : #4, 94 AOTY.
+**"The Sensual World" (1989) — Pitchfork: The 200 Best Albums of the 1980s** : #59, 86 AOTY.
+**"50 Words for Snow" (2011) — Pitchfork: The 200 Best Albums of the 2010s** : #191, 86 AOTY.

@@ -29,3 +29,12 @@
 
 ## concerts
 - Ottawa Canada (August 1976)
+
+
+## charts
+**"Saturday Night" — Billboard Year-End Hot 100** : #64, 1976.
+**"Money Honey" — Billboard Year-End Hot 100** : #92, 1976.
+**"You Made Me Believe in Magic" — Billboard Year-End Hot 100** : #76, 1977.
+**"392" — NME Chart** : 19 semanas.
+**"400" — NME Chart** : 23 semanas.
+**"Bye Bye Baby" — UK Best Selling Singles** : 1975.

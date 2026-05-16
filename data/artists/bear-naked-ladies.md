@@ -10,3 +10,8 @@
 ## songs
 **Pinch Me (Spoof Version)** : A unique promotional stunt for their album "Maroon," this version of the single "Pinch Me" was distributed online. When listeners thought they were illegally downloading the full song, they instead received an audio file where band members Stephen Page and Tyler Stewart announced it was an advertisement for their upcoming album. "And although you thought you were downloading our new single, what you're actually downloading is an advertisement for our new album, Maroon." ← https://www.youtube.com/watch?v=VnXBJqKwkrw
 
+
+
+## lists
+**"Ea Taesse" (2006) — Sputnikmusic Best Albums 2006** : #116, 4.04 Sputnik.
+**"Ea II" (2009) — Sputnikmusic Best Albums 2009** : #12, 4.23 Sputnik.

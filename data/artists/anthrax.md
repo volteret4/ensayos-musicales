@@ -27,3 +27,9 @@
 **Professional Poker Player** : Scott Ian is a highly skilled poker player, engaging in games at a professional level where pots frequently reach six figures. "Sully Urna of God's Mac and Scott Ian of Anthrax both play at a very high level, where the pot reaches high into the six figures." ← https://www.youtube.com/watch?v=xc85sLj0Cnk
 **Thrash Metal Kings** : Anthrax is recognized as one of the "Thrash Metal King's" in the genre. "he joined Thrash Metal King's Anthrax in 1983 as a lead guitarist." ← https://www.youtube.com/watch?v=7jMfH9xAOpI
 
+
+
+## lists
+**"Among the Living" (1987) — 1001 Albums You Must Hear Before You Die** : #584.
+**"Spreading the Disease" (1985) — Scaruffi 1980s** : #242, 7.0/10 Scaruffi.
+**"Persistence Of Time" (1990) — Sputnikmusic Best Albums 1990** : #157, 3.84 Sputnik.

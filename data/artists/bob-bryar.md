@@ -12,3 +12,10 @@
 **Post-Music Career** : After leaving My Chemical Romance, Bryar became a real estate agent and dedicated his time to supporting dog rescue charities. "Now for that, he became a real estate agent and devoted his time to dog rescue charities." ← https://www.youtube.com/watch?v=HBS24NwhrE8
 **Tenure with My Chemical Romance** : Bob Bryar served as the drummer for My Chemical Romance for a significant period, from their second album in 2004 until the band's breakup in 2013. "He stayed with the band all the way until their breakup in 2013." ← https://www.youtube.com/watch?v=HBS24NwhrE8
 
+
+
+## charts
+**"Airplanes" — Billboard Year-End Hot 100** : #6, 2010.
+**"Nothin' on You" — Billboard Year-End Hot 100** : #11, 2010.
+**"Magic" — Billboard Year-End Hot 100** : #63, 2010.
+**"So Good" — Billboard Year-End Hot 100** : #80, 2012.

@@ -9,3 +9,14 @@
 - Jim Messina
 - Richie Furay
 - Rusty Young
+
+
+## awards
+**Rock and Roll Hall of Fame (1997)** : Won.
+
+## charts
+**"For What It's Worth" — Billboard Year-End Hot 100** : #27, 1967.
+
+## lists
+**"Buffalo Springfield Again" (1967) — 1001 Albums You Must Hear Before You Die** : #80.
+**"Buffalo Springfield Again" (1967) — Scaruffi 1960s** : #93.

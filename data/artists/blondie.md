@@ -60,3 +60,28 @@
 **Prominent New Wave Artist** : Blondie was listed among the artists who exemplified the New Wave movement. Their distinctive sound and commercial appeal helped establish the genre during its peak. "And running the crest of New Wave, who artists like the police, Elvis Costello, Blondie, Devo, and The Talking Hits." ← https://www.youtube.com/watch?v=Z8BTWo66SDI ← blondie
 **Publishing Catalog Sale (N/A)** : Blondie is among the artists who have sold their music publishing catalogs as part of a trend since the mid-2010s. "blondie." ← https://www.youtube.com/watch?v=dnQ1pNbIUjw ← blondie
 
+
+
+## awards
+**Rock and Roll Hall of Fame (2006)** : Won.
+
+## charts
+**"Heart of Glass" — Billboard Year-End Hot 100** : #18, 1979.
+**"Call Me" — Billboard Year-End Hot 100** : #1, 1980.
+**"Rapture" — Billboard Year-End Hot 100** : #15, 1981.
+**"The Tide Is High" — Billboard Year-End Hot 100** : #17, 1981.
+**"453" — NME Chart** : 29 semanas.
+**"466" — NME Chart** : 7 semanas.
+**"re" — NME Chart** : 21 semanas.
+**"474" — NME Chart** : 30 semanas.
+**"492" — NME Chart** : 1 semanas.
+**"496" — NME Chart** : 26 semanas.
+**"512" — NME Chart** : 22 semanas.
+**"Heart of Glass" — UK Best Selling Singles** : #8, 1979.
+
+## lists
+**"Parallel Lines" (1978) — 1001 Albums You Must Hear Before You Die** : #395, 93 AOTY.
+**"Parallel Lines" (1978) — AOTY Must Hear 1970s** : #30, 93 AOTY.
+**"Parallel Lines" (1978) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #146, 93 AOTY.
+**"Blondie" (1976) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #401.
+**"Parallel Lines" (1978) — Pitchfork: The 100 Best Albums of the 1970s** : #76, 93 AOTY.

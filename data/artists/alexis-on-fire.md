@@ -69,3 +69,11 @@
 **Watch Out Album Artwork** : The artwork for the "Watch Out" album features two Catholic schoolgirls engaged in a knife fight. This imagery was inspired by a long-standing joke where the band would describe their sound on flyers as "two Catholic schoolgirls in a knife fight." Dallas Green photographed his then-girlfriend and her friend, who were actual Catholic high school students at the time and wore their own school uniforms for the shoot. "So when you make flyers for a show, back in the day you'd always have like the name of the band and then underneath it in parentheses or whatever, we'd have a little description of what the band was. And it was always something like, you know, crushing buffalo metal core or like, you know, whatever." ← https://www.youtube.com/watch?v=nEPT8ZVZ0so
 **Successful Canadian Indy Band** : Alexis On Fire is recognized as one of the best-selling Canadian Indy bands in recent years. They record for the Indy label Distort, which, due to lacking its own comprehensive distribution capabilities, subcontracts all its distribution needs to the major label Universal. This partnership allows them to maintain their independent status while benefiting from broader market reach. "This is how Alexis On Fire managed to become one of the best selling Canadian Indy bands the last few years." ← Ongoing History of New Music > Etymology： Part 1 | https://www.youtube.com/watch?v=Z8BTWo66SDI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
+
+
+## awards
+**CASBY Award** : Nominated.
+
+## lists
+**"Instant" (1995) — Scaruffi 1990s** : #663, 7.0/10 Scaruffi.
+**"Starters Alternators" (1998) — Scaruffi 1990s** : #664, 7.0/10 Scaruffi.

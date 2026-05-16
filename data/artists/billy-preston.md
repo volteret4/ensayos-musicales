@@ -6,3 +6,12 @@
 
 ## songs
 **My Sweet Lord (1970)** : Billy Preston released his version of "My Sweet Lord" backed by the Edwin Hawkins Singers before George Harrison's well-known rendition. Preston's version is described as sounding "a lot more gospel" compared to Harrison's pop-oriented take. "Billy Preston released My Sweet Lord backed up by the Edwin Hawkins singers before Harrison did." ← For the Record - The 70s > Ep. 32 - Take Me to Church - Religion in 70s Popular Music | https://seventies.libsyn.com/ep-32-take-me-to-church-religion-in-70s-popular-music
+
+
+## awards
+**Rock and Roll Hall of Fame (2021)** : Won.
+
+## charts
+**"Outa-Space" — Billboard Year-End Hot 100** : #22, 1972.
+**"Will It Go Round in Circles" — Billboard Year-End Hot 100** : #8, 1973.
+**"Nothing from Nothing" — Billboard Year-End Hot 100** : #37, 1974.

@@ -25,3 +25,7 @@
 **EP Produced by Robin Guthrie (1987)** : In 1987, AR Kane signed with 4AD and released an EP that was produced by Robin Guthrie of the Cocteau Twins, marking a significant collaboration. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 **Tremendous Influence** : Although not widely known, AR Kane, composed of Alex Ayuli and Rudy Tambala, was tremendously influential across several genres, including Dreampop, Trip Hop, and Shoegaze, due to their unique musical approach. ← https://www.youtube.com/watch?v=kFLMkvJAaUY
 
+
+
+## lists
+**"69" (1988) — Scaruffi 1980s** : #223, 7.0/10 Scaruffi.

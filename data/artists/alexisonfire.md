@@ -45,3 +45,12 @@
 **Third Wave Emo Chart Success** : Alexisonfire was among the bands whose emo records achieved mainstream success during the third wave of emo (early 2000s), with their albums reaching the top 10 on charts. "Emo records from bands like...Alexis on Fire... all rocketed into the top 10 on the album charts." ← https://www.youtube.com/watch?v=v_am7ifh7Pk
 **United States Touring – Humbling Contrast to Canadian Success** : Despite major success in Canada, Alexisonfire found US tours consistently ungratifying and difficult, often playing for venue staff after headlining shows for thousands in Canada. This contrast kept the band's egos in check. "In the United States the tours were often 'unrewarding' and difficult, which helped keep any egos in check." ← https://www.youtube.com/watch?v=FvtBph3rNF8
 
+
+
+## awards
+**CASBY Award** : Nominated.
+
+## lists
+**"Alexisonfire" (2002) — AOTY Must Hear 2000s** : #384, 80 AOTY.
+**"Otherness" (2022) — Kerrang! The 50 Best Albums of 2022** : #17.
+**"Watch Out!" (2004) — Sputnikmusic Best Albums 2004** : #134, 4.02 Sputnik.

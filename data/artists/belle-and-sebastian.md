@@ -19,3 +19,21 @@
 
 ## members
 - Stuart Murdoch
+
+
+## lists
+**"Tigermilk" (1996) — 1001 Albums You Must Hear Before You Die** : #814, 81 AOTY.
+**"If You’re Feeling Sinister" (1996) — 1001 Albums You Must Hear Before You Die** : #835.
+**"The Boy with the Arab Strap" (1998) — AOTY Must Hear 1990s** : #64, 84 AOTY.
+**"If You’re Feeling Sinister" (1996) — AOTY Must Hear 1990s** : #150.
+**"Tigermilk" (1996) — AOTY Must Hear 1990s** : #184, 81 AOTY.
+**"If You’re Feeling Sinister" (1996) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #481.
+**"If You’re Feeling Sinister" (1996) — Scaruffi 1990s** : #165.
+**"Tigermilk" (1996) — Scaruffi 1990s** : #454, 81 AOTY.
+**"If You’re Feeling Sinister" (1996) — Pitchfork: The 150 Best Albums of the 1990s** : #25.
+**"If You’re Feeling Sinister" (1996) — Sputnikmusic Best Albums 1996** : #32.
+**"Tigermilk" (1996) — Sputnikmusic Best Albums 1996** : #125, 81 AOTY.
+**"Lazy Line Painter Jane" (1997) — Sputnikmusic Best Albums 1997** : #65, 4.1 Sputnik.
+**"3.. 6.. 9 Seconds Of Light" (1997) — Sputnikmusic Best Albums 1997** : #70, 4.09 Sputnik.
+**"Dog on Wheels" (1997) — Sputnikmusic Best Albums 1997** : #98, 4.05 Sputnik.
+**"This Is Just A Modern Rock Song" (1998) — Sputnikmusic Best Albums 1998** : #153, 3.99 Sputnik.

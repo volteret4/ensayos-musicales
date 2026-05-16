@@ -43,3 +43,20 @@
 **South London Underground Origins** : Burial emerged from the vibrant underground electronic scene of South London, a hub for innovative electronic music starting in the first half of the 90s and continuing into the 2000s, encompassing genres like darkstep, rammamba, 2-step, and UK garage. "Burial nace en la estena del South London de electrónica underground." ← Music Radar Clan > BURIAL. El genio. | https://www.youtube.com/watch?v=LzsYe6KJ3MA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← burial
 **Years of Anonymity** : Burial, an electronic musician from London, released music completely anonymously for many years. "For years this electronic musician from London released music completely anonymously." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← burial
 
+
+
+## awards
+**Shortlist Music Prize (2007) — Untrue** : Nominated.
+
+## lists
+**"Untrue" (2007) — AOTY Must Hear 2000s** : #112, 92 AOTY.
+**"Rival Dealer" (2013) — AOTY Must Hear 2010s** : #632, 80 AOTY.
+**"Kindred" (2012) — AOTY Must Hear 2010s** : #795, 7.5/10 Scaruffi.
+**"Burial" (2006) — Scaruffi 2000s** : #37, 7.5/10 Scaruffi.
+**"Kindred" (2012) — Scaruffi 2010s** : #365, 7.5/10 Scaruffi.
+**"Rival Dealer" (2013) — Pitchfork: The 200 Best Albums of the 2010s** : #83, 80 AOTY.
+**"Untrue" (2007) — Resident Advisor: The Best Electronic Records of 2000-25** : #1, 92 AOTY.
+**"Tunes 2011 to 2019" (2019) — Resident Advisor: The Best Electronic Records of 2000-25** : #64.
+**"Untrue" (2007) — Sputnikmusic Best Albums 2007** : #12, 92 AOTY.
+**"Kindred" (2012) — Sputnikmusic Best Albums 2012** : #12, 7.5/10 Scaruffi.
+**"Truant/Rough Sleeper" (2012) — Sputnikmusic Best Albums 2012** : #116, 3.98 Sputnik.

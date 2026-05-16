@@ -44,3 +44,45 @@
 
 ## labels
 - HBO (for documentary)
+
+
+## awards
+**Golden Globe Award for Best Original Song (1977) — How Deep Is Your Love** : Nominated.
+**Juno Award for Best Selling Single (1979) — Stayin' Alive / If I Can't Have You** : Nominated.
+**star on Hollywood Walk of Fame (1979)** : Won.
+**Rock and Roll Hall of Fame (1997)** : Won.
+**Grammy Lifetime Achievement Award (2000)** : Won.
+**Grammy Legend Award (2003)** : Won.
+
+## charts
+**"I've Gotta Get a Message to You" — Billboard Year-End Hot 100** : #59, 1968.
+**"How Can You Mend a Broken Heart" — Billboard Year-End Hot 100** : #5, 1971.
+**"Lonely Days" — Billboard Year-End Hot 100** : #82, 1971.
+**"Jive Talkin'" — Billboard Year-End Hot 100** : #12, 1975.
+**"You Should Be Dancing" — Billboard Year-End Hot 100** : #31, 1976.
+**"Fanny" — Billboard Year-End Hot 100** : #79, 1976.
+**"Love So Right" — Billboard Year-End Hot 100** : #80, 1977.
+**"Night Fever" — Billboard Year-End Hot 100** : #2, 1978.
+**"Stayin' Alive" — Billboard Year-End Hot 100** : #4, 1978.
+**"How Deep Is Your Love" — Billboard Year-End Hot 100** : #6, 1978.
+**"Too Much Heaven" — Billboard Year-End Hot 100** : #11, 1979.
+**"Tragedy" — Billboard Year-End Hot 100** : #16, 1979.
+**"Love You Inside Out" — Billboard Year-End Hot 100** : #33, 1979.
+**"237" — NME Chart** : 21 semanas.
+**"253" — NME Chart** : 7 semanas.
+**"455" — NME Chart** : 19 semanas.
+**"468" — NME Chart** : 7 semanas.
+**"669" — NME Chart** : 24 semanas.
+**"re" — NME Chart** : 14 semanas.
+**"Stayin' Alive" — Spain Singles Chart** : #1, 1978.
+**"Stayin' Alive" — Spain Singles Chart** : #1, 1978.
+**"Night Fever" — Spain Singles Chart** : #1, 1978.
+**"Too Much Heaven" — Spain Singles Chart** : #1, 1979.
+**"Tragedy" — Spain Singles Chart** : #1, 1979.
+**""How Deep Is Your Love" ‡" — UK Singles Chart** : #10, 1978.
+**""Too Much Heaven" ‡" — UK Singles Chart** : #6, 1979.
+**""For Whom the Bell Tolls" ‡" — UK Singles Chart** : #6, 1994.
+
+## lists
+**"Odessa" (1969) — 1001 Albums You Must Hear Before You Die** : #146.
+**"Trafalgar" (1971) — 1001 Albums You Must Hear Before You Die** : #209.

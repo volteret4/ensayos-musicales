@@ -22,3 +22,33 @@
 **Representative of Bizarre 90s Pop** : The Backstreet Boys were mentioned as an example of the "somewhat bizarre" pop music that was prevalent in the second half of the 90s, alongside other commercial pop acts. "la época de los Files de los Senses, los Backstreet Boys de los Steps de Dios de toda esta música un tanto escatológica." ← Music Radar Clan > Recordar a THE CRANBERRIES | https://www.youtube.com/watch?v=9HTrbETl_Pg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← backstreet-boys
 **Rise of Pop Music (Late 1995)** : By the end of 1995, pop music, including the Backstreet Boys, began to grab attention in North America, pushing alternative rock to the margins. "pop music, you know, the Spice Girls and Inksink and the Backstreet Boys all started to grab the attention in North America." ← https://www.youtube.com/watch?v=ua93Ui1u6UI ← backstreet-boys
 
+
+
+## awards
+**MTV Europe Music Award for Best Song (1997) — As Long as You Love Me** : Won.
+**MTV Video Music Award for Best Group (1998) — Everybody (Backstreet's Back)** : Won.
+**Grammy Award for Best New Artist (1999)** : Nominated.
+**American Music Award for Favorite Pop/Rock Band/Duo/Group (1999)** : Won.
+**Teen Choice Award for Choice Music – Male Artist (1999) — All I Have to Give** : Won.
+**MTV Video Music Award – Viewer's Choice (1999) — I Want It That Way** : Won.
+**American Music Award for Favorite Pop/Rock Band/Duo/Group (2000)** : Won.
+**People's Choice Award for Favorite Band (2000)** : Won.
+**Kids' Choice Award for Favorite Music Group (2000)** : Won.
+**American Music Award for Favorite Pop/Rock Band/Duo/Group (2001)** : Won.
+**star on Hollywood Walk of Fame (2013)** : Won.
+
+## charts
+**"Quit Playing Games" — Billboard Year-End Hot 100** : #11, 1997.
+**"Everybody" — Billboard Year-End Hot 100** : #22, 1998.
+**"Quit Playing Games" — Billboard Year-End Hot 100** : #62, 1998.
+**"I Want It That Way" — Billboard Year-End Hot 100** : #15, 1999.
+**"All I Have to Give" — Billboard Year-End Hot 100** : #25, 1999.
+**"Show Me the Meaning of Being Lonely" — Billboard Year-End Hot 100** : #31, 2000.
+**"Incomplete" — Billboard Year-End Hot 100** : #64, 2005.
+**"I Want It That Way" — UK Indie Singles Chart** : 1999.
+**"Shape of My Heart" — UK Indie Singles Chart** : 2000.
+**"The Call" — UK Indie Singles Chart** : 2001.
+**"Drowning" — UK Indie Singles Chart** : 2002.
+
+## lists
+**"Millennium" (1999) — Grammy Award: Album of the Year nominees** : #2000.

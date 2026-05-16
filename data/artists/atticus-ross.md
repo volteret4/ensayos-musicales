@@ -24,3 +24,17 @@
 **Songwriting Credit for "Old Town Road"** : As Trent Reznor's songwriting partner, Atticus Ross was given songwriting credits for Lil Nas X's "Old Town Road" following a quiet negotiation, sharing in the song's profits and Grammy wins. "Trent and his songwriting partner, Atticus Ross, were given songwriting credits on Old Town Road and thus a share of the profits." ← https://www.youtube.com/watch?v=fS8V3kYXT6w ← atticus-ross
 **Songwriting Credit on "Old Town Road" (2019)** : Atticus Ross received a songwriting credit for Lil Nas X's "Old Town Road" alongside Trent Reznor, Montero Hill (Lil Nas X), and Kioa Rokima (Young Kio). This credit stemmed from the song's use of a sample from Nine Inch Nails' instrumental "34 Ghosts 4," with Ross benefiting from the song's immense global success, including 18 million copies sold and billions of streams. "the songwriting credits for Old Town Road, you'll see that the writers are listed as Montero Hill, Kioa Rokima, the real name of Young Kio, plus Trent Risener and his songwriting partner Atticus Ross." ← https://www.youtube.com/watch?v=YhdsufCUC2w ← atticus-ross
 
+
+
+## charts
+**"Bring Em Out" — Billboard Year-End Hot 100** : #65, 2005.
+**"U Don't Know Me" — Billboard Year-End Hot 100** : #79, 2005.
+**"What You Know" — Billboard Year-End Hot 100** : #47, 2006.
+**"Why You Wanna" — Billboard Year-End Hot 100** : #95, 2006.
+**"Big Shit Poppin'" — Billboard Year-End Hot 100** : #75, 2007.
+**"Whatever You Like" — Billboard Year-End Hot 100** : #15, 2008.
+**"Live Your Life" — Billboard Year-End Hot 100** : #37, 2008.
+**"Dead and Gone" — Billboard Year-End Hot 100** : #12, 2009.
+**"Live Your Life" — Billboard Year-End Hot 100** : #18, 2009.
+**"Whatever You Like" — Billboard Year-End Hot 100** : #40, 2009.
+**"No Mediocre" — Billboard Year-End Hot 100** : #87, 2014.

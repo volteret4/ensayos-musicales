@@ -3,3 +3,7 @@
 ## member of
 - Red Hot Chili Peppers
 
+
+
+## charts
+**"Rich Girl" — Billboard Year-End Hot 100** : #23, 1977.

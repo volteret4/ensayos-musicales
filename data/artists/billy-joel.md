@@ -37,3 +37,44 @@
 **Piano Man (1973)** : Released in November 1973, this song became Billy Joel's signature hit, reaching number 25 on the Billboard Hot 100. In 2013, it was inducted into the Grammy Hall of Fame, and in 2015, the Library of Congress selected it for preservation in the National Recording Registry for its "cultural, historic or artistic significance." The song originated from his experiences performing as a lounge singer under the alias "Bill Martin" in Los Angeles for six months, where he wrote about the diverse characters he met. "Piano Man was released in November 1973. It made it to number 25 on the Billboard Hot 100." ← For the Record - The 70s > Ep. 51 - The Softer Side of 70s Rock | https://seventies.libsyn.com/ep-51-the-softer-side-of-70s-rock
 **Tell Her About It** : He mentioned this song as an example of his lighter, more pop-oriented work, suggesting that if it were a listener's sole exposure to his music, they might not appreciate his full range, including his "hard rock" material. "if I was a listener and all I knew was teller about it it's still rock and roll me an uptown girl I wouldn't like Billy Joel neither I don't have a soft cock I got a hard cock." ← For the Record - The 70s > Ep. 51 - The Softer Side of 70s Rock | https://seventies.libsyn.com/ep-51-the-softer-side-of-70s-rock
 **Uptown Girl** : He referenced this song as one of his more commercially successful, pop-leaning tracks. He argued that if listeners only knew such songs, they might not accurately perceive his broader musical identity, which he insisted included significant "hard rock" elements. "if I was a listener and all I knew was teller about it it's still rock and roll me an uptown girl I wouldn't like Billy Joel neither I don't have a soft cock I got a hard cock." ← For the Record - The 70s > Ep. 51 - The Softer Side of 70s Rock | https://seventies.libsyn.com/ep-51-the-softer-side-of-70s-rock
+
+
+## awards
+**star on Hollywood Walk of Fame** : Won.
+**Kennedy Center Honors** : Won.
+**Grammy Award for Album of the Year (1980) — 52nd Street** : Won.
+**Grammy Legend Award (1991)** : Won.
+**honorary doctor of the Hofstra University (1997)** : Won.
+**Rock and Roll Hall of Fame (1999)** : Won.
+**Johnny Mercer Award (2001)** : Won.
+**MusiCares Person of the Year (2002)** : Won.
+**ASCAP Foundation Champion Award (2005)** : Won.
+**honorary doctor of Syracuse University (2006)** : Won.
+**Gershwin Prize (2014)** : Won.
+**honorary doctor of the State University of New York at Stony Brook (2015)** : Won.
+
+## charts
+**"Just the Way You Are" — Billboard Year-End Hot 100** : #17, 1978.
+**"My Life" — Billboard Year-End Hot 100** : #28, 1979.
+**"It's Still Rock and Roll to Me" — Billboard Year-End Hot 100** : #9, 1980.
+**"You May Be Right" — Billboard Year-End Hot 100** : #75, 1980.
+**"Allentown" — Billboard Year-End Hot 100** : #43, 1983.
+**"Tell Her About It" — Billboard Year-End Hot 100** : #45, 1983.
+**"Uptown Girl" — Billboard Year-End Hot 100** : #39, 1984.
+**"An Innocent Man" — Billboard Year-End Hot 100** : #72, 1984.
+**"The Longest Time" — Billboard Year-End Hot 100** : #89, 1984.
+**"We Didn't Start the Fire" — Billboard Year-End Hot 100** : #35, 1990.
+**"I Go to Extremes" — Billboard Year-End Hot 100** : #82, 1990.
+**"The River of Dreams" — Billboard Year-End Hot 100** : #26, 1993.
+**"586" — NME Chart** : 12 semanas.
+**"Tell Her About It" — UK Singles Chart** : #6, 1984.
+
+## lists
+**"The Stranger" (1977) — 1001 Albums You Must Hear Before You Die** : #369, 87 AOTY.
+**"52nd Street" (1978) — AOTY Must Hear 1970s** : #27, 70 AOTY.
+**"The Stranger" (1977) — AOTY Must Hear 1970s** : #52, 87 AOTY.
+**"The Stranger" (1977) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #169, 87 AOTY.
+**"Glass Houses" (1980) — Grammy Award: Album of the Year nominees** : #1981.
+**"The Nylon Curtain" (1982) — Grammy Award: Album of the Year nominees** : #1983.
+**"An Innocent Man" (1983) — Grammy Award: Album of the Year nominees** : #1984.
+**"River of Dreams" (1993) — Grammy Award: Album of the Year nominees** : #1994.

@@ -19,3 +19,8 @@
 **Transition to Drum Machine Experimentation** : After returning to LA, Beck began experimenting with a newly acquired drum machine, which led to his breakthrough sound. "Beck Hanson returned to LA and started playing with a newly acquired drum machine." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
 **Unique Genre Blending** : His music was noted for defying easy categorization, being "not folk, that's not rap, it's not hip-hop, it's not rock, it's just Beck." "So it's not folk that's not rap, it's not hip-hop, it's not rock, it's just Beck." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
 
+
+
+## charts
+**"MMMBop" — Billboard Year-End Hot 100** : #12, 1997.
+**"I Will Come to You" — Billboard Year-End Hot 100** : #50, 1998.

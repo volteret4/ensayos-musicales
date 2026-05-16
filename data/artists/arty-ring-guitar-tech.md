@@ -3,3 +3,7 @@
 ## member of
 - Anthrax
 
+
+
+## lists
+**"Jackson" (1991) — Sputnikmusic Best Albums 1991** : #168, 3.83 Sputnik.

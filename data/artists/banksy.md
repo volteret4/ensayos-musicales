@@ -18,3 +18,7 @@
 **Think Tank (2003) Album Cover** : The famous cover art for Blur's album Think Tank was created directly by Banksy, not merely inspired by his style, for which he received a significant payment. "la famosa portada del Cintan la hizo Basky pero el Basky me verdad no está inspirado en Basky sino que es Basky quien hizo esta portada y ganó bastante dinero a cien gra." ← Music Radar Clan > Blur - Think Tank y su dificil grabación. | https://www.youtube.com/watch?v=AbfLCN8cTws&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← banksy
 **Think Tank (2003) Cover and Back Cover Artwork Payment** : Banksy was paid a substantial amount for designing both the front and back covers of Blur's Think Tank, which subsequently became an iconic image in music history. "Le pagaron mucha dinero por hacer lo que fue la portada del Cintan y la contraportada del Cintan y la verdad es que la portaba y el diés un icono de la historia de la música." ← Music Radar Clan > Blur - Think Tank y su dificil grabación. | https://www.youtube.com/watch?v=AbfLCN8cTws&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← banksy
 
+
+
+## awards
+**Film Independent Spirit Awards** : Won.

@@ -26,3 +26,24 @@
 
 ## songs
 **Could It Be Magic (1975)** : This song reached number six on the Billboard Hot 100 in 1975. Its opening notes are derived from Chopin's C minor Prelude, Opus 28, number 20. Manilow intentionally structured the song to "build and build until you think you can't take it anymore" by borrowing from the style of The Beatles' "Hey Jude," aiming for it to be a "musical orgasm." "For you classical music buffs, the opening to Could It Be Magic is from Chopin's C minor Prelude, Opus 28, number 20." ← For the Record - The 70s > Ep. 34 - A 70s Pop Manifesto - Finding Meaning in 70s Pop | https://seventies.libsyn.com/ep-34-a-70s-pop-manifesto-finding-meaning-in-70s-pop
+
+
+## awards
+**Primetime Emmy Award** : Won.
+**star on Hollywood Walk of Fame** : Won.
+
+## charts
+**"Mandy" — Billboard Year-End Hot 100** : #36, 1975.
+**"Could It Be Magic" — Billboard Year-End Hot 100** : #38, 1975.
+**"I Write the Songs" — Billboard Year-End Hot 100** : #13, 1976.
+**"Tryin' to Get the Feeling Again" — Billboard Year-End Hot 100** : #95, 1976.
+**"Looks Like We Made It" — Billboard Year-End Hot 100** : #37, 1977.
+**"Weekend in New England" — Billboard Year-End Hot 100** : #65, 1977.
+**"Can't Smile Without You" — Billboard Year-End Hot 100** : #27, 1978.
+**"Copacabana" — Billboard Year-End Hot 100** : #74, 1978.
+**"Somewhere in the Night" — Billboard Year-End Hot 100** : #93, 1979.
+**"Ships" — Billboard Year-End Hot 100** : #98, 1980.
+**"I Made It Through the Rain" — Billboard Year-End Hot 100** : #89, 1981.
+
+## lists
+**"Even Now" (1978) — Grammy Award: Album of the Year nominees** : #1979.

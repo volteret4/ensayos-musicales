@@ -30,3 +30,11 @@
 ## songs
 **Addicted To You (Year Unspecified)** : Described as Avicii's best song, notable for not being electronic but rather a soul track. This demonstrates his eclectic musical range beyond typical EDM. "detecto yo es la mejor canción que tenía a Vichy, que no tiene que ver con la electrónica, me refiero a que haces una canción de sol pero a Vichy hizo cosas interesantes." ← Music Radar Clan > Lo que la muerte de AVICII representa | https://www.youtube.com/watch?v=9W8u_1LE1ys&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← avicii
 **Wake Me Up! (Year Unspecified)** : This song is highlighted for its innovative fusion of dance music with country elements. It featured J-Brother (as transcribed). "Vichy puso la gente a bailar una música de baile mezclada como música gountry, es la canción de J-Brother que bueno cualquiera lo diría." ← Music Radar Clan > Lo que la muerte de AVICII representa | https://www.youtube.com/watch?v=9W8u_1LE1ys&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← avicii
+
+
+## charts
+**"Wake Me Up" — Billboard Year-End Hot 100** : #19, 2013.
+**"Wake Me Up" — Billboard Year-End Hot 100** : #22, 2014.
+**"Hey Brother" — Billboard Year-End Hot 100** : #60, 2014.
+**""Levels" ‡" — UK Singles Chart** : #8, 2012.
+**""Hey Brother" ‡" — UK Singles Chart** : #10, 2014.

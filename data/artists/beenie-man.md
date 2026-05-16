@@ -14,3 +14,7 @@
 **Music Video Work** : Beenie Man is one of the artists for whom Director X has directed music videos. "I've directed videos for Alicia Keys, Puff Daddy, Cisco, Destiny's Child Drake, Justin Bieber, two chains, Rosalie, it is a shampoel, beanie man, Ariana Grande." ← https://www.youtube.com/watch?v=EyagC0T7mR4 ← beenie-man
 **Videos Directed by Tadges Christelot** : Beenie Man is among the artists for whom Tadges Christelot has directed music videos. "I've directed videos for Alicia Keys, Puff Daddy, Cisco, Destiny's Child, Drake, Justin Bieber, Two Chains, Rosalie, Igeez, Shampo, Beanie Man, Ariana Grande." ← https://www.youtube.com/watch?v=mAlc-N2wn5s ← beenie-man
 
+
+
+## charts
+**"Dude" — Billboard Year-End Hot 100** : #85, 2004.

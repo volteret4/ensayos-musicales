@@ -28,3 +28,10 @@
 **Part of 2000s Post-Punk Revival** : Bloc Party emerged as part of the new generation of bands in the 2000s Post-Punk revival, where Joy Division's influence was significant. "Luego en el 2000 tuvimos ese nuevo rival del Post Punk en el que salían, pues, blockparti en el que salían los editoros, en el que salían todas estas bandas de la nueva generación del rival del Post Punk." ← Music Radar Clan > Especial JOY DIVISION： 4. La banda tras el final | https://www.youtube.com/watch?v=r5DddiWrUbA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← bloc-party
 **Part of New Rock Wave** : Bloc Party was one of the many groups that emerged during the new wave of Rock Revival music. "tenemos a Bloque Party, tenemos a muchos grupos que nacieron un poco en torno a esa nueva oleada del Rock." ← Music Radar Clan > Arctic Monkeys： Cómo nació un mito. | https://www.youtube.com/watch?v=t7SqB6i2xzE&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← bloc-party
 
+
+
+## awards
+**Shortlist Music Prize (2005) — Silent Alarm** : Nominated.
+
+## lists
+**"Silent Alarm" (2005) — AOTY Must Hear 2000s** : #271, 79 AOTY.

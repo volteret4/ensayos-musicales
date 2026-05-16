@@ -25,3 +25,103 @@
 
 ## songs
 **You Oughta Know (1995)** : First heard in June 1995 while driving on the 101 Freeway in Los Angeles, this song was immediately recognized for its intense anger and was likened to "revenge porn set to music." It marked a profound transformation for Alanis Morissette from a "wannabe pop starlet" to a formidable alt-rock figure, with a real breakup experience providing its emotional core. "It was June of 1995. I was listening to the radio, driving up the 101 Freeway in Los Angeles. Wow, said my wife, who was in the car with me. That is an angry song. I love it." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI ← alanis-morissette
+
+
+## awards
+**Juno Award for Dance Recording of the Year (1992)** : Nominated.
+**Juno Award for Single of the Year (1992)** : Nominated.
+**Grammy Award for Best Rock Song (1995) — You Oughta Know** : Nominated.
+**MTV Europe Music Award for Best New Act (1995)** : Nominated.
+**Grammy Award for Best New Artist (1995)** : Nominated.
+**Grammy Award for Song of the Year (1995) — You Oughta Know** : Nominated.
+**Grammy Award for Best Rock Album (1995) — Jagged Little Pill** : Nominated.
+**Grammy Award for Best Female Rock Vocal Performance (1995)** : Nominated.
+**Grammy Award for Album of the Year (1995) — Jagged Little Pill** : Nominated.
+**Grammy Award for Best Female Rock Vocal Performance (1995) — You Oughta Know** : Won.
+**Grammy Award for Album of the Year (1995) — Jagged Little Pill** : Won.
+**Grammy Award for Best Rock Song (1995) — You Oughta Know** : Won.
+**Grammy Award for Best Rock Album (1995) — Jagged Little Pill** : Won.
+**Grammy Award for Record of the Year (1996)** : Nominated.
+**American Music Award for Favorite Pop/Rock Female Artist (1996)** : Nominated.
+**Juno Award for Songwriter of the Year (1996)** : Nominated.
+**MTV Video Music Award for Best Editing (1996)** : Nominated.
+**MTV Video Music Award for Best Direction (1996)** : Nominated.
+**MTV Video Music Award for Video of the Year (1996)** : Nominated.
+**Juno Award for Entertainer of the Year (1996)** : Nominated.
+**BRIT Award for International Female Solo Artist (1996)** : Nominated.
+**BRIT Award for International Breakthrough Act (1996)** : Nominated.
+**MTV Video Music Award for Best New Artist (1996)** : Nominated.
+**Juno Award for Rock Album of the Year (1996) — Jagged Little Pill** : Nominated.
+**Grammy Award for Best New Artist (1996)** : Nominated.
+**MTV Video Music Award – Viewer's Choice (1996)** : Nominated.
+**Grammy Award for Best Music Video (1996)** : Nominated.
+**MTV Europe Music Award for Best Song (1996) — Ironic** : Nominated.
+**Juno Award for Album of the Year (1996) — Jagged Little Pill** : Nominated.
+**MTV Europe Music Award for Best Female (1996)** : Nominated.
+**Juno Award for Single of the Year (1996) — You Oughta Know** : Nominated.
+**MTV Video Music Award for Best Female Video (1996)** : Nominated.
+**MTV Video Music Award for Best Editing (1996)** : Won.
+**Juno Award for Songwriter of the Year (1996)** : Won.
+**Juno Award for Rock Album of the Year (1996) — Jagged Little Pill** : Won.
+**MTV Europe Music Award for Best Female (1996)** : Won.
+**Juno Award for Single of the Year (1996) — You Oughta Know** : Won.
+**MTV Video Music Award for Best New Artist (1996)** : Won.
+**Juno Award for Album of the Year (1996) — Jagged Little Pill** : Won.
+**MTV Video Music Award for Best Female Video (1996)** : Won.
+**BRIT Award for International Breakthrough Act (1996)** : Won.
+**Juno Award for Single of the Year (1997) — Ironic** : Nominated.
+**Grammy Award for Best Music Film (1997) — Jagged Little Pill** : Nominated.
+**Juno Award for Songwriter of the Year (1997)** : Nominated.
+**Juno Award for Single of the Year (1997)** : Nominated.
+**American Music Award for Favorite Pop/Rock Female Artist (1997)** : Nominated.
+**American Music Award for Favorite Pop/Rock Album (1997) — Jagged Little Pill** : Nominated.
+**Juno International Achievement Award (1997)** : Won.
+**Juno Award for Songwriter of the Year (1997)** : Won.
+**American Music Award for Favorite Pop/Rock Album (1997) — Jagged Little Pill** : Won.
+**Juno Award for Single of the Year (1997) — Ironic** : Won.
+**Grammy Award for Best Music Film (1997) — Jagged Little Pill** : Won.
+**American Music Award for Favorite Pop/Rock Female Artist (1997)** : Won.
+**Grammy Award for Best Female Rock Vocal Performance (1998)** : Nominated.
+**Golden Globe Award for Best Original Song (1998) — Uninvited** : Nominated.
+**Golden Globe Award for Best Original Song (1998) — City of Angels** : Nominated.
+**Grammy Award for Best Rock Song (1998)** : Nominated.
+**Grammy Award for Best Female Rock Vocal Performance (1998)** : Won.
+**Grammy Award for Best Rock Song (1998)** : Won.
+**BRIT Award for International Female Solo Artist (1999)** : Nominated.
+**Grammy Award for Best Female Pop Vocal Performance (1999)** : Nominated.
+**Grammy Award for Best Female Rock Vocal Performance (2000)** : Nominated.
+**MTV Video Music Award for Best Choreography (2000)** : Nominated.
+**Satellite Award for Best Original Song (2000)** : Nominated.
+**Juno Award for Album of the Year (2000) — Supposed Former Infatuation Junkie** : Nominated.
+**Juno Award for Pop Album of the Year (2000) — Supposed Former Infatuation Junkie** : Nominated.
+**Juno Award for Songwriter of the Year (2000) — Unsent** : Nominated.
+**Juno Award for Songwriter of the Year (2000) — So Pure** : Nominated.
+**Juno Award for Songwriter of the Year (2000) — Thank U** : Nominated.
+**Juno Award for Video of the Year (2000)** : Nominated.
+**Juno Award for Album of the Year (2000) — Supposed Former Infatuation Junkie** : Won.
+**Juno Award for Video of the Year (2000)** : Won.
+**Jack Richardson Producer of the Year Award (2003)** : Nominated.
+**Juno Award for Artist of the Year (2003)** : Nominated.
+**Juno Award for Pop Album of the Year (2003) — Under Rug Swept** : Nominated.
+**Jack Richardson Producer of the Year Award (2003)** : Won.
+**Juno Award for Music DVD of the Year (2004)** : Nominated.
+**Golden Globe Award for Best Original Song (2005) — Wunderkind** : Nominated.
+**Canada's Walk of Fame (2005)** : Won.
+**Juno Award for Pop Album of the Year (2009) — Flavors of Entanglement** : Nominated.
+**Juno Award for Songwriter of the Year (2009) — Underneath** : Nominated.
+**Juno Award for Songwriter of the Year (2009) — Not as We** : Nominated.
+**Juno Award for Songwriter of the Year (2009) — In Praise of the Vulnerable Man** : Nominated.
+**Juno Award for Pop Album of the Year (2009) — Flavors of Entanglement** : Won.
+**Canadian Music Hall of Fame (2015)** : Won.
+
+## charts
+**"Ironic" — Billboard Year-End Hot 100** : #13, 1996.
+**"You Learn" / "You Oughta Know" — Billboard Year-End Hot 100** : #29, 1996.
+**"Hands Clean" — Billboard Year-End Hot 100** : #95, 2002.
+
+## lists
+**"Jagged Little Pill" (1995) — 1001 Albums You Must Hear Before You Die** : #806, 8.0/10 Scaruffi.
+**"Jagged Little Pill" (1995) — AOTY Must Hear 1990s** : #230, 8.0/10 Scaruffi.
+**"Jagged Little Pill" (1995) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #69, 8.0/10 Scaruffi.
+**"Jagged Little Pill" (1995) — Scaruffi 1990s** : #27, 8.0/10 Scaruffi.
+**"Jagged Little Pill" (1995) — Pitchfork: The 150 Best Albums of the 1990s** : #51, 8.0/10 Scaruffi.

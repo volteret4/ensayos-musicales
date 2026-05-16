@@ -22,3 +22,7 @@
 **Musical Influences** : When asked about his influences, Billy Corgan would cite bands such as Kiss and Judas Priest, in addition to Bauhaus. "If you ask really Korg and the smashing pumpkins, he'd say, kiss and Judas Priest and other hard rock band." ← Ongoing History of New Music > What's The Big Deal About Bauhaus | https://www.youtube.com/watch?v=A89ipsMeMAg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **No Hair as a Statement** : Billy Corgan is presented as an artist who makes a significant statement by choosing to have no hair, demonstrating that baldness can be as impactful as a prominent haircut. "Having no hair at all is just as much of a statement as having a big mullet." ← Ongoing History of New Music > New Rock Hair | https://www.youtube.com/watch?v=Q3zkJX8S4Xc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Solitary Songwriter (N/A)** : Billy Corgan is noted as an artist who writes all of his music himself, contrasting with the modern trend of songwriting by committee involving many contributors. "But we still have people like Billy Corgan, who writes everything himself." ← Ongoing History of New Music > The Rock Explainer - 6 | https://www.youtube.com/watch?v=dnQ1pNbIUjw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+
+
+## lists
+**"Grab That Gun" (2004) — Sputnikmusic Best Albums 2004** : #72, 4.1 Sputnik.

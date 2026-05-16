@@ -22,3 +22,7 @@
 
 ## songs
 **I Could Have Lied (Early 1990s)** : Kiedis wrote this song, which appeared to imply a romantic relationship with Sinead O'Connor, despite her publicly stating that they were never a couple. "She was linked to Anthony Kitas, of the Red Hot Chili Peppers, but claims that they were never a couple. Meanwhile, he wrote a song called, I Could Have Lied, that seemed to suggest otherwise." ← https://www.youtube.com/watch?v=afuqjWl1JyI ← anthony-kiedis
+
+
+## lists
+**"Reverse Earth" (2025) — Bandcamp: The Best Albums of 2025** : #19.

@@ -9,3 +9,7 @@
 ## curiosities
 **Original Garage Rock Band** : This band is listed as one of the tens of thousands of Garage Rock bands that emerged from garages and basements all over the world during the original era of Garage Rock. "Question mark in the Mysterians, the barbarians, the trashmen, the strange loves." ← https://www.youtube.com/watch?v=UpWz3X33vSY
 
+
+
+## charts
+**"96 Tears" — Billboard Year-End Hot 100** : #2, 1966.

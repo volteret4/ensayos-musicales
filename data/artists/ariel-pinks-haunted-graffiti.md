@@ -13,3 +13,7 @@
 ## curiosities
 **Low-Fi Fanbase Development** : Ariel Rosenberg, the creative force behind Ariel Pink's Haunted Graffiti, cultivated his fanbase by consistently producing low-fi, home-recorded albums. His strategy embraced accessible and inexpensive recording equipment, demonstrating a viable path for independent artists to gain recognition and build an audience without relying on traditional, costly studio setups. "He built his fan base going low-fi with his home recorded albums." ← https://www.youtube.com/watch?v=uEe_HLUay5M ← ariel-pinks-haunted-graffiti
 
+
+
+## lists
+**"Before Today" (2010) — AOTY Must Hear 2010s** : #914, 80 AOTY.

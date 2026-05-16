@@ -29,3 +29,7 @@
 **Producer and Engineer Career** : Butch Vig worked for years as a recording engineer and record producer before achieving significant fame. "He'd been knocking around for years as a recording engineer and record producer..." ← https://www.youtube.com/watch?v=P45lJTdneoI ← butch-vig
 **Producing Nirvana's Nevermind (Age 36)** : At age 36, Butch Vig was asked to produce Nirvana's *Nevermind* album, a project that "set him up for life" due to its monumental success. "before he was asked to produce Never Mind for Nirvana. That's set him up for life, starting age 36." ← https://www.youtube.com/watch?v=P45lJTdneoI ← butch-vig
 
+
+
+## lists
+**"Conviction" (1986) — Scaruffi 1980s** : #211, 7.5/10 Scaruffi.

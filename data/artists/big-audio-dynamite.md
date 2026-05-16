@@ -13,3 +13,9 @@
 **"Sample Crazy" Approach (Year not specified)** : After Mick Jones was "kicked out of the clash," he formed Big Audio Dynamite and became intensely focused on using sampling technology. The band's sound was characterized by extensive use of samples, reflecting Jones's innovative approach to music creation with this new technology. "After he was kicked out of the clash, he formed a new band called Big Audio Dynamite, and he went sample crazy." ← https://www.youtube.com/watch?v=ak6OuOUkRrQ ← big-audio-dynamite
 **Boost from Levi's Commercial (1991)** : Big Audio Dynamite, Mick Jones's post-Clash project, received a significant boost in promotion due to its association with The Clash's "Should I Stay or Should I Go" being licensed for a 1991 Levi's commercial. This tie-in contributed to renewed interest in Jones's current work. "Big Audio Dynamite got a big push." ← https://www.youtube.com/watch?v=DYtsWfguqGo ← big-audio-dynamite
 **Formation After Clash Disbandment** : After The Clash folded following the dismal reception of *Cut the Crap*, Mick Jones went on to form Big Audio Dynamite. This new band had "a good run in the late 80s and early 90s," establishing Mick Jones's musical career post-Clash. ← Ongoing History of New Music > Joe Strummer： A Remembrance | https://www.youtube.com/watch?v=4m2Kx3ffJUQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← big-audio-dynamite
+
+
+## lists
+**"Megatop Phoenix" (1989) — Scaruffi 1980s** : #263, 7.0/10 Scaruffi.
+**"This Is Big Audio Dynamite" (1985) — Scaruffi 1980s** : #264, 7.0/10 Scaruffi.
+**"F-Punk" (1995) — Scaruffi 1990s** : #465, 7.0/10 Scaruffi.

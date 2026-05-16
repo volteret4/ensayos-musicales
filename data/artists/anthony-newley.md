@@ -5,3 +5,19 @@
 
 ## curiosities
 **Fabulous Style** : Anthony Newley was one of the artists who followed the trend of flamboyant style, exhibiting a distinctive and fabulous presence. "Anthony Newley... They all sounded different, but they all had a specific sort of fabulous style about them." ← https://www.youtube.com/watch?v=blDNqVFheAw ← anthony-newley
+
+
+## awards
+**Tony Award for Best Author (1963) — Stop the World – I Want to Get Off** : Nominated.
+**Tony Award for Best Original Score (1963) — Stop the World – I Want to Get Off** : Nominated.
+**Tony Award for Best Book of a Musical (1963) — Stop the World – I Want to Get Off** : Nominated.
+**Tony Award for Best Musical (1963) — Stop the World – I Want to Get Off** : Nominated.
+**Tony Award for Best Actor in a Musical (1963)** : Nominated.
+**Tony Award for Best Original Score (1965) — The Roar of the Greasepaint – The Smell of the Crowd** : Nominated.
+**Tony Award for Best Direction of a Musical (1965)** : Nominated.
+**Academy Award for Best Original Song Score (1972) — Willy Wonka & the Chocolate Factory** : Nominated.
+
+## charts
+**"96" — NME Chart** : 5 semanas.
+**"100" — NME Chart** : 22 semanas.
+**""Strawberry Fair" ‡" — UK Singles Chart** : #6, 1961.

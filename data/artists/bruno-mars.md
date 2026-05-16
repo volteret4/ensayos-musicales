@@ -8,3 +8,22 @@
 ## songs
 **Uptown Funk (N/A)** : Song where Bruno Mars and Mark Ronson interpolated "Oops Upside Your Head." "Mark Ronson and Bruno Mars interpolated oops upside your head in the song Uptown Funk." ← https://www.youtube.com/watch?v=dnQ1pNbIUjw ← bruno-mars
 **Uptown Funk (Year Unspecified)** : This song, co-written with Mark Ronson, became the target of multiple plagiarism lawsuits following the "Blurred Lines" precedent. Various groups, including The Gap Band, The Sequence, Kalash, Zap, and Serbian singer Victoria, accused them of infringement. As a result, the songwriting credits and royalties for "Uptown Funk" are now split among Mark Ronson, Bruno Mars, and ten other individuals who had no direct involvement in the specific recording. "Some of the first people to be hit with such a lawsuit were Bruno Mars and Mark Ronson for the song Uptown Funk." ← https://www.youtube.com/watch?v=fS8V3kYXT6w ← bruno-mars
+
+
+## charts
+**"Just the Way You Are" — Billboard Year-End Hot 100** : #18, 2010.
+**"Grenade" — Billboard Year-End Hot 100** : #6, 2011.
+**"Just the Way You Are" — Billboard Year-End Hot 100** : #15, 2011.
+**"The Lazy Song" — Billboard Year-End Hot 100** : #26, 2011.
+**"It Will Rain" — Billboard Year-End Hot 100** : #26, 2012.
+**"When I Was Your Man" — Billboard Year-End Hot 100** : #8, 2013.
+**"Locked Out of Heaven" — Billboard Year-End Hot 100** : #11, 2013.
+**"Treasure" — Billboard Year-End Hot 100** : #30, 2013.
+**"That's What I Like" — Billboard Year-End Hot 100** : #3, 2017.
+**"24K Magic" — Billboard Year-End Hot 100** : #16, 2017.
+**"Finesse" — Billboard Year-End Hot 100** : #14, 2018.
+**""Locked Out of Heaven" ‡" — UK Singles Chart** : #10, 2013.
+**""24K Magic" ‡" — UK Singles Chart** : #9, 2017.
+
+## lists
+**"Doo-Wops & Hooligans" (2010) — Grammy Award: Album of the Year nominees** : #2012.

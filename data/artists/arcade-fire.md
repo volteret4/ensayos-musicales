@@ -190,3 +190,24 @@
 **Time Magazine Cover - Funeral Success** : The overwhelming success of their *Funeral* album led to Arcade Fire being featured on the cover of Time Magazine, a testament to their rapid rise to prominence and critical recognition. "They ended up on the cover of Time Magazine." ← https://www.youtube.com/watch?v=Q_c-m_NDznw ← arcade-fire
 **Unannounced Single Release at Primavera Sound (2017)** : On June 31st (likely a misstated date for late June or early July), a 12-inch vinyl single from the band's current album suddenly appeared for sale at a merchandise stand during the Primavera Sound festival. This occurred without any official announcement or prior notice, surprising festival-goers and signaling the imminent launch of the album. "el 31 de junio, en pleno festival primavera, Saon en el stand en merchandising, aparecía de repente a la venta, el single en vinilo de 12 pulgadas de la banda, sin hacer un lanzamiento oficial." ← Music Radar Clan > Arcade Fire - Everything now (reseña e información) | https://www.youtube.com/watch?v=BZWJk4SDpZk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← arcade-fire
 
+
+
+## awards
+**Libera Award for Video of the Year** : Won.
+**Libera Award for Best Live Act** : Won.
+**CASBY Award** : Won.
+**Juno Humanitarian Award** : Won.
+**Shortlist Music Prize (2005) — Funeral** : Nominated.
+**Juno Award for Group of the Year (2011)** : Won.
+**Libera Award for Record of the Year (2014) — Reflektor** : Won.
+
+## lists
+**"Funeral" (2004) — 1001 Albums You Must Hear Before You Die** : #982, 7.5/10 Scaruffi.
+**"Neon Bible" (2007) — AOTY Must Hear 2000s** : #154, 7.0/10 Scaruffi.
+**"Funeral" (2004) — AOTY Must Hear 2000s** : #295, 7.5/10 Scaruffi.
+**"The Suburbs" (2010) — AOTY Must Hear 2010s** : #909, 88 AOTY.
+**"Funeral" (2004) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #500, 7.5/10 Scaruffi.
+**"Funeral" (2004) — Scaruffi 2000s** : #28, 7.5/10 Scaruffi.
+**"Neon Bible" (2007) — Scaruffi 2000s** : #198, 7.0/10 Scaruffi.
+**"The Suburbs" (2010) — Pitchfork: The 200 Best Albums of the 2010s** : #76, 88 AOTY.
+**"Funeral" (2004) — Sputnikmusic Best Albums 2004** : #10, 7.5/10 Scaruffi.

@@ -27,3 +27,11 @@
 **Pretending to Be a British Band (Early 1970s)** : The band initially pretended to be British, believing that "unknown bands were better received if they were British rather than American" in the early 1970s. "Why they called themselves British if they were not because they thought that unknown bands were better received if they were British rather than American which may have there may have been something to that in 1971 or 72." ← For the Record - The 70s > Ep. 51 - The Softer Side of 70s Rock | https://seventies.libsyn.com/ep-51-the-softer-side-of-70s-rock
 **Shift from Self-Production to George Martin** : After self-producing their first three albums proved to be "a lot of work," America sought a producer. They successfully enlisted George Martin, renowned for his work with The Beatles, who produced their 1974 album *Holiday* and later conducted a symphony orchestra for their 1975 live recording. "George Martin happened to be in LA to meet with Paul McCartney about the score for a live and let die and he agreed to meet with America and that was that he produced holiday which was released in 1974." ← For the Record - The 70s > Ep. 51 - The Softer Side of 70s Rock | https://seventies.libsyn.com/ep-51-the-softer-side-of-70s-rock
 
+
+
+## charts
+**"A Horse with No Name" — Billboard Year-End Hot 100** : #27, 1972.
+**"Sister Golden Hair" — Billboard Year-End Hot 100** : #34, 1975.
+**"Lonely People" — Billboard Year-End Hot 100** : #83, 1975.
+**"You Can Do Magic" — Billboard Year-End Hot 100** : #65, 1982.
+**"320" — NME Chart** : 2 semanas.

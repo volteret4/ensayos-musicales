@@ -135,3 +135,16 @@
 **Grind (1995)** : This song from the 1995 self-titled "Alice in Chains" album features Layne Staley singing the lyrics: "in the darkest hole you'd well be advised, not to plan my funeral before the body dies. Let the sun never blind your eyes, let me sleep so let's eat more wine." "He contained a song called Grind, in which Lane sings, in the darkest hole you'd well be advised, not to plan my funeral before the body dies." ← Ongoing History of New Music > RocknRoll Rehab | https://www.youtube.com/watch?v=EyagC0T7mR4&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **I Stay Away** : Jerry Cantrell is noted as playing a 12-string guitar on this song with Alice in Chains. "Jerry Cantrell playing with Allison Chains on I Stay Away." ← Ongoing History of New Music > The Story of the Electric Guitar - Part 2 | https://www.youtube.com/watch?v=d9HNqb9gJSU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Man in the Box (1991) - Second Most Played Rock Song on Radio (2010s)** : "Man in the Box" by Alice in Chains, released on August 27th, 1991, was the second most played rock song on rock radio during the 2010s. Its high ranking underscores the lasting impact and airwave presence of 90s grunge. "Two was men in the box from Alice in Chains." ← Ongoing History of New Music > The History of the 2010s Part 5： Music and Tech | https://www.youtube.com/watch?v=mNqqLDpUuZY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+
+
+## lists
+**"Dirt" (1992) — 1001 Albums You Must Hear Before You Die** : #729, 86 AOTY.
+**"Unplugged" (1996) — AOTY Must Hear 1990s** : #173, 50 AOTY.
+**"Alice in Chains" (1995) — AOTY Must Hear 1990s** : #216, 57 AOTY.
+**"Jar of Flies" (1994) — AOTY Must Hear 1990s** : #315, 85 AOTY.
+**"Dirt" (1992) — AOTY Must Hear 1990s** : #362, 86 AOTY.
+**"Facelift" (1990) — AOTY Must Hear 1990s** : #416, 70 AOTY.
+**"Dirt" (1992) — Scaruffi 1990s** : #391, 86 AOTY.
+**"Facelift" (1990) — Sputnikmusic Best Albums 1990** : #134, 70 AOTY.
+**"Dirt" (1992) — Sputnikmusic Best Albums 1992** : #2, 86 AOTY.
+**"Jar of Flies" (1994) — Sputnikmusic Best Albums 1994** : #15, 85 AOTY.

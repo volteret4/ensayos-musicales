@@ -170,3 +170,8 @@
 - Punk Rock (early description for "Pez")
 - Rock
 - Ska (played with ska bands)
+
+
+## lists
+**"Billy Talent II" (2006) — Juno Awards: Album of the Year** : #2007.
+**"Billy Talent III" (2009) — Juno Awards: Album of the Year** : #2010.

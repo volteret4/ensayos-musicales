@@ -12,3 +12,30 @@
 **Extensive Production Success** : Throughout the 1980s and 1990s, Fairbairn produced mega-platinum albums for numerous major rock bands, including Aerosmith, AC/DC, Bon Jovi, INXS, Kiss, Loverboy, Poison, The Scorpions, and Van Halen, accumulating close to 100 million album sales. "Throughout the 80s and 90s, he produced mega platinum albums for Erasmith and ACDC and Bon Jovi and Inaccess and Kiss and Leverboy and Poison, The Scorpions and Van Halen and a ton of others." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
 **Mentor to Bob Rock** : Bruce Fairbairn mentored Bob Rock, who started as an assistant producer at Fairbairn's Little Mountain Sound studio and later became his protégé. "Eventually, Bob started taking on his own clients and now his resume reads like some kind of who's who. ... And he got to where he is today thanks to the guidance and mentoring he received from another Canadian Superproducer, the late Bruce Fairburn." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
 
+
+
+## awards
+**Jack Richardson Producer of the Year Award (1980)** : Nominated.
+**Jack Richardson Producer of the Year Award (1980)** : Won.
+**Jack Richardson Producer of the Year Award (1981)** : Nominated.
+**Jack Richardson Producer of the Year Award (1982)** : Nominated.
+**Jack Richardson Producer of the Year Award (1982)** : Won.
+**Jack Richardson Producer of the Year Award (1983) — Worlds Away** : Nominated.
+**Jack Richardson Producer of the Year Award (1987)** : Nominated.
+**Jack Richardson Producer of the Year Award (1989)** : Nominated.
+**Jack Richardson Producer of the Year Award (1990) — Pump** : Nominated.
+**Jack Richardson Producer of the Year Award (1990) — Pump** : Won.
+**Jack Richardson Producer of the Year Award (1991)** : Nominated.
+**Grammy Award for Producer of the Year, Non-Classical (1993)** : Nominated.
+**Jack Richardson Producer of the Year Award (1997)** : Nominated.
+**Jack Richardson Producer of the Year Award (1999)** : Nominated.
+**Canadian Music Hall of Fame (2000)** : Won.
+
+## lists
+**"Moon Safari" (1998) — 1001 Albums You Must Hear Before You Die** : #874, 7.0/10 Scaruffi.
+**"The Virgin Suicides" (2000) — 1001 Albums You Must Hear Before You Die** : #903.
+**"Moon Safari" (1998) — AOTY Must Hear 1990s** : #94, 7.0/10 Scaruffi.
+**"Talkie Walkie" (2004) — AOTY Must Hear 2000s** : #320, 76 AOTY.
+**"Moon Safari" (1998) — Scaruffi 1990s** : #385, 7.0/10 Scaruffi.
+**"Moon Safari" (1998) — Pitchfork: The 150 Best Albums of the 1990s** : #103, 7.0/10 Scaruffi.
+**"Moon Safari" (1998) — Sputnikmusic Best Albums 1998** : #99, 7.0/10 Scaruffi.

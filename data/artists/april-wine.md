@@ -40,3 +40,22 @@
 **Bad Side of the Moon (1972)** : This song was one of two hits April Wine achieved in Canada in 1972. "bad side of the moon." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/
 **Just Between You And Me (1981)** : This song was recorded in 1980 and released in 1981 on the album *The Nature of the Beast*. It made it to number 21 on the Billboard Hot 100 in April. The lyrics lament a love that was not meant to be, expressing the pain of broken hearts that don't always mend and the hesitation to try love again. "It made it to number 21 on the Billboard Hot 100 in April." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/
 **You Could Have Been a Lady (1972)** : Released in 1972, this song was one of two hits April Wine achieved in Canada. It is a cover version of a song originally by Hot Chocolate. "You could have been a lady which is a cover of a great song by Hot Chocolate." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/
+
+
+## awards
+**Juno Award for Group of the Year (1975)** : Nominated.
+**Juno Award for Album of the Year (1976) — Stand Back** : Nominated.
+**Juno Award for Group of the Year (1976)** : Nominated.
+**Juno Award for Group of the Year (1977)** : Nominated.
+**Juno Award for Single of the Year (1978)** : Nominated.
+**Juno Award for Group of the Year (1978)** : Nominated.
+**Juno Award for Group of the Year (1980)** : Nominated.
+**Juno Award for Group of the Year (1981)** : Nominated.
+**Juno Award for Group of the Year (1982)** : Nominated.
+**Juno Award for Album of the Year (1982) — The Nature of the Beast** : Nominated.
+**Juno Award for Group of the Year (1983)** : Nominated.
+**Canadian Music Hall of Fame (2010)** : Won.
+
+## lists
+**"Stand Back" (1975) — Juno Awards: Album of the Year** : #1976.
+**"The Nature of the Beast" (1981) — Juno Awards: Album of the Year** : #1982.

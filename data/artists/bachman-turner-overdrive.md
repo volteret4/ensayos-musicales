@@ -39,3 +39,36 @@
 **You Ain't Seen Nothing Yet (1974) - Randy Bachman's Initial Disbelief** : Randy Bachman initially did not believe that "You Ain't Seen Nothing Yet" would become a hit single, having written it as an internal joke and not taking it seriously. "Backman did not think that you ain't seen nothing yet would be that song." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/
 **You Ain't Seen Nothing Yet (1974) - Randy Bachman's Reluctance** : Despite label head Charlie Fach's enthusiasm, Randy Bachman was highly reluctant to include "You Ain't Seen Nothing Yet" on the album, deeming it "nuts" because the guitars were out of tune, his vocals were stammering and sounded like "bad Van Morrison impressions," and he considered it an unfinished "blurting out lyrics" rather than a proper song. "I said, you're nuts. The guitars aren't even in tune. I'm stammering and doing bad van morse and worse in impressions. I don't know what I'm doing. This isn't even a song. I haven't even written it. I'm just blurting out lyrics." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/
 **You Ain't Seen Nothing Yet (1974) - Worldwide #1 Hit** : Contrary to Randy Bachman's expectations, "You Ain't Seen Nothing Yet" became a massive international success, reaching number one in 22 countries. "They went to number one in 22 countries." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/
+
+
+## awards
+**Juno Award for Album of the Year (1974) — Bachman–Turner Overdrive** : Nominated.
+**Juno Award for Breakthrough Group of the Year (1974)** : Nominated.
+**Juno Award for Breakthrough Group of the Year (1974)** : Won.
+**Juno Award for Album of the Year (1974) — Bachman–Turner Overdrive** : Won.
+**Juno Award for Group of the Year (1975)** : Nominated.
+**Juno Award for Album of the Year (1975) — Not Fragile** : Nominated.
+**Juno Award for Single of the Year (1975)** : Nominated.
+**Juno Award for Group of the Year (1975)** : Won.
+**Juno Award for Album of the Year (1975) — Not Fragile** : Won.
+**Juno Award for Album of the Year (1976) — Four Wheel Drive** : Nominated.
+**Juno Award for Group of the Year (1976)** : Nominated.
+**Juno Award for Single of the Year (1976)** : Nominated.
+**Juno Award for Single of the Year (1976)** : Won.
+**Juno Award for Group of the Year (1976)** : Won.
+**Juno Award for Album of the Year (1976) — Four Wheel Drive** : Won.
+**Juno Award for Group of the Year (1977)** : Nominated.
+**Juno Award for Album of the Year (1977) — Best of BTO** : Nominated.
+**Juno Award for Album of the Year (1977) — Head On** : Nominated.
+**Juno Award for Group of the Year (1978)** : Nominated.
+**Canadian Music Hall of Fame (2014)** : Won.
+
+## charts
+**"Takin' Care of Business" — Billboard Year-End Hot 100** : #63, 1974.
+**"You Ain't Seen Nothing Yet" — Billboard Year-End Hot 100** : #98, 1975.
+**""You Ain't Seen Nothing Yet" ‡" — UK Singles Chart** : #6, 1975.
+
+## lists
+**"Not Fragile" (1974) — Scaruffi 1970s** : #175, 7.0/10 Scaruffi.
+**"Head On" (1975) — Juno Awards: Album of the Year** : #1977.
+**"Best of B.T.O. (So Far)" (1976) — Juno Awards: Album of the Year** : #1977.

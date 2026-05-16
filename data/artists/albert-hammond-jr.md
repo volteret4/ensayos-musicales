@@ -9,3 +9,9 @@
 
 ## songs
 **Etchings (Year Unspecified) - 10-inch Single** : This 10-inch single is being released shortly after the artist put out an album that was quite well-received. "saca el single de 10 pulgadas, Ednings de Albert Jamon Jr." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← albert-hammond-jr
+
+
+## charts
+**"It Never Rains in Southern California" — Billboard Year-End Hot 100** : #98, 1973.
+**"It Never Rains in Southern California" — Spain Singles Chart** : #1, 1973.
+**"Échame A Mí La Culpa" — Spain Singles Chart** : #1, 1976.

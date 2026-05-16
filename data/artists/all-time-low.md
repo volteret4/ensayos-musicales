@@ -18,3 +18,8 @@
 **Multiple Warped Tour Appearances** : All Time Low is a frequent performer on the Warped Tour, having signed up to play at least half a dozen times. "They are a multiple Warped Tour performer. They signed up at least half a dozen times." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
 **New Generation Band** : All Time Low is mentioned as part of the "new generation of pop punk bands" that began to appear after 2010. "all time low." ← https://www.youtube.com/watch?v=pE7TaWSUa-o
 
+
+
+## charts
+**"Jungle Love" — Billboard Year-End Hot 100** : #91, 1985.
+**"Jerk Out" — Billboard Year-End Hot 100** : #93, 1990.

@@ -6,3 +6,7 @@
 ## curiosities
 **Lawsuit by Gilbert O'Sullivan (1991)** : Biz Markie was sued by Gilbert O'Sullivan in 1991 for an unauthorized sample of O'Sullivan's 1972 song, "Alone Again Naturally." This lawsuit had significant consequences, resulting in the withdrawal of Markie's album *I Need A Haircut* from the marketplace and serving as a major legal precedent in sampling cases. "An even bigger lawsuit happened in 1991 when Gilbert O'Sullivan sued Biz Markey for an unauthorized sample of his 1972 song, Alone Again Naturally." ← https://www.youtube.com/watch?v=ak6OuOUkRrQ ← biz-markie
 
+
+
+## charts
+**"Just a Friend" — Billboard Year-End Hot 100** : #94, 1990.

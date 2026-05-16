@@ -186,3 +186,23 @@
 **Undervalued Original Cassette** : The original cassette of a Blur album (referred to as "Manses" by the speaker, likely a phonetic transcription of an actual album name like *Modern Life Is Rubbish*) was acquired for a remarkably low price of 50 cents. This illustrates how, despite the rising interest, many cassettes remain undervalued in certain markets, offering opportunities for collectors to find bargains. "yo tengo el caseto original de blur mancés de de ver en caset y para que 50 centimos por ella." ← Music Radar Clan > Coleccionar Cassettes. Cosas que hay que saber. | https://www.youtube.com/watch?v=W5mOafWo-28&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← blur
 **Veteran Status in Britpop Battle (1995)** : By the time of the "Great Britpop Battle" in 1995, Blur possessed a veteran status, having already navigated early career struggles, stylistic shifts, and financial difficulties. This experience made them less eager to fully participate in the media-fueled rivalry compared to the younger, more pressured Oasis. "Blur que habían empezado antes y ya habían tenido sus problemas, sus tumbos se habían arruinado, ya eran un poco perro viejo." ← Music Radar Clan > OASIS： Pilares del Brit Pop | https://www.youtube.com/watch?v=hHuqc4TgoOs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← blur
 
+
+
+## awards
+**MOJO Awards** : Won.
+
+## lists
+**"Modern Life Is Rubbish" (1993) — 1001 Albums You Must Hear Before You Die** : #745, 3.9 Sputnik.
+**"Parklife" (1994) — 1001 Albums You Must Hear Before You Die** : #771, 82 AOTY.
+**"Blur" (1997) — 1001 Albums You Must Hear Before You Die** : #836, 75 AOTY.
+**"13" (1999) — AOTY Must Hear 1990s** : #39, 80 AOTY.
+**"Blur" (1997) — AOTY Must Hear 1990s** : #144, 75 AOTY.
+**"Parklife" (1994) — AOTY Must Hear 1990s** : #295, 82 AOTY.
+**"The Ballad of Darren" (2023) — AOTY Must Hear 2020s** : #303, 82 AOTY.
+**"Parklife" (1994) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #438, 82 AOTY.
+**"Parklife" (1994) — Pitchfork: The 50 Best Britpop Albums** : #2, 82 AOTY.
+**"Blur" (1997) — Pitchfork: The 50 Best Britpop Albums** : #8, 75 AOTY.
+**"Modern Life Is Rubbish" (1993) — Pitchfork: The 50 Best Britpop Albums** : #18, 3.9 Sputnik.
+**"Modern Life Is Rubbish" (1993) — Sputnikmusic Best Albums 1993** : #167, 3.9 Sputnik.
+**"Parklife" (1994) — Sputnikmusic Best Albums 1994** : #155, 82 AOTY.
+**"13" (1999) — Sputnikmusic Best Albums 1999** : #142, 80 AOTY.

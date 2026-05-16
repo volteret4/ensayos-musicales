@@ -19,3 +19,9 @@
 
 ## genres
 - Old Country
+
+
+## lists
+**"Outskirts" (1987) — Juno Awards: Album of the Year** : #1989.
+**"Lost Together" (1992) — Juno Awards: Album of the Year** : #1993.
+**"Five Days in July" (1993) — Juno Awards: Album of the Year** : #1995.

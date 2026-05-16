@@ -18,3 +18,10 @@
 **Notable Fan and Producer** : Fred Schneider of The B-52s is one of her biggest fans. He produced a couple of Christmas songs for her. "But one of her biggest fans is Fred Schneider of the B-52s. He produced a couple of Christmas songs for her." ← https://www.youtube.com/watch?v=HcK4M7-02ik
 **Prominent Figure in Outsider Music** : She is considered a significant figure in the outsider music world, having been featured by the BBC, on MTV a couple of times, and on Jimmy Kimmel. "She is a giant of the outside music world. The BBC did a story on her. She's been on MTV a couple of times. There was a Jimmy Kimmel appearance." ← https://www.youtube.com/watch?v=HcK4M7-02ik
 
+
+
+## charts
+**"Informer" — Billboard Year-End Hot 100** : #10, 1993.
+
+## lists
+**"12 Inches of Snow" (1993) — Juno Awards: Album of the Year** : #1994.

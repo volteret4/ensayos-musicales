@@ -29,3 +29,41 @@
 **Visual Artist** : Beyond her music, Buffy Sainte-Marie is also a visual artist, with her work featured in exhibitions and galleries across North America. "She's also a visual artist who is at exhibitions and galleries all across North America." ← https://www.youtube.com/watch?v=YFv6Ln00XjA
 **Yorkville Folk Scene Pioneer** : In the 1960s, she developed her skills as a singer-songwriter and was a regular presence in Toronto's Yorkville District folk scene, alongside other emerging talents like Neil Young, Leonard Cohen, Joni Mitchell, and John Kay. "In the 1960s, she developed as a singer-songwriter in Hangout and Toronto's Yorkville District at the same time as Neil Young and Leonard Cohen and Joni Mitchell and John Kaye, who would later form Steppenwolf and many others." ← https://www.youtube.com/watch?v=YFv6Ln00XjA
 
+
+
+## awards
+**Juno Humanitarian Award** : Won.
+**Companion of the Order of Canada** : Won.
+**Golden Globe Award for Best Original Song (1982) — Up Where We Belong** : Nominated.
+**Academy Award for Best Original Song (1982) — Up Where We Belong** : Nominated.
+**Golden Globe Award for Best Original Song (1983) — Up Where We Belong** : Won.
+**Academy Award for Best Original Song (1983) — Up Where We Belong** : Won.
+**honorary doctorate (1983)** : Won.
+**BAFTA Award for Best Original Song (1984) — Up Where We Belong** : Nominated.
+**BAFTA Award for Best Original Song (1984) — Up Where We Belong** : Won.
+**Canadian Music Hall of Fame (1995)** : Won.
+**honorary doctorate (1996)** : Won.
+**Juno Award for Indigenous Artist or Group of the Year (1997)** : Nominated.
+**Gemini Award (1997) — Up Where We Belong** : Won.
+**Officer of the Order of Canada (1997)** : Won.
+**Juno Award for Indigenous Artist or Group of the Year (1997) — Up Where We Belong** : Won.
+**Canada's Walk of Fame (1999)** : Won.
+**honorary doctorate (2000)** : Won.
+**honorary doctorate (2003)** : Won.
+**Canadian Songwriters Hall of Fame (2005) — Universal Soldier** : Won.
+**honorary doctorate (2007)** : Won.
+**honorary doctorate from Carleton University (2008)** : Won.
+**Juno Award for Indigenous Artist or Group of the Year (2009) — Running for the Drum** : Nominated.
+**Juno Award for Music DVD of the Year (2009)** : Nominated.
+**honorary doctorate from the Western University (2009)** : Won.
+**Juno Award for Indigenous Artist or Group of the Year (2009) — Running for the Drum** : Won.
+**honorary doctorate (2010)** : Won.
+**Governor General's Performing Arts Award (2010)** : Won.
+**honorary doctorate from the University of British Columbia (2012)** : Won.
+**"Spirit of Americana" Free Speech Award (2015)** : Won.
+**Polaris Music Prize (2015) — Power in the Blood** : Won.
+**Juno Award for Indigenous Artist or Group of the Year (2016) — Power in the Blood** : Won.
+**Fellow of the American Academy of Arts and Sciences (2022)** : Won.
+
+## lists
+**"Illuminations" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #66.

@@ -27,3 +27,33 @@
 **Music Video Work** : Alicia Keys is one of the artists for whom Director X has directed music videos. "I've directed videos for Alicia Keys, Puff Daddy, Cisco, Destiny's Child Drake, Justin Bieber, two chains, Rosalie, it is a shampoel, beanie man, Ariana Grande." ← https://www.youtube.com/watch?v=EyagC0T7mR4 ← alicia-keys
 **Videos Directed by Tadges Christelot** : Alicia Keys is among the prominent artists for whom Tadges Christelot has directed music videos during his extensive career. "I've directed videos for Alicia Keys, Puff Daddy, Cisco, Destiny's Child, Drake, Justin Bieber, Two Chains, Rosalie, Igeez, Shampo, Beanie Man, Ariana Grande." ← https://www.youtube.com/watch?v=mAlc-N2wn5s ← alicia-keys
 
+
+
+## awards
+**Audie Award for Narration by the Author or Authors** : Won.
+**Grammy Award for Song of the Year (2002) — Fallin'** : Won.
+**Grammy Award for Best New Artist (2002)** : Won.
+**Grammy Award for Best Melodic Rap Performance (2011) — Empire State of Mind** : Won.
+**Grammy Award for Best R&B Album (2013)** : Won.
+**BBC 100 Women (2016)** : Won.
+**Time 100 (2017)** : Won.
+**Ambassador of Conscience Award (2017)** : Won.
+
+## charts
+**"Fallin'" — Billboard Year-End Hot 100** : #2, 2001.
+**"A Woman's Worth" — Billboard Year-End Hot 100** : #51, 2002.
+**"If I Ain't Got You" — Billboard Year-End Hot 100** : #3, 2004.
+**"You Don't Know My Name" — Billboard Year-End Hot 100** : #29, 2004.
+**"Diary" — Billboard Year-End Hot 100** : #34, 2004.
+**"Karma" — Billboard Year-End Hot 100** : #56, 2005.
+**"No One" — Billboard Year-End Hot 100** : #76, 2007.
+**"No One" — Billboard Year-End Hot 100** : #3, 2008.
+**"Like You'll Never See Me Again" — Billboard Year-End Hot 100** : #47, 2008.
+**"Un-Thinkable" — Billboard Year-End Hot 100** : #78, 2010.
+**"Try Sleeping with a Broken Heart" — Billboard Year-End Hot 100** : #99, 2010.
+**"Girl on Fire" — Billboard Year-End Hot 100** : #49, 2013.
+**""No One" ‡" — UK Singles Chart** : #6, 2008.
+
+## lists
+**"The Diary of Alicia Keys" (2003) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #277.
+**"The Diary of Alicia Keys" (2003) — Grammy Award: Album of the Year nominees** : #2005.

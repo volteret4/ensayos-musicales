@@ -22,3 +22,32 @@
 
 ## genres
 - Teen Pop
+
+
+## charts
+**"The Way" — Billboard Year-End Hot 100** : #31, 2013.
+**"Problem" — Billboard Year-End Hot 100** : #9, 2014.
+**"Break Free" — Billboard Year-End Hot 100** : #37, 2014.
+**"One Last Time" — Billboard Year-End Hot 100** : #67, 2015.
+**"Dangerous Woman" — Billboard Year-End Hot 100** : #36, 2016.
+**"Into You" — Billboard Year-End Hot 100** : #51, 2016.
+**"Side to Side" — Billboard Year-End Hot 100** : #77, 2016.
+**"Side to Side" — Billboard Year-End Hot 100** : #43, 2017.
+**"No Tears Left to Cry" — Billboard Year-End Hot 100** : #20, 2018.
+**"God Is a Woman" — Billboard Year-End Hot 100** : #62, 2018.
+**"7 Rings" — Billboard Year-End Hot 100** : #7, 2019.
+**"Thank U, Next" — Billboard Year-End Hot 100** : #12, 2019.
+**"Break Up with Your Girlfriend, I'm Bored" — Billboard Year-End Hot 100** : #36, 2019.
+**"Breathin" — Billboard Year-End Hot 100** : #72, 2019.
+**"Positions" — Billboard Year-End Hot 100** : #14, 2021.
+**"34+35" — Billboard Year-End Hot 100** : #21, 2021.
+**"POV" — Billboard Year-End Hot 100** : #87, 2021.
+**"We Can't Be Friends" — Billboard Year-End Hot 100** : #26, 2024.
+**"Yes, And?" — Billboard Year-End Hot 100** : #92, 2024.
+**""Thank U, Next" ‡" — UK Singles Chart** : #12, 2019.
+**""34+35"" — UK Singles Chart** : #6, 2021.
+
+## lists
+**"thank u, next" (2019) — AOTY Must Hear 2010s** : #105, 82 AOTY.
+**"thank u, next" (2019) — Grammy Award: Album of the Year nominees** : #2020, 82 AOTY.
+**"Sweetener" (2018) — Pitchfork: The 200 Best Albums of the 2010s** : #100.

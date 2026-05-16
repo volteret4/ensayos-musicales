@@ -9,3 +9,7 @@
 **Founding Member of The Selecter** : He was a founding member of The Selecter, serving as one of the vocalists alongside frontwoman Pauline Black. "He found some like-minded individuals and was a founding member of the selector when he became one of the vocalists next to frontwoman Pauline Black." ← https://www.youtube.com/watch?v=HBS24NwhrE8
 **Initial Fame with The Selecter (1979-1982)** : Hendrickson was an integral part of The Selecter during their initial period of significant fame, which spanned from 1979 to 1982. "He was with the band during their initial rush of fame between 1979 and 1982." ← https://www.youtube.com/watch?v=HBS24NwhrE8
 
+
+
+## lists
+**"Dirty Rotten" (1983) — Scaruffi 1980s** : #340, 7.0/10 Scaruffi.

@@ -9,3 +9,7 @@
 **Initial Skepticism about Electric Guitar** : Benny Goodman initially expressed strong reservations about the electric guitar, questioning its musical relevance before being persuaded by talent scout John Hammond to audition Charlie Christian. His reaction highlights the novelty and unfamiliarity of the instrument at the time. "Goodman wasn't really into it because, well, who the hell wants to hear an electric guitar, he apparently said." ← https://www.youtube.com/watch?v=E6cXyaHALBQ
 **Support for Moondog's Lawsuit** : Big band leader Benny Goodman assisted Moondog (Louis Hardin Jr.) in his lawsuit against disc jockey Allan Freed for the unauthorized use of the "Moon Dog" name. His support was instrumental in Moondog winning the case and securing damages and a promise from Freed to cease using the name. "so with the help of big band leader Benny Goodman, he sued Alan Fried, and he won six thousand dollars in damages." ← https://www.youtube.com/watch?v=6SdPPsmpgJg
 
+
+
+## lists
+**"Go" (1976) — Scaruffi 1970s** : #306, 7.0/10 Scaruffi.

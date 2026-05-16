@@ -10,3 +10,21 @@
 
 ## concerts
 - Ozark Music Festival (1974)
+
+
+## awards
+**star on Hollywood Walk of Fame (1987)** : Won.
+**Academy Award for Best Original Song (1988) — Shakedown** : Nominated.
+**Rock and Roll Hall of Fame (2004)** : Won.
+
+## charts
+**"Night Moves" — Billboard Year-End Hot 100** : #55, 1977.
+**"Still the Same" — Billboard Year-End Hot 100** : #52, 1978.
+**"Hollywood Nights" — Billboard Year-End Hot 100** : #99, 1978.
+**"We've Got Tonight" — Billboard Year-End Hot 100** : #94, 1979.
+**"Shame on the Moon" — Billboard Year-End Hot 100** : #14, 1983.
+**"Shakedown" — Billboard Year-End Hot 100** : #9, 1987.
+
+## lists
+**"Beautiful Loser" (1975) — Scaruffi 1970s** : #192, 7.0/10 Scaruffi.
+**"Night Moves" (1976) — Scaruffi 1970s** : #193, 7.0/10 Scaruffi.

@@ -13,3 +13,16 @@
 **Glam Connection to LGBT Community** : Boy George, along with Culture Club, and Frankie Goes to Hollywood, represent the gay and non-binary club scene adjacent to the New Romantic movement, further extending glam's connection to the LGBT community and normalizing androgynous fashion. "especially people like Boy George, and Culture Club." ← https://www.youtube.com/watch?v=blDNqVFheAw ← boy-george
 **Impact of Bowie's "Coming Out"** : Boy George of Culture Club openly stated that his life was profoundly changed by David Bowie's public comments in January 1972 about being gay. Bowie's statement gave him the courage to embrace and be true to his own identity. "Boy George of Culture Club and Holly Johnson of Frankie Ghost of Hollywood say that their lives were changed by Bowie's comments." ← https://www.youtube.com/watch?v=sPCrATqBdeA ← boy-george
 
+
+
+## awards
+**MTV Video Music Award for Best Video from a Film (1993)** : Nominated.
+**Grammy Award for Best Male Pop Vocal Performance (1993)** : Nominated.
+**Grammy Award for Best Dance/Electronic Recording (1998)** : Nominated.
+**Laurence Olivier Award for Best New Musical (2003)** : Nominated.
+**Drama Desk Award for Outstanding Lyrics (2004)** : Nominated.
+**Drama Desk Award for Outstanding Music (2004)** : Nominated.
+**Tony Award for Best Original Score (2004) — Taboo** : Nominated.
+
+## charts
+**"655" — NME Chart** : 21 semanas.

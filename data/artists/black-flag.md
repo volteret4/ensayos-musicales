@@ -62,3 +62,13 @@
 
 ## concerts
 - Ozark Music Festival (1974)
+
+
+## lists
+**"Damaged" (1981) — 1001 Albums You Must Hear Before You Die** : #484, 8.0/10 Scaruffi.
+**"Damaged" (1981) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #487, 8.0/10 Scaruffi.
+**"Damaged" (1981) — Scaruffi 1980s** : #26, 8.0/10 Scaruffi.
+**"Loose Nut" (1985) — Scaruffi 1980s** : #275, 7.0/10 Scaruffi.
+**"Slip It In" (1984) — Scaruffi 1980s** : #276, 7.0/10 Scaruffi.
+**"The Process of Weeding Out" (1985) — Scaruffi 1980s** : #834, 7.5/10 Scaruffi.
+**"Damaged" (1981) — Pitchfork: The 200 Best Albums of the 1980s** : #36, 8.0/10 Scaruffi.

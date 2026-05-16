@@ -32,3 +32,16 @@
 
 ## albums
 **Mony Mony (1987) - Live Version** : Billy Idol's live version of "Mony Mony," released on October 2, 1987, reached number one and is famously associated with an extremely obscene audience call-and-response chant. This chant, which includes phrases like "hey, mother F, get late, get F'd," spontaneously emerged around 1987 and spread globally via word-of-mouth before the advent of the internet. "Billy's live version first appeared on October 2nd, 1987 long before there was an internet to propagate memes." ← https://www.youtube.com/watch?v=pyoCg3jDzmA ← billy-idol
+
+
+## awards
+**Grammy Award for Best Male Rock Vocal Performance (1985)** : Nominated.
+**Grammy Award for Best Male Rock Vocal Performance (1987)** : Nominated.
+**Grammy Award for Best Male Rock Vocal Performance (1991)** : Nominated.
+
+## charts
+**"Hot in the City" — Billboard Year-End Hot 100** : #90, 1982.
+**"Eyes Without a Face" — Billboard Year-End Hot 100** : #37, 1984.
+**"Mony Mony" — Billboard Year-End Hot 100** : #19, 1987.
+**"To Be a Lover" — Billboard Year-End Hot 100** : #64, 1987.
+**"Cradle of Love" — Billboard Year-End Hot 100** : #9, 1990.

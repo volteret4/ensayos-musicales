@@ -49,3 +49,10 @@
 **Riot Grrrl Pioneers** : Bikini Kill, led by Kathleen Hanna and Tobi Vail, epitomized the Riot Grrrl movement. They were deeply involved in feminist politics, advocating for safe spaces for women at shows by urging them to the front while "dudes" went to the back. They also published zines, aligning with the DIY spirit of the movement. "They were heavily into feminist politics. They favored women at their shows, urging them down fronts and dudes to the back. Meaning that gigs be safe places for women? Check. Publishing zines? Yep, that too. And was the music loud and angry? You bet." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← bikini-kill
 **Teen Spirit Deodorant Connection** : Kathleen Hannah, a member of the all-girl punk band Bikini Kill, was the person who coined the phrase "Kurt smells like teen spirit," referring to the fruity-smelling deodorant brand. This deodorant was also the "deodorant of choice of Toby Vale," another member of Bikini Kill and Kurt Cobain's girlfriend. "Now, you may or may not know this, but teen spirit is a fruity smelling brand of deodorant that girls wear." ← https://www.youtube.com/watch?v=k9ok8M31-38 ← bikini-kill
 
+
+
+## lists
+**"Revolution Girl Style Now" (1991) — Scaruffi 1990s** : #1361, 7.0/10 Scaruffi.
+**"Pussy Whipped" (1993) — Scaruffi 1990s** : #1362, 7.0/10 Scaruffi.
+**"The C.D. Version of the First Two Records" (1992) — Pitchfork: The 150 Best Albums of the 1990s** : #80.
+**"Bikini Kill" (1992) — Sputnikmusic Best Albums 1992** : #154, 3.93 Sputnik.

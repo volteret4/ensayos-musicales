@@ -82,3 +82,61 @@
 **The Trews Opened for Him (Moncton)** : The Trews had the opportunity to open for Bruce Springsteen at Magnetic Hill in Moncton, New Brunswick, after asking if he was looking for an opening act. The concert also featured Tom Cochrane and took place on a "beautiful day" in late August. "We opened form down in in Monkton, uh, Monkton, New Brunswick, uh, Magnetic Hill." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← bruce-springsteen
 **Unexpected Entrance** : Prior to his performance in Moncton, Bruce Springsteen's road manager indicated he rarely met with opening acts due to his long pre-show preparations. However, Springsteen made a dramatic and unexpected entrance, driving a golf cart onto the grounds with Little Steven and drummer Max Weinberg, displaying incredible energy that made him seem "14 years old." "It was fucking Bruce Springsteen driving the golf cart with little Steven and the drummer Max. Yeah. Wineburg in the car." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← bruce-springsteen
 
+
+
+## awards
+**Kennedy Center Honors** : Won.
+**MTV Video Music Award for Best Stage Performance (1985) — Dancing in the Dark** : Won.
+**MTV Video Music Award – Viewer's Choice (1985)** : Won.
+**MTV Video Music Award for Best Male Video (1985) — I'm on Fire** : Won.
+**MTV Video Music Award for Best Video from a Film (1994) — Streets of Philadelphia** : Won.
+**Academy Award for Best Original Song (1994) — Streets of Philadelphia** : Won.
+**Academy Award for Best Original Song (1996) — Dead Man Walkin'** : Nominated.
+**Rock and Roll Hall of Fame (1999)** : Won.
+**New Jersey Hall of Fame (2008)** : Won.
+**MusiCares Person of the Year (2013)** : Won.
+**Presidential Medal of Freedom (2016)** : Won.
+
+## charts
+**"Hungry Heart" — Billboard Year-End Hot 100** : #49, 1981.
+**"Dancing in the Dark" — Billboard Year-End Hot 100** : #14, 1984.
+**"Cover Me" — Billboard Year-End Hot 100** : #67, 1984.
+**"Glory Days" — Billboard Year-End Hot 100** : #67, 1985.
+**"I'm on Fire" — Billboard Year-End Hot 100** : #82, 1985.
+**"Born in the U.S.A." — Billboard Year-End Hot 100** : #92, 1985.
+**"Brilliant Disguise" — Billboard Year-End Hot 100** : #86, 1987.
+**"Streets of Philadelphia" — Billboard Year-End Hot 100** : #54, 1994.
+**"Secret Garden" — Billboard Year-End Hot 100** : #77, 1997.
+**"Janey, Don't You Lose Heart" — Spain Singles Chart** : #1, 1986.
+
+## lists
+**"Born to Run" (1975) — 1001 Albums You Must Hear Before You Die** : #334, 97 AOTY.
+**"Darkness on the Edge of Town" (1978) — 1001 Albums You Must Hear Before You Die** : #407, 95 AOTY.
+**"Nebraska" (1982) — 1001 Albums You Must Hear Before You Die** : #509, 81 AOTY.
+**"Born in the U.S.A." (1984) — 1001 Albums You Must Hear Before You Die** : #544, 97 AOTY.
+**"The Rising" (2002) — 1001 Albums You Must Hear Before You Die** : #955.
+**"Darkness on the Edge of Town" (1978) — AOTY Must Hear 1970s** : #37, 95 AOTY.
+**"Born to Run" (1975) — AOTY Must Hear 1970s** : #99, 97 AOTY.
+**"The Wild, the Innocent & The E Street Shuffle" (1973) — AOTY Must Hear 1970s** : #133.
+**"Born in the U.S.A." (1984) — AOTY Must Hear 1980s** : #112, 97 AOTY.
+**"Nebraska" (1982) — AOTY Must Hear 1980s** : #142, 81 AOTY.
+**"The River" (1980) — AOTY Must Hear 1980s** : #179, 8.5/10 Scaruffi.
+**"Western Stars" (2019) — AOTY Must Hear 2010s** : #59, 84 AOTY.
+**"Springsteen on Broadway" (2018) — AOTY Must Hear 2010s** : #111, 84 AOTY.
+**"The Ties That Bind: The River Collection" (2015) — AOTY Must Hear 2010s** : #451, 89 AOTY.
+**"The Promise" (2010) — AOTY Must Hear 2010s** : #886, 88 AOTY.
+**"Letter to You" (2020) — AOTY Must Hear 2020s** : #608, 83 AOTY.
+**"Born to Run" (1975) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #21, 97 AOTY.
+**"Darkness on the Edge of Town" (1978) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #91, 95 AOTY.
+**"Born in the U.S.A." (1984) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #142, 97 AOTY.
+**"Nebraska" (1982) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #150, 81 AOTY.
+**"The Wild, the Innocent & The E Street Shuffle" (1973) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #345.
+**"The Wild, the Innocent & The E Street Shuffle" (1973) — Scaruffi 1970s** : #89.
+**"Born To Run" (1975) — Scaruffi 1970s** : #203, 7.0/10 Scaruffi.
+**"The River" (1980) — Scaruffi 1980s** : #10, 8.5/10 Scaruffi.
+**"Born In The USA" (1984) — Scaruffi 1980s** : #296, 7.0/10 Scaruffi.
+**"Born in the U.S.A." (1984) — Grammy Award: Album of the Year nominees** : #1985, 97 AOTY.
+**"The Rising" (2002) — Grammy Award: Album of the Year nominees** : #2003.
+**"Nebraska" (1982) — Pitchfork: The 200 Best Albums of the 1980s** : #28, 81 AOTY.
+**"Born in the U.S.A." (1984) — Pitchfork: The 200 Best Albums of the 1980s** : #56, 97 AOTY.
+**"Tunnel of Love" (1987) — Pitchfork: The 200 Best Albums of the 1980s** : #124.

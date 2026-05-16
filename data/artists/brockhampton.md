@@ -7,3 +7,15 @@
 ## curiosities
 **Unorthodox Rap Group** : Brockhampton's style was noted as "very unorthodox" compared to other large rap groups, highlighting the significant variation in flows and styles among its numerous members. This distinctiveness set them apart from groups like Wu-Tang Clan or projects featuring Eminem. "tal vez sí que es verdad que pro canton sea el menos ortodoxo de todos es en el que ves como más diferencia entre los flows y los estilos de cada uno de ellos." ← Music Radar Clan > Discos que los subsciptores echasteis en falta en la lista de lo mejor del año y tenéis razón | https://www.youtube.com/watch?v=APPodZ7sl1w&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← brockhampton
 
+
+
+## lists
+**"Iridescence" (2018) — AOTY Must Hear 2010s** : #140, 7.5/10 Scaruffi.
+**"SATURATION III" (2017) — AOTY Must Hear 2010s** : #236, 79 AOTY.
+**"Saturation II" (2017) — AOTY Must Hear 2010s** : #278, 7.0/10 Scaruffi.
+**"SATURATION" (2017) — AOTY Must Hear 2010s** : #297, 76 AOTY.
+**"Iridescence" (2018) — Scaruffi 2010s** : #21, 7.5/10 Scaruffi.
+**"Saturation II" (2017) — Scaruffi 2010s** : #123, 7.0/10 Scaruffi.
+**"Saturation II" (2017) — Sputnikmusic Best Albums 2017** : #44, 7.0/10 Scaruffi.
+**"SATURATION III" (2017) — Sputnikmusic Best Albums 2017** : #130, 79 AOTY.
+**"WILDFIRE, TRUMAN, DIANA" (2018) — Sputnikmusic Best Albums 2018** : #120, 3.89 Sputnik.

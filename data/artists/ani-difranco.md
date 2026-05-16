@@ -36,3 +36,12 @@
 **Multiple Talents** : Ani DiFranco is recognized for her diverse talents as a singer, songwriter, poet, feminist, and businesswoman. "Ani is from Buffalo. She's a singer, a songwriter, a poet, a feminist and a businesswoman with her own record label, which is Babe Records." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI ← ani-difranco
 **Political and Social Activism** : As a singer-songwriter from Buffalo, Ani DiFranco was very active politically and socially, appearing at benefits and rallies. She advocated for voting rights, abortion rights, and was a prominent early supporter of LGBT causes, which was particularly forward-thinking for 1990. "She was very active politically and socially. She appeared in benefits and rallies. She threw her support behind things like voting rights and abortion rights. Plus, she was way out in front of the rest of society when it came to fighting for LGBT causes." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← ani-difranco
 
+
+
+## awards
+**Grammy Award for Best Recording Package (2003) — Evolve** : Won.
+
+## lists
+**"Dilate" (1996) — Scaruffi 1990s** : #407, 7.0/10 Scaruffi.
+**"Out Of Range" (1994) — Scaruffi 1990s** : #408, 7.0/10 Scaruffi.
+**"To the Teeth" (1999) — Scaruffi 1990s** : #409, 7.0/10 Scaruffi.

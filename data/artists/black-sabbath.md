@@ -96,3 +96,27 @@
 **Third Great Musical Provocation** : The band's debut, particularly their use of provocative imagery and themes, is considered the third major provocation in music history. It followed the sexual provocation initiated by Elvis Presley and another significant provocation by Janis Joplin. Black Sabbath's provocation was described as "completely gratuitous" but highly effective in making people react. "la tercera yo creo que sin duda fue la gran provocación social que hizo Black Sabbath que era una provocación completamente gratuita." ← Music Radar Clan > Black Sabbath： Y así nació el HEAVY METAL | https://www.youtube.com/watch?v=FX9uTcjFpvI&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← black-sabbath
 **Valuable Records** : Black Sabbath records are presented as having tangible value in the collector's market. "si tenéis Iscos de [...] Black Sabbath, sí, eso sí que tiene valor, no os preocupéis." ← Music Radar Clan > ESPECIAL FORMATOS： Los vinilos hoy | https://www.youtube.com/watch?v=5JBJNKbY9yQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← black-sabbath
 
+
+
+## awards
+**Grammy Awards (2000) — Iron Man** : Won.
+**Rock and Roll Hall of Fame (2006)** : Won.
+**Grammy Awards (2014) — God Is Dead?** : Won.
+**Grammy Lifetime Achievement Award (2019)** : Won.
+
+## lists
+**"Black Sabbath" (1970) — 1001 Albums You Must Hear Before You Die** : #178, 97 AOTY.
+**"Paranoid" (1971) — 1001 Albums You Must Hear Before You Die** : #184, 7.0/10 Scaruffi.
+**"Vol 4" (1972) — 1001 Albums You Must Hear Before You Die** : #243.
+**"Sabotage" (1975) — AOTY Must Hear 1970s** : #100, 88 AOTY.
+**"Sabbath Bloody Sabbath" (1973) — AOTY Must Hear 1970s** : #132, 73 AOTY.
+**"Black Sabbath Vol. 4" (1972) — AOTY Must Hear 1970s** : #170, 73 AOTY.
+**"Master of Reality" (1971) — AOTY Must Hear 1970s** : #207, 87 AOTY.
+**"Paranoid" (1971) — AOTY Must Hear 1970s** : #238, 7.0/10 Scaruffi.
+**"Black Sabbath" (1970) — AOTY Must Hear 1970s** : #253, 97 AOTY.
+**"Heaven and Hell" (1980) — AOTY Must Hear 1980s** : #194, 78 AOTY.
+**"Paranoid" (1971) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #139, 7.0/10 Scaruffi.
+**"Master of Reality" (1971) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #234, 87 AOTY.
+**"Black Sabbath" (1970) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #355, 97 AOTY.
+**"Master of Reality" (1971) — Scaruffi 1970s** : #183, 87 AOTY.
+**"Paranoid" (1971) — Scaruffi 1970s** : #184, 7.0/10 Scaruffi.

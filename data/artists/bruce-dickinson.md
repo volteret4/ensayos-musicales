@@ -9,3 +9,13 @@
 **World War I Reenactment Pilot** : In addition to his commercial pilot activities, Bruce Dickinson engages in recreational flying. For fun, he pilots a Fokker triplane, which he uses to specialize in reenactments of famous battles from World War I at air shows. "And just for fun he flies a Focker triplane which specializes in reenactments of famous battles of World War I." ← https://www.youtube.com/watch?v=hmnMG6f80Sg
 **Throat Cancer Diagnosis** : Bruce Dickinson of Iron Maiden was diagnosed with throat cancer in 2015. The cancer was detected at an early stage, and all subsequent treatments proved successful, leading to his full recovery. "Bruce Dickinson of Iron Maiden was diagnosed with throat cancer in 2015." ← https://www.youtube.com/watch?v=u5NLt6mkmrk ← bruce-dickinson
 
+
+
+## awards
+**Golden Raspberry Award for Worst Original Song (1989) — Bring Your Daughter... to the Slaughter** : Won.
+**Golden Raspberry Award for Worst Original Song (1990) — Bring Your Daughter... to the Slaughter** : Nominated.
+
+## lists
+**"The Mandrake Project" (2024) — Kerrang! The 50 Best Albums of 2024** : #45.
+**"Accident Of Birth" (1997) — Sputnikmusic Best Albums 1997** : #64, 4.1 Sputnik.
+**"The Chemical Wedding" (1998) — Sputnikmusic Best Albums 1998** : #34, 4.22 Sputnik.

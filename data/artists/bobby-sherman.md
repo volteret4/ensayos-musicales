@@ -16,3 +16,9 @@
 **Easy Come, Easy Go** : This was one of Bobby Sherman's hit songs from the late 1960s and early 1970s. "In addition to little woman, he had hits with... Easy come, easy go?" ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum
 **Julie, Do You Love Me?** : This was one of Bobby Sherman's hit songs from the late 1960s and early 1970s. "In addition to little woman, he had hits with Julie, do you love me?" ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum
 **Little Woman** : This song was a hit for Bobby Sherman, released during the same period in 1969 when "Sugar Sugar" held the number one spot, establishing him as a "bubble gum artist." "Another so-called bubble gum artist who was real had a hit with little woman." ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum
+
+
+## charts
+**"Little Woman" — Billboard Year-End Hot 100** : #41, 1969.
+**"Julie, Do Ya Love Me" — Billboard Year-End Hot 100** : #29, 1970.
+**"Easy Come, Easy Go" — Billboard Year-End Hot 100** : #56, 1970.

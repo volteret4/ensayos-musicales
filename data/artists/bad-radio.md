@@ -21,3 +21,7 @@
 **Pearl Jam Fan Community Bootlegs** : Despite their unreleased album, the Pearl Jam fan community has actively kept Bad Radio's music alive by circulating bootlegs of their material. This effort by fans ensures that the music from Eddie Vedder's pre-Pearl Jam band remains accessible. "Meanwhile, the Pearl Jam fan community has kept Bad Radio alive by circulating boot legs of Bad Radio stuff." ← https://www.youtube.com/watch?v=gdWLtMy4TBU ← bad-radio
 **Red Hot Chili Peppers Sound Shift** : After Eddie Vedder became their singer, Bad Radio's sound evolved to become increasingly similar to that of the Red Hot Chili Peppers. "After Eddie came on board, Bad Radio began to sound more and more like the Red Hot Chili Peppers." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← bad-radio
 
+
+
+## lists
+**"Holy Diver" (1983) — AOTY Must Hear 1980s** : #130, 77 AOTY.

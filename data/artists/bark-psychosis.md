@@ -9,3 +9,10 @@
 ## songs
 **Street Scene** : This track from the album "Hex" is presented as a sample of the music that Simon Reynolds first categorized as post-rock. "This is a track called Street Scene." ← https://www.youtube.com/watch?v=pLf3kUONewg ← bark-psychosis
 
+
+
+## lists
+**"Hex" (1994) — AOTY Must Hear 1990s** : #312, 8.0/10 Scaruffi.
+**"Hex" (1994) — Scaruffi 1990s** : #35, 8.0/10 Scaruffi.
+**"Hex" (1994) — Sputnikmusic Best Albums 1994** : #38, 8.0/10 Scaruffi.
+**"Codename: Dustsucker" (2004) — Sputnikmusic Best Albums 2004** : #95, 4.07 Sputnik.

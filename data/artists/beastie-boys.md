@@ -298,3 +298,23 @@
 **Recording "Check Your Head" at Night** : Much of the recording for *Check Your Head* at their G-Son studio was done at night because "the people at the drug store on the ground floor kept complaining about all the noise during business hours." ← https://www.youtube.com/watch?v=HZzP0qswdwM ← beastie-boys
 **Shift Away from Heavy Sampling** : For their album *Check Your Head*, the band consciously moved away from their previous heavy reliance on sampling, as their accountant advised them that "the cost of clearing those samples would break them." This decision was both an "economic one as well as an artistic one." ← https://www.youtube.com/watch?v=HZzP0qswdwM ← beastie-boys
 
+
+
+## charts
+**"(You Gotta) Fight for Your Right" — Billboard Year-End Hot 100** : #98, 1987.
+
+## lists
+**"Licensed to Ill" (1986) — 1001 Albums You Must Hear Before You Die** : #565.
+**"Paul’s Boutique" (1989) — 1001 Albums You Must Hear Before You Die** : #643.
+**"Ill Communication" (1994) — 1001 Albums You Must Hear Before You Die** : #763, 82 AOTY.
+**"Paul’s Boutique" (1989) — AOTY Must Hear 1980s** : #9.
+**"Ill Communication" (1994) — AOTY Must Hear 1990s** : #290, 82 AOTY.
+**"Paul’s Boutique" (1989) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #125.
+**"Licensed to Ill" (1986) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #192.
+**"Check Your Head" (1992) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #261, 4.02 Sputnik.
+**"Paul’s Boutique" (1989) — Scaruffi 1980s** : #258.
+**"Check Your Head" (1992) — Pitchfork: The 150 Best Albums of the 1990s** : #67, 4.02 Sputnik.
+**"Paul’s Boutique" (1989) — Pitchfork: The 200 Best Albums of the 1980s** : #15.
+**"Licensed to Ill" (1986) — Pitchfork: The 200 Best Albums of the 1980s** : #103.
+**"Check Your Head" (1992) — Sputnikmusic Best Albums 1992** : #97, 4.02 Sputnik.
+**"Ill Communication" (1994) — Sputnikmusic Best Albums 1994** : #128, 82 AOTY.

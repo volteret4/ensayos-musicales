@@ -21,3 +21,10 @@
 **Post-Rock Adjacency** : While primarily categorized as indie rock, some of their material can be classified as "post-indie rock" or post-rock adjacent, due to their complex textures, softer edges, more swing, and a sense of humor and joy. "Yes, they are primarily categorized as indie rock, but I might even classify some of their material as post- indie rock." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
 **Toronto Collective** : Broken Social Scene is described as a globally famous Toronto collective known for producing complex material with interesting textures. "A globally famous Toronto collective broken social scene, maybe not pure post-rock, but definitely post-rock adjacent, if that makes any sense." ← https://www.youtube.com/watch?v=9-v4qnOO8wY
 
+
+
+## lists
+**"Broken Social Scene" (2005) — AOTY Must Hear 2000s** : #230, 77 AOTY.
+**"You Forgot It in People" (2002) — AOTY Must Hear 2000s** : #388, 7.0/10 Scaruffi.
+**"You Forgot It in People" (2002) — Scaruffi 2000s** : #256, 7.0/10 Scaruffi.
+**"You Forgot It in People" (2002) — Sputnikmusic Best Albums 2002** : #36, 7.0/10 Scaruffi.

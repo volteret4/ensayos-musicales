@@ -27,3 +27,12 @@
 **Solo Venture and Reunion with Jay (2007)** : After an initial period with Jay, Ash pursued a solo path as "Ubiquitous Synergy Seeker." In April 2007, he invited Jay to rejoin him for a show at Saltz Pub in The Junction, Toronto. Jay, who was working in the Northern Alberta oil fields at the time, returned to play, and they performed old songs from their pre-USS band, Team of Captains. This reunion performance was so enjoyable that it solidified their decision to formally continue their musical partnership as USS. "when Ash went solo and he became ubiquitous synergy seeker he asked me to rejoin forces with him in April 2007." ← https://www.youtube.com/watch?v=ayPJfDAF_to
 **The "Ubiquitous Synergy Seeker" Manifesto** : During a period of personal stagnation working in a factory, Ash reflected on his "learned helplessness" stemming from childhood trauma and the inhibiting effects of being a "pothead." He decided to write a "script" for the person he aspired to become. While working, he discovered the word "ubiquitous" ("everywhere simultaneously") in a dictionary, which, combined with his studies of Eastern philosophy, led him to coin "Ubiquitous Synergy Seeker." This name encapsulates a paradox: the journey of seeking something that is inherently ever-present, serving as his personal manifesto and the foundational philosophy for his band. "So the name ubiquitous synergy seeker is actually a paradox because how can you seek something that's ever present but that's the journey." ← https://www.youtube.com/watch?v=ayPJfDAF_to
 
+
+
+## charts
+**"Shining Light" — UK Indie Singles Chart** : 2001.
+**"Burn Baby Burn" — UK Indie Singles Chart** : 2001.
+
+## lists
+**"1977" (1996) — 1001 Albums You Must Hear Before You Die** : #834.
+**"1977" (1996) — Pitchfork: The 50 Best Britpop Albums** : #34.

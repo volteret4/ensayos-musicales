@@ -49,3 +49,14 @@
 **Back to Black (2006)** : Her second proper album became a worldwide hit, solidifying her status as a significant artist. "back to black in 2006. That one became a worldwide hit." ← https://www.youtube.com/watch?v=11UsTJQyQds ← amy-winehouse
 **Frank (2003)** : This was one of Amy Winehouse's two proper studio albums released during her lifetime. "Amy only had two proper albums, Frank in 2003 and back to black in 2006." ← https://www.youtube.com/watch?v=11UsTJQyQds ← amy-winehouse
 **Limited Discography (Year Unspecified)** : Amy Winehouse released only two albums during her career. This limited output led to speculation about what more she could have achieved musically had she lived beyond her 27 years. "Amy released just two albums." ← https://www.youtube.com/watch?v=vJszsJQpINQ ← amy-winehouse
+
+
+## charts
+**"Rehab" — Billboard Year-End Hot 100** : #74, 2007.
+
+## lists
+**"Frank" (2003) — 1001 Albums You Must Hear Before You Die** : #963, 77 AOTY.
+**"Back to Black" (2006) — AOTY Must Hear 2000s** : #167, 82 AOTY.
+**"Frank" (2003) — AOTY Must Hear 2000s** : #333, 77 AOTY.
+**"Back to Black" (2006) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #33, 82 AOTY.
+**"Back to Black" (2006) — Grammy Award: Album of the Year nominees** : #2008, 82 AOTY.

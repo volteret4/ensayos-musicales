@@ -5,3 +5,15 @@
 
 ## songs
 **Black Velvet (1989)** : Kurt Schaffer, an early bandmate of Ian Thornley, went on to play guitar for Alannah Myles, notably on her hit song "Black Velvet." "Black Velvet, not that stuff was Kurt." ← https://www.youtube.com/watch?v=z9QChV543aQ ← alannah-myles
+
+
+## awards
+**Juno Award for Album of the Year (1990) — Alannah Myles** : Won.
+**Juno Award for Single of the Year (1990) — Black Velvet** : Won.
+**Grammy Award for Best Female Rock Vocal Performance (1991) — Black Velvet** : Won.
+
+## charts
+**"Black Velvet" — Billboard Year-End Hot 100** : #18, 1990.
+
+## lists
+**"Rockinghorse" (1992) — Juno Awards: Album of the Year** : #1994.

@@ -17,3 +17,11 @@
 ## songs
 **3-W-W (2017)** : Short for "three worn words," this song from the 2017 album "Relaxer" tells the story of a lovelorn young man on a walkabout. He thinks about a bronze statue of Juliet in Verona, Italy, whose chest is worn smooth due to the legend that rubbing it brings good luck in love, illustrating the band's rich and specific narrative approach. "It's called 3-W-W, which is short for three worn words, W-O-R-N words." ← Ongoing History of New Music > The History of Nerd Rock | https://www.youtube.com/watch?v=h6snk0m4200&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Tessellate** : This song's title references a mathematical term for a plain surface covered by repeated use of a single shape without gaps or overlapping, indicative of Alt J's intellectually themed songwriting. "A plain surface covered by repeated use of a single shape without gaps or overlapping. That's a Tessilate, by the way, which is also the name of one of their songs." ← Ongoing History of New Music > The History of Nerd Rock | https://www.youtube.com/watch?v=h6snk0m4200&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+
+
+## awards
+**James Joyce Awards** : Won.
+**Mercury Prize** : Won.
+
+## lists
+**"An Awesome Wave" (2012) — AOTY Must Hear 2010s** : #766, 78 AOTY.

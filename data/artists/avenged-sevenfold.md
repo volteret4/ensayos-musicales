@@ -9,3 +9,8 @@
 **First Band to Use Stage Props** : Avenged Sevenfold was the first band on the Warped Tour to use any kind of prop on stage, introducing a smoke machine to their performances. "The first band to use any kind of prop on stage was a Venge 7 Fold. And the prop they brought with them? Smoke Machine." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4
 **Touring Before Stardom** : Alexis on Fire toured with Avenged Sevenfold right before Avenged Sevenfold signed their major label deals and released the records that would launch them into superstardom. This tour offered a glimpse into the major label courting process and the impending surge in popularity for aggressive music. "I remember we did a, we did a long American tour with, it was us, Mike him and Evan Sevenfold, both right before both those, like both of them have just signed their major label deals and both had made the records that would then propel them into super stardom, but it was the tour right before that." ← https://www.youtube.com/watch?v=nEPT8ZVZ0so
 
+
+
+## lists
+**"Sounding the Seventh Trumpet" (2001) — Scaruffi 2000s** : #207, 7.0/10 Scaruffi.
+**"Life Is But a Dream…" (2023) — Kerrang! The 50 Best Albums of 2023** : #6.

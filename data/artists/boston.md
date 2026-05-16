@@ -11,3 +11,16 @@
 
 ## albums
 **Boston (1976) - Debut Album with Promotional Essay** : Boston's debut album, released in 1976, included a very long essay on its back cover. This essay served as a de facto press release, detailing the band and the record's creation, designed to attract potential buyers browsing in record stores by providing compelling information about the new artist. "When Boston released their debut album in 1976, it came with a very long essay on the back cover that was about the band and the making of the record and why we should listen." ← https://www.youtube.com/watch?v=KaIp6KVn-co ← boston
+
+
+## awards
+**Grammy Award for Best New Artist (1977)** : Nominated.
+
+## charts
+**"Don't Look Back" — Billboard Year-End Hot 100** : #93, 1978.
+**"Amanda" — Billboard Year-End Hot 100** : #50, 1986.
+
+## lists
+**"Boston" (1976) — 1001 Albums You Must Hear Before You Die** : #351, 7.0/10 Scaruffi.
+**"Boston" (1976) — AOTY Must Hear 1970s** : #77, 7.0/10 Scaruffi.
+**"Boston" (1976) — Scaruffi 1970s** : #196, 7.0/10 Scaruffi.

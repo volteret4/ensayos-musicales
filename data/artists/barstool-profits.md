@@ -23,3 +23,14 @@
 **Major Label Deal and Breakup (1995-1999)** : The band secured a major label deal in 1995, benefiting from the surge in Canadian alt-rock that decade. They released two well-received albums before the "string ran out" in 1999, leading to the group's breakup after approximately 10 years of activity. "But 1995, the band had a major label deal. They were scooped up in that huge explosion of Canadian alt rock that we saw that decade. [...] The string ran out in 1999, and was about 10 years old by this time, and the group broke up." ← https://www.youtube.com/watch?v=rrkmfJQBpHQ ← barstool-profits
 **Post-Breakup Solo Careers and Reunions** : After the band's breakup in 1999, lead singer Graham Greer released two indie solo albums, while guitarist Al Morje released three. Despite the initial split, the band has reunited several times over the years, particularly visible in Eastern Ontario. "So your Graham Greer went on to release two indie albums while guitarist Almorje had three. However, the band has reunited several times over the years, and if you're in Eastern Ontario, you might have seen them pop up a few times." ← https://www.youtube.com/watch?v=rrkmfJQBpHQ ← barstool-profits
 
+
+
+## lists
+**"Aenima" (1996) — AOTY Must Hear 1990s** : #163, 7.0/10 Scaruffi.
+**"10,000 Days" (2006) — AOTY Must Hear 2000s** : #200, 73 AOTY.
+**"Lateralus" (2001) — AOTY Must Hear 2000s** : #461, 75 AOTY.
+**"Aenima" (1996) — Scaruffi 1990s** : #1265, 7.0/10 Scaruffi.
+**"Undertow" (1993) — Scaruffi 1990s** : #1266, 7.0/10 Scaruffi.
+**"Lateralus" (2001) — Scaruffi 2000s** : #147, 7.5/10 Scaruffi.
+**"Aenima" (1996) — Sputnikmusic Best Albums 1996** : #2, 7.0/10 Scaruffi.
+**"Opiate²" (2022) — Sputnikmusic Best Albums 2022** : #47, 3.9 Sputnik.

@@ -7,3 +7,7 @@
 ## songs
 **Don't Make No Fuss, It's Christmas (2020)** : This is a Christmas song from Bros, the project featuring Shemas Curry of The Sheepdogs. "Oh, I'm friends, I'm a fiat. That's you and in Shema's Curry of the Sheep Dogs, working under the name Bros. And don't make no fuss, it's Christmas." ← https://www.youtube.com/watch?v=nYPGQiDL5bw
 
+
+
+## charts
+**""Cat Among the Pigeons"/"Silent Night" ‡" — UK Singles Chart** : #6, 1989.

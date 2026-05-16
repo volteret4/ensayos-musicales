@@ -33,3 +33,7 @@
 **White Audiences' Reception** : Body Count, as an all-black metal band, did not always receive appreciation from white audiences, highlighting racial tensions in the metal scene. "And second, white audiences didn't always appreciate an all-black metal band." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 **Lollapalooza 1991 Performer** : Body Count, featuring Ice-T, was one of the bands on the first-ever Lollapalooza tour in 1991. Their inclusion highlighted the festival's genre-bending approach, which integrated alternative rock with hardcore rap and metal. "Ice Tea and Body Count, one of the bands in the first ever Lola Palusa tour in 1991." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← body-count
 
+
+
+## lists
+**"All the Waters of the Earth Turn to Blood" (2010) — Scaruffi 2010s** : #326, 7.0/10 Scaruffi.

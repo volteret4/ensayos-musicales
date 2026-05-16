@@ -44,3 +44,10 @@
 
 ## genres
 - Rock (reinvention of classic rock moves)
+
+
+## awards
+**Grammy Award for Best New Artist (1994)** : Nominated.
+
+## lists
+**"Blind Melon" (1992) — Sputnikmusic Best Albums 1992** : #128, 3.97 Sputnik.

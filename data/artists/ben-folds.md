@@ -20,3 +20,7 @@
 **Percussion Scholarship and Return to Piano** : Ben Folds initially received a scholarship to a music school in Miami for percussion, a promising start that ultimately ended with him losing the scholarship. Following this, he intensely returned to the piano, dedicating six months to running scales with a metronome "like a freak." "But then he got a scholarship to a music school in Miami for percussion, which started off promising, but then he crashed out and lost a scholarship. You head back to the piano and spent, he says, six months running scales with a metronome like a freak." ← https://www.youtube.com/watch?v=dJiSZ4X0F2g
 **Unexpected Piano Acquisition and Early Influences** : Ben Folds' musical journey began at age nine when his carpenter father accepted a piano as payment from a customer unable to pay for a job. This serendipitous event allowed Ben to become a fan of Elton John and Billy Joel, prompting him to learn their songs by ear from the radio. "The best thing that ever happened to Ben was when his father brought home a piano. He was a carpenter where the customer couldn't pay for a job, so he was paid with a piano. This was perfect for nine-year-old Ben because he'd become a fan of Elton John and Billy Joel and began learning songs off the radio." ← https://www.youtube.com/watch?v=dJiSZ4X0F2g
 
+
+
+## lists
+**"Whatever and Ever, Amen" (1997) — Sputnikmusic Best Albums 1997** : #82, 4.08 Sputnik.

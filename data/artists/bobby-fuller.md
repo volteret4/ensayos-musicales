@@ -8,3 +8,7 @@
 **Mysterious Death in Los Angeles** : Bobby Fuller, known for his hit cover of "I Fought the Law," was found dead in a car outside his apartment in Los Angeles on July 18, 1966. The autopsy revealed hemorrhages on his face, chest, and side, with the coroner concluding these were caused by inhaling gasoline vapors in the summer heat, with no signs of struggle. "The autopsy showed that he had hemorrhages on his face, chest and side that the corner concluded were caused by inhaling gasoline vapors in the summer heat." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
 **Unresolved Case and Theories** : The coroner could not definitively determine whether Bobby Fuller's death was a suicide, an accident, or a murder, leading to an unsolved case that has spurred TV shows and books. Theories include a postulation by his bandmate Jim Reese linking Charles Manson (though Manson was in prison) and a theory suggesting the LAPD staged his death due to Fuller's connection to a woman tied to the mob. "The corner couldn't say for sure. There are theories though. Jim Reese, who played in Bobby's band, postulated that Charles Manson had something to do with it." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw
 
+
+
+## charts
+**"I Fought the Law" — Billboard Year-End Hot 100** : #89, 1966.

@@ -3,3 +3,7 @@
 ## curiosities
 **Goth Band from the Era** : Another band listed as noteworthy from the period of goth's expansion. "Ballot in the Angel, another one." ← https://www.youtube.com/watch?v=XaLsZFLrMnI
 
+
+
+## lists
+**"In Transmediale" (2006) — Scaruffi 2000s** : #189, 7.0/10 Scaruffi.

@@ -20,3 +20,8 @@
 **Post-Oasis Formation** : When Oasis disbanded, Liam Gallagher retained the remaining members of the band—guitarists Gem Archer and Andy Bell, along with drummer Chris Sharrock—to form his new group, Beady Eye. "When Oasis broke up, it was Liam who retained custody of the rest of the band. Guitarist Gammard, Jury Nandy Bell along with drummer Chris Shorock stayed with him. He called the band BDI." ← https://www.youtube.com/watch?v=cjWxC2jQVrA ← beady-eye
 **Transition to Solo Career** : After releasing at least one more album (unspecified in the transcript) subsequent to "Different Gear Still Speeding," Liam Gallagher ultimately disbanded Beady Eye to launch a full-fledged solo career. "There was one more BDI album before Liam folded that tent with an idle launching of a full-on solo career." ← https://www.youtube.com/watch?v=cjWxC2jQVrA ← beady-eye
 
+
+
+## lists
+**"Ea Taesse" (2006) — Sputnikmusic Best Albums 2006** : #116, 4.04 Sputnik.
+**"Ea II" (2009) — Sputnikmusic Best Albums 2009** : #12, 4.23 Sputnik.

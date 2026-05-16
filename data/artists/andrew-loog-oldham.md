@@ -8,3 +8,7 @@
 **Rolling Stones Manager** : Andrew Loog Oldham was the manager of The Rolling Stones during their early career, releasing "The Rolling Stones Songbook" in 1966 which contained the orchestral arrangement of "The Last Time" later sampled by The Verve. He was later succeeded by Allan Klein. "Andrew Lou Geoldem, the manager of the Rolling Stones back in the day." ← https://www.youtube.com/watch?v=fS8V3kYXT6w ← andrew-loog-oldham
 **Symphonic Versions of Rolling Stones Songs** : Andrew Loog Oldham was responsible for creating symphonic versions of Rolling Stones songs in the late 1960s. One of these instrumental versions, specifically featuring five repetitive notes from "The Last Time," was later sampled by The Verve for their song "Bitter Sweet Symphony." Oldham initially granted permission for its use, but he subsequently filed a lawsuit, feeling he deserved more prominence than agreed upon as the song became hugely successful, although his initial demand did not succeed. "Esa rifa, al finalmente, pertenecía a una grabación de finales de los 60 de Alan Luke que hacía versiones sinfónicas de Rolling Stones." ← Music Radar Clan > Bitter Sweet Symphony： Quien fue su verdadero compositor？ | https://www.youtube.com/watch?v=CsBQFChCsuM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← andrew-loog-oldham
 
+
+
+## lists
+**"Lo Flux Tube" (1991) — Sputnikmusic Best Albums 1991** : #126, 3.92 Sputnik.

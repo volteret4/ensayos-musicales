@@ -3,3 +3,9 @@
 ## member of
 - Lou Reed
 
+
+
+## lists
+**"Pori" (1998) — Scaruffi 1990s** : #534, 7.0/10 Scaruffi.
+**"Miljard" (2006) — Scaruffi 2000s** : #44, 7.5/10 Scaruffi.
+**"Prospekt" (2000) — Scaruffi 2000s** : #275, 7.0/10 Scaruffi.

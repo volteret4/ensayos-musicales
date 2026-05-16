@@ -6,3 +6,16 @@
 
 ## genres
 - Rock and Roll
+
+
+## awards
+**Rock and Roll Hall of Fame (2012)** : Won.
+
+## charts
+**"Shake, Rattle and Roll" — Billboard Year-End Hot 100** : #26, 1954.
+**"Rock Around the Clock" — Billboard Year-End Hot 100** : #2, 1955.
+**"See You Later Alligator" — Billboard Year-End Hot 100** : #33, 1956.
+**"Shake, Rattle and Roll" — UK Singles Chart** : #8, 1955.
+**"Rock-A-Beatin' Boogie" — UK Singles Chart** : #6, 1956.
+**""Rock Around the Clock" ‡" — UK Singles Chart** : #20, 1956.
+**""Rip It Up" ‡" — UK Singles Chart** : #9, 1957.

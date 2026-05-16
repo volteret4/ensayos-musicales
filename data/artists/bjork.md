@@ -14,3 +14,10 @@
 **Marcus Draves Producer Credit** : Marcus Draves, producer of Mumford & Sons' debut album, had previously produced an album for Bjork before early 2009. "one by Bjork." ← https://www.youtube.com/watch?v=P1RyOchn7pk ← bjork
 **Performance at Tibetan Freedom Show** : Bjork performed at the inaugural Tibetan Freedom Show held at Golden Gate Park in San Francisco on July 15, 1996, which was a major event for raising awareness and funds for the Milarepa Fund. "The line up included the Beastie Boys, plus the smashing pumpkins, Bjork, Sonic Youth, the Chili Peppers, and more." ← https://www.youtube.com/watch?v=HZzP0qswdwM ← bjork
 
+
+
+## lists
+**"Vulnicura" (2015) — AOTY Must Hear 2010s** : #541, 7.0/10 Scaruffi.
+**"Vulnicura" (2015) — Scaruffi 2010s** : #109, 7.0/10 Scaruffi.
+**"Vulnicura" (2015) — Pitchfork: The 200 Best Albums of the 2010s** : #56, 7.0/10 Scaruffi.
+**"Vulnicura" (2015) — Sputnikmusic Best Albums 2015** : #92, 7.0/10 Scaruffi.

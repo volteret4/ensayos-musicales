@@ -16,3 +16,14 @@
 
 ## instruments
 - Gretsch guitars
+
+
+## awards
+**Honorary doctorate of the University of Florida** : Won.
+**Florida Artists Hall of Fame** : Won.
+**Rock and Roll Hall of Fame (1987)** : Won.
+**Grammy Lifetime Achievement Award (1998)** : Won.
+
+## lists
+**"Bo Diddley / Go Bo Diddley" (1986) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #455.
+**"Two Great Guitars" (1964) — Scaruffi 1960s** : #88, 7.0/10 Scaruffi.

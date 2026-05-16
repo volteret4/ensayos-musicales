@@ -10,3 +10,7 @@
 
 ## songs
 **Ein Wunderhübscher Traum von Sandosa (1969)** : This track from Amon Düül, released in 1969, is a lengthy composition, extending for 17 minutes. It exemplifies the experimental and freeform nature of the era's emerging German rock. "This is Ein Wunderhubsche Imagine Trump von Sandosa from 1969. That goes on for 17 minutes." ← https://www.youtube.com/watch?v=ePZDkqLM_gw ← amon-düül
+
+
+## charts
+**"473" — NME Chart** : 16 semanas.

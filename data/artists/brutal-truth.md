@@ -9,3 +9,9 @@
 ## songs
 **Collateral Damage (1992) – Shortest Video** : This song, with an official running time of 2.18 seconds, is from Brutal Truth's 1992 album "Extreme Conditions Demand Extreme Responses." Despite its extreme brevity, an official music video was produced for it, featuring 48 still images, each displayed for 44-thousandths of a second, followed by a clip of an explosion. "This record contains a song called Collateral Damage. It had an official running time of 2.18 seconds. Yet they decided that, you know what? We should make a video for this." ← https://www.youtube.com/watch?v=T1XSJIm0Nh4
 
+
+
+## lists
+**"Extreme Conditions Demand Extreme Responses" (1992) — Scaruffi 1990s** : #497, 7.0/10 Scaruffi.
+**"Extreme Conditions Demand Extreme Responses" (1992) — Sputnikmusic Best Albums 1992** : #39, 7.0/10 Scaruffi.
+**"Need to Control" (1994) — Sputnikmusic Best Albums 1994** : #74, 4.1 Sputnik.

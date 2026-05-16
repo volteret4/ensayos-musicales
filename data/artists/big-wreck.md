@@ -51,3 +51,8 @@
 ## concerts
 - Headstones opening acts
 - The Watchmen opening acts
+
+
+## lists
+**"In Loving Memory Of..." (1997) — Sputnikmusic Best Albums 1997** : #140, 3.99 Sputnik.
+**"Albatross" (2012) — Sputnikmusic Best Albums 2012** : #131, 3.97 Sputnik.

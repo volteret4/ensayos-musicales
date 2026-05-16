@@ -22,3 +22,7 @@
 **Pre-dating Major Grunge Bands** : Bam Bam, with Tina Bell, was active and developing their sound before bands like Nirvana, Soundgarden, and Alice in Chains. Their early contributions to the genre were not recognized in the same way as these later groups. "Tina and Bam Bam were doing their thing before Nirvana, before Soundgarden, before Allison Chains." ← https://www.youtube.com/watch?v=VnXBJqKwkrw
 **Theories for Lack of Recognition** : Several theories exist for Bam Bam and Tina Bell's exclusion from grunge history, including issues of race and gender, given Tina was a black woman fronting a punky rock band in a male-dominated world. Other possibilities include their sound being a year or two too early, bad management, a problematic record deal, or the band stopping just before grunge exploded in 1991. "There are several theories as to why this happened, race and gender being one." ← https://www.youtube.com/watch?v=VnXBJqKwkrw
 
+
+
+## charts
+**"473" — NME Chart** : 16 semanas.

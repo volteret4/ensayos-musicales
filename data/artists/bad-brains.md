@@ -55,3 +55,11 @@
 **Rastafarian and African American Identity** : All members of Bad Brains were African American and Rastafarians, a unique aspect for the hardcore scene at the time. "Another thing, every member of bad brains was African American. They were all Rastafarians too." ← https://www.youtube.com/watch?v=PEHkKfmmDiI
 **Role in "Mosh" Terminology Origin** : The DC band Bad Brains initially encouraged their fans to "mash" during shows, a term derived from the Jamaican phrase "mash it up." This term later mutated into "mosh" because the band's senior HR (likely referring to singer H.R.) had a Jamaican accent and pronounced "mash" as "mosh." "The originally encouraged fans to mash, which is their word, derived from the Jamaican phrase, mash it up against each other during their shows." ← https://www.youtube.com/watch?v=bferkEWvJg0
 
+
+
+## lists
+**"I Against I" (1986) — 1001 Albums You Must Hear Before You Die** : #580, 7.0/10 Scaruffi.
+**"Bad Brains" (1982) — AOTY Must Hear 1980s** : #155, 93 AOTY.
+**"Rock For Light" (1982) — Scaruffi 1980s** : #22, 8.0/10 Scaruffi.
+**"I Against I" (1986) — Scaruffi 1980s** : #252, 7.0/10 Scaruffi.
+**"Bad Brains" (1982) — Pitchfork: The 200 Best Albums of the 1980s** : #41, 93 AOTY.

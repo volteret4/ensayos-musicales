@@ -14,3 +14,14 @@
 **Musical Influence on Björk's Utopia** : Arca played a crucial role in shaping the sound of Björk's *Utopia*, making the album sound "more complete," "more current," and more aligned with the latest trends in experimental electronic music. His "fantastic work" involved integrating recent experimental electronic trends and contributing passionate rhythmic arrangements and "famous arrhythmias" to tracks like "The Gate" and the title track "Utopia." "Arca ha hecho un trabajo fantástico en este disco cogiendo todo eso y incorporando muchas de las últimas tendencias de la elitónica más experimental." ← Music Radar Clan > Lo que rodea a Björk y Utopia | https://www.youtube.com/watch?v=9MYcEQEHi9M&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← arca
 **Youth and Trend Immersion** : Arca is described as a young artist who is deeply immersed in the latest trends concerning sound, rhythm, and the overall landscape of contemporary electronic music. This contemporary sensibility greatly complements Björk's established sound. "Arca es muy joven está muy metida en las últimas tendencias del sonido y de la rítmia y de los ritmos de la electrónica que se está haciendo." ← Music Radar Clan > Lo que rodea a Björk y Utopia | https://www.youtube.com/watch?v=9MYcEQEHi9M&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← arca
 
+
+
+## lists
+**"Arca" (2017) — AOTY Must Hear 2010s** : #318, 82 AOTY.
+**"Entrañas" (2016) — AOTY Must Hear 2010s** : #398, 82 AOTY.
+**"KicK iii" (2021) — AOTY Must Hear 2020s** : #484, 80 AOTY.
+**"@@@@@" (2020) — AOTY Must Hear 2020s** : #678, 81 AOTY.
+**"Xen" (2014) — Scaruffi 2010s** : #99, 7.0/10 Scaruffi.
+**"Baron Libre" (2012) — Scaruffi 2010s** : #363, 7.5/10 Scaruffi.
+**"Arca" (2017) — Pitchfork: The 200 Best Albums of the 2010s** : #61, 82 AOTY.
+**"Arca" (2017) — Resident Advisor: The Best Electronic Records of 2000-25** : #46, 82 AOTY.

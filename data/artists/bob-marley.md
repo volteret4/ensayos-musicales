@@ -56,3 +56,22 @@
 **Ganja Brand - Marley Natural** : Bob Marley, synonymous with Jamaica, Reggae, and Pot, has a brand of Ganja called Marley Natural, which is grown, harvested, and sold with the blessing of the Marley estate. "Bob Marley, synonymous with Jamaica, Reggae, and Pot. The next drug I have on my list is Cocaine. You can google it, I'll wait. Bob Marley, synonymous with Jamaica, Reggae, and Pot." ← https://www.youtube.com/watch?v=i5lR8zz7_ZE ← bob-marley
 **Influence on Alt Rock** : Although Bob Marley is not categorized as an alternative artist himself, his music has exerted a significant and lasting influence on Alt Rock throughout several decades. "Not an alternative artist per se, but his music has had plenty of influence on Alt Rock through the decades, so it will be a crime to leave him out, so let's put Bob Marley on the list." ← https://www.youtube.com/watch?v=_1NNvxgx8uA ← bob-marley
 
+
+
+## awards
+**star on Hollywood Walk of Fame** : Won.
+**Order of Merit (1981)** : Won.
+**Rock and Roll Hall of Fame (1994)** : Won.
+**Grammy Lifetime Achievement Award (2001)** : Won.
+
+## lists
+**"Natty Dread" (1974) — 1001 Albums You Must Hear Before You Die** : #323.
+**"Exodus" (1977) — 1001 Albums You Must Hear Before You Die** : #370, 93 AOTY.
+**"Kaya" (1978) — AOTY Must Hear 1970s** : #40, 83 AOTY.
+**"Exodus" (1977) — AOTY Must Hear 1970s** : #59, 93 AOTY.
+**"Legend: The Best of Bob Marley and the Wailers" (1984) — AOTY Must Hear 1980s** : #114, 98 AOTY.
+**"Uprising" (1980) — AOTY Must Hear 1980s** : #191, 85 AOTY.
+**"Exodus" (1977) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #48, 93 AOTY.
+**"Exodus" (1977) — Scaruffi 1970s** : #190, 7.0/10 Scaruffi.
+**"Soul Rebels" (1970) — Scaruffi 1970s** : #191, 7.0/10 Scaruffi.
+**"Uprising" (1980) — Pitchfork: The 200 Best Albums of the 1980s** : #74, 85 AOTY.

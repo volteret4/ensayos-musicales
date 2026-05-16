@@ -14,3 +14,8 @@
 **Promotion of The Velvet Underground (Early 1966)** : Andy Warhol secured numerous small concerts and art showcases for The Velvet Underground, actively promoting them within the New York art world. "Andy Warhol ya le consigue bastantes pequeños conciertos, ensaras artísticas, incluso ya los empiezan mover por la jefe del art de New York." ← Music Radar Clan > The Velvet Underground： Una vision más humana que musical | https://www.youtube.com/watch?v=_TMMVFTuyC4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← andy-warhol
 **Reaction to Being Fired** : According to John Cale, while Andy Warhol initially claimed to take his dismissal well after Lou Reed fired him, he directly called Lou Reed a "dirty rat" and never spoke to him again, indicating a very sour end to their relationship. "Andy Warhol se lo tomó muy bien pero que, de girectamente, le dijo a Lurri que era una sucia rata y nunca más le volvió a hablar." ← Music Radar Clan > The Velvet Underground： Una vision más humana que musical | https://www.youtube.com/watch?v=_TMMVFTuyC4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← andy-warhol
 
+
+
+## lists
+**"…The Dandy Warhols Come Down" (1997) — 1001 Albums You Must Hear Before You Die** : #859.
+**"Dandys Rule OK" (1995) — Scaruffi 1990s** : #569, 7.0/10 Scaruffi.

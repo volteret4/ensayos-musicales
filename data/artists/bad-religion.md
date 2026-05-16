@@ -66,3 +66,11 @@
 **Rehab at Impact Drug and Alcohol Treatment Center** : Brent Gerowicz of Bad Religion attended the Impact Drug and Alcohol Treatment Center in Pasadena, where he notoriously had drugs smuggled into him inside hollowed-out fruit. "He, by the way, used to have more drugs smuggled into him inside the rehab center that were inside hollowed out fruit." ← https://www.youtube.com/watch?v=EyagC0T7mR4 ← bad-religion
 **Spreading Hardcore Gospel** : Bad Religion, alongside Black Flag, was instrumental in disseminating the "gospel of hardcore" through their consistent touring efforts. "And there were bands like Black Flag and Bad Religion that spread the gospel of hardcore by touring constantly." ← https://www.youtube.com/watch?v=xdn31jMOOA4 ← bad-religion
 
+
+
+## lists
+**"No Control" (1989) — Scaruffi 1980s** : #122, 7.5/10 Scaruffi.
+**"Suffer" (1988) — Scaruffi 1980s** : #123, 7.5/10 Scaruffi.
+**"Against The Grain" (1990) — Scaruffi 1990s** : #437, 7.0/10 Scaruffi.
+**"Against The Grain" (1990) — Sputnikmusic Best Albums 1990** : #29, 7.0/10 Scaruffi.
+**"Generator" (1992) — Sputnikmusic Best Albums 1992** : #96, 4.02 Sputnik.

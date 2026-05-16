@@ -27,3 +27,31 @@
 
 ## songs
 **General Song Production** : Aphex Twin is an exceptionally prolific artist, continuously creating hundreds of songs. He is recognized as one of the greatest generators of musical material. However, it is often difficult to confirm the authenticity of many circulating tracks as his own, as he frequently does not confirm them. "Apex Twin es una persona que hace cientos de canciones continuamente eso no es de los grandísimos generadores de material." ← Music Radar Clan > El disco secreto de Aphex Twin que apareció en 2014 | https://www.youtube.com/watch?v=qCiMVOddDyE&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← aphex-twin
+
+
+## awards
+**Shortlist Music Prize (2002) — Drukqs** : Nominated.
+**Grammy Award for Best Dance/Electronic Album (2015) — Syro** : Won.
+
+## lists
+**"Selected Ambient Works 85–92" (1992) — 1001 Albums You Must Hear Before You Die** : #708, 91 AOTY.
+**"Windowlicker" (1999) — AOTY Must Hear 1990s** : #38, 88 AOTY.
+**"Come to Daddy" (1997) — AOTY Must Hear 1990s** : #106, 76 AOTY.
+**"Richard D. James Album" (1996) — AOTY Must Hear 1990s** : #154, 81 AOTY.
+**"Selected Ambient Works, Volume II" (1994) — AOTY Must Hear 1990s** : #307.
+**"Selected Ambient Works 85–92" (1992) — AOTY Must Hear 1990s** : #354, 91 AOTY.
+**"drukQs" (2001) — AOTY Must Hear 2000s** : #431, 64 AOTY.
+**"Syro" (2014) — AOTY Must Hear 2010s** : #569, 7.0/10 Scaruffi.
+**"Selected Ambient Works Volume II (Expanded Edition)" (2024) — AOTY Must Hear 2020s** : #167, 87 AOTY.
+**"I Care Because You Do" (1995) — Scaruffi 1990s** : #411, 7.0/10 Scaruffi.
+**"Syro" (2014) — Scaruffi 2010s** : #98, 7.0/10 Scaruffi.
+**"Richard D. James Album" (1996) — Pitchfork: The 150 Best Albums of the 1990s** : #34, 81 AOTY.
+**"Selected Ambient Works, Volume II" (1994) — Pitchfork: The 150 Best Albums of the 1990s** : #53.
+**"Syro" (2014) — Pitchfork: The 200 Best Albums of the 2010s** : #80, 7.0/10 Scaruffi.
+**"Selected Ambient Works, Volume II" (1994) — Pitchfork: The 50 Best Ambient Albums of All Time** : #2.
+**"Selected Ambient Works 85–92" (1992) — Pitchfork: The 50 Best IDM Albums of All Time** : #1, 91 AOTY.
+**"Richard D. James Album" (1996) — Pitchfork: The 50 Best IDM Albums of All Time** : #4, 81 AOTY.
+**"I Care Because You Do" (1995) — Pitchfork: The 50 Best IDM Albums of All Time** : #13, 7.0/10 Scaruffi.
+**"Selected Ambient Works 85–92" (1992) — Sputnikmusic Best Albums 1992** : #10, 91 AOTY.
+**"Selected Ambient Works, Volume II" (1994) — Sputnikmusic Best Albums 1994** : #73.
+**"Richard D. James Album" (1996) — Sputnikmusic Best Albums 1996** : #92, 81 AOTY.

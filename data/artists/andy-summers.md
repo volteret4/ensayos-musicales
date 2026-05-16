@@ -8,3 +8,7 @@
 **Joined The Police at 36 (1977)** : In 1977, after years of working in various musical roles, Andy Summers, then 36, accepted an invitation to join Sting and Stuart Copeland in the newly forming band, The Police, breaking through the following year. "So after bouncing around for years in 1977, he accepted an invitation to join Sting and Stuart Copeland in the police, which was just starting out." ← https://www.youtube.com/watch?v=P45lJTdneoI ← andy-summers
 **Older Than Punk Contemporaries** : At 36, when The Police broke through, Andy Summers was significantly older (10 to 15 years) than most of the band's punk and new wave contemporaries, a fact that was little noticed or cared about at the time. "At 36, he was far older than the police's punk and new wave contemporaries, 10 or 15 years older." ← https://www.youtube.com/watch?v=P45lJTdneoI ← andy-summers
 
+
+
+## charts
+**"473" — NME Chart** : 16 semanas.

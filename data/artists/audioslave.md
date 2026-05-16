@@ -51,3 +51,7 @@
 **Tom Morello's Band** : Tom Morello, an African American guitarist noted for his contributions to alt-rock, was a member of Audioslave. "Tom Morello, there's Slash." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
 **Big Rock Records of 2005** : Audioslave was among the artists releasing big rock records in the fall of 2005. "the biggest rock records were from...audio-slive." ← https://www.youtube.com/watch?v=ua93Ui1u6UI ← audioslave
 
+
+
+## charts
+**"Like a Stone" — Billboard Year-End Hot 100** : #96, 2003.

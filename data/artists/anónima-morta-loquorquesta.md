@@ -13,3 +13,7 @@
 ## curiosities
 **Engaging Live Performances** : Anónima Morta Loquorquesta is highly regarded for their live shows, especially at festivals, where they are effective at energizing and engaging large crowds. "suelen dar muy buenos conciertos hecho cuando van a los festivales suelen como mover mucha la gente." ← Music Radar Clan > Lanzamientos ABRIL 2018 | https://www.youtube.com/watch?v=3_SAz8OxeIA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← anónima-morta-loquorquesta
 
+
+
+## charts
+**"473" — NME Chart** : 16 semanas.

@@ -99,3 +99,62 @@
 ## instruments
 - Batería
 - Vox units
+
+
+## awards
+**Libera Award for Record of the Year** : Won.
+**Muso Awards (2005)** : Won.
+**Q Awards (2006)** : Nominated.
+**NME Awards (2006)** : Nominated.
+**NME Awards (2006)** : Won.
+**BRIT Awards (2006)** : Won.
+**Q Awards (2006)** : Won.
+**PLUG Independent Music Awards (2007)** : Nominated.
+**Meteor Music Awards (2007)** : Nominated.
+**Q Awards (2007)** : Nominated.
+**BRIT Awards (2007)** : Won.
+**Meteor Music Awards (2007)** : Won.
+**PLUG Independent Music Awards (2007)** : Won.
+**Q Awards (2007)** : Won.
+**BRIT Awards (2008)** : Nominated.
+**NME Awards (2008)** : Nominated.
+**NME Awards (2008)** : Won.
+**BRIT Awards (2008)** : Won.
+**Q Awards (2009)** : Nominated.
+**Q Awards (2009)** : Won.
+**NME Awards (2010)** : Nominated.
+**NME Awards (2010)** : Won.
+**MTV Europe Music Award for Best Alternative (2011)** : Nominated.
+**MTV Europe Music Award for Best World Stage Performance (2012)** : Nominated.
+**BRIT Awards (2012)** : Nominated.
+**MTV Europe Music Award for Best Alternative (2012)** : Nominated.
+**NME Awards (2012)** : Nominated.
+**NME Awards (2012)** : Won.
+**MTV Europe Music Award for Best Alternative (2013)** : Nominated.
+**Q Awards (2013)** : Nominated.
+**Q Awards (2013)** : Won.
+**MTV Europe Music Award for Best Rock (2014)** : Nominated.
+**Q Awards (2014)** : Nominated.
+**NME Awards (2014)** : Nominated.
+**NME Awards (2014)** : Won.
+**BRIT Awards (2014)** : Won.
+**NME Awards (2015)** : Won.
+**BRIT Awards (2023)** : Nominated.
+
+## charts
+**""Brianstorm" †" — UK Indie Singles Chart** : 2007.
+**"Fluorescent Adolescent" — UK Indie Singles Chart** : 2007.
+**"Teddy Picker" — UK Indie Singles Chart** : 2007.
+
+## lists
+**"Favourite Worst Nightmare" (2007) — AOTY Must Hear 2000s** : #143, 80 AOTY.
+**"Whatever People Say I Am, That's What I'm Not" (2006) — AOTY Must Hear 2000s** : #212, 83 AOTY.
+**"AM" (2013) — AOTY Must Hear 2010s** : #662, 81 AOTY.
+**"The Car" (2022) — AOTY Must Hear 2020s** : #385, 80 AOTY.
+**"AM" (2013) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #346, 81 AOTY.
+**"AM" (2013) — Pitchfork: The 200 Best Albums of the 2010s** : #152, 81 AOTY.
+**"When The Sun Goes Down" (2006) — Sputnikmusic Best Albums 2006** : #45, 4.15 Sputnik.
+**"I Bet You Look Good On The Dancefloor" (2006) — Sputnikmusic Best Albums 2006** : #171.
+**"Leave Before The Lights Come On" (2006) — Sputnikmusic Best Albums 2006** : #173.
+**"Whatever People Say I Am, That's What I'm Not" (2006) — Sputnikmusic Best Albums 2006** : #195, 83 AOTY.
+**"Brianstorm" (2007) — Sputnikmusic Best Albums 2007** : #115, 4.03 Sputnik.

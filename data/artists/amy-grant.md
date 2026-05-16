@@ -11,3 +11,20 @@
 
 ## songs
 **Baby Baby** : This was one of Amy Grant's pop hits. "Yes, she has pop hits like baby baby." ← For the Record - The 70s > Ep. 32 - Take Me to Church - Religion in 70s Popular Music | https://seventies.libsyn.com/ep-32-take-me-to-church-religion-in-70s-popular-music
+
+
+## awards
+**Covenant Awards** : Won.
+**Gospel Music Hall of Fame** : Won.
+**star on Hollywood Walk of Fame** : Won.
+**Kennedy Center Honors (2022)** : Won.
+
+## charts
+**"Baby Baby" — Billboard Year-End Hot 100** : #10, 1991.
+**"Every Heartbeat" — Billboard Year-End Hot 100** : #28, 1991.
+**"Good for Me" — Billboard Year-End Hot 100** : #52, 1992.
+**"That's What Love Is For" — Billboard Year-End Hot 100** : #91, 1992.
+**"I Will Remember You" — Billboard Year-End Hot 100** : #96, 1992.
+
+## lists
+**"Heart in Motion" (1991) — Grammy Award: Album of the Year nominees** : #1992.
