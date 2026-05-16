@@ -37,7 +37,6 @@
 - Tutchains (collaborator)
 
 ## genres
-- (Not mentioned)
 - Avant-Garde
 - Experimental Hip Hop
 - Funky
@@ -47,15 +46,6 @@
 - Reggae
 - Soul
 - West Coast
-
-## labels
-- (Not mentioned)
-
-## concerts
-- (Not mentioned)
-
-## instruments
-- (Not mentioned)
 
 ## albums
 **DAMN. (2017) - Album of the Year** : This album was widely regarded as the album of the year by most publications. It followed two previous incredible albums, further deepening Kendrick Lamar's increasingly personal style. "dam es el álbum del año para la mayor parte de publicaciones." ← Music Radar Clan > Mejores discos del 2017 | https://www.youtube.com/watch?v=T34CwsFmXpI&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← kendrick-lamar

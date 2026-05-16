@@ -10,18 +10,6 @@
 **Most Powerful Woman in Music** : Beyoncé is widely considered to be "probably the most powerful woman in music today," reflecting her immense influence and standing within the industry. "And we can't not mention Beyoncé, who is probably the most powerful woman in music today." ← https://www.youtube.com/watch?v=11UsTJQyQds ← beyoncé
 **Music for Confidence** : Beyoncé's music was listed among artists that make people feel the most confident, alongside Lizzo, Taylor Swift, Adele, and Lady Gaga. "The music that makes people feel the most confident, Lizzo, Taylor Swift, Adele, Beyoncé, and Lady Gaga." ← https://www.youtube.com/watch?v=KtdIMNoHqA8 ← beyoncé
 
-## genres
-- (Not mentioned)
-
-## labels
-- (Not mentioned)
-
-## concerts
-- (Not mentioned)
-
-## instruments
-- (Not mentioned)
-
 ## albums
 **Beyoncé (2013)** : A self-titled album released by Beyoncé on Friday, June 10, 2013, as a surprise. This unconventional Friday release date, before the establishment of the global release day, gave her a strategic head start over other artists for chart sales, as it allowed her first chart week to include Friday, Saturday, Sunday, and Monday, thereby artificially inflating her initial sales figures. "She decided to mess things up with a surprise release of a self titled album on June 10, 2013, which was a Friday." ← https://www.youtube.com/watch?v=GlcOoINI7EQ ← beyoncé
 **Lemonade** : This album was initially released under an exclusive contract with Apple Music, which Beyoncé later completely regretted. She has referenced this exclusive deal in her songs, indicating that it took a toll on her. "no tenemos el Lemony por un contrato exclusivo que hizo con Apple Music del que se acabó completamente repintiendo por el que yo estén en la exclusiva del Lemony, en el cual Villonz se en alguna canción ha dicho que la ha pasado factura" ← Music Radar Clan > Artistas que no están en Spotify y por qué | https://www.youtube.com/watch?v=RQYV60lqU8Y&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← beyoncé

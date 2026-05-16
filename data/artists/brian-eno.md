@@ -4,7 +4,6 @@
 - Ambient Music
 - Ambient Pop
 - Electronic Music
-- (Not mentioned)
 - Ambient
 - Art Rock
 - Electronic
@@ -14,7 +13,6 @@
 
 ## instruments
 - Synthesizers
-- (Not mentioned)
 - Synthesizer
 
 ## albums
@@ -85,8 +83,5 @@
 - Roxy Music
 
 ## labels
-- (Not mentioned)
 - Polydor (implied, by reference to his earlier work)
 
-## concerts
-- (Not mentioned)

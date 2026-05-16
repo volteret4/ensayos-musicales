@@ -6,16 +6,13 @@
 ## labels
 - Beggars Banquet Records (via Beggars Group)
 - Third Man Records
-- (Not mentioned)
 - Third Man Records (founder)
 
 ## concerts
 - Record Store Day
-- (Not mentioned)
 
 ## instruments
 - All instruments (on "Another Way to Die")
-- (Not mentioned)
 - Red Airline Rezo Glass
 - drums (initially wanted to play)
 - guitar
@@ -79,5 +76,4 @@
 - Jack Gillis (birth name)
 
 ## genres
-- (Not mentioned)
 - punk rock

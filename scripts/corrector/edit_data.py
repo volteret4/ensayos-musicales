@@ -599,8 +599,8 @@ def rebuild_db():
         os.remove(DB_PATH)
     env = os.environ.copy()
     env['MUSIC_DATA_FOLDER'] = DATA_FOLDER
-    r1 = subprocess.run([sys.executable, 'scripts/4_md_to_sqlite.py'],  capture_output=True, text=True, env=env)
-    r2 = subprocess.run([sys.executable, 'scripts/5_find_mentions.py'], capture_output=True, text=True, env=env)
+    r1 = subprocess.run([sys.executable, 'scripts/5_md_to_sqlite.py'],  capture_output=True, text=True, env=env)
+    r2 = subprocess.run([sys.executable, 'scripts/6_find_mentions.py'], capture_output=True, text=True, env=env)
     return {
         'ok':  r1.returncode == 0,# and r2.returncode == 0,
         #'out': (r1.stdout).strip(),

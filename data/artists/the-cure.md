@@ -16,8 +16,6 @@
 - Alternative Music
 - Alternative Rock
 - Goth
-- Goth (first generation, though disputed)
-- Goth (implied)
 - Goth Rock
 - Gothic rock
 - Indie Rock

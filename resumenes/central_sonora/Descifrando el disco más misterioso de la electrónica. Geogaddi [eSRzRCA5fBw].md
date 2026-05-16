@@ -1,0 +1,49 @@
+# artist - Borsov-Canada
+
+## genres
+Música electrónica
+
+## labels
+Warp
+
+## albums
+**Music House de White Toothchildren (1998) - Debut Album** : Released after the band formed in the late 80s, this album was a critical and public success. Its release marked the beginning of an aura of secretiveness around the band, fueled by their scarce public appearances and concerts, and speculation about hidden messages in their music. "Ese disco sería un éxito en crítica y público."
+**Yogadis (2002) - Second Album** : Released surprisingly after a four-year wait since their debut, this album is described as darker and more psychedelic than its predecessor, featuring almost alchemical imagery. Its elusive nature and the band's minimal comments have fascinated critics and fans for years, leading to extensive attempts to unravel its secrets on forums and social media, which only amplifies its mystique. "Yogadis es el segundo disco de los escoceses Borsov-Canada."
+
+## songs
+**Alpha and Omega (2002)** : One of the conventional-length rhythmic songs on "Yogadis," described as being charged with mysticism. It is considered by some to be the band's best song and is rumored to have influenced David Bowie for his album "Blackstar." "Para mí, la mejor canción de la banda, y la cual, según he podido leer por ahí, influenció David Bowie para su disco Blackstar."
+**Down Chorus (2002)** : A song from "Yogadis" that references the electromagnetic phenomenon occurring at dawn. This "dawn chorus effect" produces a sound in radio devices reminiscent of birdsong at sunrise. "O Down Chorus, la cual hace referencia al fenómeno electromagnético que ocurra la manacer y que producen dispositivos de radio, un sonido aparecido del canto de los pájaros en la manacer."
+**Jero Scoop (2002)** : This track from "Yogadis" is noted for containing samples taken from enigmatic "numbers stations." These radio signals are believed to have been used to send encrypted messages to spies through sequences of numbers, peculiar melodies, or spoken phonemes. "Podemos escucharla en una de las canciones, más fascinante y inquietantes que he escuchado nunca. Jero Scoop."
+**Apening de Mouth (2002)** : A song title from "Yogadis" that generates speculation, referencing the ancient Egyptian ritual of "Opening of the Mouth." This process involved using a chisel to open the mouths and eyes of mummies, allowing them to eat and see in the afterlife. "Apening de Mouth es un proceso del antiguo hípto que consistían abrir la boca de los ojos de las mómias con un cincel para que puedan alimentarse y ver."
+**horizon radar (2002)** : Another song title from "Yogadis" that fuels speculation, relating to technology. It refers to a technology designed to detect objects at distances far greater than what the visual horizon normally permits. "o ver de horizon radar, la cual es una tecnología para detectar objetos a distancias mucho mayores de lo que permite el horizonte visual."
+
+## curiosities
+**Band Formation and Early Secretiveness** : Borsov-Canada began their journey in the late 1980s, but their debut album wasn't released until 1998. Following this, an aura of secretiveness grew around the band, largely due to their rare public appearances and few concerts, coupled with speculation about hidden messages embedded within their music. "La banda empezó a sandadura a finales de los años 80, pero su primer álbum, Music House de White Toothchildren, no llegaría hasta 1998."
+**Yogadis Title Interpretation** : The band has offered few clues about the meaning of the album title "Yogadis," stating it comprises several words and leaving its interpretation to the listener. The most widespread explanation breaks it down into "Leo" (earth), "Gat" (a form of God), and "D" (a prefix that implies meaning), leading to the interpretation "Two Gods on Earth." "La explicación más extendida es la de que se compone de tres palabras, siendo la primera lleo, que significa tierra, Gat, que viene a ser uno fue mismo de God, o sea Dios, y por último D, prefijo que significados."
+**Number 6 Symbolism in Yogadis** : The number six is a pervasive motif throughout the album "Yogadis" and a major source of speculation among fans and critics. The album's cover features a kaleidoscopic image repeated six times, the total duration of the album is 66 minutes and six seconds, and its WAV file size on a computer is reported as 666 megabytes. "El número 6 va a ser una constante a lo largo del disco, y es uno de los principales motivos de especulación."
+**Yogadis Artwork and Blurred Childhood** : The album's cover features a kaleidoscopic image repeated six times against a yellow and red background, while the interior artwork includes kaleidoscopic images of children playing, some appearing "burned." This deconstruction, characterized by repetition, the number six, and the unclear images of children, suggests the album is a collection of memories viewed through the prism of a blurred childhood. "Esa de construcción, dominada por la repetición, el número 6 y las imágenes poco claras de esos niños, nos puede estar adelantando lo que es este disco, una colección de recuerdos vistos por un prisma, de una infancia borrosa."
+**Yogadis Composition Process** : For the album "Yogadis," Borsov-Canada composed approximately 90 songs over a period of two years. Out of this extensive collection, only 23 tracks ultimately made the final cut for the album. "La banda compuso alrededor de 90 canciones durante dos años para el álbum, de las cuales tan sólo 23 pasaron el corte."
+**Yogadis Short Sound Fragments** : Many of the 23 selected tracks for "Yogadis" are short, evocative sound fragments, typically ranging between 10 and 50 seconds in length. These brief pieces are crucial to the album's peculiar structure, playing a vital role in its transitions and overall flow. "Muchas de ellas son pequeños fragmentos sonoros. Evocadores entre los 10 y 50 segundos, las cuales juegan un papel crucial en la transición y el flujo del disco."
+**Yogadis Reverse Audio and Backmasking** : The album "Yogadis" extensively uses sounds played in reverse, a technique that has led to fascinating discoveries. A user uploaded the album to YouTube played backward, revealing that it "surprisingly makes quite a lot of sense," with some songs sounding similar to their originals while others take on entirely new forms. The album also features examples of backmasking, or subliminal messages reproduced backward, which have fueled controversies and various interpretations. "El disco también está repleto de sonidos reproducidos al revés."
+**Yogadis Interpretations: Post-Apocalyptic Narrative** : Beyond individual song titles and symbolic elements, "Yogadis" has given rise to many interpretations, including the theory that it narrates a post-apocalyptic story. This view interprets the album as an attempt to reconstruct the history of humanity from residual fragments, such as home recordings and radio broadcasts that have lingered in the air. "Todos estos elementos y muchos más ocultos en las letras han dado pie a muchas interpretaciones, como que el disco narra es la del posapocalipsis, la cual interpreta el disco como un intento de reconstruir la historia de la humanidad a partir de los fragmentos que dejamos, fragmentos de grabaciones caseras y misoras de radio que han flotado en el aire."
+**Yogadis: A Mysterious and Emotionally Complex Work** : "Yogadis" is described as a puzzle, generating a wide range of emotions and becoming the subject of numerous conjectures. Despite these diverse interpretations, the album is praised for achieving a perfect balance between being relaxed, tense, calm, and eerie. Since its launch in 2002, its depth and emotional impact have continued to grow for many listeners. "Lo que es cierto es que son rompecabezas, dascenzos y desfenzos, un disco que te despierta muchas emociones, y que debido a ello ha sido víctima de múltiples conjeturas, las cuales pueden llegar a atacar su escucha, que es lo verdaderamente esencial del disco, porque yo gadi logró un perfecto equilibrio entre ser relajado, tenso tranquilo y espelodnante, y el cual, para mí, desde su lanzamiento en aquel dejanos 2002, no ha dejado de crecer."
+
+# artist - David Bowie
+
+## albums
+**Blackstar (2016)** : This album, released shortly before Bowie's death, is believed by some to have been influenced by Borsov-Canada's song "Alpha and Omega" from their 2002 album "Yogadis." "influenció David Bowie para su disco Blackstar."
+
+# genre - Música electrónica
+
+## curiosities
+**Criticism of Electronic Music** : A common argument used to criticize electronic music is that it lacks soul or message. However, the album "Yogadis" by Borsov-Canada is presented as a counter-example, demonstrating that such criticisms can be quite mistaken. "Uno de los argumentos que utiliza la gente a la hora de criticar la música electrónica es que no tiene alma ni mensaje."
+
+# label - Warp
+
+## curiosities
+**Association with Borsov-Canada** : The Scottish band Borsov-Canada is closely associated with the electronic music current centered around the Warp label. The label is mentioned in connection with the band's musical style and influences. "Vanda que se puede escribir a la corriente EDM, focalizada en torno al sello Warp."
+
+# instrument - Numbers Stations (radio signals)
+
+## curiosities
+**Use in Music Sampling** : Enigmatic "numbers stations" are a source of strange samples found in the album "Yogadis." These radio signals are believed to have been used to send encrypted messages to spies since World War I, employing sequences of numbers, peculiar melodies, or phonemes read aloud. "Algunos de estos sonidos están sacados de las enigmáticas estaciones de números, las cuales son señales de radio que se creen, son utilizadas para enviar mensajes cifrados a espías, utilizando secuencias de números, extrañas melodías o fonemas leídos en voz alta."

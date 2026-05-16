@@ -1,0 +1,54 @@
+# instrument - Turntable
+
+## instruments
+Felt Mat
+Cork Mat
+Leather Mat
+Metal Platter
+Belt Drive System
+Direct Drive System
+Strobe Light
+45 RPM Adapter
+Tonearm
+Tonearm Counterweight
+Anti-skating Control
+Vertical Tracking Angle (VTA) / Tonearm Height Adjustment
+Headshell
+Sound Cartridge
+Stylus (Needle)
+Rhodium Stylus
+Sapphire Stylus
+Diamond Stylus
+Ceramic Stylus
+
+## curiosities
+**Akai M+J 1200 Turntable Example** : This specific model is used as a mid-range, acceptable example to explain the functioning of a turntable. "este es un aquella más de jota 1200, es un tocadiscos de gama media como muchos que hay, pero que es bastante aceptable."
+**Felt Mat (Platter Mat)** : A felt mat is placed on the platter to prevent the vinyl record from rubbing against the metal platter. While classic felt is common, cork and leather mats are also used, with some materials subtly affecting sound quality. "sirven para evitar que el disco de vinilo se roce con el plato de metal."
+**Platter** : The metal platter is the rotating component that directly moves the vinyl record. Removing it reveals the internal mechanism, which can be either belt-drive or direct-drive. "esto es lo que mueve el disco de vinilo."
+**Belt Drive System** : In a belt-drive system, the motor is located to the side of the platter and drives it via an internal belt connected from the motor to the metal platter. "los que tienen tracción por correa tienen el motor en un lateral y mueven el plato mediante una correa que va del motor al plato de metal por dentro."
+**Direct Drive System** : In a direct-drive system, the motor is centrally located, directly moving the metal part that drives the platter. "el cual tiene su motor en el centro, moviendo la parte de metal que mueve el plato."
+**Direct Drive vs. Belt Drive Comparison** : While often debated, neither system is inherently superior; preference is personal. Direct drive offers more reliable playback speed but the central motor can transmit vibrations to the vinyl, potentially affecting sound. Belt-drive systems move motor vibrations away from the record's center, potentially offering better sound quality, but require belt maintenance and are susceptible to speed fluctuations if the belt wears out. "realmente no es que un sistema sea mucho mejor que otro sino que depende un poco de las preferencias personales."
+**Technics Direct Drive with Quartz Lock** : Technics developed a superior direct-drive system with quartz lock, but it is extremely expensive and uncommon for practical home use. "ha desarrollado tecnis hace unos años pero que es tan caro que yo creo que en la práctica prácticamente ninguno de vosotros vais a tener un tocado disco con eso."
+**Belt Drive Popularity** : Belt-drive systems became popular for high-quality home listening due to their ability to displace motor vibrations. DJs also found them convenient because the motor suffered less stress when manually manipulating the platter (scratching or stopping) as the force was primarily absorbed by the belt. "El sistema de correa se hizo muy popular porque para los platos de alta calidad para escuchar en casa estaba muy bien porque desplazaban la sonido de vibración."
+**Strobe Light and Platter Markings** : Turntables feature lights (main and secondary) that interact with small embossed circles on the platter's rim. This optical illusion creates a static appearance when the platter is rotating at the correct speed, indicating accurate playback. If the speed is altered (manually via pitch control or due to motor drift), the circles appear to move, aiding manual speed adjustment, especially useful for DJs. "nos ayudan a identificar que la velocidad de reproducción del plato es correcta."
+**45 RPM Adapter** : A small central circle accessory is used to position 7-inch singles, which often have a larger central hole, on the turntable. "este pequeño círculo es para posicionar en el centro para los singles de que tienen el orificio central bastante más grande."
+**Playback Speeds (RPM)** : Turntables typically offer 33 and 45 revolutions per minute (RPM). Many models also provide 78 RPM when both buttons are pressed simultaneously, though this speed is rarely used. "33 revoluciones, 45 revoluciones y pulsas los dos juntos en la mayoría de ellos sale las 78 revoluciones."
+**Headshell, Tonearm, and Cartridge** : The core of the sound system comprises the headshell, tonearm, and cartridge (which houses the stylus/needle). "el cabezal que tiene su cabezal madre, su brazo y su cápsula que es donde está la aguja y realmente el sistema de sonido."
+**Tonearm Counterweight** : The counterweight, located at the back of the tonearm, is crucial for regulating the tracking force (pressure) of the stylus on the vinyl record, measured in grams. To set it to zero, the tonearm is balanced until it floats freely without falling or pulling back. Once balanced, the counterweight's dial is set to zero, establishing a baseline. This adjustment is essential because tracking force varies based on the turntable model, cartridge, and replacement parts. "nos ayuda a regular la presión con la que la aguja va a prestar el disco de vinilo y se mida en gramos."
+**Stylus Tracking Force (Weight)** : After zeroing the counterweight, it's adjusted to apply the desired tracking force, which typically ranges between 2.2 and 3 grams for most turntables. While manufacturers provide recommended settings, personal preference plays a role; some add slight extra weight to prevent skips, while others use less to reduce vinyl wear. "entre los dos gramos y pico 2, 2, 2, 3 y los tres gramos van a funcionar bien todos los platos prácticamente."
+**Anti-skating Control** : The anti-skating mechanism is a dial that applies an outward force to the tonearm, counteracting the inward pull caused by the stylus tracking the record's groove. It helps keep the tonearm stable, prevents skipping, and ensures even wear on both groove walls. Typically, the anti-skating setting matches the tracking force (e.g., 2.5 grams tracking force, 2.5 anti-skating). However, excessive anti-skating can cause uneven wear on the left (inner) audio channel and imbalance the sound output. "nos ayuda a mantener el brazo fijo y evitar que haga más altos agujas o que se pueda mover por error y saltar."
+**Vertical Tracking Angle (VTA) / Tonearm Height Adjustment** : This control adjusts the height of the tonearm, ensuring the stylus enters the groove at the correct vertical angle. If the tonearm is too high or too low, the stylus will be too inclined, causing excessive record wear or poor sound. It's considered less critical for standard setups but more relevant for specialized cartridges. "anivilar el brazo para que la aguja no entre demasiado perpendicular."
+**Tonearm Internal Wiring** : The tonearm houses the internal circuitry that connects the headshell/cartridge to the turntable's output. "por el que circulan todos los circuitos que unen la cápsula del cabezal con el tocadiscos."
+**Headshell, Cartridge, and Stylus - Core of Sound Quality** : The headshell assembly, including the sound cartridge and stylus (needle), is highlighted as the primary determinant of a turntable's sound quality. "Aquí en el cabezal es donde se esconde prácticamente todo el secreto de la calidad de sonido de tu tocadiscos."
+**Headshell Wiring** : Good cartridges are typically connected via four color-coded wires (red, blue, green, white). These wires represent left channel, right channel, ground reference, and earth ground, not just left/right audio. "las cápsulas buenas suelen estar conectadas por cuatro cables, que suelen ser siempre por estos colores en roja azul verde y blancas."
+**Cartridge (Capsule)** : The cartridge is the component at the headshell where the sound is generated, containing the stylus. "la cápsula que es esta cabeza donde se ejecuta el sonido."
+**Stylus (Needle) Materials** : The stylus, or needle, is the tip of the wire that traces the groove. Basic styli, often made of rhodium, have a lifespan of about 100 hours before showing wear. Higher quality styli, such as those made of sapphire or diamond (considered the best), can last up to 1000 hours without significant deterioration. Newer ceramic styli are emerging as a more durable option. "las agujas más básicas que tienen los tocadiscos baratos suelen estar hechas de rodeos o de una duración de unas 100 horas antes de empezar el desgaste pero tenemos otro tipo de calidad como las de zafiro o las de diamante que son las mejores pueden llegar a acumular hasta 1000 horas de uso sin deteriorarse."
+**Stylus (Needle) Shapes** : Styli come in various shapes, including circular and elliptical, among others. While these shapes offer minor variations in wear and sound quality, the material quality of the stylus is more significant than its shape for overall performance. "Pueden ser circulares, elípticas y de ahí varias formas."
+**Turntable Feet (Adjustable)** : Quality turntables feature adjustable feet, which serve two critical functions: absorbing vibrations from the floor (e.g., from footsteps or nearby speakers) and leveling the turntable on uneven surfaces. This seemingly minor component is vital for stable playback and sound quality. "ayudan a absorber muchas vibraciones que vienen del suelo."
+**External Ground Connection** : In addition to the internal ground wire from the headshell, turntables feature an external ground terminal. This output allows the absorbed static electricity to be connected to an external amplifier or receiver, effectively dissipating it from the system. "la salida externa de la toma de tierra."
+
+# curiosity
+
+**Challenge of Buying a Turntable** : Buying a turntable is described as one of the most stressful moments for music enthusiasts due to the complexity of choosing the right one, leading many to make mistakes with their first purchase. "comprarse un tocadiscos, yo creo que siempre es uno de los momentos más estresantes de todo aficinado la música."
+**Vinyl Static Electricity and Grounding** : Vinyl records, made of polyvinyl chloride plastic, accumulate static electricity. The stylus rubbing against the groove generates even more static during playback. A dedicated earth ground connection is crucial in a turntable to absorb and dissipate this static electricity from the stylus and platter, preventing it from interfering with the sound. Many stylus skips are attributed to static accumulation rather than mechanical movement. "La aguja al rozar el disco de vinilo genera todavía más electricidad estática, solo por el hecho de sonar."
+**Turntable Price vs. Quality** : The price of a turntable is not always directly correlated with its quality, which can make the purchasing process frustrating for consumers. "su precio no tiene por qué estar relacionado con la calidad del plato en sí."
