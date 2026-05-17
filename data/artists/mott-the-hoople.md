@@ -1,10 +1,19 @@
-# artist - Mott the Hoople
-
-## genres
-- Glam Rock
+# artist - Mott The Hoople
 
 ## songs
-**All the Young Dudes (1972)** : This 1972 hit, written by David Bowie and performed by Mott the Hoople, was a key inspiration for Noel Gallagher while writing Oasis' "Don't Look Back In Anger." "His inspiration was the Bowie written, Moth the Hoopal performed hit, all the young dudes from 1972." ← https://www.youtube.com/watch?v=IhG-WJH9om8 ← mott-the-hoople
+**All The Young Dudes (1972) - Bowie-Penned Hit** : This glam anthem was written and produced by David Bowie, becoming Mott The Hoople's first Top 40 hit in America, reaching number 37. Casey Kasem highlighted the unusual situation where their producer, Bowie, was "100 times better known" but had yet to score a Top 40 hit himself. "The group is Mott The Hoople, and they're at number 37 with all the young dudes." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 1 | https://shows.acast.com/hit-parade/episodes/696aa42a4796fcbb571adba7
 
 ## curiosities
-**Glam Rock Act** : Mott the Hoople was one of the many UK acts that adopted and adapted the glam rock style influenced by David Bowie and Mark Bolan in the early 1970s. "Mont the Hoopal." ← https://www.youtube.com/watch?v=blDNqVFheAw ← mott-the-hoople
+**Bowie's First Top 40 Hit as Writer/Producer** : Mott The Hoople achieved their first Top 40 hit on the Hot 100 with "All The Young Dudes," a song written and produced by David Bowie. This marked Bowie's first indirect entry into the Top 40, before he had a major US hit of his own. "Fun fact, Bowie first cracked the Hot 100's Top 40, not with one of his own songs, but with a glam anthem he wrote and produced for British band, Mott The Hoople." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 1 | https://shows.acast.com/hit-parade/episodes/696aa42a4796fcbb571adba7
+
+
+
+## awards
+**MOJO Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3319330
+
+## charts
+**""Roll Away the Stone" ‡" — UK Singles Chart** : #5, 1974. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+
+## lists
+**"Mott" (1973) — 1001 Albums You Must Hear Before You Die** : #285.
+**"Mott" (1973) — Scaruffi 1970s** : #419. ← Scaruffi | https://scaruffi.com/music/best.html

@@ -1,0 +1,6 @@
+# artist - Daddy Yankee
+
+## songs
+**Despacito (2017)** : Daddy Yankee was featured on Luis Fonsi's "Despacito," the 2017 Billboard Song of the Summer winner. This song achieved "biggest Latin pop crossover hit of all time" status, and its music video has amassed 8 billion views on YouTube. "What's crazy about Desbasito by Luis Fonsey and Daddy Yankee is it was released and first topped the Latin songs chart in the winter. But that was before the Justin Bieber remix which got the song to number 1 on the hot 100 just after Memorial Day, fulfilling its destiny as a hot weather classic." ← Hit Parade Music History and Music Trivia > Song(s) of the Summer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef50c30a1408dc292e4
+**Gasolina (2004)** : This reggaeton song was initially rejected by traditional radio stations like Los 40 Principales. However, it found significant popularity through reality shows like Gran Hermano and, crucially, as a polyphonic ringtone. Reggaeton, which sounded more natural in the multi-channel sound of polytones than rock, gained ground through these alternative platforms. "Al principio, cadenas como los 40 principales se negaban a programar canciones como Papichulo, Del Orna o Gasolina de Daddy Yankee." ← Por qué ya no elegimos nuestro tono de llamada？ | https://www.youtube.com/watch?v=PVZrB26sBlQ
+

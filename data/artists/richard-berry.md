@@ -1,5 +1,79 @@
 # artist - Richard Berry
 
-## songs
-**Louie Louie (1957) – Original Version** : Richard Berry released the original version of "Louie Louie" in 1957. The song tells the story of a sailor returning to Jamaica to reunite with his true love, and it was later covered extensively by other artists, most notably The Kingsmen. "The original version of Louis Louis from 1957 by Richard Berry." ← https://www.youtube.com/watch?v=L0j9iDuHQVA
+## member of
+- The Debenares
+- The Dreamers
+- The Flamingos (original group that became The Platters)
+- The Hollywood Blue Jays
+- The Platters
 
+## members
+- Arthur Lee May and the Crowns
+- The Debenares
+- The Dreamers
+- The Fair Rose
+- The Five Hearts
+- The Flamingos (bass)
+- The Flares (bass)
+- The Rams
+- The Rhythm Rockers (singer)
+- The Robbins (lead vocals, subbing for Bobby Nunn)
+
+## genres
+- Cruelling
+- Gritty Blues
+- R&B
+- Rock and Roll
+- Soul Music
+
+## labels
+- Dolphins of Hollywood
+- Flair Records
+- Flip Records
+- Modern Records
+
+## instruments
+- Bass (vocals)
+- Piano
+- Tenor (vocals)
+
+## albums
+**Hundreds of Records (1952-early 1960s)** : Richard Berry was featured on literally hundreds of records between 1952 and the early 1960s, appearing under many names. Many of these were considered classics of the genre, many others were derivative hack work, and more than a few managed to be both. "Between 1952 and the early 60s, Barry was on literally hundreds of records, under many names, and it's likely we will never accurately know all of them." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+
+## songs
+**Have Love Will Travel** : Richard Berry composed this song as a follow-up to his local hit "Louie Louie," but it did not achieve commercial success. Despite its quality, it couldn't replicate the unexpected popularity of its predecessor. "He did come up with a great follow up, Have Love Will Travel, but that wasn't a hit." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Hollywood Blue Jays' first record (1952) - B-side** : Richard Berry was featured on the B-side of The Hollywood Blue Jays' first record, released by John Dolphin, with Cornell Gunter singing lead on the A-side. The group, originally The Debenares, was disappointed by the uncredited release. "The A-side featured Gunter on lead. While the B-side featured Barry." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Look Out Miss James** : Richard Berry considered "Louie Louie" just another song he'd written, no more important than this and "Rockin' Man," reflecting his initial perspective before its widespread impact. "Louis Louis was just another song he'd written, no more important than Look Out Miss James or Rockin' Man" ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Louie Louie (1957) - Original Version** : Richard Berry's most famous song, which he initially intended to have a Latin feel but altered to straight-ahead R&B at his record label's insistence. Released as the B-side to "You Are My Sunshine" on Flip Records, it became a minor local hit in Los Angeles. The song had its genesis in the intro of René Touzet's "L-Loco Cha-Cha-Cha," and borrowed its vocal melody and lyrical theme from Chuck Berry's "Havana Moon." "Barry's most famous song, Louis Louis, was both. There is nothing original about Louis Louis, yet it had an inculcable effect on popular music history, and Barry's original version is a genuinely great record." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Louie Louie (1957) – Original Version** : Richard Berry released the original version of "Louie Louie" in 1957. The song tells the story of a sailor returning to Jamaica to reunite with his true love, and it was later covered extensively by other artists, most notably The Kingsmen. "The original version of Louis Louis from 1957 by Richard Berry." ← https://www.youtube.com/watch?v=L0j9iDuHQVA ← richard-berry
+**Riot in Cell Block Number 9** : Richard Berry sang lead vocals on this song by The Robbins, subbing for their normal bass singer Bobby Nunn at the request of Lieber and Stoller. The Beharry Brothers, to whom Berry was under contract, recognized his voice and were annoyed. "one of the sessions that Barry had sung on was The Robbins right in cell block number 9, where Lieber and Stuller had asked him to sing lead, subbing for The Robbins Normal bass singer Bobby Non." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Rockin' Man** : Richard Berry considered "Louie Louie" just another song he'd written, no more important than this and "Look Out Miss James," before its significant cultural influence. "Louis Louis was just another song he'd written, no more important than Look Out Miss James or Rockin' Man" ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**She Wants To Rock (1953)** : This Richard Berry song was released as the B-side to The Flares' first single for Flair Records, produced by Libre and Stolar. Its title was considered racy enough that DJ Hunter Hancock required the band to explain on his radio show that "rock" merely meant to dance. "Apparently in 1953, when that came out, the title was still considered racing enough that the DJ Hunter Hancock insisted on them going on his radio show, and explaining that by rock, they merely meant to dance, not anything more suggestive." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**The Big Break** : This song was a sequel to "Riot in Cell Block Number 9," written by Richard Berry himself. He was promoted as a solo artist by the Beharry Brothers after they recognized his voice on the earlier track. "But they got Barry to start a solo career with a sequel to Riot, The Big Break, which he wrote himself." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Yamma Yamma Pity Mama** : A solo recording by Richard Berry, described as a "Little Richard knock-off," released during his solo career in the late 1950s. This song was part of his efforts to record as much as possible for session fees. "recording songs like The Little Richard Knock-Off, Yamma Yamma Pity Mama." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**You Are My Sunshine** : This song was released as the A-side to Richard Berry's original 1957 recording of "Louie Louie" on Flip Records. "which was released as the B side to a version of You Are My Sunshine, and became a minor local hit." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+
+## curiosities
+**"Louie Louie" as a Multi-Genre Hit** : Richard Berry noted that only Barry White and other ex-Jefferson High students created a version of "Louie Louie" that truly matched his original Latin-infused vision, as they added the Latin percussion he had wanted before being pushed towards an R&B sound. "The only version that sounded like the record he'd wanted to make was the one by Barry White and other ex-Jefferson-high students, who had added the Latin percussion Berry had wanted to put on before he'd been told to make it more R&B." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Concurrent Group Memberships (1954)** : In 1954, Richard Berry was simultaneously a member of three groups – The Flares, The Crowns, and The Dreamers – while also conducting numerous recording sessions as a solo artist and as a duo with Janelle Hawkins. "At one point in 1954, Barry was in three groups at the same time. He was in The Flares, The Crowns and The Dreamers" ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Day Job as Record Smasher** : Despite "Louie Louie" becoming a minor local hit, Richard Berry earned so little from his music that he took a day job at a record pressing plant, where he was tasked with smashing returned records. He quit after being poorly treated by colleagues who failed to understand his lack of financial gain from the "hit" song. "When Louis Louis started getting played on local radio, people started giving him a hard time at work, asking why he needed that job when he had a hit record, not understanding that he was making no money from it." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Dismissal from The Flares** : The Flares eventually grew frustrated with Richard Berry's extensive involvement in other recording projects and groups, leading to his departure from the band. He immediately formed his own new group, The Fair Rose, and continued his prolific career. "The Flares eventually got sick of Barry working on so many other people's records and singing with so many groups, and so he was out of the group" ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Dock Worker due to Financial Hardship** : After his local hit and unsuccessful follow-ups, Richard Berry worked at the docks with his father, but his disability made the work impossible, forcing him to quit. "but he ended up working at the docks with his father, and he eventually had to quit that, because his disability made it impossible for him to do it." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Dual Vocal Range** : Richard Berry possessed a rare vocal talent, able to sing equally well in both bass and tenor ranges, and proficient in various styles, from gritty blues to Jesse Belvin's "cruelling." "Though Barry was one of those rare vocalists who could sing equally well in the bass and tenor ranges, and in every style from Gritty Blues to Jesse Belvin style cruelling." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Financial Turnaround and Death (1985-1997)** : Richard Berry experienced a dramatic financial turnaround, going from $240 a month on welfare in 1985 to earning $160,000 from "Louie Louie" in 1989. He died in 1997, "happy, respected and wealthy," having finally received deserved credit and recognition for his musical contributions. "He didn't get any back payment from what the song had already earned, but he went from getting $240 a month on welfare in 1985, to making $160,000 from Louis Louis in 1989 which had Berry died in 1997, happy, respected and wealthy." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**First Meeting with Jack Ely (1980s)** : During an "All Louie Weekend" radio event in the 1980s, Richard Berry performed "Louie Louie" live with Jack Ely, backed by his former rhythm section, Lady Bow and Herb And. This marked the first encounter between Berry and the man who made his song famous. "That was the first time Berry ever met the man who'd made his song famous." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Jefferson High School Musician** : Richard Berry was one of many notable musicians of the 1950s who attended Jefferson High School in Los Angeles, where he was deeply involved in the school's music scene. "Richard Barry was one of the many, many great musicians of the 50s to go to Jefferson High School in Los Angeles and was very involved in music at that school." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Later Work Mentioned in "The Wallflower" Episode** : The transcript references that Richard Berry's later musical contributions were discussed in a previous episode titled "The Wallflower," indicating his ongoing significance in music history beyond his early roles. "we've already heard some of what Richard Berry would do later on, in the episode on The Wallflower." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
+**Overcoming Disability and Aggression** : Having a limp and first playing music at a camp for disabled children, Richard Berry developed an aggressive attitude to avoid being perceived as "soft." However, he became a "changed character" when he learned good behavior was required to join the school a cappella choir, demonstrating his profound need for musical involvement. "When he arrived in the school, he had an aggressive attitude formed by a need to defend himself. He worked with a limb and had first started playing music at a camp for disabled kids, and he didn't want people to think he was soft because of his disability." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Partnership with Chuck Rubin (1980s)** : Richard Berry's friend Dali in Love introduced him to Chuck Rubin, who had founded a company to help black musicians secure unpaid royalties from old recordings, typically taking 50% of the recovered funds. Berry, like many others, viewed this as a preferable alternative to receiving nothing. "Berry, figured that 50% of the fortune was better than the 100% of nothing they were currently getting." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Post-Marriage Career Change and Welfare** : After his marriage ended, Richard Berry quit music to raise his daughter, returning to school and taking a day job. Later, an accident caused further disability, leading him to rely on welfare, while "Louie Louie" generated millions for others. "After his marriage ended, he quit working as a musician to raise his daughter, gone back to school and taken a day job." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Reclaiming "Louie Louie" Rights (1986)** : In 1986, Chuck Rubin's legal actions tying up "Louie Louie" prompted a company interested in using the song for a major TV advertising campaign to pressure the song's owner for a resolution. This led to Richard Berry regaining half the publishing rights and full songwriting rights, which he then split with Rubin. "In order to make sure the commercials used Louis Louis, the song's owner gave Berry half the publishing rights and full songwriting rights, which Berry then split with Rubin." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Royalties and Session Work Strategy** : Influenced by Jesse Belvin, Richard Berry learned that musicians rarely received royalties from recording contracts, regardless of what they signed. Consequently, he focused on singing on as many sessions as possible, pocketing a $50 fee for each. "he'd learned from Jesse Bellvin that it didn't matter what the contract said, you were never going to get any royalties when you made records." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Sale of Songwriting Rights (1959)** : In 1959, Richard Berry sold his songwriting rights to "Louie Louie" and several other songs to the owner of Flip Records for $750 to finance his wedding. Although he retained BMI royalties from radio play, he forfeited all income from record sales, sheet music, or film usage. "In 1959, in order to pay for his wedding, he sold his songwriting rights to Louis Louis and several of his other songs to the own Flip Records for $750." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+
+
+
+## lists
+**"I Want to See the Bright Lights Tonight" (1974) — 1001 Albums You Must Hear Before You Die** : #314.
+**"I Want to See the Bright Lights Tonight" (1974) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #485. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
+**"Shoot Out the Lights" (1982) — Pitchfork: The 200 Best Albums of the 1980s** : #161. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63

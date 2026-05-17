@@ -5,9 +5,9 @@
 - Eric Bloom
 
 ## songs
-**Don't Fear the Reaper** : The biggest song ever by Blue Öyster Cult, it was sung by guitarist Buck Dharma, rather than the regular lead vocalist Eric Bloom. "Another don't fear the Reaper the biggest song ever by blue oyster call It was sung by guitars buck Dharma and not regular lead vocalist Eric Bloom" ← https://www.youtube.com/watch?v=M1JTdUxOEMU ← blue-öyster-cult
+**Don't Fear the Reaper** : The biggest song ever by Blue Öyster Cult, it was sung by guitarist Buck Dharma, rather than the regular lead vocalist Eric Bloom. "Another don't fear the Reaper the biggest song ever by blue oyster call It was sung by guitars buck Dharma and not regular lead vocalist Eric Bloom" ← https://www.youtube.com/watch?v=M1JTdUxOEMU ← blue-öyster-cult ← blue-öyster-cult
 
 
 
 ## charts
-**""Sorry Seems to Be the Hardest Word" ‡" — UK Singles Chart** : #5, 2003.
+**""Sorry Seems to Be the Hardest Word" ‡" — UK Singles Chart** : #5, 2003. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart

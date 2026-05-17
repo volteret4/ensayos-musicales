@@ -1,0 +1,7 @@
+# artist - David Porter
+
+## curiosities
+**Discovering Booker T. Jones** : While at the "Because I Love You" session, when a baritone sax was needed, David Porter remembered his classmate Booker T. Jones from Booker T. Washington High School who could play many instruments. Porter then retrieved Jones from class to play on the record. "Porter popped over to the school, walked into the classroom Jones was in, told the teacher that another teacher wanted to see Jones, pulled him out of the class, and told him he was going to make a record." ← Episode 105： ＂Green Onions＂ by Booker T.and the MGs | https://www.youtube.com/watch?v=cw6xJG8E_w0
+**Skipping School for Studio Experience** : As a teenager, David Porter skipped school to attend the recording session for Rufus and Carla Thomas's "Because I Love You" at Stax, demonstrating his early passion for being in a professional studio environment. "Porter was skipping school so he could be in a real recording studio, even though he wasn't going to be singing on the session." ← Episode 105： ＂Green Onions＂ by Booker T.and the MGs | https://www.youtube.com/watch?v=cw6xJG8E_w0
+**Talented Songwriter and Backing Vocalist** : David Porter worked at the Big Star grocery store across the road from Stax and proved to be a talented songwriter and backing vocalist for the label. "David Porter was working at Big Star, the grocery store across the road, and he turned out to be a talented songwriter and backing vocalist." ← Episode 105： ＂Green Onions＂ by Booker T.and the MGs | https://www.youtube.com/watch?v=cw6xJG8E_w0
+

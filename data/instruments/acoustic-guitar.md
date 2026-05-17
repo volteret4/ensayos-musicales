@@ -1,8 +1,20 @@
-# instrument - Acoustic Guitar
+# instrument - Acoustic guitar
 
 ## curiosities
-**Prominence in 2010s Alt Rock** : Acoustic guitars were prominently featured in the music of a new generation of individual singer-songwriters, duos, or small combos in the 2010s, particularly in the softer side of alt rock. "What kind of music was big? Well, acoustic guitars, mandalins, banjos, ukulele's, accordions, played by a new generation of individual singer-songwriters, duos, or small combos." ← https://www.youtube.com/watch?v=sOU54d8mr5k
+**"Are You Lonesome Tonight?" Instrumentation (1960)** : For Elvis Presley's recording of "Are You Lonesome Tonight?", the instrumentation was sparse, featuring only acoustic guitar, bass, drums, and vocals. "which only featured acoustic guitar, bass, drums and vocals." ← Episode 82： ＂Are You Lonesome Tonight？＂ by Elvis Presley | https://www.youtube.com/watch?v=B0puRvUVwww
 
 ## artists
-- Mumford & Sons
+- Ash
+- Billy Talent
+- Elvis Presley
+- Ian Thornley
+- Johnny Cash
+- Johnny Cash and the Tennessee 2
+- Joni Mitchell
+- Ozark Mountain Daredevils
+- Sister Rosetta Tharp
+- Sister Rosetta Tharpe
+- The Mills Brothers
+- The Tennessee 3
+- USS
 

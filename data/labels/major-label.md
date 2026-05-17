@@ -1,8 +1,8 @@
-# label - Major Label
+# label - Major label
 
 ## curiosities
-**924 Gilman Street Ban** : The all-ages punk club at 924 Gilman Street in West Berkeley, California, enforces a strict rule prohibiting "major label bans allowed" [sic, implies major label bands]. This policy is listed alongside prohibitions against drugs, alcohol, violence, racism, and homophobia. Consequently, many prominent punk bands who got their start at Gilman Street, such as Green Day, The Offspring, AFI, Primus, and Bad Religion, are no longer welcome to perform there after signing with major labels. "No drugs, no alcohol, no violence, no racism, no homophobia, or major label bans allowed." ← https://www.youtube.com/watch?v=sKHdTSfDd6E
+**Swans' Signing and "The Burning World" Disaster** : Swans signed with a major label for the first time after their "Love Will Tear Us Apart" cover brought them significant popularity. This move provided them with important economic resources and the opportunity to work with a professional producer. However, the resulting album, *The Burning World* (1989), was an "absolute disaster," critically panned and commercially unsuccessful, signaling a difficult period for the band. "Por primera vez suans tenía unos recursos económicos importantes para grabar, tenía una discórafica relativamente fuerte para grabar y tenían productor profesional." ← Music Radar Clan > SWANS. Una visión del rock diferente | https://www.youtube.com/watch?v=sJ3HuN7woDc&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## artists
-- MXPX
+- Swans
 

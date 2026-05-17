@@ -1,0 +1,6 @@
+# instrument - SPC 700 chip
+
+## curiosities
+**Enhanced Audio Capabilities and Effects** : The presence of the SPC 700 chip significantly enhanced the Super Nintendo's sound potential, enabling composers to craft richer and more atmospheric game environments. It also allowed for the incorporation of advanced audio effects such as echo and reverb, features extensively utilized in iconic games like Chrono Trigger and Donkey Kong Country. "Esto permitió a los compositores crear ambientes más ricos y usar efectos como Echo y Reverb, cosa que aprovecharon juegos como Chrono Traeger o Donkey Kong Country." ← El fenómeno de Soundfont Album. Discos reinterpretados en videojuegos | https://www.youtube.com/watch?v=ekozTKngeAw
+**Super Nintendo Sound Processing Unit** : The Super Nintendo console incorporated the SPC 700 chip, which was instrumental in its audio capabilities. This chip provided eight distinct audio channels and introduced the ability to reproduce more realistic samples compared to earlier console sound hardware. "La super Nintendo, con su chip, SPC 700, por ejemplo, y contaba con ocho canales de audio, y la posibilidad de reproducir Samplez, algo más realistas." ← El fenómeno de Soundfont Album. Discos reinterpretados en videojuegos | https://www.youtube.com/watch?v=ekozTKngeAw
+

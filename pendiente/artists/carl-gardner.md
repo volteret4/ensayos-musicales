@@ -1,0 +1,12 @@
+# artist - Carl Gardner
+
+## member of
+- The Coasters
+
+## curiosities
+**Aspired to be Big Band Singer** : From the start of his career, Carl Gardner had aspirations to be a big band singer. His friend, Johnny Otis, consistently encouraged him to pursue the material he truly loved, rather than just the songs he performed with The Coasters. "Gardner had wanted, from the start, to be a big band singer, and his friend Johnny Otis had always encouraged him to try to sing the material he really loved, rather than the stuff he was doing with the coasters." ← Episode 68： ＂Yakety Yak＂ by the Coasters | https://www.youtube.com/watch?v=dtMHDD0-oOo
+**Hoped for Solo Career with "One by One"** : Carl Gardner saw The Coasters' "One by One" album, where he took the lead on four songs, as a significant opportunity to transition into a solo singing career. However, this ambition did not materialize as the album was not successful. "Gardner took lead on four songs, and seemed to have believed that this would be his big chance to transition into being a solo singer, but it didn't work out like that." ← Episode 68： ＂Yakety Yak＂ by the Coasters | https://www.youtube.com/watch?v=dtMHDD0-oOo
+**Lead Vocalist Role in The Coasters** : Carl Gardner, along with Billy Guy, often took the lead vocal parts in The Coasters' songs, particularly in the new style introduced with "Yakati Yak," where they sang in unison. "Here the lead vocal was taken in unison by the two longest serving members of the group, Gardner and Billy Guy." ← Episode 68： ＂Yakety Yak＂ by the Coasters | https://www.youtube.com/watch?v=dtMHDD0-oOo
+**Retained Legal Rights to Name** : Carl Gardner apparently retained the legal rights to the name "The Coasters." Despite this, other former members performed under variations of the name, such as "Cornel Gunter's Coasters." "Carl Gardner apparently retained the legal rights to the name The Coasters and were two people using it without his permission but that didn't stop other members performing on the names like Cornel Gunter's coasters which isn't precisely the same." ← Episode 68： ＂Yakety Yak＂ by the Coasters | https://www.youtube.com/watch?v=dtMHDD0-oOo
+**Widow Manages Touring Group** : Currently, one of the three separate touring groups using the name "The Coasters" is managed by Carl Gardner's widow. "The coasters is managed by Carl Gardner's widow." ← Episode 68： ＂Yakety Yak＂ by the Coasters | https://www.youtube.com/watch?v=dtMHDD0-oOo
+

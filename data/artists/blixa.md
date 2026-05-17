@@ -4,13 +4,13 @@
 - Einstürzende Neubauten
 
 ## curiosities
-**Extreme Performance for Sound Recording** : As the singer for Einstürzende Neubauten, Blixa famously allowed his chest to be wired with microphones and subjected himself to a bearhug that cracked his ribs, with the resulting sounds being incorporated into one of the band's compositions. "For example, Blixer, the singer, once wired his chest with microphones and had someone give him a barehug until his ribs cracked, and NoiButton used the sound in one of their compositions." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← blixa
+**Extreme Performance for Sound Recording** : As the singer for Einstürzende Neubauten, Blixa famously allowed his chest to be wired with microphones and subjected himself to a bearhug that cracked his ribs, with the resulting sounds being incorporated into one of the band's compositions. "For example, Blixer, the singer, once wired his chest with microphones and had someone give him a barehug until his ribs cracked, and NoiButton used the sound in one of their compositions." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← blixa ← blixa
 
 
 
 ## awards
-**Qwartz Electronic Music Awards** : Won.
-**Cross of the Order of Merit of the Federal Republic of Germany** : Won.
+**Qwartz Electronic Music Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3414889
+**Cross of the Order of Merit of the Federal Republic of Germany** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q10905380
 
 ## lists
-**"The Texas-Jerusalem Crossroads" (2001) — AOTY Must Hear 2000s** : #457, 69 AOTY.
+**"The Texas-Jerusalem Crossroads" (2001) — AOTY Must Hear 2000s** : #457, 69 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/

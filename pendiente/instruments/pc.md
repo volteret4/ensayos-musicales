@@ -1,0 +1,6 @@
+# instrument - PC
+
+## curiosities
+**Challenging Hardware Perceptions** : In the 1990s, PCs were often perceived as boring office machines incapable of competing in graphics or sound with consoles or the Amiga. However, demoscene groups like Future Crew demonstrated, through demos like "Second Reality," that hobbyists could push PC hardware far beyond what multimillion-dollar companies had achieved, setting the stage for games like Doom. "En esa época se diciaba que los PC eran máquinas de oficinas aburridas, incapacios de competir en gráficos o ensorido con las consolas o a la amiga." ← El oscuro origen de la música de los KEYGEN | https://www.youtube.com/watch?v=_dccHK0JW5w
+**Emergence in the 1980s** : While microcomputers like the ZX Spectrum and Commodore 64 dominated in the early 1980s, the PC, often running MS-DOS, would later popularize in homes, standardizing the 3 1/2-inch floppy disk. The demoscene would later famously push the graphical and sound capabilities of PCs beyond what commercial companies achieved. "En los años 80, mucho antes de que el PC y MS2 se popularizaran los hogares..." ← El oscuro origen de la música de los KEYGEN | https://www.youtube.com/watch?v=_dccHK0JW5w
+

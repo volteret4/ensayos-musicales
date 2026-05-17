@@ -1,0 +1,34 @@
+# artist - Commodores
+
+## members
+- Lionel Richie
+- Milan Williams
+- Thomas McClary
+- Walter Orange
+
+## genres
+- Balladry
+- Easy Listening
+- Pop
+- R&B
+- Synth Funk
+
+## songs
+**Brick House (Year not specified)** : Sung by drummer Walter Orange, this funk-ode to "calipage in women" was one of the Commodores' most popular hits, reaching the Top 5 on both the pop and R&B charts, proving the band's continued ability to deliver funk alongside their ballads. "Their very next hit to this day, one of their most popular, sung by drummer Walter Orange, was the funk-old to calipage in women brick house." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
+**Easy (1977)** : A wistful mid-tempo saloon ballad written by Lionel Richie, which took the Commodores back into the Top 5 and to number 1 R&B in 1977. "Later, in 1977, Richie took the Commodores back into the top five and back to number one R&B with the wistful mid tempo saloon ballad easy." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
+**Fancy Dancer (Year not specified)** : This funky song reached number 39 on the charts, but it was noted as an example of their funk tracks tending to fall short at Top 40 radio compared to their ballads. "their number 39 hit, Fancy Dancer." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
+**Lady (You Bring Me Up) (Year not specified)** : This song is mentioned as a "jam" and one of the Commodores' up-tempo hits with Lionel Richie still in the band before his departure. "Still, props because lady you bring me up is a jam." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
+**Machine Gun (1974)** : The Commodores' debut single, an instrumental synth-funk breakdown written by keyboardist Milan Williams. It reached number 7 on the R&B chart and number 22 on the Hot 100. "Their debut single, an instrumental called Machine Gun, was a synth funk breakdown written by keyboardist Mulan Williams." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
+**Slippery When Wet (1975)** : An even funkier jam than "Machine Gun," this song was written by guitarist Thomas McClary and became a number 1 R&B hit, cracking the pop Top 20. Lionel Richie served as the lead singer on this track. "The following year, Slippery When Wet and even Funkier Jam, written by Commodores guitarist Thomas McClarry, went to number one R&B and cracked the pop top 20." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
+**Still (1979)** : An even gentler, more lacrimose ballad than "Three Times a Lady," this song secured another number 1 hit for the Commodores a year after "Three Times a Lady." The syncopation and funk were absent. "A year later, the even gentler, more lack-remose, still did the trick again." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
+**Sweet Love (1976)** : This Lionel Richie-penned ballad marked the Commodores' breakthrough into the pop Top 5 in 1976, showcasing their ability to blend R&B and pop. "When the Commodores finally broke into the pop top five in 1976, they did it with sweet love, a Richie penned ballad with both R&B and pop in its bones." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
+**Three Times a Lady (1978)** : A sentimental ballad that brought the Commodores their first number 1 hit on the Hot 100 in the summer of 1978. In this song, the syncopation and funk elements were absent. "Three times a lady finally took the Commodores to number one on the hot 100 in the summer of 1978." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
+**Too Hot to Trot (Year not specified)** : This funky song reached number 24 on the charts, but it was noted as an example of their funk tracks tending to fall short at Top 40 radio compared to their ballads. "Or the number 24 to hot to trump." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
+
+## curiosities
+**"Split Personality" Early On** : As a sextet of multiple songwriters and instrumentalists, the Commodores exhibited a "split personality" from their inception, blending hard funk with softer, more sentimental compositions. "You might say the Commodores, a sextet of multiple songwriters and instrumentalists, had a split personality from the start." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
+**Funk Songs Struggled on Top 40 Radio** : The Commodores observed that their funkier songs, with the exception of "Brick House," tended to perform less successfully on Top 40 radio compared to their sentimental ballads. "But they couldn't help but notice that brick house accepted, the funky songs tended to fall short at top 40 radio..." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
+**Gradual Shift Away from Hard Funk** : The Commodores' transition away from hard funk was gradual and not entirely necessary, as they had hits throughout the 1970s across different styles. "So, the Commodores shift away from Hard Funk was gradual and not entirely necessary." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
+**Post-Disco Easy Listening Group** : By the time Lionel Richie left the band for his solo career, the Commodores had fully converted into a post-disco easy listening group, moving away from their funk roots. "By then, they had fully converted to a post-disco easy listening group, not really a funk group." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
+**Tuskegee, Alabama Origin** : The Commodores originated from Tuskegee, Alabama. "a group from Tuskegee, Alabama." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
+

@@ -1,0 +1,14 @@
+# artist - Danny O'Keefe
+
+## genres
+- Singer-songwriter
+
+## labels
+- Atlantic Records
+
+## songs
+**Good Time Charlie's Got the Blues (1972)** : This song was Danny O'Keefe's third attempt at recording it; the first was unreleased, and the second appeared on his self-titled debut album in 1971. The third version is slower and more introspective, fitting perfectly into the early 1970s singer-songwriter wave, both lyrically and emotionally, alongside artists like James Taylor, Jackson Browne, and Carole King who explored intimacy and confessional music. The production and arrangement are simple, focusing on O'Keefe's voice and lyrics. The song's lyrics include lines like "My heart keeps telling me you're not a kid at 33. You play around, do you lose your wife, you play too long, you lose your life. I got my pills to ease the pain, can't find a thing to ease the rain. I'd love to try and settle down, but everybody's leaving town. Some got a win, some got a lose. Good time Charlie's Got the Blues." The song was released in the late summer of 1972, made it to number nine on the Billboard Hot 100, and was recorded in Muscle Shoals, Alabama. O'Keefe himself stated in 1973 that the song was "almost a trademark" for him, noting that out of 50 or 60 songs he had written, this was the one that stuck, and he could "play that song forever." Although he continued writing and performing, he never replicated this level of success. The song has been covered by numerous artists, including Elvis Presley (on his 1974 album *Memphis*), Waylon Jennings, Charlie Rich, and Dwight Yoakam, and O'Keefe wrote other songs that were recorded by many prominent musicians. "Good Time Charlie's Got the Blues fits that mold almost perfectly." ← For the Record - The 70s > Ep. 60 - One-Hit Wonders of the 70s | https://www.ftr70.com
+
+## curiosities
+**Los Angeles Times Critical Recognition** : In January 1973, Robert Hillburn, an early-career music critic for the Los Angeles Times, who was generally not a fan of singer-songwriters, wrote a lengthy article titled "Good Luck to Three Friends Who Will Need It" for the Sunday edition of the paper. This article featured large pictures of John Prine, Bruce Springsteen (then an unknown), and Danny O'Keefe. Hillburn was drawn to O'Keefe by the lyric "You're Not a Kid at 33?" from "Good Time Charlie's Got the Blues," which resonated with him and many others. Hillburn noted Springsteen's potential and his own intention to listen to his next album, but he found O'Keefe, in many ways, "the best of the three," yet wondered if such "short-term friends are worth the effort." "Hillburn had sampled like popular favorites, like John Denver, those who had just had breakthrough hits like O'Keefe, a couple of critical successes like Prine, and then three quote unknowns." ← For the Record - The 70s > Ep. 60 - One-Hit Wonders of the 70s | https://www.ftr70.com
+

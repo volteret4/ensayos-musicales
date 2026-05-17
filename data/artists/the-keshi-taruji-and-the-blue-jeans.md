@@ -1,5 +1,9 @@
 # artist - The Keshi Taruji and the Blue Jeans
 
 ## curiosities
-**Japanese Band** : This is another surf band from Japan, indicating the strong presence of Japanese surf bands. "The Keshi Taruji and the Blue Jeans are another. In fact, there's a lot of Japanese surf bands." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
+**Japanese Band** : This is another surf band from Japan, indicating the strong presence of Japanese surf bands. "The Keshi Taruji and the Blue Jeans are another. In fact, there's a lot of Japanese surf bands." ← https://www.youtube.com/watch?v=pOeChe_D1Ag ← the-keshi-taruji-and-the-blue-jeans
 
+
+
+## charts
+**""Sorry Seems to Be the Hardest Word" ‡" — UK Singles Chart** : #5, 2003. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart

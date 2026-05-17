@@ -1,0 +1,5 @@
+# artist - Bill Conti
+
+## songs
+**Gonna Fly Now (1977)** : This song serves as the iconic theme from the movie "Rocky," released in February 1977. It begins subtly but grows "more bold and dare I say triumphant" as Rocky Balboa trains, running through Philadelphia, doing one-armed push-ups, and punching sides of beef. The song reached number one on the Billboard Hot 100 around July 4, 1977. John Appleton, the director, credited Bill Conti's film score as a "huge part in the emotional experience of the movie" and a key reason for Rocky's enduring cultural place. The Philadelphia Eagles play it before every home game, symbolizing victory derived from effort and facing fears. "The song and the movie were released in February 1977. The movie went on to win a best movie Oscar and the song went to number one on the Billboard Hot 100 ride around the 4th of July in 1977." ← For the Record - The 70s > Ep. 36 - Na Na Na Na, Hey Hey Hey! 70s Music and Sports | https://seventies.libsyn.com/ep-36-na-na-na-na-hey-hey-hey-70s-music-and-sports
+

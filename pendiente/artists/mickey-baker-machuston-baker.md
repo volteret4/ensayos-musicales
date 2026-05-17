@@ -1,0 +1,33 @@
+# artist - Mickey Baker (MacHuston Baker)
+
+## members
+- MacHuston Baker (birth name)
+
+## genres
+- Bebop
+- Blues
+- Country Blues
+- Jazz
+- R&B
+- Rock and Roll
+
+## instruments
+- Guitar
+
+## albums
+**Mississippi Delta Dews (Mid-1970s) - Tribute to Country Bluesmen** : Released under his birth name MacHuston Baker, this album was a tribute to the country bluesmen he had previously looked down upon. He performed their songs along with some of his own in a similar style, sometimes featuring straight sounds like Robert Johnson's "Terraplane Blues," and sometimes using strings in a standard pop style or in ways learned from Iannis Xenakis, such as in "Alabama Blues" (retitled "Alabama March"), which sounded like Scott Walker. "What I can't accept is a project he did in the mid 1970s, an album called Mississippi Delta Dews released under his birth name MacHuston Baker, where he paid tribute to the country bluesman he looked down on earlier by performing their songs, along with some of his own in a similar style." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
+
+## songs
+**Need Your Love So Bad** : Mickey Baker played the "staggering lead guitar" on this Little Willie John song, showcasing his reputation as a sought-after studio guitarist in the R&B field. "Baker became one of the most sought after studio guitarists in the R&B field, and for example, played the staggering lead guitar, on the jaw of so bad, by Little Willie John." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
+
+## curiosities
+**Academic Pursuits and Composition** : Baker developed a growing interest in the academic side of music, writing "The Complete Course in Jazz Guitar" in 1955, a highly regarded book still available today. In Europe, he returned to jazz, performing with Coleman Hawkins, and studied composition with Iannis Xenakis, writing classical pieces like fugues, a concerto for guitar and orchestra, and "The Blues Suite." "He was also becoming more and more interested in the academic side of music. He had already, in 1955, written a book, The Complete Course in Jazz Guitar, which is still available today and highly regarded." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
+**Aspiration to Emulate Les Paul and Mary Ford** : Mickey Baker, who started out as a jazz guitarist "very much in the Les Paul mode," had expressed a desire to form his own version of the successful male-female duo Les Paul and Mary Ford. "Mickey Baker, who had started out as a jazz guitarist very much in the Les Paul mode, had wanted to form his own version of Les Paul and Mary Ford." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
+**Contrasting Personality with Sylvia** : Mickey Baker was described as a rather studious, private man with no interest in stardom or financial success, primarily focused on making music and improving his instrument. This contrasted sharply with Sylvia's razor-sharp business mind, huge ambition, and desire for stardom. "Mickey was a man who had no interest in stardom or financial success. He was a rather studious, private man who just wanted to make music and get better at his instrument, while Sylvia had a razor-sharp business mind, a huge amount of ambition and a desire for stardom." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
+**Death and Legacy** : Mickey Baker continued performing diverse music across Europe until his death in 2011. He was widely respected for his contributions to blues, jazz, and R&B, and for his influence on the technical proficiency of generations of guitarists. "Baker carried on performing music of all kinds around Europe until his death in 2011. He died massively respected for his contributions to blues, jazz, R&B, and the technical proficiency of generations of guitarists." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
+**Early Life and Upbringing** : Mickey Baker had a difficult, impoverished upbringing, with an unknown father and a mother frequently in and out of prison. "Baker had a rough, impoverished upbringing. He didn't know the identity of his father, and his mother was in and out of prison." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
+**Guitar Teacher to Sylvia Van Topoele** : Baker also worked as a guitar teacher, and one of his students was a young woman named Sylvia Van Topoele, who would later become his musical partner in Mickey & Sylvia. "Baker was also a guitar teacher, and one of his students was a young woman named Sylvia Van Topoele." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
+**Move to Europe Due to Racism** : Mickey Baker moved to Europe because his wife at the time was white, and he no longer wanted to live in the US due to the "particularly virulent form of racism" prevalent at the time. "Mickey was also having problems because his then wife was white, and with the particularly virulent form of racism the US was suffering through at the time, he didn't want to be in the country anymore." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
+**Sought-After Studio Guitarist** : Mickey Baker became one of the most in-demand studio guitarists in the R&B field, playing lead guitar on notable tracks such as Little Willie John's "Need Your Love So Bad" and contributing to records by Louis Jordan, LeVern Baker, and Ray Charles. "Baker became one of the most sought after studio guitarists in the R&B field, and for example, played the staggering lead guitar, on the jaw of so bad, by Little Willie John." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
+**Transition from Jazz to Blues for Financial Gain** : Initially a serious jazz musician playing bebop, Baker shifted his focus to blues music after seeing blues musician Pee Wee Crayton and, more specifically, Crayton's Cadillac. He realized that while blues was technically far easier, it offered significantly more financial reward, stating, "I started bending strings. I was starving to death, and the blues was just a financial thing for me then." "He started out as a serious jazz musician, playing bebop, up until the point he saw the great blues musician, Pee Wee Crater. Or, more precisely, when he saw Crater's Cadillac." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
+

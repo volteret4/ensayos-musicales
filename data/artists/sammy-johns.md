@@ -1,5 +1,19 @@
 # artist - Sammy Johns
 
-## songs
-**Chevy Van** : This song was cited as an example of the emerging soft rock sound, contrasting it with the aggressive nature of hard rock songs like "Whole Lotta Love" by Led Zeppelin. "there is a difference between say a whole lot of love by Led Zeppelin and Chevy Van by Sammy Johns." ← For the Record - The 70s > Ep. 51 - The Softer Side of 70s Rock | https://seventies.libsyn.com/ep-51-the-softer-side-of-70s-rock
+## instruments
+- Chevy Van (customized)
+- Ferrari (purchased with song earnings)
 
+## songs
+**Chevy Van** : This song was cited as an example of the emerging soft rock sound, contrasting it with the aggressive nature of hard rock songs like "Whole Lotta Love" by Led Zeppelin. "there is a difference between say a whole lot of love by Led Zeppelin and Chevy Van by Sammy Johns." ← For the Record - The 70s > Ep. 51 - The Softer Side of 70s Rock | https://seventies.libsyn.com/ep-51-the-softer-side-of-70s-rock ← sammy-johns
+**Chevy Van (1975)** : The idea for "Chevy Van" originated when Sammy Johns saw a fellow musician in a Ford Econoline van, but "Chevy" sounded better for the song. The song's narrative of hooking up with a stranger in a van reflects a very specific mid-70s idea of freedom—romantic, hazy, and transient, with no real-world consequences, focusing more on the space (the van) than the people. The lyrics include lines such as: "I gave a girl a ride in my wagon, she crawled in and took control, she was tired as her mind was dragon. I said get some sleep and dream of rock and roll, because like a picture she was laying there, moonlight dancing off her hair, she woke up and took me by the hand, she's going to love me in my Chevy Van and that's all right with me." and "Her young face was like that of an angel. Her long legs were tanning brown. Better keep your eyes on the gold sun. Better slow, just be it going down." The song was first released in 1973 on Johns' debut album but was re-released in 1975, becoming a huge radio hit and reaching number five on the Billboard Top 40. The session musicians known as The Wrecking Crew from Los Angeles backed Johns on the track. Despite the adult themes, Johns noted that the song appealed to "teeny-boppers," and while he never liked hard rock, he believed "Chevy Van did a lot for a whole lot of people's souls in 1975." "The idea of writing a song about hooking up with a stranger in a van is very 70s though." ← For the Record - The 70s > Ep. 60 - One-Hit Wonders of the 70s | https://www.ftr70.com
+
+## curiosities
+**Financial Success and Personal Acquisitions** : In 1975, the Charlotte Observer reported that the song "Chevy Van" generated enough money for Sammy Johns to purchase a Ferrari and acquire a customized Chevy Van of his own. "the song Chevy Van made Sammy John's so much money, he was able to buy a Ferrari and he was about to get a customized Chevy Van of his very own." ← For the Record - The 70s > Ep. 60 - One-Hit Wonders of the 70s | https://www.ftr70.com
+**Post-Hit Aspirations and Reality** : After the success of "Chevy Van," Johns was not concerned about a follow-up, confidently stating, "I would bet I have at least four top ten songs off my next album. The only thing that would stop me is if I don't want to do it anymore." However, he never achieved the same level of success with subsequent music, despite continuing to make music and providing the soundtrack for the 1977 movie *The Van*. "He made the soundtrack for the 1977 movie The Van." ← For the Record - The 70s > Ep. 60 - One-Hit Wonders of the 70s | https://www.ftr70.com
+**Pre-Fame Financial Struggles** : Before writing "Chevy Van," Sammy Johns was earning $150 a week playing clubs in the Charlotte area. "That is not bad for a guy who was making $150 a week playing clubs in the Charlotte area before he wrote this hit song." ← For the Record - The 70s > Ep. 60 - One-Hit Wonders of the 70s | https://www.ftr70.com
+
+
+
+## charts
+**"Chevy Van" — Billboard Year-End Hot 100** : #48, 1975. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

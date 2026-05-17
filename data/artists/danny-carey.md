@@ -6,5 +6,9 @@
 - Tool
 
 ## curiosities
-**Diverse Drumming Experience** : Danny Carey's drumming career includes playing with a "weirdo band" called Green Jelly, as well as with renowned artist Carole King, showcasing a diverse range of musical experiences before and during his time with Tool. "And drummer Danny Carey was playing with everyone from a weirdo band called Green Jelly to Carol King." ← https://www.youtube.com/watch?v=JJGJXOoT2PI ← danny-carey
+**Diverse Drumming Experience** : Danny Carey's drumming career includes playing with a "weirdo band" called Green Jelly, as well as with renowned artist Carole King, showcasing a diverse range of musical experiences before and during his time with Tool. "And drummer Danny Carey was playing with everyone from a weirdo band called Green Jelly to Carol King." ← https://www.youtube.com/watch?v=JJGJXOoT2PI ← danny-carey ← danny-carey
 
+
+
+## charts
+**"At the Hop" — Billboard Year-End Hot 100** : #20, 1958. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

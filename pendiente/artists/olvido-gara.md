@@ -1,0 +1,7 @@
+# artist - Olvido Gara
+
+## curiosities
+**Charismatic Frontwoman** : Alaska possessed a charisma so powerful that few in the scene could equal it, with Eduardo Benavente being a possible comparison. Her stage presence contributed to her bands' success and iconic status. "Quizás solo compararle con el Alaska." ← La España Siniestra ｜ La edad de oro del Postpunk y el Dark wave | https://www.youtube.com/watch?v=VN_buvQC69c
+**Early Exposure to Punk in London (1976)** : Olvido Gara, known as Alaska, was in London in 1976 at the age of 13, where she witnessed the burgeoning punk scene. This early exposure significantly shaped her musical path. "Olvido a Gara, quien adoptó el nombre artístico de Alaska, estuvo en la capital inglesa en 1976 cuando tenía tan solo 13 años y pudo ver todo lo que se estaba gestando." ← La España Siniestra ｜ La edad de oro del Postpunk y el Dark wave | https://www.youtube.com/watch?v=VN_buvQC69c
+**Pioneer of Spanish Punk** : Alaska is considered, almost with total certainty, to be the first punk in Spain, a title she shares with Paloma Romero 'Palmolive' of Des Leeds. Her early involvement was crucial in establishing the punk aesthetic in Spain. "Se podría decir casi con total seguridad que fue la primera punk de España con permiso de Paloma Romero Palmolyf, miembro de Des Leeds." ← La España Siniestra ｜ La edad de oro del Postpunk y el Dark wave | https://www.youtube.com/watch?v=VN_buvQC69c
+

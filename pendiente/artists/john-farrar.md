@@ -1,0 +1,13 @@
+# artist - John Farrar
+
+## songs
+**A Little More Love (1978)** : This song was written by John Farrar. "and oh, by the way, he will write a little more love and magic after this." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
+**Have You Never Been Mellow (1975)** : This song was written by John Farrar. "you wrote, have you never been mellow among other things." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
+**Hopelessly Devoted to You (1978)** : As Olivia Newton-John's long-time producer, John Farrar wrote this song, which was not initially planned for the *Grease* movie but was included due to her contract. He put considerable effort into its lyrics, using various sources and rhyming dictionaries. "Farar said no song he wrote for her took as long as this one." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
+**I Honestly Love You (1974)** : John Farrar won a Grammy for Record of the Year for this song, shared with Olivia Newton-John. "And it got a Grammy for her and John Farah for Record of the Year." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
+**Magic (1980)** : This song was written by John Farrar. "and oh, by the way, he will write a little more love and magic after this." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
+**You're The One That I Want (1978)** : This song, a hit from the *Grease* soundtrack, was written by John Farrar. "who also wrote, you're the one that i want" ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
+
+## curiosities
+**Producer and Songwriter for Olivia Newton-John** : John Farrar was Olivia Newton-John's long-time producer and a prolific songwriter for her, penning hits such as "Hopelessly Devoted to You," "You're The One That I Want," "Have You Never Been Mellow," "A Little More Love," and "Magic." Olivia entrusted her career to him, recognizing his skill in crafting material perfectly suited to her voice. "She entrusted her career to him, and he knew how to write material that suited her." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
+

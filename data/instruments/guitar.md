@@ -1,19 +1,28 @@
-# instrument - guitar
+# instrument - Guitar
 
 ## curiosities
-**Renewed Excitement for Playing (2019)** : After a period of focusing on electronic music, John Frusciante became excited about playing the guitar again, which ultimately led to his third return to the Red Hot Chili Peppers. "After spending all that time working with electronic music, John had become excited about playing the guitar again." ← https://www.youtube.com/watch?v=CPxy_KOv87o
+**"Magic" Guitar Sound (1980)** : The guitar in Olivia Newton-John's song "Magic" was described as unique, evoking an "otherworldly feeling" that clearly differentiated it from a country song, signifying her shift towards pop. "The guitar in this song was something unique and it kind of evokes this otherworldly feeling." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
+**"Physical" Guitar Solo (1981)** : The song "Physical" featured a "scorching guitar solo" performed by Steve Lukather of Toto, which was noted as a key element contributing to the song's massive success and era-defining sound. "It has a scorching guitar solo courtesy of Steve Lucat there from Toto." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
 **62 Stratocaster Gifted to John Frusciante (1998)** : Upon John Frusciante's return to the Red Hot Chili Peppers in 1998, having lost his own instruments, Anthony Kiedis purchased a '62 Stratocaster for him to facilitate his re-entry into music. "John didn't even own a guitar at the time, so Anthony took him to a music shop and bought him a 62 Stratocaster to get him started." ← Ongoing History of New Music > The Long Strange Trip of John Frusciante Part 1 | https://www.youtube.com/watch?v=TESrEzVHLCc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **80s Virtuosity vs. Swans' Atmospheric Sound** : In the 1980s, rock guitar sounds were characterized by their sharpness, with virtuoso guitarists playing very fast and complex scores, often utilizing pedals and pitch-shifting effects. In contrast, Michael Gira of Swans pursued a radically different approach, aiming to create a completely atmospheric guitar sound that often blurred the line between playing and noise, rather than focusing on instrumental virtuosity. "en los 80 las guitarras del rock se hicieron muy puntagudas, y otra vez con esos grandes virtuosos de la guitarra que tocaba muy rápido tenían partituras muy complejas." ← Music Radar Clan > SWANS. Una visión del rock diferente | https://www.youtube.com/watch?v=sJ3HuN7woDc&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **90s European Guitar Production Style** : In contrast to the US, 90s European guitar production favored much drier and more differentiated sounds, where individual guitars were easily distinguishable. This style avoided the heavy echo or intertwined track effects common in US production. "Mientras que en Europa gustaban los nidos mucho más secos, mucho más diferenciados donde las guitarras son fáciles de distinguirlas unas de las otras." ← Music Radar Clan > Mellon Collie and The Infinite Sadness： ¿Por qué suena diferente？ | https://www.youtube.com/watch?v=mYPtjJN11zU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **90s US Guitar Production Style** : In the early 90s, guitar production prevalent in the United States typically involved heavily blended guitars, strong, intertwined echo sounds, and often excessively distorted pedal effects. This resulted in guitar tracks that were hard to distinguish, often layering over each other with a huge, distorting echo effect. "la producción sobre todo de guitarras que gustaban Estados Unidos en antes los 90 era muy basada en guitarras que se entre mezclan, ecosonidos muy fuertes, muy entre mezclados e incluso efectos de pedal demasiado distorsionados." ← Music Radar Clan > Mellon Collie and The Infinite Sadness： ¿Por qué suena diferente？ | https://www.youtube.com/watch?v=mYPtjJN11zU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Acquired Skill and Integration** : Initially, Trent Reznor was not primarily a guitar player, using computers to simulate guitar sounds for early Nine Inch Nails material. However, through persistent effort and touring, he improved his guitar playing. This skill development, combined with an appreciation for "what guitar sounded like" and "real drums," led him to incorporate more actual guitar into aggressive releases like the "Broken" EP. "I got better at playing guitar just from doing it." ← Ongoing History of New Music > Deep Dark Secrets of Nine Inch Nails | https://www.youtube.com/watch?v=M3nUQtja0qc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Alex Lifeson's Influence on Open Chords and Sustained Notes** : Dave Grohl acknowledges that Alex Lifeson's guitar playing from Rush records has heavily influenced "anything weird" he does on guitar in Foo Fighters songs. He specifically cites the use of "open" guitar chords in songs like "Winnebago" and the sustained notes that "ring through a riff pattern" in songs like "Times Like These" as direct take-offs from Lifeson's style. "And to this day, I still rip off Alex Lifeson's guitar playing in a lot of Who Fight or Song." ← Ongoing History of New Music > Inside The Foo Fighters | https://www.youtube.com/watch?v=Mh-qg1izM98&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Amplifier Cone Perforation for Distortion** : To achieve a savage and distinctive guitar tone in 1958 for his song "Rumble," Link Wray deliberately perforated the cones of his amplifier. This technique was revolutionary because, at the time, amplifiers lacked built-in distortion regulation, forcing artists to innovate to achieve new sounds. "Y para sonar así de salvaje, el lo que hizo fue perforar los colos de su amplificador, consiguiendo ese tono rasgado, amenazante y profundamente físico." ← El punk existía antes de Sex Pistols (y era algo salvaje) | https://www.youtube.com/watch?v=ilXpBujkWZE
 **Ancient Origins** : Stringed instruments resembling guitars have a history stretching back thousands of years, with stone inscriptions from around 1300 BC suggesting that Babylonians played such instruments. "Stringed instruments go back thousands of years. Stone inscriptions seem to indicate the Babylonians were playing guitar-like instruments around 1300 BC." ← Ongoing History of New Music > The Story of the Electric Guitar - Part 1 | https://www.youtube.com/watch?v=E6cXyaHALBQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Bob Marley's Bullet Retention Decision** : Bob Marley chose not to have a lead bullet removed from his upper left arm after being shot, fearing that the surgery could cause damage that would make it difficult or impossible for him to play the guitar. "Well, because of its location, we're moving it might have caused damage that would have made it hard if not impossible to play the guitar, so it stayed." ← Ongoing History of New Music > The Last Moments Of - Part 1 | https://www.youtube.com/watch?v=ZhzjZixCcK8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Burial with Bob Marley** : Bob Marley was buried with a guitar in his mausoleum located in Nine Miles, St. Anne Parish, Jamaica. His remains are housed there alongside this instrument, his mother's remains (who died in 2008), and his brother's (who was killed in 1990). "Bob's remains are there, along with the guitar he was buried with, the remains of his mother who died in 2008, and his brother who was killed in 1990." ← Ongoing History of New Music > Alt Rock Shrines ｜ From the Archives | https://www.youtube.com/watch?v=sKHdTSfDd6E&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Catalyst for Songwriting** : Nora Jones began writing songs on the guitar after her mother sent her an old instrument from Texas. Having only known two chords initially, she quickly learned five, which allowed her to write her first original song, "Come Away With Me." She found the guitar's simple chords more conducive to songwriting than the complex jazz chords she knew on piano. "my mom sent me this old guitar that I had in Texas that I knew two chords on. I played like five chords and I wrote, come away with me one night." ← Hit Parade Music History and Music Trivia > Introducing Broken Record - Norah Jones Begins Again | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cbc
+**Central to WKRP's Format Change** : The transition of WKRP's radio format to rock and roll specifically necessitated a "very guitar forward" song, a requirement powerfully met by Ted Nugent's "Queen of the Forest." "To make that switch to rock though, it required a song that was very guitar forward and Ted Nugent provided just that." ← For the Record - The 70s > Ep. 58 - WKRP in Cincinnati | https://www.ftr70.com
 **Challenge to Traditional Rock** : By the early 1980s, a new generation of British talent sought "unfettered, unself-conscious, self-expression," even to the point of completely abandoning the "sacred electric guitar," contrasting with traditional rock guitar solos exemplified by bands like Led Zeppelin. "The goal was unfettered, unself-conscious, self-expression, even if it meant for saking the sacred electric guitar entirely." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 7 | https://www.youtube.com/watch?v=9uTORLOm5Yg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Chet Atkins Influence on Ray Davis** : Ray Davis began playing guitar seriously, aiming to emulate Chet Atkins's style beyond just pop songs. Pete Quayfe recalled Ray's "no perfect rendition of Atkins' version of Malagwena" during early school jam sessions, showcasing Ray's early technical ambition. "he started playing seriously, not just the pop songs of the time... but also trying to emulate Chet Atkins." ← Episode 119： ＂You Really Got Me＂ by the Kinks | https://www.youtube.com/watch?v=_XNJ6Qwmh_c
 **Chris Cornell's Belongings – Item in Lawsuit** : Among the significant items Susan Silver was accused of withholding from Chris Cornell after their divorce were his guitars. These instruments were part of a lawsuit claiming she unlawfully retained valuable possessions, along with Grammys, demo tapes, and personal recordings. "The suit also claimed that she was hanging on to certain items of significant value. Guitar, Grammy Awards, demo tapes, personal recordings, diaries, journals." ← Ongoing History of New Music > Chris Cornell： 6 Degrees of Separation | https://www.youtube.com/watch?v=lip0bZX7hBE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Chuck Berry's Style Roots** : Chuck Berry's characteristic guitar style can be traced back to the melodic lines played by Pete Johnson's right hand on the piano in Boogie Woogie. The phrasing in Johnson's high notes, if transferred to guitar, essentially encompasses Chuck Berry's entire guitar approach. "If you transfer them to guitar, are basically the whole of Chuck Barry's guitar style." ← Episode 2： ＂Roll Em Pete＂ by Big Joe Turner | https://www.youtube.com/watch?v=thpMb1A_fAs
+**Chuck Berry's Two-String Innovation** : Chuck Berry's iconic guitar intro to "Johnny B. Good" transformed a common riff by playing the solo line on two strings instead of one. This technique, learned from blues guitarist T-Bone Walker, created a thicker sound with parallel harmonies, making the previously generic riff uniquely identifiable with Berry. "The crucial change Barry makes there is that most of the time he's playing the solo line on two strings instead of one, creating a thicker sound with parallel harmonies, rather than just the simple melody line." ← Episode 67： ＂Johnny B. Goode＂, by Chuck Berry | https://www.youtube.com/watch?v=sHlA-qihuNw
+**Cliff Gallop's Influential Style** : Cliff Gallop, the lead guitarist for The Blue Caps, possessed a technically advanced guitar style characterized by "fast-picked triplets" and his use of "multiple steel finger picks." His distinctive technique served as a major inspiration for many rock and roll guitarists throughout the 1960s. "Gallop's guitar style, which involved fast-picked triplets, and the use of multiple steel finger picks, was an inspiration for almost every rock and roll guitarist of the 1960s..." ← Episode 41： ＂Be-Bop-A-Lula＂ by Gene Vincent and the Bluecaps | https://www.youtube.com/watch?v=tYBQ5F7O3G0
 **Dan Auerbach's Full-time Pursuit** : Dan Auerbach's decision to pursue playing the guitar full-time was significantly influenced by listening to blues singer Junior Kimbrough in high school. "In fact, listening to Kimbrough, while smoking a lot of dope, helped him decide to pursue the guitar full time." ← Ongoing History of New Music > Catching Up With The Black Keys | https://www.youtube.com/watch?v=PmwfC4HR3_I&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Dave Davis's Growing Accomplishment** : While Ray was exploring jazz, Dave Davis became a "far more accomplished guitarist," to the point of "outshining his brother" and delving deeper into the London R&B scene, indicating a significant growth in his technical and stylistic command of the instrument. "Dave would become a far more accomplished guitarist, now outshining his brother." ← Episode 119： ＂You Really Got Me＂ by the Kinks | https://www.youtube.com/watch?v=_XNJ6Qwmh_c
 **David Gilmour as Guitarist for Pink Floyd** : David Gilmour initially roadied for Pink Floyd before being invited by drummer Nick Mason to join the band as a guitarist, demonstrating a path from road crew to on-stage performer. "He was drummer Nick Mason who invited him into the band as a guitarist." ← Ongoing History of New Music > We Are The Road Crew - A History of Roadies | https://www.youtube.com/watch?v=ZVGnSVfed9s&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Depeche Mode's Limitations** : Depeche Mode initially used guitars but later switched away, finding their sound "very limited." They also experienced logistical challenges with transporting amplifiers and other guitar-related equipment for early performances. "One we felt that guitars were stripped to this and the sound of the guitars were very limited." ← Ongoing History of New Music > The Very First Episode of the Ongoing History of New Music | https://www.youtube.com/watch?v=oPgeSCy93bo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Dismissal in Early 1960s** : In the early 1960s, there was a widespread belief that "guitar groups were on their way out." This sentiment was so strong that Decca Records rejected The Beatles, and a London paper predicted that the public would tire of "background noise created by three guitars and a drumbeat" by Christmas. "One of London's papers wrote, by Christmas, the public will have tired of background noise created by three guitars and a drumbeat." ← Ongoing History of New Music > The More Things Change Part 2 | https://www.youtube.com/watch?v=L0j9iDuHQVA&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -30,11 +39,13 @@
 **First Guitar (1980s)** : Sinead O'Connor received her first guitar from Sister Margaret, one of the nuns at the Grinian Training Center (Magdalene Asylum) where she was confined. This instrument played a crucial role in her beginning to write and perform music. "One of the nuns, a good one, sister Margaret, bought Shaneid her first guitar." ← Ongoing History of New Music > Remembering Sinead O'Connor | https://www.youtube.com/watch?v=afuqjWl1JyI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **First Rock Solo (1950s)** : What is recognized as a rock solo first appeared in the 1950s, potentially with Scotty Moore on Elvis Presley's "Good Rockin' Tonight" (1954) or Chuck Berry on "Maybellene" (1955). "What we'd recognize as a rock solo first appeared in the 1950s." ← Ongoing History of New Music > The Rock Explainer - 6 | https://www.youtube.com/watch?v=dnQ1pNbIUjw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Frusciante's Guitar Loss and Replacement (1996-1998)** : After his house burned down in 1996, most of John Frusciante's guitars were initially saved, but were later stolen when he temporarily moved to New York. Upon his return to the Red Hot Chili Peppers in 1998, he didn't own a guitar, so Anthony Kiedis bought him a '62 Stratocaster to help him restart. "Most of his guitars were fine, but when John escaped to New York after the fire, somebody came in and stole them." ← Ongoing History of New Music > The Long Strange Trip of John Frusciante Part 1 | https://www.youtube.com/watch?v=TESrEzVHLCc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Guitar Cord for Showmanship** : Guitar Slim famously employed a guitar cord allegedly 350 feet long as a key element of his showmanship, allowing him to stay plugged into his amplifier while walking through the audience and even out into the street during his performances. "Slim was one of the great blues guitarists of the 1950s, and he was also one of the greats showmen, whose performance style included things like a guitar chord that was allegedly 350 feet long." ← Episode 32： ＂I Got A Woman＂ by Ray Charles | https://www.youtube.com/watch?v=0oeI9f2x_fo
 **Guitar Distortion Competition for "Just"** : The song "Just" by Radiohead originated from a friendly competition between Thom Yorke and Jonny Greenwood. They challenged each other to create the most guitar distortion, with Thom Yorke later conceding that Jonny Greenwood was the clear winner in this "guitar-shredding competition." "originalmente, hace como una competición de guitarreo entre Tom Jorke y John Gringwood, a ver quién era capaz de distorsionar más la guitarra." ← Music Radar Clan > Cosas que a lo mejor no sabías de THE BENDS | https://www.youtube.com/watch?v=Wfuq0kVjWBQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Guitar Riff Copyright** : Guitar riffs are generally not copyrightable, which allows similar riffs to appear in multiple songs across different artists and eras without legal infringement, as seen with songs like Killing Joke's "Eighties" and Nirvana's "Come As You Are," or Green Day's "Brain Stew," Chicago's "25 or 6 to 4," and Led Zeppelin's "Babe I'm Gonna Leave You." "You can't copyright a guitar riff, which also takes us back to that Food Fighters Rony James D.O. case." ← Ongoing History of New Music > Unfortunate Sonic Coincidences | https://www.youtube.com/watch?v=4cZfegexwwk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Guitar Solo History (1890s)** : The concept of the guitar solo, where intricate playing occurs on the fretboard with the left hand, may date back to the 1890s with the rise of the Flamenco guitar. "The guitar solo, the idea of playing something crazy on the fretboard with your left hand, is something that maybe dates back to the 1890s with the rise of the Flamenco guitar, which was among the very first to showcase the guitar as a solo instrument." ← Ongoing History of New Music > The Rock Explainer - 6 | https://www.youtube.com/watch?v=dnQ1pNbIUjw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Gut Strings Origin and Change to Nylon** : Historically, Spanish guitar "gut strings" were manufactured from the intestines of slaughtered sheep. This practice changed during World War II, when all available gut material was reallocated for use as surgical thread for wounded soldiers, leading to the adoption of nylon for guitar strings. "Spanish guitar gut strings were originally made from the intestines of slaughtered sheep. Those strings changed to nylon during World War II when all the gut string was allocated for use as surgical thread for wounded soldiers." ← Ongoing History of New Music > 60 Mind-Blowing Facts About Music in 60 Minutes： 2017 Edition | https://www.youtube.com/watch?v=aSk1XQHNkd8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Handedness History (16th Century to Present)** : The traditional right-handed configuration of the guitar, where the right hand strums/plucks and the left forms chords, dates back to 16th-century instruments and earlier stringed predecessors (Lyre, Ud, Lute, Vihuela). This setup was influenced by historical stigmas against left-handedness. The electric guitar emerged in the 1930s, and intricate left-hand solos gained prominence from the 1890s with Flamenco guitar. "Bottom line, Ray, is that the guitar and all the instruments that came before were built with right hand in this in mind because of the way they were originally played with the right hand doing all the work and the left hand just forming chords." ← Ongoing History of New Music > The Rock Explainer - 6 | https://www.youtube.com/watch?v=dnQ1pNbIUjw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Hank Marvin Imitation by Pete Quayfe** : Pete Quayfe demonstrated his early guitar skills by being able to do a "possible imitation of Hank Marvin playing a patchy" when he first played guitar with Ray Davis at school. "Quayf could do a possible imitation of Hank Marvin playing a patchy." ← Episode 119： ＂You Really Got Me＂ by the Kinks | https://www.youtube.com/watch?v=_XNJ6Qwmh_c
 **Historical Sexism in Playing Guitar** : Historically, the acoustic guitar was deemed acceptable for women due to its delicate tones and perceived ease of handling, contrasting with the outright dismissal of electric guitars for women as late as the 1980s. This prejudice was highlighted by a 2003 Rolling Stone list of the 100 greatest guitarists, which included only two women. "However, the acoustic guitar was okay. It wasn't very loud, wasn't very heavy, and it produced tones delicate enough to be appropriate for a young lady to play." ← Ongoing History of New Music > Driven By Her： Guitar Heroes | https://www.youtube.com/watch?v=hbNJQ6OYmd0&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Ian Curtis's Sole Use** : The song "Love Will Tear Us Apart" is notably the only instance where Ian Curtis played the guitar. He played it poorly, utilizing only a few chords, as he lacked formal musical training and was not a musician. "fue la única canción en la que Ian Cortis toca la guitarra, toca la guitarra de una manera muy fogada, unas coca notas porque no sabía tocar instrumentos." ← Music Radar Clan > Love will Tear us appart. Una historia increible. | https://www.youtube.com/watch?v=tc3lmNCXgPM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Ian Thorneley's Preference for Guitar** : Ian Thorneley expressed discomfort with a pure frontman role, preferring to have a guitar in his hands while performing, a characteristic he shares with Miles Kennedy. "I need a guitar to, you know, yeah, but we got a guy in a top hat that's playing guitar for us." ← Ongoing History of New Music > Ian Thornley - In His Own Words： Part 2 | https://www.youtube.com/watch?v=QIA7V4PxCdM&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -52,25 +63,39 @@
 **John Frusciante's Consistent Practice** : Despite primarily making electronic music during his hiatus from the Red Hot Chili Peppers, John Frusciante consistently practiced guitar. This dedication allowed him to maintain his skills and contribute readily upon his return to the rock band. "Practicing guitar is something I was always doing even though I'm making electronic music." ← Ongoing History of New Music > From Broken Record： The Red Hot Chili Peppers Reunite | https://www.youtube.com/watch?v=Nr-3Y3UWQcI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **John Frusciante's Early Dedication** : John Frusciante displayed an intense dedication to the guitar from a young age, studying the styles of numerous legendary guitarists by age 11 and convincing his parents to let him drop out of high school to pursue full-time music study. His passion for the instrument persisted even during his period of addiction, as he made demos on a four-track recorder. "He was so into guitar that he convinced his parents that he should drop out of high school and let him study music full time." ← Ongoing History of New Music > The Long Strange Trip of John Frusciante Part 1 | https://www.youtube.com/watch?v=TESrEzVHLCc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Johnny Ramone's Inspiration** : John Cummings (Johnny Ramone) developed a love for the guitar after watching The Beatles perform on The Ed Sullivan Show in 1964. "He had been in love with the guitar ever since he saw the Beatles' plan Ed Sullivan back in 1964." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 3 | https://www.youtube.com/watch?v=VYi3r0G-ne4&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Keith Levene's Dislocated Style** : In Public Image Ltd, Keith Levene's guitar playing was dislocated, creating crystalline and kaleidoscopic sounds. He was freed from the traditional role of carrying the rhythm or main melody. "tocava de forma disolante, creando sonidos cristalinos y calidos cópicos." ← La traición que salvó al punk. PiL | https://www.youtube.com/watch?v=YzQ6o-FgxSY
 **Kurt Cobain's "Smells Like Teen Spirit" Guitar (2022)** : The guitar played by Kurt Cobain in Nirvana's iconic "Smells Like Teen Spirit" music video was sold at auction in 2022 for 3.5 million pounds. This highlights the immense value and cultural significance attached to musical instruments featured in landmark music videos. "By the way, the guitar that Kurt used in that video sold it auction in 2022 for 3.5 million pounds." ← Ongoing History of New Music > The Rise and Fall and Future of the Music Video - Part 1 | https://www.youtube.com/watch?v=lqd6IbUJ7tg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Kurt Cobain's Rampant Destruction** : In the early 1990s, at the height of Nirvana's fame, Kurt Cobain was known for destroying numerous guitars during performances, and also wrecking other band members' equipment. "Kurt Cobain went through many, many guitars. He also wrecked as much of everyone else's gear as possible." ← Ongoing History of New Music > Rock Explainer 3 | https://www.youtube.com/watch?v=yPok3MemDmE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Lenny Kaye's Role with Patti Smith** : Lenny Kaye, a record store clerk, would "noodle on his guitar" as Patti Smith recited her poems, contributing to the musical backdrop of her early performances and recordings. "Then she met Lenny Kay, a record store clerk, and he would noodle on his guitar as Patty recited her poems." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 3 | https://www.youtube.com/watch?v=VYi3r0G-ne4&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Levi Evans's Learned Instrument** : Levi Evans learned to play the guitar from his father. "although he learned guitar and piano from his dad." ← Ongoing History of New Music > More Musical Offspring | https://www.youtube.com/watch?v=dY7uB_QQWBc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Low-Tuned Sound of Grunge** : Guitars in grunge were famously "tuned low," with techniques like "drop D tuning" becoming common, which contributed to a "darker and dirtier feel" that defined the genre's sound. "Guitars were toot lower. You may have heard terms like drop D tuning, which gave them a darker and dirtier feel." ← Ongoing History of New Music > The 90s Part 3： Grunge | https://www.youtube.com/watch?v=tFBSrKMEZxI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Matt Bellamy's World Record** : Matt Bellamy of Muse holds the Guinness Book of World Records for destroying the most guitars, having totaled 140 guitars during the band's 2004 tour in support of their "Absolution" album. "The all-time champion guitar smasher is... Oh, it's not Pete Townsend of the Hoot. It's Matt Bellamy of Muse." ← Ongoing History of New Music > Rock Explainer 3 | https://www.youtube.com/watch?v=yPok3MemDmE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Mickey Baker's Signature "String Bending" Style** : Mickey Baker was known for his "string bending music," a style he developed for financial gain after leaving jazz. This technique became a characteristic and commercially successful sound for Mickey & Sylvia. "but playing that string-bending music that Mickey was making money from." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
 **Modern Six-String Development (18th Century)** : The modern six-string guitar dates back to the 18th century, evolving from earlier stringed instruments. "The modern sixth string dates to the 18th century." ← Ongoing History of New Music > The Rock Explainer - 6 | https://www.youtube.com/watch?v=dnQ1pNbIUjw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Modified for Bass Sounds (The B-52s)** : For The B-52s, their guitarist creatively modified his instrument by replacing the lower two strings with bass strings, enabling the band to achieve unique bass-like sounds without a dedicated bass player. "And if you don't get that, we'll just get the guitarist to replace his lower two strings with strings from a bass." ← Ongoing History of New Music > The Post-Punk Explosion Part 1： New Wave | https://www.youtube.com/watch?v=bYsV3ozbk4M&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Muted in "Family Affair"** : On Sly and the Family Stone's song "Family Affair," the guitar is notably muted, a significant departure from its typical role as a "front and center" instrument in most rock bands. "while the guitar was typically front and center and rock bands here the guitar is muted." ← For the Record - The 70s > FTR70 Sound Bite - Remembering Sly Stone | https://www.ftr70.com/
 **Noel Gallagher's Practice at Work** : While working a dull job behind a parts counter at a gas company, Noel Gallagher frequently brought his guitar to work and played during his downtime, a period that fostered his early songwriting. "He wasn't very busy most of the time so he brought his guitar to work and strung the way whenever he had a moment. And he apparently had a lot of moments." ← Ongoing History of New Music > We Are The Road Crew - A History of Roadies | https://www.youtube.com/watch?v=ZVGnSVfed9s&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Off-beat Emphasis in Ska** : Edward Seaga innovated in the development of Ska by having the guitarist on Higgs & Wilson's "Come on Manioe" stress the off-beats. This technique, borrowed from Mento's banjo rhythms, gave the record a uniquely Jamaican sound. "Siaga had the guitarist on Manioe by Higgs & Wilson do this." ← Episode 114： ＂My Boy Lollipop＂ by Millie | https://www.youtube.com/watch?v=kf-DtqoOsRI
+**Pacific Northwest Dominance** : Electric guitars became the predominant instrument in the Pacific Northwest music scene, leading to the simplification of "Louie Louie" arrangements to be more guitar-friendly. "simpler to play on the guitar, and thus suitable for the guitar heavy music that was starting to predominate in the Pacific Northwest." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Performance of "Heart Ake"** : The song "Heart Ake" is typically played on guitar. "I usually play on guitar." ← Hit Parade Music History and Music Trivia > Introducing Broken Record - Norah Jones Begins Again | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cbc
 **Pete Townsend's Accidental Destruction** : In 1964, Pete Townsend of The Who accidentally broke his new Rickenbacker guitar by hitting a low ceiling at the Railway Tavern in London. His frustration led him to intentionally smash the guitar, an act that was well-received by the audience and became a band trademark. "At some point, Pete Townsend raised his brand new Rikin' Backer guitar too high and smashed the headstock into the ceiling." ← Ongoing History of New Music > Rock Explainer 3 | https://www.youtube.com/watch?v=yPok3MemDmE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Phil Specter on Drifters' "On Broadway"** : Phil Specter, by then a successful producer, played guitar on The Drifters' recording of "On Broadway." Libra and Stuller invited him to sit in on the session after bumping into him on their way there. "The guitar on the record was by Phil Specter." ← Episode 94： ＂Stand By Me＂, by Ben E. King | https://www.youtube.com/watch?v=OgNsNmzW2po
 **Phoebe Bridgers' Televised Act** : Phoebe Bridgers made headlines when she dramatically smashed her guitar at the end of her performance on "Saturday Night Live." "Phoebe Bridgers killed her guitar at the end of a Saturday Night Live performance." ← Ongoing History of New Music > Rock Explainer 3 | https://www.youtube.com/watch?v=yPok3MemDmE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Physical Description of G Power Chord and Flattened Fifth** : A G power chord on a guitar is formed by placing the first finger on the third fret of the low E string, the third finger two frets up on the fifth fret of the A string, and the fourth finger next to the third on the D string, resulting in a harmonious G-D-G sound. To create a flattened fifth (devil's tri tone), the third finger is moved to the fret below, causing the D to play as a D flat, which introduces noticeable dissonance. "For example, if we're talking about a G power chord on a guitar, the first finger goes on the third fret of the low E. The third finger goes to frets up to the fifth fret of the A string. The fourth finger goes next to the third on the D string. So there's your fifth. Framing this guitar gives you a nice pleasant sound, G-D-G. To flatten that, move the third finger to the next fret down so that D plays as a D flat. That introduces dissonance." ← Ongoing History of New Music > Uncharted ＂Sneak Peak＂ - Episode 5： The Satanic Panic | https://www.youtube.com/watch?v=41eKVp8JIhU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Pioneering Use of Atmosphere** : Michael Gira is credited as a possible pioneer ("father") of the atmospheric sound in rock music, creating immersive guitar soundscapes. This distinctive approach to the guitar, departing from the prevailing virtuoso style of the 1980s, is seen as a direct precursor to later genres like shoegaze and dream pop. "Yo creo que es el padre, posiblemente es el padre que inventó el sonido atmosférica con el rock." ← Music Radar Clan > SWANS. Una visión del rock diferente | https://www.youtube.com/watch?v=sJ3HuN7woDc&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Popularity Surge in Britain (Post-WWII)** : Following the end of compulsory national service in Britain in 1957 and 1960, thousands of young British men, now with free time, began picking up guitars and forming bands. This surge in amateur musicianship contributed to the burgeoning British music scene and ultimately the British Invasion. "Without having to worry about going into the military, and with time on their hands, untold thousands of young British men started picking up guitars and forming bands." ← Ongoing History of New Music > Connections | https://www.youtube.com/watch?v=V7WjNR1ujhk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Post-Grunge Dominance** : After grunge, guitars, along with bass and drums, came to rule rock, though the way they were played differed, often involving lower tunings. "And this meant that guitars, bass and drums ruled rock, but the way they were played was different." ← Ongoing History of New Music > The 90s Part 3： Grunge | https://www.youtube.com/watch?v=tFBSrKMEZxI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Post-Technopop Resurgence** : After the decline of pure Technopop in the mid-1980s, guitars, along with bass and drums, saw a resurgence. Groups like The Smiths actively "fought back with new approaches" to this traditional lineup, deliberately rejecting what they considered artificial electronic music. "Few groups fought back with new approaches to the guitar bass and drums lineup." ← Ongoing History of New Music > The Post-Punk Explosion Part 2： Techno-Pop | https://www.youtube.com/watch?v=5PJRCC6EwUY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Power Chords (1950s context)** : While power chords (comprising only the root and fifth notes) became a common solution for resolving chord clashes in rock guitar from the late 1960s onward, they were not widely used in the 1950s when Richard Berry recorded "Louie Louie." "Now if you're a rock guitarist from the late 60s onwards, the way you'd resolve that problem is to play power chords. Power chords have just the root in fifth note, no third, so in this case you wouldn't be playing the B, problem solved." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Prominence in *Gear of the Sneech*** : The guitar sound is described as "muy predominante" in Dead Grips' latest album, *Gear of the Sneech*. This marks a shift from earlier works, where guitar presence, such as in the song "Hothead" from *Buttonlesspeak*, was considered an exception rather than a defining characteristic of their sound. "Ahora yo creo que el sonido de guitarra es muy predominante" ← Music Radar Clan > DEATH GRIPS - YEAR OF THE SNITCH ya está aquí | https://www.youtube.com/watch?v=HtcOpYWN_6I&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Ramones' Initial Purchase** : The Ramones, specifically John Cummings and Douglas Colvin, spent $250 combined to purchase their first guitar, bass, and an amp, marking the initial investment for their band's formation. "So after spending $250 between them on a guitar, a bass, and an amp, they held their first rehearsal four days later." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 3 | https://www.youtube.com/watch?v=VYi3r0G-ne4&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Ray Davis's First Guitar** : Ray Davis received his first guitar as a 13th birthday present from his sister Really, after nearly a year of pestering his parents for one, inspired by the growing popularity of Elvis. The poignant circumstances of its gift, immediately preceding his sister's death, convinced Ray he was "intended by faith to play the guitar." "on the night before his birthday, really gave him one as his birthday present." ← Episode 119： ＂You Really Got Me＂ by the Kinks | https://www.youtube.com/watch?v=_XNJ6Qwmh_c
 **Rejection in Electronic Music** : A movement began to emerge where musicians considered guitars "passé and useless," with some, like Daniel Miller, intentionally forming bands and labels devoted entirely to "guitar less music." "Daniel, however, was not alone in thinking that guitars were passe and useless." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 7 | https://www.youtube.com/watch?v=9uTORLOm5Yg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Roy Orbison's Dual Rhythm and Lead Style** : Roy Orbison was a proficient guitarist, akin to Chuck Berry, who could simultaneously play both rhythm and lead parts. He utilized the bass strings to maintain a riff while performing intricate fills between his vocal lines. "He was similar to Chuck Berry in that he would play both rhythm and lead simultaneously. If you listen to the record he made where his guitar playing is prominent, you can hear him using the bass strings to keep a riff down and then playing fills between his vocal lines." ← Episode 42： ＂Ooby Dooby＂ by Roy Orbison and the Teen Kings | https://www.youtube.com/watch?v=1zvzpXqr-k8
+**Roy Orbison's First Guitar (Age 6)** : Roy Orbison received his first guitar at the age of six from his father, who also taught him the chords to "You Are My Sunshine," marking his earliest musical instruction. "When he was six years old his father had bought him a guitar and taught him the chords to you are my sunshine and by the age of ten he was already winning talent contests." ← Episode 42： ＂Ooby Dooby＂ by Roy Orbison and the Teen Kings | https://www.youtube.com/watch?v=1zvzpXqr-k8
+**Secondary in Early Rock and Roll** : In the initial wave of rock and roll, the guitar was not a primary instrument; the music was largely based on piano and horn sections. The electric guitar only gained significant importance in the early 1950s after the genre merged with Hillbilly Boogie. "First wave rock and roll is a music that's based on the piano and horn sections, rather than guitars, and it wouldn't be until it merged with Hilboly Boogie in the early 50s that the electric guitar started to be an important instrument in it." ← Episode 7： ＂Good Rockin' Tonight＂ by Wynonie Harris | https://www.youtube.com/watch?v=IgqSPoYRUCM
 **Self-Taught and Unique Style** : Ian, Billy Talent's guitarist, is self-taught, which allowed him to develop a unique approach to the instrument without adhering to traditional methods. He looked at the guitar as "something fun" and was influenced by players like Tom Morello who extracted "cool sounds" from it, inspiring him to do the same. "He's also self taught too. And I think that has that huge. Yeah, you had no idea that you were screwing up." ← Ongoing History of New Music > Billy Talent In Their Own Words： Part 2 | https://www.youtube.com/watch?v=GT_u0eFDlk8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Session Instrument in Jamaica** : The guitar was a crucial instrument played by session musicians such as Ernest Ranglin, who were essential to the sound of Jamaican records made in the late 1950s. "guitarist Ernest Wrangling." ← Episode 114： ＂My Boy Lollipop＂ by Millie | https://www.youtube.com/watch?v=kf-DtqoOsRI
 **Ska Playing Style** : In ska music, the guitar typically "hits on the first, third, and occasionally on the fourth beat" of each bar. This specific rhythmic contribution is a defining characteristic of the ska sound. "The guitar will hit on the first, third, and occasionally on the fourth beat." ← Ongoing History of New Music > The Post-Punk Explosion Part 6： Ska | https://www.youtube.com/watch?v=zNIVqKqAlnk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Ska Upstroke Technique** : In Ska, the guitar plays on the first and third, and sometimes on the fourth beat, augmenting the emphasis on the second and fourth beat. The specific way the guitar is played is called the "Ska upstroke," which is considered the "secret sauce" of the genre, contributing to its danceable quality. "The way the guitar is played is called the SCA upstroke, and it's the secret sauce to all this." ← Ongoing History of New Music > Alt Rock Revivals Part 2：  Ska | https://www.youtube.com/watch?v=WX2GlpMNg_8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Slash's Touring Rig** : During rehearsals with Velvet Revolver in Los Angeles, Ian Thorneley witnessed Slash using his full touring rig, which included "three full stacks" of amplifiers, even for a rehearsal session. "slash had full touring rig going. It was great, man. It was like, wow, it three full stacks on. I was like, to rehearse." ← Ongoing History of New Music > Ian Thornley - In His Own Words： Part 2 | https://www.youtube.com/watch?v=QIA7V4PxCdM&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -84,20 +109,195 @@
 **Theatrical Destruction by Paul Stanley** : In the 1970s, Paul Stanley of KISS frequently and theatrically destroyed multiple guitars as part of the band's elaborate stage show. "Paul Stanley, theatrically, went through many, many guitars as part of his show." ← Ongoing History of New Music > Rock Explainer 3 | https://www.youtube.com/watch?v=yPok3MemDmE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Tim Buckley's Possessions** : At the time of his death, Tim Buckley owned nothing more than the clothes on his back, a guitar, and an amplifier, reflecting his deep debt. "owned nothing more than the clothes on his back, a guitar, and an amplifier." ← Ongoing History of New Music > Musical Offspring | https://www.youtube.com/watch?v=MmXDbXI6Sqk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Tony Iommi's Post-Accident Modifications** : After losing the tips of two fingers in an industrial accident, Tony Iommi adapted his guitar playing. He used plastic thimbles wrapped in leather, strung his guitar with banjo strings to make them easier to bend, and tuned his guitar down low to C sharp (drop C sharp) to loosen the strings. These modifications were crucial in creating Black Sabbath's distinctive heavy sound. "First, he couldn't feel the strings through the thimbles...Second, soloing became tough...Third, he couldn't bend standard guitar strings very well, so he strung his guitar with banjo strings." ← Ongoing History of New Music > Connections | https://www.youtube.com/watch?v=V7WjNR1ujhk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Tracing the "Johnny B. Good" Riff** : The foundational guitar riff for "Johnny B. Good" has a long history, with its earliest known recording dating back to Wilbur Sweatman's Jazz Orchestra's "Blue In The Blues" in 1918. It also appeared in recordings by Blind Lemon Jefferson ("Got The Blues," 1926), Blind Blake ("Too Tight," 1926), Andy Kirk, and Count Basie before Carl Hogan played it as the intro to Louis Jordan's "Ain't That Just Like A Woman." "The first recording we have of that riff dates back to 1918, and a recording by Wilbur Sweatman's Jazz Orchestra." ← Episode 67： ＂Johnny B. Goode＂, by Chuck Berry | https://www.youtube.com/watch?v=sHlA-qihuNw
 **Traditional Rock Instrument** : Along with voice, bass, drums, piano, and organ, guitars were a fundamental instrument in rock music for the longest time. Engineers found many ways to manipulate their sounds through effects pedals, studio tricks, and accidental discoveries. "For the longest time, the sounds of rock were made with voice guitars, bass, drums and keyboards like piano and organ." ← Ongoing History of New Music > The Post-Punk Explosion Part 2： Techno-Pop | https://www.youtube.com/watch?v=5PJRCC6EwUY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Uncle's Instruction** : Lana Del Rey was taught to play the guitar by her uncle. She frequently used the instrument during her early performances in bars and "open mic" nights in Brooklyn. "De hecho su tío le enseña a tocar la guitarra." ← Music Radar Clan > Born to Die. El origen de Lana del Rey | https://www.youtube.com/watch?v=-5lQxVCbdE4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Uncopyrightable Riffs** : A guitar riff, typically a series of chords played in a specific order, cannot be copyrighted. This principle is illustrated by common progressions and the widespread use of riffs across different songs. "Second, you cannot copyright a guitar riff. Because as we saw earlier, most riffs are just a series of chords played in a specific order." ← Ongoing History of New Music > Unfortunate Sonic Coincidences： The Lawsuits | https://www.youtube.com/watch?v=fS8V3kYXT6w&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Unusual Use in Post-Rock** : In post-rock, guitars, along with other traditional rock instruments, are employed in unusual ways to produce non-rock outcomes, contributing to the genre's experimental philosophy. "What we're doing is producing non-rock outcomes. That means compositions without the usual verse chorus, verse structure, and more atmospheric, some more experimentation, and more of a cinematic approach to audio." ← Ongoing History of New Music > What Exactly is Post Rock？ Part 2 | https://www.youtube.com/watch?v=9-v4qnOO8wY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Volume as a Weakness** : For many years, the guitar's inherent quietness was considered a significant limitation. It was often deemed a feminine instrument, suitable for young ladies, and its low volume meant it could only be enjoyed in specific, intimate settings. "This underscored the guitar's weakness, volume. For years, its inherent quietness was considered very feminine. The Spanish guitar was one of the few instruments outside the piano that was considered appropriate for young ladies to play. And because it didn't produce much volume, it could really only be enjoyed in certain settings." ← Ongoing History of New Music > The Story of the Electric Guitar - Part 1 | https://www.youtube.com/watch?v=E6cXyaHALBQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Waddy Wachtel's Session Work** : Waddy Wachtel is renowned as a "legendary session guitarist," indicating his significant contributions to countless studio recordings and his high regard within the music industry. "the legendary Wadi Wachtell a session guitarist." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
+**Wah-Wah Guitar on "1984"** : The track "1984" on David Bowie's 1974 'Diamond Dogs' album featured a "quite funky" wah-wah guitar. Critics noted its resemblance to Isaac Hayes' "Theme from Shaft," highlighting Bowie's early R&B influences. "The Wawa Guitar on 1984 was quite funky. Critics said it sounded like Isaac Hase's theme from Shaft." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 1 | https://shows.acast.com/hit-parade/episodes/696aa42a4796fcbb571adba7
 **Wolves Song Tuning** : The song "Wolves" by Big Wreck was developed when Ian Thorneley discovered a particular guitar tuning and shape, which inspired the song's creation. "but we put the guitar in a particular tuning. I was, I think I was on the phone at the time and my fingers just kind of found a shape." ← Ongoing History of New Music > Ian Thornley - In His Own Words： Part 2 | https://www.youtube.com/watch?v=QIA7V4PxCdM&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- Beck
-- Ian Thorneley
-- Jacob Danger Armstrong
-- Jay Weinberg
-- Joe Sumner
+- Adam Jones
+- Adolf Jacobs
+- Alabama Shakes
+- Alice in Chains
+- Alien Ant Farm
+- Anthony Carone
+- Arkells
+- Beastie Boys
+- Bill Doggett
+- Bill Withers
+- Billy Lee Riley
+- Billy Talent
+- Black Oak Arkansas
+- Bob Marley
+- Bob Montgomery
+- Bob Welch
+- Bob Wills
+- Bob Wills and His Texas Playboys
+- Booker T. Jones
+- Brad Delson
+- Buddy Holly
+- Captain Kick and the Cowboy Ramblers
+- Carl Perkins
+- Carlos Alomar
+- Carol K
+- Charlie Christian
+- Chet Atkins
+- Chips Moman
+- Chris Berkett
+- Chuck Berry
+- Clifton White
+- Colin Cripps
+- Dale Hawkins
+- Daniel Ash
+- Danny Kirwan
+- Dave Davis
+- Dave Grohl
+- Dave Van Ronk
+- David Bowie
+- David Gilmour
+- David Graham
+- Dead Grips
+- Depeche Mode
+- Dick Dale
+- Django Reinhart
+- Ed O'Brien
+- Eddie Willis
+- Elvis Costello
+- Elvis Presley
+- Ernest Ranglin
+- Foo Fighters
+- Gene Vincent
+- Gerry Rafferty
+- Graham Bond Organisation
+- Graham Coxon
+- Hank Garland
+- Hank Williams
+- Hassel Adkins
+- Hillel Slovak
+- Hilton Valentine
+- Imagine Dragons
+- Jack White
+- James Burton
+- Jane's Addiction
+- Janice Martin
+- Jeff "Skunk" Baxter
+- Jeff Beck
+- Jeff Buckley
+- Jet Beck
+- Jim Martin
+- Jimi Hendrix
+- Jimmy Page
+- Jody Williams
+- Joe Mephys
+- Joe Walsh
+- Joey Santiago
 - John Frusciante
-- Levi Evans
+- Johnny Greenwood
+- Johnny Marr
+- Johnny Thunders
+- Josh Homme
+- Joy Division
+- KISS
+- Kelly Deal
+- Kings of Leon
+- Kurt Cobain
+- Kurt Schaffer
+- Lana Del Rey
+- Les Paul
+- Link Wray
+- Luther Perkins
+- Manfred Mann (band)
+- Marshall Grant
+- Marvin Tarplan
+- Matt Bellamy
+- Maybell Carter
+- Memphis Mini
+- Memphis Minnie
+- Michael Karoli
+- Michael Ward
+- Mick Ronson
+- Mickey Baker (MacHuston Baker)
+- Mike Vickers
+- My Bloody Valentine
+- Nancy Wilson
+- Nate Albert
+- New Order
+- Nihilist Spasm Band
+- Nirvana
+- Noel Gallagher
+- Nora Jones
+- Norah Jones
+- Oasis
+- Pat Smear
+- Paul Burlison
+- Paul Stanley
+- Peggy Jones
+- Perry Bamonte
+- Phil Harvey band
+- Phil Spector
+- Phoebe Bridgers
+- Poison Ivy
+- Radiohead
+- Rage Against The Machine
+- Rage Against the Machine
+- Ray Davis
+- Rene Hall
+- Reznik
+- Richie Polador
+- Richie Valens
+- Rob Baker
+- Robert Fripp
+- Roy Orbison
+- Russell Senior
+- Santana
+- Sinead O'Connor
+- Sister Rosetta Tharp
+- Sloan
+- Sonic Youth
+- Sonny Curtis
+- Sonny Jones
+- Steve Cropper
+- Steve Howe
+- Steve Jones
+- Sugar (Johnny Otis's son)
+- Sylvester Weaver
+- Sylvia Van Topoele (Little Sylvia, Sylvia Robinson)
+- The Animals
+- The B-52's
+- The B-52s
+- The Blue Caps
+- The Brothers Johnson
+- The Clash
+- The Edge
+- The Gamblers
+- The Kingsmen
+- The Light Crust Doughboys
+- The Mighty Mighty Bosstones
+- The Night Watchman
+- The Ramones
+- The Rock and Roll Trio
+- The Sleepwalkers
+- The Smiths
+- The Tragically Hip
+- The White Stripes
+- The Wink Westerners
+- They Might Be Giants
+- Thomas McClary
+- Tim Buckley
+- Tim Oxford
+- Tom McGuinness
+- Tom Morello
+- Tony Iommi
+- Trent Carr
+- Trent Reznor
 - U2
+- Wanda Jackson
+- Warren Cuccurullo
+- Weezer
+- Woody Guthrie
 

@@ -4,5 +4,9 @@
 - Jerry Nolan
 
 ## curiosities
-**Nancy Spungen as Groupie – Followed the Drummer to England** : Nancy Spungen was a groupie of the Heartbreakers. She followed their drummer, Jerry Nolan, to England in an attempt to win him over, which eventually led to her encountering Sid Vicious. "When she followed Heartbreakers drummer Jerry Nolan to England to try and win him over, she stumbled onto this guy named Sid." ← https://www.youtube.com/watch?v=OcylgiXkDP8
+**Nancy Spungen as Groupie – Followed the Drummer to England** : Nancy Spungen was a groupie of the Heartbreakers. She followed their drummer, Jerry Nolan, to England in an attempt to win him over, which eventually led to her encountering Sid Vicious. "When she followed Heartbreakers drummer Jerry Nolan to England to try and win him over, she stumbled onto this guy named Sid." ← https://www.youtube.com/watch?v=OcylgiXkDP8 ← heartbreakers
 
+
+
+## lists
+**"L.A.M.F." (1977) — Scaruffi 1970s** : #101, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

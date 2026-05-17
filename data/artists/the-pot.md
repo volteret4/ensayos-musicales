@@ -4,5 +4,9 @@
 - Southern Rock
 
 ## curiosities
-**Southern Rock Association** : The Pot is listed as an artist associated with the Southern Rock genre, one of the names that people might automatically think of when a band identifies as being from Tennessee. "you ask anyone ever asking where your band is from, whatever you say, Tennessee, that automatically think, oh, Southern Rock or Leonard Skinner or Almond Brothers or the Pot." ← https://www.youtube.com/watch?v=KyvYpggZXiU
+**Southern Rock Association** : The Pot is listed as an artist associated with the Southern Rock genre, one of the names that people might automatically think of when a band identifies as being from Tennessee. "you ask anyone ever asking where your band is from, whatever you say, Tennessee, that automatically think, oh, Southern Rock or Leonard Skinner or Almond Brothers or the Pot." ← https://www.youtube.com/watch?v=KyvYpggZXiU ← the-pot
 
+
+
+## lists
+**"Warsaw 480km" (2025) — Bandcamp: The Best Albums of 2025** : #40. ← musicbrainz | https://beta.musicbrainz.org/series/e71890ee-e707-4eae-af8f-b60074d08730

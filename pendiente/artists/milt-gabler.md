@@ -1,0 +1,20 @@
+# artist - Milt Gabler
+
+## labels
+- Commodore
+- Decca Records
+- Decca Records (Vice President)
+
+## songs
+**Choo Choo Ch'Boogie** : Milt Gabler co-wrote "Choo Choo Ch'Boogie," a song that bridged country and western with rhythm and blues in Louis Jordan's performance. "Tchoo-choo-choo-bougie was co-written by Gablea" ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
+
+## curiosities
+**Decca Vice President (1957)** : Milt Gabler was a vice president at Decca Records who had started as a musician and founded his own specialty jazz label, similar to Bob Thiele. However, Paul Cohen held authority over him regarding Buddy Holly's contract. "But Cohen explained to him that Gabler was only a vice president, and that he worked for Cohen." ← Episode Sixty-One： ＂That'll Be the Day＂, by the Crickets | https://www.youtube.com/watch?v=KVJMKLc54O0
+**Founder of Commodore Records** : Following success with his reissue label, Milt Gabler expanded into producing new records, establishing the Commodore label. "After he had some success with that, he branched out into making new records on a new label, Commodore." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
+**Innovator in Liner Notes** : Gabler's record labels pioneered the practice of including a full list of all musicians on a record on the label itself, a detail highly valued by music enthusiasts. "His labels pioneered things like putting a full list of all the musicians on a record on the label, the kind of thing that real music obsessives cared far more about than the executives who only wanted to make money." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
+**Long-Term Collaboration with Louis Jordan** : After joining Decca Records in 1941, Milt Gabler initiated a lengthy and impactful collaboration with Louis Jordan. "and he began a long collaboration with Louis Jordan." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
+**Move to Decca Records (1941)** : Following the immense success of "Strange Fruit," Milt Gabler was recruited by Decca Records in 1941, where he became a staff producer and was responsible for producing many significant records of the 1940s, including Lionel Hampton's "Flying Home." "As a result of Strange Fruit's success, Milt Gabler was headhunted away from his own label and became a staff producer at Decker Records in 1941." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
+**Pioneer of Reissue Record Labels** : In 1935, Milt Gabler, a record shop owner with a passion for jazz, founded the very first reissue record label to license and re-release out-of-print recordings by artists such as Bix Beiderbecke and Bessie Smith for his customers. "So in 1935, Gabler started his own record label and licensed those out of print recordings by people like Big Spiderbeck and Bessie Smith, becoming the owner of the very first ever reissue record label." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
+**Producer of "Strange Fruit"** : Milt Gabler, a friend and politically left-leaning, negotiated a special deal with Columbia Records to produce Billy Holiday's "Strange Fruit" for a single session and release it on his Commodore label. The record sold over a million copies and became a landmark recording. "He eventually negotiated a special deal with Columbia, Holiday's label, that he could produce her for one session and put out a single recording by her on Commodore." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
+**Producer of Bill Haley and His Comets** : Milt Gabler produced Bill Haley and His Comets, an act that covered Louis Jordan's "Choo Choo Ch'Boogie" and heavily based their style on Jordan's music. "another act built cable produced, an act two more than any other based their style on Jordans" ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
+

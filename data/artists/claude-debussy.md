@@ -4,5 +4,13 @@
 - Classical
 
 ## curiosities
-**Use of Devil's Triad** : Debussy, a significant figure in classical music, is mentioned as one of many classical composers who utilized the "devil's tri tone" (flattened fifth) in his compositions. This usage indicates the interval's presence and acceptance within the classical music canon, predating its later demonization in popular music. "But then it did show up in a lot of classical compositions from people like Beethoven, Wagner, Debussy, Lyst, Sabelius, Bartok, dozens of others." ← https://www.youtube.com/watch?v=41eKVp8JIhU
+**Use of Devil's Triad** : Debussy, a significant figure in classical music, is mentioned as one of many classical composers who utilized the "devil's tri tone" (flattened fifth) in his compositions. This usage indicates the interval's presence and acceptance within the classical music canon, predating its later demonization in popular music. "But then it did show up in a lot of classical compositions from people like Beethoven, Wagner, Debussy, Lyst, Sabelius, Bartok, dozens of others." ← https://www.youtube.com/watch?v=41eKVp8JIhU ← claude-debussy
 
+
+
+## awards
+**Prix de Rome (1884)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q576434
+**Knight of the Legion of Honour (1903)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q10855271
+
+## lists
+**"Super Monster" (2021) — AOTY Must Hear 2020s** : #586, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/

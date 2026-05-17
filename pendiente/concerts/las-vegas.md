@@ -1,0 +1,8 @@
+# concert - Las Vegas
+
+## curiosities
+**Billy Ward and his Dominoes Residency** : Billy Ward and his Dominoes held a two-year residency in Las Vegas, where they supported Louis Prima and Keely Smith, earning $5,000 a week. "They got a two year residency in Las Vegas, supporting Louis Prima in Keely Smith." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
+**Cornel Gunter's Murder Location** : Cornel Gunter, who potentially saved Jackie Wilson's life on stage, was murdered in Las Vegas in 1990 by an unknown gunman, leading to speculation about connections to Wilson's collapse and Nat Tarnapol. "Cornel Gunter, who had been there when Wilson collapsed, and had always thought there was something strange about it, was murdered himself in 1990, in Las Vegas, by an unknown gunman." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
+**Elvis Presley's Initial Struggles** : In 1956, Elvis Presley made his first performance trip to Las Vegas, finding far less success than he would 13 years later. "In 1956, Elvis made his own first trip to perform in Vegas, though he was far far less successful there than he would be 13 years later." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
+**Jackie Wilson's Dislike of Vegas** : Jackie Wilson found Las Vegas to be a poor fit for his ambitions, as he chafed at the discipline required by The Dominoes and the constant stationary performing. "But Vegas wasn't a good fit for Wilson. He chafed at the discipline of the Dominoes, and at staying in one place all the time." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
+

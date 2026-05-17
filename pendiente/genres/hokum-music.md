@@ -1,0 +1,6 @@
+# genre - Hokum Music
+
+## curiosities
+**Simple Structure and Innuendo-Laden Lyrics** : Characterized by simple songs with a verse-chorus structure, Hokum music typically featured lyrics that employed extended comedy metaphors, most often involving sexual innuendo, with descriptive titles like "Meatballs" and "Banana in your Fruit Basket." "It usually involved simple songs with a verse, Corvus structure, and with lyrics that were an extended comedy metaphor, usually some form of innuendo about sex, with titles like Meatballs and Banana in your Fruit Basket." ← Episode 54： Keep A Knockin | https://www.youtube.com/watch?v=oA4Y_K9E5Y4
+**Vaudeville and Minstrel Show Origins** : Hokum music, often incorrectly categorized as blues today, actually originated from vaudeville and especially minstrel shows, enjoying widespread popularity in the early decades of the 20th century. "Hocom music is a form which is now usually lumped into the blues by most of the few people who come across it, but which actually comes from Vorderville and especially from minstrel shows and was hugely popular in the early decades of the 20th century." ← Episode 54： Keep A Knockin | https://www.youtube.com/watch?v=oA4Y_K9E5Y4
+

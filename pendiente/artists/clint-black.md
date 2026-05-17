@@ -1,0 +1,6 @@
+# artist - Clint Black
+
+## curiosities
+**Criticism of Urban Cowboy's Impact on Country Music (2003)** : Black initially expressed reluctance to be involved in the *Urban Cowboy* Broadway musical in 2003, echoing sentiments from others in the country music industry who felt the movie "harmed" country music. He believed it made the genre "less pure" by introducing too many pop influences, even though he later softened his stance. "His argument was a lot like others in the country music industry who said that country music was somehow harmed by urban cowboy it made it less pure was the way that black put it." ← For the Record - The 70s > Ep. 50 - The Travolta Trilogy | https://www.ftr70.com/
+**Urban Cowboy Musical Reluctance** : Clint Black was initially hesitant to contribute music to the "Urban Cowboy" musical because he felt the movie had made country music "less pure" and "too popular." He even suggested changing the musical's name to Aaron Latham, who declined. Black and Charlie Daniels eventually provided music for the show. "Black said, well, I do have some problems with it. You know, people think that Urban Cowboy changed country music, made it less pure." ← For the Record - The 70s > Ep. 28 - Soundtracks of the 70s | https://seventies.libsyn.com/028-soundtracks-of-the-70s-12221-5-45-pm
+

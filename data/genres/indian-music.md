@@ -1,5 +1,5 @@
-# genre - Indian Music
+# genre - Indian music
 
 ## curiosities
-**32-Note Scale System** : Indian music employs a 32-note scale system, which contrasts significantly with the 12-note scale used in Western music. While this unique tuning may sound "out of tune" to unaccustomed Western ears, it is considered exciting and deeply resonant within its cultural context. "Indian music, they use 32 notes. And to us, it sounds out of tune, but to them it feeds them. It gives them excitement." ← Ongoing History of New Music > Studio Stories with Chris Birkett | https://www.youtube.com/watch?v=mjQBaX_3oL4&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Influence on The Beatles** : Indian music provided a wealth of inspiration for The Beatles, particularly after their visit to India. Their incorporation of Indian musical elements into albums such as *Revolver* and *Sgt. Pepper's Lonely Hearts Club Band* was a significant cultural exchange. "inspiraciones musicales indias que tenemos en el revolver, en el sáez de enpepersen mucha parte de la mejor discorancia de los Beatles, sin enorme, sin influencias de la música indú." ← Music Radar Clan > ROSALIA. Por qué la apropiación cultural es un timo. | https://www.youtube.com/watch?v=PubYV9sbFQw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 

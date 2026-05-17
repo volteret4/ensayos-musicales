@@ -4,5 +4,6 @@
 - Audioslave
 - Indian Style
 - Prophets of Rage
+- Rage Against The Machine
 - Rage Against the Machine
 

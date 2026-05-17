@@ -1,0 +1,6 @@
+# instrument - Plato de DJ
+
+## curiosities
+**Invention and Cultural Impact (1980)** : The modern DJ turntable, also referred to as "turnabilism," was invented in 1980. Its creation fostered a new culture of using vinyl records and turntables as musical instruments, particularly within the burgeoning electronic music scene. "en 1980 se inventa el turnabilismo o el plato de DJI moderno y entonces hace toda una cultura de usar el disco de vinilo y el plato como un instrumento." ← Music Radar Clan > ESPECIAL FORMATOS： Historia del Vinilo. | https://www.youtube.com/watch?v=XPrymLbp3Ag&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Technological Development Driven by DJs** : The use of vinyl records and turntables as instruments led to a "golden age" of technological development for brands like Technics and Pioneer. This innovation pushed advancements in an industry that was previously considered obsolete. "aparece la época dorada de techniques de Pioneer y entonces tenemos un enorme desarrollo tecnológico sobre una industria que se consideraba obsoleta." ← Music Radar Clan > ESPECIAL FORMATOS： Historia del Vinilo. | https://www.youtube.com/watch?v=XPrymLbp3Ag&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+

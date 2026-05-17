@@ -4,6 +4,11 @@
 - Britpop
 
 ## curiosities
-**Britpop Party Attendee** : Cast was listed among the bands that were part of the Britpop scene and received coverage during its peak. "Here's a list of some of the people at the Britpop party. ...Cast..." ← https://www.youtube.com/watch?v=5q5EnZj1FwE
-**Similar to Oasis** : Cast was among the bands that started to appear, sounding similar to Oasis, demonstrating the latter's popularity and influence within the Britpop scene. "The Oasis approach proved to be so popular that they started to hear and see similar bands." ← https://www.youtube.com/watch?v=DSvoppf1dGY
+**Britpop Party Attendee** : Cast was listed among the bands that were part of the Britpop scene and received coverage during its peak. "Here's a list of some of the people at the Britpop party. ...Cast..." ← https://www.youtube.com/watch?v=5q5EnZj1FwE ← cast
+**Similar to Oasis** : Cast was among the bands that started to appear, sounding similar to Oasis, demonstrating the latter's popularity and influence within the Britpop scene. "The Oasis approach proved to be so popular that they started to hear and see similar bands." ← https://www.youtube.com/watch?v=DSvoppf1dGY ← cast
 
+
+
+## lists
+**"The Noise Made By People" (2000) — AOTY Must Hear 2000s** : #513, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
+**"Haha Sound" (2003) — Scaruffi 2000s** : #255, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

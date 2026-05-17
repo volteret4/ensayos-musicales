@@ -1,23 +1,30 @@
-# artist - Gil Scott Heron
-
-## member of
-- Gil Scott Heron
-
-## members
-- Gil Scott Heron
+# artist - Gil Scott-Heron
 
 ## genres
-- Poetry
+- Hip Hop
+- Jazz
 - Rap
+- Spoken Word
 
 ## albums
-**Pieces of Man (1971)** : This album, created with Brian Jackson, placed much more emphasis on music compared to "Small Talk at 125th and Lennox." It features the version of "The Revolution Will Not Be Televised" that is most widely known, serving as a "literal time capsule of early 70s America." The song includes references to celebrities of the era like Glen Campbell, Natalie Wood, and Tom Jones, and offers commentary on white America and mass consumerism. "It is a literal time capsule of early 70s America, not just with the references to the celebrities of the era like Glen Campbell, Natalie Wood, Tom Jones, but with commentary on white America as well as mass consumerism." ← For the Record - The 70s > Ep. 6 - The 70s Roots of Hip Hop | https://seventies.libsyn.com/ep-6-the-70s-roots-of-hip-hop
-**Small Talk at 125th and Lennox (1970)** : This album is considered a precursor to rap, featuring Gil Scott Heron reciting poems, including "The Revolution Will Not Be Televised," accompanied by a bongo. The recording took place with a small group of people on folding chairs. Its release coincided with the emergence of FM Radio in bigger cities, allowing some cuts to be played on underground FM stations and boosting record sales. In 2005, the original version of "The Revolution Will Not Be Televised" from this album was added to the National Recording Registry by the Library of Congress due to its historical and cultural significance. Malik Al Nassir noted that without this album, hip hop might have been limited to just "Rapper's Delight." "I went to the studio with a small group of folks on folding chairs and did poems from Small Talk in a few songs I had done on pianos and coffee houses." ← For the Record - The 70s > Ep. 6 - The 70s Roots of Hip Hop | https://seventies.libsyn.com/ep-6-the-70s-roots-of-hip-hop
+**Sex and Soul (1971)** : This album included the anti-Vietnam war song "Open Letter to the President" and a song about slavery called "I Wasn't There But I Can Feel the Pain." These tracks were recorded for the Mercury label, whose president expressed a desire for Roy Hammond to avoid political songs, believing they hindered his career. "Which was on the same album called Sex and Soul That had a song about slavery called I wasn't there but I can feel the pain" ← For the Record - The 70s > Ep. 5 - Anti-Nixon Songs of the 70s | http://www.ftr70.com
+**Small Talk at 125th and Lenox (1970) - Political Narratives** : An album from 1970 by Gil Scott-Heron, recognized for its narratives infused with significant political content. This work was a very important inspiration for artists like Public Enemy, influencing the political dimension of rap with its jazz-infused political storytelling that emerged in the 1970s. "el disco a geron tiene esas narrativas con importante contenido político luego fueron una inspiración muy importante para algunas artistas como public enemy esa vertiente del rap que fue cogiendo contenido político tuvo unas importantes influencias en este jazz con narrativa política que se hicieron en los 70 como el disco a geron." ← Music Radar Clan > El RAP antes del RAP (los primeros años del rap) | https://www.youtube.com/watch?v=USvB-AVhfzs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## songs
-**The Revolution Will Not Be Televised (1970)** : This piece, initially released on the album "Small Talk at 125th and Lennox" in 1970, features Gil Scott Heron reciting (or "rapping") words over a bongo accompaniment. A more musically emphasized version was released in 1971 on "Pieces of Man." The lyrics provide sharp social commentary, critiquing consumerism and media, with lines like "The Revolution will not go better with Coke" and "The Revolution will not fight the germs that may cause bad breath." The 1970 original was inducted into the National Recording Registry by the Library of Congress in 2005 for its historical and cultural importance, and is seen as a foundational piece influencing hip hop's later political direction. "The Revolution will not be televised." ← For the Record - The 70s > Ep. 6 - The 70s Roots of Hip Hop | https://seventies.libsyn.com/ep-6-the-70s-roots-of-hip-hop
+**H-2-Ogate Blues (Fall 1973)** : Recorded in the fall of 1973 and released in 1974, this spoken word track addresses the Watergate scandal. Its lyrics directly question the evidence of election sabotage and call for a re-election if trickery and greed determined the outcome. "How much more evidence do the citizens need that the election was sabotaged by trickery and greed And if this is so and who we got didn't win, then let's do the whole goddamn election over again" ← For the Record - The 70s > Ep. 5 - Anti-Nixon Songs of the 70s | http://www.ftr70.com
+**We Beg Your Pardon America (1974)** : Released after Richard Nixon's resignation and Gerald Ford's pardon of Nixon, this spoken word record criticizes Ford for the pardon. It serves as a sequel to "H-2-Ogate Blues," continuing Gil Scott-Heron's commentary on the Watergate scandal and the perceived injustice of Nixon's unpunished actions compared to ordinary citizens facing jail time for minor offenses. "We beg your pardon because the pardon you gave this time was not yours to give" ← For the Record - The 70s > Ep. 5 - Anti-Nixon Songs of the 70s | http://www.ftr70.com
 
 ## curiosities
-**Early Life in the Bronx** : Gil Scott Heron was born in Chicago but was sent to live with his grandmother in the Bronx around 1961, when he was about 12 years old. This experience likely informed his later work, as the Bronx's socio-economic conditions were deteriorating throughout the 70s, which became a fertile ground for the birth of hip hop. "Gil was born in Chicago, but he was sent to live in the Bronx with his grandmother when he was about 12, which was around 1961." ← For the Record - The 70s > Ep. 6 - The 70s Roots of Hip Hop | https://seventies.libsyn.com/ep-6-the-70s-roots-of-hip-hop
-**Poetic Foundations** : Before his musical career, Gil Scott Heron established himself as a poet. His first book of poetry, titled "Small Talk at 125th and Lennox," was published in 1970, and he subsequently recorded an album of the same name. This background in poetry directly influenced his spoken-word musical style, which is seen as a precursor to rap. "He was a poet, and his first book of poetry was published in 1970 and was called Small Talk at 125th and Lennox." ← For the Record - The 70s > Ep. 6 - The 70s Roots of Hip Hop | https://seventies.libsyn.com/ep-6-the-70s-roots-of-hip-hop
+**"Founder of Hip Hop" Title** : Gil Scott-Heron is widely regarded by many as the founder of hip hop, a title he never personally sought or embraced. His work often consisted of spoken word pieces, which resembled early rap, and sometimes incorporated jazzy elements, always characterized by thoughtful observation. "Gil is considered by many to be the founder of hip hop But he never really wanted that title" ← For the Record - The 70s > Ep. 5 - Anti-Nixon Songs of the 70s | http://www.ftr70.com
 
+
+
+## awards
+**Grammy Lifetime Achievement Award (2012)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q935843
+**Rock and Roll Hall of Fame (2021)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
+
+## lists
+**"Winter in America" (1974) — 1001 Albums You Must Hear Before You Die** : #315.
+**"Pieces of a Man" (1971) — AOTY Must Hear 1970s** : #203, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
+**"I’m New Here" (2010) — AOTY Must Hear 2010s** : #940. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
+**"I’m New Here" (2010) — Pitchfork: The 200 Best Albums of the 2010s** : #176. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559

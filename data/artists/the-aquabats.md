@@ -8,7 +8,15 @@
 - The Mysterious KYU Catboy
 
 ## curiosities
-**Lending Travis Barker to Blink** : The Aquabats displayed remarkable cooperation by "really cool"ly lending their drummer, Travis Barker, to Blink when Scott Rainer needed to return to California. "When Scott Rainer had to go back to California, the Aquabats were really cool in lending Travis to Blink." ← https://www.youtube.com/watch?v=eljIIqCu5gU
-**Origin and Concept** : Formed in Huntington Beach, California, The Aquabats adopted a unique persona as "punk rock superheroes," performing in elaborate costumes. "The Aquabats were formed in Huntington Beach, California. And they had this stick of being punk rock superheroes, complete with costumes." ← https://www.youtube.com/watch?v=eljIIqCu5gU
-**Theatrical Live Shows** : Their concerts are known for being elaborate and "crazy," incorporating elements of theater, special effects, pyrotechnics, and extensive audience participation, featuring characters like the "Chicken Man" who distributes fried chicken to the audience. "Their concerts were crazy, full of theater and special effects and pyro and audience participation." ← https://www.youtube.com/watch?v=eljIIqCu5gU
+**Lending Travis Barker to Blink** : The Aquabats displayed remarkable cooperation by "really cool"ly lending their drummer, Travis Barker, to Blink when Scott Rainer needed to return to California. "When Scott Rainer had to go back to California, the Aquabats were really cool in lending Travis to Blink." ← https://www.youtube.com/watch?v=eljIIqCu5gU ← the-aquabats
+**Origin and Concept** : Formed in Huntington Beach, California, The Aquabats adopted a unique persona as "punk rock superheroes," performing in elaborate costumes. "The Aquabats were formed in Huntington Beach, California. And they had this stick of being punk rock superheroes, complete with costumes." ← https://www.youtube.com/watch?v=eljIIqCu5gU ← the-aquabats
+**Theatrical Live Shows** : Their concerts are known for being elaborate and "crazy," incorporating elements of theater, special effects, pyrotechnics, and extensive audience participation, featuring characters like the "Chicken Man" who distributes fried chicken to the audience. "Their concerts were crazy, full of theater and special effects and pyro and audience participation." ← https://www.youtube.com/watch?v=eljIIqCu5gU ← the-aquabats
 
+
+
+## charts
+**"Barbie Girl" — Billboard Year-End Hot 100** : #94, 1997. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**""Barbie Girl" ‡" — UK Singles Chart** : #12, 1998. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+
+## lists
+**"Aquarium" (1997) — Scaruffi 1990s** : #413, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

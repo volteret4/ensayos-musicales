@@ -1,0 +1,6 @@
+# label - BMI
+
+## curiosities
+**ASCAP Rival and "Low-Class Music" Advocate** : BMI (Broadcast Music, Inc.) was set up as a rival to ASCAP a couple of years before 1941. Unlike ASCAP, BMI dealt exclusively with "low-class music," including blues, country songs, gospel songs, hillbilly music, and boogie, which ASCAP did not deem important. This focus proved advantageous during the ASCAP Boycott. "BMI dealt with only the low-class music, the blues, and country songs, and gospel songs, and hillbilly music, and boogie." ← Episode 2： ＂Roll Em Pete＂ by Big Joe Turner | https://www.youtube.com/watch?v=thpMb1A_fAs
+**Beneficiary of ASCAP Boycott** : During the ten-month ASCAP Boycott in 1941, BMI's repertoire of "low-class" music became immensely important because it was almost the only music, alongside public domain songs, that radio stations were allowed to play. This gave a massive audience to blues, hillbilly, and boogie performers and effectively served as free publicity for these previously marginalized genres. "Except that now, all that music became very important, because that was all you could play on the radio." ← Episode 2： ＂Roll Em Pete＂ by Big Joe Turner | https://www.youtube.com/watch?v=thpMb1A_fAs
+

@@ -1,0 +1,7 @@
+# artist - Tom T. Hall
+
+## songs
+**Harper Valley PTA** : Tom T. Hall wrote this song, which was later recorded by Genie C. Riley and became a major hit. The song is described as being in the same vein as Bobby Gentry's "Ode to Billie Joe." "Harper Valley PTA is a really good example. It was written by Tom T. Hall and it's in the same vein as Bobby Gentries owed to Billy Joe which had been released in 1967." ← For the Record - The 70s > Ep. 23 - Women of Country Music in the 70s | https://seventies.libsyn.com/023-country-women-72820-2-45-pm
+**Harper Valley PTA (1968)** : Tom T. Hall wrote this "very much a feminist song" which was released in 1968. It tells the story of a mother confronting the Harper Valley PTA about their judgment of Mrs. Johnson's mini skirt, urging them to mind their own business. "It was very much a feminist song that was released in 1968 about a mom telling the Harper Valley PTA to mine their own business about Mrs. Johnson's mini skirt" ← For the Record - The 70s > Ep. 5 - Anti-Nixon Songs of the 70s | http://www.ftr70.com
+**Watergate Blues (1973)** : Inspired by the 1972 election scandal and Watergate, Tom T. Hall wrote this song in 1973 to summarize the unfolding events. Although it never became a top 40 record, it was a popular request at his live shows, capturing the public's sentiment about the political climate. "So they dug in the Watergate and the further they went, it seemed as if they might just run into the president" ← For the Record - The 70s > Ep. 5 - Anti-Nixon Songs of the 70s | http://www.ftr70.com
+

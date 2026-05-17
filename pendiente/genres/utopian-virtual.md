@@ -1,0 +1,14 @@
+# genre - Utopian Virtual
+
+## curiosities
+**Emulation Over Sampling** : Unlike many other vaporwave subgenres, Utopian Virtual emulates these sounds rather than using original samples, creating an unsettling sensation by blending the human and the artificial. "A diferencia de los otros superstilos, lutopía virtual emula esos sonidos en lugar de usar samples originales, generando una sensación de vayan quietante al mezclar lo humano y lo artificial." ← Vaporwave： Mucho más que un Meme | https://www.youtube.com/watch?v=BhOnKc0SxsA
+**MIDI-Centric and Evocative of Obsolete Tech** : The style is characterized by the use of monophonic synthesizers and, notably, MIDI sounds, which evoke the "kitschy" aspects of that technological and obsolete era—the time of CD-ROMs, encyclopedias, Hi-Fi equipment, and early 3D artistic renders. "El estilo se caracteriza por el uso de sintetizadores monofónicos y especialmente sonidos MIDI que evoca el locúrsi de esa era tecnológica y a obsoleta." ← Vaporwave： Mucho más que un Meme | https://www.youtube.com/watch?v=BhOnKc0SxsA
+**Named After Ferraro's Album** : The genre's name is derived from James Ferraro's seminal album *Far Side Virtual*. "El nombre deriva del álbum Fyre's Eye Virtual de Ferraro." ← Vaporwave： Mucho más que un Meme | https://www.youtube.com/watch?v=BhOnKc0SxsA
+**Recent Peak in Popularity** : The genre has experienced a recent peak in popularity, thanks to artists like Crypto Volans and Highliner. "El genero está teniendo los últimos años un pico de popularidad gracias a artistas tan geniales como Cripto Volans o Highliner." ← Vaporwave： Mucho más que un Meme | https://www.youtube.com/watch?v=BhOnKc0SxsA
+**Sophisticated, Corporate, and Technological Vaporwave (Originated Mid-2010s)** : Utopian Virtual emerged in the mid-2010s as a more sophisticated, corporate, and technological iteration of vaporwave, focusing on the aesthetics and sounds of 1980s and 1990s commercial electronic music, particularly corporate Muzak. "El Utopía Invirtual es una forma más sofisticada, corporativa y tecnológica del vaporwave. Emejió mediados de 2010, centrado en la estética y el sonido de la música electrónica comercial de los años 80 y 90, especialmente al muza corporativo." ← Vaporwave： Mucho más que un Meme | https://www.youtube.com/watch?v=BhOnKc0SxsA
+**Vaporwave Subgenre with Limited Reach** : Utopian Virtual is mentioned as an "interesting" subgenre of Vaporwave that, despite its artistic merit, failed to gain widespread connection with audiences outside of niche communities, contrasting with Phonk's broad adaptability. "su género está en interesantes como el malls off, el utopía anvirtual o el slash wave no lograron conectar con la gente más allá de nichos." ← ¿Qué pasó con el PHONK？ (La historia real) | https://www.youtube.com/watch?v=ehfWyUHFFT8
+
+## artists
+- Crypto Volans
+- Highliner
+

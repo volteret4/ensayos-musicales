@@ -1,0 +1,6 @@
+# genre - Chiptune
+
+## curiosities
+**Aesthetic Code of Video Game Sound Reclamation** : Chiptune is a modern genre that actively reclaims and reinterprets the unique aesthetic code born from the technical limitations of early video game sound. This movement solidifies a style that originated out of necessity into a distinct and recognized art form today. "este estilo que nació por necesidad, se ha consolido como un código estético propio del videojuego, y ese sonido está rebindicando hoy en día con géneros como el chiptune..." ← El fenómeno de Soundfont Album. Discos reinterpretados en videojuegos | https://www.youtube.com/watch?v=ekozTKngeAw
+**Keygen Music Preference** : Even in the 2000s, when computers were capable of high-quality MP3 playback, keygen programs often retained chiptune-style music. This was primarily for brand attribution and to maintain a recognizable signature, transforming the act of copying a key into a cybernetic infiltration mission with an exciting soundtrack, akin to Rave or Trance music. "Si en los años 2000 los ordenadores ya tenían capacidad de sogra para reproducir Mp3 de alta calidad, porque los queigen seguían con esta música chiption." ← El oscuro origen de la música de los KEYGEN | https://www.youtube.com/watch?v=_dccHK0JW5w
+

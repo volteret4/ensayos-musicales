@@ -4,8 +4,12 @@
 - Outsider Music
 
 ## songs
-**Dreaming (Year Unknown) – "Hit"** : This song is presented as a "hit" by the Texas-based group Complete. The audio quality for the sample was noted as "dodgy," having been salvaged from an old VHS tape. "The group is called Complete. And this is their, I guess, hit entitled Dreaming." ← https://www.youtube.com/watch?v=HcK4M7-02ik
+**Dreaming (Year Unknown) – "Hit"** : This song is presented as a "hit" by the Texas-based group Complete. The audio quality for the sample was noted as "dodgy," having been salvaged from an old VHS tape. "The group is called Complete. And this is their, I guess, hit entitled Dreaming." ← https://www.youtube.com/watch?v=HcK4M7-02ik ← complete
 
 ## curiosities
-**Origin** : Complete is a group from Texas. "And then we have this from Texas. The group is called Complete." ← https://www.youtube.com/watch?v=HcK4M7-02ik
+**Origin** : Complete is a group from Texas. "And then we have this from Texas. The group is called Complete." ← https://www.youtube.com/watch?v=HcK4M7-02ik ← complete
 
+
+
+## charts
+**"Walk Away Renée" — Billboard Year-End Hot 100** : #27, 1966. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

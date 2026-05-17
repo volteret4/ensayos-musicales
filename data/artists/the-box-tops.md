@@ -4,5 +4,12 @@
 - Alex Chilton (lead singer)
 
 ## songs
-**The Letter (1967)** : This song was a smash single in the summer of 1967, featuring a 16-year-old Alex Chilton as the lead singer. The success of this track preceded Chilton's formation of Big Star after The Box Tops broke up. "Their frontman was Alex Chilton, who as a 16 year old kid, was the lead singer for the box tops on their summer of 67 Smash single The Letter." ← https://www.youtube.com/watch?v=hstJ8M2laho ← the-box-tops
+**The Letter (1967)** : This song was a smash single in the summer of 1967, featuring a 16-year-old Alex Chilton as the lead singer. The success of this track preceded Chilton's formation of Big Star after The Box Tops broke up. "Their frontman was Alex Chilton, who as a 16 year old kid, was the lead singer for the box tops on their summer of 67 Smash single The Letter." ← https://www.youtube.com/watch?v=hstJ8M2laho ← the-box-tops ← the-box-tops
 
+
+
+## charts
+**"The Letter" — Billboard Year-End Hot 100** : #2, 1967. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Cry Like a Baby" — Billboard Year-End Hot 100** : #16, 1968. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Soul Deep" — Billboard Year-End Hot 100** : #98, 1969. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Sweet Cream Ladies" — Billboard Year-End Hot 100** : #100, 1969. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

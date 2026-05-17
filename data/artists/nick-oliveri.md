@@ -1,9 +1,15 @@
 # artist - Nick Oliveri
 
 ## member of
-- Queens of the Stone Age
 - Kyuss
+- Queens of the Stone Age
 
 ## curiosities
-**Early Kyuss Member** : Nick Oliveri was Josh Homme's friend and played bass on the 1987 Sons of Kyuss demo. He later left the band and then rejoined. "Josh is buddy Nick Olivary, drummer Brett Bjork and singer John Garcia, recorded a demo." ← https://www.youtube.com/watch?v=mG1TQuhcf1o ← nick-oliveri
-**Joined Queens of the Stone Age** : Oliveri agreed to join Josh Homme's new band, Queens of the Stone Age, a moment captured in a phone message at the end of the debut album's track "I Was a Teenage Hand Model." "If you go right to the end of that debut Queens album, you'll find a song called I Was a Teenage Hand Model. And if you scrub to the end of the song, you'll hear this phone message. It's a little hard to make out, but that's Nick agreeing to be in Josh's new band." ← https://www.youtube.com/watch?v=mG1TQuhcf1o ← nick-oliveri
+**Early Kyuss Member** : Nick Oliveri was Josh Homme's friend and played bass on the 1987 Sons of Kyuss demo. He later left the band and then rejoined. "Josh is buddy Nick Olivary, drummer Brett Bjork and singer John Garcia, recorded a demo." ← https://www.youtube.com/watch?v=mG1TQuhcf1o ← nick-oliveri ← nick-oliveri
+**Joined Queens of the Stone Age** : Oliveri agreed to join Josh Homme's new band, Queens of the Stone Age, a moment captured in a phone message at the end of the debut album's track "I Was a Teenage Hand Model." "If you go right to the end of that debut Queens album, you'll find a song called I Was a Teenage Hand Model. And if you scrub to the end of the song, you'll hear this phone message. It's a little hard to make out, but that's Nick agreeing to be in Josh's new band." ← https://www.youtube.com/watch?v=mG1TQuhcf1o ← nick-oliveri ← nick-oliveri
+
+
+
+## charts
+**"Jean" — Billboard Year-End Hot 100** : #23, 1969. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Good Morning Starshine" — Billboard Year-End Hot 100** : #43, 1969. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

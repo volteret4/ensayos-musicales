@@ -1,0 +1,16 @@
+# artist - Joe Melson
+
+## member of
+- Roy Orbison
+
+## songs
+**Come Back to Me My Love (1960)** : An attempted "knockoff" ballad by Melson and Orbison, written in the style of Mark Dinning's "Teen Angel." Fred Foster deemed it "awful" but salvaged a backing vocal hook, which was then combined with "Cry" to create "Only the Lonely." "Orbison and Melson were writing their own knockoff of that, called Come Back to Me My Love." ← Episode 83： ＂Only the Lonely＂ by Roy Orbison | https://www.youtube.com/watch?v=uDvkjXa1ALk
+**Cry (195?)** : A song Melson had written before ever meeting Roy Orbison. It was later reworked with Orbison into the initial version of "Only the Lonely." "Melson had written a song called Cry before ever meeting Orbison, and the two of them had reworked it into one called Only the Lonely." ← Episode 83： ＂Only the Lonely＂ by Roy Orbison | https://www.youtube.com/watch?v=uDvkjXa1ALk
+**Hey Mr. Cupid (196?)** : Joe Melson's most successful solo track, released during the period he was collaborating with Roy Orbison. The transcript invites listeners to compare its quality to Orbison's tracks without Melson. "you can judge for yourself whether his most successful solo track, Hey Mr. Cupid, is better or worse than the tracks Orbison did without him." ← Episode 83： ＂Only the Lonely＂ by Roy Orbison | https://www.youtube.com/watch?v=uDvkjXa1ALk
+
+## curiosities
+**Belief in Own Talent and Departure** : Melson grew increasingly convinced that he was the "real talent" in his partnership with Roy Orbison. He began releasing his own solo singles and eventually stopped working with Orbison after their last major collaboration, "Blue Bayou." "Melson was becoming increasingly convinced that he was the real talent in the partnership." ← Episode 83： ＂Only the Lonely＂ by Roy Orbison | https://www.youtube.com/watch?v=uDvkjXa1ALk
+**Contribution to Orbison's Backing Vocals** : Joe Melson frequently added a single male voice to the Anita Kerr Singers, providing the backing vocals for Roy Orbison's records for several years. "her vocal group, with Joe Melson adding a single male voice, would provide the backing vocals on them for the next few years." ← Episode 83： ＂Only the Lonely＂ by Roy Orbison | https://www.youtube.com/watch?v=uDvkjXa1ALk
+**Roy Orbison Collaborator** : Joe Melson became Roy Orbison's crucial songwriting collaborator, starting with "Uptown" and co-writing hits like "Only the Lonely" and "Running Scared." Their collaboration led to a distinctive style of "through-composed" songs, different from anything else in popular music at the time. "That Golden period came when he started collaborating with Joe Melson." ← Episode 83： ＂Only the Lonely＂ by Roy Orbison | https://www.youtube.com/watch?v=uDvkjXa1ALk
+**Writing in Orbison's Car** : The legend states Melson discovered Orbison writing songs in his car because his flat was too small to avoid disturbing his new baby. Melson suggested they work together, leading to their pivotal collaboration. "Melson apparently tapped on the car window and asked what Roy was doing, and when Roy explained, he suggested that the two of them start working together." ← Episode 83： ＂Only the Lonely＂ by Roy Orbison | https://www.youtube.com/watch?v=uDvkjXa1ALk
+

@@ -1,0 +1,41 @@
+# artist - Graham Parker
+
+## members
+- Graham Thomas Parker (birth name)
+
+## genres
+- Country (implied influence for producer Mutt Lang)
+- New Wave
+- Post Punk
+- Pub Rock
+- Punk
+- R&B
+- White Soul
+
+## labels
+- Arista Records
+- Mercury Records
+- Stiff Records
+
+## albums
+**Heat Treatment (1976)** : This album was released just six months after his debut, *Howlin' Wind*. It marked Parker's first appearance on the charts, reaching number 52 on the UK album chart and number 169 on Billboard's Top LPs in America. It also ranked number four on the Paz and Jop critics pole at the end of 1976. Most of the album was overseen by Robert John "Mutt" Lang, a future hard rock, pop, and country producer, an "odd pairing" Parker later sought to undo. Nick Lowe produced the album's track "Back Door Love." "heat treatment." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**Howlin' Wind (1976)** : His debut album with his backing band, The Rumor, produced by Nick Lowe, who presented Parker's songs with a "ragged frugality." The album was met with significant critical acclaim, with Rolling Stone praising The Rumors' "raw efficiency" and reserving "special praise for Parker's songwriting." Although it did not chart in the UK or US, it was ranked number two on the Paz and Jop critics pole at the end of 1976. "Howlin' Wind." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**Squeezing Out Sparks (1979)** : Parker's most celebrated album, which Arista Records chief Clive Davis supported with a "big advance and an ample recording budget." All Music's Stephen Thomas Erlewine later described it as a "masterful fusion of pub rock classicism, new wave pop and pure vitriol." Released in March 1979, the album finally pushed Parker into the top 40 on the album chart, peaking at number 40 and remaining on the chart for half a year. Critically, *Sparks* performed even better than his previous albums, with Paz and Jop ranking it first in its 1979 poll. "Squeezing Out sparks." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**The Parkerilla (1978)** : A "quicky live album" recorded with his band, The Rumor, which Parker undertook to fulfill his contract with Mercury Records, as he believed the label was "botching his career." His contempt for the project was evident when he remade an old track, "Don't Ask Me Questions," as a disco song specifically to fill side 4 of the double LP, a creative decision described as "not great." "The Parker Rilla." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+
+## songs
+**Back Door Love (1977)** : A "cheeky track" featured on the *Heat Treatment* album, which was produced by Nick Lowe. "Back Door Love." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**Don't Ask Me Questions (1978)** : An older track that Parker controversially remade as a disco song to fill side 4 of his live double LP, *The Parkerilla*. This was a deliberate act to show his contempt for the project and his dissatisfaction with Mercury Records. "don't ask me questions." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**Hold Back the Night (1977)** : A single from the *Heat Treatment* album that managed to crack Billboard's Hot 100, peaking at number 58 in 1977. "Hold Back the Night." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**I Want You Back (Jackson 5 cover) (1979)** : Following the critical success of *Squeezing Out Sparks*, Parker and The Rumor issued a live cover of this Jackson 5 song as a single, and it briefly appeared on the pop chart. "I Want You Back." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**Mercury Poisoning (1978)** : A "thinly veiled screed" against Mercury Records, which Parker issued as a "final kiss off" to the label. Released as a one-off by Stiff Records in the UK and Arista Records in the US, critics lauded it as one of Parker's best songs, further solidifying his reputation as one of rock's most acerbic scribes, drawing comparisons to The Sex Pistols' "EMI." "Mercury Poisoning." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**Silly Thing (1976)** : His horn-inflected debut single. This track showcased Parker's distinctive sound, described as "white soul crossed with pub rock," while his voice and vibe also carried the edgy influence of punk, creating an "unusual collision of styles." "The Horn Inflected Silly Thing." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**Sweet On You (unknown year)** : A single that failed to reach the Hot 100, illustrating Mercury Records' difficulties in effectively promoting Graham Parker. "Sweet On You." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+
+## curiosities
+**"Angry Young Men" Figure** : Parker gained acclaim from critics and tastemakers, becoming known as one of the "Angry Young Men." This was an ironic title, considering he was often as "tender and soulful as much as they were angry," but the name nonetheless stuck. He became a central figure, or "locus," of what New Wave evolved into, emerging from England's pub rock and punk rock scenes and the transatlantic sound of Power Pop. "Graham Parker." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**Disputes with Mercury Records** : Parker grew convinced that his US label, Mercury Records, was "botching his career" due to their struggles to promote him effectively, resulting in singles failing to reach the Hot 100 and albums languishing at the bottom of the charts. This frustration led him to fulfill his contract with the contemptuous live album *The Parkerilla* and record the outspoken diss track "Mercury Poisoning." "Parker came to believe Mercury was botching his career." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**Early Life and Work Experience** : Born in Hackney, East London in 1950, Parker spent the early 1970s working various jobs such as factory worker, dock worker, and gas station attendant, while simultaneously performing in obscure pub rock bands around London. "Graham Thomas Parker, born in Hackney, East London in 1950, spent the early 70s working on jobs, factory worker, dock worker, gas station attendant, and gigging around London in obscure pub rock bands." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**Musical Evolution in the 80s** : In the 1980s, Parker would evolve to become "wistful," reinventing the New Wave template and achieving new pop heights. His music would no longer be confined to punk, post punk, or power pop. "Graham turns wistful." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**Musical Influences** : His distinctive sound drew inspiration from artists like Van Morrison and 1960s R&B, leading it to be characterized as "white soul crossed with pub rock." "Parker's sound drew inspiration from the likes of Van Morrison and 60s R&B." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+

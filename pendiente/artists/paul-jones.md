@@ -1,0 +1,16 @@
+# artist - Paul Jones
+
+## instruments
+- Harmonica
+- Vocals
+
+## songs
+**I've Been a Bad, Bad Boy (1967)** : This follow-up solo single by Paul Jones also reached number five. After this, his solo chart performance diminished, with subsequent releases barely scraping the top 40. "But after that, and his follow-up, I've been a bad, bad boy, which made number five, the best he could do was to barely scrape the top 40." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
+**Solo Debut Single (1966)** : Following his departure from Manfred Mann, Paul Jones's first single as a solo artist achieved a top five hit. "Meanwhile, Jones's first single as a solo artist made the top five." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
+**The One in the Middle (1965)** : Jones wrote this song initially for his friends, The Yardbirds, but when they rejected it, he rewrote it to reflect his growing frustrations within Manfred Mann, particularly about the crediting of records. It became the lead track on a highly successful EP, which topped the EP charts and reached number 10 on the regular charts. "Paul Jones had written The One in the Middle for his friends, The Are Birds, but when they turned it down, he rewrote the song to be about Manfid Man, and especially about himself." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
+
+## curiosities
+**Blues Affiliation** : Like his friend Brian Jones, Paul Jones was a fan of Chicago Blues and had occasionally performed with Alexis Korner. This background was key to him joining the Man Hugg Blues Brothers. "Jones, like his friend Brian, was a fan particularly of Chicago Blues, and he had occasionally appeared with Alexis Corner." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
+**Later Career** : In the 1980s, Paul Jones became a born-again Christian. He also starred in the children's TV show "Uncle Jack" and presented the BBC Radio 2 Blues program for 32 years. He continues to tour with The Blues Band and The Manfreds. "This time his plays in Sid Jones became a born again Christian in the ATs and also starred in a children's TV show, show Uncle Jack and presented the BBC Radio 2 Blues program for 32 years." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
+**Original Name and Pseudonym** : Born Paul Pund, he was a long-time friend of Brian Jones (who would form The Rolling Stones). Pund adopted Brian Jones's surname, believing "Paul Pund" was not a good name for a singer. He initially used "PP Jones" but then became "Paul Jones," the name he is known by today. "The person they chose was a singer who was originally named Paul Pund, and who had been friends for a long time with Brian Jones, before Jones had formed the Rolling Stones. While Jones had been performing under the name Almo Lewis, his friend had taken on Jones as surname, as he thought Paul Pund didn't sound like a good name for a singer." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
+

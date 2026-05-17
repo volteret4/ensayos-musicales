@@ -9,5 +9,10 @@
 - Percussion
 
 ## curiosities
-**World-Renowned Percussionist and Collaborator** : Jody Linscott is recognized as probably "the world's most famous female percussionist" due to her extensive work with numerous major artists. She has toured with Paul McCartney, Jay-Z, Phil Collins, Santana, The Who, and Sheila E., and her percussion can be heard on many of Prince's biggest records, demonstrating a long and celebrated career. "She is probably the world's most famous female percussionist. She is all over Prince's biggest records and has a long discography and performance resume of her own." ← https://www.youtube.com/watch?v=9GHpC0kCgHY
+**World-Renowned Percussionist and Collaborator** : Jody Linscott is recognized as probably "the world's most famous female percussionist" due to her extensive work with numerous major artists. She has toured with Paul McCartney, Jay-Z, Phil Collins, Santana, The Who, and Sheila E., and her percussion can be heard on many of Prince's biggest records, demonstrating a long and celebrated career. "She is probably the world's most famous female percussionist. She is all over Prince's biggest records and has a long discography and performance resume of her own." ← https://www.youtube.com/watch?v=9GHpC0kCgHY ← jody-linscott
 
+
+
+## lists
+**"Skylon" (2008) — Sputnikmusic Best Albums 2008** : #132. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2008/
+**"Mir" (2011) — Sputnikmusic Best Albums 2011** : #149, 3.98 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2011/

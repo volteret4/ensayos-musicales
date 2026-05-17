@@ -1,12 +1,25 @@
-# genre - art rock
+# genre - Art Rock
 
 ## curiosities
-**Bowie's Consistent Style** : Art rock was a genre frequently associated with David Bowie's work, notably influencing the sound of his 2002 album *Heathen*, which felt like a 70s record, and present in the experimental elements of his final album *Blackstar*. Bowie's DNA can also be found in glam, punk, folk, hard rock, grunge, industrial, electronic, indie rock, and hip-hop. "No wonder then that the album felt somewhat like a 70s record, very art rock, very art pop, along with some of the dystopianism and dread heard on records like Ziggy Stardust and Aladdin St. Diamond Dogs and Station to Station." ← https://www.youtube.com/watch?v=Yq2A_o9-ulM
 **Bowie's Low Album, Side 2** : The second side of David Bowie's "Low" album was entirely instrumental and distinctly "art rock" in style, featuring important contributions from Brian Eno. "Side 2 was all instrumental, very art rock, and featured some very important contributions from Brian Eno." ← Ongoing History of New Music > Why Bowie Still Matters - Part 2 | https://www.youtube.com/watch?v=rw0uXf5UJvo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**David Bowie's "Lager" Comparison** : David Bowie's 1979 album "Lager" was described as less like Art Rock and more akin to quirky new wave pop, indicating a shift in his musical direction during this period. "However, Lager was less like Art Rock and more like quirky new wave pop." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 1 | https://shows.acast.com/hit-parade/episodes/696aa42a4796fcbb571adba7
 **Focus on Experimentation** : Art rock, also prominent in the late 1960s, emphasized experimentation and the creation of serious artistic statements, setting it apart from rock's traditional focus on fun and escapism. "Art Rock, which was all about experimentation and making serious artistic statements." ← Ongoing History of New Music > The Surprising History of Glam Rock | https://www.youtube.com/watch?v=blDNqVFheAw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Keyboard Integration** : Art rock artists like Jean-Michel Jarre, Tomita, and Vangelis were noted for their early adoption and integration of electronic keyboards into their music, contributing to the genre's distinct sound. "We also had art rock types getting into these keyboards, names like Jami Shaljar, Tommida and Vengellis." ← Ongoing History of New Music > The Post-Punk Explosion Part 2： Techno-Pop | https://www.youtube.com/watch?v=5PJRCC6EwUY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Sun Ra's Influence** : Sun Ra is identified as one of the fathers and pillars of art rock, alongside other genres like modern music, jazz, and soul. His work is considered a cornerstone of intellectual music over the last 30-50 years. "son rees uno de los padres y pilares casi de la música moderna de la música arti del art rock." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## artists
+- Blondie
+- Brian Eno
 - David Bowie
+- Jean-Michel Jarre
+- Led Zeppelin
+- Lou Reed
+- PJ Harvey
+- Roxy Music
+- Scott Weiland
+- Sparks
+- Sun Ra
+- Talk Talk
+- Tomita
+- Vangelis
 

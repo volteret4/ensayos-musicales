@@ -1,8 +1,5 @@
-# instrument - Kick drum
+# instrument - Kick Drum
 
 ## curiosities
-**Pink Floyd "Dark Side of the Moon" Drum Set** : While working on the song "Who's With Me" in John Mayer's old mansion studio in Calabasas, Ash Boo Shultz leaned against a kick drum that the studio runner revealed was part of the drum set used to record Pink Floyd's "Dark Side of the Moon." This provided a "cool moment" of inspiration for Ash. "I'm leaning I got my back against a kick drum and I'm I'm just getting out what's coming through and the guy who who runs the studio walks in and he said he goes oh that's the that's the drum set for that they recorded dark side of the moon on." ← https://www.youtube.com/watch?v=N-3eddy4J7g
-
-## artists
-- USS
+**Drift Phonk's Driving Force** : In Drift Phonk, kick drums are characterized by "four-by-four" patterns and being "oversaturated." They are primarily used to break routines and capture attention for short bursts within an "infinite scroll" context, serving a functional rather than deeply artistic purpose. "bombos, cuatro por cuatro y persaturados, para llamar nuestra atención durante tres segundos en un escroal infinito." ← ¿Qué pasó con el PHONK？ (La historia real) | https://www.youtube.com/watch?v=ehfWyUHFFT8
 

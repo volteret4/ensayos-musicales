@@ -7,8 +7,12 @@
 - Punk
 
 ## albums
-**Debut Album (1977)** : The Motors released their first album in 1977, at which point band member Andy McMaster was 36 years old. "Andy McMaster from the band was a stately 36 when they released their first album." ← https://www.youtube.com/watch?v=P45lJTdneoI ← the-motors
+**Debut Album (1977)** : The Motors released their first album in 1977, at which point band member Andy McMaster was 36 years old. "Andy McMaster from the band was a stately 36 when they released their first album." ← https://www.youtube.com/watch?v=P45lJTdneoI ← the-motors ← the-motors
 
 ## curiosities
-**Older Than Punk Contemporaries** : This punk-era band, which emerged in 1977, had members who were older than most of their contemporaries at the time of their debut. "The motors, another punk era band, were also older than most when they first showed up in 1977." ← https://www.youtube.com/watch?v=P45lJTdneoI ← the-motors
+**Older Than Punk Contemporaries** : This punk-era band, which emerged in 1977, had members who were older than most of their contemporaries at the time of their debut. "The motors, another punk era band, were also older than most when they first showed up in 1977." ← https://www.youtube.com/watch?v=P45lJTdneoI ← the-motors ← the-motors
 
+
+
+## charts
+**"473" — NME Chart** : 16 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

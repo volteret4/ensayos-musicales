@@ -1,7 +1,6 @@
-# genre - Prog rock
+# genre - Prog Rock
 
 ## curiosities
-**Jeff Buckley's Discovery** : Jeff Buckley discovered prog rock bands like Rush and Kiss early in his musical journey. "discovered rush and kiss and various prog rock bands." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
 **1970s Excess** : By 1973, prog rock bands were perceived as aspiring to create "new forms of classical music" with excessive complexity and musical virtuosity. This grandiosity, coupled with the stadium rock trend, contributed to a sense that rock had "gone off the rails," prompting a desire for a "complete reboot" that punk rock would provide. "First, we had all these prog rock bands that seemed to aspire to creating new forms of classical music, lots of complexity, lots of musical virtuosity." ← Ongoing History of New Music > Alt Rock Revivals Part 1： Punk | https://www.youtube.com/watch?v=gkLMwrthZ9s&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **2112 as a Prog Rock Landmark** : Rush's album *2112* is a seminal example of Prog Rock, particularly its entire first side which is a continuous piece. It masterfully blends traditional Prog Rock elements with sci-fi themes to tell a complex narrative, drawing inspiration from Ayn Rand's *Anthem*. The album was a critical and commercial success, solidifying Rush's place in the genre. "The entire first side is absolutely brilliant. Prague Rock mixed with sci-fi with more of that 1937 Ayn Rand novel Anthem." ← Ongoing History of New Music > Remembering Neil Peart | https://www.youtube.com/watch?v=B0CZ1deEgic&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Birds of Satan as a Prog Rock Project** : Taylor Hawkins formed The Birds of Satan in 2014, specifically calling it a "very prog rock band." This project allowed him to explore the genre deeply, introducing itself with a 10-minute epic song. "In 2014, he formed a side project called The Birds of Satan, a very prog rock band that introduced itself with a 10-minute epic song entitled The Ballad of the Birds of Satan." ← Ongoing History of New Music > Remembering Taylor Hawkins | https://www.youtube.com/watch?v=dD-VEcFpIFA&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -19,5 +18,16 @@
 **Saga's Affiliation** : Saga is explicitly identified as a "Prog Rock Group." This categorization highlights their musical style within the rock genre. "with saga, the Prague Rock Group." ← Ongoing History of New Music > Lost CanRock Bands of the '90s： Part 1 | https://www.youtube.com/watch?v=22SSwvfRMVg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- Jeff Buckley
+- Emerson Lake & Palmer
+- Foo Fighters
+- Kate Bush
+- Led Zeppelin
+- Muse
+- Peter Gabriel
+- Rush
+- Saga
+- Taylor Hawkins
+- The Birds of Satan
+- The Police
+- Yes
 

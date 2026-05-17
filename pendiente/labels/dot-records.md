@@ -1,0 +1,6 @@
+# label - Dot Records
+
+## curiosities
+**Frustration with Frankie Ervin** : Dot Records reportedly grew tired of Frankie Ervin's demands for credit and royalties for The Shields' records. This led to Ervin's diminishing role in subsequent Shields recordings, with Jesse Belvin also eventually being excluded from the lineup, as the label sought to avoid paying artists. "The record label were getting sick of Irving, wanting credit and royalties, and other things they didn't like singers, especially black ones, asking for." ← Episode 47： ＂Goodnight My Love＂ by Jesse Belvin | https://www.youtube.com/watch?v=Eoyk3H0M6r8
+**Leasing and Credit Disputes for The Shields** : Dot Records leased the independent production of "You Cheated" by The Shields. The label controversially decided to credit the song to a generic group name instead of Frankie Ervin, the lead singer, to avoid demands for money and royalties, especially from a black artist. "The recording was made as an independent production, but least to dot records, and somewhere along the line someone decided that it was better to have a generic group name, rather than promote it as by a solo singer, who might get ideas about wanting money." ← Episode 47： ＂Goodnight My Love＂ by Jesse Belvin | https://www.youtube.com/watch?v=Eoyk3H0M6r8
+

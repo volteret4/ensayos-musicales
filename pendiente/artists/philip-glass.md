@@ -1,0 +1,8 @@
+# artist - Philip Glass
+
+## genres
+- Minimalism
+
+## curiosities
+**Comparison to Jeff Mills** : Philip Glass (transcribed as Joe Filiglass) is a minimalist composer whose work in theaters and museums is compared to Jeff Mills' impact on techno in clubs and dance floors, highlighting Mills' achievement in elevating the genre to comparable artistic spaces. "lo único que estos dos interpretaban en teatro son museos, mientras que Jeff Mills, en clubs y pistas de baile." ← Cómo Jeff Mills transformó el techno para siempre | https://www.youtube.com/watch?v=omE3zOiZAXs
+

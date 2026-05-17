@@ -1,11 +1,9 @@
-# genre - Avant-garde
+# genre - Avant-Garde
 
 ## curiosities
-**Characteristics of Early Avant-garde Electronic Music** : Much of this early avant-garde electronic composition was not overtly melodic; it was often described as cold, abrasive, and aggressive, sometimes incorporating sounds like banging metal pipes together. "Much of it was, well how do we say this? Not exactly melodic, banging metal pipes together, for example. It was very cold, it was abrasive, and sometimes downright aggressive." ← Ongoing History of New Music > The Post-Punk Explosion Part 3： Industrial | https://www.youtube.com/watch?v=zSFhhEaiYwE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Early Electronic Scene in West Germany** : An avant-garde scene began to develop in West Germany by 1953, centered around an electronic music studio near Cologne. This scene explored experimental composition techniques such as oscillators, wave generators, tape loops, and white noise. "By 1953, Carl Heinstochhausen had an electronic music studio near Cologne, and a little avant-garde scene began to develop." ← Ongoing History of New Music > The Post-Punk Explosion Part 3： Industrial | https://www.youtube.com/watch?v=zSFhhEaiYwE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Government Support and Influence** : Germany embraced experimental approaches to music, with several government-owned studios available to those interested in avant-garde sounds, particularly new electronic ones. This supportive environment fostered the development of a unique German sound. "Germany had also embraced certain experimental approaches to music. There were a number of studios, some owned by the government, that were available to anyone interested in avant-garde sounds, especially new electronic ones." ← Ongoing History of New Music > Explaining Krautrock | https://www.youtube.com/watch?v=ePZDkqLM_gw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Exploration in *To Pimp a Butterfly*** : Kendrick Lamar's *To Pimp a Butterfly* ventures into Avant-Garde music, pushing boundaries and exploring complex musical territories. This stylistic breadth is a key reason for the album's critical acclaim and its designation as something more than just a rap record. "va esas músicas tan complejas del mundo a veces, Es Avan Great." ← Music Radar Clan > Kendrick Lamar：  To pimp a butterfly | https://www.youtube.com/watch?v=ENmSJbhbGeo&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## artists
-- CAN
-- The Pixies
+- Kendrick Lamar
+- Roxy Music
 

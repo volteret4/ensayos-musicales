@@ -3,3 +3,13 @@
 ## genres
 - Acid House
 
+
+
+## charts
+**"Little Willy" — Billboard Year-End Hot 100** : #18, 1973. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"The Ballroom Blitz" — Billboard Year-End Hot 100** : #17, 1975. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Fox on the Run" — Billboard Year-End Hot 100** : #76, 1976. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Love Is Like Oxygen" — Billboard Year-End Hot 100** : #23, 1978. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"341" — NME Chart** : 24 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
+**"356" — NME Chart** : 26 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
+**"364" — NME Chart** : 23 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

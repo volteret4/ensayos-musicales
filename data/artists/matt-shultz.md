@@ -1,5 +1,9 @@
 # artist - Matt Shultz
 
 ## curiosities
-**Former Plumber** : Matt Shultz, the singer for Cage the Elephant, previously worked in construction, specializing in plumbing. "Plumbing was his specialty." ← https://www.youtube.com/watch?v=72Lei7uug8c
+**Former Plumber** : Matt Shultz, the singer for Cage the Elephant, previously worked in construction, specializing in plumbing. "Plumbing was his specialty." ← https://www.youtube.com/watch?v=72Lei7uug8c ← matt-shultz
 
+
+
+## charts
+**"473" — NME Chart** : 16 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

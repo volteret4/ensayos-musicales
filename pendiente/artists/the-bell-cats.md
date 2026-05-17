@@ -1,0 +1,10 @@
+# artist - The Bell-Cats
+
+## members
+- (No members specified, only band name)
+
+## curiosities
+**Obscure British Band** : The Bell-Cats were an extremely obscure British group that never made a record. Their only lasting trace on "post-stability" (post-Beatles era) is their popularization of the "Hand Jive" dance, documented in three photos taken by Ken Russell on a single night. They were one of many British bands attempting to emulate the sound of Bill Haley and the Comets. "The dance that was originally popularised by a British group that was so obscure that they never made a record, and the only trace they left on post-stability was this dance in three photos." ← REUPLOAD Episode 71： ＂Willie and the Hand Jive＂ by Johnny Otis | https://www.youtube.com/watch?v=Ez6BCUlI6Rg
+**Originators of the Hand Jive Dance** : Due to the extreme overcrowding at their performances at the Cat's Whisker, audiences were unable to dance properly. This constraint led to the development and spread of a new dance among customers that only involved moving one's hands—the "Hand Jive." "In those bell-cats performances, the audiences were packed so tightly that they couldn't dance properly, and so when you danced developed among the customers and spread, a dance where you only moved your hands. The Han Jive." ← REUPLOAD Episode 71： ＂Willie and the Hand Jive＂ by Johnny Otis | https://www.youtube.com/watch?v=Ez6BCUlI6Rg
+**The Cat's Whisker Residency** : The Bell-Cats held a regular gig at a London coffee house called the Cat's Whisker. They were so popular that audiences were often dangerously packed "like sardines," leading the police to eventually shut down the venue due to overcrowding. The owner subsequently reopened it as the first Angus Steakhouse. "Their regular gig was at a coffee house called the Cat's Whisker, where they were popular enough that the audience were packed in like sardines." ← REUPLOAD Episode 71： ＂Willie and the Hand Jive＂ by Johnny Otis | https://www.youtube.com/watch?v=Ez6BCUlI6Rg
+

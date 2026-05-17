@@ -1,30 +1,52 @@
 # artist - Bob Seger
 
-## songs
-**Turn the Page** : This song, about life on the road, was covered by Metallica. "all about life on the road turned the page." ← https://www.youtube.com/watch?v=DgN0vBIugLc
-**Making Thunderbirds** : Bob Seger's song is mentioned as telling the story of the assembly line for the Ford Thunderbird. "making Thunderbirds from Bob Seeger, the story of the assembly line." ← https://www.youtube.com/watch?v=_KJ60im4KAc ← bob-seger
-
-## curiosities
-**Collaboration with Jack Richardson** : Jack Richardson worked on records for Bob Seger. "He also worked on records for Alice Cooper and Bob Seeger and the Almond Brothers in Russian a ton of others." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
-**Muscle Shoals Sound Studio Users** : Bob Seger is among the notable artists who recorded at the famous Muscle Shoals Sound Studio in Alabama. "and Bob Seeger." ← https://www.youtube.com/watch?v=PmwfC4HR3_I
+## genres
+- Heartland Rock
+- Rock
 
 ## concerts
 - Ozark Music Festival (1974)
 
+## albums
+**Beautiful Loser (1975)** : This album, Seger's eighth studio release, was released in 1975 and included the title track "Beautiful Loser." The recording process involved assistance from the renowned Muscle Shoals session musicians, along with some members of the Silver Bullet Band, who also contributed to a cover of Ike and Tina Turner's "Nutbush City Limits." "Beautiful Loser from the album of the same name released in 1975. That was the eighth studio of the album." ← For the Record - The 70s > Ep. 55 - Heartland Rock is about More than the Heartland | https://www.ftr70.com/
+**The Distance (1982)** : Released in late 1982, this album came out when Bob Seger was 37, an age then considered nearing senior citizen territory for a rock star. Its release solidified Seger's image, lending him an ethos of wisdom and experience, providing rich songwriting material that reflected his years in the music industry. "Now it's not insignificant that when the album The Distance was released in late 1982. Seagr was 37, which at the time was nearing senior citizen territory for a rock star." ← For the Record - The 70s > Ep. 55 - Heartland Rock is about More than the Heartland | https://www.ftr70.com/
+
+## songs
+**Beautiful Loser (1975)** : This song, released in 1975, was influenced by Seger's personal experiences with poverty and the resulting tension and desperation. While not autobiographical, it explores the theme of being a perpetual underachiever, an idea Seger borrowed from Leonard Cohen's poetry book of the same name. Glenn Frey of the Eagles was the first person to encourage Seger to record the song after hearing an early version. "Beautiful Loser where you're going to fall when you realize you just can't have it all." ← For the Record - The 70s > Ep. 55 - Heartland Rock is about More than the Heartland | https://www.ftr70.com/
+**Beautiful Loser (Year Unspecified)** : The song "Even the Losers" by Tom Petty and the Heartbreakers contains thematic or lyrical echoes of what is described as "Bob Seagars' beautiful loser," suggesting a connection in their celebration of similar sentiments. "Echoes of Bob Seagars' beautiful loser." ← For the Record - The 70s > Ep. 55 - Heartland Rock is about More than the Heartland | https://www.ftr70.com/
+**Making Thunderbirds** : Bob Seger's song is mentioned as telling the story of the assembly line for the Ford Thunderbird. "making Thunderbirds from Bob Seeger, the story of the assembly line." ← https://www.youtube.com/watch?v=_KJ60im4KAc ← bob-seger ← bob-seger
+**Night Moves (1976)** : This song was included on the "FM" movie soundtrack, released in the late 1970s, serving as a snapshot of popular FM radio hits. "You get night moves by Bob Seeger..." ← For the Record - The 70s > Ep. 28 - Soundtracks of the 70s | https://seventies.libsyn.com/028-soundtracks-of-the-70s-12221-5-45-pm
+**Night Moves (N/A)** : This song, along with others like "Rock and Roll Never Forgets," "Still the Same," "We've Got Tonight," and "Against the Wind," became major hits for Seger, solidifying his popularity and helping him break out beyond Michigan. These songs were characterized by themes of nostalgia, love, and reminiscing about "the old times." "Now night moves will take care of that and from there the hits keep coming a rock and roll never forgets." ← For the Record - The 70s > Ep. 55 - Heartland Rock is about More than the Heartland | https://www.ftr70.com/
+**Nutbush City Limits (N/A)** : This song was a cover of the Ike and Tina Turner track, featured on Seger's "Beautiful Loser" album, with contributions from members of the Silver Bullet Band. "There were some members of the Silver Bullet Band helping out on the cover of Ike and Tina Turner's Nutbush City Limits." ← For the Record - The 70s > Ep. 55 - Heartland Rock is about More than the Heartland | https://www.ftr70.com/
+**Ramblin-Gamblin Man (1969)** : John Mellencamp credited hearing this song from Michigan's Bob Seger system around 1969 as the starting point for "Midwest Rock" in his own experience, highlighting its foundational influence. "John Melanchamp in the forward of a Bob Seagr biography said that if there was such a thing as Midwest Rock, it began for him the night he heard Ramblin-Gamblin man from Michigan's Bob Seagr system in about 1969." ← For the Record - The 70s > Ep. 55 - Heartland Rock is about More than the Heartland | https://www.ftr70.com/
+**Roll Me Away (N/A)** : Seger sings this anthem about weariness and the allure of the open road, imagining a woman he meets in a bar in Mackinac City contemplating escape. The song expresses universal themes of feeling lost, double-crossed, and tired of the struggle between right and wrong, resonating deeply with audiences, including politically conservative fans. "roll roll me away won't you roll me away tonight. I too am lost I feel double crossed and I'm sick of what's wrong and what's right." ← For the Record - The 70s > Ep. 55 - Heartland Rock is about More than the Heartland | https://www.ftr70.com/
+**Turn the Page** : This song, about life on the road, was covered by Metallica. "all about life on the road turned the page." ← https://www.youtube.com/watch?v=DgN0vBIugLc ← bob-seger
+
+## curiosities
+**"Midwestern Language"** : Randy Newman once told Bob Seger that he wrote in a "Midwestern language," using colloquialisms like "gunna" and "gala," which contributed to the intimate and relatable feel of his lyrics. "Randy Newman told Bob Seagr that he wrote in a Midwestern language words like gunna and gala, things like that." ← For the Record - The 70s > Ep. 55 - Heartland Rock is about More than the Heartland | https://www.ftr70.com/
+**Authenticity in Rock Culture** : Seger possessed a crucial ingredient for rock culture: authenticity. His brand of intimate rock particularly resonated with the genre's aging fan base, who appreciated his songs about reminiscing about "the old times" and felt a genuine connection to his experiences and reflections. "He seemed to have this really important ingredient in rock culture which is authenticity." ← For the Record - The 70s > Ep. 55 - Heartland Rock is about More than the Heartland | https://www.ftr70.com/
+**Breakthrough Success** : Despite having recorded eight studio albums by 1975, Bob Seger and the Silver Bullet Band were not widely known outside of Michigan until about a year after the release of "Beautiful Loser." They famously sold out the 78,000-seat Pontiac Silverdome in the Detroit Metro area, yet could only draw about a thousand people in Chicago, illustrating their regional popularity before achieving national recognition with subsequent hits like "Night Moves." "It still would be a year though before Bob Seagr and the Silver Bullet Band would be very well known outside of Michigan." ← For the Record - The 70s > Ep. 55 - Heartland Rock is about More than the Heartland | https://www.ftr70.com/
+**Collaboration with Jack Richardson** : Jack Richardson worked on records for Bob Seger. "He also worked on records for Alice Cooper and Bob Seeger and the Almond Brothers in Russian a ton of others." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← bob-seger
+**Early Life Influence** : After his father abandoned the family during his childhood, Bob Seger experienced a dramatic shift from a middle-class upbringing to lower-class circumstances, with his mother cooking meals on a hot plate. This early experience of poverty and tension significantly influenced his songwriting and overall work. "After his own father abandoned his family when he was a child, Seagr went overnight from middle class to lower class with his mother cooking their meals on a hot plate." ← For the Record - The 70s > Ep. 55 - Heartland Rock is about More than the Heartland | https://www.ftr70.com/
+**Lyrical Craft** : In 1986, Seger described his songwriting process as simply "smearing" down words without overthinking diction, yet he acknowledged working hard on his lyrics, much like Bruce Springsteen and Don Henley. He believed his audience appreciated this effort and that his music represented a distinct morality. "I work hard on my lyrics and I know that Bruce Springsteen does and Don Henley does. We think that it matters that we work hard, but really I don't know." ← For the Record - The 70s > Ep. 55 - Heartland Rock is about More than the Heartland | https://www.ftr70.com/
+**Muscle Shoals Sound Studio Users** : Bob Seger is among the notable artists who recorded at the famous Muscle Shoals Sound Studio in Alabama. "and Bob Seeger." ← https://www.youtube.com/watch?v=PmwfC4HR3_I ← bob-seger
+**Perceived Authenticity** : Rock journalist Timothy White commented on Seger's ability to convey profound authenticity in his music, stating that he could "hear Bob Seagr getting up in the morning on these records." This perception of intimacy and personal storytelling made listeners believe his songs were truly about his own life and experiences. "I can hear Bob Seagr getting up in the morning on these records. You can see him walking around the house in his socks and pouring coffee. It's like he's saying, here's another day. So what have I got to say?" ← For the Record - The 70s > Ep. 55 - Heartland Rock is about More than the Heartland | https://www.ftr70.com/
+
+
 
 ## awards
-**star on Hollywood Walk of Fame (1987)** : Won.
-**Academy Award for Best Original Song (1988) — Shakedown** : Nominated.
-**Rock and Roll Hall of Fame (2004)** : Won.
+**star on Hollywood Walk of Fame (1987)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761
+**Academy Award for Best Original Song (1988) — Shakedown** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q112243
+**Rock and Roll Hall of Fame (2004)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
 
 ## charts
-**"Night Moves" — Billboard Year-End Hot 100** : #55, 1977.
-**"Still the Same" — Billboard Year-End Hot 100** : #52, 1978.
-**"Hollywood Nights" — Billboard Year-End Hot 100** : #99, 1978.
-**"We've Got Tonight" — Billboard Year-End Hot 100** : #94, 1979.
-**"Shame on the Moon" — Billboard Year-End Hot 100** : #14, 1983.
-**"Shakedown" — Billboard Year-End Hot 100** : #9, 1987.
+**"Night Moves" — Billboard Year-End Hot 100** : #55, 1977. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Still the Same" — Billboard Year-End Hot 100** : #52, 1978. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Hollywood Nights" — Billboard Year-End Hot 100** : #99, 1978. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"We've Got Tonight" — Billboard Year-End Hot 100** : #94, 1979. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Shame on the Moon" — Billboard Year-End Hot 100** : #14, 1983. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Shakedown" — Billboard Year-End Hot 100** : #9, 1987. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Beautiful Loser" (1975) — Scaruffi 1970s** : #192, 7.0/10 Scaruffi.
-**"Night Moves" (1976) — Scaruffi 1970s** : #193, 7.0/10 Scaruffi.
+**"Beautiful Loser" (1975) — Scaruffi 1970s** : #192, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Night Moves" (1976) — Scaruffi 1970s** : #193, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

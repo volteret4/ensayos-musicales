@@ -1,5 +1,48 @@
 # artist - Drenge
 
 ## curiosities
-**Prominent Two-Piece Band** : Drenge is mentioned among the two-piece bands that appeared as the format gained traction in the 21st century. "But we also saw the appearance of 21 pilots, the block keys, dressed in dolls, the kills, the Khalifa mods, the Ravianettes, and the load more." ← https://www.youtube.com/watch?v=GlcOoINI7EQ ← drenge
+**Prominent Two-Piece Band** : Drenge is mentioned among the two-piece bands that appeared as the format gained traction in the 21st century. "But we also saw the appearance of 21 pilots, the block keys, dressed in dolls, the kills, the Khalifa mods, the Ravianettes, and the load more." ← https://www.youtube.com/watch?v=GlcOoINI7EQ ← drenge ← drenge
 
+
+
+## charts
+**"Adele" — UK Vinyl Albums Chart** : entrada.
+**"Amy Winehouse" — UK Vinyl Albums Chart** : entrada.
+**"Radiohead" — UK Vinyl Albums Chart** : entrada.
+**"Rag'n'Bone Man" — UK Vinyl Albums Chart** : entrada.
+**"Ed Sheeran" — UK Vinyl Albums Chart** : entrada.
+**"The Beatles" — UK Vinyl Albums Chart** : entrada.
+**"Noel Gallagher's High Flying Birds" — UK Vinyl Albums Chart** : entrada.
+**"Original Soundtrack" — UK Vinyl Albums Chart** : entrada.
+**"Queen" — UK Vinyl Albums Chart** : entrada.
+**"Various Artists" — UK Vinyl Albums Chart** : entrada.
+**"Fleetwood Mac" — UK Vinyl Albums Chart** : entrada.
+**"Amy Winehouse" — UK Vinyl Albums Chart** : entrada.
+**"Queen" — UK Vinyl Albums Chart** : entrada.
+**"Kylie Minogue" — UK Vinyl Albums Chart** : entrada.
+**"Harry Styles" — UK Vinyl Albums Chart** : entrada.
+**"Glass Animals" — UK Vinyl Albums Chart** : entrada.
+**"Oasis" — UK Vinyl Albums Chart** : entrada.
+**"Taylor Swift" — UK Vinyl Albums Chart** : entrada.
+**"Dua Lipa" — UK Vinyl Albums Chart** : entrada.
+**"Olivia Rodrigo" — UK Vinyl Albums Chart** : entrada.
+**"Charli XCX" — UK Vinyl Albums Chart** : entrada.
+**"Chappell Roan" — UK Vinyl Albums Chart** : entrada.
+**"Gracie Abrams" — UK Vinyl Albums Chart** : entrada.
+**"Noel Gallagher's High Flying Birds" — UK Vinyl Singles Chart** : entrada.
+**"David Bowie" — UK Vinyl Singles Chart** : entrada.
+**"Golden Years" — UK Vinyl Singles Chart** : 4 semanas.
+**"The Stone Roses" — UK Vinyl Singles Chart** : entrada.
+**"David Brent" — UK Vinyl Singles Chart** : entrada.
+**"Oasis" — UK Vinyl Singles Chart** : entrada.
+**"Liam Gallagher" — UK Vinyl Singles Chart** : entrada.
+**"George Michael" — UK Vinyl Singles Chart** : entrada.
+**"Morrissey" — UK Vinyl Singles Chart** : entrada.
+**"Led Zeppelin" — UK Vinyl Singles Chart** : entrada.
+**"Public Service Broadcasting" — UK Vinyl Singles Chart** : entrada.
+**"The Fontaines" — UK Vinyl Singles Chart** : entrada.
+**"Ceremony" — UK Vinyl Singles Chart** : 1 semanas.
+**"Wham!" — UK Vinyl Singles Chart** : entrada.
+**"Blur" — UK Vinyl Singles Chart** : entrada.
+**"The 1975" — UK Vinyl Singles Chart** : entrada.
+**"Fontaines D.C." — UK Vinyl Singles Chart** : entrada.

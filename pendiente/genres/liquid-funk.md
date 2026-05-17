@@ -1,0 +1,6 @@
+# genre - Liquid Funk
+
+## curiosities
+**Early Adoption in Video Games (PlayStation 2, GameCube)** : Liquid Funk, a variant of drum and bass, was adopted by video games on consoles like PlayStation 2 and GameCube. It often served to provide a melodic and relaxed atmosphere, frequently heard in character selection menus, vehicle preparation screens, or pause menus, rather than pure high-adrenaline sequences. "adoptando variantes como Liquid Funk o el advoqueric drama bass." ← Por qué los videjuegos de los 2000 sonaban así？ Jungle⧸Drum and Bass | https://www.youtube.com/watch?v=3_cr6vOW3KQ
+**Emergence and Characteristics (around 2000)** : Also known as liquid drama base, Liquid Funk appeared around the year 2000. While sharing a melodic and relaxed tone with atmospheric drum and bass, it distinguished itself through simpler rhythmic structures, less synthetic instrumentation, and strong influences from funk, soul, and jazz. "apreció alrededor del año 2000 y aunque compartía con el atmósferic un tono más melodico y relajado, el liquid se diferenciaba desde a los alistrituras rímpicas más simples, instrumentación minosynthética y una fortimplencia del funk, el sol e incluso el jazz." ← Por qué los videjuegos de los 2000 sonaban así？ Jungle⧸Drum and Bass | https://www.youtube.com/watch?v=3_cr6vOW3KQ
+

@@ -7,5 +7,9 @@
 - Drums
 
 ## curiosities
-**Drummer for Hole** : Patty Schemel was a member of Hole, the band fronted by Courtney Love, playing drums for the influential grunge group. "Patty Shemel and Samantha Maloney, both of whom were members of Hull with Courtney Love." ← https://www.youtube.com/watch?v=9GHpC0kCgHY
+**Drummer for Hole** : Patty Schemel was a member of Hole, the band fronted by Courtney Love, playing drums for the influential grunge group. "Patty Shemel and Samantha Maloney, both of whom were members of Hull with Courtney Love." ← https://www.youtube.com/watch?v=9GHpC0kCgHY ← patty-schemel
 
+
+
+## charts
+**"473" — NME Chart** : 16 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

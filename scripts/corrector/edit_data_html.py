@@ -563,8 +563,13 @@ function srcHtml(sf) {
   const p = sf.indexOf('|');
   if (p > -1) {
     const nm = sf.slice(0,p).trim(), url = sf.slice(p+1).trim();
-    if (url.startsWith('http'))
-      return `<div class="card-source"><a href="${url}" target="_blank">📺 ${nm||'Fuente'}</a></div>`;
+    if (url.startsWith('http')) {
+      const isWiki = /wikidata\.org|wikipedia\.org|scaruffi\.com|albumoftheyear\.org|musicbrainz\.org/.test(url);
+      const icon   = isWiki
+        ? '<span style="display:inline-block;width:14px;height:14px;background:#949494;border-radius:50%;color:#fff;font-size:9px;font-weight:bold;font-family:Georgia,serif;text-align:center;line-height:14px;vertical-align:middle;margin-right:3px">W</span>'
+        : '📺 ';
+      return `<div class="card-source"><a href="${url}" target="_blank">${icon}${nm||'Fuente'}</a></div>`;
+    }
   }
   return `<div class="card-source"><span>📂 ${sf}</span></div>`;
 }

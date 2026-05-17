@@ -1,5 +1,9 @@
 # artist - Method Actors
 
 ## curiosities
-**Athens, Georgia Music Scene** : Method Actors are listed as one of the more obscure groups that were part of the Athens, Georgia music scene which began in the mid-1970s. "The Athens, Georgia music scene, began in the mid 1970s with the B-52s and more obscure groups like the fans and pylon and the tone tones and love tractor and method actors." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
+**Athens, Georgia Music Scene** : Method Actors are listed as one of the more obscure groups that were part of the Athens, Georgia music scene which began in the mid-1970s. "The Athens, Georgia music scene, began in the mid 1970s with the B-52s and more obscure groups like the fans and pylon and the tone tones and love tractor and method actors." ← https://www.youtube.com/watch?v=sCtQqVBtCaI ← method-actors
 
+
+
+## charts
+**"473" — NME Chart** : 16 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

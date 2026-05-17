@@ -1,0 +1,6 @@
+# genre - Nashville Sound
+
+## curiosities
+**Development Influence** : Chet Atkins, who produced several of Elvis Presley's early recordings, was "vitally responsible for the development of the Nashville sound," a new style that became popular in country music. Owen Bradley was also a main producer of this sound. "Cheatakkins, who had produced several of Elvis's early recordings, had been vitally responsible for the development of that sound." ← Episode 82： ＂Are You Lonesome Tonight？＂ by Elvis Presley | https://www.youtube.com/watch?v=B0puRvUVwww
+**The Nashville A-Team** : A group of session musicians known as the "Nashville A team" were responsible for making records associated with the Nashville Sound, working with producers like Chet Atkins and Owen Bradley. This team also played on Elvis Presley's last session before the army and his first post-army session. "Many of the Nashville A team, the musicians who were responsible for making those records with Atkins, or the other main producer of the sound, are in Bradley, had played on Elvis's last session before he went into the army, and they were at this session." ← Episode 82： ＂Are You Lonesome Tonight？＂ by Elvis Presley | https://www.youtube.com/watch?v=B0puRvUVwww
+

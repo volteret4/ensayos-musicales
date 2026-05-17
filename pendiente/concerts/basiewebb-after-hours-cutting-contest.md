@@ -1,0 +1,6 @@
+# concert - Basie/Webb After-Hours Cutting Contest
+
+## curiosities
+**Chick Webb's Audience Vote Victory** : Despite a close decision, Chick Webb's band won the audience vote in the after-hours cutting contest against Count Basie, making him the victor in the eyes of the attendees, and reaffirming his status as rarely beaten (only by Duke Ellington). "Because Webb won, everyone agreed, when it came to a vote of the audience, Webb's band did win, though it was a fairly close decision." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
+**Star-Studded Audience** : The after-hours cutting contest between Chick Webb and Count Basie attracted a host of jazz luminaries, including members of Goodman's band, Mildred Bailey, Ivy Anderson, Red Norvo, and Duke Ellington, indicating its significant importance within the jazz community. "Everyone was in the audience. Goodman's band, Mildred Bailey, Ivy Anderson, who we heard before in that March for this clip. Red Norvo, the vibroform player, Duke Ellington, every musician who mattered in the jazz scene was there to see if Basie could beat Chick Webb." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
+

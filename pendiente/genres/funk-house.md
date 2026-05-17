@@ -1,0 +1,6 @@
+# genre - Funk House
+
+## curiosities
+**Characteristics and Link to Rally House** : Funk House is a softer and more danceable variant that combines the spirit of Drift Funk with the rhythmic structure of House music. This sub-sub-genre represents a "missing link" with Rally House, featuring heavy basslines, nocturnal atmospheres, echoes of Southern Rap, and the characteristic 4x4 rhythm of House. "una variante y mucho más suave, y podríamos decir, bailable, donde el espíritu del Drift Fonc se mezca con el ritmo del house. En ese momento, ahí donde encontramos ese eslabón perdido con el Real y House, un sub-sub-genero que a un abajo es gordos, atmósferas nocturnas, ecos del rap suereño y el ritmo 4x4 característico del house." ← ¿Qué es el RALLY HOUSE？ El género que suena como un juego de PS1 | https://www.youtube.com/watch?v=RKCDTQlz0uw
+**Producer Transition to Rally House** : Many producers who started their careers in Funk House eventually transitioned and began making their first forays into the Rally House genre. This migration highlights Funk House's role as a direct predecessor and stylistic bridge. "Muchas productores de este sub-genero se pasarán, guardan sus pinitos en el Real y House." ← ¿Qué es el RALLY HOUSE？ El género que suena como un juego de PS1 | https://www.youtube.com/watch?v=RKCDTQlz0uw
+

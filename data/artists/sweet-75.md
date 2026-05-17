@@ -8,8 +8,18 @@
 - DGC
 
 ## albums
-**Sweet 75 (1997)** : The self-titled debut album was released in 1997 on DGC, featuring Peter Buck of R.E.M., members of Ministry, and the brass section of The Tonight Show with Jay Leno's band. Its experimental alt-pop sound, rather than grunge, led to fan disappointment and the record's commercial failure. "Their debut album, which was a cell title thing, was issued in 1997 on DGC, Nirvana's label, and featured appearances by Peter Buck of R.E.M., members of ministry, and the brass section of the band from the tonight show with Jay Leno." ← https://www.youtube.com/watch?v=cS8k3PYU_Eo ← sweet-75
+**Sweet 75 (1997)** : The self-titled debut album was released in 1997 on DGC, featuring Peter Buck of R.E.M., members of Ministry, and the brass section of The Tonight Show with Jay Leno's band. Its experimental alt-pop sound, rather than grunge, led to fan disappointment and the record's commercial failure. "Their debut album, which was a cell title thing, was issued in 1997 on DGC, Nirvana's label, and featured appearances by Peter Buck of R.E.M., members of ministry, and the brass section of the band from the tonight show with Jay Leno." ← https://www.youtube.com/watch?v=cS8k3PYU_Eo ← sweet-75 ← sweet-75
 
 ## curiosities
-**Formation and Disbandment** : Formed by Chris Novoselic in late 1995 with street musician Yiva Las Vegas, the band's debut album disappeared commercially. Plans for subsequent records in late 1999 and early 2001 ultimately fell apart. "First, he was in a band called Sweet 75 through late 1995. The singer was a street musician from Venezuela who went by the name of Yiva Las Vegas." ← https://www.youtube.com/watch?v=cS8k3PYU_Eo ← sweet-75
+**Formation and Disbandment** : Formed by Chris Novoselic in late 1995 with street musician Yiva Las Vegas, the band's debut album disappeared commercially. Plans for subsequent records in late 1999 and early 2001 ultimately fell apart. "First, he was in a band called Sweet 75 through late 1995. The singer was a street musician from Venezuela who went by the name of Yiva Las Vegas." ← https://www.youtube.com/watch?v=cS8k3PYU_Eo ← sweet-75 ← sweet-75
 
+
+
+## charts
+**"Little Willy" — Billboard Year-End Hot 100** : #18, 1973. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"The Ballroom Blitz" — Billboard Year-End Hot 100** : #17, 1975. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Fox on the Run" — Billboard Year-End Hot 100** : #76, 1976. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Love Is Like Oxygen" — Billboard Year-End Hot 100** : #23, 1978. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"341" — NME Chart** : 24 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
+**"356" — NME Chart** : 26 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
+**"364" — NME Chart** : 23 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

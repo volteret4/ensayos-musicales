@@ -1,39 +1,57 @@
-# artist - KISS
+# artist - Kiss
 
 ## members
 - Ace Frehley
+- Freely
 - Gene Simmons
 - Paul Stanley
 - Peter Criss
 
+## genres
+- Glam Rock
+- Glitter Rock
+- Hard Rock
+- Heavy Metal
+- Punk Rock (early perception)
+- Rock
+- hard rock
+- metal
+
+## concerts
+- Coventry
+- Dick Clark's In Concert (February 1974, Aquarius Theater, Los Angeles)
+- Donington
+- Donington Park (1988)
+
 ## instruments
-- Gene Simmons' tongue
-- Guitar
 - BC Rich
 - Electric guitar
 
+## albums
+**Biggest Records (mid-1970s)** : Bob Ezrin produced Kiss's biggest records during the mid-1970s, including their "Destroyer" album. "Bob produced Kiss' biggest records of the middle 70s. You know the Destroyer Abble produced by Canadian..." ← Ongoing History of New Music > Canadian Producers | https://www.youtube.com/watch?v=QkSKxm_U9Yc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Destroyer (mid-1970s)** : This album by Kiss was produced by Canadian Bob Ezrin, contributing to their biggest records of the middle 1970s. "You know the Destroyer Abble produced by Canadian..." ← Ongoing History of New Music > Canadian Producers | https://www.youtube.com/watch?v=QkSKxm_U9Yc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Kiss (1974)** : The band's self-titled debut album was released in February 1974. It features the studio recording of "Firehouse," one of their most iconic songs, known for its powerful live performance that includes Gene Simmons breathing fire. "This live recording of firehouse the studio recording is on its self titled debut album from February 1974." ← For the Record - The 70s > Ep. 47 - Dick Clark's Entertainment Empire | https://www.ftr70.com/
+
+## songs
+**Beth** : This song was sung by drummer Peter Criss and became a huge hit for the band. "Peter Chris saying Beth for kiss and that was a huge hit." ← Ongoing History of New Music > The Second Voice | https://www.youtube.com/watch?v=M1JTdUxOEMU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Beth (Year not specified)** : This song is mentioned as an existing example of a power ballad, indicating that the genre had roots prior to its more widespread emergence and popularization in the 1980s. "Beth by Kiss, awesome." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/
+**Black Diamond (1974)** : Kiss performed "Black Diamond" during their television debut on Dick Clark's In Concert in February 1974 at the Aquarius Theater in Los Angeles. "black diamond." ← For the Record - The 70s > Ep. 47 - Dick Clark's Entertainment Empire | https://www.ftr70.com/
+**Cold Gin (1974)** : Terry Jordan, writing for the St. Joseph Missouri newspaper in May 1974, praised the live combination of "Firehouse" and "Cold Gin." He described this pairing as producing a hard rock effort unmatched since a "St. Joseph's fun house album" from four years prior. "firehouse combined with cold gin which are two of their most famous lives performances." ← For the Record - The 70s > Ep. 47 - Dick Clark's Entertainment Empire | https://www.ftr70.com/
+**Firehouse (1974)** : An iconic hard rock song, "Firehouse" was performed during Kiss's first television appearance on Dick Clark's In Concert in February 1974. Gene Simmons famously breathed fire during live performances of this track. Its studio version is included on the band's self-titled debut album from the same year. "one of their most iconic live songs the hard rock and firehouse." ← For the Record - The 70s > Ep. 47 - Dick Clark's Entertainment Empire | https://www.ftr70.com/
+**Nothing to Lose (1974)** : This song was part of Kiss's set during their first television appearance on Dick Clark's In Concert in February 1974, performed at the Aquarius Theater in Los Angeles. "Kiss takes the stage and plays nothing to lose." ← For the Record - The 70s > Ep. 47 - Dick Clark's Entertainment Empire | https://www.ftr70.com/
+
 ## curiosities
-**"Knights in Satan's Service" Rumor** : The band actively encouraged and let spread rumors, such as the claim that KISS stood for "Knights in Satan's Service," which contributed to their shocking image for a significant portion of the public. "Like for example, that KISS actually stood for Knights in Satan's Service." ← https://www.youtube.com/watch?v=SIK2YFSmf9U
-**"Weird Thing" Influence** : KISS, with their distinct "weird thing going for him," were acknowledged for their contributions to the emerging Goth aesthetic. "and even KISS, who had, you know, that weird thing going for him." ← https://www.youtube.com/watch?v=gd9sO7c3N1s
-**1970s Popularity and Manufactured Consensus** : In the 1970s, KISS was widely perceived as the "greatest and biggest and best band in the world" by a significant portion of young music fans, a consensus heavily reinforced by various media channels including radio DJs, magazines, record stores, and older siblings. "And they were kiss fans because everywhere they went, someone would tell them that kiss was the greatest and biggest and best band in the world." ← https://www.youtube.com/watch?v=Z7glrAoXtkA
-**Comic Book Persona** : KISS presented themselves as comic book characters, utilizing makeup, elaborate costumes, and Gene Simmons' signature long tongue as key elements of their persona. "Now granted, they were comic book characters, quite literally." ← https://www.youtube.com/watch?v=SIK2YFSmf9U
-**Cultural Consensus Example** : KISS is used as an example of a band that achieved widespread cultural consensus in the speaker's youth. In his high school class of 30, five were pop fans, five country, and the remaining 20 were KISS fans, driven by their omnipresence on radio, in record stores (racked up front), and on magazine covers (Cream, Circus). "For example, when I was in high school, grade 10, 30 people in the class, five of them were pop music fans, five of them were country music fans, and they remaining 20 were kiss fans." ← https://www.youtube.com/watch?v=4xxgPX-aR90
-**Fishing Boat Concert (2019)** : In one of the strangest concerts of the year, three members of KISS, in full makeup, performed a gig for eight people aboard a fishing boat off the coast of Australia. The concert's purpose was to use low-frequency rock and roll sounds to attract sharks for people on a glass-bottom boat to observe, but no sharks appeared. "Unfortunately, no sharks turned up." ← https://www.youtube.com/watch?v=72Lei7uug8c
-**Image and Performance** : KISS was a band that took the use of makeup in performance "even further" than the New York Dolls, creating an iconic and exaggerated visual style. They were known for their elaborate stage presence. "Soon, the dolls were playing regular gigs alongside Iggy Pop, and a band who took the makeup thing even further. They were called KISS." ← https://www.youtube.com/watch?v=0xd0Hf5REg4
-**KISS Formed January 30, 1973 at Popcorn Club, Queens NY – Real Names Abandoned; Makeup Ditched 1983, Restored 1996** : KISS evolved out of a glittery band called Wicked Lester. Stanley Eisen and Hame Whits (later Paul Stanley and Gene Simmons) recruited drummer George Criscuola (Peter Criss, who had been in a band called Lips) and guitarist Paul Frehley (Ace Frehley — renamed because there was already a Paul). Their first show was January 30, 1973 at a club in Queens, New York called Popcorn. Building on glam and glitter of the early 1970s, KISS adopted wild costumes and elaborate makeup, keeping their real appearances a closely guarded secret for a decade. After blowing up in 1975, they ditched the makeup on September 18, 1983 for an MTV appearance revealing their faces for the first time. The reunion of the original lineup in 1996 restored the old makeup designs. Paul Stanley and Gene Simmons retired in December 2023. "When they played their first show on January 30, 1973 at a club in Queens, New York called Popcorn, the legend began." ← https://www.youtube.com/watch?v=DiyIPBKiVW4
-**Musical Exposure for Lenny Kravitz** : Lenny Kravitz was exposed to the music of KISS during his upbringing, among other seminal rock and jazz artists. "But along with jazz and classical, he was exposed to the who and Led Zeppelin, KISS, and Pink Floyd and Jimmy Hendrix in the Rolling Stones." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
-**Over-the-Top Stage Shows** : Their performances were characterized by over-the-top stage shows, featuring extensive pyrotechnics, blood spitting by Gene Simmons, and fire breathing. "Gene Simmons' tongue, and spitting blood and breathing fire over the top stage shows with lots of pyro" ← https://www.youtube.com/watch?v=SIK2YFSmf9U
-**Theatrical Guitar Destruction** : In the 1970s, Paul Stanley of KISS theatrically destroyed "many, many guitars" as an integral part of their stage show, contributing to the band's elaborate and high-energy performances. "You can look at KISS in the 1970s. Paul Stanley, theatrically, went through many, many guitars as part of his show." ← https://www.youtube.com/watch?v=yPok3MemDmE
-**Tribute Band (Mini KISS)** : KISS has a tribute band called Mini KISS, which consists of three little people (under four feet) and a 300-pound female singer. "Many KISS features three little people, they're all under four feet, and a 300 pound female singer." ← https://www.youtube.com/watch?v=72Lei7uug8c
 **Ace Frehley Death (2025) – Brain Hemorrhage After Two Falls, at 74** : Ace Frehley, the iconic original Kiss guitarist who inspired countless young people to pick up the guitar in the 1970s, died at age 74. He suffered a brain hemorrhage following two falls, which led to the family's decision to withdraw life support. "His death was the result of a brain hemorrhage after two falls, leading the family to decide to withdraw life support." ← Ongoing History of New Music > 2025 In Memoriam | https://www.youtube.com/watch?v=ZPlsR7_WiZQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **American Glitter Rock** : Kiss is identified as a band influenced by the American variant of glitter rock, known for its riffy guitars and glam aesthetics. "This is where we meet KISS." ← Ongoing History of New Music > The Surprising History of Glam Rock | https://www.youtube.com/watch?v=blDNqVFheAw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Catalog Sale (2020s)** : Kiss sold a portion of their music catalog for $300 million, participating in a significant trend where artists monetized their life's work for upfront financial security and tax advantages. This "gold rush" for catalogs saw companies acquiring music rights, benefiting artists with immediate cash and ensuring their music's long-term public consciousness. "Kiss 300 million." ← Ongoing History of New Music > The 100 Greatest Rock Moments of the Millennium So Far - Part 1： (100-91) | https://www.youtube.com/watch?v=GYUuTbOvyak&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Critical Acclaim for Hard Rock Sound (May 1974)** : In a May 1974 review for the St. Joseph Missouri newspaper, Terry Jordan praised Kiss's strong vocals and the complementary lyrics by Stanley and Freely, highlighting their mesmerizing heavy metal riffs. He specifically lauded the combination of "Firehouse" and "Cold Gin" live as an exceptional hard rock effort. "The vocals are strong and Stanley and Freely's lyrics compliment the sound to the last cord fade out when you have a mesmerizing heavy metal riff that repeats itself throughout a given song." ← For the Record - The 70s > Ep. 47 - Dick Clark's Entertainment Empire | https://www.ftr70.com/
 **Discovery by Jeff Buckley** : Kiss was one of the bands that Jeff Buckley discovered when he was young. "discovered rush and kiss and various prog rock bands." ← Ongoing History of New Music > Musical Offspring | https://www.youtube.com/watch?v=MmXDbXI6Sqk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Donington Festival Performance (August 28, 1988)** : Kiss was among the notable bands scheduled to perform at the outdoor rock show at Donington, England, on August 28, 1988, an event tragically marked by a fatal crowd collapse during another band's set. "Guns and roses, kiss iron maiden, and others were on the bill." ← Ongoing History of New Music > Rock's Greatest Disasters | https://www.youtube.com/watch?v=Pgchw2h87aw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Early Association with "Punk Rock"** : In 1971, a period when "punk rock" was more an aesthetic idea championed by writers and critics than a defined sound, some people considered the early work of Kiss to fall under this nascent categorization. "Some people believe that early, early kiss could be considered punk rock." ← Ongoing History of New Music > Etymology： Part 1 | https://www.youtube.com/watch?v=Z8BTWo66SDI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Early Gigs at Coventry** : Kiss played early gigs at the club Coventry, the same venue where Joey Ramone's first band, Sniper, also used to perform. "One of the places that they used to play was a club called Coventry, a venue that also saw early gigs by a band called Kiss." ← Ongoing History of New Music > The Original Ramones | https://www.youtube.com/watch?v=j8uk7BnbXwU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Early Hard Rock Preference** : Dave Grohl started listening to Kiss before his exposure to The B-52s and Devo, indicating an early appreciation for "big, loud rock." "And then Devo and Kiss, actually before B-52s and Devo." ← Ongoing History of New Music > Ultra-Deep Background on Dave Grohl： Part 1 | https://www.youtube.com/watch?v=8ynrwaUi-sA&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Famous Logo Design (1973)** : Ace Frehley designed the iconic Kiss logo in 1973. "Ace Freely designed the famous Kiss logo in 1973." ← Ongoing History of New Music > The Rock Explainer | https://www.youtube.com/watch?v=pyoCg3jDzmA&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**First Television Appearance (February 1974)** : Kiss made their television debut on Dick Clark's In Concert in February 1974, performing at the Aquarius Theater in Los Angeles. They played "Nothing to Lose," "Black Diamond," and "Firehouse" after Redbone's opening set. Gene Simmons later acknowledged Clark's crucial role in helping Kiss break through with this exposure. "So wouldn't you know who is responsible for kisses first television appearance of course it's Dick Clark and that would be on in concert." ← For the Record - The 70s > Ep. 47 - Dick Clark's Entertainment Empire | https://www.ftr70.com/
 **Glam Rock Makeup** : Kiss's signature "makeup stick" is explicitly categorized as "definitely glam rock," highlighting the genre's impact on visual identity and stage presentation. "kiss and their makeup stick, definitely glam rock." ← Ongoing History of New Music > The Surprising History of Glam Rock | https://www.youtube.com/watch?v=blDNqVFheAw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Iconic Stage Makeup** : Kiss is cited as a prominent example of a band famous for their use of elaborate stage makeup, which is an integral part of their iconic visual identity and performance. "And let's not forget Mans like Kiss or the insane clown posse." ← Ongoing History of New Music > Fashion | https://www.youtube.com/watch?v=mhQ36Y-c9fM&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Influence on Billy Corgan** : Kiss was cited by Billy Corgan of The Smashing Pumpkins as an influence during his formative years. "he'd say, kiss and Judas Priest." ← Ongoing History of New Music > What's The Big Deal About Bauhaus | https://www.youtube.com/watch?v=A89ipsMeMAg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -42,25 +60,24 @@
 **Influence on Pacific Northwest Rock** : Kiss's rock music was mentioned as an influence that freely mixed with hardcore punk in the Pacific Northwest, contributing to the unique blend that formed grunge. "Here beevus and butthead, rock from black Sabbath, kiss and lead zeppelin, mixed freely with hardcore punk that came up with the coast from California..." ← Ongoing History of New Music > The 90s Part 3： Grunge | https://www.youtube.com/watch?v=tFBSrKMEZxI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Inspired by Marc Bolan and T-Rex** : Kiss was heavily inspired by Marc Bolan's character and the albums of T-Rex, especially *Electric Warrior*. The influence was so profound that understanding Kiss's artistic and musical direction in the late 1970s and 1980s is considered impossible without acknowledging Bolan and T-Rex. "para quís... es muy difícil entender el rock de final de los 70 y de los 80. Tanto a nivel artístico, como incluso a nivel musical, sin entender lo que fue el personaje de Marvolan y de lo que fueron estos iscos de T-Rex." ← Music Radar Clan > EL PIONERO DEL GLAM： MARC BOLAN Y T REX | https://www.youtube.com/watch?v=Mw_HxfX8iBA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Known for Scaring People** : Kiss was known for scaring a lot of people during their career. "so was Alice Cooper and Kiss." ← Ongoing History of New Music > The Most Dangerous Artists in Rock | https://www.youtube.com/watch?v=5vKSjpvVQa8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Live Show Spectacle** : Kiss was renowned for its elaborate live performances, which included Gene Simmons breathing fire while enveloped in smoke generated by dry ice. This dramatic stage presence was a major attraction for their fanbase. "they surely they did love it when I think Jean Simmons would be like surrounded by the smoke created by dry ice and he would literally breathe fire." ← For the Record - The 70s > Ep. 47 - Dick Clark's Entertainment Empire | https://www.ftr70.com/
 **Most Gold Records for a Group** : Kiss holds the distinction of being the group that has accumulated the most gold records throughout its career, with their record label awarding them several hundred. However, these awards have been "enormously questioned" due to many corresponding to different editions of the same album, implying multiple awards for a single musical work. ← Music Radar Clan > Qué es un disco de ORO？    cómo se concede？ | https://www.youtube.com/watch?v=GHVIyfsZBe4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Stage Image and Makeup Philosophy** : Early in their career, the rock industry often fixated on Kiss's outrageous costumes and live theatrics, though fans recognized more depth. Gene Simmons felt their height made them look like "drag queens," and the band considered common attire like jeans and t-shirts disrespectful for the stage. Paul Stanley explained that their distinctive makeup was a collaborative effort to create unique, symbolic characters for each member. "the makeup seemed like the perfect way for each one of us to come up with a character that symbolized and embodied us as individuals." ← For the Record - The 70s > Ep. 47 - Dick Clark's Entertainment Empire | https://www.ftr70.com/
 
-## genres
-- Glam Rock
-- Glitter Rock
-- Hard Rock
-- Punk Rock (early perception)
-- Rock
-- metal
 
-## concerts
-- Coventry
-- Donington
-- Donington Park (1988)
 
-## albums
-**Biggest Records (mid-1970s)** : Bob Ezrin produced Kiss's biggest records during the mid-1970s, including their "Destroyer" album. "Bob produced Kiss' biggest records of the middle 70s. You know the Destroyer Abble produced by Canadian..." ← Ongoing History of New Music > Canadian Producers | https://www.youtube.com/watch?v=QkSKxm_U9Yc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Destroyer (mid-1970s)** : This album by Kiss was produced by Canadian Bob Ezrin, contributing to their biggest records of the middle 1970s. "You know the Destroyer Abble produced by Canadian..." ← Ongoing History of New Music > Canadian Producers | https://www.youtube.com/watch?v=QkSKxm_U9Yc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+## awards
+**star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761
+**Grammy Award for Best Hard Rock Performance (1998) — Psycho Circus** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1542160
+**Rock and Roll Hall of Fame (2014)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
+**Kennedy Center Honors (2025)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1738793
 
-## songs
-**Beth** : This song was sung by drummer Peter Criss and became a huge hit for the band. "Peter Chris saying Beth for kiss and that was a huge hit." ← Ongoing History of New Music > The Second Voice | https://www.youtube.com/watch?v=M1JTdUxOEMU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Beth (Year not specified)** : This song is mentioned as an existing example of a power ballad, indicating that the genre had roots prior to its more widespread emergence and popularization in the 1980s. "Beth by Kiss, awesome." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/
+## charts
+**"Rock and Roll All Nite" — Billboard Year-End Hot 100** : #96, 1976. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"I Was Made for Lovin' You" — Billboard Year-End Hot 100** : #74, 1979. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Forever" — Billboard Year-End Hot 100** : #92, 1990. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+
+## lists
+**"Destroyer" (1976) — 1001 Albums You Must Hear Before You Die** : #354.
+**"Alive!" (1975) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #305. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
+**"Kiss" (1974) — Scaruffi 1970s** : #379, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

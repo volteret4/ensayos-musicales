@@ -1,7 +1,6 @@
-# artist - A tribe called Quest
+# artist - A Tribe Called Quest
 
 ## concerts
-- **Lollapalooza Festival Bookings** : A Tribe Called Quest was a mainstay act booked at the Lollapalooza Festival, which was instrumental in introducing rap to white audiences. "The La La Paloza Festival helped bring rap to white kids by booking mainstayjacks like Ice Tea, Ice Cube, George Clinton, Cypress Hill, and a tribe called Quest."
 - Lollapalooza 1991
 
 ## albums
@@ -10,27 +9,29 @@
 ## curiosities
 **Lollapalooza 1991 Performer** : A Tribe Called Quest was among the "rap stars" featured on the 1991 Lollapalooza tour, contributing to the festival's diverse lineup that deliberately mixed alternative rock with hardcore rap and hip hop to bridge cultural divides. "When presented with rap stars like Ice Tea and Ice Cube at a tribe called Quest in George Clinton and Cypress Hill." ← Ongoing History of New Music > The 90s Part 5a： Hip-Hop's Effects Part 1 | https://www.youtube.com/watch?v=PqOJ3YiFgYE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
+
+
 ## awards
-**The Source (1994)** : Won.
-**Grammy Award for Best Rap Album (1997) — Beats, Rhymes and Life** : Nominated.
-**Grammy Award for Best Music Film (2012) — Beats, Rhymes & Life: The Travels of A Tribe Called Quest** : Nominated.
-**Brit Award for International Group (2017)** : Won.
-**Rock and Roll Hall of Fame (2024)** : Won.
+**The Source (1994)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q2140254
+**Grammy Award for Best Rap Album (1997) — Beats, Rhymes and Life** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1367988
+**Grammy Award for Best Music Film (2012) — Beats, Rhymes & Life: The Travels of A Tribe Called Quest** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q4992254
+**Brit Award for International Group (2017)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q48770261
+**Rock and Roll Hall of Fame (2024)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
 
 ## lists
 **"People’s Instinctive Travels and the Paths of Rhythm" (1990) — 1001 Albums You Must Hear Before You Die** : #681.
 **"The Low End Theory" (1991) — 1001 Albums You Must Hear Before You Die** : #696, 7.0/10 Scaruffi.
-**"Midnight Marauders" (1993) — AOTY Must Hear 1990s** : #319, 83 AOTY.
-**"The Low End Theory" (1991) — AOTY Must Hear 1990s** : #390, 7.0/10 Scaruffi.
-**"People’s Instinctive Travels and the Paths of Rhythm" (1990) — AOTY Must Hear 1990s** : #426.
-**"We Got It From Here… Thank You 4 Your Service" (2016) — AOTY Must Hear 2010s** : #360.
-**"The Low End Theory" (1991) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #43, 7.0/10 Scaruffi.
-**"Midnight Marauders" (1993) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #201, 83 AOTY.
-**"The Low End Theory" (1991) — Scaruffi 1990s** : #377, 7.0/10 Scaruffi.
-**"The Low End Theory" (1991) — Pitchfork: The 150 Best Albums of the 1990s** : #9, 7.0/10 Scaruffi.
-**"Midnight Marauders" (1993) — Pitchfork: The 150 Best Albums of the 1990s** : #97, 83 AOTY.
-**"We Got It From Here… Thank You 4 Your Service" (2016) — Pitchfork: The 200 Best Albums of the 2010s** : #44.
-**"People’s Instinctive Travels and the Paths of Rhythm" (1990) — Sputnikmusic Best Albums 1990** : #44.
-**"The Low End Theory" (1991) — Sputnikmusic Best Albums 1991** : #5, 7.0/10 Scaruffi.
-**"Midnight Marauders" (1993) — Sputnikmusic Best Albums 1993** : #4, 83 AOTY.
-**"We Got It From Here… Thank You 4 Your Service" (2016) — Sputnikmusic Best Albums 2016** : #62.
+**"Midnight Marauders" (1993) — AOTY Must Hear 1990s** : #319, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
+**"The Low End Theory" (1991) — AOTY Must Hear 1990s** : #390, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
+**"People’s Instinctive Travels and the Paths of Rhythm" (1990) — AOTY Must Hear 1990s** : #426. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
+**"We Got It From Here… Thank You 4 Your Service" (2016) — AOTY Must Hear 2010s** : #360. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
+**"The Low End Theory" (1991) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #43, 7.0/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
+**"Midnight Marauders" (1993) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #201, 83 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
+**"The Low End Theory" (1991) — Scaruffi 1990s** : #377, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"The Low End Theory" (1991) — Pitchfork: The 150 Best Albums of the 1990s** : #9, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
+**"Midnight Marauders" (1993) — Pitchfork: The 150 Best Albums of the 1990s** : #97, 83 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
+**"We Got It From Here… Thank You 4 Your Service" (2016) — Pitchfork: The 200 Best Albums of the 2010s** : #44. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
+**"People’s Instinctive Travels and the Paths of Rhythm" (1990) — Sputnikmusic Best Albums 1990** : #44. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
+**"The Low End Theory" (1991) — Sputnikmusic Best Albums 1991** : #5, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
+**"Midnight Marauders" (1993) — Sputnikmusic Best Albums 1993** : #4, 83 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
+**"We Got It From Here… Thank You 4 Your Service" (2016) — Sputnikmusic Best Albums 2016** : #62. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2016/

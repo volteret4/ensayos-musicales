@@ -4,5 +4,9 @@
 - Indie Labels
 
 ## curiosities
-**UK Alt Rock Success (2010s)** : This band was noted for its strong chart performance in the UK alt-rock scene during the 2010s, emerging from indie labels. "Arctic Monkeys, Mumford & Sons, Fools, Alt J, Toot or Cinema Club." ← https://www.youtube.com/watch?v=sOU54d8mr5k
+**UK Alt Rock Success (2010s)** : This band was noted for its strong chart performance in the UK alt-rock scene during the 2010s, emerging from indie labels. "Arctic Monkeys, Mumford & Sons, Fools, Alt J, Toot or Cinema Club." ← https://www.youtube.com/watch?v=sOU54d8mr5k ← foals
 
+
+
+## lists
+**"Everything Not Saved Will Be Lost (Part 2)" (2019) — AOTY Must Hear 2010s** : #17, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/

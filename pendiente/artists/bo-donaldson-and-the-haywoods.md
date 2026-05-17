@@ -1,0 +1,16 @@
+# artist - Bo Donaldson and the Haywoods
+
+## members
+- Bo Donaldson
+- Mike Gibbons
+
+## songs
+**Billy Don't Be a Hero (1974)** : This 1974 song received votes in the 2006 CNN poll for worst songs and "consistently finds itself on the worst of lists." Maybe Green of Rolling Stone magazine associated it with "insipid 70s dribble," while Tom Bryan called it a "cheerily tragic, deeply dumb death song." Bo Donaldson himself initially did not want to record it, but his mother, who also managed the band, believed it would be a hit, a prediction that proved correct. The song tells the story of a young man named Billy who volunteers for a dangerous wartime mission, disregarding his fiancée's pleas not to be a hero, and subsequently dies. His fiancée learns of his death through a letter, presumably from the army, and discards it. Donaldson attributed the song's success to its narrative and catchy melody, alongside a "Vietnam element," even though no specific war is mentioned in the lyrics, and the song was purportedly about the Civil War. It became a number one hit in June 1974. Mike Gibbons, who sang lead on the track, later expressed that he felt the band had fallen into the "teen bubble gum machine" after being asked to cut their hair and shave to emulate The Osmonds' look. ← For the Record - The 70s > Ep. 48 - The Worst of the 70s The Music of 1974 | https://www.ftr70.com/
+
+## curiosities
+**Band Name Origin** : The band intentionally named themselves "The Haywoods" because they thought it sounded "kind of British," believing this would enhance their popularity. The band consisted of seven members. ← For the Record - The 70s > Ep. 48 - The Worst of the 70s The Music of 1974 | https://www.ftr70.com/
+**Band's Decline and Breakup** : Just a few years after achieving their biggest hit, the band was dropped by their record label. Although they subsequently signed with another label, Bo Donaldson and the Haywoods ultimately broke up in 1980. ← For the Record - The 70s > Ep. 48 - The Worst of the 70s The Music of 1974 | https://www.ftr70.com/
+**Bo Donaldson's 1974 Popularity** : Bo Donaldson was 20 years old when "Billy Don't Be a Hero" reached number one in June 1974. His handsome appearance attracted a significant crowd at a record signing event held at Montgomery Ward's in Fond du Lac, Wisconsin. ← For the Record - The 70s > Ep. 48 - The Worst of the 70s The Music of 1974 | https://www.ftr70.com/
+**Early Discovery and Teen Market Targeting** : Dick Clark's team discovered the band in Cincinnati almost a decade before their breakthrough. They opened for The Osmonds, gaining experience with screaming young audiences. The band later appeared multiple times on Clark's show "Action" (1973-1974), which was filmed on a Malibu beach and marketed the band as "fodder for Teeny Boppers" (today referred to as tweens). ← For the Record - The 70s > Ep. 48 - The Worst of the 70s The Music of 1974 | https://www.ftr70.com/
+**Stuck with Teen Image** : The band found it impossible to shed their "Teeny Bopper image" or distance themselves from the pervasive success of "Billy Don't Be a Hero," despite lead singer Mike Gibbons' belief that the band had more to offer musically. ← For the Record - The 70s > Ep. 48 - The Worst of the 70s The Music of 1974 | https://www.ftr70.com/
+

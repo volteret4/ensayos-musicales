@@ -5,5 +5,11 @@
 - Stephan Molesal
 
 ## albums
-**Insight (2017) - Renovated Trip Hop** : This is a very complete album, reminiscent of the essence of old-school trip hop, its experimental side, and the old-school sounds of artists like Björk or "jovy v" (likely referring to Massive Attack or a similar 90s ambient electronic act). It captures the ambient trip hop vibe of the 90s but in a completely renewed way. "es un álbum completísimo es un álbum que nos recuerda esas esencias de la vieja escula del trip hoba es a parte tan experimental es a parte a un poco de la vieja escula de Bjork o de jovy v o de esa parte un poco de ese electrónica ambiental trip hopera de los 90 pero de una manera completamente renovada." ← Music Radar Clan > Mejores discos del 2017 | https://www.youtube.com/watch?v=T34CwsFmXpI&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← stephan-molesal-digital-21
+**Insight (2017) - Renovated Trip Hop** : This is a very complete album, reminiscent of the essence of old-school trip hop, its experimental side, and the old-school sounds of artists like Björk or "jovy v" (likely referring to Massive Attack or a similar 90s ambient electronic act). It captures the ambient trip hop vibe of the 90s but in a completely renewed way. "es un álbum completísimo es un álbum que nos recuerda esas esencias de la vieja escula del trip hoba es a parte tan experimental es a parte a un poco de la vieja escula de Bjork o de jovy v o de esa parte un poco de ese electrónica ambiental trip hopera de los 90 pero de una manera completamente renovada." ← Music Radar Clan > Mejores discos del 2017 | https://www.youtube.com/watch?v=T34CwsFmXpI&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← stephan-molesal-digital-21 ← stephan-molesal-digital-21
 
+
+
+## lists
+**"Jord" (2018) — Sputnikmusic Best Albums 2018** : #136, 3.87 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2018/
+**"Diorama" (2021) — Sputnikmusic Best Albums 2021** : #122, 3.82 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2021/
+**"Dreamcrush" (2026) — Sputnikmusic Best Albums 2026** : #37, 3.62 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2026/

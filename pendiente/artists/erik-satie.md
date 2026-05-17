@@ -1,0 +1,6 @@
+# artist - Erik Satie
+
+## curiosities
+**Coined Furniture Music Term** : Over a century ago, Erik Satie conceived and coined the term "música de mobiliario" (furniture music). His intention was for this music to blend into daily life, serving to mask ordinary sounds like the clatter of cutlery during a meal, fill awkward silences, and generally become part of the ambient environment. "Eric Satilla pensó algo similar hace más de 100 años. Creó el término música de móvil yario para mascarar escenas diarias, preyanar silencios incómodos y enmascarar sonidos cotidianos como el ruido de los cubiertos en una cena." ← Muzak： Música para ser ignorada | https://www.youtube.com/watch?v=7iN6WiB5Y1g
+**Ridicule of Academic Virtuosity** : Erik Satie was known for ridiculing academic virtuosity in music. His compositions included absurd performance instructions such as "play with elegant indifference," which reflected his rejection of traditional musical seriousness and pretension. "Erick Satir rediculizó el virtuosismo académico y escribía parte de las conestrucciones absurdas como, toquece con una indiferencia elegante." ← El punk existía antes de Sex Pistols (y era algo salvaje) | https://www.youtube.com/watch?v=ilXpBujkWZE
+

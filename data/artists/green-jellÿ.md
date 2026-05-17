@@ -1,5 +1,9 @@
 # artist - Green Jellÿ
 
 ## curiosities
-**Adoption of the "Rock Dot" Umlaut** : Green Jellÿ is mentioned as a band that incorporated the umlaut (or "rock dot") into their name, joining many other bands who found the diacritic marks to look cool, foreign, gothic, exotic, or evil. "There's Motley Crew, Queen's Reich, Spinal Tap, Green Jelly, Motorhead, Maximal Park, Moxie Frouze, and tons of others." ← https://www.youtube.com/watch?v=yPok3MemDmE
+**Adoption of the "Rock Dot" Umlaut** : Green Jellÿ is mentioned as a band that incorporated the umlaut (or "rock dot") into their name, joining many other bands who found the diacritic marks to look cool, foreign, gothic, exotic, or evil. "There's Motley Crew, Queen's Reich, Spinal Tap, Green Jelly, Motorhead, Maximal Park, Moxie Frouze, and tons of others." ← https://www.youtube.com/watch?v=yPok3MemDmE ← green-jellÿ
 
+
+
+## charts
+**"Three Little Pigs" — Billboard Year-End Hot 100** : #93, 1993. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

@@ -1,5 +1,5 @@
-# genre - New rave
+# genre - New Rave
 
 ## curiosities
-**Flavor of Alternative Dance** : New rave was identified as one of the "million flavors" that emerged within Alternative Dance in the 1990s, demonstrating the genre's dynamic evolution and its connection to the British rave scene. "A million flavors appeared. Post disco, electrical clash, new rave, big beat." ← https://www.youtube.com/watch?v=amHre9ZZFkU
+**Luminous Trend Counterpart** : New Rave represented one of the "luminous" and "colorful" alternative music scenes that dominated the surface of the music industry in the late 2000s and early 2010s, serving as a bright counterpart against which the deliberately dark Witchhouse scene emerged. "escenas como el New Rape, el Rainbow Rock, Walshiel Wave, marcaron esa tendencia a ver a Nierga y luminosa." ← Witch House： Cuando internet inventó su género maldito | https://www.youtube.com/watch?v=SLlzXA0eyu0
 

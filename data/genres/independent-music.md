@@ -1,6 +1,8 @@
-# genre - Independent Music
+# genre - Independent music
 
 ## curiosities
-**Björk's Debut Album as Collector's Item** : Björk's 1977 debut album became a "holy grail" for collectors in independent and alternative music. "este disco se ha convertido uno de los santos griales del coleccionismo de la música independiente y alternativa." ← Music Radar Clan > Björk - Su verdadero primer álbum | https://www.youtube.com/watch?v=s4LSBQ-QXsg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
-**The Sugarcubes' Meteoric Rise** : The Sugarcubes' first album initiated a "tremendous meteoric career" within the independent music scene. "con él ya empezaba una carrera tremenda meteorica en la música independiente." ← Music Radar Clan > Björk - Su verdadero primer álbum | https://www.youtube.com/watch?v=s4LSBQ-QXsg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Spanish Pioneers Underappreciated** : In Spain, bands like Los Planetas are considered "authentic gods" of independent and indie music. Despite their high quality and role in introducing important cultural influences from other countries, they have not received the recognition they deserve outside of independent circles, highlighting Spain's difficulty in appreciating external cultural integrations. "los planetas que son unos auténticos dioses, yo creo que de la música independiente de la música india que en España a pesar de la gran calidad y de haber traído importantes influencias culturales de otros países a España, que después se han ido pasando generación, generación y continuan hoy, nunca han terminado de ser valorados y de apreciados como deberían fuera de los círculos independientes." ← Music Radar Clan > ROSALIA. Por qué la apropiación cultural es un timo. | https://www.youtube.com/watch?v=PubYV9sbFQw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+
+## artists
+- Los Planetas
 

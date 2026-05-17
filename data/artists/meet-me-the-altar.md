@@ -1,10 +1,15 @@
 # artist - Meet Me @ The Altar
 
-## curiosities
-**Important Black Inclusive Alt-Rock Group** : Meet Me @ The Altar is mentioned as a Black inclusive group making important contributions to alternative rock. "meet me at the altar..." ← https://www.youtube.com/watch?v=PdCAjFW04Oc
-**"Black Paramore" Analogy** : Meet Me @ The Altar is likened to a "black version of Paramore," suggesting a similar pop punk style but with a distinct identity. "Meet me at the altar is like a block version of Paramore, except that they're all women and LGBTQ+." ← https://www.youtube.com/watch?v=_1NNvxgx8uA ← meet-me-the-altar
-**All-Women and LGBTQ+ Lineup** : The band is composed entirely of women and identifies as LGBTQ+, contributing to their unique identity within the pop punk scene. "except that they're all women and LGBTQ+. They're an excellent pop punk band." ← https://www.youtube.com/watch?v=_1NNvxgx8uA ← meet-me-the-altar
-**Remote Collaboration Model** : The members of Meet Me @ The Altar typically reside in three different states—Florida, Georgia, and New Jersey—and collaboratively create their songs online. "Most of the time the members are in three different states, Florida, Georgia, New Jersey, and they all collaborate on songs online." ← https://www.youtube.com/watch?v=_1NNvxgx8uA ← meet-me-the-altar
-
 ## genres
 - Pop Punk
+
+## curiosities
+**"Black Paramore" Analogy** : Meet Me @ The Altar is likened to a "black version of Paramore," suggesting a similar pop punk style but with a distinct identity. "Meet me at the altar is like a block version of Paramore, except that they're all women and LGBTQ+." ← https://www.youtube.com/watch?v=_1NNvxgx8uA ← meet-me-the-altar ← meet-me-the-altar
+**All-Women and LGBTQ+ Lineup** : The band is composed entirely of women and identifies as LGBTQ+, contributing to their unique identity within the pop punk scene. "except that they're all women and LGBTQ+. They're an excellent pop punk band." ← https://www.youtube.com/watch?v=_1NNvxgx8uA ← meet-me-the-altar ← meet-me-the-altar
+**Important Black Inclusive Alt-Rock Group** : Meet Me @ The Altar is mentioned as a Black inclusive group making important contributions to alternative rock. "meet me at the altar..." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← meet-me-the-altar
+**Remote Collaboration Model** : The members of Meet Me @ The Altar typically reside in three different states—Florida, Georgia, and New Jersey—and collaboratively create their songs online. "Most of the time the members are in three different states, Florida, Georgia, New Jersey, and they all collaborate on songs online." ← https://www.youtube.com/watch?v=_1NNvxgx8uA ← meet-me-the-altar ← meet-me-the-altar
+
+
+
+## lists
+**"Past // Present // Future" (2023) — Kerrang! The 50 Best Albums of 2023** : #43. ← musicbrainz | https://beta.musicbrainz.org/series/f1f98ed3-f88a-4aac-bf6c-cf63b60c9e6e

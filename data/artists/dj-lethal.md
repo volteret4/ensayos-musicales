@@ -5,4 +5,9 @@
 - Limp Biscuit
 
 ## curiosities
-**Chester Bennington Collaboration** : Chester Bennington contributed his talents to a side project undertaken by DJ Lethal, who is also known as the DJ for Limp Bizkit. "Chester contributed to a side project by DJ Lethal, Lempiscus DJ." ← https://www.youtube.com/watch?v=zIlCaKCvylI ← dj-lethal
+**Chester Bennington Collaboration** : Chester Bennington contributed his talents to a side project undertaken by DJ Lethal, who is also known as the DJ for Limp Bizkit. "Chester contributed to a side project by DJ Lethal, Lempiscus DJ." ← https://www.youtube.com/watch?v=zIlCaKCvylI ← dj-lethal ← dj-lethal
+
+
+
+## lists
+**"Programmed" (1990) — Sputnikmusic Best Albums 1990** : #72, 4.03 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/

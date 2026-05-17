@@ -1,10 +1,19 @@
 # artist - Jack Richardson
 
 ## curiosities
-**Diverse Production Work** : Richardson worked on records for a range of artists including Alice Cooper, Bob Seger, and what sounds like "the Almond Brothers in Russian." "He also worked on records for Alice Cooper and Bob Seeger and the Almond Brothers in Russian a ton of others." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
-**Early Life and Career** : Jack Richardson, born in Toronto in 1929, initially pursued a career as a musician. In the 1950s, he worked for the CBC before transitioning to the advertising industry in 1960, where Coca-Cola was his largest client. "He was born in 1929 and he started as a musician, but then went to work for the CBC in the 1950s before bailing for the advertising industry in 1960." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
-**Entry into Music Production** : In the late 1960s, Richardson entered the music industry, becoming the producer for The Guess Who during their most successful period. "In the late 60s, he got into the music industry and was the guest who was producer during their glory years." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
-**Mentoring Bob Ezrin** : Jack Richardson provided Bob Ezrin with his first significant opportunity in a recording studio. "The guy who gave Bob his first proper gig in a recording studio was Jack Richardson, another Toronto guy." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
-**Producer for The Guess Who** : Jack Richardson was the producer for The Guess Who during their "glory years," overseeing their successful records. "In the late 60s, he got into the music industry and was the guest who was producer during their glory years." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc
-**Legendary Canadian Producer** : Jack Richardson is recognized as a legendary Canadian producer who was responsible for producing "all the guess who's best records." He is also the father of Garth Richardson, who produced Rage Against The Machine's debut album. "Jack did all the guess who's best records." ← https://www.youtube.com/watch?v=Xo5DRSW95QQ ← jack-richardson
+**Diverse Production Work** : Richardson worked on records for a range of artists including Alice Cooper, Bob Seger, and what sounds like "the Almond Brothers in Russian." "He also worked on records for Alice Cooper and Bob Seeger and the Almond Brothers in Russian a ton of others." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← jack-richardson
+**Early Life and Career** : Jack Richardson, born in Toronto in 1929, initially pursued a career as a musician. In the 1950s, he worked for the CBC before transitioning to the advertising industry in 1960, where Coca-Cola was his largest client. "He was born in 1929 and he started as a musician, but then went to work for the CBC in the 1950s before bailing for the advertising industry in 1960." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← jack-richardson
+**Entry into Music Production** : In the late 1960s, Richardson entered the music industry, becoming the producer for The Guess Who during their most successful period. "In the late 60s, he got into the music industry and was the guest who was producer during their glory years." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← jack-richardson
+**Legendary Canadian Producer** : Jack Richardson is recognized as a legendary Canadian producer who was responsible for producing "all the guess who's best records." He is also the father of Garth Richardson, who produced Rage Against The Machine's debut album. "Jack did all the guess who's best records." ← https://www.youtube.com/watch?v=Xo5DRSW95QQ ← jack-richardson ← jack-richardson
+**Mentoring Bob Ezrin** : Jack Richardson provided Bob Ezrin with his first significant opportunity in a recording studio. "The guy who gave Bob his first proper gig in a recording studio was Jack Richardson, another Toronto guy." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← jack-richardson
+**Producer for The Guess Who** : Jack Richardson was the producer for The Guess Who during their "glory years," overseeing their successful records. "In the late 60s, he got into the music industry and was the guest who was producer during their glory years." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← jack-richardson
 
+
+
+## awards
+**Member of the Order of Canada** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q15278101
+
+## lists
+**"I Want to See the Bright Lights Tonight" (1974) — 1001 Albums You Must Hear Before You Die** : #314.
+**"I Want to See the Bright Lights Tonight" (1974) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #485. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
+**"Shoot Out the Lights" (1982) — Pitchfork: The 200 Best Albums of the 1980s** : #161. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63

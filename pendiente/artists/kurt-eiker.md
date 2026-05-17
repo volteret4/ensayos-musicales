@@ -1,0 +1,6 @@
+# artist - Kurt Eiker
+
+## curiosities
+**Decomposition of Memory Through Sound** : Kurt Eiker, described as a favorite musical project of recent years, constructs his entire work around the ambiguity of manipulated music to explore the decomposition of memory. He uses old recordings of salon orchestras, which are then slowed down to the point of sounding ghostly. "Por ejemplo, de Kurt Eiker, uno de mis proyectos musicales preferidos de los últimos años, explora la descomposición de la memoria a través de viajas grabaciones de orquestas de salón, ralentizadas hasta sonar fantasmales, evocando la pérdida y el olvido." ← ¿Por qué el Slowed & Reverb y los Speed Up están rompiendo YT y TikTok？ | https://www.youtube.com/watch?v=0WWra85DsCo
+**Re-signification of Celebratory Music** : The resulting sound from Kurt Eiker's process evokes feelings of loss and oblivion. Music originally created for celebration and dancing is re-signified to sound heartbreaking, demonstrating how manipulating tempo can profoundly alter the emotional landscape of a piece. "Esa música, creada en un principio para ser celebrada y bailar, se resignifica hasta sonar descarradora." ← ¿Por qué el Slowed & Reverb y los Speed Up están rompiendo YT y TikTok？ | https://www.youtube.com/watch?v=0WWra85DsCo
+

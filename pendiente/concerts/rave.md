@@ -1,0 +1,6 @@
+# concert - Rave
+
+## curiosities
+**Early UK Rave Culture (Late 1980s)** : The first raves in the United Kingdom, particularly during the "Second Summer of Love" in the late 1980s, were characterized by an "empathetic and hedonistic spirit" imported by DJs from clubs like Nesea. These parties primarily featured Chicago House and Acid House, mixed with local productions, with participants dancing for hours at 120 BPMs, often under the influence of ecstasy, aiming for a trance state while bars served only water. "Esas primeras raves eran muy diferentes a lo que asociamos hoy en día a una rave." ← Qué fue el GABBER y por qué asustaba a Europa | https://www.youtube.com/watch?v=0mnM_wO4eFY
+**Evolution and European Expansion (Early 1990s)** : Within a few years, the rave scene transitioned from an underground movement to a mass phenomenon, expanding across Europe to countries like Germany, the Netherlands, Belgium, and Spain. This growth brought changes, including the introduction of alcohol and new drugs such as amphetamine (femtamina/Westpith), which offered a cheaper and more nervous effect compared to ecstasy. "En pocos años la Rave pasó de ese de un movimiento underground a convertirse en un fenómeno de masas." ← Qué fue el GABBER y por qué asustaba a Europa | https://www.youtube.com/watch?v=0mnM_wO4eFY
+

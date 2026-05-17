@@ -2,12 +2,17 @@
 
 ## member of
 - Ramones
-- Uncle Monk
 - The Ramones
-
-## curiosities
-**Death from Bile Duct Cancer (Summer 2014)** : Tommy Ramone, the drummer for the Ramones, passed away from bile duct cancer in the summer of 2014, marking the death of the last original member of the iconic punk band. "and drummer Tommy Ramon was taken by Bile Duck Cancer in the summer of 2014." ← https://www.youtube.com/watch?v=19Z_AAEy8Bc
-**Founding Member of The Ramones** : Tommy was one of the four members who formed The Ramones a year after Douglas Colvin (D.D.) and John Cummings (Johnny) purchased their initial instruments at Manie's Music in 1973. "A year later, Douglas was calling himself D.D. and Johnny was Johnny. And together with Joey and Tommy, they formed the Ramones." ← https://www.youtube.com/watch?v=6SdPPsmpgJg
+- Uncle Monk
 
 ## songs
-**Blitzkrieg Bop (1976)** : Tommy Ramone co-wrote "Blitzkrieg Bop" with D.D. Ramone, which was The Ramones' first single. "although D.D. and Tommy Ramone wrote it." ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum
+**Blitzkrieg Bop (1976)** : Tommy Ramone co-wrote "Blitzkrieg Bop" with D.D. Ramone, which was The Ramones' first single. "although D.D. and Tommy Ramone wrote it." ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum ← tommy-ramone
+
+## curiosities
+**Death from Bile Duct Cancer (Summer 2014)** : Tommy Ramone, the drummer for the Ramones, passed away from bile duct cancer in the summer of 2014, marking the death of the last original member of the iconic punk band. "and drummer Tommy Ramon was taken by Bile Duck Cancer in the summer of 2014." ← https://www.youtube.com/watch?v=19Z_AAEy8Bc ← tommy-ramone
+**Founding Member of The Ramones** : Tommy was one of the four members who formed The Ramones a year after Douglas Colvin (D.D.) and John Cummings (Johnny) purchased their initial instruments at Manie's Music in 1973. "A year later, Douglas was calling himself D.D. and Johnny was Johnny. And together with Joey and Tommy, they formed the Ramones." ← https://www.youtube.com/watch?v=6SdPPsmpgJg ← tommy-ramone
+
+
+
+## lists
+**"Conference of the Birds" (2006) — Sputnikmusic Best Albums 2006** : #180, 3.99 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/

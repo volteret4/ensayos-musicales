@@ -1,5 +1,5 @@
-# genre - Chill hop
+# genre - Chill Hop
 
 ## curiosities
-**Lo-Fi Penetration into Hip-Hop (Post-1995)** : Chill hop is described as a down-tempo style of hip-hop that has adopted the low-fidelity aesthetic, demonstrating how lo-fi penetrated the hip-hop genre. This cross-pollination shows the broad appeal and adaptability of the lo-fi mindset across different musical styles. "Low five penetrated the hip-hop aesthetic too, with a down-tempo style known as chill hop, same with electronic dance music." ← https://www.youtube.com/watch?v=Jq-e-fZxXOs ← chill-hop
+**Influence on Wildbarber Beats** : Chill Hop is identified as a genre to which Wildbarber Beats is closely related, with the latter being described as an organic tempo version of vaporwave "cercana al chill hop". "una versión de un tempo orgánica cercana al chill hop" ← Vaporwave： Mucho más que un Meme | https://www.youtube.com/watch?v=BhOnKc0SxsA
 

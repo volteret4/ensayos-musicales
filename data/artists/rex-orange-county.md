@@ -5,5 +5,13 @@
 - Tweetpop
 
 ## curiosities
-**21st Century Tweetpop Descendant** : Rex Orange County is identified as a 21st-century artist in the Bedroom Pop genre, a style that owes its existence and characteristics (dreamy, introspective, sensitive, vulnerable) to various forms of Tweetpop. This musical approach is enabled by the affordability and power of modern recording equipment, such as laptops and software. "We wouldn't have artists like Girl in Red or Beba Dooby or Arlo Parks, Rex Orange County, and Sockermummy if it wasn't for the various flavors of Tweet Pop." ← https://www.youtube.com/watch?v=jhgZrwtYE2g
+**21st Century Tweetpop Descendant** : Rex Orange County is identified as a 21st-century artist in the Bedroom Pop genre, a style that owes its existence and characteristics (dreamy, introspective, sensitive, vulnerable) to various forms of Tweetpop. This musical approach is enabled by the affordability and power of modern recording equipment, such as laptops and software. "We wouldn't have artists like Girl in Red or Beba Dooby or Arlo Parks, Rex Orange County, and Sockermummy if it wasn't for the various flavors of Tweet Pop." ← https://www.youtube.com/watch?v=jhgZrwtYE2g ← rex-orange-county
 
+
+
+## awards
+**Sound of... (2018)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q644925
+
+## lists
+**"Herd Of Instinct" (1994) — Scaruffi 1990s** : #993, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Herd Of Instinct" (1994) — Sputnikmusic Best Albums 1997** : #106, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/

@@ -1,10 +1,10 @@
 # artist - BTO
 
 ## curiosities
-**Mid-1980s Domestic & International Success** : By the mid-1980s, BTO was among several Canadian rock acts that released albums performing "extremely well domestically and internationally," some even achieving multi-platinum sales in foreign markets. "Rush, April Wine, BTO, Loverboy, Triumph, Brian Adams, and a half a dozen others all released albums that had done extremely well domestically and internationally." ← https://www.youtube.com/watch?v=U2kYleeMnl8 ← bto
+**Mid-1980s Domestic & International Success** : By the mid-1980s, BTO was among several Canadian rock acts that released albums performing "extremely well domestically and internationally," some even achieving multi-platinum sales in foreign markets. "Rush, April Wine, BTO, Loverboy, Triumph, Brian Adams, and a half a dozen others all released albums that had done extremely well domestically and internationally." ← https://www.youtube.com/watch?v=U2kYleeMnl8 ← bto ← bto
 
 
 
 ## lists
-**"ESCM" (1997) — Sputnikmusic Best Albums 1997** : #186, 3.93 Sputnik.
-**"This Binary Universe" (2006) — Sputnikmusic Best Albums 2006** : #15, 4.25 Sputnik.
+**"ESCM" (1997) — Sputnikmusic Best Albums 1997** : #186, 3.93 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
+**"This Binary Universe" (2006) — Sputnikmusic Best Albums 2006** : #15, 4.25 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/

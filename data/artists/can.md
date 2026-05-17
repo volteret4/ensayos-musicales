@@ -1,26 +1,30 @@
-# artist - Can
-
-## members
-- Holger Czukay
+# artist - CAN
 
 ## genres
-- Electronic music
-- Krautrock
-- Funk
-- Jazz
-- Psychedelic Rock
-- Samba
-
-## albums
-**Rome Remains Rome (1987) – Featured Unauthorized Pope John Paul II Easter Mass Sample** : Solo album by Can's key member Holger Czukay, featuring a track called "Blessed Easter" in which Czukay recorded Pope John Paul II's Easter Mass and Easter address via shortwave radio and set it to music. Sampling the Pope in 1987 was considered extremely controversial. The Pope was credited in the liner notes as "Pope Star Wojtyla and his swing nuns." The sample was completely unauthorized. "Sampling the Pope was considered to be Uber controversial in 1987." ← https://www.youtube.com/watch?v=Dt7mb4yyuWM
+- Avant-garde
 
 ## curiosities
-**Early German Electronic Musicians** : Can was one of the groups that emerged from Germany at the turn of the 1970s, contributing to a movement where German musicians embraced electronics to forge a musical identity distinct from British and American rock and roll. This was influenced by almost 20 years of exposure to electronic sounds through West German Radio's experimental studio. "There were groups like Cannes and Tangerine Dream, and most important of all, Kraftwerk." ← https://www.youtube.com/watch?v=OiqdZfxdBP0
-**Genre Experimentation** : Can experimented by combining various genres such as jazz, psychedelic rock, funk, and samba, along with found sound and spacey elements, within the Krautrock movement. "And can, another band, experimented by combining jazz with psych and funk and somba and found sound and spacey sounds." ← Ongoing History of New Music > What Exactly is Post-Rock？ Part 1 | https://www.youtube.com/watch?v=pLf3kUONewg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Influence on Boards of Canada** : Can's music is sometimes recalled by Boards of Canada's album "Tomorrow's Harvest." "a veces puede recordar a Ken." ← Music Radar Clan > BOARDS OF CANADA. La visión romántica del IDM | https://www.youtube.com/watch?v=llE5K5hjwVg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
-**Influence on David Bowie** : David Bowie was deeply interested in the German group Can, among others, which contributed to his musical evolution and his decision to move to Berlin to explore electronic music. "He was deeply interested in what was happening in Germany with groups such as Kraftwerk, Ken, New, and the rising sound of synthesizers." ← Ongoing History of New Music > Why Bowie Still Matters - Part 2 | https://www.youtube.com/watch?v=rw0uXf5UJvo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Influence on Joy Division's Sound** : Can is cited as another experimental band that influenced Joy Division's sound, especially through the production of Martin Hannett. Hannett's approach brought Joy Division closer to Krautrock and experimental electronic music, incorporating unorthodox sounds into their characteristic atmospheric style. "incluso como Cannes, que los aferca a veces incluso al Crab Rock, la música elitrónica experimental y que leis introducen sonidos como muy poco orthodoxos." ← Music Radar Clan > Especial JOY DIVISION： 2. Unknown Pleasures | https://www.youtube.com/watch?v=I9nK6TmzqGs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
-**Krautrock Pioneer** : Can is mentioned as one of the key Krautrock bands that one would encounter when delving deeper into the genre, highlighting their significant contribution to the experimental German music scene. "you will encounter names like Cannes, Cluster, Tangerine, Dream, Faust, and dozens more." ← Ongoing History of New Music > Explaining Krautrock | https://www.youtube.com/watch?v=ePZDkqLM_gw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Formation as Avant-Garde Group (1968)** : CAN, an avant-garde group, formed in 1968, following Tangerine Dream in exploring the unique sonic possibilities offered by oscillators and other electronic components that generated "other-worldly sounds." "They were followed in 1968 by a really avant-garde group called CAN." ← Ongoing History of New Music > The Post-Punk Explosion Part 3： Industrial | https://www.youtube.com/watch?v=zSFhhEaiYwE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Influence on Johnny Lydon** : Johnny Lydon of Public Image Limited was a big fan of the German avant-garde group Can, indicating their significant influence on subsequent artists. "Johnny had always been a big fan of the German Abont Guard group called Can." ← Ongoing History of New Music > The Post-Punk Explosion Part 3： Industrial | https://www.youtube.com/watch?v=zSFhhEaiYwE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
-## songs
-**I Want More (1976)** : This track, released in 1976, was a hit single in Germany, demonstrating Can's experimental blend of genres and contributing to the Krautrock sound. "This is a track from 1976 called I Want More. This was a hit single in Germany." ← Ongoing History of New Music > What Exactly is Post-Rock？ Part 1 | https://www.youtube.com/watch?v=pLf3kUONewg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+
+
+## awards
+**Nansen Refugee Award (1986)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q663005
+
+## lists
+**"Tago Mago" (1971) — 1001 Albums You Must Hear Before You Die** : #219, 8.0/10 Scaruffi.
+**"Future Days" (1973) — 1001 Albums You Must Hear Before You Die** : #277, 7.5/10 Scaruffi.
+**"Future Days" (1973) — AOTY Must Hear 1970s** : #145, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
+**"Ege Bamyası" (1972) — AOTY Must Hear 1970s** : #163, 95 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
+**"Tago Mago" (1971) — AOTY Must Hear 1970s** : #206, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
+**"The Lost Tapes" (2012) — AOTY Must Hear 2010s** : #760, 84 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
+**"Ege Bamyası" (1972) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #454, 95 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
+**"Monster Movie" (1969) — Scaruffi 1960s** : #98, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Tago Mago" (1971) — Scaruffi 1970s** : #32, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Future Days" (1973) — Scaruffi 1970s** : #90, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Ege Bamyası" (1972) — Scaruffi 1970s** : #209, 95 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Ege Bamyası" (1972) — Pitchfork: The 100 Best Albums of the 1970s** : #19, 95 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
+**"Tago Mago" (1971) — Pitchfork: The 100 Best Albums of the 1970s** : #29, 8.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
+**"Future Days" (1973) — Pitchfork: The 100 Best Albums of the 1970s** : #56, 7.5/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
+**"Monster Movie" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #48, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010

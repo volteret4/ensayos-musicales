@@ -1,0 +1,13 @@
+# artist - Timothy Brown
+
+## albums
+**Nashville Soundtrack** : Timothy Brown sang "Blue Bird" for the soundtrack of Robert Altman's 1975 film "Nashville." The song, written by Ronee Blakley, was performed by Brown's character, Tommy Brown, in a style reminiscent of Charlie Pride. "That's Timothy Brown singing Blue Bird for the Nashville soundtrack." ← For the Record - The 70s > Ep. 53 - More than Charley Pride - African Americans in 70s Country | https://www.ftr70.com/
+
+## songs
+**Blue Bird (1975)** : Timothy Brown sang "Blue Bird" in Robert Altman's 1975 film "Nashville," as his character Tommy Brown. Written by Ronee Blakley, the song is performed in a style similar to Charlie Pride, and in the film, Brown performs it at the new Grand Ole Opry. "This is a bit of blue bird written by Ronnie Blakely and sung by Timothy Brown." ← For the Record - The 70s > Ep. 53 - More than Charley Pride - African Americans in 70s Country | https://www.ftr70.com/
+
+## curiosities
+**"Too White" Accusation in "Nashville"** : In Robert Altman's film "Nashville," Timothy Brown's character, Tommy Brown, is told by another African American character that he is "too white." This comment is left open to interpretation within the film's narrative. "Tommy Brown in the movie Nashville is told by another African American character in a manner that I shall not repeat here that he was too white." ← For the Record - The 70s > Ep. 53 - More than Charley Pride - African Americans in 70s Country | https://www.ftr70.com/
+**Football and Acting Career** : Timothy Brown had a notable career as a football player, playing college football at Ball State and later in the NFL, with his best years spent with the Philadelphia Eagles, who inducted him into their Hall of Fame in 1990. He also "dabbled in music," singing in bands and making a record during his NFL tenure, before becoming a full-time actor after retiring from football. "He played college football at Ball State and he played in the NFL. His best years were with the Philadelphia Eagles and he was inducted into the team's Hall of Fame in 1990." ← For the Record - The 70s > Ep. 53 - More than Charley Pride - African Americans in 70s Country | https://www.ftr70.com/
+**Roles in Altman Films** : Timothy Brown played Spear-chucker Jones in Robert Altman's 1970 film "MASH" and later portrayed Tommy Brown in Altman's 1975 film "Nashville." "Now Mash fans, you might recall Timothy Brown as spear-chucker Jones. So Altman had worked with him before, before offering him the role of Tommy Brown in Nashville." ← For the Record - The 70s > Ep. 53 - More than Charley Pride - African Americans in 70s Country | https://www.ftr70.com/
+

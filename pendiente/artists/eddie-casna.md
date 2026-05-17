@@ -1,0 +1,6 @@
+# artist - Eddie Casna
+
+## curiosities
+**"Rock Around the Clock" Publishing Rights** : Eddie Casna, an Austrian songwriter and publisher, achieved "unbelievable fortune" by acquiring the publishing rights for Bill Haley and the Comets' iconic song "Rock Around the Clock" for a mere $250. This lucrative acquisition made him "incredibly rich" and enabled him to establish offices in both London and New York. "Casna had had the unbelievable fortune to buy the publishing rights for a rock around the clock for $250 and had become incredibly rich, with offices in both London and New York." ← Episode 119： ＂You Really Got Me＂ by the Kinks | https://www.youtube.com/watch?v=_XNJ6Qwmh_c
+**Partnership with Larry Page and Shell Tauhmey** : Casna entered a "complicated business arrangement" with manager Larry Page and independent producer Shell Tauhmey. In this setup, Casna provided songs to Page's artists and held publishing rights for any songs written by Page's acts, ensuring a steady stream of income and creative control within their integrated music business model. "Casna got a percentage of Page's management income. Casna would give Page's act songs, and any song Page's acts wrote will be published by Casna." ← Episode 119： ＂You Really Got Me＂ by the Kinks | https://www.youtube.com/watch?v=_XNJ6Qwmh_c
+

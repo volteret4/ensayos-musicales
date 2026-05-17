@@ -1,10 +1,10 @@
 # artist - Andy Leak
 
 ## curiosities
-**Death Details - November 3, 2024** : Andy Leak of Dexys Midnight Runners passed away on November 3rd, 2024, from complications related to Parkinson's disease. "Andy Leak of Dexys Midnight Runners passed away from complications resulting from Parkinson's." ← https://www.youtube.com/watch?v=HBS24NwhrE8
+**Death Details - November 3, 2024** : Andy Leak of Dexys Midnight Runners passed away on November 3rd, 2024, from complications related to Parkinson's disease. "Andy Leak of Dexys Midnight Runners passed away from complications resulting from Parkinson's." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← andy-leak
 
 
 
 ## lists
-**"Ea Taesse" (2006) — Sputnikmusic Best Albums 2006** : #116, 4.04 Sputnik.
-**"Ea II" (2009) — Sputnikmusic Best Albums 2009** : #12, 4.23 Sputnik.
+**"Ea Taesse" (2006) — Sputnikmusic Best Albums 2006** : #116, 4.04 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/
+**"Ea II" (2009) — Sputnikmusic Best Albums 2009** : #12, 4.23 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2009/

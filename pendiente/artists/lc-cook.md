@@ -1,0 +1,7 @@
+# artist - LC Cook
+
+## curiosities
+**Brother of Sam Cooke** : LC Cook, whose name was just the initials, was Sam Cooke's brother and later achieved minor success as a singer in a style very similar to Sam's. "And indeed Sam's brother LC, whose name was just the initials LC. Later went on to have some minor success as a singer himself in a style very like Sam's." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
+**Charity Christmas Show in Memphis** : LC Cook and his group appeared at the bottom of the bill for a charity Christmas show in Memphis, supporting impoverished black youth. He met Elvis Presley backstage, who spent 20 minutes discussing his admiration for Sam Cooke's singing. "Around the time of the Dale Cook recording session, Sam's brother LC went to Memphis with his own group where they appeared at the bottom of the bill for a charity Christmas show in aid of impoverished black youth." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
+**Nominal Songwriter for "You Send Me"** : To bypass royalty payments to Art Rupe, who still held Sam Cooke's songwriting contract, "You Send Me" was put in LC Cook's name, leading to legal action from Rupe. "Sam was still signed to Roup's company as a songwriter, and so he'd put You Send Me in the name of his brother, LC, so Roup wouldn't get any royalties." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
+

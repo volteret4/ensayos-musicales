@@ -1,0 +1,15 @@
+# artist - John Dolphin
+
+## labels
+- Cash Records
+- Dolphins of Hollywood
+- John Dolphin's record label
+
+## curiosities
+**Business Continuation after Death** : Following Dolphin's death, the record company aspect of his business was managed by his assistant, Rudy Raymore, a failed singer who later achieved fame as the comedy character Dolomite. "The shot part of his business was, from Leonon, managed by his assistant, a failed singer called Rudy Raymore, who later went on to become famous playing the comedy character Dolomite." ← Episode 86： ＂LSD-25＂ by the Gamblers | https://www.youtube.com/watch?v=UNd6UwbL1rA
+**Central Avenue Music Scene Involvement** : John Dolphin was a prominent personality in the Central Avenue music scene in Los Angeles, where Sam Cooke spent time interacting with the R&B community. "Sam made himself firmly a part of the central avenue music scene, hanging around with Gaynell Hodge, Jesse Belvin, Dutti Williams, Guggi Renne, John Dolphin, and everyone else who was part of the LAR and B community." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
+**Murder (February 1, 1958)** : On February 1, 1958, John Dolphin was shot and killed by Percy Ivy during a heated argument at his business. Dave Shostack, who was present with Bruce Johnston and Sandy Nelson to seek a record deal, was also hit in the leg. Bruce Johnston reportedly comforted the dying Dolphin. "Ivy pulled out a gun and shot Dolphin." ← Episode 86： ＂LSD-25＂ by the Gamblers | https://www.youtube.com/watch?v=UNd6UwbL1rA
+**Owner of Dolphins of Hollywood** : John Dolphin owned Dolphins of Hollywood, which was the largest Black-owned record store in the Los Angeles area. He was highly influential in the success of many records by getting them played on radio shows broadcast from his own station. "Dolphin owned Dolphins of Hollywood, the biggest black owned record store in the LA area, and was responsible for a large part of the success of many of the records we've covered, through getting them played on radio shows broadcast from his station." ← Episode 86： ＂LSD-25＂ by the Gamblers | https://www.youtube.com/watch?v=UNd6UwbL1rA
+**Record Label and Publishing Company Owner** : Dolphin owned a series of small record labels, such as Cash Records, which would often release one or two singles by an artist before they were signed to a larger label. He also owned a publishing company, which held the rights to songs like "Buzz Buzz Buzz" by The Hollywood Flames. "He also owned a series of small labels, which would put out one or two singles by an artist, before the artist was snapped up by a bigger label." ← Episode 86： ＂LSD-25＂ by the Gamblers | https://www.youtube.com/watch?v=UNd6UwbL1rA
+**Released The Hollywood Blue Jays Single** : John Dolphin's record label released the single recorded by the Hollywood Blue Jays before they renamed themselves The Fliers and moved to Fliers Records. "They recorded one single for John Dolphins' record label." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
+

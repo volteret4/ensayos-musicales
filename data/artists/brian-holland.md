@@ -1,5 +1,27 @@
 # artist - Brian Holland
 
 ## member of
+- The Fidelitones
 - The Offspring
 
+## labels
+- Aladdin
+- Motown
+
+## songs
+**Playboy (1962) - Co-writer** : Brian Holland, along with Robert Bateman and Mickey Stephenson, rewrote Gladys Horton's original song idea for "Playboy," turning it into a successful top 10 pop and R&B chart hit for The Marvelettes. "This time it was Gladys, who came up with a song called Playboy, which Brian Holland, Robert Baigman and Mickey Stephenson rewrote, and which made number 7 on the pop chart and number 4 on the R&B chart." ← Episode 93： ＂Please Mr. Postman＂ by the Marvelettes | https://www.youtube.com/watch?v=EPg8Wx30-uM
+**Please Mr. Postman (1961) - Producer and Writer** : Brian Holland was assigned to work with The Marvelettes on their song idea and had a "brainwave" that shaped "Please Mr. Postman" into its hit form. He brought in Freddie Gorman to add realistic details from a postman's perspective and is credited as one of five writers on the song. "Holland and his brother Eddie were both on Motown staff at the time, but before joining Motown, Holland had been in a group called The Fidelitones." ← Episode 93： ＂Please Mr. Postman＂ by the Marvelettes | https://www.youtube.com/watch?v=EPg8Wx30-uM
+**Song for Wine Company / Brian's Holland (Year unknown)** : One of Brian Holland's first engineering jobs was for a song recorded by Eddie Holland. It was originally written as a jingle for a wine company but was released as a single under the name "Brian's Holland," leading to frequent misconceptions over the years that Brian was singing lead on it. "One of Brian Holland's first engineering jobs was for a song recorded by Eddie, written as a jingle for a wine company, but released as a single under the name Brian's Holland, meaning it is often over the years for the song to be Brian singing lead." ← Episode 111： ＂Heat Wave＂ by Martha and the Vandellas | https://www.youtube.com/watch?v=AAiUJhSKjzs
+
+## curiosities
+**"BrandBirt" Production Team** : Brian Holland formed a songwriting and production team named "BrandBirt" with his normal songwriting partner, Robert Bateman, contributing to Motown's hit-making machinery. "Gorman became one of five credited writers on the song, along with Holland, Georgia Dobbins, William Garrett, and Holland's normal songwriting partner Robert Bateman, who worked with Holland as a songwriting and production team called BrandBirt." ← Episode 93： ＂Please Mr. Postman＂ by the Marvelettes | https://www.youtube.com/watch?v=EPg8Wx30-uM
+**Early Motown Staffer** : Brian Holland became a staff member at Motown when it started, later claiming to be the very first permanent staff member employed by the label. While his brother Eddie was on the road, Brian was actively writing, producing, and singing backing vocals on numerous records. "Indeed, he has later claimed that he was the very first person employed by Motown as a permanent staff member." ← Episode 111： ＂Heat Wave＂ by Martha and the Vandellas | https://www.youtube.com/watch?v=AAiUJhSKjzs
+**End of Partnership with Freddie Gorman** : Brian Holland's songwriting partnership with Freddie Gorman concluded when Holland began to complete song ideas more rapidly with his brother Eddie and new writing partner, Lamont Dozier. "Freddie kept finding that when he came round to hit the film after work, if Brian Holland had had an idea for a song, he'd already finished it, usually with the help of his brother ready and their new writing partner, Lamont Dozier." ← Episode 93： ＂Please Mr. Postman＂ by the Marvelettes | https://www.youtube.com/watch?v=EPg8Wx30-uM
+**Engineering Role** : Barry Gordy took Brian Holland under his wing in his early teens, pairing him with Jenny Bradford for music to her lyrics and also teaching him to engineer. One of his first engineering jobs was for a song recorded by Eddie Holland. "Gordy listened to Brian and took him under his wing, pairing him with Jenny Bradford to add music to Bradford's lyrics, and also teaching him to engineer." ← Episode 111： ＂Heat Wave＂ by Martha and the Vandellas | https://www.youtube.com/watch?v=AAiUJhSKjzs
+**Musical Talent & Arrangement Skills** : Unlike his brother Eddie, Brian Holland did not have a particularly great singing voice. However, he possessed a "great musical mind," instantly figuring out harmony parts for groups and having a massive talent for arrangement. "unlike Eddie, didn't have a particularly great voice, but what he did have was a great musical mind. He could instantly figure out all the harmony parts for the whole group, and had a massive talent for arrangement." ← Episode 111： ＂Heat Wave＂ by Martha and the Vandellas | https://www.youtube.com/watch?v=AAiUJhSKjzs
+**Pre-Motown Recordings with The Fidelitones** : Before his prominent role at Motown, Brian Holland was a member of The Fidelitones, who recorded unreleased tracks for Aladdin in the late 1950s, produced by Barry Gordy. This provided him with early experience in the music industry. "Before joining Motown, Holland had been in a group called The Fidelitones. The Fidelitones had recorded some tracks for Aladdin, produced by Gordy in the late 50s, but they'd never been released." ← Episode 93： ＂Please Mr. Postman＂ by the Marvelettes | https://www.youtube.com/watch?v=EPg8Wx30-uM
+
+
+
+## awards
+**Johnny Mercer Award (2009)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q61669648

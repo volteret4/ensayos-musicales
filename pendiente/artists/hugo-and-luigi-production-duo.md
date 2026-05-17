@@ -1,0 +1,11 @@
+# artist - Hugo and Luigi (Production Duo)
+
+## songs
+**Can't Help Falling in Love (Year not given) - Elvis Presley Co-write** : They co-wrote this song for Elvis Presley with George David Weiss, basing it on a traditional melody. "The three of them had previously co-written Kant's Help Falling in Love for Elvis Presley, basing it on a traditional melody, which is what they thought they were doing here." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
+**The Lion Sleeps Tonight (1961) - The Tokens Production** : As producers for The Tokens, they brought in George David Weiss to rework "Wimoweh" and came up with the arrangement for his new version. They co-wrote and copyrighted the song with Weiss, and brought in opera singer Anita Darian for the vocal part. "Hugo and the Ouija came up with an arrangement for Wiss' new version of the song, and vote in an opera singer named Anita Darian to replicate the part that Eamah Sumak had sung on her version." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
+
+## curiosities
+**Co-copyright Holders of "The Lion Sleeps Tonight"** : Believing the song to be traditional, they, along with George Weiss, copyrighted "The Lion Sleeps Tonight" in their names. "As it was believed by everyone involved that the song was a traditional one, the new song was copyrighted in the names of Wiss, Hugo and Luigi." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
+**Luigi Creatorie's Death in 2015** : Luigi Creatorie, one half of the production duo, died in 2015. "who died himself in 2015." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
+**Production Duo for The Tokens** : Hugo and Luigi were the production duo working with The Tokens on RCA Records, notably on "The Lion Sleeps Tonight." "But by then, the group had signed to RCA Records, and were now working with Hugo and the Ouija, the production duo, who you might remember from the episode on Shout." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
+

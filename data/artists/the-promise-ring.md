@@ -4,5 +4,9 @@
 - Emo
 
 ## curiosities
-**Late 90s Emo Band** : The Promise Ring is cited as an emo band from the later part of the 1990s, contributing to the genre's increasing visibility. "and later in the decade we heard from taking back Sunday, Thursday, the promise ring, and saves the day." ← https://www.youtube.com/watch?v=mAlc-N2wn5s ← the-promise-ring
+**Late 90s Emo Band** : The Promise Ring is cited as an emo band from the later part of the 1990s, contributing to the genre's increasing visibility. "and later in the decade we heard from taking back Sunday, Thursday, the promise ring, and saves the day." ← https://www.youtube.com/watch?v=mAlc-N2wn5s ← the-promise-ring ← the-promise-ring
 
+
+
+## charts
+**"Cheerleader" — Billboard Year-End Hot 100** : #11, 2015. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

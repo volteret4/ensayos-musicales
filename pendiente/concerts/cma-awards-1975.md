@@ -1,0 +1,8 @@
+# concert - CMA Awards 1975
+
+## curiosities
+**"Back Home Again" Song of the Year Win** : John Denver's song "Back Home Again" won the CMA Song of the Year award in 1975. "The Title Track, one song of the year at the CMA's in 1975." ← For the Record - The 70s > Ep. 2 - Countryish Music of the 1970s (Encore) | https://www.ftr70.com/
+**Charlie Rich's Card-Burning Incident** : Charlie Rich, as the reigning Entertainer of the Year, famously set John Denver's name card on fire while announcing Denver as the 1975 Entertainer of the Year. "With the Country Music Association Awards in 1975, Charlie Rich, as the reigning CMA entertainer of the year, staggered onto the stage at Nashville's Grand Ole Opry to announce the winner of the CMA entertainer of the year for the career." ← For the Record - The 70s > Ep. 2 - Countryish Music of the 1970s (Encore) | https://www.ftr70.com/
+**Glenn Campbell Performs "Rhinestone Cowboy"** : Glenn Campbell performed his song "Rhinestone Cowboy" live at the 1975 CMAs, the same year John Denver won Entertainer of the Year. "In fact, Glenn Campbell performed that song live at the CMAs, the same year that Denver won Entertainer of the Year." ← For the Record - The 70s > Ep. 2 - Countryish Music of the 1970s (Encore) | https://www.ftr70.com/
+**John Denver Entertainer of the Year Win** : John Denver was announced as the CMA Entertainer of the Year for 1975, an event marred by Charlie Rich's dramatic protest. "Charlie Rich announced that John Denver was the CMA entertainer of the year for 1975." ← For the Record - The 70s > Ep. 2 - Countryish Music of the 1970s (Encore) | https://www.ftr70.com/
+

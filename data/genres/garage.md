@@ -1,8 +1,8 @@
-# genre - Garage
+# genre - garage
 
 ## curiosities
-**Underground Dance Scene** : Garage was one of the underground dance music genres of the late 90s. Its eventual morphing into "big money territory" was a "huge turnoff" for purists who preferred its underground status. ← https://www.youtube.com/watch?v=YvcnHKI4oIw
+**Collecting Rarities (Mid-1970s)** : Poison Ivy and Lux Interior became "sick collectors" of 60s garage rarities, alongside doo-wop and obscure rockabilly B-sides, found in second-hand record bins. This collecting habit stemmed from their rejection of the progressive rock and singer-songwriter music prevalent in mainstream stores during the mid-1970s. "El duro Waps se convirtió en su feticche, pero también las rarezas de garage de los años 60 y sobretodo el rockabilly." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
 
 ## artists
-- Afrika Bambaataa
+- The Cramps
 

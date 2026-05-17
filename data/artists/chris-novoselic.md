@@ -1,9 +1,9 @@
-# artist - Chris (Novoselic)
+# artist - Chris Novoselic
 
 ## member of
-- Nirvana
 - Eyes Adrift
 - Kurt Cobain
+- Nirvana
 - Sweet 75
 
 ## labels
@@ -25,3 +25,8 @@
 **Solo Album Rumors and Flipper Stint** : Rumors of a Chris Novoselic solo album in 2005 were interrupted by a stint with the old-school punk band Flipper. He planned to record an album with Flipper, but in September 2008, he cancelled all tours and the album was never recorded due to his increasing responsibilities at home and involvement in regional politics. "There were rumblings of a Christian of a solid solo album in 2005, but that was interrupted by a stint with an old-school punk band called Flipper." ← Ongoing History of New Music > Kurt Cobain： 25 Years Later | https://www.youtube.com/watch?v=cS8k3PYU_Eo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Speculated Post-Nirvana Life (if Kurt Lived)** : It is speculated that if Kurt had lived and pursued an acoustic career, Chris Novoselic would have continued to follow his political interests, potentially sticking with Kurt to support him. "Chris Nova Selich. Well, he was always the activist of the band, the political guy. So as Dave went off with the food fighters and Kurt became this accoustic guy, I could still see Chris following his political interests." ← Ongoing History of New Music > Kurt Cobain： 25 Years Later | https://www.youtube.com/watch?v=cS8k3PYU_Eo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Sweet 75 Formation and Disbandment** : He formed Sweet 75 in late 1995 with Venezuelan street musician Yiva Las Vegas. Despite a debut album in 1997, it "just kind of disappeared" due to its experimental alt-pop sound. Plans for future albums in late 1999 and early 2001 fell apart, leading to the band's demise. "First, he was in a band called Sweet 75 through late 1995. The singer was a street musician from Venezuela who went by the name of Yiva Las Vegas." ← Ongoing History of New Music > Kurt Cobain： 25 Years Later | https://www.youtube.com/watch?v=cS8k3PYU_Eo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+
+
+
+## lists
+**"The Texas-Jerusalem Crossroads" (2001) — AOTY Must Hear 2000s** : #457, 69 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/

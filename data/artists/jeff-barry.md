@@ -1,5 +1,16 @@
 # artist - Jeff Barry
 
 ## songs
-**Sugar Sugar (1969)** : Jeff Barry co-wrote this hit song for The Archies with Andy Kim. He was previously a songwriter at the Brill Building. "Kirschner had a song though that was written by Jeff Barry and Andy Kim that he was sure would be a hit." ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum
+**Bang Shang-A-Lang** : A song that exemplifies Jeff Barry's continued success and adherence to his proven formula of creating catchy, straightforward pop hits after his collaboration with Ellie Greenwich concluded. "...and Bang Shangri-Lang." ← Episode 110： ＂Be My Baby＂ by the Ronettes | https://www.youtube.com/watch?v=4BmEQRvAHAY
+**I Honestly Love You (1974)** : Co-wrote this song with Peter Allen, initially with a man in mind. Barry convinced Allen to allow Olivia Newton-John to record it, leading to a major hit. "It was written by Jeff Barry and Peter Allen with a man in mind." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
+**It's Called Rock and Roll** : An early record released by Jeff Barry during his initial attempts as a performer, before he achieved significant success as a songwriter. His performing career did not progress, but his songwriting career took off. "Barry had started out as a performer who occasionally wrote, putting out records like It's Called Rock and Roll." ← Episode 110： ＂Be My Baby＂ by the Ronettes | https://www.youtube.com/watch?v=4BmEQRvAHAY
+**Jingle Jangle** : Another example of Jeff Barry's post-Ellie Greenwich songwriting style, characterized by its focus on hooks and simplicity, following the successful formula they had developed together. "...Jingle Jangle..." ← Episode 110： ＂Be My Baby＂ by the Ronettes | https://www.youtube.com/watch?v=4BmEQRvAHAY
+**Sugar Sugar** : A song demonstrating Jeff Barry's continued songwriting formula of catchy, simple pop hits after his partnership with Ellie Greenwich ended. "Barry would continue this formula, with songs such as Sugar Sugar..." ← Episode 110： ＂Be My Baby＂ by the Ronettes | https://www.youtube.com/watch?v=4BmEQRvAHAY
+**Sugar Sugar (1969)** : Jeff Barry co-wrote this hit song for The Archies with Andy Kim. He was previously a songwriter at the Brill Building. "Kirschner had a song though that was written by Jeff Barry and Andy Kim that he was sure would be a hit." ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum ← jeff-barry
+**Teenage Sonata (for Sam Cooke)** : A song written by Jeff Barry that marked one of his first successes as a songwriter, recorded by Sam Cooke. "he'd started to have some successes as a songwriter, writing Teenage Sonata for Sam Cook." ← Episode 110： ＂Be My Baby＂ by the Ronettes | https://www.youtube.com/watch?v=4BmEQRvAHAY
+**Tell Laura I Love Her (for Ray Peterson)** : A major songwriting success for Jeff Barry, becoming an American number one hit when recorded by Ray Peterson, though it was recorded by several artists. "And Tell Laura I Love Her, which was recorded by several people, but the biggest hit version was the American number one by Ray Peterson." ← Episode 110： ＂Be My Baby＂ by the Ronettes | https://www.youtube.com/watch?v=4BmEQRvAHAY
 
+
+
+## awards
+**Rock and Roll Hall of Fame (2010)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191

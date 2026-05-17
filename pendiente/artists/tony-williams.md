@@ -1,0 +1,14 @@
+# artist - Tony Williams
+
+## member of
+- The Flamingos (original group that became The Platters)
+- The Platters
+
+## curiosities
+**Cracked Voice Incorporated into "Only You"** : During an early recording take of "Only You," Williams' voice notably cracked on the word "only." Book Ram, rather than discarding it, decided it sounded good and instructed them to keep it, making it a distinctive part of the iconic song. "On an early take, Williams' voice cracked on the word only, and he apologized to Ram who said, no, it sounded good, use it." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
+**Desire for Solo Career** : Tony Williams always harbored ambitions for a solo career. This desire eventually led him to leave The Platters in 1959 to pursue a solo album and career more vigorously, a path Book Ram had reportedly planned for him since 1956. "Tony Williams, who had always wanted a solo career, decided he wanted to pursue one more vigorously." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
+**Insistence on Recording "Only You"** : Despite Book Ram's initial dismissal of "Only You" as "rubbish," Tony Williams was captivated by the song when he saw its sheet music on Ram's piano and insisted on recording it, leading to the group's breakthrough hit. "When Tony Williams saw it, he insisted on recording it, but that initial recording seemed to confirm Ram's assessment that the song was terrible." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
+**Introduction to Ralph Bass** : Tony Williams was introduced to Ralph Bass by his sister, Linda Hayes, aspiring to be a singer himself. This introduction led to him joining The Flamingos (who later became The Platters). "Hayes introduced Ralph Bass to her brother, Tony Williams, who wanted to be a singer himself." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
+**Overdubbed Vocals on Later Platters Recordings** : Even after his departure in 1961, Mercury Records, believing Williams was crucial to The Platters' sound, would sometimes overdub his lead vocals onto completed recordings by the new lineup for a year or two. "Mercury would take completed recordings by the new platters lineup and overdub new lead vocals from Williams." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
+**Solo Career Impeded by Arrests** : Williams' initial attempts at a solo career did not go smoothly, partly hindered by the collective arrest of all four male Platters members in 1959, which created negative publicity. "his solo career didn't go wonderfully at first. He wasn't helped by all four of the male platters being arrested." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
+

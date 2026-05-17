@@ -9,12 +9,17 @@
 - Flamenco
 - Fused Material
 
-## curiosities
-**Mexico City Duo** : Rodrigo y Gabriela are a duo from Mexico City, known for their fusion of classical and flamenco music with a strong ability to "rock out." "She's one half of the duo Rodrigo E. Gabriella, the from Mexico City. ... Yes, they are primarily into classical and fused material with a big dollop of flamenco, but they can also rock out." ← https://www.youtube.com/watch?v=oLC49nCf0ZM
-**Masterful Acoustic Sound** : Rodrigo y Gabriela are praised for their incredible acoustic sound and "awesome" acoustic sounds. The female guitarist is highlighted for her unbelievable rhythm and arrangements, creating powerful, almost exclusively instrumental music. "I don't know how they get those acoustic sounds, but they're just awesome." ← https://www.youtube.com/watch?v=mjQBaX_3oL4 ← rodrigo-y-gabriela
-
 ## instruments
 - Acoustic guitar (main instrument)
 
 ## albums
-**Nine Dead Alive (2014)** : This album features the song "Soundmaker" and is cited as an example of wonderfully produced and engineered acoustic music by Chris Berkett. "Here's a sample from the 2014 album, Nine Dead Alive. This is called Soundmaker." ← https://www.youtube.com/watch?v=mjQBaX_3oL4 ← rodrigo-y-gabriela
+**Nine Dead Alive (2014)** : This album features the song "Soundmaker" and is cited as an example of wonderfully produced and engineered acoustic music by Chris Berkett. "Here's a sample from the 2014 album, Nine Dead Alive. This is called Soundmaker." ← https://www.youtube.com/watch?v=mjQBaX_3oL4 ← rodrigo-y-gabriela ← rodrigo-y-gabriela
+
+## curiosities
+**Masterful Acoustic Sound** : Rodrigo y Gabriela are praised for their incredible acoustic sound and "awesome" acoustic sounds. The female guitarist is highlighted for her unbelievable rhythm and arrangements, creating powerful, almost exclusively instrumental music. "I don't know how they get those acoustic sounds, but they're just awesome." ← https://www.youtube.com/watch?v=mjQBaX_3oL4 ← rodrigo-y-gabriela ← rodrigo-y-gabriela
+**Mexico City Duo** : Rodrigo y Gabriela are a duo from Mexico City, known for their fusion of classical and flamenco music with a strong ability to "rock out." "She's one half of the duo Rodrigo E. Gabriella, the from Mexico City. ... Yes, they are primarily into classical and fused material with a big dollop of flamenco, but they can also rock out." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← rodrigo-y-gabriela
+
+
+
+## lists
+**"11:11" (2009) — Sputnikmusic Best Albums 2009** : #90, 4.04 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2009/

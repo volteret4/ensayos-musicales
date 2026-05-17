@@ -1,0 +1,6 @@
+# genre - Hookum Song
+
+## curiosities
+**Origins and Evolution** : The hookum song is a type of music with a long history, tracing its origins through Vaudeville back to minstrel songs. Initially used for comedy performances, a significant subgenre later emerged focusing on songs about sex, often using euphemistic or sometimes very explicit language, as exemplified by songs like "Fishing Pole Blues" or "Need a Little Sugar in My Bowl." "It was originally for comedy performances more than anything else, but later a whole subjummer of them started being just songs about sex." ← Episode 2： ＂Roll Em Pete＂ by Big Joe Turner | https://www.youtube.com/watch?v=thpMb1A_fAs
+**Simple Structure** : Hookum songs adhered to a fairly straightforward formula, avoiding the complicated structures of Tin Pan Alley songs of the time. They typically featured a simple alternating pattern of a verse (with different lyrics each time) and a chorus (which remained constant). Both the verse and chorus were usually 12-bar blues, sometimes an 8-bar blues for the verse, and this simple pattern influenced rock and roll songs throughout the 1950s. "There was a simple pattern of a verse which had different lyrics every time and a chorus which was always the same and the two would alternate." ← Episode 2： ＂Roll Em Pete＂ by Big Joe Turner | https://www.youtube.com/watch?v=thpMb1A_fAs
+

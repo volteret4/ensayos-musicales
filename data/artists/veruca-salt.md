@@ -1,29 +1,30 @@
 # artist - Veruca Salt
 
 ## members
-- Louise Post (leader, songwriter, singer)
-- Nina Gordon (leader, songwriter, singer)
 - Louise Post
+- Louise Post (leader, songwriter, singer)
 - Nina Gordon
+- Nina Gordon (leader, songwriter, singer)
+
+## genres
+- Power Pop
 
 ## labels
 - Geffen
 - Minty Fresh
 
 ## albums
-**American Thighs (1994)** : This debut record was released in the fall of 1994. Its title is directly derived from a lyric found in the AC/DC song "Shook Me All Night Long." "In the fall of 1994, they released their debut record. It was called American Thighs." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Ghost Notes (2015)** : The comeback record by Veruca Salt, released on July 10, 2015. This album holds significance as it was released on the very first "New Music Friday," the coordinated global release day adopted by 45 countries. "This album was released on the first new music Friday, July 10, 2015." ← https://www.youtube.com/watch?v=GlcOoINI7EQ ← veruca-salt
+**American Thighs (1994)** : This debut record was released in the fall of 1994. Its title is directly derived from a lyric found in the AC/DC song "Shook Me All Night Long." "In the fall of 1994, they released their debut record. It was called American Thighs." ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← veruca-salt
+**Ghost Notes (2015)** : The comeback record by Veruca Salt, released on July 10, 2015. This album holds significance as it was released on the very first "New Music Friday," the coordinated global release day adopted by 45 countries. "This album was released on the first new music Friday, July 10, 2015." ← https://www.youtube.com/watch?v=GlcOoINI7EQ ← veruca-salt ← veruca-salt
 
 ## songs
-**Seether (1994)** : The lead single from the album "American Thighs," this song was originally a Minty Fresh release written by Nina Gordon. It gained significant traction after being picked up by MTV, which propelled its popularity. "The lead single was a version of the Minty Fresh song written by Nina Gordon. And when MTV picked it up, bam!" ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Laughing in the Sugar Bowl (2015)** : A song by Veruca Salt from their 2015 album "Ghost Notes," which was released on the inaugural "New Music Friday" of July 10, 2015. "The comeback record by Varukasal called Ghost Notes and this is Laughing in the Sugar Bowl." ← https://www.youtube.com/watch?v=GlcOoINI7EQ ← veruca-salt
+**Laughing in the Sugar Bowl (2015)** : A song by Veruca Salt from their 2015 album "Ghost Notes," which was released on the inaugural "New Music Friday" of July 10, 2015. "The comeback record by Varukasal called Ghost Notes and this is Laughing in the Sugar Bowl." ← https://www.youtube.com/watch?v=GlcOoINI7EQ ← veruca-salt ← veruca-salt
+**Seether (1994)** : The lead single from the album "American Thighs," this song was originally a Minty Fresh release written by Nina Gordon. It gained significant traction after being picked up by MTV, which propelled its popularity. "The lead single was a version of the Minty Fresh song written by Nina Gordon. And when MTV picked it up, bam!" ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← veruca-salt
 
 ## curiosities
-**Band Name Homage** : The band The Dude from South Africa is named after Veruca Salt's song "Seether." "the dude band from South Africa, named after that song." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Nirvana and Pearl Jam Influence** : Like many bands of the era, Veruca Salt drew inspiration from the success of grunge giants such as Pearl Jam and Nirvana to begin creating their own music. "Like so many bands, they were inspired by the success of bands like Pearl Jam and Nirvana to start making their own music." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Non-Collaborative Songwriting** : The band's leadership, Nina Gordon and Louise Post, managed songwriting in a unique, non-collaborative manner where the person who wrote a song was also the one who performed the lead vocals for it. "They handled all the songwriting, but not really in a collaborative way. The deal was, whoever wrote the song got to sing it." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Rapid Rise to Major Label** : After performing only a couple of shows, Veruca Salt quickly gained attention, first being approached by the indie label Minty Fresh for a single. This single's success led to them opening a tour for Hole, who were signed to Geffen, ultimately resulting in Veruca Salt signing with Geffen as well. "After just a couple of shows, they were approached by an indie label called Minty Fresh." ← https://www.youtube.com/watch?v=Eo32mAZd8DI
-**Great American Power Pop Band** : Veruca Salt, bookended by Nina Gordon and Louise Post, is recognized as one of the great American power pop bands of the mid-1990s. "Veruchas Salt, bookended by Nina Gordon and Louise Post. They were one of the great American power pop bands of the middle 1990s." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← veruca-salt
+**Band Name Homage** : The band The Dude from South Africa is named after Veruca Salt's song "Seether." "the dude band from South Africa, named after that song." ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← veruca-salt
+**Great American Power Pop Band** : Veruca Salt, bookended by Nina Gordon and Louise Post, is recognized as one of the great American power pop bands of the mid-1990s. "Veruchas Salt, bookended by Nina Gordon and Louise Post. They were one of the great American power pop bands of the middle 1990s." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← veruca-salt ← veruca-salt
+**Nirvana and Pearl Jam Influence** : Like many bands of the era, Veruca Salt drew inspiration from the success of grunge giants such as Pearl Jam and Nirvana to begin creating their own music. "Like so many bands, they were inspired by the success of bands like Pearl Jam and Nirvana to start making their own music." ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← veruca-salt
+**Non-Collaborative Songwriting** : The band's leadership, Nina Gordon and Louise Post, managed songwriting in a unique, non-collaborative manner where the person who wrote a song was also the one who performed the lead vocals for it. "They handled all the songwriting, but not really in a collaborative way. The deal was, whoever wrote the song got to sing it." ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← veruca-salt
+**Rapid Rise to Major Label** : After performing only a couple of shows, Veruca Salt quickly gained attention, first being approached by the indie label Minty Fresh for a single. This single's success led to them opening a tour for Hole, who were signed to Geffen, ultimately resulting in Veruca Salt signing with Geffen as well. "After just a couple of shows, they were approached by an indie label called Minty Fresh." ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← veruca-salt
 
-## genres
-- Power Pop

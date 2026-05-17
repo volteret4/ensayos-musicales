@@ -7,7 +7,7 @@
 
 
 ## awards
-**Academy Award for Best Original Song (2016) — Earned It** : Nominated.
+**Academy Award for Best Original Song (2016) — Earned It** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q112243
 
 ## lists
-**"Star" (1993) — Scaruffi 1990s** : #455, 7.0/10 Scaruffi.
+**"Star" (1993) — Scaruffi 1990s** : #455, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

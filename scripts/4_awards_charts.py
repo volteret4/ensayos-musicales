@@ -27,11 +27,34 @@ import sqlite3
 import argparse
 import requests
 
-ARTISTS_FOLDER = './data/artists'
-CHARTS_DB      = './db/charts.db'
-SPARQL_URL       = "https://query.wikidata.org/sparql"
-SEARCH_URL       = "https://www.wikidata.org/w/api.php"
-HEADERS          = {"User-Agent": "EnsayosMusicales/1.0 (ensayos@musicales.org)"}
+ARTISTS_FOLDER  = './data/artists'
+CHARTS_DB       = './db/charts.db'
+MUST_HEAR_DB    = './db/must_hear_rym_new.db'
+SPARQL_URL      = "https://query.wikidata.org/sparql"
+SEARCH_URL      = "https://www.wikidata.org/w/api.php"
+HEADERS         = {"User-Agent": "EnsayosMusicales/1.0 (ensayos@musicales.org)"}
+
+# Chart name → Wikipedia article URL (case-insensitive partial match)
+CHART_WIKI_URLS = {
+    "billboard year-end hot 100":    "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of",
+    "billboard hot 100":             "https://en.wikipedia.org/wiki/Billboard_Hot_100",
+    "billboard 200":                 "https://en.wikipedia.org/wiki/Billboard_200",
+    "us billboard hot 100":          "https://en.wikipedia.org/wiki/Billboard_Hot_100",
+    "us billboard 200":              "https://en.wikipedia.org/wiki/Billboard_200",
+    "uk singles chart":              "https://en.wikipedia.org/wiki/UK_Singles_Chart",
+    "uk albums chart":               "https://en.wikipedia.org/wiki/UK_Albums_Chart",
+    "uk best selling singles":       "https://en.wikipedia.org/wiki/UK_Singles_Chart",
+    "uk indie":                      "https://en.wikipedia.org/wiki/UK_Indie_Chart",
+    "nme chart":                     "https://en.wikipedia.org/wiki/NME",
+    "us hot country":                "https://en.wikipedia.org/wiki/Hot_Country_Songs",
+    "us hot r&b":                    "https://en.wikipedia.org/wiki/Hot_R%26B/Hip-Hop_Songs",
+    "spain singles":                 "https://en.wikipedia.org/wiki/Promusicae",
+    "spain radio":                   "https://en.wikipedia.org/wiki/Promusicae",
+    "spain streaming":               "https://en.wikipedia.org/wiki/Promusicae",
+}
+
+# Loaded from must_hear_rym_new.db at startup: {list_name: source_url}
+_collection_urls: dict = {}
 
 # Wikidata chart properties — usadas solo si no existe charts.db
 CHART_PROPS = {
@@ -45,6 +68,30 @@ CHART_PROPS = {
 }
 
 _last_request = 0.0
+
+
+def load_collection_urls(db_path):
+    """Populate _collection_urls from must_hear_rym_new.db collections table."""
+    global _collection_urls
+    if not db_path or not os.path.exists(db_path):
+        return
+    try:
+        conn = sqlite3.connect(db_path)
+        for name, url in conn.execute(
+            "SELECT name, source_url FROM collections WHERE source_url IS NOT NULL AND source_url != ''"
+        ):
+            _collection_urls[name] = url
+        conn.close()
+    except Exception:
+        pass
+
+
+def _chart_wiki_url(chart_name):
+    cl = chart_name.lower()
+    for key, url in CHART_WIKI_URLS.items():
+        if key in cl or cl in key:
+            return url
+    return ''
 
 
 # ── Utilidades ────────────────────────────────────────────────────────────────
@@ -125,7 +172,7 @@ def search_qid(name):
 
 def get_awards(qid):
     query = f"""
-SELECT DISTINCT ?awardType ?awardLabel ?year ?workLabel WHERE {{
+SELECT DISTINCT ?award ?awardType ?awardLabel ?year ?workLabel WHERE {{
   {{
     wd:{qid} p:P166 ?stmt .
     ?stmt ps:P166 ?award .
@@ -149,15 +196,21 @@ ORDER BY ?year ?awardType
         label = row.get("awardLabel", {}).get("value", "")
         if not label or re.match(r'^Q\d+$', label):
             continue
-        atype = row.get("awardType", {}).get("value", "")
-        year  = row.get("year",      {}).get("value", "")
-        work  = row.get("workLabel", {}).get("value", "")
+        atype     = row.get("awardType", {}).get("value", "")
+        year      = row.get("year",      {}).get("value", "")
+        work      = row.get("workLabel", {}).get("value", "")
+        award_uri = row.get("award",     {}).get("value", "")
         if re.match(r'^Q\d+$', work):
             work = ""
+        award_url = ""
+        if award_uri:
+            qid_part  = award_uri.rsplit("/", 1)[-1]
+            award_url = f"https://www.wikidata.org/wiki/{qid_part}"
         key = (label, year, work, atype)
         if key not in seen:
             seen.add(key)
-            awards.append({"type": atype, "award": label, "year": year, "work": work})
+            awards.append({"type": atype, "award": label, "year": year,
+                           "work": work, "award_url": award_url})
     return awards
 
 
@@ -271,7 +324,9 @@ def format_award(a):
     if a["work"]:
         title += f" — {a['work']}"
     status = "Won" if a["type"] == "won" else "Nominated"
-    return f"**{title}** : {status}."
+    url = a.get("award_url", "")
+    src = f" ← Wikidata | {url}" if url else ""
+    return f"**{title}** : {status}.{src}"
 
 
 def format_chart_entry(e):
@@ -290,7 +345,9 @@ def format_chart_entry(e):
         parts.append(f"{semanas} semanas")
 
     detail = ", ".join(parts) if parts else "entrada"
-    return f"**\"{titulo}\" — {chart}** : {detail}."
+    url = _chart_wiki_url(chart)
+    src = f" ← Wikipedia | {url}" if url else ""
+    return f"**\"{titulo}\" — {chart}** : {detail}.{src}"
 
 
 def format_list_entry(e):
@@ -312,7 +369,10 @@ def format_list_entry(e):
 
     year_str = f" ({year})" if year else ""
     rank_str = f"#{rank}" if rank else "listed"
-    return f"**\"{album}\"{year_str} — {list_name}** : {rank_str}{score_str}."
+    url      = _collection_urls.get(list_name, "")
+    src_name = e.get("source", list_name)
+    src      = f" ← {src_name} | {url}" if url else ""
+    return f"**\"{album}\"{year_str} — {list_name}** : {rank_str}{score_str}.{src}"
 
 
 # ── Reconstrucción del markdown ───────────────────────────────────────────────
@@ -460,8 +520,10 @@ def main():
     parser.add_argument('--folder',    default=ARTISTS_FOLDER,
                         help=f'Carpeta de artistas (default: {ARTISTS_FOLDER})')
     parser.add_argument('--file',      help='Procesar un único .md')
-    parser.add_argument('--charts-db', default=CHARTS_DB,
+    parser.add_argument('--charts-db',    default=CHARTS_DB,
                         help=f'Ruta a charts.db (default: {CHARTS_DB})')
+    parser.add_argument('--must-hear-db', default=MUST_HEAR_DB,
+                        help=f'Ruta a must_hear_rym_new.db para URLs de listas (default: {MUST_HEAR_DB})')
     parser.add_argument('--force',     action='store_true',
                         help='Reemplazar secciones existentes')
     parser.add_argument('--dry-run',   action='store_true',
@@ -476,6 +538,8 @@ def main():
         print(f"⚠  charts.db no encontrada en {args.charts_db}")
         print("   Ejecuta primero: python3 scripts/build_charts_db.py")
         print("   Sin ella los charts/listas se omiten y los premios van por Wikidata.\n")
+
+    load_collection_urls(args.must_hear_db)
 
     kwargs = dict(
         force=args.force, dry_run=args.dry_run,

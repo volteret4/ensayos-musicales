@@ -1,5 +1,5 @@
-# label - Rolling Stone magazine
+# label - Rolling Stone (magazine)
 
 ## curiosities
-**Early "Punk" Usage Publication** : Rolling Stone magazine published Lester Banks' review of an MC5 album on April 6, 1969. This review contained a significant early use of the word "punks" in a musical context, with Banks describing "a bunch of 16-year-old punks on a meth power trip," marking a key moment in the term's association with rock music. "In a review of an album by a Detroit group called the MC5, published in Rolling Stone magazine on April the 6th of 1969, he managed to use this phrase. A bunch of 16-year-old punks on a meth power trip." ← Ongoing History of New Music > Etymology： Part 1 | https://www.youtube.com/watch?v=Z8BTWo66SDI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**500 Greatest Albums List** : Rolling Stone magazine compiled a list of the 500 greatest albums in history, on which *Sgt. Pepper's Lonely Hearts Club Band* by The Beatles was ranked as number one. This list is cited as one of the top rankings for best albums ever. "está de número uno en la lista de los 500 mejores discos de la historia de los Rolling Stones." ← Music Radar Clan > Así se grabó el Sgt. Pepper's | https://www.youtube.com/watch?v=cDrTT4b-2gQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 

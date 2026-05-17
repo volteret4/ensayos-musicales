@@ -1,28 +1,18 @@
-# artist - Guns n' Roses
+# artist - Guns N' Roses
 
 ## members
 - Axl Rose
-- Duff McKagan
 - Dave Navarro
+- Duff McKagan
 - Izzy Stradlin
 - Matt Sorum
 - Slash
 
-## instruments
-- Fender Precision Bass
-- Gibson Les Paul
-
-## songs
-**Don't Cry** : Shannon Hoon of Blind Melon sang backup vocals on "Don't Cry" and appeared in its music video. "He actually sang backup vocals on a couple of gunner songs and can be seen in the video for Don't Cry." ← https://www.youtube.com/watch?v=ZhzjZixCcK8
-**Don't Cry (1991)** : In the music video for this song, Axl Rose was seen wearing a Nirvana hat, indicating his appreciation for the band despite the later feud. "In fact, if you go back to the band's Don't Cry video, Axel is wearing a Nirvana hat." ← Ongoing History of New Music > Modern Rock Feuds | https://www.youtube.com/watch?v=zUr9sjWgUcw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Estranged** : This nine-minute song from the *Use Your Illusion II* album had a music video that cost an estimated $5 million to produce. The high-budget video helped boost the album's sales to around 10 million copies. "Guns in Roses spent $5 million on estranged, a nine-minute song from the Usure Illusion 2 album, which helped that record sell around 10 million copies." ← Ongoing History of New Music > The Rise and Fall and Future of the Music Video - Part 2 | https://www.youtube.com/watch?v=7IDbqdIw3WU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Nightrain (Drinking Song Survey)** : Ranked second in a sub-survey of popular drinking songs. The song's title is explicitly noted as a brand of very cheap wine. "It's followed by guns and roses, night train, which in case you did not know is a brand of very cheap wine." ← Ongoing History of New Music > Survey Says： Useful and Odd Music Surveys and Polls | https://www.youtube.com/watch?v=KtdIMNoHqA8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Sweet Child o' Mine (Guitar Riff Surveys)** : Consistently ranked highly across multiple guitar riff surveys. It took the top spot in both the Sky Arts survey and a 2022 UK commissioned survey. "and at the top spot, sweet child of mine from guns and roses." ← Ongoing History of New Music > Survey Says： Useful and Odd Music Surveys and Polls | https://www.youtube.com/watch?v=KtdIMNoHqA8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Used to Love Her (but I Had to Kill Her) (Year not given)** : Justin Barber listened to this song for half an hour on August 17, 2002, before he murdered his wife in an attempt to collect on an insurance policy. The same song also contributed to the death of Thomas Wilhelm's live-in girlfriend, whom he shot after listening to the track on repeat while drunk. "Another thing they uncovered is that he listened to guns and roses, specifically the song used to love her, but I had to kill her. And he listened to this song for half an hour before he set after his wife." ← Ongoing History of New Music > Murder Ballads (and Other Deadly Songs) | https://www.youtube.com/watch?v=FtGJHhqXcDI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Welcome to the Jungle** : This song was part of the playlist used by the US Army during Operation Just Cause in December 1989. It was pumped at full volume for 24 hours a day around the Vatican Embassy in Panama City to compel Manuel Noriega to surrender. "There was also plenty of welcome to the jungle from guns and roses." ← Ongoing History of New Music > Using Music as a Weapon | https://www.youtube.com/watch?v=R1wdsGt07Gg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-
 ## genres
 - Rock
+
+## labels
+- Geffen Records (implied via David Geffen)
 
 ## concerts
 - Donington
@@ -36,9 +26,21 @@
 - San Francisco 1992 (ahead of Oakland show)
 - Use Your Illusion Tour
 
+## instruments
+- Fender Precision Bass
+- Gibson Les Paul
+
 ## albums
 **The General (1999) - Unreleased Album** : Guns N' Roses was scheduled to release this album in 1999, but it never materialized. "Guns and roses? Well, they were supposed to release the general in 1999 and you get the idea." ← Ongoing History of New Music > Great Lost Albums | https://www.youtube.com/watch?v=_lSbUUfBNNI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Use Your Illusion II** : This album featured the nine-minute song "Estranged," which was supported by an elaborate and expensive music video costing $5 million. The video's promotion helped the *Use Your Illusion II* album sell approximately 10 million copies. "Guns in Roses spent $5 million on estranged, a nine-minute song from the Usure Illusion 2 album, which helped that record sell around 10 million copies." ← Ongoing History of New Music > The Rise and Fall and Future of the Music Video - Part 2 | https://www.youtube.com/watch?v=7IDbqdIw3WU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+
+## songs
+**Don't Cry (1991)** : In the music video for this song, Axl Rose was seen wearing a Nirvana hat, indicating his appreciation for the band despite the later feud. "In fact, if you go back to the band's Don't Cry video, Axel is wearing a Nirvana hat." ← Ongoing History of New Music > Modern Rock Feuds | https://www.youtube.com/watch?v=zUr9sjWgUcw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Estranged** : This nine-minute song from the *Use Your Illusion II* album had a music video that cost an estimated $5 million to produce. The high-budget video helped boost the album's sales to around 10 million copies. "Guns in Roses spent $5 million on estranged, a nine-minute song from the Usure Illusion 2 album, which helped that record sell around 10 million copies." ← Ongoing History of New Music > The Rise and Fall and Future of the Music Video - Part 2 | https://www.youtube.com/watch?v=7IDbqdIw3WU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Nightrain (Drinking Song Survey)** : Ranked second in a sub-survey of popular drinking songs. The song's title is explicitly noted as a brand of very cheap wine. "It's followed by guns and roses, night train, which in case you did not know is a brand of very cheap wine." ← Ongoing History of New Music > Survey Says： Useful and Odd Music Surveys and Polls | https://www.youtube.com/watch?v=KtdIMNoHqA8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Sweet Child o' Mine (Guitar Riff Surveys)** : Consistently ranked highly across multiple guitar riff surveys. It took the top spot in both the Sky Arts survey and a 2022 UK commissioned survey. "and at the top spot, sweet child of mine from guns and roses." ← Ongoing History of New Music > Survey Says： Useful and Odd Music Surveys and Polls | https://www.youtube.com/watch?v=KtdIMNoHqA8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Used to Love Her (but I Had to Kill Her) (Year not given)** : Justin Barber listened to this song for half an hour on August 17, 2002, before he murdered his wife in an attempt to collect on an insurance policy. The same song also contributed to the death of Thomas Wilhelm's live-in girlfriend, whom he shot after listening to the track on repeat while drunk. "Another thing they uncovered is that he listened to guns and roses, specifically the song used to love her, but I had to kill her. And he listened to this song for half an hour before he set after his wife." ← Ongoing History of New Music > Murder Ballads (and Other Deadly Songs) | https://www.youtube.com/watch?v=FtGJHhqXcDI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Welcome to the Jungle** : This song was part of the playlist used by the US Army during Operation Just Cause in December 1989. It was pumped at full volume for 24 hours a day around the Vatican Embassy in Panama City to compel Manuel Noriega to surrender. "There was also plenty of welcome to the jungle from guns and roses." ← Ongoing History of New Music > Using Music as a Weapon | https://www.youtube.com/watch?v=R1wdsGt07Gg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## curiosities
 **1992 MTV Music Video Awards Altercation** : A backstage confrontation occurred at the 1992 MTV Music Video Awards between Axl Rose, Kurt Cobain, and Courtney Love, where Axl reportedly told Kurt to "keep his woman in line." Separately, Guns N' Roses bassist Duff McKagan and Nirvana bassist Chris Novoselic were also involved in a verbal dispute. "This boiled over to an altercation backstage at the 1992 MTV Music Video Awards between Axel, Kurt and Courtney Love." ← Ongoing History of New Music > Modern Rock Feuds | https://www.youtube.com/watch?v=zUr9sjWgUcw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -48,6 +50,7 @@
 **Biggest Rock Comeback of the 2010s** : Guns N' Roses, with 60% of their original lineup, reunited for the "Not in This Lifetime... Tour" between 2016 and 2019. This tour grossed nearly $600 million US dollars over 158 shows, making it the fourth-most profitable tour of all time to that point and the biggest rock comeback of the decade. "Even 60% of guns and roses reunited against all odds for the not-in-this-life-type tour, which grossed nearly $600 million US dollars over a hundred and fifty-eight shows played between 2016 and 2019, making it the fourth-most profitable tour of all time to that point." "That was easily the biggest rock come back at the decade." ← Ongoing History of New Music > The History of the 2010s Part 4： The Revivals | https://www.youtube.com/watch?v=HSvgRyGiOpE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Covered Songs from *Raw Power*** : Guns N' Roses have covered songs from The Stooges' album *Raw Power*. "And songs from the album have been covered by the Red Hot Chili Peppers, Guns and Roses, and Death Leopard." ← Ongoing History of New Music > What's The Big Deal About The Stooges？ | https://www.youtube.com/watch?v=w-rihv544I8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Dave Navarro's Declined Offer** : Guns N' Roses offered Dave Navarro the opportunity to replace guitarist Izzy Stradlin, but Navarro chose to decline the offer, opting to pursue other musical endeavors instead. "For example, Guns n' Roses had called, asking him if he'd take the place of Izzy Strattlin, but for whatever reason Dave blew that one off." ← Ongoing History of New Music > You're Fired! | https://www.youtube.com/watch?v=pAOFzQZPjSM&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Discovery at The Troubadour** : In the 1980s, The Troubadour shifted its main genre to heavy metal, and it was there that David Geffen discovered Guns N' Roses. "In fact, David Geffen discovered guns and roses there." ← For the Record - The 70s > Ep. 41 - The Impact of The Troubadour on 1970s Popular Culture | https://seventies.libsyn.com/ep-41-the-impact-of-the-troubadour-on-1970s-popular-culture
 **Donington Crowd Collapse (August 28, 1988)** : During Guns N' Roses' performance at a major outdoor rock show at a racetrack in Donington, England, on August 28, 1988, a crowd collapse occurred. Two men became trapped at the bottom of the pile, pushed so deeply into the mud that their deceased bodies had to be excavated. "During the gunner set, there was a crowd-collapse situation." ← Ongoing History of New Music > Rock's Greatest Disasters | https://www.youtube.com/watch?v=Pgchw2h87aw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Donington Park Crowd Collapse (1988)** : During Guns N' Roses' set at a large outdoor show at Donington Park racetrack in England on August 28, 1988, a crowd collapse occurred. Two men died after being pulled from the pile, having been found face down in four inches of mud and requiring excavation. They were pronounced dead upon arrival at the hospital. "two bodies were pulled from a crowd collapse situation." ← Ongoing History of New Music > Fans and Fatalities | https://www.youtube.com/watch?v=7v1REnqKuXE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Duff McKagan Pancreas Explosion (1994) – Near-Fatal Alcohol and Cocaine Abuse** : Bassist Duff McKagan suffered what was described as a "explosion" of his pancreas in 1994 as a result of severe alcohol and cocaine abuse, causing third-degree internal burns and nearly killing him. The incident led to his complete sobriety, which he has maintained ever since. "Experienced an 'explosion' of his pancreas due to alcohol and cocaine abuse, causing third-degree internal burns and nearly killing him." ← Ongoing History of New Music > 100 Weirdest Things in Alt-Rock： Part 5 | https://www.youtube.com/watch?v=RKvFJMkZdBE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -62,6 +65,7 @@
 **Post-Overdose Heart Disease** : About a decade after his 1992 overdose and cardiac arrest, Slash was diagnosed with heart disease. He subsequently received a pacemaker in 2004 to manage his condition. "About a decade later though, he was diagnosed with heart disease and ended up with a pacemaker in 2004." ← Ongoing History of New Music > People Who (Almost) Died | https://www.youtube.com/watch?v=7rXwaxlEkbQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Public Insults from Kurt Cobain** : Kurt Cobain publicly characterized Axl Rose as "a sexist and a racist and a homophobic" in a late 1992 interview, stating that fans could not support both bands simultaneously and also criticized Guns N' Roses' songwriting. "Axel is a sexist and a racist and a homophobic. And you can't be on his side and be on our side." ← Ongoing History of New Music > Modern Rock Feuds | https://www.youtube.com/watch?v=zUr9sjWgUcw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Reconciliation with Duff McKagan Before Kurt Cobain's Death** : Days before his death, Kurt Cobain had a friendly chat with Duff McKagan on a Delta flight to Seattle, with McKagan offering him a ride from the airport. "Duff even offered Kurt a ride home from the airport, but before he had a chance to get in the car, Kurt vanished." ← Ongoing History of New Music > Modern Rock Feuds | https://www.youtube.com/watch?v=zUr9sjWgUcw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Reunion Tour Success (2016)** : Guns N' Roses ranked eleventh on the Forbes list, their high earnings largely attributed to a massive and highly successful reunion tour. "gracias a esta enorme gira que ha vuelto la banda que ha tenido un montón de éxito." ← Music Radar Clan > Los artistas que más dinero han ganado este año y por qué. | https://www.youtube.com/watch?v=jjsb0qCeXNI&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Reunion for Touring** : Guns N' Roses was one of many bands from past decades that reunited in the 21st century, a trend largely motivated by financial incentives. With declining CD sales impacting artist revenues, returning to the touring circuit offered a lucrative way to appeal to nostalgic fan bases and fill large venues. "The list of reunions is long." ← Ongoing History of New Music > The 100 Greatest Rock Moments of the Millennium So Far - Part 1： (100-91) | https://www.youtube.com/watch?v=GYUuTbOvyak&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Tattoo Glorification in Hair Metal** : Guns N' Roses is mentioned as a band that sang about tattoos and glorified them, fitting into the visual shock and appeal of the 80s hair metal era which included emphasis on hair, makeup, spandex, and distinctive footwear. "Guns and roses saying about tattoos. Molly crew is saying about getting tattooed. So in the 80s, bands like Molly crew, Guns and roses, LA guns, they glorify tattoos. Right up front." ← Ongoing History of New Music > Rock'n'Roll Tattoos | https://www.youtube.com/watch?v=jZeMmPekKMQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Top-Grossing Tours** : Guns N' Roses are cited as one of the legacy acts, with members typically aged 45 and above, that account for a significant portion of all-time top-grossing tours. Their continued success in filling arenas is attributed to the powerful pull of nostalgia, as fans are eager to relive their youth by attending their concerts. ← Ongoing History of New Music > What A Drag It Is Getting Old (Musically) | https://www.youtube.com/watch?v=m7MbV-eCLyE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -70,3 +74,26 @@
 **Velvet Revolver's Core (2004)** : Velvet Revolver was described as "basically Guns and Roses with Scott Wyland and some other guy," highlighting the strong influence and presence of the former Guns N' Roses members in the supergroup's lineup. "It was basically guns and roses with Scott Wyland and some other guy." ← Ongoing History of New Music > Scott Weiland： Part 3 | https://www.youtube.com/watch?v=WfTq9d2YadY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Video Appearance** : Slash, Duff McKagan, and Matt Sorum from Guns N' Roses and Velvet Revolver made an appearance in The Strokes' music video for their song "Someday," the third single from their debut album "Is This It." "They even had Slash, Duff McKagan and Matt Soren from Guns and Roses and Velvet Revolver appear in their video." ← Ongoing History of New Music > The Strokes | https://www.youtube.com/watch?v=jEfofyobGiI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Vintage Pinball Machine Collector** : Slash has a keen interest in vintage pinball games and actively collects them. "Slash of Guns n' Roses really likes his vintage pinball games. He collects them." ← Ongoing History of New Music > Hobbies of Musicians | https://www.youtube.com/watch?v=xc85sLj0Cnk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+
+
+
+## awards
+**World Music Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q375990
+**MTV Video Music Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q223703
+**American Music Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q207601
+**Rock and Roll Hall of Fame (2012)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
+
+## charts
+**"Sweet Child o' Mine" — Billboard Year-End Hot 100** : #5, 1988. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Patience" — Billboard Year-End Hot 100** : #71, 1989. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Welcome to the Jungle" — Billboard Year-End Hot 100** : #74, 1989. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Paradise City" — Billboard Year-End Hot 100** : #86, 1989. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"November Rain" — Billboard Year-End Hot 100** : #17, 1992. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**""Live and Let Die" ‡" — UK Singles Chart** : #3, 1992. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+
+## lists
+**"Appetite for Destruction" (1987) — 1001 Albums You Must Hear Before You Die** : #598.
+**"Appetite for Destruction" (1987) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #62. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
+**"Appetite for Destruction" (1987) — Scaruffi 1980s** : #59. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Use Your Illusion I&II" (1991) — Scaruffi 1990s** : #742, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Appetite for Destruction" (1987) — Pitchfork: The 200 Best Albums of the 1980s** : #86. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63

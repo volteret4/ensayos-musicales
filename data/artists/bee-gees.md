@@ -1,87 +1,108 @@
 # artist - Bee Gees
 
 ## members
-- Robin Gibb
 - Barry Gibb
 - Mary Gibb (potential transcription error for Maurice/Barry/Robin Gibb)
 - Maurice Gibb
-
-## concerts
-- Time Square
-- Oakland (1979)
-
-## albums
-**Living Eyes (1981) - First Album Transferred to CD for Demonstration** : The Bee Gees' album "Living Eyes" was the first album to be transferred to Compact Disc for demonstration purposes in 1981. It was utilized on television and radio broadcasts as a method of introducing the new CD format to the world. "In 1981 their album Living Eyes was used on TV and radio as a way of introducing the world to Compact Discs." ← https://www.youtube.com/watch?v=gP3oQeYEvso
-**Living Eyes (Year not specified)** : The Bee Gees' album *Living Eyes* was the first compact disc to receive a public demonstration. This event took place on the BBC show *Tomorrow's World*, showcasing the new digital format to a broad audience. "The first CD to receive a public demonstration was living eyes by the Bee Gees on a BBC show called Tomorrow's World." ← https://www.youtube.com/watch?v=ak6OuOUkRrQ ← bee-gees
-**Main Course (1975)** : This album marked the beginning of a disco influence in the band's music, preceding their major success with the "Saturday Night Fever" soundtrack. Its first single, "Jive Talkin'," went to number one and effectively revived the band's career. "Before that soundtrack, we already start to hear the disco influence in the album main course." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm
-**Odessa (1969)** : This was the band's sixth album, released in March 1969, but it was not well received at the time. The remastered version of the album includes the song "Got to Get a Message to You," which was recorded around the same period, though it was not on the original release. "which was their sixth and just not well received at all." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm
-
-## songs
-**Living Eyes (Public CD Debut)** : This song was the first from a compact disc to be played publicly, showcased on the BBC show "Tomorrow's World" in 1981 during the first public demonstration of the technology. "Here then, for you, is the latest single from the Bee Gees. You hear that music? That's the Bee Gees and live in eyes, the first song from a CD to be played publicly." ← https://www.youtube.com/watch?v=BHkJFA0LMro
-**To Love Somebody (1967)** : This song was a hit for the Bee Gees in 1967 and was later covered by Billy Corgan on his 2005 solo album, The Future Embrace. "It's a cover of a 1967 Bee Gees hit called The Love Somebody." ← https://www.youtube.com/watch?v=-f9jhqAHkQo
-**Got to Get a Message to You (Late 1960s)** : This song was recorded around the same time as their album "Odessa" (1969). It is included on the remastered version of "Odessa" but was not part of the original album release. "They also recorded, got to get a message to you at the same time, and it is on the remastered version of the album but not the original." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm
-**Jive Talkin' (1975)** : This was the first single from the album "Main Course" and went to number one on the charts. It marked the band's first number one hit since "How Can You Mend a Broken Heart" and is credited with reviving their career, showcasing the nascent disco influence in their music. "Job talking, it's their first number one hit since how can you mend a broken heart?" ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm
-**Lemons Never Forget (1969)** : The Bee Gees performed this song on an episode of "Laugh-In" in 1969. The song is notable for not being included on their "Odessa" album, and their performance on the show was not live; it served as the soundtrack to a video featuring the Brothers Gibb painting. "they performed the song Lemons Never Forget on Laughin, which is not even on Odessa, and they didn't perform it live." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm
-**Stayin' Alive (1977)** : Featured as the first cut on the "Saturday Night Fever" soundtrack, this disco hit was a highlight of the Bee Gees' 1979 concert special. When the band broke into this song during their Oakland concert, the crowd's reaction was described as overwhelming excitement. "Of course, that's the first cut on the Saturday Night Fever soundtrack." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm
-**Tragedy (1979)** : This song was one of the opening numbers at the Bee Gees' concert in Oakland in 1979, footage from which was featured in their NBC special. "The show opens with tragedy or at least is one of the first two songs." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm
-
-## curiosities
-**Manchester Origin** : The Bee Gees are listed as one of many significant musical artists to have originated from Manchester. "bands from, you know, from the Bee Gees." ← https://www.youtube.com/watch?v=q_Scyr2czh8
-**Manchester Origins** : The Bee Gees are noted as one of the many significant bands with origins in Manchester, highlighting the city's diverse musical legacy across different eras. "bands from, you know, from the Bee Gees." ← https://www.youtube.com/watch?v=KF_adyXf86Q
-**Member's Soundtrack Contribution (1980)** : Robin Gibb, a member of the Bee Gees, was included on the soundtrack for the 1980 movie *Time Square*. His involvement stemmed from his role as a producer of the film, which otherwise predominantly featured nascent alternative music. "Yeah, Robin Gibb of the Bee Gees. But you know, he was one of the producers of the film." ← https://www.youtube.com/watch?v=zIkjd1OjCXM
-**Radio Avoidance Comparison** : The Bee Gees were used as a comparison point to illustrate the extreme reluctance of American rock radio to play punk bands like the Ramones, highlighting how mainstream the Bee Gees were perceived to be. "Back then, rock radio stations would not play a Ramones record any more than they would play a Bee Gees record." ← https://www.youtube.com/watch?v=bYsV3ozbk4M
-**Disco Ubiquity** : At one point in the late 1970s, the Bee Gees had five songs simultaneously in the top ten on the charts, contributing to the widespread and "annoyingly ubiquitous" presence of Barry Gibb's falsetto in disco music. Their dominance was cited as an example of the disco craze becoming "too much." "At one point, the Bee Gees had five songs in the top ten on the charts, making Barry Gibbs falsetto annoyingly ubiquitous." ← https://www.youtube.com/watch?v=0FYq5MBdHw4 ← bee-gees
-**Early Television Appearances (1969-1970s)** : Despite their later iconic status in the 70s, the Bee Gees had relatively few TV appearances during the decade. They were featured on an episode of Season One of "Laugh-In" in 1969 and also made appearances on "The Tonight Show with Johnny Carson" and twice on "The Midnight Special." "their TV appearances were few and far between." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm
-**HBO Documentary: How Can You Mend a Broken Heart (2020)** : HBO released a new documentary titled "The Bee Gees, How Can You Mend a Broken Heart," directed by Frank Marshall. The film chronicles the highs and lows of brothers Barry, Maurice, and Robin Gibb, exploring the evolution of their prolific career, their navigation of the ever-changing music industry, and the complex dynamics of family and fame through interviews and never-before-seen footage. "HBO's new documentary The Bee Gees, how can you mend a broken heart? Chronicles the highs and lows of brothers Barry, Morris and Robin Gibb in the evolution of their prolific career as The Bee Gees." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm
-**NBC 90-Minute Concert Special (1979)** : The Bee Gees concluded the 1970s not with a variety show, but with their own 90-minute concert special aired on Primetime NBC on November 21, 1979. This special, featuring footage from their "Spirits Having Flown" tour concert in Oakland that summer, represented a bridge between traditional variety shows and the emerging music video era. "they closed out the 70s, not with a variety show, but their own 90 minute concert special on Primetime, on NBC In the final weeks of the 70s, November 21, 1979." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm
-**Prolific Songwriting for Other Artists** : Beyond their own performances, the Bee Gees were prolific songwriters, penning hits for other artists. Examples include "If I Can't Have You" for Yvonne Elliman and "Shadow Dancing" for their brother, Andy Gibb. "Does not even count the songs that they wrote and didn't perform on like if I can't have you by Ivan Elliman or Shadow Dancing by their brother, Andy Gibb." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm
-**Saturday Night Fever Soundtrack and Disco Embrace (1977)** : The band's fortunes dramatically shifted towards the end of the 1970s following their "reluctant embrace of disco" and the immense success of the "Saturday Night Fever" soundtrack in 1977. This period led to 14 top 10 hits, 9 number one singles, and 20 entries in the Hot 100, solidifying their status as defining artists of the decade. "their reluctant embrace of disco and the Saturday Night Fever soundtrack in 1977." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm
-**Sibling Disagreements** : The Bee Gees experienced internal strife between siblings, specifically mentioning "Mary and Robin Gibb." "Mary and Robin Gibb of the Bee Gees." ← https://www.youtube.com/watch?v=cjWxC2jQVrA ← bee-gees
+- Robin Gibb
 
 ## genres
+- Blue-eyed soul
 - Disco
+- Funk (emulated)
 - Pop
 
 ## labels
 - HBO (for documentary)
 
+## concerts
+- Oakland (1979)
+- Time Square
+
+## instruments
+- Synths
+
+## albums
+**Children of the World (1976)** : "You Should Be Dancing" first appeared on this album before its inclusion in the "Saturday Night Fever" soundtrack. "You should be dancing was on the soundtrack, but it was on the children of the world album first." ← For the Record - The 70s > Ep. 1 - Disco Doesn't Suck (Encore) | https://www.ftr70.com/blog/tag/70s+podcast
+**Living Eyes (1981) - First Album Transferred to CD for Demonstration** : The Bee Gees' album "Living Eyes" was the first album to be transferred to Compact Disc for demonstration purposes in 1981. It was utilized on television and radio broadcasts as a method of introducing the new CD format to the world. "In 1981 their album Living Eyes was used on TV and radio as a way of introducing the world to Compact Discs." ← https://www.youtube.com/watch?v=gP3oQeYEvso ← bee-gees
+**Living Eyes (Year not specified)** : The Bee Gees' album *Living Eyes* was the first compact disc to receive a public demonstration. This event took place on the BBC show *Tomorrow's World*, showcasing the new digital format to a broad audience. "The first CD to receive a public demonstration was living eyes by the Bee Gees on a BBC show called Tomorrow's World." ← https://www.youtube.com/watch?v=ak6OuOUkRrQ ← bee-gees ← bee-gees
+**Main Course (1975)** : This album marked the beginning of a disco influence in the band's music, preceding their major success with the "Saturday Night Fever" soundtrack. Its first single, "Jive Talkin'," went to number one and effectively revived the band's career. "Before that soundtrack, we already start to hear the disco influence in the album main course." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm ← bee-gees
+**Odessa (1969)** : This was the band's sixth album, released in March 1969, but it was not well received at the time. The remastered version of the album includes the song "Got to Get a Message to You," which was recorded around the same period, though it was not on the original release. "which was their sixth and just not well received at all." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm ← bee-gees
+**Saturday Night Fever (1977) - Original Movie Soundtrack** : The Bee Gees were instrumental in the success of this soundtrack, which became the best-selling album of all time until Michael Jackson's "Thriller." The album's release was carefully coordinated with the movie's marketing, featuring songs like "Stayin' Alive" and "How Deep Is Your Love" that radio stations quickly embraced. "The Bee Gees were about to dominate the pop charts." ← For the Record - The 70s > Ep. 28 - Soundtracks of the 70s | https://seventies.libsyn.com/028-soundtracks-of-the-70s-12221-5-45-pm
+
+## songs
+**Got to Get a Message to You (Late 1960s)** : This song was recorded around the same time as their album "Odessa" (1969). It is included on the remastered version of "Odessa" but was not part of the original album release. "They also recorded, got to get a message to you at the same time, and it is on the remastered version of the album but not the original." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm ← bee-gees
+**How Can You Mend a Broken Heart (1971)** : This song was the winner of the 1971 Billboard Song of the Summer. It is a ballad described as "beautiful but glacial," which nevertheless prevailed over other contenders for the summer title. "It's the beautiful but glacial how can you mend a broken heart?" ← Hit Parade Music History and Music Trivia > Song(s) of the Summer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef50c30a1408dc292e4
+**How Deep Is Your Love (1977)** : Released a month before the "Saturday Night Fever" movie premiere, this song went to number one on the Billboard Hot 100, generating significant momentum for the film and its soundtrack. It was one of four number one hits from the soundtrack. "Releasing how deep is your love by the Bee Gees a month before the movie was kind of wedding the appetite for the movie, that was unusual." ← For the Record - The 70s > Ep. 1 - Disco Doesn't Suck (Encore) | https://www.ftr70.com/blog/tag/70s+podcast
+**Jive Talkin' (1975)** : This was the first single from the album "Main Course" and went to number one on the charts. It marked the band's first number one hit since "How Can You Mend a Broken Heart" and is credited with reviving their career, showcasing the nascent disco influence in their music. "Job talking, it's their first number one hit since how can you mend a broken heart?" ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm ← bee-gees
+**Jive Talking (1975)** : For the week ending August 30, 1975, this song was number six on the Billboard Top 10 chart. "6. Jive Talking by the Bee Gees." ← For the Record - The 70s > Ep. 2 - Countryish Music of the 1970s (Encore) | https://www.ftr70.com/
+**Lemons Never Forget (1969)** : The Bee Gees performed this song on an episode of "Laugh-In" in 1969. The song is notable for not being included on their "Odessa" album, and their performance on the show was not live; it served as the soundtrack to a video featuring the Brothers Gibb painting. "they performed the song Lemons Never Forget on Laughin, which is not even on Odessa, and they didn't perform it live." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm ← bee-gees
+**Living Eyes (Public CD Debut)** : This song was the first from a compact disc to be played publicly, showcased on the BBC show "Tomorrow's World" in 1981 during the first public demonstration of the technology. "Here then, for you, is the latest single from the Bee Gees. You hear that music? That's the Bee Gees and live in eyes, the first song from a CD to be played publicly." ← https://www.youtube.com/watch?v=BHkJFA0LMro ← bee-gees
+**More Than a Woman (1977)** : This song is featured on the "Saturday Night Fever" soundtrack. The rehearsal dance scene with Tony and Stephanie in the movie, which is set to "More Than a Woman," was initially practiced to Boz Scaggs' "Lowdown." "dance scene with Tony and Stephanie that's done to more than a woman." ← For the Record - The 70s > Ep. 1 - Disco Doesn't Suck (Encore) | https://www.ftr70.com/blog/tag/70s+podcast
+**New York Mining Disaster, 1941 (1967) - Story Song Template** : This 1967 hit from the early, 60s incarnation of the Bee Gees (the Brothers Gibb) was a "heartfelt story song" that David Bowie admitted was an "obvious template" for his "Space Oddity." Bowie, a self-described "magpie," combined their storytelling style with British Folk and his fascination with the movie '2001: A Space Odyssey'. "In their 60s incarnation, the Brothers Gibb were known for heartfelt story songs like their 1967 hit New York Mining Disaster, 1941, an obvious template for Bowie's Space Odyssey." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 1 | https://shows.acast.com/hit-parade/episodes/696aa42a4796fcbb571adba7
+**Night Fever (1978)** : This song was one of four number one hits from the "Saturday Night Fever" soundtrack. "Night Fever." ← For the Record - The 70s > Ep. 1 - Disco Doesn't Suck (Encore) | https://www.ftr70.com/blog/tag/70s+podcast
+**Stayin' Alive (1977)** : Featured as the first cut on the "Saturday Night Fever" soundtrack, this disco hit was a highlight of the Bee Gees' 1979 concert special. When the band broke into this song during their Oakland concert, the crowd's reaction was described as overwhelming excitement. "Of course, that's the first cut on the Saturday Night Fever soundtrack." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm ← bee-gees
+**Stayin' Alive (1978)** : This song was one of four number one hits from the "Saturday Night Fever" soundtrack. "Stan Alive." ← For the Record - The 70s > Ep. 1 - Disco Doesn't Suck (Encore) | https://www.ftr70.com/blog/tag/70s+podcast
+**To Love Somebody (1967)** : This song was a hit for the Bee Gees in 1967 and was later covered by Billy Corgan on his 2005 solo album, The Future Embrace. "It's a cover of a 1967 Bee Gees hit called The Love Somebody." ← https://www.youtube.com/watch?v=-f9jhqAHkQo ← bee-gees
+**Tragedy (1979)** : This song was one of the opening numbers at the Bee Gees' concert in Oakland in 1979, footage from which was featured in their NBC special. "The show opens with tragedy or at least is one of the first two songs." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm ← bee-gees
+**You Should Be Dancing (1976)** : This song first appeared on the "Children of the World" album and went to number one in the summer of 1976. It marked the first time the Bee Gees extensively used their now-trademark falsetto. "This is, by the way, the first record with Bee Gees really reaching for it with that now trademark falsetto." ← For the Record - The 70s > Ep. 1 - Disco Doesn't Suck (Encore) | https://www.ftr70.com/blog/tag/70s+podcast
+
+## curiosities
+**"Stayin' Alive" Writing Process** : The Bee Gees wrote "Stayin' Alive" in just two hours, based on a brief, descriptive request from Robert Stigwood who called Barry Gibb in France asking for "eight minutes, eight minutes, three moods. I want frenzy at the beginning, then I want some passion, and then I want some wild frenzy." At the time, they knew little about the "Saturday Night Fever" movie itself. "Barry Gibbs said that Robert Stig would call him in France and said, Give me eight minutes, eight minutes, three moods. I want frenzy at the beginning, then I want some passion, and then I want some wild frenzy." ← For the Record - The 70s > Ep. 28 - Soundtracks of the 70s | https://seventies.libsyn.com/028-soundtracks-of-the-70s-12221-5-45-pm
+**Disco Ubiquity** : At one point in the late 1970s, the Bee Gees had five songs simultaneously in the top ten on the charts, contributing to the widespread and "annoyingly ubiquitous" presence of Barry Gibb's falsetto in disco music. Their dominance was cited as an example of the disco craze becoming "too much." "At one point, the Bee Gees had five songs in the top ten on the charts, making Barry Gibbs falsetto annoyingly ubiquitous." ← https://www.youtube.com/watch?v=0FYq5MBdHw4 ← bee-gees ← bee-gees
+**Early Storytelling Influence on Bowie** : David Bowie admitted that the narrative style of the early (1960s) Bee Gees, known for their "heartfelt story songs," influenced his composition of "Space Oddity." This "magpie" approach involved combining their storytelling with British Folk and film inspirations. "By Bowie's own admission, the new sound also imitated the narrative of the early Bee Gees." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 1 | https://shows.acast.com/hit-parade/episodes/696aa42a4796fcbb571adba7
+**Early Television Appearances (1969-1970s)** : Despite their later iconic status in the 70s, the Bee Gees had relatively few TV appearances during the decade. They were featured on an episode of Season One of "Laugh-In" in 1969 and also made appearances on "The Tonight Show with Johnny Carson" and twice on "The Midnight Special." "their TV appearances were few and far between." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm ← bee-gees
+**HBO Documentary: How Can You Mend a Broken Heart (2020)** : HBO released a new documentary titled "The Bee Gees, How Can You Mend a Broken Heart," directed by Frank Marshall. The film chronicles the highs and lows of brothers Barry, Maurice, and Robin Gibb, exploring the evolution of their prolific career, their navigation of the ever-changing music industry, and the complex dynamics of family and fame through interviews and never-before-seen footage. "HBO's new documentary The Bee Gees, how can you mend a broken heart? Chronicles the highs and lows of brothers Barry, Morris and Robin Gibb in the evolution of their prolific career as The Bee Gees." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm ← bee-gees
+**Innovative Song Construction - Drum Loop** : "Stayin' Alive" pioneered a new method of song construction using a tape loop. Due to their drummer having to return home to his ailing mother, the band took a two-bar phrase from their song "Night Fever," slowed it down slightly, and spliced it into a half-inch four-track tape loop to create the drum track. This groundbreaking technique was the first time a drum beat had been looped to build a song piece by piece from the ground up. "No one had taken a drum beat before and created a two bar phrase. We were breaking new ground." ← For the Record - The 70s > Ep. 50 - The Travolta Trilogy | https://www.ftr70.com/
+**Manchester Origin** : The Bee Gees are listed as one of many significant musical artists to have originated from Manchester. "bands from, you know, from the Bee Gees." ← https://www.youtube.com/watch?v=q_Scyr2czh8 ← bee-gees
+**Manchester Origins** : The Bee Gees are noted as one of the many significant bands with origins in Manchester, highlighting the city's diverse musical legacy across different eras. "bands from, you know, from the Bee Gees." ← https://www.youtube.com/watch?v=KF_adyXf86Q ← bee-gees
+**Member's Soundtrack Contribution (1980)** : Robin Gibb, a member of the Bee Gees, was included on the soundtrack for the 1980 movie *Time Square*. His involvement stemmed from his role as a producer of the film, which otherwise predominantly featured nascent alternative music. "Yeah, Robin Gibb of the Bee Gees. But you know, he was one of the producers of the film." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← bee-gees
+**NBC 90-Minute Concert Special (1979)** : The Bee Gees concluded the 1970s not with a variety show, but with their own 90-minute concert special aired on Primetime NBC on November 21, 1979. This special, featuring footage from their "Spirits Having Flown" tour concert in Oakland that summer, represented a bridge between traditional variety shows and the emerging music video era. "they closed out the 70s, not with a variety show, but their own 90 minute concert special on Primetime, on NBC In the final weeks of the 70s, November 21, 1979." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm ← bee-gees
+**Post-Disco Association Impact** : Due to their strong association with disco, the Bee Gees were considered "untouchable" in the music industry for a period after the disco fad ended, around 1984. "the Bee Gees will be untouchable for a while because of their association with disco." ← For the Record - The 70s > Ep. 1 - Disco Doesn't Suck (Encore) | https://www.ftr70.com/blog/tag/70s+podcast
+**Prolific Songwriting for Other Artists** : Beyond their own performances, the Bee Gees were prolific songwriters, penning hits for other artists. Examples include "If I Can't Have You" for Yvonne Elliman and "Shadow Dancing" for their brother, Andy Gibb. "Does not even count the songs that they wrote and didn't perform on like if I can't have you by Ivan Elliman or Shadow Dancing by their brother, Andy Gibb." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm ← bee-gees
+**Radio Avoidance Comparison** : The Bee Gees were used as a comparison point to illustrate the extreme reluctance of American rock radio to play punk bands like the Ramones, highlighting how mainstream the Bee Gees were perceived to be. "Back then, rock radio stations would not play a Ramones record any more than they would play a Bee Gees record." ← https://www.youtube.com/watch?v=bYsV3ozbk4M ← bee-gees
+**Saturday Night Fever Soundtrack Contribution** : The Bee Gees wrote seven songs for the "Saturday Night Fever" soundtrack and performed six of them, with "If I Can't Have You" being the only exception. While they were a "blue-eyed soul band" long before disco, the soundtrack made them superstars and catapulted disco into "fad status." "Seven of the songs on the Saturday Night Fever soundtrack were written by the Bee Gees and six of them were performed by the Bee Gees." ← For the Record - The 70s > Ep. 1 - Disco Doesn't Suck (Encore) | https://www.ftr70.com/blog/tag/70s+podcast
+**Saturday Night Fever Soundtrack and Disco Embrace (1977)** : The band's fortunes dramatically shifted towards the end of the 1970s following their "reluctant embrace of disco" and the immense success of the "Saturday Night Fever" soundtrack in 1977. This period led to 14 top 10 hits, 9 number one singles, and 20 entries in the Hot 100, solidifying their status as defining artists of the decade. "their reluctant embrace of disco and the Saturday Night Fever soundtrack in 1977." ← For the Record - The 70s > Ep. 27 - That's Entertainment! TV Variety Shows of the 70s | https://seventies.libsyn.com/027-variety-shows-12920-5-16-pm ← bee-gees
+**Sibling Disagreements** : The Bee Gees experienced internal strife between siblings, specifically mentioning "Mary and Robin Gibb." "Mary and Robin Gibb of the Bee Gees." ← https://www.youtube.com/watch?v=cjWxC2jQVrA ← bee-gees ← bee-gees
+
+
 
 ## awards
-**Golden Globe Award for Best Original Song (1977) — How Deep Is Your Love** : Nominated.
-**Juno Award for Best Selling Single (1979) — Stayin' Alive / If I Can't Have You** : Nominated.
-**star on Hollywood Walk of Fame (1979)** : Won.
-**Rock and Roll Hall of Fame (1997)** : Won.
-**Grammy Lifetime Achievement Award (2000)** : Won.
-**Grammy Legend Award (2003)** : Won.
+**Golden Globe Award for Best Original Song (1977) — How Deep Is Your Love** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1472235
+**Juno Award for Best Selling Single (1979) — Stayin' Alive / If I Can't Have You** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q6314046
+**star on Hollywood Walk of Fame (1979)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761
+**Rock and Roll Hall of Fame (1997)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
+**Grammy Lifetime Achievement Award (2000)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q935843
+**Grammy Legend Award (2003)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1542347
 
 ## charts
-**"I've Gotta Get a Message to You" — Billboard Year-End Hot 100** : #59, 1968.
-**"How Can You Mend a Broken Heart" — Billboard Year-End Hot 100** : #5, 1971.
-**"Lonely Days" — Billboard Year-End Hot 100** : #82, 1971.
-**"Jive Talkin'" — Billboard Year-End Hot 100** : #12, 1975.
-**"You Should Be Dancing" — Billboard Year-End Hot 100** : #31, 1976.
-**"Fanny" — Billboard Year-End Hot 100** : #79, 1976.
-**"Love So Right" — Billboard Year-End Hot 100** : #80, 1977.
-**"Night Fever" — Billboard Year-End Hot 100** : #2, 1978.
-**"Stayin' Alive" — Billboard Year-End Hot 100** : #4, 1978.
-**"How Deep Is Your Love" — Billboard Year-End Hot 100** : #6, 1978.
-**"Too Much Heaven" — Billboard Year-End Hot 100** : #11, 1979.
-**"Tragedy" — Billboard Year-End Hot 100** : #16, 1979.
-**"Love You Inside Out" — Billboard Year-End Hot 100** : #33, 1979.
-**"237" — NME Chart** : 21 semanas.
-**"253" — NME Chart** : 7 semanas.
-**"455" — NME Chart** : 19 semanas.
-**"468" — NME Chart** : 7 semanas.
-**"669" — NME Chart** : 24 semanas.
-**"re" — NME Chart** : 14 semanas.
-**"Stayin' Alive" — Spain Singles Chart** : #1, 1978.
-**"Stayin' Alive" — Spain Singles Chart** : #1, 1978.
-**"Night Fever" — Spain Singles Chart** : #1, 1978.
-**"Too Much Heaven" — Spain Singles Chart** : #1, 1979.
-**"Tragedy" — Spain Singles Chart** : #1, 1979.
-**""How Deep Is Your Love" ‡" — UK Singles Chart** : #10, 1978.
-**""Too Much Heaven" ‡" — UK Singles Chart** : #6, 1979.
-**""For Whom the Bell Tolls" ‡" — UK Singles Chart** : #6, 1994.
+**"I've Gotta Get a Message to You" — Billboard Year-End Hot 100** : #59, 1968. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"How Can You Mend a Broken Heart" — Billboard Year-End Hot 100** : #5, 1971. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Lonely Days" — Billboard Year-End Hot 100** : #82, 1971. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Jive Talkin'" — Billboard Year-End Hot 100** : #12, 1975. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"You Should Be Dancing" — Billboard Year-End Hot 100** : #31, 1976. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Fanny" — Billboard Year-End Hot 100** : #79, 1976. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Love So Right" — Billboard Year-End Hot 100** : #80, 1977. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Night Fever" — Billboard Year-End Hot 100** : #2, 1978. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Stayin' Alive" — Billboard Year-End Hot 100** : #4, 1978. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"How Deep Is Your Love" — Billboard Year-End Hot 100** : #6, 1978. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Too Much Heaven" — Billboard Year-End Hot 100** : #11, 1979. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Tragedy" — Billboard Year-End Hot 100** : #16, 1979. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Love You Inside Out" — Billboard Year-End Hot 100** : #33, 1979. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"237" — NME Chart** : 21 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
+**"253" — NME Chart** : 7 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
+**"455" — NME Chart** : 19 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
+**"468" — NME Chart** : 7 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
+**"669" — NME Chart** : 24 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
+**"re" — NME Chart** : 14 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
+**"Stayin' Alive" — Spain Singles Chart** : #1, 1978. ← Wikipedia | https://en.wikipedia.org/wiki/Promusicae
+**"Stayin' Alive" — Spain Singles Chart** : #1, 1978. ← Wikipedia | https://en.wikipedia.org/wiki/Promusicae
+**"Night Fever" — Spain Singles Chart** : #1, 1978. ← Wikipedia | https://en.wikipedia.org/wiki/Promusicae
+**"Too Much Heaven" — Spain Singles Chart** : #1, 1979. ← Wikipedia | https://en.wikipedia.org/wiki/Promusicae
+**"Tragedy" — Spain Singles Chart** : #1, 1979. ← Wikipedia | https://en.wikipedia.org/wiki/Promusicae
+**""How Deep Is Your Love" ‡" — UK Singles Chart** : #10, 1978. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+**""Too Much Heaven" ‡" — UK Singles Chart** : #6, 1979. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+**""For Whom the Bell Tolls" ‡" — UK Singles Chart** : #6, 1994. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
 
 ## lists
 **"Odessa" (1969) — 1001 Albums You Must Hear Before You Die** : #146.

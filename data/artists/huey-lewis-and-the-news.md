@@ -1,11 +1,18 @@
-# artist - Huey Lewis and the News
-
-## members
-- Huey Lewis
+# artist - Huey Lewis and The News
 
 ## curiosities
-**Clover's Transformation into Huey Lewis and the News** : The band Clover provided backup instrumentation for Elvis Costello's debut album, *My Aim is True*, performing under the name The Shamrocks. After their work with Costello, and once he had auditioned players for his permanent group (The Attractions), Clover returned to the United States and subsequently changed their name to Huey Lewis and the News, becoming the well-known band. ← https://www.youtube.com/watch?v=CkSIErb0hxY
-**Inventor Grandfather** : Huey Lewis's grandfather was an inventor, notable for creating the distinctive red wax sealant used to wrap certain types of cheese. "He's the guy who came up with that red wax sealant that you find wrapping certain types of cheese." ← https://www.youtube.com/watch?v=QfiRRtsZoYU
-**Fan's Record Collection** : "Frank" claims to own every single record by Huey Lewis and the News, alongside Kenny Loggins, indicating a strong fan devotion. "I don't have a mallet, but I do have every single record by both Huey Lewis and the news and Kenny Loggins." ← https://www.youtube.com/watch?v=vev8lzfW6Xo ← huey-lewis-and-the-news
-**Origins from Clover** : Huey Lewis and the News was formed by two members of the American band Clover, along with Clover's singer. These individuals had previously played an uncredited but significant role as the backing band on Elvis Costello's debut album, My Aim Is True, performing under the pseudonym The Sham Rocks. "And two guys, plus that singer who had been hanging around in the lobby, formed a new band called Huey Lewis in the News." ← https://www.youtube.com/watch?v=itK5fEqnA5E ← huey-lewis-and-the-news
+**Regrouped from Clover** : This chart-topping band in the 1980s was formed from members of the California band Clover, who had previously backed Elvis Costello on his debut album. "who would regroup in the 80s as the chart topping band Huey Lewis and The Newt." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
 
+
+
+## charts
+**"Do You Believe in Love" — Billboard Year-End Hot 100** : #51, 1982. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"The Heart of Rock & Roll" — Billboard Year-End Hot 100** : #44, 1984. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"I Want a New Drug" — Billboard Year-End Hot 100** : #55, 1984. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"If This Is It" — Billboard Year-End Hot 100** : #64, 1984. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"The Power of Love" — Billboard Year-End Hot 100** : #15, 1985. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Stuck with You" — Billboard Year-End Hot 100** : #21, 1986. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Jacob's Ladder" — Billboard Year-End Hot 100** : #41, 1987. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Hip to Be Square" — Billboard Year-End Hot 100** : #49, 1987. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Doing It All for My Baby" — Billboard Year-End Hot 100** : #93, 1987. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Perfect World" — Billboard Year-End Hot 100** : #64, 1988. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

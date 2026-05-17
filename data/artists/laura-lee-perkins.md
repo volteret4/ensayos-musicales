@@ -1,6 +1,11 @@
 # artist - Laura Lee Perkins
 
 ## curiosities
-**"Female Jerry Lee Lewis"** : Laura Lee Perkins was sometimes billed as the "female Jerry Lee Lewis," indicating her energetic piano playing and rock and roll performance style, drawing comparisons to the iconic male artist. "There's Laura Lee Perkins, who was sometimes billed as the female Jerry Lee Lewis." ← https://www.youtube.com/watch?v=vV1APhjBt9M ← laura-lee-perkins
-**Female Jerry Lee Lewis** : Laura Lee Perkins was sometimes billed as "the female Jerry Lee Lewis," highlighting her powerful and energetic performance style akin to the famous rock and roll pioneer. "There's Laura Lee Perkins, who was sometimes billed as the female Jerry Lee Lewis." ← https://www.youtube.com/watch?v=XjQiZqpmQlE ← laura-lee-perkins
+**"Female Jerry Lee Lewis"** : Laura Lee Perkins was sometimes billed as the "female Jerry Lee Lewis," indicating her energetic piano playing and rock and roll performance style, drawing comparisons to the iconic male artist. "There's Laura Lee Perkins, who was sometimes billed as the female Jerry Lee Lewis." ← https://www.youtube.com/watch?v=vV1APhjBt9M ← laura-lee-perkins ← laura-lee-perkins
+**Female Jerry Lee Lewis** : Laura Lee Perkins was sometimes billed as "the female Jerry Lee Lewis," highlighting her powerful and energetic performance style akin to the famous rock and roll pioneer. "There's Laura Lee Perkins, who was sometimes billed as the female Jerry Lee Lewis." ← https://www.youtube.com/watch?v=XjQiZqpmQlE ← laura-lee-perkins ← laura-lee-perkins
 
+
+
+## lists
+**"Mapping Your Dreams" (2005) — Sputnikmusic Best Albums 2005** : #106, 4.06 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2005/
+**"Radio Swan is Down" (2006) — Sputnikmusic Best Albums 2006** : #131, 4.02 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/

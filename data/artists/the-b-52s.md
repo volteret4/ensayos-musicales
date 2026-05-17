@@ -1,26 +1,31 @@
-# artist - The B-52's
+# artist - The B-52s
 
 ## members
-- Ricky Wilson
 - (mixed gender)
 - (multi-sexual)
 - Cindy Wilson
 - Fred Schneider
 - Kate Pierson
+- Ricky Wilson
+
+## genres
+- New Wave
+- New Wave (dorky)
+
+## concerts
+- Saturday Night Live
+- Saturday Night Live (1980)
 
 ## instruments
-- Farfisa organ
-- Mosrite guitar
 - Guitar
 - Guitar (modified for bass sounds)
 
 ## albums
-**The B-52's (1979) – Debut Album** : The band's debut album from 1979 featured a version of "Rock Lobster" which, according to the speaker, is not as good as their independent single version. "I actually like that version better than the one that came with their 1979 debut album." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
 **Bouncing off the Satellites (1986) – Posthumous Release with Ricky Wilson's Last Recordings** : The B-52s' album "Bouncing off the Satellites" was released 11 months after Ricky Wilson's death in October 1985. Wilson was too ill to complete the recording sessions for this album due to his advanced AIDS-related illness. The song "Summer of Love" is highlighted as one of the last tracks he recorded with the band for this album. "And he was so ill that he couldn't make it through the sessions for a new B-52s album called Bouncing of Satellites." ← Ongoing History of New Music > From the Archives： The Top 100 Moments in New Rock - Part 3 | https://www.youtube.com/watch?v=Somq2MoRi5Q&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**The B-52's (1979) – Debut Album** : This self-titled debut album was released in 1979 and features the song "Rock Lobster." "The B-52s and Rock Lobster from their self-tuttle debut album in 1979." ← Ongoing History of New Music > The Ongoing History Book of Lasts | https://www.youtube.com/watch?v=Epz5Sn151bk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **The B-52s (1979) – Debut Album** : The B-52s' 1979 debut album, featuring "Planet Claire" as its Side One Track One, encapsulated their quirky and fun approach to music, challenging conventional rock seriousness. "I want to play you Planet Claire from their 1979 debut album. This was Side One Track One..." ← Ongoing History of New Music > The Post-Punk Explosion Part 1： New Wave | https://www.youtube.com/watch?v=bYsV3ozbk4M&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## songs
-**Rock Lobster (1978) – Independent Single** : In April 1978, this "goofy group out of Athens, Georgia" released an independent single version of "Rock Lobster." It featured Ricky Wilson on a Mosrite guitar interplaying with a Farfisa organ and notably lacked a bass line. "In April 1978, a goofy group out of Athens, Georgia, who dressed like they were on their way to an early 60s Tupperware party after taking big tabs of acid, released an independent single." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
 **Planet Claire (1979)** : As Side One Track One of their 1979 debut album, "Planet Claire" features mysterious Morse code. This code is identified as a call tape or ZKR tape, a Canadian Forces message from Milkov and Hubbard's, Nova Scotia, informing ships about optimal ship-to-shore communication frequencies. "It's what's known as a call tape or a ZKR tape. It's a recording of a message sent out by the Canadian forces-based Milkov and Hubbard's Nova Scotia." ← Ongoing History of New Music > The Post-Punk Explosion Part 1： New Wave | https://www.youtube.com/watch?v=bYsV3ozbk4M&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Rock Lobster (1978)** : This song was reportedly a favorite of Osama bin Laden, whose hard drives were examined after his death in May 2011. The discovery suggests his appreciation for the band's music. "He really loved them. Rock Lobster." ← Ongoing History of New Music > 60 Facts in 30 Minutes： 2020 Edition | https://www.youtube.com/watch?v=HoBx6s3JmVQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Rock Lobster (1979)** : This song is from the band's self-titled debut album, released in 1979. "The B-52s and Rock Lobster from their self-tuttle debut album in 1979." ← Ongoing History of New Music > The Ongoing History Book of Lasts | https://www.youtube.com/watch?v=Epz5Sn151bk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -28,7 +33,6 @@
 **Summer of Love (1986)** : This song is one of the last tracks Ricky Wilson recorded with The B-52s for their album "Bouncing off the Satellites," which was released 11 months after his death. "This is called Summer of Love." ← Ongoing History of New Music > From the Archives： The Top 100 Moments in New Rock - Part 3 | https://www.youtube.com/watch?v=Somq2MoRi5Q&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## curiosities
-**Distinctive Image** : The B-52's were known for their "goofy" appearance, dressing like they were attending an "early 60s Tupperware party after taking big tabs of acid." "a goofy group out of Athens, Georgia, who dressed like they were on their way to an early 60s Tupperware party after taking big tabs of acid" ← https://www.youtube.com/watch?v=pOeChe_D1Ag
 **Anti-Serious Approach** : The B-52s were known for not taking rock music overly seriously, actively cultivating a silly and playful attitude that distinguished them from more conventional acts. "They were hardly interested in taking rock too seriously. They had their wufon hairdoes and their fifties clothing. And they actually worked hard at being silly." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 6 | https://www.youtube.com/watch?v=iL9KpQFqH4o&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Athens, Georgia Music Scene Pioneers** : The B-52s are mentioned as a group that began the Athens, Georgia music scene in the mid-1970s. Their success encouraged Peter Buck and Michael Stipe to form R.E.M. "The Athens, Georgia music scene, began in the mid 1970s with the B-52s and more obscure groups like the fans and pylon and the tone tones and love tractor and method actors." ← Ongoing History of New Music > The History of Indie Rock： Part 3 | https://www.youtube.com/watch?v=sCtQqVBtCaI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Collaboration with Foo Fighters (2002)** : Fred Schneider, the frontman of The B-52s, joined Dave Grohl and the Foo Fighters for a performance on Halloween night, 2002, in New York City, a moment that was particularly significant given Dave Grohl's history with the band. "Dave and the food fighters were joined by B-52s frontman Fred Schneider at a gig in New York City." ← Ongoing History of New Music > Ultra-Deep Background on Dave Grohl： Part 1 | https://www.youtube.com/watch?v=8ynrwaUi-sA&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -51,10 +55,15 @@
 **Stylistic Comparison for Pulp** : Pulp's "kitsch" style within Brit-Pop was sometimes compared to The B-52s, highlighting their unique and somewhat bizarre New Wave influences that set them apart from other bands in the movement. "Pulp was that more kitsch movement, which sometimes reminded of The B-52s, sometimes reminded of that somewhat bizarre New Wave." ← Music Radar Clan > PULP： Pilares del Brit Pop | https://www.youtube.com/watch?v=0r8_s6hR3Ss&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **The B-52s Band Name Origin** : The American New Wave band The B-52s, prominent in the early 1980s, derived its name not from an aircraft but from the nickname for the voluminous beehive hairdos, known as "the B-52" in the 1960s, that were famously sported by the group's female vocalists, Cindy Wilson and Kate Pierson. "Their name comes from the nickname of the big B-hive hairdo's, sported by Cindy Wilson and Kate Pearson, the two women in the group." ← Ongoing History of New Music > New Rock Hair | https://www.youtube.com/watch?v=Q3zkJX8S4Xc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
-## genres
-- New Wave
-- New Wave (dorky)
 
-## concerts
-- Saturday Night Live
-- Saturday Night Live (1980)
+
+## charts
+**"Love Shack" — Billboard Year-End Hot 100** : #47, 1989. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Roam" — Billboard Year-End Hot 100** : #40, 1990. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Love Shack" — Billboard Year-End Hot 100** : #78, 1990. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+
+## lists
+**"The B‐52’s" (1979) — 1001 Albums You Must Hear Before You Die** : #429.
+**"The B‐52’s" (1979) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #198. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
+**"B-52's" (1979) — Scaruffi 1970s** : #174, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Wild Planet" (1980) — Pitchfork: The 200 Best Albums of the 1980s** : #183. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63

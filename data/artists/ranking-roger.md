@@ -5,5 +5,9 @@
 - The English Beat
 
 ## curiosities
-**Death (End of 2010s)** : Ranking Roger, a member of both The English Beat and General Public, was among the losses at the close of the 2010s. "ranking Roger of both the English beat in general public." ← https://www.youtube.com/watch?v=sOU54d8mr5k
+**Death (End of 2010s)** : Ranking Roger, a member of both The English Beat and General Public, was among the losses at the close of the 2010s. "ranking Roger of both the English beat in general public." ← https://www.youtube.com/watch?v=sOU54d8mr5k ← ranking-roger
 
+
+
+## charts
+**"I Want to Be Your Man" — Billboard Year-End Hot 100** : #59, 1988. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

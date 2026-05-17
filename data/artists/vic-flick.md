@@ -4,8 +4,12 @@
 - Guitar (twangy sound)
 
 ## songs
-**James Bond Theme (Guitarist)** : Vic Flick is the guitarist responsible for the distinctive twangy guitar part on the legendary James Bond theme song. "he's the guy playing that twangy guitar on the legendary James Bond theme." ← https://www.youtube.com/watch?v=HBS24NwhrE8
+**James Bond Theme (Guitarist)** : Vic Flick is the guitarist responsible for the distinctive twangy guitar part on the legendary James Bond theme song. "he's the guy playing that twangy guitar on the legendary James Bond theme." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← vic-flick
 
 ## curiosities
-**Death Details - November 14, 2024** : Vic Flick died on November 14th, 2024, at the age of 87. His cause of death was Alzheimer's disease. "He was 87. It was Alzheimer's." ← https://www.youtube.com/watch?v=HBS24NwhrE8
+**Death Details - November 14, 2024** : Vic Flick died on November 14th, 2024, at the age of 87. His cause of death was Alzheimer's disease. "He was 87. It was Alzheimer's." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← vic-flick
 
+
+
+## lists
+**"The Texas-Jerusalem Crossroads" (2001) — AOTY Must Hear 2000s** : #457, 69 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/

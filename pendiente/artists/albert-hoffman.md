@@ -1,0 +1,5 @@
+# artist - Albert Hoffman
+
+## curiosities
+**LSD-25 Discovery (April 16, 1943)** : A research scientist in Zurich, Albert Hoffman accidentally touched a tiny speck of lysergic acid diethylamide tartrate (LSD-25) at a pharmaceutical lab on April 16, 1943, leading to a curious initial experience. Three days later, on April 19, 1943, he intentionally took a tiny dose to experiment on himself, experiencing vivid hallucinations, including believing his neighbor was a witch and feeling poisoned. He later described enjoying "unprecedented colours and plays of shapes" and "Fantastic Images" surging behind his closed eyes. The chemical was a derivative of ergotamine. "On the 16th of April 1943 Albert Hoffman, a research scientist in Zurich, had a curious experience after accidentally touching a tiny speck of the chemical he was experimenting with at the pharmaceutical lab in which he worked and felt funny afterwards." ← Episode 86： ＂LSD-25＂ by the Gamblers | https://www.youtube.com/watch?v=UNd6UwbL1rA
+

@@ -1,0 +1,6 @@
+# concert - Kent State Shootings
+
+## curiosities
+**Formative Event for Devo** : The trauma stemming from the Kent State shootings is identified by Cassali as a pivotal event, without which the band Devo would not have come into existence. "Cassali has said many times that without the trauma of the Kent State shootings there would have been no Devo." ← For the Record - The 70s > Ep. 43 - Music and The Kent State Massacre of May 4, 1970 | https://seventies.libsyn.com/ep-43-music-and-the-kent-state-massacre-of-may-4-1970
+**Inspiration for Protest Music** : The Kent State shootings prompted the creation of significant songs like "The Knife" by Genesis in 1971 and "Student Demonstration Time" by The Beach Boys, indicating a hope that music could still motivate people towards social change. "Looking at Kent State and some of the other songs that resulted from those shootings like the Nife by Genesis in 1971 and student demonstration time by the Beach Boys, it seems as if there was still some hope that music would move people to make change." ← For the Record - The 70s > Ep. 43 - Music and The Kent State Massacre of May 4, 1970 | https://seventies.libsyn.com/ep-43-music-and-the-kent-state-massacre-of-may-4-1970
+

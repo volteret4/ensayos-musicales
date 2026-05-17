@@ -1,20 +1,48 @@
 # artist - Bill Withers
 
+## genres
+- R&B
+- Soul
+
+## concerts
+- Soul Unlimited
+- Zaire 74
+
+## instruments
+- Guitar
+
+## albums
+**Just as I Am (1971)** : Bill Withers' debut album, featuring hit songs like "Ain't No Sunshine" and "Grandma's Hands." Its iconic cover photo depicts Withers, still working as an airplane mechanic at McDonnell Douglas, holding his lunch box, symbolizing his unique and late entry into the music industry. "The cover of Just as I Am, the album that has Aino Sunshine and Grand Maws Hands, is a photo of Bill Whither's holding his lunch box at McDonald Douglas where he worked." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
+**Still Bill (1972)** : Bill Withers' second album, released in 1972, is acclaimed as "a masterclass in soul." It features several of his classic hits, including the number one song "Lean on Me," "Who Is He (And What Is He to You)?", and "Use Me." "His second album, Still Bill, came out in 1972. It is a masterclass in soul and has several of his classics, the number one hit lean on me. Who is he and what is he to you and use me?" ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
+
 ## songs
-**Ain't No Sunshine (1971)** : Bill Withers famously wrote his classic song "Ain't No Sunshine" while he was working a job manufacturing toilets for Boeing jetliners. This background offers a unique insight into the song's humble origins before it became a global hit. "He wrote that song while making toilets for Boeing jetliners." ← https://www.youtube.com/watch?v=-N6IM5Nm5iw
+**Ain't No Sunshine (1971)** : Bill Withers famously wrote his classic song "Ain't No Sunshine" while he was working a job manufacturing toilets for Boeing jetliners. This background offers a unique insight into the song's humble origins before it became a global hit. "He wrote that song while making toilets for Boeing jetliners." ← https://www.youtube.com/watch?v=-N6IM5Nm5iw ← bill-withers
+**I Hope She'll Be Happier (1971)** : During his performance at Zaire 74, Bill Withers played this song from his first album, creating an intimate moment where he "loses himself" with just his guitar, offering a vulnerable glimpse into his private thoughts. "In his performance of, I hope she'll be happier in Zaire, he just loses himself, goes inside of himself. It's just him and his guitar and we get to watch." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
+**Lean on Me (1972)** : A number one hit from Bill Withers' 1972 album "Still Bill," this song was inspired by his upbringing in a coal mining town in West Virginia. "His second album, Still Bill, came out in 1972. It is a masterclass in soul and has several of his classics, the number one hit lean on me." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
+**Use Me (1972)** : A classic song from Bill Withers' 1972 album "Still Bill." "His second album, Still Bill, came out in 1972. It is a masterclass in soul and has several of his classics, the number one hit lean on me. Who is he and what is he to you and use me?" ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
+**Who Is He (And What Is He to You)? (1972)** : A classic track featured on Bill Withers' acclaimed 1972 album, "Still Bill." "His second album, Still Bill, came out in 1972. It is a masterclass in soul and has several of his classics, the number one hit lean on me. Who is he and what is he to you and use me?" ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
+
+## curiosities
+**Anticipation of Retirement (1970s)** : Throughout the 1970s, Bill Withers consistently indicated that he did not foresee himself as a lifelong musician. In 1978, he stated his aversion to being a "50 year old man out somewhere at 3 in the morning trying to entertain a bunch of half drunk people," emphasizing his desire for intellectual growth beyond being a "middle age rock and roller." "it wouldn't surprise me if at some point in my life I all of a sudden looked into something else." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
+**Breakthrough via Johnny Carson (1971)** : After being laid off from McDonnell Douglas, Bill Withers received two significant letters: one inviting him back to his job, the other inviting him to The Johnny Carson Show. His appearance on The Tonight Show in November 1971 was instrumental in launching his career, as "Ain't No Sunshine" broke into the Billboard Top 10, enabling him to quit his mechanic job at the age of 33. "The other was inviting me on the Johnny Carson show. It was that appearance on the Tonight Show in November 1971 that helped him quit working as an airplane mechanic because Aino Sunshine made it into the Billboard Top 10." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
+**Critical Acclaim (1973)** : By 1974, Bill Withers was a highly respected artist. A 1973 review of his "Live at Carnegie Hall" concert in the Pittsburgh Courier by Greg Mims lauded his songwriting for portraying "real things, real people and honest emotions." Years later, Questlove described Withers as "the closest thing black people have to brew spring steam." "The world's boldly sketched in Whither's song lyrics are populated by real things, real people and honest emotions." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
+**Discomfort with Performing** : Bill Withers expressed a notable discomfort with performing for audiences, speculating that this might stem from not having grown up with the ambition to be a musician. "It's interesting to think about how uncomfortable Whither's was with performing for other people." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
+**Performance on Soul Unlimited (1973)** : Bill Withers was one of the talented musical acts who performed on "Soul Unlimited," the show created by Dick Clark in 1973 to compete with "Soul Train." "Bill Whithers was on." ← For the Record - The 70s > Ep. 47 - Dick Clark's Entertainment Empire | https://www.ftr70.com/
+**Unconventional Path to Stardom** : Bill Withers' journey to becoming an R&B star was atypical; he hailed from a coal mining town in West Virginia, a place that inspired "Lean On Me." He developed an interest in music during his time in the Navy and was working as an airplane mechanic at McDonnell Douglas in California in 1971 while submitting demos. The cover of his debut album, "Just as I Am," famously features him at his mechanic job, holding his lunch box, a candid moment teased by his co-workers. "The cover of Just as I Am, the album that has Aino Sunshine and Grand Maws Hands, is a photo of Bill Whither's holding his lunch box at McDonald Douglas where he worked." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
+**Zaire 74 Involvement** : Bill Withers accepted an invitation to perform at Zaire 74 from Gary Stromberg, the festival's PR representative. He viewed it as a "once in a lifetime opportunity" to interact with prominent figures like Muhammad Ali, George Foreman, and writers Norman Mailer and George Plimpton, having previously met Ali in 1967. "Whither's first met Muhammad Ali in 1967 after Ali had refused induction into the army. And so he said he would do it." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
 
 
 
 ## awards
-**Grammy Award for Best New Artist (1972)** : Nominated.
-**Rock and Roll Hall of Fame (2015)** : Won.
+**Grammy Award for Best New Artist (1972)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643
+**Rock and Roll Hall of Fame (2015)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
 
 ## charts
-**"Ain't No Sunshine" — Billboard Year-End Hot 100** : #23, 1971.
-**"Lean on Me" — Billboard Year-End Hot 100** : #7, 1972.
-**"Use Me" — Billboard Year-End Hot 100** : #78, 1972.
+**"Ain't No Sunshine" — Billboard Year-End Hot 100** : #23, 1971. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Lean on Me" — Billboard Year-End Hot 100** : #7, 1972. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Use Me" — Billboard Year-End Hot 100** : #78, 1972. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Just As I Am" (1971) — AOTY Must Hear 1970s** : #212, 98 AOTY.
-**"Just As I Am" (1971) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #304, 98 AOTY.
-**"Still Bill" (1972) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #333.
+**"Just As I Am" (1971) — AOTY Must Hear 1970s** : #212, 98 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
+**"Just As I Am" (1971) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #304, 98 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
+**"Still Bill" (1972) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #333. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3

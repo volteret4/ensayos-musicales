@@ -1,0 +1,6 @@
+# artist - Mike Platinas
+
+## curiosities
+**Dispute over Payment and Departure from Max Music** : Mike Platinas recounted that when it was time to collect his prize for the Max Music contest, the label's management forced him to choose between the prize money or recording the album, but not both. Furthermore, neither he nor Javier Usia were paid for their work on the second "Max Mix," leading them to abandon the project. "Mike Platinas, que a la hora de cobrar el premio del concurso, los directivos le tiraron a elegir entre cobrar el importeo grabar el disco, no las dos opciones, y que ni él, ni Javier Usia, cobraron el trabajo realizado en este segundo Megamix, por lo que abandonaron el proyecto." ← Ritmo y Extorsión： Así Dominaron los Megamix los 90s | https://www.youtube.com/watch?v=-qekjKky5bE
+**Winner of Max Music's Mixing Contest** : Mike Platinas won the contest organized by Max Music, which sought creative and ingenious individuals to mix songs, offering a prize of 100,000 pesetas and a record deal. As a result, he went on to record the first "Max Mix" alongside Javier Usia. "El concurso lo ganó Mike Platinas, quien junto a Javier Usia, grabaron el primer Max Mix." ← Ritmo y Extorsión： Así Dominaron los Megamix los 90s | https://www.youtube.com/watch?v=-qekjKky5bE
+

@@ -1,8 +1,6 @@
-# genre - Hardcore punk
+# genre - Hardcore Punk
 
 ## curiosities
-**Root of Emo** : A specific type of hardcore punk that originated in the Washington D.C. area in the mid-1980s is identified as the direct origin of emo music, then known as Emotional Hardcore or Emocore. "Emo is an offshoot of a particular type of hardcore punk that originated in the Washington DC area in the middle 80s." ← https://www.youtube.com/watch?v=_yslM5oanRo
-**Roots of Emo (1980s)** : The American Underground Hardcore punk scene of the 1980s is identified as the foundational origin for Emo music. This shows Emo's direct lineage from a more aggressive and underground punk subgenre before it evolved and gained mainstream appeal. "Now Emo had its roots in the American Underground Hardcore punk scene of the 1980s." ← https://www.youtube.com/watch?v=-CT7yYXonIk
 **80s "Bro Rock" Backsliding** : In the 1980s, hardcore punk represented a "backsliding" in terms of gender inclusivity, becoming "amongst the most testosterone-driven bro rock ever." This subgenre notably pushed women to the back, contrasting with the more inclusive dogma of original punk and highlighting the need for movements like Riot Grrrl. "For example, hardcore punk was amongst the most testosterone-driven bro rock ever. Women were pushed to the back." ← Ongoing History of New Music > Riot Grrrls - A Primer | https://www.youtube.com/watch?v=Qss5kC2FUx0&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **American Predecessor** : California punk rock is identified as the main predecessor to American hardcore punk. "California punk rock, which was the main predecessor to American hardcore punk." ← Ongoing History of New Music > History of Skate Punk | https://www.youtube.com/watch?v=44dXy0StjIQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Ancestry of Emo** : Hardcore punk is identified as the genre from which emo, a subgenre characterized by its emotional and introspective qualities, descended. "descended of, believe it or not, hardcore punk." ← Ongoing History of New Music > Alt Rock Revivals Part 3： Emo | https://www.youtube.com/watch?v=v_am7ifh7Pk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -22,6 +20,7 @@
 **Influence in Seattle** : In Seattle, hardcore punk was easily mixed with hard rock, exemplified by the simultaneous appreciation for bands like Black Flag and Aerosmith. This blend resulted in a unique local hybrid sound that was sludgy, slow, and low, often carrying the negative and pessimistic tone of nihilistic hardcore acts. "Hardcore punk mixed easily with hard rock and Seattle. No one considered it strange to be both into black flag and air smith at the same time." ← Ongoing History of New Music > The History of Indie Rock： Part 3 | https://www.youtube.com/watch?v=sCtQqVBtCaI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Influence on Emo Bands** : Emo bands initially had a "super intense hardcore influence," but this shifted towards more melodic and poppy sounds following the release of albums like Blink 182's "Enema of the State." "Emo bands moved away from being super intense hardcore influence punk bands to being more melodic and poppy." ← Ongoing History of New Music > The Rise and Fall and Rise of Blink 182 Part 2 | https://www.youtube.com/watch?v=_tkLRJiOBu0&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Influence on Metal** : Hardcore music has profoundly influenced metal, particularly bands like Metallica, Anthrax, Slayer, and Sepultura, through its raw energy and aggressive sound. "First of all, we've seen the influence this music has had on metal" ← Ongoing History of New Music > The History of Hardcore | https://www.youtube.com/watch?v=PEHkKfmmDiI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Influence on Other Genres** : Hardcore punk was fundamental to the development of other significant genres, including grunge, post-hardcore, and sludge metal. "El hardcore punk fue fundamental para el desarrollo de otros géneros, como el granch, el post hardcore, del slatch metal." ← Egg Punk： Explorando el lado más raro del punk | https://www.youtube.com/watch?v=ZvQCffRFhHQ
 **International Spread** : Hardcore punk caught on globally during the 1980s, driven by relentless touring of bands playing inexpensive, all-ages shows in underserved towns and cities. It spread to Canada (Toronto, Montreal, Edmonton, West Coast), Italy (Raw Power, Wretched), Sweden (Mob 47, The Refused), Eastern Europe, and Japan (as early as 1977). "It's amazing the number of places where hardcore punk caught on during the 1980s." ← Ongoing History of New Music > The History of Hardcore | https://www.youtube.com/watch?v=PEHkKfmmDiI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **New York Hardcore Chug** : In the New York City hardcore scene, guitars were often played by muting chords with the entire palm, a technique informally known as the "New York Hardcore chug." "Guitars tended to play by muting chords with the whole palm. Some people called this the New York Hardcore chug." ← Ongoing History of New Music > The History of Hardcore | https://www.youtube.com/watch?v=PEHkKfmmDiI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Nirvana's Early Interest** : Kurt Cobain and Chris Novoselic specifically bonded over hardcore punk in high school, indicating this subgenre's importance to their early musical development and the formation of their first band, The Stiff Woody's. "Richard and Chris met up in high school and bonded over punk rock, especially hardcore punk." ← Ongoing History of New Music > Big Bands from Small Towns | https://www.youtube.com/watch?v=CyTI00SIrLE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -37,34 +36,27 @@
 **Stripped-Down Sound** : The genre in Southern California, emerging around 1979, was even more stripped-down than original punk, often featuring only guitar, bass, drums, and a vocalist. Traditional verse-chorus song structures were often foregone, with songs sometimes lasting 32 seconds or less. "The traditional first-core's first song structure wasn't necessary. In fact, if everything could be said in 32 seconds or less, so be it." ← Ongoing History of New Music > The History of Hardcore | https://www.youtube.com/watch?v=PEHkKfmmDiI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Subgenres of Hardcore Punk** : Hardcore punk itself encompasses several distinct subgenres, including bandage, death core, pornogrind, screamo, power violence, positive hardcore, nard core, and Nintendo core. "Just looking at hardcore punk, that includes bandage, death core, pornogrines, screamo, power violence, positive hardcore, nard core, Nintendo core." ← Ongoing History of New Music > History of Pop Punk： Part 1 | https://www.youtube.com/watch?v=tZV1lz-obQE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Topic of "Alt Rock" Chapter 8** : American hardcore punk is a specific focus of "Chapter 8" in the history of Alt Rock series. "And here in Chapter 8, we're going to talk about American hardcore punk." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 8 | https://www.youtube.com/watch?v=XjTWcy8RHEs&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**US Variant and Characteristics** : In the United States, hardcore punk became the most popular variant of punk, continuing its energetic and anti-establishment premise but making it faster, heavier, and more aggressive. This genre has maintained a cult following and remains deeply rooted in the underground scene. "En Estados Unidos, la variante más popular fue la hardcore punk, lo que continuaba con la premisa enérgica y antisistema del punk, pero lo hizo más rápido, más pesado y más agresivo." ← Egg Punk： Explorando el lado más raro del punk | https://www.youtube.com/watch?v=ZvQCffRFhHQ
 
 ## artists
-- Adolescents
-- Agent Orange
-- Agnostic Front
-- Asexuals
 - Bad Brains
 - Bad Religion
+- Bikini Kill
 - Black Flag
-- Circle Jerks
-- Cro-Mags
-- DOA
-- Dayglo Abortions
+- D.O.A.
 - Dead Kennedys
-- Descendents
-- Effing Goofs
-- Fugazi
-- Gang Green
+- Fever 333
+- Ho99o9
+- Husker Dew
+- Husker Du
+- Husker Dü
+- Lanky-Tan-Flas-It
 - Minor Threat
-- Minutemen
-- Mob 47
-- Raw Power
-- Red Cross
-- SNFU
-- Social Distortion
-- Subhumans
-- The Germs
-- The Middle Class
-- The Refused
-- Wretched
+- Nirvana
+- Operation Ivy
+- Rancid
+- Rites of Spring
+- Slint
+- Sonic Youth
+- The Conjets
 

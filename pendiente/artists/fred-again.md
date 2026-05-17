@@ -1,0 +1,6 @@
+# artist - Fred again..
+
+## curiosities
+**Boiler Room London 2022 - International Career Boost** : Fred again.. (referred to as "Fretagain" in the transcript) performed a Boiler Room set in London in 2022, which significantly boosted his international career, partly due to the atmosphere and events surrounding the performance. "El aparatado Bollerum de Fretagain en Londres de 2022 impulsó su carrera internacional, en parte gracias a todo lo que ocurrió a su alrededor." ← De Tiny Desk a Boiler Room： El Boom de los Conciertos en YouTube | https://www.youtube.com/watch?v=QPTMemJ4ZUA
+**Tiny Desk Performance - Multi-Instrumental Talent** : The year after his impactful Boiler Room set, Fred again.. also had his own Tiny Desk performance. During this session, he demonstrated his talent by playing marimbas, piano, samples, and pads alone, confirming that his success on Boiler Room was not just luck. "Y nos porquita el emérito, al año siguiente también tuvo su propio TinyDES, donde puedo demostrar su talento, tocando el solitario Marimbas, Piano, Sample y Mars, confirmando que lo del Boilerum no había sido cosa de suerte." ← De Tiny Desk a Boiler Room： El Boom de los Conciertos en YouTube | https://www.youtube.com/watch?v=QPTMemJ4ZUA
+

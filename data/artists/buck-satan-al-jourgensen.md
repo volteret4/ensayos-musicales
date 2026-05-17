@@ -6,4 +6,4 @@
 
 
 ## lists
-**"Life Sentence" (2013) — Sputnikmusic Best Albums 2013** : #174, 3.93 Sputnik.
+**"Life Sentence" (2013) — Sputnikmusic Best Albums 2013** : #174, 3.93 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2013/

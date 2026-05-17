@@ -1,0 +1,6 @@
+# label - Muzak
+
+## curiosities
+**Executive Perspective on Silence** : Navi, a director at the Muzak company, famously articulated the company's core mission by stating that its biggest competitor was silence itself. This perspective underscores Muzak's objective to fill auditory voids and prevent discomfort, aiming to provide a constant, familiar, and friendly sonic environment that averts perceived awkwardness or threat from silence. "Como dijo Navi, son directivo de la empresa, el mayor competidor de Muzak es el silencio." ← Muzak： Música para ser ignorada | https://www.youtube.com/watch?v=7iN6WiB5Y1g
+**Name Origin and Evolution** : The company's name, Muzak, was adopted in 1934, derived by its founder Yotchow Goodesquayer who fused the first syllable of "música" with the second syllable of "Kodak." Initially, Muzak provided music via electrical wiring to homes, but as radio gained prominence, the company shifted its focus to registering and commercializing background music specifically designed for hotels and restaurants, marking its transition into a pervasive commercial sound provider. "Su fundador, Yotchow Goodesquayer, fascinado por el nombre de Codak, fusionó la primera silabra de la palabra música con la segunda de Codak." ← Muzak： Música para ser ignorada | https://www.youtube.com/watch?v=7iN6WiB5Y1g
+

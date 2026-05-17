@@ -1,0 +1,6 @@
+# genre - Atmospheric Drama Bass
+
+## curiosities
+**Characteristics and New Age Inspiration** : Atmospheric drum and bass emerged around the same time as conventional drum and bass but with a distinct ethos. While club-oriented drum and bass focused on power and impact, atmospheric drum and bass drew inspiration from New Age to craft ethereal, cinematic soundscapes. It maintained tempos around 170 BPMs but utilized softer drums, long pads, and heavy reverb, creating a sensation of floating in open space. "La sensación era de flotar en un espacio abierto más que la de moverse en una pista de baile." ← Por qué los videjuegos de los 2000 sonaban así？ Jungle⧸Drum and Bass | https://www.youtube.com/watch?v=3_cr6vOW3KQ
+**Early Adoption in Video Games (PlayStation 2, GameCube)** : Atmospheric Drama Bass, described as "advoqueric drama bass" in the transcript, was adopted by video games on platforms such as PlayStation 2 and GameCube. It was typically used in moments requiring immersion and ambiance, like character selection or option screens, rather than for pure adrenaline rushes. "adoptando variantes como Liquid Funk o el advoqueric drama bass." ← Por qué los videjuegos de los 2000 sonaban así？ Jungle⧸Drum and Bass | https://www.youtube.com/watch?v=3_cr6vOW3KQ
+

@@ -1,0 +1,6 @@
+# artist - Ronee Blakley
+
+## curiosities
+**Barbara Jean Character in "Nashville" (1975)** : Ronee Blakley played the character Barbara Jean in Robert Altman's 1975 film "Nashville." This character was very loosely based on Loretta Lynn. Blakley also wrote several songs for the movie, including "Blue Bird," which was sung by Timothy Brown's character, Tommy Brown. "Ronnie Blakely who plays a character named Barbara Jean in the movie very loosely based on LaRetta Lynn wrote a couple of songs for the movie including one for the character of Tommy Brown." ← For the Record - The 70s > Ep. 53 - More than Charley Pride - African Americans in 70s Country | https://www.ftr70.com/
+**Songwriting for "Nashville"** : Ronee Blakley contributed to the soundtrack of Robert Altman's "Nashville" by writing several songs for the film. One of her compositions was "Blue Bird," which was performed by Timothy Brown's character, Tommy Brown. "Ronnie Blakely who plays a character named Barbara Jean in the movie very loosely based on LaRetta Lynn wrote a couple of songs for the movie including one for the character of Tommy Brown." ← For the Record - The 70s > Ep. 53 - More than Charley Pride - African Americans in 70s Country | https://www.ftr70.com/
+

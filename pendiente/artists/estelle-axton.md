@@ -1,0 +1,14 @@
+# artist - Estelle Axton
+
+## labels
+- Satellite Records
+- Stax Records
+
+## curiosities
+**Boosting "Last Night"** : Despite Jim Stewart and Jerry Wexler's belief that The Mar-Keys' instrumental "Last Night" would be a flop, Estelle Axton championed its potential. She secured a test pressing for a DJ, and seeing the public's demand, eventually pressured Stewart to release it. "But Asterl Axton believed in its potential, and also believed in her son, who Stewart had little time for." ← Episode 105： ＂Green Onions＂ by Booker T.and the MGs | https://www.youtube.com/watch?v=cw6xJG8E_w0
+**Business Acumen and Music Passion** : Estelle Axton, Jim Stewart's sister, was naturally business-minded and had a keen interest in music. She would buy records from wholesalers for 76 cents and sell them to her colleagues for a dollar, demonstrating her entrepreneurial spirit. "Estelle was a naturally business-minded person, who also had a year learning to do something involving music, and had been doing things in little ways." ← Episode 105： ＂Green Onions＂ by Booker T.and the MGs | https://www.youtube.com/watch?v=cw6xJG8E_w0
+**Conflict with Chips Moman** : Estelle Axton had disagreements with Chips Moman, which was one of the reasons cited for Moman's eventual departure from Stax Records. "He'd not been getting on with the Stella Axton" ← Episode 105： ＂Green Onions＂ by Booker T.and the MGs | https://www.youtube.com/watch?v=cw6xJG8E_w0
+**Record Shop Owner and Market Researcher** : Estelle Axton transformed the lobby and concession stand of the old cinema that became the Stax studio into a record shop, which she personally managed. She allowed customers to listen to music all day without buying and implemented a loyalty card scheme, allowing her to understand the buying habits of black teenagers and inform the studio's production choices. "A stalaxe and turned that into a record shop which she ran herself, with Cropper often helping out behind the counter." ← Episode 105： ＂Green Onions＂ by Booker T.and the MGs | https://www.youtube.com/watch?v=cw6xJG8E_w0
+**Remortgaging for Equipment** : Estelle Axton, against her husband's better judgment, remortgaged their house to secure the funds needed to purchase recording equipment, which was then set up in a barber's storage space to restart Satellite Records. "Estelle persuaded her husband against his better judgement, to remogge their house, and she used the money to buy recording equipment." ← Episode 105： ＂Green Onions＂ by Booker T.and the MGs | https://www.youtube.com/watch?v=cw6xJG8E_w0
+**Stax Records Name Origin** : Estelle Axton's surname was combined with Jim Stewart's surname to create the name Stax Records when Satellite Records was renamed. "Stax Records was born." ← Episode 105： ＂Green Onions＂ by Booker T.and the MGs | https://www.youtube.com/watch?v=cw6xJG8E_w0
+

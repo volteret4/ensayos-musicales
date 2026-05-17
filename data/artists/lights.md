@@ -1,8 +1,19 @@
 # artist - Lights
 
 ## albums
-**Skin & Earth (2017) – Comic Book Crossover** : Lights' 2017 album, *Skin & Earth*, originated from a six-issue comic book series of the same name, which was subsequently released in paperback form in the spring of 2018. A lifelong fan of comic books, Lights had long aspired to create a crossover project blending music and comics, and she harbors a dream of someday drawing for Wonder Woman. "When lights released her skin and earth album in 2017, it came from a comic book of the same name that extended over six issues." ← https://www.youtube.com/watch?v=xc85sLj0Cnk
+**Skin & Earth (2017) – Comic Book Crossover** : Lights' 2017 album, *Skin & Earth*, originated from a six-issue comic book series of the same name, which was subsequently released in paperback form in the spring of 2018. A lifelong fan of comic books, Lights had long aspired to create a crossover project blending music and comics, and she harbors a dream of someday drawing for Wonder Woman. "When lights released her skin and earth album in 2017, it came from a comic book of the same name that extended over six issues." ← https://www.youtube.com/watch?v=xc85sLj0Cnk ← lights
 
 ## curiosities
-**Tog Salter Collaboration** : Producer and songwriter Tog Salter was working with Lights when he began collaborating with USS. "And at the time he was working with Josh Groban and he was working with lights." ← https://www.youtube.com/watch?v=N-3eddy4J7g
+**Tog Salter Collaboration** : Producer and songwriter Tog Salter was working with Lights when he began collaborating with USS. "And at the time he was working with Josh Groban and he was working with lights." ← https://www.youtube.com/watch?v=N-3eddy4J7g ← lights
 
+
+
+## awards
+**Juno Award for Breakthrough Artist of the Year (2009)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q6314050
+**Juno Award for Breakthrough Artist of the Year (2009)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q6314050
+**Juno Award for Pop Album of the Year (2010) — The Listening** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q6314089
+**Juno Award for Pop Album of the Year (2012) — Siberia** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q6314089
+**Juno Award for Pop Album of the Year (2015) — Little Machines** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q6314089
+
+## lists
+**"The Texas-Jerusalem Crossroads" (2001) — AOTY Must Hear 2000s** : #457, 69 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/

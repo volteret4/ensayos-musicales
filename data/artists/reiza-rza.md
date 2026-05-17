@@ -4,11 +4,54 @@
 - Gutanclan (Wu-Tang Clan)
 
 ## albums
-**Reiza's First Solo Album (Exact Year Not Specified)** : This album was the inaugural release of RZA's five-year plan, strategically designed to kickstart a constant flow of individual member albums following the success of the first Wu-Tang Clan album. It paved the way for other members' solo careers. "empezaba evidentemente Reiza, como es sobre nombre, sacaba su primer álbum." ← Music Radar Clan > Wu-Tang Clan como Negocio Musical | https://www.youtube.com/watch?v=qCEL6NXkIv4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← reiza-rza
+**Reiza's First Solo Album (Exact Year Not Specified)** : This album was the inaugural release of RZA's five-year plan, strategically designed to kickstart a constant flow of individual member albums following the success of the first Wu-Tang Clan album. It paved the way for other members' solo careers. "empezaba evidentemente Reiza, como es sobre nombre, sacaba su primer álbum." ← Music Radar Clan > Wu-Tang Clan como Negocio Musical | https://www.youtube.com/watch?v=qCEL6NXkIv4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← reiza-rza ← reiza-rza
 
 ## curiosities
-**Creative and Political Role** : While RZA always played a significant role as a creative director within the Wu-Tang Clan, his primary function was that of a political leader. He made the important decisions for the band, focusing on its economic and strategic direction rather than solely its creative output. "Aunque Reiza dentro del Gutanclan, siempre ha ejercido un rol muy de director creativo, también ha ejercido principalmente un rol político." ← Music Radar Clan > Wu-Tang Clan como Negocio Musical | https://www.youtube.com/watch?v=qCEL6NXkIv4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← reiza-rza
-**Five-Year Plan Architect** : RZA convinced all members to accept him as the absolute and despotic leader for at least five years, empowering him to make all decisions for the band. This leadership was critical for implementing his five-year plan, which dictated the staggered release of solo albums. "convencerlos a todos para que al menos durante 5 años, Reiza sea el líder absoluto y despota que toma las decisiones dentro de la banda." ← Music Radar Clan > Wu-Tang Clan como Negocio Musical | https://www.youtube.com/watch?v=qCEL6NXkIv4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← reiza-rza
-**Founding Vision** : From the very beginning, when RZA co-founded the Wu-Tang Clan with Suprimoth, he took the reins with a clear and specific vision for the group's economic future. He knew precisely what he wanted to achieve and where he wanted to go financially, with a clear entrepreneurial outlook. "Cuando Reiza y Suprimoth fundan el Gutanclan, él ya toma las riendas desde un principio, ya tiene una idea muy concreta de lo que queda hacer y de dónde quiere llegar económicamente." ← Music Radar Clan > Wu-Tang Clan como Negocio Musical | https://www.youtube.com/watch?v=qCEL6NXkIv4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← reiza-rza
-**Political Leader of Wu-Tang Clan** : RZA served as the political leader of the Wu-Tang Clan, a role distinct from a purely creative leader. He was responsible for making the band's crucial economic and strategic decisions, guiding its overall direction. "Reiza es el líder del Gutanclan, pero es ese líder político que suelen tener las bandas." ← Music Radar Clan > Wu-Tang Clan como Negocio Musical | https://www.youtube.com/watch?v=qCEL6NXkIv4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← reiza-rza
+**Creative and Political Role** : While RZA always played a significant role as a creative director within the Wu-Tang Clan, his primary function was that of a political leader. He made the important decisions for the band, focusing on its economic and strategic direction rather than solely its creative output. "Aunque Reiza dentro del Gutanclan, siempre ha ejercido un rol muy de director creativo, también ha ejercido principalmente un rol político." ← Music Radar Clan > Wu-Tang Clan como Negocio Musical | https://www.youtube.com/watch?v=qCEL6NXkIv4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← reiza-rza ← reiza-rza
+**Five-Year Plan Architect** : RZA convinced all members to accept him as the absolute and despotic leader for at least five years, empowering him to make all decisions for the band. This leadership was critical for implementing his five-year plan, which dictated the staggered release of solo albums. "convencerlos a todos para que al menos durante 5 años, Reiza sea el líder absoluto y despota que toma las decisiones dentro de la banda." ← Music Radar Clan > Wu-Tang Clan como Negocio Musical | https://www.youtube.com/watch?v=qCEL6NXkIv4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← reiza-rza ← reiza-rza
+**Founding Vision** : From the very beginning, when RZA co-founded the Wu-Tang Clan with Suprimoth, he took the reins with a clear and specific vision for the group's economic future. He knew precisely what he wanted to achieve and where he wanted to go financially, with a clear entrepreneurial outlook. "Cuando Reiza y Suprimoth fundan el Gutanclan, él ya toma las riendas desde un principio, ya tiene una idea muy concreta de lo que queda hacer y de dónde quiere llegar económicamente." ← Music Radar Clan > Wu-Tang Clan como Negocio Musical | https://www.youtube.com/watch?v=qCEL6NXkIv4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← reiza-rza ← reiza-rza
+**Political Leader of Wu-Tang Clan** : RZA served as the political leader of the Wu-Tang Clan, a role distinct from a purely creative leader. He was responsible for making the band's crucial economic and strategic decisions, guiding its overall direction. "Reiza es el líder del Gutanclan, pero es ese líder político que suelen tener las bandas." ← Music Radar Clan > Wu-Tang Clan como Negocio Musical | https://www.youtube.com/watch?v=qCEL6NXkIv4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← reiza-rza ← reiza-rza
 
+
+
+## charts
+**"Adele" — UK Vinyl Albums Chart** : entrada.
+**"Amy Winehouse" — UK Vinyl Albums Chart** : entrada.
+**"Radiohead" — UK Vinyl Albums Chart** : entrada.
+**"Rag'n'Bone Man" — UK Vinyl Albums Chart** : entrada.
+**"Ed Sheeran" — UK Vinyl Albums Chart** : entrada.
+**"The Beatles" — UK Vinyl Albums Chart** : entrada.
+**"Noel Gallagher's High Flying Birds" — UK Vinyl Albums Chart** : entrada.
+**"Original Soundtrack" — UK Vinyl Albums Chart** : entrada.
+**"Queen" — UK Vinyl Albums Chart** : entrada.
+**"Various Artists" — UK Vinyl Albums Chart** : entrada.
+**"Fleetwood Mac" — UK Vinyl Albums Chart** : entrada.
+**"Amy Winehouse" — UK Vinyl Albums Chart** : entrada.
+**"Queen" — UK Vinyl Albums Chart** : entrada.
+**"Kylie Minogue" — UK Vinyl Albums Chart** : entrada.
+**"Harry Styles" — UK Vinyl Albums Chart** : entrada.
+**"Glass Animals" — UK Vinyl Albums Chart** : entrada.
+**"Oasis" — UK Vinyl Albums Chart** : entrada.
+**"Taylor Swift" — UK Vinyl Albums Chart** : entrada.
+**"Dua Lipa" — UK Vinyl Albums Chart** : entrada.
+**"Olivia Rodrigo" — UK Vinyl Albums Chart** : entrada.
+**"Charli XCX" — UK Vinyl Albums Chart** : entrada.
+**"Chappell Roan" — UK Vinyl Albums Chart** : entrada.
+**"Gracie Abrams" — UK Vinyl Albums Chart** : entrada.
+**"Noel Gallagher's High Flying Birds" — UK Vinyl Singles Chart** : entrada.
+**"David Bowie" — UK Vinyl Singles Chart** : entrada.
+**"Golden Years" — UK Vinyl Singles Chart** : 4 semanas.
+**"The Stone Roses" — UK Vinyl Singles Chart** : entrada.
+**"David Brent" — UK Vinyl Singles Chart** : entrada.
+**"Oasis" — UK Vinyl Singles Chart** : entrada.
+**"Liam Gallagher" — UK Vinyl Singles Chart** : entrada.
+**"George Michael" — UK Vinyl Singles Chart** : entrada.
+**"Morrissey" — UK Vinyl Singles Chart** : entrada.
+**"Led Zeppelin" — UK Vinyl Singles Chart** : entrada.
+**"Public Service Broadcasting" — UK Vinyl Singles Chart** : entrada.
+**"The Fontaines" — UK Vinyl Singles Chart** : entrada.
+**"Ceremony" — UK Vinyl Singles Chart** : 1 semanas.
+**"Wham!" — UK Vinyl Singles Chart** : entrada.
+**"Blur" — UK Vinyl Singles Chart** : entrada.
+**"The 1975" — UK Vinyl Singles Chart** : entrada.
+**"Fontaines D.C." — UK Vinyl Singles Chart** : entrada.

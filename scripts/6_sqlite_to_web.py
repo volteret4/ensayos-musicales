@@ -708,7 +708,11 @@ function renderSource(sf) {
     const name = sf.slice(0, pipe).trim();
     const url  = sf.slice(pipe + 1).trim();
     if (url.startsWith('http')) {
-      return `<div class="fact-src"><a href="${url}" target="_blank" rel="noopener">📺 ${name || 'Ver fuente'}</a></div>`;
+      const isWiki = /wikidata\.org|wikipedia\.org|scaruffi\.com|albumoftheyear\.org|musicbrainz\.org/.test(url);
+      const icon   = isWiki
+        ? '<span style="display:inline-block;width:14px;height:14px;background:#949494;border-radius:50%;color:#fff;font-size:9px;font-weight:bold;font-family:Georgia,serif;text-align:center;line-height:14px;vertical-align:middle;margin-right:3px">W</span>'
+        : '📺 ';
+      return `<div class="fact-src"><a href="${url}" target="_blank" rel="noopener">${icon}${name || 'Ver fuente'}</a></div>`;
     }
   }
   // Fallback: plain file path (old-format data)

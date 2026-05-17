@@ -1,5 +1,9 @@
 # artist - Mission of Burma
 
 ## curiosities
-**Boston Area Indie Band** : Mission of Burma is listed as one of the amazing indie bands that emerged from the Boston area's rich college music scene. "We had Mission of Burma, the Delphwegos, the Lemonheads, Gang Green, the throwing muses, Dinosaur, Junior, Julianne Hatfield and the Blake Babies, and of course the greatest Boston area college band of them all, the Pixies." ← https://www.youtube.com/watch?v=sCtQqVBtCaI
+**Boston Area Indie Band** : Mission of Burma is listed as one of the amazing indie bands that emerged from the Boston area's rich college music scene. "We had Mission of Burma, the Delphwegos, the Lemonheads, Gang Green, the throwing muses, Dinosaur, Junior, Julianne Hatfield and the Blake Babies, and of course the greatest Boston area college band of them all, the Pixies." ← https://www.youtube.com/watch?v=sCtQqVBtCaI ← mission-of-burma
 
+
+
+## lists
+**"VS" (1982) — Scaruffi 1980s** : #79, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

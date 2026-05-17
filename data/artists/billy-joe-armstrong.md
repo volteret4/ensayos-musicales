@@ -1,4 +1,4 @@
-# artist - Billy Joe (Armstrong)
+# artist - Billy Joe Armstrong
 
 ## member of
 - Green Day
@@ -11,9 +11,10 @@
 **Musical Offspring** : Billy Joe Armstrong has two sons, Joseph Marciano Armstrong (Joey), born February 28th, 1995, and named after Joey Ramone, and Jacob Danger Armstrong, born September 12th, 1998. Both sons have followed their father into music. "And on February 28th, 1995, Joseph Marciano Armstrong came into the world. He's called Joey after Joey Ramon. Another song, Jacob Danger Armstrong. Yeah, his middle name is Danger. Came along on September 12th of 1998. Both boys took after their father." ← Ongoing History of New Music > Musical Offspring | https://www.youtube.com/watch?v=MmXDbXI6Sqk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 
+
 ## charts
-**"All the Things" — Billboard Year-End Hot 100** : #55, 1996.
-**"Don't Wanna Be a Player" — Billboard Year-End Hot 100** : #84, 1997.
-**"I Wanna Know" — Billboard Year-End Hot 100** : #4, 2000.
-**"Stutter" — Billboard Year-End Hot 100** : #13, 2001.
-**"Stutter" — UK Indie Singles Chart** : 2001.
+**"All the Things" — Billboard Year-End Hot 100** : #55, 1996. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Don't Wanna Be a Player" — Billboard Year-End Hot 100** : #84, 1997. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"I Wanna Know" — Billboard Year-End Hot 100** : #4, 2000. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Stutter" — Billboard Year-End Hot 100** : #13, 2001. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Stutter" — UK Indie Singles Chart** : 2001. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart

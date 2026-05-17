@@ -4,5 +4,14 @@
 - North London Polytechnic College (March 15, 1985)
 
 ## curiosities
-**Catalyst for Riot (March 15, 1985)** : As the opening band for The Jesus and Mary Chain at North London Polytechnic College, a member of the "long forgotten group" Meat Whiplash threw a wine bottle back into the impatient and surly crowd. This act, in response to a bottle thrown at them, ignited the crowd's anger, leading to people attempting to jump on stage and assault the band member, setting the stage for the full-blown riot that followed. "Then someone from the opening band, a long forgotten group called Meet Whiplash threw back a wine bottle into the crowd that had been thrown at them." ← https://www.youtube.com/watch?v=huAvyInzz3Q
+**Catalyst for Riot (March 15, 1985)** : As the opening band for The Jesus and Mary Chain at North London Polytechnic College, a member of the "long forgotten group" Meat Whiplash threw a wine bottle back into the impatient and surly crowd. This act, in response to a bottle thrown at them, ignited the crowd's anger, leading to people attempting to jump on stage and assault the band member, setting the stage for the full-blown riot that followed. "Then someone from the opening band, a long forgotten group called Meet Whiplash threw back a wine bottle into the crowd that had been thrown at them." ← https://www.youtube.com/watch?v=huAvyInzz3Q ← meat-whiplash
 
+
+
+## charts
+**"Shining Light" — UK Indie Singles Chart** : 2001. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart
+**"Burn Baby Burn" — UK Indie Singles Chart** : 2001. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart
+
+## lists
+**"1977" (1996) — 1001 Albums You Must Hear Before You Die** : #834.
+**"1977" (1996) — Pitchfork: The 50 Best Britpop Albums** : #34. ← musicbrainz | https://beta.musicbrainz.org/series/cd7ebb70-d88f-4f74-b6de-3a00bf2a162c

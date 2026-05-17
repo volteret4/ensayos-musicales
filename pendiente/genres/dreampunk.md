@@ -1,0 +1,7 @@
+# genre - Dreampunk
+
+## curiosities
+**Dreamlike Sound and Cinematic Influence (Originated 2014)** : Dreampunk emerged around 2014, characterized by its dreamlike sound and influences from ambient music and progressive electronic. Unlike traditional vaporwave, it avoids the typical sampling and looping techniques of Plunderphonics, focusing instead on abstract soundscapes. "El Dreampunk surgió alrededor de 2014 y se caracteriza por su sonido onírico, influencias de la música ambiental y la electrónica progresiva." ← Vaporwave： Mucho más que un Meme | https://www.youtube.com/watch?v=BhOnKc0SxsA
+**Popular Vaporwave Subgenre** : Dreampunk has successfully consolidated its position as one of the most popular subgenres within the broader vaporwave movement. "Este subgeniero se ha consolidado como uno de los más populares dentro del vaporwave." ← Vaporwave： Mucho más que un Meme | https://www.youtube.com/watch?v=BhOnKc0SxsA
+**Urban, Cinematic, and Cyberpunk Inspired** : This subgenre is described as much more cinematic and urban than Slashwave, integrating elements of Cyberpunk and exploring the atmospheres of futuristic metropolises. It draws significant inspiration from iconic films such as *Blade Runner* and *Ghost in the Shell*. "Es mucho más cinematográfico y urbano, integrando elementos de Cyberpunk y explorando atmósferas de metropolis futuristas, tomando inspiración de películas como Blirran Erigos y De Shell." ← Vaporwave： Mucho más que un Meme | https://www.youtube.com/watch?v=BhOnKc0SxsA
+

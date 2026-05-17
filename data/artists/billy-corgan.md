@@ -1,9 +1,9 @@
-# artist - Billy (Corgan)
+# artist - Billy Corgan
 
 ## member of
-- The Smashing Pumpkins
 - Smashing Pumpkins
 - The Marked
+- The Smashing Pumpkins
 - Zwan
 
 ## albums
@@ -24,5 +24,6 @@
 **Solitary Songwriter (N/A)** : Billy Corgan is noted as an artist who writes all of his music himself, contrasting with the modern trend of songwriting by committee involving many contributors. "But we still have people like Billy Corgan, who writes everything himself." ← Ongoing History of New Music > The Rock Explainer - 6 | https://www.youtube.com/watch?v=dnQ1pNbIUjw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 
+
 ## lists
-**"Grab That Gun" (2004) — Sputnikmusic Best Albums 2004** : #72, 4.1 Sputnik.
+**"Grab That Gun" (2004) — Sputnikmusic Best Albums 2004** : #72, 4.1 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2004/

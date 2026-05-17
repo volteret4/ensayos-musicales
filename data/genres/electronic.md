@@ -1,7 +1,8 @@
-# genre - electronic
+# genre - Electronic
 
 ## curiosities
-**John Frusciante's Post-RHCP Exploration (2009-2019)** : After his second departure from the Red Hot Chili Peppers, John Frusciante's solo albums became very electronic, as he expressed a desire to try something he knew nothing about and had lost interest in traditional rock band songwriting. "He said he'd lost interest in traditional rock band songwriting and wanted to try something he knew nothing about." ← https://www.youtube.com/watch?v=CPxy_KOv87o
+**90s UK Context** : Electronic music in the UK during the 1990s underwent a significant reinterpretation, largely spearheaded by The Chemical Brothers. This period was marked by the fusion of incoming Detroit Techno and Chicago House influences with existing local Manchester music at venues like The Hacienda, blending electronic and rock sounds. "una pizza clave dentro de la electrónica de los 90 en el reino unido y fueron el inicio de una reinterpretación electrónica muy interesante." ← Music Radar Clan > The Chemical Brothers. Padres de la cultura BIG BEAT | https://www.youtube.com/watch?v=EMyp_PMItXg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Commercial Electronic Focus in Utopian Virtual** : The Utopian Virtual subgenre centers its aesthetic and sound on the commercial electronic music of the 1980s and 1990s, particularly corporate Muzak. "centrado en la estética y el sonido de la música electrónica comercial de los años 80 y 90" ← Vaporwave： Mucho más que un Meme | https://www.youtube.com/watch?v=BhOnKc0SxsA
 **Continued Remixing in Grunge Era** : During the grunge era, when rock-based remixes saw a decline, electronic outfits, along with industrial groups and some others, continued to utilize remixing. "Oh, it was still done for industrial groups, electronic outfits and a few others." ← Ongoing History of New Music > The History of Remixes | https://www.youtube.com/watch?v=08i9lVd6T8c&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Doctor Who Soundtrack as Foundation** : The soundtrack for the 1960s "Doctor Who" series is recognized as one of the most important albums in electronic music history. It is credited with having laid the foundations for the electronic genre, preceding many works considered classical electronic music. "la bandas sonora del doctor H, de la serie de los años 60, es uno de los álbumes más importantes de la historia de la electrónica, uno de los álbumes que asentó las bases de la electrónica." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Dominance in Late 1990s** : Electronic music, along with pop and hip-hop, dominated the music scene at the end of the 1990s, contributing to rock's perceived decline. "Pop, electronic eye and hip-hop had taken over. Rock itself had fallen into the doldrums." ← Ongoing History of New Music > The 00's Part 3： The Return of Rock | https://www.youtube.com/watch?v=7dXtgTkdv9w&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -11,6 +12,7 @@
 **Evolution in the 90s** : During the 1990s, electronic music increasingly intertwined with alternative and rock music. This was largely facilitated by the consolidation of modern, computerized recording systems that streamlined production processes, allowing independent and alternative groups to experiment with electronic sounds. ← Music Radar Clan > Daft Punk： Como el Homework revolucionó la electrónica | https://www.youtube.com/watch?v=myhlWJ6DQpw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Explosion in Popularity (late 90s)** : Towards the end of the 1990s, electronic music and hip-hop continued to "explode in popularity," drawing interest away from rock music and influencing an increase in sales of keyboards, samplers, turntables, and mixers. "Meanwhile, hip hop and electronic had continued to explode in popularity." ← Ongoing History of New Music > The 90s Part 9： The Festivals | https://www.youtube.com/watch?v=7JP2tjJibTQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Extensive Use of Amen Break** : Electronic music and its subgenre EDM have extensively employed the "Amen Break" sample, which is integrated into a vast number of tracks. This highlights the break's widespread influence across different forms of electronic music production. "It's all over hip-hop. It's all over electronic and EDM." ← Ongoing History of New Music > The Unsung Heroes of Music： Part 2 | https://www.youtube.com/watch?v=VnXBJqKwkrw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Extreme European Ramification** : In Europe, the influx of American House and Techno music, combined with existing European electronic traditions and a tendency for extremization, led to the rapid proliferation of dozens of highly extreme and aggressive electronic styles. This included genres like Acid House, Trance, and Hardcore Techno, which created a profound disconnect between the "beast-like" European rave culture and the more tranquil electronic music found elsewhere. "aquí en Europa comenzó una ramificación en decenas, pero decenas y decenas de estilos electrónicos muy extremos y muy agresivos, reinterpretando todo eso." ← Music Radar Clan > The Chemical Brothers. Padres de la cultura BIG BEAT | https://www.youtube.com/watch?v=EMyp_PMItXg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **French Electronic Scene in the 1990s** : In the mid-1990s, the electronic music scene in France was largely characterized by a "discotecquero" (club-oriented or dance-oriented) style. This dominant trend meant that artists like Air, who pursued a more ambient and symphonic electronic sound, found it challenging to achieve commercial success within their home country, experiencing greater acclaim in the United Kingdom instead. "la electrónica francés era un poco tiraba por otros caminos. Era mucho mas discotefiero." ← Music Radar Clan > Los inicios de la banda AIR se cruzan con Peter Kuhlman | https://www.youtube.com/watch?v=rtS690CPKnw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Genre Bridging** : The Chemical Brothers are renowned for pushing beyond traditional electronic music, forging a path that expertly blends electronic sounds with rock music, particularly within the British indie scene. "van mucho más allá de la electrónica y han trabajado con gente importantísima y han hecho algo que se escapa ya de la electrónica para hacer casi un camino entre la electrónica y la música rock." ← Music Radar Clan > Las mejores colaboraciones y remezclas de The Chemical Brothers | https://www.youtube.com/watch?v=UKrdhEHivO4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Historical Samples** : The album *Endtroducing.....* by DJ Shadow contains samples that have become integral to the history of both hip hop and electronic music. These specific sounds, carefully curated and repurposed, are now recognized as foundational elements within the historical narrative of electronic music. "O, de la historia de la electrónica. El resultado final, DJ's a Do hizo para la época una obra maestra." ← Music Radar Clan > DJ SHADOW - Endtroducing... (la música con desechos) | https://www.youtube.com/watch?v=_WFtfeq-7y8&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
@@ -20,9 +22,11 @@
 **Intellectual Electronic Movement** : The intellectual electronic genre attracts a dedicated following, as exemplified by the rapid sell-out of Mark Peters' debut cassette album, "Innerland," within five minutes. Múm also contributes to this "intellectual electronic" category, evolving since the 1990s. "todos los intelectores de electrónica fueron a compártelo." ← Music Radar Clan > Lanzamientos ABRIL 2018 | https://www.youtube.com/watch?v=3_SAz8OxeIA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Intellectual and Experimental** : This genre is noted for its intellectual and experimental subgenres, as exemplified by artists like Arca and influences in jazz. "electrónica más intelectual y más experimental." ← Music Radar Clan > Mejores discos del 2017 | https://www.youtube.com/watch?v=T34CwsFmXpI&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Key Genre for Faithless** : Faithless, the British band fronted by Maxi Jazz, is characterized as an electronic/hip-hop/dance band, highlighting electronic music as a core component of their sound. "Faithless, the British electronic slash hip-hop, slash dance, slash whatever band, tormented by a guy named Maxi Jazz." ← Ongoing History of New Music > Black History Month 2023 | https://www.youtube.com/watch?v=_1NNvxgx8uA&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Keygen Music Style** : The music in keygens was typically electronic and fast-paced, with accelerated tempos, similar to Rave or Trance music. This style was deliberately chosen to make users feel like "movie hackers," turning the bureaucratic task of entering an activation key into an adventurous cybernetic infiltration. "Esta música solía ser el electrónica y rápida, con tiempos acelerados musíilar a la música Rave o el Trance..." ← El oscuro origen de la música de los KEYGEN | https://www.youtube.com/watch?v=_dccHK0JW5w
 **Mid-90s Complexity** : By the mid-90s, electronic music had evolved from the minimalist techno and house of the 80s into a more baroque, complicated, rapid, and elaborate form, incorporating numerous styles that sometimes seemed unrelated, including jazz and black music influences. ← Music Radar Clan > Daft Punk： Como el Homework revolucionó la electrónica | https://www.youtube.com/watch?v=myhlWJ6DQpw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Pioneering Pilot (1981)** : Gary Numan, recognized as an electronic music icon, demonstrated his versatility by becoming a highly accomplished pilot. In 1981, he completed a round-the-world flight in his private aircraft, a feat that highlighted his personal passions outside of his musical contributions. "Gary Newman, the new wave star, turned electronic icon to guys like Back in Dave Grohl, became very accomplished as a pilot, even working as a stunt pilot in air shows." ← Ongoing History of New Music > Airplanes! | https://www.youtube.com/watch?v=hmnMG6f80Sg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Preference for "The World Is Not Enough" Theme (1999)** : For the 1999 Bond film "The World Is Not Enough," producers sought an electronic sound for the theme song, reflecting modern music trends at the time. Despite this preference, they still insisted on a "big orchestral arrangement" to maintain the traditional Bond musical identity. "The producers wanted sort of an electronic sound. Again that's where modern music was in 1999." ← Ongoing History of New Music > Bond...James Bond...Music | https://www.youtube.com/watch?v=K0pgJ7XAlpo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Progressive Electronic Influence in Dreampunk** : Dreampunk draws significant influences from progressive electronic music, contributing to its dreamlike and abstract soundscapes. "influencias de la música ambiental y la electrónica progresiva." ← Vaporwave： Mucho más que un Meme | https://www.youtube.com/watch?v=BhOnKc0SxsA
 **Resurgence of Electronic Bases in Music (Mid-2000s)** : The mid-2000s saw a resurgence of electronic bases in music, which were mixed with pop, rock, and other styles. This trend provided a context for bands like Mios to update their sound by incorporating electronic elements. "A mitad del 2000 ya hubo un resurgir de todas esas bases electrónicas mezcladas con pop y con un rock y con otros estilos." ← Music Radar Clan > La discografía de MUSE disco a disco, con lo bueno y con lo malo | https://www.youtube.com/watch?v=3Wax146ybgU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Roskilde Representation** : Electronic music is one of the genres represented at the Roskilde festival, which hosts approximately 180 different acts for up to 130,000 people. "There's rock, there's folk, there's electronic and hip hop. They're all represented in one way or the other." ← Ongoing History of New Music > The 90s Part 9： The Festivals | https://www.youtube.com/watch?v=7JP2tjJibTQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Seahawks Style** : Seahawks is described as a band that blends electronic music with New Wave, often incorporating experimental elements. "Esta es una bandada medio de electrónica, medio de New Wave." ← Music Radar Clan > LANZAMIENTOS JUNIO 2018 | https://www.youtube.com/watch?v=AvdFC5Q0nKk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
@@ -32,6 +36,91 @@
 **Warp Records - Cult Label** : Warp Records is recognized as "one of the best cult electronic labels," signifying its important role in the development and dissemination of electronic music. "una de las mejores discográficas de culto de la electrónica." ← Music Radar Clan > Lanzamientos Diciembre 2017 | https://www.youtube.com/watch?v=zKLlsA2kSqY&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## artists
+- 100 Gecs
+- 2manydjs
+- Air
+- Alva Noto
+- Amon Düül
+- Andrea Hogan (Hügellands Roondance)
+- Arca
+- Atticus Ross
+- Avicii
+- Beastie Boys
+- Björk
+- Boards of Canada
+- Brian Eno
+- Burial
+- Cabaret Voltaire
+- Chrome Sparks
+- DJ Shadow
+- Daft Punk
+- Daniel Avery
+- David Bowie
+- David Holmes
+- Dead Grips
+- Depeche Mode
+- Diplo
+- Doctor Who Soundtrack
+- Duran Duran
+- Erasure
+- Erol Alkan
+- Eurythmics
+- Faithless
+- Fatboy Slim
+- Franz Ferdinand
+- Garbage
+- Gary Numan
+- Gnarls Barkley
+- Goldie
+- Gorillaz
+- Grace Jones
+- Groove Armada
+- Jackalope
+- Jean-Michel Jarre
+- Jlin
 - John Frusciante
-- Speed Dealer Mums
+- Jon Lein Stranger
+- Jóhann Jóhannsson (as "Jojan Johansson")
+- Kraftwerk
+- Ladytron
+- Long Distance Calling
+- M83
+- MGMT
+- Mark Peters
+- Massive Attack
+- Moby
+- Moses Sumney
+- Muse
+- New Order
+- Nine Inch Nails
+- OMD
+- Orbital
+- Orchestral Manoeuvres in the Dark
+- Orchestral Manoeuvres in the Dark (OMD)
+- OutKast
+- Peter Culman
+- Plus 44
+- Portishead
+- Primal Scream
+- Ryuichi Sakamoto
+- Seahawks
+- Skepta
+- Soft Cell
+- Sophie
+- Soulwax
+- Tangerine Dream
+- Teleman
+- The Avalanches
+- The Chemical Brothers
+- The Crystal Method
+- The Holidays
+- The Human League
+- The Orb
+- The Prodigy
+- The Smiths
+- The xx
+- Thundercat
+- U.S. Girls
+- USS
+- Vangelis
 

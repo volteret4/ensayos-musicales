@@ -4,5 +4,6 @@
 - The Cranberries
 
 
+
 ## lists
-**"Steal This Album" (1998) — Sputnikmusic Best Albums 1998** : #103, 4.04 Sputnik.
+**"Steal This Album" (1998) — Sputnikmusic Best Albums 1998** : #103, 4.04 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1998/

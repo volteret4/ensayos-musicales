@@ -4,5 +4,11 @@
 - Relapse
 
 ## curiosities
-**American Indie Label Signing** : The End was signed by Relapse Records, reflecting the influx of bands from the aggressive music scene being picked up by prominent American independent labels during a period of shifting musical tastes. "The end got signed by Relapse." ← https://www.youtube.com/watch?v=nEPT8ZVZ0so
+**American Indie Label Signing** : The End was signed by Relapse Records, reflecting the influx of bands from the aggressive music scene being picked up by prominent American independent labels during a period of shifting musical tastes. "The end got signed by Relapse." ← https://www.youtube.com/watch?v=nEPT8ZVZ0so ← the-end
 
+
+
+## lists
+**"Les Tenebres du Dehors" (1996) — Sputnikmusic Best Albums 1996** : #94, 4.09 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
+**"The Umbersun" (1998) — Sputnikmusic Best Albums 1998** : #69, 4.1 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1998/
+**"A World in Their Screams" (2007) — Sputnikmusic Best Albums 2007** : #61, 4.1 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2007/

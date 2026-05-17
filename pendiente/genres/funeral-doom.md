@@ -1,0 +1,6 @@
+# genre - Funeral Doom
+
+## curiosities
+**Extreme Slowness and Melancholy** : Funeral Doom is a subgenre that pushes the characteristics of Doom Metal to their extremes, featuring very slow riffs and notes that are sustained for durations that seem almost eternal. The sound often resembles a funeral chant, adopting a mournful and melancholic image, and generating an expansive atmosphere of contemplative despair where the mood becomes almost physical. "Por un lado el funeral Doom lleva los rices y las notas adoraciones que parecen casi eternas, llegando a aparecer un cantofonebre. Adopto una imagen y un sonido más lúbredo y melancólico, generando un espacio sonido de desesperación contemplativa, donde la atmósfera se vuelve casi física." ← El DOOM METAL es el DARK SOULS de la música | https://www.youtube.com/watch?v=v0eaod_repg
+**Instrumentation for Contrast** : To achieve its unique atmospheric depth, Funeral Doom relies not only on distortion but frequently incorporates organs and clean guitars. These instruments are used to create crucial contrasts within the dense soundscape, enhancing the sense of despair and contemplation. "Para ello no se valen solo de la distorsión, sino que suelen recorrir a órganos y guitarras limpias para crear contraste." ← El DOOM METAL es el DARK SOULS de la música | https://www.youtube.com/watch?v=v0eaod_repg
+

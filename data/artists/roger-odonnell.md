@@ -4,5 +4,9 @@
 - The Cure
 
 ## curiosities
-**Left The Cure Before Disintegration Tour Leg** : Roger O'Donnell departed from The Cure just before the final leg of their 1991 Disintegration Tour. His departure created an opening that was filled by guitar tech Perry Bamonte, who transitioned to keyboardist for the band. "But when Roger O'Donnell left the cure just before the final leg of the disintegration tour in 1991, Perry Bimonte became the band's keyboardist and after that he played guitar on the next four albums." ← https://www.youtube.com/watch?v=ZVGnSVfed9s ← roger-odonnell
+**Left The Cure Before Disintegration Tour Leg** : Roger O'Donnell departed from The Cure just before the final leg of their 1991 Disintegration Tour. His departure created an opening that was filled by guitar tech Perry Bamonte, who transitioned to keyboardist for the band. "But when Roger O'Donnell left the cure just before the final leg of the disintegration tour in 1991, Perry Bimonte became the band's keyboardist and after that he played guitar on the next four albums." ← https://www.youtube.com/watch?v=ZVGnSVfed9s ← roger-odonnell ← roger-odonnell
 
+
+
+## charts
+**"I Want to Be Your Man" — Billboard Year-End Hot 100** : #59, 1988. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

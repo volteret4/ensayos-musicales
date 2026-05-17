@@ -1,9 +1,11 @@
 # artist - Johnny Greenwood
 
 ## member of
+- Johnny Greenwood
 - Radiohead
 
 ## members
+- Johnny Greenwood
 - On a Friday
 - Radiohead
 
@@ -14,8 +16,14 @@
 - Recorder
 
 ## curiosities
-**College** : Following grade school, Johnny Greenwood enrolled in a dual program at Oxford University, studying both music and psychology. "Johnny Greenwood enrolled in both the music and psychology programs at Oxford." ← https://www.youtube.com/watch?v=t-G22K0vLnM ← johnny-greenwood
-**Colorblindness** : Johnny Greenwood is colorblind. "if this makes any difference, he's colorblind." ← https://www.youtube.com/watch?v=t-G22K0vLnM ← johnny-greenwood
-**Early Music Involvement** : Johnny began his musical journey in his early teens with his brother Colin, influenced by their older sister's interest in bands like George Evasion in the Fall. Initially, he attended "On a Friday" practices primarily because Colin was "babysitting him." However, after continuously expressing his desire to participate, he was eventually integrated into the band at approximately age 13, while the other members were 16 or 17. "after hearing him whine about wanting to do something, everybody just gave in and made him part of the band." ← https://www.youtube.com/watch?v=t-G22K0vLnM ← johnny-greenwood
-**Origin and Family** : Johnny Greenwood is Colin Greenwood's younger brother, being a couple of years his junior. "His brother John is a couple of years younger" ← https://www.youtube.com/watch?v=t-G22K0vLnM ← johnny-greenwood
+**College** : Following grade school, Johnny Greenwood enrolled in a dual program at Oxford University, studying both music and psychology. "Johnny Greenwood enrolled in both the music and psychology programs at Oxford." ← https://www.youtube.com/watch?v=t-G22K0vLnM ← johnny-greenwood ← johnny-greenwood
+**Colorblindness** : Johnny Greenwood is colorblind. "if this makes any difference, he's colorblind." ← https://www.youtube.com/watch?v=t-G22K0vLnM ← johnny-greenwood ← johnny-greenwood
+**Early Music Involvement** : Johnny began his musical journey in his early teens with his brother Colin, influenced by their older sister's interest in bands like George Evasion in the Fall. Initially, he attended "On a Friday" practices primarily because Colin was "babysitting him." However, after continuously expressing his desire to participate, he was eventually integrated into the band at approximately age 13, while the other members were 16 or 17. "after hearing him whine about wanting to do something, everybody just gave in and made him part of the band." ← https://www.youtube.com/watch?v=t-G22K0vLnM ← johnny-greenwood ← johnny-greenwood
+**Interest in Video Games** : Johnny Greenwood, a distinguished member of Radiohead, is described as a great video game enthusiast. This personal passion likely contributed to his appreciation for the soundfont phenomenon, particularly its connection to classic game aesthetics. "integrante de Radiohead y gran amante de los videojuegos, que han retweetado el album." ← El fenómeno de Soundfont Album. Discos reinterpretados en videojuegos | https://www.youtube.com/watch?v=ekozTKngeAw
+**Origin and Family** : Johnny Greenwood is Colin Greenwood's younger brother, being a couple of years his junior. "His brother John is a couple of years younger" ← https://www.youtube.com/watch?v=t-G22K0vLnM ← johnny-greenwood ← johnny-greenwood
+**Retweet of "In Rainbows" Soundfont Album** : Johnny Greenwood notably retweeted Un For World's soundfont reinterpretation of Radiohead's "In Rainbows" album, giving it a significant nod of approval from an original artist and a prominent figure in the music industry who also appreciates video games. "que han retweetado el album." ← El fenómeno de Soundfont Album. Discos reinterpretados en videojuegos | https://www.youtube.com/watch?v=ekozTKngeAw
 
+
+
+## charts
+**"La Yenka" — Spain Singles Chart** : #1, 1965. ← Wikipedia | https://en.wikipedia.org/wiki/Promusicae

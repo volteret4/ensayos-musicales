@@ -1,0 +1,10 @@
+# artist - Marvin Phillips
+
+## songs
+**Cherry Pie** : A massive hit single by Marvin and Johnny, the duo Marvin Phillips continued after Jesse Belvin was drafted. On this record, the role of "Johnny" was played by Emory Perry. While a major success, none of their subsequent records matched its popularity. "Cherry Pay was a massive hit, but none of Marvin and Johnny's other records matched its success." ← Episode 47： ＂Goodnight My Love＂ by Jesse Belvin | https://www.youtube.com/watch?v=Eoyk3H0M6r8
+**Dream Girl** : A hit song by the duo Jesse and Marvin, where Marvin Phillips collaborated with Jesse Belvin. The track achieved significant commercial success, reaching number two on the R&B chart, and suggested a promising future for the duo. "Dream Girl went to number two on the R&B chart..." ← Episode 47： ＂Goodnight My Love＂ by Jesse Belvin | https://www.youtube.com/watch?v=Eoyk3H0M6r8
+**Kokomo (Cover)** : A cover version recorded by Marvin and Johnny, which included Jesse Belvin returning temporarily as one of the "Johnnys." This track, a follow-up to "Cherry Pie," failed to outsell either the original recording or Perry Como's popular version. "However, on some of the follow-ups, Jesse Belvin returned as one of the Johnny's, notably on a cover version of Kokomo, which didn't match to out-sell either the original or Perry Komo's version." ← Episode 47： ＂Goodnight My Love＂ by Jesse Belvin | https://www.youtube.com/watch?v=Eoyk3H0M6r8
+
+## curiosities
+**Continuation of Duo as Marvin and Johnny** : After Jesse Belvin was drafted into the Armed Forces, Marvin Phillips decided to continue their duo, renaming it Marvin and Johnny and signing with Modern Records. The "Johnny" role became fluid, filled by various people or even Marvin himself through double-tracking, allowing the group to continue with several minor hits. "Marvin decided to continue the duo without Jesse, renaming it Marvin and Johnny and moved over to modern records." ← Episode 47： ＂Goodnight My Love＂ by Jesse Belvin | https://www.youtube.com/watch?v=Eoyk3H0M6r8
+

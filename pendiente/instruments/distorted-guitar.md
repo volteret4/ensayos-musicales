@@ -1,0 +1,6 @@
+# instrument - Distorted Guitar
+
+## curiosities
+**Distinction from "Rocket 88" Distortion** : Unlike the distorted guitar heard on "Rocket 88," where the distortion was an unavoidable accident on recording day, Burlison intentionally chose to use the result of his amplifier accident when he could have easily had it in perfect working order, marking a conscious artistic decision. "But the difference there was that the accident happened on the day of the recording, with no time to fix it. This was Burlison choosing to use the result of the accident, at a point where he could easily have had the amplifier in perfect working order had he wanted to." ← Episode 44： ＂Train Kept A-Rollin'＂, by Johnny Burnette and the Rock 'n' Roll Trio | https://www.youtube.com/watch?v=u3zYAJ2qeR4
+**Possibly First Deliberately Recorded Instance** : The Rock and Roll Trio's Nashville sessions, spurred by Paul Burlison's amplifier accident, are considered possibly the first time a distorted guitar was deliberately chosen and recorded in music history. "and for possibly the first time ever, deliberately recorded a distorted guitar." ← Episode 44： ＂Train Kept A-Rollin'＂, by Johnny Burnette and the Rock 'n' Roll Trio | https://www.youtube.com/watch?v=u3zYAJ2qeR4
+

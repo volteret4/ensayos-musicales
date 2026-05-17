@@ -1,7 +1,8 @@
-# genre - Garage rock
+# genre - Garage Rock
 
 ## curiosities
-**Simple Rebellious Vibe** : Garage rock typically features two or three chords played on guitar, bass, and drums, characterized by a loose, rebellious vibe that prioritizes feeling good over complexity. "Garage rock, two or three chords played on guitar, bass and drums with a loose rebellious vibe. Nothing too complicated. It's just gotta feel good." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
+**"Farmer John" as a Standard** : Dillon Di's "Farmer John" had not yet become a garage rock standard until The Searchers' version was released on their debut album, which is credited for largely popularizing it within the genre. "Farmer John by Dillon Dui, which hadn't yet become a garage rock standard, and indeed seems to have become so largely because of the searches version." ← Episode 113： ＂Needles and Pins＂ by The Searchers | https://www.youtube.com/watch?v=izC9ZBI0UHM
+**2000s Revival Movement** : In the early 2000s, as mainstream rock became increasingly overproduced, a scene of bands emerged that deliberately returned to the rawer roots of rock. They revived the wild, low-fi sound of 1960s garage rock, emphasizing a more primitive and simple musical approach. "Recuperaron el sonido Loof-Fight, salvaje del garage rock de los 60s, rescataron la simplicidad del punk de los 70s, y revitalizaron los bajos gruesos y las límicas trotonas del Poppunk de los 80s." ← Por qué White Stripes desaparecieron en su mejor momento？ | https://www.youtube.com/watch?v=U6riaxMuOkQ
 **Antiquity and Cyclical Nature** : Garage rock is nearly as old as rock music itself, having first emerged in the early 1960s. Since then, it has consistently ebbed and flowed through the decades, experiencing constant revivals. "It is almost as old as rock itself. And since it first emerged in the early 1960s, it has ebbed and flowed constantly through the decades." ← Ongoing History of New Music > Alt Rock Revivals Part 3： Emo | https://www.youtube.com/watch?v=v_am7ifh7Pk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Biggest Revival (Late 1990s/Early 2000s)** : The most significant Garage Rock revival since punk occurred at the end of the 1990s and into the early 2000s. This resurgence was spurred by a disillusionment with the state of alternative rock, the burnout of grunge, the polarizing nature of nu-metal, and the dominance of pop music. It began in New York, with bands like The Strokes and The White Stripes, and coincided with a post-9/11 shift in public taste and youth seeking music with "more teeth, more bite." "This is what happened with Garage Rock at the very end of the 1990s in the early 2000s." ← Ongoing History of New Music > Alt Rock Revivals Part 4： Garage Rock | https://www.youtube.com/watch?v=UpWz3X33vSY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Cyclical Revival (Late 1960s, Early 2000s)** : Garage rock from the late 1960s played a role in the lineage of the Indie Rock Revival of the early 2000s, serving as a foundational style that was "repeated" and combined with punk. Bands like The Hives were part of this later revival. "which itself was a repeat of the garage rock of the late 60s, made it with a punk in the mid 1970s." ← Ongoing History of New Music > The 100 Greatest Rock Moments of the Millennium So Far - Part 2： (90-81) | https://www.youtube.com/watch?v=vJszsJQpINQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -15,12 +16,67 @@
 **Minor Revival: Garage Punk (Late 1980s/Early 1990s)** : After the punk explosion and its subsequent diversification in the 1980s, a minor revival emerged in the late 1980s and early 1990s, labeled "Garage Punk." These bands, such as The Headcoats, The Mighty Caesars, and The Mummies, drew more heavily from The Stooges than The Kingsmen, resulting in a louder and faster sound compared to the original Garage Rock acts. "After the punk explosion and its segmentation and stratification into many different forms throughout the 1980s, there was a minor revival in the late 80s and early 1990s." ← Ongoing History of New Music > Alt Rock Revivals Part 4： Garage Rock | https://www.youtube.com/watch?v=UpWz3X33vSY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Mixed with Pop Punk in 2010s** : Garage Rock elements were sometimes added to Pop Punk styles by "culty bands" in the 2010s. This mix created a harder edge for these bands, such as Wavves, Bass Drum of Death, Ty Segall, and PUP, contributing to the brief surge of Pop Punk during the decade. "And if you were inclined to look, you would have also found some interesting culty bands who plumbed Pop Punk styles and occasionally took things a little harder and then also maybe add a little garage rock to the mix." ← Ongoing History of New Music > The History of the 2010s Part 4： The Revivals | https://www.youtube.com/watch?v=HSvgRyGiOpE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Origins and Original Era (1964-1968)** : The roots of Garage Rock trace back to the early 1960s, sparked by inspiration from The Beatles and the British Invasion. Initially, it was simply called "Rock," not "Garage Rock." Its golden age was between 1964 (especially after The Beatles' Ed Sullivan appearance) and around 1968, when rock became more polished. An estimated 184,000 Garage bands formed in the US during those four years alone. "The roots of Garage Rock began in the early 1960s, when bands inspired by the Beatles and the rest of the British invasion started springing up like mushrooms." ← Ongoing History of New Music > Alt Rock Revivals Part 4： Garage Rock | https://www.youtube.com/watch?v=UpWz3X33vSY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Pacific Northwest Scene (Late 50s/Early 60s)** : Much of the music classified as Garage Rock or Frat Rock originated from the vibrant and innovative Pacific Northwest music scene of the late 1950s and early 1960s, which saw mostly white musicians performing their own electric guitar versions of music by black artists. "much of the music that gets labeled Gavage Rock or Frat Rock comes from that area." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
 **Persistent Underground Presence** : Garage Rock is characterized as an enduring underground phenomenon that consistently resurfaces into the mainstream at unexpected times and in unforeseen ways. Its long history suggests it is a lasting genre, always "bubbling up" and awaiting its next revival. "Garage Rock seems to be an underground thing that is always there. Something that's always bubbling up into the mainstream in unexpected ways at unexpected times." ← Ongoing History of New Music > Alt Rock Revivals Part 4： Garage Rock | https://www.youtube.com/watch?v=UpWz3X33vSY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Phenomenological Movement** : Garage Rock was not a formal genre with a unified aesthetic but rather a phenomenological movement characterized by a clear attitude. It involved young people from working-class neighborhoods, often without formal musical training, who created profoundly energetic, direct, and raw songs. Many were teenagers imitating bands like The Rolling Stones or The Kinks, but their lack of training and access to professional studios or equipment resulted in a distinct lo-fi, distortion-laden sound. "No era un genero formal, ni tenía una estética unificada, pero sí que compartía una actitud clara." ← El punk existía antes de Sex Pistols (y era algo salvaje) | https://www.youtube.com/watch?v=ilXpBujkWZE
+**Pioneered by Joey D and the Starlighters** : The stripped-down version of R&B performed by Joey D and the Starlighters, characterized by the organ as its dominant instrument, was a precursor to what would later become known as Garage Rock. "The kind of thing that would later get known as Garage Rock or Frat Rock." ← Episode 91： ＂The Twist＂ by Chubby Checker | https://www.youtube.com/watch?v=LzsS8EXdsm8
 **Ramones' Sound Influence** : The core of The Ramones' music was described as "bubblegum pop mixed with 60s garage rock played at a million miles an hour," defining their distinct, fast-paced style. "at its core, this music was bubblegum pop mixed with 60s garage rock played at a million miles an hour." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 3 | https://www.youtube.com/watch?v=VYi3r0G-ne4&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Rebellion Against Melodic Innocence** : In the Garage Rock movement, the melodic innocence associated with The Beatles was explicitly replaced by an expression of rage, alienation, and noise. This shift reflected a more visceral and confrontational approach to music, embodying a youthful rebellion against the polished sounds of the mainstream. "La inocencia melodica de los Beatles fue reemplazada por la rabia, la alinación y el ruido." ← El punk existía antes de Sex Pistols (y era algo salvaje) | https://www.youtube.com/watch?v=ilXpBujkWZE
 **Regional Diversity** : Garage Rock lacked a single, unified sound, instead exhibiting strong regional variations across different areas. For instance, Surf Rock developed distinctly on the American West Coast. "There was no one sound for Garage Rock bands. Everything was very regional." ← Ongoing History of New Music > Alt Rock Revivals Part 4： Garage Rock | https://www.youtube.com/watch?v=UpWz3X33vSY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Revival in Early 2000s** : Around the time The Strokes' debut album "Is This It" was gaining traction, there was significant talk about a garage rock revival. This movement, often associated with a "new look at an old sound," was seen as a key component of the broader Indy Rock Revival. "People were talking about a garage rock revival and the return of Indy Rock and a new look at an old sound." ← Ongoing History of New Music > The Strokes | https://www.youtube.com/watch?v=jEfofyobGiI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Sonic Compatibility with Cassette** : The inherent "reduced sound" quality of cassette tapes has made it a characteristic and attractive medium for genres like garage rock. This specific sound, though not objectively pure, is appreciated by passionate fans who find it suitable for their music. "el sonido del caset es como un sonido que se ha hecho muy característico en ciertos estilos de música como puede ser el rock de garage." ← Music Radar Clan > Coleccionar Cassettes. Cosas que hay que saber. | https://www.youtube.com/watch?v=W5mOafWo-28&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## artists
-- Shadowy Men on a Shadowy Planet
+- ? and the Mysterians
+- Banshee
+- Bass Drum of Death
+- Chad Allen and the Expressions
+- Count Five
+- International Noise Conspiracy
+- JET
+- Jay Reatar
+- Jet
+- Joe Strummer
+- Joey D and the Starlighters
+- L7
+- PUP
+- Question Mark in the Mysterians
+- The 5.6.7.8's
+- The 5678's
+- The Barbarians
+- The Black Keys
+- The Black Lips
+- The Brian Jones Town Massacre
+- The Clash
+- The Datsons
+- The Feminine Complex
+- The Guess Who
+- The Hives
+- The Horrors
+- The Jesus and Mary Chain
+- The Kingsmen
+- The Kinks
+- The Liberty's
+- The Monks
+- The Poppers
+- The Pretty Things
+- The Ramones
+- The Rolling Stones
+- The Seeds
+- The Shaggs
+- The Shags
+- The Standells
+- The Strangeloves
+- The Strokes
+- The Subways
+- The Trashmen
+- The Troggs
+- The Vines
+- The Von Bondis
+- The White Stripes
+- The Who
+- Ty Seagull
+- Ty Segall
+- Wavves
+- Ye-Eyes
 

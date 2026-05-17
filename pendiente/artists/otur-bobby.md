@@ -1,0 +1,6 @@
+# artist - Otur Bobby
+
+## curiosities
+**Recruitment of American Rappers** : In post-Cold War Germany, numerous American soldiers stationed in military bases would rap in clubs during their free time. German producers capitalized on this, signing these rappers for modest fees to construct an image around them and imbue their music with a touch of "American credibility" for mass appeal, a strategy exemplified by Otur Bobby's role in Snap!. "Tras la guerra fría, en Alemania, había muchas soldados estadounidenses destinados en bases militares. Muchos de ellos rapeaban en clubs en sus tiempos libres, y allí, me dónde los productores del país los fichaban por cuatro duros, y creaban toda una imagen alrededor de ellos para darle a su música, un válvite de credibilidad que llegara americana." ← La gran mentira detrás del Eurodance | https://www.youtube.com/watch?v=_F34L8wfrdo
+**The Power Vocalist (1990)** : Otur Bobby was an ex-military rapper who lent his voice to Snap!'s successful track "The Power." He was part of a trend where German producers recruited American rappers to add a sense of "American credibility" to their music. "Este es el caso del rapper Otur Bobby, el ex militar que pone voz a la canción de Power." ← La gran mentira detrás del Eurodance | https://www.youtube.com/watch?v=_F34L8wfrdo
+

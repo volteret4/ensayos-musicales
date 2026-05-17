@@ -1,0 +1,6 @@
+# label - Aldon Music
+
+## curiosities
+**Hub of the Brill Building Sound (1650 Broadway)** : Aldon Music, owned by Don Kirshner and Al Nevins, was a publishing company located at 1650 Broadway, which, despite not being the actual Brill Building (1619 Broadway), became so strongly associated with the "Brill Building Sound" that many histories and interviews conflate the two locations. It was responsible for much of that era's distinctive pop music. "Aldon is the publisher who, more than any single other company, was responsible for what became known as the Brill Building Sound." ← Episode 89： ＂Will You Love Me Tomorrow？＂ by the Shirelles | https://www.youtube.com/watch?v=7Kns2HGcuSg
+**Regimented Songwriting System** : Aldon Music operated with a highly regimented system where every writing team, including Goffin and King, worked in tiny cubicles during normal office hours. Each cubicle contained a piano and a couple of chairs. Kirshner's strategy involved having all his songwriters attempt to write follow-ups in the same style whenever a new act had a hit. "Aldon had a very regimented system. Every writing team had a tiny cubicle, containing a piano and a couple of chairs, in which they would work during normal office hours." ← Episode 89： ＂Will You Love Me Tomorrow？＂ by the Shirelles | https://www.youtube.com/watch?v=7Kns2HGcuSg
+

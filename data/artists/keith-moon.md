@@ -4,6 +4,10 @@
 - The Who
 
 ## curiosities
-**Godfather to Zach Starkey** : Keith Moon of The Who was the godfather of Zach Starkey and gave him his first drum kit. "He got his first kit from Keith Moon of the Who, who was also his godfather." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk
-**21st Birthday Party Destruction (August 23, 1967)** : Keith Moon, the "king of hotel room demolition," celebrated his 21st birthday on August 23, 1967, at the Holiday Inn in Flint, Michigan, resulting in a "crazy party" that left the hotel a "disaster." Legend has it that a Lincoln Continental, driven by Keith Moon, ended up in the swimming pool, initiating the "rock and roll cliche." The hotel damage amounted to $24,000 in 1967, which is approximately $200,000 today. "Legend is that a Lincoln Continental driven by Keith ended up in the swimming pool." ← https://www.youtube.com/watch?v=zM3gu_nbw-k ← keith-moon
+**21st Birthday Party Destruction (August 23, 1967)** : Keith Moon, the "king of hotel room demolition," celebrated his 21st birthday on August 23, 1967, at the Holiday Inn in Flint, Michigan, resulting in a "crazy party" that left the hotel a "disaster." Legend has it that a Lincoln Continental, driven by Keith Moon, ended up in the swimming pool, initiating the "rock and roll cliche." The hotel damage amounted to $24,000 in 1967, which is approximately $200,000 today. "Legend is that a Lincoln Continental driven by Keith ended up in the swimming pool." ← https://www.youtube.com/watch?v=zM3gu_nbw-k ← keith-moon ← keith-moon
+**Godfather to Zach Starkey** : Keith Moon of The Who was the godfather of Zach Starkey and gave him his first drum kit. "He got his first kit from Keith Moon of the Who, who was also his godfather." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← keith-moon
 
+
+
+## charts
+**"98.6" — Billboard Year-End Hot 100** : #79, 1967. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

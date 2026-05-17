@@ -1,0 +1,9 @@
+# artist - The Hillside Singers
+
+## songs
+**I'd Like to Teach the World to Sing (in Perfect Harmony) (1971)** : This "twangy version" was quickly assembled by McCann Erickson, the ad agency behind the Coca-Cola commercial, when The New Seekers were unavailable to record a full-length single. It was released first and competed directly with The New Seekers' version, peaking at number 13 on the Hot 100 in January 1972. "Their twangy version of the single was actually released first." ← Hit Parade Music History and Music Trivia > I’d Like to Teach the World to Buy Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cc5
+
+## curiosities
+**McCann Erickson Assembly (1971)** : The group was quickly assembled by the ad agency McCann Erickson in the summer of 1971, in a "shameless bid" to evoke the beloved "Hilltop" TV commercial. This occurred because The New Seekers, who recorded the original jingle, were unavailable to immediately go back into the studio to record a product-free single version. "So, McCann Erickson quickly assembled a studio group, which they called the Hillside Singers, in a shameless bid to evoke the beloved TV commercial hilltop." ← Hit Parade Music History and Music Trivia > I’d Like to Teach the World to Buy Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cc5
+**Name Origin** : The Hillside Singers were explicitly named after the television commercial called "Hilltop," which advertised Coca-Cola and had taken pop culture by storm in 1971, directly linking their identity to the famous advertisement. "They were named after a television commercial called Hilltop that advertised Coca-Cola." ← Hit Parade Music History and Music Trivia > I’d Like to Teach the World to Buy Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cc5
+

@@ -1,16 +1,25 @@
-# artist - M/A/R/R/S
+# artist - M|A|R|R|S
 
 ## members
-- Alex
-- Ivo Watts Russell
-- Martin
-- Rudy
-- Stephen
+- Alex Ayuli (AR Kane)
+- Martin Young (Colorbox)
+- Rudy Tambala (Colorbox)
+- Russell Smith (Colorbox associate)
+- Steve Young (Colorbox)
+
+## labels
+- 4AD
 
 ## songs
-**Pump Up The Volume (1987) – Groundbreaking Sample-Based Single** : Created by five London-based producers and musicians (Martin, Alex, Rudy, Ivo Watts Russell, and Stephen, whose initials formed the band name M/A/R/R/S), this single was a groundbreaking musical collage. It extensively used samples from diverse sources including Israeli singer Ofra Haza, James Brown, the Iranian Revolutionary Army chorus, and rap duo Eric B. & Rakim, with the latter's sample providing the song's title. Initially distributed anonymously on 500 white labels to club DJs in the fall of 1987, its sounds and ideas rapidly spread through dance clubs and eventually into mainstream pop and rock, making a long-lasting impact despite not being the first sampled hit. "The song was issued under a name made up of the initials of the five main guys behind the project." ← https://www.youtube.com/watch?v=Somq2MoRi5Q
-**Pump Up the Volume (N/A)** : A global number one hit constructed almost entirely from samples, with minimal original music. The track incorporated elements from no fewer than 29 other sources, including old recordings and movie trailers. "This is Mars and Pump Up the Volume." ← Ongoing History of New Music > The Rock Explainer - 6 | https://www.youtube.com/watch?v=dnQ1pNbIUjw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Pump Up the Volume (1987)** : Described as a "Frankenstein monster," this song features 29 samples combined with original elements, drawing from artists like The Jam, James Brown, Run DMC, Coldcut, Eric B. & Rakim, and Trouble Funk. Due to sample clearance issues, several samples were removed from UK recordings and replaced for North American and international releases and remixes. It achieved immense cultural and musical influence, reaching number one in the UK, Canada, the Netherlands, and New Zealand, and was a top 10 hit in many other countries and on various dance charts. As of February 2026, it had 27.8 million plays and views, with a one-hit wonder score of 2.99, and remains the group's only single release. "The song is a Frankenstein monster of 29 samples combined with some original bits." ← Ongoing History of New Music > The 50 Biggest All-Time Alt-Rock One-Hit Wonders： Part 1 | https://www.youtube.com/watch?v=_qxdftwrX3E&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## curiosities
-**White Label Distribution of "Pump Up The Volume"** : To introduce their innovative sample-heavy single "Pump Up The Volume," M/A/R/R/S distributed 500 anonymous white label copies to club DJs. This strategy allowed the track's sounds and ideas to spread organically through dance clubs before breaking into mainstream pop and rock, contributing to its significant and lasting impact. "This song was mailed out on an anonymous white label to 500 club DJs, and from there the sounds and ideas spread, first through the dance clubs, and finally into mainstream pop and rock." ← https://www.youtube.com/watch?v=Somq2MoRi5Q
+**Acronymic Band Name** : The name M|A|R|R|S is an acronym formed from the first initials of the individuals involved in the project: Martin Young, Alex Ayuli, Rudy Tambala, Russell Smith, and Steve Young. "The name is an acronym taken from the initials of the first names of the people involved, Martin Young from Colorbox, Alex Auley from AR Kane, Rudy Tambawa also from Colorbox, Russell Smith, an associate of Colorbox, and Steve Young, another member of Colorbox." ← Ongoing History of New Music > The 50 Biggest All-Time Alt-Rock One-Hit Wonders： Part 1 | https://www.youtube.com/watch?v=_qxdftwrX3E&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Collaborative Formation** : The group was a collaboration between two acts signed to Britain's 4AD label: AR Kane and Colorbox. "This was a one-time only project by a couple of groups on Britain's 4AD label, AR Kane and Colorbox." ← Ongoing History of New Music > The 50 Biggest All-Time Alt-Rock One-Hit Wonders： Part 1 | https://www.youtube.com/watch?v=_qxdftwrX3E&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**One-Time Project** : M|A|R|R|S was a unique, one-off project, with "Pump Up the Volume" being their only single ever released. "Not only is it a one-hit wonder, but it's the only single period from this group." ← Ongoing History of New Music > The 50 Biggest All-Time Alt-Rock One-Hit Wonders： Part 1 | https://www.youtube.com/watch?v=_qxdftwrX3E&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Sample Clearance Challenges** : The extensive sampling in "Pump Up the Volume" led to complications, necessitating the removal and replacement of certain samples for different international releases and remixes. "Dance remixes mostly, but because it issues with some of the samples, several had to be removed from the UK recordings and replaced with new ones for North American and international releases and remixes." ← Ongoing History of New Music > The 50 Biggest All-Time Alt-Rock One-Hit Wonders： Part 1 | https://www.youtube.com/watch?v=_qxdftwrX3E&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
+
+
+## charts
+**"667" — NME Chart** : 3 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

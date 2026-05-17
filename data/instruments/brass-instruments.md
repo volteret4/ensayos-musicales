@@ -1,5 +1,8 @@
-# instrument - Brass Instruments
+# instrument - Brass instruments
 
 ## curiosities
-**Added Effect in Ska** : For added effect, Ska songs often feature brass instruments such as a trombone or saxophone, contributing to the genre's characteristic sound. "For added effect, the song might also have brass instruments like a trombone or saxophone." ← https://www.youtube.com/watch?v=WX2GlpMNg_8 ← brass-instruments
+**Post-Civil War Brass Instrument Availability** : Following the Civil War, a surplus of military brass instruments became cheaply available, significantly contributing to the rise of brass band music in New Orleans. "All those brass instruments that had been made for the military, suddenly no longer needed for a war and available cheap." ← Episode 8： The Fat Man and Fats Domino | https://www.youtube.com/watch?v=A-1R-DbVdcM
+
+## artists
+- Arcade Fire
 

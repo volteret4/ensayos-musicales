@@ -7,5 +7,12 @@
 - Portastudio
 
 ## curiosities
-**Portastudio Recordings (Early 1990s)** : Based in Dayton, Ohio, Robert Pollard worked with his band Guided By Voices, utilizing a Portastudio unit for their recordings in the early 1990s. This choice of home recording equipment aligned him with the low-fidelity movement, showcasing an artistic preference for accessible and unpolished production methods. "Meanwhile, Robert Pollard was out in Dayton, Ohio, working with his band, Guided By Voices, using a port of studio unit." ← https://www.youtube.com/watch?v=Jq-e-fZxXOs ← robert-pollard
+**Portastudio Recordings (Early 1990s)** : Based in Dayton, Ohio, Robert Pollard worked with his band Guided By Voices, utilizing a Portastudio unit for their recordings in the early 1990s. This choice of home recording equipment aligned him with the low-fidelity movement, showcasing an artistic preference for accessible and unpolished production methods. "Meanwhile, Robert Pollard was out in Dayton, Ohio, working with his band, Guided By Voices, using a port of studio unit." ← https://www.youtube.com/watch?v=Jq-e-fZxXOs ← robert-pollard ← robert-pollard
 
+
+
+## awards
+**Shortlist Music Prize (2007) — Standard Gargoyle Decisions** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q7502207
+
+## lists
+**"Not In My Airforce" (1996) — Sputnikmusic Best Albums 1996** : #16, 4.27 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/

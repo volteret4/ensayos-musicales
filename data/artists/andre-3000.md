@@ -1,6 +1,7 @@
 # artist - Andre 3000
 
 ## member of
+- OutKast
 - Outkast
 
 

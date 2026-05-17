@@ -1,0 +1,19 @@
+# artist - Jim Stafford
+
+## genres
+- Novelty Song
+
+## instruments
+- Multiple instruments
+
+## songs
+**My Girl Bill (Early 1970s)** : This song intentionally played with humor by leading listeners to believe "Bill" was his girl, a concept that might not be perceived the same way today. It is considered a more traditional novelty song. "My Girl Bill which intentionally has the listener thinking that Bill was his girl and he played this for humor in the early 70s." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
+**Spiders and Snakes (1974)** : Released in January 1974, this song is described as "half song half spoken," humorous, and a good story. Co-written with David Bellamy, it reached number three on the Billboard Hot 100 the week of March 2nd, 1974. The song tells a story about Mary Lou and the narrator's attempt to impress her with a frog, leading to her famous line, "I don't like spiders and snakes and that ain't what it takes to love me." Musically, it is described as "swampy" and reminiscent of Creedence Clearwater Revival. "Released in January 1974 spiders and snakes made it all the way to number three on the billboard hot 100 the week of March 2nd." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
+
+## curiosities
+**ABC Variety Show (Summer 1975)** : Stafford hosted his own variety show on ABC during the summer of 1975, a common trend for artists at the time. "He had a variety show in the summer of 1975 on ABC." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
+**Branson Live Act (Ended 2020)** : Later in his life, Stafford maintained a very long-running live act in Branson, Missouri, which only ceased due to the COVID-19 pandemic in 2020. "Later in life he had a very long-running live act in Branson Missouri that only stopped because of COVID in 2020." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
+**Career in Novelty Songs** : Jim Stafford built a career as a talented musician and performer specializing in novelty songs. He is known for playing multiple instruments and writing many of his songs. "Jim Stafford, a very talented musician and performer who made a career out of novelty songs." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
+**Inspiration from Edgar Allan Poe** : One of Stafford's inspirations was Edgar Allan Poe, particularly for the imagery Poe used in his literature, which Stafford attempted to replicate in his songs. "One of his inspirations is Edgar Alan Poe because of the imagery that Poe uses in his literature Stafford tried to replicate that in his songs." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
+**Vocal Insecurities** : He recorded many of his novelty songs by "half singing, half talking" due to personal insecurities about his voice, despite possessing a clearly good voice. "He recorded variety songs because of his own insecurities about his voice so in a lot of his songs he kind of half sings, half talks." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
+

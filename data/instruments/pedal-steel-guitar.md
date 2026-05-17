@@ -1,7 +1,11 @@
-# instrument - Pedal Steel Guitar
+# instrument - Pedal steel guitar
 
 ## curiosities
-**Elvino Ray, Father of the Instrument** : Elvino Ray, Win Butler's grandfather, is recognized as the "father of the pedal steel guitar" and is honored for his contributions at the Steel Guitar Hall of Fame in St. Louis. "And if you go to St. Louis to the steel guitar hall of fame, yes, there is a steel guitar hall of fame. Elvino is described as the father of the pedal steel guitar." ← https://www.youtube.com/watch?v=Q_c-m_NDznw ← pedal-steel-guitar
-**Role in Country Rock Sound** : The pedal steel guitar, as played by Rusty Young on Buffalo Springfield's "Kind Woman," was a key "country instrument" that contributed to the nascent country rock sound, blending with "Richie's rock and roll melodies." "the palette to color that would be country instruments that was country rock." ← For the Record - The 70s > Ep. 35 - Cosmic American Music - 70s Country Rock | https://seventies.libsyn.com/ep-35-cosmic-american-music-70s-country-rock
-**Rusty Young's Mastery** : U. Cutler, in a 1972 review, lauded Poco's co-founder Rusty Young as a "master stroke of the pedal still guitar," highlighting his significant contribution to the band's sound. "he called co founder rusty young a my stroke of the pedal still guitar." ← For the Record - The 70s > Ep. 35 - Cosmic American Music - 70s Country Rock | https://seventies.libsyn.com/ep-35-cosmic-american-music-70s-country-rock
+**Presence in Crossover Hits** : The pedal steel guitar was present in crossover hits like Dolly Parton's "Here You Come Again" and Charlie Rich's "The Most Beautiful Girl," but its presence alone does not define a song as country, as exemplified by BJ Cole playing it on Elton John's "Tiny Dancer," which is not considered country. "I mean, it's got that pedal steel guitar, but that alone can't make a song country." ← For the Record - The 70s > Ep. 2 - Countryish Music of the 1970s (Encore) | https://www.ftr70.com/
+**Prominence in "Fairy Tale"** : The pedal steel guitar features prominently in The Pointer Sisters' country song "Fairy Tale," contributing to its distinct country sound. "Love the steel. The pedal steel guitar fairy tale." ← For the Record - The 70s > Ep. 53 - More than Charley Pride - African Americans in 70s Country | https://www.ftr70.com/
+
+## artists
+- BJ Cole
+- Dolly Parton
+- Elton John
 

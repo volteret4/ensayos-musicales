@@ -1,8 +1,7 @@
-# instrument - Talk box
+# instrument - Talk Box
 
 ## curiosities
-**First Used on "Beverly Hills"** : The talk box on a guitar was used for the first time in a Weezer song on "Beverly Hills." This marked a new sonic exploration for the band. "It was also the first Weezer song to use a talk box on a guitar." ← https://www.youtube.com/watch?v=LYRPxtP61JM
-
-## artists
-- Weezer
+**Early Studio Use** : Pete Drake created a small, quiet talk box that was initially used for steel guitar in the studio, designed to distort the sound into something unique and almost robotic. "Pete Drake. This small kind of quiet talk box for a new song called Rocky Mountain Way." ← For the Record - The 70s > Ep. 46 - The Chaos and Music of the Ozark Music Festival of 1974 | https://www.ftr70.com/
+**Elvino Ray's Role in Invention (1930s)** : Elvino Ray, Win Butler's grandfather, helped invent the talk box device in the 1930s, a device famously used by musicians like Peter Frampton with their guitars, demonstrating his innovative spirit in instrument development. "You know those talk boxes used by people like Peter Frampton with their guitars? It's a ridiculous device, but Elvino Ray helped invent that back in the 1930s." ← Ongoing History of New Music > Who the Hell is Arcade Fire？ Part 1 | https://www.youtube.com/watch?v=Q_c-m_NDznw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Live Performance Innovation** : Joe Walsh recognized the cool sound of the talk box but struggled to replicate it live. Bob Hyle, an electronics expert who bonded with Walsh over ham radios, created a high-powered talk box specifically for live performances of "Rocky Mountain Way," overcoming the limitations of existing equipment and helping to establish an "indelible sound of 70s rock" that Peter Frampton also utilized. "Hyle created a high powered talk box just for Rocky Mountain Way." ← For the Record - The 70s > Ep. 46 - The Chaos and Music of the Ozark Music Festival of 1974 | https://www.ftr70.com/
 

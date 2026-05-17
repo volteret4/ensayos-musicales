@@ -1,0 +1,5 @@
+# instrument - Toca discos
+
+## curiosities
+**Technological Advancements (Driven by DJ Culture)** : The evolution of the vinyl record and turntable as musical instruments sparked a period of intense technological improvement. This led to a "golden age" for brands like Technics and Pioneer, who developed sophisticated motor systems and improved needles for modern turntables, all thanks to the electronic music industry. "a día de hoy tenemos discos de grandísima calidad de audio muy durables y con muchísima reducción de ruido gracias a toda la investigación que hizo sobre todo Technics y Pioneer para la producción industrial para la industria de los DJs y luego tenemos los platos modernos hoy en día con complejísimos procesos, agujas muchísimo mejores e incluso procesos de motor de los platos muy pulidos que han sido gracias a toda esta industria de la música electrónica." ← Music Radar Clan > ESPECIAL FORMATOS： Historia del Vinilo. | https://www.youtube.com/watch?v=XPrymLbp3Ag&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+

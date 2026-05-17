@@ -4,5 +4,9 @@
 - Mike Shinoda
 
 ## albums
-**The Rising Tied (2005)** : This was a successful side project initiated by Mike Shinoda during Linkin Park's hiatus between the *Meteora* and *Minutes to Midnight* albums. "And once that was done he had his Fort Miner side project, which also did very well." ← https://www.youtube.com/watch?v=YcdidjWaIqE
+**The Rising Tied (2005)** : This was a successful side project initiated by Mike Shinoda during Linkin Park's hiatus between the *Meteora* and *Minutes to Midnight* albums. "And once that was done he had his Fort Miner side project, which also did very well." ← https://www.youtube.com/watch?v=YcdidjWaIqE ← fort-minor
 
+
+
+## charts
+**"Where'd You Go" — Billboard Year-End Hot 100** : #43, 2006. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

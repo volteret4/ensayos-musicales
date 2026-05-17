@@ -1,0 +1,18 @@
+# artist - Marie Adams
+
+## member of
+- The Three Tons of Joy
+
+## labels
+- Capital Records
+- P-Cock Records
+
+## songs
+**I'm Gonna Play the Honky Tonks (Early 1950s)** : Marie Adams's debut single for P-Cock Records was a significant success, reaching number three on the R&B chart. It became one of the biggest hit records the label had ever released, affirming Don Robey's hope that she could become another "Big Mama Thornton." "I'm going to play the hunky thunks, went to number three on the R&B chart, and became one of the biggest hit records P-Cock had ever released." ← REUPLOAD Episode 71： ＂Willie and the Hand Jive＂ by Johnny Otis | https://www.youtube.com/watch?v=Ez6BCUlI6Rg
+**In Memory (1955)** : Marie Adams's final record for P-Cock Records, produced by Johnny Otis in 1955, was part of a series of tribute records released after Johnny Ace's death. This particular recording performed so poorly commercially that it has never received an official re-release, not even on digital compilations featuring other tributes to Ace. "But that did so poorly. That it's never had an official re-release. Not even on a digital compilation I have, which has half a dozen other tributes to A-Somit, by people like Villette de Dillard and Linda Hayes." ← REUPLOAD Episode 71： ＂Willie and the Hand Jive＂ by Johnny Otis | https://www.youtube.com/watch?v=Ez6BCUlI6Rg
+**My Song (Mid-1950s)** : This song was Marie Adams's follow-up single for P-Cock Records, a version of Johnny Ace's song. Its selection was likely influenced by Don Robey owning the publishing rights rather than its suitability for Adams's voice or arrangement. The song did not achieve significant commercial success. "The follow-up was a version of Johnny Aces' My Song, which seems to have been chosen more because Don Roby owned the publishing than because the song and arrangement were a good fit for her voice, and it didn't do anything much commercially." ← REUPLOAD Episode 71： ＂Willie and the Hand Jive＂ by Johnny Otis | https://www.youtube.com/watch?v=Ez6BCUlI6Rg
+
+## curiosities
+**Early Career and Signing (Pre-1953)** : Born Oli Marie Givens, she dropped "Oli" early in her career. Marie Adams had been active on the R&B scene for many years and joined Johnny Otis's show in 1953. She was a shy individual, requiring encouragement from her husband to audition for Don Robey at P-Cock Records. Robey signed her after challenging her to sing along to Dinah Washington's "Harbour Light," hoping she would become as successful as "Big Mama Thornton." "She'd been born Oli Marie Givens, but dropped the Oli early on. She was a shy woman who had to be pushed by her husband toward addition for Don Roby at P-Cock Records." ← REUPLOAD Episode 71： ＂Willie and the Hand Jive＂ by Johnny Otis | https://www.youtube.com/watch?v=Ez6BCUlI6Rg
+**Post-P-Cock Career with Johnny Otis** : After her less successful later career with P-Cock Records, where she was even handed over to Johnny Otis for production in hopes of hits that didn't materialize, Adams was dropped by the label in 1955. However, Otis, impressed by her vocal talent, kept her in his band as the lead singer of The Three Tons of Joy. She rejoined Otis's band in 1972 for further touring. "Adams was dropped by her record label, but she was impressive enough as a vocalist, the Otis, who always had an ear for great singing. kept her in his band, as the lead singer of a vocal trio, the three tons of joy, who were so called because they were all extremely fat." ← REUPLOAD Episode 71： ＂Willie and the Hand Jive＂ by Johnny Otis | https://www.youtube.com/watch?v=Ez6BCUlI6Rg
+

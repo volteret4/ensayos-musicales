@@ -1,5 +1,9 @@
 # artist - The Dust Brothers
 
 ## curiosities
-**Absence from "Check Your Head" Production** : The Dust Brothers, who were involved in *Paul's Boutique*, were not present to "take control" during the recording of *Check Your Head*, leaving the Beastie Boys to produce the album largely on their own. "The dust brothers weren't there to take control, so it was just the Beastie Boys doing their Beastie Boys thing." ← https://www.youtube.com/watch?v=HZzP0qswdwM ← the-dust-brothers
+**Absence from "Check Your Head" Production** : The Dust Brothers, who were involved in *Paul's Boutique*, were not present to "take control" during the recording of *Check Your Head*, leaving the Beastie Boys to produce the album largely on their own. "The dust brothers weren't there to take control, so it was just the Beastie Boys doing their Beastie Boys thing." ← https://www.youtube.com/watch?v=HZzP0qswdwM ← the-dust-brothers ← the-dust-brothers
 
+
+
+## lists
+**"Fight Club: The Original Motion Picture" (1999) — Sputnikmusic Best Albums 1999** : #98, 4.07 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1999/

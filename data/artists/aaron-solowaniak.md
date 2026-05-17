@@ -4,27 +4,28 @@
 - Aaron Solowaniak (drummer)
 
 ## curiosities
-**Band Banker** : Aaron Solowaniak was considered the band's "banker" because he used his well-paying job at Chrysler to max out his credit card and fund the band's early demos and studio time when no one else had the means to do so. "We're in hell of a paycheck, though, because he paid for all of our demos. Yeah. Is that true? Yeah. I just, when we were making the demos, I would just max out the credit card to pay for the studio time. And then we'd eventually pay it back. But we just needed money. So, and I had a credit card because I had a job at Chrysler." ← https://www.youtube.com/watch?v=cZlLH9J_lJw ← aaron-solowaniak
-**Chrysler Job (1996, Brampton)** : Aaron worked on the assembly line at a Chrysler plant in Brampton in 1996. It was described as a good-paying job with benefits. "You were working on the line. Working on the line. Yeah. In Brampton. Great job. Good pay." ← https://www.youtube.com/watch?v=cZlLH9J_lJw ← aaron-solowaniak
-**Chrysler Job Description** : Aaron's job at Chrysler involved inserting six screws every 46 seconds, 500 times a day, at the bottom of a car door using a torque wrench and a sticker. He described it as a "craziest job" where one "leave[s] your brain at the door" and acts "basically a robot." "Oh, man, I would insert six screws every 46 seconds for 500 times a day at the bottom of a door that came up. It was just, it was the craziest job I've ever done in my life because you just leave your brain at the door and you don't really talk to anyone. Sometimes you make friends with people. But for the most part, you're basically a robot." ← https://www.youtube.com/watch?v=cZlLH9J_lJw ← aaron-solowaniak
-**Golden Griddle Busboy** : Aaron Solowaniak and Ian D'Sa both worked together as busboys at a Golden Griddle restaurant "way, way back in the day." "We both worked at Golden Griddle as busboys together way, way back in the day." ← https://www.youtube.com/watch?v=cZlLH9J_lJw ← aaron-solowaniak
-**MS Diagnosis and Career Shift** : Aaron was diagnosed with MS, which posed a significant challenge. At 24, he faced the difficult decision of leaving a stable, well-paying job with benefits at Chrysler to pursue his dream of being a drummer, a choice heavily influenced by his personal struggles at the time. This decision marked a "huge rebirth" for both him and the band. "Well, Aaron had been diagnosed with MS, which obviously threw us all in for a loop. ... And for me, at that time, in my life, I had to make the decision of staying at the good job that paid well and had benefits. ... But I was really just chasing this dream of being a drummer. And it just meant so much more to me because I was going through so much hard stuff in my life at that point. So, yeah, it was a huge rebirth for me personally and the band." ← https://www.youtube.com/watch?v=cZlLH9J_lJw ← aaron-solowaniak
-**Replaced Ben as Drummer** : Aaron Solowaniak replaced Ben Kowalewicz as the drummer in the band To Each His Own, impressing the other members with his superior drumming skills. "And it was Aaron. And so I got the boot out of the band." ← https://www.youtube.com/watch?v=cZlLH9J_lJw ← aaron-solowaniak
+**Band Banker** : Aaron Solowaniak was considered the band's "banker" because he used his well-paying job at Chrysler to max out his credit card and fund the band's early demos and studio time when no one else had the means to do so. "We're in hell of a paycheck, though, because he paid for all of our demos. Yeah. Is that true? Yeah. I just, when we were making the demos, I would just max out the credit card to pay for the studio time. And then we'd eventually pay it back. But we just needed money. So, and I had a credit card because I had a job at Chrysler." ← https://www.youtube.com/watch?v=cZlLH9J_lJw ← aaron-solowaniak ← aaron-solowaniak
+**Chrysler Job (1996, Brampton)** : Aaron worked on the assembly line at a Chrysler plant in Brampton in 1996. It was described as a good-paying job with benefits. "You were working on the line. Working on the line. Yeah. In Brampton. Great job. Good pay." ← https://www.youtube.com/watch?v=cZlLH9J_lJw ← aaron-solowaniak ← aaron-solowaniak
+**Chrysler Job Description** : Aaron's job at Chrysler involved inserting six screws every 46 seconds, 500 times a day, at the bottom of a car door using a torque wrench and a sticker. He described it as a "craziest job" where one "leave[s] your brain at the door" and acts "basically a robot." "Oh, man, I would insert six screws every 46 seconds for 500 times a day at the bottom of a door that came up. It was just, it was the craziest job I've ever done in my life because you just leave your brain at the door and you don't really talk to anyone. Sometimes you make friends with people. But for the most part, you're basically a robot." ← https://www.youtube.com/watch?v=cZlLH9J_lJw ← aaron-solowaniak ← aaron-solowaniak
+**Golden Griddle Busboy** : Aaron Solowaniak and Ian D'Sa both worked together as busboys at a Golden Griddle restaurant "way, way back in the day." "We both worked at Golden Griddle as busboys together way, way back in the day." ← https://www.youtube.com/watch?v=cZlLH9J_lJw ← aaron-solowaniak ← aaron-solowaniak
+**MS Diagnosis and Career Shift** : Aaron was diagnosed with MS, which posed a significant challenge. At 24, he faced the difficult decision of leaving a stable, well-paying job with benefits at Chrysler to pursue his dream of being a drummer, a choice heavily influenced by his personal struggles at the time. This decision marked a "huge rebirth" for both him and the band. "Well, Aaron had been diagnosed with MS, which obviously threw us all in for a loop. ... And for me, at that time, in my life, I had to make the decision of staying at the good job that paid well and had benefits. ... But I was really just chasing this dream of being a drummer. And it just meant so much more to me because I was going through so much hard stuff in my life at that point. So, yeah, it was a huge rebirth for me personally and the band." ← https://www.youtube.com/watch?v=cZlLH9J_lJw ← aaron-solowaniak ← aaron-solowaniak
+**Replaced Ben as Drummer** : Aaron Solowaniak replaced Ben Kowalewicz as the drummer in the band To Each His Own, impressing the other members with his superior drumming skills. "And it was Aaron. And so I got the boot out of the band." ← https://www.youtube.com/watch?v=cZlLH9J_lJw ← aaron-solowaniak ← aaron-solowaniak
+
 
 
 ## lists
-**"I Could Live In Hope" (1994) — AOTY Must Hear 1990s** : #309, 8.0/10 Scaruffi.
-**"Things We Lost In The Fire" (2001) — AOTY Must Hear 2000s** : #472, 7.0/10 Scaruffi.
-**"Double Negative" (2018) — AOTY Must Hear 2010s** : #141, 85 AOTY.
-**"C'mon" (2011) — AOTY Must Hear 2010s** : #857, 81 AOTY.
-**"HEY WHAT" (2021) — AOTY Must Hear 2020s** : #517, 82 AOTY.
-**"I Could Live In Hope" (1994) — Scaruffi 1990s** : #87, 8.0/10 Scaruffi.
-**"Long Division" (1995) — Scaruffi 1990s** : #261, 7.5/10 Scaruffi.
-**"The Curtain Hits The Cast" (1996) — Scaruffi 1990s** : #876, 7.0/10 Scaruffi.
-**"Secret Name" (1999) — Scaruffi 1990s** : #877, 7.0/10 Scaruffi.
-**"Trust" (2002) — Scaruffi 2000s** : #100, 7.5/10 Scaruffi.
-**"Things We Lost In The Fire" (2001) — Scaruffi 2000s** : #497, 7.0/10 Scaruffi.
-**"Double Negative" (2018) — Pitchfork: The 200 Best Albums of the 2010s** : #96, 85 AOTY.
-**"I Could Live In Hope" (1994) — Sputnikmusic Best Albums 1994** : #67, 8.0/10 Scaruffi.
-**"Double Negative" (2018) — Sputnikmusic Best Albums 2018** : #69, 85 AOTY.
-**"Hey What" (2021) — Sputnikmusic Best Albums 2021** : #61, 3.87 Sputnik.
+**"I Could Live In Hope" (1994) — AOTY Must Hear 1990s** : #309, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
+**"Things We Lost In The Fire" (2001) — AOTY Must Hear 2000s** : #472, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
+**"Double Negative" (2018) — AOTY Must Hear 2010s** : #141, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
+**"C'mon" (2011) — AOTY Must Hear 2010s** : #857, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
+**"HEY WHAT" (2021) — AOTY Must Hear 2020s** : #517, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
+**"I Could Live In Hope" (1994) — Scaruffi 1990s** : #87, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Long Division" (1995) — Scaruffi 1990s** : #261, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"The Curtain Hits The Cast" (1996) — Scaruffi 1990s** : #876, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Secret Name" (1999) — Scaruffi 1990s** : #877, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Trust" (2002) — Scaruffi 2000s** : #100, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Things We Lost In The Fire" (2001) — Scaruffi 2000s** : #497, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Double Negative" (2018) — Pitchfork: The 200 Best Albums of the 2010s** : #96, 85 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
+**"I Could Live In Hope" (1994) — Sputnikmusic Best Albums 1994** : #67, 8.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
+**"Double Negative" (2018) — Sputnikmusic Best Albums 2018** : #69, 85 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2018/
+**"Hey What" (2021) — Sputnikmusic Best Albums 2021** : #61, 3.87 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2021/

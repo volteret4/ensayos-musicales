@@ -1,0 +1,7 @@
+# artist - Joe Robinson
+
+## curiosities
+**Financier of Hip-Hop Venture** : Joe Robinson's "gangster friend Morris Levy" provided financing for Sylvia Robinson's venture into hip-hop, which led to her significant role in the genre in 1979. "with financing from our husbands gangster friend Maris Lovie." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
+**Gangster Connections and Manager Role** : Joe Robinson, Sylvia Van Topoele's boyfriend, had connections with gangsters. He decided to become Sylvia's manager, believing he could boost her floundering career. "Joe Robinson was involved in some way with gangsters. Nobody has written enough detail for me to get an exact sense of what it was he did with the mob, but he had connections, and he decided he was going to become Sylvia's manager." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
+**Managerial Idea for Duo** : Some sources suggest that the idea for Sylvia to form a duo with Mickey Baker was Joe Robinson's, inspired by the success of other vocal duos like Jean and Junis. "Some sources say that the duo was Joe Robinson's idea, and that it was inspired by the success of Jean and Junis, Sheldon Lee and the other vocal duo's around the time." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
+

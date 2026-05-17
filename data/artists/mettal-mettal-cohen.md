@@ -4,5 +4,10 @@
 - Drums
 
 ## curiosities
-**YouTube Drum Cover Artist** : Mettal Cohen is a highly skilled drum cover artist featured on YouTube. She is known for her exceptional ability to cover complex drum parts, specifically excelling at reproducing Neil Peart's intricate drumming from bands like Rush or Tool. "Metal Cohen is really, really good. She kills it when covering Neil Peiritz parts." ← https://www.youtube.com/watch?v=9GHpC0kCgHY
+**YouTube Drum Cover Artist** : Mettal Cohen is a highly skilled drum cover artist featured on YouTube. She is known for her exceptional ability to cover complex drum parts, specifically excelling at reproducing Neil Peart's intricate drumming from bands like Rush or Tool. "Metal Cohen is really, really good. She kills it when covering Neil Peiritz parts." ← https://www.youtube.com/watch?v=9GHpC0kCgHY ← mettal-mettal-cohen
 
+
+
+## lists
+**"Seasons" (2003) — Scaruffi 2000s** : #286, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Strings" (2007) — Scaruffi 2000s** : #287, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

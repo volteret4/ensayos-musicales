@@ -2,4 +2,5 @@
 
 ## member of
 - Kraftwerk
+- Organisation
 

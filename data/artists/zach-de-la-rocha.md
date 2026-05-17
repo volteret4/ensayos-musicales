@@ -1,9 +1,10 @@
-# artist - Zach de la Rocha
-
-## member of
-- One Day as a Lion
-- Rage Against the Machine
+# artist - Zach De La Rocha
 
 ## curiosities
-**Abandoned Solo Album (Unreleased)** : After leaving Rage Against the Machine, Zach de la Rocha began a solo album that he abandoned. He later attempted it again with Trent Reznor producing, completing around 20 tracks that Trent considered "excellent." However, Zach was so uncomfortable with the results that the album was never released. "When Zach left Rage Against the Machine, he started on a solo album, but for whatever reason, he abandoned it." ← https://www.youtube.com/watch?v=DKdF8NgF5Bw
+**Patti Smith Hall of Fame Inductor** : Zach De La Rocha inducted Patti Smith into the Rock and Roll Hall of Fame in 2007. He delivered a speech praising her for disrupting a "too slick" rock scene with her "literate yet street savvy lyrics" that confronted various topics. "When Paddy Smith was inducted into the Rock Hall in 2007 by a Zach De La Roca from Rage Against the Machine, he said, Rock was getting too slick for its own good when Paddy Smith burst on the scene and tore it apart." ← For the Record - The 70s > Ep. 57 - Punk and New Wave at New York's CBGB | https://www.ftr70.com/
 
+
+
+## lists
+**"Word...Life" (1994) — Sputnikmusic Best Albums 1994** : #48, 4.16 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
+**"Jewelz" (1997) — Sputnikmusic Best Albums 1997** : #95, 4.05 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/

@@ -1,0 +1,9 @@
+# artist - Microsoft
+
+## albums
+**Windows 95 Startup Sound (Mid-90s)** : Microsoft commissioned Brian Eno to compose the startup sound for its new Windows 95 operating system, aiming to convey feelings of welcome, hope, and advancement to users. This "micro-poem digital" served as a digital mantra for a generation, signifying the crossing of a threshold into cyberspace. "Microsoft quería transmitir esa ilusión desde el instante en el que pulsarás el botón de Power." ← Por Qué Tu Cerebro Nunca Olvidará Este Sonido | https://www.youtube.com/watch?v=86tqZ33gn_4
+
+## curiosities
+**Support for Israeli Army Controversy** : Brian Eno, the composer of the Windows 95 startup sound, recently donated his payment from Microsoft in protest of the company's support for the Israeli army. This action highlighted a political stance against Microsoft's affiliations. "ha donado lo que le pagó Microsoft en protesta por el apoyo de la empresa al ejército de Rayleigh." ← Por Qué Tu Cerebro Nunca Olvidará Este Sonido | https://www.youtube.com/watch?v=86tqZ33gn_4
+**Xbox Startup Display and Sound (Early 2000s)** : Microsoft's Xbox console featured a highly expressive startup, characterized by a "green biomechanical industrial" aesthetic. This design was intended to make the console appear as a living organism, a technologically advanced entity from another planet, accompanied by an industrial soundscape incorporating electronic sparks, white noise, and an acidic bubbling to convey instability and warn the player that this was no ordinary console. "Xbox, la que hizo el display más expresionista, crearon una estética verde miomecánica industrial diseñada para aparecer un organismo vivo, para semejarse a una tecnología tal avanzada, que parecía la venir de otro planeta." ← Por Qué Tu Cerebro Nunca Olvidará Este Sonido | https://www.youtube.com/watch?v=86tqZ33gn_4
+

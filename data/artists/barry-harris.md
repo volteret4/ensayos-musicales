@@ -6,5 +6,5 @@
 
 
 ## awards
-**Paul Acket Award** : Won.
-**NEA Jazz Masters** : Won.
+**Paul Acket Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q865039
+**NEA Jazz Masters** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q488296

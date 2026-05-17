@@ -1,0 +1,10 @@
+# concert - MTV Unplugged in New York
+
+## curiosities
+**"Shock Therapy" and Sincerity** : Nirvana used their MTV Unplugged performance as a "shock therapy" to show the world the true reality behind the grunge movement and the band itself, which diverged significantly from the media's portrayal. It was an "act of humility and sincerity," possibly Curcomen's most honest concert. "Nirvana lo que quiso hacer fue una terapia de choque y mostrar al mundo lo que realmente había detrás." ← Music Radar Clan > Por qué el MTV Unplugged de Nirvana NO es un mal álbum | https://www.youtube.com/watch?v=U4CmYfakHkQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**MTV's Expectations vs. Reality** : MTV, when preparing for Nirvana's Unplugged, reportedly told the band they had complete freedom to destroy instruments or furniture, expecting a furious, destructive performance from a band angry with the world. However, Nirvana presented a starkly different, raw, and honest reality of their state in late 1993, which was exhausted and on the verge of collapse. "la ntb y lo que en el fondo mucha gente estaba esperando la ntb amp-lack de Nirvana una banda rabiosa furibunda decía teléfada con el mundo que quería destrozarlo todo." ← Music Radar Clan > Por qué el MTV Unplugged de Nirvana NO es un mal álbum | https://www.youtube.com/watch?v=U4CmYfakHkQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Myth Unmasked** : The concert represented "the fall of a myth" that had been created around grunge music, Nirvana, and Curcomen, which had been over-mythologized by the music press and exploited by their supposedly independent record label. It revealed the true, often grim, reality of a movement four or five years after its over-exploitation, showcasing disenchanted artists suffering from severe drug addiction. "el antivian plac desenmascaró y no se una imagen real de lo que había detrás de un movimiento gran 4 o 5 años después de la sobre explotación de algunas de sus bandas." ← Music Radar Clan > Por qué el MTV Unplugged de Nirvana NO es un mal álbum | https://www.youtube.com/watch?v=U4CmYfakHkQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+
+## artists
+- Nirvana
+

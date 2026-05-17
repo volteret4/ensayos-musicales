@@ -1,5 +1,6 @@
-# instrument - Bass Line
+# instrument - Bass line
 
 ## curiosities
-**Role in Ska Groove** : The bass line is an important element in Ska music, with the most common approach being to play steady quarter notes up and down the scale in the key of the song, contributing to a very infectious groove. "The bass line is important too. The most common approach is to play steady quarter notes up and down the scale in the key in which the song is written." ← https://www.youtube.com/watch?v=WX2GlpMNg_8 ← bass-line
+**Copyrightability Dispute** : A specific bass line, initially developed by Jimmy Yancey and popularized by Meade Lux Lewis, became the subject of a copyright infringement lawsuit between Lewis and Sunni Thompson. The court ultimately ruled that such a simple musical idea could not, by itself, be copyrighted, and noted Lewis's prior public release of the composition without registration. "One was that the bass line was such a simple idea that it couldn't by itself be copyrightable." ← Episode 45： ＂Blueberry Hill＂, by Fats Domino | https://www.youtube.com/watch?v=VqIwZGJHgBg
+**New Orleans R&B Staple** : A distinctive bass line style, characterized by "jelly roll, molten, Spanish tinge" and Treceo rhythms, was a common feature on New Orleans R&B records and became a staple of the genre. It was famously utilized by Fats Domino in "Ain't That a Shame" and "Blueberry Hill," and adopted by Dave Bartholomew as a signature motif in arrangements for artists like Smiley Lewis. "The bass line here is not one that was used on any of the previous versions, but it was common on New Orleans R&B records." ← Episode 45： ＂Blueberry Hill＂, by Fats Domino | https://www.youtube.com/watch?v=VqIwZGJHgBg
 

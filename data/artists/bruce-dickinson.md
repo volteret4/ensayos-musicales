@@ -4,18 +4,18 @@
 - Iron Maiden
 
 ## curiosities
-**Certified Airline Pilot and Aviation Entrepreneur** : Bruce Dickinson is a certified airline pilot who learned to fly in Florida in the 1990s. He has flown 757s for the now-defunct airline Astrayus and is qualified to pilot 737s and the large 747-400. He personally flies Iron Maiden's chartered planes for their world tours and owns his own charter airline and aviation company based in Cardiff, Wales. For recreation, he also flies a Fokker triplane, participating in reenactments of famous World War I battles at air shows. "He's now qualified to fly 737s and a 747-400 which is one huge aircraft." ← https://www.youtube.com/watch?v=3eGBnwPWRGo
-**Commercial Airline Pilot** : During a break from Iron Maiden, Bruce Dickinson obtained his commercial airline pilot's license. He is rated to fly Boeing 747s and has served as the captain of "Ed Force One," Iron Maiden's chartered jet used for touring. "When Bruce Dickinson took a break from Iron Maiden, he got his commercial airline pilot's license. He's rated to fly 747s and sometimes does." ← https://www.youtube.com/watch?v=7jMfH9xAOpI
-**World War I Reenactment Pilot** : In addition to his commercial pilot activities, Bruce Dickinson engages in recreational flying. For fun, he pilots a Fokker triplane, which he uses to specialize in reenactments of famous battles from World War I at air shows. "And just for fun he flies a Focker triplane which specializes in reenactments of famous battles of World War I." ← https://www.youtube.com/watch?v=hmnMG6f80Sg
-**Throat Cancer Diagnosis** : Bruce Dickinson of Iron Maiden was diagnosed with throat cancer in 2015. The cancer was detected at an early stage, and all subsequent treatments proved successful, leading to his full recovery. "Bruce Dickinson of Iron Maiden was diagnosed with throat cancer in 2015." ← https://www.youtube.com/watch?v=u5NLt6mkmrk ← bruce-dickinson
+**Certified Airline Pilot and Aviation Entrepreneur** : Bruce Dickinson is a certified airline pilot who learned to fly in Florida in the 1990s. He has flown 757s for the now-defunct airline Astrayus and is qualified to pilot 737s and the large 747-400. He personally flies Iron Maiden's chartered planes for their world tours and owns his own charter airline and aviation company based in Cardiff, Wales. For recreation, he also flies a Fokker triplane, participating in reenactments of famous World War I battles at air shows. "He's now qualified to fly 737s and a 747-400 which is one huge aircraft." ← https://www.youtube.com/watch?v=3eGBnwPWRGo ← bruce-dickinson
+**Commercial Airline Pilot** : During a break from Iron Maiden, Bruce Dickinson obtained his commercial airline pilot's license. He is rated to fly Boeing 747s and has served as the captain of "Ed Force One," Iron Maiden's chartered jet used for touring. "When Bruce Dickinson took a break from Iron Maiden, he got his commercial airline pilot's license. He's rated to fly 747s and sometimes does." ← https://www.youtube.com/watch?v=7jMfH9xAOpI ← bruce-dickinson
+**Throat Cancer Diagnosis** : Bruce Dickinson of Iron Maiden was diagnosed with throat cancer in 2015. The cancer was detected at an early stage, and all subsequent treatments proved successful, leading to his full recovery. "Bruce Dickinson of Iron Maiden was diagnosed with throat cancer in 2015." ← https://www.youtube.com/watch?v=u5NLt6mkmrk ← bruce-dickinson ← bruce-dickinson
+**World War I Reenactment Pilot** : In addition to his commercial pilot activities, Bruce Dickinson engages in recreational flying. For fun, he pilots a Fokker triplane, which he uses to specialize in reenactments of famous battles from World War I at air shows. "And just for fun he flies a Focker triplane which specializes in reenactments of famous battles of World War I." ← https://www.youtube.com/watch?v=hmnMG6f80Sg ← bruce-dickinson
 
 
 
 ## awards
-**Golden Raspberry Award for Worst Original Song (1989) — Bring Your Daughter... to the Slaughter** : Won.
-**Golden Raspberry Award for Worst Original Song (1990) — Bring Your Daughter... to the Slaughter** : Nominated.
+**Golden Raspberry Award for Worst Original Song (1989) — Bring Your Daughter... to the Slaughter** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1420891
+**Golden Raspberry Award for Worst Original Song (1990) — Bring Your Daughter... to the Slaughter** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1420891
 
 ## lists
-**"The Mandrake Project" (2024) — Kerrang! The 50 Best Albums of 2024** : #45.
-**"Accident Of Birth" (1997) — Sputnikmusic Best Albums 1997** : #64, 4.1 Sputnik.
-**"The Chemical Wedding" (1998) — Sputnikmusic Best Albums 1998** : #34, 4.22 Sputnik.
+**"The Mandrake Project" (2024) — Kerrang! The 50 Best Albums of 2024** : #45. ← musicbrainz | https://beta.musicbrainz.org/series/bdba3ef9-ad91-42ef-a023-f5a2b552c74c
+**"Accident Of Birth" (1997) — Sputnikmusic Best Albums 1997** : #64, 4.1 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
+**"The Chemical Wedding" (1998) — Sputnikmusic Best Albums 1998** : #34, 4.22 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1998/

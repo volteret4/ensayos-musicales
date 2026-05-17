@@ -1,0 +1,6 @@
+# instrument - MIDI File
+
+## curiosities
+**Digital Score, Not Actual Sound Content** : A MIDI file fundamentally does not contain actual recorded sound. Instead, it holds a set of instructions that direct a computer on precisely what notes to play, which instrument to use, at what volume, and at what specific moment, effectively functioning as a digital musical score or blueprint. "Un Archivo Middits no contiene sonido real, sino instrucciones que le dicen al ordenador que no te has tocado, con que instrumento a que volumen y en que momento, es como una partitura digital." ← El fenómeno de Soundfont Album. Discos reinterpretados en videojuegos | https://www.youtube.com/watch?v=ekozTKngeAw
+**Prerequisite for Soundfont Application** : A MIDI file of a song is a mandatory prerequisite for applying a video game soundfont to that particular track. It serves as the underlying "partitura digital" that the soundfont's instrument palette will then interpret. "Para poder aplicar el soundfont de cualquier videojuego a una canción, primero tienes que disponer del Archivo Middits de dicha canción." ← El fenómeno de Soundfont Album. Discos reinterpretados en videojuegos | https://www.youtube.com/watch?v=ekozTKngeAw
+

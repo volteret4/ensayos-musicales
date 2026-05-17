@@ -1,9 +1,6 @@
-# genre - Skate punk
+# genre - Skate Punk
 
 ## curiosities
-**Hardcore Influence** : Skate punk is listed as one of the genres that has been significantly influenced by hardcore music since the 1980s. "we've seen the influence this music has had on metal and in creating post-hardcore music as well as skate punk and emo." ← https://www.youtube.com/watch?v=0qigzi1j81U
-**Origin of Term** : The original name for skateboarding was "Sidewalk Surfing," illustrating a natural connection that allowed the surf sound and attitude to transition into skateboarding and skate punk music. "Overall, the original name of skateboarding was Sidewalk Surfing." ← https://www.youtube.com/watch?v=pOeChe_D1Ag
-**Origins in Hardcore** : Skate punk emerged with roots in California hardcore, as demonstrated by early bands like Suicidal Tendencies. "and bits of skate punk." ← https://www.youtube.com/watch?v=0qigzi1j81U
 **Coined by Thrasher Magazine** : The term "Skate Punk" itself appears to have been coined by an employee of Thrasher Magazine. "The term Skate Punk also seems to have been coined by an employee of Thrasher Magazine." ← Ongoing History of New Music > History of Skate Punk | https://www.youtube.com/watch?v=44dXy0StjIQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Definition and Origins** : Skate punk is a subgenre of Alt Rock built on skateboarding culture, with its roots tracing back to the shared music of surfers and skaters, and later evolving with punk rock in the late 1970s. Its "ground zero" is likely Oxnard, California. "My main interest with skateboarding is the music that evolved along with it." ← Ongoing History of New Music > History of Skate Punk | https://www.youtube.com/watch?v=44dXy0StjIQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Early 2010s Resurgence** : The early 2010s saw another surge in skateboarding's popularity, which in turn inspired a new generation of bands drawing from older skate punk groups. "In the early 2010s, there was another spike in popularity of skateboarding. And that resulted in a new crop of bands all inspired by older skate punk groups." ← Ongoing History of New Music > History of Skate Punk | https://www.youtube.com/watch?v=44dXy0StjIQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -17,7 +14,9 @@
 **Shift to Melodic Sound** : Skate punk bands began to integrate more melodic elements, retaining their fast and intense qualities but adding "singable melodies." Bad Religion's 1988 album "Suffer" is seen as a key inflection point for this shift towards "pop sensibilities." "Some Skate Punk bands started to get more melodic." ← Ongoing History of New Music > History of Skate Punk | https://www.youtube.com/watch?v=44dXy0StjIQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- Agent Orange
-- Propagandhi
-- Suicidal Tendencies
+- Big Boys
+- Fidlar
+- NoFX
+- Pennywise
+- The Offspring
 

@@ -4,5 +4,9 @@
 - New Metal
 
 ## curiosities
-**Pronounced Metal Leanings** : Lip knots was noted for having "much more intense" musical leanings due to their pronounced metal elements within the new metal genre. "Other bands were much more intense because of their pronounced metal leanings, ... lip knots." ← https://www.youtube.com/watch?v=5bQz8R0gbXc
+**Pronounced Metal Leanings** : Lip knots was noted for having "much more intense" musical leanings due to their pronounced metal elements within the new metal genre. "Other bands were much more intense because of their pronounced metal leanings, ... lip knots." ← https://www.youtube.com/watch?v=5bQz8R0gbXc ← lip-knots
 
+
+
+## lists
+**"The Texas-Jerusalem Crossroads" (2001) — AOTY Must Hear 2000s** : #457, 69 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/

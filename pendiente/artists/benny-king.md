@@ -1,0 +1,35 @@
+# artist - Benny King
+
+## member of
+- The Drifters
+- The Soul Clan
+
+## genres
+- Pop
+- R&B
+- Soul
+
+## labels
+- Atlantic Records
+- Small labels
+
+## albums
+**Greatest Hits Collection (UK Top 20)** : A collection of King's records made the top 20 in the UK, following the resurgence of "Stand By Me" in 1986. This success led King to leave The Drifters again and resume his solo career. "A greatest hits collection of King's records made the top 20 in the UK as well." ← Episode 94： ＂Stand By Me＂, by Ben E. King | https://www.youtube.com/watch?v=OgNsNmzW2po
+
+## songs
+**Amore (Year Not Specified, post-Stand By Me)** : Benny King recorded a version of this old standard, which reached number 19 on the charts after the initial success of "Stand By Me." However, his subsequent two records performed less well, topping out at 66 and 56. "He recorded a version of the old Standard Amore, which made number 19." ← Episode 94： ＂Stand By Me＂, by Ben E. King | https://www.youtube.com/watch?v=OgNsNmzW2po
+**Don't Play That Song (You Lied) (Year Not Specified)** : Co-written by Benny King's wife and Armater, this song reached number 11 on the pop charts and became an R&B standard, marking a return to the pop top 20 for King after some less successful singles. "He did get back in the pop-top 20, with the song co-written by his wife and armate Erdogan, don't play that song, you lied, which reached number 11 and became an R&B Standard." ← Episode 94： ＂Stand By Me＂, by Ben E. King | https://www.youtube.com/watch?v=OgNsNmzW2po
+**I Who Have Nothing (Year Not Specified)** : This French song, with English lyrics specifically written for King by Libra and Stuller, was part of King's attempt to transition into the adult sub-club singer genre. It managed to reach number 29, but most of his other efforts in this style were commercially unsuccessful. "While his version of I Who Have Nothing, a French song that has since become a Standard, and whose English lyrics were written for King by Libre and Stuller, managed to reach number 29." ← Episode 94： ＂Stand By Me＂, by Ben E. King | https://www.youtube.com/watch?v=OgNsNmzW2po
+**Spanish Harlem (Year Not Specified, pre-Stand By Me)** : This song was King's third solo record after leaving The Drifters, and it marked his first significant solo success, making the top ten. It was co-written by Libra and Specter, with Stuller later adding a prominent instrumental line for which he didn't claim credit. Initially planned as a B-side, its popularity quickly led to the record being flipped to the A-side. "Spanish Harlem made the top ten." ← Episode 94： ＂Stand By Me＂, by Ben E. King | https://www.youtube.com/watch?v=OgNsNmzW2po
+**Stand By Me (1986 Resurgence)** : The song experienced a dramatic resurgence in 1986 when it was used as the theme song for the film "Stand By Me." This led to the single re-entering the US top 10 and reaching number one in the UK, 25 years after its initial success, making King the first person to hit the top 10 in the US across four decades. "On the back of the film's success, the song re-entered the top 10, 25 years after its initial success, and made number one in the UK." ← Episode 94： ＂Stand By Me＂, by Ben E. King | https://www.youtube.com/watch?v=OgNsNmzW2po
+**Supernatural Thing (1975)** : After re-signing to Atlantic, Benny King achieved a one-off top 10 hit with this song in 1975, marking a brief return to significant chart success after several years of touring and recording for smaller labels. "Benny King, meanwhile, had signed again to Atlantic and had a one-off top 10 hit with supernatural thing in 1975." ← Episode 94： ＂Stand By Me＂, by Ben E. King | https://www.youtube.com/watch?v=OgNsNmzW2po
+**What Is Soul (Year Not Specified, later 60s)** : This is cited as one of the "great records" Benny King made in the later 1960s, indicating his continued work in the soul genre, even though he experienced less chart success at the time. "He made some great records in the later 60s, like What Is Soul." ← Episode 94： ＂Stand By Me＂, by Ben E. King | https://www.youtube.com/watch?v=OgNsNmzW2po
+
+## curiosities
+**Departure from Atlantic (1969)** : In 1969, Benny King requested to be released from his contract with Atlantic Records, subsequently spending several years in the early 1970s recording for smaller labels. "He asked to be let go from his contract with Atlantic in 1969, and spent a few years in the early 70s recording for small labels." ← Episode 94： ＂Stand By Me＂, by Ben E. King | https://www.youtube.com/watch?v=OgNsNmzW2po
+**Early Solo Career - Unsuccessful Records** : After leaving The Drifters, King released a couple of solo records before "Spanish Harlem," including a duet with Lover and Baker, which were not commercially successful. "The first of these was not a success, and Noah was the second, a duet with Lover and Baker." ← Episode 94： ＂Stand By Me＂, by Ben E. King | https://www.youtube.com/watch?v=OgNsNmzW2po
+**Four-Decade US Top 10 Artist** : Following the 1986 resurgence of "Stand By Me," Benny King became the first person to have achieved a top 10 hit in the US across four different decades: the 1950s, 1960s, 1970s, and 1980s, a remarkable achievement given his relatively few overall hits. "King became the first person to have hit the top 10 in the US, in the 50s, 60s, 70s and 80s." ← Episode 94： ＂Stand By Me＂, by Ben E. King | https://www.youtube.com/watch?v=OgNsNmzW2po
+**Joining UK Drifters (1980s)** : In the 1980s, Benny King moved to the UK and joined the UK version of The Drifters, performing his old hits on the nostalgia circuit. His presence was seen as adding more authenticity to the Johnny Moor lineup of the group. "And in the 80s, he moved to the UK and joined the UK version of the Drifters, singing his old hits on the nostalgia circuit with them, and adding more authenticity to the Johnny Moor lineup of the group." ← Episode 94： ＂Stand By Me＂, by Ben E. King | https://www.youtube.com/watch?v=OgNsNmzW2po
+**Legacy and Death (2015)** : Benny King, described as the only member of The Drifters other than Clyde McPhatter to break away and achieve solo success, spent the last 29 years of his life touring as a solo artist after the renewed success of "Stand By Me." He passed away in 2015, leaving a lasting impact on rock, pop, soul, and R&B music through his signature song. "He died in 2015, but as long as people listen to Rock, Pop, Soul or R and B, there'll be people listening to stand by me." ← Episode 94： ＂Stand By Me＂, by Ben E. King | https://www.youtube.com/watch?v=OgNsNmzW2po
+**Move to Adult Sub-Club Singer** : Benny King attempted to move into the more lucrative world of adult sub-club singing, performing songs like "I Could Have Danced All Night" and "What Now My Love," but this genre did not resonate with his audience who expected R&B from him, leading to poor chart performance for these efforts. "He sang I Could Have Dance Doll Night, and what now my love, perfectly well, but that wasn't what the audience wanted from him." ← Episode 94： ＂Stand By Me＂, by Ben E. King | https://www.youtube.com/watch?v=OgNsNmzW2po
+

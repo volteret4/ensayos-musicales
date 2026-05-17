@@ -1,0 +1,5 @@
+# artist - Barry De Vorzon and Perry Botkin, Jr.
+
+## songs
+**Nadia's Theme (1976)** : Originally titled "Cotton's Dream," this song was written by Barry De Vorzon and Perry Botkin, Jr. for the 1971 movie "Blessed the Beast and the Children," earning an Academy Award nomination (which it lost to Isaac Hayes' "Theme from Shaft"). It gained significant popularity when ABC Sports used it as the musical background for montages and rebroadcasts of Nadia Comăneci's perfect 10 performances at the 1976 Montreal Summer Olympics, even though Comăneci never performed to it. Due to public demand, it was released as a single in 1976, reaching number eight on the Billboard Hot 100 and spending 22 weeks on the charts. By the 1980s, it also became the theme song for the soap opera "The Young and the Restless." "The most obvious theme began its existence as Cotton's Dream, a song written by Barry DeVorzen and Perry Potkin, Jr. for a 1971 movie called Blessed the Beast and the Children." ← For the Record - The 70s > Ep. 36 - Na Na Na Na, Hey Hey Hey! 70s Music and Sports | https://seventies.libsyn.com/ep-36-na-na-na-na-hey-hey-hey-70s-music-and-sports
+

@@ -1,9 +1,5 @@
-# genre - Gangsta Rap
+# genre - Gangsta rap
 
 ## curiosities
-**Contrast with Kendrick Lamar's Style** : While Kendrick Lamar's early and mature lyrical style was inspired by gangsta rap, it distinguished itself by being more humble and direct, in contrast to the often unrealistic or violence-centric themes associated with classic gangsta rap. His subsequent lyrical evolution further deepened this distinction, embracing committed political and personal narratives. "tan discreto comparado un poco con todo ese ganestar rap en el que se inspira." ← Music Radar Clan > Kendrick Lamar：  To pimp a butterfly | https://www.youtube.com/watch?v=ENmSJbhbGeo&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← gangsta-rap
-**Increased Pressure for Parental Advisory** : The evolution of rap into gangsta rap, featuring increasingly explicit lyrics, led to immense pressure for albums in this genre to be labeled with Parental Advisory, especially after 1987. "el rap había entrado en ese proceso que evolucionaría al ganestar rap cuyas litras empezaban a ser enormemente explícitas." ← Music Radar Clan > Parental Advisory, sorprendente historia tras esta etiqueta | https://www.youtube.com/watch?v=Cpz35BoAOMs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← gangsta-rap
-
-## artists
-- Ni Ganswizatitude
+**Memphis Rap's Explicit Contrast** : Unlike West Coast gangsta rap, which boasted about gang affiliation, bullet wounds, or frequent jail stints, Memphis rappers were far more explicit and unfiltered in their lyrics. They focused on the crimes themselves, dead bodies, and decay, often incorporating samples from horror films and a distinctly lo-fi sound. "A diferencia del cansta rap de la costa heste, que presovía de Gánsters, de balazos en el cuerpo a haber entrado y salido mil veces de la cárcel, los raperos de Mencis hablaban de los crímenes en sí, de los cadáveres, de la potrédumbre, eran mucho más explícitos, de la exisinfiltro, y todo ello la derezaban con samples de películas de terror y un sonido descaradamente lou-fai." ← Memphis Rap： Cuando el rap era puro terror | https://www.youtube.com/watch?v=lWBpNa-xSt4
 

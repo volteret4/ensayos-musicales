@@ -1,0 +1,6 @@
+# artist - Arthur Howes
+
+## curiosities
+**Booking Agent for The Beatles** : Arthur Howes was selected as the promoter and booking agent for the newly named Kinks largely because he was responsible for booking "all the Beatles gigs." This connection was a deliberate move by managers Wace and Collins to leverage "as much of the Beatles reflected glory as they could get" for The Kinks. "Arthur Howes was chosen to be in charge of the newly named Kink's bookings, primarily because he booked all the Beatles gigs." ← Episode 119： ＂You Really Got Me＂ by the Kinks | https://www.youtube.com/watch?v=_XNJ6Qwmh_c
+**Suggested "Long Tall Sally" as First Single (1964)** : In January 1964, while in Paris with The Beatles, Arthur Howes observed that their cover of Little Richard's "Long Tall Sally" received a massive audience reaction and that The Beatles had not yet recorded it. Recognizing its hit potential, he made an "enormous expense" phone call to Larry Page from Paris, urging him to get The Kinks into the studio immediately to record the song. "He phoned Page from Paris, it's enormous expense, and told him to get the Kinks into the studio and record the song straight away, because it was bound to be a hit for someone." ← Episode 119： ＂You Really Got Me＂ by the Kinks | https://www.youtube.com/watch?v=_XNJ6Qwmh_c
+

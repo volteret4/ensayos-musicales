@@ -1,0 +1,12 @@
+# genre - Trance
+
+## curiosities
+**Extreme European Style** : Trance was one of many "very brutal and aggressive" electronic movements that originated in Europe, representing a radical reinterpretation of American House and Techno music. "nacía el trance." ← Music Radar Clan > The Chemical Brothers. Padres de la cultura BIG BEAT | https://www.youtube.com/watch?v=EMyp_PMItXg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Future-Oriented Aesthetic in the 90s** : In the 1990s, Trance was identified as a genre that embraced a bright, machine-filled vision of the future, contrasting with retrospective or hauntological aesthetics. Its focus was on forward-looking sounds and production. "el trance." ← El Género Musical Más Escalofriante de Internet. Hauntología | https://www.youtube.com/watch?v=2jcvyJLgYcg
+**Influence on Eurodance (Mid-1990s)** : Trance music, an accelerated genre that flourished in European clubs, influenced Eurodance in the mid-1990s. This infusion of new sounds helped Eurodance evolve beyond its classic form, leading to the creation of new subgenres like Eurotrance. "...pel trance..." ← La gran mentira detrás del Eurodance | https://www.youtube.com/watch?v=_F34L8wfrdo
+**Keygen Music Influence** : Keygen music, often electronic and fast-paced with accelerated tempos, shared similarities with Trance music. This energetic style helped to create a sense of excitement and cinematic hacker experience for users entering activation keys. The global reach of keygen programs exposed teenagers in places like Peru, Russia, and Indonesia to Trance-like rhythms they might not have otherwise heard on their local radio. "Esta música solía ser el electrónica y rápida, con tiempos acelerados musíilar a la música Rave o el Trance..." ← El oscuro origen de la música de los KEYGEN | https://www.youtube.com/watch?v=_dccHK0JW5w
+**Presence in 90s-2000s Video Games** : Trance music was a significant part of video game soundtracks from the mid-90s to the early 2000s, appearing in racing games and futuristic action sports titles. While popular, it was eventually overshadowed by the more dominant presence of drum and bass in these contexts. "El techno, el trance, el Big Beat empezaron a sonar juegos de carreras, deportes de acción futurista." ← Por qué los videjuegos de los 2000 sonaban así？ Jungle⧸Drum and Bass | https://www.youtube.com/watch?v=3_cr6vOW3KQ
+
+## artists
+- James Blake
+

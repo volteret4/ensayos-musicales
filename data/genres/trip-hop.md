@@ -1,9 +1,9 @@
-# genre - Trip-hop
+# genre - Trip-Hop
 
 ## curiosities
-**Early Gorillaz Sound** : The first Gorillaz single, "Tomorrow Comes Today" (2000), was explicitly described as being "very much in line with the trip-hop sounds of the time," and the debut album also prominently featured this genre among others. "It's called Tomorrow Comes Today and it's very much in line with the trip-hop sounds of the time." ← https://www.youtube.com/watch?v=iVdTCqpd798
-**Influenced by No Wave** : Trip-hop cannot be fully understood without acknowledging the No Wave movement's redefinition of rhythm, which was often based on noise and distortion. "No podemos entender el granch, no podemos entender el subeis, no podemos entender el trimpob, no podemos entender a my bloody Valentine, no podemos entender al rock industrial, sin entender esa manera, de entender el ritmo casi basada en el ruido y en la distorsión." ← Music Radar Clan > Qué es el NO WAVE. Es mucho más que música | https://www.youtube.com/watch?v=DrK0WdodRGk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Intimate Listening Experience** : Trip-Hop, a musical genre that gained traction in the 1990s, was characterized by its more intimate nature, intended for personal and contemplative listening. This distinguished it from Eurodance's focus on collective dance and celebration. "...el Trick Hop." ← La gran mentira detrás del Eurodance | https://www.youtube.com/watch?v=_F34L8wfrdo
+**Massive Attack's Prominence** : Massive Attack is recognized as one of the "all-time best" trip-hop bands, active since 1988 with a history of excellent records. "As Tripop bands go, Massive Attack is one of the all-time best." ← Ongoing History of New Music > Black History Month 2023 | https://www.youtube.com/watch?v=_1NNvxgx8uA&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- Gorillaz
+- Massive Attack
 

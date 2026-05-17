@@ -3,3 +3,8 @@
 ## member of
 - Missing Persons
 
+
+
+## charts
+**"Elbow" — UK Vinyl Albums Chart** : entrada.
+**"Morrissey" — UK Vinyl Singles Chart** : entrada.
