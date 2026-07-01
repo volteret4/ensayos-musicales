@@ -1,0 +1,19 @@
+FROM python:3.12-slim
+
+WORKDIR /app
+
+COPY requirements.map.txt requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY serve_map.py .
+# docs/ contiene index.html (39MB) y markdown_style.html (13MB), autocontenidos
+# (datos embebidos, generados por scripts/6_sqlite_to_web.py). Se copia de
+# forma explícita en vez de "COPY . ." para no arrastrar el resto del repo
+# (incluido .pyenv/ si el .dockerignore fallara).
+COPY docs ./docs
+
+ENV PYTHONUNBUFFERED=1
+
+EXPOSE 8766
+
+CMD ["python3", "serve_map.py"]

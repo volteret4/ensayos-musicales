@@ -1,0 +1,20 @@
+FROM python:3.12-slim
+
+WORKDIR /app
+
+# edit_data.py es puro stdlib (os, json, re, sqlite3, subprocess, sys, shutil,
+# http.server, urllib.parse) — no hay requirements.txt que instalar. El
+# requirements.txt de la raíz (google-genai, whisper) es para el pipeline de
+# transcripción, no para este editor: no se instala aquí.
+COPY . .
+
+ENV PYTHONUNBUFFERED=1 \
+    PYTHONDONTWRITEBYTECODE=1
+
+EXPOSE 8765
+
+# edit_data.py usa rutas relativas al cwd (db/music_facts.db, pendiente/,
+# correcciones/, data/), todas ubicadas en la raíz del repo, no en
+# scripts/corrector/. Por eso se ejecuta con cwd=/app (raíz) invocando el
+# script por su ruta completa, en vez de mover el WORKDIR a scripts/corrector.
+CMD ["python3", "scripts/corrector/edit_data.py"]

@@ -1,0 +1,29 @@
+# Entorno virtual embebido de 5.1GB — NUNCA debe entrar en la imagen.
+.pyenv/
+
+# VCS / metadata
+.git/
+.github/
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Secretos (se montan/inyectan en runtime, no se copian a la imagen)
+.env*
+.encrypted*.env
+
+# Directorios pesados no usados por ninguna de las dos webs dockerizadas
+# (editor de correcciones y mapa estático):
+mp3_input/
+transcripts/
+resumenes/
+ongoing_history_old/
+music_radar_clan/
+.content/
+output/
+img/
+
+# Otros
+*.mp3
