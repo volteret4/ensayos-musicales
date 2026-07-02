@@ -215,6 +215,52 @@ body { font-family: "Segoe UI", system-ui, sans-serif; background: #0d1117;
 .btn-merge-cancel { background: #21262d; color: #8b949e; border: 1px solid #30363d;
                     border-radius: 5px; padding: 6px 18px; font-size: 0.82rem; cursor: pointer; }
 .btn-merge-cancel:hover { background: #30363d; color: #c9d1d9; }
+
+/* ── Playlist queue ── */
+.playlist-form { display: flex; flex-direction: column; gap: 6px; padding: 10px 12px;
+                  border-bottom: 1px solid #21262d; flex-shrink: 0; }
+.playlist-form input { background: #0d1117; color: #c9d1d9; border: 1px solid #30363d;
+                        border-radius: 6px; padding: 6px 10px; font-size: 0.82rem;
+                        font-family: inherit; outline: none; }
+.playlist-form input:focus { border-color: #58a6ff; }
+.playlist-form button { background: #238636; color: #fff; border: none; border-radius: 5px;
+                         padding: 7px 10px; font-size: 0.8rem; cursor: pointer; }
+.playlist-form button:hover { background: #2ea043; }
+.playlist-item { align-items: flex-start; cursor: default; }
+.playlist-item:hover { background: none; border-left-color: transparent; }
+.playlist-item a { color: #58a6ff; text-decoration: none; }
+.playlist-item a:hover { text-decoration: underline; }
+.playlist-status { display: block; font-size: 0.68rem; color: #484f58; margin-top: 2px; }
+.playlist-del { opacity: 0.55 !important; flex-shrink: 0; }
+.playlist-del:hover { opacity: 1 !important; }
+.playlist-empty { padding: 14px; font-size: 0.8rem; color: #484f58; text-align: center; }
+
+/* ── Mobile back button (only relevant ≤760px, see media query) ── */
+#mobile-back { display: none; position: fixed; top: 10px; left: 10px; z-index: 20;
+               background: #161b22; border: 1px solid #30363d; border-radius: 6px;
+               color: #c9d1d9; padding: 6px 12px; font-size: 0.8rem; cursor: pointer; }
+
+/* ── Responsive (phones / small tablets) ── */
+@media (max-width: 760px) {
+  body { flex-direction: column; height: 100dvh; }
+  #sidebar { width: 100%; min-width: 0; border-right: none; border-bottom: 1px solid #30363d; }
+  #content { width: 100%; padding: 54px 16px 24px; display: none; }
+  body.mobile-content-active #sidebar   { display: none; }
+  body.mobile-content-active #content   { display: block; }
+  body.mobile-content-active #mobile-back { display: inline-flex; }
+
+  #tab-bar { flex-wrap: wrap; }
+  .tab-btn { flex: 1 1 30%; padding: 10px 4px; font-size: 0.85rem; }
+
+  .panel-search, .playlist-form input, .rename-input, .add-form input, .add-form textarea {
+    font-size: 1rem; /* ≥16px avoids iOS auto-zoom on focus */
+  }
+
+  .entity-toolbar { gap: 6px; }
+  #entity-detail { max-width: 100%; }
+  .modal-box { width: 92vw; }
+  .rename-input { width: 100%; }
+}
 """
 
 _BODY = """
@@ -231,6 +277,7 @@ _BODY = """
     <button class="tab-btn" data-tab="instruments">🎸 Inst.</button>
     <button class="tab-btn" data-tab="curiosities">✨ Gen.</button>
     <button class="tab-btn" data-tab="pendiente" id="tab-pendiente">⏳ Pend.</button>
+    <button class="tab-btn" data-tab="playlists" id="tab-playlists">🎬 YT</button>
   </div>
 
   <div id="panel-artists" class="panel active">
@@ -291,7 +338,19 @@ _BODY = """
     <div id="pending-count" class="panel-count" style="padding-top:10px"></div>
     <div id="pending-list"  class="panel-list"></div>
   </div>
+
+  <div id="panel-playlists" class="panel">
+    <form id="playlist-form" class="playlist-form">
+      <input id="playlist-name" type="text" placeholder="Nombre del podcast/canal…" autocomplete="off" required>
+      <input id="playlist-url" type="url" placeholder="https://youtube.com/playlist?list=…" autocomplete="off" required>
+      <button type="submit">+ Añadir a la cola</button>
+    </form>
+    <div id="playlist-count" class="panel-count"></div>
+    <div id="playlist-list"  class="panel-list"></div>
+  </div>
 </div>
+
+<button id="mobile-back" onclick="showMobileSidebar()">← Volver</button>
 
 <div id="content">
   <div id="placeholder">← Selecciona un elemento para editar</div>
@@ -378,8 +437,18 @@ document.querySelectorAll('.tab-btn').forEach(b =>
     document.querySelectorAll('.tab-btn').forEach(x => x.classList.toggle('active', x === b));
     document.querySelectorAll('.panel').forEach(p =>
       p.classList.toggle('active', p.id === 'panel-' + b.dataset.tab));
+    showMobileSidebar(); // switching tabs always returns to the list view on phones
   })
 );
+
+// ── Mobile master/detail nav (≤760px, see CSS) ──────────────────────────────────
+function showMobileContent() { document.body.classList.add('mobile-content-active'); }
+function showMobileSidebar() { document.body.classList.remove('mobile-content-active'); }
+document.getElementById('sidebar').addEventListener('click', (e) => {
+  if (window.innerWidth > 760) return;
+  if (e.target.closest('.list-tick, .playlist-del, .btn-accept-entity')) return;
+  if (e.target.closest('.list-item, .pending-group')) showMobileContent();
+});
 
 // ── Sidebar lists ─────────────────────────────────────────────────────────────
 function hl(text, q) {
@@ -1119,8 +1188,58 @@ document.addEventListener('keydown', e => {
     closeMergeModal();
 });
 
+// ── Playlist queue ────────────────────────────────────────────────────────────
+async function loadPlaylists() {
+  const r = await fetch('/api/playlists');
+  const data = await r.json();
+  renderPlaylists(data.playlists || []);
+}
+
+function renderPlaylists(items) {
+  document.getElementById('playlist-count').textContent =
+    items.length ? `${items.length} en cola` : '';
+  const listEl = document.getElementById('playlist-list');
+  listEl.innerHTML = '';
+  if (!items.length) {
+    listEl.innerHTML = '<div class="playlist-empty">Sin playlists en cola todavía</div>';
+    return;
+  }
+  for (const p of items) {
+    const div = document.createElement('div');
+    div.className = 'list-item playlist-item';
+    const status = p.media_count > 0 ? `${p.media_count} archivo(s) descargado(s)` : 'en cola, sin descargar';
+    const nameHtml = p.url
+      ? `<a href="${p.url}" target="_blank" rel="noopener">${p.name}</a>`
+      : p.name;
+    div.innerHTML = `<span class="list-name">${nameHtml}<span class="playlist-status">${status}</span></span>
+                      <button class="list-tick playlist-del" title="Quitar de la cola">✕</button>`;
+    div.querySelector('.playlist-del').addEventListener('click', async (e) => {
+      e.stopPropagation();
+      if (!confirm(`¿Quitar "${p.name}" de la cola?`)) return;
+      const r = await api('/api/playlist/delete', {slug: p.slug});
+      if (!r.ok) { toast('Error: ' + (r.error || ''), 'err'); return; }
+      toast(`"${p.name}" eliminada de la cola`);
+      loadPlaylists();
+    });
+    listEl.appendChild(div);
+  }
+}
+
+document.getElementById('playlist-form').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const nameEl = document.getElementById('playlist-name');
+  const urlEl  = document.getElementById('playlist-url');
+  const name = nameEl.value.trim(), url = urlEl.value.trim();
+  const r = await api('/api/playlist/add', {name, url});
+  if (!r.ok) { toast('Error: ' + (r.error || ''), 'err'); return; }
+  toast(`"${name}" añadida a la cola ✓`);
+  nameEl.value = ''; urlEl.value = '';
+  loadPlaylists();
+});
+
 // ── Boot ──────────────────────────────────────────────────────────────────────
 loadData();
+loadPlaylists();
 """
 
 def build_html():

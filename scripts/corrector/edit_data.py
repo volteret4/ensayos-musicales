@@ -609,6 +609,72 @@ def rebuild_db():
         'err': (r1.stderr + r2.stderr).strip(),
     }
 
+# ── Playlist queue (mp3_input/) ────────────────────────────────────────────────
+MP3_INPUT_FOLDER = 'mp3_input'
+_YT_LIST_RE = re.compile(r'(?:youtube\.com|youtu\.be)/.*[?&]list=([A-Za-z0-9_-]+)')
+_MEDIA_EXT  = ('.mp3', '.webm', '.m4a', '.wav', '.part', '.ogg')
+
+def _playlist_env_path(pslug):
+    return os.path.join(MP3_INPUT_FOLDER, pslug, 'podcast.env')
+
+def list_playlists():
+    out = []
+    if not os.path.isdir(MP3_INPUT_FOLDER):
+        return out
+    for entry in sorted(os.listdir(MP3_INPUT_FOLDER)):
+        folder = os.path.join(MP3_INPUT_FOLDER, entry)
+        if not os.path.isdir(folder):
+            continue
+        name, url = '', ''
+        env_path = os.path.join(folder, 'podcast.env')
+        if os.path.exists(env_path):
+            with open(env_path, 'r', encoding='utf-8') as f:
+                for line in f:
+                    k, sep, v = line.strip().partition('=')
+                    if not sep:
+                        continue
+                    k, v = k.strip().lower(), v.strip().strip('"').strip("'")
+                    if k in ('yt_playlist', 'playlist'): url = v
+                    elif k in ('name', 'title'):          name = v
+        media_count = sum(
+            1 for f in os.listdir(folder)
+            if os.path.splitext(f)[1].lower() in _MEDIA_EXT
+        )
+        out.append({
+            'slug': entry, 'name': name or entry, 'url': url,
+            'media_count': media_count,
+        })
+    return out
+
+def add_playlist(name, url):
+    name = (name or '').strip()
+    url  = (url or '').strip()
+    if not name:
+        return False, 'El nombre es obligatorio'
+    if not _YT_LIST_RE.search(url):
+        return False, 'Debe ser un enlace de playlist de YouTube (con ?list=…)'
+    pslug = slug(name)
+    folder = os.path.join(MP3_INPUT_FOLDER, pslug)
+    if os.path.isdir(folder):
+        return False, f'Ya existe una cola con ese nombre ({pslug})'
+    os.makedirs(folder, exist_ok=True)
+    with open(_playlist_env_path(pslug), 'w', encoding='utf-8') as f:
+        f.write(f'yt_playlist={url}\nname={name}\n')
+    return True, pslug
+
+def delete_playlist(pslug):
+    folder = os.path.join(MP3_INPUT_FOLDER, pslug)
+    if not os.path.isdir(folder):
+        return False, 'No existe'
+    has_media = any(
+        os.path.splitext(f)[1].lower() in _MEDIA_EXT
+        for f in os.listdir(folder)
+    )
+    if has_media:
+        return False, 'Ya tiene descargas; bórrala manualmente si estás seguro'
+    shutil.rmtree(folder)
+    return True, None
+
 # ── HTTP handler ──────────────────────────────────────────────────────────────
 class Handler(BaseHTTPRequestHandler):
     def log_message(self, *_): pass
@@ -630,6 +696,10 @@ class Handler(BaseHTTPRequestHandler):
         if path == '/api/data':
             d = load_data()
             self._json(d if d is not None else {'error': 'No DB — run md_to_sqlite.py first'}, 200 if d else 500)
+            return
+
+        if path == '/api/playlists':
+            self._json({'playlists': list_playlists()})
             return
 
         if path.startswith('/img/'):
@@ -669,6 +739,16 @@ class Handler(BaseHTTPRequestHandler):
 
         if path == '/api/rebuild':
             self._json(rebuild_db()); return
+
+        if path == '/api/playlist/add':
+            ok, result = add_playlist(d.get('name', ''), d.get('url', ''))
+            if ok: self._json({'ok': True, 'slug': result}); return
+            self._json({'error': result}, 400); return
+
+        if path == '/api/playlist/delete':
+            ok, err = delete_playlist(d.get('slug', ''))
+            if ok: self._json({'ok': True}); return
+            self._json({'error': err}, 400); return
 
         etype = d.get('type', '')
         name  = d.get('name', '')
