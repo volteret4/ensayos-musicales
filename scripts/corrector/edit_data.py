@@ -16,6 +16,77 @@ PENDING_FOLDER = 'pendiente'
 VALIDATED_JSON = 'correcciones/validated.json'
 DELETED_JSON   = 'correcciones/deleted.json'
 
+# ── Panel de configuración (⚙) ───────────────────────────────────────────────
+# Mismo patrón que el resto de apps. GEMINI_API_KEY/TELEGRAM_* las usa
+# scripts/2_gemini_resumen.py (pipeline de transcripción) — ese script no
+# corre dentro de este contenedor (Dockerfile.editor no instala google-genai/
+# whisper a propósito, ver su comentario), pero comparte el mismo .env de la
+# raíz del repo, así que configurarlas aquí sirve para cuando se lance en el
+# host o en otro contenedor que sí tenga esas dependencias.
+SETTINGS_ENV_PATH = '.env'
+SETTINGS_PASSWORD = os.environ.get('SETTINGS_PASSWORD', '')
+VARS_SPEC = [
+    {"name": "GEMINI_API_KEY", "secret": True, "help": "API key de Gemini (resumen de transcripciones)"},
+    {"name": "TELEGRAM_BOT", "secret": True, "help": "Token del bot de Telegram (notificaciones del pipeline)"},
+    {"name": "TELEGRAM_CHAT_ID", "secret": False, "help": "Chat ID de Telegram"},
+]
+_HAS_SECRETS = any(v.get("secret") for v in VARS_SPEC)
+
+
+def _read_env_file(path):
+    values = {}
+    if not os.path.exists(path):
+        return values
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            s = line.strip()
+            if not s or s.startswith("#") or "=" not in s:
+                continue
+            k, v = s.split("=", 1)
+            v = v.strip()
+            if len(v) >= 2 and v[0] == v[-1] and v[0] in ('"', "'"):
+                v = v[1:-1]
+            values[k.strip()] = v
+    return values
+
+
+def _write_env_file(path, updates):
+    lines = []
+    if os.path.exists(path):
+        with open(path, "r", encoding="utf-8") as f:
+            lines = f.readlines()
+    seen = set()
+    out = []
+    for line in lines:
+        s = line.strip()
+        if s and not s.startswith("#") and "=" in s:
+            k = s.split("=", 1)[0].strip()
+            if k in updates:
+                out.append(f"{k}={updates[k]}\n")
+                seen.add(k)
+                continue
+        out.append(line)
+    for k, v in updates.items():
+        if k not in seen:
+            if out and not out[-1].endswith("\n"):
+                out[-1] += "\n"
+            out.append(f"{k}={v}\n")
+    with open(path, "w", encoding="utf-8") as f:
+        f.writelines(out)
+
+
+def _current_value(spec):
+    file_vals = _read_env_file(SETTINGS_ENV_PATH)
+    if spec["name"] in file_vals:
+        return file_vals[spec["name"]]
+    return os.environ.get(spec["name"], spec.get("default", ""))
+
+
+def _check_auth(password):
+    if not SETTINGS_PASSWORD:
+        return not _HAS_SECRETS
+    return password == SETTINGS_PASSWORD
+
 TYPE_TO_DIR = {
     'artist': 'artists', 'genre': 'genres', 'label': 'labels',
     'concert': 'concerts', 'instrument': 'instruments',
@@ -702,6 +773,16 @@ class Handler(BaseHTTPRequestHandler):
             self._json({'playlists': list_playlists()})
             return
 
+        if path == '/settings-panel.js':
+            with open('settings-panel.js', 'rb') as f:
+                b = f.read()
+            self.send_response(200)
+            self.send_header('Content-Type', 'application/javascript; charset=utf-8')
+            self.send_header('Content-Length', len(b))
+            self.end_headers()
+            self.wfile.write(b)
+            return
+
         if path.startswith('/img/'):
             # Construye la ruta local (ej: ./img/axe-svgrepo-com.png)
             local_path = "." + path
@@ -739,6 +820,31 @@ class Handler(BaseHTTPRequestHandler):
 
         if path == '/api/rebuild':
             self._json(rebuild_db()); return
+
+        if path == '/api/settings':
+            password = d.get('password') or ''
+            requires = bool(SETTINGS_PASSWORD) or _HAS_SECRETS
+            authorized = _check_auth(password)
+            if requires and not authorized:
+                error = "Contraseña incorrecta" if password else None
+                if not SETTINGS_PASSWORD:
+                    error = "Este servicio tiene credenciales pero no hay SETTINGS_PASSWORD configurada. Añádela al .env y reinicia el contenedor."
+                self._json({"requires_password": True, "authorized": False, "error": error}); return
+            vars_out = [
+                {"name": v["name"], "value": _current_value(v), "secret": v["secret"], "help": v.get("help", "")}
+                for v in VARS_SPEC
+            ]
+            self._json({"requires_password": requires, "authorized": True, "vars": vars_out}); return
+
+        if path == '/api/settings/save':
+            if not _check_auth(d.get('password') or ''):
+                self._json({"error": "Contraseña incorrecta"}, 403); return
+            known = {v["name"] for v in VARS_SPEC}
+            updates = {k: v for k, v in (d.get("values") or {}).items() if k in known}
+            if not updates:
+                self._json({"error": "Nada que guardar"}, 400); return
+            _write_env_file(SETTINGS_ENV_PATH, updates)
+            self._json({"ok": True, "message": "Guardado. Reinicia el contenedor para aplicar los cambios."}); return
 
         if path == '/api/playlist/add':
             ok, result = add_playlist(d.get('name', ''), d.get('url', ''))

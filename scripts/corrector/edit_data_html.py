@@ -1257,6 +1257,7 @@ def build_html():
 <script>
 {_JS}
 </script>
+<script src="/settings-panel.js"></script>
 </body>
 </html>"""
 
