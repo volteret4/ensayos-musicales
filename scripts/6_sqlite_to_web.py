@@ -1,5 +1,6 @@
 import os
 import json
+import shutil
 import sqlite3
 import urllib.request
 
@@ -456,12 +457,22 @@ function computeGraph() {
       }
     }
 
+  // IDs de los nodos de artista que de verdad están visibles. Sin esto, una
+  // relación (member/mention) hacia un artista filtrado por minElements
+  // deja una arista "colgando" — D3 no encuentra el nodo (`node not found`)
+  // y la simulación entera revienta antes de pintar nada.
+  const artistNodeIds = new Set(nodes.map(n => n.id));
+
   // Artist-to-artist relation edges (member, mention)
-  // In focus mode, only between artists in the focused set
+  // In focus mode, only between artists in the focused set. En modo normal,
+  // solo entre artistas que hayan superado el filtro de minElements.
   for (const rel of RELATIONS) {
     if (rel.type === 'member' || rel.type === 'mention') {
-      if (focusArtistId !== null &&
-          (!expandedArtists.has(rel.source_id) || !expandedArtists.has(rel.target_id))) continue;
+      if (focusArtistId !== null) {
+        if (!expandedArtists.has(rel.source_id) || !expandedArtists.has(rel.target_id)) continue;
+      } else if (!artistNodeIds.has(`a_${rel.source_id}`) || !artistNodeIds.has(`a_${rel.target_id}`)) {
+        continue;
+      }
       edges.push({ id: `rel_${rel.type}_${rel.source_id}_${rel.target_id}`,
                    source: `a_${rel.source_id}`, target: `a_${rel.target_id}`,
                    etype: rel.type, color: rel.color || null });
@@ -842,9 +853,18 @@ const _filterSlider  = document.getElementById('filter-slider');
 const _minDataValEl  = document.getElementById('min-data-val');
 _filterSlider.min    = 0;
 _filterSlider.max    = Math.max(0, _countVals.length - 1);
-// Start at MAX — only the richest artist(s) appear; drag left to reveal more
-_filterSlider.value  = +_filterSlider.max;
-minElements          = _countVals.length > 0 ? _countVals[_countVals.length - 1] : 0;
+// Arranca mostrando ~los 30 artistas más ricos (no solo el máximo absoluto,
+// que a veces deja 1 solo nodo) — se puede arrastrar para revelar más.
+const _TOP_N = 30;
+const _totalsDesc = ARTISTS
+  .map(a => Object.values(a.categories).reduce((s, c) => s + c.length, 0))
+  .sort((a, b) => b - a);
+const _initialThreshold = _totalsDesc.length
+  ? _totalsDesc[Math.min(_TOP_N, _totalsDesc.length) - 1]
+  : 0;
+const _initialIdx = _countVals.findIndex(v => v >= _initialThreshold);
+_filterSlider.value  = _initialIdx >= 0 ? _initialIdx : +_filterSlider.max;
+minElements          = _initialIdx >= 0 ? _countVals[_initialIdx] : 0;
 _minDataValEl.textContent = minElements;
 _filterSlider.addEventListener('input', function() {
   minElements = _countVals[+this.value] ?? 0;
@@ -880,11 +900,7 @@ def build_html(artists, relations):
 <link rel="icon" type="image/png" href="/img/dots.png" />
 
 <!-- Umami Analytics -->
-<script>
-    defer
-    src="https://cloud.umami.is/script.js"
-    data-website-id="5d84fd6c-0760-4a0c-a2d0-ffabb82179f5"
-</script>
+<script defer src="https://cloud.umami.is/script.js" data-website-id="5d84fd6c-0760-4a0c-a2d0-ffabb82179f5"></script>
 <script>{d3_src}</script>
 <style>{CSS}</style>
 </head>
@@ -932,6 +948,14 @@ def main():
     html = build_html(artists, relations)
     with open(OUT_HTML, 'w', encoding='utf-8') as f:
         f.write(html)
+
+    # El favicon vive en img/, fuera de docs/ — Dockerfile.map solo copia
+    # docs/ (autocontenido a propósito), así que sin esto el icono da 404.
+    docs_dir = os.path.dirname(OUT_HTML)
+    os.makedirs(os.path.join(docs_dir, 'img'), exist_ok=True)
+    icon_src = os.path.join(os.path.dirname(docs_dir), 'img', 'dots.png')
+    if os.path.exists(icon_src):
+        shutil.copy(icon_src, os.path.join(docs_dir, 'img', 'dots.png'))
 
     primary  = sum(1 for a in artists if a['is_primary'])
     n_cats   = sum(len(a['categories']) for a in artists)
