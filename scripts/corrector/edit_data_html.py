@@ -65,7 +65,7 @@ body { font-family: "Segoe UI", system-ui, sans-serif; background: #0d1117;
                height: 100%; color: #484f58; font-size: 1rem; }
 #entity-detail { max-width: 860px; }
 #entity-detail h1 { font-size: 2rem; font-weight: 700; color: #e6edf3;
-                    margin-bottom: 10px; line-height: 1.2; }
+                    margin-bottom: 10px; line-height: 1.2; overflow-wrap: anywhere; }
 
 /* ── Entity toolbar ── */
 .entity-toolbar { display: flex; align-items: center; gap: 8px; margin-bottom: 20px; flex-wrap: wrap; }
@@ -93,7 +93,7 @@ body { font-family: "Segoe UI", system-ui, sans-serif; background: #0d1117;
 .tag-list { display: flex; flex-wrap: wrap; gap: 6px; }
 .tag { display: inline-flex; align-items: center; gap: 4px; padding: 3px 8px 3px 10px;
        border-radius: 20px; font-size: 0.78rem; border: 1px solid; }
-.tag-name { cursor: default; }
+.tag-name { cursor: default; overflow-wrap: anywhere; }
 .tag-name.linked { cursor: pointer; }
 .tag-name.linked:hover { text-decoration: underline; }
 .tag-del { background: none; border: none; cursor: pointer; font-size: 0.7rem;
@@ -105,7 +105,7 @@ body { font-family: "Segoe UI", system-ui, sans-serif; background: #0d1117;
         padding: 12px 14px; margin-bottom: 8px; border-left: 3px solid; }
 .card-header { display: flex; align-items: flex-start; justify-content: space-between;
                gap: 8px; margin-bottom: 4px; }
-.card-title { font-size: 0.9rem; font-weight: 600; color: #e6edf3; flex: 1; }
+.card-title { font-size: 0.9rem; font-weight: 600; color: #e6edf3; flex: 1; overflow-wrap: anywhere; }
 .card-actions { display: flex; gap: 4px; flex-shrink: 0; opacity: 0; transition: opacity 0.15s; }
 .card:hover .card-actions { opacity: 1; }
 .btn-edit, .btn-del { background: none; border: 1px solid #30363d; border-radius: 4px;
@@ -240,6 +240,12 @@ body { font-family: "Segoe UI", system-ui, sans-serif; background: #0d1117;
                background: #161b22; border: 1px solid #30363d; border-radius: 6px;
                color: #c9d1d9; padding: 6px 12px; font-size: 0.8rem; cursor: pointer; }
 
+/* ── Touch devices: hover-only reveals are otherwise untappable ── */
+@media (hover: none) {
+  .list-tick    { opacity: 0.6; }
+  .card-actions { opacity: 1; }
+}
+
 /* ── Responsive (phones / small tablets) ── */
 @media (max-width: 760px) {
   body { flex-direction: column; height: 100dvh; }
@@ -260,6 +266,30 @@ body { font-family: "Segoe UI", system-ui, sans-serif; background: #0d1117;
   #entity-detail { max-width: 100%; }
   .modal-box { width: 92vw; }
   .rename-input { width: 100%; }
+
+  /* Bigger tap targets: default paddings are tuned for a mouse pointer */
+  .list-tick   { padding: 8px 10px; font-size: 1rem; opacity: 0.6; }
+  .tag-del     { padding: 5px 8px; font-size: 0.85rem; }
+  .card-actions { gap: 8px; }
+  .btn-edit, .btn-del, .btn-save, .btn-cancel, .btn-add, .btn-del-section,
+  .btn-rename, .btn-merge, .btn-del-entity, .btn-accept-entity,
+  #btn-rebuild, .modal-close, .btn-merge-confirm, .btn-merge-cancel {
+    padding: 9px 14px; font-size: 0.85rem;
+  }
+  .modal-close { padding: 6px 10px; font-size: 1.2rem; }
+
+  /* Toast: anchor to both edges so it can never push the page wider */
+  #toast { left: 12px; right: 12px; bottom: 12px; max-width: none; }
+}
+
+/* ── Extra-small phones ── */
+@media (max-width: 480px) {
+  #content { padding: 50px 12px 20px; }
+  #entity-detail h1 { font-size: 1.5rem; }
+  .tab-btn { flex: 1 1 45%; }
+  .entity-toolbar { gap: 8px; }
+  .modal-box { width: 96vw; }
+  .card { padding: 10px 12px; }
 }
 """
 
