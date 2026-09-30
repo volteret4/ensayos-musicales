@@ -6,5 +6,5 @@
 
 ## artists
 - Elvis Presley
-- Jackie Brenston and his Delta Cats
+- Jackie Brenston and His Delta Cats
 

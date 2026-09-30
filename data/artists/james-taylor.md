@@ -3,21 +3,18 @@
 ## genres
 - Mellow
 - Singer-songwriter
-- Singer-songwriter (influenced by)
 
 ## albums
 **Sweet Baby James (1971)** : This album by James Taylor, a regular at The Troubadour, is credited with "busting the door open" for the singer-songwriter movement of the early 1970s. "James Taylor, a Trubidor regular, kind of busted that door open with sweet baby James in 1971." ← For the Record - The 70s > Ep. 41 - The Impact of The Troubadour on 1970s Popular Culture | https://seventies.libsyn.com/ep-41-the-impact-of-the-troubadour-on-1970s-popular-culture
 
 ## songs
 **Fire and Rain** : In this song, James Taylor writes about his own personal experiences, including his heroin addiction, contributing to the era's desire for authenticity in music. "You know, James Taylor writes about his own heroin addiction and fire and rain." ← For the Record - The 70s > Ep. 41 - The Impact of The Troubadour on 1970s Popular Culture | https://seventies.libsyn.com/ep-41-the-impact-of-the-troubadour-on-1970s-popular-culture
-**How Sweet It Is (To Be Loved By You) (1975)** : For the week ending August 30, 1975, this song was number five on the Billboard Top 10 chart. "5. How sweet it is to be loved by you, James Taylor." ← For the Record - The 70s > Ep. 2 - Countryish Music of the 1970s (Encore) | https://www.ftr70.com/
+**How Sweet It Is (To Be Loved by You) (1975)** : For the week ending August 30, 1975, this song was number five on the Billboard Top 10 chart. "5. How sweet it is to be loved by you, James Taylor." ← For the Record - The 70s > Ep. 2 - Countryish Music of the 1970s (Encore) | https://www.ftr70.com/
 **How Sweet It Is (To Be Loved by You) (1975)** : James Taylor's cover of this song is cited as an example of 1970s nostalgia for the 1950s, a period perceived as simpler, fueling a trend of cover songs. "it fueled this glut of cover songs in how sweet it is by James Taylor." ← For the Record - The 70s > Ep. 31 - The Spirit of '76 - Pop Music on America's Bicentennial | https://seventies.libsyn.com/ep-31-the-spirit-of-76-pop-music-on-americas-bicentennial
-**How Sweet It Is (To Be Loved by You) (Year Not Given)** : This song was one of the tracks sampled by Dickie Goodman in his 1975 novelty song "Mr. Jaws." "How sweet it is to be loved by you james taylor." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
+**How Sweet It Is (To Be Loved by You) (1975)** : This song was one of the tracks sampled by Dickie Goodman in his 1975 novelty song "Mr. Jaws." "How sweet it is to be loved by you james taylor." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
 
 ## curiosities
 **Mellow Rock Trend (Early 1970s)** : James Taylor was cited as an example of artists popular in the early 1970s whose music contributed to the "Mellow" trend, as fans deserted the harder, more soulful sounds of the 60s for a softer approach. "The word everyone was using was Mellow, James Taylor, Bread, Olivia Newton John, Paul Simon, the California Rock of the Eagles, a new look Fleetwood Mac." ← https://www.youtube.com/watch?v=VYi3r0G-ne4 ← james-taylor
-
-
 
 ## awards
 **National Medal of Arts** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1789030

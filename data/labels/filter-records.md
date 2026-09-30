@@ -5,5 +5,5 @@
 **Founded by Mark Hoppas's Boss** : Filter Records was an independent label established by Mark Hoppas's boss at the record store where he worked, and it was funded using the boss's personal savings. "A label was formed by Mark's boss at the record store where he worked. He called it Filter Records, which he funded with money for missabings." ← https://www.youtube.com/watch?v=eljIIqCu5gU ← filter-records
 
 ## artists
-- Blink-182
+- Blink 182
 

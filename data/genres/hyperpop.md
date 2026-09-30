@@ -15,8 +15,6 @@
 
 ## artists
 - 100 Gecs
-- 100 gecs
-- Anders
 - Charli XCX
 - Dorian Electra
 - Sophie

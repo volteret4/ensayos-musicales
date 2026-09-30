@@ -6,7 +6,5 @@
 ## songs
 **Hanging on the Telephone (1976)** : Featured on their 1976 4-track EP, this song later gained wider recognition when it was covered by Blondie, who turned it into a hit single in New York. "That's the original version of that song. The nerves with hanging on the telephone, which later became a hit for Blondie, who brought it to the artsy punks in New York." ← https://www.youtube.com/watch?v=YaYaFW2q6qI ← the-nerves
 
-
-
 ## lists
 **"Nerves" (2013) — Sputnikmusic Best Albums 2013** : #143, 3.96 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2013/

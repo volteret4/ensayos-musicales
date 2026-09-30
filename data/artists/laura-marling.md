@@ -6,8 +6,6 @@
 ## curiosities
 **UK Folk Scene Growth (2010s)** : This artist was part of the expanding folk scene in Britain during the 2010s, a movement that grew significantly after Mumford & Sons. "What started with Mumford & Sons in the odds expanded to Laura Marling, Jig Bug, Ben Howard, and of course Ed Sheeran..." ← https://www.youtube.com/watch?v=sOU54d8mr5k ← laura-marling
 
-
-
 ## lists
 **"Semper Femina" (2017) — AOTY Must Hear 2010s** : #326, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
 **"Short Movie" (2015) — AOTY Must Hear 2010s** : #520, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/

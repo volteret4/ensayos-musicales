@@ -14,7 +14,7 @@
 - Trap
 
 ## albums
-**Underground Volume 1 (1991-1994)** : This compilation album gathers Three 6 Mafia's early works recorded between 1991 and 1994. It is considered a crucial piece for understanding the immense influence their sound would exert decades later, having originated "southern horrorcore." "El disco Ande Grand Volume 1 recopila sus primeros trabajos, grabados en 1991 y 1994, y es una pieza clave para entender la enorme influencia que tendrían, de cada después, con su sonido." ← Memphis Rap： Cuando el rap era puro terror | https://www.youtube.com/watch?v=lWBpNa-xSt4
+**Underground Vol. 1: 1991–1994 (1999)** : This compilation album gathers Three 6 Mafia's early works recorded between 1991 and 1994. It is considered a crucial piece for understanding the immense influence their sound would exert decades later, having originated "southern horrorcore." "El disco Ande Grand Volume 1 recopila sus primeros trabajos, grabados en 1991 y 1994, y es una pieza clave para entender la enorme influencia que tendrían, de cada después, con su sonido." ← Memphis Rap： Cuando el rap era puro terror | https://www.youtube.com/watch?v=lWBpNa-xSt4
 
 ## curiosities
 **Early Sound & Lyrical Themes** : Their initial mixtapes featured murky and distorted beats, with lyrics centered on demonic invocations, prophecies, blood, graves, and vengeful spirits, thereby establishing them as pioneers of horrorcore. "Trisix Mafia En sus primeros BigStakes, rapeaban sobre bits turbios y distorsionados. Los letras hablaban de invocaciones de imonía cas, progerías, sangre, tumbas y espíritus vengativos." ← Memphis Rap： Cuando el rap era puro terror | https://www.youtube.com/watch?v=lWBpNa-xSt4
@@ -27,3 +27,13 @@
 **Pioneering Trap Elements** : Three 6 Mafia exerted a clear influence on trap music; although the genre solidified in Atlanta in the mid-2000s, its fundamental DNA was already being forged in Memphis a decade earlier through their work. "Es obvia la influencia que tuvo 3x mafia en el trap, aunque el género se consolido a mediados de los 2000 en la lanta, su ADN y ya se estaba gestando en Mencis una de cadantes." ← Memphis Rap： Cuando el rap era puro terror | https://www.youtube.com/watch?v=lWBpNa-xSt4
 **Rediscovery by Phonk Producers** : Global producers, particularly those working in phonk, delved into the history of Memphis rap and rediscovered Three 6 Mafia. They paid homage by adopting the horrorcore aesthetic, imitating their album covers, and resurrecting their raw 808 sound. "A partir de ahí, productores de todo el mundo empezaron a vociar en la historia y a descubrir figuras como Cirys Hym mafia o Tommy Brai III, rendendole su homenaje, adoptaron la estética horror core de Memphis, imitaron sus portadas, rescataron el sonido crudo del 808." ← Memphis Rap： Cuando el rap era puro terror | https://www.youtube.com/watch?v=lWBpNa-xSt4
 
+## charts
+**"Stay Fly" — Billboard Year-End Hot 100** : #92, 2006. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Lolli Lolli" — Billboard Year-End Hot 100** : #70, 2008. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+
+## lists
+**"Underground Vol. 1 (1991-1994)" (1999) — AOTY Must Hear 1990s** : #42, 70 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
+**"Mystic Stylez" (1995) — AOTY Must Hear 1990s** : #236, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
+**"Mystic Stylez" (1995) — Scaruffi 1990s** : #1247, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Mystic Stylez" (1995) — Pitchfork: The 150 Best Albums of the 1990s** : #140, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
+**"Chapter 1: The End" (1996) — Sputnikmusic Best Albums 1996** : #173, 3.97 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/

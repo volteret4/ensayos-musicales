@@ -5,5 +5,5 @@
 **Struggles Against Beat Music Dominance** : While Ritman Blues was a foundational inspiration for many early 60s British bands, its sound often struggled to gain widespread popularity against the dominant "Beatle sound." Bands dedicated to Ritman Blues, like The Jarpers, found it challenging to resonate with a public preferring the lighter, more popular beat music. "Un sonido como tan ritman blues y tan cerrado a la música del rock sueleño no terminada de Cajar el público estaba con mucho más uniento del sonido beat el." ← Music Radar Clan > The Yardbirds, una banda clave para entender la historia de la música | https://www.youtube.com/watch?v=dCGrHEAqPC0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← ritman-blues
 
 ## artists
-- The Jarpers
+- The Yardbirds
 

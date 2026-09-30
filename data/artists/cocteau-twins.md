@@ -1,16 +1,11 @@
 # artist - Cocteau Twins
 
-## member of
-- This Mortal Coil
-
 ## members
 - Elizabeth Fraser
-- Elizabeth Fraser (vocals)
 - Robin Guthrie
-- Robin Guthrie (multi-instrumentalist)
 
 ## genres
-- Dream Pop (implied by description)
+- Dream Pop
 - Dreampop
 - Post Rock
 - Post-Punk
@@ -20,8 +15,8 @@
 
 ## albums
 **Heaven or Las Vegas (1990)** : Released in early 1990, this was the Cocteau Twins' most successful album. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← cocteau-twins
-**Heaven or Las Vegas (Year Unspecified) - Double 12-inch Color Vinyl Re-edition** : A re-edition of "Heaven or Las Vegas" (transcribed as "suave de suave") is being released on double 12-inch colored vinyl, specifically catering to lovers of Dreampop. "se redita el suave de suave en disco de color doble doce pulgadas, los amantes del Dreampop." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← cocteau-twins ← cocteau-twins
-**Treasure (1984) - Studio Album** : Released in 1984 on the 4AD label, this album featured the song "Lorelei." The band's intention when creating music was to provide listeners with space for introspection, fostering a dreamy and atmospheric sound that could be immersive when played loudly. The music, while strange, possessed depth and an underlying sadness. "Laura Lai from a 1984 album on the 4AD label called Treasure." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← cocteau-twins ← cocteau-twins
+**Heaven or Las Vegas (1990)** : A re-edition of "Heaven or Las Vegas" (transcribed as "suave de suave") is being released on double 12-inch colored vinyl, specifically catering to lovers of Dreampop. "se redita el suave de suave en disco de color doble doce pulgadas, los amantes del Dreampop." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← cocteau-twins ← cocteau-twins
+**Treasure (1984)** : Released in 1984 on the 4AD label, this album featured the song "Lorelei." The band's intention when creating music was to provide listeners with space for introspection, fostering a dreamy and atmospheric sound that could be immersive when played loudly. The music, while strange, possessed depth and an underlying sadness. "Laura Lai from a 1984 album on the 4AD label called Treasure." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← cocteau-twins ← cocteau-twins
 
 ## songs
 **Lorelei (1984)** : This song is from the 1984 album *Treasure*. The band's sound was characterized by guitarist Robin Guthrie's use of effects and exploration of new sounds, combined with Elizabeth Fraser's gorgeous soprano voice. Fraser's vocals were often indistinct, seeming to consist of made-up sounds or "speaking in tongues," contributing to the dreamy and atmospheric quality of their music. "The cocktail twins with Laura Lai from a 1984 album on the 4AD label called Treasure." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← cocteau-twins ← cocteau-twins
@@ -42,8 +37,8 @@
 **Pillar of Dreampop** : The band is considered a foundational pillar of the dreampop sound, representing a significant structural influence where the genre converged. "que era donde se juntaba la otra gran estructura que era el dreampop." ← Music Radar Clan > DREAM POP y SHOEGAZE. Diferencias entre ellos. | https://www.youtube.com/watch?v=75cEjgxTR3U&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← cocteau-twins ← cocteau-twins
 **Robin Guthrie's Guitar Technique** : Robin Guthrie focused on achieving specific guitar tones, sounds, and textures rather than technical precision. He openly admitted to technical limitations but layered guitar tracks with reverb and echo to create a rich sound, effectively covering up his perceived deficiencies. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← cocteau-twins
 **Scottish Origin** : The band is noted for being Scottish, contributing to the idea of a distinct "Scottish sound" that was influential in the early development of shoegaze and dreampop. "Cotto Twins eran escoceses también." ← Music Radar Clan > DREAM POP y SHOEGAZE. Diferencias entre ellos. | https://www.youtube.com/watch?v=75cEjgxTR3U&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← cocteau-twins ← cocteau-twins
-
-
+**Couple, Daughter, and Breakup (1993)** : Elizabeth Fraser and Robin Guthrie of The Cocktoe Twins were once a couple and had a daughter. They broke up in 1993, but the band managed to continue until 1997. "Elizabeth Fraser and Robin Guthrie of The Cocktoe Twins. Once a couple, half a daughter broke up in 1993, but the band managed to last in 1997." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← the-cocktoe-twins ← the-cocktoe-twins
+**Couple, Daughter, and Breakup (1993)** : Elizabeth Fraser and Robin Guthrie of The Cocktoe Twins were once a couple and had a daughter. They broke up in 1993, but the band managed to continue until 1997. "Elizabeth Fraser and Robin Guthrie of The Cocktoe Twins. Once a couple, half a daughter broke up in 1993, but the band managed to last in 1997." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← the-cocktoe-twins
 
 ## lists
 **"Treasure" (1984) — 1001 Albums You Must Hear Before You Die** : #533, 7.5/10 Scaruffi.

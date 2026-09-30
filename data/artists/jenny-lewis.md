@@ -1,9 +1,7 @@
 # artist - Jenny Lewis
 
 ## member of
-- Ryle of Kylie
-
-
+- Rilo Kiley
 
 ## lists
 **"On the Line" (2019) — AOTY Must Hear 2010s** : #90, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/

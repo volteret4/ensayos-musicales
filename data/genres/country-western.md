@@ -8,9 +8,9 @@
 **Hierarchy of Live Shows** : There was a clear hierarchy among country and western live variety shows, with the Grand Ole Opry at the pinnacle, followed by the Louisiana Hayride, and then shows like the Old Dominion Barn Dance. This hierarchy dictated an artist's status and audience reach. "At the very top of the chain was the grand ol' Opry." ← Episode 40： ＂Drugstore Rock 'n' Roll＂ by Janis Martin | https://www.youtube.com/watch?v=l0i2p9TelN0
 
 ## artists
-- Carter Family
+- The Carter Family
 - Eddie Cochran
-- Flatt & Scruggs
+- Flatt and Scruggs
 - Hank Snow
 - Hank Williams
 - Janice Martin

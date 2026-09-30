@@ -9,5 +9,5 @@
 **Publicity Stunt Success** : The owners of The Peppermint Lounge sought publicity for their club, hiring a publicist who enlisted Celebrity Services. This service aimed to attract minor celebrities, hoping for brief mentions in gossip columns. Unexpectedly, this effort generated enough intrigue to draw a wave of major celebrities, transforming the lounge into a sensation. "Because the owners of The Peppermint Lounge decided that they wanted a little publicity for their club, and they hired a publicist, who in turn got in touch with a company called Celebrity Services." ← Episode 91： ＂The Twist＂ by Chubby Checker | https://www.youtube.com/watch?v=LzsS8EXdsm8
 
 ## artists
-- Joey D and the Starlighters
+- Joey Dee and the Starliters
 

@@ -8,7 +8,7 @@
 - Bob Wills and His Texas Playboys
 - Charlie Rich
 - Hank Williams
-- Red Carnotle
+- Red Kernodle
 - The Light Crust Doughboys
-- The Tennessee 3
+- The Tennessee Three
 

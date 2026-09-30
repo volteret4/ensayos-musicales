@@ -5,8 +5,7 @@
 
 ## curiosities
 **Raw Indie Rock Scene Association** : The Doves are considered part of the "raw indie rock scene," often grouped with bands like The Vines, The Hives, The Strokes, and The Datsuns. "part of that whole raw indie rock scene." ← Ongoing History of New Music > Alt Rocks Craziest People | https://www.youtube.com/watch?v=CgReNKciFJo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← the-doves ← the-doves
-
-
+**Raw Indie Rock Scene Association** : The Doves are considered part of the "raw indie rock scene," often grouped with bands like The Vines, The Hives, The Strokes, and The Datsuns. "part of that whole raw indie rock scene." ← Ongoing History of New Music > Alt Rocks Craziest People | https://www.youtube.com/watch?v=CgReNKciFJo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← the-doves
 
 ## lists
 **"Lost Souls" (2000) — 1001 Albums You Must Hear Before You Die** : #902, 7.0/10 Scaruffi.

@@ -5,4 +5,3 @@
 - Alaska y los Pegamoides
 - Caca de Lux
 - Parálisis Permanente
-

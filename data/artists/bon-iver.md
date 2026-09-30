@@ -15,7 +15,7 @@
 - (Not mentioned)
 
 ## albums
-**i,i (2019) - Human** : (referred to as "el human," potentially referring to Bon Iver's album *i,i*). This album is cited as an example of contemporary music that contains significant political and social content. However, it is critiqued for addressing these themes in a general manner, rather than with the direct and deeply personal specificity found in Kendrick Lamar's work. "estos discos como el último disco de bolilla, el human... que todos tienen un enorme contenido político y social." ← Music Radar Clan > Kendrick Lamar：  To pimp a butterfly | https://www.youtube.com/watch?v=ENmSJbhbGeo&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← bon-iver ← bon-iver
+**i,i (2019)** : (referred to as "el human," potentially referring to Bon Iver's album *i,i*). This album is cited as an example of contemporary music that contains significant political and social content. However, it is critiqued for addressing these themes in a general manner, rather than with the direct and deeply personal specificity found in Kendrick Lamar's work. "estos discos como el último disco de bolilla, el human... que todos tienen un enorme contenido político y social." ← Music Radar Clan > Kendrick Lamar：  To pimp a butterfly | https://www.youtube.com/watch?v=ENmSJbhbGeo&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← bon-iver ← bon-iver
 
 ## curiosities
 **Collaborated with James Blake** : Bon Iver has collaborated with James Blake. "Ha colaborado con Boníver." ← Music Radar Clan > JAMES BLAKE. El mago del sonido. | https://www.youtube.com/watch?v=dLsLxcMVZFM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← bon-iver ← bon-iver
@@ -23,8 +23,6 @@
 **Hipster Music Association** : This artist was popular among those identifying with hipster culture in the 2010s, aligning with tastes for older or retro sounds. "If that was your scene, I'm going to bet that you and your like-minded friends could also agree on indie era radiohead, LCD sound system, bright eyes, arcade fire, willko, tame and pala, body bear, fleet foxes, and these guys, who were so intertwined with hipster culture, that they actually became a meme." ← https://www.youtube.com/watch?v=sOU54d8mr5k ← bon-iver
 **Influenced by James Blake** : Bon Iver is mentioned as an artist of the same generation who has been significantly influenced by James Blake's slow and intimate electronic style. "Esa ha sido una influencia importante para gente como Bonivero." ← Music Radar Clan > JAMES BLAKE. El mago del sonido. | https://www.youtube.com/watch?v=dLsLxcMVZFM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← bon-iver ← bon-iver
 **Tiny Desk Performance - Genre Expansion** : Bon Iver (referred to as "Ascenting Verlake" in the transcript) was among the artists featured on Tiny Desk as the platform broadened its coverage from indie music to include artists across all genres and styles. "Ténidé es de ser un escenario para Indy a dar cobijo artistas de todos los generos, desde Wutan Klan y Ascenting Verlake, pasando por Estromy." ← De Tiny Desk a Boiler Room： El Boom de los Conciertos en YouTube | https://www.youtube.com/watch?v=QPTMemJ4ZUA
-
-
 
 ## awards
 **Grammy Award for Best New Artist (2012)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643

@@ -7,7 +7,7 @@
 
 ## artists
 - James Blake
-- Lee Amgala Gheri
+- Liam Gallagher
 - Norah Jones
 - Sam Cooke
 

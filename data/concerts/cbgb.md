@@ -39,13 +39,19 @@
 **The Ramones' Exclusive Venue** : CBGB was the only bar in New York City that would allow The Ramones to perform on its stage, underscoring Hilly Crystal's commitment to booking bands that played original music, even if they were initially perceived as "terrible." "And CBGV was the only bar in New York that was going to let the Ramones take the stage." ← For the Record - The 70s > Ep. 57 - Punk and New Wave at New York's CBGB | https://www.ftr70.com/
 **The Ramones' Revolutionary Debut (August 14, 1974)** : On August 14, 1974, this New York club hosted The Ramones' very first public performance, attended by fewer than a dozen people. Yet, by the end of that year, The Ramones had played at CBGB 74 times, consistently growing their audience. The venue eventually became a packed hub for a diverse crowd, including Andy Warhol's associates, intellectuals, wealthy uptown youths seeking to "slum it," and music fans desperately looking for something new and exciting, effectively marking the beginning of the New York punk rock revolution. "The Ramones played their first ever show at a New York club called CBGB." ← https://www.youtube.com/watch?v=8UIBWyUt38g ← cbgb
 **Three Doors Down's Career Catalyst** : A gig at the iconic New York club CBGB was a pivotal moment for Three Doors Down, as it led to them attracting the attention of Republic Records and subsequently securing a record deal. "A gig at CBGB got the attention of Republic Records, a subsidiary of Universal Music, and they signed them to a deal." ← https://www.youtube.com/watch?v=CyTI00SIrLE ← cbgb ← cbgb
+**Debbie Harry's Association** : Debbie Harry, the lead singer of Blondie, was referred to as the "diva of CBGB," indicating her strong association with the legendary New York club. "Sung with Wild Abandon by Debbie Harry, the diva of CBGB." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce81
+**The Police's US Debut Venue (1978)** : When The Police arrived in New York City in October 1978 for their self-funded American tour, their first stop and performance was at CBGB, a "Punk Mecca" and "notoriously grungy but reliably hip club," where they played an acclaimed, punk-worthy set. "When they arrived in October of 78, their first stop was Punk Mecca CBGB. At the notoriously grungy but reliably hip club, the police played an acclaimed punk-worthy set." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
+**Birthplace of Punk (1970s)** : The New York City nightclub CBGB is recognized as the "birthplace of punk" in the 1970s. It nurtured a diverse array of bands, from The Ramones and Patty Smith to Talking Heads and Blondie, helping to define the nascent genre. "The New York City Nightclub CBGB became the birthplace of punk in the 1970s..." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
+**Showcase for Emerging Bands** : Even by the late 1980s, after its initial scene dissipated, CBGB continued to incubate new bands. It famously showcased the Beastie Boys when they were still a nascent punk band before their transition to rapping. "Earlier in the decade CBGB had famously showcased the Beastie Boys when they were still a nascent punk band before they switched to rapping." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
+**Black Rock Coalition Festival (1987)** : In 1987, CBGB hosted a two-night festival organized by the Black Rock Coalition, a collective founded by Living Colour guitarist Vernon Reid. The festival, titled "Stalking Heads," aimed to highlight Black Rock in New York City. Co-founder Greg Tate noted that it was "probably the first time that many Black people had been inside CBGB." "And in 1987, CBGB hosted a two-night festival by a collective of bands known as the Black Rock Coalition, founded by Living Color guitarist Vernon Reed." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
+**Closure (October 2006)** : After years of struggles with New York's municipal infrastructure and "crippling rent hikes," the iconic CBGB club finally closed its doors in October 2006, nearly 33 years after Hilly Crystal first opened it. Patty Smith and her band performed on the club's last night. "After years of struggles with New York's municipal infrastructure and some crippling rent hikes, the club finally shuttered in October 2006..." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
+**Current Location** : The physical location that once housed CBGB is now occupied by a John Varvatos clothing store, marking a significant change for the historic site. "The location, by the way, is now a John Varvato's clothing store." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
 
 ## artists
 - Bad Brains
 - Beastie Boys
 - Blondie
 - Dead Boys
-- Living Color
 - Living Colour
 - Patti Smith
 - Ramones
@@ -53,6 +59,4 @@
 - Television
 - The Cramps
 - The Dictators
-- The Ramones
 - Tuftarts
-

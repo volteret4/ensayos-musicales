@@ -217,25 +217,18 @@ ORDER BY ?year ?awardType
 # ── Charts: DB local ──────────────────────────────────────────────────────────
 
 def _find_artist_id(conn, artist_name):
-    """Busca artist_id en charts.db con fallback a matching parcial."""
+    """Busca artist_id en charts.db solo por coincidencia exacta del nombre normalizado.
+
+    Antes había un fallback por subcadena (LIKE) que asignaba charts y listas de
+    otro artista (p. ej. 'Kelly Tisdale' recibía las listas de Daft Punk).
+    """
     norm = normalize(artist_name)
     if not norm:
         return None
     row = conn.execute(
         "SELECT id FROM artists WHERE name_norm = ?", (norm,)
     ).fetchone()
-    if row:
-        return row["id"]
-    # fallback: el candidato normalizado más cercano en longitud
-    candidates = conn.execute(
-        "SELECT id, name_norm FROM artists "
-        "WHERE name_norm LIKE ? OR ? LIKE '%' || name_norm || '%'",
-        (f"%{norm}%", norm),
-    ).fetchall()
-    if candidates:
-        best = min(candidates, key=lambda r: abs(len(r["name_norm"]) - len(norm)))
-        return best["id"]
-    return None
+    return row["id"] if row else None
 
 
 def query_local_charts(artist_name, db_path):

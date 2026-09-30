@@ -7,6 +7,6 @@
 **Ricky Gervais Show Appearance (2007)** : On May 19, 2007, David Bowie made his final stage singing appearance at Madison Square Garden, unannounced, during a show by his friend Ricky Gervais, where he improvised and performed the song "Little Fat Man." "But the very last time was on May 19th, 2007, when his friend Ricky Gervais played a show at Madison Square Garden." ← https://www.youtube.com/watch?v=Yq2A_o9-ulM ← madison-square-garden
 
 ## artists
-- Leonard Skinnerd
+- Lynyrd Skynyrd
 - The Smashing Pumpkins
 

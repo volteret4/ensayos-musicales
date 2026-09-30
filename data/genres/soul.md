@@ -29,46 +29,45 @@
 **Sun Ra's Influence** : Sun Ra is identified as one of the fathers and pillars of soul, alongside other genres like modern music, art rock, and jazz. His work is considered a cornerstone of intellectual music over the last 30-50 years. "son rees uno de los padres y pilares casi de la música moderna de la música arti del art rock, del jazz, del soul de todos." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← soul ← soul
 **Tim Buckley's Exploration** : Tim Buckley explored the soul genre as part of his musical evolution. "cycling through folk, psych, bits of jazz, fun, and soul." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← soul
 **Vocal Influence on Trip Hop** : Soul voices, particularly those reminiscent of Aretha Franklin and other intense black female singers like Anán Sigre, are a significant influence on the vocal styles found within trip hop. "esas voces de sol un poco que nos recuerdan a leta franklin que nos recuerdan anán sigre y a todas esas grandes voces negras de mujeres intensas." ← Music Radar Clan > Massive Attack - Blue Lines. Un antes y un después en la música. | https://www.youtube.com/watch?v=Ik7PQ2X1o3M&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← soul ← soul
+**60s Throwback (1976)** : The music for the 1976 film *Sparkle* was a deliberate throwback to the kind of soul music both Curtis Mayfield and Aretha Franklin were recording in the 1960s, resonating particularly with Black audiences. "The music of Sparkle was a deliberate throwback to the kind of Soul both Mayfield and Franklin were recording in the 60s." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Most Number One Hits (1982)** : Aretha Franklin broke a tie with James Brown to hold the record for the most number one hits in the history of the Soul Chart with her 18th chart-topper, "Jump to It," in 1982. "That gave the record for the most soul number ones to the lady known as the Queen of Soul." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
 
 ## artists
 - Amy Winehouse
 - Aretha Franklin
 - B.B. King
 - Bad Brains
-- Barry Gordy Jr.
-- Benny King
+- Berry Gordy
+- Ben E. King
 - Bill Doggett
 - Bill Withers
 - Billy Preston
-- Billy Ward and The Dominoes
+- Billy Ward and His Dominoes
 - Blood, Sweat & Tears
-- Blue Spill
-- Bobby Marshan
-- Booker T and the M.G.'s
+- Bobby Marchan
+- Booker T. & the M.G.'s
 - Buddy Holly
 - Curtis Mayfield
 - David Bowie
 - De Chachas
 - Delaney & Bonnie
 - Don Covay
-- Earth Wind and Fire
+- Earth, Wind & Fire
 - Elvis Costello
 - Fishbone
-- Fitty Boy (Don Covay)
 - Gino Vannelli
-- Holland, Dozier and Holland
+- Holland–Dozier–Holland
 - Isaac Hayes
-- J.C. Cooper
 - Jackie Wilson
 - James Brown
 - Jeff Buckley
 - Joe Jackson
 - Kendrick Lamar
 - MF Doom
-- Manfred Mann (band)
-- Martha and the Van Dellers
+- Manfred Mann
+- Martha and the Vandellas
 - Marvin Gaye
-- Mary Clayton
+- Merry Clayton
 - Massive Attack
 - Mavis Staples
 - Moby
@@ -79,14 +78,14 @@
 - Odds
 - Portishead
 - Ray Charles
-- Roy Hammond
+- Roy C. Hammond
 - Sam Cooke
-- Sister Rosetta Tharp
+- Sister Rosetta Tharpe
 - Sly Stone
 - Sly and the Family Stone
 - Stevie Wonder
 - Sun Ra
-- Sylvia Van Topoele (Little Sylvia, Sylvia Robinson)
+- Sylvia Robinson
 - The Avalanches
 - The Chi-Lites
 - The Clash
@@ -99,10 +98,19 @@
 - The Supremes
 - The Temptations
 - The Undisputed Truth
-- The Winston's
+- The Winstons
 - Three Dog Night
 - Thundercat
 - Tim Buckley
 - War
-- Wu Tang Clan
-
+- Wu-Tang Clan
+- Darius Rucker
+- Bruno Mars
+- Joe Tex
+- Jimmy Gilmer and The Fireballs
+- Donna Summer
+- Robin S
+- P!nk
+- LaBelle
+- Charlene
+- The Pointer Sisters

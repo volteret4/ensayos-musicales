@@ -5,59 +5,53 @@
 - Candy del Mar
 - Kid Congo Powers
 - Lux Interior
-- Lux interior (Erick perkaiser)
-- Miriam Lin
+- Miriam Linna
 - Nick Knox
-- Pam
-- Poison Ivy (Kristi Marlena Wallace)
-- Poison Ivy Rorschach
+- Pam Balam
+- Poison Ivy
 
 ## genres
 - Bluesy Garage Rock
+- garage
 - Garage rock
-- Goth (implied influence)
+- Goth
 - Gothabilly
+- protopunk
 - Psychobilly
 - Punk
-- Punk Rock (implied influence)
-- Punk rock
-- Surf (mixed with horror and camp)
-- Surf music
-- garage
-- gothabilly
-- protopunk
-- psychobilly
-- punk rock
+- Punk Rock
 - rockabilly
+- Surf
+- Surf music
 - voodoo rockabilly
 
 ## labels
-- CBGB (venue where they played often)
+- CBGB
 
 ## concerts
 - CBGB
 
 ## instruments
 - 1958 Gretsch Hollow Body
-- Bill Lewis guitar
-- Fender Pro Reverb Amps
 - bass
+- Bill Lewis guitar
 - drums
+- Fender Pro Reverb Amps
 - lead guitar
 - rhythm guitar
 
 ## albums
-**A Date with Elvis (1986) - Rockabilly Homage** : Released three years after their previous album, this work is considered one of the best of their career. It served as a direct homage to rockabilly music. Notably, for this album, Poison Ivy changed from playing guitar to bass. "Tardaron tres años en sacar su siguiente disco, Adate with Elvis, un homenaje al Riddel Rock, el cual está considerado uno de los mejores trabajos de su carrera, y fue el primero en el que Ivy cambió la guitarra por el bajo." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
+**A Date with Elvis (1986)** : Released three years after their previous album, this work is considered one of the best of their career. It served as a direct homage to rockabilly music. Notably, for this album, Poison Ivy changed from playing guitar to bass. "Tardaron tres años en sacar su siguiente disco, Adate with Elvis, un homenaje al Riddel Rock, el cual está considerado uno de los mejores trabajos de su carrera, y fue el primero en el que Ivy cambió la guitarra por el bajo." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
 **Big Beat from Badsville (1997)** : Released in 1997. "en 1997 Big Bit from Biceville." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
 **Fiends of Dope Island (2003)** : Released in 2003, as part of their output in the 2000s decade. "Ya en la década de los 2000 lanzaran Cents of the Opieland en 2003." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
 **Flamejob (1994)** : Released in 1994. "en 1994 Flemjop." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
 **How to Make a Monster (2004)** : Released in 2004, also within the 2000s decade. "y J. Mike Amonster en 2004." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
 **Look Mom No Head! (1991)** : Released in 1991, the year following *Stay Sick!*. "al año siguiente locomon Nohead." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
-**Psychedelic Jungle (1981) - Second Album** : Released in 1981, this album's release was quickly followed by a legal dispute with their record label over unpaid royalties. This legal battle prevented the band from recording new material for two years, during which they focused on touring. "Ese mismo año tuvieron una disputa legal con su discográfica por derechos de autónopagados, lo cual les impidió grabar nuevo material durante dos años, por lo que se dedicaron a tocar y hacer giras." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
-**Smell of Female (1983) - Return Album** : This album marked The Cramps' return to recording in 1983, following a two-year hiatus caused by legal issues with their record label. "En 1983 regresaron con Esmelos Fimel." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
-**Songs The Lord Taught Us (1980)** : This album, released in 1980, was composed of various cover songs, including an old Willie John track that had previously been a hit for Peggy Lee in 1958, showcasing Poison Ivy's distinctive guitar style. "In 1980, they released an album called Songs The Lord Taught Us. It featured a bunch of covers, including an old Willie John song that had become a hit for Peggy Lee in 1958." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← the-cramps
-**Songs the Lord Taught Us (1978) – Debut Album** : The Cramps covered "Surfin' Bird" on their 1978 debut album. Their music often had a surfy feel, blended with elements of horror and camp, making the cover a natural fit for their style. "The Cramps, for example, covered it on their debut album in 1978, which made a lot of sense, because what they did was, in many cases, pretty surfy, although it was mixed with a ton of horror and camp." ← https://www.youtube.com/watch?v=pOeChe_D1Ag ← the-cramps
-**Songs the Lord Taught Us (1980) - Debut Album** : The band's long-awaited first album, released in 1980. It featured Nick Knox, who would become their most iconic drummer. Due to high anticipation from their cult following, it was an immediate success among underground enthusiasts. "La expectativa era tan grande que fue un éxito entre los seguidores del underground." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
+**Psychedelic Jungle (1981)** : Released in 1981, this album's release was quickly followed by a legal dispute with their record label over unpaid royalties. This legal battle prevented the band from recording new material for two years, during which they focused on touring. "Ese mismo año tuvieron una disputa legal con su discográfica por derechos de autónopagados, lo cual les impidió grabar nuevo material durante dos años, por lo que se dedicaron a tocar y hacer giras." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
+**Smell of Female (1983)** : This album marked The Cramps' return to recording in 1983, following a two-year hiatus caused by legal issues with their record label. "En 1983 regresaron con Esmelos Fimel." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
+**Songs the Lord Taught Us (1980)** : This album, released in 1980, was composed of various cover songs, including an old Willie John track that had previously been a hit for Peggy Lee in 1958, showcasing Poison Ivy's distinctive guitar style. "In 1980, they released an album called Songs The Lord Taught Us. It featured a bunch of covers, including an old Willie John song that had become a hit for Peggy Lee in 1958." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← the-cramps
+**Songs the Lord Taught Us (1980)** : The Cramps covered "Surfin' Bird" on their 1978 debut album. Their music often had a surfy feel, blended with elements of horror and camp, making the cover a natural fit for their style. "The Cramps, for example, covered it on their debut album in 1978, which made a lot of sense, because what they did was, in many cases, pretty surfy, although it was mixed with a ton of horror and camp." ← https://www.youtube.com/watch?v=pOeChe_D1Ag ← the-cramps
+**Songs the Lord Taught Us (1980)** : The band's long-awaited first album, released in 1980. It featured Nick Knox, who would become their most iconic drummer. Due to high anticipation from their cult following, it was an immediate success among underground enthusiasts. "La expectativa era tan grande que fue un éxito entre los seguidores del underground." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
 **Stay Sick! (1990)** : Recorded in 1990. "En 1990 graban Stysheek." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
 
 ## songs
@@ -100,8 +94,7 @@
 **Sound and Style** : Their distinctive sound was a fusion of garage rock and surf music, leading to the development of genres known as psychobilly and Gotha Billy. The band members were equally influenced by punk and horror movies. "Their sound combined elements of garage rock and surf music and something that became known as psychobilly and Gotha Billy. The Cramps were equal part punks and horror movie." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← the-cramps ← the-cramps
 **The Cramps' Definition of Psychobilly vs. Others** : When The Cramps toured the United Kingdom, they were surprised to discover other bands identifying with the psychobilly genre. However, The Cramps asserted that their only commonality with these bands was shared references, not their fast and violent musical sound. "Cuando viajaron al reino unido de gira, para su sorpresa, había varias bandas que se englobaban dentro del género, pero ellos defendían que lo único que tenían en común con esas bandas eran las referencias, no compartían su sonido rápido y violento." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
 **Visual Aesthetic and Inspirations** : The Cramps' visual image was heavily influenced by a 1950s aesthetic, drawing strong inspiration from publications such as *Famous Monsters*, *Shock Theater*, and *Tales from the Crypt*. This vintage horror and sci-fi imagery was then filtered through the punk ethos emerging in New York. "Asi inspiraron fuertemente en publicaciones como Famos Monster, Soft Finland y Tales from the Creed, todo ello pasado por el filtro punk que estaba emergiendo en Nueva York." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
-
-
+**Famous Monster Sofinland Magazine Logo Source** : The Crams (The Cramps) derived their logo from a source found in the magazine "Famous Monster Sofinland." "que sacan un sitio por hacia de la revista Famous Monster Sofinland." ← Cómo los Logos Definieron la Música ｜ Símbolos de Resistencia | https://www.youtube.com/watch?v=m4ou0G-CCLc
 
 ## lists
 **"Songs the Lord Taught Us" (1980) — 1001 Albums You Must Hear Before You Die** : #455.

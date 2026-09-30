@@ -5,4 +5,3 @@
 
 ## curiosities
 **Global Phenomenon - Crazy Frog Character** : Crazy Frog was a computer-animated character created by the company Hamba. Initially accompanying an audio track imitating a motorcycle sound, it quickly gained global recognition when it was used for remixes of popular songs. This phenomenon exemplified the hyper-commercialization of ringtones, leading to accelerated remixes and novelty sounds. "Crazy Foxy convertió en un fenómeno mundial. Este personaje animado por computadora creado por la empresa Hamba para acompañar un audio en el que aparecía inmitando el sonido de una moto." ← Por qué ya no elegimos nuestro tono de llamada？ | https://www.youtube.com/watch?v=PVZrB26sBlQ
-

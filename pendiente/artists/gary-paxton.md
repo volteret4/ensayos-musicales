@@ -1,5 +1,4 @@
 # artist - Gary Paxton
 
 ## member of
-- The Hollywood Argales
-
+- The Hollywood Argyles

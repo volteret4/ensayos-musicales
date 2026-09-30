@@ -1,6 +1,5 @@
 # artist - Rosalind Ashford
 
 ## member of
-- Martha and the Van Dellers
-- The Delphiys
-
+- Martha and the Vandellas
+- The Del-Phis

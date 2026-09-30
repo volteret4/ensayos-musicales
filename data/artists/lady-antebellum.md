@@ -2,8 +2,8 @@
 
 ## curiosities
 **Grammy Nominations Buzz (2011) - Industry Talk** : There was significant buzz in the music world regarding Lady Antebellum's potential Grammy nominations at the 53rd annual awards. "and Lady Antebellum." ← https://www.youtube.com/watch?v=Q_c-m_NDznw ← lady-antebellum ← lady-antebellum
-
-
+**Grammy Nominations Buzz (2011) - Industry Talk** : There was significant buzz in the music world regarding Lady Antebellum's potential Grammy nominations at the 53rd annual awards. "and Lady Antebellum." ← https://www.youtube.com/watch?v=Q_c-m_NDznw ← lady-antebellum
+**Lost Album of the Year to The Arcade Fire (2011)** : Lady Antebellum was among the nominees for Album of the Year in 2011, when The Arcade Fire's "The Suburbs" unexpectedly won the award. "In 2011, the arcade fire were shocked when their album The Suburbs took album of the Year over Eminem, Lady Gaga, Lady Antebellum and Katy Perry." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
 
 ## awards
 **Grammy Award for Best New Artist (2009)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643

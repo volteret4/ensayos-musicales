@@ -7,13 +7,13 @@
 - Scott Weiland
 
 ## labels
-- Atlantic Records (signed as Mighty Joe Young)
+- Atlantic Records
 
 ## concerts
 - The Whiskey on Sunset Boulevard (Los Angeles)
 
 ## songs
-**Dirty Dog (Demo)** : A demo track by pre-STP Mighty Joe Young, described as having a sound influenced by the funkiness of the Red Hot Chili Peppers, which some found hard to believe would evolve into Stone Temple Pilots. "That's pre-STP Mighty Joe Young with a demo called Dirty Dog." ← https://www.youtube.com/watch?v=r6vVw66-gmI ← mighty-joe-young
+**Dirty Dog** : A demo track by pre-STP Mighty Joe Young, described as having a sound influenced by the funkiness of the Red Hot Chili Peppers, which some found hard to believe would evolve into Stone Temple Pilots. "That's pre-STP Mighty Joe Young with a demo called Dirty Dog." ← https://www.youtube.com/watch?v=r6vVw66-gmI ← mighty-joe-young
 **Only Dying (1990)** : A song by Mighty Joe Young, likely from around 1990, showcasing their early sound before they became Stone Temple Pilots. "That's Mighty Joe Young from about 1990 with a song called Only Dying." ← https://www.youtube.com/watch?v=r6vVw66-gmI ← mighty-joe-young
 
 ## curiosities
@@ -22,12 +22,4 @@
 **Forced Name Change** : The band was compelled to change their name from Mighty Joe Young because an old Chicago blues singer, also named Joe Young, objected to their use of the name. This happened just two days before they were scheduled to submit their debut album to Atlantic Records. "An old Chicago blues singer named Joe Young, objected to the band using the name Mighty Joe Young because that's the name he used to use." ← https://www.youtube.com/watch?v=r6vVw66-gmI ← mighty-joe-young
 **Influence of Red Hot Chili Peppers** : During the late 1980s, when hair metal was popular and grunge was still emerging, Robert DeLeo, a big fan of Flea and the Red Hot Chili Peppers' funkiness, influenced Mighty Joe Young's sound, as evident in some of their early songs like "Dirty Dog." "Robert Delayo was a big fan of flea in the funkiness of the Red Hot Chili Peppers who were finally starting to do well." ← https://www.youtube.com/watch?v=r6vVw66-gmI ← mighty-joe-young
 **San Diego Misconception** : The band got a bunch of gigs in San Diego, partly due to Dean DeLeo's help, which led to the misconception that Stone Temple Pilots originated from San Diego. "Dean Delayo wasn't much interested in being in a band at all, but he did help his brother and Scott and Eric get a bunch of gigs in San Diego, which is where the misconception of STP being a San Diego band started." ← https://www.youtube.com/watch?v=r6vVw66-gmI ← mighty-joe-young
-
-
-
-## charts
-**"All the Things" — Billboard Year-End Hot 100** : #55, 1996. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Don't Wanna Be a Player" — Billboard Year-End Hot 100** : #84, 1997. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"I Wanna Know" — Billboard Year-End Hot 100** : #4, 2000. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Stutter" — Billboard Year-End Hot 100** : #13, 2001. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Stutter" — UK Indie Singles Chart** : 2001. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart
+**Original Name of Stone Temple Pilots** : The band that would become Stone Temple Pilots initially formed in San Diego under the name Muddy Joe Young. "They first came together in San Diego under the name Muddy Joe Young." ← https://www.youtube.com/watch?v=vLZla5h4xKQ ← muddy-joe-young

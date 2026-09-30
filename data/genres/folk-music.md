@@ -11,6 +11,8 @@
 **Troubadour as a Folk Hub** : In its early years and during specific nights, The Troubadour served as a significant folk club. It hosted emerging folk legends like Phil Ochs and Judy Collins and provided an open mic "Hootnanny" for aspiring folk singers. "But the rest of the time it was a folk club." ← For the Record - The 70s > Ep. 41 - The Impact of The Troubadour on 1970s Popular Culture | https://seventies.libsyn.com/ep-41-the-impact-of-the-troubadour-on-1970s-popular-culture
 **Various Flavors in 1950s Britain** : In mid to late 1950s Britain, folk music existed in "various flavors" alongside imported American rock and roll and the skiffle craze. This diverse musical landscape was the backdrop against which Trag Jazz emerged. "In the midst of imported American rock and roll records, the skiffle craze and various flavors of folk music, some young people rejected contemporary sounds, in favor of something known as Trag Jazz." ← https://www.youtube.com/watch?v=zNIVqKqAlnk ← folk-music
 **Vehicle for Communist-Labeled Messages (1930s-1940s)** : In the 1930s and 1940s, folk music was utilized by artists like Woody Guthrie and Pete Seeger to disseminate messages. This led to them being labeled as communists by authorities. "In the 30s and 40s, Woody got three and Pete Seeger used folk music to spread messages that had them labeled as communists." ← https://www.youtube.com/watch?v=0ARYt4sYT90 ← folk-music
+**Rise of John Denver** : John Denver was a rising star in the world of folk music during the 1960s. "In the 1960s, Denver had been a rising star in the world of folk music." ← Hit Parade Music History and Music Trivia > Country Roads and Summer Nights Edition Part 1 | https://shows.acast.com/hit-parade/episodes/698fd3ebd6c27a06bb92e1f2
+**Shift to Rock and Roll** : The folk scene began to give way to rock and roll around 1965. "just as the folk scene was giving way to rock and roll." ← Hit Parade Music History and Music Trivia > Country Roads and Summer Nights Edition Part 1 | https://shows.acast.com/hit-parade/episodes/698fd3ebd6c27a06bb92e1f2
 
 ## artists
 - Kate Bush
@@ -19,4 +21,4 @@
 - Pete Seeger
 - The Searchers
 - Woody Guthrie
-
+- John Denver

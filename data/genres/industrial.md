@@ -24,10 +24,9 @@
 
 ## artists
 - Al Jourgensen
-- Andrea Hogan (Hügellands Roondance)
 - Björk
 - David Bowie
-- Delirium
+- Delerium
 - Devo
 - Esplendor Geométrico
 - Fever 333
@@ -37,10 +36,9 @@
 - Marilyn Manson
 - Ministry
 - Nine Inch Nails
-- Nine-inch nails
 - Nitzer Ebb
 - Psychic TV
-- Public Image Limited
+- Public Image Ltd
 - Skinny Puppy
 - The Soft Moon
 - Trent Reznor

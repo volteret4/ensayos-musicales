@@ -16,10 +16,10 @@
 - Charlie Parker
 - Dexter Gordon
 - Dizzy Gillespie
-- Mickey Baker (MacHuston Baker)
+- Mickey Baker
 - Miles Davis
 - Oscar Peterson
 - Sonny Rollins
-- Thelonius Monk
-- Tony Crumbi and the Rocket
+- Thelonious Monk
+- Tony Crombie and His Rockets
 

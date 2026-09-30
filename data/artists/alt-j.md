@@ -1,5 +1,8 @@
 # artist - Alt J
 
+## members
+- Thom Sonny Green
+
 ## genres
 - Geek Rock
 
@@ -13,8 +16,6 @@
 ## curiosities
 **Diverse Thematic Content** : Alt J's songs feature appropriately geeky subject matter, drawing from a wide range of references including a photographer in the Spanish Civil War, Natalie Portman's character in the movie "The Professional," the children's book "Where the Wild Things Are," and Truman Capote's book "In Cold Blood." "Subject matter for their songs is appropriately geeky, a photographer in the Spanish Civil War, Natalie Portman's character in the movie The Professional." ← Ongoing History of New Music > The History of Nerd Rock | https://www.youtube.com/watch?v=h6snk0m4200&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Name Origin from Keyboard Shortcut** : The band's name, Alt J, originates from a Mac keyboard shortcut (Option Key + J) which produces the Delta symbol (Δ). This symbol, a Greek letter, is used in science, mathematics, and engineering to denote change or difference, highlighting the band's geeky and intellectual identity. "Alt J comes from a keyboard shortcut on a Mac. If you're a scientist or a mathematician or an engineer and you want to use the symbol for Delta, which is the Greek letter that looks like a triangle, and is used to indicate change or difference, the keyboard shortcut on a Mac is Option Key, the equivalent of the Alt key on a PC keyboard, and the letter J." ← Ongoing History of New Music > The History of Nerd Rock | https://www.youtube.com/watch?v=h6snk0m4200&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-
-
 
 ## awards
 **James Joyce Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3806623

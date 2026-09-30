@@ -5,8 +5,3 @@
 
 ## curiosities
 **First to Release Music** : Harper was the first of Eddie Vedder's daughters to release music, contributing a cover song with her father to the launch of a Pearl Jam-dedicated Sirius XM channel in 2016. "Harper was the first to release some music when Sirius XM launched a channel dedicated to Pearl Jam in 2016." ← https://www.youtube.com/watch?v=dY7uB_QQWBc ← harper-vedder
-
-
-
-## lists
-**"Albion" (2023) — Sputnikmusic Best Albums 2023** : #50, 3.89 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2023/

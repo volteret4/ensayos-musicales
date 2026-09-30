@@ -17,10 +17,5 @@
 **Alt Rock Success and Fanbase** : The Call, originating from Santa Cruz, California, achieved success in the Alt Rock genre throughout the 1980s and 90s, releasing nine studio albums. The band was admired by artists like U2 and Peter Gabriel. "The call had some success in the Alt Rock world through the 1980s and 90s with nine studio albums. You too and Peter Gabriel were big fans." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← the-call
 **Reunions with Robert Been** : Following Michael Been's death, there have been Call reunions where his son, Robert Been, filled in for his father. "Since then, there have been some call reunions during which Robert filled in for Dad." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← the-call
 
-
-
 ## awards
 **NRJ Music Award for International Group/Duo/Troupe of the Year (2003)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3334537
-
-## lists
-**"Calla" (1999) — Scaruffi 1990s** : #179, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

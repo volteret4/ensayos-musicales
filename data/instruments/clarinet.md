@@ -6,7 +6,6 @@
 
 ## artists
 - Benny Goodman
-- Benny Goodman Orchestra
-- Mez Mezrow
+- Mezz Mezzrow
 - The Black Keys
 

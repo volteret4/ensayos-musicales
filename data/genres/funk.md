@@ -47,22 +47,19 @@
 - Big Boys
 - Billy Preston
 - Bootsy Collins
-- Cameo
-- Can
+- CAN
 - Chic
 - Cindy Blackman Santana
 - Curtis Mayfield
 - D.H. Peligro
 - David Bowie
 - Death
-- Earth Wind & Fire
-- Earth Wind and Fire
 - Earth, Wind & Fire
 - Fishbone
 - Funkadelic
 - Gang of Four
 - George Clinton
-- Glüleg
+- Glueleg
 - Grace Jones
 - Heatwave
 - Isaac Hayes
@@ -90,9 +87,8 @@
 - Rick James
 - Roger Troutman
 - Rose Royce
-- Roy Hammond
+- Roy C. Hammond
 - Sly Stone
-- StereoLab
 - Stereolab
 - Stevie Wonder
 - Talking Heads
@@ -103,13 +99,18 @@
 - The Pop Group
 - The Slits
 - The Undisputed Truth
-- The Winston's
+- The Winstons
 - Three Dog Night
 - Thundercat
 - Tim Buckley
 - Tune-Yards
 - War
 - Wild Cherry
-- Wu Tang Clan
+- Wu-Tang Clan
 - Zapp
-
+- OutKast
+- Bruno Mars
+- Sting
+- Mark Ronson
+- Donna Summer
+- The Pointer Sisters

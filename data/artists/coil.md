@@ -3,8 +3,6 @@
 ## curiosities
 **Industrial Music Scene Influence** : This band was very important to the industrial music scene and a favorite of Trent Reznor. Peter Christopherson, a member, collaborated on the original video art project for Nine Inch Nails' "Broken" EP. "Two bands very important to the industrial music scene and two favorites of Trent." ← https://www.youtube.com/watch?v=DKdF8NgF5Bw ← coil
 
-
-
 ## lists
 **"Horse Rotorvator" (1986) — AOTY Must Hear 1980s** : #81, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
 **"Musick to Play in the Dark" (1999) — AOTY Must Hear 1990s** : #23, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/

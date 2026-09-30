@@ -1,11 +1,8 @@
 # artist - Ghost
 
 ## members
-- Dee Snider (of Twisted Sister, potentially temporary Nameless Ghoul)
 - Nameless Ghouls
-- Papa Emeritus IV
 - Tobias Forge
-- Tobias Forge (as Papa Emeritus)
 
 ## genres
 - Do-metal
@@ -29,8 +26,6 @@
 **Swedish Metal Group, Formerly Ghost B.C.** : Ghost is a Swedish metal group that was once known as Ghost B.C. in the United States to prevent confusion with other bands sharing the name. "There are a number of bands with that name, but in this case, I mean the Swedish metal group who were once referred to as Ghost BC in the US to keep them from getting confused with someone else." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← ghost ← ghost
 **Symbolism and Alchemy** : Their image incorporates special symbols, vestments, and references to alchemy and ancient elements such as fire, water, wind, earth, and also "ether." "There are special symbols, investments, references to alchemy and the ancient elements of fire, water, wind and earth. Oh, and ether too, for some reason." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← ghost ← ghost
 **Worldwide Fanbase and Grammy Success** : Ghost has a massive worldwide fanbase and has received four Grammy Awards, becoming a significant concert draw despite limited radio play. "Ghost has a massive worldwide fanbase and four Grammy Awards to their name. And while they don't get on the radio too much, they've become a giant concert draw." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← ghost ← ghost
-
-
 
 ## lists
 **"Prequelle" (2018) — AOTY Must Hear 2010s** : #178, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/

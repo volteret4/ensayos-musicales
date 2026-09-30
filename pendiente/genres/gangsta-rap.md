@@ -5,5 +5,5 @@
 **Increased Pressure for Parental Advisory** : The evolution of rap into gangsta rap, featuring increasingly explicit lyrics, led to immense pressure for albums in this genre to be labeled with Parental Advisory, especially after 1987. "el rap había entrado en ese proceso que evolucionaría al ganestar rap cuyas litras empezaban a ser enormemente explícitas." ← Music Radar Clan > Parental Advisory, sorprendente historia tras esta etiqueta | https://www.youtube.com/watch?v=Cpz35BoAOMs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← gangsta-rap
 
 ## artists
-- Ni Ganswizatitude
+- N.W.A
 

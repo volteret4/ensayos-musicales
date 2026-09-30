@@ -1,7 +1,7 @@
 # artist - Halsey
 
 ## genres
-- Film Noir (thematic influence)
+- Film Noir
 - Pop
 - Rock
 
@@ -13,8 +13,8 @@
 **If I Can't Have Love, I Want Power (2021)** : This album features the song "I'm not a woman, I'm a God" and is described as a mission statement from the artist. "That's from her 2021 album, if I can't have love, I want power." ← https://www.youtube.com/watch?v=11UsTJQyQds ← halsey ← halsey
 
 ## songs
-**I Am Not a Woman, I'm a God (Year not specified)** : This song is mentioned in the context of Halsey's determination and resilience in managing a wide array of incurable health challenges, suggesting her ability to juggle these issues makes her seem almost superhuman. "Halsey and I am not a woman, I'm a God. And she must be given how she's been able to juggle all her various incurable health challenges." ← https://www.youtube.com/watch?v=uzIMWVbi-GM ← halsey ← halsey
-**I'm not a woman, I'm a God (2021)** : This song is featured on Halsey's 2021 album, "If I Can't Have Love, I Want Power," and is presented as capturing a specific mood. "That's Ashley Nicolette Fragipani, better known as Halsey, with I'm not a woman, I'm a God." ← https://www.youtube.com/watch?v=11UsTJQyQds ← halsey ← halsey
+**I Am Not a Woman, I'm a God (2021)** : This song is mentioned in the context of Halsey's determination and resilience in managing a wide array of incurable health challenges, suggesting her ability to juggle these issues makes her seem almost superhuman. "Halsey and I am not a woman, I'm a God. And she must be given how she's been able to juggle all her various incurable health challenges." ← https://www.youtube.com/watch?v=uzIMWVbi-GM ← halsey ← halsey
+**I Am Not a Woman, I'm a God (2021)** : This song is featured on Halsey's 2021 album, "If I Can't Have Love, I Want Power," and is presented as capturing a specific mood. "That's Ashley Nicolette Fragipani, better known as Halsey, with I'm not a woman, I'm a God." ← https://www.youtube.com/watch?v=11UsTJQyQds ← halsey ← halsey
 
 ## curiosities
 **"A Story Like Mine" – Spoken Word Performance (2018)** : At the Women's March in New York City in March 2018, Halsey performed a powerful spoken word piece that recounted deeply personal and traumatic experiences of sexual assault and abuse from various stages of her life, and that of her friends, tying it into the broader #MeToo movement. She described a friend's rape at 14 in 2009, her own childhood experience in 2002 by a neighbor's son, a coercive relationship in 2012, and a later assault in 2017 despite believing she was "protected" by her fame. She also revealed performing a show in Chicago while having a miscarriage. The piece emphasized that "nobody is safe" as long as women are alive and acknowledged figures like Ashley, Simone, Gabby, Makayla, Gaga, and Rosario Alli as heroes. "It's Halsey. We're siding up home from a women's march in New York City in March 2018." ← https://www.youtube.com/watch?v=ZzIqIydZTlA ← halsey
@@ -31,8 +31,6 @@
 **Social Media Origin** : Halsey is cited as an artist who rose to prominence and built her career through the use of social media platforms. "Halsey." ← https://www.youtube.com/watch?v=nX8uAFDzDYM ← halsey
 **Strong Artistic Control** : Halsey is known for her assertive stance in her career, making it clear that she is not to be dictated to by her record company or external pressures. She maintains full control over her artistic and career decisions and strongly dislikes the concept of "forced viral moments." "Halsey is going to do what Halsey wants to do no matter what you're talking about." ← https://www.youtube.com/watch?v=11UsTJQyQds ← halsey ← halsey
 **Unique Identity and Influences** : Halsey has synthesized various influences, including Jagger, Bowie, Amy Winehouse, and Dolores O'Riordan, to craft a distinctive identity. This identity incorporates concepts of gender identity, bisexuality, film noir, mental health, political activism, racial justice, and motherhood, all stemming from an authentic personal place. "Halsey has taken a bunch of different influences from Jagger and Bowie to Amy Winehouse and Dolores are reared in and crafted a unique identity that also includes concepts of gender identity, bisexuality, film noir, mental health, political activism, racial justice, motherhood, and so much more." ← https://www.youtube.com/watch?v=11UsTJQyQds ← halsey ← halsey
-
-
 
 ## awards
 **Billboard Music Award for Top Hot 100 Song (2017) — Closer** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q28454130

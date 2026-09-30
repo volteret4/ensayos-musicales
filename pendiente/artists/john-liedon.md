@@ -1,2 +1,0 @@
-# artist - John Liedon
-

@@ -6,5 +6,5 @@
 
 ## artists
 - Dale Hawkins
-- Sonny Tramble
+- Sonny Trammell
 

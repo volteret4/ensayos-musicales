@@ -2,7 +2,6 @@
 
 ## genres
 - New Metal
-- New Metal (offshoot)
 
 ## concerts
 - Vans Warped Tour (multiple times)
@@ -12,8 +11,6 @@
 **Escaped New Metal Classification** : Papa Roach was initially categorized under the heading of new metal but eventually escaped that classification, a goal many bands fought hard to achieve. "Papa Roach... Most eventually escaped that classification, something that many fought very hard to do." ← https://www.youtube.com/watch?v=5bQz8R0gbXc ← papa-roach
 **New Metal Offshoot** : Papa Roach was listed among "offshoot" groups that integrated some of the sonic elements of new metal into their music, even if they weren't considered pure new metal bands themselves. "Crazy town, popper roach, disturbed, and this new band out of LA called Lincoln Park." ← https://www.youtube.com/watch?v=hBQE4t72i3o ← papa-roach ← papa-roach
 **Unexpected Warped Tour Resume Entry** : Papa Roach is mentioned as an artist whose presence on the Warped Tour might be unexpected, reflecting the diverse acts that performed at the festival. "Here are some other artists that you may not have expected to have warped on their resume... Papa Roach..." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← papa-roach
-
-
 
 ## awards
 **Grammy Award for Best New Artist (2001)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643

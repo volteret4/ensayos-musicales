@@ -5,8 +5,8 @@
 - Christian Tana
 - Edwin
 - Jag Tana
-- Jeff Burrows (Crash Karma)
-- Mike Turner (Crash Karma)
+- Jeff Burrows
+- Mike Turner
 
 ## concerts
 - Edge Fest
@@ -14,10 +14,10 @@
 ## albums
 **Blue Green Orange (1999)** : This album was released in 1999. "There was another album called Blue Green Orange in 1999." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← i-mother-earth
 **Crash Karma (2010)** : This was the debut and only record released by the band Crash Karma, formed in 2008 by Edwin, Mike Turner (ex-Our Lady Peace), and Jeff Burrows (The Tea Party). "they had one record in 2010." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← i-mother-earth
-**Dig (1993) - Debut Album** : This was the debut album for I Mother Earth, released in August 1993. The track "Not Quite Sonic" is from this album. "Time of the Earth, not quite sonic from their debut album Dig, released in August of 1993." ← https://www.youtube.com/watch?v=U2kYleeMnl8 ← i-mother-earth ← i-mother-earth
-**Dig (1993) – Debut Album** : Released in the summer of 1993, this debut record was a surprise for its accomplished, tight, and cohesive sound, coming from a band that seemingly emerged "out of nowhere." It was recorded in Los Angeles and produced by Mike Clink, known for his work on Guns N' Roses' *Appetite for Destruction*. The album achieved platinum status in Canada. "That debut record went platinum in Canada." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← i-mother-earth
-**Quicksilver Meat Dream (2003) – Final Album Before Hiatus** : Released in 2003, this record was the band's last album before their initial breakup. "a final record entitled Quick Silver Meat Dream in 2003, and then they broke up." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← i-mother-earth
-**Scenery and Fish (Year Not Given) – Second Album** : This album achieved double platinum certification in Canada. "The second, Cena Rean Fish went double platinum." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← i-mother-earth
+**Dig (1993)** : This was the debut album for I Mother Earth, released in August 1993. The track "Not Quite Sonic" is from this album. "Time of the Earth, not quite sonic from their debut album Dig, released in August of 1993." ← https://www.youtube.com/watch?v=U2kYleeMnl8 ← i-mother-earth ← i-mother-earth
+**Dig (1993)** : Released in the summer of 1993, this debut record was a surprise for its accomplished, tight, and cohesive sound, coming from a band that seemingly emerged "out of nowhere." It was recorded in Los Angeles and produced by Mike Clink, known for his work on Guns N' Roses' *Appetite for Destruction*. The album achieved platinum status in Canada. "That debut record went platinum in Canada." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← i-mother-earth
+**Quicksilver Meat Dream (2003)** : Released in 2003, this record was the band's last album before their initial breakup. "a final record entitled Quick Silver Meat Dream in 2003, and then they broke up." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← i-mother-earth
+**Scenery and Fish** : This album achieved double platinum certification in Canada. "The second, Cena Rean Fish went double platinum." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← i-mother-earth
 
 ## songs
 **Not Quite Sonic (1993)** : This song is from I Mother Earth's debut record, *Dig*. Its introduction suggests a possible inspiration from Slash's opening guitar parts in Guns N' Roses' "Welcome to the Jungle." "not quite sonic from their debut record Dig." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← i-mother-earth
@@ -39,8 +39,6 @@
 **Record Label Bidding War** : After recording demos and performing gigs, the band became the focus of a bidding war among record labels. "They recorded some demos, played some gigs, and ended up being the subject of a bidding war." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← i-mother-earth
 **Subject of Bidding War** : I Mother Earth was the subject of a fierce bidding war among several labels, highlighting their significant potential and the industry's increasing interest in Canadian talent during the 1990s. Their performance at Edge Fest further showcased their popularity. "Another band that had been the subject of a fierce bitty war among several labels." ← https://www.youtube.com/watch?v=6PGgNCaW4xo ← i-mother-earth
 **Vocalist Change (Post-Scenery and Fish)** : Following the release of their second album, original vocalist Edwin decided to depart from the band and was replaced by Brian Byrne. "Edwin decided he didn't want to be part of the band anymore, so he was replaced by Brian Burn." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← i-mother-earth
-
-
 
 ## lists
 **"Scenery & Fish" (1996) — Sputnikmusic Best Albums 1996** : #152, 3.98 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/

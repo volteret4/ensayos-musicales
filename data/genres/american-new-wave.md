@@ -6,5 +6,5 @@
 ## artists
 - The Cars
 - The Pretenders
-- The Talking Heads
+- Talking Heads
 

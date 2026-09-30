@@ -1,0 +1,4 @@
+# artist - David Letterman
+
+## curiosities
+**Pivotal Career Boost for Hootie & the Blowfish** : Legendary late show host David Letterman played a crucial role in Hootie & the Blowfish's breakthrough. In late summer 1994, he heard their music on the radio and, unprompted by Atlantic Records, personally booked them for the *Late Show*. This appearance was their first national showcase and is directly credited by Darius Rucker as "Letterman made our career," leading to a significant jump in *Cracked Rear View*'s chart performance. "In the late summer of 1994, legendary late show host David Letterman happened to catch a Hoody and the Blowfish song on the radio, and he asked to book the band at a time when Atlantic wasn't even promoting Hoody to late night TV." ← Hit Parade Music History and Music Trivia > A Little Love and Some Tenderness Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f6f64fe6d21276e433e

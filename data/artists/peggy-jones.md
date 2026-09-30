@@ -4,7 +4,7 @@
 - Bo Diddley
 
 ## instruments
-- Electric guitar (rhythm guitar)
+- Electric guitar
 - Guitar
 - Guitar synthesizers
 
@@ -17,10 +17,3 @@
 **One of the First Female Rock Guitarists** : Peggy Jones joined Bo Diddley's band as a guitarist in 1957 and is recognized as one of the first female rock guitarists in a famous rock band. She later became known for her experimental use of guitar synthesizers, a rare application in R&B music at the time. "This Black woman was recognized as one of the first female rock guitarists in a famous rock band." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ ← peggy-jones
 **Pioneer of Guitar Synthesizers in R&B** : Peggy Jones distinguished herself through her experiments with guitar synthesizers, which was an uncommon practice in R&B music when she was using them. This innovative approach highlighted her forward-thinking musicality beyond her role as a pioneering female rock guitarist. "She'd later be recognized for her experiments with guitar synthesizers and nobody used those in R&B music." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ ← peggy-jones
 **Pioneering Female Electric Guitarist in Rock** : Peggy Jones, also known as Lady Bo, joined Bo Diddley's band in 1957 as a rhythm guitarist, potentially making her the first woman to be visibly playing electric guitar in a rock band. Her recruitment came after Diddley observed her carrying a guitar case. "And as such, she might have very well been the first woman to be visible as an electric guitarist in a rock band. This was 1957." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← peggy-jones
-
-
-
-## lists
-**"Egg" (1970) — Scaruffi 1970s** : #262, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Civil Surface" (1974) — Scaruffi 1970s** : #263, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Polite Force" (1971) — Scaruffi 1970s** : #264, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

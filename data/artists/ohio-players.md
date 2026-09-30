@@ -9,10 +9,11 @@
 - Jazz
 
 ## albums
-**Honey** : The album artwork featured a woman named Esther Cordit posing covered in honey. "She posed for the album artwork covered in Honey, which is true." ← https://www.youtube.com/watch?v=pmKjZzypzvg ← ohio-players
-**Mr. Mean (Year not specified)** : The Ohio Players attempted a jazzier sound on this album, as part of their efforts to adapt after their peak mid-70s success. "They tried going jazzier on an album called Mr. Mean" ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
+**Honey (1975)** : The album artwork featured a woman named Esther Cordit posing covered in honey. "She posed for the album artwork covered in Honey, which is true." ← https://www.youtube.com/watch?v=pmKjZzypzvg ← ohio-players
+**Mr. Mean (1977)** : The Ohio Players attempted a jazzier sound on this album, as part of their efforts to adapt after their peak mid-70s success. "They tried going jazzier on an album called Mr. Mean" ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
 
 ## songs
+**FOP** : This was a mid-1970s funk hit that Soundgarden covered for the title track of their "FOP" EP. Guitarist Kim Thayil stated his intention to transform it into something closer to AC/DC's style. "The title track of the FOP EP was a cover of a mid-70s hit by funk band The Ohio Players." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 **Love Rollercoaster (1975)** : An urban legend surrounding this 1975 song claims that between two minutes and 32 seconds and two minutes and 36 seconds, the sound of a woman being murdered live in the studio and looped into the mix can be heard. Other versions of the story included the woman being killed specifically for the song, falling off a rollercoaster, being scalded by heated honey while posing for album art (Esther Cordit), or someone killing her rabbit outside the studio. The truth is that singer Billy Beck produced a weird, inhaling scream, which a radio DJ joked sounded like someone dying, causing the rumor to spread and the band never denied it, helping record sales. "The truth is that singer Billy Beck did this weird, inhaling scream. And some radio DJ, you don't know who, made the crack about it sound like someone dying and the rumor took off." ← https://www.youtube.com/watch?v=pmKjZzypzvg ← ohio-players
 
 ## curiosities
@@ -22,8 +23,6 @@
 **Mid-70s Pop Success without Dilution** : Through 1976, the Ohio Players were able to score massive pop hits while maintaining an unabashedly funky sound without dilution. "acts as unabashedly funky as war and the Ohio players were scoring massive pop hits without diluting their sound." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
 **Rising Generation of 70s Funk** : The Ohio Players were part of a rising generation of syncopated bands and soulful singers in the first half of the 1970s that took up the innovations of 60s funk. "These acts from war to cool in the gang to the Ohio players, saw their funky recordings rise not just on the singles charts, but also the album chart." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
 **Sexy Album Covers** : The Ohio Players were known for their "sexy covers" on albums, though Earth Wind & Fire later upped the ante for R&B and funk iconography with their own elaborate imagery. "even more than the sexy covers from the Ohio players, upped the ante for R&B and funk iconography." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
-
-
 
 ## charts
 **"Funky Worm" — Billboard Year-End Hot 100** : #84, 1973. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

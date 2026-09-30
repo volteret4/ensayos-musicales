@@ -1,16 +1,12 @@
 # artist - Jay Weinberg
 
-## members
-- Jay Weinberg (drums, joined 2013)
-- Jordy Jordison (drums, departed 2013)
-
 ## instruments
 - bass
 - drums
 - guitar
 
 ## albums
-**.5: The Gray Chapter (2014) – Jay Weinberg's Debut Album** : Released in 2014, this album marked the first Slipknot record to feature Jay Weinberg on drums. "This is from the 2014 album Five, The Great Chapter, the first Slipknot album to feature Jay Weinberg." ← https://www.youtube.com/watch?v=dY7uB_QQWBc ← jay-weinberg
+**.5: The Gray Chapter (2014)** : Released in 2014, this album marked the first Slipknot record to feature Jay Weinberg on drums. "This is from the 2014 album Five, The Great Chapter, the first Slipknot album to feature Jay Weinberg." ← https://www.youtube.com/watch?v=dY7uB_QQWBc ← jay-weinberg
 
 ## songs
 **Goodbye (2014)** : This song is from the 2014 album .5: The Gray Chapter and is notable for being one of the first Slipknot tracks to feature Jay Weinberg on drums. "This is goodbye." ← https://www.youtube.com/watch?v=dY7uB_QQWBc ← jay-weinberg
@@ -23,8 +19,3 @@
 **Musical Taste Development** : Jay Weinberg's musical preferences were significantly heavier than his father's, Max Weinberg, gravitating towards metal. "his tastes tended to be a lot harder than what his father was into." ← https://www.youtube.com/watch?v=dY7uB_QQWBc ← jay-weinberg
 **Ozzfest 2000 Inspiration** : In 2000, his father took Jay to an Ozzfest show, where seeing the band Slipknot solidified his desire to play metal and drums. "Way back in 2000, Dad took Joey to an Osfest show, an event that included a new band called Slipknot." ← https://www.youtube.com/watch?v=dY7uB_QQWBc ← jay-weinberg
 **Self-Taught Drummer** : Jay started playing drums at age 14, largely self-taught and often using his father's equipment, though his father provided some assistance. "So, at age 14, and usually Dad's gear, he started to play. And he was mostly self-taught, although Dad helped out a little." ← https://www.youtube.com/watch?v=dY7uB_QQWBc ← jay-weinberg
-
-
-
-## charts
-**"Apples, Peaches, Pumpkin Pie" — Billboard Year-End Hot 100** : #21, 1967. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

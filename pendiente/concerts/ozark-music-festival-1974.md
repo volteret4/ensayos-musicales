@@ -16,13 +16,12 @@
 - Black Flag
 - Bloodstone
 - Bob Seger
-- Elvin Bishop
 - Joe Walsh
 - Lynyrd Skynyrd
 - Marshall Tucker Band
 - Nitty Gritty Dirt Band
 - Ozark Mountain Daredevils
 - REO Speedwagon
-- The Eagles
-- The Earl Scruggs Review
+- Eagles
+- Earl Scruggs Revue
 

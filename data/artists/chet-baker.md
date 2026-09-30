@@ -6,7 +6,5 @@
 ## curiosities
 **Jaki Liebezeit's Collaboration** : Jaki Liebezeit, who would later become the drummer for Can, had previously played with the renowned jazz trumpeter Chet Baker. "que no había tocado con Jet Baker" ← CAN ｜ La Banda que (posiblemente) Inspiró a tu banda preferida | https://www.youtube.com/watch?v=4qHiw2wHWAI
 
-
-
 ## lists
 **"Chet Baker Sings" (1956) — AOTY Must Hear 1950s** : #18, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1950s/

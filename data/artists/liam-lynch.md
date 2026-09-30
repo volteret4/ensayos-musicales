@@ -18,7 +18,5 @@
 **Paranormal Activity Channel** : Liam Lynch and his wife record paranormal activity and upload the footage to their YouTube channel, "The Spark Club." "He and his wife record paranormal activity, which he uploads to a YouTube channel called The Spark Club." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M ← liam-lynch
 **Physical Inability** : According to multiple sources, Liam Lynch is unable to burp. "And according to several sources, he is unable to burp." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M ← liam-lynch
 
-
-
 ## charts
 **"United States of Whatever" — UK Indie Singles Chart** : 2002. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart

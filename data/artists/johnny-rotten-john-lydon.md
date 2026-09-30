@@ -1,9 +1,0 @@
-# artist - Johnny Rotten (John Lydon)
-
-## member of
-- Sex Pistols
-
-
-
-## charts
-**"La Yenka" — Spain Singles Chart** : #1, 1965. ← Wikipedia | https://en.wikipedia.org/wiki/Promusicae

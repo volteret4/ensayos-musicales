@@ -118,6 +118,9 @@
 **Waddy Wachtel's Session Work** : Waddy Wachtel is renowned as a "legendary session guitarist," indicating his significant contributions to countless studio recordings and his high regard within the music industry. "the legendary Wadi Wachtell a session guitarist." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
 **Wah-Wah Guitar on "1984"** : The track "1984" on David Bowie's 1974 'Diamond Dogs' album featured a "quite funky" wah-wah guitar. Critics noted its resemblance to Isaac Hayes' "Theme from Shaft," highlighting Bowie's early R&B influences. "The Wawa Guitar on 1984 was quite funky. Critics said it sounded like Isaac Hase's theme from Shaft." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 1 | https://shows.acast.com/hit-parade/episodes/696aa42a4796fcbb571adba7
 **Wolves Song Tuning** : The song "Wolves" by Big Wreck was developed when Ian Thorneley discovered a particular guitar tuning and shape, which inspired the song's creation. "but we put the guitar in a particular tuning. I was, I think I was on the phone at the time and my fingers just kind of found a shape." ← Ongoing History of New Music > Ian Thornley - In His Own Words： Part 2 | https://www.youtube.com/watch?v=QIA7V4PxCdM&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**"Searing Guitars" in "When Doves Cry" (1984)** : Prince's "When Doves Cry" featured "searing guitars" as one of its distinct musical elements, contributing to its "bleeding-edge art" quality. "Searing guitars, and pinging lin drum machines." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce81
+**Andy Summers' Contribution to "Every Breath You Take"** : Andy Summers created the famous "smoldering riff" and guitar arpeggio for "Every Breath You Take," elements that are considered as important to the song's lasting appeal as Sting's melody. "The guitar arpeggio, that famous smoldering riff which Andy Summers came up with himself and the cracking snare drum rhythm that Stuart Copeland devised." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
+**Andy Summers' Blazing Solo on Animals Track** : Andy Summers contributed a "blazing guitar solo" to a 1968 track by Eric Burdon and The Animals, showcasing his talent early in his career. "And the blazing guitar solo you're hearing is by Andy Summers, who was only with The Animals for one album." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
 
 ## artists
 - Adam Jones
@@ -144,27 +147,27 @@
 - Captain Kick and the Cowboy Ramblers
 - Carl Perkins
 - Carlos Alomar
-- Carol K
+- Carol Kaye
 - Charlie Christian
 - Chet Atkins
 - Chips Moman
-- Chris Berkett
+- Chris Birkett
 - Chuck Berry
 - Clifton White
 - Colin Cripps
 - Dale Hawkins
 - Daniel Ash
 - Danny Kirwan
-- Dave Davis
+- Dave Davies
 - Dave Grohl
 - Dave Van Ronk
 - David Bowie
 - David Gilmour
-- David Graham
-- Dead Grips
+- Davy Graham
+- Death Grips
 - Depeche Mode
 - Dick Dale
-- Django Reinhart
+- Django Reinhardt
 - Ed O'Brien
 - Eddie Willis
 - Elvis Costello
@@ -177,7 +180,7 @@
 - Graham Coxon
 - Hank Garland
 - Hank Williams
-- Hassel Adkins
+- Hasil Adkins
 - Hillel Slovak
 - Hilton Valentine
 - Imagine Dragons
@@ -188,22 +191,21 @@
 - Jeff "Skunk" Baxter
 - Jeff Beck
 - Jeff Buckley
-- Jet Beck
 - Jim Martin
 - Jimi Hendrix
 - Jimmy Page
 - Jody Williams
-- Joe Mephys
+- Joe Maphis
 - Joe Walsh
 - Joey Santiago
 - John Frusciante
-- Johnny Greenwood
+- Jonny Greenwood
 - Johnny Marr
 - Johnny Thunders
 - Josh Homme
 - Joy Division
-- KISS
-- Kelly Deal
+- Kiss
+- Kelley Deal
 - Kings of Leon
 - Kurt Cobain
 - Kurt Schaffer
@@ -211,17 +213,16 @@
 - Les Paul
 - Link Wray
 - Luther Perkins
-- Manfred Mann (band)
+- Manfred Mann
 - Marshall Grant
-- Marvin Tarplan
+- Marv Tarplin
 - Matt Bellamy
-- Maybell Carter
-- Memphis Mini
+- Maybelle Carter
 - Memphis Minnie
 - Michael Karoli
 - Michael Ward
 - Mick Ronson
-- Mickey Baker (MacHuston Baker)
+- Mickey Baker
 - Mike Vickers
 - My Bloody Valentine
 - Nancy Wilson
@@ -230,7 +231,6 @@
 - Nihilist Spasm Band
 - Nirvana
 - Noel Gallagher
-- Nora Jones
 - Norah Jones
 - Oasis
 - Pat Smear
@@ -238,25 +238,22 @@
 - Paul Stanley
 - Peggy Jones
 - Perry Bamonte
-- Phil Harvey band
 - Phil Spector
 - Phoebe Bridgers
 - Poison Ivy
 - Radiohead
-- Rage Against The Machine
 - Rage Against the Machine
-- Ray Davis
+- Ray Davies
 - Rene Hall
-- Reznik
-- Richie Polador
-- Richie Valens
+- Richie Podolor
+- Ritchie Valens
 - Rob Baker
 - Robert Fripp
 - Roy Orbison
 - Russell Senior
 - Santana
-- Sinead O'Connor
-- Sister Rosetta Tharp
+- Sinéad O'Connor
+- Sister Rosetta Tharpe
 - Sloan
 - Sonic Youth
 - Sonny Curtis
@@ -264,11 +261,10 @@
 - Steve Cropper
 - Steve Howe
 - Steve Jones
-- Sugar (Johnny Otis's son)
+- Shuggie Otis
 - Sylvester Weaver
-- Sylvia Van Topoele (Little Sylvia, Sylvia Robinson)
+- Sylvia Robinson
 - The Animals
-- The B-52's
 - The B-52s
 - The Blue Caps
 - The Brothers Johnson
@@ -279,8 +275,8 @@
 - The Light Crust Doughboys
 - The Mighty Mighty Bosstones
 - The Night Watchman
-- The Ramones
-- The Rock and Roll Trio
+- Ramones
+- Johnny Burnette and the Rock and Roll Trio
 - The Sleepwalkers
 - The Smiths
 - The Tragically Hip
@@ -300,4 +296,9 @@
 - Warren Cuccurullo
 - Weezer
 - Woody Guthrie
-
+- Kim Thayil
+- Fleetwood Mac
+- Sting
+- Andy Summers
+- Dominic Miller
+- Keith Richards

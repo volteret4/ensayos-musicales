@@ -4,10 +4,8 @@
 - Blues
 - Country
 - Country & Western
-- Country and Western
 - Hilbilly
 - Honky Tonk
-- Honky-Tonk
 - Western Country
 - Western Swing
 
@@ -25,16 +23,15 @@
 - Steel guitar
 
 ## albums
-**Movito Nover (1947)** : This release marked a significant step in Hank Williams' career, enabling him to join the prestigious radio program Louisiana Hayride. "lanzó Movito Nover, el cual le permitió unirse al prestigioso programa de radio Luisana High's Ride." ← El genio roto del country： La leyenda de Hank Williams | https://www.youtube.com/watch?v=qczx7qWg4xM
+**Move It On Over (1947)** : This release marked a significant step in Hank Williams' career, enabling him to join the prestigious radio program Louisiana Hayride. "lanzó Movito Nover, el cual le permitió unirse al prestigioso programa de radio Luisana High's Ride." ← El genio roto del country： La leyenda de Hank Williams | https://www.youtube.com/watch?v=qczx7qWg4xM
 
 ## songs
 **Call Elijah** : This song was a lifelong favorite of Thomas Hicks, who discovered Williams' music on a cruise ship. Hicks replaced his old miming routine with singing "Call Elijah," eventually learning to play it on guitar himself. "he particularly loved the song, Call Elijah." ← Episode 48： ＂Rock With the Caveman＂ by Tommy Steele | https://www.youtube.com/watch?v=scDLm48u2yc
 **Hey Good Looking (1951)** : This song was one of Hank Williams' number one hits during his creative peak in 1951. It is characterized by its brutally honest lyrics, written in the language of the common man. "no paró de escribir éxitos y tener número 1, con canciones como Hay Good Locking [...] Canciones brutalmente honestas sobre su vida, escritas en el lenguaje del hombre corriente." ← El genio roto del country： La leyenda de Hank Williams | https://www.youtube.com/watch?v=qczx7qWg4xM
-**High Chow The Light (1951)** : This song achieved number one status during Hank Williams' creative pinnacle in 1951. Its lyrics were noted for their brutal honesty and their accessibility, using the language of the common person. "no paró de escribir éxitos y tener número 1, con canciones como [...] High Chow The Light. Canciones brutalmente honestas sobre su vida, escritas en el lenguaje del hombre corriente." ← El genio roto del country： La leyenda de Hank Williams | https://www.youtube.com/watch?v=qczx7qWg4xM
 **I Can't Help It (If I'm Still In Love With You)** : Linda Ronstadt covered this song by Hank Williams on her "Heart Like A Wheel" album, with Emmylou Harris singing background. Ronstadt won a Best Country Vocal Performance award for this track in 1975. "She covers a Hank Williams song. I can't help it if I am still in love with you and Emmy Lou sang on that." ← For the Record - The 70s > Ep. 23 - Women of Country Music in the 70s | https://seventies.libsyn.com/023-country-women-72820-2-45-pm
-**La Stick News (1949)** : This song, described as a "precious version," became Hank Williams' first number one hit on the Billboard Country chart. Its success was instrumental in his invitation to join the Grand Ole Opry, the renowned live radio program based in Nashville. "la canción que le lanzó al estrellato fue su preciosa versión de La Stick News, la cual supuso su primer número 1 en la Billboard de Country." ← El genio roto del country： La leyenda de Hank Williams | https://www.youtube.com/watch?v=qczx7qWg4xM
-**My Book It's Got A Whole in It** : Hank Williams recorded a version of this old jazz standard, which also served as a melodic root for "Keep a-Knockin'". "My book It's Got A Whole in It would later be recorded by everyone from Hank Williams to Louis Armstrong..." ← Episode 54： Keep A Knockin | https://www.youtube.com/watch?v=oA4Y_K9E5Y4
-**Unnamed Song (1952)** : On the night of December 31, 1952, Hank Williams was writing this song in the backseat of his Cadillac Series 62 shortly before he collapsed and was later found dead. The specific title of the song is not mentioned in the transcript. "Mientras escribió la canción en el asiento trasero de su coche, se desplomó repentinando nuevamente." ← El genio roto del country： La leyenda de Hank Williams | https://www.youtube.com/watch?v=qczx7qWg4xM
+**I Saw the Light (1948)** : This song achieved number one status during Hank Williams' creative pinnacle in 1951. Its lyrics were noted for their brutal honesty and their accessibility, using the language of the common person. "no paró de escribir éxitos y tener número 1, con canciones como [...] High Chow The Light. Canciones brutalmente honestas sobre su vida, escritas en el lenguaje del hombre corriente." ← El genio roto del country： La leyenda de Hank Williams | https://www.youtube.com/watch?v=qczx7qWg4xM
+**Lovesick Blues (1949)** : This song, described as a "precious version," became Hank Williams' first number one hit on the Billboard Country chart. Its success was instrumental in his invitation to join the Grand Ole Opry, the renowned live radio program based in Nashville. "la canción que le lanzó al estrellato fue su preciosa versión de La Stick News, la cual supuso su primer número 1 en la Billboard de Country." ← El genio roto del country： La leyenda de Hank Williams | https://www.youtube.com/watch?v=qczx7qWg4xM
+**My Bucket's Got a Hole in It (1949)** : Hank Williams recorded a version of this old jazz standard, which also served as a melodic root for "Keep a-Knockin'". "My book It's Got A Whole in It would later be recorded by everyone from Hank Williams to Louis Armstrong..." ← Episode 54： Keep A Knockin | https://www.youtube.com/watch?v=oA4Y_K9E5Y4
 **Your Cheating Heart (1951)** : Released during Hank Williams' most prolific period, this track was another of his number one successes. Like his other hits from this era, it featured deeply honest lyrics that resonated with everyday people. "no paró de escribir éxitos y tener número 1, con canciones como [...] Yor Chetting Heart [...] Canciones brutalmente honestas sobre su vida, escritas en el lenguaje del hombre corriente." ← El genio roto del country： La leyenda de Hank Williams | https://www.youtube.com/watch?v=qczx7qWg4xM
 
 ## curiosities
@@ -66,8 +63,6 @@
 **Spina Bifida Occulta and Addiction** : Hank Williams was born with spina bifida occulta, a spinal disorder that caused him intense pain throughout his life. This condition was identified as the primary reason for his later addiction to alcohol and drugs. "Nació con espina bifida oculta, un trastorno de la columna vertebral, el cual le causó intensos dolores durante el resto de su vida, y fue el principal motivo de eso futura adicción al alcohol y las drogas." ← El genio roto del country： La leyenda de Hank Williams | https://www.youtube.com/watch?v=qczx7qWg4xM
 **The "Shakespeare of the Hillbillies"** : Hank Williams was dubbed the "Shakespeare of the Hillbillies" for his brutally honest songs, written in the everyday language of the common man. His unique lyrics and bluesy phrasing set him apart. "Se empezaron a llamar el Seexpyr Gilbilly [...] Sus letras y sus fraseos, las timeros y bluseros eran únicos." ← El genio roto del country： La leyenda de Hank Williams | https://www.youtube.com/watch?v=qczx7qWg4xM
 **World War II Disqualification** : On December 7, 1941, the Japanese attack on Pearl Harbor led to the United States' entry into World War II, resulting in his entire band being called to serve. However, Hank Williams himself was medically disqualified due to injuries sustained from falling off a bull in a rodeo in Texas. "El 7 de diciembre de ese año, la armada imperial japonesa atacó per Harbour, lo que llevó a Estados Unidos a entrar oficialmente en la Segunda Guerra Mundial. Toda su banda fue llamada a finlas, sin embargo, él fue descalificado médicamente debido a las igualas que tuvo en un accidente al caerse de un toro en un rodeo en Texas." ← El genio roto del country： La leyenda de Hank Williams | https://www.youtube.com/watch?v=qczx7qWg4xM
-
-
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

@@ -1,14 +1,16 @@
 # artist - Garth Brooks
 
 ## genres
+- Country
 - Country Rock
+
+## albums
+**Double Live (1998)** : This album by country star Garth Brooks notably surpassed Pearl Jam's "Vs." in 1998, setting a new all-time album chart record for the largest opening sales. "Country Star Garth Brooks Double Live edged it in 1998." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 
 ## curiosities
 **90s Country Rock Sound** : The country music popular in the 1990s, exemplified by Garth Brooks, is described as essentially country rock. "the country of the 90s that Garth Brooks brand of country is essentially country rock." ← For the Record - The 70s > Ep. 35 - Cosmic American Music - 70s Country Rock | https://seventies.libsyn.com/ep-35-cosmic-american-music-70s-country-rock ← garth-brooks
 **Marketability in Country Music** : Garth Brooks was cited as an example of an artist who was significantly easier to market within the country music industry compared to artists like Katie Lang, suggesting a preference for certain artist profiles in promotion. "It was a lot easier to market Garth Brooks or Blake Shelton than Katie Lang." ← For the Record - The 70s > Ep. 23 - Women of Country Music in the 70s | https://seventies.libsyn.com/023-country-women-72820-2-45-pm
 **SoundScan Beneficiary - Country Sales** : Before the introduction of SoundScan technology, country records like those by Garth Brooks were widely perceived as not selling well. However, SoundScan revealed that country music was actually selling far more copies than anyone in the industry had previously realized, making artists like Brooks significant beneficiaries of the new accurate sales tracking system. "Country records, which were thought to be dogs, were actually selling far, far more than anybody realized. Garth Brooks for example." ← https://www.youtube.com/watch?v=r8AazBVoS7g ← garth-brooks
-
-
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761
@@ -88,7 +90,3 @@
 **American Music Award for Favorite Country Album (2008) — The Ultimate Hits** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1441539
 **Kennedy Center Honors (2020)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1738793
 **Gershwin Prize (2020)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q2422622
-
-## charts
-**"Ain't Nothing 'bout You" — Billboard Year-End Hot 100** : #71, 2001. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Red Dirt Road" — Billboard Year-End Hot 100** : #86, 2003. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

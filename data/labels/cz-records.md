@@ -5,6 +5,6 @@
 **Role in Early Grunge Development** : CZ Records was a "tiny label that was instrumental in putting out indie records by early grunge bands," including Soundgarden, playing a crucial role in the initial development and dissemination of the Seattle grunge scene. "CZ Records, a tiny label that was instrumental in putting out indie records by early grunge bands, including Soundgarden, was interested in BamBam." ← https://www.youtube.com/watch?v=Cy5SCQV0HAY ← cz-records ← cz-records
 
 ## artists
-- BamBam
+- Bam Bam
 - Soundgarden
 

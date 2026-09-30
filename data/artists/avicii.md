@@ -1,22 +1,22 @@
 # artist - Avicii
 
 ## genres
-- 80s music (elements)
-- Country (elements)
+- 80s music
+- Country
 - EDM
 - Electronic
-- Funk (elements)
-- Soul (elements)
+- Funk
+- Soul
 
 ## instruments
 - Laptops
 
 ## albums
-**True (Year Unspecified)** : This album is noted for its interesting and eclectic mix of musical styles. It blends dance music with country, soul, funk, and even 80s music, making it distinct from other works of its generation. The speaker owns it on vinyl, indicating its significance despite not being a big EDM fan. "el disco de a Vichy el tru de a Vichy lo tengo en vinilo, es el único que tengo de toda esta generación de EDM porque realmente es bastante interesante, tiene mezcla muchísimas cosas, mezcla soón, mezcla fanki, mezcla incluso música de los 80." ← Music Radar Clan > Lo que la muerte de AVICII representa | https://www.youtube.com/watch?v=9W8u_1LE1ys&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← avicii ← avicii
+**True** : This album is noted for its interesting and eclectic mix of musical styles. It blends dance music with country, soul, funk, and even 80s music, making it distinct from other works of its generation. The speaker owns it on vinyl, indicating its significance despite not being a big EDM fan. "el disco de a Vichy el tru de a Vichy lo tengo en vinilo, es el único que tengo de toda esta generación de EDM porque realmente es bastante interesante, tiene mezcla muchísimas cosas, mezcla soón, mezcla fanki, mezcla incluso música de los 80." ← Music Radar Clan > Lo que la muerte de AVICII representa | https://www.youtube.com/watch?v=9W8u_1LE1ys&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← avicii ← avicii
 
 ## songs
-**Addicted To You (Year Unspecified)** : Described as Avicii's best song, notable for not being electronic but rather a soul track. This demonstrates his eclectic musical range beyond typical EDM. "detecto yo es la mejor canción que tenía a Vichy, que no tiene que ver con la electrónica, me refiero a que haces una canción de sol pero a Vichy hizo cosas interesantes." ← Music Radar Clan > Lo que la muerte de AVICII representa | https://www.youtube.com/watch?v=9W8u_1LE1ys&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← avicii ← avicii
-**Wake Me Up! (Year Unspecified)** : This song is highlighted for its innovative fusion of dance music with country elements. It featured J-Brother (as transcribed). "Vichy puso la gente a bailar una música de baile mezclada como música gountry, es la canción de J-Brother que bueno cualquiera lo diría." ← Music Radar Clan > Lo que la muerte de AVICII representa | https://www.youtube.com/watch?v=9W8u_1LE1ys&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← avicii ← avicii
+**Addicted To You** : Described as Avicii's best song, notable for not being electronic but rather a soul track. This demonstrates his eclectic musical range beyond typical EDM. "detecto yo es la mejor canción que tenía a Vichy, que no tiene que ver con la electrónica, me refiero a que haces una canción de sol pero a Vichy hizo cosas interesantes." ← Music Radar Clan > Lo que la muerte de AVICII representa | https://www.youtube.com/watch?v=9W8u_1LE1ys&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← avicii ← avicii
+**Wake Me Up!** : This song is highlighted for its innovative fusion of dance music with country elements. It featured J-Brother (as transcribed). "Vichy puso la gente a bailar una música de baile mezclada como música gountry, es la canción de J-Brother que bueno cualquiera lo diría." ← Music Radar Clan > Lo que la muerte de AVICII representa | https://www.youtube.com/watch?v=9W8u_1LE1ys&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← avicii ← avicii
 
 ## curiosities
 **Death and Industry Scrutiny** : Avicii's death is considered profoundly important, not merely the death of another young DJ, but a stark example of the music industry's greed, inhumanity, and implacable nature, which ultimately consumed him. "detrás de la muerte de a Vichy, hay una industria por haz que lo acabado consumiendo y el problema es que a Vichy no es más que un ejemplo de logracidad de lo inhumana y de lo implacable que puede llegar a ser una parte de la industria musical." ← Music Radar Clan > Lo que la muerte de AVICII representa | https://www.youtube.com/watch?v=9W8u_1LE1ys&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← avicii ← avicii
@@ -30,8 +30,6 @@
 **Superstar DJs and EDM Movement** : Avicii is mentioned as an EDM hero, signifying the rise of electronic dance music where laptop-wielding artists commanded huge audiences at international gigs, challenging the traditional dominance of guitar-based rock. "The big heroes weren't dudes with guitars that were people with laptops, Swedish house mafia, David Guetta, dead mouse, of itchy, Calvin Harris, Skrillex, tens of thousands of people attended their gigs and countries all over the world." ← https://www.youtube.com/watch?v=5Y6nHw5xx88 ← avicii
 **Unique Production Style** : Avicii possessed arguably the most interesting production style among his peers. While not the biggest hit-maker like Calvin Harris or a stadium icon like Swedish House Mafia, his eclecticism and ability to blend diverse genres like soul, funk, and 80s music into EDM made him the most fascinating producer of his generation. "Vichy tenía posiblemente el estilo más interesante, a lo mejor no era el gran fabricante de hits como era a calvinharis, a lo mejor no eran como los llenas estadios, solo los iconos que eran los su disjavos mafia, pero sí que es verdad que a Vichy posiblemente a nivel producción y no a nivel dilla y era más interesante de todos." ← Music Radar Clan > Lo que la muerte de AVICII representa | https://www.youtube.com/watch?v=9W8u_1LE1ys&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← avicii ← avicii
 **Unsustainable Residency Schedule** : He served as a resident DJ in Ibiza (Pacha) during summers for a significant period. Artists in his position, like Calvin Harris in Las Vegas, felt unable to refuse these residencies, as doing so would end their professional careers. This involved flying multiple times a week between Ibiza and other global capitals for shows, then returning to Ibiza to perform as a resident, a pace deemed unsustainable. "Abichi fue bastante tiempo de ir residente los veranos en Ibiza y Mosoalla, una de las grandes catedrales del EDM que tenemos y él lo decía... cuando te llaman para ser residente en Ibiza o cuando te llaman para ser diger residente en las Vegas no puedes negarte, no puedes decir que no porque en ese momento tu carrera profesional se termina." ← Music Radar Clan > Lo que la muerte de AVICII representa | https://www.youtube.com/watch?v=9W8u_1LE1ys&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← avicii ← avicii
-
-
 
 ## awards
 **American Music Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q207601

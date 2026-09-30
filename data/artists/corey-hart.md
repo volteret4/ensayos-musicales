@@ -1,12 +1,14 @@
 # artist - Corey Hart
 
+## genres
+- Synth Pop
+
 ## songs
 **Sunglasses at Night (1983)** : Corey Hart was a "hot" artist at the time of *The Breakfast Club* soundtrack's production, known for his song "Sunglasses at Night." He was considered as a potential artist to record "Don't You (Forget About Me)," a song that was eventually recorded by Simple Minds. "Then there was talk of giving it to Corey Hart, who was hot with the song Sun Glasses at night at the time." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← corey-hart
+**Sunglasses at Night (1984)** : This song was a number seven hit in the summer of 1984 and served as Corey Hart's American breakthrough single. Thirty years after its release, in September 2014, Rolling Stone magazine ranked it 100th on their list of "100 best singles of 1984." It is described as a "cheeky, kitschy and melodramatic synth pop jam" that continues to be played on classic hits radio stations and has accumulated over 132 million streams on Spotify. "Corey Hart with sunglasses at night, a number seven hit in the summer of 1984." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
 
 ## curiosities
 **Emergence as Serious Stars** : Corey Hart emerged as one of the serious stars through the late 1970s and into the 1980s, benefiting from the new industry infrastructure and increased radio support for Canadian talent. This period marked a shift towards greater national and international success for homegrown artists. "Love her boy, Chilla Wack, Bruce Coburn, rough trade, the pay-all was Toronto, the headpins, the spoons, bride-adams, parachute club, men without hats, Cory Hart. They all emerged as serious stars through the late 1970s and into the 1980s." ← https://www.youtube.com/watch?v=6PGgNCaW4xo ← corey-hart
-
-
 
 ## awards
 **CASBY Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5008850

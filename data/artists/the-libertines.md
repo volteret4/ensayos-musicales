@@ -1,10 +1,10 @@
 # artist - The Libertines
 
 ## members
-- John "the Rabbi" Kahnmi
 - Pete Doherty
 
 ## genres
+- Garage Rock
 - Guitar-based Rock
 - Indie Rock
 - raw indie rock scene
@@ -13,7 +13,7 @@
 - guitar
 
 ## albums
-**Liberty and Stabby Welvent (2002) – Mick Jones Production** : This album, released in 2002 and produced by Mick Jones of The Clash, is mentioned in conjunction with Pete Doherty's story. "This is from the Liberty and Stabby Welvent 2002, which was produced by Mick Jones of the Clash." ← https://www.youtube.com/watch?v=dVJuITJyNTU ← the-libertines
+**Up the Bracket (2002)** : This album, released in 2002 and produced by Mick Jones of The Clash, is mentioned in conjunction with Pete Doherty's story. "This is from the Liberty and Stabby Welvent 2002, which was produced by Mick Jones of the Clash." ← https://www.youtube.com/watch?v=dVJuITJyNTU ← the-libertines
 
 ## songs
 **Hand Stand Me Now (2002)** : This song is mentioned as being from The Libertines' 2002 album "Liberty and Stabby Welvent." "It's called, Hand Stand Me Now." ← https://www.youtube.com/watch?v=dVJuITJyNTU ← the-libertines
@@ -29,8 +29,7 @@
 **Shared Scene with Other Bands** : The Libertines are described as being "cut from the same cloth" as other bands like The Vines, The Hives, The Strokes, The Datsuns, and The Doves, identifying them as part of the "raw indie rock scene." "The Liberty's are cut from the same cloth as the Vines, also the hives and the strokes and the datsums and the doves, you know, part of that whole raw indie rock scene." ← Ongoing History of New Music > Alt Rocks Craziest People | https://www.youtube.com/watch?v=CgReNKciFJo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← the-libertines ← the-libertines
 **Spiritual Advisor John "the Rabbi" Kahnmi** : The Libertines have their own spiritual advisor named John Kahnmi. Despite being Catholic, he is referred to as "the Rabbi," is paid in alcohol, and is so popular with Libertines fans that he has his own Japanese fan club. "the Libertines have their own spiritual advisor. His name is John the Rabbi Kahnmi." ← Ongoing History of New Music > Alt Rocks Craziest People | https://www.youtube.com/watch?v=CgReNKciFJo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← the-libertines ← the-libertines
 **The Good Mixer Regulars** : The Libertines were among the bands who were regular patrons of The Good Mixer pub on Inverness Street in Camden, London, during the Britpop era of the early and mid-1990s. This pub was a key social spot where many groups of the era would gather. "Other regulars included the Librieteens and then later the darkness and travis." ← https://www.youtube.com/watch?v=sKHdTSfDd6E ← the-libertines
-
-
+**London Revival Band** : The Liberty's are cited as a Garage Rock revival band that came out of London, England, during the early 2000s. "The Liberty's came out of London, England." ← https://www.youtube.com/watch?v=UpWz3X33vSY ← the-libertys
 
 ## lists
 **"The Libertines" (2004) — 1001 Albums You Must Hear Before You Die** : #989.

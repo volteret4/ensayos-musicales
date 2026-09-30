@@ -2,13 +2,10 @@
 
 ## members
 - Ian MacKaye
-- Ian MacKaye (leader)
 
 ## genres
 - Emo
-- Emo (precursor)
 - Hardcore Punk
-- Hardcore punk
 - Punk
 
 ## labels
@@ -16,7 +13,7 @@
 - Dischord Records
 
 ## songs
-**Straight Edge (Year Unknown)** : This song is the origin point for the straight edge movement and its philosophy. The track, titled "Straight Edge," laid down the principles of abstaining from alcohol, drugs, and promiscuous sex, which became a significant lifestyle for many. "And that term, straight edge, along with that philosophy, came out of this one song of the same name." ← https://www.youtube.com/watch?v=0qigzi1j81U ← minor-threat
+**Straight Edge (1981)** : This song is the origin point for the straight edge movement and its philosophy. The track, titled "Straight Edge," laid down the principles of abstaining from alcohol, drugs, and promiscuous sex, which became a significant lifestyle for many. "And that term, straight edge, along with that philosophy, came out of this one song of the same name." ← https://www.youtube.com/watch?v=0qigzi1j81U ← minor-threat
 
 ## curiosities
 **Affordable Music and Shows** : Minor Threat maintained a strict policy of keeping record prices low and affordable, and they only played all-ages gigs with cheap ticket prices. "Second, they had a strict policy of keeping record prices low and affordable. Third, they would only play all ages gigs with cheap ticket prices." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← minor-threat
@@ -28,13 +25,11 @@
 **Formation and Inspiration** : Minor Threat formed in 1980, primarily because its members were huge fans of Bad Brains. They reformed under the name Minor Threat after initially being known as Teen Idols. "They came together because the members loved Bad Brains. After starting out as a group known as Teen Idols, they reformed as Minor Threat in 1980." ← https://www.youtube.com/watch?v=0qigzi1j81U ← minor-threat
 **Ian MacKaye's Ethics and DIY Ethic** : Leader Ian MacKaye became a punk rock legend due to the band's music and the strong ethics they promoted, especially their do-it-yourself (DIY) approach. "Leader Ian McKay became a punk rock legend, two reasons." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← minor-threat
 **Influence on Emo** : Minor Threat is credited with pointing in the direction of what would become the emo genre as early as the mid-1980s, highlighting their foundational role in subsequent musical developments. "Fourth, if you dig back far enough, you'll see that Minor Threat pointed in the direction of what would become emo as early as the mid-1980s." ← https://www.youtube.com/watch?v=0qigzi1j81U ← minor-threat
-**Inspiration and Formation** : Minor Threat formed in 1980, evolving from a group called Teen Idols, specifically because its members admired Bad Brains. "They came together because the members loved bad brains. After starting out as a group known as Teen Idols, they reformed as Miner Threat in 1980." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← minor-threat
+**Formation and Inspiration** : Minor Threat formed in 1980, evolving from a group called Teen Idols, specifically because its members admired Bad Brains. "They came together because the members loved bad brains. After starting out as a group known as Teen Idols, they reformed as Miner Threat in 1980." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← minor-threat
 **Origin of Straight Edge Movement** : Ian MacKaye was a central figure in the straight edge movement, a philosophy advocating no alcohol, no drugs of any kind, and no promiscuous sex. This lifestyle, and the term itself, originated from a Minor Threat song of the same name and continues to be a lifestyle for many. "And fifth, McKay was a big part of this straight edge movement. No alcohol, no drugs of any kind, no promiscuous sex. And the straight edge philosophy continues to this day. It's a lifestyle for a lot of people." ← https://www.youtube.com/watch?v=0qigzi1j81U ← minor-threat
-**Precursor to Emo** : The band's music is noted for pointing in the direction of what would later become emo as early as the mid-1980s. "Fourth, if you dig back far enough, you'll see that Miner Threat pointed in the direction of what would become emo as early as the mid-1980s." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← minor-threat
+**Influence on Emo** : The band's music is noted for pointing in the direction of what would later become emo as early as the mid-1980s. "Fourth, if you dig back far enough, you'll see that Miner Threat pointed in the direction of what would become emo as early as the mid-1980s." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← minor-threat
 **Predecessor to Embrace** : Ian MacKaye was a member of this hardcore band before he was inspired to leave and form Embrace, a proto-emo group. "Everyone was inspired to leave his hardcore band called Minor Threat to form a proto-emo group called Embrace." ← https://www.youtube.com/watch?v=v_am7ifh7Pk ← minor-threat
-**Straight Edge Movement** : Ian MacKaye was a central figure in the straight edge movement, a philosophy promoting a life without alcohol, drugs, or promiscuous sex, which continues as a lifestyle for many today. "And fifth, McKay was a big part of this straight edge movement. No alcohol, no drugs of any kind, no promiscuous sex." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← minor-threat
-
-
+**Origin of Straight Edge Movement** : Ian MacKaye was a central figure in the straight edge movement, a philosophy promoting a life without alcohol, drugs, or promiscuous sex, which continues as a lifestyle for many today. "And fifth, McKay was a big part of this straight edge movement. No alcohol, no drugs of any kind, no promiscuous sex." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← minor-threat
 
 ## lists
 **"Out of Step" (1983) — 1001 Albums You Must Hear Before You Die** : #534, 90 AOTY.

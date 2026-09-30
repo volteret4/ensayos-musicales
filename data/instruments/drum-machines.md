@@ -14,6 +14,7 @@
 **Used by Nitzer Ebb (Since 1983)** : Nitzer Ebb had been experimenting with drum machines, alongside synthesizers, since approximately 1983, reflecting their dedication to German industrial sounds. "They were big fans of the original German industrial sounds and had been experimenting with synthesizers and drum machines since about 1983." ← Ongoing History of New Music > The Post-Punk Explosion Part 3： Industrial | https://www.youtube.com/watch?v=zSFhhEaiYwE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Used by Skinny Puppy (1982)** : Skinny Puppy, formed in 1982, incorporated drum machines into their distinctive sound, alongside keyboards, samplers, and loud guitars, making them crucial to the development of the modern industrial sound. "They had drum machines and they had loud guitars." ← Ongoing History of New Music > The Post-Punk Explosion Part 3： Industrial | https://www.youtube.com/watch?v=zSFhhEaiYwE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Used in Mali Music Project** : Drum machines, referred to as "cajas de ritmos," were an integral part of the sounds Damon Albarn explored and incorporated into his "Mali Music" album, reflecting their popularity in that region of Africa. "las cajas de ritmos que son tan populares en esa zona de África." ← Music Radar Clan > Los discos menos conocidos de Damon Albarn (Gorillaz y Blur) | https://www.youtube.com/watch?v=ISMaaXwwVaY&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Joe Jackson's Experimentation** : Joe Jackson experimented with drum machines, alongside synthesizers, for his "Night and Day" album. He programmed a Boss DR55 drum machine in his small SoHo studio, which was instrumental in creating the electronic beats for songs like "Steppin' Out." "On top of all these urban sounds, Jackson had been experimenting with synthesizers and drum machines." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
 
 ## artists
 - Daft Punk
@@ -23,4 +24,4 @@
 - Skinny Puppy
 - The Human League
 - Trent Reznor
-
+- Joe Jackson

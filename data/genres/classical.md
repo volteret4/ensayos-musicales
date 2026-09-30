@@ -19,6 +19,9 @@
 **Shift from LP Domain (1960s)** : By the 1960s, LPs were no longer exclusively the domain of serious music like classical, as rock and pop music began to be collected on albums. "LPs were no longer the domain of good or serious music like classical or jazz or movie soundtracks." ← https://www.youtube.com/watch?v=GES0Ms_kaCI ← classical
 **Studying Aid for High Achievers** : Classical music was identified as the number one genre listened to by students who achieved the highest grades, suggesting it is highly effective for studying. "Number one, classical." ← https://www.youtube.com/watch?v=KtdIMNoHqA8 ← classical ← classical
 **Traditional Album Format** : Before 1965, albums were primarily reserved for "proper music" like classical recordings, jazz, soundtracks, and Broadway cast recordings, distinguishing them from the singles-driven pop and rock and roll markets. ← https://www.youtube.com/watch?v=eqTFinLk3oU ← classical
+**Early Grammy Category** : Classical music was one of the established Grammy award categories from the inception of the awards in 1959. "Jazz, classical, pop, country, Broadway, movie soundtracks, even comedy and children's music had Grammy award categories." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
+**Joe Jackson's Teenage Dream** : Joe Jackson fulfilled his original teenage dream of being a classical composer with his 1987 vocal-free LP "Will Power." While some critics found it pretentious, many were impressed by his ambitious foray into the genre, showcasing his wide musical range. "Jackson even tried fulfilling his original teenage dream of being a classical composer with 1987's Vocal Free LP Will Power." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
+**Elvis Costello's Hybrid Album** : Elvis Costello recorded a hybrid classical pop album, "The Juliet Letters," with the string players of The Brodsky Quartet. This project demonstrated his continuous refusal to be limited by genre and his exploration of new musical territories. "He has recorded a hybrid classical pop album with string players, The Brodsky Quartet." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
 
 ## artists
 - Béla Bartók
@@ -26,7 +29,7 @@
 - Elvis Costello
 - Fiona Apple
 - Franz Liszt
-- Glenn Gold
+- Glenn Gould
 - Jean Sibelius
 - Joe Jackson
 - Johann Pachelbel
@@ -42,4 +45,4 @@
 - Vangelis
 - Wendy Carlos
 - Wolfgang Amadeus Mozart
-
+- Sting

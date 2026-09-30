@@ -6,8 +6,6 @@
 ## curiosities
 **Emmy Award Win for Roseanne** : She eventually won an Emmy for her performance on the series Roseanne, where she played Rosanne's sister, Jackie. "But both Barr and Laurie Metcalf, who played Rosanne's sister Jackie, eventually walked away with Emmys for their performance on the series." ← https://www.youtube.com/watch?v=6O5TCTO-go4 ← laurie-metcalf
 
-
-
 ## awards
 **Theatre World Award (1985)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1131356
 **Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series (1992) — Roseanne** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q989450
@@ -34,6 +32,3 @@
 **Online Film Critics Society Award for Best Supporting Actress (2017)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1470333
 **Academy Award for Best Supporting Actress (2018) — Lady Bird** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q106301
 **Tony Award for Best Featured Actress in a Play (2018) — Three Tall Women** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q627778
-
-## lists
-**"Reverse Earth" (2025) — Bandcamp: The Best Albums of 2025** : #19. ← musicbrainz | https://beta.musicbrainz.org/series/e71890ee-e707-4eae-af8f-b60074d08730

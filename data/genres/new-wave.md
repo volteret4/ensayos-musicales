@@ -147,16 +147,28 @@
 **Visual Emphasis and Image** : New Wave was significantly influenced by MTV, as the channel's existence made visual appearance a critical factor in an artist's success. Marketers and directors began to emphasize "looks and glitz," often leading to style surpassing substance, with New Wave bands being particularly well-suited to this visual medium. "MTV quickly began to affect the course of music because it began to really matter what you looked like." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 8 | https://www.youtube.com/watch?v=XjTWcy8RHEs&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Vocal Expression Controversy** : New Wavers were among the artists whose new forms of vocal expression, facilitated by microphones, generated decades of strong criticism from purists. Their singing styles were considered by some to be "degenerate forms of singing," challenging the established vocal norms of earlier generations. "R&B acts, Elvis, The Beatles, Dylan, Jagger, New Waivers, rappers all the way up to and beyond death medillars." ← Ongoing History of New Music > The More Things Change Part 2 | https://www.youtube.com/watch?v=L0j9iDuHQVA&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Vocal Style Development** : As New Wave gained popularity, new vocal styles began to emerge, with singers often sounding "geeky" and unashamed. This reflected a musical ethos that was catchy, fun, and perceived as more authentic than mainstream offerings, providing artists a license to be silly and goofy in a fashionable and artistic manner. "Singer sounded, uh, kind of geeky, orn't ashamed of it, because they didn't care." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 6 | https://www.youtube.com/watch?v=iL9KpQFqH4o&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Early American vs. British Evolution** : In the late 1970s, New Wave initially referred to American bands like Blondie and The Cars. By the early 1980s, the term expanded to include "New Romantic bands of the second British invasion." "New Wave, which at first in the late 1970s, meant American bands like Blondie or The Cards. But eventually, New Wave came to mean New Romantic bands of the second British invasion in the early 80s." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Mainstream Shift on MTV** : After New Wave gained prominence on the American Music Video Channel MTV, the genre in the 1980s "veered toward danceable bands like Culture Club," moving significantly away from its punk roots towards commercialism. "After New Wave broke on the American Music Video Channel MTV, 80s New Wave veered toward danceable bands like Culture Club." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Shaped by "Angry Young Men"** : British singer-songwriters Elvis Costello, Joe Jackson, and Graham Parker were instrumental in shaping the New Wave genre in the late 1970s and early 1980s. Their adoption of punk attitudes and evolution from pub rock and powerpop contributed to the diverse sounds of new wave. "helped shape new wave, and were tagged with the moniker, Angry Young Men." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
+**Evolution to Synthpop** : In 1982, the sound of new wave began to shift dramatically from its earlier powerpop and post-punk roots towards synthpop. This change was largely driven by slicker, glossier, and more expensive music videos, exemplified by tracks like The Human League's "Don't You Want Me," which established a new aesthetic and sonic direction. "They were changing the very sound of new wave from Powerpop and Postpunk to Synthpop." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
+**MTV Success and Post-Punk Survivors** : By 1984 and 1985, new wave's success on MTV and radio enabled many post-punk survivors from the late 70s to score pop hits. This period saw the genre become a mainstream force, impacting the careers of artists like Joe Jackson and Graham Parker. "By 1984 and 85, thanks to the MTV and Radio Success of New Wave, all of the post-punk survivors of the late 70s were scoring pop hits." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
+**Transforming Obscurity into Hits (1980s)** : In the 1980s, new wave artists demonstrated a remarkable ability to take obscure songs, such as B-sides or deep album cuts, and transform them into major chart successes, exemplified by Soft Cell's "Tainted Love" and Kim Carnes' "Bette Davis Eyes." "More remarkably in the 80s were the songs that new wave acts plucked from obscurity and turned into smashes." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
+**New Wave Emergence (Late 1970s)** : In the late 1970s, New Wave emerged as a more pop-friendly evolution from punk, with bands like The Cars, Blondie, and Elvis Costello (who also experimented with reggae rhythms) gaining traction on the airwaves. This genre's sound accommodated The Police's "minimal angular instrumentation" from singles like "Roxanne," aiding their US breakthrough. "Its minimal angular instrumentation fit right in on the airwaves, as Punk was giving way to the more pop-friendly New Wave, from bands like The Cars. And Blondie. And Elvis Costello, who, like the police, was also experimenting with reggae rhythms." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
+**Shaping the 80s Sound** : New Wave was one of the genres, alongside Postpunk, whose contours were being shaped by several British acts in the late 70s and early 80s, leading up to the second British invasion. "As we discussed in our Angry Young Men episode of Hit Parade, several British acts were shaping the contours known as Postpunk or New Wave, from the police who cracked the Hot 100 as early as 1979." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
+**Influence on Tusk Album** : Lindsey Buckingham was keen on integrating the 1970s new wave movement into Fleetwood Mac's music during the creation of the "Tusk" album, which was characterized by its experimental nature. "Dominated by songs from Lindsay Buckingham, who was intent on addressing the 70s punk and new wave movements within Fleetwood Mac's music..." ← Hit Parade Music History and Music Trivia > Thinking About Tomorrow Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eefd1ba84fb8f044795
+**Rewarding Experiments at Turn of 80s** : The "most rewarding new WAVE experiments of the turn of the 80s" came from Talking Heads, who deepened their sonic explorations with producer Brian Eno. "But the most rewarding new WAVE experiments of the turn of the 80s came from talking heads, who not only continued their sonic explorations with producer Brian Eno, but deepened the approach." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
+**Influence from Tom Verlaine** : Tom Verlaine, following Television's breakup, shifted to a solo career and "proved quietly influential on the emerging new WAVE sound." "Verlane proved quietly influential on the emerging new WAVE sound." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
+**Adaptation to MTV Era** : Talking Heads successfully adapted to the "new wave slash MTV era," becoming one of the most acclaimed bands in America and a formidable live act. "While talking heads were successfully adapting to the new wave slash MTV era..." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
+**Second British Invasion Impact (1983-1984)** : Starting in 1982 and 1983, British New Wave bands, along with New Romantic groups, transitioned from "curios" to "video superstars" and "chart conquerors" in America by 1984. Fuelled by MTV, these movements, exemplified by acts like Duran Duran and Eurythmics, "redefined the cutting edge of cool" in the US. "The bands that had benefited the most from the rise of the music video in America were British New Romantic and New Wave bands, who, starting in 1982 and 83, went from Curios in America to Viva." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
 
 ## artists
 - 999
 - A Flock of Seagulls
-- A-Ha
+- a-ha
 - ABC
 - Adam and the Ants
 - Alaska y los Pegamoides
 - Alexis Taylor
-- Autobahn de moral crossing
 - Berlin
 - Bloc Party
 - Blondie
@@ -164,28 +176,25 @@
 - Bow Wow Wow
 - Cheap Trick
 - Culture Club
-- Dave Edmonds
+- Dave Edmunds
 - David Bowie
 - David Byrne
-- Dead or Alive
 - Depeche Mode
 - Devo
 - Duran Duran
-- Echo & The Bunnymen
 - Echo & the Bunnymen
 - Elvis Costello
-- English Beat
+- The English Beat
 - Erasure
 - Eurythmics
 - Field Music
-- Flock of Seagulls
 - Frankie Goes to Hollywood
 - Gary Numan
 - Grace Jones
 - Graham Parker
 - Great Buildings
 - Greg Kihn
-- Huey Lewis and the News
+- Huey Lewis and The News
 - Interpol
 - Joan Jett
 - Joe Jackson
@@ -204,14 +213,13 @@
 - New Order
 - Nick Lowe
 - No Doubt
-- OMD
+- Orchestral Manoeuvres in the Dark
 - Option 30
-- Orchestral Manoeuvres in the Dark (OMD)
 - Pet Shop Boys
 - Pulp
 - Ramones
 - Real Life
-- Robert John "Mut" Lang
+- Robert John "Mutt" Lange
 - Rockpile
 - Rough Trade
 - Roxy Music
@@ -223,16 +231,14 @@
 - Tame Impala
 - Taylor Hawkins
 - Television
-- The B-52's
 - The B-52s
 - The Boomtown Rats
 - The Buggles
-- The Buzzcocks
+- Buzzcocks
 - The Cars
 - The Clash
 - The Conjets
 - The Cure
-- The English Beat
 - The Fixx
 - The Go-Go's
 - The Greg Kihn Band
@@ -243,22 +249,29 @@
 - The Police
 - The Pretenders
 - The Quick
-- The Razberries
+- The Raspberries
 - The Records
 - The Romantics
-- The Rubinous
+- The Rubinoos
 - The Shoes
 - The Smiths
 - The Specials
-- The Spungtones
 - The Strokes
-- The Talking Heads
 - The Undertones
 - The Vapors
 - The White Stripes
 - Tom Petty and the Heartbreakers
 - Trent Reznor
 - XTC
-- cavern of antimatter
-- expression Boy
-
+- Cavern of Anti-Matter
+- Lou Reed
+- Soundgarden
+- Sting
+- Dexys Midnight Runners
+- Kim Carnes
+- Robert Hazard
+- Madonna
+- The Buzz Cogs
+- Tom Tom Club
+- Billy Ocean
+- The Pointer Sisters

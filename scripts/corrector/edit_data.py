@@ -7,7 +7,44 @@ Open: http://localhost:8765
 import os, json, re, sqlite3, subprocess, sys, shutil
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from urllib.parse import urlparse
+import threading
 from edit_data_html import HTML
+
+# Revisión por lotes con Claude (scripts/limpieza/lotes.py; solo biblioteca estándar)
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'limpieza'))
+import lotes  # noqa: E402
+
+_JOB = {'running': False, 'task': '', 'log': [], 'error': '', 'done': ''}
+
+
+def _run_job(task, fn):
+    """Ejecuta fn() en segundo plano (llamadas a Claude o reaplicar la limpieza tardan)."""
+    if _JOB['running']:
+        return False
+    _JOB.update(running=True, task=task, log=[], error='', done='')
+
+    def target():
+        try:
+            fn(lambda m: _JOB['log'].append(str(m)))
+            _JOB['done'] = task
+        except Exception as e:
+            _JOB['error'] = str(e)
+        finally:
+            _JOB['running'] = False
+    threading.Thread(target=target, daemon=True).start()
+    return True
+
+
+def _decision(line):
+    """Guarda una edición manual de artista como decisión, para que los podcasts nuevos
+    se corrijan igual (ver correcciones/decisiones_artistas.txt)."""
+    try:
+        lotes.registrar_edicion_web(line)
+    except Exception as e:
+        print('No se pudo registrar la decisión:', e)
+
+
+_ENTRY_SECS_DEC = {'albums', 'songs', 'curiosities'}
 
 PORT           = 8765
 DB_PATH        = 'db/music_facts.db'
@@ -211,8 +248,8 @@ def delete_standalone_curiosity(title):
 
 def rename_entity(etype, old_name, new_name):
     """Rename entity file + update its header + update list refs in artist files."""
-    old_fp = entity_filepath(etype, old_name)
-    new_fp = entity_filepath(etype, new_name)
+    old_fp = resolve_filepath(etype, old_name)          # puede estar en data/ o en pendiente/
+    new_fp = os.path.join(os.path.dirname(old_fp), slug(new_name) + '.md')
 
     if os.path.exists(old_fp):
         lines = _read(old_fp)
@@ -251,11 +288,14 @@ def rename_entity(etype, old_name, new_name):
         if changed:
             _write(fp2, out)
 
-def edit_entry(fp, section, old_key, new_title, new_desc):
-    """Replace **old_key** : … with **new_title** : new_desc."""
+def edit_entry(fp, section, old_key, new_title, new_desc, old_desc=None):
+    """Cambia el título de todas las líneas **old_key** (pueden ser varias fuentes
+    agrupadas bajo el mismo título) y la descripción solo de la que se editó:
+    la que empieza por old_desc (o la primera si no se indica). Conserva el '← fuente'."""
     lines = _read(fp)
     out, in_sec = [], False
     kl = old_key.strip().lower()
+    done = False
     for line in lines:
         s   = line.strip()
         sec = _section_name(line)
@@ -265,9 +305,15 @@ def edit_entry(fp, section, old_key, new_title, new_desc):
         if s.startswith('# '):
             in_sec = False; out.append(line); continue
         if in_sec and s.startswith('**'):
-            m = re.match(r'^\*\*(.+?)\*\*', s)
+            m = re.match(r'^\*\*(.+?)\*\*\s*:\s*(.*)$', s)
             if m and m.group(1).strip().lower() == kl:
-                out.append(f'**{new_title}** : {new_desc}\n'); continue
+                desc = m.group(2)
+                core, _sep, src = desc.partition(' ← ')
+                if not done and (old_desc is None or core.strip().startswith(old_desc.strip()[:80])
+                                 or desc.strip().startswith(old_desc.strip()[:80])):
+                    done = True
+                    desc = new_desc if (' ← ' in new_desc or not src) else f'{new_desc} ← {src}'
+                out.append(f'**{new_title}** : {desc}\n'); continue
         out.append(line)
     _write(fp, out)
 
@@ -773,6 +819,29 @@ class Handler(BaseHTTPRequestHandler):
             self._json({'playlists': list_playlists()})
             return
 
+        if path == '/api/lotes':
+            resumen = []
+            for l in lotes.listar_lotes():
+                c = {}
+                for p in l['propuestas']:
+                    c[p['estado']] = c.get(p['estado'], 0) + 1
+                resumen.append({'id': l['id'], 'fecha': l['fecha'], 'backend': l['backend'],
+                                'modelo': l.get('modelo'), 'estado': l['estado'],
+                                'n_artistas': len(l['artistas']), 'cuentas': c, 'uso': l.get('uso', {})})
+            self._json({'cola': lotes.estadisticas(), 'lotes': resumen[::-1],
+                        'cli': lotes.cli_disponible(), 'job': _JOB,
+                        'modelo': lotes.MODELO_DEFECTO, 'tam': lotes.TAM_DEFECTO})
+            return
+
+        if path == '/api/lote':
+            from urllib.parse import parse_qs
+            q = parse_qs(urlparse(self.path).query)
+            try:
+                self._json(lotes.cargar_lote(int(q.get('id', ['0'])[0])))
+            except Exception as e:
+                self._json({'error': str(e)}, 404)
+            return
+
         if path == '/settings-panel.js':
             with open('settings-panel.js', 'rb') as f:
                 b = f.read()
@@ -856,6 +925,53 @@ class Handler(BaseHTTPRequestHandler):
             if ok: self._json({'ok': True}); return
             self._json({'error': err}, 400); return
 
+        if path == '/api/lote/generar':
+            tam = int(d.get('tam') or lotes.TAM_DEFECTO)
+            backend = d.get('backend') or 'auto'
+            modelo = d.get('modelo') or lotes.MODELO_DEFECTO
+            if backend == 'manual':
+                try:
+                    l = lotes.crear_lote(tam, 'manual', modelo, log=lambda m: None)
+                    self._json({'ok': True, 'id': l['id'] if l else None}); return
+                except Exception as e:
+                    self._json({'error': str(e)}, 500); return
+            ok = _run_job(f'Consultando a Claude ({tam} artistas)',
+                          lambda log: lotes.crear_lote(tam, backend, modelo, log=log))
+            self._json({'ok': ok} if ok else {'error': 'Ya hay una tarea en marcha'}); return
+
+        if path == '/api/lote/respuesta':
+            try:
+                l = lotes.importar_respuesta(int(d['id']), d.get('texto', ''))
+                self._json({'ok': True, 'n': len(l['propuestas'])}); return
+            except Exception as e:
+                self._json({'error': str(e)}, 400); return
+
+        if path == '/api/lote/propuesta':
+            try:
+                l = lotes.marcar_propuesta(int(d['id']), int(d['pid']), d.get('estado', 'pendiente'),
+                                           d.get('linea'))
+                self._json({'ok': True, 'estado': l['estado']}); return
+            except Exception as e:
+                self._json({'error': str(e)}, 400); return
+
+        if path == '/api/lote/anadir':
+            try:
+                lotes.anadir_propuesta(int(d['id']), d.get('linea', ''))
+                self._json({'ok': True}); return
+            except Exception as e:
+                self._json({'error': str(e)}, 400); return
+
+        if path == '/api/lote/aplicar':
+            def aplicar(log):
+                lotes.aplicar_aceptadas(log=log)
+                log('Reconstruyendo la base de datos…')
+                r = rebuild_db()
+                if not r['ok']:
+                    raise RuntimeError(r['err'] or r['out'])
+                log('Base de datos reconstruida ✓')
+            ok = _run_job('Aplicando decisiones aceptadas', aplicar)
+            self._json({'ok': ok} if ok else {'error': 'Ya hay una tarea en marcha'}); return
+
         etype = d.get('type', '')
         name  = d.get('name', '')
 
@@ -878,6 +994,7 @@ class Handler(BaseHTTPRequestHandler):
             self._json({'error': result}, 404); return
 
         if path == '/api/pending/delete':
+            if etype == 'artist': _decision(f'{name} => -')
             pnd_fp = entity_filepath(etype, name, pending=True)
             if os.path.exists(pnd_fp): os.remove(pnd_fp)
             dlted = _load_deleted()
@@ -886,6 +1003,7 @@ class Handler(BaseHTTPRequestHandler):
             self._json({'ok': True}); return
 
         if path == '/api/delete/entity':
+            if etype == 'artist': _decision(f'{name} => -')
             fp = entity_filepath(etype, name)
             if os.path.exists(fp):
                 os.remove(fp)
@@ -917,6 +1035,13 @@ class Handler(BaseHTTPRequestHandler):
 
         if path == '/api/delete/entry':
             delete_entry(fp, section, key, is_list=d.get('is_list', False))
+            if etype == 'artist':
+                if section in _ENTRY_SECS_DEC:
+                    _decision(f'{name} :: {section} :: {key} => -')
+                elif section == 'members':
+                    _decision(f'[{name}] {key} => -')
+                elif section == 'member_of':
+                    _decision(f'[{key}] {name} => -')
             dlted = _load_deleted()
             fk   = _file_key(fp)
             norm = section.lower().replace(' ', '_')
@@ -928,7 +1053,9 @@ class Handler(BaseHTTPRequestHandler):
 
         if path == '/api/edit/entry':
             new_title = d.get('new_title', key)
-            edit_entry(fp, section, key, new_title, d.get('new_desc', ''))
+            edit_entry(fp, section, key, new_title, d.get('new_desc', ''), d.get('old_desc'))
+            if etype == 'artist' and section in _ENTRY_SECS_DEC and new_title.strip() != key.strip():
+                _decision(f'{name} :: {section} :: {key} => {new_title}')
             # If the title changed, track the rename so sync_data won't restore the old value
             kl = key.strip().lower()
             ntl = new_title.strip().lower()
@@ -954,6 +1081,7 @@ class Handler(BaseHTTPRequestHandler):
             if not new_name:
                 self._json({'error': 'new_name required'}, 400); return
             rename_entity(etype, name, new_name)
+            if etype == 'artist': _decision(f'{name} => {new_name}')
             self._json({'ok': True}); return
 
         if path == '/api/merge/entity':
@@ -961,6 +1089,7 @@ class Handler(BaseHTTPRequestHandler):
             if not source:
                 self._json({'error': 'source required'}, 400); return
             ok, err = merge_entities(etype, name, source)
+            if ok and etype == 'artist': _decision(f'{source} => {name}')
             if ok: self._json({'ok': True}); return
             self._json({'error': err}, 400); return
 

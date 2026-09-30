@@ -2,7 +2,6 @@
 
 ## members
 - Debbie Sledge
-- Four sisters (names not specified in text)
 - Joni Sledge
 - Kathy Sledge
 - Kim Sledge
@@ -15,9 +14,9 @@
 - Zaire 74
 
 ## songs
-**On and On (1974, cover)** : Sister Sledge performed a cover of Gladys Knight & the Pips' 1974 hit "On and On" (originally written by Curtis Mayfield for the movie "Claudine") during their set at Zaire 74, with 15-year-old Kathy Sledge singing lead vocals. "15-year-old Kathy Sledge taking the lead on and on, written by Curtis Mayfield and sung by Gladys Night and the Pips for the 1974 movie Claudine. But that was Sister Sledge live in Zaire." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
+**On and On (1974)** : Sister Sledge performed a cover of Gladys Knight & the Pips' 1974 hit "On and On" (originally written by Curtis Mayfield for the movie "Claudine") during their set at Zaire 74, with 15-year-old Kathy Sledge singing lead vocals. "15-year-old Kathy Sledge taking the lead on and on, written by Curtis Mayfield and sung by Gladys Night and the Pips for the 1974 movie Claudine. But that was Sister Sledge live in Zaire." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
 **We Are Family (1979)** : This song, by four sisters from Philadelphia, Pennsylvania, became the official clubhouse song of the 1979 Pittsburgh Pirates. It was first played during a rain delay at Pittsburgh's Three Rivers Stadium in early June 1979. Pirates legend Willie Stargell embraced it, influencing the team to adopt "The Family" as their identity, which was printed on their dugout and became synonymous with their World Series-winning run. The team even replaced "Take Me Out to the Ball Game" with it during the seventh-inning stretch. Sister Sledge learned of its popularity with the Pirates while on tour in Hamburg, Germany, hearing 50,000 people yelling the words. "We are family by sister sledge played over the stadium PA. And as the song came to an end, pirates legend Willie Stargel called up the press box. He told the PR director to announce that this was now the official clubhouse song of the Pittsburgh pirates." ← For the Record - The 70s > Ep. 36 - Na Na Na Na, Hey Hey Hey! 70s Music and Sports | https://seventies.libsyn.com/ep-36-na-na-na-na-hey-hey-hey-70s-music-and-sports
-**We Are Family (N/A)** : This song gained sensation status five years after Sister Sledge's performance at Zaire 74, becoming a popular anthem for the Pittsburgh Pirates in Major League Baseball. "We are family." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
+**We Are Family (1979)** : This song gained sensation status five years after Sister Sledge's performance at Zaire 74, becoming a popular anthem for the Pittsburgh Pirates in Major League Baseball. "We are family." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
 
 ## curiosities
 **Early Performance at Zaire 74** : Sister Sledge performed at Zaire 74, five years before their breakthrough hit "We Are Family" became an anthem for the Pittsburgh Pirates in Major League Baseball, marking an early significant appearance in their career. "Sister Sledge made the trip to Zaire. Five years before they became a sensation in Major League Baseball with the Pittsburgh Pirates Anthem. We are family." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
@@ -27,3 +26,10 @@
 **Pre-Fame Experience at Zaire 74 (1974)** : Having started performing professionally in 1971 but without any major hits by 1974, Sister Sledge's participation in Zaire 74 served as crucial "on the job training" for the sisters. Their eventual breakthrough came in 1979 when Nile Rodgers and Bernard Edwards chose to produce them for Atlantic Records. "Joni Kathy and Debbie Sledge began performing professionally in 1971 and still had not had any real hits by 1974." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
 **Telegram to Pittsburgh Pirates** : Despite the Pittsburgh Pirates trailing three to one against Baltimore, Sister Sledge had a prior commitment to perform in Brussels. Instead of traveling back to the United States, the group opted to send a telegram to the team. "So instead they sent a telegram." ← For the Record - The 70s > Ep. 36 - Na Na Na Na, Hey Hey Hey! 70s Music and Sports | https://seventies.libsyn.com/ep-36-na-na-na-na-hey-hey-hey-70s-music-and-sports
 
+## charts
+**"He's the Greatest Dancer" — Billboard Year-End Hot 100** : #45, 1979. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"We Are Family" — Billboard Year-End Hot 100** : #53, 1979. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"619" — NME Chart** : 6 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
+
+## lists
+**"We Are Family" (1979) — 1001 Albums You Must Hear Before You Die** : #426, 88 AOTY.

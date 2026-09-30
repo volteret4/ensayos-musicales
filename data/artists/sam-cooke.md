@@ -1,23 +1,17 @@
 # artist - Sam Cooke
 
 ## member of
-- Highway QC's
+- The Highway QC's
 - The Singing Children
 - The Soul Stirrers
-
-## members
-- Annie May Cook (mother)
-- Harper Cosby (bass player)
-- LC Cook (brother)
-- Reverend Charles Cook (father)
 
 ## genres
 - Gospel
 - Pop
+- R&B
 - Rhythm and Blues
-- Rock and Roll (at the time)
+- Rock and Roll
 - Soul
-- Soul (modern re-labeling)
 
 ## labels
 - Keen Records
@@ -34,8 +28,9 @@
 **The Dale Cook Sessions (1957)** : Recorded secular music under the pseudonym "Dale Cook" in New Orleans, at Cosimo Matassa's studio, with the same musicians responsible for many rock and roll hits. This was a strategic decision to prevent damaging his gospel career while pursuing pop stardom, using the plausible deniability that "Dale" could be his brother. "So the decision was made to put the single out under the name Dale Cook and maintain a small amount of plausible denierability." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
 
 ## songs
-**I'll Come Running Back to You (1957)** : A demo recorded by Sam Cooke, which Art Rupe later took after their legal dispute. Rupe had Rene Hall and the Lee Gotch Singers overdub the track to make it sound as much like "You Send Me" as possible, in an attempt to leverage Cooke's success for Specialty Records. "Roup took a demo Sam had recorded. I'll come running back to you, and got many hall and the Lee got singers. The very people whose work on You Send Me and Sumitain, he despised so much. To record overdubbs, to make it sound as much like You Send Me as possible." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
+**Having a Party (1962)** : The Pointer Sisters covered this song in a jazzy style in 1977, but their version underperformed on the charts, reaching only number 62 on the R&B chart and failing to enter the Hot 100. "Their jazzy 1977 cover of Sam Cook's having a party only reached number 62 on the R&B chart, and it missed the hot 100 entirely." ← Hit Parade Music History and Music Trivia > Yes We Can Can Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f6364fe6d21276e3fdd
 **If I Didn't Care** : A song by The Ink Spots that Sam Cooke was heard singing to a girl, leading to him being invited to join the newly formed gospel group, the Highway QC's. "Cook joined a newly formed gospel group who had heard him singing the Inkspot song, if I didn't care, to a girl." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
+**I'll Come Running Back to You (1957)** : A demo recorded by Sam Cooke, which Art Rupe later took after their legal dispute. Rupe had Rene Hall and the Lee Gotch Singers overdub the track to make it sound as much like "You Send Me" as possible, in an attempt to leverage Cooke's success for Specialty Records. "Roup took a demo Sam had recorded. I'll come running back to you, and got many hall and the Lee got singers. The very people whose work on You Send Me and Sumitain, he despised so much. To record overdubbs, to make it sound as much like You Send Me as possible." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
 **Jesus Gave Me Water (1951)** : This song was a highlight of the Highway QC's set and the Soul Stirrers insisted on recording it during Sam Cooke's first session with them in March 1951, despite Art Rupe's initial objections given The Pilgrim Travelers had recently had a hit with it. The resulting recording was deemed "absolutely majestic" by Rupe and became the group's next single. "But the group insisted, and the result was absolutely majestic." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
 **Lovable (1957)** : A secularized version of the gospel song "Wonderful," released under the pseudonym Dale Cook as Sam Cooke's first solo secular recording. DJs often introduced it as by "Dale Sam Cook," revealing Cooke's distinctive voice despite the alias. "One quick view out later, and that song became, instead, lovable." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
 **Mean Old World (1957)** : A song that Sam Cooke recorded with The Soul Stirrers, noted for having only "a minimal amount of religious content," which could easily be refigured into a secular song, highlighting his gradual shift towards pop. "Though it's noticeable that songs like Mean Old World could easily be refigured into being secular songs and have only a minimal amount of religious content." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
@@ -43,9 +38,10 @@
 **Summertime (1957)** : One of four songs chosen by Art Rupe for Sam Cooke's first major secular recording session, alongside "You Send Me." Although the expectation was for "Summertime" to be the hit, "You Send Me" ultimately achieved massive success. "When the single came out everyone thought that summertime would be the hit, but you sent me quickly found itself all over the airwaves and became massive." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
 **Twistin' the Night Away (1962)** : Sam Cooke delivered an "incendiary performance" of this song during the 1962 UK tour, closing the first half of a show and receiving prolonged applause through the intermission, which proved to be the pivotal moment that compelled Little Richard to return to his rock and roll roots. "including an insendiary performance of twist in the night away that left the audience applauding through the intermission Richard knew he had to up his game." ← Episode 54： Keep A Knockin | https://www.youtube.com/watch?v=oA4Y_K9E5Y4
 **Well All Right** : This song was written by Sam Cooke and was the only piece of rock and roll music Little Richard recorded immediately after returning from Hamburg, before being fully swayed back into secular music. "At first he still wouldn't record any rock and roll music other than one song that Sam Cook wrote for him, well all right..." ← Episode 54： Keep A Knockin | https://www.youtube.com/watch?v=oA4Y_K9E5Y4
-**Wonderful (Pre-1957)** : An original gospel song that Sam Cooke had recorded with The Soul Stirrers. It was later reworked into the secular song "Lovable" for his first solo secular recording session under the pseudonym "Dale Cook." "As his first secular recording, they decided to record a new version of a gospel song that Cook had recorded with the soul-sturvers. Wonderful." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
-**You Send Me** : This song was released on Keane Records, one of the labels owned by Bob Keane, who later played a pivotal role in Richie Valens' career. "which was the label on which he'd released Sam Cooks You Send Me." ← Episode 73： ＂La Bamba＂ by Ritchie Valens | https://www.youtube.com/watch?v=1v9iSCWnLsc
+**Wonderful** : An original gospel song that Sam Cooke had recorded with The Soul Stirrers. It was later reworked into the secular song "Lovable" for his first solo secular recording session under the pseudonym "Dale Cook." "As his first secular recording, they decided to record a new version of a gospel song that Cook had recorded with the soul-sturvers. Wonderful." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
+**You Send Me (1957)** : This song was released on Keane Records, one of the labels owned by Bob Keane, who later played a pivotal role in Richie Valens' career. "which was the label on which he'd released Sam Cooks You Send Me." ← Episode 73： ＂La Bamba＂ by Ritchie Valens | https://www.youtube.com/watch?v=1v9iSCWnLsc
 **You Send Me (1957)** : A song written by Sam Cooke, initially met with skepticism by guitarist Clifton White who thought it repetitive. It was one of four songs selected for his secular recording session, and despite Art Rupe's objections to the white female backing vocalists, it quickly became a massive hit, reaching number one on both the R&B and Pop charts. "You Send Me, was just him repeating the same thing over and over again." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
+**You Send Me (1957)** : This song marked Sam Cooke's breakout into secular pop music from gospel. It became a number one smash, transforming him into America's top Black pop star in 1957. "When he finally did, with 1957's You Send Me, it was a number one smash, turning Cook into America's top black pop star." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4eef8e6dd12efb02c3c9
 **You Were Made For Me (1957)** : An original song written by Sam Cooke, chosen as one of the four tracks for his debut secular recording session. "another song Sam had written called You Were Made For Me" ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
 
 ## curiosities
@@ -64,8 +60,8 @@
 **Royalty Evasion Tactic** : To prevent Art Rupe, who still held his songwriting contract, from collecting royalties on "You Send Me," Sam Cooke falsely attributed the song's authorship to his brother, LC Cook. This led to legal action initiated by Rupe against Cooke. "Sam was still signed to Roup's company as a songwriter, and so he'd put You Send Me in the name of his brother, LC, so Roup wouldn't get any royalties." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
 **Seeds of Downfall (1957)** : By the close of 1957, despite being at the peak of his commercial success, Sam Cooke's relentless pursuit of career control and personal gain at the expense of others had laid the groundwork for his future downfall, causing pain to those who had supported him, including his gospel groups and many women. "He was upsetting all the right people with his desire to have control of his own career, but he was also hurting a lot of other people along the way." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
 **Solo Contract and Royalty Disputes** : Sam Cooke's solo contract with Specialty Records only offered him one-third of the royalties that The Soul Stirrers had received as a group, prompting him to push for a greater share. This perceived "greed" angered label head Art Rupe, who believed artists should not receive more than one cent per record sold. "Cooke discovered that his solo contract only paid him a third of the royalties that the soul-sturers had been getting as a group, he started pushing for a great to share of the money." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
-
-
+**Gospel to Pop Transition** : In the mid-1950s, Sam Cooke was deliberating whether to transition from gospel music to secular pop, a decision he ultimately made with the number one hit "You Send Me" in 1957. His successful crossover inspired his friend Aretha Franklin to also pursue pop music as she approached her 18th birthday. "Inspired in part by her friend Sam Cook, as Aretha Franklin approached her 18th birthday, she decided she too wanted to record pop music." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4eef8e6dd12efb02c3c9
+**R&B Chart Strategy** : During the early 1960s, Sam Cooke achieved mass appeal with "percolating jams" that successfully merged pop and R&B elements. This style contrasted with Columbia Records' approach to Aretha Franklin, who was deemed "too gritty for the pop market, not earthy enough for R&B." "Aretha's gospel-trained friend was scoring with percolating jams that found a mass appeal midpoint between pop and R&B." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4eef8e6dd12efb02c3c9
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

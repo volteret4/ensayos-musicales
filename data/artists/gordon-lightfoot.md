@@ -4,14 +4,13 @@
 - Folk
 
 ## songs
-**If You Could Read My Mind (N/A)** : This song was a hit for Gordon Lightfoot. "If you could read my mind, which was a hit by Gordon Lightfoot." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
+**If You Could Read My Mind** : This song was a hit for Gordon Lightfoot. "If you could read my mind, which was a hit by Gordon Lightfoot." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
+**Me and Bobby McGee** : Gordon Lightfoot successfully cracked the Canadian charts with his rendition of "Me and Bobby McGee," a song written by Kris Kristofferson. "Gordon Lightfoot, who'd cracked the Canadian charts with it." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
 **Sundown (1974)** : Gordon Lightfoot released the song "Sundown" in 1974. "Gordon Lightfoot, Sundown released in 1974." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← gordon-lightfoot
 
 ## curiosities
 **Delayed Domestic Acceptance** : Gordon Lightfoot was one of the Canadian artists who remained in Canada but was not fully accepted at home until he had a hit in America. This pattern reflects a historical Canadian bias where validation from outside the country was often a prerequisite for domestic recognition. "they really weren't fully accepted at home until they had a hit in America." ← https://www.youtube.com/watch?v=6PGgNCaW4xo ← gordon-lightfoot
 **Obituary Interview Subject** : Gordon Lightfoot was a prominent artist for whom the speaker conducted many interviews following his passing, fulfilling his role as a commentator for various news outlets during such occasions. "Gordon Lightfoot was a big one." ← https://www.youtube.com/watch?v=4xxgPX-aR90 ← gordon-lightfoot
-
-
 
 ## awards
 **Companion of the Order of Canada** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q15278107

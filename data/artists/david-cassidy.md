@@ -8,7 +8,7 @@
 - Pop
 
 ## labels
-- Bell Records (implied, as Steve Wax promoted for Bell and Cassidy was a Bell artist)
+- Bell Records
 
 ## concerts
 - BB King's Blues Club (New York)
@@ -26,8 +26,7 @@
 **Simplistic Pop Appeal (Early 1970s)** : Represented the "simplistic pop" that entranced the generation following the hippies, much to the dismay of older music fans. "The generation following them seemed to be totally entranced by simplistic pop made by David Cassidy..." ← https://www.youtube.com/watch?v=MK7L0eCpDHc ← david-cassidy
 **Teen Idol Image and Ambition** : David Cassidy was a major teen idol from 1970 to 1971. At 20 years old, he played the 16-year-old character Keith Partridge. Despite his success, he wanted to be an actor and a rock singer, not a teen idol singing bubblegum songs like "I Think I Love You." "Now David wanted to be an actor but not on a show like this. And he wanted to sing but not songs like I think I love you." ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum ← david-cassidy
 **Tiger Beat Magazine Cover (1970)** : David Cassidy appeared on the October 1970 cover of *Tiger Beat* magazine alongside Bobby Sherman and Donnie Osmond. "Right now I'm looking at a cover of Tiger Beat magazine from October 1970 and on the cover are David Cassidy, Bobby Sherman and Donnie Osmond." ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum ← david-cassidy
-
-
+**70s Teen Idol Hit Remakes** : David Cassidy, a 1970s teen idol, gained chart success through hit remakes, highlighting the common practice of covers as a pathway to the charts for popular performers of that decade. "David Cassidy" ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
 
 ## charts
 **"334" — NME Chart** : 4 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

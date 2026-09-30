@@ -22,22 +22,21 @@
 - Squeeze
 - The Beach Boys
 - The Beatles
-- The Buzzcocks
+- Buzzcocks
 - The Byrds
 - The Cars
 - The Jam
 - The Kinks
 - The Knack
 - The Quick
-- The Ramones
-- The Razberries
+- Ramones
+- The Raspberries
 - The Records
 - The Romantics
-- The Rubinous
+- The Rubinoos
 - The Shoes
 - The Smithereens
 - The Smiths
-- The Spungtones
 - The Vapors
 - The Who
 - Weezer

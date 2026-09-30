@@ -1,7 +1,7 @@
 # artist - T. Rex
 
 ## members
-- Mark Bolan
+- Marc Bolan
 
 ## genres
 - Glam Rock
@@ -9,9 +9,6 @@
 ## concerts
 - Rock of Ages (1972)
 - Top of the Pops (1971)
-
-## albums
-**None** : The transcript does not describe a specific album for T. Rex. ← For the Record - The 70s > Ep. 26 - Starmen - Glam Rock of the 70s | https://seventies.libsyn.com/026-glam-11820-6-34-pm
 
 ## songs
 **Bang a Gong (Get It On) (1971)** : This song features a very recognizable riff and was T. Rex's only Top 10 hit in the United States, making it to number 10. In the UK, it was number one for a month, with the hype for T. Rex bordering on Beatlemania. "Bang a dog. You're doing sweet and yet." ← For the Record - The 70s > Ep. 26 - Starmen - Glam Rock of the 70s | https://seventies.libsyn.com/026-glam-11820-6-34-pm
@@ -25,8 +22,6 @@
 **Mark Bolan's Tragic Death (1977)** : Mark Bolan died in a car accident in 1977, leaving his potential future career and his ability to overcome a drug habit as unanswered questions. "Mark Bowlin died in a car accident in 1977." ← For the Record - The 70s > Ep. 26 - Starmen - Glam Rock of the 70s | https://seventies.libsyn.com/026-glam-11820-6-34-pm
 **Musical Influence (Post-1973)** : T. Rex was among the musicians whose work Poison Ivy and Lux Interior began to "consume" after being inspired by a New York Dolls concert in 1973. This reflected their growing passion for "anything that was sexy, wild, and played rock and roll." "Esto incluía músicos como al escúper, T-Rex, Ygpop, el acetado New York Dolls." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
 **Rock and Roll Hall of Fame Induction** : T. Rex was inducted into the Rock and Roll Hall of Fame during a ceremony held on November 7th (referring to the 2020 induction class). "T-Rex will be rock and roll hall of famous too." ← For the Record - The 70s > Ep. 26 - Starmen - Glam Rock of the 70s | https://seventies.libsyn.com/026-glam-11820-6-34-pm
-
-
 
 ## charts
 **"Bang a Gong" — Billboard Year-End Hot 100** : #56, 1972. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

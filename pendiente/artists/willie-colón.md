@@ -3,10 +3,6 @@
 ## member of
 - Fania All-Stars
 
-## members
-- Héctor Lavoe (vocals)
-- Willie Colón (trombone)
-
 ## instruments
 - Trombone
 
@@ -22,3 +18,8 @@
 **Signed by Fania at 15, Recorded First Album at 17** : Colón signed with Fania Records at the remarkably young age of 15. By 17, he had the opportunity to record his debut album, showcasing his prodigious talent early in his career. "Firmó por Fania con tan solo 15 años. A los 17, tuvo al fin la oportunidad de grabar su primer disco." ← LA FANIA. El imperio que creó la salsa | https://www.youtube.com/watch?v=UXx3AvorG-k
 **Strained Off-Stage Relationship with Rubén Blades** : Despite their excellent stage chemistry, Willie Colón and Rubén Blades had a very different relationship off-stage. Their realities were contrasting: Colón was born in the streets and knew the harshness of barrio life, while Blades had family protection and left a law career for music. "Buenicoloni Rubén Blades... se entendían muy bien sobre el escenario, pero fuera de él la relación era muy distinta. Sus realidades no podían ser más opuestas, mientras cuando nabían ha sido en las calles y conocía la dureza de la vida de barrio." ← LA FANIA. El imperio que creó la salsa | https://www.youtube.com/watch?v=UXx3AvorG-k
 
+## lists
+**"Siembra" (1978) — 1001 Albums You Must Hear Before You Die** : #414, 100 AOTY.
+**"Siembra" (1978) — AOTY Must Hear 1970s** : #29, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
+**"Lo Mato" (1973) — AOTY Must Hear 1970s** : #147, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
+**"Vigilante" (1983) — AOTY Must Hear 1980s** : #120, 60 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/

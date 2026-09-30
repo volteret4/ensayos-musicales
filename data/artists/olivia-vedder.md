@@ -8,8 +8,3 @@
 
 ## curiosities
 **Musical Collaboration with Father** : Olivia has been working on music with her father, Eddie Vedder, for some time. "Olivia Vetter has been working with Dad on music for a while now." ← https://www.youtube.com/watch?v=dY7uB_QQWBc ← olivia-vedder
-
-
-
-## lists
-**"The Texas-Jerusalem Crossroads" (2001) — AOTY Must Hear 2000s** : #457, 69 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/

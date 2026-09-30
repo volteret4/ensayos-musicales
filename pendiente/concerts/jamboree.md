@@ -5,9 +5,9 @@
 
 ## artists
 - Count Basie
-- Fat Stumino
+- Fats Domino
 - Jerry Lee Lewis
 - Joe Williams
-- Lewis Lyman and the Teen Courts
+- Lewis Lymon and the Teenchords
 - Slim Whitman
 

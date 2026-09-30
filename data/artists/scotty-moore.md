@@ -8,10 +8,10 @@
 - Pop
 
 ## labels
-- Sun Records (worked for Sam Phillips)
+- Sun Records
 
 ## instruments
-- Guitar (with echo and reverb)
+- Guitar
 
 ## curiosities
 **Advice to Johnny Cash** : After Johnny Cash saw Elvis perform, he spoke with Scotty Moore at a nightclub. Moore advised Cash to contact Sam Phillips if he wanted to get signed to Sun Records. "Moore told him to speak to Sam Phillips, and so Cash got hold of Son's phone number, and started calling, asking to speak to Phillips, who was never in." ← Episode 37： ＂I Walk The Line＂ by Johnny Cash | https://www.youtube.com/watch?v=1uhw6KjgSME
@@ -26,11 +26,5 @@
 **Use of Echo and Reverb** : Scotty Moore, a guitarist in Elvis Presley's band, was known for using echo and reverb in his sound, an element admired by East Bay Ray of the Dead Kennedys. "Another hero was Scotty Moore, who played an Elvis Presley's band, and Scotty liked to use echo and reverb in his sound, something that Ray really liked." ← https://www.youtube.com/watch?v=pOeChe_D1Ag ← scotty-moore
 **Work for Sam Phillips (Post-1958)** : After his success as a producer, Scotty Moore took a job working for Sam Phillips. He continued this employment for several years, even after rejoining Elvis's studio band following Elvis's return from military service. "Scotty took a job working for Sam Phillips, and when Elvis got out of the army and Scotty rejoined him, he continued working for Phillips for a number of years." ← Episode 72： ＂Trouble＂ by Elvis Presley | https://www.youtube.com/watch?v=psIgGqkQhZI
 
-
-
 ## awards
 **Rock and Roll Hall of Fame (2000)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
-
-## lists
-**"Skylon" (2008) — Sputnikmusic Best Albums 2008** : #132. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2008/
-**"Mir" (2011) — Sputnikmusic Best Albums 2011** : #149, 3.98 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2011/

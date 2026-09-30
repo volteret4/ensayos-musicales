@@ -16,7 +16,7 @@
 - Gene McFadden
 - Harold Melvin & The Blue Notes
 - John Whitehead
-- MFSP
+- MFSB
 - McFadden & Whitehead
 - The O'Jays
 - The Three Degrees

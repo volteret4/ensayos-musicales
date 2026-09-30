@@ -17,8 +17,7 @@
 - Cliff Richard
 - Ramblin' Jack Elliott
 - The Animals
-- The Drifters (British)
-- The Viper's Skiffle Group
+- The Shadows
 - The Vipers Skiffle Group
 - Tommy Steele
 

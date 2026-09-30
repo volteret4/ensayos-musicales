@@ -6,10 +6,8 @@
 **SoundCloud Birthplace** : Emo Rap primarily originated and gained prominence on SoundCloud, serving as a key platform for its development and dissemination. "This genre was birthed on SoundCloud more than anywhere else." ← https://www.youtube.com/watch?v=tdTs-4Irv8c ← emo-rap
 
 ## artists
-- Bones
-- GBC (Gothboiclique)
+- GothBoiClique
 - Juice WRLD
 - Lil Peep
-- Thraxxhouse
 - XXXTentacion
 

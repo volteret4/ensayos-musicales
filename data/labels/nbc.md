@@ -6,6 +6,5 @@
 
 ## artists
 - Flip Wilson
-- Rage Against The Machine
 - Rage Against the Machine
 

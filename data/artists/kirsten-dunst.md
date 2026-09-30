@@ -1,9 +1,7 @@
 # artist - Kirsten Dunst
 
 ## songs
-**Turning Japanese (Cover)** : Kirsten Dunst covered The Vapors' song "Turning Japanese." "It has since been covered by a Christian Dunst. Yep, that's true." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M ← kirsten-dunst
-
-
+**Turning Japanese** : Kirsten Dunst covered The Vapors' song "Turning Japanese." "It has since been covered by a Christian Dunst. Yep, that's true." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M ← kirsten-dunst
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

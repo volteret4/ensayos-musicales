@@ -3,11 +3,14 @@
 ## genres
 - Hip-hop
 
+## albums
+**Bigger and Deffer** : The title of this album by LL Cool J was "poked fun at" by Cool Mo Dee in the title track of his 1987 album "How Ya Like Me Now," as part of their rap beef. This lyrical jab was a key element of their rivalry. "poked fun at the title of LL's album Bigger and Defer" ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+
 ## curiosities
 **Genuine Musical Genius** : LL Cool J is recognized as one of the "genuine stars, genuine musical geniuses" of the early rap and hip-hop scene. He also made a cameo appearance in the Beastie Boys' music video for "(You Gotta) Fight For Your Right (To Party!)." "It didn't matter that there were genuine stars, genuine musical geniuses. One DMC, Curtis Blow, Africa Babata, Grandmaster Flash, LL Cool J, the scene and the sounds were just not taken seriously." ← https://www.youtube.com/watch?v=l1jPP1FhGo8 ← ll-cool-j
 **Sampling of Funky Drummer Break** : LL Cool J is mentioned as one of many hip-hop artists who extensively sampled Clyde Stubblefield's drum break from James Brown's "Funky Drummer." "Lots and lots of hip-hop ranging from public enemy to NWA, to LL Cool J, to run DMC to the Beastie Boys." ← https://www.youtube.com/watch?v=VnXBJqKwkrw ← ll-cool-j
-
-
+**Early 90s Grammy Winner** : LL Cool J was one of the early 90s rap artists who won Grammys, signaling an improvement in rap Grammy results after the initial controversy of the 1989 awards. "Early 90s winners included LL Cool J, Dr. Dre, and Queen Latifa." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
+**Trademark Kangol Hat (1987)** : LL Cool J's "trademark Kangol hat" was famously targeted in the artwork for Cool Mo Dee's 1987 album "How Ya Like Me Now," which depicted a Jeep crushing it as part of their lyrical beef. This visual diss became an iconic image in rap history. "whose cover depicted a Jeep crushing LL's trademark can goal hat" ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

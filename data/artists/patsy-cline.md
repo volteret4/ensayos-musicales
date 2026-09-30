@@ -9,8 +9,6 @@
 **Plane Crash Death (1963)** : On March 5, 1963, Country singer Patsy Cline died as a passenger in a small Piper aircraft. The plane crashed in bad weather in a forest near Camden, Tennessee, claiming her life. "Country Singer Patsy Klein was a passenger in a small, piper aircraft that went down in bad weather in a forest near Camden, Tennessee." ← https://www.youtube.com/watch?v=3eGBnwPWRGo ← patsy-cline
 **Touring with Roy Orbison** : Patsy Cline toured with Roy Orbison, promoting his single "Blue Angel." It was during this tour that Orbison accidentally discovered his signature look of wearing dark prescription sunglasses on stage. "He'd been on tour with Patsy Klein, promoting Blue Angel, and had left his glasses on the plane." ← Episode 83： ＂Only the Lonely＂ by Roy Orbison | https://www.youtube.com/watch?v=uDvkjXa1ALk
 
-
-
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761
 **National Cowgirl Museum and Hall of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q6971983

@@ -74,7 +74,7 @@
 - Def Leppard
 - Hüsker Dü
 - Judas Priest
-- King Gisart and Elisar Wysart
+- King Gizzard & the Lizard Wizard
 - Kiss
 - Led Zeppelin
 - Metallica
@@ -86,6 +86,6 @@
 - Sepultura
 - Stryper
 - Swans
-- The Jarpers
+- The Yardbirds
 - Van Halen
-
+- Alice in Chains

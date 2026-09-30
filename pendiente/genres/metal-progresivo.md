@@ -6,5 +6,4 @@
 
 ## artists
 - Crimson Glory
-- Fates Warning
 

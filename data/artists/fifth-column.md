@@ -13,8 +13,3 @@
 ## curiosities
 **Proto-Riot Grrrl Group** : Fifth Column, from Toronto, is identified as a proto-Riot Grrrl group, contributing to the groundwork for the movement. "We could spend hours talking about proto-Riot girl groups like Vancouver's Mecha Normal or Toronto's Fifth Column." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← fifth-column ← fifth-column
 **Toronto DIY Pioneers** : Formed in Toronto in the early 1980s, Fifth Column embraced a strong do-it-yourself ethos, self-releasing music on cassette and publishing their own fanzine. Their fanzine often included cassette compilations featuring other like-minded bands, making them a significant pre-Riot Grrrl influence from Canada. "In the early 80s there was a band called Fifth Column, they were formed in Toronto." ← https://www.youtube.com/watch?v=Qss5kC2FUx0 ← fifth-column
-
-
-
-## lists
-**"Space Mantra" (1988) — Scaruffi 1980s** : #399, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

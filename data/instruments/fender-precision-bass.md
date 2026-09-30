@@ -7,7 +7,6 @@
 **Widespread Adoption** : While not the first electric bass, the Precision Bass was the first to gain widespread attention and adoption. Initially, traditional musicians were slow to accept the "newfangled electrical thingy." However, by the end of the 1950s, it had converted almost all rock and roll, jazz, and country musicians to the electric bass. "It wasn't the first electric base, but it was the first one to attract any widespread attention. Things started slow. Musicians can be big into tradition in this newfangled electrical thingy, was a slap in the face. But at the end of the 1950s, almost everyone had been converted to playing an electric base, rock and roll players, jazz artists, and country musicians." ← https://www.youtube.com/watch?v=E6cXyaHALBQ ← fender-precision-bass
 
 ## artists
-- Blake Wentedy II
 - Brian Wilson
 - Carol Kaye
 - Coldplay
@@ -15,7 +14,6 @@
 - Fall Out Boy
 - Green Day
 - Guns N' Roses
-- Guns n' Roses
 - Guy Berryman
 - Mike Dirnt
 - Pete Wentz
@@ -24,7 +22,7 @@
 - Roger Waters
 - Sting
 - The Clash
-- The Ramones
+- Ramones
 - The Wrecking Crew
 - U2
 

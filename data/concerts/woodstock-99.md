@@ -18,11 +18,9 @@
 
 ## artists
 - Kid Rock
-- KoRn
 - Korn
 - Limp Bizkit
 - Metallica
-- Rage Against The Machine
 - Rage Against the Machine
 - Red Hot Chili Peppers
 - The Tragically Hip

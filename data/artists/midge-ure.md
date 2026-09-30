@@ -1,10 +1,8 @@
 # artist - Midge Ure
 
 ## member of
-- Band-Aid
+- Band Aid
 - Ultravox
-
-
 
 ## awards
 **Officer of the Order of the British Empire** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q10762848

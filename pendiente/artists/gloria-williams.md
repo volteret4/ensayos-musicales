@@ -1,5 +1,5 @@
 # artist - Gloria Williams
 
 ## member of
-- The Delphiys
-
+- Martha and the Vandellas
+- The Del-Phis

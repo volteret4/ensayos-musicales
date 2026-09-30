@@ -1,16 +1,15 @@
 # artist - The Blake Babies
 
 ## members
-- Julianna Hatfield
+- Juliana Hatfield
 
 ## genres
 - Alt Rock
 - Tweetpop
 
 ## curiosities
+**Boston Area Indie Band** : Julianne Hatfield and the Blake Babies are listed as one of the amazing indie bands that emerged from the Boston area's rich college music scene. "We had Mission of Burma, the Delphwegos, the Lemonheads, Gang Green, the throwing muses, Dinosaur, Junior, Julianne Hatfield and the Blake Babies, and of course the greatest Boston area college band of them all, the Pixies." ← https://www.youtube.com/watch?v=sCtQqVBtCaI ← julianne-hatfield-and-the-blake-babies
 **Band Featuring Julianna Hatfield** : The Blake Babies are mentioned as a band that included Julianna Hatfield, a notable 90s alt rock star. Their music is suggested to appeal to Tweetpop fans, highlighting a potential crossover in musical sensibility or audience between alt rock and the Tweetpop genre. "There are bands like the Blake Babies, which featured 90s alt rock star Julianne Hatfield." ← https://www.youtube.com/watch?v=jhgZrwtYE2g ← the-blake-babies
-
-
 
 ## lists
 **"Earwig" (1989) — Scaruffi 1980s** : #128, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

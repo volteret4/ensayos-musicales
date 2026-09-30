@@ -4,8 +4,6 @@
 **Chelsea Hotel Resident** : Actor Dennis Hopper was a resident at the Chelsea Hotel, a place known for attracting a diverse range of artists and celebrities. "actors Dennis Hopper." ← https://www.youtube.com/watch?v=LE4YenwmeXM ← dennis-hopper ← dennis-hopper
 **Demon Days Collaboration** : Dennis Hopper was among the notable individuals who contributed to the Gorillaz album "Demon Days." "Additional contributions came from Non-Ole De La Soul, but Sean Ryder of the Happy Mondays, Nina Cherry, Ike Turner. Yes, the husband of Tina, Dennis Hopper." ← https://www.youtube.com/watch?v=iVdTCqpd798 ← dennis-hopper
 
-
-
 ## awards
 **Commandeur des Arts et des Lettres** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q13452531
 **Directors Guild of America Award for Outstanding Directing – Feature Film (1969) — Easy Rider** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q5280675

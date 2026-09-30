@@ -5,4 +5,3 @@
 
 ## curiosities
 **Husband as Manager** : Her husband, George McCrae, managed her singing career before he unexpectedly achieved fame with "Rock Your Baby." "George had been managing the career of his wife, Gwen." ← For the Record - The 70s > Ep. 1 - Disco Doesn't Suck (Encore) | https://www.ftr70.com/blog/tag/70s+podcast
-

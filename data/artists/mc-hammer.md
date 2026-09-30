@@ -1,15 +1,19 @@
 # artist - MC Hammer
 
+## genres
+- Hip Hop
+- Pop
+
 ## songs
-**U Can't Touch This (Year)** : This song famously interpolated Rick James' "Super Freak," demonstrating a recurring method for older songs to generate new revenue through sampling and interpolation. "MC Hammer's. You can't touch this." ← https://www.youtube.com/watch?v=Pe40SqDrpZ0 ← mc-hammer
+**U Can't Touch This (1990)** : This song famously interpolated Rick James' "Super Freak," demonstrating a recurring method for older songs to generate new revenue through sampling and interpolation. "MC Hammer's. You can't touch this." ← https://www.youtube.com/watch?v=Pe40SqDrpZ0 ← mc-hammer
+**U Can't Touch This (1990)** : MC Hammer's 1990 hip hop jam, an "unabashed homage" that transformed Rick James's 1981 funk classic "Super Freak" into a number 8 hit. "MC Hammer transformed it into the unabashed homage, you can't touch this. The 1990 Hip Hop Jam reached number 8" ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
 
 ## curiosities
 **Became a Pastor** : MC Hammer pursued a spiritual path, becoming a pastor. "MC Hammer became a pastor." ← https://www.youtube.com/watch?v=7jMfH9xAOpI ← mc-hammer
 **First Concert Experience** : MC Hammer was the artist Nora Jones saw at her very first concert. "my first concert was MC Hammer." ← Hit Parade Music History and Music Trivia > Introducing Broken Record - Norah Jones Begins Again | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cbc
 **High Video Budgets** : MC Hammer was among the hip-hop artists who had no reservations about spending millions of dollars on their music videos. This reflected hip-hop's attitude of "cashing in" and emphasizing themes of money, status, luxury, and identity through elaborate visual productions. "MC Hammer, Buster Rhymes, and Puff Daddy had no trouble spending a couple of million on videos." ← https://www.youtube.com/watch?v=7IDbqdIw3WU ← mc-hammer
 **Post-SNL Support (1992)** : After Sinead O'Connor's controversial appearance on *Saturday Night Live*, MC Hammer sent her a check so she could purchase a first-class ticket home to Ireland. "MC Hammer sent her a check so she could buy a first-class ticket home to Ireland." ← https://www.youtube.com/watch?v=afuqjWl1JyI ← mc-hammer ← mc-hammer
-
-
+**Blanked at Major Categories (General)** : MC Hammer was listed among prominent rap/hip-hop artists who have been "blanked" in major general field Grammy categories. "In addition to B, J, Kanye and Kendrick, major category nominees that have been blanked include MC Hammer, Coolio, TLC, Nelly, Eminem, Ludicrous, Lil Wayne and Missy Elliott." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
 
 ## awards
 **Grammy Award for Best Music Video (1991)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q2976730

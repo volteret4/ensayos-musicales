@@ -6,7 +6,7 @@
 **Founding and Persistence** : Farm Aid came into existence two months after Live Aid in 1985 and, unlike Live Aid, continues to operate today. Its formation was sparked by Bob Dylan's comment at Live Aid about helping American farmers, which resonated with Willie Nelson, who then collaborated with John Mellencamp and Neil Young to organize the event. "Melanchamp actually is from the heartland see more Indiana he has never liked the heartland rock label because at least in part of the political implications but if the common interpretation is that heartland rock speaks for the downtrodden common man then melanchamp is the epitome of the heartland rocker. He forever cemented that interpretation of his music with his association with far made which came into existence two months after live aid and unlike live aid it still exists today." ← For the Record - The 70s > Ep. 55 - Heartland Rock is about More than the Heartland | https://www.ftr70.com/
 
 ## artists
-- BB King
+- B.B. King
 - Foreigner
 - George Jones
 - Johnny Cash

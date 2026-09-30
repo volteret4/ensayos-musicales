@@ -7,12 +7,14 @@
 **Integration with Hip Hop by MARRS** : The track "Pump Up the Volume" by MARRS was highly influential in the late 1980s for its role in mashing up hip hop and dance music, leveraging the new art form of sampling to create a number one hit. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← dance-music
 **Rise in the 1970s** : Dance music experienced a surge in popularity throughout the 1970s. This rise is attributed to a collective societal trend where many Americans, including even committed protesters, felt the need to "retreat and regroup and unplug from it all." "hence dance music and disco." ← For the Record - The 70s > Ep. 43 - Music and The Kent State Massacre of May 4, 1970 | https://seventies.libsyn.com/ep-43-music-and-the-kent-state-massacre-of-may-4-1970
 **UK Explosion in 1980s** : An explosion of dance culture through the 1980s in the UK led to the rise of Madchester, signaling early shifts in the musical landscape. "following an explosion of dance culture through the 1980s." ← https://www.youtube.com/watch?v=Rf1tFWQg51Y ← dance-music ← dance-music
+**Post-Disco Backlash Comeback (1982-1984)** : In the wake of the 1979 disco backlash, dance music (which pop fans carefully avoided calling "disco") began making a strong comeback on the charts by late 1983 and early 1984, doing better than it had since 1979. This resurgence was driven by new wave synth pop, Michael Jackson's success, and sleek club styles from artists like The Pointer Sisters, Shannon, and Madonna. "By late 83 and early 84 dance music, which is what we called it then, pop fans were careful never to say the other five letter D word. And it was doing better on the charts than it had since 1979." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
+**Infection of Hit Music Styles** : Even though the word "disco" was avoided, "dance music production tropes and black informed styles were infecting all manner of hit music" in 1984. This influence extended beyond club music or R&B to "straight up rock like ZZ Top" and even metal, leading to a widespread genre blending that brought pop music "back to life." "Even if no one was saying the word disco, dance music production tropes and black informed styles were infecting all manner of hit music." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
 
 ## artists
 - Faithless
 - Happy Mondays
 - Kraftwerk
-- MARRS
+- M|A|R|R|S
 - New Order
 - Public Image Ltd
-
+- Giorgio Moroder

@@ -2,15 +2,16 @@
 
 ## genres
 - Hardcore
+- Hardcore punk
+- Punk
 
 ## labels
 - Mystic Records
 - SST
 
 ## curiosities
+**Influence on Other Musicians** : The Minutemen are noted as being very important to the musical education of musicians like Eddie Vedder and Dave Grohl. "Talk to Eddie Vetter or Dave Grohl, and they'll tell you how some of these bands were really, really important to their musical education." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← minutemen
 **Influence on Major Artists** : The Minutemen are cited among several California hardcore bands that were very important to the musical education of figures like Eddie Vedder and Dave Grohl. "Talk to Eddie Vetter or Dave Grohl, and they'll tell you how some of these bands were really, really important to their musical education." ← https://www.youtube.com/watch?v=0qigzi1j81U ← the-minutemen
-
-
 
 ## lists
 **"Double Nickels on the Dime" (1984) — 1001 Albums You Must Hear Before You Die** : #541, 88 AOTY.

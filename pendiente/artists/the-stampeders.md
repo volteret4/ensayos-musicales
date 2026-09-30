@@ -1,7 +1,7 @@
 # artist - The Stampeders
 
 ## members
-- Kim Berley
+- Kim Berly
 - Rich Dodson
 - Ronnie King
 
@@ -19,3 +19,8 @@
 ## curiosities
 **Canadian Success vs. American Perception** : From an American perspective, The Stampeders are considered one-hit wonders as they never had another hit in the United States. However, from a Canadian perspective, they are not, having achieved seven more top ten hits in Canada before disbanding in 1980. They were a very popular touring band and toured internationally more than any other Canadian band of their era. While they opened for acts like The Beach Boys and Steely Dan in the US, they were headliners in Canada. "The Stamp Eaters won four Juneau Awards in 1972, which is the equivalent of the Grammys in the United States." ← For the Record - The 70s > Ep. 60 - One-Hit Wonders of the 70s | https://www.ftr70.com
 
+## charts
+**"Sweet City Woman" — Billboard Year-End Hot 100** : #58, 1971. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+
+## lists
+**"The Best of The Stampeders" (1977) — Juno Awards: Album of the Year** : #1978. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f

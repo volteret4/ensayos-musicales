@@ -5,9 +5,11 @@
 **Blending of Genres** : Americana is described as a musical style that blends country, folk, blues, and rock, with a "slight dusting of alternative pixie dust," implying an indie or alternative sensibility infused into traditional roots music. "There's Americana, a blending of country, folk blues and rock, and then given a slight dusting of alternative pixie dust." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4 ← americana
 **Community and Identity** : Brandy Carlisle described Americana as "more than a genre," emphasizing its identity as a community, particularly for artists who might not fit neatly into other traditional categories. "Carlisle wrote on her Instagram post that Americana was more than a genre. It is a community and that is the genre that she had hoped that her song would be included in when considered for her Grammy." ← For the Record - The 70s > Ep. 34 - A 70s Pop Manifesto - Finding Meaning in 70s Pop | https://seventies.libsyn.com/ep-34-a-70s-pop-manifesto-finding-meaning-in-70s-pop ← americana
 **Not a Genre in the 1970s** : The genre of Americana, as understood in contemporary music classification (e.g., for Grammy nominations), did not exist as a defined category in the 1970s. "when the Grammys told Brandy Carlyle that her song is not Americana enough, which was not even a genre in the 70s, and Casey Musgrave that her whole album is not country enough, the artists were quick to reassure their fans that they were not the ones abandoning their chosen communities." ← For the Record - The 70s > Ep. 34 - A 70s Pop Manifesto - Finding Meaning in 70s Pop | https://seventies.libsyn.com/ep-34-a-70s-pop-manifesto-finding-meaning-in-70s-pop ← americana
+**John Mellencamp's Imperial Use** : Indiana rocker John Mellencamp (then John Cougar Mellencamp) infused his hits with Americana and country-adjacent tropes, deepening this focus during his imperial peak with the 1987 album "The Lonesome Jubilee," which employed folk and country instruments like auto harp, banjo, accordion, and fiddle. This enabled him to successfully chart "rootsy folk rock" like "Paper in Fire" in a pop-dominated era. "had long infused his hits with Americana and even country adjacent tropes from Herz so good to pink houses, Jack and Diane to small town." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f03154465cd600c5379
 
 ## artists
 - Grateful Dead
 - Red River Dialect
 - Swans
-
+- Hootie & the Blowfish
+- John Mellencamp

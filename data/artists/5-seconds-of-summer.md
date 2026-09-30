@@ -5,8 +5,7 @@
 
 ## curiosities
 **New Generation Band** : 5 Seconds of Summer is highlighted as one of the bands representing a "new generation of pop punk" that emerged after 2010. "For example, five seconds of summer." ← https://www.youtube.com/watch?v=pE7TaWSUa-o ← 5-seconds-of-summer
-
-
+**Social Media Origin** : Five Seconds of Summer is cited as an artist who rose to prominence and built their career through the use of social media platforms. "five seconds of summer." ← https://www.youtube.com/watch?v=nX8uAFDzDYM ← five-seconds-of-summer
 
 ## awards
 **American Music Award for New Artist of the Year** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1527196

@@ -10,7 +10,5 @@
 **Political Career** : Jello Biafra, the singer for the Dead Kennedys, later ran for mayor of San Francisco, finishing fourth in the election. "The dead Kennedys featuring singer Jello Biopro, who would later run for mayor of San Francisco he finished fourth." ← https://www.youtube.com/watch?v=0qigzi1j81U ← jello-biafra
 **Roadie for The Ravers, Co-founded Dead Kennedys** : Jello Biafra worked as a roadie for a band called The Ravers. Following this experience, he and East Bay Ray collaborated to form the iconic punk band Dead Kennedys. "Jello Biapro roadied for a band called the Ravers before he and East Bay Rae formed the dead Kennedys." ← https://www.youtube.com/watch?v=ZVGnSVfed9s ← jello-biafra ← jello-biafra
 
-
-
 ## lists
 **"Tumor Circus" (1991) — Scaruffi 1990s** : #796, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

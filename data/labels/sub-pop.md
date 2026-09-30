@@ -13,10 +13,10 @@
 **Seattle-based Indie Label** : Sub Pop is an indie label from Seattle, identified as one of the more important labels in the American Pacific Northwest that released records by bands like Mecca Normal. It was well-known for signing grunge bands and also supported other indie acts. "and Subpop from Seattle." ← https://www.youtube.com/watch?v=Qss5kC2FUx0 ← sub-pop
 
 ## artists
-- Alice In Chains
+- Alice in Chains
 - Green River
 - Mecca Normal
-- Melvins
+- The Melvins
 - Mudhoney
 - Nirvana
 - Pearl Jam

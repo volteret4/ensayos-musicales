@@ -1,15 +1,15 @@
 # artist - Grady Martin
 
-## members
-- Marty Robbins (bandleader)
+## member of
+- Marty Robbins
 
 ## instruments
 - Baritone guitar
 - Electric guitar
 - Fuzz pedal
 - Fuzz tone
-- Maestro FZ1 Fuzz tone
 - Maestro Fuzz Tone FZ1
+- Maestro FZ1 Fuzz tone
 - Rhythm guitar
 - Six-string baritone guitar
 
@@ -25,18 +25,3 @@
 **Likely Inspired by Paul Burlison's Distortion** : The most probable explanation for Grady Martin's later adoption of fuzz tone is that he was inspired by Paul Burlison's intentional use of distorted guitar during the Rock and Roll Trio's Nashville sessions. "the most likely explanation is that Martin was inspired to add Fuzz to his guitar by Paul Burlison." ← Episode 44： ＂Train Kept A-Rollin'＂, by Johnny Burnette and the Rock 'n' Roll Trio | https://www.youtube.com/watch?v=u3zYAJ2qeR4
 **Nashville A-Team Session Guitarist** : Grady Martin was a session guitarist from the Nashville A-Team who added another electric guitar to complement Paul Burlison's on the Rock and Roll Trio's Nashville sessions. "session guitarist Grady Martin added another electric guitar to complement Burlison's." ← Episode 44： ＂Train Kept A-Rollin'＂, by Johnny Burnette and the Rock 'n' Roll Trio | https://www.youtube.com/watch?v=u3zYAJ2qeR4
 **Session Guitarist on Iconic Recordings** : Grady Martin was a prolific session guitarist in Nashville, contributing to hundreds of recordings for prominent artists such as Elvis Presley, Johnny Cash, and Buddy Holly. His work as a session musician placed him at the heart of many significant musical developments. "Grady was a session guitarist in Nashville who played on hundreds of recordings for people like Elvis Presley and Johnny Cash and even Buddy Holly." ← https://www.youtube.com/watch?v=6SdPPsmpgJg ← grady-martin
-
-
-
-## charts
-**"Bring Em Out" — Billboard Year-End Hot 100** : #65, 2005. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"U Don't Know Me" — Billboard Year-End Hot 100** : #79, 2005. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"What You Know" — Billboard Year-End Hot 100** : #47, 2006. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Why You Wanna" — Billboard Year-End Hot 100** : #95, 2006. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Big Shit Poppin'" — Billboard Year-End Hot 100** : #75, 2007. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Whatever You Like" — Billboard Year-End Hot 100** : #15, 2008. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Live Your Life" — Billboard Year-End Hot 100** : #37, 2008. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Dead and Gone" — Billboard Year-End Hot 100** : #12, 2009. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Live Your Life" — Billboard Year-End Hot 100** : #18, 2009. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Whatever You Like" — Billboard Year-End Hot 100** : #40, 2009. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"No Mediocre" — Billboard Year-End Hot 100** : #87, 2014. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

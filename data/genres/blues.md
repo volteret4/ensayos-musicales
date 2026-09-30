@@ -8,5 +8,5 @@
 - Björk
 - Blind Lemon Jefferson
 - Carl Perkins
-- Mios
+- Muse
 

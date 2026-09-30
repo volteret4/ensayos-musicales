@@ -14,6 +14,5 @@
 
 ## artists
 - Dead Kennedys
-- No Means No
 - NoMeansNo
 

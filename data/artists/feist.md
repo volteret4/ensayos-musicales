@@ -1,9 +1,10 @@
 # artist - Feist
 
+## genres
+- Indie Pop
+
 ## songs
 **1234** : Feist's career experienced a significant boost, described as "going ballistic," after this song was used in an Apple commercial. This placement provided immense exposure and propelled her career forward. ← https://www.youtube.com/watch?v=sfie4YYncxk ← feist
-
-
 
 ## awards
 **Juno Award for Video of the Year (2005)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q6314109

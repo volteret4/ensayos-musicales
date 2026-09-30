@@ -47,10 +47,10 @@
 **Variants in 80s USA** : Alongside indie rock, the late 1980s in the United States saw the emergence of various metal variants, including "slag" (likely thrash or sludge metal), which contributed to the diverse rock landscape. "nacían varias variantes del metal, nacían el slag." ← Music Radar Clan > Cuál fue el primer disco de Grunge？ | https://www.youtube.com/watch?v=7F0g3YpRrY4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← metal ← metal
 **War on Terror Interrogation** : In the "disco room" set up in the prison at the U.S. Airbase in Mosul, Iraq, operational from 2004, detainees were subjected to powerful strobe lights and super loud death metal as an enhanced interrogation tactic. "According to some anonymous FBI reports, there was an interrogation room set up in the prison at the U.S. Airbase in Mosul, Iraq. It was known as the disco room and was an operation from 2004. The themes were blasted with powerful strobe lights and super loud death metal." ← https://www.youtube.com/watch?v=R1wdsGt07Gg ← metal ← metal
 **Warsaw Pact Confusion** : The London metal band Warsaw Pact created confusion for Joy Division (then called Warsaw), necessitating Joy Division's name change to avoid being mistaken for the metal group. "Warsaw was always getting confused with a London metal band called Warsaw Pact." ← https://www.youtube.com/watch?v=1VWJ0uCQx8w ← metal ← metal
+**Mainstream Pop Appeal (1984)** : In 1984, metal "went pop," becoming more accessible with frothy, catchy, hook-laden songs often incorporating synthesizers. Bands like Van Halen, Scorpions, Ratt, and Twisted Sister scored top 40 and top 20 hits, with some like Motley Crue even described as "disco slowed down and rocked up." This trend helped metal "define the bounds of mass appeal pop" during the year. "Metal goes pop." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
 
 ## artists
 - AC/DC
-- ACDC
 - Alice Cooper
 - Alice in Chains
 - Alien Weaponry
@@ -59,7 +59,6 @@
 - Black Rebel Motorcycle Club
 - Black Sabbath
 - Body Count
-- Dancing
 - Dimebag Darrell
 - Disaster
 - Electric Wizard
@@ -73,20 +72,17 @@
 - Joe Satriani
 - John Frusciante
 - Kid Rock
-- KoRn
 - Korn
 - Lamb of God
-- Lane Staley
-- Leo
+- Layne Staley
 - Limp Bizkit
-- Lincoln Park
+- Linkin Park
 - Living Colour
 - Marilyn Manson
 - Marsha Zazula
 - Metallica
 - Misfits
 - Nine Inch Nails
-- No Means No
 - NoMeansNo
 - Ozzy Osbourne
 - Plasmatics
@@ -99,12 +95,15 @@
 - Scott Weiland
 - Soundgarden
 - Stone Temple Pilots
-- Striper
+- Stryper
 - Sum 41
 - Sweet
 - Testament
 - The White Stripes
 - Trent Reznor
-- Tul
-- Warsaw Pact
-
+- Tool
+- Jerry Cantrell
+- Bon Jovi
+- Mötley Crüe
+- Ratt
+- Twisted Sister

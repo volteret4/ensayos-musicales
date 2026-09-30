@@ -1,23 +1,15 @@
 # artist - Richard Berry
 
 ## member of
-- The Debenares
+- The Debonaires
 - The Dreamers
-- The Flamingos (original group that became The Platters)
+- The Flairs
+- The Flamingos
+- The Flares
 - The Hollywood Blue Jays
 - The Platters
-
-## members
-- Arthur Lee May and the Crowns
-- The Debenares
-- The Dreamers
-- The Fair Rose
-- The Five Hearts
-- The Flamingos (bass)
-- The Flares (bass)
-- The Rams
-- The Rhythm Rockers (singer)
-- The Robbins (lead vocals, subbing for Bobby Nunn)
+- The Rhythm Rockers
+- The Robins
 
 ## genres
 - Cruelling
@@ -33,23 +25,23 @@
 - Modern Records
 
 ## instruments
-- Bass (vocals)
+- Bass
 - Piano
-- Tenor (vocals)
+- Tenor
 
 ## albums
-**Hundreds of Records (1952-early 1960s)** : Richard Berry was featured on literally hundreds of records between 1952 and the early 1960s, appearing under many names. Many of these were considered classics of the genre, many others were derivative hack work, and more than a few managed to be both. "Between 1952 and the early 60s, Barry was on literally hundreds of records, under many names, and it's likely we will never accurately know all of them." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Hundreds of Records (1952)** : Richard Berry was featured on literally hundreds of records between 1952 and the early 1960s, appearing under many names. Many of these were considered classics of the genre, many others were derivative hack work, and more than a few managed to be both. "Between 1952 and the early 60s, Barry was on literally hundreds of records, under many names, and it's likely we will never accurately know all of them." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
 
 ## songs
+**The Big Break** : This song was a sequel to "Riot in Cell Block Number 9," written by Richard Berry himself. He was promoted as a solo artist by the Beharry Brothers after they recognized his voice on the earlier track. "But they got Barry to start a solo career with a sequel to Riot, The Big Break, which he wrote himself." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
 **Have Love Will Travel** : Richard Berry composed this song as a follow-up to his local hit "Louie Louie," but it did not achieve commercial success. Despite its quality, it couldn't replicate the unexpected popularity of its predecessor. "He did come up with a great follow up, Have Love Will Travel, but that wasn't a hit." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
-**Hollywood Blue Jays' first record (1952) - B-side** : Richard Berry was featured on the B-side of The Hollywood Blue Jays' first record, released by John Dolphin, with Cornell Gunter singing lead on the A-side. The group, originally The Debenares, was disappointed by the uncredited release. "The A-side featured Gunter on lead. While the B-side featured Barry." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Hollywood Blue Jays' first record (1952)** : Richard Berry was featured on the B-side of The Hollywood Blue Jays' first record, released by John Dolphin, with Cornell Gunter singing lead on the A-side. The group, originally The Debenares, was disappointed by the uncredited release. "The A-side featured Gunter on lead. While the B-side featured Barry." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
 **Look Out Miss James** : Richard Berry considered "Louie Louie" just another song he'd written, no more important than this and "Rockin' Man," reflecting his initial perspective before its widespread impact. "Louis Louis was just another song he'd written, no more important than Look Out Miss James or Rockin' Man" ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
-**Louie Louie (1957) - Original Version** : Richard Berry's most famous song, which he initially intended to have a Latin feel but altered to straight-ahead R&B at his record label's insistence. Released as the B-side to "You Are My Sunshine" on Flip Records, it became a minor local hit in Los Angeles. The song had its genesis in the intro of René Touzet's "L-Loco Cha-Cha-Cha," and borrowed its vocal melody and lyrical theme from Chuck Berry's "Havana Moon." "Barry's most famous song, Louis Louis, was both. There is nothing original about Louis Louis, yet it had an inculcable effect on popular music history, and Barry's original version is a genuinely great record." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
-**Louie Louie (1957) – Original Version** : Richard Berry released the original version of "Louie Louie" in 1957. The song tells the story of a sailor returning to Jamaica to reunite with his true love, and it was later covered extensively by other artists, most notably The Kingsmen. "The original version of Louis Louis from 1957 by Richard Berry." ← https://www.youtube.com/watch?v=L0j9iDuHQVA ← richard-berry
+**Louie Louie (1957)** : Richard Berry's most famous song, which he initially intended to have a Latin feel but altered to straight-ahead R&B at his record label's insistence. Released as the B-side to "You Are My Sunshine" on Flip Records, it became a minor local hit in Los Angeles. The song had its genesis in the intro of René Touzet's "L-Loco Cha-Cha-Cha," and borrowed its vocal melody and lyrical theme from Chuck Berry's "Havana Moon." "Barry's most famous song, Louis Louis, was both. There is nothing original about Louis Louis, yet it had an inculcable effect on popular music history, and Barry's original version is a genuinely great record." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Louie Louie (1957)** : Richard Berry released the original version of "Louie Louie" in 1957. The song tells the story of a sailor returning to Jamaica to reunite with his true love, and it was later covered extensively by other artists, most notably The Kingsmen. "The original version of Louis Louis from 1957 by Richard Berry." ← https://www.youtube.com/watch?v=L0j9iDuHQVA ← richard-berry
 **Riot in Cell Block Number 9** : Richard Berry sang lead vocals on this song by The Robbins, subbing for their normal bass singer Bobby Nunn at the request of Lieber and Stoller. The Beharry Brothers, to whom Berry was under contract, recognized his voice and were annoyed. "one of the sessions that Barry had sung on was The Robbins right in cell block number 9, where Lieber and Stuller had asked him to sing lead, subbing for The Robbins Normal bass singer Bobby Non." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
 **Rockin' Man** : Richard Berry considered "Louie Louie" just another song he'd written, no more important than this and "Look Out Miss James," before its significant cultural influence. "Louis Louis was just another song he'd written, no more important than Look Out Miss James or Rockin' Man" ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
 **She Wants To Rock (1953)** : This Richard Berry song was released as the B-side to The Flares' first single for Flair Records, produced by Libre and Stolar. Its title was considered racy enough that DJ Hunter Hancock required the band to explain on his radio show that "rock" merely meant to dance. "Apparently in 1953, when that came out, the title was still considered racing enough that the DJ Hunter Hancock insisted on them going on his radio show, and explaining that by rock, they merely meant to dance, not anything more suggestive." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
-**The Big Break** : This song was a sequel to "Riot in Cell Block Number 9," written by Richard Berry himself. He was promoted as a solo artist by the Beharry Brothers after they recognized his voice on the earlier track. "But they got Barry to start a solo career with a sequel to Riot, The Big Break, which he wrote himself." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
 **Yamma Yamma Pity Mama** : A solo recording by Richard Berry, described as a "Little Richard knock-off," released during his solo career in the late 1950s. This song was part of his efforts to record as much as possible for session fees. "recording songs like The Little Richard Knock-Off, Yamma Yamma Pity Mama." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
 **You Are My Sunshine** : This song was released as the A-side to Richard Berry's original 1957 recording of "Louie Louie" on Flip Records. "which was released as the B side to a version of You Are My Sunshine, and became a minor local hit." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
 
@@ -70,10 +62,3 @@
 **Reclaiming "Louie Louie" Rights (1986)** : In 1986, Chuck Rubin's legal actions tying up "Louie Louie" prompted a company interested in using the song for a major TV advertising campaign to pressure the song's owner for a resolution. This led to Richard Berry regaining half the publishing rights and full songwriting rights, which he then split with Rubin. "In order to make sure the commercials used Louis Louis, the song's owner gave Berry half the publishing rights and full songwriting rights, which Berry then split with Rubin." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
 **Royalties and Session Work Strategy** : Influenced by Jesse Belvin, Richard Berry learned that musicians rarely received royalties from recording contracts, regardless of what they signed. Consequently, he focused on singing on as many sessions as possible, pocketing a $50 fee for each. "he'd learned from Jesse Bellvin that it didn't matter what the contract said, you were never going to get any royalties when you made records." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
 **Sale of Songwriting Rights (1959)** : In 1959, Richard Berry sold his songwriting rights to "Louie Louie" and several other songs to the owner of Flip Records for $750 to finance his wedding. Although he retained BMI royalties from radio play, he forfeited all income from record sales, sheet music, or film usage. "In 1959, in order to pay for his wedding, he sold his songwriting rights to Louis Louis and several of his other songs to the own Flip Records for $750." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
-
-
-
-## lists
-**"I Want to See the Bright Lights Tonight" (1974) — 1001 Albums You Must Hear Before You Die** : #314.
-**"I Want to See the Bright Lights Tonight" (1974) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #485. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Shoot Out the Lights" (1982) — Pitchfork: The 200 Best Albums of the 1980s** : #161. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63

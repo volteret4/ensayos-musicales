@@ -6,3 +6,5 @@
 ## curiosities
 **Obscenity Controversy Parallel** : The Singing Nun's hit "Dominique" became popular in France partly because its chorus contained "Nika," a French swear word for "to fornicate," creating a parallel to the imagined obscene lyrics controversy that fueled "Louie Louie's" success. "The singing nunsong had a chorus that went to Dominica, Nika, and one of the reasons it had become popular was that in France, but not in Belgium where she lived, Nika was a swear word, and expletive meaning to fornicate." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
 
+## charts
+**"Dominique" — UK Singles Chart** : #6, 1964. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart

@@ -8,9 +8,11 @@
 **Manchester Musical Roots** : Northern Soul is identified as one of the original foundations of Manchester's musical heritage. "Manchester's foundations are originally Northern Seoul and stuff." ← https://www.youtube.com/watch?v=q_Scyr2czh8 ← northern-soul
 **Mod Culture Offshoot** : Following the decline of mod culture in the late 1960s due to the rise of hippie culture, some former mods transitioned their musical interests to a specific form of music known as Northern Soul. "Some mods became skinheads or swayed heads, and others got into a form of music known as Northern Soul." ← https://www.youtube.com/watch?v=mAlc-N2wn5s ← northern-soul ← northern-soul
 **Origin from Motown Sound** : The subgenre of Motown music that became known as Northern Soul was "picked up by fans in the north of England." This style, exemplified by records like Martha and the Van Dellers' "Heat Wave," led directly to disco, high energy, electro-pop, the Stock-Aitken-Waterman "hit factory" of the 1980s, and had a significant impact on gay culture and subsequent dance music across genres. "This is the subjum of Motown that, when it was picked up by fans in the north of England, became known as Northern Seoul, the branch of Motown music that led directly to disco, to high energy, to electro pop, to the stockade Kim War to the hit factory of the 80s, to huge chunks of gay culture, and to almost all music made for dancing in whatever genre after this point." ← Episode 111： ＂Heat Wave＂ by Martha and the Vandellas | https://www.youtube.com/watch?v=AAiUJhSKjzs
+**Obscure B-side to Synth-Pop Classic** : Gloria Jones's "Tainted Love," an obscure 1964 Northern Soul B-side, was dramatically transformed by the British duo Soft Cell into a synth-pop classic in 1981, subsequently climbing to number eight on the Hot 100. "this obscure 1964 Northern Soul B-side by Gloria Jones, and turned it into a synth pop classic." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
+**English Classic Status** : The Pointer Sisters' 1972 single "Send Him Back" is highly regarded in England as a Northern Soul classic, despite it failing to chart in the United States. "Their 1972 single, Send Him Back, is now renowned in England as a Northern Soul classic, but it did in chart either." ← Hit Parade Music History and Music Trivia > Yes We Can Can Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f6364fe6d21276e3fdd
 
 ## artists
 - Gloria Jones
-- Holland, Dozier and Holland
-- Martha and the Van Dellers
-
+- Holland–Dozier–Holland
+- Martha and the Vandellas
+- Donna Summer

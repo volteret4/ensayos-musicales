@@ -2,4 +2,3 @@
 
 ## member of
 - My Bloody Valentine
-

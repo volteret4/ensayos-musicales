@@ -16,8 +16,3 @@
 **Rolling Stone Internship (Summer 2008)** : The same summer she turned 16, Frances Bean worked as an intern at Rolling Stone magazine. Gossip suggested she was unpopular, never got coffee, dressed sloppily, and frequently called in sick, behavior likened to her mother's. "That same summer she worked as an intern at Rolling Stone magazine. Apparently if the gossip is true, she was no that popular." ← https://www.youtube.com/watch?v=U40hOYy_94E ← frances-bean-cobain ← frances-bean-cobain
 **Sixteenth Birthday Party (Summer 2008)** : In the summer of 2008, for her 16th birthday, her mother threw a party for her at the House of Blues on Sunset Boulevard in Los Angeles. The event cost just under $325,000. "When she turned 16 in the summer of 2008, Mummy threw her a birthday party at the House of Blues on Sunset Boulevard in Los Angeles. The bill for the party was just shy of $325,000." ← https://www.youtube.com/watch?v=U40hOYy_94E ← frances-bean-cobain ← frances-bean-cobain
 **Snippets of Music Released Online** : Frances Bean Cobain has released various snippets of music online over the years, which have demonstrated significant potential, though she has not yet officially released any full musical works. "She's released snippets of music online over the years. And some of those bits have showed great potential, but she hasn't officially released anything really so far." ← https://www.youtube.com/watch?v=dY7uB_QQWBc ← frances-bean-cobain
-
-
-
-## lists
-**"Far Out Far West" (2020) — Scaruffi 2020s** : #37, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

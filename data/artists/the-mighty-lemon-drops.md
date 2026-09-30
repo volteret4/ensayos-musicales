@@ -12,8 +12,3 @@
 
 ## songs
 **Happy Head (1986)** : This track was The Mighty Lemon Drops' contribution to the NME's *C86* cassette in 1986, which served as a significant launchpad for the band. Hailing from the West Midlands, they later signed with Sire Records and achieved success with multiple alt rock hits across North America. "The money lemon drops from the NME's C86 cassette from 1986, and the track is Happy Head." ← https://www.youtube.com/watch?v=jhgZrwtYE2g ← the-mighty-lemon-drops
-
-
-
-## charts
-**"Walk Away Renée" — Billboard Year-End Hot 100** : #27, 1966. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

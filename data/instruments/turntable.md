@@ -84,5 +84,5 @@
 **Weak Signal Characteristics** : Turntables inherently produce a much weaker audio signal compared to other common playback devices such as CD players, cassette players, or even computers. This low signal strength is due to the fundamental operation of the turntable itself and necessitates an initial stage of amplification before it can be processed by a standard amplifier. "la señal del tocadiscos es mucho más de vil que la señal de cualquier otro aparato yo me hace vil que la señal del CD que el caser también es mucho más de vil que incluso la señal del ordenador." ← Music Radar Clan > Preamplificador： toda la información | https://www.youtube.com/watch?v=aMllStNDBWg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## artists
-- Yeop Barrow
+- Geoff Barrow
 

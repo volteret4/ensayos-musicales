@@ -1,15 +1,15 @@
 # artist - All-American Rejects
 
 ## genres
+- Emo
 - Emo Pop
 - Pop Punk
-- Powerpop (contemporary)
+- Powerpop
 
 ## curiosities
 **Contemporary Powerpop** : The All-American Rejects are listed as a contemporary band that is part of the Powerpop tradition. They represent the genre's ongoing relevance and its evolution, influencing artists in the current musical landscape. "Well we have Jimmy Eat World, OkGo, All American Rejects, Simple Plan, maybe Fallout Boy." ← https://www.youtube.com/watch?v=hstJ8M2laho ← all-american-rejects ← all-american-rejects
 **Members Collaborated with Weezer** : A couple of guys from All-American Rejects collaborated with Weezer on the album "Ratitude." "A couple of guys from all American rejects." ← https://www.youtube.com/watch?v=LYRPxtP61JM ← all-american-rejects
-
-
+**Third Wave Emo Chart Success** : The All-American Rejects were among the bands whose emo records achieved mainstream success during the third wave of emo (early 2000s), with their albums reaching the top 10 on charts. "Emo records from bands like...All American Rejects... all rocketed into the top 10 on the album charts." ← https://www.youtube.com/watch?v=v_am7ifh7Pk ← the-all-american-rejects
 
 ## awards
 **Oklahoma Music Hall of Fame (2008)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q7082270

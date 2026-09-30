@@ -8,4 +8,3 @@
 
 ## curiosities
 **Pioneer of Smooth West Coast Blues** : Lowell Fulson was recognized as one of the pioneers of the smooth West Coast blues sound, a style that Ray Charles briefly immersed himself in as Fulson's pianist and musical director. "Foulson was one of the pioneers of the smooth West Coast blues sound..." ← Episode 32： ＂I Got A Woman＂ by Ray Charles | https://www.youtube.com/watch?v=0oeI9f2x_fo
-

@@ -12,8 +12,3 @@
 
 ## curiosities
 **Teenage Years and Coming Out** : As a teenager, Tom Robinson was sent to a special home for maladjusted boys. It was there, among similar maladjusted peers, that he was able to come out. "When he was a teenager, he was sent to a special home for maladjusted boys. Turns out that there were similar maladjusted boys there with him, and he was able to come out." ← https://www.youtube.com/watch?v=hswtuenFwvM ← tom-robinson
-
-
-
-## lists
-**"Conference of the Birds" (2006) — Sputnikmusic Best Albums 2006** : #180, 3.99 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/

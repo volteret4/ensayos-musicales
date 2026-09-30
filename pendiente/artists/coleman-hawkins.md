@@ -5,4 +5,3 @@
 
 ## curiosities
 **Performance with Mickey Baker** : After moving to Europe, Mickey Baker performed jazz with musicians like Coleman Hawkins, as he returned to his jazz roots and academic pursuits. "He moved to Europe and went back into jazz, performing with people like Coleman Hawkins." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
-

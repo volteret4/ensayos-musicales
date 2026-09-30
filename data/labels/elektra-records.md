@@ -12,7 +12,7 @@
 
 ## artists
 - Delaney & Bonnie
-- Joe Brieaz
+- Jobriath
 - The Stooges
 - They Might Be Giants
 

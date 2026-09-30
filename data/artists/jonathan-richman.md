@@ -19,8 +19,6 @@
 **Early Obscurity and Band Breakup** : Jonathan Richman and his band, The Modern Lovers, worked in obscurity for a couple of years after recording demos like "Roadrunner" in 1971. Despite the forward-thinking nature of their music, the timing was not right for their style to gain widespread recognition. The band eventually broke up in 1974. "Jonathan and his band, the modern lovers, toiled in obscurity for a couple of years before breaking up in 1974." ← https://www.youtube.com/watch?v=0xd0Hf5REg4 ← jonathan-richman
 **Prototypical Alternative Artist (1970s)** : Jonathan Richman is highlighted as a "prototypical alternative artist" from the 1970s, primarily because he recorded for Beserkley Records. This label was identified as an "alternative label," signifying its independence from the major record companies of the era. "His name is Jonathan Richmond and he recorded for an alternative label called Fizzerkerly." ← https://www.youtube.com/watch?v=Z8BTWo66SDI ← jonathan-richman ← jonathan-richman
 
-
-
 ## lists
 **"Jonathan Richman & The Modern Lovers" (1977) — Scaruffi 1970s** : #364, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
 **"I, Jonathan" (1992) — Pitchfork: The 150 Best Albums of the 1990s** : #133. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717

@@ -2,15 +2,24 @@
 
 ## members
 - Chester Bennington
-- Sean
+- Sean Dowdell
 
 ## albums
-**Three Albums (1993-1998)** : Grey Daze, based in Phoenix, released three albums between 1993 and 1998. Chester Bennington remained with the band until about 1998 before leaving due to frustration with his music career's lack of progress. "They ended up releasing three albums between 1993 and 1998." ← https://www.youtube.com/watch?v=cUqdY_T7luM ← grey-daze
+**No Sun Today (1997)** : This was the second indie record released by Gray Daze in 1997. The song "What's in the Eye?" appeared on both this album and their previous release, "Wake Me." "Two indie records, Wake Me in 1994, and No Sun Today in 1997." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← gray-daze ← gray-daze
+**No Sun Today (1997)** : This was the second indie record released by Gray Daze in 1997. The song "What's in the Eye?" appeared on both this album and their previous release, "Wake Me." "Two indie records, Wake Me in 1994, and No Sun Today in 1997." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← gray-daze
+**Wake Me (1994)** : This was the first of two indie records released by Gray Daze, featuring Chester Bennington on vocals, in 1994. "Two indie records, Wake Me in 1994, and No Sun Today in 1997." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← gray-daze ← gray-daze
+**Wake Me (1994)** : This was the first of two indie records released by Gray Daze, featuring Chester Bennington on vocals, in 1994. "Two indie records, Wake Me in 1994, and No Sun Today in 1997." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← gray-daze
 
 ## songs
 **In Time** : This song is a sample of Grey Daze's sound from the mid-1990s, when Chester Bennington was a member. "This is In Time." ← https://www.youtube.com/watch?v=cUqdY_T7luM ← grey-daze
+**What's in the Eye? (1994)** : This song was featured on both of Gray Daze's indie albums, "Wake Me" (1994) and "No Sun Today" (1997), with 18-year-old Chester Bennington on vocals. "This song appeared on both albums. It's called What's in the Eye? Gray Days featuring 18-year-old Chester Bennington on vocals, and the song is called What's in the Eye?" ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← gray-daze ← gray-daze
+**What's in the Eye? (1994)** : This song was featured on both of Gray Daze's indie albums, "Wake Me" (1994) and "No Sun Today" (1997), with 18-year-old Chester Bennington on vocals. "This song appeared on both albums. It's called What's in the Eye? Gray Days featuring 18-year-old Chester Bennington on vocals, and the song is called What's in the Eye?" ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← gray-daze
 
-
-
-## charts
-**"Sugar Hill" — Billboard Year-End Hot 100** : #84, 1995. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+## curiosities
+**Chester's Pre-Linkin Park Band** : Gray Days was Chester Bennington's band during his formative years in Arizona, prior to him joining Linkin Park. "Chester was talking about a reunion with Gray Days, a band from his pre-Lincoln Park days in Arizona." ← https://www.youtube.com/watch?v=qQm7u3W13eM ← gray-days
+**Reunion Discussions (2017)** : In the summer of 2017, Chester Bennington was actively discussing a reunion with Gray Days. On July 18, 2017, he spoke with Sean Doudel, a band member he had known since they were teenagers, who reported that Chester "sounded great" during their conversation. "Chester was talking about a reunion with Gray Days, a band from his pre-Lincoln Park days in Arizona." ← https://www.youtube.com/watch?v=qQm7u3W13eM ← gray-days
+**Local Sensation Without Major Label Interest** : Gray Daze, which existed from late 1993 through 1998, became a genuine local sensation in Phoenix, opening for international acts. However, despite their popularity, they were unable to attract the interest of any major record labels. "Gray Days was a genuine local sensation, but for some reason they could not get any of the large record labels interested in what they were doing." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← gray-daze ← gray-daze
+**Manager and Funding** : The band was supported by their manager, who owned a local seafood restaurant, which presumably helped them with their endeavors, including releasing two indie albums. "helped along by their manager who ran a local seafood restaurant." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← gray-daze ← gray-daze
+**Chester Bennington's Former Band** : Before relocating to Los Angeles and joining Zero/Hybrid Theory, Chester Bennington was the singer for a band called Grey Days in Phoenix. He left the group due to internal disagreements. "While in Phoenix, Chester became the singer of a band called Grey Days, but there were disagreements and Chester decided to move to LA" ← https://www.youtube.com/watch?v=YcdidjWaIqE ← grey-days
+**Local Sensation Without Major Label Interest** : Gray Daze, which existed from late 1993 through 1998, became a genuine local sensation in Phoenix, opening for international acts. However, despite their popularity, they were unable to attract the interest of any major record labels. "Gray Days was a genuine local sensation, but for some reason they could not get any of the large record labels interested in what they were doing." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← gray-daze
+**Manager and Funding** : The band was supported by their manager, who owned a local seafood restaurant, which presumably helped them with their endeavors, including releasing two indie albums. "helped along by their manager who ran a local seafood restaurant." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← gray-daze

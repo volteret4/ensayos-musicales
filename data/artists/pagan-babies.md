@@ -1,8 +1,8 @@
 # artist - Pagan Babies
 
 ## members
-- Cat Bjelland
 - Courtney Love
+- Kat Bjelland
 
 ## genres
 - Riot Grrrl
@@ -13,8 +13,3 @@
 ## curiosities
 **Post-Sugar Baby Doll Collaboration** : After Sugar Baby Doll broke up in late 1985, Courtney Love and Cat Bjelland stayed together to form a new group called Pagan Babies. This band was another "pre-Riot Grrrl band" and, despite its brief existence, represents a link in the early collaborations of these influential musicians. "But when the band broke up in late 1985, Courtney and Cat stayed together long enough to be in a new group called Pagan Babies." ← https://www.youtube.com/watch?v=Qss5kC2FUx0 ← pagan-babies
 **Riot Grrrl Band** : Pagan Babies is mentioned as one of the bands within the Riot Grrrl movement. "And then there were bands like Sugar Baby Doll and the Pagan Babies and Brat Mobio and Heaven's De Betsy and Huggy Bear." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← pagan-babies ← pagan-babies
-
-
-
-## lists
-**"Reverse Earth" (2025) — Bandcamp: The Best Albums of 2025** : #19. ← musicbrainz | https://beta.musicbrainz.org/series/e71890ee-e707-4eae-af8f-b60074d08730

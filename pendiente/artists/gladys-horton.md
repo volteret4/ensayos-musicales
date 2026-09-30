@@ -2,11 +2,10 @@
 
 ## member of
 - The Darnells
-- The Delvid Matt
 - The Marvelettes
 
 ## songs
-**Playboy (1962) - Original Song Idea** : Gladys Horton initially conceived the song "Playboy," which was later rewritten by Brian Holland, Robert Bateman, and Mickey Stephenson, ultimately becoming a top 10 pop and R&B hit for The Marvelettes. "This time it was Gladys, who came up with a song called Playboy, which Brian Holland, Robert Baigman and Mickey Stephenson rewrote, and which made number 7 on the pop chart and number 4 on the R&B chart." ← Episode 93： ＂Please Mr. Postman＂ by the Marvelettes | https://www.youtube.com/watch?v=EPg8Wx30-uM
+**Playboy (1962)** : Gladys Horton initially conceived the song "Playboy," which was later rewritten by Brian Holland, Robert Bateman, and Mickey Stephenson, ultimately becoming a top 10 pop and R&B hit for The Marvelettes. "This time it was Gladys, who came up with a song called Playboy, which Brian Holland, Robert Baigman and Mickey Stephenson rewrote, and which made number 7 on the pop chart and number 4 on the R&B chart." ← Episode 93： ＂Please Mr. Postman＂ by the Marvelettes | https://www.youtube.com/watch?v=EPg8Wx30-uM
 
 ## curiosities
 **Departure from The Marvelettes** : Gladys Horton decided to leave The Marvelettes in 1967. Despite Wonder Young becoming the lead vocalist, Motown staff still viewed the group as "Gladys' group" due to her foundational leadership, and her departure lowered the group's priority. "And then in 1967 Gladys decided to leave the group. This made the group an even lower priority for Motown." ← Episode 93： ＂Please Mr. Postman＂ by the Marvelettes | https://www.youtube.com/watch?v=EPg8Wx30-uM
@@ -15,4 +14,3 @@
 **Leadership and Musical Direction** : Gladys Horton was the original leader of The Marvelettes and sang lead on their early hits, including "Please Mr. Postman" and "Playboy." She also served as the group's musical director and choreographer, responsible for set lists and dance moves. "Gladys was a combination musical director and choreographer, working out the groups set lists and dance moves." ← Episode 93： ＂Please Mr. Postman＂ by the Marvelettes | https://www.youtube.com/watch?v=EPg8Wx30-uM
 **Post-Motown Reunion Recording** : In the late 1980s, British DJ Ian Levine persuaded Gladys Horton, along with Wonder Young, to come out of retirement to record a new Marvelettes album for Motor City Records, featuring remakes of old hits and new material. "He managed to persuade Gladys and Wanda out of retirement to make a new Marvillette's album with two new backing vocalists, Echo Johnson and Jean McLean." ← Episode 93： ＂Please Mr. Postman＂ by the Marvelettes | https://www.youtube.com/watch?v=EPg8Wx30-uM
 **Touring as "Gladys Horton of The Marvelettes"** : After leaving Motown, Gladys Horton toured on the oldies circuit, performing her old hits. Due to Motown's ownership and sale of the group name, she was legally required to bill herself as "Gladys Horton of The Marvelettes." "Wanda was still too well to perform regularly, but Gladys went out on tour on the oldies' circuit, singing her old hit as Gladys Horton of the Marvillette, as none of the group owned the original name." ← Episode 93： ＂Please Mr. Postman＂ by the Marvelettes | https://www.youtube.com/watch?v=EPg8Wx30-uM
-

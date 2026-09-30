@@ -1,10 +1,9 @@
 # artist - Will Sergeant
 
 ## member of
-- Echo and the Bunnymen
+- Echo & the Bunnymen
+- Electrafixion
 
-
-
-## lists
-**"Pearl Of Great Price" (1991) — Scaruffi 1990s** : #361, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Word Flesh Stone" (1992) — Scaruffi 1990s** : #1405, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+## curiosities
+**Involvement in McCulloch-Marr Project** : Echo guitarist Will Sargent was brought in to assist on the collaboration project between Ian McCulloch and Johnny Marr, further exciting the British music press. He later joined McCulloch in the band Electra Fiction, which re-recorded some songs from the lost album. "Then Echo guitarist Will Sargent was brought into help. That got them even more excited." ← https://www.youtube.com/watch?v=gdWLtMy4TBU ← will-sargent ← will-sargent
+**Involvement in McCulloch-Marr Project** : Echo guitarist Will Sargent was brought in to assist on the collaboration project between Ian McCulloch and Johnny Marr, further exciting the British music press. He later joined McCulloch in the band Electra Fiction, which re-recorded some songs from the lost album. "Then Echo guitarist Will Sargent was brought into help. That got them even more excited." ← https://www.youtube.com/watch?v=gdWLtMy4TBU ← will-sargent

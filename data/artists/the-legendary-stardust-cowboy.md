@@ -1,15 +1,22 @@
 # artist - The Legendary Stardust Cowboy
 
 ## genres
-- Outsider Music (previously covered)
+- Outsider Music
+
+## labels
+- Mercury Records
 
 ## songs
+**Paralyzed (1968)** : This single was released by Norm O'Dam for Mercury Records in 1968. Its unusual and experimental nature left many listeners unsure how to interpret it, but it later gained significant historical importance by influencing David Bowie. "Norm was from Lubbock, Texas, and his approach to music was odd. He did, however, manage to release a single for Mercury Records in 1968 called Paralyzed." ← https://www.youtube.com/watch?v=c8CD_FcWcg8 ← norm-odam ← norm-odam
 **Paralyzed (1968)** : This 7-inch single, released in 1968, was one of the inspirations for David Bowie's deep dive into glam rock and the creation of his Ziggy Stardust persona. "Inspired by Bowlin, his crazy new friend Iggy Pop, Lou Reed, another new friend, and a 7-inch single from 1968 called Paralyzed by a guy calling himself the legendary Stardust cowboy." ← https://www.youtube.com/watch?v=sPCrATqBdeA ← the-legendary-stardust-cowboy ← the-legendary-stardust-cowboy
+**Paralyzed (1968)** : This single was released by Norm O'Dam for Mercury Records in 1968. Its unusual and experimental nature left many listeners unsure how to interpret it, but it later gained significant historical importance by influencing David Bowie. "Norm was from Lubbock, Texas, and his approach to music was odd. He did, however, manage to release a single for Mercury Records in 1968 called Paralyzed." ← https://www.youtube.com/watch?v=c8CD_FcWcg8 ← norm-odam
 
 ## curiosities
+**Bowie's Fascination** : David Bowie remained fascinated with "The Legendary Stardust Cowboy" and his music until Bowie's own death, despite not meeting Norm O'Dam until 1998. This enduring fascination underscores the profound impact Norm's outsider art had on a major mainstream icon. "By the way, David Bowie never met the man until 1998, and he remained fascinated with him until his death." ← https://www.youtube.com/watch?v=c8CD_FcWcg8 ← norm-odam ← norm-odam
+**Inspiration for David Bowie's "Stardust"** : When David Bowie signed with Mercury Records in 1970, he received a stack of 7-inch singles, which included Norm O'Dam's "Paralyzed." Bowie, who was "no stranger to chemicals in those days," became obsessed with the record and the artist, eventually appropriating the "Stardust" part of "The Legendary Stardust Cowboy" for his iconic Ziggy Stardust character. "Bowie appropriated the Stardust part of the legendary Stardust cowboy for his new creation." ← https://www.youtube.com/watch?v=c8CD_FcWcg8 ← norm-odam ← norm-odam
+**Inspiration for Ziggy Stardust** : Norman O'Dan, a Texas proto-psychobilly singer also known as The Legendary Stardust Cowboy, was a big fan of space travel and admired by David Bowie. He was one of the two people who inspired the name for Bowie's alien rock star character, Ziggy, in *The Rise and Fall of Ziggy Stardust and The Spiders from Mars*. "And that name was inspired by two people, Bowie's new friend Iggy Pop, and a Texas proto-psychobilly singer named Norman O'Dan, who went by the handle of the legendary Stardust Cowboy." ← https://www.youtube.com/watch?v=Dm5N6yDRxXQ ← norman-odan
+**The Legendary Stardust Cowboy Persona** : Norman Odom, a "wacky space travel obsessed Texas singer," adopted the stage name The Legendary Stardust Cowboy, from whom David Bowie drew inspiration for the "Stardust" surname in his Ziggy Stardust character. "Norman Odom, a wacky space travel obsessed Texas singer who went by the name the legendary Stardust cowboy." ← https://www.youtube.com/watch?v=blDNqVFheAw ← norman-odom ← norman-odom
 **Mention in Outsider Music History** : The Legendary Stardust Cowboy is listed among artists previously covered as examples of outsider music, alongside Wesley Willis, The Shags, and others. "On those programs, I covered Wesley Willis, the Shags, the legendary Stardust cowboy, Jandic, Captain B. Fart, Daniel Johnson, Florence Foster Jenkins, and even Charles Manson." ← https://www.youtube.com/watch?v=HcK4M7-02ik ← the-legendary-stardust-cowboy
-
-
-
-## lists
-**"Jackson" (1991) — Sputnikmusic Best Albums 1991** : #168, 3.83 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
+**Bowie's Fascination** : David Bowie remained fascinated with "The Legendary Stardust Cowboy" and his music until Bowie's own death, despite not meeting Norm O'Dam until 1998. This enduring fascination underscores the profound impact Norm's outsider art had on a major mainstream icon. "By the way, David Bowie never met the man until 1998, and he remained fascinated with him until his death." ← https://www.youtube.com/watch?v=c8CD_FcWcg8 ← norm-odam
+**Inspiration for David Bowie's "Stardust"** : When David Bowie signed with Mercury Records in 1970, he received a stack of 7-inch singles, which included Norm O'Dam's "Paralyzed." Bowie, who was "no stranger to chemicals in those days," became obsessed with the record and the artist, eventually appropriating the "Stardust" part of "The Legendary Stardust Cowboy" for his iconic Ziggy Stardust character. "Bowie appropriated the Stardust part of the legendary Stardust cowboy for his new creation." ← https://www.youtube.com/watch?v=c8CD_FcWcg8 ← norm-odam
+**The Legendary Stardust Cowboy Persona** : Norman Odom, a "wacky space travel obsessed Texas singer," adopted the stage name The Legendary Stardust Cowboy, from whom David Bowie drew inspiration for the "Stardust" surname in his Ziggy Stardust character. "Norman Odom, a wacky space travel obsessed Texas singer who went by the name the legendary Stardust cowboy." ← https://www.youtube.com/watch?v=blDNqVFheAw ← norman-odom

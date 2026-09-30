@@ -2,28 +2,33 @@
 
 ## genres
 - Blues
+- Blues Rock
+- Pop
 
 ## labels
+- Capital Records
 - Capitol Records
-- Fender (signature model)
-- Gibson (recognized by)
+- Fender
+- Gibson
 - Warner Records
 
 ## concerts
 - Austin City Limits (2002)
 
 ## instruments
-- Fender Stratocaster (signature model)
+- Fender Stratocaster
 - Slide guitar
 
 ## albums
-**Bonnie Raitt (1971) - Self-titled debut album** : Released in November 1971, Bonnie Raitt described this album as "straight blues." The speaker notes that it is "definitely blues," but questions if it is "more blues than the stones or the almond brothers." "Her first album, Bonnie Raight, was what she called straight blues, and it's definitely blues." ← For the Record - The 70s > Ep. 7 - Women Who Rocked the 70s | http://www.ftr70.com ← bonnie-raitt
+**Bonnie Raitt (1971)** : Released in November 1971, Bonnie Raitt described this album as "straight blues." The speaker notes that it is "definitely blues," but questions if it is "more blues than the stones or the almond brothers." "Her first album, Bonnie Raight, was what she called straight blues, and it's definitely blues." ← For the Record - The 70s > Ep. 7 - Women Who Rocked the 70s | http://www.ftr70.com ← bonnie-raitt
 **Nick of Time (1989)** : Released in 1989 on Capitol Records when Bonnie Raitt was nearly 40. This album marked her mainstream breakthrough after years of struggle, becoming a significant success story for the underdog. "Bonnie Raight did not go mainstream until the 1980s were practically over when she released Nick of Time in 1989." ← For the Record - The 70s > Ep. 7 - Women Who Rocked the 70s | http://www.ftr70.com ← bonnie-raitt
+**Nick of Time (1989)** : This was Bonnie Raitt's tenth studio album, released just before her 40th birthday. Initially, Capital Records pushed the album onto adult contemporary radio, leading it into the top 30 in the summer of 1989, and it went gold by Grammy night 1990, on its way to platinum. Five weeks after her Grammy triumph, "Nick of Time" climbed to number one on the Billboard album chart and eventually achieved quintuple platinum status. The album is considered "arguably the most celebrated Grammy winning album of the year of all time" and "the recording Academy's best Cinderella story," profoundly changing her career. "Released in 1989, Nick of Time was Bonnie Rates' 10th studio album." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
 
 ## songs
 **Angel from Montgomery (1974)** : Bonnie Raitt's 1974 recording of John Prine's "Angel from Montgomery" became a hit and popularized the song. As a young feminist, Raitt deeply resonated with the song, which was written by a 25-year-old man from the perspective of a middle-aged woman in a "thankless marriage." She and Prine performed it together many times, including on Austin City Limits in 2002. "Prine recorded it himself, but the song really became a hit when his friend Bonnie Raid recorded it in 1974." ← For the Record - The 70s > Ep. 49 - Austin City Limits and the 70s Country Music Revolution | http://ftr70.com
 **Finest Lovin' Man (1971)** : Written and performed by Bonnie Raitt on her self-titled debut album, released in November 1971. Bonnie was 21 years old when she recorded this song. "Here is a finest 11 man written and performed by Rock and Roll Hall of Fame, or Bonnie Raight, on her self-titled debut album, released in November 1971." ← For the Record - The 70s > Ep. 7 - Women Who Rocked the 70s | http://www.ftr70.com ← bonnie-raitt
 **Runaway (1977)** : A cover of Del Shannon's song, this was Bonnie Raitt's first real radio play in 1977. "Bonnie did not get any real radio play at all until she did a cover of Del Shannon's Runaway in 1977." ← For the Record - The 70s > Ep. 7 - Women Who Rocked the 70s | http://www.ftr70.com ← bonnie-raitt
+**Something to Talk About** : This song is mentioned as one of the top 40 hits Bonnie Raitt started scoring after her career was rebooted by her Grammy win in 1990. "She even started scoring top 40 hits. Something we don't know left you on something to talk about." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
 
 ## curiosities
 **Accolades and Career Achievements** : Bonnie Raitt has enjoyed a long and successful solo career, earning 10 Grammy Awards and induction into the Rock and Roll Hall of Fame. She has also performed with numerous other notable artists. "Bonnie has had a long and successful solo career. I mean, 10 Grammy Awards. She's in the Rock and Roll Hall of Fame." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← bonnie-raitt
@@ -37,8 +42,8 @@
 **Marketing Challenges as a Blues Artist** : Record companies in the 1970s struggled to market blues artists, and this was particularly true for Bonnie Raitt, who was fundamentally a blues musician. Her label, Warner Records, did not effectively promote her work. "Record companies had no idea how to market blues artists in the 1970s. So for Bonnie Raight, a member of the Rock and Roll Hall of Fame, and one of the greatest slide guitar players ever, and who is at her very core a blues artist, well, no company, record company is going to have the desire or be the clue to know what to do with her." ← For the Record - The 70s > Ep. 7 - Women Who Rocked the 70s | http://www.ftr70.com ← bonnie-raitt
 **Recognition as a Top Guitarist and Slide Player** : Bonnie Raitt was included in Rolling Stone's 2011 list of the 100 Greatest Guitarists of All Time and Gibson's 2014 list of the top 10 female guitarists. She is uniquely distinguished in this discussion as the only guitarist who plays slide, a technique central to her blues-infused style. "Bonnie is the only guitarist we've talked about who plays Slide." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← bonnie-raitt
 **Rock and Roll Hall of Fame Induction** : Bonnie Raitt is a member of the Rock and Roll Hall of Fame, recognized for her contributions as one of the greatest slide guitar players. "So for Bonnie Raight, a member of the Rock and Roll Hall of Fame, and one of the greatest slide guitar players ever, and who is at her very core a blues artist, well, no company, record company is going to have the desire or be the clue to know what to do with her." ← For the Record - The 70s > Ep. 7 - Women Who Rocked the 70s | http://www.ftr70.com ← bonnie-raitt
-
-
+**Career Reboot - Grammy Win (1990)** : Bonnie Raitt's career underwent a dramatic transformation after her "Nick of Time" album won Album of the Year at the 1990 Grammy Awards, marking her as the "recording Academy's best Cinderella story." Prior to this, she had been toiling since the early 70s without a top 40 pop hit or top 20 LP, battling drug and alcohol addiction, from which she got sober in the late 80s. The Grammy win rebooted her career, turning her into a pop star at age 40, leading to consistent top 20 album chart placements and top 40 hits throughout the 90s. "You can literally divide Bonnie Rates' career into before she won the Grammy and after she won the Grammy." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
+**Sobriety and Label Change (Late 1980s)** : In the late 1980s, Bonnie Raitt battled and overcame drug and alcohol addiction, getting sober, and subsequently signed with a new label, Capital Records, just before the release of her career-defining album "Nick of Time." "She had battled drug and alcohol addiction, got sober in the late 80s and signed to a new label, Capital Records." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
 
 ## awards
 **honorary doctor of the Berklee College of Music** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q112241213

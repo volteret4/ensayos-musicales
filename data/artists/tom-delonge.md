@@ -1,23 +1,23 @@
-# artist - Tom Delonge
+# artist - Tom DeLonge
 
 ## member of
 - Angels & Airwaves
-- Blink-182
+- Blink 182
+- Box Car Racer
 
 ## albums
-**To The Stars (2015)** : This was Tom DeLonge's first solo album, released in April 2015, shortly after his definitive departure from Blink-182. The album featured eight songs consisting of Blink-182 demos and other unreleased material, offering insights into his creative process during that period. "In April 2015, we got the first Tom DeLong solo album. He called it To The Stars." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE ← tom-delonge
+**To the Stars... Demos, Odds and Ends (2015)** : This was Tom DeLonge's first solo album, released in April 2015, shortly after his definitive departure from Blink-182. The album featured eight songs consisting of Blink-182 demos and other unreleased material, offering insights into his creative process during that period. "In April 2015, we got the first Tom DeLong solo album. He called it To The Stars." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE ← tom-delonge
 
 ## songs
 **New World (2015)** : This track is a sample from Tom DeLonge's solo album, "To The Stars," which was released in the spring of 2015. The album comprised Blink-182 demos and other solo material. "This is called New World." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE ← tom-delonge
 
 ## curiosities
+**"All the Small Things" Inspiration** : He personally wrote the hit song "All the Small Things" for his then-girlfriend, Jennifer, with the specific intention of creating a catchy and commercially successful track. "All the small things, Tom DeLong wrote that for his girlfriend, Jennifer." ← https://www.youtube.com/watch?v=eljIIqCu5gU ← tom-delong
+**Childhood and Skater Identity** : Growing up in the San Diego suburb of Poe, Tom DeLong was described as a solid C student and a "menace" on his skateboard, frequently chasing people off sidewalks throughout the city. "Tom DeLong is from the San Diego suburb of Poe. When he was a kid, a solid C student, he was a menace on his skateboard, chasing people off sidewalks from one end of the city to the other." ← https://www.youtube.com/watch?v=eljIIqCu5gU ← tom-delong
+**First Guitar and Performance** : After receiving a new guitar for his birthday, he decided to perform a solo acoustic song titled "Who's Gonna Shave Your Back" under the moniker "Big Oily Men" at a battle of the bands event organized by Rancho Bernardo. "And Tom had just got a new guitar for his birthday and he thought he'd give it a whirl." ← https://www.youtube.com/watch?v=eljIIqCu5gU ← tom-delong
+**Trumpet Playing** : Despite no apparent musical talent for it, his parents bought him a trumpet, which he used to wake his family early in the morning with a "bad rendition of Reveley before dawn." "For some reason, his parents bought him a trumpet, which he then used to wake the family with a bad rendition of Reveley before dawn." ← https://www.youtube.com/watch?v=eljIIqCu5gU ← tom-delong
 **Entrepreneurial Ventures** : Outside of music, Tom DeLonge founded a shoe company called McBeth, which achieved success. He also established a software company named Mod Life, specifically designed to help musicians monetize their creative output. These ventures reflected his diverse interests beyond performance. "Plus, he had a shoe company called McBeth that was doing well. Then there was his software company called Mod Life, which is aimed at helping musicians monetize what they produced." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE ← tom-delonge
 **Financial Security** : Tom DeLonge possesses substantial financial resources, which contribute to his overall satisfaction and independence. Being part of a band that sold approximately 40 million albums means that monetary concerns are largely irrelevant for him. "He has more than enough money to keep him happy. And when you're in a band that sold 40 million or so albums, you know, money's not much of a problem." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE ← tom-delonge
 **Literary Ambitions** : Tom DeLonge has expanded his creative endeavors into writing, undertaking ambitious projects such as writing up to 15 novels. Each novel is co-authored with different individuals and is conceived to be accompanied by its own album, creating an interconnected multimedia universe. "he had all kinds of other things he wanted to do, including running up to 15 novels, each with different co-authors, each with albums to go with them." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE ← tom-delonge
 **Personal Hardships (2000s)** : During the mid-2000s, Tom DeLonge faced significant personal challenges. His brother was deployed to Iraq, a war he opposed, and his father was diagnosed with leukemia. These events, combined with the Blink-182 breakup and a serious back injury that led to painkiller addiction, created a difficult period in his life. "His brother was deployed to Iraq, a war that Tom opposed. His father was diagnosed with leukemia. In other words, it wasn't a very good time." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE ← tom-delonge
 **Political Activism** : Tom DeLonge became actively involved in politics, endorsing John Kerry for president and campaigning on the election circuit for a period. His political engagement stemmed from a desire for reform after four years of George Bush's presidency, deeply influencing the philosophical underpinnings of his band, Angels & Airwaves. "He endorsed John Kerry for president. He got sucked into politics. He even toured the election circuit for a while." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE ← tom-delonge
-
-
-
-## lists
-**"Conference of the Birds" (2006) — Sputnikmusic Best Albums 2006** : #180, 3.99 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/

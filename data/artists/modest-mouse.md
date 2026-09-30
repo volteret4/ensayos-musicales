@@ -13,12 +13,11 @@
 - Coachella (1999)
 
 ## albums
-**Fourth Album (Undated)** : While Modest Mouse had been critically successful since their formation in 1992, their career truly "came into their own" with the release of their fourth album, marking a significant turning point in their popularity. "it wasn't until they got to their fourth album that things really came together." ← https://www.youtube.com/watch?v=_yslM5oanRo ← modest-mouse
-**Good News for People Who Love Bad News (2004) - Breakthrough Album** : This record was the band's breakthrough after six previous albums, finally catching widespread attention. The album featured their hit single "Float On." "They finally caught everybody's attention with a 2004 record called Good News for People Who Love Bad News." ← https://www.youtube.com/watch?v=CyTI00SIrLE ← modest-mouse ← modest-mouse
+**Good News for People Who Love Bad News (2004)** : While Modest Mouse had been critically successful since their formation in 1992, their career truly "came into their own" with the release of their fourth album, marking a significant turning point in their popularity. "it wasn't until they got to their fourth album that things really came together." ← https://www.youtube.com/watch?v=_yslM5oanRo ← modest-mouse
+**Good News for People Who Love Bad News (2004)** : This record was the band's breakthrough after six previous albums, finally catching widespread attention. The album featured their hit single "Float On." "They finally caught everybody's attention with a 2004 record called Good News for People Who Love Bad News." ← https://www.youtube.com/watch?v=CyTI00SIrLE ← modest-mouse ← modest-mouse
 
 ## songs
 **Float On (2004)** : This song is featured on Modest Mouse's 2004 breakthrough album, "Good News for People Who Love Bad News." It was a key track in gaining the band mainstream recognition. "Modest mouse with float on from their 2004 breakthrough album Good News for People Who Love Bad News." ← https://www.youtube.com/watch?v=CyTI00SIrLE ← modest-mouse ← modest-mouse
-**Song from Fourth Album (2004)** : In the spring of 2004, a song from Modest Mouse's fourth album distinguished itself among releases from prominent bands like Green Day, U2, and Linkin Park. Its unique, quirky sound, which did not rely on the typical fuzzy, low-tuned guitar, was likened to a Talking Heads performance at CBGB in 1979, embodying the spirit of the New Wave Revival. "If you weren't in music in the spring of 2004, you might remember how this song stood out amongst records by Green Day and You too and Lincoln Park." ← https://www.youtube.com/watch?v=_yslM5oanRo ← modest-mouse
 
 ## curiosities
 **Alt Rock Resurgence of 2004** : Modest Mouse was named as one of the new and exciting bands contributing to the resurgence of Alt Rock by 2004. "By 2004, Alt Rock was back with all kinds of new exciting bands that was Franz Ferdinand and Modest Mouse and the Killers and Billy Towns and the Stills and Jet, the Ye-Yaz and Hot Hot Heat." ← https://www.youtube.com/watch?v=ua93Ui1u6UI ← modest-mouse ← modest-mouse
@@ -30,8 +29,6 @@
 **Rehearsal Space - The Shed** : After living in a friend's basement for a while, Isaac Brock built a shack next to his mother's trailer, which they named "the shed." This structure became the primary rehearsal space for Modest Mouse in their early days. "After living in a friend's basement for a while, Isaac built a shack next to the trailer and this became the rehearsal space for modest mouse. They called it the shed." ← https://www.youtube.com/watch?v=CyTI00SIrLE ← modest-mouse ← modest-mouse
 **Seattle Scene Inspiration** : The vibrant and "exploding" music scene in nearby Seattle was a significant source of inspiration for Modest Mouse to create and perform music. "Isaac first picked up a base when he was 15 and then switched to guitar after boring one from a friend and at the time things were exploding nearby Seattle which was an inspiration for everybody to do something." ← https://www.youtube.com/watch?v=CyTI00SIrLE ← modest-mouse ← modest-mouse
 **Talking Heads Comparison** : In the mid-2000s, Modest Mouse was noted for a sound reminiscent of Talking Heads. This comparison highlights a stylistic influence and the emergence of more varied sounds in the rock landscape of 2006-2007. "Modest mouse sounded like a reincarnation of the talking heads." ← https://www.youtube.com/watch?v=-CT7yYXonIk ← modest-mouse
-
-
 
 ## lists
 **"The Lonesome Crowded West" (1998) — AOTY Must Hear 1990s** : #97, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/

@@ -1,23 +1,25 @@
 # artist - Misfits
 
 ## members
-- Glenn Danzig (main guy, founder)
+- Glenn Danzig
+- Howie Pyro
+- Jerry Only
 
 ## genres
 - Hardcore
-- Horror movies (thematic blending)
+- Horror movies
 - Metal
 
 ## labels
-- Self-funded indie label (early)
+- Self-funded indie label
 - Self-released
 
 ## concerts
 - Vans Warped Tour (multiple times)
 
 ## albums
-**Be Where EP (1980)** : This debut EP from 1980 features the track "Horror Business" and demonstrates the band's blend of hardcore with horror movie themes and metal. "This is a track from their debut EP from 1980 entitled Be Where, It's called Horror Business." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← misfits
-**Beware (1980) – Debut EP** : This EP, released in 1980, features the track "Horror Business." The Misfits had their own indie record label to release their music, a common strategy among hardcore bands. "This is a track from their debut EP from 1980 entitled Be Where, it's called Horror Business." ← https://www.youtube.com/watch?v=0qigzi1j81U ← misfits
+**Beware (1980)** : This debut EP from 1980 features the track "Horror Business" and demonstrates the band's blend of hardcore with horror movie themes and metal. "This is a track from their debut EP from 1980 entitled Be Where, It's called Horror Business." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← misfits
+**Beware (1980)** : This EP, released in 1980, features the track "Horror Business." The Misfits had their own indie record label to release their music, a common strategy among hardcore bands. "This is a track from their debut EP from 1980 entitled Be Where, it's called Horror Business." ← https://www.youtube.com/watch?v=0qigzi1j81U ← misfits
 
 ## songs
 **Horror Business (1980)** : This track is from the Misfits' 1980 debut EP, "Beware." The song showcases the band's unique blend of hardcore, horror movie themes, and metal, a style that greatly influenced numerous future bands. "This is a track from their debut EP from 1980 entitled Be Where, it's called Horror Business." ← https://www.youtube.com/watch?v=0qigzi1j81U ← misfits
@@ -26,12 +28,12 @@
 **Formation and Longevity** : Glenn Danzig founded the Misfits around 1976 and kept the band active for six years, during which they developed their unique blend of hardcore, horror movie aesthetics, and metal. "The main guy was Glenn Danzig, who started the band somewhere around 1976, armed with his own indie record label. Danzig kept the Missfits going for six years, blending hardcore with horror movies and metal." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← misfits
 **Formation and Style** : The Misfits were formed around 1976 by Glenn Danzig in New Jersey. They maintained their presence for six years, distinctively blending hardcore with themes from horror movies and elements of metal. "The Missfits were from Jersey. The main guy was Glenn Danzig, who started the band somewhere around 1976. Armed with his own indie record label. And as he kept the misfits going for six years, blending hardcore with horror movies and metal." ← https://www.youtube.com/watch?v=0qigzi1j81U ← misfits
 **Grizzled Veteran Participant** : The Misfits were among the "seriously grizzled veterans" who participated in the Warped Tour. "The misfits." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← misfits
-**Iconic Logo** : The band is recognized for potentially having one of the greatest logos of all time, contributing to significant merchandise sales. "The Missfits may also have one of the greatest logos of all time and must have sold a million t-shirts." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← misfits
+**Iconic Logo and Merchandise** : The band is recognized for potentially having one of the greatest logos of all time, contributing to significant merchandise sales. "The Missfits may also have one of the greatest logos of all time and must have sold a million t-shirts." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← misfits
 **Iconic Logo and Merchandise** : The Misfits are noted for potentially having "one of the greatest logos of all time" and for selling a vast amount of merchandise, likely "a million t-shirts." "The misfits may also have one of the greatest logos of all time and must have sold a million t-shirts." ← https://www.youtube.com/watch?v=0qigzi1j81U ← misfits
 **Influence on Major Artists** : A substantial list of bands cite The Misfits as an influence, including Metallica, The Offspring, Green Day, My Chemical Romance, Guns N' Roses, Foo Fighters, and AFI. "Here is a short list of bands who say that they were influenced by the misfits. Metallica, the offspring, Green Day, by chemical romance, guns and roses, Foo Fighters, AFI." ← https://www.youtube.com/watch?v=0qigzi1j81U ← misfits
-**Wide-Ranging Influence** : The Misfits have been cited as influences by a diverse array of bands including Metallica, The Offspring, Green Day, My Chemical Romance, Guns N' Roses, Foo Fighters, and AFI. "Here is a short list of bands who say that they were influenced by the Missfits. Metallica, the offspring, Green Day, by chemical romance, guns and roses, Foo Fighters, AFI." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← misfits
-
-
+**Influence on Major Artists** : The Misfits have been cited as influences by a diverse array of bands including Metallica, The Offspring, Green Day, My Chemical Romance, Guns N' Roses, Foo Fighters, and AFI. "Here is a short list of bands who say that they were influenced by the Missfits. Metallica, the offspring, Green Day, by chemical romance, guns and roses, Foo Fighters, AFI." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← misfits
+**Crimson Ghost Skull Logo** : The Miss Fitz (Misfits) culminated their logo with a very famous skull, which was taken from the cult entity known as Crimson Ghost. "quienes culminaron el logo con la famosísima calavera, sacada de la sede de culto de Crimson Ghost." ← Cómo los Logos Definieron la Música ｜ Símbolos de Resistencia | https://www.youtube.com/watch?v=m4ou0G-CCLc
+**Fidget Spinners as Merch (2017)** : In 2017, The Misfits participated in the trend of selling branded fidget spinners as merchandise. This item was considered one of the hottest band merch offerings of the year across various artists. "Everybody sold branded fidget spinners, arcade fire, David Bowie, Prince Black Flag, the misfits, Nirvana, Queens of the Stone Age, followed boy, weird." ← https://www.youtube.com/watch?v=aSk1XQHNkd8 ← the-misfits
 
 ## lists
 **"Walk Among Us" (1982) — AOTY Must Hear 1980s** : #153, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/

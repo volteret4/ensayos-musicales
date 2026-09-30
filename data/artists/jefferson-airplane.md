@@ -2,9 +2,8 @@
 
 ## members
 - Grace Slick
-- Grace Slick (lead vocals)
-- Marty Balin (founding member, departed then later contributed to Jefferson Starship)
-- Paul Kantner (founding member)
+- Marty Balin
+- Paul Kantner
 
 ## genres
 - 60s Rock
@@ -13,7 +12,7 @@
 - San Francisco Sound
 
 ## songs
-**Mexico (May 1970)** : Released in May 1970, this song directly addressed Richard Nixon's Operation Intercept, a program of intensified Mexican border inspections aimed at curbing marijuana traffic and criminalizing hippies and Black people. The lyrics, written by Grace Slick, explicitly criticized Nixon, but the song did not achieve radio traction. "Let's listen to a bit of Mexico by Jefferson Airplane from May 1970 taking on Richard Nixon's Operation Intercept." ← For the Record - The 70s > Ep. 5 - Anti-Nixon Songs of the 70s | http://www.ftr70.com
+**Mexico (1970)** : Released in May 1970, this song directly addressed Richard Nixon's Operation Intercept, a program of intensified Mexican border inspections aimed at curbing marijuana traffic and criminalizing hippies and Black people. The lyrics, written by Grace Slick, explicitly criticized Nixon, but the song did not achieve radio traction. "Let's listen to a bit of Mexico by Jefferson Airplane from May 1970 taking on Richard Nixon's Operation Intercept." ← For the Record - The 70s > Ep. 5 - Anti-Nixon Songs of the 70s | http://www.ftr70.com
 **Somebody to Love** : Grace Slick provided lead vocals for this iconic psychedelic rock song of the late 1960s. "She went from providing the lead vocals of two of the most iconic psychedelic rock songs of the late 60s with Jefferson Airplane, White Rabbit, which she also wrote and somebody to love." ← For the Record - The 70s > Ep. 7 - Women Who Rocked the 70s | http://www.ftr70.com ← jefferson-airplane
 **White Rabbit** : Grace Slick provided lead vocals for this iconic psychedelic rock song of the late 1960s, which she also wrote. "She went from providing the lead vocals of two of the most iconic psychedelic rock songs of the late 60s with Jefferson Airplane, White Rabbit, which she also wrote and somebody to love." ← For the Record - The 70s > Ep. 7 - Women Who Rocked the 70s | http://www.ftr70.com ← jefferson-airplane
 
@@ -23,8 +22,7 @@
 **Musical Evolution and "Phase" (1975)** : Paul Kantner stated in 1975 that the band considered their 1960s music a "phase" they "simply grew out of," signifying their deliberate shift in musical direction towards Jefferson Starship. "Paul Cantner was asked in 1975 about the musical changes in his band which had formed a decade earlier in San Francisco he said that the music that they made in the 60s was a phase that they simply grew out of." ← For the Record - The 70s > Ep. 51 - The Softer Side of 70s Rock | https://seventies.libsyn.com/ep-51-the-softer-side-of-70s-rock ← jefferson-airplane
 **Personnel Shifts and Transition to Jefferson Starship (By 1974)** : By 1974, the band had undergone "many shifts in personnel" and evolved into Jefferson Starship. A key reason for founding member Marty Balin's departure was his bandmates' "copious amounts of cocaine" and his desire for a different musical direction, explicitly not the "psychedelic experience." "By 1974 Jefferson airplane had undergone many shifts in personnel again one would require a flow chart and it became Jefferson's starship minus however one of the band's founders Marty Ballon in fact one reason that Marty Ballon left was because of the copious amounts of cocaine that his band my manbades were doing another was that he wanted to go in a different musical direction he was not so much into the psychedelic experience." ← For the Record - The 70s > Ep. 51 - The Softer Side of 70s Rock | https://seventies.libsyn.com/ep-51-the-softer-side-of-70s-rock ← jefferson-airplane
 **Sharing Chart Space with Cartoon Bands** : Rock bands like Jefferson Airplane were compelled to share the "rarefied top 10 chart air" with cartoon bands, which was seen as an affront by some in the music industry. "How galling was it for rock bands like... Jefferson Airplane... to share rarefied top 10 chart air with cartoon bands?" ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum ← jefferson-airplane
-
-
+**Chart Comparison for Aretha Franklin (1967)** : Jefferson Airplane's LPs were among those sandwiching Aretha Franklin's Atlantic debut LP, "I Never Loved a Man the Way I Love You," which climbed to number two on the Billboard album chart and stayed there for three weeks in 1967. This illustrates the diverse musical acts succeeding on the album charts during that period. "Her LP, I Never Loved a Man the Way I Love You, climbed to number two on the Billboard album chart and stayed there three weeks, sandwiched between LPs by the monkeys, the mamas and the poppas and the Jefferson airplane." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4eef8e6dd12efb02c3c9
 
 ## awards
 **Grammy Award for Best New Artist (1968)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643

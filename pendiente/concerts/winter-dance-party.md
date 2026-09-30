@@ -8,7 +8,7 @@
 - Buddy Holly
 - Carl Bunch
 - Dion and The Belmonts
-- Richie Valens
+- Ritchie Valens
 - The Big Bopper
 - Waylon Jennings
 

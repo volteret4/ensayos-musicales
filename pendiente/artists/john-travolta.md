@@ -23,3 +23,9 @@
 **Saturday Night Fever Dance Preparation** : Before the Bee Gees became involved in "Saturday Night Fever," John Travolta practiced his dance scenes for the movie to music by Boz Scaggs or Stevie Wonder. Specifically, the rehearsal dance scene in the film, set to "More Than a Woman," was initially practiced using Boz Scaggs' "Lowdown." "John Travolta practiced his dance scenes to music from Boschaggs or Stevie Wonder before the Bee Gees were even involved in the movie." ← For the Record - The 70s > Ep. 1 - Disco Doesn't Suck (Encore) | https://www.ftr70.com/blog/tag/70s+podcast
 **Typecast as Vinnie Barbarino** : Critic Cliff Radell, in his harsh review of *Grease*, claimed that John Travolta's performance put him in a category of "one character actors," suggesting that no matter the role, he always presented as Vinnie Barbarino, his character from *Welcome Back Cotter*. "Whenever he opens his mouth or jerks his head, out pops Vinnie Barbarino." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
 
+## charts
+**"Let Her In" — Billboard Year-End Hot 100** : #75, 1976. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"You're the One That I Want" — Billboard Year-End Hot 100** : #13, 1978. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Summer Nights" — Billboard Year-End Hot 100** : #69, 1978. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"You're the One That I Want" — Spain Singles Chart** : #1, 1978. ← Wikipedia | https://en.wikipedia.org/wiki/Promusicae
+**"The Grease Megamix" — UK Singles Chart** : #5, 1991. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart

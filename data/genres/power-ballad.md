@@ -9,4 +9,6 @@
 - Foreigner
 - Heart
 - Scorpions
-
+- Chicago
+- Bryan Adams
+- Faith Hill

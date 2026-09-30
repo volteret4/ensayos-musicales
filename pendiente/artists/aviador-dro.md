@@ -1,10 +1,10 @@
 # artist - Aviador Dro
 
 ## members
-- Arturo Lanz (founder, left)
-- Gabriel Riaza (founder, left)
-- Juan Carlos Astray (founder, left)
-- Servando Carballar (founder, remained)
+- Arturo Lanz
+- Gabriel Riaza
+- Juan Carlos Astray
+- Servando Carballar
 
 ## genres
 - Música Electrónica
@@ -24,4 +24,3 @@
 **Initial Singles with Movieplay** : Movieplay released two singles for Aviador Dro, marking their initial foray into the music scene. These releases preceded the internal split that would lead to the formation of Esplendor Geométrico. "Movie Play les editó dos singles." ← La España Siniestra ｜ La edad de oro del Postpunk y el Dark wave | https://www.youtube.com/watch?v=VN_buvQC69c
 **Kraftwerk Influence in Spain** : Aviador Dro in Spain were among the artists influenced by Kraftwerk's sound. "de Bob en los Estados Unidos, y a los Magikorchestra en Japón, habiador drogo en España." ← Por qué KRAFTWERK es la banda más influyente de la historia？ | https://www.youtube.com/watch?v=wWOBez9Cqhs
 **Pioneers of Electronic Pop (1979)** : Aviador Dro formed in 1979 and were the pioneers of electronic pop in Spain. Their music drew influences from influential international bands like The Residents, Devo, and Kraftwerk. "A viador drogo fueron los pioneros del pop electrónico en el país. La banda se formó en 1979 y tomó influencias de bandas como de Residence, Divo o Crafwerk." ← La España Siniestra ｜ La edad de oro del Postpunk y el Dark wave | https://www.youtube.com/watch?v=VN_buvQC69c
-

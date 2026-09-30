@@ -5,5 +5,4 @@
 **Decision to Release "El Rabidud" Unconditionally** : Despite initial reservations about the commercial appeal of Royce Immorce's solo album "El Rabidud" and the absence of clear hit singles, Eco Records ultimately decided to release it unconditionally. This decision was influenced by two key factors: the label's need for new material following the collapse of Demoloco, making Royce Immorce's album their best chance for profit, and the undeniable high quality of the album, which indicated it would likely be quickly picked up by another label if Eco Records refused. "El primero es que el corrector se ha faltado de discos de moloco que ha tratado de importantes para ellos, el disco de Royce y Boercy era lo mejor a lo que se ponían a ganar y la segunda razón es que el disco era de muy buena calidad y era muy probable que en poco tiempo quedase en otra disco gráfica." ← Music Radar Clan > El final de Moloko y el inicio de Roisin Murphy | https://www.youtube.com/watch?v=R76gAeSjpvY&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← eco-records
 
 ## artists
-- Demoloco
 

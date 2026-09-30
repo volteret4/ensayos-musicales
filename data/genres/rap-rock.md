@@ -9,7 +9,6 @@
 - Beastie Boys
 - Crazy Town
 - Death Grips
-- Ice-T's Body Count
-- Rage Against The Machine
+- Body Count
 - Rage Against the Machine
 

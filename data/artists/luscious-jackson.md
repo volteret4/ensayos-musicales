@@ -15,7 +15,5 @@
 **Signed to Grand Royal** : Luscious Jackson was among the acts signed to the Beastie Boys' private label, Grand Royal, as the "Beastie Empire" began to expand. "Grand Royal, their private label, began to sign other acts like Luscious Jackson." ← https://www.youtube.com/watch?v=9_BTe15NooI ← luscious-jackson
 **Vivian Trimble Death (April 4, 2023) – Cancer, Age 59; Bandmate Kate Schellenbach Was Briefly in Beastie Boys** : Vivian Trimble was keyboardist for Luscious Jackson, an early 1990s New York group mixing alt-rock, rap, and pop. Their connection to the Beastie Boys ran deep: drummer Kate Schellenbach had actually been an early Beastie Boys member before producer Rick Rubin had her ousted. Luscious Jackson toured with the Beasties and became the first signing to the Beastie Boys' Grand Royal record label. Their most successful album was *Fever In Fever Out* (1996, over 500,000 copies), featuring the alt-rock radio hit "Naked Eye." Vivian left in 1998 to settle down with a family, moved to New Hampshire, and worked as a music venue booker. She was diagnosed with cancer and died April 4, 2023, age 59. "Vivian left the group in 1998 because she was tired of touring." ← https://www.youtube.com/watch?v=-JPLLJyOid8 ← luscious-jackson
 
-
-
 ## charts
 **"Naked Eye" — Billboard Year-End Hot 100** : #81, 1997. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

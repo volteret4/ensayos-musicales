@@ -2,4 +2,3 @@
 
 ## member of
 - Freddy and the Dreamers
-

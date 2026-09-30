@@ -2,33 +2,34 @@
 
 ## genres
 - Alt Rock
-- Alt Rock (exception)
 - Alternative
 - Classical
-- Dreampop (adjacent)
-- Hair Metal (briefly)
-- Highly emotional, very confessional, extremely powerful music (solo)
+- Dreampop
+- Hair Metal
+- Highly emotional, very confessional, extremely powerful music
 - Pop
 - Rock
 - Singer-songwriter
 
 ## labels
 - Atlantic Records
-- Major labels (unspecified)
+- Major labels
 
 ## instruments
 - Harpsichord
 - Piano
 
 ## albums
-**Boys for Pele (1996) – Pig Shot Artwork Featuring Amos Breastfeeding a Piglet** : The inner sleeve of Tori Amos's 1996 album *Boys for Pele* includes a photograph of Amos breastfeeding a live suckling piglet. The imagery was not intended as sexual but as a Christian allegory — something about bringing the non-kosher back to the fold. The image proved deeply confusing and unsettling to many observers. "You can understand why people were confused, shocked, and generally made to feel awkward with the whole pig thing." ← https://www.youtube.com/watch?v=GIUTQhcmR5s ← tori-amos
+**Boys for Pele (1996)** : The inner sleeve of Tori Amos's 1996 album *Boys for Pele* includes a photograph of Amos breastfeeding a live suckling piglet. The imagery was not intended as sexual but as a Christian allegory — something about bringing the non-kosher back to the fold. The image proved deeply confusing and unsettling to many observers. "You can understand why people were confused, shocked, and generally made to feel awkward with the whole pig thing." ← https://www.youtube.com/watch?v=GIUTQhcmR5s ← tori-amos
 **Little Earthquakes (1992)** : This was Tori Amos's debut solo record, released in 1992, featuring the song "Crucify." An initial version of the record was rejected by her label, but a subsequent version, released with much patience, proved successful. "Tori Amos and Crucify from her 1992 debut solo record Little Earthquakes." ← https://www.youtube.com/watch?v=clPuV7ezrIc ← tori-amos ← tori-amos
-**Little Earthquakes (1992) - Debut Solo Album** : This album, released in 1992, marked Tori Amos's solo debut. An initial version of the record had been rejected by her label, but a revised version, released with the label's "patience," immediately drew comparisons to Kate Bush for its fearless self-expression. "Tori Amos and Crucified from her 1992 debut solo record Little Earthquakes." ← https://www.youtube.com/watch?v=rEawe_1Fqf0 ← tori-amos ← tori-amos
-**Little Earthquakes (1992) - First Solo Album** : Released as one of the first albums of 1992, *Little Earthquakes* initially puzzled many. At a time when grunge, spearheaded by Nirvana's *Nevermind*, was ascendant and labels sought similar-sounding bands, Tori's piano-based songs presented a stark contrast to the prevalent "big guitar and testosterone" sound. She broke through due to the early 90s alt-rock explosion dismantling prejudices against female musicians, her embrace by old-school alt-rock fans as a spiritual successor to Kate Bush, and her music's quiet vulnerability resonating with the underlying fear and confusion also present in grunge, but from a female perspective. "Her first solo album, Little Earthquakes, was one of the first releases of 1992, and at first nobody really knew what to make of it." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI ← tori-amos ← tori-amos
+**Little Earthquakes (1992)** : This album, released in 1992, marked Tori Amos's solo debut. An initial version of the record had been rejected by her label, but a revised version, released with the label's "patience," immediately drew comparisons to Kate Bush for its fearless self-expression. "Tori Amos and Crucified from her 1992 debut solo record Little Earthquakes." ← https://www.youtube.com/watch?v=rEawe_1Fqf0 ← tori-amos ← tori-amos
+**Little Earthquakes (1992)** : Released as one of the first albums of 1992, *Little Earthquakes* initially puzzled many. At a time when grunge, spearheaded by Nirvana's *Nevermind*, was ascendant and labels sought similar-sounding bands, Tori's piano-based songs presented a stark contrast to the prevalent "big guitar and testosterone" sound. She broke through due to the early 90s alt-rock explosion dismantling prejudices against female musicians, her embrace by old-school alt-rock fans as a spiritual successor to Kate Bush, and her music's quiet vulnerability resonating with the underlying fear and confusion also present in grunge, but from a female perspective. "Her first solo album, Little Earthquakes, was one of the first releases of 1992, and at first nobody really knew what to make of it." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI ← tori-amos ← tori-amos
 
 ## songs
-**Crucified (1992)** : This song is featured on Tori Amos's 1992 debut solo album, "Little Earthquakes." Its release solidified her reputation as a highly respected female singer-songwriter, initially viewed as quirky but later revered by her audience. "Tori Amos and Crucified from her 1992 debut solo record Little Earthquakes." ← https://www.youtube.com/watch?v=rEawe_1Fqf0 ← tori-amos ← tori-amos
+**Crucify (1992)** : This song is featured on Tori Amos's 1992 debut solo album, "Little Earthquakes." Its release solidified her reputation as a highly respected female singer-songwriter, initially viewed as quirky but later revered by her audience. "Tori Amos and Crucified from her 1992 debut solo record Little Earthquakes." ← https://www.youtube.com/watch?v=rEawe_1Fqf0 ← tori-amos ← tori-amos
 **Crucify (1992)** : Featured on Tori Amos's 1992 debut solo record, *Little Earthquakes*. "Tori Amos and Crucify from her 1992 debut solo record Little Earthquakes." ← https://www.youtube.com/watch?v=clPuV7ezrIc ← tori-amos ← tori-amos
+**Professional Widow (1996)** : This 1996 track by Tori Amos, notably titled "Professional Widow," was "widely assumed to be inspired by Courtney Love." Amos has never explicitly confirmed this, but "she smiles cryptically when she's asked," adding to the intrigue. "In 1996, the Tory Amos track, Professional Widow, note that title, was widely assumed to be inspired by Courtney Love." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+**Professional Widow (1996)** : The Armand Van Helden dance remix of "Professional Widow" became a "surprise transatlantic hit in 1997," reaching number two on the US club play chart and number one on the UK pop chart. This remix introduced the song to a wider dance audience and became one of Amos's biggest club hits. "The quirky widow became a surprise transatlantic hit in 1997, number two on the US club play chart and number one on the UK pop chart, in a dance remix by house producer Armand Van Hilton." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
 
 ## curiosities
 **Academic Analysis of Performance Style** : An academic article titled "Piano Sexual Fascinations of Tori Amos's Sexualized Virtuosity in Performance" extensively dissects her unique stage presence and playing over eight pages. The article highlights her "pianistic virtuosity and technical facility alongside her sexualized physicality," noting how she "straddles the piano chair, twists her body to face the audience," and "violates the protocols of basic girliness that demand closed legs" by directing her voice and "genitals" at the audience, in contrast to classical tradition. "Amuses' pianistic virtuosity and technical facility alongside her sexualized physicality in performance separate her from most women singer songwriters who play the piano." ← https://www.youtube.com/watch?v=dJiSZ4X0F2g ← tori-amos
@@ -65,8 +66,6 @@
 **Space Satellite Name** : An experimental space satellite weighing 12 kilograms was named "Tori" in her honor. This satellite was designed to explore complex issues of orbital mechanics, and Tori Amos was a significant source of inspiration for its designers. "Tori, which is what it's called, is a 12 kilogram experimental satellite designed to explore the complicated issues of orbital mechanics." ← https://www.youtube.com/watch?v=dMsEj62KFEw ← tori-amos
 **Spiritual Successor to Kate Bush** : Early alt-rock fans, familiar with Kate Bush's style, readily embraced Tori Amos as her "spiritual successor" due to her similarly highly emotional, confessional, and powerful musical output. "Back in some old school alt-rock fans remembered Kate Bush and embraced Tori as her spiritual successor." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI ← tori-amos ← tori-amos
 **Ties to Comic Books** : Tori Amos has close ties to the world of comic books. Neil Gaiman is a close friend, and he was involved in a 2007 graphic novel that featured 51 different stories, all inspired by her songs. "Neil Gaiman is a close friend, and he was involved in a 2007 graphic novel featuring 51 different stories all inspired by Tori songs." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← tori-amos ← tori-amos
-
-
 
 ## awards
 **Echo Klassik – Classical Music without Borders (2012)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q113031066

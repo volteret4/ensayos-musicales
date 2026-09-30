@@ -1,12 +1,10 @@
 # artist - Dead Can Dance
 
-## member of
-- This Mortal Coil
-
 ## labels
 - 4AD
 
-
+## curiosities
+**16th Century Sound** : This band had a unique sound, described as if they were recording in the 1500s or 16th century, making them exceptionally "Gothic." "a group that sounded like they were right out of the 16th century." ← https://www.youtube.com/watch?v=evlGhfUe6QQ ← dead-condense
 
 ## lists
 **"Within the Realm of a Dying Sun" (1987) — AOTY Must Hear 1980s** : #51, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/

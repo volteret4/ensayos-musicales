@@ -4,19 +4,15 @@
 - Spandau Ballet
 
 ## labels
-- British Airways (airline involved in event)
+- British Airways
 
 ## concerts
 - **Highest Airplane Concert (2017)** : Tony Hadley, alongside Kim Wilde and others, performed a charity gig aboard a chartered British Airway 767. This performance set a record for the highest airplane concert, reaching an altitude of 43,000 feet. "And the highest airplane concert record belongs to Tony Hadley, he of Spandobele, and 80 star Kim Wilde, among others, who performed a charity gig aboard a chartered British Airway 767, which reached 43,000 feet."
 
 ## curiosities
 **Charity Gig at 43,000 Feet (2013)** : On March 10, 2013, Tony Hadley of Spandau Ballet, along with Kim Wilde, performed a charity gig aboard a British Airways 767 at an altitude of 43,000 feet. This event pushed the boundary of high-altitude concerts, reaching near the operational ceiling of current passenger jets. "Tony Hadley of Spandovalet and Kim Wilde, who performed a charity gig on a British Airway 767 at a height of 43,000 feet." ← https://www.youtube.com/watch?v=hmnMG6f80Sg ← tony-hadley
-**Highest Charity Gig (2013)** : On March 10, 2013, Tony Hadley, alongside Kim Wilde, performed a charity gig aboard a British Airways Boeing 767. The concert took place at an altitude of 43,000 feet, which is considered near the operational ceiling for most passenger jets, making it one of the highest musical performances ever. "Tony Hadley of Spandovalet and Kim Wilde, who performed a charity gig on a British Airway 767 at a height of 43,000 feet." ← https://www.youtube.com/watch?v=3eGBnwPWRGo ← tony-hadley
-
-
+**Charity Gig at 43,000 Feet (2013)** : On March 10, 2013, Tony Hadley, alongside Kim Wilde, performed a charity gig aboard a British Airways Boeing 767. The concert took place at an altitude of 43,000 feet, which is considered near the operational ceiling for most passenger jets, making it one of the highest musical performances ever. "Tony Hadley of Spandovalet and Kim Wilde, who performed a charity gig on a British Airway 767 at a height of 43,000 feet." ← https://www.youtube.com/watch?v=3eGBnwPWRGo ← tony-hadley
+**Music Video Endorsement (1991)** : Tony Hadley, the lead singer of Spandau Ballet, publicly endorsed P.M. Dawn's 1991 reboot of his band's song "True" by appearing in P.M. Dawn's music video for "Set Adrift on Memory Bliss." "Tony Hadley gave his endorsement of the rapper's reboot by appearing in PM Dawn's music video." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
 
 ## awards
 **Member of the Order of the British Empire** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q12201526
-
-## charts
-**"Walk Away Renée" — Billboard Year-End Hot 100** : #27, 1966. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

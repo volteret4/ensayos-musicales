@@ -8,7 +8,6 @@
 - Dave Grohl
 - Florence + The Machine
 - Iggy Pop
-- Malisha Fox
 - The Black Keys
 - The Strokes
 - Thundercat

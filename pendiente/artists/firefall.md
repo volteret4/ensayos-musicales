@@ -1,11 +1,10 @@
 # artist - Firefall
 
 ## members
-- David Muse (saxes, flute, keyboards)
-- Jock Bartley (lead guitar)
-- Michael Clarke (drummer, founding member)
-- Rick Roberts (lead singer, founding member)
-- Timothy B. Schmit (background vocals on "Just Remember I Love You")
+- David Muse
+- Jock Bartley
+- Michael Clarke
+- Rick Roberts
 
 ## genres
 - Country Rock
@@ -25,3 +24,5 @@
 **Sound Description (Rick Roberts)** : Rick Roberts, Firefall's lead singer, described the band's sound as "swish," characterizing it as a smooth beat that just flows. "Rick Roberts was asked to describe Firefall's sound and he said, swish, a smooth beat that just flows." ← For the Record - The 70s > Ep. 49 - Austin City Limits and the 70s Country Music Revolution | http://ftr70.com
 **Sound Philosophy (Jock Bartley)** : Jock Bartley, Firefall's lead guitar player, emphasized a philosophy of "what you didn't play" – the spaces left in the music – as crucial to their sound, drawing a comparison to Miles Davis. He stated that every part played by the band, including David Muse on saxes, flute, and keyboards, was to further the song, which contributed to their first three records sounding great even today. "It wasn't really what you played, it's what you didn't play, the spaces you leave." ← For the Record - The 70s > Ep. 49 - Austin City Limits and the 70s Country Music Revolution | http://ftr70.com
 
+## charts
+**"Strange Way" — Billboard Year-End Hot 100** : #100, 1979. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

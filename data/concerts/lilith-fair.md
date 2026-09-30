@@ -5,7 +5,9 @@
 **Massive Female-Focused Tour (1997-1999)** : Initiated and spearheaded by Sarah McLachlan, Lilith Fair was a monumental touring concert event held in 1997, 1998, and 1999. It uniquely showcased hundreds of female musicians on an unprecedented scale across three stages in dozens of cities, featuring artists such as Tracy Chapman, Sheryl Crow, Fiona Apple, Victoria Williams, Dido, Pat Benatar, Diana Krall, Missy Elliott, Bonnie Raitt, Liz Phair, Queen Latifah, Sinéad O'Connor, Dixie Chicks, Chrissie Hynde, Christina Aguilera, and Bif Naked. "No other project has ever showcased female musicians on a scale like this." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI ← lilith-fair ← lilith-fair
 **Sarah McLachlan Initiative for Female Artists** : Lilith Fair was a festival created by Sarah McLachlan, which highlighted female artists. It was held in 1997, 1998, and 1999, playing a significant role in promoting women in music during the 1990s. "And there was also Lilith Fair, a creation of Sarah McLaughlin, which highlighted female artists in 1997, 1998 to 1999." ← https://www.youtube.com/watch?v=6PGgNCaW4xo ← lilith-fair
 **Sarah McLachlan's International Tour** : Lilith Fair was an international touring festival organized by Sarah McLachlan in 1997, 1998, and 1999. While a global event, it prominently featured "lots of Canadian content" alongside international artists. "Then there was Sarah McLaughlin's Lilith Fair Show in 1997, 1998 and 1999. This was an international tour, but also featured lots of Canadian content." ← https://www.youtube.com/watch?v=U2kYleeMnl8 ← lilith-fair ← lilith-fair
+**Inspired by 80s Female Artists** : The Neo folk movement of the 1980s, featuring artists such as Suzanne Vega and Tracy Chapman, "would eventually inspire Lilith Fair in the 90s," a festival celebrating women in music. "the 80s female artists who would eventually inspire Lilith Fair in the 90s, including Suzanne Vega and Tracy Chapman." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 
 ## artists
 - Sarah McLachlan
-
+- Suzanne Vega
+- Tracy Chapman

@@ -6,10 +6,9 @@
 
 ## artists
 - AC/DC
-- ACDC
 - Aerosmith
 - Led Zeppelin
 - Pink Floyd
 - The Rolling Stones
 - Van Halen
-
+- Eric Clapton

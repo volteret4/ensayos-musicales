@@ -1,7 +1,6 @@
 # artist - Tony Williams
 
 ## member of
-- The Flamingos (original group that became The Platters)
 - The Platters
 
 ## curiosities
@@ -11,4 +10,3 @@
 **Introduction to Ralph Bass** : Tony Williams was introduced to Ralph Bass by his sister, Linda Hayes, aspiring to be a singer himself. This introduction led to him joining The Flamingos (who later became The Platters). "Hayes introduced Ralph Bass to her brother, Tony Williams, who wanted to be a singer himself." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
 **Overdubbed Vocals on Later Platters Recordings** : Even after his departure in 1961, Mercury Records, believing Williams was crucial to The Platters' sound, would sometimes overdub his lead vocals onto completed recordings by the new lineup for a year or two. "Mercury would take completed recordings by the new platters lineup and overdub new lead vocals from Williams." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
 **Solo Career Impeded by Arrests** : Williams' initial attempts at a solo career did not go smoothly, partly hindered by the collective arrest of all four male Platters members in 1959, which created negative publicity. "his solo career didn't go wonderfully at first. He wasn't helped by all four of the male platters being arrested." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
-

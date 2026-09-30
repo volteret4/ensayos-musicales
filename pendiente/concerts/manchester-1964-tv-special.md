@@ -8,7 +8,7 @@
 - Muddy Waters
 - Otis Spann
 - Reverend Gary Davis
-- Sister Rosetta Tharp
+- Sister Rosetta Tharpe
 - Sonny Terry
-- Varnie McGee
+- Brownie McGhee
 

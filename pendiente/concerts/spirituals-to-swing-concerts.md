@@ -7,5 +7,5 @@
 ## artists
 - Albert Ammons
 - John Hammond
-- Sister Rosetta Tharp
+- Sister Rosetta Tharpe
 

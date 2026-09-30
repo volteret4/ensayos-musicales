@@ -34,7 +34,9 @@
 - James
 - Jeff Mills
 - New Order
-- Nightmares On Wax
+- Nightmares on Wax
 - The Chemical Brothers
 - The Stone Roses
-
+- Aretha Franklin
+- Armand Van Helden
+- Donna Summer

@@ -1,16 +1,15 @@
 # artist - Ike & Tina Turner
 
 ## members
-- Bonnie O'Farrell (first white singer)
+- Bonnie Bramlett
 
 ## songs
 **It's Gonna Work Out Fine** : This song was chosen by Mickey & Sylvia to produce and arrange for Ike & Tina Turner, having previously recorded an unreleased version themselves. Sylvia played lead guitar, Mickey performed the "spoken Ike vocals," and Sylvia also joined The Ikettes on backing vocals. The record sold over a million copies and received a Grammy nomination, despite being essentially a Mickey & Sylvia production with guest vocals from Tina Turner. "The song chosen was called It's Gonna Work Out Fan, and it was co-written by the great R&B songwriter Rose Marie McCoy, who had written for Elvis, Nat King Cole, Nappy Brown, and many others." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
+**Nutbush City Limits** : This song was covered by Bob Seger on his 1975 album "Beautiful Loser," with members of the Silver Bullet Band assisting on the track. "There were some members of the Silver Bullet Band helping out on the cover of Ike and Tina Turner's Nutbush City Limits." ← For the Record - The 70s > Ep. 55 - Heartland Rock is about More than the Heartland | https://www.ftr70.com/
 
 ## curiosities
 **Giant of Rock Music** : Ike & Tina Turner are recognized as significant figures in the broader landscape of rock music. "I can teen a turner, funk a delix, Stevie Wonder, Bob Marley, Prince or Slash." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← ike-tina-turner
 **Production by Mickey & Sylvia** : As a return favor for Ike Turner's contributions to their Willow Records, Mickey & Sylvia produced and arranged the song "It's Gonna Work Out Fine" for Ike & Tina Turner. "And to return the favour they agreed to produce a record for Ag and Tina Turner." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
-
-
 
 ## awards
 **Grammy Award for Best R&B Performance by a Duo or Group with Vocals (1971)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q3113378

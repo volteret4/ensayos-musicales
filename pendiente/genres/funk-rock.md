@@ -5,4 +5,5 @@
 
 ## artists
 - Wild Cherry
-
+- Talking Heads
+- Red Hot Chili Peppers

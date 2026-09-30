@@ -6,8 +6,8 @@
 ## artists
 - Alannah Currie
 - Ben Folds
-- Bobby Jean Hall
-- Eddie Bungo Brown
+- Bobbye Hall
+- Eddie "Bongo" Brown
 - Frankie Lymon
 - Jody Linscott
 - Ray Cooper

@@ -2,12 +2,8 @@
 
 ## member of
 - Guns N' Roses
-- Guns n' Roses
 - The Conspirators
 - Velvet Revolver
-
-## members
-- Saul Hudson
 
 ## instruments
 - BC Rich
@@ -28,15 +24,5 @@
 **Todd Kerns' Collaboration** : Todd Kerns, formerly of Age of Electric, joined Slash's band, The Conspirators, as the bass player and backup vocalist. This collaboration signifies a notable international career opportunity for a Canadian musician. "Todd Kerns from Age of Electric has been working as the bass player in Back of Vocalist for Slash, yes, as in Guns and Roses Slash, in his band The Conspirators." ← https://www.youtube.com/watch?v=22SSwvfRMVg ← slash ← slash
 **Velvet Revolver Formation (2003)** : Slash, along with Duff McKagan and Matt Sorum, was one of the three former Guns N' Roses members who formed Velvet Revolver. "It was Duff, Slash, and drummer Matt Sorom." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← slash ← slash
 
-
-
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761
-
-## charts
-**"Shining Light" — UK Indie Singles Chart** : 2001. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart
-**"Burn Baby Burn" — UK Indie Singles Chart** : 2001. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart
-
-## lists
-**"1977" (1996) — 1001 Albums You Must Hear Before You Die** : #834.
-**"1977" (1996) — Pitchfork: The 50 Best Britpop Albums** : #34. ← musicbrainz | https://beta.musicbrainz.org/series/cd7ebb70-d88f-4f74-b6de-3a00bf2a162c

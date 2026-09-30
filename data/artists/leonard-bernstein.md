@@ -3,8 +3,6 @@
 ## curiosities
 **Gay Classical Composer** : Leonard Bernstein is mentioned as one of America's biggest classic composers who was gay, with his sexuality potentially being audible in his music, as posited by Professor Nadine Hubs. "many of America's biggest classic composers, from Leonard Bernstein to Aaron Copeland, were not only gay, but that their gayness can be heard in their music." ← https://www.youtube.com/watch?v=hswtuenFwvM ← leonard-bernstein
 
-
-
 ## awards
 **honorary doctor of the Hebrew University of Jerusalem** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q28861731
 **Grammy Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q41254
@@ -30,6 +28,3 @@
 **Royal Philharmonic Society Gold Medal (1987)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q26183322
 **Brahms-Preis (1988)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q367040
 **Praemium Imperiale (1990)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q268670
-
-## charts
-**""María" (B.S.O. West Side Story)" — Spain Singles Chart** : #1, 1963. ← Wikipedia | https://en.wikipedia.org/wiki/Promusicae

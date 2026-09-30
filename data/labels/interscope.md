@@ -14,8 +14,6 @@
 - Chris Cornell
 - Imagine Dragons
 - Nine Inch Nails
-- Nine-inch Nails
-- Nine-inch nails
 - Soundgarden
 - Trent Reznor
 

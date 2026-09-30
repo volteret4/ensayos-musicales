@@ -5,8 +5,6 @@
 **Critic Robert Hull's Disparaging Remarks (1975)** : In a misogynistic assessment from 1975, critic Robert Hull crudely dismissed Bette Midler with a comment about her hygiene in a crude ranking of female singers he would like "to sit in your lap." "Bet Middler, Stinks Under the Arm Pits in between her legs." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
 **Songs Written by Kirsty MacColl** : Kirsty MacColl wrote a couple of songs for Bette Midler. "She also wrote a couple of songs for Bett Middler." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4 ← bette-midler
 
-
-
 ## awards
 **Drama Desk Award for Outstanding Actress in a Musical** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5305703
 **Primetime Emmy Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1044427

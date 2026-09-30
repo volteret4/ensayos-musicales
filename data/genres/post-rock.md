@@ -23,7 +23,6 @@
 - Moonshake
 - My Bloody Valentine
 - Seefeel
-- StereoLab
 - Stereolab
 - Talk Talk
 - The Velvet Underground

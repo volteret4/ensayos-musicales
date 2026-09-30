@@ -8,10 +8,10 @@
 
 ## genres
 - Alternative Hard Rock
-- Classic Rock (inspired by)
+- Classic Rock
 
 ## albums
-**Black Smoke Rising (EP)** : This EP was released following a live EP in 2014 and the use of one of their songs in a Chevy TV commercial. It notably included the single "Highway Tune," which significantly contributed to the band's subsequent surge in popularity. "It was subsequently included on an EP called Black Smoke Rising, and since then things have kind of exploded." ← https://www.youtube.com/watch?v=gxbuajGKbko ← greta-van-fleet
+**Black Smoke Rising** : This EP was released following a live EP in 2014 and the use of one of their songs in a Chevy TV commercial. It notably included the single "Highway Tune," which significantly contributed to the band's subsequent surge in popularity. "It was subsequently included on an EP called Black Smoke Rising, and since then things have kind of exploded." ← https://www.youtube.com/watch?v=gxbuajGKbko ← greta-van-fleet
 
 ## songs
 **Highway Tune** : This song was picked up for use in a local Chevy TV commercial, which led to further recording opportunities for the band. It was later included on their EP *Black Smoke Rising*, and its success contributed to the band's rapid explosion in popularity. "That led to more recording, which eventually resulted in a single called Highway Tune." ← https://www.youtube.com/watch?v=gxbuajGKbko ← greta-van-fleet
@@ -26,11 +26,6 @@
 **Shared Experiences and Artistic Communication** : The fact that the three brothers, including twins, shared the same life experiences and picked up on musical influences at the same time contributed significantly to their sound. Their strong familial bond allows for easy communication, especially artistically, enabling them to instinctively understand each other's creative direction, even during live performances. "Yeah, same life experiences that we've shared, commonalities and things like that. And it's very easy to communicate, you know, especially, you know, just in general, but artistically, I think that we're on a, you know, we're on the same page a lot of the time where it's like, well, what creatively has to happen here when we come to a junk share where we're deciding, well, should, you know, what should the guitar be doing here? And I think we're all like, yeah, it should be doing this." ← https://www.youtube.com/watch?v=gxbuajGKbko ← greta-van-fleet
 **Vocal Style Development** : Formed in 2012, Josh Kiszka, the singer, initially lacked his own vocal amplifiers. This forced him to develop a powerful vocal style to be heard over the guitars and drums, which, according to Jake Kiszka, naturally evolved into his Robert Plant-like delivery, likely also influenced by their exposure to old Led Zeppelin records. "Josh, for example, didn't have his own vocal amps, so he had to develop a style where he could be heard over the guitars and drums. And according to Jake, which is what he told me, this is how John ended up with that Robert Plant-like delivery." ← https://www.youtube.com/watch?v=gxbuajGKbko ← greta-van-fleet
 
-
-
 ## awards
 **Grammy Award for Best New Artist (2019)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643
 **Grammy Award for Best Rock Album (2019)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q691892
-
-## charts
-**"Walk Away Renée" — Billboard Year-End Hot 100** : #27, 1966. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

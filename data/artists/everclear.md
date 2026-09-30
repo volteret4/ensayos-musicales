@@ -2,7 +2,6 @@
 
 ## members
 - Art Alexakis
-- Art Alexakis (singer)
 
 ## genres
 - Post-grunge
@@ -18,7 +17,7 @@
 
 ## songs
 **AM Radio** : This song is from *Songs from an American Movie Volume One*, which is part of a two-volume set exploring a divorce experience. "Everclear, an AM radio from the first part of a two volume divorce experience called Songs from an American movie." ← https://www.youtube.com/watch?v=1KyNY3zv6uc ← everclear
-**Hot Water Test (Year not specified)** : Art Alexakis wrote this song after learning about the historical method of diagnosing MS in the 1940s and 50s, which involved placing patients in a hot water bath and observing their reactions. The song is directly about his MS diagnosis. "Art, Alex Akasov ever cleared, singing about his MS diagnosis in a track called Hot Water Test." ← https://www.youtube.com/watch?v=uzIMWVbi-GM ← everclear ← everclear
+**Hot Water Test** : Art Alexakis wrote this song after learning about the historical method of diagnosing MS in the 1940s and 50s, which involved placing patients in a hot water bath and observing their reactions. The song is directly about his MS diagnosis. "Art, Alex Akasov ever cleared, singing about his MS diagnosis in a track called Hot Water Test." ← https://www.youtube.com/watch?v=uzIMWVbi-GM ← everclear ← everclear
 
 ## curiosities
 **21st Century Concept Album Artists** : Everclear is mentioned as one of the bands that have released concept records in the 21st century. "Let's see, we got Green Day, Queen to the Stone Age, ever clear." ← https://www.youtube.com/watch?v=Dm5N6yDRxXQ ← everclear
@@ -30,8 +29,6 @@
 **Managing Multiple Sclerosis** : Initially viewing his MS diagnosis as a death sentence, Art Alexakis's prognosis improved after working with doctors who prescribed Copazone. He takes three injections a week, avoids inflammatory foods like sugar, and has been told by his doctor he could have another 30 years if his condition remains stable. While he can no longer run and has taken up swimming, his guitar playing remains unaffected, and he doesn't expect to be confined to a wheelchair. "The prognosis isn't as bad as he thought it might be, and Art realizes that he may need a cane later in life, but he shouldn't be confined to a wheelchair. He hopes. He gives himself three injections a week, yes to stay away from inflammatory foods like sugar, and if things continue the way they are, Art's doctor says he could have another 30 years." ← https://www.youtube.com/watch?v=uzIMWVbi-GM ← everclear ← everclear
 **Max Lane Stage Dive Incident (November 13, 1997)** : During an Everclear show at The Paradise in Boston, New England Patriots football players Drew Bledsoe, Scott Zolak, and Max Lane stage-dived. The 305-pound Max Lane landed on 23-year-old Tamika Messier, crushing her and causing severe neck, shoulder, and arm injuries, including herniated discs. "When he arced off the stage, he landed on 23-year-old Tamika Messier." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y ← everclear
 **Stage Diving Injury Lawsuit** : On November 13, 1997, during an Everclear show at The Paradise in Boston, stage diving was prevalent. Two New England Patriots players, Drew Bledsoe and Scott Zolak, along with lineman Max Lane (who weighed 305 pounds), climbed onto the stage. Lane dove into the crowd, landing on 23-year-old Tamika Messier and crushing her. She suffered neck, shoulder, and arm injuries, including two herniated discs and three fused vertebrae. Messier filed a lawsuit on December 10 against the players, their club, and the band, eventually receiving $1.2 million for her pain and suffering. "Lane Dove. He landed on 23 year old Tamika Messier crushing her. She suffered injuries to her neck, shoulders and arms." ← https://www.youtube.com/watch?v=bferkEWvJg0 ← everclear
-
-
 
 ## charts
 **"Wonderful" — Billboard Year-End Hot 100** : #54, 2000. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

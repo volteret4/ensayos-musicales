@@ -3,8 +3,6 @@
 ## curiosities
 **Shared Influence** : Converge was a band that all members of Alexis on Fire "kind of came together" on as an influence. George Pettit and Dallas Green even met Liam from Cancer Bats at a Converge show, indicating its significance in their formative musical experiences. "Converge, I think we all kind of came together." ← https://www.youtube.com/watch?v=nEPT8ZVZ0so ← converge
 
-
-
 ## lists
 **"Axe To Fall" (2009) — AOTY Must Hear 2000s** : #10, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
 **"No Heroes" (2006) — AOTY Must Hear 2000s** : #168, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/

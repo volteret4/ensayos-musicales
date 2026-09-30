@@ -9,7 +9,6 @@
 - Ice Cube
 - Ministry
 - Pearl Jam
-- Rage Against The Machine
 - Rage Against the Machine
 - Red Hot Chili Peppers
 - Soundgarden

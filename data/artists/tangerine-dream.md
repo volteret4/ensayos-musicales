@@ -12,8 +12,6 @@
 **Krautrock Pioneer** : Tangerine Dream is listed as one of the prominent Krautrock groups, suggesting their importance in the genre's history and their status as a gateway artist for those exploring Krautrock. "you will encounter names like Cannes, Cluster, Tangerine, Dream, Faust, and dozens more." ← https://www.youtube.com/watch?v=ePZDkqLM_gw ← tangerine-dream ← tangerine-dream
 **Modern Reinterpreter of Space Age Pop** : Tangerine Dream, como parte de la "Escuela de Berlín", es mencionado como un grupo que reinterpretó el Space Age Pop con tecnología más avanzada, contribuyendo al legado del género. "la escuela de Berlin, con Tangerine Dream" ← Así sonaba el pop de la era atómica | https://www.youtube.com/watch?v=LqPX20XSa_s
 
-
-
 ## awards
 **Golden Raspberry Award for Worst Musical Score (1982) — Thief** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1535128
 

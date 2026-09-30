@@ -10,8 +10,6 @@
 **Britpop Party Attendee** : Supergrass was listed among the bands that were part of the Britpop scene and received coverage during its peak. "Here's a list of some of the people at the Britpop party. ...Supergrass..." ← https://www.youtube.com/watch?v=5q5EnZj1FwE ← supergrass
 **Oxford Music Scene** : The Jericho Tavern in Oxford, where "On a Friday" played a crucial gig in October 1991, was "semi-famous at the time for hosting other big-ish Oxford bands" like Supergrass. "the Jericho Tavern, which by the way was semi-famous at the time for hosting other big-ish Oxford bands like Super Grass and Ride and Slow Dive." ← https://www.youtube.com/watch?v=t-G22K0vLnM ← supergrass ← supergrass
 
-
-
 ## awards
 **Brit Award for British Breakthrough Act (1996)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q16985318
 **Brit Award for British Breakthrough Act (1996)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q16985318

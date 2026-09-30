@@ -8,12 +8,11 @@
 - Psychedelic Rock
 
 ## albums
-**Sanctons (September 8, 2017)** : This album from Animal Collective was released on September 8th. "Por general colectivo sacan el Sanctons." ← Music Radar Clan > Lanzamientos de Septiembre 2017 | https://www.youtube.com/watch?v=EXtTomCLjsg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← animal-collective ← animal-collective
+**Sanctons (2017)** : This album from Animal Collective was released on September 8th. "Por general colectivo sacan el Sanctons." ← Music Radar Clan > Lanzamientos de Septiembre 2017 | https://www.youtube.com/watch?v=EXtTomCLjsg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← animal-collective ← animal-collective
 
 ## curiosities
 **Artist in 2010s Psych Resurgence** : Animal Collective was mentioned as one of the artists contributing to the resurgence of Psychedelic or Psych Rock in the 2010s. This genre, which was born in the 1960s and fell out of favor in the 70s, saw a significant comeback during the decade. "We saw artists like Ariel Pink, King Gizzard and the Lizard Wizard, Temples, the Black Angels, Unknown Mortal Orchestra, Animal Collective, War on Drugs, and Mac DeMarco." ← https://www.youtube.com/watch?v=HSvgRyGiOpE ← animal-collective
-
-
+**Luminous Alternative Music Example** : Animal Colectif was a band that exemplified the "luminous," "synthetic," and "psychedelic" alternative music scene prevalent in the late 2000s and early 2010s, which filled festivals and represented a trend that Witchhouse emerged in deliberate opposition to. "Los festivales se llenaban de bandas coloridas, sintéticas y psicodélicas, como Eid GMT, animal colectif o Witchhouse." ← Witch House： Cuando internet inventó su género maldito | https://www.youtube.com/watch?v=SLlzXA0eyu0
 
 ## awards
 **Shortlist Music Prize (2005) — Feels** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q7502207

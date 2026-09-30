@@ -5,7 +5,6 @@
 - Eric Stefani
 - Gwen Stefani
 - Tom Dumont
-- Tony Canal
 - Tony Kanal
 
 ## genres
@@ -21,11 +20,8 @@
 
 ## albums
 **The Beacon Street Collection (1995)** : Released in March 1995, this was No Doubt's second record. The band was booked for the first Warped Tour based on the strength of this album, before their _Tragic Kingdom_ album was released. "They got into Warped on the strength of their second record, The Beacon Street Collection, which was released in March of that year." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← no-doubt
-**Tragic Kingdom** : At the time of the first Warped Tour in 1995, No Doubt's breakthrough album, _Tragic Kingdom_, was still three months away from its release. "Nobody knew too much about them because their tragic kingdom album was still three months in the future." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← no-doubt
+**Tragic Kingdom (1995)** : At the time of the first Warped Tour in 1995, No Doubt's breakthrough album, _Tragic Kingdom_, was still three months away from its release. "Nobody knew too much about them because their tragic kingdom album was still three months in the future." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← no-doubt
 **Tragic Kingdom (1995)** : This 1995 album marked a pivotal moment for No Doubt, moving away from a metal and punk sound towards a new wave influence while still retaining the Ska beat. Seven of the 14 songs on the album were released as singles, significantly increasing the pervasiveness of the Ska beat in the mainstream. "No doubt loved the SCAT beat. But instead of going down the metal and punk road, they mined more of a new wave sound, which was a good move. Of the 14 songs on this album, 7 were released to singles. And songs like this made the SCAT beat even more pervasive." ← https://www.youtube.com/watch?v=WX2GlpMNg_8 ← no-doubt ← no-doubt
-
-## songs
-**By the Way (1995)** : This song was performed by No Doubt during the first Warped Tour in 1995, prior to their major breakthrough, and was featured on their _Beacon Street Collection_ album. "No Doubt when they were still an indie band, and that's By the Way from their Beacon Street Collection album, and a song that they would have performed on the first ever Warped Tour in 1995." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← no-doubt
 
 ## curiosities
 **Commercial Success** : No Doubt, with Gwen Stefani, sold over 35 million records. "She sold over 35 million records with no doubt and millions more as a solo artist." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← no-doubt ← no-doubt
@@ -40,8 +36,6 @@
 **Reunion for Touring** : No Doubt was one of many bands from past decades that reunited in the 21st century, a trend largely motivated by financial incentives. With declining CD sales impacting artist revenues, returning to the touring circuit offered a lucrative way to appeal to nostalgic fan bases and fill large venues. "The list of reunions is long." ← https://www.youtube.com/watch?v=GYUuTbOvyak ← no-doubt
 **Third Wave Mainstream Breakthrough** : No Doubt, based out of Orange County, struggled through two albums before their 1995 album "Tragic Kingdom" brought them mainstream success. They adopted a new wave sound combined with the Ska beat, diverging from the more common punk or metal direction of many third-wave Ska bands. "The first third wave act to really break through into the mainstream was one that we also talked about during the chapter on punk rock revivals." ← https://www.youtube.com/watch?v=WX2GlpMNg_8 ← no-doubt ← no-doubt
 **Third Wave Ska Leader** : No Doubt was a prominent band in the "third wave" of Ska, which arrived in the 1990s. This wave saw significant popularity with bands like The Mighty Mighty Bosstones, Sublime, Reel Big Fish, Goldfinger, and Dance Hall Crashers. The Interrupters were noted as the first female-fronted Ska band to have a major hit since No Doubt. "Third wave Scott arrived in the 1990s, no doubt, muddy, muddy boss tones, sublime, real big fish, gold finger, dancehall crashes and so many more." "They became the first female fronted Skaban to have a major hit since no doubt." ← https://www.youtube.com/watch?v=HSvgRyGiOpE ← no-doubt
-
-
 
 ## awards
 **Premios Oye!** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q7240451

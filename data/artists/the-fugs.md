@@ -13,13 +13,13 @@
 
 ## songs
 **C.I.A. Man (1965)** : Recorded in 1965, this song by The Fugs is documented as the first record to deliberately feature obvious "F-bombs," marking a significant moment in the history of explicit language in recorded music. "And in 1965, they recorded a song called C.I.A. Man. And it featured plenty of obvious F-bombs." ← https://www.youtube.com/watch?v=yPok3MemDmE ← the-fugs
-**CIA Man (1965) - First Deliberate F-Bomb on a Rock Record** : Recorded in 1965 and featured on "The Fugs First Album," "CIA Man" is recognized as the first instance of anyone deliberately dropping an F-bomb on a rock and roll record. The use of such language was groundbreaking and controversial for its time, still necessitating censorship for broadcast decades later. "And that, as far as we know, is the first time anyone anywhere in the world dropped the F-bomb on a rock and roll record. Deliveredly." ← https://www.youtube.com/watch?v=gP3oQeYEvso ← the-fugs
+**C.I.A. Man (1965)** : Recorded in 1965 and featured on "The Fugs First Album," "CIA Man" is recognized as the first instance of anyone deliberately dropping an F-bomb on a rock and roll record. The use of such language was groundbreaking and controversial for its time, still necessitating censorship for broadcast decades later. "And that, as far as we know, is the first time anyone anywhere in the world dropped the F-bomb on a rock and roll record. Deliveredly." ← https://www.youtube.com/watch?v=gP3oQeYEvso ← the-fugs
 
 ## curiosities
+**Early Alternative Thinking** : FUGS were mentioned as a group from the 1960s that exhibited a form of alternative thinking, preceding the alternative rock movement that started in the 1970s. "Groups like the FUGS and the Bonzo Dog Band." ← https://www.youtube.com/watch?v=I9_3EbwKPnU ← fugs ← fugs
 **Ed Sanders' "Punk Rock" Usage (1970)** : The founder of The Fugs, Ed Sanders, described his 1970 solo album, "Sanders Truck Stop," as "punk rock redneck sentimentality" in a Chicago Tribune interview, marking one of the earliest uses of the phrase "punk rock" in print. "Ed Sanders, the founder of a New York-based weirdo band called The Fugs, had released a solo album called Sanders Truck Stop. And in this interview, he described his record as punk rock redneck sentimentality." ← https://www.youtube.com/watch?v=VYi3r0G-ne4 ← the-fugs
 **Pioneers of Explicit Language** : The Fugs were a "weirdo rock band" that leaned towards performance art and satire, and are credited as the first band to deliberately include an "F-bomb" on a record with their 1965 song "C.I.A. Man." "The Fugs, the first band, to deliberately drop an F-bombs on record, as far as we can document anyway." ← https://www.youtube.com/watch?v=yPok3MemDmE ← the-fugs
-
-
+**Early Alternative Thinking** : FUGS were mentioned as a group from the 1960s that exhibited a form of alternative thinking, preceding the alternative rock movement that started in the 1970s. "Groups like the FUGS and the Bonzo Dog Band." ← https://www.youtube.com/watch?v=I9_3EbwKPnU ← fugs
 
 ## lists
 **"It Crawled Into My Hand, Honest" (1968) — Scaruffi 1960s** : #126, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

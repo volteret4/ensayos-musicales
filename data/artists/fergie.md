@@ -1,9 +1,13 @@
 # artist - Fergie
 
+## member of
+- The Black Eyed Peas
+
+## songs
+**Glamorous (2006)** : Fergie's song, later famously re-styled by Jack Harlow into his number one hit "First Class." "Fergie's glamorous" ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
+
 ## curiosities
 **Joins Black Eyed Peas (1999)** : Met the Black Eyed Peas in the parking lot during the 1999 Warped Tour. After getting along well, she was asked to join the band. "They got along so well that they asked her to join the band." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← fergie
-
-
 
 ## awards
 **Grammy Award for Best Melodic Rap Performance (2012) — All of the Lights** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1542172

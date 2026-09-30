@@ -10,4 +10,4 @@
 - Sex Gang Children
 - Siouxsie and the Banshees
 - The Birthday Party
-
+- The Cure

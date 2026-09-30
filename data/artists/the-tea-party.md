@@ -1,7 +1,6 @@
 # artist - The Tea Party
 
 ## members
-- Jeff Burles
 - Jeff Burrows
 - Jeff Martin
 - Stuart Chatwood
@@ -14,11 +13,10 @@
 - SARS-Stock (2003)
 
 ## albums
-**Anniversary Set(s) - Career Retrospective** : The Tea Party has released "an anniversary set or two," indicating special compilations or retrospectives celebrating their career milestones, particularly after their 2011 reunion. "issued an anniversary set or two." ← https://www.youtube.com/watch?v=22SSwvfRMVg ← the-tea-party ← the-tea-party
-**The Ocean at the End of the World (2014) - Reunion Album** : This album was released in 2014, following the band's reunion in 2011. It marked their return to recording new material after an initial breakup caused by creative differences. "released an album called The Ocean at the end of the world which was in 2014." ← https://www.youtube.com/watch?v=22SSwvfRMVg ← the-tea-party ← the-tea-party
+**The Ocean at the End of the World (2014)** : This album was released in 2014, following the band's reunion in 2011. It marked their return to recording new material after an initial breakup caused by creative differences. "released an album called The Ocean at the end of the world which was in 2014." ← https://www.youtube.com/watch?v=22SSwvfRMVg ← the-tea-party ← the-tea-party
 
 ## songs
-**Heaven Coming Down (1999) - Number One Single** : This song was the band's biggest chart success, reaching number one in late 1999. It stands as a prime example of their most commercially successful output. "This was probably their biggest hit chart wise it was a number one single in late 1999. Here's the Tea Party and heaven coming down." ← https://www.youtube.com/watch?v=22SSwvfRMVg ← the-tea-party ← the-tea-party
+**Heaven Coming Down (1999)** : This song was the band's biggest chart success, reaching number one in late 1999. It stands as a prime example of their most commercially successful output. "This was probably their biggest hit chart wise it was a number one single in late 1999. Here's the Tea Party and heaven coming down." ← https://www.youtube.com/watch?v=22SSwvfRMVg ← the-tea-party ← the-tea-party
 
 ## curiosities
 **Breakup Due to Creative Differences** : The band broke up around 2005 due to "creative differences," leading to a period where individual members pursued separate projects. This internal conflict temporarily ended their collaborative work. "the whole creative differences things settled in and the band broke up." ← https://www.youtube.com/watch?v=22SSwvfRMVg ← the-tea-party ← the-tea-party
@@ -35,8 +33,6 @@
 **Rise in 1993** : The Tea Party began their rise in 1993, joining a wave of new Canadian artists gaining attention both domestically and internationally. This marked a period when foreign music fans started discovering Canadian talent. "1993, Doe Boys, the Tea Party, Daniel Landwaw, More Sarah McLaughlin, More Pursuit of Happiness, More Cowboy Junkeys." ← https://www.youtube.com/watch?v=6PGgNCaW4xo ← the-tea-party
 **Stuart Chatwood's Misophonia Project** : Stuart Chatwood is actively involved in a project called Uncommon Folk, which aims to support individuals diagnosed with misophonia. This sensory processing disorder causes negative emotional and physical reactions to specific sounds. "Stuart is also working on a project called Uncommon Folk which seeks to help people diagnosed with a sensory processing disorder called mesophonia." ← https://www.youtube.com/watch?v=22SSwvfRMVg ← the-tea-party ← the-tea-party
 **Stuart Chatwood's Video Game Soundtrack Work** : Bassist and keyboardist Stuart Chatwood became a prominent producer of music for video games, composing soundtracks for eight *Prince of Persia* games for Ubisoft, which collectively sold 10 million copies, as well as the soundtrack for *Darkest Dungeon*. This showcases his significant contributions to the gaming industry. "Basin keyboard player Stuart Chatwood is a producer of music for video games he did the soundtracks for eight prince of Persia games for Ubisoft which collectively have sold 10 million copies and he did the soundtrack for another game called Darkest Dungeon." ← https://www.youtube.com/watch?v=22SSwvfRMVg ← the-tea-party ← the-tea-party
-
-
 
 ## lists
 **"Splendor Solis" (1993) — Sputnikmusic Best Albums 1993** : #148, 3.92 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/

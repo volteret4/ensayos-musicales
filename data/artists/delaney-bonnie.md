@@ -1,12 +1,9 @@
 # artist - Delaney & Bonnie
 
 ## members
-- Bonnie O'Farrell Bramlett
+- Bonnie Bramlett
 - Delaney Bramlett
-- Eric Clapton (collaborator)
-- Kenny Gradney (bassist)
-- Leon Russell (songwriter)
-- Rita Coolidge (inspiration)
+- Kenny Gradney
 
 ## genres
 - Blues
@@ -36,8 +33,6 @@
 **Loose Band Lineup** : Delaney & Bonnie were known for their flexible band lineup, often functioning as a jam band with live jam sessions, where members could include anyone who was around. "And to say band is kind of a loose term because in addition to Delinean and Bonnie Bramlett, the band could have been anyone who was around." ← For the Record - The 70s > Ep. 59 - Bands and Booze on the Festival Express of 1970 | https://www.ftr70.com/ ← delaney-bonnie
 **Members Joined Derek and the Dominos** : Following the dissolution of Cream, Eric Clapton formed Derek and the Dominos, incorporating members from Delaney and Bonnie. "he formed Derek and the Dominoes using members of Delaney and Bonnie and Blind Faith." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← delaney-bonnie
 **Stax Records Signing (1968)** : In 1968, Delaney & Bonnie signed with the legendary Stax Records in Memphis, an experience that infused their music with a strong soul influence even after they left the label. "In 1968 Delinean Bonnie signed with the legendary stacks records and Memphis and you can hear that soul influence in their music even after they left stacks." ← For the Record - The 70s > Ep. 59 - Bands and Booze on the Festival Express of 1970 | https://www.ftr70.com/ ← delaney-bonnie
-
-
 
 ## charts
 **"Never Ending Song of Love" — Billboard Year-End Hot 100** : #67, 1971. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

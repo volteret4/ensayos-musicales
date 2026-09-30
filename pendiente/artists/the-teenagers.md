@@ -1,13 +1,11 @@
 # artist - The Teenagers
 
 ## members
-- Billy LeBvano
 - Frankie Lymon
 - Herman Santiago
 - Jimmy Merchant
 - Joe Negroni
-- Lyman's brother
-- Sandra Doyle
+- Lewis Lymon
 - Sherman Garns
 
 ## genres
@@ -18,9 +16,8 @@
 - Rama Records
 
 ## songs
-**I Want You to Be My Girl (Year Unspecified)** : This single followed the success of "Why Do Fools Fall in Love" and performed almost as well, peaking at number 13 on the pop charts. Despite its relative success, subsequent singles did not fare as well for the group. "With the teenagers, followed the success of why the fools fall in love with, I want you to be my girl." ← Episode 35： ＂Why Do Fools Fall In Love？＂ by Frankie Lymon and the Teenagers | https://www.youtube.com/watch?v=AtZf9PJEttM
-**I'm Not a Juvenile Delinquent (Year Unspecified)** : While their singles after "I Want You to Be My Girl" generally performed less well in the US, this particular song became a big hit in the UK. This indicates a different reception for their music across the Atlantic. "though and not a juvenile delinquent became a big hit in the UK." ← Episode 35： ＂Why Do Fools Fall In Love？＂ by Frankie Lymon and the Teenagers | https://www.youtube.com/watch?v=AtZf9PJEttM
-**Who Put the Bomp (in the Bomp, Bomp, Bomp) (Year Unspecified) - as Sherman and the Teenagers** : After Frankie Lymon left, The Teenagers briefly performed as "Sherman and the Teenagers" and performed the Leiber and Stoller song "Who Put the Bomp." This was one of several attempts to find a new sound and focus on other original group members following Lymon's departure. "For example, calling themselves Sherman and the Teenagers, when performing the Libra and Stala Song, the draw." ← Episode 35： ＂Why Do Fools Fall In Love？＂ by Frankie Lymon and the Teenagers | https://www.youtube.com/watch?v=AtZf9PJEttM
+**I Want You to Be My Girl (1956)** : This single followed the success of "Why Do Fools Fall in Love" and performed almost as well, peaking at number 13 on the pop charts. Despite its relative success, subsequent singles did not fare as well for the group. "With the teenagers, followed the success of why the fools fall in love with, I want you to be my girl." ← Episode 35： ＂Why Do Fools Fall In Love？＂ by Frankie Lymon and the Teenagers | https://www.youtube.com/watch?v=AtZf9PJEttM
+**I'm Not a Juvenile Delinquent (1956)** : While their singles after "I Want You to Be My Girl" generally performed less well in the US, this particular song became a big hit in the UK. This indicates a different reception for their music across the Atlantic. "though and not a juvenile delinquent became a big hit in the UK." ← Episode 35： ＂Why Do Fools Fall In Love？＂ by Frankie Lymon and the Teenagers | https://www.youtube.com/watch?v=AtZf9PJEttM
 **Why Do Fools Fall in Love (1956)** : This song was the group's only major hit, but it became one of the biggest hits of the 1950s and remains almost universally known. It was originally meant to be sung by Herman Santiago, but was rearranged in the studio to feature Frankie Lymon's distinctive falsetto. The song reached number 6 on the pop charts, helped by a massive promotional push from Morris Levy's friend, Alan Freed, and outsold a white cover version by The Diamonds. "The Teenagers only had one really big hit, but it was one of the biggest hits of the 50s and it was a song that is almost universally known to this day." ← Episode 35： ＂Why Do Fools Fall In Love？＂ by Frankie Lymon and the Teenagers | https://www.youtube.com/watch?v=AtZf9PJEttM
 
 ## curiosities
@@ -34,4 +31,3 @@
 **Post-Lymon Struggles and Lineup Changes** : After Frankie Lymon left, The Teenagers struggled to regain their success. They introduced several new lead singers, including Billy LeBvano, a white kid who sounded like Freddie Houston, and even tried focusing on other original members, performing as "Sherman and the Teenagers." Unable to replicate their original sound, they eventually brought in a female singer, Sandra Doyle, before ultimately splitting up in 1961. "The teenage just didn't fare much better. They went through several new lead singers." ← Episode 35： ＂Why Do Fools Fall In Love？＂ by Frankie Lymon and the Teenagers | https://www.youtube.com/watch?v=AtZf9PJEttM
 **Record Label's Decision to Separate Lymon** : The record label made the unusual decision to promote Frankie Lymon as a solo star, separating him from The Teenagers, rather than maintaining a successful group. The presumed calculation was to create two hit acts, but neither Lymon nor The Teenagers had another hit after the split. "The record label soon decided that Lyman needed to become a solo star, rather than just being the lead singer of the teenagers." ← Episode 35： ＂Why Do Fools Fall In Love？＂ by Frankie Lymon and the Teenagers | https://www.youtube.com/watch?v=AtZf9PJEttM
 **Songwriting Origin from Love Letters** : The group used to practice in the hallway of Sherman Garns' apartment block. A neighbor, annoyed by their repetitive singing, offered them his girlfriend's love letters, some written as poems, suggesting they turn them into songs. This led to the creation of "Why Do Fools Fall in Love" from the phrase "wider bird sing so gay." "The neighbour decided to bring out some love letters his girlfriend had written, some of which were in the form of poems and say to the kids, why don't you turn some of these into songs?" ← Episode 35： ＂Why Do Fools Fall In Love？＂ by Frankie Lymon and the Teenagers | https://www.youtube.com/watch?v=AtZf9PJEttM
-

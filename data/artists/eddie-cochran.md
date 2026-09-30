@@ -1,7 +1,7 @@
 # artist - Eddie Cochran
 
 ## members
-- Mike Deese (backing band)
+- Mike Deasy
 
 ## genres
 - Country & Western
@@ -12,9 +12,9 @@
 - Go Johnny Go (1959 Film)
 
 ## songs
-**Come on Everybody (1978)** : Sid Vicious recorded sequences for "The Great Rock and Roll Swindle" film in Paris, performing this old Eddie Cochran song. "Sid, doing his best with an old Eddie Cochran song called, Come on Everybody." ← https://www.youtube.com/watch?v=OcylgiXkDP8 ← eddie-cochran
-**I Want Elvis for Christmas (Undated)** : Eddie Cochran, then a country singer, impersonated Elvis Presley for this novelty record. This song was written by Don Kirshner and Walden Kosoto (Bobby Darin) and exemplifies the trend of novelty records about Elvis in 1956. "The person impersonating Elvis was a country singer called Eddie Cuckren." ← Episode 40： ＂Drugstore Rock 'n' Roll＂ by Janis Martin | https://www.youtube.com/watch?v=l0i2p9TelN0
-**Something Else (1978)** : This old Eddie Cochran song was part of the nine-song set performed by Sid Vicious and The Vicious White Kids at their one and only show at the Electric Ballroom in London, dedicated to Nancy Spungen. "Sid Vicious and the Vicious White Kids doing the old studio song, a one-up of your dog dedicated to Nancy, no less." ← https://www.youtube.com/watch?v=OcylgiXkDP8 ← eddie-cochran
+**C'mon Everybody (1958)** : Sid Vicious recorded sequences for "The Great Rock and Roll Swindle" film in Paris, performing this old Eddie Cochran song. "Sid, doing his best with an old Eddie Cochran song called, Come on Everybody." ← https://www.youtube.com/watch?v=OcylgiXkDP8 ← eddie-cochran
+**I Want Elvis for Christmas** : Eddie Cochran, then a country singer, impersonated Elvis Presley for this novelty record. This song was written by Don Kirshner and Walden Kosoto (Bobby Darin) and exemplifies the trend of novelty records about Elvis in 1956. "The person impersonating Elvis was a country singer called Eddie Cuckren." ← Episode 40： ＂Drugstore Rock 'n' Roll＂ by Janis Martin | https://www.youtube.com/watch?v=l0i2p9TelN0
+**Something Else (1959)** : This old Eddie Cochran song was part of the nine-song set performed by Sid Vicious and The Vicious White Kids at their one and only show at the Electric Ballroom in London, dedicated to Nancy Spungen. "Sid Vicious and the Vicious White Kids doing the old studio song, a one-up of your dog dedicated to Nancy, no less." ← https://www.youtube.com/watch?v=OcylgiXkDP8 ← eddie-cochran
 
 ## curiosities
 **Appearance in "Go Johnny Go" Film** : Eddie Cochran was among the prominent musicians who appeared in the Alan Freed film "Go Johnny Go," a movie that also showcased Richie Valens. "Valens appeared in the Alan Fried film Go Johnny Go, which featured Chuck Berry, Eddie Cochran, The Flamingos, and Jackie Wilson." ← Episode 73： ＂La Bamba＂ by Ritchie Valens | https://www.youtube.com/watch?v=1v9iSCWnLsc
@@ -24,13 +24,8 @@
 **Influence on The Sex Pistols** : Eddie Cochran wrote songs about teenage boredom. These tracks were later covered by later generations of punk bands, specifically mentioning the Sex Pistols, indicating his lasting influence on rebellious youth culture. "Eddie Cochrane, who songs about teenage boredom were later covered by sedentions of the sex pistols." ← https://www.youtube.com/watch?v=6oUkMOkEr9U ← eddie-cochran
 **Mentoring Derry Weaver** : Eddie Cochran taught Derry Weaver several of the guitar licks he used, significantly influencing Weaver's playing. Cochran also played guitar on a session for Weaver produced by Jerry K-Part. "Cochran taught Weaver several of the guitar licks he used." ← Episode 86： ＂LSD-25＂ by the Gamblers | https://www.youtube.com/watch?v=UNd6UwbL1rA
 **Untimely Death After Film Release** : Eddie Cochran was featured in the 1959 film "Go Johnny Go." Tragically, he died within a little over 18 months after the film's release, making him one of several artists associated with the movie who met an early end. "within a little over 18 months after its release, Cochran was also dead." ← Episode 67： ＂Johnny B. Goode＂, by Chuck Berry | https://www.youtube.com/watch?v=sHlA-qihuNw
-
-
+**Inspiration for Songwriting** : Touring with Eddie Cochrane (and Gene Vincent), Roy Orbison observed that many artists had only one hit and struggled to find new material. This prompted Orbison to take songwriting seriously as his primary artistic pursuit to ensure a consistent supply of new songs. "He realised that they, and the other people on the bill, had one hit each. Cochrane would later have more, but still, Orbison wondered where those people's other hits were going to come from, where were they going to find their material." ← Episode 42： ＂Ooby Dooby＂ by Roy Orbison and the Teen Kings | https://www.youtube.com/watch?v=1zvzpXqr-k8
+**Rock and Roll Hall of Fame Inductee (1987)** : Eddie Cochran was one of the deceased "forefathers" inducted into the Rock and Roll Hall of Fame in 1987, alongside Aretha Franklin, who was notable for still being a current hitmaker at the time. "Eddie Cochran" ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
 
 ## awards
 **Rock and Roll Hall of Fame (1987)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
-
-## lists
-**"I Believe She Will / We Try Harder" — John Peel's Record Box** : #29. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
-**"Outcast / I'm Gonna Always Love You" — John Peel's Record Box** : #30. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
-**"That's the Way It Is / Time Waits for No One" — John Peel's Record Box** : #31. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd

@@ -1,5 +1,8 @@
 # artist - Shifty Shellshock
 
+## member of
+- Crazy Town
+
 ## curiosities
 **DJ AM Friendship and Death** : He was a friend of DJ AM, who, along with Travis Barker, survived a private jet crash in 2008. DJ AM later died of an accidental drug overdose, which many hoped would shock Shifty into sobriety, but this did not occur. "His friend was DJ Am, and he, along with Blink-182 drummer Travis Barker, were the only two survivors of a horrific private jet crash in 2008. But DJ Am ended up dying of an accidental drug overdose a little later. There was hope that DJ Am's death might shock Shifty into sobriety, but that never happened." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← shifty-shellshock
 **Drug-Induced Coma (2012)** : In March 2012, he was hospitalized and fell into a drug-induced coma. "In March 2012, he ended up in hospital in a coma. It was drugs." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← shifty-shellshock
@@ -7,8 +10,3 @@
 **Long History of Addiction and Legal Issues** : He had a long and documented history of addiction problems, leading to frequent encounters with law enforcement. These incidents primarily involved burglary, drug and alcohol offenses, and domestic disturbances. "Shifty, his real name was Seth Brooks Binser, had a long history of addiction issues, and he often had his run-ins with the law, mostly involving burglary, drugs, alcohol, and domestic disturbances with whoever he was living with at the time." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← shifty-shellshock
 **Multiple Celebrity Rehab Appearances** : Shellshock appeared on the reality television show "Celebrity Rehab" three separate times, but despite these efforts, he was never able to achieve sustained sobriety. "If you were a fan of celebrity rehab, he was on the show three times, and he was never able to stay sober." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← shifty-shellshock
 **Real Name** : Shifty Shellshock's real name was Seth Brooks Binser. "Shifty, his real name was Seth Brooks Binser." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← shifty-shellshock
-
-
-
-## lists
-**"A Folding Sieve" (1995) — Scaruffi 1990s** : #1391, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

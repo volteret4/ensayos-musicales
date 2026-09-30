@@ -5,7 +5,7 @@
 - PXXR GANG
 
 ## genres
-- Reggaeton (as La Mafia del Amor)
+- Reggaeton
 - Trap
 
 ## curiosities
@@ -13,3 +13,5 @@
 **Co-founder of PXXR GANG** : Khaled, along with John Biff, K.D.K.in, and Steve Lean, founded PXXR GANG in El Raval, a band that would change the Spanish music scene. "fundan la banda que lo cambiará todo, la pur gang." ← La salvaje historia del TRAP ESPAÑOL (2013-2026) | https://www.youtube.com/watch?v=4hBhiU5jj6s
 **Move to El Raval** : After Kefta Boyz and Los Corredores del Bloque made good friends, Khaled and John Biff moved from Granada to El Raval in Barcelona. This move was crucial for the formation of PXXR GANG. "John Biff y Calet no vuelven a granada." ← La salvaje historia del TRAP ESPAÑOL (2013-2026) | https://www.youtube.com/watch?v=4hBhiU5jj6s
 
+## lists
+**"Kenza" (1999) — 1001 Albums You Must Hear Before You Die** : #877.

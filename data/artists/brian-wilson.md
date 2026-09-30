@@ -4,7 +4,7 @@
 - The Beach Boys
 
 ## genres
-- Outsider Music (potential)
+- Outsider Music
 - Pop
 - Psychedelia
 - Rock
@@ -13,8 +13,8 @@
 - Fender Precision Bass
 
 ## albums
-**Pet Sounds (1966) - Mental Health Strain** : Brian Wilson experienced a similar creative and mental health struggle after "Pet Sounds" (by The Beach Boys), which pushed him to the limits of his mental well-being. This illustrates the immense pressure that can accompany the creation of an unrepeatable work and the challenge of living up to or surpassing such an achievement. "Lo mismo le pasó a Brian Wilson traspet Sounds, sobre acomberé que el empujó al límite de su salud mental." ← El disco imposible： La historia de Loveless y My Bloody Valentine | https://www.youtube.com/watch?v=q_SHNe_Ce9A
-**Smile (2004) - Solo Reimagining** : In 2004, Brian Wilson finally allowed the public to hear his personal vision of what Smile could have been, releasing a re-recorded version as a solo artist. This album received critical acclaim and helped audiences appreciate how Wilson had originally planned the project. "En 2004, el público pudo al fin escuchar la visión del compositor de lo que podría haber sido Smiley." ← El Álbum Perdido que pudo cambiar la música ｜ Smile de The Beach Boys | https://www.youtube.com/watch?v=DlVClI89yn4
+**Pet Sounds (1966)** : Brian Wilson experienced a similar creative and mental health struggle after "Pet Sounds" (by The Beach Boys), which pushed him to the limits of his mental well-being. This illustrates the immense pressure that can accompany the creation of an unrepeatable work and the challenge of living up to or surpassing such an achievement. "Lo mismo le pasó a Brian Wilson traspet Sounds, sobre acomberé que el empujó al límite de su salud mental." ← El disco imposible： La historia de Loveless y My Bloody Valentine | https://www.youtube.com/watch?v=q_SHNe_Ce9A
+**Smile (2004)** : In 2004, Brian Wilson finally allowed the public to hear his personal vision of what Smile could have been, releasing a re-recorded version as a solo artist. This album received critical acclaim and helped audiences appreciate how Wilson had originally planned the project. "En 2004, el público pudo al fin escuchar la visión del compositor de lo que podría haber sido Smiley." ← El Álbum Perdido que pudo cambiar la música ｜ Smile de The Beach Boys | https://www.youtube.com/watch?v=DlVClI89yn4
 
 ## curiosities
 **"Teen Symphony to God" (Smile Description)** : Brian Wilson described the Smile album he was recording as a "teen symphony to God," reflecting his ambitious and spiritual vision for the project. "Describió el disco que estaban grabando como una esinfoñadolescente a Dios." ← El Álbum Perdido que pudo cambiar la música ｜ Smile de The Beach Boys | https://www.youtube.com/watch?v=DlVClI89yn4
@@ -34,8 +34,6 @@
 **Recognition of Sgt. Pepper's Supremacy (2014)** : When asked in 2014 if Smile, had it been published, would have "beaten" The Beatles, Brian Wilson candidly replied that Sgt. Pepper's had "kicked their ass," acknowledging The Beatles' immense impact. "el Sargent Papers les había apateado el culo." ← El Álbum Perdido que pudo cambiar la música ｜ Smile de The Beach Boys | https://www.youtube.com/watch?v=DlVClI89yn4
 **Retreat and Reclusion** : Following the cancellation of Smile and the subsequent perceived decline of The Beach Boys, Brian Wilson significantly reduced his compositional role and increasingly withdrew into the reclusion of his home, marking a period of deep personal and professional retreat. "Brian Wilson redujo significativamente su rol compositivo y se retiró cada vez más a la reclusión de su hogar." ← El Álbum Perdido que pudo cambiar la música ｜ Smile de The Beach Boys | https://www.youtube.com/watch?v=DlVClI89yn4
 **Unrealized Production of "Seasons in the Sun"** : Brian Wilson of The Beach Boys had specific creative ideas for "Seasons in the Sun," which almost became a Beach Boys single, but the song's original artist, Terry Jackson, did not have the patience to see Wilson's vision through. "that was very close to becoming a Beach Boys single, but Jackson did not have the patience for all the things that Brian Wilson wanted to do with that song." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← brian-wilson
-
-
 
 ## awards
 **Kennedy Center Honors** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1738793

@@ -8,8 +8,3 @@
 
 ## songs
 **The Gospel Song** : This song is from Magnet's 2007 album, "The Simple Life," which was reportedly debuted via an airborne concert. "So here is Evan from that 2007 album The Simple Life. This is called The Gospel Song." ← https://www.youtube.com/watch?v=T1XSJIm0Nh4 ← magnet
-
-
-
-## charts
-**"473" — NME Chart** : 16 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

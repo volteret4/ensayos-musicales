@@ -6,6 +6,6 @@
 **First 36-Step Sequencer (Crabwork/Matt Rangweacher)** : Crabwork collaborated with the German sound company Matt Rangweacher to construct the very first 36-step sequencer in existence. The development of this pioneering machine was so financially demanding that Ralph Hütter resorted to mortgaging his own house to cover the costs. "Craf Work desarrolla el primer sintanoma con Matt Rangweacher, la empresa de sonido alemana con la que construyeron el primer secuenciador de 36 pasos que existía." ← Music Radar Clan > Quienes eran Kraftwerk realmente？ | https://www.youtube.com/watch?v=9zIi8kqDI7g&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← sequencer ← sequencer
 
 ## artists
-- Human League
+- The Human League
 - New Order
 

@@ -1,5 +1,6 @@
 # artist - The KGB
 
 ## curiosities
+**California-Based Band Covering The Beatles** : The band "The KGB" is from California and is known for covering songs by The Beatles. This clarifies they are not connected to the Soviet secret police despite their name. "There's a band called the KGB covering the Beatles. And don't worry, they are from California, not Moscow." ← https://www.youtube.com/watch?v=YeNWDtN_sHE ← the-kgb-band
 **California Origin** : Despite their provocative name, "The KGB" is explicitly identified as a band from California, not Moscow. They are mentioned in the context of covering The Beatles, distinguishing them from the Soviet secret police agency. "Here's a band called The KGB covering the Beatles. And don't worry, they are from California, not Moscow." ← https://www.youtube.com/watch?v=NyKvAhO7MHE ← the-kgb ← the-kgb
-
+**California Origin** : Despite their provocative name, "The KGB" is explicitly identified as a band from California, not Moscow. They are mentioned in the context of covering The Beatles, distinguishing them from the Soviet secret police agency. "Here's a band called The KGB covering the Beatles. And don't worry, they are from California, not Moscow." ← https://www.youtube.com/watch?v=NyKvAhO7MHE ← the-kgb

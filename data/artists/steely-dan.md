@@ -1,6 +1,7 @@
 # artist - Steely Dan
 
 ## members
+- Donald Fagan
 - Donald Fagen
 - Jeff "Skunk" Baxter
 - Walter Becker
@@ -13,9 +14,10 @@
 
 ## albums
 **Aja (1977)** : Released four months after "Sir Duke" reached number one, this album's lyrics were described by Michael Duffy in his 1977 Rolling Stone review as "pleasantly obtuse and cynical." Its musical arrangements were highly polished, which sometimes drew criticism for being "too smooth" for rock. "Michael Duffy in his 1977 review of Asia for Rolling Stone wrote that the lyrics are as pleasantly obtuse and cynical as ever. That seems perfect for Steely Dan." ← For the Record - The 70s > Ep. 38 - The Influence of Jazz on 70s Popular Music | https://seventies.libsyn.com/ep-38-the-influence-of-jazz-on-70s-popular-music ← steely-dan
+**Two Against Nature (2000)** : This "Ultra Smooth" comeback album won Album of the Year in 2001, despite having been off the album chart for months when it won. The "sardonic witty duo" of Donald Fagan and Walter Becker, by then relegated to "Elder Statesman status," finally won the prestige prize decades past what was considered Steely Dan's prime, over a newer generation of upstarts like Eminem and Radiohead. "Steely Dan's Ultra Smooth 2000 comeback album Two Against Nature, which had been off the album chart for months when it won." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
 
 ## songs
-**Deacon Blues (1978)** : A top 20 hit on the Billboard Hot 100 in 1978, this song portrays a midlife crisis through the story of a "discontented supermanite" who desires a grandiose nickname like "Deacon Blues." Originally conceived with a big band arrangement, it was crafted with layered rhythm tracks, vocals, and horns, including Tom Scott on sax, aiming for a "tight, romantic, and Duke Ellington Cloudfield" backdrop. Walter Becker clarified that the song is about an "LLL loser" and a "broken dream of a broken man living his broken life," not about achieving a dream. "Deacon Blues, a top 20 hit on the Billboard Hot 100 in 1978." ← For the Record - The 70s > Ep. 38 - The Influence of Jazz on 70s Popular Music | https://seventies.libsyn.com/ep-38-the-influence-of-jazz-on-70s-popular-music ← steely-dan
+**Deacon Blues (1977)** : A top 20 hit on the Billboard Hot 100 in 1978, this song portrays a midlife crisis through the story of a "discontented supermanite" who desires a grandiose nickname like "Deacon Blues." Originally conceived with a big band arrangement, it was crafted with layered rhythm tracks, vocals, and horns, including Tom Scott on sax, aiming for a "tight, romantic, and Duke Ellington Cloudfield" backdrop. Walter Becker clarified that the song is about an "LLL loser" and a "broken dream of a broken man living his broken life," not about achieving a dream. "Deacon Blues, a top 20 hit on the Billboard Hot 100 in 1978." ← For the Record - The 70s > Ep. 38 - The Influence of Jazz on 70s Popular Music | https://seventies.libsyn.com/ep-38-the-influence-of-jazz-on-70s-popular-music ← steely-dan
 **FM (No Static at All) (1978)** : The title track for the movie "FM," this song reached number 22 on the charts and remains a classic radio staple. Its lyrics are critical of FM radio, suggesting a superficiality in programming where "The girls don't seem to care what's on as long as they play till dawn. Nothing but blues and Elvis, and somebody else's favorite song." The irony is that this song, critical of FM radio, became a hit on the very medium it critiqued. "The lyrics to the song throw some serious shade at FM radio." ← For the Record - The 70s > Ep. 28 - Soundtracks of the 70s | https://seventies.libsyn.com/028-soundtracks-of-the-70s-12221-5-45-pm
 **Rikki Don't Lose That Number (1974)** : This song was cited as an example of good music released in 1974. ← For the Record - The 70s > Ep. 48 - The Worst of the 70s The Music of 1974 | https://www.ftr70.com/
 
@@ -27,8 +29,6 @@
 **Complex and Cryptic Lyrics** : Steely Dan's lyrics are often described as more complex and cryptic than typical 1970s rock songs, a characteristic noted by critics like Michael Duffy, who found them "pleasantly obtuse and cynical." "Their lyrics are a lot more complex and some might even say cryptic than the typical rock songs of the 1970s." ← For the Record - The 70s > Ep. 38 - The Influence of Jazz on 70s Popular Music | https://seventies.libsyn.com/ep-38-the-influence-of-jazz-on-70s-popular-music ← steely-dan
 **Resistance to Jazz Label** : While their love of jazz influenced many of their songs, Steely Dan resisted being labeled as "jazz rock" or "jazz fusion." Walter Becker stated that they played "rock and roll" but strived for the "ongoing flow, that lightness, that forward rush of jazz" that makes their music "swing." "Becker said, we played rock and roll, but we swing when we play. We want that ongoing flow, that lightness, that forward rush of jazz." ← For the Record - The 70s > Ep. 38 - The Influence of Jazz on 70s Popular Music | https://seventies.libsyn.com/ep-38-the-influence-of-jazz-on-70s-popular-music ← steely-dan
 **Walter Becker's Death in 2017** : Walter Becker of Steely Dan was among the notable musicians who passed away in 2017. "Walter Becker of Steely Dan." ← https://www.youtube.com/watch?v=sdPeii-8Ysw ← steely-dan
-
-
 
 ## awards
 **Rock and Roll Hall of Fame (2001)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191

@@ -8,8 +8,3 @@
 
 ## curiosities
 **Jill Sobule Death (2025) – Suspicious House Fire at 66** : Jill Sobule died at age 66 in a suspicious domestic fire. "Died in a suspicious house fire at 66." ← https://www.youtube.com/watch?v=ZPlsR7_WiZQ ← jill-sobule
-
-
-
-## charts
-**"Walk Away Renée" — Billboard Year-End Hot 100** : #27, 1966. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

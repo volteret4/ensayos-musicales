@@ -1,9 +1,5 @@
 # artist - GG Allin
 
-## members
-- Jesus Christ Allin
-- Jesus Christ Allin (real name)
-
 ## genres
 - Country
 - Super hardcore punk
@@ -12,7 +8,7 @@
 **The Suicide Sessions (1989)** : This 1989 album was famously played on a portable cassette player that was buried with GG Allin, plugged into headphones on his body. "wearing a set of headphones plugged into a portable cassette player, which featured a copy of his 1989 album and title, The Suicide Sessions." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← gg-allin
 
 ## songs
-**Murder for the Mission (Year Unknown)** : This track by GG Allin was played as an example of his music. The host noted the extreme and jarring sound, stating it was for "demonstration and educational purposes only." "It's called Murder for the Mission." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← gg-allin
+**Murder for the Mission** : This track by GG Allin was played as an example of his music. The host noted the extreme and jarring sound, stating it was for "demonstration and educational purposes only." "It's called Murder for the Mission." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← gg-allin
 **When I Die** : This song was inspired by Country Pioneer Hank Williams, whom GG Allin was a huge fan of. "GG was a huge fan of Country Pioneer Hank Williams and released this song, which was inspired by Hank. And it's called When I Die." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← gg-allin
 
 ## curiosities
@@ -34,8 +30,6 @@
 **Promoters Cutting Power** : Due to the extreme and often uncontrollable nature of his shows, promoters frequently resorted to cutting the power to the stage to stop performances. "Promoters often cut the power to the stage because things got so crazy." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← gg-allin
 **Unconventional Burial** : GG Allin was buried in his leather jacket and jockstrap, with the mortician specifically instructed not to wash or clean the body. At his funeral, friends filled his mouth with whiskey and drugs, and he was buried wearing headphones playing his 1989 album, `The Suicide Sessions`. "GG was buried in his leather jacket and juxtap. The more Titian was ordered not to wash anything or otherwise clean up the body. At his funeral, friends filled his mouth with whiskey and drugs." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← gg-allin
 **Violent Gig Incidents (Early 1993)** : At a gig in early 1993, Allin knocked out a photographer and then ran through a glass door while being pursued by an angry mob. He was described as a genuine barbaric psychopath. "At a gig in early 1993, he knocked out a photographer and then ran through a glass door while being pursued by an angry mob." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← gg-allin
-
-
 
 ## lists
 **"Freaks, Faggots, Drunks & Junkies" (1988) — Scaruffi 1980s** : #440, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

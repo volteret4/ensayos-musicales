@@ -8,8 +8,6 @@
 **High School Alumni** : Erykah Badu was an alumnus of the performing arts high school in Dallas that Nora Jones also attended. The school was noted for attracting "people of artistic interest." "didn't like Roy Hargrove go to that school in Erika Badger?" ← Hit Parade Music History and Music Trivia > Introducing Broken Record - Norah Jones Begins Again | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cbc
 **Midwifery as a Second Career** : When she is not creating music, Erykah Badu works as a midwife. "When she's not making music, Erica Badu works as a midwife." ← https://www.youtube.com/watch?v=xc85sLj0Cnk ← erykah-badu
 
-
-
 ## awards
 **Grammy Award for Best New Artist (1998)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643
 

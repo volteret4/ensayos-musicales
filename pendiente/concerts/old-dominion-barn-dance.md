@@ -8,8 +8,8 @@
 **Lower Tier in Country Music Hierarchy** : The Old Dominion Barn Dance was a live variety show broadcast by radio station WRVA, ranking below the Grand Ole Opry and the Louisiana Hayride in the hierarchy of country and western music shows in the 1950s. "a rung below the Hayride were shows like the old Dominion Barn Dance." ← Episode 40： ＂Drugstore Rock 'n' Roll＂ by Janis Martin | https://www.youtube.com/watch?v=l0i2p9TelN0
 
 ## artists
-- Carter Family
-- Flatt & Scruggs
+- The Carter Family
+- Flatt and Scruggs
 - Janice Martin
 - Joe Maphis
 

@@ -5,5 +5,5 @@
 **Regular Memphis Country Show** : This was a regular country music show held at the Goodwin Institute Auditorium in Memphis, which was occasionally broadcast on KWEM, and frequently featured the Rock and Roll Trio and other local musicians. "They also regularly played the Saturday night Jamboree at the Goodwin Institute Auditorium and regular country music show that was occasionally broadcast on the same station that Burlesons Old Bands had performed on KWEM." ← Episode 44： ＂Train Kept A-Rollin'＂, by Johnny Burnette and the Rock 'n' Roll Trio | https://www.youtube.com/watch?v=u3zYAJ2qeR4
 
 ## artists
-- The Rock and Roll Trio
+- Johnny Burnette and the Rock and Roll Trio
 

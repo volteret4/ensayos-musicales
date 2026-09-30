@@ -1,9 +1,7 @@
 # artist - Bob Mould
 
 ## member of
-- Husker Du
-
-
+- Hüsker Dü
 
 ## lists
 **"Sunshine Rock" (2019) — AOTY Must Hear 2010s** : #104, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/

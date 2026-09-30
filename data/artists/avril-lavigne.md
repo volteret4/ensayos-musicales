@@ -2,17 +2,20 @@
 
 ## genres
 - Alt Rock
+- Emo
 - Pop
 - Pop Punk
 - Punk Influenced Pop music
+- Rock
 
 ## labels
 - Arista
+- Arista Records
 - Nettwerk
 
 ## albums
 **Let Go (2002)** : This debut album was a massive success, reaching number one in numerous countries and making Avril Lavigne the youngest female solo performer at 17 years old to have a number one album in the UK. Globally, it sold over 16 million records, with 7 million sales in the US alone. "That record was a monster, hitting number one in a bunch of countries. And it made her the youngest female solo performer to have a number one album in the UK." ← https://www.youtube.com/watch?v=11UsTJQyQds ← avril-lavigne ← avril-lavigne
-**Six Studio Albums (Present)** : Avril Lavigne has released a total of six studio albums, continuing to produce millions-selling records throughout her career in the 2000s and beyond. "She's now up to six studio albums and acts who list her as an influence include Paramore, Fifi Dopson and Sky Sweetenham." ← https://www.youtube.com/watch?v=11UsTJQyQds ← avril-lavigne ← avril-lavigne
+**Let Go (2002)** : This album "blew up" months after Pink's "Missundaztood" dropped in 2001. Avril Lavigne, signed by L.A. Reed while Pink was working on her second album, became a symbol of teen music moving in a more rock-oriented direction, with Pink effectively having "opened up the market for Avril." "And months after Miss Undistude dropped, Lavigne's album Let Go blew up." ← Hit Parade Music History and Music Trivia > Raise Your Glass Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f7364fe6d21276e441d
 
 ## songs
 **Girlfriend (2007)** : This song became a number one single in the US, contributing to Avril Lavigne's string of million-selling records. "She had a string of millions selling records in the Outs, including a number one single in the US with girlfriend." ← https://www.youtube.com/watch?v=11UsTJQyQds ← avril-lavigne ← avril-lavigne
@@ -39,8 +42,7 @@
 **Marriage to Derek Whibley** : Avril Lavigne was married to Sum 41 frontman Derek Whibley, and their relationship served as inspiration for several songs on Sum 41's "Underclass Hero" album. "including several that he admits being about his relationship with Avril Lavigne, whom he was married." ← https://www.youtube.com/watch?v=puFgo2ft7hQ ← avril-lavigne
 **Part of Post-Britney Spears Wave** : Avril Lavigne emerged as one of the solo teen pop artists following the trail blazed by Britney Spears, representing a new generation in the genre. "después viene de Abril Lavigne, después empiezan a venir todas poca a poca." ← Music Radar Clan > Poniendo a Britney Spears en su lugar | https://www.youtube.com/watch?v=ad2agh7IXH8&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← avril-lavigne ← avril-lavigne
 **Path to Record Deals** : Her continuous performing, including singing covers at a Chapters bookstore in Kingston, led to acquiring a manager. This manager began sending VHS tapes of her performances to record labels, a common practice at the time. "That led to getting a manager who started shopping VHS tapes to her record labels." ← https://www.youtube.com/watch?v=11UsTJQyQds ← avril-lavigne ← avril-lavigne
-
-
+**Symbol of Rock-Oriented Teen Music** : Avril Lavigne symbolized the shift in teen music toward a more rock-oriented direction in 2002-2003, as the "Britney and Backstreet Boys' style teen pop was on the Wayne." She was signed by L.A. Reed, the president of LaFace Records, while Pink was working on her second album, "Missundaztood." "Avril Lavigne, whom we discussed in our pop punk and emo episode of Hip-Head. Funnily enough, LA Reed had signed Lavigne while Pink was working on her second album." ← Hit Parade Music History and Music Trivia > Raise Your Glass Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f7364fe6d21276e441d
 
 ## awards
 **Premios Oye!** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q7240451

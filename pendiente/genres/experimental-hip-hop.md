@@ -9,7 +9,6 @@
 - Kanye West
 - Kendrick Lamar
 - MC Paul Barman
-- MF DOOM
 - MF Doom
 - Run the Jewels
 

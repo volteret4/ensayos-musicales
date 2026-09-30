@@ -1,6 +1,7 @@
 # artist - Fiona Apple
 
 ## genres
+- Alternative Rock
 - Classical
 - Jazz
 - Pop
@@ -13,8 +14,11 @@
 - Piano
 
 ## albums
-**Tidal (Year Not Specified)** : Fiona Apple's debut album, "Tidal," was released after she secured a major label deal by the age of 20. The album included a significant video hit that contributed to her early recognition and success. "Her first album was called Title, and it came with this big video hit." ← https://www.youtube.com/watch?v=dJiSZ4X0F2g ← fiona-apple
-**When the pawn hits the conflict, she thinks like a king, what he knows throws the blows when he goes to the fight, and he'll win the whole thing for he enters the ring. There's no body batter when your mind is your might. So when you go solo, you hold your own hand and remember that depth is the greatest heights. And if you know where you stand, then you know where to land. And if you won't fall, it won't matter because you'll know that you're right. (1999) – Longest Charting Album Title** : This 1999 album, Fiona Apple's second, holds the record for the longest title of an album that actually made the charts. Its 90-word, 466-character title (including spaces) was inspired by a poem Apple wrote after receiving a negative review of her music. "Its name was inspired by a poem that she wrote after reading a bad review of her music. That album is called. When the pawn hits the conflict, she thinks like a king, what he knows throws the blows when he goes to the fight, and he'll win the whole thing for he enters the ring. There's no body batter when your mind is your might. So when you go solo, you hold your own hand and remember that depth is the greatest heights. And if you know where you stand, then you know where to land. And if you won't fall, it won't matter because you'll know that you're right. That's long, 90 words." ← https://www.youtube.com/watch?v=T1XSJIm0Nh4 ← fiona-apple
+**Tidal** : Fiona Apple's debut album, "Tidal," was released after she secured a major label deal by the age of 20. The album included a significant video hit that contributed to her early recognition and success. "Her first album was called Title, and it came with this big video hit." ← https://www.youtube.com/watch?v=dJiSZ4X0F2g ← fiona-apple
+**When the pawn hits the conflict, she thinks like a king, what he knows throws the blows when he goes to the fight, and he'll win the whole thing for he enters the ring. There's no body batter when your mind is your might. So when you go solo, you hold your own hand and remember that depth is the greatest heights. And if you know where you stand, then you know where to land. And if you won't fall, it won't matter because you'll know that you're right. (1999)** : This 1999 album, Fiona Apple's second, holds the record for the longest title of an album that actually made the charts. Its 90-word, 466-character title (including spaces) was inspired by a poem Apple wrote after receiving a negative review of her music. "Its name was inspired by a poem that she wrote after reading a bad review of her music. That album is called. When the pawn hits the conflict, she thinks like a king, what he knows throws the blows when he goes to the fight, and he'll win the whole thing for he enters the ring. There's no body batter when your mind is your might. So when you go solo, you hold your own hand and remember that depth is the greatest heights. And if you know where you stand, then you know where to land. And if you won't fall, it won't matter because you'll know that you're right. That's long, 90 words." ← https://www.youtube.com/watch?v=T1XSJIm0Nh4 ← fiona-apple
+
+## songs
+**I Want You (Not dated)** : Fiona Apple performed a brooding lust anthem cover of Elvis Costello's song "I Want You" on stage at a VH1 live event. Costello himself joined her on stage during this performance, demonstrating the song's enduring appeal and influence on other artists. "And even joined Fiona Apple on stage at a VH1 live event for Apple's cover of Costello's Brooding Lust Anthem I Want You." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
 
 ## curiosities
 **Court Watch PG Volunteer** : She volunteers for an organization called Court Watch PG, which monitors bail hearings and holds individuals within the judicial system accountable. "She's also a volunteer for an organization called Court Watch PG, which keeps tabs on bail hearings and holds people in the judicial system accountable." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← fiona-apple ← fiona-apple
@@ -23,8 +27,6 @@
 **Major Label Deal through Unconventional Means** : Fiona Apple secured her major label deal with Sony Music by the age of 20 through an unusual path: she passed a demo cassette to the babysitter of a music publicist, who then forwarded it to the label. This unconventional method underscores the raw talent that caught the industry's attention. "She started making demo recordings and eventually passed a cassette to the babysitter of a music publicist. That publicist then passed it on to Sony Music, and by the time Fiona was 20, she had a major label deal." ← https://www.youtube.com/watch?v=dJiSZ4X0F2g ← fiona-apple
 **Philanthropic Contributions** : Fiona Apple has donated substantial sums of money to an organization that assists refugees with various needs, from basic necessities to legal services. "But beyond that, she has donated substantial sums of money to an organization that assists refugees with everything from basic necessities to legal services." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← fiona-apple ← fiona-apple
 **Recipient of Blood Love Letter** : Singer Fiona Apple was the recipient of a love letter written in blood by Dave Navarro of Jane's Addiction. "Once wrote a love letter to singer Fiona Apple in his own blood." ← https://www.youtube.com/watch?v=72Lei7uug8c ← fiona-apple
-
-
 
 ## awards
 **Grammy Award for Best New Artist (1998)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643

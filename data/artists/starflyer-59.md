@@ -1,15 +1,13 @@
 # artist - Starflyer 59
 
 ## genres
-- Christian alternative rock (implied by label and context)
+- Christian alternative rock
 
 ## labels
 - Tooth and Nail
 
 ## curiosities
 **Tooth and Nail Artist** : Starflyer 59 is named as an exciting band signed to Tooth and Nail. "Star Flyer 59." ← https://www.youtube.com/watch?v=6cbL0zLQeIs ← starflyer-59 ← starflyer-59
-
-
 
 ## lists
 **"Starflyer 59" (1995) — Pitchfork: The 50 Best Shoegaze Albums of All Time** : #41. ← musicbrainz | https://beta.musicbrainz.org/series/cd0eaf20-0895-4745-aefe-2c5e00084827

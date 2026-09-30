@@ -1,14 +1,13 @@
 # artist - Bing Crosby
 
 ## genres
-- Big Band (as employee singer)
-- Pop (as solo artist)
+- Big Band
+- Pop
 
 ## concerts
 - **Bing Crosby Christmas Special (Late 1977) - Duet Offer** : Bing Crosby hosted a Christmas special recorded in London in late 1977 for broadcast in both the US and UK. David Bowie appeared on the special to promote "Heroes," but the TV producers also asked him to sing a holiday duet of "The Little Drummer Boy" with Crosby, which Bowie initially balked at. "In the closing weeks of 1977, Boey appeared on a Bing Crosby Christmas special recorded in London for broadcast in both the US and the UK."
 
 ## songs
-**"Song from 1949" (covered)** : Bing Crosby covered a hit song from 1949, originally written by Carl Sigmund and Herb Madison and recorded by Guy Lombardo and Canadians in 1950. The song's popularity led to multiple covers, including this one by Crosby. "became such a big hit that it was covered by Bing Crosby in Doris Day." ← https://www.youtube.com/watch?v=zNIVqKqAlnk ← bing-crosby
 **I'll Be Home for Christmas (1943)** : This song was a significant hit for Bing Crosby, written by Book Ram. It became a standard, though its origins involved a controversy and lawsuit where Ram had to sue to get credited as a co-writer. "VAM's first big success as a songwriter was Al Behon for Christmas, which had been a hit for Bing Crosby, and would later become a standard." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
 **Peace on Earth / Little Drummer Boy** : This duet with David Bowie, featuring a new "Peace on Earth" section, became the highlight of a television special. The special was poignantly broadcast just weeks after Bing Crosby's death at age 74, and the song was later released as a single, becoming a perennial holiday standard. "The new duet of Boey and Bing, Peace on Earth slash Little Drummer Boy, turned out to be the highlight of the special, which poignantly was broadcast just weeks after Bing Crosby died at age 74." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 1 | https://shows.acast.com/hit-parade/episodes/696aa42a4796fcbb571adba7
 **White Christmas (1942)** : This song is highlighted as a benchmark for successful, lasting original Christmas songs. Released in 1942, its success was significantly bolstered by its inclusion in the movie "Holiday Inn," setting a high standard that few other Christmas songs have managed to approach. "Few are able to even come close to the success of Bing Crossby's White Christmas, which was released in 1942. It was also helped along by being in a movie holiday in." ← For the Record - The 70s > Ep. 52 - 70s Christmas Music | https://www.ftr70.com/
@@ -25,8 +24,6 @@
 **Pioneer of Magnetic Tape Recording in Radio** : Bing Crosby, a major radio star, was instrumental in popularizing magnetic tape recording in the US. Hating to perform two live shows daily for different time zones, his musical director, Merton Mackenzie, introduced him to Jack Mullen's German Magnetophone machines in 1947. Impressed by the sound quality, Crosby invested $50,000 (over half a million today) in Ampex, a recording technology company, and hired Mullen as his chief engineer. This allowed him to pre-record his shows, freeing him to pursue other activities like golfing, and ultimately set the standard for audio and video recording on tape. "This technology meant that he could record his East Coast performance, leave the studio, and then hit the links and let the technicians with their tape machines take care of the West Coast feed." ← https://www.youtube.com/watch?v=NAroxFbYkRw ← bing-crosby
 **Transition from Big Band Singer to Solo Star (1942)** : Bing Crosby, a former employee singer in a big band, became a major solo radio star due to a loophole in the American Federation of Musicians strike of 1942. As singers were not considered "musicians" by the union, they were exempt from the strike and free to launch independent careers, a new phenomenon at the time. "Bing Crosby had once been a big band employee, but was set free as a result of the musician strike in 1942." ← https://www.youtube.com/watch?v=V7WjNR1ujhk ← bing-crosby
 **Vocal Style Avoiding Malisma** : Bing Crosby is mentioned as a prominent singer from the early 20th century who exemplified the vocal style of hitting notes "dead arm," singing one note per syllable without ornamentation, a widely accepted standard of good singing in that era. "If you listen to any of the great voices of the first part of the 20th century, Sinatra, Bing Crosby, Tony Bennett, they will almost without exception hit the note dead arm, one note per syllable." ← Episode 32： ＂I Got A Woman＂ by Ray Charles | https://www.youtube.com/watch?v=0oeI9f2x_fo
-
-
 
 ## awards
 **World Golf Hall of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q258851

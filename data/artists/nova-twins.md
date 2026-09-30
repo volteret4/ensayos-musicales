@@ -12,7 +12,5 @@
 **Mixed Heritage of Members** : Guitarist Amy Love is of Nigerian and Iranian descent, while bassist Georgia South has parents who are Jamaican and Australian, contributing to their diverse backgrounds. "guitarist Amy Love, who is of Nigerian and Iranian descent, and bass player George South has parents who are Jamaican and Australian." ← https://www.youtube.com/watch?v=_1NNvxgx8uA ← nova-twins ← nova-twins
 **Self-Described Genre** : The Nova Twins categorize their distinctive musical style as "urban punk." "and they call what they do, urban punk." ← https://www.youtube.com/watch?v=_1NNvxgx8uA ← nova-twins ← nova-twins
 
-
-
 ## lists
 **"Supernova" (2022) — Kerrang! The 50 Best Albums of 2022** : #1. ← musicbrainz | https://beta.musicbrainz.org/series/bba4a66d-575e-4b6e-8447-233ad23a8f51

@@ -8,5 +8,5 @@
 **Representative Bands** : The most representative bands of the Kraut Rock genre include Neu!, Kraftwerk, Faust, Harmonia, Ash Ra Tempel, Popol Vuh, and Amon Düül. "Sus bandas más representativas son Noy, Graffwood, Faust, Daniel Lindrim, Plaster, Ash Rattimpell, Popol Buh, Amondul y Armonia." ← CAN ｜ La Banda que (posiblemente) Inspiró a tu banda preferida | https://www.youtube.com/watch?v=4qHiw2wHWAI
 
 ## artists
-- Can
+- CAN
 

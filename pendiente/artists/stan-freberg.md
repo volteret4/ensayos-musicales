@@ -5,7 +5,7 @@
 - Novelty
 
 ## songs
-**Shaboon (1954)** : A top 20 hit, "Shaboon" showcased Freberg's silly musical deconstructions of popular genres, in this case, Doo-wop. It further solidified his reputation for novelty records that blended satire with catchy melodies. "Or his silly musical deconstructions of genres like Duop on Shaboon, a top 20 hit in 1954." ← Hit Parade Music History and Music Trivia > I’d Like to Teach the World to Buy Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cc5
+**Sh-Boom (1954)** : A top 20 hit, "Shaboon" showcased Freberg's silly musical deconstructions of popular genres, in this case, Doo-wop. It further solidified his reputation for novelty records that blended satire with catchy melodies. "Or his silly musical deconstructions of genres like Duop on Shaboon, a top 20 hit in 1954." ← Hit Parade Music History and Music Trivia > I’d Like to Teach the World to Buy Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cc5
 **St. George and the Dragonet (1953)** : This number one smash comedy record was a groundbreaking parody of the popular "Dragnet" radio dramas. It exemplified Freberg's distinctive novelty style, combining spoken word elements with melodic passages and farcical humor. "His singles were of the novelty variety, sometimes spoken word, sometimes melodic, virtually always farcical. But he was an actual hitmaker like his 1953 number one smash comedy record, St. George and the Dragonet, a parody of Dragonet radio dramas." ← Hit Parade Music History and Music Trivia > I’d Like to Teach the World to Buy Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cc5
 
 ## curiosities
@@ -15,3 +15,5 @@
 **Pioneer of Humorous Advertising** : Freberg is widely credited for bringing humor and satire to the advertising industry. His innovative approach earned him numerous Cleo awards from his peers, revolutionizing the way products were marketed. "He is widely credited for bringing humor and satire to advertising and he won numerous Cleo awards from his ad industry peers." ← Hit Parade Music History and Music Trivia > I’d Like to Teach the World to Buy Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cc5
 **Recording Artist Career First** : Freberg's career as a recording artist, characterized by novelty hits, actually preceded his prominent work in advertising. This established him as a legitimate hitmaker before he became renowned for his commercial pitchmanship. "But Stan Freiberg's career as a recording artist came first." ← Hit Parade Music History and Music Trivia > I’d Like to Teach the World to Buy Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cc5
 
+## charts
+**"St. George and the Dragonet" — Billboard Year-End Hot 100** : #15, 1953. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

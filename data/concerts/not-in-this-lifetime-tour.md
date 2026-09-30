@@ -5,5 +5,4 @@
 
 ## artists
 - Guns N' Roses
-- Guns n' Roses
 

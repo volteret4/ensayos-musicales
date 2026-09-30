@@ -2,8 +2,8 @@
 
 ## curiosities
 **Success of Latin Music (2010s)** : Bad Bunny was mentioned as an example of the significant success of Latin music artists during the 2010s. His emergence marked a period where Latin music "busted out all over" and became a global force. "Think of the success of artists like Bad Bunny." ← https://www.youtube.com/watch?v=mNqqLDpUuZY ← bad-bunny ← bad-bunny
-
-
+**Success of Latin Music (2010s)** : Bad Bunny was mentioned as an example of the significant success of Latin music artists during the 2010s. His emergence marked a period where Latin music "busted out all over" and became a global force. "Think of the success of artists like Bad Bunny." ← https://www.youtube.com/watch?v=mNqqLDpUuZY ← bad-bunny
+**Shared Songwriting Credit on "I Like It" (2018)** : Bad Bunny received co-writing credit for his vocal segments on Cardi B's 2018 number one hit "I Like It," sharing recognition with the original songwriters of Pete Rodriguez's "I Like It Like That," Cardi B, J Balvin, and other studio collaborators. "So did Cardi B. And Bad Bunny and Jay Balvin who co-wrote their vocal segments." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
 
 ## awards
 **Premios Odeón** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q6085006

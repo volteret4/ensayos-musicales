@@ -5,7 +5,7 @@
 - Powerpop
 
 ## albums
-**Magnets** : The front cover of this album by The Vapors features early artwork by Martin Hanford, the creator of the *Where's Waldo* books, and is said to contain a hidden assassin. "track down an album called Magnets by the Vapers. See if you can find the hidden assassin on the front cover." ← https://www.youtube.com/watch?v=72Lei7uug8c ← the-vapors
+**Magnets (1981)** : The front cover of this album by The Vapors features early artwork by Martin Hanford, the creator of the *Where's Waldo* books, and is said to contain a hidden assassin. "track down an album called Magnets by the Vapers. See if you can find the hidden assassin on the front cover." ← https://www.youtube.com/watch?v=72Lei7uug8c ← the-vapors
 **New Clear Days (1980)** : The album released in spring 1980 that contained the song "Turning Japanese." "It arrived in the spring of 1980 on an album entitled New Clear Days." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M ← the-vapors
 
 ## songs
@@ -14,4 +14,3 @@
 ## curiosities
 **New Wave Powerpop** : The Vapors are mentioned as a band contributing to the new wave iteration of Powerpop. Their sound, like other contemporaries, demonstrated how Powerpop's core elements were adopted and adapted within the burgeoning alternative rock scene. "We can probably include the jam, the smiths, XTC, squeeze, and the vapors." ← https://www.youtube.com/watch?v=hstJ8M2laho ← the-vapors ← the-vapors
 **Post-Breakup Reformation** : The Vapors broke up in 1982 but reformed in 2016 and were still playing gigs as of the transcript's date, without achieving any further significant hits. "Well they broke up in 1982, but reformed in 2016 and are still playing gigs." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M ← the-vapors
-

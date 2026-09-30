@@ -10,11 +10,10 @@
 
 ## artists
 - David Bowie
-- Grim Theater
 - Killing Joke
 - Long Distance Calling
 - Marilyn Manson
 - Nine Inch Nails
 - Swans
 - The Strokes
-
+- Trent Reznor

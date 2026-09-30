@@ -1,11 +1,10 @@
 # artist - The Farriss Brothers
 
 ## members
-- Additional Farriss brothers
-- Andrew Ferris
+- Andrew Farriss
 - Gary Beers
-- Kirk Penn-Gillip
-- Michael Hutchins
+- Kirk Pengilly
+- Michael Hutchence
 
 ## instruments
 - Bass
@@ -15,8 +14,3 @@
 ## curiosities
 **Early Touring and Subsistence** : After high school, the band toured 5,000 kilometers across Australia in a beat-up panel van. When gig earnings were insufficient, they supplemented their income by selling "a little bit of dope" from the van. "Straight of a high school, they used a beat up panel band to hold their gear 5,000 kilometers across Australia." ← https://www.youtube.com/watch?v=23OgreyK66o ← the-farriss-brothers
 **First Gig (August 16, 1977)** : Their first performance took place on August 16, 1977, coincidentally the same day Elvis Presley died. "Their first gig was on August 16, 1977." ← https://www.youtube.com/watch?v=23OgreyK66o ← the-farriss-brothers
-
-
-
-## lists
-**"Invitation to Her's" (2018) — AOTY Must Hear 2010s** : #150, 75 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/

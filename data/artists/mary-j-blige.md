@@ -1,9 +1,12 @@
 # artist - Mary J. Blige
 
+## member of
+- Aretha Franklin
+
 ## curiosities
 **Collaboration (2000s)** : Sinead O'Connor collaborated with Mary J. Blige as part of her ongoing activism in the 2000s, raising money for AIDS research and supporting people living with AIDS. "This is the kind of work she continued with in the 2000s, work with Dolly Parton, Mass of Attack, Mary J. Blige, a Golden Globe nomination for a song in a Glenn Close film." ← https://www.youtube.com/watch?v=afuqjWl1JyI ← mary-j-blige ← mary-j-blige
-
-
+**Collaboration (2000s)** : Sinead O'Connor collaborated with Mary J. Blige as part of her ongoing activism in the 2000s, raising money for AIDS research and supporting people living with AIDS. "This is the kind of work she continued with in the 2000s, work with Dolly Parton, Mass of Attack, Mary J. Blige, a Golden Globe nomination for a song in a Glenn Close film." ← https://www.youtube.com/watch?v=afuqjWl1JyI ← mary-j-blige
+**21st Century Duet Partner (2000s)** : Mary J. Blige was one of the artists with whom Aretha Franklin recorded duets in the 21st century, showing Franklin's continued engagement with contemporary music. "recording duets with everyone from Mary J. Blasch to John Legend." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
 
 ## awards
 **Academy Award for Best Original Song (2018) — Mighty River** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q112243

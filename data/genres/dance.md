@@ -26,4 +26,8 @@
 - Stevie Wonder
 - The Chemical Brothers
 - The Prodigy
-
+- Tina Turner
+- Robin S
+- P!nk
+- C+C Music Factory
+- The Pointer Sisters

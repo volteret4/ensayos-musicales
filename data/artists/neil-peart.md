@@ -3,10 +3,6 @@
 ## member of
 - Rush
 
-## members
-- Hush
-- Rush
-
 ## genres
 - Big Band Music
 
@@ -42,10 +38,5 @@
 **Reflections on Drumming as an Athlete** : In December 2015, Neil Peart authored an article for *Drumhead* magazine titled "Neil Peart Reflects on 50 Years of Hitting Things with Sticks," where he discussed the physically demanding nature of his craft. He acknowledged drumming as largely an "athletic undertaking" and recognized that, like all athletes, there comes a time to step away from the game. He preferred to retire rather than face the decline described in Rush's song "Losing It" from the 1982 *Signals* album. "The reality is that my style of drumming is largely an athletic undertaking." ← https://www.youtube.com/watch?v=B0CZ1deEgic ← neil-peart ← neil-peart
 **Rush Audition and Unique Appearance** : In 1974, Neil Peart auditioned for Rush as one of five drummers, replacing founding member John Rutsey who was leaving due to health issues and a musical mismatch. At the audition, Alex Lifeson and Geddy Lee initially found Neil's appearance "goofy" because he had short hair during a time when long hair was fashionable. He also brought an unusual Slingerland double bass drum kit, notable for its unusually small bass drums. "Alex and Gettie thought Neil looked goofy." ← https://www.youtube.com/watch?v=B0CZ1deEgic ← neil-peart ← neil-peart
 
-
-
 ## awards
 **Officer of the Order of Canada (1996)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q15278116
-
-## charts
-**"Should've Never Let You Go" — Billboard Year-End Hot 100** : #76, 1980. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

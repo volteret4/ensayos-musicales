@@ -7,8 +7,9 @@
 ## curiosities
 **Champion of Body Positivity** : Lizzo, a successful singer and rapper, is credited with making significant contributions to the body positivity movement, arguably more than anyone else in recent decades. "Lizzo, a successful singer and rapper who has probably done more for body positivity than anyone else in the last couple of decades." ← https://www.youtube.com/watch?v=11UsTJQyQds ← lizzo ← lizzo
 **Music for Confidence** : Lizzo's music was listed among artists that make people feel the most confident, alongside Taylor Swift, Adele, Beyoncé, and Lady Gaga. "The music that makes people feel the most confident, Lizzo, Taylor Swift, Adele, Beyoncé, and Lady Gaga." ← https://www.youtube.com/watch?v=KtdIMNoHqA8 ← lizzo ← lizzo
-
-
+**Champion of Body Positivity** : Lizzo, a successful singer and rapper, is credited with making significant contributions to the body positivity movement, arguably more than anyone else in recent decades. "Lizzo, a successful singer and rapper who has probably done more for body positivity than anyone else in the last couple of decades." ← https://www.youtube.com/watch?v=11UsTJQyQds ← lizzo
+**Music for Confidence** : Lizzo's music was listed among artists that make people feel the most confident, alongside Taylor Swift, Adele, Beyoncé, and Lady Gaga. "The music that makes people feel the most confident, Lizzo, Taylor Swift, Adele, Beyoncé, and Lady Gaga." ← https://www.youtube.com/watch?v=KtdIMNoHqA8 ← lizzo
+**Not Consistently Imperial** : Lizzo has topped the Hot 100 more than once but has followed big hits with "strikeout singles," indicating that while she achieves major success, she does not maintain a consistent imperial phase where hits are guaranteed. "Lizzo has topped the Hot 100 more than once, but she has followed big hits with strikeout singles." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f03154465cd600c5379
 
 ## awards
 **Soul Train Music Award for Best R&B/Soul or Rap Music Video (2019) — Cuz I Love You** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q7564367

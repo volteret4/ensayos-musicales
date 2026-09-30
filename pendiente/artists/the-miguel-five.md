@@ -1,8 +1,5 @@
 # artist - The Miguel Five
 
-## members
-- Charlie Watts' uncle
-
 ## genres
 - R&B
 
@@ -11,4 +8,3 @@
 
 ## curiosities
 **Charlie Watts Connection** : A member of The Miguel Five was the uncle of Charlie Watts, who occasionally filled in on drums for the group before he joined The Rolling Stones. "one of them was Charlie Watson's uncle, and Watson occasionally filled in on drums for them before joining the Rolling Stones." ← Episode 114： ＂My Boy Lollipop＂ by Millie | https://www.youtube.com/watch?v=kf-DtqoOsRI
-

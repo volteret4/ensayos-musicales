@@ -12,8 +12,6 @@
 **Edgefest Performer** : Finger Eleven was one of the Canadian acts featured in the predominantly Canadian lineups of Edgefest shows in the late 1990s. "Arlady Pieces, I'm other Earth, finger-11, gobslone, Matt Good." ← https://www.youtube.com/watch?v=U2kYleeMnl8 ← finger-eleven ← finger-eleven
 **Featured in "In Their Own Words" Series** : Finger Eleven was featured in the "In Their Own Words" series, dedicated to capturing bands' histories through their members' perspectives. "Finger Leaven, USS Arkels..." ← https://www.youtube.com/watch?v=bI6TTA-fn7c ← finger-eleven
 
-
-
 ## awards
 **CASBY Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5008850
 **Juno Award for Breakthrough Group of the Year (1996)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q6314052

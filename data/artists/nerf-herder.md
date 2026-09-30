@@ -2,7 +2,6 @@
 
 ## genres
 - Alt Rock
-- Alt-Rock
 - Geek Rock
 - Nerd Rock
 
@@ -17,18 +16,8 @@
 
 ## curiosities
 **Band Name Origin (Star Wars)** : The band's name, "Nerf Herder," originates from the Star Wars film "The Empire Strikes Back." In the movie, Princess Leia refers to Han Solo as a "stuck up, half-witted, scruffy-looking Nerf Herder," with a "Nerf" being a buffalo-like creature and its tenders implied to be unintelligent. "In the Star Wars film The Empire Strikes Back, Princess Leia calls Han Solo, and I quote, a stuck up, half-witted, scruffy-looking Nerf Herder." ← https://www.youtube.com/watch?v=8lQv8eMJ868 ← nerf-herder ← nerf-herder
-**Name Origin from Star Wars** : The band's name, "Nerf Herder," is a direct quote from the Star Wars film "The Empire Strikes Back," where Princess Leia refers to Han Solo as "a stuck-up, half-witted, scruffy-looking Nerf Herder." In Star Wars lore, "Nerf" are buffalo-like creatures and their tenders are considered smart, making the name a strong indicator of their geek identity. "Then the Star Wars film The Empire Strikes Back, Princess Leia calls Han Solo, and I quote, a stuck-up, half-witted, scruffy-looking Nerf Herder." ← https://www.youtube.com/watch?v=h6snk0m4200 ← nerf-herder
+**Band Name Origin (Star Wars)** : The band's name, "Nerf Herder," is a direct quote from the Star Wars film "The Empire Strikes Back," where Princess Leia refers to Han Solo as "a stuck-up, half-witted, scruffy-looking Nerf Herder." In Star Wars lore, "Nerf" are buffalo-like creatures and their tenders are considered smart, making the name a strong indicator of their geek identity. "Then the Star Wars film The Empire Strikes Back, Princess Leia calls Han Solo, and I quote, a stuck-up, half-witted, scruffy-looking Nerf Herder." ← https://www.youtube.com/watch?v=h6snk0m4200 ← nerf-herder
 **Pioneering Geek Rock Terminology** : Nerf Herder may have been the first band to actually describe what they do as Geek Rock or Nerd Rock, cementing their place as originators in defining the genre. "In fact, they may be the first band to actually describe what they do as Geek Rock or Nerd Rock." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← nerf-herder
 **Self-Identified Geek Rock Band** : Nerf Herder is believed to be the first band on the planet to describe themselves as a "Geek Rock" group, solidifying their identity within this subgenre. "Now, as far as anybody can tell, the first band on the planet described themselves as a Geek Rock group was Nerf Herder." ← https://www.youtube.com/watch?v=h6snk0m4200 ← nerf-herder
 **Self-Proclaimed "Geek Rock" Originators** : Nerf Herder, a four-piece band from Santa Barbara, California, is recognized as the first band on the planet to explicitly describe themselves as a "Geek Rock" group. "the first band on the planet described themselves as a Geek Rock group was Nerf Herder." ← https://www.youtube.com/watch?v=8lQv8eMJ868 ← nerf-herder ← nerf-herder
 **Star Wars Naming Convention** : The band's name, "Nerf Herder," itself is a direct Star Wars reference, which explicitly "screams Nerd" and aligns perfectly with the Geek Rock ethos of celebrating pop culture and technology. "The very name Nerf Herder screams Nerd because that's a Star Wars reference." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← nerf-herder
-
-
-
-## charts
-**"Slide" — Billboard Year-End Hot 100** : #99, 2020. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-
-## lists
-**"H.E.R." (2017) — Grammy Award: Album of the Year nominees** : #2019. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"I Used to Know Her" (2019) — Grammy Award: Album of the Year nominees** : #2020. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Back of My Mind" (2021) — Grammy Award: Album of the Year nominees** : #2022. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9

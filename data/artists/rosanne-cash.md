@@ -3,8 +3,6 @@
 ## curiosities
 **Musical Offspring** : Rosanne Cash is noted as the daughter of Johnny Cash, following in her father's musical footsteps. "Well, Johnny Cash and daughter Rosanne." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← rosanne-cash
 
-
-
 ## awards
 **Grammy Award for Best American Roots Performance (2015) — A Feather's Not a Bird** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q18153327
 **Grammy Award for Best American Roots Song (2015) — A Feather's Not a Bird** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q15652429

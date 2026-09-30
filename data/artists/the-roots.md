@@ -4,8 +4,6 @@
 **Influence on Zero** : The Roots were among the varied musical interests that influenced the sound of the band Zero, the precursor to Linkin Park. "Allison Chains, the Roots, the Prodigy, you mix it all together and it all came out like this." ← https://www.youtube.com/watch?v=cUqdY_T7luM ← the-roots
 **MC Paul Barman Collaboration** : The Roots collaborated on MC Paul Barman's album "Chamberland." "en el que colaborado de Roods." ← Music Radar Clan > LANZAMIENTOS JUNIO 2018 | https://www.youtube.com/watch?v=AvdFC5Q0nKk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-roots ← the-roots
 
-
-
 ## awards
 **Grammy Award for Best Rap Album (1999) — Things Fall Apart** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1367988
 **Grammy Award for Best Rap Performance by a Duo or Group (1999)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q4809486

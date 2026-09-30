@@ -8,5 +8,4 @@
 ## artists
 - Blink 182
 - Green Day
-- blink-182
 

@@ -8,4 +8,4 @@
 - Captain Kick and the Cowboy Ramblers
 - Mumford & Sons
 - Ozark Mountain Daredevils
-
+- Sting

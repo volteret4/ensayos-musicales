@@ -1,11 +1,11 @@
 # artist - Jack White
 
 ## member of
+- The Upholsterers
 - The White Stripes
 
 ## members
-- Jack Gillis (birth name)
-- John Anson and Gilles (birth name)
+- Jack Gillis
 
 ## genres
 - (Not mentioned)
@@ -13,9 +13,8 @@
 
 ## labels
 - (Not mentioned)
-- Beggars Banquet Records (via Beggars Group)
+- Beggars Banquet Records
 - Third Man Records
-- Third Man Records (founder)
 
 ## concerts
 - (Not mentioned)
@@ -23,32 +22,29 @@
 
 ## instruments
 - (Not mentioned)
-- All instruments (on "Another Way to Die")
+- All instruments
 - Drums
 - Guami pedal
 - Guitar
 - Red Airline Rezo Glass
-- drums (initially wanted to play)
-- guitar
 
 ## albums
-**Gordon House Reach (March 23)** : The new album from Jack White, for which an advance track was available and described as amazing. The artist's entire body of work is considered incredible. "tenemos el adelanto una pasada, el sistema pretodo lo que hace es increíble." ← Music Radar Clan > Lanzamientos Marzo 2018 | https://www.youtube.com/watch?v=KoWlht2iA7o&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jack-white ← jack-white
-**Lazaretto (2014) – Featured Track** : An unspecified track from Jack White's 2014 album, "Lazaretto," was played in the discussion, highlighting his continued success as a post-2000 artist capable of filling large venues and achieving widespread distribution across platforms. "This is from 2014. And all you listen to me keep something gotten thrown down to the North. Let's air up a mountain. Quarantine on the aisle now. I'll shout it to a ghost and a way I can. Oh, yeah, I can't. Oh, yeah, I can't." ← https://www.youtube.com/watch?v=5Y6nHw5xx88 ← jack-white
-**Lazaretto (2014) – Solo Album Success** : Jack White's second solo album, Lazaretto, released in the spring of 2014, debuted at number one on the US album chart, selling 130,000 copies in its first week, with 40,000 of those being vinyl. This broke a 20-year-old vinyl sales record previously held by Pearl Jam's Vitalogy. "When he released Lazerato, his second solo album in the spring of 2014, it debuted at number one on the US album chart, selling 130,000 copies in its first week." ← https://www.youtube.com/watch?v=GES0Ms_kaCI ← jack-white
-**Lazaretto (2014) – Title Track Album** : This 2014 album features the title track, "Lazaretto." "Jack White, title track of his 2014 album, Lazareto." ← https://www.youtube.com/watch?v=Z7glrAoXtkA ← jack-white
-**Makeers of High Grade Suites (Mid-1990s) - The Upholsterers** : This album was recorded by Jack White (then Jack Gillis) and Brian Moldun, who billed themselves as The Upholsterers. It's believed to be from the mid-1990s and already showcased Jack's developing signature sound. "That record was called Makeers of High Grade Suites, and they build themselves, perhaps not surprisingly, as the Apulsterers." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← jack-white ← jack-white
-**Number One Records in 2010s** : Jack White was among the artists, including Blink-182, Green Day, Coldplay, Red Hot Chili Peppers, Slipknot, Queens of the Stone Age, Pearl Jam, Foo Fighters, U2, Linkin Park, Fall Out Boy, Evanescence, and David Bowie, who achieved number one records during the 2010s. This demonstrated the continued success of rock acts in an era where hip hop was a dominant cultural force. "Link wanted a two Green Day Coldplay Jack White, Red Hotch-Lie Pepper, Slipp-Nont, Queens of the Stone Age, Pearl Jam, Foo Fighters, U2, Link and Park Follow Boy, Evan Essence, Queens of the Stone Age, and Bowie all had number one records over the course of the decade." ← https://www.youtube.com/watch?v=HSvgRyGiOpE ← jack-white
-**Your Furniture was always dead, I was just afraid to tell you (Mid-1990s) - 7-inch Single** : An extremely rare 3-track, 7-inch vinyl single by The Upholsterers, with only about 100 copies produced in the mid-1990s. These singles were famously hidden inside couches and chairs that Jack and Brian were reupholstering, with only two copies found to date. "There were about 100 vinyl copies out there of a 3-track 7-inch called Your Furniture was always dead, I was just afraid to tell you." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← jack-white ← jack-white
+**Boarding House Reach (2018)** : The new album from Jack White, for which an advance track was available and described as amazing. The artist's entire body of work is considered incredible. "tenemos el adelanto una pasada, el sistema pretodo lo que hace es increíble." ← Music Radar Clan > Lanzamientos Marzo 2018 | https://www.youtube.com/watch?v=KoWlht2iA7o&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jack-white ← jack-white
+**Lazaretto (2014)** : An unspecified track from Jack White's 2014 album, "Lazaretto," was played in the discussion, highlighting his continued success as a post-2000 artist capable of filling large venues and achieving widespread distribution across platforms. "This is from 2014. And all you listen to me keep something gotten thrown down to the North. Let's air up a mountain. Quarantine on the aisle now. I'll shout it to a ghost and a way I can. Oh, yeah, I can't. Oh, yeah, I can't." ← https://www.youtube.com/watch?v=5Y6nHw5xx88 ← jack-white
+**Lazaretto (2014)** : Jack White's second solo album, Lazaretto, released in the spring of 2014, debuted at number one on the US album chart, selling 130,000 copies in its first week, with 40,000 of those being vinyl. This broke a 20-year-old vinyl sales record previously held by Pearl Jam's Vitalogy. "When he released Lazerato, his second solo album in the spring of 2014, it debuted at number one on the US album chart, selling 130,000 copies in its first week." ← https://www.youtube.com/watch?v=GES0Ms_kaCI ← jack-white
+**Lazaretto (2014)** : This 2014 album features the title track, "Lazaretto." "Jack White, title track of his 2014 album, Lazareto." ← https://www.youtube.com/watch?v=Z7glrAoXtkA ← jack-white
+**Makeers of High Grade Suites** : This album was recorded by Jack White (then Jack Gillis) and Brian Moldun, who billed themselves as The Upholsterers. It's believed to be from the mid-1990s and already showcased Jack's developing signature sound. "That record was called Makeers of High Grade Suites, and they build themselves, perhaps not surprisingly, as the Apulsterers." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← jack-white ← jack-white
+**Your Furniture was always dead, I was just afraid to tell you** : An extremely rare 3-track, 7-inch vinyl single by The Upholsterers, with only about 100 copies produced in the mid-1990s. These singles were famously hidden inside couches and chairs that Jack and Brian were reupholstering, with only two copies found to date. "There were about 100 vinyl copies out there of a 3-track 7-inch called Your Furniture was always dead, I was just afraid to tell you." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← jack-white ← jack-white
 
 ## songs
-**Another Way to Die (2008) – First Bond Duet** : Jack White co-performed "Another Way to Die" with Alicia Keys for the 2008 James Bond film "Quantum of Solace," marking the first duet in Bond theme history. White wrote the song, played all the instruments, and produced the track. The video was shot in Toronto while he was promoting his guitar documentary, "It Might Get Loud." The song was a massive success in the UK and Europe and charted top 15 in Canada, though it was not a significant hit in the US. "Jack wrote the song played all the instruments and produced everything. Keys supplied the vocals." ← https://www.youtube.com/watch?v=K0pgJ7XAlpo ← jack-white
-**Apple of My Eye (Mid-1990s)** : This song by The Upholsterers, featuring Jack White (then Jack Gillis) and Brian Moldun, already demonstrated what would become Jack's future signature sound. "This is called Apple of My Eye, and you could hear Jack's future signature sound coming out already." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← jack-white ← jack-white
+**Another Way to Die (2008)** : Jack White co-performed "Another Way to Die" with Alicia Keys for the 2008 James Bond film "Quantum of Solace," marking the first duet in Bond theme history. White wrote the song, played all the instruments, and produced the track. The video was shot in Toronto while he was promoting his guitar documentary, "It Might Get Loud." The song was a massive success in the UK and Europe and charted top 15 in Canada, though it was not a significant hit in the US. "Jack wrote the song played all the instruments and produced everything. Keys supplied the vocals." ← https://www.youtube.com/watch?v=K0pgJ7XAlpo ← jack-white
+**Apple of My Eye** : This song by The Upholsterers, featuring Jack White (then Jack Gillis) and Brian Moldun, already demonstrated what would become Jack's future signature sound. "This is called Apple of My Eye, and you could hear Jack's future signature sound coming out already." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← jack-white ← jack-white
 **Lazaretto (2014)** : This is the title track from Jack White's 2014 album, *Lazaretto*. "Jack White, title track of his 2014 album, Lazareto." ← https://www.youtube.com/watch?v=Z7glrAoXtkA ← jack-white
-**Lazaretto (2014) - Guitar Solos with Blue Notes** : The guitar solo and lines in the second half of Jack White's song "Lazaretto" are highlighted as a modern example of "blue notes" or "bent notes" in rock music. These notes are outside conventional piano scales and embody the "natural imperfections" that Pythagoras historically aimed to eliminate from music. "Check out the solo Jack White does in his song Lazerado, as well as the guitar lines in the second half of the song." ← https://www.youtube.com/watch?v=_Pi7JLwAeOI ← jack-white
-**Lazaretto (2014) – Title Track** : The title track from Jack White's 2014 album Lazaretto was played from its vinyl version, symbolizing his dedication to the format. "Jack White's and the title track from his 2014 album Lazerato on vinyl, of course." ← https://www.youtube.com/watch?v=GES0Ms_kaCI ← jack-white
-**Marinette Blues (Mid-1990s)** : This track is one of the three songs included on The Upholsterers' scarce 7-inch single, "Your Furniture was always dead, I was just afraid to tell you." "The songs on this single are Riot Block and Cell Number 9, Marinette Blues, and Shaken All Over." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← jack-white ← jack-white
-**Riot Block and Cell Number 9 (Mid-1990s)** : One of three tracks on The Upholsterers' ultra-rare 7-inch single, "Your Furniture was always dead, I was just afraid to tell you." "The songs on this single are Riot Block and Cell Number 9, Marinette Blues, and Shaken All Over." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← jack-white ← jack-white
-**Shaken All Over (Mid-1990s)** : This song is one of the three tracks on The Upholsterers' rare 7-inch single. It is a cover of the 1960 song by Johnny Kidd and the Pirates, which was also a hit for Chad Allan & The Expressions. "The songs on this single are Riot Block and Cell Number 9, Marinette Blues, and Shaken All Over. That last song is by Johnny Kid and the Pirates from 1960, but it would later be covered and turned into a hit by Chad Allen in the Expressions, the group that would later revolve into the guest who." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← jack-white ← jack-white
+**Lazaretto (2014)** : The guitar solo and lines in the second half of Jack White's song "Lazaretto" are highlighted as a modern example of "blue notes" or "bent notes" in rock music. These notes are outside conventional piano scales and embody the "natural imperfections" that Pythagoras historically aimed to eliminate from music. "Check out the solo Jack White does in his song Lazerado, as well as the guitar lines in the second half of the song." ← https://www.youtube.com/watch?v=_Pi7JLwAeOI ← jack-white
+**Lazaretto (2014)** : The title track from Jack White's 2014 album Lazaretto was played from its vinyl version, symbolizing his dedication to the format. "Jack White's and the title track from his 2014 album Lazerato on vinyl, of course." ← https://www.youtube.com/watch?v=GES0Ms_kaCI ← jack-white
+**Marinette Blues** : This track is one of the three songs included on The Upholsterers' scarce 7-inch single, "Your Furniture was always dead, I was just afraid to tell you." "The songs on this single are Riot Block and Cell Number 9, Marinette Blues, and Shaken All Over." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← jack-white ← jack-white
+**Riot Block and Cell Number 9** : One of three tracks on The Upholsterers' ultra-rare 7-inch single, "Your Furniture was always dead, I was just afraid to tell you." "The songs on this single are Riot Block and Cell Number 9, Marinette Blues, and Shaken All Over." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← jack-white ← jack-white
+**Shakin' All Over** : This song is one of the three tracks on The Upholsterers' rare 7-inch single. It is a cover of the 1960 song by Johnny Kidd and the Pirates, which was also a hit for Chad Allan & The Expressions. "The songs on this single are Riot Block and Cell Number 9, Marinette Blues, and Shaken All Over. That last song is by Johnny Kid and the Pirates from 1960, but it would later be covered and turned into a hit by Chad Allen in the Expressions, the group that would later revolve into the guest who." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← jack-white ← jack-white
 
 ## curiosities
 **2014 Tour Rider – "No Banana Tour" Policy** : Jack White's 2014 tour rider famously included a "no banana tour" policy, explicitly stating, "Seriously, we don't want to see bananas anywhere in the building." The reasons for this strict prohibition were not specified, leading to speculation that it might have been another type of promoter test. "Seriously, we don't want to see bananas anywhere in the building." ← https://www.youtube.com/watch?v=z2hvUDtBxho ← jack-white
@@ -89,8 +85,6 @@
 **Tireless Evangelist for Indie** : Jack White is recognized as a tireless advocate for the indie music world, demonstrating his commitment through his various projects and his independent venture, Third Man Records. "Another tireless evangelist for the indie world is Jack White." ← https://www.youtube.com/watch?v=Q4dEV1yn3OY ← jack-white ← jack-white
 **Ultra-Rare Vinyl** : The 7-inch single "Your Furniture was always dead, I was just afraid to tell you" by The Upholsterers is so rare, with only about 100 copies produced and two found, that most record collecting sites do not even assign a price to it, and audio is difficult to find online. "Only two of those 100 or so copies have been found so far. It is so rare that most record collecting sites won't even affix a price to it. I can't even find audio of it posted anywhere." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← jack-white ← jack-white
 **Vinyl Production Hub in Nashville** : From his headquarters in Nashville, Jack White is able to record and mix a song before sending it directly down the street to a pressing plant, streamlining vinyl production. "From his headquarters in Nashville, he can record a song, mix it, and then send it down the street to the pressing plant." ← https://www.youtube.com/watch?v=GES0Ms_kaCI ← jack-white
-
-
 
 ## awards
 **Grammy Award for Best Rock Performance (2015) — Lazaretto** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1542182

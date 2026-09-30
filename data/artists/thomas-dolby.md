@@ -1,9 +1,5 @@
 # artist - Thomas Dolby
 
-## members
-- Thomas Morgan Robertson
-- Thomas Morgan Robertson (real name)
-
 ## genres
 - Alt-Rock
 - Nerd Rock
@@ -18,10 +14,10 @@
 **The Golden Age of Wireless (1982)** : This debut album was released in 1982 and gained significant traction due to the constant rotation of its single "She Blinded Me with Science" on MTV. The album contributed to Thomas Dolby's mad scientist persona, surrounded by complex electronic gear. "In 1982, he released a debut album called The Golden Age of Wireless." ← https://www.youtube.com/watch?v=h6snk0m4200 ← thomas-dolby
 
 ## songs
-**Hyperactive! (Early 1980s)** : This song, released in the early 1980s, was another big alt-rock hit for Thomas Dolby during the synth-pop years. "One of our submarines is missing hyperactive." ← https://www.youtube.com/watch?v=QfiRRtsZoYU ← thomas-dolby
+**Hyperactive! (1984)** : This song, released in the early 1980s, was another big alt-rock hit for Thomas Dolby during the synth-pop years. "One of our submarines is missing hyperactive." ← https://www.youtube.com/watch?v=QfiRRtsZoYU ← thomas-dolby
 **She Blinded Me with Science (1982)** : This single from his 1982 debut album "The Golden Age of Wireless" received extensive play on MTV, propelling Thomas Dolby's visibility. It solidified his mad scientist persona, which included a white lab coat, crazy hair, and an array of complex electronic equipment, all contributing to his very nerdy image. "Thomas Dolby from 1982 with She Blinded Me with Science." ← https://www.youtube.com/watch?v=h6snk0m4200 ← thomas-dolby
-**She Blinded Me with Science (1983)** : A top five hit that Thomas Dolby scored under his own name, following his early career boost from Mut Lang who brought him in as a session player for Foreigner's "Waiting for a Girl Like You." "Thomas Dolby, who would later score hits of his own, like the 1983 top five hit she blinded me with science." ← Hit Parade Music History and Music Trivia > Pour Some Sugar on Me Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5d1ba84fb8f04493d
-**She Blinded Me with Science (Early 1980s)** : This song was one of Thomas Dolby's significant alt-rock hits during the synth-pop era of the early 1980s. "she blinded me with science." ← https://www.youtube.com/watch?v=QfiRRtsZoYU ← thomas-dolby
+**She Blinded Me with Science (1982)** : A top five hit that Thomas Dolby scored under his own name, following his early career boost from Mut Lang who brought him in as a session player for Foreigner's "Waiting for a Girl Like You." "Thomas Dolby, who would later score hits of his own, like the 1983 top five hit she blinded me with science." ← Hit Parade Music History and Music Trivia > Pour Some Sugar on Me Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5d1ba84fb8f04493d
+**She Blinded Me with Science (1982)** : This song was one of Thomas Dolby's significant alt-rock hits during the synth-pop era of the early 1980s. "she blinded me with science." ← https://www.youtube.com/watch?v=QfiRRtsZoYU ← thomas-dolby
 
 ## curiosities
 **Academic Family Background** : Thomas Dolby, whose real name is Thomas Morgan Robertson, came from an academic background; his father was a renowned academic specializing in Greek art and archaeology, a fact described as "pretty geeky." "His real name is Thomas Morgan Robertson and his father was a well-known academic, specializing in Greek art and archaeology, which is pretty geeky." ← https://www.youtube.com/watch?v=h6snk0m4200 ← thomas-dolby
@@ -35,8 +31,7 @@
 **Origin of Stage Name "Dolby"** : In the 1970s, Thomas Robertson's friends nicknamed him "Dolby" because he spent a significant amount of time experimenting with home-built keyboard synthesizers and recording tape, associating him with the "Dolby" noise reduction technology that was becoming prevalent in home stereos. "That's when his friends nicknamed him Dolby, after the noise reduction technology that was being introduced to home stereos at the time." ← https://www.youtube.com/watch?v=8lQv8eMJ868 ← thomas-dolby ← thomas-dolby
 **Origins of "Dolby" Nickname** : In the 1970s, while experimenting with home-built keyboard synthesizers and recording tape, his friends nicknamed him "Dolby." This moniker was a reference to the noise reduction technology that was becoming prevalent in home stereo systems at the time. "That's when his friends nicknamed him Dolby after the noise reduction technology that was being introduced to home stereos at the time." ← https://www.youtube.com/watch?v=h6snk0m4200 ← thomas-dolby
 **Similar Musical Approach** : Mentioned alongside Howard Jones as an artist who shared a similar approach to utilizing electronic instruments in his music. "Same thing with Thomas Dolby." ← https://www.youtube.com/watch?v=1KF5MwJVYng ← thomas-dolby
-
-
+**Participant in 1985 Synthesizer Jam** : Thomas Dolby, famously appearing in a "Beethoven wig," was part of a memorable 1985 Grammy "synthesizer shindig" alongside Stevie Wonder, Herbie Hancock, and Howard Jones, performing a "Frankenstein's monster of a pop medley." "Thomas Dolby in a Beethoven wig". ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
 
 ## awards
 **Golden Raspberry Award for Worst Musical Score (1986) — Fever Pitch** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1535128

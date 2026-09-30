@@ -8,15 +8,14 @@
 
 ## artists
 - Air
-- Andrea Hogan (Hügellands Roondance)
 - Boards of Canada
 - Brian Eno
-- Can
-- David Botrell
+- CAN
+- David Bottrill
 - Jean-Michel Jarre
 - Jeff Mills
 - José Padilla
 - Moby
-- Peter Culman
+- Peter Christopherson
 - Vangelis
 

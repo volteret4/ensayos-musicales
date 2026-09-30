@@ -8,4 +8,3 @@
 
 ## curiosities
 **Discontent at PIR** : Gene McFadden, along with John Whitehead, grew increasingly dissatisfied with their roles at Philadelphia International Records, particularly regarding Kenny Gamble's insistence that they remain solely as songwriters despite their aspirations to perform, and Gamble's perceived overemphasis on a "black lens" in the company's output. "Some writers became more discontent, more unhappy with the way they were used." ← For the Record - The 70s > Ep. 37 - Philly Soul and the Sound of the 70s | https://seventies.libsyn.com/ep-37-philly-soul-and-the-sound-of-the-70s
-

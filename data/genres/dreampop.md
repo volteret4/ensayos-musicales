@@ -27,10 +27,9 @@
 **Witchhouse Influence** : Dreampop, along with Shoegaze, influenced Witchhouse, providing ethereal textures and characteristics of a "wall of sound." "y del Dreampop y el sugeys, tomó las texturas etéreas y son muro de sonido." ← Witch House： Cuando internet inventó su género maldito | https://www.youtube.com/watch?v=SLlzXA0eyu0
 
 ## artists
-- AR Kane
+- A.R. Kane
 - Air
 - Beach House
-- Belly
 - Billie Eilish
 - Chapterhouse
 - Chromatics
@@ -45,7 +44,6 @@
 - M83
 - Mazzy Star
 - My Bloody Valentine
-- Pale Saints
 - Radiohead
 - Sigur Rós
 - Slowdive
@@ -53,7 +51,6 @@
 - Still Corners
 - Sugar
 - The Catherine Wheel
-- The Cranes
 - The Ocean Blue
 - The Sundays
 - The War on Drugs

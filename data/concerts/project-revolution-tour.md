@@ -6,5 +6,5 @@
 **Mobile Festival Initiative** : The Project Revolution tour, which ran in 2007 and 2008, was a mobile two-stage festival that visited 29 cities across four continents. It notably featured Linkin Park alongside other bands such as My Chemical Romance, Taking Back Sunday, and Placebo. "Also tucked in there was the Project Revolution tour, which was a mobile two-stage festival that traveled to 29 cities and also featured bands like Mike Hemmacher-Romance, Taking Back Sunday and Placebo." ← https://www.youtube.com/watch?v=zIlCaKCvylI ← project-revolution-tour ← project-revolution-tour
 
 ## artists
-- Lincoln Park
+- Linkin Park
 

@@ -18,8 +18,3 @@
 **Alt Rock Resurgence of 2004** : Hot Hot Heat was named as one of the new and exciting bands contributing to the resurgence of Alt Rock by 2004. "By 2004, Alt Rock was back with all kinds of new exciting bands that was Franz Ferdinand and Modest Mouse and the Killers and Billy Towns and the Stills and Jet, the Ye-Yaz and Hot Hot Heat." ← https://www.youtube.com/watch?v=ua93Ui1u6UI ← hot-hot-heat ← hot-hot-heat
 **Formation and Origins** : Hot Hot Heat was formed in Victoria, BC, in 1999. Their sound was notably inspired and informed by early new wave bands such as Squeeze, Elvis Costello, and XTC. "Hot Hot Heat was formed in Victoria, BC in 1999." ← https://www.youtube.com/watch?v=9CNNsqXiL6U ← hot-hot-heat
 **Steve Bays Collaboration** : Steve Bays, a member of Hot Hot Heat, is currently collaborating with Ryan Dahle (Age of Electric, Limblifter) and Hawksley Workman in a new band called Mounty. This highlights ongoing musical connections and new projects among established Canadian artists. "Ryan Doll was now working with Hoxley Workman and Steve Bayes of Hot Hot Heat in a band called Mounty." ← https://www.youtube.com/watch?v=22SSwvfRMVg ← hot-hot-heat ← hot-hot-heat
-
-
-
-## lists
-**"Address The Nation" (2012) — Sputnikmusic Best Albums 2012** : #50, 4.06 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2012/

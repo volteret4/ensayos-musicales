@@ -5,5 +5,4 @@
 **Sound of Prehistoric Epics** : The music of Dinosynth incorporates caveman percussion, roars, and melodies that evoke those ancient epics, creating a distinctive prehistoric soundscape. "Su música incluye percusiones que averniculas, rugidos y melodías que recuerdan a esas epopeillas." ← Dungeon Synth： El género más misterioso de internet | https://www.youtube.com/watch?v=CBIHO0ihIxQ
 
 ## artists
-- Diplodocuses
 

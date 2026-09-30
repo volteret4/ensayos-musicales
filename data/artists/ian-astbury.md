@@ -3,4 +3,3 @@
 ## member of
 - Southern Death Cult
 - The Cult
-

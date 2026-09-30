@@ -2,8 +2,7 @@
 
 ## curiosities
 **Use of Mobile Studio** : Bad Company utilized the Rolling Stones Mobile Recording Studio for their recordings. "It was also used by bad company and simple mines and dire straits and Santana and Iron Maiden and others." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← bad-company ← bad-company
-
-
+**Use of Mobile Studio** : Bad Company utilized the Rolling Stones Mobile Recording Studio for their recordings. "It was also used by bad company and simple mines and dire straits and Santana and Iron Maiden and others." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← bad-company
 
 ## awards
 **Grammy Award for Best New Artist (1975)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643

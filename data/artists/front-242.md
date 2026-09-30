@@ -2,7 +2,7 @@
 
 ## genres
 - EBM
-- Electronic Body Music (EBM)
+- Electronic Body Music
 - Industrial
 - Industrial music
 - Techno
@@ -27,8 +27,6 @@
 **Influence on Trent Reznor** : Front 242 was a key influence on Trent Reznor, specifically their "rage and fury." This inspiration helped guide Trent's evolving sound towards the more aggressive, industrial style adopted by Nine Inch Nails. "He found that he really liked the rage and fury of bands like Ministry and Front242 and Canada's Skinny Puppy." ← https://www.youtube.com/watch?v=M3nUQtja0qc ← front-242
 **Key Artist in Spook Factory's Electronic Shift** : Front 242 was one of the artists whose music, alongside Nitzer Ebb, exemplified the shift towards more techno and EBM sounds at Spook Factory, under the influence of DJs Fran Lenaers and Tete. This change broadened the musical appeal of the club and the Ruta, attracting a new wave of electronic and avant-garde enthusiasts. "Junto a su colaborador DJ Tete, Lenaers se inclinó a la balanza musical de la discoteca y de rebote de la ruta, a sonidos más cercanos al técno y al FM de Fran 2.4.2 o Nietzsche Rep." ← Cuando Valencia fue la capital mundial del Clubbing | https://www.youtube.com/watch?v=ckJgog8P_og
 **Pioneering Electronic Body Music (EBM) (1981)** : As early as 1981, Belgium's Front 242 was creating what they termed "electronic body music" (EBM), defining a new subgenre with their distinct sound and approach. "They had been creating what they called electronic body music as early as 1981." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← front-242 ← front-242
-
-
 
 ## lists
 **"Geography" (1982) — Scaruffi 1980s** : #429, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

@@ -5,12 +5,8 @@
 **Extensive Work with U2** : He has notably produced approximately half of all the albums released by U2. "He worked on about half of all the albums you two has ever done." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4 ← steve-lillywhite
 **Marriage to Kirsty MacColl** : He was previously married to the English singer-songwriter Kirsty MacColl and produced some of her records. "Steve used to be married to an English singer-songwriter named Kristi McCall. A couple of her records were produced by Steve." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4 ← steve-lillywhite
 **Renowned Record Producer** : Steve Lillywhite is a very famous record producer, known for his extensive work in the music industry. "Steve Lillywhite is a very famous record producer." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4 ← steve-lillywhite
-
-
+**Renowned Producer for Bedi (2010)** : Described as "one of the most important and expensive producers in the United Kingdom," Steve Lily Wipe is known for having worked with prominent bands like U2. Liam Gallagher hired him at "a fortune" to produce Bedi's debut album, aiming for a grand musical comeback. "Steve Lily Wipe que es uno de los productores más importantes y más caros del reino unido que ha trabajado con gente como youtube, en el que se gasta una auténtica millonada para hacer un poco una vuelta por todo lo alto." ← Music Radar Clan > OASIS： Repasamos la historia de su separación. | https://www.youtube.com/watch?v=Bw7HgoV_h5w&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← steve-lily-wipe-likely-steve-lillywhite ← steve-lily-wipe-likely-steve-lillywhite
+**Renowned Producer for Bedi (2010)** : Described as "one of the most important and expensive producers in the United Kingdom," Steve Lily Wipe is known for having worked with prominent bands like U2. Liam Gallagher hired him at "a fortune" to produce Bedi's debut album, aiming for a grand musical comeback. "Steve Lily Wipe que es uno de los productores más importantes y más caros del reino unido que ha trabajado con gente como youtube, en el que se gasta una auténtica millonada para hacer un poco una vuelta por todo lo alto." ← Music Radar Clan > OASIS： Repasamos la historia de su separación. | https://www.youtube.com/watch?v=Bw7HgoV_h5w&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← steve-lily-wipe-likely-steve-lillywhite
 
 ## awards
 **Commander of the Order of the British Empire** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q12201477
-
-## charts
-**"Let Me Blow Ya Mind" — Billboard Year-End Hot 100** : #7, 2001. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Gangsta Lovin'" — Billboard Year-End Hot 100** : #19, 2002. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

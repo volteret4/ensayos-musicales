@@ -4,11 +4,12 @@
 **Electronic Album (1968)** : A track from this 1968 electronic album was sampled in the Beastie Boys' song "Intergalactic," specifically starting "just after the one-minute mark" of the song. "This electronic album from 1968 is by Les Baxter, and it's in the song starting just after the one-minute mark." ← https://www.youtube.com/watch?v=HZzP0qswdwM ← les-baxter ← les-baxter
 **Music Out of the Moon (1947)** : En co-creación con Harry Rebell, este álbum de 1947 fue el primer disco en presentar una estética y sonido espacial. Innovó al incorporar un Theremin para adaptar estándares de jazz, lo que lo convirtió en un éxito y catalizador para el desarrollo del género Space Age Pop en la década siguiente. "El primer disco en tener esa estética y sonido espacial fue en Music Out of the Moon, lanzado en 1947, obra de Harry Rebell y Les Baxter." ← Así sonaba el pop de la era atómica | https://www.youtube.com/watch?v=LqPX20XSa_s
 
+## songs
+**Unchained Melody (1955)** : Band leader Les Baxter's version of "Unchained Melody" hit number one in 1955, making it one of several early incarnations of the song. "a version by band leader Les Baxter hit number one in 1955." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c42e
+
 ## curiosities
 **Pioneer and Master of Space Age Pop and Exotica** : Les Baxter debutó con el álbum "Music Out of the Moon" y se convirtió en el pionero y maestro del Space Age Pop. También experimentó con gran éxito en el género Exotica. "Les Baxter, quien debutó con este álbum, se convertió en el pionero y maestro del género, y también provó con mucho acierto con la exótica." ← Así sonaba el pop de la era atómica | https://www.youtube.com/watch?v=LqPX20XSa_s
 **Sampled in Intergalactic** : An electronic album released in 1968 by Les Baxter was sampled in the Beastie Boys' song "Intergalactic," specifically appearing just after the one-minute mark. "This electronic album from 1968 is by Les Baxter, and it's in the song starting just after the one-minute mark." ← https://www.youtube.com/watch?v=9_BTe15NooI ← les-baxter
-
-
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

@@ -2,7 +2,6 @@
 
 ## members
 - Trent Reznor
-- Trent Reznor (keyboards, vocals)
 
 ## genres
 - New Wave
@@ -14,9 +13,3 @@
 **Performing in a Conservative Area** : Option 30 struggled to play original material in conservative areas like Edinburgh or Meadville, where audiences preferred familiar cover songs by artists such as Loverboy and Sammy Hagar. This commercial pressure meant they had to include many cover songs to attract a crowd, despite their aspiration to be an all-original band, even though they claimed they wouldn't play certain covers "even at gunpoint." "The problem with an area like Edinburgh or Medeville, which where we play a lot is that it's very conservative. And people just don't want to go out and hear 40 songs they've never heard before." ← https://www.youtube.com/watch?v=M3nUQtja0qc ← option-30
 **Trent Reznor's First Band (1984)** : This was Trent Reznor's first band, which he joined while still in high school. They recorded music in 1984. "He joined his first band while still in high school. They were called option 30." ← https://www.youtube.com/watch?v=DKdF8NgF5Bw ← option-30
 **Unique Cover of "Machine Gun"** : The band performed a distinctive, Appalachian-style rendition of The Commodores' song "Machine Gun." This version incorporated unusual instrumentation like a washboard and harmonica, showcasing their experimental approach to covers and a desire to put their own spin on familiar tunes. The recording of this particular version was done very spontaneously, with the band joking it was recorded "in the car on the way up." "It's kind of a new arrangement, but I think you'll recognize it. It's kind of like Appalachian music, right?" ← https://www.youtube.com/watch?v=M3nUQtja0qc ← option-30
-
-
-
-## charts
-**"Nothing but Thieves" — UK Vinyl Albums Chart** : entrada.
-**"Kurt Cobain" — UK Vinyl Singles Chart** : entrada.

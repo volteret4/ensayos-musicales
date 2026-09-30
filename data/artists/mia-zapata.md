@@ -16,7 +16,7 @@
 **Frenching the Bully (1992)** : The debut album by The Gits, Mia Zapata's band, which received very good reviews. A second album, titled "Enter the Conquering Chicken," was planned but never released due to Zapata's murder. "A 1992 debut album entitled Franching the Bullie got some very good reviews." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw ← mia-zapata
 
 ## songs
-**Second Skin (Year Not Specified)** : A song from The Gits' debut album, "Frenching the Bully." This song exemplifies the sound of the band and Mia Zapata's musical contribution. "It's from their debut album, Franching the Bulley, and is called Second Skate." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw ← mia-zapata
+**Second Skin** : A song from The Gits' debut album, "Frenching the Bully." This song exemplifies the sound of the band and Mia Zapata's musical contribution. "It's from their debut album, Franching the Bulley, and is called Second Skate." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw ← mia-zapata
 
 ## curiosities
 **Community Outcry and Fundraising** : Mia Zapata's death sent shockwaves through the Seattle music community. Bands like Nirvana, Soundgarden, and Pearl Jam collectively raised $70,000 to hire a private detective to investigate the case, reflecting the deep concern and desire for justice within the tight-knit scene. "Even after bands like Nirvana, Soundgarden and Pearl Jam helped raise $70,000 to hire a private detective to look into things." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw ← mia-zapata
@@ -34,19 +34,3 @@
 **Rape, Beating, and Strangling in Seattle** : Mia Zapata was murdered on Wednesday, July 7, 1993. At about 2:10 AM, after leaving The Comet Tavern in Seattle's Capitol Hill District and briefly visiting a friend, she was killed within an hour. Her body was found several blocks away, having been raped, strangled, severely beaten, and suffering a lacerated liver. "Her body was found several blocks away. She'd been raped. She'd been strangled. She'd also been severely beaten and suffered a lacerated liver, an injury that would have killed her if she hadn't been strangled." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw ← mia-zapata
 **Theory on Lack of Awareness During Attack** : Police theorized that because she was listening to music on headphones, Mia may not have heard her attacker approaching. "The cops think that because she was listening to music on headphones at the time, she didn't hear it coming." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4 ← mia-zapata
 **Tributes and Legacy** : Mia Zapata's legacy is preserved through various tributes, including plays, documentaries, songs, albums, and music videos dedicated to her memory. Her story continues to be told and remembered. "Meanwhile, there have been plays and documentaries about Mia's apata. And there have been songs and albums and music videos dedicated to her." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw ← mia-zapata
-
-
-
-## charts
-**"Paper Planes" — Billboard Year-End Hot 100** : #35, 2008. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Jimmy" — UK Indie Singles Chart** : 2007. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart
-
-## lists
-**"Arular" (2005) — 1001 Albums You Must Hear Before You Die** : #999, 86 AOTY.
-**"Kala" (2007) — AOTY Must Hear 2000s** : #131, 86 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Arular" (2005) — AOTY Must Hear 2000s** : #264, 86 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Vicki Leekx" (2010) — AOTY Must Hear 2010s** : #879, 70 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"ΛΛ Λ Y Λ" (2010) — AOTY Must Hear 2010s** : #911, 71 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Arular" (2005) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #421, 86 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Maya" (2010) — Scaruffi 2010s** : #253, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Arular" (2005) — Resident Advisor: The Best Electronic Records of 2000-25** : #27, 86 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/256f2672-a51d-4824-a07f-ae79c5840268

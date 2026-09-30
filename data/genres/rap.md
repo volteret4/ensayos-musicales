@@ -69,60 +69,55 @@
 **Vinyl Preference for Sampling (Post-CD Era)** : Rap and hip-hop performers continued to use old school records for samples and grooves, revering their historical importance and preferring vinyl for its tactile nature in mixing and scratching. "Rap and hip-hop performers. They kept going back to old school records for samples and grooves." ← https://www.youtube.com/watch?v=GES0Ms_kaCI ← rap
 **Vocal Expression Controversy** : Rappers were among the artists whose new forms of vocal expression, facilitated by microphones, generated decades of strong criticism from purists. Their singing styles were considered by some to be "degenerate forms of singing," challenging the established vocal norms of earlier generations. "R&B acts, Elvis, The Beatles, Dylan, Jagger, New Waivers, rappers all the way up to and beyond death medillars." ← https://www.youtube.com/watch?v=L0j9iDuHQVA ← rap
 **White American Society's Reaction** : The rise of a more violent and combative rap generation, exemplified by artists directly attacking the police and advocating for popular uprising, intensified the existing tensions between white American society and rap music. This escalation occurred even as dominant American society appeared to be beginning to assimilate and show a degree of respect for rap music, generating significant discomfort, including within law enforcement. "Cuando parecía que la sociedad americana dominante empezaba a similar y hasta cierto modo respetar la música rap apareció una nueva generación mucho más violenta, mucho más combativa, que atacaba directamente contra la policía, que atacaba directamente llamando a la sublevación popular generó bastante incómodida, incluso en la propia policía." ← Music Radar Clan > NWA y el inicio del Gangsta Rap. Las letras polémicas no son nuevas. | https://www.youtube.com/watch?v=uDNhX_fP3vM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← rap ← rap
+**Run DMC's Remake of "Walk This Way"** : The rap trio Run DMC famously remade Aerosmith's "Walk This Way" in 1986, a collaboration that became the highest-charting version of the song and contributed to its multi-decade resurgence. "Famously in 1986, as we chronicled in our Death Jam's edition of Hit Parade, Walk This Way was remade by Raptrio Run DMC, featuring Steven Tyler and Joe Perry of Aerosmith." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c42e
 
 ## artists
 - Afrika Bambaataa
 - Bakar
 - Beastie Boys
-- Biggie
+- The Notorious B.I.G.
 - Blondie
 - Body Count
 - Calle 13
 - David Bowie
-- Dead Grips
-- Del Gribs
+- Death Grips
 - Dr. Dre
 - Dr. Octagon
-- Dre
 - El-P
 - Eminem
 - Fishbone
 - Geto Boys
-- Gil Scott Heron
 - Gil Scott-Heron
-- Glüleg
+- Glueleg
 - Grandmaster Flash
-- Gutanclan (Wu-Tang Clan)
+- Wu-Tang Clan
 - J Dilla
-- Jay Z
 - Jay-Z
 - Joe Strummer
-- Jon Lein Stranger
 - Kendrick Lamar
 - Kid Rock
 - Kraftwerk
-- LP
 - Limp Bizkit
-- Lincoln Park
-- MF DOOM
+- Linkin Park
 - MF Doom
 - Nas
 - Nelly
-- Ni Ganswizatitude
+- N.W.A
 - Public Enemy
 - Residente
-- Run DMC
-- Run the Jewels
-- Run-D.M.C.
 - Run-DMC
-- Snoop
+- Run the Jewels
+- Snoop Dogg
 - The Clash
-- The Prodigy (Rapper)
 - The Sequence
 - The Streets
-- The Sugar Hill Gang
-- Tupac
-- Wu Tang Clan
-- Wu-Tang Clan
-- Yazan
-
+- The Sugarhill Gang
+- Tupac Shakur
+- Bruno Mars
+- Sting
+- The Fat Boys
+- The Lonely Island
+- Soulja Boy Tell'em
+- Silentó
+- I Love Friday
+- Nucleus

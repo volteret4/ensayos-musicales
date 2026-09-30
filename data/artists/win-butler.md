@@ -13,10 +13,5 @@
 **Montreal Religious Studies** : After prep school, Win Butler moved to Montreal to pursue religious studies, first at Concordia University and then at McGill University, which is where he would eventually meet his future bandmate and wife, Regine Chassagne. "Meanwhile, Wins moved to Montreal because he wanted to study religion, first to Concordia, then a McGill." ← https://www.youtube.com/watch?v=Q_c-m_NDznw ← win-butler ← win-butler
 **Religious Upbringing** : Win Butler was raised Mormon, a detail that provides background to his early life and potential influences. "he was raised Mormon." ← https://www.youtube.com/watch?v=Q_c-m_NDznw ← win-butler ← win-butler
 
-
-
 ## awards
 **Companion of the Ordre des arts et des lettres du Québec (2017)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q57026126
-
-## charts
-**"Walk Away Renée" — Billboard Year-End Hot 100** : #27, 1966. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

@@ -6,10 +6,14 @@
 **Definition and Purpose** : Easy listening music, as exemplified by the Andrew Loog Oldham Orchestra's arrangements of rock songs in the 1960s, involved "watering down" original tracks. This genre was specifically created to appeal to audiences who might be offended by rock and roll, making the music more palatable. "I mean, really water them down so people who were offended by rock and roll wouldn't be offended by these rock and roll songs." ← https://www.youtube.com/watch?v=AcADOuQUiAQ ← easy-listening
 **Origen y Propósito** : Este género surgió tras el auge del confort doméstico y la expansión de la vida suburbana, cuando la vida social se trasladó a las casas, dando lugar a cenas íntimas y encuentros entre amigos. Era una música instrumental, melódica, pulida y sin sobresaltos, con melodías suaves y arreglos cuidados, diseñada para crear un ambiente sofisticado y no desafiar al oyente. Se convirtió en la música de fondo de la vida moderna americana. "Asinación El Isili Senin, una música instrumental, melodica, polida y sin sobresaltos." ← Así sonaba el pop de la era atómica | https://www.youtube.com/watch?v=LqPX20XSa_s
 **Relación con Muzak** : El Easy Listening es el origen del Muzak, la conocida "música de extensor" (música de ascensor), que se empleaba para aumentar la productividad en las empresas. "Delisili Senin deriva el muzak, la famosa música de extensor, la cual se usaba para aumentar la productividad de las empresas." ← Así sonaba el pop de la era atómica | https://www.youtube.com/watch?v=LqPX20XSa_s
+**The Girl from Ipanema - Cocktail Lounge Classic (1964)** : The song "The Girl from Ipanema" was described as a "top five easy listening cocktail lounge classic" which significantly contributed to the commercial success and Grammy win of the "Getz/Gilberto" album. "That reached number two on the album chart thanks to the top five easy listening cocktail lounge classic The Girl from Ipanema." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
 
 ## artists
 - Chicago
 - Commodores
 - Genesis
 - Lionel Richie
-
+- John Denver
+- Olivia Newton-John
+- Percy Faith and His Orchestra
+- Charlene

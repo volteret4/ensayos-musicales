@@ -8,10 +8,10 @@
 - Indigenous Folk
 
 ## labels
-- Sony Music (implied by international distribution)
+- Sony Music
 
 ## albums
-**Kashtin (1989) – Self-titled debut** : This self-titled debut album was released in 1989 and featured the single "Tish Nanu," which received significant airplay on Canadian alternative and college radio. "I want to play a single from their self-titled debut album. This single was played on Canadian alternative in college radio when it cames out back in 1989." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← kashtin
+**Kashtin (1989)** : This self-titled debut album was released in 1989 and featured the single "Tish Nanu," which received significant airplay on Canadian alternative and college radio. "I want to play a single from their self-titled debut album. This single was played on Canadian alternative in college radio when it cames out back in 1989." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← kashtin
 
 ## songs
 **Tish Nanu (1989)** : This song from Kashtin's 1989 self-titled debut album was played on Canadian alternative and college radio when it was released. The song, originating from the northern shores of the St. Lawrence River near Sept-Îles, Quebec, contributed to the band's early success. "The song is from their 1989 self-titled debut album and is called Tish Nanu." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← kashtin
@@ -22,13 +22,3 @@
 **Innu Origins** : Claude McKenzie and Florent Vollant, the duo forming Kashtin, are Innu men from the Maliotenam Reserve, situated along the St. Lawrence River in Quebec. This region and their heritage are central to their identity and music. "This was Claude McKenzie and Florent Voulotte, two innuemen from the Malio Tenem Reserve, which is along the St. Lawrence River in Quebec." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← kashtin
 **International Success** : Kashtin released three albums that not only became hits in Quebec but also gained popularity in parts of English Canada, France, and surprisingly, Greenland. This international reach established them as significant First Nations artists. "There were three cached in albums, which not only became hits in Quebec, but also in parts of English, Canada, France, and all places, Greenland." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← kashtin
 **Singing in Innu-aimun** : Kashtin sang in the Innu-aimun language, which is spoken by fewer than 12,000 people. Their decision to use their native tongue in their music brought this language to a wider audience. "Cache Den sang in a language known as innuemen, which is spoken by fewer than 12,000 people." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← kashtin
-
-
-
-## charts
-**"Shining Light" — UK Indie Singles Chart** : 2001. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart
-**"Burn Baby Burn" — UK Indie Singles Chart** : 2001. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart
-
-## lists
-**"1977" (1996) — 1001 Albums You Must Hear Before You Die** : #834.
-**"1977" (1996) — Pitchfork: The 50 Best Britpop Albums** : #34. ← musicbrainz | https://beta.musicbrainz.org/series/cd7ebb70-d88f-4f74-b6de-3a00bf2a162c

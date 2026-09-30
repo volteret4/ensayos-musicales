@@ -6,7 +6,6 @@
 
 ## artists
 - AC/DC
-- ACDC
 - Black Sabbath
 - Eric Clapton
 - Jimi Hendrix

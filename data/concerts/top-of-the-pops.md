@@ -20,7 +20,7 @@
 - Jimi Hendrix
 - Joy Division
 - Madonna
-- T-Rex
+- T. Rex
 - The Rolling Stones
 - The Who
 

@@ -11,4 +11,3 @@
 ## curiosities
 **Collaborations with Noted Artists** : He has released additional material and collaborated with artists such as Grandson, Jesse Rutherford of The Neighbourhood, and Travis Barker of Blink-182. "He since released more material and has worked with grandson Jesse Rutherford of the neighborhood and Travis Barker of Blink, when it II." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← kennyhoopla
 **SoundCloud Origins** : KennyHoopla, like Bakar, began his career by posting his music to SoundCloud, achieving significant early success with his track "Cave." "He started by posting stuff to Sam Cloud, and one of the songs was called Cave. It became the most streamed song of all time on Sam Cloud." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← kennyhoopla
-

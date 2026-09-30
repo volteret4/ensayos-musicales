@@ -2,9 +2,7 @@
 
 ## members
 - Louise Post
-- Louise Post (leader, songwriter, singer)
 - Nina Gordon
-- Nina Gordon (leader, songwriter, singer)
 
 ## genres
 - Power Pop
@@ -27,4 +25,4 @@
 **Nirvana and Pearl Jam Influence** : Like many bands of the era, Veruca Salt drew inspiration from the success of grunge giants such as Pearl Jam and Nirvana to begin creating their own music. "Like so many bands, they were inspired by the success of bands like Pearl Jam and Nirvana to start making their own music." ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← veruca-salt
 **Non-Collaborative Songwriting** : The band's leadership, Nina Gordon and Louise Post, managed songwriting in a unique, non-collaborative manner where the person who wrote a song was also the one who performed the lead vocals for it. "They handled all the songwriting, but not really in a collaborative way. The deal was, whoever wrote the song got to sing it." ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← veruca-salt
 **Rapid Rise to Major Label** : After performing only a couple of shows, Veruca Salt quickly gained attention, first being approached by the indie label Minty Fresh for a single. This single's success led to them opening a tour for Hole, who were signed to Geffen, ultimately resulting in Veruca Salt signing with Geffen as well. "After just a couple of shows, they were approached by an indie label called Minty Fresh." ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← veruca-salt
-
+**Collaboration with Bob Rock** : "Veruch assault" is listed among Bob Rock's clients. "We got the cult, Veruch assault, Erasmith, Motley crew, Ardady Pease, the Tea Party, Eric and High Fy, Afghan Wigs, David Lee Roth, the Conorline Crush, Cher." ← Ongoing History of New Music > Canadian Producers | https://www.youtube.com/watch?v=QkSKxm_U9Yc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG

@@ -15,8 +15,8 @@
 ## curiosities
 **Collaborated with James Blake** : Nicolas Jaar has collaborated with James Blake. "Ha colaborado con Nicolás Yar." ← Music Radar Clan > JAMES BLAKE. El mago del sonido. | https://www.youtube.com/watch?v=dLsLxcMVZFM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← nicolas-jaar ← nicolas-jaar
 **Influenced by James Blake** : Nicolas Jaar is cited as an artist of the same generation who has been significantly influenced by James Blake's slow and intimate electronic style. "Esa ha sido una influencia importante para gente como Nicolayar." ← Music Radar Clan > JAMES BLAKE. El mago del sonido. | https://www.youtube.com/watch?v=dLsLxcMVZFM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← nicolas-jaar ← nicolas-jaar
-
-
+**Collaborated with James Blake** : Nicolas Jaar has collaborated with James Blake. "Ha colaborado con Nicolás Yar." ← Music Radar Clan > JAMES BLAKE. El mago del sonido. | https://www.youtube.com/watch?v=dLsLxcMVZFM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← nicolas-jaar
+**Influenced by James Blake** : Nicolas Jaar is cited as an artist of the same generation who has been significantly influenced by James Blake's slow and intimate electronic style. "Esa ha sido una influencia importante para gente como Nicolayar." ← Music Radar Clan > JAMES BLAKE. El mago del sonido. | https://www.youtube.com/watch?v=dLsLxcMVZFM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← nicolas-jaar
 
 ## lists
 **"Space Is Only Noise" (2011) — AOTY Must Hear 2010s** : #875, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/

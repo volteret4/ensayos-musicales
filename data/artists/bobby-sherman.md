@@ -17,8 +17,6 @@
 **Teen Idol Status** : Bobby Sherman was a prominent teen idol in the late 1960s and early 1970s, recognized for his handsome appearance, which made him popular on posters, and for selling a high volume of records. "Bobby Sherman was a teen idol, very handsome, looked great on a poster, who sold a lot of records in the late 60s and early 70s." ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum ← bobby-sherman
 **Television Career** : In addition to his music career, Bobby Sherman was a TV star, appearing on *Here Come the Brides* and making numerous guest appearances on shows like *Emergency*. "And he was a TV star. He was on Here Come the Brides. He did a lot of guest appearances on shows like Emergency." ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum ← bobby-sherman
 
-
-
 ## charts
 **"Little Woman" — Billboard Year-End Hot 100** : #41, 1969. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 **"Julie, Do Ya Love Me" — Billboard Year-End Hot 100** : #29, 1970. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

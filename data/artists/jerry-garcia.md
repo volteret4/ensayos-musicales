@@ -7,8 +7,6 @@
 ## curiosities
 **Roach Species** : A species of roach has been named after Jerry Garcia, linking the iconic musician to this insect. "Jerry Garcia has a roach named after him." ← https://www.youtube.com/watch?v=VMPLplhDk8I ← jerry-garcia
 
-
-
 ## awards
 **Americana Music Association President's Award (2008)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q96613973
 

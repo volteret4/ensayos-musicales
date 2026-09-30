@@ -3,7 +3,6 @@
 ## members
 - Carrie Brownstein
 - Corin Tucker
-- a trio of women
 
 ## genres
 - Alt Rock
@@ -18,14 +17,14 @@
 - Riot Grrrl
 
 ## instruments
-- Gibson SG (signature guitar)
+- Gibson SG
 - Vox Amps
 
 ## albums
 **Call the Doctor (1996)** : This 1996 album features the track "I Want to Be Your Joey Ramone," which is noted for its ability to encapsulate the essence of the punk rock discussion. "It's from the group's 1996 album entitled Call the Doctor and it's I Want to Be Your Joey Ramon." ← https://www.youtube.com/watch?v=0QtMI00T5jw ← sleater-kinney ← sleater-kinney
-**Call the Doctor (1996) – Key Riot Grrrl Record; Carrie Brownstein Later of Portlandia** : Sleater-Kinney came together in Olympia, Washington in 1994 and became a key component of the riot grrrl movement as well as the American indie rock scene, ultimately releasing about a dozen studio albums. The band broke up in 2006 but reunited for more tours and records in 2014. Guitarist Carrie Brownstein went on to become an acclaimed actor in Portlandia (with Fred Armisen), a Simpsons voice actor, a guest on Curb Your Enthusiasm, and a music writer with a memoir entitled Hunger Makes Me a Modern Girl. "Not only did they become a key component for the riot girl movement, they're also important to the entire American indie rock scene." ← https://www.youtube.com/watch?v=YsNRNKvd1GI ← sleater-kinney
-**No Cities of Love (2015)** : Released in 2015, this album marked a period of reunion for the band and features the song "Bury Our Friends." "The album is called No Cities of Love, and this is Very Our Framies." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← sleater-kinney
-**The Doctor (1996)** : This album, released in 1996, features the track "I Want to Be Your Joey Ramone." It serves as a statement about girls' need for female role models. "I've pulled out a track for their 1996 album called The Doctor." ← https://www.youtube.com/watch?v=Qss5kC2FUx0 ← sleater-kinney
+**Call the Doctor (1996)** : Sleater-Kinney came together in Olympia, Washington in 1994 and became a key component of the riot grrrl movement as well as the American indie rock scene, ultimately releasing about a dozen studio albums. The band broke up in 2006 but reunited for more tours and records in 2014. Guitarist Carrie Brownstein went on to become an acclaimed actor in Portlandia (with Fred Armisen), a Simpsons voice actor, a guest on Curb Your Enthusiasm, and a music writer with a memoir entitled Hunger Makes Me a Modern Girl. "Not only did they become a key component for the riot girl movement, they're also important to the entire American indie rock scene." ← https://www.youtube.com/watch?v=YsNRNKvd1GI ← sleater-kinney
+**Call the Doctor (1996)** : This album, released in 1996, features the track "I Want to Be Your Joey Ramone." It serves as a statement about girls' need for female role models. "I've pulled out a track for their 1996 album called The Doctor." ← https://www.youtube.com/watch?v=Qss5kC2FUx0 ← sleater-kinney
+**No Cities to Love (2015)** : Released in 2015, this album marked a period of reunion for the band and features the song "Bury Our Friends." "The album is called No Cities of Love, and this is Very Our Framies." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← sleater-kinney
 
 ## songs
 **Bury Our Friends (2015)** : This song is featured on Sleater-Kinney's 2015 album "No Cities of Love" and prominently showcases guitarist Carrie Brownstein. "Slider Kinney, from 2015 in their reunion period with Barry Our Friends, and featuring guitarist Carrie Brownstein." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← sleater-kinney
@@ -41,8 +40,6 @@
 **Prominent Riot Grrrl Band** : Sleater-Kinney emerged from the Pacific Northwest as one of the biggest bands in the Riot Grrrl movement. Their music and ethos contributed significantly to the scene's influence. "The biggest of the bunch were probably Team Dresh and Sleeter Kinney, both from the Pacific Northwest." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← sleater-kinney ← sleater-kinney
 **Riot Grrrl Sensibilities in Punk Revival** : The reformed Sleater-Kinney was cited for their "riot girl sensibilities" as part of the mid-decade punk revival in the 2010s. This revival showcased a wide variety of approaches, including Garage Punk and Post Punk, demonstrating the evolving nature of punk as an attitude and a way of life. "There was a wide variety of approaches from Laura Jane Grace and against me to the riot girl sensibilities of the reformed Slater Kinney..." ← https://www.youtube.com/watch?v=HSvgRyGiOpE ← sleater-kinney
 **Second Wave Post-Riot Grrrl Band** : Sleater-Kinney was formed in Olympia around 1994 by Corin Tucker (formerly of Heavens to Betsy) and Carrie Brownstein. While not "exactly Riot Girls," they were deeply influenced by the movement and continued its feminist, left-leaning political messages, becoming a fixture on the American indie scene for about 10 years after the original Riot Grrrl scene faded. "One of them was Slater Kinney featuring current Tucker of Evans De Betsy and Carrie Brown Steen." ← https://www.youtube.com/watch?v=Qss5kC2FUx0 ← sleater-kinney
-
-
 
 ## lists
 **"Dig Me Out" (1997) — 1001 Albums You Must Hear Before You Die** : #844.

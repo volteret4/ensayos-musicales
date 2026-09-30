@@ -8,7 +8,7 @@
 
 ## artists
 - Arctic Monkeys
-- Björk & Dirty Projectors (Collaborative Project)
+- Björk & Dirty Projectors
 - Franz Ferdinand
 - Victoria and Albert
 

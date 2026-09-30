@@ -9,8 +9,6 @@
 ## curiosities
 **Televised Guitar Destruction** : Phoebe Bridgers famously destroyed her guitar at the conclusion of a performance on "Saturday Night Live." "Phoebe Bridgers killed her guitar at the end of a Saturday Night Live performance." ← https://www.youtube.com/watch?v=yPok3MemDmE ← phoebe-bridgers
 
-
-
 ## awards
 **Libera Award for Record of the Year** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q96387381
 **Libera Award for Best Live Act** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q96387385

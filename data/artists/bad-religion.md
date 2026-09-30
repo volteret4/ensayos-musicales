@@ -1,13 +1,12 @@
 # artist - Bad Religion
 
 ## members
-- Brent Gerowicz
+- Brett Gurewitz
 - Greg Graffin
 
 ## genres
 - Hardcore
 - Hardcore Punk
-- Hardcore punk
 - Pop
 - Pop Punk
 - Punk
@@ -17,17 +16,16 @@
 - Atlantic Records
 - Epitaph
 - Epitaph Records
-- Epitaph records (funded by the band)
 - Mystic Records
 - Warner's
 
 ## albums
-**Bad Religion (1980) – Debut EP** : This debut EP, released in 1980, features six songs that run for a total of 9 minutes and 41 seconds. When no record label would release their music, the band formed their own indie label, Epitaph, to issue the EP. "The record featured six songs that were over in 9 minutes and 41 seconds, and it all began with a song called Bad Religion. Bad Religion from their 1980 debut EP issued on their own Epitaph records." ← https://www.youtube.com/watch?v=0qigzi1j81U ← bad-religion
+**Bad Religion (1980)** : This debut EP, released in 1980, features six songs that run for a total of 9 minutes and 41 seconds. When no record label would release their music, the band formed their own indie label, Epitaph, to issue the EP. "The record featured six songs that were over in 9 minutes and 41 seconds, and it all began with a song called Bad Religion. Bad Religion from their 1980 debut EP issued on their own Epitaph records." ← https://www.youtube.com/watch?v=0qigzi1j81U ← bad-religion
 **Bad Religion (1981)** : This self-titled EP was the first release from the Epitaph label in 1981, a company established by the band themselves because no other label was interested in releasing their music. Initially, Epitaph served as a vehicle solely for Bad Religion's records. "The first release from the label was their self-titled EP in 1981." ← https://www.youtube.com/watch?v=VOv5mT1dJd8 ← bad-religion
 **Bad Religion EP (1980)** : The debut EP by Bad Religion, released in 1980, featured six songs spanning nine minutes and 41 seconds. The band formed their own indie label, Epitaph, to release this record after failing to secure a label. "The record featured six songs that were over in nine minutes and 41 seconds, and it all began with a song called Bad Religion." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← bad-religion
 **Stranger Than Fiction (1994)** : This album was released on September 6, 1994. The band had been persuaded to sign a major record deal, transitioning from their independent label, Epitaph Records. Stranger Than Fiction quickly achieved commercial success, selling more than half a million copies. "And on September 6, 1994, they released an album entitled Stranger Than Fiction, and it quickly sold more than half a million copies." ← https://www.youtube.com/watch?v=pE7TaWSUa-o ← bad-religion
-**Stranger Than Fiction (1994) - Gold Album** : This eighth album, released in 1994 amidst the punk revival, was unique for not being released on their own Epitaph label. Instead, due to various reasons, it was released on Atlantic, part of the major label conglomerate Warner's, and became the only Bad Religion album to achieve gold status. "The record was called Stranger Than Fiction and it became the only Bad Religion album to go gold." ← https://www.youtube.com/watch?v=0QtMI00T5jw ← bad-religion ← bad-religion
-**Stranger Than Fiction (1994) – First Major Label Album** : This was Bad Religion's eighth album and their first released on a major label, coming out on September 6, 1994. The band took significant criticism from some fans who accused them of "selling out" their punk principles by signing with a major. However, the move was successful, selling close to a million copies in the US and going gold in Canada, which significantly expanded their audience. "Stranger Than Fiction sold close to a million copies in the US and also went gold in Canada." ← https://www.youtube.com/watch?v=gkLMwrthZ9s ← bad-religion
+**Stranger Than Fiction (1994)** : This eighth album, released in 1994 amidst the punk revival, was unique for not being released on their own Epitaph label. Instead, due to various reasons, it was released on Atlantic, part of the major label conglomerate Warner's, and became the only Bad Religion album to achieve gold status. "The record was called Stranger Than Fiction and it became the only Bad Religion album to go gold." ← https://www.youtube.com/watch?v=0QtMI00T5jw ← bad-religion ← bad-religion
+**Stranger Than Fiction (1994)** : This was Bad Religion's eighth album and their first released on a major label, coming out on September 6, 1994. The band took significant criticism from some fans who accused them of "selling out" their punk principles by signing with a major. However, the move was successful, selling close to a million copies in the US and going gold in Canada, which significantly expanded their audience. "Stranger Than Fiction sold close to a million copies in the US and also went gold in Canada." ← https://www.youtube.com/watch?v=gkLMwrthZ9s ← bad-religion
 **Suffer (1988)** : Released in 1988, this album is identified as a potential "inflection point" for skate punk, marking a shift towards more melodic music with actual singable melodies, while retaining speed and intensity. Following this record, most bands in the genre adopted a direction with more "pop sensibilities." "The inflection point might have been Bad Religions 1988 album Suffer." ← https://www.youtube.com/watch?v=44dXy0StjIQ ← bad-religion
 
 ## songs
@@ -41,7 +39,7 @@
 **Academic Writings Available Online** : For those interested in his scholarly work, Greg Graffin's academic writings can be accessed through links provided on the Bad Religion website. "If you would like to read some of his academic writings, there are links on the Bad Religion website." ← https://www.youtube.com/watch?v=QfiRRtsZoYU ← bad-religion
 **Accused of Blasphemy and Sacrilege** : When Bad Religion left their indie imprint, Epitaph, for a major record label, punk purists condemned the decision as "blasphemy and sacrilege." This reaction highlighted the ideological clash between punk's DIY ethos and mainstream commercialism. "And bad religion, with a major record label leaving their own indie imprint, epitaph, behind, blasphemy and sacrilege." ← https://www.youtube.com/watch?v=pE7TaWSUa-o ← bad-religion
 **Ancient Bird Species** : Greg Graffin of Bad Religion has an ancient bird named after him, *Kyliania Grafini*, which lived in China approximately 120 million years ago. This honor is particularly significant for Graffin, who is also a paleontologist. "Greg Graffin of Bad Religion has Kyliania Grafini, which is a bird that lived in China about 120 million years ago." ← https://www.youtube.com/watch?v=VMPLplhDk8I ← bad-religion
-**Band Formation** : Bad Religion formed in 1980 when a group of high school students, inspired by early hardcore bands like Black Flag, the Circle Jerks, and The Germs, decided to participate in the scene. "They came together in 1980 when a bunch of high school students, inspired by the likes of Black Flag, the Circle Jerks, and the germs, decided that they wanted a piece of the action." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← bad-religion
+**Formation and Inspiration** : Bad Religion formed in 1980 when a group of high school students, inspired by early hardcore bands like Black Flag, the Circle Jerks, and The Germs, decided to participate in the scene. "They came together in 1980 when a bunch of high school students, inspired by the likes of Black Flag, the Circle Jerks, and the germs, decided that they wanted a piece of the action." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← bad-religion
 **Early Booking by Kevin Lyman** : Kevin Lyman, the future founder of the Warped Tour, booked Bad Religion for performances at California State Polytechnic University in Pomona when they were just starting out in the early 1980s. "What he would basically do is hire bands like Bad Religion and the Bangles when those groups were just starting out in the book at the university." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← bad-religion
 **Early Distribution Struggles** : Bad Religion, a Southern California punk band, faced similar challenges as Black Flag in the early 1980s, unable to find anyone willing to distribute their self-produced records. This led the band to take a do-it-yourself approach to ensure their music reached an audience. "They also couldn't find anyone willing to distribute their self-produced records." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← bad-religion ← bad-religion
 **Enduring Career** : Established in 1979, Bad Religion experienced a peak in 1994-95 but continues to tour and release new music to this day. "Bad Religion, established 1979, peaked 1994-95 and still touring and still making records." ← https://www.youtube.com/watch?v=0QtMI00T5jw ← bad-religion ← bad-religion
@@ -65,8 +63,6 @@
 **Tony Hawk Video Game Feature** : Music from Bad Religion was featured in Tony Hawk's popular skateboarding video games. "Tony Hawk's video games sold by the millions, and each one featured appropriate music from groups like The Vandals and Laguewagon, Suicidal tendencies, Millen-Call and Bad Religion, and so many more." ← https://www.youtube.com/watch?v=44dXy0StjIQ ← bad-religion
 **Transition to Major Label** : Bad Religion, initially working on their independent label Epitaph Records, was eventually convinced to sign a major record deal. This move sparked considerable controversy among punk purists. "They had been working on their own independent epitaph records, and they were convinced to sign a major record deal." ← https://www.youtube.com/watch?v=pE7TaWSUa-o ← bad-religion
 **Warped Tour Feature** : Bad Religion was among the bands that performed during the early years of the Warped Tour, a significant platform for pop punk and ska punk acts. "In just the first few years, the tour featured bad religion." ← https://www.youtube.com/watch?v=pE7TaWSUa-o ← bad-religion
-
-
 
 ## lists
 **"No Control" (1989) — Scaruffi 1980s** : #122, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

@@ -2,8 +2,6 @@
 
 ## member of
 - Led Zeppelin
-- Lésepirín
-- The Jarpers
 - The Yardbirds
 
 ## instruments
@@ -11,10 +9,7 @@
 - Guitar
 
 ## albums
-**Walking into Clarksdale (Year not specified)** : Years later, Steve Albini was the sound engineer for the Page and Plant album, *Walking into Clarksdale*. This collaboration saw Albini applying his technical expertise to the work of two rock legends. "Años más tarde, Albindli sería el ingeniero de sonido del disco de Page-Sipland, Walking Into a Clashdale." ← 7 discos para entender la producción de STEVE ALBINI | https://www.youtube.com/watch?v=JaRh-z6fLfQ
-
-## songs
-**My Book It's Got A Whole in It** : Jimmy Page recorded a version of this old jazz standard, demonstrating its enduring influence across generations of musicians, from jazz to rock. "My book It's Got A Whole in It would later be recorded by everyone from Hank Williams to Louis Armstrong, Jimmy Page in Robert Plant to Willie Nelson and Winter Marseilles." ← Episode 54： Keep A Knockin | https://www.youtube.com/watch?v=oA4Y_K9E5Y4
+**Walking into Clarksdale** : Years later, Steve Albini was the sound engineer for the Page and Plant album, *Walking into Clarksdale*. This collaboration saw Albini applying his technical expertise to the work of two rock legends. "Años más tarde, Albindli sería el ingeniero de sonido del disco de Page-Sipland, Walking Into a Clashdale." ← 7 discos para entender la producción de STEVE ALBINI | https://www.youtube.com/watch?v=JaRh-z6fLfQ
 
 ## curiosities
 **Accused of Plagiarism for "Stairway to Heaven"** : Jimmy Page, guitarist for Led Zeppelin, was accused by Randy California of Spirit (and his estate) of ripping off the guitar arpeggio from Spirit's instrumental "Taurus" for Led Zeppelin's "Stairway to Heaven." This led to a contentious, years-long court battle that concluded at the Supreme Court in 2020, with the court ultimately rejecting the plagiarism claim. "For years, Randy California, lead guy at Spirits, and then his estate after he died, claimed that Jimmy Page ripped off Taras for Stairway to Heaven." ← https://www.youtube.com/watch?v=fS8V3kYXT6w ← jimmy-page ← jimmy-page
@@ -27,8 +22,3 @@
 **Managed by Q Prime (Individually)** : Jimmy Page was managed on his own for a while by Q Prime, following their management of Led Zeppelin's one-off reunion show in 2007. This highlights Q Prime's individual artist representation. ← https://www.youtube.com/watch?v=PzyvXmDKFUc ← jimmy-page
 **Played on Chris Curtis Solo Single** : Jimmy Page was among the musicians who played on Chris Curtis's solo single, "Aggravation." "The musicians on that included Jimmy Page, John Paul Jones and Joe Moettey." ← Episode 113： ＂Needles and Pins＂ by The Searchers | https://www.youtube.com/watch?v=izC9ZBI0UHM
 **Replacement in The Jarpers** : Jimmy Page, who would later become the leader guitarist of Lésepirín, replaced Jet Beck in The Jarpers. His presence marked the third in a succession of legendary guitarists to pass through the band. "Sería reemplazado por otro grandísimo guitarrista de la historia que sería Jimmy Page el líder guitarrista del lésepirín." ← Music Radar Clan > The Yardbirds, una banda clave para entender la historia de la música | https://www.youtube.com/watch?v=dCGrHEAqPC0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jimmy-page ← jimmy-page
-
-
-
-## charts
-**"473" — NME Chart** : 16 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

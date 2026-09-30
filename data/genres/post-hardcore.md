@@ -8,9 +8,8 @@
 **Evolution from Hardcore** : Post-hardcore was identified as a progression from hardcore in the lineage of aggressive music that Alexis on Fire explored and contributed to, eventually leading into screamo. "You have punk, which turns into hardcore, which turns into post-hardcore, which becomes screamo and all that sort of weirdness, right?" ← Ongoing History of New Music > Alexisonfire - In Their Own Words Podcast | https://www.youtube.com/watch?v=nEPT8ZVZ0so&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- Alexis on Fire
 - Alexisonfire
 - Fugazi
 - Pianos Become The Teeth
-- Touche Amore
+- Touché Amoré
 

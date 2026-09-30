@@ -38,6 +38,9 @@
 **Unusual Use in Post-Rock** : In post-rock, bass guitars, along with other traditional rock instruments, are employed in unusual ways to produce non-rock outcomes, contributing to the genre's experimental philosophy. "What we're doing is producing non-rock outcomes. That means compositions without the usual verse chorus, verse structure, and more atmospheric, some more experimentation, and more of a cinematic approach to audio." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← bass
 **Walking Bass Line in Ska** : The bass line is highly important in ska, characterized by "steady quarter notes along a scale or something similar," known as a walking bass line. This contributes significantly to the genre's infectious and danceable sound. "The bass line is very important too; steady quarter notes along a scale or something similar. We call that a walking bass line, and the result is a very infectious sound that's really easy to dance to." ← https://www.youtube.com/watch?v=zNIVqKqAlnk ← bass
 **Wolfgang Van Halen's Role** : Wolfgang Van Halen played bass in his father and uncle's band, Van Halen, for years. "Wolfgang Van Halen has been playing bass in his dad and uncle's band for years." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← bass
+**Sting's Early Learning Technique** : As a teenager, Gordon Sumner (Sting) would speed up records to 45 RPM or 78 RPM to better hear and learn the bass lines played by virtuosos like Paul McCartney, James Jamerson, and Jack Bruce. "Sting later told stories of speeding up his records, playing 33 RPM records at 45 RPM, or 45s at 78. So he could better hear and learn the bass lines, whether it was by Paul McCartney playing virtuosic bass with the Beatles." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
+**Sting's Routine Ranking** : Sting "routinely makes polls of the best bass players of all time," highlighting his recognized skill and impact on the instrument. "a legitimately talented songwriter and bassist. By the way, he routinely makes polls of the best bass players of all time." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
+**Chuck Rainey on Amazing Grace (1972)** : Bassist Chuck Rainey was among the rock accompanists Aretha Franklin invited to play on her *Amazing Grace* live recording sessions, integrating rock elements into the gospel sound. "including bassist Chuck Rainey" ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
 
 ## artists
 - Adam Clayton
@@ -49,18 +52,17 @@
 - Bob Wills and His Texas Playboys
 - Bootsy Collins
 - Boris Baker
-- Can
-- Carol K
+- CAN
 - Carol Kaye
-- Charles Chandler
-- Chris Berkett
+- Chas Chandler
+- Chris Birkett
 - Chuck Wigginson
 - Cliff Burton
 - Colin Greenwood
 - Dalmar Hawkins Sr
 - Dave "Phoenix" Farrell
 - Dave Richmond
-- Dell Palmer
+- Del Palmer
 - Dinosaur Jr.
 - Duck Dunn
 - Elvis Presley
@@ -84,8 +86,8 @@
 - Klaus Voormann
 - Larry Wellborn
 - Led Zeppelin
-- Louis Steinberg
-- Manfred Mann (band)
+- Lewie Steinberg
+- Manfred Mann
 - Michael Anthony
 - Michael Todd
 - Nihilist Spasm Band
@@ -93,20 +95,17 @@
 - Ozark Mountain Daredevils
 - Paul McCartney
 - Peter Hook
-- Phil Harvey band
-- Rage Against The Machine
 - Rage Against the Machine
 - Ramones
 - Ray Charles
 - Red Hot Chili Peppers
-- Richie Polador
+- Richie Podolor
 - Roy Estrada
 - Scott Reeder
 - Sid Vicious
 - Sloan
-- Sugar (Johnny Otis's son)
+- Shuggie Otis
 - Talking Heads
-- Ted Vincent
 - The Animals
 - The Black Keys
 - The Blue Caps
@@ -115,7 +114,6 @@
 - The Crickets
 - The Farriss Brothers
 - The Gamblers
-- The Ramones
 - The Smashing Pumpkins
 - The Smiths
 - The Stone Roses
@@ -131,4 +129,8 @@
 - Waylon Jennings
 - Willie Dixon
 - Wolfgang Van Halen
-
+- Hiro Yamamoto
+- Ben Shepherd
+- Sting
+- Darryl Jones
+- Chuck Rainey

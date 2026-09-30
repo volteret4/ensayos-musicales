@@ -5,7 +5,5 @@
 **Frontman of Cockney Rebel** : Steve Harley was widely recognized by British music fans as the distinctive frontman for the band Cockney Rebel. "He was a singer-songwriter best known to British music fans as the frontman for the band Cockney Rebel." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← steve-harley
 **Polio Diagnosis (1950s)** : At the age of two in the 1950s, Steve Harley contracted polio. Doctors initially told his parents that he was not expected to live. "He contracted polio back in the 1950s at the age of two, and doctors told his parents that he would not live." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← steve-harley
 
-
-
 ## charts
 **"390" — NME Chart** : 26 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

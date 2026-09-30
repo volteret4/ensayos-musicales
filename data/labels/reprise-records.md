@@ -8,10 +8,9 @@
 **Producer Rob Cavallo's Influence** : Rob Cavallo, a key figure at Reprise Records, played a crucial role as a co-producer of Grimbey's album "Dookie." His involvement was instrumental in the album's success, marking the first time the band worked with an external professional producer. "Rob Cavallo era una persona muy importante del repris y records que fue la discográfica que hizo este álbum y que realmente es una de las personas que ha ido mucho al éxito de este disco." ← Music Radar Clan > Green Day - Dookie (¿el concierto más divertido de los '90？) | https://www.youtube.com/watch?v=hPloRX7TWrY&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← reprise-records ← reprise-records
 
 ## artists
-- Christine McVie (née Perfect)
+- Christine McVie
 - Fleetwood Mac
 - Green Day
-- Grimbey
 - My Chemical Romance
 - Pure
 

@@ -24,6 +24,7 @@
 **Signing The Stone Poneys** : Capitol Records signed Linda Ronstadt and her band, The Stone Poneys, to a record deal shortly after their two-week gig at The Troubadour in 1965. "And then they got her record deal with capital records not long after that." ← For the Record - The 70s > Ep. 41 - The Impact of The Troubadour on 1970s Popular Culture | https://seventies.libsyn.com/ep-41-the-impact-of-the-troubadour-on-1970s-popular-culture
 **Signing the Beastie Boys and Creative Freedom (Late 1980s)** : Capitol Records signed the Beastie Boys after their contentious departure from Def Jam, offering the group "total freedom" in making their next album. However, the label was expecting a commercial success akin to *Licensed to Ill* but instead received *Paul's Boutique*, an unexpected and commercially challenging record. "But capital was expecting another license to yield. What they got was something unexpected and something very ahead of its time." ← https://www.youtube.com/watch?v=l1jPP1FhGo8 ← capitol-records
 **Use of MacroVision CDS2000** : In Europe, Capitol Records, the Beastie Boys' label, utilized "MacroVision CDS2000," a "rather insidious form of copy protection software that mimicked a virus," on their disks for *To the 5 Buroughs*. This created problems and accusations due to its similarity to the Sony rootkit scandal. "In Europe, capital records, the Beastie's label, used something called MacroVision CDS2000, which was a rather insidious form of copy protection software that mimicked a virus." ← https://www.youtube.com/watch?v=HZzP0qswdwM ← capitol-records ← capitol-records
+**First Song Sold Online (1997)** : Capitol Records pioneered digital music sales in 1997 by issuing Duran Duran's "Electric Barbarella" as a 99-cent digital single. This marked the first song sold online, three years after the first free distribution, although it was released in a now "long defunct format called Liquid Audio," indicating its beta test nature. "Durand Durand's minor 1997 hit Electric Barbarella, a number 52 hot 100 hit, was issued by Capital Records as a 99 cent digital single." ← Hit Parade Music History and Music Trivia > Ride ’til I Can’t No More Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce88
 
 ## artists
 - Arcade Fire
@@ -35,11 +36,11 @@
 - Johnny Mercer
 - Linda Ronstadt
 - Nat King Cole
-- Nick Renee
+- Nick Venet
 - The Beach Boys
 - The Beatles
 - The Knack
 - The Louvin Brothers
 - The Stone Poneys
 - Wanda Jackson
-
+- Duran Duran

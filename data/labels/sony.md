@@ -58,7 +58,6 @@
 
 ## artists
 - AC/DC
-- ACDC
 - David Bowie
 - Joe Strummer
 - Oasis

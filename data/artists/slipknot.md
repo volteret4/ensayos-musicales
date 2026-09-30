@@ -3,11 +3,10 @@
 ## members
 - Corey Taylor
 - Joey Jordison
-- Shawn "Clown" Crahan
-- Shawn Crahan (Clown)
+- Shawn Crahan
 
 ## genres
-- New Metal (implied)
+- New Metal
 - Nu Metal
 
 ## concerts
@@ -15,12 +14,10 @@
 
 ## instruments
 - Clown masks
-- Recording console (from Sound City Studios)
-
-## albums
-**Number One Records in 2010s** : Slipknot was among the artists, including Blink-182, Green Day, Coldplay, Jack White, Red Hot Chili Peppers, Queens of the Stone Age, Pearl Jam, Foo Fighters, U2, Linkin Park, Fall Out Boy, Evanescence, and David Bowie, who achieved number one records during the 2010s. This demonstrated the continued success of rock acts in an era where hip hop was a dominant cultural force. "Link wanted a two Green Day Coldplay Jack White, Red Hotch-Lie Pepper, Slipp-Nont, Queens of the Stone Age, Pearl Jam, Foo Fighters, U2, Link and Park Follow Boy, Evan Essence, Queens of the Stone Age, and Bowie all had number one records over the course of the decade." ← https://www.youtube.com/watch?v=HSvgRyGiOpE ← slipknot
+- Recording console
 
 ## curiosities
+**Pronounced Metal Leanings** : Lip knots was noted for having "much more intense" musical leanings due to their pronounced metal elements within the new metal genre. "Other bands were much more intense because of their pronounced metal leanings, ... lip knots." ← https://www.youtube.com/watch?v=5bQz8R0gbXc ← lip-knots
 **"Maggots" as Fan Term** : Slipknot uses the term "maggots" as a term of endearment for their fanbase. Morné Harmse, who carried out a school attack and cited Slipknot as an influence, referred to the mask he wore during the incident as his "maggot mask." "If you don't know, Slipknot's term of endearmate for their fans is maggots." ← https://www.youtube.com/watch?v=FtGJHhqXcDI ← slipknot
 **Active Rock Radio Benefit (2010s)** : This band, identified as one of the most successful survivors of the nu metal era, benefited from promotion on active rock radio stations in the 2010s. "This included corn and slipknot, the two most successful survivors of the new metal era." ← https://www.youtube.com/watch?v=sOU54d8mr5k ← slipknot
 **Compromised Password Choice** : In an analysis of 300 million compromised passwords found on the dark web, "Slipknot" was used as a password 258,000 times, making it the third most compromised music-related password. "Then it slipped not as the third most compromised music-related password, 258,000 times." ← https://www.youtube.com/watch?v=KtdIMNoHqA8 ← slipknot ← slipknot
@@ -42,8 +39,6 @@
 **Slipknot (Des Moines IA, 1995) – Masks Allow Members to "Become Unconscious of Who We Are"; Masks Updated Annually** : Slipknot began in Des Moines, Iowa in 1995 — a very religious part of the US. The clown (Shawn "Clown" Crahan) wore a clown mask at their first gig just before Halloween, and the rest of the band joined in. Each member was originally assigned a number (0–8). Corey Taylor explained the masks: "It's our way of becoming more intimate with the music. It's a way for us to become unconscious of who we are and what we do outside of music." The jumpsuits and numbers were also a statement against materialism and the music industry. Masks are regularly updated — homemade at first, now designed with help from a designer who goes by Screaming Mad George. "It's our way of becoming more intimate with the music. It's a way for us to become unconscious of who we are and what we do outside of music." ← https://www.youtube.com/watch?v=DiyIPBKiVW4 ← slipknot
 **Stance Against Moshing as Bullying** : Slipknot, known for its aggressive musical style, has publicly taken a stand against how moshing has evolved, specifically denouncing it as a form of bullying. This position from a band recognized for its intensity highlights a shift in perception even within heavy music genres regarding acceptable mosh pit behavior. "And slipknot, an aggressive band, if there ever was one, has come out against how moshing has evolved, calling it a form of bullying." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y ← slipknot
 **Unknowable Vibe Despite Known Identities** : Although all members' names are known and they have been seen without masks, Slipknot maintains an "unknowable vibe" from a distance, with members using numbers instead of names, wearing jumpsuits, and evolving face masks. "We know all their names. We've seen them all without their masks. But when viewed from a distance, they've got this unknowable vibe. Each member goes by a number instead of a name. Their stage uniforms consist of jumpsuits. And they've each got face masks that have changed and evolved over the years." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← slipknot ← slipknot
-
-
 
 ## lists
 **"Slipknot" (1999) — 1001 Albums You Must Hear Before You Die** : #886, 7.0/10 Scaruffi.

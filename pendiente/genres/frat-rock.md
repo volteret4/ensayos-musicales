@@ -5,5 +5,5 @@
 **Pioneered by Joey D and the Starlighters** : Joey D and the Starlighters' musical style, described as a stripped-down version of R&B with a dominant organ, was a style that would later be recognized as Frat Rock. "The kind of thing that would later get known as Garage Rock or Frat Rock." ← Episode 91： ＂The Twist＂ by Chubby Checker | https://www.youtube.com/watch?v=LzsS8EXdsm8
 
 ## artists
-- Joey D and the Starlighters
+- Joey Dee and the Starliters
 

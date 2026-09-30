@@ -25,12 +25,11 @@
 - David Bowie
 - Iggy Pop
 - Lenny Kravitz
-- Michael Field
-- Public Image Limited
+- Mike Oldfield
 - Public Image Ltd
 - Sex Pistols
 - Simple Minds
 - The Chemical Brothers
 - The Smashing Pumpkins
 - The Stooges
-
+- Spice Girls

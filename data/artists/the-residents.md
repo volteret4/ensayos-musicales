@@ -14,9 +14,7 @@
 - The Cryptic Corporation
 
 ## albums
-**Al Roots (XXXX) - Cult Album Edition** : This month sees the release of what is described as The Residents' "cult album par excellence," identified as "Al Roots." The speaker considers it one of the most important rock albums. "este mes yo creo que editan el disco de su cultura por excelente, al Roots, yo creo que fue uno de los discos más importantes que hemos tenido en el rock." ← Music Radar Clan > Lanzamientos Noviembre 2017 | https://www.youtube.com/watch?v=kA9T4DfQ0j8&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Duck, Stab, Buster, and Glenn (1978)** : This record was released by the band in 1978. "This is from a 1978 record called Duck, Stab, Buster, and Glenn." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← the-residents ← the-residents
-**Super Limited Editions (XXXX)** : Several super-limited editions of The Residents' work are being released, consisting of approximately a thousand units each. These editions are presented in SHQ (Super High Quality) vinyl and polycarbonate vinyl, following a re-edition of one of their most emblematic albums last month. "se hacen varias ediciones super limitadas en torno mil milipiconidades en SHQ, Super High Quality en Vinilo, vinilos de Policarbonato." ← Music Radar Clan > Lanzamientos Noviembre 2017 | https://www.youtube.com/watch?v=kA9T4DfQ0j8&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## songs
 **Constantinople** : This song is from their 1978 record, "Duck, Stab, Buster, and Glenn." "This is entitled Constantinople." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← the-residents ← the-residents
@@ -35,8 +33,6 @@
 **Public Appearance Costumes** : When The Residents appear in public, they always wear costumes, prominently featuring giant eyeball helmets that cover their heads, and they consistently remain silent. "When they do appear in public, they're in costume with giant eyeball helmets covering their heads. And they never speak." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← the-residents ← the-residents
 **The Residents (Shreveport LA, 1969) – No Known Members; Hardy W. Fox Died 2018 Listed as Co-Founder; George Harrison and Claypool Denied** : The Residents are an art collective that originated in Shreveport, Louisiana in 1969. By 1971 they were performing in San Francisco. They have never shown their faces or listed any band members — their only point of contact is a company called Cryptic Music. When their debut album Meet the Residents was released in 1974 (parodying the Beatles' Meet the Beatles), some fans believed they were actually the Beatles in disguise. Hardy W. Fox — who claimed to have been a Resident — died in 2018 with his obituary listing him as co-founder and primary songwriter. Other names tied to the band include Homer Cook (unconfirmed), Jay Clem (maybe), and "Charles Boebuck" (apparently a pseudonym for Fox). Contrary to rumors, George Harrison, Les Claypool of Primus, and no member of Devo has ever been in the band. "I can tell you, though, contrary to rumors, George Harrison less clay pool of primus, and no one from Devo has ever been in the residence." ← https://www.youtube.com/watch?v=DiyIPBKiVW4 ← the-residents
 **Worthy "Bent Band" Mention** : The Residents were listed as another band considered worthy of inclusion on a list of "bent" or unconventional artists from the alternative era. "The residents." ← https://www.youtube.com/watch?v=I9_3EbwKPnU ← the-residents ← the-residents
-
-
 
 ## lists
 **"Duck Stab / Buster & Glen" (1978) — 1001 Albums You Must Hear Before You Die** : #404.

@@ -1,7 +1,7 @@
 # artist - Wayne Shorter
 
 ## labels
-- Blue Note (collaborator)
+- Blue Note
 
 ## instruments
 - Soprano sax
@@ -15,3 +15,5 @@
 **Spiritual Playing Style** : Wayne Shorter's playing is described as not imposing, but "gorgeous," "amazing," "humble," and "spiritual." He was not playing in the intro of "Peace" not because he disliked it, but because he was actively listening to what was happening in the music, waiting for the right moment to contribute. "It was just such a spiritual practice probably to him. I mean, that's how he went about it. Spiritual is the right word for it." ← Hit Parade Music History and Music Trivia > Introducing Broken Record - Norah Jones Begins Again | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cbc
 **Unique Approach to Recording "Peace"** : During the recording of Horace Silver's "Peace" with Norah Jones, Brian Blade, and John Patitucci, Wayne Shorter listened intently throughout the intro and Norah's first two vocal verses, choosing not to play. He then entered "brutally" for the solo section, illustrating his philosophy that he only plays when he has "something to say," resulting in a sound described as gorgeous, amazing, humble, and spiritual. "And then as soon as we get to like the solo, I'm like, I guess maybe all solo. I wasn't sure and then he just brutally like he came in and I think the thing I've learned and I've noticed that Brian is like this as well. They don't really play until they have something to say." ← Hit Parade Music History and Music Trivia > Introducing Broken Record - Norah Jones Begins Again | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cbc
 
+## lists
+**"Speak No Evil" (1966) — AOTY Must Hear 1960s** : #67, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/

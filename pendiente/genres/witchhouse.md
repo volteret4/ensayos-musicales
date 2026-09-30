@@ -15,9 +15,6 @@
 **Tumblr as a Showcase** : Tumblr became a major showcase for the Witchhouse genre, intertwining the gothic, the digital, and the ironic to construct an influential visual identity on the platform. "També se convertió en el gran escaparate del genero, un lugar donde logótico, lo digital y lo ironico se entrelazaban para construir una identidad visual que fue un influyente en la plataforma." ← Witch House： Cuando internet inventó su género maldito | https://www.youtube.com/watch?v=SLlzXA0eyu0
 
 ## artists
-- Aneskeleton
 - Crystal Castles
 - Salem
-- Sine Walsh
-- White Rink
 

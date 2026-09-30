@@ -1,9 +1,16 @@
 # artist - Cardi B
 
+## genres
+- Hip Hop
+
+## songs
+**Finesse** : Cardi B was featured rapping on the remix of Bruno Mars's number three hit "Finesse," contributing to its chart success and expanding its hip-hop appeal. "whose remix featured rapping from Cardi B." ← Hit Parade Music History and Music Trivia > Lenny on Mars Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f54d1ba84fb8f0463bf
+**I Like It (2018)** : Cardi B's 2018 number one hit, featuring new vocals by Cardi B herself, and Latin megastars Bad Bunny and J Balvin. The track is essentially a remake and interpolation of Pete Rodriguez's 1967 boogaloo salsa jam "I Like It Like That," creating a win-win scenario for multiple audiences and financial stakeholders. "It's titled I Like It. And it's got new vocals by Cardi and Latin Megastars Bad Bunny and Jay Balvin." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
+**Outside (2025)** : Cardi B's 2025 Top 10 hit "Outside" expresses her "desire for freedom from a bad relationship and bad career juju," drawing comparisons to the style of Lauryn Hill. This shows how current artists are using diss records for personal and professional liberation, reflecting broader societal shifts. "Cardi B, who's 2025 Top 10 hit outside, expresses her desire for freedom from a bad relationship and bad career Juju, Lauren Hillstein." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+
 ## curiosities
 **$200,000 Diamond Necklace for 3-Year-Old Daughter** : Following a series of hit singles, Cardi B purchased a diamond necklace valued at $200,000 for her daughter's third birthday. This extravagant gift showcased her lavish spending habits on her family. "One of the things she did was buy her daughter a diamond necklace worth $200,000 for her birthday." ← https://www.youtube.com/watch?v=-N6IM5Nm5iw ← cardi-b
-
-
+**Extensive Songwriting Credits (2018)** : The creation of Cardi B's "I Like It" involved significant collaboration, with songwriting credits extended not only to the original writers of Pete Rodriguez's "I Like It Like That" but also to Cardi B, Bad Bunny, J Balvin for their vocal segments, and nearly a dozen other collaborators in the studio. "Not only did the songwriters of Pete Rodriguez's I Like It Like That get credit for Cardi B's I Like It. So did Cardi B. And Bad Bunny and Jay Balvin who co-wrote their vocal segments. And nearly a dozen other songwriters who all collaborated in the studio with Cardi, Bunny and Balvin." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
 
 ## awards
 **Shorty Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q7502282

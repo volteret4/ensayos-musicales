@@ -6,6 +6,4 @@
 ## artists
 - Jan and Dean
 - The Beach Boys
-- The Rip Chords
-- The Riviera
 

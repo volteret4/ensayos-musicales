@@ -9,13 +9,13 @@
 
 ## instruments
 - Bass guitar
-- Guitar (former member)
+- Guitar
 - Hybrid acoustic electric grand piano
 - Piano
 - Yamaha CP70BM
 
 ## albums
-**Hopes and Fears (2004) - Breakthrough Album** : Keane's major breakthrough came with the release of their album "Hopes and Fears" in 2004. This album solidified their place in the music industry. "And the big breakthrough came with the hopes and fears album in 2004." ← https://www.youtube.com/watch?v=CyTI00SIrLE ← keane ← keane
+**Hopes and Fears (2004)** : Keane's major breakthrough came with the release of their album "Hopes and Fears" in 2004. This album solidified their place in the music industry. "And the big breakthrough came with the hopes and fears album in 2004." ← https://www.youtube.com/watch?v=CyTI00SIrLE ← keane ← keane
 
 ## curiosities
 **Battle, England Origins - Population 6,048** : Keane originates from Battle, England, a town with a population of 6,048. The town is historically significant as the site where William the Conqueror defeated King Harold II in 1066. "Barely 6,000 people live in battle, which is in the southeast of England, and it's called battle because back in 1066, this is where William the conqueror kicked the crap out of King Harold II, the history of England as we know it begins here. It's also in the hometown of Keene." ← https://www.youtube.com/watch?v=CyTI00SIrLE ← keane ← keane
@@ -32,12 +32,6 @@
 **Shared Birthday and Parental Friendship** : Singer Tom Chaplin and pianist Tim Rice-Oxley were both born on March 8, 1979. Their mothers bonded over having newborns with the same birthday and subsequently became friends. "This was the day that singer Tom Chaplin was born, and it was also the same birthday as a guy named Tom Rice Oxley, the two mothers bonded over newborns, and they became friends." ← https://www.youtube.com/watch?v=CyTI00SIrLE ← keane ← keane
 **Tim Rice-Oxley Declined Coldplay Offer** : Tim Rice-Oxley, a skilled piano player, was asked by Chris Martin to join his band, Coldplay, but Tim declined the offer. He believed that Keane had a better chance of success. "By this time, Tim Rice Oxley was a pretty good piano player, and some dude named Chris Martin was so impressed. He had asked him to join his band, which was called Coldplay. Tim thought that Keene was a better bat, so he said no to Chris." ← https://www.youtube.com/watch?v=CyTI00SIrLE ← keane ← keane
 
-
-
 ## awards
 **Brit Award for British Breakthrough Act (2005)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q16985318
 **Grammy Award for Best New Artist (2006)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643
-
-## lists
-**"Ea Taesse" (2006) — Sputnikmusic Best Albums 2006** : #116, 4.04 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/
-**"Ea II" (2009) — Sputnikmusic Best Albums 2009** : #12, 4.23 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2009/

@@ -10,5 +10,6 @@
 **Signature Element: Strings** : The prominent and "creamy" use of string arrangements is identified as the hallmark of Philly Soul, providing its distinctive and enveloping sound that sets it apart from other soul genres, such as Motown. "Of course, the element that's missing that makes Philly soul, Philly soul are the strings." ← For the Record - The 70s > Ep. 37 - Philly Soul and the Sound of the 70s | https://seventies.libsyn.com/ep-37-philly-soul-and-the-sound-of-the-70s
 
 ## artists
-- Hall & Oates
-
+- Daryl Hall & John Oates
+- Donna Summer
+- Barry White & Love Unlimited Orchestra

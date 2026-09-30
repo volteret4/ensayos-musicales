@@ -1,9 +1,5 @@
 # artist - Blackfire
 
-## members
-- One sister (unnamed)
-- Two brothers (unnamed)
-
 ## genres
 - Alternative Rock
 - Punk
@@ -24,8 +20,3 @@
 **Founding and Release History** : Blackfire was founded in 1989 and has released a series of EPs and albums sporadically throughout their career. "Blackfire was founded in 1989 and have sporadically released a series of EPs and albums." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← blackfire
 **Navajo Nation Origins** : Blackfire is a punk and alternative rock band from Phoenix, Arizona, consisting of two brothers and a sister, all of whom are members of the Arizona Navajo Nation, specifically the Diné. "Two brothers and a sister, all from the Arizona Navajo Nation, the DNA to be specific." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← blackfire
 **Traditional and Modern Influences** : Their father was a traditional medicine man who ensured his children were familiar with their tribe's music, while also being supportive of their love for bands like the Ramones. This unique upbringing influenced their blend of sound and subject matter. "Their father was a traditional medicine man who also made sure his kids knew about the tribe's music. He also did not mind that the kids really really liked bands like the Ramones." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← blackfire
-
-
-
-## lists
-**"Space Mantra" (1988) — Scaruffi 1980s** : #399, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

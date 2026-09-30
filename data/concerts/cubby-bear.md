@@ -5,6 +5,6 @@
 **Dave Grohl's First Live Show** : Located in Chicago, this venue hosted Dave Grohl's very first live concert experience around 1982 or 1983, where he saw Naked Ray Gun and Rights of the Accused. "a place called the Cubby Bear in Chicago." ← https://www.youtube.com/watch?v=8ynrwaUi-sA ← cubby-bear
 
 ## artists
-- Naked Ray Gun
+- Naked Raygun
 - Rights of the Accused
 

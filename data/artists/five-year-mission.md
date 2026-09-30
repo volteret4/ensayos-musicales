@@ -2,8 +2,3 @@
 
 ## curiosities
 **Star Trek Song Project** : Five Year Mission is a band dedicated to Star Trek, aiming to write a song for every single one of the 79 episodes of the original Star Trek series, showcasing an extreme level of fandom and niche creative endeavor. "They are working to write a song for everyone of the 79 episodes of the original Star Trek series." ← Ongoing History of New Music > History of Nerd Rock | https://www.youtube.com/watch?v=8lQv8eMJ868&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-
-
-
-## lists
-**"Carved In Sand" (1990) — Sputnikmusic Best Albums 1990** : #160, 3.84 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/

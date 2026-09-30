@@ -6,11 +6,10 @@
 
 ## genres
 - Emo
-- Emo (original sound)
 - Emo Pop
 - Pop
 - Pop Punk
-- Powerpop (contemporary, maybe)
+- Powerpop
 - Punk Rock
 
 ## concerts
@@ -36,10 +35,7 @@
 **Return from Hiatus (2013)** : Fall Out Boy returned from a hiatus in 2013 with the album "Save Rock and Roll," serving as a notable exception to the general decline of pop punk. "Fallout Boy, who actually returned from Mahayatus in 2013 with an album that they called Save Rock and Roll." ← https://www.youtube.com/watch?v=sOU54d8mr5k ← fall-out-boy
 **Reunion for Touring** : Fall Out Boy was one of many bands from past decades that reunited in the 21st century, a trend largely motivated by financial incentives. With declining CD sales impacting artist revenues, returning to the touring circuit offered a lucrative way to appeal to nostalgic fan bases and fill large venues. "The list of reunions is long." ← https://www.youtube.com/watch?v=GYUuTbOvyak ← fall-out-boy
 **Shift Towards Pop** : In the late 2000s, as pure pop gained dominance, Fall Out Boy consciously decided to "err on the side of pop when it came to writing new tunes." This strategic shift aimed to adapt to changing mainstream music trends. "This was the direction taken by Fallout Boy." ← https://www.youtube.com/watch?v=pE7TaWSUa-o ← fall-out-boy
-**Shift from Emo Sound** : After the peak of third wave emo, Fall Out Boy was noted as one of the bands that moved on to explore other sounds and styles, diverging from their original emo sound. "Others moved on to other sounds and styles, think panic at the disco and fallout boy in Paramore." ← https://www.youtube.com/watch?v=v_am7ifh7Pk ← fall-out-boy
 **Third Wave Emo Chart Success** : Fall Out Boy was among the bands whose emo records achieved mainstream success during the third wave of emo (early 2000s), with their albums reaching the top 10 on charts. "Emo records from bands like...Fallout Boy... all rocketed into the top 10 on the album charts." ← https://www.youtube.com/watch?v=v_am7ifh7Pk ← fall-out-boy
-
-
 
 ## awards
 **Alternative Press Music Award for Artist of the Year** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q26256412

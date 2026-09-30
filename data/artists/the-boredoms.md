@@ -12,8 +12,6 @@
 ## curiosities
 **Extreme Band at Lollapalooza** : The Boredoms were described as another extreme band. Their frontman, Yamantaka Eye, who previously fronted Hanatarash, performed with them at Lollapalooza in 1994. "Yamantaka, I would later go on to be in the Bordom's, another extreme band that toured as part of Lala Palusa in 1994." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← the-boredoms
 
-
-
 ## lists
 **"Vision Creation Newsun" (1999) — AOTY Must Hear 1990s** : #1, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
 **"Soul Discharge" (1989) — Scaruffi 1980s** : #293, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

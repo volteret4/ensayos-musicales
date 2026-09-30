@@ -6,5 +6,5 @@
 
 ## artists
 - Johnny Burnette
-- The Rock and Roll Trio
+- Johnny Burnette and the Rock and Roll Trio
 

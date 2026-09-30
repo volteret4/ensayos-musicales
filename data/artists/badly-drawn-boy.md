@@ -4,8 +4,6 @@
 **Manchester Origin** : Badly Drawn Boy is included in a list of numerous artists with roots in Manchester. "Badly Drum Boy." ← https://www.youtube.com/watch?v=q_Scyr2czh8 ← badly-drawn-boy
 **Manchester Origins** : Badly Drawn Boy is listed among the numerous bands from Manchester, emphasizing the city's prolific musical output. "loads of loads of Aces, Buzcocs of Fall, James, Godly and Cream, Badly Drone Boy, Elbow, you know, John Mayl, Star Sailor-Verb, Phil Linnett, group of Manchester, Smith and you are a simply red, all his, you know, he goes on and on and this, this is bands and bands and bands, you know." ← https://www.youtube.com/watch?v=KF_adyXf86Q ← badly-drawn-boy
 
-
-
 ## charts
 **"Pissing in the Wind" — UK Indie Singles Chart** : 2001. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart
 **"Silent Sigh" — UK Indie Singles Chart** : 2002. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart

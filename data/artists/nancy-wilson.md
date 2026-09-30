@@ -4,7 +4,7 @@
 - Heart
 
 ## genres
-- Grunge (influenced)
+- Grunge
 - Hard Rock
 
 ## instruments
@@ -18,8 +18,7 @@
 **Early Inspiration and Band Formation** : Nancy Wilson and her sister Ann were among the millions of children inspired to form a band after witnessing The Beatles' performance on The Ed Sullivan Show in February 1964, just before Nancy's tenth birthday. Nancy received her first guitar that same year. "she and her sister Ann, were one of the millions of kids who decided that they needed to form a band after seeing the Beatles on the Ed Sullivan show in February 1964." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← nancy-wilson
 **Musical Development and Hard Rock Focus** : By 1967, Nancy and Ann were performing as The Viewpoints, with Nancy also doing solo shows influenced by Joni Mitchell and Paul Simon, as well as rock figures like John Lennon, Paul McCartney, Jimi Hendrix, and Jimmy Page. As their groups evolved into Heart, Nancy increasingly focused on hard rock and discovered drop D tuning, a technique that would become vital to the grunge era 15 years later. "By the time some of the various groups she was in with Ann evolved into Hart, Nancy had become much more focused on hard rock and she discovered drop D tuning, something that would become essential to the grunge era 15 years later." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← nancy-wilson
 **Peter Grant's Sexist Rejection of Heart** : Peter Grant, Led Zeppelin's manager and a co-founder of Swan Song Records, allegedly dismissed a cassette from Heart as "rubbish" after only a few seconds, solely because the band was female-fronted and featured a woman as the lead guitarist, illustrating prevalent sexism in the music industry. "Grant allegedly listened to a few seconds of this cassette and immediately classified it as rubbish. Why? Well, because they were not only female fronted, but also because the lead guitarist was a woman." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← nancy-wilson
-
-
+**Target of Mushroom Records Scandal** : Nancy Wilson was, along with her sister Ann Wilson, the target of a scandalous promotional tactic by their former label, Mushroom Records, which tried to portray them as an "incestuous lesbian couple." "Anne and her sister Nancy Wilson as an incestuous lesbian couple, seriously." ← Hit Parade Music History and Music Trivia > Here’s the Beef Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef3154465cd600c4ef5
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

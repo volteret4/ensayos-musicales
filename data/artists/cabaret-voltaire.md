@@ -26,8 +26,6 @@
 **Second Electronic Phase** : Cabaret Voltaire later entered a second phase that was "more electronic," becoming one of the many bands that fully embraced electronic music. "la segunda tapa de Cabret Volter, más tarde llegaron los super éxitos que fueron de Pechmoth o New Order, ya con un solido más comercial, pero su origen era el mismo." ← La traición que salvó al punk. PiL | https://www.youtube.com/watch?v=YzQ6o-FgxSY
 **Shift to Hard Electro-Funk (1981)** : By 1981, Cabaret Voltaire had transitioned their sound into hard electro-funk, which became quite popular with the "Ultra-Hip Dance Floor crowd," indicating a successful evolution of their experimental roots into a more dance-oriented, yet still intense, style. "By 1981, they had made a turn into some hard, electro-funk that was quite popular with the Ultra-Hip Dance Floor crowd." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← cabaret-voltaire ← cabaret-voltaire
 
-
-
 ## lists
 **"Mix-up" (1978) — Scaruffi 1970s** : #206, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
 **"Red Mecca" (1981) — Scaruffi 1980s** : #299, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

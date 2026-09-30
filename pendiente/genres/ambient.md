@@ -6,12 +6,11 @@
 
 ## artists
 - Air
-- Andrea Hogan (Hügellands Roondance)
 - Boards of Canada
 - Brian Eno
-- David Botrell
+- David Bottrill
 - Jean-Michel Jarre
 - Moby
-- Peter Culman
+- Peter Christopherson
 - Vangelis
 

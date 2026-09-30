@@ -1,8 +1,5 @@
 # artist - Air
 
-## members
-- (two unnamed members)
-
 ## genres
 - Alt Rock
 - Ambient
@@ -11,15 +8,14 @@
 - Electronic
 - Electronic Dreampop
 - Electronica
-- Electrónica
 - Instrumental
 - Symphonic Electronic
 
 ## labels
-- Virgin (French branch)
+- Virgin
 
 ## albums
-**Premiers Symptômes (1997) - Debut Album** : This album was compiled from Air's first two singles, "Modular Miss" and "Seven Stars," along with other tracks. Despite their initial success in signing with Virgin, the album passed largely unnoticed upon its release. It struggled to find commercial success in France, where the electronic scene was predominantly "discotecquero," contrasting with Air's more ambient, Brian Eno-influenced style. "cuando salió realmente pasó muy desapercibido." ← Music Radar Clan > Los inicios de la banda AIR se cruzan con Peter Kuhlman | https://www.youtube.com/watch?v=rtS690CPKnw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← air ← air
+**Premiers Symptômes (1997)** : This album was compiled from Air's first two singles, "Modular Miss" and "Seven Stars," along with other tracks. Despite their initial success in signing with Virgin, the album passed largely unnoticed upon its release. It struggled to find commercial success in France, where the electronic scene was predominantly "discotecquero," contrasting with Air's more ambient, Brian Eno-influenced style. "cuando salió realmente pasó muy desapercibido." ← Music Radar Clan > Los inicios de la banda AIR se cruzan con Peter Kuhlman | https://www.youtube.com/watch?v=rtS690CPKnw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← air ← air
 
 ## songs
 **Modular Miss (1995)** : Air's first independently produced single, released shortly after the group's formation in 1995. This track later became the opening piece of their debut album, "Premiers Symptômes." It was part of the initial works that Virgin (French branch) began to distribute, leading to a conflict due to its similarities with Peter Culman's earlier 1993 album. "sacaron su primar sigue para tener todo producido que es el Modular Miss." ← Music Radar Clan > Los inicios de la banda AIR se cruzan con Peter Kuhlman | https://www.youtube.com/watch?v=rtS690CPKnw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← air ← air
@@ -33,8 +29,6 @@
 **European Electronic Scene** : Air is mentioned as an example of a European band creating instrumental and ambient electronic music during the late 1990s, contributing to a more open electronic scene in Europe that was receptive to Moby's sound. "en esa época nosotros ya teníamos bandas pues como puede ser er o como puede ser muchas estas bandas que hacían música un poco instrumental medio ambiental." ← Music Radar Clan > MOBY · PLAY. Influencia absoluta de la música de gran consumo | https://www.youtube.com/watch?v=VDMYe-qhZCs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← air ← air
 **Market Reception and Conflict of Interest** : Air's ambient and symphonic electronic style, influenced by artists like Brian Eno, was not particularly commercial in the mid-90s French electronic scene, which was more "discotecquero" (club-oriented). Consequently, they found more success in the United Kingdom than in France. A significant problem arose when Virgin intended to properly release their early works, as it was discovered that Peter Culman had released an electronic, instrumental album titled "60.000" in 1993, which also featured many French titles, creating a "gran conflicto de intereses." "Tanto fue así que tuvieron más éxito en el reino unido que en francés." ← Music Radar Clan > Los inicios de la banda AIR se cruzan con Peter Kuhlman | https://www.youtube.com/watch?v=rtS690CPKnw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← air ← air
 **Origins and Formation** : The two core members of Air, both French Parisians from Versailles, shared a remarkably similar background: they were the same age, studied solfège at the conservatory, learned a multitude of instruments, and even studied architecture at the same faculty. Their deep-rooted acquaintance and shared musical tastes solidified their bond, leading them to form Air in 1995 after the failure of their previous group, Orange. "los dos son franceses, por supuesto, pero son parísinos y encima son diversarias." ← Music Radar Clan > Los inicios de la banda AIR se cruzan con Peter Kuhlman | https://www.youtube.com/watch?v=rtS690CPKnw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← air ← air
-
-
 
 ## awards
 **Victory for the electronic, groove, dance music album (1999) — Moon Safari** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q16682511

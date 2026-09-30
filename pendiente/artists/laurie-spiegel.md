@@ -4,7 +4,7 @@
 - Música electrónica
 
 ## instruments
-- Computadoras (Bell Labs)
+- Computadoras
 - Mac 512K
 - Sintetizadores analógicos
 
@@ -14,3 +14,6 @@
 **Programación Musical en Bell Labs (1973)** : En 1973, Laurie Spiegel comenzó a trabajar en Bell Labs, donde aprendió a programar música en las gigantes computadoras de esa época. Este período fue fundamental para su desarrollo como pionera de la música por ordenador, en un momento en que las computadoras eran percibidas por la contracultura como herramientas de instituciones como bancos, el ejército y compañías de seguros. "En 1973, comienza a trabajar en Bell Labs, aprendiendo a programar música en las computadoras gigantes de esa época." ← Ellas vieron el futuro： Pioneras de la música electrónica | https://www.youtube.com/watch?v=CZ5cQRm-haU
 **Reflexión sobre el Olvido Histórico de las Mujeres** : Laurie Spiegel afirmó en una entrevista que "la historia olvida a las mujeres" en el ámbito de la música. Esta declaración resalta la invisibilidad histórica de muchas pioneras, a pesar de que la música electrónica ofrecía a las mujeres una libertad sin precedentes al no necesitar la aceptación de medios dominados por hombres y permitirles enviar su música directamente al público. "Es lo que afirmó Lauri Spigel en una entrevista, como estudiante de música compositora no batan Nueva York de finales de los 60, se enamoro de los sintetizadores analógicos a primera vista." ← Ellas vieron el futuro： Pioneras de la música electrónica | https://www.youtube.com/watch?v=CZ5cQRm-haU
 
+## lists
+**"The Expanding Universe" (1980) — Pitchfork: The 200 Best Albums of the 1980s** : #106. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"The Expanding Universe" (1980) — Pitchfork: The 50 Best Ambient Albums of All Time** : #12. ← musicbrainz | https://beta.musicbrainz.org/series/60daa934-58b5-44a7-937f-751ee3d2431a

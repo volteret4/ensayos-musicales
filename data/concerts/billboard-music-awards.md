@@ -2,4 +2,4 @@
 
 ## curiosities
 **Michael Jackson Hologram Performance (2014)** : The Billboard Music Awards in 2014 featured a significant virtual performance by Michael Jackson of "Slave to the Rhythm." This event utilized CGI and body doubles to create a lifelike appearance, marking another major milestone in the advancement and public display of hologram technology for deceased artists. "Another big moment came during the Billboard Music Awards in 2014 when a very dead Michael Jackson performed the song Slave to the Rhythm." ← https://www.youtube.com/watch?v=GYUuTbOvyak ← billboard-music-awards
-
+**Purpose and History** : The Billboard Music Awards (BBMAs) have existed for "most of the last 35 years" and serve the specific purpose of rewarding music that is "biggest on the Billboard charts in any given year," as exemplified by their recognition of "2023 chart dominators, Taylor Swift and Morgan Wallet." "After all, that's what the Billboard Music Awards are for. And those have been around for most of the last 35 years." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a

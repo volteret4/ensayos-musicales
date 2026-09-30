@@ -20,10 +20,9 @@
 - Jarvis Cocker
 - Jobriath
 - Lady Gaga
-- Lane Staley
+- Layne Staley
 - Marc Bolan
 - Marilyn Manson
-- Mark Bolan
 - Placebo
 - Prince
 - Pulp

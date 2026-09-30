@@ -6,11 +6,11 @@
 ## artists
 - Animal Collective
 - Ariel Pink
-- King Gizzard and the Lizard Wizard
+- King Gizzard & the Lizard Wizard
 - Mac DeMarco
 - Tame Impala
 - Temples
 - The Black Angels
 - Unknown Mortal Orchestra
-- War on Drugs
+- The War on Drugs
 

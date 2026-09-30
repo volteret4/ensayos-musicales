@@ -24,5 +24,4 @@
 
 ## artists
 - 2814
-- Creeper (as "Creepers")
 

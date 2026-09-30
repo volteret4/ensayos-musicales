@@ -7,7 +7,7 @@
 **Southern California Ground Zero** : Southern California, particularly The Troubadour in Los Angeles, served as the "ground zero" and "headquarters" for country rock. This region was a crucible for musical experimentation that defined the genre's early development. "country rocks ground zero was southern California, and the Trubidor was its headquarters." ← For the Record - The 70s > Ep. 35 - Cosmic American Music - 70s Country Rock | https://seventies.libsyn.com/ep-35-cosmic-american-music-70s-country-rock
 
 ## artists
-- Christine McVie (née Perfect)
+- Christine McVie
 - Emmylou Harris
 - Fleetwood Mac
 - Gram Parsons

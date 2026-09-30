@@ -29,15 +29,13 @@
 - Blur
 - Butch Vig
 - Cornelius
-- Creeper (as "Creepers")
 - Dorian
 - Efrim Manuel Menuck
-- Elliot Smith
+- Elliott Smith
 - Georgia Hubley
 - Happy Mondays
 - Hot Rocket
 - Iggy Pop
-- J.C. Cooper
 - Jackalope
 - Joy Division
 - Lana Del Rey
@@ -54,7 +52,6 @@
 - Paul Weller
 - Placebo
 - Primal Scream
-- QTY (as "Qtwi")
 - Radiohead
 - Richard Ashcroft
 - Sonic Youth
@@ -66,7 +63,6 @@
 - The Black Keys
 - The Charlatans
 - The Chemical Brothers
-- The Club
 - The Killers
 - The Pixies
 - The Pocket Gods

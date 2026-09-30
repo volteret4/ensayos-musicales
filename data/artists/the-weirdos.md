@@ -14,9 +14,3 @@
 
 ## curiosities
 **Prominent L.A. Punk Band** : The Weirdos were among the bands featured at The Masque, a club on Hollywood Boulevard that was a central part of the Los Angeles punk movement. "This was the home to places like X, the Germans, the blasters, the dills, the screamers, the weirdos, the zeros." ← https://www.youtube.com/watch?v=YaYaFW2q6qI ← the-weirdos
-
-
-
-## lists
-**"As Is" (1997) — Scaruffi 1990s** : #1325, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Decentertainment" (2000) — Scaruffi 2000s** : #704, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

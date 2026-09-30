@@ -8,4 +8,4 @@
 
 ## artists
 - Lorde
-
+- Lil Tracy

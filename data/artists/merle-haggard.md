@@ -7,11 +7,12 @@
 ## concerts
 - Austin City Limits (Season 2)
 
+## songs
+**Okie from Muscogee (1969)** : Performed by Willie Nelson as part of his classic set list during his influential Austin City Limits debut in October 1974. "It is a true classic set list. Crazy. Okie from Muscogee up against the wall. A song for you. That's all in there." ← For the Record - The 70s > Ep. 49 - Austin City Limits and the 70s Country Music Revolution | http://ftr70.com
+
 ## curiosities
 **Bakersfield Sound Figure** : Merle Haggard was a notable musician in Bakersfield in the 1950s, originating from Dust Bowl migrant families. He contributed to the development of a "tough form of honky tongue country in western" that was influenced by Hillbilly Boogie and western swing. ← Episode 43： ＂I Gotta Know＂ by Wanda Jackson | https://www.youtube.com/watch?v=gEInec4z65Q
 **Diverse Lineup on Austin City Limits (Season 2)** : Merle Haggard was featured in Season 2 of Austin City Limits, demonstrating the show's expanded musical scope that also included artists like Jimmy Buffett, Firefall, Gatemouth Brown, and Delbert McClinton. "So in one hand in that season you have Merle Haggard, but then you have Jimmy Buffett." ← For the Record - The 70s > Ep. 49 - Austin City Limits and the 70s Country Music Revolution | http://ftr70.com
-
-
 
 ## awards
 **Kennedy Center Honors** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1738793

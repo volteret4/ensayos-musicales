@@ -1,7 +1,6 @@
 # artist - Gene Simmons
 
 ## member of
-- KISS
 - Kiss
 
 ## curiosities
@@ -10,10 +9,5 @@
 **Tribute to Dick Clark** : After Dick Clark's passing, Gene Simmons paid tribute to him, calling Clark "the face of rock and roll and its best ambassador." Simmons credited Clark with championing Kiss and being instrumental in their breakthrough via "In Concert" when others in the industry were dismissive. He also noted Clark's consistent availability for advice. "Dick Clark was the face of rock and roll and its best ambassador." ← For the Record - The 70s > Ep. 47 - Dick Clark's Entertainment Empire | https://www.ftr70.com/
 **Wig Hairspray Catching Fire** : Gene Simmons, a member of KISS, experienced incidents where the hairspray on his wig would catch fire during performances. His roadie, Dave Matthews, was tasked with dousing him with a wet towel to put out the flames. "Sometimes he'd be called upon to douse Gene Simmons with a wet towel when the hairspray he used on his wig caught fire." ← https://www.youtube.com/watch?v=ZVGnSVfed9s ← gene-simmons ← gene-simmons
 
-
-
 ## awards
 **Great Immigrants Award (2006)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q121359767
-
-## charts
-**"Haunted House" — Billboard Year-End Hot 100** : #93, 1964. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

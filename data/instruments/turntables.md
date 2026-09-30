@@ -19,9 +19,8 @@
 
 ## artists
 - Blink 182
-- DJ Cantar
-- Jay Parsons
-- Joseph Hahn
+- DJ Kentaro
+- Jason Parsons
+- Joe Hahn
 - USS
-- blink-182
 

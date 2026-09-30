@@ -23,6 +23,11 @@
 **Secular Adaptation of Lyrical Concerns** : Unlike earlier secular reworkings of gospel songs that often required wholesale lyrical changes to fit romantic themes, "Stand By Me" was distinctive in bringing the lyrical concerns and apocalyptic style of gospel firmly into the secular realm. This approach contributed to the development of the "more gospel-inflected lyric" common in the soul music of black performers in subsequent years. "It brings the lyrical concerns and style of gospel firmly into the secular realm." ← Episode 94： ＂Stand By Me＂, by Ben E. King | https://www.youtube.com/watch?v=OgNsNmzW2po
 **Secular Song Creation** : The Sensational Nightingales, a highly regarded gospel group, composed a secular song titled "The Twist." Due to their religious affiliation, they were unable to perform or record this song themselves and sought another group to do so. "They couldn't sing it themselves. It was a secular song, and they were a gospel group." ← Episode 91： ＂The Twist＂ by Chubby Checker | https://www.youtube.com/watch?v=LzsS8EXdsm8
 **The Sweetest Gift as an Example** : The song "The Sweetest Gift," recorded by Emmylou Harris and Linda Ronstadt, is cited as a gospel song that showcased their impressive vocal talents and collaborative harmony. "They sang together and they blew away the audience with this version of the gospel song, The Sweetest Gift, which Emmy Lou and Linda recorded for Linda's 1975 album Prisoner in disguise." ← For the Record - The 70s > Ep. 23 - Women of Country Music in the 70s | https://seventies.libsyn.com/023-country-women-72820-2-45-pm
+**Inspiration for "Bridge Over Troubled Water"** : Simon & Garfunkel's "Bridge Over Troubled Water" is described as essentially a gospel song. "Bridge over troubled water is essentially a gospel song." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce81
+**Influence on Secular Music** : Gospel-style singing profoundly influenced secular pop music, especially exemplified by Aretha Franklin, whose love songs were so infused with it that they sounded like she was "bearing witness to the Lord." "As it was, so much of her secular pop recording was already infused with gospel-style singing that, even when she was delivering love songs, it sounded like she was bearing witness to the Lord." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Live LP Success** : Aretha Franklin's *Amazing Grace* in 1972 proved that a live gospel LP could achieve extraordinary commercial success, cracking the top 10 on the Billboard pop album chart and becoming the best-selling live gospel LP of all time. "Amazing Grace cracked the top 10 on the Billboard pop album chart, extraordinarily rare for a gospel LP" ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Gospel-Trained R&B Vocals Revival** : Whitney Houston's emergence in the mid-1980s was significant for "returning gospel-trained R&B vocals to the center of the hit parade," boosting the profile of artists like Aretha Franklin. "Houston was returning gospel-trained R&B vocals to the center of the hit parade." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Gesture of Honor** : The gesture of dropping a fur coat on stage, as performed by Aretha Franklin at the 2015 Kennedy Center Honors, is a tradition borrowed from gospel music and the Black church, symbolizing respect and recognition between performers. "The media later pointed out that this was a gesture of honor borrowed from gospel music and the black church, one Queen recognizing another." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
 
 ## artists
 - Art Reynolds
@@ -30,14 +35,14 @@
 - Buddy Holly
 - Death
 - Delaney & Bonnie
-- Donnie Hathaway
+- Donny Hathaway
 - Edwin Hawkins Singers
 - Elvis Presley
 - Emmylou Harris
-- Genie C. Riley
-- Georgia Tom (Thomas Dorsey)
+- Jeannie C. Riley
+- Georgia Tom
 - Gram Parsons
-- Highway QC's
+- The Highway QC's
 - J.D. Sumner
 - Jack L. Cooper
 - James Brown
@@ -46,7 +51,7 @@
 - Mahalia Jackson
 - Marie Knight
 - Martha Reeves
-- Mary Clayton
+- Merry Clayton
 - Moby
 - Moon Mulligan
 - Ozark Mountain Daredevils
@@ -55,9 +60,8 @@
 - Ray Charles
 - Sam Cooke
 - Sensational Nightingales
-- Sister Rosetta Tharp
 - Sister Rosetta Tharpe
-- Stovall Sisters
+- The Stovall Sisters
 - The Art Reynolds Singers
 - The Blackwood Brothers
 - The Famous Blue Jays
@@ -68,9 +72,16 @@
 - The Soul Stirrers
 - The Southern Tones
 - The Staple Singers
-- The Staples Singers
 - The Strumbellas
 - The Waterboys
 - Thomas Dorsey
 - U2
-
+- Talking Heads
+- Simon & Garfunkel
+- OutKast
+- Aretha Franklin
+- Madonna
+- Reverend Clarence Levant Franklin
+- Barbara Siggers Franklin
+- Fantasia
+- The Pointer Sisters

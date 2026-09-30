@@ -13,13 +13,3 @@
 **Early 2000s Emo Peak** : Dashboard Confessional was a prominent band during Emo's peak in the early 2000s, alongside Saves the Day, Thursday, Story of the Year, Taking Back Sunday, and My Chemical Romance. By the early 2010s, however, emo began to wane, leading to a perceived pause before its mid-decade revival. "It had its moments early in the century with bands like Dashboard Conventional and saves the day, Thursday, store the year, taking back Sunday and my chemical romance." ← https://www.youtube.com/watch?v=HSvgRyGiOpE ← dashboard-confessional
 **Leading Emo Band** : Dashboard Confessional was one of several bands that saw a surge in popularity following Jimmy Eat World's success, as labels actively sought to sign Emo and Emo-ish acts. Their music contributed to the burgeoning Emo scene that gained traction in the early to mid-2000s. "Dashboard, confessional, taking back Sunday, panic at the disco, followed boy, story of the year, funeral for a friend, 30 seconds to Mars." ← https://www.youtube.com/watch?v=-CT7yYXonIk ← dashboard-confessional
 **Touring with Saves the Day** : Dashboard Confessional, an emo band, toured with Saves the Day, Weezer, Green Day, and Blink-182, and also performed as an opening act for You too. "Saves the Day, definitely an emo band, toured with not just fellow travelers Weezer, but also Green Day and Blink 182, and Dashboard Confessional, Open for You too." ← https://www.youtube.com/watch?v=v_am7ifh7Pk ← dashboard-confessional
-
-
-
-## charts
-**"Shining Light" — UK Indie Singles Chart** : 2001. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart
-**"Burn Baby Burn" — UK Indie Singles Chart** : 2001. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart
-
-## lists
-**"1977" (1996) — 1001 Albums You Must Hear Before You Die** : #834.
-**"1977" (1996) — Pitchfork: The 50 Best Britpop Albums** : #34. ← musicbrainz | https://beta.musicbrainz.org/series/cd7ebb70-d88f-4f74-b6de-3a00bf2a162c

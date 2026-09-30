@@ -47,10 +47,8 @@
 - Dead Kennedys
 - Fever 333
 - Ho99o9
-- Husker Dew
-- Husker Du
-- Husker Dü
-- Lanky-Tan-Flas-It
+- Hüsker Dü
+- Languid and Flaccid
 - Minor Threat
 - Nirvana
 - Operation Ivy

@@ -18,15 +18,15 @@
 - Ace
 - America
 - Cliff Richard
-- Dr. Hook & The Medicine Show
+- Dr. Hook & the Medicine Show
 - Eric Carmen
 - John Travolta
 - Little River Band
 - Nitty Gritty Dirt Band
 - Olivia Newton-John
 - Poco
-- Sir George Martin
+- George Martin
 - The Carpenters
-- The Eagles
+- Eagles
 - The Everly Brothers
-
+- P!nk

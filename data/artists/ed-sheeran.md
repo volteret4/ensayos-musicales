@@ -3,9 +3,12 @@
 ## genres
 - Folk
 - Pop
+- Tropical House Pop
 
 ## songs
-**Shape of You (2017) – Billions of Streams** : "Shape of You" was a massively successful song, streamed 2.4 billion times, highlighting the dominance of pop artists in the streaming era compared to even established rock acts like the Foo Fighters. "Compare that to Ed Sheeran's Shape of You, which was streamed 2.4 billion times." ← https://www.youtube.com/watch?v=5Y6nHw5xx88 ← ed-sheeran
+**Blow (2019)** : Pop singer-songwriter Ed Sheeran teamed up with Bruno Mars and country star Chris Stapleton on the 2019 single "Blow." This collaboration showcased a deliberate genre-blend and marked Mars's first appearance on Billboard's Rock charts. "In 2019, Mars teamed with pop singer-songwriter Ed Sheeran and country star Chris Stapleton on Blow, a single that got Mars on Billboard's Rock charts for the first time." ← Hit Parade Music History and Music Trivia > Lenny on Mars Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f54d1ba84fb8f0463bf
+**Shape of You (2017)** : "Shape of You" was a massively successful song, streamed 2.4 billion times, highlighting the dominance of pop artists in the streaming era compared to even established rock acts like the Foo Fighters. "Compare that to Ed Sheeran's Shape of You, which was streamed 2.4 billion times." ← https://www.youtube.com/watch?v=5Y6nHw5xx88 ← ed-sheeran
+**Shape of You (2017)** : This song was the Billboard year-end number one for 2017 and is recognized as the "most played song in Spotify history," remaining a radio staple for five years. In 2017 alone, it spent 12 weeks at number one on the Hot 100 and over half the year in the Top 5. Its sustained presence allowed it to beat "Despacito" for the year-end title, even though "Despacito" spent a month longer at number one. It is characterized as a "watered down version of the tropical house pop sound." "Shape of you is the most played song in Spotify history and has been a radio staple for five years." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce81
 
 ## curiosities
 **Apple Music Popularity - Second Spot** : As of a recent check, Ed Sheeran was ranked as the second most listened-to artist on Apple Music, following Taylor Swift and preceding Drake. "The most listened to artists on Apple Music are Drake and number 3, Ed Sheeran in second spot, and Taylor Swift at number 1." ← https://www.youtube.com/watch?v=YhdsufCUC2w ← ed-sheeran ← ed-sheeran
@@ -18,8 +21,8 @@
 **Sampling of Funky Drummer Break** : Ed Sheeran is listed among the diverse artists who have sampled Clyde Stubblefield's drum break from James Brown's "Funky Drummer." "But also Ed Sheeran, Britney Spears, Nine Inch Nails, Kenny G, Stone Roses, Poppullet itself, and Shanato Conner." ← https://www.youtube.com/watch?v=VnXBJqKwkrw ← ed-sheeran
 **Second Most Streamed Artist of the Decade (2010s)** : Ed Sheeran was the second most streamed artist of the 2010s, demonstrating his significant global appeal and widespread adoption on streaming platforms. His high ranking underscores the massive shift in music consumption towards digital access. "Drake was the most streamed artist of the decade, followed by Ed Sheeran." ← https://www.youtube.com/watch?v=mNqqLDpUuZY ← ed-sheeran ← ed-sheeran
 **YouTube Discovery** : Ed Sheeran was among the artists whose talent was first recognized through YouTube, highlighting the platform's impact on A&R scouting. "Ed Sheeran... they were all first found on YouTube." ← https://www.youtube.com/watch?v=5kPmqmbFfkY ← ed-sheeran ← ed-sheeran
-
-
+**Grammy Nomination - 2015** : Ed Sheeran was nominated for Album of the Year at the 2015 Grammys, competing against Beck, Beyoncé, Sam Smith, and Pharrell Williams. "Beck won that Grammy in 2015, likely because he was old enough to be respectable and he was the token rock nominee in an album of the year ballot that also featured Beyonce, Ed Sheeran, Sam Smith, and Ferelle Williams." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
+**Contemporary British Chart Dominance** : Ed Sheeran is among the "natives of Old Blighty" who are still capable of commanding the Hot 100 to this day, demonstrating continued UK incursions on the US charts beyond the 60s and 80s invasions. "From Adele to Ed Sheeran to Duolipa, natives of Old Blighty are still capable of commanding the Hot 100 to this day." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
 
 ## awards
 **Member of the Order of the British Empire** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q12201526

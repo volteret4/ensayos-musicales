@@ -1,10 +1,10 @@
 # artist - Question Mark and the Mysterians
 
+## genres
+- Garage Rock
+
 ## curiosities
 **"Punk Rock" Labeling (1971)** : In May 1971, writer Dave Marsh referred to Question Mark and the Mysterians as "purveyors of punk rock" in an article for Cream Magazine, further contributing to the early, ambiguous usage of the term. "He went back to Cream Magazine in May of 1971 when a writer named Dave Marsh called Question Mark and Mysterians purveyors of punk rock." ← https://www.youtube.com/watch?v=VYi3r0G-ne4 ← question-mark-and-the-mysterians
 **Featured in Punk Magazine** : The fanzine "Punk," which appeared at the end of 1975, covered Question Mark and the Mysterians, recognizing them as one of the "raw, primitive garage bands from the 60s" that prefigured the new punk scene. "It also covered Iggy Pop and the Stooges, The New York Dolls, and even some of their raw, primitive garage bands from the 60s like Question Mark and Mysterians." ← https://www.youtube.com/watch?v=VYi3r0G-ne4 ← question-mark-and-the-mysterians
-
-
-
-## charts
-**"96 Tears" — Billboard Year-End Hot 100** : #2, 1966. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**First "Punk Rock" in Print (May 1971)** : Dave Marsh, a writer, published an article in May 1971 detailing the reformation of this 60s garage band, describing their reunion as "a landmark explosion of punk rock." This publication is recognized as the first documented use of the phrase "punk rock" in print, although at the time it signified more of an aesthetic than a specific musical genre. "In May of 1971 he wrote an article on the Reformation of a 60s garage band called Question Mark in the Mysterians. And he described this reunion as quote, a landmark explosion of punk rock." ← https://www.youtube.com/watch?v=Z8BTWo66SDI ← question-mark-in-the-mysterians ← question-mark-in-the-mysterians
+**First "Punk Rock" in Print (May 1971)** : Dave Marsh, a writer, published an article in May 1971 detailing the reformation of this 60s garage band, describing their reunion as "a landmark explosion of punk rock." This publication is recognized as the first documented use of the phrase "punk rock" in print, although at the time it signified more of an aesthetic than a specific musical genre. "In May of 1971 he wrote an article on the Reformation of a 60s garage band called Question Mark in the Mysterians. And he described this reunion as quote, a landmark explosion of punk rock." ← https://www.youtube.com/watch?v=Z8BTWo66SDI ← question-mark-in-the-mysterians

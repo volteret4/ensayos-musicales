@@ -3,8 +3,6 @@
 ## curiosities
 **Declined Plastic Beach Participation** : Damon Albarn asked Engelbert Humperdinck to appear on the Gorillaz album "Plastic Beach," but he declined. "Damon had even asked Engelbert Humberding to appear, but Alassie declined." ← https://www.youtube.com/watch?v=iVdTCqpd798 ← engelbert-humperdinck
 
-
-
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761
 

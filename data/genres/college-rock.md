@@ -11,9 +11,10 @@
 **Predecessor to "Alternative" and "Indy"** : For a period throughout the 1980s and 1990s, non-mainstream rock was sometimes called "college rock." This term was used because it represented the kind of music predominantly heard on campus radio stations, with bands like R.E.M. and The Pixies beginning their careers in this scene. "For a while, some called it college rock because it seemed to be the kind of music that you heard on campus radio stations." ← https://www.youtube.com/watch?v=Z8BTWo66SDI ← college-rock ← college-rock
 **Term Coined for College Radio Staples** : The term "College Rock" emerged to describe music by bands like R.E.M., The Replacements, Husker Dü, and Sonic Youth, which were regularly featured on campus radio stations. This phrase reflected the music's popularity within the college radio network. "Since REM and the replacements in Husker Dew and Sonic Youth and their ilk were staples of college radio stations, this music began to be called College Rock." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← college-rock ← college-rock
 **Term Supplanted by Alternative** : "College rock" was a term used to describe music favored by campus radio stations, but it was eventually supplanted by the term "alternative." "This word alternative eventually supplanted the term college rock, which was being used to describe the music that found favor with campus radio stations." ← https://www.youtube.com/watch?v=__7iEl3lH8g ← college-rock ← college-rock
+**University Radio Origins** : In the 1980s, College Rock was primarily played on "America's student-run university campus radio stations," with bands like R.E.M. serving as key figures and "college town rock gods." "what was commonly known in the 80s as College Rock, typically played on America's student-run university campus radio stations." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 
 ## artists
 - R.E.M.
-- REM
 - The Pixies
-
+- Hootie & the Blowfish
+- The B-52s

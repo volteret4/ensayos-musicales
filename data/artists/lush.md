@@ -13,7 +13,7 @@
 - Shoegazer
 
 ## labels
-- 4AD (implied, common for shoegaze bands)
+- 4AD
 
 ## concerts
 - Lollapalooza (1992)
@@ -33,8 +33,6 @@
 **Post-Band Careers** : After Lush disbanded, singer Miki Berenyi became a production editor for British music magazines. Co-singer Emma Anderson transitioned into music business management, while bassist Phil King, after a stint playing bass in The Jesus and Mary Chain, began working in music media as a picture researcher. "Singer Mickey Burrani ended up as a production editor to a couple of British music magazines, and co-singer Emma Anderson works in music business management. And after a stint playing bass in the Jesus and Marychain, bassist Phil King works in music media as a picture researcher." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← lush ← lush
 **Shoegaze Band Example** : Lush was mentioned as an example of a Shoegaze band, a genre that despite being pushed aside by Grunge in the early 90s, never truly went away and whose influences can still be felt in later bands. "There were bands like Slow Dive, Chapter House, Curve, Lush, My Bloody Valentine, Adorable, The Catherine Wheel." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← lush
 **Tragic End and Aftermath** : The band continued until 1996, at which point drummer Chris Acland committed suicide. Following this tragedy, the remaining members attempted to carry on but ultimately felt they "just couldn't," leading to the band's dissolution. "They lasted until 1996 when drummer Chris Acklin committed suicide. The band tried to carry on, but they felt they just couldn't." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← lush ← lush
-
-
 
 ## lists
 **"Split" (1994) — AOTY Must Hear 1990s** : #285, 79 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/

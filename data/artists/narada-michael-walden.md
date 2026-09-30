@@ -1,20 +1,23 @@
 # artist - Narada Michael Walden
 
+## genres
+- Kinetic Pop
+- R&B
+- Synth Funk
+
+## instruments
+- Drums
+
+## albums
+**Aretha (1986)** : Walden returned to produce most of Aretha Franklin's 31st studio LP, *Aretha*, continuing their successful collaboration. "Narada Michael Walton returned to produce most of the album" ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Who's Zuman Who (1985)** : Walden produced this blockbuster studio album for Aretha Franklin, which became her first-ever platinum album and her most hit-packed LP since her late 1960s heyday, featuring successful singles like "Freeway of Love" and the title track. "Produced by Narada Michael Walden, Zuman became Franklin's first ever platinum album, and her most hit-packed LP since her late 60s heyday." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+
 ## songs
-**Licensed to Kill (1989) – Co-writer** : Narada Michael Walden co-wrote the theme song for the 1989 James Bond film "Licensed to Kill." Known for his work with R&B artists like The Temptations, Lionel Richie, Aretha Franklin, Whitney Houston, and Mariah Carey, Walden's involvement brought a distinctly 80s R&B sound to the track. "This one was co-written by Narada Michael Walden who had a rep with the R&B crowd having worked with the temptations and Lionel Richie and Aretha Franklin with Houston and Mariah Carey." ← https://www.youtube.com/watch?v=K0pgJ7XAlpo ← narada-michael-walden
+**Freeway of Love (1985)** : Walden originally wrote this song for himself but gave the demo to Aretha Franklin, who turned it into a commercial triumph. The song was a clever update of the Motown sound with Bruce Springsteen influences, including a "pink Cadillac" lyric and a sax solo by Clarence Clemons. "Narada Michael Walden originally wrote Freeway of Love for himself, but the demo was so good he gave it to Franklin." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**How Well I Know (1986)** : Walden produced Whitney Houston's February 1986 number one hit, "How Well I Know," contributing to Houston's simultaneous rise alongside Aretha Franklin. "In the video for Houston's February 1986 number one hit, How Well I Know, also produced by Narada Michael Walton, by the way." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Licensed to Kill (1989)** : Narada Michael Walden co-wrote the theme song for the 1989 James Bond film "Licensed to Kill." Known for his work with R&B artists like The Temptations, Lionel Richie, Aretha Franklin, Whitney Houston, and Mariah Carey, Walden's involvement brought a distinctly 80s R&B sound to the track. "This one was co-written by Narada Michael Walden who had a rep with the R&B crowd having worked with the temptations and Lionel Richie and Aretha Franklin with Houston and Mariah Carey." ← https://www.youtube.com/watch?v=K0pgJ7XAlpo ← narada-michael-walden
+**Reach Out I'll Be There (1983)** : Walden produced a dance remake of The Four Tops' classic "Reach Out I'll Be There," which became a top 40 R&B hit and a top 20 dance hit in 1983. "This dance remake of the four tops reach out I'll be there, for example, was a top 40 R&B hit and a top 20 dance hit in 1983." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
 
-
-
-## charts
-**"Get Lucky" — Billboard Year-End Hot 100** : #14, 2013. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-
-## lists
-**"Homework" (1997) — 1001 Albums You Must Hear Before You Die** : #850.
-**"Alive 2007" (2007) — AOTY Must Hear 2000s** : #110, 75 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Discovery" (2001) — AOTY Must Hear 2000s** : #470, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Random Access Memories" (2013) — AOTY Must Hear 2010s** : #690, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Discovery" (2001) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #236, 80 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Random Access Memories" (2013) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #295, 83 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Homework" (1997) — Pitchfork: The 150 Best Albums of the 1990s** : #13. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Random Access Memories" (2013) — Pitchfork: The 200 Best Albums of the 2010s** : #112, 83 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"Discovery" (2001) — Resident Advisor: The Best Electronic Records of 2000-25** : #7, 80 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/256f2672-a51d-4824-a07f-ae79c5840268
+## curiosities
+**Transition to Hitmaking Svengali (1980s)** : In the 1980s, Narada Michael Walden transitioned from being a frontline hitmaker to becoming a "hitmaking Svengali," focusing on producing massive hits for other artists after scoring solid hits with his own Kinetic Pop and R&B recordings since the late 1970s. "But Walden would become far more famous producing massive hits for others." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Detroit/LA Production Method (1984)** : When collaborating with Aretha Franklin, Walden adopted a flexible production method, creating backing tracks in Los Angeles and then bringing them to Franklin in Detroit, accommodating her personal circumstances following her father's passing. "Walden was willing to work from both Los Angeles and Detroit, creating backing tracks in LA and then taking them to Aritha in the motor city." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67

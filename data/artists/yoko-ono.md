@@ -1,10 +1,7 @@
 # artist - Yoko Ono
 
 ## genres
-- Outsider Music (comparison)
-
-## songs
-**Give Peace a Chance (1969)** : This anthem was recorded on June 1, 1969, in room 1742 of the Queen Elizabeth Hotel in Montreal, during the week-long bed-in for peace she co-hosted with John Lennon. André Perry facilitated the recording by setting up a simple four-microphone, four-track recorder system. "on June 1st, 1969, in room 1742, the Anthem give peace a chance was recorded." ← https://www.youtube.com/watch?v=2IDbX5rNT1E ← yoko-ono ← yoko-ono
+- Outsider Music
 
 ## curiosities
 **Comparison to BJ Snowden** : Yoko Ono is mentioned in comparison to BJ Snowden and is referred to as potentially the "grandam of all female outsider musicians." "she's been compared to people like Yoko Ono, who may be the grandum of all female outsider musicians." ← https://www.youtube.com/watch?v=HcK4M7-02ik ← yoko-ono
@@ -17,8 +14,8 @@
 **Protecting "Imagine" Lyrics** : After John Lennon's death, Yoko Ono repeatedly refused requests to alter the lyrics of "Imagine" to reflect "one religion" instead of "no religion," upholding the song's original intent of a world where no single religion is superior. "Yoko Ono after his death, asked several times if they would permit using that song imagine and changing the song to one religion instead of no religion to which the answer is a resounding no." ← For the Record - The 70s > Ep. 32 - Take Me to Church - Religion in 70s Popular Music | https://seventies.libsyn.com/ep-32-take-me-to-church-religion-in-70s-popular-music ← yoko-ono
 **Queen Elizabeth Hotel Stay (1969)** : Yoko Ono and John Lennon arrived in Montreal on May 26, 1969, and resided in rooms 1738, 1740, 1742, and 1744 at the Queen Elizabeth Hotel for their bed-in. This location was chosen for its proximity to New York, aiding American press coverage. "John and Yoko flew to Montreal on May 26th and stayed in the room 1738, 1740, 1742, and 1744 at the Queen Elizabeth Hotel." ← https://www.youtube.com/watch?v=2IDbX5rNT1E ← yoko-ono ← yoko-ono
 **Role in Nike "Revolution" Deal (1987)** : Yoko Ono helped broker the deal for The Beatles' song "Revolution" to be used in a 1987 Nike commercial. Her involvement was driven by the belief that this commercial exposure would introduce her late husband John Lennon's music to a new generation of fans. "She helped broker the deal because she thought it would help bring her late husband's music to a new generation of fans." ← https://www.youtube.com/watch?v=DYtsWfguqGo ← yoko-ono ← yoko-ono
-
-
+**Wife of John Lennon** : Yoko Ono is mentioned as the new wife of John Lennon in 1969, with their marriage becoming a subject of public scrutiny recounted in The Beatles' hit "The Ballad of John and Yoko." "on The Beatles Top 10 Hit, The Ballad of John and Yoko, Lennon recounted the twisty story of how he and new wife Yoko Ono got married, while reporters dogged him and paparazzi and bureaucrats made his life hell." ← Hit Parade Music History and Music Trivia > Here’s the Beef Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef3154465cd600c4ef5
+**Yoko's Walrus** : In Rick Nelson's 1972 song "Garden Party," John Lennon is referenced under the pseudonym "Yoko's Walrus," acknowledging his presence backstage at the Madison Square Garden concert. "Nelson calls John Lennon Yoko's Walrus." ← Hit Parade Music History and Music Trivia > Here’s the Beef Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef3154465cd600c4ef5
 
 ## awards
 **MOJO Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3319330

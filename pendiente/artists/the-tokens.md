@@ -1,24 +1,22 @@
 # artist - The Tokens
 
 ## members
-- Hank Medress (left the group before 1973)
-- Jay Siegel (falsetto singer, joined after Sedaka left)
+- Hank Medress
+- Jay Siegel
 - Mitch Margo
-- Neil Sedaka (early member)
+- Neil Sedaka
 - Phil Margo
 
 ## labels
 - RCA Records
-- Roulette Records (as Darryl and the Oxfords)
+- Roulette Records
 - Warwick Records
 
 ## songs
-**Bwarnina (Year not given) - Unsuccessful African Folk Song Cover** : Following their success with "The Lion Sleeps Tonight," The Tokens attempted to follow up with a version of an actual African folk song, "Bwarnina," but it was not a hit. "The tokens tried to follow up with a version of an actual African folk song, Bwarnina, but that wasn't a hit." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
-**In the Midnight Hour (1973) - Cross Country Hit** : After Hank Medress left and the remaining members changed their name to Cross Country, they had a hit with a remake of "In the Midnight Hour." "The only hit they had as performers was in 1973, by which points Hank by dress had left, and the other three had changed their name to cross-country, and had a hit with a remake of In the Midnight Hour." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
-**La Bamba (Year not given) - Unsuccessful Cover** : Another attempted follow-up single that, like "Bwarnina," failed to become a hit. "Nor was a version of LaBamba." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
-**The Lion Sleeps Tonight (1961) - Number One Hit** : After signing with RCA Records, The Tokens, working with producers Hugo and Luigi and writer George David Weiss, recorded this reworked version of "Wimoweh" with new lyrics. It was initially released as the B-side of their third flop single. A DJ famously flipped the record, and the B-side became a sudden hit, reaching number one and establishing itself as a standard. "But then a DJ flipped the record and started playing the B side, and suddenly the song was a hit." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
-**Tonight I Fell in Love (1961) - Warwick Records Release** : The group recorded this song and released it to the small label Warwick Records. The label held onto the track for six months before releasing it in 1961, when it climbed to number 15 on the charts. "When they did, in 1961, it went to number 15 on the chart." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
-**Will I Dream (Year not given)** : This song was recorded by the group, then known as The Linktones, featuring Neil Sedaka on lead vocals. "They were the group, also known as the Linktones, that was led by Carol King's friend Neil Sadaka, and who'd recorded Will I Dream with Sadaka Unlead Focals." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
+**Bwanina (1961)** : Following their success with "The Lion Sleeps Tonight," The Tokens attempted to follow up with a version of an actual African folk song, "Bwarnina," but it was not a hit. "The tokens tried to follow up with a version of an actual African folk song, Bwarnina, but that wasn't a hit." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
+**La Bamba (1961)** : Another attempted follow-up single that, like "Bwarnina," failed to become a hit. "Nor was a version of LaBamba." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
+**The Lion Sleeps Tonight (1961)** : After signing with RCA Records, The Tokens, working with producers Hugo and Luigi and writer George David Weiss, recorded this reworked version of "Wimoweh" with new lyrics. It was initially released as the B-side of their third flop single. A DJ famously flipped the record, and the B-side became a sudden hit, reaching number one and establishing itself as a standard. "But then a DJ flipped the record and started playing the B side, and suddenly the song was a hit." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
+**Tonight I Fell in Love (1961)** : The group recorded this song and released it to the small label Warwick Records. The label held onto the track for six months before releasing it in 1961, when it climbed to number 15 on the charts. "When they did, in 1961, it went to number 15 on the chart." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
 
 ## curiosities
 **Current Touring Versions** : Today, there are two touring versions of The Tokens, one led by Jay Siegel and another by Phil Margo. "Today there are two touring versions of The Tokens, one led by J C Eagle and one by Phil Margo." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
@@ -30,4 +28,3 @@
 **Record Deal for Neil Sedaka's Group** : After Neil Sedaka co-wrote "While I Dream" and sang it with his group, The Linktones, the group secured a record deal under the name The Tokens. This achievement inspired Carole King to pursue songwriting. "Siddak had briefly dated her and had co-written that song himself with Howard Greenfield, and his group got a record deal under the name The Tokens." ← Episode 89： ＂Will You Love Me Tomorrow？＂ by the Shirelles | https://www.youtube.com/watch?v=7Kns2HGcuSg
 **Reforming as The Tokens with Margo Brothers** : After Darryl and the Oxfords also split, Siegel and Medress invited Mitch Margot and his 12-year-old brother Phil to join them. This new lineup revived the old name of The Tokens. "But that group had also split up, so the duo invited yet another pair of singers to join them, Mitch Margot, who was around their age in his late teens, and his 12-year-old brother Phil." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
 **Working with Hugo and Luigi** : After their first hit on Warwick Records, the group signed to RCA Records and began working with the production duo Hugo and Luigi, known for their work on "Shout." "But by then, the group had signed to RCA Records, and were now working with Hugo and the Ouija, the production duo, who you might remember from the episode on Shout." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
-

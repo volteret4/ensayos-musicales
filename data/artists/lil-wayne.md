@@ -3,8 +3,7 @@
 ## curiosities
 **Album Sales (2008)** : In 2008, Lil Wayne's album achieved sales of 2.88 million copies, marking a further drop in the sales figures for the year's best-selling albums. This trend underscored the deepening crisis in the recorded music industry. "2008, Little Wayne with 2.88 million." ← https://www.youtube.com/watch?v=-CT7yYXonIk ← lil-wayne
 **Collaborated with Weezer** : Lil Wayne was among the outside collaborators brought in for Weezer's album "Ratitude." "Lil Wayne." ← https://www.youtube.com/watch?v=LYRPxtP61JM ← lil-wayne
-
-
+**Blanked at Major Categories (General)** : Lil Wayne was listed among prominent rap/hip-hop artists who have been "blanked" in major general field Grammy categories. "In addition to B, J, Kanye and Kendrick, major category nominees that have been blanked include MC Hammer, Coolio, TLC, Nelly, Eminem, Ludicrous, Lil Wayne and Missy Elliott." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
 
 ## charts
 **"Lollipop" — Billboard Year-End Hot 100** : #4, 2008. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

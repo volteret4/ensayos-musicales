@@ -11,13 +11,11 @@
 **Pioneering Deep Listening** : Warp Records played a pivotal role in elevating electronic music, which originated in the rave scenes, into more experimental and profound listening territories. It transformed the perception of this music beyond its purely functional role for dancing. "La Fue Warp que enllevó esa música electrónica, nacieron en las escenas Rape, zonas más experimentales y escucha profunda." ← Qué fue el IDM y por qué cambió la música electrónica | https://www.youtube.com/watch?v=RTwn3hP1XTg
 
 ## artists
-- Alex Patterson
+- Alex Paterson
 - Aphex Twin
 - Black Dog
 - Boards of Canada
-- Clark
-- Otekre
-- Por Richie Houghton
+- Autechre
 - Radiohead
-- The Or
+- The Orb
 

@@ -11,7 +11,7 @@
 ## artists
 - Coldplay
 - Kino
-- Lincoln Park
+- Linkin Park
 - Real Life
 - The Moody Blues
 

@@ -1,13 +1,8 @@
 # artist - Ministry
 
 ## members
-- (members not specified)
-- Al Jorgensen
 - Al Jourgensen
-- Al Jourgensen (Hypo Luxa)
-- Al Jourgensen (frontman)
-- Alan Jorgensen
-- John Bechtel (touring keyboard player)
+- John Bechtel
 - Paul Barker
 - William Rieflin
 
@@ -16,9 +11,8 @@
 - Goth
 - Heavy industrial music
 - Industrial
-- Industrial Hip Hop (dabbled in)
+- Industrial Hip Hop
 - Industrial Music
-- Industrial music
 - Technopop
 
 ## labels
@@ -31,12 +25,14 @@
 - The Matrix (1999)
 
 ## albums
-**Gold and Platinum-Selling Albums (1989 onwards)** : Ministry, hailing from Chicago, began achieving gold and platinum-selling albums starting in 1989, marking their significant breakthrough from the industrial music fringes into the mainstream. "Out of Chicago came ministry, which began having gold and platinum-selling albums in 1989." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← ministry
+**AmeriKKKant (2018)** : Ministeria's new album, for which advance tracks were available, although the host did not listen to them. "Ministeria, saca el nuevo disco, creo que tiene llagado delante." ← Music Radar Clan > Lanzamientos Marzo 2018 | https://www.youtube.com/watch?v=KoWlht2iA7o&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← ministeria ← ministeria
+**AmeriKKKant (2018)** : Ministeria's new album, for which advance tracks were available, although the host did not listen to them. "Ministeria, saca el nuevo disco, creo que tiene llagado delante." ← Music Radar Clan > Lanzamientos Marzo 2018 | https://www.youtube.com/watch?v=KoWlht2iA7o&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← ministeria
+**Gold and Platinum-Selling Albums (1989)** : Ministry, hailing from Chicago, began achieving gold and platinum-selling albums starting in 1989, marking their significant breakthrough from the industrial music fringes into the mainstream. "Out of Chicago came ministry, which began having gold and platinum-selling albums in 1989." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← ministry
 **Twitch (1986)** : This album was the result of Al Jourgensen's collaboration with producer Adrian Sherwood in 1986. Sherwood's radical remixing style, characterized by heavy percussion, electronic rhythm, distortion, and tape loops, greatly appealed to Jourgensen and contributed to Ministry's evolving sound. "And the result was the 1986 album entitled Twitch." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← ministry ← ministry
 
 ## songs
 **Every Day Is Halloween (1984)** : Released in 1984 during Ministry's Goth period, this song has become an "immortal Goth anthem" with lyrics that perfectly encapsulate the Goth ethos. "Ministry from 1984 with an immortal Goth anthem every day is Halloween." ← https://www.youtube.com/watch?v=evlGhfUe6QQ ← ministry
-**Everyday Is Halloween (Year Unspecified)** : Released by Ministry after their pivot to a gothic sound, this song became recognized as a goth anthem, marking their significant contribution to the genre. "releasing every day as Halloween, a Goth anthem." ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← ministry
+**Everyday Is Halloween** : Released by Ministry after their pivot to a gothic sound, this song became recognized as a goth anthem, marking their significant contribution to the genre. "releasing every day as Halloween, a Goth anthem." ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← ministry
 **Tonight We Murder (1992)** : This song is listed as an example of a track that deals with the subject of murder in rock music. "Tonight we murder by ministry." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4 ← ministry
 
 ## curiosities
@@ -71,10 +67,10 @@
 **Lollapalooza "Party in a Bottle" Incident (1992)** : Backstage at Lollapalooza in 1992, Al Jourgensen forced someone to drink from a bottle of Bushmills whiskey with a broken, jagged neck, threatening physical harm if they refused. It was later revealed that Jourgensen was known to add a "dollop of acid" to his Bushmills, creating what he referred to as a "party in a bottle," though this particular addition fortunately did not occur that day. "I ended up backstage with Al at Lala Paloza in 1992 and he made me drink from a bottle of bush mill whiskey that had dropped on the pavement." ← https://www.youtube.com/watch?v=lzwQggT0qR0 ← ministry ← ministry
 **Lollapalooza 1992 Main Stage Act** : Ministry was one of the major bands performing on the main stage of the 1992 Lollapalooza Festival, which was recognized for its "absolutely awesome" lineup, arguably the best in the event's history. "Ministry. One of the bands to perform in the legendary 1992 Lala Pulusa Festival, arguably the best lineup in the history of that event." ← https://www.youtube.com/watch?v=huAvyInzz3Q ← ministry
 **Lollapalooza Peak (1992)** : Ministry was at the forefront of industrial music from 1988 onwards, reaching a peak in 1992 when they were the second-highest billed act on the Lollapalooza tour. "Alan Durgensen and Ministry have been at the forefront, peaking in 1992 when they were second from the top on the Lola Palusatour." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← ministry ← ministry
-**Maintaining Presence in Grunge Era** : Despite the overwhelming focus on guitar music during the grunge era, acts like Ministry still maintained a primary focus, indicating that not all alternative music was completely squeezed out. ← https://www.youtube.com/watch?v=eqTFinLk3oU ← ministry
+**Post-Grunge Era Presence** : Despite the overwhelming focus on guitar music during the grunge era, acts like Ministry still maintained a primary focus, indicating that not all alternative music was completely squeezed out. ← https://www.youtube.com/watch?v=eqTFinLk3oU ← ministry
 **Ministry/Butthole Surfers Collaboration Recording** : Al Jourgensen recorded a song with Gibby Haynes of the Butthole Surfers, a process complicated by Haynes being extremely high throughout the entire session. Haynes was only capable of screaming through a megaphone and eventually fell off his stool. Jourgensen dedicated two weeks to meticulously editing all of Haynes's vocal tracks to create usable material for the song. "Gibby was so high the entire time that the only thing he could do is scream stuff through a megaphone and then he fell off his stool." ← https://www.youtube.com/watch?v=lzwQggT0qR0 ← ministry ← ministry
 **Musical Evolution** : Ministry began as a lightweight technopop band, transitioned through a distinct, though brief (a couple of years), Goth stage, and then evolved into one of the heaviest industrial bands. "They started out as a distinctly lightweight technopop band and went through a distinct Goth stage before becoming one of the heaviest industrial bands around." ← https://www.youtube.com/watch?v=evlGhfUe6QQ ← ministry
-**New Music Scene Development (Early 90s Perspective)** : Ministry was mentioned as one of the groups that emerged and contributed to the evolving "new music scene," following pioneers like the Ramones and Sex Pistols. "we have groups like the Chili Peppers and Pearl Jam, R.E.M., the Ministry, smashing pumpkins, Jesus Jones and thousands more." ← https://www.youtube.com/watch?v=ua93Ui1u6UI ← ministry ← ministry
+**Influential Alternative Band** : Ministry was mentioned as one of the groups that emerged and contributed to the evolving "new music scene," following pioneers like the Ramones and Sex Pistols. "we have groups like the Chili Peppers and Pearl Jam, R.E.M., the Ministry, smashing pumpkins, Jesus Jones and thousands more." ← https://www.youtube.com/watch?v=ua93Ui1u6UI ← ministry ← ministry
 **Pivot to Goth** : Alan Jorgensen pivoted his band Ministry from a light technopop sound to something very gothic, exemplified by their goth anthem "Everyday Is Halloween." "Alan Jorgensen pivoted his band ministry from being a light technopop band to something very Gothic, releasing every day as Halloween, a Goth anthem." ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← ministry
 **Popularity of Industrial Music (Mid-90s)** : Ministry was cited as a prominent group driving the popularity of Industrial music in the early and mid-1990s. "Industrial music was hot thanks to groups like Nine Inge Nails and Ministry." ← https://www.youtube.com/watch?v=ua93Ui1u6UI ← ministry ← ministry
 **Post-Grunge Era Presence** : Ministry was an act that retained a place on alternative playlists during a period when guitar music, particularly grunge, became the dominant sound, showing that industrial and other genres still found an audience. "Yes, there were still acts like the Beastie Boys and the Chili Peppers and Ministry and Alannis Moore said, but the primary focus remained guitar music." ← https://www.youtube.com/watch?v=2wZydttn4Cs ← ministry
@@ -83,8 +79,6 @@
 **Sympathy for Trent Reznor** : Al Jourgensen was very sympathetic to Trent Reznor's contract situation with TVT Records, which led to their collaboration on the 1000 Homo DJs project. "Al Jorrenson was very sympathetic to Trent's situation." ← https://www.youtube.com/watch?v=DKdF8NgF5Bw ← ministry
 **The Matrix Soundtrack Contribution (1999)** : Ministry was featured on the first *Matrix* soundtrack, released in 1999. The album was characterized by "really cool heavy stuff," including contributions from other heavy acts like Marilyn Manson, The Prodigy, Rammstein, and Rage Against the Machine. "It was some really cool heavy stuff, Marilyn Manson, Ministry of the Prodigy, Ramstein, Rage Against the Machine." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← ministry
 **Transition to Industrial Sound (1986)** : After being dropped by his record label and dabbling in goth music (1984-1985), Al Jourgensen restarted his career. In 1986, through Depeche Mode connections, he collaborated with producer Adrian Sherwood. Sherwood's radical remixes (e.g., for Depeche Mode) impressed Jourgensen with their heavy percussion, electronic rhythm, distortion, and tape loops, leading to the industrial-leaning album "Twitch." "But in 1986, through some Depeche Mode connections, he hooked up with producer Adrian Sherwood." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← ministry ← ministry
-
-
 
 ## lists
 **"ΚΕΦΑΛΗΞΘ" (1992) — 1001 Albums You Must Hear Before You Die** : #725.

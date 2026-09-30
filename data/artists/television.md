@@ -7,16 +7,16 @@
 
 ## genres
 - Art rock
-- Jazz (influence on Verlaine)
+- Jazz
 - New Wave
 - Post-punk
 - Punk
 - Rock
-- Surf (influence on Verlaine)
+- Surf
 
 ## labels
 - (No labels explicitly mentioned for Television in the provided text.)
-- Arista Records (Patti Smith signed here, not Television. Correcting my mental note.)
+- Arista Records
 
 ## concerts
 - CBGB
@@ -25,7 +25,14 @@
 
 ## albums
 **Adventure (1978)** : Released the year after *Marquee Moon*, this album was generally considered a commercial "flop" and failed to match the critical and artistic impact of its predecessor. "The following year they released Adventure which was considered a flop by most but honestly was never going to equal Marche Moon." ← For the Record - The 70s > Ep. 57 - Punk and New Wave at New York's CBGB | https://www.ftr70.com/
+**Dream Time (1981)** : Tom Verlaine's 1981 solo album that "actually cracked the Billboard chart." It also produced a "minor rock radio hit" with the song "Always," indicating his quiet influence on the emerging new wave sound. "And Verlane's own 1981 album Dream Time actually cracked the Billboard chart and produced a minor rock radio hit with always." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
 **Marquee Moon (1977)** : Released in February 1977, this album marked a significant progression from the band's earlier "raw noise" and showcased Tom Verlaine's jazz influences. It features intricate guitar interplay between Verlaine and Richard Lloyd, described as "fencing politely," and is recommended for headphone listening to fully appreciate its depth. While not a huge commercial hit, it was critically acclaimed and influenced bands like R.E.M. and The Strokes. "Marche Moon from February 1977 I really recommend listening to that with headphones or your preferred personal listening device so that you can fully absorb the guitar interplay between Verlaine and Lloyd who are almost having this conversation with their guitars." ← For the Record - The 70s > Ep. 57 - Punk and New Wave at New York's CBGB | https://www.ftr70.com/
+**Television (1992)** : This was Television's first studio album in 14 years, released after the band reformed in 1992. Although the Tom Verlaine-led band had never achieved any American chart hits previously, the track "Call Mr. Lee" reached number 27 on the modern rock chart. "That same year, Television, the most seminal CBGB band of all, reformed and put out their first studio album in 14 years." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
+
+## songs
+**Always (1981)** : A "minor rock radio hit" from Tom Verlaine's 1981 solo album *Dream Time*, contributing to the album's success on the Billboard chart. "And Verlane's own 1981 album Dream Time actually cracked the Billboard chart and produced a minor rock radio hit with always." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
+**Call Mr. Lee (1992)** : This track from Television's 1992 reunion album reached number 27 on the modern rock chart. This marked the band's first appearance on any American chart, demonstrating the modern rock chart's receptiveness to their seminal sound. "but on the modern rock chart, Hall Mr. Lee reached number 27 in 1992." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
+**Kingdom Come** : A track from Tom Verlaine's solo debut album. It was notably covered "immediately" by David Bowie on his number 12 hit album *Scary Monsters*, highlighting Verlaine's quiet influence on the emerging new wave sound. "Kingdom Come, a track from his solo debut was covered immediately by David Bowie on his number 12 hit album Scary Monsters." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
 
 ## curiosities
 **Artsy Style** : Television's sound was considerably more artistic and experimental compared to the louder, faster punk bands like the Ramones. "But not all of New York punk was loud and fast. Maybe you'd catch a set by television, which of course was a lot more artsy." ← https://www.youtube.com/watch?v=YaYaFW2q6qI ← television
@@ -54,8 +61,8 @@
 **Tom Verlaine Death (January 28, 2023) – Prostate Cancer, Age 73; Helped CBGB Become Ground Zero for Punk** : Tom Verlaine co-founded Television and in 1973 helped Hilly Kristal — owner of a scuzzy bar on Bleecker Street in a then-terrible part of New York — to let Television play a Sunday night residency. This decision catalyzed CBGB into becoming ground zero for New York punk and, by chain reaction, the entire international punk movement. Television produced two critically acclaimed albums before breaking up in 1978. Verlaine subsequently collaborated with Patti Smith, worked with James Iha of the Smashing Pumpkins, had a song covered by David Bowie, and was involved in a 1992 Television reunion album. He was scheduled to produce Jeff Buckley's second album — a project ended when Buckley drowned in the Mississippi River in 1997. Verlaine was diagnosed with prostate cancer at some point in the 2000s; it metastasized. He died January 28, 2023, age 73. "That was the catalyst for making CBGB ground zero for the world of New York punk." ← https://www.youtube.com/watch?v=-JPLLJyOid8 ← television
 **Tom Verlaine's Guitar Style Evolution** : Verlaine, who had jazz roots, initially avoided the guitar, considering it a "wimpy instrument." His perspective changed after hearing The Yardbirds, particularly guitarists like Eric Clapton, Jimmy Page, and Jeff Beck. Over time, he developed a unique style, even drawing inspiration from surf guitarists like Dick Dale to cultivate his sound. "Then hearing the yard birds changed that and I guess that would that would happen. Eric Clapton, Jimmy Page, Jeff Beck, hearing those guys will change your mind about the guitar." ← For the Record - The 70s > Ep. 57 - Punk and New Wave at New York's CBGB | https://www.ftr70.com/
 **Underground Impact** : Television were pioneers in the New York underground scene, performing at venues like CBGB. Although they did not achieve immediate widespread financial success and couldn't live solely from music, their work had a significant and lasting impact on music history. "Tuvieron mucha repercusión en el largo plazo, han sido como muy importantes para la historia de la música, pero en su día pues tampoco lo fuera." ← Music Radar Clan > El PUNK como movimiento estético | https://www.youtube.com/watch?v=m6wiAVLkXa0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← television ← television
-
-
+**Breakup and Tom Verlaine's Solo Career (1980s)** : Television, described as "CBGB peers" of Patty Smith, "sat out the 1980s" as a band, breaking up after their second album. Frontman Tom Verlaine then shifted to a solo career, where he proved "quietly influential" on the emerging new wave sound. "The band broke up after their second album and Tom Verlane shifted gears to a solo career." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
+**Reformation (1992)** : Television reformed in 1992, putting out their first studio album in 14 years. This marked the return of one of the "most seminal CBGB bands of all." "That same year, Television, the most seminal CBGB band of all, reformed and put out their first studio album in 14 years." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
 
 ## lists
 **"Marquee Moon" (1977) — 1001 Albums You Must Hear Before You Die** : #387, 8.0/10 Scaruffi.

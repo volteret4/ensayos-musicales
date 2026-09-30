@@ -14,8 +14,6 @@
 **International Success (Excluding North America)** : The band achieved significant success in Sweden, Australia, New Zealand, and South Africa, and was a "monster" hit in the UK with their 1988 album. "And they did well too, but only in Sweden, Australia, New Zealand, and South Africa." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M ← fairground-attraction
 **Mumford & Sons Comparison** : Fairground Attraction is described as being "the Mumford and sons of their day," suggesting a similar folk-pop style and popularity. "They were, in a sense, the Mumford and sons of their day." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M ← fairground-attraction
 
-
-
 ## charts
 **"682" — NME Chart** : 14 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
 **"Perfect" — Spain Singles Chart** : #1, 1988. ← Wikipedia | https://en.wikipedia.org/wiki/Promusicae

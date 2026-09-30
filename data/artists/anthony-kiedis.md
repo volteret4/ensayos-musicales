@@ -4,7 +4,7 @@
 - Red Hot Chili Peppers
 
 ## songs
-**I Could Have Lied (Early 1990s)** : Kiedis wrote this song, which appeared to imply a romantic relationship with Sinead O'Connor, despite her publicly stating that they were never a couple. "She was linked to Anthony Kitas, of the Red Hot Chili Peppers, but claims that they were never a couple. Meanwhile, he wrote a song called, I Could Have Lied, that seemed to suggest otherwise." ← https://www.youtube.com/watch?v=afuqjWl1JyI ← anthony-kiedis ← anthony-kiedis
+**I Could Have Lied** : Kiedis wrote this song, which appeared to imply a romantic relationship with Sinead O'Connor, despite her publicly stating that they were never a couple. "She was linked to Anthony Kitas, of the Red Hot Chili Peppers, but claims that they were never a couple. Meanwhile, he wrote a song called, I Could Have Lied, that seemed to suggest otherwise." ← https://www.youtube.com/watch?v=afuqjWl1JyI ← anthony-kiedis ← anthony-kiedis
 
 ## curiosities
 **Creative Process of Contribution** : As part of the band's collaborative songwriting, Anthony Kiedis developed his contributions after John Frusciante and Flea had brought their musical "gems" into practice. His method involved going for "a very long drive in my Chevy" to figure out what he could add to the emerging songs. "I better go for a very long drive in my Chevy and figure out something to add to the stew, which is part of our creative process." ← https://www.youtube.com/watch?v=Nr-3Y3UWQcI ← anthony-kiedis
@@ -22,8 +22,3 @@
 **Simultaneous Proposal of John's Return** : Anthony Kiedis and Flea remarkably approached each other at the same time, independently, to discuss John Frusciante's potential return to the band. Anthony was planning to suggest John's participation, while Flea was preparing to announce that he had already jammed with John and considered his full rejoining. "And basically, we were both saying the exact same thing at the exact same time, which was what do you think about John?" ← https://www.youtube.com/watch?v=Nr-3Y3UWQcI ← anthony-kiedis
 **Struggles with Sobriety (1988-1992)** : Following Hillel Slovak's death in 1988, Anthony Kiedis was working hard to maintain his sobriety after a "drugs and alcohol bender." His efforts to stay away from heroin, coke, and alcohol led him to distance himself from John Frusciante, whose teenage partying lifestyle was at odds with Kiedis's recovery. He continued to face "continuing sobriety struggles" during the band's turmoil in 1992. "Anthony was working hard to be sober after going on a drugs and alcohol bender after Hillel died." ← https://www.youtube.com/watch?v=TESrEzVHLCc ← anthony-kiedis
 **Vulnerability and Confidence in Reunion** : Anthony Kiedis admitted to feeling a sense of vulnerability about whether "the old magic" with John Frusciante would still be present upon their reunion, questioning if they would merely be "weird guys in a room." However, he ultimately felt more confident than concerned about the outcome, especially once they started playing. "A little bit, it was kind of a vulnerable feeling because like John said, is the old magic still there? Or are we just going to be some weird guys in a room trying to make it happen?" ← https://www.youtube.com/watch?v=Nr-3Y3UWQcI ← anthony-kiedis
-
-
-
-## lists
-**"Reverse Earth" (2025) — Bandcamp: The Best Albums of 2025** : #19. ← musicbrainz | https://beta.musicbrainz.org/series/e71890ee-e707-4eae-af8f-b60074d08730

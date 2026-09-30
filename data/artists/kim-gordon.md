@@ -13,8 +13,6 @@
 **Influence and Mentorship** : Kim Gordon became a significant inspiration and influence for many young women in music, particularly within the indie scene. Her impact was such that a young Courtney Love from San Francisco wrote to her asking her to produce Hole's debut record. "So many young women were inspired and influenced by her, including a 20-something young woman from San Francisco who wrote Kim a letter saying, look, I love what you do. I have a new band. Will you produce our debut record for us?" ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← kim-gordon
 **Mother of Coco Haley Gordon Moore** : Kim Gordon is the mother of Coco Haley Gordon Moore. "Coco Haley Gordon Moore, son of Thurston Moore, and Kim Gordon of Sonic Youth." ← https://www.youtube.com/watch?v=U40hOYy_94E ← kim-gordon ← kim-gordon
 
-
-
 ## lists
 **"The Collective" (2024) — AOTY Must Hear 2020s** : #250, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
 **"No Home Record" (2019) — Scaruffi 2010s** : #226, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

@@ -1,13 +1,12 @@
 # artist - Silverchair
 
 ## members
-- Daniel (Johns)
+- Daniel Johns
 
 ## genres
-- Grunge (sound-alike)
-- Post-Grunge
 - alternative rock
-- grunge
+- Grunge
+- Post-Grunge
 
 ## labels
 - Sony
@@ -17,7 +16,7 @@
 
 ## albums
 **Diorama (2002)** : Produced by David Botrell, who was brought in to replace another producer, as the band sought a new musical direction. Daniel Johns's desire for diversity on this album alienated some fans who preferred their earlier sound. The album's tour was impacted by Daniel's reactive arthritis, leading to a "soft release." "This is the Diorama album in 2002." ← https://www.youtube.com/watch?v=vWvYe1a-2Aw ← silverchair ← silverchair
-**Frogstomp** : This early Silverchair album, while "pretty amazing" for 14-year-old kids, is described by David Botrell as a "fairly derivative record" of "Grand John Rathin" (presumably grunge/thrash). Many fans desired the band to continue making similar records, but Daniel Johns was intent on exploring new musical directions. "The ones that just want frog stomp over and over again, they probably laughed." ← https://www.youtube.com/watch?v=vWvYe1a-2Aw ← silverchair ← silverchair
+**Frogstomp (1995)** : This early Silverchair album, while "pretty amazing" for 14-year-old kids, is described by David Botrell as a "fairly derivative record" of "Grand John Rathin" (presumably grunge/thrash). Many fans desired the band to continue making similar records, but Daniel Johns was intent on exploring new musical directions. "The ones that just want frog stomp over and over again, they probably laughed." ← https://www.youtube.com/watch?v=vWvYe1a-2Aw ← silverchair ← silverchair
 
 ## curiosities
 **Bridging Rock and Metal** : Silverchair was noted alongside Soundgarden, Nirvana, and Alice in Chains as bands that "slowly closed that big attitude gap between rock and old school metal" throughout the early and mid-90s, contributing to a more open musical landscape. "bands like Soundgarden and Silverchair Nirvana and the smashing pumpkins and Alice and Chains slowly closed that big attitude gap between rock and old school metal." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← silverchair ← silverchair
@@ -29,8 +28,6 @@
 **Post-Grunge Example** : Silverchair was mentioned as a Post-Grunge band, part of the wave that fused alternative rock, particularly the Grunge recipe, with mainstream aesthetics, including higher guitar tunings and direct lyrical approaches. "But let's not forget about bands like Puddle of Mud and Silverchair and Live." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← silverchair
 **Publishing Catalog Sale (N/A)** : Silverchair is among the artists who have sold their music publishing catalogs as part of a trend since the mid-2010s. "silver chair." ← https://www.youtube.com/watch?v=dnQ1pNbIUjw ← silverchair ← silverchair
 **The Cable Guy Soundtrack Contribution (1996)** : Silverchair contributed to *The Cable Guy* soundtrack in 1996, an album associated with the "creepy Jim Carrey vehicle" film. The soundtrack also featured other artists like Jerry Cantrell of Alice in Chains, Porno for Pyros, and Cracker. "Silver Chair Jerry Cantrell of Allyson Chains, Porno for Pyrrho's Cracker, and primitive radio gods ended up with a hit with standing outside a broken phone booth with money in my hand." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← silverchair
-
-
 
 ## lists
 **"Neon Ballroom" (1999) — Sputnikmusic Best Albums 1999** : #155, 3.98 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1999/

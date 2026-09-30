@@ -2,17 +2,13 @@
 
 ## member of
 - Derek and the Dominos
-- Jim Gordon
-
-## members
-- Jim Gordon
 
 ## instruments
 - Drums
 
 ## songs
-**Power to the People (Year Unknown) – John Lennon Feature** : Jim Gordon played drums on this John Lennon track. "and John Lennon's Power to the People." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← jim-gordon
-**You're So Vain (Year Unknown) – Carly Simon Feature** : Jim Gordon contributed to this Carly Simon song as a drummer. "That's him on Carly Simon's Your Sovane." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← jim-gordon
+**Power to the People** : Jim Gordon played drums on this John Lennon track. "and John Lennon's Power to the People." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← jim-gordon
+**You're So Vain** : Jim Gordon contributed to this Carly Simon song as a drummer. "That's him on Carly Simon's Your Sovane." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← jim-gordon
 
 ## curiosities
 **Extensive Session Work** : Jim Gordon was a highly prolific drummer, contributing to literally hundreds of songs for a wide array of prominent artists including George Harrison, Joe Cocker, Dave Mason, Gordon Lightfoot, Harry Nilsson, Frank Zappa, Art Garfunkel, Traffic, and Steely Dan. He even contributed to the first Muppet movie. "Gordon could be heard on literally hundreds of songs." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← jim-gordon
@@ -20,8 +16,3 @@
 **Matricide and Incarceration (June 3, 1983)** : On June 3, 1983, under the delusion that his mother was Satan, a voice instructed Gordon to kill her. He fatally attacked her with a hammer and a butcher knife. He was sentenced to 16 years in jail, as California law prevented the use of insanity as a defense, though his schizophrenia was acknowledged by the judge. "On June 3, 1983, a voice told him to kill his mother because she was Satan in disguise." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← jim-gordon
 **Onset of Schizophrenia (Late 1970s)** : In the latter part of the 1970s, Gordon began experiencing severe mental health issues, including hearing voices, stopping eating, and ceasing to play drums. Initially misdiagnosed as alcohol abuse, these symptoms were later correctly identified as schizophrenia. "At some point in the latter part of the 1970s, he started hearing voices." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← jim-gordon
 **Refusal of Parole and Death in Prison** : Jim Gordon remained incarcerated far beyond his initial 16-year sentence due to his persistent psychological incapacitation. He never attended any of his ten scheduled parole hearings, indicating no desire for release. He died of natural causes at age 77 on March 13, 2023, at the California Medical Facility in Vacaville, California. "He had no desire to be released." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← jim-gordon
-
-
-
-## lists
-**"Go" (1976) — Scaruffi 1970s** : #306, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

@@ -9,7 +9,7 @@
 **Post-Punk Subgenre** : Alternative dance music emerged from Technopop, forming part of the diverse subgenres that arose during the post-punk era. "and a form of alternative dance" ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← alternative-dance
 
 ## artists
-- Chemical Brothers
+- The Chemical Brothers
 - Daft Punk
 - Fatboy Slim
 - Lo-Fidelity Allstars

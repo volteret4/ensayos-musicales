@@ -8,5 +8,5 @@
 - Kanye West
 - Nirvana
 - The Matthew Good Band
-- Three Doors Down
+- 3 Doors Down
 

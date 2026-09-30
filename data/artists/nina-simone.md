@@ -1,13 +1,12 @@
 # artist - Nina Simone
 
 ## songs
-**Don't Let Me Be Misunderstood (Original Version)** : Nina Simone recorded an orchestral version of "Don't Let Me Be Misunderstood," penned by Benny Benjamin and Horace Ott, which was notably influenced by Burt Bacharach. Her rendition is considered superior to The Animals' cover, described as lightweight, rushed, and callow. "Don't let me be misunderstood, was written by the Jazz songwriter's Benny Benjamin and Horace Art, and had originally been recorded by Nina Simone in an orchestral version that owed quite a bit to Bert Bakerak." ← Episode 115： ＂House of the Rising Sun＂ by the Animals | https://www.youtube.com/watch?v=34aIGCnb4X4
+**Don't Let Me Be Misunderstood** : Nina Simone recorded an orchestral version of "Don't Let Me Be Misunderstood," penned by Benny Benjamin and Horace Ott, which was notably influenced by Burt Bacharach. Her rendition is considered superior to The Animals' cover, described as lightweight, rushed, and callow. "Don't let me be misunderstood, was written by the Jazz songwriter's Benny Benjamin and Horace Art, and had originally been recorded by Nina Simone in an orchestral version that owed quite a bit to Bert Bakerak." ← Episode 115： ＂House of the Rising Sun＂ by the Animals | https://www.youtube.com/watch?v=34aIGCnb4X4
 
 ## curiosities
 **First Wave of Cassette Releases** : Nina Simone's music was included in the first releases of pre-recorded cassettes in 1965. This made her one of the early artists to be available on the compact cassette format as record labels began to embrace the new technology. "Pre-recorded cassettes started appearing in 1965 with releases from Johnny Mathes, Earth of the Kits and Nina Simone." ← https://www.youtube.com/watch?v=_KJ60im4KAc ← nina-simone ← nina-simone
 **Fury Over Animals' Cover** : Nina Simone was reportedly enraged by The Animals' recording of "Don't Let Me Be Misunderstood," despite not being the song's original writer. John Steele recounted a "huge screaming rar" between Simone and Eric Burden regarding the cover. "Simone was apparently furious at the animals recording, which they didn't understand, given that she hadn't written the original." ← Episode 115： ＂House of the Rising Sun＂ by the Animals | https://www.youtube.com/watch?v=34aIGCnb4X4
-
-
+**First Wave of Cassette Releases** : Nina Simone's music was included in the first releases of pre-recorded cassettes in 1965. This made her one of the early artists to be available on the compact cassette format as record labels began to embrace the new technology. "Pre-recorded cassettes started appearing in 1965 with releases from Johnny Mathes, Earth of the Kits and Nina Simone." ← https://www.youtube.com/watch?v=_KJ60im4KAc ← nina-simone
 
 ## awards
 **honorary doctorate** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q11415564

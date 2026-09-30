@@ -5,4 +5,6 @@
 
 ## artists
 - Yeah Yeah Yeahs
-
+- Sonic Youth
+- The Pixies
+- Tin Machine

@@ -3,8 +3,8 @@
 ## members
 - Alan Leach
 
+## genres
+- Britpop
 
-
-## charts
-**"Let Me Blow Ya Mind" — Billboard Year-End Hot 100** : #7, 2001. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Gangsta Lovin'" — Billboard Year-End Hot 100** : #19, 2002. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+## curiosities
+**Britpop Party Attendee** : Shed 7 was listed among the bands that were part of the Britpop scene and received coverage during its peak. "Here's a list of some of the people at the Britpop party. Shed 7..." ← https://www.youtube.com/watch?v=5q5EnZj1FwE ← shed-7

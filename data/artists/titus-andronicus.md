@@ -7,8 +7,6 @@
 ## curiosities
 **Contemporary Geek Rock Bearer** : Titus Andronicus was identified as one of today's flag-flyers for Geek Rock, demonstrating how the genre's themes of social awkwardness and intellectual interests continue to resonate in modern alternative music. "Today's flyers of the flag include public service broadcasting, the decemberists, tidus and andronicus and all j." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← titus-andronicus
 
-
-
 ## lists
 **"The Airing of Grievances" (2008) — AOTY Must Hear 2000s** : #95, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
 **"The Monitor" (2010) — AOTY Must Hear 2010s** : #934, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/

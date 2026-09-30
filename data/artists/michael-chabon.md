@@ -2,8 +2,7 @@
 
 ## curiosities
 **Gentlemen of the Road (2007) - Novel Title** : Mumford & Sons named their independently created record label, Gentlemen of the Road, after Michael Chabon's 2007 novel of the same title. "They called the company Gentlemen of the Road, taking it from the title of a 2007 novel by Michael Shabon." ← https://www.youtube.com/watch?v=P1RyOchn7pk ← michael-chabon ← michael-chabon
-
-
+**Gentlemen of the Road (2007) - Novel Title** : Mumford & Sons named their independently created record label, Gentlemen of the Road, after Michael Chabon's 2007 novel of the same title. "They called the company Gentlemen of the Road, taking it from the title of a 2007 novel by Michael Shabon." ← https://www.youtube.com/watch?v=P1RyOchn7pk ← michael-chabon
 
 ## awards
 **PEN/Faulkner Award for Fiction (2001) — The Amazing Adventures of Kavalier & Clay** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1188661
@@ -25,6 +24,3 @@
 **Ignotus Award for Best Foreign Novel (2009) — The Yiddish Policemen's Union** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q6359432
 **Fernanda Pivano Award for American Literature (2013)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17310046
 **Sophie Brody Medal (2017) — Moonglow** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q24906065
-
-## charts
-**"473" — NME Chart** : 16 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

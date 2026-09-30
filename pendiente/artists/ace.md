@@ -2,7 +2,7 @@
 
 ## members
 - Paul Carrack
-- Paul King (vocals and guitar)
+- Paul King
 - Tex Comer
 
 ## genres
@@ -20,3 +20,5 @@
 ## curiosities
 **Differing Views on Success** : Paul King, a member of Ace, did not believe the success of "How Long" came "too much too soon," stating that the band had been "slogging through clubs for two years" and were ready for success. However, Paul Carrack, the songwriter, later reflected in the early 1980s that success with Ace "was too much too soon" and that the band "took a lot of hard knocks on the way down." "When Ace broke up, Carrick went to go play with Roxy Music, which he said helped him get over the frustration of trying to get another hit record, he said. It was the first step to recovery." ← For the Record - The 70s > Ep. 60 - One-Hit Wonders of the 70s | https://www.ftr70.com
 
+## charts
+**"How Long?" — Billboard Year-End Hot 100** : #58, 1975. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

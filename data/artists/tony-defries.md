@@ -1,9 +1,6 @@
 # artist - Tony DeFries
 
 ## curiosities
+**Detrimental Managerial Contract with David Bowie** : From the early 1970s, Tony DeFrees had a "terrible arrangement" as David Bowie's manager, which left Bowie financially "skint" despite his numerous platinum albums and chart-topping singles. Although Bowie left DeFrees in 1975, the contract allowed DeFrees to continue collecting royalties on Bowie's records until 1996. "Seeing the early 70s, he entered a terrible arrangement with manager Tony DeFrees, and even with all the platinum albums and chart-topping singles, he was close to Skint, he had nothing." ← https://www.youtube.com/watch?v=rw0uXf5UJvo ← tony-defrees ← tony-defrees
 **Managerial Support for Bowie's Image (Late 1970s)** : Tony DeFries became David Bowie's manager in the late 1970s and was highly supportive of Bowie's innovative artistic endeavors, including his experimental approach to rock music and his decision to wear a dress in public. "And he was only too happy to help Bowie search for a new approach to rock music." ← https://www.youtube.com/watch?v=2RKchFW42Jc ← tony-defries
-
-
-
-## lists
-**"Reverse Earth" (2025) — Bandcamp: The Best Albums of 2025** : #19. ← musicbrainz | https://beta.musicbrainz.org/series/e71890ee-e707-4eae-af8f-b60074d08730
+**Detrimental Managerial Contract with David Bowie** : From the early 1970s, Tony DeFrees had a "terrible arrangement" as David Bowie's manager, which left Bowie financially "skint" despite his numerous platinum albums and chart-topping singles. Although Bowie left DeFrees in 1975, the contract allowed DeFrees to continue collecting royalties on Bowie's records until 1996. "Seeing the early 70s, he entered a terrible arrangement with manager Tony DeFrees, and even with all the platinum albums and chart-topping singles, he was close to Skint, he had nothing." ← https://www.youtube.com/watch?v=rw0uXf5UJvo ← tony-defrees

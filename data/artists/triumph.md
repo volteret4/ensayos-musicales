@@ -3,21 +3,20 @@
 ## members
 - Gil Moore
 - Mike Levine
-- Rick Emmett
+- Rik Emmett
 
 ## concerts
 - Civic Auditorium, Omaha, Nebraska (Audience Experience)
 - San Antonio (1978)
 
 ## albums
-**First Two Albums (Unreleased in US)** : Triumph's first two studio albums were not released in the United States. "Triumphs first two albums were not released in the United States." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← triumph
 **Just a Game (1979)** : Triumph's third album, "Just a Game," released in 1979, featured two singles, "Hold On" and "Lay It on the Line," which significantly boosted their attention in the United States. "Their third just a game has two singles that really got them quite a bit of attention in the US hold on and lay it on the line." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← triumph
 
 ## songs
 **Hold On (1979)** : This single from the 1979 album "Just a Game" garnered significant attention for Triumph in the United States and eventually broke into the Top 40. "hold on" ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← triumph
-**Hold On (1979) - Chart Performance** : "Hold On," the subsequent single released from the album "Just a Game," achieved Top 40 status. "the next single from just a game hold on. It will make it into the top 40." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← triumph
+**Hold On (1979)** : "Hold On," the subsequent single released from the album "Just a Game," achieved Top 40 status. "the next single from just a game hold on. It will make it into the top 40." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← triumph
 **Lay It on the Line (1979)** : Released as a single in 1979 from the album "Just a Game," this song helped gain attention for Triumph in the US, but did not make it into the Top 40. "lay it on the line" ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← triumph
-**Lay It on the Line (1979) - Chart Performance** : Released as a single in 1979, "Lay It on the Line" did not manage to break into the Top 40 charts. "Lay it on the line was released as a single in 1979 and while it did not make it into the top 40" ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← triumph
+**Lay It on the Line (1979)** : Released as a single in 1979, "Lay It on the Line" did not manage to break into the Top 40 charts. "Lay it on the line was released as a single in 1979 and while it did not make it into the top 40" ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← triumph
 
 ## curiosities
 **"It's All Done with Mirrors" Philosophy** : Mike Levine articulated a philosophy that perception was crucial in the music industry, stating, "It's all done with mirrors." He elaborated that people were often more impressed by what they heard (or perceived) than by what they actually saw. "Levine said it was a big deal when we came back to Canada record companies in the US started paying attention to us. It's all done with mirrors. People are far more impressed with what they hear than with what they see." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← triumph
@@ -35,8 +34,6 @@
 **Quintessential Arena Rock Performances** : Triumph's concerts were archetypal arena rock shows, characterized by elaborate use of "fireworks and lights," and consistently grew in scale and spectacle. "Their shows were the quintessential arena shows with fireworks and lights and all that and they always seem to get bigger and bigger." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← triumph
 **US Record Label Attention Post-Canadian Return** : Mike Levine of Triumph noted that after the band returned to Canada following their first significant US performance, American record companies began to pay attention to them, suggesting a perception that US exposure was necessary to gain industry interest back home. "Levine said it was a big deal when we came back to Canada record companies in the US started paying attention to us." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← triumph
 
-
-
 ## awards
 **Juno Award for Group of the Year (1979)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q6314079
 **Juno Award for Group of the Year (1985)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q6314079
@@ -44,6 +41,3 @@
 **Juno Award for Group of the Year (1987)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q6314079
 **Juno Award for Rock Album of the Year (1993) — Edge of Excess** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q17141499
 **Canadian Music Hall of Fame (2008)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3362499
-
-## charts
-**"473" — NME Chart** : 16 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

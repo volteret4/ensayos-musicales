@@ -1,16 +1,16 @@
 # artist - Duke Reid
 
 ## genres
-- R&B (radio DJ)
+- R&B
 
 ## labels
-- Trojan (label, after sound system)
+- Trojan
 
 ## instruments
-- Sound system equipment (bass, echo)
+- Sound system equipment
 
 ## albums
-**Duke Reid's Lollipop Girl (Full Band Version)** : After his exclusive copy of "Lollipop Girl" wore out, Duke Reid entered the record business and took Derek Harriott into the studio. He recorded a new version of the song with a full local Big Band backing Harriott, subsequently releasing it as a record and playing it on his sound system. "He went into the record business himself, and took Harriet into the studio, along with a bunch of musicians from the local Big Band, and caught a new version of it with a full band backing Harriet." ← Episode 114： ＂My Boy Lollipop＂ by Millie | https://www.youtube.com/watch?v=kf-DtqoOsRI
+**Duke Reid's Lollipop Girl** : After his exclusive copy of "Lollipop Girl" wore out, Duke Reid entered the record business and took Derek Harriott into the studio. He recorded a new version of the song with a full local Big Band backing Harriott, subsequently releasing it as a record and playing it on his sound system. "He went into the record business himself, and took Harriet into the studio, along with a bunch of musicians from the local Big Band, and caught a new version of it with a full band backing Harriet." ← Episode 114： ＂My Boy Lollipop＂ by Millie | https://www.youtube.com/watch?v=kf-DtqoOsRI
 
 ## songs
 **My Mother's Eyes** : This Tab Smith song served as the theme music for Duke Reid's R&B radio show, becoming permanently identified with his program. "presenting a show whose theme song, Tabsmith's My Mother's Eyes, would become permanently identified with it." ← Episode 114： ＂My Boy Lollipop＂ by Millie | https://www.youtube.com/watch?v=kf-DtqoOsRI
@@ -23,4 +23,3 @@
 **Gangster and Sound System Operator** : A former policeman, Duke Reid transitioned into a gangster and became a prominent sound system operator, founding the Trojan sound system. He was notorious for intimidating rivals with guns, escalating the soundman rivalries beyond friendly competition. "But when the former policeman turned gangster Duke Reed, started up his Trojan sound system, intimidating rivals with guns soon became par for the course." ← Episode 114： ＂My Boy Lollipop＂ by Millie | https://www.youtube.com/watch?v=kf-DtqoOsRI
 **Trojan Sound System** : Duke Reid ran the Trojan sound system, one of the two largest sound systems in Kingston. His system was genuinely popular due to his good musical instincts, in addition to his use of intimidation to maintain power. "Reed's Trojan was one of the two biggest sound systems in Kingston." ← Episode 114： ＂My Boy Lollipop＂ by Millie | https://www.youtube.com/watch?v=kf-DtqoOsRI
 **View of Ska (late 1950s/early 1960s)** : At the point of Ska's early development, Duke Reid, along with Coxsone Dodd, primarily viewed the music they were creating as a substitute for American R&B, rather than a distinct purely Jamaican genre. "But Duke Reed and Coxand Dodd at this point still saw the music they were making as a substitute for American R&B." ← Episode 114： ＂My Boy Lollipop＂ by Millie | https://www.youtube.com/watch?v=kf-DtqoOsRI
-

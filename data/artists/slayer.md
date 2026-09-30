@@ -16,8 +16,7 @@
 - Marshall Stacks
 
 ## albums
-**Reign in Blood** : Slayer was recording this album at the same time Kerry King took time out to play guitar on the Beastie Boys' *Licensed to Ill*. "He took time out from recording the band's Rain in Blood album to play on it." ← https://www.youtube.com/watch?v=l1jPP1FhGo8 ← slayer
-**Top 10 Albums in 2010s** : Slayer, as one of the "Big Four" of Thrash Metal, released albums in the 2010s that reached the top 10 charts. While a Thrash Metal revival was noted with newer bands, none achieved the same commercial heights as the Big Four. "The other members of the so-called Big Four, Slayer, Megadeth and Anthrax also had albums that reached the top 10." ← https://www.youtube.com/watch?v=HSvgRyGiOpE ← slayer
+**Reign in Blood (1986)** : Slayer was recording this album at the same time Kerry King took time out to play guitar on the Beastie Boys' *Licensed to Ill*. "He took time out from recording the band's Rain in Blood album to play on it." ← https://www.youtube.com/watch?v=l1jPP1FhGo8 ← slayer
 
 ## songs
 **Angel of Death (1986)** : This song was featured in the torture playlist at Camp Delta, the military prison at Guantanamo Bay in Cuba. Interrogators used it as a method of "enhanced interrogation" on prisoners. "The torture playlist there also included March of the Pigs from 9-Inch Nails. We are the champions from Queen, Springsteens born in the USA, Angel of Death from Slayer, Metallica's won, and tracks from Britney Spears and Christina Aguilera." ← https://www.youtube.com/watch?v=R1wdsGt07Gg ← slayer ← slayer
@@ -35,8 +34,6 @@
 **Songs About Jeffrey Dahmer** : Slayer is among the many artists who have reportedly written songs about the serial killer Jeffrey Dahmer. "Jeffrey Dahmer seems to have the most songs written about him with about 50 Pearl Jam, Slayer, Black Eyed Peas, Katy Perry, Eminem, Dr. Dre, Violent Femmes, J. Cole and many more." ← https://www.youtube.com/watch?v=FtGJHhqXcDI ← slayer
 **Thrash Metal Pioneer** : Slayer is cited as an example of a thrash metal band, a genre that emerged as hardcore punk influenced metal, leading to faster and harder music. "So I think Slayer, Motorhead, Megadeath, and Anthrax." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y ← slayer
 **Tom Araya's Spinal Injuries from Headbanging** : Tom Araya of Slayer experienced severe problems with his upper spine, necessitating spinal fusion therapy. Doctors identified years of headbanging as the cause of his condition. "Tom Aurea of Slayer started having problems with his upper spine. It got so bad that he had to undergo spinal fusion therapy. The cause? Head banging." ← https://www.youtube.com/watch?v=bferkEWvJg0 ← slayer
-
-
 
 ## awards
 **Grammy Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q41254

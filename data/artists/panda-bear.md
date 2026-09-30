@@ -4,12 +4,10 @@
 - Animal Collective
 
 ## genres
-- Dreampop (adjacent)
+- Dreampop
 
 ## curiosities
 **Member of Animal Collective** : Panda Bear, a member of Baltimore's Animal Collective, is mentioned as an artist whose work aligns with the dreamy aesthetic. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← panda-bear
-
-
 
 ## lists
 **"Person Pitch" (2007) — AOTY Must Hear 2000s** : #149, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/

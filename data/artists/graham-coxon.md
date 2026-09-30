@@ -7,6 +7,10 @@
 - Fender Telecaster
 - Guitar
 
+## albums
+**The End of the F***ing World (2018)** : This new work from Graham Cogsome is a soundtrack for a Netflix series titled "The End of the Fucking World." "es una banda sonora pero una serie de Netflix que se llama The End of the Fucking World." ← Music Radar Clan > Lanzamientos Marzo 2018 | https://www.youtube.com/watch?v=KoWlht2iA7o&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← graham-cogsome ← graham-cogsome
+**The End of the F***ing World (2018)** : This new work from Graham Cogsome is a soundtrack for a Netflix series titled "The End of the Fucking World." "es una banda sonora pero una serie de Netflix que se llama The End of the Fucking World." ← Music Radar Clan > Lanzamientos Marzo 2018 | https://www.youtube.com/watch?v=KoWlht2iA7o&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← graham-cogsome
+
 ## curiosities
 **Absence from Initial Reunion Meeting** : Graham Coxon's absence from Blur's initial reunion meeting in London significantly contributed to the overall tension surrounding the band's decision to record a new album. "graza en cocción ni siquiera se presentó." ← Music Radar Clan > Blur - Think Tank y su dificil grabación. | https://www.youtube.com/watch?v=AbfLCN8cTws&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← graham-coxon ← graham-coxon
 **Antidepressant Treatment and Alcoholism During Recording** : During his brief time in the studio for Think Tank, Graham Coxon was simultaneously on antidepressant treatment and constantly drunk, leading to numerous problems and eccentric behavior that made it practically impossible for the band to work with him. "Él estaba en pleno tratamiento de el antidepresivo y sobre todo él estaba borracho todo el día, entonces tenía un montón de problemas y sobre todo un comportamiento bastante exténtrico, lo cual hizo que prateía el impossible trabajar con él." ← Music Radar Clan > Blur - Think Tank y su dificil grabación. | https://www.youtube.com/watch?v=AbfLCN8cTws&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← graham-coxon ← graham-coxon
@@ -22,14 +26,3 @@
 **Rehabilitation for Alcoholism and Depression** : During the initial recording phases of Think Tank, Graham Coxon was undergoing rehabilitation for severe alcoholism and depression, a fact unknown to the band at the time. "graza en cocción estaba rehabilitándose dentro de una alcoholismo y depresión por los que estaba muy mal, pero el grupo no lo sabía y en un caso lo llegó a decir." ← Music Radar Clan > Blur - Think Tank y su dificil grabación. | https://www.youtube.com/watch?v=AbfLCN8cTws&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← graham-coxon ← graham-coxon
 **Unexpected Return to Studio** : After Blur had begun recording Think Tank without him, Graham Coxon unexpectedly appeared at the studio one day and decided to start recording with the band. "un día graza en cocción se presenta allí como quien no tiene la cosa y el tío decide empezar a grabar con ellos." ← Music Radar Clan > Blur - Think Tank y su dificil grabación. | https://www.youtube.com/watch?v=AbfLCN8cTws&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← graham-coxon ← graham-coxon
 **Unused Vocals for Humans Album** : Graham Coxon recorded vocals for the Gorillaz album "Humans," but his parts were ultimately not used on the final record. "Same thing happened with some vocals from Blur Band-made Grain Coxon." ← https://www.youtube.com/watch?v=iVdTCqpd798 ← graham-coxon
-
-
-
-## charts
-**"Take On Me" — Billboard Year-End Hot 100** : #10, 1985. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"626" — NME Chart** : 2 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
-**"632" — NME Chart** : 25 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
-**"Cry Wolf" — UK Singles Chart** : #4, 1987. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
-
-## lists
-**"Hunting High and Low" (1985) — 1001 Albums You Must Hear Before You Die** : #547.

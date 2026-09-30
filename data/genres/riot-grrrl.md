@@ -9,6 +9,7 @@
 **Movement Description** : The Riot Grrrl scene originated in the Pacific Northwest and comprised hardcore punk bands that voiced their anger from a distinctly female perspective, addressing topics like female empowerment, domestic abuse, rape, sexuality, racism, the patriarchal nature of society, and various feminist ideologies. "Riot Girls were hardcore punk bands that expressed themselves in the same angry way as male bands have been doing for years, except from the female perspective." ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← riot-grrrl
 **Origin as a Response to Hardcore** : The Riot Grrrl movement was initiated by women who were repulsed by the perceived testosterone-driven and male-exclusive nature of hardcore punk. They took action to create their own movement as a direct response to this male-dominated world. "Some women repulsed by the testosterone of hardcore and its exclusive women took matters into their own hands and created the entire Riot Girl movement as a response." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← riot-grrrl
 **Punk Substyle** : Riot Grrrl is identified as one of several sub-styles that emerged as the punk movement spread globally after its mid-1970s inception. "o el Riot Girl." ← Egg Punk： Explorando el lado más raro del punk | https://www.youtube.com/watch?v=ZvQCffRFhHQ
+**Influence on Grunge Era** : The contemporaneous Riot Grrrl movement was identified as an influence that contributed to the Grunge era being "one of the more woman-friendly periods of altrock," alongside the vocal feminist allyship of grunge stars. "whether it was the influence of the contemporaneous Riot Girl movement." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 
 ## artists
 - Bikini Kill
@@ -20,4 +21,3 @@
 - Sleater-Kinney
 - Sugar Baby Doll
 - Team Dresch
-

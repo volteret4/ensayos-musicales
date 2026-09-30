@@ -5,23 +5,19 @@
 - Duff McKagan
 - Matt Sorum
 - Scott Weiland
-- Scott Weiland (former singer)
 - Slash
-- ex-Gunz and Roses guys
 
 ## genres
 - Hard Rock
 
 ## albums
-**Contraband (2004) - Record-Breaking Debut** : This debut album, released on June 8, 2004, achieved a record-breaking number one debut on the U.S. charts and later earned a Grammy Award. The recording process spanned the last six months of 2003, during which Scott Weiland claimed to have written all the melodies and lyrics while in residential rehab. "A record-breaking number one debut on the U.S. charts and eventually a Grammy Award." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← velvet-revolver ← velvet-revolver
-**Libertad (2007) - Tour Cancellations** : The band's second album, which was intended to be supported by a major international tour. However, Scott Weiland's DUI arrest in November 2007 led to widespread tour cancellations, including Japan and Australia, resulting in significant financial losses and resentment from the other band members. "They were supposed to go on a big international tour for their second album, Libertad." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← velvet-revolver ← velvet-revolver
-**Two Albums (2000s)** : The band released two albums during its existence, which "did pretty well." "And they did pretty well for two albums." ← https://www.youtube.com/watch?v=yR3xc3ra5tE ← velvet-revolver
-**Velvet Revolver Albums** : Velvet Revolver released two albums during Scott Weiland's tenure as singer between 2004 and 2008. "In that time, Velvet Revolver released two albums before Wyland either quit or was fired." ← https://www.youtube.com/watch?v=vLZla5h4xKQ ← velvet-revolver
+**Contraband (2004)** : This debut album, released on June 8, 2004, achieved a record-breaking number one debut on the U.S. charts and later earned a Grammy Award. The recording process spanned the last six months of 2003, during which Scott Weiland claimed to have written all the melodies and lyrics while in residential rehab. "A record-breaking number one debut on the U.S. charts and eventually a Grammy Award." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← velvet-revolver ← velvet-revolver
+**Libertad (2007)** : The band's second album, which was intended to be supported by a major international tour. However, Scott Weiland's DUI arrest in November 2007 led to widespread tour cancellations, including Japan and Australia, resulting in significant financial losses and resentment from the other band members. "They were supposed to go on a big international tour for their second album, Libertad." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← velvet-revolver ← velvet-revolver
 
 ## songs
-**Fall To Pieces (2004)** : A major single from "Contraband," written by Scott Weiland following his arrest on his 36th birthday, October 23, 2003. Its music video featured Scott's wife, Mary Forsberg, and the song contributed to the band winning a Grammy Award for Best Hard Rock Performance. "A big song from Velvara Volver's Contra Band that's fall to pieces. I hit the contributor to VR winning a Grammy Award for Best Hard Rock Performance." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← velvet-revolver ← velvet-revolver
-**Let Me Free (2003)** : One of the first songs released by the band, featured on "The Hulk" movie soundtrack in the summer of 2003. Its release roughly coincided with Scott Weiland's arrest for heroin possession. "Let me free the first example of Velvet Revolver, which saw the light of day about a month after Scott was arrested again for having heroin in his car." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← velvet-revolver ← velvet-revolver
-**Slither** : This song is from Velvet Revolver's self-titled debut album. "The first album was self titled, and this is Slither." ← https://www.youtube.com/watch?v=QIA7V4PxCdM ← velvet-revolver
+**Fall to Pieces (2004)** : A major single from "Contraband," written by Scott Weiland following his arrest on his 36th birthday, October 23, 2003. Its music video featured Scott's wife, Mary Forsberg, and the song contributed to the band winning a Grammy Award for Best Hard Rock Performance. "A big song from Velvara Volver's Contra Band that's fall to pieces. I hit the contributor to VR winning a Grammy Award for Best Hard Rock Performance." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← velvet-revolver ← velvet-revolver
+**Set Me Free (2003)** : One of the first songs released by the band, featured on "The Hulk" movie soundtrack in the summer of 2003. Its release roughly coincided with Scott Weiland's arrest for heroin possession. "Let me free the first example of Velvet Revolver, which saw the light of day about a month after Scott was arrested again for having heroin in his car." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← velvet-revolver ← velvet-revolver
+**Slither (2004)** : This song is from Velvet Revolver's self-titled debut album. "The first album was self titled, and this is Slither." ← https://www.youtube.com/watch?v=QIA7V4PxCdM ← velvet-revolver
 **Slither (2004)** : A track from the debut album "Contraband." "Here's Velvara Volver from Contra Band with Slither." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← velvet-revolver ← velvet-revolver
 
 ## curiosities
@@ -30,7 +26,7 @@
 **Band Members' Sobriety (2003)** : The members of Velvet Revolver (McKagan, Slash, Sorum, Kushner) were all 100% clean from drugs at the time of their formation, providing a potential environment to help Scott Weiland get clean as well. "And all the other guys had been in trouble with drugs too and were all 100% clean. So maybe this was the environment that would help him get clean too." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← velvet-revolver ← velvet-revolver
 **Band's Financial Demands on Scott Weiland (2008)** : Following the extensive tour cancellations caused by Scott Weiland's DUI, the other band members were "pissed" and demanded that Weiland reimburse them out of his own pocket for all the lost revenue, which further strained internal relations. "They demanded that since this was Scott's fault, that he reimburse all of them for the lost revenue out of his own pocket." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← velvet-revolver ← velvet-revolver
 **Brilliant Beginning, Debacle End** : Velvet Revolver's story was characterized by a brilliant start but ended in a "debacle," which was attributed almost entirely to Scott Weiland's issues. "The whole Velvet Revolver story, which began so brilliantly and ended in such a debacle, thanks almost entirely to Scott." ← https://www.youtube.com/watch?v=r6vVw66-gmI ← velvet-revolver
-**DUI Charge (2004)** : In July 2004, Scott Weiland was charged with DUI and sentenced to three months probation and a six-month rehab program. "In July 2004 he was charged with DUI in sentenced to 3 months probation in a 6 month rehab program." ← https://www.youtube.com/watch?v=UH3n1oQSOc0 ← velvet-revolver ← velvet-revolver
+**Weiland's DUI and Rehab (July 2004)** : In July 2004, Scott Weiland was charged with DUI and sentenced to three months probation and a six-month rehab program. "In July 2004 he was charged with DUI in sentenced to 3 months probation in a 6 month rehab program." ← https://www.youtube.com/watch?v=UH3n1oQSOc0 ← velvet-revolver ← velvet-revolver
 **End with Scott Weiland (April 1, 2008)** : Velvet Revolver's final gig with Scott Weiland as their singer took place in Amsterdam on April 1, 2008, effectively marking the end of his tenure with the band. "So velvet revolver was done, at least with Scott as their singer." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← velvet-revolver ← velvet-revolver
 **Formation as a Supergroup (2003)** : Formed in 2003, Velvet Revolver began with former Guns N' Roses members Duff McKagan, Slash, and Matt Sorum, who then recruited Dave Kushner from Wasted Youth. They auditioned several singers, including Josh Todd of Buckcherry, Travis Meeks of Days of the New, and B-Real of Cypress Hill, before settling on Scott Weiland. "Susan told Mary that three guys from Guns and Roses had kissed and made up and were forming a new band." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← velvet-revolver ← velvet-revolver
 **Ian Thorneley's Audition Experience** : Ian Thorneley rehearsed with Velvet Revolver in Los Angeles after Scott Weiland's departure. He found the musical aspect and chemistry to be strong, and the band members (Slash, Duff McKagan, etc.) to be "real dudes" and normal guys, contrary to any "reality show" perception. "It was really nice to see that. It wasn't, it wasn't the reality show, whatever that I had imagined it would be like." ← https://www.youtube.com/watch?v=QIA7V4PxCdM ← velvet-revolver
@@ -43,7 +39,7 @@
 **Rough Start to 2007** : The year 2007 began difficult for the band with the death of Matt Sorum's younger brother from brain cancer in early March, followed by the death of Scott Weiland's younger brother, Michael, a month later. "Things started off rough for Velvara Volver in 2007. Former Matt Sorum's little brother died of brain cancer the first week of March." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← velvet-revolver ← velvet-revolver
 **Scott Weiland Declares Band's End (March 20, 2008)** : Angered by the financial demands, Scott Weiland unilaterally announced to the crowd at a Glasgow gig on March 20, 2008, that it would be the "last ever Velvet Revolver tour." The band performed eight more shows, with their final gig in Amsterdam on April 1, 2008. "Scott was so angry that on March 20, 2008, during a gig at the Carling Academy in Glasgow, and he unilaterally announced to the crowd that this was the last ever velvet revolver tour." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← velvet-revolver ← velvet-revolver
 **Scott Weiland's Departure (March 21, 2008)** : Scott Weiland announced mid-show that this tour would be his last with Velvet Revolver, a surprise to his bandmates. "On March 21st, 2008, Wyland announced in the middle of a Velvet Revolver show that this would be his last tour with the band." ← https://www.youtube.com/watch?v=yR3xc3ra5tE ← velvet-revolver
-**Scott Weiland's Firing (2008)** : Velvet Revolver fired Scott Weiland on April 1, 2008, after his public announcement about the band's last tour. Weiland countered, claiming he was "ousted by a bunch of Eagle Maniacs." "Didn't matter though because the band was planning to fire him anyway, which they did on April 1st 2008." ← https://www.youtube.com/watch?v=UH3n1oQSOc0 ← velvet-revolver ← velvet-revolver
+**Scott Weiland's Firing (April 1, 2008)** : Velvet Revolver fired Scott Weiland on April 1, 2008, after his public announcement about the band's last tour. Weiland countered, claiming he was "ousted by a bunch of Eagle Maniacs." "Didn't matter though because the band was planning to fire him anyway, which they did on April 1st 2008." ← https://www.youtube.com/watch?v=UH3n1oQSOc0 ← velvet-revolver ← velvet-revolver
 **Scott Weiland's Firing (April 1, 2008)** : Velvet Revolver fired Scott Weiland on April 1, 2008, after a series of "crazy antics" during a tour through the UK. Weiland responded by claiming he was ousted by "a bunch of egomaniacs." "Velvet Revolver got fed up with him and fired Wyland on April 1, 2008, after a bunch of crazy antics on a swing through the UK." ← https://www.youtube.com/watch?v=pAOFzQZPjSM ← velvet-revolver ← velvet-revolver
 **Scott Weiland's Initial Reluctance and Trust (2003)** : Scott Weiland initially disliked the music presented by the band, but a second demo convinced him to jam. He showed up late due to drug use, but found unexpected chemistry and a low ego factor, particularly trusting Matt Sorum due to a shared rehab experience. "Matt, to Scott's surprise, the ego factor was low and the chemistry was bang on. Besides, he'd been in rehab with Matt Sorom so he trusted him." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← velvet-revolver ← velvet-revolver
 **Scott Weiland's Involvement and Behavior** : Velvet Revolver was Scott Weiland's project after the initial breakup of Stone Temple Pilots. He was described as a "pain in the ass" to this group as well. "Wyland's next project was Velvet Revolver. He was a pin in the ass to them too." ← https://www.youtube.com/watch?v=pAOFzQZPjSM ← velvet-revolver ← velvet-revolver
@@ -58,47 +54,3 @@
 **Tour Cancellations Due to Scott Weiland's DUI (2007)** : Scott Weiland's DUI arrest on November 21, 2007, caused a "disaster" for Velvet Revolver, leading to the cancellation of many dates on their international tour for the "Libertad" album. Japan refused the band entry, and Australia dates were cancelled. "Japan refused the band entry outright. Australia was canceled." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← velvet-revolver ← velvet-revolver
 **Video Appearance** : Slash, Duff McKagan, and Matt Sorum, who were also members of Velvet Revolver (and Guns N' Roses), appeared in The Strokes' music video for "Someday." This collaboration was noted as a significant endorsement for the emerging band. "They even had Slash, Duff McKagan and Matt Soren from Guns and Roses and Velvet Revolver appear in their video." ← https://www.youtube.com/watch?v=jEfofyobGiI ← velvet-revolver
 **Weiland's DUI and Rehab (July 2004)** : In July 2004, Scott Weiland was charged with DUI and sentenced to three months probation and a six-month rehab program. "In July 2004, he was charged with DUI and sentenced to three months probation into a six-month rehab program." ← https://www.youtube.com/watch?v=pAOFzQZPjSM ← velvet-revolver ← velvet-revolver
-
-
-
-## charts
-**"Adele" — UK Vinyl Albums Chart** : entrada.
-**"Amy Winehouse" — UK Vinyl Albums Chart** : entrada.
-**"Radiohead" — UK Vinyl Albums Chart** : entrada.
-**"Rag'n'Bone Man" — UK Vinyl Albums Chart** : entrada.
-**"Ed Sheeran" — UK Vinyl Albums Chart** : entrada.
-**"The Beatles" — UK Vinyl Albums Chart** : entrada.
-**"Noel Gallagher's High Flying Birds" — UK Vinyl Albums Chart** : entrada.
-**"Original Soundtrack" — UK Vinyl Albums Chart** : entrada.
-**"Queen" — UK Vinyl Albums Chart** : entrada.
-**"Various Artists" — UK Vinyl Albums Chart** : entrada.
-**"Fleetwood Mac" — UK Vinyl Albums Chart** : entrada.
-**"Amy Winehouse" — UK Vinyl Albums Chart** : entrada.
-**"Queen" — UK Vinyl Albums Chart** : entrada.
-**"Kylie Minogue" — UK Vinyl Albums Chart** : entrada.
-**"Harry Styles" — UK Vinyl Albums Chart** : entrada.
-**"Glass Animals" — UK Vinyl Albums Chart** : entrada.
-**"Oasis" — UK Vinyl Albums Chart** : entrada.
-**"Taylor Swift" — UK Vinyl Albums Chart** : entrada.
-**"Dua Lipa" — UK Vinyl Albums Chart** : entrada.
-**"Olivia Rodrigo" — UK Vinyl Albums Chart** : entrada.
-**"Charli XCX" — UK Vinyl Albums Chart** : entrada.
-**"Chappell Roan" — UK Vinyl Albums Chart** : entrada.
-**"Gracie Abrams" — UK Vinyl Albums Chart** : entrada.
-**"Noel Gallagher's High Flying Birds" — UK Vinyl Singles Chart** : entrada.
-**"David Bowie" — UK Vinyl Singles Chart** : entrada.
-**"Golden Years" — UK Vinyl Singles Chart** : 4 semanas.
-**"The Stone Roses" — UK Vinyl Singles Chart** : entrada.
-**"David Brent" — UK Vinyl Singles Chart** : entrada.
-**"Oasis" — UK Vinyl Singles Chart** : entrada.
-**"Liam Gallagher" — UK Vinyl Singles Chart** : entrada.
-**"George Michael" — UK Vinyl Singles Chart** : entrada.
-**"Morrissey" — UK Vinyl Singles Chart** : entrada.
-**"Led Zeppelin" — UK Vinyl Singles Chart** : entrada.
-**"Public Service Broadcasting" — UK Vinyl Singles Chart** : entrada.
-**"The Fontaines" — UK Vinyl Singles Chart** : entrada.
-**"Ceremony" — UK Vinyl Singles Chart** : 1 semanas.
-**"Wham!" — UK Vinyl Singles Chart** : entrada.
-**"Blur" — UK Vinyl Singles Chart** : entrada.
-**"The 1975" — UK Vinyl Singles Chart** : entrada.
-**"Fontaines D.C." — UK Vinyl Singles Chart** : entrada.

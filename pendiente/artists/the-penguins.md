@@ -1,20 +1,22 @@
 # artist - The Penguins
 
 ## members
-- Curtis Williams (joined after leaving The Hollywood Flames)
+- Curtis Williams
 
 ## genres
+- Doo-wop
 - R&B
 
 ## labels
 - Mercury Records
 
 ## albums
-**Memories of El Monte (Year Unknown)** : This song by The Penguins immortalized the regular shows at El Monte Stadium, where Kip Tyler and The Flips were the house band. "the shows which would later be immortalised by the penguins in Memories of El Monte." ← Episode 86： ＂LSD-25＂ by the Gamblers | https://www.youtube.com/watch?v=UNd6UwbL1rA
+**Memories of El Monte** : This song by The Penguins immortalized the regular shows at El Monte Stadium, where Kip Tyler and The Flips were the house band. "the shows which would later be immortalised by the penguins in Memories of El Monte." ← Episode 86： ＂LSD-25＂ by the Gamblers | https://www.youtube.com/watch?v=UNd6UwbL1rA
 
 ## songs
 **Earth Angel (1954)** : This song was The Penguins' only big hit, and its success led to Mercury Records being eager to sign them. Their manager, Book Ram, used this eagerness as leverage to secure a deal for The Platters as well. "The penguins had just had what turned out to be their only big hit, with her thangel." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
-**Earth Angel (Year Unspecified)** : This song inspired the name of the vocal group The Earth Angels, which was formed by Jimmy Merchant and Sherman Garns before they went on to create The Teenagers. "named the Earth Angels after the Penguin's song." ← Episode 35： ＂Why Do Fools Fall In Love？＂ by Frankie Lymon and the Teenagers | https://www.youtube.com/watch?v=AtZf9PJEttM
+**Earth Angel (1954)** : This song inspired the name of the vocal group The Earth Angels, which was formed by Jimmy Merchant and Sherman Garns before they went on to create The Teenagers. "named the Earth Angels after the Penguin's song." ← Episode 35： ＂Why Do Fools Fall In Love？＂ by Frankie Lymon and the Teenagers | https://www.youtube.com/watch?v=AtZf9PJEttM
+**Earth Angel (1954)** : The Penguins' original recording of the doo-wop classic, released by the black quartet in 1954. Their rendition became an instant R&B chart topper by early 1955 and reached number eight on Billboard's pop charts. "Earth Angel, was first recorded by black quartet The Penguins in 1954." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
 
 ## curiosities
 **Connection to John Dolphin** : John Dolphin, owner of Dolphins of Hollywood, was discussed in previous podcast episodes concerning Jean and Eunice and The Penguins, indicating his significant role in their success. "We've talked about Dolphin before, in the episodes on Jean and Eunice and the Penguins." ← Episode 86： ＂LSD-25＂ by the Gamblers | https://www.youtube.com/watch?v=UNd6UwbL1rA
@@ -23,4 +25,3 @@
 **Leverage for The Platters' Signing** : The Penguins, having just scored their only big hit with "Earth Angel," were managed by Book Ram. Mercury Records was keen to sign them, but Ram agreed only on the condition that Mercury also signed The Platters, effectively using The Penguins' success as leverage for his preferred group. "Ram agreed to the deal, but only on the condition that Mercury signed the platters as well." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
 **Members Joined Cornel Gunter's Coasters** : Three members of Cornel Gunter's newly formed "The Coasters" group had previously been members of The Penguins. Gunter himself had emerged from the same musical "stew" of vocal groups as The Penguins and had known them for years. "A more accurate name might have been The Penguins since the other three members of his new group had been members of The Penguins previously." ← Episode 68： ＂Yakety Yak＂ by the Coasters | https://www.youtube.com/watch?v=dtMHDD0-oOo
 **Ram's Disinterest After Signing** : After successfully using The Penguins to secure a deal for The Platters with Mercury Records, Book Ram largely abandoned The Penguins, who subsequently never achieved any further success. "Once they were signed, Ram largely gave up on the penguins, who never had any further success." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
-

@@ -5,9 +5,15 @@
 **First Wave Decline (December 1956)** : By December 1956, the initial surge of rockabilly music was largely over, with many prominent artists like Carl Perkins, Gene Vincent, and Bill Haley no longer having chart successes. Only Elvis Presley remained a leading white rock and roll star from this era. "We're coming to the end of 1956, and with it, the end of the first wave of rockabilly." ← Episode 51： ＂Matchbox＂ by Carl Perkins | https://www.youtube.com/watch?v=0Nrjr0AGd3U
 **Homage in The Cramps' Work (1986)** : The Cramps' 1986 album, *A Date with Elvis*, was explicitly conceived as an homage to rockabilly music, showcasing their deep roots in the genre. "Adate with Elvis, un homenaje al Riddel Rock." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
 **Transition to Country Music (Post-1956)** : After December 4, 1956, artists like Carl Perkins and Johnny Cash increasingly moved away from rockabilly and towards country music. This date is seen as a border between periods in rock and roll history, before rock and roll became the dominant genre. "They both moved increasingly towards country music, and away from rockabilly." ← Episode 51： ＂Matchbox＂ by Carl Perkins | https://www.youtube.com/watch?v=0Nrjr0AGd3U
+**Influence on Elvis Costello** : Elvis Costello's 1981 album "Trust" demonstrated his expanding musical interests, with songs alluding to various styles, including rockabilly. This indicated his willingness to incorporate diverse influences into his new wave sound. "with songs alluding to jazz, rockabilly, even country." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
+**Nick Lowe's Return to Pop Chart** : Nick Lowe returned to the pop chart in the mid-1980s with the rockabilly-flavored song "Half a Boy and Half a Man." This track, accompanied by a retro beachy video, showcased the genre's enduring appeal and Lowe's ability to infuse classic styles with contemporary relevance. "Nick Lo returned to the pop chart with the Rockabilly flavored Half a Boy and Half a Man." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
+**Influence on George Michael's "Faith" (1987)** : George Michael's song "Faith" featured a retro sound that was an explicit homage to Rockabilly. "This homage to Rockabilly came with an iconic music video." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce81
+**George Michael's Genre Versatility** : George Michael's multi-platinum album "Faith" demonstrated his imperial versatility, generating hits like the rockabilly title track alongside funk pop and soul ballads. "ranging from the funk pop of I Want Your Sex to the Rockabilly title track to the Soul Ballad's father figure and one more try." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f03154465cd600c5379
 
 ## artists
 - Carl Perkins
 - The Clash
 - The Cramps
-
+- Elvis Costello
+- George Michael
+- Nick Lowe

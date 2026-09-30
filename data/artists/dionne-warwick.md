@@ -1,17 +1,19 @@
 # artist - Dionne Warwick
 
+## member of
+- Dionne & Friends
+
 ## songs
 **Say a Little Prayer (1967)** : A hit song for Dionne Warwick in the 1960s, written by Burt Bacharach and Hal David. "They wrote hits for Dion Warwick Warwick in the 60s like Walk On By and say a little prayer." ← For the Record - The 70s > Ep. 28 - Soundtracks of the 70s | https://seventies.libsyn.com/028-soundtracks-of-the-70s-12221-5-45-pm
 **Then Came You (1974)** : This collaboration with The Spinners was the number three song on the charts the week ending October 5th, 1974. Its success indicates the public's preference for non-political, entertaining music during a period when Americans were growing weary of government and scandals. "number three Then came you by Deon Warwick and the spinners" ← For the Record - The 70s > Ep. 5 - Anti-Nixon Songs of the 70s | http://www.ftr70.com
-**Then Came You (N/A)** : Dionne Warwick collaborated with The Spinners on this song, which was produced by Tom Bell and contributed to The Spinners' string of hits. "then came you with Dion Warwick." ← For the Record - The 70s > Ep. 37 - Philly Soul and the Sound of the 70s | https://seventies.libsyn.com/ep-37-philly-soul-and-the-sound-of-the-70s
+**Then Came You (1974)** : Dionne Warwick collaborated with The Spinners on this song, which was produced by Tom Bell and contributed to The Spinners' string of hits. "then came you with Dion Warwick." ← For the Record - The 70s > Ep. 37 - Philly Soul and the Sound of the 70s | https://seventies.libsyn.com/ep-37-philly-soul-and-the-sound-of-the-70s
 **Walk On By (1964)** : A hit song for Dionne Warwick in the 1960s, written by Burt Bacharach and Hal David. "They wrote hits for Dion Warwick Warwick in the 60s like Walk On By and say a little prayer." ← For the Record - The 70s > Ep. 28 - Soundtracks of the 70s | https://seventies.libsyn.com/028-soundtracks-of-the-70s-12221-5-45-pm
+**Walk On By (1964)** : Dionne Warwick's classic song from the 1960s, later transformed into a "thumping retake" by Doja Cat, becoming her number one hit "Paint the Town Red." "Dion Warwick's 60s classic Walk On By" ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
 
 ## curiosities
 **Declined Humans Album Participation** : Dionne Warwick declined to participate in the Gorillaz album "Humans," citing "some kind of religion" as her reason. "those who declined to participate included Morrissey, and Dion Warwick, who had some kind of religion." ← https://www.youtube.com/watch?v=iVdTCqpd798 ← dionne-warwick
 **Scopatone Involvement** : Dionne Warwick was among the artists who produced films for the Scopatone machines. These machines were a form of video jukebox popular in the mid-1960s, offering short, often color, musical films in public venues. "The Sedacca, Bobby V, Dion Warwick, and a few others got into the Scopatone business." ← Ongoing History of New Music > The Rise and Fall and Future of the Music Video - Part 1 | https://www.youtube.com/watch?v=lqd6IbUJ7tg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← dionne-warwick ← dionne-warwick
 **Session Singer and Replacement for The Shirelles** : Dionne Warwick served as a session singer for Scepter Records, and was employed as a replacement singer for The Shirelles' live shows when original members were on maternity leave. At the time, she was being produced by Burt Bacharach for Scepter. "The singer who replaced them for those shows was a session singer who Bakerak was producing for Septa, named Dianne Warwick." ← Episode 89： ＂Will You Love Me Tomorrow？＂ by the Shirelles | https://www.youtube.com/watch?v=7Kns2HGcuSg
-
-
 
 ## awards
 **Ellis Island Medal of Honor** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5365910

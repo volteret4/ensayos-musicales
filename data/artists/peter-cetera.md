@@ -3,8 +3,6 @@
 ## member of
 - Chicago
 
-
-
 ## awards
 **Academy Award for Best Original Song (1987) — Glory of Love** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q112243
 

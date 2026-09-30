@@ -2,4 +2,3 @@
 
 ## member of
 - KC and the Sunshine Band
-

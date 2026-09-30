@@ -8,18 +8,17 @@
 **Pre-Punk Scene (1970s Britain)** : Pub rock was a significant scene in England prior to the full explosion of punk rock. Bands like The 101ers (from which Joe Strummer defected) and Brimsley Schwartz were prominent in this genre. "I remember at the time, the big thing going on in England was Paw Brock. Dr. Philgit was the big band at the time in Brimsley Schwartz." ← https://www.youtube.com/watch?v=wYuNolSDLFM ← pub-rock ← pub-rock
 **Prominence in 1970s England** : When the Ramones visited England in 1976, pub rock was "the big thing going on," with bands like Dr. Feelgood and Brinsley Schwarz being prominent. "I remember at the time the big thing going on in England was Pobrock, Dr. Felga, was the big band at the time in Brimsley Schwartz." ← https://www.youtube.com/watch?v=j8uk7BnbXwU ← pub-rock
 **Rejection of Hippy Rock** : The pub rock genre was conceived as a deliberate rejection of the sounds and ideals of 1960s hippie rock. "The pub rock genre was intended as a rejection of 60's hippy rock." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**Foundation for "Angry Young Men"** : Pub Rock served as a foundational scene for British singer-songwriters like Elvis Costello, Joe Jackson, and Graham Parker in the 1970s. It was part of the musical landscape that shaped their early careers before they adopted punk attitudes and contributed to new wave. "who came up through Pub Rock and Powerpop, adopted punk attitude, helped shape new wave." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
 
 ## artists
-- Brimsley Schwartz
 - Brinsley Schwarz
-- Brinsley Schwarz (band)
-- Dave Edmonds
+- Dave Edmunds
 - Dr. Feelgood
-- Dr. Philgit
 - Ducks Deluxe
 - Eggs Over Easy
 - Flip City
 - Graham Parker
 - Nick Lowe
 - The 101ers
-
+- Elvis Costello
+- Joe Jackson

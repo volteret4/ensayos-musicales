@@ -12,9 +12,7 @@
 ## artists
 - Beck
 - Dinosaur Jr.
-- Jon Lein Stranger
 - Pavement
 - R.E.M.
-- REM
 - Sebadoh
 

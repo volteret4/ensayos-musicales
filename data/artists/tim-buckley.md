@@ -15,7 +15,7 @@
 **Greetings from LA (1972)** : This album features the song "Sweet Surrender." "This is from a 1972 album entitled Greetings from LA, and the song is Sweet Surrender." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← tim-buckley
 
 ## songs
-**Song to the Siren** : This song was famously covered by This Mortal Coil on their 1984 album "It'll End in Tears," with their version becoming a popular track that spent two years on the UK Indie charts. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← tim-buckley
+**Song to the Siren (1970)** : This song was famously covered by This Mortal Coil on their 1984 album "It'll End in Tears," with their version becoming a popular track that spent two years on the UK Indie charts. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← tim-buckley
 **Sweet Surrender (1972)** : This song is featured on Tim Buckley's 1972 album, *Greetings from LA*. "This is from a 1972 album entitled Greetings from LA, and the song is Sweet Surrender." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← tim-buckley
 
 ## curiosities
@@ -25,8 +25,6 @@
 **John Lydon's Preference** : Tim Buckley's ballads were featured by John Lydon on his 1977 radio program "The Punk and His Music," highlighting Lydon's diverse musical preferences beyond punk. "Valadas de Tim Buckley" ← La traición que salvó al punk. PiL | https://www.youtube.com/watch?v=YzQ6o-FgxSY
 **Musical Evolution and Self-Destructive Behavior** : After his divorce, Tim Buckley dedicated himself full-time to music, exploring a wide range of genres including folk, psych, jazz, funk, and soul. Simultaneously, he engaged in self-destructive behaviors. "Tim went into music full-time, cycling through folk, psych, bits of jazz, fun, and soul, while also pursuing some pretty self-destructive behavior." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← tim-buckley
 **Untimely Death** : Tim Buckley died at the age of 28 in 1975, reportedly from a heroin overdose. "until well after he died in 1975 of what appears to be a heroine overdose at age 28." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← tim-buckley
-
-
 
 ## lists
 **"Goodbye and Hello" (1967) — 1001 Albums You Must Hear Before You Die** : #86.

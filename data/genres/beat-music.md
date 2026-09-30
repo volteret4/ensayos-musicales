@@ -5,5 +5,5 @@
 
 ## artists
 - The Beatles
-- The Jarpers
+- The Yardbirds
 

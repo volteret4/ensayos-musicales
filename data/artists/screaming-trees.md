@@ -2,11 +2,11 @@
 
 ## members
 - Barrett Martin
-- Donna Dresch
-- Josh Homme (guitarist)
-- Mark Lanegan (singer)
+- Josh Homme
+- Mark Lanegan
 
 ## genres
+- Alternative Rock
 - Grunge
 
 ## labels
@@ -25,15 +25,13 @@
 ## curiosities
 **Academic and Artistic Pursuits** : Barrett Martin, the drummer for Screaming Trees and Mad Season, is described as highly intelligent, holding bachelor's and master's degrees in anthropology, linguistics, and ethnomusicology, and was an honor student. He also became a Zen artist. "Bachelors and master's degrees in anthropology, linguistics, and ethnomusicology, and an honor student." ← https://www.youtube.com/watch?v=EyagC0T7mR4 ← screaming-trees ← screaming-trees
 **Associated with Grunge Movement (Mid-90s)** : Screaming Trees was grouped with other bands like Stone Temple Pilots and Soundgarden under the Grunge umbrella, dominant in North America in the early and mid-90s. "We also had the Stone Temple pilots in screaming trees, Allison Chains, Mud Honey, Tad, and a ton of others who were all placed under the same Grunge umbrella." ← https://www.youtube.com/watch?v=ua93Ui1u6UI ← screaming-trees ← screaming-trees
-**Early Subpop Roster** : Screaming Trees was a local group featured on the roster of Subpop by mid-1988, when the label was gaining recognition as a "pretty cool little label." "The roster featured local groups like Soundgarden, Screaming Trees and Mud Honey." ← https://www.youtube.com/watch?v=xdn31jMOOA4 ← screaming-trees ← screaming-trees
+**Subpop Roster** : Screaming Trees was a local group featured on the roster of Subpop by mid-1988, when the label was gaining recognition as a "pretty cool little label." "The roster featured local groups like Soundgarden, Screaming Trees and Mud Honey." ← https://www.youtube.com/watch?v=xdn31jMOOA4 ← screaming-trees ← screaming-trees
 **Josh Homme as Touring Guitarist** : Josh Homme toured as the rhythm guitarist for Screaming Trees for two years. He played with them at Lollapalooza in 1996 and was noted as a "six foot five red-haired rhythm guitarist." "If you were at Lollapalooza in 1996 and saw the tree set, that six foot five red-haired rhythm guitarist was Josh Hommie." ← https://www.youtube.com/watch?v=mG1TQuhcf1o ← screaming-trees ← screaming-trees
 **Managed by Susan Silver (1983)** : Screaming Trees were an early client of Susan Silver, who started managing bands in Seattle in 1983 while still majoring in Chinese at the University of Washington. This management role predated her work with Soundgarden and Alice in Chains. ← https://www.youtube.com/watch?v=PzyvXmDKFUc ← screaming-trees
 **Should Have Been Bigger** : Screaming Trees was a band that, despite their quality, "should have been bigger than they were." "He first appeared as part of screaming trees, a band that should have been bigger than they were." ← https://www.youtube.com/watch?v=sdPeii-8Ysw ← screaming-trees
 **Singles Soundtrack Contribution (1992)** : Songs from The Screaming Trees were played on the radio and in alternative clubs throughout late 1992, following the release of *Singles*. The movie and its soundtrack were instrumental in expanding the reach and popularity of grunge music. "Songs from Allison Chains, Pearl Jam, The Screaming Trees and The Smashing Pumpkins were all played on the radio and in alternative clubs." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← screaming-trees
 **Subpop Roster** : Screaming Trees was featured on the Subpop label's roster by the middle of 1988, highlighting their presence within the Seattle indie scene. "The roster featured local indie groups like SoundGarden and Screaming Trees and Mud Honey." ← https://www.youtube.com/watch?v=sCtQqVBtCaI ← screaming-trees
 **Underrated Status** : The band is described as a "terribly underrated Seattle band." "Mark Lannigan, the singer for the screaming trees, a terribly underrated Seattle band." ← https://www.youtube.com/watch?v=mG1TQuhcf1o ← screaming-trees ← screaming-trees
-
-
 
 ## lists
 **"Dust" (1996) — 1001 Albums You Must Hear Before You Die** : #807, 7.0/10 Scaruffi.

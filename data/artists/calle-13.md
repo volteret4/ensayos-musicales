@@ -6,8 +6,7 @@
 
 ## curiosities
 **Global Recognition Potential** : If Calle 13 had sung in English and been based in the United States, they would undoubtedly be regarded as "one of the greatest geniuses of urban and rap culture of the last 20 years." "de no cantar en español y de estar en Estados Unidos estarían considerados uno de los mayores genios de la cultura urbana y del rap que hemos tenido los últimos 20 años." ← Music Radar Clan > Mejores discos del 2017 | https://www.youtube.com/watch?v=T34CwsFmXpI&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← calle-13 ← calle-13
-
-
+**Global Recognition Potential** : If Calle 13 had sung in English and been based in the United States, they would undoubtedly be regarded as "one of the greatest geniuses of urban and rap culture of the last 20 years." "de no cantar en español y de estar en Estados Unidos estarían considerados uno de los mayores genios de la cultura urbana y del rap que hemos tenido los últimos 20 años." ← Music Radar Clan > Mejores discos del 2017 | https://www.youtube.com/watch?v=T34CwsFmXpI&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← calle-13
 
 ## awards
 **Latin Grammy Award for Best Urban Music Album (2006) — Calle 13** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q6496399
@@ -61,7 +60,3 @@
 **Latin Grammy Award for Best Urban Fusion/Performance (2014)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q17135175
 **Latin Grammy Award for Best Short Form Music Video (2014)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q6496387
 **Latin Grammy Award for Best Short Form Music Video (2015)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q6496387
-
-## charts
-**"Wolf Alice" — UK Vinyl Albums Chart** : entrada.
-**"The Rolling Stones" — UK Vinyl Singles Chart** : entrada.

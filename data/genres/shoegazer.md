@@ -8,6 +8,6 @@
 - Lush
 - My Bloody Valentine
 - Ride
-- Slow Dive
-- Swerve Driver
+- Slowdive
+- Swervedriver
 

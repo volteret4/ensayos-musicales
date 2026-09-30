@@ -9,8 +9,3 @@
 ## curiosities
 **Mental Health and Addiction Facility** : Moody's Rock Stop is part of a broader project that includes Sierra Corral, an outpatient facility designed to assist individuals with addiction and mental health issues. "But that's actually part of a wider project that includes Sierra Corral, an outpatient facility for people who have addiction and mental health issues." ← https://www.youtube.com/watch?v=7jMfH9xAOpI ← ivan-moody
 **Serial Entrepreneur** : Beyond his role as frontman for Five Finger Death Punch, Ivan Moody is a serial entrepreneur. His ventures include Moody's Medicinals, a CBD company, and Moody's Rock Stop, a gas station in Cheyenne, Wyoming, located on West Pershing Boulevard, that also sells bait. "He's already something of a serial entrepreneur." ← https://www.youtube.com/watch?v=7jMfH9xAOpI ← ivan-moody
-
-
-
-## charts
-**"473" — NME Chart** : 16 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

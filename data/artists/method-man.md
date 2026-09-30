@@ -1,9 +1,11 @@
 # artist - Method Man
 
 ## member of
-- Wu Tang Clan
+- Wu-Tang Clan
 
-
+## albums
+**Method Man Solo Album** : Released as part of RZA's initial five-year plan for individual member albums, this solo project was recognized as one of the outstanding releases from that period, alongside Ghostface Killah's album. "el disco de mezotman... salieron discos tremendos de esa primera ornidad de disco en su solitario del Gutanclan." ← Music Radar Clan > Wu-Tang Clan como Negocio Musical | https://www.youtube.com/watch?v=qCEL6NXkIv4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← mezotman-method-man ← mezotman-method-man
+**Method Man Solo Album** : Released as part of RZA's initial five-year plan for individual member albums, this solo project was recognized as one of the outstanding releases from that period, alongside Ghostface Killah's album. "el disco de mezotman... salieron discos tremendos de esa primera ornidad de disco en su solitario del Gutanclan." ← Music Radar Clan > Wu-Tang Clan como Negocio Musical | https://www.youtube.com/watch?v=qCEL6NXkIv4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← mezotman-method-man
 
 ## charts
 **"I'll Be There for You/You're All I Need to Get By" — Billboard Year-End Hot 100** : #42, 1995. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

@@ -9,4 +9,4 @@
 - George Harrison
 - Jeremy Spencer
 - Sylvester Weaver
-
+- Olivia Newton-John

@@ -16,8 +16,7 @@
 - Arkells
 - Death
 - Lorde
-- Nine-inch Nails
-- Nine-inch nails
+- Nine Inch Nails
 - Sloan
 - U2
 

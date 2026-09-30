@@ -1,11 +1,7 @@
 # artist - Explosions in the Sky
 
 ## members
-- (unspecified) (bass - sometimes)
-- (unspecified) (drums)
-- (unspecified) (guitar)
-- (unspecified) (keyboards - sometimes)
-- Michael James (bass player)
+- Michael James
 
 ## genres
 - Instrumental
@@ -26,8 +22,6 @@
 **Musical Style** : Explosions in the Sky is known for its entirely instrumental compositions, characterized by significant dynamics, masterful crescendos, and the inclusion of melodic hooks. "Everything is instrumental with lots of dynamics. They are masters of the crescendo, yet they don't forget to include hooks." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← explosions-in-the-sky
 **Recommended Post-Rock Band** : The band is explicitly listed as a recommendation for those wanting to explore post-rock further. "If you want to go deeper, look into bands like Talk Talk, Slint, Barxide Coses, Tortoise, Magwai, Stereolab, Godspeed you, Black Amper, we always keep coming back to them." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← explosions-in-the-sky
 **Touring Partners** : They have toured with notable bands such as Nine Inch Nails, Fugazi, and Godspeed You! Black Emperor. "They've toured with nine-inch nails, Fugazi, and here's that name again, Godspeed, New Black Emperor." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← explosions-in-the-sky
-
-
 
 ## lists
 **"All Of A Sudden I Miss Everyone" (2007) — Scaruffi 2000s** : #362, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

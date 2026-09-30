@@ -1,9 +1,5 @@
 # artist - James
 
-## member of
-- Kirk Hammett
-- Robert
-
 ## genres
 - House
 - Manchester
@@ -20,8 +16,6 @@
 **Manchester Origin** : James are included in a list of numerous bands with roots in Manchester. "James." ← https://www.youtube.com/watch?v=q_Scyr2czh8 ← james
 **Manchester Origins** : James are listed among the numerous bands from Manchester, emphasizing the city's prolific musical output. "loads of loads of Aces, Buzcocs of Fall, James, Godly and Cream, Badly Drone Boy, Elbow, you know, John Mayl, Star Sailor-Verb, Phil Linnett, group of Manchester, Smith and you are a simply red, all his, you know, he goes on and on and this, this is bands and bands and bands, you know." ← https://www.youtube.com/watch?v=KF_adyXf86Q ← james
 **Touring Partner** : Radiohead toured with the band James in 1993. During this tour, Radiohead wrote the song "My Iron Lung." "a song written while the band was on tour with James in 1993." ← https://www.youtube.com/watch?v=t-G22K0vLnM ← james ← james
-
-
 
 ## awards
 **Orden al Mérito Docente y Cultural Gabriela Mistral** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q9052807

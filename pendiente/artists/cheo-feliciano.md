@@ -2,4 +2,3 @@
 
 ## member of
 - Fania All-Stars
-

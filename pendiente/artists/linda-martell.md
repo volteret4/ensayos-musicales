@@ -1,13 +1,5 @@
 # artist - Linda Martell
 
-## member of
-- Linda Martell
-
-## members
-- Linda Martell
-- cousin
-- sister
-
 ## genres
 - Country
 - R&B
@@ -16,8 +8,8 @@
 - Plantation Records
 
 ## concerts
-- Grand Ole Opry
 - clubs
+- Grand Ole Opry
 
 ## albums
 **Color Me Country (1969)** : Linda Martell's debut album, recorded in a remarkable 12 hours, was signed to Shelby Singleton's Plantation Records. Martell challenged Singleton on the controversial name of his label, asserting its racial connotations. The album featured her breakthrough single, "Color Him Father." "She recorded this album in 12 hours." ← For the Record - The 70s > Ep. 53 - More than Charley Pride - African Americans in 70s Country | https://www.ftr70.com/
@@ -36,4 +28,3 @@
 **Lawsuit and Career Stalling (1970)** : In May 1970, manager William Duke Rayner filed a lawsuit against Martell, claiming he was owed royalties and asserting she "does not possess business ability" to handle money, suggesting a court should sequester 25% of her earnings. Although Shelby Singleton reportedly made the lawsuit "go away," he then informed Martell he would prioritize promoting white artist Jeannie C. Riley. Singleton subsequently released Martell from her contract but threatened to sue any future label she signed with, effectively blacklisting her. "Singleton let Martell out of her contract, but then threatened to sue the next label she signed with." ← For the Record - The 70s > Ep. 53 - More than Charley Pride - African Americans in 70s Country | https://www.ftr70.com/
 **Rapid Career Launch** : Within three days of meeting William Duke Rayner, Linda Martell secured a manager, signed a contract with Plantation Records, and recorded her debut album, "Color Me Country." This rapid progression marked a swift entry into the country music scene. "In a matter of three days, three days, she had a manager, she signed a contract with Shelby Singleton's Plantation Records... and cut her first album, Color Me Country." ← For the Record - The 70s > Ep. 53 - More than Charley Pride - African Americans in 70s Country | https://www.ftr70.com/
 **Views on Black Artists and Country Music (1972)** : In a 1972 interview with the Meican News, Linda Martell discussed the scarcity of African American country artists. She suggested that black artists often dismiss country music without listening to it, thereby missing potential career opportunities. "It's not that the Negro artists aren't interested in country music. They don't know if they're interested or not because they won't listen to it." ← For the Record - The 70s > Ep. 53 - More than Charley Pride - African Americans in 70s Country | https://www.ftr70.com/
-

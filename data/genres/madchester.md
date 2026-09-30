@@ -31,7 +31,6 @@
 - Blur
 - Happy Mondays
 - Inspiral Carpets
-- Stone Roses
-- The Charlatans
 - The Stone Roses
+- The Charlatans
 

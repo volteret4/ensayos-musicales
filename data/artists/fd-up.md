@@ -1,2 +1,0 @@
-# artist - F.D. Up
-

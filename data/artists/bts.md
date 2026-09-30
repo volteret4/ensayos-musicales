@@ -1,15 +1,20 @@
 # artist - BTS
 
+## members
+- R.M.
+- Rap Monster
+
 ## genres
 - K-Pop
 
 ## songs
 **Butter (2021)** : This song was the 2021 Billboard Song of the Summer. Due to the pandemic, it was "mostly consumed indoors." "Which meant that Debayby's rock star featuring Roddy Rich and BTS's Butter were mostly consumed indoors." ← Hit Parade Music History and Music Trivia > Song(s) of the Summer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef50c30a1408dc292e4
+**Soul Town Road (Remix) : Collaboration with Lil Nas X** : R.M., also known as Rap Monster, a member of the K-pop sensation BTS, was featured on an "Old Town Road" remix subtitled "Soul Town Road." This collaboration highlighted Lil Nas X's hit conquering all corners of the globe. "Yet another remix subtitled Soul Town Road featured South Korean rapper R.M aka rap monster of K-pop sensations BTS Lil Nas X's hit was conquering all corners of the globe." ← Hit Parade Music History and Music Trivia > Ride ’til I Can’t No More Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce88
 
 ## curiosities
 **Inspiration for Oli London's $200,000 Plastic Surgery** : The K-pop band BTS served as the inspiration for English superfan Oli London, who has undergone $200,000 worth of plastic surgery to look more like his idols. London's extreme dedication extends to self-identifying as Korean despite his English heritage. "He has spent $200,000 so far on plastic surgery to look more like his idols." ← https://www.youtube.com/watch?v=-N6IM5Nm5iw ← bts
-
-
+**2020 Grammy Awards Performance** : BTS, represented by R.M., joined Lil Nas X, Diplo, Mason Ramsey, and Billy Ray Cyrus for a performance of "Old Town Road" at the 2020 Grammy Awards, showcasing the song's widespread appeal and collaborations. "almost everybody who had helped him make it a smash. BTS, Diplo, Mason Ramsey and Billy Ray Cyrus." ← Hit Parade Music History and Music Trivia > Ride ’til I Can’t No More Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce88
+**BTS Army Fandom** : BTS, described as "K-pop deities," have a famed fandom literally called the "BTS army." These fan armies actively contribute to achieving number one debuts by voting with their Spotify clicks and download purchases, essentially doing the record label's work by generating massive first-week consumption. "these fan armies like the famed fandom of K-pop deities BTS, who are literally called the BTS army, will do the label's work for them." ← Hit Parade Music History and Music Trivia > Toppermost of the Poppermost Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef60c30a1408dc29358
 
 ## awards
 **American Music Award for Tour of the Year — BTS World Tour: Love Yourself** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q48800562

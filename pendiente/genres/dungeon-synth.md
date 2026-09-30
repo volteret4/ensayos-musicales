@@ -14,16 +14,12 @@
 ## artists
 - Burzum
 - Depressive Silence
-- Digim Kyrgwood
 - Dim
 - Erang
 - Fief
 - Mortiis
 - Murgrind
 - Old Sorcery
-- Ophif
 - Questmaster
-- Sorcerian Myth
-- Sûredian Miz
 - Wongraven
 

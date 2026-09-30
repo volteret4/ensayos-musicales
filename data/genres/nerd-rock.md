@@ -15,7 +15,7 @@
 - Barenaked Ladies
 - Elvis Costello
 - Nerf Herder
-- Pixies
+- The Pixies
 - Public Service Broadcasting
 - Talking Heads
 - The Decemberists

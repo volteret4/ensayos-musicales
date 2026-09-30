@@ -2,11 +2,12 @@
 
 ## genres
 - R&B
+- Teen R&B
 
 ## curiosities
 **Plane Crash Death (Date Not Specified)** : R&B singer Aaliyah died when her plane crashed upon takeoff. The accident occurred as she was leaving the Bahamas after a video shoot. "R&B singer Alaya died when her sister crashed on takeoff when leaving the Bahamas after a video shoot." ← https://www.youtube.com/watch?v=hmnMG6f80Sg ← aaliyah
-
-
+**Plane Crash Death (2001)** : R&B singer Alaya died when her plane crashed on takeoff. The accident occurred as she was leaving the Bahamas after completing a video shoot. "R&B singer Alaya died when her sister crashed on takeoff when leaving the Bahamas after a video shoot." ← https://www.youtube.com/watch?v=3eGBnwPWRGo ← alaya
+**Peak of Teen R&B** : Aaliyah is mentioned as part of the "peak of teen R&B" in 1998 on the music charts. "It wasn't just a good time in 1998 for R&B on the charts. It was the peak of teen R&B. Pink, Destiny's Child, the early years, or Brandy and Monica. Or Alia." ← Hit Parade Music History and Music Trivia > Raise Your Glass Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f7364fe6d21276e441d
 
 ## awards
 **Soul Train Music Award for Best R&B/Soul Album, Female (1995) — Age Ain't Nothing but a Number** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q7564356

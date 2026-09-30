@@ -19,8 +19,6 @@
 **Volcom Stage Performance** : During their 1997 Warped Tour run, Sugar Ray performed on the Volcom stage, which was notably small, sometimes only two feet off the ground, putting them in close contact with their growing fanbase. "their turn on the Warped Tour began eight days later, where they were assigned to play something called the Volcom stage. It wasn't very big. At most shows, it was maybe two feet off the ground." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← sugar-ray
 **Years of Struggle (Since 1986)** : Despite working hard since 1986, the band had not achieved significant success until their breakthrough in 1997. "They've been working hard, but have been going nowhere since 1986." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← sugar-ray
 
-
-
 ## charts
 **"Every Morning" — Billboard Year-End Hot 100** : #8, 1999. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 **"Someday" — Billboard Year-End Hot 100** : #30, 1999. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

@@ -1,12 +1,16 @@
 # artist - Ricky Martin
 
-## songs
-**90s Songs - Relatively Misogynistic Lyrics** : Some of Ricky Martin's lyrics from the 1990s are described as "relatively misogynistic" towards women. This observation is used to illustrate that problematic lyrical content is not a new phenomenon or exclusive to Trap music, even coming from an artist who, at the time, was perceived differently regarding his personal preferences. "letras en riki martin de los 90 que en algunos casos son relativamente vejatorias para las mujeres y veniendo un hombre al que ni siquiera le gustaban las mujeres." ← Music Radar Clan > EL TRAP SÍ ES MÚSICA. (Aunque a lo mejor no te guste) | https://www.youtube.com/watch?v=6i0O3u5g1rM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← ricky-martin ← ricky-martin
+## member of
+- Menudo
+
+## genres
+- Latin Pop
 
 ## curiosities
 **1999 Singles Chart Dominance** : Ricky Martin was a significant presence on the singles charts in 1999, showcasing his global appeal and success in popular music. "Meanwhile, the singles charts were dominated by Cher, TLC, Christina Aguilar, Ricky Martin, Art Kelly, and Destiny's Child." ← https://www.youtube.com/watch?v=hBQE4t72i3o ← ricky-martin ← ricky-martin
-
-
+**1999 Singles Chart Dominance** : Ricky Martin was a significant presence on the singles charts in 1999, showcasing his global appeal and success in popular music. "Meanwhile, the singles charts were dominated by Cher, TLC, Christina Aguilar, Ricky Martin, Art Kelly, and Destiny's Child." ← https://www.youtube.com/watch?v=hBQE4t72i3o ← ricky-martin
+**Grammy Competition - 2000** : Ricky Martin, characterized as a "Latin pop god turned Anglo pop hitmaker," competed against Santana in the Record and Song categories at the 42nd Grammy Awards in 2000. "Or in the record and song categories, Latin pop god turned Anglo pop hitmaker Ricky Martin." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
+**Dominated Latin Pop (1999)** : Ricky Martin was a dominant figure in youthful Latin pop in 1999, alongside Enrique Iglesias. "Youthful Latin pop from Ricky Martin and Enrique Iglesias." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce81
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

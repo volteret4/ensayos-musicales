@@ -6,6 +6,7 @@
 - Saxa
 
 ## genres
+- 2 Tone
 - Motown
 - New Wave
 - Post-Punk
@@ -23,6 +24,7 @@
 **Stand Down Margaret (1980)** : Released in 1980, this was identified as one of the earlier songs directly protesting Margaret Thatcher's government. The title itself is a clear call for her to step down from power. "It's from the English beat from 1980 and it's called Stand Down Margaret." ← https://www.youtube.com/watch?v=0ARYt4sYT90 ← the-english-beat
 
 ## curiosities
+**Representative New Wave and 2 Tone Artist** : English Beat was cited as part of the "new Scott Seen," a subgenre within the expansive New Wave umbrella. This reference underscores their role in the 2 Tone movement and its classification within the broader New Wave context. "There was Power Pop, which could include everyone from Elvis Costello to Tom Petty, a new Scott Seen, a specials English beat and so on, and all of the flavors of Technopop, all those groups who threw away their guitars and favor of synthesizers." ← https://www.youtube.com/watch?v=Z8BTWo66SDI ← english-beat ← english-beat
 **Advocacy for Inclusion and Anti-Racism** : Like The Specials, The English Beat was committed to themes of inclusion and actively fighting racism through their music and message. "But like the specials, the English beat was all about inclusion and fighting racism." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← the-english-beat
 **Birmingham Headquarters** : The band was headquartered in Birmingham, a city known for its significant West Indian immigrant population. "They came on the scene just after the specials and were headquartered in Birmingham, another city of choice for plenty of West Indian immigrants." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← the-english-beat
 **Influence on Ska Punk** : The English Beat, along with The Specials, played a vital role in shaping the post-punk world and are considered instrumental in the development of Ska punk. "It weren't for bands like the beat and the specials. Would we have all the Scott punk that we have today?" ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← the-english-beat
@@ -36,8 +38,4 @@
 **Second Wave Ska Band** : The English Beat is mentioned as a British group associated with the "Two Tone" sound, characteristic of the "second wave" of ska in the late 1970s and early 1980s. "Second wave Skop was what we heard from two tone bands, like the Specials, and British groups like Madness and the English beats in the late 70s and early 80s." ← https://www.youtube.com/watch?v=mAlc-N2wn5s ← the-english-beat ← the-english-beat
 **Selling Blank Cassettes at Shows** : The band sold blank cassettes at their merchandise table during their shows, actively encouraging fans to bootleg the performances and copy their records. This action directly contradicted the music industry's "Home Taping Is Killing Music" campaign. `"The English beat sold blank cassettes at their merch table at their shows, in hopes that fans would bootleg the show and copy their records."` ← https://www.youtube.com/watch?v=OuFvfZJKcpc ← the-english-beat
 **The English Beat – Mirror in the Bathroom (1980); Held Out Against Violence and Racism Through Music; Second Wave Ended ~1985** : The English Beat, led by Dave Wakeling, were formed in the late 1970s and had their first hit with "Mirror in the Bathroom" (1980), a classic of the great ska revival. The second wave of ska — spanning roughly 1979 to 1985 — was vibrant and carried a hopeful message as a positive alternative to hard economic times and racial riots in Britain. By the mid-1980s, Jerry Dammers was broke and Two-Tone was falling apart under huge debt; despite efforts by the Clash, the Beat, and Bad Manners, the second wave ended around 1985. "Ska was a positive alternative to the hard economic times and the racial riots that were plaguing Britain in the early 1980s." ← https://www.youtube.com/watch?v=VxWp7HrT8oE ← the-english-beat
-
-
-
-## charts
-**"Tears of a Clown"/"Ranking Full Stop" — UK Singles Chart** : #2, 1980. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+**Representative New Wave and 2 Tone Artist** : English Beat was cited as part of the "new Scott Seen," a subgenre within the expansive New Wave umbrella. This reference underscores their role in the 2 Tone movement and its classification within the broader New Wave context. "There was Power Pop, which could include everyone from Elvis Costello to Tom Petty, a new Scott Seen, a specials English beat and so on, and all of the flavors of Technopop, all those groups who threw away their guitars and favor of synthesizers." ← https://www.youtube.com/watch?v=Z8BTWo66SDI ← english-beat

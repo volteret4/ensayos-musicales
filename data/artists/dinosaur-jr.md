@@ -3,16 +3,15 @@
 ## members
 - Donna Dresch
 - J Mascis
-- J. Mascis
 
 ## genres
 - Alt Rock
-- Fuzzy Guitars (descriptive)
+- Fuzzy Guitars
 - Guitar Rock
 - Indie Rock
 - Lofi
 - No Wave
-- Powerpop (some songs)
+- Powerpop
 - Shoegaze
 
 ## concerts
@@ -33,8 +32,6 @@
 **Lofi Classification** : Dinosaur Jr. was explicitly considered to be a Lofi band, indicating their contribution to a sound characterized by grittier, less high-tech recordings, often perceived as authentic and real. "We had Dinosaur Jr., Cebado, even Beck, especially as indie label work, were all considered to be Lofi." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← dinosaur-jr
 **Powerpop in Some Songs** : Dinosaur Jr. is mentioned as a band that "might fit the bill with some songs" when it comes to Powerpop. This indicates that while not entirely a Powerpop band, certain tracks exhibit characteristics of the genre, showcasing its diverse reach within alternative rock. "Dinosaur Jr. might fit the bill with some songs." ← https://www.youtube.com/watch?v=hstJ8M2laho ← dinosaur-jr ← dinosaur-jr
 **Shoegaze DNA Contributor** : Dinosaur Jr., particularly through J. Mascis's work, is cited as a significant contributor to the "DNA" of shoegaze music. Their characteristic "fuzzy guitars and vulnerable introspective lyrics" blended well with other emerging sounds that would define the genre. "J. Mascus and Dinosaur Jr., for example, have a lot to answer for, with their fuzzy guitars and vulnerable introspective lyrics." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← dinosaur-jr ← dinosaur-jr
-
-
 
 ## lists
 **"Bug" (1988) — 1001 Albums You Must Hear Before You Die** : #625, 73 AOTY.

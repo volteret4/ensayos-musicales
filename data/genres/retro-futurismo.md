@@ -6,5 +6,4 @@
 ## artists
 - Arctic Monkeys
 - Faber
-- John Meniswick
 

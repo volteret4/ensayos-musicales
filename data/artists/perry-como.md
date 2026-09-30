@@ -1,21 +1,19 @@
 # artist - Perry Como
 
 ## genres
-- Big Band (as employee singer)
-- Pop (as solo artist)
+- Big Band
+- Pop
 
 ## labels
 - RCA
 
 ## songs
-**Kokomo (Cover)** : Perry Como's version of "Kokomo" is cited as an "embarrassment" and an example of how male performers often "jump in head first" into rock and roll when attempting to transition into the genre from other styles. ← Episode 43： ＂I Gotta Know＂ by Wanda Jackson | https://www.youtube.com/watch?v=gEInec4z65Q
+**Kokomo** : Perry Como's version of "Kokomo" is cited as an "embarrassment" and an example of how male performers often "jump in head first" into rock and roll when attempting to transition into the genre from other styles. ← Episode 43： ＂I Gotta Know＂ by Wanda Jackson | https://www.youtube.com/watch?v=gEInec4z65Q
 
 ## curiosities
 **Lieber & Stoller Collaboration** : Perry Como was one of the "white pop stars" with whom Jerry Lieber and Mike Stoller were contracted to work for RCA. This collaboration was noted as being "very far from Lieber and Stoller's normal music." "Not just Elvis, though he was obviously important to them, but people like Perry Como, who were very far from Lieber and Stoller's normal music." ← Episode 68： ＂Yakety Yak＂ by the Coasters | https://www.youtube.com/watch?v=dtMHDD0-oOo
 **Pop Dominance (Early Domino Career)** : Perry Como was one of the biggest artists in pop music during the initial phase of Fats Domino's hit-making career, illustrating the significant shifts in popular music trends that Domino's long career bridged. "When he started having hits, the biggest artist in pop music were Perry Como and the Andrew Sisters." ← Episode 45： ＂Blueberry Hill＂, by Fats Domino | https://www.youtube.com/watch?v=VqIwZGJHgBg
 **Transition from Big Band Singer to Solo Star (1942)** : Perry Como was one of several big band singers who leveraged a loophole in the 1942 musicians' strike. Since singers were not bound by the union's recording ban, they were able to pursue solo careers, which transformed them into independent stars and personalities. "And names included Bing Crosby and Frank Sinatra and Perry Como, all former big band singers." ← https://www.youtube.com/watch?v=V7WjNR1ujhk ← perry-como
-
-
 
 ## awards
 **Primetime Emmy Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1044427

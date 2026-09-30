@@ -1,9 +1,9 @@
 # artist - The Four Tops
 
 ## members
-- Billy Davis (cousin of Lawrence Payton)
-- Lawrence Payton (distant relative of Jackie Wilson)
-- Levi Stubbs (cousin of Jackie Wilson)
+- Billy Davis
+- Lawrence Payton
+- Levi Stubbs
 
 ## genres
 - R&B
@@ -12,7 +12,9 @@
 - Chess Records
 
 ## songs
-**Kiss Me Baby (N/A)** : The first single released by Chess Records with The Four Tops, credited to Billy Davis, bore a significant resemblance to the Rachel song "Kiss Me Baby" from a few years earlier. "I say Davis was credited as the songwriter, because that song bears more than a little resemblance to the Rachel song from a few years earlier. Kissa Me Baby." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
+**Kiss Me Baby** : The first single released by Chess Records with The Four Tops, credited to Billy Davis, bore a significant resemblance to the Rachel song "Kiss Me Baby" from a few years earlier. "I say Davis was credited as the songwriter, because that song bears more than a little resemblance to the Rachel song from a few years earlier. Kissa Me Baby." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
+**Reach Out I'll Be There (1967)** : This Holland-Dozier-Holland classic was a hit for the Four Tops in 1967 and was later covered in a disco style by Gloria Gaynor. "A Holland Dozier Holland classic made into a hit by the Four Tops in 1967." ← For the Record - The 70s > Ep. 1 - Disco Doesn't Suck (Encore) | https://www.ftr70.com/blog/tag/70s+podcast
+**Reach Out I'll Be There (1983)** : Narada Michael Walden produced a dance remake of this classic song, which achieved success as a top 40 R&B hit and a top 20 dance hit in 1983. "This dance remake of the four tops reach out I'll be there, for example, was a top 40 R&B hit and a top 20 dance hit in 1983." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
 
 ## curiosities
 **Backing Vocals for The Supremes** : The Four Tops provided additional backing vocals for The Supremes' song "When the Love Light Starts Shining Through His Eyes," a collaboration facilitated by their shared work with Holland-Dozier-Holland. "featured additional backing vocals from the four tops." ← Episode 116： ＂Where Did Our Love Go？＂ by The Supremes | https://www.youtube.com/watch?v=g2PetxEXQC4
@@ -21,8 +23,6 @@
 **Jackie Wilson's Failed Audition** : Jackie Wilson attempted to join the group when they were known as The Four Ames, which featured his cousin Levi Stubbs and distant relative Lawrence Payton, but his voice did not blend well, sounding too similar to Stubbs. "Unfortunately, they found that Jackie's voice didn't blend well with the group." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
 **Missed Pan Am Flight 103 (1988)** : The R&B group The Four Tops had seats booked on Pan Am Flight 103 for December 21, 1988. However, they overslept after performing on BBC's "Top of the Pops" the night before, causing them to miss their flight and inadvertently escape the Lockerbie bombing. "The four tops, the R&B group, had seats but they overslept after performing on BBC's top of the pops the night before." ← https://www.youtube.com/watch?v=3eGBnwPWRGo ← the-four-tops
 **Signed by Chess Records via Billy Davis** : Billy Davis, a struggling songwriter who had performed with an early lineup of The Four Ames, managed to persuade Chess Records to sign The Four Tops and release a single with Davis credited as the songwriter. "Davis had managed to persuade chess records to sign up the four tops, as they were now called, and release a single with Davis credited as the songwriter." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
-
-
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

@@ -16,16 +16,16 @@
 **Rejection of Jerry Lee Lewis** : Jerry Lee Lewis "blacked his way" into an audition at the Grand Ole Opry but was told he needed to play guitar, not piano, to be considered. "He'd blacked his way into an audition at the Grand Ole Opry, and the same thing had happened. He'd been told to come back when he played guitar, not piano." ← Episode 59： ＂Whole Lotta Shakin' Goin' On＂ by Jerry Lee Lewis | https://www.youtube.com/watch?v=wiSA3J9iJ7M
 **The Byrds' Controversial Performance** : In 1968, The Byrds were booed off the stage at the Grand Ole Opry. This reaction was a direct response from the country music establishment, who were greatly upset by their album "Sweetheart of the Rodeo," which incorporated rock elements into traditional country. "the birds whose sweethearts of the rodeo in 1968 so greatly upset the country music establishment that the birds were booed off the stage at the Grand Ole Opry." ← For the Record - The 70s > Ep. 35 - Cosmic American Music - 70s Country Rock | https://seventies.libsyn.com/ep-35-cosmic-american-music-70s-country-rock ← grand-ole-opry
 **Top Tier in Country Music Hierarchy** : The Grand Ole Opry was at the very top of the hierarchy of live variety shows dominating country and western music in the 1950s, signifying immense stardom for its performers like Roy Acuff. "At the very top of the chain was the grand ol' Opry." ← Episode 40： ＂Drugstore Rock 'n' Roll＂ by Janis Martin | https://www.youtube.com/watch?v=l0i2p9TelN0
+**First African American Vocal Group Performance (1974)** : In October 1974, The Pointer Sisters made history by performing their country hit "Fairy Tale" at the Grand Ole Opry in Nashville, marking the first time an African American vocal group graced the renowned stage. "culminating in an October 1974 performance of Fairy Tale at the Grand Ole Opera, making the pointer sisters the first ever African American vocal group to perform at the Opera." ← Hit Parade Music History and Music Trivia > Yes We Can Can Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f6364fe6d21276e3fdd
 
 ## artists
-- Charlie Pride
+- Charley Pride
 - Darius Rucker
 - DeFord Bailey
 - Elvis Presley
-- Genie C. Riley
+- Jeannie C. Riley
 - Hank Williams
 - Janice Martin
 - Linda Martell
 - The Pointer Sisters
 - Wanda Jackson
-

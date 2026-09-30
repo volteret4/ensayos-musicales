@@ -5,8 +5,6 @@
 **Influence on Gord Downie** : Gord Downie frequently returned to Purdy's work, appearing in a short film based on "At the Quinte Hotel" (2002), reciting the poem during a MuchMusic performance, and featuring in a 2015 documentary about Purdy. Downie also contributed to the documentary's soundtrack, which included songs and poems inspired by Purdy. "Gord Danny would return to Albert E. Time and Time again." ← https://www.youtube.com/watch?v=dnz_Ycd_q7s ← al-purdy
 **Unofficial Poet Laureate of Canada** : Al Purdy had a career spanning 56 years, publishing 39 books of poetry, two memoirs, a novel, and four collections of letters. He was widely regarded as Canada's unofficial poet laureate and a master storyteller. "Perdi was considered to be Canada's unofficial poet laureate, a great teller of myths and stories." ← https://www.youtube.com/watch?v=dnz_Ycd_q7s ← al-purdy
 
-
-
 ## awards
 **Officer of the Order of Canada** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q15278116
 **Order of Ontario** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q742162

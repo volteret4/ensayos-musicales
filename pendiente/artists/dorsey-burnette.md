@@ -1,10 +1,9 @@
 # artist - Dorsey Burnette
 
 ## member of
+- Johnny Burnette and the Rock and Roll Trio
 - The Burnette Brothers
-
-## members
-- Dorsey Burnette (stand-up bass, rhythm guitar, songwriting)
+- The Rhythm Rangers
 
 ## labels
 - Imperial Records
@@ -24,4 +23,3 @@
 **Return to Country Music** : In the early 1970s, after becoming a "Burnette gang Christian," Dorsey started a new and successful career as a country singer. "after becoming a Burnett gang Christian in the early 70s, he started a new, successful career as a country singer." ← Episode 44： ＂Train Kept A-Rollin'＂, by Johnny Burnette and the Rock 'n' Roll Trio | https://www.youtube.com/watch?v=u3zYAJ2qeR4
 **Sibling Rivalry with Johnny** : Dorsey and his brother Johnny were notorious for fighting violently and often, making their relationship one of constant conflict within their musical partnership. "But few pairs of brothers have fought as violently and as often as Johnny and Dorsey Bennett." ← Episode 44： ＂Train Kept A-Rollin'＂, by Johnny Burnette and the Rock 'n' Roll Trio | https://www.youtube.com/watch?v=u3zYAJ2qeR4
 **Songwriting Credit Splitting for "Tear It Up"** : When Dorsey quickly wrote the song "Tear It Up," he decided to split the credit four ways: among the three band members and their manager, a common practice for bands operating as a cohesive unit at the time. "While Dorsey wrote that song, he decided to split the credit as they always did, four ways, between the three members of the band and their manager." ← Episode 44： ＂Train Kept A-Rollin'＂, by Johnny Burnette and the Rock 'n' Roll Trio | https://www.youtube.com/watch?v=u3zYAJ2qeR4
-

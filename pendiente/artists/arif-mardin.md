@@ -5,8 +5,8 @@
 - Manhattan Records
 
 ## instruments
-- Strings (arranger)
-- Vocal comping contraption (from the 70s, for studio use)
+- Strings
+- Vocal comping contraption
 
 ## curiosities
 **Founding/Revamping Manhattan Records** : Arif Mardin either started or revamped Manhattan Records, a sister label to Blue Note that focused on classical, musical theater, and adult contemporary, after leaving Atlantic Records. Bruce Lundvall oversaw this label. "Arif had just started either started or revamped. I'm not sure. Maybe you know, Manhattan Records, which was a sort of sister label to Blue Note that Bruce oversaw, which was either classical or musical theater kind of adult contemporary." ← Hit Parade Music History and Music Trivia > Introducing Broken Record - Norah Jones Begins Again | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cbc
@@ -17,4 +17,3 @@
 **Strict 6 PM Studio Departure Rule** : During the recording of "Come Away With Me," Arif Mardin had a strict rule of leaving the studio at 6 PM every night. Although Norah Jones initially found this "ridiculous" as she was accustomed to working late, she adapted to his schedule, which ultimately proved to be effective. "the one role was that a reef leaves at six o'clock every night." ← Hit Parade Music History and Music Trivia > Introducing Broken Record - Norah Jones Begins Again | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cbc
 **String Arrangement for Sandra Bullock Movie** : Arif Mardin, a renowned string arranger, finally got the opportunity to do a string arrangement for Norah Jones' album version of "The Nearness of You" when Sandra Bullock requested it for a movie. He was "so excited" and even attended the film shoot. "Actually, for the Sandra Bullock movie, she wanted Nearness of You, but she wanted it with like strings or something. And that's when he finally got to do it." ← Hit Parade Music History and Music Trivia > Introducing Broken Record - Norah Jones Begins Again | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cbc
 **Unique Vocal Comping Device** : Arif Mardin utilized a "crazy contraption" from the 1970s for comping vocals, described as a "box" with two faders, allowing him to compare different takes and perform crossfades in an old-school manner. "He had this crazy contraption he used to comp vocals from the 70s. Yeah, I remember that. Yeah. So you could just compare different takes. You could do crossfades. Yeah, he would put it into this box." ← Hit Parade Music History and Music Trivia > Introducing Broken Record - Norah Jones Begins Again | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cbc
-

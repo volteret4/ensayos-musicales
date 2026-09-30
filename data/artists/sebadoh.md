@@ -6,8 +6,6 @@
 ## curiosities
 **Lofi Classification** : Sebadoh was explicitly considered to be a Lofi band, fitting the description of practitioners who prefer to make recordings in less sophisticated surroundings to achieve a raw, unpolished sound. "We had Dinosaur Jr., Cebado, even Beck, especially as indie label work, were all considered to be Lofi." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← sebadoh
 
-
-
 ## lists
 **"Bubble and Scrape" (1993) — 1001 Albums You Must Hear Before You Die** : #752.
 **"Bakesale [Deluxe Edition]" (2011) — AOTY Must Hear 2010s** : #839, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/

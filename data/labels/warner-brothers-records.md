@@ -12,7 +12,6 @@
 **Shareholder Threat Over Body Count's "Cop Killer"** : During the controversy surrounding Body Count's song "Cop Killer," shareholders of Warner Brothers Records threatened to withdraw all their investments if the label did not address the band and the song. "It got so crazy that shareholders threatened to pull all their money for Warner Brothers records if the label didn't do something about Body Count." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← warner-brothers-records
 
 ## artists
-- Earth Wind & Fire
-- Lincoln Park
+- Earth, Wind & Fire
 - Linkin Park
 

@@ -1,17 +1,12 @@
 # artist - St. Vincent
 
-## members
-- Annie Clark
-- Annie Clark (real name)
-
 ## genres
-- Country (played by country players)
+- Country
 - Indie
-- Metal (played by metalheads)
+- Metal
 
 ## instruments
-- Electric Guitar (signature model)
-- Electric guitar
+- Electric Guitar
 - Ernie Ball Music Man St. Vincent Signature Model
 - Ernie Ball Music Man St. Vincent Signature Model guitar
 - Fuzz pedals
@@ -19,14 +14,13 @@
 - Mini humbuckers
 
 ## albums
-**MASSEDUCTION (Year Not Specified)** : This album was named the best album by The New York Times. It is praised for being super agile, super good, and featuring fantastic lyrics. St. Vincent is recognized for doing a fantastic job with this work. "Un disco súper ágil, súper bueno, ha sido en las letras fantásticas. San Vincent ha hecho un trabajo fantástico, la verdad." ← Music Radar Clan > El Disco del Año 2017： Según cada publicación | https://www.youtube.com/watch?v=VDtpN1aETDk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← st-vincent ← st-vincent
+**Masseduction (2017)** : This album was named the best album by The New York Times. It is praised for being super agile, super good, and featuring fantastic lyrics. St. Vincent is recognized for doing a fantastic job with this work. "Un disco súper ágil, súper bueno, ha sido en las letras fantásticas. San Vincent ha hecho un trabajo fantástico, la verdad." ← Music Radar Clan > El Disco del Año 2017： Según cada publicación | https://www.youtube.com/watch?v=VDtpN1aETDk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← st-vincent ← st-vincent
 **Masseduction (2017)** : This album, released in 2017, features the song "Los Ageless." "Playing Vincent and Los Ageless for a 2017 album, Mass Seduction." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← st-vincent
-**Masseduction (2017) - Agile and Intelligent** : This album is described as agile, excellent, acidic, and intelligent, featuring a voracious discourse that captivated many listeners. "este álbum es como tan ágil tan bueno tan ácido tan tan inteligente con un discurso como tan boraz que yo creo que nos ha engançado a muchísimos este álbum de San Vincent." ← Music Radar Clan > Mejores discos del 2017 | https://www.youtube.com/watch?v=T34CwsFmXpI&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← st-vincent ← st-vincent
-**Masseduction (October 13)** : This new album from St. Vincent has been eagerly awaited and features a rather explicit album cover. "cuánto llevamos esperando material nuevo de San Vincent, al final tenemos aquí ya el nuevo disco de San Vincent con una portada además bastante, bastante explícita." ← Music Radar Clan > Lanzamientos de Octubre 2017 | https://www.youtube.com/watch?v=q1_bxi16osQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Masseduction (2017)** : This album is described as agile, excellent, acidic, and intelligent, featuring a voracious discourse that captivated many listeners. "este álbum es como tan ágil tan bueno tan ácido tan tan inteligente con un discurso como tan boraz que yo creo que nos ha engançado a muchísimos este álbum de San Vincent." ← Music Radar Clan > Mejores discos del 2017 | https://www.youtube.com/watch?v=T34CwsFmXpI&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← st-vincent ← st-vincent
+**Masseduction (2017)** : This new album from St. Vincent has been eagerly awaited and features a rather explicit album cover. "cuánto llevamos esperando material nuevo de San Vincent, al final tenemos aquí ya el nuevo disco de San Vincent con una portada además bastante, bastante explícita." ← Music Radar Clan > Lanzamientos de Octubre 2017 | https://www.youtube.com/watch?v=q1_bxi16osQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## songs
 **Los Ageless (2017)** : This song is featured on St. Vincent's 2017 album "Masseduction," serving as an example of her musical output. "Playing Vincent and Los Ageless for a 2017 album, Mass Seduction." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← st-vincent
-**Under the Neon Lights** : A collaboration with The Chemical Brothers from their latest album. St. Vincent's vocals on this track are praised as fantastic. "la voz de son Vincent está fantástica también este trabajo de los chemicals Brothers." ← Music Radar Clan > Las mejores colaboraciones y remezclas de The Chemical Brothers | https://www.youtube.com/watch?v=UKrdhEHivO4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← st-vincent ← st-vincent
 
 ## curiosities
 **Comparison to Matt Bellamy** : She is considered a potential "female equivalent to Mewz's Met Bellamy," suggesting her high caliber as a guitarist and artist. "If there's a female equivalent to Mewz's Met Bellamy, it's probably her." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← st-vincent
@@ -40,8 +34,6 @@
 **Personal View on "Guitar Hero" Status** : Despite her influence and recognition, St. Vincent personally does not identify with the term "guitar hero," finding it a "strange thing," but expresses excitement if she inspires young people to play guitar. "I don't think about that in those terms ever. I really don't. It would be a strange thing for me, like Psychic Lita. ... Great. I'm so excited if kids want to play guitar. It's the best thing." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← st-vincent
 **Signature Guitar's Widespread and Unorthodox Appeal** : The Ernie Ball Music Man St. Vincent Signature Model, with its "retro, future" and "unorthodox shape," has garnered appeal across diverse genres. It has been played by notable artists like Jack White (on SNL) and Tom Morello, and even metalheads (via a stealth black version) and country players, highlighting its versatility and unique design. "Jack White played it on SNL. Tom Morello has one. I've seen, we make an all black version. It's like the stealth version, which is for metalheads. And metal dudes play it. There's country players who are playing it." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← st-vincent
 **Unique Guitar Sound** : She is known for using a distinctive collection of fuzz pedals, which she combines in "weird ways" to make her guitar sound like "something other than a guitar," contributing to her signature sonic palette. "She has a collection of fuzz pedals that she combines in weird ways to make her guitar sound like something other than a guitar." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← st-vincent
-
-
 
 ## lists
 **"Actor" (2009) — AOTY Must Hear 2000s** : #37, 79 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/

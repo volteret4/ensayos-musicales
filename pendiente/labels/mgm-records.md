@@ -6,7 +6,7 @@
 **Signing of Hank Williams (1947)** : MGM Records signed Hank Williams in 1947, a pivotal moment that led to the release of "Movito Nover" and his subsequent appearance on the Louisiana Hayride radio program. "su carrera daría un cambio en 1947, cuando firmó por NGM Records." ← El genio roto del country： La leyenda de Hank Williams | https://www.youtube.com/watch?v=qczx7qWg4xM
 
 ## artists
-- C. W. McCall
+- C.W. McCall
 - Hank Williams
 - Roy Orbison
 

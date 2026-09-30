@@ -6,7 +6,7 @@
 
 ## artists
 - Bumps Blackwell
-- Run Holden
+- Ron Holden
 - Sam Cooke
 - The Valiants
 

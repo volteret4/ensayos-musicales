@@ -11,4 +11,3 @@
 
 ## curiosities
 **Sound of Madness** : While John Carpenter utilized synthesizers to craft the sound of the killer, Goblin employed them to evoke the sound of the victim's madness, highlighting a fundamental difference between American and Italian horror approaches. "Mientras Carpenter usaba los sintetizadores para crear el sonido del asesino, Goblin los usaba para crear el sonido de la locura de la víctima." ← Por qué el cine de terror de los 80 suena así？ Horror Synth | https://www.youtube.com/watch?v=hd23tCTRk8E
-

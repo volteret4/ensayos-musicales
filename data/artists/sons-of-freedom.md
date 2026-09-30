@@ -1,16 +1,15 @@
 # artist - Sons of Freedom
 
 ## members
-- Don Bins
+- Don Binns
 - Don Harrison
-- Don Shorten
+- Don Short
 
 ## concerts
 - Edge Fest
 
 ## albums
-**Sons of Freedom (1988) - Self-Titled Album** : This self-titled album was released in 1988 and included the song "Mono Lisa." "This is from their 1988 self-taught album, and it's called Mono Lisa." ← https://www.youtube.com/watch?v=EE8U4yyKtd0 ← sons-of-freedom ← sons-of-freedom
-**Three Albums (1986-1993)** : The band released a total of three albums during their existence from 1986 to 1993. "During that time they released three albums." ← https://www.youtube.com/watch?v=EE8U4yyKtd0 ← sons-of-freedom ← sons-of-freedom
+**Sons of Freedom (1988)** : This self-titled album was released in 1988 and included the song "Mono Lisa." "This is from their 1988 self-taught album, and it's called Mono Lisa." ← https://www.youtube.com/watch?v=EE8U4yyKtd0 ← sons-of-freedom ← sons-of-freedom
 
 ## songs
 **Mono Lisa (1988)** : This song is from their 1988 self-titled album. "it's called Mono Lisa." ← https://www.youtube.com/watch?v=EE8U4yyKtd0 ← sons-of-freedom ← sons-of-freedom
@@ -25,10 +24,3 @@
 **Reformation as Black Eye Buddha (1993)** : After their breakup in 1993, the members of Sons of Freedom reformed under the new name Black Eye Buddha. "Sons of Freedom broke up and reformed under the name Black Eye Buddha." ← https://www.youtube.com/watch?v=EE8U4yyKtd0 ← sons-of-freedom ← sons-of-freedom
 **Rise in 1992** : Sons of Freedom began their rise in 1992, becoming part of a significant wave of new Canadian artists. Their emergence contributed to the growing diversity and popularity of the Canadian music scene in the early 90s. "1992, Sons of Freedom, Boot Sauce, Lowest of the Low, More Hip, More Barodicad Ladies." ← https://www.youtube.com/watch?v=6PGgNCaW4xo ← sons-of-freedom
 **Vancouver-Based Fierce Band (1986-1993)** : Sons of Freedom was a "very fierce" band originating from Vancouver, active for a seven-year period from 1986 to 1993. "a very fierce band at a Vancouver, which existed from 1986 through to 1993." ← https://www.youtube.com/watch?v=EE8U4yyKtd0 ← sons-of-freedom ← sons-of-freedom
-
-
-
-## charts
-**"All Right Now" — Billboard Year-End Hot 100** : #27, 1970. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"291" — NME Chart** : 8 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
-**"309" — NME Chart** : 9 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

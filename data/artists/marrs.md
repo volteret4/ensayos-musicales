@@ -1,11 +1,11 @@
 # artist - M|A|R|R|S
 
 ## members
-- Alex Ayuli (AR Kane)
-- Martin Young (Colorbox)
-- Rudy Tambala (Colorbox)
-- Russell Smith (Colorbox associate)
-- Steve Young (Colorbox)
+- Alex Ayuli
+- Martyn Young
+- Rudy Tambala
+- Russell Smith
+- Steve Young
 
 ## labels
 - 4AD
@@ -18,8 +18,6 @@
 **Collaborative Formation** : The group was a collaboration between two acts signed to Britain's 4AD label: AR Kane and Colorbox. "This was a one-time only project by a couple of groups on Britain's 4AD label, AR Kane and Colorbox." ← Ongoing History of New Music > The 50 Biggest All-Time Alt-Rock One-Hit Wonders： Part 1 | https://www.youtube.com/watch?v=_qxdftwrX3E&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **One-Time Project** : M|A|R|R|S was a unique, one-off project, with "Pump Up the Volume" being their only single ever released. "Not only is it a one-hit wonder, but it's the only single period from this group." ← Ongoing History of New Music > The 50 Biggest All-Time Alt-Rock One-Hit Wonders： Part 1 | https://www.youtube.com/watch?v=_qxdftwrX3E&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Sample Clearance Challenges** : The extensive sampling in "Pump Up the Volume" led to complications, necessitating the removal and replacement of certain samples for different international releases and remixes. "Dance remixes mostly, but because it issues with some of the samples, several had to be removed from the UK recordings and replaced with new ones for North American and international releases and remixes." ← Ongoing History of New Music > The 50 Biggest All-Time Alt-Rock One-Hit Wonders： Part 1 | https://www.youtube.com/watch?v=_qxdftwrX3E&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-
-
 
 ## charts
 **"667" — NME Chart** : 3 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

@@ -2,8 +2,10 @@
 
 ## albums
 **StarCross (2021)** : This album was moved from the country music category to the pop category for Grammy consideration. Musgraves reassured her fans that she was not the one abandoning her chosen communities. "Casey Musgrave that her whole album is not country enough, the artists were quick to reassure their fans that they were not the ones abandoning their chosen communities." ← For the Record - The 70s > Ep. 34 - A 70s Pop Manifesto - Finding Meaning in 70s Pop | https://seventies.libsyn.com/ep-34-a-70s-pop-manifesto-finding-meaning-in-70s-pop ← kacey-musgraves
+**StarCross (2021)** : This album was moved from the country music category to the pop category for Grammy consideration. Musgraves reassured her fans that she was not the one abandoning her chosen communities. "Casey Musgrave that her whole album is not country enough, the artists were quick to reassure their fans that they were not the ones abandoning their chosen communities." ← For the Record - The 70s > Ep. 34 - A 70s Pop Manifesto - Finding Meaning in 70s Pop | https://seventies.libsyn.com/ep-34-a-70s-pop-manifesto-finding-meaning-in-70s-pop
 
-
+## songs
+**I Remember Everything (2023)** : Kacey Musgraves collaborated with Country Folk Rocker Zach Bryan on "I Remember Everything" in 2023. This duet unexpectedly launched atop the Hot 100, showcasing how artists who don't necessarily fit the traditional pop star mold can achieve a number one debut. "Zach Bryan whose 2023 Casey Musgraves duet, I remember everything, launched atop the Hot 100." ← Hit Parade Music History and Music Trivia > Toppermost of the Poppermost Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef60c30a1408dc29358
 
 ## awards
 **Country Music Association Award for Female Vocalist of the Year (2013)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q28382637

@@ -20,15 +20,12 @@
 
 ## artists
 - Billy Talent
-- Christine McVie (née Perfect)
+- Christine McVie
 - Fleetwood Mac
 - Green Day
-- Grimbey
-- Husker Dew
-- Husker Dü
+- Hüsker Dü
 - Linkin Park
 - R.E.M.
-- REM
 - Rancid
 - Red Hot Chili Peppers
 - Talking Heads

@@ -1,13 +1,9 @@
 # artist - Paul Weller
 
 ## member of
-- Band-Aid
-- Paul Weller
+- Band Aid
 - Red Wedge
 - The Jam
-
-## members
-- Paul Weller
 
 ## genres
 - Britpop
@@ -29,8 +25,6 @@
 **Noel Gallagher Influence** : Paul Weller is identified as one of the classic "old school" influences that are still present in Noel Gallagher's "Council Skies" album, contributing to its refreshed sound. "influencias clásicas pues el de Huda, allá donde Paul Gueller." ← Music Radar Clan > Noel Gallagher's High Flying Birds - Who Built The Moon | https://www.youtube.com/watch?v=A4D1H45AyuA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← paul-weller ← paul-weller
 **Noel Gallagher's Idol and Collaborator** : Noel Gallagher idolized Paul Weller's work in The Jam, The Style Council, and his solo career since childhood. They became friends, even living across from each other in London. Weller played lead guitar, whistled, and provided background vocals on Oasis' "Champagne Supernova" during the recording of the "Morning Glory" album. "Ever since he was a kid, no idolized Willers work in the jam, the style council, and his solo work." ← https://www.youtube.com/watch?v=IhG-WJH9om8 ← paul-weller ← paul-weller
 **Solo Artist Evolution** : Before establishing himself as a solo artist, Paul Weller was associated with a band called The Paul Weller Movement. This group itself evolved from The Style Council, which had its origins in the band The Jam. "And before there was a Paul Weller, the solo artist, there was a band called the Paul Weller Movement." ← https://www.youtube.com/watch?v=oPgeSCy93bo ← paul-weller
-
-
 
 ## awards
 **MOJO Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3319330

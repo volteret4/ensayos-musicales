@@ -5,8 +5,7 @@
 **Threat to Drummers (1980s)** : The widespread adoption and advancement of drum machines in the 1980s, especially after Roland unveiled the TR808, made "flesh and blood drummers really got nervous." These analog drum machines had unique, inspiring sounds that challenged traditional percussionists. "Flush and blood drummers really got nervous through the 1980s, especially after Roland unveiled the TR808." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 10 | https://www.youtube.com/watch?v=OiqdZfxdBP0&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- Björk & Dirty Projectors (Collaborative Project)
-- Echo & The Bunnymen
+- Björk & Dirty Projectors
 - Echo & the Bunnymen
 - Kingdom Come
 - New Order

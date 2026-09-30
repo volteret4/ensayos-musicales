@@ -1,10 +1,24 @@
 # artist - Dr. Dre
 
+## member of
+- N.W.A
+
 ## genres
 - Hip Hop
 - Rap
 
+## labels
+- Death Row Records
+
+## albums
+**The Chronic (1992)** : This multi-platinum album was released in 1992 by Death Row Records after Dr. Dre left N.W.A. "over money." It became a landmark album that reshaped West Coast hip hop and featured the prominent diss track "Dre Day," aimed at Eazy-E. "Death Row Records, which issued his multi-platinum 1992 album The Chronic." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+
+## songs
+**Dre Day (1992)** : Featured on his 1992 album "The Chronic," this track was a direct diss aimed at Eazy-E after Dr. Dre left N.W.A. Its full title on the CD is "Fuck Wit Dre Day (And Everybody's Celebratin')." This menacing track achieved historic chart success, making it the first rap diss record to reach the pop top 10. "In response, Dre took aim at EZ on the Chronic Track Dre Day, whose full title on the Chronic CD, by the way, is, ehem, fuck with Dre Day and everybody's celebrating." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+**Dre Day (1993)** : This was a hit beef record released in 1993, specifically targeting Dr. Dre's former NWA bandmate, Eazy-E. Snoop Dogg is mentioned as using the word "diss" in the song. "Dr. Dre's hit 1993 beef record against his former NWA bandmate Easy." ← Hit Parade Music History and Music Trivia > Here’s the Beef Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef3154465cd600c4ef5
+
 ## curiosities
+**New Generation of Hip Hop Artists** : As a member of a new generation of hip hop artists emerging in the late 1980s, doctor Dree, then around 22 years old, sought to express and vindicate the real-life situations experienced in Afro-American suburbs. This generation appeared approximately 10 years after the initial hip hop recordings, signifying a notable generational shift from older, more established artists. "Esas nuevas generaciones que aparecen, ya valen 22 años, que tenían, pues, que tenían Dr. Dreodilla y Heila." ← Music Radar Clan > NWA y el inicio del Gangsta Rap. Las letras polémicas no son nuevas. | https://www.youtube.com/watch?v=uDNhX_fP3vM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← doctor-dree ← doctor-dree
 **Collaboration on *To Pimp a Butterfly*** : Dr. Dre was among the 65 artists credited for their contributions to Kendrick Lamar's *To Pimp a Butterfly*. His involvement highlights the album's expansive collaborative nature. "entre esos 65 artistas está Doctor Dree." ← Music Radar Clan > Kendrick Lamar：  To pimp a butterfly | https://www.youtube.com/watch?v=ENmSJbhbGeo&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← dr-dre ← dr-dre
 **Discovery of Kendrick Lamar** : Dr. Dre, alongside Snoop Dogg, discovered Kendrick Lamar before he turned 18, cementing his reputation as the "great King Midas of modern rap" for his ability to identify and nurture talent. "ya lo descubren el Snoop Dogg y Dr. Dre, que es como el gran rey midas del rap moderno." ← Music Radar Clan > Kendrick Lamar：  To pimp a butterfly | https://www.youtube.com/watch?v=ENmSJbhbGeo&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← dr-dre ← dr-dre
 **Guantanamo Bay Torture** : Music by Dr. Dre was used as a form of musical torture at Camp Delta, Guantanamo Bay. Prisoners, including Ruha Al-Ahmad, were forced to listen to it, sometimes while wearing headphones, for extended periods. "If it wasn't Eminem, the music came from Dr. Dre and Meatloaf, sometimes while being forced to wear headphones." ← https://www.youtube.com/watch?v=R1wdsGt07Gg ← dr-dre ← dr-dre
@@ -15,8 +29,9 @@
 **Tupac Shakur Hologram Performance (2012)** : Dr. Dre performed at Coachella in 2012, featuring a groundbreaking appearance by a virtual Tupac Shakur on stage alongside him and Snoop Dogg. Although billed as a hologram, the technology was a sophisticated version of Pepper's Ghost, creating a strikingly lifelike 3D image and marking a pivotal moment in the development of hologram performances. "Then in 2012, a very dead two-pock Shakur showed up at Coachella during a set featuring Dr. Dre and Snoop Dog." ← https://www.youtube.com/watch?v=GYUuTbOvyak ← dr-dre
 **Videos for Branding** : Dr. Dre employed his music videos as a branding tool, going beyond simple promotion for singles or albums. This method was common in the hip-hop world, where visuals were crucial for conveying themes of money, status, luxury, and identity, and establishing an artist's presence. "Tupac, Missy Elliott, and Dr. Dre used their videos as branding, not just to sell a single or a album." ← https://www.youtube.com/watch?v=7IDbqdIw3WU ← dr-dre
 **Zero DB Initiative Signatory** : Dr. Dre is one of the artists who signed the Zero DB initiative, which was created in 2008 by the charity Reprieve to condemn the use of music as torture and advocate for international treaties against such practices. "The Sinees include Tom Morello, average against the machine, members of REM, rise against Pearl Jam, Trent Reznor, Limp Biscuit, system of a down, disturbed the estate of Prince, the Chili Peppers, Eminem, Marilyn Manson, Neil Diamond, Dr. Dre, and a host of others." ← https://www.youtube.com/watch?v=R1wdsGt07Gg ← dr-dre ← dr-dre
-
-
+**New Generation of Hip Hop Artists** : As a member of a new generation of hip hop artists emerging in the late 1980s, doctor Dree, then around 22 years old, sought to express and vindicate the real-life situations experienced in Afro-American suburbs. This generation appeared approximately 10 years after the initial hip hop recordings, signifying a notable generational shift from older, more established artists. "Esas nuevas generaciones que aparecen, ya valen 22 años, que tenían, pues, que tenían Dr. Dreodilla y Heila." ← Music Radar Clan > NWA y el inicio del Gangsta Rap. Las letras polémicas no son nuevas. | https://www.youtube.com/watch?v=uDNhX_fP3vM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← doctor-dree
+**Early 90s Grammy Winner** : Dr. Dre was among the early 90s rap artists who received Grammys, indicating a gradual improvement in the Recording Academy's recognition of rap music. "Early 90s winners included LL Cool J, Dr. Dre, and Queen Latifa." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
+**Departure from N.W.A. (Year Unknown)** : Dr. Dre "left N.W.A., also over money," following a path similar to Ice Cube's. He subsequently signed with Death Row Records, which released his seminal 1992 album, "The Chronic," marking a new chapter in his career and fueling further conflict with Eazy-E. "Eventually, Dr. Dre also left NWA, also over money, and signed to Death Row Records, which issued his multi-platinum 1992 album The Chronic." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
 
 ## awards
 **American Music Award for Favorite Rap/Hip-Hop Artist (2001)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q19858088

@@ -2,5 +2,4 @@
 
 ## member of
 - Jan and Arnie
-- The Debarrens
-
+- The Barons

@@ -6,8 +6,7 @@
 ## curiosities
 **Chelsea Hotel Resident** : Poet Allen Ginsberg was listed as a resident of the Chelsea Hotel. "and Alan Ginsberg." ← https://www.youtube.com/watch?v=LE4YenwmeXM ← allen-ginsberg ← allen-ginsberg
 **Greenwich Village Figure** : Allen Ginsberg was a poet who was part of the bohemian scene in Greenwich Village in the early 1960s, alongside musicians like Moondog and Tiny Tim. "people like the poet Alan Ginsburg, the street musician Moondog, and tiny Tim" ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
-
-
+**Chelsea Hotel Resident** : Poet Allen Ginsberg was listed as a resident of the Chelsea Hotel. "and Alan Ginsberg." ← https://www.youtube.com/watch?v=LE4YenwmeXM ← allen-ginsberg
 
 ## awards
 **Guggenheim Fellowship** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1316544
@@ -19,7 +18,3 @@
 **Robert Frost Medal (1986)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q955178
 **John Jay Award (1993)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q16850529
 **Pulitzer Prize for Poetry (1995) — Cosmopolitan Greetings** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q2117891
-
-## charts
-**"Steal My Sunshine" — Billboard Year-End Hot 100** : #78, 1999. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**""Steal My Sunshine" ‡" — UK Singles Chart** : #3, 2000. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart

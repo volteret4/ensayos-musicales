@@ -6,8 +6,6 @@
 ## curiosities
 **New Generation Band** : The Wonder Years is listed among the "new generation of pop punk bands" that started to gain prominence after 2010. "the wonder years." ← https://www.youtube.com/watch?v=pE7TaWSUa-o ← the-wonder-years
 
-
-
 ## lists
 **"The Hum Goes On Forever" (2022) — Kerrang! The 50 Best Albums of 2022** : #49. ← musicbrainz | https://beta.musicbrainz.org/series/bba4a66d-575e-4b6e-8447-233ad23a8f51
 **"Suburbia I've Given You All and Now I'm Nothing" (2011) — Sputnikmusic Best Albums 2011** : #51, 4.11 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2011/

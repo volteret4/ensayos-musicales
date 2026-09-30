@@ -7,6 +7,7 @@
 **Origins and Evolution** : Powerpop's roots trace back to The Beatles in 1963, extending through British Invasion bands like The Kinks and The Who, and American bands such as The Beach Boys and The Byrds. It began taking definite shape in the early 1970s with bands like The Razberries and Big Star, evolving from a blend of charged-up old-school Top 40 music, bubblegum pop, and garage rock. "Powerpop, as we know it, began taking shape in the early 1970s." ← https://www.youtube.com/watch?v=hstJ8M2laho ← powerpop ← powerpop
 **Pioneering Bands (1970s)** : While Big Star is recognized for essentially inventing the Powerpop genre in 1971, other bands also achieved hits within the genre in the 1970s, including Badfinger, Todd Rundgren, The Raspberries, Cheap Trick, and The Knack. "There were other Powerpop bands in the 70s who had hits. There was Bad Finger and Todd Rungren. We had the raspberries, Cheap Trick, the Nack, but Big Star was there before all of them." ← https://www.youtube.com/watch?v=Cy5SCQV0HAY ← powerpop ← powerpop
 **Timeless Quality** : Powerpop is considered a timeless genre of rock, a style that rarely sounds dated. It's often difficult to determine if a Powerpop song was recorded in, for example, 1972 or 2012, highlighting its enduring appeal and consistent aesthetic. "Powerpop is a timeless sort of rock. It's a style that never seems to sound dated." ← https://www.youtube.com/watch?v=hstJ8M2laho ← powerpop ← powerpop
+**Foundation for "Angry Young Men"** : Powerpop was a key scene that laid the foundation for the careers of British singer-songwriters such as Elvis Costello, Joe Jackson, and Graham Parker in the 1970s. It was a genre they emerged from, which influenced their sound before they incorporated punk and new wave elements. "who came up through Pub Rock and Powerpop, adopted punk attitude, helped shape new wave." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
 
 ## artists
 - Big Star
@@ -22,24 +23,23 @@
 - Squeeze
 - The Beach Boys
 - The Beatles
-- The Buzzcocks
+- Buzzcocks
 - The Byrds
 - The Cars
 - The Jam
 - The Kinks
 - The Knack
 - The Quick
-- The Ramones
-- The Razberries
+- Ramones
+- The Raspberries
 - The Records
 - The Romantics
-- The Rubinous
+- The Rubinoos
 - The Shoes
 - The Smithereens
 - The Smiths
-- The Spungtones
 - The Vapors
 - The Who
 - Weezer
 - XTC
-
+- Graham Parker

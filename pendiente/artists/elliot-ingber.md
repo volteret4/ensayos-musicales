@@ -2,4 +2,4 @@
 
 ## member of
 - The Gamblers
-
+- The Moon Dogs

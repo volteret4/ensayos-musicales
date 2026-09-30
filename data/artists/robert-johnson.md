@@ -3,13 +3,13 @@
 ## genres
 - Blues
 - Delta Blues
-- Polka (enjoyed playing)
+- Polka
 
 ## labels
-- Columbia Records (later reissue)
+- Columbia Records
 
 ## albums
-**King of the Delta Blues Singers (1961) - Reissue Album** : This reissue of old blues records by Robert Johnson was given to Bob Dylan by John Hammond before its public release. Its release transformed Robert Johnson into a "systemic figure" among white blues fans in the 1960s. The album was critical in establishing Johnson's posthumous reputation, as he was largely forgotten by most blues musicians and listeners prior to its release. "Hammond also gave Dylan an album to take home and listen to, a record which hadn't come out yet, a v-issue of some old blues records called King of the Delta Blues Singers by Robert James." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
+**King of the Delta Blues Singers (1961)** : This reissue of old blues records by Robert Johnson was given to Bob Dylan by John Hammond before its public release. Its release transformed Robert Johnson into a "systemic figure" among white blues fans in the 1960s. The album was critical in establishing Johnson's posthumous reputation, as he was largely forgotten by most blues musicians and listeners prior to its release. "Hammond also gave Dylan an album to take home and listen to, a record which hadn't come out yet, a v-issue of some old blues records called King of the Delta Blues Singers by Robert James." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
 
 ## songs
 **Terraplane Blues** : Mickey Baker performed a "straight sounder" version of Robert Johnson's "Terraplane Blues" on his mid-1970s album "Mississippi Delta Dews," as part of his tribute to country bluesmen. "Sometimes it does a straight sounder like, like this version of Robert Johnson's Teva Plain Blues." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
@@ -28,8 +28,6 @@
 **Post-Mortem Reputation Explosion** : Robert Johnson was known by myths and legends among hardcore Delta Blues fans while he was alive, but his reputation exploded in 1961 when his records were reissued, 23 years after his death. "Not when you anything about Robert Johnson when he was alive, other than some myths and legends among hardcore fans of Delta Blues, but when his records were reissued in 1961, 23 years after he died, his reputation exploded." ← https://www.youtube.com/watch?v=1VWJ0uCQx8w ← robert-johnson ← robert-johnson
 **Remarkable Musical Mind** : Despite the myths, Johnson was a truly great musician, a versatile and skilled guitarist and arranger with a broader musical palette than his recorded legacy suggests. "While the myth of Robert Johnson has almost no connection to the real man, his music demonstrated a remarkable musical mind." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
 **Sparse Lyrical Style** : Johnson possessed a sparse, economical lyrical style that deeply resonated with Bob Dylan on a primal level. "Johnson had a very sparse, economical, living style, which connected with Dylan on a primordial level." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
-
-
 
 ## awards
 **Rock and Roll Hall of Fame (1986)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191

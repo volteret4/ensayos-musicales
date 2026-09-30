@@ -9,3 +9,7 @@
 ## curiosities
 **Teacher's Dilemma** : When her song "Ring My Bell" was climbing the charts, Anita Ward, who was a teacher, was asked to get on a plane to perform on *Midnight Special*. She expressed hesitation due to it being the school year. "When Ring My Bell was climbing the charts, Anita Ward was asked to get on a plane, to go out and perform on midnight special and she's like, well, you know, it's the school year." ← For the Record - The 70s > Ep. 60 - One-Hit Wonders of the 70s | https://www.ftr70.com
 
+## charts
+**"Ring My Bell" — Billboard Year-End Hot 100** : #9, 1979. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"476" — NME Chart** : 13 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
+**"Ring My Bell" — Spain Singles Chart** : #1, 1979. ← Wikipedia | https://en.wikipedia.org/wiki/Promusicae

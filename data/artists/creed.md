@@ -2,25 +2,22 @@
 
 ## members
 - Brian Marshall
-- Flip
 - Mark Tremonti
+- Scott Phillips
 - Scott Stapp
-- Scott Stapp (singer)
 
 ## genres
 - Christian alternative rock
 - Post-Grunge
 - Rock
-- Rock (implied)
 
 ## labels
 - Wind-up Records
 
 ## albums
 **Full Circle (2009)** : This was the new album recorded by the original lineup after their reunion. "That record was called Full Circle." ← https://www.youtube.com/watch?v=yR3xc3ra5tE ← creed
-**Millions of Records Sold** : The band sold "millions of records" and concert tickets during their career. "Now like Limp Biscuit, this is a band that sold millions of records and concert tickets." ← https://www.youtube.com/watch?v=yR3xc3ra5tE ← creed
 **My Own Prison (1998)** : This was Creed's first album. It initially found success by selling in Christian record stores before breaking through to mainstream sales in the millions. The album's commercial success sparked debate about the band's spirituality, with both supportive and skeptical reactions. "Creed from their first album, 1998's My Own Prison." ← https://www.youtube.com/watch?v=g-tBn8dsSqw ← creed
-**My Own Prison (1998) - Debut Album** : Released in 1998, this was Creed's first album. It initially found sales success in Christian record stores before breaking through to sell millions of records in the mainstream. The album's commercial performance sparked extensive debate regarding the band's spirituality. Its success was significantly bolstered by the "Christian underground." "Creed from their first album, 1998's My Own Prison." ← https://www.youtube.com/watch?v=6cbL0zLQeIs ← creed ← creed
+**My Own Prison (1998)** : Released in 1998, this was Creed's first album. It initially found sales success in Christian record stores before breaking through to sell millions of records in the mainstream. The album's commercial performance sparked extensive debate regarding the band's spirituality. Its success was significantly bolstered by the "Christian underground." "Creed from their first album, 1998's My Own Prison." ← https://www.youtube.com/watch?v=6cbL0zLQeIs ← creed ← creed
 **Weathered (2002)** : This was the band's third album, which sold its six millionth copy around late 2002. "Around the same time, their third album, Weathered, sold its six millionth copy." ← https://www.youtube.com/watch?v=yR3xc3ra5tE ← creed
 
 ## songs
@@ -57,8 +54,6 @@
 **Tens of Millions in Sales** : As a band with Scott Stapp as singer, Creed sold "tens of millions of records," indicating significant commercial success during their tenure. "Tens of millions of records were sold when he was the singer with Creed." ← https://www.youtube.com/watch?v=-f9jhqAHkQo ← creed
 **Time Apart (4 years, 10 months, 23 days)** : The band was apart for this duration, from their formal breakup on June 4, 2004, to their formal reunion announcement on April 27, 2009. "Creed, back together after being apart for four years, 10 months, and 23 days." ← https://www.youtube.com/watch?v=yR3xc3ra5tE ← creed
 **Wholesome Band Name** : The band's chosen name, "Creed," contributed to their overall wholesome perception and resonated with audiences, particularly within the Christian market. "and with a name like Creed, well that just sounded so, holds on, didn't it?" ← https://www.youtube.com/watch?v=6cbL0zLQeIs ← creed ← creed
-
-
 
 ## charts
 **"Higher" — Billboard Year-End Hot 100** : #11, 2000. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

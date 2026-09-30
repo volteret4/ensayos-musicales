@@ -2,36 +2,35 @@
 
 ## members
 - Arthur Kane
+- Billy Murcia
 - David Johansen
 - Jerry Nolan
 - Johnny Thunders
-- Johnny Thunders (Johnny Volum)
 - Sylvain Sylvain
-- Two unnamed members played with Sid Vicious in New York
 
 ## genres
 - Glam rock
 - Glitter Rock
-- New Wave (early description)
+- New Wave
 - Pre-punk
 - Pre-punk era
 - Proto-punk
 - Punk rock
 
 ## labels
-- Major label (unspecified)
+- Major label
 
 ## concerts
 - New York Dolls Concert (1973)
 
 ## albums
-**Because I said so - Studio Album** : This was another studio album released by the New York Dolls after their reunion. "There has been a live album and another studio album called Because I said so." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← new-york-dolls ← new-york-dolls
+**Because I said so** : This was another studio album released by the New York Dolls after their reunion. "There has been a live album and another studio album called Because I said so." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← new-york-dolls ← new-york-dolls
 **One Day, it will please us to remember even this (2006)** : This studio album was recorded by David Johansen and Sylvain Sylvain after Arthur Kane's death, and featured guest appearances by Iggy Pop and Michael Stipe of R.E.M. "They decided to carry on and record an album. And you know something was a pretty good record. It was called One Day, it will please us to remember even this." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← new-york-dolls ← new-york-dolls
 
 ## songs
 **Personality Crisis (1973)** : This song features Johnny Thunders on guitar. It is mentioned in the context of his possible murder in April 1991. "New's Johnny with the New York Dolls have personality crisis." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4 ← new-york-dolls
 **Running Around (2006)** : This song is from the 2006 album "One Day, it will please us to remember even this," recorded by the resurrected New York Dolls. "This is called Running Around. Resurrected New York Dolls from 2006." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← new-york-dolls ← new-york-dolls
-**Teenage News (N/A)** : This unreleased song was the initial preferred choice for the name of the fanzine created by Legs McNeil and his friend. They eventually decided against it in favor of a name more directly related to The Dictators, which ultimately became "Punk." "And their first choice for the name of their fanzine was Teenage News after an unreleased song by the New York Dolls." ← https://www.youtube.com/watch?v=1y2UuU-me_s ← new-york-dolls ← new-york-dolls
+**Teenage News** : This unreleased song was the initial preferred choice for the name of the fanzine created by Legs McNeil and his friend. They eventually decided against it in favor of a name more directly related to The Dictators, which ultimately became "Punk." "And their first choice for the name of their fanzine was Teenage News after an unreleased song by the New York Dolls." ← https://www.youtube.com/watch?v=1y2UuU-me_s ← new-york-dolls ← new-york-dolls
 
 ## curiosities
 **Arbitrary Breakup Date (1977)** : While their last shows were in 1976 and they were definitively done by October 1977, an arbitrary breakup date of October 1, 1977, is assigned due to the difficulty in pinpointing the exact end. "So we'll just have to assign an arbitrary date of October 1st, 1977 for the breakup." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← new-york-dolls ← new-york-dolls
@@ -66,8 +65,7 @@
 **Spandex and Makeup Style** : The New York Dolls were notable for their "Spandex and makeup wearing" style, emblematic of the glitter rock movement that found a home in America. "the Spandex and makeup wearing New York dolls." ← https://www.youtube.com/watch?v=blDNqVFheAw ← new-york-dolls ← new-york-dolls
 **Stephen Patrick Morrissey's Fanaticism** : The legend of the New York Dolls grew to "mythic proportions," captivating Stephen Patrick Morrissey (singer for The Smiths) from a young age, who wrote letters to British music magazines praising them and founded their British fan club. "One of their biggest all-time fans was Stephen Patrick Morrissey. Yes, the same guy who sang for the Smiths." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← new-york-dolls ← new-york-dolls
 **Sylvain Sylvain's Post-Breakup Career** : Guitarist Sylvain Sylvain worked in David Johansen's band, formed his own group, then became a New York City cab driver before moving to Los Angeles to resume his music career. "Guitar, Sylvain Sylvain worked in David's band, formed his own group, and then got a job as a New York City cab driver." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← new-york-dolls ← new-york-dolls
-
-
+**Heroin Decimation** : Heroin tragically decimated and brought death to the band members of The New York Dolls. "Heroin decimated and brought death to the New York dolls." ← Ongoing History of New Music > RockNRoll Drugs | https://www.youtube.com/watch?v=i5lR8zz7_ZE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## lists
 **"New York Dolls" (1973) — 1001 Albums You Must Hear Before You Die** : #299, 8.0/10 Scaruffi.

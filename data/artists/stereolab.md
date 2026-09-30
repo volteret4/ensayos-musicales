@@ -1,8 +1,9 @@
 # artist - Stereolab
 
 ## members
-- Letesia Sadie
-- Tim Gain
+- David Pajo
+- Lætitia Sadier
+- Tim Gane
 
 ## genres
 - Brazilian Music
@@ -16,10 +17,10 @@
 - High Fidelity (2000)
 
 ## albums
-**Emperor Tomato Ketchup** : This album title is listed as an example of Stereolab's distinctive artistic and philosophical approach. "Emperor Tomato Ketchup." ← Ongoing History of New Music > What Exactly is Post-Rock？ Part 1 | https://www.youtube.com/watch?v=pLf3kUONewg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Marjorin Eclipse** : This is another album title by Stereolab, indicative of their experimental style and diverse influences. "Marjorin Eclipse." ← Ongoing History of New Music > What Exactly is Post-Rock？ Part 1 | https://www.youtube.com/watch?v=pLf3kUONewg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Mars Audio Quartet (1994)** : This 1994 album is mentioned as the source for the track "Wow and Flutter," which exemplifies Stereolab's sound. "This is a track from their 1994 album Mars Audio Quartet." ← Ongoing History of New Music > What Exactly is Post-Rock？ Part 1 | https://www.youtube.com/watch?v=pLf3kUONewg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Transient Random Noise Bursts with Announcements** : This is one of the album titles mentioned for Stereolab, reflecting their unique blend of influences and surrealist attitude. "Look at the album titles, Transient Random Noise Bursts with Announcements." ← Ongoing History of New Music > What Exactly is Post-Rock？ Part 1 | https://www.youtube.com/watch?v=pLf3kUONewg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Emperor Tomato Ketchup (1996)** : This album title is listed as an example of Stereolab's distinctive artistic and philosophical approach. "Emperor Tomato Ketchup." ← Ongoing History of New Music > What Exactly is Post-Rock？ Part 1 | https://www.youtube.com/watch?v=pLf3kUONewg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Margerine Eclipse (2004)** : This is another album title by Stereolab, indicative of their experimental style and diverse influences. "Marjorin Eclipse." ← Ongoing History of New Music > What Exactly is Post-Rock？ Part 1 | https://www.youtube.com/watch?v=pLf3kUONewg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Mars Audiac Quintet (1994)** : This 1994 album is mentioned as the source for the track "Wow and Flutter," which exemplifies Stereolab's sound. "This is a track from their 1994 album Mars Audio Quartet." ← Ongoing History of New Music > What Exactly is Post-Rock？ Part 1 | https://www.youtube.com/watch?v=pLf3kUONewg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Transient Random-Noise Bursts with Announcements (1993)** : This is one of the album titles mentioned for Stereolab, reflecting their unique blend of influences and surrealist attitude. "Look at the album titles, Transient Random Noise Bursts with Announcements." ← Ongoing History of New Music > What Exactly is Post-Rock？ Part 1 | https://www.youtube.com/watch?v=pLf3kUONewg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## songs
 **Wow and Flutter (1994)** : This track from the 1994 album "Mars Audio Quartet" is presented as a sample of Stereolab's sound, which blends Krautrock, vintage synthesizers, and influences from French pop, funk, jazz, and Brazilian music, infused with surrealist and situationist philosophy. "it's called Wow and Flutter." ← Ongoing History of New Music > What Exactly is Post-Rock？ Part 1 | https://www.youtube.com/watch?v=pLf3kUONewg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -30,8 +31,6 @@
 **High Fidelity Soundtrack Contribution (2000)** : Stereolab contributed to *The High Fidelity* soundtrack, released in 2000. This soundtrack was noted for featuring "good deep tracks" from a wide range of artists, spanning from the 1960s to more contemporary acts. "It was some good deep tracks from everyone from the 13th or elevators and the velvet underground of the 1960s to more contemporary songs from the Beta Band and Stereo Lab." ← Ongoing History of New Music > Key Alt-Rock Movie Soundtracks | https://www.youtube.com/watch?v=zIkjd1OjCXM&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Peer Licensing Example** : Around the same time The Apples in Stereo licensed "Strawberry Fire" to Sony, Stereolab, another fiercely independent band greatly admired by The Apples in Stereo, also made a licensing deal with Volkswagen, indicating a broader shift in strategy among indie musicians. ← Ongoing History of New Music > The Concept of Selling Out： Part 2 | https://www.youtube.com/watch?v=sfie4YYncxk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Relationship with Child, Separated** : Tim Gain and Letesia Sadie of Stereolab were in a relationship and had a child together. However, they never married and are now separated. "Tim Gain and Letesia Sadie of Stereolab, a relationship. They have a child but never married and are now separated." ← Ongoing History of New Music > Couples in Music | https://www.youtube.com/watch?v=5Dhh5_PDhd0&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-
-
 
 ## lists
 **"Emperor Tomato Ketchup" (1996) — 1001 Albums You Must Hear Before You Die** : #811, 7.0/10 Scaruffi.

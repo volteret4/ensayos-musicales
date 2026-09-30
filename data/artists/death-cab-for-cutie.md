@@ -2,11 +2,10 @@
 
 ## members
 - Ben Gibbard
-- Ben Gibbert
 - Chris Walla
 
 ## genres
-- Indie Rock (implied)
+- Indie Rock
 - Tweetpop
 
 ## concerts
@@ -18,8 +17,6 @@
 **Guest Musician on Sonic Highways** : Ben Gibbert, from the band Death Cab for Cutie, was a local guest musician featured on the Foo Fighters' song "Subterranean" from the "Sonic Highways" album. The track was recorded at Robert Lang Studios north of Seattle. "The local guest for this track was Ben Gibbert of Death Cab for Cutie." ← https://www.youtube.com/watch?v=Mh-qg1izM98 ← death-cab-for-cutie
 **Long-Distance Running Hobby** : Ben Gibbard has a particular enthusiasm for long-distance running. "Ben Gibber of Death Cab for Cutie had a thing for long distance running." ← https://www.youtube.com/watch?v=xc85sLj0Cnk ← death-cab-for-cutie
 **Twilight Soundtracks Contribution** : Death Cab for Cutie contributed to the various *Twilight* soundtracks that accompanied the film series. These soundtracks featured a nice selection of tunes, mostly album cuts and outtakes, from a range of artists spanning different genres. "The Paramore, Lincoln Park, Collective Soul, Death Cab for Cutie, Tom York, the Killers, Editors, Metric, Block Keys, Dead Weather, Beck, Vampire Weekend, Florence in the Machine." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← death-cab-for-cutie
-
-
 
 ## awards
 **Shortlist Music Prize (2005) — Plans** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q7502207

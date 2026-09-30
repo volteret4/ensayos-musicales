@@ -11,6 +11,6 @@
 
 ## artists
 - Madonna
-- Pechos Boys
+- Pet Shop Boys
 - Village People
 

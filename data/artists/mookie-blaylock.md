@@ -9,8 +9,7 @@
 **Predecessor to Pearl Jam** : This band was the initial name for the group that would later become Pearl Jam. They went into the studio and created a "proper demo" of the song "Alive" (then called "Dollar Short"), which successfully secured them a record deal. "The new band was called Mookie Blaylock and they went into the studio and by this time Dollar Short had been renamed Alive." ← https://www.youtube.com/watch?v=zT6pRGYLWhw ← mookie-blaylock
 **Predecessor to Pearl Jam – Formation with Eddie Vedder** : Mookie Blaylock was the original name of the band formed by Mother Love Bone's Jeff Ament and Stone Gossard, who invited a young singer named Eddie Vedder from San Diego to join. The band quickly changed its name to Pearl Jam, which went on to achieve massive success. "This kid from San Diego who had just flown up at the invitation of Jeff and Stone to sing in a new band that was going to be called Mookie Blaylock, and that kid's name was Eddie Vedder." ← https://www.youtube.com/watch?v=lip0bZX7hBE ← mookie-blaylock
 **Securing a Record Deal** : The band Mookie Blaylock secured a record deal based on a proper demo of the song "Alive," which was then still known as "Dollar Short." "Well that worked out pretty well and Mookie Blaylock found themselves with a record deal." ← https://www.youtube.com/watch?v=zT6pRGYLWhw ← mookie-blaylock
-
-
+**Basketball Player Name** : This was the original name of the band that would later become Pearl Jam. The name was adopted in homage to one of their favorite basketball players before they signed with Epic Records and officially changed their name. "went by the name Mookie Blaylock, named after one of their favorite basketball players." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 
 ## awards
 **MTV Video Music Award for Best Group (1993)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q543729
@@ -27,6 +26,3 @@
 **Grammy Award for Best Rock Song (2009) — The Fixer** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q282636
 **Grammy Award for Best Rock Album (2010) — Backspacer** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q691892
 **Rock and Roll Hall of Fame (2017)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
-
-## lists
-**"Reverse Earth" (2025) — Bandcamp: The Best Albums of 2025** : #19. ← musicbrainz | https://beta.musicbrainz.org/series/e71890ee-e707-4eae-af8f-b60074d08730

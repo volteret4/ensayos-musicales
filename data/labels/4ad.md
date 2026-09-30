@@ -17,16 +17,13 @@
 **Strong Visual Identity** : Beyond its sound, 4AD was known for its powerful visual identity, characterized by its distinctive logo and album artwork. This cohesive aesthetic contributed to its unique reputation. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← 4ad
 
 ## artists
-- AR Kane
+- A.R. Kane
 - Cocteau Twins
-- Da-Da
 - Dead Can Dance
-- MARRS
-- Modern English
 - M|A|R|R|S
-- Pixies
-- The Birthday Party
+- Modern English
 - The Pixies
+- The Birthday Party
 - This Mortal Coil
 - Throwing Muses
 - Tune-Yards

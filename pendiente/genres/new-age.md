@@ -5,5 +5,4 @@
 **Primary Sample Source for Vaporwave** : New Age music from the 1980s and 1990s is explicitly mentioned as a key source for samples that form the basis of vaporwave, alongside pop, funk, and city pop. "se basa en el sample de extractos de canciones de pop, funk, new age, o city pop de los años 80s y 90s" ← Vaporwave： Mucho más que un Meme | https://www.youtube.com/watch?v=BhOnKc0SxsA
 
 ## artists
-- Clannad
 

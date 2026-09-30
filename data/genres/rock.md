@@ -170,18 +170,22 @@
 **Universal Target of Criticism** : All rock music eventually became a target for critics. *Variety* magazine famously called it "the most destructive force in the country," characterizing it as a "lewd, lascivious, and larceness influence on youth." These critiques highlight the intense moral panic and generational clash associated with the genre. "All rock became a target. Variety magazine said it was the most destructive force in the country, a lewd, lascivious, and larceness influence on youth." ← https://www.youtube.com/watch?v=L0j9iDuHQVA ← rock
 **Unstoppable Force** : Despite continuous opposition from ministers, calls for record burnings, and attempts by authorities to crack down on it, rock music proved to be an unstoppable cultural force. After the rise of figures like Elvis, Little Richard, Jerry Lee Lewis, and The Beatles, rock was here to stay. "No matter how many ministers wailed against it, no matter how many records were burned, no matter how many authorities tried to crack down on it, rock was here to stay." ← https://www.youtube.com/watch?v=L0j9iDuHQVA ← rock
 **Use of Mutes** : Mutes are also found in rock music, though perhaps less frequently than in classical or jazz. The song "The Distance" by Cake is cited as an example where a trumpet mute is utilized. "And even rock." ← https://www.youtube.com/watch?v=D8GU8ZpSgY8 ← rock
+**90s Shift to Less Subtle Disses** : By the 1990s, rock artists observed that they could garner "extra attention if they were less subtle" in their diss tracks compared to earlier artists like Carly Simon. This era also saw some rock stars expressing their anger more directly in their music, moving away from veiled lyrical jabs. "But by the 90s, rock ats noticed they could get extra attention if they were less subtle than, say, Carly Simon had been." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+**First Major Wave of Beef Records (1970s)** : The 1970s are considered to have generated arguably the "first major wave of beef records" in pop, characterized by "petty grievances laundered in pop hits." "The 70s generated arguably the first major wave of beef records. Petty grievances laundered in pop hits." ← Hit Parade Music History and Music Trivia > Here’s the Beef Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef3154465cd600c4ef5
+**Mixed Reception for The Knack (1979)** : Rock fans in 1979 were divided over The Knack's "My Sharona," loving it for its success but loathing it for scoring "Rock's first big number one in a year full of disco" and for its "faux Beatles imagery and sexist lyrics." "Arguably the Nickelback of their day, the NAC were both loved and loathed by Rock fans in 1979." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce81
+**The Police's Rock Evolution** : The Police, particularly with their debut "Outlandos d'Amour," played "aggressive three-piece rock" that was closest to a "straight-up punk album," before evolving their sound further. Their "Synchronicity II" was described as their "hardest rocking single." "It was the closest the police came to a straight-up punk album, aggressive three-piece rock topped by Sting's Keening falsetto voice." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
+**Rock Airplay Chart Debut for Bruno Mars** : Bruno Mars made his first appearance on Billboard's Rock charts with the 2019 single "Blow," a collaboration with Ed Sheeran and Chris Stapleton. The song reached number 36 in Rock Airplay, marking a significant genre expansion for Mars's career. "a single that got Mars on Billboard's Rock charts for the first time." ← Hit Parade Music History and Music Trivia > Lenny on Mars Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f54d1ba84fb8f0463bf
+**Atlantic Records Shift (Late 1970s)** : By the late 1970s, Atlantic Records, once an R&B-rooted label, had become "better known for rock acts like Led Zeppelin than for R&B," indicating a significant shift in its musical focus. "By the late 70s, Atlantic was better known for rock acts like Led Zeppelin than for R&B." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Aerosmith as Hall of Fame Band** : Aerosmith is introduced as a "Hall of Fame rock band" that faced challenges in launching their career in the 1970s, requiring multiple "bring back hits" to achieve significant chart success. "At number nine on my list is a Hall of Fame rock band." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c42e
 
 ## artists
 - 7 Year Bitch
 - Ace of Cups
 - Aerosmith
 - Anberlin
-- Andrea Hogan (Hügellands Roondance)
 - April Wine
 - Arcade Fire
 - Arctic Monkeys
-- Argent
-- Autobahn de moral crossing
 - B.B. King
 - B.W. Stevenson
 - Bakar
@@ -189,20 +193,18 @@
 - Big Wreck
 - Billy Talent
 - Black Rebel Motorcycle Club
-- Blockade P's
 - Blondie
 - Blood, Sweat & Tears
-- Blue Spill
 - Blur
 - Bob Marley
 - Bob Seger
-- Bobby Jean Hall
+- Bobbye Hall
 - Body Count
-- Brian Ferry
+- Bryan Ferry
 - Brian Wilson
 - Bunbury
 - Bush
-- Can
+- CAN
 - Captain Beefheart
 - Carmen
 - Cheap Trick
@@ -211,13 +213,11 @@
 - Chrissie Hynde
 - Chuck Berry
 - Cindy Blackman Santana
-- Clannad
 - Coldplay
 - Cornelius
 - Cream
-- Credence Clearwater Revival
+- Creedence Clearwater Revival
 - Creed
-- Creeper (as "Creepers")
 - Curtis Mayfield
 - D.H. Peligro
 - David Bowie
@@ -231,7 +231,7 @@
 - Echo Ladies
 - Elton John
 - Elvis Costello
-- Elvis Costello and the Attractions
+- Elvis Costello & The Attractions
 - Elvis Presley
 - Eric Clapton
 - Erol Alkan
@@ -241,18 +241,16 @@
 - Field Music
 - Fleetwood Mac
 - Foo Fighters
-- Gerbrieth
+- Jobriath
 - Gino Vannelli
-- Glüleg
+- Glueleg
 - Gord Downie
 - Green Day
 - Grisfolk
 - Guns N' Roses
-- Guns n' Roses
 - Halsey
-- Hank Williams IV
-- Happy Guys
-- Hassel Adkins
+- The Happy Guys
+- Hasil Adkins
 - Heart
 - Ice-T
 - Imagine Dragons
@@ -268,25 +266,22 @@
 - Jody Linscott
 - John Frusciante
 - John Mellencamp
-- KISS
+- Kiss
 - Kid Rock
 - Kino
-- Kiss
 - Lana Del Rey
 - Led Zeppelin
 - Lenny Kravitz
 - Limp Bizkit
-- Lincoln Park
-- Linda Ronstadt
 - Linkin Park
+- Linda Ronstadt
 - Little Richard
 - Los Lobos
 - Lou Reed
 - Lowest of the Low
 - M.I.A.
 - MC5
-- MIA
-- Mary Clayton
+- Merry Clayton
 - Menza Droppo
 - Metallica
 - Michael Jackson
@@ -303,22 +298,18 @@
 - Patti Smith
 - Paul Weller
 - Pearl Jam
-- Pechos Boys
-- Pixies
+- Pet Shop Boys
+- The Pixies
 - Primal Scream
 - Pulp
 - Queen
-- Queen of the Stone Age
 - Queens of the Stone Age
-- Quixonic
 - Radiohead
-- Rage Against The Machine
 - Rage Against the Machine
 - Rammstein
 - Red Hot Chili Peppers
-- Reznik
 - Richard Ashcroft
-- Run DMC
+- Run-DMC
 - Santana
 - Sixpence None the Richer
 - Sleaford Mods
@@ -333,7 +324,7 @@
 - Swans
 - System of a Down
 - Talking Heads
-- Tegan and Sarah
+- Tegan and Sara
 - Teleman
 - Television
 - The Allman Brothers Band
@@ -348,20 +339,19 @@
 - The Chemical Brothers
 - The Cure
 - The Doobie Brothers
-- The Eagles
+- Eagles
 - The Fugs
 - The Go-Go's
-- The Happy Guys
 - The Hives
 - The International Noise Conspiracy
-- The Jarpers
+- The Yardbirds
 - The Kinks
 - The Knack
-- The New York Dolls
+- New York Dolls
 - The Ohio Express
 - The Police
 - The Prodigy
-- The Ramones
+- Ramones
 - The Red Hot Chili Pipers
 - The Rolling Stones
 - The Sadies
@@ -380,12 +370,11 @@
 - Thread
 - Three Days Grace
 - Three Dog Night
-- Three Doors Down
+- 3 Doors Down
 - Tin Machine
 - Tina Turner
 - Tool
 - Tori Amos
-- Tul
 - Tune-Yards
 - U2
 - UFO
@@ -397,4 +386,27 @@
 - Weezer
 - Wendy Melvoin
 - Wolf Alice
-
+- Hootie & the Blowfish
+- Darius Rucker
+- OutKast
+- Bruno Mars
+- Bob Dylan
+- Sting
+- Aretha Franklin
+- Joan Jett
+- Disturbed
+- Bad Wolves
+- Lynyrd Skynyrd
+- Ricky Nelson
+- The Bangles
+- Donna Summer
+- Pat Benatar
+- The Caesars
+- Jet
+- The Ting Tings
+- Madonna
+- P!nk
+- Four Non Blondes
+- LaBelle
+- Avril Lavigne
+- The Pointer Sisters

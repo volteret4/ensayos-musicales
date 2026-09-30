@@ -1,9 +1,7 @@
 # artist - James Newton
 
 ## songs
-**Choir (1982) - Sampled by Beastie Boys** : The 1982 track "Choir" by James Newton provides a flute sample used in the Beastie Boys' 1992 song "Pass the Mic." This sample is the first distinct audio element heard in the Beastie Boys' composition, highlighting the diverse sources artists utilized for sampling. "The first thing we hear is a flute taken from a track called Choir by James Newton, which he recorded in 1982." ← https://www.youtube.com/watch?v=r8AazBVoS7g ← james-newton
-
-
+**Choir (1982)** : The 1982 track "Choir" by James Newton provides a flute sample used in the Beastie Boys' 1992 song "Pass the Mic." This sample is the first distinct audio element heard in the Beastie Boys' composition, highlighting the diverse sources artists utilized for sampling. "The first thing we hear is a flute taken from a track called Choir by James Newton, which he recorded in 1982." ← https://www.youtube.com/watch?v=r8AazBVoS7g ← james-newton
 
 ## awards
 **Primetime Emmy Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1044427
@@ -22,10 +20,3 @@
 **Grammy Award for Best Score Soundtrack for Visual Media (2008) — The Dark Knight** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q4376972
 **Academy Award for Best Original Score (2009) — Defiance** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q488651
 **Academy Award for Best Original Score (2021) — News of the World** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q488651
-
-## charts
-**"I'm Your Puppet" — Billboard Year-End Hot 100** : #76, 1966. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-
-## lists
-**"Laid" (1993) — Pitchfork: The 50 Best Britpop Albums** : #49, 4.03 Sputnik. ← musicbrainz | https://beta.musicbrainz.org/series/cd7ebb70-d88f-4f74-b6de-3a00bf2a162c
-**"Laid" (1993) — Sputnikmusic Best Albums 1993** : #96, 4.03 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/

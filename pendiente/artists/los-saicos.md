@@ -12,4 +12,3 @@
 
 ## curiosities
 **Unintentional Punk Pioneers** : Los Saicos were active for only a couple of years and recorded few tracks, yet they managed to capture the essence of punk before it even had a name, simply by playing what they felt. For decades, their legacy remained largely unknown in Peru and abroad until the 2000s, when collectors and labels like Electro Harmonix and Munster Records rediscovered and reissued their work, positioning them as a key piece of protopunk archaeology. "Lo más fascinante es que no sabían que estaban inventando nada, simplemente hacia el lo que sentían." ← El punk existía antes de Sex Pistols (y era algo salvaje) | https://www.youtube.com/watch?v=ilXpBujkWZE
-

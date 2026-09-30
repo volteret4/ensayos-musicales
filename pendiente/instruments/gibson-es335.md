@@ -6,5 +6,5 @@
 **Variations and Commercial Success** : The ES335 spawned several successful variations, including the ES345 and ES355, all of which proved to be popular models for Gibson. "It has several variations, including the ES345 and the ES355. All of them were huge successes for the company." ← https://www.youtube.com/watch?v=d9HNqb9gJSU ← gibson-es335
 
 ## artists
-- Blink-182
+- Blink 182
 

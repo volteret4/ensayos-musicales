@@ -13,12 +13,12 @@
 - Buddy Bolden
 - Dave Bartholomew
 - Dizzy Gillespie
-- Eric Burden
+- Eric Burdon
 - Freddie Randall
 - Louis Armstrong
-- Manfred Mann (band)
+- Manfred Mann
 - Quincy Jones
 - Ray Charles
 - The Animals
 - The Light Crust Doughboys
-
+- Herb Alpert

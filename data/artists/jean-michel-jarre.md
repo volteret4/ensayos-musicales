@@ -14,8 +14,6 @@
 **Influence on European Ambient Music** : Jean-Michel Jarre is cited as an influence on the instrumental and ambient electronic music scene in Europe during the late 1990s, fostering a receptive environment for artists like Moby. "música un poco instrumental medio ambiental poco influenciadas por ya Michelle y ya entonces Europa si teníamos un sonido un poco más cercano a movi." ← Music Radar Clan > MOBY · PLAY. Influencia absoluta de la música de gran consumo | https://www.youtube.com/watch?v=VDMYe-qhZCs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jean-michel-jarre ← jean-michel-jarre
 **Pioneer of Electronic Keyboards in Art Rock** : Jean-Michel Jarre was recognized as an art rock artist who enthusiastically adopted and integrated electronic keyboards into his musical output, contributing to the evolving sound of the genre. "We also had art rock types getting into these keyboards, names like Jami Shaljar, Tommida and Vengellis." ← https://www.youtube.com/watch?v=5PJRCC6EwUY ← jean-michel-jarre
 
-
-
 ## awards
 **Knight of the Legion of Honour (1994)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q10855271
 **honorary citizen of Gdańsk (2005)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q58402380

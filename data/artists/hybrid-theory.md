@@ -3,8 +3,8 @@
 ## members
 - Brad Delson
 - Chester Bennington
-- Dave "Phoenix" Farrell (left temporarily)
-- Joseph Hahn
+- Dave "Phoenix" Farrell
+- Joe Hahn
 - Mike Shinoda
 - Rob Bourdon
 
@@ -14,10 +14,8 @@
 **Early Internet Promotion** : Hybrid Theory was an early adopter of internet-based self-promotion, establishing an online street team consisting of volunteers. These volunteers engaged in various chat rooms and music forums to publicize the band's record, although this strategy initially did not lead to widespread success. "They must have been one of the first bands to properly use the internet to publicize themselves." ← https://www.youtube.com/watch?v=cUqdY_T7luM ← hybrid-theory
 **Mandatory Name Change to Linkin Park** : The band was forced to change their name from Hybrid Theory in 1999 to avoid legal issues, as another band with the same name already existed in Wales and was signed to Warner Brothers Records. This legal necessity led to the adoption of the name Linkin Park. "they really didn't have much choice because it turned out that there was already a band in Wales called Hybrid Theory, so they had to change their name to avoid any messy legal situations." ← https://www.youtube.com/watch?v=cUqdY_T7luM ← hybrid-theory
 **Name Change from Zero** : After Chester Bennington joined the band, Zero changed its name to Hybrid Theory. "The band changed their name to Hybrid Theory and they recorded a self-titled EP." ← https://www.youtube.com/watch?v=cUqdY_T7luM ← hybrid-theory
-**Record Label Rejections** : Hybrid Theory faced significant challenges in securing a record deal, being turned down by record labels at least 42 times, which was explicitly stated as not an exaggeration. "The third theory was turned down by record labels at least 42 times." ← https://www.youtube.com/watch?v=cUqdY_T7luM ← hybrid-theory
+**Dozens of Record Label Rejections (1999)** : Hybrid Theory faced significant challenges in securing a record deal, being turned down by record labels at least 42 times, which was explicitly stated as not an exaggeration. "The third theory was turned down by record labels at least 42 times." ← https://www.youtube.com/watch?v=cUqdY_T7luM ← hybrid-theory
 **Rejected Band Names** : Before settling on Linkin Park, the group considered other names such as "Clear" (as in transparent), "Probing Loggers," and "Platinum Lotus Foundation." "The group went through a bunch of possibilities, clear as in transparent, probing loggers. No. Platinum Lotus Foundation." ← https://www.youtube.com/watch?v=cUqdY_T7luM ← hybrid-theory
-
-
 
 ## awards
 **MTV Video Music Award for Best Direction (2001)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q915665
@@ -107,10 +105,3 @@
 **MTV Europe Music Award for Best Rock (2014)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q38138
 **MTV Video Music Award for Best Rock Video (2014)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q915228
 **MTV Europe Music Award for Best World Stage Performance (2014)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q38457
-
-## lists
-**"Soul Mining" (1982) — 1001 Albums You Must Hear Before You Die** : #517, 7.0/10 Scaruffi.
-**"Infected" (1986) — 1001 Albums You Must Hear Before You Die** : #567.
-**"Mind Bomb" (1989) — Scaruffi 1980s** : #753, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Soul Mining" (1982) — Scaruffi 1980s** : #754, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Dusk" (1993) — Sputnikmusic Best Albums 1993** : #190, 3.88 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/

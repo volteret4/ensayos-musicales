@@ -2,8 +2,7 @@
 
 ## curiosities
 **Chelsea Hotel Resident** : Playwright Arthur Miller was one of the notable guests who resided at the Chelsea Hotel in Manhattan. "Arthur Miller." ← https://www.youtube.com/watch?v=LE4YenwmeXM ← arthur-miller ← arthur-miller
-
-
+**Chelsea Hotel Resident** : Playwright Arthur Miller was one of the notable guests who resided at the Chelsea Hotel in Manhattan. "Arthur Miller." ← https://www.youtube.com/watch?v=LE4YenwmeXM ← arthur-miller
 
 ## awards
 **Evelyn F. Burkey Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q122167901
@@ -40,6 +39,3 @@
 **Princess of Asturias Literary Prize (2002)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3332454
 **honorary doctor of the University of Madrid Complutense (2003)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q50621171
 **Jerusalem Prize (2003)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q277787
-
-## charts
-**"Walk Away Renée" — Billboard Year-End Hot 100** : #27, 1966. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

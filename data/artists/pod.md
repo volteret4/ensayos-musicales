@@ -2,7 +2,7 @@
 
 ## genres
 - Christian alternative rock
-- Nu Metal (implied by sound and era context, not explicitly stated, but genre of bands they were associated with)
+- Nu Metal
 - Rock
 
 ## labels
@@ -11,12 +11,11 @@
 
 ## concerts
 - Ozzfest (2000)
-- Ozzfest 2000
 
 ## albums
 **Payable on Death (2003)** : This album features the song "Will You." The video for "Will You" carried a "do-unto-others-as-you-would-have-them-do-unto-you" message. "P.O.D. with Will You from their 2003 album, Payable on Death." ← https://www.youtube.com/watch?v=g-tBn8dsSqw ← pod
-**Satellite (2001) - Breakthrough Album** : Released on September 11, 2001, this album focused on themes of living and striving rather than death and dying. Its positive message resonated with many people seeking hope after the 9/11 attacks, potentially contributing to its popularity. A significant number of listeners were drawn to the album without knowing the band's Christian background, simply appreciating P.O.D. as a great rock band. "Alive from POD and their 2001 Breakthrough album, Satellite. A record all about living and striving instead of death and dying and the awful things that come with life." ← https://www.youtube.com/watch?v=6cbL0zLQeIs ← pod ← pod
-**Satellite (2001) – Breakthrough Album** : This record is centered on themes of living and striving, contrasting with death, dying, and life's hardships. It gained significant popularity due to its positive message, especially as it was released on September 11th, 2001, a time when many were seeking positivity. Many people became fans without realizing the band's Christian background, appreciating the music simply because it was a great rock band. "Alive, from POD and their 2001 Breakthrough album, Satellite, a record all about living and striving instead of death and dying and the awful things that come with life." ← https://www.youtube.com/watch?v=g-tBn8dsSqw ← pod
+**Satellite (2001)** : Released on September 11, 2001, this album focused on themes of living and striving rather than death and dying. Its positive message resonated with many people seeking hope after the 9/11 attacks, potentially contributing to its popularity. A significant number of listeners were drawn to the album without knowing the band's Christian background, simply appreciating P.O.D. as a great rock band. "Alive from POD and their 2001 Breakthrough album, Satellite. A record all about living and striving instead of death and dying and the awful things that come with life." ← https://www.youtube.com/watch?v=6cbL0zLQeIs ← pod ← pod
+**Satellite (2001)** : This record is centered on themes of living and striving, contrasting with death, dying, and life's hardships. It gained significant popularity due to its positive message, especially as it was released on September 11th, 2001, a time when many were seeking positivity. Many people became fans without realizing the band's Christian background, appreciating the music simply because it was a great rock band. "Alive, from POD and their 2001 Breakthrough album, Satellite, a record all about living and striving instead of death and dying and the awful things that come with life." ← https://www.youtube.com/watch?v=g-tBn8dsSqw ← pod
 
 ## songs
 **Alive (2001)** : This song is from their breakthrough album "Satellite" and reflects the album's positive themes of living and striving. The album's release on September 11th, 2001, is noted as a potential factor in its popularity, as its positive message resonated with people searching for hope during a difficult time. "Alive, from POD and their 2001 Breakthrough album, Satellite, a record all about living and striving instead of death and dying and the awful things that come with life." ← https://www.youtube.com/watch?v=g-tBn8dsSqw ← pod
@@ -35,4 +34,3 @@
 **Self-Released EPs Success** : Through their extensive performances at Christian-friendly venues, P.O.D. managed to sell an impressive 40,000 copies of three self-released NDEPs (likely EPs). "in the process they managed to sell 40,000 copies of the three self-released NDEPs which certainly wasn't bad." ← https://www.youtube.com/watch?v=6cbL0zLQeIs ← pod ← pod
 **Unaware Mainstream Audience** : Many mainstream listeners enjoyed P.O.D.'s music without knowing about the band's Christian roots, focusing instead on the quality of their rock sound. "In fact, it's possible that you just heard for the first time that POD was a Christian rock band." ← https://www.youtube.com/watch?v=g-tBn8dsSqw ← pod
 **Undisclosed Christian Roots** : A notable aspect of P.O.D.'s mainstream success was that many fans became engaged with their music without realizing the group's Christian background, simply enjoying them as a great rock band making great music. "But here's the thing, people got into POD without even knowing the group's Christian roots. All they cared about was that this was a great rock band that made great music." ← https://www.youtube.com/watch?v=6cbL0zLQeIs ← pod ← pod
-

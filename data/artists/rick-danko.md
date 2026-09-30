@@ -3,8 +3,6 @@
 ## member of
 - The Band
 
-
-
 ## awards
 **Spellemannprisen i roots og country (1991) — Danko/Fjeld/Andersen** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q18844657
 

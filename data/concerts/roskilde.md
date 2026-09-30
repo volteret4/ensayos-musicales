@@ -12,7 +12,6 @@
 - Bob Marley
 - Prince
 - Radiohead
-- Rage Against The Machine
 - Rage Against the Machine
 - Sex Pistols
 - U2

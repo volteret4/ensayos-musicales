@@ -9,8 +9,7 @@
 **Sonic Youth's Major Label Home** : DGC, a subsidiary of Universal Records, became Sonic Youth's major label home in 1990. The band chose DGC for the security and healthcare benefits, not a large paycheck, marking an "experiment" for major labels on whether indie bands could do business. "And so it came to pass that Sonic Youth signed with DGC, a subsidiary of Universal Records, much to the shock and horror of their indie constituency." ← https://www.youtube.com/watch?v=xdn31jMOOA4 ← dgc ← dgc
 
 ## artists
-- Chris (Novoselic)
-- Chris Novoselic
+- Krist Novoselic
 - Kurt Cobain
 - Nirvana
 - Sloan

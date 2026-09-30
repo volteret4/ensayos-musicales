@@ -5,11 +5,10 @@
 
 ## artists
 - Cinderella
-- Death Leopard
-- Kidros
+- Def Leppard
 - Poison
 - Ratt
-- Robert John "Mut" Lang
+- Robert John "Mutt" Lange
 - Steel Panther
 - Twisted Sister
-
+- Bon Jovi

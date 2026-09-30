@@ -14,7 +14,7 @@
 - Daniel Lanois
 - Matthew Sweet
 - Midnight Oil
-- Rheostatics
+- The Rheostatics
 - Sheryl Crow
 - Spirit of the West
 - The Tragically Hip

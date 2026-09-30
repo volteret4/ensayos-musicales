@@ -1,7 +1,7 @@
 # artist - M.I.A.
 
-## members
-- Maya Arulpragasam
+## member of
+- Travis Scott
 
 ## genres
 - Dream Pop
@@ -12,17 +12,13 @@
 - Trip Pop
 
 ## labels
-- Independent (early internet presence)
+- Independent
 
 ## concerts
 - Vans Warped Tour (multiple times)
 
-## albums
-**Early 2000s Releases (Internet-driven)** : M.I.A. began releasing songs in the early 2000s and effectively leveraged the internet for her rise to prominence. She was one of the first musical artists to gain significant public attention through her online presence, which was crucial for her initial reach. "And when she did start releasing songs in the early 2000s, the internet was her friend. In fact, if you trace back how the internet and music cross-pollinated, you'll find that MIA was one of the first musical artists to gain serious public attention via her online presence." ← Ongoing History of New Music > Driven By Her： Women of the 21st Century | https://www.youtube.com/watch?v=11UsTJQyQds&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-
 ## songs
 **Born Free** : This song is described as a very strong anti-war protest. "MIA and Born Free, a very strong anti-war song." ← Ongoing History of New Music > Songs of Protest | https://www.youtube.com/watch?v=0ARYt4sYT90&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Million-Selling Songs (Throughout Career)** : M.I.A.'s songs have achieved millions in sales, demonstrating her widespread commercial success. "Her songs have sold in the millions." ← Ongoing History of New Music > Driven By Her： Women of the 21st Century | https://www.youtube.com/watch?v=11UsTJQyQds&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## curiosities
 **Artistic Evolution from Visual Arts to Music** : M.I.A. initially began her career as a filmmaker, visual artist, and designer, with her foray into music coming later in her creative journey. "She started as a filmmaker, visual artist, and designer, making music came later." ← Ongoing History of New Music > Driven By Her： Women of the 21st Century | https://www.youtube.com/watch?v=11UsTJQyQds&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
@@ -36,8 +32,6 @@
 **Philanthropic Endeavors** : Her philanthropy extends to building schools in places like Liberia and supporting various forms of pediatric cancer research. "Her philanthropy extends to building schools in places like Liberia. She's also supported various forms of pediatric cancer research." ← Ongoing History of New Music > Driven By Her： Women of the 21st Century | https://www.youtube.com/watch?v=11UsTJQyQds&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Themes in Music and Videos** : Her music and videos are characterized by their strong social and political commentary, exploring themes such as political violence, identity politics, the plight of immigrants, poverty, sexual and gender stereotypes, and the concept of revolution. "Her music and her videos draw on political violence, identity politics, the plight of immigrants, poverty, sexual and gender stereotypes, and the concept of revolution." ← Ongoing History of New Music > Driven By Her： Women of the 21st Century | https://www.youtube.com/watch?v=11UsTJQyQds&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Unexpected Warped Tour Resume Entry** : M.I.A. is listed as an artist whose participation in the Warped Tour might be an unexpected or surprising detail on their resume. "Here are some other artists that you may not have expected to have warped on their resume... MIA..." ← Ongoing History of New Music > 24 Years of the Warped Tour | https://www.youtube.com/watch?v=7jfQaUV6Bq4&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-
-
 
 ## awards
 **Member of the Order of the British Empire** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q12201526

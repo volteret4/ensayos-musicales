@@ -27,16 +27,14 @@
 - Elvis Costello
 - Elvis Presley
 - Fatboy Slim
-- Grimbey
+- Green Day
 - Iggy Pop
 - Joy Division
 - New Order
 - Pearl Jam
 - R.E.M.
-- REM
-- Rage Against The Machine
 - Rage Against the Machine
-- Smashing Pumpkins
+- The Smashing Pumpkins
 - The Cranberries
 - The Cure
 - The Verve

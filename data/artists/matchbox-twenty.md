@@ -12,8 +12,6 @@
 ## curiosities
 **First-Person Lyrical Approach** : Matchbox Twenty was cited as an example of a Post-Grunge band that utilized a "first person approach" in their lyrics, a characteristic that helped define the genre's move towards more direct and accessible songwriting. "Now think about the lyrical writing style of collective soul or bush or third eye blind and matchbox 20. You see what I mean?" ← https://www.youtube.com/watch?v=amHre9ZZFkU ← matchbox-twenty
 
-
-
 ## charts
 **"Bent" — Billboard Year-End Hot 100** : #9, 2000. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 **"If You're Gone" — Billboard Year-End Hot 100** : #6, 2001. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

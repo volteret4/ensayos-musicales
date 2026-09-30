@@ -2,8 +2,7 @@
 
 ## curiosities
 **Japanese Energy Drink Commercial** : Arnold Schwarzenegger appeared in a commercial for an energy drink, presumably in Japan, following a trend of Western celebrities doing commercials overseas to avoid perceived "selling out" domestically. "Arnold Schwarzenegger plugged in energy drink." ← https://www.youtube.com/watch?v=DYtsWfguqGo ← arnold-schwarzenegger ← arnold-schwarzenegger
-
-
+**Japanese Energy Drink Commercial** : Arnold Schwarzenegger appeared in a commercial for an energy drink, presumably in Japan, following a trend of Western celebrities doing commercials overseas to avoid perceived "selling out" domestically. "Arnold Schwarzenegger plugged in energy drink." ← https://www.youtube.com/watch?v=DYtsWfguqGo ← arnold-schwarzenegger
 
 ## awards
 **Knight of the Legion of Honour** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q10855271
@@ -33,8 +32,3 @@
 **Bavarian TV Awards (2022)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q812332
 **White Cross "HONOR ET GLORIA" (2023)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q136395729
 **honorary doctorate (2024)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q11415564
-
-## lists
-**"Egg" (1970) — Scaruffi 1970s** : #262, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Civil Surface" (1974) — Scaruffi 1970s** : #263, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Polite Force" (1971) — Scaruffi 1970s** : #264, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

@@ -6,6 +6,6 @@
 **Raw and Chaotic Precursor** : Eccojams is considered the raw and chaotic precursor to vaporwave, having emerged directly from *Chuck Person's Eccojams Vol. 1* and further developed by artists such as MediaFired and Bodycode. "Es el precursor crudo y caótico del vaporwave, surgido a raíz del citado álbum Jack Persons Eco Yams volumen 1" ← Vaporwave： Mucho más que un Meme | https://www.youtube.com/watch?v=BhOnKc0SxsA
 
 ## artists
-- Bodycode
+- Oneohtrix Point Never
 - MediaFired
 

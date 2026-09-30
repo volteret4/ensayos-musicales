@@ -10,8 +10,6 @@
 **Opposition to Trump Campaign Music Use** : Panic! At The Disco was among a long list of artists who expressed strong opposition to Donald Trump's campaign using their music at political rallies. Despite venues often holding blanket performing rights licenses, artists did not want their work associated with the campaign and many pursued cease and desist orders or lawsuits. "The list of artists against Trump using their music is long." ← Ongoing History of New Music > The 100 Greatest Rock Moments of the Millennium So Far - Part 1： (100-91) | https://www.youtube.com/watch?v=GYUuTbOvyak&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Pop Punk Decline (2010s)** : Despite the general decline of pop punk in the early 2010s, Panic! At The Disco, among other bands, persisted in the genre. "It never went away. I mean, we still had bands like Green Day and the offspring and Blink 2 and Panic at the disco." ← Ongoing History of New Music > The History of the 2010s Part 2： The Role of Indie Rock | https://www.youtube.com/watch?v=sOU54d8mr5k&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
-
-
 ## awards
 **Alternative Press Music Award for Artist of the Year** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q26256412
 

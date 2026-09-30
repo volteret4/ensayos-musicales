@@ -1,37 +1,27 @@
 # artist - Johnny Cash
 
 ## member of
-- Johnny Cash
-- Johnny Cash and the Tennessee 2
-- The Tennessee 3
-
-## members
-- JR Cash
-- John R Cash
-- Johnny Cash
-- June Carter Cash
+- Johnny Cash and the Tennessee Two
+- The Tennessee Three
 
 ## genres
 - Country
 - Country Music
 - Country Rock and Roll
-- Country music
+- Folk
 - Rhythm and Blues
 - Rock and Roll
 - Rock-a-billy
 - Southern Gospel
 - White gospel
-- country
-- rock and roll
 
 ## labels
-- ABC (for Johnny Cash Show)
-- CBS (for rural purge)
+- ABC
+- CBS
 - Columbia
 - Columbia Records
 - Sun
 - Sun Records
-- Sun Records (left)
 - Third Man Records
 
 ## concerts
@@ -46,28 +36,28 @@
 - Acoustic guitar
 
 ## albums
-**American IV: The Man Comes Around (2002) – 87th Studio Album** : Released in the early 2000s, this was Johnny Cash's 87th studio album, produced by Rick Rubin. It featured Cash covering contemporary songs in his distinctive style, with material written by artists such as Paul Simon, Depeche Mode, Sting, The Beatles, The Eagles, and included a duet with Nick Cave. "The result was American 4, the man comes around. Johnny Cash's 87th studio album." ← https://www.youtube.com/watch?v=yuA9Xor8vfw ← johnny-cash
+**American IV: The Man Comes Around (2002)** : Released in the early 2000s, this was Johnny Cash's 87th studio album, produced by Rick Rubin. It featured Cash covering contemporary songs in his distinctive style, with material written by artists such as Paul Simon, Depeche Mode, Sting, The Beatles, The Eagles, and included a duet with Nick Cave. "The result was American 4, the man comes around. Johnny Cash's 87th studio album." ← https://www.youtube.com/watch?v=yuA9Xor8vfw ← johnny-cash
+**American Recordings (Series)** : Johnny Cash's album series, curated by producer Rick Rubin, for which Rubin suggested Cash cover Trent Reznor's "Hurt." This collaboration led to an iconic "bummer cover" that became a cultural touchstone. "For the American Recordings album series, Rubin was curating for Cash" ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
 **At San Quentin (1969)** : Released in 1969, this live album contained the unedited version of "A Boy Named Sue," which included a deliberate swear word that the record label initially considered too strong for his fanbase. The album was primarily bought by adults. "One of the very first records I ever owned was Johnny Cash at San Quentin, which was released in 1969." ← https://www.youtube.com/watch?v=yPok3MemDmE ← johnny-cash
 **Class of '55 (1986)** : An album on which Johnny Cash collaborated with Roy Orbison, Carl Perkins, and Jerry Lee Lewis. Released in 1986, it made the top 20 on the country chart and marked a significant step in Roy Orbison's career resurgence. "He collaborated with his fellow ex-son performers, Johnny Cash, Karl Perkins and Jerry Lee Lewis, on an album called Class of 55." ← Episode 83： ＂Only the Lonely＂ by Roy Orbison | https://www.youtube.com/watch?v=uDvkjXa1ALk
-**Class of 55 (1985)** : This studio album was recorded at Sun Studios, featuring Johnny Cash, Carl Perkins, and Jerry Lee Lewis, with Roy Orbison filling in for the deceased Elvis Presley. While it has its moments, it is not considered a highlight of any of the participating artists' discographies. "Class of 55 has its moment, but isn't a highlight of any of those men's discographies." ← Episode 51： ＂Matchbox＂ by Carl Perkins | https://www.youtube.com/watch?v=0Nrjr0AGd3U
-**Gordon Jenkins Album - Crescent City Blues Inspiration** : Before joining the Air Force, Cash heard a song called "Crescent City Blues" from a Gordon Jenkins album owned by a fellow airman in Germany. This song's melody and theme of being "stuck in Crescent City" significantly inspired Cash's later work, particularly "Folsom Prison Blues," mirroring its structure and sentiment. "But I'm stuck in Crescent City just watching live and mosey by." ← Episode 37： ＂I Walk The Line＂ by Johnny Cash | https://www.youtube.com/watch?v=1uhw6KjgSME
-**Ride This Train (1960) – Train Song Collection** : Johnny Cash released this album in 1960, featuring a collection of songs all centered around the theme of trains. "Maybe it was Johnny Cash. He released an album in 1960 entitled Ride This Train, featuring a bunch of train songs." ← https://www.youtube.com/watch?v=Dm5N6yDRxXQ ← johnny-cash
+**Class of '55 (1986)** : This studio album was recorded at Sun Studios, featuring Johnny Cash, Carl Perkins, and Jerry Lee Lewis, with Roy Orbison filling in for the deceased Elvis Presley. While it has its moments, it is not considered a highlight of any of the participating artists' discographies. "Class of 55 has its moment, but isn't a highlight of any of those men's discographies." ← Episode 51： ＂Matchbox＂ by Carl Perkins | https://www.youtube.com/watch?v=0Nrjr0AGd3U
+**Ride This Train (1960)** : Johnny Cash released this album in 1960, featuring a collection of songs all centered around the theme of trains. "Maybe it was Johnny Cash. He released an album in 1960 entitled Ride This Train, featuring a bunch of train songs." ← https://www.youtube.com/watch?v=Dm5N6yDRxXQ ← johnny-cash
 
 ## songs
 **A Boy Named Sue (1969)** : Featured on the album "At San Quentin," this song includes the deliberate use of the phrase "son of a bitch" in its original album version. The record label initially bleeped the word in some contexts due to concerns about Johnny Cash's audience. "But you ought to think me before I die for the gravel any guts in the spittier, because I'm the son of a bitch that named you Sue." ← https://www.youtube.com/watch?v=yPok3MemDmE ← johnny-cash
-**All My Love Was Children** : Johnny Cash co-wrote this song with Carl Perkins, which became the B-side to Perkins' "Blue Suede Shoes." While not considered the best work by either artist, it marked the beginning of a significant working relationship that lasted for decades, benefiting both men. "It's not the greatest song either man ever wrote by any means but it was the start of a working relationship that would continue often done for decades and which both men would benefit from significantly." ← Episode 37： ＂I Walk The Line＂ by Johnny Cash | https://www.youtube.com/watch?v=1uhw6KjgSME
 **Ballad of a Teenage Queen (1957)** : Johnny Cash was made to record this song, written by Jack Clement, in mid-November 1957. The experience of being compelled to record Clement's material, despite writing his own classics like "Big River," was a clear reason for Cash's decision to leave Sun Records. "It's quite easy to see from that, which he recorded in mid-November, why Cash left Sun." ← Episode 66： ＂Great Balls of Fire＂ by Jerry Lee Lewis | https://www.youtube.com/watch?v=CVp5e4EWCqI
-**Belchezard** : This was the first song Johnny Cash wrote himself, based on a Bible story. He brought it to a jam session with Luther Perkins and Marshall Grant, who were astonished by the very idea of writing a song, as it had not occurred to them. "The other two were amazed, not so much by the song itself, but by the fact that you could write a song at all." ← Episode 37： ＂I Walk The Line＂ by Johnny Cash | https://www.youtube.com/watch?v=1uhw6KjgSME
+**The Beast in Me (Not dated)** : This song, originally written by Nick Lowe, was notably covered by Johnny Cash. This cover highlights Lowe's impact as a songwriter and the crossover appeal of his compositions to other legendary artists. "writing gems like The Beast in Me, a song covered by Johnny Cash among others." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
+**Belshazzar** : This was the first song Johnny Cash wrote himself, based on a Bible story. He brought it to a jam session with Luther Perkins and Marshall Grant, who were astonished by the very idea of writing a song, as it had not occurred to them. "The other two were amazed, not so much by the song itself, but by the fact that you could write a song at all." ← Episode 37： ＂I Walk The Line＂ by Johnny Cash | https://www.youtube.com/watch?v=1uhw6KjgSME
 **Big River (1957)** : This song is mentioned as one of Johnny Cash's best materials, a classic, written by Cash himself. "While Cash was writing some of his best material, songs like Big River that remain classics, Clement was making him record songs Clement had written himself, like Ballad of a Teenage Queen." ← Episode 66： ＂Great Balls of Fire＂ by Jerry Lee Lewis | https://www.youtube.com/watch?v=CVp5e4EWCqI
 **Cry Cry Cry** : Johnny Cash performed this song live at the Overton Park Shell concert in Memphis. "There'll be Johnny Cash in the Tennessee too with Cry Cry Cry." ← https://www.youtube.com/watch?v=8q2bRZyHnHE ← johnny-cash
-**Cry! Cry! Cry!** : This sad song, written by Johnny Cash, was chosen by Sam Phillips as the B-side to "Hey Porter" after Phillips deemed "Folsom Prison Blues" unsuitable for the first single. "Cry! Cry! Cry! both charted" ← Episode 37： ＂I Walk The Line＂ by Johnny Cash | https://www.youtube.com/watch?v=1uhw6KjgSME
-**Folsom Prison Blues** : Johnny Cash performed this song live at the Overton Park Shell concert in Memphis. "There'll be Johnny Cash in the Tennessee too with Cry Cry Cry and Folsom Prison Blues." ← https://www.youtube.com/watch?v=8q2bRZyHnHE ← johnny-cash
+**Cry Cry Cry** : This sad song, written by Johnny Cash, was chosen by Sam Phillips as the B-side to "Hey Porter" after Phillips deemed "Folsom Prison Blues" unsuitable for the first single. "Cry! Cry! Cry! both charted" ← Episode 37： ＂I Walk The Line＂ by Johnny Cash | https://www.youtube.com/watch?v=1uhw6KjgSME
+**Folsom Prison Blues (1955)** : Johnny Cash performed this song live at the Overton Park Shell concert in Memphis. "There'll be Johnny Cash in the Tennessee too with Cry Cry Cry and Folsom Prison Blues." ← https://www.youtube.com/watch?v=8q2bRZyHnHE ← johnny-cash
 **Folsom Prison Blues (1955)** : This song became Johnny Cash's second single and a defining song for his career, reaching number 4 on the country and western chart and establishing him as a genuine country music star. The concept was inspired by the film "Inside the Walls of Folsom Prison" and musically influenced by Gordon Jenkins' "Crescent City Blues" and Jimmie Rodgers' "Blue Yodel No. 1," particularly the line about shooting Thelma. Cash combined the bleak aimlessness of killing for pleasure with the prison theme, adapting "Crescent City Blues" lyrics. "Folsom Prison Blues became Cash's second single and one of the songs that would define him for the rest of his career." ← Episode 37： ＂I Walk The Line＂ by Johnny Cash | https://www.youtube.com/watch?v=1uhw6KjgSME
 **Get Rhythm** : This rock and roll song was written by Johnny Cash to give to Elvis Presley, and Cash cared about it much less than "I Walk the Line." Its lyrics included the line "get rhythm if you get the blues." The song eventually became a hit for Cash himself and a regular feature in his live performances. "That song itself would go on to become a hit for Cash and a staple of his live shows." ← Episode 37： ＂I Walk The Line＂ by Johnny Cash | https://www.youtube.com/watch?v=1uhw6KjgSME
 **Hey Porter** : Inspired by the sound of the railway, this song featured a distinctive "boom-chick-a-boom" rhythm that would later become a trademark of Johnny Cash's sound. Sam Phillips liked it and the Tennessee 3 (later Johnny Cash and the Tennessee 2) set to record it. The lyrics describe a traveler eagerly anticipating crossing the Mason-Dixon Line and wishing for the train to slow down or stop to allow exploration. "Hey Porter, hey Porter, would you tell me the time?" ← Episode 37： ＂I Walk The Line＂ by Johnny Cash | https://www.youtube.com/watch?v=1uhw6KjgSME
 **Hurt (2002)** : Cash's rendition of the Nine Inch Nails song is described as "one of the most painfully honest recordings of all time." The accompanying video, which intersperses shots of Cash in his prime with footage of him as an older man, brought Trent Reznor to tears. This cover sold nearly 3 million downloads, accumulated tens of millions of YouTube views, and earned numerous music awards from both the rock and country establishments, becoming the biggest hit of his career. "The result was one of the most painfully honest recordings of all time, especially when you see the video which intersperses shots of Cash and is primed with the older man that he become." ← https://www.youtube.com/watch?v=yuA9Xor8vfw ← johnny-cash
+**Hurt (2003)** : Johnny Cash's iconic "bummer cover" of Trent Reznor's industrial rock ballad, curated by producer Rick Rubin for the "American Recordings" series. Cash's 2003 version became a profound cultural moment, partly due to its music video which captured him in his final months, reflecting on his public struggles and storied career. "Cash's version of Hurt became a cultural moment, both for the recording and for its music video, which captured Cash in the final months of his life, reflecting on his well-publicized demons as well as his storied career." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
 **I Walk the Line (1956)** : This song was written by Johnny Cash while on the road, reflecting on his struggle to remain faithful to his wife and, implicitly, to his God. It was possibly inspired by a line in Tennessee Ernie Ford's hit "Sixteen Tons." Cash wanted to record it as a slow, plaintive ballad, but Sam Phillips insisted on a faster, rock and roll tempo to suit Cash's rock and roll audience, seeking a strong rhythm for "universality." They compromised by recording two versions, and Phillips released the faster one, much to Cash's initial dismay. Despite Cash's initial dislike of the faster sound, the song became a massive hit, reaching number one on the country jukebox chart, making the top 20 in the pop chart, and selling over two million copies as a single, proving Phillips' commercial instincts. "I Walk the Line" features a highly unusual structure with a key change after every verse: starting in F, moving to B flat, then E flat, returning to B flat, and finally back to F (an octave lower), suggesting a natural cycle mirroring the lyrical metaphors of tides, heartbeat, day and night. The verses use only three chords, but uniquely start with the dominant chord, an unstable choice inspired by Cash having once threaded a tape backwards. The humming at the start of each verse, Cash claimed, was to help him find the right note due to the frequent key changes. "Phillips had unquestionably had the right instincts commercially at least." ← Episode 37： ＂I Walk The Line＂ by Johnny Cash | https://www.youtube.com/watch?v=1uhw6KjgSME
-**Little Wollipoga (Year Unspecified)** : This song was written by Johnny Cash and later renamed "Your My Baby" for Roy Orbison's version, released as the B-side to "Rock House." "The B-side was a song that Johnny Cash had written called Little Wollipoga." ← Episode 42： ＂Ooby Dooby＂ by Roy Orbison and the Teen Kings | https://www.youtube.com/watch?v=1zvzpXqr-k8
 **Ring of Fire (1963)** : In 2004, the makers of Preparation H hemorrhoid ointment offered a significant sum of money to Johnny Cash's estate for the use of "Ring of Fire" in a commercial. The estate, however, declined the offer. "In 2004, the people who make preparation H approached the estate of Johnny Cash with bags of money asking, pretty please, could they use a song Ring of Fire in a commercial for their hemorrhoid ointment? They said no." ← https://www.youtube.com/watch?v=aSk1XQHNkd8 ← johnny-cash
 
 ## curiosities
@@ -123,8 +113,7 @@
 **Touring with Wanda Jackson and Elvis Presley** : Johnny Cash was one of Bob Neal's major acts and toured on the same bill as Elvis Presley and Wanda Jackson. ← Episode 43： ＂I Gotta Know＂ by Wanda Jackson | https://www.youtube.com/watch?v=gEInec4z65Q
 **Unhelpful Advice to Orbison** : Johnny Cash gave Roy Orbison Sam Phillips' phone number and advised him to say Cash had sent him, which initially resulted in Phillips slamming the phone down. Cash also suggested Orbison sing in a lower register and change his name, advice Orbison never took. "Cash gave Orbison the phone number for Sam Phillips and told him to tell Phillips that Cash had sent him. He also advised Orbison that if he wanted to have any success as a musician he should probably start singing in a lower register and maybe change his name." ← Episode 42： ＂Ooby Dooby＂ by Roy Orbison and the Teen Kings | https://www.youtube.com/watch?v=1zvzpXqr-k8
 **Voice Description** : Even as a young man, Johnny Cash's voice was described as if "carved out of rock and imbued with the spirit of an Old Testament prophet." He didn't have a huge range but possessed an astonishingly sonorous, resonant bass-baritone that commanded attention. "Cash never had a huge range, but his voice had a sonority to it that was quite astonishing, a resonant bass baritone that demanded you pay attention to what it had to say." ← Episode 37： ＂I Walk The Line＂ by Johnny Cash | https://www.youtube.com/watch?v=1uhw6KjgSME
-
-
+**Country Music Association Song of the Year (2003)** : Johnny Cash's cover of "Hurt" was awarded the Country Music Association's Song of the Year Prize in the US, recognizing its significant impact despite not being a major radio or US chart hit. "Hurt won the Country Music Association's Song of the Year Prize" ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
 
 ## awards
 **Library of Congress Living Legend** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q6542686

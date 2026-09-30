@@ -102,6 +102,12 @@
 **Tim Buckley's Exploration** : Tim Buckley incorporated elements of jazz into his music. "cycling through folk, psych, bits of jazz, fun, and soul." ← Ongoing History of New Music > Musical Offspring | https://www.youtube.com/watch?v=MmXDbXI6Sqk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Traditional Album Format** : Before 1965, albums were primarily reserved for "proper music" like jazz, classical recordings, soundtracks, and Broadway cast recordings, distinguishing them from the singles-driven pop and rock and roll markets. ← Ongoing History of New Music > Theories, Thoughts, and Half-Baked Ideas | https://www.youtube.com/watch?v=eqTFinLk3oU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Use of Mutes** : Mutes are a common accessory in jazz music, particularly for brass instruments like trumpets and trombones, allowing musicians to modify sound and integrate into combos or orchestras. "They're in jazz." ← Ongoing History of New Music > Rock Explainer 4 | https://www.youtube.com/watch?v=D8GU8ZpSgY8&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Early Grammy Category** : Jazz was one of the established Grammy award categories from the inception of the awards in 1959. "Jazz, classical, pop, country, Broadway, movie soundtracks, even comedy and children's music had Grammy award categories." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
+**Jazz-Pop Standard Recognition** : "The Shadow of Your Smile," a jazzy pop standard, won the 1966 Grammy for Song of the Year, despite the presence of more culturally impactful songs like The Beatles' "Yesterday." This win reflected the Academy's preference for traditional sounds over emerging rock music in the mid-1960s. "This is the Shadow of Your Smile, winner of the 1966 Grammy for Song of the Year. It's a jazzy pop standard". ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
+**Grammy Success in the 2000s** : Jazz-pop vocalists and jazz covers, often fitting the "Starbucks album" profile, found Grammy success in the 2000s. Examples include Nora Jones's "Come Away With Me" (2003 AOTY) and Herbie Hancock's "River: The Joni Letters" (2008 AOTY), which featured jazz interpretations of Joni Mitchell's songs. "Album of the Year winners that got their early boost as a side dish to a cafe latte included 2003 winner Come Away With Me by Jazz Pop Vocalist Nora Jones." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
+**Jazz as Sting's Musical Foundation** : While Sting was inspired by rock and roll, he "made his bones musically speaking in jazz," highlighting that his foundational musical training and expertise were rooted in this genre. "Sting was eclectic from the start. He was fired up by rock and roll, but really did make his bones musically speaking in jazz." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
+**Louis Armstrong as Jazz Legend** : Louis Armstrong is referred to as a "jazz legend" and an "American icon," noted for his unlikely pop hits in the 1960s, including "Hello Dolly" and "What A Wonderful World." "number 8 on my second chance hits list is an unlikely standard by a jazz legend." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c42e
+**Sting's Musical Roots** : For Sting, his solo debut album "The Dream of the Blue Turtles" in 1985 was a "return to his roots as a jazz player in Newcastle." He assembled a band of seasoned jazz players for the album. "To Sting himself, it was a return to his roots as a jazz player in Newcastle." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef30c30a1408dc2922b
 
 ## artists
 - Amy Winehouse
@@ -109,15 +115,15 @@
 - Beastie Boys
 - Benny Goodman
 - Bill Doggett
-- Billy Holiday
+- Billie Holiday
 - Blood, Sweat & Tears
 - Bob Thiele
 - Bob Wills
 - Bob Wills and His Texas Playboys
 - Bobby Darin
-- Book Ram
+- Buck Ram
 - Buddy Rich
-- Can
+- CAN
 - Charles Mingus
 - Charlie Christian
 - Charlie Parker
@@ -130,9 +136,8 @@
 - Dinah Washington
 - Dizzy Gillespie
 - Django Reinhardt
-- Donnie Hathaway
+- Donny Hathaway
 - Duke Ellington
-- Earth Wind & Fire
 - Earth, Wind & Fire
 - Eddie Lang
 - Elvis Costello
@@ -140,7 +145,7 @@
 - George Benson
 - Gil Scott-Heron
 - Gino Vannelli
-- Glüleg
+- Glueleg
 - Ian Thornley
 - Jack L. Cooper
 - Jack Miller
@@ -152,26 +157,24 @@
 - Joni Mitchell
 - Kamasi Washington
 - Kendrick Lamar
-- LeVern Baker
+- LaVern Baker
 - Lenny Kravitz
 - Les Paul
 - Lillian Hardin
 - Lionel Hampton
-- Living Color
 - Living Colour
 - Louis Armstrong
 - Louis Jordan
 - MF Doom
 - Malcolm Cecil
-- Manfred Mann (band)
+- Manfred Mann
 - Manu Dibango
 - Massive Attack
-- Mez Mezrow
-- Mickey Baker (MacHuston Baker)
+- Mezz Mezzrow
+- Mickey Baker
 - Miles Davis
 - Mingus Big Band
 - Nat King Cole Trio
-- Nora Jones
 - Norah Jones
 - Ohio Players
 - Oscar Peterson
@@ -180,14 +183,13 @@
 - Portishead
 - Quincy Jones
 - Ray Charles
-- Ray Davis
+- Ray Davies
 - Red Hot Chili Peppers
 - Ruth Brown
 - Sarah Vaughan
 - Shirley Horn
-- Sister Rosetta Tharp
+- Sister Rosetta Tharpe
 - Sonny Rollins
-- StereoLab
 - Stereolab
 - Sun Ra
 - Terri Lyne Carrington
@@ -195,14 +197,20 @@
 - The Police
 - The Smashing Pumpkins
 - The White Stripes
-- Thelonius Monk
+- Thelonious Monk
 - Thomas Dorsey
 - Thundercat
 - Tim Buckley
 - Tom Waits
 - Tommy Dorsey
 - Traffic
-- UB Blake
+- Eubie Blake
 - War
-- Wu Tang Clan
-
+- Wu-Tang Clan
+- Stan Getz
+- OutKast
+- Andre 3000
+- Sting
+- Last Exit
+- Newcastle Big Band
+- The Pointer Sisters

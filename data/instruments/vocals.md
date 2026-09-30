@@ -12,14 +12,14 @@
 - Dave Grohl
 - David Gilmour
 - Elvis Presley
-- Eric Burden
+- Eric Burdon
 - Florence + The Machine
 - Iggy Pop
-- Malisha Fox
 - Olivia Newton-John
 - Paul Jones
 - The Black Keys
 - The Crickets
 - The Strokes
 - Thundercat
-
+- Chris Cornell
+- Sting

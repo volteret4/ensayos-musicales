@@ -1,8 +1,8 @@
 # artist - Poison
 
 ## members
+- Bret Michaels
 - CC Deville
-- Poison's singer
 
 ## genres
 - Glam Metal
@@ -11,8 +11,8 @@
 - Spandex metal
 
 ## songs
-**Fallen Angel (Year Implied)** : This song is mentioned in an alleged quote attributed to Bono, where he supposedly listed it as one of his personal favorite pieces of CC Deville's work. ← https://www.youtube.com/watch?v=CkSIErb0hxY ← poison
-**Unskinny Bop (Year Implied)** : This song is mentioned in an alleged quote attributed to Bono, where he supposedly listed it as one of his personal favorite pieces of CC Deville's work, praising its "deep, meaningful lyrics" that made him work harder to sharpen his own vocal skills. ← https://www.youtube.com/watch?v=CkSIErb0hxY ← poison
+**Fallen Angel (1988)** : This song is mentioned in an alleged quote attributed to Bono, where he supposedly listed it as one of his personal favorite pieces of CC Deville's work. ← https://www.youtube.com/watch?v=CkSIErb0hxY ← poison
+**Unskinny Bop (1990)** : This song is mentioned in an alleged quote attributed to Bono, where he supposedly listed it as one of his personal favorite pieces of CC Deville's work, praising its "deep, meaningful lyrics" that made him work harder to sharpen his own vocal skills. ← https://www.youtube.com/watch?v=CkSIErb0hxY ← poison
 
 ## curiosities
 **"New Rockers" (Late 1980s)** : Identified as one of the "new rockers" of the late 1980s, characterized by "more flash than substance," during a period when pop music was dominant. "The new rockers, Poison, Motley Crew, Quiet Rhyth, were really more flash than substance." ← https://www.youtube.com/watch?v=MK7L0eCpDHc ← poison
@@ -22,8 +22,6 @@
 **Decline of "Cheesy Pop Metal" (1991)** : Anthony Kiedis, in his autobiography "Scar Tissue," identified Poison as one of the "cheesy pop metal bands" that were "finished" by 1991, signaling a changing of the musical guard. "Cheesy pop metal bands like Warren's and Poison and Skid Row were finished." ← https://www.youtube.com/watch?v=Rf1tFWQg51Y ← poison ← poison
 **Glam Metal Band** : Poison is identified as a glam metal band, a direct descendant of glam rock and hair metal. "poisons." ← https://www.youtube.com/watch?v=blDNqVFheAw ← poison ← poison
 **Joe's Obsession** : Mentioned by "Joe" as his particular 80s musical obsession, categorized under "Spandex metal." "Hi, I'm Joe. Hi, Joe. I'm into Spandex, metal, like, you know, Motley crew and poison." ← https://www.youtube.com/watch?v=vev8lzfW6Xo ← poison ← poison
-
-
 
 ## charts
 **"Nothin' but a Good Time" — Billboard Year-End Hot 100** : #98, 1988. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

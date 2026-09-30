@@ -6,8 +6,6 @@
 ## curiosities
 **Brooklyn Emergence** : Type O Negative emerged from Brooklyn following the initial wave of American goth acts, contributing to the genre's expansion. "Then came type-oh negative out of Brooklyn." ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← type-o-negative
 
-
-
 ## lists
 **"October Rust" (1996) — AOTY Must Hear 1990s** : #168, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
 **"Life Is Killing Me" (2003) — AOTY Must Hear 2000s** : #353, 60 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/

@@ -7,7 +7,7 @@
 
 ## artists
 - Albert Ammons
-- Barry Gordy Jr.
+- Berry Gordy
 - Fats Domino
 - Jimmy Yancey
 - Wanda Jackson

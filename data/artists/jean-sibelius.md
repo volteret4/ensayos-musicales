@@ -6,8 +6,6 @@
 ## curiosities
 **Use of Devil's Triad** : Sibelius, an esteemed classical composer, is noted for his use of the "devil's tri tone" (flattened fifth) in his classical compositions. His presence on this list reinforces that this dissonant interval was a legitimate and recognized tool for many classical greats. "But then it did show up in a lot of classical compositions from people like Beethoven, Wagner, Debussy, Lyst, Sabelius, Bartok, dozens of others." ← https://www.youtube.com/watch?v=41eKVp8JIhU ← jean-sibelius
 
-
-
 ## awards
 **Grand Officer of the Legion of Honour** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q10855216
 **Honorary Member of the International Society for Contemporary Music** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q126966959
@@ -23,7 +21,3 @@
 **Grand Cross of the Order of the White Rose of Finland (1950)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q23773332
 **Wihuri Sibelius Prize (1953)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q2569837
 **Finnish Music Hall of Fame (2018)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q74044461
-
-## lists
-**"Ea Taesse" (2006) — Sputnikmusic Best Albums 2006** : #116, 4.04 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/
-**"Ea II" (2009) — Sputnikmusic Best Albums 2009** : #12, 4.23 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2009/

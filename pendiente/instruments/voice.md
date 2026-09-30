@@ -6,5 +6,5 @@
 
 ## artists
 - James Blake
-- Lee Amgala Gheri
+- Liam Gallagher
 

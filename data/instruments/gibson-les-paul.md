@@ -8,14 +8,12 @@
 ## artists
 - Adam Jones
 - Aerosmith
-- Billy Joe (Armstrong)
-- Billy Joe Armstrong
+- Billie Joe Armstrong
 - Black Sabbath
 - Bob Marley
 - Dave Grohl
 - Eric Clapton
 - Guns N' Roses
-- Guns n' Roses
 - Jeff Beck
 - Jerry Cantrell
 - Jimmy Page
@@ -26,7 +24,7 @@
 - Paul McCartney
 - Pete Townshend
 - Slash
-- Smashing Pumpkins
+- The Smashing Pumpkins
 - The Beatles
 - The Edge
 - The Rolling Stones

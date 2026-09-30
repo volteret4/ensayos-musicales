@@ -5,7 +5,6 @@
 - David Hackney
 - Dennis Hackney
 - Julian Hackney
-- Three Afro-American brothers
 
 ## genres
 - Funk
@@ -23,13 +22,12 @@
 - Universal
 
 ## albums
-**For All the World to See (Released by Drag City Records)** : This album, released by Drag City Records decades after its initial recording, compiled the seven songs commissioned by Columbia in 1975. Its release led to the belated recognition of Death as pioneers of punk rock, introducing their sound to a world finally ready for it. "One thing led to another and those old master tapes from 1975 made their way to a label called Drag City Records, who released those seven songs commissioned by Columbia on an album entitled For All the World to See." ← https://www.youtube.com/watch?v=Cy5SCQV0HAY ← death ← death
-**For the Whole World To See (2009) – Reissue of 1975 Material** : This album, released in 2009, featured the original tapes from 1975, showcasing music that was ahead of its time. "That led to a reissue of the original tapes in 2009, and an album called For the Whole World To See. This is originally from 1975." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← death
-**Live at Abbey Road (Year Unspecified) - Double 7-inch** : A live recording from Abbey Road, released as a double 7-inch by Universal. "Salen de leth, un directo en el Abbey Road, en dos 7 pulgadas por un universal." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← death ← death
+**...For the Whole World to See (2009)** : This album, released by Drag City Records decades after its initial recording, compiled the seven songs commissioned by Columbia in 1975. Its release led to the belated recognition of Death as pioneers of punk rock, introducing their sound to a world finally ready for it. "One thing led to another and those old master tapes from 1975 made their way to a label called Drag City Records, who released those seven songs commissioned by Columbia on an album entitled For All the World to See." ← https://www.youtube.com/watch?v=Cy5SCQV0HAY ← death ← death
+**...For the Whole World to See (2009)** : This album, released in 2009, featured the original tapes from 1975, showcasing music that was ahead of its time. "That led to a reissue of the original tapes in 2009, and an album called For the Whole World To See. This is originally from 1975." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← death
+**Live at Abbey Road** : A live recording from Abbey Road, released as a double 7-inch by Universal. "Salen de leth, un directo en el Abbey Road, en dos 7 pulgadas por un universal." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← death ← death
 
 ## songs
-**Early 1970s Recordings (Rediscovered 2009)** : Death's early 1970s recordings, rediscovered in 2009, contained music that sounded remarkably "punky." The band, composed of three Black brothers from Detroit, may have been creating this music before the Ramones' first gig in 1974, suggesting they could be the first punk band. "Recording from the early 1970s started making the rounds and damn these songs, sure, sounded pretty punky." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ ← death
-**Keep On Knockin (1975/2009)** : This track, by three black men from Detroit, is from their material originally recorded in 1975 and reissued in 2009, highlighting their retroactive recognition as one of America's most important pre-punk bands. "From Detroit, that's Death with Keep On Knockin, three black men from Detroit, who, albeit retroactively, are considered to be one of the most important pre-punk bands in America." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← death
+**Keep On Knockin (1975)** : This track, by three black men from Detroit, is from their material originally recorded in 1975 and reissued in 2009, highlighting their retroactive recognition as one of America's most important pre-punk bands. "From Detroit, that's Death with Keep On Knockin, three black men from Detroit, who, albeit retroactively, are considered to be one of the most important pre-punk bands in America." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← death
 **Politicians in My Eyes (1975)** : This song, released as a seven-inch single in 1975, became a highly sought-after collector's item, exchanging hands for up to a thousand dollars. It was later digitized and shared as MP3s, eventually leading to the band's rediscovery, and is now recognized as an important example of proto-punk music from 1975. "Meanwhile though, a seven inch single for a song called Politicians in My Eyes became a collector's item, exchanging hands for up to a thousand dollars." ← https://www.youtube.com/watch?v=Cy5SCQV0HAY ← death ← death
 
 ## curiosities
@@ -49,8 +47,6 @@
 **Reunion Performances** : Following their rediscovery, the band was enticed to reunite and even performed at one of Joey Ramone's Memorial birthday parties, a testament to their newly recognized status in punk history. "The band was enticed to reunite and even performed at one of Joey Ramones Memorial birthday parties." ← https://www.youtube.com/watch?v=Cy5SCQV0HAY ← death ← death
 **Revival by Sons' Band Rough Frances** : The music of Death was rediscovered and brought back to public attention when the three sons of one of the original members formed a band called Rough Frances and began covering their father's songs after finding out about his past online. "But then, the three sons of one of the members started covering their dad's songs in a band called Rough Frances after discovering their dad's previous life online." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← death
 **Unreleased Pioneer Punk** : Death, a band founded by three African-American brothers, created fast, raw, and aggressive rock music. They recorded seven songs that remained unreleased because they refused to change their band's name, demonstrating their uncompromising artistic integrity. These songs were remarkably identical to the punk sound that would emerge in the second half of the 1970s, but they were created four years ahead of their time, a testament to their foresight and unique sound. "Graban tantos los siete canciones que no llegaron a la publicar por negarse a cambiar el nombre de su banda." ← El punk existía antes de Sex Pistols (y era algo salvaje) | https://www.youtube.com/watch?v=ilXpBujkWZE
-
-
 
 ## lists
 **"Leprosy" (1988) — AOTY Must Hear 1980s** : #21, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/

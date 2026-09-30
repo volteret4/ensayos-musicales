@@ -2,4 +2,3 @@
 
 ## member of
 - Bo Donaldson and the Haywoods
-

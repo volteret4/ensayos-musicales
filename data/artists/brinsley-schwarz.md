@@ -1,20 +1,29 @@
 # artist - Brinsley Schwarz
 
+## members
+- Brinsley Schwarz (guitarist)
+- Ian Gomm
+- Nick Lowe
+
 ## genres
+- American Country Music
+- Power Pop
 - Pub Rock
 
+## albums
+**Nervous On the Road (1972)** : An album by the band where Nick Lowe wrote almost every song that was not a cover, demonstrating his prolific songwriting. "1972's Nervous On the Road." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**The New Favorites of Brinsley Schwarz (1974)** : Their final album, produced by Dave Edmonds. On this album, Nick Lowe experienced a significant songwriting breakthrough with the original version of "What's So Funny About Peace, Love and Understanding." However, nothing by Brinsley Schwarz ever charted in England or America. "1974's The New Favorites of Brindsley Schwartz." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+
+## songs
+**Cruel to Be Kind** : A song that Nick Lowe wrote with his bandmate Ian Gomm during their time in Brinsley Schwarz. Lowe modeled it after "The Love I Lost," an early disco hit by Harold Melvin and the Blue Notes, which he intended to adapt into a power pop song. The Brinsley's version never saw release. "Crull to be kind was a song Low wrote back in his Brinsley shorts days with his bandmate Ian Gomb." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**What's So Funny About Peace, Love and Understanding (1974)** : The original version of this song, recorded for their final album, *The New Favorites of Brinsley Schwarz*. It was described as a "remarkably meta song" because, despite the pub rock genre's rejection of 60s hippie rock, Nick Lowe embraced the hippie ideal of peace and love, delivering a cynically phrased but earnestly delivered plea over a sparkling Powerpop melody. This version, however, never saw release. "The original version of what's so funny about peace, love and understanding." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+
 ## curiosities
+**Popularity in England (1976)** : Brimsley Schwartz was mentioned as a prominent band in England during the Ramones' first visit in July 1976, suggesting they were part of the popular pub rock scene. "Dr. Philgit was the big band at the time in Brimsley Schwartz." ← https://www.youtube.com/watch?v=wYuNolSDLFM ← brimsley-schwartz ← brimsley-schwartz
 **Prominence in UK Pub Rock Scene** : Brinsley Schwarz was a notable band in the English pub rock scene during the Ramones' initial visit to the UK in 1976, mentioned alongside Dr. Feelgood. "I remember at the time the big thing going on in England was Pobrock, Dr. Felga, was the big band at the time in Brimsley Schwartz." ← https://www.youtube.com/watch?v=j8uk7BnbXwU ← brinsley-schwarz
-
-
-
-## charts
-**"Slippin' into Darkness" — Billboard Year-End Hot 100** : #23, 1972. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"The Cisco Kid" — Billboard Year-End Hot 100** : #55, 1973. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Gypsy Man" — Billboard Year-End Hot 100** : #93, 1973. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Me and Baby Brother" — Billboard Year-End Hot 100** : #95, 1974. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Why Can't We Be Friends?" — Billboard Year-End Hot 100** : #24, 1975. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Summer" — Billboard Year-End Hot 100** : #74, 1976. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-
-## lists
-**"The World Is a Ghetto" (1972) — 1001 Albums You Must Hear Before You Die** : #267.
+**Popularity in England (1976)** : Brimsley Schwartz was mentioned as a prominent band in England during the Ramones' first visit in July 1976, suggesting they were part of the popular pub rock scene. "Dr. Philgit was the big band at the time in Brimsley Schwartz." ← https://www.youtube.com/watch?v=wYuNolSDLFM ← brimsley-schwartz
+**Ambitious Live Performers** : The band was ambitious, playing numerous clubs and colleges across England, and they even had the opportunity to open for Paul McCartney. "Brindsley Schwartz, the band, were ambitious. They played clubs and colleges all over England and even opened for Paul McCartney." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**Band Naming** : The band was named after their guitarist, Brinsley Schwarz. "Named after their guitarist, Brindsley Schwartz." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**Initial Rootsy Sound** : Initially, their sound was so rootsy that it bordered on American country music. "This band had a sound so rootsy that at first it bordered on American country music." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**Members Form The Rumor** : After Brinsley Schwarz split, several former members regrouped to form The Rumor, which became Graham Parker's backing band. "Soon several former members of that band became The Rumor, Graham Parker's backing band." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**Nick Lowe as "Secret Weapon"** : The band possessed a "secret weapon" in their songwriter, Nick Lowe, who was in his early 20s and hailed from Walton on Thames in Surrey, possessing a notable gift for melody. "They also had a secret weapon, a songwriter in his early 20s from Walton on Thames in Surrey, who had a gift from Melody. His name was Nick Lo." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3

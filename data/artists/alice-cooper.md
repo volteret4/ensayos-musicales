@@ -1,20 +1,16 @@
 # artist - Alice Cooper
 
-## members
-- Vincent Furnier
-
 ## genres
 - Art rock
-- Garage Rock (evolution from)
+- Garage Rock
 - Glam Rock
 - Hard Rock
 - Heavy metal
 - Industrial music
 - Metal
-- Punk Rock (early perception)
+- Punk Rock
 
 ## albums
-**Breakthrough Albums (Early 1970s)** : Bob Ezrin produced Alice Cooper's breakthrough albums in the early 1970s, marking a significant point in Ezrin's career. "His big break came in the early 1970s when he produced the breakthrough albums for Alice Cooper." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← alice-cooper
 **School's Out (1972)** : The album of the same name as its hit single made it to number two on the charts. "the album of the same name made it to number two." ← For the Record - The 70s > Ep. 26 - Starmen - Glam Rock of the 70s | https://seventies.libsyn.com/026-glam-11820-6-34-pm
 
 ## songs
@@ -35,19 +31,14 @@
 **Early Association with "Punk Rock"** : In 1971, when the term "punk rock" was primarily an aesthetic concept used by critics rather than a distinct musical genre, Alice Cooper was among the artists whose music was sometimes referred to as "punk rock" by observers. "For example, Alice Cooper was originally called punk rock." ← https://www.youtube.com/watch?v=Z8BTWo66SDI ← alice-cooper ← alice-cooper
 **Early Influence from Noel Coward** : Alice Cooper was exposed to the work of Noel Coward, who was making music for the West End and Broadway in the mid-1960s, influencing Cooper's theatrical approach. "and Alice Cooper." ← https://www.youtube.com/watch?v=blDNqVFheAw ← alice-cooper ← alice-cooper
 **Gothic Appearance and Theatricality** : Alice Cooper adopted a distinctive appearance, including makeup, gothic-type eyeliner, leather, and sometimes torn women's clothing. On stage, he assumed the role of a violent villain, incorporating elements like mock executions, snakes, fake blood, and electric chair props into his highly theatrical shows. "He wore makeup, gothic type eyeliner. He wore leather, sometimes torn off women's clothing." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← alice-cooper
-**Horror Vibe Precursor** : Alice Cooper's dark vibe and horror imagery were recognized as an influence on the emerging goth aesthetic, though his music was not yet considered goth itself. "People dug the dark vibe, but this wasn't goth, not yet." ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← alice-cooper
 **Influence on Death** : Death experienced a musical turning point after seeing Alice Cooper perform, leading them to evolve from their funk roots. "after seeing the who and Alice Cooper, they had an epiphany." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← alice-cooper
-**Influence on Gothic Rock (Early 1970s)** : Alice Cooper is credited for his influence on Gothic rock through his "death-obsessed shock rock" of the early 1970s. His theatrical and dark aesthetic paved the way for the morbid and supernatural themes prevalent in Goth music. "We also have to give Alice Cooper credit for his death-obsessed shock rock of the early 1970's." ← https://www.youtube.com/watch?v=mAlc-N2wn5s ← alice-cooper ← alice-cooper
 **Influence on Sid Vicious's Early Busking** : Sid Vicious and John Lighten (Johnny Rotten) would busk by playing covers of Alice Cooper songs, with the "joke" being that they would play until they were paid to stop. "Sid and John Lighten picked up some spare change busking, usually by playing covers by Alice Cooper." ← https://www.youtube.com/watch?v=LE4YenwmeXM ← alice-cooper ← alice-cooper
 **Known for Scaring People** : Alice Cooper was recognized for scaring a lot of people during his career. "so was Alice Cooper and Kiss." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← alice-cooper
-**Macabre Influence** : Alice Cooper, known for his fondness for the macabre, was cited as an important contributor to the early Goth aesthetic and influences. "And of course, let's not forget the contributions of Alice Cooper, who was famous for being fond of the macabre." ← https://www.youtube.com/watch?v=gd9sO7c3N1s ← alice-cooper
 **Musical Influence (Post-1973)** : Alice Cooper was among the musicians whose work Poison Ivy and Lux Interior began to "consume" after being inspired by a New York Dolls concert in 1973. This reflected their growing passion for "anything that was sexy, wild, and played rock and roll." "Esto incluía músicos como al escúper, T-Rex, Ygpop, el acetado New York Dolls." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
 **Ouija Board Origin Story** : A circulating story claimed that the name "Alice Cooper" came to Vincent Furnier during a Ouija board session, where he purportedly contacted a witch who may have been executed during the Salem Witch Trials. "And the story circulated that that name came to him as he was playing with the Ouija board, and that he had been contacted by a witch who may or may not have been executed during the Sanland Witch Trials." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← alice-cooper
 **Pioneering Theatrical Rock** : Alice Cooper introduced a new level of theatricality to rock music, with his elaborate stage shows influencing a wide range of genres from heavy metal to art rock and industrial music. "But in the process, Alice brought a new sense of theatricality to rock. Alice worked influenced everything from heavy metal to art rock to industrial music." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← alice-cooper
 **Post-Garage Rock Band** : The band that eventually became Alice Cooper is mentioned as an exception that continued to perform and evolve after the general end of the original Garage Rock era around 1968. "The MC5, the band that eventually became Alice Cooper, to name 2." ← https://www.youtube.com/watch?v=UpWz3X33vSY ← alice-cooper
 **Singer Adopts Band Name (1973)** : By 1973, the band's singer, Vincent Furnier, had fully embraced the name "Alice Cooper" as his own stage persona. "By 1973, the singer, Vincent Fernier, was now being called Alice Cooper." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← alice-cooper
-
-
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

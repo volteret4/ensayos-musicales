@@ -1,0 +1,4 @@
+# label - Tin Pan Alley
+
+## curiosities
+**Dominant Music Publishing Model (Late 19th/Early 20th Century)** : Tin Pan Alley was the collective term for the influential group of New York City songwriters and music publishers who dominated US popular music from the late 19th to early 20th centuries. Their primary goal was to maximize monetization of their compositions through recordings by as many successful acts as possible. "The song peddlers of Tinpan Alley, the colloquial term for the array of New York City songwriters and music publishers that dominated US popular music in the late 19th and early 20th centuries were at root Hucksters who wanted their compositions monetized by recordings from as many hit acts as possible." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab

@@ -11,6 +11,5 @@
 
 ## artists
 - Arcade Fire
-- SuperChuck
-- The Arcade Fire
+- Superchunk
 

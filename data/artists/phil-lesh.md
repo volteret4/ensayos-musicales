@@ -8,10 +8,5 @@
 **Extensive Health Challenges** : Lesh faced numerous serious health issues throughout his life: he received a liver transplant in 1998 due to a Hepatitis C infection, was diagnosed with prostate cancer in 2006, underwent surgery for bladder cancer in 2015, and was scheduled for back surgery in 2019. "In 1998, he needed a new liver because of a Hepsy infection. He was diagnosed with prostate cancer in 2006. In 2015, he needed surgery for bladder cancer. And then in 2019, he was scheduled for surgery for bad back." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← phil-lesh
 **Founding Member of Grateful Dead** : Phil Lesh was a founding member of the Grateful Dead, present from the very beginning of the band's formation. "Gravel Deadfans got a big shock when founding member Phil Lesh died at the age of 84. He was there at the very beginning." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← phil-lesh
 
-
-
 ## awards
 **Rock and Roll Hall of Fame (1994)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
-
-## charts
-**"Walk Away Renée" — Billboard Year-End Hot 100** : #27, 1966. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

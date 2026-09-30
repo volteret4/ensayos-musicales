@@ -5,5 +5,5 @@
 
 ## artists
 - Edwin Hawkins Singers
-- The Fifth Dimension
+- The 5th Dimension
 

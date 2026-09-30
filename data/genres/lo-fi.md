@@ -6,7 +6,6 @@
 **YouTube Algorithm and Viral Popularity** : Lo-Fi is mentioned as a musical movement that, similar to soundfont albums, sometimes accidentally gained viral popularity through the YouTube algorithm. This occurred without the backing of traditional industry promotion or extensive marketing campaigns. "A veces, por accidente, el vapor Wai-Fa ya no el terreno, y permitió que movimientos como Low-Fight, el eslaüe Tan-River o los soundfont albums, se volvieran virales." ← El fenómeno de Soundfont Album. Discos reinterpretados en videojuegos | https://www.youtube.com/watch?v=ekozTKngeAw
 
 ## artists
-- Pútrido
 - The Conjets
 - Young Fathers
 

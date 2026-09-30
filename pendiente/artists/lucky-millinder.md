@@ -1,12 +1,11 @@
 # artist - Lucky Millinder
 
 ## members
-- Bill Doggett (piano, de facto musical director)
-- Dizzy Gillespie (trumpet)
-- Lucky Millinder (frontman, occasional singer)
-- Ruth Brown (singer)
-- Trevor Bacon (main singer)
-- Winony Harris (singer)
+- Bill Doggett
+- Dizzy Gillespie
+- Ruth Brown
+- Trevor Bacon
+- Wynonie Harris
 
 ## genres
 - Big band
@@ -20,14 +19,13 @@
 - Swing
 
 ## labels
-- Decca Records (implied by "Shout Sister Shout" context)
+- Decca Records
 
 ## concerts
 - Chitlin' Circuit
 - Cotton Club
 - Savoy
 - Savoy Ballroom
-- The Savoy
 
 ## songs
 **Savoy (1943)** : This track from 1943 exemplifies Lucky Millinder's band's sound during their transition from 1930s swing to the more popular jump band style. It demonstrates their ability to combine boogie, jump, and jive sounds with a strong blues feeling to create danceable music. "Listen, for example, to Savoy from 1943." ← Episode 7： ＂Good Rockin' Tonight＂ by Wynonie Harris | https://www.youtube.com/watch?v=IgqSPoYRUCM
@@ -51,4 +49,3 @@
 **Talent for Sacking Musicians** : Lucky Millinder had a habit of dismissing musicians from his band before they fully realized their potential, as exemplified by his quick sacking of a young Dizzy Gillespie. "Gillespie was quickly sacked by Melinda, who had a habit of getting rid of musicians before they reached their full potential." ← Episode 50： ＂Honky Tonk＂, by Bill Doggett | https://www.youtube.com/watch?v=H2rYnKmeZF0
 **Transition to Jump Band Style** : Throughout the 1940s, Millinder progressively shifted his band's sound from the popular swing music of the 1930s to the more contemporary jump band style, which was gaining widespread appeal. "Slowly, during the 1940s, Melinda transitioned his band from the kind of swing music that had been popular in the 30s to the jump band style that was becoming more popular." ← Episode 7： ＂Good Rockin' Tonight＂ by Wynonie Harris | https://www.youtube.com/watch?v=IgqSPoYRUCM
 **Unsuccessful Audition by Ray Charles** : Ray Charles, after moving to the West Coast, unsuccessfully auditioned to play piano with Lucky Millinder's band. "He moved to the West Coast, and unsuccessfully auditioned to play piano with Lucky Millen does band..." ← Episode 32： ＂I Got A Woman＂ by Ray Charles | https://www.youtube.com/watch?v=0oeI9f2x_fo
-

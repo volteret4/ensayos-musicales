@@ -10,8 +10,9 @@
 - Cassette machine
 - Fender Twin Reverb
 - Gibson ES-335 series
-- Maestro FZ1 Fuzz tone
+- Guitar
 - Maestro Fuzzbox pedal
+- Maestro FZ1 Fuzz tone
 
 ## songs
 **(I Can't Get No) Satisfaction (1965)** : Keith Richards famously woke up in a Miami hotel room in the middle of the night with the riff for this song in his head, which he immediately recorded on a bedside cassette machine. He initially envisioned the riff being played by a horn section, or at least a saxophone. During two recording sessions, his guitar part served as a placeholder. Despite Keith disliking how his guitar sounded compared to his mental vision, the band overruled him, and on May 12, 1965, a final version was recorded with his guitar part, now run through a Maestro Fuzzbox pedal, and a different beat. Its release in the summer of 1965 made it an instant hit and caused a massive surge in sales for Maestro Fuzz Tone pedals. "He fell asleep in a hotel room in Miami, and he woke up in the middle of the night with a riff going through his head, which he immediately recorded on a cassette machine which was sitting bedside." ← https://www.youtube.com/watch?v=iGav9uJwA_w ← keith-richards
@@ -29,10 +30,5 @@
 **TV Out the Window (1972)** : While staying in room 1015 at the Hyatt Continental on Sunset Boulevard in Hollywood, Keith Richards decided to throw his television out the window. This event is cited as the origin of the "rock and roll trope" of destroying hotel rooms by throwing a TV out the window. "Keith Richards, who was staying in room 1015, decided that he would throw his TV out the window." ← https://www.youtube.com/watch?v=zM3gu_nbw-k ← keith-richards ← keith-richards
 **Toronto Drug Bust (February 1977)** : Keith Richards was busted for heroin and cocaine in February 1977 at what was then known as the Harbor Castle Hilton in Toronto. The exact room number was not specified in the account. "Keith Richards was busted for heroin and coke in February 1977." ← https://www.youtube.com/watch?v=zM3gu_nbw-k ← keith-richards ← keith-richards
 **Villa as Recording Location** : During the recording of "Exile on Main Street," the Rolling Stones Mobile Recording Studio was positioned outside Keith Richards' villa in southern France. "The truck was parked outside Keith Richards' villa in southern France." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← keith-richards ← keith-richards
-
-
-
-## lists
-**"I Want to See the Bright Lights Tonight" (1974) — 1001 Albums You Must Hear Before You Die** : #314.
-**"I Want to See the Bright Lights Tonight" (1974) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #485. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Shoot Out the Lights" (1982) — Pitchfork: The 200 Best Albums of the 1980s** : #161. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**Producer and Guitarist on Jumpin' Jack Flash (1986)** : Keith Richards, guitarist for The Rolling Stones, produced and played guitar on Aretha Franklin's cover of "Jumpin' Jack Flash," the first single from her 1986 *Aretha* album. "special guest Keith Richards came in to produce and play guitar on the album's first single, a cover of the Rolling Stones classic Jumpin' Jack Flash" ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Rock and Roll Hall of Fame Inductor (1987)** : Richards gave the induction speech for Aretha Franklin at the Rock and Roll Hall of Fame ceremony in New York City on January 3, 1987, just months after collaborating on her "Jumpin' Jack Flash" cover. "Rolling Stones guitarist Keith Richards, who had helped Franklin score a hit with a cover of the Stones jump and jack flash just a few months earlier, gave the speech inducting her at the Waldorf Astoria in New York City." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67

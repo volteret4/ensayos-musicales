@@ -2,5 +2,3 @@
 
 ## member of
 - The Almanac Singers
-- The Weavers
-

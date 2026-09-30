@@ -2,8 +2,7 @@
 
 ## curiosities
 **Chelsea Hotel Resident** : Playwright Tennessee Williams was among the famous individuals who stayed at the Chelsea Hotel, a place favored by artists and bohemians. "playwrights Tennessee Williams." ← https://www.youtube.com/watch?v=LE4YenwmeXM ← tennessee-williams ← tennessee-williams
-
-
+**Chelsea Hotel Resident** : Playwright Tennessee Williams was among the famous individuals who stayed at the Chelsea Hotel, a place favored by artists and bohemians. "playwrights Tennessee Williams." ← https://www.youtube.com/watch?v=LE4YenwmeXM ← tennessee-williams
 
 ## awards
 **Florida Artists Hall of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5461189
@@ -22,8 +21,3 @@
 **Presidential Medal of Freedom (1980)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17144
 **Tony Award for Best Play (1999)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1799442
 **Drama Desk Award for Outstanding Play (1999)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q5305720
-
-## charts
-**"Scream & Shout" — Billboard Year-End Hot 100** : #23, 2013. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"#thatPower" — Billboard Year-End Hot 100** : #95, 2013. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Scream & Shout" — UK Singles Chart** : #9, 2013. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart

@@ -6,5 +6,5 @@
 
 ## artists
 - Mickey & Sylvia
-- Sylvia Van Topoele (Little Sylvia, Sylvia Robinson)
+- Sylvia Robinson
 

@@ -6,8 +6,6 @@
 ## curiosities
 **Co-Creator of Jesus Christ Superstar** : Andrew Lloyd Webber co-created the musical *Jesus Christ Superstar* with Tim Rice. They initially released it as an album in 1970 because they could not secure funding for a stage production at the time. "Andrew Lloyd Webber and Tim Rice could not get the money for a stage production." ← For the Record - The 70s > Ep. 32 - Take Me to Church - Religion in 70s Popular Music | https://seventies.libsyn.com/ep-32-take-me-to-church-religion-in-70s-popular-music ← andrew-lloyd-webber
 
-
-
 ## awards
 **Society of London Theatre Special Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q7552552
 **Classic Brit Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1096102

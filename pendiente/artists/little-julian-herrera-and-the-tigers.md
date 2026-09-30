@@ -8,4 +8,3 @@
 
 ## curiosities
 **True Identity and Career End (Post-1957)** : Shortly after the success of "Lonely Lonely Night," Little Julian Herrera's true identity was revealed. Police informed Johnny Otis that Herrera, whom Otis knew as a Chicano singer, was actually Ron Gregory, of Jewish ethnicity from a Hungarian American family in Massachusetts, and was wanted on rape charges. Gregory had run away from home to LA, where he was raised by a Mexican American woman. This revelation effectively ended Herrera's music career. "Police came to Otis's door and told him that the person he knew as Julian Herrera was wanted on charges of rape and not only that, his birth name was Ron Gregory and he was of Jewish ethnicity and from a Hungarian American family from Massachusetts." ← REUPLOAD Episode 71： ＂Willie and the Hand Jive＂ by Johnny Otis | https://www.youtube.com/watch?v=Ez6BCUlI6Rg
-

@@ -4,12 +4,12 @@
 - **Talk Box** : Frampton made effective use of the talk box, an electronic device that distorts sound, similar to Joe Walsh's pioneering use of the Bob Hyle-created version for "Rocky Mountain Way." "Something that Peter Frampton would make good use of too."
 
 ## songs
-**Show Me The Way (Year Unspecified)** : This song was performed by U2 (then known as Feedback) during their very first public performance at a school talent contest at Mount Temple Comprehensive School in 1976. "they played show me the way by Peter Frampton, some bassity rollers, and the middle of beach boy songs." ← https://www.youtube.com/watch?v=sKHdTSfDd6E ← peter-frampton
+**Baby, I Love Your Way** : Peter Frampton's song, which was famously included in Will to Power's bubbly 1988 medley, "Baby, I Love Your Way / Free Bird Medley," that reached number one. "Peter Frampton's Baby I Love Your Way" ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
+**Show Me the Way (1975)** : This song was performed by U2 (then known as Feedback) during their very first public performance at a school talent contest at Mount Temple Comprehensive School in 1976. "they played show me the way by Peter Frampton, some bassity rollers, and the middle of beach boy songs." ← https://www.youtube.com/watch?v=sKHdTSfDd6E ← peter-frampton
 
 ## curiosities
 **Guest Appearance on The Simpsons' "Hullabalooza" Episode** : Peter Frampton made a guest appearance on The Simpsons in the famous "Hullabalooza" episode, alongside Cypress Hill, Sonic Youth, and The Smashing Pumpkins. "guesting on The Simpsons in the famous Hullabalooza episode, along with Sonic Youth, The Smashing Pumpkins, and Peter Frampton." ← https://www.youtube.com/watch?v=5bQz8R0gbXc ← peter-frampton
-
-
+**Top US Album of 1976** : Peter Frampton, who hailed from Beckenham in Kent, possessed the top US album of 1976. When he took the stage in America, he "came alive." "Even Peter Frampton, possessor of the top US album of our bison 10-year-old year of 1976, hailed from Beckenham in Kent." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
 
 ## awards
 **star on Hollywood Walk of Fame (1979)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

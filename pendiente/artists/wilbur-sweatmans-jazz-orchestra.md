@@ -5,4 +5,3 @@
 
 ## curiosities
 **Pioneering Black Jazz Recording Group** : Wilbur Sweatman's Jazz Orchestra was one of the very first black jazz groups in history to make recordings. Sweatman himself was a friend and colleague of Scott Joplin. "Sweatman was a friend and colleague of Scott Joplin, and his band was one of the very first black jazz groups to record at all." ← Episode 67： ＂Johnny B. Goode＂, by Chuck Berry | https://www.youtube.com/watch?v=sHlA-qihuNw
-

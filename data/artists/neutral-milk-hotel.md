@@ -6,8 +6,6 @@
 ## albums
 **In the Aero Plane Over the Sea (1998)** : This 1998 indie album was a particular favorite within the hipster music subgroup by 2013, noted for its retro appeal. "One of the favorites in this subgroup was a Louisiana band called Neutral Milk Hotel, especially their 1998 indie album, in the Aero Plane Over the Sea." ← https://www.youtube.com/watch?v=sOU54d8mr5k ← neutral-milk-hotel
 
-
-
 ## lists
 **"In the Aeroplane Over the Sea" (1998) — AOTY Must Hear 1990s** : #90, 87 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
 **"In the Aeroplane Over the Sea" (1998) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #376, 87 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3

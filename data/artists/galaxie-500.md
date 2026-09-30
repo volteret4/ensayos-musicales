@@ -1,12 +1,13 @@
 # artist - Galaxie 500
 
 ## members
-- Dean Wareham (singer)
-- Three Harvard students (unnamed)
+- Dean Wareham
 
 ## genres
 - American Dreampop
+- Dream Pop
 - Slowcore
+- Wavy Dream Pop
 
 ## songs
 **The Fourth of July (1990)** : This song, from a 1990 record, is presented as an example of Galaxie 500's distinctive sound, characterized by atmospheric production. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← galaxie-500
@@ -16,8 +17,8 @@
 **Cambridge, Massachusetts Origin** : Galaxie 500 originated in Cambridge, Massachusetts, formed by three Harvard students. They contributed significantly to American Dreampop. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← galaxie-500
 **Influence on Other Artists** : Despite modest record sales, Galaxie 500 was cited by influential artists, including members of Sonic Youth and Liz Phair, as being very important to their own music. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← galaxie-500
 **Simple Instrumentation and Atmospheric Production** : The band favored simple instrumentation and vulnerable lyrics, combined with an atmospheric recording and production style. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← galaxie-500
-
-
+**Velvet Undergrounder Sound** : Based out of Cambridge, Galaxy 500 contributed to the shoegaze sound with their "Velvet Undergrounder sounds" and "wavy dream pop." Their music was described as mellow, featuring "crests and troughs" and introspective lyrics, aligning with the atmospheric and reflective qualities of shoegaze. "That made it nicely with the velvet undergrounder sounds of Galaxy 500, a mellow band based out of neighboring Cambridge, who specialized in sort of a wavy dream pop." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← galaxy-500 ← galaxy-500
+**Velvet Undergrounder Sound** : Based out of Cambridge, Galaxy 500 contributed to the shoegaze sound with their "Velvet Undergrounder sounds" and "wavy dream pop." Their music was described as mellow, featuring "crests and troughs" and introspective lyrics, aligning with the atmospheric and reflective qualities of shoegaze. "That made it nicely with the velvet undergrounder sounds of Galaxy 500, a mellow band based out of neighboring Cambridge, who specialized in sort of a wavy dream pop." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← galaxy-500
 
 ## lists
 **"On Fire" (1989) — Scaruffi 1980s** : #56, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

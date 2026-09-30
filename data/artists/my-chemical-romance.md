@@ -20,12 +20,11 @@
 
 ## albums
 **The Black Parade (2006)** : Released on October 23, 2006, this rock opera, like Green Day's *American Idiot*, was released on the Reprise label. The album's central character is "The Patient," whose memories and impressions are captured in the songs as he faces death. Upon his death, The Patient is transported away by a parade, known as the Black Parade, which is the album's namesake. The concept is linked to a fun childhood memory and Gerard Way's view on how death approaches. "The central character was the patient. As he's about to die and move to the other side, his memories and impressions are captured in the songs." ← https://www.youtube.com/watch?v=1KyNY3zv6uc ← my-chemical-romance
-**The Black Parade (2006) - Bob Bryar's Contribution** : Bob Bryar played drums on this significant 2006 album, which was a major release for My Chemical Romance. "Here's Bob from my chemical romance with their big 2006 album, The Block Breyer." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← my-chemical-romance
+**The Black Parade (2006)** : Bob Bryar played drums on this significant 2006 album, which was a major release for My Chemical Romance. "Here's Bob from my chemical romance with their big 2006 album, The Block Breyer." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← my-chemical-romance
 **Three Cheers for Sweet Revenge (2004)** : This album was released in 2004 and was part of the emo trend that saw its development and peak during the first decade of the 21st century. The band is also recognized for leading the emo revival in the 2020s. "My chemical romance from their 2004 album, Three Cheers for Sweet Revenge." ← https://www.youtube.com/watch?v=v_am7ifh7Pk ← my-chemical-romance
-**Welcome to the Black Parade (2006)** : Released in 2006, this album and its title track came out right at the peak of the emo explosion of the 2000s, showcasing the genre's widespread popularity. "My Chemical Romance with Welcome to the Black Parade from 2006, right at the height of the emo explosion of the arts." ← https://www.youtube.com/watch?v=_yslM5oanRo ← my-chemical-romance
 
 ## songs
-**All I Want for Christmas Is You (Cover)** : My Chemical Romance is mentioned as one of the artists who have covered Mariah Carey's "All I Want for Christmas Is You," highlighting the song's adaptability to various genres, including metal. "and my chemical romance." ← https://www.youtube.com/watch?v=nYPGQiDL5bw ← my-chemical-romance
+**All I Want for Christmas Is You** : My Chemical Romance is mentioned as one of the artists who have covered Mariah Carey's "All I Want for Christmas Is You," highlighting the song's adaptability to various genres, including metal. "and my chemical romance." ← https://www.youtube.com/watch?v=nYPGQiDL5bw ← my-chemical-romance
 **Welcome to the Black Parade** : This was the first single released from *The Black Parade* album and is also its title track. The song's music video visually captures the theatricality and role-playing that My Chemical Romance incorporated into their live concerts for this concept. "And it's all captured in the first video for Welcome to the Black Parade, which was the first single." ← https://www.youtube.com/watch?v=1KyNY3zv6uc ← my-chemical-romance
 
 ## curiosities
@@ -45,8 +44,6 @@
 **Reunion for Touring** : My Chemical Romance was one of many bands from past decades that reunited in the 21st century, a trend largely motivated by financial incentives. With declining CD sales impacting artist revenues, returning to the touring circuit offered a lucrative way to appeal to nostalgic fan bases and fill large venues. "The list of reunions is long." ← https://www.youtube.com/watch?v=GYUuTbOvyak ← my-chemical-romance
 **Soundfont Versions Popularity** : My Chemical Romance is listed as one of the bands whose song versions contributed to the popularization of the soundfont genre in 2022, attracting significant viewership and listens online. "Versiones de canciones de Nirvana, Pixies, Rhyde Head, Michael Romance, empezaron a acumular miles y miles de views." ← El fenómeno de Soundfont Album. Discos reinterpretados en videojuegos | https://www.youtube.com/watch?v=ekozTKngeAw
 **Theatrical Live Performances** : In concert, My Chemical Romance adopted a highly theatrical approach for *The Black Parade*, featuring extensive role-playing and costumes, which was also reflected in the music video for "Welcome to the Black Parade." "In concert, my chemical romance was very theatrical about all this, lots of role playing in costumes." ← https://www.youtube.com/watch?v=1KyNY3zv6uc ← my-chemical-romance
-
-
 
 ## charts
 **"Welcome To The Black Parade" — Billboard Year-End Hot 100** : #59, 2007. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

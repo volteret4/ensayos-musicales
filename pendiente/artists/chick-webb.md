@@ -1,11 +1,14 @@
 # artist - Chick Webb
 
 ## members
-- Ella Fitzgerald (teenage singer)
-- Louis Jordan (alto sax, male lead vocals)
+- Ella Fitzgerald
+- Louis Jordan
 
 ## genres
 - Swing
+
+## concerts
+- The Savoy
 
 ## songs
 **Stompin' at the Savoy** : This is one of the most famous swing recordings, later covered by Benny Goodman in an even more famous version. "It's one of the most famous swing recordings ever, though it was later recorded by Benny Goodman in an even more famous version." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
@@ -22,4 +25,5 @@
 **Nearly Unbeatable in Cutting Contests** : Chick Webb's band won numerous cutting contests, only definitively losing once, to Duke Ellington, a loss considered without shame due to Ellington's stature and different musical approach. "The only time Chick Webb ever definitely lost a cutting contest was against Duke Allington, but everyone knew that Chick Webb and Duke Allington weren't really trying to do the same kind of thing." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
 **Rivalry with Benny Goodman** : Chick Webb's band had a significant rivalry with Benny Goodman's band. While Goodman's band was larger, Webb's band was considered more popular among true connoisseurs. "Goodman's band was bigger, in every sense, but Webb's band was more popular with those who knew the real deal when they heard it." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
 **Talent of Key Members** : The enduring quality of Chick Webb's band was attributed to the talent of its "two big stars," Ella Fitzgerald and Louis Jordan, an alto sax player and male lead vocalist. "That's how good Webb's band were, and it's also how good his two big stars were." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
-
+**Paired Vocalists Inspiration** : The successful pairing of Louis Jordan and Ella Fitzgerald in Chick Webb's band served as an inspiration for Mo Gale to suggest pairing Sister Rosetta Tharpe with Trevor Bacon in Lucky Millinder's band. "in the same way that Louis Jordan and Elefitz Jeveld had worked well together in the Chick Webb band." ← Episode 50： ＂Honky Tonk＂, by Bill Doggett | https://www.youtube.com/watch?v=H2rYnKmeZF0
+**Savoy Residency** : Chick Webb's band previously held a residency at The Savoy nightclub before Lucky Millinder's Orchestra took over the slot. "The Lucky Melinda Orchestra... got a residency at the Savoy, after Chick Webb's band stopped playing there." ← Episode 50： ＂Honky Tonk＂, by Bill Doggett | https://www.youtube.com/watch?v=H2rYnKmeZF0

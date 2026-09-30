@@ -11,8 +11,6 @@
 **Boston Area Indie Band** : The Lemonheads are listed as one of the amazing indie bands that emerged from the Boston area's rich college music scene. "We had Mission of Burma, the Delphwegos, the Lemonheads, Gang Green, the throwing muses, Dinosaur, Junior, Julianne Hatfield and the Blake Babies, and of course the greatest Boston area college band of them all, the Pixies." ← https://www.youtube.com/watch?v=sCtQqVBtCaI ← the-lemonheads
 **Cocaine Dependence** : Evan Dando of The Lemonheads sought help for his dependence on cocaine. "Evan Dando of the Levinheads needed help with his dependence on cocaine, same with Jeff Tweety of Wilcoe." ← https://www.youtube.com/watch?v=EyagC0T7mR4 ← the-lemonheads ← the-lemonheads
 
-
-
 ## lists
 **"It’s a Shame About Ray" (1992) — 1001 Albums You Must Hear Before You Die** : #713.
 **"Hate Your Friends" (1987) — Scaruffi 1980s** : #519, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

@@ -9,11 +9,11 @@
 
 ## artists
 - Björk
-- Can
+- CAN
 - David C. Johnson
 - Genesis
 - Klaus Voormann
-- Manfred Mann (band)
-- Mike DeAngeles
+- Manfred Mann
+- Mike DeAngelis
 - Mike Vickers
 

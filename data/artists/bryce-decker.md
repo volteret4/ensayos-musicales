@@ -1,6 +1,5 @@
 # artist - Bryce Decker
 
 ## member of
-- The Devarons
+- The Deverons
 - The Guess Who
-

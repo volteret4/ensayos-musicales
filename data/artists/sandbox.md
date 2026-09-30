@@ -13,9 +13,9 @@
 - Network Records
 
 ## albums
-**Bionic (1995) - Juno Nominated Debut** : Released in 1995, *Bionic* was Sandbox's debut album and received a nomination for a Best New Group Award at the Junos. Its initial success led to the release of a second album, despite subsequent issues with their record company. "In 1995, they released an album entitled Bionic, which ended up being nominated for a Best New Group Award at the Junos." ← https://www.youtube.com/watch?v=22SSwvfRMVg ← sandbox ← sandbox
-**Bionic (1996)** : This album was released in 1996. The band won three East Coast Music Awards and was nominated for a Juno before they broke up. "It was a single from a 1996 album released on network records called Bionic." ← https://www.youtube.com/watch?v=zUQ2vZzmRiI ← sandbox
-**Second Album (1997) - Record Company Dispute** : Sandbox released a second album in 1997, but encountered significant problems with their record company, which disliked the band's new musical direction. This disagreement directly led to the band's decision to break up. "There was a second album in 1997, but there were problems with the record company. They didn't like the sound of the band's new direction." ← https://www.youtube.com/watch?v=22SSwvfRMVg ← sandbox ← sandbox
+**A Murder in the Glee Club (1997)** : Sandbox released a second album in 1997, but encountered significant problems with their record company, which disliked the band's new musical direction. This disagreement directly led to the band's decision to break up. "There was a second album in 1997, but there were problems with the record company. They didn't like the sound of the band's new direction." ← https://www.youtube.com/watch?v=22SSwvfRMVg ← sandbox ← sandbox
+**Bionic (1995)** : Released in 1995, *Bionic* was Sandbox's debut album and received a nomination for a Best New Group Award at the Junos. Its initial success led to the release of a second album, despite subsequent issues with their record company. "In 1995, they released an album entitled Bionic, which ended up being nominated for a Best New Group Award at the Junos." ← https://www.youtube.com/watch?v=22SSwvfRMVg ← sandbox ← sandbox
+**Bionic (1995)** : This album was released in 1996. The band won three East Coast Music Awards and was nominated for a Juno before they broke up. "It was a single from a 1996 album released on network records called Bionic." ← https://www.youtube.com/watch?v=zUQ2vZzmRiI ← sandbox
 
 ## songs
 **Curious (1996)** : This track was a single released in the summer of 1996. "This is from the summer of 1996. From a place called Pick Two County Nova Scotia that's a band called Sandbox with a track entitled Curious." ← https://www.youtube.com/watch?v=zUQ2vZzmRiI ← sandbox
@@ -29,14 +29,3 @@
 **Origin and Record Deal** : Sandbox originated from New Glasgow, Nova Scotia, and secured a record deal with Vancouver's Network Records after submitting demos. This agreement facilitated the release of their debut album. "Sandbox was from New Glasgow, Nova Scotia, and after sending out some demos, they nailed down a deal with Vancouver's network records." ← https://www.youtube.com/watch?v=22SSwvfRMVg ← sandbox ← sandbox
 **Paul Murray's Family Connection** : Singer Paul Murray is noted as the nephew of the renowned singer Ann Murray, establishing a familial link to another prominent figure in Canadian music. His current whereabouts were not explicitly known. "singer Paul Murray is, although I can tell you he's the nephew of singer Ann Murray." ← https://www.youtube.com/watch?v=22SSwvfRMVg ← sandbox ← sandbox
 **Scott McFarland's Continued Music Work** : Bass player Scott McFarland has continued to work in music since Sandbox's breakup, regularly picking up side band gigs. This indicates his ongoing involvement in the music industry. "bass player Scott McFarland continues to work in music, picking up side band gigs." ← https://www.youtube.com/watch?v=22SSwvfRMVg ← sandbox ← sandbox
-
-
-
-## lists
-**"Wild Gift" (1981) — 1001 Albums You Must Hear Before You Die** : #485, 7.0/10 Scaruffi.
-**"Los Angeles" (1980) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #320, 8.0/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Los Angeles" (1980) — Scaruffi 1980s** : #117, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Under The Big Black Sun" (1982) — Scaruffi 1980s** : #812, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Wild Gift" (1981) — Scaruffi 1980s** : #813, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Smoke & Fiction" (2024) — Kerrang! The 50 Best Albums of 2024** : #50. ← musicbrainz | https://beta.musicbrainz.org/series/bdba3ef9-ad91-42ef-a023-f5a2b552c74c
-**"Los Angeles" (1980) — Pitchfork: The 200 Best Albums of the 1980s** : #110, 8.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63

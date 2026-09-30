@@ -6,5 +6,5 @@
 **Sex Pistols' Influential Gig (Mid-1970s)** : In the mid-1970s, the Sex Pistols played a famously small yet immensely influential show at the Lesser Free Trade Hall in Manchester. This event is widely credited with inspiring many attendees to form their own bands, directly contributing to the birth of the Manchester punk and post-punk scenes and the founding of Factory Records. "The Sex Pistols play the lesser free trade hall, that famous show." ← https://www.youtube.com/watch?v=dZStbEe4Gkk ← lesser-free-trade-hall
 
 ## artists
-- The Sex Pistols
+- Sex Pistols
 

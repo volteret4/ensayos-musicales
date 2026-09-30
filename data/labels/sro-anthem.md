@@ -6,5 +6,5 @@
 
 ## artists
 - Big Wreck
-- Ian Thorneley
+- Ian Thornley
 

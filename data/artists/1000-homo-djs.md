@@ -1,23 +1,17 @@
 # artist - 1000 Homo DJs
 
 ## members
-- Buck Satan (Al Jourgensen)
-- Lux (Al Jourgensen)
-- Officer Aggro (Paul Barker)
-- Pan (Paul Barker)
-- Trent Reznor (uncredited vocals)
-- We Willy Riefer (William Rieflin)
+- Al Jourgensen
+- Paul Barker
+- Trent Reznor
+- William Rieflin
 
 ## songs
-**Supernaut (Black Sabbath Cover)** : This song is a cover of a Black Sabbath track, released by 1000 Homo DJs. The original recording featured Trent Reznor on lead vocals, but due to his legal issues with TVT Records, he requested his vocals be removed, leading to a re-recorded version with Al Jourgensen on vocals for the official release. The version with Trent Reznor's vocals circulated as a bootleg for years before a legitimate release on a Wax Trax box set in 1994. "It's their cover of the Black Sabbath song Super Not." ← Ongoing History of New Music > If That Is Your REAL Name | https://www.youtube.com/watch?v=itK5fEqnA5E&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Supernaut (Black Sabbath cover)** : This was a secret recording project where Trent Reznor provided vocals for a cover of Black Sabbath's "Supernaut" due to his contract dispute with TVT Records. There is ongoing confusion about which versions feature Trent's voice; only specific versions labeled "Trent Resner Vocal Version" contain his vocals. "One such recording was a ministry spin-off band called 1000 homo DJs." ← https://www.youtube.com/watch?v=DKdF8NgF5Bw ← 1000-homo-djs
-**Supernaut (unspecified year) – Black Sabbath Cover** : This cover of the Black Sabbath song "Supernaut" featured Trent Reznor on vocals. It was a clandestine collaboration with the Ministry side project while Trent was under contract with TVT Records. When TVT discovered Trent's involvement, they demanded his vocals be removed from the recording under threat of legal action, forcing Al Jorgensen to re-sing the track. "A cover of a black sap of the song called Super Not with Trent on vocals. But when TVT found out, they demanded that Trent's voice be removed from the recording or there would be legal hill to pay." ← https://www.youtube.com/watch?v=M3nUQtja0qc ← 1000-homo-djs
+**Supernaut** : This song is a cover of a Black Sabbath track, released by 1000 Homo DJs. The original recording featured Trent Reznor on lead vocals, but due to his legal issues with TVT Records, he requested his vocals be removed, leading to a re-recorded version with Al Jourgensen on vocals for the official release. The version with Trent Reznor's vocals circulated as a bootleg for years before a legitimate release on a Wax Trax box set in 1994. "It's their cover of the Black Sabbath song Super Not." ← Ongoing History of New Music > If That Is Your REAL Name | https://www.youtube.com/watch?v=itK5fEqnA5E&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Supernaut** : This was a secret recording project where Trent Reznor provided vocals for a cover of Black Sabbath's "Supernaut" due to his contract dispute with TVT Records. There is ongoing confusion about which versions feature Trent's voice; only specific versions labeled "Trent Resner Vocal Version" contain his vocals. "One such recording was a ministry spin-off band called 1000 homo DJs." ← https://www.youtube.com/watch?v=DKdF8NgF5Bw ← 1000-homo-djs
+**Supernaut** : This cover of the Black Sabbath song "Supernaut" featured Trent Reznor on vocals. It was a clandestine collaboration with the Ministry side project while Trent was under contract with TVT Records. When TVT discovered Trent's involvement, they demanded his vocals be removed from the recording under threat of legal action, forcing Al Jorgensen to re-sing the track. "A cover of a black sap of the song called Super Not with Trent on vocals. But when TVT found out, they demanded that Trent's voice be removed from the recording or there would be legal hill to pay." ← https://www.youtube.com/watch?v=M3nUQtja0qc ← 1000-homo-djs
+**Supernaut** : Trent Reznor secretly provided vocals for this Black Sabbath cover with the Ministry spin-off band 1000 Homo DJs during his TVT Records contract dispute. There is debate over which versions truly feature his vocals; only those labeled "Trent Resner Vocal Version" actually contain his voice, as otherwise it's Al Jourgensen's distorted vocals. "Al Jorrenson was very sympathetic to Trent's situation. So he had him do the vocals on a cover of the Black Sabbath song Supernaut or so we were told." ← https://www.youtube.com/watch?v=DKdF8NgF5Bw ← trent-reznor
+**Supernaut (Uncredited Vocals)** : Trent Reznor sang lead vocals on the original version of 1000 Homo DJs' cover of the Black Sabbath song "Supernaut." However, due to an "ugly and protracted legal battle" with his label, TVT Records, which prevented him from recording under his own name or as Nine Inch Nails, he became nervous and asked for his vocals to be removed from the official release. Despite this, a bootleg of his original vocal track circulated for years before being legitimately released on a Wax Trax box set in 1994. "Trent got nervous about his legal situation with TVT and asked that his vocals be removed." ← https://www.youtube.com/watch?v=itK5fEqnA5E ← trent-reznor ← trent-reznor
 
 ## curiosities
 **Ministry's Outtakes Project** : 1000 Homo DJs served as a "goofy side project" initiated by Al Jourgensen of Ministry to release material, specifically Ministry outtakes, while maintaining a clear separation from the main band. The project involved all contributing members adopting fake names for their credits, including Jourgensen (Lux/Buck Satan), Paul Barker (Pan/Officer Aggro), and William Rieflin (We Willy Riefer), and famously included uncredited vocals from Trent Reznor. "He started a goofy side project called 1000 Home Old DJs as a way of releasing some ministry outtakes while keeping things separate from his main band." ← https://www.youtube.com/watch?v=itK5fEqnA5E ← 1000-homo-djs ← 1000-homo-djs
-
-
-
-## charts
-**"Neck Deep" — UK Vinyl Albums Chart** : entrada.
-**"O.M.D." — UK Vinyl Singles Chart** : 25 semanas.

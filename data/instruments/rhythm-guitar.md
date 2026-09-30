@@ -6,7 +6,7 @@
 
 ## artists
 - Alan Price
-- Daniel Landwom
+- Daniel Lanois
 - Elvis Presley
 - Grady Martin
 - Nikki Sullivan

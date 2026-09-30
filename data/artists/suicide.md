@@ -2,8 +2,6 @@
 
 ## members
 - Alan Vega
-- Photographers
-- Poets
 
 ## genres
 - No Wave
@@ -21,8 +19,6 @@
 **New York Underground Focus** : Suicide, along with DNA, never aimed to leave the New York suburbs, existing exclusively in the city's deep garages and sometimes performing in contemporary art museums, highlighting their status as an artistic movement beyond just music. "No hubiese gesto New York, casi solo vivió New York y vivió en los garajes de New York, pero no en el civil y vía en los profundos garajes de New York." ← Music Radar Clan > Qué es el NO WAVE. Es mucho más que música | https://www.youtube.com/watch?v=DrK0WdodRGk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← suicide ← suicide
 **Shared Performances at CBGB (1976)** : By 1976, The Cramps were regulars at CBGB and it was common to see them sharing performance bills with Suicide. "serán normal verles de lo neando a Suiza y Torramones." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
 **Struggles for Livelihood** : Despite giving concerts, bands like Suicide, DNA, and de Jesus and the Jerks struggled financially due to their underground nature and lack of mainstream repercussions. "esta gente pues no tener una gran repercusión, pues evidentemente malamente podía vivir de ello y aunque gente como los suicide o los DNA o como de Jesus and the jerks, daban sus concertos y todo pues malamente podían vivir de ello." ← Music Radar Clan > Qué es el NO WAVE. Es mucho más que música | https://www.youtube.com/watch?v=DrK0WdodRGk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← suicide ← suicide
-
-
 
 ## lists
 **"Suicide" (1977) — 1001 Albums You Must Hear Before You Die** : #384, 9.0/10 Scaruffi.

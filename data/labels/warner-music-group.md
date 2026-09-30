@@ -9,6 +9,6 @@
 **Public Response to Lincoln Park** : Warner Music Group publicly fired back at Lincoln Park's statements during contract renegotiations, labeling the band's claims as a "ploy." They asserted that Linkin Park's management was using "fictitious numbers" and making "baseless charges and inflammatory threats," emphasizing their significant investments in the band and generous compensation for their success. "Warner fired back, saying that this was just a ploy during a time of contract re-negotiation." ← https://www.youtube.com/watch?v=qQm7u3W13eM ← warner-music-group
 
 ## artists
-- Lincoln Park
+- Linkin Park
 - Paramore
 

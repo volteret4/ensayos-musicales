@@ -4,16 +4,20 @@
 - Billy Zoom
 - Exene Cervenka
 - John Doe
-- Xine Servenka
 
 ## genres
-- Punk Rock
+- Punk
 - Punk band
+- Punk Rock
 
 ## concerts
 - The Masque
 
+## albums
+**Turn (2003)** : The Dutch punk band The X featured the sea snail named after them on the cover of their 2003 album, "Turn." This creative response showcased their excitement and pride in the scientific recognition. "the band was quite chuffed and they actually featured a snail in the 2003 album Turn as a result." ← https://www.youtube.com/watch?v=VMPLplhDk8I ← the-x
+
 ## curiosities
+**Sea Snail Species** : A type of sea snail found in the Pacific off Easter Island is known as *Dispressizona Xorum*, named after the punk band The X from the Netherlands. The band expressed their excitement about this honor, even featuring the snail on their 2003 album "Turn." "The type of sea snail found in the Pacific off Easter Island is known as Dispressizona Xorum after a punk band from the Netherlands called the X." ← https://www.youtube.com/watch?v=VMPLplhDk8I ← the-x
 **Adding Vindication to West Coast Scene** : X was a crucial band that brought much-needed validation to the burgeoning West Coast punk scene. Their distinct sound and lyrical approach earned them significant influence. "Then came X, the group that added some much needed vindication to the West Coast scene." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← x ← x
 **Groundbreaking Punk Band** : X is recognized as a groundbreaking San Francisco punk band. "X, the groundbreaking San Francisco punk band." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← x ← x
 **Lasting Influence in California** : X's innovative blend of punk and lyrical depth had an important and lasting influence on the newly developing music scene in California, shaping the direction for future bands. "This would have an important and lasting influence in the newly born scene in California." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← x ← x
@@ -22,8 +26,6 @@
 **Punk Sound with Intelligent Lyrics** : The band's music was characterized by a strong punk sound, but it was elevated by smart and intelligent lyrics. This combination provided a deeper, more thoughtful dimension to the raw energy of punk rock. "They sounded very punk, but they laced their stuff with smart and intelligent lyrics." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← x ← x
 **Shared Stages with The Go-Go's** : X shared stages with The Go-Go's during the late 1970s in the vibrant Los Angeles punk scene. "They shared stages with groups like X in the germs." ← For the Record - The 70s > Ep. 58 - WKRP in Cincinnati | https://www.ftr70.com
 **Subsequent Marriages and Divorces (Xine Servenka)** : After divorcing John Doe, Xine Servenka later married actor Vigo Morgan Stern. This marriage also ended in divorce, and she subsequently married and divorced again. "She later married actor Vigo Morgan Stern. That ended in divorce before she got married and divorced again." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← x ← x
-
-
 
 ## awards
 **Silver Play Button (2017)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q55293496

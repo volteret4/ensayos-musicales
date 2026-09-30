@@ -12,6 +12,5 @@
 - Ralph Bass
 - Sid Nathan
 - The Famous Flames
-- The Flamingos (original group that became The Platters)
 - The Platters
 

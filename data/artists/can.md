@@ -1,13 +1,20 @@
 # artist - CAN
 
+## members
+- Damo Suzuki
+- David C. Johnson
+- Holger Czukay
+- Irmin Schmidt
+- Jaki Liebezeit
+- Malcolm Mooney
+- Michael Karoli
+
 ## genres
 - Avant-garde
 
 ## curiosities
 **Formation as Avant-Garde Group (1968)** : CAN, an avant-garde group, formed in 1968, following Tangerine Dream in exploring the unique sonic possibilities offered by oscillators and other electronic components that generated "other-worldly sounds." "They were followed in 1968 by a really avant-garde group called CAN." ← Ongoing History of New Music > The Post-Punk Explosion Part 3： Industrial | https://www.youtube.com/watch?v=zSFhhEaiYwE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Influence on Johnny Lydon** : Johnny Lydon of Public Image Limited was a big fan of the German avant-garde group Can, indicating their significant influence on subsequent artists. "Johnny had always been a big fan of the German Abont Guard group called Can." ← Ongoing History of New Music > The Post-Punk Explosion Part 3： Industrial | https://www.youtube.com/watch?v=zSFhhEaiYwE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-
-
 
 ## awards
 **Nansen Refugee Award (1986)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q663005

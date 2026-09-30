@@ -10,9 +10,4 @@
 **First Band: Amy Carter** : Kathleen Hanna's first musical group was called Amy Carter, named after the daughter of former President Jimmy Carter. This was before the formation of Bikini Kill and represents her early musical endeavors. "Her first group was called Amy Carter, named after the daughter of former president Jimmy Carter." ← https://www.youtube.com/watch?v=Qss5kC2FUx0 ← kathleen-hanna
 **Marriage to Adam Horovitz** : Kathleen Hanna is married to Adam Horovitz of the Beastie Boys; they have been together since 1997. This connects her to another influential act in alternative music and highlights their enduring relationship. "She's married to Adam Horowitz of the Beastie Boys, even together since 1997" ← https://www.youtube.com/watch?v=Qss5kC2FUx0 ← kathleen-hanna
 **Past Relationship with Kurt Cobain** : Kathleen Hanna once dated Kurt Cobain. During this time, she famously spray-painted "Kurt smells like teen spirit" on his apartment wall in 1991, which inadvertently became the title of a Nirvana song. "and she once dated Kurt Cobain, which brings me to this story." ← https://www.youtube.com/watch?v=Qss5kC2FUx0 ← kathleen-hanna
-
-
-
-## lists
-**"Bastard" (1991) — Sputnikmusic Best Albums 1991** : #123, 3.93 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"Róże miłości najchętniej przyjmują się na grobach" (1996) — Sputnikmusic Best Albums 1996** : #88, 4.1 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
+**"Smells Like Teen Spirit" Inspiration (1991)** : One night in 1991, after going out drinking with Kurt Cobain, Kathleen Hannah commented that he smelled "sweet, almost like a particular type of deodorant marketed to teens." Cobain, who never wore deodorant, was inspired by her remark to use "Smells Like Teen Spirit" as the title for a new song. "When they returned to Kurt's place, she remarked that Kurt smelled sweet, almost like a particular type of deodorant marketed to teens." ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← kathleen-hannah

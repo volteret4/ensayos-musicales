@@ -1,10 +1,10 @@
 # artist - Starship
 
 ## songs
-**Sara** : This song is mentioned as part of the 80s Starship output. "Sarah, we built the city. No, thank you." ← For the Record - The 70s > Ep. 7 - Women Who Rocked the 70s | http://www.ftr70.com ← starship
-**We Built This City** : This song is mentioned as part of the 80s Starship output. "Sarah, we built the city. No, thank you." ← For the Record - The 70s > Ep. 7 - Women Who Rocked the 70s | http://www.ftr70.com ← starship
-
-
+**Sara (1985)** : This song is mentioned as part of the 80s Starship output. "Sarah, we built the city. No, thank you." ← For the Record - The 70s > Ep. 7 - Women Who Rocked the 70s | http://www.ftr70.com ← starship
+**Sara (1985)** : This song is mentioned as part of the 80s Starship output. "Sarah, we built the city. No, thank you." ← For the Record - The 70s > Ep. 7 - Women Who Rocked the 70s | http://www.ftr70.com
+**We Built This City (1985)** : This song is mentioned as part of the 80s Starship output. "Sarah, we built the city. No, thank you." ← For the Record - The 70s > Ep. 7 - Women Who Rocked the 70s | http://www.ftr70.com ← starship
+**We Built This City (1985)** : This song is mentioned as part of the 80s Starship output. "Sarah, we built the city. No, thank you." ← For the Record - The 70s > Ep. 7 - Women Who Rocked the 70s | http://www.ftr70.com
 
 ## charts
 **"We Built This City" — Billboard Year-End Hot 100** : #14, 1985. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

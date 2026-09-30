@@ -6,8 +6,8 @@
 ## artists
 - David Bowie
 - Donovan
-- Mark Bowen
-- T-Rex
-- Taranosaurus Rex
+- Marc Bolan
+- T. Rex
+- Tyrannosaurus Rex
 - The Byrds
 

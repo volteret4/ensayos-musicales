@@ -12,8 +12,6 @@
 ## curiosities
 **Launched Line of Sports Bras** : Brian May, the guitarist for Queen, launched a new line of sports bras during the year (implied 2020). "Brian May, the guitarist in Queen, launched a new line of sports bras. This year." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ ← brian-may
 
-
-
 ## awards
 **honorary doctor of the University of Hertfordshire** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q97710621
 **Order of the British Empire** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q14420

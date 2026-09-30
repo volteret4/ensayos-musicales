@@ -8,8 +8,6 @@
 **Aging Out of Pop Phase (1990)** : The generation of kids who were fans of Tiffany had aged out of their pop phase by 1990, contributing to the decline of pop music. "The generation of kids who were into new kids in the block and Tiffany and Debbie Gibson had aged out of their pop phase." ← https://www.youtube.com/watch?v=Rf1tFWQg51Y ← tiffany ← tiffany
 **Brief Object of John Bardo's Obsession** : John Bardo, the stalker and killer of Rebecca Schaefer, at one point diverted his obsessive tendencies to Tiffany, along with Madonna and Debbie Gibson, before ultimately redirecting his focus back to Schaefer. "For a while, Bardot's obsessions were transferred to Madonna and then Debbie Gibson and then Tiffany." ← https://www.youtube.com/watch?v=FtGJHhqXcDI ← tiffany
 
-
-
 ## charts
 **"I Think We're Alone Now" — Billboard Year-End Hot 100** : #18, 1987. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 **"Could've Been" — Billboard Year-End Hot 100** : #8, 1988. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

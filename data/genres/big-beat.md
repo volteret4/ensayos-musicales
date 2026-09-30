@@ -25,7 +25,6 @@
 **Three Defining Characteristics** : The Big Beat movement, largely defined by The Chemical Brothers, incorporated three key characteristics: significantly slower tempos compared to the overdriven European rave music; a more classic, simpler sampling process derived from American hip hop; and the inclusion of samples and synthesizers that emulated real musical instruments like guitars and drums, making the music more palatable to rock and indie audiences. "estos tres puntos yo creo que son los que vendrían a definir la cultura del BigPid que luego se asentaría a mitad de los 90." ← Music Radar Clan > The Chemical Brothers. Padres de la cultura BIG BEAT | https://www.youtube.com/watch?v=EMyp_PMItXg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## artists
-- Apollo 440
 - Fatboy Slim
 - Groove Armada
 - Propellerheads

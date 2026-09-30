@@ -7,4 +7,4 @@
 ## artists
 - The Strokes
 - The White Stripes
-
+- The Vaselines

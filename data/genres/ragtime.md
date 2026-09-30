@@ -8,5 +8,5 @@
 **Origins of Ragtime (Late 1800s)** : Ragtime, an African American musical form, first appeared in St. Louis in the very late 1800s. This music was deliberately unsmooth, characterized by its syncopated or "ragged" rhythms, and served as a precursor to jazz. "Jazz was born out of a form of African American sound called Ragtime, which first appeared in St. Louis in the very late 1800s." ← https://www.youtube.com/watch?v=_Pi7JLwAeOI ← ragtime
 
 ## artists
-- UB Blake
+- Eubie Blake
 

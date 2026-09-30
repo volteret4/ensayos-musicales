@@ -8,10 +8,11 @@
 **Learned Distribution from Sadie DuPouy** : Berry Gordy, the founder of Motown Records, was taught how to make distribution deals for artists on his label by Sadie DuPouy. This crucial knowledge contributed significantly to Motown's eventual success and its ability to effectively get its music to audiences. "And it was she who taught Barry Gordy about how to make distribution deals for artists on his own Motown Records." ← https://www.youtube.com/watch?v=oRR7N-YUcRE ← motown-records
 **Slump Period (Pre-"Where Did Our Love Go")** : Prior to the success of "Where Did Our Love Go," Motown Records was experiencing a slump, characterized by disappointing follow-ups from several major stars and the departure of one of its biggest artists, Mary Wells, to another label. "Mo Tan was in a bit of a slump at that point. Several of the label's big stars had had disappointing follow-ups to their hits, and they'd just lost Mary Wells one of their biggest stars to another label." ← Episode 116： ＂Where Did Our Love Go？＂ by The Supremes | https://www.youtube.com/watch?v=g2PetxEXQC4
 **Stevie Wonder's Contract and Artistic Freedom** : Stevie Wonder's departure from his contract with Motown Records freed him to explore new musical directions, specifically with synthesizers. This allowed him to collaborate with Malcolm Cecil and Robert Margouleff on the TONTO synthesizer to create the music he envisioned, leading to some of his most acclaimed work. "Stevie was out of his old contract with Motown Records and wanted a tutorial and synthesizers so he could finally start recording the music that he heard in his head." ← https://www.youtube.com/watch?v=6SdPPsmpgJg ← motown-records
+**Bruno Mars's Early Deal** : Bruno Mars signed with Motown Records for a year in his early career, although this deal did not ultimately lead to any recorded releases. However, it proved significant as it facilitated his introduction to Philip Lawrence, with whom he would later form a highly successful songwriting partnership. "Bruno even signed with Motown records for a year, but no recordings resulted from that deal." ← Hit Parade Music History and Music Trivia > Lenny on Mars Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f54d1ba84fb8f0463bf
 
 ## artists
 - Stevie Wonder
 - The Marvelettes
 - The Supremes
-- The Vandellas
-
+- Martha and the Vandellas
+- Bruno Mars

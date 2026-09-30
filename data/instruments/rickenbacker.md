@@ -7,7 +7,6 @@
 ## artists
 - Creedence Clearwater Revival
 - R.E.M.
-- REM
 - Tame Impala
 - The Bangles
 - The Byrds

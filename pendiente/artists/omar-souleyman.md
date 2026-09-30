@@ -13,8 +13,7 @@
 - Órganos
 
 ## albums
-**To Syria, With Love (Vinyl Edition) (October 6)** : While the album itself was released some time ago, its vinyl edition is being released on this date. "el disco ya había salido hace un poco de tiempo pero va a salir su edición en vinilo del 6 de octubre." ← Music Radar Clan > Lanzamientos de Octubre 2017 | https://www.youtube.com/watch?v=q1_bxi16osQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**To Syria, With Love (2017)** : While the album itself was released some time ago, its vinyl edition is being released on this date. "el disco ya había salido hace un poco de tiempo pero va a salir su edición en vinilo del 6 de octubre." ← Music Radar Clan > Lanzamientos de Octubre 2017 | https://www.youtube.com/watch?v=q1_bxi16osQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## curiosities
 **Modern and "Cool" Artist** : Omar Souleyman, a Syrian artist, is recognized for his unique blend of Persian music with electronic organ and keyboard sounds, which has positioned him as a very modern and "cool" figure among music enthusiasts, particularly in electronic music circles. "Omar Sobleman es un artista sirio que hace una especie de música persa combinada con música electrónica de órganos y teclados, que se está convirtiendo en un tío muy moderno y muy guay para los más esnofs de la música." ← Music Radar Clan > Lanzamientos de Octubre 2017 | https://www.youtube.com/watch?v=q1_bxi16osQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
-

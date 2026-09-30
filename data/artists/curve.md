@@ -16,8 +16,6 @@
 **Breakups and Reunions** : Curve initially disbanded in 1994. However, they later reunited in 1996 and continued to perform together for approximately ten years before once again going their separate ways. "They broke up in 1994, got together again for about 10 years, starting in 1996, before they once again went their separate ways." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← curve ← curve
 **Shoegaze Band Example** : Curve was mentioned as an example of a Shoegaze band, a style known for its performers' habit of avoiding audience contact by staring at the floor, which gave the genre its name. "There were bands like Slow Dive, Chapter House, Curve, Lush, My Bloody Valentine, Adorable, The Catherine Wheel." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← curve
 
-
-
 ## lists
 **"Doppelganger" (1992) — Scaruffi 1990s** : #562, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
 **"Pubic Fruit" (1992) — Pitchfork: The 50 Best Shoegaze Albums of All Time** : #19. ← musicbrainz | https://beta.musicbrainz.org/series/cd0eaf20-0895-4745-aefe-2c5e00084827

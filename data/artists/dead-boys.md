@@ -1,10 +1,13 @@
 # artist - Dead Boys
 
 ## members
-- Steve Bator's
+- Stiv Bators
 
 ## genres
 - Punk
+
+## labels
+- Sire Records
 
 ## concerts
 - CBGB
@@ -15,8 +18,7 @@
 **Knife Ownership Inspiring Sid Vicious** : Steve Bator's of the Dead Boys owned a 007 hunting knife, which inspired Sid Vicious to purchase a similar one. This knife later became the weapon in Nancy Spungen's murder. "He wanted one because Steve Bader's of the Dead Boys had one." ← https://www.youtube.com/watch?v=6xygY-npCr4 ← dead-boys ← dead-boys
 **Punk Influence Question** : The Dead Boys are cited in a question about the chain of musical influence, specifically "What do the dead boys have to do with the Pesh Mode?" indicating their role in a broader musical lineage. "What do the dead boys have to do with the Pesh Mode?" ← https://www.youtube.com/watch?v=bI6TTA-fn7c ← dead-boys
 **Shared Stage at The Cramps' First Concert (1976)** : The Dead Boys performed alongside The Cramps at The Cramps' inaugural concert in 1976, which took place at CBGB. "Su primer concierto fue en el CBGV junto con los Dead Boys, era 1976." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
-
-
+**Sire Records Signing** : The Dead Boys were signed by Seymour Stein to Sire Records, as he embraced new music even when punk was seen as problematic in North America. "He signed the Dead Boys." ← https://www.youtube.com/watch?v=9CNNsqXiL6U ← the-dead-boys
 
 ## lists
 **"Young Loud And Snotty" (1977) — Scaruffi 1970s** : #242, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

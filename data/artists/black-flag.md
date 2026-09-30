@@ -1,27 +1,18 @@
 # artist - Black Flag
 
 ## members
-- Chuck Dukowski (bass player)
-- Greg
+- Chuck Dukowski
 - Greg Ginn
-- Greg Ginn (founder)
-- Greg Ginn (guitarist, founder of SST)
 - Henry Rollins
-- Henry Rollins (vocalist)
-- Henry Rollins (vocals)
 - Keith Morris
-- Keith Morris (former singer)
-- Mugger
 
 ## genres
 - American Hardcore
 - California Hardcore
 - Hardcore
 - Hardcore Punk
-- Hardcore punk
 - Punk
 - Punk Rock
-- punk
 
 ## labels
 - Mystic Records
@@ -34,10 +25,10 @@
 ## albums
 **Damaged (1981)** : This album was a pivotal record for Nate Mendel, who initially struggled to understand hardcore music but experienced a click halfway through listening to "Damaged." He was drawn to its energy, aggression, and "weirdness." "Well, the one that, that, where I understood what hardcore we call it, hardcore at the time was about, was, uh, black flags damaged." ← https://www.youtube.com/watch?v=Mh-qg1izM98 ← black-flag
 **Nervous Breakdown (1979)** : Released in January 1979, almost simultaneously with The Middle Class's debut, this EP contained 4 songs over 5 minutes and 13 seconds. The band had to create their own label, SST, to release it. "Released at almost exactly the same time, and I mean with the days of each other, was Black Flag's nervous breakdown." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← black-flag
-**Nervous Breakdown (1979) – Debut EP** : Released in January 1979, almost simultaneously with The Middle Class's "Out of Vogue," this EP features 4 songs totaling 5 minutes and 13 seconds. The band, originally formed as Panic in 1977, had to create its own record label, SST, to release the EP after failing to secure a deal with other labels. SST was founded by Greg Ginn, who owned a ham radio electronics company called Solid State Tuners, and bass player Chuck Dukowski. "Released at almost exactly the same time, and I mean with the days of each other, was Black Flag's nervous breakdown. It was marginally longer, 4 songs over 5 minutes and 13 seconds, so you know. And the band also had to form its own record label to get it out." ← https://www.youtube.com/watch?v=0qigzi1j81U ← black-flag
+**Nervous Breakdown (1979)** : Released in January 1979, almost simultaneously with The Middle Class's "Out of Vogue," this EP features 4 songs totaling 5 minutes and 13 seconds. The band, originally formed as Panic in 1977, had to create its own record label, SST, to release the EP after failing to secure a deal with other labels. SST was founded by Greg Ginn, who owned a ham radio electronics company called Solid State Tuners, and bass player Chuck Dukowski. "Released at almost exactly the same time, and I mean with the days of each other, was Black Flag's nervous breakdown. It was marginally longer, 4 songs over 5 minutes and 13 seconds, so you know. And the band also had to form its own record label to get it out." ← https://www.youtube.com/watch?v=0qigzi1j81U ← black-flag
 
 ## songs
-**Louie Louie (Cover)** : Black Flag is among the numerous artists who have covered Richard Berry's "Louie Louie," with the song being covered more than 1600 times in total. "And since then, the song has been covered more than 1600 times by everyone from the beach boys to the stooges to motorhead to black flag to the smashing pumpkins." ← https://www.youtube.com/watch?v=L0j9iDuHQVA ← black-flag
+**Louie Louie** : Black Flag is among the numerous artists who have covered Richard Berry's "Louie Louie," with the song being covered more than 1600 times in total. "And since then, the song has been covered more than 1600 times by everyone from the beach boys to the stooges to motorhead to black flag to the smashing pumpkins." ← https://www.youtube.com/watch?v=L0j9iDuHQVA ← black-flag
 **Nervous Breakdown (1978)** : Released in 1978, this song by Black Flag, a band from Southern California, was characterized by hard, fast, and intense music. While not classified as actual skate punk, it is considered a significant part of its ancestry. "That's Black Flag from 1978 with nervous breakdown, not actual skate punk, but definitely part of its ancestry." ← https://www.youtube.com/watch?v=44dXy0StjIQ ← black-flag
 **Nervous Breakdown (1979)** : This song is the title track from Black Flag's debut EP, released in January 1979. It exemplifies the early hardcore sound and was instrumental in the band's self-release strategy, as they formed SST Records to get the music out. "The title track of Black Flag's nervous breakdown EP released in January 1979." ← https://www.youtube.com/watch?v=0qigzi1j81U ← black-flag
 **TV Party (1982)** : Released in 1982, with Henry Rollins on vocals, this song is characterized as a "fun dumb song," showcasing a less serious side of the otherwise intense hardcore band. "It's Black Flag from 1982, Henry Rollins on vocals by this time, with a fun dumb song called TV Party." ← https://www.youtube.com/watch?v=tZV1lz-obQE ← black-flag
@@ -64,8 +55,6 @@
 **Spreading Hardcore Gospel** : Black Flag was noted for spreading the "gospel of hardcore" through constant touring. Their music was also part of the "unique stew of influences" that shaped the Seattle sound, where it was not considered strange to be into both hardcore punk and traditional hard rock simultaneously. "And there were bands like Black Flag and Bad Religion that spread the gospel of hardcore by touring constantly. ...No one considered it weird to be into both Black Flag and Arasmith at the same time." ← https://www.youtube.com/watch?v=xdn31jMOOA4 ← black-flag ← black-flag
 **Stage Attack in San Diego** : During a show in San Diego, Henry Rollins was attacked on stage by a woman and her boyfriend, along with two friends, who were reportedly under the influence of Angel Dust. Rollins was dragged off stage and repeatedly hit in the face. The attacker was eventually pulled off, and Rollins finished the set before going to the men's room to straighten out his nose, which ended up slightly crooked. "Play the first few songs and see the squirrel trying to grab me. I move away from her. Her boyfriend and his two friends are apparently on Angel Dust and see this as a great opportunity to drag me off stage and beat this shit out of me." ← https://www.youtube.com/watch?v=DgN0vBIugLc ← black-flag
 **Struggles and Legal Battles** : Black Flag endured several years of struggle and financial difficulty. They nearly lost a significant legal battle with a major label, an event that could have potentially ended both the band and their newly formed independent label. Despite these obstacles, they eventually mastered the complexities of running an independent company and achieved considerable success. "Black Flag struggled for a few years, almost losing a legal battle with a major label that would have killed both the band and their label, but eventually they got the hang of running an independent company and did quite well." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← black-flag ← black-flag
-
-
 
 ## lists
 **"Damaged" (1981) — 1001 Albums You Must Hear Before You Die** : #484, 8.0/10 Scaruffi.

@@ -1,8 +1,5 @@
 # artist - Godspeed You! Black Emperor
 
-## members
-- Collective (unspecified individual names)
-
 ## genres
 - Anarchist
 - Dystopian
@@ -10,7 +7,7 @@
 - Post Rock
 
 ## labels
-- Own label (unspecified name)
+- Own label
 
 ## albums
 **Lift Your Skinny Fists Like Antennas to Heaven (2000)** : This double record features four 20-minute songs, serving as a starting point for understanding the band's influential work in the post-rock universe. "If we have to start somewhere, it should probably be with the band's 2000 album, lift your skinny fists like antennas to heaven." ← https://www.youtube.com/watch?v=pLf3kUONewg ← godspeed-you-black-emperor ← godspeed-you-black-emperor
@@ -28,8 +25,6 @@
 **Recommended Post-Rock Band** : The band is explicitly listed as a recommendation for those wanting to explore post-rock further. "If you want to go deeper, look into bands like Talk Talk, Slint, Barxide Coses, Tortoise, Magwai, Stereolab, Godspeed you, Black Amper, we always keep coming back to them." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← godspeed-you-black-emperor
 **Touring Partners** : Explosions in the Sky, a Texas-based post-rock band, toured with Godspeed You! Black Emperor. "They've toured with nine-inch nails, Fugazi, and here's that name again, Godspeed, New Black Emperor." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← godspeed-you-black-emperor
 **Trent Reznor as a Fan** : Trent Reznor of Nine Inch Nails is noted as a major fan of Godspeed You! Black Emperor, highlighting their significant influence. "And Trent Resner of Nine-East Nails is a major fan." ← https://www.youtube.com/watch?v=pLf3kUONewg ← godspeed-you-black-emperor ← godspeed-you-black-emperor
-
-
 
 ## lists
 **"Slow Riot for New Zerø Kanada E.P." (1999) — AOTY Must Hear 1990s** : #37, 87 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/

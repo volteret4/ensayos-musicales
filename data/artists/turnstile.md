@@ -14,8 +14,6 @@
 **Baltimore Band in Alternative Hard Rock Scene** : Turnstile, a band from Baltimore, was mentioned in the context of new young bands inspired by old school classic rock, contributing to the Alternative Hard Rock scene in the 2010s. They were highlighted alongside Greta Van Fleet and The Struts as examples of this trend. "We should also bring in Baltimore's turn style." ← https://www.youtube.com/watch?v=HSvgRyGiOpE ← turnstile
 **Modern Hardcore Evolution** : Turnstile, based in Baltimore, is presented as an example of how hardcore lives today, demonstrating groups that maintain serious hardcore roots while also exploring more experimental directions in their sound. "For example, there's Baltimore's Turn Style, a group with serious hardcore roots or taking things in a more experimental direction." ← https://www.youtube.com/watch?v=0qigzi1j81U ← turnstile
 
-
-
 ## lists
 **"NEVER ENOUGH" (2025) — AOTY Must Hear 2020s** : #85, 84 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
 **"GLOW ON" (2021) — AOTY Must Hear 2020s** : #527, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/

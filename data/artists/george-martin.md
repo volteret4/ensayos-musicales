@@ -1,5 +1,8 @@
 # artist - George Martin
 
+## genres
+- Soft Rock
+
 ## labels
 - Air Studios
 - EMI
@@ -19,8 +22,8 @@
 **Ranked Below Joe Meek by NME** : In 2014, the English magazine NME (New Musical Express) ranked Joe Meek as the most important producer of all time. This list notably placed Meek above highly respected figures such as George Martin. "Por encima de Phil Spector, Gwen Cillons, George Martin o Rick Rubin." ← El productor que escuchó el nuevo mundo. Joe Meek. | https://www.youtube.com/watch?v=GEI5dpG5pxQ
 **Resignation from EMI (1965)** : In 1965, George Martin resigned from EMI after the label repeatedly refused to modify his pay structure to include royalties. "And when EMI turned them down again to have his pay structure modified, he quit. That was 1965." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← george-martin ← george-martin
 **Salary Dispute with EMI** : Despite The Beatles' immense success, George Martin, as an EMI employee, received only a "tiny weekly salary" and no royalties for his production work, which caused him considerable annoyance. "No matter how successful the Beatles became, no matter how many records they sold, George did not receive any royalties as their producer." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← george-martin ← george-martin
-
-
+**"Unofficial Fifth Beatle"** : Martin had a very public profile and was often referred to as the "unofficial fifth beatle" due to his pivotal role in The Beatles' career. "As the unofficial fifth beatle, Martin had a very public profile." ← Hit Parade Music History and Music Trivia > Pour Some Sugar on Me Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5d1ba84fb8f04493d
+**Most Number Ones Record** : Sir George Martin, a revered figure, until recently held the record for most number one hits among producers, largely due to his extensive work with The Beatles, but also with later hit makers like 70s Soft Rockers America. "who until recently held the record for most number ones among producers, thanks largely to his work manning the boards for the Beatles." ← Hit Parade Music History and Music Trivia > Pour Some Sugar on Me Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5d1ba84fb8f04493d
 
 ## awards
 **Knight Bachelor** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q833163
@@ -31,16 +34,3 @@
 **honorary doctor of the Berklee College of Music (1989)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q112241213
 **Grammy Trustees Award (1996)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5593916
 **Rock and Roll Hall of Fame (1999)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
-
-## charts
-**"Bring Em Out" — Billboard Year-End Hot 100** : #65, 2005. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"U Don't Know Me" — Billboard Year-End Hot 100** : #79, 2005. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"What You Know" — Billboard Year-End Hot 100** : #47, 2006. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Why You Wanna" — Billboard Year-End Hot 100** : #95, 2006. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Big Shit Poppin'" — Billboard Year-End Hot 100** : #75, 2007. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Whatever You Like" — Billboard Year-End Hot 100** : #15, 2008. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Live Your Life" — Billboard Year-End Hot 100** : #37, 2008. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Dead and Gone" — Billboard Year-End Hot 100** : #12, 2009. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Live Your Life" — Billboard Year-End Hot 100** : #18, 2009. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Whatever You Like" — Billboard Year-End Hot 100** : #40, 2009. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"No Mediocre" — Billboard Year-End Hot 100** : #87, 2014. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

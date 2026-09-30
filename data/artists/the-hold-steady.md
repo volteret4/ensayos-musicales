@@ -13,8 +13,6 @@
 **Craig Finn's Springsteen Attitude** : Lead singer Craig Finn is noted for his ability to channel Bruce Springsteen's attitude effectively, particularly in his diction and vocal delivery. "And seeing a Craig Finn can channel the springsteen attitude very well. Listen to the diction and delivery." ← https://www.youtube.com/watch?v=2EerEOuP52I ← the-hold-steady
 **Influence by 70s Springsteen** : The Hold Steady is significantly influenced by Bruce Springsteen's 1970s era, specifically mentioning albums like "Born to Run." "And if you had to distill things down to something, you could say that the Hold Steady are very influenced by 70s era springsteen, especially albums like Born to Run." ← https://www.youtube.com/watch?v=2EerEOuP52I ← the-hold-steady
 
-
-
 ## lists
 **"Stay Positive" (2008) — AOTY Must Hear 2000s** : #77, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
 **"Boys and Girls in America" (2006) — AOTY Must Hear 2000s** : #172, 84 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/

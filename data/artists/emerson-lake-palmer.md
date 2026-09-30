@@ -4,6 +4,9 @@
 - Greg Lake
 - Keith Emerson
 
+## genres
+- Progressive Rock
+
 ## instruments
 - Hammond B3
 
@@ -16,8 +19,7 @@
 ## curiosities
 **Artwork Designer** : H.R. Giger, known for creating the Xenomorph in the "Alien" movie franchise, also designed album artwork for Emerson, Lake & Palmer. "HR Geeger, the guy who created the Xenomorph for the alien movie franchise, also got into the album artwork business. He did stuff for Emerson Lincoln Palmer, Debra Harry, and the Dead Kennedys." ← Ongoing History of New Music > Digital Debris Part 2： Album Artwork | https://www.youtube.com/watch?v=pwebM3TfSdg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Deaths in 2016** : Both Keith Emerson and Greg Lake, members of the progressive rock band Emerson, Lake & Palmer, died in 2016. "We lost both Keith Emerson and Greg Lake of the Prague Band Emerson Lincoln Palmer." ← Ongoing History of New Music > In Memoriam of Those Lost in 2022 | https://www.youtube.com/watch?v=sdPeii-8Ysw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-
-
+**Counter-Movement Inspiration** : The qualities of "lugubrious, intricate, wady" music, which progressive rock fans prized in ELP's sound, were precisely what the emerging artists like the "Angry Young Men" were striving to counteract with their back-to-basics approach. "The very things that progressive rock fans prized in the music of ELP, Yes, Pink Floyd and Early Genesis. These were what the musicians I'm going to focus on today were trying to counteract." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
 
 ## awards
 **Grammy Award for Best New Artist (1972)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643

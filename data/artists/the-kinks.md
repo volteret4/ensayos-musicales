@@ -1,34 +1,21 @@
 # artist - The Kinks
 
-## member of
-- Dave Davis
-- Mick Avory
-- Pete Quayfe
-- Ray Davis
-
 ## members
-- Arthur Greenslade (session piano player on "You Really Got Me" re-recording)
-- Bobby Graham (session drummer for early recordings)
 - Dave Davies
-- Dave Davis
-- Jimmy Page (disputed session rhythm guitarist for early recordings)
-- John Start (left before final name)
-- Mick Avory (joined as permanent drummer)
-- Mickey Willett (left before final name)
-- Pete Quayfe
-- Rasa Didzpetris (backing vocals on "Stop Your Sobbing")
+- John Start
+- Mick Avory
+- Mickey Willett
+- Pete Quaife
 - Ray Davies
-- Ray Davies (songwriter)
-- Ray Davis
 
 ## genres
 - Arena rock
-- Blues (early material)
+- Blues
 - Blues-influenced rock
 - Garage Rock
-- Heavy Metal (claim)
-- Jazz (early influence)
-- Merseybeat (early singles)
+- Heavy Metal
+- Jazz
+- Merseybeat
 - Mod
 - Pop
 - Powerpop
@@ -36,11 +23,11 @@
 - R&B
 - Rock
 - Rock opera
-- Rockabilly (early material)
-- Trad (early material)
+- Rockabilly
+- Trad
 
 ## labels
-- Pye Records (signed)
+- Pye Records
 
 ## concerts
 - Circuit of Society Balls (early performances as The Bull Weevils)
@@ -52,17 +39,18 @@
 - Vox products
 
 ## albums
-**The Kinks (1964) - Debut Album** : This album was rushed into production due to the sudden success of "You Really Got Me," recorded by the end of August 1964 after their single hit number one. It is described as a "patchy affair" composed mainly of "poor R&B covers," but it also featured "interesting moments" and a significant leap forward in Ray Davis's songwriting with the track "Stop Your Sobbing." "The resulting album is, as one might expect, a patchy affair, made up mostly of poor R&B covers, but there were some interesting moments, and one song from the album in particular, Stop Your Subbing, showed a giant leap forward in Ray's songwriting." ← Episode 119： ＂You Really Got Me＂ by the Kinks | https://www.youtube.com/watch?v=_XNJ6Qwmh_c
+**The Kinks (1964)** : This album was rushed into production due to the sudden success of "You Really Got Me," recorded by the end of August 1964 after their single hit number one. It is described as a "patchy affair" composed mainly of "poor R&B covers," but it also featured "interesting moments" and a significant leap forward in Ray Davis's songwriting with the track "Stop Your Sobbing." "The resulting album is, as one might expect, a patchy affair, made up mostly of poor R&B covers, but there were some interesting moments, and one song from the album in particular, Stop Your Subbing, showed a giant leap forward in Ray's songwriting." ← Episode 119： ＂You Really Got Me＂ by the Kinks | https://www.youtube.com/watch?v=_XNJ6Qwmh_c
 
 ## songs
+**Come Dancing (1983)** : This keyboard-speckled nostalgic tale was a number six hit during the summer of 1983. As veterans of the first British invasion, The Kinks, still fronted by Ray Davies, demonstrated the continued relevance of established British acts. "The Kinks, yes, the veterans of the first British invasion, still fronted by Ray Davis, with their keyboard speckled nostalgic tale Come Dancing, a number six hit." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
 **Father Christmas (1977)** : Released in 1977, this song was written by Ray Davies and is notable for its thoughtful, dark humor, particularly as punk rock was gaining popularity. It tells the story of a mall Santa who is mugged by a group of hoodlums who demand money and jobs for their fathers instead of toys, commenting on societal disparity during the holidays. The BBC was hesitant to play it due to its controversial lyrics, which included lines like "give my daddy a job because he needs one" and "if you've got one, I'll have a machine gun." Dave Davies contributed "interesting guitar parts" and "Christmasy chimes," appreciating the song's message about the "have and have nots." Ray Davies defended the song as an opportunity for rock music to convey ideas and opinions, aligning it with the spirit of "true punks" like the Ramones and Lou Reed. "Father Christmas, give us some money. We got no time for your silly toys. We'll beat you up if you don't hand it over. Give all the toys to the little rich boys." ← For the Record - The 70s > Ep. 52 - 70s Christmas Music | https://www.ftr70.com/
 **Long Tall Sally (1964)** : This cover of Little Richard's song was suggested by promoter Arthur Howes, who noticed its popularity at a Beatles concert in Paris in January 1964. The Kinks recorded their version three days later with Ray Davis on lead vocals. Despite Howes's belief it would be a hit, the recording lacked the power of the original or the Beatles' version and only reached number 42 on the charts, marking it as a "flop" in the studio's eyes. "The Kinks version had none of the power of Little Richard's original, or of the Beatles version, and only squigged its weight in number 42 on the charts." ← Episode 119： ＂You Really Got Me＂ by the Kinks | https://www.youtube.com/watch?v=_XNJ6Qwmh_c
+**The Prince of Punks (1977)** : This song was released as the B-side to "Father Christmas" in 1977. Ray Davies used it to make a statement on the emerging punk scene, with lyrics depicting a "well-known Groover, rock and roll user" who failed at various musical styles and "became a punk because he thought he'd make a little more bread," implying some adopted the genre for commercial gain rather than artistic conviction. "Leave it to Ray Davies to make a statement on the flip side of a Christmas song." ← For the Record - The 70s > Ep. 52 - 70s Christmas Music | https://www.ftr70.com/
 **Stop Your Sobbing (1964)** : This song, featured on the debut album, represented a "giant leap forward" in Ray Davis's songwriting. It uniquely included backing vocals from Rasa Didzpetris, Ray Davis's new girlfriend, who would become a regular presence on the group's recordings for the subsequent decade and exert a significant influence on Ray's musical direction. "Stop Your Subbing features backing vocals by someone new to the kinks circle. Raise new girlfriend, Racer Ditz Petriss, who would become a regular feature on the group's records for the next decade." ← Episode 119： ＂You Really Got Me＂ by the Kinks | https://www.youtube.com/watch?v=_XNJ6Qwmh_c
 **Sunny Afternoon (Influence)** : "Sunny Afternoon" by The Kinks is cited as one of hundreds of songs from the 1960s onwards that adopted the descending bass line trick introduced by Dave Van Ronk in his arrangement of "House of the Rising Sun." "Everything from sunny afternoon by the kinks to go now by the moody blues to forever by the beach boys." ← Episode 115： ＂House of the Rising Sun＂ by the Animals | https://www.youtube.com/watch?v=34aIGCnb4X4
-**The Prince of Punks (1977)** : This song was released as the B-side to "Father Christmas" in 1977. Ray Davies used it to make a statement on the emerging punk scene, with lyrics depicting a "well-known Groover, rock and roll user" who failed at various musical styles and "became a punk because he thought he'd make a little more bread," implying some adopted the genre for commercial gain rather than artistic conviction. "Leave it to Ray Davies to make a statement on the flip side of a Christmas song." ← For the Record - The 70s > Ep. 52 - 70s Christmas Music | https://www.ftr70.com/
-**You Really Got Me** : Two months before The Beatles' "I Feel Fine" was recorded, The Kinks were working at IBC Studios in London. Frustrated with not achieving the desired sound for a song Ray Davies had written on piano, his brother Dave Davies took a razor blade to the speaker cone of his Vox Elpico amp and poked holes in it with a pin. This deliberate damage created a cool, distorted sound that became iconic for the track. "But not before Brother Dave Davies hacked up the speaker code of his Vox Elpico amp with a razor blade and poking some holes in it with a pin for good measure." ← https://www.youtube.com/watch?v=iGav9uJwA_w ← the-kinks
+**You Really Got Me (1964)** : Two months before The Beatles' "I Feel Fine" was recorded, The Kinks were working at IBC Studios in London. Frustrated with not achieving the desired sound for a song Ray Davies had written on piano, his brother Dave Davies took a razor blade to the speaker cone of his Vox Elpico amp and poked holes in it with a pin. This deliberate damage created a cool, distorted sound that became iconic for the track. "But not before Brother Dave Davies hacked up the speaker code of his Vox Elpico amp with a razor blade and poking some holes in it with a pin for good measure." ← https://www.youtube.com/watch?v=iGav9uJwA_w ← the-kinks
 **You Really Got Me (1964)** : This was the Kinks' first hit single, released in 1964, establishing them as a prominent blues-influenced rock band from the UK. "Their first hit was You Really Got Me, released in 1964." ← For the Record - The 70s > Ep. 52 - 70s Christmas Music | https://www.ftr70.com/
-**You Really Got Me (1964) - Alleged Unintentional F-Bomb** : During a take for the 1964 song "You Really Got Me," there was apparently some anger in the studio. Dave Davies is alleged to have uttered an F-word under his breath just before the guitar solo, making it a debated instance of an unintentional expletive on record. "Apparently, there was some anger in the studio during the take that resulted in that record." ← https://www.youtube.com/watch?v=gP3oQeYEvso ← the-kinks
+**You Really Got Me (1964)** : During a take for the 1964 song "You Really Got Me," there was apparently some anger in the studio. Dave Davies is alleged to have uttered an F-word under his breath just before the guitar solo, making it a debated instance of an unintentional expletive on record. "Apparently, there was some anger in the studio during the take that resulted in that record." ← https://www.youtube.com/watch?v=gP3oQeYEvso ← the-kinks
 **You Still Want Me (1964)** : Released as the group's second single, this track was a "Merseybeat pastiche" developed by Ray Davis under Larry Page's songwriting guidance, which emphasized including "I," "me," and "you" in the title and lyrics for audience connection. However, it performed even worse than their debut single, "Long Tall Sally," contributing to the group's contractual troubles and putting them on the verge of being dropped by their label. "You still want me, a mercy beat pastiche that didn't even do as well as the group's first record." ← Episode 119： ＂You Really Got Me＂ by the Kinks | https://www.youtube.com/watch?v=_XNJ6Qwmh_c
 
 ## curiosities
@@ -82,18 +70,15 @@
 **Mod Revival Inspiration** : The Kinks were one of Paul Weller's favorite bands, significantly influencing his deep fascination with the original Mods and his subsequent leadership of The Jam's Mod revival. "Leader Paul Weller had always been fascinated by the original mods and his favorite bands became the Kinks in the Who." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM ← the-kinks
 **Ongoing Sibling Rivalry** : The brothers Ray and Dave Davies of The Kinks have maintained a difficult and ongoing relationship for an extended period, characterizing it as a persistent rivalry. "Ray and Dave Davies are the kinks." ← https://www.youtube.com/watch?v=5bB7GAUM63Y ← the-kinks
 **Origin of "The Kinks" Name** : Larry Page suggested the name "The Kinks" for the group, capitalizing on the "kinky" buzzword of the day, which gained popularity in the wake of the Profumo sex scandal and the associated rumors of BDSM. The name was chosen to generate "plenty of outrage" but remain "just about broadcastable," also considering the "camp demeanor" of Dave Davis and Pete Quayfe. Despite the group members initially disliking the name, they ultimately accepted it. "Page decided that this was too good an opportunity to miss... it would make sense to call the group The Kinks, as a name that would generate plenty of outrage, but was still just about broadcastable." ← Episode 119： ＂You Really Got Me＂ by the Kinks | https://www.youtube.com/watch?v=_XNJ6Qwmh_c
-**Persistent Sibling Rivalry** : Ray and Dave Davies of The Kinks are noted for their long-standing and intense sibling rivalry, described as a "bad one" that has continued for an extended period. "Ray and Dave Davies of the Kinks, that's a bad one that's been going on forever." ← https://www.youtube.com/watch?v=cjWxC2jQVrA ← the-kinks ← the-kinks
 **Previous Reigning Champions of Sibling Rivalry** : Before Liam and Noel Gallagher, Ray and Dave Davies of The Kinks were considered the benchmark for intense and long-standing sibling rivalries in music. Their continuous feuding was widely known and documented. "Even crazier than what we've seen with Ray and Dave Davies of the Kinks, the previous reigning champions." ← https://www.youtube.com/watch?v=_b3KRS-Yx_s ← the-kinks
 **Ray Davies' Songwriting Philosophy** : Ray Davies, inducted into the Songwriters Hall of Fame in 1990, viewed rock music as an important platform for conveying ideas and opinions, especially about "things I can fight for." He noted that while many songwriters create lighthearted Christmas songs, his "Father Christmas" aimed for deeper social commentary with a "dark humor" approach, addressing the disparity between the rich and poor. He expressed approval for "true punks" like the Ramones and Lou Reed for their genuine expression, contrasting them with bands he felt were merely "jumping onto" trends. "He said he sees rock as an opportunity to get ideas and opinions across, but it's just become opinionated." ← For the Record - The 70s > Ep. 52 - 70s Christmas Music | https://www.ftr70.com/
 **Recording with Speaker Damage (1964)** : While recording a song in 1964, band member Dave Davies employed an unusual technique to achieve distortion by slashing the speaker cone of his small amplifier. This intentional damage, whether by razor blade or screwdriver, produced a distinctive sound but provided limited control over the characteristics of the distortion. "When the band was recording this song in 1964, he slashed the speaker cone of his small amp." ← https://www.youtube.com/watch?v=PNiL63fY1Y8 ← the-kinks
 **Rolling Stones Clone Perception** : During their first major tour, The Kinks were largely dismissed by audiences as being a "clone of the Rolling Stones." This perception arose because, like the Stones, they frequently performed a similar repertoire of R&B standards common among London R&B bands at the time, with the Stones being the most recognized reference point for that musical style. "mostly being dismissed as being a clone of the Rolling Stones, because like the Stones, they were relying on the same set of R&B standards that all the London R&B bands played." ← Episode 119： ＂You Really Got Me＂ by the Kinks | https://www.youtube.com/watch?v=_XNJ6Qwmh_c
-**Sibling Feud** : There was significant animosity and "no love lost" between brothers Ray and Dave Davies, who were both members of The Kinks. "There's Ray and Dave Davies and the Kinks, so no love lost there." ← https://www.youtube.com/watch?v=zUr9sjWgUcw ← the-kinks ← the-kinks
 **The Bull Weevils (Early Name)** : Following their stint as The Ram Rods, the group changed their name again to The Bull Weevils. This was the name they held when they recorded their demo, connected with Robert Wace, and had a rehearsal observed by Brian Epstein. "shortly after Ray got serious about the Ram Rhyds, who soon changed their name again to the Bull Weevils." ← Episode 119： ＂You Really Got Me＂ by the Kinks | https://www.youtube.com/watch?v=_XNJ6Qwmh_c
 **The Ram Rods (Early Name)** : The group renamed themselves The Ram Rods, taking inspiration from a track by Duane Eddy, who was a significant early rock and roll influence for Ray and Dave Davis. "The group had by now renamed themselves the Ram Rhydts, after a track by Dwain Eddie, who was the first rock and roll musician, Ray and Dave at C&M." ← Episode 119： ＂You Really Got Me＂ by the Kinks | https://www.youtube.com/watch?v=_XNJ6Qwmh_c
 **The Ravens (Early Name)** : Around the time of their demo recording session, The Bull Weevils adopted yet another name, becoming The Ravens. This name was chosen in homage to a recent film starring Vincent Price, which itself was based on an Edgar Allan Poe poem. "the Bull Weevils changed their name yet again to the Ravens, naming themselves after the recent film, starring Vincent Price, based on the Edgar Allan Pope poem." ← Episode 119： ＂You Really Got Me＂ by the Kinks | https://www.youtube.com/watch?v=_XNJ6Qwmh_c
 **UK Garage Rock Example** : The Kinks are cited as a UK band from the original Garage Rock era, alongside The Pretty Things, The Who, and to some extent, The Rolling Stones. "Out of the UK, there were bands like the Kinks and the Pretty Things and the Who, even the Rolling Stones to a certain extent." ← https://www.youtube.com/watch?v=UpWz3X33vSY ← the-kinks
-
-
+**Veterans of the First British Invasion** : The Kinks, still fronted by Ray Davies, were able to achieve a US top 10 hit in 1983, demonstrating the longevity and continued impact of bands from the original 1960s British Invasion. "The Kinks, yes, the veterans of the first British invasion, still fronted by Ray Davis, with their keyboard speckled nostalgic tale Come Dancing, a number six hit." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
 
 ## awards
 **Rock and Roll Hall of Fame (1990)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191

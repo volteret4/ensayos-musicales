@@ -7,19 +7,20 @@
 - Terry Chimes
 
 ## genres
+- Club Music
+- Electro-Funk
+- Pop
 - Pop Punk
+- Punk
 
 ## concerts
 - John Hughes Movies
 - Vans Warped Tour (multiple times)
 
-## albums
-**Mony Mony (1987) - Live Version** : Billy Idol's live version of "Mony Mony," released on October 2, 1987, reached number one and is famously associated with an extremely obscene audience call-and-response chant. This chant, which includes phrases like "hey, mother F, get late, get F'd," spontaneously emerged around 1987 and spread globally via word-of-mouth before the advent of the internet. "Billy's live version first appeared on October 2nd, 1987 long before there was an internet to propagate memes." ← https://www.youtube.com/watch?v=pyoCg3jDzmA ← billy-idol ← billy-idol
-
 ## songs
 **Dancing with Myself (1980)** : The original version of this "dancing, poppy punk song" was first performed and released by Billy Idol as part of Generation X (known as Gen X at the time) in the fall of 1980. He later remixed and re-released the song when he embarked on his solo career. "The original version of Dancing with Myself, Billy Idol did it first when he was part of Generation X, although they were known as Gen X by the time that song came out in the fall of 1980." ← https://www.youtube.com/watch?v=tZV1lz-obQE ← billy-idol
-**Mony Mony (1987) - Live Version** : Billy Idol's live version of this song, released on October 2, 1987, is renowned for an audience call-and-response chant that is extremely obscene. The audience responds to "here she comes now singing Moni Moni" with phrases such as "hey, mother F, get late, get F'd," a phenomenon that spread intercontinentally before the internet. "Billy's live version first appeared on October 2nd, 1987 long before there was an internet to propagate memes." ← https://www.youtube.com/watch?v=pyoCg3jDzmA ← billy-idol ← billy-idol
-**The Lig Idol (1983)** : This song, released in 1983, featured a rhythm track supplied by a LinnDrum, an electronic device invented by Roger Linn that uses real drum samples. Its appearance on the song was considered radical at the time, indicating that Billy's drummer could take the day off and introducing brand new sounds and beats that would revolutionize music. "The Lig Idol from 1983 with a rhythm track supplied by a Linn drum, an electronic device invented by Roger Linn that uses real drum samples in its programming." ← https://www.youtube.com/watch?v=dablAKDOOV0 ← billy-idol ← billy-idol
+**Flesh for Fantasy (1984)** : This fall 1984 hit from British punk-turned-pop star Billy Idol reached the top 30 not only on the Hot 100 but also on Billboard's Rock Tracks and Dance Disco charts, demonstrating significant genre crossover. Described as sounding like "hard electro-func club music," it exemplified the trend of artists not "staying in their lane" during a period when popular music was coming out of a segregated phase. "It's British punk-turned pop star Billy Idol, with his fall 84 hit, Flesh for Fantasy." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
+**Mony Mony (1987)** : Billy Idol's live version of this song, released on October 2, 1987, is renowned for an audience call-and-response chant that is extremely obscene. The audience responds to "here she comes now singing Moni Moni" with phrases such as "hey, mother F, get late, get F'd," a phenomenon that spread intercontinentally before the internet. "Billy's live version first appeared on October 2nd, 1987 long before there was an internet to propagate memes." ← https://www.youtube.com/watch?v=pyoCg3jDzmA ← billy-idol ← billy-idol
 
 ## curiosities
 **"I Want My MTV" Campaign** : Billy Idol was one of the prominent artists who appeared in promos for the "I Want My MTV" campaign. This highly effective campaign encouraged people to call their local cable companies to demand that they carry the new channel, significantly expanding MTV's reach and power across the US. "Promos like this began to run constantly on MTV featuring the police, Pat Benatar, Pete Townsend, Cindy Loper, Billy Eidle, and even David Bowie." ← Ongoing History of New Music > The Rise and Fall and Future of the Music Video - Part 1 | https://www.youtube.com/watch?v=lqd6IbUJ7tg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← billy-idol ← billy-idol
@@ -33,8 +34,6 @@
 **Personal Connection to "Mony Mony"** : Billy Idol revealed in an MTV interview and his autobiography, "Dancing with Myself," that the original Tommy James song "Mony Mony" was playing on the radio the night he lost his virginity. "During an MTV interview, Billy said the song was playing on the radio the night he lost his virginity." ← https://www.youtube.com/watch?v=pyoCg3jDzmA ← billy-idol ← billy-idol
 **Punk Scene Roots** : Born William Broad, Billy Idol was deeply immersed in the original punk rock scene, actively following the Sex Pistols and associating with seminal figures like Johnny Rotten and Sid Vicious before adopting his stage name and forming Generation X. "William Broad followed the pistols everywhere. He was deep into the original punk rock scene." ← https://www.youtube.com/watch?v=tZV1lz-obQE ← billy-idol
 **Rejected "Don't You (Forget About Me)"** : Billy Idol was approached to record the song "Don't You (Forget About Me)" for *The Breakfast Club* soundtrack but ultimately turned it down. The song was initially written by Keith Forsey with Brian Ferry in mind, and after Idol's rejection, it eventually found its way to Simple Minds, becoming their biggest hit. "Then Forsy approached Billy Idle to record the song for the movie. He turned it down." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← billy-idol
-
-
 
 ## awards
 **Grammy Award for Best Male Rock Vocal Performance (1985)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q953746

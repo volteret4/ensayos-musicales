@@ -14,10 +14,9 @@
 - Aretha Franklin
 - Arif Mardin
 - Donny Hathaway
-- Hogi Land
-- Jerry Lieber and Mike Stoller
+- Leiber and Stoller
 - John Coltrane
-- LeVern Baker
+- LaVern Baker
 - Led Zeppelin
 - Ruth Brown
 - The Coasters

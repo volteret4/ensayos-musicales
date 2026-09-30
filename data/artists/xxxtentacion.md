@@ -6,8 +6,6 @@
 ## curiosities
 **Deceased Emo Rap Artist** : XXXTentacion is cited as an important Emo Rap artist who sadly passed away, known for infusing hip hop with intense emotional themes like fear and heartbreak. "You'll hit names like Lil Peep, Juice Roll and Extency on, all of whom sadly have died." ← https://www.youtube.com/watch?v=tdTs-4Irv8c ← xxxtentacion
 
-
-
 ## awards
 **Silver Play Button (2017)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q55293496
 **Gold Play Button (2017)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q61942941

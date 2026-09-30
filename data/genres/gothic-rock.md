@@ -11,7 +11,7 @@
 - Joy Division
 - Sex Gang Children
 - Siouxsie and the Banshees
-- Sisters of Mercy
+- The Sisters of Mercy
 - The Cure
 - The Doors
 

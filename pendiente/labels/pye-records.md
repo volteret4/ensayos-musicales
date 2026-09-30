@@ -13,5 +13,5 @@
 
 ## artists
 - The Searchers
-- The Viper's Skiffle Group
+- The Vipers Skiffle Group
 

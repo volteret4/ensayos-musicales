@@ -6,7 +6,7 @@
 
 ## artists
 - Curtis Mayfield
-- Earth Wind & Fire
+- Earth, Wind & Fire
 - Quincy Jones
 - Rufus
 

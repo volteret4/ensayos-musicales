@@ -14,7 +14,7 @@
 - Ice-T
 - Megadeth
 - Metallica
-- Motorhead
+- Motörhead
 - Municipal Waste
 - Power Trip
 - Slayer

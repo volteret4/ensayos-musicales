@@ -5,4 +5,5 @@
 
 ## artists
 - Everclear
-
+- Nickelback
+- Lifehouse

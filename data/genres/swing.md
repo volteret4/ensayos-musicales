@@ -22,4 +22,3 @@
 - Lucky Millinder
 - Sister Rosetta Tharpe
 - The Smashing Pumpkins
-

@@ -19,8 +19,6 @@
 **Reference to Martin** : He has referenced the TV show *Martin* in his music, indicating the show's lasting cultural impact on contemporary rappers. "Everyone from Kanye West, Sizzah, and Chance the Rapper have referenced Martin." ← https://www.youtube.com/watch?v=6O5TCTO-go4 ← chance-the-rapper
 **Top 100 Earner Without Album Sales (2016)** : Chance the Rapper achieved the remarkable feat of entering the top 100 highest-earning artists in the world at position 95 without having published a single album or any material for sale. This unique case underscores the significant transformation occurring within the music industry's income generation models. "no ha publicado ni un solo album ni un solo material de venta. Y sin embargo ya entra dentro de los cien artistas que más dinero generan del mundo." ← Music Radar Clan > Los artistas que más dinero han ganado este año y por qué. | https://www.youtube.com/watch?v=jjsb0qCeXNI&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
-
-
 ## awards
 **Grammy Award for Best New Artist (2017)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643
 **Grammy Award for Best New Artist (2017)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1453643

@@ -8,5 +8,5 @@
 
 ## artists
 - Chubby Checker
-- The Devils
+- The Dovells
 

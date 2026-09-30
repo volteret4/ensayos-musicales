@@ -3,7 +3,7 @@
 ## members
 - Bob Wills
 - Kermit Whalen
-- Liam McCalliff
+- Leon McAuliffe
 - Tommy Duncan
 
 ## genres
@@ -35,4 +35,3 @@
 **Formation and Lawsuit (1933)** : Bob Wills formed this band in 1933 after being fired from the Light Crust Doughboys. They advertised themselves as "formerly the Light Crust Doughboys," leading to an unsuccessful lawsuit from W. Lee "Pappy" O'Daniel, who claimed ownership of the name and the band's legacy. "They advertised themselves as formerly the light cross-doboys, although that wasn't entirely true, as they weren't the whole band, though they were the core of it, and Papio Daniel sued them unsuccessfully." ← Episode 3： ＂Ida Red＂ by Bob Wills and the Texas Playboys | https://www.youtube.com/watch?v=zu4E9Y1oJA0
 **Influence on Rock and Roll Backbeat** : The band's music, designed for dancing, contained many elements that later became integral to rock and roll, particularly its prominent backbeat, although swung less than in some other forms. Polka music was a significant influence on their backbeat. "As music for dancing, it had a lot of aspects that would later make their way into rock and roll. In particular, it had that backbeat we talked about in episode 2, although here it was swung less." ← Episode 3： ＂Ida Red＂ by Bob Wills and the Texas Playboys | https://www.youtube.com/watch?v=zu4E9Y1oJA0
 **Massive Commercial Success** : They were the first massively successful Western Swing band, achieving widespread popularity with a style that blended elements from diverse musical traditions. "The Texas playboys were the first massively, massively successful Western swing band, and their style was one that involved taking elements from everywhere and putting them together." ← Episode 3： ＂Ida Red＂ by Bob Wills and the Texas Playboys | https://www.youtube.com/watch?v=zu4E9Y1oJA0
-

@@ -5,4 +5,3 @@
 
 ## curiosities
 **Urban Cowboy Music Impact** : Johnny Lee, singer of "Looking for Love," stated that "Urban Cowboy" brought out a lot of great music and "put country back on the map again." He observed that it attracted listeners of all ages and continues to resonate with new generations who discover the movie. "The movie put country back on the map again." ← For the Record - The 70s > Ep. 28 - Soundtracks of the 70s | https://seventies.libsyn.com/028-soundtracks-of-the-70s-12221-5-45-pm
-

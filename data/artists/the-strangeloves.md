@@ -9,7 +9,5 @@
 ## curiosities
 **Original Garage Rock Band** : The Strangeloves are mentioned as one of the numerous Garage Rock bands that emerged from garages and basements during the genre's original era. "Question mark in the Mysterians, the barbarians, the trashmen, the strange loves." ← https://www.youtube.com/watch?v=UpWz3X33vSY ← the-strangeloves
 
-
-
 ## charts
 **"I Want Candy" — Billboard Year-End Hot 100** : #92, 1965. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

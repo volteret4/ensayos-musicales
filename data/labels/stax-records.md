@@ -11,7 +11,7 @@
 **The "Mixed Group" House Band** : The success of "Green Onions" led to Booker T and the M.G.'s becoming the Stax house band, a significant development for the label. This group, with its "mixed" black and white members, played on virtually every session, providing a consistent and distinctive sound. "That Curg group became the stacks house band, playing on every session from that point on." ← Episode 105： ＂Green Onions＂ by Booker T.and the MGs | https://www.youtube.com/watch?v=cw6xJG8E_w0
 
 ## artists
-- Booker T and the M.G.'s
+- Booker T. & the M.G.'s
 - Carla Thomas
 - Chips Moman
 - Delaney & Bonnie

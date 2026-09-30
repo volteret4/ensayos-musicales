@@ -1,6 +1,7 @@
 # artist - Eduardo Benavente
 
 ## member of
+- Alaska y los Pegamoides
 - Parálisis Permanente
 
 ## curiosities
@@ -10,4 +11,3 @@
 **Pioneer of Spanish Post-punk** : Benavente and his band, Parálisis Permanente, became the main references for post-punk and Spanish gothic music, known as Afterpunk or "música siniestra" in the peninsula. Their dark and radical sounds offered a tenebrous contrast to the Movida Madrileña. "Benavente y su grupo se convirtieron en los principales referentes del post-pank y la música gotica española." ← La España Siniestra ｜ La edad de oro del Postpunk y el Dark wave | https://www.youtube.com/watch?v=VN_buvQC69c
 **Tragic Death (May 1983)** : Eduardo Benavente died in a car accident in May 1983 while en route to Zaragoza for a concert with his band, Parálisis Permanente, for the Isis Permanente event. His untimely passing led to the dissolution of the band but marked the beginning of his legend. "su trágica y repentina muerte, con ella desaparecía la banda, pero empezaba la leyenda." ← La España Siniestra ｜ La edad de oro del Postpunk y el Dark wave | https://www.youtube.com/watch?v=VN_buvQC69c
 **Travels to London and Gothic Influence** : After meeting Ana Curra, Eduardo Benavente went to live with her a week later, and they made several trips to London. There, they were fascinated by concerts of bands like Killing Joke and Bauhaus, which influenced them to start styling their hair and dressing in leather pants and creepers. "hicieron varias viajes en la terra, donde quedaron fascinados con los conciertos de Killin Joke y Bout House, comenzaron a cardarse el pelo y a vestir con pantalones de piel y creepers." ← La España Siniestra ｜ La edad de oro del Postpunk y el Dark wave | https://www.youtube.com/watch?v=VN_buvQC69c
-

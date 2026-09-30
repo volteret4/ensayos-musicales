@@ -16,12 +16,12 @@
 **Vevo Joint Venture Partner** : Warner was among the four major record labels that partnered to launch Vevo on December 8, 2009. This joint venture sought to establish a premier platform for music videos, providing a controlled environment for content distribution and advertising revenue generation. "Vivo, a joint venture between the four major record labels at the time, Universal, Sony, Warner and EMI." ← https://www.youtube.com/watch?v=7IDbqdIw3WU ← warner
 
 ## artists
-- 5440
+- 54-40
 - Barenaked Ladies
 - Fanny
 - Green Day
 - Hüsker Dü
-- Lincoln Park
+- Linkin Park
 - Madonna
 - Red Hot Chili Peppers
 

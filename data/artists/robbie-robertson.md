@@ -4,12 +4,12 @@
 - The Band
 
 ## labels
-- Geffen Records (for solo work)
+- Geffen Records
 
 ## albums
 **Contact from the Underworld of Red Boy (1998)** : This 1998 record continued Robertson's exploration of his Indigenous background and themes related to Native cultures. "and a 1998 record called Contact from the Underworld of Red Boy." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← robbie-robertson
 **Music for Native Americans (1994)** : Robbie Robertson delved deeply into his Native Canadian roots with this 1994 album, which explored themes and sounds connected to his Indigenous heritage. "Robbie later went deep into his native Canadian roots with a 1994 album entitled Music for Native Americans." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← robbie-robertson
-**Robbie Robertson (1987) – Self-titled debut** : This self-titled album from 1987 marked Robertson's most famous solo work and produced a significant alt-rock radio hit during that period. "Robbie's most famous solo work is a self-titled album from 1987." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← robbie-robertson
+**Robbie Robertson (1987)** : This self-titled album from 1987 marked Robertson's most famous solo work and produced a significant alt-rock radio hit during that period. "Robbie's most famous solo work is a self-titled album from 1987." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← robbie-robertson
 
 ## songs
 **Somewhere Down the Crazy River (1987)** : This song, released in 1987 from Robbie Robertson's self-titled album, became a big alt-rock radio hit at the time. "Robbie Robertson was somewhere down the Crazy River, a song that was an alt-rock radio hit back in 1987." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← robbie-robertson
@@ -21,8 +21,6 @@
 **Kayuga and Mohawk Heritage** : Robbie Robertson's mother was Kayuga and Mohawk, and she raised him on the Six Nations Reserve located west of Toronto. This strong connection to his Indigenous roots deeply influenced his later work. "His mom was a Kayuga and Mohawk raised on the Six Nations Reserve west of Toronto." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← robbie-robertson
 **Numerous Accolades** : Robbie Robertson has been inducted into the Rock and Roll Hall of Fame, Canada's Walk of Fame, and the Canadian Songwriters Hall of Fame. He is also an Officer of the Order of Canada and a recipient of the Governor-General's Performing Arts Award, and inspired the Aboriginal Lifetime Achievement Award. "He's in the Rock and Roll Hall of Fame. He's in Canada's Waka fame. He has a Governor-General's Performing Arts Award. He's in the Canadian Songwriters Hall of Fame. He's also an Officer of the Order of Canada and he inspired the Aboriginal Lifetime Achievement Award." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← robbie-robertson
 **The Band's Canadian Makeup** : One of the most "American sounding rock groups of the 20th century," The Band, was fascinatingly made up of Robbie Robertson and a bunch of other Canadians, with the sole exception of drummer Levon Helm, who was from Arkansas. "And it's fascinating that one of the most American sounding rock groups of the 20th century was actually made up of Robbie and a bunch of other Canadians. The only non-Canadian was drummer Lee von Helme, he was Mark and Saw." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← robbie-robertson
-
-
 
 ## awards
 **Officer of the Order of Canada** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q15278116

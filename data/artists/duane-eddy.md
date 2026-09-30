@@ -2,13 +2,14 @@
 
 ## genres
 - Guitar Rock
+- Instrumental
 - Rock and roll
+- Surf music
 - Surf Rock
-- Surf music (influence)
 
 ## instruments
 - Gretsch guitar
-- Guitar (twangy sound)
+- Guitar
 
 ## songs
 **Guitar Twang Track** : A Gretsch guitar is credited with providing a significant "twang" sound to one of Duane Eddy's tracks. "It's a Gretch that gives this track so much twang." ← https://www.youtube.com/watch?v=d9HNqb9gJSU ← duane-eddy ← duane-eddy
@@ -20,8 +21,9 @@
 **Influence on Key Musicians** : Eddy's unique guitar style had a significant impact on other prominent musicians, including George Harrison and Bruce Springsteen. "He was a big influence on George Harrison and Bruce Springsteen." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← duane-eddy
 **Last Surviving Billboard Hot 100 Top 10 Artist** : Upon his death, Duane Eddy was the last surviving musician who had achieved a top 10 hit on the very first Billboard Hot 100 singles chart, which debuted in 1958. "When he died of cancer at age 86, he was the last surviving musician to have had a top 10 hit on the first ever Billboard Hot 100 singles chart in 1958." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← duane-eddy
 **Twist Record (Year?)** : Duane Eddy also recorded a twist record during the period of the twist craze. Many of these contemporary twist records were described as being of low artistic merit. "There were twist records by Bill Haley, Neil Sedarka, Dwayne Eddie, almost all of these were terrible records." ← Episode 91： ＂The Twist＂ by Chubby Checker | https://www.youtube.com/watch?v=LzsS8EXdsm8
-
-
+**Produced by Sill & Hazelwood** : This record was one of a few hits produced by the team of Sill and Hazelwood, who later took over some production duties for The Coasters. "Stull and Hazelwood had recently had a few hits of producing records like Vappel Rouse and Byteway and Addy." ← Episode 68： ＂Yakety Yak＂ by the Coasters | https://www.youtube.com/watch?v=dtMHDD0-oOo
+**Cover of "Honky Tonk"** : Dwayne Eddy, known for his instrumental style, recorded a cover version of Bill Doggett's "Honky Tonk." His entire musical style appears to have been derived from the influence of this particular song. "And indeed, Dwayne Eddie's whole style seems to have come from Honky Tonk." ← Episode 50： ＂Honky Tonk＂, by Bill Doggett | https://www.youtube.com/watch?v=H2rYnKmeZF0
+**Influence on Phil Harvey Band** : The Phil Harvey band's concept incorporated Dwayne Eddy's style of rock guitar instrumentals, blending it with complex jazz. "The band's concept was apparently a mix of Dwayne Eddy's style rock guitar instrumentals and complex jazz, with the group All Dressed As mobsters." ← Episode 86： ＂LSD-25＂ by the Gamblers | https://www.youtube.com/watch?v=UNd6UwbL1rA
 
 ## charts
 **"Rebel-'Rouser" — Billboard Year-End Hot 100** : #46, 1958. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

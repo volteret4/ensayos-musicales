@@ -7,5 +7,4 @@
 
 ## artists
 - Green Day
-- Grimbey
 

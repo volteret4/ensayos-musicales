@@ -2,8 +2,8 @@
 
 ## member of
 - Joy Division
-- Joy Division / New Order
 - New Order
+- The Other Two
 - Warsaw
 
 ## instruments
@@ -22,8 +22,3 @@
 **Sequencer Development for "Blue Monday"** : Morris built a sequencer that was crucial for connecting to New Order's Emulator sampler and orchestrating the various electronic elements of "Blue Monday." "He built a sequencer that could be connected to the band's new sampler, a keyboard called an emulator." ← https://www.youtube.com/watch?v=dablAKDOOV0 ← stephen-morris ← stephen-morris
 **Synare S.Y.1 for "Blue Monday" Snare** : What sounds like a brittle snare drum in "Blue Monday" was actually Stephen Morris physically hitting pads connected to a Synare S.Y.1 unit, which functioned as a real-time drum synthesizer. "that's actually Stephen Morris physically hitting pads connected to an S.Y.1 Sincasher unit. So you can call that a real-time drum synthesizer." ← https://www.youtube.com/watch?v=dablAKDOOV0 ← stephen-morris ← stephen-morris
 **Vintage Military Vehicle Collection** : Stephen Morris of New Order possesses a collection of vintage military vehicles, including a tank. "Steven Morris of New Order has a collection of vintage military vehicles. He has a tank." ← https://www.youtube.com/watch?v=72Lei7uug8c ← stephen-morris
-
-
-
-## charts
-**"473" — NME Chart** : 16 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

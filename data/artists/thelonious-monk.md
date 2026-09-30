@@ -1,12 +1,16 @@
 # artist - Thelonious Monk
 
+## genres
+- Bebop
+- Jazz
+
 ## instruments
 - Piano
 
 ## curiosities
 **Improvisational Genius Comparison** : Matthew Good cited Thelonious Monk as an example of musical genius and a reference for live-off-the-floor recording. He described a famous image of Monk changing music on the fly at his piano, with 17 session musicians observing over his shoulders to capture the evolving changes without any written notation. "It always reminds me of that famous picture of Philoneast Monk." ← https://www.youtube.com/watch?v=--g0gugy3ZE ← thelonious-monk ← thelonious-monk
-
-
+**Pioneer of Bebop Jazz** : Thelonius Monk was a key artist in the development of bebop, a jazz subgenre known for its experimentalism, complexity, and focus on individual virtuosity. Along with other bebop pioneers, his work contributed to the decline of the big band era. "Charlie Parker, Sonny Rollins, Dexter Gordon, Miles Davis, Dizzy Gillespie, Thelonius Monk. Their work helped put the nail in the coffin of the big bands." ← https://www.youtube.com/watch?v=V7WjNR1ujhk ← thelonius-monk
+**Improvisational Genius Comparison** : Matthew Good cited Thelonious Monk as an example of musical genius and a reference for live-off-the-floor recording. He described a famous image of Monk changing music on the fly at his piano, with 17 session musicians observing over his shoulders to capture the evolving changes without any written notation. "It always reminds me of that famous picture of Philoneast Monk." ← https://www.youtube.com/watch?v=--g0gugy3ZE ← thelonious-monk
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

@@ -7,8 +7,7 @@
 - Bread
 - Fleetwood Mac
 - James Taylor
-- Olivia Newton John
 - Olivia Newton-John
 - Paul Simon
-- The Eagles
+- Eagles
 

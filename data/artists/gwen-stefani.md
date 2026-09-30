@@ -3,15 +3,22 @@
 ## member of
 - No Doubt
 
+## genres
+- Pop
+
+## albums
+**Love. Angel. Music. Baby. (2004)** : Dropped in 2004, this was Gwen Stefani's pop solo debut album after her time as frontwoman of the 90s ska punk pop band No Doubt. The album's success was significantly boosted in early 2005 by its third single, "Hollaback Girl," a diss track aimed at Courtney Love. "Gwen Stefani, former frontwoman of 90s Scott Punk Pop band, No Doubt, dropped her 2004 pop solo debut Love Angel Music Baby." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+
 ## songs
+**Hollaback Girl (2005)** : This "beefy banger" was chosen as the third single from Gwen Stefani's 2004 solo album and became a "clapback to Courtney Love." The track was inspired by a "snide quip from Courtney Love" in a 17 magazine interview, where Love dismissed Stefani as a "cheerleader." The song's success was ironically a gift from Courtney Love, topping the Hot 100 for four weeks. "Seriously, Hallebat Girl was a clapback to Courtney." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+**Hollaback Girl (2005)** : This song became "the biggest hit of Stefani's career," topping the Hot 100 for four weeks and making history as "the first digital song to sell a million copies." Its commercial triumph demonstrated how a well-crafted diss track could achieve massive mainstream success in the pop world. "Hallebat Girl was the biggest hit of Stefani's career, topping the hot 100 for four weeks and becoming the first digital song to sell a million copies." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+**Hollaback Girl (2005)** : "Hollaback Girl" was notably co-written and produced by "The Neptunes," the influential hip hop production duo consisting of Pharrell Williams and Chad Hugo. Their involvement brought a "syncopation and shit talk of rap crossed with a white girl cheerleader chant" to the track, exemplifying the hybridization of genres in diss records. "what was also remarkable about Hallebat was that it was co-written and produced by the Neptune's, the hip hop production duo of Ferel Williams and Chad Hugo." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
 **Make Me Like You (2016)** : Gwen Stefani's 2016 music video for "Make Me Like You" reportedly had a substantial budget of $4 million. This was considered one of the very rare instances of a multi-million dollar music video production in the 2010s, a period generally characterized by significantly lower production costs. "That video for Gwen Stefani's 2016 video make me like you reportedly had a budget of 4 million." ← https://www.youtube.com/watch?v=mNqqLDpUuZY ← gwen-stefani ← gwen-stefani
 
 ## curiosities
 **Fashion Industry Involvement** : She has been deeply involved in the fashion industry, including developing makeup and eyewear lines. "She's been deeply involved in the fashion industry, including makeup and eyewear." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← gwen-stefani ← gwen-stefani
 **Marriage to Gavin Rossdale (2002-2015)** : Gwen Stefani married Gavin Rossdale of Bush in 2002. They had children together but were never members of the same band. Their marriage ended in 2015. "Then we have Gwen and Gavin Rossdale of Bush married in 2002, split in 2015. They have children but were never in the same band together." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← gwen-stefani ← gwen-stefani
 **Solo Career and Philanthropy** : In addition to selling over 35 million records with No Doubt, Gwen Stefani sold millions more as a solo artist. She raised millions of dollars for child victims of the 2011 tsunami in Japan and supports various LGBT organizations and causes. "She sold over 35 million records with no doubt and millions more as a solo artist. She's raised millions of dollars for child victims of the 2011 tsunami in Japan. She supports various LGBT organizations and causes." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← gwen-stefani ← gwen-stefani
-
-
 
 ## awards
 **Grammy Award for Best Melodic Rap Performance (2002) — Let Me Blow Ya Mind** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1542172

@@ -3,10 +3,9 @@
 ## member of
 - Bauhaus
 - Dali's Car
-- Peter Murphy
 
-## members
-- Peter Murphy
+## genres
+- Goth Rock
 
 ## concerts
 - New York's Greenwich Village residency (August 12, 2019)
@@ -14,7 +13,10 @@
 - RPM Club (Toronto) : Nine Inch Nails opened for Peter Murphy on April 17, 1990. "Nine H. Nails were opening for Goth God Peter Murphy."
 
 ## albums
-**Deep (1990) - Solo Album** : Released in the spring of 1990, this solo album sold a sufficient number of copies to enable Peter Murphy to relocate his family to Turkey. "The album was called Deep." ← https://www.youtube.com/watch?v=A89ipsMeMAg ← peter-murphy ← peter-murphy
+**Deep (1990)** : Released in the spring of 1990, this solo album sold a sufficient number of copies to enable Peter Murphy to relocate his family to Turkey. "The album was called Deep." ← https://www.youtube.com/watch?v=A89ipsMeMAg ← peter-murphy ← peter-murphy
+
+## songs
+**Cuts You Up (1990)** : This song by former Bauhaus frontman Peter Murphy was the top hit on the Modern Rock Chart in 1990. Its success highlighted that, at the time, American alternative rock still predominantly featured a British sound. "The year's top hit on the modern rock chart was Cuts You Up by former Bauhaus frontman Peter Murphy." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 
 ## curiosities
 **2019 On-Stage Heart Attack** : On August 12, 2019, Peter Murphy experienced a heart attack while playing a residency at a club in New York's Greenwich Village. During a soundcheck, he felt shortness of breath and severe pain in both forearms. Despite the pain, he finished the show, though it was a struggle. "On August 12th, 2019, Peter Murphy was playing a residency at a club in New York's Greenwich Village. When he started experiencing shortness of breath as he was doing a sound check, there was also severe pain in his left forearm. Then that pain enveloped both arms. He finished the show, but it was a slog." ← Ongoing History of New Music > People Who (Almost) Died | https://www.youtube.com/watch?v=7rXwaxlEkbQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← peter-murphy ← peter-murphy
@@ -33,8 +35,6 @@
 **Solo Career** : Following the breakup of Bauhaus, Peter Murphy embarked on a solo career. "indirectly gave us Peter Murphy" ← https://www.youtube.com/watch?v=oPgeSCy93bo ← peter-murphy
 **Support for Nine Inch Nails** : Peter Murphy introduced thousands of people to the then-emerging band Nine Inch Nails from Cleveland, who served as his opening act during his tour to promote the "Deep" album. "he introduced thousands of people to his opening act. Little band out of Cleveland called Nine-inch Nails." ← https://www.youtube.com/watch?v=seLx5Ud4v7Y ← peter-murphy ← peter-murphy
 **Withdrawal to Turkey and Islam** : In the early 1990s, Peter Murphy began to withdraw from Western society, moving his family to Turkey after the success of his 1990 album "Deep." There, he dedicated himself to studying Islam and eventually converted, financing his full-time Arabic studies and other pursuits through earnings from his music and other ventures, though these paled in comparison to potential reunion earnings. "In the spring of 1990, he released an album that sold enough copies to allow him to move his family to Turkey, where he began to study Islam, eventually becoming a Muslim." ← https://www.youtube.com/watch?v=seLx5Ud4v7Y ← peter-murphy ← peter-murphy
-
-
 
 ## lists
 **"Dust" (2002) — Sputnikmusic Best Albums 2002** : #83, 4.05 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/

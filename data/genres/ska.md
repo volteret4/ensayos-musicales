@@ -74,13 +74,14 @@
 **UK Ska Fashion Descent** : The clothing styles adopted by the UK Ska scene were directly descended from the original Ska clothes worn in Jamaica. This tradition emphasized sharp, fitted suits in dark colors such as black, navy blue, and chocolate, maintaining a formal yet distinct look. "The clothes for UK SCA descended from the SCA clothes of Jamaica. Sharp suits and dark colors like black, navy blue and chocolate were required." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM ← ska
 **Versatility and Danceability** : The genre's choppy beat was compared to punk, but it could express both anger and happiness, making it highly suitable for dancing. "It could be made angry or happy and it was just great for dancing." ← https://www.youtube.com/watch?v=9uTORLOm5Yg ← ska
 **Why "Ska"? – Murky Origin: Guitar Sound, Clue J. Johnson's Made-Up Word, Byron Lee, or The Skatalites** : The origin of the word "ska" is murky. Theories include: it was taken from the sound of the choppy guitar click (ska-ska-ska); a Jamaican musician named Clue J. Johnson liked to say "ska-vuvie" all the time; Byron Lee, leader of a band called the Dragonaires, coined it; or The Skatalites invented it when they changed their name from The Satellites. "The origins of the word SCA are a little murky." ← https://www.youtube.com/watch?v=VxWp7HrT8oE ← ska
+**Message in a Bottle - Ska meets Post Punk** : The Police's song "Message in a Bottle" from "Regatta de Blanc" was characterized as "Skah meets Post Punk," highlighting a specific fusion in their musical style. "In the UK, the album's first two singles were both number 1 hits, the Dub Reggae style walking on the moon, and the Skah meets Post Punk message in a bottle, whose romantic lyric found Sting brooding about how loneliness was like being a star." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
 
 ## artists
 - Bad Manners
 - Bob Marley
 - Camper Van Beethoven
 - Captain Ska
-- Coxsone Dodd
+- Clement "Coxsone" Dodd
 - Dance Hall Crashers
 - Desmond Dekker
 - Elvis Costello
@@ -99,17 +100,14 @@
 - Reel Big Fish
 - Streetlight Manifesto
 - Sublime
-- Sun Seed
-- The Beat
 - The Clash
 - The English Beat
 - The Interrupters
 - The Mighty Mighty Bosstones
 - The Police
 - The Prodigy
-- The Selector
+- The Selecter
 - The Skatalites
 - The Specials
 - The Steady 45s
-- The Toots and the Maytals
-
+- Toots and the Maytals

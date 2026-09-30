@@ -9,5 +9,4 @@
 
 ## artists
 - Cat System Corp
-- Groceries
 

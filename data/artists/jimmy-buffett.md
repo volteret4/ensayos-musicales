@@ -1,23 +1,20 @@
 # artist - Jimmy Buffett
 
-## members
-- Marvin Gardens (pseudonym for Buffett on "Why Don't We Get Drunk and Screw")
-
 ## genres
-- Country music (satirized by "Why Don't We Get Drunk and Screw")
-- Country-ish island songs (niche he created)
-- Novelty song (often categorized as)
+- Country music
+- Country-ish island songs
+- Novelty song
 
 ## labels
-- Pan Am (airline involved in incident)
+- Pan Am
 
 ## concerts
 - Austin City Limits (Season 2)
 
 ## instruments
-- Beer cans (as Marvin Gardens, percussion on "Why Don't We Get Drunk and Screw")
-- Guitar (strummed, generally)
-- Maracas (as Marvin Gardens on "Why Don't We Get Drunk and Screw")
+- Beer cans
+- Guitar
+- Maracas
 
 ## albums
 **A White Sport Coat and a Pink Crustacean (1973)** : This album, released in 1973, marked Jimmy Buffett's third studio effort and was the pivotal record that launched him onto the path to fame. Notably, the album's title itself is a direct parody of "A White Sport Coat and a Pink Carnation," an album by country music legend Marty Robbins. "In 1973, Buffett released the album, A White Sport Coat and a Pink Crestation Which, in of itself, is a parody of the record, A White Sport Coat and a Pink Carnation by Country Music legend Marty Robbins This was Buffett's third album, and the one that put him on the road to fame." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
@@ -26,7 +23,7 @@
 **Changes in Latitudes, Changes in Attitudes (1977)** : Larry Lee, the drummer and lead vocalist for Ozark Mountain Daredevils' "Jackie Blue," also sang on this Jimmy Buffett song. "He also by the way sang on Jimmy Buffett's changes in latitudes, changes in attitudes." ← For the Record - The 70s > Ep. 46 - The Chaos and Music of the Ozark Music Festival of 1974 | https://www.ftr70.com/ ← jimmy-buffett
 **Cheeseburger in Paradise** : This song is presented as an example of Jimmy Buffett's unique ability to sing about everyday or unusual subjects like cheeseburgers without sounding "like a complete fool." It is sometimes discussed in the context of novelty songs. "Not many people can sing songs about cheeseburgers And not sound like a complete fool But Jimmy Buffett can do that." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
 **Come Monday** : This song is identified as one of the "big eight" songs that Jimmy Buffett reliably performs at his concerts. It is noted as being quite distinct from the more satirical "Why Don't We Get Drunk and Screw." "it's a fair distance from another song in the big eight come Monday." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
-**Jamaica Mistaica** : Jimmy Buffett wrote this song about the January 16, 1996, incident in Jamaica where Jamaican cops mistakenly opened fire on his plane, the "Hemisphere Dancer," while Bono and his family were onboard. The chorus directly references the apology from the Jamaican government and the terrifying experience. "Jimmy Buffett went on to write a song about the incident called Jamaica Mistakea." ← https://www.youtube.com/watch?v=hmnMG6f80Sg ← jimmy-buffett
+**Jamaica Mistaica (1996)** : Jimmy Buffett wrote this song about the January 16, 1996, incident in Jamaica where Jamaican cops mistakenly opened fire on his plane, the "Hemisphere Dancer," while Bono and his family were onboard. The chorus directly references the apology from the Jamaican government and the terrifying experience. "Jimmy Buffett went on to write a song about the incident called Jamaica Mistakea." ← https://www.youtube.com/watch?v=hmnMG6f80Sg ← jimmy-buffett
 **Jamaica Mistaica (1996)** : This song was written by Jimmy Buffett as a direct response to a terrifying incident on January 16, 1996. While he was piloting his Grumman HU-16 C plane, "Hemisphere Dancer," carrying Bono and his family, Jamaican police mistakenly opened fire on the aircraft at Negril airport. The song's chorus reflects the event, with lyrics like, "Don't you know we made a big mistake? We'd be so sad if you told us goodbye and we promised not to shoot you out of the sky." "Jimmy Buffett went on to write a song about the incident called Jamaica Mistakea." ← https://www.youtube.com/watch?v=3eGBnwPWRGo ← jimmy-buffett
 **Margaritaville** : This iconic song, which features lyrics about "wasting away again in Margaritaville," is a cornerstone of Buffett's tropical lifestyle brand. It is frequently cited as a novelty song and contributed significantly to his eventual billionaire status. "As he strombed his guitar and he sang about wasting away again in margaritaville." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
 **My Head Hurts, My Feet Stink, and I Don't Love Jesus** : This song is mentioned as another of Jimmy Buffett's "minor classics," showcasing his distinctive style of witty and unconventional songwriting. "Any guy who's penned such minor classics as Why don't we get drunk and screw And my head hurts, my feet stink, and I don't love Jesus." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
@@ -43,8 +40,6 @@
 **Pilot and Plane Owner in Jamaican Shooting (1996)** : On January 16, 1996, Jimmy Buffett was at the controls of his Grumman HU-16C plane, "Hemisphere Dancer," while taxing at Negril airport in Jamaica, with Bono and his family onboard. The plane was mistakenly fired upon by Jamaican police who believed it was involved in drug running. Following the incident, Buffett penned the song "Jamaica Mistaica" about the event. "He's talking about his family. It was very scary. Let me tell you." ← https://www.youtube.com/watch?v=hmnMG6f80Sg ← jimmy-buffett
 **Pilot and Songwriter** : Jimmy Buffett is an accomplished pilot who owned the Grumman HU-16 C plane, "Hemisphere Dancer." He was at the controls when the plane, carrying Bono and his family, was mistakenly fired upon by Jamaican police at Negril airport in 1996. Following this incident, Buffett wrote a song about the experience, "Jamaica Mistaica." "Buffett was at the controls. He's also a pilot." ← https://www.youtube.com/watch?v=3eGBnwPWRGo ← jimmy-buffett
 **Tropical Lifestyle Authenticity** : Buffett genuinely lived the tropical sun-and-booze lifestyle that formed the core subject matter of his songs. This authenticity meant that when he sang about laid-back living and drinking, he truly meant it, rather than simply adopting a persona for commercial purposes. "It doesn't seem that Buffett was playing up the idea of drinking and living the laid-back lifestyle Just to sell his records, he was living that lifestyle as much as he could anyway So, when he sang songs like this, I think he really meant it." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
-
-
 
 ## awards
 **Florida Artists Hall of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5461189

@@ -1,9 +1,7 @@
 # artist - Raekwon
 
 ## member of
-- Wu Tang Clan
-
-
+- Wu-Tang Clan
 
 ## lists
 **"Only Built 4 Cuban Linx…" (1995) — 1001 Albums You Must Hear Before You Die** : #789.

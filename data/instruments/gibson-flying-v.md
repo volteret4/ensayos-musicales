@@ -7,12 +7,12 @@
 **Radical Modernist Design (1958)** : Introduced in 1958 as part of Gibson's "modernist line," the Flying V featured a body shaped like a large V or an arrowhead, a radical design reflecting the aesthetics of the 1950s with its fins and rocket-like shapes. "The body is shaped like a big V, or maybe an arrowhead." ← https://www.youtube.com/watch?v=d9HNqb9gJSU ← gibson-flying-v ← gibson-flying-v
 
 ## artists
-- Big Rack
+- Big Wreck
 - Bon Jovi
 - Jimi Hendrix
-- KISS
+- Kiss
 - Lenny Kravitz
-- Smashing Pumpkins
+- The Smashing Pumpkins
 - The Kinks
 - Tom Petty
 

@@ -13,6 +13,7 @@
 **Rural Mento Instrument** : The banjo was a core instrument in Rural Mento, one of the two main variants of Jamaican Mento music, contributing to its resemblance to American country music and British Skiffle. "Rural Mentor, was based around instruments like the Banjo." ← Episode 114： ＂My Boy Lollipop＂ by Millie | https://www.youtube.com/watch?v=kf-DtqoOsRI
 **Traditional Country Element** : Banjos are regarded as an essential component of traditional country music, but country radio in the 1970s deliberately moved away from featuring them. "Fiddles and banjos that really are an essential piece of traditional country music." ← For the Record - The 70s > Ep. 2 - Countryish Music of the 1970s (Encore) | https://www.ftr70.com/
 **Traditional Trag Jazz Instrument** : The banjo is a traditional instrument used in Trag Jazz, a revival of Dixieland Jazz. Trag Jazz music was explicitly made with banjos, among other brass and rhythm instruments. "That meant music made with trumpets, the trombone, the clarinet, the banjo, upright bass and drums." ← https://www.youtube.com/watch?v=zNIVqKqAlnk ← banjo
+**John Mellencamp's Rootsy Experimentation** : For his 1987 album "The Lonesome Jubilee," John Mellencamp and his band incorporated traditional folk and country instruments, including the banjo, to deepen his Americana sound during his imperial peak. "Melanchamp and his band picked up folk and country instruments like auto harp, banjo, accordion and fiddle." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f03154465cd600c5379
 
 ## artists
 - Captain Kick and the Cowboy Ramblers
@@ -23,5 +24,4 @@
 - Steve Martin
 - The Light Crust Doughboys
 - The Pogues
-- Uncle Dave Macon
-
+- John Mellencamp

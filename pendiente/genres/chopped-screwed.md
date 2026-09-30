@@ -6,5 +6,5 @@
 **Origin in Houston** : In Houston, the rap scene became deeply bass-heavy and slow, giving rise to chopped & screwed music. This style was strongly linked to the use of narcotics, particularly "purple drank" (a codeine-based drink). "En Houston por el contrario, la escena se vuelve profundamente besada y lenta, dando pie al Chopin a Escriuet, muy ligada al uso de narcóticos, en concreto al parpeldrank, y esa bebida con base de codeína." ← La salvaje historia del TRAP ESPAÑOL (2013-2026) | https://www.youtube.com/watch?v=4hBhiU5jj6s
 
 ## artists
-- DJ e-Screw
+- DJ Screw
 

@@ -1,10 +1,9 @@
 # artist - Parálisis Permanente
 
 ## members
-- Ana Curra (joined after Javier Benavente left)
+- Ana Curra
 - Eduardo Benavente
-- Javier Benavente (left)
-- Johnny Canut
+- Javier Benavente
 - Nacho Canut
 
 ## genres
@@ -14,7 +13,7 @@
 - Post-punk
 
 ## labels
-- Hispavox (reticent to release their dark sound)
+- Hispavox
 - Tres Cipreses
 
 ## concerts
@@ -33,4 +32,3 @@
 **Formation and Lineup Changes (1981)** : Parálisis Permanente was formed in 1981, initially including brothers Eduardo and Javier Benavente, along with Nacho and Johnny Canut. Javier Benavente later left the band, and Ana Curra joined, bringing her distinctive keyboard sound. "La banda se formó en 1981 para Lelo Apegamo y des, con los hermanos Eduardo y Javier benavente por un lado y Nacho y Johnny Canut por otro. Finalmente Javier abandonó la banda y se les unió a Nakura." ← La España Siniestra ｜ La edad de oro del Postpunk y el Dark wave | https://www.youtube.com/watch?v=VN_buvQC69c
 **Self-Release Strategy through Tres Cipreses** : Due to Hispavox's reluctance to release material from such a dark-sounding band, Parálisis Permanente was inspired by British groups who self-edited their works. This led them to open their own independent label, Tres Cipreses, establishing a norm in the Spanish underground. "Ispavox tenía muchas reticencias en sacar disco a una banda tan oscura, por lo que inspirados por todos estos grupos británicos que se autoditaban sus trabajos, habrían su propio sello, tres cirpreses." ← La España Siniestra ｜ La edad de oro del Postpunk y el Dark wave | https://www.youtube.com/watch?v=VN_buvQC69c
 **Underground Gem Status and Media Exposure** : Their split single with Gabinete Caligari quickly became a highly valued release within the underground scene. This success enabled both bands to perform at more concerts and secure invitations to television programs. "El disco se convertió en una joya dentro del underground, y pronto ambas bandas empezaron a tocar en cada vez más conciertos y ser invitados a programas de televisión." ← La España Siniestra ｜ La edad de oro del Postpunk y el Dark wave | https://www.youtube.com/watch?v=VN_buvQC69c
-

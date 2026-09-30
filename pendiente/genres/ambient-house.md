@@ -6,8 +6,7 @@
 **Precursor to Chill Out** : The term "Ambient House" was initially used by Jimmy Cauty and Bill Drummond (The KLF) to describe their productions, which were inspired by the relaxing sessions in early rave rest areas like "The White Room." This term quickly gained popularity, eventually deriving into other genres, and served as a direct precursor to the "Chill Out" genre as it became widely known. "Fue un Jimmy Couty junto a Bill Drummond, quien estenía en el otro grupo seminal del género de KLF, quienes, a sus producciones inspiradas en esas sisiones, empezaron a llamarlas ambient House." ← Chill Out： La pausa que necesitaba la electrónica | https://www.youtube.com/watch?v=VPOAA3ZaA9s
 
 ## artists
-- Alex Patterson
-- KLSE
+- Alex Paterson
 - The KLF
-- The Or
+- The Orb
 

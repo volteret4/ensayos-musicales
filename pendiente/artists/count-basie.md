@@ -1,10 +1,13 @@
 # artist - Count Basie
 
+## member of
+- Benny Goodman
+
 ## members
-- Billy Holiday (vocalist)
-- Jimmy Rushing (vocalist)
-- Joe Williams (lead vocalist)
-- Lester Young (tenor sax player)
+- Billie Holiday
+- Jimmy Rushing
+- Joe Williams
+- Lester Young
 
 ## genres
 - Jazz
@@ -15,12 +18,14 @@
 - Jamboree
 
 ## instruments
-- Piano (implied as band leader)
+- Piano
 
 ## songs
-**One O'Clock Jump (Year Unspecified)** : "One O'Clock Jump" was Count Basie's biggest hit. James Brown, who loved Basie's jazz and swing style, used to try to teach himself to play this song on the piano, indicating Basie's significant early influence on Brown's musical development. "He loved Count Basie, and used to try to teach himself to play one o'clock jump, Count Basie's biggest hit on the piano." ← Episode 39： ＂Please Please Please＂ by James Brown and the Famous Flames | https://www.youtube.com/watch?v=DSkNVh93tAs
+**One O'Clock Jump** : "One O'Clock Jump" was Count Basie's biggest hit. James Brown, who loved Basie's jazz and swing style, used to try to teach himself to play this song on the piano, indicating Basie's significant early influence on Brown's musical development. "He loved Count Basie, and used to try to teach himself to play one o'clock jump, Count Basie's biggest hit on the piano." ← Episode 39： ＂Please Please Please＂ by James Brown and the Famous Flames | https://www.youtube.com/watch?v=DSkNVh93tAs
 
 ## curiosities
+**Instrumentalist Leader** : Count Basie, the leader of the Count Basie Orchestra, was an instrumentalist (specifically, he played the piano) rather than a singer, consistent with the instrumental focus prevalent in big band music. "the Count Basie Orchestra. All of the leaders of the big bands were instrumentalists. They played clarinet, or trombone, or piano. They didn't sing." ← Episode 50： ＂Honky Tonk＂, by Bill Doggett | https://www.youtube.com/watch?v=H2rYnKmeZF0
+**Spirituals to Swing Performance** : The Count Basie Orchestra was part of the star-studded lineup at John Hammond's "Spirituals to Swing" concerts. Blues shouters like Big Joe Turner were noted for their ability to compete with the sheer volume and power of bands like Count Basie's with just their voice. "The Count Basie Orchestra and more all appeared, and the show was successful enough that the next year there was a follow-up." ← Episode 2： ＂Roll Em Pete＂ by Big Joe Turner | https://www.youtube.com/watch?v=thpMb1A_fAs
 **Charts Arranged by Quincy Jones** : As a young arranger, Quincy Jones wrote charts for Count Basie, among other prominent jazz musicians, demonstrating his early skill in transcribing horn parts. "He wrote charts for the likes of Count Basie, Tommy Dorsey and Dina Washington, serving as an arranger while barely out of his teens." ← Hit Parade Music History and Music Trivia > I Wanna Rock with Q. Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f06154465cd600c5440
 **Discovered by John Hammond** : Count Basie was one of the legendary artists discovered by John Hammond. "he'd been the person to discover Billy Holiday, and Count Basie, and Charlie Christian." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
 **Early Riff Practitioner** : Count Basie is mentioned as one of the musicians who performed a specific guitar riff that later became part of the lineage leading to Chuck Berry's "Johnny B. Good" intro, preceding its appearance in Louis Jordan's recording. "Andy Kirk and Count Basie before it turns up in the Louis Jordan record." ← Episode 67： ＂Johnny B. Goode＂, by Chuck Berry | https://www.youtube.com/watch?v=sHlA-qihuNw
@@ -32,4 +37,4 @@
 **Musician Band Leader** : Count Basie was an excellent musician and band leader, capable of holding his own on his instrument among most musicians. "Most of the big band leaders we remember now were themselves excellent musicians, Count Basie, Duke Ellington, Benny Goodman." ← Episode 7： ＂Good Rockin' Tonight＂ by Wynonie Harris | https://www.youtube.com/watch?v=IgqSPoYRUCM
 **Perceived Dance Popularity Due to Strike** : Basie's band appeared to get more people dancing during the cutting contest, but this was due to Whitey's Lindy Hoppers striking and refusing to dance to Chick Webb's music, not necessarily a reflection of audience preference. "But everyone also agreed that Basie's band had got people dancing more, a lot more. What nobody realised at the time was that Whitey's Lindy Hoppers had gone on strike." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
 **Rivalry with Chick Webb** : Count Basie, unlike Duke Ellington, was a direct rival to Chick Webb, operating in a similar musical style. They were slated for an after-hours cutting contest following Benny Goodman's Carnegie Hall concert, an event eagerly anticipated by jazz fans. "Count Basie, though, was a different matter. He was trying to do the same kind of thing as Chick Webb, and he was doing it well." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
-
+**Discovered by John Hammond** : Count Basie was among the staggering roster of artists discovered by legendary talent scout, record producer, and label executive John Hammond. ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4eef8e6dd12efb02c3c9

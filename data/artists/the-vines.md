@@ -2,14 +2,11 @@
 
 ## members
 - Craig Nicholls
-- Craig Nichols
-- Craig Nichols (singer, guitarist)
 - Patrick Matthews
-- Patrick Matthews (bass player)
 
 ## genres
 - Garage Rock
-- Nirvana-influenced (stripped-down rock)
+- Nirvana-influenced
 - Punk
 
 ## labels
@@ -46,8 +43,6 @@
 **Rolling Stone Cover (2002)** : In October 2002, the band was featured on the cover of Rolling Stone magazine, under the headline "Rock is back. Meet the Vines," symbolizing the perceived return of rock music. "In October 2002, they appeared on the cover of Rolling Stone. The headline was, Rock is back. Meet the Vines." ← https://www.youtube.com/watch?v=raRCZ0Y5up8 ← the-vines
 **Single Release and Hype (2001)** : A single released in November 2001 generated incredible hype, marking a turning point in their career. "But then a single in November 2001. The hype was incredible." ← https://www.youtube.com/watch?v=raRCZ0Y5up8 ← the-vines
 **Sydney, Australia Origin** : The Vines are described as a "much hyped band from Sydney, Australia," known for producing "pretty solid music." "The Vines are this much hype band from Sydney, Australia who put out some pretty solid music." ← Ongoing History of New Music > Alt Rocks Craziest People | https://www.youtube.com/watch?v=CgReNKciFJo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← the-vines ← the-vines
-
-
 
 ## lists
 **"Highly Evolved" (2002) — 1001 Albums You Must Hear Before You Die** : #960.

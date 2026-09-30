@@ -1,7 +1,7 @@
 # artist - Mogwai
 
 ## members
-- Stuart Braithwaite (leader)
+- Stuart Braithwaite
 
 ## genres
 - Instrumental
@@ -22,8 +22,6 @@
 **Name Origin** : The band's name is derived from the movie *Gremlins*. "And yes, the band's name does come from the movie Gremlins." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← mogwai
 **Recommended Post-Rock Band** : The band is explicitly listed as a recommendation for those wanting to explore post-rock further. "If you want to go deeper, look into bands like Talk Talk, Slint, Barxide Coses, Tortoise, Magwai, Stereolab, Godspeed you, Black Amper, we always keep coming back to them." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← mogwai
 **Recommended for Fans** : Boards of Canada is highly recommended for fans of Mogwai's dream pop sound. "cualquiera avante del Drimpop de ... Mokuey o de My Lord Ninjaked, va a pasarse, vamos, va a maravillarse con lo que es Borsov Canadá." ← Music Radar Clan > BOARDS OF CANADA. La visión romántica del IDM | https://www.youtube.com/watch?v=llE5K5hjwVg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← mogwai ← mogwai
-
-
 
 ## lists
 **"Come on Die Young" (1999) — AOTY Must Hear 1990s** : #36, 74 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/

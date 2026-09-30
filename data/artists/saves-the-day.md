@@ -11,7 +11,5 @@
 **Late 90s Emo Band** : Saves the Day is mentioned as an emo band that emerged later in the 1990s, during the genre's growth and eventual breakthrough. "and later in the decade we heard from taking back Sunday, Thursday, the promise ring, and saves the day." ← Ongoing History of New Music > The Tribes of Alt-Rock | https://www.youtube.com/watch?v=mAlc-N2wn5s&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Tours with Major Bands** : Saves the Day, explicitly identified as an emo band, had significant touring opportunities during the third wave of emo. They toured not only with other emo-affiliated bands like Weezer and Dashboard Confessional but also with major acts such as Green Day and Blink-182. "Saves the Day, definitely an emo band, toured with not just fellow travelers Weezer, but also Green Day and Blink 182, and Dashboard Confessional, Open for You too." ← Ongoing History of New Music > Alt Rock Revivals Part 3： Emo | https://www.youtube.com/watch?v=v_am7ifh7Pk&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
-
-
 ## lists
 **"Through Being Cool" (1999) — Sputnikmusic Best Albums 1999** : #85, 4.09 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1999/

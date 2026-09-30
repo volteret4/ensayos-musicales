@@ -8,6 +8,6 @@
 ## artists
 - John Dolphin
 - Richard Berry
-- The Debenares
+- The Debonaires
 - The Hollywood Blue Jays
 

@@ -24,12 +24,8 @@
 - Ghostface Playa
 - Hollywood
 - Lil Ugly Mane
-- Lila Glimain
 - Mr. Sisco
-- Raider Clan
 - Raider Klan
-- Space Goshpar
 - SpaceGhostPurrp
-- Spinsy Gospar
-- Suicide Boy
+- $uicideboy$
 

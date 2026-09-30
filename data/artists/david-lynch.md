@@ -1,11 +1,10 @@
 # artist - David Lynch
 
 ## member of
-- The Flamingos (original group that became The Platters)
 - The Platters
 
 ## genres
-- Dreampop (influence)
+- Dreampop
 
 ## curiosities
 **"Twin Peaks" Soundtrack Collaboration** : Lynch's collaboration with composer Angelo Badalamenti and singer Julee Cruise, which began with "Blue Velvet," extended to the TV series "Twin Peaks." He had a specific dreamy and spooky atmosphere in mind for the show, which they helped bring to life through its soundtrack. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← david-lynch
@@ -14,8 +13,6 @@
 **Floating Into the Night – Julee Cruise Production** : Lynch produced this album for singer Julee Cruise, which is described as influential. "He produced the influential album 'Floating Into the Night' by Julee Cruise." ← https://www.youtube.com/watch?v=ZPlsR7_WiZQ ← david-lynch
 **Formation of The Original Platters** : After leaving The Platters in 1967, David Lynch formed a group called "The Original Platters," and recruited former classic lineup members Zola Taylor and Paul Robi to join him. "After David Lynch left in 1967, for example, he formed a group called The Original Platters, and got both Zola Taylor and Paul Roby into the group." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
 **Interest in British Dreampop** : By the time his film "Blue Velvet" was released in 1986, David Lynch was already a fan of British Dreampop. This interest informed the "dreamy, spooky atmosphere" he sought for his film and later for his TV series "Twin Peaks." ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← david-lynch
-
-
 
 ## awards
 **Eagle Scout** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3046356
@@ -37,6 +34,3 @@
 **Officer of the Legion of Honour (2007)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q10855195
 **Sitges Grand Honorary Award (2020)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q48781665
 **Academy Honorary Award (2020)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q727328
-
-## lists
-**"These Are Not Fall Colors" (1994) — Sputnikmusic Best Albums 1994** : #156, 3.99 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/

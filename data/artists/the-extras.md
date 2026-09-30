@@ -13,9 +13,3 @@
 **Associated Acts** : The members of The Extras also served as the backup band for another Canadian artist from that era, BB Gabore. "The guys in the group were part of the backup band for another Canadian from the era named BB Gabore." ← https://www.youtube.com/watch?v=zUQ2vZzmRiI ← the-extras
 **Band Breakup and Member Activities** : After their time together, The Extras broke up and its members "scattered." One of the former members reportedly found a job as a chef or professional cook. "The extras broke up and scattered. I know that one of the guys got a job as a chef or a professional cook." ← https://www.youtube.com/watch?v=zUQ2vZzmRiI ← the-extras
 **Band Origin** : The Extras were a Toronto band from the early 1980s. "It's a track by the extras called Circular Impression, a Toronto band who recorded on the Ready Records label in the early 1980s." ← https://www.youtube.com/watch?v=zUQ2vZzmRiI ← the-extras
-
-
-
-## lists
-**"Instant" (1995) — Scaruffi 1990s** : #663, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Starters Alternators" (1998) — Scaruffi 1990s** : #664, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

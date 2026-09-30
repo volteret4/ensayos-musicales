@@ -11,7 +11,7 @@
 - David Bowie
 - Dirty Projectors
 - Embryo
-- Jandec
+- Jandek
 - Moondog
 - Nina Hagen
 - Ryuichi Sakamoto

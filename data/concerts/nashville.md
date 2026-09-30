@@ -5,5 +5,5 @@
 
 ## artists
 - The 101ers
-- The Sex Pistols
+- Sex Pistols
 

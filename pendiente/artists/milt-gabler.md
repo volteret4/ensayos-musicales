@@ -3,7 +3,6 @@
 ## labels
 - Commodore
 - Decca Records
-- Decca Records (Vice President)
 
 ## songs
 **Choo Choo Ch'Boogie** : Milt Gabler co-wrote "Choo Choo Ch'Boogie," a song that bridged country and western with rhythm and blues in Louis Jordan's performance. "Tchoo-choo-choo-bougie was co-written by Gablea" ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
@@ -17,4 +16,3 @@
 **Pioneer of Reissue Record Labels** : In 1935, Milt Gabler, a record shop owner with a passion for jazz, founded the very first reissue record label to license and re-release out-of-print recordings by artists such as Bix Beiderbecke and Bessie Smith for his customers. "So in 1935, Gabler started his own record label and licensed those out of print recordings by people like Big Spiderbeck and Bessie Smith, becoming the owner of the very first ever reissue record label." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
 **Producer of "Strange Fruit"** : Milt Gabler, a friend and politically left-leaning, negotiated a special deal with Columbia Records to produce Billy Holiday's "Strange Fruit" for a single session and release it on his Commodore label. The record sold over a million copies and became a landmark recording. "He eventually negotiated a special deal with Columbia, Holiday's label, that he could produce her for one session and put out a single recording by her on Commodore." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
 **Producer of Bill Haley and His Comets** : Milt Gabler produced Bill Haley and His Comets, an act that covered Louis Jordan's "Choo Choo Ch'Boogie" and heavily based their style on Jordan's music. "another act built cable produced, an act two more than any other based their style on Jordans" ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
-

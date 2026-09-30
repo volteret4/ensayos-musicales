@@ -5,5 +5,5 @@
 
 ## artists
 - Fats Domino
-- Sister Rosetta Tharp
+- Sister Rosetta Tharpe
 

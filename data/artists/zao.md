@@ -1,15 +1,13 @@
 # artist - Zao
 
 ## genres
-- Christian alternative rock (implied by label and context)
+- Christian alternative rock
 
 ## labels
 - Tooth and Nail
 
 ## curiosities
 **Tooth and Nail Artist** : Zao is mentioned as one of the bands from the Tooth and Nail label that was creating excitement. "Zau." ← https://www.youtube.com/watch?v=6cbL0zLQeIs ← zao ← zao
-
-
 
 ## lists
 **"Where Blood and Fire Bring Rest" (1998) — Sputnikmusic Best Albums 1998** : #48, 4.17 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1998/

@@ -9,8 +9,6 @@
 - Def Leppard
 - Gary Glitter
 - Iggy Pop
-- Joe Bryant
-- KISS
 - Kiss
 - Lou Reed
 - New York Dolls

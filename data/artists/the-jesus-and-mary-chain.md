@@ -1,12 +1,8 @@
 # artist - The Jesus and Mary Chain
 
 ## members
-- Jim Reed
-- John Reed
-- John Reid
+- Jim Reid
 - Phil King
-- Two brothers (unnamed)
-- William Reed
 - William Reid
 
 ## genres
@@ -15,11 +11,13 @@
 - Fuzz Rock
 - Garage Rock
 - Guitar-based music
-- Indie Rock
 - Indie music
-- Noise Pop (implied)
+- Indie Rock
+- Modern Rock
+- Noise Pop
 - Noise Rock
-- Post-Punk (implied)
+- Pop
+- Post-Punk
 - Shoegaze
 
 ## labels
@@ -36,18 +34,21 @@
 - Portastudio
 
 ## albums
-**Darklands (1987) - EP** : This EP, released by one of the most important Scottish indie bands of the 1980s, features the song "On the Web," which was notably made on a Portastudio. Its inclusion on this influential record highlights how low-fidelity recording techniques were being adopted by significant artists as a deliberate artistic choice, contributing to the evolving lo-fi scene. "In 1987, they issued an EP entitled Darklands. On it was this song made on a port of studio. It's called On the Web." ← https://www.youtube.com/watch?v=Jq-e-fZxXOs ← the-jesus-and-mary-chain ← the-jesus-and-mary-chain
-**Psycho Candy (1985) - Debut Record** : Released in November 1985, this album was the band's debut and featured the song "Just Like Honey," which garnered significant attention. The album presented a large slab of fuzz guitar combined with lovely, breathy melodies, contributing a crucial "DNA" to the emerging shoegaze sound. "Then in November 1985, they released their debut record called Psycho Candy, and the song that grabbed everybody's attention was this one." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← the-jesus-and-mary-chain ← the-jesus-and-mary-chain
+**Darklands (1987)** : This EP, released by one of the most important Scottish indie bands of the 1980s, features the song "On the Web," which was notably made on a Portastudio. Its inclusion on this influential record highlights how low-fidelity recording techniques were being adopted by significant artists as a deliberate artistic choice, contributing to the evolving lo-fi scene. "In 1987, they issued an EP entitled Darklands. On it was this song made on a port of studio. It's called On the Web." ← https://www.youtube.com/watch?v=Jq-e-fZxXOs ← the-jesus-and-mary-chain ← the-jesus-and-mary-chain
+**Psycho Candy (1985)** : Released in November 1985, this album was the band's debut and featured the song "Just Like Honey," which garnered significant attention. The album presented a large slab of fuzz guitar combined with lovely, breathy melodies, contributing a crucial "DNA" to the emerging shoegaze sound. "Then in November 1985, they released their debut record called Psycho Candy, and the song that grabbed everybody's attention was this one." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← the-jesus-and-mary-chain ← the-jesus-and-mary-chain
 
 ## songs
 **Just Like Honey (1985)** : "Just Like Honey," released by The Jesus and Mary Chain in 1985, was a single that was instrumental in establishing Creation Records as a significant force in British indie culture. "The Jesus and Mary Chain with just like honey, the single that established Creation records as a force in British indie culture in 1985." ← https://www.youtube.com/watch?v=zB5zxycrbnY ← the-jesus-and-mary-chain
 **Kill Surf City** : This song was recorded by The Jesus and Mary Chain. "The Jesus and Mary chain, not only recorded a song called Kill Surf City, but they also covered the Beach Boys Surfing USA." ← https://www.youtube.com/watch?v=pOeChe_D1Ag ← the-jesus-and-mary-chain
 **Never Understand (1985)** : This single, released in March 1985, generated excitement among "the cool kids" and contributed to the anticipation surrounding The Jesus and Mary Chain's concert at North London Polytechnic College. "In March 1985, the Jesus and Marychain had a single called Never Understand, which had the cool kids pretty excited." ← https://www.youtube.com/watch?v=huAvyInzz3Q ← the-jesus-and-mary-chain
 **On the Web (1987)** : This song, featured on The Jesus and Mary Chain's "Darklands" EP, was notably recorded using a Portastudio. Its inclusion on an influential indie rock record demonstrates the increasing adoption of low-fidelity recording equipment by significant bands in the late 1980s as a means to achieve a particular sound and aesthetic. "These things, these things, like a rain." ← https://www.youtube.com/watch?v=Jq-e-fZxXOs ← the-jesus-and-mary-chain ← the-jesus-and-mary-chain
-**Surfing USA – The Beach Boys cover** : The Jesus and Mary Chain covered The Beach Boys' classic song "Surfing USA." "but they also covered the Beach Boys Surfing USA." ← https://www.youtube.com/watch?v=pOeChe_D1Ag ← the-jesus-and-mary-chain
-**Upside Down (Year not specified)** : This single became a surprise hit for the band. Its release followed the band's formation by brothers Jim and William Reed, who, after being unemployed for five years, drew inspiration from 1960s girl groups while adding layers of noise to their songs. "It released a single call Upside Down, which was a surprise hit." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← the-jesus-and-mary-chain ← the-jesus-and-mary-chain
+**Surfing USA** : The Jesus and Mary Chain covered The Beach Boys' classic song "Surfing USA." "but they also covered the Beach Boys Surfing USA." ← https://www.youtube.com/watch?v=pOeChe_D1Ag ← the-jesus-and-mary-chain
+**Upside Down** : This single became a surprise hit for the band. Its release followed the band's formation by brothers Jim and William Reed, who, after being unemployed for five years, drew inspiration from 1960s girl groups while adding layers of noise to their songs. "It released a single call Upside Down, which was a surprise hit." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← the-jesus-and-mary-chain ← the-jesus-and-mary-chain
 
 ## curiosities
+**Production by Alan Moulder** : Alan Moulder also worked in production with "De Gisos and the Ritching", which further illustrates his rock-oriented production style. "también había trabajado con De Gisos and the Ritching." ← Music Radar Clan > Mellon Collie and The Infinite Sadness： ¿Por qué suena diferente？ | https://www.youtube.com/watch?v=mYPtjJN11zU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← de-gisos-and-the-ritching ← de-gisos-and-the-ritching
+**Declared Influence** : Jesus and Mary Chain is among a partial list of artists and bands who have publicly stated that they have been influenced by Joy Division in some way. "You too, arcade fire, smashing pumpkins, nine inch nails, to pesh mode, sisters of mercy, ministry, chain addiction, the smiths, Bjork, Jesus and Marychain, Moby, primal scream, the Charlotains, Interpol, editors, white lies, Frans Ferdinand. I could go on, but I think you get the point." ← https://www.youtube.com/watch?v=1VWJ0uCQx8w ← jesus-and-mary-chain ← jesus-and-mary-chain
+**Influence on Shoegaze** : The band's "pop wall of sound" was a significant influence on the emerging Shoegaze genre. Their career was also launched by Creation Records. "influenciado por bandas como Cocteau Twins y su trimpó bebocador y el muro de popularista de Jesus Admiral Chain." ← El disco imposible： La historia de Loveless y My Bloody Valentine | https://www.youtube.com/watch?v=q_SHNe_Ce9A
 **21st Century Reunion** : The Jesus and Mary Chain were mentioned as one of the alt-rock bands that reunited in the first decade of the 21st century, joining a wave of reformations that aimed to re-energize the scene and bring back older fans. "In addition, the Pixies...Jesus and Marychain...These reunions injected some life into the scene, albeit temporary life." ← https://www.youtube.com/watch?v=_yslM5oanRo ← the-jesus-and-mary-chain
 **Alan Moulder's Production Work** : The Jesus and Mary Chain (inferred from "Jesus and Medichain") is one of the bands that Alan Moulder has produced, highlighting his connection to influential alternative and shoegaze sounds. "él ha producido a Jesus and Medichain." ← Music Radar Clan > Queens of The Stone Age  - Villains (información y reseña) | https://www.youtube.com/watch?v=EyxGTW1j85I&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-jesus-and-mary-chain ← the-jesus-and-mary-chain
 **Comparison to AR Kane** : AR Kane was often referred to by more than one writer as "the Black Jesus and Mary Chain" due to their noisy sound in their early days, indicating a shared aesthetic with this band. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← the-jesus-and-mary-chain
@@ -69,8 +70,8 @@
 **Unconventional Concert Style** : The Jesus and Mary Chain were known for their radical departure from traditional concert formats. Their sets were typically brief, lasting only 10 to 20 minutes, predominantly featuring "squalling feedback," and they often performed with their backs to the audience. This confrontational approach was perceived as more of a "provocation" than a conventional musical performance. "They really didn't believe in staging traditional concerts. Sets ran anywhere from 10 to 20 minutes... They sort of played songs but spent most of the time immersed in squalting feedback and more often than not they'd play with their backs to the audience." ← https://www.youtube.com/watch?v=qC0Ee4-dpnI ← the-jesus-and-mary-chain
 **Unconventional Instrumentation** : The band intentionally rejected conventional rock and roll practices, which they claimed to hate. This manifested in their unique approach to instruments, such as not tuning guitars, using a bass with only two strings, and having the drummer stand up to play only a snare and a tom with mallets, deliberately omitting a bass drum and cymbals as "extraneous clutter." "Tune the guitar? Why? Two strings on the bass? That's fine. And what was the drummer doing standing up and playing a snare in a taunt on with mallets? No bass drum, no cymbals? Extrany is clutter." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← the-jesus-and-mary-chain ← the-jesus-and-mary-chain
 **Unconventional Live Performances** : The Jesus and Mary Chain were known for their departure from traditional concert staging. Their sets typically lasted only 10 to 20 minutes, primarily featuring "squalling feedback" rather than clearly defined songs, and they often played with their backs to the audience. Their performances were considered "not so much a gig as it was a provocation." "They sort of played songs, but spent most of the time immersed in squalling feedback." ← https://www.youtube.com/watch?v=huAvyInzz3Q ← the-jesus-and-mary-chain
-
-
+**Production by Alan Moulder** : Alan Moulder also worked in production with "De Gisos and the Ritching", which further illustrates his rock-oriented production style. "también había trabajado con De Gisos and the Ritching." ← Music Radar Clan > Mellon Collie and The Infinite Sadness： ¿Por qué suena diferente？ | https://www.youtube.com/watch?v=mYPtjJN11zU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← de-gisos-and-the-ritching
+**Declared Influence** : Jesus and Mary Chain is among a partial list of artists and bands who have publicly stated that they have been influenced by Joy Division in some way. "You too, arcade fire, smashing pumpkins, nine inch nails, to pesh mode, sisters of mercy, ministry, chain addiction, the smiths, Bjork, Jesus and Marychain, Moby, primal scream, the Charlotains, Interpol, editors, white lies, Frans Ferdinand. I could go on, but I think you get the point." ← https://www.youtube.com/watch?v=1VWJ0uCQx8w ← jesus-and-mary-chain
 
 ## lists
 **"Psychocandy" (1985) — 1001 Albums You Must Hear Before You Die** : #558, 100 AOTY.

@@ -4,14 +4,13 @@
 - Buddy Holly
 - Jerry Allison
 - Joe B. Mauldin
-- Joe Mauldin
-- Larry Wellborn (on "That'll Be the Day" recording)
+- Larry Wellborn
 - Nikki Sullivan
-- Sonny Curtis (post-Holly)
+- Sonny Curtis
 
 ## genres
-- Doo-wop (mistaken for)
-- New Orleans R&B (influence)
+- Doo-wop
+- New Orleans R&B
 - R&B
 - Rock and Roll
 - Rockabilly
@@ -19,8 +18,7 @@
 ## labels
 - Brunswick
 - Coral
-- Coral (for related solo material)
-- Decca Records (parent company)
+- Decca Records
 
 ## concerts
 - American Bandstand
@@ -28,30 +26,33 @@
 - Ed Sullivan Show
 - Harlem Apollo
 - Last Ever Alan Fried Tour
+- Late 1957 Chuck Berry Tour
 - Winter Dance Party (Holly's backing band)
 
 ## instruments
 - Bass
 - Drums
 - Electric guitar
-- Keyboards (Norman Petty's wife)
+- Keyboards
 - Lead Guitar
 - Rhythm Guitar
-- Rhythm guitar
 - Vocals
 
 ## albums
-**Not Fade Away (1957) - Bo Diddley Influence** : Recorded just two days after "That'll Be the Day" was finally released, this song showed a strong influence from Bo Diddley, who had co-written "Love Is Strange," a song that also inspired Buddy Holly. "At the end of May, they went into the studio and caught another song they had patented after Bo Didley, who had co-written Love Is Strange as a cricket side." ← Episode Sixty-One： ＂That'll Be the Day＂, by the Crickets | https://www.youtube.com/watch?v=KVJMKLc54O0
-**That'll Be the Day (1957) - Brunswick Single** : The first successful record by the group, featuring Buddy Holly, Larry Wellborn, Jerry Allison, and Nikki Sullivan, and produced by Norman Petty. Its release on Brunswick, a Decca subsidiary, was a strategic move to bypass Buddy Holly's prior contract restrictions. "And so the version of That'll Be the Day, The Buddy, Larry, Jerry and Nikki Sullivan had recorded with Norman Patti producing, was going to be released as by The Cricket" ← Episode Sixty-One： ＂That'll Be the Day＂, by the Crickets | https://www.youtube.com/watch?v=KVJMKLc54O0
-**The Chirping Crickets (Year not specified in text)** : This was the group's first album. The photo for the album cover was taken on a rooftop immediately after a fist fight within the group, reportedly after Nikki Sullivan revealed Buddy Holly's affair to Jerry Allison. "to take the photo for the group's first album, The Chirping Crickets." ← Episode 74： ＂It Doesn't Matter Any More＂ by Buddy Holly | https://www.youtube.com/watch?v=6unib5T2mDQ
+**The Chirping Crickets** : This was the group's first album. The photo for the album cover was taken on a rooftop immediately after a fist fight within the group, reportedly after Nikki Sullivan revealed Buddy Holly's affair to Jerry Allison. "to take the photo for the group's first album, The Chirping Crickets." ← Episode 74： ＂It Doesn't Matter Any More＂ by Buddy Holly | https://www.youtube.com/watch?v=6unib5T2mDQ
+**Not Fade Away (1957)** : Recorded just two days after "That'll Be the Day" was finally released, this song showed a strong influence from Bo Diddley, who had co-written "Love Is Strange," a song that also inspired Buddy Holly. "At the end of May, they went into the studio and caught another song they had patented after Bo Didley, who had co-written Love Is Strange as a cricket side." ← Episode Sixty-One： ＂That'll Be the Day＂, by the Crickets | https://www.youtube.com/watch?v=KVJMKLc54O0
+**That'll Be the Day (1957)** : The first successful record by the group, featuring Buddy Holly, Larry Wellborn, Jerry Allison, and Nikki Sullivan, and produced by Norman Petty. Its release on Brunswick, a Decca subsidiary, was a strategic move to bypass Buddy Holly's prior contract restrictions. "And so the version of That'll Be the Day, The Buddy, Larry, Jerry and Nikki Sullivan had recorded with Norman Patti producing, was going to be released as by The Cricket" ← Episode Sixty-One： ＂That'll Be the Day＂, by the Crickets | https://www.youtube.com/watch?v=KVJMKLc54O0
 
 ## songs
-**I Fought the Law (Year not specified)** : After Buddy Holly's death, the remaining Crickets, with Sonny Curtis on guitar, recorded this song which was written by Curtis. It later became a hit for several other artists. "They did record one song written by Curtis, which would later become a hit for several other people. I fought the law." ← Episode 74： ＂It Doesn't Matter Any More＂ by Buddy Holly | https://www.youtube.com/watch?v=6unib5T2mDQ
-**Ivan (Year not specified)** : A song recorded by The Crickets with Jerry Allison singing lead vocals, released under Allison's middle name. This was part of the group's attempts to try different variations on their musical formula as their records sold less well. "It was released under the name Ivan, Allison's middle name, and became a minor hit." ← Episode 74： ＂It Doesn't Matter Any More＂ by Buddy Holly | https://www.youtube.com/watch?v=6unib5T2mDQ
+**Brown Eyed Handsome Man** : Buddy Holly and the Crickets performed this Chuck Berry song as part of their set when they toured with Berry in late 1957, demonstrating the influence of Berry's classics on other acts of the era. "The Cricket would do roll over Beethoven and Brown Eyed Hanson Mann as part of their set." ← Episode 67： ＂Johnny B. Goode＂, by Chuck Berry | https://www.youtube.com/watch?v=sHlA-qihuNw
+**I Fought the Law** : After Buddy Holly's death, the remaining Crickets, with Sonny Curtis on guitar, recorded this song which was written by Curtis. It later became a hit for several other artists. "They did record one song written by Curtis, which would later become a hit for several other people. I fought the law." ← Episode 74： ＂It Doesn't Matter Any More＂ by Buddy Holly | https://www.youtube.com/watch?v=6unib5T2mDQ
+**Ivan** : A song recorded by The Crickets with Jerry Allison singing lead vocals, released under Allison's middle name. This was part of the group's attempts to try different variations on their musical formula as their records sold less well. "It was released under the name Ivan, Allison's middle name, and became a minor hit." ← Episode 74： ＂It Doesn't Matter Any More＂ by Buddy Holly | https://www.youtube.com/watch?v=6unib5T2mDQ
 **Oh Boy (1957)** : A major hit for the group, becoming their last top ten single. It was originally written by Sonny West as "All My Love" but The Crickets recorded their version at a faster tempo. "The cricket's version of Oh Boy was recorded at a faster tempo, and became another major hit, their last top ten." ← Episode 74： ＂It Doesn't Matter Any More＂ by Buddy Holly | https://www.youtube.com/watch?v=6unib5T2mDQ
+**Roll Over Beethoven** : During a late 1957 tour where they were lower on the bill than Chuck Berry, Buddy Holly and the Crickets included their cover of Berry's "Roll Over Beethoven" as part of their setlist. "The Cricket would do roll over Beethoven and Brown Eyed Hanson Mann as part of their set." ← Episode 67： ＂Johnny B. Goode＂, by Chuck Berry | https://www.youtube.com/watch?v=sHlA-qihuNw
 **That'll Be the Day (1957)** : The group's first hit single, released in May 1957. It gained unexpected traction after Black radio stations began playing it, believing The Crickets to be a Black doo-wop group, and eventually went to number one. "That'll Be the Day eventually went to number one." ← Episode 74： ＂It Doesn't Matter Any More＂ by Buddy Holly | https://www.youtube.com/watch?v=6unib5T2mDQ
 
 ## curiosities
+**Signed by Bob Thiel** : Bob Thiel at Decca Records had just signed Buddy Holly and the Crickets when he was persuaded to sign Jackie Wilson, partly under the promise of also signing LaVern Baker. "Bob Thiel at Decker records, who had just signed Buddy Holly and the cricket, to sign Wilson." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
 **"Peggy Sue" Origin Story** : Buddy Holly originally intended to name a song after his niece, Cindy Lou. However, Jerry Allison suggested that the song would be better if it was about his girlfriend, leading to the eventual title "Peggy Sue." "Jamie, on the other hand, thought the song would be better if he was about his girlfriend." ← Episode Sixty-One： ＂That'll Be the Day＂, by the Crickets | https://www.youtube.com/watch?v=KVJMKLc54O0
 **Band Naming - Rejecting "The Beetles"** : Buddy Holly and Jerry Allison, inspired by New Orleans R&B groups like The Spiders, initially considered naming their group "The Beetles" but decided it was "too creepy" because people would want to squish them, ultimately settling on "The Crickets." "At first they considered The Beatles, but decided that that was too creepy. People would want to squish them. So they settled on The Crickets." ← Episode Sixty-One： ＂That'll Be the Day＂, by the Crickets | https://www.youtube.com/watch?v=KVJMKLc54O0
 **Continuation After Holly's Death (1959-2015)** : After Buddy Holly's death, the remaining Crickets picked themselves up and continued as a band. Sonny Curtis joined on guitar, and they went through a succession of Holly sound-alike singers. Joe Mauldin remained a member until his death in 2015. "Meanwhile, the remaining crickets picked themselves up and carried on." ← Episode 74： ＂It Doesn't Matter Any More＂ by Buddy Holly | https://www.youtube.com/watch?v=6unib5T2mDQ
@@ -71,3 +72,5 @@
 **The Apollo Controversy (1957)** : The Crickets were among the few white acts to play the Harlem Apollo, though not the first (Bobby Darin and possibly Buddy Rich preceded them). They faced a notoriously hostile audience and had to adapt their setlist to include more R&B covers to win over the crowd, as Holly's original material (except "That'll Be the Day") was not well received. "when it reached the Harlem Apollo, which had notoriously hostile audiences, the group had to reconfigure their sets, as the audiences didn't like any of Holly's original material, except that'll be the day." ← Episode 74： ＂It Doesn't Matter Any More＂ by Buddy Holly | https://www.youtube.com/watch?v=6unib5T2mDQ
 **The Name Split Strategy (Year not specified)** : The distinction between "Buddy Holly" solo records and "The Crickets" group records was a deliberate strategy by their management to encourage DJs to play two different records, creating the impression of distinct artists. "the whole idea of the split was that DJs would play two records instead of one, if they appeared to be by different artists." ← Episode 74： ＂It Doesn't Matter Any More＂ by Buddy Holly | https://www.youtube.com/watch?v=6unib5T2mDQ
 
+## lists
+**"The “Chirping” Crickets" (1957) — 1001 Albums You Must Hear Before You Die** : #8.

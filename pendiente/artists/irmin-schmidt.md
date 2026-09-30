@@ -1,10 +1,7 @@
 # artist - Irmin Schmidt
 
 ## member of
-- Can
-
-## members
-- Can
+- CAN
 
 ## instruments
 - Keyboards
@@ -15,4 +12,3 @@
 **Shared Vocal Duties Post-Suzuki** : After Damo Suzuki's departure from Can, Irmin Schmidt, alongside Michael Karoli, took on vocal responsibilities for the band, contributing to a period of less vocal prominence. "El puesto arco dirían entre Carol and Smith." ← CAN ｜ La Banda que (posiblemente) Inspiró a tu banda preferida | https://www.youtube.com/watch?v=4qHiw2wHWAI
 **Student of Karlheinz Stockhausen** : Irmin Schmidt was a former German student of the renowned contemporary classical composer Karlheinz Stockhausen, an education that significantly shaped his early musical perspective. "un antiguo alumno alemán de Stochhaus en llamado Irmell Smith" ← CAN ｜ La Banda que (posiblemente) Inspiró a tu banda preferida | https://www.youtube.com/watch?v=4qHiw2wHWAI
 **Transformative New York Trip (1966)** : In 1966, Schmidt traveled to New York, where he immersed himself in the experimental music scene, meeting and spending time with prominent figures such as Steve Reich, La Monte Young, Terry Riley, and even interacting with John Cage, feeling a deep affinity for their work. During his stay at the mythical and bohemian Chelsea Hotel, he also encountered Andy Warhol and his circle, including The Velvet Underground. "En 1966, un antiguo alumno alemán de Stochhaus en llamado Irmell Smith hace un viaje en Nueva York. Allí conoce y pasa tiempo con Steve Reitch, la Montellon, Terry Ridley e incluso llegó a tratar con John Cage. Sentía una gran afinidad hacia esos músicos. Se hospedan el mítico y bohemio del Chelsea, donde conoce Andy Warhol y a su entorno, incluía la velvete ante the Ground." ← CAN ｜ La Banda que (posiblemente) Inspiró a tu banda preferida | https://www.youtube.com/watch?v=4qHiw2wHWAI
-

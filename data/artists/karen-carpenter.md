@@ -18,12 +18,3 @@
 **Vocal Comparison to Patsy Cline** : Linda Perry, a singer, writer, and producer, compared Karen Carpenter's voice to that of Patsy Cline, noting that both sang with an emotion Perry described as "struggle and depression." "Linda Perry, a singer, writer, producer, said that the only singer she can compare to Karen Carpenter is Patti Klein and they both sang with emotion that Perry called struggle and depression." ← For the Record - The 70s > Ep. 34 - A 70s Pop Manifesto - Finding Meaning in 70s Pop | https://seventies.libsyn.com/ep-34-a-70s-pop-manifesto-finding-meaning-in-70s-pop ← karen-carpenter
 **Vocal Quality as "Language Melancholy"** : Eric Laud, a professor and cultural historian, wrote in 2008 that Karen Carpenter's voice was "unmatched in its ability to summon a language melancholy that is somehow at the same time evacuated a personality," highlighting its unique emotional depth and detached quality. "Eric Laud, a professor and cultural historian, wrote in 2008 that her voice was unmatched in its ability to summon a language melancholy that is somehow at the same time evacuated a personality." ← For the Record - The 70s > Ep. 34 - A 70s Pop Manifesto - Finding Meaning in 70s Pop | https://seventies.libsyn.com/ep-34-a-70s-pop-manifesto-finding-meaning-in-70s-pop ← karen-carpenter
 **Voice Polish Comparison (1975)** : Critic Robert Hull, while reviewing Olivia Newton-John's voice, mentioned Karen Carpenter as having more "polish" in her vocals. "True, her voice ain't got the polish of Karen Carpenter, Leslie Gore or Brenda Lee." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
-
-
-
-## lists
-**"Honor Killed the Samurai" (2016) — AOTY Must Hear 2010s** : #393, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"The Night's Gambit" (2013) — AOTY Must Hear 2010s** : #675, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"The Thief Next to Jesus" (2024) — AOTY Must Hear 2020s** : #187, 84 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Grief Pedigree" (2012) — Scaruffi 2010s** : #222, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"A Martyr's Reward" (2021) — Sputnikmusic Best Albums 2021** : #184, 3.77 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2021/

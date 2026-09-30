@@ -5,6 +5,6 @@
 
 ## artists
 - Big Jay McNeely
-- Illinois Jacket
+- Illinois Jacquet
 - John Coltrane
 

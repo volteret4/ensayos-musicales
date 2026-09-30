@@ -7,7 +7,7 @@
 ## artists
 - Arcade Fire
 - Booker T. Jones
-- Joey D and the Starlighters
+- Joey Dee and the Starliters
 - Kate Bush
 - Stevie Wonder
 - U2

@@ -7,12 +7,10 @@
 
 ## artists
 - AC/DC
-- ACDC
 - Billy Talent
 - Black Sabbath
 - Green Day
 - Guns N' Roses
-- Guns n' Roses
 - Metallica
 - Muse
 - Pink Floyd

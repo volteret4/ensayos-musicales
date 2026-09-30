@@ -6,7 +6,6 @@
 
 ## artists
 - R.E.M.
-- REM
 - The Searchers
 - The Smiths
 

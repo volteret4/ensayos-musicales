@@ -11,7 +11,7 @@
 ## albums
 **Bad Boys (Film)** : The show's success "catapulted Lawrence from a stand-up comedian on the rise to the headliner of Blockbuster movies like Bad Boys and Big Mama's House." "It catapulted Lawrence from a stand-up comedian on the rise to the headliner of Blockbuster movies like Bad Boys and Big Mama's House." ← https://www.youtube.com/watch?v=6O5TCTO-go4 ← martin-lawrence
 **Big Mama's House (Film Franchise)** : The show's success "catapulted Lawrence from a stand-up comedian on the rise to the headliner of Blockbuster movies like Bad Boys and Big Mama's House." He almost lost his life preparing for the role in 1999, slipping into a three-day coma from heat exhaustion. "It catapulted Lawrence from a stand-up comedian on the rise to the headliner of Blockbuster movies like Bad Boys and Big Mama's House." ← https://www.youtube.com/watch?v=6O5TCTO-go4 ← martin-lawrence
-**Martin (1992-1997) – Sitcom Series** : Premiered on Fox in 1992, becoming a "near-instant hit." The show revolved around a Detroit-based radio host, his girlfriend, and their friends. It averaged 11 million viewers in its first season and was praised by The New York Times for its "quirkiness and its willingness to embrace social issues in episodes." Martin was a crucial component in Fox's strategy to rival NBC's "Must See TV Thursdays" and is regarded as a "cultural touchstone," part of a "90s golden age when blacks, it comes rural television." It ran for five seasons. "Martin, starring stand-up comedian Martin Lawrence, premiered on Fox in 1992, and the show about a Detroit-based radio host, his girlfriend and their hilarious friends, was a near-instant hit." ← https://www.youtube.com/watch?v=6O5TCTO-go4 ← martin-lawrence
+**Martin (1992)** : Premiered on Fox in 1992, becoming a "near-instant hit." The show revolved around a Detroit-based radio host, his girlfriend, and their friends. It averaged 11 million viewers in its first season and was praised by The New York Times for its "quirkiness and its willingness to embrace social issues in episodes." Martin was a crucial component in Fox's strategy to rival NBC's "Must See TV Thursdays" and is regarded as a "cultural touchstone," part of a "90s golden age when blacks, it comes rural television." It ran for five seasons. "Martin, starring stand-up comedian Martin Lawrence, premiered on Fox in 1992, and the show about a Detroit-based radio host, his girlfriend and their hilarious friends, was a near-instant hit." ← https://www.youtube.com/watch?v=6O5TCTO-go4 ← martin-lawrence
 
 ## curiosities
 **Coma from Heat Exhaustion (1999)** : In 1999, while preparing for his role in the *Big Mama's House* movie franchise, he collapsed from heat exhaustion while jogging in 100-degree temperatures and slipped into a three-day coma, though he thankfully recovered. "In 1999, he slipped into a three-day coma after collapsing from heat exhaustion while jogging in 100 degree temperatures in preparation for the role." ← https://www.youtube.com/watch?v=6O5TCTO-go4 ← martin-lawrence
@@ -22,47 +22,3 @@
 **Portrayal of Multiple Characters** : Lawrence demonstrated incredible talent by playing nine different characters on the show: Jerome, Dragonfly Jones, Roscoe, Bob from Marketing, Elroy Preston, Otis the Security Guard, King Beef, Mama Pain, and Shenanee. "He played nine characters on the show. Jerome, Dragonfly Jones, Roscoe, Bob from Marketing, Elroy Preston, Otis the Security Guard, King Beef, Mama Pain, and Shenanee." ← https://www.youtube.com/watch?v=6O5TCTO-go4 ← martin-lawrence
 **Series Reboot Rumors** : Rumors of a series reboot have circulated for years. Most recently, Tisha Campbell stated to Entertainment Tonight that there is a "definite possibility" as long as schedules align. "And as for a series reboot, while rumors have been circling around for years, most recently Tisha Campbell told Entertainment tonight that there is a definite possibility as long as schedules align." ← https://www.youtube.com/watch?v=6O5TCTO-go4 ← martin-lawrence
 **Sexual Harassment Accusation (1996)** : In November 1996, his co-star Tisha Campbell accused him and the producers of "repeated and escalating sexual harassment, sexual battery, verbal abuse, and related threats." Campbell refused to come to set for the remainder of the final season, eventually agreeing to return for the series finale in May 1997 only on the condition that Lawrence not be present when she was on set. The lawsuit was ultimately settled out of court. "Then in November 1996, Lawrence's co-star Tisha Campbell accused the comedian and producers of repeated and escalating sexual harassment, sexual battery, verbal abuse, and related threats." ← https://www.youtube.com/watch?v=6O5TCTO-go4 ← martin-lawrence
-
-
-
-## charts
-**"Adele" — UK Vinyl Albums Chart** : entrada.
-**"Amy Winehouse" — UK Vinyl Albums Chart** : entrada.
-**"Radiohead" — UK Vinyl Albums Chart** : entrada.
-**"Rag'n'Bone Man" — UK Vinyl Albums Chart** : entrada.
-**"Ed Sheeran" — UK Vinyl Albums Chart** : entrada.
-**"The Beatles" — UK Vinyl Albums Chart** : entrada.
-**"Noel Gallagher's High Flying Birds" — UK Vinyl Albums Chart** : entrada.
-**"Original Soundtrack" — UK Vinyl Albums Chart** : entrada.
-**"Queen" — UK Vinyl Albums Chart** : entrada.
-**"Various Artists" — UK Vinyl Albums Chart** : entrada.
-**"Fleetwood Mac" — UK Vinyl Albums Chart** : entrada.
-**"Amy Winehouse" — UK Vinyl Albums Chart** : entrada.
-**"Queen" — UK Vinyl Albums Chart** : entrada.
-**"Kylie Minogue" — UK Vinyl Albums Chart** : entrada.
-**"Harry Styles" — UK Vinyl Albums Chart** : entrada.
-**"Glass Animals" — UK Vinyl Albums Chart** : entrada.
-**"Oasis" — UK Vinyl Albums Chart** : entrada.
-**"Taylor Swift" — UK Vinyl Albums Chart** : entrada.
-**"Dua Lipa" — UK Vinyl Albums Chart** : entrada.
-**"Olivia Rodrigo" — UK Vinyl Albums Chart** : entrada.
-**"Charli XCX" — UK Vinyl Albums Chart** : entrada.
-**"Chappell Roan" — UK Vinyl Albums Chart** : entrada.
-**"Gracie Abrams" — UK Vinyl Albums Chart** : entrada.
-**"Noel Gallagher's High Flying Birds" — UK Vinyl Singles Chart** : entrada.
-**"David Bowie" — UK Vinyl Singles Chart** : entrada.
-**"Golden Years" — UK Vinyl Singles Chart** : 4 semanas.
-**"The Stone Roses" — UK Vinyl Singles Chart** : entrada.
-**"David Brent" — UK Vinyl Singles Chart** : entrada.
-**"Oasis" — UK Vinyl Singles Chart** : entrada.
-**"Liam Gallagher" — UK Vinyl Singles Chart** : entrada.
-**"George Michael" — UK Vinyl Singles Chart** : entrada.
-**"Morrissey" — UK Vinyl Singles Chart** : entrada.
-**"Led Zeppelin" — UK Vinyl Singles Chart** : entrada.
-**"Public Service Broadcasting" — UK Vinyl Singles Chart** : entrada.
-**"The Fontaines" — UK Vinyl Singles Chart** : entrada.
-**"Ceremony" — UK Vinyl Singles Chart** : 1 semanas.
-**"Wham!" — UK Vinyl Singles Chart** : entrada.
-**"Blur" — UK Vinyl Singles Chart** : entrada.
-**"The 1975" — UK Vinyl Singles Chart** : entrada.
-**"Fontaines D.C." — UK Vinyl Singles Chart** : entrada.

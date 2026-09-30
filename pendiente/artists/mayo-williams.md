@@ -5,4 +5,3 @@
 
 ## curiosities
 **Pioneering Black Record Producer** : Mayo Williams is recognized as one of the very first black record producers, a significant figure in the early music industry who worked with piano player Bert Mayes on "Keep a-Knockin'". "Mayes and his producer Mayo Williams, one of the first black record producers, are usually credited as the songwriters as a result..." ← Episode 54： Keep A Knockin | https://www.youtube.com/watch?v=oA4Y_K9E5Y4
-

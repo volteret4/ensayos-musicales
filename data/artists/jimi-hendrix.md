@@ -4,8 +4,8 @@
 - The Jimi Hendrix Experience
 
 ## genres
-- Rock
 - metal
+- Rock
 - rock and roll
 
 ## concerts
@@ -17,7 +17,6 @@
 - Big Muff
 - Electric guitar
 - Fender Stratocaster
-- Fender Stratocaster (signature model)
 - Fender Twin Reverb
 - Fuzz box
 - Gibson Flying V
@@ -27,20 +26,23 @@
 - Lighter fluid
 - Match
 - Vox wah-wah pedal
+- Wawa pedal
 
 ## albums
 **Electric Ladyland (1968)** : This album is noted for containing numerous revolutionary elements concerning guitar sound. It played a significant role in the broader late 1960s evolution that set the stage for Led Zeppelin's definitive departure from classical rock canons. "teníamos ese fantástico electric latrilo de Jimmy Hendrix que ya tenía muchísimas partes de revolución sobre el sonido de guitarra." ← Music Radar Clan > Cómo LED ZEPPELIN inventó el ROCK MODERNO | https://www.youtube.com/watch?v=8dabTOIf3Ek&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jimi-hendrix ← jimi-hendrix
-**Live Concert Recording (1967) - 7-inch** : A small recording from a 1967 concert, released on 7-inch. "una pequeña grabación de un concerto en 1967." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jimi-hendrix ← jimi-hendrix
+**Live Concert Recording (1967)** : A small recording from a 1967 concert, released on 7-inch. "una pequeña grabación de un concerto en 1967." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jimi-hendrix ← jimi-hendrix
 
 ## songs
+**All Along the Watchtower (1968)** : Guitar god Jimi Hendrix's cover of Bob Dylan's "elliptically poetic" song, released three years after Dylan's original. This iconic rendition became the only top 40 hit of Hendrix's lifetime. "guitar god Jimmy Hendrix scored the only top 40 hit of his lifetime with his cover of Dylan's elliptically poetic all along the watchtower." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
+**All Along the Watchtower (1968)** : Jimi Hendrix's "All Along the Watchtower" was deliberately not featured in the TV series *Mad Men*. The show's musical choices sought to depict the authentic popular culture of the 1960s, steering clear of cliched protest music common in other portrayals. "no uh all along the watch tower by Jimmy Hendrix." ← Hit Parade Music History and Music Trivia > The Slate Culture Gift Guide | https://shows.acast.com/hit-parade/episodes/695d4ef1154465cd600c4e50
 **Burning the Midnight Lamp (1967)** : Released as a B-side in the spring of 1967, this song is considered by some to be the first recording to feature a wah-wah pedal. This places Jimi Hendrix as one of the very first, if not *the* first, to incorporate this new effects pedal into recorded music, potentially on the same timeline as Eric Clapton's "Tales of Brave Ulysses." "or it was Jimmy Hendrix with the B side burning the midnight lamp." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ ← jimi-hendrix
 **Fire (1967)** : The Red Hot Chili Peppers performed a cover of this song at Woodstock 99, which, given the escalating violence and widespread fires at the festival, was seen as an ill-advised choice that encouraged further arson. "it was probably a really bad idea for the chili peppers to launch into their cover of Jimmy Hendrix's fire, which of course only encouraged more fire." ← https://www.youtube.com/watch?v=7v1REnqKuXE ← jimi-hendrix
 **Hey Joe (1966)** : This song is mentioned as an example of a track from 60 years ago that addresses the theme of murder. "Hey Joe from Jimmy Hendrix." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4 ← jimi-hendrix
-**Hey Joe (Year Unknown)** : This Jimi Hendrix song was covered by Patti Smith and featured on the A-side of her debut seven-inch single in 1974. ← https://www.youtube.com/watch?v=Z9T9wi0vEvc ← jimi-hendrix
-**Manic Depression (Year Unspecified) - 7-inch Re-edition** : A re-edition of the 7-inch single "Manic Depression" (transcribed as "Manis Boy"). "Herredita, el Manis Boy, del Jimmy Hendrix." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jimi-hendrix ← jimi-hendrix
-**Purple Haze** : A song by Jimi Hendrix that is famously prone to misheard lyrics. Many listeners incorrectly hear the line as "Excuse me while I kiss this guy" for generations. "How many people get it wrong with Jimmy Hendrix and Purple Hayes? What is he singing here? Excuse me, while I kiss this guy." ← https://www.youtube.com/watch?v=_YjwRApoJhA ← jimi-hendrix
+**Hey Joe (1966)** : This Jimi Hendrix song was covered by Patti Smith and featured on the A-side of her debut seven-inch single in 1974. ← https://www.youtube.com/watch?v=Z9T9wi0vEvc ← jimi-hendrix
+**Manic Depression** : A re-edition of the 7-inch single "Manic Depression" (transcribed as "Manis Boy"). "Herredita, el Manis Boy, del Jimmy Hendrix." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jimi-hendrix ← jimi-hendrix
+**Purple Haze (1967)** : A song by Jimi Hendrix that is famously prone to misheard lyrics. Many listeners incorrectly hear the line as "Excuse me while I kiss this guy" for generations. "How many people get it wrong with Jimmy Hendrix and Purple Hayes? What is he singing here? Excuse me, while I kiss this guy." ← https://www.youtube.com/watch?v=_YjwRApoJhA ← jimi-hendrix
 **Purple Haze (1967)** : Released in 1967, the opening of this iconic song is entirely built around the "devil's triad." Jimi Hendrix is specifically credited with bringing the tri tone to public attention through this track, contributing significantly to the proliferation of heavy distorted music in the 1960s and 70s. "But we also must credit Jimmy Hendrix for bringing the tri tone to our attention in 1967 with purple haze. The opening is all devil's triad." ← https://www.youtube.com/watch?v=41eKVp8JIhU ← jimi-hendrix
-**Purple Haze (Sky Arts Survey)** : Ranked at number 14 in the Sky Arts survey of greatest guitar riffs. It was noted as the only Jimi Hendrix song to appear in the top 20 of that particular survey. "The only Jimmy Hendrick song in the top 20 is purple haze number 14." ← https://www.youtube.com/watch?v=KtdIMNoHqA8 ← jimi-hendrix ← jimi-hendrix
+**Purple Haze (1967)** : Ranked at number 14 in the Sky Arts survey of greatest guitar riffs. It was noted as the only Jimi Hendrix song to appear in the top 20 of that particular survey. "The only Jimmy Hendrick song in the top 20 is purple haze number 14." ← https://www.youtube.com/watch?v=KtdIMNoHqA8 ← jimi-hendrix ← jimi-hendrix
 
 ## curiosities
 **"Surround Windows" Request** : The only specific design request Jimi Hendrix made for Electric Lady Studios was for "surround windows," which were incorporated into the control room doors using a plasma cutter. "He only said one thing to me. He said, hey man, I want surround windows." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← jimi-hendrix ← jimi-hendrix
@@ -81,8 +83,13 @@
 **UK Breakout Precedent** : Jimi Hendrix, originally from Seattle, became a sensation in the UK in the 1960s long before breaking out in America. This historical precedent inspired Subpop record label owners to try a similar strategy for their grunge bands like Nirvana. "See Jimmy was from Seattle too, but back in the 1960s, he became a sensation in the UK long before he broke an America." ← https://www.youtube.com/watch?v=DSvoppf1dGY ← jimi-hendrix
 **Vision for Electric Lady Studios** : Hendrix initially expressed a desire to install a "little 28 tracks" in a corner of the nightclub, which his producer Eddie Kramer understood as the need for a comprehensive studio given Hendrix's substantial recording expenses at the time. "Hey, when you come down and we want you to see this place because Jimmy wants to put a little 28 tracks to the end of the back corner." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← jimi-hendrix ← jimi-hendrix
 **Work at Olympic Studios** : Jimi Hendrix recorded at Olympic Studios, a prominent London recording facility. "Jimmy Hendrix also worked here." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← jimi-hendrix ← jimi-hendrix
-
-
+**Early Adopter of Wah-Wah Pedal** : Jimmy Hendrix, an "up and coming guitarist," was one of the two customers convinced by Henry Goldrich to buy a wah-wah pedal at Manie's Music in the mid-1960s. This purchase significantly changed his playing style and, by extension, the direction of guitar-based rock and roll. "One was up and coming guitarist named Jimmy Hendrix. And then there was Eric Clapton, a hot new player from the UK. They each bought, okay, this thing sounds cool. Give me one." ← https://www.youtube.com/watch?v=6SdPPsmpgJg ← jimmy-hendrix
+**Iconic Wah-Wah Sound** : Jimmy Hendrix's playing through a wah-wah pedal, acquired from Manie's Music, became an iconic sound that defined a significant aspect of rock music. His innovative use helped popularize the effect, making it recognizable in countless songs across genres. "Here's Jimmy playing through such a pedal that he got at Manie's." ← https://www.youtube.com/watch?v=6SdPPsmpgJg ← jimmy-hendrix
+**Murder Conspiracy Theory** : A theory suggests that Jimmy Hendrix did not die of natural causes in 1970, but was actually murdered. "Jimmy Hendrix did not die in 1970. He was actually murdered." ← https://www.youtube.com/watch?v=pmKjZzypzvg ← jimmy-hendrix
+**Pioneering Electric Guitar Techniques** : Jimmy Hendrix is credited as one of the first artists to introduce groundbreaking techniques and sounds with the electric guitar. His innovations expanded the expressive capabilities of the instrument, setting new standards for guitarists. "Jimmy Hendrix and Eddie Van Halen were the first to do things with an electric guitar that no one else had." ← https://www.youtube.com/watch?v=m7MbV-eCLyE ← jimmy-hendrix
+**Premature Death Reference** : Jimmy Hendrix's premature death was referenced by psychologist Simon Mannchips, who criticized press reports for focusing on such events rather than the underlying mental illness when discussing Kurt Cobain's death. "less on the premature deaths of other rock stars such as Jimmy Hendrix and Jim Morrison." ← Ongoing History of New Music > Alt Rocks Craziest People | https://www.youtube.com/watch?v=CgReNKciFJo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← jimmy-hendrix ← jimmy-hendrix
+**Only Top 40 Hit** : Jimi Hendrix, despite his legendary status as a "guitar god," scored the only top 40 hit of his lifetime with his 1968 cover of Bob Dylan's "All Along the Watchtower." "guitar god Jimmy Hendrix scored the only top 40 hit of his lifetime" ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
+**Biopic Portrayal** : Guitar legend Jimmy Hendrix was portrayed by Andre Benjamin (Andre 3000) in the 2014 biopic *Jimmy, All Is By My Side*. Benjamin earned "plaudits for his uncanny portrayal" of the iconic musician. "his uncanny portrayal of guitar legend Jimmy Hendrix." ← Hit Parade Music History and Music Trivia > Shake It Like a Polaroid Picture Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ee9d1ba84fb8f044632
 
 ## lists
 **"Band Of Gypsys" (1970) — AOTY Must Hear 1970s** : #250, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/

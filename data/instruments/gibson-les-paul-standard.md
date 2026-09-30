@@ -7,6 +7,6 @@
 **Rarity and Collectibility (1958-1960 models)** : Only about 1700 Les Paul Standards were manufactured between 1958 and 1960, with approximately 700 known to still exist today, making them highly sought after by collectors and extremely expensive. "only about 1700 were ever manufactured, and today only about 700 are known to still exist." ← https://www.youtube.com/watch?v=d9HNqb9gJSU ← gibson-les-paul-standard ← gibson-les-paul-standard
 
 ## artists
-- Big Rack
+- Big Wreck
 - Sex Pistols
 

@@ -7,6 +7,4 @@
 **Russian/Eastern European Origins (Late 2010s)** : Drift Phonk emerged in the late 2010s, primarily from producers in Russia and Eastern Europe. These artists were drawn to the aggressive elements of Memphis sound, focusing on "metallic cowbells," "distorted sub-basses," and "primitive electronic production," rather than the slow aspects. They intensified these elements, speeding them up, and added a "saturated kick drum" with a tempo close to house music. "La finales de la década de 2010, productores de Rusia y Europa del este empezaron a posicionarse con ese sonido de Memphis. Pero no les interesaba la parte lenta, sino lo más agresivo." ← ¿Qué pasó con el PHONK？ (La historia real) | https://www.youtube.com/watch?v=ehfWyUHFFT8
 
 ## artists
-- Córdal
-- Farmasista
 

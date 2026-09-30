@@ -9,8 +9,6 @@
 ## curiosities
 **Recommended Tweetpop-Adjacent Band** : The Magnetic Fields are listed as a band "worth a look" for fans interested in Tweetpop, suggesting that their musical style or thematic elements align with the genre's appeal, which includes being shy, introspective, and finding loud, aggressive music unappealing. "Tulu Lagash, Honey Bunch, and Magnetic Fields are also worth a look." ← https://www.youtube.com/watch?v=jhgZrwtYE2g ← the-magnetic-fields
 
-
-
 ## lists
 **"69 Love Songs" (1999) — 1001 Albums You Must Hear Before You Die** : #884, 91 AOTY.
 **"69 Love Songs" (1999) — AOTY Must Hear 1990s** : #22, 91 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/

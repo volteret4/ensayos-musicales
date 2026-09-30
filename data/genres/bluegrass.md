@@ -13,10 +13,10 @@
 - Captain Kick and the Cowboy Ramblers
 - Carl Perkins
 - Emmylou Harris
-- Flatt & Scruggs
+- Flatt and Scruggs
 - James and The Good Brothers
 - Mumford & Sons
-- Nora Jones
+- Norah Jones
 - Ozark Mountain Daredevils
 - The Perkins Brothers Band
 

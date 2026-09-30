@@ -8,5 +8,5 @@
 **Reassigned Meaning in Digital Era** : The word "Indy" has experienced a resurgence and taken on enhanced significance in the early 21st century, largely due to the rapid shifts in the music industry brought about by the digital era. It continues to signify independence, specifically referring to groups that record for labels not associated with the majors in terms of artist signings and the music they create. "Meanwhile, however, the word Indy has been reassigned and has taken on greater resonance than ever before. Thanks to the sudden shift in the music industry, the came with the advent of the digital era in the early 21st century." ← https://www.youtube.com/watch?v=Z8BTWo66SDI ← indy
 
 ## artists
-- Alexis On Fire
+- Alexisonfire
 

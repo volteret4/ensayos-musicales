@@ -1,9 +1,7 @@
 # artist - Young MC
 
 ## songs
-**Busta Move** : This hit song features Flea on bass, showcasing his talent as a studio musician outside of his main band. "Remember that young MC hit Busta Move? That's Flea on bass." ← https://www.youtube.com/watch?v=CVPPymc_qrk ← young-mc
-
-
+**Bust a Move (1989)** : This hit song features Flea on bass, showcasing his talent as a studio musician outside of his main band. "Remember that young MC hit Busta Move? That's Flea on bass." ← https://www.youtube.com/watch?v=CVPPymc_qrk ← young-mc
 
 ## awards
 **Grammy Award for Best Rap Performance (1989)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q5593871

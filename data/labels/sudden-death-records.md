@@ -6,5 +6,4 @@
 
 ## artists
 - D.O.A.
-- DOA
 

@@ -14,16 +14,16 @@
 
 ## instruments
 - Acoustic Guitars
-- Finger picks (taped to fingers of right hand)
+- Finger picks
 - Open tunings
 
 ## albums
-**Ani DiFranco (1990) - Self-Titled Debut** : Her self-titled debut record was released in 1990. "This is from her 1990s self-titled debut record." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI ← ani-difranco ← ani-difranco
-**Ani DiFranco (1990s)** : This self-titled debut album from the 1990s features the song "Both Hands" and showcases her unique style. "This is from her 1990s self-titled debut album. It's called Both Hands." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← ani-difranco
+**Ani DiFranco (1990)** : Her self-titled debut record was released in 1990. "This is from her 1990s self-titled debut record." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI ← ani-difranco ← ani-difranco
+**Ani DiFranco (1990)** : This self-titled debut album from the 1990s features the song "Both Hands" and showcases her unique style. "This is from her 1990s self-titled debut album. It's called Both Hands." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← ani-difranco
 
 ## songs
 **Both Hands (1990)** : This song is featured on Ani DiFranco's self-titled debut record, released in 1990. "This is from her 1990s self-titled debut record. It's called Both Hands." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI ← ani-difranco ← ani-difranco
-**Both Hands (1990s)** : Featured on her self-titled debut album in the 1990s, this song exemplifies Ani DiFranco's distinctive acoustic style, originating from Buffalo. "It's called Both Hands. From Buffalo, that's Ani DeFranco with Both Hands." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← ani-difranco
+**Both Hands (1990)** : Featured on her self-titled debut album in the 1990s, this song exemplifies Ani DiFranco's distinctive acoustic style, originating from Buffalo. "It's called Both Hands. From Buffalo, that's Ani DeFranco with Both Hands." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← ani-difranco
 
 ## curiosities
 **Activism and Visibility** : During the 1990s, Ani DiFranco maintained a high profile, performing at numerous concerts and benefits, and receiving coverage in prominent magazines like Spin and Miz, as well as some exposure on MTV and VH1, alongside her continued activism. "She was everywhere through the 90s, lots of concerts, lots of benefits, lots of coverage in magazines like Spin and Miz, and some coverage on MTV and VH1." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI ← ani-difranco ← ani-difranco
@@ -35,8 +35,6 @@
 **Pioneering Independent Label Success** : From the outset of her career, Ani DiFranco managed all aspects of her music through her own label, Righteous Babe Records. She achieved significant success by actively rejecting the major label-dominated music industry culture of the 1990s, a stance that solidified her status as a hero to her fanbase. "from the very beginning, she did everything herself through her own label, Righteous Babe Records. ... Ani wanted to be independent. She would have nothing to do with that major label culture and turned out to be very successful in swimming against it, which alone makes her a hero in the eyes of her fans." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← ani-difranco
 **Political and Social Activism** : As a singer-songwriter from Buffalo, Ani DiFranco was very active politically and socially, appearing at benefits and rallies. She advocated for voting rights, abortion rights, and was a prominent early supporter of LGBT causes, which was particularly forward-thinking for 1990. "She was very active politically and socially. She appeared in benefits and rallies. She threw her support behind things like voting rights and abortion rights. Plus, she was way out in front of the rest of society when it came to fighting for LGBT causes." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← ani-difranco ← ani-difranco
 **Unique Playing Technique** : Ani DiFranco is characterized by a "passive aggressive" playing style, utilizing various open tunings and often taping finger picks to her right-hand fingers. Her acoustic guitar technique is highly percussive, and her vocal melodies, which "dance around" the guitar, draw comparisons to Joni Mitchell. "Ani has a passive aggressive style of playing. She uses all sorts of open tunings and often wears finger picks that she tapes to the fingers of her right hand. The guitar might be acoustic, but she's always finding ways to make things more percussive. And the way her vocal melodies dance around a guitar might make you think a little bit of Joni Mitchell." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← ani-difranco
-
-
 
 ## awards
 **Grammy Award for Best Recording Package (2003) — Evolve** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1836411

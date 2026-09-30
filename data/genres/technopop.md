@@ -45,7 +45,6 @@
 - Duran Duran
 - Erasure
 - Eurythmics
-- Flock of Seagulls
 - Gary Numan
 - Grace Jones
 - Information Society
@@ -56,7 +55,6 @@
 - Ministry
 - New Order
 - Orchestral Manoeuvres in the Dark
-- Orchestral Manoeuvres in the Dark (OMD)
 - Soft Cell
 - The Communards
 - The Human League

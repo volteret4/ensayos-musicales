@@ -4,9 +4,13 @@
 - Alan White
 
 ## genres
-- Math Rock (influence)
+- Electro-Rock
+- Math Rock
 - Prog Rock
 - Progressive Rock
+
+## songs
+**Leave It (1983)** : This "quirky, cacophonous, electro-rock track" from British Progressive Rock veterans Yes became a number 24 hit in the spring of 1984. The song, which emerged from the "cauldron of 83," showcased the band's adaptation to new electronic sounds, reflecting the broader trend of genre blending. "Here's British Progressive Rock Veterans, yes. With their quirky, cacophonous, electro-rock track, leave it." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
 
 ## curiosities
 **Alan White's Health and Death** : Alan White, the drummer with Yes, passed away after a brief illness, having previously suffered a stroke some time ago. "Alan White, the drummer with Yes, he'd also suffered a stroke some time ago and passed away after a brief illness." ← https://www.youtube.com/watch?v=sdPeii-8Ysw ← yes
@@ -18,8 +22,7 @@
 **Influence on Math Rock** : Yes was cited as a master of complex rock that inspired Math Rock, a genre described as complicated, hard to play, and "impossible to dance to." This influence contributed to the 2010s comeback of progressive rock, including the rise of Djent and other complex styles utilizing multi-string guitars. "This was complicated, complex, hard to play, and impossible to dance to rock, inspired by masters like Russian, King Crimson, and yes." ← https://www.youtube.com/watch?v=HSvgRyGiOpE ← yes
 **MuchMusic Canadian Video Premiere** : Yes was among the artists whose videos received a "Canadian video premiere" during the launch of MuchMusic on August 31, 1984. This marked their official debut on Canada's first 24-hour music channel. "Plus, the Canadian video premiere of Yes, Elvis Costello, The Fix, Human League, Slay, Culture Club, and a few surprises." ← Ongoing History of New Music > The Rise and Fall and Future of the Music Video - Part 1 | https://www.youtube.com/watch?v=lqd6IbUJ7tg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← yes ← yes
 **Pushing for Better Sound** : Yes, along with artists like David Bowie and Supertramp, recognized the critical importance of good concert sound. Their commitment to "getting concert sound right was very, very important" motivated sound companies to improve their systems and capabilities. "But to performers like David Bowie and Yes and Super Tramp, getting concert sound right was very, very important, so they pushed sound companies to get better." ← https://www.youtube.com/watch?v=qrrwqdpCjpQ ← yes
-
-
+**Progressive Rockers Transformed by New Wave** : Yes, progressive rock veterans, were "transformed by Buggles Leader and producer Trevor Horn into electro rock gods" during the second British invasion. This transformation resulted in a number one hit at the start of 1984. "For example, progressive rock veterans, yes, were transformed by Buggles Leader and producer Trevor Horn into electro rock gods on the breakbeat happy owner of a lonely heart, a number one hit at the start of 1984." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
 
 ## awards
 **Grammy Award for Best Rock Performance by a Duo or Group with Vocal (1984) — 90125** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1542205

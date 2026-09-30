@@ -12,7 +12,7 @@
 **Weezer Signing** : Weezer signed a deal with Geffen Records on June 25, 1993, after considerable pushback from the label's bosses regarding the band's choice of producer, Ric Ocasek. "Weezer signed a deal on June 25, 1993." ← https://www.youtube.com/watch?v=DoJa8jcrlUA ← geffen-records
 
 ## artists
-- Alice In Chains
+- Alice in Chains
 - Lock Up
 - Nirvana
 - Pearl Jam

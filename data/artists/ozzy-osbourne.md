@@ -4,7 +4,7 @@
 - Black Sabbath
 
 ## members
-- Randy Rhoads (guitarist)
+- Randy Rhoads
 
 ## genres
 - Heavy Metal
@@ -15,10 +15,13 @@
 - Ozzfest 2000
 
 ## songs
-**Crazy Train (Guitar World Survey)** : Ranked at number two in Guitar World magazine's survey for greatest guitar riffs, specifically crediting Randy Rhoads for the guitar work. "And second spot, crazy train, Randy Rhodes playing for Ozzy Osport, good call." ← https://www.youtube.com/watch?v=KtdIMNoHqA8 ← ozzy-osbourne ← ozzy-osbourne
-**Crazy Train (Year not specified)** : This song is listed among others frequently used at sporting events to engage the crowd, although it was not originally written with sports in mind. "The point of playing songs like this or sweet Caroline or thank God I'm a country boy or crazy train or whatever is crowd engagement." ← For the Record - The 70s > Ep. 36 - Na Na Na Na, Hey Hey Hey! 70s Music and Sports | https://seventies.libsyn.com/ep-36-na-na-na-na-hey-hey-hey-70s-music-and-sports
+**Crazy Train (1980)** : Ranked at number two in Guitar World magazine's survey for greatest guitar riffs, specifically crediting Randy Rhoads for the guitar work. "And second spot, crazy train, Randy Rhodes playing for Ozzy Osport, good call." ← https://www.youtube.com/watch?v=KtdIMNoHqA8 ← ozzy-osbourne ← ozzy-osbourne
+**Crazy Train (1980)** : This song is listed among others frequently used at sporting events to engage the crowd, although it was not originally written with sports in mind. "The point of playing songs like this or sweet Caroline or thank God I'm a country boy or crazy train or whatever is crowd engagement." ← For the Record - The 70s > Ep. 36 - Na Na Na Na, Hey Hey Hey! 70s Music and Sports | https://seventies.libsyn.com/ep-36-na-na-na-na-hey-hey-hey-70s-music-and-sports
 
 ## curiosities
+**Collaboration with Mike Bordin** : Mike Bordin, the drummer for Faith No More, worked with Ozzy Osborne for a period after Faith No More's initial breakup. "Drummer Mike Bowden went off to work with Ozzy Osborne for a while." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ ← ozzy-osborne
+**Taylor Hawkins' Guest Drumming** : Taylor Hawkins performed drums on records by Ozzy Osborne. This collaboration highlights his versatility and the respect he garnered within the rock community. "He also showed up in records by Slash, Ozzy Osborne, and Elton John." ← https://www.youtube.com/watch?v=dD-VEcFpIFA ← ozzy-osborne ← ozzy-osborne
+**Tribute After Death** : Ozzy Osborne was among the many musicians who sent tributes upon Taylor Hawkins' death, underscoring the widespread respect and admiration he commanded from his peers. "When he died, tributes came in from everyone from Ozzy Osborne to Stevie Nicks, to Travis Barker, to Tom Morello to Liam Gallagher." ← https://www.youtube.com/watch?v=dD-VEcFpIFA ← ozzy-osborne ← ozzy-osborne
 **1982 World Tour Advertisement** : An advertisement from 1982 promoted Ozzy Osbourne's "1982 World Tour" with special guests Starfighters, live at an auditorium. The ad described an "awesome garage of sound and light" that would "rip through you in a rage of heavy metal fury," encouraging attendees to "Enter the world of a madman." The face value of a ticket for this event was $9 in 1982. "The 1982 Sunom rates Aussie Osborne in the flesh. This Tuesday at the auditorium an awesome garage of sound in light will rip through you in a rage of heavy metal fury." ← https://www.youtube.com/watch?v=OCkov6FTliE ← ozzy-osbourne
 **Active Rock Radio Airplay** : This classic rock artist was played on active rock radio stations in the 2010s as an homage to traditional rock values, alongside new material. "They also played the homage to guns and rouses, NACDC and Led Zeppelin and Van Halen and Ozzy and Sabbath and Death Lepred and Jimmy Hendrix." ← https://www.youtube.com/watch?v=sOU54d8mr5k ← ozzy-osbourne
 **Death (2025) – Heart Attack at 76, Final Concert a Medical Miracle** : Ozzy Osbourne died at age 76 of a heart attack. His final concert, held in Birmingham two weeks before his death, was considered a near-miracle given his severe Parkinson's disease, chronic pain, and a secret prior hospitalization. He dictated his final autobiography, *Last Rights*, the day before he died. "His last concert in Birmingham, two weeks before his death, was considered a miracle due to his severe Parkinson's, chronic pain, and a secret prior hospitalization." ← https://www.youtube.com/watch?v=ZPlsR7_WiZQ ← ozzy-osbourne
@@ -31,8 +34,8 @@
 **Official Record Store Day Ambassador** : Ozzy Osbourne has been an official ambassador for Record Store Day, an initiative created to revitalize independent record stores and increase the sale of vinyl records. "Artists from Metallica to Ozzy Osborne to Iggy Pop to Pearl Jam have served as official record store day ambassadors." ← https://www.youtube.com/watch?v=jD1dWxNLvfE ← ozzy-osbourne
 **Touring with Christian Bands** : In the summer of 2000, Ozzy Osbourne's Ozzfest tour included the born-again Christian band P.O.D., an unusual pairing given his "Prince of Darkness" persona. "And by the summer of 2000, this band of born again was on the road with the Prince of Darkness, Ozzy Osborne, and that year's version of Osfest." ← https://www.youtube.com/watch?v=g-tBn8dsSqw ← ozzy-osbourne
 **Unusual Behaviors** : Ozzy Osbourne is known for exhibiting highly unusual and bizarre behaviors, including the acts of snorting ants and licking up his own urine. "Ozzy Osborne snorring ants and also licking up his own urine." ← https://www.youtube.com/watch?v=lzwQggT0qR0 ← ozzy-osbourne ← ozzy-osbourne
-
-
+**Atlanta Blackout (1976)** : Ozzy once drank himself into oblivion in Atlanta, passed out in the wrong hotel room for 24 hours, and consequently missed a scheduled show. "That time in Atlanta, when Ozzy drank himself into oblivion, passed out in the wrong hotel room for 24 hours, and missed a show as a result." ← https://www.youtube.com/watch?v=Jvh8SP2QKXQ ← ozzy ← ozzy
+**Chris Sangerides as Producer** : Chris Sangerides, the producer for The Tragically Hip's *Fully Completely*, was known for his work with Ozzy, alongside other heavy metal groups such as Judas Priest and Black Sabbath. "The producer was Chris Sangerides, a Greek Cypriot breads who was better known for working with Judas Priest and Black Sabbath and Ozzy and Thin Lizzy." ← https://www.youtube.com/watch?v=Vs1YyXgLpTE ← ozzy
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

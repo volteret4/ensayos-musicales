@@ -1,15 +1,11 @@
 # artist - Jim Marshall
 
-## members
-- Mickey Waller (student)
-- Mitch Mitchell (student)
-
 ## instruments
 - Amplifier
 - Drums
-- JTM45 amplifier (inventor)
-- Marshall Stack (inventor)
-- Speaker cabinets (with 12-inch and 19-inch speakers)
+- JTM45 amplifier
+- Marshall Stack
+- Speaker cabinets
 
 ## curiosities
 **Challenge to Design Louder Amplifiers** : Jim Marshall was consistently approached by musicians like Pete Townshend and Ritchie Blackmore, who expressed a strong desire for bigger, more powerful, and louder amplifiers. They challenged him to design an amp with specific sound and flexibility requirements. "And the one thing that they always talked about, the one thing they always pushed Jim for was a bigger, more powerful, and louder amplifier." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw ← jim-marshall
@@ -23,8 +19,3 @@
 **Legacy of the Marshall Stack – Drummer Invented Guitar Icon** : Jim Marshall, a drummer by profession and an engineer by training, conceived, invented, manufactured, and marketed the renowned Marshall amplifier and the iconic Marshall stack. This gear became the "dream gear for millions of guitar players around the world," solidifying his legacy as an inventor. "Did I mention that Jim's last name is Marshall? Yeah, the famous Marshall amplifier the famous Marshall stack the dream gear for millions of guitar players around the world Was conceived invented manufactured and marketed by a drummer." ← https://www.youtube.com/watch?v=gsSTJWN6cUo ← jim-marshall
 **Meaning of "JTM45"** : The "J" in JTM45 stands for Jim (Marshall), the "T" for his son Terry, and the "M" for Marshall. The "45" originally denoted its output of 45 Watts, though later models pushed significantly more power. "Why JT-M? Well, the J is for Jim, the T is for his son Terry, and the M is for Marshall, of course. And the 45? Well, that was its original output, 45 Watts." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw ← jim-marshall
 **Rapid Success of Marshall Amplifiers** : The JTM45's first live performance occurred at a pub gig in September 1963. Within just 18 months, Marshall amplifiers had become the most popular amps throughout the United Kingdom, even surpassing the previously dominant Vox amplifiers used by The Beatles. "Within 18 months, Marshall's were the most popular amps in all of the UK, even blowing away Vox amplifiers, which were used by the Beatles." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw ← jim-marshall
-
-
-
-## charts
-**"Rich Girl" — Billboard Year-End Hot 100** : #23, 1977. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

@@ -5,8 +5,7 @@
 
 ## curiosities
 **Another Roadside Attraction International Tourmate** : Blues Traveler was an international act that toured with The Tragically Hip's Another Roadside Attraction festival in 1993, 1995, and 1997, alongside Canadian performers. "But they also brought along Midnight Oil, Blues Traveler, Matthew Sweet and Cheryl Crow." ← https://www.youtube.com/watch?v=U2kYleeMnl8 ← blues-traveler ← blues-traveler
-
-
+**Another Roadside Attraction International Tourmate** : Blues Traveler was an international act that toured with The Tragically Hip's Another Roadside Attraction festival in 1993, 1995, and 1997, alongside Canadian performers. "But they also brought along Midnight Oil, Blues Traveler, Matthew Sweet and Cheryl Crow." ← https://www.youtube.com/watch?v=U2kYleeMnl8 ← blues-traveler
 
 ## charts
 **"Run-Around" — Billboard Year-End Hot 100** : #14, 1995. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

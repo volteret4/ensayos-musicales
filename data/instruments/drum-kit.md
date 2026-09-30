@@ -8,6 +8,6 @@
 ## artists
 - Bob Wills
 - Bob Wills and His Texas Playboys
-- Larry Mullen
+- Larry Mullen Jr.
 - The Perkins Brothers Band
 

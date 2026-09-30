@@ -23,6 +23,7 @@
 **Sid Vicious's Alleged Saxophone Pogoing** : One theory regarding the origin of the Pogo dance suggests that Sid Vicious, in addition to being a bassist, was rumored to play the saxophone. It is claimed that he would jump up and down on the spot while attempting to play the instrument, which may have contributed to the Pogo's development. "There's another story that says when Sid played the saxophone, yes, it's claimed that he played the saxophone, that he jumped up and down on the spot." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y ← saxophone
 **They Might Be Giants' Early Instrumentation** : In the early years of They Might Be Giants, John Linnell contributed to the backup music on the saxophone. "and saxophone." ← https://www.youtube.com/watch?v=I9_3EbwKPnU ← saxophone ← saxophone
 **Wayne Shorter's Expressive Use** : Wayne Shorter recounted playing his soprano sax "angrily" while watching Fox News as a way to process emotions and inspire his writing, demonstrating his unique and personal approach to music creation. "He told me about watching Fox News and playing soprano sax just angrily and like writing while he was watching Fox News and like I mean that was crazy." ← Hit Parade Music History and Music Trivia > Introducing Broken Record - Norah Jones Begins Again | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cbc
+**Clarence Clemons on Freeway of Love (1985)** : Clarence Clemons, saxophonist for Bruce Springsteen's E Street Band, was specifically hired by producer Narada Michael Walden to contribute a sax solo in his "inimitable style" on Aretha Franklin's hit "Freeway of Love." "But the biggest connection to Springsteen, that was the sax solo on Freeway of Love. Walden hired Bruce's E Street band saxophonist Clarence Clemens to blow in his inimitable style." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
 
 ## artists
 - Big Al Sears
@@ -31,7 +32,7 @@
 - Bob Wills and His Texas Playboys
 - Booker T. Jones
 - Chubby Checker
-- Dave Manning
+- Davis Manning
 - David Bowie
 - Edgar Sampson
 - Elvis Presley
@@ -45,22 +46,23 @@
 - King Curtis
 - Lene Lovich
 - Leon Michels
-- Manfred Mann (band)
+- Manfred Mann
 - Manu Dibango
 - Mike Vickers
 - Mr. Bungle
-- Nora Jones
+- Norah Jones
 - Ray Charles
-- Razz Peterson
 - Ronnie Ross
 - Ronnie Scott
 - Saxa
 - Steely Dan
-- The Debarrens
+- The Barons
 - The Farriss Brothers
 - The Light Crust Doughboys
 - The Sleepwalkers
 - The Stooges
 - They Might Be Giants
 - Trent Reznor
-
+- Branford Marsalis
+- Clarence Clemons
+- Danny McCaslin

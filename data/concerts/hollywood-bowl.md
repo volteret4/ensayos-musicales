@@ -5,5 +5,5 @@
 **Inspired Weezer Song** : Rivers Cuomo attended the opening of a new phase of the Hollywood Bowl, which featured renovations. While looking through the program, he saw pictures of Wilson Phillips, inspiring the Weezer song "Beverly Hills." "Rivers Quomo came up with the idea for this song after attending the opening of a new phase of the Hollywood Bowl." ← https://www.youtube.com/watch?v=LYRPxtP61JM ← hollywood-bowl
 
 ## artists
-- Lincoln Park
+- Linkin Park
 

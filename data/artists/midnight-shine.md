@@ -1,16 +1,16 @@
 # artist - Midnight Shine
 
 ## members
-- Adrian Sutherland (key guy)
-- George Gillies (drummer)
-- Stan Louttit (bass player)
-- Zachary Tomatuk (guitarist)
+- Adrian Sutherland
+- George Gillies
+- Stan Louttit
+- Zachary Tomatuk
 
 ## concerts
 - Trooper (opening for)
 
 ## instruments
-- Snowmobile (used for travel to rehearsals)
+- Snowmobile
 
 ## albums
 **Northern Man (2014)** : This album, released in 2014, is Midnight Shine's second. The lyrics, particularly those of the song "Here I Am," are described as self-explanatory, reflecting themes important to the band and their origins. "I want to play you something from their second album which came out in 2014. It's called Northern Man. And the lyrics I think are pretty self-explanatory." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← midnight-shine
@@ -25,9 +25,3 @@
 **Formation and Rise to Prominence** : The band began in 2011 when Adrian Sutherland secured a gig opening for Trooper in Timmins. The performance was so well-received that he decided Midnight Shine needed to become a permanent endeavor, leading to a series of albums, national tours, festival appearances, and widespread radio airplay across Canada. "The band started in 2011 when Adrian got a gig opening for Trooper and Timons. But that went over so well he decided that Midnight Shy needed to become a permanent thing, and that led to a series of albums and national tours and festivals and radio airplay across the country." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← midnight-shine
 **Geographically Dispersed Members** : The band members are scattered across vast distances in Northern Ontario, making rehearsals a unique challenge. Drummer George Gillies is from Fort Albany (100 km from Attawapiskat), while bass player Stan Louttit and guitarist Zachary Tomatuk are from Moose Factory (an additional 130 km south). "The band members are scattered far and wide across North and Ontario. ... So all the members are separated by about 230 kilometers of roadless wilderness." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← midnight-shine
 **Resilience in Attawapiskat** : Despite Attawapiskat being in the news for serious issues like housing crises, a major suicide epidemic, and drug problems, Adrian Sutherland and others like him refuse to give up on their home and neighbors, highlighting a spirit of resilience. "From Anna Wapisgad in Northern Ontario, a place that's been in the news for so many sad reasons like housing crisis, a major suicide epidemic, drug problems and more. But guys like Adrian Sutherland refused to give up on their home and their neighbors." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← midnight-shine
-
-
-
-## lists
-**"Days of Thunder" (2014) — Sputnikmusic Best Albums 2014** : #156, 3.94 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2014/
-**"Nocturnal" (2017) — Sputnikmusic Best Albums 2017** : #127, 3.86 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2017/

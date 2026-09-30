@@ -2,7 +2,7 @@
 
 ## members
 - Alex Hodge
-- Cornel Gunter
+- Cornell Gunter
 - Curtis Williams
 - David Lynch
 - Gaynell Hodge
@@ -10,7 +10,6 @@
 - Joe Jefferson
 - Paul Robi
 - Richard Berry
-- Sandra Doyle
 - Sonny Turner
 - Tony Williams
 - Zola Taylor
@@ -26,18 +25,19 @@
 - Federal Records
 - Mercury Records
 
-## albums
-**Solo Album (1959)** : Tony Williams, the lead singer of The Platters, released this album when he decided to pursue a solo career more vigorously. This move was part of Book Ram's plan to develop Williams as a solo artist while maintaining The Platters as a hit group. "Boy, wonder why you keep me waiting. Charming. Fies and veils." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
-
 ## songs
-**Only You (And You Alone) (1955)** : This song was originally written by Book Ram with the intention of giving it to The Ink Spots, but it was set aside. Book Ram initially thought the song was "rubbish," an assessment seemingly confirmed by the initial bad recording by The Platters. Jean Bennett, Ram's assistant, rediscovered the sheet music, and Tony Williams insisted on recording it. A voice crack by Williams on the word "only" during an early take was incorporated, adding to the song's character. It became a massive hit, defining an era as the epitome of 1950s Smooth Balladry, spending 30 weeks on the R&B chart (seven at number one) and 22 weeks on the pop chart (peaking at number five). Federal Records rush-released their "awful" original recording to cash in, leading to a lawsuit with Ram and Mercury, which Federal eventually won the right to release but it didn't chart. "no, it sounded good, use it." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
-**Smoke Gets in Your Eyes** : A hit for The Platters, showcasing their transition into the lucrative adult market by covering standards, and regularly charting high on the pop charts. "smoke gets in your eyes." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
 **The Great Pretender (1955)** : This song, also written by Book Ram, was the follow-up to "Only You" and proved to be an even bigger hit, solidifying The Platters' string of successes. "Oh, yes, I'm the great pretender. Retending that I'm doing well. My need is such I pretend too much. I'm only evil, but no one can tell." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
-**The Magic Touch** : One of a string of hits for The Platters following their initial massive successes, regularly appearing at the top of the pop chart. "The magic touch." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
-**Twilight Time** : Another hit song for The Platters, contributing to their consistent presence at the top of the pop chart. "twilight time." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
-**Twilight Time (Year unknown)** : This song was co-written by Al Nevins, who later partnered with Don Kirshner to form Aldon Music, and Buck Ram. It was a hit in the 1940s and was later revived by The Platters. "But he ended up with Al Nevin's, who had been a musician and had also co-written Twilight Time with Book Ram, which had been a hit in the 40s and then later revived by the Platters." ← Episode 89： ＂Will You Love Me Tomorrow？＂ by the Shirelles | https://www.youtube.com/watch?v=7Kns2HGcuSg
+**Only You (And You Alone) (1955)** : This song was originally written by Book Ram with the intention of giving it to The Ink Spots, but it was set aside. Book Ram initially thought the song was "rubbish," an assessment seemingly confirmed by the initial bad recording by The Platters. Jean Bennett, Ram's assistant, rediscovered the sheet music, and Tony Williams insisted on recording it. A voice crack by Williams on the word "only" during an early take was incorporated, adding to the song's character. It became a massive hit, defining an era as the epitome of 1950s Smooth Balladry, spending 30 weeks on the R&B chart (seven at number one) and 22 weeks on the pop chart (peaking at number five). Federal Records rush-released their "awful" original recording to cash in, leading to a lawsuit with Ram and Mercury, which Federal eventually won the right to release but it didn't chart. "no, it sounded good, use it." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
+**Smoke Gets in Your Eyes (1958)** : A hit for The Platters, showcasing their transition into the lucrative adult market by covering standards, and regularly charting high on the pop charts. "smoke gets in your eyes." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
+**Twilight Time (1958)** : Another hit song for The Platters, contributing to their consistent presence at the top of the pop chart. "twilight time." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
+**Twilight Time (1958)** : This song was co-written by Al Nevins, who later partnered with Don Kirshner to form Aldon Music, and Buck Ram. It was a hit in the 1940s and was later revived by The Platters. "But he ended up with Al Nevin's, who had been a musician and had also co-written Twilight Time with Book Ram, which had been a hit in the 40s and then later revived by the Platters." ← Episode 89： ＂Will You Love Me Tomorrow？＂ by the Shirelles | https://www.youtube.com/watch?v=7Kns2HGcuSg
+**(You've Got) The Magic Touch (1956)** : One of a string of hits for The Platters following their initial massive successes, regularly appearing at the top of the pop chart. "The magic touch." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
 
 ## curiosities
+**Initial Lineup and Member Departures** : The group started with a lineup that included Cornel Gunter, Gaynell Hodge, Alex Hodge, Joe Jefferson, Richard Berry, and Curtis Williams. However, members quickly left for other, more popular groups, leading to significant changes before the group's eventual success as The Platters. "But very quickly, the flamingos started to lose members to other, more popular groups." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
+**Lack of Strong Lead Singer** : Before Tony Williams joined, the Flamingos (which would become The Platters) had a lineup consisting of Gaynell Hodge, Alex Hodge, David Lynch, and Herb Reed, but they were not considered very good and lacked a single singer strong enough to sing lead. "That lineup was not very good though, and they didn't have a single singer who was strong enough to sing lead." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
+**Renaming to The Platters** : The group had to change its name from "The Flamingos" because another group was already using the name and achieved a hit record, leading them to adopt the name "The Platters" (a disc jockey term for records). "it wasn't surprising that someone else was using the name the flamingos, and that group got a hit record out." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
+**Vocal Chorus for Big Jay McNeely** : Their first recording was as the vocal chorus on "Nervous Man Nervous" by renowned saxophone honker Big Jay McNeely, who had previously played with Johnny Otis's band. "their first recording was as the vocal chorus on nervous man nervous by Big Jamec Nealy." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
 **"Sham Corporation" Ruling (1974)** : A court ruled in 1974 that "Five Platters Inc." was a "sham corporation" whose sole purpose was to illegally deprive band members of their ownership in the band name, and that Book Ram had unfairly benefited from an unbalanced bargaining position. This ruling briefly voided FPI's trademark. "there was a court ruling back in 1974 that the whole purpose of five platters ink had been to illegally deprive the band members of their ownership in the band name, that it was a sham corporation." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
 **Alex Hodge's Departure Controversy** : Alex Hodge, an original member, left The Platters, officially due to an arrest for marijuana possession. However, Gaynell Hodge claimed that Book Ram and Herb Reed conspired to remove Alex because Alex, the alleged original founder of the group, was too knowledgeable about the music business and was becoming suspicious of Ram's financial dealings. "Gael Hodge now claims that this wasn't the real reason that Alex Hodge was sacked." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
 **Comparison to The Ink Spots** : The Platters were often compared to The Ink Spots, not only in their musical style, with The Platters emulating The Ink Spots in their biggest hit, but also in the unfortunate way their group eventually disintegrated due to internal conflicts and legal battles. "The platters were, in many ways, the 1950's equivalent to the ink spots." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
@@ -62,3 +62,13 @@
 **Vocal Sound Transformation** : Book Ram aimed to reshape The Platters' vocal sound, drawing inspiration from 1940s groups like The Quintones and The Modernaires who featured a four-men and one-woman lineup. This led to the recruitment of Zola Taylor, whose addition was crucial to achieving Ram's desired vocal blend. "Working with The Quintones had given Ram a taste for the particular vocal blend that comes from having four men and one woman." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
 **Zola Taylor's Membership** : Zola Taylor was a member of The Platters before being replaced by Sandra Doyle, who had previously joined The Teenagers. "who would later be Zola Taylor's replacement in the Platters." ← Episode 35： ＂Why Do Fools Fall In Love？＂ by Frankie Lymon and the Teenagers | https://www.youtube.com/watch?v=AtZf9PJEttM
 
+## charts
+**"Only You" — Billboard Year-End Hot 100** : #29, 1955. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"My Prayer" — Billboard Year-End Hot 100** : #4, 1956. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"The Great Pretender" — Billboard Year-End Hot 100** : #12, 1956. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"(You've Got) The Magic Touch" — Billboard Year-End Hot 100** : #36, 1956. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Twilight Time" — Billboard Year-End Hot 100** : #16, 1958. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Smoke Gets in Your Eyes" — Billboard Year-End Hot 100** : #16, 1959. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Enchanted" — Billboard Year-End Hot 100** : #64, 1959. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Harbor Lights" — Billboard Year-End Hot 100** : #50, 1960. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**""My Prayer" ‡" — UK Singles Chart** : #9, 1957. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart

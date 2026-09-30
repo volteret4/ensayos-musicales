@@ -3,4 +3,3 @@
 ## member of
 - Buffalo Springfield
 - Poco
-

@@ -88,25 +88,36 @@
 **US Influence on Jamaican Music** : R&B, along with Dixieland, jazz, and blues, seeped into Jamaica via AM radio and shortwave from places like New Orleans, influencing the indigenous music and contributing to the formation of shuffle and eventually Ska. "Lots of Dixieland and jazz and blues and RMB came in over AM radio and shortwave from mainland." ← https://www.youtube.com/watch?v=WX2GlpMNg_8 ← rb ← rb
 **Vocal Expression Controversy** : R&B acts were among the musical artists whose new forms of vocal expression, facilitated by microphones, generated decades of strong criticism from purists. Their singing styles were considered by some to be "degenerate forms of singing," challenging the established vocal norms of earlier generations. "R&B acts, Elvis, The Beatles, Dylan, Jagger, New Waivers, rappers all the way up to and beyond death medillars." ← https://www.youtube.com/watch?v=L0j9iDuHQVA ← rb
 **Vocal Group R&B Development** : Vocal group R&B as a genre was significantly influenced by acts like Billy Ward and the Dominoes, particularly with Clyde McPhatter as their lead singer, whose records "paved the way" for its sound and style. "Billy Ward and the Dominoes, whose records with Clyde McFatter as lead singer, had paved the way for vocal group R&B as a genre" ← Episode 39： ＂Please Please Please＂ by James Brown and the Famous Flames | https://www.youtube.com/watch?v=DSkNVh93tAs
+**Single Grammy Category (1959)** : At the inaugural Grammy Awards in May 1959, R&B was granted only one subcategory, reflecting the Academy's initial bias against top-selling rock and R&B music. "They did create one award for R&B." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
+**Grammy Recognition in 70s and 80s** : The Recording Academy eventually began rewarding R&B, along with rock and other forms of pop, aligning with popular tastes by the 1970s and 1980s, after initially avoiding rock and roll in its first decade. "The Academy did eventually begin rewarding rock, R&B, and other forms of pop. And by the 70s and 80s, they were aligning with the charts and popular tastes." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
+**General Field Grammy Overlaps** : Beyoncé, despite being a "superlative R&B singer," has been consistently overlooked in top general field Grammy categories, largely due to her "proximity to rap and hip hop culture," highlighting the Academy's struggle with genre boundaries and biases. "Beyoncé, I would venture, has been overlooked in the top categories, even as a superlative, R&B singer for her proximity to rap and hip hop culture." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
+**Wars Between the Sexes** : In the pre-rock and roll era of the 1950s, "wars between the sexes" were a prominent theme in answer records on the R&B side of the radio dial. "In these pre-rock and roll days, answer records and wars between the sexes were all the rage on the R&B side of the radio dial as well." ← Hit Parade Music History and Music Trivia > Here’s the Beef Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef3154465cd600c4ef5
+**Segregation on Top 40 Radio (1961)** : In 1961, "straight up R&B was often segregated on Top 40 radio," highlighting a historical period where racial divides influenced mainstream radio programming. "In 1961, at a time when straight up R&B was often segregated on top 40 radio, Tossin and Turnin proved an undeniable hit." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce81
+**Careless Whisper Chart Crossover (1985)** : Wham!'s "Careless Whisper" successfully crossed over to Billboard's R&B chart, where it cracked the top 10, demonstrating its broad appeal beyond pop. "Not for nothing, did this song cross over to Billboard's R&B chart, where it cracked the top 10." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce81
+**Veteran R&B Producers** : Alan George and Fred McFarlane are identified as "veteran R&B producers" who wrote and produced the original 1990 version of Robin S's "Show Me Love." "It was written and produced by veteran R&B producers Alan George and Fred McFarlane, the original 1990 Show Me Love sounded like this." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
+**Coined by Jerry Wexler** : The term "Rhythm and Blues" (R&B) was coined in the early 1950s by Atlantic Records executive Jerry Wexler. Atlantic Records played a major role in popularizing this genre, crossing it over with white audiences while retaining its characteristic grit. "Rhythm and Blues, a term by the way that was coined in the early 50s by Atlantic Records executive Jerry Wexler." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4eef8e6dd12efb02c3c9
+**Shift to Disco (Late 1970s)** : By the late 1970s, R&B, alongside Pop, had largely transitioned to the sounds of disco, posing adaptation challenges for veteran artists. "By the late 70s, both R&B and Pop had moved on to the sounds of disco." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Charting Success for Miguel** : Miguel Jontel Pimentel, recording as Just Miguel, became a "black radio and R&B chart phenomenon" at the turn of the 2010s, with his title track "All I Want is You" cracking the top 10 and "Sure Thing" topping the R&B chart in May 2011. "Miguel Jontel Pimentel, who records as Just Miguel, became a black radio and R&B chart phenomenon." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c42e
+**Rap and R&B Duet Establishment** : The remix of Mariah Carey's "Fantasy," featuring rapper Ol' Dirty Bastard, played a role in establishing the rap and R&B duet as a significant and successful format on the charts. This collaboration highlighted the increasing integration and crossover appeal between these two genres in the mid-1990s. "fantasy also helped establish the rap and be duet." ← Hit Parade Music History and Music Trivia > Toppermost of the Poppermost Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef60c30a1408dc29358
 
 ## artists
 - Aaliyah
 - Alan Freed
 - Amy Winehouse
 - Aretha Franklin
-- Barry Gordy Jr.
-- Benny King
+- Berry Gordy
+- Ben E. King
 - Bernadette Cooper
 - Big Joe Turner
 - Bill Doggett
 - Bill Withers
 - Billy Ocean
 - Billy Preston
-- Billy Ward and his Dominoes
+- Billy Ward and His Dominoes
 - Blood, Sweat & Tears
 - Bloodstone
-- Bobby Jean Hall
-- Booker T and the M.G.'s
+- Bobbye Hall
+- Booker T. & the M.G.'s
 - Boyz II Men
 - Buddy Holly
 - Carl Perkins
@@ -119,12 +130,10 @@
 - David Bowie
 - Diana Ross
 - Dinah Washington
-- Earth Wind & Fire
 - Earth, Wind & Fire
-- Elvis
-- Elvis Costello
 - Elvis Presley
-- Escarito
+- Elvis Costello
+- Esquerita
 - Fats Domino
 - First Choice
 - George Benson
@@ -134,58 +143,56 @@
 - Gnarls Barkley
 - Graham Parker
 - Hank Ballard and the Midnighters
-- Holland, Dozier and Holland
+- Holland–Dozier–Holland
 - Jackie Wilson
 - James Brown
 - Janice Martin
 - Jean and Eunice
 - Jerry Lee Lewis
-- Jerry Lieber and Mike Stoller
+- Leiber and Stoller
 - Jesse Belvin
 - Joe Strummer
-- Joey D and the Starlighters
+- Joey Dee and the Starliters
 - Johnny Ace
 - Johnny Nash
 - Johnny Otis
-- Junia Parker
+- Junior Parker
 - Kool & the Gang
 - LaBelle
 - LaVern Baker
 - Larry Williams
-- LeVern Baker
-- Leslie Gore
+- Lesley Gore
 - Linda Martell
 - Lionel Richie
 - Little Richard
 - Louis Jordan
 - Lyn Collins
 - Mamie Smith
-- Martha and the Van Dellers
+- Martha and the Vandellas
 - Marvin Gaye
-- Mary Clayton
+- Merry Clayton
 - Michael Jackson
 - Mickey & Sylvia
-- Mickey Baker (MacHuston Baker)
-- Mickey and Sylvia
+- Mickey Baker
 - Moon Mulligan
 - O.B. McClinton
 - Quincy Jones
 - Ray Charles
 - Richard Berry
-- Richie Valens
-- Robert John "Mut" Lang
+- Ritchie Valens
+- Robert John "Mutt" Lange
 - Rufus
 - Rufus Thomas
 - Ruth Brown
 - Sam and Dave
 - Shirley and Lee
-- Sister Rosetta Tharp
+- Sister Rosetta Tharpe
 - Sly and the Family Stone
 - Smiley Lewis
 - Stella Santana
 - Stevie Wonder
-- Sunni Thompson
-- Sylvia Van Topoele (Little Sylvia, Sylvia Robinson)
+- Sonny Thompson
+- Sylvia Robinson
 - The Alan Price Rhythm and Blues Combo
 - The Animals
 - The Black Keys
@@ -210,7 +217,6 @@
 - The Searchers
 - The Spinners
 - The Staple Singers
-- The Staples Singers
 - The Teenagers
 - The Temptations
 - The Trammps
@@ -224,4 +230,49 @@
 - War
 - Waylon Jennings
 - Wynonie Harris
-
+- Talking Heads
+- Blondie
+- TLC
+- Roberta Flack
+- Mariah Carey
+- OutKast
+- Bruno Mars
+- Usher
+- Sting
+- Whitney Houston
+- Chaka Khan
+- The Shirelles
+- En Vogue
+- Jade
+- SWV
+- Pebbles
+- Xscape
+- Brownstone
+- Eternal
+- All Saints
+- Olivia Newton-John
+- New Edition
+- The Top Notes
+- Justin Timberlake
+- Timbaland
+- Big Mama Thornton
+- Jimmy Gilmer and The Fireballs
+- Bobby Lewis
+- Dionne & Friends
+- The Next
+- Donna Summer
+- Craig David
+- Sam Cooke
+- Chris Brown
+- P!nk
+- Schools of Thought
+- Basic Instinct
+- Choice
+- Christina Aguilera
+- Luther Vandross
+- Narada Michael Walden
+- Miguel
+- Lloyd
+- Eurythmics
+- The Jaynetts
+- The Pointer Sisters

@@ -60,10 +60,9 @@
 **Warped Tour's Initial Focus (1995)** : The first Warped Tour in 1995 was designed as a "baby brother" to Lollapalooza, featuring a collection of up-and-coming alternative bands across two stages. "The first version was designed as kind of a baby brother to Lola, Paloza, a collection of up and coming alternative bands performing on two stages." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← alternative
 
 ## artists
-- Alexis On Fire
-- Alexis on Fire
+- Alexisonfire
 - Alice in Chains
-- Anónima Morta Loquorquesta
+- Unknown Mortal Orchestra
 - Beastie Boys
 - Billie Eilish
 - Björk
@@ -77,7 +76,7 @@
 - Gorillaz
 - Grace Jones
 - Green Day
-- InXS
+- INXS
 - Jane's Addiction
 - Jesus Jones
 - Jonathan Richman
@@ -92,17 +91,14 @@
 - Primal Scream
 - Queens of the Stone Age
 - R.E.M.
-- REM
-- Rage Against The Machine
 - Rage Against the Machine
 - Red Hot Chili Peppers
 - Skinny Puppy
-- Smashing Pumpkins
+- The Smashing Pumpkins
 - Sonic Youth
 - Soundgarden
 - The Bangles
 - The Pixies
-- The Smashing Pumpkins
 - The Stooges
 - The Velvet Underground
 - Tin Machine

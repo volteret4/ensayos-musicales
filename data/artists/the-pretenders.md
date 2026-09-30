@@ -1,16 +1,10 @@
 # artist - The Pretenders
 
-## member of
-- Johnny Marr
-
 ## members
-- (three Englishmen)
 - Chrissie Hynde
-- Chrissie Hynde (singer)
-- Chrissy Hind
-- Dick Varnedon (died June 14, 1982)
-- James Honeyman-Scott (died June 16, 1982)
+- James Honeyman-Scott
 - Martin Chambers
+- Pete Farndon
 
 ## genres
 - Akron Sound
@@ -20,7 +14,6 @@
 - Post-Punk
 - Power Pop
 - Punk
-- Punk (Chrissie Hynde's background)
 
 ## labels
 - Sire Records
@@ -30,23 +23,24 @@
 
 ## instruments
 - Amp Hague
+- Fender amps
 - Fender Strat
 - Fender Telecaster
-- Fender amps
 
 ## albums
-**Learning to Crawl (January 1983)** : Recorded throughout the second half of 1982 after the deaths of two band members, this album was released in January 1983 with low expectations but yielded three of their biggest hits: "Back on the Chain Gang," "Middle of the Road," and "My City Was Gone." "They regrouped and were recording what would become learning to crawl throughout the second half of 1982." ← For the Record - The 70s > Ep. 43 - Music and The Kent State Massacre of May 4, 1970 | https://seventies.libsyn.com/ep-43-music-and-the-kent-state-massacre-of-may-4-1970
-**The Pretenders (1980)** : The band's self-titled debut album was a commercial success, featuring popular songs like "Brass in Pocket." "The band's self titled debut album was a success and way back in episode seven of this very podcast, I talked about brass and pocket from that album." ← For the Record - The 70s > Ep. 43 - Music and The Kent State Massacre of May 4, 1970 | https://seventies.libsyn.com/ep-43-music-and-the-kent-state-massacre-of-may-4-1970
+**Learning to Crawl (1984)** : Recorded throughout the second half of 1982 after the deaths of two band members, this album was released in January 1983 with low expectations but yielded three of their biggest hits: "Back on the Chain Gang," "Middle of the Road," and "My City Was Gone." "They regrouped and were recording what would become learning to crawl throughout the second half of 1982." ← For the Record - The 70s > Ep. 43 - Music and The Kent State Massacre of May 4, 1970 | https://seventies.libsyn.com/ep-43-music-and-the-kent-state-massacre-of-may-4-1970
+**Pretenders (1980)** : The band's self-titled debut album was a commercial success, featuring popular songs like "Brass in Pocket." "The band's self titled debut album was a success and way back in episode seven of this very podcast, I talked about brass and pocket from that album." ← For the Record - The 70s > Ep. 43 - Music and The Kent State Massacre of May 4, 1970 | https://seventies.libsyn.com/ep-43-music-and-the-kent-state-massacre-of-may-4-1970
 
 ## songs
 **Back on the Chain Gang (1982)** : One of three major hits from the album "Learning to Crawl," released after the band regrouped following the deaths of Dick Varnedon and James Honeyman-Scott. "In January 1983 and with a very few expectations, they released the record, which has three of their biggest hits back on the chain gang, middle of the road, and an interesting observation about what had become of Akron in the 1970s called My City Was Gone." ← For the Record - The 70s > Ep. 43 - Music and The Kent State Massacre of May 4, 1970 | https://seventies.libsyn.com/ep-43-music-and-the-kent-state-massacre-of-may-4-1970
 **Brass in Pocket (1979)** : Released as a single in the UK in November 1979, marking the end of the 1970s. Chrissie Hynde intended it as a traditional rock song, aiming for a confident and "cocky" sound, rather than a feminist anthem. Lyrically, it is about sex but from a position of control, avoiding anger or romantic subservience. "The pretenders released this single in the UK. The end of the 1970s was a band made up of teenage girls and that band was formed in the 1990s and just as the 70s were coming to an end in the 1990s." ← For the Record - The 70s > Ep. 7 - Women Who Rocked the 70s | http://www.ftr70.com ← the-pretenders
-**Brass in Pocket (1980)** : This song was a notable hit from The Pretenders' successful self-titled debut album. "I talked about brass and pocket from that album." ← For the Record - The 70s > Ep. 43 - Music and The Kent State Massacre of May 4, 1970 | https://seventies.libsyn.com/ep-43-music-and-the-kent-state-massacre-of-may-4-1970
-**King's Stop Your Sovide (1978) – Cover Song** : An early song recorded by The Pretenders in 1978 was a cover titled "King's Stop Your Sovide," demonstrating their blend of punk energy with songwriting gifts. "One of their earliest songs was the one we just heard, a cover of the King's Stop Your Sovide." ← https://www.youtube.com/watch?v=bYsV3ozbk4M ← the-pretenders
+**Brass in Pocket (1979)** : This song was a notable hit from The Pretenders' successful self-titled debut album. "I talked about brass and pocket from that album." ← For the Record - The 70s > Ep. 43 - Music and The Kent State Massacre of May 4, 1970 | https://seventies.libsyn.com/ep-43-music-and-the-kent-state-massacre-of-may-4-1970
 **Middle of the Road (1983)** : This track was another of the three biggest hits featured on The Pretenders' "Learning to Crawl" album, released in early 1983. "In January 1983 and with a very few expectations, they released the record, which has three of their biggest hits back on the chain gang, middle of the road, and an interesting observation about what had become of Akron in the 1970s called My City Was Gone." ← For the Record - The 70s > Ep. 43 - Music and The Kent State Massacre of May 4, 1970 | https://seventies.libsyn.com/ep-43-music-and-the-kent-state-massacre-of-may-4-1970
 **My City Was Gone (1983)** : This song from "Learning to Crawl" offers an observation about the decline of Akron, Ohio, in the 1970s, a period when the city's dominant rubber industry (Goodrich, Goodyear, Firestone) suffered due to reduced demand for two sets of tires, foreign competition, and the 1973 OPEC oil crisis, leading to job losses and urban decay. Chrissie Hynde's lyrics mourn the loss of familiar places: "I went back to Ohio, but My City was gone. There was no train station, there was no downtown. South Howard had disappeared. All my favorite places, My City had been pulled down, reduced to parking spaces." "She wrote, I went back to Ohio, but My City was gone." ← For the Record - The 70s > Ep. 43 - Music and The Kent State Massacre of May 4, 1970 | https://seventies.libsyn.com/ep-43-music-and-the-kent-state-massacre-of-may-4-1970
+**Stop Your Sobbing (1978)** : An early song recorded by The Pretenders in 1978 was a cover titled "King's Stop Your Sovide," demonstrating their blend of punk energy with songwriting gifts. "One of their earliest songs was the one we just heard, a cover of the King's Stop Your Sovide." ← https://www.youtube.com/watch?v=bYsV3ozbk4M ← the-pretenders
 
 ## curiosities
+**Presence at Ramones Gigs (1976)** : Chrissy Hind, who would later form The Pretenders, was present at the Ramones' transformative London gigs in July 1976. At this time, her future band was "still unformed," but the experience contributed to her musical development. "Chrissy Hind of the still unformed pretenders" ← https://www.youtube.com/watch?v=qC0Ee4-dpnI ← pretenders
 **Akron Origin** : The Pretenders are mentioned in connection with Akron, Ohio, as the original home of Chrissy Hine, which is also the home of The Black Keys and a source of regional influence for Karen O. of The Ye-Eyes. "And just an hour away was Akron, the original home of Christy Hine and the pretenders, and the home of the Black Keys." ← https://www.youtube.com/watch?v=UpWz3X33vSY ← the-pretenders
 **Band Formation Year** : The Pretenders finally solidified in 1978 after several earlier attempts by Chrissie Hynde to establish a band. "There were several before the pretenders finally took hold of 1978." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← the-pretenders
 **Bridge Between Punk and New Wave** : The Pretenders were considered a crucial bridge, linking the raw energy of old-school punk with the evolving sounds of the New Wave era. "The pretenders were a crucial bridge between old school punk and the era of New Wave." ← https://www.youtube.com/watch?v=bYsV3ozbk4M ← the-pretenders
@@ -85,8 +79,7 @@
 **Sire Records Success** : The Pretenders was one of the groups having success with Sire Records in the late 1970s. "A label which was having success with groups like The Ramones, Talking Head and The Pretenders." ← Episode 113： ＂Needles and Pins＂ by The Searchers | https://www.youtube.com/watch?v=izC9ZBI0UHM
 **Times Square Soundtrack Contribution (1980)** : The Pretenders were among the artists featured on the soundtrack for the 1980 movie *Time Square*. This soundtrack was notable for being one of the very first to showcase the nascent alternative music of the era, introducing a wider audience to punk and new wave. "The soundtrack featured the pretenders, Roxy music, Gary Newman, XTC, Joe Jackson." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← the-pretenders
 **Tragic Deaths of Band Members (1982)** : Within two years of the band's 1980 debut, two of The Pretenders' four members died. Dick Varnedon was fired due to drug abuse and subsequently died from it on June 14, 1982. Just two days later, James Honeyman-Scott died from heart failure, also brought on by drug abuse, a stark example of the "rock and roll lifestyle's" complications. "Dick Varnedon who was fired because of his drug abuse and died from the same on June 14, 1982. Two days later, James Honeyman Scott died from heart failure brought on by drug abuse." ← For the Record - The 70s > Ep. 43 - Music and The Kent State Massacre of May 4, 1970 | https://seventies.libsyn.com/ep-43-music-and-the-kent-state-massacre-of-may-4-1970
-
-
+**Early MTV Presence** : On the first day of MTV's launch, The Pretenders were among the UK-based acts whose multiple clips were played, benefiting from the British heritage of shooting more music videos. "On day one, MTV played multiple clips by such UK-based acts as The Pretenders." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
 
 ## awards
 **Grammy Award for Best New Artist (1981)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643

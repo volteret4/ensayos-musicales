@@ -8,12 +8,12 @@
 **Trinidadian and Tobagonian Origins** : Calypso originated in Trinidad and Tobago and was a twist on a type of French music that slaves co-opted while working on sugar cane plantations. This indigenous Caribbean music mixed with foreign sounds to influence the creation of Ska. "And there was Calypso, which originated in Trinidad and Tobago, and was a twist on a type of French music that slaves co-opted while working on the sugar cane plantations." ← https://www.youtube.com/watch?v=WX2GlpMNg_8 ← calypso ← calypso
 
 ## artists
-- Count Owen and his Calypsoanians
-- Count Washa and his Calypsoanians
+- Count Owen and his Calypsonians
 - Joe Strummer
 - Lord Levy and the Jamaica Calypsoanians
 - Lord Melody
 - Roaring Lion
 - The Clash
 - The Mighty Sparrow
-
+- Blondie
+- Sting

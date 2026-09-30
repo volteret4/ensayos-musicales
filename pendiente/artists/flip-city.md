@@ -1,7 +1,7 @@
 # artist - Flip City
 
 ## members
-- Elvis Costello (vocals)
+- Elvis Costello
 
 ## genres
 - Pub Rock
@@ -11,4 +11,3 @@
 
 ## curiosities
 **Elvis Costello's Early Band** : Elvis Costello briefly recorded with this short-lived pub rock band while making his way through the greater London pub rock scene. "Costello briefly recorded with the short-lived pub rock band Flip City." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
-

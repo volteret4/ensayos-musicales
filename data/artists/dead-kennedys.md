@@ -2,23 +2,18 @@
 
 ## members
 - D.H. Peligro
-- D.H. Pellegrot (former)
 - East Bay Ray
-- East Bay Ray (guitarist)
 - Jello Biafra
-- Jello Biafra (singer)
 
 ## genres
 - American Hardcore punk
 - California Hardcore
 - Hardcore
 - Hardcore Punk
-- Hardcore punk
 - Indie Hardcore Punk
 - Punk
 - Punk Rock
-- Surf rock (influence)
-- punk
+- Surf rock
 
 ## labels
 - Alternative Tentacles
@@ -26,7 +21,7 @@
 ## albums
 **Fresh Fruit for Rotting Vegetables (1980)** : This album features the song "California Über Alles" and was released in 1980, with D.H. Peligro playing drums. "Here's Pellegros playing with the Dead Kennedys on the 1980 album Fresh Fruit for Rodding Vegetables." ← https://www.youtube.com/watch?v=sdPeii-8Ysw ← dead-kennedys
 **In God We Trust Inc. (1981)** : This EP, released in 1981, uniquely featured all its music on side one of the cassette. Side two was intentionally left blank with the instructions: "Home Taping Is Killing Record Industry Profits. We left this side blank so you can help." This was a satirical jab at the music industry's anti-taping campaign. `"In 1981, the dead candidates released an EP called In God We Trust Inc. All the music was on side one of the cassette, and the other side was left blank with the instructions, Home Tapping Is Killing Record Industry Profits. We left this side blank so you can help."` ← https://www.youtube.com/watch?v=OuFvfZJKcpc ← dead-kennedys
-**In God We Trust, Inc. (EP) (1981)** : This EP by the punk band The Dead Kennedys was released in a cassette version. The band notably left the entire B-side of the cassette blank, using it as a statement against home taping and its impact on record industry profits. "when the punk band, the Dead Kennedys released the cassette version of their In God we trust Inc. EP. They left the B side blank with this note." ← https://www.youtube.com/watch?v=QBCEmZ4Jheo ← dead-kennedys
+**In God We Trust Inc. (1981)** : This EP by the punk band The Dead Kennedys was released in a cassette version. The band notably left the entire B-side of the cassette blank, using it as a statement against home taping and its impact on record industry profits. "when the punk band, the Dead Kennedys released the cassette version of their In God we trust Inc. EP. They left the B side blank with this note." ← https://www.youtube.com/watch?v=QBCEmZ4Jheo ← dead-kennedys
 
 ## songs
 **California Über Alles (1979)** : This song was the Dead Kennedys' first single, released in June 1979. It exemplified their politically charged approach, which made them the most political of the early hardcore bands. "The first single was this from June 1979. It's called California Uber Alas." ← https://www.youtube.com/watch?v=0qigzi1j81U ← dead-kennedys
@@ -46,7 +41,7 @@
 **Formation and Political Stance** : The Dead Kennedys' roots trace back to around 1979, and they quickly established themselves as the most political of all the early hardcore bands. "Their roots go back to about 1979, and they ended up being the most political of all the early hardcore bands." ← https://www.youtube.com/watch?v=0qigzi1j81U ← dead-kennedys
 **Formation of Alternative Tentacles Records** : Rather than compromise on their name or artistic vision, the Dead Kennedys decided to form their own record label, Alternative Tentacles. This label became a major influence in the Bay Area music scene and is credited with paving the way for bands like Rancid and Green Day. "So, instead of compromising the decays formed their own record label, which they called alternative tentacles." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← dead-kennedys ← dead-kennedys
 **Foundational American Hardcore Band** : The Dead Kennedys were one of the foundational bands in the American Hardcore punk scene. "The Dead Kennedys, one of the foundational bands on the American Hardcore scene." ← https://www.youtube.com/watch?v=sdPeii-8Ysw ← dead-kennedys
-**Founding Alternative Tentacles** : The Dead Kennedys formed Alternative Tentacles, a California label, initially just to release one of their singles. They enjoyed the experience so much they decided to turn it into a full-time business, following the model of Black Flag with SST and Bad Religion with Epitaph. The label also played a key role in exporting American hardcore by developing relationships with other indie labels worldwide. "At first, they just wanted to get one of their singles out there, but they enjoyed the experience so much that they decided to turn Alternative Tentacles into a full-time business..." ← https://www.youtube.com/watch?v=VOv5mT1dJd8 ← dead-kennedys
+**Alternative Tentacles Founding** : The Dead Kennedys formed Alternative Tentacles, a California label, initially just to release one of their singles. They enjoyed the experience so much they decided to turn it into a full-time business, following the model of Black Flag with SST and Bad Religion with Epitaph. The label also played a key role in exporting American hardcore by developing relationships with other indie labels worldwide. "At first, they just wanted to get one of their singles out there, but they enjoyed the experience so much that they decided to turn Alternative Tentacles into a full-time business..." ← https://www.youtube.com/watch?v=VOv5mT1dJd8 ← dead-kennedys
 **Frequent Vancouver Performances** : Matthew Good recalled that the Dead Kennedys frequently played in Vancouver during his childhood in the 1980s. Their regular appearances highlight the city's once vibrant and influential music scene, which he believes has since lost its "edge." "I can't count how many times a day Kennedy's came to town when I was a kid, you know." ← https://www.youtube.com/watch?v=--g0gugy3ZE ← dead-kennedys ← dead-kennedys
 **Influence on Grunge Bands** : The Dead Kennedys were noted as an influence on grunge artists, indicating the continued relevance of hardcore punk to the evolving alternative rock sound of the 90s. "Yeah, we were into the clash and black flag and the replacements in the Dead Kennedys 2." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← dead-kennedys ← dead-kennedys
 **Influence on Pacific Northwest Rock** : This band was identified as a source of hardcore punk from California that influenced the developing rock scene in the Pacific Northwest, which later birthed grunge. "bands like the dead Kennedys and black flag and bad religion." ← https://www.youtube.com/watch?v=tFBSrKMEZxI ← dead-kennedys
@@ -58,8 +53,9 @@
 **Reunion in 2001** : The Dead Kennedys had a reunion in 2001 that continued for several years. "There was also a Dead Kennedys reunion in 2001 that stuck for years." ← https://www.youtube.com/watch?v=sdPeii-8Ysw ← dead-kennedys
 **Sex Pistols Aesthetic Influence** : The Dead Kennedys emerged in the United States shortly after the Sex Pistols gained prominence, and their aesthetic was "deeply inspired" by the look established by the British band. "Poco después vendrán los dead Kennedy. Inspiradísimos en la estética de los 6 pistos." ← Music Radar Clan > El PUNK como movimiento estético | https://www.youtube.com/watch?v=m6wiAVLkXa0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← dead-kennedys ← dead-kennedys
 **Used "Thatchergate" Samples** : The Dead Kennedys incorporated samples from Crass's infamous "Thatchergate" tape into their own musical tracks. This act connected them to a significant political hoax that fooled major intelligence agencies. "samples from this tape were used in tracks by both Crasse and the dead Kennedys." ← https://www.youtube.com/watch?v=0ARYt4sYT90 ← dead-kennedys
-
-
+**Controversial Gig Posters and Bans** : The British band The Dead Diana's created gig posters that featured images from the car accident that resulted in Princess Diana's death. This controversial choice led to the band being frequently banned from performing. "There was once a British band called the Dead Diana's. Their gig posters featured shots of the car accident that killed Princess Diana. They were banned a lot." ← https://www.youtube.com/watch?v=aSk1XQHNkd8 ← the-dead-dianas
+**First Wave San Francisco Punk** : The Dead Kennedys were among the first wave of punk bands to emerge from San Francisco, contributing to its eclectic and politically charged scene. "First wave punk bands from San Francisco include the Avengers, the Nuns, and the Dead Kennedys." ← https://www.youtube.com/watch?v=YaYaFW2q6qI ← the-dead-kennedys
+**Highly Political Bay Area Punk** : This Bay Area punk band was noted for being "highly political." They were instrumental in laying the groundwork for what would later be known as Hardcore music. "The highly political Dead Kennedys, a Bay Area punk band that helps at the table for what would later be called Hardcore." ← https://www.youtube.com/watch?v=YaYaFW2q6qI ← the-dead-kennedys
 
 ## lists
 **"Fresh Fruit for Rotting Vegetables" (1980) — 1001 Albums You Must Hear Before You Die** : #456, 88 AOTY.

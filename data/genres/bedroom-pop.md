@@ -18,5 +18,4 @@
 - Girl in Red
 - Rex Orange County
 - Soccer Mommy
-- Sockermummy
 

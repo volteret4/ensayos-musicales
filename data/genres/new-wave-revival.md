@@ -20,10 +20,7 @@
 - The Bravery
 - The Cars
 - The Foals
-- The Kaiser Chiefs
 - The Killers
-- The Rapture
 - The Ting Tings
-- The Transferred Man
-- The Yeah Yeah Yeahs
+- Yeah Yeah Yeahs
 

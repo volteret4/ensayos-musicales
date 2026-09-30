@@ -4,7 +4,9 @@
 - Pop
 
 ## songs
+**SOS (2006)** : Rihanna's first of many Hot 100 number one hits, a "thumping club track" from 2006. This song was a remix and "re-interpolation" of Soft Cell's cover of Gloria Jones's "Tainted Love," metaphorically described as "musical Russian nesting dolls" due to its layered origins. "Rihanna scored her first of many Hot 100 number one hits with SOS, a thumping club track that remixed soft cells aforementioned cover of Gloria Jones's Tainted Love." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
 **Umbrella (2007)** : This song, featuring Jay-Z, was the winner of the 2007 Billboard Song of the Summer. Many critics cite it as the "pivot point" for the Song of the Summer concept, a "sweltering jam that popularized the notion that one hot weather hit could clear the field." Ironically, the song's theme is not about sunshine but "rain gear." "2007's song of the summer, umbrella from Rihanna featuring J. Z." ← Hit Parade Music History and Music Trivia > Song(s) of the Summer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef50c30a1408dc292e4
+**Umbrella (2007)** : Featuring Jay-Z, this song was defeated by Beyoncé's "Irreplaceable" for the 2007 year-end title. "Rihanna's umbrella featuring Bee's husband Jay Z." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce81
 
 ## curiosities
 **Cigarette Butt on eBay** : A cigarette butt allegedly left behind by Rihanna was recovered and put up for sale on eBay with the caption, "Her Lips Touched It." The initial asking price for the item was $500. "Initial asking price? $500." ← https://www.youtube.com/watch?v=72Lei7uug8c ← rihanna
@@ -15,8 +17,7 @@
 **Grammy Nominations (2011) - Recognition** : Rihanna received a bunch of nominations at the 53rd annual Grammy Awards. "Rihanna had a bunch of nominations" ← https://www.youtube.com/watch?v=Q_c-m_NDznw ← rihanna ← rihanna
 **Income Plummet Due to Inactivity (2016)** : Rihanna, an artist who typically ranked very high on income lists, saw her earnings plummet in 2016. This decline was directly linked to her decision not to release new material and not to tour during the year. "no sacar material y no girar, ha hecho que sus ingresos literalmente se desplomen." ← Music Radar Clan > Los artistas que más dinero han ganado este año y por qué. | https://www.youtube.com/watch?v=jjsb0qCeXNI&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Pop Dominance in 2010s** : Rihanna was a significant artist during the period of pop music dominance that overshadowed rock by 2011-2012, as the genre gained increasing strength alongside hip hop and EDM. "And you can make the argument that it certainly did swamp by not only a rise in pop music, you know, Maroon 5, Justin Bieber, Rihanna, Pink Kitty Perry, Carly Recepcion, Adele, but also by the increasing strength of hip hop and the big beats and bass lines of EDM." ← https://www.youtube.com/watch?v=5Y6nHw5xx88 ← rihanna
-
-
+**Musical Russian Nesting Dolls (2006)** : Rihanna's 2006 number one hit "SOS" is described as "like musical Russian nesting dollars" because it was a remix of Soft Cell's cover, which itself was a cover of Gloria Jones's "Tainted Love," illustrating multiple layers of musical reinterpretation. "Rihanna's version of Soft Cells version of Gloria Jones was like musical Russian nesting dollars." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
 
 ## awards
 **Grammy Award for Best Melodic Rap Performance (2008) — Umbrella** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1542172

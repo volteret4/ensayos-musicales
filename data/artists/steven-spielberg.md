@@ -3,8 +3,6 @@
 ## curiosities
 **Interest in Jamie Hewlett's Work** : Before the 1995 "Tank Girl" movie, Steven Spielberg was interested in working with Jamie Hewlett, indicating Hewlett's early prominence as a comic book artist. "But actually before that happened, Steven Spielberg was interested in working with Jamie." ← https://www.youtube.com/watch?v=iVdTCqpd798 ← steven-spielberg
 
-
-
 ## awards
 **Academy Award for Best Picture — Hamnet** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q102427
 **Distinguished Eagle Scout Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5282987
@@ -99,7 +97,3 @@
 **Academy Award for Best Picture (2023) — The Fabelmans** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q102427
 **Golden Globe Award for Best Director (2023) — The Fabelmans** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q586356
 **Academy Award for Best Picture (2024) — Maestro** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q102427
-
-## charts
-**"Let Me Blow Ya Mind" — Billboard Year-End Hot 100** : #7, 2001. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Gangsta Lovin'" — Billboard Year-End Hot 100** : #19, 2002. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

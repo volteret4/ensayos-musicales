@@ -1,10 +1,11 @@
 # artist - Dizzy Gillespie
 
+## member of
+- Lucky Millinder
+
 ## genres
 - Bebop
 - Jazz
-- bebop
-- jazz
 
 ## instruments
 - Trumpet
@@ -20,8 +21,6 @@
 **Sacked by Lucky Millinder** : Dizzy Gillespie was quickly fired by Lucky Millinder, who was known for dismissing musicians before they reached their full potential. "Gillespie was quickly sacked by Melinda, who had a habit of getting rid of musicians before they reached their full potential." ← Episode 50： ＂Honky Tonk＂, by Bill Doggett | https://www.youtube.com/watch?v=H2rYnKmeZF0
 **Stabbing Incident with Cab Calloway** : Dizzy Gillespie was hired by Lucky Millinder as a trumpet player for his first hit, an opportunity that arose after Gillespie had been dismissed from Cab Calloway's band for stabbing Calloway in the leg. "the trumpet player on his first hit was Dizzy Gillespie, who Melinda had hired after Gillespie had been sacked from CapCalloway's band after stabbing Calloway in the leg." ← Episode 7： ＂Good Rockin' Tonight＂ by Wynonie Harris | https://www.youtube.com/watch?v=IgqSPoYRUCM
 
-
-
 ## awards
 **NEA Jazz Masters** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q488296
 **Paul Acket Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q865039
@@ -31,6 +30,3 @@
 **Grammy Lifetime Achievement Award (1989)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q935843
 **National Medal of Arts (1989)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1789030
 **New Jersey Hall of Fame (2014)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q14705795
-
-## lists
-**"Reverse Earth" (2025) — Bandcamp: The Best Albums of 2025** : #19. ← musicbrainz | https://beta.musicbrainz.org/series/e71890ee-e707-4eae-af8f-b60074d08730

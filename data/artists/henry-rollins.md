@@ -12,8 +12,6 @@
 **Jellyfish Species** : A jellyfish species, *And Phenema Rollins-I*, was named after Henry Rollins by Chad Widmer of the Monterey Bay Aquarium, who is a significant fan of Rollins. "Henry Rollins thinks of the fact that he has a jellyfish named after him. And Phenema Rollins-I speak to Chad Widmer of Monterey Bay Aquarium. He's the guy who did it. He's a big Rollins fan." ← https://www.youtube.com/watch?v=VMPLplhDk8I ← henry-rollins
 **Roadie for Minor Threat, then Joined Black Flag** : Henry Rollins began his music career by "humping gear" as a roadie for the band Minor Threat. His experience eventually led him to become a member of the influential punk band Black Flag. "Henry Rollins humped gear for the band Minor Threat before he ended up in Black Flag." ← https://www.youtube.com/watch?v=ZVGnSVfed9s ← henry-rollins ← henry-rollins
 
-
-
 ## lists
 **"Hot Animal Machine" (1987) — Scaruffi 1980s** : #60, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
 **"Life Time" (1988) — Scaruffi 1980s** : #158, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

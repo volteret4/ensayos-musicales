@@ -1,10 +1,12 @@
 # artist - Shawn Mendes
 
+## labels
+- Hypnosis Song Fund
+
 ## curiosities
+**Biggest Songs in Hypnosis Catalog** : Sean Mendes' biggest songs are included in the Hypnosis Song Fund's diverse catalog, alongside works by "great Canadians of old" like Neil Young and Leonard Cohen. "At the same time, we have Sean Mendez's biggest songs. We had Justin Bieber's biggest songs before we bought Justin's share of the catalog." ← https://www.youtube.com/watch?v=Pe40SqDrpZ0 ← sean-mendes
 **Social Media Origin** : Shawn Mendes is cited as an artist who rose to prominence and built his career through the use of social media platforms. "Shawn Mendes." ← https://www.youtube.com/watch?v=nX8uAFDzDYM ← shawn-mendes
 **YouTube Discovery** : Shawn Mendes was initially found on YouTube, showcasing the digital evolution of talent discovery by A&R personnel. "Shawn Mendes... they were all first found on YouTube." ← https://www.youtube.com/watch?v=5kPmqmbFfkY ← shawn-mendes ← shawn-mendes
-
-
 
 ## awards
 **Canada's Walk of Fame (2015)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q857933

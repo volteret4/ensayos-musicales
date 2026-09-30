@@ -18,7 +18,7 @@
 **Saga's Affiliation** : Saga is explicitly identified as a "Prog Rock Group." This categorization highlights their musical style within the rock genre. "with saga, the Prague Rock Group." ← Ongoing History of New Music > Lost CanRock Bands of the '90s： Part 1 | https://www.youtube.com/watch?v=22SSwvfRMVg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- Emerson Lake & Palmer
+- Emerson, Lake & Palmer
 - Foo Fighters
 - Kate Bush
 - Led Zeppelin

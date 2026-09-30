@@ -1,11 +1,14 @@
 # artist - Lionel Bart
 
+## member of
+- The Cavemen
+
 ## genres
 - Composer
 - Playwright
 
 ## albums
-**The Tommy Steele's Story (Film Soundtrack)** : Bart co-wrote all 12 songs for this film, based on Tommy Steele's life, with Steele and Mike Pratt in one week. "for which he, Bart and Pratt wrote all 12 of the songs in a week to meet the deadline." ← Episode 48： ＂Rock With the Caveman＂ by Tommy Steele | https://www.youtube.com/watch?v=scDLm48u2yc
+**The Tommy Steele's Story** : Bart co-wrote all 12 songs for this film, based on Tommy Steele's life, with Steele and Mike Pratt in one week. "for which he, Bart and Pratt wrote all 12 of the songs in a week to meet the deadline." ← Episode 48： ＂Rock With the Caveman＂ by Tommy Steele | https://www.youtube.com/watch?v=scDLm48u2yc
 
 ## songs
 **Rock with the Cave Man (1956)** : Bart co-wrote this song with Thomas Hicks and Mike Pratt. "sang a song that he, Bart and Pratt had written called Rock with the Cave Man." ← Episode 48： ＂Rock With the Caveman＂ by Tommy Steele | https://www.youtube.com/watch?v=scDLm48u2yc
@@ -16,4 +19,3 @@
 **Brief Member of The Cavemen** : Bart briefly performed with Thomas Hicks and Mike Pratt as The Cavemen, playing washboard, but soon tired of performing and focused on songwriting. "They also performed as the Cavemen, their Bart soon tired of playing Washboard and stuck to writing." ← Episode 48： ＂Rock With the Caveman＂ by Tommy Steele | https://www.youtube.com/watch?v=scDLm48u2yc
 **Communist Party Member** : Lionel Bart was a card-carrying member of the Communist Party. "Bart, a card-carrying member of the Communist party, spent most of his time." ← Episode 48： ＂Rock With the Caveman＂ by Tommy Steele | https://www.youtube.com/watch?v=scDLm48u2yc
 **Early Songwriting Collaboration** : Bart collaborated with Thomas Hicks and Mike Pratt on songs, with Hicks providing basic ideas, Bart writing lyrics, and Pratt composing the music. "Hicks, Bart and Pratt started collaborating on songs together." ← Episode 48： ＂Rock With the Caveman＂ by Tommy Steele | https://www.youtube.com/watch?v=scDLm48u2yc
-

@@ -2,4 +2,3 @@
 
 ## member of
 - The Apples in Stereo
-

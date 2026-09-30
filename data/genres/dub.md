@@ -17,9 +17,8 @@
 - Don Letts
 - Gorillaz
 - Joe Strummer
-- Public Image Limited
 - Public Image Ltd
 - The Clash
 - The Police
 - The Specials
-
+- Elvis Costello

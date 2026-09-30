@@ -17,8 +17,6 @@
 **Mark Hollis's Death in 2019** : Mark Hollis of Talk Talk was one of the musicians who died in 2019. "Mark Hollis of Talk Talk." ← https://www.youtube.com/watch?v=sdPeii-8Ysw ← talk-talk
 **Recommended Post-Rock Band** : The band is explicitly listed as a recommendation for those wanting to explore post-rock further. "If you want to go deeper, look into bands like Talk Talk, Slint, Barxide Coses, Tortoise, Magwai, Stereolab, Godspeed you, Black Amper, we always keep coming back to them." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← talk-talk
 
-
-
 ## lists
 **"The Colour of Spring" (1986) — 1001 Albums You Must Hear Before You Die** : #570, 63 AOTY.
 **"Spirit Of Eden" (1988) — AOTY Must Hear 1980s** : #29, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/

@@ -11,7 +11,7 @@
 
 ## artists
 - Alice in Chains
-- Billy Holiday
+- Billie Holiday
 - Depeche Mode
 - Johnny Cash
 

@@ -7,7 +7,6 @@
 
 ## genres
 - Alt-Rock
-- Alt-rock
 - Dreampop
 
 ## labels
@@ -24,8 +23,6 @@
 **Formation at Bristol University** : The English alt-rock band The Sundays formed after singer Harriet Wheeler and guitarist David Gavurin met while attending Bristol University in the late 1980s. They began dating, formed a band, and secured a deal with Rough Trade Records. "They met when singer Harriet Wheeler met guitarist David Gavarin while they were attending Bristol University in the middle ladies. They started dating, then a band was assembled, and they got a deal with rough trade records." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← the-sundays ← the-sundays
 **Hiatus and Disappearance (1997)** : After releasing several records with significant gaps between them, The Sundays ceased activity in 1997. Harriet Wheeler and David Gavurin disappeared from the public eye. Fans were intensely curious, with one instance of Harriet being spotted at a supermarket causing a stir. "And then in 1997, they just stopped. Harriet and David disappeared. Fans grasped at any clues. There was a minor revelation when Harriet was spotted at a supermarket." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← the-sundays ← the-sundays
 **Paul Brindley's Music Industry Involvement** : Bass player Paul Brindley is the most visible member of The Sundays since their hiatus. He operates a music industry website called Music Alley. "The most visual member of the Sundays is bass player Paul Brindley. He runs a music industry website called Music Alley, which I use every day, and is very, very good." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← the-sundays ← the-sundays
-
-
 
 ## lists
 **"Static & Silence" (1997) — AOTY Must Hear 1990s** : #114, 67 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/

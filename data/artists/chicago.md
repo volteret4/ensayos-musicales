@@ -8,28 +8,33 @@
 ## genres
 - Easy Listening
 - Experimental
+- Pop
+- Pop Rock
+- Power Ballad
 - Rock
+- Schlock Ballad
 - Soft Pop
 
 ## concerts
 - Carnegie Hall (1971)
 
 ## albums
+**Chicago 17 (1984)** : This album became the "most hit-packed LP ever" for Chicago, a band that had been recording since the late 1960s. Released when all its members were between 35 and 40, "Chicago 17" went multi-platinum, with four of its hits cracking the top 20 and two, including "Hard Habit to Break," reaching the top five. "They've been recording since the late 60s. In 1984, as Chicago's members were all between 35 and 40, the horn-inflicted troupe went multi-platinum with Chicago 17, their most hit-packed LP ever." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
 **Chicago 5 (1972)** : This album, released in 1972, features the song "Dialogue," which presents a conversational exchange between Peter Cetera and Terry Kath. "The song Dialogue from Chicago 5 in 1972 features a dialogue between Peter Satera and Terry Caff with Satera as this kind of apathetic college student in Caff as an activist." ← For the Record - The 70s > Ep. 38 - The Influence of Jazz on 70s Popular Music | https://seventies.libsyn.com/ep-38-the-influence-of-jazz-on-70s-popular-music ← chicago
 
 ## songs
-**25 or 6 to 4** : This song is characterized by its somewhat cryptic lyrics, showcasing Chicago's willingness to create less straightforward lyrical content. "Some of Chicago's lyrics were a little cryptic like in 25 or 64, but they could also record songs which were much more straightforward, lyrically, that still felt jazz inspired." ← For the Record - The 70s > Ep. 38 - The Influence of Jazz on 70s Popular Music | https://seventies.libsyn.com/ep-38-the-influence-of-jazz-on-70s-popular-music ← chicago
+**25 or 6 to 4 (1970)** : This song is characterized by its somewhat cryptic lyrics, showcasing Chicago's willingness to create less straightforward lyrical content. "Some of Chicago's lyrics were a little cryptic like in 25 or 64, but they could also record songs which were much more straightforward, lyrically, that still felt jazz inspired." ← For the Record - The 70s > Ep. 38 - The Influence of Jazz on 70s Popular Music | https://seventies.libsyn.com/ep-38-the-influence-of-jazz-on-70s-popular-music ← chicago
 **25 or 6 to 4 (1970)** : A 1970 song that shares a guitar riff with Green Day's "Brain Stew" (1995) and Led Zeppelin's "Babe I'm Gonna Leave You" (1967), serving as an example of common musical patterns in non-copyrightable guitar riffs. "here's Chicago and 25 or 64 from 1970." ← https://www.youtube.com/watch?v=4cZfegexwwk ← chicago
 **A Song for Richard and His Friends (1971)** : Performed at Carnegie Hall in 1971, this song was a direct political plea for Richard Nixon to "just go away," three years before his eventual resignation from office. "When they played Carnegie Hall in 1971, they played a song for Richard and his friends. Yes, that Richard. It was a plea for Richard Nixon to just go away, which he in fact did three years later." ← For the Record - The 70s > Ep. 38 - The Influence of Jazz on 70s Popular Music | https://seventies.libsyn.com/ep-38-the-influence-of-jazz-on-70s-popular-music ← chicago
 **Dialogue (1972)** : Featured on *Chicago 5*, this song presents a lyrical dialogue between Peter Cetera, portraying an apathetic college student, and Terry Kath, embodying an activist. The exchange touches on themes of optimism, societal worries, and the practical value of a Bachelor of Arts degree. "The song Dialogue from Chicago 5 in 1972 features a dialogue between Peter Satera and Terry Caff with Satera as this kind of apathetic college student in Caff as an activist." ← For the Record - The 70s > Ep. 38 - The Influence of Jazz on 70s Popular Music | https://seventies.libsyn.com/ep-38-the-influence-of-jazz-on-70s-popular-music ← chicago
+**Hard Habit to Break (1984)** : This song became a number three hit, one of two top five hits from Chicago's "Chicago 17" album. The album, released when the band's members were all between 35 and 40, was their most hit-packed LP ever and went multi-platinum. "including the number three hit, Hard Habit to Break." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
 **Hard to Say I'm Sorry (1982)** : This song by Chicago was listed as the number 10 Billboard Top 10 hit for the year 1982. "Year 1982 at number 10 hard to say I'm sorry by a Chicago." ← For the Record - The 70s > Ep. 55 - Heartland Rock is about More than the Heartland | https://www.ftr70.com/
+**Look Away (1989)** : This song was the Billboard year-end number one for 1989, but it actually topped the Hot 100 for two weeks in December 1988. It is described as a generic power ballad, written by veteran songwriter Diane Warren, and notably does not feature Chicago's famed brass section. It overtook more substantial hits in 1989. "It doesn't even feature Chicago's famed brass section." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce81
 **Saturday in the Park (1972)** : This song reached number three on the Billboard Hot 100 in 1972. Robert Lamm sings lead vocals and plays the piano, with his piano style drawing comparisons to Ray Charles's jazzier music, while the lyrics depict a joyous Fourth of July scene with people dancing, laughing, and an ice cream man. "Rotterdam is singing the lead vocals, but it's his piano playing to me. It reminds me a little bit of some of the jazzier music from Ray Charles." ← For the Record - The 70s > Ep. 38 - The Influence of Jazz on 70s Popular Music | https://seventies.libsyn.com/ep-38-the-influence-of-jazz-on-70s-popular-music ← chicago
 
 ## curiosities
 **Distinction from Blood, Sweat & Tears** : Chicago has consistently maintained a clear distinction between their sound and that of Blood, Sweat & Tears, asserting themselves as a "rock band with horns" rather than a jazz-rock band. "Chicago made and still makes, if you go to their website, a very clear distinction between their sound and that of blood, sweat and tears." ← For the Record - The 70s > Ep. 38 - The Influence of Jazz on 70s Popular Music | https://seventies.libsyn.com/ep-38-the-influence-of-jazz-on-70s-popular-music ← chicago
 **Evolution of Sound (70s vs. 80s)** : The 1970s version of Chicago was known for being experimental and politically engaged, in contrast to their 1980s sound, which leaned heavily into easy listening and soft pop with songs like "Hard to Say, I'm Sorry." "The 80s Chicago very heavy on easy listening, soft pop, you know, songs like Hard to Say, I'm Sorry. The 70s version of Chicago was not afraid to be a little political." ← For the Record - The 70s > Ep. 38 - The Influence of Jazz on 70s Popular Music | https://seventies.libsyn.com/ep-38-the-influence-of-jazz-on-70s-popular-music ← chicago
-
-
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

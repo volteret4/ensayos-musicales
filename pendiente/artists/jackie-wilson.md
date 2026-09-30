@@ -1,13 +1,7 @@
 # artist - Jackie Wilson
 
 ## member of
-- Jackie Wilson
-
-## members
-- Jack (nickname)
-- Jackie Wilson
-- Sonny Wilson (early stage name)
-- Sunig (nickname)
+- Billy Ward and His Dominoes
 
 ## genres
 - Pop
@@ -16,27 +10,26 @@
 - Soul
 
 ## labels
-- Brunswick (Decca subsidiary)
+- Brunswick
+- Decca Records
 - DG Records
-- Decca Records (signed by Bob Thiel)
-- King Records (rejected initially, then recorded with Dominoes)
+- King Records
 
 ## concerts
 - Las Vegas residency (with Billy Ward and his Dominoes)
 
 ## albums
-**11 Songs in a Single Day (1953) - Mammoth Session** : Four months after his first recording, Wilson went back into the studio with The Dominoes and cut 11 songs in a single day, a "mammoth session" that showcased his vocal versatility. "4 months later, they went back into the studio to cut 11 songs in a single day." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
-**You Can't Keep a Good Man Down (1953) - First Recording with The Dominoes** : This was Jackie Wilson's first recording as lead singer with Billy Ward and his Dominoes, cut just after his 19th birthday for King Records, the same label that had initially turned him down. "Wilson's first recording with the group as lead singer came just after he turned 19." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
+**You Can't Keep a Good Man Down (1953)** : This was Jackie Wilson's first recording as lead singer with Billy Ward and his Dominoes, cut just after his 19th birthday for King Records, the same label that had initially turned him down. "Wilson's first recording with the group as lead singer came just after he turned 19." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
 
 ## songs
-**Danny Boy (N/A)** : This was Jackie Wilson's favorite song to perform in talent contests and remained in his set list until late in his life, serving as a vehicle for him to display his vocal virtuosity, often ornamenting the melody to the point of being almost unrecognizable. "Wilson's favourite song to sing in talent contests was Danny Boy, which would remain in his set list until late in his life, and he would use that song as a way to show off his vocal virtuosity, ornamenting it to the point that the melody would become almost unrecognizable." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
+**Danny Boy** : This was Jackie Wilson's favorite song to perform in talent contests and remained in his set list until late in his life, serving as a vehicle for him to display his vocal virtuosity, often ornamenting the melody to the point of being almost unrecognizable. "Wilson's favourite song to sing in talent contests was Danny Boy, which would remain in his set list until late in his life, and he would use that song as a way to show off his vocal virtuosity, ornamenting it to the point that the melody would become almost unrecognizable." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
 **Don't Be Cruel (1956)** : As the lead singer for Billy Ward and the Domino's, Jackie Wilson performed Elvis Presley's hit "Don't Be Cruel" in Las Vegas, a performance Elvis observed. Elvis was convinced Wilson did the song better than he did, specifically noting Wilson's "Yankee pronunciation" of "Telephone," which later influenced Elvis's own performance on the Ed Sullivan Show. Wilson later struck out as a solo singer. "The Yankee singer he's talking about there, who he's so convinced did the song better than he did, was Jackie Wilson, who was at the time the lead singer for the Domino's, before striking out as a solo singer." ← Episode 51： ＂Matchbox＂ by Carl Perkins | https://www.youtube.com/watch?v=0Nrjr0AGd3U
 **Higher and Higher (1967)** : Recorded in 1967, this song became Jackie Wilson's biggest hit of his career. "He then had a revival in 1967, when he recorded what would end up being his biggest hit, Higher and Higher." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
-**Lonely Teardrops (N/A)** : This song, originally written as a ballad but reworked into a more danceable track in the studio, became Wilson's biggest early hit, reaching number 1 on the R&B charts, despite Barry Gordy and Billy Davis initially hating the finished record. "They also wrote what became Wilson's biggest early hit, Lonely Teardrops, which went to number 1 on the R&B charts." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
+**Lonely Teardrops** : This song, originally written as a ballad but reworked into a more danceable track in the studio, became Wilson's biggest early hit, reaching number 1 on the R&B charts, despite Barry Gordy and Billy Davis initially hating the finished record. "They also wrote what became Wilson's biggest early hit, Lonely Teardrops, which went to number 1 on the R&B charts." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
 **Ragtime Cowboy Joe (1953)** : The Dominoes' version of this song, which had been a massive hit for Tony Bennett earlier that year, went to number 2 on the R&B chart, though it did not chart on the pop charts. "From that session, their version of Ragster Richards, which had been a massive hit for Tony Bennett earlier in the year, went to number 2 on the R&B chart, though it didn't dent the pop chart." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
-**Reet Petite (N/A)** : This song, originally conceived by Billy Davis at 16 and inspired by Louis Jordan's "Reet Petite and Gone," was reworked by Davis and the Gordys to become Wilson's first solo single, reaching number 62 on the US pop charts, number 6 in the UK, and number 1 for four weeks upon its reissue in 1986. "Reep petite was the start of a run of songs that Davis and the Gordys wrote for Wilson, most of them big hits, and several of them classics." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
-**St. Therese of the Roses (N/A)** : This song became Jackie Wilson's first hit on the pop charts as a lead singer, reaching number 13 on the pop charts and number 27 on the Hot 100, but it was banned by the BBC in the UK for being contrary to Roman Catholic doctrine and Protestant sentiment. "For the first time, Jackie Wilson hit the pop charts as a lead singer, when St. Teresa of the Roses made number 13 on the pop charts and number 27 on the Hot 100." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
-**To Be Loved (N/A)** : This gorgeous ballad, written by Barry Gordy and Billy Davis after Gordy's divorce, became Wilson's second solo hit, reaching number 7 on the R&B charts and number 22 on the pop charts. "The result was a gorgeous ballad that went to number 7 on the R&B charts and number 22 on the pop charts." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
+**Reet Petite** : This song, originally conceived by Billy Davis at 16 and inspired by Louis Jordan's "Reet Petite and Gone," was reworked by Davis and the Gordys to become Wilson's first solo single, reaching number 62 on the US pop charts, number 6 in the UK, and number 1 for four weeks upon its reissue in 1986. "Reep petite was the start of a run of songs that Davis and the Gordys wrote for Wilson, most of them big hits, and several of them classics." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
+**St. Therese of the Roses** : This song became Jackie Wilson's first hit on the pop charts as a lead singer, reaching number 13 on the pop charts and number 27 on the Hot 100, but it was banned by the BBC in the UK for being contrary to Roman Catholic doctrine and Protestant sentiment. "For the first time, Jackie Wilson hit the pop charts as a lead singer, when St. Teresa of the Roses made number 13 on the pop charts and number 27 on the Hot 100." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
+**To Be Loved** : This gorgeous ballad, written by Barry Gordy and Billy Davis after Gordy's divorce, became Wilson's second solo hit, reaching number 7 on the R&B charts and number 22 on the pop charts. "The result was a gorgeous ballad that went to number 7 on the R&B charts and number 22 on the pop charts." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
 **You Can't Keep a Good Man Down (1953)** : This was the first song Jackie Wilson recorded as a lead singer with Billy Ward and his Dominoes for King Records. "Wilson's first recording with the group as lead singer came just after he turned 19. When he went into the studio with them to cut, you can't keep a good man down for King Records." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
 
 ## curiosities
@@ -70,4 +63,15 @@
 **Talent Contest Alliance** : He was part of a loose association of musicians, including his cousin Levi Stubbs (later of The Royals), and Little Willie John, who would pre-arrange wins at talent shows. "They would all perform on the same talent shows and would agree among themselves who was going to win beforehand." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
 **Unmarked Grave and Headstone** : Wilson was initially buried in an unmarked grave after his death in 1984, but three years later, funds were raised for a headstone that reads, "No more lonely teardrops." "He was buried in an unmarked grave, but three years later, funds were raised for a headstone, which reads, no more lonely teardrops." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
 **Vocal Influence on Eddie Holland** : Eddie Holland's voice was noted for sounding similar to Jackie Wilson's. Barry Gordy initially used Holland as a demo singer for Wilson's songs and later tried to mold Holland into a "Wilson clone." "He was a singer who was known for having a similar sounding voice to that of Jackie Wilson" ← Episode 111： ＂Heat Wave＂ by Martha and the Vandellas | https://www.youtube.com/watch?v=AAiUJhSKjzs
+**Rock and Roll Hall of Fame Inductee (1987)** : Jackie Wilson was one of the deceased "forefathers" inducted into the Rock and Roll Hall of Fame in 1987, alongside Aretha Franklin, who was notable for still being a current hitmaker at the time. "from deceased forefathers like Jackie Wilson" ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
 
+## charts
+**"Lonely Teardrops" — Billboard Year-End Hot 100** : #56, 1959. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"That's Why" — Billboard Year-End Hot 100** : #90, 1959. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Night" — Billboard Year-End Hot 100** : #34, 1960. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Doggin' Around" — Billboard Year-End Hot 100** : #95, 1960. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Baby Workout" — Billboard Year-End Hot 100** : #60, 1963. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"(Your Love Keeps Lifting Me) Higher and Higher" — Billboard Year-End Hot 100** : #53, 1967. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"651" — NME Chart** : 10 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
+**"Reet Petite" — UK Singles Chart** : #7, 1958. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+**""Reet Petite" ‡" — UK Singles Chart** : #7, 1987. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart

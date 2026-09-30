@@ -1,7 +1,7 @@
 # artist - Bow Wow Wow
 
 ## members
-- Annabella Lewin
+- Annabella Lwin
 
 ## genres
 - New Wave
@@ -13,11 +13,3 @@
 **Annabella Lewin Nude Photoshoot** : Malcolm McLaren convinced Annabella Lewin, the group's underage lead singer, to pose nude in a sex magazine called *Chicken*, which McLaren himself had created. This incident added to McLaren's controversial management practices. ← https://www.youtube.com/watch?v=PzyvXmDKFUc ← bow-wow-wow
 **Designed to Showcase Fashion** : Bow Wow Wow was a group specifically designed by Malcolm McLaren for nothing more than to showcase Vivienne Westwood's new fashions. McLaren continued his trend of intertwining fashion and music with this project. ← https://www.youtube.com/watch?v=PzyvXmDKFUc ← bow-wow-wow
 **Featured on MTV** : Bow Wow Wow was included among the bands whose music videos were featured on MTV, contributing to the channel's diverse content and the promotion of New Wave artists. "They played all the groups that we've talked about in many more. Eurythmics, XTC, Soft Sale, Adamance, Human League, Bowah Wow, and The Go Go's..." ← https://www.youtube.com/watch?v=bYsV3ozbk4M ← bow-wow-wow
-
-
-
-## charts
-**"Let Me Hold You" — Billboard Year-End Hot 100** : #29, 2005. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Like You" — Billboard Year-End Hot 100** : #30, 2005. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Shortie Like Mine" — Billboard Year-End Hot 100** : #54, 2007. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Outta My System" — Billboard Year-End Hot 100** : #88, 2007. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

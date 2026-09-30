@@ -3,4 +3,3 @@
 ## member of
 - The Distants
 - The Temptations
-

@@ -19,17 +19,15 @@
 **Taylor Hawkins' Disdain for the Genre** : Taylor Hawkins expressed a strong dislike for "hair metal" (which he also referred to as "warrant and all that kind of crap"), describing it as "blah music." His aversion to this genre contributed to his embrace of Jane's Addiction as his "punk rock." "Which was just like, I've blah music, you know." ← Ongoing History of New Music > Remembering Taylor Hawkins | https://www.youtube.com/watch?v=dD-VEcFpIFA&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **The Rise of the Power Ballad** : Hair metal bands frequently incorporated power ballads into their repertoire, which were instrumental in attracting a broader, particularly female, audience. These songs allowed the lead singer to "show his sensitive side" amidst the arena anthems, exemplified by Motley Crue's "Home Sweet Home." "if they wanted to continue to draw in the female audience it certainly helped to have a power ballad you know that's when the lead singer would show his sensitive side or motley crew it was home sweet home on nineteen eighty five's theater of pain." ← For the Record - The 70s > Ep. 54 - Into the 80s! What Came Next for 70s Heavy Metal | https://www.ftr70.com/
 **US Rock Resurgence in Mid-80s** : In the mid-1980s, as pure Technopop waned, hair metal emerged as a significant form of rock music in the US, demonstrating rock's renewed strength and providing an alternative to the electronic trends. "In the US, rock began flexing its muscles again, think hair metal and the growing interest in Indian alternative music." ← Ongoing History of New Music > The Post-Punk Explosion Part 2： Techno-Pop | https://www.youtube.com/watch?v=5PJRCC6EwUY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**John Mellencamp's Counter-Trend Success** : John Mellencamp's "Paper in Fire" (1987) became a top 10 pop hit at a moment when hair metal and dance pop were dominating the charts, showcasing his imperial ability to succeed with rootsy folk rock outside of the prevailing trends. "In probably paper in fire became a top 10 pop hit at a moment when hair, metal and dance pop were dominating the charts." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f03154465cd600c5379
 
 ## artists
 - Alice in Chains
 - Bon Jovi
-- Death Leopard
+- Def Leppard
 - John Ondrasik
-- Lane Staley
-- Motley Crue
+- Layne Staley
 - Mötley Crüe
 - Poison
-- Robert John "Mut" Lang
-- White Snake
+- Robert John "Mutt" Lange
 - Whitesnake
-

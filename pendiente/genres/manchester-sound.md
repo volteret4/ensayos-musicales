@@ -5,5 +5,5 @@
 
 ## artists
 - Happy Mondays
-- Stone Roses
+- The Stone Roses
 

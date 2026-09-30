@@ -3,28 +3,35 @@
 ## member of
 - Cream
 - Derek and the Dominos
-- The Jarpers
 - The Roosters
+- The Yardbirds
 
 ## genres
+- Classic Rock
 - Rock
+
+## concerts
+- The Concert for Bangladesh
 
 ## instruments
 - BC Rich
 - Fender Stratocaster
-- Fender Stratocaster (signature model)
 - Fender Telecaster
-- Fender Twin Reverb (signature model)
+- Fender Twin Reverb
 - Gibson Les Paul
 - Gibson SG
 - Wawa pedal
 
 ## albums
 **461 Ocean Boulevard (1974)** : Recorded in South Florida at the address 461 Ocean Boulevard, this album marked a significant comeback for Eric Clapton following his recovery from heroin addiction, with his cover of Bob Marley's "I Shot the Sheriff" released as its first single. "The first single released from the album 461 Ocean Boulevard was I shot the sheriff." ← For the Record - The 70s > Ep. 29 - Every Little Thing is Gonna Be All Right - The Influence of 70s Reggae | https://seventies.libsyn.com/ep-29-every-little-thing-is-gonna-be-all-right-the-influence-of-70s-reggae
+**Blues Album** : In the mid-1990s, an all-blues album by Eric Clapton was nominated for a Grammy Award, around the same time Tony Bennett's "MTV Unplugged" album won Album of the Year in a year dominated by contemporary artists like Green Day, TLC, and Snoop Dogg. "the Academy nominated not only Bennett's unplugged album but an all blues album by Clapton". ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
+**Unplugged (1992)** : This album was a major beneficiary of the "unplugged" fad popularized by MTV in 1993. The Academy, having previously given Clapton little recognition for his solo work, showered him with six Grammy statues for this "sleepiest work," including a slowed-down cover of his Derek and the Dominos hit "Layla." Both the album and the unplugged version of "Layla" were significant chart hits even before the Grammy wins. "Rectified the oversight to an extreme degree, showering Clapton with six statues on the night for some of his sleepiest work, including a slowed down cover of his fiery Derek and the Domino's hit, Leila." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
 
 ## songs
-**After Midnight (1970/1988 Commercial)** : Eric Clapton re-recorded his 1970 solo hit, "After Midnight," for a sleek Michelob Beer ad campaign in the late 1980s. This re-recorded version, specifically created for the commercial, became a rock radio hit, reaching number 4 on Billboard's Album Rock Chart in early 1988. "The campaign kicked off with a sleek ad featuring guitar virtuoso Eric Clapton, who re-recorded his 1970 solo hit After Midnight." ← Hit Parade Music History and Music Trivia > I’d Like to Teach the World to Buy Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cc5
+**After Midnight (1970)** : Eric Clapton re-recorded his 1970 solo hit, "After Midnight," for a sleek Michelob Beer ad campaign in the late 1980s. This re-recorded version, specifically created for the commercial, became a rock radio hit, reaching number 4 on Billboard's Album Rock Chart in early 1988. "The campaign kicked off with a sleek ad featuring guitar virtuoso Eric Clapton, who re-recorded his 1970 solo hit After Midnight." ← Hit Parade Music History and Music Trivia > I’d Like to Teach the World to Buy Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cc5
 **I Shot the Sheriff (1974)** : Eric Clapton's cover of Bob Marley's song became a number one hit in September 1974, despite Clapton's initial reluctance to record it and his admitted lack of understanding of its full lyrical meaning. "It went to number one in September 1974." ← For the Record - The 70s > Ep. 29 - Every Little Thing is Gonna Be All Right - The Influence of 70s Reggae | https://seventies.libsyn.com/ep-29-every-little-thing-is-gonna-be-all-right-the-influence-of-70s-reggae
+**It's Probably Me (1992)** : Eric Clapton teamed up with Sting to record this "No Frills guitar and sax rocker" for the soundtrack of the 1992 summer blockbuster "Lethal Weapon 3." The song became a top 20 album rock hit. "Key teamed up with Eric Clapton for the No Frills guitar and sax rocker it's probably me, a top 20 album rock hit." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef30c30a1408dc2922b
+**Layla (1992)** : This slowed-down cover of Eric Clapton's fiery Derek and the Dominos hit was featured on his "Unplugged" album. Both the album and this particular version of "Layla" were big chart hits even before Clapton's six Grammy wins in 1993. "including a slowed down cover of his fiery Derek and the Domino's hit, Leila." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
 
 ## curiosities
 **Asteroid** : Eric Clapton has a piece of space rock, an asteroid, named after him. "Eric Clapton, Brian Wilson, ZZ Topp, Yes, Bruce Springsteen, and Jimmy Page are among those with their own pieces of space rock." ← https://www.youtube.com/watch?v=VMPLplhDk8I ← eric-clapton
@@ -45,8 +52,6 @@
 **Pioneer Guitar Hero** : Eric Clapton is identified as one of the influential figures at the beginning of the "age of the guitar hero," a period in the mid-1960s when electric guitarists began to gain significant prominence and influence. "And soon we'd be hearing about Eric Clapton, Pete Townsend, Jimmy Page, Jimmy Hendrix and more." ← https://www.youtube.com/watch?v=fQCOj3_zy54 ← eric-clapton ← eric-clapton
 **Praise for Delaney & Bonnie Live Performance** : In his autobiography, Eric Clapton wrote that he found it challenging to perform after Delaney & Bonnie while he was with Blind Faith, stating, "I thought that they were miles better than us." "Eric Clapton wrote in his autobiography that when he was with blind faith he thought it was hard to follow Delinean Bonnie on stage because quote I thought that they were miles better than us." ← For the Record - The 70s > Ep. 59 - Bands and Booze on the Festival Express of 1970 | https://www.ftr70.com/ ← eric-clapton
 **Reluctance to Cover "I Shot the Sheriff"** : Eric Clapton initially opposed covering Bob Marley's "I Shot the Sheriff" and required persuasion from a band member, admitting that he didn't truly grasp the song's meaning, yet he recognized its potential as a number one record. "No, he didn't even want to cover it and he had to be talked into it by one of the members of his band." ← For the Record - The 70s > Ep. 29 - Every Little Thing is Gonna Be All Right - The Influence of 70s Reggae | https://seventies.libsyn.com/ep-29-every-little-thing-is-gonna-be-all-right-the-influence-of-70s-reggae
-
-
 
 ## awards
 **Silver Clef Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3483987

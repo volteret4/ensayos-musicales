@@ -1,14 +1,13 @@
 # artist - The Sisters of Mercy
 
 ## members
-- Andrew Eldridge
 - Andrew Eldritch
-- Dr. Avalanche
-- Wayne Hussey (ex-member)
+- Wayne Hussey
 
 ## genres
 - Goth
 - Gothic music
+- Gothic rock
 - Gothrock
 
 ## concerts
@@ -17,16 +16,18 @@
 ## instruments
 - Dr. Avalanche
 - Drum machine
-- MacBook (custom, British military partly designed)
+- MacBook
 - Roland TR-55
 - Roland TR-606
 - Roland TR-808
 
 ## songs
-**(I Can't Get No) Satisfaction (Year Unspecified) - Rolling Stones Cover** : The Sisters of Mercy released a 12-inch version of this Rolling Stones classic, transforming it into a gothic interpretation specifically for goth fans. "And then there was this 12-inch release of the Rolling Stones Classic. This sister's a mercy, turning the Rolling Stones into something just for Goth fans." ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← the-sisters-of-mercy
-**Dimey Shelter (1983)** : This Gothrock single from 1983 is noted as a classic of the genre and is a version of The Rolling Stones' original song. "a classic Gothrock single from 1983." ← https://www.youtube.com/watch?v=evlGhfUe6QQ ← the-sisters-of-mercy
+**Gimme Shelter (1983)** : This Gothrock single from 1983 is noted as a classic of the genre and is a version of The Rolling Stones' original song. "a classic Gothrock single from 1983." ← https://www.youtube.com/watch?v=evlGhfUe6QQ ← the-sisters-of-mercy
 
 ## curiosities
+**Covered "1969"** : The Sisters of Mercy are among the artists who have covered The Stooges' song "1969." "Tracks on this album have been covered by the Sex Pistols, Joey Ramone, Sonic Youth, the Sisters of Mercy, Joan Jett, Red Cross, and the Black Keys." ← https://www.youtube.com/watch?v=w-rihv544I8 ← sisters-of-mercy
+**Declared Influence** : Sisters of Mercy is among a partial list of artists and bands who have publicly stated that they have been influenced by Joy Division in some way. "You too, arcade fire, smashing pumpkins, nine inch nails, to pesh mode, sisters of mercy, ministry, chain addiction, the smiths, Bjork, Jesus and Marychain, Moby, primal scream, the Charlotains, Interpol, editors, white lies, Frans Ferdinand. I could go on, but I think you get the point." ← https://www.youtube.com/watch?v=1VWJ0uCQx8w ← sisters-of-mercy ← sisters-of-mercy
+**Major 90s Goth Band** : Sisters of Mercy were identified as one of the major Goth bands of the 1990s, a genre that often incorporated elements of the occult and the bizarre, extending its culture to clubs and magazines beyond just the music. "The major goth bands of the 90s were Bauhaus and Suzy and the Banshee's, Sisters of Mercy, and if we go back to the very beginning we'll find that Joy Division was a major influence." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← sisters-of-mercy
 **"Dr. Abelash" Drum Machine** : The Sisters of Mercy toured with a drum machine they humorously nicknamed "Dr. Abelash." The name was given because the machine frequently crashed during performances, highlighting the early unreliability of such technology. "The sisters of Mercy toured with a box they called Dr. Abelash because it kept crashing." ← https://www.youtube.com/watch?v=OiqdZfxdBP0 ← the-sisters-of-mercy
 **Andrew Eldritch's Vocal Style** : Frontman Andrew Eldritch was known for his deep, baritone voice, described as a "voice of doom," which became a signature element of the band's sound. "Out front was Andrew Eldridge, with his deep, baritone voice of doom." ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← the-sisters-of-mercy
 **Collaboration with Jim Steinman** : In the late 1980s, the band collaborated with songwriter Jim Steinman, known for his work with Meat Loaf and Bonnie Tyler, to infuse their doom and gloom with an interesting rock dynamic. "That was most evident in the late 1980s when they teamed up with songwriter Jim Steinman, the guy behind Meatloaf's Battle of Hell." ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← the-sisters-of-mercy
@@ -37,8 +38,6 @@
 **Name Origin and Leonard Cohen Influence** : The band took its name from Leonard Cohen's song "Sisters of Mercy." Cohen's dark material also found favor with some goths, linking his work to the band's aesthetic. "And then there's his song Sisters of Mercy, from which the band took their name." ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← the-sisters-of-mercy
 **Roots of Modern Gothic Music (1987)** : The Sisters of Mercy, specifically with a song from 1987, are used to illustrate the historical lineage of modern gothic music. The roots of this compositional style are traced back over 800 years to Hildegard von Bingen's sacred monophony, composed around 1156, and its suitability for performance in massive stone cathedrals. "Yes, that's the systems of mercy from 1987, but the roots of that kind of composition go back to 1156." ← https://www.youtube.com/watch?v=NAroxFbYkRw ← the-sisters-of-mercy
 **Second Generation Goth Influence** : The band was instrumental in carrying Goth music beyond its UK birthplace by the mid-1980s, alongside Siouxsie and the Banshees and The Cure. "It was carried on the wings of music, sisters of mercy, suzzy in the banshees and the cure." ← https://www.youtube.com/watch?v=evlGhfUe6QQ ← the-sisters-of-mercy
-
-
 
 ## lists
 **"Floodland" (1987) — 1001 Albums You Must Hear Before You Die** : #592.

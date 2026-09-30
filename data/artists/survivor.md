@@ -1,13 +1,9 @@
 # artist - Survivor
 
-## albums
-**Rocky 3 Soundtrack (1982)** : The movie blockbuster "Rocky 3" featured Survivor's "Eye of the Tiger" as a "pump up anthem," which subsequently became the 1982 Song of the Summer. "survivors pump up anthem from the Sylvester Stallone movie blockbuster Rocky 3." ← Hit Parade Music History and Music Trivia > Song(s) of the Summer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef50c30a1408dc292e4
-
 ## songs
 **Eye of the Tiger (1982)** : This song by Survivor was listed as the number 2 Billboard Top 10 hit for the year 1982. "number three. I have the tiger by survivor." ← For the Record - The 70s > Ep. 55 - Heartland Rock is about More than the Heartland | https://www.ftr70.com/
-**Eye of the Tiger (1982) (Guitar Riff Survey)** : Ranked at number two in a 2022 UK commissioned survey of greatest guitar riffs, garnering 31% of the vote. This was noted as a "shock" by the commentator. "survivors. I have the tiger at number two with 31% of the vote." ← https://www.youtube.com/watch?v=KtdIMNoHqA8 ← survivor ← survivor
-
-
+**Eye of the Tiger (1982)** : Ranked at number two in a 2022 UK commissioned survey of greatest guitar riffs, garnering 31% of the vote. This was noted as a "shock" by the commentator. "survivors. I have the tiger at number two with 31% of the vote." ← https://www.youtube.com/watch?v=KtdIMNoHqA8 ← survivor ← survivor
+**Eye of the Tiger (1982)** : Ranked at number two in a 2022 UK commissioned survey of greatest guitar riffs, garnering 31% of the vote. This was noted as a "shock" by the commentator. "survivors. I have the tiger at number two with 31% of the vote." ← https://www.youtube.com/watch?v=KtdIMNoHqA8 ← survivor
 
 ## awards
 **Grammy Award for Best Rock Performance by a Duo or Group with Vocal (1982) — Eye of the Tiger** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1542205

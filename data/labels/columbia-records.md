@@ -38,6 +38,10 @@
 **The Record Jacket Invention** : Columbia Records worked on 12-inch long-playing vinyl album technology, which highlighted the problem of acidic paper sleeves damaging records. Alex Steinweiss designed a new cardboard sleeve, known as the "record jacket," which the Imperial Paper Box Company patented. This new jacket became a "palette for a new art form" suitable for printing artwork. "He designed a new sleeve made from cardboard and got a box company to develop some special equipment. The result was known as the record jacket." ← https://www.youtube.com/watch?v=pwebM3TfSdg ← columbia-records
 **Unveiling of the LP (June 18, 1948)** : Columbia Records officially unveiled the 12-inch long-playing album at the Waldorf Astoria Hotel in Park Avenue, New York, on June 18, 1948. Forty members of the press witnessed a dramatic demonstration comparing an 8-foot stack of 78 RPM records to a 15-inch stack of LPs. Edward Wallerstein demonstrated a 4-minute 78 RPM classical recording, abruptly stopping, then played a 22.5-minute uninterrupted version on an LP, stunning reporters. "The big day came on June 18, 1948 at the Waldorf Astoria Hotel in Park Avenue, New York. Forty members of the press entered a room where they saw a big stack of 78 RPM records. It was more than 8 feet high. Next to it was another stack of flat, some things, but it was only 15 inches high. Edward Wallerstein stood up. You're here to witness the unveiling of a revolutionary new technology, he said." ← https://www.youtube.com/watch?v=VlIErdSSVOM ← columbia-records
 **We Are The World Release Label** : Despite the initial idea for "We Are The World" originating at the Motown house, the song was ultimately released by Columbia Records. This decision was driven by both economic and resource-related considerations. "finalmente fue editado por Colombia, por razones económicas, pero es un otro, también por razones de recursos." ← Music Radar Clan > We are the world | https://www.youtube.com/watch?v=XTJKpU0lhls&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← columbia-records ← columbia-records
+**Direct Major Label Deal** : Alice in Chains secured a direct major label deal with Columbia Records, a notable distinction as it allowed them to bypass the years on independent labels that bands like Soundgarden experienced. "They got Alice signed to Major Label Columbia straight away." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Released "Old Town Road" Official Music Video** : Columbia Records released the major label music video for Lil Nas X's "Old Town Road," which they titled "the official movie." This video played a crucial role in the song's continued virality and widespread success, featuring cameos from various artists and personalities. "Columbia Records called the official movie." ← Hit Parade Music History and Music Trivia > Ride ’til I Can’t No More Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce88
+**Aretha Franklin's Early Career** : Columbia Records signed Aretha Franklin in 1960 when she was 18, aiming to mold her into a traditional pop vocal star similar to Ella Fitzgerald or Dinah Washington. However, their strategy, which largely ignored the R&B market, was largely unsuccessful, resulting in Franklin accumulating debt to the label by the time her contract expired in 1966. "By the time she signed to famed Pop Label Columbia Records at age 18, Aretha Franklin was already a bit of a sensation on the gospel circuit." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4eef8e6dd12efb02c3c9
+**Aretha Franklin's Early Career (Early 1960s)** : Aretha Franklin recorded jazzy pop songs for Columbia Records during the first half of the 1960s, a period described as "fussy years" due to her lack of big hits, before she was "rescued" by Atlantic Records. "she spent the first half of the 1960s recording jazzy pop songs for Columbia records, with no big hits." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
 
 ## artists
 - Alice in Chains
@@ -45,19 +49,19 @@
 - Bob Dylan
 - Cliff Richard
 - Death
-- Earth Wind & Fire
+- Earth, Wind & Fire
 - Elvis Costello
 - Jeff Buckley
 - John Hammond
 - Johnny Cash
-- Johnny Ray
-- Karl Perkins
+- Johnnie Ray
+- Carl Perkins
 - Leonard Cohen
 - Manic Street Preachers
-- Memphis Mini
 - Memphis Minnie
 - Nick Lowe
 - Paul Revere and The Raiders
 - The Offspring
 - The Stooges
-
+- Lil Nas X
+- Aretha Franklin

@@ -3,8 +3,6 @@
 ## member of
 - Teenage Jesus and the Jerks
 
-
-
 ## lists
 **"13.13" (1982) — Scaruffi 1980s** : #538, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
 **"In Limbo" (1984) — Scaruffi 1980s** : #539, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

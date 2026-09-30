@@ -11,8 +11,7 @@
 **Top 100 Moments Broadcast (2004)** : The "Top 100 Moments in New Rock" series originally aired in the spring of 2004, providing a historical perspective on pivotal events in the genre's development up to that point. The series aimed to revisit where music had been and how much it had changed. "Now bear in mind that these shows originally aired in the spring of 2004." ← https://www.youtube.com/watch?v=MTDY6qT11Dc ← new-rock
 
 ## artists
-- Alexis On Fire
-- Alexis on Fire
+- Alexisonfire
 - Coldplay
 - David Bowie
 - Dropkick Murphys
@@ -20,7 +19,7 @@
 - Kraftwerk
 - Pearl Jam
 - Red Hot Chili Peppers
-- SkyCriseMary
+- Sky Cries Mary
 - The Beatles
 - The Pixies
 - The Stooges

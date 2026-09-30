@@ -2,14 +2,16 @@
 
 ## albums
 **Floating into the Night (1989)** : Released in 1989, this album was a collaboration with singer Julee Cruise. It featured the "Twin Peaks" theme, "Falling," and was characterized by a very dreamy sound, emblematic of late 1980s Dreampop. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← angelo-badalamenti
+**Twin Peaks (Music from the Limited Event Series) (2017)** : Another release from "Twin Peaks," specifically "Motion from the Limited Event Series," presented as a double LP. The speaker notes many "Twin Peaks" albums have been edited in the last three years. "a Twinpix Motion from the Limited Event Series, dos veces, no tengo ni idea de lo que es." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← twin-peaks-soundtrack ← twin-peaks-soundtrack
+**Twin Peaks (Music from the Limited Event Series) (2017)** : Another release from "Twin Peaks," specifically "Motion from the Limited Event Series," presented as a double LP. The speaker notes many "Twin Peaks" albums have been edited in the last three years. "a Twinpix Motion from the Limited Event Series, dos veces, no tengo ni idea de lo que es." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← twin-peaks-soundtrack
 
 ## songs
 **Falling (1989)** : This song is the theme for the TV series "Twin Peaks" and is featured on the 1989 album "Floating Into the Night," a collaboration between Angelo Badalamenti and Julee Cruise. It embodies the dreamy characteristics embraced by Dreampop in the late 1980s. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← angelo-badalamenti
 
 ## curiosities
 **Blue Velvet and Twin Peaks Collaboration** : Angelo Badalamenti collaborated with David Lynch, composing very dreamy songs for Lynch's 1986 film "Blue Velvet" and continuing their partnership for the "Twin Peaks" TV series. This collaboration was initiated after Lynch's attempt to license an existing Dreampop track failed. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← angelo-badalamenti
-
-
+**Frequent Re-editions** : The speaker comments on the high frequency of "Twin Peaks" album re-editions over the past three years. "yo ya no sé cuántos discos de Twinpix llevan editados en los últimos tres años." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← twin-peaks-soundtrack ← twin-peaks-soundtrack
+**Frequent Re-editions** : The speaker comments on the high frequency of "Twin Peaks" album re-editions over the past three years. "yo ya no sé cuántos discos de Twinpix llevan editados en los últimos tres años." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← twin-peaks-soundtrack
 
 ## awards
 **Grammy Award for Best Pop Instrumental Performance (1991) — Falling** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5593861

@@ -1,8 +1,5 @@
 # artist - Trixie Smith
 
-## members
-- The Jazz Masters
-
 ## genres
 - Blues
 - Vaudeville
@@ -16,8 +13,3 @@
 ## curiosities
 **Early Career as Actor and Vaudeville Performer** : Beyond her recording career, Trixie Smith was also an actor and Vaudeville performer. She had a prolific recording career in the 1920s and 1930s, making four dozen blues recordings, demonstrating her multifaceted talents in entertainment. "Trixie Smith was also an actor and Vodville performer." ← https://www.youtube.com/watch?v=oRR7N-YUcRE ← trixie-smith
 **Pioneer of "Rock and Roll" in Secular Music** : Trixie Smith, a blues singer from Atlanta, recorded "My Man Rocks Me with One Steady Role" in September 1922. This track is notable for being the first secular song to use the phrase "rock and roll" with its evolving, multi-faceted, and often suggestive meanings, marking a shift from its earlier sacred or literal interpretations. "Trixie Smith, 1922." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ ← trixie-smith
-
-
-
-## charts
-**"Baby It's You" — Billboard Year-End Hot 100** : #34, 1969. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

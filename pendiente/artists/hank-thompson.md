@@ -1,2 +1,0 @@
-# artist - Hank Thompson
-

@@ -18,8 +18,6 @@
 **Reunion Triggered by Tragedy and Anniversary (2007)** : The funeral of Paul Hester, combined with the upcoming 10-year anniversary and DVD release of their Sydney Opera House performance, prompted a reconnection among the surviving members. On January 22, 2007, Crowded House officially announced their reunion after 10 years, one month, and 28 days apart. "The funeral coupled with the 10 year anniversary of the Sydney Opera House performance, the DVD was coming out to see. A reconnection began." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ ← crowded-house
 **Tragic Death of Paul Hester (2005)** : Paul Hester suffered from personal problems and deep depression, leading him to hang himself on March 26, 2005. "Paul hanged himself on March 26th of 2005." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ ← crowded-house
 
-
-
 ## awards
 **MTV Video Music Award for Best New Artist (1987)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q595693
 

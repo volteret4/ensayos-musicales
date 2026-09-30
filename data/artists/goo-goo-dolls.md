@@ -2,8 +2,7 @@
 
 ## curiosities
 **Signed by Rob Cavallo** : The Goo Goo Dolls were a band signed by producer Rob Cavallo, who later convinced Green Day to sign with a major label. "He'd signed the Goo Goo dolls and his dad had once managed the love and spoonful and earth-winded fire." ← https://www.youtube.com/watch?v=0QtMI00T5jw ← goo-goo-dolls ← goo-goo-dolls
-
-
+**Signed by Rob Cavallo** : The Goo Goo Dolls were a band signed by producer Rob Cavallo, who later convinced Green Day to sign with a major label. "He'd signed the Goo Goo dolls and his dad had once managed the love and spoonful and earth-winded fire." ← https://www.youtube.com/watch?v=0QtMI00T5jw ← goo-goo-dolls
 
 ## charts
 **"Name" — Billboard Year-End Hot 100** : #24, 1996. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

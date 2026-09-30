@@ -2,24 +2,23 @@
 
 ## members
 - Adam Gontier
-- Brad Walls
+- Brad Walst
 - Matt Walst
 - Neil Sanderson
 
 ## genres
+- New Metal
 - Rock
 
 ## concerts
 - Thorneley Tour (The band Thorneley toured with Three Days Grace.)
 
 ## albums
-**One X (Unknown Year) - Billboard Top 5 Debut** : Three Days Grace's second album, "One X," debuted at number five on the Billboard album charts. This marked a significant commercial success for the band. "Their second record, One X, debuted at number five on the Billboard album charts." ← https://www.youtube.com/watch?v=CyTI00SIrLE ← three-days-grace ← three-days-grace
-**Three Days Grace (Debut Album)** : This self-titled debut album was an immediate success, exploding onto the scene and achieving platinum certification in both Canada and the US. "Three days grace exploded with their Self-Tuttle debut album, platinum in both Canada and the US." ← https://www.youtube.com/watch?v=7dXtgTkdv9w ← three-days-grace
-
-## songs
-**Song for Focus (Year not specified)** : A song by Three Days Grace is played at the beginning of the program, specifically chosen to help listeners focus by addressing any built-up anger issues. "All right, we shall start with this from three days grace." ← https://www.youtube.com/watch?v=1HMW9rGtJHI ← three-days-grace ← three-days-grace
+**One-X (2006)** : Three Days Grace's second album, "One X," debuted at number five on the Billboard album charts. This marked a significant commercial success for the band. "Their second record, One X, debuted at number five on the Billboard album charts." ← https://www.youtube.com/watch?v=CyTI00SIrLE ← three-days-grace ← three-days-grace
+**Three Days Grace (2003)** : This self-titled debut album was an immediate success, exploding onto the scene and achieving platinum certification in both Canada and the US. "Three days grace exploded with their Self-Tuttle debut album, platinum in both Canada and the US." ← https://www.youtube.com/watch?v=7dXtgTkdv9w ← three-days-grace
 
 ## curiosities
+**Escaped New Metal Classification** : 3Days Grace was initially categorized under the heading of new metal but eventually escaped that classification, a goal many bands fought hard to achieve. "3Days Grace... Most eventually escaped that classification, something that many fought very hard to do." ← https://www.youtube.com/watch?v=5bQz8R0gbXc ← 3days-grace
 **Commercial Success and Sales** : Three Days Grace achieved significant commercial success with three platinum albums in the US and platinum albums in Canada. Their worldwide sales are close to five billion units. "Three platinum albums in the US, platinum albums in Canada, worldwide sales close to five billion." ← https://www.youtube.com/watch?v=CyTI00SIrLE ← three-days-grace ← three-days-grace
 **Consistently Successful in 2010s (Active Rock Radio)** : This Canadian band was one of the most consistently successful of the 2010s, largely due to active rock radio programming. While they largely disappeared from alternative stations, they became staples of active rock radio. "One of the most consistently successful bands of the decade thanks to active rock radio programming was Canada's three days grace." ← https://www.youtube.com/watch?v=sOU54d8mr5k ← three-days-grace
 **Early Gigs and Movie Opening** : When Three Days Grace first started, they played as many gigs as possible. At one point, they even opened for a movie at a local theater, showcasing their early ambition. "When three days grace started up, they played as many gigs as they possibly could, and at one point, they even opened for a movie at a local theater." ← https://www.youtube.com/watch?v=CyTI00SIrLE ← three-days-grace ← three-days-grace
@@ -32,8 +31,6 @@
 **Overcoming Small Town Skepticism** : Despite their later global success, the band likely faced skepticism in their early days in Norwood, with people questioning their chances of becoming famous rock stars from such a small town. "People must have said, oh, that's so cute. You want to be famous rock stars. But come on. Look around. You haven't got a chance. Yeah." ← https://www.youtube.com/watch?v=CyTI00SIrLE ← three-days-grace ← three-days-grace
 **Record for Mainstream Rock Chart #1 Singles** : By the end of the 2010s, Three Days Grace broke Van Halen's 20-year-old record for the most number one singles on the mainstream rock chart, achieving 15 number one singles, largely thanks to support from American active rock radio stations. "And by the end of the decade, they broke Van Halen's 20-year-old record for the most number one singles on the mainstream rock chart with 15. Thanks largely to the support they got from those American active rock radio stations." ← https://www.youtube.com/watch?v=sOU54d8mr5k ← three-days-grace
 **Toured with The Trews** : Three Days Grace toured with The Trews, who often "piggybacked" on larger tours in the years following their debut album's success. "We would do a, a run with three days grace." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← three-days-grace ← three-days-grace
-
-
 
 ## awards
 **CASBY Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5008850

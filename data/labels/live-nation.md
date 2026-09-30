@@ -8,7 +8,6 @@
 **The Police Reunion Facilitation (2007-2008)** : Arthur Fogel, Live Nation's Head of Global Touring, was instrumental in securing The Police reunion tour. He offered a financial deal so substantial that the notoriously fractious band could not refuse, leading to a tour that grossed $359 million ($508 million in today's cash). "But when live nations head of global touring, Arthur Fogel, put an offer on the table, the numbers were so big that there was just no way the guys could turn it down." ← https://www.youtube.com/watch?v=GYUuTbOvyak ← live-nation
 
 ## artists
-- Jay Z
 - Jay-Z
 - Madonna
 - U2

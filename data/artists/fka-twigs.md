@@ -3,8 +3,6 @@
 ## curiosities
 **Attracting Indie Community Attention** : FKA Twigs has garnered significant attention within the indie music community for her distinctive artistry. "FKA Twigs has been attracting attention through the indie community." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← fka-twigs
 
-
-
 ## awards
 **Libera Award for Video of the Year** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q96387404
 **Grammy Award for Best Dance/Electronic Album (2026)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1542147

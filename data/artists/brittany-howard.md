@@ -3,8 +3,6 @@
 ## member of
 - Alabama Shakes
 
-
-
 ## awards
 **Americana Award for Artist of the Year (2020)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q96336837
 

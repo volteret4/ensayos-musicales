@@ -1,2 +1,0 @@
-# artist - Voodoo Glow Skulls
-

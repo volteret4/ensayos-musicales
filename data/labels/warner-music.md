@@ -8,7 +8,6 @@
 
 ## artists
 - R.E.M.
-- REM
 - Staggered Crossing
 - Wide Mouth Mason
 

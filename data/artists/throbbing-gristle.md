@@ -10,7 +10,7 @@
 - Industrial
 
 ## albums
-**Second Annual Report (Formal Record)** : This was the first formal record released by Throbbing Gristle, directly utilizing the "industrial" imagery and branding by naming their record label "Industrial." "Their record label was called industrial, and their first formal record was entitled Second Annual Report." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← throbbing-gristle ← throbbing-gristle
+**The Second Annual Report (1977)** : This was the first formal record released by Throbbing Gristle, directly utilizing the "industrial" imagery and branding by naming their record label "Industrial." "Their record label was called industrial, and their first formal record was entitled Second Annual Report." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← throbbing-gristle ← throbbing-gristle
 
 ## songs
 **Hamburger Lady (1980)** : Part of this 1980 track is presented as an example of Throbbing Gristle's confrontational, deliberately unpleasant, and aggressive sound, meant to be experienced as new and weird. The description emphasizes that the sound quality is intentional. "Here for example, is part of a 1980 track called Hamburger Lady. And just so you know, there is nothing wrong with your equipment. This is how it's supposed to sound." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← throbbing-gristle ← throbbing-gristle
@@ -26,8 +26,6 @@
 **Industrial Music Scene Influence** : This band was very important to the industrial music scene and a favorite of Trent Reznor. Peter Christopherson, a member, collaborated on the original video art project for Nine Inch Nails' "Broken" EP. "Two bands very important to the industrial music scene and two favorites of Trent." ← https://www.youtube.com/watch?v=DKdF8NgF5Bw ← throbbing-gristle
 **Pioneering "Industrial" Terminology** : Throbbing Gristle is likely the first group to use the term "industrial" to describe their music, adopting the idea from San Francisco artist Monte Cazazza, who coined the phrase "industrial music for industrial people." They actively gave sound to this statement, reflecting the industrial image in their music, which often sounded like it was recorded in a factory, and through their record label, Industrial Records. "Oh, and another thing. Throbbing Gristle was probably the first group to use the term industrial to describe their music." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← throbbing-gristle ← throbbing-gristle
 **Pre-Punk Formation** : Throbbing Gristle was one of the bands that formed before the punk explosion. They had been playing for some time but struggled to release records because the concept of the indie label had not yet evolved, and major labels would not consider them. "Mandas como Throbing Gissel... llevaban ya tiempo tocando, cuando habían podido editar un disco" ← La traición que salvó al punk. PiL | https://www.youtube.com/watch?v=YzQ6o-FgxSY
-
-
 
 ## lists
 **"D.o.A. The Third and Final Report" (1978) — 1001 Albums You Must Hear Before You Die** : #409.

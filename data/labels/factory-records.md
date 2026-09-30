@@ -44,5 +44,5 @@
 - Inspiral Carpets
 - Joy Division
 - New Order
-- OMD
+- Orchestral Manoeuvres in the Dark
 

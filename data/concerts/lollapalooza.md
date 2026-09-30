@@ -48,15 +48,20 @@
 **The Black Keys' Performance Slot** : Following the positive critical reception of their third album, *Rubber Factory*, The Black Keys earned a performance slot at the Lollapalooza festival. "more good reviews, a slotted Lollapalooza..." ← https://www.youtube.com/watch?v=ooNAHswiT5Q ← lollapalooza
 **The Crow Soundtrack (1994) Alignment** : *The Crow* soundtrack, released in 1994, was noted for being curated "right at the peak of a whole alternative in Lollapaloo's period." This indicates the soundtrack's strong alignment with the dominant alternative music trends and the popularity of festivals like Lollapalooza during that era. "Again, this was 1994, right at the peak of a whole alternative in Lollapaloo's period, and the music supervisors nailed it." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← lollapalooza
 **Traveling Festival Concept Decline (late 90s)** : By the time the 1990s ended, the idea of a traveling alternative music festival, exemplified by Lollapalooza, was "burning out" as alt-rock itself was on the wane. "By the time the 90s drew to a close, the idea of a traveling alternative music festival was burning out." ← https://www.youtube.com/watch?v=7JP2tjJibTQ ← lollapalooza
+**Traveling Festival Concept** : Launched in 1991 by Jane's Addiction frontman Perry Farrell, Lollapalooza was conceived as a "novel, traveling festival concert." It was intended as an "ambitious last hurrah" for Jane's Addiction and brought together acts from "all corners of alternative culture." "He launched a novel, traveling festival concert that he called Lala Paloza, smashing together acts from all corners of alternative culture into one eclectic package." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Diverse Lineup** : The inaugural Lollapalooza in 1991 showcased an eclectic lineup, including UK Goth acts like Siouxsie and the Banshees, funk metal superstars Living Colour, and industrial artist Nine Inch Nails (Trent Reznor). "The first Lala Paloza included everything from UK Goth Gods, Suzy and the Banshees. Two funk metal superstars living color. To a new industrial artist named Trent Rezner, who recorded innovative, danceable, yet thrashing hard rock under the norm-deband 9-inch nails." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Industry Impact** : The first Lollapalooza in 1991 sold thousands of tickets across the US, sending a clear message to the music industry that "an edgier form of rock was poised to break wide and sell records in platinum quantities." "The first Lala Paloza in 1991 sold thousands of tickets across the US and showed the music industry that an edgier form of rock was poised to break wide and sell records in platinum quantities." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Pearl Jam Appearance** : Pearl Jam notably toured with Lollapalooza in 1992, further expanding their reach and connecting with a broad alternative audience. "Pearl Jam had already toured with Lala Paloza in 1992." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Nirvana Rumored Headline** : Nirvana was reportedly in negotiations to headline the 1994 Lollapalooza, a testament to their immense popularity and cultural influence at the time. "and were rumored to be in negotiations to headline the 1994 Lala Paloza." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 
 ## artists
-- 21 Pilots
+- Twenty One Pilots
 - Fishbone
 - Green Day
 - Hole
 - Metallica
 - Pearl Jam
-- Rage Against The Machine
+- Rage Against the Machine
 - Ramones
 - Red Hot Chili Peppers
 - Sonic Youth
@@ -64,4 +69,6 @@
 - The Black Keys
 - The Smashing Pumpkins
 - Tool
-
+- Jane's Addiction
+- Living Colour
+- Nine Inch Nails

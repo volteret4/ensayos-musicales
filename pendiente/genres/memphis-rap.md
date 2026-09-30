@@ -5,8 +5,5 @@
 **Influence on Funk (90s)** : Memphis Rap from the 1990s was a key influence on the emergence of Funk, contributing to its distinctive sound and style. "influenciado por el rap de Memphis de los años 90" ← ¿Qué es el RALLY HOUSE？ El género que suena como un juego de PS1 | https://www.youtube.com/watch?v=RKCDTQlz0uw
 
 ## artists
-- Bodily Esquikki
-- Kim Ping Skinny Pimp
-- Rixx Macia
-- Tommy Ritter Zero
+- Kingpin Skinny Pimp
 

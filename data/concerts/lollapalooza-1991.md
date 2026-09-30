@@ -7,16 +7,12 @@
 
 ## artists
 - Body Count
-- Body Counts
 - Butthole Surfers
 - Fishbone
-- Ice Tea
 - Ice-T
-- Ice-T and Body Count
 - Jane's Addiction
 - Living Colour
 - Nine Inch Nails
 - Rollins Band
 - Siouxsie and the Banshees
-- Suzy and the Banshees
 

@@ -9,6 +9,6 @@
 **Royalty Scandal and Lawsuits** : Scepter Records, under Florence Greenberg's management, was involved in a major royalty dispute with The Shirelles. The group discovered that money promised for a trust fund was instead being kept by Greenberg, leading to lawsuits. Despite the legal battles, The Shirelles remained signed to Scepter, preventing them from recording for other labels and effectively destroying their career. "They entered into lawsuits against Septa, but remained sand to the label, and so couldn't record for anyone else. Their career was destroyed." ← Episode 89： ＂Will You Love Me Tomorrow？＂ by the Shirelles | https://www.youtube.com/watch?v=7Kns2HGcuSg
 
 ## artists
-- Joey D and the Starlighters
+- Joey Dee and the Starliters
 - The Shirelles
 

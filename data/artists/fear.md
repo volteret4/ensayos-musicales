@@ -1,7 +1,7 @@
 # artist - Fear
 
 ## members
-- Flea (bass, at one point)
+- Flea
 
 ## genres
 - American Hardcore
@@ -22,8 +22,6 @@
 **Association with Slam Dancing** : Fear is mentioned alongside Black Flag as bands associated with the Orange County punks who were instrumental in the emergence of slam dancing in the late 1970s. Their shows were part of the intense, physical environment where this dance style developed. "Black flag, fear, bands like that. Playing at clubs like The Cookus Nest in Costa Mesa, which has gone down on history as the birthplace of slam dancing." ← https://www.youtube.com/watch?v=bferkEWvJg0 ← fear
 **Cuckoo's Nest Performances** : Fear was one of the bands that played at The Cuckoo's Nest, a club that became a central location for the early development of slam dancing and moshing. "One of the bands who played the Kuku's Nest was Fear." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y ← fear
 **Formation and Evolution** : Fear was formed in 1977 and continues to exist. The band started as basic punks but evolved to form the foundations of California hardcore punk, a genre deeply intertwined with the origins of moshing. "Fear was formed in 1977, still exists today, and at one point they featured a bass player named Flea." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y ← fear
-
-
 
 ## lists
 **"Record" (1982) — Scaruffi 1980s** : #47, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

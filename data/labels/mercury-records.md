@@ -18,17 +18,17 @@
 **Quincy Jones's Executive Role** : In 1961, Mercury Records, impressed with Quincy Jones's work for their French subsidiary, promoted him to the title of Vice President at Mercury U.S., a historic move making him the first black upper-level executive at a major U.S. recording company. "Mercury Records, impressed with his work for their French subsidiary, promoted Quincy to the title of Vice President at Mercury U.S., making him the first black upper-level executive at a major U.S. recording company." ← Hit Parade Music History and Music Trivia > I Wanna Rock with Q. Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f06154465cd600c5440
 **Space Oddity Release & US Tour** : David Bowie signed with Mercury Records, which rushed the release of the "Space Oddity" single in 1969 to capitalize on the Apollo 11 moon landing. In 1971, Mercury also sent Bowie on a US tour in an attempt to break him in America, where he charmed the press and gathered new ideas from artists like Lou Reed and Iggy Pop. "After Bowie signed to Major Label Mercury Records, they rushed release the single to capitalize on that summer's excitement over the Apollo 11 moon landing..." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 1 | https://shows.acast.com/hit-parade/episodes/696aa42a4796fcbb571adba7
 **Target of "Mercury Poisoning"** : Mercury Records was the subject of Graham Parker's "thinly veiled screed" titled "Mercury Poisoning," which was released as a final "kiss off" to the label. "As a final kiss off to the label, Parker recorded the single Mercury Poisoning, a thinly veiled screed." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**Target of Graham Parker's "Mercury Poisoning"** : Mercury Records was the record label dissed by New Wave rocker Graham Parker in his song "Mercury Poisoning." "New Wave Rocker and so-called Angry Young Man Graham Parker, dist his record label Mercury on the Asurbic Butt Catchy Mercury Poisoning." ← Hit Parade Music History and Music Trivia > Here’s the Beef Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef3154465cd600c4ef5
 
 ## artists
 - David Bowie
 - Graham Parker
 - Hugo and Luigi
-- Leslie Gore
+- Lesley Gore
 - Little Richard
 - Mother Love Bone
-- Norm O'Dam
+- The Legendary Stardust Cowboy
 - Quincy Jones
 - Rush
 - The Penguins
 - The Platters
-

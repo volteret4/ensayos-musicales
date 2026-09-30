@@ -6,6 +6,6 @@
 **1970s Crossover Hits** : The 1970s were characterized by numerous country pop and country rock crossover hits, indicating that country music was already moving towards a broader appeal long before "Urban Cowboy" was released. "A decade littered with examples of country pop or country rock crossover hits." ← For the Record - The 70s > Ep. 28 - Soundtracks of the 70s | https://seventies.libsyn.com/028-soundtracks-of-the-70s-12221-5-45-pm
 
 ## artists
-- Charlie Pride
+- Charley Pride
 - Elvis Presley
 

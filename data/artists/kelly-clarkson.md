@@ -1,9 +1,17 @@
 # artist - Kelly Clarkson
 
+## genres
+- Indie Rock
+- Pop
+
 ## songs
-**All I Want for Christmas Is You (Cover)** : Kelly Clarkson is noted as one of the many artists who have covered Mariah Carey's iconic Christmas song. "It's been covered about a zillion times. Kelly Clarkson" ← https://www.youtube.com/watch?v=nYPGQiDL5bw ← kelly-clarkson
+**A Moment Like This (2002)** : This song was Kelly Clarkson's "idol coronation song," released in October 2002, barely a month after she won the first season of "American Idol." It debuted in the middle of the Hot 100, charted entirely on radio airplay for two weeks, and then hurtled from number 52 to number one in its third week, beating The Beatles' record for the biggest leap to the top. This marked a unique entry for an "American Idol" winner, as she was popular enough to get early radio spins, preventing an instant number one debut based solely on sales. "Clarkson's idol coronation song, A Moment Like This, debuted in the middle of the hot 100." ← Hit Parade Music History and Music Trivia > Toppermost of the Poppermost Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef60c30a1408dc29358
+**All I Want for Christmas Is You** : Kelly Clarkson is noted as one of the many artists who have covered Mariah Carey's iconic Christmas song. "It's been covered about a zillion times. Kelly Clarkson" ← https://www.youtube.com/watch?v=nYPGQiDL5bw ← kelly-clarkson
+**Since U Been Gone (2005)** : This smash hit was co-written and produced by Max Martin and Dr. Luke. It notably "grafted Indy Rock style onto Pure Pop" and was originally offered to Pink, who ultimately turned it down. "Kelly Clarkson's smash since you've been gone, which grafted Indy Rock style onto Pure Pop." ← Hit Parade Music History and Music Trivia > Raise Your Glass Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f708e6dd12efb02f1ac
 
-
+## curiosities
+**First American Idol Winner** : Kelly Clarkson was the first and most celebrated winner of "American Idol" in October 2002. Ironically, she was the only finalist from the first five seasons who did not debut at number one, as her song "A Moment Like This" charted first on radio airplay before leaping to the top. "the show's first and most celebrated winner, Kelly Clarkson." ← Hit Parade Music History and Music Trivia > Toppermost of the Poppermost Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef60c30a1408dc29358
+**Legitimate Music Star** : Kelly Clarkson went on to become a "legitimate music star" after her "American Idol" victory. However, her subsequent hits, unlike those from the Idol-driven number one debut wave, had to climb the charts "the old fashioned way," rather than debuting instantly at the top. "Kelly Clarkson and Carrie Underwood went on to become legitimate music stars." ← Hit Parade Music History and Music Trivia > Toppermost of the Poppermost Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef60c30a1408dc29358
 
 ## awards
 **Teen Choice Award for Choice Music – Female Artist (2003)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q24904766

@@ -1,7 +1,7 @@
 # artist - Thursday
 
 ## members
-- Jeff Rickley
+- Geoff Rickly
 
 ## genres
 - Emo
@@ -16,8 +16,6 @@
 **Epilepsy Mention** : Jeff Rickley of the Screamo band Thursday is mentioned as a musician who lives with epilepsy. "Jeff Ricley of the Screamo Ben Thursday" ← https://www.youtube.com/watch?v=uzIMWVbi-GM ← thursday ← thursday
 **Late 90s Emo Band** : Thursday is listed among the emo bands that came to prominence later in the 1990s, as the genre started to break through. "and later in the decade we heard from taking back Sunday, Thursday, the promise ring, and saves the day." ← https://www.youtube.com/watch?v=mAlc-N2wn5s ← thursday ← thursday
 **Major Label Courtship** : Thursday was signed by Island Records during a time when major labels were actively scouting the aggressive music scene for new talent. This marked a significant period of industry interest in the genre. "And then that was what kind of when Island came in and signed Thrice in Thursday and this whole like the entire music industry was looking for something else." ← https://www.youtube.com/watch?v=nEPT8ZVZ0so ← thursday
-
-
 
 ## lists
 **"No Devolucion" (2011) — Sputnikmusic Best Albums 2011** : #56, 4.09 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2011/

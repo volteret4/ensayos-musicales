@@ -6,6 +6,6 @@
 **Sid Vicious Incidents (1976)** : The festival was infamous for incidents involving Sid Vicious, who was then the drummer for Susie in the Band Sheets. On the first night, he "savagely beat up" a well-known music journalist, allegedly involving a bicycle chain. On the second night, he was arrested for throwing a beer glass that hit a girl in the face and blinded her in one eye. "He hit a girl in the face and blinded her in one eye." ← https://www.youtube.com/watch?v=wYuNolSDLFM ← 100-club-punk-rock-festival ← 100-club-punk-rock-festival
 
 ## artists
-- Susie in the Band Sheets
+- Siouxsie and the Banshees
 - The Clash
 

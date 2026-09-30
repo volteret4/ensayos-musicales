@@ -1,0 +1,4 @@
+# artist - Tobias Jesso Jr.
+
+## curiosities
+**Album Produced by Patrick Carney** : Patrick Carney produced an album for Tobias Gesso Jr., adding to his growing list of production credits. "and Tobias Gesso Jr." ← https://www.youtube.com/watch?v=PmwfC4HR3_I ← tobias-gesso-jr

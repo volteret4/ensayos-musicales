@@ -2,17 +2,15 @@
 
 ## members
 - Chris Hillman
-- Chris Hillman (former member)
 - David Crosby
-- David Crosby (fired)
 - Gene Clark
 - Gram Parsons
-- Gram Parsons (former member)
-- Michael Clarke (drummer)
+- Michael Clarke
 - Roger McGuinn
 
 ## genres
-- Country Rock (influence)
+- Country Rock
+- Folk Pop
 - Folk Rock
 - Pop
 - Powerpop
@@ -31,6 +29,7 @@
 
 ## songs
 **Jesus Is Just Alright (1969)** : The Byrds covered Art Reynolds' gospel song "Jesus Is Just Alright" in 1969. This version served as the inspiration for The Doobie Brothers' 1972 cover, rather than the original 1966 rendition. "The birds covered it in 1969 and that is the version that the Dubie Brothers knew up when they recorded the song in 1972." ← For the Record - The 70s > Ep. 32 - Take Me to Church - Religion in 70s Popular Music | https://seventies.libsyn.com/ep-32-take-me-to-church-religion-in-70s-popular-music ← the-byrds
+**Mr. Tambourine Man (1965)** : The Byrds' chiming folk-pop version of Bob Dylan's song, recorded just weeks after Dylan's non-single release. Their rendition quickly ascended to number 1 on the Hot 100, marking Bob Dylan's only chart-topper as a songwriter. "the birds recorded their chiming folk pop version and took it to number 1." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
 
 ## curiosities
 **American Influence** : The Byrds are revered by classic rock and pop fans as a significant American band from the era that influenced the development of Powerpop. They contributed to the foundational sound that would later be recognized as Powerpop. "The Birds, two bands that are still revered by classic rock and pop fans." ← https://www.youtube.com/watch?v=hstJ8M2laho ← the-byrds ← the-byrds
@@ -39,8 +38,6 @@
 **Influence on Space Oddity Sound** : The Byrds were pioneers of psychedelic folk and folk rock whose "trippy grooves" echoed in David Bowie's "Space Oddity." This sound, combined with British Folk and Bee Gees-style storytelling, marked Bowie's move away from Mod Rock towards a new phase. "His new sound echoed not only the trippy grooves of folk rock pioneers like the Birds and Donovan." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 1 | https://shows.acast.com/hit-parade/episodes/696aa42a4796fcbb571adba7
 **Paisley Underground Influence** : The Byrds' California-style psychedelic music from the 1960s was foundational for the American Neo-Psych scene known as the Paisley Underground. "These groups dug into California-style psych from the 60s, advancing the sounds first put forward by the birds and love, another important California band from back in the day." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4 ← the-byrds
 **Shared Members with Country Rock Pioneers** : Chris Hillman and Gram Parsons, both former members of The Byrds, went on to form The Flying Burrito Brothers, pioneers of country rock. Michael Clarke, the drummer for The Byrds, also became a drummer for The Flying Burrito Brothers and a founding member of Firefall. "The Flying Burrito Brothers, a band that was formed by former members of the birds, Chris Hillman and Graham Parsons in Southern California in 1968 are country rock pioneers." ← For the Record - The 70s > Ep. 49 - Austin City Limits and the 70s Country Music Revolution | http://ftr70.com
-
-
 
 ## awards
 **Grammy Award for Best New Artist (1966)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643

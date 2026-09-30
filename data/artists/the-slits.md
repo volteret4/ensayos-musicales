@@ -1,8 +1,7 @@
 # artist - The Slits
 
 ## members
-- Ari Up (singer)
-- Four teenage women (unnamed)
+- Ari Up
 
 ## genres
 - Funk
@@ -11,8 +10,6 @@
 - Punk Rock
 - Reggae
 - Reggae influenced punk
-- funk
-- punk rock
 
 ## labels
 - Island Records
@@ -23,11 +20,11 @@
 
 ## albums
 **Cut (1979)** : Released in 1979 on Island Records, this album became a significant touchstone for many involved in the first wave of British punk music. "And in 1979, they released a record called Cut on Island Records, which became an important touchstone for many people during that first wave of British punk." ← https://www.youtube.com/watch?v=XjQiZqpmQlE ← the-slits ← the-slits
-**Cut (1979) - British Punk Touchstone** : Released in 1979 on Island Records, "Cut" became an important touchstone album for many people during the first wave of British punk. Though they wrote most of their own material, their biggest song on the album was a cover of a Marvin Gaye track. "And in 1979, they released a record called Cut on Island Records, which became an important touchstone for many people during that first wave of British punk." ← https://www.youtube.com/watch?v=vV1APhjBt9M ← the-slits ← the-slits
+**Cut (1979)** : Released in 1979 on Island Records, "Cut" became an important touchstone album for many people during the first wave of British punk. Though they wrote most of their own material, their biggest song on the album was a cover of a Marvin Gaye track. "And in 1979, they released a record called Cut on Island Records, which became an important touchstone for many people during that first wave of British punk." ← https://www.youtube.com/watch?v=vV1APhjBt9M ← the-slits ← the-slits
 
 ## songs
-**I Heard It Through the Grapevine (1979) - Marvin Gaye Cover** : This Marvin Gaye cover became The Slits' biggest song on their 1979 album "Cut." Despite writing most of their own material, their distinctive interpretation of this classic track achieved significant recognition within the British punk scene. "And although they wrote most of their own material, their biggest song was this Marvin Gaye Cover." ← https://www.youtube.com/watch?v=vV1APhjBt9M ← the-slits ← the-slits
-**Marvin Gaye Cover (1979)** : This cover of a Marvin Gaye song was The Slits' biggest song, released in 1979, although the specific title of the Marvin Gaye track is not mentioned. "And although they wrote most of their own material, their biggest song was this Marvin Gay Cover. The slits from 1979 never heard what Marvin Gay thought of that version." ← https://www.youtube.com/watch?v=XjQiZqpmQlE ← the-slits ← the-slits
+**I Heard It Through the Grapevine (1979)** : This Marvin Gaye cover became The Slits' biggest song on their 1979 album "Cut." Despite writing most of their own material, their distinctive interpretation of this classic track achieved significant recognition within the British punk scene. "And although they wrote most of their own material, their biggest song was this Marvin Gaye Cover." ← https://www.youtube.com/watch?v=vV1APhjBt9M ← the-slits ← the-slits
+**I Heard It Through the Grapevine (1979)** : This cover of a Marvin Gaye song was The Slits' biggest song, released in 1979, although the specific title of the Marvin Gaye track is not mentioned. "And although they wrote most of their own material, their biggest song was this Marvin Gay Cover. The slits from 1979 never heard what Marvin Gay thought of that version." ← https://www.youtube.com/watch?v=XjQiZqpmQlE ← the-slits ← the-slits
 
 ## curiosities
 **All-Female English Punk Pioneers** : The Slits were an all-female English band who were contemporaries of influential punk bands like The Sex Pistols and The Clash. They served as an initial inspiration for the Riot Grrrl movement, being among the female pioneers of punk and post-punk. "That would include the slits, an all-female English band, who were contemporaries of the sex pistols in the clash." ← https://www.youtube.com/watch?v=Qss5kC2FUx0 ← the-slits
@@ -39,12 +36,10 @@
 **Embrace of Reggae** : Ari Up developed a taste for reggae in 1977, which was a radical choice at the time, but reggae's influence was growing due to Jamaican immigration to Britain, fostering a mixing of cultures and music. "Ari developed a taste for reggae. And this is more radical than it sounds right now. See today, reggae and scott, that's everywhere, right? Not so in 1977, but that was changing thanks to the political and economic situation in Jamaica." ← https://www.youtube.com/watch?v=9uTORLOm5Yg ← the-slits
 **Evolving Sound Towards Funk** : As The Slits continued to play, their musical abilities grew, leading to deeper grooves and more funky rhythms in their sound. This evolution showcased their development beyond the raw energy of early punk. "And the more they played, the better they got. The grooves got deeper and the rhythms more funky." ← https://www.youtube.com/watch?v=vV1APhjBt9M ← the-slits ← the-slits
 **Formation and Punk Ethos** : The Slits were formed by four teenage women in London after repeatedly encountering each other at early punk shows. Despite their initial lack of musical proficiency, their primary focus was on self-expression and the courage to articulate their ideas, embodying the core principles of punk rock. "Four teenage women who decided to form a band after seeing each other again and again and again at early punk shows around London. They decided to form their own band." ← https://www.youtube.com/watch?v=XjQiZqpmQlE ← the-slits ← the-slits
-**Formation in London Punk Scene** : The Slits formed in London, comprised of four teenage women who repeatedly encountered each other at early punk shows in the city. Their decision to form a band was driven by a desire for expression, even though they initially lacked proficiency on their instruments. "The slits, four teenage women who decided to form a band after seeing each other again and again and again at early punk shows around London." ← https://www.youtube.com/watch?v=vV1APhjBt9M ← the-slits ← the-slits
+**Formation and Punk Ethos** : The Slits formed in London, comprised of four teenage women who repeatedly encountered each other at early punk shows in the city. Their decision to form a band was driven by a desire for expression, even though they initially lacked proficiency on their instruments. "The slits, four teenage women who decided to form a band after seeing each other again and again and again at early punk shows around London." ← https://www.youtube.com/watch?v=vV1APhjBt9M ← the-slits ← the-slits
 **Funk Basslines in Early Alt-Rock** : The Slits are cited as an example of a band from the original punk rock days that incorporated "funk sounds" into their music, specifically through their bass lines, laying groundwork for later fusions. "Just go back and listen to the bass lines of songs from bands like The Slits or Publicly Wage Limited, Gang of Four, The Bad Brains, Early Red Hot Chili Peppers." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← the-slits ← the-slits
 **Funk Presence in Punk** : The Slits, similar to The Pop Group, maintained a constant funk presence in their punk sound, exploring the danceable side of post-punk with a focus on bass and rhythm. "al igual que The Slits." ← La traición que salvó al punk. PiL | https://www.youtube.com/watch?v=YzQ6o-FgxSY
 **Punk Pioneers** : Members of The Slits were pioneers who embraced punk rock values, contributing to the movement's ethos of self-expression irrespective of gender or background. "Suzy Su, of Suzy in the Banshee's, members of the Slitz, Pauli Styrene of X-Ray Specks, Chrissy Hinder, the Pretenders, Patty Smith, and so many more. They were all pioneers and they all inspired many people, women, but also men, to do what they did." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← the-slits ← the-slits
-
-
 
 ## lists
 **"Cut" (1979) — 1001 Albums You Must Hear Before You Die** : #440.

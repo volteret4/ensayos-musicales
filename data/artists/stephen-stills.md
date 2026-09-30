@@ -4,12 +4,13 @@
 - Crosby, Stills, Nash & Young
 
 ## songs
+**As I Come Of Age (1972)** : The Pointer Sisters covered this song on their *Energy* album, part of producer Richard Perry's strategy to move them towards a more rock-adjacent sound. "And Stephen Stilzes as I come of age." ← Hit Parade Music History and Music Trivia > Yes We Can Can Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f6364fe6d21276e3fdd
 **Carry On (1970)** : He wrote this song, the lead cut from the album *Déjà Vu*, as a message to his bandmates in Crosby, Stills, Nash & Young, intending to help them navigate "loss of relationships." "The song was written by Stephen stills as a message to the band as they tried to navigate through loss of relationships." ← For the Record - The 70s > Ep. 51 - The Softer Side of 70s Rock | https://seventies.libsyn.com/ep-51-the-softer-side-of-70s-rock ← stephen-stills
+**Carry On (1970)** : He wrote this song, the lead cut from the album *Déjà Vu*, as a message to his bandmates in Crosby, Stills, Nash & Young, intending to help them navigate "loss of relationships." "The song was written by Stephen stills as a message to the band as they tried to navigate through loss of relationships." ← For the Record - The 70s > Ep. 51 - The Softer Side of 70s Rock | https://seventies.libsyn.com/ep-51-the-softer-side-of-70s-rock
 
 ## curiosities
 **Missed Monkees Audition** : Stephen Stills auditioned for a part in The Monkees, but was not selected, purportedly due to issues with his teeth and hair. "In fact, if Stephen Stills had better teeth and thicker hair, he might have been a monkey because he actually auditioned for a part and supposedly those were the reasons why he was not selected." ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum ← stephen-stills
-
-
+**Missed Monkees Audition** : Stephen Stills auditioned for a part in The Monkees, but was not selected, purportedly due to issues with his teeth and hair. "In fact, if Stephen Stills had better teeth and thicker hair, he might have been a monkey because he actually auditioned for a part and supposedly those were the reasons why he was not selected." ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum
 
 ## awards
 **"Spirit of Americana" Free Speech Award (2013)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q96586004

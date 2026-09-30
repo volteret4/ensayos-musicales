@@ -16,3 +16,5 @@
 **Rising Market Share** : The market share for indie labels has been increasing by double digits for nearly 25 years. "The market share for indie labels has been rising by double digits for almost 25 years now." ← Ongoing History of New Music > The History of the 2010s Part 2： The Role of Indie Rock | https://www.youtube.com/watch?v=sOU54d8mr5k&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **UK Dominance in Early 1990s** : At the beginning of the 1990s, The Stone Roses were recognized as the biggest Indie band in the UK, signaling the genre's significant popularity and influence during that specific period. "At the beginning of the 1990s the biggest Indie band in the UK was the Stone Roses." ← Ongoing History of New Music > Legendary Gigs | https://www.youtube.com/watch?v=qC0Ee4-dpnI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
+## artists
+- R.E.M.

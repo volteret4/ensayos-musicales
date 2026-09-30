@@ -82,10 +82,9 @@
 ## artists
 - Aphex Twin
 - Autechre
-- Autobahn de moral crossing
 - Björk
 - Carl Craig
-- Crabwork
+- Kraftwerk
 - Daft Punk
 - Derrick May
 - Eddie Fowlkes
@@ -94,12 +93,12 @@
 - Jeff Mills
 - John Frusciante
 - Juan Atkins
-- Juanáxia
 - Kenny Larkin
 - Kevin Saunderson
 - Madonna
 - Nitzer Ebb
 - Robert Hood
-- Socomo Anderran resistan
+- Underground Resistance
 - Underworld
-
+- David Bowie
+- Donna Summer

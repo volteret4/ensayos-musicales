@@ -6,6 +6,6 @@
 
 ## artists
 - Bad Gyal
-- Kai Mani Marley
+- Ky-Mani Marley
 - Rosalía
-
+- Shaggy

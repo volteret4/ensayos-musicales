@@ -7,5 +7,5 @@
 - Cab Calloway
 - Fats Waller
 - Louis Jordan
-- Slim Gaylord
+- Slim Gaillard
 

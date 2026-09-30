@@ -7,6 +7,6 @@
 **The Tragically Hip Record Deal Showcase** : The Tragically Hip showcased their material at the Horseshoe Tavern in Toronto, a performance that led to their signing with MCA Records. "The tragically hip was signed to MCA Records after they showcased their stuff at the horseshoe tavern in Toronto." ← https://www.youtube.com/watch?v=oMBmdfrA47Q ← horseshoe-tavern
 
 ## artists
-- 5440
+- 54-40
 - The Tragically Hip
 

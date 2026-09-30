@@ -6,4 +6,5 @@
 
 ## artists
 - Neil Peart
-
+- OutKast
+- Cab Calloway

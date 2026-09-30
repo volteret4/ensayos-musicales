@@ -12,10 +12,9 @@
 ## artists
 - AJR
 - Alt J
-- Alt-J
 - Barenaked Ladies
 - Nerf Herder
-- Pixies
+- The Pixies
 - Public Service Broadcasting
 - The Decemberists
 - They Might Be Giants

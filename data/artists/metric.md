@@ -9,7 +9,7 @@
 - Indie Rock
 
 ## labels
-- Independent (self-run)
+- Independent
 
 ## concerts
 - Twilight Soundtracks
@@ -19,8 +19,8 @@
 **Synthetica (2012)** : Metric's album "Synthetica" released in 2012, featured a collaboration with Lou Reed on the song "The Wanderlust." "That following year, he collaborated with Metric on a song called The Wanderlust from their synthetic album." ← https://www.youtube.com/watch?v=LP8NGDCe-GY ← metric ← metric
 
 ## songs
-**Help I'm Alive (2009)** : This song served as an A-side, with its B-side being "Help I'm a B-side." This pairing illustrates artists engaging in playful commentary about the B-side concept during the album era when B-sides received less respect. "The B side to metrics help I'm alive is help I'm a B side." ← https://www.youtube.com/watch?v=QBCEmZ4Jheo ← metric
 **Help I'm a B-side (2009)** : This track was the B-side to Metric's "Help I'm Alive." Its title directly references its status as a B-side, playfully acknowledging the diminishing respect for the format during the album era. "The B side to metrics help I'm alive is help I'm a B side." ← https://www.youtube.com/watch?v=QBCEmZ4Jheo ← metric
+**Help I'm Alive (2009)** : This song served as an A-side, with its B-side being "Help I'm a B-side." This pairing illustrates artists engaging in playful commentary about the B-side concept during the album era when B-sides received less respect. "The B side to metrics help I'm alive is help I'm a B side." ← https://www.youtube.com/watch?v=QBCEmZ4Jheo ← metric
 **The Wanderlust (2012)** : This song, from Metric's 2012 album "Synthetica," was a collaboration with Lou Reed. "That following year, he collaborated with Metric on a song called The Wanderlust from their synthetic album." ← https://www.youtube.com/watch?v=LP8NGDCe-GY ← metric ← metric
 
 ## curiosities
@@ -34,10 +34,5 @@
 **Support for Other Female Artists** : Emily Haines and James Shaw have extended their influence by supporting other female artists. In 2017, they collectively produced the debut album for the band Beaches, a collaboration that helped Beaches establish themselves as a significant force in Canadian rock. "I should point out that Emily and James Shaw have paid it forward when it comes to helping out other female artists. They collectively produce the debut album for Beaches in 2017, which helped them become a real force in Canadian rock." ← https://www.youtube.com/watch?v=11UsTJQyQds ← metric ← metric
 **Twilight Soundtracks Contribution** : Metric contributed to the various *Twilight* soundtracks that accompanied the film series. These soundtracks featured a nice selection of tunes, mostly album cuts and outtakes, from a range of artists spanning different genres. "The Paramore, Lincoln Park, Collective Soul, Death Cab for Cutie, Tom York, the Killers, Editors, Metric, Block Keys, Dead Weather, Beck, Vampire Weekend, Florence in the Machine." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← metric
 
-
-
 ## awards
 **CASBY Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5008850
-
-## charts
-**"473" — NME Chart** : 16 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

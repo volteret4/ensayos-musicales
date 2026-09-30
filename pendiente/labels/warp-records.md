@@ -7,5 +7,4 @@
 
 ## artists
 - Boards of Canada
-- Clark
 

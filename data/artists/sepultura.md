@@ -2,15 +2,13 @@
 
 ## genres
 - Heavy Metal
-- Rock (Duro)
+- Rock
 
 ## albums
-**Chaos A.D. (Extended Reissue) (October 6)** : This is an extended re-edition of *Chaos A.D.*, one of Sepultura's emblematic and most recognized albums. It includes unreleased tracks, B-sides, and other related material that surrounded the original album. "redita el Chaos A.D, es uno de los álbumes emblemáticos del grupo sepultura y el Chaos A.D que es uno de los álbumes más conocidos, más sale una inversión extendida con temas inéditos, cosas que han vencido caras B, es un poco con todo lo que había rodeado ese álbum." ← Music Radar Clan > Lanzamientos de Octubre 2017 | https://www.youtube.com/watch?v=q1_bxi16osQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Chaos A.D. (1993)** : This is an extended re-edition of *Chaos A.D.*, one of Sepultura's emblematic and most recognized albums. It includes unreleased tracks, B-sides, and other related material that surrounded the original album. "redita el Chaos A.D, es uno de los álbumes emblemáticos del grupo sepultura y el Chaos A.D que es uno de los álbumes más conocidos, más sale una inversión extendida con temas inéditos, cosas que han vencido caras B, es un poco con todo lo que había rodeado ese álbum." ← Music Radar Clan > Lanzamientos de Octubre 2017 | https://www.youtube.com/watch?v=q1_bxi16osQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## curiosities
 **Marine Worm Species** : The Brazilian heavy metal band Sepultura has a marine worm named after them, signifying their unique recognition in the scientific community. "Sepul Turah, the Brazilian heavy metal band, has won as does King Diamond, so does Lemmy from Motorhead." ← https://www.youtube.com/watch?v=VMPLplhDk8I ← sepultura
-
-
 
 ## awards
 **Brazilian Music Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q10355021

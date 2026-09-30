@@ -19,4 +19,4 @@
 - Randy Newman
 - Tom Waits
 - Tori Amos
-
+- Tracy Chapman

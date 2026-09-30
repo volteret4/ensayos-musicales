@@ -9,7 +9,5 @@
 **Lifestyle Choice** : Unlike some straight-edge hardcore bands, Gang Green was known for members who embraced drugs and alcohol. "Other groups kind of liked their drugs and alcohol, and that included the very fierce gang green." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← gang-green
 **Rejection of Straight Edge Philosophy** : Unlike some Boston hardcore bands influenced by Ian MacKaye's straight edge philosophy, Gang Green was an example of a group that embraced drugs and alcohol. They were known for their fierce approach, in contrast to the "Boston Crew" who policed shows. "Other groups kind of liked their drugs and alcohol. And that included the very fierce gang green." ← https://www.youtube.com/watch?v=0qigzi1j81U ← gang-green
 
-
-
 ## lists
 **"You Got It" (1987) — Scaruffi 1980s** : #436, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

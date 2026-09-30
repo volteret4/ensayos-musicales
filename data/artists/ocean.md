@@ -5,8 +5,7 @@
 
 ## songs
 **Put Your Hand in the Hand (1971)** : This Canadian band scored a number two hit with "Put Your Hand in the Hand" in 1971. "the Canadian band Ocean scored a number two hit with put your hand in the hand." ← For the Record - The 70s > Ep. 32 - Take Me to Church - Religion in 70s Popular Music | https://seventies.libsyn.com/ep-32-take-me-to-church-religion-in-70s-popular-music ← ocean
-
-
+**Put Your Hand in the Hand (1971)** : This Canadian band scored a number two hit with "Put Your Hand in the Hand" in 1971. "the Canadian band Ocean scored a number two hit with put your hand in the hand." ← For the Record - The 70s > Ep. 32 - Take Me to Church - Religion in 70s Popular Music | https://seventies.libsyn.com/ep-32-take-me-to-church-religion-in-70s-popular-music
 
 ## charts
 **"Put Your Hand in the Hand" — Billboard Year-End Hot 100** : #33, 1971. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

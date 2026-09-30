@@ -5,5 +5,5 @@
 **Sued on Book Ram's Behalf** : Mills Music sued when Walter Kent and Kim Gannon released a song through Bing Crosby that bore a strong resemblance to Book Ram's "I'll Be Home for Christmas," successfully securing songwriting credit for Ram on future releases. "His Publishers Mills Music sued, and got VAM credited on future releases." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
 
 ## artists
-- Book Ram
+- Buck Ram
 

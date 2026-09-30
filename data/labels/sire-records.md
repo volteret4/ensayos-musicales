@@ -27,6 +27,9 @@
 **Signing New Wave Talent** : Sire Records played a crucial role in the early New Wave scene, with its head, Seymour Stein, being an ardent supporter of the bands emerging from CBGB, leading to signings like The Ramones and The Pretenders. "The head of the company, a guy named Seymour Stein, was a fan of what was happening at CBGB and had signed a bunch of these new bands, including the Ramones." ← https://www.youtube.com/watch?v=bYsV3ozbk4M ← sire-records
 **Signing of The Ramones** : Seymour Stein, the head of Sire Records, was interested in the Ramones after hearing their demos and seeing them perform at Mothers, a gay bar on 23rd Street, in October 1975. This led to a record deal where the band signed with Sire for $6,000. "Negotiations for a record deal resulted in the band signing to Sire for $6,000." ← https://www.youtube.com/watch?v=j8uk7BnbXwU ← sire-records
 **Success with New Wave Bands (Late 1970s)** : In the late 1970s, Sire Records was having success with influential New Wave groups like The Ramones, Talking Heads, and The Pretenders. "A label which was having success with groups like The Ramones, Talking Head and The Pretenders." ← Episode 113： ＂Needles and Pins＂ by The Searchers | https://www.youtube.com/watch?v=izC9ZBI0UHM
+**Madonna's Debut Album Release (1983)** : Madonna's self-titled debut LP was released on Sire Records in the summer of 1983. "Her self-titled debut LP on Sire Records arrived in the summer of 1983." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef10c30a1408dc291b9
+**Conflict with Geffen Over Singles (1985)** : Sire Records executives engaged in bickering with Geffen over which Madonna songs from the "Vision Quest" soundtrack could be released as singles, ultimately leading to a compromise. "Reportedly, executives at two labels, sire and geffen, bickered with each other over which Madonna songs could be released as singles." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef10c30a1408dc291b9
+**Decision to Withhold "Into the Groove" (1985)** : After the "Vision Quest" dispute, Sire Records made the decision not to issue "Into the Groove" as a single in America, fearing it would divert radio attention from other Madonna releases. Instead, it was placed on the B-side of a 12-inch single, making it eligible only for Billboard's Dance Charts. "In the US, Sire put into the groove on the B-side of a 12-inch single, making it eligible for Billboard's Dance Charts, but not the Hot 100." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef10c30a1408dc291b9
 
 ## artists
 - Belle and Sebastian
@@ -35,12 +38,10 @@
 - Ramones
 - Seymour Stein
 - Talking Heads
-- The Dead Boys
+- Dead Boys
 - The English Beat
 - The Mighty Lemon Drops
 - The Pretenders
-- The Ramones
 - The Searchers
 - The Tragically Hip
 - The Undertones
-

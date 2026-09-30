@@ -91,41 +91,57 @@
 **Transformation by The Smiths** : The Smiths, led by Morrissey, radically transformed the understanding of pop music by elevating its lyrical content. They moved beyond simple melodies and uninspired lyrics, introducing a new depth that included metaphors, strange characters, and fantastical stories, thereby taking pop music to "another level." "pero en la parte pop, que es la música de mayor consumo, tenemos la referencia de Morrisa y de los Smiths, por supuesto, que cambian radicalmente toda esa manera de entender la música pop, como lo díaz muy fáciles, pero con letras que dejan mucho que desean, en la mayoría de los aspectos, algo algunas excepciones, y lleva la música a otro nivel." ← Music Radar Clan > THE SMITHS： Un antes y un después en la forma de componer. | https://www.youtube.com/watch?v=-FV3e3CUHrw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← pop ← pop
 **Trent Reznor's Billboard Record** : Trent Reznor, as co-composer of "34 Ghosts 4," shares the record for the "pop song" with the most weeks at number one on Billboard, referring to Lil Nas X's "Old Town Road." "So yes, Trent Rezner is the co-holder of the record for the pop song, the pop song, with the most weeks at number one on Billboard." ← https://www.youtube.com/watch?v=DKdF8NgF5Bw ← pop
 **Youth Demographic Embrace of Streaming** : People under the age of 25, identified as the "pop and hip hop generation," were the first demographic to widely embrace streaming services. Their preference for these genres contributed to the overwhelming dominance of pop and hip hop in streaming metrics during the 2010s. "The first demo to really embrace streaming were people under the age of 25. And this was the pop and hip hop generation. That was their music." ← https://www.youtube.com/watch?v=mNqqLDpUuZY ← pop ← pop
+**Grammys' Foundational Bias (1950s)** : The founders of the Grammys explicitly aimed to "clean up and gentrify pop" and reward "traditional pop values," often excluding more contemporary or "hip" forms of pop music. "Something espousing traditional pop values, a little less hip." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
+**Shift from Singles to Albums (Late 1960s)** : The album "Sergeant Pepper's Lonely Hearts Club Band" by The Beatles was a "seminal" force in the "shift of pop promotion from singles to albums," marking a significant evolution in the pop music industry. "Moreover, as seminal as that LP was in the shift of pop promotion from singles to albums, Sergeant Pepper also seemed to bring the Grammys somewhat up to date." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
+**"Softer" Mainstream in the 1970s** : The pop mainstream in the 1970s was characterized as "softer," with records like Simon & Garfunkel's "Bridge Over Troubled Water" and Carole King's "Tapestry" being "mellow and easy to like," making it easier for the Recording Academy to align with popular trends. "But to give the recording Academy some meager credit, they stopped avoiding youth directed pop records. Of course, it was easier to be on trend when the Pop mainstream sounded like this." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
+**Monocultural Dominance in the 1980s** : The 1980s were characterized by "monocultural Grammy winning albums," where popular, consensus recordings frequently took big prizes, reflecting a period of broader mainstream agreement in pop music. "The 80s too was a decade dominated by monocultural Grammy winning albums." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
+**Accessible to Diverse Audiences** : Olivia Newton-John's music, while serving country, was also very accessible to pop audiences, contributing to the "pop incursion" controversy in Nashville. "Olivia's music was serving country, but it was accessible to pop audiences as well." ← Hit Parade Music History and Music Trivia > Country Roads and Summer Nights Edition Part 1 | https://shows.acast.com/hit-parade/episodes/698fd3ebd6c27a06bb92e1f2
+**Hybridization of Hip Hop and Pop Rock in Diss Tracks (2005)** : Gwen Stefani's "Hollaback Girl" exemplified the "hybridization of hip hop beef with pop rock sass," incorporating "the syncopation and shit talk of rap crossed with a white girl cheerleader chant." This indicated a culmination of the trend where pop acts adopted hip hop elements for diss records. "Gwen's diss track had the syncopation and shit talk of rap crossed with a white girl cheerleader chant." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+**Normalization of Diss Tracks by Pop/R&B Singers (Late 2000s)** : By the end of the 2000s, it had become normalized for pop and R&B singers to "sling hatred in a song about a star the way a rapper might." This indicated a significant shift in mainstream music culture's acceptance of diss records, moving beyond hip hop's traditional domain. "By the end of the Aughts, nobody batted an eye if a pop or R&B singer wanted to sling hatred in a song about a star the way a rapper might." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+**1984 as "Pop's Greatest Year"** : Rolling Stone magazine referred to 1984 as "Pops Greatest Year," highlighting that the year's biggest hit, Prince's "When Doves Cry," was also its most visionary. "Rolling Stone ranking of the greatest hits of what the magazine called Pops Greatest Year, they said of this song, quote, the year's biggest hit was also its most visionary." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce81
+**Auto-Tune's Impact (Late 1990s)** : Cher's "Believe" was the song that "broke auto tune for The Masses," and its "wobbling voice" due to a studio accident changed the sound of pop for the decade following 1999. "This song's wobbling voice changed the sound of pop for the next decade." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce81
+**Sting's Mass Appeal Pop** : Despite his high-art aspirations and complex lyrics, Sting possessed an "uncanny knack for accessible, catchy, even schlocky pop melodies," which was his true gift and allowed him to deliver mass appeal pop that kept him on the charts for decades. "But for all his high-art affections, Sting's real gift was delivering mass appeal pop that kept him on the charts well into the 90s." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
+**Digital Era Eclecticism** : In the digital era of pop, an "eclectic genre-crossing music was considered normal by a millennial audience." This contrasts sharply with the criticism faced by artists like Lenny Kravitz in earlier eras dominated by baby boomer-rock critics for similar stylistic borrowings. "Mars came up in the digital era of pop, when eclectic genre-crossing music was considered normal by a millennial audience." ← Hit Parade Music History and Music Trivia > Lenny on Mars Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f54d1ba84fb8f0463bf
+**Shift to Disco (Late 1970s)** : By the late 1970s, Pop, alongside R&B, had largely transitioned to the sounds of disco, creating a new landscape for artists. "By the late 70s, both R&B and Pop had moved on to the sounds of disco." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Second Chance Hits** : Pop chart history includes numerous "second chance hits" where singles initially flopped or did nothing on the charts upon first release, only to become smashers later due to a catalyst such as a movie, increased artist fame, a radio DJ, or a social meme. "singles that did nothing or even flopped on the charts on first release, before a catalyst, a movie, a boost in artist fame, a radio DJ, a social meme, turn them into smashers." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c42e
+**Fleetwood Mac's Mid-Career Shift** : After the experimental "Tusk," Fleetwood Mac consciously returned to "Centrist Pop recording" with their 1982 album "Mirage." The band was described as the "Kings and Queens of Co-Ed, California's Style Pop," signaling a more accessible sound. "Fleetwood Mac's 1982 return to Centrist Pop recording after the experimental Tusk." ← Hit Parade Music History and Music Trivia > Thinking About Tomorrow Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eefd1ba84fb8f044795
+**Sample-based Pop Songs** : "Fantasy" by Mariah Carey was one of the first sample-based pop songs to top the Hot 100, marking a significant moment in the genre's evolution and chart history in September 1995. This indicated a growing trend of incorporating sampling into mainstream pop music to achieve chart success. "It was one of the first sample based pop songs to top the hot 100." ← Hit Parade Music History and Music Trivia > Toppermost of the Poppermost Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef60c30a1408dc29358
+**1984 as "Pop's Greatest Year"** : Rolling Stone magazine, in September 2014, published a feature titled "100 best singles of 1984, pop's greatest year," explicitly calling 1984 the "greatest year" for pop music. The article and broader critical consensus argued that 1984 was exceptional for pop as a centralizing force where rock, R&B, dance, country, and hip hop all found a place on the radio. "Rolling Stone boldly titled the countdown 100 best singles of 1984, pop's greatest year." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
+**The High Watermark of Contemporary Hits Radio (CHR)** : The two-year period of 1983-1984 was considered by radio consultant Sean Ross and many programmers, critics, and chart fans as the "high watermark" of contemporary hits radio (CHR). This era was seen as the peak for music that appealed broadly across genres and demographics. "Ross took it as a given that this two year duopoly was the high watermark of contemporary hits radio or CHR." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
 
 ## artists
-- 'N Sync
+- NSYNC
 - ABBA
-- Abba
 - Adele
 - Amy Grant
 - Andy Kim
-- Ann Murray
+- Anne Murray
 - Aretha Franklin
 - Avril Lavigne
 - Backstreet Boys
 - Bad Religion
-- Barbara Mandrel
+- Barbara Mandrell
 - Barbra Streisand
-- Barry Gordy Jr.
+- Berry Gordy
 - Barry Manilow
 - Bay City Rollers
 - Bee Gees
-- Benny King
+- Ben E. King
 - Berlin
 - Bill Black
 - Billie Eilish
-- Billy Ward and his Dominoes
+- Billy Ward and His Dominoes
 - Blondie
 - Bob Wills
 - Bob Wills and His Texas Playboys
-- Bobby Gentry
-- Bobby Jean Hall
+- Bobbie Gentry
+- Bobbye Hall
 - Bobby Sherman
 - Bobby Vee
 - Brian Wilson
 - Britney Spears
 - Bronski Beat
-- Can
+- CAN
 - Carl Perkins
 - Carly Rae Jepsen
 - Carole King
@@ -133,24 +149,24 @@
 - Charlie Rich
 - Cheap Trick
 - Chris Cornell
-- Christine McVie (née Perfect)
+- Christine McVie
 - Chuck Berry
 - Coldplay
 - Commodores
 - Crosby, Stills, Nash & Young
-- David Botrell
+- David Bottrill
 - David Bowie
 - David Cassidy
 - Debbie Gibson
 - Diana Ross
-- Dina Shore
+- Dinah Shore
 - Dolly Parton
-- Donnie Hathaway
-- Donnie Osmond
+- Donny Hathaway
+- Donny Osmond
 - Dorian Electra
-- Dr. Hook & The Medicine Show
+- Dr. Hook & the Medicine Show
 - Duran Duran
-- Earth Wind & Fire
+- Earth, Wind & Fire
 - Ed Sheeran
 - Edwin Hawkins Singers
 - Elton John
@@ -158,22 +174,21 @@
 - Elvis Presley
 - Fall Out Boy
 - Fats Domino
-- Fifi Dobbson
+- Fefe Dobson
 - Fiona Apple
 - Fleetwood Mac
-- Frankie Valli and The Four Seasons
+- The Four Seasons
 - Freddie Fender
 - George Benson
 - George Harrison
 - George W. Johnson
-- Glenn Campbell
+- Glen Campbell
 - Gorillaz
 - Greg Alexander
 - Halsey
 - Happy Mondays
-- Holland, Dozier and Holland
+- Holland–Dozier–Holland
 - Huey Lewis
-- Husker Dü
 - Hüsker Dü
 - Ian Thornley
 - Imagine Dragons
@@ -181,14 +196,14 @@
 - James
 - Janet Jackson
 - Jay and the Americans
-- Jerry Lieber and Mike Stoller
+- Leiber and Stoller
 - Jesse Belvin
 - Joe Jackson
 - Joe Meek
 - John Denver
 - John Mellencamp
 - Johnny Nash
-- Johnny Ray
+- Johnnie Ray
 - Joni Mitchell
 - Jose Feliciano
 - Julio Iglesias
@@ -201,7 +216,7 @@
 - Lana Del Rey
 - Larry Weiss
 - Les Paul
-- Leslie Gore
+- Lesley Gore
 - Lil Nas X
 - Linda Ronstadt
 - Lindsey Buckingham
@@ -212,12 +227,11 @@
 - Lulu
 - Lynn Anderson
 - M.I.A.
-- MIA
 - Madonna
-- Manfred Mann (band)
+- Manfred Mann
 - Maroon 5
 - Martha Reeves
-- Martha and the Van Dellers
+- Martha and the Vandellas
 - Massive Attack
 - Michael Jackson
 - Mickey & Sylvia
@@ -226,47 +240,43 @@
 - Moby
 - Mocedades
 - Moses Sumney
-- NSync
 - Nat King Cole
 - Neil Diamond
 - New Kids on the Block
 - Nick Lowe
-- Nora Jones
 - Norah Jones
 - Norman Greenbaum
 - Ocean
 - Olivia Newton-John
 - P!nk
-- Panic! at the Disco
+- Panic! At The Disco
 - Paramore
 - Paul Anka
-- Pechos Boys
+- Pet Shop Boys
 - Quincy Jones
 - R.E.M.
-- REM
 - Ramones
 - Randy Newman
 - Ray Charles
-- Ray Davis
-- Reba McIntyre
+- Ray Davies
+- Reba McEntire
 - Red Hot Chili Peppers
-- Ricky Lee Jones
+- Rickie Lee Jones
 - Rihanna
-- Robert John "Mut" Lang
+- Robert John "Mutt" Lange
 - Roy Orbison
 - Rupert Holmes
 - Sam Cooke
 - Sarah Vaughan
 - Scotty Moore
 - Shaun Cassidy
-- Sky Suitenam
+- Skye Sweetnam
 - Sophie
 - Spice Girls
 - Stevie Nicks
 - Stiff Little Fingers
-- Susan Aglukark (Aglukark)
-- T-Packs
-- Tegan and Sarah
+- Susan Aglukark
+- Tegan and Sara
 - Terry Jacks
 - The Animals
 - The Archies
@@ -274,7 +284,7 @@
 - The Beach Boys
 - The Beatles
 - The Brothers Johnson
-- The Buzzcocks
+- Buzzcocks
 - The Byrds
 - The Carpenters
 - The Coasters
@@ -289,12 +299,11 @@
 - The Osmonds
 - The Partridge Family
 - The Police
-- The Ramones
 - The Replacements
 - The Shirelles
 - The Smithereens
 - The Smiths
-- The Staples Singers
+- The Staple Singers
 - The Stone Roses
 - The Undertones
 - The Vibrators
@@ -313,4 +322,64 @@
 - Whitney Houston
 - Wild Cherry
 - XTC
-
+- Hootie & the Blowfish
+- Darius Rucker
+- Culture Club
+- MC Hammer
+- Soul Asylum
+- Bonnie Raitt
+- Taylor Swift
+- Frank Sinatra
+- Paul McCartney
+- Cyndi Lauper
+- George Michael
+- Wham!
+- Mariah Carey
+- Alanis Morissette
+- OutKast
+- Bruno Mars
+- Sting
+- Graham Parker
+- Squeeze
+- Madness
+- Dexys Midnight Runners
+- Chaka Khan
+- En Vogue
+- Pebbles
+- D:Ream
+- Kane Brown
+- Ariana Grande
+- Gwen Stefani
+- Justin Timberlake
+- Miley Cyrus
+- Lorde
+- Kitty Wells
+- Wings
+- Ricky Nelson
+- Billy Joel
+- Chicago
+- Bryan Adams
+- Jimmy Gilmer and The Fireballs
+- Daniel Powter
+- Flo Rida
+- Faith Hill
+- Bobby Lewis
+- The Weeknd
+- Donna Summer
+- Giorgio Moroder
+- Pat Benatar
+- Shaggy
+- Kelly Clarkson
+- Daryl Hall & John Oates
+- Miguel
+- Charlene
+- Noah
+- Beyoncé
+- ABC
+- The Jaynetts
+- Carrie Underwood
+- Laura Branigan
+- Billy Idol
+- Sheila E
+- Boy George
+- The Pointer Sisters

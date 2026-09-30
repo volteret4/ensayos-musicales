@@ -9,3 +9,5 @@
 **Murder (1971)** : King Curtis was tragically stabbed to death in the street outside his apartment building in 1971, at the age of 37. The incident occurred during an argument with two individuals who were conducting a drug deal near his door; he had asked them to move because he was trying to carry a heavy air conditioning unit into his building. "King Curtis was stopped to death in the street in 1971 outside his apartment building." ← Episode 68： ＂Yakety Yak＂ by the Coasters | https://www.youtube.com/watch?v=dtMHDD0-oOo
 **Saxophone Solo on "Bessermé Moucho"** : King Curtis contributed a significant saxophone solo that comprised most of the second side of The Coasters' single for the old standard "Bessermé Moucho." "The second side mostly being a King Curtis saxophone solo." ← Episode 68： ＂Yakety Yak＂ by the Coasters | https://www.youtube.com/watch?v=dtMHDD0-oOo
 
+## charts
+**"Soul Twist" — Billboard Year-End Hot 100** : #92, 1962. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

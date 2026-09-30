@@ -7,4 +7,4 @@
 - Damon Albarn
 - Klaus Nomi
 - Noel Coward
-
+- Richard Wagner

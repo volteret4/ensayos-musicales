@@ -16,8 +16,6 @@
 **Influences** : The band is influenced by artists like Sonic Youth and My Bloody Valentine. "So am I saying a classical band influenced by Sonic Youth in my bloody Valentine? That's absolutely what I'm saying." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← mono
 **Recommended Post-Rock Band** : The band is explicitly listed as a recommendation for those wanting to explore post-rock further. "If you want to go deeper, look into bands like Talk Talk, Slint, Barxide Coses, Tortoise, Magwai, Stereolab, Godspeed you, Black Amper, we always keep coming back to them." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← mono
 
-
-
 ## lists
 **"One Step More And You Die" (2003) — Scaruffi 2000s** : #526, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
 **"Walking Cloud and Deep Red Sky, Flag Fluttered and the Sun Shined" (2004) — Sputnikmusic Best Albums 2004** : #135, 4.02 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2004/

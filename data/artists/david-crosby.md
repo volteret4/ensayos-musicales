@@ -5,7 +5,7 @@
 - The Byrds
 
 ## labels
-- Hypnosis Song Fund (as purchaser of publishing rights)
+- Hypnosis Song Fund
 
 ## curiosities
 **Master of Harmonic Arrangement for CSNY** : Recognized as a "musical genius," David Crosby was responsible for arranging most, if not all, of the intricate harmonies on Crosby, Stills, Nash & Young's album *Déjà Vu*. His pioneering harmonic arrangements were crucial in "plant[ing] the seeds for the soft rock boom to come." "he arranged most if not all of the harmonies on this record and in doing so he plants the seeds for the soft rock boom to come." ← For the Record - The 70s > Ep. 51 - The Softer Side of 70s Rock | https://seventies.libsyn.com/ep-51-the-softer-side-of-70s-rock ← david-crosby
@@ -13,8 +13,7 @@
 **Praise for Neil Young's "Ohio"** : David Crosby considered Neil Young's decision to specifically name Richard Nixon in the song "Ohio" as the bravest act he had witnessed in music. Crosby was instrumental in the song's creation, having shown Young the Kent State photo spread in Life magazine, which immediately inspired Young to write the song. "David Crosby said it was the bravest thing he had seen in music." ← For the Record - The 70s > Ep. 5 - Anti-Nixon Songs of the 70s | http://www.ftr70.com
 **Publishing Rights Sale to Hypnosis Song Fund** : David Crosby sold his publishing rights to the Hypnosis Song Fund. "Hypnosis is bought publishing from... David Crosby" ← https://www.youtube.com/watch?v=Pe40SqDrpZ0 ← david-crosby
 **Self-Description as "A Thorough Prick"** : After being fired from The Byrds, David Crosby later described his past self as "a thorough prick," reflecting on his challenging personality. "he was fired from the birds and said later that he was quote a thorough prick." ← For the Record - The 70s > Ep. 51 - The Softer Side of 70s Rock | https://seventies.libsyn.com/ep-51-the-softer-side-of-70s-rock ← david-crosby
-
-
+**Backing Vocals on "Hold My Hand"** : David Crosby provided backing vocals on the re-recording of Hootie & the Blowfish's song "Hold My Hand" for their *Cracked Rear View* album. This contribution by the legendary musician added a notable layer to the track, with the transcript noting "Rest in peace, Mr. Crosby." "For the re-recording of Hold My Hand, Atlantic managed to secure none other than David Crosby to provide backing vocals on the chorus." ← Hit Parade Music History and Music Trivia > A Little Love and Some Tenderness Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f6f64fe6d21276e433e
 
 ## awards
 **Rock and Roll Hall of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191

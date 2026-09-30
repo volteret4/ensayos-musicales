@@ -1,7 +1,6 @@
 # artist - Ted Nugent
 
 ## member of
-- Amboy Dukes
 - The Amboy Dukes
 
 ## genres
@@ -29,8 +28,6 @@
 **Rolling Stone Cover (March 9, 1979)** : Ted Nugent was featured on the cover of Rolling Stone magazine on March 9, 1979, signifying his significant presence and popularity in the music scene during that period. "So I happen to have in my hands a copy of Rolling Stone magazine dated March 9, 1979 and there is Ted Nugent on the cover." ← For the Record - The 70s > Ep. 24 - Loud, Louder, Loudest - 70s Heavy Metal | https://seventies.libsyn.com/ep-24-loud-louder-loudest-70s-heavy-metal ← ted-nugent
 **Stance on Music's Influence** : Ted Nugent believed that if his music instigated violence or brought out negative behavior in a listener, it was because the individual was already "screwed up." "Nugent's view on it was that if listening to his music somehow brought out the worst in a kid, it led them to violence or something, then they were already screwed up." ← For the Record - The 70s > Ep. 58 - WKRP in Cincinnati | https://www.ftr70.com
 **Supported Donald Trump** : Ted Nugent was one of the musicians who publicly supported Donald Trump, distinguishing himself from many artists who refused to perform at Trump's events. "Outside of Kid Rock, Ted Nugent, three doors down and ace freely." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ ← ted-nugent
-
-
 
 ## awards
 **Golden Raspberry Award for Worst Original Song (1989) — Skintight** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1420891

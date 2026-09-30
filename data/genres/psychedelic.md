@@ -6,7 +6,7 @@
 
 ## artists
 - MGMT
-- Nirvana (1960s band)
+- Nirvana
 - The Stone Roses
-- Yoho Wath Thirteen
-
+- Ya Ho Wha 13
+- The Smashing Pumpkins

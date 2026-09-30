@@ -2,8 +2,7 @@
 
 ## curiosities
 **"Hitler Rap" Recording Challenge** : Chris Berkett recorded Mel Brooks for "The History of the World" and "To Be or Not to Be," including the "Hitler rap." Brooks struggled to rap in time with the music, so Berkett recorded him freestyle on quarter-inch analog tape. He then had to manually mark each word with a Chinagraph pencil, pause the tape, and "drop in" each word onto a 24-track machine at the correct musical timing, a destructive and time-consuming process. "Mel Brooks couldn't rap to save his life. So the way I got the Hitler rap together was I gave up trying to get him in time with the music as impossible." ← https://www.youtube.com/watch?v=mjQBaX_3oL4 ← mel-brooks ← mel-brooks
-
-
+**"Hitler Rap" Recording Challenge** : Chris Berkett recorded Mel Brooks for "The History of the World" and "To Be or Not to Be," including the "Hitler rap." Brooks struggled to rap in time with the music, so Berkett recorded him freestyle on quarter-inch analog tape. He then had to manually mark each word with a Chinagraph pencil, pause the tape, and "drop in" each word onto a 24-track machine at the correct musical timing, a destructive and time-consuming process. "Mel Brooks couldn't rap to save his life. So the way I got the Hitler rap together was I gave up trying to get him in time with the music as impossible." ← https://www.youtube.com/watch?v=mjQBaX_3oL4 ← mel-brooks
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761
@@ -66,7 +65,3 @@
 **AFI Life Achievement Award (2013)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q292044
 **Peabody Awards (2023)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q838121
 **Academy Honorary Award (2024)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q727328
-
-## charts
-**"Ain't Nothing 'bout You" — Billboard Year-End Hot 100** : #71, 2001. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Red Dirt Road" — Billboard Year-End Hot 100** : #86, 2003. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

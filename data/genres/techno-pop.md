@@ -7,11 +7,10 @@
 
 ## artists
 - Depeche Mode
-- Human League
+- The Human League
 - Kraftwerk
-- OMD
 - Orchestral Manoeuvres in the Dark
 - Soft Cell
 - Visage
 - Yazoo
-
+- The Pointer Sisters

@@ -5,7 +5,6 @@
 **Publishing Model** : Despite its small size and limited record sales, Irwin Records was successful in generating income through the publishing rights of songs released on the label. This model, explained by Ellis, profoundly influenced Jim Stewart. "Alice's label wasn't hugely successful, but he made some decent money from it, and he explained the realities of the music industry to Stuart" ← Episode 105： ＂Green Onions＂ by Booker T.and the MGs | https://www.youtube.com/watch?v=cw6xJG8E_w0
 
 ## artists
-- Hoi Jackson
 - Irwin Ellis
 - Ray Scott
 

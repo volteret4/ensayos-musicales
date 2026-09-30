@@ -5,12 +5,3 @@
 
 ## curiosities
 **Emergence as Serious Stars** : The Spoons emerged as one of the serious stars through the late 1970s and into the 1980s, benefiting from the new industry infrastructure and increased radio support for Canadian talent. This period marked a shift towards greater national and international success for homegrown artists. "Love her boy, Chilla Wack, Bruce Coburn, rough trade, the pay-all was Toronto, the headpins, the spoons, bride-adams, parachute club, men without hats, Cory Hart. They all emerged as serious stars through the late 1970s and into the 1980s." ← https://www.youtube.com/watch?v=6PGgNCaW4xo ← the-spoons
-
-
-
-## lists
-**"Ga Ga Ga Ga Ga" (2007) — AOTY Must Hear 2000s** : #134, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Gimme Fiction" (2005) — AOTY Must Hear 2000s** : #254, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"They Want My Soul" (2014) — AOTY Must Hear 2010s** : #582, 78 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Lucifer on the Sofa" (2022) — AOTY Must Hear 2020s** : #471, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Love Ways" (2000) — Sputnikmusic Best Albums 2000** : #155, 3.97 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2000/

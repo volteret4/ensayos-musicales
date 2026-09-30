@@ -5,20 +5,13 @@
 - The Cribs
 - The Smiths
 
-## members
-- Dada
-- Electronic
-- Johnny Marr and the Healers
-- The Pretenders
-- The Smiths
-
 ## instruments
 - Fender Telecaster
 - Guitar
 
 ## albums
 **Boomslang (2003)** : This was Johnny Marr's first solo album, released on February 4, 2003, more than 15 years after The Smiths had broken up. It was released under the band name Johnny Marr and the Healers. "Johnny Mar finally released a solo album. His group is called Johnny Mar and the Healers. They album is Boom Slang..." ← https://www.youtube.com/watch?v=vev8lzfW6Xo ← johnny-marr ← johnny-marr
-**Call the Comet (June 15th) - Solo Album from The Smiths Guitarist** : This new solo album from Johnny Marr, referred to in the transcript as "Cold of the Comet," is his latest work since leaving The Smiths. While his recent solo efforts haven't garnered immense critical acclaim, Marr remains a highly cherished and significant guitarist in music. His previous album in 2015 was well-received, and this new release is expected to follow a similar style. "los últimos discos que ha hecho Johnny Madr con su nombre en solitario y no todos esos proyectos que han tenido desde que dejó los Esmits, no han tenido unas críticas enormes pero bueno yo creo que Johnny Madr es un guitarrista al que mucha gente le tenemos mucho cariño." ← Music Radar Clan > LANZAMIENTOS JUNIO 2018 | https://www.youtube.com/watch?v=AvdFC5Q0nKk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← johnny-marr ← johnny-marr
+**Call the Comet (2018)** : This new solo album from Johnny Marr, referred to in the transcript as "Cold of the Comet," is his latest work since leaving The Smiths. While his recent solo efforts haven't garnered immense critical acclaim, Marr remains a highly cherished and significant guitarist in music. His previous album in 2015 was well-received, and this new release is expected to follow a similar style. "los últimos discos que ha hecho Johnny Madr con su nombre en solitario y no todos esos proyectos que han tenido desde que dejó los Esmits, no han tenido unas críticas enormes pero bueno yo creo que Johnny Madr es un guitarrista al que mucha gente le tenemos mucho cariño." ← Music Radar Clan > LANZAMIENTOS JUNIO 2018 | https://www.youtube.com/watch?v=AvdFC5Q0nKk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← johnny-marr ← johnny-marr
 
 ## songs
 **The Last Rhyme** : This song is presented as a sample from Johnny Marr and the Healers' debut album, "Boomslang." "This is called The Last Rhyme." ← https://www.youtube.com/watch?v=vev8lzfW6Xo ← johnny-marr ← johnny-marr
@@ -34,10 +27,5 @@
 **Session Player Success, Limited Solo Success** : As a songwriting partner to Morrissey in The Smiths, Johnny Marr has had a "terrific career as a session player" since the band's breakup. However, his career as a "strictly solo dude" has been less successful, not matching Morrissey's solo trajectory. "He's had a terrific career as a session player, but as a solo dude, like a strictly solo dude, not so much." ← https://www.youtube.com/watch?v=-f9jhqAHkQo ← johnny-marr
 **Theories Behind Unreleased Album** : The unreleased collaboration album between Johnny Marr and Ian McCulloch is surrounded by speculation. One theory posits that the theft story was concocted to allow Ian McCulloch to rejoin Echo and the Bunnyman without complications. Another suggests the album was never truly completed due to creative conflicts and poor quality resulting from frequent arguments between Marr and McCulloch. "The theory is that Ian and Johnny made up the story because Ian wanted to get back with the Bunnieman, and this project would have ruined everything. Another theory is that the music was crap because Ian and Johnny were arguing so much that an album never really was completed." ← https://www.youtube.com/watch?v=gdWLtMy4TBU ← johnny-marr ← johnny-marr
 
-
-
 ## awards
 **MOJO Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3319330
-
-## charts
-**"La Yenka" — Spain Singles Chart** : #1, 1965. ← Wikipedia | https://en.wikipedia.org/wiki/Promusicae

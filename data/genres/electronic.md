@@ -41,7 +41,6 @@
 - Air
 - Alva Noto
 - Amon Düül
-- Andrea Hogan (Hügellands Roondance)
 - Arca
 - Atticus Ross
 - Avicii
@@ -57,7 +56,7 @@
 - Daniel Avery
 - David Bowie
 - David Holmes
-- Dead Grips
+- Death Grips
 - Depeche Mode
 - Diplo
 - Doctor Who Soundtrack
@@ -79,8 +78,7 @@
 - Jean-Michel Jarre
 - Jlin
 - John Frusciante
-- Jon Lein Stranger
-- Jóhann Jóhannsson (as "Jojan Johansson")
+- Jóhann Jóhannsson
 - Kraftwerk
 - Ladytron
 - Long Distance Calling
@@ -93,18 +91,15 @@
 - Muse
 - New Order
 - Nine Inch Nails
-- OMD
-- Orbital
 - Orchestral Manoeuvres in the Dark
-- Orchestral Manoeuvres in the Dark (OMD)
+- Orbital
 - OutKast
-- Peter Culman
+- Peter Christopherson
 - Plus 44
 - Portishead
 - Primal Scream
 - Ryuichi Sakamoto
 - Seahawks
-- Skepta
 - Soft Cell
 - Sophie
 - Soulwax
@@ -123,4 +118,6 @@
 - U.S. Girls
 - USS
 - Vangelis
-
+- Sting
+- Yani
+- Giorgio Moroder

@@ -21,6 +21,7 @@
 **Spanish Folk Songs by Linda Ronstadt** : Linda Ronstadt demonstrated her vocal versatility by singing Spanish folk songs, showcasing her ability to perform across various genres. "We know now that she can sing and did sing any genre and that includes singing Spanish folk songs." ← For the Record - The 70s > Ep. 23 - Women of Country Music in the 70s | https://seventies.libsyn.com/023-country-women-72820-2-45-pm
 **Tim Buckley's Beginning** : Tim Buckley started his musical career as a folk singer in the 1960s before exploring other genres. "He began as a folk singer back in the 1960s." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← folk
 **Traditional Ballad Influence** : The traditional ballad or folk song, introduced to the American South by British immigrants, is at the core of storytelling in country music. "at the core of that is the traditional ballad or folk song which was introduced to the South by British immigrants." ← For the Record - The 70s > Ep. 23 - Women of Country Music in the 70s | https://seventies.libsyn.com/023-country-women-72820-2-45-pm
+**John Mellencamp's Americana Deep Dive** : John Mellencamp used his imperial capital after his "Scarecrow" album to produce "The Lonesome Jubilee" (1987), an LP that ventured deeper into Americana by incorporating folk and country instruments like auto harp, banjo, accordion, and fiddle, allowing "rootsy folk rock" to become a top 10 pop hit. "Melanchamp and his band picked up folk and country instruments like auto harp, banjo, accordion and fiddle." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f03154465cd600c5379
 
 ## artists
 - Ani DiFranco
@@ -28,19 +29,18 @@
 - Ben Howard
 - Björk
 - Bob Dylan
-- Bobby Jean Hall
+- Bobbye Hall
 - Buffy Sainte-Marie
 - Camper Van Beethoven
 - Carolyn Hester
-- Clannad
 - Dave Van Ronk
 - David Bowie
-- David Graham
+- Davy Graham
 - Ed Sheeran
 - Elvis Costello
 - Emmylou Harris
 - Gordon Lightfoot
-- Jacob Dylan
+- Jakob Dylan
 - Jake Bugg
 - James and The Good Brothers
 - Jerry Jeff Walker
@@ -60,19 +60,17 @@
 - Odetta
 - PJ Harvey
 - Pete Seeger
-- Peter, Paul and Mary
+- Peter Paul and Mary
 - R.E.M.
-- REM
 - Ramblin' Jack Elliott
 - Red River Dialect
 - Simon & Garfunkel
 - Steve Grossman
-- Susan Aglukark (Aglukark)
+- Susan Aglukark
 - Swans
 - The Almanac Singers
 - The Band
-- The Kingston Trio
-- The Staples Singers
+- The Staple Singers
 - The Strumbellas
 - The Waterboys
 - The Weavers
@@ -80,4 +78,5 @@
 - Tom Waits
 - Tune-Yards
 - Woody Guthrie
-
+- Tracy Chapman
+- Johnny Cash

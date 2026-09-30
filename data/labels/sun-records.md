@@ -39,13 +39,11 @@
 - Carl Perkins
 - Charlie Rich
 - Conway Twitty
-- Elvis
 - Elvis Presley
 - Jerry Lee Lewis
 - Johnny Cash
 - Johnny Cash and the Tennessee Two
-- Junia Parker
-- Karl Perkins
+- Junior Parker
 - Roy Orbison
 - Rufus Thomas
 - The Teen Kings

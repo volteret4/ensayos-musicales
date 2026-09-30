@@ -2,4 +2,3 @@
 
 ## member of
 - The O'Jays
-

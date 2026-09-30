@@ -11,7 +11,7 @@
 - Banjo
 
 ## albums
-**A Wild and Crazy Guy** : Bits from Steve Martin's comedy album *A Wild and Crazy Guy* were incorporated into the Beastie Boys' song "Cookie Puss," alongside a prank phone call. "added some bits from a Steve Martin comedy album called A Wild and Crazy Guy, and put the whole thing to some beats." ← https://www.youtube.com/watch?v=l1jPP1FhGo8 ← steve-martin
+**A Wild and Crazy Guy (1978)** : Bits from Steve Martin's comedy album *A Wild and Crazy Guy* were incorporated into the Beastie Boys' song "Cookie Puss," alongside a prank phone call. "added some bits from a Steve Martin comedy album called A Wild and Crazy Guy, and put the whole thing to some beats." ← https://www.youtube.com/watch?v=l1jPP1FhGo8 ← steve-martin
 
 ## songs
 **King Tut (1978)** : This novelty song, categorized as "straight comedy," was famously introduced to the world by Steve Martin during an appearance on Saturday Night Live in 1978. "King Tut which was referring to Steve Martin's 1978 novelty song that he introduced to the world on Saturday Night Live." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
@@ -25,8 +25,6 @@
 **Opening for Linda Ronstadt (1974)** : In 1974, while still an "obscure opening act" for Linda Ronstadt at The Troubadour, Steve Martin had a memorable encounter with Betty White and her husband, Alan Ludden, who had come specifically to see him perform after hearing he was funny. "In 1974, I was an obscure opening act for Linda Ronstadt at the Trubidor in Los Angeles. Passing through the lobby before the show, I saw Betty White and her husband Alan Luddon waiting in line." ← For the Record - The 70s > Ep. 41 - The Impact of The Troubadour on 1970s Popular Culture | https://seventies.libsyn.com/ep-41-the-impact-of-the-troubadour-on-1970s-popular-culture
 **Success as a Comedian** : Steve Martin achieved immense success, selling out arenas, selling millions of albums, and having thousands of fans repeat his catchphrases, akin to rock bands with their song lyrics. His brand of comedy was seen as a response to traditional showbiz. "Now, Steve Martin could sell out arenas. He could sell millions of albums. He had thousands of fans repeating his famous excuse me, catchphrase right along with him, just like rock bands had fans repeating the lyrics of their songs." ← For the Record - The 70s > Ep. 41 - The Impact of The Troubadour on 1970s Popular Culture | https://seventies.libsyn.com/ep-41-the-impact-of-the-troubadour-on-1970s-popular-culture
 
-
-
 ## awards
 **Kennedy Center Honors** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1738793
 **Fellow of the American Academy of Arts and Sciences** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q52382875
@@ -39,7 +37,3 @@
 **Tony Award for Best Book of a Musical (2016) — Bright Star** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1784838
 **Tony Award for Best Original Score (2016) — Bright Star** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1478089
 **Golden Globe Award for Best Actor – Television Series Musical or Comedy (2023) — Only Murders in the Building** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q138996
-
-## charts
-**"Let Me Blow Ya Mind" — Billboard Year-End Hot 100** : #7, 2001. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Gangsta Lovin'" — Billboard Year-End Hot 100** : #19, 2002. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

@@ -1,10 +1,12 @@
 # artist - Rivers Cuomo
 
 ## member of
+- Avant Garde
 - Weezer
 
 ## albums
-**Alone, The Home Recordings (Collection of Demos)** : Rivers Cuomo worked by himself on "Alone, The Home Recordings," a collection of demos that includes tracks such as "Super Friend." This personal project serves as an archive for various unreleased and evolving songs, including material that originated from the "Songs From The Black Hole" project. "That's River's Cuomo, working by himself on a collection of demos called Alone, The Home Recordings." ← https://www.youtube.com/watch?v=gdWLtMy4TBU ← rivers-cuomo ← rivers-cuomo
+**Alone, The Home Recordings** : Rivers Cuomo worked by himself on "Alone, The Home Recordings," a collection of demos that includes tracks such as "Super Friend." This personal project serves as an archive for various unreleased and evolving songs, including material that originated from the "Songs From The Black Hole" project. "That's River's Cuomo, working by himself on a collection of demos called Alone, The Home Recordings." ← https://www.youtube.com/watch?v=gdWLtMy4TBU ← rivers-cuomo ← rivers-cuomo
+**Alone, the Home Recordings of Rivers Cuomo (2007)** : This series features 121 songs written by Rivers Cuomo during a period of self-isolation and depression in a blacked-out apartment in Culver City. Geffen Records initially refused to release this material for years, fearing it would tarnish Weezer's reputation, but Rivers eventually won the right to release it in 2007. "Geffen refused to release that material for years because they didn't want substandard material sullying the good name of Weezer." ← https://www.youtube.com/watch?v=DoJa8jcrlUA ← weezer ← weezer
 **Home Alone Demo Recordings (Contains Black Hole Songs)** : The "Home Alone Demo Recordings" released by Rivers Cuomo contain a significant number of songs originally intended for the abandoned "Songs From The Black Hole" project. These recordings offer fans a deeper insight into the mythical lost Weezer record and its evolution into "Pinkerton" and other tracks. "If you're interested in going deeper into that story, get home-alone demo recordings released by Rivers' Cuomo. They contain a number of Black Hole songs." ← https://www.youtube.com/watch?v=gdWLtMy4TBU ← rivers-cuomo ← rivers-cuomo
 
 ## curiosities
@@ -35,8 +37,4 @@
 **Temporary Name Change to Peter Kits** : For a couple of years in the mid-1980s, Rivers Cuomo changed his name to Peter Kits. This name appeared in one of his very first bands, a glammy metal group called Among Guard, before he reverted to Rivers. "He also, for a time, changed his name to Peter Kits." ← https://www.youtube.com/watch?v=DoJa8jcrlUA ← rivers-cuomo ← rivers-cuomo
 **Tower Records Employment and Influences** : Rivers Cuomo had a part-time job at the famous Tower Records on Sunset Boulevard, which was crucial as Alt Rock was emerging. This exposed him to bands like Pixies, Nirvana, Sonic Youth, and Nine Inch Nails, and also led him to meet drummer Patrick Wilson, who would become a Weezer member. "Working in the record store exposed him to the pixies and Nirvana, Sonic Youth, and Nine Inch Nails." ← https://www.youtube.com/watch?v=DoJa8jcrlUA ← rivers-cuomo ← rivers-cuomo
 **Unlikely Rock Star Persona** : Rivers Cuomo is described as an "unlikely sort of rock star," committed to maintaining his status. He is highly educated, deeply introspective, very private, and constantly seeking to learn new things, from songwriting to computer programming, intense meditation, and music industry studies. "If Forever's Cuomo of Weezer were to walk past you on the street, you probably wouldn't notice him." ← https://www.youtube.com/watch?v=DoJa8jcrlUA ← rivers-cuomo ← rivers-cuomo
-
-
-
-## lists
-**"Conference of the Birds" (2006) — Sputnikmusic Best Albums 2006** : #180, 3.99 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/
+**Responsive to Fan Request (2018)** : Rivers Cuomo, frontman of Weezer, famously responded to a tweet from a 14-year-old fan who requested the band cover Toto's "Africa," leading to the recording of the song, which became Weezer's biggest rock radio hit in a decade. "a 14-year-old Weaser fan tweeted at Frontman Rivers Cuomo that the band should record Africa." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab

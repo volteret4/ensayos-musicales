@@ -32,6 +32,7 @@
 **Swadeheds' Musical Interest** : Swadeheds, a British subculture, also appreciated British glam rock, surprisingly aligning with the musical preferences of their Teddyboy rivals. "As for music, Swades like British glam, just like their Teddyboy rivals, but they also shared a skinhead interest in soul, reggae, and sky." ← Ongoing History of New Music > The Tribes of Alt-Rock | https://www.youtube.com/watch?v=mAlc-N2wn5s&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Transition to Hair Metal** : By the late 1970s, glam rock began evolving into 80s hair metal, demonstrating that like many 70s genres, it did not die but was "reborn as something else." "By the late 70s Glam is on its way to becoming 80s hair metal." ← For the Record - The 70s > Ep. 26 - Starmen - Glam Rock of the 70s | https://seventies.libsyn.com/026-glam-11820-6-34-pm
 **Transition to Metal** : The song "Love is Like Oxygen" by Sweet is cited as an example of the transition of glam rock into metal, indicating a stylistic evolution within the band's career and the genre itself. "Love is like oxygen shows the transition of glam rock to metal." ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum
+**UK Dominance, US Influence** : Glam Rock dominated the UK charts in the first half of the 1970s, making "smaller ripples in America" but proving "very influential" in setting the stage for the next British invasion. "Glam Rock, which dominated the UK charts in the first half of the decade, made smaller ripples in America but proved very influential." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
 
 ## artists
 - Alice Cooper
@@ -40,11 +41,10 @@
 - Elton John
 - Freddie Mercury
 - Gary Glitter
-- KISS
-- Kate Bush
 - Kiss
-- Mark Bowen
-- Mott the Hoople
+- Kate Bush
+- Marc Bolan
+- Mott The Hoople
 - Mud
 - Queen
 - Quiet Riot
@@ -53,10 +53,7 @@
 - Slade
 - Sparks
 - Sweet
-- T-Rex
 - T. Rex
 - The Rolling Stones
 - The Struts
-- The Sweet
 - Wizzard
-

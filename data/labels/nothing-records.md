@@ -9,7 +9,5 @@
 - Atticus Ross
 - Marilyn Manson
 - Nine Inch Nails
-- Nine-inch Nails
-- Nine-inch nails
 - Trent Reznor
 

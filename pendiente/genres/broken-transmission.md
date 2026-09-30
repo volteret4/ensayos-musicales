@@ -9,5 +9,4 @@
 ## artists
 - Infinity Frequencies
 - Mesh
-- Vindicate Television
 

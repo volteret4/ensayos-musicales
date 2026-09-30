@@ -1,0 +1,4 @@
+# artist - Scott Shannon
+
+## curiosities
+**DJ Catalyst for "I've Never Been to Me" Revival (1982)** : In 1982, Scott Shannon, a DJ at a Tampa radio station, started playing Charlene's "I've Never Been to Me" somewhat ironically, but the unexpectedly strong and earnest response from listeners prompted him to seriously lobby Motown Records to reissue the single. His actions directly led to Charlene being re-signed and the song becoming a number three hit. "In 1982 Scott Shannon a DJ at a Tampa radio station began playing I've never been to me almost as a joke but the response from listeners was unironically strong and Shannon quite seriously implored Motown records to consider reissuing the single." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c42e

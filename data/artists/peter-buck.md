@@ -2,17 +2,16 @@
 
 ## member of
 - R.E.M.
-- REM
 
 ## labels
-- British Airways (involved in incident)
+- British Airways
 
 ## concerts
 - Concert for Nelson Mandela (Trafalgar Square, London)
 
 ## instruments
-- CD (misused)
-- Cutlery knife (misused)
+- CD
+- Cutlery knife
 
 ## curiosities
 **Acquittal and "Non-Insane Automatism" Defense (2002)** : Peter Buck's first trial collapsed, but at his second trial, which lasted three weeks and featured Bono of U2 as a character witness, he was acquitted on April 5, 2002. The jury believed doctor's testimony that the combination of Ambien and red wine resulted in "non-insane automatism," a legal term for non-voluntary behavior caused by an unusual drug-alcohol reaction, thus excusing his actions. "The combination of ambient and red wine resulted in something known as non-insane automatism." ← https://www.youtube.com/watch?v=hmnMG6f80Sg ← peter-buck
@@ -22,8 +21,3 @@
 **British Airways Flight 48 Incident (2001)** : On April 21, 2001, prior to a scheduled concert for Nelson Mandela in London, Peter Buck boarded British Airways Flight 48. He combined a prescription sleeping pill, Ambien, with a large amount of red wine (reportedly 15 top-ups). This combination led to bizarre and disruptive behavior where he attempted to insert a CD into a food trolley, ripped up a formal warning card, grabbed a cutlery knife, smeared yogurt on himself and the cabin, and attacked flight crew members, almost causing the flight to be diverted for safety reasons. "Peter attempted to insert a CD into a food trolley, thinking it was actually a very big CD player." ← https://www.youtube.com/watch?v=hmnMG6f80Sg ← peter-buck
 **Return Flight with British Airways (2002)** : Despite the dramatic incident and subsequent legal proceedings, Peter Buck flew home to Seattle on British Airways after his acquittal. "And here's the best part. Peter flew home to Seattle on British Airways." ← https://www.youtube.com/watch?v=hmnMG6f80Sg ← peter-buck
 **Signature Guitar Sound Origin** : R.E.M.'s signature guitar sound is rooted in an issue involving Peter Buck and a woman in a "see-through shirt." "There's a good one about REM's signature guitar sound being rooted in an issue where Peter Buck and Canada woman in a see-through shirt." ← https://www.youtube.com/watch?v=ua93Ui1u6UI ← peter-buck ← peter-buck
-
-
-
-## charts
-**"166" — NME Chart** : 25 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

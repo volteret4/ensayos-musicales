@@ -6,8 +6,8 @@
 - New Wave Revival
 
 ## instruments
-- ARP (modeled by Yamaha SK line)
 - Analog drum machine
+- ARP
 - CS80 chip
 - Old synths
 - Spring reverb unit
@@ -17,10 +17,10 @@
 - Yamaha SK30
 
 ## albums
-**Manners (Year Unspecified) – Extensive SK30 Use** : The band utilized the Yamaha SK30 synthesizer extensively throughout the recording of this album. "We use the 30 all over Manners." ← https://www.youtube.com/watch?v=1KF5MwJVYng ← passion-pit
+**Manners (2009)** : The band utilized the Yamaha SK30 synthesizer extensively throughout the recording of this album. "We use the 30 all over Manners." ← https://www.youtube.com/watch?v=1KF5MwJVYng ← passion-pit
 
 ## songs
-**The Reeling (Year Unspecified)** : This song, from the album "Manners," is highlighted as an example of music that sounds fresh and different to some, while reminding others of the 80s Technopop era. "That's Passion Pit with the reeling, it's from an album called Manors, and to a lot of people that sounds fresh and different." ← https://www.youtube.com/watch?v=1KF5MwJVYng ← passion-pit
+**The Reeling (2009)** : This song, from the album "Manners," is highlighted as an example of music that sounds fresh and different to some, while reminding others of the 80s Technopop era. "That's Passion Pit with the reeling, it's from an album called Manors, and to a lot of people that sounds fresh and different." ← https://www.youtube.com/watch?v=1KF5MwJVYng ← passion-pit
 
 ## curiosities
 **Analog Sound Discovery** : The band discovered analog sound through sources like "Switched On Bach" and newer bands like Boards of Canada, finding warmth and character in the out-of-tune, drifting nature of analog synths. "For me, personally, it was switched on back and there's already stuff in that. There's bands like Bords of Canada that are newer, but they had that same kind of analog sound." ← https://www.youtube.com/watch?v=1KF5MwJVYng ← passion-pit
@@ -31,4 +31,3 @@
 **Hoarding Old Equipment** : The band actively acquires vintage gear, including analog drum machines, spring reverb units, tape delays, and old synths, often through platforms like eBay. "I'm sort of a hoarder when it comes to old equipment." ← https://www.youtube.com/watch?v=1KF5MwJVYng ← passion-pit
 **SK30's Hidden Value** : The Yamaha SK30 is highly valued by the band because it contains a CS80 chip, which is usually found in much more expensive synthesizers. One member acquired an SK30 for free. "Their chip inside of them is... The SK30 is a CS80 chip, which is a lot more expensive synthesizer than the SK30." ← https://www.youtube.com/watch?v=1KF5MwJVYng ← passion-pit
 **Yamaha SK Line Preference** : The band expresses a strong preference for the Yamaha SK line of synthesizers, specifically the SK15, SK20, and SK30, valuing their expressive capabilities which are modeled after ARP synths. "We love the Yamaha SK line. 15, 20, 30." ← https://www.youtube.com/watch?v=1KF5MwJVYng ← passion-pit
-

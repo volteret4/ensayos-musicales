@@ -7,6 +7,4 @@
 
 ## artists
 - HK
-- Santimer
-- Watch X
 

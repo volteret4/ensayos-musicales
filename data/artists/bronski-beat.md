@@ -24,7 +24,5 @@
 **Quick Record Deal with London Records** : Bronski Beat secured a record deal with London Records after performing only nine gigs, indicating their immediate impact and appeal to the industry. "It took them all of nine gigs to get a record deal with London Records." ← https://www.youtube.com/watch?v=hswtuenFwvM ← bronski-beat
 **Technopop Descendant** : Listed as one of the artists who descended from the original Technopop scene. "There was Bronsky beat, aha, yellow, Elfaville, Frankie Ghost of Hollywood. They all descended from the original Tecno Pop scene." ← https://www.youtube.com/watch?v=1KF5MwJVYng ← bronski-beat
 
-
-
 ## lists
 **"The Age of Consent" (1984) — Pitchfork: The 200 Best Albums of the 1980s** : #191. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63

@@ -13,9 +13,8 @@
 - Quirky Rock
 
 ## albums
-**Early Works (Re-edition)** : The early works of Sparks are being re-edited, a release described as one of the most anticipated. Sparks are regarded as "great misunderstood and unknown geniuses of music," whose early material had somewhat fallen into oblivion despite the band remaining active. "Sparks reditan los primeros trabajos. Sparks yo creo que es uno de esos grandes genios de la música incomprendidos y desconocidos, mucha gente yo creo que más joven a lo mejor conoce a los Sparks por el trabajo que habían hecho con Fran Ferdinand con el disco FFSE y la verdad es que son geniales, sobre todo los primeros trabajos, siguen en activo pero que habían quedado ahí un poco en el olvido, esos grandísimos discos a los Sparks que se reditan." ← Music Radar Clan > Lanzamientos Diciembre 2017 | https://www.youtube.com/watch?v=zKLlsA2kSqY&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← sparks ← sparks
+**Hippopotamus (2017)** : This album, likely *Hippopotamus*, was released on Friday, September 8th. Any new material from Sparks is always considered a welcome addition. "todo material de los Sparks siempre es como más que bienvenido." ← Music Radar Clan > Lanzamientos de Septiembre 2017 | https://www.youtube.com/watch?v=EXtTomCLjsg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← sparks ← sparks
 **Kimono My House (1974)** : This album, released in 1974, features Sparks' biggest hit, "This Town Ain't Big Enough for Both of Us." The album showcases the band's distinctive sound, characterized by Russell Mael's unique voice and clever, sophisticated lyrics. It represents their zig-zagging through various genres including glam rock and art rock. "It's from an album entitled Camono in My House and this is called This Town A Big Enough for the Both of Us." ← https://www.youtube.com/watch?v=7_ZmZxnSOnE ← sparks
-**Sparks y popótamos (September 8, 2017)** : This album, likely *Hippopotamus*, was released on Friday, September 8th. Any new material from Sparks is always considered a welcome addition. "todo material de los Sparks siempre es como más que bienvenido." ← Music Radar Clan > Lanzamientos de Septiembre 2017 | https://www.youtube.com/watch?v=EXtTomCLjsg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← sparks ← sparks
 
 ## songs
 **This Town Ain't Big Enough for Both of Us (1974)** : Released in 1974 and featured on the album *Kimono My House*, this song remains Sparks' biggest hit. It prominently features Russell Mael's distinctive singing voice and the band's clever lyrical style. "this song from 1974 remains their biggest hit." ← https://www.youtube.com/watch?v=7_ZmZxnSOnE ← sparks
@@ -30,8 +29,6 @@
 **Misunderstood Geniuses** : Sparks are described as "one of those great misunderstood and unknown geniuses of music," suggesting their significant but often overlooked artistic contribution. "Sparks yo creo que es uno de esos grandes genios de la música incomprendidos y desconocidos." ← Music Radar Clan > Lanzamientos Diciembre 2017 | https://www.youtube.com/watch?v=zKLlsA2kSqY&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← sparks ← sparks
 **Ongoing Career** : Sparks has maintained a long and active career, continuing to make music since their formation in the early 1970s. "Sparks are still together, still making music." ← https://www.youtube.com/watch?v=sEZ13v1LNYQ ← sparks ← sparks
 **Ron Mael's Appearance** : Ron Mael became notable for his distinctive "Hitler-like mustache," which contributed to the band's quirky visual identity. It's emphasized that this was his only commonality with the historical figure. "And Ron male became famous for his adult Hitler like mustache." ← https://www.youtube.com/watch?v=7_ZmZxnSOnE ← sparks
-
-
 
 ## lists
 **"Kimono My House" (1974) — 1001 Albums You Must Hear Before You Die** : #312, 7.0/10 Scaruffi.

@@ -9,7 +9,7 @@
 
 ## artists
 - Jesse Belvin
-- Junia Parker
+- Junior Parker
 - Richard Berry
 - The Cliques
 - The Flares

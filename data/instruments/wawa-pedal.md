@@ -8,11 +8,10 @@
 - David Gilmour
 - Eric Clapton
 - Henry Goldrich
-- Jimmy Hendrix
+- Jimi Hendrix
 - Kirk Hammett
 - Metallica
 - Pink Floyd
-- Rage Against The Machine
 - Rage Against the Machine
 - Tom Morello
 

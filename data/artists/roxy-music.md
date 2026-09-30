@@ -2,7 +2,7 @@
 
 ## members
 - Brian Eno
-- Brian Ferry
+- Bryan Ferry
 
 ## genres
 - Art Rock
@@ -28,9 +28,9 @@
 
 ## songs
 **Avalon (1982)** : This is the title track from their 1982 album, *Avalon*. It is frequently recommended as a quality record for use when testing audio equipment due to its exquisite sound on vinyl. "There's Roxy Music with a title track of their 1982 Avalon album, a great record to use. When testing out audio equipment." ← https://www.youtube.com/watch?v=B2g4QSREzpw ← roxy-music
-**Dance Away** : The Roland CR-78 drum machine can be heard contributing to the rhythm track of Roxy Music's song "Dance Away." "Roxy Music, it's in the song Dance Away" ← https://www.youtube.com/watch?v=dablAKDOOV0 ← roxy-music ← roxy-music
+**Dance Away (1979)** : The Roland CR-78 drum machine can be heard contributing to the rhythm track of Roxy Music's song "Dance Away." "Roxy Music, it's in the song Dance Away" ← https://www.youtube.com/watch?v=dablAKDOOV0 ← roxy-music ← roxy-music
 **Love Is the Drug (1975)** : A song that captures the essence of glam, with lyrics like "love is the drug for me." "love is the drug for me." ← https://www.youtube.com/watch?v=blDNqVFheAw ← roxy-music ← roxy-music
-**Love is the Drug (Year not specified)** : This song by Roxy Music featuring Brian Ferry was implied to be played after a discussion about Brian Ferry's son, Otis. The lyrics mention, "Love is the drug and I need to score. So we're not showing our hit and run. Boy meets girl with a beat goes on. Stitch up tight, can't she beat? Love is the drug and we're going to meet." "Love is the drug and I need to score." ← https://www.youtube.com/watch?v=U40hOYy_94E ← roxy-music ← roxy-music
+**Love Is the Drug (1975)** : This song by Roxy Music featuring Brian Ferry was implied to be played after a discussion about Brian Ferry's son, Otis. The lyrics mention, "Love is the drug and I need to score. So we're not showing our hit and run. Boy meets girl with a beat goes on. Stitch up tight, can't she beat? Love is the drug and we're going to meet." "Love is the drug and I need to score." ← https://www.youtube.com/watch?v=U40hOYy_94E ← roxy-music ← roxy-music
 **Virginia Plain (1972)** : This song, released as a standalone single in the UK and part of the North American release of their debut album, notably served as a single about a brand of cigarettes, reflecting the band's unique and often peculiar approach. "Roxy Music and Virginia Plane, part of the North American release of their debut album, and a standalone single on the UK." ← https://www.youtube.com/watch?v=blDNqVFheAw ← roxy-music ← roxy-music
 
 ## curiosities
@@ -50,11 +50,9 @@
 **New Romantic Influence** : Roxy Music, known for their white dinner jackets and often outrageous costumes, served as an inspirational reference for the Blitz kids. These young individuals were seeking a more glamorous and fun aesthetic than the angry nihilism of punk, contributing to the emergence of the New Romantic movement. "Roxy music, for example, were their white dinner jackets and sometimes outrageous costumes." ← https://www.youtube.com/watch?v=mAlc-N2wn5s ← roxy-music ← roxy-music
 **Pioneers in Reinventing Rock** : Roxy Music is credited with taking glam rock a step further and, in many ways, reinventing rock music, challenging the notion that glam was merely about theatrics. An article in *The Economist* posited that the only reason the band isn't praised as much as David Bowie for their historical contributions is that their debut album was released on the same day as Bowie's *Ziggy Stardust*. "Roxy Music took it a step further, and in many ways reinvented rock." ← For the Record - The 70s > Ep. 26 - Starmen - Glam Rock of the 70s | https://seventies.libsyn.com/026-glam-11820-6-34-pm
 **Rock and Roll Hall of Fame Induction (2019)** : Roxy Music, including Brian Eno and Brian Ferry, was inducted into the Rock and Roll Hall of Fame in 2019, a considerable time after David Bowie's induction in 1996. "They got into the Rock and Roll Hall of Fame in 2019." ← For the Record - The 70s > Ep. 26 - Starmen - Glam Rock of the 70s | https://seventies.libsyn.com/026-glam-11820-6-34-pm
-**Suede Influence** : Roxy Music was celebrated by Suede as an influence, representing the great eccentric English rock of the 1970s and 1980s that Suede sought to revive. "Instead, Swade celebrated the great eccentric English rock of the 70s and 80s. David Bowie, Roxy Music, T-Rex, Smiths, Morrissey, British Psych, Jagger Swagger, Glam guitars..." ← https://www.youtube.com/watch?v=5q5EnZj1FwE ← roxy-music
+**Influence on Suede** : Roxy Music was celebrated by Suede as an influence, representing the great eccentric English rock of the 1970s and 1980s that Suede sought to revive. "Instead, Swade celebrated the great eccentric English rock of the 70s and 80s. David Bowie, Roxy Music, T-Rex, Smiths, Morrissey, British Psych, Jagger Swagger, Glam guitars..." ← https://www.youtube.com/watch?v=5q5EnZj1FwE ← roxy-music
 **Theatrics as Entertainment** : Brian Ferry echoed the sentiments of Alice Cooper and Mark Bolan regarding the band's hair, makeup, and theatrics, stating that these elements were merely an "exciting part of the show" and a form of entertainment, not the entirety of their artistic output. "He essentially said that it was just an exciting part of the show, that it wasn't everything but that it was entertainment." ← For the Record - The 70s > Ep. 26 - Starmen - Glam Rock of the 70s | https://seventies.libsyn.com/026-glam-11820-6-34-pm
 **Times Square Soundtrack Contribution (1980)** : Roxy Music was among the artists featured on the soundtrack for the 1980 movie *Time Square*. This soundtrack was significant for being one of the first to highlight the burgeoning alternative music scene, including punk and new wave, to a broader audience. "The soundtrack featured the pretenders, Roxy music, Gary Newman, XTC, Joe Jackson." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← roxy-music
-
-
 
 ## awards
 **Rock and Roll Hall of Fame (2019)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191

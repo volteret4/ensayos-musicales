@@ -8,8 +8,3 @@
 
 ## curiosities
 **First Electric Guitar Solo Recording** : George Barnes holds the distinction of being the first person to record an electric guitar solo. This historic recording took place on March 1st, 1938, when he was just 16 years old, playing with blues guitarist Big Bill Broonzy on two songs, including "Low Down Dirty Shame." "On March 1st, 1938, he recorded two songs with blues guitarist Big Bill Brundsey." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ ← george-barnes
-
-
-
-## lists
-**"Voobaha" (1980) — Scaruffi 1980s** : #254, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

@@ -1,19 +1,22 @@
 # artist - Justin Timberlake
 
+## genres
+- Pop
+- R&B
+
 ## concerts
 - SARS-Stock (2003)
 
-## albums
-**Multiple Albums (Undated) - Composed by Max Martin** : Max Martin composed albums for Justin Timberlake. "de Jacin Tinberlake Marrafero." ← Music Radar Clan > Poniendo a Britney Spears en su lugar | https://www.youtube.com/watch?v=ad2agh7IXH8&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← justin-timberlake ← justin-timberlake
+## songs
+**Cry Me a River (2002)** : This song became Justin Timberlake's first top 10 hit as a solo artist after the hiatus of *NSYNC, peaking at number three on the Hot 100 in early 2003. Produced by Timbaland, it was a "thinly veiled kiss off to Justin Timberlake's former girlfriend, Britney Spears," with the music video famously featuring a blonde Spears look-alike. "Cry Me a River, Justin Timberlake's first top 10 hit as a solo artist after the hiatus of Boyband in Sink was produced by Timberland." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+**My Love (2006)** : Two weeks after "SexyBack" left the number one spot in 2006, this song, also by Justin Timberlake, took over, solidifying what was in hindsight clearly his imperial high point. "His sexy back departed, and two weeks later, his my love took over." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f03154465cd600c5379
+**SexyBack (2006)** : In 2006, this song departed the number one spot, and two weeks later, Justin Timberlake's own "My Love" took over, a clear indicator of his imperial high point. "His sexy back departed, and two weeks later, his my love took over." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f03154465cd600c5379
+**What Goes Around... Comes Around (2007)** : This 2007 number one hit by Justin Timberlake was "widely assumed to also be about Spears," his former girlfriend Britney Spears, despite Timberlake's insistence to the contrary. The track was also produced by Timbaland, showcasing their continued successful collaboration on personally inspired songs. "His 2007 number one hit, What Goes Around Comes Around, was widely assumed to also be about Spears." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
 
 ## curiosities
 **Boy Band Transition to Serious Artist** : Justin Timberlake is cited as a rare example of an artist successfully transitioning from a lightweight boy band to a serious and respected musical figure. "we can look at Justin Timberlake." ← https://www.youtube.com/watch?v=9_BTe15NooI ← justin-timberlake
 **Catalog Sale for $100 Million** : Justin Timberlake sold his music catalog for $100 million. "same for Justin Timberlake, $100 million." ← https://www.youtube.com/watch?v=Pe40SqDrpZ0 ← justin-timberlake
-**Contemporary Catalog Sale** : Justin Timberlake has sold some or all of his back catalog, placing him among a number of contemporary artists leveraging this financial strategy for large payouts. ← https://www.youtube.com/watch?v=sfie4YYncxk ← justin-timberlake
-**Involvement in Nipplegate (2004)** : Justin Timberlake was involved in the "Nipplegate" controversy during the Super Bowl halftime show on February 1, 2004, which was produced by MTV. At the conclusion of the song "Rock Your Body," he pulled off a portion of Janet Jackson's costume, exposing her right nipple for about four-tenths of a second to the broadcast audience, leading to widespread discussion and a desire for online replay. "At the end of the song, Rock Your Body. Timberlake reached over and pulled off part of Jackson's costume, revealing her right nipple to the broadcast audience for approximately four tenths of a second." ← https://www.youtube.com/watch?v=7IDbqdIw3WU ← justin-timberlake
 **Super Bowl Halftime Show Incident (February 1, 2004)** : During his performance with Janet Jackson at the Super Bowl halftime show in Houston on February 1, 2004, Justin Timberlake ripped off a portion of Jackson's costume, briefly exposing her nipple. This "wardrobe malfunction" caused a major uproar and became a highly replayed moment, influencing the perceived need for online video sharing. "The halftime show features a performance by Janet Jackson and Justin Timberlake. It ends with Justin ripping off one of Janet's pasties, exposing a nipple for a few tenths of a second." ← https://www.youtube.com/watch?v=19Z_AAEy8Bc ← justin-timberlake
-
-
 
 ## awards
 **QQ Music Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q26456321

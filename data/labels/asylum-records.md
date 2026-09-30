@@ -9,6 +9,6 @@
 **Signing Tom Waits** : Tom Waits was signed to Asylum Records in 1973, and his first album, "Closing Time," was released on the label in March 1973. "He was signed to a recording contract with Asylum Records in 1973. His first album for Asylum came out in March of 1973." ← For the Record - The 70s > Ep. 41 - The Impact of The Troubadour on 1970s Popular Culture | https://seventies.libsyn.com/ep-41-the-impact-of-the-troubadour-on-1970s-popular-culture
 
 ## artists
-- The Eagles
+- Eagles
 - Tom Waits
 

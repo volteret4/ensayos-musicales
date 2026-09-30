@@ -16,8 +16,6 @@
 **Interest in Astronomy and Quantum Physics** : Gary Lightbody is described as a "science and astronomy geek," with his passion evident in the titles of Snow Patrol's albums and songs. He expresses keen interest in the quantum experiments conducted at the Large Hadron Collider in Europe, although he admits his understanding is limited by his lack of formal scientific grounding. "Gary Lightbody of Stop patrol is also a science in astronomy geek." ← https://www.youtube.com/watch?v=QfiRRtsZoYU ← snow-patrol
 **Observations on the Large Hadron Collider** : Gary Lightbody finds the Large Hadron Collider intriguing despite his limited scientific grounding, noting how easy it is to get "lost in the minutia" of complex scientific details. He also commented on the public's exaggerated fears surrounding the project, such as being "sucked into your vortex." "I'm absolutely and I'm not really intrigued by it. But my grasp is limited because I don't have a grounding in science." ← https://www.youtube.com/watch?v=QfiRRtsZoYU ← snow-patrol
 
-
-
 ## charts
 **"Chasing Cars" — Billboard Year-End Hot 100** : #29, 2006. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 **"Chasing Cars" — Billboard Year-End Hot 100** : #61, 2007. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

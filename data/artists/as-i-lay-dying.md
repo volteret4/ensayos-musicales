@@ -1,16 +1,14 @@
 # artist - As I Lay Dying
 
 ## members
-- Megan (estranged wife)
 - Tim Lambesis
-- Tim Lambesis (vocalist)
 
 ## genres
 - Christian metalcore
 - Metalcore
 
 ## labels
-- Metal Blade Records (implied by "An Ocean Between Us" album release)
+- Metal Blade Records
 
 ## albums
 **An Ocean Between Us (2007)** : This album features the song "Nothing Left." "This is from the band's 2007 album, An Ocean Between Us. It's called Nothing Left." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← as-i-lay-dying
@@ -31,4 +29,3 @@
 **Professed Christianity** : Despite the attempted murder-for-hire, all members of As I Lay Dying, including Tim Lambesis, publicly profess to be practicing Christians. "All the members in As I Lay Dying, including Lembesis, profess to be practicing Christians." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← as-i-lay-dying
 **Remorse and Allegations of Setup** : Tim Lambesis is described as very clear-headed and remorseful about the entire situation, acknowledging the stupidity of his actions. However, deeper investigation into the case suggests why he might feel he was set up, hinting at complexities beyond his initial actions. "Anacasia wondering, Tim is very clear-headed and very remorseful about the whole thing. He knows it was stupid, but if you dig into the case more, you can see why he feels he was set up." ← https://www.youtube.com/watch?v=6xygY-npCr4 ← as-i-lay-dying ← as-i-lay-dying
 **Sting Operation and Arrest Details** : During the sting operation, Tim Lambesis met with an undercover detective. He provided the detective with a thousand dollars in cash, photographs of his wife, her home address, and the alarm codes for her house. He was arrested immediately after handing over the envelope in the parking lot of a Barnes and Noble bookstore. "As soon as he handed over the envelope in the parking lot of a Barnes and Noble bookstore, he was arrested." ← https://www.youtube.com/watch?v=6xygY-npCr4 ← as-i-lay-dying ← as-i-lay-dying
-

@@ -1,7 +1,7 @@
 # artist - The Famous Flames
 
 ## members
-- Bobby Bird
+- Bobby Byrd
 - James Brown
 - Johnny Terry
 
@@ -25,4 +25,3 @@
 **Patterning Style on Other Groups** : The Famous Flames increasingly modeled their sound and performance on two specific groups: Billy Ward and the Dominoes, whose records with Clyde McPhatter as lead singer were instrumental in establishing vocal group R&B, and Hank Ballard and the Midnighters, known for the then-unusual blatant sexuality in their work with Annie. They prioritized energy and raw emotional expression over the smooth, sophisticated styles of groups like The Platters or The Penguins. "The famous flames were patterning themselves more and more on two groups." ← Episode 39： ＂Please Please Please＂ by James Brown and the Famous Flames | https://www.youtube.com/watch?v=DSkNVh93tAs
 **Second Group Dissolution Before Apollo Residency** : Just before a significant residency at the Apollo Theatre, the most prestigious and demanding venue on the Chitlin Circuit, James Brown's group experienced another breakup. Although Johnny Terry remained and Bobby Bird rejoined after a few years' absence, Brown was worried about how his newly reformed group would perform at such a high-stakes engagement. "But once again, Brown lost his group and this time just before a big residency at the Apollo, the most prestigious and also the most demanding venue on the Chipplin circuit." ← Episode 39： ＂Please Please Please＂ by James Brown and the Famous Flames | https://www.youtube.com/watch?v=DSkNVh93tAs
 **Strict Discipline and Fines Imposed by James Brown** : James Brown enforced absolute discipline on his band members, who were expected to work as hard, if not harder, than him, the "hardest working man in show business." He would issue fines on stage for any imperfections—unpolished shoes, missed dance steps, or wrong notes—by pointing at a musician and flashing five fingers, with each flash signifying a $5 fine. Audiences perceived this as part of the dance routine, but the musicians understood the financial penalty. "Any band member whose shoes weren't or who missed a dance step or hit a wrong note on stage would be found." ← Episode 39： ＂Please Please Please＂ by James Brown and the Famous Flames | https://www.youtube.com/watch?v=DSkNVh93tAs
-

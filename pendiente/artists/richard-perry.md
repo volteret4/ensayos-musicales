@@ -1,0 +1,9 @@
+# artist - Richard Perry
+
+## labels
+- Planet Records
+
+## curiosities
+**Hit Producer of Early-Mid 70s** : Richard Perry established his reputation in the early to mid-1970s by producing culturally ubiquitous number one records for artists such as Carly Simon ("You're So Vain"), Harry Nilsson ("Without You"), and Leo Sayer ("You Make Me Feel Like Dancing"), demonstrating his ability to craft major hits. "Richard Perry made his name in the early to mid 70s, producing culturally ubiquitous number one records." ← Hit Parade Music History and Music Trivia > Yes We Can Can Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f6364fe6d21276e3fdd
+**Founder of Planet Records (1978)** : In 1978, Richard Perry founded his own label, Planet Records, intending it as a vehicle to showcase talent he was nurturing, with The Pointer Sisters becoming his first signed act and a significant "pet project." "By 1978, Richard Perry decided to start his own label, Planet Records, as a vehicle for showcasing talent he was nurturing while still producing established artists for other labels." ← Hit Parade Music History and Music Trivia > Yes We Can Can Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f6364fe6d21276e3fdd
+**Resuscitated Pointer Sisters' Career** : Richard Perry was instrumental in the Pointer Sisters' comeback and reinvention, making their sound "rock adjacent" while retaining soul and danceability, leading to their mainstream recognition and huge hits like "Fire." "the pointer sisters were so deserving of mainstream success long before I was able to get them there. ... But once we got together, we were able to write that ship quickly." ← Hit Parade Music History and Music Trivia > Yes We Can Can Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f6364fe6d21276e3fdd

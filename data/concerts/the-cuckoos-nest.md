@@ -8,5 +8,5 @@
 - Fear
 - Social Distortion
 - The Dam
-- The Ramones
+- Ramones
 

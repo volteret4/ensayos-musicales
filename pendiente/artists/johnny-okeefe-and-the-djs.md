@@ -1,8 +1,5 @@
 # artist - Johnny O'Keefe and the DJs
 
-## members
-- The DJs
-
 ## concerts
 - Australian Tour (October 1957)
 
@@ -12,4 +9,3 @@
 ## curiosities
 **Australia's First Homegrown Rock and Roll Star** : Johnny O'Keefe is considered a legendary figure within Australia, recognized as the country's first homegrown rock and roll star. "within Australia he's something of a legend, as their first homegrown rock and roll star..." ← Episode 54： Keep A Knockin | https://www.youtube.com/watch?v=oA4Y_K9E5Y4
 **Temporary Replacement for Gene Vincent (1957)** : This local Australian group filled in for Gene Vincent and the Blue Caps on the early shows of Little Richard's 1957 Australian tour, performing both Vincent's songs and their own material, and successfully winning over an audience initially irritated by Vincent's absence. "They were replaced on those early shows by a local group, Johnny O'Keefe and the DJs, who performed some of Vincent's songs, as well as their own material, and who managed to win the audience's round, even though they were irritated at Vincent's absence." ← Episode 54： Keep A Knockin | https://www.youtube.com/watch?v=oA4Y_K9E5Y4
-

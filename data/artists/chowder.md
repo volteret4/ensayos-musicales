@@ -1,6 +1,5 @@
 # artist - Chowder
 
 ## member of
-- Glüleg
+- Glueleg
 - Moist
-

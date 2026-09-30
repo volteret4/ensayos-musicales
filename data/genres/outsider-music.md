@@ -15,18 +15,15 @@
 
 ## artists
 - BJ Snowden
-- Complete
 - Daniel Johnston
-- Hassel Adkins
-- Jan Terry
+- Hasil Adkins
+- Jan Terri
 - Jandek
 - Jimmy Mitchell
 - Nihilist Spasm Band
 - Nobody
-- Rugby Anz
-- Sun Seed
 - The Amazing Dolores
 - The Space Lady
-- Wildman Fisher
-- Yoho Wath Thirteen
+- Wild Man Fischer
+- Ya Ho Wha 13
 

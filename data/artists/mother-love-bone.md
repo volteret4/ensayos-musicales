@@ -2,30 +2,27 @@
 
 ## members
 - Andrew Wood
-- Andrew Wood (deceased)
 - Jeff Ament
-- Jeff Ament (future Pearl Jam member)
 - Stone Gossard
-- Stone Gossard (future Pearl Jam member)
 
 ## genres
-- Grunge (contextual)
+- Grunge
 
 ## labels
 - Mercury Records
 
 ## albums
 **Apple (1990)** : The band recorded this full-length album in California, just days before Andrew Wood's death. It later received great reviews, suggesting Andrew could have been a major grunge star. "Mother Love Bone then went down to California and recorded a full-level entitled Apple, and things were looking really good, except for Andrew's drug use." ← https://www.youtube.com/watch?v=LP8NGDCe-GY ← mother-love-bone ← mother-love-bone
-**Apple (1990) – Debut Album Halted by Tragedy** : Mother Love Bone's debut album, *Apple*, was scheduled for release on March 20, 1990. However, just four days prior, singer Andrew Wood tragically overdosed on heroin and subsequently died, leading to the album's release being delayed and ultimately impacting the band's future. "That record was called Apple, and it was set for release on March 20, 1990. But just four days before that could happen, this was Friday March the 16th. Andrew Wood's girlfriend found him in his apartment completely comatose." ← https://www.youtube.com/watch?v=lip0bZX7hBE ← mother-love-bone
-**Apple (Undated)** : Mother Love Bone's debut record, which they intended to release after securing a major label deal with Mercury Records. The band had ambitions of becoming successful rock and roll stars. "That debut record was called Apple." ← https://www.youtube.com/watch?v=tFBSrKMEZxI ← mother-love-bone
-**Apple (forthcoming)** : Mother Love Bone was poised to release their debut album, "Apple," but its release was tragically overshadowed by the death of their singer, Andrew Wood, from a heroin overdose just three weeks prior. "local Seattle heroes Mother Love Bone is about to release a debut album called Apple." ← https://www.youtube.com/watch?v=xdn31jMOOA4 ← mother-love-bone ← mother-love-bone
+**Apple (1990)** : Mother Love Bone's debut album, *Apple*, was scheduled for release on March 20, 1990. However, just four days prior, singer Andrew Wood tragically overdosed on heroin and subsequently died, leading to the album's release being delayed and ultimately impacting the band's future. "That record was called Apple, and it was set for release on March 20, 1990. But just four days before that could happen, this was Friday March the 16th. Andrew Wood's girlfriend found him in his apartment completely comatose." ← https://www.youtube.com/watch?v=lip0bZX7hBE ← mother-love-bone
+**Apple (1990)** : Mother Love Bone's debut record, which they intended to release after securing a major label deal with Mercury Records. The band had ambitions of becoming successful rock and roll stars. "That debut record was called Apple." ← https://www.youtube.com/watch?v=tFBSrKMEZxI ← mother-love-bone
+**Apple (1990)** : Mother Love Bone was poised to release their debut album, "Apple," but its release was tragically overshadowed by the death of their singer, Andrew Wood, from a heroin overdose just three weeks prior. "local Seattle heroes Mother Love Bone is about to release a debut album called Apple." ← https://www.youtube.com/watch?v=xdn31jMOOA4 ← mother-love-bone ← mother-love-bone
 **Shine (1989)** : This EP was released in March 1989, marking an early record for Mother Love Bone following their significant record deal. "An EP called Shine was released in March 1989." ← https://www.youtube.com/watch?v=LP8NGDCe-GY ← mother-love-bone ← mother-love-bone
 
 ## songs
-**Stargazer (Undated)** : A song mentioned from Mother Love Bone's repertoire, likely from their debut album "Apple." "Mother Love Bone with Stargazer, really good band..." ← https://www.youtube.com/watch?v=tFBSrKMEZxI ← mother-love-bone
+**Stargazer (1990)** : A song mentioned from Mother Love Bone's repertoire, likely from their debut album "Apple." "Mother Love Bone with Stargazer, really good band..." ← https://www.youtube.com/watch?v=tFBSrKMEZxI ← mother-love-bone
 
 ## curiosities
-**Andrew Wood's Cause of Death** : The official cause of Andrew Wood's death was hypoxic encephalopathy, a condition resulting from his brain being deprived of oxygen due to him ceasing to breathe when he fell into his comatose state, causing irreversible damage. "The official cause of death was hypoxic encephalopathy." ← https://www.youtube.com/watch?v=LP8NGDCe-GY ← mother-love-bone ← mother-love-bone
+**Andrew Wood's Death** : The official cause of Andrew Wood's death was hypoxic encephalopathy, a condition resulting from his brain being deprived of oxygen due to him ceasing to breathe when he fell into his comatose state, causing irreversible damage. "The official cause of death was hypoxic encephalopathy." ← https://www.youtube.com/watch?v=LP8NGDCe-GY ← mother-love-bone ← mother-love-bone
 **Andrew Wood's Death** : Lead singer Andrew Wood overdosed on heroin, suffered a massive cerebral hemorrhage, and died just before the release of their debut album, "Apple." His death was a crucial event that set in motion the formation of other bands and projects like Temple of the Dog, contributing to the scene's coalescence. "Not just before that album was released, their singer Andrew Wood, overdosed on heroin, suffered a massive cerebral hemorrhage, and died." ← https://www.youtube.com/watch?v=tFBSrKMEZxI ← mother-love-bone
 **Andrew Wood's Death (March 19, 1990) – Heroin Overdose** : Andrew Wood, the popular singer of Mother Love Bone, died on Monday, March 19, 1990, the day before their album *Apple* was due for release. He was found comatose on March 16 after a heroin overdose, and after brain activity ceased, his family chose to take him off life support. "Andrew was a really popular guy, and he had lots of friends in Seattle. His death hit Chris Cornell, his old roommate particularly hard." ← https://www.youtube.com/watch?v=lip0bZX7hBE ← mother-love-bone
 **Andrew Wood's Death Precedes Album Release** : Andrew Wood died only a few days before Mother Love Bone's album, "Apple," was scheduled for release. "Only a few days before the Mother Love Bone album was supposed to be released." ← https://www.youtube.com/watch?v=LP8NGDCe-GY ← mother-love-bone ← mother-love-bone
@@ -44,8 +41,7 @@
 **Precursor to Pearl Jam** : The "fallout" from Mother Love Bone directly led to the formation of Pearl Jam. "And then there was the Fallout from Mother Love Bone, which eventually resulted in the formation of Pearl Jam, who also went right to a major." ← https://www.youtube.com/watch?v=sCtQqVBtCaI ← mother-love-bone
 **Tragic Death of Andrew Wood** : Three weeks before the scheduled release of their debut album, "Apple," Mother Love Bone's singer Andrew Wood died from a heroin overdose. This tragedy led to the formation of Temple of the Dog as a tribute and subsequently, Pearl Jam. "Three weeks before it comes out, singer Andrew Wood dies of a heroin overdose." ← https://www.youtube.com/watch?v=xdn31jMOOA4 ← mother-love-bone ← mother-love-bone
 **Transformation into Pearl Jam – Post-Tragedy Rebirth** : Following the tragic death of Andrew Wood, the surviving members of Mother Love Bone, Jeff Ament and Stone Gossard, collaborated with Chris Cornell and Matt Cameron to form Temple of the Dog. This collaboration eventually led Ament and Gossard to form a new band with Eddie Vedder, initially called Mookie Blaylock, which soon became Pearl Jam. "When Mother Lovebone collapsed and turned into Pearl Jam, Kelly became their full-time manager, leaving Susan to deal with Allison Chains." ← https://www.youtube.com/watch?v=lip0bZX7hBE ← mother-love-bone
-
-
+**Band Hiatus After Death** : Mother Love Bone was an acclaimed Seattle band that entered a "permanent hiatus" following the overdose death of their charismatic lead singer, Andrew Wood. Pearl Jam notably rose from the ashes of this band. "Mother Lovebone, who were on permanent hiatus after the overdose death of their lead singer Andrew Wood." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 
 ## lists
 **"Apple" (1990) — Sputnikmusic Best Albums 1990** : #126, 3.91 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/

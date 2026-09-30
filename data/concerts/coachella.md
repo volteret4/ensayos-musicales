@@ -25,19 +25,17 @@
 - Depeche Mode
 - Gorillaz
 - Jane's Addiction
-- Jay Z
 - Jay-Z
 - Muse
 - Nine Inch Nails
 - Oasis
 - Radiohead
-- Rage Against The Machine
+- Rage Against the Machine
 - Red Hot Chili Peppers
-- Smashing Pumpkins
+- The Smashing Pumpkins
 - The Cure
 - The Killers
 - Tool
 - Weezer
 - Yeah Yeah Yeahs
-- blink-182
 

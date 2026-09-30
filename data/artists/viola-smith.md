@@ -1,12 +1,9 @@
 # artist - Viola Smith
 
-## members
-- Mildred
-
 ## instruments
 - Drums
-- Gong drums (mounted high on either side of her head)
-- Kick drum (oversized)
+- Gong drums
+- Kick drum
 - Radium-dipped drumsticks
 - Timpani
 - Tom-toms
@@ -19,8 +16,3 @@
 **Longevity and Legacy** : After retiring in 1974, Viola Smith continued to offer lessons and mentorship, contributing to the development of new musicians until her death in 2020 at the remarkable age of 107. Her long career and dedication left a significant legacy in drumming. "She continued to offer lessons and mentorship almost up until the time she died in 2020 at the age of 107." ← https://www.youtube.com/watch?v=9GHpC0kCgHY ← viola-smith
 **Radium Drumstick Solo** : Viola Smith was known for her flamboyant and physical performances, including drum solos using drumsticks dipped in radium. This created a visually striking effect where, in darkness, only the "dismembered drumsticks flying around" would be visible to the audience, making her a memorable performer. "sometimes performed solos using drum sticks that had been dipped in radium. So the lights would go out and then all the audience would see where these dismembered drumsticks flying around." ← https://www.youtube.com/watch?v=9GHpC0kCgHY ← viola-smith
 **The Cokets Big Band** : By 1938, Viola and her sister Mildred formed their own 12-piece big band called The Cokets. Viola's exceptional drumming made her a prominent figure in the band, contributing to its success during the big band era. "By 1938, she and her sister, Milderid, had their own 12-piece big band called The Cokets." ← https://www.youtube.com/watch?v=9GHpC0kCgHY ← viola-smith
-
-
-
-## charts
-**"Baby It's You" — Billboard Year-End Hot 100** : #34, 1969. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

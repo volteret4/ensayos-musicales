@@ -1,9 +1,13 @@
 # artist - Natalie Cole
 
+## albums
+**Unforgettable with Love (1991)** : This album featured Natalie Cole singing standards made famous by her father, Nat King Cole. It culminated in a duet version of the song "Unforgettable" where Natalie sang with the ghostly voice of her deceased father. The Recording Academy showered the album with prizes at the 1992 Grammys, with the song "Unforgettable" controversially winning both Record of the Year and Song of the Year, despite being written in 1951. "On the album Unforgettable with Love, Natalie sang standards made famous by her father." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
+
+## songs
+**Unforgettable (1991)** : This song, originally written by Irving Gordon in 1951, was rerecorded by Natalie Cole as a duet with the posthumous voice of her father, Nat King Cole, for her 1991 album "Unforgettable with Love." The "eerie recording feat" earned it not only Record of the Year but also Song of the Year at the 1992 Grammys, leading to criticism that the Academy deemed no composition actually written in 1991 worthy of the award. "Most dubiously, they gave Unforgettable the song not only record of the year for the eerie recording feat, but also song of the year for a tune that had been written by Irving Gordon in 1951." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
+
 ## curiosities
 **Musical Offspring** : Natalie Cole is noted as the daughter of Nat King Cole. "Natalie Cole, daughter of Nat King." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← natalie-cole
-
-
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

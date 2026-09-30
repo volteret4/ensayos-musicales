@@ -1,20 +1,26 @@
 # artist - Daniel Lanois
 
-## members
-- Bob Lanois (brother)
-
 ## concerts
 - Another Roadside Attraction
 
+## instruments
+- Rhythm guitar
+
 ## albums
-**Achtung Baby (U2) (Year Not Specified)** : Daniel Lanois worked on this U2 album. "Actung Baby, all that you can't leave behind and the biggest U2 record of them all." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← daniel-lanois
-**All That You Can't Leave Behind (U2) (Year Not Specified)** : Daniel Lanois worked on this U2 album. "all that you can't leave behind and the biggest U2 record of them all." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← daniel-lanois
-**So (Peter Gabriel) (Year Not Specified)** : Following his success with U2, Daniel Lanois worked with Peter Gabriel on his album "So." "He went on to work with Peter Gabriel and his so album..." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← daniel-lanois
-**The Joshua Tree (U2) (1987) – Biggest U2 Record** : This 1987 album is identified as the biggest U2 record of them all and was produced by Daniel Lanois. "1987's The Joshua Tree." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← daniel-lanois
+**Achtung Baby (U2)** : Daniel Lanois worked on this U2 album. "Actung Baby, all that you can't leave behind and the biggest U2 record of them all." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← daniel-lanois
+**All That You Can't Leave Behind (U2)** : Daniel Lanois worked on this U2 album. "all that you can't leave behind and the biggest U2 record of them all." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← daniel-lanois
+**The Joshua Tree (U2) (1987)** : This 1987 album is identified as the biggest U2 record of them all and was produced by Daniel Lanois. "1987's The Joshua Tree." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← daniel-lanois
+**So (Peter Gabriel)** : Following his success with U2, Daniel Lanois worked with Peter Gabriel on his album "So." "He went on to work with Peter Gabriel and his so album..." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← daniel-lanois
 **The Unforgettable Fire (U2) (1984)** : Produced with Brian Eno, this album was a significant commercial and critical breakthrough for U2, and also marked a major career breakthrough for Daniel Lanois. "Then came the Big Break. In 1984 Eno was contacted by U2 to help them take their sound to the next level and when Eno finally agreed to take the job he called up Dan and held it and the result was the unforgettable fire." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← daniel-lanois
-**Wide Awakened America (U2) (Year Not Specified)** : Daniel Lanois worked on this U2 album. "Wide Awakened America, Actung Baby, all that you can't leave behind and the biggest U2 record of them all." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← daniel-lanois
+**Wide Awake in America (1985)** : Daniel Lanois worked on this U2 album. "Wide Awakened America, Actung Baby, all that you can't leave behind and the biggest U2 record of them all." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← daniel-lanois
 
 ## curiosities
+**"Science Teacher" Role for "Where the Streets Have No Name"** : During the recording of U2's "Where the Streets Have No Name," he used a large blackboard and a pointer, acting as a "science teacher," to visually guide the band members, particularly the rhythm section, through the complex time signature changes (from 6/8 to 4/4) in the song's intro. "I was in, I was the science teacher so I had the pointer and I pointed at the chord changes as they came around." ← https://www.youtube.com/watch?v=L03Yk1SHRNM ← daniel-landwom
+**Canadian Heritage** : Identifies as Canadian and humorously claims responsibility for originating the "toque thing." "Listen man, I’m Canadian, I started the toop thing." ← https://www.youtube.com/watch?v=L03Yk1SHRNM ← daniel-landwom
+**Early Recording Experiments in Hamilton** : Prior to working with U2, he conducted experiments in an old, vacated Hamilton library building (constructed in the 1920s or 30s) which offered unique acoustics with its "endless corridors and labyrinths and beautiful foyers and mezzanines." The city provided him with keys to this building, allowing him to record rock and roll records in spaces that were more reverberant or dense than his own padded studio, seeking expansive recording environments. "I had already experimented in the old Hamilton library because the library had relocated and the building they vacated was a beautiful building. I think built in the 20s or 30s and it had endless corridors and labyrinths and beautiful foyes and mezzanines" ← https://www.youtube.com/watch?v=L03Yk1SHRNM ← daniel-landwom
+**Ownership of Infinite Sustain Guitar** : Daniel Landwom possesses one of the three "infinite sustain guitars" invented and built by Michael Brook. "He built one for himself, for Edge and then I have the third one." ← https://www.youtube.com/watch?v=L03Yk1SHRNM ← daniel-landwom
+**Production Partnership with Brian Eno** : Collaborated with Brian Eno from late 1979 to early 1980s, producing "half a dozen ambient records in Hamilton" and developing a "textural sound" that they later brought to U2. "I had been working with Brian late 1979 to, let’s say, late 82, 83. We made a half a dozen ambient records in Hamilton and we had refined this textural sound that Brian was very excited about" ← https://www.youtube.com/watch?v=L03Yk1SHRNM ← daniel-landwom
+**Respect for the Rhythm Section** : Larry Mullen of U2 specifically wanted to work with Daniel Landwom on "The Joshua Tree" due to Landwom's reputation for having a strong respect for the rhythm section. "Larry Melon once and he said one of the reasons he wanted to work with you on the Joshua Tree was because you had a real respect for the rhythm section." ← https://www.youtube.com/watch?v=L03Yk1SHRNM ← daniel-landwom
 **Another Roadside Attraction Tourmate** : Daniel Lanois was a Canadian performer who toured with The Tragically Hip's Another Roadside Attraction festival in 1993, 1995, and 1997. "Tourmates included Canadian performers like Daniel Landwass, Spirit of the West and the Rio Statics." ← https://www.youtube.com/watch?v=U2kYleeMnl8 ← daniel-lanois ← daniel-lanois
 **Birth and Early Life** : Daniel Lanois was born in Hull, Quebec, in 1951. Following his parents' divorce, he moved with his mother to Ancaster, now a suburb of Hamilton. "Daniel was born in Hull Quebec in 1951 when his parents divorced he moved with his mom to Ann Caster, which is now a suburb of Hamilton." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← daniel-lanois
 **Breakthrough with U2** : Lanois's big break came in 1984 when Brian Eno, recruited by U2 to evolve their sound, brought Lanois onto the project, leading to the creation of "The Unforgettable Fire" album. This album was a breakthrough for both U2 and Lanois. "Then came the Big Break. In 1984 Eno was contacted by U2 to help them take their sound to the next level and when Eno finally agreed to take the job he called up Dan and held it and the result was the unforgettable fire." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← daniel-lanois
@@ -30,8 +36,6 @@
 **Musical Passion and Guitar Talent** : From a young age, Daniel Lanois developed a deep passion for music, particularly the guitar, and was significantly influenced by Jimi Hendrix. In his mid-teens, he was recognized as one of Hamilton's top guitar players and also gained a reputation for being a valuable presence in a recording studio. "Daniel got deep into music, especially the guitar and especially Jimmy Hendrix by the way. In his middle teens Daniel was recognized as one of the best guitar players in all of Hamilton." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← daniel-lanois
 **Producer for 12 Bar Blues** : Daniel Lanois, a Canadian producer, was responsible for producing Scott Weiland's solo album, 12 Bar Blues, released in 1998. "producing it was Canadian Daniel Landwine." ← https://www.youtube.com/watch?v=-f9jhqAHkQo ← daniel-lanois
 **Rise in 1993** : Daniel Lanois began his rise in 1993, joining a wave of new Canadian artists gaining attention both domestically and internationally. This marked a period when foreign music fans started discovering Canadian talent. "1993, Doe Boys, the Tea Party, Daniel Landwaw, More Sarah McLaughlin, More Pursuit of Happiness, More Cowboy Junkeys." ← https://www.youtube.com/watch?v=6PGgNCaW4xo ← daniel-lanois
-
-
 
 ## awards
 **Governor General's Performing Arts Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3405815

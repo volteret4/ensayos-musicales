@@ -1,5 +1,9 @@
 # artist - Mark Lanegan
 
+## member of
+- Queens of the Stone Age
+- Screaming Trees
+
 ## albums
 **Sweet Oblivion (1992)** : This album features the song "Nearly Lost You" and was released in 1992, often played on the PA before Soundgarden's live shows during their last tour. "Let's go back to Mark's days with screaming trees. This is from an album entitled Sweet Oblivion, 1992." ← https://www.youtube.com/watch?v=sdPeii-8Ysw ← mark-lanegan
 
@@ -20,8 +24,6 @@
 **Prominent Grunge Era Singer/Songwriter** : Mark Lanegan was a highly regarded singer and songwriter who emerged from the grunge era of the 1990s. "Mark Lennigan was one of the great singers and songwriters to come out of the whole grunge era of the 1990s." ← https://www.youtube.com/watch?v=sdPeii-8Ysw ← mark-lanegan
 **Struggles with Drug Addiction** : Mark Lanegan battled severe heroin addiction, which was so extreme that he nearly required an arm amputation in 1992 due to a severe infection from injecting drugs. "But Mark always had his demons. This is a guy who shot up so much heroin that he almost had an arm amputated in 1992 because it had become so badly infected." ← https://www.youtube.com/watch?v=sdPeii-8Ysw ← mark-lanegan
 **Undisclosed Cause of Death** : No official cause of death was released for Mark Lanegan, but his passing was not entirely unexpected given his challenging life and severe COVID-19 experience. "No cause of death was ever released, but let's just say that given his hard life in the terrible time he had with COVID, it really wasn't much of a shock." ← https://www.youtube.com/watch?v=sdPeii-8Ysw ← mark-lanegan
-
-
 
 ## lists
 **"Somebody's Knocking" (2019) — AOTY Must Hear 2010s** : #18, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/

@@ -29,15 +29,18 @@
 **Signed Janice Martin at 15 (March 1956)** : RCA Records, one of the biggest labels, signed Janice Martin in March 1956 when she was just 15 years old, following A&R man Steve Sholes' lead after he had signed Elvis Presley. "in March 1956, aged just 15, Janice Martin was signed to RCA Records, one of the biggest labels in the country." ← Episode 40： ＂Drugstore Rock 'n' Roll＂ by Janis Martin | https://www.youtube.com/watch?v=l0i2p9TelN0
 **Steve Scholls' Role** : Steve Scholls served as the head of country and R&B at RCA Records and was a key member of Tom Parker's team, handling record production for artists like Eddie Arnold. "Steve Scholls, the head of country and Arvin B at RCA, would handle the record production." ← Episode 33： ＂Mystery Train＂, by Elvis Presley | https://www.youtube.com/watch?v=DSHTmHy3Jo0
 **Struggled to Build Janice Martin's Audience** : Despite initial success with Janice Martin's debut single, RCA had trouble building her audience, as they, like many labels in 1956, were unsure how to market white rock and roll acts beyond the absolute biggest stars. "They were having trouble building her audience." ← Episode 40： ＂Drugstore Rock 'n' Roll＂ by Janis Martin | https://www.youtube.com/watch?v=l0i2p9TelN0
+**Graham Parker's Self-Produced Album** : After a dispute with Atlantic Records over production control, Graham Parker signed with RCA Records for his album "The Mona Lisa's Sister." Under this label, he was able to produce the entire album himself with members of The Rumour for less than $60,000, demonstrating his commitment to artistic independence. "left Atlantic records, signed to RCA records, and produced the whole album himself." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
+**Strategic Re-promotion of David Bowie's Catalog (1973-1974)** : As David Bowie broke on the album chart in 1972 with LPs like "Hunky Dory" and "Ziggy Stardust," RCA Records, his American label, strategically re-promoted his 1969 album (under the title "Space Oddity") and re-issued singles like "Space Oddity" and "Changes" in the early 1970s, crucial actions that solidified Bowie's career in America. "RCA Records, Bowie's American label, decided to re-promote his 1969 album, under the title Space Audity, with new post-Ziggy Stardust imagery and even a new video of Bowie miming the song in glam makeup." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c42e
+**David Bowie's Dissatisfaction and Departure (Early 1980s)** : David Bowie was unhappy with RCA Records, which led to the longest gap in his career between studio albums as he angled to get out of his contract, ultimately moving to EMI Records for his "Let's Dance" album in 1983. This dissatisfaction marked a turning point in his career and label affiliations. "He was unhappy with his label, RCA Records, angling to get out of the contract and determined to try new things." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 2 | https://shows.acast.com/hit-parade/episodes/696aa4d936ab0b5268aab02b
+**Poor Distribution of "Black Tie White Noise" (1993)** : David Bowie's 1993 album "Black Tie White Noise" was released on a "small subsidiary of RCA Records" and suffered from poor distribution and promotion. This logistical failure contributed significantly to the album barely scraping the top 40 and becoming his shortest-lived album on the Billboard 200. "Unfortunately, Black Tie White Noise was released on a small subsidiary of RCA Records and was poorly distributed and promoted." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 2 | https://shows.acast.com/hit-parade/episodes/696aa4d936ab0b5268aab02b
 
 ## artists
 - Chet Atkins
 - Dale Hawkins
 - David Bowie
-- Eddie Arnold
+- Eddy Arnold
 - Elvis Presley
 - Ethel Gabriel
-- Flood Cramer
 - Floyd Cramer
 - Janice Martin
 - Joy Division
@@ -46,7 +49,7 @@
 - Roy Orbison
 - The Isley Brothers
 - The Jordanaires
-- The Shags
+- The Shaggs
 - The Speer Family
 - The Tokens
-
+- Graham Parker

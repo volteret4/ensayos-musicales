@@ -34,6 +34,7 @@
 **Subgenre of Post-Punk** : Goth is identified as one of the styles that falls under the post-punk umbrella. "Goth, dark wave, dream pop, the jangly guitars, bands like R.E.M., the spiky stuff of groups like Wire and Shoegay's were, and in some cases still are, artists in those buckets that we can consider to be post-punk." ← https://www.youtube.com/watch?v=pLf3kUONewg ← goth ← goth
 **Theater of Hate as an Example** : The band Theater of Hate is cited as an example of a goth band. "Steve Guthrie was a member of a Gothband called Theater of Hate." ← https://www.youtube.com/watch?v=QfiRRtsZoYU ← goth
 **UK Origin** : A significant portion of this early Goth music originated from the UK. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← goth
+**King of Pain - Almost Goth** : Sting's song "King of Pain" from "Synchronicity" was described as "super emo, almost goth," pointing to its dark, emotional aesthetic. "In the fall of 83, Sting's Super Emo, almost goth, King of Pain, reached number three on the Hot 100." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
 
 ## artists
 - 45 Grave
@@ -47,18 +48,15 @@
 - Marilyn Manson
 - Ministry
 - Nine Inch Nails
-- Rage Against The Machine
 - Rage Against the Machine
 - Sex Gang Children
 - Siouxsie and the Banshees
-- Sisters of Mercy
+- The Sisters of Mercy
 - Skinny Puppy
 - Southern Death Cult
 - The Cure
 - The Dance Society
 - The March Violets
-- The Sisters of Mercy
-- Theater of Hate
+- Theatre of Hate
 - Type O Negative
-- Zimax
-
+- Sting

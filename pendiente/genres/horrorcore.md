@@ -6,7 +6,7 @@
 **Three 6 Mafia's Creation** : Three 6 Mafia is credited with creating "southern horrorcore," disseminating its distinctive, dark, and violent sound throughout Memphis and beyond. "Habían creado el horror corra a la soreña, y lo difundieron por toda la ciudad." ← Memphis Rap： Cuando el rap era puro terror | https://www.youtube.com/watch?v=lWBpNa-xSt4
 
 ## artists
-- Al Capone
+- Al Kapone
 - Blackout
 - Crunchy Black
 - DJ Paul

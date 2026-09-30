@@ -58,26 +58,27 @@
 **Vocal Isolation Booth Development** : Inspired by Roy Orbison's makeshift coat-rack vocal isolation technique during the "Running Scared" sessions at Monument, Chet Atkins arranged for RCA to build a proper vocal isolation booth at their studios to achieve the same effect. "Apparently, when Chef Hackens popped into the studio for a visit, he was utterly bemused by what he saw, but then he was impressed enough by the idea that he got RCA to build a proper vocal isolation booth at their studios to get the same effect." ← Episode 83： ＂Only the Lonely＂ by Roy Orbison | https://www.youtube.com/watch?v=uDvkjXa1ALk
 **World's Largest Record Company (1956)** : In 1956, RCA was recognized as the largest record company in the world when Elvis Presley signed with them, providing him with unparalleled promotional resources. "la RCA que era la discográfica más grande del mundo de aquellas." ← Music Radar Clan > Elvis Presley - El día que nació el mito | https://www.youtube.com/watch?v=S9zJ1YFdUeA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← rca ← rca
 **Wu Tang Clan's Debut Contract (No Advance)** : The Wu Tang Clan secured a contract with RCA, one of the world's most significant record labels, for their debut album. However, despite the major label backing, RCA did not provide any financial advance ("not a single penny") to produce the record, forcing the band to fund it themselves. This unique contract, championed by RZA, was designed to protect the individual members' rights to pursue solo careers independently of the group's contract. "Al final lo consigo con la RCA y aunque lo firma con una de las esporafilas más importantes en el mundo es como si en la práctica no lo hubiera hecho porque no es dio ni un centimo para hacer el disco." ← Music Radar Clan > Wu Tang Clan. Historia viva del Hip Hop | https://www.youtube.com/watch?v=-03mEzKqrvA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← rca ← rca
+**John Denver's Greatest Hits Release (1973)** : RCA, John Denver's label, issued the compilation 'John Denver's Greatest Hits' in late 1973, for which he re-recorded several tracks. "his label, RCA, had issued a compilation. My beloved John Denver's greatest hits." ← Hit Parade Music History and Music Trivia > Country Roads and Summer Nights Edition Part 1 | https://shows.acast.com/hit-parade/episodes/698fd3ebd6c27a06bb92e1f2
 
 ## artists
 - Andy Gibb
-- Bernliner
-- Charlie Pride
+- Emile Berliner
+- Charley Pride
 - David Bowie
 - Elvis Presley
 - Glenn Miller
 - Hugo and Luigi
 - Hum
-- Jerry Lieber and Mike Stoller
+- Leiber and Stoller
 - Jesse Belvin
 - Jose Feliciano
 - Joy Division
-- Leiber and Stoller
 - Lou Reed
 - Mickey & Sylvia
 - Perry Como
 - Pure Prairie League
 - Roy Orbison
 - The Strokes
-- Wu Tang Clan
-
+- Wu-Tang Clan
+- Hootie & the Blowfish
+- John Denver

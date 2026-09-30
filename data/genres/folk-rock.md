@@ -15,4 +15,6 @@
 - The Byrds
 - The Searchers
 - Tom Robinson
-
+- Bob Dylan
+- David Bowie
+- The Indigo Girls

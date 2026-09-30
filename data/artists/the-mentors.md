@@ -1,10 +1,8 @@
 # artist - The Mentors
 
 ## members
-- El Ducche
-- Elden Hoke (Eldu-Cher)
-- Elden Hoke (Elduchet)
-- Eric Carlson (Sikki Wifebeater)
+- El Duce
+- Sickie Wifebeater
 
 ## genres
 - Extreme LA Punk
@@ -14,9 +12,9 @@
 - Rape Rock
 
 ## songs
-**Fag Bashar (Year Unknown)** : This song title is listed as one of the releases by The Mentors, an extreme LA punk band recognized for their extreme and "journey buttons" content. "Fag Bashar" ← https://www.youtube.com/watch?v=sKWgbxk46eM ← the-mentors
-**Golden Showers (Year Unknown)** : This is another song title attributed to The Mentors, an extreme LA punk band. The band was noted for controversial and "journey buttons" song titles. "Golden Showers" ← https://www.youtube.com/watch?v=sKWgbxk46eM ← the-mentors
-**Sandwich of Love (Year Unknown)** : This is one of the song titles mentioned as being released by the extreme LA punk band The Mentors, known for their provocative and "pretty journey buttons" lyrics. "Sandwich of Love" ← https://www.youtube.com/watch?v=sKWgbxk46eM ← the-mentors
+**Fag Bashar** : This song title is listed as one of the releases by The Mentors, an extreme LA punk band recognized for their extreme and "journey buttons" content. "Fag Bashar" ← https://www.youtube.com/watch?v=sKWgbxk46eM ← the-mentors
+**Golden Showers** : This is another song title attributed to The Mentors, an extreme LA punk band. The band was noted for controversial and "journey buttons" song titles. "Golden Showers" ← https://www.youtube.com/watch?v=sKWgbxk46eM ← the-mentors
+**Sandwich of Love** : This is one of the song titles mentioned as being released by the extreme LA punk band The Mentors, known for their provocative and "pretty journey buttons" lyrics. "Sandwich of Love" ← https://www.youtube.com/watch?v=sKWgbxk46eM ← the-mentors
 
 ## curiosities
 **"Kings of Sleeze" Self-Description** : The Mentors, an extreme punk band from Los Angeles, proudly referred to themselves as the "Kings of Sleeze," a moniker that reflected their provocative and controversial image. This self-proclaimed title was frequently associated with their frontman, Elden Hoke (Eldu-Cher). "They proudly refer to themselves as the Kings of Sleeves." ← https://www.youtube.com/watch?v=1Jt2fUBDusk ← the-mentors
@@ -25,10 +23,3 @@
 **Leader El Ducche's Death and Claims** : Their leader, El Ducche, died when he was decapitated by a train, and he controversially claimed that Courtney Love had hired him to kill Kurt Cobain. "And leader El Ducche, he died when he was decapitated by a train. Oh, and he claimed that Courtney Love had hired him to kill Kurt Cobain." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← the-mentors
 **Pornor/Rape Rock Naming** : The Mentors, a band from Seattle, alternatively referred to their garage punk metal style as "Pornor Rock" or "Rape Rock." "garage punk metal and what they alternatively called Pornor Rock or rape rock." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← the-mentors
 **Racist Content** : The band was known for often incorporating very racist content into their music. "And often very racist, maybe stay away from the mentors." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← the-mentors
-
-
-
-## lists
-**"Open Your Heart" (2012) — AOTY Must Hear 2010s** : #788, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Hootersville" (1983) — Scaruffi 1980s** : #561, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Leave Home" (2011) — Scaruffi 2010s** : #80, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

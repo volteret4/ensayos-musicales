@@ -7,3 +7,10 @@
 ## curiosities
 **Established Recording Artist** : Ray Stevens was already a well-known recording artist with a number one hit ("Everything Is Beautiful") before releasing "The Streak." "Ray Stevens was an established recording artist when he recorded the streak." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
 
+## charts
+**"Ahab the Arab" — Billboard Year-End Hot 100** : #61, 1962. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Gitarzan" — Billboard Year-End Hot 100** : #61, 1969. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Everything Is Beautiful" — Billboard Year-End Hot 100** : #12, 1970. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"The Streak" — Billboard Year-End Hot 100** : #8, 1974. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Misty" — Billboard Year-End Hot 100** : #91, 1975. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"373" — NME Chart** : 12 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

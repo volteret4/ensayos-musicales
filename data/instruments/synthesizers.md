@@ -25,13 +25,15 @@
 **Theme Song Composition** : Synthesizers were used by imaging producer Amin Batia in 1993 for the composition of the ongoing history show's theme song. "The theme song is a combo of me doing stuff with my synthesizers, some production library stuff, some sound effects." ← Ongoing History of New Music > OGHONM 1000th Episode： The Q&A From the Live Recording | https://www.youtube.com/watch?v=4xxgPX-aR90&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Trent Reznor's Early Fascination** : Synthesizers were a profound source of inspiration for Trent Reznor from a young age. He found them, along with drum machines from bands like The Human League, OMD, and Depeche Mode, "really cool," to the extent that he once considered a job working for a company that made them. "But the synthesizers and drum machines of the human league and OMD and Depeche mode. Now that was really cool." ← Ongoing History of New Music > Deep Dark Secrets of Nine Inch Nails | https://www.youtube.com/watch?v=M3nUQtja0qc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Usage in Antichrist Superstar** : Synthesizers were utilized in Marilyn Manson's "Antichrist Superstar," contributing to its complex musicality, alongside elements of New Wave and various rock and metal genres. "y desintetizadores." ← Music Radar Clan > Cómo Marilyn Manson revolucionó el mundo con Antichrist Superstar | https://www.youtube.com/watch?v=P0QBVwi9KZQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Joe Jackson's Experimentation** : Joe Jackson began experimenting with synthesizers for his "Night and Day" album, influenced by Kraftwerk's electronic dance beats. He notably programmed a Prophet 5 synthesizer in his small SoHo studio, using it as a key tool for the album's centerpiece song, "Steppin' Out." "On top of all these urban sounds, Jackson had been experimenting with synthesizers and drum machines." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
+**Shift in New Wave Sound** : Synthesizers became increasingly central to the sound of new wave in the early 1980s, leading to a shift from powerpop and post-punk to synthpop. Albums like Elvis Costello's "Goodbye Cruel World" featured "synth heavy singles" reflecting this trend. "with such synth heavy singles as I Wanna Be Loved." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
 
 ## artists
 - Björk
 - Blink 182
 - Boards of Canada
 - Brian Eno
-- Can
+- CAN
 - Depeche Mode
 - Holger Czukay
 - Joy Division
@@ -39,5 +41,5 @@
 - Nitzer Ebb
 - Soichi Terada
 - Trent Reznor
-- blink-182
-
+- Morgan Wallen
+- Joe Jackson

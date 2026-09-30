@@ -25,5 +25,4 @@
 - The Black Keys
 - The Strokes
 - The Tragically Hip
-- blink-182
 

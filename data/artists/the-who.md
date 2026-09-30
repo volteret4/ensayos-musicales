@@ -3,12 +3,9 @@
 ## members
 - John Entwistle
 - Keith Moon
-- Keith Moon (drummer)
-- Keith Moon (implied by drumming mention)
-- Pete Townsend
 - Pete Townshend
 - Roger Daltrey
-- Zach Starkey (on call)
+- Zak Starkey
 
 ## genres
 - Garage Rock
@@ -33,27 +30,27 @@
 ## instruments
 - Gibson Les Paul
 - Marshall Amplifier
-- Modular console (Olympic Studios)
+- Modular console
 - Rickenbacker guitar
 
 ## albums
 **A Quick One (1966)** : This album features "A Quick One While He's Away," a 10-minute song comprising six movements. This track is often credited to Pete Townshend as the first rock opera, predating *Tommy*. "It's a 10-minute song containing six movements that was recorded for the who's second album called a quick one in 1966." ← For the Record - The 70s > Ep. 42 - Rock Operas of the 70s | https://seventies.libsyn.com/ep-42-rock-operas-of-the-70s ← the-who
-**Quadrophenia** : The Who's *Quadrophenia* was mentioned in the context of its film version, in which actor Phil Daniels starred as Jimmy. Daniels later became a guest vocalist on Blur's song `Parklife`. "The guy who start as Jimmy in the film version of the Who's Quadrrophemia." ← https://www.youtube.com/watch?v=5q5EnZj1FwE ← the-who
+**Quadrophenia (1973)** : The Who's *Quadrophenia* was mentioned in the context of its film version, in which actor Phil Daniels starred as Jimmy. Daniels later became a guest vocalist on Blur's song `Parklife`. "The guy who start as Jimmy in the film version of the Who's Quadrrophemia." ← https://www.youtube.com/watch?v=5q5EnZj1FwE ← the-who
 **Quadrophenia (1973)** : Released in 1973, this album was written entirely by Pete Townshend and tells the story of Jimmy Cooper, a young British mod. Jimmy, who quit his postal worker job to join the mod subculture, grapples with four distinct personalities, each symbolizing a member of The Who. Sean Murphy of *Pop Matters* (2011) lauded the album for covering universal rock themes like alienation, rebellion, redemption, sex, drugs, and rock and roll, alongside specific cultural references to mods, rockers, punks, and various personal struggles. An uncredited critic in the *Chicago Sun Times* (Fall 1973) compared its singular achievement to works like James Joyce's *Ulysses*, Beethoven's Symphony No. 9, and Goethe's *Faust*, describing it as "ever uncorrupted rock and roll, standing by itself in isolated splendor." ← For the Record - The 70s > Ep. 42 - Rock Operas of the 70s | https://seventies.libsyn.com/ep-42-rock-operas-of-the-70s ← the-who
-**Rock Operas (1969)** : The Who produced rock operas in the late 1960s, notably around 1969, which served as an influence for Green Day when developing *American Idiot*. "Why don't we go back and listen to those old who rock operas?" ← https://www.youtube.com/watch?v=1KyNY3zv6uc ← the-who
 **Tommy (1969)** : This "great album" was released in the late 1960s and, according to acoustic comparisons, sounded similar to other bands of the era, implying it also maintained the acute guitar characteristics that persisted until Led Zeppelin's breakthrough. "los U tenían ese gran dísimo disco Tony también sacado a los finales de los 60, que sonaba de una manera también acústicamente similada." ← Music Radar Clan > Cómo LED ZEPPELIN inventó el ROCK MODERNO | https://www.youtube.com/watch?v=8dabTOIf3Ek&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-who ← the-who
-**Who's Next** : This album is cited as one of the significant rock releases of all time, alongside U2's The Joshua Tree. "whose next" ← https://www.youtube.com/watch?v=VR5Fncdc2kQ ← the-who
+**Who's Next (1971)** : This album is cited as one of the significant rock releases of all time, alongside U2's The Joshua Tree. "whose next" ← https://www.youtube.com/watch?v=VR5Fncdc2kQ ← the-who
 
 ## songs
 **A Quick One While He's Away (1966)** : This 10-minute song, comprising six movements, was recorded for The Who's second album, *A Quick One*. It is credited to Pete Townshend and considered by some to be the first rock opera. "It's a 10-minute song containing six movements that was recorded for the who's second album called a quick one in 1966." ← For the Record - The 70s > Ep. 42 - Rock Operas of the 70s | https://seventies.libsyn.com/ep-42-rock-operas-of-the-70s ← the-who
 **Baba O'Riley (1971)** : The rhythm guitar part from The Who's "Baba O'Riley" was an acknowledged influence on Bachman-Turner Overdrive's "You Ain't Seen Nothing Yet." "Certainly the rhythm guitar from Bobo O'Reilly by the Who" ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← the-who
-**Can't Explain (1964)** : Original song written by Pete Townshend in 1964, which was later covered by various artists including David Bowie, Scorpions, The Sweets, Snuff, and The Minutes. "It's his recording of a song Pete Townsend wrote for The Who in 1964." ← https://www.youtube.com/watch?v=dnQ1pNbIUjw ← the-who ← the-who
-**I Can't Explain** : An original song, covered by David Bowie on his 1972 album Pinups. "David Boyle from his 1972 album, Pinups, and his version of The Who's can explain." ← https://www.youtube.com/watch?v=_YjwRApoJhA ← the-who
+**I Can't Explain (1965)** : Original song written by Pete Townshend in 1964, which was later covered by various artists including David Bowie, Scorpions, The Sweets, Snuff, and The Minutes. "It's his recording of a song Pete Townsend wrote for The Who in 1964." ← https://www.youtube.com/watch?v=dnQ1pNbIUjw ← the-who ← the-who
+**I Can't Explain (1965)** : An original song, covered by David Bowie on his 1972 album Pinups. "David Boyle from his 1972 album, Pinups, and his version of The Who's can explain." ← https://www.youtube.com/watch?v=_YjwRApoJhA ← the-who
 **Love, Rain or Me (1973)** : The final song on *Quadrophenia*, this track tells the story of Jimmy, who, after stealing a boat and landing on a rock, yearns for love. The album version includes distinct sounds of rain and a gong crash, which are absent from the single version. Pete Townshend initially envisioned Roger Daltrey's vocal as a "whimper" to convey the character's profound distress, reflexively dismissing Daltrey's more powerful interpretation until engineer Ron Nevisin persuaded him to accept it. While not a *Billboard* Hot 100 hit, the song is firmly established in the classic rock canon. "Townsend said that he envisioned the song's song as more like a whimper." ← For the Record - The 70s > Ep. 42 - Rock Operas of the 70s | https://seventies.libsyn.com/ep-42-rock-operas-of-the-70s ← the-who
 **Pinball Wizard (1969)** : A key song from the rock opera *Tommy*, Pete Townshend originally wrote this track to impress influential British rock critic Nick Cohn, who was a fervent pinball enthusiast. The song's composition was inspired by Henry Purcell's 1680 piece "Fantasia Upon One Note," with Townshend analyzing every chord to adapt it for guitar. Despite Townshend initially viewing it as "a clumsy attempt at songwriting," Cohn was ultimately impressed, which helped *Tommy* gain essential attention. The lyrics vividly describe a skilled player: "He stands like a statue, becomes part of the machine, feeling all the bumpers, always playing clean. He plays by intuition, the digit counterspaul, that deaf, dumb, blind kid, shore plays a mean pinball." ← For the Record - The 70s > Ep. 42 - Rock Operas of the 70s | https://seventies.libsyn.com/ep-42-rock-operas-of-the-70s ← the-who
-**Substitute** : The Who recorded this song, and producer Terry Brown was present for the session, adding to his historical musical credentials. "He had been there when the Who recorded Substitute." ← https://www.youtube.com/watch?v=mbic-70ZhpE ← the-who ← the-who
-**Who Are You** : This song serves as the theme for the popular TV show "CSI," being heard on every episode. Its use as a consistent theme song represents a significant and ongoing source of revenue through licensing. ← https://www.youtube.com/watch?v=sfie4YYncxk ← the-who
-**Won't Get Fooled Again** : The famous scream by Roger Daltrey towards the end of this song was recorded at Olympic Studios. "Roger Dahltry's famous scream near the end of the Who's Won't Get Fooled Again was recorded at Olympic." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← the-who ← the-who
+**Substitute (1966)** : The Who recorded this song, and producer Terry Brown was present for the session, adding to his historical musical credentials. "He had been there when the Who recorded Substitute." ← https://www.youtube.com/watch?v=mbic-70ZhpE ← the-who ← the-who
+**Who Are You (1978)** : This song serves as the theme for the popular TV show "CSI," being heard on every episode. Its use as a consistent theme song represents a significant and ongoing source of revenue through licensing. ← https://www.youtube.com/watch?v=sfie4YYncxk ← the-who
+**Won't Get Fooled Again (1971)** : The famous scream by Roger Daltrey towards the end of this song was recorded at Olympic Studios. "Roger Dahltry's famous scream near the end of the Who's Won't Get Fooled Again was recorded at Olympic." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← the-who ← the-who
+**Won't Get Fooled Again (1971)** : Roger Daltrey's renowned scream near the conclusion of The Who's song "Won't Get Fooled Again" was captured at Olympic Studios. "And Roger Dahltry's famous scream near the end of the Who's Won't Get Fooled Again was recorded at Olympic." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← roger-daltrey ← roger-daltrey
 
 ## curiosities
 **Accidental Death of Chauffeur (January 4, 1970)** : On January 4, 1970, outside the Red Lion Pub near London, Keith Moon's car was pelted with rocks and bottles by a crowd of skinheads. His chauffeur, Neil Bowen, stepped out to try and calm the situation. In a panic, Moon, who did not have a driver's license, jumped behind the wheel and hit the accelerator, trapping and dragging Bowen beneath the car, leading to his death in hospital. "On January 4, 1970, Keith ran into an angry crowd outside the Red Lion Pub near London, a group of skinheads went after Moon and his Bentley pelting it with rocks and bottles." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← the-who
@@ -104,8 +101,6 @@
 **Trout Farming** : Roger Daltrey has taken his interest in fishing a step further by becoming a trout farmer in his spare time. "he's a trout farmer in his spare time." ← https://www.youtube.com/watch?v=xc85sLj0Cnk ← the-who
 **UK Garage Rock Example** : The Who are mentioned as a UK Garage Rock band from the original era, contributing to the global spread of the genre. "Out of the UK, there were bands like the Kinks and the Pretty Things and the Who, even the Rolling Stones to a certain extent." ← https://www.youtube.com/watch?v=UpWz3X33vSY ← the-who
 **Unawareness of Tragedy During Concert** : The band members themselves, along with many concert-goers, were unaware of the fatal crush that occurred at the entrance until after their performance had concluded. "Even the band did not realize what had happened until after it happened." ← For the Record - The 70s > Ep. 58 - WKRP in Cincinnati | https://www.ftr70.com
-
-
 
 ## awards
 **Rock and Roll Hall of Fame (1990)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191

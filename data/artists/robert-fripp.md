@@ -1,7 +1,6 @@
 # artist - Robert Fripp
 
 ## member of
-- David Bowie
 - King Crimson
 
 ## labels
@@ -10,12 +9,12 @@
 - Universal Music Corporate
 
 ## instruments
-- EMS synthesizer
 - Electric guitar
+- EMS synthesizer
 - Guitar
 
 ## songs
-**"Heroes" (1977) - Stately Guitar Drone** : Robert Fripp, guest guitarist from King Crimson, contributed a "stately guitar drone" to the recording of David Bowie's song "Heroes." This distinctive guitar work, combined with Brian Eno's electronic pulse, created a unique and majestic sound unlike anything Bowie had done before. "The recording, too, was unlike anything Boey had done before, with an oscillating electronic pulse by Brian Eno and a stately guitar drone by guest guitarist Robert Fripp from King Crimson." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 1 | https://shows.acast.com/hit-parade/episodes/696aa42a4796fcbb571adba7
+**"Heroes" (1977)** : Robert Fripp, guest guitarist from King Crimson, contributed a "stately guitar drone" to the recording of David Bowie's song "Heroes." This distinctive guitar work, combined with Brian Eno's electronic pulse, created a unique and majestic sound unlike anything Bowie had done before. "The recording, too, was unlike anything Boey had done before, with an oscillating electronic pulse by Brian Eno and a stately guitar drone by guest guitarist Robert Fripp from King Crimson." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 1 | https://shows.acast.com/hit-parade/episodes/696aa42a4796fcbb571adba7
 
 ## curiosities
 **Absence from David Bowie's *Lodger*** : Robert Fripp was not involved in the recording of David Bowie's *Lodger* album; his place was taken by Adrian Belew, who would also later become a member of King Crimson. "Esta vez Robert Thrip no estaría involucrado en la grabación, su lugar lo ocuparía, casualmente, otro futuro King Crimson, Adrián Beléu." ← El proyecto que salvó a David Bowie. La trilogía de Berlín | https://www.youtube.com/watch?v=CHJwoQRxrKg
@@ -37,8 +36,6 @@
 **Pioneering Legal Battles for Rights** : Robert Fripp's complex and lengthy legal battles against the music industry, particularly concerning King Crimson's catalog, have been instrumental in establishing new jurisprudential bases for understanding and managing musical rights. His personal struggle has significantly influenced how rights management is perceived today. "los procesos judiciales de King Crimson o de Robert Flip en concreto. En contra de la industria musical, han sentado muchas bases de cómo entendemos la gestión de derechos." ← Music Radar Clan > King Crimson, derechos y Spotify | https://www.youtube.com/watch?v=Xg0XR9r95cc&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← robert-fripp ← robert-fripp
 **Significant Legal Victories and Industry Precedents** : Robert Fripp achieved "enormous victories" in his protracted legal battles, successfully recovering rights he had previously lost. His efforts established "important precedents for the industry," significantly smoothing the path for many artists from the 1960s and 1970s, such as AC/DC, who had also been divested of their rights by record labels. "ha conseguido enormes victorias porque no solo recuperó todos los derechos que no tenía de King Crimson pero también esentaba precedentes importantes para la industria se facilitó mucho el camino para muchos artistas que durante los años 60 y 70 habían perdido sus derechos a manos de discográficas como el caso de Isidisi o de muchas otras." ← Music Radar Clan > King Crimson, derechos y Spotify | https://www.youtube.com/watch?v=Xg0XR9r95cc&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← robert-fripp ← robert-fripp
 **Windows Vista Startup Sound (2007)** : Robert Fripp, the renowned guitarist of King Crimson and a friend and collaborator of Brian Eno, was responsible for creating the startup sound for Microsoft's Windows Vista operating system. This continued the tradition of established musicians composing these iconic computer audio cues. "el de Windows Vista, creado también por otro músico reputado, por cierto, Robert Fripp, guitaristare, King Crimson y amigo y colaborador de Inno." ← Por Qué Tu Cerebro Nunca Olvidará Este Sonido | https://www.youtube.com/watch?v=86tqZ33gn_4
-
-
 
 ## lists
 **"Exposure" (1979) — Scaruffi 1970s** : #475, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

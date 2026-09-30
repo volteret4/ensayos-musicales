@@ -6,7 +6,7 @@
 **Rescue of Trent Reznor** : Producer Jimmy Iovine brought Trent Reznor into the fold of Interscope Records after his "suffocating deal" with TVT Records was resolved, allowing Trent to record his second album without further dispute. "After Trent was rescued from the suffocating deal with TVT records producer Jimmy Iovine brought him into the fold of interscope records." ← https://www.youtube.com/watch?v=DKdF8NgF5Bw ← interscope-records
 
 ## artists
-- Blink-182
+- Blink 182
 - Limp Bizkit
 - Marilyn Manson
 - Nine Inch Nails

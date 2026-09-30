@@ -1,9 +1,9 @@
 # artist - Skinny Puppy
 
 ## members
+- cEvin Key
 - Dwayne Goettel
 - Nivek Ogre
-- cEvin Key
 
 ## genres
 - Alternative
@@ -20,16 +20,16 @@
 ## instruments
 - Drum machines
 - Electronics
-- Guitars (loud)
+- Guitars
 - Heavy beats
 - Keyboards
-- Samplers (horror movie clips)
+- Samplers
 - Samples
 
 ## songs
-**Dig It (1986) - Classic and Intense Song** : Released in 1986, "Dig It" is considered a classic Skinny Puppy song, known for its unbelievably intense and heavy sound during that period, and it influenced Trent Reznor. "This remains the classic Skinny Puppy song, which dates to 1986. This was unbelievably intense and heavy back in those days. This is Big It. Skinny Puppy and Dig It from 1986." ← https://www.youtube.com/watch?v=EE8U4yyKtd0 ← skinny-puppy ← skinny-puppy
-**Dig It (unspecified year)** : This song directly influenced Trent Reznor's first "new style" Nine Inch Nails track, "Down In It." Trent openly admitted that "Down In It" was "a total ripoff" of "Dig It," highlighting Skinny Puppy's significant impact on his transition to a harder, more sinister sound. "The original version I did was about half speed of the one in the record. And it was a total ripoff of Dig It, my Skinny Puppy." ← https://www.youtube.com/watch?v=M3nUQtja0qc ← skinny-puppy
-**Digit (1986)** : This track from 1986 is highlighted as tremendously important and influential in the development of the modern industrial sound, exemplifying Skinny Puppy's unique blend of keyboards, samplers, drum machines, and loud guitars. "This is from 1986. It's Digit." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← skinny-puppy ← skinny-puppy
+**Dig It (1986)** : Released in 1986, "Dig It" is considered a classic Skinny Puppy song, known for its unbelievably intense and heavy sound during that period, and it influenced Trent Reznor. "This remains the classic Skinny Puppy song, which dates to 1986. This was unbelievably intense and heavy back in those days. This is Big It. Skinny Puppy and Dig It from 1986." ← https://www.youtube.com/watch?v=EE8U4yyKtd0 ← skinny-puppy ← skinny-puppy
+**Dig It (1986)** : This song directly influenced Trent Reznor's first "new style" Nine Inch Nails track, "Down In It." Trent openly admitted that "Down In It" was "a total ripoff" of "Dig It," highlighting Skinny Puppy's significant impact on his transition to a harder, more sinister sound. "The original version I did was about half speed of the one in the record. And it was a total ripoff of Dig It, my Skinny Puppy." ← https://www.youtube.com/watch?v=M3nUQtja0qc ← skinny-puppy
+**Dig It (1986)** : This track from 1986 is highlighted as tremendously important and influential in the development of the modern industrial sound, exemplifying Skinny Puppy's unique blend of keyboards, samplers, drum machines, and loud guitars. "This is from 1986. It's Digit." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← skinny-puppy ← skinny-puppy
 
 ## curiosities
 **Breakup and Reunion (1996, 2003)** : The band initially broke up in 1996 but reunited in 2003 and has officially remained together ever since. "They did break up in 1996, but they reunited in 2003 and have officially stayed together ever since." ← https://www.youtube.com/watch?v=EE8U4yyKtd0 ← skinny-puppy ← skinny-puppy
@@ -51,8 +51,6 @@
 **Use of Found Sounds (1983)** : As early as 1983, the Canadian group Skinny Puppy incorporated "found sound" into their music by using bits of dialogue lifted directly from movies to augment their sound. This practice was an early example of using external audio sources to create unique textures and atmospheres. "For example, Canada's skinny puppy used bits of dialogue lifted directly from movies to augment their sound as early as 1983." ← https://www.youtube.com/watch?v=OiqdZfxdBP0 ← skinny-puppy
 **Widespread Influence** : Skinny Puppy is cited as a major inspiration and influence for a long list of prominent artists including Ministry, Nine Inch Nails, Marilyn Manson, The Prodigy, Rammstein, Filter, Korn, Linkin Park, and Evanescence. "Here's a short list of artists who say they were inspired and influenced by Skinny Puppy, Ministry, Nine-inch Nails, Maryland Manson, the Prodigy, Ramstein, Filter, Corn, Lincoln Park, Evan Essence." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← skinny-puppy ← skinny-puppy
 **cEvin Key's Health and Activism** : Member cEvin Key has been involved in multiple musical projects and has publicly battled skin cancer affecting his nose, eye, and lip. In his personal time, he is an active animal rights activist with a particular fondness for cats. "Member Kevin Key has been at the center of a number of different musical projects, but he also battled skin cancer on his nose, eye, and lip. In a spare time, he works as an animal rights activist, and he especially loves cats, apparently." ← https://www.youtube.com/watch?v=EE8U4yyKtd0 ← skinny-puppy ← skinny-puppy
-
-
 
 ## lists
 **"Rabies" (1989) — Scaruffi 1980s** : #711, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

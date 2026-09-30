@@ -14,9 +14,4 @@
 **Portrayed in Film** : Andy Warhol was portrayed by Weezer guitarist Brian Bell in the film "Factory Girl." "Brian played Andy Warhol." ← https://www.youtube.com/watch?v=LYRPxtP61JM ← andy-warhol
 **Promotion of The Velvet Underground (Early 1966)** : Andy Warhol secured numerous small concerts and art showcases for The Velvet Underground, actively promoting them within the New York art world. "Andy Warhol ya le consigue bastantes pequeños conciertos, ensaras artísticas, incluso ya los empiezan mover por la jefe del art de New York." ← Music Radar Clan > The Velvet Underground： Una vision más humana que musical | https://www.youtube.com/watch?v=_TMMVFTuyC4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← andy-warhol ← andy-warhol
 **Reaction to Being Fired** : According to John Cale, while Andy Warhol initially claimed to take his dismissal well after Lou Reed fired him, he directly called Lou Reed a "dirty rat" and never spoke to him again, indicating a very sour end to their relationship. "Andy Warhol se lo tomó muy bien pero que, de girectamente, le dijo a Lurri que era una sucia rata y nunca más le volvió a hablar." ← Music Radar Clan > The Velvet Underground： Una vision más humana que musical | https://www.youtube.com/watch?v=_TMMVFTuyC4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← andy-warhol ← andy-warhol
-
-
-
-## lists
-**"…The Dandy Warhols Come Down" (1997) — 1001 Albums You Must Hear Before You Die** : #859.
-**"Dandys Rule OK" (1995) — Scaruffi 1990s** : #569, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**Aretha Album Cover (1986)** : The pop art legend Andy Warhol was hired by Arista Records to paint the cover for Aretha Franklin's 1986 album *Aretha*. This work would be the last he completed before his death in 1987. "Arista hired pop art legend Andy Warhol to paint the Aritha album cover. It would be the last work he completed before his 1987 death." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67

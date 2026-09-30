@@ -6,7 +6,7 @@
 - Folk
 
 ## labels
-- Oh Boy Records (Implied from relationship with Bonnie Raitt, but not explicitly stated)
+- Oh Boy Records
 
 ## concerts
 - Austin City Limits (1978)
@@ -31,8 +31,7 @@
 **Perspective in Songwriting** : John Prine demonstrated a unique empathy in his songwriting, notably with "Angel from Montgomery," written at age 25 from the perspective of a middle-aged woman feeling trapped and old. Bonnie Raitt, a young feminist at the time, deeply resonated with this song's portrayal of a woman in a thankless marriage, highlighting Prine's ability to transcend his own experiences. "It's a song written by a 25 year old man in 70 or 71 whenever he actually wrote it. From the perspective of a middle-aged woman who feels old and it works, Bonnie said that as a young feminist that there was something about a song written by a man from the perspective of a woman who was in kind of a, what seemed like a thankless marriage that really resonated with her." ← For the Record - The 70s > Ep. 49 - Austin City Limits and the 70s Country Music Revolution | http://ftr70.com
 **Post-COVID Loss** : The transcript notes the significant loss felt by John Prine's passing during the COVID pandemic, highlighting his immense value as a songwriter. "And John Prine's loss, that's still hurt." ← For the Record - The 70s > Ep. 49 - Austin City Limits and the 70s Country Music Revolution | http://ftr70.com
 **Songwriter's Hall of Fame Induction (2019)** : John Prine was inducted into the Songwriter's Hall of Fame in 2019 by his friend, Bonnie Raitt, celebrating his profound contributions to American songwriting. "John Prine was inducted into the song writer's Hall of Fame in 2019, inducted by his friend, Bonnie Raid." ← For the Record - The 70s > Ep. 49 - Austin City Limits and the 70s Country Music Revolution | http://ftr70.com
-
-
+**COVID-19 Related Death** : Grammy winner John Prine died as a result of COVID-19. He is remembered as one of the musicians lost during the pandemic. "David Greenfield, the key boarder for the stranglers, Grammy winner John Prime, Alan Merrill, who wrote the song, I Love Rock and Roll." ← https://www.youtube.com/watch?v=u5NLt6mkmrk ← john-prine
 
 ## awards
 **Grammy Lifetime Achievement Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q935843

@@ -1,7 +1,7 @@
 # artist - Paul Revere and The Raiders
 
 ## members
-- Paul Revere (piano player, leader)
+- Paul Revere
 
 ## genres
 - Surf Rock
@@ -14,11 +14,11 @@
 - P-Poke Club
 
 ## instruments
-- Piano (smashed on stage)
+- Piano
 
 ## songs
-**Like Long Hair** : Paul Revere and The Raiders achieved a top 40 hit with this novelty surf rock version of "A Rock Man of Peace," produced by Kim Fowley. However, their career subsequently stalled. "The Raiders actually came from Idaho, and it had a top 40 hit with, like, long hair, a novelty surf rock version of a rock man of peace that Kim Fowley had produced." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
-**Louie Louie (Cover)** : The Raiders recorded their version of "Louie Louie" in late fall 1963 at Northwest Recorders in Portland, despite Paul Revere's personal dislike for the song. Their manager, Rudger Hart, insisted on it as the first single for his new Sandy label, believing it would be a hit. It was later picked up nationally by Columbia Records and began rising on the charts. "So in late full 1963, Paul Revere and the Raiders went into Northwest recorders in Portland and recorded this." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Like, Long Hair (1961)** : Paul Revere and The Raiders achieved a top 40 hit with this novelty surf rock version of "A Rock Man of Peace," produced by Kim Fowley. However, their career subsequently stalled. "The Raiders actually came from Idaho, and it had a top 40 hit with, like, long hair, a novelty surf rock version of a rock man of peace that Kim Fowley had produced." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
+**Louie Louie** : The Raiders recorded their version of "Louie Louie" in late fall 1963 at Northwest Recorders in Portland, despite Paul Revere's personal dislike for the song. Their manager, Rudger Hart, insisted on it as the first single for his new Sandy label, believing it would be a hit. It was later picked up nationally by Columbia Records and began rising on the charts. "So in late full 1963, Paul Revere and the Raiders went into Northwest recorders in Portland and recorded this." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
 
 ## curiosities
 **Career Stall and Move to Oregon** : Following a stalled career after their hit "Like Long Hair," the band moved to Oregon. "But their career had stalled and they had moved to Orrigan." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
@@ -29,3 +29,6 @@
 **Paul Revere's Conscientious Objector Service** : Paul Revere, as a Mennonite, was drafted but was allowed to perform two years of community service in Oregon instead of military service due to his Anabaptist faith. "Because Revere, the group's piano player and leader, had been drafted, and while he was allowed not to serve in the military because of his men and aite faith, he had to do community service work there for two years instead." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
 **Superior Showmanship and Piano Smashing** : The Raiders were renowned for their exceptional showmanship, being among the first bands to smash instruments on stage. Paul Revere specifically would buy cheap second-hand pianos to smash during performances. "They were one of the first bands to smash their instruments on stage, except they weren't smashing guitars. Revere would buy cheap second hand pianos and smash those on stage." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
 
+## lists
+**"Midnight Ride" (1966) — 1001 Albums You Must Hear Before You Die** : #68.
+**"Him or Me – What’s It Gonna Be? / Legend of Paul Revere" — John Peel's Record Box** : #76. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd

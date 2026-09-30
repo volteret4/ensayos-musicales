@@ -14,8 +14,6 @@
 **Managed by Malcolm McLaren** : After his tumultuous tenure with the Sex Pistols, Malcolm McLaren went on to manage other acts, including Adam and the Ants. This was part of McLaren's continued involvement in the music industry following the punk rock era. ← https://www.youtube.com/watch?v=PzyvXmDKFUc ← adam-and-the-ants
 **New Romantic Example** : Listed as one of the bands associated with the New Romanticism movement. "Then there was Visage, Adam in the Ants, Spandovalet." ← https://www.youtube.com/watch?v=1KF5MwJVYng ← adam-and-the-ants
 
-
-
 ## charts
 **"525" — NME Chart** : 16 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
 **"534" — NME Chart** : 19 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

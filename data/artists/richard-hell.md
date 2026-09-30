@@ -1,8 +1,8 @@
 # artist - Richard Hell
 
 ## member of
+- Richard Hell and the Voidoids
 - Television
-- The Voidoids
 
 ## genres
 - Punk Rock
@@ -18,8 +18,6 @@
 **Pioneering Safety Pin Fashion** : Richard Hell was so poor that his clothes were literally falling apart, and he held them together with safety pins. Malcolm McLaren was "particularly taken" with this look, considering it a "brilliant fashion statement" which he then brought back to England to sell at his store. "This guy was so poor that his clothes were literally falling apart and the only way he could wear anything was to hold his clothes together with safety pins." ← https://www.youtube.com/watch?v=wYuNolSDLFM ← richard-hell ← richard-hell
 **Refusal of Malcolm McLaren's Offer** : Malcolm McLaren, deeply impressed by Richard Hell's image during his time in New York, offered to take Hell to the United Kingdom to further his career. However, Hell declined the offer, choosing instead to remain influential within the burgeoning New York scene. "Durante su estancia, el nuevo mayor quedó impactado por la imagen de Richard Hell, tanto que le ofrece llevarlo al Reino Unido para desarrollar su carrera y, pero Hell se negó." ← El punk existía antes de Sex Pistols (y era algo salvaje) | https://www.youtube.com/watch?v=ilXpBujkWZE
 **Unwitting Punk Fashion Catalyst (1975)** : In 1975, while serving as the bassist for The Heartbreakers, Richard Hell met Malcolm McLaren at CBGBs in New York. Due to his impoverished circumstances, Hell wore his clothing until it literally fell apart, then used safety pins to hold the ripped scraps together. McLaren, misinterpreting this as a deliberate "grand fashion statement," adopted the idea and brought it back to England, where it became a cornerstone of nascent punk fashion. "What drew Malcolm to Richard was a sense of style or what Malcolm thought to be Richard's sense of style because, well, you see, Richard was actually so poor that he'd wears clothing until they literally fell apart. And once they did that, he'd hold the rip scraps of cloth together with safety pins." ← https://www.youtube.com/watch?v=1y2UuU-me_s ← richard-hell ← richard-hell
-
-
 
 ## lists
 **"Blank Generation" (1977) — Scaruffi 1970s** : #470, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

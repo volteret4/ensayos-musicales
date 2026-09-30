@@ -1,10 +1,11 @@
 # artist - Tom Jones
 
 ## songs
-**Thunderball (1965) – Title Theme** : Tom Jones, a singer from Wales, was recruited by John Barry to perform the title theme for the 1965 James Bond film "Thunderball." His powerful vocal performance contributed to the film's musical identity and continued the trend of grand, orchestrated themes for the franchise. "Barry went to Wales again for 1965's Thunderball getting Tom Jones to sing the title theme." ← https://www.youtube.com/watch?v=K0pgJ7XAlpo ← tom-jones
+**Thunderball (1965)** : Tom Jones, a singer from Wales, was recruited by John Barry to perform the title theme for the 1965 James Bond film "Thunderball." His powerful vocal performance contributed to the film's musical identity and continued the trend of grand, orchestrated themes for the franchise. "Barry went to Wales again for 1965's Thunderball getting Tom Jones to sing the title theme." ← https://www.youtube.com/watch?v=K0pgJ7XAlpo ← tom-jones
 **What's New Pussycat? (1965)** : A song written for Tom Jones by Burt Bacharach. "Bakerak wrote what's new pussycat for Tom Jones and the look of love for Dusty Springfield, close to you for the Carpenters." ← For the Record - The 70s > Ep. 28 - Soundtracks of the 70s | https://seventies.libsyn.com/028-soundtracks-of-the-70s-12221-5-45-pm
 
-
+## curiosities
+**Early Best New Artist Winner** : Tom Jones was an early recipient of the Best New Artist prize, which was launched in the early 1960s as a way for the Academy to acknowledge young performers whose music aligned with voters' preferences. "Early winners of the prize included Bobby Darren, Robert Goulet and Tom Jones." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

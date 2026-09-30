@@ -9,8 +9,6 @@
 ## songs
 **The Drinking Song (1994)** : This song is from the band's 1994 album "Enter the Conquering Chicken" and features Mia Zapata on vocals. "The Gits featuring Mia Zapata, that's called the Drinking Song." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4 ← the-gits
 
-
-
 ## lists
 **"Frenching The Bully" (1992) — Scaruffi 1990s** : #721, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
 **"Frenching The Bully" (1992) — Sputnikmusic Best Albums 1992** : #70, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/

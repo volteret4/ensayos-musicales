@@ -5,12 +5,10 @@
 
 ## artists
 - Death Grips
-- Jay Z
 - Jay-Z
 - Kanye West
 - Kendrick Lamar
 - MC Paul Barman
-- MF DOOM
 - MF Doom
 - Run the Jewels
 

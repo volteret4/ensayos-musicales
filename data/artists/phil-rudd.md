@@ -2,5 +2,3 @@
 
 ## member of
 - AC/DC
-- ACDC
-

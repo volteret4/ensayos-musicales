@@ -9,8 +9,6 @@
 ## curiosities
 **Fronted by Brittany Howard** : Alabama Shakes is fronted by Brittany Howard, who is recognized as a formidable vocalist and guitarist. "Alabama Shakes is fronted by the formidable Brittany Howard, great guitar player." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← alabama-shakes
 
-
-
 ## awards
 **Libera Award for Record of the Year** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q96387381
 **Libera Award for Best Live Act** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q96387385

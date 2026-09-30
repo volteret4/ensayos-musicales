@@ -2,4 +2,3 @@
 
 ## member of
 - Eagles of Death Metal
-

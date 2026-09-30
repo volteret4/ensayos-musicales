@@ -1,9 +1,10 @@
 # artist - Henry Mancini
 
+## albums
+**The Music from Peter Gunn (1959)** : Composed by Henry Mancini, this smash TV soundtrack took home the Album of the Year prize at the very first Grammy Awards in 1959. It subsequently became Billboard's top-selling LP of 1959, highlighting an early instance where Grammy voters, despite their stated intentions, rewarded mass-popular music. "And similarly, the album of the Year Prize went to composer Henry Mancini for his Smash TV soundtrack The Music from Peter Gunn." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
+
 ## songs
 **Peter Gunn Theme (1959)** : This theme from a 1950s American TV series was found to have melodic similarities to The Strokes' 2006 single "Juice Box." Consequently, the famous American composer Henry Mancini received a songwriting credit for "Juice Box." However, Mancini himself did not benefit from this credit as he had passed away approximately ten years before the song's release. "The strokes had to give Henry Man Sini, the famous American composer, a songwriting credit, because this sounded a little too much, like the theme from an American TV series from the 50s called Peter Gunn." ← https://www.youtube.com/watch?v=jEfofyobGiI ← henry-mancini
-
-
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

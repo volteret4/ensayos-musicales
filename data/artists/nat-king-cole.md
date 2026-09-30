@@ -1,5 +1,8 @@
 # artist - Nat King Cole
 
+## member of
+- Nat King Cole Trio
+
 ## genres
 - Pop
 
@@ -20,8 +23,7 @@
 **Piano Collaborations** : Nat King Cole was known to play piano with other prominent musicians such as Les Paul and Illinois Jacquet, highlighting his versatility and presence in various musical contexts beyond his trio. "We've heard Nat King Cold before, playing piano with Les Paul and Illinois Jocquette..." ← Episode 32： ＂I Got A Woman＂ by Ray Charles | https://www.youtube.com/watch?v=0oeI9f2x_fo
 **Songs Written by Rose Marie McCoy** : Rose Marie McCoy, co-writer of "It's Gonna Work Out Fine," also wrote songs for Nat King Cole. "who had written for Elvis, Nat King Cole, Nappy Brown, and many others." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
 **Stage Attack by White Supremacists (April 1956)** : In April 1956, Nat King Cole was assaulted on stage by a mob of white supremacists, resulting in his injury. This incident, despite Cole being a politically understated black entertainer performing for an all-white audience with a white backing band, underscored the violent racial tensions of the era. "In April 1956, Nat King Cole was injured on stage when a mob of white supremacists attacked him." ← Episode 45： ＂Blueberry Hill＂, by Fats Domino | https://www.youtube.com/watch?v=VqIwZGJHgBg
-
-
+**Posthumous Duet with Daughter** : The late Nat King Cole's voice was featured in a posthumous duet with his daughter Natalie Cole on the song "Unforgettable" for her 1991 album "Unforgettable with Love." This "eerie recording feat" contributed to the song winning both Record of the Year and Song of the Year at the 1992 Grammys. "The CD culminated in a duet version of the song Unforgettable, sung by Natalie and the ghostly voice of the deceased Nat." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

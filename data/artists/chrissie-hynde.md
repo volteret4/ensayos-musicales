@@ -2,7 +2,6 @@
 
 ## member of
 - London SS
-- Pretenders
 - The Pretenders
 
 ## genres
@@ -10,7 +9,7 @@
 - Rock
 
 ## labels
-- Hypnosis Song Fund (as purchaser of publishing rights)
+- Hypnosis Song Fund
 
 ## instruments
 - Chrissie Hynde Signature Model Telecaster
@@ -27,8 +26,3 @@
 **Punk Pioneer** : Chrissie Hynde of The Pretenders was a pioneer who took advantage of punk rock values, inspiring many to express themselves regardless of background or gender. "Suzy Su, of Suzy in the Banshee's, members of the Slitz, Pauli Styrene of X-Ray Specks, Chrissy Hinder, the Pretenders, Patty Smith, and so many more. They were all pioneers and they all inspired many people, women, but also men, to do what they did." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← chrissie-hynde ← chrissie-hynde
 **Signature Telecaster Model (2021)** : In 2021, Chrissie Hynde became one of the few female guitarists to receive her own signature model, an ice-blue Telecaster. This guitar was based on a 1965 version she purchased in New York City in 1981, and its characteristic chiming chords are integral to her sound. "In 2021, she became one of the few female guitarists to have her own signature model, an ice-blue Telecaster, based on a 1965 version she bought in New York City in 1981." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← chrissie-hynde
 **Songwriting Philosophy** : Hynde's approach to songwriting focused on the intriguing idea of crafting the best melodies over the fewest possible chord changes, emphasizing melodic strength and simplicity. "And when it came to songwriting, she became intrigued at how some of the best melodies could be written over the top of the fewest number of chord changes." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← chrissie-hynde
-
-
-
-## charts
-**"622" — NME Chart** : 7 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

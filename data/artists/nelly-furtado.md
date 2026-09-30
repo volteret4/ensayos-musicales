@@ -1,7 +1,7 @@
 # artist - Nelly Furtado
 
 ## albums
-**Loose (2006) – Album with Plagiarism Allegations** : Released in June 2006 and produced by Timbaland, this album featured the song "Do It," which quickly drew accusations of plagiarism due to its similarities to Jan Tempest Suni's "Asad Jazzed Evening." "Then, in June 2006, Nelly Furtado releases her loose album, which was produced by Timberland." ← https://www.youtube.com/watch?v=wYD_dIvYY5o ← nelly-furtado
+**Loose (2006)** : Released in June 2006 and produced by Timbaland, this album featured the song "Do It," which quickly drew accusations of plagiarism due to its similarities to Jan Tempest Suni's "Asad Jazzed Evening." "Then, in June 2006, Nelly Furtado releases her loose album, which was produced by Timberland." ← https://www.youtube.com/watch?v=wYD_dIvYY5o ← nelly-furtado
 
 ## songs
 **Do It (2006)** : This song, from Nelly Furtado's 2006 album "Loose" (produced by Timbaland), quickly became the subject of plagiarism accusations due to its pronounced similarities to Jan Tempest Suni's "Asad Jazzed Evening." "Almost immediately, some people began to hear similarities between the song Do It and Sunni's Asad Jazzed Evening, which is when the accusations of plagiarism began to fly." ← https://www.youtube.com/watch?v=wYD_dIvYY5o ← nelly-furtado
@@ -9,8 +9,7 @@
 
 ## curiosities
 **Plagiarism Accusations for "Do It" (2006)** : Nelly Furtado's song "Do It," released in June 2006 from her Timbaland-produced "Loose" album, immediately drew accusations of plagiarism due to its strong resemblance to Jan Tempest Suni's "Asad Jazzed Evening." "Almost immediately, some people began to hear similarities between the song Do It and Sunni's Asad Jazzed Evening, which is when the accusations of plagiarism began to fly." ← https://www.youtube.com/watch?v=wYD_dIvYY5o ← nelly-furtado
-
-
+**Frequent Timbaland Collaborator (2007)** : Canadian singer Nelly Furtado was a "frequent Timbaland collaborator" and provided guest vocals on his 2007 number one hit "Give It To Me." Her involvement highlighted her successful working relationship with the producer and the collaborative nature of pop diss tracks. "Canadian singer Nelly Frittado, another frequent Timberland collaborator" ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
 
 ## awards
 **Grammy Award for Best Female Pop Vocal Performance (2001) — I'm Like a Bird** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q935283

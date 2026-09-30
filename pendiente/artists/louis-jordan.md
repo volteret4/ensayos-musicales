@@ -1,15 +1,17 @@
 # artist - Louis Jordan
 
+## member of
+- Chick Webb
+- Louis Jordan and His Tympany Five
+
 ## members
-- Carl Hogan (guitarist)
-- Fliisi Moore (wife/credited songwriter)
+- Carl Hogan
 
 ## genres
 - Jazz
 - Jive singing
 - Jump Band
 - Jump Band Music
-- Jump band music
 - R&B
 - Rhythm and Blues
 - Swing
@@ -18,15 +20,15 @@
 - Blues Spectrum Records
 
 ## songs
-**Ain't That Just Like A Woman (Pre-1958)** : The intro to this song, played by Jordan's guitarist Carl Hogan, provided the basic idea for the guitar line that Chuck Berry developed into the famous introduction for "Johnny B. Good." "We took the basic idea for that line from Carl Hogan, Louis Jordan's guitarist, who played this as the intro to Jordan's Ain't That Just Like A Woman." ← Episode 67： ＂Johnny B. Goode＂, by Chuck Berry | https://www.youtube.com/watch?v=sHlA-qihuNw
+**Ain't That Just Like A Woman** : The intro to this song, played by Jordan's guitarist Carl Hogan, provided the basic idea for the guitar line that Chuck Berry developed into the famous introduction for "Johnny B. Good." "We took the basic idea for that line from Carl Hogan, Louis Jordan's guitarist, who played this as the intro to Jordan's Ain't That Just Like A Woman." ← Episode 67： ＂Johnny B. Goode＂, by Chuck Berry | https://www.youtube.com/watch?v=sHlA-qihuNw
 **Barnacle Bill the Sailor (1938)** : Recorded on December 20, 1938, this was one of the first songs recorded by Louis Jordan and his "Alksrande v. band" (later the Tympany Five). "Louis Jordan and his Alksrande v. band went into the studio for the first time, to record Honey in the Bee Bowl, and Barnacle Bill the Sailor." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
 **Caldonia** : Although primarily written by Louis Jordan, "Caldonia" is credited to his then-wife, Fliisi Moore, for contractual reasons. This song is highlighted as a prime example of Jordan's comedic jump band style. "So, for example, she's credited on Caldonia, which is a perfect example of Jordan's comedy jump and style." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
-**Caldonia (Unknown Year)** : This was the one non-religious song that a young Richard Penniman (Little Richard) knew and would sing while touring with snake oil salesman Doc Hudson. The "elps and hiccups" in Jordan's vocals on this song heavily influenced Richard's own vocal style. "The Elps and Hiccups in Jordan's vocals on that song would become a massive part of Richard's own vocal style." ← Episode 34： ＂Tutti Frutti＂ by Little Richard | https://www.youtube.com/watch?v=7mk9SW46Li4
-**Caldonia (Year Unspecified)** : This song was a favorite of James Brown's, who tried to emulate Louis Jordan more than any other artist. Brown would sing "Caldonia" as soon as he started performing with small groups and later recorded it as a tribute to his idol. "As soon as he started performing with small groups around town, he started singing Jordan's songs, especially Caldonia, which years later he would record as a tribute to his idol." ← Episode 39： ＂Please Please Please＂ by James Brown and the Famous Flames | https://www.youtube.com/watch?v=DSkNVh93tAs
+**Caldonia** : This was the one non-religious song that a young Richard Penniman (Little Richard) knew and would sing while touring with snake oil salesman Doc Hudson. The "elps and hiccups" in Jordan's vocals on this song heavily influenced Richard's own vocal style. "The Elps and Hiccups in Jordan's vocals on that song would become a massive part of Richard's own vocal style." ← Episode 34： ＂Tutti Frutti＂ by Little Richard | https://www.youtube.com/watch?v=7mk9SW46Li4
+**Caldonia** : This song was a favorite of James Brown's, who tried to emulate Louis Jordan more than any other artist. Brown would sing "Caldonia" as soon as he started performing with small groups and later recorded it as a tribute to his idol. "As soon as he started performing with small groups around town, he started singing Jordan's songs, especially Caldonia, which years later he would record as a tribute to his idol." ← Episode 39： ＂Please Please Please＂ by James Brown and the Famous Flames | https://www.youtube.com/watch?v=DSkNVh93tAs
 **Choo Choo Ch'Boogie** : Co-written by Milt Gabler and country and western writers (one a "hillbilly singer" and Vaughn Horton), this song was conceived as a "hillbilly boogie" but became an archetypal rhythm and blues song in Jordan's interpretation, demonstrating his crossover appeal. "So Tchoo-choo-bougie was, in conception, a hillbelly boogie, but in Louis Jordan's hands, it was almost the archetypal rhythm in blues song." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
 **Honey in the Bee Bowl (1938)** : Recorded on December 20, 1938, this was one of the first songs recorded by Louis Jordan and his "Alksrande v. band" (later the Tympany Five). It is described as a children's hunting game. "Louis Jordan and his Alksrande v. band went into the studio for the first time, to record Honey in the Bee Bowl, and Barnacle Bill the Sailor." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
 **Keep a-Knockin'** : Louis Jordan's version of this song, which included a verse about drinking gin, was likely the single biggest musical inspiration for Little Richard's own recording of "Keep a-Knockin'". "Louis Jordan's version. Jordan was, of course, Richard's single biggest musical inspiration, so we can reasonably assume that the record by Jordan was the one that pushed him to record the song." ← Episode 54： Keep A Knockin | https://www.youtube.com/watch?v=oA4Y_K9E5Y4
-**Reet Petite and Gone (N/A)** : This song inspired Billy Davis to come up with the original idea for "Reet Petite," which would later become Jackie Wilson's first solo single. "A song that Billy Davis had originally come up with when he was 16, inspired by a Louis Jordan song titled, Witt Petit and Gone." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
+**Reet Petite and Gone** : This song inspired Billy Davis to come up with the original idea for "Reet Petite," which would later become Jackie Wilson's first solo single. "A song that Billy Davis had originally come up with when he was 16, inspired by a Louis Jordan song titled, Witt Petit and Gone." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
 
 ## curiosities
 **Alternating Pianists with Wild Bill Davis** : While officially Bill Doggett joined Louis Jordan in 1949, interviews suggest he joined much earlier, alternating with Jordan's other piano player, Wild Bill Davis. According to Bill Adams, involved in Jordan's management, Davis would tour for a week while Doggett arranged, and then they would swap roles. "But I've seen interviews with members of Jordan's organisation that suggest he joined much earlier, but he would alternate with Jordan's other piano player, Wild Bill Davis." ← Episode 50： ＂Honky Tonk＂, by Bill Doggett | https://www.youtube.com/watch?v=H2rYnKmeZF0
@@ -54,4 +56,3 @@
 **Sound System Favorite** : Louis Jordan was a significant favorite among the early Jamaican sound system audiences, whose music formed a bulk of what was played for dancing. "Louis Jordan was a big favourite." ← Episode 114： ＂My Boy Lollipop＂ by Millie | https://www.youtube.com/watch?v=kf-DtqoOsRI
 **Success through Jive Singing in Jump Band Music** : Louis Jordan's jive singing style was instrumental to the success of jump band music, as this stripped-down genre relied heavily on vocal personality to provide the character that would otherwise come from more instruments in larger bands. "His jive singing style gives the music all the character that in the larger bands would be conveyed by other instruments" ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
 **Unique Stage Personality and Vocal Style** : Louis Jordan combined the jump band sound with his unique stage personality and highly expressive vocal style, which was characterized by "putting personality into his vocals." He was part of the jive singing tradition, known for being hip, clever, funny, sophisticated, and using made-up words or singing about taboo subjects. "But what he was very good at was putting personality into his vocals." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
-

@@ -1,46 +1,48 @@
 # artist - Siouxsie and the Banshees
 
 ## members
+- Budgie
 - John McGeoch
 - Sid Vicious
 - Siouxsie Sioux
-- Siouxsie Sioux (Susan Ballion)
 - Steve Severin
-- Suzy (Siouxsie)
 
 ## genres
 - Dark Wave
 - Goth
+- Goth culture
 - Goth music
 - Gothic
 - Gothic Rock
-- Gothic rock
+- Modern Rock
 - Neo-Psych
 - New Wave
 - Post-Punk
-- Post-Punk (implied)
-- Post-punk
 - Punk
 - Rock Psicodélico
 
 ## concerts
+- 100 Club Punk Rock Festival
 - 100 Club Punk Special (September 20, 1976)
 - Debut (September 1976)
 - Lollapalooza (1991)
-- Lollapalooza 1991
 
 ## albums
-**The Scream (1978) - Debut Album** : This album established Siouxsie and the Banshees as one of the first-generation goth bands, characterized by their dark aesthetic and influence on the burgeoning genre. "This is from 1978. Susie in the Banshees, one of the first of the first generation Goth bands." ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← siouxsie-and-the-banshees
+**The Scream (1978)** : This album established Siouxsie and the Banshees as one of the first-generation goth bands, characterized by their dark aesthetic and influence on the burgeoning genre. "This is from 1978. Susie in the Banshees, one of the first of the first generation Goth bands." ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← siouxsie-and-the-banshees
 
 ## songs
 **Christine (1980)** : "Christine," released in 1980 by Siouxsie and the Banshees, is presented as an example from the extensive world of Gothic rock, a genre that began to flourish in the late 1970s and early 1980s. "Something from the fantastically large world of Gothic rock, Susie in the Banshees with Christine from 1980." ← https://www.youtube.com/watch?v=mAlc-N2wn5s ← siouxsie-and-the-banshees ← siouxsie-and-the-banshees
 **Cities in Dust (1985)** : This song is about the eruption of Mount Vesuvius in 79 AD, an event that buried and preserved the ancient Roman cities of Pompeii and Herculaneum. "Both Pompeii by Bastille and cities and dust from Suzy and the Banshees are about the eruption of Mount Vesuvius in 79 AD." ← https://www.youtube.com/watch?v=4PlieAEthSg ← siouxsie-and-the-banshees
-**Cities in Dust (N/A)** : This song is inspired by the eruption of Mount Vesuvius in 79 AD, which famously destroyed the Roman city of Pompeii. "Both Pompey by Bastille and City's Indust from Suzy and the Banshee's are about the eruption of Mount Vesuvius in 79 AD." ← https://www.youtube.com/watch?v=cM3-tINKdvo ← siouxsie-and-the-banshees
+**Cities in Dust (1985)** : This song is inspired by the eruption of Mount Vesuvius in 79 AD, which famously destroyed the Roman city of Pompeii. "Both Pompey by Bastille and City's Indust from Suzy and the Banshee's are about the eruption of Mount Vesuvius in 79 AD." ← https://www.youtube.com/watch?v=cM3-tINKdvo ← siouxsie-and-the-banshees
 **Hong Kong Garden (1977)** : This song is identified as Siouxsie and the Banshees' very first single and is considered "the very first post punk single," appearing in a British magazine called Sounds in 1977. While not punk rock, its existence was contingent on punk having come first. "It's Susie in the Banshees with Hong Kong Garden." ← https://www.youtube.com/watch?v=__7iEl3lH8g ← siouxsie-and-the-banshees ← siouxsie-and-the-banshees
-**Hong Kong Garden (Early Live Version)** : An early live recording of this song was made at the BBC, predating its official studio recording and release as the band's first single. "That was recorded live at the BBC long before it was properly recorded and released as the band's first single." ← https://www.youtube.com/watch?v=oPgeSCy93bo ← siouxsie-and-the-banshees
-**The Passenger (Cover)** : Siouxsie and the Banshees covered Iggy Pop's song "The Passenger," originally from his 1977 album Lust for Life. "The passenger, a song later covered by and performed by Susie in the Banshee's and Baw House." ← https://www.youtube.com/watch?v=OxctiPr0l-8 ← siouxsie-and-the-banshees ← siouxsie-and-the-banshees
+**Hong Kong Garden (1977)** : An early live recording of this song was made at the BBC, predating its official studio recording and release as the band's first single. "That was recorded live at the BBC long before it was properly recorded and released as the band's first single." ← https://www.youtube.com/watch?v=oPgeSCy93bo ← siouxsie-and-the-banshees
+**The Passenger** : Siouxsie and the Banshees covered Iggy Pop's song "The Passenger," originally from his 1977 album Lust for Life. "The passenger, a song later covered by and performed by Susie in the Banshee's and Baw House." ← https://www.youtube.com/watch?v=OxctiPr0l-8 ← siouxsie-and-the-banshees ← siouxsie-and-the-banshees
+**Peekaboo (1988)** : This single was the first number one on Billboard's Modern Rock Chart, which debuted on September 10, 1988. It was noted for sounding distinctly "alternative" compared to mainstream rock acts like Van Halen. "the first number one on Billboard's modern rock chart was this Suzy and the Banshee single, Peekaboo." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 
 ## curiosities
+**Association with Goth Culture** : The band is recognized as one of the founders of modern goth culture, a label they reportedly disliked but from which they are inseparable within the scene. Siouxsie Sue is frequently considered the "queen of Goth" by many fans. "The bandsheets were one of the founders of modern goth culture. And even though they hated that tag, they are inseparable from that scene. Susie is still considered to be the queen of Goth by many fans" ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← siouxsie-and-the-bandsheets ← siouxsie-and-the-bandsheets
+**Band Breakup (1996)** : Siouxsie and the bandsheets officially broke up in 1996. "even though the group broke up in 1996." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← siouxsie-and-the-bandsheets ← siouxsie-and-the-bandsheets
+**Formation and Personnel Crisis** : Siouxsie and the bandsheets were formed around 1977. In 1979, during a significant personnel crisis that resulted in the group splitting into two, Budgie joined the band as drummer, approximately two years after its initial formation. "Budgie joined the band in 1979. About two years after the bandsheets were formed and during a personnel crisis that saw the group split in two." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← siouxsie-and-the-bandsheets ← siouxsie-and-the-bandsheets
 **Accused of Being "Too Pop"** : Siouxsie was later accused by some within the Goth scene of becoming "too pop" for the genre. "Sousing the banshees and the cure out front, although Susie would later be accused of being too pop for Goth." ← https://www.youtube.com/watch?v=gd9sO7c3N1s ← siouxsie-and-the-banshees
 **Aligned with Ian Curtis** : Martin Hannett's innovative production ideas for Joy Division's sound were well-received and strongly aligned with Ian Curtis's artistic vision, particularly with the themes explored in Curtis's lyrics. This alignment contributed to creative tensions within the band, as other members, like Peter Hook, preferred a rawer, more aggressive sound. "Martin Hannett que está embujando la banda y que Ian Kurt y centrarían muy bien a esas ideas que estaba introduciendo Martin Hannett." ← Music Radar Clan > Especial JOY DIVISION： 2. Unknown Pleasures | https://www.youtube.com/watch?v=I9nK6TmzqGs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← siouxsie-and-the-banshees ← siouxsie-and-the-banshees
 **Bill Grundy TV Incident** : Siouxsie Sioux was the woman on whom Bill Grundy made advances during the famous and controversial TV episode involving the Sex Pistols. "In fact, if you've ever seen or heard the famous Bill Grundy TV episode with the pistols, the woman Grundy hits on is, in fact, Suzy Su." ← https://www.youtube.com/watch?v=gd9sO7c3N1s ← siouxsie-and-the-banshees
@@ -74,8 +76,13 @@
 **Similar Direction** : Siouxsie and the Banshees (referred to as "Suxy") are noted as a band that, alongside The Cure, was already exploring a similar musical direction to Joy Division around the time of *Unknown Pleasures*' release. This indicates a nascent shift in the music scene towards the atmospheric and reflective sounds that Joy Division would further develop. "sí que es verdad que ya teníamos abandas como de Kyura, Suxy, que estaban yendo un poco en esa dirección." ← Music Radar Clan > Especial JOY DIVISION： 2. Unknown Pleasures | https://www.youtube.com/watch?v=I9nK6TmzqGs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← siouxsie-and-the-banshees ← siouxsie-and-the-banshees
 **Siouxsie Sioux as Archetype** : Singer Siouxsie Sioux's distinctive black hair, makeup, and striking appearance made her an archetype for thousands of Goth followers. "With her really striking appearance and her black hair and the makeup, Suzy became an archetype for thousands." ← https://www.youtube.com/watch?v=gd9sO7c3N1s ← siouxsie-and-the-banshees
 **Unknown Prior to Unknown Pleasures** : Despite his later importance, Martin Hannett was relatively unknown before working on *Unknown Pleasures*. He possessed a sophisticated and advanced vision for recording methods, both technically and artistically, which was crucial for the album's sound. "Martin Hannon cuando grabó, a no plecias no era nadie. Entonces, digamos, que fue un trabajo especialmente complejo, pero lo curioso es que Martin Hannon tenía como dos cosas que lo harían una persona clave para la grabación de este álbum." ← Music Radar Clan > Especial JOY DIVISION： 2. Unknown Pleasures | https://www.youtube.com/watch?v=I9nK6TmzqGs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← siouxsie-and-the-banshees ← siouxsie-and-the-banshees
-
-
+**Debut at 100 Club (1976)** : This new group made its debut at the 100 Club Punk Rock Festival on September 20, 1976. On the first night, their drummer savagely beat up a well-known music journalist, and on the second night, the same individual was arrested for throwing a beer glass, blinding a girl in one eye. This drummer was Sid Vicious, who would later join the Sex Pistols. "The lineup featured a new group called The Clash, a group making their debut called Susie in the Band Sheets, the Buzzcocks were there around a few others." ← https://www.youtube.com/watch?v=wYuNolSDLFM ← susie-in-the-band-sheets ← susie-in-the-band-sheets
+**Lollapalooza Performance (1991)** : Suzy and the Banshees were part of the diverse roster of bands performing at the first Lollapalooza festival in 1991, an event designed to introduce a broad range of alternative music to a wider American audience. "It featured Jane's Addiction as the headliners along with up and coming bands like Nine Inch Nails and the Rollins Band along with Ice Tea and Body Counts and the Butthole Surfers and Suzy and the Banshees and more." ← https://www.youtube.com/watch?v=xdn31jMOOA4 ← suzy-and-the-banshees ← suzy-and-the-banshees
+**Association with Goth Culture** : The band is recognized as one of the founders of modern goth culture, a label they reportedly disliked but from which they are inseparable within the scene. Siouxsie Sue is frequently considered the "queen of Goth" by many fans. "The bandsheets were one of the founders of modern goth culture. And even though they hated that tag, they are inseparable from that scene. Susie is still considered to be the queen of Goth by many fans" ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← siouxsie-and-the-bandsheets
+**Band Breakup (1996)** : Siouxsie and the bandsheets officially broke up in 1996. "even though the group broke up in 1996." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← siouxsie-and-the-bandsheets
+**Formation and Personnel Crisis** : Siouxsie and the bandsheets were formed around 1977. In 1979, during a significant personnel crisis that resulted in the group splitting into two, Budgie joined the band as drummer, approximately two years after its initial formation. "Budgie joined the band in 1979. About two years after the bandsheets were formed and during a personnel crisis that saw the group split in two." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← siouxsie-and-the-bandsheets
+**Debut at 100 Club (1976)** : This new group made its debut at the 100 Club Punk Rock Festival on September 20, 1976. On the first night, their drummer savagely beat up a well-known music journalist, and on the second night, the same individual was arrested for throwing a beer glass, blinding a girl in one eye. This drummer was Sid Vicious, who would later join the Sex Pistols. "The lineup featured a new group called The Clash, a group making their debut called Susie in the Band Sheets, the Buzzcocks were there around a few others." ← https://www.youtube.com/watch?v=wYuNolSDLFM ← susie-in-the-band-sheets
+**Lollapalooza Performance (1991)** : Suzy and the Banshees were part of the diverse roster of bands performing at the first Lollapalooza festival in 1991, an event designed to introduce a broad range of alternative music to a wider American audience. "It featured Jane's Addiction as the headliners along with up and coming bands like Nine Inch Nails and the Rollins Band along with Ice Tea and Body Counts and the Butthole Surfers and Suzy and the Banshees and more." ← https://www.youtube.com/watch?v=xdn31jMOOA4 ← suzy-and-the-banshees
 
 ## awards
 **MTV Video Music Award for Best Alternative Video (1989)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q821010

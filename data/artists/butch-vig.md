@@ -17,7 +17,7 @@
 - Piano
 
 ## albums
-**Garbage (1995) – Debut Album** : Butch Vig played drums on the self-titled debut album by his multi-platinum band Garbage, which was released in 1995. This album includes the track "Only Happy When It Rains." "This is Garbage from the 1995 debut with Butch Vigs on drums." ← https://www.youtube.com/watch?v=gsSTJWN6cUo ← butch-vig
+**Garbage (1995)** : Butch Vig played drums on the self-titled debut album by his multi-platinum band Garbage, which was released in 1995. This album includes the track "Only Happy When It Rains." "This is Garbage from the 1995 debut with Butch Vigs on drums." ← https://www.youtube.com/watch?v=gsSTJWN6cUo ← butch-vig
 
 ## curiosities
 **Early Musical & Academic Background – Wisconsin Roots** : Butch Vig grew up in Verlacua, Wisconsin. He took piano lessons as a child and later picked up the drums as a teenager. His academic path included two years in pre-med at the University of Wisconsin, followed by four semesters of electronic music theory, before he decided to drop out and pursue music. "Butch is originally from Verlacua, Wisconsin He took piano lessons as a kid but took up drums when he was a teenager After two years and pre-med at the University of Wisconsin He took four semesters of electronic music theory." ← https://www.youtube.com/watch?v=gsSTJWN6cUo ← butch-vig
@@ -28,8 +28,4 @@
 **Producing Nirvana's Nevermind (Age 36)** : At age 36, Butch Vig was asked to produce Nirvana's *Nevermind* album, a project that "set him up for life" due to its monumental success. "before he was asked to produce Never Mind for Nirvana. That's set him up for life, starting age 36." ← https://www.youtube.com/watch?v=P45lJTdneoI ← butch-vig ← butch-vig
 **Shaping the Grunge Revolution – Nirvana's "Nevermind"** : Butch Vig's production work on Killdozer's 1989 record "For Ladies Only" attracted attention across the US. This led Kurt Cobain to relocate Nirvana to Vig's Wisconsin studios to work on demos for their major label debut, which later became the album "Nevermind." Kurt Cobain was so impressed that he asked Vig to produce the entire album, a project that helped shape the "whole grunge revolution of the early 1990s." "Kurt Cobain decided to relocate Nirvana To butch's studios in Wisconsin to work on demos for what would become their major label debut." ← https://www.youtube.com/watch?v=gsSTJWN6cUo ← butch-vig
 **Transition to Producer – Madison Indie Scene** : After playing in bands like Spooner (three albums) and Firetown (one album), Butch Vig developed a keen interest in producing music. He established a small studio space in Madison, Wisconsin, where he began working with local indie groups, including Killdozer. "It was around this time that butch became interested in producing music So he ran into small space in Madison, Wisconsin Where he began working with local indie groups including a group called Killdozer." ← https://www.youtube.com/watch?v=gsSTJWN6cUo ← butch-vig
-
-
-
-## lists
-**"Conviction" (1986) — Scaruffi 1980s** : #211, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**Producer for Nevermind** : Butch Vig, described as a "Madison, Wisconsin-based Sonic Craftsman," produced Nirvana's "Nevermind." He was responsible for achieving a sound that was both "raw and sleek" for the album's recordings. "producer Bouch Vig, a Madison, Wisconsin-based Sonic Craftsman who made his recordings sound both raw and sleek." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2

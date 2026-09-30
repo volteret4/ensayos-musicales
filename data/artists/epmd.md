@@ -1,9 +1,7 @@
 # artist - EPMD
 
 ## songs
-**So What You Sayin' (1989) - Sampled by Beastie Boys** : The rap group EPMD's 1989 song "So What You Sayin'" contributes a sample to the Beastie Boys' 1992 track "Pass the Mic." This particular sample appears around the 42-second mark of the Beastie Boys' composition, showcasing the integration of hip-hop elements into alternative rock through sampling. "But around the 42nd mark, we hear a bit of So What You Sayin' from the rap group EPMD from 1989." ← https://www.youtube.com/watch?v=r8AazBVoS7g ← epmd
-
-
+**So What You Sayin' (1989)** : The rap group EPMD's 1989 song "So What You Sayin'" contributes a sample to the Beastie Boys' 1992 track "Pass the Mic." This particular sample appears around the 42-second mark of the Beastie Boys' composition, showcasing the integration of hip-hop elements into alternative rock through sampling. "But around the 42nd mark, we hear a bit of So What You Sayin' from the rap group EPMD from 1989." ← https://www.youtube.com/watch?v=r8AazBVoS7g ← epmd
 
 ## lists
 **"Strictly Business" (1988) — Pitchfork: The 200 Best Albums of the 1980s** : #60. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63

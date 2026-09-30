@@ -6,6 +6,6 @@
 
 ## artists
 - Lionel Hampton
-- Manfred Mann (band)
+- Manfred Mann
 - Red Norvo
 

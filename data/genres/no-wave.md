@@ -37,7 +37,4 @@
 - Suicide
 - Swans
 - Teenage Jesus and the Jerks
-- The Contortions
-- Theoretical Girls
-- de Jesus and the Jerks
 

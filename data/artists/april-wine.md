@@ -3,7 +3,6 @@
 ## members
 - Gary Moffet
 - Myles Goodwyn
-- third guitarist (added)
 
 ## genres
 - Power Ballad
@@ -16,13 +15,13 @@
 - The Rolling Stones Tour 1977
 
 ## albums
-**Artful Dodger (1975) - Fifth Album** : This album was mentioned in a 1975 review by Ken Barnes, which criticized the band for being overlooked by radio programmers and record companies due to their hard-to-categorize rock sound, leading to them going unnoticed by record buyers. "Ken Barnes wrote this in 1975 about the band's fifth album, Artful Dodger." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← april-wine
-**The Nature of the Beast (1981) - Ninth Album** : This album, released in 1981, features the song "Just Between You And Me," which was recorded in 1980. Its release coincided with the band's sound evolving to foreshadow the power ballad trend of the 1980s. "Recorded in 1980 and released on the nature of the Beast album in 1981." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← april-wine
+**Artful Dodger (1975)** : This album was mentioned in a 1975 review by Ken Barnes, which criticized the band for being overlooked by radio programmers and record companies due to their hard-to-categorize rock sound, leading to them going unnoticed by record buyers. "Ken Barnes wrote this in 1975 about the band's fifth album, Artful Dodger." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← april-wine
+**The Nature of the Beast (1981)** : This album, released in 1981, features the song "Just Between You And Me," which was recorded in 1980. Its release coincided with the band's sound evolving to foreshadow the power ballad trend of the 1980s. "Recorded in 1980 and released on the nature of the Beast album in 1981." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← april-wine
 
 ## songs
 **Bad Side of the Moon (1972)** : This song was one of two hits April Wine achieved in Canada in 1972. "bad side of the moon." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← april-wine
 **Just Between You And Me (1981)** : This song was recorded in 1980 and released in 1981 on the album *The Nature of the Beast*. It made it to number 21 on the Billboard Hot 100 in April. The lyrics lament a love that was not meant to be, expressing the pain of broken hearts that don't always mend and the hesitation to try love again. "It made it to number 21 on the Billboard Hot 100 in April." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← april-wine
-**Just Between You and Me (1981)** : This song's video was the first Canadian video ever shown on MTV, appearing as the 14th video broadcast on the channel. Its inclusion marked an early milestone for Canadian artists on the newly launched 24-hour music video channel. "The first Canadian video was just between you and me from April 1, which showed up as the 14th video." ← Ongoing History of New Music > The Rise and Fall and Future of the Music Video - Part 1 | https://www.youtube.com/watch?v=lqd6IbUJ7tg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Just Between You And Me (1981)** : This song's video was the first Canadian video ever shown on MTV, appearing as the 14th video broadcast on the channel. Its inclusion marked an early milestone for Canadian artists on the newly launched 24-hour music video channel. "The first Canadian video was just between you and me from April 1, which showed up as the 14th video." ← Ongoing History of New Music > The Rise and Fall and Future of the Music Video - Part 1 | https://www.youtube.com/watch?v=lqd6IbUJ7tg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **You Could Have Been a Lady (1972)** : Released in 1972, this song was one of two hits April Wine achieved in Canada. It is a cover version of a song originally by Hot Chocolate. "You could have been a lady which is a cover of a great song by Hot Chocolate." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← april-wine
 
 ## curiosities
@@ -41,8 +40,6 @@
 **Significant Influence** : April Wine was a major influence on early rock and roll life for many. The recent passing of Myles Goodwyn was considered a "terrible blow" due to his profound impact on the rock music scene. "I was always a giant April wine fan." ← https://www.youtube.com/watch?v=bI6TTA-fn7c ← april-wine
 **US Touring Decision (1977)** : April Wine initially resisted touring the United States for a long time but eventually realized that touring was essential if they wanted to gain a larger American audience, leading to significant tours in 1977. "They had resisted touring the US for a long time, but they finally realized we have to if we want to get a larger American audience." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← april-wine
 **Unnoticed by Record Buyers** : As a direct consequence of record companies not knowing how to promote them and letting them "slide," April Wine went largely unnoticed by record buyers at large, despite their musical qualities. "And accordingly they go unnoticed by record buyers at large." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← april-wine
-
-
 
 ## awards
 **Juno Award for Group of the Year (1975)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q6314079

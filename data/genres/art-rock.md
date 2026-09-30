@@ -22,4 +22,6 @@
 - Talk Talk
 - Tomita
 - Vangelis
-
+- Talking Heads
+- Elvis Costello
+- Television

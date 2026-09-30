@@ -5,6 +5,5 @@
 **Affordable Drum Machine** : The Korg Mini Pops Jr. was a tiny and affordable drum machine, selling for less than $150. "tiny unit called the Corg Mini Pops Jr., which sold for less than 150 bucks." ← https://www.youtube.com/watch?v=dablAKDOOV0 ← korg-mini-pops-jr ← korg-mini-pops-jr
 
 ## artists
-- Echo & The Bunnymen
 - Echo & the Bunnymen
 

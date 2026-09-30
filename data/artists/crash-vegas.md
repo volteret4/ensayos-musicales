@@ -4,7 +4,7 @@
 - Ambrose Pottie
 - Colin Cripps
 - Greg Keelor
-- Jostelyn Lanois
+- Jocelyne Lanois
 - Michelle McAdory
 
 ## genres
@@ -25,13 +25,3 @@
 **Early Lineup and Collaborations** : Michelle McAdory and Greg Keelor were joined by Jostelyn Lanois, sister of producer Daniel Lanois, on bass, and Ambrose Pottie on drums. The band frequently opened shows for Blue Rodeo. "Michelle and Greg were joined on base by Jostelyn Lamwaw, sister of Super producer Daniel Landwaw. And on drums was the spectacularly named Ambrose Putty. Crash Vegas opened a lot of shows for Blue Rodeo back then." ← https://www.youtube.com/watch?v=rrkmfJQBpHQ ← crash-vegas ← crash-vegas
 **Resilience and Later Breakup** : Despite the initial challenges with a label bankruptcy, Crash Vegas successfully secured another record deal and released two more albums before ultimately breaking up in 1996. "But Crash Vegas bounced back on another label for two more records before breaking up in 1996." ← https://www.youtube.com/watch?v=rrkmfJQBpHQ ← crash-vegas ← crash-vegas
 **Rise in 1991** : Crash Vegas began their rise in 1991, becoming part of a new crop of Canadian artists gaining prominence. Their emergence signaled the expansion of the "Can Rock explosion" beyond its initial wave. "1991, so the beginning of the rise of the Barodicad Ladies, Spirit of the West, Sarah McLaughlin, Crash Vegas, Crash Test Dummies, and Grapes of Wrath." ← https://www.youtube.com/watch?v=6PGgNCaW4xo ← crash-vegas
-
-
-
-## charts
-**"Shining Light" — UK Indie Singles Chart** : 2001. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart
-**"Burn Baby Burn" — UK Indie Singles Chart** : 2001. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart
-
-## lists
-**"1977" (1996) — 1001 Albums You Must Hear Before You Die** : #834.
-**"1977" (1996) — Pitchfork: The 50 Best Britpop Albums** : #34. ← musicbrainz | https://beta.musicbrainz.org/series/cd7ebb70-d88f-4f74-b6de-3a00bf2a162c

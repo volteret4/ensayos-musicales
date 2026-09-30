@@ -2,21 +2,9 @@
 
 ## member of
 - Blind Melon
-- Shannon Hoon
-
-## members
-- Christopher Thorn
-- Shannon Hoon
 
 ## concerts
 - Pacific Colosseum (Vancouver)
-
-## albums
-**Soup (1995) - Blind Melon Album** : This was the second album recorded by Blind Melon, completed just before they embarked on a projected 18-month tour in September 1995. "The band did manage to get through the recording of their second album, which they called Soup." ← https://www.youtube.com/watch?v=uqe6D9ZDIw0 ← shannon-hoon ← shannon-hoon
-
-## songs
-**Change (1993)** : This Blind Melon song provides the epitaph found on Shannon Hoon's grave in Dayton Cemetery, Dayton, Indiana. The inscription reads: "I know we can't all stay here forever, so I want to write my words on the face of today." "It reads, I know we can't all stay here forever, so I want to write my words on the face of today." ← https://www.youtube.com/watch?v=sP75_gbZzIU ← shannon-hoon
-**Change (1993) - Blind Melon Song** : This Blind Melon song provides the epitaph for Shannon Hoon's gravesite, which reads: "I know we can't all stay here forever, so I want to write my words on the face of today." "And the epitaph is from a blind-millons song called Change. It reads, I know we can't all stay here forever, so I want to write my words on the face of today." ← https://www.youtube.com/watch?v=uqe6D9ZDIw0 ← shannon-hoon ← shannon-hoon
 
 ## curiosities
 **Burial and Epitaph (1995)** : Shannon Hoon is buried in Dayton Cemetery in Dayton, Indiana. His gravesite features an epitaph taken from Blind Melon's song "Change," which reads: "I know we can't all stay here forever, so I want to write my words on the face of today." "He's buried in Dayton Cemetery in Dayton, Indiana. And the epitaph is from a blind-millons song called Change. It reads, I know we can't all stay here forever, so I want to write my words on the face of today." ← https://www.youtube.com/watch?v=uqe6D9ZDIw0 ← shannon-hoon ← shannon-hoon
@@ -37,8 +25,3 @@
 **The "Soup" Album and Ill-Advised Tour (1995)** : Blind Melon managed to complete the recording of their second album, titled "Soup." Subsequently, on September 19, 1995, the band commenced a projected 18-month tour. This extensive touring schedule was undertaken specifically against the advice of Shannon Hoon's drug counselor, who felt that Shannon was "just too fragile to handle such an intense road trip." "The band did manage to get through the recording of their second album, which they called Soup. And then on September 19th of 1995, Blind Millen began a projected 18-month tour." ← https://www.youtube.com/watch?v=sP75_gbZzIU ← shannon-hoon
 **Tour Against Advice (1995)** : Blind Melon began an 18-month tour on September 19th, 1995, immediately after recording their second album, "Soup." This decision was made against the explicit advice of Shannon's drug counselor, who believed Shannon was too fragile to handle such an intense road trip. A "minor" (assistant) was assigned to help keep him clean but was dismissed after only 28 gigs on the tour. "Now this was specifically against the advice of Shannon's drug counselor. He felt the channel was just too fragile to handle such an intense road trip." ← https://www.youtube.com/watch?v=uqe6D9ZDIw0 ← shannon-hoon ← shannon-hoon
 **Unable to Enjoy Posthumous Royalties** : Despite the self-titled debut album and the song "No Rain" generating a steady stream of royalties after his death, Shannon Hoon was not alive to enjoy the financial benefits. "Unfortunately for Shannon, he's not around to enjoy." ← https://www.youtube.com/watch?v=CTZ4FfDVFfE ← shannon-hoon ← shannon-hoon
-
-
-
-## charts
-**"Let the Music Play" — Billboard Year-End Hot 100** : #49, 1984. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

@@ -1,13 +1,19 @@
 # artist - Miley Cyrus
 
+## genres
+- Pop
+
 ## concerts
 - Woodstock 50 (originally slated for 2019, but canceled)
+
+## songs
+**Flowers (2023)** : Miley Cyrus's 2023 number one smash hit "Flowers" is described as a diss record where she "dress down an ex-lover, Carly Simon style." The song's success highlights how diss records have become "part of the regular pop diet" in the 2020s, showing a mainstream adoption of the format. "Miley Cyrus, who dress down an ex-lover, Carly Simon style, on her 2023 number one smash Flowers." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+**Flowers (2023)** : Miley Cyrus's 2023 number one smash, which is explicitly identified as an "answer record" or "clapback" to Bruno Mars's 2013 hit "When I Was Your Man." The song is reportedly directed at Cyrus's ex-husband Liam Hemsworth, who had once dedicated Mars's song to Miley. "This year's number one smash, Flowers by Miley Cyrus. Is an answer record to Mars' when I was your man?" ← Hit Parade Music History and Music Trivia > Lenny on Mars Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f54d1ba84fb8f0463bf
+**Wrecking Ball (2013)** : This chart-topper from Miley Cyrus, a "Disney Channel Refugee turned pop provocator," profoundly benefited from Billboard's YouTube rule implemented in March 2013. Its success was fueled not only by her own music video but significantly by a fan's video lampoon. The fan created a supercut of himself lip-syncing "Wrecking Ball" while riding on a ball (à la Cyrus) in Justice Underwear and a bushy beard, engaging unsuspecting users on Chat Roulette. Because this fan clip utilized the original audio of Cyrus's hit, its views counted for the Hot 100, pushing the song back to number one. This demonstrated the potential of nascent social video apps to influence chart performance. "That was enough to push wrecking ball back to number one." ← Hit Parade Music History and Music Trivia > Ride ’til I Can’t No More Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce88
 
 ## curiosities
 **Musical Offspring** : Miley Cyrus is identified as the daughter of Billy Ray Cyrus, who is also a musician. "Miley Cyrus and her dad Billy Ray." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← miley-cyrus
 **Planned Woodstock 50 Performance** : Miley Cyrus was among the 80 artists originally confirmed to perform at the Woodstock 50 festival, planned for August 2019. Her inclusion was part of a diverse lineup intended to attract a wide audience for the 50th anniversary celebration, though the event was ultimately canceled. "80 artists had originally signed up, including Santana, Dead & Company, The Killers, Jay-Z, Imagine Dragons, Cage the Elf and Miley Cyrus, Vampire Weekend, and more." ← https://www.youtube.com/watch?v=uEe_HLUay5M ← miley-cyrus ← miley-cyrus
-
-
 
 ## awards
 **Time 100 (2014)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q604370

@@ -1,16 +1,23 @@
-# artist - Zack De La Rocha
+# artist - Zack de la Rocha
+
+## member of
+- Hard Stance
+- Inside Out
+- Juvenile Expression
+- One Day as a Lion
+- Rage Against the Machine
 
 ## labels
 - Nothing Studios
 
-## songs
-**We Want It All (2003)** : This track is the only known official sample from Zack De La Rocha's unreleased solo record, a collaboration he did with Trent Reznor, who produced it. It was released on the 2004 compilation album *Songs and Artists that Inspired Fahrenheit 9-11* and is believed to have been recorded at Trent Reznor's Nothing Studios in New Orleans sometime in 2003. "One track was from Zach, and it's one of the collaborations he did with Trent. We think it was recorded at Trent's Nothing Studios in New Orleans sometime in 2003. It's called We Want It All. The only known official sample of the solo record by Rage against the machine frontman Zach De La Roca, produced by Trent Rosner too." ← Ongoing History of New Music > Great Lost Albums | https://www.youtube.com/watch?v=_lSbUUfBNNI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-
 ## curiosities
+**Patti Smith Hall of Fame Inductor** : Zach De La Rocha inducted Patti Smith into the Rock and Roll Hall of Fame in 2007. He delivered a speech praising her for disrupting a "too slick" rock scene with her "literate yet street savvy lyrics" that confronted various topics. "When Paddy Smith was inducted into the Rock Hall in 2007 by a Zach De La Roca from Rage Against the Machine, he said, Rock was getting too slick for its own good when Paddy Smith burst on the scene and tore it apart." ← For the Record - The 70s > Ep. 57 - Punk and New Wave at New York's CBGB | https://www.ftr70.com/
+**Awareness of Racism** : As the only Latino child in his class, Dela Roka developed an acute awareness of casual racism, an experience that strongly influenced his determination to speak out against injustice. "as the only Latino kid in his class, he was acutely aware of all kinds of casual racism, and he became determined to speak out." ← https://www.youtube.com/watch?v=Xo5DRSW95QQ ← zach-dela-roka ← zach-dela-roka
+**Discovery of Freestyle Rapping** : Tom Morello first encountered Zach Dela Roka at a club where Dela Roka was practicing his freestyle rapping. Impressed by what he heard, Morello initiated a conversation that ultimately led to their collaboration and the formation of Rage Against The Machine. "One night, Tom was out at a club where Zach happened to be working on his freestyle rapping." ← https://www.youtube.com/watch?v=Xo5DRSW95QQ ← zach-dela-roka ← zach-dela-roka
+**Early Life and Family** : Born in Long Beach, California, Zach Dela Roka experienced a fractured family life, being shuttled between his parents. His father was an artist with extreme artistic and religious views who suffered a nervous breakdown, leading him to destroy all his paintings and demand Zach's help in burning them. His mother was in the process of completing her PhD in anthropology. "He was born in Long Beach, California, and he came from a broken family." ← https://www.youtube.com/watch?v=Xo5DRSW95QQ ← zach-dela-roka ← zach-dela-roka
+**Musical Beginnings** : Dela Roka started playing guitar at the age of eight. By his teenage years, he was deeply engrossed in punk music, citing bands like The Clash, Minor Threat, Bad Brains, and Bad Religion as significant influences. "He picked up a guitar at eight, and by the time he was a teenager, Zach was deep into punk, clash, minor threat, bad brains, bad religion, that kind of thing." ← https://www.youtube.com/watch?v=Xo5DRSW95QQ ← zach-dela-roka ← zach-dela-roka
 **Solo Album with Trent Reznor - Unreleased** : After Rage Against the Machine disbanded in 2000, Zack De La Rocha began working on a solo record, delving into hip hop and freestyle rapping. He collaborated with DJ Shadow, Dan the Automator, and Trent Reznor, who produced the material. Despite the material being considered "good" by Reznor, the album was never released and was shelved indefinitely for unknown reasons. "Rage was done by 2000... But Zach was determined to go solo. He got deep into hip hop and freestyle rapping and started working with DJ Shadow, Dan the Automator, and Trent Rosner on a solo record. The material was good too, according to Trent anyway. But for a recent still unknown, the album was never released, shelved forever." ← Ongoing History of New Music > Great Lost Albums | https://www.youtube.com/watch?v=_lSbUUfBNNI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-
-
-
-## lists
-**"Word...Life" (1994) — Sputnikmusic Best Albums 1994** : #48, 4.16 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
-**"Jewelz" (1997) — Sputnikmusic Best Albums 1997** : #95, 4.05 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
+**Awareness of Racism** : As the only Latino child in his class, Dela Roka developed an acute awareness of casual racism, an experience that strongly influenced his determination to speak out against injustice. "as the only Latino kid in his class, he was acutely aware of all kinds of casual racism, and he became determined to speak out." ← https://www.youtube.com/watch?v=Xo5DRSW95QQ ← zach-dela-roka
+**Discovery of Freestyle Rapping** : Tom Morello first encountered Zach Dela Roka at a club where Dela Roka was practicing his freestyle rapping. Impressed by what he heard, Morello initiated a conversation that ultimately led to their collaboration and the formation of Rage Against The Machine. "One night, Tom was out at a club where Zach happened to be working on his freestyle rapping." ← https://www.youtube.com/watch?v=Xo5DRSW95QQ ← zach-dela-roka
+**Early Life and Family** : Born in Long Beach, California, Zach Dela Roka experienced a fractured family life, being shuttled between his parents. His father was an artist with extreme artistic and religious views who suffered a nervous breakdown, leading him to destroy all his paintings and demand Zach's help in burning them. His mother was in the process of completing her PhD in anthropology. "He was born in Long Beach, California, and he came from a broken family." ← https://www.youtube.com/watch?v=Xo5DRSW95QQ ← zach-dela-roka
+**Musical Beginnings** : Dela Roka started playing guitar at the age of eight. By his teenage years, he was deeply engrossed in punk music, citing bands like The Clash, Minor Threat, Bad Brains, and Bad Religion as significant influences. "He picked up a guitar at eight, and by the time he was a teenager, Zach was deep into punk, clash, minor threat, bad brains, bad religion, that kind of thing." ← https://www.youtube.com/watch?v=Xo5DRSW95QQ ← zach-dela-roka

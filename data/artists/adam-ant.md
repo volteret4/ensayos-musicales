@@ -1,14 +1,18 @@
 # artist - Adam Ant
 
 ## member of
-- Bizzouca Joe
+- Bazooka Joe
+
+## genres
+- New Romantic
+
+## songs
+**Goody Two Shoes (1983)** : Adam Ant, who had been a UK teen idol and an avatar of the New Romantic movement since 1980, finally broke into the US top 40 with this "rollicking number 12 hit." "Adam Ant, who'd been a UK teen idol, and an avatar of the New Romantic movement as far back as 1980, finally cracked the US top 40 with Theroloking number 12 hit, Goodie Tushy." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
 
 ## curiosities
 **Bipolar Disorder** : Adam Ant is listed among musicians identified as bipolar. "Lou Reed, Axel Rose, Shenandoah Conner, Scott Wyland, rapper Chris Brown, Matthew Good, Adam Ant, Brittany Spears, Jack Irons, former drummer with the Chili Peppers, Scott Stap of Creed, Pete Wentz of Fallout Boy, Frank Sinatra." ← https://www.youtube.com/watch?v=NQgn0_mUh74 ← adam-ant ← adam-ant
 **Managed by Malcolm McLaren** : Following his work with the full band, Adam, from Adam and the Ants, was later managed individually by Malcolm McLaren. McLaren continued to manage artists after the Sex Pistols. ← https://www.youtube.com/watch?v=PzyvXmDKFUc ← adam-ant
 **New Romantic Descendant** : Adam Ant (referred to as "Ademant") is identified as a band/artist that emerged from the New Romantic movement, directly influenced by the legacy of glam rock, particularly David Bowie and Roxy Music. "Ademant." ← https://www.youtube.com/watch?v=blDNqVFheAw ← adam-ant ← adam-ant
-
-
 
 ## awards
 **Grammy Award for Best New Artist (1982)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643

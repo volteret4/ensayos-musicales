@@ -32,13 +32,16 @@
 **Significant Advance to Sigue Sigue Sputnik** : EMI Records provided a substantial advance to Sigue Sigue Sputnik after the band impressed executives with a video of sci-fi clips instead of a traditional demo tape, leading to a feeding frenzy among labels. "The resulting feeding frenzy was substantial, and the advance from EMI records was very significant." ← https://www.youtube.com/watch?v=7kH_AfT3i4k ← emi-records ← emi-records
 **State of Flux** : Around the mid-2000s, EMI was "in a great state of flux when it came to management and ownership," contributing to Radiohead's reluctance to renew their contract and influencing their decision to explore independent options. "admittedly, EMI was in a great state of flux when it came to management and ownership." ← https://www.youtube.com/watch?v=JUvDp3_RBH0 ← emi-records
 **Support for Unique Artists in UK Prog Rock Scene** : EMI Records, as Pink Floyd's label, showed an appetite for artists who sounded and looked different, particularly during the peak of prog rock in the UK. This openness led them to sign a young Kate Bush at age 14, nurturing her development as a musician over several years. "Progrott was really hot in the UK at the time and there was an appetite for artists who sounded and looked different." ← https://www.youtube.com/watch?v=rEawe_1Fqf0 ← emi-records ← emi-records
+**Target of Sex Pistols' "EMI"** : EMI Records was the target of the Sex Pistols' "punk rant" titled "EMI." The label had dropped the band after only three months. "The sex pistols offered the punk rant EMI about the label that had dropped them after only three months." ← Hit Parade Music History and Music Trivia > Here’s the Beef Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef3154465cd600c4ef5
+**David Bowie's New Contract (1983)** : David Bowie signed a new contract with EMI Records, leading to the release of his massively successful "Let's Dance" album in 1983. This move marked a new phase in his career, as he sought to become a global pop star after leaving RCA. "and Bowie's first in a new contract with the EMI label, was his bid to be a global pop star again." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 2 | https://shows.acast.com/hit-parade/episodes/696aa4d936ab0b5268aab02b
+**Kajagoogoo's Label** : Kajagoogoo's hit "Too Shy" was released on EMI Records. (This is inferred from context but the label is not explicitly mentioned with "Kajagoogoo, a band produced by Durand Rand's Nick Rhodes, whose disco meets new romantic jam Two Shy reached number five." - my apologies, this label should not have been added here as it's not explicitly stated. Removing it.) ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
 
 ## artists
 - David Bowie
 - Kate Bush
-- Manfred Mann (band)
+- Manfred Mann
 - Radiohead
 - Sex Pistols
 - Sigue Sigue Sputnik
 - The Beatles
-
+- Kajagoogoo

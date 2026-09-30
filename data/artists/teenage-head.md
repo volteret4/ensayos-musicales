@@ -14,10 +14,10 @@
 - Ontario Place Toronto (1980 riot)
 
 ## albums
-**Frantic City** : This album was instrumental in Hugh Dillon's musical development, as it was one of the first rock records he bought and used to learn how to play guitar. "I learned to play guitar from that first, from Frantic City." ← https://www.youtube.com/watch?v=zBd13KtYlAA ← teenage-head
+**Frantic City (1980)** : This album was instrumental in Hugh Dillon's musical development, as it was one of the first rock records he bought and used to learn how to play guitar. "I learned to play guitar from that first, from Frantic City." ← https://www.youtube.com/watch?v=zBd13KtYlAA ← teenage-head
 
 ## songs
-**Wild One** : Hugh Dillon specifically learned to play the guitar solo from this song, demonstrating its impact on his early musical education. "playing the solo on Wild One." ← https://www.youtube.com/watch?v=zBd13KtYlAA ← teenage-head
+**Wild One (1980)** : Hugh Dillon specifically learned to play the guitar solo from this song, demonstrating its impact on his early musical education. "playing the solo on Wild One." ← https://www.youtube.com/watch?v=zBd13KtYlAA ← teenage-head
 
 ## curiosities
 **Canadian Band Longevity and Singer's Death** : Teenage Head had been active since 1975 before their singer, Frankie Venom, died "last year" (relative to the interview), marking them as another enduring Canadian band with a significant history. "Teenage head had been around since 1975 before singer Frankie Venom died last year." ← https://www.youtube.com/watch?v=mbic-70ZhpE ← teenage-head ← teenage-head
@@ -30,9 +30,3 @@
 **International Recognition Gap** : Despite influencing numerous bands across Canada, both sides of the American border, and even in the UK, Teenage Head never achieved the international attention they were considered to deserve. "Teenage Head never received the international attention they deserved. Although they influence many many bands across Canada on both sides of the American border and even in the UK." ← https://www.youtube.com/watch?v=sdPeii-8Ysw ← teenage-head
 **Potential Delay in Discovery of Death** : It is believed that Gord Lewis may have been deceased for a couple of days before his body was found, during which time his son Jonathan reportedly posted desperate messages online. "We do know that Gord may have been dead for a couple of days while Jonathan posted desperate messages online." ← https://www.youtube.com/watch?v=sdPeii-8Ysw ← teenage-head
 **Son Charged with Murder** : Gord Lewis's 41-year-old son, Jonathan, was arrested and subsequently charged with his father's murder, with details expected to emerge during the court proceedings. "Gord's 41 year old son Jonathan was arrested and charged with his murder." ← https://www.youtube.com/watch?v=sdPeii-8Ysw ← teenage-head
-
-
-
-## lists
-**"Ea Taesse" (2006) — Sputnikmusic Best Albums 2006** : #116, 4.04 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/
-**"Ea II" (2009) — Sputnikmusic Best Albums 2009** : #12, 4.23 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2009/

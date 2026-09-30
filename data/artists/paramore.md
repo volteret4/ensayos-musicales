@@ -6,7 +6,6 @@
 ## genres
 - Alt Rock
 - Emo
-- Emo (original sound)
 - Emo Pop
 - Pop
 - Pop Punk
@@ -34,8 +33,6 @@
 **Shift from Emo Sound** : Paramore was noted as one of the bands that moved on to explore other sounds and styles, diverging from their original emo sound after the peak of third wave emo. "Others moved on to other sounds and styles, think panic at the disco and fallout boy in Paramore." ← https://www.youtube.com/watch?v=v_am7ifh7Pk ← paramore
 **Slow Development to Million-Selling Status** : Paramore developed slowly, away from the mainstream spotlight, but by the time their third album was released, they were selling records by the millions. Their 360 deal is highlighted as an example of a successful arrangement for both the band and the label. "Paramore developed slowly, away from the mainstream, and by the time the dust cleared from their third album, they were selling records by the millions." ← https://www.youtube.com/watch?v=__7iEl3lH8g ← paramore ← paramore
 **Twilight Soundtracks Contribution** : Paramore contributed to the various *Twilight* soundtracks that accompanied the film series. These soundtracks featured a nice selection of tunes, mostly album cuts and outtakes, from a range of artists spanning different genres. "The Paramore, Lincoln Park, Collective Soul, Death Cab for Cutie, Tom York, the Killers, Editors, Metric, Block Keys, Dead Weather, Beck, Vampire Weekend, Florence in the Machine." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← paramore
-
-
 
 ## awards
 **Grammy Award for Best New Artist (2008)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643

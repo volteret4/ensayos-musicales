@@ -5,8 +5,6 @@
 **Collaboration with Steve Lillywhite** : Dave Matthews Band (referred to as Dave Matthews) was among the many notable bands and artists with whom British producer Steve Lillywhite worked on albums. "Steve Lilley White, the British producer who worked on albums from You Too, The Psychedelic Furs, Peter Gabriel Simple Minds, Talking Heads, Morrissey, Rolling Stones, Dave Matthews, BDI, The Killer, Suzing the Banshees, and dozens more." ← https://www.youtube.com/watch?v=hjProJd_JrM ← dave-matthews-band
 **Tom Morello Guest Appearance** : Tom Morello made a guest appearance on Dave Matthews Band's records. "He makes guest appearances on his friends records, the prodigy, the day Matthew's band, Anti-Fly, Pusifer, the toolside project." ← https://www.youtube.com/watch?v=t2uXHP9cBdM ← dave-matthews-band
 
-
-
 ## awards
 **Rock and Roll Hall of Fame (2024)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
 

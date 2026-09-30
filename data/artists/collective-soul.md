@@ -15,8 +15,6 @@
 **First-Person Lyrical Approach** : Collective Soul was cited as an example of a Post-Grunge band whose lyrical writing style prominently featured a "first person approach," contrasting with the more metaphorical lyrics often found in original Grunge bands. "Now think about the lyrical writing style of collective soul or bush or third eye blind and matchbox 20. You see what I mean?" ← https://www.youtube.com/watch?v=amHre9ZZFkU ← collective-soul
 **Twilight Soundtracks Contribution** : Collective Soul contributed to the various *Twilight* soundtracks that accompanied the film series. These soundtracks featured a nice selection of tunes, mostly album cuts and outtakes, from a range of artists spanning different genres. "The Paramore, Lincoln Park, Collective Soul, Death Cab for Cutie, Tom York, the Killers, Editors, Metric, Block Keys, Dead Weather, Beck, Vampire Weekend, Florence in the Machine." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← collective-soul
 
-
-
 ## charts
 **"Shine" — Billboard Year-End Hot 100** : #31, 1994. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 **"December" — Billboard Year-End Hot 100** : #41, 1995. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

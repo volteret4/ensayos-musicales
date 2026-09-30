@@ -1,10 +1,13 @@
 # artist - Gaynell Hodge
 
 ## member of
-- The Flamingos (original group that became The Platters)
+- Jesse Belvin
+- The Flamingos
+- The Hollywood Argyles
 - The Hollywood Flames
 - The Platters
 - The Saxons
+- The Shields
 - The Turks
 
 ## instruments
@@ -21,4 +24,3 @@
 **Pivotal Figure in 50s LA Vocal Group Scene** : Gaynell Hodge was one of the most important people in the 1950s Los Angeles vocal group scene. His contributions were so fundamental that without him, groups like The Platters, The Penguins, and Jesse Belvin would not have existed. "Gainl Hodge was one of the most important people in the 50s LA vocal group scene, and without him there would have been no platters, penguins, or Jesse Bellvin." ← Episode 86： ＂LSD-25＂ by the Gamblers | https://www.youtube.com/watch?v=UNd6UwbL1rA
 **Recent Death (Week of Episode)** : Gaynell Hodge's death occurred during the week the episode was being written. "As I was in the middle of writing this episode, I received word that Hodge had died earlier this week." ← Episode 86： ＂LSD-25＂ by the Gamblers | https://www.youtube.com/watch?v=UNd6UwbL1rA
 **Website Last Updated 2005** : As of the transcript's information, Gaynell Hodge's website had not been updated since 2005, with its most recent news mentioning his collaboration with Dr. John on a song for Shemekia Copeland. "His website hasn't been updated since 2005, but at the time, its most recent news flash was that he had co-written this song with Dr. John for Shemik here co-plum." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
-

@@ -1,8 +1,7 @@
 # artist - Dissection
 
 ## members
-- John Nödtveidt
-- John Nödtveidt (vocalist)
+- Jon Nödtveidt
 
 ## genres
 - Extreme Metal
@@ -13,8 +12,6 @@
 **Murder and Ritual Suicide** : John Nödtveidt, associated with the band Dissection, murdered a gay man from Algeria and subsequently served time in jail for the crime. After his release from prison, Nödtveidt committed ritual suicide. "John Notvelt was with a band called Dissection. He murdered a gay man from Algeria and was sent to jail. And when he got out, he committed ritual suicide." ← https://www.youtube.com/watch?v=6xygY-npCr4 ← dissection ← dissection
 **Satanic Cult Membership** : Nödtveidt and his accomplice, Vlad (from another metal band), were both members of a satanic cult called Tempolo Black Light. "Both of them were members of a satanic cult called Tempolo Black Light." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← dissection
 **Suicide (Two Years After Release)** : Two years after his release from prison, Nödtveidt died by suicide. His body was discovered arranged in a ring of candles, with a book of satanic rituals found beside him. "Two years later, Nonvite was dead by his own hand." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← dissection
-
-
 
 ## lists
 **"Storm of the Light’s Bane" (1995) — AOTY Must Hear 1990s** : #209. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/

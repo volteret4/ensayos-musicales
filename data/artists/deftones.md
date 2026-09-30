@@ -15,8 +15,6 @@
 **Participant in First Warped Tour (1995)** : Deftones were among the approximately 20 up-and-coming alternative bands that performed on two stages during the inaugural Warped Tour in 1995. "For about 20 of them, sublime, deaf tones, L7 and a new group from Orange County called No Doubt." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← deftones
 **The Crow: City of Angels Soundtrack Contribution (1996)** : Deftones was featured on the soundtrack for *The Crow: City of Angels*, the 1996 sequel to *The Crow*. This collection was considered "pretty much as good as the first one" and included other prominent bands of the era. "Bush, Corn, Deftones, E-Pop, White Zombie, Filter." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← deftones
 
-
-
 ## lists
 **"Around the Fur" (1997) — AOTY Must Hear 1990s** : #99, 72 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
 **"Saturday Night Wrist" (2006) — AOTY Must Hear 2000s** : #166, 76 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/

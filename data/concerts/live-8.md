@@ -8,18 +8,14 @@
 **Worldwide Locations** : The Live 8 concert series took place simultaneously across 11 cities around the world, including London, Cornwall, Philadelphia, Berlin, Paris, Rome, Edinburgh, Johannesburg, Moscow, and Barrie, Ontario. "This time, Live 8 took place in 11 cities around the world, London, Cornwall, Philadelphia, Berlin, Paris, Rome, Edinburgh, Johannesburg, Moscow, and Beryonterio." ← https://www.youtube.com/watch?v=YhdsufCUC2w ← live-8 ← live-8
 
 ## artists
-- Audio
 - Duran Duran
 - Green Day
 - James Brown
-- Life
 - Linkin Park
 - Madonna
 - R.E.M.
-- REM
 - Roxy Music
 - Sarah McLachlan
 - Sting
 - The Cure
-- Will Smith
 

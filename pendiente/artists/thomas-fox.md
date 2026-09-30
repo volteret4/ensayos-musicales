@@ -1,6 +1,6 @@
 # artist - Thomas Fox
 
 ## member of
-- The Debenares
+- The Cadets
+- The Debonaires
 - The Flares
-

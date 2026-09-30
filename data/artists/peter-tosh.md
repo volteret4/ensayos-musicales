@@ -1,7 +1,8 @@
 # artist - Peter Tosh
 
 ## member of
-- Bob Marley's Wailers
+- Bob Marley and the Wailers
+- The Wailers
 
 ## genres
 - Reggae
@@ -23,8 +24,6 @@
 **Marijuana Dealer Funding** : After Chris Blackwell declined to fund his solo album, Peter Tosh secured the necessary money for "Legalize It" from a marijuana dealer, who initially expressed displeasure with the album's controversial title. "Since Chris Blackwell would not fund his solo album, Tosh got a marijuana dealer to give him the money for legalize it, although the dealer initially was not too happy about the name of the album." ← For the Record - The 70s > Ep. 29 - Every Little Thing is Gonna Be All Right - The Influence of 70s Reggae | https://seventies.libsyn.com/ep-29-every-little-thing-is-gonna-be-all-right-the-influence-of-70s-reggae
 **Newspaper Ad for "Legalize It"** : In response to the Jamaican government's attempt to ban his record, Peter Tosh took a defiant stance by purchasing an advertisement in a Jamaican newspaper to print the complete lyrics of "Legalize It," ensuring his message reached the public. "Tosh also took out an ad and a Jamaican newspaper and printed the lyrics within the ad." ← For the Record - The 70s > Ep. 29 - Every Little Thing is Gonna Be All Right - The Influence of 70s Reggae | https://seventies.libsyn.com/ep-29-every-little-thing-is-gonna-be-all-right-the-influence-of-70s-reggae
 **Political Activism** : Peter Tosh was a fervent political activist who personally endured police brutality, and his protests were profoundly influenced by the works of American civil rights leaders such as Dr. Martin Luther King, Stokely Carmichael, and Malcolm X, even though their writings were banned in Jamaica. "He did not just protest police brutality because of articles he read. He experienced it firsthand." ← For the Record - The 70s > Ep. 29 - Every Little Thing is Gonna Be All Right - The Influence of 70s Reggae | https://seventies.libsyn.com/ep-29-every-little-thing-is-gonna-be-all-right-the-influence-of-70s-reggae
-
-
 
 ## awards
 **Order of Merit** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1714745

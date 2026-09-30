@@ -6,6 +6,6 @@
 **Shift from Functional Dance Music** : Before 1992, electronic dance music was almost exclusively experienced in clubs, primarily for dancing. The "Artificial Intelligence" compilation and the subsequent IDM movement fundamentally challenged this paradigm, proposing that techno could be listened to while seated, occupying a cultural space comparable to progressive rock, spiritual jazz, or contemporary classical music. "Hasta ese momento la electrónica de club tenía una función muy clara, a Cerva Ylar." ← Qué fue el IDM y por qué cambió la música electrónica | https://www.youtube.com/watch?v=RTwn3hP1XTg
 
 ## artists
-- Carc Drake
-- Derry May
+- Carl Craig
+- Derrick May
 

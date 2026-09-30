@@ -2,8 +2,8 @@
 
 ## members
 - Duncan Coutts
-- Jeremy Taggart (drummer)
-- Mike Turner (guitarist)
+- Jeremy Taggart
+- Mike Turner
 - Raine Maida
 
 ## concerts
@@ -14,14 +14,14 @@
 - Summersault Festival
 
 ## albums
-**Clumsy** : This album achieved significant success, selling "a million copies" in Canada and "another million" in the US, demonstrating strong performance both domestically and internationally. "Arlady Peace not only sold a million copies of their clumsy album in Canada, but another million in the US." ← https://www.youtube.com/watch?v=U2kYleeMnl8 ← our-lady-peace ← our-lady-peace
-**Debut Record** : The debut record by Our Lady Peace featured "Starseed" as its first single, released in May 1994. This marked an early moment in what would become a significant era for Canadian rock music. "Originally released in May 1994 as the first single off their debut record, Art Lady Peace and Star Seed." ← https://www.youtube.com/watch?v=6PGgNCaW4xo ← our-lady-peace
-**Healthy in Paranoid Times (Year Unspecified)** : This album was originally released with the controversial Sony BMG Rootkit malware embedded on the compact discs. The presence of this unauthorized software, designed to prevent CD ripping, sparked widespread outrage and legal action against Sony BMG. "It's from Arlady Peace, and the album is called Healthy and Paranoid Times." ← https://www.youtube.com/watch?v=vJszsJQpINQ ← our-lady-peace ← our-lady-peace
-**Naveed (Debut Album)** : This debut album featured a re-recorded version of the song "Super Satellite," which had previously appeared on the band's early demo. "This is an early version of a song that eventually appeared on RLAD Peace's debut album, Naveed." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← our-lady-peace ← our-lady-peace
-**Spiritual Machines (2000) – Ray Kurzweil Inspiration** : This 2000 album was directly influenced by the band reading the technology-focused books of inventor and thinker Ray Kurzweil. The band's fascination with Kurzweil's ideas shaped the album's themes and many of their songs, reflecting his early involvement in the nexus of music and artificial intelligence. "Their 2000 albums, spiritual machines, came about after the band read through so of Kurzweil's books on technology." ← https://www.youtube.com/watch?v=QFtS8fl553Y ← our-lady-peace
+**Clumsy (1997)** : This album achieved significant success, selling "a million copies" in Canada and "another million" in the US, demonstrating strong performance both domestically and internationally. "Arlady Peace not only sold a million copies of their clumsy album in Canada, but another million in the US." ← https://www.youtube.com/watch?v=U2kYleeMnl8 ← our-lady-peace ← our-lady-peace
+**Healthy in Paranoid Times (2005)** : This album was originally released with the controversial Sony BMG Rootkit malware embedded on the compact discs. The presence of this unauthorized software, designed to prevent CD ripping, sparked widespread outrage and legal action against Sony BMG. "It's from Arlady Peace, and the album is called Healthy and Paranoid Times." ← https://www.youtube.com/watch?v=vJszsJQpINQ ← our-lady-peace ← our-lady-peace
+**Naveed (1994)** : The debut record by Our Lady Peace featured "Starseed" as its first single, released in May 1994. This marked an early moment in what would become a significant era for Canadian rock music. "Originally released in May 1994 as the first single off their debut record, Art Lady Peace and Star Seed." ← https://www.youtube.com/watch?v=6PGgNCaW4xo ← our-lady-peace
+**Naveed (1994)** : This debut album featured a re-recorded version of the song "Super Satellite," which had previously appeared on the band's early demo. "This is an early version of a song that eventually appeared on RLAD Peace's debut album, Naveed." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← our-lady-peace ← our-lady-peace
+**Spiritual Machines (2000)** : This 2000 album was directly influenced by the band reading the technology-focused books of inventor and thinker Ray Kurzweil. The band's fascination with Kurzweil's ideas shaped the album's themes and many of their songs, reflecting his early involvement in the nexus of music and artificial intelligence. "Their 2000 albums, spiritual machines, came about after the band read through so of Kurzweil's books on technology." ← https://www.youtube.com/watch?v=QFtS8fl553Y ← our-lady-peace
 
 ## songs
-**Super Satellite (1993 Demo)** : This is an early demo version of "Super Satellite," probably from sometime in 1993, recorded before Our Lady Peace signed a record deal. The song was later re-recorded for their debut album, "Naveed." "RLAD Peace, probably from sometime in 1993 with a demo version, a version from them before they signed the record deal of super satellite." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← our-lady-peace ← our-lady-peace
+**Super Satellite (1993)** : This is an early demo version of "Super Satellite," probably from sometime in 1993, recorded before Our Lady Peace signed a record deal. The song was later re-recorded for their debut album, "Naveed." "RLAD Peace, probably from sometime in 1993 with a demo version, a version from them before they signed the record deal of super satellite." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← our-lady-peace ← our-lady-peace
 
 ## curiosities
 **Big Rock Records of 2005** : Our Lady Peace was among the artists releasing big rock records in the fall of 2005. "the biggest rock records were from...our bloody piece." ← https://www.youtube.com/watch?v=ua93Ui1u6UI ← our-lady-peace ← our-lady-peace
@@ -36,8 +36,6 @@
 **Post-Can Rock Revolution Survival** : Our Lady Peace were among the Canadian acts that continued to thrive long after the 1990s, showcasing the lasting impact of the Can Rock Revolution on Canadian music. "Many acts survived long after the decade ended. The tragically hip, Sloan, R80p, Serma Glockland, Tea Party, Matt Good, many others." ← https://www.youtube.com/watch?v=U2kYleeMnl8 ← our-lady-peace ← our-lady-peace
 **Summer Salt Festival Leader** : Our Lady Peace spearheaded the Summer Salt festival, which took place in 1998 and again in 2000. This initiative was part of a burgeoning festival scene in Canada during the 1990s that showcased popular Canadian acts. "Summer Salt, spearheaded by Arlady Peace in 1998 and again in 2000." ← https://www.youtube.com/watch?v=6PGgNCaW4xo ← our-lady-peace
 **Summersault Festival Founder** : Our Lady Peace initiated the Summersault festival in 1998, joining other artists in creating touring festivals during a financially flush period in the music industry. "Our Lady P started Summersault in 1998." ← https://www.youtube.com/watch?v=7JP2tjJibTQ ← our-lady-peace
-
-
 
 ## awards
 **CASBY Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5008850

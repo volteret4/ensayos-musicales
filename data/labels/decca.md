@@ -9,6 +9,6 @@
 
 ## artists
 - Roy Hall
-- Sister Rosetta Tharp
+- Sister Rosetta Tharpe
 - William Shatner
 

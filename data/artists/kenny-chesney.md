@@ -1,15 +1,17 @@
 # artist - Kenny Chesney
 
+## genres
+- Country
+
 ## labels
-- Hypnosis Song Fund (as purchaser of publishing rights)
+- Hypnosis Song Fund
 
 ## songs
-**All I Want for Christmas Is You (Cover)** : Kenny Chesney is listed as one of the numerous artists who have performed a cover version of Mariah Carey's "All I Want for Christmas Is You." "It's been covered about a zillion times... Kenny Chesney" ← https://www.youtube.com/watch?v=nYPGQiDL5bw ← kenny-chesney
+**All I Want for Christmas Is You** : Kenny Chesney is listed as one of the numerous artists who have performed a cover version of Mariah Carey's "All I Want for Christmas Is You." "It's been covered about a zillion times... Kenny Chesney" ← https://www.youtube.com/watch?v=nYPGQiDL5bw ← kenny-chesney
+**Setting the World on Fire (2016)** : Recorded with Pink, this duet reached number one on both Billboard's Hot Country Songs and Country Airplay charts in October 2016. Pink's husky voice was noted as being "well suited to country music." "Later in 2016, she recorded a duet with Country Megastar Kenny Chesney, setting the world on fire." ← Hit Parade Music History and Music Trivia > Raise Your Glass Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f708e6dd12efb02f1ac
 
 ## curiosities
 **Publishing Rights Sale to Hypnosis Song Fund** : Country star Kenny Chesney sold his publishing rights to the Hypnosis Song Fund. "Hypnosis is bought publishing from... Countrystar Kenny Chesney" ← https://www.youtube.com/watch?v=Pe40SqDrpZ0 ← kenny-chesney
-
-
 
 ## awards
 **American Music Award for Artist of the Year** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q19858055

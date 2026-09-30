@@ -9,10 +9,11 @@
 **Skepticism Towards "Twice Removed"** : Geffen Records expressed significant concern about Sloan's album "Twice Removed" due to its stylistic departure from "Smeared," viewing it as a completely different band and suggesting they "redo the whole thing" because it would be difficult to market. Despite this, Sloan stood their ground, a move that later became part of their "sticking it to the man" narrative. "It is true that Geffen, when they heard it, they were like, what are you serious? Like, this is a different band. It's going to be hard for us to market you. Please, you know, consider redoing the whole thing." ← https://www.youtube.com/watch?v=mbic-70ZhpE ← geffen ← geffen
 **Sloan's First Album Remix** : Geffen Records picked up Sloan's first record (later known as "Smeared") and remixed it for distribution. This remix cost $1,200. "The first record we made, which was on Gephin, we made with the aspirations of trying to make a thousand CDs or five hundred. And then we got picked up and remixed by Gephin." ← https://www.youtube.com/watch?v=QB3nyFH_tRU ← geffen ← geffen
 **Sloan's Major Label Deal** : Geffen Records (also referred to as DGC) signed Sloan after A&R representative Todd Sullivan was captivated by their song "Underwhelmed." The signing was a rapid and exciting event for the Halifax band. "He set it to a friend of his Todd Sullivanic Geffen who loved the song underwhelmed and then came to see his play and then he was like, do you guys want to sign to Geffen?" ← https://www.youtube.com/watch?v=mbic-70ZhpE ← geffen ← geffen
+**Conflict with Sire Over Singles (1985)** : Geffen executives bickered with Sire Records over which Madonna songs from the "Vision Quest" soundtrack could be released as singles. As a result of a compromise, Geffen issued "Crazy for You" as a 45. "They compromised, and Crazy for you was issued by Geffen as a 45." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef10c30a1408dc291b9
 
 ## artists
 - Sloan
 - Suede
 - Veruca Salt
 - Weezer
-
+- Madonna

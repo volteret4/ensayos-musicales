@@ -14,10 +14,10 @@
 **Vienna (1981)** : The title track of Ultravox's 1981 album *Vienna* became a massive hit across the UK and Europe. It showcases Warren Cann's custom modifications to the Roland CR-78, which provided a fatter bass drum sound and a tightly controlled tempo. "We can hear that work in Vienna, the title track of Ultravox's 1981 album, and a huge hit in the UK and Europe." ← https://www.youtube.com/watch?v=dablAKDOOV0 ← ultravox ← ultravox
 
 ## songs
-**Saturday Night in the City of the Dead (Year Unspecified)** : A song from Ultravox's gloomy early incarnation, contributing to the dark musical landscape that fed into the nascent goth scene. "making songs like Saturday Night in the City of the Dead" ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← ultravox
-**The Wild, the Beautiful, and the Damned (Year Unspecified)** : Another song from Ultravox's early, gloomy period, reflecting the dark mood that would influence the development of goth music. "and the Wild, the Beautiful, and the Damned." ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← ultravox
-**Vienna (1980) – Central New Romantic Track** : This 1980 release is considered a central song to the entire New Romantic movement, an offshoot of the original Technopop era. "It's a 1980 release from Ultravox. It's called Vienna. ... Vienna from Ultravox, an important track of the New Romantic movement, one of the offshoots from the original Tecno Pop era." ← https://www.youtube.com/watch?v=1KF5MwJVYng ← ultravox
+**Saturday Night in the City of the Dead** : A song from Ultravox's gloomy early incarnation, contributing to the dark musical landscape that fed into the nascent goth scene. "making songs like Saturday Night in the City of the Dead" ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← ultravox
+**Vienna (1980)** : This 1980 release is considered a central song to the entire New Romantic movement, an offshoot of the original Technopop era. "It's a 1980 release from Ultravox. It's called Vienna. ... Vienna from Ultravox, an important track of the New Romantic movement, one of the offshoots from the original Tecno Pop era." ← https://www.youtube.com/watch?v=1KF5MwJVYng ← ultravox
 **Vienna (1981)** : The title track from their 1981 album, "Vienna," became a huge hit in the UK and Europe and prominently features the modified Roland CR-78 drum machine, showcasing its unique sonic contributions. "We can hear that work in Vienna, the title track of Ultravox's 1981 album, and a huge hit in the UK and Europe." ← https://www.youtube.com/watch?v=dablAKDOOV0 ← ultravox ← ultravox
+**The Wild, the Beautiful, and the Damned** : Another song from Ultravox's early, gloomy period, reflecting the dark mood that would influence the development of goth music. "and the Wild, the Beautiful, and the Damned." ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← ultravox
 
 ## curiosities
 **Blitz Club Influence** : Ultravox was one of the bands influenced by the music played and the atmosphere fostered at The Blitz Club in London, which became a seedbed for new musical orders like synth-pop. "como Ultrabox, Vsai, orspan-Dew-Valet." ← Por qué KRAFTWERK es la banda más influyente de la historia？ | https://www.youtube.com/watch?v=wWOBez9Cqhs
@@ -25,8 +25,6 @@
 **Early Goth Scene Inspiration** : The first version of Ultravox was recognized as one of the artists whose dark music helped attract punk refugees who were looking for a gloomier sound, contributing to the formation of the Goth scene. "That would include David Bowie and joint-evision, the first version of Ultravox, and an Irish performance art group called The Virgin Proons." ← https://www.youtube.com/watch?v=gd9sO7c3N1s ← ultravox
 **Early Synth Pop Pioneers** : Ultravox was an existing band that exemplified Synth Pop music even before the genre was widely given that specific name, which emerged around the mid-1980s. They were active during the early 1980s period when New Wave began to coalesce around synth-based sounds. "aunque ya existía, la refiro ahí dijo es Ultra Box y de otras bandas." ← Music Radar Clan > Que es el New Wave | https://www.youtube.com/watch?v=jxaTsoSRXZE&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← ultravox ← ultravox
 **New Romantic Descendant** : Ultravox is identified as a band that emerged from the New Romantic movement, directly influenced by the legacy of glam rock, particularly David Bowie and Roxy Music. "Ultravox." ← https://www.youtube.com/watch?v=blDNqVFheAw ← ultravox ← ultravox
-
-
 
 ## charts
 **"518" — NME Chart** : 21 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

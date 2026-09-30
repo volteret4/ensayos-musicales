@@ -17,7 +17,5 @@
 **Disappearance After Airplay** : Despite releasing two critically acclaimed albums on Atlantic Records and receiving some alt-rock radio airplay, Eugenius ultimately "just disappeared." Their story serves as an example of a good band from the early 1990s that may have been missed by many listeners. "But after a little bit of alt-rock radio airplay, Eugenius just disappeared." ← https://www.youtube.com/watch?v=m7MbV-eCLyE ← eugenius
 **Kurt Cobain's Endorsement and Major Label Deal** : Eugenius, a Scottish band, gained significant attention when Kurt Cobain expressed his admiration for their music, leading him to invite them to open for Nirvana on their 1991 European tour. This high-profile endorsement resulted in the band securing a major label deal with Atlantic Records, leading to the release of two well-reviewed albums. "Kurt Cobain loved so much that he invited them to open for Nirvana on their 1991 European tour. Kurt's endorsement of the band got them a major label deal with Atlantic Records." ← https://www.youtube.com/watch?v=m7MbV-eCLyE ← eugenius
 
-
-
 ## awards
 **Gold Cross of Merit (1938)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q21954284

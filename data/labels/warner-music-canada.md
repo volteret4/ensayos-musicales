@@ -7,5 +7,5 @@
 
 ## artists
 - Billy Talent
-- David Botrell
+- David Bottrill
 

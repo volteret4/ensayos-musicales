@@ -1,7 +1,7 @@
 # artist - Thread
 
 ## members
-- Jay Parsons
+- Jason Parsons
 
 ## genres
 - Canadian Indie
@@ -9,9 +9,3 @@
 
 ## songs
 **Ties of Affinity (1997)** : This song was recorded by Jay Parsons' high school band, Thread, around 1997. While never officially released, it showcased influences from Canadian indie bands like Treble Charger and established groups such as Oasis. "This is Thread and Ties of Affinity...Never released before." ← https://www.youtube.com/watch?v=ayPJfDAF_to ← thread
-
-
-
-## lists
-**"Ea Taesse" (2006) — Sputnikmusic Best Albums 2006** : #116, 4.04 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/
-**"Ea II" (2009) — Sputnikmusic Best Albums 2009** : #12, 4.23 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2009/

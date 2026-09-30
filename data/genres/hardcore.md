@@ -50,8 +50,6 @@
 - Adversity
 - Agent Orange
 - Agnostic Front
-- Alexis On Fire
-- Alexis on Fire
 - Alexisonfire
 - Bad Brains
 - Bad Religion
@@ -60,7 +58,7 @@
 - Black Flag
 - Circle Jerks
 - Cro-Mags
-- DOA
+- D.O.A.
 - Dane Bramage
 - David Bowie
 - Dayglo Abortions
@@ -77,18 +75,16 @@
 - GBH
 - Gang Green
 - Ho99o9
-- Husker Dü
 - Hüsker Dü
 - Mia Zapata
 - Misfits
 - Mob 47
 - Nate Mendel
 - Nirvana
-- No Means No
 - NoMeansNo
 - Raw Power
 - Red Hot Chili Peppers
-- Red Kross
+- Redd Kross
 - Refused
 - SNFU
 - Scream
@@ -97,12 +93,10 @@
 - Suicidal Tendencies
 - The Adolescents
 - The Asexuals
-- The Dead Kennedys
 - The Dead Milkmen
-- The Descendents
 - The Exploited
 - The Jirms
-- The Meat Puppets
+- Meat Puppets
 - The Minutemen
 - The Subhumans
 - Tin Machine

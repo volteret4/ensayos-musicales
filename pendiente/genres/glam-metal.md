@@ -5,7 +5,6 @@
 
 ## artists
 - Cinderella
-- Kidros
 - Poison
 - Ratt
 - Steel Panther

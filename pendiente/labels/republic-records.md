@@ -6,6 +6,6 @@
 
 ## artists
 - Nirvana
-- Three Doors Down
+- 3 Doors Down
 - Wilco
 

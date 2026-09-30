@@ -9,6 +9,7 @@
 **Technique for Gritty Sound** : Charlie Daniels employed a specific technique of pressing down harder on the fiddle strings to achieve a grittier and more distinctive sound. This contributed to the unique character of The Charlie Daniels Band's music. "Charlie Daniels said that by pressing down harder on the fiddle strings, it made for a grittier sound." ← For the Record - The 70s > Ep. 49 - Austin City Limits and the 70s Country Music Revolution | http://ftr70.com
 **Traditional Country Element** : Fiddles are considered an essential piece of traditional country music, yet country radio in the 1970s aimed to exclude them from its programming to broaden appeal. "Fiddles and banjos that really are an essential piece of traditional country music." ← For the Record - The 70s > Ep. 2 - Countryish Music of the 1970s (Encore) | https://www.ftr70.com/
 **Used by Jongleurs in Profane Music** : Jongleurs, itinerant medieval musicians, commonly performed profane music using instruments such as fiddles (violins de arco), along with lutes, wooden flutes, psalteries, and drums. These instruments were crucial in conveying the closer, more rhythmic, and earthly sounds of medieval popular music. "violins de arco". ← Por qué todo suena medieval en 2025？ (Dungeon Synth, Bardcore...) | https://www.youtube.com/watch?v=FDNQdBRktSA
+**John Mellencamp's Rootsy Experimentation** : For his 1987 album "The Lonesome Jubilee," John Mellencamp and his band incorporated traditional folk and country instruments, including the fiddle, to deepen his Americana sound during his imperial peak. "Melanchamp and his band picked up folk and country instruments like auto harp, banjo, accordion and fiddle." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f03154465cd600c5379
 
 ## artists
 - Bob Wills
@@ -17,4 +18,4 @@
 - Ozark Mountain Daredevils
 - The Light Crust Doughboys
 - Wanda Jackson
-
+- John Mellencamp

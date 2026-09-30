@@ -8,9 +8,9 @@
 
 ## artists
 - 38 Special
-- ACDC
+- AC/DC
 - David Bowie
 - Foreigner
 - Heart
-- Robert John "Mut" Lang
+- Robert John "Mutt" Lange
 

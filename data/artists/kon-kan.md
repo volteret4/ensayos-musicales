@@ -21,16 +21,7 @@
 **Extensive Sampling** : The song "I Beg Your Pardon" is notable for its liberal use of samples from diverse musical and commercial sources, which contributes to its unique sound. "There are a lot of samples here, including I never promised you a Rose Garden, a 1971 Hit Roller-Retta-Lin. Get up and boogie, a 1976 disco song by Silver Convention, a Marble Royal Singer-Retts TV commercial and a bunch of others, including by the way, Go from Tone's on Tale, which we heard earlier." ← https://www.youtube.com/watch?v=_qxdftwrX3E ← kon-kan ← kon-kan
 **Groups with Technopop DNA** : Kon Kan was identified as a group whose sound incorporated substantial Technopop DNA, illustrating how the genre's influence persisted and diversified even as its initial popularity waned. "And there were other groups with plenty of Technopop DNA, camouflage, went in Rome, the information society, Khan Khan." ← https://www.youtube.com/watch?v=5PJRCC6EwUY ← kon-kan
 
-
-
 ## awards
 **Juno Award for Dance Recording of the Year (1990) — I Beg Your Pardon** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q6314071
 **Juno Award for Dance Recording of the Year (1990) — I Beg Your Pardon** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q6314071
 **Juno Award for Dance Recording of the Year (1991)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q6314071
-
-## lists
-**"Honor Killed the Samurai" (2016) — AOTY Must Hear 2010s** : #393, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"The Night's Gambit" (2013) — AOTY Must Hear 2010s** : #675, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"The Thief Next to Jesus" (2024) — AOTY Must Hear 2020s** : #187, 84 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Grief Pedigree" (2012) — Scaruffi 2010s** : #222, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"A Martyr's Reward" (2021) — Sputnikmusic Best Albums 2021** : #184, 3.77 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2021/

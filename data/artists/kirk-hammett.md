@@ -1,22 +1,14 @@
 # artist - Kirk Hammett
 
 ## member of
-- Kirk Hammett
 - Metallica
-- Robert
-
-## members
-- James
-- Kirk Hammett
-- Lars
-- Robert
 
 ## instruments
 - Gibson Les Paul
 - Wawa pedal
 
 ## songs
-**Enter Sandman (Year)** : Kirk Hammett extensively uses the wah-wah pedal throughout Metallica's song "Enter Sandman," demonstrating the enduring presence and impact of this effect in rock music. "Kirk Hammett uses it all the way through Metallica's Inter Sandman." ← https://www.youtube.com/watch?v=6SdPPsmpgJg ← kirk-hammett
+**Enter Sandman** : Kirk Hammett extensively uses the wah-wah pedal throughout Metallica's song "Enter Sandman," demonstrating the enduring presence and impact of this effect in rock music. "Kirk Hammett uses it all the way through Metallica's Inter Sandman." ← https://www.youtube.com/watch?v=6SdPPsmpgJg ← kirk-hammett
 
 ## curiosities
 **"It's Alive" Exhibition at ROM** : Hammett's extensive, comprehensive, and well-preserved collection of classic horror movie posters and artwork is deemed significant enough to be featured in major museum exhibitions, including "It's Alive: Classic Horror and Sci-Fi Art from the Kirk Hammett Collection" at the Royal Ontario Museum (ROM) in Toronto. This exhibition ran from July 12, 2019, until January 5, 2020, with plans to tour other museums globally thereafter. "This collection is so big and so comprehensive and so well preserved that it's the subject of exhibitions at major museums, including the Royal Ontario Museum in Toronto." ← https://www.youtube.com/watch?v=CgDCaUxbQDU ← kirk-hammett ← kirk-hammett
@@ -34,8 +26,3 @@
 **Horror Movie and Memorabilia Passion** : Kirk Hammett has maintained a lifelong passion for horror movies and horror memorabilia, with his primary obsession being posters from old sci-fi and horror films. This interest began in his childhood, around the age of five or six. "Kirk has always been a fan of horror movies. And Kirk is a fan of horror memorabilia. But his biggest passion are posters from old sci-fi and horror movies." ← https://www.youtube.com/watch?v=CgDCaUxbQDU ← kirk-hammett ← kirk-hammett
 **John Marshall as Guitar Tech** : Kirk Hammett of Metallica has John Marshall as his dedicated guitar tech. Marshall, who previously played guitar for Metal Church, transitioned to this role for Metallica. "John Marshall was a guitarist for the band Metal Church before he was picked to be Kirk Hammett's guitar tech in Metallica." ← https://www.youtube.com/watch?v=ZVGnSVfed9s ← kirk-hammett ← kirk-hammett
 **Preference for Thematic Horror** : Hammett prefers horror movies with supernatural, monster, outer space, or paranormal themes, tending to avoid overtly violent horror. He sees "torture porn" as a "cheap thrill" that often lacks the plot and intrigue he values, making it difficult for him to recognize any artistry in it. "I tend to shy away from horror movies that are overtly violent. You know, I like horror but I don't like horror for the sake of it." ← https://www.youtube.com/watch?v=CgDCaUxbQDU ← kirk-hammett ← kirk-hammett
-
-
-
-## charts
-**"473" — NME Chart** : 16 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

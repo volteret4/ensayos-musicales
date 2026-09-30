@@ -16,9 +16,3 @@
 **Current Status** : As of the discussion, she was believed to still be alive but no longer performing actively. "As far as I know, she's still around, although she doesn't seem to perform much anymore." ← https://www.youtube.com/watch?v=HcK4M7-02ik ← the-amazing-dolores
 **Fan and Album Support** : Stan Lynch, the drummer for Tom Petty and the Heartbreakers, was a fan and provided assistance in recording her 1994 album, *Stop Messin with My Mind*. "She had a fan in Stan Lynch, the drummer for Tom Petty in the Heartbreakers, and he helped her record an album in 1994 called Stop Messin with My Mind." ← https://www.youtube.com/watch?v=HcK4M7-02ik ← the-amazing-dolores
 **First Performance** : Her debut performance was a memorable rendition of "House of the Rising Sun," delivered while she jumped up and down on a table. "Her first performance was a rendition of House of the Rising Sun as she jumped up and down on a table." ← https://www.youtube.com/watch?v=HcK4M7-02ik ← the-amazing-dolores
-
-
-
-## lists
-**"In Forgotten Sleep" (2017) — Sputnikmusic Best Albums 2017** : #38, 3.97 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2017/
-**"Edge of Eternity" (2020) — Sputnikmusic Best Albums 2020** : #164, 3.8 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2020/

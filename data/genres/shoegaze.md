@@ -53,14 +53,13 @@
 
 ## artists
 - A Place to Bury Strangers
-- AR Kane
+- A.R. Kane
 - Adorable
 - Banshee
 - Braids
-- Chapter House
 - Chapterhouse
 - Curve
-- Delirium
+- Delerium
 - Dinosaur Jr.
 - Engineers
 - Lush

@@ -17,8 +17,6 @@
 **Post-Kind of Blue Career Launch** : Following his significant role as the tenor saxophonist on Miles Davis's groundbreaking album *Kind of Blue*, John Coltrane secured a contract with Atlantic Records to establish his own band as a group leader. "John Coltrin fue el saxofonista tenor de KantoVlo, que, entre ese disco, firmó un contrató con Atlántico para formar su banda como líder de grupo." ← Cómo el Flamenco Influyó a Músicos Extranjeros (Y Quizá No Lo Notaste) | https://www.youtube.com/watch?v=9ReRvRfbHec
 **Use of Devil's Triad in Jazz (1950s)** : John Coltrane, a highly influential jazz musician, is mentioned alongside Charlie Parker as a key player who frequently utilized the "devil's tri tone" (flattened fifth) in his jazz compositions during the 1950s. His use of this chord underscores its importance in shaping the sophisticated and often challenging sound of modern jazz. "When jazz came along, these chords were used a lot, especially when we get to the 1950s with players like Charlie Parker and John Coltray." ← https://www.youtube.com/watch?v=41eKVp8JIhU ← john-coltrane
 
-
-
 ## awards
 **Asiatic-Pacific Campaign Medal** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q2338071
 **North Carolina Music Hall of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q7054559

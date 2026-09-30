@@ -6,4 +6,4 @@
 ## artists
 - MGMT
 - The Housemartins
-
+- Feist

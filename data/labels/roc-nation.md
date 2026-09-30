@@ -6,5 +6,4 @@
 
 ## artists
 - Willow
-- Willow Smith
 

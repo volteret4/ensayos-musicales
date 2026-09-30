@@ -2,4 +2,3 @@
 
 ## member of
 - Little Joe and The Thrillers
-

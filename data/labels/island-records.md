@@ -33,12 +33,11 @@
 - Bob Marley and the Wailers
 - Bono
 - Chris Blackwell
-- Crenbury's
 - Florence + The Machine
 - Grace Jones
 - Jimmy Cliff
 - King Crimson
-- Level Lackin
+- Laurel Aitken
 - Millie Small
 - Mumford & Sons
 - My Bloody Valentine

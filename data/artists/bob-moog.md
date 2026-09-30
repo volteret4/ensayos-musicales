@@ -1,21 +1,19 @@
 # artist - Bob Moog
 
 ## instruments
+- Mini Moog
+- Moog synthesizer
 - Synthesizer
 
 ## curiosities
 **Concern for Moog Company's Future** : Bob Moog expressed concern that his company was facing imminent doom if they failed to innovate and produce something significantly different from the existing giant modular synthesizers. This motivated the development of the Mini-Moog. "Bob Mogen, as people knew, if they didn't come up with something different, the company was doomed." ← https://www.youtube.com/watch?v=Y0HW8LQKvJw ← bob-moog
 **Inventor of the Synthesizer** : Bob Moog is recognized as the inventor of the synthesizer. His new machines captivated Malcolm Cecil and Robert Margouleff in the late 1960s, inspiring them to build TONTO, the massive modular synth that profoundly influenced electronic music. "These guys, a British jazz dude working for the BBC and an American record producer, were huge influences on the world of electronic music, but they were almost entirely behind the scenes." ← https://www.youtube.com/watch?v=6SdPPsmpgJg ← bob-moog
-
-
+**Invention of Mini Moog (1971)** : In 1971, Dr. Moog introduced the Mini Moog, an invention credited with making much of today's music possible. This synthesizer could perform almost everything its larger predecessors could, but was significantly smaller (a little bigger than a suitcase) and, crucially, much cheaper, making the technology accessible to a new generation of musicians, many of whom came of age during the punk era. "The big break came in 1971 when Dr. Mogue showed up again, this time with a new synthesizer design he called the Mini Mogue. This one invention made much of today's music possible." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← dr-robert-moog ← dr-robert-moog
+**Invention of Moog Synthesizer (1965)** : Dr. Robert Moog invented the Moog synthesizer in 1965, a crucial development because previous synthesizers were unwieldy, huge (the size of railway cars), heat-generating, and programmable only with hundreds of patch cords. While still ungainly, Moog's invention was more manageable in size, allowing more musicians to experiment. "That's when Dr. Robert Mogue invented the Mogue synthesizer. This is very important because up until then, synthesizers were honestly the size of railway cars." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← dr-robert-moog ← dr-robert-moog
+**Invention of Mini Moog (1971)** : In 1971, Dr. Moog introduced the Mini Moog, an invention credited with making much of today's music possible. This synthesizer could perform almost everything its larger predecessors could, but was significantly smaller (a little bigger than a suitcase) and, crucially, much cheaper, making the technology accessible to a new generation of musicians, many of whom came of age during the punk era. "The big break came in 1971 when Dr. Mogue showed up again, this time with a new synthesizer design he called the Mini Mogue. This one invention made much of today's music possible." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← dr-robert-moog
+**Invention of Moog Synthesizer (1965)** : Dr. Robert Moog invented the Moog synthesizer in 1965, a crucial development because previous synthesizers were unwieldy, huge (the size of railway cars), heat-generating, and programmable only with hundreds of patch cords. While still ungainly, Moog's invention was more manageable in size, allowing more musicians to experiment. "That's when Dr. Robert Mogue invented the Mogue synthesizer. This is very important because up until then, synthesizers were honestly the size of railway cars." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← dr-robert-moog
 
 ## awards
 **Grammy Trustees Award (1970)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5593916
 **Polar Music Prize (2001)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q754841
 **National Inventors Hall of Fame (2013)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1366018
-
-## charts
-**"Airplanes" — Billboard Year-End Hot 100** : #6, 2010. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Nothin' on You" — Billboard Year-End Hot 100** : #11, 2010. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Magic" — Billboard Year-End Hot 100** : #63, 2010. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"So Good" — Billboard Year-End Hot 100** : #80, 2012. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

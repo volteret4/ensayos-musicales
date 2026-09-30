@@ -9,10 +9,10 @@
 **Spreading Indie Influence** : SST Records, an indie label associated with Black Flag, played a crucial role in allowing bands like Sonic Youth and Husker Dew to spread their influence throughout North America. "Although Sonic Youth's music became more structured as the 80s progressed, there was always the sense that they were pushing the edge of the musical envelope and thanks to a deal with black flags, indie label, SST records, they were able to spread their influence throughout North America." ← https://www.youtube.com/watch?v=sCtQqVBtCaI ← sst-records
 **Spreading Sonic Youth's Influence** : SST Records played a crucial role in expanding the reach and influence of New York's Sonic Youth, distributing their music and helping them spread their sound throughout North America. "And thanks to a deal with Black Flag's SSD records, they were able to spread their influence throughout North America." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← sst-records ← sst-records
 **Success Despite Challenges** : Despite early struggles, including a near-fatal legal battle with a major label, SST Records eventually mastered the business of running an independent company and achieved considerable success. "Black Flag struggled for a few years, almost losing a legal battle with a major label that would have killed both the band and their label, but eventually they got the hang of running an independent company and did quite well." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← sst-records ← sst-records
+**Punk Hero Roster** : SST Records, a prominent California independent label, was known for releasing albums by influential 80s punk heroes such as The Minutemen, Black Flag, and Husker Dü. Soundgarden signed with SST after their initial releases on Sub Pop. "SST Records, which had issued albums by such 80s punk heroes as The Minute Men, Black Flag, and Husker Do." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 
 ## artists
 - Black Flag
-- Husker Dew
 - Hüsker Dü
 - Sonic Youth
-
+- Soundgarden

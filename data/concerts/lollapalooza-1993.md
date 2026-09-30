@@ -6,6 +6,5 @@
 
 ## artists
 - Fishbone
-- Rage Against The Machine
 - Rage Against the Machine
 

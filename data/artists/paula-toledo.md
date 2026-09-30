@@ -1,7 +1,7 @@
 # artist - Paula Toledo
 
 ## genres
-- Pop (implied by the sound and subsequent streaming release)
+- Pop
 
 ## labels
 - Apple Music
@@ -17,13 +17,3 @@
 **Online Search and Identification** : The song's elusive nature bugged many people, leading to a widespread online search, with some fans creating tribute videos, remixes, and covers. The mystery was finally solved on December 8, 2023, when Reddit user L. Aerebaba found it in the Sokan database in Canada after searching performing rights societies, leading back to a podcast containing the full song. "Then, 16 years after the first initial post from Ukraine, a user named the Aerebara cracked it." ← https://www.youtube.com/watch?v=UsPoPUByjYw ← paula-toledo
 **Streaming Fraud Controversy** : After its rediscovery and release on streaming platforms, an unofficial duplicate of "How Long Will It Take" appeared, siphoning royalties to an unauthorized entity. This confusion led to Paula's official version being temporarily removed by streaming services in a "Kafka-esque streaming fraud case." "That caused so much confusion that Paula's version was taken down by the streaming music services as some kind of Kafka-esque streaming fraud case." ← https://www.youtube.com/watch?v=UsPoPUByjYw ← paula-toledo
 **Unexpected Re-emergence** : Upon identification, Paula Toledo, then a 52-year-old woman in Vancouver, experienced her phone and email "blow up" with inquiries and even money being sent to her website. Her son confirmed that people had been searching for her song for 16 years, much to her surprise. "Mom! Someone is asking about one of your songs. People have been looking for you for 16 years!" ← https://www.youtube.com/watch?v=UsPoPUByjYw ← paula-toledo
-
-
-
-## charts
-**"Meet Mister Callaghan" — Billboard Year-End Hot 100** : #25, 1952. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Hey Paula" — Billboard Year-End Hot 100** : #6, 1963. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Uncle Albert/Admiral Halsey" — Billboard Year-End Hot 100** : #22, 1971. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-
-## lists
-**"RAM" (1971) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #450. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3

@@ -1,7 +1,10 @@
 # artist - Phil Spector
 
 ## member of
-- The Coasters
+- The Teddy Bears
+
+## genres
+- Wall of Sound
 
 ## labels
 - (Signed to Lieber & Stoller's publishing contract, label not specified for solo work)
@@ -9,6 +12,9 @@
 
 ## instruments
 - Guitar
+
+## albums
+**A Christmas Gift for You from Phil Spector (1963)** : A Christmas album named after Specter, packed with songs that are now considered holiday classics. "He even had a Christmas album named after him, 1963's A Christmas Gift for You from Phil Specter, packed with songs that are now holiday classics." ← Hit Parade Music History and Music Trivia > Pour Some Sugar on Me Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5d1ba84fb8f04493d
 
 ## songs
 **Second Hand Love (co-credited with Connie Francis)** : Phil Spector produced this Top 10 hit for Connie Francis, and is also listed as a co-writer. The melody line leading into the chorus is noted as identical to the melody line leading into the chorus of "Be My Baby," suggesting his specific contribution to that melodic transition. "If you listen to that Connie Francis record I accept it earlier, on which Spectre is also a credited co-writer, the melody line for the line that you don't feel the same, leading into the chorus. Is identical to the melody line leading into the chorus of Be My Baby?" ← Episode 110： ＂Be My Baby＂ by the Ronettes | https://www.youtube.com/watch?v=4BmEQRvAHAY
@@ -29,8 +35,11 @@
 **Royalty Lawsuit Defense (1998)** : In a 1998 lawsuit brought by The Ronettes for unpaid royalties, Phil Spector argued that he owed them nothing and, in fact, they still owed him money. His defense was based on the claim that the costs of recording their singles had always exceeded the revenue they generated. "In court Specter argued that he didn't owe them any more, and indeed that they still owed him money, because the cost of recording their singles meant that they had never actually earned more money than they cost." ← Episode 110： ＂Be My Baby＂ by the Ronettes | https://www.youtube.com/watch?v=4BmEQRvAHAY
 **Songwriting Contribution Debate** : There is significant debate surrounding the extent of Phil Spector's songwriting contributions when he is co-credited. While some co-writers claim he would often only alter a word or phrase in an already completed song, others, like Barry Mann (who credited Spector with the middle section of "You've Lost That Lovin' Feeling"), suggest more substantial input, though he was rarely the primary writer. "Some of his co-writers have said that he would often only change a word or phrase and get himself cut in on an already completed song." ← Episode 110： ＂Be My Baby＂ by the Ronettes | https://www.youtube.com/watch?v=4BmEQRvAHAY
 **Wall of Sound Production Method** : Phil Spector was known for his immersive production through his "Wall of Sound" methods, developed in the early 1960s. These techniques typically resulted in upbeat, high-energy, and danceable songs. When working with George Harrison, however, he adapted this method to a more subdued style. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← phil-spector
-
-
+**Fairfax High School Rivalry** : Phil Specter attended Fairfax High, a school with a strong rivalry with University High. Like University High, Fairfax High also produced numerous famous individuals, contributing to the vibrant music and entertainment scene in Los Angeles. "Specter went to Fairfax High, a school which had a strong rivalry with University High, and produced a similarly ludicrous list of famous people." ← Episode 86： ＂LSD-25＂ by the Gamblers | https://www.youtube.com/watch?v=UNd6UwbL1rA
+**Infamous Career Trajectory** : Specter's name became infamous due to his legal troubles. He died in prison in 2021, where he had been incarcerated for a dozen years after being convicted for the murder of actress Lana Clarkson. "Of course, the name Phil Specter is now also infamous." ← Hit Parade Music History and Music Trivia > Pour Some Sugar on Me Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5d1ba84fb8f04493d
+**Legendary "Wall of Sound" Producer** : Phil Specter was known as a "legendary wall of sound producer" who worked with a wide range of artists, including The Ronettes, Tina Turner, and The Righteous Brothers. "The legendary wall of sound producer worked with everyone from the Ronets to Tina Turner to the righteous brothers." ← Hit Parade Music History and Music Trivia > Pour Some Sugar on Me Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5d1ba84fb8f04493d
+**Musical Clique** : Specter formed his own musical clique with friends like Marshall Leib (his best friend) and Marshall's girlfriend's younger brother, Loss Tittleman, with whom he made music. "he'd got his own little clique of people around him with whom he was making music." ← Episode 86： ＂LSD-25＂ by the Gamblers | https://www.youtube.com/watch?v=UNd6UwbL1rA
+**Solo Instrumental Project (as Phil Harvey)** : Specter, growing disenchanted with The Teddy Bears, created a solo instrumental single under the name "Phil Harvey." He then assembled the Phil Harvey band from former members of The Moon Dogs to perform a single promotional gig for this release. "The actor had become disenchanted with being in the teddy bears, and had put together a solo instrumental single under the name Phil Harvey." ← Episode 86： ＂LSD-25＂ by the Gamblers | https://www.youtube.com/watch?v=UNd6UwbL1rA
 
 ## awards
 **Rock and Roll Hall of Fame (1989)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191

@@ -6,4 +6,4 @@
 ## artists
 - The Band
 - William Bell
-
+- Aretha Franklin

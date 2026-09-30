@@ -7,5 +7,5 @@
 ## artists
 - Grady Martin
 - Paul Burlison
-- The Rock and Roll Trio
+- Johnny Burnette and the Rock and Roll Trio
 

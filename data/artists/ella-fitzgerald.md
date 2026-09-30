@@ -1,10 +1,13 @@
 # artist - Ella Fitzgerald
 
+## member of
+- Chick Webb
+
 ## albums
 **Rhythm Is My Business (1962)** : An album where Ella Fitzgerald reunited with Bill Doggett, seeking to create music with more rhythm compared to her recent ballad-focused albums. Doggett's arrangements and Hammond organ prominently featured on the record. "The resulting album, rhythm is my business, featured Doggett's arrangements and Hammondog and very prominently." ← Episode 50： ＂Honky Tonk＂, by Bill Doggett | https://www.youtube.com/watch?v=H2rYnKmeZF0
 
 ## songs
-**Bubble Gum Song (Year Unknown)** : Ella Fitzgerald sang a song co-written by Book Ram and Chick Webb, which features distinctive lyrics about chewing bubble gum. The song showcases Ram's songwriting ability before his move into management. "First you pop, then you stop, the gum gets big and round. Blow your troubles way like bubble. When you hear that funny little sound, Choo, choo, choo, choo, choo, your bubble gum, Choo, choo, choo, choo, your bubble gum, Choo, choo, choo, choo, choo, your bubble gum, Choo, choo, choo, choo, your bubble gum. Listen, sis, you're having fun, Chooing on your bubble gum." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
+**Bubble Gum Song** : Ella Fitzgerald sang a song co-written by Book Ram and Chick Webb, which features distinctive lyrics about chewing bubble gum. The song showcases Ram's songwriting ability before his move into management. "First you pop, then you stop, the gum gets big and round. Blow your troubles way like bubble. When you hear that funny little sound, Choo, choo, choo, choo, choo, your bubble gum, Choo, choo, choo, choo, your bubble gum, Choo, choo, choo, choo, choo, your bubble gum, Choo, choo, choo, choo, your bubble gum. Listen, sis, you're having fun, Chooing on your bubble gum." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
 **Cow Cow Boogie (1943)** : Ella Fitzgerald recorded her own hit version of "Cow Cow Boogie" in 1943, backed by The Ink Spots and accompanied by pianist Bill Doggett. The song was originally written for her to sing in an Abbott and Costello film but was cut from her appearance. "Fitzgerald eventually recorded her own hit version of the song in 1943, backed by the Ink Spots, with the pianist Bill Dugget, a company in the..." ← Episode 44： ＂Train Kept A-Rollin'＂, by Johnny Burnette and the Rock 'n' Roll Trio | https://www.youtube.com/watch?v=u3zYAJ2qeR4
 
 ## curiosities
@@ -16,8 +19,6 @@
 **Reunion with Bill Doggett for Rhythmic Music** : In 1962, Ella Fitzgerald sought to return to making music with more rhythm, deviating from her recent albums of ballads, and specifically teamed up with Bill Doggett to achieve this goal. "In 1962, he teamed up again with LFHT's Gerald, who wanted to go back to making music with a bit more rhythm than her recent albums of balance." ← Episode 50： ＂Honky Tonk＂, by Bill Doggett | https://www.youtube.com/watch?v=H2rYnKmeZF0
 **Successor to Chick Webb's Band Leadership** : After Chick Webb's death in June 1939 at age 34, Ella Fitzgerald became the leader of his band, though it ultimately disbanded in the mid-1940s like many big bands. "He died aged 34 in June 1939, and Ella Fitzgerald became the leader of his band." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
 **Teenage Star with Chick Webb** : As a new teenage singer for Chick Webb's band, Ella Fitzgerald was already recognized as one of the great singers of her time. "His new teenage singer, Ella Fitzgerald, in particular, was already one of the great singers." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
-
-
 
 ## awards
 **Chevalier des Arts et des Lettres** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q13452528

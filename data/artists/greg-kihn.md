@@ -1,14 +1,10 @@
 # artist - Greg Kihn
 
 ## genres
-- Alternative (early categorization)
+- Alternative
 - New Wave
-- New Wave (early categorization)
 - Power Pop
-- Powerpop (early categorization)
-
-## albums
-**Released Albums (Quantity)** : Greg Kihn released nearly 20 albums throughout his musical career. "another powerpop guy who released almost 20 albums." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← greg-kihn
+- Powerpop
 
 ## curiosities
 **Alzheimer's Diagnosis** : Unbeknownst to the public at the time of his 2018 retirement from radio, Greg Kihn was suffering from Alzheimer's disease. "What we didn't know at the time was that he was suffering from Alzheimer's." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← greg-kihn
@@ -18,11 +14,5 @@
 **Hobby - Breeding Praying Mantises** : For leisure, Greg Kihn pursued the unusual hobby of breeding rare praying mantises. "and for fun, he bred rare praying mantises." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← greg-kihn
 **Radio DJ Career** : After his musical career, Greg Kihn transitioned into working as a radio DJ in San Jose, California, a role he held until his retirement in 2018. "Greg later transitioned into a job as a radio DJ in San Jose, California, and for fun, he bred rare praying mantises. The DJ gig lasted until 2018 when he announced his retirement." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← greg-kihn
 
-
-
 ## awards
 **Bram Stoker Award for Best First Novel (1996) — Horror Show** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q848943
-
-## charts
-**"The Breakup Song" — Billboard Year-End Hot 100** : #47, 1981. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Jeopardy" — Billboard Year-End Hot 100** : #21, 1983. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

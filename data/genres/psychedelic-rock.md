@@ -21,21 +21,20 @@
 ## artists
 - Animal Collective
 - Ariel Pink
-- Can
+- CAN
 - David Bowie
 - Grace Slick
 - Grateful Dead
 - Janis Joplin
 - Jefferson Airplane
-- King Gisart and Elisar Wysart
-- King Gizzard and the Lizard Wizard
+- King Gizzard & the Lizard Wizard
 - Love
 - Mac DeMarco
 - Marc Bolan
 - Pink Floyd
 - Swans
 - Syd Barrett
-- T-Rex
+- T. Rex
 - Tame Impala
 - Ted Nugent
 - Temples
@@ -45,5 +44,5 @@
 - The Byrds
 - The Doors
 - Unknown Mortal Orchestra
-- War on Drugs
+- The War on Drugs
 

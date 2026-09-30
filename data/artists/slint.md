@@ -1,27 +1,26 @@
 # artist - Slint
 
 ## members
-- Brian McMahan (guitar, vocals)
-- Britt Walford (drums)
-- David Pajo (guitar)
-- Ethan Buckler (bass)
-- Todd Brasher (bass)
+- Brian McMahan
+- Britt Walford
+- David Pajo
+- Ethan Buckler
+- Todd Brashear
 
 ## genres
 - Hardcore Punk
 - Math Rock
 - Post-Rock
-- Post-rock
 - Progressive Math
 
 ## labels
 - Touch and Go Records
 
 ## albums
-**Fritz (1987) - First Album** : This album was recorded in 1987 with engineer Astifal Vinny. Slint initially wrote to Touch and Go Records hoping for a release, but receiving no response, they self-released the album. The resulting sound was not entirely to the liking of bassist Ethan Buckler, who subsequently left the band. "Fritz se grabó en 1987 con Alvinie y pese a que escribieron a la Tao Chango Records, para que lanzaran el disco, no recibieron respuesta de ellos, por lo que se le autoaditaron." ← Spiderland： La Revolución del Rock Hecha por Adolescentes | https://www.youtube.com/watch?v=fLzXxQMqR78
-**Spiderland (1990) - Definitive Work** : Recorded in August 1990 over a weekend in Chicago, this album was produced by Brian Paulson, a deliberate choice to move away from the abrasive sound associated with Astifal Vinny. Paulson was known for recording bands live, achieving a sound faithful to rehearsals with minimal post-production. All the music was recorded live and was well-rehearsed, but the vocals were left for the very end of the recording process and completed in just two takes. Brian McMahan's soft vocal style is attributed to his lack of confidence as a singer, and Britt Walford wrote the lyrics. During mixing, Slint and Paulson attempted to add different effects but ultimately discarded them, resulting in a very clear and minimalist production sound. Despite the clean sound, the band later commented they were not entirely happy with the recordings, feeling they sounded more natural and less tense in their rehearsals. The album, with its suggestive and mysterious black-and-white cover, received no promotion, tours, interviews, videoclips, or photo sessions due to the band's separation almost immediately after recording, leading to very discrete sales. Over the years, its impact spread by word-of-mouth, solidifying its place as a fundamental pillar of 90s music and the main catalyst for post-rock and math rock. "Este disco, con una sugerente y misteriosa portada en blanco y negro, no tendrá ningún tipo de promoción." ← Spiderland： La Revolución del Rock Hecha por Adolescentes | https://www.youtube.com/watch?v=fLzXxQMqR78
+**Spiderland (1991)** : Recorded in August 1990 over a weekend in Chicago, this album was produced by Brian Paulson, a deliberate choice to move away from the abrasive sound associated with Astifal Vinny. Paulson was known for recording bands live, achieving a sound faithful to rehearsals with minimal post-production. All the music was recorded live and was well-rehearsed, but the vocals were left for the very end of the recording process and completed in just two takes. Brian McMahan's soft vocal style is attributed to his lack of confidence as a singer, and Britt Walford wrote the lyrics. During mixing, Slint and Paulson attempted to add different effects but ultimately discarded them, resulting in a very clear and minimalist production sound. Despite the clean sound, the band later commented they were not entirely happy with the recordings, feeling they sounded more natural and less tense in their rehearsals. The album, with its suggestive and mysterious black-and-white cover, received no promotion, tours, interviews, videoclips, or photo sessions due to the band's separation almost immediately after recording, leading to very discrete sales. Over the years, its impact spread by word-of-mouth, solidifying its place as a fundamental pillar of 90s music and the main catalyst for post-rock and math rock. "Este disco, con una sugerente y misteriosa portada en blanco y negro, no tendrá ningún tipo de promoción." ← Spiderland： La Revolución del Rock Hecha por Adolescentes | https://www.youtube.com/watch?v=fLzXxQMqR78
 **Spiderland (1991)** : This album is considered legendary among post-rock fans and laid key foundations for the post-rock approach to soundmaking, finding an audience despite the band having broken up by its release. "There were only two Slint albums, but the one that every post-rock fan talks about is Spiderland, which was released in 1991." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← slint
-**Spiderland (1991) - Overwhelming Masterpiece** : Slint separated in the same year My Bloody Valentine struggled post-"Loveless," after releasing "Spiderland." This separation was attributed to the band reaching an artistic peak so high that it became overwhelming, demonstrating the difficulty of surviving the pressure associated with creating a masterpiece. "Ese mismo año, Eslin se habían separado por el mismo motivo tras lanzar Spider-Lan." ← El disco imposible： La historia de Loveless y My Bloody Valentine | https://www.youtube.com/watch?v=q_SHNe_Ce9A
+**Spiderland (1991)** : Slint separated in the same year My Bloody Valentine struggled post-"Loveless," after releasing "Spiderland." This separation was attributed to the band reaching an artistic peak so high that it became overwhelming, demonstrating the difficulty of surviving the pressure associated with creating a masterpiece. "Ese mismo año, Eslin se habían separado por el mismo motivo tras lanzar Spider-Lan." ← El disco imposible： La historia de Loveless y My Bloody Valentine | https://www.youtube.com/watch?v=q_SHNe_Ce9A
+**Tweez (1989)** : This album was recorded in 1987 with engineer Astifal Vinny. Slint initially wrote to Touch and Go Records hoping for a release, but receiving no response, they self-released the album. The resulting sound was not entirely to the liking of bassist Ethan Buckler, who subsequently left the band. "Fritz se grabó en 1987 con Alvinie y pese a que escribieron a la Tao Chango Records, para que lanzaran el disco, no recibieron respuesta de ellos, por lo que se le autoaditaron." ← Spiderland： La Revolución del Rock Hecha por Adolescentes | https://www.youtube.com/watch?v=fLzXxQMqR78
 
 ## songs
 **Good Morning Captain (1991)** : This track is from their legendary *Spiderland* album, which is a foundational work in post-rock. "From that album, this is Slint, and a track called Good Morning Captain." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← slint
@@ -39,8 +38,6 @@
 **Post-Spiderland Breakup** : Slint separated almost immediately after the recording of *Spiderland*. The morning after completing the recording, Brian McMahan was admitted to a hospital where he was diagnosed with depression. He subsequently left the band, a life-changing decision he attributed to the disorientation of a mind overwhelmed by anxiety. "Sin embargo, prácticamente el día después de la grabación, la banda se separará." ← Spiderland： La Revolución del Rock Hecha por Adolescentes | https://www.youtube.com/watch?v=fLzXxQMqR78
 **Recommended Post-Rock Band** : The band is explicitly listed as a recommendation for those wanting to explore post-rock further. "If you want to go deeper, look into bands like Talk Talk, Slint, Barxide Coses, Tortoise, Magwai, Stereolab, Godspeed you, Black Amper, we always keep coming back to them." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← slint
 **Rigorous Rehearsal Practices** : After the release of their first album and with band members attending university, they would periodically return to Louisville to practice and write new material. During these sessions, held in the Walford family basement, they could spend up to nine hours rehearsing a single riff. Over three years, they meticulously polished their sound, incorporating complex time signature changes and dark textures, progressively distancing themselves from hardcore. "En esas sesiones, se podrían pasar nueve horas ensayando al mismo riff, ensayaban en el sótano de los Walford." ← Spiderland： La Revolución del Rock Hecha por Adolescentes | https://www.youtube.com/watch?v=fLzXxQMqR78
-
-
 
 ## lists
 **"Spiderland" (1991) — 1001 Albums You Must Hear Before You Die** : #700, 9.0/10 Scaruffi.

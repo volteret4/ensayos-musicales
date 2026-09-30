@@ -1,19 +1,16 @@
 # artist - Mayhem
 
 ## members
-- Conrad Schnitzler
 - Dead
 - Euronymous
 - Varg Vikernes
-- Øystein Aarseth (Euronymous)
 
 ## genres
 - Black Metal
-- Black metal
 - Norwegian Death Metal
 
 ## albums
-**Deathcrush (1987) - Debut EP** : This debut release includes an instrumental piece titled "Silvester Anfang," which featured a collaboration with Conrad Schnitzler, a founding member of Tangerine Dream and Kluster. "Deathcrush, comienza a consilver este rankfunk, una pieza instrumental que con Rates Knitler, miembro fundador de Tangier Indry y Mikluster, se dio a Aurón y muestra son encuentro que tuvieron." ← Dungeon Synth： El género más misterioso de internet | https://www.youtube.com/watch?v=CBIHO0ihIxQ
+**Deathcrush (1987)** : This debut release includes an instrumental piece titled "Silvester Anfang," which featured a collaboration with Conrad Schnitzler, a founding member of Tangerine Dream and Kluster. "Deathcrush, comienza a consilver este rankfunk, una pieza instrumental que con Rates Knitler, miembro fundador de Tangier Indry y Mikluster, se dio a Aurón y muestra son encuentro que tuvieron." ← Dungeon Synth： El género más misterioso de internet | https://www.youtube.com/watch?v=CBIHO0ihIxQ
 
 ## curiosities
 **Band Member Murdering Another** : Mayhem is cited as the only known instance where one band member murdered another. This occurred when Varg Vikernes killed his bandmate Øystein Aarseth (Euronymous) on August 10, 1993, following disputes over the band's direction and philosophical points concerning the Norwegian black metal scene. "Marways Mayhem, the only time I know of, where one band member murdered another." ← https://www.youtube.com/watch?v=Q6dAX6HCjgw ← mayhem
@@ -23,8 +20,6 @@
 **Member's Murder by Rival Band Member** : A member of the band Mayhem was murdered by Vargh Vikernes of Burzum, who stabbed the victim 23 times. "Vargh Vicarans of the band Burzum stabbed a guy in a rival band called Mayhem 23 times. And yes, he died." ← https://www.youtube.com/watch?v=6xygY-npCr4 ← mayhem ← mayhem
 **Murder and Cannibalism** : Euronymous, the lead singer of the black metal band Mayhem, committed a horrific act by murdering a bandmate and subsequently consuming a portion of his brain. "Uranamis, the lead singer of the black metal band Mayhem, who murdered a bandmate and then ate part of his brain." ← https://www.youtube.com/watch?v=lzwQggT0qR0 ← mayhem ← mayhem
 **Subject of "Uncharted" Podcast** : Their history is covered in detail in a separate podcast called "Uncharted, Crime and Mayhem in the Music Industry," specifically in the episode titled "Black Metal, Death Metal, Death." "The reason is that their story is so insane that they need their own podcast." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← mayhem
-
-
 
 ## awards
 **Spellemannprisen for metal (2007) — Ordo Ad Chao** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q18880455

@@ -1,9 +1,12 @@
 # artist - Bill Doggett
 
+## member of
+- Lucky Millinder
+- The Ink Spots
+
 ## members
-- Bill Doggett (piano, Hammond organ)
-- Billy Butler (guitar)
-- Clifford Scott (saxophone)
+- Billy Butler
+- Clifford Scott
 
 ## genres
 - Blues
@@ -25,7 +28,7 @@
 - Guitar
 - Hammond organ
 - Piano
-- Saxophone (Honking Tenor Saxophone)
+- Saxophone
 
 ## albums
 **Rhythm Is My Business (1962)** : An album by Ella Fitzgerald that featured Bill Doggett's arrangements and prominently highlighted his Hammond organ playing. Fitzgerald sought Doggett out to create music with more rhythm than her recent ballad albums. "rhythm is my business, featured Doggett's arrangements and Hammondog and very prominently." ← Episode 50： ＂Honky Tonk＂, by Bill Doggett | https://www.youtube.com/watch?v=H2rYnKmeZF0
@@ -63,3 +66,5 @@
 **Reputation Untarnished After Millinder Departure** : The reasons for Bill Doggett's departure from Lucky Millinder's band are unknown, but it didn't negatively impact his career. He remained managed by Mo Gale, who then placed him with The Ink Spots. "it can't have been anything that put a stain on his reputation, because Doggert remained with Melinda's manager, Mo Gillespie." ← Episode 50： ＂Honky Tonk＂, by Bill Doggett | https://www.youtube.com/watch?v=H2rYnKmeZF0
 **Shift from Piano to Hammond Organ Trio** : Inspired by Wild Bill Davis's pioneering work, Bill Doggett left Louis Jordan's band to form his own organ trio, adopting the Hammond organ as his primary instrument and recording blues tracks in a similar style to Davis. "When Dogget left Jordan's band, he decided to form an organ trio, just like Davis's." ← Episode 50： ＂Honky Tonk＂, by Bill Doggett | https://www.youtube.com/watch?v=H2rYnKmeZF0
 
+## charts
+**"Honky Tonk" — Billboard Year-End Hot 100** : #21, 1956. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

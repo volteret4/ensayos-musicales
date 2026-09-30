@@ -16,7 +16,7 @@
 - R&B
 
 ## albums
-**In The City (1977) – Debut Record** : This was the band's debut record, released on May 20, 1977. "The debut record was called In The City that came out May 20, 1977." ← https://www.youtube.com/watch?v=gKrAXMG8sTc ← the-jam
+**In The City (1977)** : This was the band's debut record, released on May 20, 1977. "The debut record was called In The City that came out May 20, 1977." ← https://www.youtube.com/watch?v=gKrAXMG8sTc ← the-jam
 
 ## songs
 **Art School (1977)** : This song is the first track on side one of their 1977 debut album, "In The City." "The jam and art school, side one, track one from their 1977 album In The City." ← https://www.youtube.com/watch?v=gKrAXMG8sTc ← the-jam
@@ -44,8 +44,6 @@
 **Paul Weller's Influence** : Initially an R&B band, The Jam shifted direction after singer Paul Weller witnessed a Sex Pistols show. While embracing punk's energy, they distinguished themselves by also showing respect for British mod culture of the 1960s, rather than adhering to a pure "destroy everything" punk ethos. "After singer Paul Weller saw a Sex Pistols show, he steered things in a slightly different direction." ← https://www.youtube.com/watch?v=gKrAXMG8sTc ← the-jam
 **Punk Attitude, Pop Sound** : The Jam's overall attitude was definitively influenced by the punk scene, yet their sound was distinctly pop-oriented. They covered a wide array of material, from old Stax and Motown records to The Kinks and even the original Batman theme, successfully achieving their own significant hits on the pop charts. "Their attitude was definitely influenced by the punk scene but their sound was very pop." ← https://www.youtube.com/watch?v=tZV1lz-obQE ← the-jam
 **Radio Airplay in Brandon, Manitoba** : The Jam was among the eclectic mix of music played by KX96, a radio station in Brandon, Manitoba, where the speaker worked in 1983. This station exposed him to a broader range of artists beyond standard rock. "but there'd be Aztec camera. There would be the jam. There would be the clash." ← https://www.youtube.com/watch?v=4xxgPX-aR90 ← the-jam
-
-
 
 ## charts
 **"494" — NME Chart** : 29 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

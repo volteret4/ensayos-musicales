@@ -19,7 +19,7 @@
 
 ## artists
 - Brian Wilson
-- Can
+- CAN
 - Led Zeppelin
 - MGMT
 - Pink Floyd
@@ -29,4 +29,5 @@
 - The Dukes of Stratosphear
 - The Rolling Stones
 - Zola Jesus
-
+- Elvis Costello
+- OutKast

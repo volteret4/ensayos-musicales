@@ -5,5 +5,4 @@
 
 ## artists
 - INXS
-- InXS
 

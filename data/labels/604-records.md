@@ -6,6 +6,6 @@
 
 ## artists
 - Chad Kroeger
-- Ian Thorneley
-- Thorneley
+- Ian Thornley
+- Thornley
 

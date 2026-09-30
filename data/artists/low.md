@@ -3,8 +3,6 @@
 ## members
 - Mimi Parker
 
-
-
 ## awards
 **Libera Award for Best Live Act** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q96387385
 

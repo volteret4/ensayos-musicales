@@ -35,7 +35,6 @@
 - Kraftwerk
 - Ministry
 - Nine Inch Nails
-- Rage Against The Machine
 - Rage Against the Machine
 - Skinny Puppy
 - The Prodigy

@@ -4,31 +4,35 @@
 - Chris Steele
 - Dallas Green
 - George Pettit
+- Jesse Ingelevics
 - Jordan Hastings
-- Wade McNeil
+- Wade MacNeil
 
 ## genres
+- Alternative
 - Emo
 - Hardcore
+- Indy
 - Metalcore
+- New Rock
 - Post-Hardcore
-- Post-hardcore
 - Screamo
+
+## labels
+- Distort
+- Universal
 
 ## albums
 **Crisis (2006)** : This 2006 album featured the song "Boiled Frogs" and is presented as an example of the Emo offshoot known as Screamo. The band's strong fanbase in multiple countries was noted by this period. "Alexisonfire from their 2006 album Crisis, with boiled frogs." ← https://www.youtube.com/watch?v=_yslM5oanRo ← alexisonfire
-**Crisis (2006) – Debuted #1 in Canada, 20,000 Copies in One Week** : Alexisonfire's third album debuted at number one on the Canadian charts, selling more than 20,000 copies in its first week — a result that surprised the music industry. The album's release coincided with the decline of 1990s pop and a new generation's desire for music expressing anger and frustration. "Debuted at number one on the Canadian charts, selling more than 20,000 copies in one week, surprising the industry." ← https://www.youtube.com/watch?v=FvtBph3rNF8 ← alexisonfire
-**First Album (Undated)** : The band's debut album achieved Gold certification in Canada, marking an early success in their career. "Their first album went gold in Canada." ← https://www.youtube.com/watch?v=_yslM5oanRo ← alexisonfire
-**Fourth Album (Undated)** : The band's fourth album continued their domestic success by also reaching number one on the charts, solidifying their position in Canada. "and their fourth also hit number one." ← https://www.youtube.com/watch?v=_yslM5oanRo ← alexisonfire
+**Crisis (2006)** : Alexisonfire's third album debuted at number one on the Canadian charts, selling more than 20,000 copies in its first week — a result that surprised the music industry. The album's release coincided with the decline of 1990s pop and a new generation's desire for music expressing anger and frustration. "Debuted at number one on the Canadian charts, selling more than 20,000 copies in one week, surprising the industry." ← https://www.youtube.com/watch?v=FvtBph3rNF8 ← alexisonfire
 **Old Crows / Young Cardinals – Perceived as a Step Backward from Crisis** : Although commercially successful, this fourth album was perceived internally and externally as a "step backward" relative to *Crisis*, marking a break in the band's consistent upward trajectory and generating internal doubts about their creative direction. "Perceived as a 'step back' relative to 'Crisis,' marking a decline in the constant progress they had become accustomed to." ← https://www.youtube.com/watch?v=FvtBph3rNF8 ← alexisonfire
-**Second Album (Undated)** : Following their debut, the band's second album went Platinum in Canada, demonstrating growing popularity. "their second went platinum." ← https://www.youtube.com/watch?v=_yslM5oanRo ← alexisonfire
-**Third Album (Undated)** : This album not only achieved Platinum status in Canada but also debuted at number one on the National Album charts, signifying a peak in their commercial success domestically. "their third debut at number one on the National Album charts and also went platinum." ← https://www.youtube.com/watch?v=_yslM5oanRo ← alexisonfire
 
 ## songs
 **Boiled Frogs (2006)** : Featured on their 2006 album "Crisis," this song is cited as a prime example of Screamo, an Emo offshoot. Alexisonfire was noted for its strong international fanbase by this time. "Alexisonfire from their 2006 album Crisis, with boiled frogs, one example of the Emo offshoot called Screamo." ← https://www.youtube.com/watch?v=_yslM5oanRo ← alexisonfire
 **Pulmonary Archery – Reached #1 on Fan-Voted MuchMusic Program** : The video for this song reached number one on a fan-voted MuchMusic program, demonstrating the band's genuine audience connection and forcing the music industry to pay attention to them despite their lack of mainstream radio ambitions. "Reached number one on a fan-voted MuchMusic program, demonstrating the connection with the audience and forcing the industry to pay attention." ← https://www.youtube.com/watch?v=FvtBph3rNF8 ← alexisonfire
 
 ## curiosities
+**Successful Canadian Indy Band** : Alexis On Fire is recognized as one of the best-selling Canadian Indy bands in recent years. They record for the Indy label Distort, which, due to lacking its own comprehensive distribution capabilities, subcontracts all its distribution needs to the major label Universal. This partnership allows them to maintain their independent status while benefiting from broader market reach. "This is how Alexis On Fire managed to become one of the best selling Canadian Indy bands the last few years." ← Ongoing History of New Music > Etymology： Part 1 | https://www.youtube.com/watch?v=Z8BTWo66SDI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **2015 Reunion and Arena Success** : Alexisonfire reunited in 2015 and has since experienced massive success, touring and performing for huge crowds in arenas. "Alexis on fire, for example, got back together in 2015 and are again enjoying massive success, touring arenas full of people." ← https://www.youtube.com/watch?v=v_am7ifh7Pk ← alexisonfire
 **Amicable Breakup and Solo Growth – "The Best Thing That Could Have Happened to All of Us"** : Dallas Green left the band to focus on City and Colour due to creative differences. The remaining members attempted to continue without him before acknowledging that the band without Green would not be Alexisonfire, leading to an amicable split. The separation allowed each member to grow independently; when they reunited, they did so on their own terms, prioritizing enjoyment and work-life balance over the demands of constant touring. "The separation allowed all the members to grow individually, and when they reunited, they did so on their own terms." ← https://www.youtube.com/watch?v=FvtBph3rNF8 ← alexisonfire
 **Beneficiary of Radio Star Maker** : Alexisonfire's career was furthered by the funding available from the new Radio Star Maker program, introduced in 2000. This program, along with Factor, was instrumental in supporting emerging and established Canadian talent. "Soon this cash was instrumental in helping further the careers of metric, broken social scene, Alexis on fire, city and color, and many more." ← https://www.youtube.com/watch?v=6PGgNCaW4xo ← alexisonfire
@@ -39,13 +43,10 @@
 **Formation in the Niagara Region – DIY Scene with Shows in Masonic Halls and Chinese Restaurants** : Members of Alexisonfire came from different local bands in the Niagara region of Southern Ontario in the early 2000s. The local scene was vibrant and DIY, with shows promoted by young people in unusual venues including Masonic halls and Chinese restaurants. Wade McNeil was instrumental in early band organization and internet-based touring. "The local scene was vibrant and DIY, with concerts in places like Masonic halls or Chinese restaurants." ← https://www.youtube.com/watch?v=FvtBph3rNF8 ← alexisonfire
 **Influences: Screamo, Melodic Hardcore, and Converge** : At the time of the band's formation (2000–2001), emo was not a mainstream genre. Their influences included melodic hardcore, early screamo (bands such as Sasha and Page 99), hardcore, and post-hardcore. Converge was a shared influence among members. "At their formation, 'emo' was not a mainstream genre; their influences included melodic hardcore, early screamo, and Converge." ← https://www.youtube.com/watch?v=FvtBph3rNF8 ← alexisonfire
 **Members' Activities During Hiatus** : During the band's break, Dallas Green focused on City and Colour; George Pettit became a firefighter; Wade McNeil worked as a radio DJ and in other bands; Jordan Hastings played with Billy Talent; and Chris Steele undertook an expedition to the Himalayas. "Dallas Green focused on City and Colour; George Pettit became a firefighter; Wade McNeil worked as a radio DJ." ← https://www.youtube.com/watch?v=FvtBph3rNF8 ← alexisonfire
-**Origin and Success** : Alexisonfire originated in St. Catharines, Canada, and became one of the most significant bands in the Screamo genre, achieving multiple Gold and Platinum albums in Canada and reaching number one on the National Album charts multiple times. Their international fanbase grew to include the US, Australia, and the UK. "the other was Alexis On Fire, which was born down the highway in St. Catharines." ← https://www.youtube.com/watch?v=_yslM5oanRo ← alexisonfire
 **Origin of the Name "AlexisOnFire" – From a Discovery Channel Contortionist** : The band's name originated from a Discovery Channel segment about a contortionist stripper named Alexis Fire. The band later regretted writing it as a single compound word ("AlexisOnFire") due to recurring mispronunciation by listeners. "The name came from a Discovery Channel segment about a contortionist stripper named Alexis Fire." ← https://www.youtube.com/watch?v=FvtBph3rNF8 ← alexisonfire
 **Pre-Streaming Fan Culture – Active Seeking vs. Passive Consumption** : Before streaming, fans had to actively seek out music through concerts and record stores, which fostered deeper investment and a sense of specialized "knowledge" rather than passive consumption. The band benefited from this era of engaged fandom. "Before streaming, fans had to actively seek music, fostering deeper investment and a sense of 'knowledge' rather than 'consumption.'" ← https://www.youtube.com/watch?v=FvtBph3rNF8 ← alexisonfire
 **Third Wave Emo Chart Success** : Alexisonfire was among the bands whose emo records achieved mainstream success during the third wave of emo (early 2000s), with their albums reaching the top 10 on charts. "Emo records from bands like...Alexis on Fire... all rocketed into the top 10 on the album charts." ← https://www.youtube.com/watch?v=v_am7ifh7Pk ← alexisonfire
 **United States Touring – Humbling Contrast to Canadian Success** : Despite major success in Canada, Alexisonfire found US tours consistently ungratifying and difficult, often playing for venue staff after headlining shows for thousands in Canada. This contrast kept the band's egos in check. "In the United States the tours were often 'unrewarding' and difficult, which helped keep any egos in check." ← https://www.youtube.com/watch?v=FvtBph3rNF8 ← alexisonfire
-
-
 
 ## awards
 **CASBY Award** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q5008850

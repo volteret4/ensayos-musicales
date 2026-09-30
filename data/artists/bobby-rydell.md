@@ -1,12 +1,12 @@
 # artist - Bobby Rydell
 
 ## concerts
+- Madison Square Garden (1971)
 - Madison Square Garden Rock and Roll Spectacular (1971)
 
 ## curiosities
 **Christmas Card Duet** : Bobby Rydell performed a re-recording of Dick Clark's audio Christmas card song as a duet with Ernest Evans (Chubby Checker). This public recording featured Evans' impressions of Fats Domino, Elvis Presley, and The Chipmunks. "Evan's later did a re-recording of the song as a duet with Bobby Ridelle, including the same impressions of Fat Stomano, Elvis Presley and the Chipmunks that he'd done on Clark's private copy." ← Episode 91： ＂The Twist＂ by Chubby Checker | https://www.youtube.com/watch?v=LzsS8EXdsm8
-
-
+**Performer at Madison Square Garden (1971)** : Bobby Rydell was among the "classic rock and rollers" on the bill at the nostalgic multi-act concert at New York's Madison Square Garden in the fall of 1971, where Rick Nelson experienced a poor audience reception. "Among the classic rock and rollers on the bill were Chuck Berry, Bo Didley and Bobby Ridell." ← Hit Parade Music History and Music Trivia > Here’s the Beef Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef3154465cd600c4ef5
 
 ## charts
 **"Kissin' Time" — Billboard Year-End Hot 100** : #92, 1959. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

@@ -12,9 +12,8 @@
 
 ## artists
 - Black Flag
-- Husker Dew
 - Hüsker Dü
 - Sonic Youth
-- The Meat Puppets
+- Meat Puppets
 - The Minutemen
 

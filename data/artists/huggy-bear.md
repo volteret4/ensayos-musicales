@@ -16,9 +16,3 @@
 **Early Breakup** : By 1994, Huggy Bear had broken up, mirroring the fate of other original Riot Grrrl bands like Bratmobile and Heavens to Betsy. This breakup was attributed to the intense, political, and emotional nature of the scene, which could not be sustained long-term. "By 1994, Brad Mabel, Evans De Betsy and Huggy Bear had all broken up." ← https://www.youtube.com/watch?v=Qss5kC2FUx0 ← huggy-bear
 **London-based Riot Grrrl with Male Members** : Huggy Bear was a Riot Grrrl band from London that uniquely included a couple of guys in the band, with one of the male members occasionally singing lead. This differentiated them from the predominantly all-female Riot Grrrl groups in the American Pacific Northwest. "Huggy Bear was from London and differentiated itself by having a couple of guys in the band." ← https://www.youtube.com/watch?v=Qss5kC2FUx0 ← huggy-bear
 **Riot Grrrl Band** : Huggy Bear is mentioned as one of the bands within the Riot Grrrl movement. "And then there were bands like Sugar Baby Doll and the Pagan Babies and Brat Mobio and Heaven's De Betsy and Huggy Bear." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← huggy-bear ← huggy-bear
-
-
-
-## lists
-**"Ea Taesse" (2006) — Sputnikmusic Best Albums 2006** : #116, 4.04 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/
-**"Ea II" (2009) — Sputnikmusic Best Albums 2009** : #12, 4.23 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2009/

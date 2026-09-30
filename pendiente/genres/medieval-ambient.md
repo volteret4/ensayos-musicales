@@ -7,5 +7,4 @@
 - Dim
 - Fief
 - Murgrind
-- Sûredian Miz
 

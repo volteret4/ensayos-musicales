@@ -21,10 +21,7 @@
 - Elvis Costello & The Attractions
 - Phoebe Bridgers
 - Radiohead
-- Rage Against The Machine
 - Rage Against the Machine
 - Sex Pistols
-- The B-52's
 - The B-52s
-- The Sex Pistols
 

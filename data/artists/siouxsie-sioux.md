@@ -1,7 +1,9 @@
 # artist - Siouxsie Sioux
 
 ## member of
+- Flowers of Romance
 - Siouxsie and the Banshees
+- The Creatures
 
 ## genres
 - Punk Rock
@@ -14,10 +16,5 @@
 **Queen of Goth** : Siouxsie Sioux is widely regarded as the "Queen of Goth," an acknowledgment of her influential role and iconic status within the Gothic rock movement that started in the late 1970s and early 1980s. "And for many, the Queen of Goth remains Susie Sue of Susie in the Banshees." ← https://www.youtube.com/watch?v=mAlc-N2wn5s ← siouxsie-sioux ← siouxsie-sioux
 **Sex Pistols Connection** : Siouxsie Sioux was recognized as one of the Sex Pistols' earliest fans. She was visibly present in the audience during their notorious television appearance where they controversially swore at the host. "Susie Su is another person with connections to the sex pistols. She was one of their first fans." ← https://www.youtube.com/watch?v=oPgeSCy93bo ← siouxsie-sioux
 
-
-
 ## awards
 **MOJO Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3319330
-
-## lists
-**"Reverse Earth" (2025) — Bandcamp: The Best Albums of 2025** : #19. ← musicbrainz | https://beta.musicbrainz.org/series/e71890ee-e707-4eae-af8f-b60074d08730

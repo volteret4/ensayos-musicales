@@ -5,6 +5,5 @@
 
 ## artists
 - Beastie Boys
-- Rage Against The Machine
 - Rage Against the Machine
 

@@ -4,12 +4,10 @@
 - Lollapalooza 1991
 
 ## albums
-**Various Albums - Great Contribution** : A Tribe Called Quest is mentioned for its "great albums" (grandísimos discos), representing non-gangster rap content within the 1990s hip hop landscape. "Esos grandísimos discos de A Tribe Called Quest." ← Music Radar Clan > Poniendo a Kanye West en su lugar | https://www.youtube.com/watch?v=ih5F70jcm6M&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Various Albums** : A Tribe Called Quest is mentioned for its "great albums" (grandísimos discos), representing non-gangster rap content within the 1990s hip hop landscape. "Esos grandísimos discos de A Tribe Called Quest." ← Music Radar Clan > Poniendo a Kanye West en su lugar | https://www.youtube.com/watch?v=ih5F70jcm6M&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## curiosities
 **Lollapalooza 1991 Performer** : A Tribe Called Quest was among the "rap stars" featured on the 1991 Lollapalooza tour, contributing to the festival's diverse lineup that deliberately mixed alternative rock with hardcore rap and hip hop to bridge cultural divides. "When presented with rap stars like Ice Tea and Ice Cube at a tribe called Quest in George Clinton and Cypress Hill." ← Ongoing History of New Music > The 90s Part 5a： Hip-Hop's Effects Part 1 | https://www.youtube.com/watch?v=PqOJ3YiFgYE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-
-
 
 ## awards
 **The Source (1994)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q2140254

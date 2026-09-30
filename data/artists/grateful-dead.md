@@ -3,14 +3,20 @@
 ## members
 - Bob Weir
 - Jerry Garcia
-- John Dawson
 - Mickey Hart
-- Robert Hunter (songwriter, inducted with the band into the Rock and Roll Hall of Fame)
+- Robert Hunter
 
 ## genres
 - Americana
 - Folk Rock
+- Jam Band
 - Psychedelic Rock
+
+## instruments
+- Alltec cabinets
+- Macintosh tube amps
+- Radial horns
+- Ring tweeters
 
 ## albums
 **American Beauty (1970)** : Released about four months after the Festival Express, this album further solidified the Grateful Dead's transition to a folk rock sound, leaning into Americana traditions and producing radio hits like "Uncle John's Band" and "Sugar Magnolia." Richard Williams of Melodymaker described the band's sound as "disarming" and "beautiful," praising their ability to "steal your head through a combination of musicality and sheer enjoyment." "They released Working Men's Dead about two weeks before the train left the depot and then American Beauty about four months after that." ← For the Record - The 70s > Ep. 59 - Bands and Booze on the Festival Express of 1970 | https://www.ftr70.com/ ← grateful-dead
@@ -33,8 +39,13 @@
 **Robert Hunter's Songwriting Recognition (1994)** : Robert Hunter, who wrote almost all a significant portion of the Grateful Dead's songs but never played an instrument for them, was inducted into the Rock and Roll Hall of Fame alongside the band in 1994, acknowledging his crucial role. "Robert Hunter wrote almost all a significant portion of the Grateful Dead songs. He did not play a note for the band, but his role as songwriter is so important that when the dead were inducted into the rock and roll hall of fame in 1994, he was inducted along with them." ← For the Record - The 70s > Ep. 59 - Bands and Booze on the Festival Express of 1970 | https://www.ftr70.com/ ← grateful-dead
 **Shift to Folk Rock in the 1970s** : As the 1970s approached, the Grateful Dead shifted from sprawling studio experiments and psychedelic rock to a folk rock approach, characterized by concise songwriting, storytelling, stripped-down arrangements, and a focus on Americana traditions like Appalachian, Bakersfield Country Sound, and Front Porch Folk storytelling. "But as the 70s approached, they were taking more of a folk rock approach. We don't have any more of these sprawling studio experiments. Instead we have very concise songwriting, we have storytelling, we have stripped down arrangements." ← For the Record - The 70s > Ep. 59 - Bands and Booze on the Festival Express of 1970 | https://www.ftr70.com/ ← grateful-dead
 **Wall of Sound (1972)** : The Grateful Dead pioneered concert amplification with their "Wall of Sound" setup in 1972, which represented a significant breakthrough in modern concert sound. This system generated at least 26,000 watts, and possibly up to 30,000 watts, marking a massive leap in power and clarity for live music and establishing new standards for large-scale concert sound. "when it comes to modern day concert amplification, it was the grateful dead who really broke through with their wall of sound setup in 1972." ← https://www.youtube.com/watch?v=NAroxFbYkRw ← grateful-dead
-
-
+**Clash and Accommodation with Ticketmaster** : The Grateful Dead engaged in a confrontation with Ticketmaster over the issue of service fees, similar to battles faced by other bands. Despite the challenges, they successfully held their ground and eventually negotiated an equitable agreement with Ticketmaster, maintaining control over their unique ticketing system. "They held their ground and eventually reached an equitable deal with ticket master." ← https://www.youtube.com/watch?v=8q2bRZyHnHE ← the-grateful-dead
+**Early Direct-to-Fan Ticketing (1970s)** : The Grateful Dead developed and maintained a highly efficient direct-to-fan mail order ticketing platform called Grateful Dead Ticket Service during the 1970s. This system allowed them to sell thousands of tickets directly to their dedicated fanbase, known as "deadheads," and gave them significant control over ticket distribution, which they were unwilling to relinquish. "Over years and years, the dead built up their own mail order ticketing platform called Grateful Dead Ticket Service." ← https://www.youtube.com/watch?v=8q2bRZyHnHE ← the-grateful-dead
+**Early Sound System Inadequacy (1972)** : In 1972, The Grateful Dead held a meeting in their Novato, California, warehouse practice space to discuss the inadequacy of their concert sound. Their system, designed by Bob Hyal in 1968, utilized Alltec's "Voice of the Theater" series cabinets, radial horns (a novel inclusion at the time), ring tweeters, and a custom crossover, and while "better than most," it was deemed "lacking by 1972" for the band's needs. ← https://www.youtube.com/watch?v=qrrwqdpCjpQ ← the-grateful-dead
+**Influence on Other Bands** : The Grateful Dead's innovative approach to ticketing and their successful negotiation with Ticketmaster served as a model and source of advice for other prominent bands, including U2 and Pearl Jam, who later sought to challenge the established ticketing system. "Several bands took notice of what the dead did and asked them for advice." ← https://www.youtube.com/watch?v=8q2bRZyHnHE ← the-grateful-dead
+**Rarely Made Music Videos** : The Grateful Dead rarely embraced the idea of making music videos, in contrast to the industry's push for them. Their reluctance highlighted the resistance from some artists against the burgeoning music video industry and its financial demands. "The grateful dead rarely touched the idea." ← https://www.youtube.com/watch?v=7IDbqdIw3WU ← the-grateful-dead
+**Wall of Sound Debut and Dismantling (1974)** : The Grateful Dead's "Wall of Sound" made its debut at the Cow Palace in San Francisco on March 23, 1974. Despite its impressive scale and sound quality—described as "so loud and so clear that it sounded great at a quarter of a mile"—it proved to be too expensive to operate and maintain. Consequently, the band had the system dismantled within a year of its introduction. "Within a year, though, it proved to be too expensive, and the band headed dismantled." ← https://www.youtube.com/watch?v=qrrwqdpCjpQ ← the-grateful-dead
+**Wall of Sound Feedback** : The Grateful Dead were known for their live performances, where "Deadheads" (fans) would experience extended periods of guitar screeches and feedback. These were amplified through the band's custom-designed "Wall of Sound" PA system, creating an immersive and powerful auditory experience. "Deadheads were often treated to long whales of guitar screeches, played through the band's custom wall of sound PA system." ← https://www.youtube.com/watch?v=iGav9uJwA_w ← the-grateful-dead
 
 ## awards
 **Rock and Roll Hall of Fame (1994)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191

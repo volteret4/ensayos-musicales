@@ -5,7 +5,7 @@
 - Durwood Brown
 - Herman Arnspiger
 - John Dunham
-- Leon Huff
+- Leon Huff (western swing)
 - Milton Brown
 - Smokey Montgomery
 
@@ -44,4 +44,3 @@
 **Low Pay and Day Jobs** : Despite the band's immense success, O'Daniel paid them poorly, only $15 a week, and insisted that all members also work day jobs at the mill. For example, Bob Wills worked as a truck driver. This low pay eventually led to members, like Milton Brown, leaving for more lucrative opportunities. "O'Daniel insisted that everyone in the band would have to actually work a day job at the mill as well." ← Episode 3： ＂Ida Red＂ by Bob Wills and the Texas Playboys | https://www.youtube.com/watch?v=zu4E9Y1oJA0
 **O'Daniel's Restrictive Policies** : W. Lee "Pappy" O'Daniel placed severe restrictions on the band, including forbidding them from playing venues where alcohol was served or performing at dances. These policies, coupled with the low pay (band members could earn $40 a night from gigs compared to $15 a week from O'Daniel), caused key members like Milton Brown and Bob Wills to eventually leave. "In particular, O'Daniel wouldn't let the doboys play any venues where alcohol was served, or played dances generally." ← Episode 3： ＂Ida Red＂ by Bob Wills and the Texas Playboys | https://www.youtube.com/watch?v=zu4E9Y1oJA0
 **W. Lee "Pappy" O'Daniel Sponsorship** : In the late 1920s and early 1930s, W. Lee "Pappy" O'Daniel, then head of advertising for Burrus Mill and Elevator Company (makers of Light Crust Flour), became the band's sponsor. Initially, O'Daniel disliked their "hill-billy music" and intended to cancel their radio show after two weeks. However, Wills invited him to participate, leading O'Daniel to become the show's MC, the band's manager, and even the writer of their original material. "Papio Daniel at first didn't like this hill-billy music being played on the radio show he was paying for." ← Episode 3： ＂Ida Red＂ by Bob Wills and the Texas Playboys | https://www.youtube.com/watch?v=zu4E9Y1oJA0
-

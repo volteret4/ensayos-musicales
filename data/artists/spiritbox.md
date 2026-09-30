@@ -10,7 +10,5 @@
 ## curiosities
 **Canadian Djent Band** : Spiritbox is identified as a Canadian band that exemplifies the Djent genre, a new style of progressive metal distinguished by a specific guitar technique. "This is a Canadian Digent band called Spirit Box." ← https://www.youtube.com/watch?v=tdTs-4Irv8c ← spiritbox
 
-
-
 ## lists
 **"Spiritbox" (2017) — Sputnikmusic Best Albums 2017** : #69, 3.92 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2017/

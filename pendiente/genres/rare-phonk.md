@@ -6,5 +6,4 @@
 ## artists
 - DJ Jung Bump
 - DJ Smokey
-- Jolimopo por Pell Pose
 

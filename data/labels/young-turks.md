@@ -6,5 +6,5 @@
 **Small and Successful Label** : Young Turks is characterized as a very small record label that historically generates little revenue. However, they made an enormous discovery with DXX, which has become a significant asset for them. "es la discográfica que está detrás de DXX es una escográfica muy pequeña que hace muy poco dinero y que ha sido un descubriiente enorme para ellos." ← Music Radar Clan > I see you - The XX. ¿Un buen disco o un mal disco？ | https://www.youtube.com/watch?v=pO7VZUvkCqs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← young-turks ← young-turks
 
 ## artists
-- DXX
+- The xx
 

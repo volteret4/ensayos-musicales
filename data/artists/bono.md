@@ -1,9 +1,8 @@
 # artist - Bono
 
 ## member of
-- Band-Aid
+- Band Aid
 - U2
-- YouTube (U2)
 
 ## labels
 - Island Records
@@ -45,8 +44,7 @@
 **Time Change Disorientation in Auckland** : Upon arriving in Auckland in 1984 for U2's "Unforgettable Fire" tour, Bono was "completely out of sorts" due to the time changes. During this period, he took a tour of the city with local roadie Greg Carroll, an experience that later deeply inspired his songwriting. "When they arrived, Bono, completely out of sorts because of the time changes, went for a tour of Auckland. And with him was a guy named Greg Carroll." ← https://www.youtube.com/watch?v=ZVGnSVfed9s ← bono ← bono
 **Unique Award Nominations Achievement** : Bono holds the distinction of being the only individual to have been nominated for a Grammy, a Golden Globe, an Oscar, and a Nobel Peace Prize, recognizing his wide-ranging achievements in music, film, and humanitarian efforts. "Can you name the only person to be nominated for a Grammy, a Golden Globe, an Oscar and Nobel Peace Prize? Bono." ← https://www.youtube.com/watch?v=GO0K_N7Ys7I ← bono
 **Vocal Preservation** : Bono is noted for doing an excellent job maintaining his voice in shape and being very careful with his instrument. Despite this, he has adapted his live performances of U2 songs in recent years, often lowering the key of songs like "Beautiful Day" to accommodate vocal changes. "Bono has done an excellent job in keeping his voice in shape. He's very careful with his instrument." ← https://www.youtube.com/watch?v=_YjwRApoJhA ← bono
-
-
+**Musical Parent** : Paul Husson, known as Bono, is the father of Eli Husson, who fronted the band Inhaler. "Paul Husson, better known as Bono." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← paul-husson-bono
 
 ## awards
 **Grammy Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q41254
@@ -68,8 +66,3 @@
 **Order of Merit (Ukraine), 3rd class (2022)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q29017281
 **Presidential Medal of Freedom (2025)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17144
 **Member of the European Order of Merit (2026)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q138645392
-
-## lists
-**"Machines That Kill People" (1983) — Scaruffi 1980s** : #610, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Albino" (2012) — Scaruffi 2010s** : #277, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Red Summer" (2020) — Scaruffi 2020s** : #11, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

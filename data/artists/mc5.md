@@ -1,26 +1,25 @@
 # artist - MC5
 
 ## members
-- Fred 'Sonic' Smith
-- John Sinclair (manager)
-- Wayne Kramer (co-founder, lead guitarist)
+- Fred "Sonic" Smith
+- Wayne Kramer
 
 ## genres
-- Garage Rock (exception)
+- Garage Rock
 - Political Rock
-- Post-Garage Rock (influence)
+- Post-Garage Rock
 - Pre-punk
 - Proto-Punk
 - Punk
 - Rock
 
 ## albums
-**Kick Out The Jams (1968) – Debut Album** : Released in 1968, this was the MC5's debut album and notably was a live recording. The record company dropped them after they wrote a vulgar letter on company letterhead and sent it to stores that refused to stock the album, a stunt which ironically enhanced their "street cred." "The MC5, whose debut record was a live album." ← https://www.youtube.com/watch?v=6oUkMOkEr9U ← mc5
-**Kick Out the Jams (Year Unspecified)** : MC5's debut album is noted for starting with a scream that has become iconic, instantly setting a defiant tone. The album's blend of rock, racial politics, and aggressive sound was revolutionary, challenging established norms and making a significant impact on its listeners. "Su disco de debut que Count the Jams empieza con un grito que ya es historia." ← El punk existía antes de Sex Pistols (y era algo salvaje) | https://www.youtube.com/watch?v=ilXpBujkWZE
-**Original Albums (Number)** : The MC5 released three original studio albums during their active years. "There are three original albums." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← mc5
+**Kick Out the Jams (1969)** : Released in 1968, this was the MC5's debut album and notably was a live recording. The record company dropped them after they wrote a vulgar letter on company letterhead and sent it to stores that refused to stock the album, a stunt which ironically enhanced their "street cred." "The MC5, whose debut record was a live album." ← https://www.youtube.com/watch?v=6oUkMOkEr9U ← mc5
+**Kick Out the Jams (1969)** : MC5's debut album is noted for starting with a scream that has become iconic, instantly setting a defiant tone. The album's blend of rock, racial politics, and aggressive sound was revolutionary, challenging established norms and making a significant impact on its listeners. "Su disco de debut que Count the Jams empieza con un grito que ya es historia." ← El punk existía antes de Sex Pistols (y era algo salvaje) | https://www.youtube.com/watch?v=ilXpBujkWZE
+**MC5 Record (2024)** : Wayne Kramer's final album was an MC5 record released after his death in 2024, an astonishing 53 years after the group's debut album. "Wayne Kramer's last album was an MC5 record released after he died. That was 53 years after the group's debut." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← wayne-kramer
 
 ## songs
-**Kick Out The Jams (1968)** : This song is from their 1968 debut album of the same name. "From 1968, this is the MC5 from Kick Out The Jams." ← https://www.youtube.com/watch?v=6oUkMOkEr9U ← mc5
+**Kick Out the Jams (1969)** : This song is from their 1968 debut album of the same name. "From 1968, this is the MC5 from Kick Out The Jams." ← https://www.youtube.com/watch?v=6oUkMOkEr9U ← mc5
 **Kick Out the Jams (1969)** : This song was instrumental in bringing attention to Wayne Kramer and the MC5. It features Wayne Kramer on guitar and was released in 1969. "The MC5 and kick out the jams from 1969 featuring guitarist Wayne Kramer." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← mc5
 
 ## curiosities
@@ -44,8 +43,6 @@
 **Proto-Punk and Political Activism (Mid-Late 1960s)** : The MC5, a proto-punk band hailing from Detroit, was essentially an extension of the Marxist Black Panther Party, a militant socialist black nationalist organization that generated considerable controversy in the mid to late 1960s. The band further established an affiliated group known as The White Panthers. Despite their eventual internal political struggles that led to the band's dissolution, the MC5 effectively amplified the voices of marginalized people in the US during their active period. "The MC5, the Proto-Punk Band from Detroit, were essentially a wing of the Marxist Black Panther Party, a militant socialist black nationalist organization that stood up a lot of controversy in the middle of late 60s." ← https://www.youtube.com/watch?v=0ARYt4sYT90 ← mc5
 **Record Deal and Democratic National Convention (1968)** : The MC5 secured a "big record deal" in 1968. Around the same time, they performed at the "ill-fated" Democratic National Convention in Chicago, appearing as guests of the White Panther Party. "Somehow they were signed to a big record deal in 1968. This was at around the same time as they appeared at the ill-fated Democratic National Convention in Chicago as guests of the White Panther Party." ← https://www.youtube.com/watch?v=6oUkMOkEr9U ← mc5
 **Sampled in KLF Song** : Samples from MC5 were among at least eight distinct samples used in The KLF's massive 1990 single "What Time Is Love." "There were at least eight samples in this track, including from the MC5." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← mc5 ← mc5
-
-
 
 ## lists
 **"Kick Out the Jams" (1969) — 1001 Albums You Must Hear Before You Die** : #157.

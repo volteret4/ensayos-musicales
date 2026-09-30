@@ -1,8 +1,8 @@
 # artist - Martha Reeves
 
 ## member of
-- Martha and the Van Dellers
-- The Delphiys
+- Martha and the Vandellas
+- The Del-Phis
 - The Fascinations
 
 ## genres
@@ -16,4 +16,3 @@
 **Lifelong Crush on Mike Love** : Martha Reeves performed on the same bill as The Beach Boys in Detroit and was particularly impressed by them. She developed a lifelong crush on Mike Love. "Martha was particularly impressed by the Beach Boys, who performed on the same bill as them in Detroit, and she developed a lifelong crush on Mike Love." ← Episode 111： ＂Heat Wave＂ by Martha and the Vandellas | https://www.youtube.com/watch?v=AAiUJhSKjzs
 **Motown Secretary Job** : After being seen performing solo as Martha Lavelle by Mickey Stevenson, Martha was told to audition at Motown. Due to a misunderstanding of the audition process (Stevenson expected a call, Martha just showed up), she ended up answering phones in his office, calling herself the A&R Secretary. She worked for three weeks unpaid before being put on salary as Stevenson's secretary, allowing her to get her "foot in the door" at Motown. "She started answering the phone, calling herself the A&R Secretary, taking messages and sorting up problems." ← Episode 111： ＂Heat Wave＂ by Martha and the Vandellas | https://www.youtube.com/watch?v=AAiUJhSKjzs
 **Rock and Roll Hall of Fame Induction** : Martha Reeves was inducted into the Rock and Roll Hall of Fame in 1995 as part of Martha and the Van Dellers, along with Rosalind Ashford, Betty Kelly, Annette Beard, and Lois Reeves. This made them only the second all-female group to receive this honor. "Martha, Rosalind, Betty, Annette and Lois were all also inducted into the Rock and Roll Hall of Fame in 1995, becoming only the second all-female group to be inducted." ← Episode 111： ＂Heat Wave＂ by Martha and the Vandellas | https://www.youtube.com/watch?v=AAiUJhSKjzs
-

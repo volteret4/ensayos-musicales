@@ -2,13 +2,9 @@
 
 ## members
 - Chris Gormley
-- Colin McDonald
-- Collins
-- Jack
-- Jack Siparek
-- John Angus McDonald
-- Johnny
-- Sean
+- Colin MacDonald
+- Jack Syperek
+- John-Angus MacDonald
 
 ## genres
 - Grunge
@@ -42,22 +38,20 @@
 **Hope and Ruin (2011)** : This was the band's fourth album, recorded at The Bathouse, The Tragically Hip's studio in Bath, Kingston. The recording process began in January 2010 after Gord Sinclair offered the band days to write, record, jam, and hang out. The vision for the record was to unite the band's acoustic sound with their high-octane energy on one record, resulting in a diverse collection of songs. "Yeah, that sort of vision for that record was to like I'm talking to Gord about like, can we bring what we do acoustically and what we do on our most high octane energy nights, like under the same umbrella on one record?" ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
 **House of Ill Fame (2003)** : The band's debut album, released in 2003, achieved gold status in Canada. Production began in 2002 with Gordy Johnson at Phase One Studio in Scarborough, initially for a four-song EP, three of which made it onto the album. Recording was done piecemeal due to budget constraints, with additional sessions at Metalworks in Summer 2002 (funded by a Rock Search win) and more at Phase One, completing by January 1, 2003. "By January 1st, 2003, it was in the can." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
 **No Time for Later (2008)** : Released in 2008, this album received Juno nominations and marked the band's first proper US release, promoted by Merovingian and EMI. To produce it, the band specifically chose Gus, known for his work on Pre-Set's "Hello Master" album, as they felt he was making the "best active rock." The band rented a house in Brooklyn and spent two months in Summer 2007 recording the album there. "we moved to Brooklyn for the summer of 07, rented a house in Brooklyn for two months and made, it made that record." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
-**One-eyed Trouser EP (1997)** : This was the band's first piece of recorded material, though barely remembered and not officially released, except for 50 boxes sold from the back of their mother's van. It was engineered and recorded by Lawrence Curry, known for producing Sloan's "One Chord to Another." Despite the band not being "overly proud of it," copies are still sought after by fans, with some distributed to Patreon subscribers during the pandemic. "it was our first foray into recording." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
-**The Trews (2015) - Self-Titled** : This self-titled album, the band's fifth, garnered significant support from Classic Rock magazine in the UK. The magazine, known for promoting new music, had previously nominated the band for a "best new band" award for their second album. For this album, Classic Rock magazine packaged the record with every issue, giving away approximately 90,000 copies in the UK. "they actually packaged the record with every issue and gave away like 90,000 copies of it in the UK with Classic Rock magazine." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
+**The Trews (2015)** : This self-titled album, the band's fifth, garnered significant support from Classic Rock magazine in the UK. The magazine, known for promoting new music, had previously nominated the band for a "best new band" award for their second album. For this album, Classic Rock magazine packaged the record with every issue, giving away approximately 90,000 copies in the UK. "they actually packaged the record with every issue and gave away like 90,000 copies of it in the UK with Classic Rock magazine." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
 **The Wanderer (2021)** : This album was released late in 2021, featuring songs written during the COVID-19 pandemic. It includes the "COVID era song" titled "I Want to Play." "We did manage to get a whole other record out, which came out late in 21 finally." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
 
 ## songs
 **Antigonish Song (1997)** : This song is a sample from the band's rarely remembered 1997 "One-eyed Trouser EP." It carries personal significance as it directly references the band's hometown. "This is called Antigonish Song." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
-**Godspeed Rebel (Unreleased/2020)** : This song, previously unreleased, was put out as a single during the COVID-19 pandemic. The accompanying video was produced entirely using Zoom, as band members were unable to be in the same room together due to restrictions. "we had a song called Godspeed Rebel that we never released and we decided to release a single for it and a video using only Zoom because that's all we could use." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
+**Godspeed Rebel (2020)** : This song, previously unreleased, was put out as a single during the COVID-19 pandemic. The accompanying video was produced entirely using Zoom, as band members were unable to be in the same room together due to restrictions. "we had a song called Godspeed Rebel that we never released and we decided to release a single for it and a video using only Zoom because that's all we could use." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
 **Highway of Heroes (2009)** : This powerful song was written by Colin McDonald, John Angus McDonald, and Gordy Johnson over the phone in about 15 minutes, just two nights before their first acoustic tour in October 2009. It was inspired by the tragic story of Nikola Goddard, a high school friend of John Angus and Jack, who was the first Canadian female killed in combat in Afghanistan in 2006. The song deeply moved Colin McDonald when first played, and it quickly became a special part of their acoustic live sets, recorded in January 2010. "And it happened in like 15 minutes." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
-**Highway of Heroes (Pre-2010)** : This song was "in the can," meaning it was recorded or ready for release, around January 2010, prior to the recording of their album "Hope and Ruin." "We had highway of heroes in the can. Or we were about to have highways that are heroes in the can, sorry." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
+**Highway of Heroes (2009)** : This song was "in the can," meaning it was recorded or ready for release, around January 2010, prior to the recording of their album "Hope and Ruin." "We had highway of heroes in the can. Or we were about to have highways that are heroes in the can, sorry." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
 **Hold Me In Your Arms (2008)** : A single from "No Time for Later," this song received significant promotion on active rock radio in the US as part of the band's first major American push. It garnered some traction, being played on Sirius Satellite Radio's Alternative Nation. "We spent a boatload of money promoting homey near arms at active rock radio down there." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
 **I Want to Play (2021)** : This track, described as a "COVID era song," is featured on the band's 2021 album, "The Wanderer." It encapsulates the band's and musicians' desire to return to live performances during the pandemic. "The truth in their COVID era song, I want to play and the track that's turned up on their 2021 album, The Wanderer." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
 **Not Ready To Go (2003)** : Featured on "House of Ill Fame," this song became a major hit, reaching number one on Canadian Rock Radio and being the most played song of the year. Sony's head of radio promo, Velo Mazek, championed the song, relentlessly pushing it to radio. Its success was pivotal, opening doors for the band to play arenas and embark on extensive tours, performing hundreds of shows a year. "It was the most played song of the year." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
 **Paranoid Freak (2008)** : This song, from "No Time for Later," also received airplay on Sirius Satellite Radio's Alternative Nation in the US, contributing to the album's modest traction south of the border. "two songs got played there, hold me in your arms and paranoid freak, but it was definitely, it wasn't like a, you know, home run, but it definitely got a little bit, a little bit of traction." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
 **So She's Leaving (2005)** : Released as a single from "A Den of Thieves," this song became a "pretty big hit at radio." Its success contributed to the high energy and visibility surrounding the band during the promotion of their second album. "we put out a single which was so she's leaving and that became like a pretty big hit at radio." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
 **Tired of Waiting (2003)** : This track, also from "House of Ill Fame," was a significant song for the band alongside "Not Ready To Go." It contributed to the album's success and the band's rising profile in the Canadian music scene. "And it had Not Ready To Go, and Tired of Waiting, which were two really big songs for us." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
-**Twist and Shout (1963)** : The Trews performed a 12-minute version of this song as an encore with Bruce Springsteen. The impromptu collaboration happened after a band member was asked by Springsteen if he knew the song. The performance is available on YouTube under "Bruce Springsteen with the Trews." "we got up and did like a 12-minute version of twist and shout at the end of his set. And it's on YouTube." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
 
 ## curiosities
 **"Civilianaires" Recording Departure** : The recording of the 2018 album "Civilianaires" marked a change in the band's approach. It was their first record that was not recorded "live off the floor," instead being built up track-by-track in producer Derek Hoffman's basement studio in Toronto. "That was the first time we made a record kind of not live off the floor." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
@@ -90,47 +84,3 @@
 **The Bathouse Recording Experience** : The band recorded their "Hope and Ruin" album at The Bathouse, The Tragically Hip's studio in Bath, Kingston. This studio is described as an old coach house with a swimming pool, basketball court, grand piano, and living/sleeping quarters upstairs, functioning as a live-work recording space. "It's one of these old-style live work recording studios." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
 **The Tragically Hip Connection** : The Trews opened for The Tragically Hip in 2004 and maintained contact with them, leading to Gord Sinclair producing "Hope and Ruin" at The Bathouse. The Bathouse also served as a "Hip museum," featuring artifacts like the console from "Phantom Power," a painting from "In Between Evolution," and original artwork from "Fully Completely." "getting to work in this like house that's technically a hip museum." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
 **Touring with Robert Plant (2005)** : The Trews embarked on a full North American tour, "a dozen dates" from Toronto to Victoria, opening for Robert Plant, who was promoting his "Mighty ReArranger" album. Plant was noted for his friendliness, checking out their guitars at their first soundcheck and performing Led Zeppelin songs like "Going to California" and "That's The Way." "we were getting on a bus to tour with the Golden God himself." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← the-trews ← the-trews
-
-
-
-## charts
-**"Adele" — UK Vinyl Albums Chart** : entrada.
-**"Amy Winehouse" — UK Vinyl Albums Chart** : entrada.
-**"Radiohead" — UK Vinyl Albums Chart** : entrada.
-**"Rag'n'Bone Man" — UK Vinyl Albums Chart** : entrada.
-**"Ed Sheeran" — UK Vinyl Albums Chart** : entrada.
-**"The Beatles" — UK Vinyl Albums Chart** : entrada.
-**"Noel Gallagher's High Flying Birds" — UK Vinyl Albums Chart** : entrada.
-**"Original Soundtrack" — UK Vinyl Albums Chart** : entrada.
-**"Queen" — UK Vinyl Albums Chart** : entrada.
-**"Various Artists" — UK Vinyl Albums Chart** : entrada.
-**"Fleetwood Mac" — UK Vinyl Albums Chart** : entrada.
-**"Amy Winehouse" — UK Vinyl Albums Chart** : entrada.
-**"Queen" — UK Vinyl Albums Chart** : entrada.
-**"Kylie Minogue" — UK Vinyl Albums Chart** : entrada.
-**"Harry Styles" — UK Vinyl Albums Chart** : entrada.
-**"Glass Animals" — UK Vinyl Albums Chart** : entrada.
-**"Oasis" — UK Vinyl Albums Chart** : entrada.
-**"Taylor Swift" — UK Vinyl Albums Chart** : entrada.
-**"Dua Lipa" — UK Vinyl Albums Chart** : entrada.
-**"Olivia Rodrigo" — UK Vinyl Albums Chart** : entrada.
-**"Charli XCX" — UK Vinyl Albums Chart** : entrada.
-**"Chappell Roan" — UK Vinyl Albums Chart** : entrada.
-**"Gracie Abrams" — UK Vinyl Albums Chart** : entrada.
-**"Noel Gallagher's High Flying Birds" — UK Vinyl Singles Chart** : entrada.
-**"David Bowie" — UK Vinyl Singles Chart** : entrada.
-**"Golden Years" — UK Vinyl Singles Chart** : 4 semanas.
-**"The Stone Roses" — UK Vinyl Singles Chart** : entrada.
-**"David Brent" — UK Vinyl Singles Chart** : entrada.
-**"Oasis" — UK Vinyl Singles Chart** : entrada.
-**"Liam Gallagher" — UK Vinyl Singles Chart** : entrada.
-**"George Michael" — UK Vinyl Singles Chart** : entrada.
-**"Morrissey" — UK Vinyl Singles Chart** : entrada.
-**"Led Zeppelin" — UK Vinyl Singles Chart** : entrada.
-**"Public Service Broadcasting" — UK Vinyl Singles Chart** : entrada.
-**"The Fontaines" — UK Vinyl Singles Chart** : entrada.
-**"Ceremony" — UK Vinyl Singles Chart** : 1 semanas.
-**"Wham!" — UK Vinyl Singles Chart** : entrada.
-**"Blur" — UK Vinyl Singles Chart** : entrada.
-**"The 1975" — UK Vinyl Singles Chart** : entrada.
-**"Fontaines D.C." — UK Vinyl Singles Chart** : entrada.

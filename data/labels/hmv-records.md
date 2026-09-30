@@ -5,6 +5,6 @@
 **Producer John Burgess** : HMV Records signed The Man Hugg Blues Brothers (who became Manfred Mann) through producer John Burgess. Burgess specialized in a different style of music, having produced hits for Adam Faith and starting work with Freddie and the Dreamers around the same time. "This group was signed to HMV Records by John Burgess. Burgess was a producer who specialised in music of a very different style from what the Mann Hugg blues brothers played." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
 
 ## artists
-- Manfred Mann (band)
+- Manfred Mann
 - Ray Charles
 

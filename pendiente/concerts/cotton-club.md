@@ -7,5 +7,5 @@
 - Cab Calloway
 - Duke Ellington
 - Lucky Millinder
-- Sister Rosetta Tharp
+- Sister Rosetta Tharpe
 

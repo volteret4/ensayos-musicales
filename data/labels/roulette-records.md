@@ -6,5 +6,5 @@
 
 ## artists
 - Darryl and the Oxfords
-- Joey D and the Starlighters
+- Joey Dee and the Starliters
 

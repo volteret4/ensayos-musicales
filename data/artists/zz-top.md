@@ -5,19 +5,26 @@
 - Frank Beard
 
 ## genres
+- Album-Oriented Rock
+- Electric Blues
+- Electro-Dance Rock
 - Southern Rock
 
 ## concerts
 - Rush opening for ZZ Top (1974)
 
 ## instruments
-- Drum samples (from Ministry)
+- Drum samples
 - Gibson Les Paul
+
+## albums
+**Eliminator (1983)** : This album marked a significant reboot for ZZ Top, who transitioned from "electric blues craftsmen" of the 70s to "electro-dance rockers." The band retro-fitted their signature guitar crunch with sequencers and synthesizers and simultaneously reinvented themselves as MTV stars through a series of "cheeky videos," leading to their first ever Top 10 hit, "Legs," in 1984. "ZZ Top rebooted themselves on their eliminator album as electro-dance rockers, retro-fitting their guitar crunch with sequencers and synthesizers, and they rebooted themselves as MTV stars in a series of cheeky videos." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
 
 ## songs
 **Chevrolet Pickup (1972)** : ZZ Top's song from 1972 is noted for specifically mentioning their Chevrolet pickup truck. "Zizi Topp saying about their Chevrolet pickup in 1972..." ← https://www.youtube.com/watch?v=_KJ60im4KAc ← zz-top ← zz-top
-**Legs (1982) - Dance Mix** : In 1982, a special dance mix of ZZ Top's song "Legs" was released, extending to nearly eight minutes—almost twice the length of the regular album cut. This indicated how even rock artists were adopting the 12-inch format for extended dance versions, though some rock fans initially found it difficult to accept. "That goes on for nearly eight minutes, almost twice the length of the regular album cut." ← https://www.youtube.com/watch?v=0FYq5MBdHw4 ← zz-top ← zz-top
-**Legs (XXXX)** : In the 1980s, an extended version of this song was created and played in bars, which was considered shocking at the time because ZZ Top was a "proper rock band" that typically would not allow their music to be turned into a dance-floor track. This marked a departure from the common perception that rock bands were "not meant for dancing." "Remember being in a bar when I heard an extended version of ZZ Top's legs shocking since that was a proper rock band that had allowed one of their songs to be turned into a dance floor track." ← https://www.youtube.com/watch?v=08i9lVd6T8c ← zz-top ← zz-top
+**Legs (1983)** : In 1982, a special dance mix of ZZ Top's song "Legs" was released, extending to nearly eight minutes—almost twice the length of the regular album cut. This indicated how even rock artists were adopting the 12-inch format for extended dance versions, though some rock fans initially found it difficult to accept. "That goes on for nearly eight minutes, almost twice the length of the regular album cut." ← https://www.youtube.com/watch?v=0FYq5MBdHw4 ← zz-top ← zz-top
+**Legs (1983)** : In the 1980s, an extended version of this song was created and played in bars, which was considered shocking at the time because ZZ Top was a "proper rock band" that typically would not allow their music to be turned into a dance-floor track. This marked a departure from the common perception that rock bands were "not meant for dancing." "Remember being in a bar when I heard an extended version of ZZ Top's legs shocking since that was a proper rock band that had allowed one of their songs to be turned into a dance floor track." ← https://www.youtube.com/watch?v=08i9lVd6T8c ← zz-top ← zz-top
+**Legs (1984)** : This song became ZZ Top's first ever Top 10 hit in the summer of 1984, peaking just as the bearded Texas trio's members turned 35. It was a product of their "Eliminator" album, where the band reinvented their sound by blending their guitar crunch with sequencers and synthesizers, and gained massive visibility through "cheeky videos" on MTV. "Legs, ZZ Topps first ever Top 10 hit in the summer of 84, peaked just as the bearded Texas trio's members turned 35." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
 
 ## curiosities
 **"Texas Experience" Tour (1976)** : In 1976, ZZ Top attempted to bring the "entire Texas experience" on the road, which involved transporting real, live animals to every gig. During one show, a buffalo escaped and caused significant damage, wrecking nine rented limousines parked at the venue. "In 1976, Zizi Topp tried to take the entire Texas experience on the road, which involved transporting real live animals to every gig." ← https://www.youtube.com/watch?v=Jvh8SP2QKXQ ← zz-top ← zz-top
@@ -29,8 +36,7 @@
 **Major Influence on Josh Homme** : ZZ Top, and specifically Billy Gibbons, profoundly influenced Josh Homme of Queens of the Stone Age, impacting both his riffage and his distinctive technique of tapping individual notes. "Billy Gibbons said it made a huge impact on Josh, not just with his riffage, but how he had a way of tapping out individual notes in the middle of everything." ← https://www.youtube.com/watch?v=nVIswnZYFkU ← zz-top ← zz-top
 **Unsuccessful 12-inch Remix Venture** : ZZ Top attempted to get into the 12-inch remix business, but this venture is described as a "bad idea." This implies that while the 12-inch format was successful for many, it wasn't universally suited for all bands or genres. "So did a band like ZZ Top which was a bad idea but that's completely other story." ← https://www.youtube.com/watch?v=OiqdZfxdBP0 ← zz-top
 **Used Ministry Drum Samples on Late 1980s Records** : ZZ Top incorporated drum samples taken from Ministry records into some of their albums released in the late 1980s. The drum sounds attributed to Frank Beard on these recordings were, in fact, triggered samples originally sourced from Ministry. "those drum sounds from Frank Beard are actually triggered Ministry samples." ← https://www.youtube.com/watch?v=-N6IM5Nm5iw ← zz-top
-
-
+**Reinvention as Electro-Dance Rockers** : After spending the 1970s as "electric blues craftsmen," ZZ Top underwent a major reinvention on their "Eliminator" album. They transformed into "electro-dance rockers," incorporating sequencers and synthesizers into their guitar-driven sound, and also became MTV stars through "cheeky videos." "after spending the 70s as electric blues craftsmen, ZZ Top rebooted themselves on their eliminator album as electro-dance rockers, retro-fitting their guitar crunch with sequencers and synthesizers, and they rebooted themselves as MTV stars in a series of cheeky videos." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
 
 ## awards
 **Rock and Roll Hall of Fame (2004)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191

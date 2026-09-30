@@ -6,6 +6,6 @@
 
 ## artists
 - Joey Ramone
-- Maureen "Moe" Tucker
+- Maureen Tucker
 - Tony Thompson
 

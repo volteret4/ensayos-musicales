@@ -8,8 +8,7 @@
 - David Bowie
 - Lana Del Rey
 - M.I.A.
-- MIA
-- T-Rex
+- T. Rex
 - Tim Buckley
 - Trip Shakespeare
 

@@ -7,5 +7,4 @@
 **Vaporwave with Trap Rhythm** : Vapor Trap does not significantly differ from pure Vaporwave in its artistic or sonic aspects, except for the inclusion of the characteristic rhythm of trap music. Its sample base is very similar to vaporwave, augmented by sounds from old PCs and video games. "El Bapur Trap no difiere mucho ni en el apartado artístico ni sonado del Bapur Wave Puro. Salvo por incluir la rímicaca característica del trap." ← Vaporwave： Mucho más que un Meme | https://www.youtube.com/watch?v=BhOnKc0SxsA
 
 ## artists
-- Black Bank C
 

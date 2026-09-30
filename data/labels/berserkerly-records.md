@@ -8,5 +8,5 @@
 
 ## artists
 - Earthquake
-- Jonathan Richman and the Modern Lovers
+- Jonathan Richman & The Modern Lovers
 

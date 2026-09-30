@@ -12,11 +12,12 @@
 ## artists
 - Björk
 - Brian Eno
-- David Botrell
+- David Bottrill
 - David Bowie
 - José Padilla
 - Peter Gabriel
-- Public Image Limited
+- Public Image Ltd
 - Residente
 - The Clash
-
+- Talking Heads
+- Tom Tom Club

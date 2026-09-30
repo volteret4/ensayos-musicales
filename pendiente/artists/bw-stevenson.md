@@ -5,9 +5,6 @@
 - Progressive Country
 - Rock
 
-## albums
-**Eight Albums (1972-1980)** : B.W. Stevenson was a prolific writer, releasing eight albums between 1972 and 1980. Despite his output, none of these albums translated into significant solo success for him. "He wrote eight albums between 1972 and 1980, but none of it really translated to success for him, at least as a solo artist." ← For the Record - The 70s > Ep. 49 - Austin City Limits and the 70s Country Music Revolution | http://ftr70.com
-
 ## songs
 **My Maria (1973)** : B.W. Stevenson released this song in August 1973, and it went to number nine on the Billboard Hot 100 in the same month. Daniel Moore had been working on the lyrics for two years when Stevenson quickly finished them, with Moore stating he likely wouldn't have completed the song without Stevenson's help. Ronnie Dunn of Brooks & Dunn later covered it in 1996 but was initially hesitant, viewing it as a rock song and wary of its falsetto. "My Maria by BW Stevenson released in August 1973." ← For the Record - The 70s > Ep. 49 - Austin City Limits and the 70s Country Music Revolution | http://ftr70.com
 **Shambhala (1973)** : B.W. Stevenson collaborated with Daniel Moore on this song and released his version before "My Maria." However, Three Dog Night's version, released a week later, became a much bigger hit, reaching number three on the Billboard Hot 100 in 1973. "They also collaborated on another song that you might be familiar with, Shambhala, and Stevenson released his version of that before My Maria, but the version of Shambhala that was released a week after that by three dog night was a much bigger hit." ← For the Record - The 70s > Ep. 49 - Austin City Limits and the 70s Country Music Revolution | http://ftr70.com
@@ -18,3 +15,5 @@
 **Later Austin City Limits Appearance (1976)** : Although his pilot performance was scrapped, B.W. Stevenson did get another opportunity to perform on Austin City Limits in 1976. However, this appearance did not carry the same weight as being on the pilot during the peak of his hit song "My Maria." "Stevenson did get another opportunity to be on Austin City Limits. He was on in 1976, but you know, it's not the same as being on the pilot when he is still riding the wave of a big hit." ← For the Record - The 70s > Ep. 49 - Austin City Limits and the 70s Country Music Revolution | http://ftr70.com
 **Respected Session Musician** : Throughout his career, B.W. Stevenson was highly regarded as a session musician, even if his solo work didn't always achieve commercial success. "He was always well respected as a session musician." ← For the Record - The 70s > Ep. 49 - Austin City Limits and the 70s Country Music Revolution | http://ftr70.com
 
+## charts
+**"My Maria" — Billboard Year-End Hot 100** : #64, 1973. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

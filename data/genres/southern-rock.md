@@ -24,17 +24,14 @@
 
 ## artists
 - 38 Special
-- Allman Brothers
+- The Allman Brothers Band
 - Black Oak Arkansas
 - Delaney & Bonnie
 - Kings of Leon
-- Leonard Skinnerd
 - Lynyrd Skynyrd
 - Marshall Tucker Band
 - Molly Hatchet
 - My Morning Jacket
-- The Allman Brothers Band
 - The Band
-- The Pot
 - ZZ Top
 

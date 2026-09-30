@@ -1,16 +1,17 @@
 # artist - Gladys Knight
 
+## member of
+- Dionne & Friends
+
 ## genres
 - R&B
 
 ## songs
-**Licensed to Kill (1989) – Title Theme** : Gladys Knight was brought in to sing the title theme for the 1989 James Bond film "Licensed to Kill." The song, co-written by Narada Michael Walden, had a very 80s sound and production, becoming a hit in Europe and reaching number 79 in Canada, though it did not chart in America. "Gladys Knight was brought into sing and the song was a hit but only in Europe." ← https://www.youtube.com/watch?v=K0pgJ7XAlpo ← gladys-knight
+**Licensed to Kill (1989)** : Gladys Knight was brought in to sing the title theme for the 1989 James Bond film "Licensed to Kill." The song, co-written by Narada Michael Walden, had a very 80s sound and production, becoming a hit in Europe and reaching number 79 in Canada, though it did not chart in America. "Gladys Knight was brought into sing and the song was a hit but only in Europe." ← https://www.youtube.com/watch?v=K0pgJ7XAlpo ← gladys-knight
 
 ## curiosities
 **Career Launched by Ted Mack Amateur Hour** : Gladys Knight's career was successfully launched by her appearance on the Ted Mack Amateur Hour, a popular 1950s TV talent show. "The show launched the careers of Pat Boone and Margaret in Gladys Knight among others." ← Episode 44： ＂Train Kept A-Rollin'＂, by Johnny Burnette and the Rock 'n' Roll Trio | https://www.youtube.com/watch?v=u3zYAJ2qeR4
 **Donation to Jackie Wilson's Medical Fund** : Gladys Knight donated $2,500 towards Jackie Wilson's medical bills after his collapse. "Gladys Knight gave $2,500." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
-
-
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

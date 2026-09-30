@@ -11,13 +11,15 @@
 **Refusal to Release Rivers Cuomo's Solo Material** : Geffen Records refused to release Rivers Cuomo's home recordings, later compiled in the "Alone" series, for years. They believed that "substandard material" would sully the good name of Weezer, though Rivers eventually won the right to release them in 2007. "Geffen refused to release that material for years because they didn't want substandard material sullying the good name of Weezer." ← https://www.youtube.com/watch?v=DoJa8jcrlUA ← geffen-records ← geffen-records
 **Relevant Discographic Movement** : The interactions and developments at Geffen Records, particularly concerning the grunge movement and Sonic Youth, represent one of the most relevant and impactful discographic movements in the history of rock music. "este es increíblemente relevante, son unos los movimientos discográficos más relevantes del rock." ← Music Radar Clan > SONIC YOUTH： Guitarras al límite | https://www.youtube.com/watch?v=718mYxplXJE&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← geffen-records ← geffen-records
 **Weezer Signing** : Weezer signed a deal with Geffen Records on June 25, 1993, after considerable pushback from the label's bosses regarding the band's choice of producer, Ric Ocasek. "Weezer signed a deal on June 25, 1993." ← https://www.youtube.com/watch?v=DoJa8jcrlUA ← geffen-records ← geffen-records
+**Parent Label of DGC** : Geffen Records is the major label parent company of DGC Records, which was the label responsible for releasing Nirvana's highly successful "Nevermind" album. "DGC Records, a subsidiary of Major Label Geffen Records." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**First Major Label Internet Distribution (1994)** : In 1994, Geffen Records made history by issuing Aerosmith's B-side "Head First" for free on Compuserve. This was the first instance of a major label distributing a song over the internet, serving as an early "beta test" for digital music dissemination, despite the slow dial-up speeds of the time. "Geffen Records issued an Erasmith B-side called Head First for free on the then dominant internet service provider Compuserve." ← Hit Parade Music History and Music Trivia > Ride ’til I Can’t No More Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce88
 
 ## artists
-- Alice In Chains
+- Alice in Chains
 - Lock Up
 - Nirvana
 - Pearl Jam
 - Sonic Youth
 - Soundgarden
 - Weezer
-
+- Aerosmith

@@ -6,8 +6,6 @@
 ## curiosities
 **Boy Band Comeback (2010s)** : One Direction represented the resurgence of boy bands in the 2010s, becoming a prominent example of this cultural phenomenon. Their success indicated a return of the multi-member vocal group format to mainstream popularity. "Boy bands. Girl bands came back. Think one direction." ← https://www.youtube.com/watch?v=mNqqLDpUuZY ← one-direction ← one-direction
 
-
-
 ## awards
 **American Music Award for Artist of the Year** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q19858055
 **MTV Video Music Award for Best Pop Video (2012)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q617869

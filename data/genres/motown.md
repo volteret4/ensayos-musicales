@@ -10,8 +10,8 @@
 **Resistance to Political Messages** : Berry Gordy, the founder and president of Motown, was strongly opposed to the inclusion of overt political messages in Motown songs, famously resisting Marvin Gaye's desire to release "What's Going On." "Barry Gordy, whose Motowns founder and president was also very resistant to political messages in Motown songs." ← For the Record - The 70s > Ep. 37 - Philly Soul and the Sound of the 70s | https://seventies.libsyn.com/ep-37-philly-soul-and-the-sound-of-the-70s
 
 ## artists
-- Bobby Jean Hall
+- Bobbye Hall
 - Iggy Pop
 - The English Beat
 - U2
-
+- The Pointer Sisters

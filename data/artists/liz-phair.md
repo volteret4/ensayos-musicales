@@ -1,12 +1,20 @@
 # artist - Liz Phair
 
+## genres
+- Alt Rock
+- Indie Rock
+
 ## instruments
 - cassettes
 
 ## albums
+**Exile in Guyville (1993)** : This album was acclaimed as Liz Phair's "Indy Rock classic" and the "most acclaimed album" of 1993. It topped that year's Pazz and Jop Critics Poll and generated popular college radio favorites like "Divorce Song," "Fuck and Run," and "Never Said." "1993's most acclaimed album was Liz Faire's Indy Rock classic, Exile in Guyville, which topped that year's Paz and Job Critics poll." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 **Whip-Smart (1994)** : This album was released in 1994. "From 1994, an album entitled Whip Smart that Chicago's Liz Fair with Supernova." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI ← liz-phair ← liz-phair
 
 ## songs
+**Divorce Song (1993)** : A college radio favorite from Liz Phair's critically acclaimed 1993 album "Exile in Guyville." "generated such college radio favorites as divorce song." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Fuck and Run (1993)** : This song was a college radio favorite from Liz Phair's 1993 album "Exile in Guyville," known for its raw and honest lyrical content. "fuck and run." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Never Said (1993)** : Another college radio favorite from Liz Phair's influential 1993 album "Exile in Guyville," solidifying its status as an indie rock classic. "and never said." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 **Supernova (1994)** : A track from her 1994 album, *Whip-Smart*. "From 1994, an album entitled Whip Smart that Chicago's Liz Fair with Supernova." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI ← liz-phair ← liz-phair
 
 ## curiosities
@@ -18,8 +26,6 @@
 **Feminist Attitude and Sexuality** : Liz Phair emerged from Chicago with a strong feminist attitude, openly celebrating female sexuality in an uncompromisingly explicit way. She has documented her story in a couple of memoirs. "Liz Fair, strong feminist, came out of Chicago with an attitude that celebrated female sexuality in an uncompromisingly explicit way." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← liz-phair ← liz-phair
 **Influence from Galaxie 500** : Liz Phair acknowledged Galaxie 500 as a significant influence on her own musical development, indicating the band's impact beyond their commercial success. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← liz-phair
 **Projection of Strength and Sexuality** : Liz Phair's appeal in 1994 stemmed from her confident projection of strength and an unashamed expression of sex and sexuality, which she viewed as a source of power. Her attitude challenged the conventional, often demure, portrayals of female performers from prior decades, presenting a modern, real, honest, and smart persona. "For her, sex and sexuality was a strength, something powerful, something that should be expressed with no shame and nothing to apologize for." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI ← liz-phair ← liz-phair
-
-
 
 ## lists
 **"Exile in Guyville" (1993) — 1001 Albums You Must Hear Before You Die** : #737, 90 AOTY.

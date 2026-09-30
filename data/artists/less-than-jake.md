@@ -13,7 +13,5 @@
 **First Warped Tour Set (July 16)** : Less Than Jake played their inaugural Warped Tour set on July 16. "On July 16th, the band Less Than Jake played their first Warped set." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← less-than-jake
 **Record for Most Warped Tour Sets** : Less Than Jake holds the record for performing the most sets on the Warped Tour, with an estimated number exceeding 400 performances, though the exact figure is uncertain. "They hold the record for the most warped sets ever. No one is quite sure of the exact number, but it's somewhere north of 400." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← less-than-jake
 
-
-
 ## lists
 **"Hello Rockview" (1998) — Sputnikmusic Best Albums 1998** : #138. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1998/

@@ -14,7 +14,9 @@
 
 ## artists
 - Ariana Grande
-- Leslie Gore
+- Lesley Gore
 - Nicki Minaj
 - Taylor Swift
-
+- Britney Spears
+- Christina Aguilera
+- Backstreet Boys

@@ -1,7 +1,7 @@
 # artist - KMFDM
 
 ## genres
-- Industrial Hip Hop (dabbled in)
+- Industrial Hip Hop
 - Industrial Music
 
 ## curiosities
@@ -9,8 +9,6 @@
 **German Origin** : KMFDM originated from Germany, aligning them with the country often cited as the birthplace of much early electronic and industrial music experimentation. "KMFDM came out of Germany." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← kmfdm ← kmfdm
 **Industrial Hip Hop Dabbling** : KMFDM is cited as an artist who explored elements of Industrial Hip Hop, especially through beat-heavy keyboard and drum machine music originating in the mid-1980s. "Ministry came at DM and 9-inch nails dabbled in this, especially with various 12-inch remixes." ← https://www.youtube.com/watch?v=tdTs-4Irv8c ← kmfdm
 **Sampling of Amen Break** : KMFDM is mentioned as one of the artists who have employed the "Amen Break" sample in their music. "And it's been employed by such artists as Slipknot, Primal Scream, Oasis, Nightingale, KMFDM and Literary Thousands more." ← https://www.youtube.com/watch?v=VnXBJqKwkrw ← kmfdm
-
-
 
 ## lists
 **"Angst" (1993) — Scaruffi 1990s** : #837, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

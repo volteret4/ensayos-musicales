@@ -10,21 +10,7 @@
 **Dispute with Damon Albarn (Post-2010)** : Following "The Fall" album, Jamie Hewlett and Damon Albarn had a falling out for about four years. Hewlett reportedly felt that the music was becoming too prominent, overshadowing his comic creations, leading to his dissatisfaction. "The Jamie, the music was getting bigger while his comic creations were taking more of a back seat. Didn't like that very much." ← https://www.youtube.com/watch?v=iVdTCqpd798 ← jamie-hewlett
 **Diverse Creative Projects** : Beyond comics, Hewlett designed nightclub decor, opened a clothing store, wrote for a computer magazine, and created a comic strip about a gay Buddhist kung fu cop. "He also designed the decor for a nightclub. He opened a clothing store. He wrote for a computer magazine." ← https://www.youtube.com/watch?v=iVdTCqpd798 ← jamie-hewlett
 **Early Career** : In the late 1980s, Jamie Hewlett worked for the British magazine "Deadline," known for comic strips and drawings. He co-created the strip "Tank Girl" with Alan Martin. "By the late 1980s, he was working for a British magazine called Deadline, which featured comic strips and drawings by a variety of English artists." ← https://www.youtube.com/watch?v=iVdTCqpd798 ← jamie-hewlett
-**Gorillaz Co-creator (Pre-2005)** : As a "comic book artist," he co-created Gorillaz with Damon Albarn, resulting in a successful music project. "Comic book artist Jimmy Hewlett." ← https://www.youtube.com/watch?v=MK7L0eCpDHc ← jamie-hewlett
+**Co-Creator of Gorillaz** : As a "comic book artist," he co-created Gorillaz with Damon Albarn, resulting in a successful music project. "Comic book artist Jimmy Hewlett." ← https://www.youtube.com/watch?v=MK7L0eCpDHc ← jamie-hewlett
 **Inspiration for Gorillaz Characters** : While sharing a London flat with Damon Albarn in 1997, Hewlett, inspired by MTV's perceived lack of substance, created the four fictional members of Gorillaz: 2D, Murdoc, Noodle, and Russell. "Jamie came up with 2D, Murdoch, Noodle and Russell." ← https://www.youtube.com/watch?v=iVdTCqpd798 ← jamie-hewlett
 **Pulp's "Common People" Comic Strip** : In 1995, Hewlett illustrated a comic strip based on the story of Pulp's song "Common People," which was included with the French version of the single and an Australian box set. This connection highlights his acquaintanceship with Pulp's Jarvis Cocker. "He also illustrated a comic strip in 1995 that was based entirely on the story told in this song by Pulp." ← https://www.youtube.com/watch?v=iVdTCqpd798 ← jamie-hewlett
 **Tank Girl Movie** : His comic strip "Tank Girl" was optioned for a movie, which was made in 1995. Prior to this, Steven Spielberg had expressed interest in working with Hewlett. "It was option for a movie that was made in 1995." ← https://www.youtube.com/watch?v=iVdTCqpd798 ← jamie-hewlett
-
-
-
-## charts
-**"494" — NME Chart** : 29 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
-**"508" — NME Chart** : 13 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
-**"544" — NME Chart** : 20 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
-**"560" — NME Chart** : 2 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
-**"566" — NME Chart** : 18 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
-**""Beat Surrender" ‡" — UK Singles Chart** : #5, 1983. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
-
-## lists
-**"All Mod Cons" (1978) — 1001 Albums You Must Hear Before You Die** : #400.
-**"Sound Affects" (1980) — 1001 Albums You Must Hear Before You Die** : #469.

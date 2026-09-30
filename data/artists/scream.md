@@ -2,22 +2,18 @@
 
 ## members
 - Dave Grohl
-- Dave Grohl (drums)
-- Dave Grohl (drums, later)
-- Dave Grohl (drums, vocals)
-- Dave Grohl (quit summer 1990)
 
 ## genres
 - DC Hardcore
 - Hardcore
 
 ## albums
-**Fumble (1993) – Dave Grohl on Vocals** : The band's fifth and final album, *Fumble*, was recorded in 1990 but was not released until 1993, approximately three years after Dave Grohl had already joined Nirvana. The album is notable for featuring Dave Grohl on lead vocals for the song "God's Look Down." "The album was called Fumble, and this is God's Look Down. Scream, God's Look Down, featuring Dave Grohl on vocals." ← https://www.youtube.com/watch?v=8ynrwaUi-sA ← scream
+**Fumble (1993)** : The band's fifth and final album, *Fumble*, was recorded in 1990 but was not released until 1993, approximately three years after Dave Grohl had already joined Nirvana. The album is notable for featuring Dave Grohl on lead vocals for the song "God's Look Down." "The album was called Fumble, and this is God's Look Down. Scream, God's Look Down, featuring Dave Grohl on vocals." ← https://www.youtube.com/watch?v=8ynrwaUi-sA ← scream
 **No More Censorship (1988)** : This album was the fourth release by Scream and the first to feature Dave Grohl on drums, released in August 1988. Dave Grohl later remixed the album, which was reissued in 2017 as part of a Record Store Day event. "The first scream album to feature Dave Grohl was their fourth. It's called No More Centorship, and was released in August 1988." ← https://www.youtube.com/watch?v=8ynrwaUi-sA ← scream
 **Still Screaming (1982)** : Released in 1982, this album features the song "Total Mash," which directly references the emerging dance style. The band, based out of D.C., was significant in the transition from slam dancing to moshing. "But in 1982, they released an album entitled Still Screaming, and that record featured a song called Total Mash." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y ← scream
 
 ## songs
-**God's Look Down (1990)** : Featured on the album *Fumble*, this song includes Dave Grohl on lead vocals, recorded in 1990. "The album was called Fumble, and this is God's Look Down. Scream, God's Look Down, featuring Dave Grohl on vocals." ← https://www.youtube.com/watch?v=8ynrwaUi-sA ← scream
+**Gods Look Down (1990)** : Featured on the album *Fumble*, this song includes Dave Grohl on lead vocals, recorded in 1990. "The album was called Fumble, and this is God's Look Down. Scream, God's Look Down, featuring Dave Grohl on vocals." ← https://www.youtube.com/watch?v=8ynrwaUi-sA ← scream
 **Hit Me (1988)** : This track is the lead-off song from Scream's fourth album, *No More Censorship*, and features a 19-year-old Dave Grohl on drums. "The lead-off track from No More Centorship, the fourth album by Washington DC's Scream, and the first to feature their new drummer, now 19-year-old Dave Grohl, that's called Hit Me." ← https://www.youtube.com/watch?v=8ynrwaUi-sA ← scream
 **Total Mash (1982)** : Featured on the 1982 album "Still Screaming," this song is notable for explicitly singing about the frenzied activity that was happening in front of the band at their shows. Scream, a D.C. hardcore band, played a crucial role in the linguistic shift from "slam dancing" to "mashing" and eventually "moshing." "and that record featured a song called Total Mash. Let's dig a listen to them singing about what was happening right in front of them every time they played." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y ← scream
 
@@ -32,14 +28,3 @@
 **Local Legends (Pre-Grohl)** : Before Dave Grohl joined in 1987, Scream was considered a legendary local DC hardcore group, having been active for approximately five years. "he became a fan of a local DC hardcore group called Scream. They were legends around town." ← https://www.youtube.com/watch?v=8ynrwaUi-sA ← scream
 **Mid-Tour Breakup (1990)** : In September 1990, the band Scream broke up abruptly in the middle of a tour when their bass player unexpectedly left due to "girlfriend problems." This sudden dissolution left drummer Dave Grohl stranded in Los Angeles and actively seeking a new musical engagement, which ultimately led to his joining Nirvana. "Dave Girl was part of a group called Scream, but they broke up in September 1990 right in the middle of a tour when the bass player bailed because of girlfriend problems." ← https://www.youtube.com/watch?v=1y2UuU-me_s ← scream ← scream
 **Underage Touring and Deception** : When Dave Grohl joined Scream at age 17, he was underage to play in bars, so he lied about his age, claiming to be 22, to be able to tour and perform legally. "Dave was just 17 at the time, which meant he was under age when he came to playing at bars. So he lied. He said he was 22." ← https://www.youtube.com/watch?v=8ynrwaUi-sA ← scream
-
-
-
-## charts
-**"Sunshine of Your Love" — Billboard Year-End Hot 100** : #6, 1968. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"White Room" — Billboard Year-End Hot 100** : #81, 1968. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-
-## lists
-**"Disraeli Gears" (1967) — 1001 Albums You Must Hear Before You Die** : #88, 7.0/10 Scaruffi.
-**"Disraeli Gears" (1967) — Scaruffi 1960s** : #103, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Wheels Of Fire" (1968) — Scaruffi 1960s** : #104, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

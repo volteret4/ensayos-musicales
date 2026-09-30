@@ -6,12 +6,9 @@
 ## genres
 - Thrash Metal
 
-## albums
-**Top 10 Albums in 2010s** : Megadeth, as one of the "Big Four" of Thrash Metal, released albums in the 2010s that reached the top 10 charts. While a Thrash Metal revival was noted with newer bands, none achieved the same commercial heights as the Big Four. "The other members of the so-called Big Four, Slayer, Megadeth and Anthrax also had albums that reached the top 10." ← https://www.youtube.com/watch?v=HSvgRyGiOpE ← megadeth
-
 ## songs
 **A Tout le Monde (1995)** : This French-language single was briefly broadcast on MTV before being banned due to concerns that it promoted suicide, a claim vehemently denied by band leader Dave Mustaine. More than a decade later, on September 13, 2006, Kimveer Gill quoted lyrics from this song in his suicide note after carrying out a shooting at Dawson College in Montreal. "In 1995, Megadeth released a single song in French called A Tudor Monde. He was shown on MTV once before being banned on the grounds that it promoted suicide, something that leader Dave Mustaine denied." ← https://www.youtube.com/watch?v=FtGJHhqXcDI ← megadeth
-**Anarchy in the UK (1998) - Cover Version** : Megadeth covered the Sex Pistols' "Anarchy in the UK" in 1998. During the recording, singer Dave Mustaine evidently did not fully comprehend some of Johnny Rotten's original lyrics, leading him to improvise and create new words for certain parts of the song. "singer Dave Mustain didn't quite understand all the words that Johnny was singing, so we made up a few new ones." ← https://www.youtube.com/watch?v=k9ok8M31-38 ← megadeth ← megadeth
+**Anarchy in the UK (1998)** : Megadeth covered the Sex Pistols' "Anarchy in the UK" in 1998. During the recording, singer Dave Mustaine evidently did not fully comprehend some of Johnny Rotten's original lyrics, leading him to improvise and create new words for certain parts of the song. "singer Dave Mustain didn't quite understand all the words that Johnny was singing, so we made up a few new ones." ← https://www.youtube.com/watch?v=k9ok8M31-38 ← megadeth ← megadeth
 **Set the World Aflame** : The lyrics Dave Mustaine scribbled on Senator Alan Cranston's political handbill during his Greyhound bus ride after being fired from Metallica eventually became the song "Set the World Aflame." "By the way, the lyrics to the song he scribbled on that hand bill eventually became the song called Set the World of Fire." ← https://www.youtube.com/watch?v=zUr9sjWgUcw ← megadeth ← megadeth
 
 ## curiosities
@@ -26,8 +23,6 @@
 **Roadies Becoming Full-time Members** : Megadeth, the thrash metal band, is noted for having two roadies who eventually transitioned to become full-time members of the group, demonstrating a pathway from crew to artist. "Two roadies eventually became full-time members of Megadev." ← https://www.youtube.com/watch?v=ZVGnSVfed9s ← megadeth ← megadeth
 **Self-Reflection on Firing** : Dave Mustaine eventually realized that his firing from Metallica was largely justified, acknowledging his past behavior as "physically reckless," unpredictable, and embarrassing to others due to excessive drinking. He expressed a wish for a warning or a chance to fix things, noting it took him another five years to get sober. "I had been physically reckless, and there had been a lot of pushing and shoving on my part with everybody in the band. I was very unpredictable. I embarrassed everyone around me." ← https://www.youtube.com/watch?v=zUr9sjWgUcw ← megadeth ← megadeth
 **Thrash Metal Pioneer** : Megadeth is listed as an example of a thrash metal band, representing the evolution of metal influenced by hardcore punk, resulting in a more aggressive and faster sound. "So I think Slayer, Motorhead, Megadeath, and Anthrax." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y ← megadeth
-
-
 
 ## awards
 **Genesis Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q135498

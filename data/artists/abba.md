@@ -1,15 +1,16 @@
 # artist - ABBA
 
 ## members
-- Benny Anderson
-- Bjorn Olvea
-- Frida
+- Agnetha Fältskog
+- Anni-Frid Lyngstad
+- Benny Andersson
+- Björn Ulvaeus
 
 ## genres
-- Disco (pre-era)
+- Disco
 - Pop
-- Rock (rejected)
-- Singer-songwriter (rejected)
+- Rock
+- Singer-songwriter
 
 ## concerts
 - American Bandstand (1975)
@@ -22,16 +23,17 @@
 
 ## albums
 **Super Trouper** : The album "Super Trouper" includes an unusual audio feature at its conclusion: an endless loop of applause embedded in the vinyl's run-out groove. This allowed the sound of applause to continue playing indefinitely for listeners. "Abba had an endless loop of applause at the end of Super Trooper." ← Ongoing History of New Music > Hidden Tracks and Other Sundry | https://www.youtube.com/watch?v=J_VEOIwavtg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**The Visitors (1981) - First Pop Album on CD** : Released in late 1981, this album by ABBA holds the distinction of being the first pop music album launched on the Compact Disc format. Its release marked an early, albeit slow, step for the CD into the pop music market. "en 1981 a finales de año tuvimos el primer disco lanzado en disco compacto que fue de Aba de Visitors." ← Music Radar Clan > ESPECIAL FORMATOS： El CD | https://www.youtube.com/watch?v=7iRO7Hwg9V0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
-**The Visitors (1982) - Possible First Commercially Available CD** : Some sources contend that ABBA's album "The Visitors" was one of the very first commercially available Compact Discs. These initial CDs for consumers rolled off the production line on August 17, 1982, in a factory outside Hanover, West Germany. "Others insist it was The Visitors by Ava." ← Ongoing History of New Music > The Ongoing History Book of Firsts | https://www.youtube.com/watch?v=gP3oQeYEvso&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**The Visitors (Year not specified)** : ABBA's album *The Visitors* was the first compact disc to be manufactured for public sale. This marked a significant milestone in the commercial launch and widespread availability of the CD format. "The first CD to be manufactured for public sale was The Visitors by Ava." ← Ongoing History of New Music > Music vs Technology Over The Years | https://www.youtube.com/watch?v=ak6OuOUkRrQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**The Visitors (1981)** : Released in late 1981, this album by ABBA holds the distinction of being the first pop music album launched on the Compact Disc format. Its release marked an early, albeit slow, step for the CD into the pop music market. "en 1981 a finales de año tuvimos el primer disco lanzado en disco compacto que fue de Aba de Visitors." ← Music Radar Clan > ESPECIAL FORMATOS： El CD | https://www.youtube.com/watch?v=7iRO7Hwg9V0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**The Visitors (1981)** : Some sources contend that ABBA's album "The Visitors" was one of the very first commercially available Compact Discs. These initial CDs for consumers rolled off the production line on August 17, 1982, in a factory outside Hanover, West Germany. "Others insist it was The Visitors by Ava." ← Ongoing History of New Music > The Ongoing History Book of Firsts | https://www.youtube.com/watch?v=gP3oQeYEvso&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**The Visitors (1981)** : ABBA's album *The Visitors* was the first compact disc to be manufactured for public sale. This marked a significant milestone in the commercial launch and widespread availability of the CD format. "The first CD to be manufactured for public sale was The Visitors by Ava." ← Ongoing History of New Music > Music vs Technology Over The Years | https://www.youtube.com/watch?v=ak6OuOUkRrQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## songs
 **Dancing Queen** : This song was inspired by George McCrae's "Rock Your Baby." "And it was an inspiration for Abba's dancing queen." ← For the Record - The 70s > Ep. 1 - Disco Doesn't Suck (Encore) | https://www.ftr70.com/blog/tag/70s+podcast
-**Dancing Queen (Year not specified)** : This song is provided as an example of uplifting music, which is suggested as beneficial for exercising happiness according to a study by the French streaming service Deezer. "Abbas dancing queen. That's an example of the sort of happy music we should appreciate." ← Ongoing History of New Music > More and More Medical Mysteries of Music | https://www.youtube.com/watch?v=1HMW9rGtJHI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Dancing Queen** : This song is provided as an example of uplifting music, which is suggested as beneficial for exercising happiness according to a study by the French streaming service Deezer. "Abbas dancing queen. That's an example of the sort of happy music we should appreciate." ← Ongoing History of New Music > More and More Medical Mysteries of Music | https://www.youtube.com/watch?v=1HMW9rGtJHI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Fernando (1976)** : ABBA performed "Fernando" during their second appearance on Dina Shore's talk show on November 26, 1976. "Abba performed two songs, Fernando, and the song that you that very well may have saved their pop music careers, Mamma Mia." ← For the Record - The 70s > Ep. 56 - Talk Shows of the 1970s | https://www.ftr70.com/
 **Mamma Mia (1975)** : This single was crucial in saving ABBA from one-hit wonder status, despite the band's initial reservations about its "too European" title. It was initially offered to the British pop group Brotherhood of Man, but they did not record it immediately, allowing ABBA to keep and release it, which led to their career taking off in Europe and Australia. ABBA performed "Mamma Mia" during their second appearance on Dina Shore's show on November 26, 1976. "What saved them from the one hit wonder fate was a single that they were not even sure that they wanted to release Mama Mia." ← For the Record - The 70s > Ep. 56 - Talk Shows of the 1970s | https://www.ftr70.com/
 **Waterloo (1974)** : ABBA won the 1974 Eurovision Contest with this song, but their subsequent singles failed to achieve similar success in Europe, causing them to nearly become a one-hit wonder. "The problem for Abba in Europe was that their follow up singles after they won Eurovision with Waterloo didn't really do very much." ← For the Record - The 70s > Ep. 56 - Talk Shows of the 1970s | https://www.ftr70.com/
+**Waterloo (1974)** : This "Immortal Smash" won the Eurovision Song Contest for Sweden in 1974, the same year Olivia Newton-John represented the UK and came in fourth. "1974 was the year ABBA won the contest for Sweden, with their Immortal Smash Waterloo." ← Hit Parade Music History and Music Trivia > Country Roads and Summer Nights Edition Part 1 | https://shows.acast.com/hit-parade/episodes/698fd3ebd6c27a06bb92e1f2
 
 ## curiosities
 **"Mamma Mia" as Career Catalyst** : The release of "Mamma Mia," a song they were initially hesitant to release due to its "too European" title and even offered to Brotherhood of Man, ultimately saved ABBA from becoming one-hit wonders and launched their career in Europe and Australia. "What saved them from the one hit wonder fate was a single that they were not even sure that they wanted to release Mama Mia." ← For the Record - The 70s > Ep. 56 - Talk Shows of the 1970s | https://www.ftr70.com/
@@ -47,10 +49,7 @@
 **Second Appearance on Dina (1976)** : ABBA made their second appearance on Dina Shore's talk show on November 26, 1976, where they performed two songs: "Fernando" and "Mamma Mia." "On their second appearance on Dina, on that November 26, 1976 episode, Abba performed two songs, Fernando, and the song that you that very well may have saved their pop music careers, Mamma Mia." ← For the Record - The 70s > Ep. 56 - Talk Shows of the 1970s | https://www.ftr70.com/
 **Struggling After Eurovision Victory** : After winning Eurovision with "Waterloo," ABBA faced difficulties with their follow-up singles in Europe, placing them on the verge of becoming a one-hit wonder before they had even gained recognition in the United States. "The problem for Abba in Europe was that their follow up singles after they won Eurovision with Waterloo didn't really do very much. They were on the verge of becoming the dreaded one hit wonders before anyone in the United States had really ever even heard of them." ← For the Record - The 70s > Ep. 56 - Talk Shows of the 1970s | https://www.ftr70.com/
 **US Market Strategy and Live Presence (1976)** : In October 1976, while in Los Angeles for TV tapings, Benny Anderson stated that ABBA did not need the U.S. market, being already huge in Europe and Australia. He described their efforts to make it in the U.S. as "more for the sport and the challenge," emphasizing that they had no interest in being an opening act and had virtually no live music presence in the United States, aside from a few cities on their 1976 world tour, with Seattle being the first. "Benny Anderson made it clear that Abba did not need the United States. They were already huge in Europe and Australia by that time. They had no interest in being an opening act because it was not worth the time and the money and they didn't have a big enough audience in the United States to justify it." ← For the Record - The 70s > Ep. 56 - Talk Shows of the 1970s | https://www.ftr70.com/
-**US Popularity through Television and Radio** : ABBA's popularity in the United States was primarily driven by television and radio exposure, as they had minimal live presence in the country. Most Americans first saw them on TV shows like "Saturday Night Live," "American Bandstand" in 1975, or their initial appearance on Dina Shore's show that same year. "Abba's popularity in the United States stems from television and radio. They had virtually no live music presence in the United States ever." ← For the Record - The 70s > Ep. 56 - Talk Shows of the 1970s | https://www.ftr70.com/
 **Unique Mid-70s Pop Vibe** : ABBA possessed a distinct European look and sound, setting them apart from other mid-70s pop groups. They were not categorized as rock or part of the singer-songwriter movement, and their rise occurred before the full advent of the disco era in 1974. "Abba had a different vibe from other pop groups of the mid 70s they were just European in their look in their sound they were not rock they were not part of the singer songwriter movement and we were not quite yet into the disco era in 1974." ← For the Record - The 70s > Ep. 56 - Talk Shows of the 1970s | https://www.ftr70.com/
-
-
 
 ## awards
 **First prize of the Eurovision Song Contest (1974)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q101421673

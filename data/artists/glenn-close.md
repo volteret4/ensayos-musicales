@@ -2,8 +2,7 @@
 
 ## curiosities
 **Golden Globe Nomination (2000s)** : Sinead O'Connor received a Golden Globe nomination for a song that was featured in a film starring Glenn Close. "Mary J. Blige, a Golden Globe nomination for a song in a Glenn Close film." ← https://www.youtube.com/watch?v=afuqjWl1JyI ← glenn-close ← glenn-close
-
-
+**Golden Globe Nomination (2000s)** : Sinead O'Connor received a Golden Globe nomination for a song that was featured in a film starring Glenn Close. "Mary J. Blige, a Golden Globe nomination for a song in a Glenn Close film." ← https://www.youtube.com/watch?v=afuqjWl1JyI ← glenn-close
 
 ## awards
 **Drama Desk Award for Outstanding Actress in a Musical** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5305703
@@ -29,7 +28,3 @@
 **Academy Award for Best Actress (2019) — The Wife** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q103618
 **Academy Award for Best Supporting Actress (2021) — Hillbilly Elegy** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q106301
 **Fellow of the American Academy of Arts and Sciences (2022)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q52382875
-
-## charts
-**"Steal My Sunshine" — Billboard Year-End Hot 100** : #78, 1999. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**""Steal My Sunshine" ‡" — UK Singles Chart** : #3, 2000. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart

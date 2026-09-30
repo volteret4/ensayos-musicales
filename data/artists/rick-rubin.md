@@ -1,5 +1,8 @@
 # artist - Rick Rubin
 
+## member of
+- Beastie Boys
+
 ## curiosities
 **Absence from "Check Your Head" Production** : Rick Rubin, a significant figure in the Beastie Boys' early career, was not present to "guide things" during the recording of *Check Your Head*, which meant the band operated with minimal external supervision. "Rick Rubin wasn't there to guide things." ← https://www.youtube.com/watch?v=HZzP0qswdwM ← rick-rubin ← rick-rubin
 **Commercial Vision as a Producer** : Rick Rubin is highlighted for his exceptional commercial vision in production. He possesses a deep understanding of what the audience desires and "will devour," identifying preferences for specific elements such as choruses, tempos, rhythmic basslines, and ideal song durations, often suggesting that a song should not exceed five minutes. His expertise lies in transforming an artist's creative concepts into a finished product specifically adapted to public taste. "En Rick Craving es el hombre que sabe, por ejemplo, a la gente le gustan ese tipo de coros, a la gente le gustan ese tipo de tiempos, a la gente le gustan ese tipo de vaso-rismicas, a la gente le gusta que la canción no dura más de cinco minutos." ← Music Radar Clan > Qué hace un PRODUCTOR musical | https://www.youtube.com/watch?v=N9FPJIyvcBo&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← rick-rubin ← rick-rubin
@@ -9,4 +12,3 @@
 **Ranked Below Joe Meek by NME** : In 2014, the English magazine NME (New Musical Express) declared Joe Meek the most important producer of all time. This significant ranking positioned Meek above prominent contemporary producers like Rick Rubin. "Por encima de Phil Spector, Gwen Cillons, George Martin o Rick Rubin." ← El productor que escuchó el nuevo mundo. Joe Meek. | https://www.youtube.com/watch?v=GEI5dpG5pxQ
 **Suggested Meditation to Rivers Cuomo** : Producer Rick Rubin suggested Vipassanā meditation to Rivers Cuomo around 2003, when Weezer was working on the Red Album. Rivers initially resisted but eventually found it beneficial for his creativity and well-being. "It was producer Rick Rubin, who first suggested this in about 2003 when Weezer was working on the red album." ← https://www.youtube.com/watch?v=LYRPxtP61JM ← rick-rubin
 **TR-808 Production for Beastie Boys** : As producer for the Beastie Boys' first album, Rick Rubin utilized the Roland TR-808, notably "fattening up" its sound and laying it underneath songs to achieve their distinctive sound. "Producer Rick Rubin fattened up the sound and laid it underneath songs like this." ← https://www.youtube.com/watch?v=dablAKDOOV0 ← rick-rubin ← rick-rubin
-

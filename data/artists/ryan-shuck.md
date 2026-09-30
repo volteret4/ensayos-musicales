@@ -1,5 +1,4 @@
 # artist - Ryan Shuck
 
 ## member of
-- Chester Bennington
-
+- Dead by Sunrise

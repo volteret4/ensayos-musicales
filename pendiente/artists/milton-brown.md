@@ -14,4 +14,3 @@
 
 ## curiosities
 **Co-Creator of Western Music** : Milton Brown was an early musical partner of Bob Wills and is recognized as one of the key figures who helped create Western music. "Milton Brown, who had been an early musical partner of Bob Wells, and one of the people who helped create Western music." ← Episode 54： Keep A Knockin | https://www.youtube.com/watch?v=oA4Y_K9E5Y4
-

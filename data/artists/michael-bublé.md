@@ -3,8 +3,6 @@
 ## albums
 **Christmas (2011)** : This album has achieved immense commercial success, selling 12 million copies since its 2011 release and becoming a staple on all-Christmas radio stations. It represents the biggest success of his career. "Michael Bubley in 2011, he released a Christmas album that is since sold 12 million copies." ← https://www.youtube.com/watch?v=nYPGQiDL5bw ← michael-bublé
 
-
-
 ## awards
 **Grammy Award for Best Traditional Pop Vocal Album** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q280481
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

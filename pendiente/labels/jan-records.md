@@ -5,5 +5,4 @@
 
 ## artists
 - Gene Vincent
-- Tom Flieger
 

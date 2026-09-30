@@ -1,12 +1,12 @@
 # artist - Norman Petty
 
 ## genres
-- Jazz (early career)
+- Jazz
 - Rock and Roll
 
 ## instruments
 - Echo Chamber
-- Keyboards (sometimes played by his wife)
+- Keyboards
 
 ## curiosities
 **Assuming "That'll Be the Day" was a Demo (1957)** : When Norman Petty shopped the recordings for "That'll Be the Day" to different labels, he initially assumed they were merely demos, but Bob Thiele of Brunswick Records believed the tracks were already polished enough for immediate release. "Norman Petty had assumed that what they'd recorded so far was just going to be a demo, but Thiel said that no, he thought what they had was fine as it was, and put this out." ← Episode Sixty-One： ＂That'll Be the Day＂, by the Crickets | https://www.youtube.com/watch?v=KVJMKLc54O0
@@ -25,4 +25,3 @@
 **Producer and Manager (Year not specified)** : Norman Petty served as the producer for Buddy Holly and The Crickets, and later became their manager. His wife sometimes contributed by adding keyboards to their recordings. "producer Norman Petty and his wife, sometimes adding keyboards." ← Episode 74： ＂It Doesn't Matter Any More＂ by Buddy Holly | https://www.youtube.com/watch?v=6unib5T2mDQ
 **Producing a Number 1 Hit** : Petty recorded another rockabilly group, Buddy Knox and the Rhythm Orchids, on their song "Party Doll," which went to number 1, solidifying his reputation as a successful rockabilly producer. "Petty recorded another rockabilly group, Buddy Knox and the Vithermorkids, on a song, Petty style that went to number 1." ← Episode Sixty-One： ＂That'll Be the Day＂, by the Crickets | https://www.youtube.com/watch?v=KVJMKLc54O0
 **Recording Studio Business Model** : Petty established a recording studio business where he charged bands $60 to record two songs. However, if he deemed the songs commercially viable, he would waive the fee in exchange for publishing rights and a co-writing credit. "He'd gone into the recording studio business, and charged bands $60 to record two songs in his studio, or if he thought the songs had commercial potential, he'd waive the charge if they gave him the publishing and a co-writing credit." ← Episode Sixty-One： ＂That'll Be the Day＂, by the Crickets | https://www.youtube.com/watch?v=KVJMKLc54O0
-

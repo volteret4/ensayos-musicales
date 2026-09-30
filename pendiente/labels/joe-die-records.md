@@ -5,7 +5,6 @@
 
 ## artists
 - Bob Marley
-- Danny Sims
 - Johnny Nash
 - The Wailers
 

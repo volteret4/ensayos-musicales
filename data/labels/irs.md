@@ -6,5 +6,4 @@
 
 ## artists
 - R.E.M.
-- REM
 

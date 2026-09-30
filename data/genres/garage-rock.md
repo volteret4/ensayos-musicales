@@ -30,25 +30,23 @@
 - ? and the Mysterians
 - Banshee
 - Bass Drum of Death
-- Chad Allen and the Expressions
+- Chad Allan & the Expressions
 - Count Five
-- International Noise Conspiracy
-- JET
-- Jay Reatar
+- The International Noise Conspiracy
 - Jet
+- Jay Reatard
 - Joe Strummer
-- Joey D and the Starlighters
+- Joey Dee and the Starliters
 - L7
 - PUP
-- Question Mark in the Mysterians
-- The 5.6.7.8's
+- Question Mark and the Mysterians
 - The 5678's
 - The Barbarians
 - The Black Keys
 - The Black Lips
-- The Brian Jones Town Massacre
+- The Brian Jonestown Massacre
 - The Clash
-- The Datsons
+- The Datsuns
 - The Feminine Complex
 - The Guess Who
 - The Hives
@@ -56,15 +54,14 @@
 - The Jesus and Mary Chain
 - The Kingsmen
 - The Kinks
-- The Liberty's
+- The Libertines
 - The Monks
 - The Poppers
 - The Pretty Things
-- The Ramones
+- Ramones
 - The Rolling Stones
 - The Seeds
 - The Shaggs
-- The Shags
 - The Standells
 - The Strangeloves
 - The Strokes
@@ -72,11 +69,10 @@
 - The Trashmen
 - The Troggs
 - The Vines
-- The Von Bondis
+- The Von Bondies
 - The White Stripes
 - The Who
-- Ty Seagull
 - Ty Segall
 - Wavves
-- Ye-Eyes
+- Yeah Yeah Yeahs
 

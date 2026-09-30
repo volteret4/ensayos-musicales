@@ -13,8 +13,8 @@
 
 ## artists
 - Billy Talent
-- Manfred Mann (band)
-- Manfred Mann (person)
+- Manfred Mann
+- Manfred Mann (músico)
 - Orchestral Manoeuvres in the Dark
 - Pink Floyd
 

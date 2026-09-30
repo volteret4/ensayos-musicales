@@ -10,3 +10,6 @@
 **/*.mp3
 __pycache__/
 .pyenv/
+backups/
+.limpieza_tmp/
+limpio/

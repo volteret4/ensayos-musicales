@@ -9,8 +9,6 @@
 **Satanic Persona** : King Diamond, a Danish singer, is known for his rather satanic and evil persona, claiming to subscribe to the Satanism espoused by Anton LaVey. "Again, rather satanic and evil. In fact, he claims to subscribe to the Satanism espoused by Anton Leve." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← king-diamond
 **Stolen Human Skull Prop "Melissa"** : King Diamond famously used a human skull named Melissa as a prop, which was stolen after a gig in Holland and has never been recovered. "He has a human skull named Melissa, but Melissa was stolen after a gig in Holland. She's never been found." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← king-diamond
 
-
-
 ## awards
 **Statens Kunstfonds hædersydelse** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q18123892
 

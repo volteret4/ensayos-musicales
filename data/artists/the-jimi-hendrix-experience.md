@@ -8,8 +8,6 @@
 **Early English Chart Success** : The Jimi Hendrix Experience achieved early success in England, securing "a couple of top 10 hits" before embarking on a U.S. tour with The Monkees. "And it happened and the Jimmy Hendrix experiences the thing with the group and they've had a couple of top 10 hits in England." ← https://www.youtube.com/watch?v=8q2bRZyHnHE ← the-jimi-hendrix-experience
 **Joining The Monkees US Tour** : The Jimi Hendrix Experience joined The Monkees concert tour of the U.S. starting July 29, shortly after the tour had begun. This collaboration was promoted by Kina. "Now when Kina brings you the monkeys into the trite, July 29th, the Jimmy Hendrix experience will be with the monkeys." ← https://www.youtube.com/watch?v=8q2bRZyHnHE ← the-jimi-hendrix-experience
 
-
-
 ## awards
 **Rock and Roll Hall of Fame (1992)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
 

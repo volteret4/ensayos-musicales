@@ -6,10 +6,9 @@
 **West Coast Emergence** : Surf Rock developed on the American West Coast, becoming a significant musical trend in certain circles within Southern California. It was largely pioneered by Dick Dale and the Deltones and initially began as an instrumental genre. "For example, on the American West Coast, something that became known as Surf Rock popped up." ← https://www.youtube.com/watch?v=UpWz3X33vSY ← surf-rock
 
 ## artists
-- Dick Dale and the Deltones
+- Dick Dale and His Del-Tones
 - Duane Eddy
 - Paul Revere and The Raiders
-- The 5.6.7.8's
 - The 5678's
 - The Beach Boys
-
+- Blondie

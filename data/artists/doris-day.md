@@ -1,10 +1,8 @@
 # artist - Doris Day
 
 ## songs
-**"Song from 1949" (covered)** : Doris Day covered a hit song from 1949, originally written by Carl Sigmund and Herb Madison and recorded by Guy Lombardo and Canadians in 1950. The song's widespread success prompted various artists, including Day, to record their own versions. "became such a big hit that it was covered by Bing Crosby in Doris Day." ← https://www.youtube.com/watch?v=zNIVqKqAlnk ← doris-day
 **Que Sera, Sera (1956)** : This song by Doris Day achieved greater worldwide chart success in 1956 than any rock and roll hit, including Fats Domino's "Blueberry Hill" and Elvis Presley's "Hound Dog" and "Heartbreak Hotel." Its popularity underscored the continued appeal of gentler pop music to a significant segment of the record-buying public. "Though none of those songs could beat K-Sirah Srirah by Doris Day." ← Episode 45： ＂Blueberry Hill＂, by Fats Domino | https://www.youtube.com/watch?v=VqIwZGJHgBg
-
-
+**"Song from 1949"** : Doris Day covered a hit song from 1949, originally written by Carl Sigmund and Herb Madison and recorded by Guy Lombardo and Canadians in 1950. The song's widespread success prompted various artists, including Day, to record their own versions. "became such a big hit that it was covered by Bing Crosby in Doris Day." ← https://www.youtube.com/watch?v=zNIVqKqAlnk ← doris-day
 
 ## awards
 **Grammy Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q41254

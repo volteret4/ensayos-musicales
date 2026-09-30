@@ -7,5 +7,5 @@
 **Launched Major Music Careers** : The show was instrumental in launching the careers of several notable artists, including Pat Boone, Margaret, and Gladys Knight. "The show launched the careers of Pat Boone and Margaret in Gladys Knight among others." ← Episode 44： ＂Train Kept A-Rollin'＂, by Johnny Burnette and the Rock 'n' Roll Trio | https://www.youtube.com/watch?v=u3zYAJ2qeR4
 
 ## artists
-- The Rock and Roll Trio
+- Johnny Burnette and the Rock and Roll Trio
 

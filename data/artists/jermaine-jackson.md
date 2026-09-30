@@ -1,9 +1,7 @@
 # artist - Jermaine Jackson
 
 ## member of
-- The Jackson Five
-
-
+- The Jackson 5
 
 ## awards
 **Order of the Republic of The Gambia** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1670454

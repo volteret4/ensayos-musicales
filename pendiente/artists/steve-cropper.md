@@ -1,13 +1,8 @@
 # artist - Steve Cropper
 
-## members
-- Charles Axton (tenor sax)
-- Don Nix
-- Doug Dunn (bass)
-- Smoochie Smith (keyboards)
-- Steve Cropper (guitar)
-- Terry Johnson
-- Wayne Jackson (trumpet)
+## member of
+- Booker T. & the M.G.'s
+- The Mar-Keys
 
 ## labels
 - Stax Records
@@ -27,4 +22,3 @@
 **Songwriting Credits** : Steve Cropper co-wrote several influential soul classics, including "In the Midnight Hour," "Dock of the Bay," and "Knock on Wood," showcasing his significant talent as a songwriter for Stax. "even the man who co-wrote in the midnight hour, Doc of the Bay, and Knock on Ward, had his off days." ← Episode 105： ＂Green Onions＂ by Booker T.and the MGs | https://www.youtube.com/watch?v=cw6xJG8E_w0
 **Studio and Record Shop Contributions** : Cropper assisted in refurbishing the cinema into the Stax recording studio and worked in Estelle Axton's record shop, often helping behind the counter. This dual role made him readily available for studio sessions. "Cropper and Charles Axton helped with the refurbishing of the cinema into a recording studio." ← Episode 105： ＂Green Onions＂ by Booker T.and the MGs | https://www.youtube.com/watch?v=cw6xJG8E_w0
 **Unsuccessful Country Production** : Steve Cropper produced "The Three Dogwoods" by Nick Charles, a novelty country song told from the perspective of the tree used for Jesus's crucifixion. This record was a commercial failure, demonstrating that even prolific songwriters like Cropper had "off days." "That was Covid and by Cropper, which shows that even the man who co-wrote in the midnight hour, Doc of the Bay, and Knock on Ward, had his off days." ← Episode 105： ＂Green Onions＂ by Booker T.and the MGs | https://www.youtube.com/watch?v=cw6xJG8E_w0
-

@@ -6,9 +6,3 @@
 ## curiosities
 **Influence on Matt Helders' Drumming** : The D4, specifically the style of their drummer Daniel Pooley, combined with Matt Helders' early exposure to dance and hip hop, is cited as an explanation for Matt Helders' distinctive drumming style in the Arctic Monkeys. ← https://www.youtube.com/watch?v=YvcnHKI4oIw ← the-d4
 **New Zealand Origin** : The D4 is a band from New Zealand. ← https://www.youtube.com/watch?v=YvcnHKI4oIw ← the-d4
-
-
-
-## charts
-**"Alabama Shakes" — UK Vinyl Albums Chart** : entrada.
-**"Ryan Adams" — UK Vinyl Singles Chart** : entrada.

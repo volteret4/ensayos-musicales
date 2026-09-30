@@ -19,7 +19,5 @@
 **Financial Rescue via Licensing** : Accepting the $18,000 deal to license "Strawberry Fire" for a Sony TV commercial ultimately rescued The Apples in Stereo from a very difficult financial situation, proving to be a pivotal moment for the indie band. ← https://www.youtube.com/watch?v=sfie4YYncxk ← the-apples-in-stereo
 **Sony TV Ad Offer** : During their financial crisis in 1999, Robert Schneider and Hillary Sydney received a call from a friend at the ad agency Young and Rubikam in New York. The agency was working on a campaign for Sony televisions and wanted to use their song "Strawberry Fire," offering $18,000 for the license. ← https://www.youtube.com/watch?v=sfie4YYncxk ← the-apples-in-stereo
 
-
-
 ## lists
 **"Tone Soul Evolution" (1997) — Scaruffi 1990s** : #412, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

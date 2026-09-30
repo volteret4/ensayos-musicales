@@ -7,8 +7,8 @@
 ## artists
 - Bob Wills
 - Bob Wills and His Texas Playboys
-- Eddie Arnold
+- Eddy Arnold
 - Jack Guthrie
 - Milton Brown
 - The Light Crust Doughboys
-
+- Beyoncé

@@ -1,5 +1,4 @@
-# artist - Kevin Dubrow
+# artist - Kevin DuBrow
 
 ## member of
 - Quiet Riot
-

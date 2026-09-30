@@ -6,8 +6,7 @@
 
 ## curiosities
 **Signature Look** : Buckethead is a guitarist distinctive for wearing a KFC bucket on his head combined with a plain, white, expressionless mask. "There's Buckethead, the guitarist who wears a KFC bucket on his head with a plain, white, expressionless mask." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← buckethead ← buckethead
-
-
+**Signature Look** : Buckethead is a guitarist distinctive for wearing a KFC bucket on his head combined with a plain, white, expressionless mask. "There's Buckethead, the guitarist who wears a KFC bucket on his head with a plain, white, expressionless mask." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← buckethead
 
 ## lists
 **"Day Of The Robot" (1996) — Scaruffi 1990s** : #498, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

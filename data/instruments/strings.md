@@ -9,7 +9,7 @@
 
 ## artists
 - Charlie Rich
-- Dead Grips
-- Glenn Campbell
+- Death Grips
+- Glen Campbell
 - U2
 

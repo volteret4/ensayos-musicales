@@ -19,18 +19,22 @@
 **Sex Pistols Signing Incident – March 10, 1977** : The Sex Pistols signed their record deal with A&M Records outside Buckingham Palace on March 10, 1977. This event was a significant moment in the band's history before their notoriously brief and tumultuous career. "Sid really got into being a sex pistol. He was there when the pistol signed their record deal with A&M records outside of Buckingham Palace in March 10th, 1977." ← https://www.youtube.com/watch?v=OcylgiXkDP8 ← am-records
 **Sex Pistols' Brief Contract** : A&M Records signed the Sex Pistols to a contract, but this agreement lasted a mere five days before the band was once again paid to leave. This reflected the band's contentious reputation and the labels' reluctance to manage them. ← https://www.youtube.com/watch?v=PzyvXmDKFUc ← am-records
 **Signed Joe Jackson** : In the summer of 1978, American producer David Kirchenbaum successfully signed Joe Jackson to A&M Records. "the American producer David Kirchenbaum got Joe Jackson signed to Andem Records." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**Storied Imprint** : A&M Records is a "storied imprint" famously co-founded by Herb Alpert and Jerry Moss. Soundgarden signed with this major label in 1989, marking their transition from independent labels. "A&M Records, the storied imprint founded by Herb Alpert and Jerry Moss." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Police Signing and Releases** : Miles Copeland secured The Police a signing with American label A&M Records based on the strength of "Roxanne." A&M later released "Can't Stand Losing You" in England when "Roxanne" was banned, and eventually re-released "Roxanne" in the UK following its US breakthrough. "On the strength of Roxanne alone, Miles got the band signed to American label A&M Records." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
+**Insistence on Publishing Credit for Sting (1985)** : When A&M Records learned that Sting had not only guest vocalized on Dire Straits' "Money for Nothing" but that the song also interpolated the melody of a Police hit ("Don't Stand So Close To Me"), they insisted that Sting be added to the song's publishing credits. "However, when And M records got word not only that Sting was a guest on Money for Nothing, but that the Dire Straits song interpolated the melody of a police hit. They insisted that Sting be added to the song's publishing credits." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef30c30a1408dc2922b
+**Promoting "Don't You Want Me" in the US** : The Human League's US label, A&M Records, "pushed the single hard at radio" after record executives noticed spikes in sales in US towns with MTV. This effort helped "Don't You Want Me" finally enter the Hot 100 in March 1982 and reach number one. "The human leagues US label, A&M Records, pushed the single hard at radio, and it finally entered the hot 100 in March of 1982." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
 
 ## artists
 - Captain Beefheart
 - Chris Cornell
 - Gino Vannelli
 - Herb Alpert
-- Human League
+- The Human League
 - Joe Jackson
-- OMD
 - Orchestral Manoeuvres in the Dark
 - Sex Pistols
 - Soundgarden
 - The Carpenters
 - The Police
-
+- Sting
+- Dire Straits

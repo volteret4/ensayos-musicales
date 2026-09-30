@@ -17,9 +17,3 @@
 **Bras Thrown On Stage (2012)** : During the 2012 Warped Tour, which featured 41 shows in 51 days, a remarkable 492 bras were thrown onto the stage during All Time Low's performances. "one of the weirdest stats I was able to find was that during the 2012 tour, which featured 41 shows in 51 days, exactly 492 bras were thrown on stage during all time lows sets." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← all-time-low
 **Multiple Warped Tour Appearances** : All Time Low is a frequent performer on the Warped Tour, having signed up to play at least half a dozen times. "They are a multiple Warped Tour performer. They signed up at least half a dozen times." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← all-time-low
 **New Generation Band** : All Time Low is mentioned as part of the "new generation of pop punk bands" that began to appear after 2010. "all time low." ← https://www.youtube.com/watch?v=pE7TaWSUa-o ← all-time-low
-
-
-
-## charts
-**"Jungle Love" — Billboard Year-End Hot 100** : #91, 1985. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Jerk Out" — Billboard Year-End Hot 100** : #93, 1990. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

@@ -14,6 +14,5 @@
 - Jamiroquai
 - Kendrick Lamar
 - Michael Jackson
-- Rage Against The Machine
 - Rage Against the Machine
 

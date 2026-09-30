@@ -16,7 +16,7 @@
 ## artists
 - Big Boys
 - Fidlar
-- NoFX
+- NOFX
 - Pennywise
 - The Offspring
 

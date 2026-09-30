@@ -5,5 +5,5 @@
 **Sonic Youth Headlining Appearance** : Sonic Youth performed as headliners at the Lollapalooza festival in 1995, highlighting their prominent position in the music scene. "They even hit line Lollapalooza in 1995." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← lollapalooza-1995 ← lollapalooza-1995
 
 ## artists
-- Sinead O'Connor
+- Sinéad O'Connor
 

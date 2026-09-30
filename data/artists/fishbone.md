@@ -21,9 +21,8 @@
 - Vans Warped Tour (1996)
 
 ## albums
-**Early 90s Festival Performances** : By the early 1990s, Fishbone was performing on the main stage of Lollapalooza, demonstrating their growing prominence within the alternative music scene. "And in a few years they'd be performing on the main stage of Lola Puluso." ← https://www.youtube.com/watch?v=WX2GlpMNg_8 ← fishbone ← fishbone
 **Truth and Soul (1988)** : This second album by Fishbone is recommended for listeners unfamiliar with the band, featuring songs like "Ma and Pa." The band became a significant part of the West Coast alternative scene by 1988, bridging the second wave of Ska with the upcoming third wave. "If you're unfamiliar with Fishbone, dig into their second album Truth and Soul, which featured songs like this. It's Ma and Pa." ← https://www.youtube.com/watch?v=WX2GlpMNg_8 ← fishbone ← fishbone
-**Truth and Soul (1988) – Second Album** : This was Fishbone's second album, released in 1988, marking a period of their best years. "Here's something from their second album Truth and Soul, which came out in 1988." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← fishbone
+**Truth and Soul (1988)** : This was Fishbone's second album, released in 1988, marking a period of their best years. "Here's something from their second album Truth and Soul, which came out in 1988." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← fishbone
 
 ## songs
 **Ma and Pa (1988)** : This song is featured on Fishbone's second album, "Truth and Soul," released in 1988. "This is Fishbone with Ma and Pa." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← fishbone
@@ -38,12 +37,9 @@
 **Influenced Notable Bands** : Fishbone holds a fanatical following and is cited as an important influence by a long list of bands, including Sublime, 311, Goldfinger, Rage Against the Machine, and Faith No More. "No doubt. Sublime. 311. Goldfinger. Rage Against The Machine. Faith No More." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← fishbone
 **Member Joining Religious Cult** : One member of Fishbone quit the band to join a religious cult, and another member who attempted to extract him from the cult was subsequently charged with attempted kidnapping. "One member quit to join a religious cult, and when another member tried to break him out, that guy was charged with attempted kidnapping." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← fishbone
 **Peak Years (1988-1994)** : The band's most commercially and critically successful period was between 1988 and 1994, after which their career encountered various difficulties. "Fishbone's best years were from 1988 to about 1994, and then things got kind of weird." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← fishbone
-**Philadelphia Lawsuit ($1.4 Million)** : The band faced a lawsuit from a woman in Philadelphia, who successfully sued them for $1.4 million after one of the members "staged a Dove on Top of Her," contributing to their personnel and record company issues. "They had record company issues, and they were sued by a woman in Philadelphia after one of the members staged a Dove on Top of Her. That was good for $1.4 million." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← fishbone
 **Pioneers of Genre Blending (1979)** : Fishbone formed in 1979 in South Central LA with four black members, becoming highly important for blending punk and funk, along with ska, hard rock, soul, and elements of hip hop and rap. "They were formed in 1979, four black guys from South Central LA. Their stuff was socially conscious, anti-racist, clever, witty, and basically a lot of fun." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← fishbone
 **Socially Conscious and Anti-Racist Message** : Their music was characterized by socially conscious, anti-racist, clever, and witty lyrics, contributing to their unique and fun sound. "Their stuff was socially conscious, anti-racist, clever, witty, and basically a lot of fun." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← fishbone
 **Touring with Beastie Boys and Lollapalooza 1993** : Fishbone opened for the Beastie Boys on tour and was a main stage performer at the 1993 Lollapalooza tour, showcasing their widespread recognition. "the Beastie Boys would tag fishbone to open one of their tours, and they were one of the main stage performers on the 1993 La Lava Pulusa tour." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← fishbone
-
-
 
 ## lists
 **"Truth and Soul" (1988) — 1001 Albums You Must Hear Before You Die** : #612.

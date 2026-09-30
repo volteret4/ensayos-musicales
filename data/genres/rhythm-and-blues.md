@@ -19,6 +19,7 @@
 **Saxophone Solo Definition** : Illinois Jacket's tenor saxophone solo on Lionel Hampton's 1942 recording of "Flying Home" introduced a "hunk and scrunk" sound that was unlike anything heard before and became the defining solo for the entire rhythm and blues genre. This solo was so impactful that successive sax players in Hampton's band copied it precisely. "this saxophone solo became the one that defined a whole new genre, a genre called rhythm and blues." ← Episode 1： ＂Flying Home＂, Benny Goodman, Charlie Christian, and Lionel Hampton | https://www.youtube.com/watch?v=RmfeJYl84Qs
 **Saxophone's Role** : The saxophone, a prominent instrument in rhythm and blues, derived its influential role from swing music. Saxophone solos in R&B, such as those found in "Shake, Rattle and Roll," can trace their progenitor to powerful swing solos like Illinois Jacquet's on "Flying Home." "There's the obvious one of the saxophone. That's from rhythm and blues, and it's something that rhythm and blues got from swing." ← Episode 2： ＂Roll Em Pete＂ by Big Joe Turner | https://www.youtube.com/watch?v=thpMb1A_fAs
 **Wilko Johnson's British R&B Legacy** : Wilko Johnson is hailed as a legendary figure in British R&B, offering a valued contribution of old-school rhythm and blues with his new music after a significant health recovery. "yo creo que son las de esas viejas leyendas del ritman blues que nos quedan viva, sobre todo al ritman blues británico, americano, entonces es muy de agradecer tener un disco de estos de ritman blues de la vieja escuela de alguien de estos tan mayores." ← Music Radar Clan > LANZAMIENTOS JUNIO 2018 | https://www.youtube.com/watch?v=AvdFC5Q0nKk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← rhythm-and-blues ← rhythm-and-blues
+**Pivoting Away from R&B in Early 80s** : In the immediate aftermath of the 1979 disco backlash, the hit parade in the first few years of the 1980s "pivoted toward light balladry, country crossover, and yacht rock," effectively moving away from music perceived as "to dance oriented or black derived," which included much R&B. "But a backlash to the culture of disco turned the charts away from anything perceived as to dance oriented or black derived." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
 
 ## artists
 - Aretha Franklin
@@ -38,4 +39,4 @@
 - The Dave Hunt Rhythm and Blues band
 - Wilko Johnson
 - Wynonie Harris
-
+- Tina Turner

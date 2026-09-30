@@ -6,11 +6,14 @@
 ## concerts
 - Cotton Club
 
+## instruments
+- Piano
+
 ## albums
-**Mood Indigo (Late 1940s)** : Norman Petty had a minor hit with his version of Duke Ellington's "Mood Indigo," showcasing his early musical career as a performer before he transitioned into the recording studio business. "One of his singles, a version of Duke Ellington's mood indigo, had actually been a minor hit." ← Episode Sixty-One： ＂That'll Be the Day＂, by the Crickets | https://www.youtube.com/watch?v=KVJMKLc54O0
+**Mood Indigo** : Norman Petty had a minor hit with his version of Duke Ellington's "Mood Indigo," showcasing his early musical career as a performer before he transitioned into the recording studio business. "One of his singles, a version of Duke Ellington's mood indigo, had actually been a minor hit." ← Episode Sixty-One： ＂That'll Be the Day＂, by the Crickets | https://www.youtube.com/watch?v=KVJMKLc54O0
 
 ## songs
-**Melancholia (Year Unknown)** : This composition by Duke Ellington served as the basis for a song Norah Jones wrote lyrics for, titled "I Don't Miss You at All." She was inspired to write lyrics after hearing her boyfriend play the beautiful album containing the song and subsequently secured permission to record her lyrical version. "It's so interesting that you wrote the lyrics over it's a Duke Ellington composition. And you wrote the lyrics." ← Hit Parade Music History and Music Trivia > Introducing Broken Record - Norah Jones Begins Again | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cbc
+**Melancholia** : This composition by Duke Ellington served as the basis for a song Norah Jones wrote lyrics for, titled "I Don't Miss You at All." She was inspired to write lyrics after hearing her boyfriend play the beautiful album containing the song and subsequently secured permission to record her lyrical version. "It's so interesting that you wrote the lyrics over it's a Duke Ellington composition. And you wrote the lyrics." ← Hit Parade Music History and Music Trivia > Introducing Broken Record - Norah Jones Begins Again | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cbc
 
 ## curiosities
 **Battle of the Bands Poster** : In 1950, Barry Gordy Jr. saw a poster advertising a battle of the bands between Duke Ellington and Stan Kenton, which, juxtaposed with a boxing fight poster, influenced his decision to pursue music over boxing. "One of them, on top, was advertising a battle of the bands between Stan Kenton and Duke Ellington." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
@@ -21,8 +24,8 @@
 **Personal Friend of Sy Kravitz** : Duke Ellington was listed among the personal friends of Sy Kravitz, Lenny Kravitz's father, who was a jazz promoter. "And a sometimes jazz promoter who listed Elefits Gerald, Miles Davis, and Duke Ellington as personal friends." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← duke-ellington
 **Stereotypical Presentation** : Despite being a highly sophisticated musician, Ellington was presented at the Cotton Club as a "jungle musician" to cater to white audiences and black stereotypes. "Even Duke Ellington, possibly the most sophisticated musician ever to come out of the United States, had been presented as a jungle musician." ← Episode 5： ＂This Train＂ by Sister Rosetta Tharpe | https://www.youtube.com/watch?v=II-hDnwUgT8
 **Unrehearsed Performance with Basie's Band** : During the Basie/Webb cutting contest, Duke Ellington was persuaded to perform an unrehearsed piano solo, with Count Basie's band spontaneously joining in, highlighting the caliber of musicians present. "Oh, and they persuaded Duke Allington to come up and play a piano solo, and then all the band joined in with him, unrehearsed and unfomtered." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
-
-
+**UK Tour and Union Ban (1933)** : The Duke Ellington band toured the UK in 1933. This tour led to the implementation of a mutual protectionist agreement between the American Federation of Musicians and their British counterpart, the Musicians Union, which subsequently prevented musicians from one country from playing in the other for decades. "After the Duke Arlington band toured the UK in 1933, the band came into place on both sides." ← REUPLOAD Episode 71： ＂Willie and the Hand Jive＂ by Johnny Otis | https://www.youtube.com/watch?v=Ez6BCUlI6Rg
+**Instrumentalist Leader** : Duke Ellington, the leader of the Duke Ellington Orchestra, was an instrumentalist (specifically, he played the piano) rather than a singer, indicative of the big band era's emphasis on the bandleader's instrumental talent. "the Duke-Gallingsen Orchestra... All of the leaders of the big bands were instrumentalists. They played clarinet, or trombone, or piano. They didn't sing." ← Episode 50： ＂Honky Tonk＂, by Bill Doggett | https://www.youtube.com/watch?v=H2rYnKmeZF0
 
 ## awards
 **Fellow of the American Academy of Arts and Sciences** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q52382875

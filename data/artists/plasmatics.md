@@ -1,8 +1,7 @@
 # artist - Plasmatics
 
 ## members
-- Rod Swenson
-- Wendy O'Williams
+- Wendy O. Williams
 
 ## genres
 - Metal
@@ -12,7 +11,7 @@
 - CBGB
 
 ## albums
-**WOW (1984) - Wendy O'Williams Solo Album** : Wendy O'Williams' solo album, which was produced by Gene Simmons of KISS. "Here's Wendy O'Williams in her silhouette, WOW from 1984, and by the way, this was produced by Gene Simmons of Kiss." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← plasmatics
+**WOW (1984)** : Wendy O'Williams' solo album, which was produced by Gene Simmons of KISS. "Here's Wendy O'Williams in her silhouette, WOW from 1984, and by the way, this was produced by Gene Simmons of Kiss." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← plasmatics
 
 ## songs
 **It's My Life (1984)** : This song is featured on Wendy O'Williams' solo album `WOW` from 1984. "Here's Wendy O'Williams in her silhouette, WOW from 1984" ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← plasmatics
@@ -28,10 +27,3 @@
 **Post-Music Retirement and Suicide Attempts** : After The Plasmatics broke up, Wendy O'Williams pursued acting and recorded some soul material before retiring. She subsequently made a series of suicide attempts, including one where she tried to stab herself in the heart but the knife got stuck in her sternum. "Then came a series of suicide attempts. Including the time she tried to jam a knife right into her own heart, but it became stuck in her sternum." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← plasmatics
 **Wendy O'Williams' Radical Background** : Wendy O'Williams, described as the most radical female singer of her era, originated from Colorado and had a past performing in live sex shows in Times Square and later in porn films before her music career. "She was originally from Colorado, but ended up in New York performing live sex shows and Times Square and later graduated to performing in porn films." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← plasmatics
 **`SCTV` Topless Compromise** : When booked on the Canadian TV show `SCTV`, Wendy O'Williams refused to wear a top. A compromise was reached where a makeup artist painted her breasts black to conceal them on air. "When the Plasmatics were booked on the old Canadian TV show, SCTV, she refused to wear a top. The salvage, everything the compromise was to have the makeup artist paint her breasts black so you couldn't tell." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← plasmatics
-
-
-
-## lists
-**"The La’s" (1990) — 1001 Albums You Must Hear Before You Die** : #666.
-**"The La’s" (1990) — Pitchfork: The 50 Best Britpop Albums** : #14. ← musicbrainz | https://beta.musicbrainz.org/series/cd7ebb70-d88f-4f74-b6de-3a00bf2a162c
-**"The La’s" (1990) — Sputnikmusic Best Albums 1990** : #66. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/

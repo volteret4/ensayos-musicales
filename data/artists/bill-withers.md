@@ -31,8 +31,6 @@
 **Unconventional Path to Stardom** : Bill Withers' journey to becoming an R&B star was atypical; he hailed from a coal mining town in West Virginia, a place that inspired "Lean On Me." He developed an interest in music during his time in the Navy and was working as an airplane mechanic at McDonnell Douglas in California in 1971 while submitting demos. The cover of his debut album, "Just as I Am," famously features him at his mechanic job, holding his lunch box, a candid moment teased by his co-workers. "The cover of Just as I Am, the album that has Aino Sunshine and Grand Maws Hands, is a photo of Bill Whither's holding his lunch box at McDonald Douglas where he worked." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
 **Zaire 74 Involvement** : Bill Withers accepted an invitation to perform at Zaire 74 from Gary Stromberg, the festival's PR representative. He viewed it as a "once in a lifetime opportunity" to interact with prominent figures like Muhammad Ali, George Foreman, and writers Norman Mailer and George Plimpton, having previously met Ali in 1967. "Whither's first met Muhammad Ali in 1967 after Ali had refused induction into the army. And so he said he would do it." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
 
-
-
 ## awards
 **Grammy Award for Best New Artist (1972)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643
 **Rock and Roll Hall of Fame (2015)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191

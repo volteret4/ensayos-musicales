@@ -1,26 +1,28 @@
 # artist - Joan Jett
 
 ## member of
+- Joan Jett & the Blackhearts
 - The Runaways
 
 ## genres
 - Hard Rock
 - New Wave
 - Post-Punk
+- Rock
 
 ## concerts
 - Vans Warped Tour (multiple times)
 
 ## instruments
-- Gibson Melody Maker (white)
+- Gibson Melody Maker
 - Joan Jett Signature Gibson Melody Maker
 
 ## songs
-**Bad Reputation (Year Unknown)** : Joan Jett's signature white Gibson Melody Maker guitar is heard on this well-known track. "What we hear on songs like... Bad Reputation is the same guitar." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← joan-jett
-**Crimson and Clover (Year Unknown)** : This cover song features Joan Jett playing her main white Gibson Melody Maker guitar. "What we hear on songs like... Crimson and Clover... is the same guitar." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← joan-jett
-**Do You Want to Touch Me (Year Unknown)** : Joan Jett performs this song using her characteristic white Gibson Melody Maker guitar. "What we hear on songs like... Do You Want to Touch Me... is the same guitar." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← joan-jett
-**I Love Rock 'n' Roll (Year Unknown)** : This iconic hit features Joan Jett playing her distinctive white Gibson Melody Maker guitar. "What we hear on songs like I Love Rock and Roll... is the same guitar." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← joan-jett
-**I Love Rock and Roll** : "I Love Rock and Roll" by Joan Jett was a widely popular track in dance clubs during the period when New Order's "Blue Monday" emerged, serving as an example of the mainstream rock music landscape that New Order revolutionized. "and I love rock and roll by Joan Jett." ← https://www.youtube.com/watch?v=zB5zxycrbnY ← joan-jett
+**Bad Reputation** : Joan Jett's signature white Gibson Melody Maker guitar is heard on this well-known track. "What we hear on songs like... Bad Reputation is the same guitar." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← joan-jett
+**Crimson and Clover** : This cover song features Joan Jett playing her main white Gibson Melody Maker guitar. "What we hear on songs like... Crimson and Clover... is the same guitar." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← joan-jett
+**Do You Want to Touch Me** : Joan Jett performs this song using her characteristic white Gibson Melody Maker guitar. "What we hear on songs like... Do You Want to Touch Me... is the same guitar." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← joan-jett
+**I Love Rock 'n' Roll (1982)** : This iconic hit features Joan Jett playing her distinctive white Gibson Melody Maker guitar. "What we hear on songs like I Love Rock and Roll... is the same guitar." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← joan-jett
+**I Love Rock 'n' Roll (1982)** : "I Love Rock and Roll" by Joan Jett was a widely popular track in dance clubs during the period when New Order's "Blue Monday" emerged, serving as an example of the mainstream rock music landscape that New Order revolutionized. "and I love rock and roll by Joan Jett." ← https://www.youtube.com/watch?v=zB5zxycrbnY ← joan-jett
 
 ## curiosities
 **Covered "1969"** : Joan Jett is among the artists who have covered The Stooges' song "1969." "Tracks on this album have been covered by the Sex Pistols, Joey Ramone, Sonic Youth, the Sisters of Mercy, Joan Jett, Red Cross, and the Black Keys." ← https://www.youtube.com/watch?v=w-rihv544I8 ← joan-jett
@@ -31,8 +33,8 @@
 **Songwriter Attempted Bowie Bonds** : A songwriter who wrote songs like "I Love Rock and Roll" for Joan Jett was among those who attempted to implement a financial scheme similar to Bowie Bonds. "even the guy who wrote songs like I Love Rock and Roll for Joan Jett" ← https://www.youtube.com/watch?v=Yq2A_o9-ulM ← joan-jett
 **The Runaways – First All-Female Hard Rock Band** : As a member of The Runaways, Joan Jett was part of arguably the first all-female hard rock band to achieve international attention, cementing her status as a groundbreaking artist. "First as a member of the runaways, arguably the first all female hard rock band to get any kind of international attention." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← joan-jett
 **Trailblazer and Rhythm Player** : Joan Jett is recognized as a trailblazer in rock music, primarily for her hard-riffing rhythm guitar style rather than virtuoso soloing. Her pioneering spirit, especially as a member of The Runaways, places her as a significant figure. "Joan belongs on this list because she was a trailblazer." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← joan-jett
-
-
+**Former Runaways Guitarist** : Joan Jett was the guitarist for the punk rock band The Runaways before achieving widespread success with Joan Jett & the Blackhearts. "former Runaways guitarist Joan Jett" ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
+**Rock Credibility and Chart Performance** : Joan Jett is cited as an example of female vocalists of earlier generations who "had to rock pretty hard" to achieve rock credibility. She successfully made Billboard's rock tracks charts, distinguishing her from Madonna and Pink in terms of genre categorization on the charts. "Janice Joplin, Tina Turner, Joan Jet, and Pat Benatar have all made Gilboard's rock tracks charts." ← Hit Parade Music History and Music Trivia > Raise Your Glass Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f7364fe6d21276e441d
 
 ## charts
 **"I Love Rock 'n Roll" — Billboard Year-End Hot 100** : #3, 1982. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

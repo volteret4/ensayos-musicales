@@ -7,5 +7,4 @@
 
 ## artists
 - Desert Sand Feels Warm At Night
-- Telepath
 

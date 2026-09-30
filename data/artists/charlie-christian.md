@@ -6,12 +6,12 @@
 ## genres
 - Bop
 - Jazz
-- Rockabilly (influence)
+- Rockabilly
 
 ## instruments
 - Bar pickup
 - Electric guitar
-- Gibson ES150 (Spanish-style electric guitar)
+- Gibson ES150
 - Guitar
 
 ## songs
@@ -20,7 +20,6 @@
 ## curiosities
 **Coined "B-bop" Name** : Christian was responsible for the name "B-bop" being given to the form of music he helped create in jam sessions after his regular work. This demonstrates his deep involvement in the early development of a new jazz subgenre. "While Christian was responsible for their name B-bop, being given to the form of music, he helped create in jam sessions after his regular work." ← Episode 1： ＂Flying Home＂, Benny Goodman, Charlie Christian, and Lionel Hampton | https://www.youtube.com/watch?v=RmfeJYl84Qs
 **Discovered by John Hammond** : Charlie Christian was one of the legendary artists discovered by John Hammond. "he'd been the person to discover Billy Holiday, and Count Basie, and Charlie Christian." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
-**Discovery by John Hammond** : John Hammond, a talent scout for Benny Goodman's Big Band Orchestra, convinced Benny Goodman to give Charlie Christian an audition, despite Goodman's initial skepticism about the electric guitar. Goodman was ultimately impressed by Christian's skill on the Gibson ES150. "John Hammond, a talent scout for Benny Goodman's Big Band Orchestra, armed twisted Benny into giving Charlie a shot. Goodman wasn't really into it because, well, who the hell wants to hear an electric guitar, he apparently said. But because Goodman trusted Hammond, he agreed to at least listen to Charlie. He was blown away by his abilities on this new instrument, which was a Gibson ES150 Spanish-style electric guitar." ← https://www.youtube.com/watch?v=E6cXyaHALBQ ← charlie-christian
 **Early Death (1941)** : Charlie Christian suffered from tuberculosis as early as 1939 when "Flying Home" was recorded, and he tragically died on March 2, 1941, at the young age of 25. His grave remained unmarked for 53 years, and even a later memorial was placed incorrectly, underscoring his underappreciated legacy. "And on March 2, 1941, aged only 25, Charlie Christian died." ← Episode 1： ＂Flying Home＂, Benny Goodman, Charlie Christian, and Lionel Hampton | https://www.youtube.com/watch?v=RmfeJYl84Qs
 **Early Electric Guitar Soloing** : Charlie Christian was an excellent guitarist who saw the potential for the electric guitar beyond chords and rhythm. He started improvising solos in jam sessions as early as 1931 and, after joining Benny Goodman's big band in 1939, was given the freedom to solo extensively, transforming the amplified guitar's role. "In 1931, he started soloing during jam sessions with fellow musicians." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ ← charlie-christian
 **Early Rockabilly Style** : Christian's soloing on "Flying Home," characterized by short bursts of single-note guitar lines, is effectively rockabilly and is compared to the playing of Scotty Moore 16 years later. This was revolutionary at a time when the guitar was predominantly a rhythm instrument in jazz. "Christian's short bursts of single note guitar line are, to all intents and purposes, rockabilly." ← Episode 1： ＂Flying Home＂, Benny Goodman, Charlie Christian, and Lionel Hampton | https://www.youtube.com/watch?v=RmfeJYl84Qs
@@ -29,14 +28,8 @@
 **Influence on Bop** : Christian was a huge influence on Bop music, which would emerge many years after his death. His advanced technique and unique amplified sound were foundational to the genre's development. "He was a huge influence on Bop, which wouldn't come along for many more years, and in just the sound of it." ← Episode 1： ＂Flying Home＂, Benny Goodman, Charlie Christian, and Lionel Hampton | https://www.youtube.com/watch?v=RmfeJYl84Qs
 **Influence on Chuck Berry** : Chuck Berry later identified Christian as one of the biggest influences on his guitar playing, though Berry mistakenly believed Christian played with Tommy Dorsey's band rather than Goodman's. This highlights Christian's profound, albeit sometimes misattributed, impact on early rock and roll guitarists. "Chuck Berry later said the Christian was one of the biggest influences on his guitar playing, though he wrongly said the Christian played with Tommy Dorses band, arrival to Goodman's." ← Episode 1： ＂Flying Home＂, Benny Goodman, Charlie Christian, and Lionel Hampton | https://www.youtube.com/watch?v=RmfeJYl84Qs
 **Meeting Les Paul (1938)** : Charlie Christian met Les Paul at a Bob Wills gig in Tulsa, Oklahoma, in 1938. Paul, impressed by Christian's guitar playing, invited him to jam with the band on stage, marking their first encounter shortly before Christian joined Benny Goodman's band. "That was the first time that Les Paul met his friend Charlie Christian, shortly before Christian got the offer from Benny Goodman, hanging out and jamming at a Bob Willes gig." ← Episode 3： ＂Ida Red＂ by Bob Wills and the Texas Playboys | https://www.youtube.com/watch?v=zu4E9Y1oJA0
-**Tragic Early Death** : Charlie Christian's profound influence on music was cut short when he died of tuberculosis on March 3, 1941, at the young age of 25. He did not live to see the full extent of the electric guitar's future development and impact. "Sadly, Charlie didn't get to see what became of the electric guitar. He died of tuberculosis on March 3rd, 1941, at the age of 25. Still, the first guitar hero, right?" ← https://www.youtube.com/watch?v=E6cXyaHALBQ ← charlie-christian
 **Untimely Death and Legacy** : Christian died young from tuberculosis on March 3rd, 1941, at the age of 25. Despite his short career, he is credited with taking the amplified guitar out of the shadows and establishing the foundational role of the lead guitarist in modern music. "Until he died of tuberculosis on March 3rd, 1941 at the age of 25, Charlie took the new amplified guitar out of the shadows and is now recognized as the person to create the foundations of the lead guitarist as we know it today." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ ← charlie-christian
-
-
 
 ## awards
 **Rock and Roll Hall of Fame (1990)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
 **Oklahoma Music Hall of Fame (2002)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q7082270
-
-## lists
-**"Reverse Earth" (2025) — Bandcamp: The Best Albums of 2025** : #19. ← musicbrainz | https://beta.musicbrainz.org/series/e71890ee-e707-4eae-af8f-b60074d08730

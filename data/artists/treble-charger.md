@@ -2,17 +2,16 @@
 
 ## members
 - Bill Priddle
-- Greg Nori
 - Greig Nori
-- Morris Paller
+- Morris Palter
 - Trevor McGregor
 
 ## albums
-**Maybe It's Me (1997) – Gold Status** : This album, released in 1997, achieved gold status, partly due to the re-recorded version of the song "Red." "Maybe It's Me Album in 1997. And that helped push this record to gold status." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← treble-charger
-**Self Title (1995) – Indie Debut and Major Label Re-release** : Treble Charger's debut, released in 1995, started as an indie record. Its success led to a major label deal and two re-releases, one of which included a groundbreaking CD-ROM component. "The first treble charger release was self equal title in 1995. That started out as an indie record but got them a major label deal resulting in two re-releases, one of which was part CD ROM which was really groundbreaking for the time." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← treble-charger
+**Maybe It's Me (1997)** : This album, released in 1997, achieved gold status, partly due to the re-recorded version of the song "Red." "Maybe It's Me Album in 1997. And that helped push this record to gold status." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← treble-charger
+**NC17 (1995)** : Treble Charger's debut, released in 1995, started as an indie record. Its success led to a major label deal and two re-releases, one of which included a groundbreaking CD-ROM component. "The first treble charger release was self equal title in 1995. That started out as an indie record but got them a major label deal resulting in two re-releases, one of which was part CD ROM which was really groundbreaking for the time." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← treble-charger
 
 ## songs
-**Red (Re-recorded 1997) – Indie Origins and Gold Status** : The original recording of "Red" dates back to when the band was an indie act named NC17. It was later re-recorded for the 1997 album *Maybe It's Me*, contributing to that album reaching gold status. "Now the original recording dates back to when the band was still indie and still being called NC17. But then it was re-recorded for the Maybe It's Me Album in 1997." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← treble-charger
+**Red (1995)** : The original recording of "Red" dates back to when the band was an indie act named NC17. It was later re-recorded for the 1997 album *Maybe It's Me*, contributing to that album reaching gold status. "Now the original recording dates back to when the band was still indie and still being called NC17. But then it was re-recorded for the Maybe It's Me Album in 1997." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← treble-charger
 
 ## curiosities
 **Bill Priddle's Work with Broken Social Scene** : After Treble Charger disbanded, guitarist Bill Priddle dedicated more time to working with Broken Social Scene. "Guitarist Bill Prittle wanted to spend more time working with Broken Social Scene which he has." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← treble-charger
@@ -25,8 +24,4 @@
 **Treble Charger Breakup (February 2006)** : The band concluded its 14-year run in February 2006, deciding it was simply "time" to end. "The band had a 14 year run coming to an end in February 2006. It was just time." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← treble-charger
 **Treble Charger Formation (1992) – Original Name NC17** : The band formed in Sault Ste. Marie in 1992, initially under the name NC17, inspired by the American movie rating. "They originally came from Susanne Marie in 1992 under the name NC17, like the American movie rating." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← treble-charger
 **Trevor McGregor's Composing Career** : Former drummer Trevor McGregor transitioned into a career as a composer for television and film. "Former drummer Trevor McGregor is also a composer for a TV and film." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← treble-charger
-
-
-
-## charts
-**"Walk Away Renée" — Billboard Year-End Hot 100** : #27, 1966. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**Early Mentors of Sum 41** : Greg Norrie, a member of Trevor Charger, became a friend and early mentor to Sum 41, along with Marcos Stanzo of Len. Norrie provided crucial support by helping with demos, offering advice, and bringing the nascent band on tour. "Greg Norrie from Trevor Charger?" ← https://www.youtube.com/watch?v=6L4xKBFEYkE ← trevor-charger

@@ -1,19 +1,16 @@
 # artist - Fatboy Slim
 
-## members
-- Norman Cook
-- Norman Cook (real name)
+## member of
+- The Housemartins
 
 ## genres
 - Alternative Dance
 - Alternative Music
 - Big Beat
-- Big beat
 - Dance
 - Electronic
 - Electronic Dance Music
 - Electronica
-- Electronica (some people called)
 
 ## labels
 - Skint Records
@@ -23,8 +20,10 @@
 
 ## albums
 **Better Living Through Chemistry (1996)** : This album, released in 1996, defined what the Big Beat genre would become. It presented a less electronic and dark sound compared to its predecessors, opting for a more funky, psychedelic, and lysergic approach. "Batcher Living Throck Chemistry es una propuesta menos electrónica y oscura, y más fans psicodélica y lisaérgica." ← Por qué el cine de los 2000 sonaba así？ Big Beat | https://www.youtube.com/watch?v=UOFTiKXruFQ
-**You've Come A Long Way Baby (1998)** : This 1998 album featured the track "Right Here Right Now" and contributed to Fatboy Slim's achievement of number one albums and singles by the end of the decade. "Fat Boy Slim and right here right now from his 1998 album You've Come A Long Way Baby." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← fatboy-slim
+**You've Come a Long Way, Baby (1998)** : This 1998 album featured the track "Right Here Right Now" and contributed to Fatboy Slim's achievement of number one albums and singles by the end of the decade. "Fat Boy Slim and right here right now from his 1998 album You've Come A Long Way Baby." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← fatboy-slim
 **You've Come a Long Way, Baby (1998)** : Released in 1998, this album was highlighted as one of the most important electronic albums of the 90s, showcasing the intricate and rapid sound characteristic of the era. ← Music Radar Clan > Daft Punk： Como el Homework revolucionó la electrónica | https://www.youtube.com/watch?v=myhlWJ6DQpw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← fatboy-slim ← fatboy-slim
+**You've Come a Long Way, Baby (1998)** : This is a 20th-anniversary reissue of one of the most significant electronic albums of the 1990s, released by Fatboy. There was considerable anticipation for this release. "reditan uno de los discos elitrónica más importante de los 90, ahí como muchísima expectación por este lanzamiento." ← Music Radar Clan > Lanzamientos Marzo 2018 | https://www.youtube.com/watch?v=KoWlht2iA7o&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← fatboy ← fatboy
+**You've Come a Long Way, Baby (1998)** : This is a 20th-anniversary reissue of one of the most significant electronic albums of the 1990s, released by Fatboy. There was considerable anticipation for this release. "reditan uno de los discos elitrónica más importante de los 90, ahí como muchísima expectación por este lanzamiento." ← Music Radar Clan > Lanzamientos Marzo 2018 | https://www.youtube.com/watch?v=KoWlht2iA7o&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← fatboy
 
 ## songs
 **Gangster Trippin' (1998)** : Another prominent track from Fatboy Slim's 1998 album, "You've Come a Long Way, Baby." "Gas Statriping y la mencionada Rock Afeleres Kang." ← Por qué el cine de los 2000 sonaba así？ Big Beat | https://www.youtube.com/watch?v=UOFTiKXruFQ
@@ -46,8 +45,8 @@
 **Producer for Alternative Music** : Fatboy Slim (mentioned as "Fadro y Slim") was noted as one of the electronic artists who started working as producers for many alternative music records during the 1990s. This crossover contributed to the blending of electronic and alternative sounds. ← Music Radar Clan > Daft Punk： Como el Homework revolucionó la electrónica | https://www.youtube.com/watch?v=myhlWJ6DQpw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← fatboy-slim ← fatboy-slim
 **Technics SL-1200 Endorsement** : Fatboy Slim is mentioned as a prominent DJ who prefers and endorses the Technics SL-1200 turntable, highlighting its reputation among professional users for DJing. "If you ever need an endorsement of the SL-1200, just ask Fatboy Slim, and what decks he prefers to use when he DJs." ← https://www.youtube.com/watch?v=IIJySSo276k ← fatboy-slim
 **Transition from Indie Pop to Dance Music** : Norman Cook, formerly the bass player for the "nice tight English Indy pop band" The Housemartins in the 1980s, transitioned into producing dance music, adopting the moniker Fatboy Slim by 1996. "Norman Cook used to be the bass player for the House Martins, a nice tight English Indy pop band from the 1980s." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← fatboy-slim
-
-
+**DJ to Mainstream Composer** : Norman Cook, also known as Fatboy Slim, successfully moved beyond being solely a DJ, composing dance tracks that achieved mainstream appeal and helped him emerge as a notable star in electronic music. "DJs like Norman Cook were able to get out from behind the turntables, and compose some very mainstream friendly dance tracks like this. He was known as Fatboy Slim." ← https://www.youtube.com/watch?v=hBQE4t72i3o ← norman-cook ← norman-cook
+**DJ to Mainstream Composer** : Norman Cook, also known as Fatboy Slim, successfully moved beyond being solely a DJ, composing dance tracks that achieved mainstream appeal and helped him emerge as a notable star in electronic music. "DJs like Norman Cook were able to get out from behind the turntables, and compose some very mainstream friendly dance tracks like this. He was known as Fatboy Slim." ← https://www.youtube.com/watch?v=hBQE4t72i3o ← norman-cook
 
 ## awards
 **Grammy Award for Best Alternative Music Album (1999) — You've Come a Long Way, Baby** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1542129

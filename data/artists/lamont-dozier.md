@@ -1,14 +1,13 @@
 # artist - Lamont Dozier
 
 ## member of
-- Holland Dozier Holland
-- Holland-Dozier-Holland
+- Holland–Dozier–Holland
 
 ## labels
 - Anna Records
 
 ## songs
-**Pop-I the Sailor Man / Benny the Skinny Man (Year unknown)** : Lamont Dozier's first solo record, released on Anna Records under the name Lamont Anthony, featured Robert White on guitar, James Jamison on bass, Harvey Fouqueur on piano, and Marvin Gaye on drums. It was initially based on the comic character Popeye. After a cease and desist from King Features Syndicate, Dozier re-recorded the vocal, changing the character to "Benny the Skinny Man," which caused the song to flop without its original hook. "His first solo record, on Anna, released under the name Lamont Anthony, featured Robert White on guitar, James Jameson on bass, Harvey Fouqueur on piano, and Marvin Gaye on drums, and was based on the comic character Pop-I." ← Episode 111： ＂Heat Wave＂ by Martha and the Vandellas | https://www.youtube.com/watch?v=AAiUJhSKjzs
+**Pop-I the Sailor Man / Benny the Skinny Man** : Lamont Dozier's first solo record, released on Anna Records under the name Lamont Anthony, featured Robert White on guitar, James Jamison on bass, Harvey Fouqueur on piano, and Marvin Gaye on drums. It was initially based on the comic character Popeye. After a cease and desist from King Features Syndicate, Dozier re-recorded the vocal, changing the character to "Benny the Skinny Man," which caused the song to flop without its original hook. "His first solo record, on Anna, released under the name Lamont Anthony, featured Robert White on guitar, James Jameson on bass, Harvey Fouqueur on piano, and Marvin Gaye on drums, and was based on the comic character Pop-I." ← Episode 111： ＂Heat Wave＂ by Martha and the Vandellas | https://www.youtube.com/watch?v=AAiUJhSKjzs
 
 ## curiosities
 **Attempted Negotiation with Atlantic Records** : At 16, after his group The Romeo's had a successful third single, "Fine Fine Fine," distributed by Atlantic, the label sought a follow-up. Dozier, believing he had negotiating power, demanded an album instead of just a single. Atlantic Records executive Jerry Wexler responded by releasing them from their contract, prematurely ending The Romeo's career. "But Lamont Dozier, at 16, thought that he had some kind of negotiating power, and wrote back saying they weren't interested in just doing a single, they wanted to do an album." ← Episode 111： ＂Heat Wave＂ by Martha and the Vandellas | https://www.youtube.com/watch?v=AAiUJhSKjzs
@@ -19,8 +18,6 @@
 **New Songwriting Partner for The Hollands** : Lamont Dozier became a new writing partner for Brian and Eddie Holland, completing songs with them quickly and effectively ending Brian Holland's earlier songwriting partnership with Freddie Gorman. This trio would become the legendary Holland-Dozier-Holland team. "Freddie kept finding that when he came round to hit the film after work, if Brian Holland had had an idea for a song, he'd already finished it, usually with the help of his brother ready and their new writing partner, Lamont Dozier." ← Episode 93： ＂Please Mr. Postman＂ by the Marvelettes | https://www.youtube.com/watch?v=EPg8Wx30-uM
 **Odd Jobs at Anna Records** : While singing with The Voice Masters, Lamont Dozier also worked for Anna Records, a Gordy family label, doing odd jobs such as cleaning floors. "And he'd continued to sing with them, as well as working for Anna Records doing odd jobs like cleaning the floors." ← Episode 111： ＂Heat Wave＂ by Martha and the Vandellas | https://www.youtube.com/watch?v=AAiUJhSKjzs
 **Skill for Riffs, Hooks, and Rhythms** : Lamont Dozier possessed a great aptitude for creating both lyrical and musical riffs and hooks, as well as developing rhythmic ideas for songs. "Dozier had a great aptitude for coming up with riffs and hooks, both Liverpool and Musical, and rhythmic ideas, while Brian Holland could come up with great melodies and interesting chord changes, though both could do both." ← Episode 111： ＂Heat Wave＂ by Martha and the Vandellas | https://www.youtube.com/watch?v=AAiUJhSKjzs
-
-
 
 ## awards
 **Academy Award for Best Original Song (1989) — Two Hearts** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q112243

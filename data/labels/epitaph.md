@@ -19,7 +19,7 @@
 
 ## artists
 - Bad Religion
-- NoFX
+- NOFX
 - Rancid
 - The Offspring
 

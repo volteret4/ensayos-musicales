@@ -27,12 +27,11 @@
 **Subdirector's Nervous Breakdown During "Loveless" Production** : During the chaotic and financially draining production of "Loveless," Dick Green, the subdirector of Creation Records, suffered a nervous breakdown so severe that his hair turned white overnight, illustrating the immense stress and despair within the label's offices. "Mientras tanto, las oficinas de Creation, De Crisidil, su subdirector, sufrió una crisis nerviosa, tan intensa que se le pone el pelo blanco de la noche a la mañana." ← El disco imposible： La historia de Loveless y My Bloody Valentine | https://www.youtube.com/watch?v=q_SHNe_Ce9A
 
 ## artists
-- Jesus and Mary Chain
+- The Jesus and Mary Chain
 - My Bloody Valentine
 - Oasis
 - Primal Scream
 - Ride
 - Slowdive
-- The Jesus and Mary Chain
 - The Legend
 

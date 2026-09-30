@@ -2,8 +2,7 @@
 
 ## curiosities
 **Nyquist-Shannon Sampling Theorem Proof (1949)** : Claude Shannon provided a sufficient proof for the sampling theorem in 1949, building upon the theoretical framework established by Harry Nyquist in 1928. Together, their contributions form the basis of the Nyquist-Shannon Sampling Theorem, a cornerstone of digital audio and signal processing. "y fue suficientemente proveado por Claude Shannon en 1949." ← Music Radar Clan > The Truth About Vinyl - Vinyl vs. Digital | https://www.youtube.com/watch?v=lzRvSWPZQYk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← claude-shannon ← claude-shannon
-
-
+**Nyquist-Shannon Sampling Theorem Proof (1949)** : Claude Shannon provided a sufficient proof for the sampling theorem in 1949, building upon the theoretical framework established by Harry Nyquist in 1928. Together, their contributions form the basis of the Nyquist-Shannon Sampling Theorem, a cornerstone of digital audio and signal processing. "y fue suficientemente proveado por Claude Shannon en 1949." ← Music Radar Clan > The Truth About Vinyl - Vinyl vs. Digital | https://www.youtube.com/watch?v=lzRvSWPZQYk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← claude-shannon
 
 ## awards
 **Noble Prize (1939)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q4723221
@@ -22,6 +21,3 @@
 **Foreign Member of the Royal Society (1991)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q14906020
 **Marconi Prize (2000)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q473292
 **National Inventors Hall of Fame (2004)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1366018
-
-## charts
-**"Let the Music Play" — Billboard Year-End Hot 100** : #49, 1984. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

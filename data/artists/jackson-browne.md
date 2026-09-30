@@ -2,10 +2,9 @@
 
 ## genres
 - Singer-songwriter
-- Singer-songwriter (influenced by)
 
 ## albums
-**Jackson Browne (1972) - Debut Album** : Jackson Browne's debut album was released in March 1972 and featured the hit song "Doctor My Eyes." "Dr. My Eyes was recorded in 1971 and released on Jackson Brown's debut album in March 1972." ← For the Record - The 70s > Ep. 41 - The Impact of The Troubadour on 1970s Popular Culture | https://seventies.libsyn.com/ep-41-the-impact-of-the-troubadour-on-1970s-popular-culture
+**Jackson Browne (1972)** : Jackson Browne's debut album was released in March 1972 and featured the hit song "Doctor My Eyes." "Dr. My Eyes was recorded in 1971 and released on Jackson Brown's debut album in March 1972." ← For the Record - The 70s > Ep. 41 - The Impact of The Troubadour on 1970s Popular Culture | https://seventies.libsyn.com/ep-41-the-impact-of-the-troubadour-on-1970s-popular-culture
 
 ## songs
 **Doctor My Eyes (1972)** : Recorded in 1971 and released on his debut album in March 1972, this song reached number 8 on the Billboard Hot 100. Initially inspired by an eye infection, it evolved into a metaphor, as Browne described, for lost innocence and "having seen too much." Graham Nash and David Crosby provided background vocals. Browne described hearing it on the radio for the first time as "surreal." "Dr. My Eyes was recorded in 1971 and released on Jackson Brown's debut album in March 1972 and it made it to number 8 on the Billboard Hot 100." ← For the Record - The 70s > Ep. 41 - The Impact of The Troubadour on 1970s Popular Culture | https://seventies.libsyn.com/ep-41-the-impact-of-the-troubadour-on-1970s-popular-culture
@@ -16,8 +15,6 @@
 **Interpretation of "Werewolves of London"** : Jackson Browne offered an alternative interpretation of Warren Zevon's "Werewolves of London," suggesting the song was "more about a ladies man" rather than literally depicting a werewolf, highlighting a deeper, metaphorical meaning. "you might agree with Jackson Brown and say it's more about more of a ladies man." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
 **Live Performance with Roy Orbison** : Jackson Browne joined Roy Orbison as a backing singer and musician for his live TV special "A Black and White Night," demonstrating his admiration for Orbison. "He got inducted into the Rock and Roll Hall of Fame and recorded a live TV special, a black and white night, where he was joined by Elvis's 70s backing band, Bruce Springsteen, Elvis Costello, K.D. Lang, Bunny Raite, Jackson Brown and Tom Wait, among others, while just acting as backing singers and musicians for a man they admired." ← Episode 83： ＂Only the Lonely＂ by Roy Orbison | https://www.youtube.com/watch?v=uDvkjXa1ALk
 **Reflection on The Troubadour** : Jackson Browne described The Troubadour as an "amazing place, an amazing time," highlighting its role as a crucial showcase for artists on the verge of becoming hugely successful, like Elton John. He also noted its consistent function as a folk club that offered intimate performances for fans and writers, contrasting with occasional large venue shows. "But it was an amazing place, an amazing time because at the same time it was a really important showcase for artists that were about to become huge." ← For the Record - The 70s > Ep. 41 - The Impact of The Troubadour on 1970s Popular Culture | https://seventies.libsyn.com/ep-41-the-impact-of-the-troubadour-on-1970s-popular-culture
-
-
 
 ## awards
 **Rock and Roll Hall of Fame (2004)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191

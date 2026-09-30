@@ -13,7 +13,7 @@
 - The Beatles' first US tour (Bill Black's Combo opened, but Black was too ill to join)
 
 ## instruments
-- Fender Precision Bass (P-Bass)
+- Fender Precision Bass
 
 ## curiosities
 **Be-Bop-A-Lula Anecdote** : An anecdote from the era claimed that Bill Black, alongside Scotty Moore, was upset with Elvis Presley for supposedly recording "Be-Bop-A-Lula" without their involvement. This story, however, is largely dismissed as improbable. "There are various stories that went round at the time, including that Scotty and Bill got annoyed as Elvis for recording it without them..." ← Episode 41： ＂Be-Bop-A-Lula＂ by Gene Vincent and the Bluecaps | https://www.youtube.com/watch?v=tYBQ5F7O3G0
@@ -25,8 +25,3 @@
 **Initial Dislike of the Precision Bass** : Bill Black, the bass player for Elvis Presley, initially harbored a strong dislike for the Fender Precision Bass. He reportedly struggled to master the instrument and found it difficult to play. "Then came Bill Black, the bass player for Elvis Presley, although it is said that he initially really, really hated the thing because he just couldn't quite get the knack of playing." ← https://www.youtube.com/watch?v=E6cXyaHALBQ ← bill-black
 **Resignation from Elvis's Band (September 1957)** : Bill Black, alongside Scotty Moore, resigned from Elvis's band in September 1957 due to financial hardship and Colonel Parker's restrictive control. They were salaried, faced a dramatically reduced concert schedule (only 14 shows all year), and felt unable to communicate with Elvis, leading to accumulating debt. "In September, Scotty Moore and Bill Black had written to Elvis, resigning from his band." ← Episode 72： ＂Trouble＂ by Elvis Presley | https://www.youtube.com/watch?v=psIgGqkQhZI
 **Success of Bill Black's Combo (1960s)** : Bill Black's Combo achieved significant popularity, scoring eight Top 40 hits. Their success led them to be chosen as the opening act for The Beatles' first US tour. "Bill Black's combo had eight top 40 hits, and were popular enough that they became the opening act for the Beatles' first US tour." ← Episode 72： ＂Trouble＂ by Elvis Presley | https://www.youtube.com/watch?v=psIgGqkQhZI
-
-
-
-## charts
-**"White Silver Sands" — Billboard Year-End Hot 100** : #57, 1960. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

@@ -15,7 +15,6 @@
 **Vinyl-Centric Philosophy** : Third Man Records, founded by Jack White, has the motto "your turntable's not dead" and is entirely dedicated to vinyl, with a unique setup in Nashville allowing for recording, mixing, and pressing of records locally. "The motto of Jack White's third man records is, your turntable's not dead." ← https://www.youtube.com/watch?v=GES0Ms_kaCI ← third-man-records
 
 ## artists
-- Conan O'Brien
 - Elvis Presley
 - Jack White
 - Johnny Cash

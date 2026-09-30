@@ -2,34 +2,31 @@
 
 ## members
 - Paul Westerberg
-- Paul Westerberg (leader)
-- Paul Westerberg (leader, songwriter)
 
 ## genres
-- Hardcore (early)
-- Hardcore (initially)
+- Alternative Rock
+- Hardcore
 - Indie Rock
 - Pop
 - Pop Song
-- Power Pop (later)
-- Power pop (later)
+- Power Pop
 - Punk
 - Punk Rock
-- punk
 
 ## labels
 - Twin Tone
-- Twin/Tone
 - Twin/Tone Records
 
 ## albums
-**For Sale: Live at Maxwell's 1986 (Official Release) (October 6)** : This is the official release of what is widely considered the most famous bootleg by The Replacements, and one of the most renowned rock bootlegs of the 1980s. "posiblemente sea el bootleg más famoso de Replacement, es uno de los bootlegs, yo creo que más famosos del rock de los 80 que tenemos y finalmente sale su edición oficial." ← Music Radar Clan > Lanzamientos de Octubre 2017 | https://www.youtube.com/watch?v=q1_bxi16osQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
-**Sorry Ma, Forgot to Take Out the Trash (Year Unknown) – Debut Album** : This album represents The Replacements' early hardcore sound, capturing their initial style which was heavily influenced by punk rock pioneers. It marked their debut and showcased their roots before they evolved into a more melodic power pop band. "This is from their early days and their debut album, Sorry Ma, Forgot to Take Out the Trash." ← https://www.youtube.com/watch?v=0qigzi1j81U ← the-replacements
+**For Sale: Live at Maxwell's 1986 (2017)** : This is the official release of what is widely considered the most famous bootleg by The Replacements, and one of the most renowned rock bootlegs of the 1980s. "posiblemente sea el bootleg más famoso de Replacement, es uno de los bootlegs, yo creo que más famosos del rock de los 80 que tenemos y finalmente sale su edición oficial." ← Music Radar Clan > Lanzamientos de Octubre 2017 | https://www.youtube.com/watch?v=q1_bxi16osQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Sorry Ma, Forgot to Take Out the Trash (1981)** : This album represents The Replacements' early hardcore sound, capturing their initial style which was heavily influenced by punk rock pioneers. It marked their debut and showcased their roots before they evolved into a more melodic power pop band. "This is from their early days and their debut album, Sorry Ma, Forgot to Take Out the Trash." ← https://www.youtube.com/watch?v=0qigzi1j81U ← the-replacements
 
 ## songs
-**I'm in Trouble (Year Unknown)** : This song is featured on The Replacements' debut album, "Sorry Ma, Forgot to Take Out the Trash." It reflects their early hardcore sound, influenced by bands like the Ramones and Sex Pistols, before their shift towards more melodic, conventional song structures. "Replacements and I'm in trouble." ← https://www.youtube.com/watch?v=0qigzi1j81U ← the-replacements
+**I'm in Trouble** : This song is featured on The Replacements' debut album, "Sorry Ma, Forgot to Take Out the Trash." It reflects their early hardcore sound, influenced by bands like the Ramones and Sex Pistols, before their shift towards more melodic, conventional song structures. "Replacements and I'm in trouble." ← https://www.youtube.com/watch?v=0qigzi1j81U ← the-replacements
+**Left of the Dial** : The Replacements recorded this song to celebrate the "quirky music heard on low-frequency FM stations." This music, known as "Left of the Dial Rock," was largely considered uncommercial until the late 1980s. "the replacements who recorded an actual song called Left of the Dial, to celebrate the quirky music heard on low-frequency FM stations." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 
 ## curiosities
+**Cassette Circulation in Seattle** : The Replacements were among the indie punk bands whose music gained traction in Seattle through homemade cassette tapes circulated among local musicians and fans in the mid-1980s, influencing the developing grunge scene. "They featured indie punk bands from other parts of the country, Dead Kennedys, Huskadoo, Replacements, and of course Sonic Youth." ← https://www.youtube.com/watch?v=xdn31jMOOA4 ← replacements ← replacements
 **College and Alternative Radio Success** : Known as "The Mats," The Replacements became a significant force on college and alternative radio in the late 1980s. They even had a presence on MTV for a period. "And the Mats, as they were known, became a force on college and alternative radio in the late 1980s. They even became a thing on MTV for a while." ← https://www.youtube.com/watch?v=0qigzi1j81U ← the-replacements
 **Evolution from Hardcore to Power Pop** : The Replacements initially started as a hardcore act, heavily influenced by punk bands like the Ramones, Sex Pistols, and New York Dolls. Over time, they became more melodic and adopted more conventional song structures, influenced by The Rolling Stones, The Beatles, and CCR, eventually evolving into a power pop band. "They recorded for a label called Twin Tone and were very much a hardcore-acted first. Their heroes were the Ramones and the Sex Pistols and the New York Dolls. But as things went on, they became more melodic and their songs had more conventional structures thanks to their love for the Rolling Stones and the Beatles and CCR. Leader Paul Westorberg grew into a very accomplished songwriter and the longer the bands stayed together, the more they became a power pop band." ← https://www.youtube.com/watch?v=0qigzi1j81U ← the-replacements
 **First Alternative Album Grammy Nominee (1991)** : The Replacements were included in the first group of nominees for the "Alternative Album" Grammy category when it was established in 1991. This nomination represented early institutional acknowledgment of the alternative genre. "The first nominees were Kate Bush, the replacements, World Party, and Laurie Anderson." ← https://www.youtube.com/watch?v=gP3oQeYEvso ← the-replacements
@@ -44,8 +41,7 @@
 **Punk Roots with Pop Sensibilities** : Similar to Husker Dü, The Replacements' musical philosophy was deeply rooted in punk. However, they distinguished themselves with even stronger pop sensibilities, blending the raw energy of punk with more melodic and structured elements. "Like Husker Do, their philosophies were firmly rooted in punk, but with even greater pop sensibilities." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← the-replacements ← the-replacements
 **Reunion for Touring** : The Replacements were one of many bands from past decades that reunited in the 21st century, a trend largely motivated by financial incentives. With declining CD sales impacting artist revenues, returning to the touring circuit offered a lucrative way to appeal to nostalgic fan bases and fill large venues. "The list of reunions is long." ← https://www.youtube.com/watch?v=GYUuTbOvyak ← the-replacements
 **Sex Pistols Influence** : The Replacements, forming in a Minneapolis basement, honored their heroes, the Sex Pistols. They quickly became known for their unpredictable, high-energy performances in local clubs. "In honor of their heroes, the sex pistols, the replacements quickly became known for their unpredictable high-energy sets of clubs around town." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← the-replacements ← the-replacements
-
-
+**Cassette Circulation in Seattle** : The Replacements were among the indie punk bands whose music gained traction in Seattle through homemade cassette tapes circulated among local musicians and fans in the mid-1980s, influencing the developing grunge scene. "They featured indie punk bands from other parts of the country, Dead Kennedys, Huskadoo, Replacements, and of course Sonic Youth." ← https://www.youtube.com/watch?v=xdn31jMOOA4 ← replacements
 
 ## awards
 **Grammy Award for Best Alternative Music Album (1990) — All Shook Down** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1542129

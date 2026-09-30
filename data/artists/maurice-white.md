@@ -1,7 +1,6 @@
 # artist - Maurice White
 
 ## member of
-- Earth Wind & Fire
 - Earth, Wind & Fire
 
 ## labels
@@ -22,11 +21,6 @@
 **Session Musician Background** : Maurice White began his career as a session musician, playing drums on numerous recordings for Chess Records before forming his own band. "Maurice White started as a session musician, playing drums on countless recordings for chess records." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
 **Songwriting Contribution to "September"** : Maurice White co-wrote "September," one of Earth Wind & Fire's most enduring and streamed songs. "Co-written by Maurice White, his guitarist Al McKay, and Journey Woman's songwriter Ali Willis..." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f2ad1ba84fb8f045799
 
-
-
 ## awards
 **Grammy Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q41254
 **Kennedy Center Honors (2019)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1738793
-
-## lists
-**"Under The Skin" (1993) — Scaruffi 1990s** : #774, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

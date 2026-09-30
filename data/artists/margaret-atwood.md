@@ -4,8 +4,6 @@
 **Contribution to Al Purdy Tribute** : The renowned author Margaret Atwood appeared on the soundtrack album for the 2015 documentary on Al Purdy, which featured songs and poems inspired by the poet. "even Margaret Atwood appeared on that album." ← https://www.youtube.com/watch?v=dnz_Ycd_q7s ← margaret-atwood
 **Literary Influence** : Gord Downie included books from Margaret Atwood on his novel reading list, indicating her influence on his literary absorption. "His novel reading list included books from Margaret Atwood." ← https://www.youtube.com/watch?v=dnz_Ycd_q7s ← margaret-atwood
 
-
-
 ## awards
 **Crime Writers of Canada Awards of Excellence** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q177705
 **honorary doctorate from the Université de Montréal** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q58114219
@@ -89,45 +87,3 @@
 **Booker Prize (2019) — The Testaments** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q160082
 **Locus Award for Best Science Fiction Novel (2020) — The Testaments** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q2576795
 **Officer's Cross of the Order of Merit of the Federal Republic of Germany (2021)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q10905334
-
-## charts
-**"Adele" — UK Vinyl Albums Chart** : entrada.
-**"Amy Winehouse" — UK Vinyl Albums Chart** : entrada.
-**"Radiohead" — UK Vinyl Albums Chart** : entrada.
-**"Rag'n'Bone Man" — UK Vinyl Albums Chart** : entrada.
-**"Ed Sheeran" — UK Vinyl Albums Chart** : entrada.
-**"The Beatles" — UK Vinyl Albums Chart** : entrada.
-**"Noel Gallagher's High Flying Birds" — UK Vinyl Albums Chart** : entrada.
-**"Original Soundtrack" — UK Vinyl Albums Chart** : entrada.
-**"Queen" — UK Vinyl Albums Chart** : entrada.
-**"Various Artists" — UK Vinyl Albums Chart** : entrada.
-**"Fleetwood Mac" — UK Vinyl Albums Chart** : entrada.
-**"Amy Winehouse" — UK Vinyl Albums Chart** : entrada.
-**"Queen" — UK Vinyl Albums Chart** : entrada.
-**"Kylie Minogue" — UK Vinyl Albums Chart** : entrada.
-**"Harry Styles" — UK Vinyl Albums Chart** : entrada.
-**"Glass Animals" — UK Vinyl Albums Chart** : entrada.
-**"Oasis" — UK Vinyl Albums Chart** : entrada.
-**"Taylor Swift" — UK Vinyl Albums Chart** : entrada.
-**"Dua Lipa" — UK Vinyl Albums Chart** : entrada.
-**"Olivia Rodrigo" — UK Vinyl Albums Chart** : entrada.
-**"Charli XCX" — UK Vinyl Albums Chart** : entrada.
-**"Chappell Roan" — UK Vinyl Albums Chart** : entrada.
-**"Gracie Abrams" — UK Vinyl Albums Chart** : entrada.
-**"Noel Gallagher's High Flying Birds" — UK Vinyl Singles Chart** : entrada.
-**"David Bowie" — UK Vinyl Singles Chart** : entrada.
-**"Golden Years" — UK Vinyl Singles Chart** : 4 semanas.
-**"The Stone Roses" — UK Vinyl Singles Chart** : entrada.
-**"David Brent" — UK Vinyl Singles Chart** : entrada.
-**"Oasis" — UK Vinyl Singles Chart** : entrada.
-**"Liam Gallagher" — UK Vinyl Singles Chart** : entrada.
-**"George Michael" — UK Vinyl Singles Chart** : entrada.
-**"Morrissey" — UK Vinyl Singles Chart** : entrada.
-**"Led Zeppelin" — UK Vinyl Singles Chart** : entrada.
-**"Public Service Broadcasting" — UK Vinyl Singles Chart** : entrada.
-**"The Fontaines" — UK Vinyl Singles Chart** : entrada.
-**"Ceremony" — UK Vinyl Singles Chart** : 1 semanas.
-**"Wham!" — UK Vinyl Singles Chart** : entrada.
-**"Blur" — UK Vinyl Singles Chart** : entrada.
-**"The 1975" — UK Vinyl Singles Chart** : entrada.
-**"Fontaines D.C." — UK Vinyl Singles Chart** : entrada.

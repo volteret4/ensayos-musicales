@@ -8,5 +8,5 @@
 ## artists
 - Happy Mondays
 - Inspiral Carpets
-- Public Image Ltd.
+- Public Image Ltd
 

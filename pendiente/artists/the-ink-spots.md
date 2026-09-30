@@ -1,25 +1,22 @@
 # artist - The Ink Spots
 
 ## members
-- Bill Doggett (pianist, arranger)
+- Bill Doggett
 - Bill Kenny
-- Bill Kenny (high tenor)
 - Billy Bowen
-- Charlie Fouquay
-- Charlie Fouquet
+- Charlie Fuqua
 - Deek Watson
-- Deek Watson (Dice Vastus)
-- Freddie Houston (lead singer in one of many 60s lineups)
-- Happy Jones
+- Freddie Houston
 - Harold Jackson
 - Herb Kenny
-- Hoppy Jones (low-spoken bass)
+- Hoppy Jones
 - Huey Long
 - Jerry Daniels
 - Jimmy Holmes
 
 ## genres
 - Jive Music
+- Vocal group
 - Vocal Group Harmony
 - Vocal Quartet
 
@@ -30,18 +27,20 @@
 **If I Didn't Care - Studio Hit** : This song marked the first time The Ink Spots used their "Top and Bottom" formula in the studio, becoming a massive hit for the group. The formula involved an acoustic guitar intro, Bill Kenny singing the main verse in his high tenor, Hoppy Jones speaking the entire song lyrics in his deep bass voice, and then Kenny singing a final lead line. "They first did it in the studio, with their massive hit, if I didn't care." ← Episode 6： ＂That's When Your Heartaches Begin＂ by the Ink Spots | https://www.youtube.com/watch?v=9mYSQaysXRg
 
 ## songs
-**Each His Own** : A song that followed The Ink Spots' established "Top and Bottom" formula, it achieved significant chart success, reaching the Top 10. The consistent application of this sound contributed to its popularity with the public. "And here's the intro to each his own." ← Episode 6： ＂That's When Your Heartaches Begin＂ by the Ink Spots | https://www.youtube.com/watch?v=9mYSQaysXRg
 **I Don't Want to Set the World on Fire** : This song is a notable example of The Ink Spots' "Top and Bottom" formula, which led it to become a Top 10 hit and even reached number 1 on the pop charts. Its intro is characteristic of their highly successful and often-repeated style. "Now here's the intro to I don't want to set the world on fire." ← Episode 6： ＂That's When Your Heartaches Begin＂ by the Ink Spots | https://www.youtube.com/watch?v=9mYSQaysXRg
-**I'll Lose a Friend to Mother (1946)** : This song was one that Book Ram had written and which The Ink Spots released, showcasing Ram's songwriting work with them prior to his management career. "They'd released his, I'll lose a friend to mother in 1946." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
 **If I Didn't Care** : A song by The Ink Spots that Sam Cooke was heard singing, which led to him joining the Highway QC's. "Cook joined a newly formed gospel group who had heard him singing the Inkspot song, if I didn't care, to a girl." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
+**I'll Lose a Friend to Mother (1946)** : This song was one that Book Ram had written and which The Ink Spots released, showcasing Ram's songwriting work with them prior to his management career. "They'd released his, I'll lose a friend to mother in 1946." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
 **Swing High Swing Low (1937)** : This recording represents the early style of The Ink Spots after Bill Kenny joined, but before they developed their signature "Top and Bottom" sound. At this stage, they were still performing up-tempo numbers, primarily mirroring the sound of The Mills Brothers, with occasional spoken lines from Hoppy Jones. "As you can hear in the 1937 recording of Swing High Swing Low." ← Episode 6： ＂That's When Your Heartaches Begin＂ by the Ink Spots | https://www.youtube.com/watch?v=9mYSQaysXRg
-**That's When Your Heart Aches Again (Year Unknown)** : This Ink Spots song was performed by Elvis Presley three years prior to the Million Dollar Quartet session, marking his very first recording in the Memphis studio, made for his mother. "Elvis plays a solo version of that's when your heart aches again, the ink spots song he had performed three years earlier, when he had first walked into that studio to record himself for his mother." ← Episode 51： ＂Matchbox＂ by Carl Perkins | https://www.youtube.com/watch?v=0Nrjr0AGd3U
+**That's When Your Heartaches Begin (1941)** : This Ink Spots song was performed by Elvis Presley three years prior to the Million Dollar Quartet session, marking his very first recording in the Memphis studio, made for his mother. "Elvis plays a solo version of that's when your heart aches again, the ink spots song he had performed three years earlier, when he had first walked into that studio to record himself for his mother." ← Episode 51： ＂Matchbox＂ by Carl Perkins | https://www.youtube.com/watch?v=0Nrjr0AGd3U
 **That's When Your Heartaches Begin (1941)** : This record is a prime example of The Ink Spots' "Top and Bottom" formula, which became their hit-making style. The song starts with a familiar acoustic guitar figure, followed by Bill Kenny singing the entire song in his high tenor, with others singing backing vocals. Hoppy Jones then repeats the whole song, speaking it in his deep bass voice, before Kenny sings a final lead line. "But the one we're going to look at is the 1941 record, that's when your heart takes begin." ← Episode 6： ＂That's When Your Heartaches Begin＂ by the Ink Spots | https://www.youtube.com/watch?v=9mYSQaysXRg
-**We Three (N/A)** : This song about loneliness was admired by a young Barry Gordy Jr., influencing his appreciation for a particular type of vocal group performance. "And we three by the ink spots." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
-**We Three, My Echo, My Shadow and Me** : This song features the identical acoustic guitar intro and "Top and Bottom" vocal formula that became The Ink Spots' trademark, contributing to its chart success. It demonstrated how consistently the band applied their winning formula across different tracks. "Here's the intro to We3, my echo, my shadow and me." ← Episode 6： ＂That's When Your Heartaches Begin＂ by the Ink Spots | https://www.youtube.com/watch?v=9mYSQaysXRg
+**To Each His Own (1946)** : A song that followed The Ink Spots' established "Top and Bottom" formula, it achieved significant chart success, reaching the Top 10. The consistent application of this sound contributed to its popularity with the public. "And here's the intro to each his own." ← Episode 6： ＂That's When Your Heartaches Begin＂ by the Ink Spots | https://www.youtube.com/watch?v=9mYSQaysXRg
+**To Each His Own (1946)** : The Ink Spots, a black vocal quartet, took their turn at number one with "To Each His Own" just a fortnight after Freddie Martin and His Orchestra in 1946. This instance highlighted cross-racial interpretation, as a black group replaced white big bands on the charts. "the vocal group The Ink Spots took a turn at number one with to each his own." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
+**We Three (My Echo, My Shadow and Me)** : This song about loneliness was admired by a young Barry Gordy Jr., influencing his appreciation for a particular type of vocal group performance. "And we three by the ink spots." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
+**We Three (My Echo, My Shadow and Me)** : This song features the identical acoustic guitar intro and "Top and Bottom" vocal formula that became The Ink Spots' trademark, contributing to its chart success. It demonstrated how consistently the band applied their winning formula across different tracks. "Here's the intro to We3, my echo, my shadow and me." ← Episode 6： ＂That's When Your Heartaches Begin＂ by the Ink Spots | https://www.youtube.com/watch?v=9mYSQaysXRg
 **Whispering Grass** : This song also utilized the well-known "Top and Bottom" formula, featuring the distinctive acoustic guitar intro and vocal arrangement, helping it climb into the Top 10 on the pop charts. "And to whispering grass." ← Episode 6： ＂That's When Your Heartaches Begin＂ by the Ink Spots | https://www.youtube.com/watch?v=9mYSQaysXRg
 
 ## curiosities
+**Vocal Group** : Sister Rosetta Tharp enjoyed touring on the same bill with this young vocal group while she was with Lucky Millinder's band. "she enjoyed a tour where they were on the same bill as the young vocal group The Four of Inkspot." ← Episode 5： ＂This Train＂ by Sister Rosetta Tharpe | https://www.youtube.com/watch?v=II-hDnwUgT8
 **"Minstrily Behaviours" Criticism** : In their early years, Deek Watson, performing under the name Dice Vastus in his coffee pot group, was criticized in early reviews of The Ink Spots for "eye rolling, hand waving, and other minstrily behaviours." This often drew disapproval from Black reviewers who felt it perpetuated negative stereotypes. "Many early reviews of the ink spots criticised him for eye rolling, hand waving, and other minstrily behaviours, which many black reviewers at the time considered brought black people into this repute." ← Episode 6： ＂That's When Your Heartaches Begin＂ by the Ink Spots | https://www.youtube.com/watch?v=9mYSQaysXRg
 **"Top and Bottom" Formula Development** : Bill Kenny, an inspired arranger, refined Hoppy Jones' occasional spoken vocals into a hit formula. This arrangement started with an acoustic guitar figure, followed by Kenny's high-tenor lead vocal, then Hoppy Jones speaking the entire lyrics in his deep bass voice, and finally Kenny singing the last line. This formula was first used in the studio on "If I Didn't Care" and was consistently applied to subsequent hits. "He refined the idea of Hoppy's spoken vocals, and came up with a hit formula, which they would use over and over again." ← Episode 6： ＂That's When Your Heartaches Begin＂ by the Ink Spots | https://www.youtube.com/watch?v=9mYSQaysXRg
 **Backing Band for Bill Doggett** : The Ink Spots' backing band later included Bill Doggett, who joined them after having worked with Lucky Millinder. "He'd worked with Bill Doggett before Doggett went off to join the ink spots backing band." ← Episode 7： ＂Good Rockin' Tonight＂ by Wynonie Harris | https://www.youtube.com/watch?v=IgqSPoYRUCM
@@ -76,4 +75,3 @@
 **Proliferation of "The Ink Spots" Groups** : As a direct result of the court ruling that dissolved legitimate ownership of the name, anyone could form a group and call themselves "The Ink Spots." This led to a proliferation of touring and recording groups, with up to 40 different "Ink Spots" acts performing at one point, often with tenuous or no direct connection to the original band. "At one point, there were up to 40 different ink spots groups touring, and many of them were recording too." ← Episode 6： ＂That's When Your Heartaches Begin＂ by the Ink Spots | https://www.youtube.com/watch?v=9mYSQaysXRg
 **Second Court Ruling and Name Dissolution** : Faced with two competing versions of The Ink Spots, a second court case was initiated. Unexpectedly, the judge ruled that because The Ink Spots were a partnership and not a corporation, the partnership had legally dissolved upon Hoppy Jones' death a decade earlier. This meant that no one, neither surviving original members nor Bill Kenny, had a legitimate claim to the name, effectively making it public domain. "Instead, the ruling was one that no one had expected, and that no one wanted. You see, it turns out that the ink spots weren't a corporation. They were a partnership." ← Episode 6： ＂That's When Your Heartaches Begin＂ by the Ink Spots | https://www.youtube.com/watch?v=9mYSQaysXRg
 **Unique Vocal Formula** : The group was known for its distinct and unique musical formula, centered around Bill Kenny's high tenor vocals and Hoppy Jones's characteristic low-spoken bass delivery. "and who stuck to a unique formula based around Bill Kenny's Hyg Tenor and Hoppy Jones's low-spoken base." ← Episode 50： ＂Honky Tonk＂, by Bill Doggett | https://www.youtube.com/watch?v=H2rYnKmeZF0
-

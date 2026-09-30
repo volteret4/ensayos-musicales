@@ -17,6 +17,7 @@
 **Third Choice in 2000** : In 2000, electronica was presented as a "third choice" for music listeners, after pop, rap, and hip hop, suggesting its growing popularity. "A third choice would be all the flavors of electronica." ← https://www.youtube.com/watch?v=MK7L0eCpDHc ← electronica
 **Vinyl Preservation** : Vinyl, an otherwise "dead format," was kept alive predominantly by DJs who preferred it over CDs for spinning, scratching, and beat mixing. "Vinyl, which was an otherwise dead format, was kept alive really only by DJs who wanted something other than CDs to spin and scratch and beat mix." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← electronica
 **Year Zero (1988) in the UK** : The year 1988 is considered "Year Zero" for Electronica, particularly in the UK. This was when Detroit Techno, Chicago House, and the New York dance scene were enthusiastically embraced by English music fans, coinciding with the "Summer of Love" and the rise of ecstasy, which catalyzed a new dance and rave culture. "This brings us to Year Zero in the whole history of what we now call Electronica." ← https://www.youtube.com/watch?v=OiqdZfxdBP0 ← electronica
+**Madonna's 1990s Artistic Shift** : In the 1990s, Madonna made a significant artistic pivot towards music that was then classified as Electronica, a shift that notably culminated in her "triumphant 1998 album Ray of Light." "her pivot to what was then called Electronica, culminating in her triumphant 1998 album Ray of Light." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef10c30a1408dc291b9
 
 ## artists
 - Air
@@ -27,4 +28,4 @@
 - Moby
 - The Chemical Brothers
 - The Prodigy
-
+- Madonna

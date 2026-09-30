@@ -14,5 +14,5 @@
 
 ## artists
 - Scott Weiland
-- Sinead O'Connor
+- Sinéad O'Connor
 

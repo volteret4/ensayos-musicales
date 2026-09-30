@@ -1,16 +1,16 @@
 # artist - Cliff Richard
 
+## member of
+- The Shadows
+
 ## members
-- Bruce Welch (member)
-- Ernie Sheer (session lead guitarist for first single)
-- Frank Clark (session double bass for first single)
-- Hank Marvin (guitarist)
-- Harry Webb (birth name)
-- Ian Sanwell (lead guitarist, later switched to bass, then replaced by Jett Harris)
-- Jett Harris (replaced Ian Sanwell)
-- Norman Midham (original guitarist, friend of Cliff, later removed)
-- Terry Smart (original drummer, later replaced by Tony Meahin)
-- Tony Meahin (replaced Terry Smart)
+- Bruce Welch
+- Hank Marvin
+- Ian Samwell
+- Jet Harris
+- Norman Mitham
+- Terry Smart
+- Tony Meehan
 
 ## genres
 - Rock and Roll
@@ -25,10 +25,6 @@
 - Boy Meets Girls
 - The Two I's
 
-## albums
-**It's Cliff Richard (1970-1975) - BBC TV Series** : This BBC TV series, which followed *The Cliff Richard Show*, also served as a significant showcase for Olivia Newton-John, further contributing to her exposure. "and it's Cliff Richard, which was on from 70 to 75." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
-**The Cliff Richard Show (1969-1970) - BBC TV Series** : This BBC TV series showcased Cliff Richard and provided a platform for Olivia Newton-John, helping to bring her music to a wider audience. "It was Cliff Richard who helped bring Olivia's music to the world by giving her a showcase on his BBC TV shows, The Cliff Richard Show, which ran from 1969 to 1970" ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
-
 ## songs
 **Devil Woman (1976)** : This was a hit for Cliff Richard in the US. "Devil Woman released in 1976." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
 **Don't Move Away (1971)** : A song by Cliff Richard from 1971, which provides a glimpse into his musical style and early career collaborations, including his showcases with Olivia Newton-John. "Don't move away when you know I really want you." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
@@ -37,7 +33,7 @@
 **Move It (1958)** : This song was the first ever written by Ian Sanwell, created as an angry response to an article in The Maldives Maker that declared Rock and Roll dead. Initially, it was placed on the B-side of the proposed single, largely due to a lack of better options, and was quickly recorded. During its recording, the main engineer left for the opera, leaving junior engineer Malcolm Addy to record the track. Addy, being young and understanding of rock and roll sound, produced a much louder, more resonant sound, akin to Sun Records, making a significant difference to the track. Jack Good later heard it and insisted Cliff perform it on "Oh Boy!", leading the record label to flip the single to make "Move It" the A-side. Cliff worked with Good for a full week on his performance, meticulously instructed on every movement and facial expression. It became an immediate hit upon his TV debut in September 1958, reaching number two in the charts. "That track was still intended for the B-side, until the point that Jack Good heard it." ← Episode 70： ＂Move It＂ by Cliff Richard and the Drifters | https://www.youtube.com/watch?v=uoEWP94f6S4
 **Suddenly (1980)** : A duet with Olivia Newton-John for the *Xanadu* soundtrack, described as a "love theme." The song blended their past collaborations with 80s synthesizer sounds, and their vocals were noted for seamlessly blending together. Released in October 1980, it entered the top 20. "And I'm suddenly a hero taking me in my hopes beginning to rise." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
 **We Don't Talk Anymore (1979)** : This was a hit for Cliff Richard in the US. "He had the hits we don't talk anymore and Dream Inn in 1979 and 80" ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
-**Willie and the Hand Jive (1959) - Cover Version** : Cliff Richard recorded his own version of "Willie and the Hand Jive" in 1959. His backing band, The Shadows, devised a synchronized dance routine to enhance the visual presentation of the song during live performances. The positive audience reaction to this specific routine led The Shadows to incorporate unison movement into all their songs, giving rise to their signature "Shadows' Walk." "Cliff Richard caught his own version of William the Han Jive in 1959." ← REUPLOAD Episode 71： ＂Willie and the Hand Jive＂ by Johnny Otis | https://www.youtube.com/watch?v=Ez6BCUlI6Rg
+**Willie and the Hand Jive (1959)** : Cliff Richard recorded his own version of "Willie and the Hand Jive" in 1959. His backing band, The Shadows, devised a synchronized dance routine to enhance the visual presentation of the song during live performances. The positive audience reaction to this specific routine led The Shadows to incorporate unison movement into all their songs, giving rise to their signature "Shadows' Walk." "Cliff Richard caught his own version of William the Han Jive in 1959." ← REUPLOAD Episode 71： ＂Willie and the Hand Jive＂ by Johnny Otis | https://www.youtube.com/watch?v=Ez6BCUlI6Rg
 
 ## curiosities
 **"The British Elvis" (1964)** : In 1964, Billboard magazine named Cliff Richard the number one recording artist in the world, surpassing Elvis Presley, leading him to be called "the British Elvis," which illustrates his immense popularity in Britain. "In 1964, Billboard magazine named Cliff Richard the number one recording artist in the world. Elvis Presley was number two." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
@@ -68,4 +64,31 @@
 **Terry Smart's Replacement** : Cliff replaced his childhood friend Terry Smart, who had initially invited him into the group, with Tony Meahin, another former member of The Vipers. "Cliff replaced Terry Smart, his old school friend, the person who had invited him into his group with Tony Meahin, another ex-viper." ← Episode 70： ＂Move It＂ by Cliff Richard and the Drifters | https://www.youtube.com/watch?v=uoEWP94f6S4
 **US Career vs. Olivia Newton-John's** : Despite his massive popularity in Britain and shared manager (Peter Gormley) with Olivia Newton-John, Cliff Richard's career never fully took off in the US to the same extent as hers, despite hits like "We Don't Talk Anymore," "Dreaming," and "Devil Woman." "I honestly do not understand why Cliff Richard's career didn't take off more in the US." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
 **Vehicle for Expresso Bongo Film** : The film version of "Expresso Bongo," a rewritten satire of the British music industry, was made into a vehicle for Cliff Richard, with the satire removed and presented as a straight rags-to-riches story. "It was made into a vehicle for another singer who had been unregular at the two eyes." ← Episode 48： ＂Rock With the Caveman＂ by Tommy Steele | https://www.youtube.com/watch?v=scDLm48u2yc
+**Partnership with Olivia Newton-John** : British star Cliff Richard partnered with Olivia Newton-John early in her career in England. She opened his concerts and was a frequent guest on his variety show, which helped maintain her visibility to the British public. "She opened his concerts and was a frequent guest on his variety show. It kept Livy visible to the British public." ← Hit Parade Music History and Music Trivia > Country Roads and Summer Nights Edition Part 1 | https://shows.acast.com/hit-parade/episodes/698fd3ebd6c27a06bb92e1f2
 
+## charts
+**"Devil Woman" — Billboard Year-End Hot 100** : #55, 1976. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"We Don't Talk Anymore" — Billboard Year-End Hot 100** : #45, 1980. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"A Little in Love" — Billboard Year-End Hot 100** : #61, 1981. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"129" — NME Chart** : 13 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
+**"190" — NME Chart** : 10 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
+**"246" — NME Chart** : 13 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
+**"480" — NME Chart** : 5 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
+**"Summer Holiday" — Spain Singles Chart** : #1, 1963. ← Wikipedia | https://en.wikipedia.org/wiki/Promusicae
+**"Congratulations" — Spain Singles Chart** : #1, 1968. ← Wikipedia | https://en.wikipedia.org/wiki/Promusicae
+**"Living Doll" — UK Best Selling Singles** : 1959. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+**"Mistletoe and Wine" — UK Best Selling Singles** : 1988. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+**"The Millennium Prayer" — UK Indie Singles Chart** : 1999. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart
+**""High Class Baby" ‡" — UK Singles Chart** : #7, 1959. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+**""Travellin' Light" ‡" — UK Singles Chart** : #13, 1960. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+**"I Love You" — UK Singles Chart** : #9, 1961. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+**"The Young Ones" — UK Singles Chart** : #11, 1962. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+**"The Next Time"/"Bachelor Boy" — UK Singles Chart** : #11, 1963. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+**""Don't Talk to Him" ‡" — UK Singles Chart** : #8, 1964. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+**"I Could Easily Fall (In Love with You)" — UK Singles Chart** : #4, 1965. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+**""Wind Me Up (Let Me Go)" ‡" — UK Singles Chart** : #9, 1966. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+**""All My Love"" — UK Singles Chart** : #3, 1968. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+**""Daddy's Home" ‡" — UK Singles Chart** : #6, 1982. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+**""Mistletoe and Wine" ‡" — UK Singles Chart** : #6, 1989. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+**""Saviour's Day" ‡" — UK Singles Chart** : #5, 1991. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+**""The Millennium Prayer" ‡" — UK Singles Chart** : #7, 2000. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart

@@ -10,6 +10,9 @@
 - Summer Camp Sing-along
 - Topical Song
 
+## songs
+**The Bells of Romney** : This song was covered by The Mitchell Trio, with John Denver taking the lead vocal. "a Pete Seager song." ← Hit Parade Music History and Music Trivia > Country Roads and Summer Nights Edition Part 1 | https://shows.acast.com/hit-parade/episodes/698fd3ebd6c27a06bb92e1f2
+
 ## curiosities
 **Activism and Friendships** : Seeger was friends with both Woody Guthrie and Lead Belly in the 1940s and dedicated his later career to the same kind of left-wing activism that Guthrie had pursued. "He had been friends with both Woody Guthrie and Lead Belly in the 40s, and he dedicated his later career to the same kind of left-wing activism the Guthrie had taken part in." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
 **Blacklisting as Solo Artist** : As a result of his refusal to testify, Seeger, along with The Weavers, was blacklisted from radio and TV as a solo artist. "As a result, the Weevers were blacklisted from Radio and TV, as was Seeger as a solo artist." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
@@ -24,8 +27,7 @@
 **Quit The Weavers Over Tobacco Commercial** : Driven by his strong principles against tobacco and advertising, Seeger quit The Weavers when they accepted an offer to do a commercial for tobacco. Despite his disapproval, he honored a prior commitment and appeared in the commercial. "But Seeger didn't approve of tobacco or advertising, and quit the group because of it. Though, because he'd made a commitment to the group, he did appear on the commercial, not wanting to break his word." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
 **Refusal to Testify to HUAC** : Called before the House on American Activities Committee as a past Communist Party member, Seeger took the risky option of refusing to testify on First Amendment grounds. He asserted that his political activities, voting history, and party membership were his private business, spending much of the next decade under threat of prison. "But Seeger took the riskier option of simply refusing on first amendment grounds. He said, quite rightly, that his political activities, voting history, and party membership were nobody's business except his, and he wasn't going to testify about them in front of Congress." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
 **Second Payment to Linda's Daughters** : Just before Ryan Mulan's article exposed the disparity in royalties, Seeger received a $6,000 payment when a commercial used "Wimoweh." Realizing he had been receiving royalties for "Wimoweh" all along, despite his earlier instructions, he calculated his total earnings from the song, which amounted to $12,000, and sent a check for that sum to Linda's daughters. "Pete T. Gennotis to $6,000 payment, which came to him when a commercial used Wimmerway, rather than The Lion sleeps tonight." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
-
-
+**Discovered by John Hammond** : Pete Seeger was among the staggering roster of artists discovered by legendary talent scout, record producer, and label executive John Hammond. ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4eef8e6dd12efb02c3c9
 
 ## awards
 **Library of Congress Living Legend** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q6542686

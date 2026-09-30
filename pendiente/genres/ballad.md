@@ -8,5 +8,5 @@
 ## artists
 - Cecil Gant
 - Roy Orbison
-- Sylvia Van Topoele (Little Sylvia, Sylvia Robinson)
+- Sylvia Robinson
 

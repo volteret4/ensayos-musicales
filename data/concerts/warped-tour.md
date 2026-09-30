@@ -28,19 +28,18 @@
 **Vans Sponsorship and Punk Credibility** : The Warped Tour, known for featuring indie and punk bands, relied heavily on consistent sponsorship from the Vans shoe company. Despite the "left leaning tendencies" and anti-corporate politics often associated with the participating acts, the sponsorship was largely accepted by fans because Vans was considered "cool" by the demographic and it helped keep ticket prices low for a hideously expensive tour. "The Warped Tour which featured the most indie of indie and punk bands could not have happened for all those years had it not been consistently underwritten by a shoe company." ← https://www.youtube.com/watch?v=DYtsWfguqGo ← warped-tour ← warped-tour
 
 ## artists
-- Alexis on Fire
+- Alexisonfire
 - Beck
 - Blackfire
 - Blink 182
-- Blink-182
 - Eminem
 - Fall Out Boy
-- Gobb
+- Gob
 - Goldfinger
-- Green Day (Warped Tour)
+- Green Day
 - Il Scarlett
 - Jimmy Eat World
-- Katie Perry
+- Katy Perry
 - Limp Bizkit
 - Linkin Park
 - MXPX
@@ -48,11 +47,9 @@
 - Pennywise
 - Rancid
 - Rise Against
-- Saves The Day
 - Saves the Day
 - Sublime
 - Sum 41
 - The Offspring
 - Weezer
-- blink-182
 

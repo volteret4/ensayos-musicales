@@ -9,5 +9,5 @@
 - Björk
 - Florence + The Machine
 - Joanne Jordan
-- Tom Munger
+- Tom Monger
 

@@ -9,6 +9,6 @@
 **Nine Inch Nails Miniseries Partnership** : The BBC is collaborating with HBO to develop a sci-fi miniseries based on Nine Inch Nails' concept album *Year Zero*. This project involves significant financial investment and major industry players. "Year Zero is so compelling that HBO and the BBC are working together to create a sci-fi miniseries based on the record." ← https://www.youtube.com/watch?v=1KyNY3zv6uc ← bbc
 
 ## artists
-- Daphne Orham
+- Daphne Oram
 - Delia Derbyshire
 

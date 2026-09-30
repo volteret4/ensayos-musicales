@@ -17,13 +17,13 @@
 ## artists
 - Badfinger
 - Big Star
-- Brinsley Schwarz (band)
+- Brinsley Schwarz
 - Cheap Trick
 - Elvis Costello
 - Foo Fighters
 - Greg Kihn
 - Hüsker Dü
-- Jonathan Richman and the Modern Lovers
+- Jonathan Richman & The Modern Lovers
 - Killjoys
 - Nick Lowe
 - Sloan
@@ -38,4 +38,4 @@
 - Tom Petty
 - Veruca Salt
 - Weezer
-
+- Andre 3000

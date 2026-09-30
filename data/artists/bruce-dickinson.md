@@ -9,8 +9,6 @@
 **Throat Cancer Diagnosis** : Bruce Dickinson of Iron Maiden was diagnosed with throat cancer in 2015. The cancer was detected at an early stage, and all subsequent treatments proved successful, leading to his full recovery. "Bruce Dickinson of Iron Maiden was diagnosed with throat cancer in 2015." ← https://www.youtube.com/watch?v=u5NLt6mkmrk ← bruce-dickinson ← bruce-dickinson
 **World War I Reenactment Pilot** : In addition to his commercial pilot activities, Bruce Dickinson engages in recreational flying. For fun, he pilots a Fokker triplane, which he uses to specialize in reenactments of famous battles from World War I at air shows. "And just for fun he flies a Focker triplane which specializes in reenactments of famous battles of World War I." ← https://www.youtube.com/watch?v=hmnMG6f80Sg ← bruce-dickinson
 
-
-
 ## awards
 **Golden Raspberry Award for Worst Original Song (1989) — Bring Your Daughter... to the Slaughter** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1420891
 **Golden Raspberry Award for Worst Original Song (1990) — Bring Your Daughter... to the Slaughter** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1420891

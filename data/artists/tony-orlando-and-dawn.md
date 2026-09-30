@@ -1,11 +1,13 @@
 # artist - Tony Orlando and Dawn
 
 ## members
-- Joyce Vincent (background vocals)
-- Thelma Hopkins (background vocals)
-- Tony Orlando (lead vocals)
+- Joyce Vincent Wilson
+- Telma Hopkins
+- Tony Orlando
 
 ## genres
+- 70s Variety Show Pop
+- Lounge
 - Middle of the Road
 - Pop
 
@@ -17,7 +19,8 @@
 **Candida (1970)** : This song was Tony Orlando's first recording under the name Dawn. Producer Hank Medress sought a "more ethnic" sound than Frankie Paris's demo, and Orlando, of Greek and Puerto Rican descent, was asked to sing the lead vocals. Despite Orlando initially forgetting he'd recorded it, it became a top three hit. "Oh, Candida, we could make it together. The further from here, the better." ← For the Record - The 70s > Ep. 25 - The Hispanic Influence on 70s Popular Music | https://seventies.libsyn.com/ep-25-the-hispanic-influence-on-70s-popular-music
 **He Don't Love You Like I Love You (1975)** : Released in 1975, this song was written by Jerry Butler, Clarence Carter, and Curtis Mayfield. It became a number one hit on May 3, 1975, and remained at the top for three weeks. Thelma Hopkins cited it as her favorite Tony Orlando and Dawn song. "I know you're leaving. I know you're leaving. For the new love that you found." ← For the Record - The 70s > Ep. 25 - The Hispanic Influence on 70s Popular Music | https://seventies.libsyn.com/ep-25-the-hispanic-influence-on-70s-popular-music
 **Knock Three Times (1971)** : This song reached number two on the Billboard Pop Chart in January 1971. It was part of a diverse top five, with vocals by Tony Orlando, leading to the formation of the group Dawn. "Number two is Nock Three Times by Don." ← For the Record - The 70s > Ep. 25 - The Hispanic Influence on 70s Popular Music | https://seventies.libsyn.com/ep-25-the-hispanic-influence-on-70s-popular-music
-**Tie a Yellow Ribbon around the Old Oak Tree (1973)** : This song was the number one song of 1973, representative of the "safe and bland and dull" music often played on AM radio at the time. Its popularity highlighted the perceived decline of rock, which contributed to the emergence of punk rock as a "reboot" for the genre. "The number one song for 1973 was Taya Yellow Ribbon around the Old Oak Tree by Tony Orlando and Don." ← https://www.youtube.com/watch?v=gkLMwrthZ9s ← tony-orlando-and-dawn
+**Tie a Yellow Ribbon Round the Ol' Oak Tree (1973)** : This song was the Billboard year-end number one for 1973 and was released at a poignant time, coinciding with the return of combat troops from Vietnam. Its narrative of a soldier hoping his wife still awaits him was seen as a warm welcome for service members, capturing the sentiment of the era. However, the song's "lounge clubbrio" vocal style and "pure 70s variety show" arrangement are noted as not having aged well, and it triumphed over more critically acclaimed material in 1973. "Its story of a soldier who looks for a yellow ribbon to know his wife still wants him home was regarded as a warm welcome to service members." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce81
+**Tie a Yellow Ribbon Round the Ole Oak Tree (1973)** : This song was the number one song of 1973, representative of the "safe and bland and dull" music often played on AM radio at the time. Its popularity highlighted the perceived decline of rock, which contributed to the emergence of punk rock as a "reboot" for the genre. "The number one song for 1973 was Taya Yellow Ribbon around the Old Oak Tree by Tony Orlando and Don." ← https://www.youtube.com/watch?v=gkLMwrthZ9s ← tony-orlando-and-dawn
 
 ## curiosities
 **"Tie a Yellow Ribbon"** : Tony Orlando considered the song "Tie a Yellow Ribbon" to be "corny." "Tony said that Tyia Yellow Ribbon was corny and Tellma said that her favorite of all of the Tony Orlando and Don songs was he don't love you like I love you." ← For the Record - The 70s > Ep. 25 - The Hispanic Influence on 70s Popular Music | https://seventies.libsyn.com/ep-25-the-hispanic-influence-on-70s-popular-music
@@ -27,8 +30,6 @@
 **Interracial Makeup** : Tony Orlando and Dawn was unique for its interracial makeup, with Orlando (of Greek and Puerto Rican descent, identifying as white) performing with two African American singers, Thelma Hopkins and Joyce Vincent. Orlando was reportedly advised in 1974 that such a "black and white act" could not succeed. "Orlando said in 1974 that he was told he was nuts to leave the music publishing business to go on the road with two African American singers. He said there was no way a black and white act could make it." ← For the Record - The 70s > Ep. 25 - The Hispanic Influence on 70s Popular Music | https://seventies.libsyn.com/ep-25-the-hispanic-influence-on-70s-popular-music
 **Musical Style and Reception** : Tim Burke, writing for Rolling Stone in 1975, described their music as "very innocuous and very pleasant" and "very middle of the road," noting "very little, if any, Latin flavor" despite Tony Orlando's heritage. Orlando expressed surprise at Rolling Stone's interest, which was likely due to the immense popularity of their TV show in 1975. "Tim Burke writing for Rolling Stone in 1975 said the music was very innocuous and very pleasant after years of pop music striving for significance." ← For the Record - The 70s > Ep. 25 - The Hispanic Influence on 70s Popular Music | https://seventies.libsyn.com/ep-25-the-hispanic-influence-on-70s-popular-music
 **TV Show Popularity (1975)** : The group's music, despite being described as innocuous, was boosted by the incredible popularity of their TV show, "Tony Orlando and Dawn," in 1975, which garnered attention even from publications like Rolling Stone. "Tony actually seemed surprised that Rolling Stone was the least bit interested in the group's music, but I think that this shows just how incredibly popular the TV show Tony Orlando and Don was in 1975." ← For the Record - The 70s > Ep. 25 - The Hispanic Influence on 70s Popular Music | https://seventies.libsyn.com/ep-25-the-hispanic-influence-on-70s-popular-music
-
-
 
 ## awards
 **Grammy Award for Best Pop Performance by a Duo or Group with Vocals (1973)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q747902

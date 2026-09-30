@@ -6,3 +6,6 @@
 ## curiosities
 **Lead Vocalist for Meek's First #1** : John Leyton was the lead vocalist for "Johnny's Remember Me," the song that marked Joe Meek's first number one success in 1961. His performance was integral to conveying the song's unsettling and characteristic sound, crafted by Meek's unique production style. "En 1961 logró por fin su primer número 1 con el tema Johnny's Remain Burmick, cantado por John Layton." ← El productor que escuchó el nuevo mundo. Joe Meek. | https://www.youtube.com/watch?v=GEI5dpG5pxQ
 
+## charts
+**"120" — NME Chart** : 25 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
+**"re" — NME Chart** : 29 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

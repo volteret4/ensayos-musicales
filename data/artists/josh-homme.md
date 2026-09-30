@@ -2,21 +2,17 @@
 
 ## member of
 - Eagles of Death Metal
-- Josh Homme
 - Katzenjammer
 - Kyuss
-- Queen of the Stone Age
 - Queens of the Stone Age
+- Screaming Trees
 - Them Crooked Vultures
 
-## members
-- Josh Homme
-
 ## instruments
-- Acoustic guitar ($50, age 10)
+- Acoustic guitar
 - Bass amps
 - Cabinets
-- Drums (initially desired)
+- Drums
 - Guitar
 - Guitar amps
 
@@ -34,8 +30,3 @@
 **Screaming Trees Tour as Guitarist** : Josh Homme spent two years touring as the rhythm guitarist for the Seattle band Screaming Trees after meeting their singer Mark Lanegan, a Kyuss fan. He was described as a six-foot-five red-haired rhythm guitarist during their Lollapalooza 1996 set. "Mark was a fan of Kaya's and needed someone to tour with the trees and ask Josh if he would like to be his guitarist. So he did that for two years. If you were at Lollapalooza in 1996 and saw the tree set, that six foot five red-haired rhythm guitarist was Josh Hommie." ← https://www.youtube.com/watch?v=mG1TQuhcf1o ← josh-homme ← josh-homme
 **Seattle Hiatus and Education** : After his Gamma Ray project, Homme sought a change of scenery from the desert, moving to Seattle in 1996 and 1997. During this period, he took a break from music to study business at the University of Washington. "He needed a change of scenery from the desert. So he moved to Seattle, a very wet place to do nothing. The idea was to take a break from music and go back to school. And he did that for 1996 and 1997. He studied business at the University of Washington." ← https://www.youtube.com/watch?v=mG1TQuhcf1o ← josh-homme ← josh-homme
 **Unique Guitar Strumming Style** : Homme's distinctive guitar playing style is attributed to a combination of the straight up and down strumming techniques found in hardcore punk bands like GBH and Discharge, integrated with the strumming required for playing polkas. "You combine that with the strumming required to play polkas, and you suddenly begin to understand why Josh plays guitar the way he does, and why Queens of the Stone Age sounds just a little bit different." ← https://www.youtube.com/watch?v=mG1TQuhcf1o ← josh-homme ← josh-homme
-
-
-
-## lists
-**"Conference of the Birds" (2006) — Sputnikmusic Best Albums 2006** : #180, 3.99 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/

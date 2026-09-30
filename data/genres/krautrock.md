@@ -25,12 +25,11 @@
 **Varieties and "Motorik" Rhythm** : Krautrock encompassed various styles, from electronic-focused (like Kraftwerk) to noise-preferred material with a driving, hypnotic 4/4 rhythm known as "motorik," which evoked driving on the Autobahn. "There are many different varieties of Kratrock. Some went all in with electronics like craft work. There's like noise preferred material with a driving hypnotic, 4-4-rhythm known as motoric, which evoke driving in a car in the Autobahn." ← https://www.youtube.com/watch?v=pLf3kUONewg ← krautrock ← krautrock
 
 ## artists
-- Can
+- CAN
 - Cluster
 - David Bowie
 - Depeche Mode
 - Kraftwerk
 - Neu!
-- StereoLab
 - Stereolab
 

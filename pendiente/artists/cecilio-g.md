@@ -1,5 +1,8 @@
 # artist - Cecilio G
 
+## member of
+- PXXR GANG
+
 ## curiosities
 **"One of the Most Punk Figures in Spain"** : Cecilio G is described as one of the most punk figures in Spain, drawing comparisons to Eskorbuto's Alma. He was often at odds with almost everyone, leading to dozens of feuds. "Lo cierto es que Cecilio G es una de las figuras más pan de España desde yo su hijo alma de escorbuto." ← La salvaje historia del TRAP ESPAÑOL (2013-2026) | https://www.youtube.com/watch?v=4hBhiU5jj6s
 **"Rey del Bogatello"** : Cecilio G is known as the "Rey del Bogatello" (King of Bogatello), indicating his unique and often controversial status in the scene. "Cercilio G el rey del bogatello tuvo una guerra larga con sus antiguos socios, la porgan." ← La salvaje historia del TRAP ESPAÑOL (2013-2026) | https://www.youtube.com/watch?v=4hBhiU5jj6s
@@ -8,4 +11,3 @@
 **Legendary Initial Member of PXXR GANG** : Legend has it that Cecilio G was an initial, chaotic member of PXXR GANG and that he named the group as a parody of Rich Gang. The extent of his involvement at the very beginning is debated. "una figura caótica, la que le expuso el nombre como una parodia de la Rich Gang, el indomable Ececiliogé." ← La salvaje historia del TRAP ESPAÑOL (2013-2026) | https://www.youtube.com/watch?v=4hBhiU5jj6s
 **Long-standing Conflict with PXXR GANG** : Cecilio G had a long "war" with his former associates, PXXR GANG. This conflict primarily played out on Instagram stories and DMs, rather than through diss tracks. "Pero no fue una guerra de canciones, sino una guerra que se vivió en historias de Instagram y Duáles." ← La salvaje historia del TRAP ESPAÑOL (2013-2026) | https://www.youtube.com/watch?v=4hBhiU5jj6s
 **Reconciliation with PXXR GANG** : Over time, Cecilio G and PXXR GANG reconciled, ending their long-standing beef. "Con el tiempo la purga no y Cecilio G se han reconciliado y me alegro." ← La salvaje historia del TRAP ESPAÑOL (2013-2026) | https://www.youtube.com/watch?v=4hBhiU5jj6s
-

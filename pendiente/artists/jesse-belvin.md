@@ -1,24 +1,23 @@
 # artist - Jesse Belvin
 
 ## member of
-- Jesse Belvin
 - The Capris
 - The Cliques
 - The Saxons
+- The Shields
 
 ## members
-- Alex Hodge (in The Capris, The Turks, The Shields for Nature Boy)
-- Eugene Church (in The Cliques, The Saxons)
-- Frankie Ervin (as "The Shields" touring artist)
-- Gaynell Hodge (in The Saxons, The Turks, The Shields for Nature Boy)
-- Jesse Belvin
-- Johnny "Guitar" Watson (in The Saxons, The Shields)
-- Marvin Phillips (in Jesse and Marvin)
-- Mel Williams (in The Shields)
-- Tommy "Buster" Williams (in The Shields)
+- Alex Hodge
+- Eugene Church
+- Frankie Ervin
+- Gaynell Hodge
+- Johnny "Guitar" Watson
+- Marvin Phillips
+- Mel Williams
+- Tommy "Buster" Williams
 
 ## genres
-- Cruelling (style)
+- Cruelling
 - Doo-wop
 - Latin pop
 - Pop
@@ -27,7 +26,7 @@
 - Rock and Roll
 
 ## labels
-- Dot Records (indirectly, via The Shields)
+- Dot Records
 - John Dolphin's Hollywood Records
 - Modern Records
 - RCA
@@ -47,10 +46,10 @@
 **Earth Angel** : A song co-written by Jesse Belvin that became a hit while he was serving in the Armed Forces. Like many of his compositions, he initially didn't receive credit for it, but notably, he went to court over this specific track and successfully secured some royalties. "It was while he was in the Armed Forces that Earth Angel became a hit, a song he co-wrote..." ← Episode 47： ＂Goodnight My Love＂ by Jesse Belvin | https://www.youtube.com/watch?v=Eoyk3H0M6r8
 **Good Night My Love (1956)** : One of the most well-known songs of the 1950s, Jesse Belvin's version reached number 7 on the R&B charts. Its impact extended beyond chart success when DJ Alan Freed adopted it as the outro music for his radio show, making it familiar to a generation and establishing it as a standard covered by diverse artists like James Brown and Gloria Estefan. The song is credited to George Matola and John Mariscalco, with a prevalent rumor that Belvin composed the bridge and sold his contribution to Mariscalco for $400. "Belvin's version of the song went to number 7 in the Ardenby charts, but its impact went beyond its immediate chart success." ← Episode 47： ＂Goodnight My Love＂ by Jesse Belvin | https://www.youtube.com/watch?v=Eoyk3H0M6r8
 **Guess Who (1959)** : The first single from Jesse Belvin's album *Just Jesse Belvin*, written by his wife, Joanne Belvin, based on a love letter she had penned to him. The song was a commercial success, hitting number 33 on the Pop Chart and number 7 on the R&B charts, and earned prestigious Grammy nominations for Best R&B Performance and Best Male Vocal Performance. "That song made the top 40, hitting number 33 on the puck chart, and managed to reach number 7 on the R&B charts." ← Episode 47： ＂Goodnight My Love＂ by Jesse Belvin | https://www.youtube.com/watch?v=Eoyk3H0M6r8
-**Kokomo (Cover)** : A cover version recorded by Marvin and Johnny, a group that Jesse Belvin rejoined temporarily as one of the "Johnnys" for some follow-up singles. This track, however, did not manage to outsell either the original version or Perry Como's popular rendition, despite Belvin's involvement. "However, on some of the follow-ups, Jesse Belvin returned as one of the Johnny's, notably on a cover version of Kokomo, which didn't match to out-sell either the original or Perry Komo's version." ← Episode 47： ＂Goodnight My Love＂ by Jesse Belvin | https://www.youtube.com/watch?v=Eoyk3H0M6r8
+**Kokomo** : A cover version recorded by Marvin and Johnny, a group that Jesse Belvin rejoined temporarily as one of the "Johnnys" for some follow-up singles. This track, however, did not manage to outsell either the original version or Perry Como's popular rendition, despite Belvin's involvement. "However, on some of the follow-ups, Jesse Belvin returned as one of the Johnny's, notably on a cover version of Kokomo, which didn't match to out-sell either the original or Perry Komo's version." ← Episode 47： ＂Goodnight My Love＂ by Jesse Belvin | https://www.youtube.com/watch?v=Eoyk3H0M6r8
 **My Satellite** : A do-wop novelty song credited to Jesse Belvin and The Spacewriters, featuring Alex Hodge of The Platters on backing vocals. Its melody shared similarities with "Hound Dog" and it was strategically released to capitalize on the "space craze" that commenced with the launch of the Russian satellite, Sputnik. "My Satellite, a song whose melody owes something to Houndog, credited to Jesse Belvin and the spacewriters, and released to cash in on the space craze that had started with the launch of the Russian Satellite's spot neck." ← Episode 47： ＂Goodnight My Love＂ by Jesse Belvin | https://www.youtube.com/watch?v=Eoyk3H0M6r8
 **Senorita** : A Latin pop track recorded by Jesse Belvin as a solo artist. This song exemplified the astonishing stylistic range of his post-"Good Night My Love" singles, showcasing his versatility beyond the doo-wop genre and his exploration of diverse musical styles. "The stylistic range of these records is quite astonishing, from Latin pop like Senorita..." ← Episode 47： ＂Goodnight My Love＂ by Jesse Belvin | https://www.youtube.com/watch?v=Eoyk3H0M6r8
-**You Send Me (1957) - Cover Version** : Jesse Belvin recorded a cover version of Sam Cooke's "You Send Me." Sam Cooke and Bumps Blackwell did not object to this version, seeing Belvin as a friend and colleague. "Sam and Bumps didn't mind the versions by Jessie Bell of it." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
+**You Send Me (1957)** : Jesse Belvin recorded a cover version of Sam Cooke's "You Send Me." Sam Cooke and Bumps Blackwell did not object to this version, seeing Belvin as a friend and colleague. "Sam and Bumps didn't mind the versions by Jessie Bell of it." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
 
 ## curiosities
 **Abandoning The Cliques' Success** : After forming The Cliques with Eugene Church, their song "The Girl in My Dreams" reached number 45 on the Pop Chart, a clear commercial success. However, Belvin made the decision to abandon the group name and pursue a solo career rather than capitalize on or follow up on this minor hit. "And so of course, at this point, Belvin ditched the Cliques name, rather than follow up on the minor hit, and started making records as a solo artist instead." ← Episode 47： ＂Goodnight My Love＂ by Jesse Belvin | https://www.youtube.com/watch?v=Eoyk3H0M6r8
@@ -70,4 +69,3 @@
 **Slow Dancing Favorite** : Jesse Belvin was an artist whose music was particularly popular on early Jamaican sound systems for slow dancing occasions. "and for slow dancing the moon blows and Jesse Belvin." ← Episode 114： ＂My Boy Lollipop＂ by Millie | https://www.youtube.com/watch?v=kf-DtqoOsRI
 **Tragic Death in Car Crash (February 6, 1960)** : Jesse Belvin died instantly in a car crash on February 6, 1960, shortly after performing at a concert in Little Rock, Arkansas. His wife, Joanne, who he reportedly shielded from the worst of the impact, was seriously injured and succumbed to her injuries a few days later. The circumstances of their deaths are shrouded in rumor and lack of official investigation due to institutional racism at the time. "On February the 6th, 1960, there was a concert in Little Rock, Arkansas at the Robinson Auditorium." ← Episode 47： ＂Goodnight My Love＂ by Jesse Belvin | https://www.youtube.com/watch?v=Eoyk3H0M6r8
 **Uninvestigated Death and Sabotage Rumors** : Following the fatal car crash that killed Jesse and Joanne Belvin, no thorough investigation was conducted due to institutional racism prevalent in the Deep South at the time. Rumors quickly circulated, including newspaper reports of slashed tires on Belvin's car, unconfirmed death threats against Belvin, and car troubles experienced by Jackie Wilson and other musicians on the same night, leading to speculation of sabotage or racist murder. "So when Jesse and Joanne Belvin died, they could have been the victims of a racist murder, or they could just have been horribly unlucky." ← Episode 47： ＂Goodnight My Love＂ by Jesse Belvin | https://www.youtube.com/watch?v=Eoyk3H0M6r8
-

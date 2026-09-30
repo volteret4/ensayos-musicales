@@ -26,10 +26,15 @@
 **Shift from Formulaic Sound** : By 1971, Motown began to move away from its established and highly popular formula, particularly one that had found widespread acceptance among white audiences. This evolution allowed for a "very different funky or sound," as exemplified by songs like The Undisputed Truth's "Smiling Faces Sometimes." "It's 1971 and Motown is finally starting to get out of that formula that they had that was so popular in particular with white people that's a very different funky or sound for Motown." ← For the Record - The 70s > Ep. 22 - Power to the People - The Music of the Black Power Movement | https://seventies.libsyn.com/022-power-to-the-people-62520-11-01-am ← motown
 **Union Rule Circumvention** : The Musician's Union had a rule requiring a vocalist to be present if musicians were cutting a vocal track. Motown, like other labels, often broke this rule. A surprise union inspection during a Mary Wells session led Mickey Stevenson to have his secretary, Martha Reeves, sing the lead to avoid penalties, ultimately leading to Martha taking over the song. "Motown, like most labels, were perfectly happy to break the union rules on occasion, but there was always the possibility of a surprise union inspection" ← Episode 111： ＂Heat Wave＂ by Martha and the Vandellas | https://www.youtube.com/watch?v=AAiUJhSKjzs
 **We Are The World Inception Point** : The initial idea to create and record the song "We Are The World," and to gather all the participating artists, was conceived at the Motown house. "la idea de grabar el disco, la idea de la canción, la idea de contra todos los artistas, se gestó en la casa de la mota." ← Music Radar Clan > We are the world | https://www.youtube.com/watch?v=XTJKpU0lhls&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← motown ← motown
+**Founder Barry Gordy** : Motown is mentioned in relation to its founder, Barry Gordy, whose sister Anna Gordy was Marvin Gaye's ex-wife and the recipient of royalties from Gaye's album "Here, My Dear." "sister of Motown founder Barry Gordy." ← Hit Parade Music History and Music Trivia > Here’s the Beef Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef3154465cd600c4ef5
+**James Jamerson's Association** : James Jamerson is identified as the "legendary bassist behind dozens of classic Motown hits," associating his work with the influential Motown label. "James Jamerson, the legendary bassist behind dozens of classic Motown hits." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
+**Barry Gordy's Rejection of "One Bad Apple"** : Motown's Berry Gordy famously turned down the song "One Bad Apple" for his superstar family band, The Jackson 5. The song was then remade by The Osmond Brothers into an "uncanny Jackson 5 facsimile" and became a number one hit, inadvertently affirming The Jackson 5's imperial status by showing their influence on other acts. "A song Motown's Barry Gordy turned down for his superstar family band that was then remade by the Osmond Brothers into an uncanny Jackson 5 facsimile." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f03154465cd600c5379
+**Motown's British Division Strategy (1970)** : Motown's British division strategically chose "The Tears of a Clown" for release in the UK in July 1970 to celebrate The Miracles' success and fill a market gap while Smokey Robinson was on hiatus, recognizing its "throwback Motown classic" sound. "Motown's British division chose the track for release in the UK to celebrate the miracle's success and fill a market gap while Smokey was on hiatus." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c42e
+**Home Office Decision on US Release (1970)** : Following the UK chart success of "The Tears of a Clown," Motown's home office decided to release the single in America in October 1970, leading to its number one hit status by December. "That's when Motown's home office decided to try the single in America." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c42e
+**Re-signing Charlene and Reissue (1982)** : After Tampa DJ Scott Shannon's advocacy for "I've Never Been to Me" based on listener demand, Motown executives relocated Charlene, re-signed her, and re-released the single, which subsequently climbed to number three in 1982. "Motown executives relocated Charlene, re-signed her to Motown and re-released I've never been to me." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c42e
 
 ## artists
 - Barrett Strong
-- Barry Gordy
 - Berry Gordy
 - Brian Holland
 - Diana Ross
@@ -38,14 +43,12 @@
 - Frank Wilson
 - Freddie Gorman
 - Henry Cosby
-- Martha and the Van Dellers
+- Martha and the Vandellas
 - Marvin Gaye
 - Mickey Stevenson
-- Norman Whitfield
 - Robert Bateman
-- Sandra Mallet
 - Smokey Robinson
-- Smokey Robinson and the Miracles
+- Smokey Robinson and The Miracles
 - Stevie Wonder
 - The Darnells
 - The Marvelettes
@@ -55,4 +58,5 @@
 - The Spinners
 - The Supremes
 - The Undisputed Truth
-
+- The Jackson 5
+- Bonnie Pointer

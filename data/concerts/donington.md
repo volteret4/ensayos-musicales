@@ -5,8 +5,6 @@
 
 ## artists
 - Guns N' Roses
-- Guns n' Roses
 - Iron Maiden
-- KISS
 - Kiss
 

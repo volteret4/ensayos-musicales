@@ -2,13 +2,15 @@
 
 ## member of
 - The Velvet Underground
-- Velvet Underground
 
 ## genres
 - Experimental classical music
 
+## instruments
+- Electric keyboard
+
 ## songs
-**Hallelujah (Cover)** : John Cale of The Velvet Underground was among the first artists to cover Leonard Cohen's "Hallelujah," contributing to its renewed popularity. "An older song called Hallelujah started getting covered again and again, starting with a version by John Kale of the Velvet Underground..." ← https://www.youtube.com/watch?v=P45lJTdneoI ← john-cale ← john-cale
+**Hallelujah** : John Cale of The Velvet Underground was among the first artists to cover Leonard Cohen's "Hallelujah," contributing to its renewed popularity. "An older song called Hallelujah started getting covered again and again, starting with a version by John Kale of the Velvet Underground..." ← https://www.youtube.com/watch?v=P45lJTdneoI ← john-cale ← john-cale
 
 ## curiosities
 **Child Prodigy and Classical Music Background** : John Cale, originally from England but residing in the United States, was an immense musical talent. He began studying music professionally at age five and was composing classical music by age eight, having emigrated to the U.S. to work on experimental classical music. "empezó a estudiar música profesionalmente con cinco años y componía música clásica desde los ocho y de hecho había emigrado Estados Unidos para trabajar en música experimental clásica, era un grandísimo genio." ← Music Radar Clan > The Velvet Underground： Una vision más humana que musical | https://www.youtube.com/watch?v=_TMMVFTuyC4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← john-cale ← john-cale
@@ -16,8 +18,6 @@
 **Portrayed in Film** : John Cale of The Velvet Underground was portrayed by Weezer drummer Pat Wilson in the film "Factory Girl." "Pat got to be John Kale of the Velvet Underground." ← https://www.youtube.com/watch?v=LYRPxtP61JM ← john-cale
 **Producer for Horses** : John Cale produced Patti Smith's influential 1975 album *Horses*. The record was described as feeling "a little chaotic," which was deemed "kind of the point" under Cale's direction, aligning with Smith's spiritual rather than perfectionist aims. "John Kale of the Velvet Underground was the producer and the whole record this felt like it was a little chaotic but K-Oss was kind of the point." ← For the Record - The 70s > Ep. 57 - Punk and New Wave at New York's CBGB | https://www.ftr70.com/
 **Welsh Origin** : John Cale is described as Welsh-born. "Lew and his bandmate, the Welsh-born John Kale, would be part of what is considered to be the first ever alternative rock band, The Velvet Underground." ← https://www.youtube.com/watch?v=6oUkMOkEr9U ← john-cale
-
-
 
 ## awards
 **Rock and Roll Hall of Fame (1996)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191

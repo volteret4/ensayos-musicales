@@ -1,14 +1,8 @@
 # artist - Wesley Willis
 
-## member of
-- Wesley Willis
-
-## members
-- Wesley Willis
-
 ## genres
 - Industrial Metal
-- Outsider Music (previously covered)
+- Outsider Music
 - Rock n' Roll
 
 ## labels
@@ -17,12 +11,8 @@
 ## instruments
 - Technics electronic keyboard
 
-## albums
-**Extensive Album Output** : Wesley Willis released approximately 50 albums during his lifetime and claimed to have composed 35,000 songs. While they often shared a similar sound, they were all recorded with genuine passion, contributing to his enduring status as an outsider music superstar. "Wesley released about 50 albums in his lifetime and claimed to have written 35,000 songs." ← https://www.youtube.com/watch?v=c8CD_FcWcg8 ← wesley-willis ← wesley-willis
-
 ## songs
 **Suck a Donkeys Booty Hole** : This track is mentioned as an example of Wesley Willis's more obscene song titles, showcasing the range of his lyrical content which sometimes veered into explicit territory, contrasting with his often straightforward odes to everyday life. "There was one track called Suck a Donkeys booty hole." ← https://www.youtube.com/watch?v=c8CD_FcWcg8 ← wesley-willis ← wesley-willis
-**Tributes to Rock Stars** : Wesley Willis frequently sang about his favorite rock stars, creating direct and passionate tributes to figures such as Dave Grohl, The Rolling Stones, Hootie and the Blowfish, and Courtney Love. These songs demonstrate his unbridled enthusiasm for music and his unique approach to songwriting. "Most of all, Wesley loved to sing about his favorite rock stars. People like Dave Grohl." ← https://www.youtube.com/watch?v=c8CD_FcWcg8 ← wesley-willis ← wesley-willis
 
 ## curiosities
 **Background and Mental Health** : Wesley Willis was a 6'5", 350 lb street artist from Chicago who began showing signs of schizophrenia in 1989, leading to institutionalization. He had distinctive behaviors, including head-butting as a greeting (resulting in a perpetual forehead bruise), and struggled with hygiene and unexpected vomiting, yet found solace in music. "Wesley was a 6'5, 350 lb street artist from Chicago. His thing was selling landscape drawings to people who passed by on the street." ← https://www.youtube.com/watch?v=c8CD_FcWcg8 ← wesley-willis ← wesley-willis
@@ -32,9 +22,3 @@
 **Mention in Outsider Music History** : Wesley Willis is listed among artists previously covered as examples of outsider music, alongside The Shags, The Legendary Stardust Cowboy, and others. "On those programs, I covered Wesley Willis, the Shags, the legendary Stardust cowboy, Jandic, Captain B. Fart, Daniel Johnson, Florence Foster Jenkins, and even Charles Manson." ← https://www.youtube.com/watch?v=HcK4M7-02ik ← wesley-willis
 **Music as Liberation** : Music, particularly rock n' roll which he affectionately called his "joy ride music," served as a significant source of liberation for Wesley Willis from what he referred to as his "mental hell rides." He composed and sang passionately, typically using a cheap Technics electronic keyboard. "But one of the few things that liberated him from what he called his mental hell rides was music." ← https://www.youtube.com/watch?v=c8CD_FcWcg8 ← wesley-willis ← wesley-willis
 **Support from Indie Musicians** : Indie musicians in Chicago and beyond, including producer Steve Albini and a former bandmate of Billy Corgan from a pre-Smashing Pumpkins band, took notice and supported Wesley. The Canadian industrial metal band Monster Voodoo Machine recorded with him, and Eddie Vedder was charmed by his work. "The indie musicians of Chicago and beyond took note, and they took a liking to him." ← https://www.youtube.com/watch?v=c8CD_FcWcg8 ← wesley-willis ← wesley-willis
-
-
-
-## lists
-**"Pearl Of Great Price" (1991) — Scaruffi 1990s** : #361, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Word Flesh Stone" (1992) — Scaruffi 1990s** : #1405, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

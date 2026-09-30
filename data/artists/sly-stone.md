@@ -16,20 +16,7 @@
 **Questlove's Documentary** : A documentary about Sly Stone, titled "Sly Lives," directed by Questlove, began streaming on Hulu approximately six months prior to Stone's death. This film delves into the "demons" and personal burdens faced by Sly Stone, including the significant pressure of being not just a superstar, but an African American one. "You could go watch Quest Love's documentary on Sly Sly Lives, which began streaming on Hulu about six months ago." ← For the Record - The 70s > FTR70 Sound Bite - Remembering Sly Stone | https://www.ftr70.com/
 **Sly Stone Death (2025) – COPD After Living in a Van and $5M Settlement** : Sly Stone, pioneer of funk, soul, and rock, died in 2025 of COPD. After years of personal struggles that included living in a camper van, he won a $5 million copyright lawsuit that allowed a brief return to public life before his death. "After years of struggles and living in a camper van, won a $5 million copyright lawsuit." ← https://www.youtube.com/watch?v=ZPlsR7_WiZQ ← sly-stone
 **Template for 70s Music** : Sly Stone is recognized for providing a foundational template for the music of the 1970s, particularly through his innovative use of instrumentation and sound. His work showed what was musically possible and influenced subsequent acts. "another example of how Sly gave us a template for 70s music." ← For the Record - The 70s > FTR70 Sound Bite - Remembering Sly Stone | https://www.ftr70.com/
-
-
+**Contribution to 1971's Musical Greatness** : Sly Stone was recognized as one of the artists contributing to the musical "greatness" of 1971, a period described as when "the music of the 60s came into full artistic fruition." "Sly Stone." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
 
 ## awards
 **Grammy Lifetime Achievement Award (2017)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q935843
-
-## charts
-**"Thank You" — Billboard Year-End Hot 100** : #19, 1970. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Family Affair" — Billboard Year-End Hot 100** : #79, 1972. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"If You Want Me to Stay" — Billboard Year-End Hot 100** : #43, 1973. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-
-## lists
-**"There’s a Riot Goin’ On" (1971) — 1001 Albums You Must Hear Before You Die** : #206.
-**"There’s a Riot Goin’ On" (1971) — AOTY Must Hear 1970s** : #192. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"There’s a Riot Goin’ On" (1971) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #82. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Greatest Hits" (1970) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #343. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"There’s a Riot Goin’ On" (1971) — Pitchfork: The 100 Best Albums of the 1970s** : #4. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1

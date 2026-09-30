@@ -1,18 +1,8 @@
 # artist - Tony Visconti
 
-## member of
-- David Bowie
-
 ## instruments
 - Harmonizer H910
 - Magnetic tape recorder
-
-## albums
-**Berlin Period Albums (1977-1979) - Producer** : Over three years, Tony Visconti worked alongside Brian Eno and David Bowie to produce the three LPs that form Bowie's "Berlin period" trilogy. Although not all material was recorded in Berlin, the albums reflected Bowie's desire to stretch creatively, incorporating sounds from Electro and Krautrock. "Over the next three years, Eno, Boey and his regular producer Tony Visconti would turn out three David Boey LPs that would become known as his Berlin period." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 1 | https://shows.acast.com/hit-parade/episodes/696aa42a4796fcbb571adba7
-**The Man Who Sold the World (1970) - Producer** : Tony Visconti produced this 1970 LP for David Bowie, helping him refine his sound to be harder rock. Despite their efforts, the album initially flopped and failed to chart in the UK or US. "The following year, on his 1970 LP The Man Who Sold the World, Bowie refined his sound with producer Tony Visconti and rocked harder." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 1 | https://shows.acast.com/hit-parade/episodes/696aa42a4796fcbb571adba7
-
-## songs
-**"Heroes" (1977) - Innovative Vocal Production** : As producer for "Heroes," Tony Visconti rigged an innovative microphone system to capture David Bowie's vocal. Mics were spaced across the room and gated to turn on one by one as Bowie's vocal grew louder, contributing to the song's thunderous and anthemic quality. "Producer Tony Visconti rigged up an innovative microphone system to capture Boey's vocal. Mike's were spaced across the room and gated to turn on one by one as his vocal got louder." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 1 | https://shows.acast.com/hit-parade/episodes/696aa42a4796fcbb571adba7
 
 ## curiosities
 **"Band on the Run" Orchestral Contribution** : Paul McCartney hired Tony Visconti to both write for and conduct a 60-piece orchestra during the challenging recording sessions for the *Band on the Run* album in Nigeria. Visconti's involvement aimed to enhance the musicality despite the difficult conditions. "Paul McCartney and Tony Visconti who McCartney hired to both write for and conduct a 60 piece orchestra." ← For the Record - The 70s > Ep. 42 - Rock Operas of the 70s | https://seventies.libsyn.com/ep-42-rock-operas-of-the-70s ← tony-visconti
@@ -26,18 +16,3 @@
 **Producer for David Bowie** : Tony Visconti worked as a producer for David Bowie for the majority of his career. "Tony Biz Conti produjo una parte importantísima de la carrera de David Bowie." ← Music Radar Clan > EL PIONERO DEL GLAM： MARC BOLAN Y T REX | https://www.youtube.com/watch?v=Mw_HxfX8iBA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← tony-visconti ← tony-visconti
 **Producer for David Bowie's Lodger** : Tony Visconti served as the producer for David Bowie's album "Lodger." "That was still Tony Visconti's job." ← https://www.youtube.com/watch?v=rw0uXf5UJvo ← tony-visconti ← tony-visconti
 **View on *Heroes*** : Tony Visconti regarded David Bowie's *Heroes* as a more positive version of its predecessor, *Low*. "Visconti lo consideró como una versión más positiva de Low." ← El proyecto que salvó a David Bowie. La trilogía de Berlín | https://www.youtube.com/watch?v=CHJwoQRxrKg
-
-
-
-## charts
-**"Bring Em Out" — Billboard Year-End Hot 100** : #65, 2005. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"U Don't Know Me" — Billboard Year-End Hot 100** : #79, 2005. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"What You Know" — Billboard Year-End Hot 100** : #47, 2006. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Why You Wanna" — Billboard Year-End Hot 100** : #95, 2006. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Big Shit Poppin'" — Billboard Year-End Hot 100** : #75, 2007. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Whatever You Like" — Billboard Year-End Hot 100** : #15, 2008. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Live Your Life" — Billboard Year-End Hot 100** : #37, 2008. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Dead and Gone" — Billboard Year-End Hot 100** : #12, 2009. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Live Your Life" — Billboard Year-End Hot 100** : #18, 2009. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Whatever You Like" — Billboard Year-End Hot 100** : #40, 2009. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"No Mediocre" — Billboard Year-End Hot 100** : #87, 2014. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

@@ -15,14 +15,14 @@
 - Record Industry
 
 ## albums
-**Bo-Day-Shus!!! (1987) - Redneck Culture Parody** : Released in 1987 with his partner Skid Roper, this album featured a rockabilly sound that playfully satirized redneck culture without being mean-spirited or condescending. "It basically poked fun at redneck culture with this rockabilly sound, but in no way was it mean or condescending." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← mojo-nixon
-**Bodacious (1987)** : This 1987 record, a collaboration between Mojo Nixon and Skid Roper, featured the song "Elvis Is Everywhere," which became a significant hit with the Beavis and Butthead crowd. "The biggest hit together came in 1987 with a record called Bodacious." ← https://www.youtube.com/watch?v=I9_3EbwKPnU ← mojo-nixon ← mojo-nixon
+**Bo-Day-Shus!!! (1987)** : Released in 1987 with his partner Skid Roper, this album featured a rockabilly sound that playfully satirized redneck culture without being mean-spirited or condescending. "It basically poked fun at redneck culture with this rockabilly sound, but in no way was it mean or condescending." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← mojo-nixon
+**Bo-Day-Shus!!! (1987)** : This 1987 record, a collaboration between Mojo Nixon and Skid Roper, featured the song "Elvis Is Everywhere," which became a significant hit with the Beavis and Butthead crowd. "The biggest hit together came in 1987 with a record called Bodacious." ← https://www.youtube.com/watch?v=I9_3EbwKPnU ← mojo-nixon ← mojo-nixon
 
 ## songs
 **Bring Me the Head of David Geffen** : This song by Mojo Nixon caused him some issues within the record industry due to its provocative title and subject matter. "and also bringing me the head of David Geffen, which caused him some problems within the record industry." ← https://www.youtube.com/watch?v=I9_3EbwKPnU ← mojo-nixon ← mojo-nixon
 **Debbie Gibson Is Pregnant With My Two-Headed Love Child** : This song is one of Mojo Nixon's titles, showcasing his bizarre and humorous lyrical content. "and Debbie Gibson is pregnant with my two-headed love child." ← https://www.youtube.com/watch?v=I9_3EbwKPnU ← mojo-nixon ← mojo-nixon
 **Elvis Is Everywhere (1987)** : This song, released in 1987 with Skid Roper from the album `Bodacious`, became a significant alt-rock hit. It was widely played on MTV and MuchMusic, achieving popularity with the Beavis and Butthead crowd. "Mojo Nixon and Skid Roper with Elvis is everywhere from 1987. That was a reasonable alt-rock hitback then. It was all over MTV and much music." ← Ongoing History of New Music > Bent Bands | https://www.youtube.com/watch?v=I9_3EbwKPnU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
-**Elvis is Everywhere (1987)** : This was Mojo Nixon's most well-known song, released in 1987 with Skid Roper, which gained significant visibility on video channels. "Mojo Nixon and his then musical partner Skid Roper and Elvis is everywhere." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← mojo-nixon
+**Elvis Is Everywhere (1987)** : This was Mojo Nixon's most well-known song, released in 1987 with Skid Roper, which gained significant visibility on video channels. "Mojo Nixon and his then musical partner Skid Roper and Elvis is everywhere." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← mojo-nixon
 **Jesus at McDonald's** : This song is one of Mojo Nixon's titles, exemplifying his offbeat sense of humor within the Psychobilly genre. "There were songs like Jesus at McDonald's." ← https://www.youtube.com/watch?v=I9_3EbwKPnU ← mojo-nixon ← mojo-nixon
 **Orenthal James Was A Mighty Bad Man** : This song is one of Mojo Nixon's favorites, and it is explicitly about O.J. Simpson. "One of my favorites was Orin Thal James was a mighty bad man, which of course is all about O.J. Simpson." ← https://www.youtube.com/watch?v=I9_3EbwKPnU ← mojo-nixon ← mojo-nixon
 
@@ -40,8 +40,3 @@
 **Radio DJ Career** : Nixon worked as a radio DJ in multiple cities, including San Diego and Cincinnati, and also on satellite radio. "He worked as a radio DJ in both San Diego and Cincinnati as well as on satellite radio." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← mojo-nixon
 **The Very Reasonable Rider to Contract** : Mojo Nixon, a rockabilly/punkabilly hero, was known for his "very reasonable rider." Its requirements included being nice (not beating up rowdy fans unless absolutely necessary), one case of Budweiser on ice (with a note for more if needed), a dressing room with a bathroom or four "P jars," and a couple of people to help carry equipment to and from the stage. This concise list constituted his entire rider. "That was the entire writer. Mojo died while performing on a cruise ship in early 2024." ← https://www.youtube.com/watch?v=z2hvUDtBxho ← mojo-nixon
 **Virginia Origin** : Mojo Nixon originated from Virginia, where he found his niche in the psychobilly genre. "He came out of Virginia and found solace and a genre that became known as Psychobilly." ← https://www.youtube.com/watch?v=I9_3EbwKPnU ← mojo-nixon ← mojo-nixon
-
-
-
-## charts
-**"473" — NME Chart** : 16 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

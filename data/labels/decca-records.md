@@ -18,18 +18,18 @@
 **Understanding Changing Music Business** : Of all the major labels, Decca was notable for genuinely understanding the evolving music business, leading them to acquire specialty jazz label founders like Milt Gabler and Bob Thiele. "Decker, which of all the major labels was the only one that really understood the way that the music business was changing." ← Episode Sixty-One： ＂That'll Be the Day＂, by the Crickets | https://www.youtube.com/watch?v=KVJMKLc54O0
 
 ## artists
-- Billy Ward and his Dominoes
+- Billy Ward and His Dominoes
 - Bob Thiele
 - Buddy Holly
-- Buddy Holly and the Crickets
+- The Crickets
 - David Bowie
-- Hugh Mendel
+- Hugh Mendl
 - Milt Gabler
 - Paul Cohen
 - The Animals
 - The Beatles
 - The King Bees
-- The Rock and Roll Trio
+- Johnny Burnette and the Rock and Roll Trio
 - The Shirelles
 - Tommy Steele
 - Wanda Jackson

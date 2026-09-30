@@ -1,9 +1,10 @@
 # artist - Flea
 
 ## member of
+- Fear
 - Hate
 - Jane's Addiction
-- Mike Watt
+- Public Image Ltd
 - Red Hot Chili Peppers
 - Rocket Juice & the Moon
 
@@ -11,7 +12,7 @@
 - Bass
 
 ## songs
-**Give It Away (1991) - Bassline Origin** : Flea developed the distinctive bassline for "Give It Away" while working on a side project called Hate, with members of the punk-funk band Fishbone. He had originally intended it for Hate, but the band dissolved before it could be recorded. "Lee came up with the bass line while working on a side project called Hate with a few members of the punk-funk band Fishbone." ← https://www.youtube.com/watch?v=Rf1tFWQg51Y ← flea ← flea
+**Give It Away (1991)** : Flea developed the distinctive bassline for "Give It Away" while working on a side project called Hate, with members of the punk-funk band Fishbone. He had originally intended it for Hate, but the band dissolved before it could be recorded. "Lee came up with the bass line while working on a side project called Hate with a few members of the punk-funk band Fishbone." ← https://www.youtube.com/watch?v=Rf1tFWQg51Y ← flea ← flea
 
 ## curiosities
 **Chess Enthusiast** : Flea, the bassist for the Red Hot Chili Peppers, is an avid chess player. When the band is on tour, he frequently challenges individuals to games, including grandmasters who are invited backstage specifically to play him. "When the chili peppers are on the road, he'll often challenge people to games, including grandmasters who are invited backstage for the purpose of playing flea." ← https://www.youtube.com/watch?v=CgDCaUxbQDU ← flea ← flea
@@ -29,9 +30,4 @@
 **Recipient of Jam Suggestion** : John Frusciante mentioned to Flea that Chad Smith had expressed missing playing with them and suggested a jam session. This conversation took place while John and Flea were in John's kitchen. "I didn't really talk about it until, Flea and I were standing in my kitchen and Chad had said something to me when I saw him at Flea's wedding." ← https://www.youtube.com/watch?v=Nr-3Y3UWQcI ← flea
 **Simultaneous Reunion Discussion with Anthony** : Flea and Anthony Kiedis remarkably approached each other at the same time to discuss John Frusciante's return, both having independently been thinking about it. Flea had a "more important" thing to tell Anthony, which turned out to be the same subject. "Basically, we were both saying the exact same thing at the exact same time, which was what do you think about John?" ← https://www.youtube.com/watch?v=Nr-3Y3UWQcI ← flea
 **Transition from Trumpet to Bass** : Before becoming a renowned bassist for the Red Hot Chili Peppers, Michael Balzary, known as Flea, was originally a trumpet player. He learned to play the bass guitar from Hillel Slovak, who taught him the instrument. "Hillel was the guy who taught this trumpet player named Michael Ballzery to play bass." ← https://www.youtube.com/watch?v=CTZ4FfDVFfE ← flea ← flea
-
-
-
-## lists
-**"Ea Taesse" (2006) — Sputnikmusic Best Albums 2006** : #116, 4.04 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/
-**"Ea II" (2009) — Sputnikmusic Best Albums 2009** : #12, 4.23 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2009/
+**Audition for Public Image Limited (1984)** : In 1984, Michael Balzary, later known as Flea, successfully auditioned for Public Image Limited. However, he ultimately decided to decline the offer and instead commit to the new band he was forming with his friend Anthony, which would become the Red Hot Chili Peppers. "He actually got the gig, but he decided he'd rather stick with his new band that he was forming with his friend Anthony." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ ← michael-balzary

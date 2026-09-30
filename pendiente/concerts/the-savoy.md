@@ -6,6 +6,6 @@
 
 ## artists
 - Bill Doggett
-- Chick Webb's band
+- Chick Webb
 - Lucky Millinder
 

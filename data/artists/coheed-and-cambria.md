@@ -3,18 +3,16 @@
 ## members
 - Claudio Sanchez
 - Michael Todd
-- Michael Todd (until August 4, 2011)
 
 ## concerts
 - Vans Warped Tour (multiple times)
 
 ## albums
-**Concept Album Series** : Coheed and Cambria exclusively release concept albums, all of which are installments in a continuous storyline called "The Armory Wars." This saga is set in "Heaven's Fence," a Federation comprising 78 planets connected by a special energy source known as the Keywork. "Their records are all installments in the storyline of the Armory Wars which takes place in Heaven's Fence, a Federation of 78 Planets connected by the Keywork, a special sort of energy." ← https://www.youtube.com/watch?v=1KyNY3zv6uc ← coheed-and-cambria
 **Year of the Black Rainbow (2010)** : This album, released in 2010, was offered in a Deluxe version. This special edition included a 352-page novel, which was written by the band's singer, Claudio Sanchez, further expanding the conceptual universe. "The band's 2010 album, Year of the Black Rainbow, also came in a Deluxe version which included a 352 page novel written by singer Claudio Sanchez." ← https://www.youtube.com/watch?v=1KyNY3zv6uc ← coheed-and-cambria
 
 ## songs
 **We Are Juggernaut (2010)** : This single is from the album "Year of the Black Rainbow," and it was released during the time that Michael Todd was the bass player for Coheed and Cambria, prior to his legal troubles. "Co-heat and Cambria, with We Are Juggernaut, a single from their 2010 album, Year of the Black Rainbow, back when convicted felon, bass player Michael Todd, was still with the group." ← https://www.youtube.com/watch?v=6xygY-npCr4 ← coheed-and-cambria ← coheed-and-cambria
-**We Are the Joverna (2010)** : This song is from the album "Year of the Black Rainbow" and features Michael Todd on bass. It was highlighted in the context of Todd's armed robbery and subsequent departure from the band. "And this is We Are the Joverna." ← https://www.youtube.com/watch?v=dVJuITJyNTU ← coheed-and-cambria
+**We Are Juggernaut (2010)** : This song is from the album "Year of the Black Rainbow" and features Michael Todd on bass. It was highlighted in the context of Todd's armed robbery and subsequent departure from the band. "And this is We Are the Joverna." ← https://www.youtube.com/watch?v=dVJuITJyNTU ← coheed-and-cambria
 
 ## curiosities
 **Band Expulsion and Sentencing** : Following his arrest, Michael Todd was immediately removed from Coheed and Cambria. At his trial, he received a sentence of one year of home confinement, three years of probation, and a requirement for extensive drug treatment. The leniency in his sentence was partly influenced by his recent diagnosis with testicular cancer. "Todd was immediately kicked out of the band." ← https://www.youtube.com/watch?v=6xygY-npCr4 ← coheed-and-cambria ← coheed-and-cambria
@@ -25,8 +23,6 @@
 **Taylor Hawkins' Collaboration and Touring** : Taylor Hawkins performed on an album by Coheed and Cambria and also toured with them for a period. This highlights his willingness to collaborate with and support other bands outside of his main projects. "He performed on a co-heating Cambria album and even toured with them a bit." ← https://www.youtube.com/watch?v=dD-VEcFpIFA ← coheed-and-cambria ← coheed-and-cambria
 **Unexpected Warped Tour Resume Entry** : Coheed and Cambria is listed among artists whose participation in the Warped Tour might be unexpected, showcasing the diversity of acts the festival attracted. "Here are some other artists that you may not have expected to have warped on their resume. Coheeding Cambria..." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← coheed-and-cambria
 **Walgreens Robbery Attempt** : In July 2011, while on tour with Soundgarden, Coheed and Cambria's bass player Michael Todd was arrested for attempting to rob a Walgreens drug store in Massachusetts. He entered the store and showed the pharmacist a note on his Blackberry stating, "I have a bomb, give me some oxycontin or else." When no OxyContin was available, he demanded 30-milligram Percocets plus Oxycodone. "He was arrested for trying to rob a Walgreens drug store in Massachusetts." ← https://www.youtube.com/watch?v=6xygY-npCr4 ← coheed-and-cambria ← coheed-and-cambria
-
-
 
 ## lists
 **"The Second Stage Turbine Blade" (2002) — Sputnikmusic Best Albums 2002** : #79, 4.06 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/

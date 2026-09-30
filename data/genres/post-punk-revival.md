@@ -9,4 +9,4 @@
 - Editors
 - Interpol
 - The White Stripes
-
+- The Killers

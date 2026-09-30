@@ -8,12 +8,6 @@
 - The Improv Los Angeles
 - The Tonight Show with Johnny Carson
 
-## albums
-**Seinfeld (1989-1998) – Sitcom Series** : Co-created with fellow stand-up comedian Larry David, the show was an adaptation of Seinfeld's observational comedy about the "madness of life's idiosyncrasies." Unlike Roseanne Barr, he essentially played himself, a stand-up comedian in New York. The pilot, called "The Seinfeld Chronicles," aired in 1989 as a late-night special and did not include Elaine, and Kramer was called Kessler. NBC was initially reluctant to make it a full series, but Rick Ludwin, head of NBC's entertainment division, funded a short four-episode first season from his own department and a scrapped Bob Hope special. The show, dubbed "the show about nothing," was built around fussy, self-absorbed people obsessing over daily life and became one of the most influential TV shows of all time. It took three years for the public to catch on, but it then became one of the biggest comedy hits in the USA, serving as the "linchpin" of NBC's "must-see TV" Thursday night lineup. It spawned 180 episodes across nine seasons, was nominated for 68 Emmy Awards, winning 10, and ranked either first or second in Nielsen ratings from 1994 to 1998. "The show about nothing was built around a group of fussy, self-absorbed people who obsessed over the minutia of daily life." ← https://www.youtube.com/watch?v=6O5TCTO-go4 ← jerry-seinfeld
-
-## songs
-**The Contest (Episode)** : This is cited as one of Seinfeld's most famous episodes, revolutionary for its narrative structure. Instead of the typical A/B story format, each of the four main characters had their own storyline, all of which converged in the final moments to create a joke that was "larger than its parts." "Let's take a look at one of the most famous episodes, the contest." ← https://www.youtube.com/watch?v=6O5TCTO-go4 ← jerry-seinfeld
-
 ## curiosities
 **"No Hugging, No Learning" Philosophy** : The characters in Seinfeld did not evolve, which Larry David often stated was by design, encapsulated by his mantra on set: "there was no hugging, no learning." This refusal to develop characters made them funnier. "As Larry David would often say on set, there was no hugging, no learning." ← https://www.youtube.com/watch?v=6O5TCTO-go4 ← jerry-seinfeld
 **Cancellation Decision and Public Reaction (1997)** : On Christmas Eve 1997, news leaked that Jerry Seinfeld was canceling the show, effective May 1998, which "shocked America." Newspapers published major front-page obituaries, and People magazine declared "a stunned nation prepares for life without Seinfeld." "People magazine declared a stunned nation prepares for life without Seinfeld." ← https://www.youtube.com/watch?v=6O5TCTO-go4 ← jerry-seinfeld
@@ -29,11 +23,6 @@
 **Show's Origin as a Late-Night Special** : In 1989, NBC approached Jerry Seinfeld and Larry David not for a sitcom, but to write and produce a 90-minute late-night special. Instead, they wrote a 30-minute script for a pilot, "The Seinfeld Chronicles." "When NBC approached Jerry Seinfeld and Larry David in 1989, the network wasn't actually looking for a sitcom. They asked the writing duo to write and produce a 90-minute late-night special." ← https://www.youtube.com/watch?v=6O5TCTO-go4 ← jerry-seinfeld
 **Symmetrical Opening and Closing Joke** : The final episode concludes with the exact same joke that opened the very first episode, concerning the placement of a shirt button. "The final episode ends with the exact same joke that opened the very first episode." ← https://www.youtube.com/watch?v=6O5TCTO-go4 ← jerry-seinfeld
 
-
-
 ## awards
 **Primetime Emmy Award for Outstanding Comedy Series (1992)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q2110156
 **Golden Globe Award for Best Actor – Television Series Musical or Comedy (1994)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q138996
-
-## charts
-**"Let You Down" — Billboard Year-End Hot 100** : #29, 2018. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

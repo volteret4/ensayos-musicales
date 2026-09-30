@@ -2,8 +2,7 @@
 
 ## curiosities
 **Performing with Leonard Cohen** : Judy Collins performed with Leonard Cohen after he decided to become a songwriter in 1966, leading to appearances at folk festivals. "He made up with Judy Collins. They started performing together." ← https://www.youtube.com/watch?v=P45lJTdneoI ← judy-collins ← judy-collins
-
-
+**Performing with Leonard Cohen** : Judy Collins performed with Leonard Cohen after he decided to become a songwriter in 1966, leading to appearances at folk festivals. "He made up with Judy Collins. They started performing together." ← https://www.youtube.com/watch?v=P45lJTdneoI ← judy-collins
 
 ## awards
 **Grammy Award for Best Ethnic or Traditional Folk Recording (1968)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5593797

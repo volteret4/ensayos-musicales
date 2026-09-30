@@ -5,5 +5,5 @@
 **Queen of Goth - Siouxsie Sue** : Siouxsie Sue, the singer of Siouxsie and the bandsheets, is widely regarded by many fans as the "queen of Goth." "Susie is still considered to be the queen of Goth by many fans" ← Ongoing History of New Music > Couples in Music | https://www.youtube.com/watch?v=5Dhh5_PDhd0&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## artists
-- Siouxsie and the bandsheets
+- Siouxsie and the Banshees
 

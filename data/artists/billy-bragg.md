@@ -9,8 +9,6 @@
 ## curiosities
 **Artwork Designer** : Barney Bubbles did design work for Billy Bragg. "He did work for Billy Bragg, Elvis Costello, and Ian Jury." ← https://www.youtube.com/watch?v=pwebM3TfSdg ← billy-bragg
 
-
-
 ## awards
 **"Spirit of Americana" Free Speech Award (2016)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q96586004
 

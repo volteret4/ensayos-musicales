@@ -6,8 +6,6 @@
 ## curiosities
 **Oasis Songwriting Collaboration** : Johnny Depp, known for his acting, also has musical connections, including writing a couple of songs for Oasis alongside Noel Gallagher. This collaboration occurred while they were together on the Caribbean island of Mustique, reportedly while smoking spliffs. "actually wrote a couple of Oasis songs with Noel while hanging out on the Caribbean Island of Moustique, Smokin Spliffs." ← https://www.youtube.com/watch?v=Yl2poVWguu0 ← johnny-depp
 
-
-
 ## awards
 **list of orders, decorations, and medals of Serbia** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q4311747
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761
@@ -24,6 +22,3 @@
 **People's Choice Awards (2011)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q501058
 **Disney Legends (2015)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1150306
 **Donostia Award (2021)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q908858
-
-## charts
-**"La Yenka" — Spain Singles Chart** : #1, 1965. ← Wikipedia | https://en.wikipedia.org/wiki/Promusicae

@@ -2,21 +2,23 @@
 
 ## members
 - Andy McCluskey
+- Malcolm Holmes
 - Paul Humphreys
-- Paul Malcolm Holmes
 
 ## genres
 - Alt Rock
 - Electronic
 - Electronic Music
-- Electronic music
 - Futurist
-- Techno Pop
+- Keyboard-bass
+- New Wave
+- Synth Pop
 - Techno pop
 - Technopop
 
 ## labels
 - A&M Records
+- Factory Records
 
 ## concerts
 - Erics
@@ -25,13 +27,13 @@
 ## instruments
 - Bass guitar
 - Elgam organ
-- Fairlight (sampler)
+- Fairlight
 - Korg Micro Preset
 - Mellotron
 - Oscilloscopes
 - Prophet 5
 - Reel-to-reel tape machines
-- Reel-to-reel tape recorder (named Winston)
+- Reel-to-reel tape recorder
 - Roland CR-78
 - Roland Jupiter-8
 - Roland SH-1
@@ -39,23 +41,33 @@
 - Signal generators
 - Synthesizer
 - Vox Jaguar
-- Winston (4-track tape machine)
+- Winston
 
 ## albums
 **Architecture & Morality (1981)** : For their third album, the band acquired a Mellotron to achieve string and choir sounds, despite its antique and finicky nature. "I n our third-hour marketech from Alistair, we got a melatron because we wanted strings and choirs and things." ← https://www.youtube.com/watch?v=0fQQubt9UTI ← orchestral-manoeuvres-in-the-dark
-**Architecture's and Morality (1981)** : A classic Technopop album from 1981, the offer to perform this album in its entirety on tour was the catalyst for the band's reunion. "The original lineup had received some serious offers to perform their 1981 album, Architecture's and Morality in full on a tour." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ ← orchestral-manoeuvres-in-the-dark
-**First Album (Implied)** : The band used an old Elgam drum machine for a couple of tracks on their first album, which was the kind typically found with a home organ. "Which we did use on a couple of tracks on the first album." ← https://www.youtube.com/watch?v=0fQQubt9UTI ← orchestral-manoeuvres-in-the-dark
+**Architecture & Morality (1981)** : A classic Technopop album from 1981, the offer to perform this album in its entirety on tour was the catalyst for the band's reunion. "The original lineup had received some serious offers to perform their 1981 album, Architecture's and Morality in full on a tour." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ ← orchestral-manoeuvres-in-the-dark
+**Orchestral Manoeuvres in the Dark (1980)** : The band used an old Elgam drum machine for a couple of tracks on their first album, which was the kind typically found with a home organ. "Which we did use on a couple of tracks on the first album." ← https://www.youtube.com/watch?v=0fQQubt9UTI ← orchestral-manoeuvres-in-the-dark
 
 ## songs
 **Electricity (1979)** : This was OMD's first big single, written after they acquired a cheap electric piano, the Selma Pianotron, and an organ. The distinctive opening sound was created by the Selma Pianotron, while the white noise was from their first purchased synth. "And that's when we wrote electricity because when we got the Selma piano tron, the first thing we wrote, that sound in electricity, did, did, did, did, did, did, did, did, that was the Selma piano tron." ← https://www.youtube.com/watch?v=0fQQubt9UTI ← orchestral-manoeuvres-in-the-dark
-**God Is the Love (Unreleased)** : This song was initially written for the film "Pretty in Pink" to fit the original script. However, John Hughes changed the film's ending without the band's knowledge, rendering the song unsuitable and ultimately leading to its unrelease. "Initially we wrote a song called God Is the Love. And he's heard of it. Which nobody's heard of because, you know, because we, um, we wrote it to the script and then, um, uh, John Hughes changed the end of the film without us knowing." ← https://www.youtube.com/watch?v=0fQQubt9UTI ← orchestral-manoeuvres-in-the-dark
+**God Is the Love** : This song was initially written for the film "Pretty in Pink" to fit the original script. However, John Hughes changed the film's ending without the band's knowledge, rendering the song unsuitable and ultimately leading to its unrelease. "Initially we wrote a song called God Is the Love. And he's heard of it. Which nobody's heard of because, you know, because we, um, we wrote it to the script and then, um, uh, John Hughes changed the end of the film without us knowing." ← https://www.youtube.com/watch?v=0fQQubt9UTI ← orchestral-manoeuvres-in-the-dark
 **If You Leave (1986)** : Written in a single day under immense pressure at Larabee Studios in LA after their original song for "Pretty in Pink" became unusable. Paul Humphreys composed on a piano, which was unusual for him, while Andy McCluskey wrote lyrics. They used a rented Fairlight sampler and an engineer, Tom Lord-Alge, chopped up a Phil Collins drum sound for the track. It was mixed two weeks later at George Massenburg's studio and became their biggest hit in North America. "And so in one day, before the equipment, the higher, okay. We wrote a song, the only, the only time we ever written a song this way, wasn't it?" ← https://www.youtube.com/watch?v=0fQQubt9UTI ← orchestral-manoeuvres-in-the-dark
+**If You Leave (1986)** : This "gushy love-lorn" song reached number four in the spring of 1986. Following in Simple Minds' footsteps, OMD soundtracked a John Hughes movie, *Pretty in Pink*, with this hit. "Or orchestral maneuvers in the dark, better known as OMD, who followed in simple minds footsteps and soundtracked a John Hughes movie, Pretty in Pink." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
 **Joan of Arc (1981)** : A single from their 1981 album, "Architecture's and Morality." "orchestral maneuvers in the dark with Joan of Arc, a single from their 1981 album, Architecture's and Morality." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ ← orchestral-manoeuvres-in-the-dark
-**Made of All (Year Unspecified)** : This OMD song features a Mellotron sound that the band describes as a violin, often mistaken for a bagpipe. "Our song made of all in which sounds like a bagpipe is actually a violin." ← https://www.youtube.com/watch?v=0fQQubt9UTI ← orchestral-manoeuvres-in-the-dark
+**Maid of Orleans (1982)** : This OMD song features a Mellotron sound that the band describes as a violin, often mistaken for a bagpipe. "Our song made of all in which sounds like a bagpipe is actually a violin." ← https://www.youtube.com/watch?v=0fQQubt9UTI ← orchestral-manoeuvres-in-the-dark
 **Secret (1986)** : This song was intended as the lead single for "Pretty in Pink" and received significant radio airplay. However, it was pulled from radio rotation before its official sale release to make way for "If You Leave," resulting in it never being commercially available as a single, despite its popularity. "So everybody knows Secret, but nobody, nobody bought it as a single because it was never actually released." ← https://www.youtube.com/watch?v=0fQQubt9UTI ← orchestral-manoeuvres-in-the-dark
 **Tesla Girls (1984)** : This song was used in the John Hughes film "Weird Science," though it played subtly in the background. "He used Tesla girls in weird science, but you have to really listen for his playing in the background." ← https://www.youtube.com/watch?v=0fQQubt9UTI ← orchestral-manoeuvres-in-the-dark
 
 ## curiosities
+**Association with Early Synth Pop** : OMD (Orchestral Manoeuvres in the Dark) is cited as an example of a band representing the first wave of Synth Pop, which is now largely synonymous with the generally accepted definition of New Wave. This association marks a period from the late 1970s to mid-1980s. "Lo que hacía a OEMD, lo que hacía en la expresión Boy y lo que hacía New Order." ← Music Radar Clan > Que es el New Wave | https://www.youtube.com/watch?v=jxaTsoSRXZE&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← omd ← omd
+**CR-78 Usage** : OMD (Orchestral Manoeuvres in the Dark) made use of the Roland CR-78 drum machine in their music, indicative of its influence on techno-pop and electronic genres in the early 1980s. "OMD" ← https://www.youtube.com/watch?v=dablAKDOOV0 ← omd ← omd
+**Influence on Trent Reznor** : OMD's synthesizers and drum machines were a significant influence on Trent Reznor, contributing to his preference for electronic music over punk and inspiring his path toward becoming a musician. "But the synthesizers and drum machines of the human league and OMD and Depeche mode. Now that was really cool." ← https://www.youtube.com/watch?v=M3nUQtja0qc ← omd
+**Kraftwerk Influence** : OMD (Orchestral Manoeuvres in the Dark) is presented as an example of early 80s techno pop that was influenced by Kraftwerk, illustrating the German band's impact on the nascent electronic pop scene. "Early 80s techno pop like OMD and Soft Cell. Craftwork." ← https://www.youtube.com/watch?v=ePZDkqLM_gw ← omd ← omd
+**Moroder's Influence** : OMD (Orchestral Manoeuvres in the Dark) is noted as one of the many technopop bands that emerged in the years following Giorgio Moroder's pioneering work with synthesizers and his production of "I Feel Love" for Donna Summer. Moroder's innovative electronic sound was a direct inspiration for their musical direction. "You can actually draw a straight line from that song through to Dopech mode and OMD and the human league and dozens and dozens of other technopop bands that would emerge in the next few years." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← omd
+**Pioneering 80s Keyboard-Bass Alt Rock** : OMD was identified as one of the "keyboard bass bands" from 25 years prior to the 2000s that alternative audiences danced to, representing the electronic and dance-oriented aspects of 80s alt rock that resurfaced in the oughts. "25 years earlier, long before Grunge guitars took over, alternative kids danced to keyboard bass bands like Depeche Mode, New Order, OMD, Durand Iran, the Human League, Eurasia, Eurythmics, and so many others." ← https://www.youtube.com/watch?v=_yslM5oanRo ← omd
+**Signed by Rob Gretton to Factory Records** : OMD (Orchestral Manoeuvres in the Dark) was one of the groups that signed with Factory Records through the influence of Rob Gretton. Gretton was instrumental in bringing various talented acts to the label, bolstering its roster. ← https://www.youtube.com/watch?v=PzyvXmDKFUc ← omd
+**Pioneering All-Electronic New Wave** : OMD was identified as one of the most significant bands of the Technopop era and among the first of the new wave generation to fully embrace all-electronic sounds. Their approach was rooted in a punk rock aesthetic, despite limited traditional musical ability, focusing on creating new sounds with synthesizers. "The perfect example of late 70s technopop from orchestral maneuvers in the dark, they were one of the first of the new wave generation to turn to all electronic sounds." ← https://www.youtube.com/watch?v=5PJRCC6EwUY ← orchestral-manoeuvres-in-the-dark-omd
+**Punk Sensibility in Synthesizer Use** : Members Andy McCluskey and Paul Humphreys described their self-taught approach to music-making with synthesizers as having a "punk rock aesthetic." Instead of merely thrashing a guitar, they would play with two fingers on synths, creating sounds the "human brain had never heard before," which they found exciting compared to "rock and roll cliches" of traditional instrumentation. "But you were coming up with... You were coming up with sounds that the human brain had never heard before, which was the cool thing about these new machines. That was the exciting thing about using electronics was it gave us access to a pallet of sounds that were new and exciting, rather than just repeating what we saw in the mid to late 70s, is, you know, just rock and roll cliches." ← https://www.youtube.com/watch?v=5PJRCC6EwUY ← orchestral-manoeuvres-in-the-dark-omd
 **Challenges of Early Live Performances (1970s-1980s)** : Performing live with early, finicky electronic gear was terrifying for the band, as something would invariably break down. Andy McCluskey resorted to telling jokes to the audience to fill the gaps while the band members frantically tried to fix or reprogram equipment. Monophonic synths required constant, difficult patching between songs using flashlights. "It was terrifying. Actually, it was terrifying and something would always break down. And I ended up having to have a collection of jokes to tell. The audience to fill in the gaps while they were trying to fix something or get something sorted out." ← https://www.youtube.com/watch?v=0fQQubt9UTI ← orchestral-manoeuvres-in-the-dark
 **Continued Togetherness Post-Reunion** : Following their reunion, the band has managed to stay together. "And they've kept it together since then too." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ ← orchestral-manoeuvres-in-the-dark
 **Drummer's Unique Style (Early Albums)** : For their first three albums, drummer Paul Malcolm Holmes was instructed not to play a full kit to avoid "rock and roll spillage." Instead, he had to play the bass drum, snare drum, and hi-hat separately to achieve a syncopated, drum-machine-like sound. They even forbade him from using a cymbal as it was considered a "rock and roll cliche." "So Paul Malcolm Holmes used to have to play the bass drum on its own, then the snare drum, then the hi-hat. We wouldn't even let him have a symbol for the first three albums because they were a rock and roll cliche." ← https://www.youtube.com/watch?v=0fQQubt9UTI ← orchestral-manoeuvres-in-the-dark
@@ -85,8 +97,7 @@
 **Winston the 4-track (Early Days)** : To compensate for their inability to find other musicians to play with them, OMD used a reel-to-reel 4-track tape machine named Winston (after Winston Smith from George Orwell's "1984") as "the rest of the band" during live shows. They borrowed it from Paul Humphreys' friend, Paul Collister, who had a home studio. "We needed a tape machine to be the rest of the band to put the drums on and anything we couldn't play as two of us. So we used to borrow, I think Paul borrowed one of his aunts, real to real to some end." ← https://www.youtube.com/watch?v=0fQQubt9UTI ← orchestral-manoeuvres-in-the-dark
 **Winston the Tape Machine** : Orchestral Manoeuvres in the Dark affectionately named their reel-to-reel tape machine "Winston." This machine was used on stage to play back pre-recorded rhythm tracks, a common practice for bands during the techno pop era. "Orcastrol maneuvers in the dark called their tape machine Winston." ← https://www.youtube.com/watch?v=OiqdZfxdBP0 ← orchestral-manoeuvres-in-the-dark
 **Working-Class Origins & DIY Synths (1976)** : Paul Humphreys and Andy McCluskey, from the outskirts of Liverpool, couldn't afford expensive synthesizers. Paul, with a hobby in electronics, would scavenge old radios from relatives to create "noise making machines" that functioned as early, non-keyboard synthesizers, though their sounds were inconsistent. "We were actually playing synths because we couldn't afford one. We were playing all these noise. My hobby was electronics." ← https://www.youtube.com/watch?v=0fQQubt9UTI ← orchestral-manoeuvres-in-the-dark
-
-
+**John Hughes Movie Soundtrack Success** : OMD followed Simple Minds in successfully soundtracking a John Hughes movie, *Pretty in Pink*, with their song "If You Leave." "Or orchestral maneuvers in the dark, better known as OMD, who followed in simple minds footsteps and soundtracked a John Hughes movie, Pretty in Pink." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
 
 ## charts
 **"If You Leave" — Billboard Year-End Hot 100** : #53, 1986. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

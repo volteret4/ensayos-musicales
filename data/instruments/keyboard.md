@@ -9,6 +9,7 @@
 **Perry Bamonte Joining The Cure** : Perry Bamonte, originally a guitar tech for The Cure, stepped into the role of keyboardist when Roger O'Donnell left the band just before the final leg of the 1991 Disintegration tour, showcasing the versatility required of road crew members. "But when Roger O'Donnell left the cure just before the final leg of the disintegration tour in 1991, Perry Bimonte became the band's keyboardist and after that he played guitar on the next four albums." ← https://www.youtube.com/watch?v=ZVGnSVfed9s ← keyboard ← keyboard
 **Traditional Instrument for Learning** : The keyboard is listed as a traditional instrument, alongside guitar and drums, that requires significant time and dedication to learn proficiently, often taking years. This contrasts with modern electronic instruments and software that offer easier ways to create music. "Learning to play a traditional instrument like the guitar or keyboard or drums or whatever takes time and dedication." ← https://www.youtube.com/watch?v=5Y6nHw5xx88 ← keyboard
 **Warren Zevon's Touring Role** : Warren Zevon performed as the touring keyboard player for Phil Everly, demonstrating his versatility as a musician beyond his solo work. "Zeevon was the touring keyboard player for Phil Everley." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
+**"Bubbly Keyboard Sound" in House Music** : The "signature bubbly keyboard sound" on Robin S's hit remix of "Show Me Love" was created by Swedish DJ Stonebridge using a specific Korg keyboard preset, which became crucial to the song's success and was later alluded to by Beyoncé on "Break My Soul." "Pay particular attention to that bubbly keyboard sound. Do those keyboards sound familiar? They might, if you were alive and listening to pop radio in 1993." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
 
 ## artists
 - Chris Martin
@@ -19,7 +20,6 @@
 - Keith Emerson
 - New Order
 - Perry Bamonte
-- Phil Harvey band
 - Rush
 - Steve Cropper
 - The Dandy Warhols
@@ -28,4 +28,5 @@
 - Tomita
 - U2
 - Vangelis
-
+- Sting
+- Yani

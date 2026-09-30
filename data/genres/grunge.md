@@ -167,24 +167,33 @@
 **Vehicle for Mainstream Rock Ideas** : Grunge proved to be a "very useful vehicle" that helped "flood mainstream rock with an unbelievable number of good ideas." This era brought about a "vibe change" similar to the punk and new wave era of the mid-to-late 70s, introducing many new sounds and promoting genre mixing. "Grunge turned out to be a very useful vehicle. On mechanism, the thing that helped flood mainstream rock with an unbelievable number of good ideas." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← grunge ← grunge
 **Waning Influence (1994)** : Although still popular in 1994, grunge appeared to be declining, with alt-rock fans beginning to seek out new sounds. "Grunge, although still very big in 1994, seemed to be on the wane." ← https://www.youtube.com/watch?v=44dXy0StjIQ ← grunge
 **Widespread Saturation** : Grunge expanded rapidly from its Seattle origins to become a global phenomenon, leading to a "frenzy and saturation and delusion" where places like Halifax were briefly dubbed "Seattle East" due to the widespread obsession. "that's the kind of frenzy and saturation and delusion that we began to see as grunge expanded from its little corner of America to, well, everywhere." ← https://www.youtube.com/watch?v=tFBSrKMEZxI ← grunge
+**Dominance and Subsequent Shift (Early-Mid 1990s)** : Grunge, led by bands like Nirvana, became the dominant sound of alternative rock from 1991 through 1993, fusing East Coast dissonance with metallic sludge from the Pacific Northwest. However, as the genre progressed, particularly after Kurt Cobain's suicide in the spring of 1994, mainstream tastes began to shift towards "perky less-dour music," making way for more melodic and acoustic sounds. "But with Grunge getting all the attention from 91 through 93. Hoody still seemed too mellow for major labels on the hunt." ← Hit Parade Music History and Music Trivia > A Little Love and Some Tenderness Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f6f64fe6d21276e433e
+**Nuanced Explosion** : Although Nirvana's breakthrough was "seismic," the Grunge explosion's effects on the charts were "more nuanced" than commonly remembered, and alternative rock did not transform into Grunge overnight. "the Grunge explosion had effects on the charts that were more nuanced than we remember today." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Genre Co-option** : By the end of the 1990s, critics and fans identified a wave of "pumped up, dude-bro bands" as Post Grunge, who carried forward the musical mantle established by Nirvana. "a raft of pumped up, dude-bro bands that critics and fans called Post Grunge would carry the mantle of his music forward." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Definition and Origins** : Grunge, a term that none of the tagged bands liked or adopted, was characterized by its fusion of "punk and new wave into hard rock and even metal." Its foundations were laid years before Nirvana, with pioneers such as Soundgarden and Green River. "What made Grunge a term by the way that none of the bands tagged as Grunge either liked or adopted was how it fused punk and new wave into hard rock and even metal." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Early Seattle Sound Codification** : Soundgarden's initial EPs, "Screaming Life" and "FOP," released on Sub Pop Records, were pivotal in codifying the distinct "Seattle sound," which combined "punk aggression, metal doom, sludgy guitars, and here and there, pop hooks." "Subpop released Soundgarden's first two EPs, Screaming Life and Thop, which helped codify the Seattle sound." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**First Official Naming** : The term "Grunge" gained traction after Bruce Pavitt, co-founder of Sub Pop Records, used it in a label catalog description for Green River's second EP, calling it "ultra-lucy Grunge that destroyed the morals of a generation." "Bruce Pavitt described their second EP in a label catalog as, quote, ultra-lucy Grunge that destroyed the morals of a generation. Unquote, the genre name stuck." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Breakthrough on US Charts** : The summer of 1991 marked the period "when Grunge began to break on the US charts," with Alice in Chains being the first Seattle band to achieve significant radio play for the genre with "Man in the Box." "the summer of 91 was when Grunge began to break on the US charts." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Evolution to Mainstream** : Throughout 1992 and 1993, Grunge "gradually evolved into the defining alternative rock sound," transitioning from the cutting edge to a mainstream phenomenon. "throughout 1992 and 93, Grunge gradually evolved into the defining alternative rock sound, shifting from the cutting edge to the mainstream." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Sensibility as Much as a Scene** : The success of bands like The Smashing Pumpkins, which were not from Seattle but had a grungy sound, underscored that Grunge was "a sensibility as much as a scene." This enabled "Grunge adjacent" bands from various regions to dominate charts in 1992-93. "What the smashing pumpkins success reinforced was that Grunge was a sensibility as much as a scene." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Woman-Friendly Era** : The Grunge era was noted as "one of the more woman-friendly periods of altrock," influenced by the contemporaneous Riot Grrrl movement and the "vocal feminist allyship" of Grunge stars like Kurt Cobain and Eddie Vedder, leading to success for female rockers and female-fronted bands. "the Grunge era was one of the more woman-friendly periods of altrucks." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 
 ## artists
 - Alice in Chains
 - Bam Bam
-- BamBam
 - Björk
 - Butch Vig
 - Chris Cornell
-- Corn
+- Korn
 - David Bowie
 - Dee Plakas
 - Eddie Vedder
 - Green River
 - Iggy Pop
-- InXS
+- INXS
 - Kurt Cobain
 - L7
-- Lane Staley
+- Layne Staley
 - Limp Bizkit
 - Malfunkshun
 - Mia Zapata
@@ -192,20 +201,17 @@
 - Mudhoney
 - Nirvana
 - Pearl Jam
-- Rage Against The Machine
 - Rage Against the Machine
 - Rancid
 - Scott Weiland
 - Screaming Trees
-- Smashing Pumpkins
+- The Smashing Pumpkins
 - Soundgarden
 - Stone Temple Pilots
 - Swans
 - Tad
 - Temple of the Dog
 - The Melvins
-- The Smashing Pumpkins
 - The Trews
 - Tin Machine
 - Tina Bell
-

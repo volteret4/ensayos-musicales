@@ -1,10 +1,9 @@
 # artist - Johnny Burnette
 
 ## member of
+- Johnny Burnette and the Rock and Roll Trio
 - The Burnette Brothers
-
-## members
-- Johnny Burnette (lead vocals, rhythm guitar)
+- The Rhythm Rangers
 
 ## labels
 - Coral Records
@@ -23,3 +22,5 @@
 **Songwriting Partnership with Dorsey** : After moving separately to Los Angeles, Johnny and Dorsey Burnette ended up working together as songwriters, collaborating on material for other artists. "but when he and Lucy both moved separately to LA, they ended up working together as songwriters." ← Episode 44： ＂Train Kept A-Rollin'＂, by Johnny Burnette and the Rock 'n' Roll Trio | https://www.youtube.com/watch?v=u3zYAJ2qeR4
 **Style Shift in Solo Career** : His string of hits as a solo artist was in a very different style from the Rock and Roll Trio records, lacking the raw power and passion of his earlier work. "had a string of hits that, like Dorsey's, were in a very different style from the rock and roll trio records." ← Episode 44： ＂Train Kept A-Rollin'＂, by Johnny Burnette and the Rock 'n' Roll Trio | https://www.youtube.com/watch?v=u3zYAJ2qeR4
 
+## charts
+**"Dreamin'" — Billboard Year-End Hot 100** : #86, 1960. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

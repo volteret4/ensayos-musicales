@@ -13,8 +13,6 @@
 **Most Albums in Shortest Period (1985-1987)** : The British industrial outfit Psychic TV holds the official Guinness Book of World Records record for releasing the greatest number of albums over the shortest period of time. Between 1985 and early 1987, an eighteen-month span, the band released an astonishing 14 albums. While most of these were live recordings of varying quality, the achievement stands as a world record. "During one eighteen-month spurt that stretched from 1985 to early 1987, they released 14 albums. It's true that most of these releases were live recordings of sketchy quality, but that's the official world record in the Guinness Book." ← https://www.youtube.com/watch?v=T1XSJIm0Nh4 ← psychic-tv
 **Presence in Industrial Scene** : Psychic TV was listed among the groups gaining recognition in the expanding industrial music landscape of the mid-to-late 1980s. "Plus, people began to pick up on groups with names like Frontline Assembly, Pancao, Psychic TV, Liebach, and many others." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← psychic-tv ← psychic-tv
 
-
-
 ## lists
 **"Dreams Less Sweet" (1983) — Pitchfork: The 200 Best Albums of the 1980s** : #176. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
 **"Trip Reset" (1996) — Sputnikmusic Best Albums 1996** : #69, 4.13 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/

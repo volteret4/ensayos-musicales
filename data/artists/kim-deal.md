@@ -1,11 +1,8 @@
 # artist - Kim Deal
 
 ## member of
-- Pixies
 - The Breeders
 - The Pixies
-
-
 
 ## lists
 **"Nobody Loves You More" (2024) — AOTY Must Hear 2020s** : #147, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/

@@ -6,7 +6,7 @@
 **Signing Sinead O'Connor (1985)** : Ensign Records contacted Sinead O'Connor two weeks after her mother's death, having heard about her talent. Following successful demos with Carl Wallinger, she signed a deal with the label on August 5, 1985, at the age of 18. "Two weeks after her mom died, a label called Ensign Records called. We heard a lot about you, they said, and we'd like to make more demos with you with Carl Wallinger." ← https://www.youtube.com/watch?v=afuqjWl1JyI ← ensign-records
 
 ## artists
-- Buffy St. Marie
-- Chris Berkett
-- Sinead O'Connor
+- Buffy Sainte-Marie
+- Chris Birkett
+- Sinéad O'Connor
 

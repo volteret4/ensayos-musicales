@@ -11,9 +11,6 @@
 **International Stardom in the 1980s** : Julio Iglesias's time for widespread international stardom came in the 1980s, despite having a presence on US charts earlier. "Julio Iglesias, by the way, had the number three album in Chicago, his time for international stardom would come in the 1980s." ← For the Record - The 70s > Ep. 25 - The Hispanic Influence on 70s Popular Music | https://seventies.libsyn.com/ep-25-the-hispanic-influence-on-70s-popular-music
 **Outsold by Max Mix 4** : Max Mix 4 achieved significant commercial success, even surpassing the sales of Julio Iglesias's latest album. This feat highlights the immense popularity and market impact of the Megamix phenomenon, to the chagrin of traditional record labels. "Max Mix 4 llegó incluso a superar al último disco de Julio Iglesias y se convirtió en el disco más vendido de la serie." ← Ritmo y Extorsión： Así Dominaron los Megamix los 90s | https://www.youtube.com/watch?v=-qekjKky5bE
 **Soviet Blacklist - Neo-Fascism** : Julio Iglesias was listed on the USSR's 1985 "not recommended music" list, surprisingly categorized under "Neo-Fascism." This unexpected inclusion demonstrates the broad and sometimes inexplicable reach of Soviet censorship efforts to control cultural influences during the Cold War. "Julio Iglesias and Neo-Fascism." ← https://www.youtube.com/watch?v=NyKvAhO7MHE ← julio-iglesias ← julio-iglesias
-**Soviet Blacklist Entry – Neo-Fascism** : Julio Iglesias was listed on the Soviet Union's 1985 "not recommended music" list for the unexpected reason of "Neo-Fascism." "Julio Iglesias and Neo-Fascism." ← https://www.youtube.com/watch?v=YeNWDtN_sHE ← julio-iglesias
-
-
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

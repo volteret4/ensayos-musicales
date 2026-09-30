@@ -9,8 +9,7 @@
 - Aztec Camera
 - Boy George
 - Culture Club
-- Edwin Collins
-- Heaven 17
+- Edwyn Collins
 - Orange Juice
 - The Human League
 

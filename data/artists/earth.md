@@ -1,7 +1,7 @@
 # artist - Earth
 
 ## members
-- Dylan Carlson (leader)
+- Dylan Carlson
 
 ## genres
 - Doomy guitar band
@@ -17,8 +17,6 @@
 ## curiosities
 **Inauguration of Drone Metal** : Earth is recognized for inaugurating the subgenre of Drone Metal with their early works. This style distilled Doom Metal to its purest essence, often eliminating vocals and even drums to create a minimalist soundscape where notes are sustained for minutes, intertwining to produce tectonic vibrations. "Este subgénero inaugurado con los primeros trabajos de Earth..." ← El DOOM METAL es el DARK SOULS de la música | https://www.youtube.com/watch?v=v0eaod_repg
 **Seattle Drony Doom Band** : Earth is characterized as a "drony, doomy guitar band" hailing from Seattle, led by Dylan Carlson, who was known as Kurt Cobain's best friend. "The Drony, Do Middle Band from Seattle, headed up by Kurt Cobain's best friend Dylan Carlson, and yeah, that is Kurt singing on that track, which is called Divine and Bright." ← https://www.youtube.com/watch?v=0D4wGWI-_z8 ← earth
-
-
 
 ## awards
 **Kennedy Center Honors** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1738793

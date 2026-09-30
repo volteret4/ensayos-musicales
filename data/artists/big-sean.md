@@ -1,9 +1,10 @@
 # artist - Big Sean
 
+## songs
+**Control (2013)** : Big Sean's 2013 track "Control" gained notoriety due to Kendrick Lamar's guest verse, which Lamar transformed "into a diss extravaganza," targeting many prominent rappers. Despite the lyrical impact, the song "barely scraped the charts," peaking "quietly at number 43 on the R&B hip hop chart," though it "made a lot of noise" in rap circles. "Control barely scraped the charts, peaking quietly at number 43 on the R&B hip hop chart." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+
 ## curiosities
 **Music Video Replica of Martin** : He created a "painstaking replica" music video of the TV series *Martin*, which even included a cameo appearance from Martin Lawrence himself, showcasing the show's cultural influence. "Big Sean made a music video that was a painstaking replica of the series, complete with a cameo from Lawrence himself." ← https://www.youtube.com/watch?v=6O5TCTO-go4 ← big-sean
-
-
 
 ## awards
 **MTV Video Music Award for Best New Artist (2011)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q595693

@@ -18,8 +18,6 @@
 **Successful Solo Career** : After Pulp, Jarvis Cocker embarked on an "incredible solo career," characterized by his continued charisma and unique artistic vision. "after this already Pulp is on a completely different path from Brit-Pop and would not look back after This Is Hardcore would come out We Love Life that also has nothing to do with Brit-Pop although it is more similar to This Is Hardcore but it follows Jarvis Cocker's personal path and then we would have the incredible solo career of Jarvis Cocker in which he is full of charisma." ← Music Radar Clan > PULP： Pilares del Brit Pop | https://www.youtube.com/watch?v=0r8_s6hR3Ss&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jarvis-cocker ← jarvis-cocker
 **Unsuccessful James Bond Theme Song Submission** : Jarvis Cocker was approached to write a theme song for a James Bond film and did record a version, but it was ultimately rejected. This anecdote highlights a lesser-known aspect of his creative output and his willingness to explore diverse projects. "Jarvis Cocker was about to make one of the songs for one of the James Bond films but was finally rejected but he did record it." ← Music Radar Clan > PULP： Pilares del Brit Pop | https://www.youtube.com/watch?v=0r8_s6hR3Ss&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jarvis-cocker ← jarvis-cocker
 
-
-
 ## charts
 **"Don't Let Him Waste Your Time" — UK Indie Singles Chart** : 2007. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart
 

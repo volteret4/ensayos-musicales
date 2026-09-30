@@ -4,27 +4,26 @@
 - The Nosebleeds
 - The Smiths
 
-## members
-- The Nosebleeds
-- The Smiths
-
 ## genres
-- Dreampop (adjacent)
+- Alternative Rock
+- Dreampop
+- Modern Rock
 
 ## concerts
 - Coachella (1999)
 
 ## albums
-**Low in High School (November)** : This new album from Morrissey is scheduled for release next month, in November. "tenemos el nuevo disco de Morrisay que salen cualquier momento, saldrán el mes que viene en noviembre." ← Music Radar Clan > Lanzamientos de Octubre 2017 | https://www.youtube.com/watch?v=q1_bxi16osQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
-**On Lovin High School (XXXX) - New Album** : This new album by Morrissey is highlighted as one of the most highly anticipated releases. It features several themes that reference "RL" and "Tel Aviv," and also incorporates social commentary. "on Lovin High School, inconcirdas, inspiraciones en RL, de hecho hay varios temas en los que se hace referencia de RL y a Tel Aviv, etcétera, también se hace referencia al contenido social, yo creo que es uno de los discos que más estábamos esperando." ← Music Radar Clan > Lanzamientos Noviembre 2017 | https://www.youtube.com/watch?v=kA9T4DfQ0j8&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Low in High School (2017)** : This new album from Morrissey is scheduled for release next month, in November. "tenemos el nuevo disco de Morrisay que salen cualquier momento, saldrán el mes que viene en noviembre." ← Music Radar Clan > Lanzamientos de Octubre 2017 | https://www.youtube.com/watch?v=q1_bxi16osQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Low in High School (2017)** : This new album by Morrissey is highlighted as one of the most highly anticipated releases. It features several themes that reference "RL" and "Tel Aviv," and also incorporates social commentary. "on Lovin High School, inconcirdas, inspiraciones en RL, de hecho hay varios temas en los que se hace referencia de RL y a Tel Aviv, etcétera, también se hace referencia al contenido social, yo creo que es uno de los discos que más estábamos esperando." ← Music Radar Clan > Lanzamientos Noviembre 2017 | https://www.youtube.com/watch?v=kA9T4DfQ0j8&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Viva Hate (1988)** : This album, released in 1988, was the first of Morrissey's solo albums and is considered one of his two best solo efforts. It marked a promising start to his post-Smiths career. "The two best being the first Viva Hate from 1988..." ← https://www.youtube.com/watch?v=vev8lzfW6Xo ← morrissey ← morrissey
 **Your Arsenal (1992)** : Released in 1992, this was Morrissey's third solo album and is recognized as one of his two strongest solo records, following the initial success of "Viva Hate." "and the third, your arsenal from 1992." ← https://www.youtube.com/watch?v=vev8lzfW6Xo ← morrissey ← morrissey
 
 ## songs
 **Margaret on the Guillotine** : Morrissey wrote this song for The Smiths, taking an extreme stance against Margaret Thatcher. The title itself suggests a profound and provocative opposition to her political figure. "Morrissey went even further, writing a song for the Smiths called Margaret on the Gillotine." ← https://www.youtube.com/watch?v=0ARYt4sYT90 ← morrissey
-**November Spawned A Monster (1988) – Live at Coachella 1999** : Morrissey performed his 1988 song "November Spawned A Monster" at the very first Coachella festival in October 1999. "Morrissey doing his 1988 song, November Spond the Monster." ← https://www.youtube.com/watch?v=7JP2tjJibTQ ← morrissey
+**November Spawned A Monster (1988)** : Morrissey performed his 1988 song "November Spawned A Monster" at the very first Coachella festival in October 1999. "Morrissey doing his 1988 song, November Spond the Monster." ← https://www.youtube.com/watch?v=7JP2tjJibTQ ← morrissey
 
 ## curiosities
+**Controversial Figure** : Morrisa is mentioned as another artist who, similar to Lee Amgala Gheri, often seeks headlines and is involved in controversy. "esto no nos pasa solo con él, también nos pasa con gente como Morrisa." ← Music Radar Clan > Liam Gallagher - As you were (información y reseña) | https://www.youtube.com/watch?v=gwFMxfekvbw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← morrisa ← morrisa
 **Advocacy for Joe Brieaz's Legacy** : Morrissey is cited as one of the major later artists who referenced Joe Brieaz, helping to acknowledge his importance as a forgotten genius after his records had been uncatalogued and overlooked for decades. "grandes artistas postiliores pues como Morris y yo como muchos otros han tenido referencias a llobrias como lo importante que fue como ese genio olvidado." ← Music Radar Clan > Tras los inicios del Glam. Jobriath | https://www.youtube.com/watch?v=kwVDmIrifQI&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← morrissey ← morrissey
 **Backstage Rider – Festival Meat Preparation Buffer** : When performing at festivals with other acts, Morrissey's rider politely requests that his dressing rooms be situated away from any barbecued or meat preparation areas, and not downwind, to avoid the aroma of cooking meat reaching him or the band. "The performer politely requests that where barbecued food meat is being prepared, that the Moorse dressing rooms are situated away from any meat preparation and not downwind." ← https://www.youtube.com/watch?v=z2hvUDtBxho ← morrissey
 **Backstage Rider – Personal Food Preferences** : Morrissey's rider typically requests salt and vinegar chips, a bottle of red wine, cornflakes, Coco-Puffs or Special K, a pint of milk, two green apples, a packet of cashews, cheese sandwiches, and a cupcake. "Salt and vinegar chips, a bottle of red wine, cornflakes, coca-puffs, or special K, a pint of milk, two green apples, a packet of cashews, cheese sandwiches, and a cupcake." ← https://www.youtube.com/watch?v=z2hvUDtBxho ← morrissey
@@ -53,9 +52,8 @@
 **Social and Geographic References** : The album "On Lovin High School" includes multiple thematic references to both "RL" and "Tel Aviv," alongside broader social content. "hay varios temas en los que se hace referencia de RL y a Tel Aviv, etcétera, también se hace referencia al contenido social." ← Music Radar Clan > Lanzamientos Noviembre 2017 | https://www.youtube.com/watch?v=kA9T4DfQ0j8&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Solo Career Trajectory** : After The Smiths' breakup, Morrissey initially seemed poised to become a major solo star, benefiting from the cult following he amassed with his previous band. However, his solo career began to decline in the mid-1990s, as he struggled to produce consistent albums, moved to Los Angeles, refused interviews, and toured less frequently. "Although it got off to a promising start, Morris' solo career hit the skids in the mid 1990s." ← https://www.youtube.com/watch?v=vev8lzfW6Xo ← morrissey ← morrissey
 **Successful Solo Foray** : Morrissey launched his solo career months after The Smiths disbanded in the fall of 1987. He has continued to make records on his own ever since, establishing himself as one of the more successful solo artists in modern rock history. "Morrissey, one of the more successful solo forays in the history of modern rock." ← https://www.youtube.com/watch?v=-f9jhqAHkQo ← morrissey
-**Suede Influence** : Morrissey was celebrated by Suede as an influence, representing the great eccentric English rock of the 1970s and 1980s that Suede sought to revive. "Instead, Swade celebrated the great eccentric English rock of the 70s and 80s. David Bowie, Roxy Music, T-Rex, Smiths, Morrissey, British Psych, Jagger Swagger, Glam guitars..." ← https://www.youtube.com/watch?v=5q5EnZj1FwE ← morrissey
-
-
+**Influence on Suede** : Morrissey was celebrated by Suede as an influence, representing the great eccentric English rock of the 1970s and 1980s that Suede sought to revive. "Instead, Swade celebrated the great eccentric English rock of the 70s and 80s. David Bowie, Roxy Music, T-Rex, Smiths, Morrissey, British Psych, Jagger Swagger, Glam guitars..." ← https://www.youtube.com/watch?v=5q5EnZj1FwE ← morrissey
+**Controversial Figure** : Morrisa is mentioned as another artist who, similar to Lee Amgala Gheri, often seeks headlines and is involved in controversy. "esto no nos pasa solo con él, también nos pasa con gente como Morrisa." ← Music Radar Clan > Liam Gallagher - As you were (información y reseña) | https://www.youtube.com/watch?v=gwFMxfekvbw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← morrisa
 
 ## awards
 **MOJO Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3319330

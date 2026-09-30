@@ -1,7 +1,8 @@
 # artist - Tommy Steele
 
-## members
-- Thomas Hicks (birth name)
+## member of
+- The Cavemen
+- The Vipers Skiffle Group
 
 ## genres
 - Country and Western
@@ -18,14 +19,14 @@
 - Royal Variety Show
 
 ## albums
-**The Tommy Steele's Story (Film Soundtrack)** : This film, based on Steele's life, had its 12 songs written by Steele, Lionel Bart, and Mike Pratt in just one week to meet a deadline. "a film based on his life for which he, Bart and Pratt wrote all 12 of the songs in a week to meet the deadline." ← Episode 48： ＂Rock With the Caveman＂ by Tommy Steele | https://www.youtube.com/watch?v=scDLm48u2yc
+**The Tommy Steele Story (1957)** : This film, based on Steele's life, had its 12 songs written by Steele, Lionel Bart, and Mike Pratt in just one week to meet a deadline. "a film based on his life for which he, Bart and Pratt wrote all 12 of the songs in a week to meet the deadline." ← Episode 48： ＂Rock With the Caveman＂ by Tommy Steele | https://www.youtube.com/watch?v=scDLm48u2yc
 
 ## songs
 **Call Elijah** : This Hank Williams song became Thomas Hicks' new party piece after he fell in love with Hank Williams' music on a cruise ship. He would sing it with accompaniment from anyone he could persuade to play guitar, eventually learning to play it himself from a crewmate. "singing Call Elijah, with accompaniment from anyone he could persuade to play guitar for him." ← Episode 48： ＂Rock With the Caveman＂ by Tommy Steele | https://www.youtube.com/watch?v=scDLm48u2yc
 **Elevator Rock** : This song, described as "A working store on the edge of town, but Dave Lee chose going up and down," did not chart well after "Rock with the Cave Man." "The next record, elevator rock, didn't do so well however." ← Episode 48： ＂Rock With the Caveman＂ by Tommy Steele | https://www.youtube.com/watch?v=scDLm48u2yc
 **Knock on Wood** : As a young teenager, Thomas Hicks would mime to a record of this song by Danny Kay as part of a routine he performed in pubs. "he would mind to a record by Danny Kay, Knock on Wood." ← Episode 48： ＂Rock With the Caveman＂ by Tommy Steele | https://www.youtube.com/watch?v=scDLm48u2yc
 **Rock with the Cave Man (1956)** : Co-written by Hicks, Lionel Bart, and Mike Pratt, this song was performed by Hicks when he jumped on stage during a Viper's Skiffle Group break at The Two Eyes, impressing PR man John Kennedy. The single went to number 13 on the UK charts after he was signed to Decca Records. "sang a song that he, Bart and Pratt had written called Rock with the Cave Man." ← Episode 48： ＂Rock With the Caveman＂ by Tommy Steele | https://www.youtube.com/watch?v=scDLm48u2yc
-**Singing The Blues (1956)** : A cover version of a Guy Mitchell hit (which itself was a cover of Marty Robbins), Steele's version was recorded to be released before Mitchell's hit the charts, featuring an identical arrangement but sung with an "incredibly manored Elvis impression." Despite being released shortly after Mitchell's, a minor distribution problem for Mitchell's label allowed Steele's version to briefly take the top spot for one week, making him the first British rock and roll singer to reach number one in the UK charts. "Steele's version has an identical arrangement and sound to Mitchell's, except that Steele sings it in an incredibly manored Elvis impression." ← Episode 48： ＂Rock With the Caveman＂ by Tommy Steele | https://www.youtube.com/watch?v=scDLm48u2yc
+**Singing the Blues (1956)** : A cover version of a Guy Mitchell hit (which itself was a cover of Marty Robbins), Steele's version was recorded to be released before Mitchell's hit the charts, featuring an identical arrangement but sung with an "incredibly manored Elvis impression." Despite being released shortly after Mitchell's, a minor distribution problem for Mitchell's label allowed Steele's version to briefly take the top spot for one week, making him the first British rock and roll singer to reach number one in the UK charts. "Steele's version has an identical arrangement and sound to Mitchell's, except that Steele sings it in an incredibly manored Elvis impression." ← Episode 48： ＂Rock With the Caveman＂ by Tommy Steele | https://www.youtube.com/watch?v=scDLm48u2yc
 
 ## curiosities
 **Audition in Men's Toilets** : Eager to sign him, Decca Records producer Hugh Mendel did not check for available studios, leading to Tommy Steele auditioning for his record contract in the men's toilets. "Britain's first homegrown rock idol auditioned for his record contract in the Jents toilets." ← Episode 48： ＂Rock With the Caveman＂ by Tommy Steele | https://www.youtube.com/watch?v=scDLm48u2yc
@@ -46,3 +47,6 @@
 **Staged High-Society Rock and Roll Show** : To generate national attention, John Kennedy rented a large house, hired showgirls, models, and sex workers to attend a party dressed elegantly and using fake posh accents and double-barrelled names. He then invited the press, claiming it was the "first high-society rock and roll show" featuring debutantes. This publicity stunt successfully got Steele national attention. "He then called the press and said it was the first high-society rock and roll show and that the girls were all deputants." ← Episode 48： ＂Rock With the Caveman＂ by Tommy Steele | https://www.youtube.com/watch?v=scDLm48u2yc
 **Transition to Light Entertainment** : Within a year of his rock and roll success, Tommy Steele moved into light entertainment, starring in films like "The Tommy Steele's Story" and then stage musicals, effectively giving up rock and roll altogether. He eventually became a "national treasure." "Very soon Tommy Steele moved on into light entertainment." ← Episode 48： ＂Rock With the Caveman＂ by Tommy Steele | https://www.youtube.com/watch?v=scDLm48u2yc
 
+## charts
+**""Come On, Let's Go"" — UK Singles Chart** : #2, 1959. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
+**""Little White Bull"" — UK Singles Chart** : #6, 1960. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart

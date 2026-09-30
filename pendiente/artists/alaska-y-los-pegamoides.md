@@ -1,12 +1,12 @@
 # artist - Alaska y los Pegamoides
 
 ## members
-- Ana Curra (joined on keyboards)
-- Carlos Berlanga (left)
-- Eduardo Benavente (joined on drums)
+- Alaska
+- Ana Curra
+- Carlos Berlanga
+- Eduardo Benavente
 - Manolo Campoamor
 - Nacho Canut
-- Olvido Gara (Alaska)
 
 ## genres
 - Disco
@@ -27,3 +27,5 @@
 **Internal Tensions and Carlos Berlanga's Departure** : Despite the band's success, internal tensions arose due to the darker, gothic turn the music took following the arrival of Eduardo Benavente and Ana Curra. This disenchantment led Carlos Berlanga to leave the band and form Dinarama. "ese éste éxito en la banda bien crepanzas internas, desencantado por el giro hacia el oscuro y gotico que había tomado a la banda tras la llegada al Eduardo Yana, Carlos Berlanga dejó la banda y formó Dinarama." ← La España Siniestra ｜ La edad de oro del Postpunk y el Dark wave | https://www.youtube.com/watch?v=VN_buvQC69c
 **Introduction of a Darker Sound** : The band's sound evolved significantly with the addition of Eduardo Benavente on drums and Ana Curra on keyboards. They brought a "siniestro" (sinister) side to the band, influencing its musical direction towards gothic and darker themes. "poco después se unieron unos convencísimos, se duardo venamente a la batería y han ocurra a los teclados, quienes aportaron ese lado siniestro a la banda." ← La España Siniestra ｜ La edad de oro del Postpunk y el Dark wave | https://www.youtube.com/watch?v=VN_buvQC69c
 
+## charts
+**"Bailando" — Spain Singles Chart** : #1, 1982. ← Wikipedia | https://en.wikipedia.org/wiki/Promusicae

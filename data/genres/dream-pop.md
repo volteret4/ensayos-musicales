@@ -10,13 +10,12 @@
 **Wide Appeal and Influential Acts** : Dream pop has a broad appeal, with Boards of Canada being recommended for fans of established acts like My Bloody Valentine, Spiritualized, Slowdive, Ride, and Mogwai. "cualquiera avante del Drimpop de My Lord Ivan Lanta, de Spiritalize, de Slowdive, de Ride, incluso de Mokuey o de My Lord Ninjaked, va a pasarse, vamos, va a maravillarse con lo que es Borsov Canadá." ← Music Radar Clan > BOARDS OF CANADA. La visión romántica del IDM | https://www.youtube.com/watch?v=llE5K5hjwVg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## artists
-- Delirium
-- Galaxy 500
+- Delerium
+- Galaxie 500
 - Julee Cruise
 - Lana Del Rey
 - Lowtide
 - M.I.A.
-- MIA
 - Sigur Rós
 - Swans
 - The Cranberries

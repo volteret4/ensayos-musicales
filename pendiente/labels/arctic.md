@@ -7,5 +7,5 @@
 ## artists
 - Daryl Hall
 - The Romeos
-- The Temp-tones
+- The Temptones
 

@@ -1,12 +1,14 @@
 # artist - Bon Jovi
 
 ## members
-- John Bon Jovi
+- Jon Bon Jovi
 - Richie Sambora
 
 ## genres
+- Glam Metal
 - Hair Metal
 - Hard Rock
+- Metal
 - Pop music
 
 ## instruments
@@ -15,13 +17,15 @@
 - Yamaha DX7 synthesizer
 
 ## albums
+**The Album That Blocked "The Next Day" (2013)** : A new Bon Jovi album released in March 2013 debuted at number one on the Billboard 200, just ahead of David Bowie's "The Next Day." This prevented "The Next Day" from becoming Bowie's first ever US number one album. "The Next Day had the misfortune to arrive in music stores the same week as a new Bon Jovi album, which debuted at number one just ahead of Bowie." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 2 | https://shows.acast.com/hit-parade/episodes/696aa4d936ab0b5268aab02b
 **Slippery When Wet (1986)** : This breakthrough album for Bon Jovi was released in the summer of 1986 and achieved massive success, spending four weeks at number one in early 1987. It benefited greatly from "round the clock play on MTV," establishing the band as a prominent force in the hair metal era. "Living on a prayer from Slippery when wet the breakthrough album for Bonjouvi released in the summer of 1986, it spent four weeks at number one in early 1987 and of course, had round the clock play on MTV." ← For the Record - The 70s > Ep. 54 - Into the 80s! What Came Next for 70s Heavy Metal | https://www.ftr70.com/
 
 ## songs
 **Dead or Alive** : This song by Bon Jovi is identified as featuring a 12-string guitar, although the specific artist playing it is not mentioned, Richie Sambora is noted to play a Flying V. "Bond Jovey's Dead or Alive." ← https://www.youtube.com/watch?v=d9HNqb9gJSU ← bon-jovi ← bon-jovi
 **It's My Life (2000)** : The hit song "It's My Life" was composed by Max Martin. "el compuso el Idzmai Live de Bon Jovi." ← Music Radar Clan > Poniendo a Britney Spears en su lugar | https://www.youtube.com/watch?v=ad2agh7IXH8&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← bon-jovi ← bon-jovi
 **Living on a Prayer (1986)** : Featured on the breakthrough album *Slippery When Wet*, released in 1986, this song exemplified Bon Jovi's approach to hard rock. It embraced the idea of creating fun music with catchy choruses, inspired by Van Halen, and successfully integrated the synthesizer, an instrument previously associated with disco, making it "cool" within the rock genre. "Living on a prayer from Slippery when wet the breakthrough album for Bonjouvi released in the summer of 1986, it spent four weeks at number one in early 1987 and of course, had round the clock play on MTV." ← For the Record - The 70s > Ep. 54 - Into the 80s! What Came Next for 70s Heavy Metal | https://www.ftr70.com/
-**Runaway** : This was Bon Jovi's first single. The song was released around the time John Bon Jovi, then a 17-year-old, was putting his band together while still attending high school. "With only one single runaway." ← For the Record - The 70s > Ep. 54 - Into the 80s! What Came Next for 70s Heavy Metal | https://www.ftr70.com/
+**Runaway (1984)** : This was Bon Jovi's first single. The song was released around the time John Bon Jovi, then a 17-year-old, was putting his band together while still attending high school. "With only one single runaway." ← For the Record - The 70s > Ep. 54 - Into the 80s! What Came Next for 70s Heavy Metal | https://www.ftr70.com/
+**Runaway (1984)** : Bon Jovi's debut single, released in April 1984, became a number 39 hit. The song was notable for sounding "the least like a Bon Jovi song" and featured John Bon Jovi fronting journeyman session musicians he never played with again. It was considered "emblematic of glam metal in 1984," a genre then recognized simply as metal before the "hair metal" term emerged years later. "Their debut single, a number 39 hit in April 1984, is a really good song. Maybe because it sounds the least like a Bon Jovi song." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
 **Wanted Dead or Alive** : This song was used by the US Army during Operation Just Cause in December 1989. It was part of a playlist blasted at the Vatican Embassy in Panama City to psychologically "smoke out" Panamanian dictator Manuel Noriega, who had taken refuge there. "Well refugee from Competty wanted dead or alive by Bon Jovi and many many many plays of Van Halen's Panama." ← https://www.youtube.com/watch?v=R1wdsGt07Gg ← bon-jovi ← bon-jovi
 
 ## curiosities
@@ -29,8 +33,9 @@
 **Collaboration with Bruce Fairbairn** : Bruce Fairbairn produced mega-platinum albums for Bon Jovi throughout the 1980s and 1990s. "Throughout the 80s and 90s, he produced mega platinum albums for Erasmith and ACDC and Bon Jovi and Inaccess and Kiss and Leverboy and Poison, The Scorpions and Van Halen and a ton of others." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← bon-jovi
 **Early Career Ambitions and Influences** : While still a high school student, New Jersey native John Bon Jovi was actively forming a rock band and performing in local clubs. He recalled the surreal experience of sharing a microphone on stage with "the biggest rock star in New Jersey" (implying Bruce Springsteen) at 17, envisioning a future filled with "rainbows and unicorns" after this encounter. "I'm a 17 year old kid and suddenly I'm sharing a microphone on stage with the biggest rock star in New Jersey." ← For the Record - The 70s > Ep. 54 - Into the 80s! What Came Next for 70s Heavy Metal | https://www.ftr70.com/
 **Post-Hair Metal Career Shift** : While Bon Jovi continued to achieve success in the 1990s, it never quite matched the "sweet spot of the hair metal era." Recognizing this, the band made a conscious decision to move away from their hair metal image towards "more 'serious' rock music," a strategic move that was considered wise as the hair metal era abruptly concluded. "Bonjouvi would continue to have success in the 90s but it was never quite like the sweet spot of the hair metal era and looking back on it, I think they were wise to move away from that image to more air quotes serious rock music because the hair metal era ended about as abruptly as it started." ← For the Record - The 70s > Ep. 54 - Into the 80s! What Came Next for 70s Heavy Metal | https://www.ftr70.com/
-
-
+**Ascendant American Rock Band** : Bon Jovi replaced The Human League at number one on the Hot 100 one week after "Human" topped the charts in late 1986, signaling their ascendancy and the end of the second British invasion. "One week after human topped the Hot 100, the human league were replaced at number one by this band of vulgar Americans. Bon Jovi were ascendant, American Anglo-Files had been put in their place, and the second British invasion was over." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
+**Early Glam Metal Identity** : In 1984, Bon Jovi was considered a metal band, emblematic of the glam metal style. The term "hair metal" was only coined a couple of years later, after they began topping the Hot 100, distinguishing their sound from other metal subgenres. "They really were considered metal at that time. After they began topping the Hot 100 a couple of years later, the term hair metal was coined." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
+**Session Musicians for Debut Single** : For their debut single, "Runaway," John Bon Jovi fronted a group of "journeyman session musicians" with whom he never played again. This marked a unique point in the band's history, as the lineup was not yet fully solidified for their initial chart success. "On it, John Bon Jovi, fronted a group of journeyman session musicians he never played with again." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
 
 ## awards
 **Premios Oye!** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q7240451

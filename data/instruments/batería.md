@@ -5,5 +5,5 @@
 
 ## artists
 - Arctic Monkeys
-- Philip Selway
+- Phil Selway
 

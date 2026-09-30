@@ -7,6 +7,6 @@
 
 ## artists
 - Aphex Twin
-- Borsov-Canada
+- Boards of Canada
 - Death Grips
 

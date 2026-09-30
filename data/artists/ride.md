@@ -12,7 +12,7 @@
 - Creation Records
 
 ## albums
-**Nowhere (1990) - Shoegaze Landmark** : Released in the fall of 1990, *Nowhere* is recognized as "one of the greatest albums of the original shoegaze era." Much of its material, including the song "Vapor Trail," was written by Andy Bell, who would later become the bass player for Oasis and BDI. "In the fall of 1990, they released No Where, one of the greatest albums of the original shoegase era." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← ride ← ride
+**Nowhere (1990)** : Released in the fall of 1990, *Nowhere* is recognized as "one of the greatest albums of the original shoegaze era." Much of its material, including the song "Vapor Trail," was written by Andy Bell, who would later become the bass player for Oasis and BDI. "In the fall of 1990, they released No Where, one of the greatest albums of the original shoegase era." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← ride ← ride
 
 ## songs
 **Leave Them All Behind (1992)** : This song from 1992 by the Oxford-based band Ride was presented as a prime example that "ticks all the boxes" for the Shoegaze genre, embodying its characteristic loud, fuzzy, buzzy guitar rock sound with distortion and feedback. "If leave them all behind from 1992, and that's what you call Shoegaze, and had Grunge not come along and pushed Shoegaze out of the way, remember that Grunge threatened to swamp much of the domestic rock scene in the UK in the early 90s. Shoegaze might have survived." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← ride
@@ -28,8 +28,6 @@
 **Oxford Music Scene** : Ride was one of the "big-ish Oxford bands" that the Jericho Tavern, a local venue where "On a Friday" performed a pivotal gig in October 1991, was "semi-famous" for hosting. "the Jericho Tavern, which by the way was semi-famous at the time for hosting other big-ish Oxford bands like Super Grass and Ride and Slow Dive." ← https://www.youtube.com/watch?v=t-G22K0vLnM ← ride ← ride
 **Pioneer of Shoegaze** : Ride was one of the bands that emerged between 1989 and 1991, following My Bloody Valentine's lead in developing the Shoegaze sound. They took the combination of ethereal melody and distorted guitars even further. Their career was launched by Creation Records. "En seguida, susguieron bandas como Ride, Slowdive, Feltzaint y Lash, quienes tomaron aquella combinación de melodía setéria, guitarras distorsionadas y la llevaron aún más lejos." ← El disco imposible： La historia de Loveless y My Bloody Valentine | https://www.youtube.com/watch?v=q_SHNe_Ce9A
 **Recommended for Fans** : Boards of Canada is highly recommended for fans of Ride's dream pop sound. "cualquiera avante del Drimpop de ... Ride, incluso de Mokuey o de My Lord Ninjaked, va a pasarse, vamos, va a maravillarse con lo que es Borsov Canadá." ← Music Radar Clan > BOARDS OF CANADA. La visión romántica del IDM | https://www.youtube.com/watch?v=llE5K5hjwVg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← ride ← ride
-
-
 
 ## lists
 **"Nowhere" (1990) — 1001 Albums You Must Hear Before You Die** : #683, 7.0/10 Scaruffi.

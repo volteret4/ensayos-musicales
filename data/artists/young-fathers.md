@@ -7,8 +7,8 @@
 ## curiosities
 **Edinburgh Origins** : Young Fathers is described as a "fantastic Lo-fi Indy Tronica band from Edinburgh." "Young fathers, fantastic Lofi Indy Tronica band from Edinburgh." ← https://www.youtube.com/watch?v=_1NNvxgx8uA ← young-fathers ← young-fathers
 **Mercury Prize Winners** : The band won Britain's prestigious Mercury Prize in 2014, recognizing their innovative musical contributions. "who won Britain's Mercury Prize in 2014." ← https://www.youtube.com/watch?v=_1NNvxgx8uA ← young-fathers ← young-fathers
-
-
+**Edinburgh Origins** : Young Fathers is described as a "fantastic Lo-fi Indy Tronica band from Edinburgh." "Young fathers, fantastic Lofi Indy Tronica band from Edinburgh." ← https://www.youtube.com/watch?v=_1NNvxgx8uA ← young-fathers
+**Mercury Prize Winners** : The band won Britain's prestigious Mercury Prize in 2014, recognizing their innovative musical contributions. "who won Britain's Mercury Prize in 2014." ← https://www.youtube.com/watch?v=_1NNvxgx8uA ← young-fathers
 
 ## lists
 **"Cocoa Sugar" (2018) — AOTY Must Hear 2010s** : #211, 84 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/

@@ -7,7 +7,6 @@
 **Tom Morello's Key Early Guitar** : Tom Morello acquired a Gibson Explorer around age 20, which he took with him to Harvard and still owns, marking the period when he began seriously studying the instrument. "And this Gibson Explorer was the guitar he took with him when he enrolled in Harvard. He still has him." ← https://www.youtube.com/watch?v=nVIswnZYFkU ← gibson-explorer ← gibson-explorer
 
 ## artists
-- Rage Against The Machine
 - Rage Against the Machine
 - U2
 

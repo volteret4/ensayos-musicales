@@ -1,10 +1,5 @@
 # artist - A Tribe Called Red
 
-## members
-- Kayuga First Nation
-- Nipisink First Nation
-- Six Nations of the Grand River
-
 ## genres
 - Dance
 - Dubstep
@@ -20,8 +15,6 @@
 **Awards and Nominations** : The group has won video awards and received two Polaris Music Prize nominations for their work. This recognition highlights their impact and critical acclaim within the music industry. "Since Juan Junos, they've won video awards, and they've had two Polaris music prize nominations." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← a-tribe-called-red
 **Founding in Ottawa** : A Tribe Called Red began in Ottawa when two members realized there was no club night in the area that represented the music of their people. This absence in the Ottawa music scene sparked the band's formation and growth. "And they began when two members realized there was no club night in the Ottawa area, nothing in the Ottawa music scene that represented the music of their people." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← a-tribe-called-red
 
-
-
 ## awards
 **Polaris Music Prize (2012)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q685954
 **Polaris Music Prize (2013)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q685954
@@ -34,6 +27,3 @@
 **Juno Award for Group of the Year (2018)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q6314079
 **Polaris Music Prize (2022)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q685954
 **Juno Award for Electronic Album of the Year (2022)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q17101706
-
-## charts
-**"Walk Away Renée" — Billboard Year-End Hot 100** : #27, 1966. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

@@ -12,5 +12,5 @@
 - Grandmaster Flash
 - Grandmaster Flash and the Furious Five
 - Sylvia Robinson
-- The Sugar Hill Gang
+- The Sugarhill Gang
 

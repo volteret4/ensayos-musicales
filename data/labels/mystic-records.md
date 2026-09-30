@@ -11,7 +11,7 @@
 ## artists
 - Bad Religion
 - Black Flag
-- No FX
+- NOFX
 - Suicidal Tendencies
 - The Minutemen
 

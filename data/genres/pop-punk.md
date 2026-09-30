@@ -43,7 +43,6 @@
 - Bass Drum of Death
 - Billy Idol
 - Blink 182
-- Blink-182
 - Fall Out Boy
 - Generation X
 - Goldfinger
@@ -55,21 +54,17 @@
 - Neck Deep
 - New Found Glory
 - PUP
-- Panic at the Disco
 - Panic! At The Disco
-- Panic! at the Disco
 - Paramore
 - Rancid
 - Simple Plan
 - Social Distortion
 - Sum 41
 - Taking Back Sunday
-- The All-American Rejects
 - The Offspring
 - The Vandals
 - The Wonder Years
 - Ty Segall
 - Wavves
 - Willow
-- blink-182
 

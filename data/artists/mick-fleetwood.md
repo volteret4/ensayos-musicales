@@ -4,8 +4,12 @@
 - Fleetwood Mac
 
 ## instruments
+- Brushes
 - Drums
-- Drums (on "Werewolves of London")
+- Drumsticks
+
+## albums
+**The Visitor (1981)** : Mick Fleetwood released his "globe-trotting" solo LP, "The Visitor," in 1981. This was part of a trend among Fleetwood Mac members to pursue individual projects after the demanding "Tusk" tour. "and even Mick Fleetwood, whose globe-trotting solo LP The Visitor also arrived in 1981." ← Hit Parade Music History and Music Trivia > Thinking About Tomorrow Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eefd1ba84fb8f044795
 
 ## curiosities
 **Consistent Instrumentalist - Defines Fleetwood Mac's Sound** : Mick Fleetwood, as the drummer, along with bassist John McVie, were the only instrumentalists who remained consistent throughout Fleetwood Mac's existence, largely shaping the band's sound. His drums, alongside McVie's bass lines, provided the foundation for various iterations of the band, from early tracks like "Rattlesnake Shake" with Peter Green to later hits like "Tusk" with Lindsey Buckingham. "But the only instrumentalists who have remained consistent and who are still the band's namesake are drummer Fleetwood and bassist Mick Vee." ← Hit Parade Music History and Music Trivia > Thinking About Tomorrow Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c429
@@ -13,8 +17,5 @@
 **Involvement in Internal Love Triangle** : He was embroiled in a "messy love triangle" with Stevie Nicks and Lindsey Buckingham, a key element of the intense internal drama that profoundly influenced Fleetwood Mac's songwriting for albums like *Rumours*. "relationship drama Stevie and Mick and Stevie and Lindsey form a messy love triangle." ← For the Record - The 70s > Ep. 51 - The Softer Side of 70s Rock | https://seventies.libsyn.com/ep-51-the-softer-side-of-70s-rock ← mick-fleetwood
 **Namesake of Fleetwood Mac - Rhythm Section** : Mick Fleetwood, a drummer, along with bassist John 'Mac' McVie, became the namesake of the band Fleetwood Mac, which was formed by former members of John Mayall's Bluesbreakers. This naming convention highlighted the enduring presence of the rhythm section, even as lead guitarists changed frequently throughout the band's history. "But it was named after its rhythm section, a drummer named Mick Fleetwood and a bassist named John Mac McVee." ← Hit Parade Music History and Music Trivia > Thinking About Tomorrow Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c429
 **Recruitment of Buckingham Nicks - Package Deal** : After being impressed by the *Buckingham Nicks* album, Mick Fleetwood was introduced to Lindsey Buckingham and, knowing Bob Welch was about to leave Fleetwood Mac, offered Buckingham the lead guitarist job. Buckingham insisted that he and Stevie Nicks were a package deal, and Fleetwood agreed to hire Stevie as well, fundamentally transforming Fleetwood Mac. "Buckingham insisted that he and Nix were a package deal so Fleetwood agreed to hire Stevie as well." ← Hit Parade Music History and Music Trivia > Thinking About Tomorrow Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c429
-
-
-
-## charts
-**"Walk Away Renée" — Billboard Year-End Hot 100** : #27, 1966. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**Affair Involving Wife Jenny Boyd and Bob Weston** : Mick Fleetwood discovered that his wife, model Jenny Boyd, was romantically involved with former Fleetwood Mac guitarist Bob Weston. This personal turmoil led to Fleetwood and Boyd divorcing, remarrying, and subsequently divorcing again. "Even Mick Fleetwood found himself the victim of an affair when he discovered that his wife, model Jenny Boyd, had been romantically entangled with another former Fleetwood Mac guitarist Bob Weston." ← Hit Parade Music History and Music Trivia > Thinking About Tomorrow Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eefd1ba84fb8f044795
+**Battling Cocaine Addiction (mid-1980s)** : During the 18-month recording process of "Tango in the Night" in the mid-1980s, Mick Fleetwood was battling cocaine addiction. "including Mick Fleetwood, who was battling cocaine addiction..." ← Hit Parade Music History and Music Trivia > Thinking About Tomorrow Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eefd1ba84fb8f044795

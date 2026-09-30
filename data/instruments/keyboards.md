@@ -12,6 +12,7 @@
 **Isaac Hayes's Early Development** : Isaac Hayes was hired into Floyd Newman's bar band despite only being able to play piano with one hand initially, but his innate musical "feel" allowed him to quickly learn to play with both hands and become a proficient keyboardist. "Floyd Newman, who had hired a young man for his bar band when the young man could only play piano with one hand, just because he seemed to have a feel for the music." ← Episode 105： ＂Green Onions＂ by Booker T.and the MGs | https://www.youtube.com/watch?v=cw6xJG8E_w0
 **Rami Jaffee's Role** : Rami Jaffee, a Foo Fighters keyboardist, was a former member of The Wallflowers. "Foo Fighters keyboardist Rami Jaffee." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← keyboards
 **Unusual Use in Post-Rock** : In post-rock, keyboards, along with other traditional rock instruments, are employed in unusual ways to produce non-rock outcomes, contributing to the genre's experimental philosophy. "What we're doing is producing non-rock outcomes. That means compositions without the usual verse chorus, verse structure, and more atmospheric, some more experimentation, and more of a cinematic approach to audio." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← keyboards
+**Christine McVie's Primary Stage Instrument** : Christine McVie's consistent stage presence typically involved her being positioned behind her keyboards, singing slightly apart from the front of the stage, highlighting her role as the band's keyboardist and vocalist. "Christine McV could usually be found behind her keyboards, singing slightly apart from the front of the stage." ← Hit Parade Music History and Music Trivia > Thinking About Tomorrow Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eefd1ba84fb8f044795
 
 ## artists
 - Arcade Fire
@@ -19,19 +20,17 @@
 - Billy Preston
 - Booker T. Jones
 - Brian Cox
-- Can
+- CAN
 - D:Ream
 - Dave Rowberry
 - David Bowie
-- Dream
-- Gary Fumovar
 - Howard Jones
 - Imagine Dragons
 - Irmin Schmidt
-- Johnny Greenwood
+- Jonny Greenwood
 - Malcolm Cecil
-- Manfred Mann (band)
-- Manfred Mann (person)
+- Manfred Mann
+- Manfred Mann (músico)
 - Mick Gallagher
 - Milan Williams
 - Mumford & Sons
@@ -44,4 +43,5 @@
 - The Black Keys
 - The Gamblers
 - Trent Reznor
-
+- Fleetwood Mac
+- Christine McVie

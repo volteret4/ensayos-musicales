@@ -5,5 +5,4 @@
 
 ## artists
 - Blink 182
-- blink-182
 

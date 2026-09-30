@@ -21,12 +21,11 @@
 - Honey Bunch
 - Primal Scream
 - Rex Orange County
-- Sockermummy
+- Soccer Mommy
 - The Blake Babies
 - The Decemberists
 - The Magnetic Fields
 - The Mighty Lemon Drops
 - The Pastels
 - The Smiths
-- Tulu Lagash
 

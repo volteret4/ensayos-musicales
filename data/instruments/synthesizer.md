@@ -58,18 +58,25 @@
 **Used in "Buddy Holly" Composition** : Rivers Cuomo used a small synthesizer, lent to him by a college acquaintance, to experiment with recording a goofy new wave-type song, which eventually became "Buddy Holly." "He'd met a guy at college who lent him a small synthesizer because Rivers wanted to try recording a goofy new wave type song." ← https://www.youtube.com/watch?v=DoJa8jcrlUA ← synthesizer ← synthesizer
 **Vintage vs. Soft Synths (Contemporary)** : Older, vintage synthesizers, despite their finicky nature, weight, and tendency to drift out of tune, are now highly collectible and expensive (e.g., a Jupiter-8 on eBay can cost £2000). Many contemporary musicians prefer modern "soft synths" in computers for their reliability, consistent tuning, and ease of use, despite nostalgic purists. "The funny thing is now, you know, a lot of youngsters are looking to collect these things. You try and get a Jupiter 8 on eBay now. It's like £2000 or something." ← https://www.youtube.com/watch?v=0fQQubt9UTI ← synthesizer
 **Voltage Controlled Breakthrough (1963)** : In 1963, inventor Don Buchla developed the voltage-controlled synthesizer. This "little black box" offered much greater precision in taming electronically generated sounds than previous devices, representing a major breakthrough in synthesizer technology. "Then a breakthrough, 1963, an inventor named Don Buckla, came up with a voltage controlled synthesizer." ← https://www.youtube.com/watch?v=OiqdZfxdBP0 ← synthesizer
+**1985 Grammy "Shindig"** : The 1985 Grammys featured a memorable "synthesizer shindig" where Stevie Wonder, Herbie Hancock, Thomas Dolby, and Howard Jones performed a "Frankenstein's monster of a pop medley." They stood behind "a bank of synths and computers," highlighting the prominent role of synthesizers in contemporary music and Grammy performances. "Stevie Wonder, Herbie Hancock, Thomas Dolby in a Beethoven wig, and Howard Jones standing behind a bank of synths and computers playing a Frankenstein's monster of a pop medley." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
+**The Police's First Use of Synthesizers** : The Police's "Ghost in the Machine" album featured their first songs that were built around synthesizer melodies, including "Spirits in the Material World" and "Invisible Sun." "The LP featured the first police songs built around synthesizer melodies. That included spirits in the material world, the album's second single, which climbed to number 11 in the US and into the top five on album rock stations." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
+**Central to 80s British Pop** : Synthesizers, along with dance beats, were championed by David Bowie and Brian Eno in the late 1970s, as they were not "alien to Bowie." They became a defining sound for 80s UK pop, contributing to its "arch, angular, synthetic, danceable" character. "Neither synthesizers nor dance beats were alien to Bowie. In 1980, after a long art rock period in Berlin, Bowie signaled his return to commercial pop recording with the album Scary Monsters." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
+**Distinguishing Feature of New Wave** : While some 80s soft pop and album-oriented rock bands employed electronics, they did not use synthesizers "the way the new wave of British acts did," making the instrument a key differentiator for the second British invasion. "Sure, these bands employed electronics, but not the way the new wave of British acts did." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
+**Evolution with New Jack Swing** : In the mid-80s, the rise of New Jack Swing, exemplified by Janet Jackson's *Control* album, offered a model of synth-pop that gave the synthesizer "more of a groove," shifting its role from earlier new wave sounds. "Similarly, the rise of new Jack Swin, pressaged by Janet Jackson's 1986 control album, offered a different model of Synth Pop that gave the synthesizer more of a groove." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
+**Innovative Use in "Lucky Lookie" (1969)** : Giorgio Moroder's 1969 Trans-European hit "Lucky Lookie" featured synthesizer effects that were considered innovative for its period, even within its sugary pop context, showcasing early integration of electronic sounds into popular music. "it included synthesizer effects that were innovative for the period." ← Hit Parade Music History and Music Trivia > The Queen of Disco Edition Part 1 (Encore) | https://shows.acast.com/hit-parade/episodes/69d92e92fdeddc4b127158d5
+**First Entirely Synthesized Backing Track (1977)** : The song "I Feel Love" by Donna Summer became the first ever hit single to feature an entirely synthesized backing track, with Donna Summer's voice being the only organic element. This revolutionary use of the synthesizer propelled the invention of electronic dance music. "I Feel Love was the first ever hit single with an entirely synthesized backing track. The only organic thing on it was Donna Summers voice." ← Hit Parade Music History and Music Trivia > The Queen of Disco Edition Part 1 (Encore) | https://shows.acast.com/hit-parade/episodes/69d92e92fdeddc4b127158d5
 
 ## artists
 - Barry Manilow
 - Bob Moog
 - Brian Eno
-- Carl Bartons
+- Karl Bartos
 - Daft Punk
 - David Bowie
 - Depeche Mode
-- Earth Wind & Fire
+- Earth, Wind & Fire
 - Gillian Gilbert
-- Human League
+- The Human League
 - Joe Meek
 - Joy Division
 - Kraftwerk
@@ -78,9 +85,9 @@
 - Orchestral Manoeuvres in the Dark
 - Roxy Music
 - The Beatles
-- The Human League
 - The Monkees
 - Trent Reznor
 - U2
-- Walter Carlos
-
+- Wendy Carlos
+- Van Halen
+- Giorgio Moroder

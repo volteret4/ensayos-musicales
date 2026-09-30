@@ -10,8 +10,6 @@
 **Self-Funded "Bat Out of Hell" Production** : As the producer for Meat Loaf's debut album *Bat Out of Hell*, Rock and Roll Hall of Famer Todd Rundgren discovered that Meat Loaf did not actually have a record deal with RCA as he initially believed. Convinced that the album "needs to be made," Rundgren personally agreed to pay for its recording. "The producer was rock and roll, Hall of Famer Todd Rungren, who ended up agreeing to paying for the recording of Bad Out of Hell himself. Because originally he thought that Meatloaf had a record deal with RCA, but he didn't. So Rungren's like, well, this needs to be made. So I'll pay for it." ← For the Record - The 70s > Ep. 42 - Rock Operas of the 70s | https://seventies.libsyn.com/ep-42-rock-operas-of-the-70s ← todd-rundgren
 **Solo Studio Wizard** : Todd Rundgren was described as a "solo studio wizard" and was a prominent figure in the first wave of American Powerpop artists. "And the solo studio wizard Todd Runkrat." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
 
-
-
 ## awards
 **Rock and Roll Hall of Fame (2021)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
 

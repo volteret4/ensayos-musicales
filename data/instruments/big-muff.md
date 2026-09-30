@@ -14,15 +14,13 @@
 - Dinosaur Jr.
 - Frank Zappa
 - Jimi Hendrix
-- John Lorde
-- KoRn
+- Jon Lord
 - Korn
 - Martin Gore
-- Nine Effects
 - Paul Stanley
 - Sonic Youth
 - The Chemical Brothers
 - The Smashing Pumpkins
 - Thin Lizzy
-- Vince Clark
+- Vince Clarke
 

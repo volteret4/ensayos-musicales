@@ -2,7 +2,6 @@
 
 ## members
 - B-Real
-- Be Real
 
 ## concerts
 - **Judgment Night (1993) Soundtrack Collaboration** : Cypress Hill was teamed with Pearl Jam on the soundtrack for the 1993 movie "Judgment Night," an experiment to pair alternative bands with hard rap acts. "Lil Jam was teamed with Cypress Hill."
@@ -25,7 +24,6 @@
 **B-Real Auditions for Rage Against the Machine** : B-Real of Cypress Hill tried out to be the new singer for Rage Against the Machine after Zack de la Rocha's departure. However, the band felt he sounded too much like Zack, and decided against having another rapper. "It is true, however, that be real of Cypress Hill tried out. He sounded a little too much like Zach." ← https://www.youtube.com/watch?v=vLZla5h4xKQ ← cypress-hill
 **B-Real Auditions for Velvet Revolver (2003)** : B-Real, the rapper from Cypress Hill, was one of the singers who tried out for the band that would become Velvet Revolver, but he did not work out for the group. "Same with Be Real of Cypress Hill." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← cypress-hill ← cypress-hill
 **B-Real's Support for Famous Stars and Straps** : B-Real of Cypress Hill is mentioned as one of the musicians who publicly wears products from Travis Barker's clothing company, Famous Stars and Straps, thereby lending visibility and credibility to the brand. "and be real of Cypress Hill." ← https://www.youtube.com/watch?v=WIFxAaReLn0 ← cypress-hill
-**Be Real Audition for Post-Rage Project** : After Zach de la Rocha left Rage Against the Machine, the remaining members (Tom Morello, Brad Wilk, Timmy C) auditioned several singers for their new project, including Be Real from Cypress Hill. They ultimately chose to work with Chris Cornell instead. "The audition several people, including Be Real of Cypress Hill." ← https://www.youtube.com/watch?v=t2uXHP9cBdM ← cypress-hill
 **Co-headlining Tour with Beastie Boys** : Cypress Hill toured with the Beastie Boys following the release of *Check Your Head*, demonstrating a shared platform with diverse acts. "They toured not only with Cypress Hill, but also get this, The Rollins Band." ← https://www.youtube.com/watch?v=HZzP0qswdwM ← cypress-hill ← cypress-hill
 **Feature on Project Revolution** : Cypress Hill was among the artists featured on Linkin Park's "Project Revolution" tour. "They created their own tour called Project Revolution, which featured Snoop Dogg and Saipers Hill." ← https://www.youtube.com/watch?v=cUqdY_T7luM ← cypress-hill
 **Guest Appearance on The Simpsons' "Hullabalooza" Episode** : Within a couple of years of their success, Cypress Hill made a guest appearance on The Simpsons in the famous "Hullabalooza" episode, alongside Sonic Youth, The Smashing Pumpkins, and Peter Frampton, showcasing their crossover into mainstream pop culture. "And within a couple of years, they were guesting on The Simpsons in the famous Hullabalooza episode, along with Sonic Youth, The Smashing Pumpkins, and Peter Frampton." ← https://www.youtube.com/watch?v=5bQz8R0gbXc ← cypress-hill
@@ -34,10 +32,8 @@
 **Lollapalooza 1992 Second Stage Act** : Cypress Hill was among the bands featured on the second stage at selected dates during the 1992 Lollapalooza Festival, which boasted a critically acclaimed lineup. "You could have seen the stone type of pilots rage against the machine, Cypress Hill." ← https://www.youtube.com/watch?v=huAvyInzz3Q ← cypress-hill
 **Project Revolution Performer (2002)** : Cypress Hill performed at the inaugural Project Revolution tour in 2002, alongside DJ Z-Trip. "The first edition was in 2002 and featured Cypress Hill on a buddy named DJ Z-Trip." ← https://www.youtube.com/watch?v=YcdidjWaIqE ← cypress-hill
 **Shared Combatant Spirit** : Along with System of a Down, Cypress Hill adopted a combatant spirit directed against the system, moving beyond purely personal feelings to address broader societal issues. This ideological alignment mirrored the protest-oriented music of groups like Rage Against the Machine, demonstrating a continued thread of resistance within rock. "Cómo sistema fadda aún, o cómo los Cypress Hill también retomaban ese espíritu combatiente en contra del sistema inotanto, en contra del sentimiento personal." ← Music Radar Clan > Poniendo en su lugar a Rage Against the Machine | https://www.youtube.com/watch?v=BZwjNagkRcU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← cypress-hill ← cypress-hill
-**Touring Partner for Check Your Head** : Cypress Hill toured with the Beastie Boys following the release of their "Check Your Head" album. "They toured not only with Cypress Hill, but also get this, The Rollins Band." ← https://www.youtube.com/watch?v=9_BTe15NooI ← cypress-hill
+**Co-headlining Tour with Beastie Boys** : Cypress Hill toured with the Beastie Boys following the release of their "Check Your Head" album. "They toured not only with Cypress Hill, but also get this, The Rollins Band." ← https://www.youtube.com/watch?v=9_BTe15NooI ← cypress-hill
 **White Fan Base Expansion** : As a "straight rapper-former," Cypress Hill found themselves gaining more and more white fans, demonstrating the expanding reach of rap music. "Even straight rapper-formers like Dela Sol, Cypress Hill, NWA and Iced Tea found themselves with more and more white fans." ← https://www.youtube.com/watch?v=5bQz8R0gbXc ← cypress-hill
-
-
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

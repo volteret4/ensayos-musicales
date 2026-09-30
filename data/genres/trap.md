@@ -34,7 +34,7 @@
 - DJ Paul
 - Gucci Mane
 - Jeezy
-- John Biff
+- Yung Beef
 - Juicy J
 - Kefta Boyz
 - Khaled
@@ -42,12 +42,9 @@
 - Lana Del Rey
 - Lord Infamous
 - M.I.A.
-- MIA
 - PXXR GANG
 - Puel Gvng
-- Soma la Mantina
 - T.I.
 - Three 6 Mafia
 - Tommy Wright III
-- Yvng Beef
 

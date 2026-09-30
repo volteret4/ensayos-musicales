@@ -69,11 +69,15 @@
 **World War II Opportunities** : World War II significantly changed opportunities for female drummers as men from big bands were drafted. By 1942, band leaders, desperate to fill vacancies, actively sought women musicians, providing them an unprecedented chance to showcase their abilities. "But then came World War II. The men who populated the big bands of the era were drafted, leaving plenty of openings. And by 1942, music magazines and newspapers were filled with ads from band leaders desperate for anyone, even women, to fill slots in their orchestras." ← https://www.youtube.com/watch?v=9GHpC0kCgHY ← drums
 **YouTube Drum Covers** : A modern phenomenon showcasing female drummers' talent is the abundance of YouTube drum cover artists. These drummers sit behind kits and play along to challenging songs by bands like Rush or Tool, with examples like Mettal Cohen, Christina Reibelchenko, Roger Meisner, and Nandi Bushell demonstrating exceptional skill. "If you're interested in learning more, look up some of the women doing drum covers on YouTube. This is when they sit behind a kid and play along to a really difficult song by band like Rush or Toul." ← https://www.youtube.com/watch?v=9GHpC0kCgHY ← drums
 **Zach Starkey's First Kit** : Zach Starkey, son of Ringo Starr, received his first drum kit from his godfather, Keith Moon of The Who. "He got his first kit from Keith Moon of the Who." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← drums
+**Stuart Copeland's Contribution to "Every Breath You Take"** : Stuart Copeland devised the "cracking snare drum rhythm" for "Every Breath You Take," which is considered arguably as important to the song's endurance as Sting's melody. "The guitar arpeggio, that famous smoldering riff which Andy Summers came up with himself and the cracking snare drum rhythm that Stuart Copeland devised." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
+**Stuart Copeland's Reputation (1977)** : By 1977, after playing with Curved Air for two albums, Stuart Copeland had established a reputation as a "gregarious drummer of both power and detail," impressing Sting with his skills. "As for Stuart, by 1977, he had been playing with Curved Air for two albums and earned a reputation as a gregarious drummer of both power and detail. Sting was impressed with him right away." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
+**Bernard Purdy on Amazing Grace (1972)** : Drummer Bernard Purdy was among the rock accompanists Aretha Franklin invited to play on her *Amazing Grace* live recording sessions, contributing to the blend of genres. "and drummer Bernard Purdy" ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Narada Michael Walden's Background** : Narada Michael Walden is identified as a "big drummer," indicating his instrumental proficiency and role in music production. "I'm the big drummer, vocalist, songwriter and producer, Narada Michael Walden" ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
 
 ## artists
 - AJ Tomanello
 - Aaron Solowoniuk
-- Al Jackson
+- Al Jackson Jr.
 - Alan Leach
 - Alice in Chains
 - Angus Fay
@@ -86,18 +90,17 @@
 - Billy Talent
 - Bob Bryar
 - Bonnie Brantz
-- Brad Vilk
+- Brad Wilk
 - Brian Blade
 - Buddy Harmon
 - Butch Vig
-- Can
+- CAN
 - Carl Bunch
 - Charlie Watts
-- Chris Berkett
+- Chris Birkett
 - Chrissy Lee
 - Christina Reibelchenko
 - Cindy Blackman Santana
-- Claire Lane
 - Colin Petersen
 - Count Ossie
 - DJ Fontana
@@ -108,26 +111,25 @@
 - Dennis Bryon
 - Dennis Davis
 - Depeche Mode
-- Doddy Dottagin
 - Doug Kirkham
 - Earl Palmer
 - Elvis Presley
 - Foo Fighters
-- Fredo Hernandez
+- Alfredo Hernández
 - Georgia Hubley
-- Gina Shock
+- Gina Schock
 - Ginger Bianco
 - Gorillaz
 - Graham Bond Organisation
 - Hal Blaine
 - Hank Williams
-- Hassel Adkins
+- Hasil Adkins
 - Honey Lantree
 - Iggy Pop
 - Imagine Dragons
 - Jack Irons
 - Jack White
-- Jackie Brenston and his Delta Cats
+- Jackie Brenston and His Delta Cats
 - Jaki Liebezeit
 - Jane's Addiction
 - Janet Weiss
@@ -139,35 +141,33 @@
 - Jerry Lee Lewis
 - Jim Gordon
 - Jim Marshall
-- Jimmy Nichol
+- Jimmie Nicol
 - Joey Ramone
 - John Bonham
 - John Dolmayan
 - John Steele
 - Johnny Fay
 - Johnny Otis
-- Joseph Marciano Armstrong (Joey Armstrong)
+- Joey Armstrong
 - Joy Division
 - Julie Turner
 - June Miles Kingston
 - Karen Carpenter
 - Kate Schellenbach
 - Kings of Leon
-- Larry Mullen
+- Larry Mullen Jr.
 - Leon Michels
 - Lionel Hampton
 - Lynn Perko-Trelle
-- Manfred Mann (band)
+- Manfred Mann
 - Marion Panky
 - Marvin Gaye
-- Maureen "Moe" Tucker
 - Maureen Tucker
 - Maurice White
 - Meg White
-- Mettal Mettal Cohen
+- Meytal Cohen
 - Mick Fleetwood
 - Mitzi Bush
-- Mo Tucker
 - Moby
 - Mumford & Sons
 - My Bloody Valentine
@@ -177,28 +177,23 @@
 - Nihilist Spasm Band
 - Olivia Favillot
 - Ozark Mountain Daredevils
-- Paloma Romero
+- Palmolive
 - Patty Schemel
 - Pauline Brattie
 - Phil Collins
-- Phil Harvey band
 - Phil Selway
-- Rage Against The Machine
 - Rage Against the Machine
 - Ramones
 - Ray Charles
 - Red Hot Chili Peppers
 - Ringo Starr
 - Rob Bourdon
-- Roger Meisner
 - Roxy Petrucci
 - Samantha Maloney
 - Sandy Nelson
 - Sloan
 - Stephen Morris
-- Stevie
 - Stewart Copeland
-- Still-May Ditty
 - Talking Heads
 - Taylor Hawkins
 - Teresa Taylor
@@ -210,13 +205,12 @@
 - The Chemical Brothers
 - The Clash
 - The Crickets
-- The Debarrens
+- The Barons
 - The Gamblers
 - The Kingsmen
 - The Light Crust Doughboys
 - The Police
-- The Ramones
-- The Rock and Roll Trio
+- Johnny Burnette and the Rock and Roll Trio
 - The Searchers
 - The Sleepwalkers
 - The Smiths
@@ -230,9 +224,13 @@
 - Tool
 - Topper Headon
 - U2
-- Vera McClellan-a-Hans
 - Viola Smith
 - Walter Orange
 - Weezer
-- Zach Starkey
-
+- Zak Starkey
+- Chris Cornell
+- Matt Cameron
+- Fleetwood Mac
+- Omar Hakim
+- Bernard Purdy
+- Narada Michael Walden

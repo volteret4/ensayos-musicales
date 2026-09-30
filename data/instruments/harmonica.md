@@ -13,8 +13,8 @@
 - Bob Dylan
 - Captain Kick and the Cowboy Ramblers
 - Jimmy Powell and the Five Dimensions
-- Johnny Greenwood
-- Manfred Mann (band)
+- Jonny Greenwood
+- Manfred Mann
 - Paul Jones
 - Quincy Jones
 - Radiohead

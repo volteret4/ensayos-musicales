@@ -1,18 +1,16 @@
 # artist - Rhymes with Orange
 
 ## members
-- Bob Death (original keyboardist)
-- Kevin Spencer (joined 1996)
+- Kevin Spencer
 
 ## genres
-- Manchester Sound (influence)
+- Manchester Sound
 
 ## albums
-**First Two Albums (1992-1995)** : Rhymes with Orange's best years, between 1992 and 1995, encompassed the release of their first two albums, which featured several radio-friendly singles. "their best years coming between 1992 and 1995, which covered the first two albums and featured a number of very radio-friendly singles." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← rhymes-with-orange
 **Trapped in the Machine (1994)** : This album, released in 1994, featured the band's most popular single, "Toy Train." "From a 1994 album entitled Trapped in the Machine." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← rhymes-with-orange
 
 ## songs
-**Toy Train (1994) – Biggest Hit** : This song was the band's biggest hit, reaching the top 30 on the pop charts in 1994 and being used in a successful beer commercial. "This was their biggest hit. It made it onto the top 30 on the pop charts in 1994 and was used in a successful beer commercial." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← rhymes-with-orange
+**Toy Train (1994)** : This song was the band's biggest hit, reaching the top 30 on the pop charts in 1994 and being used in a successful beer commercial. "This was their biggest hit. It made it onto the top 30 on the pop charts in 1994 and was used in a successful beer commercial." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← rhymes-with-orange
 
 ## curiosities
 **90s Alt-Rock Discovery** : Rhymes with Orange is included in a list of 1990s bands that could be a source of "new to you" music for mid-40s grunge fans, suggesting opportunities to explore music missed during their youth. ← https://www.youtube.com/watch?v=m7MbV-eCLyE ← rhymes-with-orange
@@ -22,9 +20,3 @@
 **Kevin Spencer's Post-Rhymes with Orange Career** : Kevin Spencer, originally from Hamilton, joined Rhymes with Orange in 1996. He later performed in the touring version of the musical *Rent* for over 500 performances and also worked and toured with Daniel Lanois. Currently, he lives and works in music in Atlanta. "Kevin Spencer, who is originally from Hamilton, joined the band in 1996 and then went on to be a performer in the touring version of the musical Rent. He appeared at over 500 performances." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← rhymes-with-orange
 **Rhymes with Orange Formation and Active Period (1991-1995)** : The Vancouver band was formed in 1991, with their most successful period occurring between 1992 and 1995. Their singer was born in Britain, contributing to the band's influence by the UK's Manchester Sound. "They were formed in 1991 with their best years coming between 1992 and 1995." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← rhymes-with-orange
 **Rhymes with Orange Status and Sales** : The band never officially broke up and continues to exist in some form, despite numerous lineup changes. They sold approximately 100,000 albums throughout their career. "Now technically, the band is still with us. They never officially broke up. They sold about 100,000 albums over their time together." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← rhymes-with-orange
-
-
-
-## lists
-**"Herd Of Instinct" (1994) — Scaruffi 1990s** : #993, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Herd Of Instinct" (1994) — Sputnikmusic Best Albums 1997** : #106, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/

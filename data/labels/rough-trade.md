@@ -20,8 +20,7 @@
 ## artists
 - Agit Pop
 - Stiff Little Fingers
-- The Flying Bricks
-- The Normal (Daniel Miller)
+- The Normal
 - The Smiths
 - The Strokes
 - Young Marble Giants

@@ -7,19 +7,16 @@
 **Subgenre of Third Wave Emo** : Screamo emerged as one of the fragmented variations and subgenres within the third wave of emo. "Emo-pop, screamo bands, just a couple of examples." ← https://www.youtube.com/watch?v=v_am7ifh7Pk ← screamo
 
 ## artists
-- Alexis On Fire
-- Alexis on Fire
 - Alexisonfire
 - At The Drive-In
-- At the Drive-In
 - Hawthorne Heights
 - Pianos Become The Teeth
 - Senses Fail
 - Silverstein
 - Story of the Year
-- The Refused
+- Refused
 - The Used
 - Thursday
-- Touche Amore
+- Touché Amoré
 - Underoath
 

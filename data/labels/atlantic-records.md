@@ -38,17 +38,26 @@
 **Stax Records Split** : Atlantic Records was the label from which Stax Records split, leading Stax to embark on a rapid and extensive effort to rebuild its own independent music catalog. "Stacks records had split from Atlantic records and needed a catalog." ← For the Record - The 70s > Ep. 22 - Power to the People - The Music of the Black Power Movement | https://seventies.libsyn.com/022-power-to-the-people-62520-11-01-am ← atlantic-records
 **Suggests New STP Album (2009)** : After the successful 2008-2009 reunion tour, Atlantic Records, Stone Temple Pilots' old record label, suggested it was time for the band to record another album, nine years after "Shangri-La Dee Da," to capitalize on their regained momentum. "The 2008-2009 STP reunion tour went well enough for Atlantic STP's old record label to suggest that it was time for another album." ← https://www.youtube.com/watch?v=WfTq9d2YadY ← atlantic-records ← atlantic-records
 **Transformed by Ruth Brown** : In the 1950s, R&B singer Ruth Brown played a crucial role in the growth of Atlantic Records, helping to transform it into a formidable "monster" in the music industry. Her significant contributions through her hit records boosted the label's stature and financial success. "And Ruth Brown, a former jazz singer who moved into R&B in the 1950s and became known as the woman who helped make Atlantic records into a monster." ← https://www.youtube.com/watch?v=vV1APhjBt9M ← atlantic-records ← atlantic-records
+**Falling Behind in Alternative Rock (Early 1990s)** : In the early 1990s, Atlantic Records found itself lagging in the burgeoning alternative rock scene, particularly after Nirvana's breakthrough with other labels. To rectify this, they recruited executive Danny Goldberg and subsequently hired A&R specialist Tim Summer to specifically "beef up Atlantic's alternative roster." "Atlantic Records, a label that had fallen behind in the alternative rock sweepstakes." ← Hit Parade Music History and Music Trivia > A Little Love and Some Tenderness Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f6f64fe6d21276e433e
+**Skepticism Towards Hootie & the Blowfish** : Despite signing Hootie & the Blowfish, Atlantic Records initially showed considerable skepticism and disinterest towards their debut album, *Cracked Rear View*. It was signed for a "meager advance," and the label's head of A&R even wanted to shelve it, deeming it "irreleasable." The band was nearly dropped after the album failed to sell outside the South in its first two months, highlighting the internal struggle for acceptance within the label. "Expectations for cracked rear view were exceedingly modest. ... their debut was met with skepticism, even disinterest across the label." ← Hit Parade Music History and Music Trivia > A Little Love and Some Tenderness Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f6f64fe6d21276e433e
+**Graham Parker's Conflict and Departure** : Graham Parker signed with Atlantic Records, his fourth label in a decade, for his album "The Mona Lisa's Sister." However, when he presented his demos and offered to produce the LP himself, Atlantic insisted he work with outside producers and add studio sheen. Parker flatly refused, leading him to leave the label and sign with RCA instead. "He just signed two Atlantic records, already his fourth label in a decade." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
+**Signing of Bruno Mars** : Atlantic Records had been closely monitoring Bruno Mars's artistic development and eventually "pulled the trigger" to sign him to his own artist contract in 2010. This decision followed Mars's demonstrated hit-making ability as both a songwriter and a prominent hook singer for other artists, such as on B.o.B's "Nothing On You." "The Atlantic label, which had been waiting for Mars to develop before signing him to his own artist contract, finally pulled the trigger in 2010." ← Hit Parade Music History and Music Trivia > Lenny on Mars Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f54d1ba84fb8f0463bf
+**Popularizing Rhythm and Blues** : Since the 1950s, Atlantic Records played a major role in popularizing Rhythm and Blues, a term coined by its executive Jerry Wexler. The label was known for successfully crossing R&B over to white audiences while preserving its raw, soulful essence, a strategy that would later revitalize Aretha Franklin's career. "Since the 50s, Atlantic had played a major role in popularizing Rhythm and Blues, a term by the way that was coined in the early 50s by Atlantic Records executive Jerry Wexler." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4eef8e6dd12efb02c3c9
+**Muscle Shoals Connection** : Atlantic Records extensively utilized the FAME Studios in Muscle Shoals, Alabama, recording many artists with the Muscle Shoals Rhythm Section, including Wilson Pickett, Percy Sledge, and Otis Redding. This studio connection became pivotal in shaping the sound of soul music and in the career resurgence of Aretha Franklin. "By the mid-60s, Atlantic had a lot of artists recording with the Muscle Shoals Rhythm section, from Pickett to Percy Sledge to Otis Redding." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4eef8e6dd12efb02c3c9
+**Aretha Franklin's Breakthrough (1967)** : The R&B-rooted label Atlantic Records signed Aretha Franklin in 1967, a move that brought "respect to Arita's name" and transformed her into "America's premiere vocal dynamo," ending her period of no big hits at Columbia. "But a switch to R&B rooted label Atlantic records in 1967 brought respect to Arita's name, and made her America's premiere vocal dynamo." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Shift to Rock (Late 1970s)** : By the late 1970s, after 12 years with Aretha Franklin, Atlantic Records had shifted its musical focus and was "better known for rock acts like Led Zeppelin than for R&B," contributing to Franklin's departure from the label. "By the late 70s, Atlantic was better known for rock acts like Led Zeppelin than for R&B." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Led Zeppelin Association (Late 1970s)** : Atlantic Records was known for rock acts like Led Zeppelin by the late 1970s. "Atlantic was better known for rock acts like Led Zeppelin" ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
 
 ## artists
-- ACDC
+- AC/DC
 - Aretha Franklin
 - Bad Religion
-- Benny King
+- Ben E. King
 - Big Wreck
 - Billy Talent
 - Crosby, Stills, Nash & Young
 - Danny O'Keefe
-- Donnie Hathaway
+- Donny Hathaway
 - Eugenius
 - Jerry Wexler
 - Led Zeppelin
@@ -59,9 +68,16 @@
 - Sister Sledge
 - Stone Temple Pilots
 - The Drifters
-- The Eagles
-- The Romeo's
+- Eagles
+- The Romeos
 - The Spinners
 - Tori Amos
 - Willie Nelson
-
+- Hootie & the Blowfish
+- Tim Summer
+- Bruno Mars
+- Graham Parker
+- Otis Redding
+- Wilson Pickett
+- Percy Sledge
+- The Pointer Sisters

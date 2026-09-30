@@ -2,8 +2,7 @@
 
 ## members
 - Rick Nielsen
-- Rick Nielsen (guitarist)
-- Tom Peterson (bassist)
+- Tom Petersson
 
 ## genres
 - Glitter Rock
@@ -14,7 +13,7 @@
 - Rock
 
 ## albums
-**Cheap Trick at Budokan (1978) - Live Album** : Released after a quick tour of Japan in 1978, this live record transformed Cheap Trick into massive stars on both sides of the Pacific. Its success significantly advanced the Powerpop genre, setting the stage for New Wave bands to embrace the sound. "Later that year, they flew over for a quick tour and the resulting record, cheap trick at Budacan, made the massive stars on both sides of the Pacific." ← https://www.youtube.com/watch?v=hstJ8M2laho ← cheap-trick ← cheap-trick
+**Cheap Trick at Budokan (1978)** : Released after a quick tour of Japan in 1978, this live record transformed Cheap Trick into massive stars on both sides of the Pacific. Its success significantly advanced the Powerpop genre, setting the stage for New Wave bands to embrace the sound. "Later that year, they flew over for a quick tour and the resulting record, cheap trick at Budacan, made the massive stars on both sides of the Pacific." ← https://www.youtube.com/watch?v=hstJ8M2laho ← cheap-trick ← cheap-trick
 **Heaven Tonight (1978)** : This 1978 record featured the hit single "Surrender" and played a crucial role in establishing Cheap Trick's immense popularity in Japan. The album marked a point where their rock sound, influenced by a change of producers on their second album, became more polished and pop-oriented. "Surrender is from heaven to night, a 1978 record that made cheap trick huge in Japan." ← https://www.youtube.com/watch?v=hstJ8M2laho ← cheap-trick ← cheap-trick
 
 ## songs
@@ -27,8 +26,6 @@
 **Influence on Foo Fighters** : Cheap Trick, a power pop band prominent in the late 1970s and early 1980s, was a significant favorite of the Foo Fighters members during their formative years. Rick Nielsen, their guitarist, contributed to the Foo Fighters' song "Something from Nothing." "Rick Nielsen of Cheap Trick, a power pop band from the late 70s and early 80s that was a big favorite of the guys in the Foo Fighters when they were growing up." ← https://www.youtube.com/watch?v=Mh-qg1izM98 ← cheap-trick
 **Influential Band** : Cheap Trick is frequently cited as a major influence by a diverse range of bands, from The Smashing Pumpkins to The Foo Fighters, underscoring their significant impact on later rock and alternative music. "This is a band that cited as an influence by bands ranging from the smashing pumpkins to the foo fighters." ← https://www.youtube.com/watch?v=hstJ8M2laho ← cheap-trick ← cheap-trick
 **New Wave Breakthrough (Summer 1979)** : Cheap Trick was one of the power pop bands that scored their biggest hits to date in the summer of 1979, a period that marked the breakthrough summer of New Wave in America. "as power pop bands like Cheap Trick. The neck, and the cars. All scored their biggest hits to date." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
-
-
 
 ## awards
 **American Music Award for Favorite Pop/Rock Band/Duo/Group (1980)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1441676

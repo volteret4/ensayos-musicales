@@ -19,5 +19,5 @@
 - Jimi Hendrix
 - Nirvana
 - Red Hot Chili Peppers
-- Smashing Pumpkins
+- The Smashing Pumpkins
 

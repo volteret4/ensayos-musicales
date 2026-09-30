@@ -1,9 +1,8 @@
 # artist - The Stranglers
 
 ## members
-- David Greenfield
+- Dave Greenfield
 - Jean-Jacques Burnel
-- Jean-Jacques Burnel (JJ Burnel)
 
 ## genres
 - British band
@@ -16,9 +15,9 @@
 - Roundhouse (July 4, 1976)
 
 ## instruments
-- Bass guitar
 - amplifier
 - bass
+- Bass guitar
 - classical guitar
 
 ## albums
@@ -40,8 +39,6 @@
 **Older Than Punk Contemporaries** : This British band, which rose to prominence during the original punk era of the 1970s, had members who were generally older than most of their punk peers, with most being in their middle to upper 20s when the band gained traction. "A strangler's, the fierce British band who blew up during the original punk era of the 1970s, were a few years older than most of their punk contemporaries." ← https://www.youtube.com/watch?v=P45lJTdneoI ← the-stranglers ← the-stranglers
 **Opening for The Ramones (July 4, 1976)** : The Stranglers were one of the two bands on the bill opening for The Ramones at the Roundhouse in Camden, London, on July 4, 1976. They started the night's performances. "The stranglers started the night and the official headliners were a group called the Flamen Groovies." ← https://www.youtube.com/watch?v=huAvyInzz3Q ← the-stranglers
 **Shared London Gig** : Joy Division performed a show with The Stranglers at a London venue called the Rainbow on April 4, 1980, during which Ian Curtis suffered three attacks in the first five songs and later collapsed entirely. "On April 4, 1980, during a show with the stranglers at a London venue called the Rainbow, Ian suffered three attacks during the first five songs of the set before collapsing entirely." ← https://www.youtube.com/watch?v=1VWJ0uCQx8w ← the-stranglers ← the-stranglers
-
-
 
 ## lists
 **"Rattus Norvegicus" (1977) — 1001 Albums You Must Hear Before You Die** : #374.

@@ -1,9 +1,5 @@
 # artist - Woody Guthrie
 
-## members
-- Jack Guthrie (cousin)
-- Maxine Christman (Lefty Lou from Old Mizzou)
-
 ## genres
 - American Folk Music
 - Country
@@ -18,12 +14,9 @@
 
 ## songs
 **1913 Massacre** : A song by Woody Guthrie, which served as the tune for Bob Dylan's early song for Bonnie, later rewritten as "Song to Woody." "Guthrie is 1913 Massacre." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
-**Dust Bowl Ballads (various)** : Famous songs written by Guthrie about the devastating Dust storms of the 1930s in the American West, depicting the destruction and hardship. One notable example recounted the first storm on April 14, 1935. "The were the famous Dust Bowl ballads about the Dust storms that had caused so much destruction and hardship in the west." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
 **Ida Red** : An old song that was part of Woody Guthrie's folk performance repertoire. "A big chunk of his repertoire was old songs like Ida Red, Stackely, and who was going to shoot your pretty little feet." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
-**Outlaw Songs (various)** : Guthrie wrote songs that took the forms of old folk and country songs, reworking lyrics to create pieces about contemporary events, including famous outlaws seen as "Robin Hood type figures." "There were songs about famous outlaws, V-Caster's Robin Hood type figures." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
 **Stack-o-Lee** : An old song that was part of Woody Guthrie's folk performance repertoire. "A big chunk of his repertoire was old songs like Ida Red, Stackely, and who was going to shoot your pretty little feet." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
-**Talking Blues (various)** : Woody Guthrie was known for writing "talking blues" with comedy lyrics. These were a significant influence on Bob Dylan, whose early original "Talking New York" was written in this style. "The were talking blues with comedy lyrics." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
-**This Land Is Your Land** : A radical song by Guthrie, intended as a critique of private property, emphasizing that land should be accessible to all. It has been adopted as an anthem by diverse groups, some of whom may not align with Guthrie's original political intent. "A radical song about how private property is immoral and unnatural, which has been taken up as an anthem by people who would despise everything that God three stood for." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
+**This Land Is Your Land (1944)** : A radical song by Guthrie, intended as a critique of private property, emphasizing that land should be accessible to all. It has been adopted as an anthem by diverse groups, some of whom may not align with Guthrie's original political intent. "A radical song about how private property is immoral and unnatural, which has been taken up as an anthem by people who would despise everything that God three stood for." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
 **Who's Going to Shoe Your Pretty Little Feet** : An old song that was part of Woody Guthrie's folk performance repertoire. "A big chunk of his repertoire was old songs like Ida Red, Stackely, and who was going to shoot your pretty little feet." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
 
 ## curiosities
@@ -44,13 +37,8 @@
 **The Oki and Woody Show** : Woody and his cousin Jack Guthrie performed together with a group called the Beverly Hillbillies and had their own radio show called "The Oki and Woody Show," which was not successful. "They performed with a group called the Beverly Hill Belize and got their own radio show, the Oki and Woody show, but it wasn't successful" ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
 **The Woody and Lefty Act** : After Jack Guthrie quit, Woody continued performing with Maxine Christman, known as Lefty Lou from Old Mizzou. Their duo became "hugely popular" until Lefty quit due to failing health, which indirectly benefited Guthrie's career. "The Woody and Lefty act became hugely popular, but Lefty eventually also quit due to her health failing." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
 
-
-
 ## awards
 **Rock and Roll Hall of Fame (1988)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
 **Oklahoma Music Hall of Fame (1997)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q7082270
 **Grammy Lifetime Achievement Award (2000)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q935843
 **Americana Music Association President's Award (2016)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q96613973
-
-## lists
-**"Reverse Earth" (2025) — Bandcamp: The Best Albums of 2025** : #19. ← musicbrainz | https://beta.musicbrainz.org/series/e71890ee-e707-4eae-af8f-b60074d08730

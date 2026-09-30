@@ -9,7 +9,5 @@
 ## songs
 **People of the Sticks** : This song is a sample from Braids' 2013 album, "Until Inaccessed Inperceptible UFO," which was shortlisted for the Polaris Music Prize. It exemplifies the shoegaze sound that saw a semi-revival in the 2010s. "This is called People of the Sticks." ← https://www.youtube.com/watch?v=HSvgRyGiOpE ← braids
 
-
-
 ## lists
 **"Native Speaker" (2011) — Scaruffi 2010s** : #119, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

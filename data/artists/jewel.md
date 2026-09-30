@@ -1,12 +1,8 @@
 # artist - Jewel
 
-## albums
-**Sales Figures** : Jewel sold over 30 million albums, a remarkable achievement given her humble beginnings. "Jewel, who went from sleeping in her car to selling over 30 million albums." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← jewel ← jewel
-
 ## curiosities
 **From Homelessness to Stardom** : Jewel's story is highlighted as one of remarkable success, transitioning from sleeping in her car to selling over 30 million albums. "Jewel, who went from sleeping in her car to selling over 30 million albums." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← jewel ← jewel
-
-
+**From Homelessness to Stardom** : Jewel's story is highlighted as one of remarkable success, transitioning from sleeping in her car to selling over 30 million albums. "Jewel, who went from sleeping in her car to selling over 30 million albums." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← jewel
 
 ## awards
 **Grammy Award for Best New Artist (1996)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643

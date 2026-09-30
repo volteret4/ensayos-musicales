@@ -1,12 +1,11 @@
 # artist - Mott The Hoople
 
 ## songs
-**All The Young Dudes (1972) - Bowie-Penned Hit** : This glam anthem was written and produced by David Bowie, becoming Mott The Hoople's first Top 40 hit in America, reaching number 37. Casey Kasem highlighted the unusual situation where their producer, Bowie, was "100 times better known" but had yet to score a Top 40 hit himself. "The group is Mott The Hoople, and they're at number 37 with all the young dudes." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 1 | https://shows.acast.com/hit-parade/episodes/696aa42a4796fcbb571adba7
+**All The Young Dudes (1972)** : This glam anthem was written and produced by David Bowie, becoming Mott The Hoople's first Top 40 hit in America, reaching number 37. Casey Kasem highlighted the unusual situation where their producer, Bowie, was "100 times better known" but had yet to score a Top 40 hit himself. "The group is Mott The Hoople, and they're at number 37 with all the young dudes." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 1 | https://shows.acast.com/hit-parade/episodes/696aa42a4796fcbb571adba7
+**Who Do You Love (1972)** : This rock track was covered by The Pointer Sisters on their 1979 album *Priority*, as producer Richard Perry continued to integrate rock into their sound. "Perry had The Sisters cover another round of rock tracks, including Who Do You Love by Moth the Hoople..." ← Hit Parade Music History and Music Trivia > Yes We Can Can Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f6364fe6d21276e3fdd
 
 ## curiosities
 **Bowie's First Top 40 Hit as Writer/Producer** : Mott The Hoople achieved their first Top 40 hit on the Hot 100 with "All The Young Dudes," a song written and produced by David Bowie. This marked Bowie's first indirect entry into the Top 40, before he had a major US hit of his own. "Fun fact, Bowie first cracked the Hot 100's Top 40, not with one of his own songs, but with a glam anthem he wrote and produced for British band, Mott The Hoople." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 1 | https://shows.acast.com/hit-parade/episodes/696aa42a4796fcbb571adba7
-
-
 
 ## awards
 **MOJO Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3319330

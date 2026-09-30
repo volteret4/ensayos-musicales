@@ -1,14 +1,15 @@
 # artist - Post Malone
 
 ## songs
-**Circles (N/A)** : This song interpolates "Dreams" by Fleetwood Mac. "circles by Post Malone interpolates dreams by Fleetwood Mac." ← https://www.youtube.com/watch?v=dnQ1pNbIUjw ← post-malone ← post-malone
+**Circles (2019)** : This song interpolates "Dreams" by Fleetwood Mac. "circles by Post Malone interpolates dreams by Fleetwood Mac." ← https://www.youtube.com/watch?v=dnQ1pNbIUjw ← post-malone ← post-malone
+**Circles (2019)** : This song interpolates "Dreams" by Fleetwood Mac. "circles by Post Malone interpolates dreams by Fleetwood Mac." ← https://www.youtube.com/watch?v=dnQ1pNbIUjw ← post-malone
 
 ## curiosities
 **2024 Hot Weather Contender** : Post Malone is noted as having one of the latest hits contributing to the "song of the summer meme" comeback in 2024. "Thanks to the latest hits by Post Malone and Morgan Wallen, Kendrick Lamar, Shabuzy, and Sabrina Carpenter." ← Hit Parade Music History and Music Trivia > Song(s) of the Summer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef50c30a1408dc292e4
 **Radical Career Shift** : Post Malone made a radical change in his career direction, moving towards Country music and collaborating with genre musicians. "Pues Malón dando giro radical a su carrera, y nuevas figuras como Orville Peck rescatando la figura del baquero." ← El genio roto del country： La leyenda de Hank Williams | https://www.youtube.com/watch?v=qczx7qWg4xM
 **Third Most Streamed Artist of the Decade (2010s)** : Post Malone was ranked as the third most streamed artist of the 2010s, indicating his substantial popularity and success on digital streaming services. His presence among the top streamed artists reflects the dominant trend of music consumption during the decade. "Drake was the most streamed artist of the decade, followed by Ed Sheeran and Post Malone." ← https://www.youtube.com/watch?v=mNqqLDpUuZY ← post-malone ← post-malone
-
-
+**Third Most Streamed Artist of the Decade (2010s)** : Post Malone was ranked as the third most streamed artist of the 2010s, indicating his substantial popularity and success on digital streaming services. His presence among the top streamed artists reflects the dominant trend of music consumption during the decade. "Drake was the most streamed artist of the decade, followed by Ed Sheeran and Post Malone." ← https://www.youtube.com/watch?v=mNqqLDpUuZY ← post-malone
+**21st-Century Genre Blending** : Post Malone was cited as a contemporary artist who, in the 21st century, freely records in "whatever idiom they like," reflecting a shift where genre mixing is no longer revolutionary but expected. "Taylor Swift to Post Malone." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
 
 ## awards
 **American Music Award for New Artist of the Year (2017)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1527196

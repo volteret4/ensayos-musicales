@@ -14,3 +14,5 @@
 **International Yodeling Star** : Slim Whitman was an American country and western star popular in the 1950s, known worldwide for his yodeling vocals. His popularity extended across America, Europe, and even parts of Africa. "This is Slim Whitman, an American country and western star in the 1950s, known the world over for his yodeling vocals." ← Hit Parade Music History and Music Trivia > Pour Some Sugar on Me Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5d1ba84fb8f04493d
 **Jamboree Film Appearance** : Slim Whitman appeared in the film "Jamboree," a 1957 exploitation film featuring various musical performances. He was considered a musician who wasn't strictly rock and roll but was "close enough that the kids would probably accept them." "Slim Whitman appeared, as did Count Basie, with Joe Williams as lead vocalist." ← Episode 66： ＂Great Balls of Fire＂ by Jerry Lee Lewis | https://www.youtube.com/watch?v=CVp5e4EWCqI
 
+## charts
+**"Rose Marie" — UK Best Selling Singles** : 1955. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart

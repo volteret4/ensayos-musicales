@@ -1,14 +1,14 @@
 # artist - PXXR GANG
 
 ## members
-- Cecilio G (legendary initial member)
-- John Biff
+- Cecilio G
 - K.D.K.in
 - Khaled
 - Steve Lean
+- Yung Beef
 
 ## genres
-- Reggaeton (as La Mafia del Amor)
+- Reggaeton
 - Trap
 
 ## labels
@@ -19,7 +19,7 @@
 - Sónar
 
 ## albums
-**Los Pobres (2015) - Sony Music Debut** : PXXR GANG signed a contract with Sony Music in 2015 to release this single album. According to them, they sent Sony a handful of songs they considered mediocre, intending to mock the label and cash the check. "Según ellos, enviaron a Sony un puñado de canciones que consideraban medio crees para reírse de la discográfica y cobrar el cheque." ← La salvaje historia del TRAP ESPAÑOL (2013-2026) | https://www.youtube.com/watch?v=4hBhiU5jj6s
+**Los Pobres (2015)** : PXXR GANG signed a contract with Sony Music in 2015 to release this single album. According to them, they sent Sony a handful of songs they considered mediocre, intending to mock the label and cash the check. "Según ellos, enviaron a Sony un puñado de canciones que consideraban medio crees para reírse de la discográfica y cobrar el cheque." ← La salvaje historia del TRAP ESPAÑOL (2013-2026) | https://www.youtube.com/watch?v=4hBhiU5jj6s
 **Mixtape Gratuito (2015)** : Shortly after the release of "Los Pobres" with Sony Music, PXXR GANG launched a free mixtape. This act was seen as unthinkable if they had signed an exclusivity contract with the label, further underscoring their rebellious approach to the music industry. "A los pocos días lanzaron un mixtape gratuito, algo intensable si hubiese firmado un contrato de exclusividad con ellos." ← La salvaje historia del TRAP ESPAÑOL (2013-2026) | https://www.youtube.com/watch?v=4hBhiU5jj6s
 
 ## curiosities
@@ -34,4 +34,3 @@
 **Parallel Reggaeton Project: La Mafia del Amor** : PXXR GANG also formed a parallel reggaeton project called La Mafia del Amor. This demonstrated their willingness to blend genres, mixing trap with Latin music. "la porgang de hecho formó el proyecto paraleno del regetón la mafía del amor." ← La salvaje historia del TRAP ESPAÑOL (2013-2026) | https://www.youtube.com/watch?v=4hBhiU5jj6s
 **Performance with Salsa Combo at Primavera Sound** : PXXR GANG had a memorable performance at festivals like Sónar and Primavera Sound, where they played some of their most iconic songs with a salsa combo. "donde tiene un sofamoso concepto, tocando algunas de sus piezas más míticas con un combo de salsa." ← La salvaje historia del TRAP ESPAÑOL (2013-2026) | https://www.youtube.com/watch?v=4hBhiU5jj6s
 **Reconciliation with Cecilio G** : Despite a long-standing "war" with their former associate Cecilio G, which played out on Instagram stories and DMs, PXXR GANG and Cecilio G eventually reconciled. "Con el tiempo la purga no y Cecilio G se han reconciliado y me alegro." ← La salvaje historia del TRAP ESPAÑOL (2013-2026) | https://www.youtube.com/watch?v=4hBhiU5jj6s
-

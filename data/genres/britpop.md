@@ -91,6 +91,7 @@
 **Toronto's Role in North American Breakout** : Toronto played a crucial role as a "staging ground" for many British acts from 1984 onwards to break into the North American market, forming a "third leg of a triangle that extends through New York and London." This support for British music meant Toronto-based radio stations often led the culture in promoting bands like Happy Mondays, Stone Roses, and The Charlatans, weeks ahead of other Canadian outlets and even US markets. "We did very well promoting British music because Toronto is like the third leg of a triangle that extends through New York and London." ← https://www.youtube.com/watch?v=bI6TTA-fn7c ← britpop
 **UK Alt Rock Contribution** : Britpop is identified as the UK's primary contribution to Alt Rock during the 1990s. "if the UK's was Britpop, ours was Can Rock." ← https://www.youtube.com/watch?v=U2kYleeMnl8 ← britpop ← britpop
 **Wobbling and Decline (1995-1996)** : As 1995 transitioned into 1996, Britpop began to show signs of instability and "getting a little wobbly," indicating the natural progression of a cultural storm reaching its end. "And as 1995 turned into 1996, it became apparent that Britpop was getting a little wobbly." ← https://www.youtube.com/watch?v=vzyMSSlD7Yg ← britpop
+**The British Invasion That Didn't Take** : The 1990s Britpop era was largely immune to America, meaning "there was no 90s British invasion." Despite its own catalog of styles and stars, it serves as a "control group" in the multi-decade pop experiment, representing a British invasion that failed to cross over successfully to the US. "But here's the thing, America proved largely immune to that Britpop era. There was no 90s British invasion, which begs the question, why?" ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
 
 ## artists
 - 77s
@@ -99,32 +100,28 @@
 - Blur
 - Cast
 - Dodgy
-- Echo Belly
+- Echobelly
 - Elastica
 - Gene
 - Jarvis Cocker
 - Liam Gallagher
 - Marion
-- Men's Wear
+- Menswear
 - Noel Gallagher
-- Northern Opera
 - Oasis
 - Ocean Colour Scene
 - Paul Weller
 - Primal Scream
 - Pulp
-- Rage Against The Machine
 - Rage Against the Machine
 - Richard Ashcroft
 - Salad
-- Shed 7
+- Shed Seven
 - Sleeper
-- Stone Roses
+- The Stone Roses
 - Suede
 - Supergrass
 - The Charlatans
 - The Chemical Brothers
-- The Stone Roses
 - These Animal Men
 - Whiteout
-

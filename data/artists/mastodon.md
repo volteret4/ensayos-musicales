@@ -6,8 +6,6 @@
 ## curiosities
 **Subsidized by Nickelback Profits** : Mastodon, a metal band, benefited from the profits Nickelback generated for Roadrunner Records. The substantial sales from Nickelback helped subsidize the releases of various other metal bands, showcasing their role in financially sustaining parts of the music industry. "When Nickelback was selling millions for roadrunner records, that money subsidized releases for a ton of metal bands like Opef and Kill Switch Engage and Mastodon." ← https://www.youtube.com/watch?v=7Zniri9uSlc ← mastodon
 
-
-
 ## lists
 **"Crack the Skye" (2009) — AOTY Must Hear 2000s** : #40, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
 **"Blood Mountain" (2006) — AOTY Must Hear 2000s** : #177, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/

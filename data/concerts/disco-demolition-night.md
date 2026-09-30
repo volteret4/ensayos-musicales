@@ -2,4 +2,4 @@
 
 ## curiosities
 **Anti-Disco Riot (Chicago 1979)** : In the summer of 1979, Chicago was the site of the infamous "Disco Demolition Night," an anti-disco riot. This event symbolized the intense backlash against disco music and culture, contributing to its eventual crash and burn by 1980. "There was even an anti-disco ride in Chicago in the summer of 1979, the infamous disco destruction night." ← https://www.youtube.com/watch?v=0FYq5MBdHw4 ← disco-demolition-night ← disco-demolition-night
-
+**Turning Point for Dance Music (July 1979)** : The "menacing disco demolition night" in Chicago in July 1979 was a significant turning point for dance music on the charts and in popular consciousness. In its wake, "disco became a dirty word," and a cultural backlash steered charts away from anything perceived as "to dance oriented or black derived" for several years, though the music itself did not die. "In the wake of Chicago's menacing disco demolition night in July of 1979, disco became a dirty word." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3

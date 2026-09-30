@@ -17,7 +17,5 @@
 **Father's Musical Influence and Happy Mondays Connection** : The four Congos brothers are sons of recording artist John Congos, who was born in South Africa. Some of John Congos' songs were adapted by the Happy Mondays, most notably his 1971 song "He's Going To Step On You Again," which they interpolated into their hit "Step On." "Their father is John Congos, who was also a recording artist. He was born in South Africa. And some of his songs were adapted by the happy Mondays. Most notably his 1971 song, He's going to step on you again, which the Mondays interpolated into their hit, Step On." ← Ongoing History of New Music > It's A Family Affair | https://www.youtube.com/watch?v=gxbuajGKbko&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **International Upbringing and Formation** : The Congos brothers grew up in both South Africa and London before eventually moving to Phoenix. Coming from a musical family, they began performing together as Congos in 2007 while still living in South Africa. "John Congos' sons grew up in South Africa and London before moving to Phoenix. And coming from an obviously musical family, they started performing as Congos in 2007 while they were still in South Africa." ← Ongoing History of New Music > It's A Family Affair | https://www.youtube.com/watch?v=gxbuajGKbko&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
-
-
 ## lists
 **"Heart of the Congos" (1977) — Pitchfork: The 100 Best Albums of the 1970s** : #46. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1

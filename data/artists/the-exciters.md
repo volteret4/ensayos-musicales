@@ -1,8 +1,5 @@
 # artist - The Exciters
 
-## members
-- (not specified, but noted as having one male member)
-
 ## labels
 - Red Bird Records
 
@@ -18,8 +15,4 @@
 **Later UK Top 40 Hit (1975)** : Although their US hits dried up, a later lineup of The Exciters made the UK top 40 in 1975 with a song written and produced by Northern Soul DJ Ian Levine. "Sadly, that record only reached number 78 on the chart, and the Excitez would have no more hits in the US, though a later lineup of the group would make the UK top 40 in 1975, with the song written and produced by the Northern Soul DJ Ian Levine." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
 **Opening Act for The Beatles (1964)** : The Exciters performed as one of the opening bands for The Beatles at Maple Leaf Gardens in Toronto on September 6, 1964. They, along with the other supporting acts, were booed by the crowd, whose sole focus was on seeing The Beatles. "As the opening bands, which included...the exciders...hit the stage to crowd-bood, they only wanted one band, and one band only." ← https://www.youtube.com/watch?v=2IDbX5rNT1E ← the-exciters ← the-exciters
 **Touring with The Beatles (Summer 1964)** : Despite never having another top 40 hit after "Tell Him," The Exciters became popular enough among British music lovers that The Beatles asked them to open for their American tour in the summer of 1964. "Most of the exciteers records were of songs written by the more Arvand B. End of the Bill Building songwriters. They would record several more Bird Burn songs, and some by Richie Barrett. But the song that would become their most well known legacy was actually written by Jeff Barry and Ellie Greenwich." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
-
-
-
-## lists
-**"Heavy Metal Maniac" (1983) — Scaruffi 1980s** : #398, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**Opening Act for The Beatles (1964)** : The Exciters performed as one of the opening bands for The Beatles at Maple Leaf Gardens in Toronto on September 6, 1964. They, along with the other supporting acts, were booed by the crowd, whose sole focus was on seeing The Beatles. "As the opening bands, which included...the exciders...hit the stage to crowd-bood, they only wanted one band, and one band only." ← https://www.youtube.com/watch?v=2IDbX5rNT1E ← the-exciters

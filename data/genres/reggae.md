@@ -51,6 +51,7 @@
 **Stuart Copeland's Distinct Feel** : Stuart Copeland of The Police was known for incorporating a distinctly reggae and dub feel into his drumming. This characteristic style was often highlighted through his liberal use of rim shots. "Second, he had a distinctly reggae and dub feel to his playing, something often expressed with liberal use of rim shots." ← https://www.youtube.com/watch?v=WL3zEWJJNuw ← reggae ← reggae
 **Subtle Presence in *To Pimp a Butterfly*** : *To Pimp a Butterfly* is mentioned as incorporating elements of Reggae (referred to as "Righi"). This inclusion contributes to the album's reputation for its diverse stylistic blend, showcasing a concentration of 50 years of musical genius within its runtime. "Es Righi." ← Music Radar Clan > Kendrick Lamar：  To pimp a butterfly | https://www.youtube.com/watch?v=ENmSJbhbGeo&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← reggae ← reggae
 **White Fan Base Factors** : Reggae's primary American fan base in the 1970s was predominantly white, a phenomenon attributed partly to American black audiences' preference for "elaborately costumed funk and disco" (and their desire to avoid the "stigma of primitivism" linked to African roots), alongside reggae's non-threatening, laid-back rhythms and its association with marijuana use and "mellowing out." "Perhaps at least part of the answer to this can be found in an article from Music writer Roger Stephens... American blacks, Marley's most coveted audience, remained impervious to him and his message throughout the 70s." ← For the Record - The 70s > Ep. 29 - Every Little Thing is Gonna Be All Right - The Influence of 70s Reggae | https://seventies.libsyn.com/ep-29-every-little-thing-is-gonna-be-all-right-the-influence-of-70s-reggae
+**Reggae Influence on New Wave** : The Police's sophomore LP, "Regatta de Blanc," carried the faux French title "White Reggae," a self-conscious nod to white artists' engagement with black music. The album exemplified the band's approach of integrating reggae rhythms into their New Wave rock sound. "Their sophomore LP, which arrived in October 79, was titled Regatta de Blanc, another faux French title that roughly translated to White Reggae. Rather like the Beatles' Rubber Soul LP, the title was a self-conscious riff on White People attempting black music." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
 
 ## artists
 - Bad Brains
@@ -72,8 +73,8 @@
 - Massive Attack
 - Option 30
 - Peter Tosh
-- Public Image Limited
-- Sinead O'Connor
+- Public Image Ltd
+- Sinéad O'Connor
 - Slightly Stoopid
 - Sublime
 - Taylor Hawkins
@@ -85,4 +86,7 @@
 - Trent Reznor
 - UB40
 - War
-
+- Blondie
+- Bruno Mars
+- Sting
+- Shaggy

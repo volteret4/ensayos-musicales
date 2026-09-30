@@ -3,8 +3,6 @@
 ## curiosities
 **Frightening to Some** : The Dillinger Escape Plan is identified as a band that is frightening to some people. "Ramstein, Dillinger Escape Plan, Black Flag, and any number of hardcore bands were and are frightening to some people." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← the-dillinger-escape-plan
 
-
-
 ## lists
 **"Calculating Infinity" (1999) — AOTY Must Hear 1990s** : #16, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
 **"Ire Works" (2007) — AOTY Must Hear 2000s** : #111, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/

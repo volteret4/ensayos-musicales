@@ -7,15 +7,15 @@
 **Founding as Mail-Order Service (Age 15)** : Richard Branson started Virgin at the age of 15 as a mail-order record service and fanzine, operating out of his bedroom. "Richard Branson started Virgin when he was just 15. His first incarnation was a male-order record service and fan scene from his bedroom." ← https://www.youtube.com/watch?v=dDcD8kg0wEk ← virgin
 **Sex Pistols Signing (1977)** : In 1977, after EMI and A&M Records dropped the Sex Pistols due to their controversial nature, Richard Branson seized the opportunity to sign them. This "smart move" capitalized on the punk explosion and led to a string of New Wave and Post-Punk hits for Virgin. "Branson though saw an opportunity and signed them up. Smart move." ← https://www.youtube.com/watch?v=dDcD8kg0wEk ← virgin
 **Transition to Record Label (Post-Distribution)** : Initially, Virgin distributed imports for other labels rather than signing artists directly. Later, Branson and his partners decided to establish their own label. "The company didn't sign any artist directly, what they did was distribute imports for other labels. But after a while, why not start a new label?" ← https://www.youtube.com/watch?v=dDcD8kg0wEk ← virgin
+**Pushing for "Don't You Want Me" Release** : The Human League's label, Virgin, insisted on releasing "Don't You Want Me" as a single despite frontman Phil Oakey considering it "filler" and "NAF." They "doubled down" by commissioning the band's most expensive music video, a meta-film noir. "Oki thought the song was filler, he called it NAF, and he tried to dissuade his label, Virgin, from putting it out as a 45." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
 
 ## artists
 - Culture Club
 - Genesis
-- Human League
+- The Human League
 - Lenny Kravitz
 - Mike Oldfield
 - Sex Pistols
 - Simple Minds
-- Smashing Pumpkins
+- The Smashing Pumpkins
 - XTC
-

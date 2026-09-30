@@ -6,4 +6,4 @@
 ## artists
 - Blur
 - David Bowie
-
+- Blondie

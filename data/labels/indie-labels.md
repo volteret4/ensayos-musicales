@@ -6,10 +6,9 @@
 **UK Chart Success (2010s)** : In the UK, acts from indie labels achieved great chart success in the alt-rock, heavy metal, and hard rock genres during the 2010s. "Once again, acts from indie labels did great." ← https://www.youtube.com/watch?v=sOU54d8mr5k ← indie-labels
 
 ## artists
-- Alt-J
+- Alt J
 - Arctic Monkeys
-- Foals
+- The Foals
 - R.E.M.
-- REM
 - Two Door Cinema Club
 

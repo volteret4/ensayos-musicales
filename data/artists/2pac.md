@@ -3,8 +3,6 @@
 ## curiosities
 **Alleged Inspiration for Police Shooting** : In 1994, a 17-year-old in Milwaukee shot a police officer, later claiming that the idea for the act came from a 2Pac song. This incident highlights concerns about musical influence on violent behavior. "In 1994, a 17-year-old shot a Milwaukee cop later claiming that he got the idea from a two-pox song." ← https://www.youtube.com/watch?v=FtGJHhqXcDI ← 2pac
 
-
-
 ## awards
 **Soul Train Music Award for Best Rap Album (1996) — Me Against the World** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q7564368
 **MOBO Awards for Best Video (1996) — California Love** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q63890997

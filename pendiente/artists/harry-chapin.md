@@ -14,3 +14,6 @@
 **Rock Critic Disdain** : Harry Chapin reflected in 1978 that "the cool school of rock critics" consistently disliked his music, often making it clear that liking his songs was "not cool." He felt they would "get vicious" when discussing his work, criticizing his lyrics or storytelling, while at the same time meticulously analyzing single words in other artists' songs. ← For the Record - The 70s > Ep. 48 - The Worst of the 70s The Music of 1974 | https://www.ftr70.com/
 **Song Inspiration from Family Life** : "Cats in the Cradle" was inspired by a poem penned by Harry Chapin's wife, Sandra, which was also influenced by the distant relationship between her ex-husband and his father. Sandra's poem itself stemmed from a country music song she heard during a long drive, describing an old couple's reflections on their children and grandchildren, though she could not recall the specific song or artist. ← For the Record - The 70s > Ep. 48 - The Worst of the 70s The Music of 1974 | https://www.ftr70.com/
 
+## charts
+**"Taxi" — Billboard Year-End Hot 100** : #85, 1972. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Cat's in the Cradle" — Billboard Year-End Hot 100** : #39, 1975. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

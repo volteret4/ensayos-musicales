@@ -14,5 +14,5 @@
 ## artists
 - Death Grips
 - Pearl Jam
-- Rage Against The Machine
+- Rage Against the Machine
 

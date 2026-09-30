@@ -10,8 +10,3 @@
 ## curiosities
 **German Electronic Music Pioneers** : Amon Düül was mentioned as another group from West Germany in the 1960s that contributed to the development of a unique German sound through the adoption of electronic music. "They had names like Tangerine Dream and Amundool." ← https://www.youtube.com/watch?v=5PJRCC6EwUY ← amon-düül
 **Munich Art Collective** : Amon Düül originated in Munich, Bavaria, an area known for the roots of German National Socialism. The group was recognized as an art collective with a distinct freeform style. They were notably admired by the Baader-Meinhof Gang, a terrorist group from the era. "Oman Duhl was an art collective known for its freeform style." ← https://www.youtube.com/watch?v=ePZDkqLM_gw ← amon-düül ← amon-düül
-
-
-
-## charts
-**"473" — NME Chart** : 16 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

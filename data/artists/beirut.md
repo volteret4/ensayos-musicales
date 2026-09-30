@@ -1,0 +1,8 @@
+# artist - Beirut
+
+## curiosities
+**Collaboration on Múm Album** : Peirut is mentioned as a collaborating artist on Múm's album "Dimensional People." "peirut va también a colaborar en este disco de van de mausón mars." ← Music Radar Clan > Lanzamientos ABRIL 2018 | https://www.youtube.com/watch?v=3_SAz8OxeIA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← peirut ← peirut
+**Collaboration on Múm Album** : Peirut is mentioned as a collaborating artist on Múm's album "Dimensional People." "peirut va también a colaborar en este disco de van de mausón mars." ← Music Radar Clan > Lanzamientos ABRIL 2018 | https://www.youtube.com/watch?v=3_SAz8OxeIA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← peirut
+
+## lists
+**"Gulag Orkestar" (2006) — Scaruffi 2000s** : #216, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

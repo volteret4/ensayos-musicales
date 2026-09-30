@@ -1,16 +1,15 @@
-# artist - K.D. Lang
+# artist - k.d. lang
 
 ## genres
 - Country
 
 ## songs
 **Crying (1987)** : K.D. Lang collaborated with Roy Orbison on a new version of his hit "Crying." This duet later won a Grammy award. Lang was one of the hottest new singers in country music at the time. "He collaborated with K.D. Lang, who was then one of the hottest new singers in country music on the new version of his hit Crane. That later won a Grammy." ← Episode 83： ＂Only the Lonely＂ by Roy Orbison | https://www.youtube.com/watch?v=uDvkjXa1ALk
-**Hallelujah (Cover)** : K.D. Lang was among the artists who covered Leonard Cohen's song "Hallelujah" as it gained renewed popularity. "...and then came along Katie Lang and others." ← Ongoing History of New Music > Late Bloomers | https://www.youtube.com/watch?v=P45lJTdneoI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Hallelujah** : K.D. Lang was among the artists who covered Leonard Cohen's song "Hallelujah" as it gained renewed popularity. "...and then came along Katie Lang and others." ← Ongoing History of New Music > Late Bloomers | https://www.youtube.com/watch?v=P45lJTdneoI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## curiosities
 **Live Performance with Roy Orbison** : K.D. Lang joined Roy Orbison as a backing singer and musician during his live TV special "A Black and White Night," demonstrating her admiration for him. "He got inducted into the Rock and Roll Hall of Fame and recorded a live TV special, a black and white night, where he was joined by Elvis's 70s backing band, Bruce Springsteen, Elvis Costello, K.D. Lang, Bunny Raite, Jackson Brown and Tom Wait, among others, while just acting as backing singers and musicians for a man they admired." ← Episode 83： ＂Only the Lonely＂ by Roy Orbison | https://www.youtube.com/watch?v=uDvkjXa1ALk
-
-
+**Industry Image and Sexuality (Late 1990s)** : Katie Lang possessed a beautiful voice in Nashville in the late 1990s, but her identity as gay and her quirky image were perceived as not fitting the established industry image, which made her more challenging to market than artists like Garth Brooks or Blake Shelton. "There may not have been a more beautiful voice in Nashville than Katie Langs in the late 90s but she's gay and quirky and didn't fit the image." ← For the Record - The 70s > Ep. 23 - Women of Country Music in the 70s | https://seventies.libsyn.com/023-country-women-72820-2-45-pm
 
 ## awards
 **Juno Award for Breakthrough Artist of the Year** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q6314050

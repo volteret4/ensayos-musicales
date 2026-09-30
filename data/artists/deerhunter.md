@@ -3,8 +3,6 @@
 ## members
 - Bradford Cox
 
-
-
 ## lists
 **"Microcastle" (2008) — AOTY Must Hear 2000s** : #72, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
 **"Halcyon Digest" (2010) — AOTY Must Hear 2010s** : #898, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/

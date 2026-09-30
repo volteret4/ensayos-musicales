@@ -11,20 +11,18 @@
 - Swing
 
 ## labels
-- Decker (1942)
+- Decker
 
 ## instruments
 - Drums
-- Fender Precision Bass (P-Bass)
-- Vibrahap (brand name he used)
+- Fender Precision Bass
+- Vibrahap
 - Vibraphone
-- drums
-- vibraphone
 
 ## songs
-**Flying Home** : Milt Gabler produced a famous version of "Flying Home" by Lionel Hampton during his tenure as a staff producer at Decca Records in the 1940s. "not least that famous Lionel Hampton version of Flying Home we looked at towards the end of episode one" ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
+**Flying Home (1939)** : Milt Gabler produced a famous version of "Flying Home" by Lionel Hampton during his tenure as a staff producer at Decca Records in the 1940s. "not least that famous Lionel Hampton version of Flying Home we looked at towards the end of episode one" ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
 **Flying Home (1939)** : Hampton co-wrote this signature song of the Benny Goodman Sextet after humming the riff on a flight from LA to Atlantic City. After leaving Goodman's band a couple of years later, "Flying Home" became the signature song for his own big band, and he recorded it multiple times, significantly influencing the nascent Jump band style. "Goodman asked, what's that you're singing? And Hampton said, I don't know, we can call it Flying Home I guess." ← Episode 1： ＂Flying Home＂, Benny Goodman, Charlie Christian, and Lionel Hampton | https://www.youtube.com/watch?v=RmfeJYl84Qs
-**Flying Home (1942) - Decker Version** : Lionel Hampton recorded his most famous version of "Flying Home" for Decker in 1942, featuring Illinois Jacket on saxophone, labeled as an instrumental "Fox Strott." This recording introduced a whole new sound to listeners, particularly Jacket's distinctive "hunk and scrunk" tenor sax playing, which defined the emerging genre of rhythm and blues. "but the most famous example is the version he recorded in 1942 for Decker, with instrumental Fox Strott on the label." ← Episode 1： ＂Flying Home＂, Benny Goodman, Charlie Christian, and Lionel Hampton | https://www.youtube.com/watch?v=RmfeJYl84Qs
+**Flying Home (1942)** : Lionel Hampton recorded his most famous version of "Flying Home" for Decker in 1942, featuring Illinois Jacket on saxophone, labeled as an instrumental "Fox Strott." This recording introduced a whole new sound to listeners, particularly Jacket's distinctive "hunk and scrunk" tenor sax playing, which defined the emerging genre of rhythm and blues. "but the most famous example is the version he recorded in 1942 for Decker, with instrumental Fox Strott on the label." ← Episode 1： ＂Flying Home＂, Benny Goodman, Charlie Christian, and Lionel Hampton | https://www.youtube.com/watch?v=RmfeJYl84Qs
 **Hey Baba Reba** : Lionel Hampton recorded "Hey Baba Reba," which was a re-recording of Helen Humes' song "Be-Baba-Leba." This version became a massive R&B hit and is also widely considered one of the inspirations behind the term "bebop" being applied to a style of music. "The song has been re-recorded by Lionel Hampton as Hey Baba Viba, which had been a massive R&B hit, and the song is also generally considered one of the inspirations behind the term Bbapp, being applied to the style of music." ← Episode 41： ＂Be-Bop-A-Lula＂ by Gene Vincent and the Bluecaps | https://www.youtube.com/watch?v=tYBQ5F7O3G0
 **Memories of You (1930)** : Lionel Hampton is believed to have made the first recorded jazz appearance of the vibraphone on this Louis Armstrong recording. Prior to this, the vibraphone was only used as a novelty instrument, often for radio intermission signals. "He appears to have been the first person to use the vibraphone on Air Jazz record, on a recording by Louis Armstrong of the Song Memories of You from 1930." ← Episode 1： ＂Flying Home＂, Benny Goodman, Charlie Christian, and Lionel Hampton | https://www.youtube.com/watch?v=RmfeJYl84Qs
 
@@ -42,15 +40,9 @@
 **Trained as Drummer** : Before becoming a vibraphone player, Hampton trained as a drummer and was often billed as "the fastest drummer in the world." His unique melodic sensibility allowed him to become the premier soloist on the new instrument, the vibraphone. "Hampton had trained us at rumour before becoming a vibraphone player and was often billed as the fastest drummer in the world." ← Episode 1： ＂Flying Home＂, Benny Goodman, Charlie Christian, and Lionel Hampton | https://www.youtube.com/watch?v=RmfeJYl84Qs
 **Vibraphone Pioneer** : Lionel Hampton was a virtuoso vibraphone player who "more or less defined how that instrument was incorporated into jazz," and appears to be the first person to use it on a recorded jazz track (Louis Armstrong's "Memories of You" in 1930). At the time, the vibraphone was so new its name wasn't settled, and Hampton played an instrument branded "Vibrahap," which he called it for life. "He was a virtuoso vibraphoneist who more or less defined how that instrument was incorporated into jazz." ← Episode 1： ＂Flying Home＂, Benny Goodman, Charlie Christian, and Lionel Hampton | https://www.youtube.com/watch?v=RmfeJYl84Qs
 
-
-
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761
 **Paul Acket Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q865039
 **Kennedy Center Honors** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1738793
 **National Medal of Arts** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1789030
 **NEA Jazz Masters** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q488296
-
-## lists
-**"Sirenes" (1996) — Scaruffi 1990s** : #399, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Stenorette" (1998) — Scaruffi 1990s** : #400, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

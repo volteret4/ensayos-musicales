@@ -7,5 +7,4 @@
 
 ## artists
 - Sex Pistols
-- The Sex Pistols
 

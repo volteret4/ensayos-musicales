@@ -4,12 +4,12 @@
 - Teen Pop
 
 ## songs
-**Super Freaky Girl (Year)** : This song became a number one record in the US, using an interpolation of Rick James' "Super Freak." This demonstrates how older songs can be revitalized and generate new income through interpolations. "We've had the number one record in the US, you know, or had a number one record in the US last year with Nicki Minaj's Super Freaky Girl, which is an interpolation of Rick James Super Freak" ← https://www.youtube.com/watch?v=Pe40SqDrpZ0 ← nicki-minaj
+**Super Freaky Girl (2022)** : This song became a number one record in the US, using an interpolation of Rick James' "Super Freak." This demonstrates how older songs can be revitalized and generate new income through interpolations. "We've had the number one record in the US, you know, or had a number one record in the US last year with Nicki Minaj's Super Freaky Girl, which is an interpolation of Rick James Super Freak" ← https://www.youtube.com/watch?v=Pe40SqDrpZ0 ← nicki-minaj
+**Super Freaky Girl (2022)** : Nicki Minaj's 2022 hit, which is "yet another take" on Rick James's "Super Freak," and reached number one on the Hot 100. This song represents a contemporary example of a post-hip hop interpolation reboot. "Nikki Manage, who offered up Super Freaky Girl." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
 
 ## curiosities
 **Successor in Teen Pop** : Nicki Minaj is mentioned as a later artist who occupied the evolving niche of teen pop, succeeding earlier stars. "se han ido viniendo en Nicki Minaj." ← Music Radar Clan > Poniendo a Britney Spears en su lugar | https://www.youtube.com/watch?v=ad2agh7IXH8&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← nicki-minaj ← nicki-minaj
-
-
+**Target of Megan Thee Stallion's "HISS" (2024)** : Nicki Minaj was the target of Megan Thee Stallion's "vicious beef record" "HISS," released in February 2024. The song, described as a "slab of hate-a-rayed," became a surprise chart-topper and the first pure rap diss to reach number one on the Hot 100. "her vicious beef record against friend turned rival Nicki Minaj, a slab of hate-a-rayed that she called HISS." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
 
 ## awards
 **Grammy Awards** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q41254

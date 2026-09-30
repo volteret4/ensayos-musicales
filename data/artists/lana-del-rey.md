@@ -1,13 +1,12 @@
-# artist - Lana del Rey
+# artist - Lana Del Rey
 
 ## albums
-**Last Album - Delayed Vinyl Edition (September 2017)** : The vinyl edition of Lana del Rey's latest album was finally released in September. This edition had been delayed, while the album was already available in CD and digital formats. "la edición en Vinilo, finalmente, del último disco de Lana del Rey, que salían disco compacto y informatos digitales, espero que la edición en Vinilo se demoraba y a saldrá este mes de septiembre." ← Music Radar Clan > Lanzamientos de Septiembre 2017 | https://www.youtube.com/watch?v=EXtTomCLjsg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Lust for Life (2017)** : The vinyl edition of Lana del Rey's latest album was finally released in September. This edition had been delayed, while the album was already available in CD and digital formats. "la edición en Vinilo, finalmente, del último disco de Lana del Rey, que salían disco compacto y informatos digitales, espero que la edición en Vinilo se demoraba y a saldrá este mes de septiembre." ← Music Radar Clan > Lanzamientos de Septiembre 2017 | https://www.youtube.com/watch?v=EXtTomCLjsg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## curiosities
 **Country Music Influence** : Lana del Rey is mentioned as one of the artists currently creating music inspired by the Country genre. "Artistas como Lana del Rey [...] sacando canciones, guaciendo colaboraciones con músicos del género." ← El genio roto del country： La leyenda de Hank Williams | https://www.youtube.com/watch?v=qczx7qWg4xM
 **Delayed Vinyl Release** : The vinyl edition of Lana del Rey's latest album experienced a delay, despite the album being available in compact disc and digital formats, before its eventual release in September. "la edición en Vinilo se demoraba y a saldrá este mes de septiembre." ← Music Radar Clan > Lanzamientos de Septiembre 2017 | https://www.youtube.com/watch?v=EXtTomCLjsg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
-
-
+**Celebrity Association with Salem** : Follana del Rey is one of the celebrities mentioned as having had relations with members of the band Salem. "Además de haber tenido relaciones con celibitiz como Julia Fox, Cornilo, Follana del Rey." ← Witch House： Cuando internet inventó su género maldito | https://www.youtube.com/watch?v=SLlzXA0eyu0
 
 ## lists
 **"Norman Fucking Rockwell!" (2019) — AOTY Must Hear 2010s** : #42, 87 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/

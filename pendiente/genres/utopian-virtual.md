@@ -9,6 +9,5 @@
 **Vaporwave Subgenre with Limited Reach** : Utopian Virtual is mentioned as an "interesting" subgenre of Vaporwave that, despite its artistic merit, failed to gain widespread connection with audiences outside of niche communities, contrasting with Phonk's broad adaptability. "su género está en interesantes como el malls off, el utopía anvirtual o el slash wave no lograron conectar con la gente más allá de nichos." ← ¿Qué pasó con el PHONK？ (La historia real) | https://www.youtube.com/watch?v=ehfWyUHFFT8
 
 ## artists
-- Crypto Volans
 - Highliner
 

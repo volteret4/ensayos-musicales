@@ -12,8 +12,6 @@
 ## curiosities
 **Formation from Red Zone** : 'Til Tuesday formed in Los Angeles in 1983 from the remnants of a retro sci-fi band called Red Zone. "An emotion was a synth pop band from Los Angeles formed in 1983. They came from the ashes of a retro sci-fi band called Red Zone." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M ← til-tuesday
 
-
-
 ## awards
 **MTV Video Music Award for Best New Artist (1985)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q595693
 **MTV Video Music Award for Best New Artist (1985)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q595693

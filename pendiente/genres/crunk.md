@@ -5,4 +5,5 @@
 
 ## artists
 - Tommy Wright III
-
+- Usher
+- Lil Jon

@@ -5,4 +5,4 @@
 
 ## artists
 - Tune-Yards
-
+- Talking Heads

@@ -14,8 +14,6 @@
 ## curiosities
 **Origin in Umeå, Sweden** : The band came together in Umeå, a city in northeast Sweden located at almost 64 degrees north, where the long, dark winters may contribute to the melancholy yet beautiful nature of their music. "They came together in Umiya, which is a city in northeast Sweden. It's at almost 64 degrees north, so the winters are long and dark, which may be a contributing factor to this music." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← cult-of-luna
 
-
-
 ## lists
 **"Vertikal" (2013) — AOTY Must Hear 2010s** : #717, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
 **"Somewhere Along the Highway" (2006) — Scaruffi 2000s** : #50, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

@@ -246,6 +246,40 @@ body { font-family: "Segoe UI", system-ui, sans-serif; background: #0d1117;
   .card-actions { opacity: 1; }
 }
 
+/* ── Lotes de revisión con Claude ── */
+.lote-ctrl { display: flex; flex-direction: column; gap: 6px; padding: 10px 12px;
+             border-bottom: 1px solid #21262d; font-size: 0.78rem; }
+.lote-ctrl .row { display: flex; gap: 6px; align-items: center; }
+.lote-ctrl input, .lote-ctrl select { background: #0d1117; color: #c9d1d9; border: 1px solid #30363d;
+             border-radius: 5px; padding: 5px 6px; font-size: 0.78rem; width: 100%; }
+.lote-ctrl button, .lote-btn { background: #1f6feb; color: #fff; border: none; border-radius: 5px;
+             padding: 6px 10px; font-size: 0.78rem; cursor: pointer; }
+.lote-ctrl button:disabled, .lote-btn:disabled { background: #30363d; color: #8b949e; cursor: default; }
+.lote-btn.green { background: #238636; } .lote-btn.grey { background: #21262d; border: 1px solid #30363d; color: #c9d1d9; }
+.lote-stats { color: #8b949e; line-height: 1.5; }
+.lote-job { color: #d29922; white-space: pre-wrap; }
+.lote-job.err { color: #f85149; }
+.lote-state { font-size: 0.68rem; padding: 1px 6px; border-radius: 10px; border: 1px solid #30363d; color: #8b949e; }
+.lote-state.por_revisar { color: #d29922; border-color: #d29922; }
+.lote-state.por_aplicar { color: #3fb950; border-color: #3fb950; }
+.lote-state.esperando_respuesta { color: #58a6ff; border-color: #58a6ff; }
+.prop { background: #161b22; border: 1px solid #21262d; border-left: 3px solid #30363d; border-radius: 8px;
+        padding: 10px 12px; margin-bottom: 8px; }
+.prop.aceptada, .prop.aplicada { border-left-color: #3fb950; }
+.prop.rechazada { border-left-color: #f85149; opacity: 0.55; }
+.prop input.prop-line { width: 100%; background: #0d1117; color: #e6edf3; border: 1px solid #30363d;
+        border-radius: 5px; padding: 6px 8px; font-family: ui-monospace, monospace; font-size: 0.82rem; }
+.prop .prop-why { color: #8b949e; font-size: 0.78rem; margin: 5px 0 6px; }
+.prop .prop-btns { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.prop .prop-btns button { background: #21262d; color: #c9d1d9; border: 1px solid #30363d; border-radius: 5px;
+        padding: 3px 10px; cursor: pointer; font-size: 0.78rem; }
+.prop .prop-btns button.ok:hover { background: #238636; } .prop .prop-btns button.no:hover { background: #da3633; }
+.lote-pre { background: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 10px; max-height: 320px;
+        overflow: auto; font-size: 0.75rem; white-space: pre-wrap; color: #8b949e; }
+.lote-area { width: 100%; min-height: 160px; background: #0d1117; color: #e6edf3; border: 1px solid #30363d;
+        border-radius: 6px; padding: 8px; font-family: ui-monospace, monospace; font-size: 0.8rem; }
+.lote-art { cursor: pointer; color: #58a6ff; } .lote-art:hover { text-decoration: underline; }
+
 /* ── Responsive (phones / small tablets) ── */
 @media (max-width: 760px) {
   body { flex-direction: column; height: 100dvh; }
@@ -308,6 +342,7 @@ _BODY = """
     <button class="tab-btn" data-tab="curiosities">✨ Gen.</button>
     <button class="tab-btn" data-tab="pendiente" id="tab-pendiente">⏳ Pend.</button>
     <button class="tab-btn" data-tab="playlists" id="tab-playlists">🎬 YT</button>
+    <button class="tab-btn" data-tab="lotes" id="tab-lotes">🤖 Lotes</button>
   </div>
 
   <div id="panel-artists" class="panel active">
@@ -377,6 +412,23 @@ _BODY = """
     </form>
     <div id="playlist-count" class="panel-count"></div>
     <div id="playlist-list"  class="panel-list"></div>
+  </div>
+
+  <div id="panel-lotes" class="panel">
+    <div class="lote-ctrl">
+      <div id="lote-stats" class="lote-stats"></div>
+      <div class="row">
+        <input id="lote-tam" type="number" min="1" max="100" title="Artistas por lote">
+        <select id="lote-modelo" title="Modelo">
+          <option value="opus">opus</option><option value="sonnet">sonnet</option><option value="haiku">haiku</option>
+        </select>
+      </div>
+      <button id="lote-manual" title="Prepara el prompt: revísalo con /revisar-lotes en Claude Code o pégalo en claude.ai">📋 Preparar lote</button>
+      <button id="lote-pedir" class="grey" title="Opcional: llama a `claude -p` en el servidor">🤖 Pedir con claude -p</button>
+      <button id="lote-aplicar" class="green">✓ Aplicar aceptadas</button>
+      <div id="lote-job" class="lote-job"></div>
+    </div>
+    <div id="lote-list" class="panel-list"></div>
   </div>
 </div>
 
@@ -939,11 +991,11 @@ function closeEdit(card) {
   card.querySelector('.card-content').style.display = '';
 }
 
-async function saveEdit(card, etype, ename, section, origKey) {
+async function saveEdit(card, etype, ename, section, origKey, origDesc) {
   const newTitle = card.querySelector('.edit-title').value.trim();
   const newDesc  = card.querySelector('.edit-desc').value.trim();
   if (!newTitle) return;
-  const r = await api('/api/edit/entry', {type:etype, name:ename, section, key:origKey, new_title:newTitle, new_desc:newDesc});
+  const r = await api('/api/edit/entry', {type:etype, name:ename, section, key:origKey, new_title:newTitle, new_desc:newDesc, old_desc:origDesc});
   if (!r.ok) { toast('Error al guardar', 'err'); return; }
   card.querySelector('.card-title').textContent = newTitle;
   const bodyEl = card.querySelector('.card-body');
@@ -1078,7 +1130,7 @@ document.getElementById('content').addEventListener('click', e => {
       saveRename(d.type, d.name); return;
     }
     // default: card edit save
-    saveEdit(btn.closest('.card'), d.type, d.name, d.section, btn.dataset.origKey || d.key);
+    saveEdit(btn.closest('.card'), d.type, d.name, d.section, btn.dataset.origKey || d.key, d.desc);
     return;
   }
 
@@ -1267,9 +1319,174 @@ document.getElementById('playlist-form').addEventListener('submit', async (e) =>
   loadPlaylists();
 });
 
+// ── Lotes de revisión con Claude ─────────────────────────────────────────────
+let LOTES = null, _lotePoll = null;
+const EST_LOTE = {por_revisar:'por revisar', por_aplicar:'por aplicar', cerrado:'cerrado',
+                  esperando_respuesta:'esperando respuesta'};
+function esc(t) { return String(t ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+
+async function loadLotes() {
+  const r = await fetch('/api/lotes');
+  LOTES = await r.json();
+  const c = LOTES.cola || {};
+  document.getElementById('lote-stats').innerHTML =
+    `Cola: <b>${c.pendiente||0}</b> artistas por revisar · ${c.enviado||0} en lotes · ${c.revisado||0} revisados`;
+  const tam = document.getElementById('lote-tam');
+  if (!tam.value) tam.value = LOTES.tam || 25;
+  const mod = document.getElementById('lote-modelo');
+  if (!mod.dataset.init) { mod.value = LOTES.modelo || 'opus'; mod.dataset.init = 1; }
+  const pedir = document.getElementById('lote-pedir');
+  pedir.disabled = !LOTES.cli || LOTES.job.running;
+  pedir.title = LOTES.cli ? 'Usa el CLI de Claude del servidor'
+    : 'No hay CLI de Claude en este servidor: usa el lote manual o revisar_lote.py en el host';
+  document.getElementById('lote-aplicar').disabled = LOTES.job.running;
+  const job = LOTES.job, jel = document.getElementById('lote-job');
+  jel.className = 'lote-job' + (job.error ? ' err' : '');
+  jel.textContent = job.running ? `⏳ ${job.task}…\n${job.log.slice(-3).join('\n')}`
+    : job.error ? `✕ ${job.error}` : (job.done ? `✓ ${job.done}\n${job.log.slice(-2).join('\n')}` : '');
+  const pend = LOTES.lotes.filter(l => l.estado !== 'cerrado').length;
+  document.getElementById('tab-lotes').textContent = pend ? `🤖 Lotes (${pend})` : '🤖 Lotes';
+  const list = document.getElementById('lote-list');
+  list.innerHTML = LOTES.lotes.length ? '' : '<div class="playlist-empty">Aún no hay lotes</div>';
+  for (const l of LOTES.lotes) {
+    const div = document.createElement('div');
+    div.className = 'list-item';
+    const n = Object.entries(l.cuentas).map(([k, v]) => `${v} ${k}`).join(', ') || 'sin propuestas';
+    div.innerHTML = `<span class="list-name">Lote ${l.id} · ${l.fecha}
+        <span class="playlist-status">${l.n_artistas} artistas · ${n}</span></span>
+      <span class="lote-state ${l.estado}">${EST_LOTE[l.estado] || l.estado}</span>`;
+    div.addEventListener('click', () => { showLote(l.id); showMobileContent(); });
+    list.appendChild(div);
+  }
+  clearTimeout(_lotePoll);
+  if (job.running) _lotePoll = setTimeout(loadLotes, 3000);
+  else if (job.done && document.getElementById('lote-detail')) {
+    const id = +document.getElementById('lote-detail').dataset.id; if (id) showLote(id);
+  }
+}
+
+function goArtist(name) {
+  const k = name.toLowerCase();
+  const a = (DATA?.artists || []).find(x => x.name.toLowerCase() === k);
+  if (a) { showArtist(a); return; }
+  const p = (DATA?.pending?.artists || []).find(x => x.name.toLowerCase() === k);
+  if (p) { showPendingArtist(p); return; }
+  toast(`"${name}" no está en la BD cargada (¿falta Rebuild DB?)`, 'err');
+}
+
+async function showLote(id) {
+  const r = await fetch('/api/lote?id=' + id);
+  const l = await r.json();
+  if (l.error) { toast(l.error, 'err'); return; }
+  const arts = l.artistas.map(a => `<span class="lote-art" data-art="${esc(a)}">${esc(a)}</span>`).join(' · ');
+  const uso = l.uso && l.uso.tokens_entrada ? ` · ${l.uso.tokens_entrada} tokens entrada / ${l.uso.tokens_salida} salida`
+            + (l.uso.coste_usd ? ` (≈ ${l.uso.coste_usd.toFixed(3)} $)` : '') : '';
+  let html = `<div id="lote-detail" data-id="${l.id}">
+    <h1>Lote ${l.id}</h1>
+    <p class="modal-sub">${l.fecha} · ${esc(l.backend)} · ${esc(l.modelo || '')}${uso}</p>
+    <p style="margin:10px 0;font-size:0.85rem">Artistas: ${arts}</p>`;
+  if (l.estado === 'esperando_respuesta') {
+    html += `<p class="modal-sub" style="margin:10px 0">Revísalo en una sesión de Claude Code con <code>/revisar-lotes</code> (lo importa solo), o copia el prompt en claude.ai y pega aquí la respuesta.</p><h3 style="margin:14px 0 6px">1. Prompt</h3>
+      <button class="lote-btn grey" id="lote-copiar">📋 Copiar prompt</button>
+      <div class="lote-pre" style="margin-top:6px">${esc(l.prompt)}</div>
+      <h3 style="margin:14px 0 6px">2. Respuesta</h3>
+      <textarea id="lote-resp" class="lote-area" placeholder="DECISIONES\n…"></textarea>
+      <button class="lote-btn green" id="lote-importar" style="margin-top:6px">Importar respuesta</button>`;
+  } else {
+    const pend = l.propuestas.filter(p => p.estado === 'pendiente').length;
+    html += `<div class="entity-toolbar" style="margin:12px 0">
+        <button class="lote-btn green" id="lote-todas" ${pend ? '' : 'disabled'}>✓ Aceptar las ${pend} pendientes</button>
+        <button class="lote-btn grey" id="lote-ninguna" ${pend ? '' : 'disabled'}>✕ Rechazar pendientes</button>
+      </div>`;
+    if (!l.propuestas.length) html += '<p class="modal-sub">Claude no propuso cambios para este lote.</p>';
+    for (const p of l.propuestas) {
+      const fija = p.estado === 'aplicada';
+      html += `<div class="prop ${p.estado}" data-pid="${p.id}">
+        <input class="prop-line" value="${esc(p.linea)}" ${fija ? 'disabled' : ''}>
+        <div class="prop-why">${esc(p.motivo || '')}</div>
+        <div class="prop-btns">${fija ? '<span class="lote-state por_aplicar">aplicada</span>' : `
+          <button class="ok"  data-e="aceptada">✓ Aceptar</button>
+          <button class="no"  data-e="rechazada">✕ Rechazar</button>
+          <button data-e="pendiente">↺</button>
+          <span class="lote-state">${p.estado}</span>`}</div></div>`;
+    }
+    html += `<h3 style="margin:16px 0 6px">Añadir una decisión propia</h3>
+      <input id="lote-nueva" class="prop-line" style="width:100%;background:#0d1117;color:#e6edf3;border:1px solid #30363d;border-radius:5px;padding:6px 8px;font-family:ui-monospace,monospace"
+             placeholder="Artista mal escrito => Artista Correcto   ·   Artista :: songs :: Título => Título (Año)">
+      <button class="lote-btn" id="lote-anadir" style="margin-top:6px">+ Añadir (aceptada)</button>
+      <details style="margin-top:18px"><summary class="modal-sub">Respuesta completa de Claude</summary>
+        <div class="lote-pre">${esc(l.respuesta)}</div></details>
+      <details style="margin-top:8px"><summary class="modal-sub">Prompt enviado</summary>
+        <div class="lote-pre">${esc(l.prompt)}</div></details>`;
+  }
+  html += '</div>';
+  const c = document.getElementById('content');
+  c.innerHTML = html;
+  c.querySelectorAll('.lote-art').forEach(e => e.addEventListener('click', () => goArtist(e.dataset.art)));
+  const q = sel => c.querySelector(sel);
+  q('#lote-copiar')?.addEventListener('click', () => { navigator.clipboard.writeText(l.prompt); toast('Prompt copiado ✓'); });
+  q('#lote-importar')?.addEventListener('click', async () => {
+    const r = await api('/api/lote/respuesta', {id: l.id, texto: q('#lote-resp').value});
+    if (r.error) { toast(r.error, 'err'); return; }
+    toast(`${r.n} propuestas importadas ✓`); showLote(l.id); loadLotes();
+  });
+  c.querySelectorAll('.prop').forEach(div => div.querySelectorAll('button[data-e]').forEach(b =>
+    b.addEventListener('click', async () => {
+      const linea = div.querySelector('.prop-line').value.trim();
+      const r = await api('/api/lote/propuesta', {id: l.id, pid: +div.dataset.pid, estado: b.dataset.e, linea});
+      if (r.error) { toast(r.error, 'err'); return; }
+      div.className = 'prop ' + b.dataset.e;
+      div.querySelector('.prop-btns .lote-state').textContent = b.dataset.e;
+      loadLotes();
+    })));
+  const masivo = estado => async () => {
+    for (const div of c.querySelectorAll('.prop.pendiente')) {
+      await api('/api/lote/propuesta', {id: l.id, pid: +div.dataset.pid, estado,
+                                        linea: div.querySelector('.prop-line').value.trim()});
+    }
+    showLote(l.id); loadLotes();
+  };
+  q('#lote-todas')?.addEventListener('click', masivo('aceptada'));
+  q('#lote-ninguna')?.addEventListener('click', masivo('rechazada'));
+  q('#lote-anadir')?.addEventListener('click', async () => {
+    const r = await api('/api/lote/anadir', {id: l.id, linea: q('#lote-nueva').value.trim()});
+    if (r.error) { toast(r.error, 'err'); return; }
+    showLote(l.id); loadLotes();
+  });
+}
+
+document.getElementById('lote-pedir').addEventListener('click', async () => {
+  const tam = +document.getElementById('lote-tam').value || 25;
+  const modelo = document.getElementById('lote-modelo').value;
+  const r = await api('/api/lote/generar', {tam, modelo, backend: 'claude'});
+  if (r.error) { toast(r.error, 'err'); return; }
+  loadLotes();
+});
+document.getElementById('lote-manual').addEventListener('click', async () => {
+  const tam = +document.getElementById('lote-tam').value || 25;
+  const r = await api('/api/lote/generar', {tam, backend: 'manual'});
+  if (r.error) { toast(r.error, 'err'); return; }
+  if (!r.id) { toast('La cola está vacía'); return; }
+  await loadLotes(); showLote(r.id); showMobileContent();
+});
+document.getElementById('lote-aplicar').addEventListener('click', async () => {
+  if (!confirm('Se añadirán las propuestas aceptadas a decisiones_artistas.txt y se reaplicará la limpieza a data/ y pendiente/. ¿Seguir?')) return;
+  const r = await api('/api/lote/aplicar', {});
+  if (r.error) { toast(r.error, 'err'); return; }
+  loadLotes();
+  const wait = async () => {
+    await loadLotes();
+    if (LOTES.job.running) return setTimeout(wait, 3000);
+    if (LOTES.job.error) toast('Error al aplicar', 'err', LOTES.job.error);
+    else { toast('Decisiones aplicadas y BD reconstruida ✓'); await loadData(); }
+  };
+  setTimeout(wait, 2000);
+});
+
 // ── Boot ──────────────────────────────────────────────────────────────────────
 loadData();
 loadPlaylists();
+loadLotes();
 """
 
 def build_html():

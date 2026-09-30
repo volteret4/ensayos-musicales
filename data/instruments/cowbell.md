@@ -7,5 +7,4 @@
 ## artists
 - AJ Tomanello
 - Blink 182
-- blink-182
 

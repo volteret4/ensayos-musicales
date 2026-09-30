@@ -1,8 +1,8 @@
 # artist - The Flares
 
 ## members
-- Cornell Gunter (lead vocals)
-- Richard Berry (initial bass, vocals)
+- Cornell Gunter
+- Richard Berry
 - Thomas Fox
 
 ## labels
@@ -18,4 +18,3 @@
 **Later Member Departures** : After Richard Berry's departure, The Flares continued for years, but members gradually left for other groups. Thomas Fox joined The Cadets, who had a hit with "Stranded in the Jungle," and Cornell Gunter famously joined the classic lineup of The Coasters. "The Flares continued for years, though one at a time they left through other groups, Thomas Fox joined the cadets, who had a hit with Stranded in the Jungle, and most famously Cornel Gunter went on to join the classic lineup of the coasters." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
 **Name Change for Promotion** : The group eagerly changed its name to The Flares upon signing with Flair Records, a Modern Records subsidiary, believing that sharing the label's name would enhance their chances of promotion. "The label suggested they changed their name to The Flares, and they eagerly agreed. Thinking the tip of their band had the same name as The Label, the label would be more likely to promote them." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
 **Produced by Ike Turner** : At one point, The Flares were produced by Ike Turner, who by then had transitioned from working with Sam Phillips to producing for the Beharry Brothers, owners of Modern Records. "The band was produced by Ag Turner, who by this point had moved on from working with Sam Phillips and was now working for the Beharry Brothers, who owned modern records." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
-

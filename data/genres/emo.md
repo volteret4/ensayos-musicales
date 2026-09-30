@@ -55,11 +55,9 @@
 **Underground Gestation and Stereotypes** : Emo culture developed underground throughout the 1980s and 1990s, leading to the creation of the stereotypical "emo kid" image, complete with black hair, long bangs, black clothes, and thick-rimmed glasses. The genre also became associated with stigmas like depression and self-harm. "Emotional culture gestated underground through the 80s and 90s, resulting in the creation of the stereotypical emo kid with his or her black hair, the long bangs, the black clothes, the glasses with the thick rims." ← https://www.youtube.com/watch?v=_yslM5oanRo ← emo
 
 ## artists
-- 30 Seconds to Mars
+- Thirty Seconds to Mars
 - AFI
-- Alexis on Fire
 - Alexisonfire
-- Anders
 - Basement
 - Blink 182
 - Dashboard Confessional
@@ -75,27 +73,20 @@
 - Modern Baseball
 - My Chemical Romance
 - New Found Glory
-- Panic at the Disco
-- Panic! at the Disco
+- Panic! At The Disco
 - Paramore
 - Pianos Become The Teeth
-- Plain White T's
-- Red Jumpsuit Apparatus
 - Rites of Spring
-- Saves The Day
 - Saves the Day
 - Simple Plan
 - Story of the Year
 - Sunny Day Real Estate
 - Taking Back Sunday
-- The All-American Rejects
+- All-American Rejects
 - The Hotelier
 - The Promise Ring
 - The World Is A Beautiful Place & I Am No Longer Afraid To Die
-- The World Is a Beautiful Place & I Am No Longer Afraid to Die
-- Thirty Seconds to Mars
 - Thursday
-- Touche Amore
+- Touché Amoré
 - Weezer
-- blink-182
-
+- Avril Lavigne

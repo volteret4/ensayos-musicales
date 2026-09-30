@@ -10,9 +10,6 @@
 ## concerts
 - The Matrix (1999)
 
-## songs
-**Certain Tracks (Year not specified)** : Certain tracks from Rammstein are mentioned as being good for anger management, alongside AC/DC's "Highway to Hell" and Metallica. "although certain tracks from Ramstein and Metallica are good too." ← https://www.youtube.com/watch?v=1HMW9rGtJHI ← rammstein ← rammstein
-
 ## curiosities
 **Aggressive and Dark Style** : The German band Rammstein is known for their very aggressive, unspoken, and dark musical style. "Ramstein, the German band, very aggressive, very unspoken, very dark." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← rammstein
 **Asteroid 110393 Ramstein** : An asteroid, officially named 110393 Ramstein, has been designated in honor of the band Rammstein. This asteroid is about six kilometers in size, not very bright, and located somewhere between Mars and Jupiter. It was discovered by Jean-Claude Merlin at an observatory in Lucre-Sau, France. "The official name of their rock is 110393 Ramstein." ← https://www.youtube.com/watch?v=VMPLplhDk8I ← rammstein
@@ -23,8 +20,6 @@
 **Preference for Physical Format** : Rammstein strongly dislikes digital music supports and are significant proponents of physical formats. They actively encourage their fans to purchase albums at their concerts. "Ramstein odia este tipo también de soportes digitales, ellos son unos grandes amantes del formato físico, son gente que además en sus propios conciertos anima a la gente a comprar los discos" ← Music Radar Clan > Artistas que no están en Spotify y por qué | https://www.youtube.com/watch?v=RQYV60lqU8Y&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← rammstein ← rammstein
 **Techno Influences in Rock** : Rammstein is presented as an example of a rock band that has been influenced by techno, demonstrating how techno's reach extends even to genres like rock. "No olvidemos a Rammstein." ← Music Radar Clan > De Madonna a las tiendas de ropa, el TECHNO está por todas partes | https://www.youtube.com/watch?v=qSlLE4EKtmo&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← rammstein ← rammstein
 **The Matrix Soundtrack Contribution (1999)** : Rammstein was featured on the first *Matrix* soundtrack, released in 1999. The album was characterized by "really cool heavy stuff," including contributions from other heavy acts like Marilyn Manson, Ministry, The Prodigy, and Rage Against the Machine. "It was some really cool heavy stuff, Marilyn Manson, Ministry of the Prodigy, Ramstein, Rage Against the Machine." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← rammstein
-
-
 
 ## awards
 **MTV Europe Music Award for Best Rock (1998)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q38138

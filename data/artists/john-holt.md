@@ -15,8 +15,7 @@
 ## curiosities
 **Composer of 'Man Next Door'** : John Holt was a reggae artist who composed the classic song "Man Next Door," which was later covered by Massive Attack. He wrote the song about a personal issue he had with a noisy, party-loving neighbor whose constant late-night festivities prevented Holt and his children from sleeping. "La canción Magnet Store que originalmente es una canción de música reguiva bastante antigua." ← Music Radar Clan > MASSIVE ATTACK. 20 años de MEZZANINE | https://www.youtube.com/watch?v=wG6NEzM5CEQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← john-holt ← john-holt
 **Reggae Legend Status** : John Holt is revered as a legend in reggae music, distinguished by his prolific output of over 40 albums and notable performances with prestigious ensembles like the London Symphony Orchestra. "We're talking about a guy who performed with the London Symphony Orchestra kind of legend." ← For the Record - The 70s > Ep. 29 - Every Little Thing is Gonna Be All Right - The Influence of 70s Reggae | https://seventies.libsyn.com/ep-29-every-little-thing-is-gonna-be-all-right-the-influence-of-70s-reggae
-
-
+**Composer of 'Man Next Door'** : John Holt was a reggae artist who composed the classic song "Man Next Door," which was later covered by Massive Attack. He wrote the song about a personal issue he had with a noisy, party-loving neighbor whose constant late-night festivities prevented Holt and his children from sleeping. "La canción Magnet Store que originalmente es una canción de música reguiva bastante antigua." ← Music Radar Clan > MASSIVE ATTACK. 20 años de MEZZANINE | https://www.youtube.com/watch?v=wG6NEzM5CEQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← john-holt
 
 ## awards
 **Order of Distinction** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1873505

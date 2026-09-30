@@ -7,6 +7,5 @@
 **Shared Phone Number with Corporation** : The phone number for Corwood Industries is shared with the "Sterling Smith Corporation," which is hinted to be a stocks and securities company. This connection contributes to the ongoing mystery surrounding Jandec's financial support and potential real identity. "Now there were hints that the Sterling Smith Corporation, a company that shares a phone number with Corwood Industries, is a stocks and securities company." ← https://www.youtube.com/watch?v=c8CD_FcWcg8 ← corwood-industries ← corwood-industries
 
 ## artists
-- Jandec
 - Jandek
 

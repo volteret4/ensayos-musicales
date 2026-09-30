@@ -1,14 +1,13 @@
 # artist - Benny Goodman
 
 ## members
-- Arty Burns Deen
+- Artie Bernstein
 - Charlie Christian
-- Count Basie (sat in)
-- Coutie Williams
-- Dramagine Cooper
-- Fletcher Henderson (sat in)
+- Cootie Williams
+- Count Basie
+- Fletcher Henderson
 - Lionel Hampton
-- Nick For Tool
+- Nick Fatool
 - Teddy Wilson
 
 ## genres
@@ -24,9 +23,10 @@
 
 ## instruments
 - Clarinet
+- Electric guitars
 
 ## albums
-**Carnegie Hall Concert (1938) - Live Jazz Album** : This live recording captures one of Goodman's biggest moments, featuring an integrated band with black musicians like Count Basie, Leste Jung, Teddy Wilson, and Lionel Hampton alongside white musicians such as Goodman and Crouper. It remains one of the greatest live jazz albums ever recorded, showcasing the potential for exciting music within the Swing band template, and was significantly influenced by John Hammond. "that Carnegie Hall concert is still one of the greatest live jazz albums ever recorded, and shows that it was entirely possible to create truly exciting music using the Swing band template." ← Episode 1： ＂Flying Home＂, Benny Goodman, Charlie Christian, and Lionel Hampton | https://www.youtube.com/watch?v=RmfeJYl84Qs
+**Carnegie Hall Concert (1938)** : This live recording captures one of Goodman's biggest moments, featuring an integrated band with black musicians like Count Basie, Leste Jung, Teddy Wilson, and Lionel Hampton alongside white musicians such as Goodman and Crouper. It remains one of the greatest live jazz albums ever recorded, showcasing the potential for exciting music within the Swing band template, and was significantly influenced by John Hammond. "that Carnegie Hall concert is still one of the greatest live jazz albums ever recorded, and shows that it was entirely possible to create truly exciting music using the Swing band template." ← Episode 1： ＂Flying Home＂, Benny Goodman, Charlie Christian, and Lionel Hampton | https://www.youtube.com/watch?v=RmfeJYl84Qs
 
 ## songs
 **Flying Home (1939)** : Recorded on October 2nd, 1939, by the Benny Goodman Sextet, this piece quickly became their signature song. The band members were on a plane from LA to Atlantic City when Hampton started humming the riff. Goodman and Hampton were credited as writers, although John Hammond later claimed Charlie Christian improvised the riff first. "The first song with the new Goodman sex-tat recorded, on October 2nd 1939, 79 years ago this week, was a piece called Flying Home." ← Episode 1： ＂Flying Home＂, Benny Goodman, Charlie Christian, and Lionel Hampton | https://www.youtube.com/watch?v=RmfeJYl84Qs
@@ -52,13 +52,10 @@
 **Small Group Head Arrangements** : While Benny Goodman claimed responsibility for the head arrangements used by his small groups, many people believe that Charlie Christian was actually responsible for them. The sextet's music notably possessed a much more exhilarating feel compared to Goodman's earlier quartet or trio work. "While Goodman claimed responsibility for the head arrangements the small groups used, a lot of people think the Christian was responsible for these too, and certainly the sex-tats music has a much more exhilarating feel than the early quartet or trio work." ← Episode 1： ＂Flying Home＂, Benny Goodman, Charlie Christian, and Lionel Hampton | https://www.youtube.com/watch?v=RmfeJYl84Qs
 **Support for Moondog's Lawsuit** : Big band leader Benny Goodman assisted Moondog (Louis Hardin Jr.) in his lawsuit against disc jockey Allan Freed for the unauthorized use of the "Moon Dog" name. His support was instrumental in Moondog winning the case and securing damages and a promise from Freed to cease using the name. "so with the help of big band leader Benny Goodman, he sued Alan Fried, and he won six thousand dollars in damages." ← https://www.youtube.com/watch?v=6SdPPsmpgJg ← benny-goodman
 **Unison Riff Innovation on Flying Home** : The main riff of "Flying Home" features a profound clarinet and an electric guitar playing the same riff in unison, a sound that had never been recorded before its 1939 release. This unusual combination created a unique harmonic tension from the outset. "This is a very profound, acclarenet, and an electric guitar, all playing the same riff in unison. That's a sound that had never been recorded before." ← Episode 1： ＂Flying Home＂, Benny Goodman, Charlie Christian, and Lionel Hampton | https://www.youtube.com/watch?v=RmfeJYl84Qs
-
-
+**Instrumentalist Leader** : Benny Goodman, the leader of the Benny Goodman Orchestra, was an instrumentalist (specifically, he played the clarinet) rather than a singer, a common characteristic of big bands where the focus was on the leader's instrumental prowess. "The Betty Goodman Orchestra... All of the leaders of the big bands were instrumentalists. They played clarinet, or trombone, or piano. They didn't sing." ← Episode 50： ＂Honky Tonk＂, by Bill Doggett | https://www.youtube.com/watch?v=H2rYnKmeZF0
+**Early Adoption of Electric Guitars (1938)** : Benny Goodman's band was among the early adopters of electric guitars around 1938, a time when these instruments were just beginning to establish their musical presence. "A lot of people started using them at the same time, like Benny Goodman's band, as we heard about in the first episode." ← Episode 3： ＂Ida Red＂ by Bob Wills and the Texas Playboys | https://www.youtube.com/watch?v=zu4E9Y1oJA0
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761
 **Kennedy Center Honors** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1738793
 **Grammy Lifetime Achievement Award (1986)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q935843
-
-## lists
-**"Go" (1976) — Scaruffi 1970s** : #306, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

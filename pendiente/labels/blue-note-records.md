@@ -6,5 +6,5 @@
 **Signing Nora Jones** : Bruce Lentval, the head of Blue Note Records at the time, met Nora Jones after an EMI publishing contact set up a meeting. Nora presented a three-song demo, and despite Lentval remarking that some of it "isn't jazz... This is country," he decided to sign her, stating, "I don't care. Let's do it. Let's make a record." This decision allowed Nora to embark on her entire career with the label. "Bruce listened and he liked it. And then after the Jesse song came on, he goes, well, what do you want to be a jazz singer or a pop singer? I was like, jazz singer. I'm here in Boone Records, Jesse. Correct answer, right? Yeah." ← Hit Parade Music History and Music Trivia > Introducing Broken Record - Norah Jones Begins Again | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cbc
 
 ## artists
-- Nora Jones
+- Norah Jones
 

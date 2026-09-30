@@ -2,4 +2,3 @@
 
 ## member of
 - Hank Ballard and the Midnighters
-

@@ -7,7 +7,7 @@
 - Hillbilly Music
 
 ## songs
-**Blue Yodel number six (1930s)** : This song was performed by a teenage Wanda Jackson during her audition for a local TV show talent section. Rodgers was also a pioneer of yodeling, a skill Wanda Jackson taught herself. ← Episode 43： ＂I Gotta Know＂ by Wanda Jackson | https://www.youtube.com/watch?v=gEInec4z65Q
+**Blue Yodel number six** : This song was performed by a teenage Wanda Jackson during her audition for a local TV show talent section. Rodgers was also a pioneer of yodeling, a skill Wanda Jackson taught herself. ← Episode 43： ＂I Gotta Know＂ by Wanda Jackson | https://www.youtube.com/watch?v=gEInec4z65Q
 
 ## curiosities
 **Early Influence** : Jimmie Rodgers was one of the "1920s greats" whose songs inspired Woody Guthrie early in his career as a country singer. He was also an artist whose songs were covered by Hank Snow, leading Bob Dylan to discover his music. His songs were included in Odetta's first album, which influenced Dylan. "Guthrie had started out as a country singer, singing songs inspired by the Carter family, Jimmy Rogers, and other 1920s greats." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
@@ -16,3 +16,6 @@
 **Musical Repertoire** : Robert Johnson, despite primarily recording blues, enjoyed playing Jimmie Rodgers songs, according to Ramblin' Johnny Shines. "Johnson as particularly enjoying playing songs like Yes Sir That's My Baby, and Jimmy Rogers songs" ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
 **Yodeling Pioneer** : Jimmie Rodgers established the tradition of yodeling in country and western music, a practice that continued with singers through the late 20s and early 30s. Wanda Jackson taught herself to yodel, following in this tradition. ← Episode 43： ＂I Gotta Know＂ by Wanda Jackson | https://www.youtube.com/watch?v=gEInec4z65Q
 
+## charts
+**"Secretly" — Billboard Year-End Hot 100** : #19, 1958. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Kisses Sweeter than Wine" — UK Singles Chart** : #4, 1958. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart

@@ -5,5 +5,5 @@
 
 ## artists
 - Inspiral Carpets
-- The B-52's
+- The B-52s
 

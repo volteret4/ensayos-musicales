@@ -2,17 +2,13 @@
 
 ## member of
 - Black Sabbath
-- Tony Iommi
-
-## members
-- Tony Iommi
 
 ## instruments
 - **Custom Finger Caps and Guitar Setup** : Tony Iommi wears custom-made caps over two of his fingertips, which were severed in a factory accident. To accommodate this injury and make his guitar easier to play, he began using lighter gauge strings and downtuned his guitar. This adaptation had a significant influence on the development of metal and grunge music. "Since then, he's worn caps over those fingers. He also began using lighter strings on his guitar and tuned everything down to give the strings more slack. Make them easier to play."
-- Banjo strings (used on guitar)
+- Banjo strings
 - Gibson Les Paul
 - Guitar
-- Homemade prosthetics (melted plastic, leather)
+- Homemade prosthetics
 
 ## curiosities
 **DIY Prosthetic Thimbles** : To manage the pain and difficulty of playing guitar after his injury, Iommi fashioned plastic thimbles from a dishwashing soap bottle and wrapped them in leather from an old jacket. These thimbles allowed him to play but made it difficult to feel the strings, requiring him to press down very hard. "he fashioned a couple of plastic thimbles from a bottle of dishwashing soap and wrapped them in leather from an old leather jacket." ← https://www.youtube.com/watch?v=V7WjNR1ujhk ← tony-iommi
@@ -24,10 +20,5 @@
 **Inspiration from Django Reinhart** : After his factory accident, Iommi's foreman, feeling sympathetic, played him a recording by guitarist Django Reinhart. Reinhart, despite terrible burns to his hand leaving him with only two workable fingers, became a master of the guitar, inspiring Iommi to continue playing despite his own injury. "That inspired Tony to keep going, but it was painful." ← https://www.youtube.com/watch?v=V7WjNR1ujhk ← tony-iommi
 **Work Accident and Injury (Age 17)** : At just 17 years old, while working in Birmingham, Tony Iommi suffered an industrial accident with a metal cutting machine that severed two phalanges from his right hand. This was his fretting hand, crucial for playing the guitar. "Con tan solo 17 años, Tony Ayomi, un joven guitarrista de Birmingham, en la terra, acaba de tener un accidente laboral con un acordador a metal que le ha reban a dos falanges de su mano derecha, justo la mano con la que controlan los trascés." ← El DOOM METAL es el DARK SOULS de la música | https://www.youtube.com/watch?v=v0eaod_repg
 
-
-
 ## awards
 **Order of the Badge of Honour** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q2085270
-
-## lists
-**"Conference of the Birds" (2006) — Sputnikmusic Best Albums 2006** : #180, 3.99 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/

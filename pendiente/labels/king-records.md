@@ -11,7 +11,7 @@
 
 ## artists
 - Bill Doggett
-- Billy Ward and his Dominoes
+- Billy Ward and His Dominoes
 - Hank Ballard
 - Hank Ballard and the Midnighters
 - James Brown

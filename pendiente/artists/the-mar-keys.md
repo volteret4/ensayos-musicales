@@ -1,17 +1,17 @@
 # artist - The Mar-Keys
 
 ## members
-- Charles Axton (sax)
-- Curtis Green (drums - on Last Night session)
+- Curtis Green
 - Don Nix
-- Doug Dunn (bass)
-- Floyd Newman (sax - on Last Night session)
-- Gilbert Caples (sax - on Last Night session)
-- Louis Steinberg (bass - on Last Night session)
-- Smoochie Smith (keyboards)
-- Steve Cropper (guitar)
+- Duck Dunn
+- Floyd Newman
+- Gilbert Caples
+- Lewie Steinberg
+- Packy Axton
+- Smoochy Smith
+- Steve Cropper
 - Terry Johnson
-- Wayne Jackson (trumpet)
+- Wayne Jackson
 
 ## genres
 - R&B
@@ -29,3 +29,5 @@
 **Recording Second Single Without Them** : While The Mar-Keys were on tour, Stax studio musicians recorded the group's second single without their involvement. The band members only discovered its release when they saw it in the record shop. "The second marquee's single was recorded by the studio musicians while the group were out on tour. The first they even knew about it was when they saw it in the shop." ← Episode 105： ＂Green Onions＂ by Booker T.and the MGs | https://www.youtube.com/watch?v=cw6xJG8E_w0
 **Touring Resentment** : The Mar-Keys' tour to promote "Last Night" caused significant resentment among the black session players who had contributed to the record. These players felt the instrumental was primarily their work but that "a bunch of white boys were" receiving all the recognition. "which brought resentment from the Black Session players, some of whom claimed that during the session it hadn't even been intended as a marquee's record, and who have annoyed that even though the record was primarily their work, they weren't getting the recognition, and a bunch of white boys were." ← Episode 105： ＂Green Onions＂ by Booker T.and the MGs | https://www.youtube.com/watch?v=cw6xJG8E_w0
 
+## charts
+**"Last Night" — Billboard Year-End Hot 100** : #15, 1961. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

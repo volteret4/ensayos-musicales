@@ -3,12 +3,11 @@
 ## member of
 - Arcade Fire
 
-
+## curiosities
+**Early Life and Education** : William Butler, Win Butler's younger brother by two years, shared the same upbringing, moving with his family to The Woodlands near Houston in 1984. He attended prep school in Boston alongside his brother, where he was exposed to influential post-punk and alternative bands. "William Butler, Wins younger brother by two years, had the same upbringing." ← https://www.youtube.com/watch?v=Q_c-m_NDznw ← william-butler ← william-butler
+**Joining Arcade Fire** : William Butler was "drafted" into Arcade Fire following an onstage implosion during a debut EP performance, joining a new lineup that also included Tim Kingsbury and Richard Reed Perry. "But then, baby brother William Butler was drafted along with Tim Kingsbury of Guelph Ontario" ← https://www.youtube.com/watch?v=Q_c-m_NDznw ← william-butler ← william-butler
+**University Studies** : After prep school in Boston, William Butler pursued higher education at Northwestern University in Chicago, where he majored in poetry and Slavic studies. "From there, William went to Northwestern University in Chicago where he majored in poetry and Slavic studies." ← https://www.youtube.com/watch?v=Q_c-m_NDznw ← william-butler ← william-butler
 
 ## awards
 **Academy Award for Best Original Score (2014) — Her** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q488651
 **Tony Award for Best Original Score (2024) — Stereophonic** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1478089
-
-## lists
-**"Pearl Of Great Price" (1991) — Scaruffi 1990s** : #361, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Word Flesh Stone" (1992) — Scaruffi 1990s** : #1405, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

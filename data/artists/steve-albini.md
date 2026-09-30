@@ -2,10 +2,6 @@
 
 ## member of
 - Big Black
-- Steve Albini
-
-## members
-- Steve Albini
 
 ## genres
 - American indie
@@ -16,11 +12,11 @@
 - thrash metal
 
 ## labels
-- Electrical Audio (studio owner)
+- Electrical Audio
 
 ## instruments
 - bass
-- microphones (used for capturing natural room ambiance)
+- microphones
 
 ## curiosities
 **Analog Recording Techniques** : He favored analog recording technology, consciously avoided overdubbing whenever possible, and minimized the use of outboard effects, resulting in raw and authentic recordings. "He preferred analog technology. He avoided overdubbing where possible, and he kept outboard effects to the bare minimum, and the results were raw, authentic recordings." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← steve-albini
@@ -48,9 +44,3 @@
 **Street Named in Chicago** : A road in Chicago, where his studio Electrical Audio is located, has been named "Steve Albini Way" in his honor. "Finally, if you're ever in Chicago, the road where his studio, Electrical Audio, is now called Steve Elbeniway." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← steve-albini
 **Uncredited Work with Urge Overkill** : He also contributed to Urge Overkill's "Super Sonic Storybook" without receiving official credit. "He's uncredited with fellow Chicagoans, urge overkill on Super Sonic Storybook." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← steve-albini
 **Unique Recording Philosophy** : Albini was known for his distinct philosophy in the studio, which focused on capturing the authentic essence of an artist's sound rather than acting as a traditional "producer." He considered himself more of a recording engineer. "His philosophy was to capture the essence of an artist's sound in the studio." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← steve-albini
-
-
-
-## charts
-**"Let Me Blow Ya Mind" — Billboard Year-End Hot 100** : #7, 2001. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
-**"Gangsta Lovin'" — Billboard Year-End Hot 100** : #19, 2002. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

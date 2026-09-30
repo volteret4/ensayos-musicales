@@ -3,10 +3,11 @@
 ## genres
 - Alternative Dance
 
+## songs
+**Battleflag (1998)** : The official radio edit of this song is noted for a creative approach to censoring offensive language. Instead of cutting out the bad word (identified as "a big mother F"), the remixer added a multiple stutter to the word that followed it. "Instead of cutting out the bad word, the remixer added a multiple stutter to the word that followed the naughty one, which in case you didn't know was a big mother F." ← https://www.youtube.com/watch?v=08i9lVd6T8c ← low-fidelity-all-stars ← low-fidelity-all-stars
+**Battleflag (1998)** : The official radio edit of this song is noted for a creative approach to censoring offensive language. Instead of cutting out the bad word (identified as "a big mother F"), the remixer added a multiple stutter to the word that followed it. "Instead of cutting out the bad word, the remixer added a multiple stutter to the word that followed the naughty one, which in case you didn't know was a big mother F." ← https://www.youtube.com/watch?v=08i9lVd6T8c ← low-fidelity-all-stars
+
 ## curiosities
 **Major Alternative Dance Act** : Lo-Fidelity Allstars were identified as one of the "bigger acts" in Alternative Dance, showcasing the genre's growth and its ability to attract significant record label support and global promotion. "Some of the bigger acts were signed to big record deals and had their music promoted worldwide." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← lo-fidelity-allstars
-
-
-
-## lists
-**"Jackson" (1991) — Sputnikmusic Best Albums 1991** : #168, 3.83 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
+**Multiple Mixes of "Battle Flag"** : In addition to the original album mix and the official radio edit, "Battle Flag" had several other versions, including the "Space Raiders mix," the "Big Beat boutique mix," and a "Low Fidelity All-Stars mix," with another featuring the original writer of the song. This illustrates how numerous remixes could be created for a single track. "In addition to the original album mix, there's something called the Space Raiders mix, the Big Beat boutique mix, another featuring the original writer of the song, and the Low Fidelity All-Stars mix." ← https://www.youtube.com/watch?v=08i9lVd6T8c ← low-fidelity-all-stars ← low-fidelity-all-stars
+**Multiple Mixes of "Battle Flag"** : In addition to the original album mix and the official radio edit, "Battle Flag" had several other versions, including the "Space Raiders mix," the "Big Beat boutique mix," and a "Low Fidelity All-Stars mix," with another featuring the original writer of the song. This illustrates how numerous remixes could be created for a single track. "In addition to the original album mix, there's something called the Space Raiders mix, the Big Beat boutique mix, another featuring the original writer of the song, and the Low Fidelity All-Stars mix." ← https://www.youtube.com/watch?v=08i9lVd6T8c ← low-fidelity-all-stars

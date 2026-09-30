@@ -2,7 +2,6 @@
 
 ## labels
 - Island Records
-- Island Records (founder)
 
 ## curiosities
 **Bringing Millie Small to UK (1963)** : In 1963, Blackwell identified Millie Small's potential for international stardom. He convinced her mother to allow Millie to move to the UK, promising to make her a star, and subsequently licensed her records to Fontana for wider distribution. "in 1963 he had decided to call Milly's mother and promise her that if a daughter came over to the UK, he would be able to make her into a star." ← Episode 114： ＂My Boy Lollipop＂ by Millie | https://www.youtube.com/watch?v=kf-DtqoOsRI
@@ -15,8 +14,6 @@
 **Rastafari Culture Fascination** : Blackwell developed a deep fascination with Rastafari culture after being rescued by Rasta fishermen when his boat crashed while sailing. This experience solidified his goal to promote Jamaican culture globally. "Chris Blackwell had developed a fascination with Raster culture after having crashed his boat while sailing and being rescued by some Raster fishermen, and he had decided that his girl was to promote Jamaican culture to the world." ← Episode 114： ＂My Boy Lollipop＂ by Millie | https://www.youtube.com/watch?v=kf-DtqoOsRI
 **Witness to Jamaican Shooting (1996)** : Chris Blackwell, the head of Island Records, was among the friends with Bono and his family on Jimmy Buffett's plane, the "Hemisphere Dancer," when it was mistakenly fired upon by Jamaican police at Negril airport on January 16, 1996. "On January 16th 1996, Bono and his family and some friends including Jimmy Buffett and Island Records head Chris Blackwell visited Blackwell State in Jamaica." ← https://www.youtube.com/watch?v=hmnMG6f80Sg ← chris-blackwell
 
-
-
 ## awards
 **Order of Jamaica** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q2029246
 **MOJO Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3319330
@@ -24,7 +21,3 @@
 **Rock and Roll Hall of Fame (2001)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
 **Grammy Trustees Award (2006)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5593916
 **Polar Music Prize (2023)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q754841
-
-## lists
-**"As Is" (1997) — Scaruffi 1990s** : #1325, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Decentertainment" (2000) — Scaruffi 2000s** : #704, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html

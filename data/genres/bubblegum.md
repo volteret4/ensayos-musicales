@@ -17,11 +17,11 @@
 - Bay City Rollers
 - Bobby Sherman
 - David Cassidy
-- Donnie Osmond
+- Donny Osmond
 - Shaun Cassidy
 - Sweet
 - The Archies
 - The Ohio Express
 - The Partridge Family
-- The Razberries
+- The Raspberries
 

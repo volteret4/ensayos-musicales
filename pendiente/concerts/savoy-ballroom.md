@@ -7,5 +7,5 @@
 
 ## artists
 - Lucky Millinder
-- Sister Rosetta Tharp
+- Sister Rosetta Tharpe
 

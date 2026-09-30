@@ -3,8 +3,6 @@
 ## songs
 **The Humpty Dance (1990)** : This song was the reason Nora Jones bought her very first record, which was by Digital Underground. She heard it on the radio and it motivated her to purchase the album. "Because the Humpty dances. Yeah. The radio." ← Hit Parade Music History and Music Trivia > Introducing Broken Record - Norah Jones Begins Again | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cbc
 
-
-
 ## awards
 **Grammy Award for Best Rap Performance by a Duo or Group (1990)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q4809486
 **MTV Video Music Award for Best Rap Video (1990)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q917008

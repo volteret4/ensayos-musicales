@@ -12,8 +12,3 @@
 
 ## curiosities
 **Early Drumming and Diverse Collaborations** : Chrissy Lee began drumming at age four in a Salvation Army band. Throughout her career, she performed with a wide array of renowned artists including Frank Sinatra, Fats Domino, Tom Jones, and Dinah Washington. She also became heavily involved in education, conducting drum clinics globally. "She started drumming in a Salvation Army band when she was just four years old." ← https://www.youtube.com/watch?v=9GHpC0kCgHY ← chrissy-lee
-
-
-
-## charts
-**"Walk Away Renée" — Billboard Year-End Hot 100** : #27, 1966. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

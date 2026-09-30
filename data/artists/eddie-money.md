@@ -7,8 +7,6 @@
 ## curiosities
 **Death (End of 2010s)** : Eddie Money was among the losses at the close of the 2010s. "Eddie Money..." ← https://www.youtube.com/watch?v=sOU54d8mr5k ← eddie-money
 
-
-
 ## charts
 **"Baby Hold On" — Billboard Year-End Hot 100** : #67, 1978. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 **"Think I'm in Love" — Billboard Year-End Hot 100** : #58, 1982. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

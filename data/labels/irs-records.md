@@ -10,10 +10,9 @@
 **Leonard Cohen's Relaunch** : In 1988, IRS Records made the decision to launch or relaunch Leonard Cohen's career by marketing him as an alternative artist, coinciding with the release of his album *I'm Your Man*. "For some reason, IRS records had decided to launch or relaunch Leonard Cohen's career as an alternative artist." ← https://www.youtube.com/watch?v=4xxgPX-aR90 ← irs-records
 **R.E.M. Distribution Limitations** : R.E.M. released five albums through IRS Records between 1982 and 1985, growing into respected indie leaders. However, by 1987, the band felt IRS's distribution capabilities had reached their limit, prompting R.E.M. to seek a major label deal with Warner Brothers to achieve worldwide reach for their music. "IRS's Distribution Deal, their ability to get R.E.M. albums into record stores, had gone as far as it could." ← https://www.youtube.com/watch?v=DYtsWfguqGo ← irs-records ← irs-records
 **R.E.M.'s Departure (1987)** : R.E.M. concluded their tenure with IRS Records after the release of their 1987 album *Document*, moving on to Warner Music. This transition was prompted by unspecified "problems and certain disagreements" that arose between the band and the independent label. "justo después por si otros problemas y ciertos asenfados con la discográfica se pasaría a Warner." ← Music Radar Clan > El papel de REM en los '80 | https://www.youtube.com/watch?v=6G5okIQ0uco&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← irs-records ← irs-records
+**Miles Copeland III's Indie Label** : Stuart Copeland's brother, Miles Copeland III, became a budding music manager who later launched IRS Records, an indie label known for signing bands like The Go-Go's and R.E.M. "Stuart's brother, Miles Copeland III, was a budding music manager who would go on to launch the indie label, IRS Records, which signed the Go-Go's and REM." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
 
 ## artists
 - Dread Zeppelin
 - Head
 - R.E.M.
-- REM
-
