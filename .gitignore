@@ -13,3 +13,5 @@ __pycache__/
 backups/
 .limpieza_tmp/
 limpio/
+merge.log
+resumir.log

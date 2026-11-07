@@ -13,10 +13,16 @@ cd "$(dirname "$0")" || exit 1
 echo "--- Transcripción con Whisper ---"
 #python3 scripts/1_audio_to_text.py
 
-# 2. Generar resúmenes con Gemini
-echo "--- Resúmenes con Gemini ---"
-python3 scripts/2_gemini_resumen.py
-# Si terminó con SystemExit(1) (p. ej. error 429 de cuota), se detiene el flujo
+# 2. Extraer los datos de las transcripciones con Claude (claude -p, mismo prompt que Gemini).
+#    RESUMEN=gemini ./main.sh usa Gemini como antes.
+if [ "${RESUMEN:-claude}" = "gemini" ]; then
+    echo "--- Resúmenes con Gemini ---"
+    python3 scripts/2_gemini_resumen.py
+else
+    echo "--- Resúmenes con Claude ---"
+    python3 scripts/podcast_nuevo.py --solo-resumir
+fi
+# Si terminó con código 1 (cuota de Gemini o límite de uso de Claude), se detiene el flujo
 if [ $? -eq 1 ]; then
     echo "Límite de API alcanzado o error crítico. Deteniendo flujo diario."
     exit 1
