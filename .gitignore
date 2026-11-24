@@ -15,3 +15,7 @@ backups/
 limpio/
 merge.log
 resumir.log
+
+# credenciales, también las cifradas
+*encrypted*.env
+.env
