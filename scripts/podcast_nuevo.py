@@ -92,7 +92,7 @@ def transcribe(carpeta):
         import whisper
     except ImportError:
         sys.exit('Falta Whisper en este python: pip install openai-whisper '
-                 '(en el venv: ~/Scripts/python_venv/bin/pip install openai-whisper)')
+                 '(en el venv: uv pip install -p ~/.local/share/venvs/ensayos-musicales openai-whisper)')
     model_name = os.environ.get('WHISPER_MODEL', 'base')
     print(f'--- Transcribiendo {len(todo)} audio(s) con Whisper {model_name} ---', flush=True)
     model = whisper.load_model(model_name, device='cpu')
