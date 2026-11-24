@@ -9,6 +9,7 @@
 - 2 Tone
 - Motown
 - New Wave
+- New Wave Titans
 - Post-Punk
 - Punk Rock
 - Ska
@@ -16,6 +17,9 @@
 
 ## labels
 - Sire Records
+
+## concerts
+- English Beat tour
 
 ## albums
 **Special Beat Service (1981)** : This 1981 album by The English Beat was digitally recorded, making it an early adopter of digital recording technology. However, like other early digital recordings, all subsequent stages (mixing and mastering) were still performed using analog methods. "We could also look at the English beat in their 1981 album Special Beat Service. They also recorded digitally, but everything beyond that was analog." ← https://www.youtube.com/watch?v=yPok3MemDmE ← the-english-beat
@@ -39,3 +43,4 @@
 **Selling Blank Cassettes at Shows** : The band sold blank cassettes at their merchandise table during their shows, actively encouraging fans to bootleg the performances and copy their records. This action directly contradicted the music industry's "Home Taping Is Killing Music" campaign. `"The English beat sold blank cassettes at their merch table at their shows, in hopes that fans would bootleg the show and copy their records."` ← https://www.youtube.com/watch?v=OuFvfZJKcpc ← the-english-beat
 **The English Beat – Mirror in the Bathroom (1980); Held Out Against Violence and Racism Through Music; Second Wave Ended ~1985** : The English Beat, led by Dave Wakeling, were formed in the late 1970s and had their first hit with "Mirror in the Bathroom" (1980), a classic of the great ska revival. The second wave of ska — spanning roughly 1979 to 1985 — was vibrant and carried a hopeful message as a positive alternative to hard economic times and racial riots in Britain. By the mid-1980s, Jerry Dammers was broke and Two-Tone was falling apart under huge debt; despite efforts by the Clash, the Beat, and Bad Manners, the second wave ended around 1985. "Ska was a positive alternative to the hard economic times and the racial riots that were plaguing Britain in the early 1980s." ← https://www.youtube.com/watch?v=VxWp7HrT8oE ← the-english-beat
 **Representative New Wave and 2 Tone Artist** : English Beat was cited as part of the "new Scott Seen," a subgenre within the expansive New Wave umbrella. This reference underscores their role in the 2 Tone movement and its classification within the broader New Wave context. "There was Power Pop, which could include everyone from Elvis Costello to Tom Petty, a new Scott Seen, a specials English beat and so on, and all of the flavors of Technopop, all those groups who threw away their guitars and favor of synthesizers." ← https://www.youtube.com/watch?v=Z8BTWo66SDI ← english-beat
+**Opening Act for The Bangles** : The Bangles were given opening slots on a tour by "New Wave Titans" The English Beat, as part of their manager Miles Copeland's strategy to increase their public profile. "Getting them opening slots on a tour by New Wave Titans, the English beat." ← Hit Parade Music History and Music Trivia > Be the One to Walk in the Sun, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/

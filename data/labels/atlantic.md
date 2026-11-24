@@ -9,6 +9,7 @@
 **John Coltrane Contract** : Atlantic Records signed John Coltrane to a contract, enabling him to form his own band as a group leader, shortly after his work as a tenor saxophonist on Miles Davis's *Kind of Blue*. "firmó un contrató con Atlántico para formar su banda como líder de grupo." ← Cómo el Flamenco Influyó a Músicos Extranjeros (Y Quizá No Lo Notaste) | https://www.youtube.com/watch?v=9ReRvRfbHec
 **Lieber & Stoller Contract** : Simultaneously with their RCA contract, Jerry Lieber and Mike Stoller were attached to Atlantic Records. Here, they almost exclusively recorded with black performers they admired, such as Ruth Brown, LeVern Baker, and The Drifters. The Coasters were Lieber and Stoller's own personal project at Atlantic. "And at the same time, they were also attached to Atlantic, where they were recording almost exclusively with the black performers that they admired, such as Ruth Brown, LeVern Baker and The Drifters." ← Episode 68： ＂Yakety Yak＂ by the Coasters | https://www.youtube.com/watch?v=dtMHDD0-oOo
 **Tom Bell's Choice of The Spinners** : Upon joining Atlantic Records, Tom Bell deliberately chose to work with The Spinners, a group he was already familiar with, over more established artists like Aretha Franklin or Donny Hathaway, believing that the latter two were self-sufficient and did not require his production input. "He had the opportunity to work with Aretha Franklin or Donnie Hathaway when he joined Atlantic, but he figured that they did not need him. So he looked over the roster and he saw the spinners who he was already familiar with." ← For the Record - The 70s > Ep. 37 - Philly Soul and the Sound of the 70s | https://seventies.libsyn.com/ep-37-philly-soul-and-the-sound-of-the-70s
+**Aretha Franklin's Breakthrough** : Aretha Franklin's career transformed after she signed with the Atlantic label in 1966 or 1967. It was with Atlantic that she recorded all the songs now widely regarded as her legendary classics. "Before she got picked up by Atlantic and I believe 66, 67, I recorded all the songs that we now consider legendary." ← Hit Parade Music History and Music Trivia > Music Trivia - Rock & Roll Hall of Fame Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Aretha Franklin
@@ -23,4 +24,8 @@
 - The Drifters
 - The Isley Brothers
 - The Spinners
-
+- Hootie & the Blowfish
+- Darius Rucker
+- Brandy
+- Aaliyah
+- Timbaland

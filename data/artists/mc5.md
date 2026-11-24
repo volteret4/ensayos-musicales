@@ -43,11 +43,12 @@
 **Proto-Punk and Political Activism (Mid-Late 1960s)** : The MC5, a proto-punk band hailing from Detroit, was essentially an extension of the Marxist Black Panther Party, a militant socialist black nationalist organization that generated considerable controversy in the mid to late 1960s. The band further established an affiliated group known as The White Panthers. Despite their eventual internal political struggles that led to the band's dissolution, the MC5 effectively amplified the voices of marginalized people in the US during their active period. "The MC5, the Proto-Punk Band from Detroit, were essentially a wing of the Marxist Black Panther Party, a militant socialist black nationalist organization that stood up a lot of controversy in the middle of late 60s." ← https://www.youtube.com/watch?v=0ARYt4sYT90 ← mc5
 **Record Deal and Democratic National Convention (1968)** : The MC5 secured a "big record deal" in 1968. Around the same time, they performed at the "ill-fated" Democratic National Convention in Chicago, appearing as guests of the White Panther Party. "Somehow they were signed to a big record deal in 1968. This was at around the same time as they appeared at the ill-fated Democratic National Convention in Chicago as guests of the White Panther Party." ← https://www.youtube.com/watch?v=6oUkMOkEr9U ← mc5
 **Sampled in KLF Song** : Samples from MC5 were among at least eight distinct samples used in The KLF's massive 1990 single "What Time Is Love." "There were at least eight samples in this track, including from the MC5." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← mc5 ← mc5
+**Influence on Metal Bands** : The proto-punk sound of MC5 was acknowledged as an early influence that metal bands admired, contributing to the historical connection between punk and metal music. "metal bands had long attested to their admiration for and influence by punk, from proto-punkers like the MC5." ← Hit Parade Music History and Music Trivia > Hit Parade - The You Give Rock a Bad Name Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Kick Out the Jams" (1969) — 1001 Albums You Must Hear Before You Die** : #157.
-**"Kick Out the Jams" (1969) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #349. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Kick Out the Jams" (1969) — Scaruffi 1960s** : #33. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Back In The USA" (1970) — Scaruffi 1970s** : #407, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Looking At You / Borderline" — John Peel's Record Box** : #61. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
-**"Kick Out the Jams" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #50. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Kick Out the Jams" (1969) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #349.
+**"Kick Out the Jams" (1969) — Scaruffi 1960s** : #33.
+**"Back In The USA" (1970) — Scaruffi 1970s** : #407, 7.0/10 Scaruffi.
+**"Looking At You / Borderline" — John Peel's Record Box** : #61.
+**"Kick Out the Jams" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #50.

@@ -34,6 +34,6 @@
 **Grammy Award for Best New Artist (2010)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643
 
 ## lists
-**"Little Dark Age" (2018) — AOTY Must Hear 2010s** : #223, 76 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Congratulations" (2010) — AOTY Must Hear 2010s** : #927, 69 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Metanoia" (2008) — Sputnikmusic Best Albums 2008** : #145, 3.99 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2008/
+**"Little Dark Age" (2018) — AOTY Must Hear 2010s** : #223, 76 AOTY.
+**"Congratulations" (2010) — AOTY Must Hear 2010s** : #927, 69 AOTY.
+**"Metanoia" (2008) — Sputnikmusic Best Albums 2008** : #145, 3.99 Sputnik.

@@ -1,6 +1,7 @@
 # artist - Starland Vocal Band
 
 ## members
+- another romantic couple
 - Bill Danoff
 - John Carroll
 - Margot Chapman
@@ -8,14 +9,19 @@
 
 ## labels
 - Unknown
+- Wind Song
 
 ## songs
 **Afternoon Delight (1976)** : Written by Bill Danoff, co-writer of "Take Me Home, Country Roads," the song's title was inspired by a cafe menu item in 1974. Danoff developed the lyrics over about a year, pulling lines and metaphors from various sources, and the music was partly inspired by Rod Stewart's "Maggie May." Initially, the vocal blend of Bill Danoff and Taffy Nivert, joined by John Carroll and Margot Chapman, sounded "too straight," so legendary producer Phil Ramone and session musician Russell George were brought in to create the desired groove, incorporating a jazz background. It went to number one on July 10, 1976, the week after America's Bicentennial, becoming popular enough to name bowling leagues and racehorses, with children singing it without understanding its suggestive lyrics. "Afternoon delight went to number one on July 10th 1976 the week after America's bison teniel." ← For the Record - The 70s > Ep. 31 - The Spirit of '76 - Pop Music on America's Bicentennial | https://seventies.libsyn.com/ep-31-the-spirit-of-76-pop-music-on-americas-bicentennial
+**Afternoon Delight (1976)** : This song, released in the summer of 1976, became a number one hit for the Starland Vocal Band. Powered by John Denver's Wind Song label and his promotional prowess, it represented an extension of the John Denver mid-70s musical universe, despite its cheesy lyrics about "square adults having sex in the middle of the afternoon." "The Starland Vocal Band scored a number one hit of their own in the summer of 76. If you were alive then, or if you've seen the movie Anchorman or the TV show Arrested Development, you know this song, Afternoon Delight." ← Hit Parade Music History and Music Trivia > Country Roads and Summer Nights Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Grammy Award for Best New Artist (1977)** : The band won the Grammy for Best New Artist in 1977, though the transcript suggests Grammy voters "missed the mark" as "Afternoon Delight" was the peak of their career. "starland vocal band would go on to win the Grammy for best new artist in 1977 uh the Grammy voters missed the mark on that one afternoon delight was the peak of the career for starland vocal band." ← For the Record - The 70s > Ep. 31 - The Spirit of '76 - Pop Music on America's Bicentennial | https://seventies.libsyn.com/ep-31-the-spirit-of-76-pop-music-on-americas-bicentennial
 **Infamous One Hit Wonder Status** : The Starland Vocal Band gained notoriety as an "infamous One Hit Wonder Act" after winning the Best New Artist Grammy in 1977. Despite the award, they "never hit the charts again," leading vocalist Taffy Nivert to famously call the prize "the kiss of death." "Perhaps most notorious, the same year songs in the key of life took album of the year, best new artist went to infamous One Hit Wonder Act, the Starland Vocal Band." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
 **Best New Artist "Kiss of Death" (1977)** : The Starland Vocal Band's Best New Artist Grammy win in 1977 proved to be detrimental to their career, as they never charted again afterward. Vocalist Taffy Nivert famously remarked that the prize was "the kiss of death." "Vocalist Taffy Nivert later called the best new artist prize, quote, the kiss of death, unquote." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
+**Best New Artist Grammy Curse** : This 1970s one-hit wonder group's members themselves described their Best New Artist Grammy win as a "curse" and the "kiss of death," highlighting a common trend where the award fails to predict a long and successful career. "The members of the Starland Vocal Band themselves called their best new artist Grammy a curse, quote, the kiss of death, said singer Taffy Danoff." ← Hit Parade Music History and Music Trivia > Blame It on the Feign, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Best New Artist "Ignominy"** : The Starland Vocal Band is cited as an example of a Best New Artist Grammy winner who subsequently went on to "terrible ignominy," implying a lack of sustained success or a "one-hit wonder" status. "so many of one and then gone on to, terrible ignominy from Starland Vocal Band..." ← Hit Parade Music History and Music Trivia > Music Trivia - Grammys and Gaga Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Best New Artist Grammy "Curse" Comparison** : The Starland Vocal Band is cited as an example of a Best New Artist Grammy winner who might have regarded the trophy as a "curse" due to subsequent career decline, a fate suggested for Arrested Development. "But maybe arrested development like the Starland vocal band or Millie Vanille before them should have regarded that best new artist trophy as a curse." ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Afternoon Delight" — Billboard Year-End Hot 100** : #12, 1976. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

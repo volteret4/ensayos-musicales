@@ -8,4 +8,4 @@
 **""Wedding Bells" ‡" — UK Singles Chart** : #4, 1982. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
 
 ## lists
-**"Consequences" (1976) — Scaruffi 1970s** : #307, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Consequences" (1976) — Scaruffi 1970s** : #307, 7.0/10 Scaruffi.

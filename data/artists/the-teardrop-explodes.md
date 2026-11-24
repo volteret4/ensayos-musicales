@@ -14,4 +14,4 @@
 
 ## lists
 **"Kilimanjaro" (1980) — 1001 Albums You Must Hear Before You Die** : #472.
-**"Kilimanjaro" (1980) — Scaruffi 1980s** : #747. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Kilimanjaro" (1980) — Scaruffi 1980s** : #747.

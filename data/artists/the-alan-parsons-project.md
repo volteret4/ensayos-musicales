@@ -14,6 +14,6 @@
 **"Eye in the Sky" — Spain Singles Chart** : #1, 1982. ← Wikipedia | https://en.wikipedia.org/wiki/Promusicae
 
 ## lists
-**"I Robot" (1977) — AOTY Must Hear 1970s** : #58, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Eye in the Sky" (1982) — AOTY Must Hear 1980s** : #146, 93 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Tales of Mystery and Imagination" (1976) — Scaruffi 1970s** : #157, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"I Robot" (1977) — AOTY Must Hear 1970s** : #58, 90 AOTY.
+**"Eye in the Sky" (1982) — AOTY Must Hear 1980s** : #146, 93 AOTY.
+**"Tales of Mystery and Imagination" (1976) — Scaruffi 1970s** : #157, 7.0/10 Scaruffi.

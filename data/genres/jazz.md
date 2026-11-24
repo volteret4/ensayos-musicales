@@ -108,6 +108,14 @@
 **Jazz as Sting's Musical Foundation** : While Sting was inspired by rock and roll, he "made his bones musically speaking in jazz," highlighting that his foundational musical training and expertise were rooted in this genre. "Sting was eclectic from the start. He was fired up by rock and roll, but really did make his bones musically speaking in jazz." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
 **Louis Armstrong as Jazz Legend** : Louis Armstrong is referred to as a "jazz legend" and an "American icon," noted for his unlikely pop hits in the 1960s, including "Hello Dolly" and "What A Wonderful World." "number 8 on my second chance hits list is an unlikely standard by a jazz legend." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c42e
 **Sting's Musical Roots** : For Sting, his solo debut album "The Dream of the Blue Turtles" in 1985 was a "return to his roots as a jazz player in Newcastle." He assembled a band of seasoned jazz players for the album. "To Sting himself, it was a return to his roots as a jazz player in Newcastle." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef30c30a1408dc2922b
+**Disdain for Pop Records** : Jazz aficionados often revere artists' earlier jazz trio records but disdain their pop records, particularly when a jazz musician shifts toward soft pop vocalizing after a crossover hit. "But Jazz Eficionados still revere Nat King Cole's 1930s and 40s Jazz trio records and disdain his pop records." ← Hit Parade Music History and Music Trivia > Chestnut Roasters, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Diverse Inclusion on American Top 40** : American Top 40 under Casey Kasem featured a wide array of genres, including occasional jazz crossover singles, as part of its commitment to counting down all 40 songs on Billboard's Hot 100. "A regular week's worth of top 40 hits might contain pop, rock, R&B, country, Latin, disco, and even the occasional jazz crossover single." ← Hit Parade Music History and Music Trivia > Feet on the Ground, Reaching for the Stars Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**The Family Genre** : The Family, conceived by Prince as a spin-off from The Time, was described as a funk jazz band. "a short-lived funk jazz band" ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Inclusion in Sun City (1985)** : Jazz greats, such as Miles Davis and Rubén Blades, were part of the "intriguing and diverse array of music stars" assembled for Artists United Against Apartheid's "Sun City." This highlighted the project's broad genre appeal in its anti-apartheid message. "from Rundi MC to Rubin Bladis, Lou Reed to Miles Davis, Joey Ramone to Darling Love, Pat Benatar to Bobby Womack." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Key Influence on Yacht Rock** : Jazz, particularly "Black jazz," was a significant influence on many "white Yacht Rock guys" like Kenny Loggins, Michael McDonald, Steely Dan, and Toto, who grew up listening to it. Michael McDonald's entry into the Doobie Brothers brought "heavy duty R&B" and "jazz" elements, and Quincy Jones' "extremely soulful, jazzy sound" was pivotal in developing the "yacht soul" strain. "First of all, all the guys, all the white Yacht Rock guys that you first think of, Kenny Loggins, Michael McDonald, Steely Dan, all growing up, listen to Black R&B, Black jazz." ← Hit Parade Music History and Music Trivia > The Bridge - Yacht Or Nyacht | https://my.slate.com/podcasts/feeds/hit-parade/
+**Nile Rogers' Early Training and Influences** : Nile Rogers pursued formal training in jazz, studying with both jazz and classical guitarists in the early 1970s. His first band, New World Rising, was a "jazz blues rock fusion" act. He admired jazz artists like Herbie Hancock and Roy Ayers for their branching into funk and R&B, which influenced Sheik's incorporation of "jazzy intricacy" into their sound. "He began studying with jazz and classical guitarists, and by the early 70s, Rogers was professional enough to score an audition for a touring gig." ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Early CBGB Programming** : Jazz players like flautist Jeremy Stuyke were among the acts Hilly Crystal booked at CBGB early in its history, indicating the venue's original eclectic musical vision before it became known for punk. "Early on, Hilly Crystal put on jazz players like Floutist Jeremy Stuyke." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on Smooth Music** : Jazz elements were a key characteristic of the sleek, ultra-smooth sound dominating the Billboard Hot 100 in late February 1980. This jazzy influence was evident in the music of artists like the Doobie Brothers, Kenny Loggins, and Toto, contributing to the era's signature style. "Billboard's Hot 100 was a wash in similarly sleek, jazzy, ultra smooth music." ← Hit Parade Music History and Music Trivia > What a Fool Believes Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Amy Winehouse
@@ -214,3 +222,37 @@
 - Last Exit
 - Newcastle Big Band
 - The Pointer Sisters
+- Bob Dylan
+- Billy Joel
+- The Andrews Sisters
+- The Boswell Sisters
+- Prince
+- Nat King Cole
+- Vince Guraldy
+- Dave Brubeck
+- Roberta Flack
+- Harry Connick Jr.
+- Sam Cook
+- Donna Summer
+- Stevie Wonder
+- Casey Kasem
+- Bobby McFerrin
+- Mandrill
+- Herbie Hancock
+- The Family
+- Kenny Loggins
+- Michael McDonald
+- Steely Dan
+- Toto
+- Bert Kaempfert
+- Eumir Deodato
+- Sade
+- Less McCann
+- Johnnie Ray
+- Sérgio Mendes & Brasil '66
+- The Doobie Brothers
+- Cécile McLorin Salvant
+- Laufey
+- Roy Ayers
+- Jeremy Stuyke
+- Everything But The Girl

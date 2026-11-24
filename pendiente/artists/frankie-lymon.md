@@ -1,7 +1,12 @@
 # artist - Frankie Lymon
 
 ## member of
+- Frankie Lymon & The Teenagers
 - The Teenagers
+
+## genres
+- R&B
+- Rock
 
 ## instruments
 - Percussion
@@ -20,3 +25,4 @@
 **Post-Teenagers Career Decline** : After splitting from The Teenagers, neither Lymon nor the group ever achieved another hit. He continued to record for a couple of years, but his subsequent releases were unsuccessful, especially after his voice broke and he lost his distinctive youthful sound. "Now the Lyman, nor the teenagers, would ever have another hit after they split." ← Episode 35： ＂Why Do Fools Fall In Love？＂ by Frankie Lymon and the Teenagers | https://www.youtube.com/watch?v=AtZf9PJEttM
 **Tragic Later Life and Heroin Addiction** : Lymon's life after The Teenagers was marked by profound tragedy. He married three times, each bigamously, and his only child died two days after birth. He developed a heroin addiction, reportedly stealing from his second wife, Zola Taylor, to support it. Despite a brief reunion with The Teenagers in 1965 and a period in the army where he appeared to get clean, securing a new record deal, he relapsed the night before a scheduled studio session. "Frankie Lyman died, aged just 25... of a heroin overdose in 1968." ← Episode 35： ＂Why Do Fools Fall In Love？＂ by Frankie Lymon and the Teenagers | https://www.youtube.com/watch?v=AtZf9PJEttM
 **Youthful Talent and Charisma** : Frankie Lymon was a very young kid when he joined The Premiers (The Teenagers), initially singing and playing percussion in a Mambo group. Richie Barrett quickly recognized his star potential due to his captivating performance style, which resembled a young James Brown, and his gorgeous falsetto voice, leading to comparisons with Michael Jackson's early career trajectory. "Lyman was a captivating performer, and when you watch video footage of him now, you can't help but think of Michael Jackson, who followed almost exactly the same early career trajectory a decade later." ← Episode 35： ＂Why Do Fools Fall In Love？＂ by Frankie Lymon and the Teenagers | https://www.youtube.com/watch?v=AtZf9PJEttM
+**Early Boy Band Roots** : Frankie Lymon is mentioned as representing the early rock and R&B roots of the boy band phenomenon. "We walked through the history of the boy band from its early rock and R&B roots in Frankie Lyman and the Jackson five." ← Hit Parade Music History and Music Trivia > We Want It That Way Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/

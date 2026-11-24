@@ -17,7 +17,7 @@
 **Promising Debut from a Young Talent** : At just 26 years old, Moses Sumney's debut album is impressively complete, hinting at a very promising and significant career ahead for the artist. "es impresionante que alguien tan joven y tan novel en el mundo de la música ya puede hacer un disco tan completo yo creo que no se espera una grandísima carrera con esta artista." ← Music Radar Clan > Mejores discos del 2017 | https://www.youtube.com/watch?v=T34CwsFmXpI&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← moses-sumney
 
 ## lists
-**"Aromanticism" (2017) — AOTY Must Hear 2010s** : #263, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"græ" (2020) — AOTY Must Hear 2020s** : #651, 87 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Aromanticism" (2017) — Pitchfork: The 200 Best Albums of the 2010s** : #106, 81 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"grae: Part 1" (2020) — Sputnikmusic Best Albums 2020** : #160, 3.8 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2020/
+**"Aromanticism" (2017) — AOTY Must Hear 2010s** : #263, 81 AOTY.
+**"græ" (2020) — AOTY Must Hear 2020s** : #651, 87 AOTY.
+**"Aromanticism" (2017) — Pitchfork: The 200 Best Albums of the 2010s** : #106, 81 AOTY.
+**"grae: Part 1" (2020) — Sputnikmusic Best Albums 2020** : #160, 3.8 Sputnik.

@@ -5,9 +5,18 @@
 **Elvis Costello's Return to Radio** : Elvis Costello's cover of "Don't Let Me Be Misunderstood" on his "King of America" album helped him get back on album rock radio, where it peaked at number 38 on the chart. This marked a successful re-engagement with a significant radio format. "which got Costello back on rock radio. It peaked on the album rock chart at number 38." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
 **Joe Jackson's "Right and Wrong" Success** : Joe Jackson scored an album rock radio hit with "Right and Wrong" from his 1986 live album "Big World," reaching number 11 on that chart. This demonstrated his ability to produce new material that resonated with this radio format, even in an unconventional live setting. "It produced an album rock radio hit with Right and Wrong, which got all the way to number 11 on that chart." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
 **Graham Parker's "Get Started. Start a Fire."** : Graham Parker's "Get Started. Start a Fire." reached number 23 on the Album Rock Chart in 1988. This success from his self-produced album "The Mona Lisa's Sister" showed his continued presence and appeal within the album rock format. "Get started. Start a fire. Reached number 23 on the album Rock Chart." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
+**"Mary Jane's Last Dance" Chart Performance (1994)** : Tom Petty and The Heartbreakers' song "Mary Jane's Last Dance" topped the album rock chart again in early 1994. "once again topped the album rock chart." ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Elvis Costello
 - Graham Parker
 - Pat Benatar
 - Patti Smith
+- Bob Dylan
+- Alice in Chains
+- Soundgarden
+- Rush
+- Melissa Etheridge
+- Rufus
+- The Heartbreakers
+- Daryl Hall & John Oates

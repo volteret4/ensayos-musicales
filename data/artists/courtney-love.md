@@ -3,8 +3,12 @@
 ## member of
 - Faith No More
 - Hole
+- Mariah Carey
 - Pagan Babies
 - Sugar Baby Doll
+
+## members
+- Kurt Cobain
 
 ## labels
 - Virgin Atlantic
@@ -126,3 +130,6 @@
 **Discovery of Kurt Cobain Unconscious** : In March 1994, Courtney Love discovered her husband, Kurt Cobain, unconscious in a Rome hotel room. The incident was attributed to a combination of prescription medication and alcohol. "his wife Courtney Love found Cobain unconscious in a hotel room from a combination of prescription medication and alcohol." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 **Inspiration for Multiple Beef Records** : Courtney Love is described as a rock star who "made so many other famous people angry" that she "inspired multiple beef records" against her. She is also noted for her tendency to "talk shit in interviews more than in the music she made with her band Hole," making her a prominent "beef muse." "And then there's the rock star who's made so many other famous people angry, she's inspired multiple beef records. Courtney Love." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
 **"Cheerleader" Quip Against Gwen Stefani (Year Unknown)** : In an interview with 17 magazine, Courtney Love "picked a fight with Gwen Stefani" by "dismissing her as a 'cheerleader'." This snide comment directly inspired Stefani's highly successful diss track "Hollaback Girl," ironically giving Stefani one of her biggest hits. "Courtney Love had picked a fight with Gwen Stefani, dismissing her as a quote cheerleader." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+**Inspiration for "Hollaback Girl" (2005)** : Gwen Stefani claimed she wrote "Hollaback Girl" in response to some derogatory comments made against her by rocker Courtney Love. "Gwen Stefani, front woman for the Skaw Rock Band No Doubt, claimed she wrote it in response to some derogatory comments made against her by Rocker Courtney Love." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Platinum Success with Hole (1995)** : After mourning the loss of her husband Kurt Cobain in 1994, Courtney Love saw her band, Hole, achieve platinum success in its own right by 1995. "Courtney Love, who mourned the loss of husband Kurt Cobain in 1994 by 1995 saw her band, Hull, become a platinum success in its own right." ← Hit Parade Music History and Music Trivia > Hit Parade - The Veronica Electronica Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rock's Mid-90s Wave** : After mourning the loss of her husband Kurt Cobain in 1994, Courtney Love saw her band Hole achieve platinum success in its own right by 1995. She was among the boldest artists of rock's mid-90s wave. "On the charts such fearless even coarse rockers as Liz Fair and PJ Harvey were going gold and Courtney Love, who mourned the loss of husband Kurt Cobain in 1994 by 1995 saw her band, Hull, become a platinum success in its own right." ← Hit Parade Music History and Music Trivia > Madonna - The Veronica Electronica Edition (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/

@@ -19,3 +19,8 @@
 - Christine McVie
 - Donna Summer
 - The Crow
+- Led Zeppelin
+- Janis Joplin
+- The Animals
+- Ten Years After
+- Mountain

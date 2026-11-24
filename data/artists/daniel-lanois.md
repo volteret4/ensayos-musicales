@@ -79,4 +79,4 @@
 **Jack Richardson Producer of the Year Award (2011)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q6114830
 
 ## lists
-**"Acadie" (1989) — Scaruffi 1980s** : #342, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Acadie" (1989) — Scaruffi 1980s** : #342, 7.0/10 Scaruffi.

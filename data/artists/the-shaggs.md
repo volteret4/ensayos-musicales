@@ -36,5 +36,5 @@
 **Worst Group in Recording Studio** : The Shags, a trio of sisters from the Woods of New Hampshire, were frequently described as possibly the worst group to ever enter a recording studio. Despite this perception, their material is regarded as the "garageiest" within garage rock and they were name-checked by musicians as far back as the 1970s. "The shags were the three Wiggins sisters. They were managed and produced by their father Austin Wiggins, who for many accounts was just a delusional jerk." ← https://www.youtube.com/watch?v=c8CD_FcWcg8 ← the-shags ← the-shags
 
 ## lists
-**"Philosophy Of The World" (1969) — Scaruffi 1960s** : #193, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Philosophy Of The World" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #110, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Philosophy Of The World" (1969) — Scaruffi 1960s** : #193, 7.0/10 Scaruffi.
+**"Philosophy Of The World" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #110, 7.0/10 Scaruffi.

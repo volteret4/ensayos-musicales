@@ -127,6 +127,7 @@
 **Touring Challenges as a Virtual Band** : The nature of Gorillaz as a virtual band made conventional touring difficult and expensive, which could have negatively impacted their overall success. "And being a virtual band, it was difficult and expensive for the band to tour in a conventional way which could have impacted things." ← https://www.youtube.com/watch?v=Z7glrAoXtkA ← gorillaz
 **UK Success (2010s)** : This established band was among the "monsters" that performed well in the UK during the 2010s. "Meanwhile, the Monsters did well, and that would include Coldplay and Muse and Gorillas." ← https://www.youtube.com/watch?v=sOU54d8mr5k ← gorillaz
 **Virtual Band Conception** : Gorillaz were conceived in 1998 as a virtual band, a creative project by Blur's Damon Albarn and cartoonist Jamie Hewlett. "Gorillas, the virtual band created by Blur's Damon Albarn and cartoonist Jamie Hewlett. They were conceived in 1998." ← https://www.youtube.com/watch?v=Z7glrAoXtkA ← gorillaz
+**Phony Front Persons** : Created by Damon Albarn of Blur in the early 2000s, Gorillaz exemplifies the concept of "deliberately phony front persons" institutionalized by Frank Farian, with the act being fronted in all its videos by comic book-style animated characters. "Damon Alburn of Blur created one of those in the early Aughts with Gorillas, an act fronted in all the videos by comic book style animated characters." ← Hit Parade Music History and Music Trivia > Blame It on the Feign, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Shortlist Music Prize (2001) — Gorillaz** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q7502207
@@ -137,9 +138,9 @@
 
 ## lists
 **"Gorillaz" (2001) — 1001 Albums You Must Hear Before You Die** : #932.
-**"Demon Days" (2005) — AOTY Must Hear 2000s** : #253, 79 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Plastic Beach" (2010) — AOTY Must Hear 2010s** : #936, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"The Mountain" (2026) — AOTY Must Hear 2020s** : #1, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Demon Days" (2005) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #437, 79 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Tomorrow Comes Today" (2000) — Sputnikmusic Best Albums 2000** : #180, 3.94 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2000/
-**"The Mountain" (2026) — Sputnikmusic Best Albums 2026** : #47, 81 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2026/
+**"Demon Days" (2005) — AOTY Must Hear 2000s** : #253, 79 AOTY.
+**"Plastic Beach" (2010) — AOTY Must Hear 2010s** : #936, 82 AOTY.
+**"The Mountain" (2026) — AOTY Must Hear 2020s** : #1, 81 AOTY.
+**"Demon Days" (2005) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #437, 79 AOTY.
+**"Tomorrow Comes Today" (2000) — Sputnikmusic Best Albums 2000** : #180, 3.94 Sputnik.
+**"The Mountain" (2026) — Sputnikmusic Best Albums 2026** : #47, 81 AOTY.

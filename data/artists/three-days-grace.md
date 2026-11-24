@@ -36,5 +36,5 @@
 **CASBY Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5008850
 
 ## lists
-**"One-X" (2006) — Juno Awards: Album of the Year** : #2007. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Outsider" (2018) — Juno Awards: Album of the Year** : #2019. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
+**"One-X" (2006) — Juno Awards: Album of the Year** : #2007.
+**"Outsider" (2018) — Juno Awards: Album of the Year** : #2019.

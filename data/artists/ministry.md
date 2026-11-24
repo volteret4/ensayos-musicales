@@ -2,6 +2,7 @@
 
 ## members
 - Al Jourgensen
+- Amy Elizabeth Mann
 - John Bechtel
 - Paul Barker
 - William Rieflin
@@ -13,6 +14,8 @@
 - Industrial
 - Industrial Hip Hop
 - Industrial Music
+- Proto-industrial
+- Synth Pop
 - Technopop
 
 ## labels
@@ -79,10 +82,11 @@
 **Sympathy for Trent Reznor** : Al Jourgensen was very sympathetic to Trent Reznor's contract situation with TVT Records, which led to their collaboration on the 1000 Homo DJs project. "Al Jorrenson was very sympathetic to Trent's situation." ← https://www.youtube.com/watch?v=DKdF8NgF5Bw ← ministry
 **The Matrix Soundtrack Contribution (1999)** : Ministry was featured on the first *Matrix* soundtrack, released in 1999. The album was characterized by "really cool heavy stuff," including contributions from other heavy acts like Marilyn Manson, The Prodigy, Rammstein, and Rage Against the Machine. "It was some really cool heavy stuff, Marilyn Manson, Ministry of the Prodigy, Ramstein, Rage Against the Machine." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← ministry
 **Transition to Industrial Sound (1986)** : After being dropped by his record label and dabbling in goth music (1984-1985), Al Jourgensen restarted his career. In 1986, through Depeche Mode connections, he collaborated with producer Adrian Sherwood. Sherwood's radical remixes (e.g., for Depeche Mode) impressed Jourgensen with their heavy percussion, electronic rhythm, distortion, and tape loops, leading to the industrial-leaning album "Twitch." "But in 1986, through some Depeche Mode connections, he hooked up with producer Adrian Sherwood." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← ministry ← ministry
+**Amy Mann's Brief Stint** : After leaving Young Snakes, Amy Mann briefly joined Ministry, a band then led by Al Jorgensen. During her time with the group, Ministry's sound leaned towards synth pop, and Mann gained valuable experience in writing songs more efficiently. "After breaking away from Young Snakes, Amy Mann briefly joined Proto industrial band ministry, led by Al Jorgensen." ← Hit Parade Music History and Music Trivia > Be the One to Walk in the Sun, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"ΚΕΦΑΛΗΞΘ" (1992) — 1001 Albums You Must Hear Before You Die** : #725.
-**"The Land Of Rape And Honey" (1988) — Scaruffi 1980s** : #76, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Mind Is A Terrible Thing To Taste" (1989) — Scaruffi 1980s** : #173, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Twitch" (1986) — Scaruffi 1980s** : #573, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"ΚΕΦΑΛΗΞΘ" (1992) — Sputnikmusic Best Albums 1992** : #61. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"The Land Of Rape And Honey" (1988) — Scaruffi 1980s** : #76, 8.0/10 Scaruffi.
+**"The Mind Is A Terrible Thing To Taste" (1989) — Scaruffi 1980s** : #173, 7.5/10 Scaruffi.
+**"Twitch" (1986) — Scaruffi 1980s** : #573, 7.0/10 Scaruffi.
+**"ΚΕΦΑΛΗΞΘ" (1992) — Sputnikmusic Best Albums 1992** : #61.

@@ -2,6 +2,11 @@
 
 ## members
 - B-Real
+- Sen Dog
+
+## genres
+- Gangster rap
+- Hip Hop
 
 ## concerts
 - **Judgment Night (1993) Soundtrack Collaboration** : Cypress Hill was teamed with Pearl Jam on the soundtrack for the 1993 movie "Judgment Night," an experiment to pair alternative bands with hard rap acts. "Lil Jam was teamed with Cypress Hill."
@@ -18,6 +23,11 @@
 
 ## albums
 **Black Sunday (1993)** : This record, released in the summer of 1993, debuted at number one on the charts, marking the first time any rap group had achieved this feat. "When it arrived in the summer of 1993, it debuted at number one on the charts. The first time any rap group had done that." ← https://www.youtube.com/watch?v=5bQz8R0gbXc ← cypress-hill
+**Cypress Hill (1991)** : The debut album by LA rapper Cypress Hill, which made them the first Latin American rappers to go platinum. The album featured both straight-up gangster tracks like "How I Could Just Kill A Man" and the single "Latin Lingo," where rappers Sen Dog and B-Real exchanged funky bilingual rhymes. "title debut, not only included straight up gangster tracks like How I Could Just Kill A Man, but on the single Latin Lingo, rappers Sendog and Be Real traded off funky bilingual rhymes." ← Hit Parade Music History and Music Trivia > La Vida Loca Edición | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## songs
+**How I Could Just Kill A Man (1991)** : This was a straight-up gangster track featured on Cypress Hill's self-titled debut album. It contributed to the group's reputation as pioneering Latin American rappers in the West Coast hip hop scene. "not only included straight up gangster tracks like How I Could Just Kill A Man" ← Hit Parade Music History and Music Trivia > La Vida Loca Edición | https://my.slate.com/podcasts/feeds/hit-parade/
+**Latin Lingo (1991)** : A single from Cypress Hill's debut album, this song featured rappers Sen Dog and B-Real trading off funky bilingual rhymes. It highlighted the fusion of Latin music and rap as hip hop gained prominence in the early 1990s. "but on the single Latin Lingo, rappers Sendog and Be Real traded off funky bilingual rhymes." ← Hit Parade Music History and Music Trivia > La Vida Loca Edición | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Alternative Club and Radio Presence** : Cypress Hill's music was increasingly heard in alternative dance clubs and on new rock radio stations, indicating its growing crossover appeal. "Meanwhile, groups like House of Pain and Cypress Hill and Body Count were heard more and more in alternative dance clubs and on new rock radio stations." ← https://www.youtube.com/watch?v=5bQz8R0gbXc ← cypress-hill
@@ -34,6 +44,7 @@
 **Shared Combatant Spirit** : Along with System of a Down, Cypress Hill adopted a combatant spirit directed against the system, moving beyond purely personal feelings to address broader societal issues. This ideological alignment mirrored the protest-oriented music of groups like Rage Against the Machine, demonstrating a continued thread of resistance within rock. "Cómo sistema fadda aún, o cómo los Cypress Hill también retomaban ese espíritu combatiente en contra del sistema inotanto, en contra del sentimiento personal." ← Music Radar Clan > Poniendo en su lugar a Rage Against the Machine | https://www.youtube.com/watch?v=BZwjNagkRcU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← cypress-hill ← cypress-hill
 **Co-headlining Tour with Beastie Boys** : Cypress Hill toured with the Beastie Boys following the release of their "Check Your Head" album. "They toured not only with Cypress Hill, but also get this, The Rollins Band." ← https://www.youtube.com/watch?v=9_BTe15NooI ← cypress-hill
 **White Fan Base Expansion** : As a "straight rapper-former," Cypress Hill found themselves gaining more and more white fans, demonstrating the expanding reach of rap music. "Even straight rapper-formers like Dela Sol, Cypress Hill, NWA and Iced Tea found themselves with more and more white fans." ← https://www.youtube.com/watch?v=5bQz8R0gbXc ← cypress-hill
+**First Latin American Rappers to Go Platinum (1991)** : Cypress Hill, an LA-based rap group, achieved a significant milestone in 1991 by becoming the first Latin American rappers to earn a platinum certification for their debut album. This success marked a breakthrough for Latin artists in the burgeoning West Coast hip hop scene. "L.A. rapper Cyprus Hill dropped their debut album in 1991 and became the first Latin American rappers to go platinum." ← Hit Parade Music History and Music Trivia > La Vida Loca Edición | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761
@@ -43,7 +54,7 @@
 
 ## lists
 **"Cypress Hill" (1991) — 1001 Albums You Must Hear Before You Die** : #687, 7.0/10 Scaruffi.
-**"Black Sunday" (1993) — AOTY Must Hear 1990s** : #334, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Cypress Hill" (1991) — Scaruffi 1990s** : #564, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Cypress Hill" (1991) — Sputnikmusic Best Albums 1991** : #28, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"Black Sunday" (1993) — Sputnikmusic Best Albums 1993** : #45, 80 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
+**"Black Sunday" (1993) — AOTY Must Hear 1990s** : #334, 80 AOTY.
+**"Cypress Hill" (1991) — Scaruffi 1990s** : #564, 7.0/10 Scaruffi.
+**"Cypress Hill" (1991) — Sputnikmusic Best Albums 1991** : #28, 7.0/10 Scaruffi.
+**"Black Sunday" (1993) — Sputnikmusic Best Albums 1993** : #45, 80 AOTY.

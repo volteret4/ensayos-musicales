@@ -13,6 +13,11 @@
 **Rami Jaffee's Role** : Rami Jaffee, a Foo Fighters keyboardist, was a former member of The Wallflowers. "Foo Fighters keyboardist Rami Jaffee." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← keyboards
 **Unusual Use in Post-Rock** : In post-rock, keyboards, along with other traditional rock instruments, are employed in unusual ways to produce non-rock outcomes, contributing to the genre's experimental philosophy. "What we're doing is producing non-rock outcomes. That means compositions without the usual verse chorus, verse structure, and more atmospheric, some more experimentation, and more of a cinematic approach to audio." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← keyboards
 **Christine McVie's Primary Stage Instrument** : Christine McVie's consistent stage presence typically involved her being positioned behind her keyboards, singing slightly apart from the front of the stage, highlighting her role as the band's keyboardist and vocalist. "Christine McV could usually be found behind her keyboards, singing slightly apart from the front of the stage." ← Hit Parade Music History and Music Trivia > Thinking About Tomorrow Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eefd1ba84fb8f044795
+**James Ingram's Early Career** : Before becoming a singer, James Ingram primarily worked as a keyboardist, and was hesitant to sing until encouraged by Quincy Jones. "James Ingram worked mostly as a keyboardist." ← Hit Parade Music History and Music Trivia > I Wanna Rock with Q. Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Frenetic in Pet Shop Boys' "It's a Sin"** : The keyboards in Pet Shop Boys' 1987 hit "It's a Sin" were described as frenetic and feverish, strongly echoing the sound of American freestyle. "Whose frenetic feverish keyboards strongly echoed American freestyle." ← Hit Parade Music History and Music Trivia > Point of No Return Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Chiming Hook in "Domino Dancing"** : A distinctive chiming keyboard hook, described as sounding like South Beach in Miami, was a key feature in Pet Shop Boys' "Domino Dancing." "With a chiming keyboard hook that sounded like South Beach in Miami." ← Hit Parade Music History and Music Trivia > Point of No Return Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Speedy Keyboards in Freestyle** : The "speedy keyboards" were a characteristic element of freestyle music, which acts devoted to the genre evolved away from to score later hits. "Speedy keyboards." ← Hit Parade Music History and Music Trivia > Point of No Return Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Melodic Keyboards in "The Chronic"** : Dr. Dre's album "The Chronic" utilized melodic keyboards to sweeten its tales of South Central LA, contributing to its distinctive sound. "sweetened with melodic keyboards and samples of smoky 70s R&B." ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Arcade Fire
@@ -45,3 +50,14 @@
 - Trent Reznor
 - Fleetwood Mac
 - Christine McVie
+- Bob Dylan
+- Billy Joel
+- Donna Summer
+- Stevie Wonder
+- Kenny Loggins
+- Hanson
+- Donald Fagen
+- David Benoit
+- Yani
+- Darryl Hall
+- The Electric Indian

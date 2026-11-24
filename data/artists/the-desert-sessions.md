@@ -18,4 +18,4 @@
 **Ongoing Recording Series** : The Desert Sessions is a continuous series of recordings that started in the summer of 1997 and remains ongoing. The project originated from Josh Homme assembling friends at Rancho de la Luna to jam, returning to the desert to rekindle his musical inspiration. "The ultimate result has been an ongoing series of recordings called The Desert Sessions that continues even today." ← https://www.youtube.com/watch?v=mG1TQuhcf1o ← the-desert-sessions
 
 ## lists
-**"Volumes 1 and 2" (1998) — Sputnikmusic Best Albums 1998** : #166, 3.97 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1998/
+**"Volumes 1 and 2" (1998) — Sputnikmusic Best Albums 1998** : #166, 3.97 Sputnik.

@@ -1,10 +1,27 @@
 # artist - Calvin Harris
 
 ## genres
+- Club music
+- Dance music
+- DJ
 - EDM
+- Record producer
+
+## concerts
+- 2011 Tour (opening act for Rihanna)
 
 ## instruments
+- Electronic bass drops
 - Laptops
+
+## songs
+**Acceptable in the 80s** : This song is mentioned as an example of Calvin Harris's cheeky song titles and his style, which included big, rubbery electronic bass drops. "Songs with big rubbery electronic bass drops and cheeky song titles like Acceptable in the 80s." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**This Is What You Came For (2016)** : This one-off single, credited to Calvin Harris featuring Rihanna, became a big hit, reaching number three. It was secretly written by Taylor Swift, Harris's then-girlfriend, under the pseudonym Nils Sjöberg. "The Stoberg-Pen track, this is what you came for, credited to Calvin Harris featuring Rihanna turned out to be a big hit, reaching number three." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**This Is What You Came For (2016)** : Calvin Harris produced this top three hit, which was written by Taylor Swift and performed by Rihanna in the summer of 2016, filling a gap while Swift was on hiatus. "produced again by her friend Calvin Harris. This is what you came for." ← Hit Parade Music History and Music Trivia > Rolling in God’s Royal Uptown Road Edition. | https://my.slate.com/podcasts/feeds/hit-parade/
+**We Found Love (2011)** : Featured on the song by Rihanna, this was Rihanna's longest-lasting number one hit, spending 10 weeks on top from November 2011 through January 2012. Its multi-year chart performance led to it being ranked 69th on the 2011 year-end chart and 8th on the 2012 chart. "Rihanna's longest-lasting number one hit we found love featuring Calvin Harris." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**We Found Love (2011)** : Calvin Harris wrote this exultant club banger, which he presented to Rihanna while touring as her opening act in 2011. Credited to "Rihanna featuring Calvin Harris," it became the lead single for "Talk That Talk" and a chart juggernaut. "So it was while he was on tour with Rihanna that he presented her with an exultant club banger he'd written. Its eventual title, We Found Love." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**We Found Love (2011)** : Calvin Harris collaborated with Rihanna on this "soaring" track, which put Rihanna on top of the charts in 2011 during a period when "throbbing EDM was taking over the charts." "Rihanna was on top with her soaring Calvin Harris collaboration we found love." ← Hit Parade Music History and Music Trivia > Rolling in God’s Royal Uptown Road Edition. | https://my.slate.com/podcasts/feeds/hit-parade/
+**Where Have You Been (2012)** : This song was the second single from Rihanna's "Talk That Talk" album that Calvin Harris produced, and it managed to crack the top five in the summer of 2012. "However, a second Calvin Harris produced single Where Have You Been, eventually cracked the top 5 in the summer of 2012." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **EDM Figurehead** : Calvin Harris is recognized as one of the three major exponents of the new EDM generation, alongside Avicii and Swedish House Mafia, playing a significant role in the resurgence of the genre. He is specifically noted as a "great hit-maker." "era entre los otros dos grandes nombres, se han calvinharis y se ha su disjavos mafia, yo creo que son los tres grandes exponentes de esta nueva generación del EDM que resucitaban un poco la generación anterior." ← Music Radar Clan > Lo que la muerte de AVICII representa | https://www.youtube.com/watch?v=9W8u_1LE1ys&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← calvin-harris ← calvin-harris
@@ -13,6 +30,10 @@
 **Revival of Eurodance Formula (USA)** : Calvin Harris was one of the artists who found immense chart success in the United States by utilizing a musical structure highly reminiscent of Eurodance. His work played a part in the genre's unexpected resurgence. "...Calvin Harris..." ← La gran mentira detrás del Eurodance | https://www.youtube.com/watch?v=_F34L8wfrdo
 **Social Media Origin** : Calvin Harris is cited as an artist who rose to prominence and built his career through the use of social media platforms. "Calvin Harris." ← https://www.youtube.com/watch?v=nX8uAFDzDYM ← calvin-harris
 **Superstar DJs and EDM Movement** : Calvin Harris is recognized as an EDM hero, illustrating the cultural shift where electronic dance music and its laptop-based performers attracted massive attendances at events across the globe, becoming a major competitor to rock. "The big heroes weren't dudes with guitars that were people with laptops, Swedish house mafia, David Guetta, dead mouse, of itchy, Calvin Harris, Skrillex, tens of thousands of people attended their gigs and countries all over the world." ← https://www.youtube.com/watch?v=5Y6nHw5xx88 ← calvin-harris
+**Scottish Origin and European Sensation** : Calvin Harris is described as a Scottish DJ and record producer who achieved sensation status in the UK and across Europe. "In 2011, while Rihanna was on tour, her opening act was Calvin Harris, a Scottish DJ and record producer who'd become a sensation in the UK and across Europe." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Evolution as a Performer and Producer** : Harris began his career singing on his own tracks but eventually achieved enough success to invite established hitmakers like Ne-Yo or Kelis to provide vocals for his songs. "Harris started out singing on his tracks, but eventually he got big enough to invite established hitmakers like Nio or Kaleis to sing for him." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Specialization in Euphoric Club Music** : Harris specialized in creating euphoric club music, characterized by "big rubbery electronic bass drops and cheeky song titles." This style was gaining popularity at dance music festivals and on the charts. "Harris specialized in the kind of euphoric club music that was taking off at Dance Music festivals as well as the charts." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Taylor Swift as Songwriter** : His then-girlfriend, Taylor Swift, secretly wrote the song "This Is What You Came For" under the pseudo-Scandinavian pseudonym Nils Sjöberg. "It was written by none other than Taylor Swift, Harris's then girlfriend. Under the pseudo Scandinavian pseudonym, Nils Stoberg." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Feel So Close" — Billboard Year-End Hot 100** : #42, 2012. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

@@ -11,6 +11,7 @@
 - Wolfgang Flür
 
 ## genres
+- Crout Rock
 - Dance Music
 - Dance Pop
 - Disco
@@ -20,6 +21,7 @@
 - Electronic Pop
 - Experimental Music
 - German Electronic Music
+- German Synthesizer Music
 - Hip Hop
 - Industrial
 - Industrial Music
@@ -27,6 +29,7 @@
 - Kraurock
 - Krautrock
 - New Rock
+- Pop
 - Pop music
 - Pop music by machines/robots
 - Post-Punk
@@ -41,6 +44,7 @@
 ## concerts
 - **Recent Tour with 3D Projections** : Kraftwerk embarked on an incredible tour in recent years, featuring three-dimensional projections, which is viewed as a modern reinterpretation of historical music and audiovisual projects. "Esa increíble gira que ha hecho los últimos años Crabwork con proyectiones en tres dimensiones, es una reinterpretación de lo que en su día fueron estos proyectos en música y proyectos audiovisuales."
 - Liverpool Empire (September 11, 1975)
+- Rock and Roll Hall of Fame induction ceremony (2021)
 
 ## instruments
 - ARP Odyssey
@@ -68,6 +72,7 @@
 **Computer World (1981)** : This album was a futuristic conceptual work that accurately predicted the omnipresence of computing in daily life, anticipating digital communications after earlier albums explored terrestrial ones. It gained significant popularity in US ghettos and showcased Kraftwerk's continued leadership in electronic music, even as other electronic bands emerged. "En 1981 lanzaron Computer World, una obra conceptual futurista que predijo la omnipresencia de la informática en la vida cotidiana." ← Por qué KRAFTWERK es la banda más influyente de la historia？ | https://www.youtube.com/watch?v=wWOBez9Cqhs
 **Computer World (1981)** : Released in 1981, this record explored the rise of the computer within society, making amazingly prescient observations. Notably, the album came out the same year IBM introduced the very first personal computer. "The record explored the rise of the computer within society, and was amazingly prescient in its observations." ← https://www.youtube.com/watch?v=Dm5N6yDRxXQ ← kraftwerk
 **Computer World (1981)** : This album is highlighted as the culmination of the progressive sound change initiated by Carl Bartons, characterized by the increased use of "canned sounds" and loops. These sonic elements became characteristic of Craguer with Carl Bartons' influence. "el mando así o el en Computer World." ← Music Radar Clan > Karl Bartos. Una importante influencia en la sombra | https://www.youtube.com/watch?v=ljViTcVjdfQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← craguer
+**Computer World (1981)** : This 1981 album by the German innovators Kraftwerk is regarded as a "proto-electro" work, laying foundational synth-based innovations for the Electro genre. "The German innovator's 1981 album Computer World is considered a kind of proto-electro." ← Hit Parade Music History and Music Trivia > Point of No Return Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Electric Café (1986)** : Released after a five-year hiatus, this album continued to explore sequencers, drum machines, and electronic textures. However, it did not achieve the same impact as their previous works, as the electronic music scene had become more democratized, with new artists and genres gaining prominence in popularity and innovation. "no tuvo el mismo impacto que esos álbumes anteriores." ← Por qué KRAFTWERK es la banda más influyente de la historia？ | https://www.youtube.com/watch?v=wWOBez9Cqhs
 **The Man-Machine (1978)** : Considered by many electronic music scholars as the first "Techno" album in its modern sense, "Man-Machine" demonstrates a radical shift in Kraftwerk's style, moving from melody-focused synthesizer work to complex sampling and sequencing, with modern techno still resembling it significantly. "Para muchos estudiosos de la electrónica de man-machine grabbar es el primer álbum de música tecnotálico como lo conocemos." ← Music Radar Clan > De KRAFTWERK al TECHNO. Cómo se sentaron las bases del Techno | https://www.youtube.com/watch?v=MIG5FWLHOL4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← kraftwerk ← kraftwerk
 **The Man-Machine (1978)** : By 1978, when Kraftwerk released "The Model" (from The Man-Machine album), the band had been experimenting with synthesizer technology for approximately five years, leading to best-selling albums and hit songs on international charts. Their distinctive sound, characterized by a robotic, cold, artificial, emotionally sterile, and intense vibe, fascinated artists like David Bowie and significantly influenced the emergence of Technopop. "At the time, craft work released the model in 1978. They'd been experimenting with synthesizer technology for about five years." ← https://www.youtube.com/watch?v=5PJRCC6EwUY ← kraftwerk
@@ -89,6 +94,7 @@
 ## songs
 **Airwaves (implicit)** : This song was played during a break in the discussion about the historical development of stereo sound. "This is called Airwaves." ← https://www.youtube.com/watch?v=cbSmBrhNACg ← kraftwerk ← kraftwerk
 **Autobahn (1974)** : The original version of this song was almost 23 minutes long, but its radio edit became a massive global hit. It was distinctive as an all-electronic song, marking a turning point where such music was no longer solely a curiosity, partly due to falling synth prices and the concurrent punk rock explosion. "The original version is almost 23 minutes long, but that radio edit turned into a huge hit all over the world." ← https://www.youtube.com/watch?v=0fQQubt9UTI ← kraftwerk
+**Autobahn (1975)** : This song, a musical tribute to the open road, represented the German synthesizer pioneers Kraftwerk's sole American Top 40 hit, reaching number 25 in early 1975. "German synthesizer Pioneers Croftvirk scored their only American top 40 hit in early 1975, with their celebration of the open road autoball, a number 25 hit." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Computer Love (1981)** : This track is from Kraftwerk's 1981 concept album *Computer World*. Coldplay later intentionally borrowed its melody line for their song "Talk" from the *X&Y* album, with Kraftwerk's approval. "Kraftwerk and Computer Love from their 1981 concept album Computer World." ← https://www.youtube.com/watch?v=Dm5N6yDRxXQ ← kraftwerk
 **Home Computer (1981)** : This song, released in 1981, was mentioned as an example of music related to technology. "It's from 1981. It's craft work and home computer." ← https://www.youtube.com/watch?v=v7DXXu_1fvM ← kraftwerk ← kraftwerk
 **The Model (1978)** : Released in 1978, this song was part of Kraftwerk's work that garnered international attention, helping to popularize electronic sounds. Its release followed about five years of the band's experimentation with synthesizer technology, contributing to their reputation and influencing subsequent artists with its distinct, somewhat cold and artificial aesthetic. "This is from 1978. She's a modern and she's looking good. I'd like to take a home that's on the stove." ← https://www.youtube.com/watch?v=5PJRCC6EwUY ← kraftwerk
@@ -98,6 +104,9 @@
 **Showroom Dummies (1978)** : A track from "The Man-Machine" album, it is cited as one of the dance-pop hits that emerged from Kraftwerk's works, showcasing their ability to craft simple, memorable melodies and mechanical grooves into highly bailable and popular electronic music. "funcionó nindos del Dance Pop como Translíope Express, showroom dumis, de model, de robots, Crafwerke había logrado lo que muchas artistas llevaban años señando." ← Por qué KRAFTWERK es la banda más influyente de la historia？ | https://www.youtube.com/watch?v=wWOBez9Cqhs
 **Tour de France (1983)** : This single, released in 1983, was a demonstration of the band's love for cycling and was well-received upon its release. It showcased their continued exploration of electronic sounds and themes, despite a looming five-year hiatus. "En 1983 lanzaron el single Tour de France, donde plasvaron su amor por el ciclismo, fue muy bien recibido." ← Por qué KRAFTWERK es la banda más influyente de la historia？ | https://www.youtube.com/watch?v=wWOBez9Cqhs
 **Trans-Europe Express (1977)** : A sample from this song was notably used by Afrika Bambaataa in his highly influential 1982 track "Planet Rock." This use of sampling demonstrated Kraftwerk's lasting impact on genres like hip hop and electro. "and note the sample from craft works trans-Europe Express." ← https://www.youtube.com/watch?v=OiqdZfxdBP0 ← kraftwerk
+**Trans-Europe Express (1977)** : This 1977 track by the German electronic Crout Rockers Kraftwerk provided the sample that Afrika Bambaataa "utterly transformed" into his pioneering 1982 electro-rap smash "Planet Rock." It exemplifies the profound influence of electronic music on early hip-hop. "A sample from 1977's Trans-Europe Express by German Electronic Crout Lockers Craftvirt." ← Hit Parade Music History and Music Trivia > Hit Parade - The Def Jams Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Trans-Europe Express (1977)** : This song was interpolated into Afrika Bambaataa's "Planet Rock," a seminal Electro track, demonstrating its influence on early R&B, rap, and dance production. "Built out of an interpolation of Croftvirk's Trans-Europe Express." ← Hit Parade Music History and Music Trivia > Point of No Return Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Trans-Europe Express (1978)** : This track, which peaked at number 67, did not initially sound like an obvious hit in 1978, but within just a couple of years, much of pop music, including artists like Eurythmics, Gary Numan, and The Human League, as well as first-wave hip-hop like Afrika Bambaataa's "Planet Rock," began to sound like Kraftwerk. "Craft Verk's Trans-Europe Express peaked at number 67. But within just a couple of years, so much of pop music sounded like Croft Verk, including Eurythmics or Gary Newman or the Human League." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Uranium** : A choral effect from Kraftwerk's song "Uranium" was sampled by New Order and incorporated into their seminal track "Blue Monday." "They sampled a choral effect from a craftwork song called Uranium..." ← https://www.youtube.com/watch?v=dablAKDOOV0 ← kraftwerk ← kraftwerk
 
 ## curiosities
@@ -201,6 +210,11 @@
 **Founding Members and Lineup Changes** : Craguer was founded by Sonral and Florian. The other two members of the band changed relatively often throughout the group's history, with Carl Bartons being the only person to become a true third member for a significant period. "Craguer es un grupo fundado por dos personas de Sonral y Florian y los otros dos miembros han cambiado relativamente a menudo a lo largo de la historia del grupo." ← Music Radar Clan > Karl Bartos. Una importante influencia en la sombra | https://www.youtube.com/watch?v=ljViTcVjdfQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← craguer
 **Autobiography of a Classic Member** : A book detailing the life of one of the members of Krabwork's classic lineup is currently being read and found very interesting. "además está siendo muy interesante." ← Music Radar Clan > Pink Floyd： Tras los pasos de Syd Barrett | https://www.youtube.com/watch?v=JcqxaWI1vVs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← krabwork
 **Pioneers of Electronic Music** : Kraftwerk was one of the artists whose pioneering electronic music was championed by David Bowie and Brian Eno in the late 1970s. "who championed the electronic music being pioneered by the likes of Croftvark and Donna Summer." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
+**Rock and Roll Hall of Fame Induction (2021)** : Kraftwerk was inducted into the Rock and Roll Hall of Fame in 2021, with Pharrell Williams serving as their inductor. Williams credited them with influencing millions of hip-hop fans and acknowledged the impact of their "infectious beats" on his own music. "Welcome craft work to the Rock and Roll Hall of Fame." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on Pop and Hip Hop (Late 1970s - Early 1980s)** : Kraftwerk's sound, initially not perceived as mainstream, became profoundly influential, shaping much of pop music within a few years of "Trans-Europe Express" release in 1978. Their work also impacted first-wave hip hop, notably Afrika Bambaataa's "Planet Rock," and directly influenced artists like Eurythmics, Gary Numan, and The Human League. "Among the artists influenced by Croft Verk was a young Ferel Williams. He told us so himself in 2021." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on Donna Summer's "I Feel Love"** : The song "I Feel Love" by Donna Summer, widely credited with inventing electronic dance music, took inspiration from contemporaneous electro rock bands like Kraftwerk. "While it took inspiration from contemporaneous electro rock bands like Croftberg [Kraftwerk]." ← Hit Parade Music History and Music Trivia > I Got Five on It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on Sir Mix-A-Lot's "Baby Got Back"** : Sir Mix-A-Lot admitted that his original recording of "Baby Got Back" was indebted to the minimal synth sound of German electronic pioneers Kraftwerk, although it did not involve a direct sample. "By Mixelot's own admission, his original recording was indebted to, though not a sample of, the minimal synth sound of German electronic pioneers Krafwerk." ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on "Heart of Glass"** : Blondie's "Heart of Glass" was intended to have a synth-driven Euro disco beat "meant to sound like Croftwerk," even though it ultimately sounded like "glittering disco" and "massively hooky pop." "giving it a synth-driven Euro disco beat that was meant to sound like Croftwerk." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Grammy Lifetime Achievement Award (2014)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q935843
@@ -214,15 +228,15 @@
 **"Autobahn" (1974) — 1001 Albums You Must Hear Before You Die** : #306, 7.0/10 Scaruffi.
 **"Trans Europa Express" (1977) — 1001 Albums You Must Hear Before You Die** : #368, 94 AOTY.
 **"Die Mensch·Maschine" (1978) — 1001 Albums You Must Hear Before You Die** : #394.
-**"Die Mensch·Maschine" (1978) — AOTY Must Hear 1970s** : #38. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Trans Europa Express" (1977) — AOTY Must Hear 1970s** : #63, 94 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Autobahn" (1974) — AOTY Must Hear 1970s** : #114, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Computerwelt" (1981) — AOTY Must Hear 1980s** : #172, 75 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Trans Europa Express" (1977) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #238, 94 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"2" (1971) — Scaruffi 1970s** : #52, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Autobahn" (1974) — Scaruffi 1970s** : #382, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Kraftwerk" (1970) — Scaruffi 1970s** : #383, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Ralf & Florian" (1973) — Scaruffi 1970s** : #384, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Trans Europa Express" (1977) — Pitchfork: The 100 Best Albums of the 1970s** : #6, 94 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"Die Mensch·Maschine" (1978) — Pitchfork: The 100 Best Albums of the 1970s** : #92. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"Computerwelt" (1981) — Pitchfork: The 200 Best Albums of the 1980s** : #18, 75 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"Die Mensch·Maschine" (1978) — AOTY Must Hear 1970s** : #38.
+**"Trans Europa Express" (1977) — AOTY Must Hear 1970s** : #63, 94 AOTY.
+**"Autobahn" (1974) — AOTY Must Hear 1970s** : #114, 7.0/10 Scaruffi.
+**"Computerwelt" (1981) — AOTY Must Hear 1980s** : #172, 75 AOTY.
+**"Trans Europa Express" (1977) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #238, 94 AOTY.
+**"2" (1971) — Scaruffi 1970s** : #52, 8.0/10 Scaruffi.
+**"Autobahn" (1974) — Scaruffi 1970s** : #382, 7.0/10 Scaruffi.
+**"Kraftwerk" (1970) — Scaruffi 1970s** : #383, 7.0/10 Scaruffi.
+**"Ralf & Florian" (1973) — Scaruffi 1970s** : #384, 7.0/10 Scaruffi.
+**"Trans Europa Express" (1977) — Pitchfork: The 100 Best Albums of the 1970s** : #6, 94 AOTY.
+**"Die Mensch·Maschine" (1978) — Pitchfork: The 100 Best Albums of the 1970s** : #92.
+**"Computerwelt" (1981) — Pitchfork: The 200 Best Albums of the 1980s** : #18, 75 AOTY.

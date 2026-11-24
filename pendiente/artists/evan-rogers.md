@@ -1,0 +1,10 @@
+# artist - Evan Rogers
+
+## member of
+- Rhythm Syndicate
+
+## curiosities
+**Member of Rhythm Syndicate** : Evan Rogers was a member of Rhythm Syndicate, a short-lived white funk boy band from the early 1990s that scored a number two hit on the Hot 100 with "P.A.S.S.I.O.N." in 1991. "Evan Rogers and Carl Sturken were members of a short-lived early 90s white funk boy band called Rhythm Syndicate." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Co-founder of Syndicated Rhythm** : After Rhythm Syndicate disbanded, Rogers and Carl Sturken co-founded their own production company, Syndicated Rhythm, to write and produce songs for other pop acts. "After Rhythm Syndicate broke up, Rogers and Sturken stayed in the music business, forming their own syndicated rhythm production company to produce and write songs for other pop acts." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Discovery and Management of Rihanna** : While vacationing in Barbados in 2003, Rogers and Carl Sturken discovered 15-year-old Robin Fenty (Rihanna) within a teen singing trio called Contrast. They signed her to a management contract, convinced her to use her middle name, and brought her to America to record demos, eventually shepherding her to major label executives. "While vacationing in Barbados in 2003, Rogers and Sturken were introduced to a teen singing trio who called themselves contrast." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Co-writer of SOS** : Evan Rogers was one of the songwriters for Rihanna's number one hit "SOS," collaborating with J.R. Rotem and Evan "Kid" Bogart on the lyrics. "The lyrics by songwriters and music biz journeyman J.R. Rotem and Evan Kid Bogart quoted several well-known 80s pop hits" ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/

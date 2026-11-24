@@ -2,6 +2,7 @@
 
 ## member of
 - Guns N' Roses
+- Lenny Kravitz
 - The Conspirators
 - Velvet Revolver
 

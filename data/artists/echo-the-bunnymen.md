@@ -25,9 +25,10 @@
 **Shift to Human Drummers** : As the band developed, the Korg Mini Pops Jr. (affectionately called "poor little Echo") was replaced by a human drummer. This human drummer then coexisted with another drum machine, the Roland TR-77. "But once the band got good enough, poor little Echo was ditched in favor of a human drummer, who by the way coexisted with another unit called the Roland TR-77." ← Ongoing History of New Music > The History of the Drum Machine | https://www.youtube.com/watch?v=dablAKDOOV0&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Sire Records Signing** : Echo & the Bunnymen were signed by Seymour Stein to Sire Records, demonstrating his interest in new post-punk music from the UK and Ireland. Sire Records leveraged the "New Wave" term for marketing these bands in North America. "echoing the bunny-man." ← Ongoing History of New Music > Alt Rock Revivals Part 5： New Wave | https://www.youtube.com/watch?v=9CNNsqXiL6U&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Managed by Bill Drummond** : In their early days, Echo and the Bunnyman were managed by Bill Drummond, who would later co-found The KLF. "Drummond used to be the manager of Echo and the Bunnyman in the early days." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← echo-and-the-bunnyman
+**Featured on "Pretty in Pink" Soundtrack (1986)** : Echo & the Bunnymen were among the edgier acts featured on the "Pretty in Pink" soundtrack, alongside The Smiths and New Order. "OMD's Love Lorn Track, a number four hit in the spring of 86, was joined on the album by much edgier material, from the likes of Echo and the Bunny, The Smiths, and New Order." ← Hit Parade Music History and Music Trivia > Lost and Lonely Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Porcupine" (1983) — 1001 Albums You Must Hear Before You Die** : #523.
 **"Ocean Rain" (1984) — 1001 Albums You Must Hear Before You Die** : #540.
-**"Ocean Rain" (1984) — Scaruffi 1980s** : #385. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Ocean Rain" (1984) — Pitchfork: The 200 Best Albums of the 1980s** : #131. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"Ocean Rain" (1984) — Scaruffi 1980s** : #385.
+**"Ocean Rain" (1984) — Pitchfork: The 200 Best Albums of the 1980s** : #131.

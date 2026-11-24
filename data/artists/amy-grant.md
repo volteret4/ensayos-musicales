@@ -25,4 +25,4 @@
 **"I Will Remember You" — Billboard Year-End Hot 100** : #96, 1992. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Heart in Motion" (1991) — Grammy Award: Album of the Year nominees** : #1992. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
+**"Heart in Motion" (1991) — Grammy Award: Album of the Year nominees** : #1992.

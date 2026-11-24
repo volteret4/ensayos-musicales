@@ -1,5 +1,8 @@
 # artist - William S. Burroughs
 
+## albums
+**Naked Lunch (Novel)** : This Beat Generation novel by William S. Burroughs contained a reference to a dildo named "Steely Dan," which inspired the band's name. "William S. Burrows beat generation novel Naked Lunch." ← Hit Parade Music History and Music Trivia > I Got Five on It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **Chelsea Hotel Resident** : Poet William Burroughs was a resident at the Chelsea Hotel, a famous haunt for artists, writers, and various "colorful characters." "poets William Burrow's." ← https://www.youtube.com/watch?v=LE4YenwmeXM ← william-burroughs ← william-burroughs
 **Collaboration with Kurt Cobain** : In 1992, William Burroughs met and collaborated with Kurt Cobain on a spoken word piece titled "The Priest, they called him," released in 1993. Burroughs read one of his stories, accompanied by Kurt Cobain's guitar sounds. Burroughs was reportedly very pleased with the recording. "That's William Burroughs and Kurt Cobain on guitar. From 1993, with a piece called The Priest, they called him." ← https://www.youtube.com/watch?v=sQrbNUDZuOQ ← william-burroughs ← william-burroughs

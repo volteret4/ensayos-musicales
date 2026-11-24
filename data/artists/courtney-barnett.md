@@ -1,6 +1,7 @@
 # artist - Courtney Barnett
 
 ## genres
+- Alternative rock
 - Singer-songwriter
 
 ## albums
@@ -22,6 +23,7 @@
 **Deadpan Singing Style** : Courtney Barnett, a singer-songwriter from Melbourne, is known for her deadpan singing style. This delivery can often mask the deeper, weirder, and more complex lyrical content she presents, requiring careful listening to fully appreciate her artistry. "Her singing style is pretty deadpan, and you may not pay attention to what she's actually saying." ← https://www.youtube.com/watch?v=rEawe_1Fqf0 ← courtney-barnett
 **Melbourne Singer-Songwriter** : Courtney Barnett is a singer-songwriter hailing from Melbourne. She is described as being "a lot weirder than you might first think." "This is a singer-songwriter from Melbourne, who is a lot weirder than you might first think." ← https://www.youtube.com/watch?v=clPuV7ezrIc ← courtney-barnett
 **Unexpected Lyrical Themes** : Courtney Barnett often embeds dark or bizarre narratives within seemingly cheerful songs. A prime example is "Avant Gardener," which, despite its happy melody, describes someone experiencing anaphylactic shock due to a gardening accident. "But if you listen to the words, you'll realize that it's about someone going into anaphylactic shock as the result of a bizarre gardening accident." ← https://www.youtube.com/watch?v=clPuV7ezrIc ← courtney-barnett
+**Contemporary Alternative Rock Artist - Modern Lilith Fair Candidate** : Courtney Barnett is identified as a notable artist in the world of alternative rock, suggested as a potential booking for a modern Lilith Fair lineup. "in the world of alternative rock you have people like Courtney Barnett." ← Hit Parade Music History and Music Trivia > The Bridge - Farewell, Lilith Fan | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Australian Music Prize** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q4824441
@@ -36,7 +38,7 @@
 **ARIA Award for Best Rock Album (2018)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17001469
 
 ## lists
-**"Tell Me How You Really Feel" (2018) — AOTY Must Hear 2010s** : #181, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Sometimes I Sit and Think and Sometimes I Just Sit" (2015) — AOTY Must Hear 2010s** : #519, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Sometimes I Sit and Think and Sometimes I Just Sit" (2015) — Scaruffi 2010s** : #145, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Sometimes I Sit and Think and Sometimes I Just Sit" (2015) — Pitchfork: The 200 Best Albums of the 2010s** : #67, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
+**"Tell Me How You Really Feel" (2018) — AOTY Must Hear 2010s** : #181, 80 AOTY.
+**"Sometimes I Sit and Think and Sometimes I Just Sit" (2015) — AOTY Must Hear 2010s** : #519, 7.0/10 Scaruffi.
+**"Sometimes I Sit and Think and Sometimes I Just Sit" (2015) — Scaruffi 2010s** : #145, 7.0/10 Scaruffi.
+**"Sometimes I Sit and Think and Sometimes I Just Sit" (2015) — Pitchfork: The 200 Best Albums of the 2010s** : #67, 7.0/10 Scaruffi.

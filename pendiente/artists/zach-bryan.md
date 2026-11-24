@@ -14,7 +14,7 @@
 **"Pink Skies" — Billboard Year-End Hot 100** : #30, 2024. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"American Heartbreak" (2022) — Scaruffi 2020s** : #78, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"American Heartbreak" (2022) — Sputnikmusic Best Albums 2022** : #199, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2022/
-**"Boys of Faith" (2023) — Sputnikmusic Best Albums 2023** : #21, 3.93 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2023/
-**"With Heaven On Top" (2026) — Sputnikmusic Best Albums 2026** : #54, 3.38 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2026/
+**"American Heartbreak" (2022) — Scaruffi 2020s** : #78, 7.0/10 Scaruffi.
+**"American Heartbreak" (2022) — Sputnikmusic Best Albums 2022** : #199, 7.0/10 Scaruffi.
+**"Boys of Faith" (2023) — Sputnikmusic Best Albums 2023** : #21, 3.93 Sputnik.
+**"With Heaven On Top" (2026) — Sputnikmusic Best Albums 2026** : #54, 3.38 Sputnik.

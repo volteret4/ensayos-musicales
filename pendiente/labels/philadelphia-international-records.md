@@ -10,6 +10,7 @@
 **Independent Label Challenges** : PIR's remarkable success was particularly notable given the inherent difficulties faced by independent record labels to survive and flourish, especially in a 1970 market where half of the pop music was controlled by just five labels and the vast majority of singles and albums failed to make a profit. "It was very difficult for an independent record label to survive let alone thrive." ← For the Record - The 70s > Ep. 37 - Philly Soul and the Sound of the 70s | https://seventies.libsyn.com/ep-37-philly-soul-and-the-sound-of-the-70s
 **Shift in Message Music Strategy** : As PIR solidified its reputation as an established "hit factory," it began to release fewer songs that were overtly message-driven, such as "The Love I Lost" or "When Will I See You Again," suggesting a possible evolution in its thematic focus or a more subtle integration of social commentary. "Nevertheless, as PIR became an established hit factory, they released fewer songs like The Love I Lost or When Will I See You Again." ← For the Record - The 70s > Ep. 37 - Philly Soul and the Sound of the 70s | https://seventies.libsyn.com/ep-37-philly-soul-and-the-sound-of-the-70s
 **Significant Black-Owned Business** : Philadelphia International Records evolved into one of the five largest Black-owned businesses in America, a remarkable achievement that occurred within the complex social and political landscape of the 1970s, following the civil rights legislation of the 1960s. "Philadelphia International Records became one of the five biggest black owned businesses in America." ← For the Record - The 70s > Ep. 37 - Philly Soul and the Sound of the 70s | https://seventies.libsyn.com/ep-37-philly-soul-and-the-sound-of-the-70s
+**Philly Soul Association** : Philadelphia International Records is associated with the "Philly Soul Sound" and producers Kenny Gamble and Leon Huff, who worked with the studio group MFSB on "TSOP (The Sound of Philadelphia)." "the studio group associated with Philadelphia International Records, and the Philly Soul Sound of producers Kenny Gamble and Leon Huff" ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Billy Paul
@@ -20,4 +21,3 @@
 - McFadden & Whitehead
 - The O'Jays
 - The Three Degrees
-

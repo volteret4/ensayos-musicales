@@ -76,14 +76,14 @@
 **Shortlist Music Prize (2007) — Untrue** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q7502207
 
 ## lists
-**"Untrue" (2007) — AOTY Must Hear 2000s** : #112, 92 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Rival Dealer" (2013) — AOTY Must Hear 2010s** : #632, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Kindred" (2012) — AOTY Must Hear 2010s** : #795, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Burial" (2006) — Scaruffi 2000s** : #37, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Kindred" (2012) — Scaruffi 2010s** : #365, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Rival Dealer" (2013) — Pitchfork: The 200 Best Albums of the 2010s** : #83, 80 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"Untrue" (2007) — Resident Advisor: The Best Electronic Records of 2000-25** : #1, 92 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/256f2672-a51d-4824-a07f-ae79c5840268
-**"Tunes 2011 to 2019" (2019) — Resident Advisor: The Best Electronic Records of 2000-25** : #64. ← musicbrainz | https://beta.musicbrainz.org/series/256f2672-a51d-4824-a07f-ae79c5840268
-**"Untrue" (2007) — Sputnikmusic Best Albums 2007** : #12, 92 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2007/
-**"Kindred" (2012) — Sputnikmusic Best Albums 2012** : #12, 7.5/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2012/
-**"Truant/Rough Sleeper" (2012) — Sputnikmusic Best Albums 2012** : #116, 3.98 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2012/
+**"Untrue" (2007) — AOTY Must Hear 2000s** : #112, 92 AOTY.
+**"Rival Dealer" (2013) — AOTY Must Hear 2010s** : #632, 80 AOTY.
+**"Kindred" (2012) — AOTY Must Hear 2010s** : #795, 7.5/10 Scaruffi.
+**"Burial" (2006) — Scaruffi 2000s** : #37, 7.5/10 Scaruffi.
+**"Kindred" (2012) — Scaruffi 2010s** : #365, 7.5/10 Scaruffi.
+**"Rival Dealer" (2013) — Pitchfork: The 200 Best Albums of the 2010s** : #83, 80 AOTY.
+**"Untrue" (2007) — Resident Advisor: The Best Electronic Records of 2000-25** : #1, 92 AOTY.
+**"Tunes 2011 to 2019" (2019) — Resident Advisor: The Best Electronic Records of 2000-25** : #64.
+**"Untrue" (2007) — Sputnikmusic Best Albums 2007** : #12, 92 AOTY.
+**"Kindred" (2012) — Sputnikmusic Best Albums 2012** : #12, 7.5/10 Scaruffi.
+**"Truant/Rough Sleeper" (2012) — Sputnikmusic Best Albums 2012** : #116, 3.98 Sputnik.

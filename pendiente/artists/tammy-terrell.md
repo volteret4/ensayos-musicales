@@ -1,0 +1,5 @@
+# artist - Tammy Terrell
+
+## songs
+**Ain't No Mountain High Enough** : This song was originally recorded by Marvin Gaye and Tammy Terrell. Diana Ross later released a radical reimagining of it as her first post-Supremes solo single in 1970. "Her remake of Marvin Gaye and Tammy Turell's Ain't No Mountain High enough was a radical reimagining by songwriters Nick Ashford and Valerie Simpson with Ross speaking more of the lyrics than she sang." ← Hit Parade Music History and Music Trivia > The Bad Moon on the Rise Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**You're All I Need to Get By** : This R&B classic, originally a duet with Marvin Gaye, had its chorus famously reinterpreted by Mary J. Blige in her 1995 collaboration with Method Man, "I'll Be There for You/You're All I Need to Get By." "The Marvin Gaye Tammy Tarell R&B classic, you're all I need to get by." ← Hit Parade Music History and Music Trivia > Song(s) of the Summer Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/

@@ -10,3 +10,6 @@
 ## artists
 - James Blake
 - Donna Summer
+- Madonna
+- Darude
+- Tiësto

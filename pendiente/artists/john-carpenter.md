@@ -17,7 +17,7 @@
 **The Thing (1982) - Morricone Collaboration and Thematic Resemblance** : For *The Thing* (1982), un carpeto had a larger budget and hired reconio Morricone to compose the score. Despite this, un carpeto was not entirely pleased with the final result. Only the film's main theme, which closely resembled un carpeto's own synthesized music, was predominantly used from Morricone's composition. "Para la cosa, Carpenter dispuso de más presupuesto y se permitió el lujo de contratar a Eniomorricone, aunque el resultado no fue del todo de la grado del director." ← Las Bandas Sonoras Más Atípicas y Revolucionarias del Cine | https://www.youtube.com/watch?v=fiSrdUP3YXY
 
 ## lists
-**"Halloween 20th Anniversary Edition" (1998) — Sputnikmusic Best Albums 1998** : #21, 4.27 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1998/
-**"Halloween (2018)" (2018) — Sputnikmusic Best Albums 2018** : #117, 3.89 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2018/
-**"Halloween Kills" (2021) — Sputnikmusic Best Albums 2021** : #42, 3.9 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2021/
-**"Lost Themes III: Alive After Death" (2021) — Sputnikmusic Best Albums 2021** : #46, 3.9 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2021/
+**"Halloween 20th Anniversary Edition" (1998) — Sputnikmusic Best Albums 1998** : #21, 4.27 Sputnik.
+**"Halloween (2018)" (2018) — Sputnikmusic Best Albums 2018** : #117, 3.89 Sputnik.
+**"Halloween Kills" (2021) — Sputnikmusic Best Albums 2021** : #42, 3.9 Sputnik.
+**"Lost Themes III: Alive After Death" (2021) — Sputnikmusic Best Albums 2021** : #46, 3.9 Sputnik.

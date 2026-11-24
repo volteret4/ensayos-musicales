@@ -13,7 +13,7 @@
 **"Middle Child" — Billboard Year-End Hot 100** : #25, 2019. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Friday Night Lights" (2010) — AOTY Must Hear 2010s** : #887, 79 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"The Fall-Off" (2026) — AOTY Must Hear 2020s** : #7, 69 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"2014 Forest Hills Drive (10 Year Anniversary Edition)" (2024) — AOTY Must Hear 2020s** : #142, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"The Fall-Off" (2026) — Sputnikmusic Best Albums 2026** : #67, 69 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2026/
+**"Friday Night Lights" (2010) — AOTY Must Hear 2010s** : #887, 79 AOTY.
+**"The Fall-Off" (2026) — AOTY Must Hear 2020s** : #7, 69 AOTY.
+**"2014 Forest Hills Drive (10 Year Anniversary Edition)" (2024) — AOTY Must Hear 2020s** : #142, 83 AOTY.
+**"The Fall-Off" (2026) — Sputnikmusic Best Albums 2026** : #67, 69 AOTY.

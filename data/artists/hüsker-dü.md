@@ -10,9 +10,11 @@
 - Hardcore
 - Hardcore Punk
 - Heavy Metal
+- Melodic Punk
 - Metal
 - Pop
 - Pop Song
+- post-punk
 - Power Pop
 - Punk
 - Punk metal
@@ -76,8 +78,10 @@
 **Major Label Signing and Creative Control** : The Minneapolis hardcore band signed with Warner Brothers, making this move for the same reasons as R.E.M.: the economic unsustainability of being an indie band, the desire for a longer career, reliable payment, downtime between tours, and broader audience reach. "The economics of being an indie band just didn't work for them anymore. They couldn't afford to stay indie." ← https://www.youtube.com/watch?v=DYtsWfguqGo ← husker-dü
 **Sound Blending Speed with Melody** : Their music was characterized by its loud and fast nature, yet it consciously incorporated elements of basic pop songs. Melody and traditional song structure were given equal importance alongside the raw power and volume, pushing the boundaries of what was considered punk. "And although their music was loud and fast, the songs incorporated elements of a basic pop song." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← husker-dü
 **Unconventional Stage Appearance** : In contrast to the typical punk aesthetic, all three members of Husker Dü appeared on stage in street clothes, eschewing common punk fashion like leather jackets or mohawk haircuts. This choice underscored their independent spirit and focus on musical substance over image. "All three members appeared on stage in street clothes." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← husker-dü
+**Evolution to Melodic Punk** : Minneapolis band Hüsker Dü transitioned from hardcore punk toward more melodic songs midway through their career, although they did not achieve American radio hits or best-selling LPs. "And Minneapolis's Husker Dude, who moved from hardcore punk toward more melodic songs midway through their career." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Post-Punk Predecessor Without Chart Hits** : Husker Du is mentioned as an American post-punk band that, like other predecessors, had not achieved actual chart hits, highlighting how Nirvana's chart success in 1991 was an anomaly for bands of their style. "None of the American punk or post punk predecessors that laid the groundwork for Nirvana had had actual chart hits. Not Black Flag or Husker Dude or Sonic Youth or even Boston's Pixies..." ← Hit Parade Music History and Music Trivia > Smells Like Christmas Spirit, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Warehouse: Songs and Stories" (1987) — 1001 Albums You Must Hear Before You Die** : #594.
-**"New Day Rising" (1985) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #428. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"New Day Rising" (1985) — Scaruffi 1980s** : #62. ← Scaruffi | https://scaruffi.com/music/best.html
+**"New Day Rising" (1985) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #428.
+**"New Day Rising" (1985) — Scaruffi 1980s** : #62.

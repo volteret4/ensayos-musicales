@@ -5,6 +5,7 @@
 - Camila Cabello
 - Dinah Jane
 - Lauren Jauregui
+- Normani
 - Normani Kordei
 
 ## songs

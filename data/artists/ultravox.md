@@ -16,6 +16,7 @@
 ## songs
 **Saturday Night in the City of the Dead** : A song from Ultravox's gloomy early incarnation, contributing to the dark musical landscape that fed into the nascent goth scene. "making songs like Saturday Night in the City of the Dead" ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← ultravox
 **Vienna (1980)** : This 1980 release is considered a central song to the entire New Romantic movement, an offshoot of the original Technopop era. "It's a 1980 release from Ultravox. It's called Vienna. ... Vienna from Ultravox, an important track of the New Romantic movement, one of the offshoots from the original Tecno Pop era." ← https://www.youtube.com/watch?v=1KF5MwJVYng ← ultravox
+**Vienna (1980)** : This song is described as a "stately British smash," for which Midge Ure of Ultravox was famed. It contributed to Ure's recognition as a UK pop star, leading to his involvement in Band-Aid. "Midge Er of the Band Ultravox, famed for the stately British smash Viennese." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 **Vienna (1981)** : The title track from their 1981 album, "Vienna," became a huge hit in the UK and Europe and prominently features the modified Roland CR-78 drum machine, showcasing its unique sonic contributions. "We can hear that work in Vienna, the title track of Ultravox's 1981 album, and a huge hit in the UK and Europe." ← https://www.youtube.com/watch?v=dablAKDOOV0 ← ultravox ← ultravox
 **The Wild, the Beautiful, and the Damned** : Another song from Ultravox's early, gloomy period, reflecting the dark mood that would influence the development of goth music. "and the Wild, the Beautiful, and the Damned." ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← ultravox
 
@@ -30,6 +31,6 @@
 **"518" — NME Chart** : 21 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
 
 ## lists
-**"Ultravox" (1977) — Scaruffi 1970s** : #145, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Ha Ha Ha" (1977) — Scaruffi 1970s** : #541, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Vienna" (1980) — Scaruffi 1980s** : #774, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Ultravox" (1977) — Scaruffi 1970s** : #145, 7.5/10 Scaruffi.
+**"Ha Ha Ha" (1977) — Scaruffi 1970s** : #541, 7.0/10 Scaruffi.
+**"Vienna" (1980) — Scaruffi 1980s** : #774, 7.0/10 Scaruffi.

@@ -34,4 +34,4 @@
 **"Wonderful" — Billboard Year-End Hot 100** : #54, 2000. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"So Much For The Afterglow" (1997) — Scaruffi 1990s** : #661, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"So Much For The Afterglow" (1997) — Scaruffi 1990s** : #661, 7.0/10 Scaruffi.

@@ -9,4 +9,4 @@
 **Americana Award for Duo/Group of the Year (2020)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q96336843
 
 ## lists
-**"Black Pumas" (2019) — Grammy Award: Album of the Year nominees** : #2021. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
+**"Black Pumas" (2019) — Grammy Award: Album of the Year nominees** : #2021.

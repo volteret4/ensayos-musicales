@@ -1,6 +1,8 @@
 # artist - The Edge
 
 ## member of
+- Automatic Baby
+- Passengers
 - U2
 
 ## instruments

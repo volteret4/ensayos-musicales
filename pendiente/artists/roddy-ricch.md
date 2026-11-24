@@ -1,0 +1,14 @@
+# artist - Roddy Ricch
+
+## songs
+**The Box (2019)** : This song became a hit because of TikTok videos, highlighting the growing influence of social media platforms on chart success for recording artists. "Or even because of TikTok videos like Roddy Riches, The Box." ← Hit Parade Music History and Music Trivia > The White and Nerdy Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**The Box (2020)** : This TikTok-fueled hit spent 11 weeks at number one on the Hot 100 from January through March of 2020. Despite its strong chart performance, it did not take the year-end title and wound up third for the year, falling short of The Weeknd's "Blinding Lights" due to longevity. "His TikTok fueled hit The Box, which spent 11 weeks at number one from January through March." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**The Box (2020)** : This viral sensation by Roddy Ricch was nominated for Best Rap Song at the Grammy Awards, characterized as a sung rap track. "Roddy Rich's viral sensation The Box." ← Hit Parade Music History and Music Trivia > Say My Name, Say My Name, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**The Box (2020)** : A song by Roddy Ricch that reached number one, becoming a hit specifically because of TikTok videos. "Roddy Riches, The Box." ← Hit Parade Music History and Music Trivia > The White and Nerdy Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rockstar (2020)** : This duet with DaBaby spent seven weeks on top of the Hot 100 three months after "The Box," becoming the song of the summer in 2020 during a period marked by the pandemic and protests. It finished fifth for the year-end chart, falling short of "Blinding Lights." "And three months later, Rich's duet with DeBaby, Rockstar spent seven weeks on top and wound up the song of the summer in that sad, peak pandemic and protest years." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rockstar (2020)** : Roddy Ricch was featured on DaBaby's chart-topping 2020 Song of the Summer, "Rockstar," which was nominated for Best Rap Song and described as an oddly tender, sung rap track. "Debaybe's chart topping 2020 Song of the Summer, the oddly tender rock star, also with Roddy Rich." ← Hit Parade Music History and Music Trivia > Say My Name, Say My Name, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## charts
+**"The Box" — Billboard Year-End Hot 100** : #3, 2020. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"High Fashion" — Billboard Year-End Hot 100** : #40, 2020. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"Late at Night" — Billboard Year-End Hot 100** : #72, 2021. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

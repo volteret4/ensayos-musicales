@@ -28,4 +28,4 @@
 **Unimpressed by Robert Johnson's Originality** : When Bob Dylan played Robert Johnson's "King of the Delta Blues Singers" for him, Van Ronk was unimpressed by Johnson's musical originality, demonstrating to Dylan how Johnson had borrowed ideas from other artists like Skip James and Lee Roy Carr. "Musically, Johnson just didn't seem very original to Van Rung, who played Dylan records by Skip James, Lee Roy Car and others, showing Dylan where Johnson had picked up most of his musical ideas." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
 
 ## lists
-**"Folksinger" (1962) — Pitchfork: The 200 Best Albums of the 1960s** : #188. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Folksinger" (1962) — Pitchfork: The 200 Best Albums of the 1960s** : #188.

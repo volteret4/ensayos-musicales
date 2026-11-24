@@ -19,9 +19,10 @@
 **Living Her Songs** : Tammy Wynette stated in her memoir that she believed artists had to "live the songs" they sang, a sentiment reflected in her emotionally charged performances of tracks like "Stand By Your Man" and "D-I-V-O-R-C-E." Given the sadness and difficulties in her own life, this was seen as a deeply personal conviction. "Weinette wrote in her memoir, I believe you have to live the songs." ← For the Record - The 70s > Ep. 23 - Women of Country Music in the 70s | https://seventies.libsyn.com/023-country-women-72820-2-45-pm
 **Protest Against Country-Pop Crossover (1974)** : In 1974, Tammy Wynette and George Jones famously left the Country Music Association in protest over Olivia Newton-John's success and her Grammy win, viewing her as not "country enough" due to the blurring lines between country and pop. "this led to George Jones and Tammy Wynett leaving the Country Music Association in protest." ← For the Record - The 70s > Ep. 23 - Women of Country Music in the 70s | https://seventies.libsyn.com/023-country-women-72820-2-45-pm
 **Country Music Icon** : Tammy Wynette was a veteran female country vocalist nominated for Best Country Vocal Performance Female at the 1974 Grammys and CMA Female Vocalist of the Year, both of which she lost to Olivia Newton-John. She was also present at the protest meeting against Newton-John. "They included Tammy Weinett." ← Hit Parade Music History and Music Trivia > Country Roads and Summer Nights Edition Part 1 | https://shows.acast.com/hit-parade/episodes/698fd3ebd6c27a06bb92e1f2
+**Grammy Loss (1974)** : Tammy Wynette was nominated for the Grammy for Best Female Country Vocal in 1974 but lost to Olivia Newton-John in an awards show upset. "Newton John won the Grammy for best female country vocal in 1974 over Tammy Waimett." ← Hit Parade Music History and Music Trivia > Friends in Low Places, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"395" — NME Chart** : 14 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
 
 ## lists
-**"D-I-V-O-R-C-E" (1968) — Pitchfork: The 200 Best Albums of the 1960s** : #126. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"D-I-V-O-R-C-E" (1968) — Pitchfork: The 200 Best Albums of the 1960s** : #126.

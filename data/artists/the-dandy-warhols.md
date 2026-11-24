@@ -25,4 +25,4 @@
 
 ## lists
 **"…The Dandy Warhols Come Down" (1997) — 1001 Albums You Must Hear Before You Die** : #859.
-**"Dandys Rule OK" (1995) — Scaruffi 1990s** : #569, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Dandys Rule OK" (1995) — Scaruffi 1990s** : #569, 7.0/10 Scaruffi.

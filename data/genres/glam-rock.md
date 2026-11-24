@@ -33,6 +33,14 @@
 **Transition to Hair Metal** : By the late 1970s, glam rock began evolving into 80s hair metal, demonstrating that like many 70s genres, it did not die but was "reborn as something else." "By the late 70s Glam is on its way to becoming 80s hair metal." ← For the Record - The 70s > Ep. 26 - Starmen - Glam Rock of the 70s | https://seventies.libsyn.com/026-glam-11820-6-34-pm
 **Transition to Metal** : The song "Love is Like Oxygen" by Sweet is cited as an example of the transition of glam rock into metal, indicating a stylistic evolution within the band's career and the genre itself. "Love is like oxygen shows the transition of glam rock to metal." ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum
 **UK Dominance, US Influence** : Glam Rock dominated the UK charts in the first half of the 1970s, making "smaller ripples in America" but proving "very influential" in setting the stage for the next British invasion. "Glam Rock, which dominated the UK charts in the first half of the decade, made smaller ripples in America but proved very influential." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
+**T. Rex Influence** : The 70s glam rock sound of T. Rex was referenced as a "slinky homage" in Love and Rockets' single "So Alive." "a slinky homage to the sound of 70s glam rockers T. Rex." ← Hit Parade Music History and Music Trivia > Lost and Lonely Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mick Ronson as Producer** : Mick Ronson, a veteran of glam rock, produced Morrissey's 1992 hit "Tomorrow." "produced by Glam Rock veteran Mick Ronson, formerly of David Bowie's band." ← Hit Parade Music History and Music Trivia > Lost and Lonely Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Fluidity in the 70s** : Glam Rock was one of two 1970s movements that contributed to popular music becoming more fluid in gender presentation and sexual identity. "Two 70s movements made popular music more fluid than ever in both gender presentation and sexual identity. Glam Rock and Disco." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mostly Straight Artists** : Despite its androgynous or gender-bending aesthetic, most Glam Rockers, such as T. Rex's Marc Bolan and members of Roxy Music, were straight. "most Glam Rockers, no matter how androgynous or gender bending, were straight from T. Rex's Mark Bowlin. Two The Members of Roxy Music." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Definition Context** : The genre embodied by T. Rex and its lead, Marc Bolan, referred to as a "glam rock icon." "T. Rex, the 70s band lead and embodied by glam rock icon Mark Bowie are being inducted into the Hall this year." ← Hit Parade Music History and Music Trivia > One and Done, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Catalyst for UK Christmas Number One Phenomenon** : Glam rock bands, specifically Slade and Wizzard, were the pivotal figures in the creation of the UK Christmas Number One phenomenon in 1973. Their simultaneous release of holiday singles, leading to a direct chart competition, established an annual media event that has continued for five decades. "the UK Christmas number one became a media phenomenon in 1973 when two glam rock bands Slade and Wizard both released holiday singles at the same time." ← Hit Parade Music History and Music Trivia > Song(s) of the Summer Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Dominance in Early 1970s** : Glam rock bands like Slade and Wizzard were dominant forces on the British charts in the early 1970s. Their head-to-head competition for the 1973 Christmas number one, with Slade ultimately winning, is credited with establishing the national pastime of the UK Christmas number one. "at the height of glam rock, slayed were megastars, loud, brash, almost metal, yet very catchy." ← Hit Parade Music History and Music Trivia > The Christmas is All Around Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Boy Band Marketing** : Glam rock style was leveraged by groups like The Bay City Rollers, whose single "Saturday Night" incorporated chanted spelling and invited teen participation, showcasing an attempt to market rock bands with boy band-esque appeal in the mid-70s. "During 1975 single Saturday Night, climaxed with a chanted spelling of the word Saturday, that invited teens to cheer or stomp along, glam rock style." ← Hit Parade Music History and Music Trivia > We Want It That Way Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Alice Cooper
@@ -57,3 +65,13 @@
 - The Rolling Stones
 - The Struts
 - Wizzard
+- Morrissey
+- Spacehog
+- Max Martin
+- Bruce Springsteen
+- LaBelle
+- Patti LaBelle
+- Love and Rockets
+- Jobriath
+- It's Alive
+- Bay City Rollers

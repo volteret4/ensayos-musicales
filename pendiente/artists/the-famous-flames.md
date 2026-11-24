@@ -1,5 +1,8 @@
 # artist - The Famous Flames
 
+## member of
+- James Brown
+
 ## members
 - Bobby Byrd
 - James Brown
@@ -18,6 +21,9 @@
 ## concerts
 - Apollo Theatre
 - Chitlin Circuit
+
+## songs
+**Poppa's Got a Brand New Bag (1965)** : James Brown and his Famous Flames were instrumental in inventing and codifying funk music by shifting the emphasis of a four-beat measure from the fourth beat to "the one" in this song. This change, which sounded "off-kilter" at the time, became foundational to the funk genre. "James Brown and his famous flames changed the emphasis of a four beat measure from the fourth beat to, as James put it, the one, thus helping to invent and codify funk." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Early Name Changes** : Bobby Bird's gospel group, originally called The Gospel Starlighters, transitioned into an R&B group named The Avons. They soon renamed themselves again to The Flames, and later adopted the name The Famous Flames, which they retained. This series of name changes, along with the existence of The Hollywood Flames featuring a different Bobby Bird, caused considerable confusion. "They soon renamed themselves again to The Flames, and later to The Famous Flames, the name they would stick with from then on, and a name which would cause a lot of confusion, as we've already talked about The Hollywood Flames, who featured a different Bobby Bird." ← Episode 39： ＂Please Please Please＂ by James Brown and the Famous Flames | https://www.youtube.com/watch?v=DSkNVh93tAs

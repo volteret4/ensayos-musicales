@@ -30,4 +30,4 @@
 **Shortlist Music Prize (2005) — Silent Alarm** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q7502207
 
 ## lists
-**"Silent Alarm" (2005) — AOTY Must Hear 2000s** : #271, 79 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
+**"Silent Alarm" (2005) — AOTY Must Hear 2000s** : #271, 79 AOTY.

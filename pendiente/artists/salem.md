@@ -18,4 +18,4 @@
 **Founding Band of Witchhouse** : Formed in Michigan in 2007, Salem is considered the foundational band of Witchhouse, being the first to give real shape to its dark and dense sound. The current lineup includes Jack Donoghue and John Holland. "Formada en Michigan en 2007, por Jack Donogue, Geder Marlatt y John Holland, actualmente solo sí que en Jack y John en la formación, fueron las primeros en dar forma rea al este sonido cure y denso." ← Witch House： Cuando internet inventó su género maldito | https://www.youtube.com/watch?v=SLlzXA0eyu0
 
 ## lists
-**"King Night" (2010) — Scaruffi 2010s** : #72, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"King Night" (2010) — Scaruffi 2010s** : #72, 7.5/10 Scaruffi.

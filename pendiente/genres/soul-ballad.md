@@ -5,3 +5,4 @@
 
 ## artists
 - George Michael
+- Wham!

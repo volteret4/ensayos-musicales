@@ -22,6 +22,7 @@
 - Jazz voice
 - Rara music
 - Rock
+- Themic indie rock
 
 ## labels
 - Capitol Records
@@ -190,6 +191,8 @@
 **Viability as a Musical Choice** : Arcade Fire is presented as a band whose musical choice is "every bit as viable" as that of established rock giants like AC/DC in the current music landscape. This illustrates the modern acceptance of diverse musical preferences and the irrelevance of traditional genre hierarchies. "Arcade fire? Every bit as viable as a musical choice as ACDC." ← https://www.youtube.com/watch?v=-CT7yYXonIk ← arcade-fire
 **Best Known Indie Band** : The Arcade Fire is considered "probably the best known indie band in the world right now," recording for Merge Records, an independent label founded by members of SuperChuck. "They're probably the best known indie band in the world right now." ← https://www.youtube.com/watch?v=__7iEl3lH8g ← the-arcade-fire ← the-arcade-fire
 **Contemporary Concept Album Artists** : The Arcade Fire is mentioned as one of the contemporary acts currently releasing concept albums. "Hello again, I'm Ellie Cross and with all the concept albums that we're seeing these days, Nine Inch Nails, My Chemical Romance, Coheating Cambria, The Arcade Fire, 30 Seconds to Mars, I thought it might be cool if we went back through the history of Alt Rock to see where all this came from." ← https://www.youtube.com/watch?v=Dm5N6yDRxXQ ← the-arcade-fire
+**Influenced by Springsteen Sound** : Arcade Fire, described as themic indie rockers, is listed among the bands whose sound has been permeated by the influence of Bruce Springsteen. "themic indie rockers are Cade Fire... the Springsteen sound has permeated bands across the radio dial." ← Hit Parade Music History and Music Trivia > Tramps Like Us, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**U2 Imitator (Mid-2000s)** : In the mid-2000s, U2's established sound of "stirring and anthemic rock" had inspired a new generation of bands, with Arcade Fire identified as one of their imitators. "To Arcade Fire." ← Hit Parade Music History and Music Trivia > With or Without U2 Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Libera Award for Video of the Year** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q96387404
@@ -202,11 +205,11 @@
 
 ## lists
 **"Funeral" (2004) — 1001 Albums You Must Hear Before You Die** : #982, 7.5/10 Scaruffi.
-**"Neon Bible" (2007) — AOTY Must Hear 2000s** : #154, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Funeral" (2004) — AOTY Must Hear 2000s** : #295, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"The Suburbs" (2010) — AOTY Must Hear 2010s** : #909, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Funeral" (2004) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #500, 7.5/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Funeral" (2004) — Scaruffi 2000s** : #28, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Neon Bible" (2007) — Scaruffi 2000s** : #198, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Suburbs" (2010) — Pitchfork: The 200 Best Albums of the 2010s** : #76, 88 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"Funeral" (2004) — Sputnikmusic Best Albums 2004** : #10, 7.5/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2004/
+**"Neon Bible" (2007) — AOTY Must Hear 2000s** : #154, 7.0/10 Scaruffi.
+**"Funeral" (2004) — AOTY Must Hear 2000s** : #295, 7.5/10 Scaruffi.
+**"The Suburbs" (2010) — AOTY Must Hear 2010s** : #909, 88 AOTY.
+**"Funeral" (2004) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #500, 7.5/10 Scaruffi.
+**"Funeral" (2004) — Scaruffi 2000s** : #28, 7.5/10 Scaruffi.
+**"Neon Bible" (2007) — Scaruffi 2000s** : #198, 7.0/10 Scaruffi.
+**"The Suburbs" (2010) — Pitchfork: The 200 Best Albums of the 2010s** : #76, 88 AOTY.
+**"Funeral" (2004) — Sputnikmusic Best Albums 2004** : #10, 7.5/10 Scaruffi.

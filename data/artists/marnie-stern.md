@@ -9,5 +9,5 @@
 **Late Night House Band Member** : Marnie Stern is currently a member of the 8G Band, which serves as the house band for "Late Night with Seth Meyers." "And these days, she's part of the 8G band, the house band for Late Night with Seth Meyers." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← marnie-stern
 
 ## lists
-**"In Advance Of The Broken Arm" (2007) — Scaruffi 2000s** : #508, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Comeback Kid" (2023) — Bandcamp: The Best Albums of 2023** : #41. ← musicbrainz | https://beta.musicbrainz.org/series/a611d9f0-2e4e-44fe-914a-17ad55c1317a
+**"In Advance Of The Broken Arm" (2007) — Scaruffi 2000s** : #508, 7.0/10 Scaruffi.
+**"The Comeback Kid" (2023) — Bandcamp: The Best Albums of 2023** : #41.

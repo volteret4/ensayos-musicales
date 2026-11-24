@@ -2,6 +2,7 @@
 
 ## member of
 - Black Sabbath
+- Hear 'n Aid
 
 ## genres
 - Metal

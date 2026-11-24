@@ -5,3 +5,4 @@
 
 ## curiosities
 **Horror at Animals' Reworking** : Cynthia Weil was "horrified" by The Animals' version of "We Gotta Get Out of This Place," considering it the "worst record of one of her songs ever," partly because it potentially sabotaged the release of her husband Barry Mann's own single. "What the animals did to the song horrified Cynthia Wile, who considered it the worst record of one of her songs ever" ← Episode 115： ＂House of the Rising Sun＂ by the Animals | https://www.youtube.com/watch?v=34aIGCnb4X4
+**Songwriting Team** : Cynthia Weil was part of the classic "grill building songwriting team" with Barry Mann, who penned Dolly Parton's 1977 hit "Here You Come Again." "This one was penned by the classic grill building songwriting team of Barry Man and Cynthia Y." ← Hit Parade Music History and Music Trivia > Taylor’s Version of Country, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/

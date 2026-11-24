@@ -1,5 +1,8 @@
 # artist - Robbie Williams
 
+## songs
+**Something Stupid (2001)** : This remake of the Frank and Nancy Sinatra jazz-pop bolero was a duet with actress Nicole Kidman, who was not typically a singer. It took the UK Christmas number one title in 2001, at the absolute peak of Robbie Williams's popularity. "In 2001 at the absolute peak of his popularity former boy band turned leading lad Robbie Williams took the title in a duet with the normally non-singing actress Nicole Kidden, a remake of the Frank and Nancy Sinatra jazz pop ballerro something stupid." ← Hit Parade Music History and Music Trivia > The Christmas is All Around Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **Musical Intrusion into Rap** : When Robbie Williams ventures into performing rap, some critics categorize this as "musical intrusiveness." This term, used non-pejoratively, describes an artist borrowing or adopting a style that is not typically part of their established artistic practice, highlighting a purist perspective on genre boundaries. "cuando alguien como Rob y Williams le da por hacer de rapero... lo consideran un intrusismo musical" ← Music Radar Clan > Diferencia entre RAP y HIP-HOP. Por qué ya no son lo mismo. | https://www.youtube.com/watch?v=bVusa5RTBoU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← robbie-williams ← robbie-williams
 **New Generation's Preference** : Robbie Williams was among the artists preferred by a younger generation of music fans coming of age after the Britpop era, signaling a move towards more commercial pop music. "And you know what they wanted? Ice Girls. Britney Spears. Robbie Williams." ← https://www.youtube.com/watch?v=DSvoppf1dGY ← robbie-williams

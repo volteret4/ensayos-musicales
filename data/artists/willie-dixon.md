@@ -15,6 +15,7 @@
 
 ## curiosities
 **Innovative Bass Recording Technique** : Willie Dixon, who played bass on all Chess blues records, did not use an electric bass but achieved a similar sound by innovatively placing a microphone inside the bottom of his double bass's tailpiece. "Willie Dixon, who played bass on all the chess blues records, actually didn't play an electric bass. Rather, he got a sound similar to an electric bass, by actually placing the microphone inside the bottom of the bass's tailpiece." ← Episode 63： ＂Susie Q＂, by Dale Hawkins | https://www.youtube.com/watch?v=4vqj1DcXOfw
+**Blues Standard Composer** : Willie Dixon was the composer of the blues standard "Little Red Rooster." Sam Cook's take on this song, featuring a strutting soul record with jazzy percussion, became the highest-charting version of the classic tune, reaching number 11 Pop and number two R&B in the fall of 1963. "a run through the Willie Dixon blues standard Little Red Rooster." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Rock and Roll Hall of Fame (1994)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191

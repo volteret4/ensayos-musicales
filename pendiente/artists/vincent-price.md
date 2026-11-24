@@ -1,0 +1,5 @@
+# artist - Vincent Price
+
+## curiosities
+**"Spooky Rap" on "Thriller"** : Vincent Price was invited by Quincy Jones, his wife's friend, to contribute a "spooky rap" to Michael Jackson's iconic song "Thriller," adding a distinctive horror element to the track. "Q endorsed the change and invited his wife's friend Vincent Price to do a spooky rap on the song." ← Hit Parade Music History and Music Trivia > I Wanna Rock with Q. Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Uncredited Rap on "Thriller"** : Classic film actor Vincent Price delivered an unforgettable rap that closed Michael Jackson's 1984 single "Thriller." Price received no citation for his contribution, as his rap was often perceived by listeners as a "camping novelty" rather than actual rap, contributing to the practice of uncredited features. "Price's rap on Jackson's single didn't read as rap to many listeners. It was a camping novelty, but eventually featured rappers became too prominent to ignore." ← Hit Parade Music History and Music Trivia > The Feat. Don’t Fail Me Now Edition | https://my.slate.com/podcasts/feeds/hit-parade/

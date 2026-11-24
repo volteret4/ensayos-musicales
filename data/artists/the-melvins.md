@@ -6,9 +6,12 @@
 
 ## genres
 - Grunge
+- Noise Rock
+- Post-Hardcore
 
 ## labels
 - CZ
+- Major Label
 - Sub Pop
 
 ## albums
@@ -27,14 +30,16 @@
 **Influencing Kurt Cobain** : Buzz Osborne and The Melvins were highly influential in the burgeoning Seattle scene, notably to Kurt Cobain of Nirvana, who was such a devoted fan that he would sometimes roadie for them without pay. "Nirvana, featuring of course Kurt Cobain, a stoner and former janitor who was such a big fan of the melvins that he's sometimes rowdy for them for free." ← https://www.youtube.com/watch?v=xdn31jMOOA4 ← the-melvins ← the-melvins
 **Limited Influence on Alexis on Fire** : While a heavy band, The Melvins were explicitly mentioned as a band that none of the Alexis on Fire members, except potentially Dallas Green, were listening to as an influence, highlighting specific sonic preferences even within heavy music. "None of us were listening to the Melvents. Right. You were listening to the Melvents, right?" ← https://www.youtube.com/watch?v=nEPT8ZVZ0so ← the-melvins
 **Potential Collaboration with Kurt Cobain** : Buzz Osborne of The Melvins was mentioned as a potential musician Kurt Cobain might have worked with on a solo project if he had lived. "Maybe people like, I don't know, Buzz A's, One of the Melvin's" ← https://www.youtube.com/watch?v=cS8k3PYU_Eo ← the-melvins ← the-melvins
+**Kurt Cobain's Influence** : The Melvins were among the bands worshipped by Kurt Cobain. Following Nirvana's breakthrough, they were signed to major label deals, despite these labels not fully understanding how to market noise rock. "After Nirvana's breakthrough, bands that Kurt Cobain worshipped, like The Melvins and The Jesus Lizard, were signed to major label deals, despite those labels not really knowing what to do with them." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Major Label Deal Post-Nirvana** : The Melvins were among the bands lionized by Kurt Cobain and were signed to major label deals in the wake of Nirvana's breakthrough, despite labels not fully understanding what to do with their noise rock and post-hardcore sound. "Bands that Kurt Cobain lionized like the Melvins and the Jesus Lizard were signed to major label deals despite those labels not really knowing what to do with them." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
-**"Ozma" (1989) — Scaruffi 1980s** : #168, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Bullhead" (1991) — Scaruffi 1990s** : #920, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Eggnog" (1991) — Scaruffi 1990s** : #1382, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Lysol" (1992) — Scaruffi 1990s** : #1383, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Bullhead" (1991) — Sputnikmusic Best Albums 1991** : #38, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"Eggnog" (1991) — Sputnikmusic Best Albums 1991** : #99, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"Lysol" (1992) — Sputnikmusic Best Albums 1992** : #100, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"Houdini" (1993) — Sputnikmusic Best Albums 1993** : #97, 4.02 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
-**"Stoner Witch" (1994) — Sputnikmusic Best Albums 1994** : #168, 3.97 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
+**"Ozma" (1989) — Scaruffi 1980s** : #168, 7.5/10 Scaruffi.
+**"Bullhead" (1991) — Scaruffi 1990s** : #920, 7.0/10 Scaruffi.
+**"Eggnog" (1991) — Scaruffi 1990s** : #1382, 7.0/10 Scaruffi.
+**"Lysol" (1992) — Scaruffi 1990s** : #1383, 7.0/10 Scaruffi.
+**"Bullhead" (1991) — Sputnikmusic Best Albums 1991** : #38, 7.0/10 Scaruffi.
+**"Eggnog" (1991) — Sputnikmusic Best Albums 1991** : #99, 7.0/10 Scaruffi.
+**"Lysol" (1992) — Sputnikmusic Best Albums 1992** : #100, 7.0/10 Scaruffi.
+**"Houdini" (1993) — Sputnikmusic Best Albums 1993** : #97, 4.02 Sputnik.
+**"Stoner Witch" (1994) — Sputnikmusic Best Albums 1994** : #168, 3.97 Sputnik.

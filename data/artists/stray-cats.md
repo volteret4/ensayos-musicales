@@ -16,4 +16,4 @@
 **""Runaway Boys" ‡" — UK Singles Chart** : #4, 1981. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
 
 ## lists
-**"Stray Cats" (1981) — Scaruffi 1980s** : #734, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Stray Cats" (1981) — Scaruffi 1980s** : #734, 7.0/10 Scaruffi.

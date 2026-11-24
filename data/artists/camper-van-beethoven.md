@@ -39,8 +39,8 @@
 **Mostly Hitless 80s Band** : Camper Van Beethoven was described as a "mostly hitless 80s band." Its former frontman, Dave Lowery, later achieved significant success leading the band Cracker. "former frontman of the mostly hitless 80s band Camper Van Beethoven." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 
 ## lists
-**"Camper Van Beethoven" (1986) — Scaruffi 1980s** : #30, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Telephone Free Landslide Victory" (1985) — Scaruffi 1980s** : #31, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"II & III" (1986) — Scaruffi 1980s** : #131, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Key Lime Pie" (1989) — Scaruffi 1980s** : #301, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Our Beloved Revolutionary Sweetheart" (1988) — Scaruffi 1980s** : #302, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Camper Van Beethoven" (1986) — Scaruffi 1980s** : #30, 8.0/10 Scaruffi.
+**"Telephone Free Landslide Victory" (1985) — Scaruffi 1980s** : #31, 8.0/10 Scaruffi.
+**"II & III" (1986) — Scaruffi 1980s** : #131, 7.5/10 Scaruffi.
+**"Key Lime Pie" (1989) — Scaruffi 1980s** : #301, 7.0/10 Scaruffi.
+**"Our Beloved Revolutionary Sweetheart" (1988) — Scaruffi 1980s** : #302, 7.0/10 Scaruffi.

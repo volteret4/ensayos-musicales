@@ -19,6 +19,7 @@
 ## curiosities
 **Early Influence on Belleville Three** : The funky electronic basslines of Parliament were a significant musical influence for Juan Atkins, Derrick May, and Kevin Saunderson during their formative years in Belleville. "Musica fan con bajos irrimos electrónicos como Parlameno." ← Cómo Detroit Reinventó la Música Electrónica ｜ Pioneros del Techno | https://www.youtube.com/watch?v=H4AtVFOVtUw
 **Juan Atkins' Influence** : Parliament was cited by techno pioneer Juan Atkins as one of his principal influences, alongside Kraftwerk and Funkadelic, for his work in early techno. "El pionero del tecno Juan Atkins tiene como principaliz influencias a los alemanes y a las bandas fan, parleamente y funcada-lic." ← Por qué KRAFTWERK es la banda más influyente de la historia？ | https://www.youtube.com/watch?v=wWOBez9Cqhs
+**Evolution from The Parlaments** : The band shifted into a much funkier direction after George Clinton converted his original band, The Parlaments, to Parliament following a trademark lawsuit victory. "When the Parlaments won their lawsuit, George converted them to just Parliament and they too shifted in a much funkier direction." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Give Up the Funk" — Billboard Year-End Hot 100** : #93, 1976. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
@@ -26,8 +27,8 @@
 
 ## lists
 **"Mothership Connection" (1976) — 1001 Albums You Must Hear Before You Die** : #359, 7.0/10 Scaruffi.
-**"Mothership Connection" (1976) — AOTY Must Hear 1970s** : #91, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Mothership Connection" (1976) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #363, 7.0/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Funkentelechy Vs The Placebo Syndrome" (1977) — Scaruffi 1970s** : #124, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Clones of Dr Funkenstein" (1976) — Scaruffi 1970s** : #438, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Mothership Connection" (1976) — Scaruffi 1970s** : #439, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Mothership Connection" (1976) — AOTY Must Hear 1970s** : #91, 7.0/10 Scaruffi.
+**"Mothership Connection" (1976) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #363, 7.0/10 Scaruffi.
+**"Funkentelechy Vs The Placebo Syndrome" (1977) — Scaruffi 1970s** : #124, 7.5/10 Scaruffi.
+**"Clones of Dr Funkenstein" (1976) — Scaruffi 1970s** : #438, 7.0/10 Scaruffi.
+**"Mothership Connection" (1976) — Scaruffi 1970s** : #439, 7.0/10 Scaruffi.

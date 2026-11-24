@@ -9,5 +9,5 @@
 **Grammy Award for Best New Artist (2010)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643
 
 ## lists
-**"Carnavas" (2006) — AOTY Must Hear 2000s** : #189, 66 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Tenterhooks" (2026) — Sputnikmusic Best Albums 2026** : #68, 3.22 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2026/
+**"Carnavas" (2006) — AOTY Must Hear 2000s** : #189, 66 AOTY.
+**"Tenterhooks" (2026) — Sputnikmusic Best Albums 2026** : #68, 3.22 Sputnik.

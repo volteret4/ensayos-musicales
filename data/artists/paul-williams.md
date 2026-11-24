@@ -1,5 +1,8 @@
 # artist - Paul Williams
 
+## member of
+- The Temptations
+
 ## songs
 **Old Fashioned Love Song** : Paul Williams wrote this song, which became one of Three Dog Night's Top 10 singles. "He wrote old-fashioned love song." ← For the Record - The 70s > Ep. 39 - American Top 40 - Keeping Our Feet on the Ground and Reaching for the Stars (Part 1) | https://seventies.libsyn.com/ep-39-american-top-40-keeping-our-feet-on-the-ground-and-reaching-for-the-stars-part-1
 **Rainbow Connection (1979)** : Paul Williams is credited with writing this song for Kermit the Frog and The Muppets, showcasing his diverse songwriting career which also includes the "super sappy" 'We've Only Just Begun' for The Carpenters. "the guy who wrote the rainbow connection for Kermit, the frog, and the muppets, not to mention the co-writer of the super sappy. We've only just begun for the Carpenters invented goth music." ← https://www.youtube.com/watch?v=2wZydttn4Cs ← paul-williams

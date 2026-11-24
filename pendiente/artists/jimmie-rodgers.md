@@ -8,6 +8,7 @@
 
 ## songs
 **Blue Yodel number six** : This song was performed by a teenage Wanda Jackson during her audition for a local TV show talent section. Rodgers was also a pioneer of yodeling, a skill Wanda Jackson taught herself. ← Episode 43： ＂I Gotta Know＂ by Wanda Jackson | https://www.youtube.com/watch?v=gEInec4z65Q
+**Early "Blue Yodels" (Blues Records)** : Jimmie Rodgers' first 12 records were described as "blue yodels," which were fundamentally blues records. He notably played with Louis Armstrong on one of these early recordings. This highlights how early genre distinctions, particularly between "hillbilly" and blues, were often artificial. "Jimmy Rogers debuting his first 12 records were all blue yodels he's playing with. Louis Armstrong a little hard on one of them the earliest hillbilly records are blues records right and yet there's this divide." ← Hit Parade Music History and Music Trivia > The Bridge - Can’t Tell Me Nothin’ | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Early Influence** : Jimmie Rodgers was one of the "1920s greats" whose songs inspired Woody Guthrie early in his career as a country singer. He was also an artist whose songs were covered by Hank Snow, leading Bob Dylan to discover his music. His songs were included in Odetta's first album, which influenced Dylan. "Guthrie had started out as a country singer, singing songs inspired by the Carter family, Jimmy Rogers, and other 1920s greats." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4

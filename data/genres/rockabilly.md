@@ -9,6 +9,10 @@
 **Nick Lowe's Return to Pop Chart** : Nick Lowe returned to the pop chart in the mid-1980s with the rockabilly-flavored song "Half a Boy and Half a Man." This track, accompanied by a retro beachy video, showcased the genre's enduring appeal and Lowe's ability to infuse classic styles with contemporary relevance. "Nick Lo returned to the pop chart with the Rockabilly flavored Half a Boy and Half a Man." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
 **Influence on George Michael's "Faith" (1987)** : George Michael's song "Faith" featured a retro sound that was an explicit homage to Rockabilly. "This homage to Rockabilly came with an iconic music video." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce81
 **George Michael's Genre Versatility** : George Michael's multi-platinum album "Faith" demonstrated his imperial versatility, generating hits like the rockabilly title track alongside funk pop and soul ballads. "ranging from the funk pop of I Want Your Sex to the Rockabilly title track to the Soul Ballad's father figure and one more try." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f03154465cd600c5379
+**Women's Role Revolution** : Wanda Jackson, known as the "Queen of Rockabilly," was instrumental in revolutionizing the role of women in both rock and roll and country music during her time. "Queen of Rockabilly, Wanda Jackson was revolutionizing the role of women in both rock and roll and country." ← Hit Parade Music History and Music Trivia > Chestnut Roasters, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Revival-Bop Style** : Queen's 1980 number one hit "Crazy Little Thing Called Love" is described as a "rockabilly revival-bop" song. This illustrates the band's versatility and embrace of different styles. "The rockabilly revival-bop crazy little thing called love, and the aforementioned dance funk jam that led off our show Another One Bites the Dust." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Definition Context** : Chris Isaak is identified as a "Rockabilly and Reverb Revivalist," connecting him to the rockabilly genre and its sonic characteristics. "Rockabilly and Reverb Revivalist Chris Isaac, who has only two platinum albums and one top five hit, 1991's Wicked Game." ← Hit Parade Music History and Music Trivia > One and Done, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Footloose" as 80s Rockabilly** : Kenny Loggins's "Footloose" was described as an "80s version of 50s rockabilly," demonstrating a modern take on the classic genre for the film soundtrack. "a banger that was an 80s version of 50s rockabilly." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Carl Perkins
@@ -17,3 +21,11 @@
 - Elvis Costello
 - George Michael
 - Nick Lowe
+- Bob Dylan
+- Brenda Lee
+- Wanda Jackson
+- Kenny Loggins
+- Duane Eddy
+- Bobby Helms
+- Chris Isaak
+- The Big Bopper

@@ -1,6 +1,7 @@
 # artist - Scorpions
 
 ## genres
+- German Rock
 - Hard Rock
 - Heavy Metal
 - Metal
@@ -12,6 +13,7 @@
 ## songs
 **Rock You Like a Hurricane (1984)** : According to Spotify, this song is identified as the "most popular rock song played by surgeons while their operating." The transcript notes this song is also the 11th most popular song overall in this context. "And according to Spotify, the most popular rock song played by surgeons while their operating is rock you like a hurricane from the scorpions. This is the 11th most popular song." ← https://www.youtube.com/watch?v=aSk1XQHNkd8 ← scorpions
 **Rock You Like a Hurricane (1984)** : This song from Germany's Scorpions became a number 25 hit in 1984, joining Van Halen in the top 40. Its success highlighted the broader trend of metal bands achieving mainstream pop appeal during the year. "They were joined in the top 40 that year by Germany's Scorpions. With the number 25 hit, rock you like a hurricane." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
+**Rock You Like a Hurricane (1984)** : Mentioned as a song by "German rockers" Scorpions, which was cracking pop radio playlists in the mid-1980s. "whether from German rockers' discorpions. We're on it! Rock, you like a hurricane!" ← Hit Parade Music History and Music Trivia > Hit Parade - The You Give Rock a Bad Name Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 **Still Loving You (1984)** : This song is cited as a prime example of a ballad found on metal albums, illustrating the "twin musical threads of sonic aggression and acoustic intimacy" within the genre. Such ballads were strategically used to slow the pace, engage the audience, and by contrast, intensify the impact of the louder sections. "It's not just the ballads that always seem to be part of the metal albums. You know, like still loving you by the scorpions or something like that." ← For the Record - The 70s > Ep. 24 - Loud, Louder, Loudest - 70s Heavy Metal | https://seventies.libsyn.com/ep-24-loud-louder-loudest-70s-heavy-metal ← the-scorpions
 **Wind of Change (1991)** : Released on January 20, 1991, this power ballad became a global hit, selling an estimated 14 million copies worldwide, making it the best-selling single by any German artist. The band, originally from Hanover, West Germany, recorded an English version and a Russian version under the name The Vetter Paramen. The song was a massive hit in the USSR, leading to the band presenting Soviet leader Mikhail Gorbachev with a gold record. It remains highly popular among fans in Eastern Europe, and rumors persist that it was part of a CIA operation to destabilize Soviet society with its message of freedom and revolution. "Wind of Change was a global hit for the Scorpions, a metal bandit of Hanover in what was then West Germany." ← https://www.youtube.com/watch?v=YeNWDtN_sHE ← scorpions
 

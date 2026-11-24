@@ -31,6 +31,20 @@
 **Vocal Influence on Trip Hop** : Soul voices, particularly those reminiscent of Aretha Franklin and other intense black female singers like Anán Sigre, are a significant influence on the vocal styles found within trip hop. "esas voces de sol un poco que nos recuerdan a leta franklin que nos recuerdan anán sigre y a todas esas grandes voces negras de mujeres intensas." ← Music Radar Clan > Massive Attack - Blue Lines. Un antes y un después en la música. | https://www.youtube.com/watch?v=Ik7PQ2X1o3M&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← soul ← soul
 **60s Throwback (1976)** : The music for the 1976 film *Sparkle* was a deliberate throwback to the kind of soul music both Curtis Mayfield and Aretha Franklin were recording in the 1960s, resonating particularly with Black audiences. "The music of Sparkle was a deliberate throwback to the kind of Soul both Mayfield and Franklin were recording in the 60s." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
 **Most Number One Hits (1982)** : Aretha Franklin broke a tie with James Brown to hold the record for the most number one hits in the history of the Soul Chart with her 18th chart-topper, "Jump to It," in 1982. "That gave the record for the most soul number ones to the lady known as the Queen of Soul." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Defining Sound in Black Popular Music** : The song "A Change Is Gonna Come" by Sam Cook is described as a soul song in every sense, a masterclass in soul singing that demands much of its performer and a profound laying bare of the writer's soul at a vital moment in America's history. It cast a long shadow over the next half-decade of Black Popular Music. "It is a soul song in every sense of that word, a masterclass in soul singing that demands much of its performer, and a laying bear of its writer's soul at a vital moment in America's history." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mainstream Airplay on American Top 40** : American Top 40, under Casey Kasem, played R&B, Funk, and Soul hits as part of its commitment to counting down all 40 songs on the Hot 100. This meant that pop or rock stations, especially in the Southern United States, would play hits by black artists like James Brown's "Sex Machine," which they might not otherwise feature. "That included R&B, Funk and Soul. And AT-40 might be the only time certain pop or rock stations, especially in the Southern United States, played those hits by black artists." ← Hit Parade Music History and Music Trivia > Feet on the Ground, Reaching for the Stars Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**American Soul Tradition in "We Are the World"** : Many of the singers in "We Are the World" were described as taking "great liberties with the melody," a characteristic very much in an "American soul tradition." This vocal style contributed to the song's distinctive sound. "Many of the singers, very much in an American soul tradition, take great liberties with the melody." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Blaxploitation Soundtrack Influence (1970s)** : Soul legend Curtis Mayfield significantly contributed to the Blaxploitation soundtrack movement, taking his *Superfly* soundtrack to number one on the Billboard album chart and generating two funky top ten hits in the fall of 1972. "Soul Legend Curtis Mayfield took his Blacksploitation soundtrack to the Gordon Park's Junior movie Superfly to number one on the Billboard album chart." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Yacht Soul Brand** : The tracks "Stomp" by the Brothers Johnson and Michael Jackson's "Off the Wall" were fundamentally considered to be of the "same brand of Yacht Soul," reflecting a smooth, polished funk sound. "Stomp and Off the Wall were, in essence, the same brand of Yacht Soul." ← Hit Parade Music History and Music Trivia > I Wanna Rock with Q. Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Stylistic Diversity in the Mid-70s** : Soul music in the mid-1970s encompassed a range of styles, from the "purest silky soul mode" exemplified by Roberta Flack's "Feel Like Making Love" to the "danceable soul" production approach taken by Allen Toussaint for artists like The Pointer Sisters and Labelle. "Feel like making love was Flack in her purest silky soul mode." ← Hit Parade Music History and Music Trivia > Killing Me Softly Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Early Years Defining Culture** : In the early years of soul music, alongside rock, "gay hitmakers were defining the culture." This underscores the significant but often uncredited influence of LGBTQ artists in shaping the genre's sound and cultural impact. "We focused on rock and souls early years from the birth of rock and roll to the peak of disco when gay hitmakers were defining the culture." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Aretha Franklin's Legacy** : Aretha Franklin is famously known as "the Queen of Soul," a title that reflects her profound impact and enduring legacy within the genre. Her celebrated covers of rock songs were consistently infused with soulful interpretations. "the passing of the Queen of Soul, Ritha Franklin." ← Hit Parade Music History and Music Trivia > Music Trivia - The Aretha Franklin Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Early Album Release Pace (1960s)** : In the first decade of rock and soul, it was common for most hit acts, including Motown acts like The Miracles, to release at least two LPs a year. "Most hit acts in the first decade of rock and soul would drop at least two LPs a year, [...] to Motown acts like The Miracles." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**1971 Chart Dominance** : In 1971, Pop, Rock, and Soul Legends were scoring both number one singles and number one albums on the Billboard charts. "On the Billboard charts, Pop, Rock, and Soul Legends were scoring both number one singles and number one albums, including, so far, George Harrison, Janice Chaplin, and the Rolling Stones." ← Hit Parade Music History and Music Trivia > Spirit of ’71, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**American Funk and Soul Influence on Denniz Pop** : Denniz Pop, the founder of Cheiron Studios, developed his ear for hits as a DJ in Stockholm, with a particular love for "American funk and soul" music, favoring simpler arrangements. "He particularly loved American funk and soul and British techno pop, the simpler, the better." ← Hit Parade Music History and Music Trivia > The Give Me a Sign Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Posthumous Hits Phenomenon** : Soul music, alongside Rock and Roll, has provided extensive material exploring themes of death and the afterlife, notably through posthumous chart successes. "Rock and Soul have generated no shortage of material from and even about the great beyond." ← Hit Parade Music History and Music Trivia > The Posthumous Hits Edition, Live from Seattle | https://my.slate.com/podcasts/feeds/hit-parade/
+**Introspective vs. Bombastic Aesthetics** : Soul music encompasses both a "big spectacular bombastic performance" style, often associated with charismatic male figures like Sam & Dave (e.g., "Soul Man," "Hold On, I'm Comin'"), and a quieter, "introspective soul aesthetic" embodied by artists like Otis Redding in "(Sittin' On) The Dock of the Bay." This introspective mode involves turning inward for a "soul-to-soul conversation" and was a precursor to later artists such as Al Green, Isaac Hayes, and Minnie Riperton. "we tend to think about soul as this big spectacular bombastic performance of the charismatic, especially male figure... there's also this quieter, more introspective soul aesthetic that Otis Reading is embodying here." ← Hit Parade Music History and Music Trivia > The Posthumous Hits Edition, Live from Seattle | https://my.slate.com/podcasts/feeds/hit-parade/
+**Boy Band Aspiration and Transcendence** : Soul singers and doo-wop troops were influential for early white rock and roll and boy bands. Later, groups like Boyz II Men, initially seen as a boy band, evolved to become the "premier soul group of their generation," transcending the boy band label. "While Boys to Men were known early on for their dancing and stylish outfits, as their hits got bigger, they graduated into the premier soul group of their generation." ← Hit Parade Music History and Music Trivia > We Want It That Way Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Amy Winehouse
@@ -114,3 +128,49 @@
 - LaBelle
 - Charlene
 - The Pointer Sisters
+- Joe Cocker
+- Dusty Springfield
+- Whitney Houston
+- Martha Reeves and the Vandellas
+- Prince
+- Janis Joplin
+- Primal Scream
+- Michael Jackson
+- Donny Hathaway
+- Roberta Flack
+- Seal
+- Sam Cook
+- Odetta
+- Otis Redding
+- Rod Stewart
+- Jennifer Hudson
+- Diana Ross
+- Janet Jackson
+- Mary J. Blige
+- Chaka Khan
+- Ike & Tina Turner
+- Timmy Thomas
+- Gladys Knight & The Pips
+- Barbra Streisand
+- John Legend
+- Boyz II Men
+- Harold Melvin & The Blue Notes
+- Kelly Clarkson
+- Dion Warwick
+- Bee Gees
+- Quincy Jones
+- The Miracles
+- Bill Medley
+- Toni Braxton
+- Daryl Hall & John Oates
+- Cissy Houston
+- Teddy Pendergrass
+- Patti LaBelle
+- Shaka Khan
+- The Jackson 5
+- Carol King
+- Questlove
+- Solomon Burke
+- Mario Winans
+- Denniz Pop
+- Jennifer Holiday

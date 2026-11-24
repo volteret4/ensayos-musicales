@@ -137,20 +137,22 @@
 **University Origins** : The Pixies formed at the University of Massachusetts, establishing an early connection to an academic environment. "First of all, the band was born at the University of Massachusetts." ← https://www.youtube.com/watch?v=h6snk0m4200 ← the-pixies
 **"Quiet Then Loud" Sound** : The Boston-based Pixies were credited with either inventing or at least codifying the "quiet then loud sound" that became a defining characteristic of 90s alternative rock. Their "shrieking yet catchy indie rock" played a significant role in the adoption of "alternative" as a music descriptor in the late 80s. "Boston's Pixies, who were later credited with inventing or at least codifying the quiet then loud sound of 90s alternative in the late 80s." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 **Influence on Tin Machine (1989)** : The rising art punk sound of bands like the Pixies influenced David Bowie's decision to form Tin Machine, and their metallic, feedback-laden sound was a direct response to this genre. "It was his response to the rising art punk sound of bands like the Pixies or Sonic Youth." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 2 | https://shows.acast.com/hit-parade/episodes/696aa4d936ab0b5268aab02b
+**Influence on Nirvana Without Chart Hits** : The Pixies, a Boston-based band, had their sound deliberately "ripped off" by Kurt Cobain when he wrote "Smells Like Teen Spirit." Despite this influence and their significance, the Pixies themselves had no actual chart hits, making Nirvana's chart-topping success a notable departure for such alternative bands. "or even Boston's Pixies, who sound Kurt Cobain himself later confessed to ripping off when he wrote smells like teen spirit. No hit for the Pixies, either." ← Hit Parade Music History and Music Trivia > Smells Like Christmas Spirit, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Not Yet Nominated for Rock and Roll Hall of Fame** : The Pixies have not yet received a nomination for the Rock and Roll Hall of Fame. The speaker expresses interest in how they would fare if they were to appear on the ballot. "The pixies have still not been nominated." ← Hit Parade Music History and Music Trivia > The Bridge - Cover Queens and The Boy Wonder | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Surfer Rosa" (1988) — 1001 Albums You Must Hear Before You Die** : #622, 8.5/10 Scaruffi.
 **"Doolittle" (1989) — 1001 Albums You Must Hear Before You Die** : #655, 7.5/10 Scaruffi.
 **"Bossanova" (1990) — 1001 Albums You Must Hear Before You Die** : #669, 85 AOTY.
-**"Doolittle" (1989) — AOTY Must Hear 1980s** : #15, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Surfer Rosa" (1988) — AOTY Must Hear 1980s** : #39, 8.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Bossanova" (1990) — AOTY Must Hear 1990s** : #417, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Doolittle" (1989) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #141, 7.5/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Surfer Rosa" (1988) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #390, 8.5/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Surfer Rosa" (1988) — Scaruffi 1980s** : #17, 8.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Doolittle" (1989) — Scaruffi 1980s** : #185, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Come On Pilgrim" (1987) — Scaruffi 1980s** : #872, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Trompe Le Monde" (1991) — Scaruffi 1990s** : #1040, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Doolittle" (1989) — Pitchfork: The 200 Best Albums of the 1980s** : #14, 7.5/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
-**"Surfer Rosa" (1988) — Pitchfork: The 200 Best Albums of the 1980s** : #32, 8.5/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
-**"Bossanova" (1990) — Sputnikmusic Best Albums 1990** : #179, 85 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
+**"Doolittle" (1989) — AOTY Must Hear 1980s** : #15, 7.5/10 Scaruffi.
+**"Surfer Rosa" (1988) — AOTY Must Hear 1980s** : #39, 8.5/10 Scaruffi.
+**"Bossanova" (1990) — AOTY Must Hear 1990s** : #417, 85 AOTY.
+**"Doolittle" (1989) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #141, 7.5/10 Scaruffi.
+**"Surfer Rosa" (1988) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #390, 8.5/10 Scaruffi.
+**"Surfer Rosa" (1988) — Scaruffi 1980s** : #17, 8.5/10 Scaruffi.
+**"Doolittle" (1989) — Scaruffi 1980s** : #185, 7.5/10 Scaruffi.
+**"Come On Pilgrim" (1987) — Scaruffi 1980s** : #872, 7.0/10 Scaruffi.
+**"Trompe Le Monde" (1991) — Scaruffi 1990s** : #1040, 7.0/10 Scaruffi.
+**"Doolittle" (1989) — Pitchfork: The 200 Best Albums of the 1980s** : #14, 7.5/10 Scaruffi.
+**"Surfer Rosa" (1988) — Pitchfork: The 200 Best Albums of the 1980s** : #32, 8.5/10 Scaruffi.
+**"Bossanova" (1990) — Sputnikmusic Best Albums 1990** : #179, 85 AOTY.

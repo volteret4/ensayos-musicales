@@ -12,12 +12,12 @@
 **Oscar Nominations** : John Williams has accumulated approximately 60 Oscar nominations throughout his career. "John Williams, who has made something like at 60 Oscar nominations, I think." ← For the Record - The 70s > Ep. 28 - Soundtracks of the 70s | https://seventies.libsyn.com/028-soundtracks-of-the-70s-12221-5-45-pm
 
 ## lists
-**"Star Wars" (1977) — Grammy Award: Album of the Year nominees** : #1978. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Home Alone" (1990) — Sputnikmusic Best Albums 1990** : #48, 4.11 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"Schindler's List" (1993) — Sputnikmusic Best Albums 1993** : #8, 4.31 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
-**"Jurassic Park" (1993) — Sputnikmusic Best Albums 1993** : #12, 4.27 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
-**"Jurassic Park: The Lost World" (1997) — Sputnikmusic Best Albums 1997** : #63, 4.11 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
-**"Star Wars OST" (1999) — Sputnikmusic Best Albums 1999** : #3, 4.38 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1999/
-**"Star Wars, Episode I: The Phantom Menace" (1999) — Sputnikmusic Best Albums 1999** : #70, 4.11 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1999/
-**"Harry Potter and the Prisoner of Azkaban" (2004) — Sputnikmusic Best Albums 2004** : #94, 4.07 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2004/
-**"Star Wars, Episode III: Revenge of the Sith" (2005) — Sputnikmusic Best Albums 2005** : #14, 4.25 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2005/
+**"Star Wars" (1977) — Grammy Award: Album of the Year nominees** : #1978.
+**"Home Alone" (1990) — Sputnikmusic Best Albums 1990** : #48, 4.11 Sputnik.
+**"Schindler's List" (1993) — Sputnikmusic Best Albums 1993** : #8, 4.31 Sputnik.
+**"Jurassic Park" (1993) — Sputnikmusic Best Albums 1993** : #12, 4.27 Sputnik.
+**"Jurassic Park: The Lost World" (1997) — Sputnikmusic Best Albums 1997** : #63, 4.11 Sputnik.
+**"Star Wars OST" (1999) — Sputnikmusic Best Albums 1999** : #3, 4.38 Sputnik.
+**"Star Wars, Episode I: The Phantom Menace" (1999) — Sputnikmusic Best Albums 1999** : #70, 4.11 Sputnik.
+**"Harry Potter and the Prisoner of Azkaban" (2004) — Sputnikmusic Best Albums 2004** : #94, 4.07 Sputnik.
+**"Star Wars, Episode III: Revenge of the Sith" (2005) — Sputnikmusic Best Albums 2005** : #14, 4.25 Sputnik.

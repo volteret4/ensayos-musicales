@@ -7,7 +7,7 @@
 
 ## lists
 **"Gentlemen" (1993) — 1001 Albums You Must Hear Before You Die** : #738, 4.09 Sputnik.
-**"Gentlemen" (1993) — Scaruffi 1990s** : #384, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Gentlemen" (1993) — Sputnikmusic Best Albums 1993** : #72, 4.09 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
-**"Black Love" (1996) — Sputnikmusic Best Albums 1996** : #79, 4.11 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
-**"How Do You Burn?" (2022) — Sputnikmusic Best Albums 2022** : #187, 3.76 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2022/
+**"Gentlemen" (1993) — Scaruffi 1990s** : #384, 7.0/10 Scaruffi.
+**"Gentlemen" (1993) — Sputnikmusic Best Albums 1993** : #72, 4.09 Sputnik.
+**"Black Love" (1996) — Sputnikmusic Best Albums 1996** : #79, 4.11 Sputnik.
+**"How Do You Burn?" (2022) — Sputnikmusic Best Albums 2022** : #187, 3.76 Sputnik.

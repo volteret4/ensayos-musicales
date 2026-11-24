@@ -13,6 +13,7 @@
 ## genres
 - Blues
 - Rock and Roll
+- Rock-a-billy
 - Rockabilly
 - Swamp Rock
 
@@ -37,6 +38,7 @@
 **La-Dud-a-Da** : This song was the closest Dale Hawkins came to a follow-up hit after the success of "Suzy Q." The guitarist on this track was Jo-El Sonnier, who later joined James Burton in Los Angeles as a session player, becoming part of The Wrecking Crew. "That guitarist was another young player, Joaz Bonn, who would soon follow James Burton to L.A., and to the pool of session players that became known as The Racking Crew, though Osborne would switch his guitar for bass." ← Episode 63： ＂Susie Q＂, by Dale Hawkins | https://www.youtube.com/watch?v=4vqj1DcXOfw
 **My Babe** : Dale Hawkins recorded a cover version of Little Walter's song "My Babe." Moebue Cannon played guitar on this track, showcasing Hawkins' continued ability to work with talented guitarists after James Burton's departure. "Moebue Cannon, who played on Hawkins' cover version of Little Waltz's My Babe." ← Episode 63： ＂Susie Q＂, by Dale Hawkins | https://www.youtube.com/watch?v=4vqj1DcXOfw
 **See You Soon, Baboon (1956)** : Dale Hawkins was persuaded by Stan Lewis to write this "answer record" to Bobby Charles's "Later Alligator." Checker Records released Hawkins' demo, but made three key changes: adding a Tarzan-style yodeling call, misspelling his first name as "Del," and removing his songwriting credit, assigning it to Stan Lewis and Delna Roadwater. "Lewis sent that off to checker, who released Hawkins's demo, although they did make three small changes." ← Episode 63： ＂Susie Q＂, by Dale Hawkins | https://www.youtube.com/watch?v=4vqj1DcXOfw
+**Susie Q (1957)** : This song was a Top 30 hit for rock-a-billy singer-guitarist Dale Hawkins in 1957, a decade before Credence Clearwater Revival's breakthrough cover. "Susie Cue had been a top 30 hit for rock-a-billy singer-guitarist Dale Hawkins in 1957." ← Hit Parade Music History and Music Trivia > The Bad Moon on the Rise Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 **Suzy Q (1957)** : This song achieved significant commercial success, reaching number 7 on the R&B chart and number 27 on the pop charts. It was recorded in four takes by engineer Bob Sullivan, with Hawkins choosing an early take that captured an audible quick volume adjustment on his vocal. The final version featured James Burton's biting guitar riff and Ronnie Lewis's cowbell-infused drum part, inspired by AJ Tomanello's demo performance. "The song went to number 7 on the R&B chart, and number 27 on the pop charts." ← Episode 63： ＂Susie Q＂, by Dale Hawkins | https://www.youtube.com/watch?v=4vqj1DcXOfw
 
 ## curiosities

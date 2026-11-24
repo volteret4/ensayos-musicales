@@ -9,6 +9,6 @@
 **Portland, Oregon Group** : Chromatics is identified as a Dreampop and Synth Pop group originating from Portland, Oregon. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← chromatics
 
 ## lists
-**"Kill for Love" (2012) — AOTY Must Hear 2010s** : #783, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Kill for Love" (2012) — Scaruffi 2010s** : #136, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Kill for Love" (2012) — Pitchfork: The 200 Best Albums of the 2010s** : #101, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
+**"Kill for Love" (2012) — AOTY Must Hear 2010s** : #783, 7.0/10 Scaruffi.
+**"Kill for Love" (2012) — Scaruffi 2010s** : #136, 7.0/10 Scaruffi.
+**"Kill for Love" (2012) — Pitchfork: The 200 Best Albums of the 2010s** : #101, 7.0/10 Scaruffi.

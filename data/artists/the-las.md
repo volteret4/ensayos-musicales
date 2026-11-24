@@ -3,6 +3,14 @@
 ## members
 - Lee Mavers
 
+## genres
+- Beatles-esque
+- Indie Pop
+- Jangly Pop
+
+## songs
+**There She Goes (1990)** : This "Beatlesque gem" was The La's only major hit, reaching number 13 in the UK and number 2 on the US Modern Rock chart in 1991. Some argue it was an unofficial preamble to Britpop. "Some have argued that this beatlesque gem The Laws only major hit. Number 13 in the UK and number 2 on the US modern rock chart in 1991 was the unofficial preamble to Brit pop." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **"60s Dust" Anecdote** : An apocryphal story suggests that Lee Mavers once located what he called "60's dust," allegedly sound dust from the 1960s, which he sprinkled on his instruments before playing. "An apocryphal story, well probably apocryphal, says that Mayvers somehow located what he called 60's dust, which is just like it's sound dust allegedly from the 1960's, and he sprinkled it on his instruments before he started playing." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← the-las ← the-las
 **"A Secret Liverpool in Search of The La's" Book** : A book titled "A Secret Liverpool in Search of The La's" was written, reflecting the persistent mystery surrounding the band and its frontman. "There was even a book called A Secret Liverpool in Search of The Lies." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← the-las ← the-las
@@ -20,8 +28,9 @@
 **Lee Mavers' Disappearance and Rumors** : Following the album's release, Lee Mavers disappeared, leading to various rumors: that he became a painter, went into home decor, became a hopeless heroin addict (though he later recovered), was ceaselessly re-recording old songs, or was living in a monastery where monks praised his musical genius. "And with that, he disappeared. Oh, there were rumors and stories. He'd become a painter, he'd got into home decor, he'd become a hopeless heroin addict. He was re-recording and re-recording songs from that album in a Sisyphean attempt to get them right, that he was living in a monastery, where the resident monks had declared him to be the best thing to happen in music since Mozart." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← the-las
 **Limited Post-1991 Public Appearances** : Lee Mavers has appeared in concert 20 times since 1991 and is rumored to communicate with other musicians like William Gallagher and Paul Weller, despite his general reclusiveness. "Lee has appeared in concert 20 times since 1991. He's rumored to talk to other musicians from time to time. William Gallagher is rumored to be a mate, so was Paul Weller." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← the-las
 **Stressful Album Recording (1990)** : The recording of their sole album was incredibly stressful, largely due to Lee Mavers' "insane perfectionism" and his struggle to capture the exact sound he envisioned onto tape. "Recording that one album was incredibly stressful, compounded by Mayvers' insane perfectionism, and an inability to get down on tape exactly what he heard in his head." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← the-las
+**Unofficial Britpop Preamble** : "There She Goes" by The La's, a Beatlesque indie pop song, is sometimes argued to be the unofficial preamble to Britpop due to its UK and US Modern Rock chart success and its sound. "Some have argued that this beatlesque gem The Laws only major hit. Number 13 in the UK and number 2 on the US modern rock chart in 1991 was the unofficial preamble to Brit pop." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"The La’s" (1990) — 1001 Albums You Must Hear Before You Die** : #666.
-**"The La’s" (1990) — Pitchfork: The 50 Best Britpop Albums** : #14. ← musicbrainz | https://beta.musicbrainz.org/series/cd7ebb70-d88f-4f74-b6de-3a00bf2a162c
-**"The La’s" (1990) — Sputnikmusic Best Albums 1990** : #66. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
+**"The La’s" (1990) — Pitchfork: The 50 Best Britpop Albums** : #14.
+**"The La’s" (1990) — Sputnikmusic Best Albums 1990** : #66.

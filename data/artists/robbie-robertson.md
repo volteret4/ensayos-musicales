@@ -13,6 +13,7 @@
 
 ## songs
 **Somewhere Down the Crazy River (1987)** : This song, released in 1987 from Robbie Robertson's self-titled album, became a big alt-rock radio hit at the time. "Robbie Robertson was somewhere down the Crazy River, a song that was an alt-rock radio hit back in 1987." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← robbie-robertson
+**The Weight (1968)** : This song, written by Robbie Robertson and performed by The Band, was famously covered by Aretha Franklin. "Robbie Robertson, frontman of the band and writer of the song The Weight, which Aretha covered." ← Hit Parade Music History and Music Trivia > Music Trivia - The '90s Hip-Hop Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Childhood and Adoption** : Robbie's biological father was tragically killed while changing a flat tire on the side of a highway. He was subsequently adopted by his mother's second husband, and although they lived in Toronto, his mother frequently traveled back to Six Nations to visit family, maintaining his connection to his heritage. "Robbie's biological father was killed while changing a flat tire on the side of a highway. He was adopted by his mother's second husband and then they lived at a Toronto but mom frequently traveled back to Six Nations to visit family." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← robbie-robertson
@@ -21,6 +22,7 @@
 **Kayuga and Mohawk Heritage** : Robbie Robertson's mother was Kayuga and Mohawk, and she raised him on the Six Nations Reserve located west of Toronto. This strong connection to his Indigenous roots deeply influenced his later work. "His mom was a Kayuga and Mohawk raised on the Six Nations Reserve west of Toronto." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← robbie-robertson
 **Numerous Accolades** : Robbie Robertson has been inducted into the Rock and Roll Hall of Fame, Canada's Walk of Fame, and the Canadian Songwriters Hall of Fame. He is also an Officer of the Order of Canada and a recipient of the Governor-General's Performing Arts Award, and inspired the Aboriginal Lifetime Achievement Award. "He's in the Rock and Roll Hall of Fame. He's in Canada's Waka fame. He has a Governor-General's Performing Arts Award. He's in the Canadian Songwriters Hall of Fame. He's also an Officer of the Order of Canada and he inspired the Aboriginal Lifetime Achievement Award." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← robbie-robertson
 **The Band's Canadian Makeup** : One of the most "American sounding rock groups of the 20th century," The Band, was fascinatingly made up of Robbie Robertson and a bunch of other Canadians, with the sole exception of drummer Levon Helm, who was from Arkansas. "And it's fascinating that one of the most American sounding rock groups of the 20th century was actually made up of Robbie and a bunch of other Canadians. The only non-Canadian was drummer Lee von Helme, he was Mark and Saw." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← robbie-robertson
+**Mixed Race Heritage** : Robbie Robertson is recognized as having mixed race heritage; his mother originates from the Six Nations Reserve, a First Nations community in Canada. His music frequently incorporates and alludes to his indigenous background. "His mother is from the six nations reserve from the first nations of Canada. And in fact, Robertson's music often alludes directly to his indigenous heritage." ← Hit Parade Music History and Music Trivia > Music Trivia - The '90s Hip-Hop Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Officer of the Order of Canada** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q15278116
@@ -45,4 +47,4 @@
 **Academy Award for Best Original Score (2024) — Killers of the Flower Moon** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q488651
 
 ## lists
-**"Robbie Robertson" (1987) — Scaruffi 1980s** : #681, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Robbie Robertson" (1987) — Scaruffi 1980s** : #681, 7.0/10 Scaruffi.

@@ -14,4 +14,4 @@
 **Shortlist Music Prize (2007) — Standard Gargoyle Decisions** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q7502207
 
 ## lists
-**"Not In My Airforce" (1996) — Sputnikmusic Best Albums 1996** : #16, 4.27 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
+**"Not In My Airforce" (1996) — Sputnikmusic Best Albums 1996** : #16, 4.27 Sputnik.

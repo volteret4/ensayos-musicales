@@ -30,4 +30,4 @@
 
 ## artists
 - Mamie Smith
-
+- The Platters

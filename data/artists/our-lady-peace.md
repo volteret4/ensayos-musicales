@@ -70,8 +70,8 @@
 **Juno Award for Rock Album of the Year (2006) — Healthy in Paranoid Times** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q17141499
 
 ## lists
-**"Clumsy" (1997) — Juno Awards: Album of the Year** : #1998. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Happiness… Is Not a Fish That You Can Catch" (1999) — Juno Awards: Album of the Year** : #2001. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Spiritual Machines" (2000) — Juno Awards: Album of the Year** : #2002. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Gravity" (2002) — Juno Awards: Album of the Year** : #2003. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Happiness… Is Not a Fish That You Can Catch" (1999) — Sputnikmusic Best Albums 1999** : #183. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1999/
+**"Clumsy" (1997) — Juno Awards: Album of the Year** : #1998.
+**"Happiness… Is Not a Fish That You Can Catch" (1999) — Juno Awards: Album of the Year** : #2001.
+**"Spiritual Machines" (2000) — Juno Awards: Album of the Year** : #2002.
+**"Gravity" (2002) — Juno Awards: Album of the Year** : #2003.
+**"Happiness… Is Not a Fish That You Can Catch" (1999) — Sputnikmusic Best Albums 1999** : #183.

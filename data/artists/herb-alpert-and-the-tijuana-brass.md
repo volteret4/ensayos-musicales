@@ -1,9 +1,25 @@
 # artist - Herb Alpert and the Tijuana Brass
 
+## members
+- Herb Alpert
+
+## genres
+- Instrumental Pop
+
+## albums
+**Chart Dominance** : Herb Alpert and The Tijuana Brass recorded a remarkable string of smash albums in the 1960s, with "five of which went to number one on the Billboard LP chart." This achievement was surpassed by "more than any 60s act except the Beatles," highlighting their immense popularity. "Herb Albert and The Tijuana Brass recorded a string of smash albums, five of which went to number one on the Billboard LP chart, more than any 60s act except the Beatles." ← Hit Parade Music History and Music Trivia > Singing Nuns and Green Tambourines Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**What Now My Love** : This album was one of four chart-topping LPs released by Herb Alpert and the Tijuana Brass between 1966 and 1968, all of which benefited from the success of their earlier hit, *Wipped Cream and Other Delights*. Notably, *What Now My Love* spent one more week at number one than *Wipped Cream and Other Delights*. "One of these later Alperts LP's, what now my love, actually spent one more week at number one, then Wipped Cream and Other Delights did." ← Hit Parade Music History and Music Trivia > The ACDC Rule, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Wipped Cream, and Other Delights (1965)** : This album, released in 1965, gained significant popularity due to its famous LP jacket featuring a seemingly nude model buried in whipped cream up to her chest, which contributed to its sales of millions of copies. Its success served as a foundation for the band's subsequent chart-topping albums. "The album's sexy cover of a seemingly nude model buried in Wipped Cream up to her chest helped move millions of copies of Alperts LP." ← Hit Parade Music History and Music Trivia > The ACDC Rule, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## songs
+**Spanish Flea** : This hit instrumental bop by Herb Alpert was later adopted as the memorable theme music for the popular television show *The Dating Game*. Its catchiness contributed to the band's widespread recognition. "Alperts hit instrumental bops like Spanish Flea, later the theme to TV's The Dating Game, didn't hurt." ← Hit Parade Music History and Music Trivia > The ACDC Rule, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **Commissioned Sound System** : Herb Alpert and the Tijuana Brass, alongside The Beach Boys, commissioned a specialized sound system for their tours. This initiative was part of a broader trend among popular bands to address the limitations of existing amplification for live music performances in the mid-1960s. "The Beach Boys commissioned a specially built sound system for their tours, so did her bellbird and the Tijuana brass." ← https://www.youtube.com/watch?v=NAroxFbYkRw ← herb-alpert-and-the-tijuana-brass
 **Second Custom Concert Sound System (1965)** : In 1965, Herb Alpert and the Tijuana Brass contracted Harry McHughan sound systems for their tour. This initiative is noted as establishing what appears to be the second dedicated concert sound system for touring artists, following The Beach Boys' earlier efforts. "Then, Herb Alpert and the Tijuana Brass contracted Harry McHughan sound systems for their 1965 tour." ← https://www.youtube.com/watch?v=qrrwqdpCjpQ ← herb-alpert-and-the-tijuana-brass
 **Album Arrangement** : Quincy Jones arranged albums for Herb Alpert's Tijuana Brass during the 1970s, demonstrating his versatility and continued involvement in producing for various established artists. "He arranged 70's albums for Billy Preston and Herb Alperts Tijuana Brass." ← Hit Parade Music History and Music Trivia > I Wanna Rock with Q. Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f06154465cd600c5440
+**Jewish-American Latin-Flavored Act** : Herb Alpert, described as a "young Jewish man from Los Angeles," recorded his trumpet playing under the group name The Tijuana Brass. This created a "new wave of Latin-flavored Anglo-Hitmakers" in the mid-1960s, despite the group not actually being Latin. "Herb Albert, a young Jewish man from Los Angeles, recorded his trumpet playing under the group name The Tijuana Brass." ← Hit Parade Music History and Music Trivia > Singing Nuns and Green Tambourines Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**ACDC Rule Application** : Herb Alpert and the Tijuana Brass broadly fit the parameters of the ACDC rule because, despite later albums achieving number one status and even longer chart runs, none are as well-remembered as their breakthrough album, *Wipped Cream and Other Delights*. "So, Herb Alperts does broadly fit the parameters of the ACDC role." ← Hit Parade Music History and Music Trivia > The ACDC Rule, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Zorba the Greek" — Billboard Year-End Hot 100** : #92, 1966. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

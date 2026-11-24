@@ -9,6 +9,6 @@
 
 ## lists
 **"Twelve Dreams of Dr. Sardonicus" (1970) — 1001 Albums You Must Hear Before You Die** : #177.
-**"The Family That Plays Together" (1969) — Scaruffi 1960s** : #64, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Spirit" (1968) — Scaruffi 1960s** : #196, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Twelve Dreams of Dr. Sardonicus" (1970) — Scaruffi 1970s** : #500. ← Scaruffi | https://scaruffi.com/music/best.html
+**"The Family That Plays Together" (1969) — Scaruffi 1960s** : #64, 7.5/10 Scaruffi.
+**"Spirit" (1968) — Scaruffi 1960s** : #196, 7.0/10 Scaruffi.
+**"Twelve Dreams of Dr. Sardonicus" (1970) — Scaruffi 1970s** : #500.

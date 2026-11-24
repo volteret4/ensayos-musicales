@@ -1,6 +1,7 @@
 # artist - Tony Hadley
 
 ## member of
+- Band Aid
 - Spandau Ballet
 
 ## labels
@@ -8,6 +9,9 @@
 
 ## concerts
 - **Highest Airplane Concert (2017)** : Tony Hadley, alongside Kim Wilde and others, performed a charity gig aboard a chartered British Airway 767. This performance set a record for the highest airplane concert, reaching an altitude of 43,000 feet. "And the highest airplane concert record belongs to Tony Hadley, he of Spandobele, and 80 star Kim Wilde, among others, who performed a charity gig aboard a chartered British Airway 767, which reached 43,000 feet."
+
+## songs
+**Do They Know It's Christmas? (1984)** : Tony Hadley of Spandau Ballet contributed a solo verse to Band-Aid's "Do They Know It's Christmas?" He was one of the 11 pop artists taking a verse, either solo or in pairs, in the song's first two minutes. "Sting, who shares his verses with Le Bonne and Spandau Ballet's Tony Hadley." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Charity Gig at 43,000 Feet (2013)** : On March 10, 2013, Tony Hadley of Spandau Ballet, along with Kim Wilde, performed a charity gig aboard a British Airways 767 at an altitude of 43,000 feet. This event pushed the boundary of high-altitude concerts, reaching near the operational ceiling of current passenger jets. "Tony Hadley of Spandovalet and Kim Wilde, who performed a charity gig on a British Airway 767 at a height of 43,000 feet." ← https://www.youtube.com/watch?v=hmnMG6f80Sg ← tony-hadley

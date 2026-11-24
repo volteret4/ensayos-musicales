@@ -17,8 +17,8 @@
 
 ## lists
 **"Desperate Youth, Blood Thirsty Babes" (2004) — 1001 Albums You Must Hear Before You Die** : #992.
-**"Dear Science" (2008) — AOTY Must Hear 2000s** : #69, 87 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Return To Cookie Mountain" (2006) — AOTY Must Hear 2000s** : #193, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Return To Cookie Mountain" (2006) — Scaruffi 2000s** : #148, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Desperate Youth, Blood Thirsty Babes" (2004) — Scaruffi 2000s** : #689. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Dear Science" (2008) — Sputnikmusic Best Albums 2008** : #168, 87 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2008/
+**"Dear Science" (2008) — AOTY Must Hear 2000s** : #69, 87 AOTY.
+**"Return To Cookie Mountain" (2006) — AOTY Must Hear 2000s** : #193, 7.5/10 Scaruffi.
+**"Return To Cookie Mountain" (2006) — Scaruffi 2000s** : #148, 7.5/10 Scaruffi.
+**"Desperate Youth, Blood Thirsty Babes" (2004) — Scaruffi 2000s** : #689.
+**"Dear Science" (2008) — Sputnikmusic Best Albums 2008** : #168, 87 AOTY.

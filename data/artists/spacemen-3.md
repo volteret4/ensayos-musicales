@@ -14,6 +14,6 @@
 
 ## lists
 **"Playing With Fire" (1988) — 1001 Albums You Must Hear Before You Die** : #641, 7.0/10 Scaruffi.
-**"Playing With Fire" (1988) — Scaruffi 1980s** : #726, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Dreamweapon" (1990) — Scaruffi 1990s** : #1188, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Playing With Fire" (1988) — Pitchfork: The 200 Best Albums of the 1980s** : #113, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"Playing With Fire" (1988) — Scaruffi 1980s** : #726, 7.0/10 Scaruffi.
+**"Dreamweapon" (1990) — Scaruffi 1990s** : #1188, 7.0/10 Scaruffi.
+**"Playing With Fire" (1988) — Pitchfork: The 200 Best Albums of the 1980s** : #113, 7.0/10 Scaruffi.

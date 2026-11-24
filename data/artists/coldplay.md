@@ -8,16 +8,20 @@
 
 ## genres
 - Alt Rock
+- Alternative rock
+- Britpop
 - New Rock
 - Pop
 - Pop Rock
 - post brick pop
 - Rock
+- UK indie rock
 
 ## concerts
 - Big Day Out, Sydney (2001)
 - Coachella
 - Glastonbury
+- Super Bowl Halftime Show
 - Wembley Stadium
 
 ## instruments
@@ -37,12 +41,19 @@
 **X&Y (2005)** : Released on June 6, 2005, this album was a "hard record to make" after extensive touring. Despite the challenge, it "hit the cycle" and sold "somewhere around 14 million copies," becoming a major success in the mid-2000s rock resurgence. "They showed up with X and Y on June 6th of 2005. Now, third records are hard, especially for a band that had been working in touring as much as cold play. And it was a hard record to make, but in the end, they hit the cycle. And they sold somewhere around 14 million copies." ← https://www.youtube.com/watch?v=MK7L0eCpDHc ← coldplay
 
 ## songs
+**Christmas Lights (2010)** : This Christmas song released in 2010 by Coldplay was a number 25 hit. "Coldplay had a number 25 hit with Christmas lights four years later in 2010." ← Hit Parade Music History and Music Trivia > The Bridge - Queens Bey, Rih and Robyn Reign Different Kingdoms | https://my.slate.com/podcasts/feeds/hit-parade/
 **Clocks** : This song is conceptually linked to Chris Martin's great-great-grandfather, William Willett, who played a significant role in popularizing Daylight Saving Time. "William Willett was singer Chris Martin's great, great grandfather. So maybe that's why he wrote a song called, clocks." ← https://www.youtube.com/watch?v=0D4wGWI-_z8 ← coldplay
+**Clocks** : An older hit by Coldplay, mentioned as having fewer Spotify streams than "My Universe." "higher even than older hits like clocks" ← Hit Parade Music History and Music Trivia > Toppermost of the Poppermost Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Fix You (2005)** : "Fix You" is a song by Coldplay. It was combined with Simon and Garfunkel's "Bridge Over Troubled Water" to create the mashup "A Bridge Over You," which was performed by the Lewisham and Grennitch NHS choir and became the UK Christmas number one in 2015. "Their novel single was a mashup of Simon and Garfunkel's bridge over troubled water with cold plays fix you." ← Hit Parade Music History and Music Trivia > The Christmas is All Around Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Homecoming (2007)** : Coldplay frontman Chris Martin contributed to Kanye West's wistful single from the "Graduation" album, playing the piano hook and providing vocals. "Coldplay Frontman Chris Martin to play the piano hook and sing on Jay's Whistful single Homecoming." ← Hit Parade Music History and Music Trivia > Say My Name, Say My Name, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **I'm Your Baby's Daddy** : This goofy song was written by Chris Martin for his then-wife, Gwyneth Paltrow, when she was expecting their first child, who they referred to as "Little Apple." Coldplay recorded it as The Nappys, also producing a video which was introduced by Sir George Martin. "It's The Nappy's, actually Coldplay, with a song Chris Martin wrote to then-wife Gwyneth Paltrow when she was expecting their first child." ← https://www.youtube.com/watch?v=itK5fEqnA5E ← coldplay ← coldplay
+**My Universe (2021)** : This duet with K-pop boyband BTS gave the Chris Martin-fronted British band their only number one debut, and their first number one hit of any kind since "Viva La Vida" in 2008, more than 13 years earlier. The collaboration is seen as benefiting from the "BTS bump." As of 2025, "My Universe" garners only 17 radio spins a week, but on Spotify, its 1.5 billion streams rank the song among Coldplay's most streamed hits, even higher than older hits like "Clocks" or "Speed of Sound." "Their duet with Coldplay, 2021's My Universe, gave the Chris Martin fronted British band their only number one debut." ← Hit Parade Music History and Music Trivia > Toppermost of the Poppermost Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Speed of Sound** : An older hit by Coldplay, mentioned as having fewer Spotify streams than "My Universe." "or speed of sound." ← Hit Parade Music History and Music Trivia > Toppermost of the Poppermost Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Talk (2005)** : The melody line for this song, from the *X&Y* album, was intentionally borrowed from Kraftwerk's "Computer Love." Kraftwerk was cool with Coldplay's use of their melody. "And yes, Coldplay does know they left the melody line for Talk from the X and Y album." ← https://www.youtube.com/watch?v=Dm5N6yDRxXQ ← coldplay
 **Talk (2005)** : Featured on the "X and Y" album (2005), this song knowingly interpolates Kraftwerk's "Computer Love" (1981). Coldplay obtained permission, leading to Kraftwerk sharing in songwriting credits and earning millions in royalties. "It features the song Talk and it interpolates computer love." ← https://www.youtube.com/watch?v=dnQ1pNbIUjw ← coldplay ← coldplay
 **Viva La Vida (2008)** : The title track from their "Viva La Vida" album. Released three years after Joe Satriani's "If I Could Fly," it faced allegations of sounding too similar, prompting Satriani to file a lawsuit. Coldplay denied wrongdoing and guilt, but an out-of-court settlement was reached and sealed by the court. "Coldplay released the Viva La Vita album and the title track." ← https://www.youtube.com/watch?v=4cZfegexwwk ← coldplay
 **Viva La Vida (2008)** : The title track from their 2008 album *Viva La Vida* led to a lawsuit from metal guitarist Joe Satriani, who claimed its melody was too similar to his 2004 song "If I Could Fly." While Coldplay denied wrongdoing and guilt, a "settlement that was sealed by the court" was reached. The situation was described as an "unfortunate Sonic coincidence where Coldplay independently discovered a melody that had already been published and copyrighted by someone else." "Okay, you can see the problem. You compare the melodies of that Coldplay song to If I Could Fly from Joe Centriani." ← https://www.youtube.com/watch?v=rfObVld9rIE ← coldplay
+**Viva La Vida (2008)** : This song was Coldplay's last number one hit before their 2021 collaboration "My Universe" with BTS, marking a gap of over 13 years. "It was Coldplay's first number one hit of any kind since Viva La Vida in 2008, more than 13 years earlier." ← Hit Parade Music History and Music Trivia > Toppermost of the Poppermost Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **2004 Hiatus for Album Production** : The band spent most of 2004 "out of sight working on the follow-up to a rush of blood to the head," indicating a focused effort on their next album. "After spending most of 2004 out of sight working on the follow-up to a rush of blood to the head..." ← https://www.youtube.com/watch?v=MK7L0eCpDHc ← coldplay
@@ -87,6 +98,9 @@
 **Streaming Success with Pop-Leaning Rock Sound** : Coldplay achieved considerable streaming success during the 2010s, with their songs being streamed hundreds of millions, and in some instances, billions of times. Their musical style was noted for leaning more towards the pop end of rock, contributing to their widespread appeal in the streaming era. "There was the luminaires, Lorde, Imagine Dragons, Coldplay, Mumford and Sons. They all had songs that streamed hundreds of millions, and in some cases billions of times through the decade." ← https://www.youtube.com/watch?v=5Y6nHw5xx88 ← coldplay
 **Top-Grossing Tours** : Coldplay is identified as an act, with an average age of 45 and above, contributing to the vast majority of all-time top-grossing tours. Their continued success in drawing large audiences is linked to the strong pull of nostalgia among fans. ← https://www.youtube.com/watch?v=m7MbV-eCLyE ← coldplay
 **UK Success (2010s)** : This established band was among the "monsters" that performed well in the UK during the 2010s. "Meanwhile, the Monsters did well, and that would include Coldplay and Muse and Gorillas." ← https://www.youtube.com/watch?v=sOU54d8mr5k ← coldplay
+**Monstrously Successful Post-Britpop Band** : In the early 2000s, Coldplay was part of a new, "monstrously successful" generation of UK bands that blended Radiohead's "The Bends"-era sound with Britpop's tunefulness. "Blending Radiohead's sound circa the bends with the tunefulness of Britpop, including such acts as Travis and the monstrously successful Coldplay." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Official Performer of 2016 Super Bowl Halftime Show** : Coldplay was the official performer of the 2016 Super Bowl halftime show, though they allocated significant portions of their time to guest artists Bruno Mars and Beyoncé. "The official performer of the 2016 Super Bowl halftime show was Coldplay, but the British band seated a large chunk of their time to guests Bruno Mars and most dazzlingly, Beyonce." ← Hit Parade Music History and Music Trivia > Say My Name, Say My Name, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**U2 Homage and Producer Collaboration (Mid-2000s)** : Many critics assert that the "entire career of Coldplay is one long homage to U2." Coldplay further mirrored U2's path by engaging Brian Eno, who had frequently worked with U2, to produce their "Smash 2008 album, Viva La Vida." "And many critics contend that the entire career of Coldplay is one long homage to U2." ← Hit Parade Music History and Music Trivia > With or Without U2 Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **NRJ Music Award for International Group/Duo/Troupe of the Year (2016)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3334537
@@ -108,10 +122,10 @@
 ## lists
 **"Parachutes" (2000) — 1001 Albums You Must Hear Before You Die** : #916, 82 AOTY.
 **"A Rush of Blood to the Head" (2002) — 1001 Albums You Must Hear Before You Die** : #949, 80 AOTY.
-**"Viva la Vida or Death and All His Friends" (2008) — AOTY Must Hear 2000s** : #81. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"A Rush of Blood to the Head" (2002) — AOTY Must Hear 2000s** : #395, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Parachutes" (2000) — AOTY Must Hear 2000s** : #496, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"A Rush of Blood to the Head" (2002) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #324, 80 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Viva la Vida or Death and All His Friends" (2008) — Grammy Award: Album of the Year nominees** : #2009. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Everyday Life" (2019) — Grammy Award: Album of the Year nominees** : #2021. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Music of the Spheres" (2021) — Grammy Award: Album of the Year nominees** : #2023. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
+**"Viva la Vida or Death and All His Friends" (2008) — AOTY Must Hear 2000s** : #81.
+**"A Rush of Blood to the Head" (2002) — AOTY Must Hear 2000s** : #395, 80 AOTY.
+**"Parachutes" (2000) — AOTY Must Hear 2000s** : #496, 82 AOTY.
+**"A Rush of Blood to the Head" (2002) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #324, 80 AOTY.
+**"Viva la Vida or Death and All His Friends" (2008) — Grammy Award: Album of the Year nominees** : #2009.
+**"Everyday Life" (2019) — Grammy Award: Album of the Year nominees** : #2021.
+**"Music of the Spheres" (2021) — Grammy Award: Album of the Year nominees** : #2023.

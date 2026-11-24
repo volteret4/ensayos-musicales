@@ -14,9 +14,9 @@
 **Post-Faith No More Band** : Mr. Bungle was one of the musical groups that emerged from the individual pursuits of Faith No More members after their initial split. "There were post-faith no more bands like Imperial Teen and Mr. Bungle." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ ← mr-bungle
 
 ## lists
-**"California" (1999) — AOTY Must Hear 1990s** : #25, 71 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Disco Volante" (1995) — AOTY Must Hear 1990s** : #220, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Mr Bungle" (1991) — AOTY Must Hear 1990s** : #397, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Mr Bungle" (1991) — Scaruffi 1990s** : #955, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Mr Bungle" (1991) — Sputnikmusic Best Albums 1991** : #55, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"California" (1999) — Sputnikmusic Best Albums 1999** : #5, 71 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1999/
+**"California" (1999) — AOTY Must Hear 1990s** : #25, 71 AOTY.
+**"Disco Volante" (1995) — AOTY Must Hear 1990s** : #220, 90 AOTY.
+**"Mr Bungle" (1991) — AOTY Must Hear 1990s** : #397, 7.0/10 Scaruffi.
+**"Mr Bungle" (1991) — Scaruffi 1990s** : #955, 7.0/10 Scaruffi.
+**"Mr Bungle" (1991) — Sputnikmusic Best Albums 1991** : #55, 7.0/10 Scaruffi.
+**"California" (1999) — Sputnikmusic Best Albums 1999** : #5, 71 AOTY.

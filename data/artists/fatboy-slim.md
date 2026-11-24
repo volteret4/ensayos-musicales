@@ -7,6 +7,7 @@
 - Alternative Dance
 - Alternative Music
 - Big Beat
+- Club
 - Dance
 - Electronic
 - Electronic Dance Music
@@ -30,6 +31,7 @@
 **Praise You (1998)** : A notable song from Fatboy Slim's 1998 album, "You've Come a Long Way, Baby." "su disco más popular de cual de esta canción es como Press-Due." ← Por qué el cine de los 2000 sonaba así？ Big Beat | https://www.youtube.com/watch?v=UOFTiKXruFQ
 **Right Here Right Now (1998)** : From his 1998 album *You've Come A Long Way Baby*, this song was part of Fatboy Slim's output that reached number one on albums and singles charts, making him a radio staple by the end of the 90s. "Fat Boy Slim and right here right now from his 1998 album You've Come A Long Way Baby." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← fatboy-slim
 **Rockafeller Skank (1998)** : This famous track by Fatboy Slim was featured in the soundtrack for the video game FIFA 99, becoming a highly recognizable example of Big Beat's integration into popular media. "FIFA 99, con la famosísima de Rockefeller's Canc de Fat Boy Slim." ← Por qué el cine de los 2000 sonaba así？ Big Beat | https://www.youtube.com/watch?v=UOFTiKXruFQ
+**Rockafeller Skank (1998)** : This track, released in 1998, was a "de facto instrumental" studded with spoken word samples. It became a number 2 dance single, showcasing how DJ producers created innovative clubland hits using instrumentals. "Fatboy Slim's The Rockefeller Skank, a number 2 dance single in 1998, is a de facto instrumental studded with spoken word samples." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Big Beat Butik - Origin of Big Beat** : Norman Cook, known as Fatboy Slim, held a Friday night party in a Brighton club called Big Beat Butik. These parties, along with those led by The Chemical Brothers in London, were instrumental in popularizing the genre that would eventually be named Big Beat in honor of Cook's events. "El Dj Britannico Norman Cook, más conocido como Fat Boy Slim, tenía una fiesta a los viernes en un club de Brighton llamada Big Beat Butik." ← Por qué el cine de los 2000 sonaba así？ Big Beat | https://www.youtube.com/watch?v=UOFTiKXruFQ
@@ -47,6 +49,8 @@
 **Transition from Indie Pop to Dance Music** : Norman Cook, formerly the bass player for the "nice tight English Indy pop band" The Housemartins in the 1980s, transitioned into producing dance music, adopting the moniker Fatboy Slim by 1996. "Norman Cook used to be the bass player for the House Martins, a nice tight English Indy pop band from the 1980s." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← fatboy-slim
 **DJ to Mainstream Composer** : Norman Cook, also known as Fatboy Slim, successfully moved beyond being solely a DJ, composing dance tracks that achieved mainstream appeal and helped him emerge as a notable star in electronic music. "DJs like Norman Cook were able to get out from behind the turntables, and compose some very mainstream friendly dance tracks like this. He was known as Fatboy Slim." ← https://www.youtube.com/watch?v=hBQE4t72i3o ← norman-cook ← norman-cook
 **DJ to Mainstream Composer** : Norman Cook, also known as Fatboy Slim, successfully moved beyond being solely a DJ, composing dance tracks that achieved mainstream appeal and helped him emerge as a notable star in electronic music. "DJs like Norman Cook were able to get out from behind the turntables, and compose some very mainstream friendly dance tracks like this. He was known as Fatboy Slim." ← https://www.youtube.com/watch?v=hBQE4t72i3o ← norman-cook
+**Remix Success** : Norman Cook, known as Fatboy Slim, remixed Cornershop's "Brimful of Asha," which then hit number one the following year after its initial release. "a remix by Norman Cook of Fat Boy Slim fame would hit number one the following year." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Transformation to Fat Boy Slim** : Formerly a member of the House Martins, Norman Cook transformed his musical identity into the big beat DJ known as Fat Boy Slim, subsequently scoring actual top 40 hits in America by late 1998 and early 1999. "former House Martins member Norman Cook transformed into a big beat DJ called Fat Boy Slim, was scoring actual top 40 hits in America." ← Hit Parade Music History and Music Trivia > Hit Parade - The Veronica Electronica Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Grammy Award for Best Alternative Music Album (1999) — You've Come a Long Way, Baby** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1542129
@@ -59,5 +63,5 @@
 ## lists
 **"Better Living Through Chemistry" (1996) — 1001 Albums You Must Hear Before You Die** : #809, 7.0/10 Scaruffi.
 **"You’ve Come a Long Way, Baby" (1998) — 1001 Albums You Must Hear Before You Die** : #864, 79 AOTY.
-**"Better Living Through Chemistry" (1996) — Scaruffi 1990s** : #675, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"You’ve Come a Long Way, Baby" (1998) — Scaruffi 1990s** : #676, 79 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Better Living Through Chemistry" (1996) — Scaruffi 1990s** : #675, 7.0/10 Scaruffi.
+**"You’ve Come a Long Way, Baby" (1998) — Scaruffi 1990s** : #676, 79 AOTY.

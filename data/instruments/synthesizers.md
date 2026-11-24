@@ -27,6 +27,15 @@
 **Usage in Antichrist Superstar** : Synthesizers were utilized in Marilyn Manson's "Antichrist Superstar," contributing to its complex musicality, alongside elements of New Wave and various rock and metal genres. "y desintetizadores." ← Music Radar Clan > Cómo Marilyn Manson revolucionó el mundo con Antichrist Superstar | https://www.youtube.com/watch?v=P0QBVwi9KZQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Joe Jackson's Experimentation** : Joe Jackson began experimenting with synthesizers for his "Night and Day" album, influenced by Kraftwerk's electronic dance beats. He notably programmed a Prophet 5 synthesizer in his small SoHo studio, using it as a key tool for the album's centerpiece song, "Steppin' Out." "On top of all these urban sounds, Jackson had been experimenting with synthesizers and drum machines." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
 **Shift in New Wave Sound** : Synthesizers became increasingly central to the sound of new wave in the early 1980s, leading to a shift from powerpop and post-punk to synthpop. Albums like Elvis Costello's "Goodbye Cruel World" featured "synth heavy singles" reflecting this trend. "with such synth heavy singles as I Wanna Be Loved." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
+**Eurythmics' "Sweet Dreams" (1983)** : On Eurythmics' 1983 hit "Sweet Dreams (Are Made of This)," synthesizers were used to cycle around the melody, producing a "lurching rhythm" and building to an electronic string solo on the bridge, contributing to the song's initially "weird" sound. "The way the synthesizers cycle around the melody and produce a lurching rhythm." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Timbaland's "Cry Me a River" (2002)** : Timbaland's production for Justin Timberlake's "Cry Me a River" featured "synthesized orchestral bursts" as a key element within its "cathedral of weird" sound. "punctuated by synthesized orchestral bursts and a virtual choir." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Dominance in 80s Movie Music** : Synthesizers became the primary instrument for composing movie music in the 1980s, a trend highlighted by Vangelis's score for *Chariots of Fire* (1981). This marked a significant shift towards more electronic, contemporary sounds in film. "As music composed largely on synthesizers, it pointed the direction soundtrack music was headed in the 80s. Soon, movie music would be mostly synth-based..." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Increased Prominence in 80s Pop (1983)** : Synthesizers became more prominent in 80s pop, exemplified by their use on Dionne Warwick's 1983 hit "Heartbreaker." While the song was also part of a trend of working with the Gibb brothers, the increased use of synthesizers marked a sonic shift. "No, not synth pop. Although synthesizers were more prominent on this track than on any hit she'd had before." ← Hit Parade Music History and Music Trivia > Killing Me Softly Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Hectic Presence in Freestyle** : Synthesizers are a defining characteristic of freestyle, contributing to its "hectic" sound along with rap-style break beats. "Hectic synthesizers." ← Hit Parade Music History and Music Trivia > Point of No Return Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Application in "Lost in Emotion"** : Synthesizers were used to punctuate Lisa Lisa and Cult Jam's "Lost in Emotion," particularly run through zylafeng and kongas to create its distinctive sound. "Punctuated by Zylafeng and Kongas run through synthesizers." ← Hit Parade Music History and Music Trivia > Point of No Return Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Consistent Use in Freestyle Ballads** : Lewis Martinee utilized the same synthesizer sounds for freestyle ballads, such as Exposé's "Seasons Change," as he did for his dance tracks, ensuring a consistent sonic signature within the genre. "Producer songwriter Lewis Marteney used the same production techniques and synthesizer sounds as on his dance tracks." ← Hit Parade Music History and Music Trivia > Point of No Return Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Defining Sound of Mid-to-Late 80s Freestyle** : The "blippy synthesizers" of freestyle, combined with its trebly beats, firmly date the genre as a mid-to-late 1980s phenomenon. "Its trebly beats and blippy synthesizers date it firmly as a mid to late 80s phenomenon." ← Hit Parade Music History and Music Trivia > Point of No Return Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Historical Perception and Shifting Acceptance** : Historically, synthesizers were sometimes dismissed by some as not constituting "real music." However, there's a growing acceptance and understanding of synthesizer-based music, leading to fewer people holding this negative view and increasing the likelihood of bands like Depeche Mode, known for their use of synthesizers, receiving recognition. "I think there are less people now who basically look at someone like to Peshmo go like, synthesizers, that's not real music." ← Hit Parade Music History and Music Trivia > The Bridge - Genre v. Generation, ’80s to ’10s | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Björk
@@ -43,3 +52,17 @@
 - Trent Reznor
 - Morgan Wallen
 - Joe Jackson
+- Billy Joel
+- Prince
+- Eurythmics
+- The B-52s
+- Blur
+- Pulp
+- Stevie Wonder
+- The Neptunes
+- Lenny Kravitz
+- Vangelis
+- D-Train
+- Afrika Bambaataa & Soulsonic Force
+- John Jellybean Benitez
+- Chris Barbosa

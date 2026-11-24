@@ -10,14 +10,14 @@
 ## lists
 **"Scott 2" (1968) — 1001 Albums You Must Hear Before You Die** : #130.
 **"Scott 4" (1969) — 1001 Albums You Must Hear Before You Die** : #170, 7.0/10 Scaruffi.
-**"Scott 4" (1969) — AOTY Must Hear 1960s** : #4, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"Scott 3" (1969) — AOTY Must Hear 1960s** : #28, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"Tilt" (1995) — AOTY Must Hear 1990s** : #237, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Drift" (2006) — AOTY Must Hear 2000s** : #199, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Soused" (2014) — AOTY Must Hear 2010s** : #558, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Scott 4" (1969) — Scaruffi 1960s** : #189, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Tilt" (1995) — Scaruffi 1990s** : #1136, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Drift" (2006) — Scaruffi 2000s** : #622, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Tilt" (1995) — Pitchfork: The 150 Best Albums of the 1990s** : #56, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Scott 4" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #45, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
-**"Drift" (2006) — Sputnikmusic Best Albums 2006** : #81, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/
+**"Scott 4" (1969) — AOTY Must Hear 1960s** : #4, 7.0/10 Scaruffi.
+**"Scott 3" (1969) — AOTY Must Hear 1960s** : #28, 80 AOTY.
+**"Tilt" (1995) — AOTY Must Hear 1990s** : #237, 7.0/10 Scaruffi.
+**"Drift" (2006) — AOTY Must Hear 2000s** : #199, 7.0/10 Scaruffi.
+**"Soused" (2014) — AOTY Must Hear 2010s** : #558, 81 AOTY.
+**"Scott 4" (1969) — Scaruffi 1960s** : #189, 7.0/10 Scaruffi.
+**"Tilt" (1995) — Scaruffi 1990s** : #1136, 7.0/10 Scaruffi.
+**"Drift" (2006) — Scaruffi 2000s** : #622, 7.0/10 Scaruffi.
+**"Tilt" (1995) — Pitchfork: The 150 Best Albums of the 1990s** : #56, 7.0/10 Scaruffi.
+**"Scott 4" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #45, 7.0/10 Scaruffi.
+**"Drift" (2006) — Sputnikmusic Best Albums 2006** : #81, 7.0/10 Scaruffi.

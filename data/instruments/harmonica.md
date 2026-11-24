@@ -22,4 +22,9 @@
 - Stevie Wonder
 - U2
 - Woody Guthrie
-
+- The Beatles
+- Billy Joel
+- Bruce Channel
+- Reverend Robert Hodeau
+- OutKast
+- Pastor Robert Hodev

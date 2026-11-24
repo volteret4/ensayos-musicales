@@ -21,13 +21,13 @@
 ## lists
 **"Lazer Guided Melodies" (1992) — 1001 Albums You Must Hear Before You Die** : #720, 7.0/10 Scaruffi.
 **"Ladies and Gentlemen We Are Floating in Space" (1997) — 1001 Albums You Must Hear Before You Die** : #858, 90 AOTY.
-**"Ladies and Gentlemen We Are Floating in Space" (1997) — AOTY Must Hear 1990s** : #126, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Songs in A&E" (2008) — AOTY Must Hear 2000s** : #88, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Let It Come Down" (2001) — AOTY Must Hear 2000s** : #437, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Everything Was Beautiful™" (2022) — AOTY Must Hear 2020s** : #445, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Pure Phase" (1995) — Scaruffi 1990s** : #322, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Ladies and Gentlemen We Are Floating in Space" (1997) — Scaruffi 1990s** : #1195, 90 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Lazer Guided Melodies" (1992) — Scaruffi 1990s** : #1196, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Ladies and Gentlemen We Are Floating in Space" (1997) — Pitchfork: The 150 Best Albums of the 1990s** : #86, 90 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Lazer Guided Melodies" (1992) — Sputnikmusic Best Albums 1992** : #90, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"Ladies and Gentlemen We Are Floating in Space" (1997) — Sputnikmusic Best Albums 1997** : #25, 90 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
+**"Ladies and Gentlemen We Are Floating in Space" (1997) — AOTY Must Hear 1990s** : #126, 90 AOTY.
+**"Songs in A&E" (2008) — AOTY Must Hear 2000s** : #88, 81 AOTY.
+**"Let It Come Down" (2001) — AOTY Must Hear 2000s** : #437, 81 AOTY.
+**"Everything Was Beautiful™" (2022) — AOTY Must Hear 2020s** : #445, 83 AOTY.
+**"Pure Phase" (1995) — Scaruffi 1990s** : #322, 7.5/10 Scaruffi.
+**"Ladies and Gentlemen We Are Floating in Space" (1997) — Scaruffi 1990s** : #1195, 90 AOTY.
+**"Lazer Guided Melodies" (1992) — Scaruffi 1990s** : #1196, 7.0/10 Scaruffi.
+**"Ladies and Gentlemen We Are Floating in Space" (1997) — Pitchfork: The 150 Best Albums of the 1990s** : #86, 90 AOTY.
+**"Lazer Guided Melodies" (1992) — Sputnikmusic Best Albums 1992** : #90, 7.0/10 Scaruffi.
+**"Ladies and Gentlemen We Are Floating in Space" (1997) — Sputnikmusic Best Albums 1997** : #25, 90 AOTY.

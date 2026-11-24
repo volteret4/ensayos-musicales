@@ -43,17 +43,17 @@
 ## lists
 **"Treasure" (1984) — 1001 Albums You Must Hear Before You Die** : #533, 7.5/10 Scaruffi.
 **"Heaven or Las Vegas" (1990) — 1001 Albums You Must Hear Before You Die** : #663, 85 AOTY.
-**"Blue Bell Knoll" (1988) — AOTY Must Hear 1980s** : #28, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Treasure" (1984) — AOTY Must Hear 1980s** : #100, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Head Over Heels" (1983) — AOTY Must Hear 1980s** : #121, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Four-Calendar Café" (1993) — AOTY Must Hear 1990s** : #323, 75 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Heaven or Las Vegas" (1990) — AOTY Must Hear 1990s** : #413, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Heaven or Las Vegas" (1990) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #245, 85 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Head Over Heels" (1983) — Scaruffi 1980s** : #32, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Treasure" (1984) — Scaruffi 1980s** : #134, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Blue Bell Knoll" (1988) — Scaruffi 1980s** : #325, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Heaven or Las Vegas" (1990) — Pitchfork: The 150 Best Albums of the 1990s** : #18, 85 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Treasure" (1984) — Pitchfork: The 200 Best Albums of the 1980s** : #27, 7.5/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
-**"Blue Bell Knoll" (1988) — Pitchfork: The 200 Best Albums of the 1980s** : #89, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
-**"Heaven or Las Vegas" (1990) — Sputnikmusic Best Albums 1990** : #10, 85 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"Cocteau Twins Singles Collection" (1991) — Sputnikmusic Best Albums 1991** : #153, 3.86 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
+**"Blue Bell Knoll" (1988) — AOTY Must Hear 1980s** : #28, 7.0/10 Scaruffi.
+**"Treasure" (1984) — AOTY Must Hear 1980s** : #100, 7.5/10 Scaruffi.
+**"Head Over Heels" (1983) — AOTY Must Hear 1980s** : #121, 8.0/10 Scaruffi.
+**"Four-Calendar Café" (1993) — AOTY Must Hear 1990s** : #323, 75 AOTY.
+**"Heaven or Las Vegas" (1990) — AOTY Must Hear 1990s** : #413, 85 AOTY.
+**"Heaven or Las Vegas" (1990) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #245, 85 AOTY.
+**"Head Over Heels" (1983) — Scaruffi 1980s** : #32, 8.0/10 Scaruffi.
+**"Treasure" (1984) — Scaruffi 1980s** : #134, 7.5/10 Scaruffi.
+**"Blue Bell Knoll" (1988) — Scaruffi 1980s** : #325, 7.0/10 Scaruffi.
+**"Heaven or Las Vegas" (1990) — Pitchfork: The 150 Best Albums of the 1990s** : #18, 85 AOTY.
+**"Treasure" (1984) — Pitchfork: The 200 Best Albums of the 1980s** : #27, 7.5/10 Scaruffi.
+**"Blue Bell Knoll" (1988) — Pitchfork: The 200 Best Albums of the 1980s** : #89, 7.0/10 Scaruffi.
+**"Heaven or Las Vegas" (1990) — Sputnikmusic Best Albums 1990** : #10, 85 AOTY.
+**"Cocteau Twins Singles Collection" (1991) — Sputnikmusic Best Albums 1991** : #153, 3.86 Sputnik.

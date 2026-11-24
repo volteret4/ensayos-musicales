@@ -35,6 +35,10 @@
 **Theater of Hate as an Example** : The band Theater of Hate is cited as an example of a goth band. "Steve Guthrie was a member of a Gothband called Theater of Hate." ← https://www.youtube.com/watch?v=QfiRRtsZoYU ← goth
 **UK Origin** : A significant portion of this early Goth music originated from the UK. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← goth
 **King of Pain - Almost Goth** : Sting's song "King of Pain" from "Synchronicity" was described as "super emo, almost goth," pointing to its dark, emotional aesthetic. "In the fall of 83, Sting's Super Emo, almost goth, King of Pain, reached number three on the Hot 100." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
+**Chart Transition** : A generation of post-punk, goth, and "doomy rock" bands transitioned from niche punk clubs and "alienated teen bedrooms" to achieve mainstream chart success. "a generation of post-punk Goth and just plain doomy rock bands... transitioned from punk clubs and alienated teen bedrooms to the top of the charts." ← Hit Parade Music History and Music Trivia > I Got Five on It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Critique of Term as a Catch-All** : The term "goth" is criticized as being too broad or limiting when used as a catch-all for diverse 80s UK bands. Despite a perceived emphasis on melancholia, many bands, like Siouxsie, musically and geographically have little in common. Artists frequently reject such genre labels applied by audiences and subcultures. "you can't call on God. It's limiting. It's too broad a term." ← Hit Parade Music History and Music Trivia > The Bridge - Genre v. Generation, ’80s to ’10s | https://my.slate.com/podcasts/feeds/hit-parade/
+**Applied to Rihanna's Aesthetic** : In the 2010s, Rihanna is described as a "good goth artist" in terms of her aesthetic, presentation, and choice of inspiration, which often emphasized a darker side. This visual and thematic throughline benefited her musically and in her makeup and fashion ventures. "in terms of inspiration, aesthetic, how she presents herself. There's a definite through line that emphasizes the darker side." ← Hit Parade Music History and Music Trivia > The Bridge - Genre v. Generation, ’80s to ’10s | https://my.slate.com/podcasts/feeds/hit-parade/
+**1989 as Breakthrough Year** : The year 1989 is considered "arguably the year Goth broke on the US charts," marking a significant moment for the genre's mainstream recognition, especially with bands like The Cure achieving high chart positions. "1989 was not only the year of rhythm nation, it was arguably the year Goth broke on the US charts." ← Hit Parade Music History and Music Trivia > The Bridge - Rain Sounds and Moody Goths | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - 45 Grave
@@ -60,3 +64,9 @@
 - Theatre of Hate
 - Type O Negative
 - Sting
+- The Smiths
+- New Order
+- Depeche Mode
+- Blink 182
+- My Chemical Romance
+- AFI

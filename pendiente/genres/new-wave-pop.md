@@ -8,4 +8,7 @@
 - David Bowie
 - The Go-Go's
 - The Searchers
-
+- Whitney Houston
+- Bananarama
+- 'Til Tuesday
+- June Pointer

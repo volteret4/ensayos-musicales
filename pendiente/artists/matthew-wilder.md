@@ -1,6 +1,7 @@
 # artist - Matthew Wilder
 
 ## songs
+**Break My Stride (1983)** : This 1983 hit was sampled by Puff Daddy in his 1997 number one hit, "Can't Nobody Hold Me Down," which spent six weeks at the top of the charts. "Matthew Wilder's 1983 hit, break my stride, and that spent six weeks at number one." ← Hit Parade Music History and Music Trivia > Music Trivia - The '90s Hip-Hop Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 **Break My Stride (1984)** : Matthew Wilder's bouncy 1984 hit, which reached number 5 on the charts. Its lyrics, including "nobody's gonna hold him down," were interpolated, and its title was borrowed, for Puff Daddy and Ma$e's 1997 number one hit "Can't Nobody Hold Me Down." "Matthew Wilder's Bouncy 1984 Hit Break My Stride" ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
 
 ## charts

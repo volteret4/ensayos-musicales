@@ -1,5 +1,8 @@
 # artist - Manfred Mann
 
+## member of
+- Manfred Mann's Earth Band
+
 ## members
 - Dave Richmond
 - Don Faye
@@ -15,13 +18,18 @@
 
 ## genres
 - Baroque Pop
+- Blue-eyed Soul
+- Brill Building Pop
 - British Blues and R&B
+- British Invasion
 - Bubblegum Pop
 - Chicago Blues
 - Comedy-edge
 - Jazz
 - Pop
+- Rhythm and Blues
 - Soul
+- UK Rock
 
 ## labels
 - EMI Records
@@ -55,6 +63,8 @@
 **Blinded by the Light (1975)** : Manfred Mann's version of the Bruce Springsteen song, released in 1975. The lyric "revved up like a deuce" is commonly misheard as "wrapped up like a douche." "Despite what you may have heard since 1975, he singing blinded by the light, revved up like a douche, another runner in the night." ← https://www.youtube.com/watch?v=_YjwRApoJhA ← manfred-mann
 **Cockerhoop (1963)** : Written by Paul Jones, this R&B song was the group's second single and performed slightly better than their debut instrumental. "The next single, an R&B song called Cockerhoop written by Jones, did a little better." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
 **Come Tomorrow (1965)** : This ballad was one of the few secular songs recorded by gospel singer Mary Knight, known as Sister Rosetta Tharpe's duet partner. Manfred Mann's cover followed "Sha La La." "They followed that with a ballad, come tomorrow, one of the few secular songs ever recorded by Mary Knight, the gospel singer, who we discussed briefly way back in episode five, who was sister Rosetta Tharpe's Duwad partner, and quite possibly her partner in other senses." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
+**Do Wah Diddy Diddy (1964)** : This "strutting" song, a product of American songwriters Ellie Greenwich and Jeff Barry from New York's Brill Building, went to number one a month after The Animals' hit. "Manford Man, the band, went to number one month after the animals with the strutting Duwaw Diddy Diddy." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Do Wah Diddy Diddy (1964)** : This Brill Building meets British Invasion rocker was a #1 hit on the Hot 100 for Manfred Mann in the 1960s. "In the 60s, as Manfred Mann, the band had topped the Hot 100 with the Brill building meets British Invasion rocker Duwad Didi Didi." ← Hit Parade Music History and Music Trivia > Tramps Like Us, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Doo Wah Diddy Diddy (1964)** : This song became the group's biggest hit, reaching number one in both the UK and the US. It was a cover of The Exciters' song, originally written by Jeff Barry and Ellie Greenwich, and represented a departure from the group's jazz and R&B inspirations, being a "perfect piece of bubblegum pop." Most members were initially unenthusiastic about recording it, but Paul Jones saw its potential. The group's version featured an organ-driven, stomping pop sound, with Manfred's Hammond organ solo, although producer John Burgess cut it out of the finished recording. "The result was an organ driven stomping pop song, which had more in common with the Dave Clark 5 than with anything else the group were doing." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
 **Ha! Ha! Said the Clown (1967)** : This song followed "Semi-Detached Suburban Mr. James" and reached number four on the charts. "Ha Ha said the clown, made number four." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
 **Hubble Bubble Trouble and Strife (1964)** : This original song reached number eleven on the charts, but the group considered it a failure to the extent that they tried to erase it from their history. An eleven-CD box set of their 60s work, encompassing every studio album, compilation, EP collection, and BBC session, notably excludes this track, despite it being a "perfectly serviceable, if unexceptional, piece of pop R&B." "Hubble Bubble Trial in Trouble doesn't appear at all, which is quite odd, as it's a perfectly serviceable, if unexceptional, piece of pop R&B." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
@@ -91,6 +101,9 @@
 **Split in 1969** : By January 1969, Tom McGuinness stated, "It's not a group anymore, it's just five people who come together to make hit singles. That's the only aim of the group at the moment, to make hit singles, it's the only reason the group exists." The group formally split later that year. "The groups split up in 1969 and went their separate ways." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
 **The Manfreds Reunion (1990s)** : Almost uniquely for an early 60s band, all members of the classic Manfred Mann lineup were still alive. Hugg, Jones, McGuinness, and Davo reunited as The Manfreds in the 1990s, with Mike Vickers also joining until 1999, and continue to tour. Manfred Mann continues to perform with his Earth Band. "Hugg, Jones, McGuinness and Davo reunited as the Manfreds in the 1990s, with Vickers also in the band until 1999, and continued to tour together." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
 **Tom McGuinness Switches to Guitar (1965)** : Following Mike Vickers' departure, Tom McGuinness took the opportunity to switch from bass to guitar, his preferred instrument. "The Maganis took the opportunity of Vickers leaving the group to switch from bass back to playing guitar, which had always been his preferred instrument." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
+**Recipient of Springsteen's Would-Be Hit** : Bruce Springsteen gave away one of his biggest would-be 1970s hits to Manfred Mann. "Bruce Springsteen gave away many of his biggest would-be 70s hits to Manford Man." ← Hit Parade Music History and Music Trivia > I Got Five on It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**South African Keyboardist Leader** : The band Manfred Mann was led by the South African keyboardist of the same name. "Manford Man, led by the South African keyboardist of the same name." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Deep Affinity for Springsteen's Music** : In 1975, the veteran UK rock band Manfred Mann (before reforming as Earth Band) developed a deep affinity for Bruce Springsteen's music, leading to their successful covers of his songs. "In 1975, Manfred Mann, the veteran UK rock band led by the South African keyboardist of the same name, developed a deep affinity for Springsteen's music." ← Hit Parade Music History and Music Trivia > Tramps Like Us, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Do Wah Diddy Diddy" — Billboard Year-End Hot 100** : #15, 1964. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

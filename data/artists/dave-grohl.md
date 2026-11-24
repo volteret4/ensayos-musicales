@@ -9,6 +9,7 @@
 - Mission Impossible
 - Nameless
 - Nirvana
+- Puff Daddy
 - Queens of the Stone Age
 - Scream
 - The Birds of Satan
@@ -24,6 +25,7 @@
 - Concert of Valor (2014)
 - European tour
 - Glastonbury
+- Saturday Night Live (November 1994)
 - Ullevi Stadium
 - Wembley Stadium
 
@@ -178,6 +180,8 @@
 **Wearing Prada Boosted Sales** : Dave Grohl's decision to wear Prada products helped boost the luxury brand's fortunes within specific market segments. His public appearances wearing Prada caught the attention of young people who follow celebrity fashion trends. "Later, Prada, so their fortunes rise in certain segments after guys like Beck and Dave Grohl started wearing their stuff." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM ← dave-grohl
 **Impact on Nirvana's Sound** : Dave Grohl joined Nirvana as drummer between their first and second albums, injecting a "serious kick" into their sound and completing their lineup. His arrival was likened to Ringo Starr belatedly joining The Beatles. "Grohl gave Nirvana a serious kick." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 **Admission of Courtney Love Diss in "I'll Stick Around"** : Dave Grohl "copped to this in an interview years later," confirming that the Foo Fighters' 1995 hit "I'll Stick Around" was indeed a diss track aimed at Courtney Love. This admission validated fan interpretations of the song's lyrics. "Grohl copped to this in an interview years later." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+**Saturday Night Live Performance with Tom Petty (November 1994)** : Dave Grohl was invited by Tom Petty to play drums for the performance of "Honey Bee" on Saturday Night Live in November 1994. This occurred six months after Kurt Cobain's death, during which time Grohl was still mourning the passing of his Nirvana bandmate and was "not yet a foofider." "Petty appearing on Saturday Night Live in November 1994 invited drummer Dave Grohl to man the kit." ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Featured on "It's All About the Benjamins" (1997) Rock Remix** : Dave Grohl, identified as being from Foo Fighters, was one of the rock musicians included in Sean Combs's "uber posse cut" remix of "It's All About the Benjamins," contributing to its genre shift to rock. "But then Combs rebooted it as a rock song and uber posse cut that included all of those original rappers plus rockers Tommy Stinson, Fuzzbubble, Rob Zombie, and Androms, Foo Fighters Dave Groot." ← Hit Parade Music History and Music Trivia > We Invented the Remix Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Grammy Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q41254

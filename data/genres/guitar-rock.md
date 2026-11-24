@@ -6,4 +6,5 @@
 - L7
 - Manic Street Preachers
 - Trent Reznor
-
+- Billy Joel
+- Santana

@@ -2,6 +2,8 @@
 
 ## member of
 - Prince
+- Prince and the Revolution
+- Princess The Revolution
 
 ## genres
 - Pop

@@ -1,5 +1,8 @@
 # artist - Dave Bartholomew
 
+## member of
+- Fats Domino
+
 ## labels
 - Imperial Records
 
@@ -7,6 +10,7 @@
 - Trumpet
 
 ## songs
+**Ain't That a Shame** : Co-wrote this number 10 Pop, number 1 R&B classic with Fats Domino, as he did with many of Domino's hits. "Which, like many of his hits, Fats co-wrote with fellow New Orleans songwriter Dave Bartholomew." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Country Boy (1949)** : A hit song by the Dave Bartholomew Orchestra, notable for its innovative horn part and use of the Treheo rhythm. "I'm a little country boy, running well in his big old town, I'm a little country boy, running well in his big old town." ← Episode 8： The Fat Man and Fats Domino | https://www.youtube.com/watch?v=A-1R-DbVdcM
 **I Hear You Knocking** : Dave Bartholomew wrote this song, which became a hit for Smiley Lewis in 1955 and was an interpretation of the "Keep a-Knockin'" musical idea, clearly inspiring subsequent versions through its lyrical content. "Smiley Lewis had a hit with Dave Bartholomew's take on the idea. I hear you knocking..." ← Episode 54： Keep A Knockin | https://www.youtube.com/watch?v=oA4Y_K9E5Y4
 

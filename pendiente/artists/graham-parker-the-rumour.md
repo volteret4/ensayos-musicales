@@ -11,4 +11,4 @@
 **Hold Back the Night (1977)** : A single from the "Heat Treatment" album, which peaked at number 58 on the charts in 1977. "Hold Back the Night, peaked at number 58 in 1977." ← Hit Parade Music History and Music Trivia > Pour Some Sugar on Me Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5d1ba84fb8f04493d
 
 ## lists
-**"Squeezing Out Sparks" (1979) — Scaruffi 1970s** : #311, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Squeezing Out Sparks" (1979) — Scaruffi 1970s** : #311, 7.0/10 Scaruffi.

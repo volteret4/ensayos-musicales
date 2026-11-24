@@ -7,9 +7,13 @@
 ## genres
 - Cow Punk
 - Hardcore
+- Psychedelic Cow Punk
 
 ## labels
 - SST
+
+## albums
+**Meat Puppets II (1984)** : This 1984 "Psychedelic Cow Punk" album was the source of three songs—"Plateau," "O, Me," and "Lake of Fire"—that Kurt Cobain chose to cover during Nirvana's *MTV Unplugged in New York* concert, with Chris Kirkwood performing alongside him. "Cobain chose to cover three of their songs, Plato, O, Me, and Lake of Fire. From their 1984 Psychedelic Cow Punk album Meet Puppets 2." ← Hit Parade Music History and Music Trivia > The Posthumous Hits Edition, Live from Seattle | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Chris Kirkwood's Addiction and Prison Sentence** : Chris Kirkwood, who co-founded the Meat Puppets with his brother Kurt in 1980, developed a severe heroin addiction by the late 1990s, tragically after his wife died of an overdose in 1998. In 2003, he was involved in an altercation at a post office with an elderly woman, which led to him being clubbed by a security guard. When he attempted to flee, the guard shot him. After spending time in the hospital, he served 21 months in prison and has reportedly been clean and sober ever since. "By the end of the 90s, he was a serious heroin addict, even after his wife died of an OD in 1998." ← https://www.youtube.com/watch?v=lzwQggT0qR0 ← meat-puppets ← meat-puppets
@@ -21,7 +25,7 @@
 
 ## lists
 **"Meat Puppets II" (1983) — 1001 Albums You Must Hear Before You Die** : #528, 7.0/10 Scaruffi.
-**"Up On The Sun" (1985) — Scaruffi 1980s** : #167, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Meat Puppets II" (1983) — Scaruffi 1980s** : #555, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Meat Puppets II" (1983) — Pitchfork: The 200 Best Albums of the 1980s** : #152, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
-**"Forbidden Places" (1991) — Sputnikmusic Best Albums 1991** : #186, 3.81 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
+**"Up On The Sun" (1985) — Scaruffi 1980s** : #167, 7.5/10 Scaruffi.
+**"Meat Puppets II" (1983) — Scaruffi 1980s** : #555, 7.0/10 Scaruffi.
+**"Meat Puppets II" (1983) — Pitchfork: The 200 Best Albums of the 1980s** : #152, 7.0/10 Scaruffi.
+**"Forbidden Places" (1991) — Sputnikmusic Best Albums 1991** : #186, 3.81 Sputnik.

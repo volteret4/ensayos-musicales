@@ -11,4 +11,4 @@
 **Americana Music Association President's Award (2008)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q96613973
 
 ## lists
-**"Garcia" (1972) — Scaruffi 1970s** : #349, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Garcia" (1972) — Scaruffi 1970s** : #349, 7.0/10 Scaruffi.

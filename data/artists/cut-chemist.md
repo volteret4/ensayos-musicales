@@ -7,4 +7,4 @@
 **Early Sampling Peer** : Cut Chemist is mentioned as a peer of DJ Shadow and Mix Master Mike, appearing with DJ Shadow in early hip hop documentaries. His work is associated with the artisanal, manual sampling techniques of the 90s, reminiscent of J Dilla and DJ Shadow, which contributed to the distinct sound of that era. "Tenemos grabaciones de documentales de hip hop, en el que está DJ se ha dado, con Quiebre, con Kat Kimis, con Mixmaster Mike." ← Music Radar Clan > DJ SHADOW - Endtroducing... (la música con desechos) | https://www.youtube.com/watch?v=_WFtfeq-7y8&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← cut-chemist
 
 ## lists
-**"The Audience Is Listening" (2006) — Scaruffi 2000s** : #301, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"The Audience Is Listening" (2006) — Scaruffi 2000s** : #301, 7.0/10 Scaruffi.

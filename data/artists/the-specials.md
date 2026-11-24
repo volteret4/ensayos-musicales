@@ -55,6 +55,7 @@
 **Terry Hall's Death from Short Illness** : Terry Hall, the singer for The Specials, passed away at the age of 63 on December 18th after a short illness. "Mary Hall, singer of the specials, fun boy three in the color field, among others, died at the age of 63 after a short illness on December the 18th." ← https://www.youtube.com/watch?v=sdPeii-8Ysw ← the-specials
 **Two-Tone Records Founded 1979 – Black-and-White Logo Based on Peter Tosh Photo; Anti-Racist Mission** : Jerry Dammers founded Two-Tone Records, naming it after the black-and-white suits worn by mods and skinheads of the 1960s and after the peaceful multiracial makeup of the band. The label's logo — a man in a black and white suit, white shirt, black tie, sunglasses, pork pie hat, white socks, and black loafers — was drawn by Dammers based on a photo of Peter Tosh when he was a member of the Wailers. The character was named Walt Jabsco (Walt after Walt Disney). Two-Tone had an explicit anti-racism message at a time when racial tensions in the UK were getting out of control. "Two-tone became the core of the second wave of Scott." ← https://www.youtube.com/watch?v=VxWp7HrT8oE ← the-specials
 **Walt Japsco Logo** : The band's logo featured a stylized Jamaican rude boy character named Walt Japsco, depicted with a black suit, white shirt, black tie, pork pie hat, white socks, and black shoes, embodying their cultural influences. "Even the band's logo featured a stylized Jamaican rude boy called Walt Japsco. He had his black suit, the white shirt, the black tie, the pork pie hat, the white socks and the black shoes." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← the-specials
+**Inspiration for "Our Lips Are Sealed" Lyrics** : Terry Hall, a member of the UK band The Specials, sent a letter to Jane Wiedlin of The Go-Go's, which Wiedlin then adapted into the lyrics for "Our Lips Are Sealed." "Leedlin wrote the lead single, taking a letter sent to her by her paramour Terry Hall of UK band The Specials, Leedlin added music and turned his lyric into Our Lips or Sea." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"490" — NME Chart** : 9 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
@@ -63,4 +64,4 @@
 ## lists
 **"Specials" (1979) — 1001 Albums You Must Hear Before You Die** : #451.
 **"More Specials" (1980) — 1001 Albums You Must Hear Before You Die** : #473.
-**"Specials" (1979) — Pitchfork: The 100 Best Albums of the 1970s** : #42. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
+**"Specials" (1979) — Pitchfork: The 100 Best Albums of the 1970s** : #42.

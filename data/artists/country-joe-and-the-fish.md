@@ -9,4 +9,4 @@
 
 ## lists
 **"Electric Music For The Mind And Body" (1967) — 1001 Albums You Must Hear Before You Die** : #79.
-**"Electric Music For The Mind And Body" (1967) — Scaruffi 1960s** : #101. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Electric Music For The Mind And Body" (1967) — Scaruffi 1960s** : #101.

@@ -1,10 +1,18 @@
 # artist - Luke Bryan
 
 ## genres
+- Bro Country
 - Country
+
+## instruments
+- Trap beats
 
 ## songs
 **What Makes You Country (2017)** : This song explores various perceptions and definitions of what it means to be country, with lyrics questioning superficial markers and ultimately suggesting a broader, more inclusive understanding. "People talking about what is and what ain't country, what gives them a right to wear a pair of beat up boots? Is it the size of your tires or your fires or your wild ass buddies? Well give me a minute. Let me hit you with some hometown truth. You could be a cowboy on the Texas plane or a plowboy waiting on the rain. We're all a little different, but we're all the same. Everybody doing their own thing." ← For the Record - The 70s > Ep. 2 - Countryish Music of the 1970s (Encore) | https://www.ftr70.com/
+
+## curiosities
+**"King of the Bros"** : Luke Bryan was referred to as the "so-called King of the Bros" during the "Bro Country Era" of the early 2010s. His "testosterone-fueled hits" were characterized by "cookie-cutter lyrics about trucks, boozy lake parties, and pretty women in cutoff shorts," epitomizing the genre's sound. "Whether the chart toppers were by Jason Aldean or Jake Owen, or by the so-called King of the Bros. Luke Bryan. These testosterone-fueled hits were becoming interchangeable." ← Hit Parade Music History and Music Trivia > Taylor’s Version of Country, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Use of Trap Beats in Country** : Luke Bryan is noted for his use of trap beats in country records, showcasing how modern country music has integrated elements previously considered outside its traditional sound. "Morgan Wall and uses trap beats Luke com's uses trap beats you know Luke Bryan uses trap beats." ← Hit Parade Music History and Music Trivia > The Bridge - Can’t Tell Me Nothin’ | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Country Girl" — Billboard Year-End Hot 100** : #81, 2011. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

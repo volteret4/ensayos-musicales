@@ -40,8 +40,8 @@
 **Juno Fan Choice (2014)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q6314207
 
 ## lists
-**"Hedley" (2005) — Juno Awards: Album of the Year** : #2007. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Famous Last Words" (2007) — Juno Awards: Album of the Year** : #2009. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"The Show Must Go" (2009) — Juno Awards: Album of the Year** : #2011. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Storms" (2011) — Juno Awards: Album of the Year** : #2013. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Wild Life" (2013) — Juno Awards: Album of the Year** : #2015. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
+**"Hedley" (2005) — Juno Awards: Album of the Year** : #2007.
+**"Famous Last Words" (2007) — Juno Awards: Album of the Year** : #2009.
+**"The Show Must Go" (2009) — Juno Awards: Album of the Year** : #2011.
+**"Storms" (2011) — Juno Awards: Album of the Year** : #2013.
+**"Wild Life" (2013) — Juno Awards: Album of the Year** : #2015.

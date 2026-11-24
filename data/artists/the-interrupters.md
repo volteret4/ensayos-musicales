@@ -14,5 +14,5 @@
 **Growing Success in the 2010s** : The Interrupters, a band formed in 2011, steadily gained popularity and grew bigger as the 2010s decade progressed, illustrating that new rock bands could still find success during a challenging period for the genre. "Here's a band that was formed in 2011 and just kept getting bigger as the decade wore on. It's the interrupters." ← https://www.youtube.com/watch?v=5Y6nHw5xx88 ← the-interrupters
 
 ## lists
-**"In the Wild" (2022) — Kerrang! The 50 Best Albums of 2022** : #12. ← musicbrainz | https://beta.musicbrainz.org/series/bba4a66d-575e-4b6e-8447-233ad23a8f51
-**"Say It Out Loud" (2016) — Sputnikmusic Best Albums 2016** : #29, 4.07 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2016/
+**"In the Wild" (2022) — Kerrang! The 50 Best Albums of 2022** : #12.
+**"Say It Out Loud" (2016) — Sputnikmusic Best Albums 2016** : #29, 4.07 Sputnik.

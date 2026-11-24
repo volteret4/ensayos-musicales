@@ -14,12 +14,13 @@
 **Grammy for Best New Artist (1980)** : In 1980, Ricky Lee Jones won the Grammy for Best New Artist. She competed against notable acts such as The Blues Brothers, The Knack, Robin Williams, and Dire Straits for the award. "And then in 1980, Ricky Lee Jones won a Grammy for Best New Artist." ← For the Record - The 70s > Ep. 41 - The Impact of The Troubadour on 1970s Popular Culture | https://seventies.libsyn.com/ep-41-the-impact-of-the-troubadour-on-1970s-popular-culture
 **Life in 1977** : In 1977, just two years before her debut album, Ricky Lee Jones experienced a period of personal hardship. She recalled having few friends, no stable place to live, and very little money. "She said she didn't have many friends. She didn't have a place to live. She didn't have any money." ← For the Record - The 70s > Ep. 41 - The Impact of The Troubadour on 1970s Popular Culture | https://seventies.libsyn.com/ep-41-the-impact-of-the-troubadour-on-1970s-popular-culture
 **Perception of The Troubadour in 1978** : By 1978, Ricky Lee Jones characterized The Troubadour as "a club for used to be singers," and observed it was "mostly an empty club," reflecting its decline from its earlier legendary status as a hub for emerging artists. "By 1978, the troubadour was as Ricky Lee Jones put it, it used to be club for used to be singers." ← For the Record - The 70s > Ep. 41 - The Impact of The Troubadour on 1970s Popular Culture | https://seventies.libsyn.com/ep-41-the-impact-of-the-troubadour-on-1970s-popular-culture
+**California Pop Contemporary** : Rickie Lee Jones was mentioned as an artist alongside Jackson Browne and Linda Ronstadt, representing the kind of "California style pop" that Billy Joel demonstrated he could perform with his single "My Life." "Alongside the likes of Jackson Brown Linda Ronstadt and Ricky Lee Jones." ← Hit Parade Music History and Music Trivia > Still Billy Joel to Me Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Chuck E.'s In Love" — Billboard Year-End Hot 100** : #63, 1979. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Rickie Lee Jones" (1979) — Scaruffi 1970s** : #67, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Pirates" (1981) — Scaruffi 1980s** : #191, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Flying Cowboys" (1989) — Scaruffi 1980s** : #677, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Traffic from Paradise" (1993) — Scaruffi 1990s** : #1097, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Rickie Lee Jones" (1979) — Scaruffi 1970s** : #67, 8.0/10 Scaruffi.
+**"Pirates" (1981) — Scaruffi 1980s** : #191, 7.5/10 Scaruffi.
+**"Flying Cowboys" (1989) — Scaruffi 1980s** : #677, 7.0/10 Scaruffi.
+**"Traffic from Paradise" (1993) — Scaruffi 1990s** : #1097, 7.0/10 Scaruffi.

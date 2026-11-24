@@ -4,11 +4,15 @@
 - Anderson .Paak
 - Bruno Mars
 
+## genres
+- R&B
+
 ## albums
 **An Evening with Silk Sonic (2021)** : The debut album by the duo Silk Sonic, formed by Bruno Mars and Anderson .Paak, which essentially presented itself as a "musical costume" where the artists "play acted the roles of 70s style soulman." The album was intentionally bathed in the tropes of 70s soul artists like Barry White, The Delfonics, Teddy Pendergrass, and Aretha Franklin, earning Mars some of the best reviews of his career for its "cheeky but also sincere" music and the duo's remarkable chemistry. "The duo's debut album, an evening with Silk Sonic, earned Mars some of the best reviews of his career." ← Hit Parade Music History and Music Trivia > Lenny on Mars Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f54d1ba84fb8f0463bf
 
 ## songs
 **Leave the Door Open (2021)** : The first single from Silk Sonic's debut album, "An Evening with Silk Sonic," a quiet storm ballad whose title was a "knowing wink" to Teddy Pendergrass's classic slow jam "Close the Door." It achieved significant success, reaching number one on the Hot 100 and also topping Billboard's R&B Airplay Chart, becoming a major smash on both top 40 and Black Radio. "The first single, a quiet storm ballad called Leave the Door Open." ← Hit Parade Music History and Music Trivia > Lenny on Mars Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f54d1ba84fb8f0463bf
+**Love's Train (2022)** : This chart-topping single, a remake of an old hit by Con Funk Shun, was a summer 2022 number one song on Billboard's Adult R&B chart. "this chart topping single by Silk Sonic, the duo of Bruno Mars and Anderson Pock called Love's Train, a summer 2022 number one song on Billboard's Adult R&B chart." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Smoking Out the Window** : A hit song from Silk Sonic's debut album, "An Evening with Silk Sonic," which demonstrated the duo's widespread appeal by reaching number five on the pop charts and number two on the R&B/Hip-Hop charts. "including the number five pop, number two R&B hit, Smoking Out the Window." ← Hit Parade Music History and Music Trivia > Lenny on Mars Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f54d1ba84fb8f0463bf
 
 ## curiosities
@@ -19,5 +23,5 @@
 **"Smokin out the Window" — Billboard Year-End Hot 100** : #41, 2022. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"An Evening With Silk Sonic" (2021) — AOTY Must Hear 2020s** : #489, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"An Evening with Silk Sonic" (2021) — Sputnikmusic Best Albums 2021** : #134, 3.8 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2021/
+**"An Evening With Silk Sonic" (2021) — AOTY Must Hear 2020s** : #489, 80 AOTY.
+**"An Evening with Silk Sonic" (2021) — Sputnikmusic Best Albums 2021** : #134, 3.8 Sputnik.

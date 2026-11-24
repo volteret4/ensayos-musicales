@@ -7,6 +7,9 @@
 ## instruments
 - bass
 
+## songs
+**I Believe In Father Christmas (1975)** : This "chiming, majestic" single reached number two on the UK charts in 1975. It was prevented from reaching the number one spot by Queen's "Bohemian Rhapsody," which proved to be an even bigger and more majestic single that year, despite not having an obvious Christmas theme. "Emerson Lake and Palmer member Greg Lake reached number two with his chiming majestic I believe in father Christmas." ← Hit Parade Music History and Music Trivia > The Christmas is All Around Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **Approval of Kanye West Sampling** : In stark contrast to Robert Fripp's strong disapproval, Greg Lake viewed Kanye West's sampling of King Crimson's first album's first track for the song "Power" as a "fantastic idea." He openly expressed feeling "truly flattered" that an artist as influential to young generations as Kanye West would utilize material he composed, and he was surprised by its enduring relevance nearly 50 years later. "Greg Lake que decía que se sentía verdaderamente alagado que alguien tan importante para la gente joven como Kanye West hubiese versionado a King Crimson a un material que le había compuesto." ← Music Radar Clan > King Crimson, derechos y Spotify | https://www.youtube.com/watch?v=Xg0XR9r95cc&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← greg-lake ← greg-lake
 **Death (December 7, 2016)** : Greg Lake, a member of Emerson, Lake & Palmer, died on December 7, 2016, due to cancer. "December 7th, Greg Lake, another member of Emerson, like in Palmer, cancer." ← https://www.youtube.com/watch?v=sOU54d8mr5k ← greg-lake

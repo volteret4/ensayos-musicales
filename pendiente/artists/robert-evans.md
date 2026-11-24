@@ -1,0 +1,4 @@
+# artist - Robert Evans
+
+## curiosities
+**"Get High on Yourself" TV Special (1981)** : In 1981, legendary Hollywood movie producer Robert Evans was ordered by a court to produce a public service TV special as community service after being busted for purchasing $19,000 of cocaine. He was the "brainchild" behind "Get High on Yourself," an anti-drug song featuring over 50 famous friends. Evans had previously produced films like "Love Story" and "The Godfather" and was immortalized in the 2002 biographical documentary "The Kid Stays in the Picture." "It was the brainchild of Robert Evans, the legendary Hollywood movie producer who produced Love Story and The Godfather and was immortalized in the 2002 biographical documentary The Kid Stays in the Picture." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/

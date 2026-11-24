@@ -2,12 +2,16 @@
 
 ## members
 - Billy Gibbons
+- Dusty Hill
 - Frank Beard
 
 ## genres
 - Album-Oriented Rock
+- Boogey Blues
 - Electric Blues
 - Electro-Dance Rock
+- Electro-funk
+- New Wave
 - Southern Rock
 
 ## concerts
@@ -19,12 +23,18 @@
 
 ## albums
 **Eliminator (1983)** : This album marked a significant reboot for ZZ Top, who transitioned from "electric blues craftsmen" of the 70s to "electro-dance rockers." The band retro-fitted their signature guitar crunch with sequencers and synthesizers and simultaneously reinvented themselves as MTV stars through a series of "cheeky videos," leading to their first ever Top 10 hit, "Legs," in 1984. "ZZ Top rebooted themselves on their eliminator album as electro-dance rockers, retro-fitting their guitar crunch with sequencers and synthesizers, and they rebooted themselves as MTV stars in a series of cheeky videos." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
+**Eliminator (1983)** : This album is considered one of the "most improbable reinventions in pop history," as ZZ Top retrofitted their guitar crunch with sequencers, synthesizers, and electronic effects. It spawned hits like "Gimme All Your Love In," "Legs," and "Sharp Dressed Man," and transformed the bearded guitarmen Billy Gibbons and Dusty Hill, along with ironically beardless drummer Frank Beard, into MTV icons. "The 1983's Eliminator album has to stand as one of the most improbable reinventions in pop history." ← Hit Parade Music History and Music Trivia > At Last, My Legacy Has Come Along Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Tres Hombres (1974)** : This was ZZ Top's breakthrough album, featuring the song "La Grange." "from ZZ Top's breakthrough, Tres Ombres album" ← Hit Parade Music History and Music Trivia > At Last, My Legacy Has Come Along Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## songs
 **Chevrolet Pickup (1972)** : ZZ Top's song from 1972 is noted for specifically mentioning their Chevrolet pickup truck. "Zizi Topp saying about their Chevrolet pickup in 1972..." ← https://www.youtube.com/watch?v=_KJ60im4KAc ← zz-top ← zz-top
+**Gimme All Your Love In** : The first single from the "Eliminator" album, this song barely cracked the top 40, hitting number 37. "The first single from the album, Gimme All Your Love In, barely cracked the top 40, hitting number 37." ← Hit Parade Music History and Music Trivia > At Last, My Legacy Has Come Along Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**La Grange (1974)** : This song, about a Texas bravo, borrowed its moves from two John Lee Hooker songs: the nonsense lyric "a how, how, how" from "Boom Boom" and the scorching Boogey Blues guitar style from "Boogie Chillen'". It nearly broke the trio into the top 40, peaking at number 41 on the Hot 100 in 1974. To this day, it is their most streamed song, with a lifetime Spotify total at least 30% higher than any other ZZ Top song, and nearly 50 million streams in the last 12 months. "It peaked on the hot 100 at a frustrating, tiny dancer like number 41." ← Hit Parade Music History and Music Trivia > At Last, My Legacy Has Come Along Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Legs (1983)** : In 1982, a special dance mix of ZZ Top's song "Legs" was released, extending to nearly eight minutes—almost twice the length of the regular album cut. This indicated how even rock artists were adopting the 12-inch format for extended dance versions, though some rock fans initially found it difficult to accept. "That goes on for nearly eight minutes, almost twice the length of the regular album cut." ← https://www.youtube.com/watch?v=0FYq5MBdHw4 ← zz-top ← zz-top
 **Legs (1983)** : In the 1980s, an extended version of this song was created and played in bars, which was considered shocking at the time because ZZ Top was a "proper rock band" that typically would not allow their music to be turned into a dance-floor track. This marked a departure from the common perception that rock bands were "not meant for dancing." "Remember being in a bar when I heard an extended version of ZZ Top's legs shocking since that was a proper rock band that had allowed one of their songs to be turned into a dance floor track." ← https://www.youtube.com/watch?v=08i9lVd6T8c ← zz-top ← zz-top
 **Legs (1984)** : This song became ZZ Top's first ever Top 10 hit in the summer of 1984, peaking just as the bearded Texas trio's members turned 35. It was a product of their "Eliminator" album, where the band reinvented their sound by blending their guitar crunch with sequencers and synthesizers, and gained massive visibility through "cheeky videos" on MTV. "Legs, ZZ Topps first ever Top 10 hit in the summer of 84, peaked just as the bearded Texas trio's members turned 35." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
+**Legs (1984)** : Spawned a year after the "Eliminator" LP's release, this song climbed to number 8, becoming ZZ Top's biggest hit ever. Its video featured the Eliminator car and its supermodels transforming a "mousey young woman" into a "strutting sex pot." It receives 40% less radio play than "Sharp Dressed Man." "Les climbed all the way to number 8, ZZ Top's biggest hit ever." ← Hit Parade Music History and Music Trivia > At Last, My Legacy Has Come Along Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Sharp Dressed Man** : This song, despite missing the top 40 entirely and peaking at number 56 on the Hot 100, defined ZZ Top in the popular imagination on MTV. It came with an "instantly memorable chorus hook" and a music video where the Eliminator Mobile supermodels remade a parking valet into an "up-fied ladies man." It is now ZZ Top's biggest radio staple, with 48.5 million streams in the last year (nearly equaling "La Grange") and 49,000 radio spins (nearly double "La Grange" and 40% more than "Legs"). "peaking on the Hot 100 at number 56" ← Hit Parade Music History and Music Trivia > At Last, My Legacy Has Come Along Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **"Texas Experience" Tour (1976)** : In 1976, ZZ Top attempted to bring the "entire Texas experience" on the road, which involved transporting real, live animals to every gig. During one show, a buffalo escaped and caused significant damage, wrecking nine rented limousines parked at the venue. "In 1976, Zizi Topp tried to take the entire Texas experience on the road, which involved transporting real live animals to every gig." ← https://www.youtube.com/watch?v=Jvh8SP2QKXQ ← zz-top ← zz-top
@@ -37,6 +47,10 @@
 **Unsuccessful 12-inch Remix Venture** : ZZ Top attempted to get into the 12-inch remix business, but this venture is described as a "bad idea." This implies that while the 12-inch format was successful for many, it wasn't universally suited for all bands or genres. "So did a band like ZZ Top which was a bad idea but that's completely other story." ← https://www.youtube.com/watch?v=OiqdZfxdBP0 ← zz-top
 **Used Ministry Drum Samples on Late 1980s Records** : ZZ Top incorporated drum samples taken from Ministry records into some of their albums released in the late 1980s. The drum sounds attributed to Frank Beard on these recordings were, in fact, triggered samples originally sourced from Ministry. "those drum sounds from Frank Beard are actually triggered Ministry samples." ← https://www.youtube.com/watch?v=-N6IM5Nm5iw ← zz-top
 **Reinvention as Electro-Dance Rockers** : After spending the 1970s as "electric blues craftsmen," ZZ Top underwent a major reinvention on their "Eliminator" album. They transformed into "electro-dance rockers," incorporating sequencers and synthesizers into their guitar-driven sound, and also became MTV stars through "cheeky videos." "after spending the 70s as electric blues craftsmen, ZZ Top rebooted themselves on their eliminator album as electro-dance rockers, retro-fitting their guitar crunch with sequencers and synthesizers, and they rebooted themselves as MTV stars in a series of cheeky videos." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
+**Name Origin** : ZZ Top's name is a pun on the legendary Bluesman BB King. "Their name was upon on legendary Bluesman BB King." ← Hit Parade Music History and Music Trivia > At Last, My Legacy Has Come Along Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Album-Oriented Rock (1985)** : ZZ Top was an example of bands frequently played on the "Rock Tracks" chart and album-oriented rock (AOR) radio stations, which often did not make the top of the pop charts or only did so occasionally. "Bands that never or only occasionally made the top of the pop charts, like ZZ Top..." ← Hit Parade Music History and Music Trivia > Feet on the Ground, Reaching for the Stars Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Belated Rock and Roll Hall of Fame Induction (2004)** : ZZ Top was among the inductees at the March 2004 Rock and Roll Hall of Fame ceremony who had been eligible for the honor for about a decade or more before being belatedly inducted. "That night in 2004, virtually all of the inductees, Jackson Brown, The Dells, Bob Seeger, Traffic, ZZ Top, had been eligible for the honor about a decade or more apiece before being belatedly let in." ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Dominance of Rock Chart (Early 1980s)** : In the early 1980s, the Billboard Rock Chart (then Top Tracks) was dominated by artists like ZZ Top, before Prince became one of the first black artists to place on it with "Little Red Corvette." "Peeking at number 17 on the Rock Chart with Little Red Corvette, Prince was one of the first black artists to place on a chart dominated by the likes of Pink Floyd and ZZ Top." ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Rock and Roll Hall of Fame (2004)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
@@ -48,5 +62,5 @@
 ## lists
 **"Tres hombres" (1973) — 1001 Albums You Must Hear Before You Die** : #293.
 **"Eliminator" (1983) — 1001 Albums You Must Hear Before You Die** : #524, 7.0/10 Scaruffi.
-**"Tres hombres" (1973) — Scaruffi 1970s** : #571. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Eliminator" (1983) — Scaruffi 1980s** : #826, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Tres hombres" (1973) — Scaruffi 1970s** : #571.
+**"Eliminator" (1983) — Scaruffi 1980s** : #826, 7.0/10 Scaruffi.

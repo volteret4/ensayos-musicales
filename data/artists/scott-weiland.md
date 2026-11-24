@@ -195,4 +195,4 @@
 **Weight Loss (November 1998)** : By November 1998, Wyland weighed 148 pounds, a relatively low weight for someone just under six feet tall. "At the time, Wyland weighed 148 pounds. Not a lot for a guy a shade under six feet." ← https://www.youtube.com/watch?v=TDwagoyMvck ← scott-wyland
 
 ## lists
-**"12 Bar Blues" (1998) — Scaruffi 1990s** : #1137, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"12 Bar Blues" (1998) — Scaruffi 1990s** : #1137, 7.0/10 Scaruffi.

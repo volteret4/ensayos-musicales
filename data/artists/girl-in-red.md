@@ -20,4 +20,4 @@
 **Spellemann Awards for songwriter of the year (2024)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q92590094
 
 ## lists
-**"Chapter 1" (2018) — Scaruffi 2010s** : #402, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Chapter 1" (2018) — Scaruffi 2010s** : #402, 7.0/10 Scaruffi.

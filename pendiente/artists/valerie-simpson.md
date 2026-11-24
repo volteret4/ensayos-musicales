@@ -1,4 +1,5 @@
 # artist - Valerie Simpson
 
 ## songs
+**Ain't No Mountain High Enough (1970)** : Valerie Simpson co-wrote the radical reimagining of this song for Diana Ross's first post-Supremes solo single in 1970, featuring Ross speaking more lyrics than singing. Her talents contributed to making this single a majestic smash. "Her remake of Marvin Gaye and Tammy Turell's Ain't No Mountain High enough was a radical reimagining by songwriters Nick Ashford and Valerie Simpson with Ross speaking more of the lyrics than she sang." ← Hit Parade Music History and Music Trivia > The Bad Moon on the Rise Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 **Stuff Like That (1978)** : Valerie Simpson contributed to the lyrics and melodic hooks for this Quincy Jones track, performing vocal work alongside Nick Ashford and Chaka Khan. This collaboration resulted in an R&B chart-topper and a Top 40 pop hit for Jones. "Q asked Ashford and Simpson to finish the track with lyrics and melodic hooks." ← Hit Parade Music History and Music Trivia > I Wanna Rock with Q. Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f06154465cd600c5440

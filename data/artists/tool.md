@@ -170,11 +170,11 @@
 **Years of Mathematical Experimentation** : The band Tul dedicated years to mathematically manipulating the rhythmic structures of the "Lateralus" album. This extensive experimentation aimed to integrate complex mathematical concepts into the music, resulting in one of the most rhythmically complex albums ever written, a feat considered almost impossible to achieve while maintaining musicality. "Tul se pasó años jugando matemáticamente con las estructuras ríntmicas del disco." ← Music Radar Clan > Tool - Lateralus y la serie de Fibonacci (pero bien explicada) | https://www.youtube.com/watch?v=WE0RhuyG9gQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← tul
 
 ## lists
-**"Aenima" (1996) — AOTY Must Hear 1990s** : #163, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"10,000 Days" (2006) — AOTY Must Hear 2000s** : #200, 73 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Lateralus" (2001) — AOTY Must Hear 2000s** : #461, 75 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Aenima" (1996) — Scaruffi 1990s** : #1265, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Undertow" (1993) — Scaruffi 1990s** : #1266, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Lateralus" (2001) — Scaruffi 2000s** : #147, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Aenima" (1996) — Sputnikmusic Best Albums 1996** : #2, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
-**"Opiate²" (2022) — Sputnikmusic Best Albums 2022** : #47, 3.9 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2022/
+**"Aenima" (1996) — AOTY Must Hear 1990s** : #163, 7.0/10 Scaruffi.
+**"10,000 Days" (2006) — AOTY Must Hear 2000s** : #200, 73 AOTY.
+**"Lateralus" (2001) — AOTY Must Hear 2000s** : #461, 75 AOTY.
+**"Aenima" (1996) — Scaruffi 1990s** : #1265, 7.0/10 Scaruffi.
+**"Undertow" (1993) — Scaruffi 1990s** : #1266, 7.0/10 Scaruffi.
+**"Lateralus" (2001) — Scaruffi 2000s** : #147, 7.5/10 Scaruffi.
+**"Aenima" (1996) — Sputnikmusic Best Albums 1996** : #2, 7.0/10 Scaruffi.
+**"Opiate²" (2022) — Sputnikmusic Best Albums 2022** : #47, 3.9 Sputnik.

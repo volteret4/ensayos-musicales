@@ -6,7 +6,7 @@
 ## lists
 **"Freak Out!" (1966) — 1001 Albums You Must Hear Before You Die** : #69.
 **"We’re Only in It for the Money" (1968) — 1001 Albums You Must Hear Before You Die** : #134.
-**"Uncle Meat" (1969) — AOTY Must Hear 1960s** : #25, 95 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"Over-Nite Sensation" (1973) — AOTY Must Hear 1970s** : #141, 73 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Uncle Meat" (1969) — Scaruffi 1960s** : #5, 95 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Freak Out!" (1966) — Pitchfork: The 200 Best Albums of the 1960s** : #101. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Uncle Meat" (1969) — AOTY Must Hear 1960s** : #25, 95 AOTY.
+**"Over-Nite Sensation" (1973) — AOTY Must Hear 1970s** : #141, 73 AOTY.
+**"Uncle Meat" (1969) — Scaruffi 1960s** : #5, 95 AOTY.
+**"Freak Out!" (1966) — Pitchfork: The 200 Best Albums of the 1960s** : #101.

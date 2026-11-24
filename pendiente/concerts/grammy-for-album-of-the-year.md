@@ -1,0 +1,4 @@
+# concert - Grammy for Album of the Year
+
+## curiosities
+**Impact on Chart Performance** : Paul Simon's "Graceland" winning the Grammy for Album of the Year in the Winter of 1987 provided significant "oomph" for its lead single, "You Can Call Me Al," which had previously missed the Top 40, enabling it to re-enter the Hot 100 and reach number 23. Similarly, Paul Simon's "Still Crazy After All These Years" winning this Grammy in 1976 coincided with him topping the Hot 100 with "50 Ways to Leave Your Lover." "It was only after Graceland won the Grammy for Album of the Year in the Winter of 1987 that radio programmers gave You Can Call Me Al another look." ← Hit Parade Music History and Music Trivia > At Last, My Legacy Has Come Along Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/

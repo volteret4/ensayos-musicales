@@ -1,0 +1,5 @@
+# artist - Lucie Bianchi
+
+## curiosities
+**Nightclub Ban Experience** : Lucie Bianchi frequented a nightclub in Miami that "banded the song entirely," with the club's marketing director enforcing a strict policy: "you're either over there listening to the Macarena. Are you're over here with us?" : "One of the night clubs where Macarena, Lucie Bianchi hung out in Miami, banded the song entirely." ← Hit Parade Music History and Music Trivia > One Year - Hey Macarena! | https://my.slate.com/podcasts/feeds/hit-parade/
+**Achieving Peace with Macarena** : Now in her late 40s and working as a personal development coach, Lucie Bianchi has "made peace with Macarena the song," reflecting that "you can't walk around with this existential dread or hatred or wound" and that in her "evolution as a human being," she needed to "get over this" and "celebrate with the people who enjoy it." : "Macarena Luce Bianchi is now in her late 40s and works as a personal development coach." ← Hit Parade Music History and Music Trivia > One Year - Hey Macarena! | https://my.slate.com/podcasts/feeds/hit-parade/

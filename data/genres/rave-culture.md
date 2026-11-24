@@ -9,4 +9,4 @@
 
 ## artists
 - Daft Punk
-
+- New Order

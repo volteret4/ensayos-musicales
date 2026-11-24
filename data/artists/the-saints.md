@@ -12,5 +12,5 @@
 
 ## lists
 **"Eternally Yours" (1978) — 1001 Albums You Must Hear Before You Die** : #418.
-**"Eternally Yours" (1978) — Scaruffi 1970s** : #488. ← Scaruffi | https://scaruffi.com/music/best.html
-**"I'm Stranded" (1976) — Scaruffi 1970s** : #489, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Eternally Yours" (1978) — Scaruffi 1970s** : #488.
+**"I'm Stranded" (1976) — Scaruffi 1970s** : #489, 7.0/10 Scaruffi.

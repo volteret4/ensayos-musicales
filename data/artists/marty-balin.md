@@ -3,6 +3,7 @@
 ## member of
 - Jefferson Airplane
 - Jefferson Starship
+- KBC Band
 
 ## albums
 **Dragonfly (1974)** : He contributed the song "Caroline," which he both wrote and sang, to this album after being temporarily coaxed back into the band. "he was able to be slowly coaxed back into the band to contribute Caroline a song he wrote and sang for the dragonfly album." ← For the Record - The 70s > Ep. 51 - The Softer Side of 70s Rock | https://seventies.libsyn.com/ep-51-the-softer-side-of-70s-rock ← marty-balin
@@ -11,6 +12,7 @@
 ## songs
 **Caroline (1974)** : He wrote and sang this song for the Jefferson Starship album *Dragonfly*, following his temporary return to the band. "he was able to be slowly coaxed back into the band to contribute Caroline a song he wrote and sang for the dragonfly album." ← For the Record - The 70s > Ep. 51 - The Softer Side of 70s Rock | https://seventies.libsyn.com/ep-51-the-softer-side-of-70s-rock ← marty-balin
 **Caroline (1974)** : He wrote and sang this song for the Jefferson Starship album *Dragonfly*, following his temporary return to the band. "he was able to be slowly coaxed back into the band to contribute Caroline a song he wrote and sang for the dragonfly album." ← For the Record - The 70s > Ep. 51 - The Softer Side of 70s Rock | https://seventies.libsyn.com/ep-51-the-softer-side-of-70s-rock
+**Hearts** : This song was mentioned as one that did "not quite make the boat" when debated for its "yachtiness" on the Yachtsky scale. "Hearts by Marty Bailey." ← Hit Parade Music History and Music Trivia > The Bridge - Yacht Or Nyacht | https://my.slate.com/podcasts/feeds/hit-parade/
 **Miracles (1975)** : He wrote and sang this song, which became a number three hit on the Billboard Hot 100 for Jefferson Starship's album *Red Octopus*. He stipulated that the band record this song as a condition for his permanent return to the lineup. "when he was pressed about coming back on a more permanent basis he said he would if they would agree to record this." ← For the Record - The 70s > Ep. 51 - The Softer Side of 70s Rock | https://seventies.libsyn.com/ep-51-the-softer-side-of-70s-rock ← marty-balin
 **Miracles (1975)** : He wrote and sang this song, which became a number three hit on the Billboard Hot 100 for Jefferson Starship's album *Red Octopus*. He stipulated that the band record this song as a condition for his permanent return to the lineup. "when he was pressed about coming back on a more permanent basis he said he would if they would agree to record this." ← For the Record - The 70s > Ep. 51 - The Softer Side of 70s Rock | https://seventies.libsyn.com/ep-51-the-softer-side-of-70s-rock
 

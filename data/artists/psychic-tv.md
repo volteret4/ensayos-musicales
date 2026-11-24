@@ -14,5 +14,5 @@
 **Presence in Industrial Scene** : Psychic TV was listed among the groups gaining recognition in the expanding industrial music landscape of the mid-to-late 1980s. "Plus, people began to pick up on groups with names like Frontline Assembly, Pancao, Psychic TV, Liebach, and many others." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← psychic-tv ← psychic-tv
 
 ## lists
-**"Dreams Less Sweet" (1983) — Pitchfork: The 200 Best Albums of the 1980s** : #176. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
-**"Trip Reset" (1996) — Sputnikmusic Best Albums 1996** : #69, 4.13 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
+**"Dreams Less Sweet" (1983) — Pitchfork: The 200 Best Albums of the 1980s** : #176.
+**"Trip Reset" (1996) — Sputnikmusic Best Albums 1996** : #69, 4.13 Sputnik.

@@ -22,14 +22,15 @@
 **Shared Combatant Spirit** : System of a Down, along with Cypress Hill, embraced a combatant spirit against the system, choosing to focus on external societal issues rather than solely personal sentiments, reflecting a thematic continuity inherited from Rage Against the Machine's influence. The band's "sáalbondes" was explicitly linked to RATM's "you are not a slave" message. "Cómo sistema fadda aún, o cómo los Cypress Hill también retomaban ese espíritu combatiente en contra del sistema inotanto, en contra del sentimiento personal...salió después el famoso style de sáalbondes de Sistema Fadam." ← Music Radar Clan > Poniendo en su lugar a Rage Against the Machine | https://www.youtube.com/watch?v=BZwjNagkRcU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← system-of-a-down ← system-of-a-down
 **Tackles War and Armenian Genocide** : System of a Down is recognized for addressing significant and often heavy themes in their music, specifically tackling subjects like war and the Armenian genocide. "System of a down tackles war in the Armenian genocide." ← https://www.youtube.com/watch?v=0ARYt4sYT90 ← system-of-a-down
 **Zero DB Initiative Signatory** : System of a Down is one of the artists who signed the Zero DB initiative, established in 2008 by the charity Reprieve. This initiative aims to condemn the use of music as torture and to encourage governments to uphold the Convention Against Torture and other treaties on prisoner treatment. "The Sinees include Tom Morello, average against the machine, members of REM, rise against Pearl Jam, Trent Reznor, Limp Biscuit, system of a down, disturbed the estate of Prince, the Chili Peppers, Eminem, Marilyn Manson, Neil Diamond, Dr. Dre, and a host of others." ← https://www.youtube.com/watch?v=R1wdsGt07Gg ← system-of-a-down ← system-of-a-down
+**Early 2000s Rock Era** : System of a Down was identified as a prominent band in the "early Aughts," an era where Hootie & the Blowfish were even less likely to chart on rock charts, reflecting a significant change in rock music trends. "In the early Oats, the era of Nickelback, Incubus and System of a Down, Hoody were even less likely to place on the rock charts than Rucker's solo project had on the R&B charts." ← Hit Parade Music History and Music Trivia > A Little Love and Some Tenderness Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"System of a Down" (1998) — 1001 Albums You Must Hear Before You Die** : #872, 88 AOTY.
-**"System of a Down" (1998) — AOTY Must Hear 1990s** : #73, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Hypnotize" (2005) — AOTY Must Hear 2000s** : #217, 76 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Mezmerize" (2005) — AOTY Must Hear 2000s** : #252, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Steal This Album!" (2002) — AOTY Must Hear 2000s** : #376, 77 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Toxicity" (2001) — AOTY Must Hear 2000s** : #443, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Mezmerize" (2005) — Scaruffi 2000s** : #672, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Toxicity" (2001) — Scaruffi 2000s** : #673, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"System of a Down" (1998) — Sputnikmusic Best Albums 1998** : #85, 88 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1998/
+**"System of a Down" (1998) — AOTY Must Hear 1990s** : #73, 88 AOTY.
+**"Hypnotize" (2005) — AOTY Must Hear 2000s** : #217, 76 AOTY.
+**"Mezmerize" (2005) — AOTY Must Hear 2000s** : #252, 7.0/10 Scaruffi.
+**"Steal This Album!" (2002) — AOTY Must Hear 2000s** : #376, 77 AOTY.
+**"Toxicity" (2001) — AOTY Must Hear 2000s** : #443, 81 AOTY.
+**"Mezmerize" (2005) — Scaruffi 2000s** : #672, 7.0/10 Scaruffi.
+**"Toxicity" (2001) — Scaruffi 2000s** : #673, 7.0/10 Scaruffi.
+**"System of a Down" (1998) — Sputnikmusic Best Albums 1998** : #85, 88 AOTY.

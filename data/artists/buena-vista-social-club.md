@@ -9,5 +9,5 @@
 
 ## lists
 **"Buena Vista Social Club" (1997) — 1001 Albums You Must Hear Before You Die** : #846, 88 AOTY.
-**"Buena Vista Social Club" (1997) — AOTY Must Hear 1990s** : #115, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Buena Vista Social Club" (1997) — Sputnikmusic Best Albums 1997** : #48, 88 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
+**"Buena Vista Social Club" (1997) — AOTY Must Hear 1990s** : #115, 88 AOTY.
+**"Buena Vista Social Club" (1997) — Sputnikmusic Best Albums 1997** : #48, 88 AOTY.

@@ -1,7 +1,15 @@
 # artist - Steve Winwood
 
+## genres
+- R&B
+
 ## songs
+**Higher Love (1986)** : This hit song by Steve Winwood was covered by Whitney Houston in 1990 as a bonus track for the Japanese edition of her "I'm Your Baby Tonight" album, and later remixed by Kygo in 2019, leading to new chart success. "the Steve Winwood hit Higher Love" ← Hit Parade Music History and Music Trivia > I'm Your Whitney Tonight Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Higher Love (1986)** : This Grammy-winning chart-topper featured Chaka Khan's "unmistakable vocals" gracing the chorus. Khan's appearance on this song, a year after the hits from her *I Feel For You* LP, marked her first time on a number one pop hit. "Khan finally appeared on a number 1 pop hit, when her unmistakable vocals graced the chorus of Steve Winwood's Grammy-winning chart-topper, Higher Love." ← Hit Parade Music History and Music Trivia > Killing Me Softly Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Higher Love (1986)** : Steve Winwood is the original artist of the song "Higher Love," which was later covered by Whitney Houston. "Steve Winwood, whom she's now got a hit covering on the radio right now." ← Hit Parade Music History and Music Trivia > The Bridge - Wesley on Whitney | https://my.slate.com/podcasts/feeds/hit-parade/
+**Higher Love (1986)** : This 1986 number one hit, described as R&B flavored, featured Nile Rodgers on rhythm guitar and in its music video, though he did not produce it. "Steve Winwood's R&B Flavored 1986 No. 1 Smash Higher Love." ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Roll With It (1988)** : This song was the winner of the 1988 Billboard Song of the Summer. It is described as an "R&B fetishizing," "OK Boomer," "Erzatz beer commercial" track, with its only "sweaty" quality attributed to its "Duke joint music video." "The R&B fetishizing, OK Boomer, Erzatz beer commercial, roll with it." ← Hit Parade Music History and Music Trivia > Song(s) of the Summer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef50c30a1408dc292e4
+**Roll With It (1988)** : This 1988 song was the last number one song Casey Kasem counted down on his original run of American Top 40, during his final broadcast on August 6, 1988, before his departure from ABC Radio Networks. "the last song Kassam counted down on AT-40 was Steve Winwood's 1988 song of the summer, Roll With It." ← Hit Parade Music History and Music Trivia > Feet on the Ground, Reaching for the Stars Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **What the Night Can Do (1988)** : This "totally new song" was featured in a Michelob Beer ad campaign, following Eric Clapton's involvement. Despite media skepticism about its origin, Winwood's beer ad helped the song scale the charts, reaching number 1 at Album Rock and number 6 on the Hot 100 in the fall of 1988. "Then, within a few months, Mikalo dropped an ad featuring a totally new song by former traffic frontman, now solo superstar Steve Winnwood." ← Hit Parade Music History and Music Trivia > I’d Like to Teach the World to Buy Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cc5
 
 ## curiosities
@@ -10,6 +18,7 @@
 **Disputed Song Origin** : The media expressed skepticism and "didn't believe" Steve Winwood's claim that his song "What the Night Can Do" was written prior to striking the Michelob deal. The song's sound was so strongly associated with a beer commercial that its independent artistic origin was questioned, reflecting ongoing debates about music authenticity. "Sounded so much like a beer commercial that the media didn't believe Winnwood when he claimed the song was written before the Mikalobe deal was struck." ← Hit Parade Music History and Music Trivia > I’d Like to Teach the World to Buy Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cc5
 **Michelob Beer Commercial (1988)** : Steve Winwood, a solo superstar and former Traffic frontman, featured in a Michelob Beer ad campaign with a "totally new song" titled "What the Night Can Do." This followed Eric Clapton's appearance for the same brand and contributed to the song's chart success. "Mikalo dropped an ad featuring a totally new song by former traffic frontman, now solo superstar Steve Winnwood." ← Hit Parade Music History and Music Trivia > I’d Like to Teach the World to Buy Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cc5
 **Lost Album of the Year to George Michael (1989)** : Steve Winwood was a prior Grammy favorite who lost Album of the Year in 1989 to George Michael's "Faith." "Over such prior Grammy favorites as Bobby McFarron, Sting and Steve Winwood." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
+**Rolling Stone List Ranking (2002)** : On a 2002 Rolling Stone list of the greatest singers of all time, Steve Winwood was controversially ranked one spot above Whitney Houston, while she was still alive. "on a rolling stone list of the greatest singers of all time, she was one spot below, wait for it. Steve Winwood, whom she's now got a hit covering on the radio right now." ← Hit Parade Music History and Music Trivia > The Bridge - Wesley on Whitney | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"While You See a Chance" — Billboard Year-End Hot 100** : #68, 1981. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
@@ -21,5 +30,5 @@
 
 ## lists
 **"Arc of a Diver" (1980) — 1001 Albums You Must Hear Before You Die** : #474.
-**"Back in the High Life" (1986) — Grammy Award: Album of the Year nominees** : #1987. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Roll With It" (1988) — Grammy Award: Album of the Year nominees** : #1989. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
+**"Back in the High Life" (1986) — Grammy Award: Album of the Year nominees** : #1987.
+**"Roll With It" (1988) — Grammy Award: Album of the Year nominees** : #1989.

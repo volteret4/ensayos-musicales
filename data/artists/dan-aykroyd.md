@@ -2,6 +2,10 @@
 
 ## member of
 - The Blues Brothers
+- USA for Africa
+
+## songs
+**We Are the World (1985)** : Dan Aykroyd, an actor known for "Moonlighting," participated in "We Are the World." His presence exemplified the inclusion of non-singing celebrities, chosen for their broader public profile, to the charity single. "Moonlighting actors like Dan Acquired." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Saturday Night Live Cast Member** : Dan Aykroyd was a cast member on "Saturday Night Live" when it debuted in 1975, contributing to its showcase of satire and new comedic talent. "Saturday night live, debuts in 1975 and becomes this showcase of satire featuring Dan Acroix, John Balushi, Jane Curtin, Gilder Radner, Chevy Chase." ← For the Record - The 70s > Ep. 41 - The Impact of The Troubadour on 1970s Popular Culture | https://seventies.libsyn.com/ep-41-the-impact-of-the-troubadour-on-1970s-popular-culture

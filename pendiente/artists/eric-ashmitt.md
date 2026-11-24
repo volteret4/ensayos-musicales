@@ -1,0 +1,6 @@
+# artist - Eric Ashmitt
+
+## curiosities
+**Director, Screenwriter, Playwright** : Eric Ashmitt is identified as a director, screenwriter, and playwright. She is married to actor Peter Dinklage. "Eric Ashmitt, who is a director, screenwriter, playwright." ← Hit Parade Music History and Music Trivia > Coming Soon - Hit Parade, Live in Seattle! | https://my.slate.com/podcasts/feeds/hit-parade/
+**Tribeca Festival Appearance (June 10th)** : Eric Ashmitt is slated to appear at the Tribeca Festival on June 10th in New York City, participating in a live episode taping with her husband, Peter Dinklage. This event will take place at the SVA Theatre. "his wife, Eric Ashmitt." ← Hit Parade Music History and Music Trivia > Coming Soon - Hit Parade, Live in Seattle! | https://my.slate.com/podcasts/feeds/hit-parade/
+**First Joint Interview with Peter Dinklage** : The event at the Tribeca Festival will mark the first time Eric Ashmitt and her husband, Peter Dinklage, have done a joint interview together. They will engage in a discussion about their collaborative and individual artistic processes, and how these have influenced their shared life. "It's their first joint interview they've done ever together." ← Hit Parade Music History and Music Trivia > Coming Soon - Hit Parade, Live in Seattle! | https://my.slate.com/podcasts/feeds/hit-parade/

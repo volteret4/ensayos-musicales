@@ -5,4 +5,4 @@
 **Tragedy and Perseverance** : This Seattle band experienced significant hardships. In 1992, one of their members overdosed and died. The following year, in 1993, another member was kidnapped, raped, and murdered. Despite these tragedies, the band chose to "stick together and continued to make music," serving as an inspiration to Dave Grohl. "In 1992, one of their members O.D. and died. And then in 1993, another member was kidnapped, raped, and murdered." ← https://www.youtube.com/watch?v=_AY5lS-FmlU ← seven-year-bitch
 
 ## lists
-**"Viva Zapata" (1994) — Scaruffi 1990s** : #1149, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Viva Zapata" (1994) — Scaruffi 1990s** : #1149, 7.0/10 Scaruffi.

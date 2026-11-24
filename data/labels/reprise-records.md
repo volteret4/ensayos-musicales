@@ -6,6 +6,7 @@
 **Founded by Frank Sinatra** : Reprise Records was established in 1960 by Frank Sinatra, who at that time was recognized as the biggest star of the 20th century. Green Day later signed a record deal with this label. "reprise records, the label created by of all people Frank Sinatra in 1960, who was the biggest star of the 20th century to that point." ← https://www.youtube.com/watch?v=pE7TaWSUa-o ← reprise-records
 **Grimbey Signing** : Grimbey ultimately signed with Reprise Records after considering numerous offers from major labels. Although not the largest multinational, Reprise was a significant record company and part of Warner Brothers, making the signing a notable step for the band from their underground roots. "firmaron por repris y récordos, no era una grandísima multinacional, pero era una escográfica bastante importante y a la vez pertenecía Warner Brothers." ← Music Radar Clan > Green Day - Dookie (¿el concierto más divertido de los '90？) | https://www.youtube.com/watch?v=hPloRX7TWrY&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← reprise-records ← reprise-records
 **Producer Rob Cavallo's Influence** : Rob Cavallo, a key figure at Reprise Records, played a crucial role as a co-producer of Grimbey's album "Dookie." His involvement was instrumental in the album's success, marking the first time the band worked with an external professional producer. "Rob Cavallo era una persona muy importante del repris y records que fue la discográfica que hizo este álbum y que realmente es una de las personas que ha ido mucho al éxito de este disco." ← Music Radar Clan > Green Day - Dookie (¿el concierto más divertido de los '90？) | https://www.youtube.com/watch?v=hPloRX7TWrY&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← reprise-records ← reprise-records
+**Benefiting from Artist Stardom (1960s)** : Record labels can benefit significantly from an artist's newfound stardom even if that artist has moved to a new label. Reprise Records, Sonny and Cher's former label, reissued "Baby Don't Go" after "I Got You Babe" made the duo famous, leading to a major national hit for their older release. "their old label Reprise Records could now benefit from the duo's stardom." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Christine McVie
@@ -13,4 +14,4 @@
 - Green Day
 - My Chemical Romance
 - Pure
-
+- Sonny & Cher

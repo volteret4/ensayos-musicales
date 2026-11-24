@@ -5,6 +5,7 @@
 
 ## concerts
 - Live Aid
+- Live Aid (John F. Kennedy Stadium, Philadelphia)
 
 ## instruments
 - Cassette machine
@@ -32,3 +33,5 @@
 **Villa as Recording Location** : During the recording of "Exile on Main Street," the Rolling Stones Mobile Recording Studio was positioned outside Keith Richards' villa in southern France. "The truck was parked outside Keith Richards' villa in southern France." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← keith-richards ← keith-richards
 **Producer and Guitarist on Jumpin' Jack Flash (1986)** : Keith Richards, guitarist for The Rolling Stones, produced and played guitar on Aretha Franklin's cover of "Jumpin' Jack Flash," the first single from her 1986 *Aretha* album. "special guest Keith Richards came in to produce and play guitar on the album's first single, a cover of the Rolling Stones classic Jumpin' Jack Flash" ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
 **Rock and Roll Hall of Fame Inductor (1987)** : Richards gave the induction speech for Aretha Franklin at the Rock and Roll Hall of Fame ceremony in New York City on January 3, 1987, just months after collaborating on her "Jumpin' Jack Flash" cover. "Rolling Stones guitarist Keith Richards, who had helped Franklin score a hit with a cover of the Stones jump and jack flash just a few months earlier, gave the speech inducting her at the Waldorf Astoria in New York City." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Live Aid Performance (1985)** : Keith Richards performed at Live Aid in Philadelphia in 1985 as part of a triumvirate with Bob Dylan and Ron Wood. They performed just before the "We Are the World" singalong, following Mick Jagger with Tina Turner, and Hall and Oates. "a triumvirate of Bob Dylan, Keith Richards, and Ron Wood." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Chemistry with Mick Jagger** : Keith Richards is highlighted as part of the "special chemistry" within The Rolling Stones, particularly with Mick Jagger, which was integral to the band's identity and made it difficult for Jagger to succeed as a solo act. "The chemistry between him and Keith Richards, Charlie Watts, they're amazing drummer, that it was hard for people to pull him apart." ← Hit Parade Music History and Music Trivia > The Bridge - The Give My Regards Edition | https://my.slate.com/podcasts/feeds/hit-parade/

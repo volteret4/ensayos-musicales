@@ -11,4 +11,4 @@
 
 ## lists
 **"Le Tigre" (1999) — 1001 Albums You Must Hear Before You Die** : #893.
-**"Le Tigre" (1999) — Pitchfork: The 150 Best Albums of the 1990s** : #43. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
+**"Le Tigre" (1999) — Pitchfork: The 150 Best Albums of the 1990s** : #43.

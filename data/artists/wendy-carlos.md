@@ -42,4 +42,4 @@
 **SEAMUS Lifetime Achievement Award (2005)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q7389548
 
 ## lists
-**"Sonic Seasonings" (1972) — Scaruffi 1970s** : #555, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Sonic Seasonings" (1972) — Scaruffi 1970s** : #555, 7.0/10 Scaruffi.

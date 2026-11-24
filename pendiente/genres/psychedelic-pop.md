@@ -5,3 +5,7 @@
 
 ## artists
 - The Moody Blues
+- Three Dog Night
+- Strawberry Alarm Clock
+- The Turtles
+- Donovan

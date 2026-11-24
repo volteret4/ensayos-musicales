@@ -7,6 +7,7 @@
 **Jimmy Iovine's Influence** : Jimmy Iovine is recognized as a skilled marketer and played a supportive role in Bush's recordings. He also co-founded Beats with Dr. Dre, driven partly by concerns over the poor quality of available headphones. "Which in the Iveane, that took a care of quite a bit of it." ← https://www.youtube.com/watch?v=lGNrJgwQjgg ← interscope
 **Rescuing Nine Inch Nails from TVT** : Interscope Records played a crucial role in liberating Nine Inch Nails from their restrictive and litigious contract with TVT Records. Trent Reznor initially viewed the move as "the lesser of several evils" due to his perception of Interscope's image at the time (e.g., Marky Mark), but later appreciated having a label president who, as a former producer, understood the challenges of making records. "They rescued us from TBT, it was a lesser of several evils, and at the time my vision of the inner scope was Mark E. Mark, it was like, Christ, one TVT, and another." ← https://www.youtube.com/watch?v=M3nUQtja0qc ← interscope
 **Support for Artists** : Interscope Records, particularly with Jimmy Iovine, provided substantial financial, emotional, and musical backing to Bush over the years. Gavin Rossdale began recording his "Sea of Memories" album while still under Interscope's care. "I had the benefit, the backing and the financial support, emotional support, musical support of the team at Indusco that always helped me greatly over the years." ← https://www.youtube.com/watch?v=lGNrJgwQjgg ← interscope
+**Singles Withholding Strategy** : Interscope Records implemented a strategy of pushing songs to radio without retail releases, as seen with No Doubt's "Spider Web's" and "Don't Speak." This tactic helped drive album sales significantly. "So their label, Interscope, gave up issuing singles and pushed the band's next two songs to radio without a retail release." ← Hit Parade Music History and Music Trivia > Hit Parade - The Great War Against the Single Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Audioslave
@@ -16,4 +17,4 @@
 - Nine Inch Nails
 - Soundgarden
 - Trent Reznor
-
+- No Doubt

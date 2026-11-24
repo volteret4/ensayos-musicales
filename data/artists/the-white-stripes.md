@@ -6,17 +6,21 @@
 
 ## genres
 - Alt Rock
+- Alternative Rock
 - Blues
 - Bluesy Garage Rock
 - Country
 - Garage Rock
+- Garage Rock Revival
 - Guitar-based Rock
 - Indie
 - Indie Rock
 - Indy Rock
 - Jazz
 - Metal
+- New Rock
 - New Wave
+- Post-Punk
 - Post-Punk Revival
 - Punk
 - Rock
@@ -74,9 +78,11 @@
 ## songs
 **Fell in Love with a Girl (2001)** : This hit from the "White Blood Cells" album gained further recognition with a brilliant music video directed by Bisergondri (Michel Gondry), famously created in Stockholm using Lego pieces. The innovative visual approach significantly contributed to the song's and the album's widespread appeal. "Bisergondri les hizo un genial videoclip en Stockholm, con piezas de lego de su hit, Feline Love, Bicaguel." ← Por qué White Stripes desaparecieron en su mejor momento？ | https://www.youtube.com/watch?v=U6riaxMuOkQ
 **Fell in Love with a Girl (2001)** : This song was released in 2001, less than a year after Jack and Meg White's divorce. "The white stripes featuring Jack and Meg White less than a year after their divorce. Tell and love with a girl from 2001." ← https://www.youtube.com/watch?v=zUQ2vZzmRiI ← the-white-stripes
+**Fell in Love with a Girl (video)** : The music video for The White Stripes' "Fell in Love with a Girl" was directed by Michel Gondry, known for his distinctive visual style. "I can eliminate fell in love with a girl because I believe Michelle laundry did that." ← Hit Parade Music History and Music Trivia > The Bridge - Monster Drums Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 **Icky Thump (2007)** : "Icky Thump" by The White Stripes is cited as a rare, modern example of a rock song that consciously continues the tradition of the fade-out technique. Jack and Meg White's use of this ending method connects their work to a practice spanning over 300 years in musical history. "It's the white stripes and Iki-Thong." ← https://www.youtube.com/watch?v=gP3oQeYEvso ← the-white-stripes
 **In the Cold, Cold Night (2003)** : This song from the *Elephant* album features Meg White on lead vocals, marking one of the five times she performed lead duties for The White Stripes. "That's the white stripes and in the cold cold night and yes, that is Meg White singing lead One of the five times she did that for the white stripes" ← https://www.youtube.com/watch?v=M1JTdUxOEMU ← the-white-stripes ← the-white-stripes
 **Jolene (2000)** : A studio version of this cover song appeared as the B-side to The White Stripes' single "Hay Operator" in 2000. It later became a popular concert favorite for the band. Jack White himself was a great fan of Dolly Parton's original. "The White Stripes, with a B-side that eventually became a concert favorite, their version of Dolly Parton's Jolene, originally released in 1973." ← https://www.youtube.com/watch?v=yuA9Xor8vfw ← the-white-stripes
+**Jolene (2000)** : The White Stripes recorded a hit version of Dolly Parton's "Jolene." "and The White Stripes." ← Hit Parade Music History and Music Trivia > At Last, My Legacy Has Come Along Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Lafayette Blues (1998)** : A 7-inch single released on the obscure indie label Italy Records, backed with "Sugar Never Tasted So Good." This single is extremely valuable for three reasons: its cover was hand-painted by Dave Buick, the label's founder; the vinyl itself was a distinctive red and white swirl, unlike other black, red, or white versions; and only 15 copies were pressed, intended to be sold exclusively at a record release party in Detroit on October 23rd, 1998, for about $6 each. Today, one of these unique copies can sell for over $12,000. "Three things make this single extremely valuable." ← https://www.youtube.com/watch?v=tbmssCZ05ro ← the-white-stripes
 **Seven Nation Army (2003)** : The riff for this song, featuring many different colors of distortion, was created by running an early 1960s K Hollow Body guitar, equipped with a single pickup, into a Digitech Whammy pedal, which shifted the notes Jack White played down an entire octave. Jack White later played the same seven notes on the same guitar with a slide, without pitch shifting, but run through a Big Muff Pi effects pedal with the sustain turned almost all the way up. The signal then went to a Sears Silver Tone amplifier from the mid-1960s, set with a little extra bass and treble, resulting in awesome distorted tones. "The riff was created by running a K Hollow Body guitar from the early 1960s, equipped with a single pickup into a Digitech whammy pedal, which shifted the notes Jack White played down an entire octave." ← https://www.youtube.com/watch?v=iGav9uJwA_w ← the-white-stripes
 **Seven Nation Army (2003)** : This track is from their breakthrough album `Elephant`, released on April 1, 2003. "Those of the white stripes with seven nation army." ← https://www.youtube.com/watch?v=MK7L0eCpDHc ← the-white-stripes
@@ -172,6 +178,10 @@
 **Collaboration with Michel Gondry** : Michel Gondry, celebrated for his imaginative direction and pioneering use of techniques like stop motion and practical effects, collaborated with White Stripes on their videoclips. "ha colaborado con White Stripes, Radiohead, Rolling Stones, Massif Attack o Beck entre muchos otros." ← La Magia Perdida de los Videoclips de los 90s | https://www.youtube.com/watch?v=awdE-N1bnLY
 **Influenced by The Stooges** : The White Stripes would likely list The Stooges as a group that influenced their sound. "If you were to ask a contemporary band like, say, the white stripes or the hives about which groups influence their sound, they would probably list off a bunch of names including the stooges." ← https://www.youtube.com/watch?v=w-rihv544I8 ← white-stripes
 **Rock Revival Act - More Sophisticated** : The White Stripes were part of the Rock Revival movement, offering a distinct sound, though described as "more sophisticated" compared to others in the nascent scene. "teníamos a lo mejor algo de los White Stripes, pero yo creo que eran más sofisticados." ← Music Radar Clan > Arctic Monkeys： Cómo nació un mito. | https://www.youtube.com/watch?v=t7SqB6i2xzE&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← white-stripes ← white-stripes
+**Album Success for One-Hit Wonder Avoidance** : This band is identified as one of several guitar rock acts whose album sales, specifically multiple platinum albums, helped them avoid the label of a one-hit wonder despite potentially having only one major Hot 100 hit. "Still, Rule 3 does rescue quite a few guitar rock acts from the one hit wonder attack, from Judas Priest to the White Stripes." ← Hit Parade Music History and Music Trivia > One and Done, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Biennial Album Releases (Early 2000s)** : By the early 2000s, new albums from artists like The White Stripes, regardless of their genre, were expected no sooner than biennially, firmly establishing the two-year gap between releases. "The White Stripes" ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Minimalist but Raucous Duo Ranking (2015)** : The White Stripes were ranked by Rolling Stone in 2015 as a duo that "played virtually every instrument on their records." They were described as minimalist but raucous, and were a former married couple who presented themselves as faux brother and sister. "There were duos who actually played virtually every instrument on their records, like the minimalist but raucous white stripes. A former married couple turned faux brother and sister." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Critical Favorites** : The White Stripes, a band from Detroit, were mentioned as one of the critical favorites and steady album sellers of the New Rock or Garage Rock Revival era in the early 2000s, even if they generally didn't score top 40 hits. "bands like ... Detroit's White Stripes ... became critical favorites and steady album sellers." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Hotel Yorba" — UK Indie Singles Chart** : 2001. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart
@@ -182,16 +192,16 @@
 **"White Blood Cells" (2001) — 1001 Albums You Must Hear Before You Die** : #938, 87 AOTY.
 **"Elephant" (2003) — 1001 Albums You Must Hear Before You Die** : #966, 81 AOTY.
 **"Get Behind Me Satan" (2005) — 1001 Albums You Must Hear Before You Die** : #1001.
-**"Elephant" (2003) — AOTY Must Hear 2000s** : #364, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"White Blood Cells" (2001) — AOTY Must Hear 2000s** : #455, 87 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Elephant" (2003) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #449, 81 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"White Blood Cells" (2001) — Scaruffi 2000s** : #706, 87 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Elephant" (2003) — Grammy Award: Album of the Year nominees** : #2004, 81 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Lafayette Blues" — John Peel's Record Box** : #122. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
-**"Party of Special Things to Do" — John Peel's Record Box** : #123. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
-**"Merry Christmas From The White Stripes" — John Peel's Record Box** : #124. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
-**"Dead Leaves and the Dirty Ground" — John Peel's Record Box** : #126. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
-**"Hotel Yorba" — John Peel's Record Box** : #128. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
-**"Lord, Send Me an Angel" — John Peel's Record Box** : #129. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
-**"Hello Operator" — John Peel's Record Box** : #131. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
-**"The Big Three Killed My Baby" — John Peel's Record Box** : #132. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
+**"Elephant" (2003) — AOTY Must Hear 2000s** : #364, 81 AOTY.
+**"White Blood Cells" (2001) — AOTY Must Hear 2000s** : #455, 87 AOTY.
+**"Elephant" (2003) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #449, 81 AOTY.
+**"White Blood Cells" (2001) — Scaruffi 2000s** : #706, 87 AOTY.
+**"Elephant" (2003) — Grammy Award: Album of the Year nominees** : #2004, 81 AOTY.
+**"Lafayette Blues" — John Peel's Record Box** : #122.
+**"Party of Special Things to Do" — John Peel's Record Box** : #123.
+**"Merry Christmas From The White Stripes" — John Peel's Record Box** : #124.
+**"Dead Leaves and the Dirty Ground" — John Peel's Record Box** : #126.
+**"Hotel Yorba" — John Peel's Record Box** : #128.
+**"Lord, Send Me an Angel" — John Peel's Record Box** : #129.
+**"Hello Operator" — John Peel's Record Box** : #131.
+**"The Big Three Killed My Baby" — John Peel's Record Box** : #132.

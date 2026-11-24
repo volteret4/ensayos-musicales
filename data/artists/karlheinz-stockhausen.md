@@ -24,4 +24,4 @@
 **Bach Prize of the Free and Hanseatic City of Hamburg (1995)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q798054
 
 ## lists
-**"Kontakte" (1960) — Pitchfork: The 200 Best Albums of the 1960s** : #80. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Kontakte" (1960) — Pitchfork: The 200 Best Albums of the 1960s** : #80.

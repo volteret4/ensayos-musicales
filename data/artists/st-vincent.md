@@ -5,6 +5,10 @@
 - Indie
 - Metal
 
+## concerts
+- Fire Aid Benefit
+- Rock and Roll Hall of Fame
+
 ## instruments
 - Electric Guitar
 - Ernie Ball Music Man St. Vincent Signature Model
@@ -34,16 +38,17 @@
 **Personal View on "Guitar Hero" Status** : Despite her influence and recognition, St. Vincent personally does not identify with the term "guitar hero," finding it a "strange thing," but expresses excitement if she inspires young people to play guitar. "I don't think about that in those terms ever. I really don't. It would be a strange thing for me, like Psychic Lita. ... Great. I'm so excited if kids want to play guitar. It's the best thing." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← st-vincent
 **Signature Guitar's Widespread and Unorthodox Appeal** : The Ernie Ball Music Man St. Vincent Signature Model, with its "retro, future" and "unorthodox shape," has garnered appeal across diverse genres. It has been played by notable artists like Jack White (on SNL) and Tom Morello, and even metalheads (via a stealth black version) and country players, highlighting its versatility and unique design. "Jack White played it on SNL. Tom Morello has one. I've seen, we make an all black version. It's like the stealth version, which is for metalheads. And metal dudes play it. There's country players who are playing it." ← https://www.youtube.com/watch?v=hbNJQ6OYmd0 ← st-vincent
 **Unique Guitar Sound** : She is known for using a distinctive collection of fuzz pedals, which she combines in "weird ways" to make her guitar sound like "something other than a guitar," contributing to her signature sonic palette. "She has a collection of fuzz pedals that she combines in weird ways to make her guitar sound like something other than a guitar." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← st-vincent
+**Guest Vocalist with Nirvana** : St. Vincent was one of the four women guest vocalists invited to perform with Nirvana at their Rock and Roll Hall of Fame induction in 2014, and again at the 2025 Fire Aid Benefit, honoring Kurt Cobain's gender-fluid and feminist ideals. "For their Rock Hall performance, original members Chris Novicellich and Dave Grohl and later Nirvana member Pat Smir were joined on stage for their four song set by four woman guest vocalists, Joan Jett, Kim Gordon of Sonic Youth, St Vincent, and for the finale of the set, Lord, who sang the final Nirvana Modern Rock number one of Kurt Cobain's lifetime, All Apologies." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
-**"Actor" (2009) — AOTY Must Hear 2000s** : #37, 79 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"MASSEDUCTION" (2017) — AOTY Must Hear 2010s** : #252, 86 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"St Vincent" (2014) — AOTY Must Hear 2010s** : #612, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Strange Mercy" (2011) — AOTY Must Hear 2010s** : #827, 86 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"All Born Screaming" (2024) — AOTY Must Hear 2020s** : #227, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Daddy's Home" (2021) — AOTY Must Hear 2020s** : #556, 84 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Marry Me" (2007) — Scaruffi 2000s** : #138, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"St Vincent" (2014) — Scaruffi 2010s** : #317, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Strange Mercy" (2011) — Pitchfork: The 200 Best Albums of the 2010s** : #55, 86 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"Strange Mercy" (2011) — Sputnikmusic Best Albums 2011** : #124, 86 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2011/
-**"Krokodil" (2012) — Sputnikmusic Best Albums 2012** : #51, 4.06 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2012/
+**"Actor" (2009) — AOTY Must Hear 2000s** : #37, 79 AOTY.
+**"MASSEDUCTION" (2017) — AOTY Must Hear 2010s** : #252, 86 AOTY.
+**"St Vincent" (2014) — AOTY Must Hear 2010s** : #612, 7.0/10 Scaruffi.
+**"Strange Mercy" (2011) — AOTY Must Hear 2010s** : #827, 86 AOTY.
+**"All Born Screaming" (2024) — AOTY Must Hear 2020s** : #227, 85 AOTY.
+**"Daddy's Home" (2021) — AOTY Must Hear 2020s** : #556, 84 AOTY.
+**"Marry Me" (2007) — Scaruffi 2000s** : #138, 7.5/10 Scaruffi.
+**"St Vincent" (2014) — Scaruffi 2010s** : #317, 7.0/10 Scaruffi.
+**"Strange Mercy" (2011) — Pitchfork: The 200 Best Albums of the 2010s** : #55, 86 AOTY.
+**"Strange Mercy" (2011) — Sputnikmusic Best Albums 2011** : #124, 86 AOTY.
+**"Krokodil" (2012) — Sputnikmusic Best Albums 2012** : #51, 4.06 Sputnik.

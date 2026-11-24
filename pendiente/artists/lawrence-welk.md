@@ -1,7 +1,18 @@
 # artist - Lawrence Welk
 
+## genres
+- German Pop
+
 ## songs
+**Calcutta (1961)** : This German pop song was re-recorded by bandleader Lawrence Welk as an instrumental, becoming his first and only number 1 hit. It was in the second of its two weeks at number 1 when it held off The Miracles' "Shop Around" from reaching the top spot. "That's band leader Lawrence Welk with his first and only number one hit Calcutta. A German pop song Welk re-recorded as an instrumental while at the peak of his fame as the host of a beloved televised variety show." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Calcutta (1961)** : This "bubbly" instrumental, performed by TV band leader Lawrence Welk, reached number one in 1961. Its success illustrates how instrumentals were a sustained presence on the charts at the dawn of the 1960s, often functioning as a "spicy quirky side dish" in the musical landscape. "TV band leader Lawrence Welk with his bubbly calcutta, a number one in 1961." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Calcutta (1961)** : Welk, at the peak of his fame as a televised variety show host, recorded this German pop song as an instrumental, taking it all the way to the top of the charts. "band leader Lawrence Welk, who at the peak of his fame as the host of a beloved televised variety show, took Calcutta, a German pop song Welk recorded as an instrumental all the way to the top." ← Hit Parade Music History and Music Trivia > Singing Nuns and Green Tambourines Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Mac the Knife (1955)** : Lawrence Welk contributed one of multiple renditions of "Mac the Knife" that reached the top 40 between 1955 and 1956, following the song's translation into English. "Mac the Knife had made the top 40 multiple times in renditions by everyone from Lawrence Welk to Billy Vaughn to Louis Sachman Armstrong." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
+
+## curiosities
+**Televised Variety Show Host** : Lawrence Welk was at the peak of his fame as the host of a beloved televised variety show when his song "Calcutta" became a number 1 hit. "A German pop song Welk re-recorded as an instrumental while at the peak of his fame as the host of a beloved televised variety show." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Televised Variety Show Host** : At the peak of his fame, Lawrence Welk was the beloved host of a televised variety show, which contributed to his widespread recognition. "band leader Lawrence Welk, who at the peak of his fame as the host of a beloved televised variety show" ← Hit Parade Music History and Music Trivia > Singing Nuns and Green Tambourines Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**21st Century Recognition** : Today, Lawrence Welk is only barely known to 21st-century audiences, primarily thanks to a recurring parody of him on Saturday Night Live, which Fred Armisen recently revived for the SNL 50th anniversary special. "nowadays Lawrence Welk is only barely known to 21st century audiences thanks to a recurring parody on Saturday Night Live." ← Hit Parade Music History and Music Trivia > Singing Nuns and Green Tambourines Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Calcutta" — Billboard Year-End Hot 100** : #11, 1961. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

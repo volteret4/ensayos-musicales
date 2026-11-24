@@ -15,4 +15,4 @@
 ## lists
 **"The Undertones" (1979) — 1001 Albums You Must Hear Before You Die** : #436.
 **"Hypnotised" (1980) — 1001 Albums You Must Hear Before You Die** : #468.
-**"Teenage Kicks" — John Peel's Record Box** : #113. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
+**"Teenage Kicks" — John Peel's Record Box** : #113.

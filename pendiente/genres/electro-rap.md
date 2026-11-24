@@ -5,4 +5,5 @@
 
 ## artists
 - DJ Spanish Fly
-
+- Afrika Bambaataa
+- Grandmaster Flash and the Furious Five

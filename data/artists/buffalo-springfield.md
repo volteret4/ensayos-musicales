@@ -21,4 +21,4 @@
 
 ## lists
 **"Buffalo Springfield Again" (1967) — 1001 Albums You Must Hear Before You Die** : #80.
-**"Buffalo Springfield Again" (1967) — Scaruffi 1960s** : #93. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Buffalo Springfield Again" (1967) — Scaruffi 1960s** : #93.

@@ -8,4 +8,4 @@
 - Malo
 - Ritchie Valens
 - Santana
-
+- Jose Feliciano

@@ -21,6 +21,7 @@
 **Pauline Kael's Description** : Legendary film critic Pauline Kael of The New York Times described David Byrne as a "parodist" who commanded the stage with a "hollow wide, frosty verb." Kael noted that Byrne's voice, lacking resonance, was more akin to a shouter or chanter, with a "faintly metallic whale," yet it never cracked or weakened despite his constant jiggling, aerobic walking, jumping, and dancing on stage. "Burn himself is the parodist, and he commands the stage by his hollow wide, frosty verb." ← https://www.youtube.com/watch?v=7_ZmZxnSOnE ← david-byrne
 **Role in Talking Heads Breakup** : The dissolution of Talking Heads was, in part, blamed by two other band members on Byrne's autism, indicating its impact on group dynamics. "Two of the other members blamed the death of the group on Byrne's autism." ← https://www.youtube.com/watch?v=sEZ13v1LNYQ ← david-byrne ← david-byrne
 **Solo Career** : After his tenure with Talking Heads, David Byrne pursued and developed a solo music career. "David Byrne has a solo career" ← https://www.youtube.com/watch?v=oPgeSCy93bo ← david-byrne
+**Solo "Psycho Killer" Performance (1984)** : A stark solo version of "Psycho Killer" performed by David Byrne led off Talking Heads' immortal 1984 concert film "Stop Making Sense." "A stark version of the song played solo by David Byrne led off their immortal 1984 concert film Stop Making Sense." ← Hit Parade Music History and Music Trivia > At Last, My Legacy Has Come Along Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **David di Donatello for Best Score** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3703460
@@ -32,4 +33,4 @@
 **Tony Award for Best Original Score (2024) — Here Lies Love** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1478089
 
 ## lists
-**"My Life In The Bush Of Ghosts" (1981) — Scaruffi 1980s** : #349, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"My Life In The Bush Of Ghosts" (1981) — Scaruffi 1980s** : #349, 7.0/10 Scaruffi.

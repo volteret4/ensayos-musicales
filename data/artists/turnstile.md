@@ -15,7 +15,7 @@
 **Modern Hardcore Evolution** : Turnstile, based in Baltimore, is presented as an example of how hardcore lives today, demonstrating groups that maintain serious hardcore roots while also exploring more experimental directions in their sound. "For example, there's Baltimore's Turn Style, a group with serious hardcore roots or taking things in a more experimental direction." ← https://www.youtube.com/watch?v=0qigzi1j81U ← turnstile
 
 ## lists
-**"NEVER ENOUGH" (2025) — AOTY Must Hear 2020s** : #85, 84 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"GLOW ON" (2021) — AOTY Must Hear 2020s** : #527, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Glow On" (2021) — Sputnikmusic Best Albums 2021** : #23, 3.94 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2021/
-**"Turnstile Love Connection" (2021) — Sputnikmusic Best Albums 2021** : #105, 3.83 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2021/
+**"NEVER ENOUGH" (2025) — AOTY Must Hear 2020s** : #85, 84 AOTY.
+**"GLOW ON" (2021) — AOTY Must Hear 2020s** : #527, 88 AOTY.
+**"Glow On" (2021) — Sputnikmusic Best Albums 2021** : #23, 3.94 Sputnik.
+**"Turnstile Love Connection" (2021) — Sputnikmusic Best Albums 2021** : #105, 3.83 Sputnik.

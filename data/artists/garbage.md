@@ -8,8 +8,10 @@
 
 ## genres
 - Alt Rock
+- Alternative Rock
 - Electronic
 - Orchestral
+- Pop
 
 ## labels
 - (unspecified, but got a deal based on Butch Vig's reputation)
@@ -45,13 +47,15 @@
 **Shirley Manson's Initial Audition Failure** : Shirley Manson initially failed her audition for the band. However, due to her shared musical tastes with the other members, they decided to give her another chance, which she then successfully "nailed." "When Shirley finally did have a chance to audition for the band, she failed. But because she had the same taste in music as the guys, they decided to take a chance anyway." ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← garbage
 **Stage Performance Motivation** : Shirley Manson finds stepping on stage to be like a "bolt in the arm," instantly rejuvenating and energizing her. This feeling makes all the "weird things" and difficulties of touring worthwhile, especially when she sees the lit-up faces of the fans enjoying the show. "The minute you step on stage, it's like a bolt in the arm." ← https://www.youtube.com/watch?v=DgN0vBIugLc ← garbage
 **Summersault Festival International Act** : Garbage was an international act featured in Our Lady Peace's Summersault Festival lineup in 1998, which also included Canadian artists. "That lineup included I'm other Earth, McGandarves, as well as international flavor from Garbage, the Crystal Method and Eve 6." ← https://www.youtube.com/watch?v=U2kYleeMnl8 ← garbage ← garbage
+**Transatlantic Band with Female Frontwoman** : Garbage is described as a transatlantic band fronted by Scottish singer Shirley Manson, benefiting from the success of Alanis Morissette in opening doors for women rockers on alt rock and pop radio. "and the transatlantic band Garbage, fronted by Scottish singer Shirley Manson." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Continued Success at Alt-Rock Radio (1996-1997)** : Garbage, led by singer Shirley Manson, continued to have hits that did "decently" on alt-rock radio even after Tracy Bonham's "Mother Mother" marked a decline for solo female artists. However, even women-led groups like Garbage started to fall off alt-rock radio before the end of the decade. "Over the next two years, the chart would momentarily be commanded by hits from garbage, led by Scott or singer Sheridan Manson" ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Grammy Award for Best New Artist (1997)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643
 
 ## lists
 **"Garbage" (1995) — 1001 Albums You Must Hear Before You Die** : #786, 7.0/10 Scaruffi.
-**"Garbage" (1995) — AOTY Must Hear 1990s** : #225, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Garbage" (1995) — Scaruffi 1990s** : #708, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Version 2.0" (1998) — Grammy Award: Album of the Year nominees** : #1999. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Garbage" (1995) — Pitchfork: The 150 Best Albums of the 1990s** : #121, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
+**"Garbage" (1995) — AOTY Must Hear 1990s** : #225, 7.0/10 Scaruffi.
+**"Garbage" (1995) — Scaruffi 1990s** : #708, 7.0/10 Scaruffi.
+**"Version 2.0" (1998) — Grammy Award: Album of the Year nominees** : #1999.
+**"Garbage" (1995) — Pitchfork: The 150 Best Albums of the 1990s** : #121, 7.0/10 Scaruffi.

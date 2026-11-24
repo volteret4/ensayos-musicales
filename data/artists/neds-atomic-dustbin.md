@@ -6,4 +6,4 @@
 **Eleven-Year Hiatus (2007)** : This "great band from the early 90s" came back together in 2007, having been apart for almost 11 years. "Ned's Atomic Dustman, great band from the early 90s. They came back together in 2007 after being apart for almost 11 years." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← neds-atomic-dustman
 
 ## lists
-**"God Fodder" (1991) — Sputnikmusic Best Albums 1991** : #128, 3.92 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
+**"God Fodder" (1991) — Sputnikmusic Best Albums 1991** : #128, 3.92 Sputnik.

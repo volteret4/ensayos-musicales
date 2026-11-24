@@ -28,4 +28,4 @@
 - The Velvet Underground
 - Throbbing Gristle
 - Tortoise
-
+- The Cure

@@ -12,12 +12,15 @@
 **Love Song (1974)** : Released in 1974, "Love Song" earned Anne Murray a Grammy Award for Best Country Vocal Performance, highlighting her success in the country genre. "she released Love Song in 1974 and that won her Grammy for Best Country Vocal Performance." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/
 **Snowbird (1970)** : Anne Murray achieved a significant hit with "Snowbird" in 1970. "She had a huge hit with Snowbird in 1970" ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← anne-murray
 **Snowbird (1970)** : Anne Murray achieved a significant hit with "Snowbird" in 1970. "She had a huge hit with Snowbird in 1970" ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/
+**You Won't See Me (1974)** : This song, a cover of a Lennon-McCartney composition, reached the top 10 on the Hot 100 after The Beatles' breakup. "Anne Murray, you won't see me." ← Hit Parade Music History and Music Trivia > The Bridge - Farewell, Lilith Fan | https://my.slate.com/podcasts/feeds/hit-parade/
+**You Won't See Me (1974)** : Canadian songstress Anne Murray took The Beatles' "You Won't See Me" to number 8 on the Pop Chart in 1974. This Lennon-McCartney track is considered closer to a "deep cut" for The Beatles. "Canadian Songstress Anne Murray took You Won't See Me to number 8 on the Pop Chart in 1974." ← Hit Parade Music History and Music Trivia > Without The Beatles | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Critic Robert Hull's Disparaging Remarks (1975)** : In a misogynistic assessment from 1975, critic Robert Hull dismissed Ann Murray as "Ugly" in a crude ranking of female singers he would like "to sit in your lap." "Ann Murray, Ugly" ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
 **Duet Performance with Chris Christopherson (1981)** : While initially released as a solo record, Ann Murray did perform "Could I Have This Dance" as a duet with Chris Christopherson on her 1981 TV Christmas Special. This fulfilled, in part, her original vision for the song as a duet. "She did sing it with Chris Christopherson on her TV Christmas Special in 1981." ← For the Record - The 70s > Ep. 50 - The Travolta Trilogy | https://www.ftr70.com/
 **Premature Album Inclusion** : So confident in the song's potential, Murray included "Could I Have This Dance" on her greatest hits album even before it was officially released as a single. This decision proved to be prescient given the song's eventual success. "She was feeling so optimistic about this song that she included it on her greatest hits record before it was ever released as a single." ← For the Record - The 70s > Ep. 50 - The Travolta Trilogy | https://www.ftr70.com/
 **Touring with Jerry Seinfeld** : As a young comedian, Jerry Seinfeld worked on the road with Ann Murray, alongside Andy Williams. "He's been working on the road with Ann Murray and Andy Williams." ← https://www.youtube.com/watch?v=6O5TCTO-go4 ← ann-murray
+**Cover of Beautiful** : Anne Murray was among the artists who later covered Carol King's album cut "Beautiful" from *Tapestry*, highlighting its status as an instant classic. "Another King album cut, Beautiful, sounded like an instant classic, later covered by everyone from Barbara Streisand to Ann Murray." ← Hit Parade Music History and Music Trivia > Spirit of ’71, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761
@@ -79,6 +82,6 @@
 **"Broken Hearted Me" — Billboard Year-End Hot 100** : #92, 1980. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Love Song" (1974) — Juno Awards: Album of the Year** : #1975. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Christmas Wishes" (1981) — Juno Awards: Album of the Year** : #1983. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Duets: Friends & Legends" (2007) — Juno Awards: Album of the Year** : #2008. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
+**"Love Song" (1974) — Juno Awards: Album of the Year** : #1975.
+**"Christmas Wishes" (1981) — Juno Awards: Album of the Year** : #1983.
+**"Duets: Friends & Legends" (2007) — Juno Awards: Album of the Year** : #2008.

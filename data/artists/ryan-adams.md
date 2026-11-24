@@ -9,5 +9,5 @@
 ## lists
 **"Heartbreaker" (2000) — 1001 Albums You Must Hear Before You Die** : #904, 4.12 Sputnik.
 **"Gold" (2001) — 1001 Albums You Must Hear Before You Die** : #933.
-**"Heartbreaker" (2000) — Sputnikmusic Best Albums 2000** : #47, 4.12 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2000/
-**"Love is Hell" (2004) — Sputnikmusic Best Albums 2004** : #152. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2004/
+**"Heartbreaker" (2000) — Sputnikmusic Best Albums 2000** : #47, 4.12 Sputnik.
+**"Love is Hell" (2004) — Sputnikmusic Best Albums 2004** : #152.

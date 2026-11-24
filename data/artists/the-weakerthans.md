@@ -7,4 +7,4 @@
 **Juno Award for Alternative Album of the Year (2001) — Left and Leaving** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q9016680
 
 ## lists
-**"Left and Leaving" (2000) — Sputnikmusic Best Albums 2000** : #38, 4.16 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2000/
+**"Left and Leaving" (2000) — Sputnikmusic Best Albums 2000** : #38, 4.16 Sputnik.

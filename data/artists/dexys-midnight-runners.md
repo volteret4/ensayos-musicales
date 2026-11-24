@@ -4,7 +4,9 @@
 - Kevin Rowland
 
 ## genres
+- Blue-eyed soul
 - Celtic Soul
+- Irish folk
 - New Wave
 - Pop
 
@@ -12,7 +14,10 @@
 **My Beauty (1999)** : Singer Kevin Rowland insisted on posing for the cover of his solo album wearing heavy makeup, panties, and stockings. The image alienated his fanbase so thoroughly that the record initially sold just 500 copies. It has since sold only around 20,000 total, and many of those purchases are attributed to curiosity about the cover image. "The image was such a turn-off to his fans that this record initially sold just 500 copies." ← https://www.youtube.com/watch?v=oljjY7jO-kM ← dexys-midnight-runners
 
 ## songs
+**The Celtic Soul Brothers (1983)** : This song reached number 86 on the Hot 100 in the early summer of 1983. It represented a phase of the band where they blended blue-eyed soul with Irish folk. In their homeland, Dexys scored two UK number ones and several other top 20 hits, but "The Celtic Soul Brothers" was not one of their bigger hits there. "But over here it did reach number 86 on the hot 100 in the early summer of 1983." ← Hit Parade Music History and Music Trivia > One and Done, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Come On Eileen (1983)** : This Celtic Soul Jam reached number one, famously holding off two singles by Michael Jackson. Despite its success, the narrator notes this was discussed in an episode about "One Hit Wonders." "Dexies Midnight Runners, whom we talked about in our One Hit Wonders episode of Hit Parade. Sorry, UK Dexies fans, rose all the way to number one, actually holding off two singles by Michael Jackson, with their Celtic Soul Jam, Come On Ileane." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
+**Come On Eileen (1983)** : This song was a 1983 chart-topper that name-checked Johnny Ray in its first verse. "He's name checked in the first verse of the 1983 chart topper Come On I Lean by Dexie's Midnight Runners." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Come On Eileen (1983)** : This song was so massive that it prevented Michael Jackson from reaching the number one spot for one week in April 1983. It is overwhelmingly the song for which Dexys Midnight Runners are known worldwide. "Come on I believe which was so huge it kept Michael Jackson out of the number one spot for one week in April 1983 is overwhelmingly the song for which dexies is known around the world." ← Hit Parade Music History and Music Trivia > One and Done, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Geno (1980)** : This was the first hit record Chris Berkett was involved in as an engineer, produced by Pete Wingfield. He recalls an early tape-handling error during its recording. "the first hit record I was involved in was Gino by Dexys Midnight Runners." ← https://www.youtube.com/watch?v=mjQBaX_3oL4 ← dexys-midnight-runners ← dexys-midnight-runners
 
 ## curiosities
@@ -20,6 +25,8 @@
 **MTV Staples** : Dexys Midnight Runners were identified as an "MTV Staple" in the 1980s, signifying their regular presence and popularity on the music television channel. They were among the bands who worked with 80s hitmakers Clive Langer and Alan Winstanley. "Madness and Dexie's Midnight Runners." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
 **"Celtic Drag"** : The band's "Celtic drag" aesthetic was considered "outlandish" at the time. "And if Dexies Celtic drag seemed outlandish, the very meaning of drag was redefined by Culture Club's George O'Dowd, aka Boy George." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
 **First American Hits (1983)** : Dexys Midnight Runners scored their first American hits in 1983, contributing to the significant impact of the second British invasion during that year. "Dexys Midnight Runners all scoring their first American hits." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
+**Cultural One-Hit Wonder Status in America** : Despite "The Celtic Soul Brothers" reaching number 86 on the Hot 100, Dexys Midnight Runners are culturally perceived in America as a one-hit wonder, primarily known for "Come On Eileen," as their follow-up did not reach the Top 40. "It would be well culturally obtuse to claim that in America dexies midnight runners are anything but a one hit wonder after all Celtic soul brothers didn't come close to our top 40." ← Hit Parade Music History and Music Trivia > One and Done, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Inclusion on VH1's One-Hit Wonder List** : Dexys Midnight Runners were ranked third on VH1's "100 Greatest One Hit Wonders" countdown, even though they wouldn't qualify under a strict definition of a pure one-hit wonder due to "The Celtic Soul Brothers" charting. "Dexie's midnight runners whom VH1 ranked third on their countdown they wouldn't count." ← Hit Parade Music History and Music Trivia > One and Done, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Come On Eileen" — Billboard Year-End Hot 100** : #13, 1983. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

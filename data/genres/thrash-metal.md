@@ -20,4 +20,4 @@
 - Slayer
 - The Great Kat
 - Warbringer
-
+- Beastie Boys

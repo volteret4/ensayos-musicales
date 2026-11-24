@@ -1,0 +1,5 @@
+# artist - Georgio Moroder
+
+## curiosities
+**Electronic Dance Music Pioneer** : Co-produced "I Feel Love" with Pete Bellotte and Donna Summer, a seminal single credited with helping to invent electronic dance music through its innovative use of synthesizers. "She and her producers, Georgio Maroder, and Pete Balotti even helped invent electronic dance music with the seminal single I Feel Love." ← Hit Parade Music History and Music Trivia > The Queen of Disco Edition Part 2 (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
+**Continued Chart Success** : Even after parting ways with Donna Summer, Moroder continued to achieve chart success throughout the 1980s. He scored a number one smash with Blondie while still working with Summer, and later accumulated two more 80s chart toppers and two Oscars for his work on Berlin's "Take My Breath Away" from "Top Gun" and Irene Cara's "Flashdance What A Feeling." "And Georgiomarotr kept on topping the charts." ← Hit Parade Music History and Music Trivia > The Queen of Disco Edition Part 2 (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/

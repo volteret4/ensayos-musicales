@@ -27,21 +27,21 @@
 **Trent Reznor as a Fan** : Trent Reznor of Nine Inch Nails is noted as a major fan of Godspeed You! Black Emperor, highlighting their significant influence. "And Trent Resner of Nine-East Nails is a major fan." ← https://www.youtube.com/watch?v=pLf3kUONewg ← godspeed-you-black-emperor ← godspeed-you-black-emperor
 
 ## lists
-**"Slow Riot for New Zerø Kanada E.P." (1999) — AOTY Must Hear 1990s** : #37, 87 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"F♯ A♯ ∞ (Expanded Version)" (1998) — AOTY Must Hear 1990s** : #75, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"F♯ A♯ ∞" (1997) — AOTY Must Hear 1990s** : #119. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Yanqui UXO" (2002) — AOTY Must Hear 2000s** : #383, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Lift Yr. Skinny Fists Like Antennas to Heaven!" (2000) — AOTY Must Hear 2000s** : #484. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"'Asunder, Sweet and Other Distress'" (2015) — AOTY Must Hear 2010s** : #517, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Allelujah Don't Bend Ascend" (2012) — AOTY Must Hear 2010s** : #734, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**""NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD"" (2024) — AOTY Must Hear 2020s** : #171, 78 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"G_d's Pee AT STATE'S END!" (2021) — AOTY Must Hear 2020s** : #572, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"F♯ A♯ ∞" (1997) — Scaruffi 1990s** : #730. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Lift Yr. Skinny Fists Like Antennas to Heaven!" (2000) — Scaruffi 2000s** : #73. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Yanqui UXO" (2002) — Scaruffi 2000s** : #395, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Allelujah Don't Bend Ascend" (2012) — Scaruffi 2010s** : #190, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"F♯ A♯ ∞" (1997) — Pitchfork: The 150 Best Albums of the 1990s** : #85. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"F♯ A♯ ∞" (1997) — Sputnikmusic Best Albums 1997** : #3. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
-**"Slow Riot for New Zerø Kanada E.P." (1999) — Sputnikmusic Best Albums 1999** : #1, 87 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1999/
-**"Lift Yr. Skinny Fists Like Antennas to Heaven!" (2000) — Sputnikmusic Best Albums 2000** : #1. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2000/
-**"Allelujah Don't Bend Ascend" (2012) — Sputnikmusic Best Albums 2012** : #109, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2012/
+**"Slow Riot for New Zerø Kanada E.P." (1999) — AOTY Must Hear 1990s** : #37, 87 AOTY.
+**"F♯ A♯ ∞ (Expanded Version)" (1998) — AOTY Must Hear 1990s** : #75, 83 AOTY.
+**"F♯ A♯ ∞" (1997) — AOTY Must Hear 1990s** : #119.
+**"Yanqui UXO" (2002) — AOTY Must Hear 2000s** : #383, 7.0/10 Scaruffi.
+**"Lift Yr. Skinny Fists Like Antennas to Heaven!" (2000) — AOTY Must Hear 2000s** : #484.
+**"'Asunder, Sweet and Other Distress'" (2015) — AOTY Must Hear 2010s** : #517, 81 AOTY.
+**"Allelujah Don't Bend Ascend" (2012) — AOTY Must Hear 2010s** : #734, 7.0/10 Scaruffi.
+**""NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD"" (2024) — AOTY Must Hear 2020s** : #171, 78 AOTY.
+**"G_d's Pee AT STATE'S END!" (2021) — AOTY Must Hear 2020s** : #572, 82 AOTY.
+**"F♯ A♯ ∞" (1997) — Scaruffi 1990s** : #730.
+**"Lift Yr. Skinny Fists Like Antennas to Heaven!" (2000) — Scaruffi 2000s** : #73.
+**"Yanqui UXO" (2002) — Scaruffi 2000s** : #395, 7.0/10 Scaruffi.
+**"Allelujah Don't Bend Ascend" (2012) — Scaruffi 2010s** : #190, 7.0/10 Scaruffi.
+**"F♯ A♯ ∞" (1997) — Pitchfork: The 150 Best Albums of the 1990s** : #85.
+**"F♯ A♯ ∞" (1997) — Sputnikmusic Best Albums 1997** : #3.
+**"Slow Riot for New Zerø Kanada E.P." (1999) — Sputnikmusic Best Albums 1999** : #1, 87 AOTY.
+**"Lift Yr. Skinny Fists Like Antennas to Heaven!" (2000) — Sputnikmusic Best Albums 2000** : #1.
+**"Allelujah Don't Bend Ascend" (2012) — Sputnikmusic Best Albums 2012** : #109, 7.0/10 Scaruffi.

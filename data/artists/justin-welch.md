@@ -2,3 +2,4 @@
 
 ## member of
 - Elastica
+- Suede

@@ -28,8 +28,8 @@
 **"Silence" — UK Indie Singles Chart** : 2000. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart
 
 ## lists
-**"Spiritual Archives" (1991) — Scaruffi 1990s** : #196, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Spheres" (1994) — Scaruffi 1990s** : #598, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Stone Tower" (1990) — Scaruffi 1990s** : #599, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Spheres I" (1994) — Sputnikmusic Best Albums 1994** : #151. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
-**"Spheres II" (1994) — Sputnikmusic Best Albums 1994** : #175, 3.96 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
+**"Spiritual Archives" (1991) — Scaruffi 1990s** : #196, 7.5/10 Scaruffi.
+**"Spheres" (1994) — Scaruffi 1990s** : #598, 7.0/10 Scaruffi.
+**"Stone Tower" (1990) — Scaruffi 1990s** : #599, 7.0/10 Scaruffi.
+**"Spheres I" (1994) — Sputnikmusic Best Albums 1994** : #151.
+**"Spheres II" (1994) — Sputnikmusic Best Albums 1994** : #175, 3.96 Sputnik.

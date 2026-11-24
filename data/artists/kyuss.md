@@ -69,9 +69,9 @@
 **Sales and Success Metrics** : For Kyuss, selling 40,000 copies of an album was considered a significant victory, reflecting their focus on a cult following rather than mass appeal. "And if an album sold 40,000 copies, that was fine. That was the big victory for them." ← https://www.youtube.com/watch?v=mG1TQuhcf1o ← kyuss
 
 ## lists
-**"Welcome To Sky Valley" (1994) — AOTY Must Hear 1990s** : #283, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Blues For The Red Sun" (1992) — AOTY Must Hear 1990s** : #370, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Blues For The Red Sun" (1992) — Scaruffi 1990s** : #77, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Welcome To Sky Valley" (1994) — Scaruffi 1990s** : #845, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Blues For The Red Sun" (1992) — Sputnikmusic Best Albums 1992** : #22, 8.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"Welcome To Sky Valley" (1994) — Sputnikmusic Best Albums 1994** : #7, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
+**"Welcome To Sky Valley" (1994) — AOTY Must Hear 1990s** : #283, 7.0/10 Scaruffi.
+**"Blues For The Red Sun" (1992) — AOTY Must Hear 1990s** : #370, 8.0/10 Scaruffi.
+**"Blues For The Red Sun" (1992) — Scaruffi 1990s** : #77, 8.0/10 Scaruffi.
+**"Welcome To Sky Valley" (1994) — Scaruffi 1990s** : #845, 7.0/10 Scaruffi.
+**"Blues For The Red Sun" (1992) — Sputnikmusic Best Albums 1992** : #22, 8.0/10 Scaruffi.
+**"Welcome To Sky Valley" (1994) — Sputnikmusic Best Albums 1994** : #7, 7.0/10 Scaruffi.

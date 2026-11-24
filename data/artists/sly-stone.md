@@ -1,5 +1,8 @@
 # artist - Sly Stone
 
+## member of
+- Sly and the Family Stone
+
 ## genres
 - Funk
 - Rock
@@ -17,6 +20,7 @@
 **Sly Stone Death (2025) – COPD After Living in a Van and $5M Settlement** : Sly Stone, pioneer of funk, soul, and rock, died in 2025 of COPD. After years of personal struggles that included living in a camper van, he won a $5 million copyright lawsuit that allowed a brief return to public life before his death. "After years of struggles and living in a camper van, won a $5 million copyright lawsuit." ← https://www.youtube.com/watch?v=ZPlsR7_WiZQ ← sly-stone
 **Template for 70s Music** : Sly Stone is recognized for providing a foundational template for the music of the 1970s, particularly through his innovative use of instrumentation and sound. His work showed what was musically possible and influenced subsequent acts. "another example of how Sly gave us a template for 70s music." ← For the Record - The 70s > FTR70 Sound Bite - Remembering Sly Stone | https://www.ftr70.com/
 **Contribution to 1971's Musical Greatness** : Sly Stone was recognized as one of the artists contributing to the musical "greatness" of 1971, a period described as when "the music of the 60s came into full artistic fruition." "Sly Stone." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
+**1971 Chart Topper** : Sly Stone is mentioned as one of the legends who topped the charts in 1971, a year widely acclaimed for its rock, pop, and soul music. "the Stones to Sly Stone." ← Hit Parade Music History and Music Trivia > I Got Five on It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Grammy Lifetime Achievement Award (2017)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q935843

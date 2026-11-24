@@ -19,5 +19,5 @@
 **"Sure Thing" — Billboard Year-End Hot 100** : #24, 2023. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Wildheart" (2015) — AOTY Must Hear 2010s** : #495, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Kaleidoscope Dream" (2012) — AOTY Must Hear 2010s** : #738, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
+**"Wildheart" (2015) — AOTY Must Hear 2010s** : #495, 80 AOTY.
+**"Kaleidoscope Dream" (2012) — AOTY Must Hear 2010s** : #738, 80 AOTY.

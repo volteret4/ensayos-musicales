@@ -6,12 +6,14 @@
 - Jonathan Davis
 
 ## genres
+- Alt Metal
 - Alt Rock
 - Grunge
 - Hip Hop
 - Metal
 - New Metal
 - Nu Metal
+- Rap Rock
 
 ## labels
 - Immortal Records
@@ -63,9 +65,11 @@
 **Tour Exhaustion** : Lead singer Jonathan Davis describes the extreme physical and mental drain of performing longer sets (an hour to an hour and twenty minutes) on tour, contrasting it with the relative ease of earlier 45-minute sets. He notes that by the end of such shows, he is completely drained, often feeling "done" after just three songs into a headlining set. "Usually by the end of the show, mostly the drylands gone." ← Ongoing History of New Music > Get in the Van | https://www.youtube.com/watch?v=DgN0vBIugLc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Woodstock 99 Performance and Crowd Demeanor** : Korn was part of the lineup at Woodstock 99, which featured a concentration of "intense and angry new metal bands." This lineup contributed to an atmosphere of heightened "male rage and testosterone" among the 200,000 attendees, a key factor in the eventual escalation to widespread violence and property damage. "Added in the fact that the lineup was filled with intense and angry new metal bands, LeBiscuit corn, kid rocked, rage guns, the machine, Metallica, tons of mail rage and testosterone." ← Ongoing History of New Music > Rock's Greatest Disasters | https://www.youtube.com/watch?v=Pgchw2h87aw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Youth Identity Expression - 1990s** : In the 1990s, young people expressed their identity and tastes by wearing t-shirts of artists like Korn. This was part of a broader cultural trend where urban tribes lived their golden age. "vistiendo camisetas de Marilyn Manson o Corn." ← Por qué ya no elegimos nuestro tono de llamada？ | https://www.youtube.com/watch?v=PVZrB26sBlQ
+**Pioneers of New Metal/Rap Rock** : Korn was part of the major trends of new metal and rap rock in the late 90s, characterized by a combination of syncopated rhythms, metal screeching, and occasional rapping. They produced hits that charted on both mainstream rock and modern rock lists. "Corn, limp biscuit, coal chamber, orgy, the death tones, even kid rock at the time was aligned with new metal's combination of syncopated rhythms, metal screeching and occasional rapping." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Leading Edge of "Alternative" Music in 1999** : Korn was among the bands that constituted the "leading edge" of so-called alternative music in 1999. Their style contributed to the "broification" of rock radio, which increasingly marginalized female artists' airplay. "Limp, corn, god smack, kid rock, these were the leading edge of so-called alternative music in 1999" ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Follow the Leader" (1998) — 1001 Albums You Must Hear Before You Die** : #876.
-**"Korn" (1994) — AOTY Must Hear 1990s** : #264, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Korn" (1994) — Scaruffi 1990s** : #249, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Requiem" (2022) — Kerrang! The 50 Best Albums of 2022** : #44. ← musicbrainz | https://beta.musicbrainz.org/series/bba4a66d-575e-4b6e-8447-233ad23a8f51
+**"Korn" (1994) — AOTY Must Hear 1990s** : #264, 7.5/10 Scaruffi.
+**"Korn" (1994) — Scaruffi 1990s** : #249, 7.5/10 Scaruffi.
+**"Requiem" (2022) — Kerrang! The 50 Best Albums of 2022** : #44.

@@ -15,7 +15,7 @@
 **Founders of Merge Records** : SuperChuck was a 90s indie band, whose members founded Merge Records, an independent label based in Durham, North Carolina. "They record for merge records, an independent label set up in Durham, North Carolina by a couple of members of a 90s indie band called SuperChuck." ← https://www.youtube.com/watch?v=__7iEl3lH8g ← superchuck
 
 ## lists
-**"No Pocky For Kitty" (1991) — Scaruffi 1990s** : #1219, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"No Pocky For Kitty" (1991) — Sputnikmusic Best Albums 1991** : #149, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"On the Mouth" (1993) — Sputnikmusic Best Albums 1993** : #83, 4.05 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
-**"Foolish" (1994) — Sputnikmusic Best Albums 1994** : #198, 3.93 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
+**"No Pocky For Kitty" (1991) — Scaruffi 1990s** : #1219, 7.0/10 Scaruffi.
+**"No Pocky For Kitty" (1991) — Sputnikmusic Best Albums 1991** : #149, 7.0/10 Scaruffi.
+**"On the Mouth" (1993) — Sputnikmusic Best Albums 1993** : #83, 4.05 Sputnik.
+**"Foolish" (1994) — Sputnikmusic Best Albums 1994** : #198, 3.93 Sputnik.

@@ -5,4 +5,5 @@
 
 ## artists
 - Dale Hawkins
-
+- Creedence Clearwater Revival
+- John Fogerty

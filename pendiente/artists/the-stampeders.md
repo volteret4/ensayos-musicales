@@ -23,4 +23,4 @@
 **"Sweet City Woman" — Billboard Year-End Hot 100** : #58, 1971. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"The Best of The Stampeders" (1977) — Juno Awards: Album of the Year** : #1978. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
+**"The Best of The Stampeders" (1977) — Juno Awards: Album of the Year** : #1978.

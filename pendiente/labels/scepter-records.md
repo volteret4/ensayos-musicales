@@ -7,8 +7,9 @@
 **Luther Dixon's Production and Writing** : A significant portion of the material released on Scepter Records was produced and written by Luther Dixon, indicating his influential role at the label. "produced and written, like much of the material on Scepter, by Luther Dixon." ← Episode 91： ＂The Twist＂ by Chubby Checker | https://www.youtube.com/watch?v=LzsS8EXdsm8
 **National Distribution for The Kingsmen (Wand subsidiary)** : Prompted by reports of strong sales in Boston, Malf Schlacht of Scepter Records decided to pick up The Kingsmen's "Louie Louie" for national distribution through their Wand subsidiary. "Malf Schlacht of its septer heard from the distributors how well the record was doing, and picked it up for national distribution on their one subsidiary." ← Episode 106：＂Louie Louie＂ by the Kingsmen | https://www.youtube.com/watch?v=S3agGJsxjpE
 **Royalty Scandal and Lawsuits** : Scepter Records, under Florence Greenberg's management, was involved in a major royalty dispute with The Shirelles. The group discovered that money promised for a trust fund was instead being kept by Greenberg, leading to lawsuits. Despite the legal battles, The Shirelles remained signed to Scepter, preventing them from recording for other labels and effectively destroying their career. "They entered into lawsuits against Septa, but remained sand to the label, and so couldn't record for anyone else. Their career was destroyed." ← Episode 89： ＂Will You Love Me Tomorrow？＂ by the Shirelles | https://www.youtube.com/watch?v=7Kns2HGcuSg
+**Early Disco Market Targeter** : Scepter Records was one of the first record labels to specifically target singles at the nascent disco market, as seen with their release of BT Express's "Do It Till You're Satisfied." ← Hit Parade Music History and Music Trivia > We Invented the Remix Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Joey Dee and the Starliters
 - The Shirelles
-
+- BT Express

@@ -23,4 +23,4 @@
 **Riot Grrrl Band** : Bratmobile is mentioned as one of the bands within the Riot Grrrl movement. "And then there were bands like Sugar Baby Doll and the Pagan Babies and Brat Mobio and Heaven's De Betsy and Huggy Bear." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← bratmobile ← bratmobile
 
 ## lists
-**"Pottymouth" (1993) — Pitchfork: The 150 Best Albums of the 1990s** : #149. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
+**"Pottymouth" (1993) — Pitchfork: The 150 Best Albums of the 1990s** : #149.

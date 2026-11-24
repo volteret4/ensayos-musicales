@@ -1,14 +1,24 @@
 # artist - The Big Bopper
 
+## members
+- J. P. Richardson Jr.
+
 ## genres
 - Novelty
+- Pop
 - Rock and Roll
+- Rockabilly
 
 ## concerts
 - Winter Dance Party
 
 ## songs
-**Chantilly Lace** : The Big Bopper's one hit song, a novelty track, on the basis of which he was touring. "The Big Bopper, who was actually a fairly accomplished songwriter, but was touring on the basis of his one hit, a novelty song called Shantilly Lace." ← Episode 74： ＂It Doesn't Matter Any More＂ by Buddy Holly | https://www.youtube.com/watch?v=6unib5T2mDQ
+**Big Bopper's Wedding (1959)** : This self-referential single, a follow-up to "Chantilly Lace," charted modestly, reaching number 30 on the pop chart. It demonstrated the difficulty the Big Bopper had in following up his major hit. "It's even more self-referential single. Bopper's wet, merrily straight top 40 in number 30." ← Hit Parade Music History and Music Trivia > The Posthumous Hits Edition, Live from Seattle | https://my.slate.com/podcasts/feeds/hit-parade/
+**Chantilly Lace (1958)** : The Big Bopper's one hit song, a novelty track, on the basis of which he was touring. "The Big Bopper, who was actually a fairly accomplished songwriter, but was touring on the basis of his one hit, a novelty song called Shantilly Lace." ← Episode 74： ＂It Doesn't Matter Any More＂ by Buddy Holly | https://www.youtube.com/watch?v=6unib5T2mDQ
+**Chantilly Lace (1958)** : The song that earned J.P. Richardson Jr., "the Big Bopper," his legendary status and enshrined him at the Rock and Roll Hall of Fame. It made the pop top 10, peaking at number six in November 1958. "The fourth-in-jolly Bopper earned his legendary status for Chantilly Lace and shrined at the Rock and Roll Hall of Fame." ← Hit Parade Music History and Music Trivia > The Posthumous Hits Edition, Live from Seattle | https://my.slate.com/podcasts/feeds/hit-parade/
+**Chantilly Lace (1958)** : This song is tagged by Joel Whitburn and other rock historians as a novelty record, even though The Big Bopper is also regarded as a rockabilly pioneer. "The Big Boppers, Shantilly Lace, is tagged by Joel Whitburn and other Rock historians as a novelty record, even as he is also regarded as a rockabilly pioneer." ← Hit Parade Music History and Music Trivia > The White and Nerdy Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Chantilly Lace (1958)** : This early rock and roll hit is tagged by Joel Whitburn and other rock historians as a novelty record. Despite this classification, The Big Bopper is also recognized as a pioneer of rockabilly music. "The big boppers, Shantilly Lace, is tagged by Joel Whitburn and other rock historians as a novelty record, even as he is also regarded as a rockabilly pioneer." ← Hit Parade Music History and Music Trivia > The White and Nerdy Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Little Red Riding Hood (1959)** : The flip-side to "Big Bopper's Wedding," this song peaked at number 72 on the pop chart. "And it's flip-side, little red riding who peaked at number 72." ← Hit Parade Music History and Music Trivia > The Posthumous Hits Edition, Live from Seattle | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Plane Crash Death (1959)** : Big Wopper was killed in a small plane crash in a cornfield outside Mason City, Iowa, on February 3, 1959. This tragedy, which also claimed the lives of Buddy Holly and Ritchie Valens, is historically referred to as "the day the music died." "Buddy Holly, Richie Val, and Big Wopper were all killed when their small plane went down in a cornfield outside of Mason City, Iowa." ← https://www.youtube.com/watch?v=3eGBnwPWRGo ← big-wopper
@@ -19,3 +29,5 @@
 **Death in Plane Crash (1959)** : On February 3, 1957, a day famously known as "the day the music died," The Big Bopper was killed when the small plane he was a passenger in went down in a cornfield outside of Mason City, Iowa. He died alongside fellow musicians Buddy Holly and Richie Valens. "February 3rd, 1957 has gone down in history as the day the music died." ← https://www.youtube.com/watch?v=hmnMG6f80Sg ← the-big-bopper
 **Iowa Plane Crash Fatality** : J.P. Richardson died early in 1959 in an infamous Iowa plane crash, an accident that also claimed the lives of Buddy Holly and Ritchie Valens. "J.P. Richardson, better known as the Big Bopper, who died early in 1959 in that infamous Iowa plane crash, that also took the lives of Buddy Holly and Richie Valens." ← For the Record - The 70s > Ep. 2 - Countryish Music of the 1970s (Encore) | https://www.ftr70.com/
 **Songwriter of White Lightning** : J.P. Richardson, known as The Big Bopper, wrote George Jones's first country hit, "White Lightning." "It was written by J.P. Richardson, better known as the Big Bopper..." ← For the Record - The 70s > Ep. 2 - Countryish Music of the 1970s (Encore) | https://www.ftr70.com/
+**One-Hit Wonder Status** : The Big Bopper is primarily known for "Chantilly Lace," and despite attempts to follow up, he is essentially considered a one-hit wonder. "J. P. Richardson Jr. aka the Big Bopper, who is essentially a one-hit wonder. albeit a pretty great hit." ← Hit Parade Music History and Music Trivia > The Posthumous Hits Edition, Live from Seattle | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Day the Music Died" Victim (1959)** : J.P. Richardson Jr. died on February 3, 1959, in a plane crash along with Buddy Holly and Richie Valens, an event famously dubbed "the Day the Music Died." They boarded a four-seat Beechcraft Bonanza airplane taking off from Mason City, Iowa, bound for Moorhead, Minnesota, a destination they never reached. "On February 3rd, 1959, they boarded a doomed four-seat beach craft bananza airplane taking off from Mason City, Iowa, bound for more head Minnesota." ← Hit Parade Music History and Music Trivia > The Posthumous Hits Edition, Live from Seattle | https://my.slate.com/podcasts/feeds/hit-parade/

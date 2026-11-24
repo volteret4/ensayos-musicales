@@ -34,17 +34,17 @@
 
 ## lists
 **"Emperor Tomato Ketchup" (1996) — 1001 Albums You Must Hear Before You Die** : #811, 7.0/10 Scaruffi.
-**"Cobra and Phases Group Play Voltage in the Milky Night" (1999) — AOTY Must Hear 1990s** : #19, 60 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Dots and Loops" (1997) — AOTY Must Hear 1990s** : #112, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Emperor Tomato Ketchup" (1996) — AOTY Must Hear 1990s** : #198, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Transient Random Noise Bursts With Announcements" (1993) — AOTY Must Hear 1990s** : #332, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Instant Holograms On Metal Film" (2025) — AOTY Must Hear 2020s** : #92, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Transient Random Noise Bursts With Announcements" (1993) — Scaruffi 1990s** : #134, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Mars Audiac Quintet" (1994) — Scaruffi 1990s** : #325, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Emperor Tomato Ketchup" (1996) — Scaruffi 1990s** : #1206, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Space Age Batchelor Pad Music" (1993) — Scaruffi 1990s** : #1398, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Emperor Tomato Ketchup" (1996) — Pitchfork: The 150 Best Albums of the 1990s** : #44, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Transient Random Noise Bursts With Announcements" (1993) — Sputnikmusic Best Albums 1993** : #95, 8.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
-**"Fluorescences" (1996) — Sputnikmusic Best Albums 1996** : #27, 4.23 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
-**"Emperor Tomato Ketchup" (1996) — Sputnikmusic Best Albums 1996** : #138, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
-**"Dots and Loops" (1997) — Sputnikmusic Best Albums 1997** : #45, 83 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
+**"Cobra and Phases Group Play Voltage in the Milky Night" (1999) — AOTY Must Hear 1990s** : #19, 60 AOTY.
+**"Dots and Loops" (1997) — AOTY Must Hear 1990s** : #112, 83 AOTY.
+**"Emperor Tomato Ketchup" (1996) — AOTY Must Hear 1990s** : #198, 7.0/10 Scaruffi.
+**"Transient Random Noise Bursts With Announcements" (1993) — AOTY Must Hear 1990s** : #332, 8.0/10 Scaruffi.
+**"Instant Holograms On Metal Film" (2025) — AOTY Must Hear 2020s** : #92, 81 AOTY.
+**"Transient Random Noise Bursts With Announcements" (1993) — Scaruffi 1990s** : #134, 8.0/10 Scaruffi.
+**"Mars Audiac Quintet" (1994) — Scaruffi 1990s** : #325, 7.5/10 Scaruffi.
+**"Emperor Tomato Ketchup" (1996) — Scaruffi 1990s** : #1206, 7.0/10 Scaruffi.
+**"Space Age Batchelor Pad Music" (1993) — Scaruffi 1990s** : #1398, 7.0/10 Scaruffi.
+**"Emperor Tomato Ketchup" (1996) — Pitchfork: The 150 Best Albums of the 1990s** : #44, 7.0/10 Scaruffi.
+**"Transient Random Noise Bursts With Announcements" (1993) — Sputnikmusic Best Albums 1993** : #95, 8.0/10 Scaruffi.
+**"Fluorescences" (1996) — Sputnikmusic Best Albums 1996** : #27, 4.23 Sputnik.
+**"Emperor Tomato Ketchup" (1996) — Sputnikmusic Best Albums 1996** : #138, 7.0/10 Scaruffi.
+**"Dots and Loops" (1997) — Sputnikmusic Best Albums 1997** : #45, 83 AOTY.

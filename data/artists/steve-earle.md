@@ -13,6 +13,6 @@
 
 ## lists
 **"Guitar Town" (1986) — 1001 Albums You Must Hear Before You Die** : #579, 7.0/10 Scaruffi.
-**"Guitar Town" (1986) — Scaruffi 1980s** : #732, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Transcendental Blues" (2000) — Scaruffi 2000s** : #657, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"I Feel Alright" (1996) — Sputnikmusic Best Albums 1996** : #155, 3.98 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
+**"Guitar Town" (1986) — Scaruffi 1980s** : #732, 7.0/10 Scaruffi.
+**"Transcendental Blues" (2000) — Scaruffi 2000s** : #657, 7.0/10 Scaruffi.
+**"I Feel Alright" (1996) — Sputnikmusic Best Albums 1996** : #155, 3.98 Sputnik.

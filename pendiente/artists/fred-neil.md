@@ -10,5 +10,5 @@
 
 ## lists
 **"Fred Neil" (1967) — 1001 Albums You Must Hear Before You Die** : #62, 7.0/10 Scaruffi.
-**"Fred Neil" (1967) — Scaruffi 1960s** : #124, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Fred Neil" (1967) — Pitchfork: The 200 Best Albums of the 1960s** : #135, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Fred Neil" (1967) — Scaruffi 1960s** : #124, 7.0/10 Scaruffi.
+**"Fred Neil" (1967) — Pitchfork: The 200 Best Albums of the 1960s** : #135, 7.0/10 Scaruffi.

@@ -8,11 +8,18 @@
 - Tony Kanal
 
 ## genres
+- Alt Rock
 - Indie
 - New Wave
 - Ska
 - Ska Punk
+- Ska Rockers
+- Ska-rock
 - Third Wave Ska
+
+## labels
+- Interscope
+- Interscope Records
 
 ## concerts
 - Vans Warped Tour (1995)
@@ -22,6 +29,15 @@
 **The Beacon Street Collection (1995)** : Released in March 1995, this was No Doubt's second record. The band was booked for the first Warped Tour based on the strength of this album, before their _Tragic Kingdom_ album was released. "They got into Warped on the strength of their second record, The Beacon Street Collection, which was released in March of that year." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← no-doubt
 **Tragic Kingdom (1995)** : At the time of the first Warped Tour in 1995, No Doubt's breakthrough album, _Tragic Kingdom_, was still three months away from its release. "Nobody knew too much about them because their tragic kingdom album was still three months in the future." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← no-doubt
 **Tragic Kingdom (1995)** : This 1995 album marked a pivotal moment for No Doubt, moving away from a metal and punk sound towards a new wave influence while still retaining the Ska beat. Seven of the 14 songs on the album were released as singles, significantly increasing the pervasiveness of the Ska beat in the mainstream. "No doubt loved the SCAT beat. But instead of going down the metal and punk road, they mined more of a new wave sound, which was a good move. Of the 14 songs on this album, 7 were released to singles. And songs like this made the SCAT beat even more pervasive." ← https://www.youtube.com/watch?v=WX2GlpMNg_8 ← no-doubt ← no-doubt
+**Tragic Kingdom (1995)** : Released in 1995, this album by the ska rockers initially sold steadily but slowly, being below the top 20 on the album chart when "Just a Girl" peaked. Thanks to subsequent radio pushes for "Spider Web's" and "Don't Speak" without retail singles, it managed to sneak into the top 10 by fall and became double platinum. It topped the Billboard album chart the week before Christmas 1996, more than a year after its release, selling half a million copies a week by late December. The album spent nine weeks on top and went sextuple platinum by early 1997, eventually reaching ten times platinum two years later. Rolling Stone later recognized it as one of the 500 greatest albums of all time. "Tragic Kingdom topped the Billboard album chart the week before Christmas 1996, more than a year after the album was released." ← Hit Parade Music History and Music Trivia > Hit Parade - The Great War Against the Single Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Tragic Kingdom (1995)** : This album held the number one spot on the chart dated December 28th, 1996, despite being months old. Their label, Interscope Records, had been actively promoting it at radio and retailers throughout the year. "The number one spot was held by No Doubt's tragic kingdom, an album that was months old, which their label, Interscope Records, had been working at Radio and Retailers all year long." ← Hit Parade Music History and Music Trivia > Smells Like Christmas Spirit, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## songs
+**Don't Speak (1996)** : This enormous 90s radio hit was invisible on the Hot 100 chart because it was not issued as a retail single, despite being one of the most played songs on radio. "No Doubt's Don't Speak." ← Hit Parade Music History and Music Trivia > Friends in Low Places, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Don't Speak (1996)** : This heart-rending torch song about Gwen Stefani's breakup with bandmate Tony Canal, accompanied by a melodramatic video, was the third song pushed from the 1995 album "Tragic Kingdom." Despite being the album's "ace in the hole," it was never issued as a retail single, meaning it was not allowed on the Hot 100 according to Billboard rules at the time. It debuted on radio in mid-October and led to weekly sales growth for "Tragic Kingdom" for three months. Two weeks before Christmas 1996, it rose to the top of Billboard's Airplay Chart, becoming the biggest radio track in the country and spending a staggering 16 weeks as the most heard song at US Radio. "Don't Speak went on to spend a staggering 16 weeks as the most heard song at US Radio." ← Hit Parade Music History and Music Trivia > Hit Parade - The Great War Against the Single Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Don't Speak (1996)** : Despite its popularity, No Doubt's song "Don't Speak" never appeared on the Hot 100 chart. "No Doubt's Don't Speak Never Appeared on the Hot 100." ← Hit Parade Music History and Music Trivia > I Got Five on It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Just a Girl (1996)** : This song was No Doubt's breakthrough hit, reaching number 23 on the Hot 100 in May 1996. It was the only song from the "Tragic Kingdom" album that was actually issued as a retail single. "Their breakthrough, Just a Girl, a number 23 hit in May of 1996." ← Hit Parade Music History and Music Trivia > Hit Parade - The Great War Against the Single Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Spider Web's (1996)** : An uptempo track, "Spider Web's" was pushed to radio by their label, Interscope, without a retail release. Its radio success helped the "Tragic Kingdom" album sneak into the top 10 and achieve double platinum status. "The uptempo Spider Web's, and the album's Ace in the Hole, don't speak." ← Hit Parade Music History and Music Trivia > Hit Parade - The Great War Against the Single Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Commercial Success** : No Doubt, with Gwen Stefani, sold over 35 million records. "She sold over 35 million records with no doubt and millions more as a solo artist." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← no-doubt ← no-doubt
@@ -36,6 +52,10 @@
 **Reunion for Touring** : No Doubt was one of many bands from past decades that reunited in the 21st century, a trend largely motivated by financial incentives. With declining CD sales impacting artist revenues, returning to the touring circuit offered a lucrative way to appeal to nostalgic fan bases and fill large venues. "The list of reunions is long." ← https://www.youtube.com/watch?v=GYUuTbOvyak ← no-doubt
 **Third Wave Mainstream Breakthrough** : No Doubt, based out of Orange County, struggled through two albums before their 1995 album "Tragic Kingdom" brought them mainstream success. They adopted a new wave sound combined with the Ska beat, diverging from the more common punk or metal direction of many third-wave Ska bands. "The first third wave act to really break through into the mainstream was one that we also talked about during the chapter on punk rock revivals." ← https://www.youtube.com/watch?v=WX2GlpMNg_8 ← no-doubt ← no-doubt
 **Third Wave Ska Leader** : No Doubt was a prominent band in the "third wave" of Ska, which arrived in the 1990s. This wave saw significant popularity with bands like The Mighty Mighty Bosstones, Sublime, Reel Big Fish, Goldfinger, and Dance Hall Crashers. The Interrupters were noted as the first female-fronted Ska band to have a major hit since No Doubt. "Third wave Scott arrived in the 1990s, no doubt, muddy, muddy boss tones, sublime, real big fish, gold finger, dancehall crashes and so many more." "They became the first female fronted Skaban to have a major hit since no doubt." ← https://www.youtube.com/watch?v=HSvgRyGiOpE ← no-doubt
+**Sharing Airwaves with Ska Punk Veterans** : No Doubt, fronted by Gwen Stefani, was noted for sharing airplay space on alt-rock radio with established ska punk bands like Rancid, indicating their presence in the burgeoning ska punk audience. "and they were sharing space on the alt-rock airwaves with no doubt, fronted by Gwen Stefani." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Singles Withholding Experiment** : No Doubt was among the "high-priority acts" whose labels experimented with withholding singles to compel album purchases. "Up to now, the labels had mostly tried these singles with holding experiments on high-priority acts they were developing as long-term career artists, from hammer, to pearl jam, to two-pock, to the Fuji's to no doubt." ← Hit Parade Music History and Music Trivia > Hit Parade - The Great War Against the Single Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Gwen Stefani and Tony Canal Breakup** : The song "Don't Speak" is a heart-rending torch song about the breakup between lead singer Gwen Stefani and bandmate Tony Canal. The accompanying video dramatically highlighted Stefani's burgeoning individual star power, which was beginning to eclipse the band itself. "A heart-rending torch song about Gwen Stefani's breakup with Bandmate Tony Canal, featuring a melodramatic video about how her star was beginning to outshine the bands." ← Hit Parade Music History and Music Trivia > Hit Parade - The Great War Against the Single Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**1990s Chart Underperformance** : As a 1990s hitmaker, No Doubt was cited as an example of artists whose singles underperformed on or disappeared from the Hot 100 because consumers were compelled to buy full-length albums to acquire their hit songs, due to the music business's "Great War against the Single." "the Rembrandt's to No Doubt... a slew of 90s hitmakers underperformed on or disappeared altogether from the Hot 100, because you couldn't buy their songs, only their albums." ← Hit Parade Music History and Music Trivia > I Got Five on It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Premios Oye!** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q7240451
@@ -84,4 +104,4 @@
 **"It's My Life" — Billboard Year-End Hot 100** : #38, 2004. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Tragic Kingdom" (1995) — Pitchfork: The 150 Best Albums of the 1990s** : #94. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
+**"Tragic Kingdom" (1995) — Pitchfork: The 150 Best Albums of the 1990s** : #94.

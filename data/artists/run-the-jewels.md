@@ -16,14 +16,14 @@
 **Libera Award for Best Sync Usage** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q96387387
 
 ## lists
-**"Run The Jewels 3" (2016) — AOTY Must Hear 2010s** : #353, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Run the Jewels 2" (2014) — AOTY Must Hear 2010s** : #557, 4.08 Sputnik. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Run The Jewels" (2013) — AOTY Must Hear 2010s** : #677, 84 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"RTJ4" (2020) — AOTY Must Hear 2020s** : #647, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Run The Jewels 3" (2016) — Scaruffi 2010s** : #306, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"RTJ4" (2020) — Scaruffi 2020s** : #62, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Run the Jewels 2" (2014) — Pitchfork: The 200 Best Albums of the 2010s** : #131, 4.08 Sputnik. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"Run The Jewels" (2013) — Sputnikmusic Best Albums 2013** : #68, 84 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2013/
-**"Run the Jewels 2" (2014) — Sputnikmusic Best Albums 2014** : #32, 4.08 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2014/
-**"Run The Jewels 3" (2016) — Sputnikmusic Best Albums 2016** : #148, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2016/
-**"RTJ4" (2020) — Sputnikmusic Best Albums 2020** : #6, 4.07 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2020/
+**"Run The Jewels 3" (2016) — AOTY Must Hear 2010s** : #353, 7.0/10 Scaruffi.
+**"Run the Jewels 2" (2014) — AOTY Must Hear 2010s** : #557, 4.08 Sputnik.
+**"Run The Jewels" (2013) — AOTY Must Hear 2010s** : #677, 84 AOTY.
+**"RTJ4" (2020) — AOTY Must Hear 2020s** : #647, 7.0/10 Scaruffi.
+**"Run The Jewels 3" (2016) — Scaruffi 2010s** : #306, 7.0/10 Scaruffi.
+**"RTJ4" (2020) — Scaruffi 2020s** : #62, 7.0/10 Scaruffi.
+**"Run the Jewels 2" (2014) — Pitchfork: The 200 Best Albums of the 2010s** : #131, 4.08 Sputnik.
+**"Run The Jewels" (2013) — Sputnikmusic Best Albums 2013** : #68, 84 AOTY.
+**"Run the Jewels 2" (2014) — Sputnikmusic Best Albums 2014** : #32, 4.08 Sputnik.
+**"Run The Jewels 3" (2016) — Sputnikmusic Best Albums 2016** : #148, 7.0/10 Scaruffi.
+**"RTJ4" (2020) — Sputnikmusic Best Albums 2020** : #6, 4.07 Sputnik.

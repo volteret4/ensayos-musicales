@@ -10,5 +10,5 @@
 
 ## lists
 **"Blues Breakers With Eric Clapton" (1966) — 1001 Albums You Must Hear Before You Die** : #73.
-**"A Hard Road" (1967) — Scaruffi 1960s** : #149, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Turning Point" (1969) — Scaruffi 1960s** : #150, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"A Hard Road" (1967) — Scaruffi 1960s** : #149, 7.0/10 Scaruffi.
+**"Turning Point" (1969) — Scaruffi 1960s** : #150, 7.0/10 Scaruffi.

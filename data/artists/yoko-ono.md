@@ -1,7 +1,21 @@
 # artist - Yoko Ono
 
+## member of
+- John Lennon
+- The Peace Choir
+
 ## genres
 - Outsider Music
+
+## albums
+**Double Fantasy (1980)** : Yoko Ono recorded this comeback album with her husband, John Lennon, in 1980. The collaboration followed Lennon's inspiration from The B-52s' "Rock Lobster," which he felt sounded like Ono's music. "But Rock Lobster, which reminded him of his wife, Yoko Ono's music, spurred him to begin recording his comeback album with Yoko." ← Hit Parade Music History and Music Trivia > Music Trivia - The MTV and Alt-Rock Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Double Fantasy (1980)** : This album, a collaboration with John Lennon, posthumously reached number one following Lennon's tragic murder. Its chart dominance in early 1981 prevented Pat Benatar's *Crimes of Passion* from reaching the top spot for five weeks. "It was behind John Lennon's Postremas number 1 album with Yoko Ono Double Fantasy." ← Hit Parade Music History and Music Trivia > The ACDC Rule, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Double Fantasy (1980)** : Yoko Ono's tracks on this album, a collaboration with John Lennon, incorporated elements that "even sounded like new wave responses to the B-52's sound." This album was Lennon's only full-length collaboration with Ono as a peer, a partnership inspired by The B-52s. "Ono's tracks from Double Fantasy even sounded like new wave responses to the B-52's sound." ← Hit Parade Music History and Music Trivia > The Deadbeat Club Edition, Part One | https://my.slate.com/podcasts/feeds/hit-parade/
+**Double Fantasy (1980)** : John Lennon's 1980 album, though often considered a solo work, was "co-credits to him and Yoko really." "The solo album that he made prior to double fantasy, which isn't even a solo album because it's co-credits to him and Yoko really." ← Hit Parade Music History and Music Trivia > The Posthumous Hits Edition, Live from Seattle | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## songs
+**Happy Xmas (War Is Over) (1971)** : Co-written with John Lennon, this 1971 anti-war holiday perennial features a children's chorus. In 2019, it was spun by DJs nearly 25,000 times and streamed 57 million times, numbers considerably larger than those for "Imagine." "An anti-war holiday perennial that came complete with the children's chorus. So this is Christmas. Happy Christmas." ← Hit Parade Music History and Music Trivia > Chestnut Roasters, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Woman (1980)** : This John Lennon hit from "Double Fantasy" is described as his "homage to collaborator and wife, Yoko Ono," indicating her significance in his personal and artistic life at the time of its creation. "Woman, Lennon's homage to collaborator and wife, Yoko Ono, remains his adult contemporary radio standard to this day." ← Hit Parade Music History and Music Trivia > The Posthumous Hits Edition, Live from Seattle | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Comparison to BJ Snowden** : Yoko Ono is mentioned in comparison to BJ Snowden and is referred to as potentially the "grandam of all female outsider musicians." "she's been compared to people like Yoko Ono, who may be the grandum of all female outsider musicians." ← https://www.youtube.com/watch?v=HcK4M7-02ik ← yoko-ono
@@ -16,6 +30,8 @@
 **Role in Nike "Revolution" Deal (1987)** : Yoko Ono helped broker the deal for The Beatles' song "Revolution" to be used in a 1987 Nike commercial. Her involvement was driven by the belief that this commercial exposure would introduce her late husband John Lennon's music to a new generation of fans. "She helped broker the deal because she thought it would help bring her late husband's music to a new generation of fans." ← https://www.youtube.com/watch?v=DYtsWfguqGo ← yoko-ono ← yoko-ono
 **Wife of John Lennon** : Yoko Ono is mentioned as the new wife of John Lennon in 1969, with their marriage becoming a subject of public scrutiny recounted in The Beatles' hit "The Ballad of John and Yoko." "on The Beatles Top 10 Hit, The Ballad of John and Yoko, Lennon recounted the twisty story of how he and new wife Yoko Ono got married, while reporters dogged him and paparazzi and bureaucrats made his life hell." ← Hit Parade Music History and Music Trivia > Here’s the Beef Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef3154465cd600c4ef5
 **Yoko's Walrus** : In Rick Nelson's 1972 song "Garden Party," John Lennon is referenced under the pseudonym "Yoko's Walrus," acknowledging his presence backstage at the Madison Square Garden concert. "Nelson calls John Lennon Yoko's Walrus." ← Hit Parade Music History and Music Trivia > Here’s the Beef Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef3154465cd600c4ef5
+**Musical Style Comparison** : Yoko Ono's music was mentioned in the context of John Lennon finding inspiration from The B-52s' "Rock Lobster," as the song reminded him of her artistic style. "Rock Lobster, which reminded him of his wife, Yoko Ono's music." ← Hit Parade Music History and Music Trivia > Music Trivia - The MTV and Alt-Rock Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Vocal Style Influence on The B-52s** : Yoko Ono's distinctive vocal style was a direct influence on The B-52s, particularly on their song "Rock Lobster." Kate Pierson and Cindy Wilson, major fans of Ono, incorporated sea creature sounds into "Rock Lobster" as explicit homages to her vocal techniques. "Kate Pearson and Cindy Wilson were major fans of Yoko Ono. And on Rock Lobster, their sea creature sounds were direct homages to Ono's vocal style." ← Hit Parade Music History and Music Trivia > The Deadbeat Club Edition, Part One | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **MOJO Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3319330
@@ -28,4 +44,4 @@
 **Distinguished Service to the Visual Arts Award (2010)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q28934266
 
 ## lists
-**"Season of Glass" (1981) — Pitchfork: The 200 Best Albums of the 1980s** : #188. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"Season of Glass" (1981) — Pitchfork: The 200 Best Albums of the 1980s** : #188.

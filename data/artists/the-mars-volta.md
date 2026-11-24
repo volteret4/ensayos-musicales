@@ -18,8 +18,8 @@
 
 ## lists
 **"De‐Loused in the Comatorium" (2003) — 1001 Albums You Must Hear Before You Die** : #973, 77 AOTY.
-**"Amputechture" (2006) — AOTY Must Hear 2000s** : #178, 66 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Frances the Mute" (2005) — AOTY Must Hear 2000s** : #269, 74 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"De‐Loused in the Comatorium" (2003) — AOTY Must Hear 2000s** : #348, 77 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Frances The Mute" (2005) — Scaruffi 2000s** : #9, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Frances the Mute" (2005) — Sputnikmusic Best Albums 2005** : #33, 74 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2005/
+**"Amputechture" (2006) — AOTY Must Hear 2000s** : #178, 66 AOTY.
+**"Frances the Mute" (2005) — AOTY Must Hear 2000s** : #269, 74 AOTY.
+**"De‐Loused in the Comatorium" (2003) — AOTY Must Hear 2000s** : #348, 77 AOTY.
+**"Frances The Mute" (2005) — Scaruffi 2000s** : #9, 8.0/10 Scaruffi.
+**"Frances the Mute" (2005) — Sputnikmusic Best Albums 2005** : #33, 74 AOTY.

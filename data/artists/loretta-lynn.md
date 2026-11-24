@@ -30,6 +30,7 @@
 **Shared Background with Dolly Parton and Tammy Wynette** : Like Dolly Parton and Tammy Wynette, Loretta Lynn was born poor in the rural South. All three achieved superstar status through their ability to sing and write relatable songs, and they proudly celebrated their roots. "All three were born in the south, all three were born poor and all three reached their superstar status because they could sing and write songs that people could relate to and they did it really, really well." ← For the Record - The 70s > Ep. 23 - Women of Country Music in the 70s | https://seventies.libsyn.com/023-country-women-72820-2-45-pm
 **Southern Rural Femininity** : Loretta Lynn embodied a unique notion of southern rural femininity that transcended traditional expectations of submission and dress. Her persona was characterized by toughness and strength, reflecting a rebellious spirit that allowed her to write and sing confrontational songs. "But she also was the embodiment of a notion about southern rural femininity, which is not just about dresses and some coordination to men. It is toughness and strength." ← For the Record - The 70s > Ep. 23 - Women of Country Music in the 70s | https://seventies.libsyn.com/023-country-women-72820-2-45-pm
 **Country Music Icon** : Loretta Lynn was among the female country vocalists nominated for the CMA Award for Female Vocalist of the Year in 1974, an award that Olivia Newton-John controversially won. "Loretta Lynn" ← Hit Parade Music History and Music Trivia > Country Roads and Summer Nights Edition Part 1 | https://shows.acast.com/hit-parade/episodes/698fd3ebd6c27a06bb92e1f2
+**Country Legend** : Loretta Lynn is cited as a legendary figure in country music. "legendary figures like Parton, Kenny Rogers, Loretta Lynn or Johnny Cash" ← Hit Parade Music History and Music Trivia > Taylor’s Version of Country, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Country Music Association Award for Female Vocalist of the Year (1967)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q28382637
@@ -56,6 +57,6 @@
 
 ## lists
 **"Don’t Come Home a Drinkin’ (With Lovin’ on Your Mind)" (1967) — 1001 Albums You Must Hear Before You Die** : #102.
-**"Van Lear Rose" (2004) — AOTY Must Hear 2000s** : #311, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Full Circle" (2016) — AOTY Must Hear 2010s** : #433, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Coal Miner’s Daughter" (1970) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #440. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
+**"Van Lear Rose" (2004) — AOTY Must Hear 2000s** : #311, 88 AOTY.
+**"Full Circle" (2016) — AOTY Must Hear 2010s** : #433, 80 AOTY.
+**"Coal Miner’s Daughter" (1970) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #440.

@@ -17,4 +17,4 @@
 **Leader of a Scene Faction** : Following the violent confrontation with DJ Squeaky, Kingpin Skinny Pimp, along with Juicy J and DJ Paul, formed one of the two factions that divided the Memphis scene. "y por el otro, Esquiny Pimp, Usj y DJ Poll." ← Memphis Rap： Cuando el rap era puro terror | https://www.youtube.com/watch?v=lWBpNa-xSt4
 
 ## lists
-**"King Of Da Playaz Ball" (1996) — Sputnikmusic Best Albums 1996** : #106, 4.07 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
+**"King Of Da Playaz Ball" (1996) — Sputnikmusic Best Albums 1996** : #106, 4.07 Sputnik.

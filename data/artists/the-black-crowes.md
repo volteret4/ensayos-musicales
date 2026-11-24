@@ -18,7 +18,7 @@
 
 ## lists
 **"Shake Your Money Maker" (1990) — 1001 Albums You Must Hear Before You Die** : #667, 3.89 Sputnik.
-**"Shake Your Money Maker" (1990) — Scaruffi 1990s** : #469, 3.89 Sputnik. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Shake Your Money Maker" (1990) — Sputnikmusic Best Albums 1990** : #138, 3.89 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"The Southern Harmony and Musical Companion" (1992) — Sputnikmusic Best Albums 1992** : #67, 4.1 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"Amorica" (1994) — Sputnikmusic Best Albums 1994** : #181, 3.95 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
+**"Shake Your Money Maker" (1990) — Scaruffi 1990s** : #469, 3.89 Sputnik.
+**"Shake Your Money Maker" (1990) — Sputnikmusic Best Albums 1990** : #138, 3.89 Sputnik.
+**"The Southern Harmony and Musical Companion" (1992) — Sputnikmusic Best Albums 1992** : #67, 4.1 Sputnik.
+**"Amorica" (1994) — Sputnikmusic Best Albums 1994** : #181, 3.95 Sputnik.

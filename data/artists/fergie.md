@@ -5,6 +5,7 @@
 
 ## songs
 **Glamorous (2006)** : Fergie's song, later famously re-styled by Jack Harlow into his number one hit "First Class." "Fergie's glamorous" ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
+**London Bridge (2006)** : This song achieved a number one hit position on the Hot 100 in the summer of 2006. Its sales that week were higher than Gnarls Barkley's "Crazy." "As prevented from topping the hot 100 in the summer of06 by a fluky leap to number one by Fergie's Schlocke London Bridge." ← Hit Parade Music History and Music Trivia > At Last, My Legacy Has Come Along Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Joins Black Eyed Peas (1999)** : Met the Black Eyed Peas in the parking lot during the 1999 Warped Tour. After getting along well, she was asked to join the band. "They got along so well that they asked her to join the band." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← fergie

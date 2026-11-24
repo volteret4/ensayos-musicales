@@ -6,11 +6,13 @@
 - Paul Banks
 
 ## genres
+- Garage Rock Revival
 - Goth
 - Guitar-based Rock
 - Indie Rock
 - New New Wave
 - New Retro Garage Rock
+- New Rock
 - New Wave
 - New Wave Revival
 - Post-punk
@@ -61,13 +63,14 @@
 **Post-Punk Reinterpretation** : Interpol successfully reinterpreted post-punk, infusing it with their own personal vision. This approach allowed them to evolve while maintaining a unique identity, differing from bands that simply reproduce retro sounds without a fresh perspective. "Cuando los interpol reinterpretaron el post-punk le dieron su propia visión, una visión personal." ← Music Radar Clan > ARCTIC MONKEYS - Tranquility Base Hotel & Casino. Por qué tiene más sentido del que parece | https://www.youtube.com/watch?v=0oy2T-hROhU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← interpol ← interpol
 **Spanish and Latin Cultural Influences** : Paul Banks' perfect Spanish, acquired from living in Madrid and Mexico (and resulting in a curious mixed accent), significantly influences Interpol's sound and lyrics, including elements of Spanish and Latin culture. "otra fuente importante de las influencias o del sonido de Interpol la tenemos en el español porque Paul Banks habla un español perfecto no solo porque le gusta el español sino porque el vivio en Madrid y vivio en México tiene además un curioso acento que mezcla ese acento tan característico de Madrid y ese acento mexicano él habla un español completamente perfecto y además tenemos muchas influencias de cultura española o de incluso características de la cultura española y latina por ejemplo en el disco del pintor." ← Music Radar Clan > Interpol, tras las influencias de la banda | https://www.youtube.com/watch?v=3apXO7UyKhw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Vintage Custom-Tailored Suits** : Interpol adopts a distinctive formal look by acquiring vintage suits and having them custom-tailored for each member. While the suits may not perfectly match, their collective formal appearance is a key part of their visual identity. "Other bands into the uniform look, Interpol, who buy vintage suits and have them custom tailored. They don't necessarily match, but they all look very formal." ← https://www.youtube.com/watch?v=mhQ36Y-c9fM ← interpol
+**Critical Favorites** : Interpol, a band from New York, was mentioned as one of the critical favorites and steady album sellers of the New Rock or Garage Rock Revival era in the early 2000s, even if they generally didn't score top 40 hits. "bands like New York's Interpol ... became critical favorites and steady album sellers." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Shortlist Music Prize (2003) — Turn on the Bright Lights** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q7502207
 
 ## lists
-**"Antics" (2004) — AOTY Must Hear 2000s** : #289, 78 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Turn on the Bright Lights" (2002) — AOTY Must Hear 2000s** : #396, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Turn on the Bright Lights" (2002) — Scaruffi 2000s** : #426, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Turn on the Bright Lights" (2002) — Sputnikmusic Best Albums 2002** : #12, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/
-**"Interpol EP" (2002) — Sputnikmusic Best Albums 2002** : #68, 4.09 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/
+**"Antics" (2004) — AOTY Must Hear 2000s** : #289, 78 AOTY.
+**"Turn on the Bright Lights" (2002) — AOTY Must Hear 2000s** : #396, 7.0/10 Scaruffi.
+**"Turn on the Bright Lights" (2002) — Scaruffi 2000s** : #426, 7.0/10 Scaruffi.
+**"Turn on the Bright Lights" (2002) — Sputnikmusic Best Albums 2002** : #12, 7.0/10 Scaruffi.
+**"Interpol EP" (2002) — Sputnikmusic Best Albums 2002** : #68, 4.09 Sputnik.

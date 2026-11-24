@@ -42,8 +42,8 @@
 
 ## lists
 **"Slipknot" (1999) — 1001 Albums You Must Hear Before You Die** : #886, 7.0/10 Scaruffi.
-**"Slipknot" (1999) — AOTY Must Hear 1990s** : #26, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Iowa" (2001) — AOTY Must Hear 2000s** : #446, 66 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"We Are Not Your Kind" (2019) — AOTY Must Hear 2010s** : #48, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Slipknot" (1999) — Scaruffi 1990s** : #1170, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The End, So Far" (2022) — Kerrang! The 50 Best Albums of 2022** : #6. ← musicbrainz | https://beta.musicbrainz.org/series/bba4a66d-575e-4b6e-8447-233ad23a8f51
+**"Slipknot" (1999) — AOTY Must Hear 1990s** : #26, 7.0/10 Scaruffi.
+**"Iowa" (2001) — AOTY Must Hear 2000s** : #446, 66 AOTY.
+**"We Are Not Your Kind" (2019) — AOTY Must Hear 2010s** : #48, 83 AOTY.
+**"Slipknot" (1999) — Scaruffi 1990s** : #1170, 7.0/10 Scaruffi.
+**"The End, So Far" (2022) — Kerrang! The 50 Best Albums of 2022** : #6.

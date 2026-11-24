@@ -6,6 +6,6 @@
 
 ## lists
 **"Fuzzy" (1993) — 1001 Albums You Must Hear Before You Die** : #740, 7.5/10 Scaruffi.
-**"Fuzzy" (1993) — Scaruffi 1990s** : #229, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Fuzzy" (1993) — Sputnikmusic Best Albums 1993** : #117, 7.5/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
-**"Mighty Joe Moon" (1994) — Sputnikmusic Best Albums 1994** : #124, 4.03 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
+**"Fuzzy" (1993) — Scaruffi 1990s** : #229, 7.5/10 Scaruffi.
+**"Fuzzy" (1993) — Sputnikmusic Best Albums 1993** : #117, 7.5/10 Scaruffi.
+**"Mighty Joe Moon" (1994) — Sputnikmusic Best Albums 1994** : #124, 4.03 Sputnik.

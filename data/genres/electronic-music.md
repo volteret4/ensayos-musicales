@@ -7,3 +7,7 @@
 - Blur
 - David Bowie
 - Blondie
+- Madonna
+- Donna Summer
+- Giorgio Moroder
+- Vangelis

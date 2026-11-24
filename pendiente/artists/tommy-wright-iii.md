@@ -27,4 +27,4 @@
 **Unintended Internet Influence** : In a recent interview, Tommy Wright III revealed that he produced and distributed his tapes primarily to impress his friends, never imagining that he was shaping a scene and a sound that would leave an enormous and enduring mark on the internet. "Tomi Wright III lo resumió hace poco en una entrevista, daba a esas cintas solo para impresionar a los colegas, nunca pensaron que estaban dando forma a una escena y a un sonido que acabaría dejando una huella dormen internet." ← Memphis Rap： Cuando el rap era puro terror | https://www.youtube.com/watch?v=lWBpNa-xSt4
 
 ## lists
-**"Ashes 2 Ashes, Dust 2 Dust" (1994) — Sputnikmusic Best Albums 1994** : #107, 4.04 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
+**"Ashes 2 Ashes, Dust 2 Dust" (1994) — Sputnikmusic Best Albums 1994** : #107, 4.04 Sputnik.

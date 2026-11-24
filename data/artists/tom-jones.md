@@ -1,11 +1,14 @@
 # artist - Tom Jones
 
 ## songs
+**I Who Have Nothing (1970)** : Tom Jones recorded an "even more theatrical version" of this song seven years after Ben E. King's hit, taking it to number 14. "Seven years later, Tom Jones recorded an even more theatrical version that hit number 14." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Kiss** : Tom Jones's collaboration with Art of Noise on "Kiss" brought him back to the charts after a 12-year absence. The song was climbing the charts at number 33 on "Casey's Top 40" in January 1989. "climbing an action number 33 is the hit that brought the great Tom Jones back to the charts after a 12-year absence. Here's the art of noise featuring Tom with Kiss." ← Hit Parade Music History and Music Trivia > Feet on the Ground, Reaching for the Stars Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Thunderball (1965)** : Tom Jones, a singer from Wales, was recruited by John Barry to perform the title theme for the 1965 James Bond film "Thunderball." His powerful vocal performance contributed to the film's musical identity and continued the trend of grand, orchestrated themes for the franchise. "Barry went to Wales again for 1965's Thunderball getting Tom Jones to sing the title theme." ← https://www.youtube.com/watch?v=K0pgJ7XAlpo ← tom-jones
 **What's New Pussycat? (1965)** : A song written for Tom Jones by Burt Bacharach. "Bakerak wrote what's new pussycat for Tom Jones and the look of love for Dusty Springfield, close to you for the Carpenters." ← For the Record - The 70s > Ep. 28 - Soundtracks of the 70s | https://seventies.libsyn.com/028-soundtracks-of-the-70s-12221-5-45-pm
 
 ## curiosities
 **Early Best New Artist Winner** : Tom Jones was an early recipient of the Best New Artist prize, which was launched in the early 1960s as a way for the Academy to acknowledge young performers whose music aligned with voters' preferences. "Early winners of the prize included Bobby Darren, Robert Goulet and Tom Jones." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
+**Post-Rock Hitmaker** : Tom Jones was identified as a "post-rock hitmaker" in the 1960s whose music did not consistently "rock." He represents a category of artists who continued to achieve chart success with non-rock sounds during a decade often solely associated with rock and roll. "There were post-rock hitmakers in the 60s who didn't always rock, like Wayne Newton, Tom Jones and Engelbert Humberding." ← Hit Parade Music History and Music Trivia > Singing Nuns and Green Tambourines Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

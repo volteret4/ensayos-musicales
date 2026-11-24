@@ -9,11 +9,13 @@
 - Wes Borland
 
 ## genres
+- Alt Metal
 - Grunge
 - Metal
 - New Metal
 - New Punk
 - Rap
+- Rap Rock
 - Rock
 - Rock Punk Hip Hop
 
@@ -34,14 +36,18 @@
 
 ## albums
 **Chocolate Starfish and the Hot Dog Flavored Water (2000)** : Despite its controversial title, this album achieved significant commercial success upon its release in 2000, selling 400,000 copies on its first day and a full million copies by the end of its first week. "But even still, their next album, the horribly-named Chocolate Starfish in the hotdog flavored water, sold 400,000 copies on the day it was released in 2000, and a full million by the end of its first week." ← https://www.youtube.com/watch?v=hBQE4t72i3o ← limp-bizkit ← limp-bizkit
+**Chocolate Starfish and the Hot Dog Flavored Water (2000)** : Released a year after "Significant Other," this vividly titled album opened to an impressive 1.05 million copies in its first week, nearly doubling the first-week sales of its predecessor. "the vividly titled Chocolate Starfish and the Hot Dog Flavored Water opened to nearly twice that number, 1.05 million in week one." ← Hit Parade Music History and Music Trivia > The ACDC Rule, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Greatest Hits (2005)** : This album was released on November 8, 2005, after which the band went silent, leading to this date being considered their breakup. "A greatest hits record followed on November 8th of that year and then nothing." ← https://www.youtube.com/watch?v=yR3xc3ra5tE ← limp-biscuit
 **Significant Other (1999)** : This album was released in 1999, marking the band's peak popularity. "The album was called Significant Other." ← https://www.youtube.com/watch?v=yR3xc3ra5tE ← limp-biscuit
 **Significant Other (1999)** : Released on June 22nd, 1999, this album debuted at the top of the charts, selling an impressive 643,000 copies in its first week. By its second week, it had breached the 1 million mark in sales, demonstrating the immense popularity of new metal at the time. "On June 22nd, 1999, Limp Biscuit released their significant other album. It debuted on the top of the charts selling 643,000 copies in its first week. In its second week, it breached the 1 million mark." ← https://www.youtube.com/watch?v=hBQE4t72i3o ← limp-bizkit ← limp-bizkit
+**Significant Other (1999)** : This album debuted in the summer of 1999 with nearly 650,000 copies sold in its first week, marking a strong commercial start for the band. "Their album Significant Other debuted that summer to nearly 650,000 copies in its first week." ← Hit Parade Music History and Music Trivia > The ACDC Rule, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **The Unquestionable Truth Part One (2005)** : This EP was released in the spring of 2005, but it "nobody seemed to care." ← https://www.youtube.com/watch?v=yR3xc3ra5tE ← limp-biscuit
 
 ## songs
 **Break Stuff** : Limp Bizkit performed this hit song on Saturday at Woodstock 99, and immediately following their set, a significant amount of vandalism erupted among the crowd, marking the start of a period of escalating destructive behavior. "starting with a ton of vandalism after LeBiscuit played their hit break stuff on Saturday." ← https://www.youtube.com/watch?v=Pgchw2h87aw ← limp-bizkit
 **Nookie (1999)** : This song is from their 1999 album, *Significant Other*, and represents the band at their peak. "The album was called Significant Other and the song is Nookie." ← https://www.youtube.com/watch?v=yR3xc3ra5tE ← limp-biscuit
+**Nookie (1999)** : Limp Bizkit had "their number three modern rock hit Nookie." This song represented the shift in alternative music towards a "bro-centric" sound that was prevalent on alt-rock stations by 1999, contrasting with the music of Lilith performers. "Aguilera's rockers limp biscuit, such as their number three modern rock hit Nookie" ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rearranged (1999)** : This track was Limp Bizkit's "most melodic new metal jam" and notably topped the modern rock list in 1999, contributing to the rise of alt metal and the "broification" of alternative radio. "In 1999, limp biscuit actually topped the modern rock list, with their most melodic new metal jam rearranged." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Breakup Date (November 8, 2005)** : This date, following the release of their greatest hits album and subsequent silence, is used as the band's official breakup date. "So what we're going to do is use that date as our breakup date. November 8th 2005." ← https://www.youtube.com/watch?v=yR3xc3ra5tE ← limp-biscuit
@@ -74,7 +80,12 @@
 **Woodstock '99 Violence** : Limp Bizkit's performance at the 30th-anniversary Woodstock Festival in Rome, New York, in the summer of 1999 was marred by significant violence, sexual assaults, and vandalism, which cast a negative light on both the band and the new metal scene. "Later that summer, they played the 30th anniversary Woodstock Festival in Rome, New York. And their set was marred by violence, sexual assaults, and vandalism." ← https://www.youtube.com/watch?v=hBQE4t72i3o ← limp-bizkit ← limp-bizkit
 **Woodstock 1999 Crowd Incitement** : Limp Bizkit was present at Woodstock 1999, where their performance was associated with encouraging the crowd to engage in frenzied, uncontrolled behavior. This contributed to the overall violence and issues at the festival. "Lim Biscuit, who was also Woodstock 99, encouraging the crowd to go nuts..." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y ← limp-bizkit
 **Zero DB Initiative Signatory** : Limp Bizkit is among the artists who signed the Zero DB initiative, which was formed in 2008 as part of the charity Reprieve. This group encourages the condemnation of music as torture and advocates for governments to enforce international treaties related to prisoner treatment. "The Sinees include Tom Morello, average against the machine, members of REM, rise against Pearl Jam, Trent Reznor, Limp Biscuit, system of a down, disturbed the estate of Prince, the Chili Peppers, Eminem, Marilyn Manson, Neil Diamond, Dr. Dre, and a host of others." ← https://www.youtube.com/watch?v=R1wdsGt07Gg ← limp-bizkit ← limp-bizkit
+**New Metal/Rap Rock Trendsetters** : Limp Bizkit was a key band in the late 90s trends of new metal and rap rock, which combined syncopated rhythms, metal screeching, and occasional rapping. They produced hits that made both mainstream rock and modern rock charts. "Corn, limp biscuit, coal chamber, orgy, the death tones, even kid rock at the time was aligned with new metal's combination of syncopated rhythms, metal screeching and occasional rapping." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Leading Edge of "Alternative" Music in 1999** : Limp Bizkit, alongside Korn, Godsmack, and Kid Rock, represented the "leading edge" of so-called alternative music in 1999. Their sound characterized the "broification" of rock radio, making it less hospitable for Lilith performers' music. "Limp, corn, god smack, kid rock, these were the leading edge of so-called alternative music in 1999" ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rivalry on TRL** : Limp Bizkit, with their "ouroboros rap-rock" sound, often competed directly with boy bands on the daily Total Request Live (TRL) countdown, showcasing the diverse musical landscape of 1999. "Aurodudebro Rapprock from the likes of Limp Biscuit, who often went head-to-head with the boy bands on the daily TRL countdown." ← Hit Parade Music History and Music Trivia > We Want It That Way Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Boy Band of Rap Rock" Metaphor** : Limp Biscuit was metaphorically described as "the boy band of rap rock," highlighting their mainstream appeal and success within the genre. "the boy band of rap rock?" ← Hit Parade Music History and Music Trivia > The ACDC Rule, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Album Sales Comparison (2000 vs. 1999)** : Limp Biscuit's 2000 album, "Chocolate Starfish and the Hot Dog Flavored Water," eventually sold approximately 70% as many copies as their 1999 album, "Significant Other," despite its larger opening week. "Limp's 2000 albums sold about 70% as many copies as its 1999 album had." ← Hit Parade Music History and Music Trivia > The ACDC Rule, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Chocolate Starfish and the Hot Dog Flavored Water" (2000) — 1001 Albums You Must Hear Before You Die** : #908.
-**"Significant Other" (1999) — Scaruffi 1990s** : #864, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Significant Other" (1999) — Scaruffi 1990s** : #864, 7.0/10 Scaruffi.

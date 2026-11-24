@@ -2,13 +2,17 @@
 
 ## genres
 - Alt Rock
+- Alternative Rock
 - Indie Rock
+- Pop
 
 ## instruments
 - cassettes
 
 ## albums
+**1990s Acclaimed Indie Albums** : Liz Phair had a series of acclaimed indie albums during the 1990s. She later signed to major labels in the 2000s, leading to her only top 40 pop hit. "after her string of acclaimed 90s indie albums signed to the majors in the 2000s..." ← Hit Parade Music History and Music Trivia > One and Done, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Exile in Guyville (1993)** : This album was acclaimed as Liz Phair's "Indy Rock classic" and the "most acclaimed album" of 1993. It topped that year's Pazz and Jop Critics Poll and generated popular college radio favorites like "Divorce Song," "Fuck and Run," and "Never Said." "1993's most acclaimed album was Liz Faire's Indy Rock classic, Exile in Guyville, which topped that year's Paz and Job Critics poll." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Exile in Guyville (1993)** : This "Indy Rock masterpiece" by Liz Phair topped the Village Voice's Pazz & Jop critics' poll in 1993. The album was noted for deconstructing and reinventing previously male-dominated tropes in rock music, signifying critical acclaim for an iconoclastic female rocker. "In 1993, the pole was topped by Liz Fares, Indy Rock masterpiece, Exile in Giver." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Whip-Smart (1994)** : This album was released in 1994. "From 1994, an album entitled Whip Smart that Chicago's Liz Fair with Supernova." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI ← liz-phair ← liz-phair
 
 ## songs
@@ -16,6 +20,7 @@
 **Fuck and Run (1993)** : This song was a college radio favorite from Liz Phair's 1993 album "Exile in Guyville," known for its raw and honest lyrical content. "fuck and run." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 **Never Said (1993)** : Another college radio favorite from Liz Phair's influential 1993 album "Exile in Guyville," solidifying its status as an indie rock classic. "and never said." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 **Supernova (1994)** : A track from her 1994 album, *Whip-Smart*. "From 1994, an album entitled Whip Smart that Chicago's Liz Fair with Supernova." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI ← liz-phair ← liz-phair
+**Why Can't I? (2003)** : After signing to major labels in the 2000s, Liz Phair broke into the top 40 in 2003 with this song, which reached number 32. This represents her singular Hot 100 top 40 appearance. "cracked the top 40 in 2003 with the number 32 hit Why Can't I?" ← Hit Parade Music History and Music Trivia > One and Done, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Alt Rock Madonna Comparison** : Liz Phair was often seen as the alt-rock counterpart to Madonna, embodying a defiant "Get out of my way" attitude coupled with a self-assured and challenging sexuality. "In many ways, Liz was the alt rock version of some of the characteristics Madonna had." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI ← liz-phair ← liz-phair
@@ -26,12 +31,20 @@
 **Feminist Attitude and Sexuality** : Liz Phair emerged from Chicago with a strong feminist attitude, openly celebrating female sexuality in an uncompromisingly explicit way. She has documented her story in a couple of memoirs. "Liz Fair, strong feminist, came out of Chicago with an attitude that celebrated female sexuality in an uncompromisingly explicit way." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← liz-phair ← liz-phair
 **Influence from Galaxie 500** : Liz Phair acknowledged Galaxie 500 as a significant influence on her own musical development, indicating the band's impact beyond their commercial success. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← liz-phair
 **Projection of Strength and Sexuality** : Liz Phair's appeal in 1994 stemmed from her confident projection of strength and an unashamed expression of sex and sexuality, which she viewed as a source of power. Her attitude challenged the conventional, often demure, portrayals of female performers from prior decades, presenting a modern, real, honest, and smart persona. "For her, sex and sexuality was a strength, something powerful, something that should be expressed with no shame and nothing to apologize for." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI ← liz-phair ← liz-phair
+**Predecessor to Alanis Morissette** : Liz Phair was cited as one of the "sharp-tongued soul-bearing and impassioned young women rockers" whose work laid groundwork for the blockbuster success achieved by Alanis Morissette. "Alannus Morissette's blockbuster success was seen as the culmination of years of sharp-tunged soul-bearing and impassioned young women rockers from Shenato Conor to Ani DeFranco Liz Faire to Tori Amos." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Topped Pazz & Jop Critics' Poll (1993)** : Liz Phair's album *Exile in Guyville* was named the top album in the Village Voice's authoritative Pazz & Jop poll in 1993. This critical recognition highlighted her status as an "iconoclastic female rocker" whose work challenged male-dominated themes in rock. "In 1993, the pole was topped by Liz Fares, Indy Rock masterpiece, Exile in Giver." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Modern Rock Top 10 Hit (Mid-1990s)** : Liz Phair scored a Modern Rock top 10 hit during the early to mid-90s peak of Gen X Alt Rock. This commercial success accompanied her critical acclaim and her album's ability to deconstruct male-dominated tropes. "All three of these acts also scored modern rock top 10 hits during this period." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Early 90s Emergence** : Liz Phair is cited as one of the "dominant women performers" who emerged in the early 1990s, contributing to the increasing visibility of women on the charts and radio. This emergence set the stage for events like Lilith Fair. "to the early 90s emergence of a roster of dominant women performers like Liz Fair and Cheryl Crow." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Indie Rock Star with Stage Fright** : Despite being described as "the decade's most acclaimed indie rock star" for years, Liz Phair suffered from stage fright and had performed relatively little in front of concert crowds. She accepted a main stage slot at Lilith 98 and had such a positive experience that she returned for Lilith 99. "Lilith Fair, despite years as the decade's most acclaimed indie rock star, suffered from stage fright and had performed relatively little in front of concert crowds." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mid-90s Female Rocker** : Liz Phair was a "fearless, even coarse rocker" who achieved gold sales on the charts during the mid-90s female rock renaissance. "On the charts such fearless even coarse rockers as Liz Fair... were going gold" ← Hit Parade Music History and Music Trivia > Hit Parade - The Veronica Electronica Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Fearless Rocker** : Liz Phair was part of a female rock renaissance in the mid-1990s, described as a "fearless, even coarse rocker" who was achieving gold record sales. "On the charts such fearless even coarse rockers as Liz Fair and PJ Harvey were going gold and Courtney Love, who mourned the loss of husband Kurt Cobain in 1994 by 1995 saw her band, Hull, become a platinum success in its own right." ← Hit Parade Music History and Music Trivia > Madonna - The Veronica Electronica Edition (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
+**Success in 90s Alternative Rock - Chart Performance** : Liz Phair was among the women who performed "exceedingly well" in the alternative rock genre during the 1990s, charting successfully on both the Modern Rock chart and the Hot 100. "Women like... Liz Fair... did exceedingly well both on the modern rock chart and eventually on the hot 100 as well." ← Hit Parade Music History and Music Trivia > The Bridge - Farewell, Lilith Fan | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Exile in Guyville" (1993) — 1001 Albums You Must Hear Before You Die** : #737, 90 AOTY.
-**"Exile in Guyville" (1993) — AOTY Must Hear 1990s** : #338, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Exile in Guyville" (1993) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #56, 90 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Exile in Guyville" (1993) — Scaruffi 1990s** : #86, 90 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Whitechocolatespaceegg" (1998) — Scaruffi 1990s** : #258, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Exile in Guyville" (1993) — Pitchfork: The 150 Best Albums of the 1990s** : #4, 90 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Exile in Guyville" (1993) — Sputnikmusic Best Albums 1993** : #77, 90 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
+**"Exile in Guyville" (1993) — AOTY Must Hear 1990s** : #338, 90 AOTY.
+**"Exile in Guyville" (1993) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #56, 90 AOTY.
+**"Exile in Guyville" (1993) — Scaruffi 1990s** : #86, 90 AOTY.
+**"Whitechocolatespaceegg" (1998) — Scaruffi 1990s** : #258, 7.5/10 Scaruffi.
+**"Exile in Guyville" (1993) — Pitchfork: The 150 Best Albums of the 1990s** : #4, 90 AOTY.
+**"Exile in Guyville" (1993) — Sputnikmusic Best Albums 1993** : #77, 90 AOTY.

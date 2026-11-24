@@ -22,3 +22,5 @@
 - The 101ers
 - Elvis Costello
 - Joe Jackson
+- Elton John
+- The Vapors

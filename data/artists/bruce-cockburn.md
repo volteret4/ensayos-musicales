@@ -42,4 +42,4 @@
 **Juno Award for Roots & Traditional Album of the Year – Solo (2012) — Small Source of Comfort** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q6314102
 
 ## lists
-**"In the Falling Dark" (1976) — Scaruffi 1970s** : #202, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"In the Falling Dark" (1976) — Scaruffi 1970s** : #202, 7.0/10 Scaruffi.

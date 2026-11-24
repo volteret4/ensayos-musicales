@@ -9,7 +9,7 @@
 **Inclusiveness for House of Pain** : House of Pain, emerging from LA in the early 90s, was swept into the "inclusiveness" of the original Lollapalooza years, which helped their rise. "House of Pain came out of LA in the early 90s and were swept into the inclusiveness that came during the original Lollapalooze years." ← https://www.youtube.com/watch?v=5bQz8R0gbXc ← lollapalooza-festival
 **Premier Platform for Alternative Nation (1990s)** : For a significant portion of the 1990s, Lollapalooza served as the "premier live event" for disseminating the "gospel" of the alternative nation, establishing itself as a crucial cultural and musical platform. ← https://www.youtube.com/watch?v=Z9T9wi0vEvc ← lollapalooza-festival
 **Trent Reznor's Financial Salvation (1991)** : The very first Lollapalooza tour in 1991 proved instrumental in saving Trent Reznor of Nine Inch Nails from financial ruin. "That first law of Paloza tour saved Trent Resner from financial ruin in 1991." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← lollapalooza-festival ← lollapalooza-festival
+**Elastica's US Tour** : Elastica joined the Traveling Lollapalooza Festival in the summer of 1995, indicating their presence in the US alternative rock scene and efforts to reach American audiences. "The band would even join the Traveling Lala Paloza Festival that summer." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Jane's Addiction
-

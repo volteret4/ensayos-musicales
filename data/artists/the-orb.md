@@ -21,8 +21,8 @@
 **Influence on Mogwai** : Mogwai cites The Orb as an influence, among electronic artists. "They also like to cop ideas from Fugazi, and Kraftwerk, and Nirvana, and Electronic Offits like the Orb and the Apex Twin." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← the-orb
 
 ## lists
-**"U.F. Orb" (1992) — Scaruffi 1990s** : #101, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Adventures Beyond The Ultraworld" (1991) — Scaruffi 1990s** : #1000, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Orbus Terrarum" (1995) — Pitchfork: The 50 Best Ambient Albums of All Time** : #19. ← musicbrainz | https://beta.musicbrainz.org/series/60daa934-58b5-44a7-937f-751ee3d2431a
-**"Adventures Beyond The Ultraworld" (1991) — Sputnikmusic Best Albums 1991** : #62, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"U.F.Orb" (1992) — Sputnikmusic Best Albums 1992** : #106. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"U.F. Orb" (1992) — Scaruffi 1990s** : #101, 8.0/10 Scaruffi.
+**"Adventures Beyond The Ultraworld" (1991) — Scaruffi 1990s** : #1000, 7.0/10 Scaruffi.
+**"Orbus Terrarum" (1995) — Pitchfork: The 50 Best Ambient Albums of All Time** : #19.
+**"Adventures Beyond The Ultraworld" (1991) — Sputnikmusic Best Albums 1991** : #62, 7.0/10 Scaruffi.
+**"U.F.Orb" (1992) — Sputnikmusic Best Albums 1992** : #106.

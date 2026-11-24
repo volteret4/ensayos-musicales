@@ -1,0 +1,4 @@
+# artist - Mike Reese
+
+## curiosities
+**Inspiration for Simpsons Parody (1992)** : The Simpsons showrunner Mike Reese revealed in a DVD commentary that their "Radio Bart" parody of charity singles was inspired not only by "We Are the World" but specifically by "Voices that Care" and the perceived meaninglessness of its lyrics, particularly given the timing of its release after hostilities had ended in the Persian Gulf War. "Simpsons showrunner Mike Reese later revealed in a DVD commentary that their parody was inspired not just by We Are the World, but more specifically by Voices that care, and the apparent meaninglessness of its pro-troops late to the war lyrics." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/

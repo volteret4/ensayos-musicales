@@ -1,4 +1,6 @@
 # artist - Denise Williams
 
 ## songs
+**Let's Hear It for the Boy** : This song was mentioned as a smash hit that had recently spent two weeks at number one and was in its second week at number three on the American Top 40 countdown. "Here's the smash that recently spent two weeks at number one. And now it's in its second week at number three. Denise Williams and let's hear it for the boy." ← Hit Parade Music History and Music Trivia > Feet on the Ground, Reaching for the Stars Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**[Song Title Not Specified] (1984)** : Denise Williams scored a number one hit from the *Footloose* soundtrack, which spent 10 weeks at number one on the album chart and yielded six top 40 singles. "another number one from Denise Williams..." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Too Much Too Little Too Late (1978)** : Denise Williams sang this song as a duet with Johnny Mathis in 1978. "Denise Williams who sang too much too little too late with Johnny Mathis in 1978, but the record label just had a hard time finding something for her." ← For the Record - The 70s > Ep. 60 - One-Hit Wonders of the 70s | https://www.ftr70.com

@@ -28,6 +28,6 @@
 **"Stand Tall" — Billboard Year-End Hot 100** : #63, 1977. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Burton Cummings" (1976) — Juno Awards: Album of the Year** : #1977. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"My Own Way to Rock" (1977) — Juno Awards: Album of the Year** : #1978. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Woman Love" (1980) — Juno Awards: Album of the Year** : #1981. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
+**"Burton Cummings" (1976) — Juno Awards: Album of the Year** : #1977.
+**"My Own Way to Rock" (1977) — Juno Awards: Album of the Year** : #1978.
+**"Woman Love" (1980) — Juno Awards: Album of the Year** : #1981.

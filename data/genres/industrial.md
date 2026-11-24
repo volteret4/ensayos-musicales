@@ -42,4 +42,4 @@
 - Skinny Puppy
 - The Soft Moon
 - Trent Reznor
-
+- Depeche Mode

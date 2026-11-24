@@ -5,6 +5,8 @@
 - Latin
 - Pop
 - Rockabilly
+- Tejano
+- Tex-Mex
 
 ## labels
 - Imperial
@@ -12,6 +14,7 @@
 ## songs
 **Before the Next Teardrop Falls (1967)** : "Before the Next Teardrop Falls" was a country pop crossover hit for Freddie Fender. This song is used as a benchmark for catchy songwriting, compared to Ben Peters' work on Charlie Pride's "Kiss An Angel Good Morning." "another country pop crossover that Freddie Fender made a hit before the next cheer drop falls." ← For the Record - The 70s > Ep. 53 - More than Charley Pride - African Americans in 70s Country | https://www.ftr70.com/
 **Before the Next Teardrop Falls (1967)** : Freddie Fender wrote this song in 1967, and various singers, including Linda Martell, recorded it. His English and Spanish recording in 1974 garnered significant attention from country radio, leading it to number one on both the Billboard Country charts and the Billboard Pop Chart in March 1975. Fender initially didn't want to record it, believing it wasn't "rock and roll enough." "But if he ever breaks your heart, if the tear drop ever starts, I'll be there before the next cheer drop falls." ← For the Record - The 70s > Ep. 25 - The Hispanic Influence on 70s Popular Music | https://seventies.libsyn.com/ep-25-the-hispanic-influence-on-70s-popular-music
+**Before the Next Teardrop Falls (1975)** : Tejano singer Freddie Fender recorded this song, which had previously been covered by more than 20 country stars including Charlie Rich, but had never been a big hit. Fender cleverly infused a Tex-Mex flavor and recorded it with both English and Spanish lyrics, transforming it into a number one pop and country smash in the spring of 1975. "Recorded with both English and Spanish lyrics, before the next teardrop falls, was a number one pop and country smash for Freddie Fender in the spring of 1975." ← Hit Parade Music History and Music Trivia > La Vida Loca Edición | https://my.slate.com/podcasts/feeds/hit-parade/
 **Wasted Days and Wasted Nights (1959)** : Freddie Fender originally recorded this rockabilly-influenced song in 1959. After his career stall due to prison, it was re-released in 1975 and became a major crossover hit, reaching number one on the country charts and top 10 on the Billboard Pop Chart in August 1975. Fender considered it his favorite crossover hit. "Wasted Days and Wasted When I know that you're not true and why should I call your name when you're the blame or making me blue?" ← For the Record - The 70s > Ep. 25 - The Hispanic Influence on 70s Popular Music | https://seventies.libsyn.com/ep-25-the-hispanic-influence-on-70s-popular-music
 
 ## curiosities

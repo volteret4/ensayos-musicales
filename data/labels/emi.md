@@ -30,6 +30,11 @@
 **The Animals' Record Licensing** : Mickey Most, after signing The Animals, arranged for their records to be licensed and distributed through EMI. "He signed them up and started licensing their records to EMI" ← Episode 115： ＂House of the Rising Sun＂ by the Animals | https://www.youtube.com/watch?v=34aIGCnb4X4
 **US Release of "No Time for Later"** : EMI was one of the labels that partnered with Merovingian for the substantial US release and promotion of The Trews' "No Time for Later" album. "Merrivingian was the label and EMI." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← emi ← emi
 **Vevo Joint Venture Partner** : EMI was one of the four major record labels that formed a joint venture to launch Vevo on December 8, 2009. This collaboration aimed to create a controlled platform for premium music videos, ensuring labels retained influence over content and advertising. "Vivo, a joint venture between the four major record labels at the time, Universal, Sony, Warner and EMI." ← https://www.youtube.com/watch?v=7IDbqdIw3WU ← emi
+**Initial Rejection of The Beatles** : As the parent company of Parlophone Records and America's Capitol Records, EMI initially turned down The Beatles when they were seeking a record deal in England. Some executives reportedly scarcely listened to their demos, dismissing bands from Liverpool. "Notoriously, the Beatles were turned down by a half dozen British record companies, including EMI, parent company of the label that eventually wound up signing them." ← Hit Parade Music History and Music Trivia > Hit Parade - The Fab Four Sweep Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Trans-Global Music Subsidiary** : Frustrated with Capitol Records' persistent refusal to issue Beatles records in America, EMI established a subsidiary called Trans-Global Music in 1962. This entity was tasked with leasing EMI's British repertoire across the United States to any label willing to distribute it, which eventually led to deals with VJ and Swan Records for Beatles releases. "In 1962, frustrated with capital, EMI had set up a subsidiary, trans-global music, to lease its records across the United States, to whatever label was willing to distribute them." ← Hit Parade Music History and Music Trivia > Hit Parade - The Fab Four Sweep Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Parent Company of Capital and SBK Records** : EMI was the parent company of both Capital Records and SBK Records, demonstrating a coordinated strategy across its subsidiaries in the early 1990s. "EMI, Capital's Parent Company" ← Hit Parade Music History and Music Trivia > Hit Parade - The Great War Against the Single Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Expanding Single-Withholding Strategy (1990)** : After the success with MC Hammer, EMI's subsidiary, SBK Records, expanded the album-stoking experiment with Vanilla Ice's "Ice Ice Baby." This involved pulling the popular cassette single from stores just as it was poised to top the chart, successfully driving album sales for *To the Extreme*. "Having succeeded wildly with Hammer, EMI, Capital's Parent Company, didn't even wait until the end of 1990 to try a similar album-stoking experiment." ← Hit Parade Music History and Music Trivia > Hit Parade - The Great War Against the Single Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Protest Site (1992)** : EMI's headquarters became the site of a protest in 1992 when the band Corner Shop burned a Morrissey poster there. This act was in direct response to controversial solo songs recently released by Morrissey. "burning a moresy poster in front of EMI's headquarters." ← Hit Parade Music History and Music Trivia > The Bridge - Genre v. Generation, ’80s to ’10s | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Blur
@@ -42,4 +47,8 @@
 - Sex Pistols
 - The Animals
 - The Trews
-
+- The Beatles
+- MC Hammer
+- Frank Ifield
+- Vanilla Ice
+- Corner Shop

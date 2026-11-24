@@ -1,25 +1,36 @@
 # artist - Avril Lavigne
 
 ## genres
+- Adult Contemporary
 - Alt Rock
 - Emo
+- Light Rock
 - Pop
 - Pop Punk
+- Pop Rock
 - Punk Influenced Pop music
 - Rock
+- Studio Pop
+- Teen Punk
 
 ## labels
 - Arista
 - Arista Records
 - Nettwerk
+- The Matrix
 
 ## albums
 **Let Go (2002)** : This debut album was a massive success, reaching number one in numerous countries and making Avril Lavigne the youngest female solo performer at 17 years old to have a number one album in the UK. Globally, it sold over 16 million records, with 7 million sales in the US alone. "That record was a monster, hitting number one in a bunch of countries. And it made her the youngest female solo performer to have a number one album in the UK." ← https://www.youtube.com/watch?v=11UsTJQyQds ← avril-lavigne ← avril-lavigne
 **Let Go (2002)** : This album "blew up" months after Pink's "Missundaztood" dropped in 2001. Avril Lavigne, signed by L.A. Reed while Pink was working on her second album, became a symbol of teen music moving in a more rock-oriented direction, with Pink effectively having "opened up the market for Avril." "And months after Miss Undistude dropped, Lavigne's album Let Go blew up." ← Hit Parade Music History and Music Trivia > Raise Your Glass Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f7364fe6d21276e441d
 
 ## songs
+**Cheers (Drink to That) (2011)** : A sample from an Avril Lavigne song was used as the foundation for Rihanna's boozy anthem "Cheers Drink to That," which rose to number seven on the charts. "The biggest was Cheers Drink to That, a boozy anthem built out of an Avril Lavigne sample." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Complicated (2002)** : "Complicated," Avril Lavigne's debut single, was released in 2002 and became a significant pop punk hit. Produced by "the Matrix," a trio of pop songwriters, the song was only "slightly more must up than the average adult contemporary radio song," but its presentation on MTV as "pop punk" was key to its success. It peaked at number two on the Hot 100 in the summer of 2002. "Complicated, her debut single was only slightly more must up than the average adult contemporary radio song, but it played on MTV like pop punk." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Complicated (2002)** : This song peaked at number two on the Hot 100 in 2002. In Billboard's historical tallies of Songs of the Summer, it finished in second place for its respective year, further illustrating that number two hits typically don't win the cumulative summer title. "And 2002's Complicated by Avril Lavigne." ← Hit Parade Music History and Music Trivia > Song(s) of the Summer Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Girlfriend (2007)** : This song became a number one single in the US, contributing to Avril Lavigne's string of million-selling records. "She had a string of millions selling records in the Outs, including a number one single in the US with girlfriend." ← https://www.youtube.com/watch?v=11UsTJQyQds ← avril-lavigne ← avril-lavigne
+**Girlfriend (2007)** : Avril Lavigne collaborated with hitmaker Dr. Luke on this "mega pop track," which was characterized as a "bratty punk in attitude cheerleader chant." The song achieved considerable commercial success, reaching number one on the Hot 100 in the spring of 2007. "avril lavene teamed with hitmaker doctor luke on the mega pop track girlfriend a bratty punk in attitude cheerleader chant that reached number one on the hot one hundred in the spring of oh seven." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Skater Boy (2002)** : Released in 2002, this song was a massive worldwide hit, demonstrating that even pop music was influenced by the growing mainstream interest in skateboarding culture. "Everlavine had a massive worldwide hit with a song called Skater Boy in 2002." ← https://www.youtube.com/watch?v=44dXy0StjIQ ← avril-lavigne
+**Skaterboy (2002)** : "Skaterboy" was a number 10 hit for Avril Lavigne. While her overall style was often described as more of an image than a sound, this particular track featured "jumpy hooks" that distinctly leaned in the direction of pop punk, contributing to her success with that genre's audience. "Although on certain tracks like the number 10 hit Skaterboy, Levigne's jumpy hooks did lean in the direction of pop punk." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **"Pop Punk Queen" Nickname** : Avril Lavigne was, for a period, known by the nickname "pop punk queen." "She had the nickname of pop punk queen for a while." ← https://www.youtube.com/watch?v=pE7TaWSUa-o ← avril-lavigne
@@ -43,6 +54,13 @@
 **Part of Post-Britney Spears Wave** : Avril Lavigne emerged as one of the solo teen pop artists following the trail blazed by Britney Spears, representing a new generation in the genre. "después viene de Abril Lavigne, después empiezan a venir todas poca a poca." ← Music Radar Clan > Poniendo a Britney Spears en su lugar | https://www.youtube.com/watch?v=ad2agh7IXH8&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← avril-lavigne ← avril-lavigne
 **Path to Record Deals** : Her continuous performing, including singing covers at a Chapters bookstore in Kingston, led to acquiring a manager. This manager began sending VHS tapes of her performances to record labels, a common practice at the time. "That led to getting a manager who started shopping VHS tapes to her record labels." ← https://www.youtube.com/watch?v=11UsTJQyQds ← avril-lavigne ← avril-lavigne
 **Symbol of Rock-Oriented Teen Music** : Avril Lavigne symbolized the shift in teen music toward a more rock-oriented direction in 2002-2003, as the "Britney and Backstreet Boys' style teen pop was on the Wayne." She was signed by L.A. Reed, the president of LaFace Records, while Pink was working on her second album, "Missundaztood." "Avril Lavigne, whom we discussed in our pop punk and emo episode of Hip-Head. Funnily enough, LA Reed had signed Lavigne while Pink was working on her second album." ← Hit Parade Music History and Music Trivia > Raise Your Glass Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f7364fe6d21276e441d
+**Hybrid Pop Pioneer** : Young Canadian singer-songwriter Avril Lavigne achieved a breakthrough in 2002 by grafting light rock production to slick studio pop, presenting herself as a "mascarid, mole-friendly teen punk." Her sound represented an early example of pop hybridized with other genres. "young Canadian singer-songwriter Avril Lavigne grafted light rock production to slick studio pop and scored a breakthrough in 2002, presenting herself as a mascarid, mole-friendly teen punk." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Ultimate TRL Punk & Mall Punk Iconography (2002)** : Avril Lavigne emerged as "the ultimate TRL punk" in 2002, fusing the pop machine with punk iconography. Her image, crafted by pop songwriters "the Matrix," presented her as a "punk dilatant" with a loose necktie, baggy pants with a wallet chain, raccoon eyeliner, and a skateboard. This "mall punk iconography" was strategically timed to dodge the decline of Millennial megapop, as her look was often more central to her appeal than her sound. "Canadian teen star Avril Lavigne became the ultimate TRL punk in 2002." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Strategic Positioning During Pop Decline (2002)** : Avril Lavigne's strategic positioning in 2002 was deemed "clever" by observers (or "crass" by punk purists) because it allowed her to bypass the declining trend of Millennial megapop. Her mall punk image and sound offered a fresh alternative, proving successful at a time when even established pop stars like Britney Spears were struggling to maintain top 10 hits. "That's what made Avril's positioning so clever, or crass if you were a punk true believer. She dodged the decline of teen pop." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Genre Reboot** : Avril Lavigne, previously associated with pop punk or emo, successfully rebooted her sound entirely outside of those genres to continue scoring hits. Her collaboration on "Girlfriend" is presented as an example of this strategic shift. "avril lavene teamed with hitmaker doctor luke on the mega pop track girlfriend." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Biennial Album Releases (Early 2000s)** : By the early 2000s, new albums from artists like Avril Lavigne, no matter the genre, were generally anticipated no sooner than biennially, reinforcing the two-year album cycle. "Avril Lavigne" ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Max Martin Production in the 2010s** : By the early 2010s, Max Martin and his team of Stockholm songwriters were "at the top of their game," having produced a wave of hits for various artists including Avril Lavigne. This demonstrated Martin's continued relevance and success in shaping the sound of mainstream pop music. "But by the early 10s, Max and his stable of Stockholm songwriters were at the top of their game, having produced a wave of hits for everyone from Usher to Adam Lambert to Avril Lavigne." ← Hit Parade Music History and Music Trivia > Taylor’s Version of Country, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Juno Award Eligibility - Award Discontinued (1993)** : Avril Lavigne was not nominated for the Juno Award for Most Promising Female Vocalist because the award category was discontinued in 1993, prior to her emergence. "Avalyving was also not nominated for a Juno for most promising female vocalist, namely because the award was discontinued in 1993." ← Hit Parade Music History and Music Trivia > The Bridge - Farewell, Lilith Fan | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Premios Oye!** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q7240451
@@ -62,7 +80,7 @@
 **"What the Hell" — Billboard Year-End Hot 100** : #62, 2011. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Under My Skin" (2004) — Juno Awards: Album of the Year** : #2005. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"The Best Damn Thing" (2007) — Juno Awards: Album of the Year** : #2008. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Goodbye Lullaby" (2011) — Juno Awards: Album of the Year** : #2012. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Love Sux" (2022) — Juno Awards: Album of the Year** : #2023. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
+**"Under My Skin" (2004) — Juno Awards: Album of the Year** : #2005.
+**"The Best Damn Thing" (2007) — Juno Awards: Album of the Year** : #2008.
+**"Goodbye Lullaby" (2011) — Juno Awards: Album of the Year** : #2012.
+**"Love Sux" (2022) — Juno Awards: Album of the Year** : #2023.

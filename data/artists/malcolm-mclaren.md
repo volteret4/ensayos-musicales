@@ -1,5 +1,9 @@
 # artist - Malcolm McLaren
 
+## genres
+- Breakdance
+- New Wave
+
 ## labels
 - Sex
 
@@ -8,6 +12,7 @@
 
 ## songs
 **Buffalo Gals (1983)** : This song from Malcolm McLaren's 1983 album *Duck Rock* is a notable example of his integration of rap and hip hop elements into his music. It became well-known for its distinctive vocal hook. ← https://www.youtube.com/watch?v=PzyvXmDKFUc ← malcolm-mclaren
+**Buffalo Gals (1983)** : This "nursery rhyme turned breakdance hit" by former Sex Pistols affiliate Malcolm McLaren exemplified how rap was influencing the sound of English acts in the early 1980s. "And former sex pistols affiliate Malcolm McLaren, with his nursery rhyme turned breakdance at the Buffalo Gow." ← Hit Parade Music History and Music Trivia > Hit Parade - The Def Jams Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Adopting Hell's Aesthetic for Punk** : Malcolm McLaren, having previously managed the New York Dolls, was profoundly influenced by Richard Hell's visual style during his visit to New York. After Hell refused his offer to move to the UK, McLaren returned to London. There, he opened a clothing store named "Sex," directly inspired by Hell's distinctive manner of dressing, which he then used as the foundation for the Sex Pistols' image. "De vuelta a Londres, McLaren abrió una tienda de ropa inspirada en la forma de vestir de Hell, a la que llamó Sex." ← El punk existía antes de Sex Pistols (y era algo salvaje) | https://www.youtube.com/watch?v=ilXpBujkWZE
@@ -36,4 +41,4 @@
 
 ## lists
 **"Duck Rock" (1983) — 1001 Albums You Must Hear Before You Die** : #514.
-**"Duck Rock" (1983) — Pitchfork: The 200 Best Albums of the 1980s** : #200. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"Duck Rock" (1983) — Pitchfork: The 200 Best Albums of the 1980s** : #200.

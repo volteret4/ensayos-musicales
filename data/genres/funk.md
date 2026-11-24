@@ -40,6 +40,30 @@
 **Tim Buckley's Exploration** : Tim Buckley explored the funk genre as part of his musical evolution. "cycling through folk, psych, bits of jazz, fun, and soul." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← funk
 **Transformative Influence on Chad Smith** : Chad Smith's drumming underwent a significant transformation after he received instruction from a funk drummer named Larry Frentangelo. This guidance led him to view himself as a musician rather than merely a drummer, profoundly changing his playing style. "But then he was given instruction by a funk drummer named Larry Frentangelo." ← https://www.youtube.com/watch?v=WL3zEWJJNuw ← funk ← funk
 **Usage in Internet Culture** : Funk tracks are widely used in various forms of internet culture, including memes, gym edits, chat leagues, absurd memes, and "shitposts." This ubiquitous presence helped spread its distinctive sound across online communities. "Se usaba para muchos tipos de memes, Edith de Jim, Liga Chat, memes Absurdos y muchas hitpost." ← ¿Qué es el RALLY HOUSE？ El género que suena como un juego de PS1 | https://www.youtube.com/watch?v=RKCDTQlz0uw
+**Wawa-Tastic Style** : Rhythm Heritage, a funk studio group, achieved a number one hit in 1976 with their "Wawa Tastic" version of "Theme from S.W.A.T.," highlighting a distinct stylistic approach within the genre applied to TV themes. "The funk group's Wawa Tastic version of Theme from SWAT hit number one in February 1976." ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Underperformance on Charts (Early 80s)** : Classic funk jams, like Rick James' "Super Freak," could underperform on the charts in the early 1980s due to pop stations underplaying or underreporting records by Black artists in the wake of the disco backlash. This resulted in such songs not reaching their full chart potential despite being ubiquitous. "Superfreak was prominently sampled by MC Hammer on the rapper's 1990 smash You Can't Touch This as we discussed in our Great War against the single episode of Hit Parade." ← Hit Parade Music History and Music Trivia > At Last, My Legacy Has Come Along Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Source of "Ashley's Roach Clip" Beat** : The 1974 instrumental "Ashley's Roach clip" by The Soul Searchers, led by Chuck Brown, is a funk track. Its drum break became a foundational sample in hip hop, powering classics by numerous Golden Age rappers and major hits by other artists like Millie Vanille. "Do you recognize this funk instrumental I'm playing? This is The Soul Searchers, led by Washington, DC, GoGo, music pioneer, Chuck Brown. With their 1974 jam, Ashley's Roach clip." ← Hit Parade Music History and Music Trivia > Blame It on the Feign, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Podcast Coverage** : Funk has been a genre devoted to episodes of the "Hit Parade" podcast over the past four years. "We've devoted episodes over the last four years to whole genres, from funk..." ← Hit Parade Music History and Music Trivia > Feet on the Ground, Reaching for the Stars Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mainstream Airplay on American Top 40** : American Top 40, under Casey Kasem, played R&B, Funk, and Soul hits as part of its commitment to counting down all 40 songs on the Hot 100. This meant that pop or rock stations, especially in the Southern United States, would play hits by black artists like James Brown's "Sex Machine," which they might not otherwise feature. "That included R&B, Funk and Soul. And AT-40 might be the only time certain pop or rock stations, especially in the Southern United States, played those hits by black artists." ← Hit Parade Music History and Music Trivia > Feet on the Ground, Reaching for the Stars Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**70s Dominance and Versatility** : The 1970s was "positively awash in funk in all its forms," including Latin fusion funk, romantic Budwara funk, and strutting funk. It was commercially viable with a massive crossover audience, defining what pop sounded like and dominating the charts as reliably as rock and disco. "The 70s was positively awash in funk in all of its forms." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Consumption on LPs** : Funk in the 70s was perhaps best appreciated on long playing vinyl, where its grooves seemed to stretch into outer space. Many acts scored number one or platinum LPs. "funk in the 70s was perhaps best appreciated on long playing vinyl, where its grooves seemed to stretch into outer space." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Evolution and Adaptation** : As funk competed with rock and disco in the 70s, it adapted, with bands incorporating smoother grooves and some funk craftsmen transitioning into 80s pop songsmiths. This evolution laid the foundation for entirely new genres. "As funk in the 70s competed with not only rock, but disco, it found itself having to adapt to keep up with the relentless demand for dance rhythms." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**"The One" as Bedrock** : James Brown's innovation of "the one" – emphasizing the first beat in a measure – became the bedrock of funk and other forms of rhythmic music. "Papa's, which reached number 10 in the summer of 1965, was the hit that effectively introduced this concept. And it became the bedrock of funk and other forms of rhythmic music." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on Hip Hop and G Funk** : Funk laid the foundation for Hip Hop, with 70s funk classics being transformed by rappers, and the entire G funk era of the 90s owing its existence to vintage 70s funk. "Nearly half a century past the birth of Hip Hop, its tempting to view funk largely through that lens, considering how 70s classics by the likes of, say, Stevie Wonder. We're later transformed by rappers like Kulia into hits like Gangsta's Paradise." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Pop Music Status** : In its day, funk was not just a blueprint for later music or for DJs and producers, but was mainstream pop music, dominating the charts in the 1970s. "In its day, funk was pop music. Dominating the charts, nearly as reliably that decade as Rock and Disco." ← Hit Parade Music History and Music Trivia > Give Up the Funk Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**The Family Genre** : The Family, conceived by Prince as a spin-off from The Time, was described as a funk jazz band. "a short-lived funk jazz band" ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Blaxploitation Soundtrack Dominance (1970s)** : The funk genre gained significant exposure and chart success through Blaxploitation film soundtracks in the 1970s, with artists like Isaac Hayes (*Shaft*) and Curtis Mayfield (*Superfly*) creating number one albums and multiple top ten hits. These soundtracks used funk to both drive narrative and become commercial blockbusters. "What The Harder They Come was to Reggae and Shaft and Superfly were to funk..." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rise in Movie Soundtracks (1967)** : Funk music became more common in movie soundtracks starting with *The Graduate* in 1967, marking a shift towards contemporary genres such as rock, R&B, and pop on film. "...started a wave of contemporary rock, R&B, pop, funk, and disco on the silver screen." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on Dance Music** : Funk, alongside disco, was a key influence on the propulsive dance music template established by The Jacksons' early 1979 top 10 hit, "Shake Your Body Down to the Ground." "propulsive dance music informed by both disco and funk" ← Hit Parade Music History and Music Trivia > I Wanna Rock with Q. Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**New Orleans Influence and Artist Evolution (1970s)** : Funk music in the early to mid-1970s drew heavily from New Orleans, featuring "gut bucket funk" from Dr. John and "New Orleans funk jam" from The Pointer Sisters. Bands like Rufus also significantly shifted their sound towards funk, showcasing its evolving prominence. "The song that Alan Tussant produced for Label can be heard as a kind of hybrid of both of these modes, gut bucket funk like Dr. John, danceable soul like the pointer sisters." ← Hit Parade Music History and Music Trivia > Killing Me Softly Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Redefined by Stevie Wonder in the 1970s** : Stevie Wonder is credited with redefining the sound of funk music in the 1970s, alongside pop, R&B, and rock, through his monumental commercial and critical achievements. "redefining the sound of pop, funk, R&B, rock." ← Hit Parade Music History and Music Trivia > The Bridge - Cover Queens and The Boy Wonder | https://my.slate.com/podcasts/feeds/hit-parade/
+**American Funk and Soul Influence on Denniz Pop** : Denniz Pop, the founder of Cheiron Studios, developed his ear for hits as a DJ in Stockholm, with a particular love for "American funk and soul" music, favoring simpler arrangements. "He particularly loved American funk and soul and British techno pop, the simpler, the better." ← Hit Parade Music History and Music Trivia > The Give Me a Sign Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Bee Gees' Shift to Funk** : The Bee Gees' 1975 song "Nights on Broadway" was built on a hard funk riff, marking a pivotal shift in their sound. "From the jump, the track is built on a hard funk riff." ← Hit Parade Music History and Music Trivia > The Nights on Broadway Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**David Bowie's Hard Funk** : In 1975, David Bowie's danceable new hard funk emerged and topped the hit parade, contributing to the mainstreaming of disco. "Or the danceable new hard funk of David Bowie." ← Hit Parade Music History and Music Trivia > The Nights on Broadway Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Apollo Theater's Influence on Nile Rogers' Groove** : Nile Rogers' experience in the house band at Harlem's Apollo Theater was transformative for his playing. The "old timers" in the band taught him how to truly play funk with R&B notation, imbuing his previously classical and jazz-trained style with the essential "groove" that became a hallmark of his sound and Sheik's music. "The Apollo gave Nile his groove, which he then poured into more club and session." ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**B-52s Party Track (1989)** : "Love Shot," a track from The B-52s' 1989 album "Cosmic Thing," was described as a Funk Flavored Party Track and produced by Don Was. "Funk Flavored Party Track Love Shot." ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rhythmic Element in Pop Music** : Funk rhythms were integrated into pop songs, exemplified by Talking Heads' "Life During Wartime," demonstrating how diverse sounds could become danceable and reach the pop charts. "mixed funky rhythms with jittery lyrics about life during wartime." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Prior R&B Sound** : Prior to the early 1980s shift towards smoother sounds, funk was a prominent style associated with R&B performers, alongside disco hits. "previously known for funk and disco hits." ← Hit Parade Music History and Music Trivia > What a Fool Believes Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Ani DiFranco
@@ -114,3 +138,45 @@
 - Mark Ronson
 - Donna Summer
 - The Pointer Sisters
+- Rhythm Heritage
+- Whitney Houston
+- Prince
+- The B-52s
+- Sly and the Family Stone
+- The Soup Dragons
+- Michael Jackson
+- Max Martin
+- Nile Rodgers
+- Run-DMC
+- Kool & the Gang
+- The O'Jays
+- The Meters
+- Mandrill
+- Herbie Hancock
+- Rufus
+- Chaka Khan
+- Average White Band
+- Con Funk Shun
+- Barbra Streisand
+- Sheik
+- Bernard Edwards
+- The Time
+- The Family
+- The Fatback Band
+- The Sugarhill Gang
+- The Incredible Bongo Band
+- Frankie Smith
+- Cameo
+- Trouble Funk
+- Patti LaBelle
+- The J.B.'s
+- Dr. John
+- Starpoint
+- Commodores
+- Little Sister
+- Lynn Collins
+- BT Express
+- Denniz Pop
+- The Big Apple Band
+- Roy Ayers
+- Duffbunk

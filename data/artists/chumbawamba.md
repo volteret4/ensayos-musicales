@@ -1,11 +1,13 @@
 # artist - Chumbawamba
 
 ## genres
+- Anarchist Collective
 - Anarcho-punk
 - Left-leaning
 
 ## labels
 - Cell Records
+- Republic Records
 
 ## albums
 **Barefaced Hypocrisy** : This EP, released on Cell Records, was Chumbawamba's direct response to criticisms leveled against them for signing a major label record deal, a move perceived by some as contradictory to their anti-capitalist ethos. "But they answered those criticisms by releasing an EP called Bareface to Pocracy Cells Records." ← https://www.youtube.com/watch?v=d_uDHds2XGQ ← chumbawamba ← chumbawamba
@@ -14,10 +16,12 @@
 **Early Cassette Releases** : Many of Chumbawamba's initial releases were distributed solely on cassette tapes and began appearing on the UK indie charts a few years after the band's formation, indicating their origins in the independent music scene. "After a few years, their releases, many of which were cassette only, started appearing on the UK indie charts." ← https://www.youtube.com/watch?v=d_uDHds2XGQ ← chumbawamba
 **Pictures of Starving Children's Cell Records (1986)** : Released in 1986, this record served as a direct critique of Bob Geldof and the Live Aid initiative, demonstrating the band's early engagement with politically charged themes and their anti-establishment stance. "One release that got attention was a 1986 record called Pictures of Starving Children's Cell Records, which was a take-down of Bob Galdoff and the whole Live Aid initiative." ← https://www.youtube.com/watch?v=d_uDHds2XGQ ← chumbawamba ← chumbawamba
 **Pictures of Starving Children's Cell Records (1986)** : Released in 1986, this record served as a direct critique of Bob Geldof and the Live Aid initiative, demonstrating the band's early engagement with politically charged themes and their anti-establishment stance. "One release that got attention was a 1986 record called Pictures of Starving Children's Cell Records, which was a take-down of Bob Galdoff and the whole Live Aid initiative." ← https://www.youtube.com/watch?v=d_uDHds2XGQ ← chumbawamba
+**Tubthumper (1997)** : This album sold a staggering 3.2 million copies, achieving this success entirely due to its single hit, "Tubthumping." The band, a self-described anarchist collective, never troubled the Hot 100 again after this album's success. "By Christmas 1997, tub-thumping was the top song at US Radio. Like Hammers, you can't touch this, its minimal sales meant it never cracked the Hot 100 Top 5. But after 9 weeks as the most played song at Radio, Chumba Wamba's tub-thumper album had sold a staggering 3.2 million copies, all off its only hit." ← Hit Parade Music History and Music Trivia > Hit Parade - The Great War Against the Single Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## songs
 **Tubthumping (1997)** : Released in the summer of 1997, "Tubthumping" became an unexpectedly massive hit, rapidly climbing the charts on both sides of the Atlantic despite the band's unconventional history and strong political ideology. "Meanwhile, a long comes in a single called tub thumping that flew up the charts on both sides of the Atlantic, massive hit." ← https://www.youtube.com/watch?v=d_uDHds2XGQ ← chumbawamba ← chumbawamba
 **Tubthumping (1997)** : Released in the summer of 1997, "Tubthumping" became an unexpectedly massive hit, rapidly climbing the charts on both sides of the Atlantic despite the band's unconventional history and strong political ideology. "Meanwhile, a long comes in a single called tub thumping that flew up the charts on both sides of the Atlantic, massive hit." ← https://www.youtube.com/watch?v=d_uDHds2XGQ ← chumbawamba
+**Tubthumping (1997)** : Released as a CD single in early fall 1997, Republic Records cleverly pressed only 70,000 copies total, a typical amount for a top 10 hit to sell in just one week. Despite these minimal sales, the song was allowed entry onto the Hot 100, climbing the chart as its chanting chorus took over Top 40 radio. By Christmas 1997, it was the top song at US Radio and spent 9 weeks as the most played song. The title "Tubthumping" is a British term for political declaiming and bandwagon jumping, though the word itself never appears in the song lyrics. It is described as an "ode to bar room philosophers who bend your ear while getting sourced." "Tub-thumping was allowed entry onto the Hot 100, and, even as its stock of singles sold out in weeks, it climbed the chart as the song's chanting chorus took over Top 40 radio." ← Hit Parade Music History and Music Trivia > Hit Parade - The Great War Against the Single Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Eastern European Tape Smuggling** : The band engaged in smuggling their tapes into Poland and other Eastern European countries, where music was heavily censored, highlighting their dedication to spreading their message beyond commercial and official channels. "Meanwhile, they smuggled tapes into Poland and other Eastern European countries where music was heavily censored." ← https://www.youtube.com/watch?v=d_uDHds2XGQ ← chumbawamba ← chumbawamba
@@ -30,6 +34,9 @@
 **Major Label Deal (1998)** : In 1998, Chumbawamba signed a major label record deal, a move that surprised many observers due to its apparent contradiction with the band's staunch anti-capitalist principles and was met with criticism. "And in 1998, they signed a major label record deal, which seemed weird for such an anti-capitalist band." ← https://www.youtube.com/watch?v=d_uDHds2XGQ ← chumbawamba
 **Self-Sabotage Post-Hit** : Following the significant commercial success of "Tubthumping," the band intentionally undermined their own commercial trajectory, a decision consistent with their long-standing anti-establishment and anti-commercial ideology. "But then the band sabotaged their own..." ← https://www.youtube.com/watch?v=d_uDHds2XGQ ← chumbawamba
 **Transition to Full-Time Music** : Through sufficient record sales and live performances in Western countries, Chumbawamba managed to transition into pursuing music as a full-time profession. "Back in the West, they sold enough records and played enough gigs to pursue music full time." ← https://www.youtube.com/watch?v=d_uDHds2XGQ ← chumbawamba
+**Anarchist Collective** : Chumbawamba identified as a self-described anarchist collective that also functioned as a band. They had been active since the mid-1980s, without any prior hits in their homeland or America, and were known for "making trouble." "Britain's Chumba Wamba, a self-described anarchist collective that doubled as a band, had been around since the mid-1980s, scoring no hits either in their homeland or in America, and making trouble." ← Hit Parade Music History and Music Trivia > Hit Parade - The Great War Against the Single Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Album Title Controversy (1986)** : In 1986, shortly after the Live Aid concert, the band controversially titled an album "pictures of starving children sell records." "Trouble like titling an album in 1986, just after Live Aid, pictures of starving children sell records." ← Hit Parade Music History and Music Trivia > Hit Parade - The Great War Against the Single Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**1990s Chart Underperformance** : As a 1990s hitmaker, Chumbawamba was cited as an example of artists whose singles underperformed on or disappeared from the Hot 100 because consumers were compelled to buy full-length albums to acquire their hit songs, due to the music business's "Great War against the Single." "Chambawamba to Sugar Ray, a slew of 90s hitmakers underperformed on or disappeared altogether from the Hot 100, because you couldn't buy their songs, only their albums." ← Hit Parade Music History and Music Trivia > I Got Five on It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **MTV Video Music Award for Best New Artist (1998)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q595693
@@ -39,5 +46,5 @@
 **"Tubthumping" — Billboard Year-End Hot 100** : #35, 1998. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Shhh" (1992) — Scaruffi 1990s** : #530, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Tubthumper" (1997) — Scaruffi 1990s** : #531, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Shhh" (1992) — Scaruffi 1990s** : #530, 7.0/10 Scaruffi.
+**"Tubthumper" (1997) — Scaruffi 1990s** : #531, 7.0/10 Scaruffi.

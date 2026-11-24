@@ -7,3 +7,4 @@
 ## artists
 - Hootie & the Blowfish
 - R.E.M.
+- 10,000 Maniacs

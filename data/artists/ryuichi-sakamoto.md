@@ -27,9 +27,9 @@
 **Art Encouragement Prizes (2010)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q11615995
 
 ## lists
-**"Neo Geo" (1987) — Scaruffi 1980s** : #695, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Ongakuzukan/Illustrated Musical Encyclopedia" (1984) — Scaruffi 1980s** : #696, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Beauty" (1990) — Scaruffi 1990s** : #1119, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Sheltering Sky" (1990) — Pitchfork: The 50 Best Movie Soundtracks of All Time** : #17. ← musicbrainz | https://beta.musicbrainz.org/series/24265d39-1f92-4d16-a938-ba5a8fcc1f82
-**"Async" (2017) — Sputnikmusic Best Albums 2017** : #148, 3.85 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2017/
-**"12" (2023) — Sputnikmusic Best Albums 2023** : #182, 3.74 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2023/
+**"Neo Geo" (1987) — Scaruffi 1980s** : #695, 7.0/10 Scaruffi.
+**"Ongakuzukan/Illustrated Musical Encyclopedia" (1984) — Scaruffi 1980s** : #696, 7.0/10 Scaruffi.
+**"Beauty" (1990) — Scaruffi 1990s** : #1119, 7.0/10 Scaruffi.
+**"The Sheltering Sky" (1990) — Pitchfork: The 50 Best Movie Soundtracks of All Time** : #17.
+**"Async" (2017) — Sputnikmusic Best Albums 2017** : #148, 3.85 Sputnik.
+**"12" (2023) — Sputnikmusic Best Albums 2023** : #182, 3.74 Sputnik.

@@ -28,6 +28,13 @@
 **Live LP Success** : Aretha Franklin's *Amazing Grace* in 1972 proved that a live gospel LP could achieve extraordinary commercial success, cracking the top 10 on the Billboard pop album chart and becoming the best-selling live gospel LP of all time. "Amazing Grace cracked the top 10 on the Billboard pop album chart, extraordinarily rare for a gospel LP" ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
 **Gospel-Trained R&B Vocals Revival** : Whitney Houston's emergence in the mid-1980s was significant for "returning gospel-trained R&B vocals to the center of the hit parade," boosting the profile of artists like Aretha Franklin. "Houston was returning gospel-trained R&B vocals to the center of the hit parade." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
 **Gesture of Honor** : The gesture of dropping a fur coat on stage, as performed by Aretha Franklin at the 2015 Kennedy Center Honors, is a tradition borrowed from gospel music and the Black church, symbolizing respect and recognition between performers. "The media later pointed out that this was a gesture of honor borrowed from gospel music and the black church, one Queen recognizing another." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Evolution to Pop Ballad** : The gospel standard "Stand By Me," written by Charles Albert Tindley around the turn of the century, underwent an evolution in the hands of Sam Cook and J.W. Alexander. Their interpolation, "Stand By Me Father" for The Soul Stirrers, changed the original gospel hymn into something closer to a pop ballad with a memorable refrain, directly influencing Ben E. King's smash hit "Stand By Me." "In cooks and Alexander's hands, their interpolation, stand by me father, changed from a gospel hymn to something closer to a pop ballad, with a very memorable refrain." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on "Titanic Divas"** : The gospel tradition served as a background for some of the "Titanic Divas" of the late 1980s and early 1990s, who were recognized for their powerhouse and "athletic" vocal styles. "Although some of these vocalists emerged from the R&B or gospel tradition" ← Hit Parade Music History and Music Trivia > Hello, Gorgeous Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Gospel Flavor in National Anthem** : Whitney Houston, drawing inspiration from Marvin Gaye's earlier unorthodox rendition, aimed to infuse a gospel flavor into her Super Bowl performance of "The Star-Spangled Banner." This led her musical director, Ricky Miner, to propose adding a beat and altering the song's meter from a three-four waltz cadence to a four-four meter, reflecting the rhythmic characteristics of black music. "Houston, inspired by an earlier unorthodox national anthem performance by the late Marvin Gaye, wanted to bring gospel flavor to her version of the anthem." ← Hit Parade Music History and Music Trivia > I'm Your Whitney Tonight Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Best-Selling Gospel Album Record** : The soundtrack for "The Preacher's Wife" (1996), featuring Whitney Houston, achieved the remarkable distinction of becoming the best-selling gospel album of all time, with 6 million copies sold worldwide, surpassing even Aretha Franklin's "Amazing Grace." "In fact, it now ranks as the best-selling gospel album of all time, with 6 million copies sold worldwide, outselling even Aretha Franklin's Amazing Grace." ← Hit Parade Music History and Music Trivia > I'm Your Whitney Tonight Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on Janet Jackson's Music** : Janet Jackson's song "Love Will Never Do (Without You)" was described as a call-and-response rave-up that crossed New Jack Swing with gospel, highlighting the genre's influence on her sound. "Love will never do was a six-minute long call-and-response rave-up like New Jack Swing crossed with gospel." ← Hit Parade Music History and Music Trivia > State of the World Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on Film Soundtracks** : The gospel genre heavily influenced the soundtrack for the 1996 film "The Preacher's Wife," which was explicitly described as "gospel-centered," featuring songs like Whitney Houston's "Step by Step" within its context. "recorded for a gospel-centered film about a black Baptist church." ← Hit Parade Music History and Music Trivia > The Bridge - Wesley on Whitney | https://my.slate.com/podcasts/feeds/hit-parade/
+**Live Performance Element** : Whitney Houston incorporated extended gospel numbers into her live concerts, sometimes spending "eight minutes on one gospel number," demonstrating her deep engagement with the genre in performance. "see her spend eight minutes on one gospel number." ← Hit Parade Music History and Music Trivia > The Bridge - Wesley on Whitney | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Art Reynolds
@@ -85,3 +92,18 @@
 - Barbara Siggers Franklin
 - Fantasia
 - The Pointer Sisters
+- Elton John
+- Whitney Houston
+- Loleatta Holloway
+- Roberta Flack
+- Mariah Carey
+- Sam Cook
+- Odetta
+- Janet Jackson
+- The Impressions
+- Earth, Wind & Fire
+- Bill Withers
+- Cissy Houston
+- The Drinkard Singers
+- Sylvester
+- The Jordanaires

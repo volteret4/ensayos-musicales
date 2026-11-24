@@ -14,6 +14,9 @@
 - 1982 World Tour
 - Ozzfest 2000
 
+## albums
+**Solo Albums (1987)** : In June 1987, Ozzy Osborne's albums were among the top metal albums in America, contributing to a week where five of the top six albums were metal, alongside Bon Jovi, Poison, and Motley Crüe. "from Bon Jovi to Ozzy Osborne, Poison to the crew." ← Hit Parade Music History and Music Trivia > Hit Parade - The You Give Rock a Bad Name Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## songs
 **Crazy Train (1980)** : Ranked at number two in Guitar World magazine's survey for greatest guitar riffs, specifically crediting Randy Rhoads for the guitar work. "And second spot, crazy train, Randy Rhodes playing for Ozzy Osport, good call." ← https://www.youtube.com/watch?v=KtdIMNoHqA8 ← ozzy-osbourne ← ozzy-osbourne
 **Crazy Train (1980)** : This song is listed among others frequently used at sporting events to engage the crowd, although it was not originally written with sports in mind. "The point of playing songs like this or sweet Caroline or thank God I'm a country boy or crazy train or whatever is crowd engagement." ← For the Record - The 70s > Ep. 36 - Na Na Na Na, Hey Hey Hey! 70s Music and Sports | https://seventies.libsyn.com/ep-36-na-na-na-na-hey-hey-hey-70s-music-and-sports
@@ -36,6 +39,7 @@
 **Unusual Behaviors** : Ozzy Osbourne is known for exhibiting highly unusual and bizarre behaviors, including the acts of snorting ants and licking up his own urine. "Ozzy Osborne snorring ants and also licking up his own urine." ← https://www.youtube.com/watch?v=lzwQggT0qR0 ← ozzy-osbourne ← ozzy-osbourne
 **Atlanta Blackout (1976)** : Ozzy once drank himself into oblivion in Atlanta, passed out in the wrong hotel room for 24 hours, and consequently missed a scheduled show. "That time in Atlanta, when Ozzy drank himself into oblivion, passed out in the wrong hotel room for 24 hours, and missed a show as a result." ← https://www.youtube.com/watch?v=Jvh8SP2QKXQ ← ozzy ← ozzy
 **Chris Sangerides as Producer** : Chris Sangerides, the producer for The Tragically Hip's *Fully Completely*, was known for his work with Ozzy, alongside other heavy metal groups such as Judas Priest and Black Sabbath. "The producer was Chris Sangerides, a Greek Cypriot breads who was better known for working with Judas Priest and Black Sabbath and Ozzy and Thin Lizzy." ← https://www.youtube.com/watch?v=Vs1YyXgLpTE ← ozzy
+**Pop Metal Success (1988-1989)** : As a 40-something rocker, Ozzy Osborne was among the artists who generated some of the highest charting hits during the pop metal explosion of 1988 and 1989. "By 1988 and 89, the pop metal explosion generated some of the highest charting hits ever, for such 40-something rockers as Ozzy Osborne." ← Hit Parade Music History and Music Trivia > Hit Parade - The You Give Rock a Bad Name Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761
@@ -55,8 +59,8 @@
 **Rock and Roll Hall of Fame (2024)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
 
 ## lists
-**"Diary of a Madman" (1981) — AOTY Must Hear 1980s** : #160, 75 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Blizzard of Ozz" (1980) — AOTY Must Hear 1980s** : #185, 72 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"No More Tears" (1991) — AOTY Must Hear 1990s** : #392, 76 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Patient Number 9" (2022) — Kerrang! The 50 Best Albums of 2022** : #37. ← musicbrainz | https://beta.musicbrainz.org/series/bba4a66d-575e-4b6e-8447-233ad23a8f51
-**"No More Tears" (1991) — Sputnikmusic Best Albums 1991** : #135, 76 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
+**"Diary of a Madman" (1981) — AOTY Must Hear 1980s** : #160, 75 AOTY.
+**"Blizzard of Ozz" (1980) — AOTY Must Hear 1980s** : #185, 72 AOTY.
+**"No More Tears" (1991) — AOTY Must Hear 1990s** : #392, 76 AOTY.
+**"Patient Number 9" (2022) — Kerrang! The 50 Best Albums of 2022** : #37.
+**"No More Tears" (1991) — Sputnikmusic Best Albums 1991** : #135, 76 AOTY.

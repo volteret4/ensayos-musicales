@@ -13,6 +13,8 @@
 **The Raspberries as Pioneers** : The Raspberries are widely cited as a groundbreaking band and one of the first examples of the Power Pop sound, particularly in the context of early alt-rock. "Ask anyone about Power Pop, and they will talk about the raspberries." ← https://www.youtube.com/watch?v=HBS24NwhrE8 ← power-pop
 **Transatlantic Sound** : Power Pop constituted a significant part of the "transatlantic sound" that became central to what New Wave ultimately represented, alongside England's pub rock and punk rock scenes. "the transatlantic sound of Power Pop." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
 **US Breakthrough Summer (1979)** : The summer of 1979 in America was recognized as the breakthrough season for New Wave, during which power pop bands such as Cheap Trick, The Knack, and The Cars achieved their biggest hits to date. "that was the breakthrough summer of New Wave, as power pop bands like Cheap Trick. The neck, and the cars. All scored their biggest hits to date." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
+**Phantom Planet's Style** : This genre describes Phantom Planet, the L.A. band that provided *The O.C.*'s theme song "California." "Phantom Planet, an L.A. Power Pop band" ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**The Romantics' Core Style** : Detroit quartet The Romantics "took power pop very seriously," cultivating a stripped-down new wave sound with influences from acts like The Raspberries and Cheap Trick. "Detroit quartet The Romantics took power pop very seriously." ← Hit Parade Music History and Music Trivia > At Last, My Legacy Has Come Along Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Badfinger
@@ -39,3 +41,10 @@
 - Veruca Salt
 - Weezer
 - Andre 3000
+- Phantom Planet
+- Gin Blossoms
+- The Romantics
+- Squeeze
+- The Bangles
+- Blondie
+- The Nerves

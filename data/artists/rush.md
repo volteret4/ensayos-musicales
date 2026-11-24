@@ -2,11 +2,13 @@
 
 ## members
 - Alex Lifeson
+- Amy Mann
 - Geddy Lee
 - John Rutsey
 - Neil Peart
 
 ## genres
+- Album Rock
 - Heavy Blues Rock
 - Math Rock
 - Prog Rock
@@ -72,6 +74,7 @@
 **The Spirit of Radio (1980)** : In 2020, Rush released an animated retrospective video for "The Spirit of Radio," which notably featured individuals crucial to their breakthrough in the United States, including DJ Donna Halper. "In 2020, rush released a very cool animated retrospective video for the spirit of the radio. It featured the people that were part of their breakthrough in the United States. That includes Donna." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← rush
 **Subdivisions (1982)** : From the 1982 *Signals* album, this song is the first Rush track to be keyboard-based. Lyrically, it offers Neil Peart's autobiographical observations on suburban culture, social expectations, and cliques, serving as a keen commentary on the human condition and the pressures to conform or be cast out. "This was also the first rush song to be keyboard based." ← https://www.youtube.com/watch?v=B0CZ1deEgic ← rush ← rush
 **Time Stand Still (1987)** : An autobiographical song for Neil Peart, released on the 1987 album *Hold Your Fire*. By 1993, with the band having been together for nearly 20 years, Peart reflected on how time had "slipped away" during their extensive touring in the 1970s, which felt "like a dark tunnel" and led to neglecting friends and family. The song serves as a "plea for the present," urging listeners to stop and enjoy the moment rather than dwelling on the past. "So the song is about stopping to enjoy that, with a warning against too much looking back, instead of getting nostalgic about the past, it's more a plea for the present." ← https://www.youtube.com/watch?v=B0CZ1deEgic ← rush ← rush
+**Time Stand Still (1987)** : This song was written by Rush with the intention of including a female vocalist as a counterpoint. After Cindy Lopper and Chrissy Hynde were unavailable, Amy Mann was chosen to deliver the titular phrase and appear in its music video. It became one of Rush's biggest radio hits, reaching number 3 on Billboard's Album Rock Chart in 1987. "Time Stand Still became one of Rush's biggest radio hits, peaking at number 3 on Billboard's Album Rock Chart in 1987." ← Hit Parade Music History and Music Trivia > Be the One to Walk in the Sun, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Tom Sawyer (1981)** : A prominent song from the 1981 album *Moving Pictures*. The track is famously referenced in the 2009 movie *I Love You, Man*, where characters discuss Neil Peart's drumming prowess. "Rush and Tom Sawyer from 1981's Moving Pictures." ← https://www.youtube.com/watch?v=B0CZ1deEgic ← rush ← rush
 **Where's My Thing? (1991)** : An instrumental track from the 1991 *Roll the Bones* album. This song was specifically designed as a showcase for Neil Peart's drum solos during live performances, allowing him to "bust out" and display his extensive percussive skills and instruments. "And there's an instrumental on the Roll the Bones album from 1991 until Where's My Thing?" ← https://www.youtube.com/watch?v=B0CZ1deEgic ← rush ← rush
 **Working Man (1974)** : Donna Halper was particularly drawn to "Working Man" due to its palpable energy, believing it would resonate strongly with her Cleveland listeners. "but she really liked the second one she heard, working man. She liked the energy, and she thought it would be great for her listeners in Cleveland." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← rush
@@ -129,6 +132,9 @@
 **Toronto Radio Landscape (1970s)** : Donna Halper observed that during the 1970s, Toronto radio was in a "wimpy mellow jello phase," resulting in very little airplay for hard rock music. "Toronto Radio was going through its wimpy mellow jello phase, and Hard Rock got little airplay." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← rush
 **WMMS and Donna Halper's Role in US Breakthrough** : Rush's breakthrough in the United States was significantly aided by Cleveland rock station WMMS, where DJ Donna Halper began playing "Working Man." Halper was known for her open-mindedness toward new and Canadian bands and recognized the song's energy as suitable for her Cleveland listeners. "Well, enter Cleveland Rock Station, WMMS, a DJ, Donna Halper, started playing working man." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← rush
 **ZZ Top Encore Incident (1974)** : Donna Halper confirmed an incident from 1974 when Rush opened for ZZ Top: the crowd demanded an encore, but someone associated with ZZ Top unplugged Rush's amplifiers, preventing them from performing further and denying the audience's request. "Helper also confirms the story that when rush opened for ZZ Top in 1974, the crowd was screaming for an encore, but someone with ZZ Top unplugged rushes amps, denying them and the crowd in an encore." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← rush
+**Canadian Power Trio (1980s)** : Rush is described as a "Canadian Power Trio" known for their status as "Kings of Album Rock Radio" and being "beloved by fans of meticulous instrumental chops and readers of guitar player and modern drummer." "The Canadian Power Trio Rush, Kings of Album Rock Radio, beloved by fans of meticulous instrumental chops and readers of guitar player and modern drummer." ← Hit Parade Music History and Music Trivia > Be the One to Walk in the Sun, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Music Video for Time Stand Still (1987)** : The music video for "Time Stand Still" was shot by "cutting edge Polish film director Zbigniew Riptinski," who had Amy Mann pretend to be a camera operator wheeling around a giant studio camera while the band played. "He had man pretend to be a camera operator wheeling around a giant studio camera while the band played." ← Hit Parade Music History and Music Trivia > Be the One to Walk in the Sun, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Album-Oriented Rock (1985)** : Rush was an example of bands frequently played on the "Rock Tracks" chart and album-oriented rock (AOR) radio stations, which often did not make the top of the pop charts or only did so occasionally. "...and Rush." ← Hit Parade Music History and Music Trivia > Feet on the Ground, Reaching for the Stars Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761
@@ -194,20 +200,20 @@
 ## lists
 **"2112" (1976) — 1001 Albums You Must Hear Before You Die** : #355, 7.0/10 Scaruffi.
 **"Moving Pictures" (1981) — 1001 Albums You Must Hear Before You Die** : #492, 90 AOTY.
-**"Hemispheres" (1978) — AOTY Must Hear 1970s** : #25, 70 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"A Farewell to Kings" (1977) — AOTY Must Hear 1970s** : #56, 65 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"2112" (1976) — AOTY Must Hear 1970s** : #86, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Moving Pictures" (1981) — AOTY Must Hear 1980s** : #175, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Permanent waves" (1980) — AOTY Must Hear 1980s** : #196, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Moving Pictures" (1981) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #379, 90 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"2112" (1976) — Scaruffi 1970s** : #486, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Permanent waves" (1980) — Scaruffi 1980s** : #694, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"A Farewell to Kings" (1977) — Juno Awards: Album of the Year** : #1978, 65 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Hemispheres" (1978) — Juno Awards: Album of the Year** : #1979, 70 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Permanent waves" (1980) — Juno Awards: Album of the Year** : #1981, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Moving Pictures" (1981) — Juno Awards: Album of the Year** : #1982, 90 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Exit… Stage Left" (1981) — Juno Awards: Album of the Year** : #1982. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Signals" (1982) — Juno Awards: Album of the Year** : #1983. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Grace Under Pressure" (1984) — Juno Awards: Album of the Year** : #1984. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Power Windows" (1985) — Juno Awards: Album of the Year** : #1986. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Clockwork Angels" (2012) — Sputnikmusic Best Albums 2012** : #69, 4.03 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2012/
+**"Hemispheres" (1978) — AOTY Must Hear 1970s** : #25, 70 AOTY.
+**"A Farewell to Kings" (1977) — AOTY Must Hear 1970s** : #56, 65 AOTY.
+**"2112" (1976) — AOTY Must Hear 1970s** : #86, 7.0/10 Scaruffi.
+**"Moving Pictures" (1981) — AOTY Must Hear 1980s** : #175, 90 AOTY.
+**"Permanent waves" (1980) — AOTY Must Hear 1980s** : #196, 7.0/10 Scaruffi.
+**"Moving Pictures" (1981) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #379, 90 AOTY.
+**"2112" (1976) — Scaruffi 1970s** : #486, 7.0/10 Scaruffi.
+**"Permanent waves" (1980) — Scaruffi 1980s** : #694, 7.0/10 Scaruffi.
+**"A Farewell to Kings" (1977) — Juno Awards: Album of the Year** : #1978, 65 AOTY.
+**"Hemispheres" (1978) — Juno Awards: Album of the Year** : #1979, 70 AOTY.
+**"Permanent waves" (1980) — Juno Awards: Album of the Year** : #1981, 7.0/10 Scaruffi.
+**"Moving Pictures" (1981) — Juno Awards: Album of the Year** : #1982, 90 AOTY.
+**"Exit… Stage Left" (1981) — Juno Awards: Album of the Year** : #1982.
+**"Signals" (1982) — Juno Awards: Album of the Year** : #1983.
+**"Grace Under Pressure" (1984) — Juno Awards: Album of the Year** : #1984.
+**"Power Windows" (1985) — Juno Awards: Album of the Year** : #1986.
+**"Clockwork Angels" (2012) — Sputnikmusic Best Albums 2012** : #69, 4.03 Sputnik.

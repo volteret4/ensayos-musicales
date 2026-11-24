@@ -22,5 +22,5 @@
 
 ## lists
 **"Dr. Octagonecologyst" (1996) — 1001 Albums You Must Hear Before You Die** : #810, 4.24 Sputnik.
-**"Dr Octagon" (1995) — Scaruffi 1990s** : #625, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Dr. Octagonecologyst" (1996) — Sputnikmusic Best Albums 1996** : #25, 4.24 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
+**"Dr Octagon" (1995) — Scaruffi 1990s** : #625, 7.0/10 Scaruffi.
+**"Dr. Octagonecologyst" (1996) — Sputnikmusic Best Albums 1996** : #25, 4.24 Sputnik.

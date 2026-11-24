@@ -21,6 +21,7 @@
 **Reclaiming Identity Through Symbols** : Many bands that used the Confederate flag claimed it was an attempt to reclaim the identity of the South as a distinct region during the 1970s, a period when the South was perceived to be losing its regional distinction. However, this argument was almost exclusively made by white individuals. "this is almost exclusively a white person's argument and Gary Rossington also said many years later that he could see how the flag is a visual reminder of the civil war and that that is a painful reminder for many people." ← For the Record - The 70s > Ep. 3 - Nostalgia, Race, and Rebels in 70s Southern Rock | https://seventies.libsyn.com/03-bittersweet-home-alabama
 **Rooted in Nostalgia** : The Southern rock movement of the 1970s was deeply "rooted in nostalgia for a version of the south and of the past patriarchal agrarian as the south was changing." This nostalgia often involved editing out negative aspects of history and glorifying positive ones. "Southern rock, this otherworldly stew tapped into something that was not just in the south." ← For the Record - The 70s > Ep. 3 - Nostalgia, Race, and Rebels in 70s Southern Rock (Encore) | https://seventies.libsyn.com/ep-3-nostalgia-race-and-rebels-in-70s-southern-rock-encore
 **Stereotypical Portrayals** : Southern Rock bands often played into stereotypes of the Southern white male, frequently depicting him as an impoverished and misunderstood figure. Glorifying aspects like being poor, drinking, and fighting was a staple for some of these bands, contributing to a specific cultural image. "Southern rock bands played into the stereotypes of the Southern white male as often this impoverished and misunderstood guy. In fact glorifying being poor and drinking and fighting was a staple of some of the bands." ← For the Record - The 70s > Ep. 3 - Nostalgia, Race, and Rebels in 70s Southern Rock | https://seventies.libsyn.com/03-bittersweet-home-alabama
+**Popularity in the 1970s** : Southern Rock was doing "very well on the Billboard charts" in the mid-1970s when Tom Petty and The Heartbreakers, given their Gainesville, Florida roots, were nominally a Southern-flavored rock band. However, their sound was distinctly different from bands like The Eagles or The Allman Brothers. "Given their roots, Petty and the heartbreakers were nominally a Southern-flavored rock band, at a time when Southern Rock was doing very well on the Billboard charts." ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - 38 Special
@@ -34,4 +35,4 @@
 - My Morning Jacket
 - The Band
 - ZZ Top
-
+- Tom Petty

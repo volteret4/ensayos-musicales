@@ -65,4 +65,4 @@
 **Touring with Elvis Costello** : Nick Lowe has toured with his friend and long-time collaborator Elvis Costello, performing songs that made them both "pseudo pop stars." Their joint performances include "What's So Funny About Peace, Love, and Understanding," which, despite its punk origins, now conveys a message appropriate for "happy old men." "You can hear it in the voices of Elvis Costello and Nick Lowe when they tour together and perform the song that made them both pseudo pop stars." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
 
 ## lists
-**"Jesus Of Cool" (1978) — Scaruffi 1970s** : #433, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Jesus Of Cool" (1978) — Scaruffi 1970s** : #433, 7.0/10 Scaruffi.

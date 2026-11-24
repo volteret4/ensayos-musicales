@@ -17,6 +17,6 @@
 **Manslaughter Charge After Fan Death (2010)** : In 2010, during a show in Prague, a 19-year-old fan named Daniel Nosek climbed onto the stage. Singer Randy Blythe pushed him back into the audience, a common action for stage trespassers. However, Nosek fell hard, was not caught by the crowd, and hit his head, later dying from his injuries. "At one point, someone from the audience climbed on stage. Singer Randy Blithe did what he'd done a hundred times in the past to stage trespassers. He just pushed the guy back into the audience." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← lamb-of-god
 
 ## lists
-**"Ashes of the Wake" (2004) — AOTY Must Hear 2000s** : #299, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Omens" (2022) — Kerrang! The 50 Best Albums of 2022** : #40. ← musicbrainz | https://beta.musicbrainz.org/series/bba4a66d-575e-4b6e-8447-233ad23a8f51
-**"Into Oblivion" (2026) — Sputnikmusic Best Albums 2026** : #31, 3.66 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2026/
+**"Ashes of the Wake" (2004) — AOTY Must Hear 2000s** : #299, 81 AOTY.
+**"Omens" (2022) — Kerrang! The 50 Best Albums of 2022** : #40.
+**"Into Oblivion" (2026) — Sputnikmusic Best Albums 2026** : #31, 3.66 Sputnik.

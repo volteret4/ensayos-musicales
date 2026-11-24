@@ -9,14 +9,18 @@
 
 ## genres
 - Alt-Rock
+- American garage style bands
 - Garage Rock
+- Garage Rock Revival
 - Guitar-based Rock
 - Indie
 - Indie Rock
 - Industrial Rock
 - Indy Rock
 - New Retro Garage Rock
+- New Rock
 - New Wave
+- Post-Punk
 - Punk Rock
 - raw indie rock scene
 - Retro Rock
@@ -62,6 +66,7 @@
 **Is This It (2001)** : The full album released after a bidding war among American labels. It was available in the UK on July 30, 2001, and in North America on October 9, 2001. The album's release suggested to listeners that "maybe the rock scene doesn't seem so hopeless anymore." "The UK got it right away, July the 30th. North America got it October 9th." ← https://www.youtube.com/watch?v=raRCZ0Y5up8 ← the-strokes
 **Is This It (2001)** : The Strokes' debut album, released in July 2001, initially experienced a slow start. Its trajectory changed significantly after the 9/11 attacks, as public taste shifted away from "happy, dancing pop music" and back towards rock, which offered "more teeth, with more bite." "The result was an album called This Is It." ← https://www.youtube.com/watch?v=UpWz3X33vSY ← the-strokes
 **Is This It (2001)** : The Strokes' first album was released around the same time as Mios's "Origin of Symetry" in 2001. It revived a guitar-rock sound in a completely different direction, pioneering a "garage rock revival" movement, which further complicated the market for Mios's unique style. "Casi a la vez el mismo año salía el primer álbum de los strokes con lo cual resucitaba en cierto modo el sonido o rockero, el sonido guitarrero pero en una dirección completamente distinta." ← Music Radar Clan > La discografía de MUSE disco a disco, con lo bueno y con lo malo | https://www.youtube.com/watch?v=3Wax146ybgU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-strokes ← the-strokes
+**Is This It (2001)** : This album by The Strokes was ranked second in the 2001 Pazz & Jop Critics poll, finishing behind Bob Dylan's "Love and Theft" by a 2-1 margin in votes. The comparison highlights the critical acclaim both albums received and their standing in the music landscape of 2001. "Bob's 2001 votes were at a 2-1 margin over the second ranked is this it by the Strokes." ← Hit Parade Music History and Music Trivia > The Freewheelin’ Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **The New Abnormal (2020)** : The sixth Strokes record was released on April 10, 2020, amidst the COVID-19 pandemic, a timing that made its title particularly fitting. Produced by Rick Rubin in California and Hawaii, this change in producer and venue was exactly what the band needed. The album garnered great reviews and earned a Grammy Award for Best Rock Album. "This record was made with producer Rick Rubin in both California and Hawaii. And the change of producer and venue was exactly what the band needed." ← https://www.youtube.com/watch?v=jEfofyobGiI ← the-strokes
 **Room on Fire (2003)** : The second Strokes album began with producer Nigel Godrich but eventually reverted to Gordon Raphael. Released in October 2003, it featured the single "1251" with a distinctive guitar tone that became a signature sound for many Strokes songs, originating from a studio accident. While it didn't match "Is This It" commercially, it was a critical success and solidified the band's position in the Indy Rock Revival. "Room on Fire didn't do as well commercially as Is This It. But it was certainly a hit with the Quittix." ← https://www.youtube.com/watch?v=jEfofyobGiI ← the-strokes
 
@@ -163,6 +168,8 @@
 **The Strokes' Rapid Formation and Success** : Upon returning to New York, the band was formed and quickly achieved success. This rapid rise was attributed, in part, to the connections and social standing of its members. "cuando eres un tía, si defamos un importante, es fácil que te agarcaso." ← Music Radar Clan > The Strokes： Is this it y su portada censurada. | https://www.youtube.com/watch?v=v8ZKFPKtrII&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **The Strokes' Signing with RCA** : After a prolonged process involving a fierce bidding war among record labels, The Strokes ultimately signed with RCA. At the time, RCA was considered the second-largest record label in the world. "estos drogos acabaron fichando por la Recia, la Recia, después se vieron de la segunda escográfica más grande del mundo." ← Music Radar Clan > The Strokes： Is this it y su portada censurada. | https://www.youtube.com/watch?v=v8ZKFPKtrII&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Trust Fund Band – Most Members from Wealthy Families, Casablancas Money Bankrolled Early Career** : Almost every member of The Strokes came from wealthy backgrounds. Singer Julian Casablancas is the son of John Casablancas, head of the Elite Model Agency, home to Cindy Crawford, Linda Evangelista, Claudia Schiffer, Tyra Banks, Cameron Diaz, and Heidi Klum. Julian attended a private school in Switzerland where he met Albert Hammond Jr., the son of 1970s singer-songwriter Albert Hammond ("It Never Rains in Southern California"). Drummer Fabrizio Moretti's parents sent him to the Dwight School, a Manhattan prep school, where he met Julian and guitarist Nick Valensi — the only relatively modest-background member. Bassist Nikolai Fraiture grew up in a two-bedroom apartment with five relatives but still attended a prestigious bilingual school on the Upper West Side. The Casablancas family money funded the band's early gear and operations. "No wonder so many other bands were jealous." ← https://www.youtube.com/watch?v=SQtCQX5O1PE ← the-strokes
+**Capturing "Ladish Excitement"** : In the early Aughts, rock fans in England turned towards a new generation of American garage style bands led by The Strokes, who captured the "ladish excitement" formerly associated with Britpop. "rock fans in England seemed to turn away from British bands toward a new generation of American garage style bands led by the strokes. They captured the ladish excitement formerly presented by Britpop." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Avatars of New Rock Revival** : The Strokes were the leading avatars of what became known as the New Rock or Garage Rock Revival, emerging from New York City's fostering of post-punk acts. They generally didn't score top 40 hits but influenced the sound of new-vogue garage bands that bled into pop. "The strokes were the leading avatars of what became known as the New Rock or Garage Rock Revival." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Hard to Explain"/"New York City Cops" — UK Indie Singles Chart** : 2001. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart
@@ -170,8 +177,8 @@
 
 ## lists
 **"Is This It" (2001) — 1001 Albums You Must Hear Before You Die** : #935, 85 AOTY.
-**"Room on Fire" (2003) — AOTY Must Hear 2000s** : #328, 86 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Is This It" (2001) — AOTY Must Hear 2000s** : #451, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"The New Abnormal" (2020) — AOTY Must Hear 2020s** : #662, 75 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Is This It" (2001) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #114, 85 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Is This It" (2001) — Scaruffi 2000s** : #661, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Room on Fire" (2003) — AOTY Must Hear 2000s** : #328, 86 AOTY.
+**"Is This It" (2001) — AOTY Must Hear 2000s** : #451, 85 AOTY.
+**"The New Abnormal" (2020) — AOTY Must Hear 2020s** : #662, 75 AOTY.
+**"Is This It" (2001) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #114, 85 AOTY.
+**"Is This It" (2001) — Scaruffi 2000s** : #661, 7.0/10 Scaruffi.

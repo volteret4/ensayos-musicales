@@ -5,12 +5,20 @@
 - Pete Wentz
 
 ## genres
+- Alternative Rock
 - Emo
 - Emo Pop
+- Hardcore Punk
 - Pop
 - Pop Punk
 - Powerpop
 - Punk Rock
+
+## labels
+- (not mentioned in transcript)
+- Decadence
+- Fueled By Ramen
+- Island Records
 
 ## concerts
 - Warped Tour
@@ -19,7 +27,15 @@
 - Fender Precision Bass
 
 ## albums
+**Fall Out Boys Evening Out with Your Girlfriend** : Recorded approximately one year after the band's formation, this mini LP was Fall Out Boy's first release. The album featured songs with notably "snarky" and self-deprecating titles such as "Switch Blades and Infidelity," "The world's not waiting for five tired boys in a broken down van," "Parker Lewis can't lose, but I'm going to give it my best shot," and "Honorable Mention." Lead singer Patrick Stump initially wrote most of the album. "Their first mini LP, recorded about a year after the band's formation, was titled Fall Out Boys Evening Out with Your Girlfriend." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**From Under the Cork Tree (2005)** : Recorded between winter 2004 and 2005, "From Under the Cork Tree" was Fall Out Boy's major label debut. The album's title was inspired by "The Story of Ferdinand," a children's book about a bull who preferred to lie under a cork tree rather than participate in bullfights, serving as "a fine metaphor for emo itself." The album saw a clear division of labor with Patrick Stump writing all the music and Pete Wentz writing all the lyrics, resulting in "soaring melodies coupled with random, lyrically unrelated titles like Soft More Slump or Comeback of the Year." "It was named after a setting from the children's book The Story of Ferdinand, about a bull who preferred to lie under a quark tree than participate in bull fights, a fine metaphor for emo itself." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Save Rock and Roll (2013)** : This album marked Fall Out Boy's return from hiatus in 2013 and was presented as a significant exception to the general decline of pop punk. "Fallout Boy, who actually returned from Mahayatus in 2013 with an album that they called Save Rock and Roll." ← https://www.youtube.com/watch?v=sOU54d8mr5k ← fall-out-boy
+**Take This to Your Grave (2003)** : Released by Fueled By Ramen in 2003, "Take This to Your Grave" was Fall Out Boy's full-length debut and their "first and last full-length indie album." Pete Wentz's friend, Chicago punk artist Manny Mostoffi, described it as "sounding like hot topic, but feeling like CBGB." The album's success sparked a bidding war among major labels, leading to their signing with Island Records under a deal that allowed them to release their debut on Fueled By Ramen to build punk cred before moving to Island for their second album. "In 2003, fueled by Ramen, released Fall Out Boy's full-length debut album Take This to Your Grave, which Pete Wentz's friend, Manny Mostoffi, a fellow Chicago punk artist described as, quote, sounding like hot topic, but feeling like CBGB." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## songs
+**Dance, Dance (2006)** : "Dance, Dance" further cemented Fall Out Boy's status as a millennial favorite, reaching number nine on the Hot 100 by January 2006 and peaking even higher at number two on the modern rock chart, surpassing "Sugar, We're Going Down." Its video, featuring "formation dancing" in a high school gym, was a TRL favorite. The song's success also "kicked off an epic year for EMA, filled with frothy peaks and wordy song titles." "Dance dance not only confirmed fall out boy were among the millennial generation's favorite bands. It also kicked off an epic year for EMA, filled with frothy peaks and wordy song titles." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Sugar, We're Goin Down (2005)** : This song cracked the Top 10 on Billboard's Hot 100 sixteen years ago this week, having climbed the chart for nearly four months. It also rose on the modern rock chart for almost five months, reaching number three on the alt rock chart and number eight on the pop chart. The verbose chorus included the memorable line, "I'll be your number one with a bullet," and the song was instrumental in breaking Fall Out Boy as a band and helping establish the mini-genre of Emo. "The song sugar we're going down would reach number three on the alt rock chart and number eight on the pop chart." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Sugar, We're Going Down (2005)** : "Sugar, We're Going Down" was one of the last tracks written for "From Under the Cork Tree" but became its first single. Reprise Records initially resisted it, telling Pete Wentz and Patrick Stump "the chorus was too wordy and the guitars were too heavy, and that the radio wasn't going to play it." However, the label was wrong, as the song's "crunching guitars plus the inscrutable wordiness" made it work. It became "emo pop's signature hit," described as "rocking but also aching, punky but also poppy," and a showcase for Patrick Stump's "quintessential singing voice." It climbed the charts throughout summer 2005, cracking the modern rock top 10 by August and the Hot 100 top 10 a month later, eventually sitting near Green Day's "Wake Me Up When September Ends." "That's what made sugar we're going down, emo pop's signature hit, rocking but also aching, punky but also poppy, a showcase for Patrick Stump, possessor of what might be emo's quintessential singing voice, and by the way, radio certainly did play it." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Contemporary Powerpop (Possible)** : Fall Out Boy is tentatively included as a potential contemporary Powerpop band, indicating that elements of the genre might be found in their sound. This highlights the genre's pervasive influence and its presence, even if subtle, in various modern acts. "Well we have Jimmy Eat World, OkGo, All American Rejects, Simple Plan, maybe Fallout Boy." ← https://www.youtube.com/watch?v=hstJ8M2laho ← fall-out-boy ← fall-out-boy
@@ -36,6 +52,11 @@
 **Reunion for Touring** : Fall Out Boy was one of many bands from past decades that reunited in the 21st century, a trend largely motivated by financial incentives. With declining CD sales impacting artist revenues, returning to the touring circuit offered a lucrative way to appeal to nostalgic fan bases and fill large venues. "The list of reunions is long." ← https://www.youtube.com/watch?v=GYUuTbOvyak ← fall-out-boy
 **Shift Towards Pop** : In the late 2000s, as pure pop gained dominance, Fall Out Boy consciously decided to "err on the side of pop when it came to writing new tunes." This strategic shift aimed to adapt to changing mainstream music trends. "This was the direction taken by Fallout Boy." ← https://www.youtube.com/watch?v=pE7TaWSUa-o ← fall-out-boy
 **Third Wave Emo Chart Success** : Fall Out Boy was among the bands whose emo records achieved mainstream success during the third wave of emo (early 2000s), with their albums reaching the top 10 on charts. "Emo records from bands like...Fallout Boy... all rocketed into the top 10 on the album charts." ← https://www.youtube.com/watch?v=v_am7ifh7Pk ← fall-out-boy
+**Turn of the Millennium Scene Defining Band** : Fall Out Boy was one of the "punchy, bratty, brainy, and theatrical" bands that defined and redefined the parallel scenes of pop punk and emo around the turn of the millennium. "Green Day, the offspring, weezer, blink 182, Jimmy Eat World, Fallout Boy, Panic at the disco, My Chemical Romance, and Paramore." ← Hit Parade Music History and Music Trivia > I Got Five on It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Band Name Origin** : Fall Out Boy is named after a minor character on TV's *The Simpsons*. "fall out boy, named for a minor character on TV's The Simpsons" ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Songwriting Division of Labor** : As Fall Out Boy evolved, the songwriting responsibilities became clearly divided: Patrick Stump wrote all of the music for albums like "From Under the Cork Tree," while Pete Wentz, the band's bassist and de facto leader, wrote all of the lyrics. This division resulted in "soaring melodies coupled with random, lyrically unrelated titles like Soft More Slump or Comeback of the Year." "Patrick Stump wrote all of the albums music and Pete Wentz, all of the lyrics, a division of labor that resulted in soaring melodies coupled with random, lyrically unrelated titles like Soft More Slump or Comeback of the Year." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Band Members' Record Label** : Not long after signing with Island Records, Pete Wentz and Patrick Stump launched their own record label, "Decadence," spelled out as "decay dance." Operating as a subsidiary of Fueled By Ramen, this label proved "pivotal to the explosion of emo later on," particularly by signing bands like Panic! at the Disco. "Not long after their departure for island records, Pete Wentz and Patrick Stump launched their own label, Decadence spelled like decay dance, as a subsidiary of fueled by Ramen." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Patrick Stump Guest on Live from Darryl's House** : Patrick Stump, lead singer of Fall Out Boy and a fan of Hall and Oates, with a potent tenor voice echoing Darryl Hall's, guested on "Live from Darryl's House." He performed a cover of Fall Out Boy's hit "Sugar, We're Going Down" as a duet with Hall. "For example, Patrick Stump, lead singer of Fallout Boy, a fan of Hall and Oates whose potent tenor voice echoed Darryl Hall's, came to the house to do a cover of Fallout Boy's hit Sugar We're Going Down, as a duet with Hall." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Alternative Press Music Award for Artist of the Year** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q26256412
@@ -64,5 +85,5 @@
 **"Uma Thurman" — Billboard Year-End Hot 100** : #60, 2015. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Folie à Deux" (2008) — AOTY Must Hear 2000s** : #54, 68 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"So Much (for) Stardust" (2023) — Kerrang! The 50 Best Albums of 2023** : #17. ← musicbrainz | https://beta.musicbrainz.org/series/f1f98ed3-f88a-4aac-bf6c-cf63b60c9e6e
+**"Folie à Deux" (2008) — AOTY Must Hear 2000s** : #54, 68 AOTY.
+**"So Much (for) Stardust" (2023) — Kerrang! The 50 Best Albums of 2023** : #17.

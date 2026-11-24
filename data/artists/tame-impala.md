@@ -28,9 +28,9 @@
 **Modern "New Wave" Application** : The term "New Wave" has been re-applied in later periods to describe new waves of music, such as the new wave of modern psychedelia, exemplified by Tame Impala and similar artists. This demonstrates the term's recurring use for emerging musical movements that reinterpret existing genres. "la expresión New Wave se ha usado mucho para hacer referencia a la nueva oleada del Asico de Lea Moderna, pues por ejemplo de Tamín Pala y de toda esta gente." ← Music Radar Clan > Que es el New Wave | https://www.youtube.com/watch?v=jxaTsoSRXZE&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← tame-impala ← tame-impala
 
 ## lists
-**"Currents" (2015) — AOTY Must Hear 2010s** : #490, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Lonerism" (2012) — AOTY Must Hear 2010s** : #736, 86 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Currents" (2015) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #382, 83 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Currents" (2015) — Pitchfork: The 200 Best Albums of the 2010s** : #79, 83 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"Lonerism" (2012) — Pitchfork: The 200 Best Albums of the 2010s** : #130, 86 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"Lonerism" (2012) — Sputnikmusic Best Albums 2012** : #118, 86 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2012/
+**"Currents" (2015) — AOTY Must Hear 2010s** : #490, 83 AOTY.
+**"Lonerism" (2012) — AOTY Must Hear 2010s** : #736, 86 AOTY.
+**"Currents" (2015) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #382, 83 AOTY.
+**"Currents" (2015) — Pitchfork: The 200 Best Albums of the 2010s** : #79, 83 AOTY.
+**"Lonerism" (2012) — Pitchfork: The 200 Best Albums of the 2010s** : #130, 86 AOTY.
+**"Lonerism" (2012) — Sputnikmusic Best Albums 2012** : #118, 86 AOTY.

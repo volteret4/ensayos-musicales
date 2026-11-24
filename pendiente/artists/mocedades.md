@@ -10,6 +10,7 @@
 
 ## songs
 **Eres Tu (1974)** : Originally recorded for Spanish-speaking people, this song became a top 10 hit in 1974 after a new manager decided to release it internationally. It is sung entirely in Spanish and benefited from the wider spread of Hispanic culture in the US at the time. "Eris 2 became a top 10 hit in 1974." ← For the Record - The 70s > Ep. 25 - The Hispanic Influence on 70s Popular Music | https://seventies.libsyn.com/ep-25-the-hispanic-influence-on-70s-popular-music
+**Eres Tu (1974)** : This single by the Spanish group Mocedades represented Spain in the 1973 Eurovision competition, where it came in a very close second place. Although the band attempted an English version titled "Touch the Wind," American radio DJs preferred the original Spanish version, which subsequently reached number nine on the Hot 100 in March 1974. "Although the song's title translates in Spanish as its U, the band tried issuing it as an English language version with the unrelated title touch the wind." ← Hit Parade Music History and Music Trivia > La Vida Loca Edición | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **American TV Debut** : The group made their American television debut on American Bandstand in May 1974, following the international success of their song "Eres Tu." "They made their American TV debut on What Else, but American Bandstand in May of 1974." ← For the Record - The 70s > Ep. 25 - The Hispanic Influence on 70s Popular Music | https://seventies.libsyn.com/ep-25-the-hispanic-influence-on-70s-popular-music

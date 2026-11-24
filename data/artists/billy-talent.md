@@ -165,5 +165,5 @@
 **CASBY Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5008850
 
 ## lists
-**"Billy Talent II" (2006) — Juno Awards: Album of the Year** : #2007. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Billy Talent III" (2009) — Juno Awards: Album of the Year** : #2010. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
+**"Billy Talent II" (2006) — Juno Awards: Album of the Year** : #2007.
+**"Billy Talent III" (2009) — Juno Awards: Album of the Year** : #2010.

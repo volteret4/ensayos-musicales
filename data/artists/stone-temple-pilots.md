@@ -13,6 +13,7 @@
 - Alternative Rock
 - Grunge
 - Metal
+- Nouveau Punk
 - Nu Metal
 - Rock
 
@@ -163,10 +164,11 @@
 **Weiland Joins Velvet Revolver (Post-STP)** : Scott Weiland joined Velvet Revolver, formed with ex-Guns N' Roses members, which released two albums and toured for three years, managing "all those egos." "Meanwhile, Wyland ended up in Velvet Revolver with the ex-Gunz and Roses guys. And they did pretty well for two albums." ← https://www.youtube.com/watch?v=yR3xc3ra5tE ← stone-temple-pilots
 **Weiland's Departure and Support System Loss (Post-Stone Temple Pilots)** : After Scott Weiland was kicked out of Stone Temple Pilots, it was observed that he seemed to lose all his support systems. This loss of structure contributed to his subsequent struggles with manic episodes of paranoia and depression, highlighting the band's role as a form of stability for him. "Now it was bad enough when he was with Stone Temple Pilots, but when they kicked him out, it looked like all his support systems were gone." ← https://www.youtube.com/watch?v=sP75_gbZzIU ← stone-temple-pilots
 **Weiland's Legal Issues (1995-2008)** : Weiland's legal troubles began in 1995 with an arrest for attempting to buy crack. In 1998, he was jailed for a possession charge. In December 2007, he received another DUI charge, resulting in an 18-month alcohol rehab program, four years probation, and eight days in jail (of which he served about 10 hours). He attended rehab for three weeks in January 2008. "Starting in 1995, Wyland was in and out of rehab and in and out of jail, starting with a bust involving an attempt to buy some crack." ← https://www.youtube.com/watch?v=pAOFzQZPjSM ← stone-temple-pilots ← stone-temple-pilots
+**No Commercial Singles (1991-1994)** : From 1991 to 1994, Stone Temple Pilots, along with other leading Grunge and Nouveau Punk acts, released no commercial singles in America. "From 1991 to 1994, every leading Grunge and Nouveau punk act released no singles, from Soundgarden to Stone Temple Pilots." ← Hit Parade Music History and Music Trivia > Hit Parade - The Great War Against the Single Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
-**"Purple" (1994) — AOTY Must Hear 1990s** : #286, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Core" (1992) — AOTY Must Hear 1990s** : #363, 71 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Purple" (1994) — Scaruffi 1990s** : #1210, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Core" (1992) — Sputnikmusic Best Albums 1992** : #130, 71 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"Purple" (1994) — Sputnikmusic Best Albums 1994** : #131, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
+**"Purple" (1994) — AOTY Must Hear 1990s** : #286, 7.0/10 Scaruffi.
+**"Core" (1992) — AOTY Must Hear 1990s** : #363, 71 AOTY.
+**"Purple" (1994) — Scaruffi 1990s** : #1210, 7.0/10 Scaruffi.
+**"Core" (1992) — Sputnikmusic Best Albums 1992** : #130, 71 AOTY.
+**"Purple" (1994) — Sputnikmusic Best Albums 1994** : #131, 7.0/10 Scaruffi.

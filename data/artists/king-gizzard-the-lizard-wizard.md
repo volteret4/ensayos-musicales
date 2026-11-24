@@ -35,14 +35,14 @@
 **Prolific Output in 2017** : In 2017, King Gizzard & The Lizard Wizard released four, and possibly five, albums, a feat described as unprecedented. These albums were "very long," "super distinct," and "super eclectic," demonstrating an "incredible job." While not all were equally good, they all maintained a very high minimum quality. "nunca hemos vivido a alguien hacerse cuatro discos y van a hacer cinco a lo mejor salir quinto y hay cuatro discazos larquísimos súper distintos súper eclecdicos y han hecho un trabajo increíble en este 2017." ← Music Radar Clan > Discos que los subsciptores echasteis en falta en la lista de lo mejor del año y tenéis razón | https://www.youtube.com/watch?v=APPodZ7sl1w&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← king-gizzard-the-lizard-wizard
 
 ## lists
-**"Infest the Rats' Nest" (2019) — AOTY Must Hear 2010s** : #45, 72 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Polygondwanaland" (2017) — AOTY Must Hear 2010s** : #241, 75 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Flying Microtonal Banana" (2017) — AOTY Must Hear 2010s** : #332, 73 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Nonagon Infinity" (2016) — AOTY Must Hear 2010s** : #420, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"I'm in Your Mind Fuzz" (2014) — AOTY Must Hear 2010s** : #553, 76 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"PetroDragonic Apocalypse; or, Dawn of Eternal Night: An Annihilation of Planet Earth and the Beginning of Merciless Damnation" (2023) — AOTY Must Hear 2020s** : #315, 77 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Ice, Death, Planets, Lungs, Mushrooms and Lava" (2022) — AOTY Must Hear 2020s** : #392, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"I'm in Your Mind Fuzz" (2014) — Sputnikmusic Best Albums 2014** : #48, 76 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2014/
-**"Nonagon Infinity" (2016) — Sputnikmusic Best Albums 2016** : #32, 82 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2016/
-**"Polygondwanaland" (2017) — Sputnikmusic Best Albums 2017** : #61, 75 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2017/
-**"Flying Microtonal Banana" (2017) — Sputnikmusic Best Albums 2017** : #190, 73 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2017/
+**"Infest the Rats' Nest" (2019) — AOTY Must Hear 2010s** : #45, 72 AOTY.
+**"Polygondwanaland" (2017) — AOTY Must Hear 2010s** : #241, 75 AOTY.
+**"Flying Microtonal Banana" (2017) — AOTY Must Hear 2010s** : #332, 73 AOTY.
+**"Nonagon Infinity" (2016) — AOTY Must Hear 2010s** : #420, 82 AOTY.
+**"I'm in Your Mind Fuzz" (2014) — AOTY Must Hear 2010s** : #553, 76 AOTY.
+**"PetroDragonic Apocalypse; or, Dawn of Eternal Night: An Annihilation of Planet Earth and the Beginning of Merciless Damnation" (2023) — AOTY Must Hear 2020s** : #315, 77 AOTY.
+**"Ice, Death, Planets, Lungs, Mushrooms and Lava" (2022) — AOTY Must Hear 2020s** : #392, 81 AOTY.
+**"I'm in Your Mind Fuzz" (2014) — Sputnikmusic Best Albums 2014** : #48, 76 AOTY.
+**"Nonagon Infinity" (2016) — Sputnikmusic Best Albums 2016** : #32, 82 AOTY.
+**"Polygondwanaland" (2017) — Sputnikmusic Best Albums 2017** : #61, 75 AOTY.
+**"Flying Microtonal Banana" (2017) — Sputnikmusic Best Albums 2017** : #190, 73 AOTY.

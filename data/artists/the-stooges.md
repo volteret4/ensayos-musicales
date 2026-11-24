@@ -22,6 +22,7 @@
 - Post-Garage Rock
 - Powerful
 - Pre-punk
+- Proto Punk
 - Punk
 - Punk Rock
 - Punky
@@ -70,6 +71,7 @@
 **Raw Power (1973)** : One of three major label albums recorded between August 1969 and May 1973. During this period, the band's lineup shifted almost monthly. "The stooages recorded three major label albums between August 1969 and May 1973 with a line up shifting almost monthly." ← https://www.youtube.com/watch?v=OxctiPr0l-8 ← the-stooges ← the-stooges
 **Raw Power (1973)** : This album resulted from David Bowie convincing Iggy Pop, the Ashton brothers, and James Williamson to come to England to make a record for Columbia Records. Despite Bowie's connection and influence, the album struggled commercially, peaking at 182 on the Top 200 charts. However, it deeply inspired many artists, including a 16-year-old Johnny Lydon and Mick Jones (The Clash) who were at Iggy's first UK show, and Kurt Cobain who later called it his favorite album. "But the people who bought this record were inspired." ← https://www.youtube.com/watch?v=w-rihv544I8 ← the-stooges
 **Raw Power (1973)** : The title track from this 1973 album was performed by Iggy Pop and The Stooges in front of a violent biker gang, with bottles audibly smashing on stage during the performance. "Here they are doing the title track of their 1973 album, Raw Power." ← https://www.youtube.com/watch?v=6oUkMOkEr9U ← the-psychedelic-stooges
+**Raw Power (1973)** : This album, released in the spring of 1973, cracked the Billboard album chart and was produced by David Bowie. The Stooges, a Detroit band led by Iggy Pop, had been developing a punk style since the late 1960s, and this album helped pave the way for New York punk. "cracked the Billboard album chart in the spring of 73 with raw power." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **The Stooges (1969)** : This 1969 debut album from Iggy Pop and the Stooges is characterized as "very aggressive post garage rock." The band was known for being "drugged out, whacked out, and totally crazy" and was considered the most important of the post-Garage Rock bands, continuing to resonate when the original sound had largely faded. "Iggy Pop and the Stooges from their 1969 debut album, very aggressive post garage rock." ← Ongoing History of New Music > Alt Rock Revivals Part 4： Garage Rock | https://www.youtube.com/watch?v=UpWz3X33vSY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **The Stooges (1969)** : One of three major label albums recorded between August 1969 and May 1973. During this period, the band's lineup shifted almost monthly. "The stooages recorded three major label albums between August 1969 and May 1973 with a line up shifting almost monthly." ← https://www.youtube.com/watch?v=OxctiPr0l-8 ← the-stooges ← the-stooges
 **The Stooges (1969)** : This album was produced by John Cale of The Velvet Underground. Due to the band's inability to rehearse for more than 20 minutes, half the material was allegedly written the night before their first day in the studio, with old avant-garde ideas reworked into more coherent songs. The initial mix was rejected by Elektra president Jack Holtzman, who then re-mixed it himself, but despite this, the album did not sell well as it was considered too raw and primitive for most people at the time. "Nobody was making music that sounded like this." ← https://www.youtube.com/watch?v=w-rihv544I8 ← the-stooges
@@ -159,6 +161,7 @@
 **Steve McCay's Post-Stooges Work** : Saxophonist Steve McCay, who performed on the *Fun House* album, continued his career working with a variety of avant-garde performers. "Steve McCay, he was the saxophoneist who turned on the funhouse album, while he worked with a series of on-guard performers." ← https://www.youtube.com/watch?v=w-rihv544I8 ← the-stooges
 **The Complete Fun House Session Box Set** : A deluxe release titled "The Complete Funhouse Session" offers a comprehensive look into the recording process of the *Fun House* album. Priced at $100, it includes all recordings made during the album's production, including conversations between takes. "The complete funhouse session. A hundred bucks, and you get to hear everything that went on during the recording of that album, including all the talking between takes." ← https://www.youtube.com/watch?v=w-rihv544I8 ← the-stooges
 **Violent Breakup (1974)** : The Stooges ultimately "exploded" on February 9, 1974, amidst a chaotic "haze of heroin, insanity, and debt." "The Stooges finally exploded on February 9th 1974 in a haze of heroin, insanity, and debt." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← the-stooges ← the-stooges
+**Early "Punks"** : Led by Iggy Pop, The Stooges were quite literally regarded as "punks" in the late 60s and early 70s, even before "punk rock" became a recognized genre. "Or Detroit rockers the Stooges land by Iggy Pop they were quite literally regarded as punks in the late 60s and early 70s before punk rock was a thing." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Rock and Roll Hall of Fame (2010)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
@@ -166,11 +169,11 @@
 ## lists
 **"The Stooges" (1969) — 1001 Albums You Must Hear Before You Die** : #171.
 **"Fun House" (1970) — 1001 Albums You Must Hear Before You Die** : #199, 97 AOTY.
-**"Fun House" (1970) — AOTY Must Hear 1970s** : #243, 97 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Raw Power [Legacy Edition]" (2010) — AOTY Must Hear 2010s** : #928, 87 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Fun House" (1970) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #94, 97 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"The Stooges" (1969) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #488. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"The Stooges" (1969) — Scaruffi 1960s** : #40. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Fun House" (1970) — Scaruffi 1970s** : #129, 97 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Fun House" (1970) — Pitchfork: The 100 Best Albums of the 1970s** : #12, 97 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"The Stooges" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #20. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Fun House" (1970) — AOTY Must Hear 1970s** : #243, 97 AOTY.
+**"Raw Power [Legacy Edition]" (2010) — AOTY Must Hear 2010s** : #928, 87 AOTY.
+**"Fun House" (1970) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #94, 97 AOTY.
+**"The Stooges" (1969) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #488.
+**"The Stooges" (1969) — Scaruffi 1960s** : #40.
+**"Fun House" (1970) — Scaruffi 1970s** : #129, 97 AOTY.
+**"Fun House" (1970) — Pitchfork: The 100 Best Albums of the 1970s** : #12, 97 AOTY.
+**"The Stooges" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #20.

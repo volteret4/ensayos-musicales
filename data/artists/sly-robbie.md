@@ -16,7 +16,7 @@
 
 ## lists
 **"There’s a Riot Goin’ On" (1971) — 1001 Albums You Must Hear Before You Die** : #206.
-**"There’s a Riot Goin’ On" (1971) — AOTY Must Hear 1970s** : #192. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"There’s a Riot Goin’ On" (1971) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #82. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Greatest Hits" (1970) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #343. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"There’s a Riot Goin’ On" (1971) — Pitchfork: The 100 Best Albums of the 1970s** : #4. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
+**"There’s a Riot Goin’ On" (1971) — AOTY Must Hear 1970s** : #192.
+**"There’s a Riot Goin’ On" (1971) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #82.
+**"Greatest Hits" (1970) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #343.
+**"There’s a Riot Goin’ On" (1971) — Pitchfork: The 100 Best Albums of the 1970s** : #4.

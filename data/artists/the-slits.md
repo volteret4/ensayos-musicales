@@ -43,4 +43,4 @@
 
 ## lists
 **"Cut" (1979) — 1001 Albums You Must Hear Before You Die** : #440.
-**"Cut" (1979) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #260. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
+**"Cut" (1979) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #260.

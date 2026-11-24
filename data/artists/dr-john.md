@@ -1,9 +1,14 @@
 # artist - Dr. John
 
+## genres
+- Funk
+- New Orleans funk
+
 ## curiosities
 **Album Produced by Dan Auerbach** : Dan Auerbach produced a record for the acclaimed musician Dr. John, showcasing Auerbach's production talents outside of The Black Keys. "He did a record by Dr. John." ← https://www.youtube.com/watch?v=PmwfC4HR3_I ← dr-john
 **Fats Domino Tribute** : Dr. John was among the musicians who contributed to a tribute album dedicated to Fats Domino, an initiative launched to help rebuild Domino's home following its destruction by Hurricane Katrina, illustrating the high esteem in which Domino was held by his peers. "everyone from Elton John to Dr. John, from Paul McCartney to Robert Plant, will come together to record a tribute album to help raise funds to rebuild it." ← Episode 45： ＂Blueberry Hill＂, by Fats Domino | https://www.youtube.com/watch?v=VqIwZGJHgBg
 **Recognized Piano Player** : Dr. John is listed as a notable piano player in the broader context of popular music. His work contributes to the legacy of piano-driven sounds. "Dr. John Billy Preston, Stevie Wonder, Ray Manzeric of the Doors." ← https://www.youtube.com/watch?v=dJiSZ4X0F2g ← dr-john
+**Early 70s Collaboration with Toussaint** : Dr. John was referred to as a "Nola luminary" whose music, characterized by "gut bucket funk," was produced by Allen Toussaint during Toussaint's prolific period in the early 1970s. "Tussant was on something of a role in the early 70s, having produced fellow Nola luminary Dr. John." ← Hit Parade Music History and Music Trivia > Killing Me Softly Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Grammy Award for Best Blues Album** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5593750
@@ -16,6 +21,6 @@
 **"Right Place Wrong Time" — Billboard Year-End Hot 100** : #24, 1973. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Locked Down" (2012) — AOTY Must Hear 2010s** : #781, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"In The Right Place" (1973) — Scaruffi 1970s** : #257, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Plays Mac Rebennack" (1981) — Scaruffi 1980s** : #380, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Locked Down" (2012) — AOTY Must Hear 2010s** : #781, 83 AOTY.
+**"In The Right Place" (1973) — Scaruffi 1970s** : #257, 7.0/10 Scaruffi.
+**"Plays Mac Rebennack" (1981) — Scaruffi 1980s** : #380, 7.0/10 Scaruffi.

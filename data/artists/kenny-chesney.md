@@ -12,6 +12,7 @@
 
 ## curiosities
 **Publishing Rights Sale to Hypnosis Song Fund** : Country star Kenny Chesney sold his publishing rights to the Hypnosis Song Fund. "Hypnosis is bought publishing from... Countrystar Kenny Chesney" ← https://www.youtube.com/watch?v=Pe40SqDrpZ0 ← kenny-chesney
+**Top Tier Country Hitmaker** : Kenny Chesney was identified as one of the "top tier of country hitmakers" alongside whom Darius Rucker established himself in his early 40s after launching his country career. "Darius Rucker had established himself among the top tier of country hitmakers alongside the likes of Kenny Chesney, Toby Keith, and Rascal Flats." ← Hit Parade Music History and Music Trivia > A Little Love and Some Tenderness Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **American Music Award for Artist of the Year** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q19858055

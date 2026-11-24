@@ -14,6 +14,7 @@
 **Pivotal to British Punk** : Stiff Records was a label vital to the breakthrough and establishment of British punk music. Nick Lowe signed with the label to launch his solo career in 1976. "Stiff Records, which would be vital to the breakthrough of British punk." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
 **Promoter of DIY Punk** : Stiff Records was instrumental in promoting the "do it yourself" (DIY) punk ethos during the genre's formative years. "perhaps the most important label when it came to pushing DIY punk, do it yourself punk, in the infancy of that music." ← https://www.youtube.com/watch?v=dDcD8kg0wEk ← stiff-records
 **Sale to Island Records (1983)** : Due to financial difficulties and mismanagement, Stiff Records was sold off by 1983, with Island Records acquiring it. "Stiff was terrible at conducting business. They were irresponsible and they bled money and were sold off by 1983. And the buyer? Another indie. Island Records." ← https://www.youtube.com/watch?v=dDcD8kg0wEk ← stiff-records
+**UK Release for "We Got the Beat"** : The original 1980 version of The Go-Go's "We Got the Beat" was issued as a single by the UK pub and punk rock label Stiff Records, which helped bring the band underground credibility in the United Kingdom. "That's the original 1980 version of We Got the Beat, issued as a single by UK pub and punk rock label Stiff Records." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Elvis Costello
@@ -26,4 +27,4 @@
 - The Damned
 - The Pogues
 - The Pointed Sticks
-
+- The Go-Go's

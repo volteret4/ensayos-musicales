@@ -7,6 +7,7 @@
 - Kevin Shields
 
 ## genres
+- Abstract Melodies
 - Alt Rock
 - Dreampop
 - Fuzz
@@ -38,11 +39,13 @@
 **Loveless (1991)** : The band's second album, released in 1991, is widely regarded as the absolute classic of Shoegaze, a record that redefined guitar-based music, and one of the most influential works of the 1990s. Its production was an odyssey of chaos, extending over two and a half years and passing through 19 recording studios, bringing Creation Records to the brink of bankruptcy. Despite selling well, it initially fell far short of recouping its investment, partly due to its release only a month and a half after Nirvana's market-breaking album "Nevermind." Today, it is an undeniable and timeless classic. "Lofless nace del caos, la confusión y el agotamiento, según lo que se podría haber hecho de una forma mucho más fácil y con menos cabezonería, si Charles se hubiese dejado ayudar, pero este proceso no es un disco único y repetible." ← El disco imposible： La historia de Loveless y My Bloody Valentine | https://www.youtube.com/watch?v=q_SHNe_Ce9A
 **Loveless (1991)** : My Bloody Valentine issued the "tremendously influential loveless album" in 1991. "my bloody Valentine issues the tremendously influential loveless album" ← https://www.youtube.com/watch?v=Rf1tFWQg51Y ← my-bloody-valentine ← my-bloody-valentine
 **Loveless (1991)** : My Bloody Valentine's Loveless is considered the definitive shoegaze record, characterized by waves of distorted, floaty guitar noise designed to wash over the listener at high volume. It directly inspired a generation of British bands including Chapterhouse, Ride, and Lush. "My Bloody Valentine was a leader in this area and inspired a ton of followers." ← https://www.youtube.com/watch?v=B2ZbaaYx0MI ← my-bloody-valentine
+**Loveless (1991)** : This 1991 album, led by the minor modern rock hit "Only Shallow," perfected the shoegaze aesthetic and went on to influence generations of UK and US bands. "MBV's 1991 album Lovelace led by the minor modern rock hit Only Shallow would go on to influence generations of UK and US bands." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **m b v (2013)** : Released in 2013, against all odds, this album demonstrated that beneath layers of noise and beauty, the genius of My Bloody Valentine still pulsed. Its existence proved that a miracle could emerge from chaos, confirming the band's enduring creative power after a long hiatus following their seminal "Loveless" album. "En 2013, contra todo pronóstico, lanzaron Mbume, un disco que nos hizo ver que bajo capas de ruido y belleza, o un latil al genio de Maible de Valentine." ← El disco imposible： La historia de Loveless y My Bloody Valentine | https://www.youtube.com/watch?v=q_SHNe_Ce9A
 
 ## songs
 **Feed Me With Your Kiss** : This song is presented as an example of My Bloody Valentine's intense sound, which, when experienced live, was very hard on the ears and body but cool for those who surrendered to the sonic assault. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← my-bloody-valentine
 **Only Shallow (1981)** : This track by My Bloody Valentine, released on the Creation label, showcases the band's distinctive guitar noise and walls of sound that influenced countless other groups. While the transcript states "from 1981," it is widely accepted that Loveless, the album it appears on, was released in 1991. "My Bloody Valentine with Only Shallow from 1981, released on the Creation label." ← https://www.youtube.com/watch?v=VOv5mT1dJd8 ← my-bloody-valentine
+**Only Shallow (1991)** : This song was a minor modern rock hit and led My Bloody Valentine's influential 1991 album "Loveless." "MBV's 1991 album Lovelace led by the minor modern rock hit Only Shallow would go on to influence generations of UK and US bands." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Soon (1991)** : This track was featured on the "Glider" EP and eventually closed the "Loveless" album. To mix "Soon," sound engineer Al Molder was hired, notably being the only technician Kevin Shields trusted with simple tasks like mic'ing amplifiers during the tumultuous recording process of "Loveless." "Para mezclar Soon, el tema cabre el EP y que acabará cerrando Loveless contrataron al técnico de sonido al Almolder, el único técnico en el que Charles le confiará tareas sencillas, como la de mi clonjarnos amplificadores." ← El disco imposible： La historia de Loveless y My Bloody Valentine | https://www.youtube.com/watch?v=q_SHNe_Ce9A
 **To Here Knows When (1991)** : This song was part of the "Tremolo" EP and was also included on the "Loveless" album. The "Tremolo" EP was recorded at Protocol Studios during a period when the band was navigating various studios amid the chaotic production of "Loveless." "Se acomodan en los estudios protocol, donde graban el EP Termolo, el cual contiene Tu Gearnos Wend, que también formará a parte de Loveless." ← El disco imposible： La historia de Loveless y My Bloody Valentine | https://www.youtube.com/watch?v=q_SHNe_Ce9A
 
@@ -93,22 +96,23 @@
 **The Apocalypse Live Shows** : My Bloody Valentine has a reputation for performing brutally loud live shows. These concerts often culminate in a segment affectionately termed "the Apocalypse" by fans, which consists of up to 30 minutes of uninterrupted distortion and feedback. "My bloody Valentine has a reputation of playing brutally loud shows, culminating in something fans called the Apocalypse, which is up to 30 minutes of nothing but distortion and feedback." ← https://www.youtube.com/watch?v=iGav9uJwA_w ← my-bloody-valentine
 **Unusual Vocal Recording Sessions for "Loveless"** : The vocal tracks for "Loveless" were eventually recorded at Britannia Row studio, in sessions described as quite strange. Curtains were installed between the control room and the vocal booth, and the band members communicated with the technicians by simply sticking a hand through the curtain if a take was good. "Las sesiones eran un tanto extrañas, instalaron cortinas entre la sala de control y la cabina de voces." ← El disco imposible： La historia de Loveless y My Bloody Valentine | https://www.youtube.com/watch?v=q_SHNe_Ce9A
 **Wall of Fuzz and Feedback** : My Bloody Valentine is renowned for taking the use of fuzz, feedback, and distortion to new levels, which laid the foundational groundwork for the shoegaze genre. This genre, characterized by its immersive soundscapes, would be impossible to create without these extreme sonic elements. "Their wall of fuzz and feedback and distortion took things to new levels, creating the foundations of shoegase, a genre that could not exist without these sounds." ← https://www.youtube.com/watch?v=iGav9uJwA_w ← my-bloody-valentine
+**Shoegaze Perfection** : By the early 1990s, My Bloody Valentine perfected the shoegaze aesthetic, with leader Kevin Shields sculpting abstract melodies through a wall of aggressive feedback. "By the early 90s the Shugays aesthetic had been perfected by the Dublin based My Bloody Valentine whose leader Kevin Shields sculpted abstract melodies through a wall of aggressive feedback." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Isn’t Anything" (1988) — 1001 Albums You Must Hear Before You Die** : #621.
 **"Loveless" (1991) — 1001 Albums You Must Hear Before You Die** : #684, 9.0/10 Scaruffi.
-**"you made me realise" (1988) — AOTY Must Hear 1980s** : #31, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Loveless" (1991) — AOTY Must Hear 1990s** : #383, 9.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"tremolo" (1991) — AOTY Must Hear 1990s** : #408, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"m b v" (2013) — AOTY Must Hear 2010s** : #716. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Loveless" (1991) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #73, 9.0/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Isn’t Anything" (1988) — Scaruffi 1980s** : #80. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Loveless" (1991) — Scaruffi 1990s** : #6, 9.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Loveless" (1991) — Pitchfork: The 150 Best Albums of the 1990s** : #1, 9.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Isn’t Anything" (1988) — Pitchfork: The 200 Best Albums of the 1980s** : #58. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
-**"Loveless" (1991) — Pitchfork: The 50 Best Shoegaze Albums of All Time** : #1, 9.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/cd0eaf20-0895-4745-aefe-2c5e00084827
-**"Isn’t Anything" (1988) — Pitchfork: The 50 Best Shoegaze Albums of All Time** : #4. ← musicbrainz | https://beta.musicbrainz.org/series/cd0eaf20-0895-4745-aefe-2c5e00084827
-**"m b v" (2013) — Pitchfork: The 50 Best Shoegaze Albums of All Time** : #14. ← musicbrainz | https://beta.musicbrainz.org/series/cd0eaf20-0895-4745-aefe-2c5e00084827
-**"Glider" (1990) — Sputnikmusic Best Albums 1990** : #112, 3.93 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"Loveless" (1991) — Sputnikmusic Best Albums 1991** : #2, 9.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"tremolo" (1991) — Sputnikmusic Best Albums 1991** : #59, 90 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
+**"you made me realise" (1988) — AOTY Must Hear 1980s** : #31, 90 AOTY.
+**"Loveless" (1991) — AOTY Must Hear 1990s** : #383, 9.0/10 Scaruffi.
+**"tremolo" (1991) — AOTY Must Hear 1990s** : #408, 90 AOTY.
+**"m b v" (2013) — AOTY Must Hear 2010s** : #716.
+**"Loveless" (1991) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #73, 9.0/10 Scaruffi.
+**"Isn’t Anything" (1988) — Scaruffi 1980s** : #80.
+**"Loveless" (1991) — Scaruffi 1990s** : #6, 9.0/10 Scaruffi.
+**"Loveless" (1991) — Pitchfork: The 150 Best Albums of the 1990s** : #1, 9.0/10 Scaruffi.
+**"Isn’t Anything" (1988) — Pitchfork: The 200 Best Albums of the 1980s** : #58.
+**"Loveless" (1991) — Pitchfork: The 50 Best Shoegaze Albums of All Time** : #1, 9.0/10 Scaruffi.
+**"Isn’t Anything" (1988) — Pitchfork: The 50 Best Shoegaze Albums of All Time** : #4.
+**"m b v" (2013) — Pitchfork: The 50 Best Shoegaze Albums of All Time** : #14.
+**"Glider" (1990) — Sputnikmusic Best Albums 1990** : #112, 3.93 Sputnik.
+**"Loveless" (1991) — Sputnikmusic Best Albums 1991** : #2, 9.0/10 Scaruffi.
+**"tremolo" (1991) — Sputnikmusic Best Albums 1991** : #59, 90 AOTY.

@@ -21,10 +21,10 @@
 **One-Hit Wonders in Classical Music** : Classical music also features its share of "one-hit wonders," composers largely known for a single, ubiquitous piece despite having created a vast body of work. Johann Pachelbel with "Canon in D" is a prime example, alongside figures like Jeremiah Clark, Samuel Barber, and Thomas Albinoni. "There's a whole subset of classical music fans devoted to these kinds of one hit wonders. They'll bring up names like Jeremiah Clark, Samuel Barner and Thomas Albionini." ← Ongoing History of New Music > Great Alt-Rock One-Hit Wonders of the 90s： Part 2 | https://www.youtube.com/watch?v=SOAL0GODN3M&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Palestinian Detainee Torture** : Reports from Israel indicated that Palestinian detainees were tied to tiny chairs with hoods over their heads and blasted with classical music at high volume as a form of interrogation and torture. "Also from Israel, there were reports of Palestinian detainees being tied to tiny chairs with hoods over their heads and blasted with classical music at high volume." ← Ongoing History of New Music > Using Music as a Weapon | https://www.youtube.com/watch?v=R1wdsGt07Gg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **The Mozart Effect Controversy** : Classical music became central to the "Mozart effect" theory, which proposed it could enhance infant intellect. This led to state-funded initiatives like Georgia providing classical music CDs to newborns. However, later research challenged the exclusivity of classical music's benefits, suggesting other forms of stimulation yielded similar results. ← Ongoing History of New Music > Medical Mysteries of Music | https://www.youtube.com/watch?v=BHN6db7m3DM&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**John Lennon's Stated Preference** : In an interview with David Schaff for Playboy just before his death, John Lennon claimed that classical music was all he had been listening to for some time. "He says that he's all he's been listening to is music and classical music." ← Hit Parade Music History and Music Trivia > The Posthumous Hits Edition, Live from Seattle | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Alessandro Stradella
 - David Bowie
 - Johann Sebastian Bach
 - Massive Attack
-

@@ -6,7 +6,9 @@
 ## genres
 - Mod
 - Mod Culture
+- Mod Punk
 - Mod Revival
+- Mod Rock
 - New Wave
 - Pop
 - Post-Punk
@@ -21,6 +23,7 @@
 ## songs
 **Art School (1977)** : This song is the first track on side one of their 1977 debut album, "In The City." "The jam and art school, side one, track one from their 1977 album In The City." ← https://www.youtube.com/watch?v=gKrAXMG8sTc ← the-jam
 **Down in the Tube Station at Midnight** : This song exemplifies the sound of The Jam, recognized as the foremost British Mod Revival band. The band was pivotal in the 1970s revival, adopting mod attitudes and aesthetics within the post-punk era. "The jam, the greatest of the British mod revival bands with down in the Tube Station at midnight." ← https://www.youtube.com/watch?v=mAlc-N2wn5s ← the-jam ← the-jam
+**Town Called Malice (1982)** : This UK number one hit by The Jam featured a replica of James Jamerson's signature baseline from The Supremes' "You Can't Hurry Love," demonstrating the popularity of this particular bass motif in 1982. "Replicas of the Jamerson baseline appeared in hits by the Jam on their UK number one town called Malice." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Box Set Demo Contributions** : The Jam has benefited from including demo versions in their box set collections, leveraging this format to release previously unheard material. "David Bowie, the cure, the jam, the remones, joy division, the velvet underground, the smashing pumpkins, they've all benefited from putting demo versions into their box set collections." ← https://www.youtube.com/watch?v=zT6pRGYLWhw ← the-jam
@@ -44,6 +47,7 @@
 **Paul Weller's Influence** : Initially an R&B band, The Jam shifted direction after singer Paul Weller witnessed a Sex Pistols show. While embracing punk's energy, they distinguished themselves by also showing respect for British mod culture of the 1960s, rather than adhering to a pure "destroy everything" punk ethos. "After singer Paul Weller saw a Sex Pistols show, he steered things in a slightly different direction." ← https://www.youtube.com/watch?v=gKrAXMG8sTc ← the-jam
 **Punk Attitude, Pop Sound** : The Jam's overall attitude was definitively influenced by the punk scene, yet their sound was distinctly pop-oriented. They covered a wide array of material, from old Stax and Motown records to The Kinks and even the original Batman theme, successfully achieving their own significant hits on the pop charts. "Their attitude was definitely influenced by the punk scene but their sound was very pop." ← https://www.youtube.com/watch?v=tZV1lz-obQE ← the-jam
 **Radio Airplay in Brandon, Manitoba** : The Jam was among the eclectic mix of music played by KX96, a radio station in Brandon, Manitoba, where the speaker worked in 1983. This station exposed him to a broader range of artists beyond standard rock. "but there'd be Aztec camera. There would be the jam. There would be the clash." ← https://www.youtube.com/watch?v=4xxgPX-aR90 ← the-jam
+**Mod Rock Influence** : The mod rock of The Jam influenced Britpop, connecting the movement to earlier British rock styles characterized by sharp imagery and catchy, energetic music. "And the mod rock of the jam." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"494" — NME Chart** : 29 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

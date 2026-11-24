@@ -5,6 +5,8 @@
 - Rat Scabies
 
 ## genres
+- British Punk
+- Catchy Punk
 - Garage Rock
 - Post-Punk
 - Punk
@@ -40,7 +42,8 @@
 **Vampire Persona** : Dave Vanian, the singer of the punk band The Damned, sometimes claimed to be a vampire, which was noted as an interesting detail in the context of the emerging Goth scene. "Some remembered that Dave Vainian of the punk band The Damned, sometimes claimed to be a vampire, which, and I was pretty interesting." ← https://www.youtube.com/watch?v=gd9sO7c3N1s ← the-damned
 **Vampire Persona** : Dave Vanian, the frontman of the punk band The Damned, sometimes claimed to be a vampire, which added an interesting, dark, and theatrical element that was aligned with emerging goth sensibilities. "And some remember the Dave Vainian of the punk band The Damned, sometimes claimed to be a vampire, which was interesting." ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← the-damned
 **Witnessing The Ramones (July 4, 1976)** : The Damned, who would become the first British punk band to release a record, were present at The Ramones' July 4, 1976 gig at the Roundhouse in London. They were among those "transformed by what they saw and heard." "the damn who would become the first British punk band to release a record... They were all at these gigs and they were all transformed by what they saw and heard." ← https://www.youtube.com/watch?v=huAvyInzz3Q ← the-damned
+**First Wave Catchy Punk** : The Damned are mentioned as a British band from the first wave of catchy punk, alongside The Buzzcocks, whose sound critics suggest Billy Joe Armstrong emulated. "Several were British, including the aforementioned Buzzcocks as well as The Dan." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Machine Gun Etiquette" (1979) — 1001 Albums You Must Hear Before You Die** : #449.
-**"Damned Damned Damned" (1977) — Scaruffi 1970s** : #237, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Damned Damned Damned" (1977) — Scaruffi 1970s** : #237, 7.0/10 Scaruffi.

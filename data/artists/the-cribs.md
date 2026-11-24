@@ -17,4 +17,4 @@
 **UK and European Success** : The Cribs achieved substantial stardom within the UK and Europe, selling numerous records and earning many awards, even though they did not manage to become big outside of these regions. "The cribs never managed to make it big outside the UK and Europe, but they were substantial stars at home, selling plenty of records and winning a whack of awards." ← https://www.youtube.com/watch?v=gxbuajGKbko ← the-cribs
 
 ## lists
-**"Night Network" (2020) — AOTY Must Hear 2020s** : #602, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
+**"Night Network" (2020) — AOTY Must Hear 2020s** : #602, 82 AOTY.

@@ -16,4 +16,4 @@
 **"Hablemos del amor" — Spain Singles Chart** : #1, 1967. ← Wikipedia | https://en.wikipedia.org/wiki/Promusicae
 
 ## lists
-**"Angels Of The Deep" (1995) — Scaruffi 1990s** : #1077, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Angels Of The Deep" (1995) — Scaruffi 1990s** : #1077, 7.0/10 Scaruffi.

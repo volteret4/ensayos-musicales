@@ -14,6 +14,6 @@
 **Artist in 2010s Psych Resurgence** : Mac DeMarco was mentioned as one of the artists contributing to the resurgence of Psychedelic or Psych Rock in the 2010s. This genre, which was born in the 1960s and fell out of favor in the 70s, saw a significant comeback during the decade. "We saw artists like Ariel Pink, King Gizzard and the Lizard Wizard, Temples, the Black Angels, Unknown Mortal Orchestra, Animal Collective, War on Drugs, and Mac DeMarco." ← https://www.youtube.com/watch?v=HSvgRyGiOpE ← mac-demarco
 
 ## lists
-**"This Old Dog" (2017) — AOTY Must Hear 2010s** : #307, 78 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Salad Days" (2014) — AOTY Must Hear 2010s** : #606, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"2" (2012) — Pitchfork: The 200 Best Albums of the 2010s** : #149. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
+**"This Old Dog" (2017) — AOTY Must Hear 2010s** : #307, 78 AOTY.
+**"Salad Days" (2014) — AOTY Must Hear 2010s** : #606, 80 AOTY.
+**"2" (2012) — Pitchfork: The 200 Best Albums of the 2010s** : #149.

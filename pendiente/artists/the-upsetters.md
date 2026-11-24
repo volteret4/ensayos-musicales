@@ -9,7 +9,7 @@
 **Studio Recording with Little Richard** : After Specialty Records finally allowed Little Richard to use his own band, The Upsetters, in the studio, they recorded the song "Keep a-Knockin'" together in early 1957. "And when they finally let him use the upsets in the studio, he recorded a song which had roots which go much further back than you might imagine." ← Episode 54： Keep A Knockin | https://www.youtube.com/watch?v=oA4Y_K9E5Y4
 
 ## lists
-**"Super Ape" (1976) — Scaruffi 1970s** : #115, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Blackboard Jungle" (1973) — Scaruffi 1970s** : #544, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Bucky Skank / Yucky Skank" — John Peel's Record Box** : #117. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
-**"Key Card / Domino Games" — John Peel's Record Box** : #118. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
+**"Super Ape" (1976) — Scaruffi 1970s** : #115, 7.5/10 Scaruffi.
+**"Blackboard Jungle" (1973) — Scaruffi 1970s** : #544, 7.0/10 Scaruffi.
+**"Bucky Skank / Yucky Skank" — John Peel's Record Box** : #117.
+**"Key Card / Domino Games" — John Peel's Record Box** : #118.

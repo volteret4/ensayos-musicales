@@ -6,4 +6,4 @@
 
 ## lists
 **"Haunted Dancehall" (1994) — 1001 Albums You Must Hear Before You Die** : #761.
-**"Sabresonic" (1993) — Scaruffi 1990s** : #1121, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Sabresonic" (1993) — Scaruffi 1990s** : #1121, 7.0/10 Scaruffi.

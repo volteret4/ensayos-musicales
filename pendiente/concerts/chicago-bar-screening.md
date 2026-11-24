@@ -1,0 +1,5 @@
+# concert - Chicago bar screening
+
+## curiosities
+**Post-Cancellation Success** : Three days after the "Yacht Rock" web series was canceled by the Channel 101 audience, a bar in Chicago requested to screen it. This Monday night event was unexpectedly packed "to capacity," with a "line out the door and like around the block a little bit," and attendees wearing captain's hats and quoting lines from the show. "We get a call from this bar in Chicago that wanted to screen it." ← Hit Parade Music History and Music Trivia > The Bridge - Yacht Or Nyacht | https://my.slate.com/podcasts/feeds/hit-parade/
+**Validation of "Steely Dan versus Eagles" Episode** : The "Steely Dan versus Eagles" episode, which had performed poorly at Channel 101, was a "huge hit" with the Chicago crowd. This event demonstrated that the series and its genre had a life beyond its original online platform and appealed to a dedicated fanbase. "And our episode that did poorly at channel 101 and got voted out was a huge hit with this Chicago crowd." ← Hit Parade Music History and Music Trivia > The Bridge - Yacht Or Nyacht | https://my.slate.com/podcasts/feeds/hit-parade/

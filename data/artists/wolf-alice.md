@@ -21,7 +21,7 @@
 **Inspiring Young Musicians** : Ellie actively inspires young women to play guitar; for example, at one gig, a 15-year-old girl named Jade played her guitar part on stage and "wowed the audience." Rowsell notes that every night, a young woman approaches her, crediting her for inspiring them to pick up the guitar. "And so when Gignette came around, a 15-year-old girl named Jade came up on stage, took Ellie's guitar and wowed the audience. ... Ellie says that every night some young woman comes up to her and says, hey, it's because of you I'm playing the guitar." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← wolf-alice
 
 ## lists
-**"Visions of a Life" (2017) — AOTY Must Hear 2010s** : #255, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"My Love is Cool" (2015) — AOTY Must Hear 2010s** : #496, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"The Clearing" (2025) — AOTY Must Hear 2020s** : #59, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Blue Weekend" (2021) — AOTY Must Hear 2020s** : #549, 87 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
+**"Visions of a Life" (2017) — AOTY Must Hear 2010s** : #255, 82 AOTY.
+**"My Love is Cool" (2015) — AOTY Must Hear 2010s** : #496, 80 AOTY.
+**"The Clearing" (2025) — AOTY Must Hear 2020s** : #59, 83 AOTY.
+**"Blue Weekend" (2021) — AOTY Must Hear 2020s** : #549, 87 AOTY.

@@ -41,9 +41,9 @@
 
 ## lists
 **"Spiderland" (1991) — 1001 Albums You Must Hear Before You Die** : #700, 9.0/10 Scaruffi.
-**"[untitled]" (1994) — AOTY Must Hear 1990s** : #275, 75 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Spiderland" (1991) — AOTY Must Hear 1990s** : #405, 9.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Tweez" (1989) — Scaruffi 1980s** : #113, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Spiderland" (1991) — Scaruffi 1990s** : #10, 9.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Spiderland" (1991) — Pitchfork: The 150 Best Albums of the 1990s** : #83, 9.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Spiderland" (1991) — Sputnikmusic Best Albums 1991** : #4, 9.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
+**"[untitled]" (1994) — AOTY Must Hear 1990s** : #275, 75 AOTY.
+**"Spiderland" (1991) — AOTY Must Hear 1990s** : #405, 9.0/10 Scaruffi.
+**"Tweez" (1989) — Scaruffi 1980s** : #113, 8.0/10 Scaruffi.
+**"Spiderland" (1991) — Scaruffi 1990s** : #10, 9.0/10 Scaruffi.
+**"Spiderland" (1991) — Pitchfork: The 150 Best Albums of the 1990s** : #83, 9.0/10 Scaruffi.
+**"Spiderland" (1991) — Sputnikmusic Best Albums 1991** : #4, 9.0/10 Scaruffi.

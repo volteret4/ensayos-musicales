@@ -4,14 +4,19 @@
 - Orange Juice
 
 ## genres
+- Gen X Alt Rock
 - New Pop
+- Post-punk
 
 ## albums
+**Empire Records Soundtrack (1995)** : "A Girl Like You" appeared on the soundtrack of the film "Empire Records." "whose Groovy 60s style hit A Girl Like You made the soundtrack of the film Empire Records." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Gorgeous George (1994)** : This album featured Edwin Collins' massive worldwide hit, "A Girl Like You." "Huge hit from his album Gorgeous George." ← https://www.youtube.com/watch?v=NQgn0_mUh74 ← edwin-collins ← edwin-collins
 
 ## songs
 **A Girl Like You (1994)** : This song became a massive worldwide hit for Edwin Collins in 1994. "Edwin had a massive worldwide hit with this one in 1994. That's Edwin Collins and a girl like you." ← https://www.youtube.com/watch?v=NQgn0_mUh74 ← edwin-collins ← edwin-collins
 **A Girl Like You (1994)** : "A Girl Like You" by Edwin Collins was one of two legitimate hits from the soundtrack of the 1995 movie *Empire Records*. The film, starring Liv Tyler and Renée Zellweger, featured numerous tracks from the 80s and 90s, with 16 included on the soundtrack CD. "And there were two legitimate hits, till I hear it from you by the Jim Blossoms and a girl like you from Edwin Collins." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← edwin-collins
+**A Girl Like You (1994)** : This "Groovy 60s style" hit from the veteran of 80s band Orange Juice was the closest thing to a Britpop hit on the US charts in 1995. Its exposure from the "Empire Records" film soundtrack led it into the Hot 100's Top 40 and the Modern Rock Top 10. "Oddly, the closest thing to a Britpop hit on the US charts in 1995 came from Scotland's Edwin Collins, a veteran of the 80s band Orange Juice, whose Groovy 60s style hit A Girl Like You made the soundtrack of the film Empire Records." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**A Girl Like You (1994)** : This "groovy" song by Scottish post-punk artist Edwin Collins, formerly of Orange Juice, was a number 32 hit in 1995. "Scottish post bunker and former orange juice leader Edwin Collins with his groovy 1995 number 32 hit a girl like you." ← Hit Parade Music History and Music Trivia > One and Done, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Brain Surgery and Post-Stroke Speech (2005)** : Less than a week after his hemorrhages, Edwin underwent brain surgery to relieve pressure in his skull. For weeks afterward, he could only utter four phrases: "Yes," "No," "Grace Maxwell" (his wife's name), and "The possibilities are endless." "for weeks afterwards, he could only say four things. Yes, no. Grace Maxwell, which is the name of his wife, and weirdly, the possibilities are endless." ← https://www.youtube.com/watch?v=NQgn0_mUh74 ← edwin-collins ← edwin-collins
@@ -24,6 +29,7 @@
 **Miraculous Recovery Aided by Wife** : Despite a poor prognosis, Edwin made a remarkable recovery, largely attributed to the unwavering support of his wife, Grace Maxwell. She developed a recovery method involving drawing and writing in notebooks, tasks Edwin had to perform left-handed because the strokes had rendered his right hand useless. "Prognosis was poor, but he pulled through largely because of the incredible support he got from his wife." ← https://www.youtube.com/watch?v=trMzjWWmbZo ← edwin-collins ← edwin-collins
 **Musical Comeback (After 4 Years)** : It took four long years for Edwin Collins to slowly return to music. Although his right hand was impaired, preventing him from strumming a guitar, he could still form chords, and he eventually resumed recording, releasing a couple of new albums. "Slowly he was able to get back into music. It took four long years. He couldn't strum his guitar anymore because of that bum right hand, but he can still form chords." ← https://www.youtube.com/watch?v=NQgn0_mUh74 ← edwin-collins ← edwin-collins
 **Speech vs. Singing Anomaly** : Following his strokes, Edwin experienced significant stuttering when speaking. However, remarkably, when he sang, his stutter completely disappeared. "He still has trouble speaking, Edwin stutters a lot. But when he starts to sing, there's not a stutter to be heard." ← https://www.youtube.com/watch?v=NQgn0_mUh74 ← edwin-collins ← edwin-collins
+**Gen X Alt Rock Presence (1995)** : Edwyn Collins was one of the Gen X Alt Rock artists frequently heard on the radio, including on nominal Top 40 pop stations, during a drive to Charlottesville in September 1995, signifying the genre's mainstream dominance. "...Edwin Collins..." ← Hit Parade Music History and Music Trivia > Feet on the Ground, Reaching for the Stars Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
-**"Gorgeous George" (1994) — Pitchfork: The 50 Best Britpop Albums** : #44. ← musicbrainz | https://beta.musicbrainz.org/series/cd7ebb70-d88f-4f74-b6de-3a00bf2a162c
+**"Gorgeous George" (1994) — Pitchfork: The 50 Best Britpop Albums** : #44.

@@ -24,6 +24,7 @@
 **Discovered by John Hammond** : Billy Holiday was one of the legendary artists discovered by John Hammond. "he'd been the person to discover Billy Holiday, and Count Basie, and Charlie Christian." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
 **Rising Star with Count Basie** : Billy Holiday was a new vocalist for Count Basie's band at a time when she was just starting to become a star. "Billy Holiday, who was just then becoming a star." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
 **Discovered by John Hammond** : Billy Holiday was among the staggering roster of artists discovered by legendary talent scout, record producer, and label executive John Hammond. ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4eef8e6dd12efb02c3c9
+**Homage in "Angel of Harlem"** : U2's song "Angel of Harlem" from *Rattle and Hum* is described as a "horn inflected, worshipfully hokey homage" to the legendary jazz singer Billie Holiday. "a horn inflected, worshipfully hokey homage to Billie Holiday." ← Hit Parade Music History and Music Trivia > With or Without U2 Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761
@@ -43,4 +44,4 @@
 
 ## lists
 **"Lady in Satin" (1958) — 1001 Albums You Must Hear Before You Die** : #16.
-**"Lady in Satin" (1958) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #317. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
+**"Lady in Satin" (1958) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #317.

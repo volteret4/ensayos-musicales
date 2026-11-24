@@ -1,5 +1,8 @@
 # artist - Jane Fonda
 
+## albums
+**Workout (1981)** : Jane Fonda's 1981 book, *Workout*, was instrumental in fueling the widespread aerobics craze that dominated American culture by mid-1981. This cultural phenomenon was so significant that it earned a cover story on Time Magazine. "Fueled by the release of Jane Fonda's 1981 book, Workout, by mid-81, The Aerobics Cray's was on the cover of Time Magazine, and dominating American culture." ← Hit Parade Music History and Music Trivia > Without The Beatles | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **Chelsea Hotel Resident** : Actress Jane Fonda was a resident at the Chelsea Hotel, a historic landmark in Manhattan. "and Jane Fonda." ← https://www.youtube.com/watch?v=LE4YenwmeXM ← jane-fonda ← jane-fonda
 **Chelsea Hotel Resident** : Actress Jane Fonda was a resident at the Chelsea Hotel, a historic landmark in Manhattan. "and Jane Fonda." ← https://www.youtube.com/watch?v=LE4YenwmeXM ← jane-fonda

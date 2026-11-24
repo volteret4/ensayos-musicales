@@ -33,7 +33,7 @@
 ## lists
 **"Superfuzz Bigmuff" (1988) — 1001 Albums You Must Hear Before You Die** : #615, 7.0/10 Scaruffi.
 **"Every Good Boy Deserves Fudge" (1991) — 1001 Albums You Must Hear Before You Die** : #694, 7.0/10 Scaruffi.
-**"Mudhoney" (1989) — Scaruffi 1980s** : #583, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Superfuzz Bigmuff" (1988) — Scaruffi 1980s** : #866, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Every Good Boy Deserves Fudge" (1991) — Scaruffi 1990s** : #958, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Every Good Boy Deserves Fudge" (1991) — Sputnikmusic Best Albums 1991** : #165, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
+**"Mudhoney" (1989) — Scaruffi 1980s** : #583, 7.0/10 Scaruffi.
+**"Superfuzz Bigmuff" (1988) — Scaruffi 1980s** : #866, 7.0/10 Scaruffi.
+**"Every Good Boy Deserves Fudge" (1991) — Scaruffi 1990s** : #958, 7.0/10 Scaruffi.
+**"Every Good Boy Deserves Fudge" (1991) — Sputnikmusic Best Albums 1991** : #165, 7.0/10 Scaruffi.

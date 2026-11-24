@@ -15,4 +15,4 @@
 **Notable Collaborations** : Múm's album "Dimensional People" includes interesting collaborations with artists such as Ibero, De Nacional, and Peirut. The band has maintained a prolific history of collaborative work between their own album releases. "hay colaboraciones interesantes en este disco de mausón mars porque va a colaborar con iber va a colaborar de nacional no me viene más pero si peirut va también a colaborar en este disco de van de mausón mars." ← Music Radar Clan > Lanzamientos ABRIL 2018 | https://www.youtube.com/watch?v=3_SAz8OxeIA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← múm
 
 ## lists
-**"Yesterday Was Dramatic - Today Is OK" (2001) — Sputnikmusic Best Albums 2000** : #177. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2000/
+**"Yesterday Was Dramatic - Today Is OK" (2001) — Sputnikmusic Best Albums 2000** : #177.

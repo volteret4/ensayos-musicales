@@ -44,9 +44,9 @@
 **Short Song Format Philosophy** : MF Doom advocated for a philosophy in his music that emphasizes conciseness: "what you can say in two minutes, don't say in eight." This approach resulted in albums like Madvillainy featuring over 20 incredibly short songs, each with clear arguments and concise lyrics, in stark contrast to the longer, verse-heavy tracks common in rap. "la filosofía que siempre ha defendido el mezón es que lo que puedas decir en dos minutos no lo digas en ocho." ← Music Radar Clan > MF DOOM. Repaso de un genio | https://www.youtube.com/watch?v=vTqwHtjW410&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## lists
-**"Operation: Doomsday" (1999) — AOTY Must Hear 1990s** : #12, 72 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Born Like This" (2009) — AOTY Must Hear 2000s** : #41, 75 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"MM..FOOD" (2004) — AOTY Must Hear 2000s** : #279, 78 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Operation: Doomsday" (1999) — Pitchfork: The 150 Best Albums of the 1990s** : #65, 72 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Operation: Doomsday" (1999) — Sputnikmusic Best Albums 1999** : #72, 72 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1999/
-**"MM..FOOD" (2004) — Sputnikmusic Best Albums 2004** : #43, 78 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2004/
+**"Operation: Doomsday" (1999) — AOTY Must Hear 1990s** : #12, 72 AOTY.
+**"Born Like This" (2009) — AOTY Must Hear 2000s** : #41, 75 AOTY.
+**"MM..FOOD" (2004) — AOTY Must Hear 2000s** : #279, 78 AOTY.
+**"Operation: Doomsday" (1999) — Pitchfork: The 150 Best Albums of the 1990s** : #65, 72 AOTY.
+**"Operation: Doomsday" (1999) — Sputnikmusic Best Albums 1999** : #72, 72 AOTY.
+**"MM..FOOD" (2004) — Sputnikmusic Best Albums 2004** : #43, 78 AOTY.

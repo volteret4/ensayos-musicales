@@ -20,4 +20,4 @@
 ## lists
 **"Muddy Waters at Newport 1960" (1960) — 1001 Albums You Must Hear Before You Die** : #29.
 **"Hard Again" (1977) — 1001 Albums You Must Hear Before You Die** : #373.
-**"The Anthology" (2001) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #483. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
+**"The Anthology" (2001) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #483.

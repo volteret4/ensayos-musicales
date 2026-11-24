@@ -1,0 +1,9 @@
+# artist - Napoleon XIV
+
+## members
+- Jerry Samuels
+
+## songs
+**They're Coming to Take Me Away, Ha-Haaa! (1966)** : Singer-songwriter Jerry Samuels issued this "manic hit" under the name Napoleon XIV, and it reached number three on the Hot 100 in the summer of 1966. "singer songwriter Jerry Samuels issued this manic hit under the name Napoleon the 14th in 1966 and saw it reach number three on the hot 100 that summer." ← Hit Parade Music History and Music Trivia > The Bridge - Legacy of the Elusive Chanteuse | https://my.slate.com/podcasts/feeds/hit-parade/
+**They're Coming to Take Me Away, Ha-Haaa! (1966)** : This perverse song about going mad, featuring chipmunk-like sped-up vocals, was written by Jerry Samuels while under the influence of psychedelics. Released under the moniker Napoleon the 14th, it reached number three in the summer of 1966. The song notably shared the same marching drum beat as Bob Dylan's "Rainy Day Women #12 & 35." "Released under the moniker Napoleon the 14th, they're coming to take me away. Ha ha reached number three in the summer of 1966." ← Hit Parade Music History and Music Trivia > The White and Nerdy Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**They're Coming to Take Me Away, Ha-Haaa! (1966)** : This song, released under the moniker Napoleon XIV by singer-songwriter Jerry Samuels, reached number three in the summer of 1966. Written under the influence of psychedelics, it is a perverse song about going mad, featuring distinctive chipmunk-like, sped-up vocals. Listeners in 1966 noted its marching drumbeat was similar to Bob Dylan's "Rainy Day Women #12 & 35." "Released under the moniker Napoleon XIV, they're coming to take me away, ha ha, reached number three in the summer of 1966." ← Hit Parade Music History and Music Trivia > The White and Nerdy Edition | https://my.slate.com/podcasts/feeds/hit-parade/

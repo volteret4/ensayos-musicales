@@ -18,4 +18,4 @@
 **Two-Piece, Highly Visual Outfit** : The Dresden Dolls was a two-piece band known for its highly visual presentation, with Amanda Palmer joining when she was about 27. "Her first real band was The Dresden Dolls, a two-piece outfit that was highly visual." ← https://www.youtube.com/watch?v=P45lJTdneoI ← the-dresden-dolls ← the-dresden-dolls
 
 ## lists
-**"Dresden Dolls" (2004) — Scaruffi 2000s** : #339, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Dresden Dolls" (2004) — Scaruffi 2000s** : #339, 7.0/10 Scaruffi.

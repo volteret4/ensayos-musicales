@@ -2,6 +2,7 @@
 
 ## member of
 - Buddy Holly
+- USA for Africa
 
 ## genres
 - Cajun
@@ -18,6 +19,8 @@
 **Good Hearted Woman (1972)** : Waylon Jennings wrote "Good Hearted Woman" after seeing an advertisement that mentioned many of Tina Turner's songs depicted "Good-hearted women loving two-timing men." This indirect inspiration led to the creation of the song. "Whalen Jennings did see an ad that inspired him. It said that a lot of Tina's songs were about Good-hearted women loving two-timing men and he wrote Good-hearted women based on that." ← For the Record - The 70s > Ep. 53 - More than Charley Pride - African Americans in 70s Country | https://www.ftr70.com/
 **Good Time Charlie's Got the Blues** : Waylon Jennings covered Danny O'Keefe's song "Good Time Charlie's Got the Blues." "Elvis, Whalen Jennings, Charlie Rich, Dwight Yokem, and those are some of the people who recorded the songs." ← For the Record - The 70s > Ep. 60 - One-Hit Wonders of the 70s | https://www.ftr70.com
 **Jole Blon (1958)** : An old Cajun song that Buddy Holly produced for Waylon Jennings's first ever session in September 1958. This version blended Cajun music with R&B, featuring Holly on guitar and King Curtis on saxophone. "It was Jennings's first ever session, and they turned out an interesting version of the old Cajun song, Joli Blanc, which had earlier been a hit from Moon Mulligan." ← Episode 74： ＂It Doesn't Matter Any More＂ by Buddy Holly | https://www.youtube.com/watch?v=6unib5T2mDQ
+**Theme from The Dukes of Hazzard (Good Ol' Boys) (1980)** : Waylon Jennings performed this theme song for the TV show "The Dukes of Hazzard," which was a "TV ratings monster" around 1980. The song topped the country chart in 1980 and also successfully crossed over to the Hot 100. "the Wailin Jennings theme to The Dukes of Hazard, a TV ratings monster at the turn of the 80s, topped the country chart in 1980 and even crossed over to the hot 100." ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**We Are the World (1985)** : Waylon Jennings was among the music legends who contributed to "We Are the World." His participation highlighted the diverse range of artists brought together for the project. "music legends like Ray Charles or Whalen Jennings" ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Early Association with Buddy Holly (1959)** : Waylon Jennings briefly played in Buddy Holly's band in 1959 before going on to achieve his own major successes as a famous musician from Lubbock, Texas. "Other than Buddy Holly, the two most famous people from Lubbock are probably Whale and Jennings, who briefly played in Holly's band in 1959, before going on to his own major successes." ← Episode Sixty-One： ＂That'll Be the Day＂, by the Crickets | https://www.youtube.com/watch?v=KVJMKLc54O0

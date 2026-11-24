@@ -1,6 +1,7 @@
 # artist - Bill Withers
 
 ## genres
+- Gospel
 - R&B
 - Soul
 
@@ -18,7 +19,10 @@
 ## songs
 **Ain't No Sunshine (1971)** : Bill Withers famously wrote his classic song "Ain't No Sunshine" while he was working a job manufacturing toilets for Boeing jetliners. This background offers a unique insight into the song's humble origins before it became a global hit. "He wrote that song while making toilets for Boeing jetliners." ← https://www.youtube.com/watch?v=-N6IM5Nm5iw ← bill-withers
 **I Hope She'll Be Happier (1971)** : During his performance at Zaire 74, Bill Withers played this song from his first album, creating an intimate moment where he "loses himself" with just his guitar, offering a vulnerable glimpse into his private thoughts. "In his performance of, I hope she'll be happier in Zaire, he just loses himself, goes inside of himself. It's just him and his guitar and we get to watch." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
-**Lean on Me (1972)** : A number one hit from Bill Withers' 1972 album "Still Bill," this song was inspired by his upbringing in a coal mining town in West Virginia. "His second album, Still Bill, came out in 1972. It is a masterclass in soul and has several of his classics, the number one hit lean on me." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
+**Just the Two of Us (1981)** : This 1981 Yacht Soul ballad, a collaboration with jazz saxophonist Grover Washington Jr., was a No. 2 Pop hit and a No. 3 R&B hit. It was a key crossover success for African American artists during a period when hard funk records were being ignored on Top 40 radio. "veteran soul singer Bill Withers on the 1981 Yacht Soul Ballad, just the two of us, a number two pop, number three R&B hit." ← Hit Parade Music History and Music Trivia > What a Fool Believes, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Lean On Me (1972)** : A number one hit from Bill Withers' 1972 album "Still Bill," this song was inspired by his upbringing in a coal mining town in West Virginia. "His second album, Still Bill, came out in 1972. It is a masterclass in soul and has several of his classics, the number one hit lean on me." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
+**Lean On Me (1972)** : This song, described as a blend of a family sing-along and a gospel hymn, became a standard upon its release. It spent three weeks atop the Hot 100 in the summer of 1972 and has served for generations as a song of friendship, devotion, and support. "Lean on me practically became a standard the moment Bill Withers wrote and recorded it." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Lean On Me (1972)** : This song was covered by Club Nouveau, whose version became a number one R&B hit on the Crossover 30 chart in its debut week. "bill withers lean on me." ← Hit Parade Music History and Music Trivia > Point of No Return Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Use Me (1972)** : A classic song from Bill Withers' 1972 album "Still Bill." "His second album, Still Bill, came out in 1972. It is a masterclass in soul and has several of his classics, the number one hit lean on me. Who is he and what is he to you and use me?" ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
 **Who Is He (And What Is He to You)? (1972)** : A classic track featured on Bill Withers' acclaimed 1972 album, "Still Bill." "His second album, Still Bill, came out in 1972. It is a masterclass in soul and has several of his classics, the number one hit lean on me. Who is he and what is he to you and use me?" ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
 
@@ -41,6 +45,6 @@
 **"Use Me" — Billboard Year-End Hot 100** : #78, 1972. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Just As I Am" (1971) — AOTY Must Hear 1970s** : #212, 98 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Just As I Am" (1971) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #304, 98 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Still Bill" (1972) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #333. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
+**"Just As I Am" (1971) — AOTY Must Hear 1970s** : #212, 98 AOTY.
+**"Just As I Am" (1971) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #304, 98 AOTY.
+**"Still Bill" (1972) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #333.

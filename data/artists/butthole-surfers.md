@@ -28,9 +28,9 @@
 
 ## lists
 **"Locust Abortion Technician" (1987) — 1001 Albums You Must Hear Before You Die** : #595, 7.0/10 Scaruffi.
-**"Psychic Powerless" (1984) — Scaruffi 1980s** : #1, 9.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Rembrandt Pussyhorse" (1986) — Scaruffi 1980s** : #29, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Hairway To Steven" (1988) — Scaruffi 1980s** : #297, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Locust Abortion Technician" (1987) — Scaruffi 1980s** : #298, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Butthole Surfers" (1983) — Scaruffi 1980s** : #829, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Locust Abortion Technician" (1987) — Pitchfork: The 200 Best Albums of the 1980s** : #189, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"Psychic Powerless" (1984) — Scaruffi 1980s** : #1, 9.0/10 Scaruffi.
+**"Rembrandt Pussyhorse" (1986) — Scaruffi 1980s** : #29, 8.0/10 Scaruffi.
+**"Hairway To Steven" (1988) — Scaruffi 1980s** : #297, 7.0/10 Scaruffi.
+**"Locust Abortion Technician" (1987) — Scaruffi 1980s** : #298, 7.0/10 Scaruffi.
+**"Butthole Surfers" (1983) — Scaruffi 1980s** : #829, 8.0/10 Scaruffi.
+**"Locust Abortion Technician" (1987) — Pitchfork: The 200 Best Albums of the 1980s** : #189, 7.0/10 Scaruffi.

@@ -2,18 +2,25 @@
 
 ## members
 - Guy-Manuel de Homem-Christo
+- Nile Rodgers
+- Pharrell Williams
 - Thomas Bangalter
 
 ## genres
 - Alt Rock
 - Alternative Dance
+- Club
 - Club Culture
 - Dance
+- Dancerock
+- Disco
+- DJ Driven
 - EDM
 - Electro-robotic
 - Electronic
 - Electronic Dance Music
 - Electronic Music
+- Electronica
 - House
 - Rave Culture
 - Techno
@@ -27,6 +34,7 @@
 
 ## instruments
 - Drum machines
+- robot masks
 - Sampler
 - Synthesizer
 
@@ -43,6 +51,8 @@
 **Homework (1997)** : Homework was not intended to be an album — Guy-Manuel and Thomas put out a bunch of individual songs without planning to collect them, but then it happened. They recorded it at home (hence the name). The album was hyped by the music press and charted in more than a dozen countries, mostly on dance charts. The only place where it was a genuine across-the-board hit was France. The single "Da Funk" sold more as a single than Homework sold as an album. "They called it that because they recorded it at Home, which makes sense." ← https://www.youtube.com/watch?v=QwLvq9j5_hQ ← daft-punk
 **Homework (1997)** : This was Dazpán's first album, released in 1997, and it is credited with revolutionizing modern music, especially electronic music. It became a cult hit among electronic music specialists and critics, praised for its quality and innovation, but it did not achieve significant mainstream consumption beyond a few notable instances. It marked Dazpán's first attempt at an electronic revolution. "revolucionaron la música moderna." ← Music Radar Clan > Daft Punk y la historia de Alive 2007 | https://www.youtube.com/watch?v=X-XDp1MW5WM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← dazpán ← dazpán
 **Homework (1997)** : This was Dazpán's first album, released in 1997, and it is credited with revolutionizing modern music, especially electronic music. It became a cult hit among electronic music specialists and critics, praised for its quality and innovation, but it did not achieve significant mainstream consumption beyond a few notable instances. It marked Dazpán's first attempt at an electronic revolution. "revolucionaron la música moderna." ← Music Radar Clan > Daft Punk y la historia de Alive 2007 | https://www.youtube.com/watch?v=X-XDp1MW5WM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← dazpán
+**Homework (1997)** : Daft Punk's debut album, which peaked on the bottom rungs of the album chart in 1997, despite the duo later achieving gold and platinum sales. "in 1997 their debut album Homework peaked on the bottom rungs of the album chart" ← Hit Parade Music History and Music Trivia > Hit Parade - The Veronica Electronica Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Homework (1997)** : Daft Punk's debut album, which peaked on the bottom rungs of the album chart in 1997. "in 1997 their debut album Homework peaked on the bottom rungs of the album chart." ← Hit Parade Music History and Music Trivia > Madonna - The Veronica Electronica Edition (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
 **Human After All (2005)** : Following "Discovery," Daft Punk's next album, "Human After All," was accompanied by an audiovisual project called "Electroma." "Tenemos los propios da punk y hicieron el electroma para el siguiente disco, que es Astroso, Human After all." ← Music Radar Clan > Daft Punk - Interstella 5555 | https://www.youtube.com/watch?v=BdxXfy95TDk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← daft-punk ← daft-punk
 **Human After All (2005)** : The third Daft Punk record was assembled in just six weeks and was considered fine but perhaps a little derivative and repetitive by fans. The subsequent Alive 2006–2007 tour, which featured the band performing in front of a giant LED-covered pyramid, was a massive success, especially in North America, and helped kick-start the entire EDM phenomenon on this side of the Atlantic. The live version of "Harder, Better, Faster, Stronger" was released as a single from the tour and netted Daft Punk Grammy Awards in 2008. Their performance with Kanye West at the 2008 ceremony was the first televised Daft Punk performance. "This tour, known as the Alive 2006-2007 tour, was a massive success, especially in North America." ← https://www.youtube.com/watch?v=QwLvq9j5_hQ ← daft-punk
 **Human After All (2005)** : Dazpán's third album, released in 2005, was a significant setback for the band, described as a "tremendous blow." It failed to win over the commercial audience that had been attracted by "bril," and critics no longer found it as interesting as "homburmo." The album was poorly received by both the public and critics, leaving the band in a precarious position, and notably, no tour followed its release. "se dieron una hostia tremenda salieron el 2005 y los pobres les fue bastante mal." ← Music Radar Clan > Daft Punk y la historia de Alive 2007 | https://www.youtube.com/watch?v=X-XDp1MW5WM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← dazpán ← dazpán
@@ -55,8 +65,15 @@
 **Random Access Memories (2013)** : Dazpán achieved tremendous success with this album, though it was described as a substantial success that wasn't particularly well-received by critics. "han tenido un éxito tremendo con el rano Macs Memories un éxito bastante gruense porque bueno hay que no que no puesto un muy bien un disco de crítica." ← Music Radar Clan > Daft Punk y la historia de Alive 2007 | https://www.youtube.com/watch?v=X-XDp1MW5WM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← dazpán
 **Random Access Memories (2013)** : This album, described as the "robotic French duo's most retro sounding LP," took its first Album of the Year Grammy for Electronic Dance Music in 2014. It was also noted as their "final album" at the time of the recording. "Electronic Dance Music took its first album of the Year when Draft Punk won for their final album Random Access Memories." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
 **Random Access Memories (2013)** : This chart-topping album featured a contribution from Giorgio Moroder, for which he won a Grammy. The duo's sound owes "vast swathes" to Moroder's influence. "Moroder took home a Grammy less than four years ago for his contribution to the 2013 album Random Access Memories by Draft Punk, a chart-topping electro-robotic duo that owes vast swathes of its sound to Moroder." ← Hit Parade Music History and Music Trivia > The Queen of Disco Edition Part 1 (Encore) | https://shows.acast.com/hit-parade/episodes/69d92e92fdeddc4b127158d5
+**Random Access Memories (2013)** : A chart-topping electro-robotic album for which Giorgio Moroder took home a Grammy Award for his contribution. The duo's sound owes vast swathes to Moroder's pioneering influence in electronic music. "Moroder took home a Grammy less than four years ago for his contribution to the 2013 album Random Access Memories by Dafft Punk, a chart-topping electro-robotic duo that owes vast swathes of its sound to Moroder." ← Hit Parade Music History and Music Trivia > Hit Parade - The Queen of Disco Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## songs
+**Around the World (1997)** : A catchy single by Daft Punk that fell well short of the Top 40 in 1997, despite the duo later becoming successful gold and platinum selling artists. "even their cachiest singles like Around the World fell well short of the top 40." ← Hit Parade Music History and Music Trivia > Hit Parade - The Veronica Electronica Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Around the World (1997)** : One of Daft Punk's "cachiest singles" from their debut album, which fell "well short of the top 40" on the charts. "And even their cachiest singles like Around the World fell well short of the top 40." ← Hit Parade Music History and Music Trivia > Madonna - The Veronica Electronica Edition (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
+**Da Funk** : This instrumental track kicked off Daft Punk's career in the mid-1990s. While it missed the Hot 100, it achieved significant success in clubland, reaching number 1 on Billboard's Club Play chart in 1997. "Draft Punk kicked off their career in the mid 90s with the Instrumental Daphunk, which missed the Hot 100, but reached number 1 on Billboard's Club Play chart in 1997." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Get Lucky (2013)** : A universally praised, Grammy-winning disco jam by French EDM duo Daft Punk, featuring vocals by Pharrell Williams and irresistible guitar by rock and R&B legend Nile Rodgers. For five weeks in the summer of 2013, it held the number two spot on the charts, behind "Blurred Lines." "Get Lucky, French EDM duo, Draft Punk's universally praised Grammy-winning disco jam with vocals by Farell and irresistible guitar by rock and R&B legend Nile Rogers." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Get Lucky (2013)** : This universally praised, Grammy-winning disco jam by the French EDM duo featured irresistible guitar by rock and R&B legend Nile Rodgers and was co-written by Pharrell Williams. Its acclaimed status, despite the charts' overall skew in 2013, highlighted its musical impact. "Get Lucky, French EDM duo Draft Punk's universally praised Grammy-winning disco jam, featured irresistible guitar by rock and arrend-be-legend Nile Rocks." ← Hit Parade Music History and Music Trivia > Rolling in God’s Royal Uptown Road Edition. | https://my.slate.com/podcasts/feeds/hit-parade/
+**Get Lucky (2013)** : This track by the French robotic duo, featuring vocals by Pharrell Williams and guitar by Nile Rodgers, was initially predicted by Slate culture editor Forest Wickman to be the Song of the Summer 2013. Despite being considered "clearly the better song" by many critics, it peaked at number two on the Hot 100 and was ultimately surpassed by Robin Thicke's "Blurred Lines." "Get Lucky was, to me and to most critics, clearly the better song." ← Hit Parade Music History and Music Trivia > Song(s) of the Summer Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Robot Rock (2005)** : Released in 2005, "Robot Rock" by Daft Punk is presented as a prime example of the fragmentation and segmentation occurring in alt rock during the 2000s, where alt rock sensibilities were blended with a multitude of dance influences like disco, house, R&B, and hip hop. "Daphpunk and Robot Rock from 2005, and by this time, things were definitely segmenting separated and fragmenting again." ← https://www.youtube.com/watch?v=_yslM5oanRo ← daft-punk
 
 ## curiosities
@@ -124,6 +141,15 @@
 **Unprecedented Concert Fee** : The offer of two million dollars for a single Dazpán concert at Coachella was considered an incredible and unprecedented sum. This amount was highlighted as money that even major artists like Madonna or Bruce Springsteen typically do not earn for a single performance. "dos millones de dólares es un solo concierto." ← Music Radar Clan > Daft Punk y la historia de Alive 2007 | https://www.youtube.com/watch?v=X-XDp1MW5WM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← dazpán
 **Unusual Tour Timing (2007)** : Two years after the commercial and critical failure of their 2005 album "ciumanácter Olco," Dazpán embarked on a tour in 2007. This timing was considered very unusual, as there had been no tour immediately following the album's release, indicating a unique and curious backstory behind this particular tour. "en el 2007 dieron una hyal 2 años más tarde que salir al disco y eso es muy raro pero tiene una historia curiosa." ← Music Radar Clan > Daft Punk y la historia de Alive 2007 | https://www.youtube.com/watch?v=X-XDp1MW5WM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← dazpán
 **Influence of David Bowie (21st Century)** : Daft Punk was cited as part of a new generation of "chameleonic" pop artists who were influenced and inspired by David Bowie, even during his period of absence from releasing new albums or touring. This highlighted Bowie's enduring impact on contemporary pop music. "David Bowie was being cited as an influence and inspiration by a new generation of pop-ats with chameleonic material, including daft punk." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 2 | https://shows.acast.com/hit-parade/episodes/696aa4d936ab0b5268aab02b
+**12-inch Single Bidding War (1996)** : A 1995 12-inch single by the "robotic French pair" Daft Punk triggered a major label bidding war in 1996, signaling growing industry interest in electronic music acts. "And the 1995 12-inch single by a robotic French pair calling themselves Daffed Punk spawned a major label bidding war in 1996." ← Hit Parade Music History and Music Trivia > Hit Parade - The Veronica Electronica Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Faceless Gimmick** : Daft Punk used their "facelessness" (by wearing full face-obscuring robot masks) as a gimmick, which contrasted with the music industry's desire for lively frontmen for the emerging Electronica scene. "while some acts, like Draftpunk, used their facelessness as a gimmick" ← Hit Parade Music History and Music Trivia > Hit Parade - The Veronica Electronica Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on Cher's "Believe"** : Cher's massively successful 1998 single "Believe" was notably "built out of a daft punk-like beat," indicating the duo's influence on mainstream electro-pop production. "Built out of a daft punk-like beat." ← Hit Parade Music History and Music Trivia > Hit Parade - The Veronica Electronica Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mainstream Success of EDM** : By the end of the 2000s, Daft Punk was achieving gold and platinum sales, demonstrating the increasing mainstream acceptance and influence of EDM across hip hop, rock, and pop genres. "acts like daft punk going gold and eventually platinum." ← Hit Parade Music History and Music Trivia > Hit Parade - The Veronica Electronica Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Beneficiaries of Chic's Influence** : Daft Punk is listed among the artists who benefited from the "Chic universe of hits" and the production/songwriting work of Bernard Edwards and Nile Rodgers, extending their influence far beyond the disco era. "opens up a plethora of hits for Sister Sledge, Diana Ross, David Bowie, Madonna, Durand Iran, Robert Palmer, the B-52s, and even Dafft Punk." ← Hit Parade Music History and Music Trivia > I Got Five on It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Robotic French Duo** : Daft Punk, a "robotic French pair," released a 1995 12-inch single that sparked a major label bidding war in 1996. The press-shy Paris duo performed DJ sets wearing full face-obscuring robot masks, using their facelessness as a gimmick. They would eventually become a gold and platinum-selling act despite their early chart performance. "The Press Shy Paris duo would perform DJ sets wearing full face obscuring robot masks." ← Hit Parade Music History and Music Trivia > Madonna - The Veronica Electronica Edition (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on Cher's "Believe"** : Cher's 1998 hit single "Believe" was built out of a "Daft Punk-like beat," indicating their influence on mainstream pop music. "Built out of a daft punk-like beat." ← Hit Parade Music History and Music Trivia > Madonna - The Veronica Electronica Edition (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
+**Going Gold and Platinum** : By the end of the 2000s, Daft Punk were not only going gold and eventually platinum, but also influencing hip hop, rock, and pop as EDM took over the radio dial. "not only were acts like Daft Punk going gold and eventually platinum, they were influencing hip hop, rock, and pop." ← Hit Parade Music History and Music Trivia > Madonna - The Veronica Electronica Edition (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
+**Late 90s Electronica Wave (Late 1990s)** : Daft Punk was an example of a "DJ Driven Act" that defined the late 1990s wave of Electronica and Dancerock. U2's "Pop" album, through its deeper engagement with sampling and synthesizers, was theoretically "on trend" with the musical direction of such artists. "marked by Dancerock and DJ Driven Acts like Underworld, The Chemical Brothers, and Draft Punk." ← Hit Parade Music History and Music Trivia > With or Without U2 Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Grammy Award for Best Dance/Electronic Album (2008) — Alive 2007** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1542147
@@ -135,11 +161,11 @@
 
 ## lists
 **"Homework" (1997) — 1001 Albums You Must Hear Before You Die** : #850.
-**"Alive 2007" (2007) — AOTY Must Hear 2000s** : #110, 75 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Discovery" (2001) — AOTY Must Hear 2000s** : #470, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Random Access Memories" (2013) — AOTY Must Hear 2010s** : #690, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Discovery" (2001) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #236, 80 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Random Access Memories" (2013) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #295, 83 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Homework" (1997) — Pitchfork: The 150 Best Albums of the 1990s** : #13. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Random Access Memories" (2013) — Pitchfork: The 200 Best Albums of the 2010s** : #112, 83 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"Discovery" (2001) — Resident Advisor: The Best Electronic Records of 2000-25** : #7, 80 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/256f2672-a51d-4824-a07f-ae79c5840268
+**"Alive 2007" (2007) — AOTY Must Hear 2000s** : #110, 75 AOTY.
+**"Discovery" (2001) — AOTY Must Hear 2000s** : #470, 80 AOTY.
+**"Random Access Memories" (2013) — AOTY Must Hear 2010s** : #690, 83 AOTY.
+**"Discovery" (2001) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #236, 80 AOTY.
+**"Random Access Memories" (2013) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #295, 83 AOTY.
+**"Homework" (1997) — Pitchfork: The 150 Best Albums of the 1990s** : #13.
+**"Random Access Memories" (2013) — Pitchfork: The 200 Best Albums of the 2010s** : #112, 83 AOTY.
+**"Discovery" (2001) — Resident Advisor: The Best Electronic Records of 2000-25** : #7, 80 AOTY.

@@ -5,3 +5,4 @@
 
 ## artists
 - Joe Jackson
+- Tom Tom Club

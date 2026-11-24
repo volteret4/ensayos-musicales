@@ -1,0 +1,5 @@
+# artist - Cole Porter
+
+## curiosities
+**Popular Music Songwriter (20s/30s)** : Cole Porter was a prominent songwriter in the 1920s and 1930s, whose work constituted popular music and is now recognized as part of the "American Songbook." "In the 20s and 30s, the songwriters, like Jerome Kern, Cole Porter, the Gershwin's, they were popular music." ← Hit Parade Music History and Music Trivia > The Bridge - The Give My Regards Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Pre-Rock Era Songsmith (1990)** : Cole Porter was a renowned "Tin Pan Ali Songsmith" celebrated for his contributions to pre-rock popular music. In 1990, U2 covered his standard "Night and Day" for the AIDS research charity album "Red Hot and Blue," which featured modern pop acts reinterpreting Porter's works. "Red Hot and Blue consisted of modern pop acts, interpreting the pre-rock songs of Tin Pan Ali Songsmith Cole Porter." ← Hit Parade Music History and Music Trivia > With or Without U2 Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/

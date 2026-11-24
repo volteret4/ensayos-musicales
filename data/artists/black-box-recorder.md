@@ -8,4 +8,4 @@
 **English Origins and Unique Lineup** : An English band whose lineup included a member from a G.S. and Marychee band. They faced challenges with distribution, notably having no North American releases available in standard record stores. "An English band called Black Box Recorder with a single entitled The Art of Driving." ← https://www.youtube.com/watch?v=raRCZ0Y5up8 ← black-box-recorder
 
 ## lists
-**"England Made Me" (1998) — Pitchfork: The 50 Best Britpop Albums** : #33. ← musicbrainz | https://beta.musicbrainz.org/series/cd7ebb70-d88f-4f74-b6de-3a00bf2a162c
+**"England Made Me" (1998) — Pitchfork: The 50 Best Britpop Albums** : #33.

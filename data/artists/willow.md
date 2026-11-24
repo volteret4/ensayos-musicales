@@ -1,6 +1,9 @@
 # artist - Willow
 
 ## genres
+- Dance Pop
+- Hip Hop
+- Neo Soul
 - pop
 - pop punk
 - Punk Pop
@@ -18,6 +21,7 @@
 **Transparent Soul (2021)** : This track, featured on Willow's fourth album, showcases her collaboration with Travis Barker and her move into the pop-punk genre. "The track is called Transparency." ← https://www.youtube.com/watch?v=dY7uB_QQWBc ← willow-smith
 **Transparent Soul (2021)** : This 2021 song, a part of Willow Smith's pop punk catalog, features Travis Barker of Blink 182, showcasing her flair for the genre. "In fact, let's have a listen to that song from 2021. This is called Transparent Featurey Traps." ← https://www.youtube.com/watch?v=_1NNvxgx8uA ← willow ← willow
 **Transparent Soul (2021)** : This 2021 song, a part of Willow Smith's pop punk catalog, features Travis Barker of Blink 182, showcasing her flair for the genre. "In fact, let's have a listen to that song from 2021. This is called Transparent Featurey Traps." ← https://www.youtube.com/watch?v=_1NNvxgx8uA ← willow
+**Transparent Soul (2021)** : This 2021 hit by Willow Smith marked a significant stylistic shift from her previous dance pop, hip hop, and neo soul work, venturing into a pop-punk sound. The track was co-written by and notably featured drumming from Travis Barker of Blink-182. "her 2021 hit transparent soul was co-written and features drumming by none other than blink 182's Travis Barker." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Whip My Hair (2010)** : Released when Willow was 10 years old, this single became a top 15 pop hit. "At age 10, she released a single called With My Hair, which became a top 15 pop hit." ← https://www.youtube.com/watch?v=dY7uB_QQWBc ← willow-smith
 
 ## curiosities
@@ -38,4 +42,4 @@
 **Time 100 (2021)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q604370
 
 ## lists
-**"<COPINGMECHANISM>" (2022) — Kerrang! The 50 Best Albums of 2022** : #28. ← musicbrainz | https://beta.musicbrainz.org/series/bba4a66d-575e-4b6e-8447-233ad23a8f51
+**"<COPINGMECHANISM>" (2022) — Kerrang! The 50 Best Albums of 2022** : #28.

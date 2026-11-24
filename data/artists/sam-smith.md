@@ -2,11 +2,14 @@
 
 ## songs
 **Stay With Me (2014)** : A "huge hit single" released in Spring 2014. Many people recognized its similarity to Tom Petty's 1989 hit "I Won't Back Down," which prompted lawyers to get involved. An out-of-court settlement in October 2014 awarded Tom Petty songwriting royalties from the song. "Sam Smith released this huge hit single. Oh, I'm too. Stay with me." ← https://www.youtube.com/watch?v=4cZfegexwwk ← sam-smith
+**Unholy (2022)** : Sam Smith teamed up with Kim Petras for their 2022 single "Unholy," which became a number one hit, replacing "Bad Habit" at the top of the Hot 100. The track celebrated "transgressive love and sexual freedom" and made history as the first number one by both a gender non-binary artist (Smith) and a trans artist (Petras). "They called it unholy." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Writing's on the Wall (2015)** : Sam Smith, an English singer, was awarded the theme song for the 2015 James Bond movie "Spectre." While it performed exceptionally well in the UK, it "was a flop everywhere else." Despite its mixed chart performance, the song went on to win both a Golden Globe and an Academy Award for Best Original Song. "The next Bond theme was awarded to English singer Sam Smith. This is for the movie Spector in 2015." ← https://www.youtube.com/watch?v=K0pgJ7XAlpo ← sam-smith
 
 ## curiosities
 **Awards for "Writing's on the Wall" (2015)** : Despite not being a global commercial success outside the UK, Sam Smith's "Writing's on the Wall" for the film "Spectre" won a Golden Globe and an Academy Award. This achievement highlights critical recognition for the song, even with its varied chart performance. "But then again, it did win a Golden Globe and an Academy Award, so go figure." ← https://www.youtube.com/watch?v=K0pgJ7XAlpo ← sam-smith
 **Grammy Nomination - 2015** : Sam Smith was nominated for Album of the Year at the 2015 Grammys, competing against Beck, Beyoncé, Ed Sheeran, and Pharrell Williams. "Beck won that Grammy in 2015, likely because he was old enough to be respectable and he was the token rock nominee in an album of the year ballot that also featured Beyonce, Ed Sheeran, Sam Smith, and Ferelle Williams." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
+**Openly Gay Artist and Gender Queer Identity** : Sam Smith had been scoring hits since the mid-2010s as an "openly gay artist." In 2017, they came out as "gender queer" and, "within a couple of years," switched to using "they-them pronouns." This evolution of their public identity marked a significant step for LGBTQ representation in mainstream music. "Sam Smith had been scoring hits since the mid-2010s as an openly gay artist. In 2017, they came out as gender queer, and within a couple of years switched to they-them pronouns." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**First Number One by a Gender Non-Binary Artist** : Sam Smith made history in 2022 with their single "Unholy," a collaboration with Kim Petras, by achieving the "first number one by both a gender non-binary artist and a trans artist." This landmark achievement showcased a new level of acceptance and visibility on the Hot 100. "The first number one by both a gender non-binary artist and a trans artist." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **MOBO Awards** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1670259
@@ -38,4 +41,4 @@
 **""Like I Can" ‡" — UK Singles Chart** : #2, 2015. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
 
 ## lists
-**"In the Lonely Hour" (2014) — Grammy Award: Album of the Year nominees** : #2015. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
+**"In the Lonely Hour" (2014) — Grammy Award: Album of the Year nominees** : #2015.

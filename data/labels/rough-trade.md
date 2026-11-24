@@ -16,6 +16,8 @@
 **Signed The Strokes** : Rough Trade, a UK-based label, signed The Strokes after American labels showed no interest in the band despite the buzz they had generated. Rough Trade "loved what they heard" from the band's demos, leading to their debut album "This Is It." "So they sent some demos to Rough Trade in the UK, and Rough Trade loved what they heard." ← https://www.youtube.com/watch?v=UpWz3X33vSY ← rough-trade
 **The Smiths' Record Company** : Rough Trade was the record company for The Smiths, but the relationship was fraught with "big, big problems." These issues worsened after the release of "The Queen Is Dead" and were even satirized in The Smiths' song "Frankly, Mr. Shankly," where "Mr. Shankly" referred to label head Jeff Travis. "And there were big, big problems with rough trade, the Smiths record company." ← https://www.youtube.com/watch?v=vev8lzfW6Xo ← rough-trade ← rough-trade
 **Transition to Record Label (1978)** : In 1978, Jeff Travis expanded Rough Trade into an independent record label. One of its earliest releases was "Alternative Ulster" by the Belfast band Stiff Little Fingers. "In 1978, Travis decided to jump into the indie record label game and one of the labels very earliest releases was by a bell fast band called Stiff Little Fingers." ← https://www.youtube.com/watch?v=dDcD8kg0wEk ← rough-trade
+**The Smiths' Label** : The Smiths recorded for the independent Rough Trade label, scoring their biggest hits on the UK Independent Singles or UK Indie chart, highlighting the label's role in cultivating foundational Britpop influences. "The Smiths recorded for the independent Rough Trade label and scored their biggest hits on the UK Independent Singles or UK Indie chart." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**The Smiths' Label (1983-1986)** : The Smiths released 18 top 40 UK hits between 1983 and 1986 while signed to the British independent label Rough Trade. "In the UK, the Smiths were consistent hitmakers, scoring 18 top 40 hits between 1983 and 1986, while on the British independent label Rough Trade." ← Hit Parade Music History and Music Trivia > Lost and Lonely Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Agit Pop
@@ -24,4 +26,3 @@
 - The Smiths
 - The Strokes
 - Young Marble Giants
-

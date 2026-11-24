@@ -23,4 +23,4 @@
 **Loss of Members** : The band experienced tragic losses, with John Baker Saunders dying of a heroin overdose on January 15, 1999, and Layne Staley later dying from drug-related causes. "John Baker Saunders died of a hair run overdose on January 15, 1999." ← https://www.youtube.com/watch?v=EyagC0T7mR4 ← mad-season
 
 ## lists
-**"Above" (1995) — AOTY Must Hear 1990s** : #247, 50 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
+**"Above" (1995) — AOTY Must Hear 1990s** : #247, 50 AOTY.

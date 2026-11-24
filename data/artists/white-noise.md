@@ -15,4 +15,4 @@
 **First Electronic Music Group** : White Noise is almost always credited as the first electronic music group in history, a pioneering ensemble that included Delia Derbyshire and two other electronic experimenters. Their groundbreaking work led to the release of "Electric Storm" in 1968, marking a pivotal moment in the development of the genre. "White Noise está acreditado casi siempre como el primer grupo de música electrónica de la historia." ← Music Radar Clan > Cómo una mujer inventó la música electrónica ⧸ Delia Derbyshire | https://www.youtube.com/watch?v=IYpe_BZRPLw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← white-noise
 
 ## lists
-**"An Electric Storm" (1968) — Pitchfork: The 200 Best Albums of the 1960s** : #161. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"An Electric Storm" (1968) — Pitchfork: The 200 Best Albums of the 1960s** : #161.

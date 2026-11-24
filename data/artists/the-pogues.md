@@ -4,10 +4,12 @@
 - Cait O'Riordan
 - Jem Finer
 - Joe Strummer
+- Kirsty MacColl
 - Shane MacGowan
 - Spider Stacy
 
 ## genres
+- Celtic Folk Punk
 - Celtic Punk
 - Irish Celtic Folk
 - Punk Rock
@@ -36,6 +38,8 @@
 **Fairytale of New York (1987)** : The Pogues faced difficulty finding a suitable female vocalist for the duet. It was initially written for bass player Cait O'Riordan, but she left the band after running off with Elvis Costello, shelving the song for Christmas 1986. "Besides, the Pogs really couldn't find anybody they liked to sing the female part." ← https://www.youtube.com/watch?v=k9ok8M31-38 ← the-pogues ← the-pogues
 **Fairytale of New York (1987)** : Kirsty MacColl provided the female vocals for this song, which is frequently heard around Christmas time. "She's the female voice that she heard on the Pogues song Fairy Tailed New York, the one that you hear around Christmas all the time." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4 ← the-pogues
 **Fairytale of New York (1987)** : Kirsty MacColl duets with Shane MacGowan on this famous song. "She's the woman who duets with Shane McGowan on the Pog's Fairy Tale of New York." ← https://www.youtube.com/watch?v=ZhzjZixCcK8 ← the-pogues
+**Fairytale of New York (1987)** : This song, featuring Kirsty MacColl, became a beloved holiday standard. In 1987, it peaked at number two on the British charts, narrowly missing the UK Christmas number one spot, which was taken by the Pet Shop Boys' "Always On My Mind." "the song fairytale of New York by the pokes with Kirsty McCall now a beloved holiday standard peaked at number two on the British charts missing its chance to be a UK Christmas number one." ← Hit Parade Music History and Music Trivia > Music Trivia - The Christmas Music Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Fairytale of New York (1987)** : This "rousing, moving and occasionally foul mouthed Christmas ballad" was an unlikely hit for The Pogues, a "boozy, rollicking Celtic folk punk act" not typically known for ballads, in collaboration with Kirsty MacColl. Written as early as 1985, frontman Shane MacGowan claims it resulted from a Christmas songwriting bet with Elvis Costello. The song tells the story of an imperfect romance between degenerate Irish immigrants during a Christmas Eve in a New York jail cell. Despite its controversial use of an in-character gay epithet, it became the best-known song of their respective careers, is routinely polled as the best Christmas song of all time, and ranks as the most played British Christmas song of the 21st century. It peaked at number two in December 1987, behind the Pet Shop Boys, but has since reached the UK Top 20 an additional 14 times. "Fairytale of New York." ← Hit Parade Music History and Music Trivia > The Christmas is All Around Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Sid Vicious's Pogo Origin Story** : Shane McGowan, the singer of The Pogs and a big punk fan, offered an alternative explanation for Sid Vicious's Pogo dance. He suggested that Sid's dance style was a result of him wearing a tight leather poncho that restricted his movements, forcing him to simply jump up and down. "He says Sid's dance was the result of him insisting on wearing a tight leather poncho that restricted his dance movements to just jumping up and down." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y ← the-pogs
@@ -67,6 +71,8 @@
 **Steve Lillywhite's Role** : Producer Steve Lillywhite, known for his work on U2's first three albums, played a crucial role in the development of "Fairy Tale of New York." He produced The Pogues' third album, "If I Should Fall From Grace With God," and, being married to Kirsty MacColl, arranged for her to record the female vocal parts. "The producer was a guy named Steve Lillie White. He had helped you too with their first three albums." ← https://www.youtube.com/watch?v=k9ok8M31-38 ← the-pogues ← the-pogues
 **Tumultuous Career and Split** : The Pogues had a critically acclaimed but highly tumultuous career. Shane MacGowan was at one point kicked out of the band and temporarily replaced by Joe Strummer, only to be welcomed back later. The band experienced breakups and long hiatuses, ultimately splitting permanently in 2014 when Shane MacGowan's struggles with drinking and drug problems became unmanageable. "The pokes would go on to have a critically acclaimed but tumultuous career, which would see Shane kicked out replaced by Joe Strummer of all people. And then welcome back in. They were breakups, long hiatus and finally a permanent split in 2014 when Shane could no longer outrun his drinking and drug problems." ← https://www.youtube.com/watch?v=cuUF4MByxyo ← the-pogues ← the-pogues
 **Viral Encephalitis Diagnosis (2022)** : In December 2022, Shane MacGowan's health deteriorated further when he was diagnosed with viral encephalitis, leading to another hospitalization. "Things got worse in December 2022 when he was diagnosed with viral encephalitis." ← https://www.youtube.com/watch?v=LP8NGDCe-GY ← the-pogues ← the-pogues
+**Collaboration with Kirsty MacColl** : The Pogues teamed up with Kirsty MacColl for "Fairytale of New York," a collaboration that led to one of the most beloved British songs of the last three decades. MacColl was added to the track late in the game, nearly preventing it from being a duet. "the unlikely duo of the pokes and Kirsty McCall." ← Hit Parade Music History and Music Trivia > The Christmas is All Around Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Songwriting Origin** : Frontman Shane MacGowan claims "Fairytale of New York," written as early as 1985, was the result of a Christmas songwriting bet with fellow British Irishman Elvis Costello. This anecdote adds to the song's legendary status. "their dendtally challenged frontman Shane McGowan still claims it was the result of a Christmas songwriting bet with fellow British Irishman Elvis Costello." ← Hit Parade Music History and Music Trivia > The Christmas is All Around Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **MOJO Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3319330
@@ -82,4 +88,4 @@
 ## lists
 **"Rum Sodomy & the Lash" (1985) — 1001 Albums You Must Hear Before You Die** : #554.
 **"If I Should Fall From Grace With God" (1988) — 1001 Albums You Must Hear Before You Die** : #609.
-**"Rum Sodomy & the Lash" (1985) — Scaruffi 1980s** : #644. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Rum Sodomy & the Lash" (1985) — Scaruffi 1980s** : #644.

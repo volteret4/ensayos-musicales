@@ -12,6 +12,7 @@
 - Jazz
 - Soul
 - Trip Hop
+- TripHop
 
 ## instruments
 - Samples
@@ -33,6 +34,8 @@
 **Elisium** : A song from PortiGer's second album, highlighted for its astonishing scratching techniques that pushed the boundaries of the art form. ← Music Radar Clan > 5 Momentos increíbles de Scratching experimental | https://www.youtube.com/watch?v=IBprDpCEn_k&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← yeop-barrow ← yeop-barrow
 **Elisium** : A song from PortiGer's second album, highlighted for its astonishing scratching techniques that pushed the boundaries of the art form. ← Music Radar Clan > 5 Momentos increíbles de Scratching experimental | https://www.youtube.com/watch?v=IBprDpCEn_k&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← yeop-barrow
 **Sour Times (1994)** : This was one of three singles released from Portishead's 1994 debut record, "Dummy." The song prominently features the distinctive voice of singer Beth Gibbons. "Portus Head featured in the unmistakable voice of Beth Gibbons, sour times, one of the three singles from their 1994 debut record entitled Dummy." ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← portishead
+**Sour Times (1994)** : A track by Portishead, a Bristol band affiliated with Massive Attack, which reached number 13 on the British Pop Chart, number 5 on Billboard's Modern Rock Chart, and received airplay on some American Top 40 stations, making it a pop-friendly example of TripHop. "Sour Times by Portishead, another Bristol band affiliated with Massive Attack reached Number 13 on the British Pop Chart and on Billboard's Modern Rock Chart, it reached Number 5 and even received airplay on some American Top 40 stations." ← Hit Parade Music History and Music Trivia > Hit Parade - The Veronica Electronica Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Sour Times (1994)** : A song by the Bristol band Portishead that reached number 13 on the British pop chart and number five on Billboard's Modern Rock Chart. It also received airplay on some American Top 40 stations, making it "perhaps the pop-friendlyest example of trip hop." "Sour Times by Portis Head, another Bristol band affiliated with Massive Attack, reached number 13 on the British pop chart and on Billboard's Modern Rock Chart, it reached number five and even received airplay on some American top 40 stations." ← Hit Parade Music History and Music Trivia > Madonna - The Veronica Electronica Edition (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
 **Wondering Star** : Featured on PortiGer's debut album, this song contains remarkable scratching moments that challenged perceptions of what was possible with turntables. ← Music Radar Clan > 5 Momentos increíbles de Scratching experimental | https://www.youtube.com/watch?v=IBprDpCEn_k&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← yeop-barrow ← yeop-barrow
 **Wondering Star** : Featured on PortiGer's debut album, this song contains remarkable scratching moments that challenged perceptions of what was possible with turntables. ← Music Radar Clan > 5 Momentos increíbles de Scratching experimental | https://www.youtube.com/watch?v=IBprDpCEn_k&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← yeop-barrow
 
@@ -46,16 +49,18 @@
 **Successor in Modern Electronic Music** : Portishead, founded by Geoff Barrow, emerged after Massive Attack and continued to shape the landscape of modern electronic music. "luego vino portis jez." ← Music Radar Clan > Massive Attack - Blue Lines. Un antes y un después en la música. | https://www.youtube.com/watch?v=Ik7PQ2X1o3M&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← portishead ← portishead
 **Trip Hop's UK Dominance (Mid-90s)** : Despite stiff competition from Britpop acts like Blur and Oasis, Portishead and their distinctive sound were instrumental in elevating Trip Hop to one of the most dominant musical styles in the UK during the mid-1990s. "But whatever she did, she and her bandmates helped turn Trip Hop into one of the most dominant sounds in the UK in the middle 90s, even in the face of competition from blur, oasis, and the rest of the Brit-pop gang." ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← portishead
 **Un For World Reinterpretations** : Portishead is listed among the artists whose music has been reinterpreted by Un For World using soundfonts, highlighting Un For World's innovative approach that goes beyond basic MIDI instrument substitution. "Ha reinterpretado FX Twin, PortxG, Tomas y Fatad, y no se vivica solo recopilar las pistas Mibi, crea las soyas propias y aplica a los sonidos de forma muy creativa." ← El fenómeno de Soundfont Album. Discos reinterpretados en videojuegos | https://www.youtube.com/watch?v=ekozTKngeAw
+**Bristol Trip Hop Band** : Portishead was a Bristol band affiliated with Massive Attack, and was one of the acclaimed acts in the trip hop mini-genre in 1995. "Sour Times by Portis Head, another Bristol band affiliated with Massive Attack" ← Hit Parade Music History and Music Trivia > Madonna - The Veronica Electronica Edition (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
+**Sampled Isaac Hayes' "Ike's Rap 2"** : The trip hop act Portishead repurposed Isaac Hayes' "Ike's Rap 2" from his 1971 album *Black Moses* to create their 1994 song "Glory Box," making Hayes' track a foundational sample in Trip Hop. "Became a foundational sample in Trip Hop when Portishead repurposed it for 1994's Glory Box." ← Hit Parade Music History and Music Trivia > Spirit of ’71, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Dummy" (1994) — 1001 Albums You Must Hear Before You Die** : #760, 8.0/10 Scaruffi.
-**"Roseland NYC Live" (1998) — AOTY Must Hear 1990s** : #52, 73 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Portishead" (1997) — AOTY Must Hear 1990s** : #109, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Dummy" (1994) — AOTY Must Hear 1990s** : #277, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Third" (2008) — AOTY Must Hear 2000s** : #92, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Dummy" (1994) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #131, 8.0/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Dummy" (1994) — Scaruffi 1990s** : #112, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Dummy" (1994) — Pitchfork: The 150 Best Albums of the 1990s** : #11, 8.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Dummy" (1994) — Sputnikmusic Best Albums 1994** : #10, 8.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
-**"Portishead" (1997) — Sputnikmusic Best Albums 1997** : #116, 82 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
-**"Third" (2008) — Sputnikmusic Best Albums 2008** : #180, 85 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2008/
+**"Roseland NYC Live" (1998) — AOTY Must Hear 1990s** : #52, 73 AOTY.
+**"Portishead" (1997) — AOTY Must Hear 1990s** : #109, 82 AOTY.
+**"Dummy" (1994) — AOTY Must Hear 1990s** : #277, 8.0/10 Scaruffi.
+**"Third" (2008) — AOTY Must Hear 2000s** : #92, 85 AOTY.
+**"Dummy" (1994) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #131, 8.0/10 Scaruffi.
+**"Dummy" (1994) — Scaruffi 1990s** : #112, 8.0/10 Scaruffi.
+**"Dummy" (1994) — Pitchfork: The 150 Best Albums of the 1990s** : #11, 8.0/10 Scaruffi.
+**"Dummy" (1994) — Sputnikmusic Best Albums 1994** : #10, 8.0/10 Scaruffi.
+**"Portishead" (1997) — Sputnikmusic Best Albums 1997** : #116, 82 AOTY.
+**"Third" (2008) — Sputnikmusic Best Albums 2008** : #180, 85 AOTY.

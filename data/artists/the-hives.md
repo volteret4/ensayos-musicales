@@ -40,4 +40,4 @@
 
 ## lists
 **"Your New Favourite Band" (2001) — 1001 Albums You Must Hear Before You Die** : #961.
-**"Veni Vidi Vicious" (2000) — Scaruffi 2000s** : #412, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Veni Vidi Vicious" (2000) — Scaruffi 2000s** : #412, 7.0/10 Scaruffi.

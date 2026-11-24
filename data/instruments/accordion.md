@@ -11,6 +11,10 @@
 **They Might Be Giants' Early Instrumentation** : In the early years of They Might Be Giants, John Linnell provided backup music on the accordion. "while the other John would provide backup on a accordion." ← https://www.youtube.com/watch?v=I9_3EbwKPnU ← accordion ← accordion
 **Unexpected Use in Rock Music** : The accordion was notably played by Sheryl Crow as a guest musician on Scott Weiland's solo album, 12 Bar Blues. Its inclusion was considered unusual and interesting for a rock record, diverging from what would typically be heard in Weiland's band, Stone Temple Pilots. "She was brought in to play of all things the accordion. This wasn't STP, but I'm sure as hell was interesting." ← https://www.youtube.com/watch?v=-f9jhqAHkQo ← accordion
 **John Mellencamp's Rootsy Experimentation** : For his 1987 album "The Lonesome Jubilee," John Mellencamp and his band incorporated traditional folk and country instruments, including the accordion, to deepen his Americana sound during his imperial peak. "Melanchamp and his band picked up folk and country instruments like auto harp, banjo, accordion and fiddle." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f03154465cd600c5379
+**John Oates's First Instrument** : John Oates initially played the accordion as a kid before picking up the guitar, which eventually became his primary instrument. "Oates, who picked up the guitar as a kid after giving up the accordion." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Unrock Instrument in Rock Parody** : The accordion, typically considered an "unrock instrument," was famously wielded by Weird Al Yankovic with a "rabid rock and roll attack" on television, becoming a signature element of his comedic rock parodies and live performances. "his rabid rock and roll attack on the accordion and unrock instrument." ← Hit Parade Music History and Music Trivia > The White and Nerdy Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Un-Rock" Instrument in Rock Parody** : The accordion is described as an "un-rock instrument" that "Weird Al" Yankovic incorporated into his "rabid rock and roll attack" on television, helping define his unique image and sound. "his rabid rock and roll attack on the accordion and unrock instrument." ← Hit Parade Music History and Music Trivia > The White and Nerdy Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Featured in Polka Medleys** : On "Weird Al" Yankovic's albums, polka medleys ingeniously mashed up accordion covers of more than a dozen hit songs, typically running three to five minutes, with arrangements described as "beer garden worthy." "Al ingeniously mashes up accordion covers of more than a dozen hit songs in three to five minutes, with beer garden worthy arrangements." ← Hit Parade Music History and Music Trivia > The White and Nerdy Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Clifton Chenier
@@ -19,3 +23,8 @@
 - The Space Lady
 - They Might Be Giants
 - John Mellencamp
+- Bob Dylan
+- Billy Joel
+- John Oates
+- "Weird Al" Yankovic
+- David Hidalgo

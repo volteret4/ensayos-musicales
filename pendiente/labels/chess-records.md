@@ -11,9 +11,10 @@
 **Preference for Black Artists** : Chess Records primarily released tracks by black artists, a factor that influenced Stan Lewis's strategy to pitch Dale Hawkins, a white artist, to their subsidiary Checker, believing Checker might be open to a white act if it was an "answer record" to a previous successful white release. "While chess records put out almost solely tracks by black artists" ← Episode 63： ＂Susie Q＂, by Dale Hawkins | https://www.youtube.com/watch?v=4vqj1DcXOfw
 **Rejection of Jackie Wilson's Sound** : Chess Records showed no interest in signing Jackie Wilson, preferring a "harder blues sound" over Wilson's more soulful style. "Davis tried to get Wilson signed to chess records, but they weren't interested in Wilson's sound. They wanted a harder blues sound, rather than Wilson's more soulful sound." ← Episode Sixty-Four： ＂Reet Petite＂ by Jackie Wilson | https://www.youtube.com/watch?v=BYU-H4NvnmE
 **Stan Lewis's Influence and Talent Scouting** : Stan Lewis, owner of Stan's Record Shop, served as a talent scout for Chess Records and was one of its largest customers. Chess highly valued Lewis's endorsement, knowing that any record he backed would sell well, particularly in Louisiana. Lewis also operated as a major record distributor across the entire region. "Stan Lewis was, among other things, both a talent scout for chess records and one of the biggest customers of the label." ← Episode 63： ＂Susie Q＂, by Dale Hawkins | https://www.youtube.com/watch?v=4vqj1DcXOfw
+**Co-Release for "Bad Girl"** : The Miracles' single "Bad Girl" was co-released by Motown and Chess Records in October 1959. "Bad Girl, produced by Barry Gordy and co-released by Motown and Chess Records, was the first miracle single to make the Billboard charts." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Chuck Berry
 - Maurice White
 - The Four Tops
-
+- The Miracles

@@ -1,0 +1,10 @@
+# concert - March on Washington
+
+## curiosities
+**Catalyst for Social Anthems** : The March on Washington in 1963, highlighted by Mahalia Jackson's presence and performance of "How I Got Over" and Joan Baez's rendition of Odetta's "Oh Freedom," served as a significant catalyst for Sam Cook. Cook was "fired up" by the event and began contemplating the need to write his own powerful social anthem, leading to the creation of "A Change Is Gonna Come." "The fact is Sam Cook had been thinking he needed to write his own blowing in the wind as far back as the march on Washington." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Coincidence with "Fingertips" #1 Hit (1963)** : Stevie Wonder's "Fingertips" was still the number one song in America at the start of the August week when Dr. Martin Luther King Jr. led his March on Washington. This coincidence was later noted by music historians. "Fingertips was still the number one song in America at the start of the August week when Dr. Martin Luther King Jr. led his March on Washington." ← Hit Parade Music History and Music Trivia > The Everybody Say YEAH! Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Cultural Significance of #1 Song (1963)** : In one of the most consequential weeks for race relations in American history, the outgoing top song in the land was a "quintessentially African-American single," featuring a young black man not yet in his teens inspiring a largely black crowd to clap along and raise the roof, gospel-style, to an improvised melody. "Several music historians would later note that in one of the most consequential weeks for race relations in American history, the outgoing top song in the land was a quintessentially African-American single, a young black man not yet in his teens, inspiring a largely black crowd to clap along and raise the roof, gospel style, to an improvised melody." ← Hit Parade Music History and Music Trivia > The Everybody Say YEAH! Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## artists
+- Joan Baez
+- Mahalia Jackson

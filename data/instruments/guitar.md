@@ -121,6 +121,26 @@
 **"Searing Guitars" in "When Doves Cry" (1984)** : Prince's "When Doves Cry" featured "searing guitars" as one of its distinct musical elements, contributing to its "bleeding-edge art" quality. "Searing guitars, and pinging lin drum machines." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce81
 **Andy Summers' Contribution to "Every Breath You Take"** : Andy Summers created the famous "smoldering riff" and guitar arpeggio for "Every Breath You Take," elements that are considered as important to the song's lasting appeal as Sting's melody. "The guitar arpeggio, that famous smoldering riff which Andy Summers came up with himself and the cracking snare drum rhythm that Stuart Copeland devised." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
 **Andy Summers' Blazing Solo on Animals Track** : Andy Summers contributed a "blazing guitar solo" to a 1968 track by Eric Burdon and The Animals, showcasing his talent early in his career. "And the blazing guitar solo you're hearing is by Andy Summers, who was only with The Animals for one album." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
+**Prince's Blazing Solo (2004)** : During his triumphant Rock and Roll Hall of Fame performance in 2004, Prince delivered a blazing guitar solo. "or his blazing guitar solo" ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Jagged Guitars in "Maps"** : The Yeah Yeah Yeahs' song "Maps" was characterized by its "jagged guitars" contributing to its distinctive "art-damaged ballad" sound. "With its romantic lyrics sung gently by Karen O, combined with jagged guitars and thundering drones, Maps was the ultimate hybrid song of early Aughts in the Rock." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Chugging Guitar in "Maps" and "Since U Been Gone"** : Max Martin and Dr. Luke mimicked the "chugging guitar" from the Yeah Yeah Yeahs' "Maps" when they created Kelly Clarkson's "Since U Been Gone," making it a key element that gave the pop song an indie rock feel. "Martin and Gottwald actually mimicked some major elements of the Ye-ye-ye's track, including its chugging guitar and its G major chord." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Piling on Guitars by Pink** : Pink evolved her sound towards rock by "piling on the guitars," while still collaborating with R&B producers like Dallas Austin. "continuing to work with R&B producers like Dallas Austin, but piling on the guitars." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Live Instrument in Ray of Light Production** : During the four-and-a-half-month production of Madonna's "Ray of Light" album, live instruments such as guitar were meticulously mixed with computer-generated sounds and obscure samples to build the tracks. "built tracks out of a mix of live instruments like guitar, computer generated sounds and obscure samples." ← Hit Parade Music History and Music Trivia > Hit Parade - The Veronica Electronica Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**George Benson's Prodigy Status** : George Benson was initially known as a "guitar prodigy" before evolving into an R&B frontman with smooth vocals. "George Benson, a guitar prodigy" ← Hit Parade Music History and Music Trivia > I Wanna Rock with Q. Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Nile Rodgers Contribution (2013)** : Legendary rock and R&B musician Nile Rodgers contributed "irresistible guitar" to Daft Punk's Grammy-winning disco jam "Get Lucky," highlighting his distinctive and influential playing style. "featured irresistible guitar by rock and arrend-be-legend Nile Rocks." ← Hit Parade Music History and Music Trivia > Rolling in God’s Royal Uptown Road Edition. | https://my.slate.com/podcasts/feeds/hit-parade/
+**Defining a Rock Staple (1970s)** : The guitar played a central role in defining rock staples, as exemplified by Eric Clapton's "7 minutes screamer" Layla. Its prominence in album-oriented rock (AOR) established it as a significant instrumental piece within the genre, even if its pop chart success was delayed. "Eric Clapton's side project supergroup, Derek and the Domino's, confounded the charts at first. Clapped in 7 minutes screamer about coveting another man's wife was promoted to album oriented rock or AOR radio." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Grungy Guitar Sound** : On Nirvana's 1989 debut album "Bleach," the musical style featured prominent "grungy guitars" which provided the backdrop for Kurt Cobain's melodic songwriting. "Those like About a Girl had beat-aless melodies underneath the grungy guitars." ← Hit Parade Music History and Music Trivia > Smells Like Christmas Spirit, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Brown Sugar" Opening Riff** : The Rolling Stones' song "Brown Sugar" is noted for opening with a "simple guitar riff" that immediately transitions into a "mesmerizing groove." This riff is considered a signature element of the song, which fans have tried to recreate without matching the original's distinct quality. "It opens with a simple guitar riff before sliding into a mesmerizing groove." ← Hit Parade Music History and Music Trivia > Spirit of ’71, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Peter Buck's Signature Hook on "Driver 8"** : Peter Buck contributed a distinctive guitar hook to R.E.M.'s song "Driver 8," which was noted for being reminiscent of the style of vintage Neil Young. "a Peter Buck guitar hook reminiscent of vintage Neil Young." ← Hit Parade Music History and Music Trivia > The Deadbeat Club Edition, Part One | https://my.slate.com/podcasts/feeds/hit-parade/
+**Eric Clapton's Prowess** : Eric Clapton was described as a "God-like guitarist" who led the rock supergroup Cream. "Creme, led by God-like guitarist, Eric Clapton." ← Hit Parade Music History and Music Trivia > The Nights on Broadway Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Joe Walsh's Session Work** : Eagles guitarist Joe Walsh was recruited by Barry Gibb to play on Andy Gibb's first two number one hits, "I Just Want to Be Your Everything" and "Love Is Thicker Than Water." "Barry recruited Eagles guitarist Joe Walsh to play on both everything and its follow-up. Love is thicker than water." ← Hit Parade Music History and Music Trivia > The Nights on Broadway Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Nile Rogers' Early Learning (1968)** : In 1968, at the age of 15, Nile Rogers attempted to teach himself to play guitar in the Bronx. He initially struggled to make a Beatles song, "A Day in the Life," sound right on his Christmas guitar until his mother's live-in boyfriend provided an impromptu lesson on proper tuning. "15-year-old Nile Rogers was trying to teach himself to play this Beatles song. The Prokoshis teenager couldn't understand why a day in the life sounded so terrible on the guitar he'd gotten for Christmas." ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Nile Rogers' "Chicken Scratch" Style** : Nile Rogers developed a distinctive "chicken scratch" guitar technique, characterized by its rhythmic, danceable, funk-and-R&B syncopation. Bernard Edwards actively encouraged Rogers to employ this irresistibly syncopated style, which perfectly complemented Edwards' bass lines and became a signature sound for Sheik. "the chicken scratch guitar that had become Nile's own signature." ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Nile Rogers' Jazz and Classical Training** : Prior to his immersion in funk and soul grooves, Nile Rogers was a "straight, classical and jazz-trained player." In the early 1970s, he pursued formal education, studying with jazz and classical guitarists. This foundational training, combined with his ability to read music from earlier wind instrument studies, was a distinguishing factor that helped him secure professional gigs. "To that point, Rogers was a straight, classical and jazz-trained player." ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Motorcycle Sound Emulation** : For the title track of *Bat Out of Hell*, producer Todd Rundgren ingeniously emulated the sound of a revving motorcycle using nothing but his guitar and an overblown amplifier, a technique Jim Steinman initially thought would require an actual motorbike. "Steinman thought they would need an actual motorbike, but the wizardly rungren emulated it with nothing but his guitar and an overblown amplifier." ← Hit Parade Music History and Music Trivia > Turn Around, Bright Eyes, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Steve Lukather's Diverse Contributions** : Steve Lukather of Toto showcased his guitar prowess by playing the main riff on the verses of Michael Jackson's "Beat It" and a "showcase solo" on Lionel Richie's "Running With The Night." This highlights his versatility across hard rock and smooth pop. "the main guitar riff is actually played by Toto's Steve Lucifer." ← Hit Parade Music History and Music Trivia > What a Fool Believes, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Eddie Van Halen's Iconic Solo** : Eddie Van Halen's "blistering solo" on the bridge of Michael Jackson's "Beat It" is famously recognized. This guest appearance brought a definitive hard rock element to a pop masterpiece. "Famously, the chart-topping Beat It's blistering solo on the bridge is played by guitar god Eddie Van Halen" ← Hit Parade Music History and Music Trivia > What a Fool Believes, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**John Lennon's Contribution to "Lucy in the Sky with Diamonds" Cover** : John Lennon contributed guitar to Elton John's 1975 cover of "Lucy in the Sky with Diamonds" under the pseudonym Dr. Winston O'Bregge. His guitar work, along with backing vocals, helped shape the sound of this whimsical cover version. "Lennon even provided backing vocals and guitar on Lucy under the pseudonym Dr. Winston O'Bregge." ← Hit Parade Music History and Music Trivia > Without The Beatles | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Adam Jones
@@ -302,3 +322,33 @@
 - Andy Summers
 - Dominic Miller
 - Keith Richards
+- The Beatles
+- Timbaland
+- Bob Dylan
+- Billy Joel
+- Prince
+- George Harrison
+- Donna Summer
+- Stevie Wonder
+- Eric Clapton
+- Nile Rodgers
+- Bruce Springsteen
+- Bruno Mars
+- Barbra Streisand
+- Tom Petty
+- Andy Gibb
+- Lenny Kravitz
+- Jethro Tull
+- Hanson
+- Eddie Van Halen
+- Steve Hackett
+- John Oates
+- Walter Becker
+- Mason Williams
+- Steve Lacy
+- David Fenton
+- Alex Spanador Mosley
+- John Fogerty
+- Mike Rutherford
+- Fabiano Do Nascimento
+- Todd Rundgren

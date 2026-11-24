@@ -7,6 +7,7 @@
 **Biggest Songs in Hypnosis Catalog** : Sean Mendes' biggest songs are included in the Hypnosis Song Fund's diverse catalog, alongside works by "great Canadians of old" like Neil Young and Leonard Cohen. "At the same time, we have Sean Mendez's biggest songs. We had Justin Bieber's biggest songs before we bought Justin's share of the catalog." ← https://www.youtube.com/watch?v=Pe40SqDrpZ0 ← sean-mendes
 **Social Media Origin** : Shawn Mendes is cited as an artist who rose to prominence and built his career through the use of social media platforms. "Shawn Mendes." ← https://www.youtube.com/watch?v=nX8uAFDzDYM ← shawn-mendes
 **YouTube Discovery** : Shawn Mendes was initially found on YouTube, showcasing the digital evolution of talent discovery by A&R personnel. "Shawn Mendes... they were all first found on YouTube." ← https://www.youtube.com/watch?v=5kPmqmbFfkY ← shawn-mendes ← shawn-mendes
+**Blocked by "Old Town Road" (2019)** : Shawn Mendes's summer hit in 2019 peaked at number two on the pop chart, unable to dislodge Lil Nas X's "Old Town Road" from the number one position. "The song's streams were so gargantuan that it held the top of the pop chart through all of the spring and most of the summer of 2019, blocking singles by Ed Sheeran, Justin Bieber, Shawn Mendes, and even the mighty Taylor Swift, all of their summer hits peaked at number two, stuck behind Old Town Road." ← Hit Parade Music History and Music Trivia > Ride ’til I Can’t No More Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Canada's Walk of Fame (2015)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q857933
@@ -28,6 +29,6 @@
 **""Stitches"" — UK Singles Chart** : #10, 2016. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
 
 ## lists
-**"Handwritten" (2015) — Juno Awards: Album of the Year** : #2016. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Illuminate" (2016) — Juno Awards: Album of the Year** : #2017. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Wonder" (2020) — Juno Awards: Album of the Year** : #2022. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
+**"Handwritten" (2015) — Juno Awards: Album of the Year** : #2016.
+**"Illuminate" (2016) — Juno Awards: Album of the Year** : #2017.
+**"Wonder" (2020) — Juno Awards: Album of the Year** : #2022.

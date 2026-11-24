@@ -14,5 +14,5 @@
 **Exceptional DJ Skills** : Daniel Avery is highly praised for his exceptional DJing abilities, delivering excellent and memorable sets. "un tío además que pincha súper bien a sesiones buenísimas." ← Music Radar Clan > Lanzamientos ABRIL 2018 | https://www.youtube.com/watch?v=3_SAz8OxeIA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← daniel-avery
 
 ## lists
-**"Song For Alpha" (2018) — AOTY Must Hear 2010s** : #200, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Drone Logic" (2013) — AOTY Must Hear 2010s** : #651, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
+**"Song For Alpha" (2018) — AOTY Must Hear 2010s** : #200, 80 AOTY.
+**"Drone Logic" (2013) — AOTY Must Hear 2010s** : #651, 81 AOTY.

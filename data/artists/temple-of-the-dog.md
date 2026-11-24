@@ -36,5 +36,5 @@
 **Tribute to Andrew Wood** : Temple of the Dog was formed as a quick tribute to Andrew Wood, Chris Cornell's former roommate and the singer of Mother Love Bone, who tragically died in March 1990. Cornell wrote several songs in his friend's honor, which he then shared with the surviving members of Mother Love Bone, leading to the formation of this supergroup. "When he got back to Seattle, he showed the surviving members of Mother Love Bone, the songs. When other materials started flowing, they decided to record a quick tribute album under the name Temple of the Dog." ← https://www.youtube.com/watch?v=lip0bZX7hBE ← temple-of-the-dog
 
 ## lists
-**"Temple of the Dog" (1991) — AOTY Must Hear 1990s** : #403, 74 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Temple of the Dog" (1991) — Sputnikmusic Best Albums 1991** : #65, 74 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
+**"Temple of the Dog" (1991) — AOTY Must Hear 1990s** : #403, 74 AOTY.
+**"Temple of the Dog" (1991) — Sputnikmusic Best Albums 1991** : #65, 74 AOTY.

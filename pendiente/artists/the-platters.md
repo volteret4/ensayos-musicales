@@ -19,6 +19,7 @@
 - Do-wop
 - R&B
 - Rock and Roll
+- Rock music
 - Smooth Balladry
 
 ## labels
@@ -27,6 +28,7 @@
 
 ## songs
 **The Great Pretender (1955)** : This song, also written by Book Ram, was the follow-up to "Only You" and proved to be an even bigger hit, solidifying The Platters' string of successes. "Oh, yes, I'm the great pretender. Retending that I'm doing well. My need is such I pretend too much. I'm only evil, but no one can tell." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
+**My Prayer (1956)** : This remake of a song made famous by The Ink Spots in the late 1930s became the first number one hit of the rock era by a black vocal group in the spring of 1956. "In the spring of 1956, the platters scored the first number one of the rock era by a black vocal group with their remake of the song The Ink Spots Made Famous in the late 30s My Prayer." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Only You (And You Alone) (1955)** : This song was originally written by Book Ram with the intention of giving it to The Ink Spots, but it was set aside. Book Ram initially thought the song was "rubbish," an assessment seemingly confirmed by the initial bad recording by The Platters. Jean Bennett, Ram's assistant, rediscovered the sheet music, and Tony Williams insisted on recording it. A voice crack by Williams on the word "only" during an early take was incorporated, adding to the song's character. It became a massive hit, defining an era as the epitome of 1950s Smooth Balladry, spending 30 weeks on the R&B chart (seven at number one) and 22 weeks on the pop chart (peaking at number five). Federal Records rush-released their "awful" original recording to cash in, leading to a lawsuit with Ram and Mercury, which Federal eventually won the right to release but it didn't chart. "no, it sounded good, use it." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
 **Smoke Gets in Your Eyes (1958)** : A hit for The Platters, showcasing their transition into the lucrative adult market by covering standards, and regularly charting high on the pop charts. "smoke gets in your eyes." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
 **Twilight Time (1958)** : Another hit song for The Platters, contributing to their consistent presence at the top of the pop chart. "twilight time." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
@@ -61,6 +63,7 @@
 **Transition to Adult Market** : Although initially marketed as a rock and roll group, The Platters quickly transitioned into the more financially rewarding adult market. This involved recording albums of popular standards, appealing to a broader audience beyond the rock and roll demographic. "But while they started off marketed as a rock and roll group, they soon transitioned into the more lucrative adult market, recording albums of standards." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
 **Vocal Sound Transformation** : Book Ram aimed to reshape The Platters' vocal sound, drawing inspiration from 1940s groups like The Quintones and The Modernaires who featured a four-men and one-woman lineup. This led to the recruitment of Zola Taylor, whose addition was crucial to achieving Ram's desired vocal blend. "Working with The Quintones had given Ram a taste for the particular vocal blend that comes from having four men and one woman." ← Episode 31： ＂Only You＂ by the Platters | https://www.youtube.com/watch?v=ojUNoetEX-c
 **Zola Taylor's Membership** : Zola Taylor was a member of The Platters before being replaced by Sandra Doyle, who had previously joined The Teenagers. "who would later be Zola Taylor's replacement in the Platters." ← Episode 35： ＂Why Do Fools Fall In Love？＂ by Frankie Lymon and the Teenagers | https://www.youtube.com/watch?v=AtZf9PJEttM
+**First Black Vocal Group Rock Era #1 (1956)** : In the spring of 1956, The Platters achieved a historic milestone by scoring the first number one hit of the rock era by a black vocal group with their remake of "My Prayer." "In the spring of 1956, the platters scored the first number one of the rock era by a black vocal group with their remake of the song The Ink Spots Made Famous in the late 30s My Prayer." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Only You" — Billboard Year-End Hot 100** : #29, 1955. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

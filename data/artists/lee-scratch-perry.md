@@ -13,5 +13,5 @@
 **Gold Musgrave Medal (2013)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q29045078
 
 ## lists
-**"Double Seven" (1974) — Scaruffi 1970s** : #386, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Revolution Dub" (1975) — Scaruffi 1970s** : #387, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Double Seven" (1974) — Scaruffi 1970s** : #386, 7.0/10 Scaruffi.
+**"Revolution Dub" (1975) — Scaruffi 1970s** : #387, 7.0/10 Scaruffi.

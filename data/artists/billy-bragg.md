@@ -8,6 +8,7 @@
 
 ## curiosities
 **Artwork Designer** : Barney Bubbles did design work for Billy Bragg. "He did work for Billy Bragg, Elvis Costello, and Ian Jury." ← https://www.youtube.com/watch?v=pwebM3TfSdg ← billy-bragg
+**Comparison to Chris Carrabba** : Chris Carrabba of Dashboard Confessional was compared to Billy Bragg, being described as "to emo what Billy Brad was to punk in the 80s." This comparison highlighted Carrabba's role as an acoustic balladeer who nevertheless attacked his guitar with punk energy. "Caraba was to emo what Billy Brad was to punk in the 80s, an acoustic balladier who attacked his guitar like a punkwood." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **"Spirit of Americana" Free Speech Award (2016)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q96586004
@@ -15,4 +16,4 @@
 ## lists
 **"Talking With the Taxman About Poetry" (1986) — 1001 Albums You Must Hear Before You Die** : #569.
 **"Mermaid Avenue" (1998) — 1001 Albums You Must Hear Before You Die** : #862.
-**"Life's a Riot with Spy Vs Spy" (1983) — Scaruffi 1980s** : #845, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Life's a Riot with Spy Vs Spy" (1983) — Scaruffi 1980s** : #845, 7.0/10 Scaruffi.

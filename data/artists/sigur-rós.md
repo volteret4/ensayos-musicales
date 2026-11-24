@@ -55,11 +55,11 @@
 
 ## lists
 **"Ágætis byrjun" (1999) — 1001 Albums You Must Hear Before You Die** : #901, 85 AOTY.
-**"Ágætis byrjun" (1999) — AOTY Must Hear 1990s** : #30, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Takk..." (2005) — AOTY Must Hear 2000s** : #234, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"( )" (2002) — AOTY Must Hear 2000s** : #385, 79 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Kveikur" (2013) — AOTY Must Hear 2010s** : #681, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Ágætis byrjun" (1999) — Scaruffi 1990s** : #305, 85 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Ágætis byrjun" (1999) — Sputnikmusic Best Albums 1999** : #6, 85 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1999/
-**"Takk..." (2005) — Sputnikmusic Best Albums 2005** : #35, 83 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2005/
-**"Kveikur" (2013) — Sputnikmusic Best Albums 2013** : #124, 80 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2013/
+**"Ágætis byrjun" (1999) — AOTY Must Hear 1990s** : #30, 85 AOTY.
+**"Takk..." (2005) — AOTY Must Hear 2000s** : #234, 83 AOTY.
+**"( )" (2002) — AOTY Must Hear 2000s** : #385, 79 AOTY.
+**"Kveikur" (2013) — AOTY Must Hear 2010s** : #681, 80 AOTY.
+**"Ágætis byrjun" (1999) — Scaruffi 1990s** : #305, 85 AOTY.
+**"Ágætis byrjun" (1999) — Sputnikmusic Best Albums 1999** : #6, 85 AOTY.
+**"Takk..." (2005) — Sputnikmusic Best Albums 2005** : #35, 83 AOTY.
+**"Kveikur" (2013) — Sputnikmusic Best Albums 2013** : #124, 80 AOTY.

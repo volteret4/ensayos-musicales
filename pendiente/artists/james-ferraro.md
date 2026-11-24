@@ -9,4 +9,4 @@
 **Visionary Evocation of Tech-Consumerism** : James Ferraro's album *Far Side Virtual* was praised for its prescience in evoking a world where technology and marketing had extensively colonized personal space, a concept that resonated deeply with vaporwave's critical undertones. "El álbum evoca un mundo donde la tecnología y al marketing han colonizado el espacio personal. Que visionario fue Ferraro." ← Vaporwave： Mucho más que un Meme | https://www.youtube.com/watch?v=BhOnKc0SxsA
 
 ## lists
-**"Far Side Virtual" (2011) — Scaruffi 2010s** : #210, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Far Side Virtual" (2011) — Scaruffi 2010s** : #210, 7.0/10 Scaruffi.

@@ -2,4 +2,5 @@
 
 ## member of
 - Buffalo Springfield
+- Loggins and Messina
 - Poco

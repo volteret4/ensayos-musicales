@@ -25,6 +25,7 @@
 **Regional Diversity** : Garage Rock lacked a single, unified sound, instead exhibiting strong regional variations across different areas. For instance, Surf Rock developed distinctly on the American West Coast. "There was no one sound for Garage Rock bands. Everything was very regional." ← Ongoing History of New Music > Alt Rock Revivals Part 4： Garage Rock | https://www.youtube.com/watch?v=UpWz3X33vSY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Revival in Early 2000s** : Around the time The Strokes' debut album "Is This It" was gaining traction, there was significant talk about a garage rock revival. This movement, often associated with a "new look at an old sound," was seen as a key component of the broader Indy Rock Revival. "People were talking about a garage rock revival and the return of Indy Rock and a new look at an old sound." ← Ongoing History of New Music > The Strokes | https://www.youtube.com/watch?v=jEfofyobGiI&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Sonic Compatibility with Cassette** : The inherent "reduced sound" quality of cassette tapes has made it a characteristic and attractive medium for genres like garage rock. This specific sound, though not objectively pure, is appreciated by passionate fans who find it suitable for their music. "el sonido del caset es como un sonido que se ha hecho muy característico en ciertos estilos de música como puede ser el rock de garage." ← Music Radar Clan > Coleccionar Cassettes. Cosas que hay que saber. | https://www.youtube.com/watch?v=W5mOafWo-28&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Proto Punk Roots** : 60s garage rock, exemplified by Question Mark and the Mysterians' 1966 hit "96 Tears," is recognized as one of the "mongrel art form" roots of proto-punk. "whether those roots are in 60s garage rock like question mark and the mysterious low five 1966 number one hit 96 tiers." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - ? and the Mysterians
@@ -75,4 +76,7 @@
 - Ty Segall
 - Wavves
 - Yeah Yeah Yeahs
-
+- The Archies
+- The Bangles
+- Shocking Blue
+- The B-52s

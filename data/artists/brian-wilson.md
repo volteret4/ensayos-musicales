@@ -11,6 +11,10 @@
 
 ## instruments
 - Fender Precision Bass
+- French horn
+- Harps Accord
+- Slabel
+- String quartet
 
 ## albums
 **Pet Sounds (1966)** : Brian Wilson experienced a similar creative and mental health struggle after "Pet Sounds" (by The Beach Boys), which pushed him to the limits of his mental well-being. This illustrates the immense pressure that can accompany the creation of an unrepeatable work and the challenge of living up to or surpassing such an achievement. "Lo mismo le pasó a Brian Wilson traspet Sounds, sobre acomberé que el empujó al límite de su salud mental." ← El disco imposible： La historia de Loveless y My Bloody Valentine | https://www.youtube.com/watch?v=q_SHNe_Ce9A
@@ -34,6 +38,8 @@
 **Recognition of Sgt. Pepper's Supremacy (2014)** : When asked in 2014 if Smile, had it been published, would have "beaten" The Beatles, Brian Wilson candidly replied that Sgt. Pepper's had "kicked their ass," acknowledging The Beatles' immense impact. "el Sargent Papers les había apateado el culo." ← El Álbum Perdido que pudo cambiar la música ｜ Smile de The Beach Boys | https://www.youtube.com/watch?v=DlVClI89yn4
 **Retreat and Reclusion** : Following the cancellation of Smile and the subsequent perceived decline of The Beach Boys, Brian Wilson significantly reduced his compositional role and increasingly withdrew into the reclusion of his home, marking a period of deep personal and professional retreat. "Brian Wilson redujo significativamente su rol compositivo y se retiró cada vez más a la reclusión de su hogar." ← El Álbum Perdido que pudo cambiar la música ｜ Smile de The Beach Boys | https://www.youtube.com/watch?v=DlVClI89yn4
 **Unrealized Production of "Seasons in the Sun"** : Brian Wilson of The Beach Boys had specific creative ideas for "Seasons in the Sun," which almost became a Beach Boys single, but the song's original artist, Terry Jackson, did not have the patience to see Wilson's vision through. "that was very close to becoming a Beach Boys single, but Jackson did not have the patience for all the things that Brian Wilson wanted to do with that song." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← brian-wilson
+**"God Only Knows" Composition and Arrangement (1966)** : Brian Wilson is credited as the composer and arranger of "God Only Knows," which many critics consider his greatest composition. He used a "Rococo array of instruments" in its arrangement, including French horn, Slabel, Harps Accord, and a string quartet playing in counterpoint. "As time has gone on, God only knows has emerged as to many critics, Brian Wilson's greatest composition." ← Hit Parade Music History and Music Trivia > Hit Parade - The B-Sides Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rock and Roll Hall of Fame Induction Speech (1997)** : Brian Wilson, leader of the Beach Boys, inducted the Bee Gees into the Rock and Roll Hall of Fame. He revealed that he and his brothers had regarded the Bee Gees as peers, drawing parallels between their own three-part harmonies in 1950s Hawthorne, California, and the Gibbs' similar musical development in England. He praised them as "one of the greatest vocal groups ever assembled" and emphasized the importance of their family bond and spiritual love in music. "Brian Wilson revealed live at the rock hall podium in Cleveland that he and his brothers had also regarded the Bee Gees as peers." ← Hit Parade Music History and Music Trivia > The Nights on Broadway Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Kennedy Center Honors** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1738793
@@ -52,6 +58,6 @@
 
 ## lists
 **"SMiLE" (2004) — 1001 Albums You Must Hear Before You Die** : #980, 92 AOTY.
-**"SMiLE" (2004) — AOTY Must Hear 2000s** : #287, 92 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"SMiLE" (2004) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #399, 92 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"SMiLE" (2004) — Sputnikmusic Best Albums 2004** : #128, 92 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2004/
+**"SMiLE" (2004) — AOTY Must Hear 2000s** : #287, 92 AOTY.
+**"SMiLE" (2004) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #399, 92 AOTY.
+**"SMiLE" (2004) — Sputnikmusic Best Albums 2004** : #128, 92 AOTY.

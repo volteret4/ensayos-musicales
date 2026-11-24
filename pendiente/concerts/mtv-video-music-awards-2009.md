@@ -1,0 +1,4 @@
+# concert - MTV Video Music Awards (2009)
+
+## curiosities
+**Taylor Swift's Subway Performance** : In September 2009, Taylor Swift performed her crossover hit "You Belong With Me" live at the MTV Video Music Awards in New York City. Her performance involved singing in the New York City subway system, accompanied by an "army of fans," as she moved through a station, onto a train, out at another station, and onto the street in front of Radio City Music Hall. This "Broadway level extravaganza" was described as both a display of her readiness and a welcoming gesture to New York. "In the middle of this remarkable run in September 2009, Swift traveled to New York City to perform her smash crossover hit on the 2009 MTV VMAs." ← Hit Parade Music History and Music Trivia > Taylor’s Version of Country, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/

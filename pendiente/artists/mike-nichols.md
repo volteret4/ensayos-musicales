@@ -1,0 +1,4 @@
+# artist - Mike Nichols
+
+## curiosities
+**Innovative Use of Pop Music in The Graduate (1967)** : Director Mike Nichols initially intended to use new folk rock songs from Simon & Garfunkel as a score for *The Graduate*. When new songs weren't written, he decided to leave older Simon & Garfunkel hits, like "The Sound of Silence," on the temporary soundtrack. This pivotal decision led to using well-known pop songs as a "Greek chorus" to comment on the plot and characters, rather than as incidental score music, profoundly influencing future soundtrack use. "Nichols assumed these old songs would eventually be replaced. But then he just left them in. This proved to be pivotal." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/

@@ -12,6 +12,8 @@
 **Mistakenly Predicted as New Craze (1956)** : In 1956, the *Daily Mirror* newspaper mistakenly predicted that "think-a-fold music" (skiffle) would be the new coming craze, supplanting rock and roll, which they declared "out of date, old-fashioned." They observed London's espresso bars turning into modern versions of old-time music halls, indicating a shift they believed would lead to skiffle's dominance. "Think-a-fold music is the new coming craze?" ← https://www.youtube.com/watch?v=L0j9iDuHQVA ← skiffle
 **Ramblin' Jack Elliott's Influence** : Ramblin' Jack Elliott was a major figure in the British skiffle scene due to his status as an "authentic American" and his direct connection to Woody Guthrie. "his status as an actual authentic American had meant he was one of the major figures in the British folk scene and the related skiffle scene." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4
 **Skiffle Craze** : This musical craze was a major phenomenon in Britain for approximately two years. Following its decline, it fragmented into three distinct, though overlapping, groups: folk revivalists, British blues enthusiasts, and rock and rollers. "but the Skiffle craze was a big, big thing for about two years, and when it finally died down, it splintered into three different, overlapping groups." ← Episode 70： ＂Move It＂ by Cliff Richard and the Drifters | https://www.youtube.com/watch?v=uoEWP94f6S4
+**British Answer to Rock and Roll** : Skiffle was England's mid-1950s answer to rock and roll, commonly played on washboards, jubilantly plucked guitars, and a stand-up bass. "England's mid 50s answer to rock and roll, commonly played on washboards, jubilantly plucked guitars and a stand up bass." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Major Influence on UK Groups** : Skiffle was a major influence on The Beatles, as well as other groups from Liverpool, London, and Manchester that would later achieve success in America. "Indeed, Skiffle was a major influence on the Beatles, as well as other Liverpool, London and Manchester groups that would later conquer America." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Cliff Richard
@@ -20,4 +22,4 @@
 - The Shadows
 - The Vipers Skiffle Group
 - Tommy Steele
-
+- Lonnie Donegan

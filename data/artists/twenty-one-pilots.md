@@ -100,5 +100,5 @@
 **"Heathens" — Billboard Year-End Hot 100** : #58, 2017. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Trench" (2018) — AOTY Must Hear 2010s** : #132, 79 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Clancy" (2024) — Kerrang! The 50 Best Albums of 2024** : #4. ← musicbrainz | https://beta.musicbrainz.org/series/bdba3ef9-ad91-42ef-a023-f5a2b552c74c
+**"Trench" (2018) — AOTY Must Hear 2010s** : #132, 79 AOTY.
+**"Clancy" (2024) — Kerrang! The 50 Best Albums of 2024** : #4.

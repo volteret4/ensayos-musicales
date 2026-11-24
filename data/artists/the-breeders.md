@@ -47,9 +47,9 @@
 **Similar Sound to Pixis** : The band's sound is noted for being very similar to that of the Pixis, stemming from Kindle La Chica's involvement with both groups. "son muy parecidos a los Pixis." ← Music Radar Clan > Lanzamientos Marzo 2018 | https://www.youtube.com/watch?v=KoWlht2iA7o&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← briders
 
 ## lists
-**"All Nerve" (2018) — AOTY Must Hear 2010s** : #215, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Last Splash" (1993) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #293. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Last Splash" (1993) — Scaruffi 1990s** : #175. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Pod" (1990) — Scaruffi 1990s** : #492, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Last Splash" (1993) — Pitchfork: The 150 Best Albums of the 1990s** : #35. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Pod" (1990) — Sputnikmusic Best Albums 1990** : #135, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
+**"All Nerve" (2018) — AOTY Must Hear 2010s** : #215, 80 AOTY.
+**"Last Splash" (1993) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #293.
+**"Last Splash" (1993) — Scaruffi 1990s** : #175.
+**"Pod" (1990) — Scaruffi 1990s** : #492, 7.0/10 Scaruffi.
+**"Last Splash" (1993) — Pitchfork: The 150 Best Albums of the 1990s** : #35.
+**"Pod" (1990) — Sputnikmusic Best Albums 1990** : #135, 7.0/10 Scaruffi.

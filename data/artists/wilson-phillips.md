@@ -6,6 +6,7 @@
 - Wendy Wilson
 
 ## genres
+- Pop
 - Retro pop
 
 ## albums
@@ -23,6 +24,7 @@
 **Inspiration for Weezer Song** : Rivers Cuomo of Weezer saw pictures of the girl group Wilson Phillips in a program at the opening of a new phase of the Hollywood Bowl, which inspired him to think about what it would be like to marry an established, successful celebrity, leading to the song "Beverly Hills." "Fliving through the program, he saw pictures of the girl group Wilson Phillips." ← https://www.youtube.com/watch?v=LYRPxtP61JM ← wilson-phillips
 **Nepotbaby Pedigree** : The trio had a "remarkable nepotbaby pedigree" as Carnie and Wendy Wilson are daughters of Brian Wilson of The Beach Boys, and Chynna Phillips is the daughter of John and Michelle Phillips of The Mamas & The Papas. "Wilson Phillips were three offspring of 60s rock royalty, carny and Wendy Wilson, daughters of Brian Wilson of the Beach Boys, and China Phillips, daughter of the mamas and the poppers John and Michelle Phillips." ← Hit Parade Music History and Music Trivia > Be My Baby-Baby-Baby Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eed8e6dd12efb02c340
 **Natural Harmonies** : The group formed after the members discovered in their teenage years that they had natural harmonies when singing together, leading them to become a vocal trio. "Given their musical pedigree, they discovered in their teenage years they had natural harmonies when they sang together. So they formed a vocal trio." ← Hit Parade Music History and Music Trivia > Be My Baby-Baby-Baby Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eed8e6dd12efb02c340
+**Influence from The Bangles (Early 1990s)** : This "sisterly trio" borrowed moves from The Bangles, topping the charts multiple times with "updated 60-style harmonies" and a similar blend of voices. "Most notably, the sisterly trio Wilson Phillips, who topped the charts several times with updated 60-style harmonies and the title of the bangles blend of voices." ← Hit Parade Music History and Music Trivia > Be the One to Walk in the Sun, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Grammy Award for Best New Artist (1991)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643
@@ -34,4 +36,4 @@
 **"Impulsive" — Billboard Year-End Hot 100** : #48, 1991. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Wilson Phillips" (1990) — Grammy Award: Album of the Year nominees** : #1991. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
+**"Wilson Phillips" (1990) — Grammy Award: Album of the Year nominees** : #1991.

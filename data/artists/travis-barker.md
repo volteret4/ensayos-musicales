@@ -8,6 +8,14 @@
 - The Aquabats
 - The Transplants
 
+## members
+- Fran Healy
+
+## genres
+- Alternative rock
+- Britpop
+- UK indie rock
+
 ## instruments
 - Home studio
 
@@ -46,3 +54,5 @@
 **Reality TV Show** : Travis Barker starred in a reality television series called "Meet the Barkers" on MTV. The show documented his life with his wife, Shannon Mochler, even extending to filming inside the Blink-182 rehearsal space, which was a point of contention for Tom DeLonge. "Remember, meet the Barkers? That was an MTV show that followed Travis and his wife Shannon Mochler everywhere, including into the Blink rehearsal space." ← https://www.youtube.com/watch?v=Q-QP7ePxkQE ← travis-barker
 **Temporary Role Before Full Membership** : When Blink-182 began recording "Enema of the State," Travis was initially brought in as a hired musician rather than a full-time member, before eventually transitioning into a permanent role with the band. "Not necessarily as a full-time member, but as a hired musician." ← https://www.youtube.com/watch?v=eljIIqCu5gU ← travis-barker
 **The Good Mixer Regulars** : Travis frequented The Good Mixer pub on Inverness Street in Camden, London, becoming regulars after the initial Britpop surge in the early and mid-1990s. The pub was a notable social hub for bands and artists during this period. "Other regulars included the Librieteens and then later the darkness and travis." ← https://www.youtube.com/watch?v=sKHdTSfDd6E ← travis
+**Post-Britpop Generation** : In the early 2000s, Travis was part of a new generation of UK bands that filled the void left by Radiohead's shift from guitar-based rock, blending Radiohead's "The Bends"-era sound with Britpop's tunefulness. "Blending Radiohead's sound circa the bends with the tunefulness of Britpop, including such acts as Travis." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Drumming on Willow Smith's "Transparent Soul" (2021)** : Travis Barker of Blink-182 co-wrote and provided drumming for Willow Smith's 2021 hit "Transparent Soul." His involvement underscored the resurgence of pop punk on the charts, as Willow Smith shifted genres to embrace this sound. "co-written and features drumming by none other than blink 182's Travis Barker." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/

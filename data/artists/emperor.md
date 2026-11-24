@@ -14,9 +14,9 @@
 **Murder Conviction** : Faust, the drummer for the black metal group Emperor, was sentenced to 14 years in prison for the murder of a gay man. "Faust, the drummer for a black metal group called Emperor, was given 14 years for killing a gay man." ← https://www.youtube.com/watch?v=6xygY-npCr4 ← emperor
 
 ## lists
-**"Anthems to the Welkin at Dusk" (1997) — AOTY Must Hear 1990s** : #123, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"In The Nightside Eclipse" (1994) — AOTY Must Hear 1990s** : #308, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"In The Nightside Eclipse" (1994) — Scaruffi 1990s** : #652, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Emperor" (1993) — Sputnikmusic Best Albums 1993** : #99, 4.02 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
-**"In The Nightside Eclipse" (1994) — Sputnikmusic Best Albums 1994** : #9, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
-**"Anthems to the Welkin at Dusk" (1997) — Sputnikmusic Best Albums 1997** : #11, 90 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
+**"Anthems to the Welkin at Dusk" (1997) — AOTY Must Hear 1990s** : #123, 90 AOTY.
+**"In The Nightside Eclipse" (1994) — AOTY Must Hear 1990s** : #308, 7.0/10 Scaruffi.
+**"In The Nightside Eclipse" (1994) — Scaruffi 1990s** : #652, 7.0/10 Scaruffi.
+**"Emperor" (1993) — Sputnikmusic Best Albums 1993** : #99, 4.02 Sputnik.
+**"In The Nightside Eclipse" (1994) — Sputnikmusic Best Albums 1994** : #9, 7.0/10 Scaruffi.
+**"Anthems to the Welkin at Dusk" (1997) — Sputnikmusic Best Albums 1997** : #11, 90 AOTY.

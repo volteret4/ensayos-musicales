@@ -14,6 +14,7 @@
 **Traditional Country Element** : Banjos are regarded as an essential component of traditional country music, but country radio in the 1970s deliberately moved away from featuring them. "Fiddles and banjos that really are an essential piece of traditional country music." ← For the Record - The 70s > Ep. 2 - Countryish Music of the 1970s (Encore) | https://www.ftr70.com/
 **Traditional Trag Jazz Instrument** : The banjo is a traditional instrument used in Trag Jazz, a revival of Dixieland Jazz. Trag Jazz music was explicitly made with banjos, among other brass and rhythm instruments. "That meant music made with trumpets, the trombone, the clarinet, the banjo, upright bass and drums." ← https://www.youtube.com/watch?v=zNIVqKqAlnk ← banjo
 **John Mellencamp's Rootsy Experimentation** : For his 1987 album "The Lonesome Jubilee," John Mellencamp and his band incorporated traditional folk and country instruments, including the banjo, to deepen his Americana sound during his imperial peak. "Melanchamp and his band picked up folk and country instruments like auto harp, banjo, accordion and fiddle." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f03154465cd600c5379
+**Iconic in "Dueling Banjos"** : The banjo is the central instrument in the "dizzying banjo workout" track "Dueling Banjos," from the 1972 *Deliverance* soundtrack. The track became a major hit, showcasing the instrument to a wide audience and helping to popularize Bluegrass music. "a dizzying banjo workout that recreated the movie's most memorable musical scene and went all the way to number 2 on the Hot 100 in February 1973." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Captain Kick and the Cowboy Ramblers
@@ -25,3 +26,8 @@
 - The Light Crust Doughboys
 - The Pogues
 - John Mellencamp
+- Taylor Swift
+- Kid Rock
+- Eric Weissberg
+- Steve Mandel
+- Eric Weisberg

@@ -19,6 +19,9 @@
 **Space Oddity Release & US Tour** : David Bowie signed with Mercury Records, which rushed the release of the "Space Oddity" single in 1969 to capitalize on the Apollo 11 moon landing. In 1971, Mercury also sent Bowie on a US tour in an attempt to break him in America, where he charmed the press and gathered new ideas from artists like Lou Reed and Iggy Pop. "After Bowie signed to Major Label Mercury Records, they rushed release the single to capitalize on that summer's excitement over the Apollo 11 moon landing..." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 1 | https://shows.acast.com/hit-parade/episodes/696aa42a4796fcbb571adba7
 **Target of "Mercury Poisoning"** : Mercury Records was the subject of Graham Parker's "thinly veiled screed" titled "Mercury Poisoning," which was released as a final "kiss off" to the label. "As a final kiss off to the label, Parker recorded the single Mercury Poisoning, a thinly veiled screed." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f780c30a1408dc2baf3
 **Target of Graham Parker's "Mercury Poisoning"** : Mercury Records was the record label dissed by New Wave rocker Graham Parker in his song "Mercury Poisoning." "New Wave Rocker and so-called Angry Young Man Graham Parker, dist his record label Mercury on the Asurbic Butt Catchy Mercury Poisoning." ← Hit Parade Music History and Music Trivia > Here’s the Beef Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef3154465cd600c4ef5
+**Absorbed Casablanca Records** : Mercury Records absorbed Casablanca, and as a result, Donna Summer's contractual obligation for one final album to Casablanca after her move to Geffen in 1980 had to be fulfilled for Mercury. This project ultimately produced her biggest pop and R&B hit of the decade, "She Works Hard for the Money." "Summer still owed the label one more album, and legally had to fulfill the obligation by producing that one album for Mercury Records, the label that had absorbed Casablanca." ← Hit Parade Music History and Music Trivia > Hit Parade - The Queen of Disco Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Signing of John Bon Jovi (1983)** : Mercury Records signed John Bon Jovi to a major label contract in 1983, based on the strength of a New York top 40 station playing his song "Runaway" as a single. "On the strength of a New York top 40 station that was playing Runaway as a single in 1983, Mercury Records signed John to a major label contract." ← Hit Parade Music History and Music Trivia > Hit Parade - The You Give Rock a Bad Name Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Absorbing Casablanca and Fulfilling Contract (1980s)** : Mercury Records absorbed Casablanca Records, and it was to Mercury that Donna Summer owed a final album to fulfill her contract after moving to Geffen in 1980. This obligation resulted in the production of "She Works Hard for the Money." "For the Mercury... A live episode taping at the Tribeca Festival featuring Peter Dinklage and his wife, Erica Schmidt." ← Hit Parade Music History and Music Trivia > The Queen of Disco Edition Part 2 (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - David Bowie
@@ -32,3 +35,7 @@
 - Rush
 - The Penguins
 - The Platters
+- Bon Jovi
+- Rod Stewart
+- Donna Summer
+- Carol King

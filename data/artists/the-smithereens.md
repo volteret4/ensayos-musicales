@@ -12,5 +12,5 @@
 **New Jersey Hall of Fame (2018)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q14705795
 
 ## lists
-**"Green Thoughts" (1988) — Scaruffi 1980s** : #197, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Especially For You" (1986) — Scaruffi 1980s** : #716, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Green Thoughts" (1988) — Scaruffi 1980s** : #197, 7.5/10 Scaruffi.
+**"Especially For You" (1986) — Scaruffi 1980s** : #716, 7.0/10 Scaruffi.

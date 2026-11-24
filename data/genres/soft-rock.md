@@ -13,6 +13,9 @@
 **Post-1978 Rock Diversification** : After 1978, soft rock became a recognized category within mainstream rock conversations, part of the extensive segmentation of music genres. "People were now talking about metal and Prague and folk rock, and soft rock, and country rock, and blues rock, and of course, punk." ← https://www.youtube.com/watch?v=bYsV3ozbk4M ← soft-rock
 **Radio Popularity** : Soft rock songs with a laid-back groove were favored by radio stations in the mid-70s. "It's the exact type of soft rock song that radio stations loved to play in the mid-70s." ← For the Record - The 70s > Ep. 60 - One-Hit Wonders of the 70s | https://www.ftr70.com
 **Significant Radio Popularity (1975-1977)** : Between 1975 and 1977, "over 150 radio stations in the United States had switched to soft rock or what some were calling mellow rock." This substantial shift underscores the genre's growing commercial appeal and the influence of corporate analysis of listener habits in radio programming during the 1970s. "According to a 1977 New York Daily News article over 150 radio stations in the United States had switched to soft rock or what some were calling mellow rock since 1975." ← For the Record - The 70s > Ep. 51 - The Softer Side of 70s Rock | https://seventies.libsyn.com/ep-51-the-softer-side-of-70s-rock ← soft-rock
+**Precursor to Yacht Rock** : "Soft Rock" was a common term used by people to describe the music later identified as Yacht Rock, highlighting the struggle to properly classify the genre before the more precise "Yacht Rock" emerged. It was also considered a "critically reviled" genre by traditional rock critics. "Everybody had their own name for it, whether it was Soft Rock or my friends and I had a one called Retail Rock, which was songs that you might hear while you were shopping for dress socks for your court data grandma's funeral." ← Hit Parade Music History and Music Trivia > The Bridge - Yacht Or Nyacht | https://my.slate.com/podcasts/feeds/hit-parade/
+**Retroactive Inclusion in Yacht Rock** : A significant portion of 1970s and 1980s soft rock has been retroactively labeled "Yacht Rock," demonstrating how the latter term expanded to encompass broader categories of smooth, melodic music from that era. "all of 70s and 80s soft rock and JASI R&B has been dubbed Yacht Rock." ← Hit Parade Music History and Music Trivia > What a Fool Believes Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Grammy-Winning Producer** : Peter Asher, formerly of Peter and Gordon and later A&R for Apple Records, became a Grammy-winning producer in the 70s and 80s for a range of platinum soft rock stars including Bonnie Raitt, 10,000 Maniacs, and Linda Ronstadt. "By the 70s, Asher left Apple Records to become Taylor's manager and eventually a Grammy-winning producer for a raft of platinum soft rock stars in the 70s and 80s, including Bonnie Raite, 10,000 Maniacs and Linda Ronstadt." ← Hit Parade Music History and Music Trivia > Without The Beatles | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Ace
@@ -30,3 +33,9 @@
 - Eagles
 - The Everly Brothers
 - P!nk
+- Neil Diamond
+- Garth Brooks
+- Mr. Big
+- Laurie Lieberman
+- Gary Wright
+- Jefferson Starship

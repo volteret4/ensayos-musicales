@@ -22,4 +22,4 @@
 **"Don't Let Him Waste Your Time" — UK Indie Singles Chart** : 2007. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart
 
 ## lists
-**"Jarvis" (2006) — AOTY Must Hear 2000s** : #165, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
+**"Jarvis" (2006) — AOTY Must Hear 2000s** : #165, 81 AOTY.

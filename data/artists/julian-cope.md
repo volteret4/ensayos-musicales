@@ -8,7 +8,7 @@
 
 ## lists
 **"Peggy Suicide" (1991) — 1001 Albums You Must Hear Before You Die** : #688, 7.0/10 Scaruffi.
-**"World Shut Your Mouth" (1984) — Scaruffi 1980s** : #66, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Fried" (1984) — Scaruffi 1980s** : #163, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Peggy Suicide" (1991) — Scaruffi 1990s** : #818, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Peggy Suicide" (1991) — Sputnikmusic Best Albums 1991** : #151, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
+**"World Shut Your Mouth" (1984) — Scaruffi 1980s** : #66, 8.0/10 Scaruffi.
+**"Fried" (1984) — Scaruffi 1980s** : #163, 7.5/10 Scaruffi.
+**"Peggy Suicide" (1991) — Scaruffi 1990s** : #818, 7.0/10 Scaruffi.
+**"Peggy Suicide" (1991) — Sputnikmusic Best Albums 1991** : #151, 7.0/10 Scaruffi.

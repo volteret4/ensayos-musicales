@@ -59,5 +59,5 @@
 **Version 1.0 Dissolution** : The original lineup of Big Wreck (version 1.0) lasted for exactly two albums, with its breakup influenced by factors including record label interference, extremely long touring periods (up to 18 months straight), and internal conflicts within the band. "So big rec version 1.0 lasts exactly two albums." ← https://www.youtube.com/watch?v=z9QChV543aQ ← big-wreck ← big-wreck
 
 ## lists
-**"In Loving Memory Of..." (1997) — Sputnikmusic Best Albums 1997** : #140, 3.99 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
-**"Albatross" (2012) — Sputnikmusic Best Albums 2012** : #131, 3.97 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2012/
+**"In Loving Memory Of..." (1997) — Sputnikmusic Best Albums 1997** : #140, 3.99 Sputnik.
+**"Albatross" (2012) — Sputnikmusic Best Albums 2012** : #131, 3.97 Sputnik.

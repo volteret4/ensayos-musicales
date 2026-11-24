@@ -28,6 +28,12 @@
 **Sonic Characteristics** : Trap sound was "plastic," distinct from the organic boom-bap of dominant hip-hop. It used Roland TR-808 drum machines, creating frantic triplet hi-hats and deep sub-bass instead of samples and real drums. Rhythms typically ranged from 60 to 90 BPM, often doubled for more hi-hats, accompanied by dark synth melodies and heavy Auto-Tune. "El trap directamente sonaba plástico. En vez de sample si baterías reales usaba la rola ante R08 y similares, que en lugar de marcar el ritmo lo ametrellaban con tresillos freníticos y sub graves profundos." ← La salvaje historia del TRAP ESPAÑOL (2013-2026) | https://www.youtube.com/watch?v=4hBhiU5jj6s
 **Spanish Trap's Beginnings (Prototrap)** : In Spain, the "prototrap" scene emerged after El director Sao introduced Southern rap in 2002. Spanish rappers and producers began experimenting with these sounds and referencing trap. "Y poco a poco, diferentes raperos y productores, empezan a coquetear con este rap soleño y a referenciar al trap, generándose así una escena que podríamos llamar Prototrap." ← La salvaje historia del TRAP ESPAÑOL (2013-2026) | https://www.youtube.com/watch?v=4hBhiU5jj6s
 **Viral Moment in Spain (2011)** : In 2011, trap became viral in Spain with Lori Money's parodic song "Santa Claus" on YouTube. This was the first time the general public in the country heard trap music. "Pero ese mismo año el trap se volvería a viral por un proyecto inesperado. Y Lourimoni, publican su YouTube Santa Claus." ← La salvaje historia del TRAP ESPAÑOL (2013-2026) | https://www.youtube.com/watch?v=4hBhiU5jj6s
+**Instrumental Chart Topper (2013)** : Bauer's "Harlem Shake," a largely instrumental trap jam, made an unprecedented debut at number one on the Billboard chart in February 2013. Its success was almost entirely driven by viral YouTube videos, aided by a new Billboard rule incorporating video stream data. "his largely instrumental trap jam Harlem-shaped debuted at number one." ← Hit Parade Music History and Music Trivia > Rolling in God’s Royal Uptown Road Edition. | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Woozy Song Trap Style" Blockbuster Hit** : The "woozy song trap style" achieved blockbuster success with Fetty Wap's "Trap Queen" in 2015, showcasing dark emotions over an unrelenting trap bounce and leading to the most streamed song of the year. "But the blockbuster hit of this woozy song trap style came from New Jersey's Willie Maxwell II, aka Fettie Wop." ← Hit Parade Music History and Music Trivia > Say My Name, Say My Name, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Viral Success** : Trap music achieved widespread viral success in the late 2010s with songs like Rae Sremmurd's "Black Beatles," which was characterized by a spooky sound and featured both singing and rapping. "Atlanta duo Ray Schremmer went to Number 1 with their spooky viral trap song Black Beatles." ← Hit Parade Music History and Music Trivia > Say My Name, Say My Name, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Integration with Sung Vocals** : The trap genre saw artists like Post Malone, who came from a rock guitar background, achieve success by singing over trap beats rather than traditional rapping, demonstrating a significant evolution in its vocal delivery. "What about a white guy raised on rock guitar who decided that he'd have more success singing over trap beats? Was that Hip Hop 2? Sure thing, post Malone." ← Hit Parade Music History and Music Trivia > Say My Name, Say My Name, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Waning of Post-Christmas Model (2011)** : The DMX Post-Christmas model for rap albums began to wane by 2011, exemplified by Trap Kingpin Jeezy's album "Thug Motivation 103: Hustlerz Ambition" only reaching a number three debut, losing out to older-skewing Christmas albums like Michael Bublé's. "What this meant was that the DMX Post Christmas model for rap albums was starting to wane." ← Hit Parade Music History and Music Trivia > Smells Like Christmas Spirit, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Integration into Country Music** : Trap beats, a production style, have been increasingly incorporated into country records by artists like Jason Aldean, Morgan Wallen, Luke Bryan, and Florida Georgia Line. This integration has become "completely normal," signifying a significant shift in genre boundaries and audience acceptance, contradicting earlier beliefs that rap production was incompatible with country music. "Is it trap beats because that's that can't be the reason because Morgan Wall and uses trap beats Luke com's uses trap beats you know Luke Bryan uses trap beats." ← Hit Parade Music History and Music Trivia > The Bridge - Can’t Tell Me Nothin’ | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - 100 Gecs
@@ -47,4 +53,11 @@
 - T.I.
 - Three 6 Mafia
 - Tommy Wright III
-
+- Post Malone
+- Bauer
+- Cardi B
+- Fetty Wap
+- Rae Sremmurd
+- Future
+- Rich Homie Quan
+- Tokisha

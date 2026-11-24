@@ -39,6 +39,7 @@
 **Pioneering Theatrical Rock** : Alice Cooper introduced a new level of theatricality to rock music, with his elaborate stage shows influencing a wide range of genres from heavy metal to art rock and industrial music. "But in the process, Alice brought a new sense of theatricality to rock. Alice worked influenced everything from heavy metal to art rock to industrial music." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← alice-cooper
 **Post-Garage Rock Band** : The band that eventually became Alice Cooper is mentioned as an exception that continued to perform and evolve after the general end of the original Garage Rock era around 1968. "The MC5, the band that eventually became Alice Cooper, to name 2." ← https://www.youtube.com/watch?v=UpWz3X33vSY ← alice-cooper
 **Singer Adopts Band Name (1973)** : By 1973, the band's singer, Vincent Furnier, had fully embraced the name "Alice Cooper" as his own stage persona. "By 1973, the singer, Vincent Fernier, was now being called Alice Cooper." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← alice-cooper
+**Pop Metal Success (1988-1989)** : During the pop metal explosion of 1988 and 1989, Alice Cooper, among other 40-something rockers, generated some of the highest charting hits of his career. "By 1988 and 89, the pop metal explosion generated some of the highest charting hits ever, for such 40-something rockers as [...] Alice Cooper." ← Hit Parade Music History and Music Trivia > Hit Parade - The You Give Rock a Bad Name Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761
@@ -58,7 +59,7 @@
 ## lists
 **"School’s Out" (1972) — 1001 Albums You Must Hear Before You Die** : #264.
 **"Billion Dollar Babies" (1973) — 1001 Albums You Must Hear Before You Die** : #296.
-**"Pretties For You" (1969) — Scaruffi 1960s** : #71, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Love It To Death" (1971) — Scaruffi 1970s** : #160, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Hey Stoopid" (1991) — Sputnikmusic Best Albums 1991** : #189, 3.8 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"Brutal Planet" (2000) — Sputnikmusic Best Albums 2000** : #166, 3.95 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2000/
+**"Pretties For You" (1969) — Scaruffi 1960s** : #71, 7.0/10 Scaruffi.
+**"Love It To Death" (1971) — Scaruffi 1970s** : #160, 7.0/10 Scaruffi.
+**"Hey Stoopid" (1991) — Sputnikmusic Best Albums 1991** : #189, 3.8 Sputnik.
+**"Brutal Planet" (2000) — Sputnikmusic Best Albums 2000** : #166, 3.95 Sputnik.

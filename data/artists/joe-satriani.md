@@ -11,7 +11,7 @@
 **If I Could Fly (2004)** : This instrumental piece from the 2004 album *Is There Love in Space?* was at the center of a lawsuit Satriani filed against Coldplay, alleging that their 2008 song "Viva La Vida" plagiarized its melody. A "settlement that was sealed by the court" was reached, with Satriani receiving a settlement and keeping its details confidential. "You compare the melodies of that Coldplay song to If I Could Fly from Joe Centriani." ← https://www.youtube.com/watch?v=rfObVld9rIE ← joe-satriani
 
 ## lists
-**"Surfing With The Alien" (1987) — Scaruffi 1980s** : #492, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Extremist" (1992) — Sputnikmusic Best Albums 1992** : #44, 4.17 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"Crystal Planet" (1998) — Sputnikmusic Best Albums 1998** : #149, 3.99 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1998/
-**"Strange Beautiful Music" (2002) — Sputnikmusic Best Albums 2002** : #143, 3.99 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/
+**"Surfing With The Alien" (1987) — Scaruffi 1980s** : #492, 7.0/10 Scaruffi.
+**"The Extremist" (1992) — Sputnikmusic Best Albums 1992** : #44, 4.17 Sputnik.
+**"Crystal Planet" (1998) — Sputnikmusic Best Albums 1998** : #149, 3.99 Sputnik.
+**"Strange Beautiful Music" (2002) — Sputnikmusic Best Albums 2002** : #143, 3.99 Sputnik.

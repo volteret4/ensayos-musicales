@@ -8,3 +8,4 @@
 - Neil Peart
 - OutKast
 - Cab Calloway
+- Phil Collins

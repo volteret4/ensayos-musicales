@@ -99,6 +99,91 @@
 **Shift to Disco (Late 1970s)** : By the late 1970s, R&B, alongside Pop, had largely transitioned to the sounds of disco, posing adaptation challenges for veteran artists. "By the late 70s, both R&B and Pop had moved on to the sounds of disco." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
 **Charting Success for Miguel** : Miguel Jontel Pimentel, recording as Just Miguel, became a "black radio and R&B chart phenomenon" at the turn of the 2010s, with his title track "All I Want is You" cracking the top 10 and "Sure Thing" topping the R&B chart in May 2011. "Miguel Jontel Pimentel, who records as Just Miguel, became a black radio and R&B chart phenomenon." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c42e
 **Rap and R&B Duet Establishment** : The remix of Mariah Carey's "Fantasy," featuring rapper Ol' Dirty Bastard, played a role in establishing the rap and R&B duet as a significant and successful format on the charts. This collaboration highlighted the increasing integration and crossover appeal between these two genres in the mid-1990s. "fantasy also helped establish the rap and be duet." ← Hit Parade Music History and Music Trivia > Toppermost of the Poppermost Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef60c30a1408dc29358
+**Market Shift to Hip Hop (Early 2000s)** : Around the early 2000s, the R&B marketplace rapidly shifted further in the direction of hip hop, as evidenced by hitmakers like Ja Rule, Ashanti, and Nelly. This evolution made "adult R&B" records, particularly those not aligned with specific subgenres like New Jack Swing or Timbaland's rap&B, less competitive. "And in the two years back to then sat on the shelf, R&B had only moved further in the direction of hip hop, Allah 2002 hitmakers Jawrul Ashanti and Nelly." ← Hit Parade Music History and Music Trivia > A Little Love and Some Tenderness Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Adult R&B / Neo-Soul (Turn of the Millennium)** : Around the turn of the millennium, "adult R&B" typically referred to the neo-soul genre, with artists such as D'Angelo, Erykah Badu, and Jill Scott serving as prime examples. "It was an adult R&B record, which around the turn of the millennium typically meant so-called neo-soul, such as D'Angelo, Erika Badu or Jill Scott." ← Hit Parade Music History and Music Trivia > A Little Love and Some Tenderness Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Radio Airplay Discrepancy (Early 80s)** : In the early 1980s, in the wake of the disco backlash, pop stations frequently underplayed or underreported records by Black artists, even those popular with the general public. This practice could hinder the chart performance of R&B and funk tracks, as seen with Rick James' "Super Freak." "Basically, in the early 80s in the wake of the disco backlash, pop stations were under playing or under reporting scores of records by black artists, even when they were connected with the general public." ← Hit Parade Music History and Music Trivia > At Last, My Legacy Has Come Along Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Integration of Rap Breaks** : In the late 1980s, some R&B stars, such as former New Edition member Bobby Brown, began to "sprinkle their new Jack swing jams with frequent rap breaks." This trend demonstrated a fusion of R&B with emerging rap influences, contributing to the broader crossover of genres. "Additionally, some R&B stars, like former new edition member Bobby Brown, were sprinkling their new Jack swing jams with frequent rap breaks." ← Hit Parade Music History and Music Trivia > Blame It on the Feign, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Platinum Sellers in Lilith Fair Expansion (1990s)** : When Lilith Fair expanded its roster to include artists from the forefront of R&B, these women performers were also "platinum sellers." This demonstrated the commercial power of female artists across different genres. "Moreover, when Lilith expanded its roster to include artists at the forefront of R&B and hip hop, those women were platinum sellers too." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Underrepresentation in Early Lilith Fair** : In its early days, Lilith Fair was notably "light on R&B" and "nearly devoid of hip hop," a "glaring omission" given the strength of female hip hop artists throughout the 1990s. Organizers struggled to attract interest from many platinum-level women rappers in Year One. "On the whole Lilith was light on R&B and nearly devoid of hip hop at first. This was a glaring omission given how strong female hip hop had been throughout the 90s." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Integration into Lilith Fair** : Lilith Fair significantly expanded its musical scope by including artists at the forefront of R&B on its roster. These female R&B performers were notably successful, achieving platinum sales status, further diversifying the festival's showcase of top female talent. "when Lilith expanded its roster to include artists at the forefront of R&B and hip hop, those women were platinum sellers too." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Temporary Absence of British Acts (2002)** : The US Hot 100 was devoid of British acts for 38 years, ending in 2002 after a former top 10 hit by R&B and UK garage singer Craig David dropped off the list. "a former top 10 hit by R&B and UK garage singer Craig David dropped off the list." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Roots in Gospel Music (Early 1950s)** : The establishment of rhythm and blues on the charts in the first half of the 1950s revealed its deep roots in gospel music. R&B stars pioneered new forms by overtly secularizing spiritual music. "Don't be back from any of the more over the establishment of rhythm and blues on the charts in the first half of the 50s had laid bare its roots in gospel." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Stars Secularizing Spirituals** : R&B stars were at the forefront of pioneering bold new forms of music by "shamelessly turning spiritual music secular," sometimes through direct remakes of gospel songs. "R&B stars were pioneering bold new forms by shamelessly turning spiritual music secular." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Chart Tracking and Cultural Connection (1985-1986)** : The narrator began following the R&B charts (then called Hot Black Singles) more closely in the mid-1980s after discovering Billboard magazine. This allowed him to stay connected with the "literally urban music" he grew up with in Brooklyn while living in suburban Connecticut, helping alleviate homesickness. "Living in the Connecticut suburbs as a teenager, following the R&B chart kept me in touch with the literally urban music I had grown up with in Brooklyn." ← Hit Parade Music History and Music Trivia > Feet on the Ground, Reaching for the Stars Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mainstream Airplay on American Top 40** : American Top 40, under Casey Kasem, played R&B, Funk, and Soul hits as part of its commitment to counting down all 40 songs on the Hot 100. This meant that pop or rock stations, especially in the Southern United States, would play hits by black artists like James Brown's "Sex Machine," which they might not otherwise feature. "That included R&B, Funk and Soul. And AT-40 might be the only time certain pop or rock stations, especially in the Southern United States, played those hits by black artists." ← Hit Parade Music History and Music Trivia > Feet on the Ground, Reaching for the Stars Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**New Jack Swing Subgenre (Mid-Late 1980s)** : New Jack Swing emerged as a blend of R&B and rap production styles, pioneered by Teddy Riley, which made hip-hop palatable on pop and black radio. This innovative sound subsequently dominated the charts in the late 1980s. "Teddy Riley's claim to fame in the mid to late 80s was pioneering the subgenre new Jack swing, a blend of R&B and rap production styles that made hip hop palatable on pop and even black radio." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Britney Spears Crossover (2001)** : Britney Spears' "I'm a Slave 4 U" (2001) became her most R&B-leaning track to date and her first song to crack the R&B chart, indicating a successful crossover for the pop star and showing the expanding boundaries of the genre. "It was actually the first of her songs to crack the R&B chart." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on "Titanic Divas"** : Many "Titanic Divas" of the late 1980s and early 1990s, known for their powerful, "athletic" vocals, emerged from the R&B tradition. "Although some of these vocalists emerged from the R&B or gospel tradition" ← Hit Parade Music History and Music Trivia > Hello, Gorgeous Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Prince's Hits in the 90s** : Prince scored occasional one-off R&B hits for the balance of the 1990s after his final top 10 hit in 1994. "He continued to score the occasional one-off top 40 pop or R&B hit for the balance of the 90s" ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Inclusion in King Holiday (1986)** : R&B singers were featured in the King Dream Chorus's "King Holiday," alongside hip-hop stars. This demonstrated the genre's role in multi-artist charity efforts for awareness campaigns. "The King Dream Chorus featured a slew of R&B singers and hip-hop stars" ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Hot Soul Singles Chart** : In the early 1970s, the R&B chart was known as "Hot Soul Singles." It was on this chart that Aretha Franklin's cover of "Border Song" became Elton John's first top 10 hit in America as a songwriter, peaking at number five. "Over on the R&B chart, then called Hot Soul Singles, Aretha's Border Song had broken into the top 10 one week earlier, on its way to a number five peak." ← Hit Parade Music History and Music Trivia > Hit Parade - The Imperial Elton and George Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Dominance of Early 2000s Hot 100** : The Hot 100 of the early 2000s was largely dominated by R&B, alongside hip hop, with artists like Nelly, Ja Rule, and 50 Cent leading the charts. "The hot 100 of the early 2000s was largely dominated by R&B and especially hip hop, by the likes of Nelly, Jauru, and 50 Cent." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Blaxploitation Soundtrack Influence (1970s)** : In the 1970s, R&B artists like Isaac Hayes and Curtis Mayfield significantly shaped Blaxploitation film soundtracks, using "non-diagetic badass hits" to drive on-screen action and sell albums, showcasing the genre's power and vision. "often the vision of one major R&B artist." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rise in Movie Soundtracks (1967)** : R&B saw an increased presence in movie soundtracks starting with *The Graduate* in 1967, which ushered in a new era of contemporary genres alongside rock, pop, funk, and disco on film. "...started a wave of contemporary rock, R&B, pop, funk, and disco on the silver screen." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Strong Performance in 90s Soundtracks** : R&B soundtracks, along with hip hop, performed exceptionally well in the 1990s. For example, the *Friday* soundtrack went double platinum, surpassing any 70s black exploitation film soundtracks which only went gold, and *Dangerous Minds* (1995) went triple platinum. "In general, R&B and hip hop soundtracks did especially well in the 90s." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Optimal Performance with Balance** : Popular music, particularly R&B, performs best when there is a balance among fandoms, genres, cultures, and races. "R&B works best, indeed popular music works best, when there is balance among fandoms, genres, cultures, races." ← Hit Parade Music History and Music Trivia > I Got Five on It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Sleek American Style** : Rod Temperton demonstrated an "uncanny knack for writing sleek American style R&B," a skill that made his refined grooves ideal for the Quincy Jones sound. "he nonetheless had an uncanny knack for writing sleek American style R&B." ← Hit Parade Music History and Music Trivia > I Wanna Rock with Q. Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**R&B Chart as Its Own Universe (1980s)** : By the 1980s, the R&B chart had evolved into its own distinct musical universe, featuring a lineup of stars such as Luther Vandross, Frankie Beverly and Maze, Jeffrey Osborne, and Stacey Lattisaw, whose numerous R&B top 10 hits rarely, if ever, achieved significant crossover to the pop charts. "Indeed, by the 80s, the R&B chart was its own universe with its own lineup of stars who would rarely or never cross to the pop charts." ← Hit Parade Music History and Music Trivia > I'm Your Whitney Tonight Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Smooth but Kinetic Sound** : The production duo LA and Babyface established a distinctive smooth but kinetic sound that became their signature, contributing significantly to their success as producers "behind the boards" in the late 1980s. "But they quickly established themselves as even more successful behind the boards, with a smooth but kinetic pop and B sound." ← Hit Parade Music History and Music Trivia > I'm Your Whitney Tonight Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Evolution of Black Women Artists** : The 1960s saw Black women artists fighting to assert themselves in the studio and on the road. Paying their dues gave them clout in the 70s to take more control, setting the stage for younger generations like Shaka Khan and achieving chart-topping multiracial pop success in the 80s and beyond. "A wave of sophisticated black women artists were commanding the charts... All of these artists had come of age in the 60s, a decade when black women had to fight to assert themselves in the studio and on the road..." ← Hit Parade Music History and Music Trivia > Killing Me Softly Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Interpretive Soul** : Roberta Flack's sophisticated arrangements, rooted in her classical training, set a high bar for interpretive soul. Her approach helped define a new lane for Black women in the pop pantheon by blending classical, spiritual, and pop elements. "Flack's sophisticated arrangements rooted in her classical training set a high bar for interpretive soul and helped define a new lane for Black women in the pop pantheon." ← Hit Parade Music History and Music Trivia > Killing Me Softly Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Urban Pop and Brill Building Influence** : The Brill Building environment of post-Elvis Presley, pre-Beatles urban pop in the early 1960s was a unique context from which artists like Dion Warwick emerged. This era shaped a distinctive "cocktail pop" sound, often infused with R&B sensibilities. "She could have only emerged out of the bril building environment of post-Elvis Presley pre-Beetles Urban Pop in the early 60s, and she remains a unique figure in popular music." ← Hit Parade Music History and Music Trivia > Killing Me Softly Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Philly Soul Sound** : The Philly Soul Sound, pioneered by producers like Tom Bell in Philadelphia, was a cutting-edge genre in the 1970s known for its smooth, sophisticated arrangements and orchestral elements. Bell successfully "rebooted" artists like The Spinners and influenced Dion Warwick's career trajectory. "A progenitor of the Philly Soul Sound, Bell had rebooted Detroit's The Spinners and scored a string of hits like the number 3 pop, number 1 R&B Smash I'll Be Around." ← Hit Parade Music History and Music Trivia > Killing Me Softly Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mid-70s Dominance by Black Female Artists** : The mid-1970s saw a strong presence of black female artists and bands like The Spinners, Dionne Warwick, Roberta Flack, Labelle, and Rufus (featuring Chaka Khan) on the R&B charts, with multiple number 1 and top 10 hits. "By 1975 and early 76, all four of our R&B queens were doing quite well." ← Hit Parade Music History and Music Trivia > Killing Me Softly Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Boundary-Pushing by Black Female Artists (Year Unspecified)** : R&B vocal legends like Patti LaBelle, Dionne Warwick, and Roberta Flack redefined the boundaries for black female artists, helping to soften the ground for the emergence of stars like Chaka Khan. Their careers showcased how they continually made songs their own. "How they continually made songs theirs, and redefined the boundaries for black female artists." ← Hit Parade Music History and Music Trivia > Killing Me Softly Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Adaptation to Disco Era (Late 1970s)** : The disco era presented a "sync or swim" challenge for a generation of R&B singers who predated disco. While some, like Diana Ross, adapted well, others, such as Aretha Franklin, "face planted" with critically panned disco attempts. "But it was also sync or swim for a generation of R&B singers who predated disco." ← Hit Parade Music History and Music Trivia > Killing Me Softly Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Aretha Franklin's Influence** : Aretha Franklin's music, including her soulful covers of rock songs, often charted as R&B hits, showcasing her significant presence and impact within the genre. "all were pop and R&B hits." ← Hit Parade Music History and Music Trivia > Music Trivia - The Aretha Franklin Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rihanna's Early Collaborations** : In the late aughts, Rihanna was rapidly emerging as a prominent provider of melodic hooks on top-tier R&B and rap songs, collaborating with artists like Chris Brown and Ti. "Chris Brown was not the only R&B or rap star Rihanna was collaborating with in the late aughts. She was rapidly emerging as the go-to melodic hook de ployer on top tier rap songs." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Bitch Better Have My Money" Chart Performance** : Rihanna's single "Bitch Better Have My Money" topped Billboard's R&B Hip Hop Airplay Chart, indicating that its edgy sound resonated strongly within this genre. "It topped both Billboard's Dance Club Play Chart and R&B Hip Hop Airplay Chart, indicating that Rihanna's edgy experiment found its audience." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**R&B Chart Peak of "Bespoke Blackness" (1982)** : In January 1982, Billboard's Hot Soul Singles chart was at a peak of "bespoke blackness," commanded by prominent Black artists like The Gap Band, Teddy Pendergrass, and Kool & The Gang. It was remarkable that Hall and Oates, a white duo, topped this chart simultaneously with the Hot 100 with "I Can't Go For That." "at a time when the R&B chart was at a peak of bespoke blackness commanded by the likes of the gap band Teddy Pendergrass and cool in the gang." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Hip Hop Chart Integration (1999)** : In 1999, Billboard officially added "Hip Hop" to its Hot R&B Singles chart name, creating the "Hot R&B/Hip Hop Singles" chart. This change acknowledged the rising trend of R&B vocals and hip hop flow fusing, a shift that had already been made obvious by groups like Beyoncé's Destiny's Child. "The hip hop had been added just one year before, acknowledging what rising groups like Beyoncé's had already made obvious." ← Hit Parade Music History and Music Trivia > Say My Name, Say My Name, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Merger with Hip Hop** : By 2000, the music industry, particularly Billboard, acknowledged the reality that R&B and rap were merging into one mega-genre, leading to changes in chart nomenclature to reflect this blend. "R&B and rap were merging into one mega genre." ← Hit Parade Music History and Music Trivia > Say My Name, Say My Name, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**New Millennium Blends with Hip Hop** : By 2000, the blending of R&B and hip hop represented the "leading edge of new millennium popular music," with innovations occurring from both sides: singers adopting rap flows and rappers embracing singing. "By 2000, Destiny's Child were in good company, as R&B and hip hop blends represented the leading edge of new millennium popular music." ← Hit Parade Music History and Music Trivia > Say My Name, Say My Name, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Crossover with Singing and Rapping** : R&B has a historical crossover with singing and rapping, as discussed in a bridge episode of the Hip-Head podcast, highlighting the long-standing interplay between vocal styles. "about the crossover between singing and rapping in R&B and hip hop." ← Hit Parade Music History and Music Trivia > Say My Name, Say My Name, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Crossover to Pop and Rock (1982)** : In 1982, artists like Prince were actively working to cross over from primarily R&B audiences to broader pop and rock demographics. This strategic shift influenced how singles were promoted and led to the re-evaluation of earlier releases that had not initially succeeded in new markets. "Prince was in the process of crossing over from R&B to pop and rock audiences in 1982." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Late 60s Legendary Hits** : In the late 1960s, the R&B side of the charts featured "legendary" hits from soul music's leading lights, including Aretha Franklin, Otis Redding, and Marvin Gaye. "On the R&B side, the hits from Soul Music's leading lights were often legendary, from Queen of Soul Aretha Franklin, to the late Otis Redding, to Motown Legend Marvin Gaye" ← Hit Parade Music History and Music Trivia > Singing Nuns and Green Tambourines Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mid-2000s to 2010s Digital Migration** : R&B fans, alongside pop and rap fans, were migrating to the digital realm in the mid-2000s and early 2010s, leading to a need for new business models for albums aimed at young people. "As pop, rap, and R&B fans were all migrating to the digital realm." ← Hit Parade Music History and Music Trivia > Smells Like Christmas Spirit, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Foundation for Summer Love Song Trope** : R&B classics, such as Marvin Gaye and Tammy Terrell's "You're All I Need to Get By," laid important groundwork for the "summer love song" trope. The strategic sampling and reinterpretation of its chorus by Mary J. Blige in a hip hop duet with Method Man demonstrates the enduring influence of classic R&B in contemporary summer hits. "The Marvin Gaye Tammy Tarell R&B classic, you're all I need to get by." ← Hit Parade Music History and Music Trivia > Song(s) of the Summer Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Evolution in the Late 1980s** : In the late 1980s, the sound of R&B, particularly popular African American music, underwent rapid evolution. This period was marked by the emergence of New Jack Swing, a genre blending synthesized percussion, post-disco funk, and smooth R&B with hip-hop production elements, offering mainstream pop singers a pathway to be conversant with hip-hop while achieving crossover success. "During Janet Jackson's album Hiatus, the sound of pop, particularly the sound of popular African American music, was evolving rapidly." ← Hit Parade Music History and Music Trivia > State of the World Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Blended with Pop and Dance by Influenced Artists** : Britney Spears' hits often blend R&B, pop, and dance, a style directly descended from Janet Jackson's "Control" and "Rhythm Nation" albums, showing how R&B combined with other genres became a foundational sound. "many of her hits blending R&B, pop, and dance in a style descended from both control and rhythm nation." ← Hit Parade Music History and Music Trivia > State of the World Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Impact of Retail Loss** : The R&B and hip hop charts were significantly affected by the widespread loss of music retail, particularly the "mom and pop, black record stores" that historically supplied data for these charts. Billboard is now adapting by integrating digital data to reflect consumption trends. "the loss of all retail, you know, almost all music retail, you know, you've still got a small handful of record stores, but, you know, the mom and pops, the black record stores that used to feed into the R&B chart or by and large long gone." ← Hit Parade Music History and Music Trivia > The Bridge - Can’t Tell Me Nothin’ | https://my.slate.com/podcasts/feeds/hit-parade/
+**Historical Chart Evolution to R&B** : The R&B chart has roots in earlier Billboard classifications such as the "Harlem Hit Parade" (created around 1946 or 1948) and "race records," terms used to categorize music by Black artists. The descriptive term "Rhythm and Blues" (R&B) was coined by Jerry Wexler and officially appended to the chart in the 1950s, replacing previous appellations. "the term R and B was finally appended to that chart in the 1950s and it was no longer either Harlem hit parade or race records." ← Hit Parade Music History and Music Trivia > The Bridge - Can’t Tell Me Nothin’ | https://my.slate.com/podcasts/feeds/hit-parade/
+**Redefined by Stevie Wonder in the 1970s** : In the 1970s, Stevie Wonder's epic commercial and critical success significantly redefined the sound of R&B music, as well as pop, funk, and rock. "redefining the sound of pop, funk, R&B, rock." ← Hit Parade Music History and Music Trivia > The Bridge - Cover Queens and The Boy Wonder | https://my.slate.com/podcasts/feeds/hit-parade/
+**Innovative Blend with Pop and Hip Hop** : R&B, particularly as showcased in Janet Jackson's "Rhythm Nation 1814" album, was noted for its innovative blend with pop and hip-hop production styles, influencing numerous subsequent artists. "artists and critics cite its blend of pop, R&B, and even hip hop. Hip hop production styles as really innovative for its time." ← Hit Parade Music History and Music Trivia > The Bridge - Ladies of the Canyon and the Rhythm Nation | https://my.slate.com/podcasts/feeds/hit-parade/
+**Increased Chart Dominance** : In the mid-2010s, R&B, particularly male-driven R&B, saw an increase in chart dominance. This was part of a broader shift in musical trends, moving away from female-led dance pop. "signaled that the charts were pivoting from female lead dance pop to male driven R&B in hip hop." ← Hit Parade Music History and Music Trivia > The Bridge - Queens Bey, Rih and Robyn Reign Different Kingdoms | https://my.slate.com/podcasts/feeds/hit-parade/
+**Janet Jackson's Early Sound** : The 80s period of Janet Jackson's music, preceding her 90s sound (like "That's The Way Love Goes"), represented a distinct R&B style that later sounded different to fans introduced to her in the subsequent decade. "the hits from the 80s sort of sound dated to you in a certain way? Did they sound different from the Janet that you were getting into in the 90s and early Aunts?" ← Hit Parade Music History and Music Trivia > The Bridge - Rain Sounds and Moody Goths | https://my.slate.com/podcasts/feeds/hit-parade/
+**Synthesis with Hip Hop** : There is a recognized lineage of R&B music synthesized with hip hop, characterized by a specific dance style, that has been passed down through generations of pop acts, notably from Janet Jackson to artists like Normani. "there's a lineage of this synthesis of R&B and hip hop, that style of dance being passed on through generations of pop acts." ← Hit Parade Music History and Music Trivia > The Bridge - Rain Sounds and Moody Goths | https://my.slate.com/podcasts/feeds/hit-parade/
+**"R&B of the Moment"** : Whitney Houston's song "Thinking About You" was described as embodying the "R&B of the moment" from her first album, showcasing the contemporary sound and style of the genre. "Her register is down where everybody else's register is. And she can pick it up a little bit. It's got a yearning in it. It's got some there's some grit and some sex." ← Hit Parade Music History and Music Trivia > The Bridge - Wesley on Whitney | https://my.slate.com/podcasts/feeds/hit-parade/
+**Foundational to Yacht Rock** : R&B, particularly "Black R&B" and "Black jazz," is described as foundational to the Yacht Rock genre. White Yacht Rock artists like Kenny Loggins, Michael McDonald, Steely Dan, and Toto all grew up listening to these genres, and Loggins even patterned his voice after Aretha Franklin. The integration of R&B elements, especially through Michael McDonald's contributions to the Doobie Brothers and the work of Quincy Jones and Rod Temperton, was crucial in defining the "yacht soul" sound. "First of all, all the guys, all the white Yacht Rock guys that you first think of, Kenny Loggins, Michael McDonald, Steely Dan, all growing up, listen to Black R&B, Black jazz." ← Hit Parade Music History and Music Trivia > The Bridge - Yacht Or Nyacht | https://my.slate.com/podcasts/feeds/hit-parade/
+**Spice Girls' Christmas Ballads** : The Spice Girls, typically known for their up-tempo dance jams, successfully leveraged mid-tempo ballads, including "retro R&B ballads" like "Too Much" in 1997, to secure three consecutive UK Christmas number ones. This demonstrated their ability to adapt their sound for holiday chart success. "their retro R&B ballad too much." ← Hit Parade Music History and Music Trivia > The Christmas is All Around Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Canon of Standards** : Many non-single songs from Stevie Wonder's 'Songs in the Key of Life', such as "Loves in Need of Love Today", "Knocks Me Off My Feet", and "Pastime Paradise", are considered staples of the R&B canon, demonstrating the album's lasting influence on the genre. "The album contains songs that are now considered radio standards and staples of the R&B canon." ← Hit Parade Music History and Music Trivia > The Everybody Say YEAH! Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Early 80s Call-and-Response** : The sound of early 1980s call-and-response funky R&B was rebooted in Mark Ronson's 2015 collaboration "Uptown Funk." "A rebooting of the sound of early 80s, call-and-response, funky R&B." ← Hit Parade Music History and Music Trivia > The Feat. Don’t Fail Me Now Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Phil Collins's Enduring Admiration** : Phil Collins demonstrated a long-standing interest in R&B, which heavily influenced his solo work and collaborations. This was evident in his decision to invite Earth, Wind and Fire's Phoenix Horns to play on his album "Face Value" and Genesis's "No Reply at All," and later in his production of Philip Bailey's "Chinese Wall" album and their duet "Easy Lover." "Reflecting his longtime interest with R&B and his admiration for the band Earth Wind and Fire, Collins produced the 1984 solo album by EWF singer Philip Bailey, Chinese Wall." ← Hit Parade Music History and Music Trivia > The Invisible Miracle Sledgehammer Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Jennifer Holiday's Chart Success (1982)** : Jennifer Holiday's "And I Am Telling You I'm Not Going" from "Dreamgirls" topped Billboard's Black Singles chart for a month in 1982, demonstrating the song's beloved status among R&B audiences and Black Radio, even though it did not cross over into the pop Top 40. "Beloved by R&B audiences and Black Radio, and I am telling you did not make the pop top 40." ← Hit Parade Music History and Music Trivia > The Lullaby of Broadway Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Peabo Bryson's Disney Hits (Early 90s)** : Veteran R&B crooner Peabo Bryson scored two major hits from Disney animated films in the early 90s, including a top ten duet with Celine Dion ("Beauty and the Beast") and a number one duet with Regina Belle ("A Whole New World"), showcasing R&B artists successfully performing show tunes. "Disney was especially good in the early 90s to veteran R&B crooner Pibo Bryson, who scored two hits from Disney animated films." ← Hit Parade Music History and Music Trivia > The Lullaby of Broadway Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Bee Gees Genre Span** : The Bee Gees' songs have spanned genres including R&B, showing their versatility and adaptability over decades. "And their songs have endured decades past their peak and spanned genres from R&B." ← Hit Parade Music History and Music Trivia > The Nights on Broadway Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Falsetto Prominence in Early 70s** : The early 1970s was a significant period for falsetto vocals in R&B music, as exemplified by groups like The Delphonics and artists like Eddie Kendricks. "the early 70s was a great time for falsetto vocals in R&B music from the Delphonics to Eddie Kendrick's." ← Hit Parade Music History and Music Trivia > The Nights on Broadway Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Bee Gees Crossover Success (1979)** : The Bee Gees' song "Too Much Heaven" not only hit number one on the pop chart in the winter of 1979 but also reached number 10 on Billboard's R&B chart. This marked a significant crossover achievement, indicating their ability to adapt and contribute to the 70s slow jam canon. "Too much heaven not only hit number one on the pop chart that winter, it reached number 10 on Billboard's R&B chart." ← Hit Parade Music History and Music Trivia > The Nights on Broadway Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Dominance in Pre-SoundScan Charts** : In the late 1980s, R&B, particularly traditional R&B acts, frequently occupied the top spots on pop charts, presenting a barrier for emerging rap artists to reach number one. ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**70s R&B Samples in Gangster Rap** : Dr. Dre's "The Chronic" sweetened its tales of South Central LA with samples of smoky 1970s R&B, integrating the genre into the sound of a watershed gangster rap album. "sweetened with melodic keyboards and samples of smoky 70s R&B." ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Original Roots of "Piece of My Heart"** : The song "Piece of My Heart," famously performed by Janis Joplin, was originally an R&B song by Irma Franklin, demonstrating the crossover and adaptation of R&B material into other genres. "a piece of my heart, which was actually an R&B song by Irma Frank." ← Hit Parade Music History and Music Trivia > The Posthumous Hits Edition, Live from Seattle | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Mother-in-Law" as a Classic** : Ernie K. Doe's 1961 number one hit "Mother-in-Law" is considered a "classic of New Orleans R&B." "The 1961 number one mother-in-law, a classic of New Orleans R&B and a hilarious plant about a meddling maternal figure, was the first big hit for legendary writer and producer, Alan Tusson." ← Hit Parade Music History and Music Trivia > The White and Nerdy Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Old Town Road Debate (2019)** : Lil Nas X's "Old Town Road" (2019), featuring Billy Ray Cyrus, sparked a debate in the music business about its genre, with R&B being one of the categories considered alongside Pop, Rap, and Country. "the music business debated what genre Old Town Road belongs in, pop or R&B or rap or country." ← Hit Parade Music History and Music Trivia > The White and Nerdy Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Apollo Theater's Influence on Nile Rogers' Groove** : At Harlem's Apollo Theater, the "old timers" in the house band provided Nile Rogers with critical instruction, teaching him how to authentically play soul music with R&B notation. This mentorship gave Rogers the "groove" he lacked as a classically and jazz-trained player, fundamentally shaping his development into a proficient R&B musician. "More seriously, the old timers in the Apollo band finally taught Nile how to really play funk and soul with R&B notation." ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Steve Winwood's No. 1 Smash (1986)** : Steve Winwood's 1986 number one hit "Higher Love" was characterized as R&B flavored, featuring Nile Rodgers on rhythm guitar and in the video. "Steve Winwood's R&B Flavored 1986 No. 1 Smash Higher Love." ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Springsteen's First Significant Hit on Black Radio** : The Pointer Sisters' version of "Fire" reached number 14 on the R&B chart, which was noted as Bruce Springsteen's first significant hit on "Black Radio." "And even hit number 14 on the R&B chart. Springsteen's first significant hit at Black Radio." ← Hit Parade Music History and Music Trivia > Tramps Like Us, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Dominance in Early 2000s Pop Charts** : In the early 2000s, R&B and hip hop were "taking over the pop charts," making it essential for artists to gain traction within these formats. Jennifer Lopez's difficulty with "Black Radio" playing her music prompted the strategic creation of a hip-hop/R&B flavored remix for "I'm Real." "At a moment when hip hop and R&B were taking over the pop charts, and it didn't look like J-Lo's next single would write the ship." ← Hit Parade Music History and Music Trivia > We Invented the Remix Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Foundation for Boy Band Sound** : Many early and influential boy bands, including Frankie Lymon & The Teenagers and New Edition, had significant R&B chart success and often incorporated R&B-leaning material, establishing a strong connection between the genres. "The ABCs of Love was one of Frankie Lyman and the teenagers half-dozen R&B hits." ← Hit Parade Music History and Music Trivia > We Want It That Way Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Early Boy Band Roots** : R&B music formed some of the earliest roots of the boy band phenomenon, along with rock, influencing groups like Frankie Lymon and the Jackson Five. "We walked through the history of the boy band from its early rock and R&B roots in Frankie Lyman and the Jackson five." ← Hit Parade Music History and Music Trivia > We Want It That Way Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**American Sound Approximation** : Early Backstreet Boys singles like "We've Got It Going On" were noted for their attempt to approximate the sound of American R&B, particularly through the lens of Swedish songwriters like Max Martin and Dennis Popp. "And it sounded like two Scandinavians approximating the sound of American R&B." ← Hit Parade Music History and Music Trivia > We Want It That Way Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Shift from Teen Pop in 2000s** : In the 2000s, the charts made a "hard pivot" from teen pop to hip-hop, with harmony groups like 112 adopting a more R&B-forward sound that barely resembled earlier teen pop. "In the 2000s, the charts did a hard pivot from teen pop to hip-hop." ← Hit Parade Music History and Music Trivia > We Want It That Way Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on White Performers' Music** : The smooth music produced by white performers on the charts in the early 1980s was significantly influenced by the sound of contemporary black R&B music, indicating a cross-genre stylistic exchange. "All of this music by white performers on the charts owed something to the sound of contemporary black music." ← Hit Parade Music History and Music Trivia > What a Fool Believes Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Shift to Smoother Cocktail Sounds** : In the early 1980s, even R&B performers, who had previously been known for their funk and disco hits, began to transition towards smoother, "saltier" sounds that were considered suitable for a cocktail lounge, reflecting a broader trend in pop music. "even the R&B performers of the day, previously known for funk and disco hits, were also shifting into smoother, saltier sounds suitable for a cocktail lounge." ← Hit Parade Music History and Music Trivia > What a Fool Believes Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Post-Disco Marginalization of Black Artists** : As disco declined in the late 70s, radio programmers, eager to move away from disco, "scurried away from anything resembling disco," which often meant "any song that seemed too black." This resulted in black artists being "boxed out of top 40 playlists," creating a need for crossover genres like Yacht Soul. "Black artists increasingly found themselves boxed out of top 40 playlists, as radio programmers scurried away from anything resembling disco." ← Hit Parade Music History and Music Trivia > What a Fool Believes, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Hard Funk Exclusion from Top 40** : During the early 1980s, "hard funk records that were topping the R&B chart at the time were largely ignored on top 40 radio," even by highly regarded artists like Rick James or The Gap Band. This underscores the racial bias in pop radio programming and the importance of Yacht Soul for crossover success. "the sorts of hard funk records that were topping the R&B chart at the time were largely ignored on top 40 radio, whether by the likes of Rick James or the Gap band." ← Hit Parade Music History and Music Trivia > What a Fool Believes, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on "Say Say Say"** : Paul McCartney's "Say Say Say" was described as "funkier, and more R&B-like" than his previous duet with Michael Jackson, "The Girl Is Mine." "Paul's album got the better, funkier, and more R&B-like song." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on "Karma Chameleon"** : Culture Club's "Karma Chameleon" was a "fiendishly catchy" blend that incorporated American R&B elements, reflecting the changing tastes in the MTV era. "Karma Chameleon was also fiendishly catchy, a blend of American R&B and even country music." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**R&B Chart Performance** : Several covers of Lennon-McCartney songs, such as Ray Charles's "Yesterday," Aretha Franklin's "Eleanor Rigby," Envogue's "Yesterday," and Stevie Wonder's "We Can Work It Out," achieved notable success on Billboard's R&B charts, demonstrating the genre's engagement with Beatles material. "Ray Charles's 1967 version of yesterday reached a modest number 25 on the pop chart, the same week it peaked at number 9 on the R&B chart." ← Hit Parade Music History and Music Trivia > Without The Beatles | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Aaliyah
@@ -276,3 +361,195 @@
 - Eurythmics
 - The Jaynetts
 - The Pointer Sisters
+- Herb Alpert
+- Phil Collins
+- Joe Cocker
+- Brandy
+- Ja Rule
+- Nelly
+- Paramore
+- Madonna
+- Cisco
+- Billy Joel
+- Destiny's Child
+- Culture Club
+- The Isley Brothers
+- The Cherelles
+- The Chantels
+- Meat Loaf
+- Martha Reeves and the Vandellas
+- The Supremes
+- The Honey Cone
+- Sister Sledge
+- Vanity 6
+- Backstreet Boys
+- NSYNC
+- Boys II Men
+- (unnamed 1990 R&B quartet)
+- Prince
+- InnoJay
+- Millie Vanille
+- Bobby Brown
+- Richard Marx
+- Paula Abdul
+- Soul II Soul
+- Janis Joplin
+- Missy Elliott
+- Mýa
+- Britney Spears
+- Beyoncé
+- U2
+- Puff Daddy
+- Isaac Hayes
+- Wham!
+- Nat King Cole
+- Brenda Lee
+- Donny Hathaway
+- Seal
+- George Michael
+- Sam Cook
+- Otis Redding
+- Jennifer Hudson
+- Bee Gees
+- Shannon
+- Janet Jackson
+- Garth Brooks
+- Casey Kasem
+- Steve Winwood
+- The Neptunes
+- Pharrell Williams
+- Clipse
+- Teddy Riley
+- Mary J. Blige
+- 702
+- Kelis
+- Jay-Z
+- N.E.R.D.
+- Max Martin
+- Tweet
+- Rihanna
+- Robin Thicke
+- Nile Rodgers
+- Ciara
+- Keyshia Cole
+- Jazmine Sullivan
+- Monica
+- Lil' Kim
+- Bruce Springsteen
+- Run-DMC
+- All-4-One
+- The Impressions
+- Herbie Hancock
+- Average White Band
+- Lakeside
+- Club Nouveau
+- Percy Sledge
+- Michael Bolton
+- The Jackson 5
+- Smokey Robinson and The Miracles
+- Gladys Knight & The Pips
+- Barbra Streisand
+- Sheik
+- The Time
+- Harold Melvin & The Blue Notes
+- Dionne Warwick
+- Kenny Loggins
+- El DeBarge
+- Lenny Kravitz
+- Michael McDonald
+- Kenny G
+- Jennifer Lopez
+- The Fatback Band
+- The Sugarhill Gang
+- Grandmaster Flash and the Furious Five
+- Frankie Smith
+- Zapp
+- Cameo
+- 50 Cent
+- Bell Biv DeVoe
+- WAM
+- Dion Warwick
+- The Miracles
+- Smokey Robinson
+- The Silhouettes
+- Madonna Louise Ciccone
+- Ramones
+- Toni Braxton
+- Kenneth "Babyface" Edmonds
+- Toto
+- Daryl Hall & John Oates
+- Heatwave
+- Cissy Houston
+- The Drinkard Singers
+- Doris Troy
+- The Pips
+- The Sweet Inspirations
+- Teddy Pendergrass
+- Frankie Beverly and Maze
+- Jeffrey Osborne
+- Stacey Lattisaw
+- Freddie Jackson
+- Peabo Bryson
+- Patti LaBelle
+- Dave "Baby" Cortez
+- Sade
+- Kashif
+- Najee
+- Lil Nas X
+- Shaka Khan
+- Maxwell
+- Nick Ashford and Valerie Simpson
+- Selena
+- Sylvester
+- Frank Ocean
+- Cardi B
+- Lauryn Hill
+- Cheryl Lynn
+- Ella Mai
+- Sean Paul
+- Lumidee
+- Wayne Wonder
+- D-Train
+- Arthur Baker
+- John Roby
+- Planet Patrol
+- Afrika Bambaataa & Soulsonic Force
+- Lisa Fischer
+- Starpoint
+- Rainy Davis
+- Debbie Gibson
+- Kool Mo Dee
+- Anthony Hamilton
+- The Gap Band
+- The Delphonics
+- Eddie Kendricks
+- C. Lo Green
+- Mike Wanz
+- Mark Ronson
+- Beyoncé Knowles
+- Big Punisher
+- The SOS Band
+- Akon
+- Rebbie Jackson
+- La Toya Jackson
+- The Doobie Brothers
+- Creedence Clearwater Revival
+- John Fogerty
+- Jennifer Holliday
+- Teddy Swims
+- Jennifer Holiday
+- Ernie K. Doe
+- New York City
+- The Big Apple Band
+- Roy Ayers
+- Zayn Malik
+- June Pointer
+- Gary U.S. Bonds
+- Frankie Lymon & The Teenagers
+- Frankie Lymon
+- 112
+- Dubie Brothers
+- Ace
+- Bobby Caldwell
+- Envogue
+- Bonnie Pointer

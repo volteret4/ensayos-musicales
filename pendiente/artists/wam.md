@@ -1,0 +1,25 @@
+# artist - WAM
+
+## members
+- Andrew Ridgley
+- George Michael
+
+## genres
+- Hip Hop
+- Pop
+- R&B
+
+## albums
+**Fantastic (1983)** : WAM's debut album topped the UK charts but achieved little recognition in America. To break into the US market, the duo would need a slicker approach. "WAM's debut album, Fantastic, topped the UK charts but made little impression in America." ← Hit Parade Music History and Music Trivia > Hit Parade - The Imperial Elton and George Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Make It Big (1985)** : This album began a three-week run atop the album chart one month after "Careless Whisper" topped the Hot 100, and it achieved quadruple platinum status by the end of the year. The album spawned multiple number one singles, cementing WAM's pop stardom. "WAM's album, MakeItBig, began a three week run atop the album chart." ← Hit Parade Music History and Music Trivia > Hit Parade - The Imperial Elton and George Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## songs
+**Everything She Wants (1985)** : An R&B-flavored mid-tempo jam, this song became WAM's third consecutive number one hit on the Hot 100 and a number 12 hit on the R&B chart. George Michael's lyrics on this track lamented an imagined, acquisitive, and pregnant wife, drawing parallels to Elton John's "Someone Saved My Life Tonight" in its personal reflection on relationships. "George Michael was lamenting and imagined, acquisitive, and pregnant wife." ← Hit Parade Music History and Music Trivia > Hit Parade - The Imperial Elton and George Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Last Christmas (1984)** : Released in England as a massive holiday single, this song is one of the best-selling British singles of all time, certified for sales of nearly two million copies in the UK alone. It cemented WAM's enduring compositional ability and is one of the few songs from the last two decades of the 20th century to enter the holiday music canon alongside Mariah Carey's "All I Want for Christmas Is You." Although not a hit in America in 1984 due to the market being focused on "Wake Me Up Before You Go-Go," it has since become WAM's most enduring perennial, dominating US radio playlists every December. "Last Christmas is one of the best-selling British singles of all time, certified for sales of nearly two million copies in the UK alone." ← Hit Parade Music History and Music Trivia > Hit Parade - The Imperial Elton and George Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Wake Me Up Before You Go-Go (1984)** : This single, written by George Michael, marked WAM's breakthrough in America by drawing on nostalgic references to early rock and soul, including a reference to the 1930s dance, The Jitterbug. Its exuberant music video, featuring Michael and Andrew Ridgley in white "choose life" t-shirts and neon accessories, established WAM as a teeny-bopper sensation during the peak popularity of Duran Duran. "Wake me up before you go go, made stars of WAM in America." ← Hit Parade Music History and Music Trivia > Hit Parade - The Imperial Elton and George Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**WAM Rap (1982)** : Following "Young Guns," this track made even heavier use of George Michael's rapping skills, further distinguishing WAM's early sound in the British pop scene. "including the follow-up WAM rap, which made even heavier use of Michael's rapping skills." ← Hit Parade Music History and Music Trivia > Hit Parade - The Imperial Elton and George Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Young Guns (1982)** : This song was the first of four consecutive British Top Ten hits for WAM, showcasing George Michael's early rapping skills and marking their initial success in the UK. "Young guns was the first of four straight British top tens for WAM." ← Hit Parade Music History and Music Trivia > Hit Parade - The Imperial Elton and George Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## curiosities
+**Andrew Ridgley's Role in WAM** : Andrew Ridgley, George Michael's secondary school friend, shared some co-songwriting duties and played guitar, serving primarily as a co-conspirator and providing moral support for the shyer George Michael. For most purposes, Michael was considered the driving force behind WAM, handling lead composition, production, main vocals, and instrumental duties. "While Ridgley shared some co-songwriting duties, played a bit of guitar, and served as co-conspirator and moral support for his shy friend." ← Hit Parade Music History and Music Trivia > Hit Parade - The Imperial Elton and George Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Amicable Breakup** : WAM took a final victory lap in late 1985, issuing one last album and a string of singles into 1986 before amicably breaking up as a duo. Their farewell songs maintained the exuberant style they were known for. "before amicably breaking up as a duo." ← Hit Parade Music History and Music Trivia > Hit Parade - The Imperial Elton and George Edition | https://my.slate.com/podcasts/feeds/hit-parade/

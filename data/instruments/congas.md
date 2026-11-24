@@ -5,4 +5,5 @@
 
 ## artists
 - Bobby LaKind
-
+- Billy Joel
+- Tito Puente

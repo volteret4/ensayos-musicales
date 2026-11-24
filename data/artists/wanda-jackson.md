@@ -45,6 +45,8 @@
 **Rejection by Capitol Records (Underage)** : While Wanda Jackson was still in high school, Hank Thompson recorded demos of her singing and presented them to Ken Nelson at Capitol Records. Nelson liked her voice but declined to sign her due to her being under 18, citing legal complications and the fact that she hadn't finished school. ← Episode 43： ＂I Gotta Know＂ by Wanda Jackson | https://www.youtube.com/watch?v=gEInec4z65Q
 **Self-Taught Yodeling** : Wanda Jackson taught herself to yodel by copying Alton Britt's record "Chime Bells," a skill that was essential for country and western singers at the time, dating back to Jimmie Rodgers. ← Episode 43： ＂I Gotta Know＂ by Wanda Jackson | https://www.youtube.com/watch?v=gEInec4z65Q
 **Touring with Jerry Lee Lewis** : Wanda Jackson toured with Jerry Lee Lewis, Johnny Cash, and Carl Perkins, an experience where Lewis quickly overshadowed his fellow acts despite not yet having a hit. "Jerry Lee went out on tour with Johnny Cash, Carl Perkins, Wanda Jackson and a couple of other acts." ← Episode 59： ＂Whole Lotta Shakin' Goin' On＂ by Jerry Lee Lewis | https://www.youtube.com/watch?v=wiSA3J9iJ7M
+**"Queen of Rockabilly"** : Wanda Jackson is referred to as the "Queen of Rockabilly." "Queen of Rockabilly, Wanda Jackson" ← Hit Parade Music History and Music Trivia > Chestnut Roasters, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Pioneer for Women in Music** : Wanda Jackson was revolutionizing the role of women in both rock and roll and country music, a path Brenda Lee also followed, nearly a decade younger. "At a time when Queen of Rockabilly, Wanda Jackson was revolutionizing the role of women in both rock and roll and country." ← Hit Parade Music History and Music Trivia > Chestnut Roasters, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Rockabilly Hall of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q2255853
@@ -55,4 +57,4 @@
 **Oklahoma Women's Hall of Fame (2022)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q7082416
 
 ## lists
-**"Rockin’ With Wanda" (1960) — Pitchfork: The 200 Best Albums of the 1960s** : #196. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Rockin’ With Wanda" (1960) — Pitchfork: The 200 Best Albums of the 1960s** : #196.

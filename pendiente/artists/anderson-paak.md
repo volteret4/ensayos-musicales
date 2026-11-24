@@ -9,5 +9,5 @@
 **Chemistry with Bruno Mars** : Critics widely admired Anderson .Paak's chemistry with Bruno Mars on their Silk Sonic debut album, "An Evening with Silk Sonic." Their musical and performance synergy was noted as contributing to the album's success and positive reception. "Critics found the music cheeky but also sincere and admired Bruno's chemistry with Anderson Pock." ← Hit Parade Music History and Music Trivia > Lenny on Mars Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f54d1ba84fb8f0463bf
 
 ## lists
-**"Malibu" (2016) — AOTY Must Hear 2010s** : #443, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Malibu" (2016) — Sputnikmusic Best Albums 2016** : #198, 81 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2016/
+**"Malibu" (2016) — AOTY Must Hear 2010s** : #443, 81 AOTY.
+**"Malibu" (2016) — Sputnikmusic Best Albums 2016** : #198, 81 AOTY.

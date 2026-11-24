@@ -71,5 +71,5 @@
 **Pre-Kid A Creative Explosion Assessment** : Tom Yorke characterized the period immediately preceding the release of "Kid A" as the band's most significant explosion of artistic creativity. During this time, the band produced a wealth of music alongside numerous other projects, such as posters, short films, videos, animations, and comics. "la mayor explosión de creatividad artística de la banda, como siempre ha referido a Tom York a ese periodo del que no solo salió muchísima música sino que salieron un montón de otros proyectos." ← Music Radar Clan > El logo de Radiohead. Modified Bear | https://www.youtube.com/watch?v=O9tRuIz2Ifo&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## lists
-**"ANIMA" (2019) — AOTY Must Hear 2010s** : #55, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Suspiria (Music for the Luca Guadagnino Film)" (2018) — AOTY Must Hear 2010s** : #128, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
+**"ANIMA" (2019) — AOTY Must Hear 2010s** : #55, 83 AOTY.
+**"Suspiria (Music for the Luca Guadagnino Film)" (2018) — AOTY Must Hear 2010s** : #128, 80 AOTY.

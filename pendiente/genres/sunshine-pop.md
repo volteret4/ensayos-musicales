@@ -5,3 +5,6 @@
 
 ## artists
 - Madonna
+- The Monkees
+- The Association
+- The Turtles

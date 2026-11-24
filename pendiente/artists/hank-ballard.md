@@ -6,6 +6,9 @@
 ## labels
 - King Records
 
+## songs
+**The Twist** : This dance craze song was the original version, later covered by Chubby Checker, whose infectious rendition famously hit number one on the charts in both 1960 and 1962. "Hank Ballard's Dance Craze song, The Twist" ← Hit Parade Music History and Music Trivia > Singing Nuns and Green Tambourines Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **Produced by James Brown** : Around 1969, James Brown produced records for Hank Ballard as part of his effort to acknowledge and "pay back his dues" to artists who were on King Records during Brown's early career. "Brown had also been producing records for Hank Ballard." ← Episode 50： ＂Honky Tonk＂, by Bill Doggett | https://www.youtube.com/watch?v=H2rYnKmeZF0
 

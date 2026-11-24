@@ -9,4 +9,6 @@
 - Carl Perkins
 - Gene Vincent
 - Johnny Cash
-
+- Creedence Clearwater Revival
+- John Fogerty
+- Dale Hawkins

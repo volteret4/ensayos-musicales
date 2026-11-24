@@ -8,4 +8,4 @@
 ## artists
 - Howard Jones
 - New Order
-
+- Lenny Kravitz

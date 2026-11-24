@@ -9,9 +9,13 @@
 ## genres
 - Alt Rock
 - Alternative Music
+- Alternative Rock
 - Dream Pop
 - Dreampop
+- Dreamy Ethereal Indie Pop
+- Grunge
 - Indie Alternative
+- Irish Rock
 - Modern Rock
 - Música Alternativa
 - Pop Rock
@@ -28,9 +32,11 @@
 ## albums
 **Everybody Else Is Doing It, So Why Can't We? (1993)** : The cover art for the Cranberries' 1993 debut album was conceived by art director Callie and photographed by Andy Earl. The concept involved renting a specific couch and having three band members sit on it, with one member positioned on the floor in front, establishing a visual motif that would recur in their future work. "An art director called Callie was hired. The decision was made to rent a couch and have the members sit on it." ← https://www.youtube.com/watch?v=_tbKuJR0cPs ← the-cranberries
 **Everybody Else Is Doing It, So Why Can't We? (1993)** : This album achieved substantial commercial success, selling six million copies. "The first album, everybody else is doing it so why can't we sold six million copies?" ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← the-cranberries
+**Everybody Else Is Doing It, So Why Can't We? (1993)** : On their debut album, the Irish band collaborated with one of The Smiths' former producers, resulting in a sound characterized as "Dreamy Ethereal Smith-style indie pop." "On their 1993 debut album, they had worked with one of The Smiths' former producers to generate Dreamy Ethereal Smith-style indie pop." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **No Need to Argue (1994)** : For their 1994 second album, "No Need to Argue," art director Callie and photographer Andy Earl made a concerted effort to locate and reuse the exact same couch from their debut album. The couch was transported around Dublin for various photos, with the final cover shot taken in a specially constructed stark white studio room, featuring the band in suits, an idea inspired by a recent Blur photoshoot. "Callie called up Earl and had him find that very same couch." ← https://www.youtube.com/watch?v=_tbKuJR0cPs ← the-cranberries
 **No Need to Argue (1994)** : The band's second album proved even more successful than their debut, selling approximately 17 million copies. "The second, no need to argue, sold around 17 million copies." ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← the-cranberries
 **No Need to Argue (1994)** : The band's second album sold "almost 17 million copies." "The second sold almost 17 million copies." ← https://www.youtube.com/watch?v=yR3xc3ra5tE ← the-cranberries
+**No Need to Argue (1994)** : This sophomore album marked a significant shift in the band's sound, with The Cranberries "cranking up the Grunge" on its lead single, "Zombie." "But on their 1994 sophomore album No Need to Argue, The Cranberries cranked up the Grunge on the lead single Zombie and spent six weeks at number one on the modern rock chart." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Something Else (2017)** : The distinctive couch that featured prominently on the Cranberries' early album covers made a return appearance on the cover of their 2017 unplugged album, "Something Else." Its whereabouts in the intervening years remain unknown, though it was seen in a Supergrass video. "The couch disappeared from the Cranberries world until 2017 when it appeared on the cover of the unplugged album." ← https://www.youtube.com/watch?v=_tbKuJR0cPs ← the-cranberries
 **To the Faithful Departed (1996)** : The band's third album continued their commercial success, selling an additional five million copies. "The third, another five million." ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← the-cranberries
 **To the Faithful Departed (1996)** : This album was produced by Bruce Fairbairn. "This is from their 1996 album to the Faithful Departed." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← the-cranberries
@@ -38,6 +44,7 @@
 
 ## songs
 **Animal Instinct (1999)** : This song, along with "Imagination", was released towards the end of 1999. It demonstrates the band's continued output and loyal fanbase several years after their initial hype. "justo al final es de los 99 yo creo que obteníamos las cacinas como el animal instito." ← Music Radar Clan > Recordar a THE CRANBERRIES | https://www.youtube.com/watch?v=9HTrbETl_Pg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-cranberries ← the-cranberries
+**Close to You** : The Cranberries' cover of "Close to You," especially Dolores O'Riordan's vocals on the *If I Were a Carpenter* tribute album, was favored for being "much closer to my spiritual affiliation" to the original Carpenters' sound. "Or even the cranberries, God bless you, the lorissa Reardon. Yeah, her version of close to you, their version of close to you, was much closer to my spiritual affiliation." ← Hit Parade Music History and Music Trivia > The Posthumous Hits Edition, Live from Seattle | https://my.slate.com/podcasts/feeds/hit-parade/
 **Imagination (1999)** : Released in late 1999, this track, alongside "Animal Instinct", showcases The Cranberries' sustained creative output and their ability to retain a faithful following years after their initial period of high popularity. "el imagination entonces aún seguían a 5 o 6 años después del hype." ← Music Radar Clan > Recordar a THE CRANBERRIES | https://www.youtube.com/watch?v=9HTrbETl_Pg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-cranberries ← the-cranberries
 **Water Circle (1990)** : This demo recording from 1990 marks the very first appearance of Dolores O'Riordan as the new singer for The Cranberries. The track is described as "a bit rough," reflecting its demo status. "This is a bit rough, but it is the first appearance of Doors with the cranberries and the year is 1990." ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← the-cranberries
 **Zombie (1994)** : A mosh pit reportedly formed even for The Cranberries when they played this song, despite its musical style not typically being associated with moshing. The lyric snippet "E-I-E, E-I-E, N-E, N-E, N-E, N-E, N-E" is a clear reference to the song. "But I even saw a pit form for the cranberries when they played this song. Some Dodd, but whatever. E-I-E, E-I-E, N-E, N-E, N-E, N-E, N-E," ← https://www.youtube.com/watch?v=KMx4bmq8o2Y ← the-cranberries
@@ -47,6 +54,8 @@
 **Zombie (1994)** : This song was described as a "monster song" from 1994. "The Cranberries 1994 Monster song, Zombie." ← https://www.youtube.com/watch?v=yuA9Xor8vfw ← the-cranberries
 **Zombie (1994)** : This song addresses a 1993 IRA bombing which resulted in the deaths of two people. "Zombie from the Cranberries is about a 1993 IRA bombing that killed two people." ← https://www.youtube.com/watch?v=cM3-tINKdvo ← the-cranberries
 **Zombie (1994)** : The Cranberries' 1994 Modern Rock number one hit, which was famously covered by Bad Wolves in 2018. The cover was recorded as a tribute in memory of the band's lead singer, Dolores O'Riordan. "the cranberries 1994 Modern Rock number one, Zambi" ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
+**Zombie (1994)** : This lead single from their 1994 sophomore album "No Need to Argue" showcased a major right turn in The Cranberries' sound, heavily influenced by grunge. The song spent six weeks at number one on the modern rock chart. "The Cranberries cranked up the Grunge on the lead single Zombie and spent six weeks at number one on the modern rock chart." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Zombie (1994)** : This chart-topping song from 1994 was a lament about IRA bombings. Led by singer Dolores O'Riordan, The Cranberries turned up the guitars for this track, showcasing their ability to adapt to the heavier sounds prevalent in alternative music at the time. "Even Irish band The Cranberries, led by singer Dolores O'Rorden, turned up the guitars and scored a 1994 chart-topper with their lament about IRA bombings, Zumbit." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Breakup Date (September 15, 2003)** : While an exact date is difficult to pinpoint, September 15, 2003, is considered approximately correct for when the members scattered to pursue solo endeavors, being "sick of each other" and "tired of being in the band." "It's hard to find an exact date, but September 15th 2003 seems to be about right. All the members scattered after that date to do their own thing." ← https://www.youtube.com/watch?v=yR3xc3ra5tE ← the-cranberries
@@ -74,6 +83,8 @@
 **Trinity College Philosophical Society Event (2009)** : The reunion process began when Trinity College made Dolores O'Riordan a member of their philosophical society and invited her to perform. She asked Mike and Noel Hogan and Fergal Lawler to play with her, marking their first reunion. "Trinity College made me a member of their philosophical society and they wanted me to do a couple of songs, you know?" ← https://www.youtube.com/watch?v=yR3xc3ra5tE ← the-cranberries
 **Unique Sound in 90s Alt-Rock** : Despite not fitting the prevalent guitar-heavy alt-rock sound in North America or the Britpop style in the UK, The Cranberries were signed in 1992 during a period of high demand for alternative bands, and successfully integrated into the growing alt-rock scene. "And even though the cranberries didn't fit with the usual guitar-heavy stuff that was happening in North America, or even the pre-briot pop stuff that was happening in the UK, they nevertheless became part of the growing alt-roxene." ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← the-cranberries
 **Posthumous Cover Tribute (2018)** : The Cranberries' lead singer Dolores O'Riordan was posthumously honored with Bad Wolves' 2018 cover of "Zombie," which was specifically recorded in her memory. "recorded in memory of cranberries lead singer Dolores Orrard." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
+**1994 Chart-Topper with Heavier Sound** : The Cranberries, an Irish band fronted by Dolores O'Riordan, scored a 1994 chart-topper with "Zombie," demonstrating their ability to succeed at the height of alternative music's dominance. They achieved this by "turning up the guitars," adapting to the era's heavier sound. "Even Irish band The Cranberries, led by singer Dolores O'Rorden, turned up the guitars and scored a 1994 chart-topper with their lament about IRA bombings, Zumbit." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Multi-Year Gaps (1990s)** : Albums from The Cranberries, which often produced only one or two hits, still saw multi-year gaps between releases becoming commonplace in the 1990s CD era. "from the cranberries" ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **MTV Europe Music Award for Best Song (1995) — Zombie** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q31155
@@ -84,7 +95,7 @@
 **"When You're Gone" / "Free to Decide" — Billboard Year-End Hot 100** : #95, 1997. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"No Need To Argue" (1994) — AOTY Must Hear 1990s** : #268, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Everybody Else Is Doing It, So Why Can’t We?" (1993) — AOTY Must Hear 1990s** : #349. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"No Need To Argue" (1994) — Scaruffi 1990s** : #553, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Everybody Else Is Doing It, So Why Can’t We?" (1993) — Pitchfork: The 150 Best Albums of the 1990s** : #113. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
+**"No Need To Argue" (1994) — AOTY Must Hear 1990s** : #268, 7.0/10 Scaruffi.
+**"Everybody Else Is Doing It, So Why Can’t We?" (1993) — AOTY Must Hear 1990s** : #349.
+**"No Need To Argue" (1994) — Scaruffi 1990s** : #553, 7.0/10 Scaruffi.
+**"Everybody Else Is Doing It, So Why Can’t We?" (1993) — Pitchfork: The 150 Best Albums of the 1990s** : #113.

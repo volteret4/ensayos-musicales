@@ -1,6 +1,7 @@
 # artist - Kurt Cobain
 
 ## member of
+- Courtney Love
 - Nirvana
 
 ## genres
@@ -245,3 +246,4 @@
 **Suicide and Cultural Marker** : Cobain's body was found on April 8, 1994, in Seattle, dead of an "apparently self-inflicted shotgun blast to the head," with a suicide note present. His death was a "generational event" for Generation X and a "cultural marker," dividing the organic rise of Grunge from the "frothier, more commodified, often more cynical" post-Grunge era. "He was dead of an apparently self-inflicted shotgun blast to the head." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 **Sardonic View of Fame** : Cobain "sang sardannically, even ruefully, about how teenage angst had made him a star." He had not yet witnessed the full extent of the "wackiest moments of alternative rocks rise" that would follow. "Cobain had sung sardannically, even rooffully, about how teenage angst had made him a stall." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 **Former Husband of Courtney Love** : Kurt Cobain was the former husband of Courtney Love, and his death preceded the release of Dave Grohl's song "I'll Stick Around." Nirvana fans interpreted this song as a diss aimed at Love, adding another layer to the complex relationships within the grunge scene. "after the death of his Nirvana bandmate and Love's former husband Kurt Cobain" ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+**Death in April 1994** : Kurt Cobain's death occurred in April 1994, six months before Dave Grohl's Saturday Night Live performance with Tom Petty in November of the same year. "It was only six months after Kurt Cobain's death" ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/

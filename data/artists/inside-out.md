@@ -14,4 +14,4 @@
 **National Underground Following** : Inside Out successfully cultivated a considerable following within the National Underground Hardcore scene, achieving particular success and recognition in the Orange County area and its surroundings. "They were actually able to get a decent following on the National Underground Hardcore scene, and did especially well in and around Orange County." ← https://www.youtube.com/watch?v=Xo5DRSW95QQ ← inside-out
 
 ## lists
-**"No Spiritual Surrender" (1990) — Sputnikmusic Best Albums 1990** : #59, 4.08 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
+**"No Spiritual Surrender" (1990) — Sputnikmusic Best Albums 1990** : #59, 4.08 Sputnik.

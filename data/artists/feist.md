@@ -48,4 +48,4 @@
 **Juno Award for Adult Alternative Album of the Year (2012) — Metals** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q6314039
 
 ## lists
-**"The Reminder" (2007) — AOTY Must Hear 2000s** : #142, 79 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
+**"The Reminder" (2007) — AOTY Must Hear 2000s** : #142, 79 AOTY.

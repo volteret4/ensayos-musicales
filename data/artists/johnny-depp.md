@@ -5,6 +5,7 @@
 
 ## curiosities
 **Oasis Songwriting Collaboration** : Johnny Depp, known for his acting, also has musical connections, including writing a couple of songs for Oasis alongside Noel Gallagher. This collaboration occurred while they were together on the Caribbean island of Mustique, reportedly while smoking spliffs. "actually wrote a couple of Oasis songs with Noel while hanging out on the Caribbean Island of Moustique, Smokin Spliffs." ← https://www.youtube.com/watch?v=Yl2poVWguu0 ← johnny-depp
+**Star of "Learning to Fly" Music Video (1991)** : Johnny Depp starred in the music video for Tom Petty and The Heartbreakers' "Learning to Fly" from the album "Into the Great Wide Open," which was directed by Julian Temple and satirized the era's teen rock idols. "And the video directed by Julian Temple and starring Johnny Depp and Faye Dunnoay, satirized the current generation of teen rock idols." ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **list of orders, decorations, and medals of Serbia** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q4311747

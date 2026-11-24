@@ -1,0 +1,10 @@
+# artist - Scott McKenzie
+
+## songs
+**San Francisco (Be Sure to Wear Flowers in Your Hair) (1967)** : This song was a significant national hit, serving as a "hippie totem of the 1967 Summer of Love," which was centered in San Francisco's Haight-Ashbury District. It reached number four on Billboard's Hot 100 in the summer of 1967. Despite its iconic status, the song was a "bandwagon jumper" and not an organic product of the Summer of Love, having been written by John Phillips of The Mamas and the Poppas at producer Lou Adler's request to promote the 1967 Monterey Pop Festival. The single was essentially a "good-hearted advertisement" for the festival and the city, but Scott McKenzie's "heartfelt vocals turned it into a genuine anthem." "San Francisco, the song, was a sizable national hit, reaching number four on Billboard's Hot 100 in that summer of 1967." ← Hit Parade Music History and Music Trivia > Singing Nuns and Green Tambourines Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**San Francisco (Be Sure to Wear Flowers in Your Hair) (1967)** : This anthem for the 1967 "Summer of Love" reached number four in June of that year. It was specifically written and recorded to capitalize on the burgeoning hippie movement in San Francisco, and in hindsight, its marketing and idealized "sunshine pop tropes" served as a prototype for future summer song promotion. "The Scott McKenzie anthem San Francisco, be sure to wear flowers in your hair. Written and recorded specifically to capitalize on the city's burgeoning hippie movement, hit number four in June of 67." ← Hit Parade Music History and Music Trivia > Song(s) of the Summer Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## charts
+**"San Francisco" — Billboard Year-End Hot 100** : #48, 1967. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
+**"235" — NME Chart** : 12 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
+**"San Francisco (Be Sure To Wear Flowers In Your Hair)" — Spain Singles Chart** : #1, 1967. ← Wikipedia | https://en.wikipedia.org/wiki/Promusicae

@@ -4,6 +4,8 @@
 - Jim Kerr
 
 ## genres
+- New Wave
+- Pop
 - Synth and sample constructed music
 - Synth Pop
 
@@ -16,6 +18,8 @@
 **Don't You (Forget About Me) (1985)** : This song is noted for being loaded with vocables, particularly at its conclusion, featuring many "la la la" sounds. The use of these singing placeholders is considered perfect for the song. "Simple minds taking us out of don't you forget about me, with many la la la, the singing placeholder known as a vocable." ← https://www.youtube.com/watch?v=_YjwRApoJhA ← simple-minds
 **Don't You (Forget About Me) (1985)** : This song, written by Keith Forsey for *The Breakfast Club* soundtrack, was famously rejected by Brian Ferry, Billy Idol, and considered for Corey Hart and Cy Curnin before Virgin Records suggested Simple Minds. The band was initially reluctant, preferring to record their own material and focusing on breaking into America, believing the song wouldn't help. However, under pressure from the label and an appeal from Chrissie Hynde (married to singer Jim Kerr), they completely rearranged and recorded the song in just three hours. Despite their initial dismissal of it as a "throwaway soundtrack song," it became their biggest hit. "Simple minds with their song from the Breakfast Club soundtrack, a track they did not write, a track that was rejected by a bunch of other people, and a track they did not want to record." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← simple-minds
 **Don't You (Forget About Me) (1985)** : This soundtrack song for the American movie *The Breakfast Club*, directed by John Hughes, was turned down by Billy Idol and Bryan Ferry of Roxy Music. Simple Minds "swallowed their pride" and recorded it, breaking them in the States and taking them all the way to number one. "But then, in 1985, Simple Mines swallowed their pride and agreed to record a soundtrack song for the American movie The Breakfast Club, directed by teen film Auteur John Hughes." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
+**Don't You (Forget About Me) (1985)** : This song was one of eight number one songs from soundtracks in 1985, featured in the "Brat Pack" drama *The Breakfast Club*. "Simple minds don't you forget about me from the Brat Pack drama The Breakfast Club." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Don't You (Forget About Me) (1985)** : This song, featured in John Hughes' 1985 film "The Breakfast Club," became a number one hit. "And 1985's The Breakfast Club had generated a number one hit, Simple Minds Don't You Forget About Me." ← Hit Parade Music History and Music Trivia > Lost and Lonely Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 **Promised You a Miracle (1982)** : This song was a top 20 UK hit for Simple Minds when they attempted to go danceable in 1982. However, it missed the Hot 100 entirely in America and "only barely scraped Billboard's Club Play Chart." "They had tried going danceable back in 1982 on promised you a miracle." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
 
 ## curiosities

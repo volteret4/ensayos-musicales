@@ -1,6 +1,7 @@
 # artist - Florence + The Machine
 
 ## members
+- Florence Dup
 - Florence Welch
 - Isabella Summers
 - Tom Monger
@@ -74,13 +75,14 @@
 **The Florence Commandments** : Isabella Summers attempted to organize Florence's energies by helping her construct a list of guiding principles known as "The Florence Commandments." These ten rules included directives like "always carry seeds," "always carry a book," "dance to all the music, dance hall style," and "climb anything," reflecting Florence's quirky and eccentric approach to life. "There are ten of them. Number one, always carry seeds. Number two, always carry a book. Number three, support your local charity shop." ← https://www.youtube.com/watch?v=24NeCYqlVco ← florence-the-machine ← florence-the-machine
 **Twilight Soundtracks Contribution** : Florence + The Machine contributed to the various *Twilight* soundtracks that accompanied the film series. These soundtracks featured a nice selection of tunes, mostly album cuts and outtakes, from a range of artists spanning different genres. "The Paramore, Lincoln Park, Collective Soul, Death Cab for Cutie, Tom York, the Killers, Editors, Metric, Block Keys, Dead Weather, Beck, Vampire Weekend, Florence in the Machine." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← florence-the-machine
 **Unconventional Manager Acquisition** : Florence Welch secured her current manager, Mayrid Nash, through a highly unusual encounter. While very drunk, Florence pestered Nash, one half of the UK outfit "Queens of Noise," all night before following her into the toilets to sing an "Edgames song." Nash was impressed, and this led to their management deal. "Florence got her current manager when she was very, very drunk. She ran into Mayrid Nash, one half of a UK outfit called Queens of Noise." ← https://www.youtube.com/watch?v=rEawe_1Fqf0 ← florence-the-machine ← florence-the-machine
+**Rock Band in Haim's Dream Lilith Lineup** : Florence + The Machine, a rock band led by vocalist Florence Dup, was included in the "pretty credible contemporary Lilith lineup" that the trio Haim "spitballed" in a 2015 Vulture article. This indicates their contemporary relevance for an all-female festival and broadens the imagined genre scope. "The rock band Florence and the machine, led by vocalist Florence Dup." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Grammy Award for Best New Artist (2011)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643
 
 ## lists
-**"Lungs" (2009) — AOTY Must Hear 2000s** : #25, 79 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"How Big, How Blue, How Beautiful" (2015) — AOTY Must Hear 2010s** : #501, 77 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Ceremonials" (2011) — AOTY Must Hear 2010s** : #817, 76 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Everybody Scream" (2025) — AOTY Must Hear 2020s** : #24, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Dance Fever" (2022) — AOTY Must Hear 2020s** : #439, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
+**"Lungs" (2009) — AOTY Must Hear 2000s** : #25, 79 AOTY.
+**"How Big, How Blue, How Beautiful" (2015) — AOTY Must Hear 2010s** : #501, 77 AOTY.
+**"Ceremonials" (2011) — AOTY Must Hear 2010s** : #817, 76 AOTY.
+**"Everybody Scream" (2025) — AOTY Must Hear 2020s** : #24, 83 AOTY.
+**"Dance Fever" (2022) — AOTY Must Hear 2020s** : #439, 82 AOTY.

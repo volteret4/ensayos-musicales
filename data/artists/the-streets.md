@@ -27,7 +27,7 @@
 
 ## lists
 **"A Grand Don’t Come for Free" (2004) — 1001 Albums You Must Hear Before You Die** : #994.
-**"A Grand Don’t Come for Free" (2004) — AOTY Must Hear 2000s** : #308. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Original Pirate Material" (2002) — AOTY Must Hear 2000s** : #387, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Original Pirate Material" (2002) — Scaruffi 2000s** : #660, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Original Pirate Material" (2002) — Sputnikmusic Best Albums 2002** : #115, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/
+**"A Grand Don’t Come for Free" (2004) — AOTY Must Hear 2000s** : #308.
+**"Original Pirate Material" (2002) — AOTY Must Hear 2000s** : #387, 7.0/10 Scaruffi.
+**"Original Pirate Material" (2002) — Scaruffi 2000s** : #660, 7.0/10 Scaruffi.
+**"Original Pirate Material" (2002) — Sputnikmusic Best Albums 2002** : #115, 7.0/10 Scaruffi.

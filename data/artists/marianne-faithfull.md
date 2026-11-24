@@ -14,4 +14,4 @@
 
 ## lists
 **"Broken English" (1979) — 1001 Albums You Must Hear Before You Die** : #439, 83 AOTY.
-**"Negative Capability" (2018) — AOTY Must Hear 2010s** : #124, 84 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
+**"Negative Capability" (2018) — AOTY Must Hear 2010s** : #124, 84 AOTY.

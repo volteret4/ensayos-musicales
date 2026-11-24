@@ -1,0 +1,6 @@
+# concert - MTV Video Music Awards (VMAs)
+
+## curiosities
+**"Bad Romance" Video of the Year (2010)** : Lady Gaga's music video for "Bad Romance" won Video of the Year at the 2010 MTV Video Music Awards, recognizing its homages to Stanley Kubrick's "A Clockwork Orange" and Michael Jackson's "Thriller" video. ← Hit Parade Music History and Music Trivia > The Gaga is Born Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Meat Dress Protest (2010)** : Lady Gaga attended the 2010 MTV Video Music Awards wearing a dress made entirely of raw meat to collect her "Moonman" statue. She stated it was a protest against the US government's "Don't Ask, Don't Tell" policy regarding gays in the military. ← Hit Parade Music History and Music Trivia > The Gaga is Born Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Joe Calderone Performance (2011)** : At the 2011 MTV Video Music Awards, Lady Gaga appeared as her male alter ego, Joe Calderone, delivering a speech and performing her hit song "Yoü and I" backed by Queen guitarist Brian May. This performance highlighted her engagement with identity politics. ← Hit Parade Music History and Music Trivia > The Gaga is Born Edition | https://my.slate.com/podcasts/feeds/hit-parade/

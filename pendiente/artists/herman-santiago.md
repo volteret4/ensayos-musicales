@@ -1,6 +1,7 @@
 # artist - Herman Santiago
 
 ## member of
+- Frankie Lymon & The Teenagers
 - The Teenagers
 
 ## songs

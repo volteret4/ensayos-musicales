@@ -31,7 +31,7 @@
 **Influence on Other Bands** : Hum's album *You'd Prefer an Astronaut* and its lead single "Stars" have been cited as highly influential by other bands. For instance, the Deftones stated that the album was crucial to the development of their sound. Other bands like The Smashing Pumpkins and Sonic Youth are also mentioned as part of the "heavy fuzzy bands" influenced by Hum. "The Deftones, for example, say that you'd prefer an astronaut was a big deal to them and how they developed their sound." ← https://www.youtube.com/watch?v=SOAL0GODN3M ← hum
 
 ## lists
-**"downward is heavenward" (1998) — AOTY Must Hear 1990s** : #91, 87 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"You'd Prefer an Astronaut" (1995) — AOTY Must Hear 1990s** : #240, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"downward is heavenward" (1998) — Sputnikmusic Best Albums 1998** : #27, 87 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1998/
-**"Inlet" (2020) — Sputnikmusic Best Albums 2020** : #52, 3.93 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2020/
+**"downward is heavenward" (1998) — AOTY Must Hear 1990s** : #91, 87 AOTY.
+**"You'd Prefer an Astronaut" (1995) — AOTY Must Hear 1990s** : #240, 80 AOTY.
+**"downward is heavenward" (1998) — Sputnikmusic Best Albums 1998** : #27, 87 AOTY.
+**"Inlet" (2020) — Sputnikmusic Best Albums 2020** : #52, 3.93 Sputnik.

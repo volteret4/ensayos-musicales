@@ -2,6 +2,7 @@
 
 ## curiosities
 **Gay Classical Composer** : Leonard Bernstein is mentioned as one of America's biggest classic composers who was gay, with his sexuality potentially being audible in his music, as posited by Professor Nadine Hubs. "many of America's biggest classic composers, from Leonard Bernstein to Aaron Copeland, were not only gay, but that their gayness can be heard in their music." ← https://www.youtube.com/watch?v=hswtuenFwvM ← leonard-bernstein
+**Composer of West Side Story** : Leonard Bernstein was the composer and one of the conceivers of *West Side Story*, the Broadway musical adapted into a blockbuster film in 1961. "The modern urban Romeo and Juliet adaptation conceived by choreographer Jerome Robbins, composer Leonard Bernstein and lyricists Steven Sondheim..." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **honorary doctor of the Hebrew University of Jerusalem** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q28861731

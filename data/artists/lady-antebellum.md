@@ -18,4 +18,4 @@
 **"Bartender" — Billboard Year-End Hot 100** : #81, 2014. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Need You Now" (2010) — Grammy Award: Album of the Year nominees** : #2011. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
+**"Need You Now" (2010) — Grammy Award: Album of the Year nominees** : #2011.

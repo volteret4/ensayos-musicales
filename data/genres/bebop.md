@@ -11,6 +11,7 @@
 **Pioneered by Louis Jordan** : Bandleader Louis Jordan is credited with pioneering Bebop, characterized by his insistence on heavy shuffle rhythms. This stylistic choice was a key factor in the genre's evolution. "Band leader Louis Jordan pioneered Bebop, insisting on heavy shuffle rhythms." ← https://www.youtube.com/watch?v=WL3zEWJJNuw ← bebop ← bebop
 **Rise in the 1940s** : Following the decline of big bands in the 1940s, bebop became a genre that young people gravitated towards, alongside R&B, the blues, and country western. This marked a generational shift in musical preference, moving away from older styles. ← https://www.youtube.com/watch?v=m7MbV-eCLyE ← bebop
 **Role in Big Band Decline** : The rise of bebop, with its complex and un-danceable nature, appealed to musicians seeking artistic freedom and challenge, and its pioneers like Charlie Parker and Miles Davis contributed to the decline of the more commercially focused big bands. "Their work helped put the nail in the coffin of the big bands." ← https://www.youtube.com/watch?v=V7WjNR1ujhk ← bebop
+**Quincy Jones's Diverse Influences** : Quincy Jones's 1989 album "Back on the Block" aimed to encompass his wide range of musical interests and influences, explicitly spanning from bebop to hip hop. "from bebop to hip hop." ← Hit Parade Music History and Music Trivia > I Wanna Rock with Q. Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Charlie Parker
@@ -22,4 +23,3 @@
 - Sonny Rollins
 - Thelonious Monk
 - Tony Crombie and His Rockets
-

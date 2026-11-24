@@ -20,4 +20,4 @@
 **Sampled by Nine Inch Nails** : Samples from This Mortal Coil were incorporated into Nine Inch Nails' first album, "Pretty Hate Machine." These were heavily modified and mutilated by computers by Chris Vrenna, making their origins obscure in the final mix. "For example, if you go through that first album, you'll hear samples from Jane's Addiction, Public Enemy, This Mortal Coil, and many others." ← https://www.youtube.com/watch?v=M3nUQtja0qc ← this-mortal-coil
 
 ## lists
-**"Blood" (1991) — Sputnikmusic Best Albums 1991** : #188, 3.8 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
+**"Blood" (1991) — Sputnikmusic Best Albums 1991** : #188, 3.8 Sputnik.

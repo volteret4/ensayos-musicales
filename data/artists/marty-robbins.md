@@ -25,4 +25,4 @@
 
 ## lists
 **"Gunfighter Ballads and Trail Songs" (1959) — 1001 Albums You Must Hear Before You Die** : #22, 85 AOTY.
-**"Gunfighter Ballads and Trail Songs" (1959) — AOTY Must Hear 1950s** : #5, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1950s/
+**"Gunfighter Ballads and Trail Songs" (1959) — AOTY Must Hear 1950s** : #5, 85 AOTY.

@@ -7,7 +7,9 @@
 - Trip Hop
 
 ## albums
+**Maxine Quay (1995)** : This album, by Massive Attack alumnus Adrian "Tricky" Thaws, generated multiple top 40 hits in the UK. However, his follow-up album underperformed in 1997. "Fellow Massive Attack alumnus Adrian Tricky Thaws released the album Maxine Quay, which generated multiple top 40 hits in the UK." ← Hit Parade Music History and Music Trivia > Madonna - The Veronica Electronica Edition (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
 **Maxinquaye (1995)** : Tricky's brilliant solo debut album, which was the culmination of him channeling deep existential crisis, hallucinations, anguish, and terror into his music, largely fueled by cannabis use and paranoia. "El resultado fue Maxine Cuale, su genial álbum de debut en solitario." ← El género más OSCURO de los 90 (...que acabó en anuncios de coches) | https://www.youtube.com/watch?v=9gAEaRBEw9c
+**Maxinquaye (1995)** : Album by Massive Attack alumnus Tricky, released in 1995, which generated multiple Top 40 hits in the UK. "Fellow Massive Attack alumnus Adrian Tricky Thaws released the album Maxine Quay, which generated multiple Top 40 hits in the UK." ← Hit Parade Music History and Music Trivia > Hit Parade - The Veronica Electronica Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 **ununiform (2017)** : This new album from Tricky was released on September 22nd. Tricky is noted as one of the few artists from the trip hop genre who continues to be active. "el turno de los pocos artistas del trip hop que va sobreviviendo que es Tricky, a New uniform." ← Music Radar Clan > Lanzamientos de Septiembre 2017 | https://www.youtube.com/watch?v=EXtTomCLjsg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← tricky ← tricky
 **ununiform (2017)** : This new album from Tricky was released on September 22nd. Tricky is noted as one of the few artists from the trip hop genre who continues to be active. "el turno de los pocos artistas del trip hop que va sobreviviendo que es Tricky, a New uniform." ← Music Radar Clan > Lanzamientos de Septiembre 2017 | https://www.youtube.com/watch?v=EXtTomCLjsg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← tricky
 
@@ -29,12 +31,14 @@
 **Separation from Massive Attack** : Tricky, an original member of Massive Attack, had separated from the band prior to the recording of their third album, `Mezzanine`. "Por el camino se había separado Tricky que originalmente formaba parte de Masi Batak." ← Music Radar Clan > MASSIVE ATTACK. 20 años de MEZZANINE | https://www.youtube.com/watch?v=wG6NEzM5CEQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← tricky
 **Transition to Independent Career** : After contributing to Massive Attack's *Blue Lines* and parts of *Protection*, Tricky eventually left the group to develop his own independent musical career. "acabaría desarrollando su carrera independiente." ← Music Radar Clan > Massive Attack - Blue Lines. Un antes y un después en la música. | https://www.youtube.com/watch?v=Ik7PQ2X1o3M&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← tricky
 **Trip Hop Artist** : Tricky is mentioned as an artist associated with Trip Hop, a 90s electronic music genre known for fusing diverse influences like black music, funk, jazz, and classical music, creating a baroque and intricate sound. ← Music Radar Clan > Daft Punk： Como el Homework revolucionó la electrónica | https://www.youtube.com/watch?v=myhlWJ6DQpw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← tricky
+**Underperforming Follow-Up Albums (Late 90s)** : Tricky's follow-up albums in the late 1990s underperformed, failing to build on the success of his earlier work as Electronica proved more hype than hit. "Follow-up albums by tricky and Moby had underperformed." ← Hit Parade Music History and Music Trivia > Hit Parade - The Veronica Electronica Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Massive Attack Alumnus** : Adrian "Tricky" Thaws was an alumnus of Massive Attack. His album *Maxine Quay* was a successful trip hop release in the UK, though his subsequent work in 1997 did not perform as well. "Fellow Massive Attack alumnus Adrian Tricky Thaws released the album Maxine Quay, which generated multiple top 40 hits in the UK." ← Hit Parade Music History and Music Trivia > Madonna - The Veronica Electronica Edition (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Brit Award for British Breakthrough Act (1996)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q16985318
 
 ## lists
 **"Maxinquaye" (1995) — 1001 Albums You Must Hear Before You Die** : #788, 91 AOTY.
-**"Maxinquaye" (1995) — AOTY Must Hear 1990s** : #250, 91 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Pre-Millenium Tension" (1996) — Scaruffi 1990s** : #1277, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Maxinquaye" (1995) — Pitchfork: The 150 Best Albums of the 1990s** : #64, 91 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
+**"Maxinquaye" (1995) — AOTY Must Hear 1990s** : #250, 91 AOTY.
+**"Pre-Millenium Tension" (1996) — Scaruffi 1990s** : #1277, 7.0/10 Scaruffi.
+**"Maxinquaye" (1995) — Pitchfork: The 150 Best Albums of the 1990s** : #64, 91 AOTY.

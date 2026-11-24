@@ -19,6 +19,7 @@
 **Simple Minds and "Don't You (Forget About Me)"** : When composer Keith Forsey was struggling to find an artist for "Don't You (Forget About Me)" for *The Breakfast Club* soundtrack, he turned to Virgin Records for suggestions. Virgin suggested Simple Minds, despite the band's initial reluctance to record an outsider's song, ultimately leading to their biggest hit. "So in desperation, Keith Forsy turned to Virgin Records. Have you got anyone you think could do this on justice? Virgin had a listen, gave it a thing and said, well, how about simple minds?" ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← virgin-records
 **Support for Online Music (1996)** : Virgin Records supported David Bowie's decision to make his song "Telling Lies" available for download in 1996, seeing him as the perfect test bed for this new digital distribution method. "In 1996, he made a song available for download with the support of his label Virgin Records, who also saw where things were going." ← https://www.youtube.com/watch?v=Yq2A_o9-ulM ← virgin-records
 **Third Label for Sex Pistols (1977)** : In May 1977, the Sex Pistols signed with Virgin Records, becoming their third label. "In May of 1977, the pistols signed with their third label, Virgin Records." ← https://www.youtube.com/watch?v=wYuNolSDLFM ← virgin-records ← virgin-records
+**Highest-Paid Recording Artist Contract (1991) - Janet Jackson Deal** : In mid-1991, Virgin Records signed Janet Jackson to a contract reportedly valued at up to $50 million. This deal made her the highest paid recording artist at the time, signifying a major industry coup and recognizing her blockbuster success. "Janet Jackson had signed to Virgin Records in a contract reportedly valued at up to $50 million, making her the highest paid recording artist at the time." ← Hit Parade Music History and Music Trivia > State of the World Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Daft Punk
@@ -33,3 +34,4 @@
 - The Smashing Pumpkins
 - The Stooges
 - Spice Girls
+- Janet Jackson

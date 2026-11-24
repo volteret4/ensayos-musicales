@@ -6,6 +6,7 @@
 **Linkin Park's Participation** : Linkin Park participated in the Live 8 event as part of their broader charity work, which also included supporting victims of the Asian tsunami and Hurricane Katrina. "participating in the Live 8 event." ← https://www.youtube.com/watch?v=YcdidjWaIqE ← live-8
 **Notable Performers** : The event featured an extensive lineup of artists and celebrities such as U2, Green Day, Roxy Music, James Brown, Coldplay, Madonna, R.E.M., The Killers, Sting, The Cure, Linkin Park, Sarah McLachlan, Will Smith, Duran Duran, and a significant reunion of Pink Floyd. Public figures like Nelson Mandela, Bill Gates, Brad Pitt, David Beckham, and Ricky Gervais also participated. "Dozens and dozens of artists and celebrities appeared." ← https://www.youtube.com/watch?v=YhdsufCUC2w ← live-8 ← live-8
 **Worldwide Locations** : The Live 8 concert series took place simultaneously across 11 cities around the world, including London, Cornwall, Philadelphia, Berlin, Paris, Rome, Edinburgh, Johannesburg, Moscow, and Barrie, Ontario. "This time, Live 8 took place in 11 cities around the world, London, Cornwall, Philadelphia, Berlin, Paris, Rome, Edinburgh, Johannesburg, Moscow, and Beryonterio." ← https://www.youtube.com/watch?v=YhdsufCUC2w ← live-8 ← live-8
+**We Are the World Closing Performance (2005)** : "We Are the World" closed Live 8 32 years ago, with cameras at JFK Stadium in Philadelphia showing thousands of concertgoers singing along. This performance highlighted the song's enduring ability to serve as a "rousing sing-along" for crowds. "When the song closed live 832 years ago, the cameras in Philadelphia showed thousands of concert goers at JFK Stadium singing along." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Duran Duran
@@ -18,4 +19,3 @@
 - Sarah McLachlan
 - Sting
 - The Cure
-

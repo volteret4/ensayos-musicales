@@ -2,6 +2,12 @@
 
 ## genres
 - Country
+- Country Pop
+- Folk pop
+
+## albums
+**Ingenue (1992)** : K.D. Lang's top-selling CD, "Ingenue," went double platinum. Despite this commercial success and Lang having publicly come out in 1992, the same year the album was issued, it peaked at number 18 on the charts, failing to reach number one. "K.D Lang, the country pop shantouz, who came out publicly in 1992, the same year she issued her top-selling CD, Anjaneu, which went double platinum but peaked at number 18." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Ingenue (1992)** : This album peaked at number 13 on the Billboard 200 chart. The release of this album followed k.d. lang winning the Most Promising Female Vocalist Juno award by about six years. "About six years before she recorded her album Andru, which peaked at number 13 on the Billboard 292." ← Hit Parade Music History and Music Trivia > The Bridge - Farewell, Lilith Fan | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## songs
 **Crying (1987)** : K.D. Lang collaborated with Roy Orbison on a new version of his hit "Crying." This duet later won a Grammy award. Lang was one of the hottest new singers in country music at the time. "He collaborated with K.D. Lang, who was then one of the hottest new singers in country music on the new version of his hit Crane. That later won a Grammy." ← Episode 83： ＂Only the Lonely＂ by Roy Orbison | https://www.youtube.com/watch?v=uDvkjXa1ALk
@@ -10,6 +16,8 @@
 ## curiosities
 **Live Performance with Roy Orbison** : K.D. Lang joined Roy Orbison as a backing singer and musician during his live TV special "A Black and White Night," demonstrating her admiration for him. "He got inducted into the Rock and Roll Hall of Fame and recorded a live TV special, a black and white night, where he was joined by Elvis's 70s backing band, Bruce Springsteen, Elvis Costello, K.D. Lang, Bunny Raite, Jackson Brown and Tom Wait, among others, while just acting as backing singers and musicians for a man they admired." ← Episode 83： ＂Only the Lonely＂ by Roy Orbison | https://www.youtube.com/watch?v=uDvkjXa1ALk
 **Industry Image and Sexuality (Late 1990s)** : Katie Lang possessed a beautiful voice in Nashville in the late 1990s, but her identity as gay and her quirky image were perceived as not fitting the established industry image, which made her more challenging to market than artists like Garth Brooks or Blake Shelton. "There may not have been a more beautiful voice in Nashville than Katie Langs in the late 90s but she's gay and quirky and didn't fit the image." ← For the Record - The 70s > Ep. 23 - Women of Country Music in the 70s | https://seventies.libsyn.com/023-country-women-72820-2-45-pm
+**Public Coming Out in 1992** : K.D. Lang, a country pop chanteuse, came out publicly in 1992. Despite this and the release of her double platinum album "Ingenue" in the same year, she did not score a number one LP, with "Ingenue" peaking at number 18. "And K.D Lang, the country pop shantouz, who came out publicly in 1992, the same year she issued her top-selling CD, Anjaneu, which went double platinum but peaked at number 18." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Juno Award - Most Promising Female Vocalist (1985)** : k.d. lang won the Juno Award for Most Promising Female Vocalist in 1985. This award was a significant early accolade in her career, preceding her album "Ingénue" by several years. "Katie Lang took home the most promising female vocalist Juno back in 1985." ← Hit Parade Music History and Music Trivia > The Bridge - Farewell, Lilith Fan | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Juno Award for Breakthrough Artist of the Year** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q6314050
@@ -64,5 +72,5 @@
 ## lists
 **"Shadowland" (1988) — 1001 Albums You Must Hear Before You Die** : #627.
 **"Ingénue" (1992) — 1001 Albums You Must Hear Before You Die** : #716.
-**"Ingénue" (1992) — Grammy Award: Album of the Year nominees** : #1993. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Ingénue" (1992) — Sputnikmusic Best Albums 1992** : #192. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"Ingénue" (1992) — Grammy Award: Album of the Year nominees** : #1993.
+**"Ingénue" (1992) — Sputnikmusic Best Albums 1992** : #192.

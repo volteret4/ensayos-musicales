@@ -31,18 +31,18 @@
 ## lists
 **"Slanted and Enchanted" (1992) — 1001 Albums You Must Hear Before You Die** : #707, 93 AOTY.
 **"Crooked Rain, Crooked Rain" (1994) — 1001 Albums You Must Hear Before You Die** : #759, 86 AOTY.
-**"Brighten the Corners" (1997) — AOTY Must Hear 1990s** : #142, 74 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Wowee Zowee" (1995) — AOTY Must Hear 1990s** : #239, 68 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Crooked Rain, Crooked Rain" (1994) — AOTY Must Hear 1990s** : #311, 86 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Slanted and Enchanted" (1992) — AOTY Must Hear 1990s** : #375, 93 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Slanted and Enchanted" (1992) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #199, 93 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Wowee Zowee" (1995) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #265, 68 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Crooked Rain, Crooked Rain" (1994) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #434, 86 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Slanted and Enchanted" (1992) — Scaruffi 1990s** : #1022, 93 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Crooked Rain, Crooked Rain" (1994) — Scaruffi 1990s** : #1023, 86 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Demolition Plot J-7" — John Peel's Record Box** : #77. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
-**"Crooked Rain, Crooked Rain" (1994) — Pitchfork: The 150 Best Albums of the 1990s** : #29, 86 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Slanted and Enchanted" (1992) — Pitchfork: The 150 Best Albums of the 1990s** : #70, 93 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Slanted and Enchanted" (1992) — Sputnikmusic Best Albums 1992** : #42, 93 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"Watery, Domestic" (1992) — Sputnikmusic Best Albums 1992** : #167, 3.9 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"Crooked Rain, Crooked Rain" (1994) — Sputnikmusic Best Albums 1994** : #19, 86 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
+**"Brighten the Corners" (1997) — AOTY Must Hear 1990s** : #142, 74 AOTY.
+**"Wowee Zowee" (1995) — AOTY Must Hear 1990s** : #239, 68 AOTY.
+**"Crooked Rain, Crooked Rain" (1994) — AOTY Must Hear 1990s** : #311, 86 AOTY.
+**"Slanted and Enchanted" (1992) — AOTY Must Hear 1990s** : #375, 93 AOTY.
+**"Slanted and Enchanted" (1992) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #199, 93 AOTY.
+**"Wowee Zowee" (1995) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #265, 68 AOTY.
+**"Crooked Rain, Crooked Rain" (1994) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #434, 86 AOTY.
+**"Slanted and Enchanted" (1992) — Scaruffi 1990s** : #1022, 93 AOTY.
+**"Crooked Rain, Crooked Rain" (1994) — Scaruffi 1990s** : #1023, 86 AOTY.
+**"Demolition Plot J-7" — John Peel's Record Box** : #77.
+**"Crooked Rain, Crooked Rain" (1994) — Pitchfork: The 150 Best Albums of the 1990s** : #29, 86 AOTY.
+**"Slanted and Enchanted" (1992) — Pitchfork: The 150 Best Albums of the 1990s** : #70, 93 AOTY.
+**"Slanted and Enchanted" (1992) — Sputnikmusic Best Albums 1992** : #42, 93 AOTY.
+**"Watery, Domestic" (1992) — Sputnikmusic Best Albums 1992** : #167, 3.9 Sputnik.
+**"Crooked Rain, Crooked Rain" (1994) — Sputnikmusic Best Albums 1994** : #19, 86 AOTY.

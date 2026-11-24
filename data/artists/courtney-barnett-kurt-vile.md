@@ -15,7 +15,7 @@
 **Musical Chemistry** : The collaboration between Courtney Barnett and Kurt Vile on their 2017 album was marked by exceptional chemistry, where their styles "penetrated" each other seamlessly. This made them seem like a couple, even though they were not. "ellos son se encajan muy bien hasta llega un punto en que parece que sean novios lo que pasa es que no es posible pero pero es que en serio era un disco fantástico." ← Music Radar Clan > Discos que los subsciptores echasteis en falta en la lista de lo mejor del año y tenéis razón | https://www.youtube.com/watch?v=APPodZ7sl1w&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← courtney-barnett-kurt-vile
 
 ## lists
-**"Tell Me How You Really Feel" (2018) — AOTY Must Hear 2010s** : #181, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Sometimes I Sit and Think and Sometimes I Just Sit" (2015) — AOTY Must Hear 2010s** : #519, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Sometimes I Sit and Think and Sometimes I Just Sit" (2015) — Scaruffi 2010s** : #145, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Sometimes I Sit and Think and Sometimes I Just Sit" (2015) — Pitchfork: The 200 Best Albums of the 2010s** : #67, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
+**"Tell Me How You Really Feel" (2018) — AOTY Must Hear 2010s** : #181, 80 AOTY.
+**"Sometimes I Sit and Think and Sometimes I Just Sit" (2015) — AOTY Must Hear 2010s** : #519, 7.0/10 Scaruffi.
+**"Sometimes I Sit and Think and Sometimes I Just Sit" (2015) — Scaruffi 2010s** : #145, 7.0/10 Scaruffi.
+**"Sometimes I Sit and Think and Sometimes I Just Sit" (2015) — Pitchfork: The 200 Best Albums of the 2010s** : #67, 7.0/10 Scaruffi.

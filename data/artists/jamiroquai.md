@@ -42,10 +42,10 @@
 
 ## lists
 **"Emergency on Planet Earth" (1993) — 1001 Albums You Must Hear Before You Die** : #742, 73 AOTY.
-**"Synkronized" (1999) — AOTY Must Hear 1990s** : #31, 66 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Travelling Without Moving" (1996) — AOTY Must Hear 1990s** : #166, 65 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"The Return of the Space Cowboy" (1994) — AOTY Must Hear 1990s** : #263, 74 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Emergency on Planet Earth" (1993) — AOTY Must Hear 1990s** : #340, 73 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Emergency on Planet Earth" (1993) — Sputnikmusic Best Albums 1993** : #85, 73 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
-**"The Return of the Space Cowboy" (1994) — Sputnikmusic Best Albums 1994** : #93, 74 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
-**"Travelling Without Moving" (1996) — Sputnikmusic Best Albums 1996** : #177, 65 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
+**"Synkronized" (1999) — AOTY Must Hear 1990s** : #31, 66 AOTY.
+**"Travelling Without Moving" (1996) — AOTY Must Hear 1990s** : #166, 65 AOTY.
+**"The Return of the Space Cowboy" (1994) — AOTY Must Hear 1990s** : #263, 74 AOTY.
+**"Emergency on Planet Earth" (1993) — AOTY Must Hear 1990s** : #340, 73 AOTY.
+**"Emergency on Planet Earth" (1993) — Sputnikmusic Best Albums 1993** : #85, 73 AOTY.
+**"The Return of the Space Cowboy" (1994) — Sputnikmusic Best Albums 1994** : #93, 74 AOTY.
+**"Travelling Without Moving" (1996) — Sputnikmusic Best Albums 1996** : #177, 65 AOTY.

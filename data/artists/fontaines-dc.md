@@ -13,8 +13,8 @@
 **Rising Band** : After the significant success of their first album, the band's new release is expected to continue their momentum, potentially making them quite well-known. "había llegado hace poco su primer álbum de la Fontaineis y había tenido un montón de éxito entonces este a ver si continuó a la estela si siguen la misma estela puede que sea una banda que sea bastante bastante conocida." ← Music Radar Clan > Lanzamientos de Octubre 2017 | https://www.youtube.com/watch?v=q1_bxi16osQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## lists
-**"Dogrel" (2019) — AOTY Must Hear 2010s** : #83, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Romance" (2024) — AOTY Must Hear 2020s** : #184, 89 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Skinty Fia" (2022) — AOTY Must Hear 2020s** : #447, 87 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"A Hero's Death" (2020) — AOTY Must Hear 2020s** : #627, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Skinty Fia" (2022) — Sputnikmusic Best Albums 2022** : #138, 87 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2022/
+**"Dogrel" (2019) — AOTY Must Hear 2010s** : #83, 88 AOTY.
+**"Romance" (2024) — AOTY Must Hear 2020s** : #184, 89 AOTY.
+**"Skinty Fia" (2022) — AOTY Must Hear 2020s** : #447, 87 AOTY.
+**"A Hero's Death" (2020) — AOTY Must Hear 2020s** : #627, 81 AOTY.
+**"Skinty Fia" (2022) — Sputnikmusic Best Albums 2022** : #138, 87 AOTY.

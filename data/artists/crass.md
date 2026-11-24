@@ -18,5 +18,5 @@
 **KGB and Radical Group Courtship** : Following their Falklands War hoax, Crass found themselves being approached by various organizations, including the actual KGB, representatives from Germany's Baader-Meinhof group, and even the IRA. These groups, seeing their potential for destabilization, sought to offer assistance or gather further information. Crass felt terrified as their prank turned into a serious national security concern. "Crasse started getting courted by all sorts of shitty organizations, including the real KGB." ← https://www.youtube.com/watch?v=YeNWDtN_sHE ← crass
 
 ## lists
-**"Stations Of The Crass" (1979) — Scaruffi 1970s** : #232, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"10 Notes of a Summer's Day" (1986) — Scaruffi 1980s** : #852, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Stations Of The Crass" (1979) — Scaruffi 1970s** : #232, 7.0/10 Scaruffi.
+**"10 Notes of a Summer's Day" (1986) — Scaruffi 1980s** : #852, 7.0/10 Scaruffi.

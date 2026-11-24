@@ -5,4 +5,4 @@
 **Post-School of Fish Collaboration** : An unnamed member of School of Fish went on to play with Ben Harper after School of Fish broke up. "One member went on to play with The Wallflowers and Ben Harper." ← https://www.youtube.com/watch?v=SOAL0GODN3M ← ben-harper ← ben-harper
 
 ## lists
-**"Welcome To The Cruel World" (1994) — Scaruffi 1990s** : #456, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Welcome To The Cruel World" (1994) — Scaruffi 1990s** : #456, 7.0/10 Scaruffi.

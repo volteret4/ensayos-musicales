@@ -7,3 +7,4 @@
 - The Band
 - William Bell
 - Aretha Franklin
+- Percy Sledge

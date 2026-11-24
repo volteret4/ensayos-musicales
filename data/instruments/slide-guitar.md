@@ -10,3 +10,4 @@
 - Jeremy Spencer
 - Sylvester Weaver
 - Olivia Newton-John
+- Kid Rock

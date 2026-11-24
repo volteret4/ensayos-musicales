@@ -2,12 +2,13 @@
 
 ## member of
 - Juliana Hatfield 3
+- Juliana Hatfield Three
 - The Blake Babies
 
 ## curiosities
 **Prominent 90s Alt Rock Star** : Julianna Hatfield is referred to as a "90s alt rock star" and noted as a member of The Blake Babies. Her presence in the band is mentioned in the context of artists whose music might appeal to fans of Tweetpop. "There are bands like the Blake Babies, which featured 90s alt rock star Julianne Hatfield." ← https://www.youtube.com/watch?v=jhgZrwtYE2g ← julianna-hatfield
 
 ## lists
-**"Hey Babe" (1992) — Scaruffi 1990s** : #74, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Become What You Are" (1993) — Scaruffi 1990s** : #819, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Only Everything" (1995) — Scaruffi 1990s** : #820, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Hey Babe" (1992) — Scaruffi 1990s** : #74, 8.0/10 Scaruffi.
+**"Become What You Are" (1993) — Scaruffi 1990s** : #819, 7.0/10 Scaruffi.
+**"Only Everything" (1995) — Scaruffi 1990s** : #820, 7.0/10 Scaruffi.

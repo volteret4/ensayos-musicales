@@ -4,6 +4,7 @@
 - Nate Albert
 
 ## genres
+- Agro Rock
 - Alt Rock
 - Hard Rock
 - Punk
@@ -21,9 +22,13 @@
 
 ## albums
 **Don't Know How To Party (1993)** : This third album was a breakthrough for The Mighty Mighty Bosstones, featuring a Ska track with prominent horns that became a major alt-rock radio hit. The band was formed in 1983, originally inspired by the Two Tone movement, but also incorporated hard rock influences from bands like ACDC, Motorhead, and Social Distortion. "The Mighty Mighty Boss Tones blew up in 1983 with their third album Don't Know How To Party. And this SCAT track, with lots of horns, became a giant alt-rock radio hit." ← https://www.youtube.com/watch?v=WX2GlpMNg_8 ← the-mighty-mighty-bosstones ← the-mighty-mighty-bosstones
+**Don't Know How To Party (1993)** : This 1993 LP spent one week on the album chart at number 187, as the band was just "eeking out" a top 20 modern rock hit. "Their 93 LP, don't know how to party, spent one week on the album chart at number 187." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Let's Face It (1997)** : Two years after the pop punk breakthrough, this album went platinum, following the band's success with "The Impression That I Get" topping the modern rock chart. "And their 1997 album, Let's Face It, went platinum." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## songs
+**The Impression That I Get (1997)** : This song topped the modern rock chart for The Mighty Mighty Bosstones, contributing to their album *Let's Face It* eventually going platinum. "the Boston's came back and topped the modern rock chart with the impression that I get." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Live at Vans Warped Tour (1998)** : The Muddy-Muddy-Boss Stones performed at a stop on the 1998 Vans Warped Tour. "These are the Muddy-Muddy-Boss Stones." ← https://www.youtube.com/watch?v=7JP2tjJibTQ ← muddy-muddy-boss-stones
+**Someday I Suppose (1993)** : This song, released in 1993, became a top 20 modern rock hit for the Boston ska punk band, combining agro rock with brass and skanky rhythms. "in 1993, the mighty mighty Boston's, a Boston Skop punk band that combined Agro Rock with brass and skanky rhythms, eaked out a top 20 modern rock hit with Someday I Suppose." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Mighty Mighty Bosstones – Formed 1983 Boston; Invented Skacore by Mixing Two-Tone with Hardcore; Major Label by 1993** : The Mighty Mighty Bosstones came together in 1983 when a group of guys became obsessed with the Two-Tone sound despite some members playing in hardcore bands influenced by Motorhead and AC/DC. This combination of Two-Tone ska with American hardcore became known as skacore — annoying to ska purists and initially baffling to hardcore kids, but eventually it clicked. By 1993 they had a major label record deal and a signature look involving plaid suits. "The Boss Tones took two-tone style Skah and made it with American hardcore to create something that was eventually called Skahcore." ← https://www.youtube.com/watch?v=Yqo-YDJR0nM ← mighty-mighty-bosstones

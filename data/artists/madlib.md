@@ -14,4 +14,4 @@
 **Talented Producer and Multi-instrumentalist** : Madlib is recognized as an exceptionally talented musical producer, musician, and multi-instrumentalist, widely respected for his skill in creating rhythmic bases. "Madlib es un productor musical, es un músico, un multistro mentalista que ha colaborado con muchísima gente y que es especialmente reconocido por lo bueno que es haciendo basarrismicas." ← Music Radar Clan > MF DOOM. Repaso de un genio | https://www.youtube.com/watch?v=vTqwHtjW410&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← madlib
 
 ## lists
-**"Shades Of Blue: Madlib Invades Blue Note" (2003) — AOTY Must Hear 2000s** : #349, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
+**"Shades Of Blue: Madlib Invades Blue Note" (2003) — AOTY Must Hear 2000s** : #349, 82 AOTY.

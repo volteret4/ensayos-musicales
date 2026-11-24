@@ -7,6 +7,7 @@
 ## genres
 - Alternative Rock
 - Modern Rock
+- New Wave
 
 ## albums
 **The Hurting (1983)** : Released in 1983, this debut album was initially perceived as another technopop project of its era. However, upon deeper listening, it was recognized as something more profound and different. "It was called Behurting and at first it was treated as basically another technopop project of that era." ← https://www.youtube.com/watch?v=yuA9Xor8vfw ← tears-for-fears
@@ -25,6 +26,10 @@
 **Influence of Arthur Janov's Primal Scream Therapy** : Roland Orzabal was deeply interested in psychology and psychiatry at the time, particularly fascinated by the teachings of Arthur Janov, the developer of primal scream therapy. This therapeutic approach encourages patients to delve deep into their psyches to uncover the root of their issues, and was also embraced by figures like John Lennon and Yoko Ono. "Roland was deep into psychology and psychiatry at the time. He was particularly fascinated by the teachings of Arthur Janov, the guy behind primal screen therapy." ← https://www.youtube.com/watch?v=yuA9Xor8vfw ← tears-for-fears
 **Saluted on Teal Album** : Tears for Fears was among the artists whose songs were saluted (covered) on Weezer's Teal Album. "So Tears for Fierce." ← https://www.youtube.com/watch?v=LYRPxtP61JM ← tears-for-fears
 **Targeting the American Market** : After their earlier struggles to chart high in the US, Tears for Fears deliberately composed "Everybody Wants to Rule the World" to appeal to the American market. "Two years later, Roland Orzabal and his co-writers aimed squarely for the American market with a song that singer Kurt Smith called Drive Music." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
+**80s Hitmaker** : Tears for Fears were among a slew of 80s hitmakers that made the second British invasion a watershed on the US charts, scoring big hits on the Hot 100. "The human league, Durand Durand, Eurythmics, Culture Club, WAM, Tears for Fears. All scored big hits on the Hot 100." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Pop Chart Dominance (1985)** : In 1985, Tears for Fears was among the artists dominating the pop charts, making it difficult for other genres like Bon Jovi's metal to gain radio interest. "At a time when the pop charts were a wash in Madonna, Wann, and Tears for Fiers, radio programmers weren't all that interested in the Jovi." ← Hit Parade Music History and Music Trivia > Hit Parade - The You Give Rock a Bad Name Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Contemporary Hitmakers (1985)** : In the summer of 1985, Tears for Fears had current hits alongside Whitney Houston's "You Give Good Love" and artists like Duran Duran and Sting, indicating their presence in the mainstream pop landscape of the time. "Eventually, their effort paid off as the single reached number three on the Hot 100 in the summer of 1985, alongside current hits by Tears for fears, Durand Iran and Sting." ← Hit Parade Music History and Music Trivia > I'm Your Whitney Tonight Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**1989 Superstar Comeback** : Tears for Fears released their first album in four and a half years in September 1989, with their lead single entering the Hot 100 during a week packed with superstar debuts. Their return represented another significant comeback from the world of New Wave, competing for chart dominance. "and even tears for fears with their first album in four and a half years." ← Hit Parade Music History and Music Trivia > State of the World Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Everybody Wants to Rule the World" — Billboard Year-End Hot 100** : #7, 1985. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
@@ -37,7 +42,7 @@
 
 ## lists
 **"Songs From the Big Chair" (1985) — 1001 Albums You Must Hear Before You Die** : #548, 80 AOTY.
-**"Songs From the Big Chair" (1985) — AOTY Must Hear 1980s** : #97, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"The Hurting" (1983) — AOTY Must Hear 1980s** : #136, 75 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"The Tipping Point" (2022) — AOTY Must Hear 2020s** : #464, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Songs From the Big Chair" (1985) — Pitchfork: The 200 Best Albums of the 1980s** : #87, 80 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"Songs From the Big Chair" (1985) — AOTY Must Hear 1980s** : #97, 80 AOTY.
+**"The Hurting" (1983) — AOTY Must Hear 1980s** : #136, 75 AOTY.
+**"The Tipping Point" (2022) — AOTY Must Hear 2020s** : #464, 82 AOTY.
+**"Songs From the Big Chair" (1985) — Pitchfork: The 200 Best Albums of the 1980s** : #87, 80 AOTY.

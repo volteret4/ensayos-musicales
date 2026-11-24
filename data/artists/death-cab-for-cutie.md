@@ -22,6 +22,6 @@
 **Shortlist Music Prize (2005) — Plans** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q7502207
 
 ## lists
-**"Plans" (2005) — AOTY Must Hear 2000s** : #239, 64 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Transatlanticism" (2003) — AOTY Must Hear 2000s** : #334, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"We Have the Facts and We're Voting Yes" (2000) — AOTY Must Hear 2000s** : #512, 77 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
+**"Plans" (2005) — AOTY Must Hear 2000s** : #239, 64 AOTY.
+**"Transatlanticism" (2003) — AOTY Must Hear 2000s** : #334, 80 AOTY.
+**"We Have the Facts and We're Voting Yes" (2000) — AOTY Must Hear 2000s** : #512, 77 AOTY.

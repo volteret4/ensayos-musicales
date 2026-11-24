@@ -5,3 +5,5 @@
 **Major Label Adoption of "New Wave"** : Polygram Records was one of the major labels that promptly adopted Seymour Stein's "New Wave" marketing term. This quick adoption, along with Warner Brothers Records and other major labels by 1980, was crucial in solidifying "New Wave" as a pervasive umbrella term for the varied new music coming out in the wake of punk. "Seymour's marketing term was then picked up by Warner Brothers Records, and then by Polygram Records, and then other major labels." ← https://www.youtube.com/watch?v=Z8BTWo66SDI ← polygram-records ← polygram-records
 **Role in Nirvana Single Release (1991)** : Iver Hamilton, who had moved from a radio station to Polygram Records, was instrumental in bringing the CD single for Nirvana's "Smells Like Teen Spirit" to a radio station for its initial play on August 27, 1991. "Iver Hamilton, who was working, who used to work at the radio station, had moved on to polygram records, came into the studio and he had the CD single and he says, put this on." ← https://www.youtube.com/watch?v=bI6TTA-fn7c ← polygram-records
 
+## artists
+- Benny Mardones

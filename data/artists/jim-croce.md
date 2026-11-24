@@ -19,4 +19,4 @@
 **"I'll Have to Say I Love You in a Song" — Billboard Year-End Hot 100** : #85, 1974. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"You Don't Mess Around with Jim" (1972) — AOTY Must Hear 1970s** : #177, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
+**"You Don't Mess Around with Jim" (1972) — AOTY Must Hear 1970s** : #177, 80 AOTY.

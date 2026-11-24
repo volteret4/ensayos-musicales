@@ -24,4 +24,4 @@
 - The Musical Brownies
 - The Perkins Brothers Band
 - Wanda Jackson
-
+- Garth Brooks

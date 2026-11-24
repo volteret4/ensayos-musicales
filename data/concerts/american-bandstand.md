@@ -23,6 +23,8 @@
 **Transition to Color and Set Overhaul (1967-1969)** : The show began broadcasting in color in 1967. In the fall of 1969, American Bandstand received a complete set overhaul, and its logo was redesigned, with this new logo remaining consistent throughout the rest of the show's history. "In 1967, bandstands started being broadcast in color. In the fall of 1969, the whole set got an overhaul." ← For the Record - The 70s > Ep. 47 - Dick Clark's Entertainment Empire | https://www.ftr70.com/
 **Updated Theme Song ("Bandstand Boogie" by Mike Kerb)** : An updated theme song, titled "Bandstand Boogie," was performed by Mike Kerb. This version was characterized by its surf music-like sound, funkiness, and was indicative of the late 1960s and early 1970s musical styles. "updated theme song by Mike Kerb and of course the name of the theme song is Bandstand Boogie." ← For the Record - The 70s > Ep. 47 - Dick Clark's Entertainment Empire | https://www.ftr70.com/
 **Wild Cherry Appearance** : After the success of "Play That Funky Music," Wild Cherry appeared on various television shows, including American Bandstand. "Then the band wild cherry, they were on all the shows, American band stand, midnight special, the talk shows." ← For the Record - The 70s > Ep. 60 - One-Hit Wonders of the 70s | https://www.ftr70.com
+**Platform for Early Music Performances (1960s)** : In the 1960s, popular bands like The Monkees frequently appeared on live television shows such as American Bandstand in the US. These appearances served as a vital platform for artists to perform and connect with audiences. However, as bands' popularity and touring demands increased, they often found it necessary to record pre-shot, lip-synced performances on sound stages to accommodate their schedules and satisfy the public's desire to see their favorite stars. "bands would often appear on live TV shows like American bandstand in the US, or top of the pops in the UK." ← Hit Parade Music History and Music Trivia > Introducing History Daily - The Launch of MTV | https://my.slate.com/podcasts/feeds/hit-parade/
+**Madonna's Early TV Performance** : In 1984, Madonna performed her single "Holiday" on Dick Clark's *American Bandstand* when it was already a top 20 hit on the Hot 100. "By 1984, when she performed her single holiday on Dick Clark's American Bandstand, it was already a top 20 hit on the Hot 100." ← Hit Parade Music History and Music Trivia > Madonna - The Veronica Electronica Edition (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Buddy Holly
@@ -30,4 +32,4 @@
 - Dick Clark
 - The Crickets
 - The Marvelettes
-
+- Madonna

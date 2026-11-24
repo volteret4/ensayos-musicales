@@ -17,13 +17,13 @@
 
 ## lists
 **"The Black Saint and the Sinner Lady" (1963) — 1001 Albums You Must Hear Before You Die** : #39, 96 AOTY.
-**"Mingus Ah Um" (1959) — AOTY Must Hear 1950s** : #4, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1950s/
-**"The Clown" (1957) — AOTY Must Hear 1950s** : #13, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1950s/
-**"Mingus Mingus Mingus Mingus Mingus" (1964) — AOTY Must Hear 1960s** : #83, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"The Black Saint and the Sinner Lady" (1963) — AOTY Must Hear 1960s** : #86, 96 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"Blues & Roots" (1960) — AOTY Must Hear 1960s** : #98, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"Let My Children Hear Music" (1972) — AOTY Must Hear 1970s** : #185, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Mingus Ah Um" (1959) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #380, 100 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"The Black Saint and the Sinner Lady" (1963) — Pitchfork: The 200 Best Albums of the 1960s** : #17, 96 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
-**"Mingus Mingus Mingus Mingus Mingus" (1964) — Pitchfork: The 200 Best Albums of the 1960s** : #108, 90 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
-**"Mingus Plays Piano" (1964) — Pitchfork: The 200 Best Albums of the 1960s** : #185. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Mingus Ah Um" (1959) — AOTY Must Hear 1950s** : #4, 100 AOTY.
+**"The Clown" (1957) — AOTY Must Hear 1950s** : #13, 80 AOTY.
+**"Mingus Mingus Mingus Mingus Mingus" (1964) — AOTY Must Hear 1960s** : #83, 90 AOTY.
+**"The Black Saint and the Sinner Lady" (1963) — AOTY Must Hear 1960s** : #86, 96 AOTY.
+**"Blues & Roots" (1960) — AOTY Must Hear 1960s** : #98, 90 AOTY.
+**"Let My Children Hear Music" (1972) — AOTY Must Hear 1970s** : #185, 100 AOTY.
+**"Mingus Ah Um" (1959) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #380, 100 AOTY.
+**"The Black Saint and the Sinner Lady" (1963) — Pitchfork: The 200 Best Albums of the 1960s** : #17, 96 AOTY.
+**"Mingus Mingus Mingus Mingus Mingus" (1964) — Pitchfork: The 200 Best Albums of the 1960s** : #108, 90 AOTY.
+**"Mingus Plays Piano" (1964) — Pitchfork: The 200 Best Albums of the 1960s** : #185.

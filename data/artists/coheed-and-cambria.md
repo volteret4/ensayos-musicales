@@ -4,6 +4,12 @@
 - Claudio Sanchez
 - Michael Todd
 
+## genres
+- Emo
+- Metal
+- Prog Rock
+- Progressive Rock
+
 ## concerts
 - Vans Warped Tour (multiple times)
 
@@ -11,6 +17,7 @@
 **Year of the Black Rainbow (2010)** : This album, released in 2010, was offered in a Deluxe version. This special edition included a 352-page novel, which was written by the band's singer, Claudio Sanchez, further expanding the conceptual universe. "The band's 2010 album, Year of the Black Rainbow, also came in a Deluxe version which included a 352 page novel written by singer Claudio Sanchez." ← https://www.youtube.com/watch?v=1KyNY3zv6uc ← coheed-and-cambria
 
 ## songs
+**A Favor House Atlantic (2004)** : "A Favor House Atlantic" was Coheed and Cambria's 2004 number 13 modern rock hit. The song, from a metal-leaning progressive rock band whose complex sound was shifting towards emo, notably showcased lead singer Claudio Sanchez's "impossibly high voice." "They're 2004 number 13 modern rock hit, a favorite house Atlantic, showcased lead singer Claudio Sanchez's impossibly high voice." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **We Are Juggernaut (2010)** : This single is from the album "Year of the Black Rainbow," and it was released during the time that Michael Todd was the bass player for Coheed and Cambria, prior to his legal troubles. "Co-heat and Cambria, with We Are Juggernaut, a single from their 2010 album, Year of the Black Rainbow, back when convicted felon, bass player Michael Todd, was still with the group." ← https://www.youtube.com/watch?v=6xygY-npCr4 ← coheed-and-cambria ← coheed-and-cambria
 **We Are Juggernaut (2010)** : This song is from the album "Year of the Black Rainbow" and features Michael Todd on bass. It was highlighted in the context of Todd's armed robbery and subsequent departure from the band. "And this is We Are the Joverna." ← https://www.youtube.com/watch?v=dVJuITJyNTU ← coheed-and-cambria
 
@@ -25,6 +32,6 @@
 **Walgreens Robbery Attempt** : In July 2011, while on tour with Soundgarden, Coheed and Cambria's bass player Michael Todd was arrested for attempting to rob a Walgreens drug store in Massachusetts. He entered the store and showed the pharmacist a note on his Blackberry stating, "I have a bomb, give me some oxycontin or else." When no OxyContin was available, he demanded 30-milligram Percocets plus Oxycodone. "He was arrested for trying to rob a Walgreens drug store in Massachusetts." ← https://www.youtube.com/watch?v=6xygY-npCr4 ← coheed-and-cambria ← coheed-and-cambria
 
 ## lists
-**"The Second Stage Turbine Blade" (2002) — Sputnikmusic Best Albums 2002** : #79, 4.06 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/
-**"From Fear Through the Eyes of Madness" (2005) — Sputnikmusic Best Albums 2005** : #92, 4.07 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2005/
-**"Vaxis III: The Father of Make Believe" (2025) — Sputnikmusic Best Albums 2025** : #93, 3.85 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2025/
+**"The Second Stage Turbine Blade" (2002) — Sputnikmusic Best Albums 2002** : #79, 4.06 Sputnik.
+**"From Fear Through the Eyes of Madness" (2005) — Sputnikmusic Best Albums 2005** : #92, 4.07 Sputnik.
+**"Vaxis III: The Father of Make Believe" (2025) — Sputnikmusic Best Albums 2025** : #93, 3.85 Sputnik.

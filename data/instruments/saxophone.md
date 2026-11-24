@@ -24,6 +24,9 @@
 **They Might Be Giants' Early Instrumentation** : In the early years of They Might Be Giants, John Linnell contributed to the backup music on the saxophone. "and saxophone." ← https://www.youtube.com/watch?v=I9_3EbwKPnU ← saxophone ← saxophone
 **Wayne Shorter's Expressive Use** : Wayne Shorter recounted playing his soprano sax "angrily" while watching Fox News as a way to process emotions and inspire his writing, demonstrating his unique and personal approach to music creation. "He told me about watching Fox News and playing soprano sax just angrily and like writing while he was watching Fox News and like I mean that was crazy." ← Hit Parade Music History and Music Trivia > Introducing Broken Record - Norah Jones Begins Again | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cbc
 **Clarence Clemons on Freeway of Love (1985)** : Clarence Clemons, saxophonist for Bruce Springsteen's E Street Band, was specifically hired by producer Narada Michael Walden to contribute a sax solo in his "inimitable style" on Aretha Franklin's hit "Freeway of Love." "But the biggest connection to Springsteen, that was the sax solo on Freeway of Love. Walden hired Bruce's E Street band saxophonist Clarence Clemens to blow in his inimitable style." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Kenny G's Solo on Voices that Care (1991)** : Kenny G contributed a prominent sax solo to the 1991 charity single "Voices that Care." This musical feature was a signature part of the song, produced by David Foster, which aimed to support troops during the Persian Gulf War. "a Kenny G. Saksolo." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Addition to Will To Power (1988)** : By 1988, a saxophonist was added to Will To Power, expanding the group into a trio. "Including a saxophonist." ← Hit Parade Music History and Music Trivia > Point of No Return Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Sultry Sound** : The saxophone contributed a "sultry" sound to songs like Gerry Rafferty's "Baker Street," adding to the smooth aesthetic prevalent in the late 70s and early 80s. "But yeah, even this 1978 number two hit by Scotsman Rafferty with that sultry sax, it's not Yacht Rock." ← Hit Parade Music History and Music Trivia > What a Fool Believes, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Big Al Sears
@@ -66,3 +69,12 @@
 - Branford Marsalis
 - Clarence Clemons
 - Danny McCaslin
+- Billy Joel
+- Kenny G
+- The E Street Band
+- David Sanborn
+- Dave Koz
+- Candy Dulfer
+- Eddie Harris
+- Grover Washington Jr.
+- Clarence Clemens

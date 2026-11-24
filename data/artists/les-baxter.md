@@ -5,6 +5,7 @@
 **Music Out of the Moon (1947)** : En co-creación con Harry Rebell, este álbum de 1947 fue el primer disco en presentar una estética y sonido espacial. Innovó al incorporar un Theremin para adaptar estándares de jazz, lo que lo convirtió en un éxito y catalizador para el desarrollo del género Space Age Pop en la década siguiente. "El primer disco en tener esa estética y sonido espacial fue en Music Out of the Moon, lanzado en 1947, obra de Harry Rebell y Les Baxter." ← Así sonaba el pop de la era atómica | https://www.youtube.com/watch?v=LqPX20XSa_s
 
 ## songs
+**The Poor People of Paris** : This instrumental was presented as a "Tweet arrangement" of an originally French song titled "The Ballad of Paure Jean." It stood as an orchestral easy listening hit that topped Billboard's pop charts in the mid-1950s, distinct from the rock and roll emerging at the time. "Or Les Baxter's The Poor People of Paris, a Tweet arrangement of a French song originally called The Ballad of Paure Jean." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Unchained Melody (1955)** : Band leader Les Baxter's version of "Unchained Melody" hit number one in 1955, making it one of several early incarnations of the song. "a version by band leader Les Baxter hit number one in 1955." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c42e
 
 ## curiosities

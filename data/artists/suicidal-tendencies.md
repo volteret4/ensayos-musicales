@@ -24,6 +24,6 @@
 **Video with Skateboard Industry** : The video for one of their songs was noted for being "filled with skateboard industry." "The video for this song is filled with skateboard industry." ← https://www.youtube.com/watch?v=44dXy0StjIQ ← suicidal-tendencies
 
 ## lists
-**"Suicidal Tendencies" (1983) — AOTY Must Hear 1980s** : #126, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Suicidal Tendencies" (1983) — Scaruffi 1980s** : #739, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Lights...Camera...Revolution" (1990) — Sputnikmusic Best Albums 1990** : #73, 4.02 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
+**"Suicidal Tendencies" (1983) — AOTY Must Hear 1980s** : #126, 7.0/10 Scaruffi.
+**"Suicidal Tendencies" (1983) — Scaruffi 1980s** : #739, 7.0/10 Scaruffi.
+**"Lights...Camera...Revolution" (1990) — Sputnikmusic Best Albums 1990** : #73, 4.02 Sputnik.

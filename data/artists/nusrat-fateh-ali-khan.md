@@ -25,4 +25,4 @@
 
 ## lists
 **"Devotional Songs" (1992) — 1001 Albums You Must Hear Before You Die** : #731.
-**"Mustt Mustt" (1990) — Sputnikmusic Best Albums 1990** : #35, 4.13 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
+**"Mustt Mustt" (1990) — Sputnikmusic Best Albums 1990** : #35, 4.13 Sputnik.

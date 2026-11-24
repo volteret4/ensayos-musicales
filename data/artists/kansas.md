@@ -36,4 +36,4 @@
 **"Dust in the Wind" — Billboard Year-End Hot 100** : #39, 1978. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Kansas" (1974) — Scaruffi 1970s** : #372, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Kansas" (1974) — Scaruffi 1970s** : #372, 7.0/10 Scaruffi.

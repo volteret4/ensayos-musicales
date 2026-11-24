@@ -9,4 +9,4 @@
 **Pivotal Figure in Vaporwave's Origins** : Daniel Lopatin is considered, alongside James Ferraro and Vektroid, one of the most important individuals in the development of vaporwave, having been responsible for some of its foundational musical experiments and releases. "Sin duda, junto a Ferraro y Lopatín, la persona más importante dentro del vaporwave." ← Vaporwave： Mucho más que un Meme | https://www.youtube.com/watch?v=BhOnKc0SxsA
 
 ## lists
-**"Uncut Gems (OST)" (2019) — Sputnikmusic Best Albums 2019** : #66, 3.89 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2019/
+**"Uncut Gems (OST)" (2019) — Sputnikmusic Best Albums 2019** : #66, 3.89 Sputnik.

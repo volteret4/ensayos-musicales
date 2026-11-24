@@ -1,5 +1,8 @@
 # artist - Honey Lantree
 
+## member of
+- The Honeycombs
+
 ## instruments
 - Drums
 

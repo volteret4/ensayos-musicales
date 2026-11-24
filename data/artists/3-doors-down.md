@@ -5,6 +5,7 @@
 - Todd Harrell
 
 ## genres
+- Post-Grunge
 - Rock
 
 ## labels
@@ -30,6 +31,7 @@
 **Ongoing Legal Troubles (2014, 2018)** : Harrell continued to face legal issues, including another DUI charge in 2014 and being caught sending drugs to friends in prison. In 2018, police responding to a domestic disturbance call at his home found drugs and guns, violating his release conditions and leading to a 10-year sentence with the Mississippi Department of Corrections. "There was another DUI charge in 2014, and then Herrell was caught sending drugs to buddies in prison." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← three-doors-down
 **Reputation Spread to New York** : After their local radio hit, the band's reputation quickly spread throughout the region and then up the East Coast, reaching New York City. "After that, their reputation spread throughout the region and then up the east coast all the way to New York." ← https://www.youtube.com/watch?v=CyTI00SIrLE ← three-doors-down ← three-doors-down
 **Supported Donald Trump** : Three Doors Down were among the artists who supported Donald Trump, agreeing to perform for him unlike many others in the music industry. "Outside of Kid Rock, Ted Nugent, three doors down and ace freely." ← https://www.youtube.com/watch?v=HoBx6s3JmVQ ← three-doors-down
+**Leaders of Post-Grunge** : In the early 2000s, as pop diversified, mainstream rock music moved in a post-grunge direction, led by bands like Three Doors Down. "While hip rock music moved in a post-grunge direction, led by such bands as Three Doors Down, Puddle of Mud, and the huge selling and widely Scorn Nickelback." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Kryptonite" — Billboard Year-End Hot 100** : #15, 2000. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

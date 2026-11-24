@@ -13,5 +13,5 @@
 **Unleaving (2014)** : This track is from Hookworms' 2014 album, *The Hum*. As a "noise rock band from Leeds, England," Hookworms are recognized as one of the contemporary acts that are actively "carrying on the shoegas tradition." "That's Hookworms, with Unleaving from the 2014 album The Humb." ← https://www.youtube.com/watch?v=vEHdoUlGurY ← hookworms
 
 ## lists
-**"Microshift" (2018) — AOTY Must Hear 2010s** : #226, 84 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"The Hum" (2014) — AOTY Must Hear 2010s** : #547, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
+**"Microshift" (2018) — AOTY Must Hear 2010s** : #226, 84 AOTY.
+**"The Hum" (2014) — AOTY Must Hear 2010s** : #547, 80 AOTY.

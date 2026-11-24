@@ -177,6 +177,32 @@
 **Rock Airplay Chart Debut for Bruno Mars** : Bruno Mars made his first appearance on Billboard's Rock charts with the 2019 single "Blow," a collaboration with Ed Sheeran and Chris Stapleton. The song reached number 36 in Rock Airplay, marking a significant genre expansion for Mars's career. "a single that got Mars on Billboard's Rock charts for the first time." ← Hit Parade Music History and Music Trivia > Lenny on Mars Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f54d1ba84fb8f0463bf
 **Atlantic Records Shift (Late 1970s)** : By the late 1970s, Atlantic Records, once an R&B-rooted label, had become "better known for rock acts like Led Zeppelin than for R&B," indicating a significant shift in its musical focus. "By the late 70s, Atlantic was better known for rock acts like Led Zeppelin than for R&B." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
 **Aerosmith as Hall of Fame Band** : Aerosmith is introduced as a "Hall of Fame rock band" that faced challenges in launching their career in the 1970s, requiring multiple "bring back hits" to achieve significant chart success. "At number nine on my list is a Hall of Fame rock band." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c42e
+**N.E.R.D's Rock-Leaning Sound (2001)** : Pharrell Williams and Chad Hugo experimented with a rock-leaning band album starting in 2001, which they called N.E.R.D, and which later produced a minor hit, "Rock Star," on the modern rock chart. "Williams and Hugo released a rock-leaning band album. They've been tinkering with since 2001." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Comparison to Highly Anticipated Albums** : Highly anticipated rock albums, such as Pearl Jam's "by Talon" and The Beatles' "Live at the BBC," were notably outsold by Garth Brooks's "The Hits" during the 1994 holiday season, illustrating the immense commercial power of country music at the time. "the most highly anticipated rock album of the holiday season, Pearl Jam's third album by Talon." ← Hit Parade Music History and Music Trivia > Friends in Low Places, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rock's Debt to Disco (Late 70s/Early 80s)** : In the late 1970s and early 1980s, even rock acts began to adapt musical "tricks they picked up from disco," illustrating significant cross-genre influence. A notable example is Queen's 1980 hit "Another One Bites the Dust" openly "nicking" the baseline from Chic's "Good Times," mirroring hip-hop's own extensive borrowing from contemporary music. "Of course, there was a lot of that going around in 1979 and 1980, even among Rockats, who were also adapting tricks they picked up from disco." ← Hit Parade Music History and Music Trivia > Hit Parade - The Def Jams Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Enduring Number 2 Hits** : Some of the most enduring songs in rock history, such as Bob Dylan's "Like a Rolling Stone" and Bruce Springsteen's "Dancing in the Dark," peaked in the charts' runner-up slot, highlighting that not all classics achieved number 1 status. "This, despite the fact that some of the most enduring songs in rock history peaked in the charts runner-up slot, these are truly enormous records." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Female-Led Dominance in 1982** : In the spring of 1982, the Hot 100 was "blockaded" by two punk-adjacent female-led rock bands, Joan Jett and The Go-Go's, who were commanding both the single and album charts. This was a unique moment, as never before had a pair of female-led rock bands achieved such simultaneous dominance across charts. "In the 35 years since this moment, The Hot 100 has been commanded by women numerous times, sometimes as many as the top five or six positions, but never a pair of female lead rock bands like this." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Disco Backlash** : In the late 1970s, a "return to rock" occurred in response to the perception that disco was overtaking the radio, leading to an infamous backlash including Disco Demolition Night. "That led to an infamous backlash, including the notorious disco demolition night at Kamiski Park in Chicago, and to a corresponding so-called return to rock." ← Hit Parade Music History and Music Trivia > I Got Five on It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Early Era Instrumentals** : In the early years of the rock era, instrumental music was present, ranging from "syrupy orchestras and fierce electric guitarists." "the history of the instrumental through the early years of the rock era, from syrupy orchestras and fierce electric guitarists." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Early Years Defining Culture** : The early years of rock music, alongside soul, were a period when "gay hitmakers were defining the culture." This highlights the foundational, though often unacknowledged, contributions of LGBTQ artists to the genre's development. "We focused on rock and souls early years from the birth of rock and roll to the peak of disco when gay hitmakers were defining the culture." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Aretha Franklin's Covers** : In the early 1970s, Aretha Franklin was known for recording celebrated, soulful covers of songs by a "string of white men from the world of rock," including Paul McCartney, Elton John, and Robbie Robertson, successfully turning them into pop and R&B hits. "Paul Simon's bridge over troubled water wasn't the only song written by a rock artist that Eurytha Franklin covered and turned into a hit." ← Hit Parade Music History and Music Trivia > Music Trivia - The Aretha Franklin Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Bayside Boys' Anti-Grunge Stance** : The Bayside Boys consciously aimed to be "the anti-grudge" by embracing a glam and glitter aesthetic, specifically contrasting with "darker rock stuff" that was dominating the music scene at the time. : "We were coming from a time where darker rock stuff was dominating." ← Hit Parade Music History and Music Trivia > One Year - Hey Macarena! | https://my.slate.com/podcasts/feeds/hit-parade/
+**Early Album Release Pace (1960s)** : In the first decade of rock and soul, it was the norm for most hit acts, including rock gods like Elvis Presley, to release at least two LPs a year. "Most hit acts in the first decade of rock and soul would drop at least two LPs a year, from rock gods like Elvis Presley" ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Early Rock and Roll Revival (1973)** : In 1973, there was a theory that a general revival of early rock and roll on the charts was benefiting records from the 1950s and early 1960s. Kitschier hits like "Monster Mash" were perceived as sounding natural when charting alongside contemporary throwback smash hits. "Others say the revival of early rock and roll on the charts in 1973 was benefiting 50s and early 60s records." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Recording Industry Strategy** : The recording industry often approaches rock songs by first pushing them to rock fans before attempting to cross them over to pop audiences. This format-first strategy can lead to "second chance hits" when a later, more pop-oriented success enables an earlier rock track to find broader appeal. "With rock songs in particular, the recording industry tends to try pushing them on rock fans first before attempting to cross them over with pop fans." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**1971 Chart Dominance** : In 1971, Pop, Rock, and Soul Legends were scoring both number one singles and number one albums on the Billboard charts. "On the Billboard charts, Pop, Rock, and Soul Legends were scoring both number one singles and number one albums, including, so far, George Harrison, Janice Chaplin, and the Rolling Stones." ← Hit Parade Music History and Music Trivia > Spirit of ’71, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Genre Fluidity: The Eagles** : The Eagles, originally established as a rock band in the 1970s, are now "sort of grandfathered into country music," serving as an example of how genres are not static and can be redefined by audience perception and cultural shifts over time. "The Eagles were rock band in the 70s but now they're sort of grandfathered into country music." ← Hit Parade Music History and Music Trivia > The Bridge - Can’t Tell Me Nothin’ | https://my.slate.com/podcasts/feeds/hit-parade/
+**Genre Fluidity: Creedence Clearwater Revival** : Despite being fundamentally a rock band in the 1960s and 1970s, Creedence Clearwater Revival's sound was often perceived as "a whole lot like country music." Efforts were even made to promote their music to country stations a decade after the band disbanded, illustrating the fluid and audience-driven nature of genre classification. "Creedence clear water revival sound a whole lot like. Country music to people and they even tried to promote credence clear water revival to country stations a decade after the band broke up and yet in the 60s and 70s they were fundamentally a rock band." ← Hit Parade Music History and Music Trivia > The Bridge - Can’t Tell Me Nothin’ | https://my.slate.com/podcasts/feeds/hit-parade/
+**Redefined by Stevie Wonder in the 1970s** : Stevie Wonder is recognized for redefining the sound of rock music in the 1970s, alongside pop, funk, and R&B, through his epic commercial and critical breakthroughs. "redefining the sound of pop, funk, R&B, rock." ← Hit Parade Music History and Music Trivia > The Bridge - Cover Queens and The Boy Wonder | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Is Rock Back?" Debate** : A discussion point among critics is whether rock music, especially bands fronted by men, is experiencing a resurgence, given the buzz around groups like Geese and Wednesday. The consensus is that rock "never went anywhere" but that bands like Geese are now doing more interesting things with the genre. "It feels like a long time since there's been the kind of buzz around a rock band that there has been with Geese this year. And more specifically with a rock band fronted by a man." ← Hit Parade Music History and Music Trivia > The Bridge - Slate’s Music Club 2025 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Gen Z's Approach to Rock History** : Contemporary Gen Z rock bands are noted for growing up with a vast knowledge of rock history, made accessible by streaming. They engage with this history through a meta-awareness, both revering it and simultaneously mocking or ironizing it. "These are bands that are sort of growing up with the weight of rock history and having this sort of meta awareness, you know, just from the availability of everything on streaming." ← Hit Parade Music History and Music Trivia > The Bridge - Slate’s Music Club 2025 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rise of Rock and Broadway's Shift** : The advent of rock music is considered the biggest factor in changing Broadway's relationship to popular music, as Broadway songwriters were not adopting this new popular form in their shows, leading to a divergence in chart success. "The biggest one is that people talk about is the rise of rock. All of a sudden, there was a new form of popular music that Broadway songwriters weren't using in their shows and that took over the charts." ← Hit Parade Music History and Music Trivia > The Bridge - The Give My Regards Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rock Era's Impact on Broadway Music** : The rock era helped change the historical trend where Broadway music was synonymous with American hit music, although certain musicals and songs continued to infiltrate the pop landscape. "Broadway music was once synonymous with American hit music and the rock era helped change that but certain musicals and certain Broadway composers and performers and songs have continued to infiltrate the pop landscape and the charts." ← Hit Parade Music History and Music Trivia > The Bridge - The Give My Regards Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on R.E.M.'s "Fables of the Reconstruction"** : R.E.M.'s third album, "Fables of the Reconstruction," was described as a meditation on rustic southern folk and rock, contributing to its distinct American sound. "A meditation on rustic southern folk and rock that was more rumenative than anything they'd done before." ← Hit Parade Music History and Music Trivia > The Deadbeat Club Edition, Part One | https://my.slate.com/podcasts/feeds/hit-parade/
+**Impact of Hot 100 SoundScan Reboot** : After Billboard relaunched the Hot 100 with SoundScan data on November 30, 1991, many rock singles that had previously been "propped up by overinflated airplay reports" experienced significant drops, sometimes plummeting 20, 25, or even 30 spots. ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Crossover from Rap** : The 1997 track "It's All About the Benjamins," initially a rap posse cut by Puffy, Biggie, Lil' Kim, and Vellux, was later rebooted by Sean Combs into a rock song, incorporating rockers like Tommy Stinson, Fuzzbubble, Rob Zombie, and Dave Grohl. "But then Combs rebooted it as a rock song and uber posse cut that included all of those original rappers plus rockers Tommy Stinson, Fuzzbubble, Rob Zombie, and Androms, Foo Fighters Dave Groot." ← Hit Parade Music History and Music Trivia > We Invented the Remix Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Early Boy Band Roots** : Rock music formed some of the earliest roots of the boy band phenomenon, along with R&B, influencing groups like Frankie Lymon and the Jackson Five. "We walked through the history of the boy band from its early rock and R&B roots in Frankie Lyman and the Jackson five." ← Hit Parade Music History and Music Trivia > We Want It That Way Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**South Korea Ban** : For much of the 1970s and 1980s, South Korea's military government banned rock music, considering it "non-positive," which limited the development of its pop music industry until the early 1990s. "Consider, right through the 70s and most of the 80s, South Korea had banned rock music and most pop that the military government considered non-positive." ← Hit Parade Music History and Music Trivia > We Want It That Way Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - 7 Year Bitch
@@ -410,3 +436,75 @@
 - LaBelle
 - Avril Lavigne
 - The Pointer Sisters
+- The Monkees
+- Phil Collins
+- Bon Jovi
+- R.E.M.
+- Alanis Morissette
+- Fiona Apple
+- Sarah McLachlan
+- Paramore
+- Peter Gabriel
+- Billy Joel
+- Duran Duran
+- The Shangri-La's
+- Belinda Carlisle
+- Prince
+- Carly Simon
+- The Pretenders
+- The B-52s
+- Carole King
+- Ten C.C.
+- Crosby, Stills, Nash & Young
+- 10,000 Maniacs
+- Melissa Etheridge
+- Sheryl Crow
+- Lady Gaga
+- Brenda Lee
+- The Doors
+- Train
+- Shania Twain
+- Rod Stewart
+- Genesis
+- Stevie Wonder
+- Janet Jackson
+- Casey Kasem
+- Pharrell Williams
+- N.E.R.D.
+- Foreigner
+- Rihanna
+- Nile Rodgers
+- Bruce Springsteen
+- Mandrill
+- Rufus
+- Chaka Khan
+- Earth, Wind & Fire
+- The Jackson 5
+- Ike & Tina Turner
+- Barbra Streisand
+- Bryan Adams
+- Cliff Richard and the Shadows
+- Depeche Mode
+- Kelly Clarkson
+- Steely Dan
+- Toto
+- Daryl Hall & John Oates
+- Patti LaBelle
+- Lil Nas X
+- The American Breed
+- Sylvester
+- Grateful Dead
+- Carol King
+- Leah Martin Brown
+- Fun.
+- Beyoncé Knowles
+- The Osmonds
+- John Fogerty
+- 4 Non Blondes
+- Teddy Swims
+- Geese
+- Water From Your Eyes
+- Puff Daddy
+- Ellen Foley
+- Frankie Lymon
+- 5 Seconds of Summer

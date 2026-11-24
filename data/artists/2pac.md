@@ -21,10 +21,10 @@
 
 ## lists
 **"Me Against the World" (1995) — 1001 Albums You Must Hear Before You Die** : #793.
-**"The Don Killuminati: The 7 Day Theory" (1996) — AOTY Must Hear 1990s** : #153, 62 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"All Eyez on Me" (1996) — AOTY Must Hear 1990s** : #200, 73 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Me Against the World" (1995) — AOTY Must Hear 1990s** : #246. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"All Eyez on Me" (1996) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #436, 73 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"All Eyez on Me" (1996) — Pitchfork: The 150 Best Albums of the 1990s** : #39, 73 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"The Don Killuminati: The 7 Day Theory" (1996) — Sputnikmusic Best Albums 1996** : #123, 62 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
-**"All Eyez on Me" (1996) — Sputnikmusic Best Albums 1996** : #137, 73 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
+**"The Don Killuminati: The 7 Day Theory" (1996) — AOTY Must Hear 1990s** : #153, 62 AOTY.
+**"All Eyez on Me" (1996) — AOTY Must Hear 1990s** : #200, 73 AOTY.
+**"Me Against the World" (1995) — AOTY Must Hear 1990s** : #246.
+**"All Eyez on Me" (1996) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #436, 73 AOTY.
+**"All Eyez on Me" (1996) — Pitchfork: The 150 Best Albums of the 1990s** : #39, 73 AOTY.
+**"The Don Killuminati: The 7 Day Theory" (1996) — Sputnikmusic Best Albums 1996** : #123, 62 AOTY.
+**"All Eyez on Me" (1996) — Sputnikmusic Best Albums 1996** : #137, 73 AOTY.

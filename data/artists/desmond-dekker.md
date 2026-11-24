@@ -2,6 +2,7 @@
 
 ## genres
 - First Wave Ska
+- Reggae
 - Ska
 
 ## labels
@@ -14,9 +15,10 @@
 **Desmond Dekker – Jamaica's Top Singer of the 1960s; Ska's First Worldwide Hit (1969); Worked in Welding Shop with Bob Marley** : Desmond Dekker used to work in a Jamaican welding shop alongside a kid from St. Anne's parish named Bob Marley. Dekker became Jamaica's top singer of the 1960s and, thanks to Island Records (run by Englishman Chris Blackwell, who was in love with Caribbean music), scored ska's first worldwide hit in 1969. "He used to work in a Jamaican welding shop along a kid from St. Anne's parish named Bob Marley." ← https://www.youtube.com/watch?v=VxWp7HrT8oE ← desmond-dekker
 **First Wave Ska Originator** : Desmond Dekker was an originator of the "first wave" of Ska, a style born in Jamaica in the 1950s. Along with Toots and the Maytals and The Skatalites, these artists comprised the initial pioneers of the genre. "Those originators, Desmond Decker, Tutson the Maytaws, the Scott lights and so on, all from Jamaica comprised that first wave." ← https://www.youtube.com/watch?v=HSvgRyGiOpE ← desmond-dekker
 **Ska Giant and Saxa's Collaborator** : Desmond Dekker is recognized as a "Ska Giant" with whom The English Beat's saxophonist, Saxa, had previously played in his early career. "saxo had played with Scott Giants like Prince Buster and Desmond Decker in the early days, so this guy really knew what he was doing." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← desmond-dekker
+**Featured on The Harder They Come Soundtrack (1972)** : Desmond Dekker contributed Reggae jams to *The Harder They Come* soundtrack, which was instrumental in breaking Reggae as a genre. "The Harder They Come soundtrack featured Reggae jams by The Maytals, The Molodians and Desmond Decker..." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"266" — NME Chart** : 19 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
 
 ## lists
-**"Israelites" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #121. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Israelites" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #121.

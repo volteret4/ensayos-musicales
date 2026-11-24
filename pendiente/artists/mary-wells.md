@@ -2,6 +2,7 @@
 
 ## songs
 **I'll Have to Let Him Go** : Mickey Stevenson was producing this song for Mary Wells. During a union inspection, Wells was absent, so Stevenson had Martha Reeves sing the lead vocal to satisfy union rules. Impressed, Stevenson ultimately gave the song to Martha, rather than Wells. "Stevenson was producing a record from Mary Wells, and he had a problem... Mary Wells wasn't there" ← Episode 111： ＂Heat Wave＂ by Martha and the Vandellas | https://www.youtube.com/watch?v=AAiUJhSKjzs
+**My Guy (1964)** : This classic, written and produced by Smokey Robinson, became the first number 1 hit on the Motown label proper (not Tamla) in 1964. "Mary Wells' 1964 classic My Guy." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"The One Who Really Loves You" — Billboard Year-End Hot 100** : #19, 1962. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

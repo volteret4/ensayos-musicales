@@ -8,6 +8,7 @@
 - Metal
 - Rock
 - Thrash Metal
+- Thrash Rock
 
 ## concerts
 - **Judgment Night (1993) Soundtrack Collaboration** : Ice-T worked with Slayer on the soundtrack for the 1993 movie "Judgment Night," an experiment in pairing alternative bands with hard rap acts. "Slayer worked with Ice Tea."
@@ -29,6 +30,9 @@
 **White Fan Base Expansion** : As a "straight rapper-former," Ice-T found himself gaining more and more white fans, demonstrating the expanding reach of rap music. "Even straight rapper-formers like Dela Sol, Cypress Hill, NWA and Iced Tea found themselves with more and more white fans." ← https://www.youtube.com/watch?v=5bQz8R0gbXc ← ice-t
 **Lollapalooza Performance (1991)** : Ice Tea was included in the diverse lineup of the first Lollapalooza tour, which aimed to replicate the UK festival model in the United States. "It featured Jane's Addiction as the headliners along with up and coming bands like Nine Inch Nails and the Rollins Band along with Ice Tea and Body Counts and the Butthole Surfers and Suzy and the Banshees and more." ← https://www.youtube.com/watch?v=xdn31jMOOA4 ← ice-tea ← ice-tea
 **Lollapalooza Performance (1991)** : Ice Tea was included in the diverse lineup of the first Lollapalooza tour, which aimed to replicate the UK festival model in the United States. "It featured Jane's Addiction as the headliners along with up and coming bands like Nine Inch Nails and the Rollins Band along with Ice Tea and Body Counts and the Butthole Surfers and Suzy and the Banshees and more." ← https://www.youtube.com/watch?v=xdn31jMOOA4 ← ice-tea
+**Early Gangster Rap Pioneer** : Ice-T was noted as being involved in gangster rap even before the genre had a definitive name, contributing early singles that positioned him as a progenitor alongside Schoolly D and Boogie Down Productions. ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Moonlighting in Thrash Rock** : In 1992, Ice-T, known for his gangster rap, decided to moonlight in a thrash rock band named Body Count. Their self-titled debut album sparked controversy and protests from police unions due to the track "Cop Killer." The media often misattributed Body Count as a rap group, framing the controversy within the larger "culture war" surrounding gangster rap. ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Body Count Album Reissue - Track Removal (1992)** : Ice-T, under fire, announced that he would drop a track from the Body Count album and reissue the CD. This decision was made due to external pressure concerning the content of a specific track. "Under fire, Icede announced that he would drop the track from the album and reissue the CD." ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **MTV Video Music Award for Best Rap Video (1989)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q917008
@@ -48,6 +52,6 @@
 
 ## lists
 **"O.G. Original Gangster" (1991) — 1001 Albums You Must Hear Before You Die** : #693.
-**"Original Gangster" (1991) — Scaruffi 1990s** : #773, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Rhyme Pays" (1987) — Pitchfork: The 200 Best Albums of the 1980s** : #166. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
-**"O.G. Original Gangster" (1991) — Sputnikmusic Best Albums 1991** : #50. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
+**"Original Gangster" (1991) — Scaruffi 1990s** : #773, 7.0/10 Scaruffi.
+**"Rhyme Pays" (1987) — Pitchfork: The 200 Best Albums of the 1980s** : #166.
+**"O.G. Original Gangster" (1991) — Sputnikmusic Best Albums 1991** : #50.

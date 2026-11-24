@@ -1,0 +1,4 @@
+# artist - Kristen Marguerite Doge
+
+## curiosities
+**Article on The Graduate's Influence (2018)** : In a 2018 *Atlantic* article commemorating the 50th anniversary of *The Graduate*, Kristen Marguerite Doge highlighted director Mike Nichols' innovative approach to soundtrack use. Nichols "embraced the song's meaning," allowing the soundtrack to be explicitly heard and influence popular films for decades, establishing a new commercial formula for lucrative soundtrack LPs that promoted non-diagetic pop songs associated with films. "In a 2018 article in The Atlantic, commemorating the 50th anniversary of the graduate, and its innovative use of pop music, journalist Kristen Marguerite Doge writes..." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/

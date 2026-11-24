@@ -14,4 +14,4 @@
 **Shift to Pop and Commercial Aesthetic** : Around 2015, C. Tangana, as the founder of Agorazein, made a significant shift in his musical direction. He began to flirt with new sounds, incorporating Auto-Tune and adopting a more pop and commercial aesthetic, moving away from his earlier rap promises. "dio un volantazo y empezó a coquetear con estos nuevos sonidos, con el autotune y con una estética más pop y comercial." ← La salvaje historia del TRAP ESPAÑOL (2013-2026) | https://www.youtube.com/watch?v=4hBhiU5jj6s
 
 ## lists
-**"El Madrileño" (2021) — AOTY Must Hear 2020s** : #583, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
+**"El Madrileño" (2021) — AOTY Must Hear 2020s** : #583, 80 AOTY.

@@ -56,5 +56,5 @@
 **Canadian Music Hall of Fame (2010)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3362499
 
 ## lists
-**"Stand Back" (1975) — Juno Awards: Album of the Year** : #1976. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"The Nature of the Beast" (1981) — Juno Awards: Album of the Year** : #1982. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
+**"Stand Back" (1975) — Juno Awards: Album of the Year** : #1976.
+**"The Nature of the Beast" (1981) — Juno Awards: Album of the Year** : #1982.

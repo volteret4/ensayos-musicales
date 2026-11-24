@@ -1,6 +1,8 @@
 # artist - Bell Biv DeVoe
 
 ## genres
+- Hip Hop
+- R&B
 - Slamming Hip-Hop Club
 
 ## curiosities

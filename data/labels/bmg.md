@@ -8,8 +8,10 @@
 **Parent Company of Private Music** : BMG was the parent company of Private Music, a Los Angeles-based subsidiary with whom The Matthew Good Band signed a record deal for "Underdogs." "Well, Underdogs, I signed a record deal with Private Music, which was a BMG subsidiary in Los Angeles." ← https://www.youtube.com/watch?v=-s0gwXY_CZQ ← bmg ← bmg
 **Sloan's Canadian Distributor (2001)** : In 2001, BMG served as Sloan's distributor in Canada. The band reported "doing alright" during this period, which coincided with the release of their album "Pretty Together" and two successful music videos. "2001, we're on BMG in Canada, and we're doing alright." ← https://www.youtube.com/watch?v=QB3nyFH_tRU ← bmg ← bmg
 **Standalone Major Label** : At the time Tool first signed with Zoo Entertainment, BMG existed as a standalone major label, with Zoo affiliated with it. "They were affiliated with BMG, which still existed at the time as a standalone major label." ← https://www.youtube.com/watch?v=JJGJXOoT2PI ← bmg ← bmg
+**U.S. Latin Division Role in "Macarena" Spread** : Rojaleo Mascin worked as the sales and marketing manager for the U.S. Latin division of BMG in Miami in the early 90s. Recognizing the potential of "Macarena" after encountering its dance in Mexico, he took on the responsibility of making it a "mass culture phenomenon" in the U.S., using cheerleaders to promote the dance at Miami clubs. "Rojaleo worked in the music industry. He was the sales and marketing manager for the U.S. Latin division of BMG." ← Hit Parade Music History and Music Trivia > One Year - Hey Macarena! | https://my.slate.com/podcasts/feeds/hit-parade/
+**Canadian Arm's Role in "Macarena" Promotion** : Vince de Georgia was responsible for dance music for the Canadian arm of BMG, the parent company of Los Del Rio's label. His role was to push the "Macarena" into English language markets with a "rush release" due to its inherent hooks, even amidst competition from a Canadian cover version. "Vince de Georgia was in charge of dance music for the Canadian arm of BMG, the parent company of Lostel Rio's label." ← Hit Parade Music History and Music Trivia > One Year - Hey Macarena! | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Sloan
 - Tool
-
+- Los Del Rio

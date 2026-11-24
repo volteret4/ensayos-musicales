@@ -16,11 +16,11 @@
 ## lists
 **"Arise" (1992) — 1001 Albums You Must Hear Before You Die** : #699, 7.0/10 Scaruffi.
 **"Roots" (1996) — 1001 Albums You Must Hear Before You Die** : #820, 8.0/10 Scaruffi.
-**"Beneath The Remains" (1989) — AOTY Must Hear 1980s** : #16, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Chaos A.D." (1993) — AOTY Must Hear 1990s** : #331, 79 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Arise" (1992) — AOTY Must Hear 1990s** : #406, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Beneath The Remains" (1989) — Scaruffi 1980s** : #705, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Roots" (1996) — Scaruffi 1990s** : #125, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Arise" (1992) — Scaruffi 1990s** : #1148, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Arise" (1992) — Sputnikmusic Best Albums 1991** : #17, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"Chaos A.D." (1993) — Sputnikmusic Best Albums 1993** : #109, 79 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
+**"Beneath The Remains" (1989) — AOTY Must Hear 1980s** : #16, 7.0/10 Scaruffi.
+**"Chaos A.D." (1993) — AOTY Must Hear 1990s** : #331, 79 AOTY.
+**"Arise" (1992) — AOTY Must Hear 1990s** : #406, 7.0/10 Scaruffi.
+**"Beneath The Remains" (1989) — Scaruffi 1980s** : #705, 7.0/10 Scaruffi.
+**"Roots" (1996) — Scaruffi 1990s** : #125, 8.0/10 Scaruffi.
+**"Arise" (1992) — Scaruffi 1990s** : #1148, 7.0/10 Scaruffi.
+**"Arise" (1992) — Sputnikmusic Best Albums 1991** : #17, 7.0/10 Scaruffi.
+**"Chaos A.D." (1993) — Sputnikmusic Best Albums 1993** : #109, 79 AOTY.

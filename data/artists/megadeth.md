@@ -30,9 +30,9 @@
 ## lists
 **"Peace Sells… but Who’s Buying?" (1986) — 1001 Albums You Must Hear Before You Die** : #571.
 **"Rust in Peace" (1990) — 1001 Albums You Must Hear Before You Die** : #670, 84 AOTY.
-**"Peace Sells… but Who’s Buying?" (1986) — AOTY Must Hear 1980s** : #66. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Rust in Peace" (1990) — AOTY Must Hear 1990s** : #412, 84 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Peace Sells… but Who’s Buying?" (1986) — Scaruffi 1980s** : #556. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Rust in Peace" (1990) — Scaruffi 1990s** : #918, 84 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Rust in Peace" (1990) — Sputnikmusic Best Albums 1990** : #1, 84 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"Countdown to Extinction" (1992) — Sputnikmusic Best Albums 1992** : #116. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"Peace Sells… but Who’s Buying?" (1986) — AOTY Must Hear 1980s** : #66.
+**"Rust in Peace" (1990) — AOTY Must Hear 1990s** : #412, 84 AOTY.
+**"Peace Sells… but Who’s Buying?" (1986) — Scaruffi 1980s** : #556.
+**"Rust in Peace" (1990) — Scaruffi 1990s** : #918, 84 AOTY.
+**"Rust in Peace" (1990) — Sputnikmusic Best Albums 1990** : #1, 84 AOTY.
+**"Countdown to Extinction" (1992) — Sputnikmusic Best Albums 1992** : #116.

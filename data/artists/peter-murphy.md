@@ -37,5 +37,5 @@
 **Withdrawal to Turkey and Islam** : In the early 1990s, Peter Murphy began to withdraw from Western society, moving his family to Turkey after the success of his 1990 album "Deep." There, he dedicated himself to studying Islam and eventually converted, financing his full-time Arabic studies and other pursuits through earnings from his music and other ventures, though these paled in comparison to potential reunion earnings. "In the spring of 1990, he released an album that sold enough copies to allow him to move his family to Turkey, where he began to study Islam, eventually becoming a Muslim." ← https://www.youtube.com/watch?v=seLx5Ud4v7Y ← peter-murphy ← peter-murphy
 
 ## lists
-**"Dust" (2002) — Sputnikmusic Best Albums 2002** : #83, 4.05 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/
-**"Ninth" (2011) — Sputnikmusic Best Albums 2011** : #90, 4.05 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2011/
+**"Dust" (2002) — Sputnikmusic Best Albums 2002** : #83, 4.05 Sputnik.
+**"Ninth" (2011) — Sputnikmusic Best Albums 2011** : #90, 4.05 Sputnik.

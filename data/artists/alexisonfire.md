@@ -52,6 +52,6 @@
 **CASBY Award** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q5008850
 
 ## lists
-**"Alexisonfire" (2002) — AOTY Must Hear 2000s** : #384, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Otherness" (2022) — Kerrang! The 50 Best Albums of 2022** : #17. ← musicbrainz | https://beta.musicbrainz.org/series/bba4a66d-575e-4b6e-8447-233ad23a8f51
-**"Watch Out!" (2004) — Sputnikmusic Best Albums 2004** : #134, 4.02 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2004/
+**"Alexisonfire" (2002) — AOTY Must Hear 2000s** : #384, 80 AOTY.
+**"Otherness" (2022) — Kerrang! The 50 Best Albums of 2022** : #17.
+**"Watch Out!" (2004) — Sputnikmusic Best Albums 2004** : #134, 4.02 Sputnik.

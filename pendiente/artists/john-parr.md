@@ -1,0 +1,9 @@
+# artist - John Parr
+
+## songs
+**Duet with Meat Loaf (1986)** : John Parr, known for "St. Elmo's Fire Man in Motion," performed a "histrionic duet" with Meat Loaf on the Frank Farian-produced album "Blind Before I Stop" in 1986. This single missed the UK top 30 and failed to chart on the Hot 100. "It generated one single, a histrionic duet with John Parr of St. Elmo's Fire Man in Motion fame that just missed the UK top 30 and didn't make the Hot 100 at all." ← Hit Parade Music History and Music Trivia > Blame It on the Feign, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Naughty Naughty (1985)** : This minor hit reached number 23 in early 1985 for John Parr. It is described as largely forgotten by pop fans. "Notty notty was a number 23 hit in early 1985 for John Parr." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**St. Elmo's Fire (Man in Motion) (1985)** : This title song from the "Brat Pack" movie *St. Elmo's Fire* (subtitled Man in Motion) became John Parr's only major hit, topping the Hot 100 in September 1985, six months after his minor hit "Naughty Naughty." As both the artist and co-writer, its success was extremely lucrative, solidifying his career due to its connection with the film and its enduring play on classic hits radio, accumulating over 230 million plays on Spotify. "The title song from the Bratpack movie, St. Elmo's Fire, subtitled Man in Motion, topped the Hot 100 in September of 1985." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## charts
+**"St. Elmo's Fire" — Billboard Year-End Hot 100** : #18, 1985. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

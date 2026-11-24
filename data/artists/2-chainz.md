@@ -4,6 +4,7 @@
 **Music Videos Directed by Director X** : 2 Chainz is among the artists whose music videos have been directed by Director X. "I have directed videos for Alicia Keys, Puff Daddy, Cisco, Destiny's Child, Drake, Justin Bieber, Two Chains." ← https://www.youtube.com/watch?v=QBCEmZ4Jheo ← 2-chainz
 **Directed by Director X** : Two Chainz is listed among the many artists for whom Director X has directed music videos. "I have directed videos for Alicia Keys, Puff Daddy, Cisco, Destiny's Child, Drake, Justin Bieber, Two Chains, Rosalie, it is a Chompal, Beanie Man, Ariana Grande." ← https://www.youtube.com/watch?v=__7iEl3lH8g ← two-chainz ← two-chainz
 **Directed by Director X** : Two Chainz is listed among the many artists for whom Director X has directed music videos. "I have directed videos for Alicia Keys, Puff Daddy, Cisco, Destiny's Child, Drake, Justin Bieber, Two Chains, Rosalie, it is a Chompal, Beanie Man, Ariana Grande." ← https://www.youtube.com/watch?v=__7iEl3lH8g ← two-chainz
+**Interpolations in "7 Rings"** : Prior hooks by 2 Chainz were among the elements interpolated in Ariana Grande's 2019 number one hit "7 Rings." "built out of interpolations of everything from prior hooks by Soldier Boy and Two Chains." ← Hit Parade Music History and Music Trivia > Rolling in God’s Royal Uptown Road Edition. | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **MTV Europe Music Award for Best US Act (2012)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q16938408

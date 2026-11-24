@@ -14,10 +14,10 @@
 
 ## lists
 **"Vulgar Display of Power" (1992) — 1001 Albums You Must Hear Before You Die** : #728, 88 AOTY.
-**"The Great Southern Trendkill" (1996) — AOTY Must Hear 1990s** : #190, 59 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Far Beyond Driven" (1994) — AOTY Must Hear 1990s** : #301, 74 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Vulgar Display of Power" (1992) — AOTY Must Hear 1990s** : #379, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Cowboys from Hell" (1990) — AOTY Must Hear 1990s** : #419, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Cowboys From Hell" (1990) — Scaruffi 1990s** : #1015, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Cowboys from Hell" (1990) — Sputnikmusic Best Albums 1990** : #58, 85 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"Vulgar Display of Power" (1992) — Sputnikmusic Best Albums 1992** : #55, 88 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"The Great Southern Trendkill" (1996) — AOTY Must Hear 1990s** : #190, 59 AOTY.
+**"Far Beyond Driven" (1994) — AOTY Must Hear 1990s** : #301, 74 AOTY.
+**"Vulgar Display of Power" (1992) — AOTY Must Hear 1990s** : #379, 88 AOTY.
+**"Cowboys from Hell" (1990) — AOTY Must Hear 1990s** : #419, 85 AOTY.
+**"Cowboys From Hell" (1990) — Scaruffi 1990s** : #1015, 7.0/10 Scaruffi.
+**"Cowboys from Hell" (1990) — Sputnikmusic Best Albums 1990** : #58, 85 AOTY.
+**"Vulgar Display of Power" (1992) — Sputnikmusic Best Albums 1992** : #55, 88 AOTY.

@@ -1,7 +1,14 @@
 # artist - Nena
 
+## genres
+- New wave
+- Rock
+
 ## songs
+**99 Luftballons (1984)** : This "improbable all German nuclear war dance jam" reached number two in 1984. "Berlin new wave rockers Nana who took their improbable all German nuclear war dance jam 99 Luftballons to number two in 1984." ← Hit Parade Music History and Music Trivia > One and Done, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**99 Luftballons (1984)** : This German band's 1984 hit reached number two on the Hot 100. The English version is known as "Red Balloons." It was their only single to ever chart on the Hot 100, qualifying them as a one-hit wonder. "The German bands 1984, number two hit 99 lift balloons or in English red balloons, was their only single to crack the hot 100." ← Hit Parade Music History and Music Trivia > The Bridge - Yacht Or Nyacht | https://my.slate.com/podcasts/feeds/hit-parade/
 **99 Red Balloons** : This song falls into the category of protest music against nuclear war, a significant topic in the 1980s. "Nina's 99 red balloons falls into that category." ← https://www.youtube.com/watch?v=0ARYt4sYT90 ← nena
+**Just a Dream** : This song was the follow-up single to "99 Luftballons" and "bubbled under" the Hot 100 chart, reaching number 102. "their follow-up, just a dream, bubbled under the chart at number 102." ← Hit Parade Music History and Music Trivia > The Bridge - Yacht Or Nyacht | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Bravo Otto (1982)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q487719

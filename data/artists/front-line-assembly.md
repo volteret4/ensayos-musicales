@@ -8,8 +8,8 @@
 **Presence in Industrial Scene** : Front Line Assembly was mentioned as one of the groups starting to gain notice within the rapidly growing industrial scene in the mid-to-late 1980s. "Plus, people began to pick up on groups with names like Frontline Assembly, Pancao, Psychic TV, Liebach, and many others." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← front-line-assembly ← front-line-assembly
 
 ## lists
-**"State Of Mind" (1988) — Scaruffi 1980s** : #431, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Caustic Grip" (1990) — Sputnikmusic Best Albums 1990** : #94, 3.98 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"Tactical Neural Implant" (1992) — Sputnikmusic Best Albums 1992** : #15, 4.3 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"Millennium" (1994) — Sputnikmusic Best Albums 1994** : #112, 4.04 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
-**"Implode" (1999) — Sputnikmusic Best Albums 1999** : #184, 3.95 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1999/
+**"State Of Mind" (1988) — Scaruffi 1980s** : #431, 7.0/10 Scaruffi.
+**"Caustic Grip" (1990) — Sputnikmusic Best Albums 1990** : #94, 3.98 Sputnik.
+**"Tactical Neural Implant" (1992) — Sputnikmusic Best Albums 1992** : #15, 4.3 Sputnik.
+**"Millennium" (1994) — Sputnikmusic Best Albums 1994** : #112, 4.04 Sputnik.
+**"Implode" (1999) — Sputnikmusic Best Albums 1999** : #184, 3.95 Sputnik.

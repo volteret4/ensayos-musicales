@@ -18,4 +18,4 @@
 **Street Performer and Composer** : Louis Hardin Jr., known as Moondog, was a homeless, six-foot, blind New York street performer. He dressed in a Viking costume and often stood silently banging a drum outside Carnegie Hall, composing music and releasing records under the name Moon Dog. His striking appearance and musical talent attracted attention from famous composers and conductors. "Lewis Harden Jr., a homeless six-foot blind New York street performer who dressed up in a Viking costume and could often be found outside the stage door of Carnegie Hall, standing silently and banging a drum." ← https://www.youtube.com/watch?v=6SdPPsmpgJg ← moondog
 
 ## lists
-**"Moondog" (1956) — Pitchfork: The 200 Best Albums of the 1960s** : #155. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Moondog" (1956) — Pitchfork: The 200 Best Albums of the 1960s** : #155.

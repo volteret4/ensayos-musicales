@@ -13,6 +13,8 @@
 **Vehicle for Communist-Labeled Messages (1930s-1940s)** : In the 1930s and 1940s, folk music was utilized by artists like Woody Guthrie and Pete Seeger to disseminate messages. This led to them being labeled as communists by authorities. "In the 30s and 40s, Woody got three and Pete Seeger used folk music to spread messages that had them labeled as communists." ← https://www.youtube.com/watch?v=0ARYt4sYT90 ← folk-music
 **Rise of John Denver** : John Denver was a rising star in the world of folk music during the 1960s. "In the 1960s, Denver had been a rising star in the world of folk music." ← Hit Parade Music History and Music Trivia > Country Roads and Summer Nights Edition Part 1 | https://shows.acast.com/hit-parade/episodes/698fd3ebd6c27a06bb92e1f2
 **Shift to Rock and Roll** : The folk scene began to give way to rock and roll around 1965. "just as the folk scene was giving way to rock and roll." ← Hit Parade Music History and Music Trivia > Country Roads and Summer Nights Edition Part 1 | https://shows.acast.com/hit-parade/episodes/698fd3ebd6c27a06bb92e1f2
+**Popularity in the 1950s** : Folk music was significantly popular on nationwide charts in the 1950s, topping the charts for more than a decade even before Bob Dylan graduated from high school. Some practitioners were seen as more "authentic" by hardcore folkies compared to others. "One thing the film, a complete unknown doesn't detail, is just how popular folk music was on the chart's nationwide, even before young Zimmerman graduated from high school." ← Hit Parade Music History and Music Trivia > The Freewheelin’ Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mainstreaming Before Dylan's Debut** : Before Bob Dylan had even recorded his first album, folk music had been fully mainstreamed, evidenced by major crossover hits like "Michael" by The Highwaymen and "The Lion Sleeps Tonight" by The Tokens. "In other words, before Bob Dylan had even recorded his first album, folk music had been fully mainstreamed." ← Hit Parade Music History and Music Trivia > The Freewheelin’ Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Kate Bush
@@ -22,3 +24,5 @@
 - The Searchers
 - Woody Guthrie
 - John Denver
+- Bob Dylan
+- The Weavers

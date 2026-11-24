@@ -1,0 +1,9 @@
+# artist - Larry Verne
+
+## songs
+**Mr. Custer (1960)** : A truly oddball number one novelty hit from 1960, this song is a half-spoken word, cornpone comedy monologue featuring a soldier pleading with his general not to send him into the Battle of Little Big Horn. "the truly oddball Mr. Custer by Larry Verne, a half-spoken word, cornpone comedy monologue, by a soldier pleading with his general, not to send him into the battle of Little Big Horn." ← Hit Parade Music History and Music Trivia > Singing Nuns and Green Tambourines Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mr. Custer (1960)** : This chart-topping novelty hit from 1960 was a half-spoken word "foe lament" by a soldier in 1876 pleading with his general not to send him into the battle of Little Bighorn. He had never sung in his life but possessed a memorable southern draw, fronting the track. "The track was fronted by a man named Larry Vern who'd never sung in his life but had a memorable southern draw." ← Hit Parade Music History and Music Trivia > The White and Nerdy Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mr. Custer (1960)** : This chart-topping novelty hit from 1960 was a half-spoken word lament by a soldier in 1876, pleading with his general not to be sent into the Battle of Little Bighorn. The track was fronted by Larry Verne, who had never sung before but possessed a memorable Southern drawl. "The track was fronted by a man named Larry Vern, who'd never sung in his life, but had a memorable Southern draw." ← Hit Parade Music History and Music Trivia > The White and Nerdy Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## charts
+**"Mr. Custer" — Billboard Year-End Hot 100** : #42, 1960. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

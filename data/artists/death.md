@@ -49,16 +49,16 @@
 **Unreleased Pioneer Punk** : Death, a band founded by three African-American brothers, created fast, raw, and aggressive rock music. They recorded seven songs that remained unreleased because they refused to change their band's name, demonstrating their uncompromising artistic integrity. These songs were remarkably identical to the punk sound that would emerge in the second half of the 1970s, but they were created four years ahead of their time, a testament to their foresight and unique sound. "Graban tantos los siete canciones que no llegaron a la publicar por negarse a cambiar el nombre de su banda." ← El punk existía antes de Sex Pistols (y era algo salvaje) | https://www.youtube.com/watch?v=ilXpBujkWZE
 
 ## lists
-**"Leprosy" (1988) — AOTY Must Hear 1980s** : #21, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Scream Bloody Gore" (1987) — AOTY Must Hear 1980s** : #55, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"The Sound of Perseverance" (1998) — AOTY Must Hear 1990s** : #65, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Symbolic" (1995) — AOTY Must Hear 1990s** : #245, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Individual Thought Patterns" (1993) — AOTY Must Hear 1990s** : #339, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Human" (1991) — AOTY Must Hear 1990s** : #385, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"...For the Whole World to See" (2009) — AOTY Must Hear 2000s** : #45, 77 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Leprosy" (1988) — Scaruffi 1980s** : #360, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Human" (1991) — Scaruffi 1990s** : #594, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Spiritual Healing" (1990) — Sputnikmusic Best Albums 1990** : #140, 3.89 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"Human" (1991) — Sputnikmusic Best Albums 1991** : #1, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"Individual Thought Patterns" (1993) — Sputnikmusic Best Albums 1993** : #7, 83 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
-**"The Sound of Perseverance" (1998) — Sputnikmusic Best Albums 1998** : #9, 90 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1998/
+**"Leprosy" (1988) — AOTY Must Hear 1980s** : #21, 7.0/10 Scaruffi.
+**"Scream Bloody Gore" (1987) — AOTY Must Hear 1980s** : #55, 90 AOTY.
+**"The Sound of Perseverance" (1998) — AOTY Must Hear 1990s** : #65, 90 AOTY.
+**"Symbolic" (1995) — AOTY Must Hear 1990s** : #245, 90 AOTY.
+**"Individual Thought Patterns" (1993) — AOTY Must Hear 1990s** : #339, 83 AOTY.
+**"Human" (1991) — AOTY Must Hear 1990s** : #385, 7.0/10 Scaruffi.
+**"...For the Whole World to See" (2009) — AOTY Must Hear 2000s** : #45, 77 AOTY.
+**"Leprosy" (1988) — Scaruffi 1980s** : #360, 7.0/10 Scaruffi.
+**"Human" (1991) — Scaruffi 1990s** : #594, 7.0/10 Scaruffi.
+**"Spiritual Healing" (1990) — Sputnikmusic Best Albums 1990** : #140, 3.89 Sputnik.
+**"Human" (1991) — Sputnikmusic Best Albums 1991** : #1, 7.0/10 Scaruffi.
+**"Individual Thought Patterns" (1993) — Sputnikmusic Best Albums 1993** : #7, 83 AOTY.
+**"The Sound of Perseverance" (1998) — Sputnikmusic Best Albums 1998** : #9, 90 AOTY.

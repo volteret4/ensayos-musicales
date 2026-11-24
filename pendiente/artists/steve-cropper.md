@@ -2,6 +2,7 @@
 
 ## member of
 - Booker T. & the M.G.'s
+- Otis Redding
 - The Mar-Keys
 
 ## labels

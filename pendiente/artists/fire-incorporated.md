@@ -1,0 +1,5 @@
+# artist - Fire Incorporated
+
+## songs
+**Nowhere Fast (1984)** : This song was one of two replacement songs Jim Steinman contributed to the soundtrack of the 1984 film *Streets of Fire*, performed by the fictional band Fire Incorporated. It also appeared on Meat Loaf's 1984 album *Bad Attitude*. Neither of Steinman's contributions to the soundtrack charted. "Steinman's contributions tonight is what it means to be young and nowhere fast, went nowhere on the charts." ← Hit Parade Music History and Music Trivia > Turn Around, Bright Eyes, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Tonight Is What It Means to Be Young (1984)** : This song was one of two replacement songs Jim Steinman contributed to the soundtrack of the 1984 film *Streets of Fire*, performed by the fictional band Fire Incorporated. Neither of Steinman's contributions charted. "Steinman's contributions tonight is what it means to be young and nowhere fast, went nowhere on the charts." ← Hit Parade Music History and Music Trivia > Turn Around, Bright Eyes, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/

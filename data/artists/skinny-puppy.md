@@ -53,6 +53,6 @@
 **cEvin Key's Health and Activism** : Member cEvin Key has been involved in multiple musical projects and has publicly battled skin cancer affecting his nose, eye, and lip. In his personal time, he is an active animal rights activist with a particular fondness for cats. "Member Kevin Key has been at the center of a number of different musical projects, but he also battled skin cancer on his nose, eye, and lip. In a spare time, he works as an animal rights activist, and he especially loves cats, apparently." ← https://www.youtube.com/watch?v=EE8U4yyKtd0 ← skinny-puppy ← skinny-puppy
 
 ## lists
-**"Rabies" (1989) — Scaruffi 1980s** : #711, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Too Dark Park" (1990) — Sputnikmusic Best Albums 1990** : #14, 4.25 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"Last Rights" (1992) — Sputnikmusic Best Albums 1992** : #35, 4.2 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"Rabies" (1989) — Scaruffi 1980s** : #711, 7.0/10 Scaruffi.
+**"Too Dark Park" (1990) — Sputnikmusic Best Albums 1990** : #14, 4.25 Sputnik.
+**"Last Rights" (1992) — Sputnikmusic Best Albums 1992** : #35, 4.2 Sputnik.

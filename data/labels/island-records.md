@@ -27,6 +27,10 @@
 **Signing Pulp (1992)** : Island Records signed Pulp in 1992, after being acquired by Polygram, as part of a concerted effort to find new artists. "lo consiguen meter en Island Records." ← Music Radar Clan > El BRIT POP como negocio discográfico | https://www.youtube.com/watch?v=uIx0P0TssZ0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← island-records ← island-records
 **UK Distribution Strategy (1960s)** : After Chris Blackwell moved back to England, Island Records operated as a distributor of Jamaican records. Blackwell personally hand-sold these records to local shops located in immigrant communities across London, Manchester, and Birmingham. "he moved back to England, where he continued running Island Records, this time as a distributor of Jamaican Records... Blackwell would hand sell to local record shops around immigrant communities, in London, Manchester and Birmingham." ← Episode 114： ＂My Boy Lollipop＂ by Millie | https://www.youtube.com/watch?v=kf-DtqoOsRI
 **Unconventional Debut Album Deal** : Island Records, impressed by the self-financed *Sigh No More* album, negotiated a licensing deal where they licensed the album from Mumford & Sons' indie label, Gentlemen of the Road. Island agreed to cover all manufacturing, distribution, and promotion costs, while the band received only a licensing fee without subsequent profits, deemed the "safest way forward" at the time as it required no upfront money or liability from the band. "Island then negotiated a deal whereby they licensed the album from Mumford through their gentlemen of the road indie label." ← https://www.youtube.com/watch?v=P1RyOchn7pk ← island-records ← island-records
+**Pulp's Major Label Home** : Pulp, after years of indie LPs, signed to Island Records in 1993, which led to their acclaimed "reboot album" "His 'n' Hers" and their breakthrough onto the UK chart. "At last signed to a major label, Island Records, pulp recorded their acclaimed reboot album, His and Hers, and began cracking the UK chart." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Adventurous Major Label with International Reach** : Island Records was recognized as one of the "more adventurous major labels" that signed The B-52s, handling their releases in the UK and other international territories, while Warner Brothers Records covered the U.S. Founded by Chris Blackwell, the label was known for breaking artists like Bob Marley and later signing U2, indicating its significant influence and adventurous spirit in the music industry. "Island Records" ← Hit Parade Music History and Music Trivia > The Deadbeat Club Edition, Part One | https://my.slate.com/podcasts/feeds/hit-parade/
+**Acquisition of G Street** : Island Records acquired G Street, the British label that first issued PM Dawn's debut single. This acquisition provided PM Dawn with a major label budget and resources. ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rejected Television** : Island Records declined to sign Television after they recorded a demo with producer Brian Eno in 1975, finding their "sprawling jams" resistant to label interest at the time. "The band even recorded a demo for island records, with producer Brian Eno in 1975, yet the label decided not to sign television." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Bob Marley
@@ -51,4 +55,6 @@
 - The Wailers
 - Traffic
 - U2
-
+- The B-52s
+- P.M. Dawn
+- Fall Out Boy

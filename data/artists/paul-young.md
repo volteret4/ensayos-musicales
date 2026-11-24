@@ -1,11 +1,18 @@
 # artist - Paul Young
 
 ## member of
+- Band Aid
+- Mike + The Mechanics
 - The E Street Band
+
+## songs
+**Do They Know It's Christmas? (1984)** : Blue-eyed soul singer Paul Young was responsible for deploying the main refrain of "Do They Know It's Christmas?" This occurred more than halfway through the song's running time, after almost two full minutes of solo verses, and just before the final sing-along. "Finally, after almost two full minutes have elapsed, Blue-eyed soul singer Paul Young deploys its refrain more than halfway through the song's running time." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Every Time You Go Away** : Paul Young's cover of Darryl Hall's ballad "Every Time You Go Away," originally from Hall and Oates' 1980 LP *Voices* (but never issued as a single by them), became a smash hit on both sides of the Atlantic, reaching number four in the UK and number one in the US. On the day of Live Aid, July 13, 1985, Young's cover was in the Hot 100's top 10 and reached number one two weeks later, much to Darryl Hall's "salty" sentiment. "British Blue-eyed Soul singer Paul Young, you may know him as the first voice on Band-Aid's Do They Know It's Christmas. He was riding high on the charts with his cover of Darryl Hall's Ballad every time you go away." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Solo Career Post-Street Band** : Following the breakup of Street Band in 1979, keyboardist Paul Young embarked on a successful solo career. He achieved significant success with a series of hit singles throughout the early and middle 1980s. "Save for this one song. And for one member, keyboardist Paul Young went on to a solo career and did very well with the series of hit singles to the early and middle 1980s." ← https://www.youtube.com/watch?v=zUQ2vZzmRiI ← paul-young
 **Toast (1978) – Novelty B-Side That Became a Hit During the UK Baker's Strike, Launched by Street Band** : Released as the B-side to "Hold On" by Street Band, a straight-ahead UK rock group, "Toast" was a song about the joys of making toast, recorded when the band needed filler. During the Baker's Strike of the late 1970s, someone at the BBC discovered the track and put it on air; it became an unexpected quirky hit, but branded the band as novelty artists, leading to their breakup. One member of Street Band was Paul Young, who went on to have major multi-platinum success as a blue-eyed soul singer in the 1980s. "Street Band, with a song called Toast from 1978. Naturally, they were soon branded as a novelty act and they broke up shortly thereafter." ← https://www.youtube.com/watch?v=Dt7mb4yyuWM ← paul-young
+**Lead Vocalist for Mike and the Mechanics (1986)** : This former Sad Cafe singer sang lead on Mike and the Mechanics' second single, "All I Need Is a Miracle," which performed even better than their first. "sung by a different vocalist, former sad cafe singer Paul Young, and it did even better on the charts." ← Hit Parade Music History and Music Trivia > The Invisible Miracle Sledgehammer Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Everytime You Go Away" — Billboard Year-End Hot 100** : #11, 1985. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

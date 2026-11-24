@@ -81,21 +81,21 @@
 
 ## lists
 **"Music Has the Right to Children" (1998) — 1001 Albums You Must Hear Before You Die** : #879, 90 AOTY.
-**"Music Has the Right to Children" (1998) — AOTY Must Hear 1990s** : #84, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Hi Scores" (1996) — AOTY Must Hear 1990s** : #148, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"The Campfire Headphase" (2005) — AOTY Must Hear 2000s** : #226, 78 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Geogaddi" (2002) — AOTY Must Hear 2000s** : #423, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"In a Beautiful Place Out in the Country" (2000) — AOTY Must Hear 2000s** : #477, 74 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Tomorrow's Harvest" (2013) — AOTY Must Hear 2010s** : #683, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Geogaddi" (2002) — Scaruffi 2000s** : #245, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Aquarius" — John Peel's Record Box** : #11. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
-**"Music Has the Right to Children" (1998) — Pitchfork: The 150 Best Albums of the 1990s** : #26, 90 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Music Has the Right to Children" (1998) — Pitchfork: The 50 Best IDM Albums of All Time** : #2, 90 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/e9a6e452-f6af-431e-9984-56046b9c2e05
-**"Geogaddi" (2002) — Pitchfork: The 50 Best IDM Albums of All Time** : #5, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/e9a6e452-f6af-431e-9984-56046b9c2e05
-**"In a Beautiful Place Out in the Country" (2000) — Pitchfork: The 50 Best IDM Albums of All Time** : #12, 74 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/e9a6e452-f6af-431e-9984-56046b9c2e05
-**"In a Beautiful Place Out in the Country" (2000) — Resident Advisor: The Best Electronic Records of 2000-25** : #84, 74 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/256f2672-a51d-4824-a07f-ae79c5840268
-**"Hi Scores" (1996) — Sputnikmusic Best Albums 1996** : #145, 88 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
-**"Music Has the Right to Children" (1998) — Sputnikmusic Best Albums 1998** : #14, 90 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1998/
-**"In a Beautiful Place Out in the Country" (2000) — Sputnikmusic Best Albums 2000** : #59, 74 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2000/
-**"Geogaddi" (2002) — Sputnikmusic Best Albums 2002** : #6, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/
-**"The Campfire Headphase" (2005) — Sputnikmusic Best Albums 2005** : #191, 78 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2005/
+**"Music Has the Right to Children" (1998) — AOTY Must Hear 1990s** : #84, 90 AOTY.
+**"Hi Scores" (1996) — AOTY Must Hear 1990s** : #148, 88 AOTY.
+**"The Campfire Headphase" (2005) — AOTY Must Hear 2000s** : #226, 78 AOTY.
+**"Geogaddi" (2002) — AOTY Must Hear 2000s** : #423, 7.0/10 Scaruffi.
+**"In a Beautiful Place Out in the Country" (2000) — AOTY Must Hear 2000s** : #477, 74 AOTY.
+**"Tomorrow's Harvest" (2013) — AOTY Must Hear 2010s** : #683, 81 AOTY.
+**"Geogaddi" (2002) — Scaruffi 2000s** : #245, 7.0/10 Scaruffi.
+**"Aquarius" — John Peel's Record Box** : #11.
+**"Music Has the Right to Children" (1998) — Pitchfork: The 150 Best Albums of the 1990s** : #26, 90 AOTY.
+**"Music Has the Right to Children" (1998) — Pitchfork: The 50 Best IDM Albums of All Time** : #2, 90 AOTY.
+**"Geogaddi" (2002) — Pitchfork: The 50 Best IDM Albums of All Time** : #5, 7.0/10 Scaruffi.
+**"In a Beautiful Place Out in the Country" (2000) — Pitchfork: The 50 Best IDM Albums of All Time** : #12, 74 AOTY.
+**"In a Beautiful Place Out in the Country" (2000) — Resident Advisor: The Best Electronic Records of 2000-25** : #84, 74 AOTY.
+**"Hi Scores" (1996) — Sputnikmusic Best Albums 1996** : #145, 88 AOTY.
+**"Music Has the Right to Children" (1998) — Sputnikmusic Best Albums 1998** : #14, 90 AOTY.
+**"In a Beautiful Place Out in the Country" (2000) — Sputnikmusic Best Albums 2000** : #59, 74 AOTY.
+**"Geogaddi" (2002) — Sputnikmusic Best Albums 2002** : #6, 7.0/10 Scaruffi.
+**"The Campfire Headphase" (2005) — Sputnikmusic Best Albums 2005** : #191, 78 AOTY.

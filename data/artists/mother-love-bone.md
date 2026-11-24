@@ -44,4 +44,4 @@
 **Band Hiatus After Death** : Mother Love Bone was an acclaimed Seattle band that entered a "permanent hiatus" following the overdose death of their charismatic lead singer, Andrew Wood. Pearl Jam notably rose from the ashes of this band. "Mother Lovebone, who were on permanent hiatus after the overdose death of their lead singer Andrew Wood." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 
 ## lists
-**"Apple" (1990) — Sputnikmusic Best Albums 1990** : #126, 3.91 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
+**"Apple" (1990) — Sputnikmusic Best Albums 1990** : #126, 3.91 Sputnik.

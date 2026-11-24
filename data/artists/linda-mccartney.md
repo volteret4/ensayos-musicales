@@ -1,6 +1,7 @@
 # artist - Linda McCartney
 
 ## member of
+- Paul McCartney
 - Wings
 
 ## albums

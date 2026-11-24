@@ -1,6 +1,7 @@
 # artist - Chris Martin
 
 ## member of
+- Band Aid
 - Coldplay
 
 ## instruments

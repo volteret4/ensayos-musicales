@@ -6,6 +6,8 @@
 - Shannon Hoon
 
 ## genres
+- Alternative Rock
+- Grunge
 - Rock
 
 ## concerts
@@ -29,6 +31,8 @@
 **No Rain (1992)** : This song, from Blind Melon's self-titled debut album, became massively popular due to its accompanying music video. Shannon Hoon wrote the song for his girlfriend, who was dealing with depression and would often complain that sunny weather removed her excuse to stay indoors. While the song might sound happy, its underlying message is melancholic. "Blimeyellon and No Rain, a song he wrote for his girlfriend, was having a hard time with depression." ← https://www.youtube.com/watch?v=CTZ4FfDVFfE ← blind-melon ← blind-melon
 **No Rain (1992)** : This song is identified as the track that could lead to Blind Melon being labeled a one-hit wonder, a categorization that fans strongly dispute. The band's admirers emphasize the quality and quantity of their other recordings. "You can call Blind Melon, a one hit wonder for no rain." ← https://www.youtube.com/watch?v=d_uDHds2XGQ ← blind-melon ← blind-melon
 **No Rain (1993)** : During a Halloween concert in Vancouver at the Pacific Colosseum on October 31, 1993, while opening-actpourlenty crabbits, frontman Shannon Hoon performed the final three songs, including "No Rain," completely naked. This celebration, fueled by the full moon and party atmosphere, escalated into simulating sex with a bee-costumed roadie and urinating on stage and into the front row audience. "The bee was there because the final song of the set was No Rain, and a bee, of course, figured prominently in the music video." ← https://www.youtube.com/watch?v=dVJuITJyNTU ← blind-melon
+**No Rain (1993)** : This song was described as "Sweet, Jam Band-esque, Revery" and its video starring "The Bee Girl" helped it become a smash. It reached the Top 20 on the Hot 100 chart and hit number one on the Modern Rock chart in late 1993. "whose video starring The Bee Girl made the song a smash." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**No Rain (1993)** : This "jammy" song, which made "the B girl famous," was a number 20 hit in 1993. "Grunge era LA band Blind Melon with their jammy 1993 number 20 hit that made the B girl famous no rain." ← Hit Parade Music History and Music Trivia > One and Done, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **"Bee Girl" Video Success** : Samuel Bayer was hired to direct the music video for a single from their self-titled debut album. He cast his younger sister in the video, dressed in a bumblebee outfit, and the resulting "Bee Girl" video was a "smash," leading to the album selling "like crazy" and the band being taken seriously. "A dude named Samuel Beyer was hired to direct the video for a single from this self-titled debut album. He cast his little sister in the video and had her wear this bumblebee outfit. The video was a smash and the album started telling me like crazy." ← https://www.youtube.com/watch?v=CTZ4FfDVFfE ← blind-melon ← blind-melon
@@ -51,4 +55,4 @@
 **Grammy Award for Best New Artist (1994)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643
 
 ## lists
-**"Blind Melon" (1992) — Sputnikmusic Best Albums 1992** : #128, 3.97 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"Blind Melon" (1992) — Sputnikmusic Best Albums 1992** : #128, 3.97 Sputnik.

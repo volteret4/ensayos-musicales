@@ -8,8 +8,20 @@
 **Producer's Genre** : Philly Soul is characterized as a "producer's genre," underscoring the significant influence of producers like Kenny Gamble and Leon Huff in shaping its signature sound and intricate arrangements, a characteristic that also served as a precursor to the rise of Disco. "Philly's soul is a bit of a producer's genre, also foreshadowing Disco by the way" ← For the Record - The 70s > Ep. 37 - Philly Soul and the Sound of the 70s | https://seventies.libsyn.com/ep-37-philly-soul-and-the-sound-of-the-70s
 **Racial Integration ("Gray Eyed")** : In 1978, Billy Paul described Philadelphia soul as "gray eyed," signifying its inherent and enduring racial integration in both its appeal and composition, thereby challenging racial stereotypes often associated with "black music." "Paul said in 1978 that at that all Philadelphia soul is what he called gray eyed meaning racially integrated and it always has been." ← For the Record - The 70s > Ep. 37 - Philly Soul and the Sound of the 70s | https://seventies.libsyn.com/ep-37-philly-soul-and-the-sound-of-the-70s
 **Signature Element: Strings** : The prominent and "creamy" use of string arrangements is identified as the hallmark of Philly Soul, providing its distinctive and enveloping sound that sets it apart from other soul genres, such as Motown. "Of course, the element that's missing that makes Philly soul, Philly soul are the strings." ← For the Record - The 70s > Ep. 37 - Philly Soul and the Sound of the 70s | https://seventies.libsyn.com/ep-37-philly-soul-and-the-sound-of-the-70s
+**Studio Group and Producers** : MFSB is a studio group associated with the "Philly Soul Sound" and Philadelphia International Records, produced by Kenny Gamble and Leon Huff. They created "TSOP (The Sound of Philadelphia)" as the theme for "Soul Train." "MFSB, the studio group associated with Philadelphia International Records, and the Philly Soul Sound of producers Kenny Gamble and Leon Huff recorded the theme to the premiere black music show Soul Train." ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Philly Melting Pot Influence** : Young Darryl Hall and John Oates grew up in Philadelphia during the 1950s and 60s, a "melting pot" where black and white artists like Chubby Checker and The Dovells coexisted and competed on the charts, forming a formative influence on their later rock and soul sound, particularly in the "pure Philly Soul" elements of songs like "Rich Girl." "This was the melting pot. Young Darryl Franklin Hall...and young John William Oates grew up around in the 1950s and 60s." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Lush Strings as a Chart Staple** : The "lush strings" characteristic of Philly Soul, as popularized by producers like Kenny Gamble, Leon Huff, and Tom Bell, became a "chart staple" that Hall and Oates successfully incorporated into their own hits like "Rich Girl." "With the kind of lush strings Kenny Gamble, Leon Huff, and Tom Bell had made a chart staple." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on Bee Gees' Falsetto** : Barry Gibb's new high-pitched vocal approach was significantly modeled on the Philly Soul sound, specifically citing the high falsetto of Russell Tompkins Jr., lead singer of The Stylistics. "Barry Gibb specifically cited the Philly Soul sound of the stylistics whose lead singer Russell Tompkins Jr sang in an especially high falsetto, a key model for Barry's new vocal approach." ← Hit Parade Music History and Music Trivia > The Nights on Broadway Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Daryl Hall & John Oates
 - Donna Summer
 - Barry White & Love Unlimited Orchestra
+- MFSB
+- Kenny Gamble
+- The Spinners
+- Dionne Warwick
+- Lenny Kravitz
+- Love Unlimited Orchestra
+- Thom Bell
+- The Stylistics

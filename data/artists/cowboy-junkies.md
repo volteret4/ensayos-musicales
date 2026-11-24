@@ -25,4 +25,4 @@
 
 ## lists
 **"The Trinity Session" (1988) — 1001 Albums You Must Hear Before You Die** : #619, 83 AOTY.
-**"The Trinity Session" (1988) — Scaruffi 1980s** : #331, 83 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
+**"The Trinity Session" (1988) — Scaruffi 1980s** : #331, 83 AOTY.

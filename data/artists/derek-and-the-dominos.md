@@ -12,6 +12,7 @@
 **Layla (1971)** : Drummer Jim Gordon is officially credited with co-writing the iconic song "Layla" alongside Eric Clapton, a significant contribution to Derek and the Dominos' acclaimed catalog. "Drummer Jim Gordon, co-wrote Leila with Eric Clapton and Derek in the Dominoes." ← https://www.youtube.com/watch?v=lzwQggT0qR0 ← derek-and-the-dominos ← derek-and-the-dominos
 **Layla (1971)** : This song was the single hit from the album "Layla and Other Assorted Love Songs" and was co-written by drummer Jim Gordon. It became a timeless track. "There was just a single hit from the album, but it was one for the ages. Laila, which Jim Gordon co-rode." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← derek-and-the-dominos
 **Layla (1971)** : Eric Clapton's "fiery" hit with Derek and the Dominos was later covered in a slowed-down, unplugged version by Clapton himself, which became a big chart hit and earned him Grammy recognition. "his fiery Derek and the Domino's hit, Leila." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
+**Layla (1971)** : This 7-minute screamer, led by Eric Clapton, initially struggled on the pop charts with a 3-minute, subdivided single version peaking at number 51 in 1971. It was heavily promoted to Album Oriented Rock (AOR) radio. A year later, a reissued full 7-minute version on a single, designed to promote a Clapton anthology, found success on the Hot 100, peaking at number 10 in 1972 and becoming a pop hit. "The subdivided Laila single could only manage a number 51 peak on the hot 100 in 1971." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Layla (1972)** : This song is mentioned as a comparison to Miguel's "Sure Thing," illustrating how a track can cross over from rock listeners to pop fans, as "Layla" did in 1972. "not unlike Layla crossing from rock listeners to pop fans in 1972." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c42e
 
 ## curiosities
@@ -22,5 +23,5 @@
 
 ## lists
 **"Layla and Other Assorted Love Songs" (1970) — 1001 Albums You Must Hear Before You Die** : #175.
-**"Layla and Other Assorted Love Songs" (1970) — AOTY Must Hear 1970s** : #232. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Layla and Other Assorted Love Songs" (1970) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #226. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
+**"Layla and Other Assorted Love Songs" (1970) — AOTY Must Hear 1970s** : #232.
+**"Layla and Other Assorted Love Songs" (1970) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #226.

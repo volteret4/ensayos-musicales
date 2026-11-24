@@ -14,10 +14,18 @@
 - Rap Rock
 - Rock
 - Thrash Metal
+- Thrash Rock
 
 ## concerts
 - **Lollapalooza 1991 Appearance** : Ice-T performed with Body Count at the 1991 Lollapalooza Festival, an appearance that "blew everyone's mind" due to its rap and rock fusion. "Iced Tea blew everyone's mind with his appearance on the 1991 Lama Pulusa Festival. He rapped, but he also rocked with his new band Body Count."
 - Lollapalooza (1991)
+
+## albums
+**Body Count (1992)** : This debut album by Ice-T's thrash rock band spawned significant protests from police unions due to the controversial track "Cop Killer." Despite not being a rap group, the media often misidentified Body Count as such, framing the controversy within the ongoing "culture war" surrounding gangster rap. ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Body Count (1992)** : The album was reissued after Ice-T announced the removal of a track due to controversy. In the new Soundscan era, this reissuing caused the album to rise to a new chart peak, which was more accurately tracked by Billboard's album chart. "What was interesting for chart fans in the new Soundscan era was that this caused the Body Count album to rise to a new chart peak." ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## songs
+**Cop Killer (1992)** : This controversial track from Body Count's self-titled debut album led to widespread protests from police unions. The media's focus on this song, and its misattribution to the rap genre, intertwined it with the "culture war" surrounding gangster rap, despite Body Count being a thrash rock band. ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **"Cop Killer" Controversy (1992)** : The song "Cop Killer" became highly controversial, widely perceived as an attack on police forces, escalating into a significant First Amendment debate in the U.S. and drawing parallels to the Black Lives Matter movement. "And there were provocations like the song Cop Killer, which was taken as an an attack on police forces everywhere. Metal thing blew up into a big first amendment debate in the US, which had many of the same elements as the Black Lives Matter movement." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← body-count
@@ -38,3 +46,4 @@
 **Lollapalooza 1991 Performer** : Ice-T & Body Count were part of the lineup for the first Lollapalooza tour in the summer of 1991, a tour that, despite initial ticket sales challenges, convinced promoters to continue the festival due to its success in drawing crowds of 20,000 people. "Along with founding band Jane's addiction, the line up included Suzy and the band sheets, living color, iced tea and body count, butthole surfers, Rawens band and some weirdo group that was never going to go anywhere called Nine-inch Nails." ← https://www.youtube.com/watch?v=2wZydttn4Cs ← ice-t-body-count
 **1990s Industrial Rap Momentum** : Ice-T's Body Count is mentioned as an artist that contributed to the momentum of Industrial Hip Hop in the 1990s, through their fusion of rap and rock elements. "Ice Teas Body Counts" ← https://www.youtube.com/watch?v=tdTs-4Irv8c ← ice-ts-body-count
 **Lollapalooza Performance (1991)** : Body Counts was among the bands performing at the first Lollapalooza festival, an initiative to bring the alternative music scene to a wider audience in America. "It featured Jane's Addiction as the headliners along with up and coming bands like Nine Inch Nails and the Rollins Band along with Ice Tea and Body Counts and the Butthole Surfers and Suzy and the Banshees and more." ← https://www.youtube.com/watch?v=xdn31jMOOA4 ← body-counts
+**Culture War Misattribution** : Although Body Count was a thrash rock band, the media often overlooked this genre detail and "pegged the project as another chapter in America's culture war with gangster rap," largely due to Ice-T's background as a rapper and the controversy surrounding their song "Cop Killer." ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/

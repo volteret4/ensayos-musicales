@@ -11,5 +11,8 @@
 **Every Time I Think of You (1979)** : Released in January 1979 in the US, this song reached number 13 on the Billboard Hot 100 and was a Top 10 hit in both Canada and Australia, demonstrating its global popularity. John Waite was on lead vocals for the track. "It made its number 13 on the Billboard Hot 100. It was Top 10 in Canada. It was Top 10 in Australia." ← For the Record - The 70s > Ep. 34 - A 70s Pop Manifesto - Finding Meaning in 70s Pop | https://seventies.libsyn.com/ep-34-a-70s-pop-manifesto-finding-meaning-in-70s-pop ← the-babys
 **Every Time I Think of You (1979)** : Released in January 1979 in the US, this song reached number 13 on the Billboard Hot 100 and was a Top 10 hit in both Canada and Australia, demonstrating its global popularity. John Waite was on lead vocals for the track. "It made its number 13 on the Billboard Hot 100. It was Top 10 in Canada. It was Top 10 in Australia." ← For the Record - The 70s > Ep. 34 - A 70s Pop Manifesto - Finding Meaning in 70s Pop | https://seventies.libsyn.com/ep-34-a-70s-pop-manifesto-finding-meaning-in-70s-pop
 
+## curiosities
+**Chart History and Breakup** : The Babys, featuring John Waite as their former leader, bassist, and lead singer, achieved eight chart hits and three top forties before breaking up in 1981. "The babies had eight chart hits and three top forties. Then in 1981 the group broke up." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## charts
 **"Everytime I Think of You" — Billboard Year-End Hot 100** : #89, 1979. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

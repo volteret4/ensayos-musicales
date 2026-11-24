@@ -1,5 +1,8 @@
 # artist - Thundercat
 
+## members
+- Steven Lee Bruner
+
 ## genres
 - Electronic
 - Funk
@@ -15,6 +18,9 @@
 **Drunk (2017)** : This wonderful album showcases influences from classic jazz, soul, and Southern funk, demonstrating that this type of music continues to evolve rather than remaining stuck in the past. It incorporates influences from experimental electronic music, experimental jazz, and various funk movements. "este disco que ha sacado es maravilloso ya no estamos acostumbrados a tener discos con influencias del jazz y del soul y del fan más clásico más su reño te hacen dar cuenta que aunque realmente no esté hoy tan de moda o tan en tendencia este tipo de música esa música sigue evolucionando no se ha quedado entrar en el pasado que sigue incorporando influencias de la electrónica del jazz más experimental e incluso de muchos movimientos fankeys." ← Music Radar Clan > Mejores discos del 2017 | https://www.youtube.com/watch?v=T34CwsFmXpI&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← thundercat
 **It Is What It Is (2020)** : This album, released in 2020, earned Thundercat a Grammy Award of his own, recognizing his solo work as a bass player, singer, producer, and songwriter. "And he's got a Grammy of his own for his 2020 album It Is What It Is." ← https://www.youtube.com/watch?v=_1NNvxgx8uA ← thundercat ← thundercat
 **It Is What It Is (2020)** : This album, released in 2020, earned Thundercat a Grammy Award of his own, recognizing his solo work as a bass player, singer, producer, and songwriter. "And he's got a Grammy of his own for his 2020 album It Is What It Is." ← https://www.youtube.com/watch?v=_1NNvxgx8uA ← thundercat
+
+## songs
+**Show You the Way (2016)** : In 2016, LA bassist and songwriter Steven Lee Bruner (Thundercat) wrote this song as a "new throwback to the yacht sound." He invited both Michael McDonald and Kenny Loggins to sing on it, creating a multi-generational collaboration that honored the genre. "LA bassist and songwriter Steven Lee Bruner, aka Thundercat, went further, writing a new throwback to the yacht sound called Show You the Way." ← Hit Parade Music History and Music Trivia > What a Fool Believes, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Amazement with *To Pimp a Butterfly* Project** : Thundercat expressed deep admiration and astonishment for the *To Pimp a Butterfly* project, having worked on it. His reactions reflect the profound impact and unique artistic vision that Kendrick Lamar brought to the album. "tenemos muchas entrevistas de mucha gente que trabajó en este disco como Flying Lotus, como el propio Thundercat." ← Music Radar Clan > Kendrick Lamar：  To pimp a butterfly | https://www.youtube.com/watch?v=ENmSJbhbGeo&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← thundercat ← thundercat
@@ -35,5 +41,5 @@
 **Grammy Award for Best Progressive R&B Album (2021) — It Is What It Is** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5593896
 
 ## lists
-**"Drunk" (2017) — AOTY Must Hear 2010s** : #336, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"It Is What It Is" (2020) — AOTY Must Hear 2020s** : #664, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
+**"Drunk" (2017) — AOTY Must Hear 2010s** : #336, 80 AOTY.
+**"It Is What It Is" (2020) — AOTY Must Hear 2020s** : #664, 80 AOTY.

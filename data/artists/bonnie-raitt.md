@@ -44,6 +44,7 @@
 **Rock and Roll Hall of Fame Induction** : Bonnie Raitt is a member of the Rock and Roll Hall of Fame, recognized for her contributions as one of the greatest slide guitar players. "So for Bonnie Raight, a member of the Rock and Roll Hall of Fame, and one of the greatest slide guitar players ever, and who is at her very core a blues artist, well, no company, record company is going to have the desire or be the clue to know what to do with her." ← For the Record - The 70s > Ep. 7 - Women Who Rocked the 70s | http://www.ftr70.com ← bonnie-raitt
 **Career Reboot - Grammy Win (1990)** : Bonnie Raitt's career underwent a dramatic transformation after her "Nick of Time" album won Album of the Year at the 1990 Grammy Awards, marking her as the "recording Academy's best Cinderella story." Prior to this, she had been toiling since the early 70s without a top 40 pop hit or top 20 LP, battling drug and alcohol addiction, from which she got sober in the late 80s. The Grammy win rebooted her career, turning her into a pop star at age 40, leading to consistent top 20 album chart placements and top 40 hits throughout the 90s. "You can literally divide Bonnie Rates' career into before she won the Grammy and after she won the Grammy." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
 **Sobriety and Label Change (Late 1980s)** : In the late 1980s, Bonnie Raitt battled and overcame drug and alcohol addiction, getting sober, and subsequently signed with a new label, Capital Records, just before the release of her career-defining album "Nick of Time." "She had battled drug and alcohol addiction, got sober in the late 80s and signed to a new label, Capital Records." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
+**New to Lilith Veteran** : Bonnie Raitt was among the "new to Lilith veterans" who joined the expanding lineup for Lilith Fair in 1998. Her presence, along with Sinéad O'Connor, added established talent to the festival. "including 1998 co-headliner Natalie Merchant, and new to Lilith veterans like Bonnie Great, and Shenato Conner." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **honorary doctor of the Berklee College of Music** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q112241213
@@ -63,8 +64,8 @@
 
 ## lists
 **"Nick of Time" (1989) — 1001 Albums You Must Hear Before You Die** : #656.
-**"Dig In Deep" (2016) — AOTY Must Hear 2010s** : #437, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Nick of Time" (1989) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #492. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Give It Up" (1972) — Scaruffi 1970s** : #195, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Luck of the Draw" (1991) — Grammy Award: Album of the Year nominees** : #1992. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Longing in Their Hearts" (1994) — Grammy Award: Album of the Year nominees** : #1995. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
+**"Dig In Deep" (2016) — AOTY Must Hear 2010s** : #437, 81 AOTY.
+**"Nick of Time" (1989) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #492.
+**"Give It Up" (1972) — Scaruffi 1970s** : #195, 7.0/10 Scaruffi.
+**"Luck of the Draw" (1991) — Grammy Award: Album of the Year nominees** : #1992.
+**"Longing in Their Hearts" (1994) — Grammy Award: Album of the Year nominees** : #1995.

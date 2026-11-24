@@ -16,9 +16,9 @@
 **Tragic Passing (2021)** : Sophie passed away in 2021 due to a tragic accident, but her legacy continues to grow each year. "Por desgracia, Sophie nos dejó en 2021 otra sontragico accidente, pero su legado sigue creciendo cada año." ← 5 Discos Para Entrarle al HYPERPOP | https://www.youtube.com/watch?v=wP8MaC-2D8A
 
 ## lists
-**"OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM" (2019) — AOTY Must Hear 2010s** : #51, 84 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"OIL OF EVERY PEARL’S UN‐INSIDES" (2018) — AOTY Must Hear 2010s** : #172. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"PRODUCT" (2015) — AOTY Must Hear 2010s** : #453, 77 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"PRODUCT" (2015) — AOTY Must Hear 2020s** : #80, 77 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"OIL OF EVERY PEARL’S UN‐INSIDES" (2018) — Pitchfork: The 200 Best Albums of the 2010s** : #74. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"OIL OF EVERY PEARL’S UN‐INSIDES" (2018) — Resident Advisor: The Best Electronic Records of 2000-25** : #3. ← musicbrainz | https://beta.musicbrainz.org/series/256f2672-a51d-4824-a07f-ae79c5840268
+**"OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM" (2019) — AOTY Must Hear 2010s** : #51, 84 AOTY.
+**"OIL OF EVERY PEARL’S UN‐INSIDES" (2018) — AOTY Must Hear 2010s** : #172.
+**"PRODUCT" (2015) — AOTY Must Hear 2010s** : #453, 77 AOTY.
+**"PRODUCT" (2015) — AOTY Must Hear 2020s** : #80, 77 AOTY.
+**"OIL OF EVERY PEARL’S UN‐INSIDES" (2018) — Pitchfork: The 200 Best Albums of the 2010s** : #74.
+**"OIL OF EVERY PEARL’S UN‐INSIDES" (2018) — Resident Advisor: The Best Electronic Records of 2000-25** : #3.

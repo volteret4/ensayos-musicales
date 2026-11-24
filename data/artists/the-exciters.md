@@ -1,5 +1,11 @@
 # artist - The Exciters
 
+## members
+- Three female vocalists
+
+## genres
+- Pop
+
 ## labels
 - Red Bird Records
 
@@ -9,6 +15,7 @@
 ## songs
 **Doo Wah Diddy (1964)** : This song, written by Jeff Barry and Ellie Greenwich, was originally called "Doo Warr Diddy." The Exciters' version took it into "more conventional girl group territory" with a soulful vocal and backing vocal call and response, resembling schoolyard chanting games. Sadly, their record only reached number 78 on the chart. "The Excitez version of the song took it into more conventional girl group territory, with a strong, soulful vocal, but with the group's backing vocal call and response chant, showing up the song's resemblance to the kind of schoolyard chanting games, which were, of course, the basis of the very first girl group records." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
 **Tell Him (1962)** : The Exciters' hit song, which reached the top five. This record notably "excited a young British folk singer who was in the US at the time to record an album with her group The Springfields, that she completely reworked her entire style, went solo, and kickstarted a solo career singing pop soul songs under the name Dusty Springfield." "They'd had a hit in 1962 with a Bird Burn song, tell him which made the top five." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
+**Tell Him (1962)** : This classic song was the sole Top 10 hit for The Exciters, a black quartet from Jamaica, New York, reaching number four in 1962. "the Exciders, a black quartet from Jamaica, New York led by three female vocalists only hit the top ten once, but it was with a classic, 1962's number four hit, Tell Him." ← Hit Parade Music History and Music Trivia > Be My Baby-Baby-Baby Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Discovery and Influence** : The Exciters were one of the great girl groups of the early 60s, discovered by Leiber and Stoller, who signed them to Red Bird Records. They had a significant influence on pop music, particularly through their hit "Tell Him," which inspired Dusty Springfield to change her style and go solo. "They had been discovered by Libre and Stoller, who had signed them to Red Bird Records. A label were looking at him much more detail in an upcoming episode, and they'd had a hit in 1962 with a Bird Burn song, tell him which made the top five." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
@@ -16,3 +23,4 @@
 **Opening Act for The Beatles (1964)** : The Exciters performed as one of the opening bands for The Beatles at Maple Leaf Gardens in Toronto on September 6, 1964. They, along with the other supporting acts, were booed by the crowd, whose sole focus was on seeing The Beatles. "As the opening bands, which included...the exciders...hit the stage to crowd-bood, they only wanted one band, and one band only." ← https://www.youtube.com/watch?v=2IDbX5rNT1E ← the-exciters ← the-exciters
 **Touring with The Beatles (Summer 1964)** : Despite never having another top 40 hit after "Tell Him," The Exciters became popular enough among British music lovers that The Beatles asked them to open for their American tour in the summer of 1964. "Most of the exciteers records were of songs written by the more Arvand B. End of the Bill Building songwriters. They would record several more Bird Burn songs, and some by Richie Barrett. But the song that would become their most well known legacy was actually written by Jeff Barry and Ellie Greenwich." ← Episode 118： ＂Do-Wah-Diddy-Diddy＂ by Manfred Mann | https://www.youtube.com/watch?v=QAP7abAbwwM
 **Opening Act for The Beatles (1964)** : The Exciters performed as one of the opening bands for The Beatles at Maple Leaf Gardens in Toronto on September 6, 1964. They, along with the other supporting acts, were booed by the crowd, whose sole focus was on seeing The Beatles. "As the opening bands, which included...the exciders...hit the stage to crowd-bood, they only wanted one band, and one band only." ← https://www.youtube.com/watch?v=2IDbX5rNT1E ← the-exciters
+**Limited Top Ten Success** : This black quartet from Jamaica, New York, despite their classic hit "Tell Him," only cracked the Top 10 once. "the Exciders, a black quartet from Jamaica, New York led by three female vocalists only hit the top ten once." ← Hit Parade Music History and Music Trivia > Be My Baby-Baby-Baby Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/

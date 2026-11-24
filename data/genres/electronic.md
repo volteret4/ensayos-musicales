@@ -121,3 +121,10 @@
 - Sting
 - Yani
 - Giorgio Moroder
+- Jan Hammer
+- Talking Heads
+- Madonna
+- Blondie
+- George Michael
+- Donna Summer
+- Daryl Hall & John Oates

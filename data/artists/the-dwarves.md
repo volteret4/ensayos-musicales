@@ -11,6 +11,6 @@
 **Simulated and Real Sex Acts On Stage** : Their live shows are notorious for featuring both simulated and real sex acts on stage. "And don't be surprised to see both simulated and real sex acts on stage." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← the-dwarves
 
 ## lists
-**"Blood Guts & Pussy" (1990) — Scaruffi 1990s** : #632, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Thank Heaven For Little Girls" (1991) — Scaruffi 1990s** : #633, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Blood, Guts, and Pussy" (1990) — Sputnikmusic Best Albums 1990** : #186, 3.77 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
+**"Blood Guts & Pussy" (1990) — Scaruffi 1990s** : #632, 7.0/10 Scaruffi.
+**"Thank Heaven For Little Girls" (1991) — Scaruffi 1990s** : #633, 7.0/10 Scaruffi.
+**"Blood, Guts, and Pussy" (1990) — Sputnikmusic Best Albums 1990** : #186, 3.77 Sputnik.

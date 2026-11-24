@@ -27,19 +27,19 @@
 
 ## lists
 **"A Love Supreme" (1965) — 1001 Albums You Must Hear Before You Die** : #53, 100 AOTY.
-**"Blue Train" (1958) — AOTY Must Hear 1950s** : #12, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1950s/
-**"Meditations" (1966) — AOTY Must Hear 1960s** : #64, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"Ascension [Edition I]" (1966) — AOTY Must Hear 1960s** : #68, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"A Love Supreme" (1965) — AOTY Must Hear 1960s** : #79, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"John Coltrane and Johnny Hartman" (1963) — AOTY Must Hear 1960s** : #85, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"Olé Coltrane" (1961) — AOTY Must Hear 1960s** : #92, 70 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"Africa/Brass" (1961) — AOTY Must Hear 1960s** : #93, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"My Favorite Things" (1961) — AOTY Must Hear 1960s** : #94, 95 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"Giant Steps" (1960) — AOTY Must Hear 1960s** : #99, 95 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"The Olatunji Concert: The Last Live Recording" (2001) — AOTY Must Hear 2000s** : #438, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"A Love Supreme" (1965) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #66, 100 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Giant Steps" (1960) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #232, 95 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"A Love Supreme" (1965) — Pitchfork: The 200 Best Albums of the 1960s** : #3, 100 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
-**"Giant Steps" (1960) — Pitchfork: The 200 Best Albums of the 1960s** : #36, 95 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
-**"Live at Birdland" (1964) — Pitchfork: The 200 Best Albums of the 1960s** : #128. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
-**"Olé Coltrane" (1961) — Pitchfork: The 200 Best Albums of the 1960s** : #150, 70 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Blue Train" (1958) — AOTY Must Hear 1950s** : #12, 100 AOTY.
+**"Meditations" (1966) — AOTY Must Hear 1960s** : #64, 85 AOTY.
+**"Ascension [Edition I]" (1966) — AOTY Must Hear 1960s** : #68, 90 AOTY.
+**"A Love Supreme" (1965) — AOTY Must Hear 1960s** : #79, 100 AOTY.
+**"John Coltrane and Johnny Hartman" (1963) — AOTY Must Hear 1960s** : #85, 90 AOTY.
+**"Olé Coltrane" (1961) — AOTY Must Hear 1960s** : #92, 70 AOTY.
+**"Africa/Brass" (1961) — AOTY Must Hear 1960s** : #93, 83 AOTY.
+**"My Favorite Things" (1961) — AOTY Must Hear 1960s** : #94, 95 AOTY.
+**"Giant Steps" (1960) — AOTY Must Hear 1960s** : #99, 95 AOTY.
+**"The Olatunji Concert: The Last Live Recording" (2001) — AOTY Must Hear 2000s** : #438, 90 AOTY.
+**"A Love Supreme" (1965) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #66, 100 AOTY.
+**"Giant Steps" (1960) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #232, 95 AOTY.
+**"A Love Supreme" (1965) — Pitchfork: The 200 Best Albums of the 1960s** : #3, 100 AOTY.
+**"Giant Steps" (1960) — Pitchfork: The 200 Best Albums of the 1960s** : #36, 95 AOTY.
+**"Live at Birdland" (1964) — Pitchfork: The 200 Best Albums of the 1960s** : #128.
+**"Olé Coltrane" (1961) — Pitchfork: The 200 Best Albums of the 1960s** : #150, 70 AOTY.

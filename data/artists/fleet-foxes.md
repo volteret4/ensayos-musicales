@@ -15,13 +15,13 @@
 **MOJO Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3319330
 
 ## lists
-**"Fleet Foxes" (2008) — AOTY Must Hear 2000s** : #84, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Sun Giant" (2008) — AOTY Must Hear 2000s** : #97, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Crack-Up" (2017) — AOTY Must Hear 2010s** : #292, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Helplessness Blues" (2011) — AOTY Must Hear 2010s** : #849, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Shore" (2020) — AOTY Must Hear 2020s** : #617, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Fleet Foxes" (2008) — Scaruffi 2000s** : #374, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Helplessness Blues" (2011) — Pitchfork: The 200 Best Albums of the 2010s** : #135, 83 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"Helplessness Blues" (2011) — Sputnikmusic Best Albums 2011** : #43, 83 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2011/
-**"Crack-Up" (2017) — Sputnikmusic Best Albums 2017** : #82, 81 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2017/
-**"Shore" (2020) — Sputnikmusic Best Albums 2020** : #136, 82 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2020/
+**"Fleet Foxes" (2008) — AOTY Must Hear 2000s** : #84, 7.0/10 Scaruffi.
+**"Sun Giant" (2008) — AOTY Must Hear 2000s** : #97, 85 AOTY.
+**"Crack-Up" (2017) — AOTY Must Hear 2010s** : #292, 81 AOTY.
+**"Helplessness Blues" (2011) — AOTY Must Hear 2010s** : #849, 83 AOTY.
+**"Shore" (2020) — AOTY Must Hear 2020s** : #617, 82 AOTY.
+**"Fleet Foxes" (2008) — Scaruffi 2000s** : #374, 7.0/10 Scaruffi.
+**"Helplessness Blues" (2011) — Pitchfork: The 200 Best Albums of the 2010s** : #135, 83 AOTY.
+**"Helplessness Blues" (2011) — Sputnikmusic Best Albums 2011** : #43, 83 AOTY.
+**"Crack-Up" (2017) — Sputnikmusic Best Albums 2017** : #82, 81 AOTY.
+**"Shore" (2020) — Sputnikmusic Best Albums 2020** : #136, 82 AOTY.

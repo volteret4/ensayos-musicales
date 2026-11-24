@@ -4,6 +4,7 @@
 - Tim Armstrong
 
 ## genres
+- Alt Rock
 - American Punk Rock
 - British Punk
 - Grunge
@@ -12,6 +13,8 @@
 - Punk
 - Punk Rock
 - Ska
+- Ska Punk
+- Skate Punk
 
 ## labels
 - Epitaph
@@ -26,12 +29,15 @@
 
 ## albums
 **...And Out Come the Wolves (1995)** : Released in the summer of 1995, this third album by Rancid was a platinum seller that effectively bridged the grunge scene and punk, while also bringing back the dependable Ska feel. The band's rise was part of the punk revival, alongside groups like Green Day and The Offspring, and it played a significant role in the third wave of Ska. "In the summer of 1995, they released their third album and Outcome the Wolves. And it bridged everything from the grunge scene and punk, as well as bringing back the old dependable SCAT feel. And the result was a platinum album." ← https://www.youtube.com/watch?v=WX2GlpMNg_8 ← rancid ← rancid
+**...And Out Come the Wolves (1995)** : This album, Rancid's third for Epitaph Records, was their breakthrough in 1995. It quickly went gold and eventually platinum, boosted by the hit song "Time Bomb." "Grancel, a band founded in 1991 by members of the former Operation Ivy, had their breakthrough in 1995 with their third Epitaph album and Outcome The Wolves." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Let's Go (1994)** : This was Rancid's second album, released on June 21, 1994. The band maintained their punk rock ethics by staying with Epitaph but agreed to a strategic compromise where Warner Brothers, a major label, would distribute and "stealthily promote" their records. "Ransett met the industry halfway. They stayed with epitaph, which pleased bad religion and preserved their punk rock ethics, but they agreed to have their epitaph records distributed and stealthily promoted by Warner Brothers, one of the majors." ← https://www.youtube.com/watch?v=gkLMwrthZ9s ← rancid
 **Let's Go (1994)** : Released five months after Green Day's *Dookie*, *Let's Go* benefited from the burgeoning appetite for resurrected American punk rock. While not reaching the massive sales of *Dookie*, it peaked at number 97 on the album charts and sold over half a million copies, a significant achievement for an indie band. "Ranset from Let's Go, their second album which came out five months after Duckey. Good timing because by then there was this growing appetite for this new resurrected form of American punk rock." ← https://www.youtube.com/watch?v=0QtMI00T5jw ← rancid ← rancid
 **Life Won't Wait (1998)** : The 1998 album _Life Won't Wait_ includes the song "Turn Table." "It's from Rancid's 1998 album, Life Won't Wait." ← https://www.youtube.com/watch?v=IIJySSo276k ← rancid
 
 ## songs
 **Salvation (1994)** : This track is from Rancid's 1994 album, Let's Go. "Rancid and Salvation from there, let's go album." ← https://www.youtube.com/watch?v=pE7TaWSUa-o ← rancid
+**Time Bomb (1995)** : This track was one of the radio hits scored by Rancid, a Berkeley band regarded as heroes and veterans of the ska punk scene. Its success demonstrated the progressive rise of ska punk on modern rock radio. "Heroes and veterans of the scene, like Berkeley band Rancid, were finally scoring radio hits like Timebomb." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Time Bomb (1995)** : This hit single went Top 10 at Modern Rock, contributing to the rapid success of Rancid's album *...And Out Come the Wolves*, which quickly achieved gold and then platinum status. "The hit Time Bomb went Top 10 at Modern Rock and the album quickly went gold and eventually platinum." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Turn Table** : Featured on their 1998 album _Life Won't Wait_, this song is noted for its connection to turntables, as implied by its title and the lyrics: "Has it assistance? Your assistance? Your watch will get dust. It's the whole, it's the whole, it's the best of all the bad things out. Come on, everybody. Let's get together high and ball the bad trouble hits." "In fact, it's called Turn Table." ← https://www.youtube.com/watch?v=IIJySSo276k ← rancid
 
 ## curiosities
@@ -51,6 +57,9 @@
 **Origins and Green Day's Support** : Rancid, a Bay Area band, formed in 1991 following the disbandment of Operation Ivy, which Green Day members Billy Joe Armstrong and Mike Dirnt had been big fans of. As Green Day gained prominence, they actively promoted Rancid, drawing them into the mainstream spotlight. "Ranset came together in 1991 once Op Ivy disbanded after a couple of years, and as Green Day was blowing up, they chatted up Ranset whenever they could." ← https://www.youtube.com/watch?v=0QtMI00T5jw ← rancid ← rancid
 **Tim Armstrong's Support for Famous Stars and Straps** : Tim Armstrong of Rancid is noted for publicly wearing gear from Travis Barker's clothing company, Famous Stars and Straps, helping to promote the brand. This shows support among musicians for each other's entrepreneurial ventures. "If you look carefully, you can see Travis's gear on you guys like Tim Armstrong of Ransid". ← https://www.youtube.com/watch?v=WIFxAaReLn0 ← rancid
 **Collaboration with Pink** : Tim Armstrong, the frontman for this Bay Area punk band, produced and co-wrote two-thirds of Pink's third album, "Try This," released in 2003. This collaboration marked a significant shift for Pink into a harder rock sound. "Tim Armstrong, frontman for the Bay Area punk band, Rancid, produced and co-wrote two-thirds of Try This." ← Hit Parade Music History and Music Trivia > Raise Your Glass Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f7364fe6d21276e441d
+**Ska Punk Scene Veterans** : Rancid, a band from Berkeley, were considered heroes and veterans of the ska punk scene who were finally achieving radio hits as ska punk gained progressive traction on modern rock radio. "Heroes and veterans of the scene, like Berkeley band Rancid, were finally scoring radio hits like Timebomb." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mid-90s American Dominance** : Rancid was one of the bands dominating the mid-90s in America with Skate Punk (referred to as "Scott Punk" in transcript), filling the void left after Kurt Cobain's death and bypassing Britpop. "Scott Punk from bands like Rancid." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Operation Ivy Lineage** : Rancid was founded in 1991 by members of the former ska punk band Operation Ivy. "Grancel, a band founded in 1991 by members of the former Operation Ivy" ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
-**"Let's Go" (1994) — Scaruffi 1990s** : #1074, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Let's Go" (1994) — Scaruffi 1990s** : #1074, 7.0/10 Scaruffi.

@@ -30,11 +30,12 @@
 **Influence on Emo** : The band's music is noted for pointing in the direction of what would later become emo as early as the mid-1980s. "Fourth, if you dig back far enough, you'll see that Miner Threat pointed in the direction of what would become emo as early as the mid-1980s." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← minor-threat
 **Predecessor to Embrace** : Ian MacKaye was a member of this hardcore band before he was inspired to leave and form Embrace, a proto-emo group. "Everyone was inspired to leave his hardcore band called Minor Threat to form a proto-emo group called Embrace." ← https://www.youtube.com/watch?v=v_am7ifh7Pk ← minor-threat
 **Origin of Straight Edge Movement** : Ian MacKaye was a central figure in the straight edge movement, a philosophy promoting a life without alcohol, drugs, or promiscuous sex, which continues as a lifestyle for many today. "And fifth, McKay was a big part of this straight edge movement. No alcohol, no drugs of any kind, no promiscuous sex." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← minor-threat
+**Early 80s Hardcore Scene Influence** : Minor Threat was a seminal band deeply ingrained in the Washington D.C. early 80s hardcore scene. Despite their hardcore punk sound, frontman Ian MacKaye's lyrics often contained heart-on-sleeve sentiments that were not typically associated with the punk genre at the time, marking them as an early precursor to emo. "a closer listen to frontman Ian McCye's lyrics revealed heart-on-sleeve sentiments, not normally associated with punk." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Out of Step" (1983) — 1001 Albums You Must Hear Before You Die** : #534, 90 AOTY.
-**"Out of Step" (1983) — AOTY Must Hear 1980s** : #135, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Minor Threat" (1981) — AOTY Must Hear 1980s** : #170, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Minor Threat" (1981) — AOTY Must Hear 2010s** : #640, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Out of Step" (1983) — Scaruffi 1980s** : #574, 90 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Complete Discography" (1989) — Pitchfork: The 200 Best Albums of the 1980s** : #23. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"Out of Step" (1983) — AOTY Must Hear 1980s** : #135, 90 AOTY.
+**"Minor Threat" (1981) — AOTY Must Hear 1980s** : #170, 100 AOTY.
+**"Minor Threat" (1981) — AOTY Must Hear 2010s** : #640, 100 AOTY.
+**"Out of Step" (1983) — Scaruffi 1980s** : #574, 90 AOTY.
+**"Complete Discography" (1989) — Pitchfork: The 200 Best Albums of the 1980s** : #23.

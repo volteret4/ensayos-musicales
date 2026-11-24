@@ -12,4 +12,4 @@
 **UK Hardcore Scene** : GBH is mentioned as a band from the UK hardcore scene, which incorporated D-Beat and influences from British punk and New Wave of British Heavy Metal. "You might have run across band names like GbH and the Exploited," ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← gbh
 
 ## lists
-**"City Baby Attacked By Rats" (1982) — Scaruffi 1980s** : #437, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"City Baby Attacked By Rats" (1982) — Scaruffi 1980s** : #437, 7.0/10 Scaruffi.

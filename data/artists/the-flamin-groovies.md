@@ -9,4 +9,4 @@
 
 ## lists
 **"Teenage Head" (1971) — 1001 Albums You Must Hear Before You Die** : #234.
-**"Teenage Head" (1971) — Scaruffi 1970s** : #286. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Teenage Head" (1971) — Scaruffi 1970s** : #286.

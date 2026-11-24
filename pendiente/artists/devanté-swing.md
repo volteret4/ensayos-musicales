@@ -1,0 +1,13 @@
+# artist - Devanté Swing
+
+## labels
+- Uptown Records
+
+## songs
+**Brand New (1994)** : Devanté Swing co-produced this hip-hop soul jam for the group Sista, featuring Missy Elliott on vocals, alongside Timbaland. Although it reached a modest number 84 on the R&B chart, its poor performance led to Elektra shelving Sista's album. "co-produced by Devante Swing and Timbaland." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## curiosities
+**Formation of Debasement (Mid 1990s)** : Donald DeGrate, also known as Devanté Swing and the main songwriter for Jodeci, established his own production house called Debasement. He signed Missy Elliott's girl group Phase (renaming them Sista) and Tim Mosley (Timbaland) to this venture. "Jodicy's main songwriter, Donald DeGrate, aka Devante Swing, was forming his own production house called Debacement." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mentorship and Naming (Mid 1990s)** : Devanté Swing moved his new protégés, including Missy Elliott and Tim Mosley, from Virginia Beach to an apartment near his Teaneck, New Jersey studio. He renamed Phase to Sista and bestowed upon Tim the nickname "Timbaland," derived from the hiking shoe popular in the early 90s. "And he gave Tim the nickname Timbaland after the hiking shoe that had taken off in the hood in the early 90s." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Inconsistent Compensation and Neglect (Mid 1990s)** : Timbaland, in his memoir, credited Devanté Swing for what he learned during his nearly three-year apprenticeship in the Debasement circle, but criticized the inconsistent compensation and the frequent neglect when Devanté would "forget about Tim and Missy for months at a time" while Jodeci toured. "I'll always give credit to Devante for what I learned. The problem was that we were not consistently compensated." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Disinterest in "Pony" (Mid 1990s)** : Devanté Swing showed no interest in Timbaland's "weird lurching belching club jam" beat that would later become Ginuwine's hit song "Pony," despite it being considered one of the catchiest things heard in Debasement. "Everyone in debasement who heard the beat considered it one of the catchiest things they'd ever heard, but it didn't sound like a jodicy record. Devante Swing had no interest in it." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/

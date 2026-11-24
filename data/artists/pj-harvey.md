@@ -2,7 +2,9 @@
 
 ## genres
 - Alternative
+- Alternative Rock
 - Art Rock
+- Blues-Derived
 - Cabaret
 - Experimental Folk Rock
 - Folk
@@ -21,6 +23,7 @@
 **Rid of Me (1993)** : In 1992 (actual release 1993), Steve Albini was sought out by the then-little-known Polly Jean Harvey (referred to as "Vijay Harvey") to record her second album, *Rid of Me*. The album starts almost inaudibly, with Polly strumming an unplugged guitar and her voice distant from the microphone, establishing a palpable tension that explodes in the chorus. This recording captured a raw quality that PJ Harvey would never replicate. "En 1992, Albindli se ha arquecido por un antoncés poco conocido, Vijay Harvey para grabar su segundo disco, Ritof Meag." ← 7 discos para entender la producción de STEVE ALBINI | https://www.youtube.com/watch?v=JaRh-z6fLfQ
 **Stories from the City, Stories from the Sea (2001)** : This album earned PJ Harvey her first Mercury Music Prize in 2001. The award ceremony notably took place on September 11, 2001. "If you don't remember the first time, it was for a record called Stories from the City Stories from the Sea back in 2001." ← https://www.youtube.com/watch?v=clPuV7ezrIc ← pj-harvey ← pj-harvey
 **Stories from the City, Stories from the Sea (2001)** : This album, released in 2001, earned PJ Harvey her first Mercury Music Prize. The award ceremony for this album notably took place on September 11, 2001. "it was for a record called Stories from the City Stories from the Sea back in 2001." ← https://www.youtube.com/watch?v=rEawe_1Fqf0 ← pj-harvey ← pj-harvey
+**To Bring You My Love (1995)** : This album, a "blues-derived brainchild," won the Village Voice's Pazz & Jop critics' poll in 1995. As an Art Rocker, PJ Harvey's work deconstructed and reinvented previously male-dominated tropes in rock, earning her significant critical recognition. "And in 1995, Art Rocker PJ Harvey won with her blues-derived brainchild to bring you my love." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## songs
 **Sheela-Na-Gig (1992)** : This song was released as a single from her 1992 album, *Dry*. "This is Sheila Nagig. Paulie, Jean Harvey and Sheila Nagig, a single from a 1992 album called Dry." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI ← pj-harvey ← pj-harvey
@@ -47,6 +50,11 @@
 **Only Two-Time Mercury Music Prize Winner** : PJ Harvey holds the unique distinction of being the only artist to win the Mercury Music Prize twice. Her first win was for "Stories from the City, Stories from the Sea" in 2001, and her second was for "Let England Shake" in 2011. "PJ remains the only person to win the Mercury Prize twice." ← https://www.youtube.com/watch?v=rEawe_1Fqf0 ← pj-harvey ← pj-harvey
 **Rid of Me as a Blueprint for In Utero** : During the recording of *Rid of Me*, Steve Albini was concurrently in negotiations with Nirvana for their album *In Utero*. He sent Nirvana a copy of *Rid of Me* to illustrate his envisioned sound for *In Utero*, serving as a sonic example of his raw production aesthetic. "Es envío una copia de Ritof Meig para mostrarles como quería que son así inútero." ← 7 discos para entender la producción de STEVE ALBINI | https://www.youtube.com/watch?v=JaRh-z6fLfQ
 **Unique Artistic Presence** : In the early 1990s, while Britain was focused on the Manchester Sound and Britpop, PJ Harvey stood apart. By 1991, she was fronting her own band, writing fierce, pointed, self-assured, raw, and angry songs, all while contemplating studying sculpture. "Well the rest of the country was about the Manchester Sound and then Brickpop. PJ was just kind of out there standing alone." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← pj-harvey ← pj-harvey
+**Topped Pazz & Jop Critics' Poll (1995)** : Art rocker PJ Harvey won the Village Voice's Pazz & Jop poll in 1995 with her album *To Bring You My Love*. Her critically acclaimed work was recognized for its "blues-derived" sound and for deconstructing male-dominated tropes in rock. "And in 1995, Art Rocker PJ Harvey won with her blues-derived brainchild to bring you my love." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Modern Rock Top 10 Hit (Mid-1990s)** : PJ Harvey achieved a Modern Rock top 10 hit during the early to mid-90s peak of Gen X Alt Rock. This commercial success underscored her critical acclaim and impact within the alternative music scene. "All three of these acts also scored modern rock top 10 hits during this period." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mid-90s Female Rocker** : PJ Harvey was a "fearless, even coarse rocker" who achieved gold sales on the charts during the mid-90s female rock renaissance. "On the charts such fearless even coarse rockers as Liz Fair and PJ Harvey were going gold" ← Hit Parade Music History and Music Trivia > Hit Parade - The Veronica Electronica Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Fearless Rocker** : PJ Harvey was part of a female rock renaissance in the mid-1990s, described as a "fearless, even coarse rocker" who was achieving gold record sales. "On the charts such fearless even coarse rockers as Liz Fair and PJ Harvey were going gold and Courtney Love, who mourned the loss of husband Kurt Cobain in 1994 by 1995 saw her band, Hull, become a platinum success in its own right." ← Hit Parade Music History and Music Trivia > Madonna - The Veronica Electronica Edition (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
+**Success in 90s Alternative Rock - Chart Performance** : PJ Harvey was among the women who performed "exceedingly well" in the alternative rock genre during the 1990s, charting successfully on both the Modern Rock chart and the Hot 100. "Women like... PJ Harvey... did exceedingly well both on the modern rock chart and eventually on the hot 100 as well." ← Hit Parade Music History and Music Trivia > The Bridge - Farewell, Lilith Fan | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Mercury Prize** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q501876
@@ -57,20 +65,20 @@
 **"Dry" (1992) — 1001 Albums You Must Hear Before You Die** : #732, 87 AOTY.
 **"Rid of Me" (1993) — 1001 Albums You Must Hear Before You Die** : #744, 83 AOTY.
 **"Stories From the City, Stories From the Sea" (2000) — 1001 Albums You Must Hear Before You Die** : #914, 77 AOTY.
-**"Is This Desire?" (1998) — AOTY Must Hear 1990s** : #56, 76 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"To Bring You My Love" (1995) — AOTY Must Hear 1990s** : #249, 91 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Rid of Me" (1993) — AOTY Must Hear 1990s** : #346, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Dry" (1992) — AOTY Must Hear 1990s** : #376, 87 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"White Chalk" (2007) — AOTY Must Hear 2000s** : #122, 79 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Stories From the City, Stories From the Sea" (2000) — AOTY Must Hear 2000s** : #482, 77 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Let England Shake" (2011) — AOTY Must Hear 2010s** : #872, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"I Inside the Old Year Dying" (2023) — AOTY Must Hear 2020s** : #308, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Rid of Me" (1993) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #153, 83 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Stories From the City, Stories From the Sea" (2000) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #313, 77 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Rid of Me" (1993) — Pitchfork: The 150 Best Albums of the 1990s** : #16, 83 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Let England Shake" (2011) — Pitchfork: The 200 Best Albums of the 2010s** : #144, 88 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"Dry" (1992) — Sputnikmusic Best Albums 1992** : #143, 87 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"Rid of Me" (1993) — Sputnikmusic Best Albums 1993** : #59, 83 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
-**"Is This Desire?" (1998) — Sputnikmusic Best Albums 1998** : #59, 76 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1998/
-**"Stories From the City, Stories From the Sea" (2000) — Sputnikmusic Best Albums 2000** : #93, 77 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2000/
-**"Let England Shake" (2011) — Sputnikmusic Best Albums 2011** : #167, 88 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2011/
+**"Is This Desire?" (1998) — AOTY Must Hear 1990s** : #56, 76 AOTY.
+**"To Bring You My Love" (1995) — AOTY Must Hear 1990s** : #249, 91 AOTY.
+**"Rid of Me" (1993) — AOTY Must Hear 1990s** : #346, 83 AOTY.
+**"Dry" (1992) — AOTY Must Hear 1990s** : #376, 87 AOTY.
+**"White Chalk" (2007) — AOTY Must Hear 2000s** : #122, 79 AOTY.
+**"Stories From the City, Stories From the Sea" (2000) — AOTY Must Hear 2000s** : #482, 77 AOTY.
+**"Let England Shake" (2011) — AOTY Must Hear 2010s** : #872, 88 AOTY.
+**"I Inside the Old Year Dying" (2023) — AOTY Must Hear 2020s** : #308, 82 AOTY.
+**"Rid of Me" (1993) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #153, 83 AOTY.
+**"Stories From the City, Stories From the Sea" (2000) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #313, 77 AOTY.
+**"Rid of Me" (1993) — Pitchfork: The 150 Best Albums of the 1990s** : #16, 83 AOTY.
+**"Let England Shake" (2011) — Pitchfork: The 200 Best Albums of the 2010s** : #144, 88 AOTY.
+**"Dry" (1992) — Sputnikmusic Best Albums 1992** : #143, 87 AOTY.
+**"Rid of Me" (1993) — Sputnikmusic Best Albums 1993** : #59, 83 AOTY.
+**"Is This Desire?" (1998) — Sputnikmusic Best Albums 1998** : #59, 76 AOTY.
+**"Stories From the City, Stories From the Sea" (2000) — Sputnikmusic Best Albums 2000** : #93, 77 AOTY.
+**"Let England Shake" (2011) — Sputnikmusic Best Albums 2011** : #167, 88 AOTY.

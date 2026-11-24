@@ -6,6 +6,15 @@
 ## genres
 - Techno Pop
 
+## labels
+- Arista
+
+## albums
+**Here's to Future Days (1985)** : This album was "foundering" after its lead single, "Lay Your Hands On Me," failed to chart in the US in late 1984. Arista executive Clive Davis hired Nile Rogers to rescue the project, and his remix of a hit transformed the album into a success. "The Thompson Twins, whose next album was foundering after its lead single, May Your Hands On Me, Missed The US Charts in late 1984." ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## songs
+**Lay Your Hands On Me (1984)** : The lead single from the album "Here's to Future Days," which failed to make an impact on the US charts in late 1984. "whose next album was foundering after its lead single, May Your Hands On Me, Missed The US Charts in late 1984." ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **British Techno Pop Outfit** : The Thompson Twins are described as a British techno pop outfit prominent in the 1980s. "that British techno pop out fit from the eighties." ← https://www.youtube.com/watch?v=7jMfH9xAOpI ← thompson-twins
 **MTV Era Popularity** : Part of the wave of "fun, fresh music" from the UK that became popular in North America due to exposure on MTV in its early days. "There was Durand Durant and the Human League and Blomage and the Thompson Twins and Soft Cell." ← https://www.youtube.com/watch?v=1KF5MwJVYng ← thompson-twins

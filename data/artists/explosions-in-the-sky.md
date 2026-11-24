@@ -24,4 +24,4 @@
 **Touring Partners** : They have toured with notable bands such as Nine Inch Nails, Fugazi, and Godspeed You! Black Emperor. "They've toured with nine-inch nails, Fugazi, and here's that name again, Godspeed, New Black Emperor." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← explosions-in-the-sky
 
 ## lists
-**"All Of A Sudden I Miss Everyone" (2007) — Scaruffi 2000s** : #362, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"All Of A Sudden I Miss Everyone" (2007) — Scaruffi 2000s** : #362, 7.0/10 Scaruffi.

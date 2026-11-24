@@ -1,7 +1,9 @@
 # artist - The Everly Brothers
 
 ## members
+- Don Everley
 - Don Everly
+- Phil Everley
 - Phil Everly
 
 ## genres
@@ -17,10 +19,12 @@
 - Three-month package tour (1957-1958)
 
 ## songs
+**Bye Bye Love (Peak: #2)** : This song was their debut hit, reaching number two on the charts. It was written by the husband and wife songwriting team Felice and Boudleaux Bryant. "But they kicked off with a number two hit, by by love." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Claudette (1958)** : The Everly Brothers decided to record this song, written by Roy Orbison about his new wife. Their version sold half a million copies, significantly boosting Orbison's career and income. "He decided to write a song about his new wife, Claudette, which he pitched to the Evely Brothers when they were honourbed together, on which they decided to record." ← Episode 42： ＂Ooby Dooby＂ by Roy Orbison and the Teen Kings | https://www.youtube.com/watch?v=1zvzpXqr-k8
 **Claudette (1958)** : A hit song for the Everly Brothers, written by Roy Orbison. Orbison was able to place this song with them because Wesley Rose managed and published both acts. "writing Claudette, which became a hit for the Avley Brothers." ← Episode 83： ＂Only the Lonely＂ by Roy Orbison | https://www.youtube.com/watch?v=uDvkjXa1ALk
 **I Got a Woman** : The Everly Brothers covered Ray Charles's "I Got a Woman," contributing to its status as a rock and roll standard and demonstrating its broad appeal across different artists and genres. "It would be covered by the elderly brothers, the beetles, the monkeys." ← Episode 32： ＂I Got A Woman＂ by Ray Charles | https://www.youtube.com/watch?v=0oeI9f2x_fo
 **Love Hurts (1960)** : The Everly Brothers released a version of "Love Hurts" in 1960. This rendition is referenced as an earlier cover in the song's history, predating versions by Roy Orbison and Nazareth, and the acclaimed duet by Emmylou Harris and Gram Parsons. "maybe you even know it from the Everly Brothers version in 1960 or Roy Orbison in 1961" ← For the Record - The 70s > Ep. 35 - Cosmic American Music - 70s Country Rock | https://seventies.libsyn.com/ep-35-cosmic-american-music-70s-country-rock ← the-everly-brothers
+**Wake Up Little Susie (Peak: #1)** : This song was a number one hit for the Everly Brothers, also written by Felice and Boudleaux Bryant. "And a number one, wake up little Suzy." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **When Will I Be Loved** : Linda Ronstadt covered this hit song by the Everly Brothers, and her version achieved number one on country charts and number two on pop charts in 1975. "Here is her cover of the Everly Brothers hit When Will I Be Loved." ← For the Record - The 70s > Ep. 23 - Women of Country Music in the 70s | https://seventies.libsyn.com/023-country-women-72820-2-45-pm
 
 ## curiosities
@@ -32,6 +36,10 @@
 **Managed and Published by Wesley Rose** : The Everly Brothers were managed and published by Wesley Rose, who also managed and published Roy Orbison, facilitating backroom deals like Orbison placing his song "Claudette" with them. "He was also the Everly Brothers' manager and publisher, which is how Orbison had managed to place Claudeette with them." ← Episode 83： ＂Only the Lonely＂ by Roy Orbison | https://www.youtube.com/watch?v=uDvkjXa1ALk
 **Turned Down "Only the Lonely"** : The Everly Brothers, who were friends with Roy Orbison and shared his manager Wesley Rose, were offered "Only the Lonely" but turned it down. This is attributed to the song's unusually bizarre structure for a pop hit. "They also, though, tried to get it recorded by the Everly Brothers, who were friends of Orbison, were also signed with A.C.O.F.R.O.S. and were also merged by Wesley Rose, and even they turned it down." ← Episode 83： ＂Only the Lonely＂ by Roy Orbison | https://www.youtube.com/watch?v=uDvkjXa1ALk
 **Cover of "Love Is Strange"** : The Eiffelate Brothers were among the many artists who covered Mickey & Sylvia's hit song "Love Is Strange." "The Eiffelate Brothers." ← Episode 49： ＂Love is Strange＂ by Mickey and Sylvia | https://www.youtube.com/watch?v=FkyLPVvPbcI
+**Scored Several Chart Toppers** : The Everly Brothers achieved multiple number one hits throughout their career. "The Everly Brothers scored several chart toppers in their career." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Songwriters Felice and Boudleaux Bryant** : Their early hits "Bye Bye Love" and "Wake Up Little Susie" were both written by the husband-and-wife songwriting team, Felice and Boudleaux Bryant. "Both of which were written by husband and wife songwriters, The Lease and Budlow Bryant." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Top Spot on Rolling Stone Duo Ranking (2015)** : Phil and Don Everley, the legendary brothers, were awarded the top spot on Rolling Stone's 2015 list of the 20 greatest duos of all time. This placement recognized their "formative influence on generations of bands and harmony singers." "And the top spot on Rolling Stone's list, given their formative influence on generations of bands and harmony singers, went to the legendary brothers Phil and Don Everley." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Previous "Most Successful Duo" Title Holders** : Since the late 1950s, this duo from Brownie, Kentucky, held the title of "most successful duo of the rock era" until Hall and Oates surpassed them in 1983-84 with "Say It Isn't So." They were the long-standing benchmark for duos in rock history. "Since the late 1950s, that title had been held by two brothers from Brownie Kentucky. No duo has ever challenged the Everly Brothers title until now." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

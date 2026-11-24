@@ -114,16 +114,16 @@
 **Experimental Rap Outside Hip Hop Culture** : Del Gribs is mentioned as an African American artist performing experimental rap who, despite making rap, is not necessarily considered part of hip hop culture by some critics. This perspective emphasizes that cultural belonging is determined by more than just the act of rapping, extending to themes, behaviors, aesthetics, and overall cultural alignment. "ejemplo por ejemplo es del GRIBS en si rite hace rap hace rap experimental hace hip hop personalmente creo que no porque aunque sí que hace rap ni sus temáticas ni sus comportamientos ni sus títica ni culturalmente pertenecer a cultura hip hop" ← Music Radar Clan > Diferencia entre RAP y HIP-HOP. Por qué ya no son lo mismo. | https://www.youtube.com/watch?v=bVusa5RTBoU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← del-gribs
 
 ## lists
-**"Year of the Snitch" (2018) — AOTY Must Hear 2010s** : #165, 77 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Steroids (Crouching Tiger Hidden Gabber Megamix)" (2017) — AOTY Must Hear 2010s** : #301, 84 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Bottomless Pit" (2016) — AOTY Must Hear 2010s** : #418, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"The Powers That B" (2015) — AOTY Must Hear 2010s** : #515, 78 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Niggas on the Moon" (2014) — AOTY Must Hear 2010s** : #595, 72 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"The Money Store" (2012) — AOTY Must Hear 2010s** : #778, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Exmilitary" (2011) — AOTY Must Hear 2010s** : #852, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Death Grips" (2011) — AOTY Must Hear 2010s** : #865, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Exmilitary" (2011) — Scaruffi 2010s** : #155, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Money Store" (2012) — Pitchfork: The 200 Best Albums of the 2010s** : #117, 83 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"The Money Store" (2012) — Sputnikmusic Best Albums 2012** : #57, 83 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2012/
-**"The Powers That B - Part II: Jenny Death" (2015) — Sputnikmusic Best Albums 2015** : #131, 3.92 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2015/
-**"Bottomless Pit" (2016) — Sputnikmusic Best Albums 2016** : #83, 81 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2016/
+**"Year of the Snitch" (2018) — AOTY Must Hear 2010s** : #165, 77 AOTY.
+**"Steroids (Crouching Tiger Hidden Gabber Megamix)" (2017) — AOTY Must Hear 2010s** : #301, 84 AOTY.
+**"Bottomless Pit" (2016) — AOTY Must Hear 2010s** : #418, 81 AOTY.
+**"The Powers That B" (2015) — AOTY Must Hear 2010s** : #515, 78 AOTY.
+**"Niggas on the Moon" (2014) — AOTY Must Hear 2010s** : #595, 72 AOTY.
+**"The Money Store" (2012) — AOTY Must Hear 2010s** : #778, 83 AOTY.
+**"Exmilitary" (2011) — AOTY Must Hear 2010s** : #852, 7.0/10 Scaruffi.
+**"Death Grips" (2011) — AOTY Must Hear 2010s** : #865, 80 AOTY.
+**"Exmilitary" (2011) — Scaruffi 2010s** : #155, 7.0/10 Scaruffi.
+**"The Money Store" (2012) — Pitchfork: The 200 Best Albums of the 2010s** : #117, 83 AOTY.
+**"The Money Store" (2012) — Sputnikmusic Best Albums 2012** : #57, 83 AOTY.
+**"The Powers That B - Part II: Jenny Death" (2015) — Sputnikmusic Best Albums 2015** : #131, 3.92 Sputnik.
+**"Bottomless Pit" (2016) — Sputnikmusic Best Albums 2016** : #83, 81 AOTY.

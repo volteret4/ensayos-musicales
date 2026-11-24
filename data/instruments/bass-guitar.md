@@ -6,4 +6,4 @@
 
 ## artists
 - U2
-
+- Bernard Edwards

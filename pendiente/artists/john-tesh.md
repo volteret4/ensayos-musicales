@@ -1,5 +1,9 @@
 # artist - John Tesh
 
+## genres
+- Instrumental
+- New Age
+
 ## concerts
 - **Live at Red Rocks (1995)** : A concert special filmed at the Red Rocks Amphitheater in Colorado, where John Tesh showcased his musical talent after years of being primarily known as a TV host. He invested approximately $1.2 million of his own money, including taking a second mortgage on his house, to produce this spectacular event, which included pyro, acrobatic musicians, and performances by Olympic gymnasts Nadia Komenic and Bart Conner, with 12,000 attendees whose tickets were given away. "Instead of the cropless as a backdrop, he chose the ancient sandstone monoliths of the Red Rocks amphitheater in Colorado."
 
@@ -15,3 +19,4 @@
 **Career-Defining Impact** : The "Live at Red Rocks" special was a "seminal change" that "changed everything" for John Tesh, transforming his career from that of a struggling musician known primarily as a TV host into a successful recording and touring artist. It proved that Yani's model for achieving stardom via PBS could be replicated. "The live at Red Rock's special it changed everything for me. I mean it was Red Rock's was that was that seminal change in my life for sure." ← Hit Parade Music History and Music Trivia > Decoder Ring - The New Age Hit Machine | https://shows.acast.com/hit-parade/episodes/695d4ee88e6dd12efb02c1d2
 **Later Public Perception** : Despite his massive success, John Tesh's name, like Yani's, became "shorthand for bad music" for some, leading to harsh criticism and jokes, such as being called "the biggest butthole I've ever seen" and his Red Rocks album being deemed "not suitable for any living thing" or "awful." "Not suitable for any living thing. That red rock thing is awful." ← Hit Parade Music History and Music Trivia > Decoder Ring - The New Age Hit Machine | https://shows.acast.com/hit-parade/episodes/695d4ee88e6dd12efb02c1d2
 **Personal Philosophy on Success** : Reflecting on his unlikely rise to stardom, John Tesh embraced his role as a "poster boy for Quitcher Drop and Follow Your Dream," viewing his success as a testament to perseverance and the idea that "anything can happen" for those willing to pursue their passions despite unconventional beginnings. "And that's why I think that I was sort of the poster boy for Quitcher Drop and Follow Your Dream." ← Hit Parade Music History and Music Trivia > Decoder Ring - The New Age Hit Machine | https://shows.acast.com/hit-parade/episodes/695d4ee88e6dd12efb02c1d2
+**TV Anchorman Turned Composer** : John Tesh, known as a "TV Entertainment Tonight Anchorman," transitioned into a composer and successfully imitated Kenny G's business model, releasing best-selling instrumental albums. "TV Entertainment Tonight Anchorman turned composer John Tesch." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/

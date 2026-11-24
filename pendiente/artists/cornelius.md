@@ -13,6 +13,6 @@
 **Personal Artistic Style** : Cornelius, a Japanese artist, is recognized for his highly individual and personal musical style, which fuses various genres. "el artista japonés que hace como rollo indy un poco medio experimental un poco error con poco el electrónica hace como esa cosa tan personal." ← Music Radar Clan > Lanzamientos Enero 2018 | https://www.youtube.com/watch?v=m0uzqiwh7Tw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## lists
-**"Fantasma" (1997) — AOTY Must Hear 1990s** : #120, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Fantasma" (1997) — Scaruffi 1990s** : #545, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Fantasma" (1997) — Sputnikmusic Best Albums 1997** : #117, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
+**"Fantasma" (1997) — AOTY Must Hear 1990s** : #120, 7.0/10 Scaruffi.
+**"Fantasma" (1997) — Scaruffi 1990s** : #545, 7.0/10 Scaruffi.
+**"Fantasma" (1997) — Sputnikmusic Best Albums 1997** : #117, 7.0/10 Scaruffi.

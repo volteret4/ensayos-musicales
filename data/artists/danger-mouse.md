@@ -1,5 +1,8 @@
 # artist - Danger Mouse
 
+## member of
+- Gnarls Barkley
+
 ## instruments
 - Bass
 - Keyboards

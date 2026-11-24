@@ -10,4 +10,4 @@
 **""Mad World" ‡" — UK Singles Chart** : #6, 2004. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
 
 ## lists
-**"Donnie Darko" (2002) — Sputnikmusic Best Albums 2002** : #105, 4.03 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/
+**"Donnie Darko" (2002) — Sputnikmusic Best Albums 2002** : #105, 4.03 Sputnik.

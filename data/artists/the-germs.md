@@ -5,6 +5,7 @@
 - Pat Smear
 
 ## genres
+- Hardcore
 - Hardcore punk
 - Indie Rock
 - Punk
@@ -34,7 +35,9 @@
 **Prominent L.A. Punk Band** : The Germs were among the bands that performed at The Masque, a Hollywood Boulevard venue that was central to the early Los Angeles punk scene. "This was the home to places like X, the Germans, the blasters, the dills, the screamers, the weirdos, the zeros." ← https://www.youtube.com/watch?v=YaYaFW2q6qI ← the-germs
 **Shared Stages with The Go-Go's** : The Germs shared stages with The Go-Go's during the late 1970s in the vibrant Los Angeles punk scene. "They shared stages with groups like X in the germs." ← For the Record - The 70s > Ep. 58 - WKRP in Cincinnati | https://www.ftr70.com
 **Simple, Fast Punk Ethos** : Like the Ramones and English punk bands, The Germs demonstrated that impactful music could be made by playing just two chords very fast for approximately two minutes, emphasizing simplicity and raw energy. "Like them in the English punks, the germs showed everyone that you could play two chords very fast for two minutes, and that was really all you needed to do." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← the-germs ← the-germs
+**Early Association with Belinda Carlisle** : Belinda Carlisle of The Go-Go's briefly associated with The Germs under the punk alias "Dottie Danger" before The Go-Go's rose to prominence. "Belinda Carlyle even briefly associated with the germs under the normed punk, Dottie Danger, before the Go-Go's began to take off." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Only Album Produced by Joan Jett** : Joan Jett produced the only album released by The Germs. "Jett produced the only album by the germs." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"(GI)" (1979) — 1001 Albums You Must Hear Before You Die** : #428.
-**"(GI)" (1979) — Scaruffi 1970s** : #40. ← Scaruffi | https://scaruffi.com/music/best.html
+**"(GI)" (1979) — Scaruffi 1970s** : #40.

@@ -2,9 +2,11 @@
 
 ## genres
 - Emo Rap
+- Rap
 
 ## curiosities
 **Deceased Emo Rap Artist** : XXXTentacion is cited as an important Emo Rap artist who sadly passed away, known for infusing hip hop with intense emotional themes like fear and heartbreak. "You'll hit names like Lil Peep, Juice Roll and Extency on, all of whom sadly have died." ← https://www.youtube.com/watch?v=tdTs-4Irv8c ← xxxtentacion
+**Hits Breaking Drake's Log Jam (2018)** : XXXTentacion was among the rappers or rap-adjacent acts whose hits occasionally broke up Drake's chart dominance in 2018. "Most of the acts who broke up Aubrey Graham's log jam were themselves rappers or rap adjacent, including hits by Childish Gambino, Post Malone and XXX Tentacion." ← Hit Parade Music History and Music Trivia > Rolling in God’s Royal Uptown Road Edition. | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Silver Play Button (2017)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q55293496
@@ -18,4 +20,4 @@
 **"Changes" — Billboard Year-End Hot 100** : #94, 2018. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"?" (2018) — Scaruffi 2010s** : #356, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"?" (2018) — Scaruffi 2010s** : #356, 7.0/10 Scaruffi.

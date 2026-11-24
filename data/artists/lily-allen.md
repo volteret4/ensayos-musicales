@@ -13,6 +13,6 @@
 **""Somewhere Only We Know" ‡" — UK Singles Chart** : #7, 2014. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
 
 ## lists
-**"It's Not Me, It's You" (2009) — AOTY Must Hear 2000s** : #47, 70 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Alright, Still" (2006) — AOTY Must Hear 2000s** : #190, 77 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"West End Girl" (2025) — AOTY Must Hear 2020s** : #31, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
+**"It's Not Me, It's You" (2009) — AOTY Must Hear 2000s** : #47, 70 AOTY.
+**"Alright, Still" (2006) — AOTY Must Hear 2000s** : #190, 77 AOTY.
+**"West End Girl" (2025) — AOTY Must Hear 2020s** : #31, 80 AOTY.

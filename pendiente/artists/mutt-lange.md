@@ -1,0 +1,5 @@
+# artist - Mutt Lange
+
+## curiosities
+**Influential Pop Producer** : Mutt Lange is a producer whose influence on the sound of modern pop is considered to be at least as significant as Max Martin's. He has produced a wide array of artists, including Shania Twain, Maroon 5, and Lady Gaga. "Their producer, Mut Lang, is at least as influential on the sound of modern pop as Max Martin is, having produced everyone from Shania Twain to Maroon 5 to Lady Gaga." ← Hit Parade Music History and Music Trivia > Hit Parade - The You Give Rock a Bad Name Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Producer for Hysteria (1987)** : Mutt Lange meticulously produced Def Leppard's "Hysteria" album over three years of recording sessions, shaping its sound and contributing to its massive commercial success. "constructed over three years of meticulous sessions with producer Mutlang, hysteria would go on to spawn six top 40 hits and sell more than 12 million copies in the U.S. alone." ← Hit Parade Music History and Music Trivia > Hit Parade - The You Give Rock a Bad Name Edition | https://my.slate.com/podcasts/feeds/hit-parade/

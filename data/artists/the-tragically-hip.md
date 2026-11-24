@@ -371,10 +371,10 @@
 **Juno Award for Group of the Year (2017)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q6314079
 
 ## lists
-**"Road Apples" (1991) — Juno Awards: Album of the Year** : #1992. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Fully Completely" (1992) — Juno Awards: Album of the Year** : #1993, 4.13 Sputnik. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Day for Night" (1994) — Juno Awards: Album of the Year** : #1995. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Phantom Power" (1998) — Juno Awards: Album of the Year** : #1999. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Music @ Work" (2000) — Juno Awards: Album of the Year** : #2001. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Road Apples" (1991) — Sputnikmusic Best Albums 1991** : #85. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"Fully Completely" (1992) — Sputnikmusic Best Albums 1992** : #52, 4.13 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"Road Apples" (1991) — Juno Awards: Album of the Year** : #1992.
+**"Fully Completely" (1992) — Juno Awards: Album of the Year** : #1993, 4.13 Sputnik.
+**"Day for Night" (1994) — Juno Awards: Album of the Year** : #1995.
+**"Phantom Power" (1998) — Juno Awards: Album of the Year** : #1999.
+**"Music @ Work" (2000) — Juno Awards: Album of the Year** : #2001.
+**"Road Apples" (1991) — Sputnikmusic Best Albums 1991** : #85.
+**"Fully Completely" (1992) — Sputnikmusic Best Albums 1992** : #52, 4.13 Sputnik.

@@ -58,6 +58,7 @@
 **Video-Driven Growth** : Alternative music thrived through music videos. The visual medium provided a powerful platform for genres like grunge and alternative to gain widespread exposure and grow into significant cultural forces, influencing fashion, makeup, and sexuality among youth. "People learned about different types of music, grunge and alternative thrived, hip hop and rap grew into monsters." ← Ongoing History of New Music > The Rise and Fall and Future of the Music Video - Part 1 | https://www.youtube.com/watch?v=lqd6IbUJ7tg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← alternative ← alternative
 **Warped Tour Content Pivot (1996)** : After securing Vans as a title sponsor in 1996, the Warped Tour shifted its musical focus away from broad-range alternative to concentrate more specifically on punk and music associated with skate culture. "Kevin moved the festival from broad range alternative to focusing on punk and other music that went well with skate culture." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← alternative
 **Warped Tour's Initial Focus (1995)** : The first Warped Tour in 1995 was designed as a "baby brother" to Lollapalooza, featuring a collection of up-and-coming alternative bands across two stages. "The first version was designed as kind of a baby brother to Lola, Paloza, a collection of up and coming alternative bands performing on two stages." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← alternative
+**"Alternative Nation" Kickoff** : 1991 is famously called "The Year Punk Broke" and is considered the unofficial kickoff of "alternative nation," marking a pivotal period for popular music and the rise of alternative genres. ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Alexisonfire
@@ -107,4 +108,18 @@
 - Tripped Up
 - Tune-Yards
 - Weezer
-
+- Jewel
+- Lord
+- Lana Del Rey
+- Paramore
+- Elle King
+- Joan Osborne
+- Natalie Merchant
+- The Sugarcubes
+- The Sundays
+- Concrete Blonde
+- Sheryl Crow
+- The Cardigans
+- The Cure
+- The B-52s
+- "Weird Al" Yankovic

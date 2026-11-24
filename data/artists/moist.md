@@ -45,4 +45,4 @@
 **Juno Award for Video of the Year (2000)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q6314109
 
 ## lists
-**"Creature" (1996) — Juno Awards: Album of the Year** : #1998. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
+**"Creature" (1996) — Juno Awards: Album of the Year** : #1998.

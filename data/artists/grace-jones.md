@@ -3,6 +3,7 @@
 ## genres
 - African Rhythms
 - Alternative
+- club hits
 - Dance
 - Disco
 - Electronic
@@ -21,6 +22,10 @@
 
 ## albums
 **Nightclubbing** : This album is regarded as possibly the most passionate and significant work of Grace Jones's career. Emerging after the anti-disco riots, it marked a profound reinvention of her sound, shifting from her disco roots to an entirely new electronic style. This new direction was heavily influenced by African rhythms and Jamaican sounds, signifying the beginning of what would become the greatest stage of her artistic journey. "tenemos posiblemente la hora más apasionante que tenemos a carrera de grisos que es el Nightclubbing cuando ella todavía conocida como el gran icono de la música disco y de la música disco gay que era se reinventa con una nueva manera totalmente electrónica influenciada por ritmos africanos influenciada por sonidos a jamaycanos y nación a nueva grisos que sería la etapa más grande de su carrera." ← Music Radar Clan > Grace Jones - Inicios de la Disco Queen | https://www.youtube.com/watch?v=uD28en8YzGU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← grace-jones ← grace-jones
+**Warm Leatherette (1980)** : On her 1980 album "Warm Leatherette," iconic New Wave Club Queen Grace Jones recorded a reggae version of Tom Petty's song "Breakdown." Petty not only approved of the remake but also wrote a third verse specifically for Jones that was not in The Heartbreakers' original recording. "Grace Jones, the iconic classic New Wave Club Queen, who, on her 1980 album Warm Leatherette, turned Petty's song into a reggae tune." ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## songs
+**Breakdown (1980)** : Grace Jones covered Tom Petty's "Breakdown" on her 1980 album "Warm Leatherette," transforming it into a reggae tune. Tom Petty blessed the remake and even wrote a unique third verse for her version. "By the end of the 70s, breakdown would even wind up being recorded by a performer of color, Grace Jones, the iconic classic New Wave Club Queen, who, on her 1980 album Warm Leatherette, turned Petty's song into a reggae tune." ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **"New Gloria Gaynor" of Electronic Disco** : During a period of crisis for the disco movement, Grace Jones quickly established herself as the "new Gloria Gaynor." She championed a more electronic and, at times, "gay" version of disco, which rapidly gained popularity in the late 1970s and early 1980s, coinciding with the rise of groups like Village People. "ella prácticamente en cuanto sale se alza como la nueva Gloria Gaynor de ese nuevo disco más electrónico un tanto a veces gay que se hizo tan popular ya final de los 70 y tirando a los primeros años de los 80." ← Music Radar Clan > Grace Jones - Inicios de la Disco Queen | https://www.youtube.com/watch?v=uD28en8YzGU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← grace-jones ← grace-jones
@@ -46,6 +51,8 @@
 **Reinvention After Anti-Disco Riots (1979)** : While the anti-disco riots of 1979 signaled the end for many disco artists, for Grace Jones, it was merely another step in her career and a crucial moment for reinterpretation, ultimately propelling her to even greater heights. She is characterized as a figure of constant reinvention, relentless provocation, and always pushing boundaries. "para grillos no solo fue un paso más en su carrera sino que fue el momento de una reinterpretación que la gría incluso volver todavía más alto porque ella es un personaje de reinvención constante de provocación constante y de siempre ir más allá." ← Music Radar Clan > Grace Jones - Inicios de la Disco Queen | https://www.youtube.com/watch?v=uD28en8YzGU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← grace-jones ← grace-jones
 **Richard Bernstein Collaboration** : From the outset of her musical career, Grace Jones collaborated with Richard Bernstein. He was responsible for developing the complete iconography for her album covers and personal styling, crucial elements of her visual identity. "y ya desde un principio ya cuenta con el trabajo de Richard Einstein para trabajar toda la iconografía de sus portadas y su vestimenta y de todo." ← Music Radar Clan > Grace Jones - Inicios de la Disco Queen | https://www.youtube.com/watch?v=uD28en8YzGU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← grace-jones ← grace-jones
 **Widespread Influence on Artists** : Grace Jones exerted a significant influence on a diverse range of artists, including Annie Lennox of Eurythmics, Madonna, Lady Gaga, Rihanna, and Lorde. Her impact extends to the drag queen and cross-dressing scene, solidifying her status as a powerful and transformative figure. "Her influence extends not just to follow her, such as any Linux of the Arithmics, but all the way through Madonna, Lady Gaga, Rihanna, and Lord." ← https://www.youtube.com/watch?v=0FYq5MBdHw4 ← grace-jones ← grace-jones
+**Friendship with Rogers and Edwards** : Grace Jones, an "iconoclastic model, actress and singer" who was beginning to score her own club hits, developed a friendship with Nile Rogers and Bernard Edwards. She frequently invited them to Studio 54 and ensured their names were on the club's legendary guest list. "Among the regulars at 54 was the iconoclastic model, actress and singer, Grace Jones, who was just starting to score club hits of her own." ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Inspiration for "Le Freak" from Studio 54 Incident** : The genesis of Sheik's hit "Le Freak" occurred one night when Rogers and Edwards were denied entry to Studio 54 because Grace Jones was not present to put them on the guest list. This frustrating experience of being unrecognized by the club's doormen directly led to the song's creation. "But one night when Jones was not at the club and Rogers and Edwards were trying to get in, that's when they had some trouble." ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Order of Jamaica** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q2029246
@@ -53,6 +60,6 @@
 **Golden Raspberry Award for Worst Supporting Actress (1988) — Siesta** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q977915
 
 ## lists
-**"Nightclubbing" (1981) — AOTY Must Hear 1980s** : #171, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Nightclubbing" (1981) — Pitchfork: The 200 Best Albums of the 1980s** : #64, 80 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
-**"Hurricane" (2008) — Sputnikmusic Best Albums 2008** : #158, 3.98 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2008/
+**"Nightclubbing" (1981) — AOTY Must Hear 1980s** : #171, 80 AOTY.
+**"Nightclubbing" (1981) — Pitchfork: The 200 Best Albums of the 1980s** : #64, 80 AOTY.
+**"Hurricane" (2008) — Sputnikmusic Best Albums 2008** : #158, 3.98 Sputnik.

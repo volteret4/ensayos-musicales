@@ -29,7 +29,7 @@
 **Still Active** : Led by singer Fat Mike, NOFX remains a "going concern" in the music industry today. "No effects led by singer Fatmouk, still a going concern today." ← Ongoing History of New Music > The 90s Part 6： The Punk Revival | https://www.youtube.com/watch?v=0QtMI00T5jw&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## lists
-**"The Longest Line" (1992) — Sputnikmusic Best Albums 1992** : #153, 3.93 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"White Trash, Two Heebs and a Bean" (1992) — Sputnikmusic Best Albums 1992** : #156, 3.92 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"Punk in Drublic" (1994) — Sputnikmusic Best Albums 1994** : #83, 4.08 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
-**"The Decline" (1999) — Sputnikmusic Best Albums 1999** : #8, 4.35 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1999/
+**"The Longest Line" (1992) — Sputnikmusic Best Albums 1992** : #153, 3.93 Sputnik.
+**"White Trash, Two Heebs and a Bean" (1992) — Sputnikmusic Best Albums 1992** : #156, 3.92 Sputnik.
+**"Punk in Drublic" (1994) — Sputnikmusic Best Albums 1994** : #83, 4.08 Sputnik.
+**"The Decline" (1999) — Sputnikmusic Best Albums 1999** : #8, 4.35 Sputnik.

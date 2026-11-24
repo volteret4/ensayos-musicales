@@ -14,6 +14,9 @@
 **Sharp and Thin Sound in Goth Music** : Early Goth music was characterized by guitars that produced a "sharp and thin" sound. "The guitars were sharp and thin while the singing could be almost operatic at times." ← https://www.youtube.com/watch?v=gd9sO7c3N1s ← guitars
 **Shoegaze Characteristics** : In Shoegaze, guitars were characterized by "lots of distortion, lots of feedback," playing a central role in creating the genre's loud, fuzzy, and buzzy sound. "Lots of distortion, lots of feedback with vocals buried in the mix." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← guitars
 **Suede's Distinctive Sound** : Suede's `Metal Mickey` featured "sharp, slashing guitars" and "Glam guitars," which were part of their distinct sound that celebrated 70s and 80s eccentric English rock. "those sharp, slashing guitars, the gladness of it all, and the undisguised accent." ← https://www.youtube.com/watch?v=5q5EnZj1FwE ← guitars
+**Skiffle Music Element** : Jubilantly plucked guitars were a common instrument in Skiffle music, a British genre popular in the mid-1950s. "jubilantly plucked guitars." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rick and Backer Guitars** : Folk rock legends The Byrds began adding "chiming Rick and Backer guitars" to their number one hits, such as 1965's "Mr. Tambourine Man," as a direct response to the "jangly guitars" George Harrison was playing on The Beatles' hits. "The Birds began adding chiming Rick and Backer guitars to number one hits like 1965's Mr. Tamberine Man as a response to the jangly guitars George Harrison was playing on the Beatles hits." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Sitar-Resembling Guitars** : As part of the Raga Rock movement in 1966, several British acts, including The Hollies on their 1966 hit "Bus Stop," began writing hits featuring guitars that resembled sitars. "with guitars that resembled Sitarves as on the Holly's number five 1966 hit Busta." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Arcade Fire
@@ -25,4 +28,3 @@
 - The Black Keys
 - The Strokes
 - The Tragically Hip
-

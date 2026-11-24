@@ -26,6 +26,7 @@
 **Colorblindness** : Johnny Greenwood is colorblind. "if this makes any difference, he's colorblind." ← https://www.youtube.com/watch?v=t-G22K0vLnM ← johnny-greenwood
 **Early Music Involvement** : Johnny began his musical journey in his early teens with his brother Colin, influenced by their older sister's interest in bands like George Evasion in the Fall. Initially, he attended "On a Friday" practices primarily because Colin was "babysitting him." However, after continuously expressing his desire to participate, he was eventually integrated into the band at approximately age 13, while the other members were 16 or 17. "after hearing him whine about wanting to do something, everybody just gave in and made him part of the band." ← https://www.youtube.com/watch?v=t-G22K0vLnM ← johnny-greenwood
 **Origin and Family** : Johnny Greenwood is Colin Greenwood's younger brother, being a couple of years his junior. "His brother John is a couple of years younger" ← https://www.youtube.com/watch?v=t-G22K0vLnM ← johnny-greenwood
+**Score for Paul Thomas Anderson Film (2025)** : Jonny Greenwood composed the score for Paul Thomas Anderson's hypothetical 2025 film *One Battle After Another*. While his score has been released, the film's pop songs (needle drops) are not included on that soundtrack, reflecting a modern trend in soundtrack releases. "Johnny Greenwood's score for that PTA film has been released, but none of the movie's pop songs are on that soundtrack." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Academy Award for Best Original Score — One Battle After Another** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q488651
@@ -35,6 +36,6 @@
 **Academy Award for Best Original Score (2022) — The Power of the Dog** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q488651
 
 ## lists
-**"There Will Be Blood OST" (2007) — Sputnikmusic Best Albums 2007** : #44, 4.13 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2007/
-**"The Master OST" (2012) — Sputnikmusic Best Albums 2012** : #98, 3.99 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2012/
-**"Phantom Thread OST" (2018) — Sputnikmusic Best Albums 2018** : #21, 4.04 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2018/
+**"There Will Be Blood OST" (2007) — Sputnikmusic Best Albums 2007** : #44, 4.13 Sputnik.
+**"The Master OST" (2012) — Sputnikmusic Best Albums 2012** : #98, 3.99 Sputnik.
+**"Phantom Thread OST" (2018) — Sputnikmusic Best Albums 2018** : #21, 4.04 Sputnik.

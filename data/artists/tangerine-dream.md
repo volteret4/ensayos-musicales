@@ -17,11 +17,11 @@
 
 ## lists
 **"Phaedra" (1974) — 1001 Albums You Must Hear Before You Die** : #311, 7.0/10 Scaruffi.
-**"Phaedra" (1974) — AOTY Must Hear 1970s** : #127, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Zeit" (1972) — Scaruffi 1970s** : #74, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Alpha Centauri" (1971) — Scaruffi 1970s** : #139, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Atem" (1973) — Scaruffi 1970s** : #140, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Phaedra" (1974) — Scaruffi 1970s** : #523, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Ricochet" (1976) — Scaruffi 1970s** : #524, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Rubycon" (1975) — Scaruffi 1970s** : #525, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Raum" (2022) — Sputnikmusic Best Albums 2022** : #94, 3.84 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2022/
+**"Phaedra" (1974) — AOTY Must Hear 1970s** : #127, 7.0/10 Scaruffi.
+**"Zeit" (1972) — Scaruffi 1970s** : #74, 8.0/10 Scaruffi.
+**"Alpha Centauri" (1971) — Scaruffi 1970s** : #139, 7.5/10 Scaruffi.
+**"Atem" (1973) — Scaruffi 1970s** : #140, 7.5/10 Scaruffi.
+**"Phaedra" (1974) — Scaruffi 1970s** : #523, 7.0/10 Scaruffi.
+**"Ricochet" (1976) — Scaruffi 1970s** : #524, 7.0/10 Scaruffi.
+**"Rubycon" (1975) — Scaruffi 1970s** : #525, 7.0/10 Scaruffi.
+**"Raum" (2022) — Sputnikmusic Best Albums 2022** : #94, 3.84 Sputnik.

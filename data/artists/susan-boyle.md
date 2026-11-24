@@ -1,5 +1,15 @@
 # artist - Susan Boyle
 
+## albums
+**The Gift (2010)** : This album was one of Susan Boyle's back-to-back number one albums, achieving its success in the 2010 holiday season. "She scored back-to-back number 1 albums in two consecutive holiday seasons in 2009 and 2010." ← Hit Parade Music History and Music Trivia > Smells Like Christmas Spirit, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**I Dreamed a Dream (2009)** : This debut album, released the week of Thanksgiving 2009, was a blockbuster that sold over 3 million copies in the U.S. alone during the holiday season of 2009. Due to Billboard's chart year calculation, these sales resulted in it becoming the number one album of the year for 2010, not 2009. "It was the last track on her debut album I Dream to Dream, which was a blockbuster when it arrived the week of Thanksgiving 2009." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**I Dreamed a Dream (2009)** : This album scored back-to-back number one positions in consecutive holiday seasons, starting in 2009. "She scored back-to-back number 1 albums in two consecutive holiday seasons in 2009 and 2010." ← Hit Parade Music History and Music Trivia > Smells Like Christmas Spirit, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## songs
+**Silent Night (2009)** : This song was the last track on Susan Boyle's debut album, "I Dreamed a Dream." "What you're hearing is a take on the Holiday Him Silent Night by Scottish Singer Susan Boyle." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **Asperger Syndrome** : Susan Boyle is one of three musicians specifically confirmed to have Asperger Syndrome. "musicians who are confirmed to have Asperger's. Very Newman, Travis Meeks of Days of the News and Susan Boyle are three." ← https://www.youtube.com/watch?v=NQgn0_mUh74 ← susan-boyle ← susan-boyle
 **Asperger Syndrome** : Susan Boyle is one of three musicians specifically confirmed to have Asperger Syndrome. "musicians who are confirmed to have Asperger's. Very Newman, Travis Meeks of Days of the News and Susan Boyle are three." ← https://www.youtube.com/watch?v=NQgn0_mUh74 ← susan-boyle
+**Britain's Got Talent Discovery** : Susan Boyle gained fame as a discovery from the television show "Britain's Got Talent" before releasing her blockbuster debut album. "The debut album by the Britain's Got Talent Discovery sold over 3 million copies in the US alone during the holiday season of 2009." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Reality TV Discovery** : Susan Boyle was a discovery from the reality TV show "The X Factor," mentored by Simon Cowell. "Or reality TV discovery Susan Boyle, Simon Cowell's protege from the X Factor." ← Hit Parade Music History and Music Trivia > Smells Like Christmas Spirit, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/

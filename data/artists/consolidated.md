@@ -11,4 +11,4 @@
 **Manifesting Mixed Styles** : Consolidated was noted as one of the "new groups" whose work at the end of the 1980s demonstrated the emerging coexistence and blending of rock, rap, and hip hop styles, contributing to the broader palette of Alt Rock. "It was manifested in the work of new groups, with names like Consolidated at MC900Foot Jesus." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← consolidated ← consolidated
 
 ## lists
-**"The Myth Of Rock" (1990) — Scaruffi 1990s** : #544, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"The Myth Of Rock" (1990) — Scaruffi 1990s** : #544, 7.0/10 Scaruffi.

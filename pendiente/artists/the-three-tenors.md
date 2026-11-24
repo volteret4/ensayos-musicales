@@ -15,4 +15,4 @@
 **Model for Future PBS Specials** : The unexpected and massive success of The Three Tenors' concert during the PBS Pledge Drive in 1991 served as a critical blueprint and inspiration for other artists, most notably Yani and John Tesh, who observed this phenomenon and recognized the potential of public television as a "catapult" for their careers. "Yani and his producer, George Varis, they saw what was happening. They saw the PBS Pledge Drive as a platform." ← Hit Parade Music History and Music Trivia > Decoder Ring - The New Age Hit Machine | https://shows.acast.com/hit-parade/episodes/695d4ee88e6dd12efb02c1d2
 
 ## lists
-**"The 3 Tenors in Concert 1994" (1994) — Grammy Award: Album of the Year nominees** : #1995. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
+**"The 3 Tenors in Concert 1994" (1994) — Grammy Award: Album of the Year nominees** : #1995.

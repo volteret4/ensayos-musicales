@@ -22,6 +22,12 @@
 **Tim Buckley's Beginning** : Tim Buckley started his musical career as a folk singer in the 1960s before exploring other genres. "He began as a folk singer back in the 1960s." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← folk
 **Traditional Ballad Influence** : The traditional ballad or folk song, introduced to the American South by British immigrants, is at the core of storytelling in country music. "at the core of that is the traditional ballad or folk song which was introduced to the South by British immigrants." ← For the Record - The 70s > Ep. 23 - Women of Country Music in the 70s | https://seventies.libsyn.com/023-country-women-72820-2-45-pm
 **John Mellencamp's Americana Deep Dive** : John Mellencamp used his imperial capital after his "Scarecrow" album to produce "The Lonesome Jubilee" (1987), an LP that ventured deeper into Americana by incorporating folk and country instruments like auto harp, banjo, accordion, and fiddle, allowing "rootsy folk rock" to become a top 10 pop hit. "Melanchamp and his band picked up folk and country instruments like auto harp, banjo, accordion and fiddle." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f03154465cd600c5379
+**New Wave of Performers (Mid-1980s)** : In the second half of the 1980s, a new wave of folk-inspired performers emerged, more than a decade after the folk and singer-songwriter movements had peaked. This neo-folk wave, characterized by acoustic music conversant with new wave rock and synthesizers, featured strong and commercially successful female voices. "In the second half of the 1980s, more than a decade after the folk and singer-songwriter movements had peaked, a new wave of folk-inspired performers came to the fore." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**First Album to Top Chart in 25 Years (1988)** : Tracy Chapman's self-titled debut album topped the Billboard album chart in August 1988, marking the first folk album to achieve this feat since Peter, Paul and Mary in 1963. This signified a remarkable commercial breakthrough for the genre after a long hiatus. "According to Billboard, it was the first folk album to top the chart since Peter Paul and Mary in 1963." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**"White Cisgendered Fokie Femrock" Perception** : In its first year, Lilith Fair was criticized for its lack of diversity and branded in the media as offering a "certain variety of white cisgendered Fokie Femrock." This perception highlighted the festival's initial exclusivity and limited representation of women of color and genres like R&B and hip hop. "branded in the media as offering a certain variety of white cisgendered Fokie Femrock." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Impact of Media Exposure** : Folk standards can be transformed from obscure deep cuts into smash singles through prominent placement in movies or other media. Roberta Flack's "The First Time Ever I Saw Your Face" is a prime example, becoming a number one hit primarily due to its inclusion in the Clint Eastwood film "Play Misty for Me." "Roberta Flax Hypnotic Take on the Folk Standard, the first time ever I saw your face was transformed by the Clint Eastwood movie Play Misty for me." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Cowboy Carter for Leftus" Comparison** : Cleo Read's album "Country" is described as "Cowboy Carter for Leftus," indicating a subgenre or stylistic niche within folk music that aligns with progressive political leanings and potentially Black queer perspectives. "It's kind of like Cowboy Carter for Leftus." ← Hit Parade Music History and Music Trivia > The Bridge - Slate’s Music Club 2025 | https://my.slate.com/podcasts/feeds/hit-parade/
+**English Folk Group Success** : The English folk group The Silkie found success in 1965 with their cover of The Beatles' "You've Got to Hide Your Love Away," demonstrating how folk artists could transform and popularize Lennon-McCartney compositions. "English folk group The Silky in 1965." ← Hit Parade Music History and Music Trivia > Without The Beatles | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Ani DiFranco
@@ -80,3 +86,32 @@
 - Woody Guthrie
 - Tracy Chapman
 - Johnny Cash
+- The Beatles
+- Darius Rucker
+- Jewel
+- Beck
+- Neil Diamond
+- LaBelle
+- Amy Mann
+- The Indigo Girls
+- Crosby, Stills, Nash & Young
+- Melanie
+- Joan Baez
+- Suzanne Vega
+- 10,000 Maniacs
+- Jose Feliciano
+- Roberta Flack
+- Rod Stewart
+- Stevie Wonder
+- Bruce Springsteen
+- Earth, Wind & Fire
+- Daryl Hall & John Oates
+- Uyn McCaw
+- Laurie Lieberman
+- Sylvester
+- Carol King
+- Norah Jones
+- Creedence Clearwater Revival
+- John Fogerty
+- Cleo Read
+- The Seekers

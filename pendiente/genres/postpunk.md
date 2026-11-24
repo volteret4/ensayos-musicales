@@ -5,3 +5,4 @@
 
 ## artists
 - The Police
+- Siouxsie and the Banshees

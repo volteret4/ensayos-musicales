@@ -29,5 +29,5 @@
 **Shoegaze Influence** : The band remained very inspired by shoegaze music, demonstrating the genre's continued, albeit sometimes "reduced," influence on later artists. "casi placebo siguió muy inspirado más en su vez." ← Music Radar Clan > DREAM POP y SHOEGAZE. Diferencias entre ellos. | https://www.youtube.com/watch?v=75cEjgxTR3U&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← placebo
 
 ## lists
-**"Without You I’m Nothing" (1998) — Pitchfork: The 50 Best Britpop Albums** : #47. ← musicbrainz | https://beta.musicbrainz.org/series/cd7ebb70-d88f-4f74-b6de-3a00bf2a162c
-**"Without You I’m Nothing" (1998) — Sputnikmusic Best Albums 1998** : #188. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1998/
+**"Without You I’m Nothing" (1998) — Pitchfork: The 50 Best Britpop Albums** : #47.
+**"Without You I’m Nothing" (1998) — Sputnikmusic Best Albums 1998** : #188.

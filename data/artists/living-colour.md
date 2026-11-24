@@ -42,8 +42,9 @@
 **Groundbreaking Funk Metal Sound** : Living Colour, a band of four Black men from New York City, created a funk metal sound that laid the groundwork for many groups of the 1990s. Their influence was felt across bands like Rage Against the Machine, 311, Primus, and even Korn. "The resulting funk metal laid the groundwork for many groups of the 1990s, ranging from rage against the machine to 311 to primus to even corn." ← https://www.youtube.com/watch?v=hQJ3r-DCoMQ ← living-colour
 **Lollapalooza 1991 Lineup** : Living Colour was part of the lineup for the first Lollapalooza festival in the summer of 1991. ← https://www.youtube.com/watch?v=eqTFinLk3oU ← living-colour
 **MTV and Grammy Success** : The band achieved considerable success, becoming "MTV heroes and ended up winning a bunch of Grammy Awards," showcasing the widespread appeal of their genre-bending music. "Living color became MTV heroes and ended up winning a bunch of Grammy Awards." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← living-colour ← living-colour
+**American Music Awards Nomination (1990)** : The hard rock band Living Color was nominated for the Favorite Pop/Rock New Artist award at the American Music Awards in 1990, but they were defeated by Millie Vanilley in that category. "defeating Hard Rock Band Living Color." ← Hit Parade Music History and Music Trivia > Blame It on the Feign, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Vivid" (1988) — 1001 Albums You Must Hear Before You Die** : #614, 7.0/10 Scaruffi.
-**"Vivid" (1988) — Scaruffi 1980s** : #522, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Time's Up" (1990) — Sputnikmusic Best Albums 1990** : #165, 3.82 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
+**"Vivid" (1988) — Scaruffi 1980s** : #522, 7.0/10 Scaruffi.
+**"Time's Up" (1990) — Sputnikmusic Best Albums 1990** : #165, 3.82 Sputnik.

@@ -50,6 +50,7 @@
 **Sound Evolution from Post-punk** : The Shoegaze movement was instrumental in evolving the Post-punk sound of bands like Joy Division by incorporating heavy, raw, echoed, and distorted guitar work from pedals, thus laying the groundwork for later Grunge music. "esa música Pospang de Joy Division me evolucionando gracias a ese pedaleo, a ese guitarrero tan duro, tan rasgado, con tantos secos, tan distorsionados." ← Music Radar Clan > La generación perdida del Indie： SHOEGAZE | https://www.youtube.com/watch?v=kbiXssvv3aE&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← shoegaze ← shoegaze
 **Underappreciated Quality** : The limited memory and recognition of Shoegaze bands are not due to a lack of musical quality or evolutionary significance, but rather their misfortune of existing between two massive generations and lacking crucial record label support. "no tienen tanto que ver como su escasa calidad musical, porque era musicalmente muy interesante y muy evolutivo, sino porque tuvieron por un lado la mala suerte de vivir entre esas dos grandísimas generaciones y tuvieron por otro lado la grandísima mala suerte de no contar con el apoyo discográfico." ← Music Radar Clan > La generación perdida del Indie： SHOEGAZE | https://www.youtube.com/watch?v=kbiXssvv3aE&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← shoegaze ← shoegaze
 **Witchhouse Influence** : Shoegaze, along with Dreampop, influenced Witchhouse, providing ethereal textures and characteristics of a "wall of sound." "y del Dreampop y el sugeys, tomó las texturas etéreas y son muro de sonido." ← Witch House： Cuando internet inventó su género maldito | https://www.youtube.com/watch?v=SLlzXA0eyu0
+**Rumbling Rock with Buried Hooks** : Shoegaze was a subset of UK indie rock described as a "rumbling form of rock that buried pop hooks under layers of guitar," with early pioneers including The Jesus and Mary Chain and later perfected by My Bloody Valentine. "Running parallel with the Madchester sound was a subset of UK indie rock known as Shugays, a rumbling form of rock that buried pop hooks under layers of guitar." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - A Place to Bury Strangers
@@ -78,4 +79,5 @@
 - The Horrors
 - The Jesus and Mary Chain
 - The Pains of Being Pure at Heart
-
+- The Cure
+- The Verve

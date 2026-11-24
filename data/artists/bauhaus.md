@@ -5,9 +5,11 @@
 - David J
 - Kevin Haskins
 - Peter Murphy
+- quartet
 
 ## genres
 - Alternative Rock
+- British Alt Rock
 - British Goth
 - Ethereal Goth
 - Ethereal Wave
@@ -53,6 +55,7 @@
 **Bela Lugosi's Dead (1979)** : The nine-minute single "Bela Lugosi's Dead" by Bauhaus is widely considered to have laid the fundamental groundwork for gothic rock, with its release around three months before or after the period between *Unknown Pleasures* and *Closer* marking the true kick-off of the genre. "ese single de nueve minutos de la banda bauja o de la lujo si sé que yo creo que sienta ya la base de lo que sigue al rogótico ... el bela luvosis de bauja si quien realmente marca el pisto de tazo y salía al rogótico." ← Music Radar Clan > Especial JOY DIVISION： 3. Closer y la muerte de Ian Curtis | https://www.youtube.com/watch?v=FNcezVSAuJo&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← bauhaus ← bauhaus
 **Bela Lugosi's Dead (1979)** : Released in late 1979, this song about a famous vampire actor helped to coalesce the disparate elements of the Goth scene into a distinct movement with its own ideology. It is considered the "prototypical Goth Anthem," featuring themes of vampires, bats, bell towers, death, and doom. "Bahaus, with Bella Legosi's dad, the prototypical Goth Anthem, complete with vampires and bats and bell towers and death and doom." ← https://www.youtube.com/watch?v=gd9sO7c3N1s ← bauhaus
 **Bela Lugosi's Dead (1979)** : This Bauhaus track is cited as one of the defining moments in the crystallization of gothic rock as a distinct genre, adopting the dark aesthetic sensibility that had filtered through decades of Gothic literature and horror cinema. "Bauhaus, with 'Bela Lugosi's Dead,' adopted dark aesthetics to help shape gothic rock." ← https://www.youtube.com/watch?v=f2KA97T4u08 ← bauhaus
+**Bela Lugosi's Dead (1979)** : Released in the late summer of 1979, this single served as a skeletal blueprint for the entire Goth subculture. The group performed an "immortal version" of this classic in the 1983 vampire movie "The Hunger." "Their single Bella Legosi's dead in the late summer of 1979 would serve as a skeletal blueprint for the entire Goth subculture." ← Hit Parade Music History and Music Trivia > Lost and Lonely Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 **Bella Lugosi's Dead** : This song was performed by Bauhaus in a nightclub scene in the 1983 movie *The Hunger*, a film popular with Goth audiences. "it included a nightclub scene with Bauhaus performing Bella Logosi's dead." ← https://www.youtube.com/watch?v=evlGhfUe6QQ ← bauhaus
 **Exquisite Corpse** : This song was one of three specific titles mentioned from their studio albums released between January 1981 and July 1983. "featuring songs with titles like Of Lillies and Remains, Exquisite Corpse, and Who Killed Mr. Moonlight." ← https://www.youtube.com/watch?v=seLx5Ud4v7Y ← bauhaus ← bauhaus
 **Exquisite Corpse** : Appearing on one of Bauhaus's studio albums released between January 1981 and July 1983, this track highlights the group's continued exploration of evocative and often dark subject matter characteristic of their sound. "featuring songs with titles like... Exquisite Corpse." ← https://www.youtube.com/watch?v=A89ipsMeMAg ← bauhaus ← bauhaus
@@ -97,9 +100,14 @@
 **The Bauhaus Mobile - Band Touring Vehicle** : The group purchased a hearse from an undertaker and customized it into their official touring vehicle, affectionately naming it their "Bauhaus Mobile" for their travels. "The group also bought a Hearse from a Hunder taker and converted it into their official touring vehicle." ← https://www.youtube.com/watch?v=A89ipsMeMAg ← bauhaus ← bauhaus
 **The Hunger - Vampire Movie Appearance** : David Bowie, a significant fan of Bauhaus, successfully lobbied for the band to be cast in his 1981 vampire movie, "The Hunger." In a scene filmed in a London club ironically named Heaven, Bauhaus performs their signature song, "Bela Lugosi's Dead." "Bowie just loved what Bajaos had done with one of his old songs." ← https://www.youtube.com/watch?v=A89ipsMeMAg ← bauhaus ← bauhaus
 **Tours with Southern Death Cult** : Bauhaus frequently toured with Southern Death Cult. "It's a band called Southern Death Cult, who often toured with Bauhaus and featured a singer who spent much of his time growing up in Southern Ontario." ← https://www.youtube.com/watch?v=gd9sO7c3N1s ← bauhaus
+**Definition of Goth Rock** : This quartet from Northampton, named after an iconic early 20th-century German art school, helped define Goth Rock in the popular imagination. "The Boulouse, a quartet from Northampton named after the iconic early 20th century German art school, helped define Goth Rock in the popular imagination." ← Hit Parade Music History and Music Trivia > Lost and Lonely Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence and Longevity** : Bauhaus proved to be deeply influential despite lasting only a few years before breaking up. "Boulouse would prove deeply influential despite lasting just a few years." ← Hit Parade Music History and Music Trivia > Lost and Lonely Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Spinoff Band (1985)** : After Bauhaus broke up, a trio of its former members formed Love and Rockets in 1985. "Love and Rockets, a trio that spun off from the Goth Band in 1985 after its breakup, produced a headier and punchier form of post punk." ← Hit Parade Music History and Music Trivia > Lost and Lonely Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Geographical Origin** : Bauhaus originated from Northampton, a different region from bands like The Cure (suburbs of London) and New Order (Manchester), highlighting the geographical diversity of UK bands often grouped together. "Similarly Northampton, which is where Bauhaus comes from, completely different in turn." ← Hit Parade Music History and Music Trivia > The Bridge - Genre v. Generation, ’80s to ’10s | https://my.slate.com/podcasts/feeds/hit-parade/
+**Descendant Band** : The band Love and Rockets is described as a "descendant band" of Bauhaus, indicating a direct musical lineage. "Bauhaus and their descendant band Love and Rockets." ← Hit Parade Music History and Music Trivia > The Bridge - Rain Sounds and Moody Goths | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Mask" (1981) — 1001 Albums You Must Hear Before You Die** : #489, 7.0/10 Scaruffi.
-**"In the Flat Field" (1980) — AOTY Must Hear 1980s** : #177, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Mask" (1981) — Scaruffi 1980s** : #257, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Bela Session" (2018) — Sputnikmusic Best Albums 2018** : #4, 4.17 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2018/
+**"In the Flat Field" (1980) — AOTY Must Hear 1980s** : #177, 83 AOTY.
+**"Mask" (1981) — Scaruffi 1980s** : #257, 7.0/10 Scaruffi.
+**"The Bela Session" (2018) — Sputnikmusic Best Albums 2018** : #4, 4.17 Sputnik.

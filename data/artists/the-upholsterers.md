@@ -25,4 +25,4 @@
 **Unique Single Distribution** : The Upholsterers famously hid about 100 vinyl copies of their 3-track 7-inch single, "Your Furniture was always dead, I was just afraid to tell you," inside furniture they were reupholstering. This unique distribution method contributed to the single's extreme rarity, with only two copies having been found. "Jack and Brian hid some singles inside couches and chairs that they were fixing up." ← https://www.youtube.com/watch?v=r4QJMx1LES8 ← the-upholsterers
 
 ## lists
-**"Makers of High Grade Suites" — John Peel's Record Box** : #116. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
+**"Makers of High Grade Suites" — John Peel's Record Box** : #116.

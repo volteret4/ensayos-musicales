@@ -16,6 +16,8 @@
 **Popularity in 1970s UK** : In the United Kingdom during the 1970s, Prog Rock was a highly popular genre. This created a strong market and an "appetite for artists who sounded and looked different," which was a favorable environment for emerging unique talents like Kate Bush. "Progrott was really hot in the UK at the time, and there was an appetite for artists who sounded and looked different." ← Ongoing History of New Music > The Queens of Quirk | https://www.youtube.com/watch?v=clPuV7ezrIc&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Post-1978 Rock Diversification** : Prog rock became a distinct category discussed within mainstream rock after 1978, reflecting the broader segmentation of music into more specific styles. "People were now talking about metal and Prague and folk rock, and soft rock, and country rock, and blues rock, and of course, punk." ← Ongoing History of New Music > The Post-Punk Explosion Part 1： New Wave | https://www.youtube.com/watch?v=bYsV3ozbk4M&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Saga's Affiliation** : Saga is explicitly identified as a "Prog Rock Group." This categorization highlights their musical style within the rock genre. "with saga, the Prague Rock Group." ← Ongoing History of New Music > Lost CanRock Bands of the '90s： Part 1 | https://www.youtube.com/watch?v=22SSwvfRMVg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Genesis Origins** : The band Genesis originated as a prog rock band in the 1970s, laying the foundation for the diverse musical careers of its members. "This band that started as a prog rock band in the 70s." ← Hit Parade Music History and Music Trivia > The Bridge - Monster Drums Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Genesis in the 70s** : Genesis was described as a "Prague rock band" in the 1970s, during which Peter Gabriel was their leader before embarking on a solo career that was later reinvented by the "Sledgehammer" video. "The former leader of Genesis in the 70s, when they were still a Prague rock band, Gabriel was not a major hitmaker." ← Hit Parade Music History and Music Trivia > The Twerking and Chatrouletting Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Emerson, Lake & Palmer
@@ -30,4 +32,6 @@
 - The Birds of Satan
 - The Police
 - Yes
-
+- Genesis
+- Jethro Tull
+- Coheed and Cambria

@@ -7,6 +7,10 @@
 - Neil Sedaka
 - Phil Margo
 
+## genres
+- Duop
+- Folk Sing-along
+
 ## labels
 - RCA Records
 - Roulette Records
@@ -16,6 +20,8 @@
 **Bwanina (1961)** : Following their success with "The Lion Sleeps Tonight," The Tokens attempted to follow up with a version of an actual African folk song, "Bwarnina," but it was not a hit. "The tokens tried to follow up with a version of an actual African folk song, Bwarnina, but that wasn't a hit." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
 **La Bamba (1961)** : Another attempted follow-up single that, like "Bwarnina," failed to become a hit. "Nor was a version of LaBamba." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
 **The Lion Sleeps Tonight (1961)** : After signing with RCA Records, The Tokens, working with producers Hugo and Luigi and writer George David Weiss, recorded this reworked version of "Wimoweh" with new lyrics. It was initially released as the B-side of their third flop single. A DJ famously flipped the record, and the B-side became a sudden hit, reaching number one and establishing itself as a standard. "But then a DJ flipped the record and started playing the B side, and suddenly the song was a hit." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
+**The Lion Sleeps Tonight (1961)** : Billy Joel's 1993 song "The River of Dreams," with its distinctive doo-wop and R&B vocals, invoked the classic style of this 1961 chart-topping hit by The Tokens, which was itself an adaptation of African music. "its duop and R&B vocals also invoked the classic style of the tokens 1961 chart topping hit The Lion Sleeps Tonight which was itself adapted from African music." ← Hit Parade Music History and Music Trivia > Still Billy Joel to Me Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**The Lion Sleeps Tonight (1961)** : This song was first transformed from a South African worksong by Pete Seeger into a folk sing-along he called "Wimoweh," and then further transformed by the New York duop quartet The Tokens into a number one smash by Christmas of 1961. "Or the lion sleeps tonight by duop quartet The Tokens, first transformed from a South African worksong by Pete Seeger into a folk sing-along that he called Wim away." ← Hit Parade Music History and Music Trivia > The Freewheelin’ Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Tonight I Fell in Love (1961)** : The group recorded this song and released it to the small label Warwick Records. The label held onto the track for six months before releasing it in 1961, when it climbed to number 15 on the charts. "When they did, in 1961, it went to number 15 on the chart." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
 
 ## curiosities

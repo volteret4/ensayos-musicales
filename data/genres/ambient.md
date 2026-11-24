@@ -5,6 +5,7 @@
 **Influence on David Botrell's Production Approach** : David Botrell's early experiences as an assistant at Grant Avenue Studios in 1983-84 involved "early ambient sessions," which was an unusual and creative environment not bound by typical pop song structures. This lack of rules allowed him to develop a foundational approach to recording music based on making music that "made you feel good." "my beginnings in recording and making music stemmed from those early ambient sessions." ← https://www.youtube.com/watch?v=vWvYe1a-2Aw ← ambient ← ambient
 **Kraftwerk's Influence** : Ambient and chillout music genres are noted to have been significantly influenced by Kraftwerk, underscoring the German group's broad impact across various electronic and mood-driven musical styles. "Today's EDM and all techno from groups like Underworld and anything that came out of Detroit to Daff Punk, Ambient and Chillout music, Craftwork influence." ← https://www.youtube.com/watch?v=ePZDkqLM_gw ← ambient ← ambient
 **Term Coined by Brian Eno (1978)** : The genre term "ambient" was explicitly coined by Brian Eno with the release of his album "Music for Airports" in 1978, establishing its definition and purpose within the musical landscape. "él había coñado el término ambient en su disco Music for I report, en 1978." ← Por Qué Tu Cerebro Nunca Olvidará Este Sonido | https://www.youtube.com/watch?v=86tqZ33gn_4
+**William Orbit's Strange Cargo Series** : William Orbit demonstrated his proficiency and continued artistic work in the Ambient genre through his "Strange Cargo" series of albums, which contributed to his suitability as producer for Madonna's "Ray of Light." "creating new installments in his Strange Cargo series of Ambient album." ← Hit Parade Music History and Music Trivia > Hit Parade - The Veronica Electronica Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Air
@@ -18,4 +19,4 @@
 - Moby
 - Peter Christopherson
 - Vangelis
-
+- William Orbit

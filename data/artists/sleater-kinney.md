@@ -40,16 +40,17 @@
 **Prominent Riot Grrrl Band** : Sleater-Kinney emerged from the Pacific Northwest as one of the biggest bands in the Riot Grrrl movement. Their music and ethos contributed significantly to the scene's influence. "The biggest of the bunch were probably Team Dresh and Sleeter Kinney, both from the Pacific Northwest." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← sleater-kinney ← sleater-kinney
 **Riot Grrrl Sensibilities in Punk Revival** : The reformed Sleater-Kinney was cited for their "riot girl sensibilities" as part of the mid-decade punk revival in the 2010s. This revival showcased a wide variety of approaches, including Garage Punk and Post Punk, demonstrating the evolving nature of punk as an attitude and a way of life. "There was a wide variety of approaches from Laura Jane Grace and against me to the riot girl sensibilities of the reformed Slater Kinney..." ← https://www.youtube.com/watch?v=HSvgRyGiOpE ← sleater-kinney
 **Second Wave Post-Riot Grrrl Band** : Sleater-Kinney was formed in Olympia around 1994 by Corin Tucker (formerly of Heavens to Betsy) and Carrie Brownstein. While not "exactly Riot Girls," they were deeply influenced by the movement and continued its feminist, left-leaning political messages, becoming a fixture on the American indie scene for about 10 years after the original Riot Grrrl scene faded. "One of them was Slater Kinney featuring current Tucker of Evans De Betsy and Carrie Brown Steen." ← https://www.youtube.com/watch?v=Qss5kC2FUx0 ← sleater-kinney
+**Declined Lilith Fair Invitation** : The punk band Sleater-Kinney "gave Lilith a wide berth," choosing not to participate in the festival. Their decision and reasoning, articulated by singer-guitarist Carrie Brownstein, highlighted concerns about containing women's music within a single "box." "Rising in the punk band Slater Kinney also gave Lilith a wide berth." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Dig Me Out" (1997) — 1001 Albums You Must Hear Before You Die** : #844.
-**"Dig Me Out" (1997) — AOTY Must Hear 1990s** : #136. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"The Woods" (2005) — AOTY Must Hear 2000s** : #249, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Live In Paris" (2017) — AOTY Must Hear 2010s** : #346, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"No Cities to Love" (2015) — AOTY Must Hear 2010s** : #538, 89 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Dig Me Out" (1997) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #189. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Call The Doctor" (1995) — Scaruffi 1990s** : #1169, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Dig Me Out" (1997) — Pitchfork: The 150 Best Albums of the 1990s** : #47. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Dig Me Out" (1997) — Sputnikmusic Best Albums 1997** : #74. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
-**"One Beat" (2002) — Sputnikmusic Best Albums 2002** : #122, 4.01 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/
-**"The Woods" (2005) — Sputnikmusic Best Albums 2005** : #46, 85 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2005/
+**"Dig Me Out" (1997) — AOTY Must Hear 1990s** : #136.
+**"The Woods" (2005) — AOTY Must Hear 2000s** : #249, 85 AOTY.
+**"Live In Paris" (2017) — AOTY Must Hear 2010s** : #346, 80 AOTY.
+**"No Cities to Love" (2015) — AOTY Must Hear 2010s** : #538, 89 AOTY.
+**"Dig Me Out" (1997) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #189.
+**"Call The Doctor" (1995) — Scaruffi 1990s** : #1169, 7.0/10 Scaruffi.
+**"Dig Me Out" (1997) — Pitchfork: The 150 Best Albums of the 1990s** : #47.
+**"Dig Me Out" (1997) — Sputnikmusic Best Albums 1997** : #74.
+**"One Beat" (2002) — Sputnikmusic Best Albums 2002** : #122, 4.01 Sputnik.
+**"The Woods" (2005) — Sputnikmusic Best Albums 2005** : #46, 85 AOTY.

@@ -6,6 +6,7 @@
 **Community and Identity** : Brandy Carlisle described Americana as "more than a genre," emphasizing its identity as a community, particularly for artists who might not fit neatly into other traditional categories. "Carlisle wrote on her Instagram post that Americana was more than a genre. It is a community and that is the genre that she had hoped that her song would be included in when considered for her Grammy." ← For the Record - The 70s > Ep. 34 - A 70s Pop Manifesto - Finding Meaning in 70s Pop | https://seventies.libsyn.com/ep-34-a-70s-pop-manifesto-finding-meaning-in-70s-pop ← americana
 **Not a Genre in the 1970s** : The genre of Americana, as understood in contemporary music classification (e.g., for Grammy nominations), did not exist as a defined category in the 1970s. "when the Grammys told Brandy Carlyle that her song is not Americana enough, which was not even a genre in the 70s, and Casey Musgrave that her whole album is not country enough, the artists were quick to reassure their fans that they were not the ones abandoning their chosen communities." ← For the Record - The 70s > Ep. 34 - A 70s Pop Manifesto - Finding Meaning in 70s Pop | https://seventies.libsyn.com/ep-34-a-70s-pop-manifesto-finding-meaning-in-70s-pop ← americana
 **John Mellencamp's Imperial Use** : Indiana rocker John Mellencamp (then John Cougar Mellencamp) infused his hits with Americana and country-adjacent tropes, deepening this focus during his imperial peak with the 1987 album "The Lonesome Jubilee," which employed folk and country instruments like auto harp, banjo, accordion, and fiddle. This enabled him to successfully chart "rootsy folk rock" like "Paper in Fire" in a pop-dominated era. "had long infused his hits with Americana and even country adjacent tropes from Herz so good to pink houses, Jack and Diane to small town." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f03154465cd600c5379
+**Fit for Lilith Fair Lineup** : The Americana leanings of country artists like Emmylou Harris and Mary Chapin Carpenter made them a "comfortable fit for the lineup" of Lilith Fair. This allowed the festival to include diverse sounds while maintaining a cohesive artistic vision in its initial years. "whose Americana leanings made them a comfortable fit for the lineup." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Grateful Dead
@@ -13,3 +14,11 @@
 - Swans
 - Hootie & the Blowfish
 - John Mellencamp
+- Darius Rucker
+- Taylor Swift
+- Bob Dylan
+- R.E.M.
+- Beck
+- Brandi Carlile
+- Bruce Springsteen
+- Kacey Musgraves

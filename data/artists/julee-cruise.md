@@ -10,6 +10,7 @@
 
 ## songs
 **Falling (1989)** : As the theme song for David Lynch's "Twin Peaks," this track from Julee Cruise's 1989 album "Floating Into the Night" (with Angelo Badalamenti) epitomizes the dreamy, hazy, and blurry mood characteristic of late 1980s Dreampop, often featuring quiet, breathy female vocals. ← https://www.youtube.com/watch?v=kFLMkvJAaUY ← julee-cruise
+**You Were Meant For Me** : This song from the 1990s was cited as an example where a fully re-recorded hit was labeled a remix, but maintained the original composition. This was used to contrast with the more radical "remix" of Jennifer Lopez's "I'm Real," which was an entirely different composition. "Jules you were meant for me in the 90s and Lone Stars amazed in 2000 a fully re-recorded hit that was called a remix was at least a new recording of the same composition." ← Hit Parade Music History and Music Trivia > We Invented the Remix Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Association with David Lynch and Twin Peaks** : Julee Cruise gained prominence in the 1990s through her extensive musical contributions to director David Lynch's Twin Peaks projects, with her music featured throughout the TV series. "Julie had a nice run in the 1990s thanks to her association with director David Lynch and specifically his Twin Peaks projects. Her music was all over those TV series." ← https://www.youtube.com/watch?v=sdPeii-8Ysw ← julee-cruise
@@ -20,5 +21,5 @@
 **Suicide and Final Moments** : Julee Cruise died by suicide on June 9th at the age of 65, with her husband playing "Rome," her favorite B-52's song, during her final moments. "Her end came on June 9th at the age of 65. She took her own life with her husband playing Rome, her favorite B-52 song." ← https://www.youtube.com/watch?v=sdPeii-8Ysw ← julee-cruise
 
 ## lists
-**"Floating Into the Night" (1989) — AOTY Must Hear 1980s** : #7. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Floating Into the Night" (1989) — Pitchfork: The 200 Best Albums of the 1980s** : #67. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"Floating Into the Night" (1989) — AOTY Must Hear 1980s** : #7.
+**"Floating Into the Night" (1989) — Pitchfork: The 200 Best Albums of the 1980s** : #67.

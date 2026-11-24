@@ -25,5 +25,5 @@
 **Juno Humanitarian Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q16824873
 
 ## lists
-**"Still Not Getting Any…" (2004) — Juno Awards: Album of the Year** : #2005. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Simple Plan" (2008) — Juno Awards: Album of the Year** : #2009. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
+**"Still Not Getting Any…" (2004) — Juno Awards: Album of the Year** : #2005.
+**"Simple Plan" (2008) — Juno Awards: Album of the Year** : #2009.

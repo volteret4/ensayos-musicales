@@ -5,6 +5,7 @@
 
 ## songs
 **Moon Dawg (1963)** : The Surfaris released their own version of "Moon Dog," originally by The Gamblers, as one of several covers that appeared after the song gained wider exposure through a compilation album. "Other versions of it started to sprout up by people like The Ventures, The Surferies, and The Beach Boys." ← Episode 86： ＂LSD-25＂ by the Gamblers | https://www.youtube.com/watch?v=UNd6UwbL1rA
+**Wipe Out (1963)** : This iconic instrumental track by the California group The Surfaris reached number two in 1963. It was a prominent example of the surf guitar instrumental wave that emerged after Duane Eddy's initial successes. "And later on, California group The Surf Faries would reach number two in 1963 with the iconic wipeout." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Wipeout** : The Surfaris' rock song, which was later famously remade as a rap cover by The Fat Boys, subsequently charting on the Hot 100. "the Sir Fari's wipeout" ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
 
 ## charts

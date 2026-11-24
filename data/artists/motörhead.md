@@ -44,6 +44,6 @@
 ## lists
 **"Ace of Spades" (1980) — 1001 Albums You Must Hear Before You Die** : #461.
 **"No Sleep ’Til Hammersmith" (1981) — 1001 Albums You Must Hear Before You Die** : #480.
-**"Overkill" (1979) — AOTY Must Hear 1970s** : #19, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Ace of Spades" (1980) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #408. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Ace of Spades" (1980) — Pitchfork: The 200 Best Albums of the 1980s** : #71. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"Overkill" (1979) — AOTY Must Hear 1970s** : #19, 88 AOTY.
+**"Ace of Spades" (1980) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #408.
+**"Ace of Spades" (1980) — Pitchfork: The 200 Best Albums of the 1980s** : #71.

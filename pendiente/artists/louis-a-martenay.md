@@ -1,0 +1,5 @@
+# artist - Louis A. Martenay
+
+## curiosities
+**Producer and Founder of Expose** : Louis A. Martenay was the producer who formed the Miami girl group Expose, leading them to early club chart success with "Point of No Return" in 1985. "Expose, a girl group from Miami, formed by producer Louis A. Martenay." ← Hit Parade Music History and Music Trivia > Point of No Return Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Expose Lineup Change Architect** : As the mastermind and producer for Expose, Louis A. Martenay made the strategic decision to replace all three original members with Joya Bruno, Curlis, and Jeanette Gerrata, leading to the group's mainstream breakthrough with singles like "Come Go With Me." "Their mastermind and producer Lewis Martene had swapped out all three original members replacing them with Miami based singers Joya Bruno and Curlis and Jeanette Gerrata." ← Hit Parade Music History and Music Trivia > Point of No Return Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/

@@ -12,6 +12,7 @@
 **New Millennium Growth** : By the new millennium, skate punk had become massive, with established bands like Blink-182, The Offspring, MXPX, Pennywise, and No FX thriving, and newer bands like Sum 41 emerging. "By the new millennium, skate punk was massive." ← Ongoing History of New Music > History of Skate Punk | https://www.youtube.com/watch?v=44dXy0StjIQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Original Name: Skate Thrash** : The genre's original name was "Skate Thrash," which is related to the name of Thrasher Magazine. "The magazine's name is also related to the genre's original name, Skate Thrash." ← Ongoing History of New Music > History of Skate Punk | https://www.youtube.com/watch?v=44dXy0StjIQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Shift to Melodic Sound** : Skate punk bands began to integrate more melodic elements, retaining their fast and intense qualities but adding "singable melodies." Bad Religion's 1988 album "Suffer" is seen as a key inflection point for this shift towards "pop sensibilities." "Some Skate Punk bands started to get more melodic." ← Ongoing History of New Music > History of Skate Punk | https://www.youtube.com/watch?v=44dXy0StjIQ&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Mid-90s American Dominance** : Skate Punk (referred to as "Scott Punk" in the transcript), exemplified by bands like Rancid, dominated the mid-90s in America after Kurt Cobain's death, bypassing Britpop. "Scott Punk from bands like Rancid." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Big Boys
@@ -19,4 +20,4 @@
 - NOFX
 - Pennywise
 - The Offspring
-
+- Rancid

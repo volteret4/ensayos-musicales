@@ -2,15 +2,25 @@
 
 ## members
 - Alan White
+- Chris Squire
+- John Anderson
+- Trevor Rabin
 
 ## genres
+- Album-Oriented Rock
+- Classic Rock
 - Electro-Rock
 - Math Rock
 - Prog Rock
 - Progressive Rock
 
+## albums
+**90125 (1983)** : This album was spurred to three million in sales by the success of its lead single, "Owner of a Lonely Heart," marking the biggest success of Yes's career. "spurred Yes's album 90125 to 3 million in sales." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## songs
 **Leave It (1983)** : This "quirky, cacophonous, electro-rock track" from British Progressive Rock veterans Yes became a number 24 hit in the spring of 1984. The song, which emerged from the "cauldron of 83," showcased the band's adaptation to new electronic sounds, reflecting the broader trend of genre blending. "Here's British Progressive Rock Veterans, yes. With their quirky, cacophonous, electro-rock track, leave it." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
+**Owner of a Lonely Heart (1983)** : This song was the result of a creative reformation of the progressive rock band Yes, masterminded by multi-instrumentalist Trevor Rabin and producer Trevor Horn. It began with Rabin, bassist Chris Squire, and drummer Alan White, eventually attracting former Yes vocalist John Anderson, which solidified the project as Yes. The song became the biggest success of the band's career, supported by a highly conceptual, Kafka-esque music video depicting an office worker seeing visions and going mad, which was heavily rotated on MTV. "Owner of a Lonely Heart" topped the Hot 100 for two weeks. "The owner of a lonely heart topped the Hot 100 for two weeks." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Round around** : This song was a hit for Yes, moving up one spot from 14 to 13 on the countdown. "This is yes. Their hit. Round around." ← Hit Parade Music History and Music Trivia > Hit Parade - The Great War Against the Single Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Alan White's Health and Death** : Alan White, the drummer with Yes, passed away after a brief illness, having previously suffered a stroke some time ago. "Alan White, the drummer with Yes, he'd also suffered a stroke some time ago and passed away after a brief illness." ← https://www.youtube.com/watch?v=sdPeii-8Ysw ← yes
@@ -23,6 +33,8 @@
 **MuchMusic Canadian Video Premiere** : Yes was among the artists whose videos received a "Canadian video premiere" during the launch of MuchMusic on August 31, 1984. This marked their official debut on Canada's first 24-hour music channel. "Plus, the Canadian video premiere of Yes, Elvis Costello, The Fix, Human League, Slay, Culture Club, and a few surprises." ← Ongoing History of New Music > The Rise and Fall and Future of the Music Video - Part 1 | https://www.youtube.com/watch?v=lqd6IbUJ7tg&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← yes ← yes
 **Pushing for Better Sound** : Yes, along with artists like David Bowie and Supertramp, recognized the critical importance of good concert sound. Their commitment to "getting concert sound right was very, very important" motivated sound companies to improve their systems and capabilities. "But to performers like David Bowie and Yes and Super Tramp, getting concert sound right was very, very important, so they pushed sound companies to get better." ← https://www.youtube.com/watch?v=qrrwqdpCjpQ ← yes
 **Progressive Rockers Transformed by New Wave** : Yes, progressive rock veterans, were "transformed by Buggles Leader and producer Trevor Horn into electro rock gods" during the second British invasion. This transformation resulted in a number one hit at the start of 1984. "For example, progressive rock veterans, yes, were transformed by Buggles Leader and producer Trevor Horn into electro rock gods on the breakbeat happy owner of a lonely heart, a number one hit at the start of 1984." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
+**Extended Suite Pioneer** : Pioneered filling an entire LP side with 15-20 minute "uber songs" composed of movements, featuring elaborate rock combos with multiple guitar and keyboard solos, jazzy instrumental breakdowns, and string arrangements. This concept, along with bands like Pink Floyd, Genesis, and Jethro Tull, was later brought to dance music by Donna Summer and her producers. "a whole LP side would be filled by these uber songs composed of movements by such bands as Pink Floyd, Genesis, Jethro Tull, and Yes." ← Hit Parade Music History and Music Trivia > Hit Parade - The Queen of Disco Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Reformation and Biggest Success** : The progressive rock band Yes essentially reformed around the song "Owner of a Lonely Heart," which was largely masterminded by Trevor Rabin and Trevor Horn. The project, which included Chris Squire, Alan White, and eventually John Anderson, generated the biggest success of the band's career, leading them to finally hit the top of the charts in 1984, 16 years after their formation in London in 1968. "Progressive rock band Yes essentially reformed around owner of a lonely heart, a song that was masterminded by two Trevor's." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Grammy Award for Best Rock Performance by a Duo or Group with Vocal (1984) — 90125** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1542205
@@ -36,11 +48,11 @@
 **"The Yes Album" (1971) — 1001 Albums You Must Hear Before You Die** : #208, 7.0/10 Scaruffi.
 **"Fragile" (1971) — 1001 Albums You Must Hear Before You Die** : #217, 7.5/10 Scaruffi.
 **"Close to the Edge" (1972) — 1001 Albums You Must Hear Before You Die** : #249, 80 AOTY.
-**"Relayer" (1974) — AOTY Must Hear 1970s** : #110, 64 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Close to the Edge" (1972) — AOTY Must Hear 1970s** : #171, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Fragile" (1971) — AOTY Must Hear 1970s** : #191, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"The Yes Album" (1971) — AOTY Must Hear 1970s** : #220, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Close to the Edge" (1972) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #445, 80 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Close to the Edge" (1972) — Scaruffi 1970s** : #82, 80 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Fragile" (1971) — Scaruffi 1970s** : #151, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Yes Album" (1971) — Scaruffi 1970s** : #567, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Relayer" (1974) — AOTY Must Hear 1970s** : #110, 64 AOTY.
+**"Close to the Edge" (1972) — AOTY Must Hear 1970s** : #171, 80 AOTY.
+**"Fragile" (1971) — AOTY Must Hear 1970s** : #191, 7.5/10 Scaruffi.
+**"The Yes Album" (1971) — AOTY Must Hear 1970s** : #220, 7.0/10 Scaruffi.
+**"Close to the Edge" (1972) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #445, 80 AOTY.
+**"Close to the Edge" (1972) — Scaruffi 1970s** : #82, 80 AOTY.
+**"Fragile" (1971) — Scaruffi 1970s** : #151, 7.5/10 Scaruffi.
+**"The Yes Album" (1971) — Scaruffi 1970s** : #567, 7.0/10 Scaruffi.

@@ -15,9 +15,11 @@
 **New Order's Sonic Expansion** : New Order added samplers to their arsenal of electronic instruments, alongside drum machines and synthesizers, as they moved further into a synth pop and alternative dance sound. This expansion of their sonic palette contributed to their complex and evolving musical style. "With each passing day, New Order added more electronics, drum machine, synthesizers, samplers." ← https://www.youtube.com/watch?v=0FYq5MBdHw4 ← sampler ← sampler
 **Revolutionary Use in Production** : Producers like DJ Food, Nightmares on Wax, and Funky Porcini utilized the sampler in a brilliant and revolutionary manner, layering 60s soundtracks and jazz over looped beats. "Era música brillante y hasta revolucionaria en el uso del sampler..." ← El género más OSCURO de los 90 (...que acabó en anuncios de coches) | https://www.youtube.com/watch?v=9gAEaRBEw9c
 **Widespread Adoption by Artists/Producers (1979 onwards)** : The Fairlight CMI was quickly embraced by both artists and recording studios, including notable figures like Peter Gabriel, Kate Bush, Brian Eno, David Byrne, New Order, Thomas Dolby, and producer Trevor Horn. They recognized and utilized the "new possibilities in the technology" for creative expression. "Artists and recording studios loved the Fairlight. Peter Gabriel, Kate Bush, Brian Eno, David Byrne, New Order, and Thomas Dolby all saw new possibilities in the technology." ← https://www.youtube.com/watch?v=ak6OuOUkRrQ ← sampler ← sampler
+**Voice Processing** : A sampler was used by Skrillex to process Justin Bieber's voice, creating a distinctive "dolphin-like trill" effect in the song "Where Are Ü Now." "The most arresting effect in the song is a dolphin-like trill that is actually Bieber's voice processed by Skrillex through a sampler." ← Hit Parade Music History and Music Trivia > The Feat. Don’t Fail Me Now Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Daft Punk
 - MF Doom
 - New Order
-
+- Chaka Khan
+- Skrillex

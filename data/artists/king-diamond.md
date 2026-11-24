@@ -13,4 +13,4 @@
 **Statens Kunstfonds hædersydelse** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q18123892
 
 ## lists
-**""The Eye"" (1990) — Sputnikmusic Best Albums 1990** : #103, 3.95 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
+**""The Eye"" (1990) — Sputnikmusic Best Albums 1990** : #103, 3.95 Sputnik.

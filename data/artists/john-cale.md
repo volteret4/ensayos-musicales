@@ -30,9 +30,9 @@
 
 ## lists
 **"Paris 1919" (1973) — 1001 Albums You Must Hear Before You Die** : #276.
-**"POPtical Illusion" (2024) — AOTY Must Hear 2020s** : #206, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Fear" (1974) — Scaruffi 1970s** : #107, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Academy In Peril" (1972) — Scaruffi 1970s** : #356, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Music For A New Society" (1982) — Scaruffi 1980s** : #494, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Last Day On Earth" (1995) — Scaruffi 1990s** : #810, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Hobosapiens" (2003) — Scaruffi 2000s** : #451, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"POPtical Illusion" (2024) — AOTY Must Hear 2020s** : #206, 81 AOTY.
+**"Fear" (1974) — Scaruffi 1970s** : #107, 7.5/10 Scaruffi.
+**"The Academy In Peril" (1972) — Scaruffi 1970s** : #356, 7.0/10 Scaruffi.
+**"Music For A New Society" (1982) — Scaruffi 1980s** : #494, 7.0/10 Scaruffi.
+**"Last Day On Earth" (1995) — Scaruffi 1990s** : #810, 7.0/10 Scaruffi.
+**"Hobosapiens" (2003) — Scaruffi 2000s** : #451, 7.0/10 Scaruffi.

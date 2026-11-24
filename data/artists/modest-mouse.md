@@ -31,16 +31,16 @@
 **Talking Heads Comparison** : In the mid-2000s, Modest Mouse was noted for a sound reminiscent of Talking Heads. This comparison highlights a stylistic influence and the emergence of more varied sounds in the rock landscape of 2006-2007. "Modest mouse sounded like a reincarnation of the talking heads." ← https://www.youtube.com/watch?v=-CT7yYXonIk ← modest-mouse
 
 ## lists
-**"The Lonesome Crowded West" (1998) — AOTY Must Hear 1990s** : #97, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"This Is A Long Drive" (1996) — AOTY Must Hear 1990s** : #193, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Good News For People Who Love Bad News" (2004) — AOTY Must Hear 2000s** : #312, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"The Moon & Antarctica" (2000) — AOTY Must Hear 2000s** : #498, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Building Nothing Out of Something" (2000) — AOTY Must Hear 2000s** : #518, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"The Lonesome Crowded West" (1998) — Scaruffi 1990s** : #942, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"This Is A Long Drive" (1996) — Scaruffi 1990s** : #943, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Lonesome Crowded West" (1998) — Pitchfork: The 150 Best Albums of the 1990s** : #125, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"This Is A Long Drive" (1996) — Sputnikmusic Best Albums 1996** : #71, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
-**"The Lonesome Crowded West" (1998) — Sputnikmusic Best Albums 1997** : #7, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
-**"ナイト・オン・ザ・サン (Night on the Sun)" (1999) — Sputnikmusic Best Albums 1999** : #143, 3.99 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1999/
-**"The Moon & Antarctica" (2000) — Sputnikmusic Best Albums 2000** : #12, 81 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2000/
-**"Too Many Fiestas for Rueben" (2014) — Sputnikmusic Best Albums 2014** : #1, 4.38 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2014/
+**"The Lonesome Crowded West" (1998) — AOTY Must Hear 1990s** : #97, 7.0/10 Scaruffi.
+**"This Is A Long Drive" (1996) — AOTY Must Hear 1990s** : #193, 7.0/10 Scaruffi.
+**"Good News For People Who Love Bad News" (2004) — AOTY Must Hear 2000s** : #312, 80 AOTY.
+**"The Moon & Antarctica" (2000) — AOTY Must Hear 2000s** : #498, 81 AOTY.
+**"Building Nothing Out of Something" (2000) — AOTY Must Hear 2000s** : #518, 90 AOTY.
+**"The Lonesome Crowded West" (1998) — Scaruffi 1990s** : #942, 7.0/10 Scaruffi.
+**"This Is A Long Drive" (1996) — Scaruffi 1990s** : #943, 7.0/10 Scaruffi.
+**"The Lonesome Crowded West" (1998) — Pitchfork: The 150 Best Albums of the 1990s** : #125, 7.0/10 Scaruffi.
+**"This Is A Long Drive" (1996) — Sputnikmusic Best Albums 1996** : #71, 7.0/10 Scaruffi.
+**"The Lonesome Crowded West" (1998) — Sputnikmusic Best Albums 1997** : #7, 7.0/10 Scaruffi.
+**"ナイト・オン・ザ・サン (Night on the Sun)" (1999) — Sputnikmusic Best Albums 1999** : #143, 3.99 Sputnik.
+**"The Moon & Antarctica" (2000) — Sputnikmusic Best Albums 2000** : #12, 81 AOTY.
+**"Too Many Fiestas for Rueben" (2014) — Sputnikmusic Best Albums 2014** : #1, 4.38 Sputnik.

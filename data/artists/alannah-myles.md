@@ -15,4 +15,4 @@
 **"Black Velvet" — Billboard Year-End Hot 100** : #18, 1990. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Rockinghorse" (1992) — Juno Awards: Album of the Year** : #1994. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
+**"Rockinghorse" (1992) — Juno Awards: Album of the Year** : #1994.

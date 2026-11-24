@@ -6,9 +6,13 @@
 ## genres
 - Instrumental
 - Surf music
+- Surf Rock
 
 ## songs
+**Hawaii Five-O (1969)** : The Ventures, an established surf rock group, adapted the "Hawaii Five-O" theme composed by Morton Stevens. They improved the song and extended its melody, transforming it into a legitimate pop hit that reached number four in 1969. The song "grooved like a late 60s rock smash" and benefited from the TV show's top 20 ratings. "when established Surf Rock Group, the ventures got a hold of the Hawaii 5.0 theme. They improved the song, extended the melody, and turned it into a legitimate pop hit. The ventures Hawaii 5.0 reached number four in 1969." ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Moon Dog** : The Ventures released their own version of "Moon Dog," originally by The Gamblers. It is suggested that Larry Taylor's brother, Mel Taylor, who was the drummer for The Ventures, might have played a role in bringing the track to their attention. "Other versions of it started to sprout up by people like The Ventures, The Surferies, and The Beach Boys." ← Episode 86： ＂LSD-25＂ by the Gamblers | https://www.youtube.com/watch?v=UNd6UwbL1rA
+**Theme to Hawaii Five-0 (1969)** : The surf rockers The Ventures made a notable comeback in 1969 with their "chugging" theme to CBS TV's "Hawaii 50." This contributed to the significant resurgence of instrumentals at the close of the 1960s and beginning of the 1970s, largely propelled by their association with movies and television. "The surf rockers The Ventures remember them made a comeback in 69 with their chugging theme to CBS TV's Hawaii 50." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Walk, Don't Run (1960)** : This instrumental by the Seattle Guitar Combo reached number two in 1960. Their success helped to validate how Duane Eddy's pioneering instrumental rock had opened the door for a subsequent wave of surf guitar instrumentalists. "The Ventures, who took Walk Don't Run to number two in 1960." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Cover of "Honky Tonk"** : The Ventures, as an established instrumental act, covered Bill Doggett's "Honky Tonk," further solidifying its status as a staple for instrumental bands. "It became a staple for cover bands, and it was recorded by the obvious instrumental acts like the ventures." ← Episode 50： ＂Honky Tonk＂, by Bill Doggett | https://www.youtube.com/watch?v=H2rYnKmeZF0

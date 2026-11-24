@@ -1,9 +1,13 @@
 # artist - John Mayer
 
+## songs
+**Paper Doll (2012)** : This song was written by John Mayer as his direct response to Taylor Swift's song "Dear John." Mayer reportedly "felt wounded enough" by Swift's portrayal of their age-inappropriate romance that he penned his own musical retort a couple of years after her song's release. "He felt wounded enough by the song that a couple of years later, he wrote his own response to Taylor, paper doll." ← Hit Parade Music History and Music Trivia > Taylor’s Version of Country, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **Former Calabasas Mansion** : John Mayer's old mansion in Calabasas, a gated community in California also home to Will Smith, Justin Bieber, and Travis Barker, was used as a studio where USS co-wrote the song "Who's With Me" with a member of OneRepublic. "We wrote it with a guy that was in one republic and when I we he lived in John Mayor's old mansion." ← https://www.youtube.com/watch?v=N-3eddy4J7g ← john-mayer
 **Music Videos Directed by Director X** : John Mayer is an artist whose music videos have been directed by Director X. "John Mayer, the list goes on." ← https://www.youtube.com/watch?v=QBCEmZ4Jheo ← john-mayer
 **Target of Taylor Swift's "Dear John" (2010)** : John Mayer, referred to as "Paramore John Mayer," was the target of Taylor Swift's "most devastating diss," "Dear John," from her 2010 album "Speak Now." The song explicitly addressed their age difference and his behavior, with lyrics like, "Don't you think I was too young to be missed with the girl in the dress cried the whole?" "her takedown of Paramore John Mayer, who was much older than Swift but not Wiser." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+**Target of "Dear John"** : John Mayer, a guitarist and songwriter, dated Taylor Swift when he was 31 and she was 19, making him the widely understood target of Swift's song "Dear John." He "felt wounded enough by the song" that he later wrote his own response track, "Paper Doll." "At least of all, it's Target, guitarist and songwriter John Mayer, who dated Swift when he was 31 and she was 19." ← Hit Parade Music History and Music Trivia > Taylor’s Version of Country, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **MTV Video Music Award for Best New Artist (2002)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q595693
@@ -48,6 +52,6 @@
 **"Say" — Billboard Year-End Hot 100** : #60, 2008. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Continuum" (2006) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #486, 4.03 Sputnik. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Continuum" (2006) — Grammy Award: Album of the Year nominees** : #2007, 4.03 Sputnik. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Continuum" (2006) — Sputnikmusic Best Albums 2006** : #118, 4.03 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/
+**"Continuum" (2006) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #486, 4.03 Sputnik.
+**"Continuum" (2006) — Grammy Award: Album of the Year nominees** : #2007, 4.03 Sputnik.
+**"Continuum" (2006) — Sputnikmusic Best Albums 2006** : #118, 4.03 Sputnik.

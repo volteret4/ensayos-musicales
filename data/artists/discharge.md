@@ -21,4 +21,4 @@
 **Original D-Beat Band** : Discharge is recognized as one of the original D-Beat bands, a hardcore derivative from the UK characterized by a distinctive drum pattern. "One of the original Debeat bands." ← https://www.youtube.com/watch?v=0qigzi1j81U ← discharge
 
 ## lists
-**"Hear Nothing See Nothing Say Nothing" (1982) — Scaruffi 1980s** : #376, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Hear Nothing See Nothing Say Nothing" (1982) — Scaruffi 1980s** : #376, 7.0/10 Scaruffi.

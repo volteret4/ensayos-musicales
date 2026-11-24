@@ -7,8 +7,10 @@
 
 ## genres
 - 60s Vibe
+- British Guitar Combo
 - Madchester
 - Madchester Sound
+- Rave Rock
 
 ## labels
 - Factory Records
@@ -30,3 +32,4 @@
 **Opening Act for Happy Mondays (2010s)** : The Inspiral Carpets performed as the opening act for the Happy Mondays at their reunion gig at Brixton Academy in London. "Come to the gig at Brixton Academy, he said, the Inspiral Carpets are opening, it'll be great." ← https://www.youtube.com/watch?v=hjProJd_JrM ← inspiral-carpets
 **Past Their Best Day** : By the time Madchester was ending, around 1992-1993, the Inspiral Carpets were considered to have gone past their prime. "The Inspire Recarbons had gone past their best day." ← https://www.youtube.com/watch?v=KF_adyXf86Q ← inspiral-carpets
 **Psychedelic Sound** : The Inspiral Carpets were noted for being among the more psychedelic sounding of the Manchester bands, with their sound defined by 60s-inspired keyboards. "They were among the more psychedelic sounding of all the Manchester bands with their 60s inspired keyboards." ← https://www.youtube.com/watch?v=DSvoppf1dGY ← inspiral-carpets
+**Noel Gallagher's Early Role** : In the summer of 1991, Inspiral Carpets were touring with a drum tech named Noel Gallagher, who had not yet formed his own band, Oasis. "Inspiral Carpets, who, footnote, were touring with a drum tech named Noel Gallagher who'd yet to form his own band." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/

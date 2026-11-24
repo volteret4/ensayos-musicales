@@ -19,4 +19,4 @@
 **GMA Dove Award for Group of the Year** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q109971776
 
 ## lists
-**"Inland" (2013) — Sputnikmusic Best Albums 2013** : #57, 4.05 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2013/
+**"Inland" (2013) — Sputnikmusic Best Albums 2013** : #57, 4.05 Sputnik.

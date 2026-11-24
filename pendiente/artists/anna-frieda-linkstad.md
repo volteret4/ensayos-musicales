@@ -1,0 +1,7 @@
+# artist - Anna Frieda-Linkstad
+
+## albums
+**Something's Going On (1982)** : This album was produced entirely by Phil Collins in 1982 and became the best-selling solo album ever by any former member of the Swedish mega-group ABBA. Its lead single, "I Know There's Something Going On," notably featured Collins's thundering gated drums. "And perhaps most memorably, former oba singer Anna Friede-Linkstad, aka Frida, hired Collins to produce the entirety of her 1982 album Something's Going On, the best-selling solo album ever by any former member of the Swedish mega group." ← Hit Parade Music History and Music Trivia > The Invisible Miracle Sledgehammer Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## songs
+**I Know There's Something Going On (1982)** : The lead single from Frida's 1982 album "Something's Going On," produced by Phil Collins. This song was a Top 10 or Top 20 hit in countries worldwide, and its "thundering Gated drums" were unmistakably the work of Phil Collins, representing his most potent drumming on a pop hit since "In The Air Tonight." "The Frida albums lead single I Know There There Something Going On was a top 10 or top 20 hit in countries around the world, and the thundering Gated drums on the single were unmistakably the work of Phil Collins, his most potent drumming on a pop hit since the year tonight." ← Hit Parade Music History and Music Trivia > The Invisible Miracle Sledgehammer Edition | https://my.slate.com/podcasts/feeds/hit-parade/

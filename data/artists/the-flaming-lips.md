@@ -29,17 +29,17 @@
 ## lists
 **"The Soft Bulletin" (1999) — 1001 Albums You Must Hear Before You Die** : #891, 91 AOTY.
 **"Yoshimi Battles the Pink Robots" (2002) — 1001 Albums You Must Hear Before You Die** : #952, 85 AOTY.
-**"The Soft Bulletin" (1999) — AOTY Must Hear 1990s** : #33, 91 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"At War With the Mystics" (2006) — AOTY Must Hear 2000s** : #203, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Yoshimi Battles the Pink Robots" (2002) — AOTY Must Hear 2000s** : #403, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Telepathic Surgery" (1989) — Scaruffi 1980s** : #51, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Oh My Gawd" (1987) — Scaruffi 1980s** : #149, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Hear It Is" (1986) — Scaruffi 1980s** : #416, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Flaming Lips" (1984) — Scaruffi 1980s** : #858, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"In A Priest Driven Ambulance" (1990) — Scaruffi 1990s** : #682, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Hit To Death In The Future Head" (1992) — Scaruffi 1990s** : #683, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Soft Bulletin" (1999) — Pitchfork: The 150 Best Albums of the 1990s** : #99, 91 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"In A Priest Driven Ambulance" (1990) — Sputnikmusic Best Albums 1990** : #188, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"The Soft Bulletin" (1999) — Sputnikmusic Best Albums 1999** : #20, 91 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1999/
-**"Yoshimi Battles the Pink Robots" (2002) — Sputnikmusic Best Albums 2002** : #57, 85 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/
-**"Peace Sword" (2013) — Sputnikmusic Best Albums 2013** : #196, 3.93 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2013/
+**"The Soft Bulletin" (1999) — AOTY Must Hear 1990s** : #33, 91 AOTY.
+**"At War With the Mystics" (2006) — AOTY Must Hear 2000s** : #203, 81 AOTY.
+**"Yoshimi Battles the Pink Robots" (2002) — AOTY Must Hear 2000s** : #403, 85 AOTY.
+**"Telepathic Surgery" (1989) — Scaruffi 1980s** : #51, 8.0/10 Scaruffi.
+**"Oh My Gawd" (1987) — Scaruffi 1980s** : #149, 7.5/10 Scaruffi.
+**"Hear It Is" (1986) — Scaruffi 1980s** : #416, 7.0/10 Scaruffi.
+**"Flaming Lips" (1984) — Scaruffi 1980s** : #858, 7.0/10 Scaruffi.
+**"In A Priest Driven Ambulance" (1990) — Scaruffi 1990s** : #682, 7.0/10 Scaruffi.
+**"Hit To Death In The Future Head" (1992) — Scaruffi 1990s** : #683, 7.0/10 Scaruffi.
+**"The Soft Bulletin" (1999) — Pitchfork: The 150 Best Albums of the 1990s** : #99, 91 AOTY.
+**"In A Priest Driven Ambulance" (1990) — Sputnikmusic Best Albums 1990** : #188, 7.0/10 Scaruffi.
+**"The Soft Bulletin" (1999) — Sputnikmusic Best Albums 1999** : #20, 91 AOTY.
+**"Yoshimi Battles the Pink Robots" (2002) — Sputnikmusic Best Albums 2002** : #57, 85 AOTY.
+**"Peace Sword" (2013) — Sputnikmusic Best Albums 2013** : #196, 3.93 Sputnik.

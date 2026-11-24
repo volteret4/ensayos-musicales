@@ -1,5 +1,8 @@
 # artist - Fats Domino
 
+## members
+- Dave Bartholomew
+
 ## genres
 - American Rhythm and Blues
 - Arunbe
@@ -8,6 +11,7 @@
 - Early Rock
 - New Orleans R&B
 - Pop
+- Pop music
 - R&B
 - Rock and Roll
 
@@ -30,6 +34,7 @@
 
 ## songs
 **Ain't That a Shame** : This song served as Fats Domino's breakthrough rock and roll hit, propelling his career and prompting Imperial Records to release his first album. It featured a characteristic bass line common in New Orleans R&B records, which was notably similar to the one later used in "Blueberry Hill." "When we left Domano he had just had his breakout rock and roll hit with Ain't That a Shame." ← Episode 45： ＂Blueberry Hill＂, by Fats Domino | https://www.youtube.com/watch?v=VqIwZGJHgBg
+**Ain't That a Shame (Peak: #10 Pop, #1 R&B)** : This classic song marked Fats Domino's breakthrough on the charts, reaching number ten on the pop chart and number one on the R&B chart. Like many of his hits, it was co-written with fellow New Orleans songwriter Dave Bartholomew. "Fats Domino broke on the charts with his number ten pop, number one R&B classic, Ain't That a Shame." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **As Time Goes By (1956)** : Included on one of Domino's singles, this old standard was part of a formula he employed for approximately 18 months, where one side of each single featured an original song and the other a standard from two to four decades prior. "His single releases for the next 18 months or so would include on them such standards as I'm in the mood for love, as time goes by and when my dreamboat comes home." ← Episode 45： ＂Blueberry Hill＂, by Fats Domino | https://www.youtube.com/watch?v=VqIwZGJHgBg
 **Blue Monday** : Originally penned by Dave Bartholomew for Smiley Lewis, Fats Domino's remake of "Blue Monday" became his next major hit after "Blueberry Hill," achieving nearly the same level of success. The song notably featured a distinctive bass line motif frequently used by Bartholomew in his arrangements. "Domino's remake of that song would become his next hit after Blueberry Hill, and almost his biggest success." ← Episode 45： ＂Blueberry Hill＂, by Fats Domino | https://www.youtube.com/watch?v=VqIwZGJHgBg
 **Blueberry Hill (1956)** : This song, originally written in 1940 by Vincent Rose, Larry Stock, and Al Lewis, became Fats Domino's biggest hit, climbing to number two on the pop charts. Despite producer Dave Bartholomew's initial reluctance and attempt to prevent its release, engineer Bunny Robin expertly pieced together a complete version from disparate half-finished takes, aided by drummer Earl Palmer's precise timing. "The song became Domino's biggest hit, rising to number two in the pop charts." ← Episode 45： ＂Blueberry Hill＂, by Fats Domino | https://www.youtube.com/watch?v=VqIwZGJHgBg
@@ -44,6 +49,7 @@
 **I Hear You Knocking** : Fats Domino, a favorite musician of Little Richard, also recorded this song, ensuring that Richard would have heard it and making it part of the chain of inspiration for his own "Keep a-Knockin'". "That was also recorded by Fats Domino, one of Little Richard's favourite musicians, so we can be sure that Richard had heard it." ← Episode 54： Keep A Knockin | https://www.youtube.com/watch?v=oA4Y_K9E5Y4
 **I'm in the Mood for Love (1956)** : This classic standard was featured on one side of a double-sided single, paired with "My Blue Heaven," as part of Fats Domino's strategy to broaden his appeal to older pop and country listeners. It was among several older songs he recorded during this period. "His single releases for the next 18 months or so would include on them such standards as I'm in the mood for love." ← Episode 45： ＂Blueberry Hill＂, by Fats Domino | https://www.youtube.com/watch?v=VqIwZGJHgBg
 **I'm Ready, I'm Willing, and I'm Able** : Co-written by Fats Domino and Al Lewis, this song exemplifies the collaborative efforts that followed Lewis's career resurgence, spurred by the success of Domino's "Blueberry Hill." It is an original composition that reflects the continued development of Domino's music. "Louis made a comeback as an R&B songwriter, co-writing songs for Domino himself." ← Episode 45： ＂Blueberry Hill＂, by Fats Domino | https://www.youtube.com/watch?v=VqIwZGJHgBg
+**I'm Walkin' (1957)** : Ricky Nelson covered this classic song by Fats Domino. Nelson's cover reached number four on Billboard's Best Sellers Chart, matching the peak of Domino's original on the magazine's radio chart. "a cover of Fats Domino's I'm Walking, no one would ever underestimate the power of television again." ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **My Blue Heaven (1956)** : Representing Domino's initial effort to appeal to country and older pop audiences, this song was a cover of an old standard originally a hit in 1927 for The Crew and Jane Austen. Domino's rendition, which offered a mild R&B flavor, became a top 20 pop hit and was released as a double-sided single with "I'm in the Mood for Love." "His first attempt at doing so became a top 20 pop hit." ← Episode 45： ＂Blueberry Hill＂, by Fats Domino | https://www.youtube.com/watch?v=VqIwZGJHgBg
 **Valley of Tears** : A song by Fats Domino, which The Crickets covered on July 1, 1957, before they had any chart success. "And cover versions of Fat Stomachnose Valley of Tears and Little Richards Ready Teddy." ← Episode 74： ＂It Doesn't Matter Any More＂ by Buddy Holly | https://www.youtube.com/watch?v=6unib5T2mDQ
 **Wait and See** : Fat Stumino performed this minor single in the film "Jamboree," one of the many exploitation films starring popular DJs that featured performances by rock and roll musicians. "Fat Stumino was in most of these, and he was in this one, singing his minor single, Wait and See." ← Episode 66： ＂Great Balls of Fire＂ by Jerry Lee Lewis | https://www.youtube.com/watch?v=CVp5e4EWCqI

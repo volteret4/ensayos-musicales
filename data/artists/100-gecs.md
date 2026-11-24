@@ -20,5 +20,5 @@
 **Digital Chaos and Internet Nostalgia Personified** : The duo, formed by Laura Les and Dylan Brady, are the personification of digital chaos and internet nostalgia. "Juan J. Drex son la personalificación de el caos digital y la nostalgia de Internet." ← 5 Discos Para Entrarle al HYPERPOP | https://www.youtube.com/watch?v=wP8MaC-2D8A
 
 ## lists
-**"1000 Gecs" (2019) — Scaruffi 2010s** : #385, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"10,000 gecs" (2023) — Kerrang! The 50 Best Albums of 2023** : #26. ← musicbrainz | https://beta.musicbrainz.org/series/f1f98ed3-f88a-4aac-bf6c-cf63b60c9e6e
+**"1000 Gecs" (2019) — Scaruffi 2010s** : #385, 7.0/10 Scaruffi.
+**"10,000 gecs" (2023) — Kerrang! The 50 Best Albums of 2023** : #26.

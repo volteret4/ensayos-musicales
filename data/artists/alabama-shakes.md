@@ -16,5 +16,5 @@
 **Grammy Award for Best New Artist (2013)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643
 
 ## lists
-**"Sound & Color" (2015) — Grammy Award: Album of the Year nominees** : #2016. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Sound & Color" (2015) — Pitchfork: The 200 Best Albums of the 2010s** : #138. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
+**"Sound & Color" (2015) — Grammy Award: Album of the Year nominees** : #2016.
+**"Sound & Color" (2015) — Pitchfork: The 200 Best Albums of the 2010s** : #138.

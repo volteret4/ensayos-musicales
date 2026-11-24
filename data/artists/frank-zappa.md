@@ -20,6 +20,8 @@
 **The One** : Johnny Otis conducted The Mothers of Invention in the studio on this and a few other songs, with Frank Zappa in the control room. Zappa sought Otis's assistance to achieve a "greasy 50s sound" for the track. During its recording, Otis notably clapped his hands in bassist Roy Estrada's face. "Otis also conducted the mothers of invention in the studio and a few songs, while Zapper was in the control room, helping him get the greasy 50s sound he wanted, on songs like the one." ← REUPLOAD Episode 71： ＂Willie and the Hand Jive＂ by Johnny Otis | https://www.youtube.com/watch?v=Ez6BCUlI6Rg
 **Porn Wars (1985)** : This song is from a period when Frank Zappa was deeply obsessed with politics, featuring excerpts of himself speaking in the U.S. Senate against the censorship movement. "tenemos canciones como porn wars, en el cual Franzapa pone fragmentos de sí mismo hablando en el Senado de Estados Unidos en contra de este movimiento." ← Music Radar Clan > Parental Advisory, sorprendente historia tras esta etiqueta | https://www.youtube.com/watch?v=Cpz35BoAOMs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← frank-zappa ← frank-zappa
 **Son of Mr. Green Genes (1969)** : This song from Frank Zappa's "Hot Rats" album featured Johnny Otis's teenage son, Sugar, playing bass. "Otis's teenage son Sugar also played with Zapper, playing bass on son of Mr. Green Jeans from Zapper's heart rats album." ← REUPLOAD Episode 71： ＂Willie and the Hand Jive＂ by Johnny Otis | https://www.youtube.com/watch?v=Ez6BCUlI6Rg
+**Valley Girl (1982)** : This was a one-off novelty hit, reaching number 32 in 1982. It was recorded with his daughter, Moon Unit Zappa. "Frank Zappa could score one-off novelty hits like 1982's Valley Girl, a number 32 hit recorded with his daughter Moon Unit." ← Hit Parade Music History and Music Trivia > The White and Nerdy Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Valley Girl (1982)** : This was a one-off novelty hit for Frank Zappa, reaching number 32 in 1982. It was recorded with his daughter, Moon Unit Zappa. "Frank Zappo could score one-off novelty hits like 1982's Valley Girl, a number 32 hit recorded with his daughter Moon Unit." ← Hit Parade Music History and Music Trivia > The White and Nerdy Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Admiration for Johnny Otis** : Frank Zappa was a significant admirer of Johnny Otis, to the extent that he copied Otis's distinctive trademark beard. Zappa initiated contact with Otis in the late 1960s, leading to their casual collaboration. "in the late 60s he was contacted by Frank Zapper, who was such a fan of Otis that he copied his trademark beard from Otis." ← REUPLOAD Episode 71： ＂Willie and the Hand Jive＂ by Johnny Otis | https://www.youtube.com/watch?v=Ez6BCUlI6Rg
@@ -43,6 +45,7 @@
 **Spider Species** : The spider *Packagnatha Zappa* was named after Frank Zappa by two Belgian biologists who discovered it in the mountainous regions of Cameroon. They observed that the spider's markings strongly resembled Zappa's distinctive moustache. "Two Belgian biologists found it and thought its markings looked a lot like Frank's moustache." ← https://www.youtube.com/watch?v=VMPLplhDk8I ← frank-zappa
 **Victories in Censorship Negotiations** : The negotiations concluded with significant victories for Frank Zappa, achieving his primary goals: ensuring no censorship of explicit lyrical or musical content, and preventing the outright prohibition of sales and distribution of such material, instead allowing for special distribution or time-dependent radio broadcast. "conseguía las dos grandes victorias que él quería. La primera era la no censura de este tipo de material explícito... y por otro lado no se prohibiría la venta y distribución de este tipo de material o serió una distribución especial." ← Music Radar Clan > Parental Advisory, sorprendente historia tras esta etiqueta | https://www.youtube.com/watch?v=Cpz35BoAOMs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← frank-zappa ← frank-zappa
 **Voter Registration at Concerts** : In an effort to encourage civic participation during his politically charged phase, Frank Zappa set up booths, not for voting, but for voter registration at his concerts across the United States. "Franzapa había decidido poner cabinas, no de voto, pero sí cabinas para registrarte para votar en sus conciertos en Estados Unidos." ← Music Radar Clan > Parental Advisory, sorprendente historia tras esta etiqueta | https://www.youtube.com/watch?v=Cpz35BoAOMs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← frank-zappa ← frank-zappa
+**Testimony at PMRC Hearings (1985)** : Frank Zappa, described as a "Hipster Rock God," sat alongside John Denver and Dee Snider to testify before Congress as part of the Parents Music Resource Center (PMRC) hearings in 1985. He was an opponent of music censorship. "At the PMRC hearings, Denver sat alongside Hipster Rock God Frank Zappa and Heavy Metal Frontman, D Snyder of Twisted Sister." ← Hit Parade Music History and Music Trivia > Country Roads and Summer Nights Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Rock and Roll Hall of Fame (1995)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
@@ -50,19 +53,19 @@
 
 ## lists
 **"Hot Rats" (1969) — 1001 Albums You Must Hear Before You Die** : #173, 7.0/10 Scaruffi.
-**"Hot Rats" (1969) — AOTY Must Hear 1960s** : #8, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"Apostrophe (')" (1974) — AOTY Must Hear 1970s** : #125, 77 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Freak Out" (1966) — Scaruffi 1960s** : #21, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Absolutely Free" (1967) — Scaruffi 1960s** : #22, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"We're Only In It For The Money" (1967) — Scaruffi 1960s** : #23, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Hot Rats" (1969) — Scaruffi 1960s** : #122, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Lumpy Gravy" (1968) — Scaruffi 1960s** : #123, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Burnt Weeny Sandwich" (1970) — Scaruffi 1970s** : #38, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Weasels Ripped My Flesh" (1970) — Scaruffi 1970s** : #39, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Grand Wazoo" (1973) — Scaruffi 1970s** : #99, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Orchestral Favourites" (1979) — Scaruffi 1970s** : #294, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Roxy And Elsewhere" (1974) — Scaruffi 1970s** : #295, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Waka/Jawaka" (1972) — Scaruffi 1970s** : #296, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Jazz From Hell" (1986) — Scaruffi 1980s** : #422, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Perfect Stranger - Director: Pierre Boulez" (1984) — Scaruffi 1980s** : #423, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Zappa" (1983) — Scaruffi 1980s** : #424, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Hot Rats" (1969) — AOTY Must Hear 1960s** : #8, 7.0/10 Scaruffi.
+**"Apostrophe (')" (1974) — AOTY Must Hear 1970s** : #125, 77 AOTY.
+**"Freak Out" (1966) — Scaruffi 1960s** : #21, 8.0/10 Scaruffi.
+**"Absolutely Free" (1967) — Scaruffi 1960s** : #22, 8.0/10 Scaruffi.
+**"We're Only In It For The Money" (1967) — Scaruffi 1960s** : #23, 8.0/10 Scaruffi.
+**"Hot Rats" (1969) — Scaruffi 1960s** : #122, 7.0/10 Scaruffi.
+**"Lumpy Gravy" (1968) — Scaruffi 1960s** : #123, 7.0/10 Scaruffi.
+**"Burnt Weeny Sandwich" (1970) — Scaruffi 1970s** : #38, 8.0/10 Scaruffi.
+**"Weasels Ripped My Flesh" (1970) — Scaruffi 1970s** : #39, 8.0/10 Scaruffi.
+**"Grand Wazoo" (1973) — Scaruffi 1970s** : #99, 7.5/10 Scaruffi.
+**"Orchestral Favourites" (1979) — Scaruffi 1970s** : #294, 7.0/10 Scaruffi.
+**"Roxy And Elsewhere" (1974) — Scaruffi 1970s** : #295, 7.0/10 Scaruffi.
+**"Waka/Jawaka" (1972) — Scaruffi 1970s** : #296, 7.0/10 Scaruffi.
+**"Jazz From Hell" (1986) — Scaruffi 1980s** : #422, 7.0/10 Scaruffi.
+**"Perfect Stranger - Director: Pierre Boulez" (1984) — Scaruffi 1980s** : #423, 7.0/10 Scaruffi.
+**"Zappa" (1983) — Scaruffi 1980s** : #424, 7.0/10 Scaruffi.

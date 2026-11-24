@@ -1,0 +1,32 @@
+# artist - Charlie XCX
+
+## members
+- Charlotte Atchison
+
+## genres
+- blog house
+- dance genres
+- English singer-songwriter
+- Pop
+- UK garage
+
+## concerts
+- **Times Square Performance** : Charlie XCX performed a concert in Times Square for a fast fashion label, an event one critic viewed as a potential "downslope" or "fast backlash" for her in 2025. "playing a concert in time square for a fast fashion labels so there's my prediction perhaps fast backlash 2025."
+
+## albums
+**Brat (2024)** : Declared the album of the year by one critic, this record dominated conversation and critics' polls in 2024, winning by a two-to-one ratio—an unprecedented level of dominance in the history of such polls. It was praised for playing and cohering effectively as an album, rather than just a collection of singles. The album's marketing, particularly its simple cover design, was impactful, becoming a meme that even reached the presidential election. Her persona as a "laissez faire party girl" resonated, especially with an "aging zoomer" demographic. The music itself traverses obscure dance genres like blog house and 2001 UK garage. "The album of the year for me was Charlie XC X's brat. Including all of its permutations, brat, but it's different, but it's still brat or whatever they all were called." ← Hit Parade Music History and Music Trivia > The Bridge - Slate Music Club 2024 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Brat (Permutations)** : The album *Brat* was released with various permutations, including "brat, but it's different," and "but it's still brat," which complicated its story in interesting ways. "Including all of its permutations, brat, but it's different, but it's still brat or whatever they all were called." ← Hit Parade Music History and Music Trivia > The Bridge - Slate Music Club 2024 | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## songs
+**360 (2024)** : Identified as one of several potential hit singles from the *Brat* album, it was referred to as a "banger." "what's the single from brat is it 360 is it Apple is it girls so confusing it's like you pick your favorite right." ← Hit Parade Music History and Music Trivia > The Bridge - Slate Music Club 2024 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Apple (2024)** : Mentioned as one of several potential hit singles from the *Brat* album, described as a "banger." "what's the single from brat is it 360 is it Apple is it girls so confusing it's like you pick your favorite right." ← Hit Parade Music History and Music Trivia > The Bridge - Slate Music Club 2024 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Fancy (2014)** : As an English singer-songwriter, Charlie XCX expertly deployed the irresistible 80s-esque chorus hook for Iggy Azalea's "Fancy," a hit that dominated the summer of 2014. "which was expertly deployed by English singer songwriter Charlotte Atchison, aka Charlie XCX." ← Hit Parade Music History and Music Trivia > Rolling in God’s Royal Uptown Road Edition. | https://my.slate.com/podcasts/feeds/hit-parade/
+**Girls So Confusing (2024)** : One of the potential hit singles from *Brat*, it also notably had a remix featuring Lorde, which was literally titled with Lorde's name. "Obviously the remix of girls so confusing featuring Lord literally in the title." ← Hit Parade Music History and Music Trivia > The Bridge - Slate Music Club 2024 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Guess (2024)** : This song from *Brat* received a significant redo featuring Billie Eilish, who was noted to be "now in her fully queer phase and embracing it." "The redo of guests featuring Billy Eilish, Billy now in her fully queer phase and embracing it." ← Hit Parade Music History and Music Trivia > The Bridge - Slate Music Club 2024 | https://my.slate.com/podcasts/feeds/hit-parade/
+**I Love It (2013)** : Charlie XCX had scored a top 10 hit the year before "Fancy" with Icona Pop's classic "I Love It," demonstrating her songwriting and performing prowess. "Atchison was on a roll, having scored a top 10 hit the year before with iconopop's classic, I love it." ← Hit Parade Music History and Music Trivia > Rolling in God’s Royal Uptown Road Edition. | https://my.slate.com/podcasts/feeds/hit-parade/
+**Sympathy Is A Knife (2024)** : Listed as one of the "bangers" from the *Brat* album, suggesting its hit potential. "Sympathy is a knife. I mean, it was just banger after banger after banger and they all qualify as the hit." ← Hit Parade Music History and Music Trivia > The Bridge - Slate Music Club 2024 | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## curiosities
+**Album Cover Marketing Success** : The simplicity of *Brat*'s album cover was a key marketing element, leading it to become a widespread meme that even infiltrated discussions around the presidential election. "the marketing I think so much of it was really just about the simplicity of the album cover not the music but just the idea of getting the music out there to people who would never have listened to an album that is basically like blog house and 2001 UK garage." ← Hit Parade Music History and Music Trivia > The Bridge - Slate Music Club 2024 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Critical Acclaim and Audience** : Despite some perceived backlash suggesting critics loved *Brat* "just to be cool with the kids," North American critics have been Charlie XCX's main audience for the past decade, making its widespread success a "crossover moment" for both the artist and the critics. "critics in North America have been the main audience for Charlie XCX for the past decade. And so it's really our crossover moment as much as hers." ← Hit Parade Music History and Music Trivia > The Bridge - Slate Music Club 2024 | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Brat Green" vs. Pantone** : The distinctive green color associated with the *Brat* album was so impactful that one critic jokingly suggested it instantly "defeated" Pantone's color of the year, Mocha Moose, with another agreeing that Pantone was "insane" for releasing a duller color in its wake. "do you think that pantone released one of its dullest colors of the year ever mocha moose because they just knew they couldn't beat Brett. Brett green on the year I mean without question yeah pantone was was defeated instantly by breath." ← Hit Parade Music History and Music Trivia > The Bridge - Slate Music Club 2024 | https://my.slate.com/podcasts/feeds/hit-parade/

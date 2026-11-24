@@ -5,4 +5,4 @@
 **Use Somebody (2009)** : Bat for Lashes covered this Kings of Leon song, with Nathan Followell singling out her version as possibly his favorite cover ever done of their music, considering it "one of the best covers anyone's ever done." "You lead it when I'm knocked up, which is maybe my favorite. It's really, really. She's the sweetest show. Yeah. You should check that that's probably one of the best covers anyone's ever done." ← https://www.youtube.com/watch?v=KyvYpggZXiU ← bat-for-lashes
 
 ## lists
-**"Fur and Gold" (2006) — AOTY Must Hear 2000s** : #180, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
+**"Fur and Gold" (2006) — AOTY Must Hear 2000s** : #180, 82 AOTY.

@@ -1,12 +1,14 @@
 # artist - Deep Purple
 
 ## members
+- Ian Gillan
 - Jon Lord
 - Ritchie Blackmore
 
 ## genres
 - Album Rock
 - Heavy Metal
+- Metal
 - Rock
 
 ## concerts
@@ -17,9 +19,10 @@
 
 ## songs
 **Highway Star (1972)** : This 1972 song features John Lorde running his Hammond organ through a Big Muff pedal, showcasing how distortion pedals could be effectively applied to instruments other than guitars to create a powerful, growling sound. "Check out John Lorde from Deep Purple on Highway Star from 1972. This is a Hammond organ run through a pedal." ← https://www.youtube.com/watch?v=iGav9uJwA_w ← deep-purple
-**Smoke on the Water** : The Rolling Stones Mobile Recording Studio is explicitly mentioned and immortalized within the lyrics of this song. "It's even immortalized in the deep purple song Smoke on the Water." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← deep-purple ← deep-purple
-**Smoke on the Water** : Consistently appeared in multiple surveys for greatest guitar riffs. It ranked at number four in the Sky Arts survey and also at number four in Guitar World magazine's survey. "deep purples, smoke on the water, which you can see coming." ← https://www.youtube.com/watch?v=KtdIMNoHqA8 ← deep-purple ← deep-purple
-**Smoke on the Water** : Guitarist Ritchie Blackmore based the iconic opening riff of this song on a reversed version of the opening notes of Beethoven's Fifth Symphony. The riff also bears similarity to a 1963 bossa nova song called "Maria Moita." "Based the iconic riff on a reversed version of the opening notes of Beethoven's Fifth Symphony." ← https://www.youtube.com/watch?v=0DFmS6MPbFI ← deep-purple
+**Smoke on the Water (1973)** : The Rolling Stones Mobile Recording Studio is explicitly mentioned and immortalized within the lyrics of this song. "It's even immortalized in the deep purple song Smoke on the Water." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← deep-purple ← deep-purple
+**Smoke on the Water (1973)** : Consistently appeared in multiple surveys for greatest guitar riffs. It ranked at number four in the Sky Arts survey and also at number four in Guitar World magazine's survey. "deep purples, smoke on the water, which you can see coming." ← https://www.youtube.com/watch?v=KtdIMNoHqA8 ← deep-purple ← deep-purple
+**Smoke on the Water (1973)** : Guitarist Ritchie Blackmore based the iconic opening riff of this song on a reversed version of the opening notes of Beethoven's Fifth Symphony. The riff also bears similarity to a 1963 bossa nova song called "Maria Moita." "Based the iconic riff on a reversed version of the opening notes of Beethoven's Fifth Symphony." ← https://www.youtube.com/watch?v=0DFmS6MPbFI ← deep-purple
+**Smoke on the Water (1973)** : A formative early metal single that reached its peak at number four in 1973, marking a high watermark for the genre at the time. "Number four was also the High Watermark for the formative early metal single Smoke on the Water by Deep Purple, which reached its peak in 1973." ← Hit Parade Music History and Music Trivia > Hit Parade - The You Give Rock a Bad Name Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Formed from Roundabout Members** : Deep Purple was formed by John Lord and Richie Blackmore after they decided to leave Chris Curtis's band, Roundabout. "Without Curtis, John Mord and Richie Blackmore went on to form Deep Purple." ← Episode 113： ＂Needles and Pins＂ by The Searchers | https://www.youtube.com/watch?v=izC9ZBI0UHM
@@ -27,6 +30,7 @@
 **Pioneers of Heavy Metal (Mid-1970s)** : Deep Purple is cited as one of the influential bands whose "loud, heavy guitar rock" sound contributed to the definition and popularization of the heavy metal genre starting in the mid-1970s. "But once heavy metal was introduced into the music vernacular, other people began to pick it up and use it to describe a new wave of loud, heavy guitar rock as groups like Led Zeppelin, Black Sabbath, and Deep Purple began their rise." ← https://www.youtube.com/watch?v=D8GU8ZpSgY8 ← deep-purple
 **Sampled in a Single Song (Year not specified)** : Deep Purple is mentioned as one of the artists whose material was sampled in a single song that featured 20 separate samples. All artists involved, including Deep Purple, received a "little piece of it," indicating a licensing framework was in place for this particular use. "This one single features 20 separate samples and all the artists involved from the comedorist Deep Purple, James Brown and the suite got a little piece of it." ← https://www.youtube.com/watch?v=ak6OuOUkRrQ ← deep-purple ← deep-purple
 **Transition to Heavy Metal Sound** : Deep Purple, along with Led Zeppelin, was among the bands contributing to the "heavy sound" that emerged in the late 1960s, marking a transitional phase towards what would become heavy metal. "el sonido heavy que empieza ya con lecepeling o con diparpo en las finales de los 60." ← Music Radar Clan > Black Sabbath： Y así nació el HEAVY METAL | https://www.youtube.com/watch?v=FX9uTcjFpvI&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← deep-purple ← deep-purple
+**Band Member on Concept Album** : Ian Gillan, a member of the rock band Deep Purple, was cast to play Jesus on the original 1970 concept album for "Jesus Christ Superstar," highlighting the project's blend of theatrical and rock talent. "Lloyd Webber and Rice even hired an actual rock star, Ian Gillen of the band Deep Purple, to play Jesus." ← Hit Parade Music History and Music Trivia > The Lullaby of Broadway Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Rock and Roll Hall of Fame (2016)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
@@ -39,7 +43,7 @@
 **"Deep Purple in Rock" (1970) — 1001 Albums You Must Hear Before You Die** : #187, 83 AOTY.
 **"Machine Head" (1972) — 1001 Albums You Must Hear Before You Die** : #241, 7.0/10 Scaruffi.
 **"Made in Japan" (1972) — 1001 Albums You Must Hear Before You Die** : #248, 7.5/10 Scaruffi.
-**"Machine Head" (1972) — AOTY Must Hear 1970s** : #178, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Deep Purple in Rock" (1970) — AOTY Must Hear 1970s** : #246, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Made in Japan" (1972) — Scaruffi 1970s** : #95, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Machine Head" (1972) — Scaruffi 1970s** : #243, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Machine Head" (1972) — AOTY Must Hear 1970s** : #178, 7.0/10 Scaruffi.
+**"Deep Purple in Rock" (1970) — AOTY Must Hear 1970s** : #246, 83 AOTY.
+**"Made in Japan" (1972) — Scaruffi 1970s** : #95, 7.5/10 Scaruffi.
+**"Machine Head" (1972) — Scaruffi 1970s** : #243, 7.0/10 Scaruffi.

@@ -9,3 +9,7 @@
 - New York Dolls
 - The Troggs
 - David Bowie
+- The Runaways
+- MC5
+- Question Mark and the Mysterians
+- The Stooges

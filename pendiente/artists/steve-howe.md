@@ -1,5 +1,8 @@
 # artist - Steve Howe
 
+## member of
+- GTR
+
 ## instruments
 - Guitar
 

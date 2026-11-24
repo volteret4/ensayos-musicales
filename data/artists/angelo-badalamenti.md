@@ -20,7 +20,7 @@
 **World Soundtrack Award – Lifetime Achievement (2008)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q8036245
 
 ## lists
-**"Soundtrack from Twin Peaks" (1990) — AOTY Must Hear 1990s** : #415, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Soundtrack from Twin Peaks" (1990) — Sputnikmusic Best Albums 1990** : #4, 80 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"Twin Peaks: Fire Walk With Me" (1992) — Sputnikmusic Best Albums 1992** : #5, 4.4 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"Twin Peaks: Music From Season 2 And More" (2007) — Sputnikmusic Best Albums 2007** : #99, 4.05 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2007/
+**"Soundtrack from Twin Peaks" (1990) — AOTY Must Hear 1990s** : #415, 80 AOTY.
+**"Soundtrack from Twin Peaks" (1990) — Sputnikmusic Best Albums 1990** : #4, 80 AOTY.
+**"Twin Peaks: Fire Walk With Me" (1992) — Sputnikmusic Best Albums 1992** : #5, 4.4 Sputnik.
+**"Twin Peaks: Music From Season 2 And More" (2007) — Sputnikmusic Best Albums 2007** : #99, 4.05 Sputnik.

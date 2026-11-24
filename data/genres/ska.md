@@ -75,6 +75,7 @@
 **Versatility and Danceability** : The genre's choppy beat was compared to punk, but it could express both anger and happiness, making it highly suitable for dancing. "It could be made angry or happy and it was just great for dancing." ← https://www.youtube.com/watch?v=9uTORLOm5Yg ← ska
 **Why "Ska"? – Murky Origin: Guitar Sound, Clue J. Johnson's Made-Up Word, Byron Lee, or The Skatalites** : The origin of the word "ska" is murky. Theories include: it was taken from the sound of the choppy guitar click (ska-ska-ska); a Jamaican musician named Clue J. Johnson liked to say "ska-vuvie" all the time; Byron Lee, leader of a band called the Dragonaires, coined it; or The Skatalites invented it when they changed their name from The Satellites. "The origins of the word SCA are a little murky." ← https://www.youtube.com/watch?v=VxWp7HrT8oE ← ska
 **Message in a Bottle - Ska meets Post Punk** : The Police's song "Message in a Bottle" from "Regatta de Blanc" was characterized as "Skah meets Post Punk," highlighting a specific fusion in their musical style. "In the UK, the album's first two singles were both number 1 hits, the Dub Reggae style walking on the moon, and the Skah meets Post Punk message in a bottle, whose romantic lyric found Sting brooding about how loneliness was like being a star." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
+**Frenetic Early 60s Genre (Early 1960s)** : Ska is described as a more frenetic, up-tempo genre prevalent in the early 1960s, preceding Rocksteady. "the early 60s, more frenetic, up-tempo genre, SCA." ← Hit Parade Music History and Music Trivia > Hit Parade - Red, Red Wine Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Bad Manners
@@ -111,3 +112,4 @@
 - The Specials
 - The Steady 45s
 - Toots and the Maytals
+- UB40

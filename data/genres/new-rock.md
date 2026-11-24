@@ -24,4 +24,7 @@
 - The Pixies
 - The Stooges
 - The Velvet Underground
-
+- The Black Keys
+- The Strokes
+- Interpol
+- The White Stripes

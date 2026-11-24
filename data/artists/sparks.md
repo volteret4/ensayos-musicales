@@ -17,6 +17,7 @@
 **Kimono My House (1974)** : This album, released in 1974, features Sparks' biggest hit, "This Town Ain't Big Enough for Both of Us." The album showcases the band's distinctive sound, characterized by Russell Mael's unique voice and clever, sophisticated lyrics. It represents their zig-zagging through various genres including glam rock and art rock. "It's from an album entitled Camono in My House and this is called This Town A Big Enough for the Both of Us." ← https://www.youtube.com/watch?v=7_ZmZxnSOnE ← sparks
 
 ## songs
+**Beat the Clock** : A "fleeting reference" to the song "Beat the Clock" by the quirky British hitmaking duo Sparks was borrowed and included in the Stars on 45 medley, adding another layer of sonic homage to the track. "One last thing Egermont borrowed for the track was a fleeting reference to the song Beat the Clock by the quirky British hitmaking duo Sparks." ← Hit Parade Music History and Music Trivia > Without The Beatles | https://my.slate.com/podcasts/feeds/hit-parade/
 **This Town Ain't Big Enough for Both of Us (1974)** : Released in 1974 and featured on the album *Kimono My House*, this song remains Sparks' biggest hit. It prominently features Russell Mael's distinctive singing voice and the band's clever lyrical style. "this song from 1974 remains their biggest hit." ← https://www.youtube.com/watch?v=7_ZmZxnSOnE ← sparks
 
 ## curiosities
@@ -32,11 +33,11 @@
 
 ## lists
 **"Kimono My House" (1974) — 1001 Albums You Must Hear Before You Die** : #312, 7.0/10 Scaruffi.
-**"Kimono My House" (1974) — AOTY Must Hear 1970s** : #123, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"MAD!" (2025) — AOTY Must Hear 2020s** : #91, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"The Girl Is Crying in Her Latte" (2023) — AOTY Must Hear 2020s** : #324, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"A Steady Drip, Drip, Drip" (2020) — AOTY Must Hear 2020s** : #652, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Kimono My House" (1974) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #476, 7.0/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Kimono My House" (1974) — Scaruffi 1970s** : #499, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Lil' Beethoven" (2002) — Sputnikmusic Best Albums 2002** : #145, 3.99 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/
-**"Hello Young Lovers" (2006) — Sputnikmusic Best Albums 2006** : #142, 4.02 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/
+**"Kimono My House" (1974) — AOTY Must Hear 1970s** : #123, 7.0/10 Scaruffi.
+**"MAD!" (2025) — AOTY Must Hear 2020s** : #91, 80 AOTY.
+**"The Girl Is Crying in Her Latte" (2023) — AOTY Must Hear 2020s** : #324, 83 AOTY.
+**"A Steady Drip, Drip, Drip" (2020) — AOTY Must Hear 2020s** : #652, 81 AOTY.
+**"Kimono My House" (1974) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #476, 7.0/10 Scaruffi.
+**"Kimono My House" (1974) — Scaruffi 1970s** : #499, 7.0/10 Scaruffi.
+**"Lil' Beethoven" (2002) — Sputnikmusic Best Albums 2002** : #145, 3.99 Sputnik.
+**"Hello Young Lovers" (2006) — Sputnikmusic Best Albums 2006** : #142, 4.02 Sputnik.

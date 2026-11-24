@@ -1,5 +1,8 @@
 # artist - Jerry Butler
 
+## member of
+- The Impressions
+
 ## genres
 - Soul Jumper
 

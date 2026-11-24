@@ -218,6 +218,7 @@
 **Dave Roll's Production Satisfaction** : Dave Roll has been giving numerous interviews and performing on tour, singing extensively, and is very pleased with the outcome of the *Concret and Gold* album, especially its production quality. "el está muy contento con el resultado, sobre todo con la producción." ← Music Radar Clan > Lanzamientos de Septiembre 2017 | https://www.youtube.com/watch?v=EXtTomCLjsg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← poo-fighters ← poo-fighters
 **Dave Roll's Production Satisfaction** : Dave Roll has been giving numerous interviews and performing on tour, singing extensively, and is very pleased with the outcome of the *Concret and Gold* album, especially its production quality. "el está muy contento con el resultado, sobre todo con la producción." ← Music Radar Clan > Lanzamientos de Septiembre 2017 | https://www.youtube.com/watch?v=EXtTomCLjsg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← poo-fighters
 **50th Birthday Concert Appearance (1997)** : Foo Fighters joined David Bowie on stage at his 50th birthday concert at Madison Square Garden, demonstrating their connection and mutual respect within the alternative rock scene. "joined on stage by such alt rockers as Sonic Youth, Foo Fighters, The Cures Robert Smith and Old Friend and Alt Rock Godfather Lou Reed." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 2 | https://shows.acast.com/hit-parade/episodes/696aa4d936ab0b5268aab02b
+**Singles Withholding Impact** : As a major artist, the Foo Fighters were among those whose singles were sometimes withheld on a case-by-case basis during the late 1990s, causing them to disappear from the Hot 100. "by 1997, 1998 and 1999, artists as big as Janet Jackson, Will Smith and Foo Fighters were withholding singles on a case-by-case basis and disappearing from the Hot 100." ← Hit Parade Music History and Music Trivia > Hit Parade - The Great War Against the Single Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **MTV Video Music Award for Best Rock Video (2011)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q915228
@@ -229,9 +230,9 @@
 
 ## lists
 **"Foo Fighters" (1995) — 1001 Albums You Must Hear Before You Die** : #785.
-**"Wasting Light" (2011) — AOTY Must Hear 2010s** : #856, 73 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"But Here We Are" (2023) — AOTY Must Hear 2020s** : #323, 86 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Echoes, Silence, Patience & Grace" (2007) — Grammy Award: Album of the Year nominees** : #2008. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Wasting Light" (2011) — Grammy Award: Album of the Year nominees** : #2012, 73 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"But Here We Are" (2023) — Kerrang! The 50 Best Albums of 2023** : #1, 86 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/f1f98ed3-f88a-4aac-bf6c-cf63b60c9e6e
-**"The Colour and the Shape" (1997) — Sputnikmusic Best Albums 1997** : #90, 4.06 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
+**"Wasting Light" (2011) — AOTY Must Hear 2010s** : #856, 73 AOTY.
+**"But Here We Are" (2023) — AOTY Must Hear 2020s** : #323, 86 AOTY.
+**"Echoes, Silence, Patience & Grace" (2007) — Grammy Award: Album of the Year nominees** : #2008.
+**"Wasting Light" (2011) — Grammy Award: Album of the Year nominees** : #2012, 73 AOTY.
+**"But Here We Are" (2023) — Kerrang! The 50 Best Albums of 2023** : #1, 86 AOTY.
+**"The Colour and the Shape" (1997) — Sputnikmusic Best Albums 1997** : #90, 4.06 Sputnik.

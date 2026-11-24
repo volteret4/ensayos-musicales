@@ -13,4 +13,4 @@
 **Prominent on Canadian West Coast** : The Subhumans were one of the important hardcore bands from the Canadian West Coast, which was described as having "the most fertile ground" for the genre. "But the West Coast had the most fertile ground, the subhumans and dayglow abortions, for example." ← https://www.youtube.com/watch?v=0qigzi1j81U ← the-subhumans
 
 ## lists
-**"The Day The Country Died" (1983) — Scaruffi 1980s** : #736, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"The Day The Country Died" (1983) — Scaruffi 1980s** : #736, 7.0/10 Scaruffi.

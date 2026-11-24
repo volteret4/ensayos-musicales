@@ -12,4 +12,4 @@
 
 ## lists
 **"Back to Mystery City" (1983) — 1001 Albums You Must Hear Before You Die** : #520.
-**"Oriental Beat" (1982) — Scaruffi 1980s** : #459, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Oriental Beat" (1982) — Scaruffi 1980s** : #459, 7.0/10 Scaruffi.

@@ -19,4 +19,4 @@
 **Vancouver Origins** : The New Pornographers are noted as a band from Vancouver, who, by recording for Mint Records, played a role in advancing the cause for all indie bands in the earliest years of the 21st century. "From Vancouver, mass pornographers, recording for the indie label Mint Records, and advancing the cause for all indie bands in the earliest years of the 21st century." ← https://www.youtube.com/watch?v=Q4dEV1yn3OY ← the-new-pornographers ← the-new-pornographers
 
 ## lists
-**"Twin Cinema" (2005) — AOTY Must Hear 2000s** : #241, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
+**"Twin Cinema" (2005) — AOTY Must Hear 2000s** : #241, 81 AOTY.

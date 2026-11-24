@@ -68,6 +68,6 @@
 **Governor General's Performing Arts Award (2014)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3405815
 
 ## lists
-**"Outskirts" (1987) — Juno Awards: Album of the Year** : #1989. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Lost Together" (1992) — Juno Awards: Album of the Year** : #1993. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Five Days in July" (1993) — Juno Awards: Album of the Year** : #1995. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
+**"Outskirts" (1987) — Juno Awards: Album of the Year** : #1989.
+**"Lost Together" (1992) — Juno Awards: Album of the Year** : #1993.
+**"Five Days in July" (1993) — Juno Awards: Album of the Year** : #1995.

@@ -1,11 +1,20 @@
 # artist - Diplo
 
+## member of
+- Jack Ü
+
 ## genres
 - Electronic
+
+## instruments
+- **Voice Manipulator** : Diplo, in collaboration with Skrillex, was responsible for manipulating Justin Bieber's voice on the track "Where Are Ü Now." This manipulation produced a unique high-trilling, "dolphin-like" sound that contributed to the song's innovative nature. "that is actually Bieber's own voice, manipulated by Scrillex and Duplo and made into kind of this dolphin-like sound."
 
 ## albums
 **California (2018)** : This is an EP from Diplo, who has been relatively quiet since his collaboration with Skrillex, focusing mostly on remixes. While his style is eclectic and the direction of this new EP is unknown without advance singles, it is expected to be somewhat similar to his previous release, "Florida," from a few years prior. "Diplo desde que había hecho esa colaboración con escríles, estaba un plín desaparecido." ← Music Radar Clan > LANZAMIENTOS JUNIO 2018 | https://www.youtube.com/watch?v=AvdFC5Q0nKk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← diplo ← diplo
 **California (2018)** : This is an EP from Diplo, who has been relatively quiet since his collaboration with Skrillex, focusing mostly on remixes. While his style is eclectic and the direction of this new EP is unknown without advance singles, it is expected to be somewhat similar to his previous release, "Florida," from a few years prior. "Diplo desde que había hecho esa colaboración con escríles, estaba un plín desaparecido." ← Music Radar Clan > LANZAMIENTOS JUNIO 2018 | https://www.youtube.com/watch?v=AvdFC5Q0nKk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← diplo
+
+## songs
+**Where Are You Now? (2015)** : Credited as one of the DJs for this top 10 hit, which featured Justin Bieber on vocals. The song exemplified a new sound blending EDM and Tropical House with pleading romantic lyrics. "credited to DJ's Skrillex and Diplo, but featuring Bieber on vocals." ← Hit Parade Music History and Music Trivia > Rolling in God’s Royal Uptown Road Edition. | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Beneficiary of Big Beat's Paved Way** : Diplo is mentioned as an artist who, like Justice and Skrillex, was able to fill stadiums, a path made easier by the pioneering stadium-filling efforts of bands like The Chemical Brothers. "todo esto ayudó a llenar el camino para que propuestas como Diplo, Justice o Skrillex acabas en también llenando estadios." ← Por qué el cine de los 2000 sonaba así？ Big Beat | https://www.youtube.com/watch?v=UOFTiKXruFQ

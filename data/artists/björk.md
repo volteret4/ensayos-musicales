@@ -21,6 +21,7 @@
 - IDM
 - independent music
 - Indie
+- Indie Pop
 - Industrial
 - instrumental music
 - jazz
@@ -29,6 +30,7 @@
 - Techno
 - Tri-pop
 - Trip Hop
+- TripHop
 - World Music
 
 ## labels
@@ -209,6 +211,10 @@
 **Volta Tour Exhaustion** : Following the success of her *Volta* album, Björk embarked on an "incredible and exhausting" two-year tour. This demanding period left her completely drained, leading to a substantial break from music and touring activities for several years. "hizo esa increíble y agotadora gira de dos años que la dejó completamente agotada y después de la cual tendrían enorme pausa." ← Music Radar Clan > Entender a Björk en 10 pasos | https://www.youtube.com/watch?v=9puv_nzxVK0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← björk ← björk
 **Volta Tour Psychological Impact** : Björk herself described the *Volta* tour as her longest and most psychologically taxing experience, leaving her feeling deeply drained. This intense experience was a primary reason for her subsequent need for an artistic pause. "la esquina más larga y psicologinamente algo tan que tuvo en toda su cara, que la dejó para estar en tu cara psicologicamente y un poco le necesitaba tener una pausa de lo que había sido el éxito del Volta." ← Music Radar Clan > Björk y su curioso proyecto con los Dirty Proyectors | https://www.youtube.com/watch?v=5Q1WS6Cu3eI&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **World Music Influences in Post** : In her *Post* album, Björk significantly broadened her musical palette beyond electronic and indie influences. She began incorporating complex sounds, including Caribbean rhythms, African rhythmic bases, and even elements from Asia, which helped to richly define her evolving sound with global influences. "aquí vienen influencias de ritmos calibeños, de bases rítmicas africanas, incluso de algunas partes de Asia, empiecen incorporar muchos sonidos del mundo que empiezan a requerar mucho ese sonido de Bjork." ← Music Radar Clan > Entender a Björk en 10 pasos | https://www.youtube.com/watch?v=9puv_nzxVK0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← björk ← björk
+**Lead Singer of The Sugarcubes (1988)** : Björk led the new Icelandic group The Sugarcubes, which was featured as a woman-fronted act on the first Modern Rock chart in September 1988. Her prominence on this chart underscored the strong presence of female artists at the chart's launch. "The week the chart launched, nearly half the chart was women-fronted, from new Icelandic group The Sugar Cubes, led by singer Bjork." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Sought Out Timbaland (Late 2000s)** : During his second wave of success, Timbaland was sought out by a range of artists across pop, rock, and R&B, including Björk, demonstrating his broad appeal as a producer. "To Bjork." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Bedtime Story" Co-Writer (1995)** : Björk co-wrote Madonna's 1995 single "Bedtime Story" along with Nellee Hooper and Marius De Vries, contributing a "loopy poetry" vibe to its trippy refrain. "co-written by him with Björk and their frequent collaborator Marius Divers." ← Hit Parade Music History and Music Trivia > Hit Parade - The Veronica Electronica Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Innovator and Songwriter** : Björk was described as an "innovator" and co-wrote Madonna's single "Bedtime Story" with Nellee Hooper and Marius De Vries. The song's trippy refrain, "let's get unconscious baby," carried the strong vibe of Björk's "loopy poetry." "innovator Björk. When Madonna hired Hooper to bring his Bristol Club music bonafides to her bedtime stories album, he brought her the bedtime story single, co-written by him with Björk and their frequent collaborator Marius Diveries." ← Hit Parade Music History and Music Trivia > Madonna - The Veronica Electronica Edition (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Knights of the Order of the Falcon** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q22583279
@@ -234,20 +240,20 @@
 **"Debut" (1993) — 1001 Albums You Must Hear Before You Die** : #749, 72 AOTY.
 **"Vespertine" (2001) — 1001 Albums You Must Hear Before You Die** : #931, 85 AOTY.
 **"Medúlla" (2004) — 1001 Albums You Must Hear Before You Die** : #978, 80 AOTY.
-**"Homogenic" (1997) — AOTY Must Hear 1990s** : #113, 91 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Post" (1995) — AOTY Must Hear 1990s** : #231, 87 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Debut" (1993) — AOTY Must Hear 1990s** : #336, 72 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Medúlla" (2004) — AOTY Must Hear 2000s** : #300, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Vespertine" (2001) — AOTY Must Hear 2000s** : #447, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Selmasongs" (2000) — AOTY Must Hear 2000s** : #489, 73 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Utopia" (2017) — AOTY Must Hear 2010s** : #238, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Biophilia" (2011) — AOTY Must Hear 2010s** : #821, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Fossora" (2022) — AOTY Must Hear 2020s** : #398, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Homogenic" (1997) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #202, 91 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Post" (1995) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #289, 87 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Debut" (1993) — Scaruffi 1990s** : #467, 72 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Homogenic" (1997) — Scaruffi 1990s** : #468, 91 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Homogenic" (1997) — Pitchfork: The 150 Best Albums of the 1990s** : #6, 91 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Post" (1995) — Pitchfork: The 150 Best Albums of the 1990s** : #28, 87 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Debut" (1993) — Sputnikmusic Best Albums 1993** : #156, 72 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
-**"Homogenic" (1997) — Sputnikmusic Best Albums 1997** : #5, 91 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
+**"Homogenic" (1997) — AOTY Must Hear 1990s** : #113, 91 AOTY.
+**"Post" (1995) — AOTY Must Hear 1990s** : #231, 87 AOTY.
+**"Debut" (1993) — AOTY Must Hear 1990s** : #336, 72 AOTY.
+**"Medúlla" (2004) — AOTY Must Hear 2000s** : #300, 80 AOTY.
+**"Vespertine" (2001) — AOTY Must Hear 2000s** : #447, 85 AOTY.
+**"Selmasongs" (2000) — AOTY Must Hear 2000s** : #489, 73 AOTY.
+**"Utopia" (2017) — AOTY Must Hear 2010s** : #238, 80 AOTY.
+**"Biophilia" (2011) — AOTY Must Hear 2010s** : #821, 80 AOTY.
+**"Fossora" (2022) — AOTY Must Hear 2020s** : #398, 80 AOTY.
+**"Homogenic" (1997) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #202, 91 AOTY.
+**"Post" (1995) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #289, 87 AOTY.
+**"Debut" (1993) — Scaruffi 1990s** : #467, 72 AOTY.
+**"Homogenic" (1997) — Scaruffi 1990s** : #468, 91 AOTY.
+**"Homogenic" (1997) — Pitchfork: The 150 Best Albums of the 1990s** : #6, 91 AOTY.
+**"Post" (1995) — Pitchfork: The 150 Best Albums of the 1990s** : #28, 87 AOTY.
+**"Debut" (1993) — Sputnikmusic Best Albums 1993** : #156, 72 AOTY.
+**"Homogenic" (1997) — Sputnikmusic Best Albums 1997** : #5, 91 AOTY.

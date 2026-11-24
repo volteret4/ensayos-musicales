@@ -21,5 +21,5 @@
 **NEA Jazz Masters** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q488296
 
 ## lists
-**"Lanquidity" (1978) — AOTY Must Hear 1970s** : #34, 75 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"The Heliocentric Worlds of Sun Ra, Volume 1" (1965) — Pitchfork: The 200 Best Albums of the 1960s** : #100. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Lanquidity" (1978) — AOTY Must Hear 1970s** : #34, 75 AOTY.
+**"The Heliocentric Worlds of Sun Ra, Volume 1" (1965) — Pitchfork: The 200 Best Albums of the 1960s** : #100.

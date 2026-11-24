@@ -20,7 +20,9 @@
 **Tubular Bells (1973)** : Mike Oldfield's "Tubular Bells" was the first signing and release for Virgin Records, proving to be a huge hit. Its commercial success provided Virgin with the necessary funds to finance its expansion. "So Branson and his partners did, and their first signing was 2-biter bells by Mike Oldfield. That became a huge hit which allowed Virgin to finance an expansion." ← https://www.youtube.com/watch?v=dDcD8kg0wEk ← mike-oldfield
 
 ## songs
+**Family Man (1982)** : This was a minor hit by British multi-instrumentalist Mike Oldfield in 1982. Hall and Oates later covered it, turning it into a crunching synth rocker that reached number 6 in 1983, significantly boosting its chart performance. "And the crunching synth rocker Family Man, a cover of a minor 1982 hit by British multi-instrumentalist Mike Oldfield." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Taurus 3** : On this track, Mike Oldfield, a guitar virtuoso and multi-instrumentalist, performs distinctive flamenco-like arpeggios. These passages are characterized as very clean and cold, deliberately contrasting with the inherent passion and raw emotion typically associated with traditional flamenco. "quien en Taurus 3 se marca unos punteos afremencados muy curiosos, los cuales son muy limpios y fríos en contra posiciona la pasión y el desgarro interinsico del flamenco." ← Cómo el Flamenco Influyó a Músicos Extranjeros (Y Quizá No Lo Notaste) | https://www.youtube.com/watch?v=9ReRvRfbHec
+**Tubular Bells (1974)** : This "eerie Prague Rock instrumental" composed by British artist Mike Oldfield reached number seven in the spring of 1974. It gained prominence from its association with the horror classic "The Exorcist," one of the films that "The Sting" surpassed for the Best Picture award. "When the eerie Prague Rock instrumental tubular bells by British composer Mike Oldfield reached number 7 in the spring of 74." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **"Great Trilogy" - Early Career Definition** : The most recognized and legendary period of Michael Field's career is considered to be his beginning, between the ages of 17 and 20, when he released a "great trilogy" of albums. This era, encompassing "Tubular Bells" (1973) and "Ommadawn" (1975), was crucial for him to progressively define his unique musical sound. "la parte más conocida o la parte más mítica de Michael Field es precisamente el inicio de su carrera cuando apenas tenía 17, 20 años, cuando saca esa gran trilogía." ← Music Radar Clan > Mike Oldfield - Amarok. ¿Es su mejor disco？ | https://www.youtube.com/watch?v=pOxKggnrgUw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
@@ -42,7 +44,7 @@
 
 ## lists
 **"Tubular Bells" (1973) — 1001 Albums You Must Hear Before You Die** : #286, 8.0/10 Scaruffi.
-**"Tubular Bells" (1973) — AOTY Must Hear 1970s** : #150, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Tubular Bells" (1973) — Scaruffi 1970s** : #55, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Hergest Ridge" (1974) — Scaruffi 1970s** : #413, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Amarok" (1990) — Sputnikmusic Best Albums 1990** : #74, 4.02 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
+**"Tubular Bells" (1973) — AOTY Must Hear 1970s** : #150, 8.0/10 Scaruffi.
+**"Tubular Bells" (1973) — Scaruffi 1970s** : #55, 8.0/10 Scaruffi.
+**"Hergest Ridge" (1974) — Scaruffi 1970s** : #413, 7.0/10 Scaruffi.
+**"Amarok" (1990) — Sputnikmusic Best Albums 1990** : #74, 4.02 Sputnik.

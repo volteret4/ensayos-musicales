@@ -5,6 +5,7 @@
 - Punk
 - Punk Rock
 - Ska
+- Ska Punk
 
 ## labels
 - Epitaph
@@ -16,6 +17,7 @@
 **Influence on Green Day** : Operation Ivy was a band highly revered by a young Billy Joe Armstrong, who would later go on to form Green Day, highlighting a significant lineage within the Bay Area punk scene. "they devolved out of a band called Operation Ivy, a group that was revered by a young Billy Joe Armstrong, who of course was in Green Day" ← https://www.youtube.com/watch?v=gkLMwrthZ9s ← operation-ivy
 **Operation Ivy (1987–1989) – Skacore Pioneers; Dissolved into Rancid** : Operation Ivy formed in 1987 and, like the Bosstones, embraced the blend of ska and hardcore known as skacore. They held it together for a couple of years and a couple of releases before dissolving and coalescing into a new band — Rancid, which became the first of the new wave of skacore bands to break out big. "Operation Ivy, they were formed in 1987 and like the muddy, muddy Boston's they were into that blend of Skah and Hardcore known as Skahcore." ← https://www.youtube.com/watch?v=Yqo-YDJR0nM ← operation-ivy
 **Predecessor to Rancid** : Operation Ivy was a hardcore punk band that began incorporating Ska into their sound as early as 1987. This group served as the direct predecessor to Rancid, playing a crucial role in the development of third-wave Ska. "That group was called Operation Ivy." ← https://www.youtube.com/watch?v=WX2GlpMNg_8 ← operation-ivy ← operation-ivy
+**Bay Area Punk Scene Galvanizer** : Operation Ivy was a short-lived ska-punk band that galvanized the late 80s Bay Area punk scene, and their fandom inspired Billy Joe Armstrong to form Green Day. "Billy Joe Armstrong said he was inspired to form Green Day by his fandom for Operation Ivy, the short-lived Scott Punk band I mentioned earlier, who galvanized the late 80s Bay Area punk scene" ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
-**"Plea for Peace" (1992) — Sputnikmusic Best Albums 1992** : #86, 4.06 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"Plea for Peace" (1992) — Sputnikmusic Best Albums 1992** : #86, 4.06 Sputnik.

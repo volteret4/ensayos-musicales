@@ -24,10 +24,10 @@
 **Recommended for Fans** : Boards of Canada is highly recommended for fans of Mogwai's dream pop sound. "cualquiera avante del Drimpop de ... Mokuey o de My Lord Ninjaked, va a pasarse, vamos, va a maravillarse con lo que es Borsov Canadá." ← Music Radar Clan > BOARDS OF CANADA. La visión romántica del IDM | https://www.youtube.com/watch?v=llE5K5hjwVg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← mogwai ← mogwai
 
 ## lists
-**"Come on Die Young" (1999) — AOTY Must Hear 1990s** : #36, 74 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Young Team" (1997) — AOTY Must Hear 1990s** : #101, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Happy Songs for Happy People" (2003) — AOTY Must Hear 2000s** : #350, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"The Bad Fire" (2025) — AOTY Must Hear 2020s** : #137, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Young Team" (1997) — Scaruffi 1990s** : #944, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Young Team" (1997) — Sputnikmusic Best Albums 1997** : #60, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
-**"Mogwai EP+2" (1999) — Sputnikmusic Best Albums 1999** : #149, 3.99 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1999/
+**"Come on Die Young" (1999) — AOTY Must Hear 1990s** : #36, 74 AOTY.
+**"Young Team" (1997) — AOTY Must Hear 1990s** : #101, 7.0/10 Scaruffi.
+**"Happy Songs for Happy People" (2003) — AOTY Must Hear 2000s** : #350, 81 AOTY.
+**"The Bad Fire" (2025) — AOTY Must Hear 2020s** : #137, 81 AOTY.
+**"Young Team" (1997) — Scaruffi 1990s** : #944, 7.0/10 Scaruffi.
+**"Young Team" (1997) — Sputnikmusic Best Albums 1997** : #60, 7.0/10 Scaruffi.
+**"Mogwai EP+2" (1999) — Sputnikmusic Best Albums 1999** : #149, 3.99 Sputnik.

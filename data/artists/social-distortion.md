@@ -31,6 +31,6 @@
 **Multiple Warped Tour Shows (1997)** : Social Distortion performed a number of shows during the 1997 Warped Tour. "social distortion played a bunch." ← https://www.youtube.com/watch?v=7jfQaUV6Bq4 ← social-distortion
 
 ## lists
-**"Mommy's Little Monster" (1983) — Scaruffi 1980s** : #719, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Social Distortion" (1990) — Sputnikmusic Best Albums 1990** : #47, 4.11 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"White Light White Heat White Trash" (1996) — Sputnikmusic Best Albums 1996** : #154, 3.98 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
+**"Mommy's Little Monster" (1983) — Scaruffi 1980s** : #719, 7.0/10 Scaruffi.
+**"Social Distortion" (1990) — Sputnikmusic Best Albums 1990** : #47, 4.11 Sputnik.
+**"White Light White Heat White Trash" (1996) — Sputnikmusic Best Albums 1996** : #154, 3.98 Sputnik.

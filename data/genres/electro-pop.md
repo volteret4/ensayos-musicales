@@ -5,6 +5,8 @@
 **Dream as an Example** : The band Dream, in which Brian Cox played keyboards, is identified as an electro pop group from the early 1990s. "Back in the early 90s, Brian played keyboards in an electro pop band called Dream." ← https://www.youtube.com/watch?v=QfiRRtsZoYU ← electro-pop
 **Part of Modern New Wave Definition** : The modern understanding of New Wave, particularly concerning its historical application, often includes Electro Pop, alongside Synth Pop and Techno Pop, within the period of approximately 1978 to 1984/85. "posiblemente incluya del 78 al 84 al 85 a partir de ella, casi todo esa hipópica y el electro pop y techno pop y toda esta parte." ← Music Radar Clan > Que es el New Wave | https://www.youtube.com/watch?v=jxaTsoSRXZE&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← electro-pop ← electro-pop
 **LMFAO's Short-Lived Success** : The electro pop duo LMFAO scored back-to-back number one hits with "Party Rock Anthem" and "Sexy and I Know It" but were not considered imperial because their success fizzled quickly, and their hits sounded too similar, indicating a lack of enduring artistic impact. "It might seem laughable now, but the electro pop duo of Red Foo and Sky Blue topped the hot 100 twice back to back." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f03154465cd600c5379
+**Imogen Heap's Style** : This genre describes British artist Imogen Heap, whose career was helped by *The O.C.* using her single "Hide and Seek." "British electro pop artist Imogen Heep." ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Flamenco-fied Style** : Lil Nas X's 2021 number one hit "Montero (Call Me By Your Name)" is described as a "flamenco-fied electro-pop jam." This illustrates the innovative blending of genres in contemporary queer music. "His flamenco-fied electro-pop jam, Montero, call me by your name." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - D:Ream
@@ -14,3 +16,13 @@
 - Charli XCX
 - LMFAO
 - Big Boi
+- Cher
+- Imogen Heap
+- Taylor Swift
+- Madonna
+- Britney Spears
+- Rihanna
+- Chaka Khan
+- Jennifer Lopez
+- Maroon 5
+- Tio Cruz

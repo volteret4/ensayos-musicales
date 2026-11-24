@@ -13,10 +13,10 @@
 ## lists
 **"Orbital" (1993) — 1001 Albums You Must Hear Before You Die** : #750.
 **"Snivilisation" (1994) — 1001 Albums You Must Hear Before You Die** : #780, 7.0/10 Scaruffi.
-**"In Sides" (1996) — AOTY Must Hear 1990s** : #191, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Orbital" (1993) — AOTY Must Hear 1990s** : #343. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"II / Brown Album" (1993) — Scaruffi 1990s** : #102, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"In Sides" (1996) — Scaruffi 1990s** : #284, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Snivilisation" (1994) — Scaruffi 1990s** : #1001, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Orbital" (1993) — Sputnikmusic Best Albums 1993** : #58. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
-**"In Sides" (1996) — Sputnikmusic Best Albums 1996** : #44, 7.5/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
+**"In Sides" (1996) — AOTY Must Hear 1990s** : #191, 7.5/10 Scaruffi.
+**"Orbital" (1993) — AOTY Must Hear 1990s** : #343.
+**"II / Brown Album" (1993) — Scaruffi 1990s** : #102, 8.0/10 Scaruffi.
+**"In Sides" (1996) — Scaruffi 1990s** : #284, 7.5/10 Scaruffi.
+**"Snivilisation" (1994) — Scaruffi 1990s** : #1001, 7.0/10 Scaruffi.
+**"Orbital" (1993) — Sputnikmusic Best Albums 1993** : #58.
+**"In Sides" (1996) — Sputnikmusic Best Albums 1996** : #44, 7.5/10 Scaruffi.

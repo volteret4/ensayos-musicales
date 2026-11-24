@@ -14,6 +14,7 @@
 - Post-Punk
 - Power Pop
 - Punk
+- Rock
 
 ## labels
 - Sire Records
@@ -80,6 +81,12 @@
 **Times Square Soundtrack Contribution (1980)** : The Pretenders were among the artists featured on the soundtrack for the 1980 movie *Time Square*. This soundtrack was notable for being one of the very first to showcase the nascent alternative music of the era, introducing a wider audience to punk and new wave. "The soundtrack featured the pretenders, Roxy music, Gary Newman, XTC, Joe Jackson." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← the-pretenders
 **Tragic Deaths of Band Members (1982)** : Within two years of the band's 1980 debut, two of The Pretenders' four members died. Dick Varnedon was fired due to drug abuse and subsequently died from it on June 14, 1982. Just two days later, James Honeyman-Scott died from heart failure, also brought on by drug abuse, a stark example of the "rock and roll lifestyle's" complications. "Dick Varnedon who was fired because of his drug abuse and died from the same on June 14, 1982. Two days later, James Honeyman Scott died from heart failure brought on by drug abuse." ← For the Record - The 70s > Ep. 43 - Music and The Kent State Massacre of May 4, 1970 | https://seventies.libsyn.com/ep-43-music-and-the-kent-state-massacre-of-may-4-1970
 **Early MTV Presence** : On the first day of MTV's launch, The Pretenders were among the UK-based acts whose multiple clips were played, benefiting from the British heritage of shooting more music videos. "On day one, MTV played multiple clips by such UK-based acts as The Pretenders." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
+**Chart Success in 1986** : In the closing months of 1986, The Pretenders, fronted by Chrissie Hynde, were doing "quite well on the charts," fitting the mold of women artists with rock foundations and pop sensibilities. "From Tina Turner to Blinda Carlyle, Carly Simon to Aretha Franklin, the Chrissy Hindled, Pretenders to the Annie Lennox Fronted Urythmits." ← Hit Parade Music History and Music Trivia > Be the One to Walk in the Sun, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on Cyndi Lauper** : Chrissie Hynde's "tough-minded, transatlantic rock" of The Pretenders was idolized by Cyndi Lauper during the early punk, post-punk, and new wave era, serving as a significant musical influence. "Cindy was a fan of that first wave of punk, post punk, and new wave, idolizing the likes of Elvis Costello. The early punk era version of the police, and the tough-minded, transatlantic rock of Chrissy Hines pretenders." ← Hit Parade Music History and Music Trivia > Be the One to Walk in the Sun, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Best New Artist Grammy Nomination (1981)** : The Pretenders were nominated for the Best New Artist Grammy in 1981 but ultimately lost to Christopher Cross. "he won over the pretenders." ← Hit Parade Music History and Music Trivia > Blame It on the Feign, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**UB40's Early Support (Late 1970s)** : Chrissie Hynde, the lead singer of The Pretenders, discovered UB40 playing in a pub and gave them their first major break by offering them a slot as an opener for her band. "UB40 got their break when Chrissy Hind saw them playing in a pub and gave them a slot as an opener for her band, the pretenders." ← Hit Parade Music History and Music Trivia > Hit Parade - Red, Red Wine Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Collaborations with UB40 (1985, 1988)** : Chrissie Hynde collaborated with UB40 on two of their cover singles: "I Got You Babe" in 1985, which became UB40's second UK number one, and "Breakfast in Bed" in 1988. "In 1985, they recorded a remake of the sunny and share classic, I got UBAB, with their mentor, Chrissy Hind of the Pretenders." ← Hit Parade Music History and Music Trivia > Hit Parade - Red, Red Wine Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Guest Backing Vocals on "Pride"** : Chrissie Hynde provided guest backing vocals on U2's song "Pride (In the Name of Love)." "It even featured guest backing vocals by Chrissy Kind of the Pretenders." ← Hit Parade Music History and Music Trivia > With or Without U2 Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Grammy Award for Best New Artist (1981)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643
@@ -95,7 +102,7 @@
 
 ## lists
 **"Pretenders" (1979) — 1001 Albums You Must Hear Before You Die** : #475.
-**"Relentless" (2023) — AOTY Must Hear 2020s** : #287, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Pretenders" (1979) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #152. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Learning To Crawl" (1984) — Scaruffi 1980s** : #647, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Pretenders" (1979) — Pitchfork: The 200 Best Albums of the 1980s** : #121. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"Relentless" (2023) — AOTY Must Hear 2020s** : #287, 81 AOTY.
+**"Pretenders" (1979) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #152.
+**"Learning To Crawl" (1984) — Scaruffi 1980s** : #647, 7.0/10 Scaruffi.
+**"Pretenders" (1979) — Pitchfork: The 200 Best Albums of the 1980s** : #121.

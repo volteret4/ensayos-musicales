@@ -9,3 +9,4 @@
 
 ## artists
 - Chicory Tip
+- Hot Butter

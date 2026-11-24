@@ -10,7 +10,7 @@
 ## lists
 **"Lost Souls" (2000) — 1001 Albums You Must Hear Before You Die** : #902, 7.0/10 Scaruffi.
 **"The Last Broadcast" (2002) — 1001 Albums You Must Hear Before You Die** : #953.
-**"Constellations for the Lonely" (2025) — AOTY Must Hear 2020s** : #125, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"The Universal Want" (2020) — AOTY Must Hear 2020s** : #618, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Lost Souls" (2000) — Scaruffi 2000s** : #337, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Kingdom of Rust" (2009) — Scaruffi 2000s** : #338, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Constellations for the Lonely" (2025) — AOTY Must Hear 2020s** : #125, 82 AOTY.
+**"The Universal Want" (2020) — AOTY Must Hear 2020s** : #618, 83 AOTY.
+**"Lost Souls" (2000) — Scaruffi 2000s** : #337, 7.0/10 Scaruffi.
+**"Kingdom of Rust" (2009) — Scaruffi 2000s** : #338, 7.0/10 Scaruffi.

@@ -7,6 +7,7 @@
 - Jazz
 
 ## albums
+**Bryter Layter (1971)** : This "moody British folk classic" never charted at all. "The never charted at all classic by Moody British Fokie Nick Drake, brighter later." ← Hit Parade Music History and Music Trivia > Spirit of ’71, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Pink Moon (1972)** : This album, from which the song "Pink Moon" originates, was released in 1972. Despite its eventual impact, Nick Drake was considered a cult artist at best during his lifetime. ← https://www.youtube.com/watch?v=sfie4YYncxk ← nick-drake
 
 ## songs
@@ -21,18 +22,19 @@
 **Post-VW Ad Sales Boom** : Following its debut in a Volkswagen commercial in 2000, sales of Nick Drake's music dramatically increased. Sales went up 500% initially, and then, after the record label added "as featured in the VW ad" stickers to CDs, sales jumped from 6,000 copies a year to 74,000 copies annually in the United States alone. ← https://www.youtube.com/watch?v=sfie4YYncxk ← nick-drake
 **Record Label Marketing after VW Ad** : After witnessing the significant increase in sales following the Volkswagen commercial, Nick Drake's record label responded by adding stickers to his CDs. These stickers read "as featured in the VW ad" to capitalize on the newfound exposure and consumer interest. ← https://www.youtube.com/watch?v=sfie4YYncxk ← nick-drake
 **Subsequent Licensing of "Pink Moon"** : After the success in the Volkswagen commercial, the song "Pink Moon" was subsequently licensed for use in other projects, including various TV shows and movies, generating substantial income. ← https://www.youtube.com/watch?v=sfie4YYncxk ← nick-drake
+**Discovery and Production by Joe Boyd** : Nick Drake was discovered, mentored, and produced by British producer Joe Boyd, a significant figure in the UK folk scene. "Boyd had discovered, mentored, and produced Fairport Convention and Nick Drake." ← Hit Parade Music History and Music Trivia > The Deadbeat Club Edition, Part One | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Five Leaves Left" (1969) — 1001 Albums You Must Hear Before You Die** : #149, 7.5/10 Scaruffi.
 **"Bryter Layter" (1970) — 1001 Albums You Must Hear Before You Die** : #190, 7.0/10 Scaruffi.
 **"Pink Moon" (1972) — 1001 Albums You Must Hear Before You Die** : #261, 8.0/10 Scaruffi.
-**"Five Leaves Left" (1969) — AOTY Must Hear 1960s** : #18, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"Pink Moon" (1972) — AOTY Must Hear 1970s** : #183, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Bryter Layter" (1970) — AOTY Must Hear 1970s** : #218, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Pink Moon" (1972) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #203, 8.0/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Five Leaves Left" (1969) — Scaruffi 1960s** : #58, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Pink Moon" (1972) — Scaruffi 1970s** : #59, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Bryter Layter" (1970) — Scaruffi 1970s** : #432, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Pink Moon" (1972) — Pitchfork: The 100 Best Albums of the 1970s** : #13, 8.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"Bryter Layter" (1970) — Pitchfork: The 100 Best Albums of the 1970s** : #55, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"Five Leaves Left" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #61, 7.5/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Five Leaves Left" (1969) — AOTY Must Hear 1960s** : #18, 7.5/10 Scaruffi.
+**"Pink Moon" (1972) — AOTY Must Hear 1970s** : #183, 8.0/10 Scaruffi.
+**"Bryter Layter" (1970) — AOTY Must Hear 1970s** : #218, 7.0/10 Scaruffi.
+**"Pink Moon" (1972) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #203, 8.0/10 Scaruffi.
+**"Five Leaves Left" (1969) — Scaruffi 1960s** : #58, 7.5/10 Scaruffi.
+**"Pink Moon" (1972) — Scaruffi 1970s** : #59, 8.0/10 Scaruffi.
+**"Bryter Layter" (1970) — Scaruffi 1970s** : #432, 7.0/10 Scaruffi.
+**"Pink Moon" (1972) — Pitchfork: The 100 Best Albums of the 1970s** : #13, 8.0/10 Scaruffi.
+**"Bryter Layter" (1970) — Pitchfork: The 100 Best Albums of the 1970s** : #55, 7.0/10 Scaruffi.
+**"Five Leaves Left" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #61, 7.5/10 Scaruffi.

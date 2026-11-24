@@ -1,6 +1,7 @@
 # artist - Brian Eno
 
 ## member of
+- Passengers
 - Roxy Music
 
 ## genres
@@ -104,6 +105,9 @@
 **Teaching Bowie about Narrative in Songs** : Eno taught David Bowie that not all songs necessarily need to tell a story. This perspective, combined with an embrace of randomness and contrast, became a recurring characteristic in the careers of both artists from *Low* onward. "Y no también le enseño que no todas las canciones tienen por qué contar una historia." ← El proyecto que salvó a David Bowie. La trilogía de Berlín | https://www.youtube.com/watch?v=CHJwoQRxrKg
 **Transition to Ambient Music** : Brian Eno, originally from a rock background with Roxy Music, embarked on solo experiments in ambient music, which diverged significantly from rock. His work emphasized atmospherics, textures, repetition, and sought to create a "mode" rather than tell stories with lyrics, often without lyrics at all. "Same thing with Brian Eno's solo experiments in ambient music." ← https://www.youtube.com/watch?v=pLf3kUONewg ← brian-eno ← brian-eno
 **Tripping Crickets in Run-Out Groove** : Brian Eno utilized a unique audio curiosity on one of his solo albums by incorporating the sound of "tripping crickets" into the vinyl's run-out groove. This allowed the sound to play endlessly as the needle remained in the locked groove. "Brian Eno used tripping crickets on one of his solo albums." ← https://www.youtube.com/watch?v=J_VEOIwavtg ← brian-eno ← brian-eno
+**Prophetic Reaction to "I Feel Love"** : Brian Eno, upon first hearing Donna Summer's "I Feel Love," reportedly ran into David Bowie's room with the single in hand, excitedly exclaiming, "I've heard the future." He praised its "two tonic drumming" and "black voice," recognizing its groundbreaking sound and its significance for the future of music. "I remember Brian Eno running into my, running into my room with a single in his hand, he said, I've heard the future." ← Hit Parade Music History and Music Trivia > Hit Parade - The Queen of Disco Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Producer Dream Team Ranking (2015)** : Brian Eno was ranked by Rolling Stone in 2015 as part of a "producer dream team" with Robert Fripp on their list of the 20 greatest duos of all time. "producer dream team Robert Fripp and Brian Eno." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Performance on Darryl Hall's "Sacred Songs" (1977)** : Brian Eno was one of the musicians invited by Robert Fripp to perform on Darryl Hall's solo album, "Sacred Songs," recorded in 1977. "The first of the three albums was a solo LP for Darryl Hall, on which Fritt invited such musicians as Brian Enoch and bassist Tony Levin of King Crimson to perform." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Rock and Roll Hall of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
@@ -114,24 +118,24 @@
 **"Here Come the Warm Jets" (1973) — 1001 Albums You Must Hear Before You Die** : #300, 88 AOTY.
 **"Before and After Science" (1977) — 1001 Albums You Must Hear Before You Die** : #367, 94 AOTY.
 **"Ambient 1: Music for Airports" (1978) — 1001 Albums You Must Hear Before You Die** : #423.
-**"Ambient 1: Music for Airports" (1978) — AOTY Must Hear 1970s** : #21. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Before and After Science" (1977) — AOTY Must Hear 1970s** : #47, 94 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Taking Tiger Mountain By Strategy" (1974) — AOTY Must Hear 1970s** : #113, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Here Come the Warm Jets" (1973) — AOTY Must Hear 1970s** : #128, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Apollo: Atmospheres & Soundtracks" (1983) — AOTY Must Hear 1980s** : #127. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"On Land" (1982) — AOTY Must Hear 1980s** : #152, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"My Life In The Bush Of Ghosts (25th Anniversary)" (2006) — AOTY Must Hear 2000s** : #205, 86 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Here Come the Warm Jets" (1973) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #308, 88 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Before and After Science" (1977) — Scaruffi 1970s** : #29, 94 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Ambient 1: Music for Airports" (1978) — Scaruffi 1970s** : #30. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Taking Tiger Mountain By Strategy" (1974) — Scaruffi 1970s** : #31, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Discreet Music" (1975) — Scaruffi 1970s** : #200, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Music For Films" (1978) — Scaruffi 1970s** : #201, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"On Land" (1982) — Scaruffi 1980s** : #294, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Thursday Afternoon" (1985) — Scaruffi 1980s** : #295, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Here Come the Warm Jets" (1973) — Pitchfork: The 100 Best Albums of the 1970s** : #24, 88 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"Before and After Science" (1977) — Pitchfork: The 100 Best Albums of the 1970s** : #100, 94 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"Apollo: Atmospheres & Soundtracks" (1983) — Pitchfork: The 200 Best Albums of the 1980s** : #95. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
-**"Ambient 1: Music for Airports" (1978) — Pitchfork: The 50 Best Ambient Albums of All Time** : #1. ← musicbrainz | https://beta.musicbrainz.org/series/60daa934-58b5-44a7-937f-751ee3d2431a
-**"Apollo: Atmospheres & Soundtracks" (1983) — Pitchfork: The 50 Best Ambient Albums of All Time** : #13. ← musicbrainz | https://beta.musicbrainz.org/series/60daa934-58b5-44a7-937f-751ee3d2431a
-**"On Land" (1982) — Pitchfork: The 50 Best Ambient Albums of All Time** : #24, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/60daa934-58b5-44a7-937f-751ee3d2431a
+**"Ambient 1: Music for Airports" (1978) — AOTY Must Hear 1970s** : #21.
+**"Before and After Science" (1977) — AOTY Must Hear 1970s** : #47, 94 AOTY.
+**"Taking Tiger Mountain By Strategy" (1974) — AOTY Must Hear 1970s** : #113, 8.0/10 Scaruffi.
+**"Here Come the Warm Jets" (1973) — AOTY Must Hear 1970s** : #128, 88 AOTY.
+**"Apollo: Atmospheres & Soundtracks" (1983) — AOTY Must Hear 1980s** : #127.
+**"On Land" (1982) — AOTY Must Hear 1980s** : #152, 7.0/10 Scaruffi.
+**"My Life In The Bush Of Ghosts (25th Anniversary)" (2006) — AOTY Must Hear 2000s** : #205, 86 AOTY.
+**"Here Come the Warm Jets" (1973) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #308, 88 AOTY.
+**"Before and After Science" (1977) — Scaruffi 1970s** : #29, 94 AOTY.
+**"Ambient 1: Music for Airports" (1978) — Scaruffi 1970s** : #30.
+**"Taking Tiger Mountain By Strategy" (1974) — Scaruffi 1970s** : #31, 8.0/10 Scaruffi.
+**"Discreet Music" (1975) — Scaruffi 1970s** : #200, 7.0/10 Scaruffi.
+**"Music For Films" (1978) — Scaruffi 1970s** : #201, 7.0/10 Scaruffi.
+**"On Land" (1982) — Scaruffi 1980s** : #294, 7.0/10 Scaruffi.
+**"Thursday Afternoon" (1985) — Scaruffi 1980s** : #295, 7.0/10 Scaruffi.
+**"Here Come the Warm Jets" (1973) — Pitchfork: The 100 Best Albums of the 1970s** : #24, 88 AOTY.
+**"Before and After Science" (1977) — Pitchfork: The 100 Best Albums of the 1970s** : #100, 94 AOTY.
+**"Apollo: Atmospheres & Soundtracks" (1983) — Pitchfork: The 200 Best Albums of the 1980s** : #95.
+**"Ambient 1: Music for Airports" (1978) — Pitchfork: The 50 Best Ambient Albums of All Time** : #1.
+**"Apollo: Atmospheres & Soundtracks" (1983) — Pitchfork: The 50 Best Ambient Albums of All Time** : #13.
+**"On Land" (1982) — Pitchfork: The 50 Best Ambient Albums of All Time** : #24, 7.0/10 Scaruffi.

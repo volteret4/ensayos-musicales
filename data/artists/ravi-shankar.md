@@ -1,5 +1,11 @@
 # artist - Ravi Shankar
 
+## instruments
+- Sitar
+
+## albums
+**The Concert for Bangladesh (1971)** : Ravi Shankar, a Sitar Master, performed the opening music on the live triple album "The Concert for Bangladesh" with Sarod player Ali Akbar Khan. This performance introduced listeners to the album. "That's Citar Master Ravi Shankar and Saurad player Ali Akbar Khan. With the first music you hear on the live triple album The Concert for Bangladesh" ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **Musical Parent** : Rabbi Shankar is mentioned as the musical father of Nora Jones. "Nora Jones is the son of Rabbi Shankar." ← https://www.youtube.com/watch?v=MmXDbXI6Sqk ← rabbi-shankar
 **Reunion with Norah Jones** : Norah Jones was reunited with her father, Ravi Shankar, when she was 18, and they began to build a relationship. However, media coverage surrounding her fame often misrepresented their connection, causing distress within her family. "And I had my band. We were having fun. There was also a weird thing that was happening because my dad and I had been reunited when I was 18 and we started to really find our relationship and it was great and it was really nice to have that." ← Hit Parade Music History and Music Trivia > Introducing Broken Record - Norah Jones Begins Again | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cbc

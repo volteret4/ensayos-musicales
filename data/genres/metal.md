@@ -48,6 +48,11 @@
 **War on Terror Interrogation** : In the "disco room" set up in the prison at the U.S. Airbase in Mosul, Iraq, operational from 2004, detainees were subjected to powerful strobe lights and super loud death metal as an enhanced interrogation tactic. "According to some anonymous FBI reports, there was an interrogation room set up in the prison at the U.S. Airbase in Mosul, Iraq. It was known as the disco room and was an operation from 2004. The themes were blasted with powerful strobe lights and super loud death metal." ← https://www.youtube.com/watch?v=R1wdsGt07Gg ← metal ← metal
 **Warsaw Pact Confusion** : The London metal band Warsaw Pact created confusion for Joy Division (then called Warsaw), necessitating Joy Division's name change to avoid being mistaken for the metal group. "Warsaw was always getting confused with a London metal band called Warsaw Pact." ← https://www.youtube.com/watch?v=1VWJ0uCQx8w ← metal ← metal
 **Mainstream Pop Appeal (1984)** : In 1984, metal "went pop," becoming more accessible with frothy, catchy, hook-laden songs often incorporating synthesizers. Bands like Van Halen, Scorpions, Ratt, and Twisted Sister scored top 40 and top 20 hits, with some like Motley Crue even described as "disco slowed down and rocked up." This trend helped metal "define the bounds of mass appeal pop" during the year. "Metal goes pop." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
+**Genre Association for Billy Idol** : Billy Idol, originally a punk artist with Generation X, became associated with various genres including synth pop, new wave, and even metal by the 1980s. This un-categorizability was noted as potentially hindering his early career chart performance. "Idol became associated with everything from synth pop to new wave to even metal by the 80s." ← Hit Parade Music History and Music Trivia > At Last, My Legacy Has Come Along Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Exclusion from Charity Singles (1985)** : Members of the metal band Dio noted that both Band-Aid and USA for Africa "pointedly excluded metal acts" from their respective charity singles in 1985. This perceived snub led to the formation of Hear 'n Aid to address the oversight. "After the members of the metal band Dio noted that both band aid and USA for Africa pointedly excluded metal acts." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mainstreaming by MTV** : MTV played a significant role in mainstreaming metal music, contributing to its broader appeal and chart success, especially in the context of hair metal. "MTV, yes, absolutely went a long way toward mainstreaming metal and fueling hair metal." ← Hit Parade Music History and Music Trivia > Music Trivia - The MTV and Alt-Rock Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence from Punk** : The punk ethos's influence was felt across various genres, including metal, indicating a broader stylistic reach and impact of the original punk movement. "it morphed into and melded with post-punk, art pop, new wave, metal, even disco, funk, and hip hop." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**1984 Pop Chart Breakthrough** : Van Halen's "Jump" became the "first 80s metal song to top the Hot 100," marking a significant turning point for metal in 1984 by proving it could successfully cross over to pop. "Jump took just seven weeks to reach number one, the first 80s metal song to top the Hot 100." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - AC/DC
@@ -107,3 +112,14 @@
 - Mötley Crüe
 - Ratt
 - Twisted Sister
+- Led Zeppelin
+- Billy Idol
+- Judas Priest
+- Janet Jackson
+- Max Martin
+- Def Leppard
+- Deep Purple
+- Van Halen
+- Quiet Riot
+- Weezer
+- Coheed and Cambria

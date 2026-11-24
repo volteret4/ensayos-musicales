@@ -7,4 +7,4 @@
 
 ## lists
 **"Enregistrement public à l’Olympia 1964" (1964) — 1001 Albums You Must Hear Before You Die** : #43.
-**"Ces gens-là" (1965) — Pitchfork: The 200 Best Albums of the 1960s** : #152. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Ces gens-là" (1965) — Pitchfork: The 200 Best Albums of the 1960s** : #152.

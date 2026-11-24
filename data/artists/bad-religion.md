@@ -13,6 +13,7 @@
 - Punk Rock
 
 ## labels
+- (not mentioned in transcript)
 - Atlantic Records
 - Epitaph
 - Epitaph Records
@@ -26,6 +27,7 @@
 **Stranger Than Fiction (1994)** : This album was released on September 6, 1994. The band had been persuaded to sign a major record deal, transitioning from their independent label, Epitaph Records. Stranger Than Fiction quickly achieved commercial success, selling more than half a million copies. "And on September 6, 1994, they released an album entitled Stranger Than Fiction, and it quickly sold more than half a million copies." ← https://www.youtube.com/watch?v=pE7TaWSUa-o ← bad-religion
 **Stranger Than Fiction (1994)** : This eighth album, released in 1994 amidst the punk revival, was unique for not being released on their own Epitaph label. Instead, due to various reasons, it was released on Atlantic, part of the major label conglomerate Warner's, and became the only Bad Religion album to achieve gold status. "The record was called Stranger Than Fiction and it became the only Bad Religion album to go gold." ← https://www.youtube.com/watch?v=0QtMI00T5jw ← bad-religion ← bad-religion
 **Stranger Than Fiction (1994)** : This was Bad Religion's eighth album and their first released on a major label, coming out on September 6, 1994. The band took significant criticism from some fans who accused them of "selling out" their punk principles by signing with a major. However, the move was successful, selling close to a million copies in the US and going gold in Canada, which significantly expanded their audience. "Stranger Than Fiction sold close to a million copies in the US and also went gold in Canada." ← https://www.youtube.com/watch?v=gkLMwrthZ9s ← bad-religion
+**Stranger Than Fiction (1994)** : This album became Bad Religion's first-ever gold album in 1994, demonstrating how the breakthrough of pop punk made it possible for other loud, fast bands to succeed on radio and charts. "Hardcore punk veterans, bad religion, who'd been together since 1980, and whose guitarist Brett Gerwitz founded Epitaph, the indie label that had released the offspring, scored their first ever gold album in 94 with Stranger than Fiction." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Suffer (1988)** : Released in 1988, this album is identified as a potential "inflection point" for skate punk, marking a shift towards more melodic music with actual singable melodies, while retaining speed and intensity. Following this record, most bands in the genre adopted a direction with more "pop sensibilities." "The inflection point might have been Bad Religions 1988 album Suffer." ← https://www.youtube.com/watch?v=44dXy0StjIQ ← bad-religion
 
 ## songs
@@ -63,10 +65,11 @@
 **Tony Hawk Video Game Feature** : Music from Bad Religion was featured in Tony Hawk's popular skateboarding video games. "Tony Hawk's video games sold by the millions, and each one featured appropriate music from groups like The Vandals and Laguewagon, Suicidal tendencies, Millen-Call and Bad Religion, and so many more." ← https://www.youtube.com/watch?v=44dXy0StjIQ ← bad-religion
 **Transition to Major Label** : Bad Religion, initially working on their independent label Epitaph Records, was eventually convinced to sign a major record deal. This move sparked considerable controversy among punk purists. "They had been working on their own independent epitaph records, and they were convinced to sign a major record deal." ← https://www.youtube.com/watch?v=pE7TaWSUa-o ← bad-religion
 **Warped Tour Feature** : Bad Religion was among the bands that performed during the early years of the Warped Tour, a significant platform for pop punk and ska punk acts. "In just the first few years, the tour featured bad religion." ← https://www.youtube.com/watch?v=pE7TaWSUa-o ← bad-religion
+**Longstanding Hardcore Veterans** : Bad Religion had been together since 1980, showcasing their longevity in the hardcore punk scene before achieving mainstream success. "Hardcore punk veterans, bad religion, who'd been together since 1980" ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
-**"No Control" (1989) — Scaruffi 1980s** : #122, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Suffer" (1988) — Scaruffi 1980s** : #123, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Against The Grain" (1990) — Scaruffi 1990s** : #437, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Against The Grain" (1990) — Sputnikmusic Best Albums 1990** : #29, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"Generator" (1992) — Sputnikmusic Best Albums 1992** : #96, 4.02 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"No Control" (1989) — Scaruffi 1980s** : #122, 7.5/10 Scaruffi.
+**"Suffer" (1988) — Scaruffi 1980s** : #123, 7.5/10 Scaruffi.
+**"Against The Grain" (1990) — Scaruffi 1990s** : #437, 7.0/10 Scaruffi.
+**"Against The Grain" (1990) — Sputnikmusic Best Albums 1990** : #29, 7.0/10 Scaruffi.
+**"Generator" (1992) — Sputnikmusic Best Albums 1992** : #96, 4.02 Sputnik.

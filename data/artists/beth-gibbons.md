@@ -8,6 +8,6 @@
 **Spectral Vocals in Dummy** : Her distinctive spectral voice provided a melancholic contrast to the album's dragging urban atmosphere, contributing significantly to its unique sound. "contrasta con la voz espectral de Beth Gibbons." ← El género más OSCURO de los 90 (...que acabó en anuncios de coches) | https://www.youtube.com/watch?v=9gAEaRBEw9c
 
 ## lists
-**"Out of Season" (2002) — AOTY Must Hear 2000s** : #386, 79 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Lives Outgrown" (2024) — AOTY Must Hear 2020s** : #216, 86 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Lives Outgrown" (2024) — Sputnikmusic Best Albums 2024** : #42, 86 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2024/
+**"Out of Season" (2002) — AOTY Must Hear 2000s** : #386, 79 AOTY.
+**"Lives Outgrown" (2024) — AOTY Must Hear 2020s** : #216, 86 AOTY.
+**"Lives Outgrown" (2024) — Sputnikmusic Best Albums 2024** : #42, 86 AOTY.

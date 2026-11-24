@@ -9,10 +9,23 @@
 **Rejection of First Album Mix** : Elektra Records rejected the initial mix of The Stooges' self-titled debut album. The label president, Jack Holtzman, personally stepped in to remix the record before its release. "The first mix was rejected by the record label. The lecture president, Jack Holtzman, came in to do it himself." ← https://www.youtube.com/watch?v=w-rihv544I8 ← elektra-records
 **Signing of The Stooges** : Elektra Records, through talent scout Danny Fields, signed The Stooges despite the label's bosses being "absolutely stupified" by the band's unconventional sound. Fields was known for signing influential hippie bands like The Doors. "He, for example, was the guy who signed the doors. While in Detroit, to check out another bank called the MC5, Danny heard about the stuages. And even though his bosses were absolutely stupified by them, they agreed to sign the band." ← https://www.youtube.com/watch?v=w-rihv544I8 ← elektra-records
 **They Might Be Giants Album Release** : Elektra Records released They Might Be Giants' album `Flood` in 1990. "they released an album entitled Flood on Electro Records." ← https://www.youtube.com/watch?v=I9_3EbwKPnU ← elektra-records ← elektra-records
+**Signing of Sista (1994)** : Elektra Records signed Missy Elliott's girl group, Sista (formerly Phase), in 1994, but ultimately shelved their debut album due to the poor chart performance of their single "Brand New." "Eventually, Sista did get signed to electoral records in 1994 and scored a minor hit with brand new." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Signing of Missy Elliott (1997)** : After shelving Sista's debut, Elektra Records signed Missy Elliott as a solo recording artist, using her "Missy Misdemeanor Elliott" moniker, leading to the release of her critically acclaimed debut album, "Supa Dupa Fly." "The coup de gras was when Electra, the label that had signed Sista back in 1994 before shelving their debut, now signed Missy going by the Norm de Rapp Missy misdemeanor Elliott as a solo recording artist." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Distribution of The Gold Mind (Late 1990s)** : Missy Elliott's own label, The Gold Mind, which produced the hit "Make It Hot" for Nicole Wray, was distributed by Elektra Records. "She launched her own label, The Gold Mind, distributed by Electra Records." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Light My Fire" Single Edit (1967)** : Elektra Records edited The Doors' "Light My Fire" from nearly seven minutes (album version) down to 2 minutes 52 seconds for the 45 single release. This involved slicing out Ray Manzarek's long keyboard solo, as the original was deemed too long for pop radio. "So electric record sliced out Rayman Zarex long keyboard freak out and cut light my fire to a trim two minutes 52 seconds." ← Hit Parade Music History and Music Trivia > Hit Parade - The B-Sides Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Promotion of Jobriath (1973)** : Elektra Records, a major label, signed Jobriath as the first openly gay rock musician and heavily promoted his 1973 debut album, including a large billboard in Times Square. "Indeed, the man-born Bruce Wayne Campbell was the first openly gay rock musician signed to a major label. And lecture records pulled out all the stops to hype Gibrieth's 1973 debut" ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Gulliver's Label (1970)** : Elektra Records was the label that signed Tim Moore's band Gulliver, which Darryl Hall briefly joined in 1970, and released their self-titled album. "Hall joined singer-songwriter Tim Moore's band Gulliver, who got signed to the lecture records." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Signed Television** : Elektra Records eventually signed Tom Verlaine's quartet, Television, leading to the release of their acclaimed 1977 LP *Marquee Moon*. "Tom Verlane's quartet eventually signed with electoral records." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Delaney & Bonnie
 - Jobriath
 - The Stooges
 - They Might Be Giants
-
+- Timbaland
+- Missy Elliott
+- The Doors
+- Timbaland & Magoo
+- Sista
+- Television
+- Gulliver

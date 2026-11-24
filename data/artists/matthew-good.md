@@ -57,4 +57,4 @@
 **Juno Award for Rock Album of the Year (2014) — Arrows of Desire** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q17141499
 
 ## lists
-**"Hospital Music" (2007) — Sputnikmusic Best Albums 2007** : #81, 4.07 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2007/
+**"Hospital Music" (2007) — Sputnikmusic Best Albums 2007** : #81, 4.07 Sputnik.

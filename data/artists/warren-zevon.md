@@ -25,5 +25,5 @@
 **Problematic Personal Life** : Zevon was known for a problematic personal life, specifically as a "notoriously violent alcoholic," a trait that sharply contrasted with his recognized musical giftedness. "Zeevon was as gifted in his career as he was problematic in his personal life I mean he was a notoriously violent alcoholic." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
 
 ## lists
-**"Warren Zevon" (1976) — Scaruffi 1970s** : #80, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Excitable Boy" (1978) — Scaruffi 1970s** : #149, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Warren Zevon" (1976) — Scaruffi 1970s** : #80, 8.0/10 Scaruffi.
+**"Excitable Boy" (1978) — Scaruffi 1970s** : #149, 7.5/10 Scaruffi.

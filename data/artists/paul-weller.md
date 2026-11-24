@@ -14,6 +14,12 @@
 - Epiphone Casino
 - Marshall amplifiers
 
+## albums
+**Stanley Road (1995)** : This album topped the charts in April 1995, featuring Noel Gallagher on guitar for a cover of Dr. John's "I Walk on Guilded Splinters." "Gallagher appeared on the chart-topping album Stanley Road by Paul Weller, veteran frontman of Mod Punkers, The Jam." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## songs
+**I Walk on Guilded Splinters** : This Dr. John cover was featured on Paul Weller's "Stanley Road" album, with Noel Gallagher playing guitar on the track. "Noel could be heard playing guitar on Weller's cover of Dr. John's I Walk on Guilded Splinters." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **Brit-Pop Influence Comparison** : Paul Weller is referenced as an influence for Oasis's "more classic British" Brit-Pop style, drawing a comparison to The Rolling Stones and The Jam, in contrast to Pulp's unique "kitsch" approach. "Oasis would be that movement, perhaps of the more classic British of Paul Weller and of The Rolling Stones, if The Jam." ← Music Radar Clan > PULP： Pilares del Brit Pop | https://www.youtube.com/watch?v=0r8_s6hR3Ss&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← paul-weller ← paul-weller
 **Extensive Use of Marshall Amplifiers** : Paul Weller is listed among hundreds of musicians, both famous and lesser-known, who utilize Jim Marshall's amplifiers. This inclusion underscores the enduring popularity and critical role Marshall amplifiers play in achieving loud, powerful rock sounds across many decades. "Over the decades, Jim's amplifiers became synonymous with loud, powerful rock and today they used by slash, oasis, the death tones, rob zombie, Paul Weller, some 41, pop erosion, hundreds of others, famous and not so famous." ← https://www.youtube.com/watch?v=PNiL63fY1Y8 ← paul-weller
@@ -25,11 +31,12 @@
 **Noel Gallagher Influence** : Paul Weller is identified as one of the classic "old school" influences that are still present in Noel Gallagher's "Council Skies" album, contributing to its refreshed sound. "influencias clásicas pues el de Huda, allá donde Paul Gueller." ← Music Radar Clan > Noel Gallagher's High Flying Birds - Who Built The Moon | https://www.youtube.com/watch?v=A4D1H45AyuA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← paul-weller ← paul-weller
 **Noel Gallagher's Idol and Collaborator** : Noel Gallagher idolized Paul Weller's work in The Jam, The Style Council, and his solo career since childhood. They became friends, even living across from each other in London. Weller played lead guitar, whistled, and provided background vocals on Oasis' "Champagne Supernova" during the recording of the "Morning Glory" album. "Ever since he was a kid, no idolized Willers work in the jam, the style council, and his solo work." ← https://www.youtube.com/watch?v=IhG-WJH9om8 ← paul-weller ← paul-weller
 **Solo Artist Evolution** : Before establishing himself as a solo artist, Paul Weller was associated with a band called The Paul Weller Movement. This group itself evolved from The Style Council, which had its origins in the band The Jam. "And before there was a Paul Weller, the solo artist, there was a band called the Paul Weller Movement." ← https://www.youtube.com/watch?v=oPgeSCy93bo ← paul-weller
+**Britpop Relevance** : As an 80s veteran and frontman of Mod Punkers The Jam, Weller was made newly relevant by the emergence of Britpop. "Like Morrissey, Weller was an 80s veteran made newly relevant by the emergence of Britpop." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **MOJO Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3319330
 
 ## lists
 **"Wild Wood" (1993) — 1001 Albums You Must Hear Before You Die** : #734.
-**"22 Dreams" (2008) — AOTY Must Hear 2000s** : #86, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Wake Up the Nation" (2010) — AOTY Must Hear 2010s** : #925, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
+**"22 Dreams" (2008) — AOTY Must Hear 2000s** : #86, 82 AOTY.
+**"Wake Up the Nation" (2010) — AOTY Must Hear 2010s** : #925, 81 AOTY.

@@ -5,3 +5,6 @@
 
 ## artists
 - Lady Gaga
+- The Real McCoy
+- New Order
+- Rihanna

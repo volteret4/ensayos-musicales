@@ -37,6 +37,7 @@
 **Statue in Camden Market, London** : Amy Winehouse has a statue located in Camden Market, London, celebrating her legacy. "Amy Winehouse in Camden Market, London." ← https://www.youtube.com/watch?v=72Lei7uug8c ← amy-winehouse
 **Struggles with Fame and Addiction (2005 onwards)** : Starting around 2005, Amy Winehouse became increasingly jaded and angry with fame, which was accompanied by extensive media coverage of her heavy drinking and drug use. "Starting in about 2005, a lot of media attention was focused on her drinking and heavy drug use." ← https://www.youtube.com/watch?v=hhii2_BVE7A ← amy-winehouse
 **Untimely Death and Musical Legacy** : Amy Winehouse tragically passed away in the summer of 2011 due to alcohol poisoning. Despite her short career, she is credited with almost single-handedly reintroducing a soulful type of R&B to a new generation of listeners. "Now, of course, she's no longer with us having died of alcohol poisoning in the summer of 2011. But when she was still alive, Amy almost single-handedly brought back a soulful type of R&B for a brand new generation." ← https://www.youtube.com/watch?v=11UsTJQyQds ← amy-winehouse ← amy-winehouse
+**Fame Credited to Mark Ronson** : Mark Ronson is acknowledged as "the man who helped make Amy Winehouse famous," pointing to his pivotal role in her career. "the man who helped make Amy Winehouse famous." ← Hit Parade Music History and Music Trivia > Rolling in God’s Royal Uptown Road Edition. | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Grammy Award for Best New Artist (2007)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643
@@ -48,7 +49,7 @@
 
 ## lists
 **"Frank" (2003) — 1001 Albums You Must Hear Before You Die** : #963, 77 AOTY.
-**"Back to Black" (2006) — AOTY Must Hear 2000s** : #167, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Frank" (2003) — AOTY Must Hear 2000s** : #333, 77 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Back to Black" (2006) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #33, 82 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Back to Black" (2006) — Grammy Award: Album of the Year nominees** : #2008, 82 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
+**"Back to Black" (2006) — AOTY Must Hear 2000s** : #167, 82 AOTY.
+**"Frank" (2003) — AOTY Must Hear 2000s** : #333, 77 AOTY.
+**"Back to Black" (2006) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #33, 82 AOTY.
+**"Back to Black" (2006) — Grammy Award: Album of the Year nominees** : #2008, 82 AOTY.

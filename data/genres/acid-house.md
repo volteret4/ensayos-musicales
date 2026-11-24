@@ -18,4 +18,6 @@
 - The Chemical Brothers
 - The KLF
 - The Stone Roses
-
+- Happy Mondays
+- U2
+- New Order

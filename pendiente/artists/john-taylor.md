@@ -2,3 +2,4 @@
 
 ## member of
 - Duran Duran
+- The Power Station

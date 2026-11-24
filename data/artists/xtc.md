@@ -4,6 +4,7 @@
 - Andy Partridge
 
 ## genres
+- Angular Guitar Pop
 - British New Wave
 - Indie Rock
 - New Wave
@@ -37,15 +38,17 @@
 **Prolific Output and Creative Shift** : XTC was a prolific band, often releasing at least one album per year. In 1985, they sought a creative departure from their usual post-punk quirkiness, embracing 60s psychedelia and aiming for a more fun, less serious approach to songwriting, which led to the creation of their pseudonymous project, The Dukes of Stratosphear. "XTC was a pretty prolific band in their day, releasing at least an album a year, but in 1985 they decided to try something different." ← https://www.youtube.com/watch?v=itK5fEqnA5E ← xtc ← xtc
 **Times Square Soundtrack Contribution (1980)** : XTC was included on the soundtrack for the 1980 movie *Time Square*. This soundtrack was noteworthy for being one of the initial collections to feature the nascent alternative music movement of the time, such as punk and new wave. "The soundtrack featured the pretenders, Roxy music, Gary Newman, XTC, Joe Jackson." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← xtc
 **Influence on Blur** : "Exticy" was mentioned as an influence on Blur's music, alongside Madchester, The Stone Roses, and New Wave, indicating the diverse range of inspirations that shaped Blur's sound. "la demanda señó Wave incluso o demandas como Exticy." ← Music Radar Clan > OASIS： Pilares del Brit Pop | https://www.youtube.com/watch?v=hHuqc4TgoOs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← exticy
+**Angular Guitar Pop Influence** : From turn-of-80s new wave, Britpop owed a debt to the angular guitar pop of XTC, demonstrating a lineage of distinctive guitar-driven pop. "And the angular guitar pop of XTC." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Producer Steve Lillywhite** : Steve Lillywhite, who went on to produce multiple albums with U2, had previously produced hits for XTC. "They were paired with producer Steve Lillewight, who had produced hits for Suzie and the Banshees and XTC." ← Hit Parade Music History and Music Trivia > With or Without U2 Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Skylarking" (1986) — 1001 Albums You Must Hear Before You Die** : #578, 7.5/10 Scaruffi.
 **"Apple Venus, Volume 1" (1999) — 1001 Albums You Must Hear Before You Die** : #881.
-**"Drums and Wires" (1979) — AOTY Must Hear 1970s** : #8, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Skylarking" (1986) — AOTY Must Hear 1980s** : #62, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Black Sea" (1980) — AOTY Must Hear 1980s** : #186, 86 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"White Music" (1978) — Scaruffi 1970s** : #150, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Skylarking" (1986) — Scaruffi 1980s** : #215, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"English Settlement" (1982) — Scaruffi 1980s** : #814, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Drums and Wires" (1979) — Pitchfork: The 100 Best Albums of the 1970s** : #38, 85 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"Skylarking" (1986) — Pitchfork: The 200 Best Albums of the 1980s** : #133, 7.5/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"Drums and Wires" (1979) — AOTY Must Hear 1970s** : #8, 85 AOTY.
+**"Skylarking" (1986) — AOTY Must Hear 1980s** : #62, 7.5/10 Scaruffi.
+**"Black Sea" (1980) — AOTY Must Hear 1980s** : #186, 86 AOTY.
+**"White Music" (1978) — Scaruffi 1970s** : #150, 7.5/10 Scaruffi.
+**"Skylarking" (1986) — Scaruffi 1980s** : #215, 7.5/10 Scaruffi.
+**"English Settlement" (1982) — Scaruffi 1980s** : #814, 7.0/10 Scaruffi.
+**"Drums and Wires" (1979) — Pitchfork: The 100 Best Albums of the 1970s** : #38, 85 AOTY.
+**"Skylarking" (1986) — Pitchfork: The 200 Best Albums of the 1980s** : #133, 7.5/10 Scaruffi.

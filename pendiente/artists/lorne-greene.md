@@ -1,0 +1,11 @@
+# artist - Lorne Greene
+
+## albums
+**Album of Tall Tales from American History (1963)** : Greene had produced a whole album of these tall tales in 1963 as a promotional tie-in with his TV show "Bonanza," from which "Ringo" was later released as a single. "The actor had produced a whole album of these tall tales from American history in 1963 as a promotional tie-in with Bonanza." ← Hit Parade Music History and Music Trivia > Singing Nuns and Green Tambourines Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## songs
+**Ringo (1964)** : Lorne Greene, star of the TV series "Bonanza," took his spoken-word Western outlaw story song "Ringo" to number one in 1964. This occurred while "Bonanza" itself was number one in the TV ratings, showcasing television's ability to turn a 49-year-old actor into a chart-topper. "Bonanza's star Lauren Green took his spoken word Western Outlaw Story Song, Ringo, to number one in 1964, while that NBC TV series he fronted was still number one in the ratings." ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Ringo (1964)** : This spoken word novelty record, which was not about Beatles drummer Ringo Starr, found the 49-year-old Canadian actor telling a fictional story about Western outlaw Johnny Ringo, reaching number one in the fall of 1964. "49-year-old Canadian actor Lauren Green, star of TV's Smash Show, Bonanza, reached number 1 with Ringo, which no was not about Beatles drummer Ringo Star." ← Hit Parade Music History and Music Trivia > Singing Nuns and Green Tambourines Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## curiosities
+**Bonanza Star's Unlikely Hit** : Greene, star of TV's smash show "Bonanza," scored a number one hit with "Ringo" in the fall of 1964, despite the recording being over a year old and his label reportedly only releasing it "on the premise that anything with the name Ringo would sell that year." "Lauren Green, star of TV's Smash Show, Bonanza, reached number 1 with Ringo" ← Hit Parade Music History and Music Trivia > Singing Nuns and Green Tambourines Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/

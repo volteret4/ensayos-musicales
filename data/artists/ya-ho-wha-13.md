@@ -31,4 +31,4 @@
 **Formation and Philosophy** : Yoho Wath Thirteen was formed in 1970 and conceived as a "trippy psych group." Their recordings were entirely wild improvisations, made without rehearsals or prior planning, reflecting their spontaneous and uninhibited approach to music. "Yoho Wath Thirteen was conceived in 1970 as a trippy psych group. Their recordings were wild improvisations." ← https://www.youtube.com/watch?v=HcK4M7-02ik ← yoho-wath-thirteen
 
 ## lists
-**"Penetration" (1974) — Scaruffi 1970s** : #565, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Penetration" (1974) — Scaruffi 1970s** : #565, 7.0/10 Scaruffi.

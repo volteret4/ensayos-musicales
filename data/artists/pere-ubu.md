@@ -25,10 +25,10 @@
 ## lists
 **"The Modern Dance" (1978) — 1001 Albums You Must Hear Before You Die** : #393.
 **"Dub Housing" (1978) — 1001 Albums You Must Hear Before You Die** : #397, 7.5/10 Scaruffi.
-**"Modern Dance" (1978) — Scaruffi 1970s** : #7, 9.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"New Picnic Time" (1979) — Scaruffi 1970s** : #62, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Dub Housing" (1978) — Scaruffi 1970s** : #125, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Art Of Walking" (1980) — Scaruffi 1980s** : #83, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Cloudland" (1989) — Scaruffi 1980s** : #628, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Tenement Year" (1988) — Scaruffi 1980s** : #629, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Song Of The Bailing Man" (1983) — Scaruffi 1980s** : #630, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Modern Dance" (1978) — Scaruffi 1970s** : #7, 9.0/10 Scaruffi.
+**"New Picnic Time" (1979) — Scaruffi 1970s** : #62, 8.0/10 Scaruffi.
+**"Dub Housing" (1978) — Scaruffi 1970s** : #125, 7.5/10 Scaruffi.
+**"Art Of Walking" (1980) — Scaruffi 1980s** : #83, 8.0/10 Scaruffi.
+**"Cloudland" (1989) — Scaruffi 1980s** : #628, 7.0/10 Scaruffi.
+**"Tenement Year" (1988) — Scaruffi 1980s** : #629, 7.0/10 Scaruffi.
+**"The Song Of The Bailing Man" (1983) — Scaruffi 1980s** : #630, 7.0/10 Scaruffi.

@@ -1,0 +1,5 @@
+# artist - Kool Moe Dee
+
+## curiosities
+**Rapper on "Back on the Block"** : Kool Moe Dee, a rapper, was featured on Quincy Jones's 1989 album "Back on the Block," contributing to a track that uniquely blended his style with the performances of jazz greats like Miles Davis and Sarah Vaughan. "rappers Cool Modee and Big Daddy Kane." ← Hit Parade Music History and Music Trivia > I Wanna Rock with Q. Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Lyrical Rap Advocate** : Kool Moe Dee was a leader of the school of so-called lyrical rap, which emphasized "bars over melody" and the purity of rap technique. He engaged in a nearly decade-long beef with LL Cool J, indirectly fueled by LL's "I Need Love," which was seen by purists as compromising rap's "hardness" by appealing to women. "Indirectly, it may even have contributed to LL's nearly decade-long beef with Cool Mode, a leader of the school of so-called lyrical rap that emphasized bars over melody." ← Hit Parade Music History and Music Trivia > Say My Name, Say My Name, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/

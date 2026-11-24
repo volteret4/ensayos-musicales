@@ -6,6 +6,7 @@
 ## genres
 - Classic Rocker
 - New Wave
+- Post-punk
 - Punk
 
 ## albums
@@ -14,6 +15,7 @@
 ## songs
 **I Don't Like Mondays (1979)** : This song was recorded at Trident Studios. "It's here that the Boombtown Raths recorded I don't like Mondays." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← boomtown-rats ← boomtown-rats
 **I Don't Like Mondays (1979)** : This song was written by Bob Geldof, who was at a college radio station in Atlanta when news broke of a school shooting in San Diego on January 29, 1979. The shooting was perpetrated by 16-year-old Brenda Spencer, who opened fire on Cleveland Elementary School, killing Principal Burton Wag and a custodian, and injuring eight children. When asked by a reporter why she did it, Spencer replied, "I don't like Mondays. It livens up the day." Geldof wrote the song within hours of hearing the news. "And within hours, he was running a song about the shooting." ← https://www.youtube.com/watch?v=4PlieAEthSg ← the-boomtown-rats
+**I Don't Like Mondays (1979)** : This grandiose chart-topper was a hit for the Boomtown Rats in the late 1970s or early 1980s. The song is notable for its subject matter, which concerned a mass shooting. "a post-punk group that in the late 70s and early 80s scored a string of UK top 40 hits, including their grandiose chart-topper about a mass shooting I don't like Mondays." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 **Like Clockwork** : A single that cracked the UK winner's circle, becoming a Number 5 UK hit for The Boomtown Rats. "soon they cracked the winner's circle with, like, Clockwork, a Number 5 UK hit." ← Hit Parade Music History and Music Trivia > Pour Some Sugar on Me Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5d1ba84fb8f04493d
 **Lookin' After Number 1 (1977)** : The band's debut single with Mut Lang, which just missed the British Top 10, reaching number 11. The sound was described as having "the crunch of punk but with a punchy new wave sensibility." "Their 1977 debut single, Lookin' After Number 1, just missed the British Top 10 at Number 11." ← Hit Parade Music History and Music Trivia > Pour Some Sugar on Me Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5d1ba84fb8f04493d
 **Rat Trap (1978)** : A horn-inflected, Springsteen-esque classic rocker that became the first UK Number 1 hit for both The Boomtown Rats and Mut Lang in the fall of 1978. "Rat Trap, a horn inflected Springsteen-esque classic rocker which became the first UK Number 1 hit for both the Boomtown Rats and Mutt Lang in the fall of 78." ← Hit Parade Music History and Music Trivia > Pour Some Sugar on Me Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5d1ba84fb8f04493d
@@ -24,6 +26,7 @@
 **End of Collaboration with Mut Lang** : Mut Lang ceased working with The Boomtown Rats after their third LP, fortunately switching his focus to ACDC, which led to global success far beyond what the Rats achieved. "He ceased working with the band after their third LP." ← Hit Parade Music History and Music Trivia > Pour Some Sugar on Me Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5d1ba84fb8f04493d
 **Inspiration for Band-Aid (November 11, 1984)** : On the evening of November 11, 1984, after a difficult day attempting to publicize The Boomtown Rats' album "In the Long Grass," Bob Geldof watched a BBC documentary by reporter Michael Buerk detailing the famine in Ethiopia. Deeply affected by the images of starvation, Geldof felt compelled to take action, leading to the inception of the Band-Aid project. "Bob was stunned by the images of starving people, and he was suddenly moved to do something, anything to help these poor people." ← https://www.youtube.com/watch?v=Somq2MoRi5Q ← the-boomtown-rats
 **Richie Edwards' Musical Preference** : The Boomtown Rats were listed as one of the bands Richie Edwards liked, along with Jordy Vision, The Clash, The Police, and Blondie. "He liked Jordy Vision, the clash, the police, the Womentown rats, and blondie." ← https://www.youtube.com/watch?v=sCwgvHg86Oc ← the-boomtown-rats
+**Producer Mutt Lang's Early Work** : Robert John "Mutt" Lang made his name producing British hits for The Boomtown Rats, showcasing his early career trajectory before his significant work with AC/DC. "Robert John Mutt Lang, who was making his name on British hits for acts like Graham Parker and The Boomtown Rats." ← Hit Parade Music History and Music Trivia > The ACDC Rule, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"461" — NME Chart** : 8 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME

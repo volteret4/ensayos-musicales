@@ -98,5 +98,5 @@
 
 ## lists
 **"Songs the Lord Taught Us" (1980) — 1001 Albums You Must Hear Before You Die** : #455.
-**"Songs the Lord Taught Us" (1980) — Scaruffi 1980s** : #35. ← Scaruffi | https://scaruffi.com/music/best.html
-**"A Date With Elvis" (1986) — Scaruffi 1980s** : #332, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Songs the Lord Taught Us" (1980) — Scaruffi 1980s** : #35.
+**"A Date With Elvis" (1986) — Scaruffi 1980s** : #332, 7.0/10 Scaruffi.

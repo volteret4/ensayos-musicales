@@ -1,9 +1,13 @@
 # artist - Gary Wright
 
+## genres
+- Soft Rock
+
 ## songs
 **Dream Weaver** : The drum track on Gary Wright's "Dream Weaver" was performed by human drummer Art Wood, contrasting with the pure synthesizer elements making up the rest of the record. "The else on that record is pure synthesizer, but the drums, that's a human, Art Wood." ← https://www.youtube.com/watch?v=dablAKDOOV0 ← gary-wright ← gary-wright
 **Dream Weaver** : The drum track on Gary Wright's "Dream Weaver" was performed by human drummer Art Wood, contrasting with the pure synthesizer elements making up the rest of the record. "The else on that record is pure synthesizer, but the drums, that's a human, Art Wood." ← https://www.youtube.com/watch?v=dablAKDOOV0 ← gary-wright
 **Love Is Alive (1976)** : This song was number 10 on the Billboard Hot 100 on July 4, 1976. "number 10 love is alive by Gary Wright." ← For the Record - The 70s > Ep. 31 - The Spirit of '76 - Pop Music on America's Bicentennial | https://seventies.libsyn.com/ep-31-the-spirit-of-76-pop-music-on-americas-bicentennial
+**Love Is Alive (1976)** : This 1976 hit by British soft rocker Gary Wright was given an "acclaimed kinetic remake" by Chaka Khan for her *I Feel For You* LP. Khan's version transformed the song into her electro pop style. "Or her acclaimed kinetic remake of British soft rocker Gary Wright's 1976 hit Love Is A Lot." ← Hit Parade Music History and Music Trivia > Killing Me Softly Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Contribution to *All Things Must Pass*** : Gary Wright was one of the talented musicians who contributed to George Harrison's debut solo triple album, *All Things Must Pass*, in 1970. "Eric Clapton, Billy Preston, Gary Wright, Ringo Star, all four members of Badfinger" ← For the Record - The 70s > Ep. 32 - Take Me to Church - Religion in 70s Popular Music | https://seventies.libsyn.com/ep-32-take-me-to-church-religion-in-70s-popular-music ← gary-wright

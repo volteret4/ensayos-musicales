@@ -21,10 +21,10 @@
 **Juno Award for Electronic Album of the Year (2013) — Visions** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17101706
 
 ## lists
-**"Art Angels" (2015) — AOTY Must Hear 2010s** : #458, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Visions" (2012) — AOTY Must Hear 2010s** : #790, 79 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Art Angels" (2015) — Scaruffi 2010s** : #193, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Geidi Primes" (2010) — Scaruffi 2010s** : #403, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Art Angels" (2015) — Pitchfork: The 200 Best Albums of the 2010s** : #11, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"Visions" (2012) — Pitchfork: The 200 Best Albums of the 2010s** : #50, 79 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"Visions" (2012) — Resident Advisor: The Best Electronic Records of 2000-25** : #63, 79 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/256f2672-a51d-4824-a07f-ae79c5840268
+**"Art Angels" (2015) — AOTY Must Hear 2010s** : #458, 7.0/10 Scaruffi.
+**"Visions" (2012) — AOTY Must Hear 2010s** : #790, 79 AOTY.
+**"Art Angels" (2015) — Scaruffi 2010s** : #193, 7.0/10 Scaruffi.
+**"Geidi Primes" (2010) — Scaruffi 2010s** : #403, 7.0/10 Scaruffi.
+**"Art Angels" (2015) — Pitchfork: The 200 Best Albums of the 2010s** : #11, 7.0/10 Scaruffi.
+**"Visions" (2012) — Pitchfork: The 200 Best Albums of the 2010s** : #50, 79 AOTY.
+**"Visions" (2012) — Resident Advisor: The Best Electronic Records of 2000-25** : #63, 79 AOTY.

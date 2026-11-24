@@ -6,10 +6,12 @@
 
 ## genres
 - black American music
+- Dub Reggae
 - funk rock hybrid
 - Funky dance-oriented
 - hip hop
 - new wave
+- Proto hip-hop
 - world music
 
 ## labels
@@ -18,6 +20,9 @@
 ## songs
 **Genius of Love (1981)** : The song from which Mariah Carey interpolated elements for her track "Fantasy." "genius of love from the Tom Tom Club." ← https://www.youtube.com/watch?v=dnQ1pNbIUjw ← tom-tom-club ← tom-tom-club
 **Genius of Love (1981)** : This follow-up single was an "improbable smash in America" and a "seminal crossover track of early hip hop." On the song, Tom Tom Club combined "fluttery romantic lyrics with shout outs to black music history," name-checking artists like James Brown, Bootsy Collins, George Clinton, Bohannon, and Curtis Blow. It reached number 31 on the Hot 100 (higher than most Talking Heads singles) and a remarkable number two on the Soul Singles chart for a white rock act. It also became highly lucrative due to being sampled "dozens of times," including by Mariah Carey, Mark Morrison, and Lata. "Genius of Love was a seminal crossover track of early hip hop." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
+**Genius of Love (1981)** : This breakbeat hit was famously sampled by Mariah Carey for her 1995 chart-topper "Fantasy." "built out of a sample of the Tom Tom Club breakbeat hit Genius of Love" ← Hit Parade Music History and Music Trivia > Make My Wish Come True Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Genius of Love (1981)** : This "Proto hip hop jam" reached number 31. Tom Tom Club was a side project formed by Tina Weymouth and Chris Frantz, who were also members of Talking Heads. "Tom Tom Club reached number 31 with their Proto hip hop jam genius of love." ← Hit Parade Music History and Music Trivia > One and Done, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Genius of Love (1981)** : This classic track, a side project from Talking Heads' rhythm section Chris Frantz and Tina Weymouth, was an ingenious hybrid of new wave, hip-hop break beats, and dub reggae, co-written and produced by Jamaican producer Stephen Stanley. It was a bigger hit on the R&B chart (number two) than on the Hot 100 (number 31) and proved highly influential in hip-hop history, being sampled dozens of times. "In 1981, the married drummer and bassist released Genius of Love, an ingenious hybrid of new wave, hip-hop break beats, and even Dub Reggae, courtesy of Jamaican producer and co-songwriter Stephen Stanley." ← Hit Parade Music History and Music Trivia > Say My Name, Say My Name, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Wordy Rappinghood (1981)** : Tom Tom Club's first single, released in the summer of 1981, which blended new wave and hip-hop sounds. It became an immediate hit on the British charts, reaching number seven in the UK. "Their first single, wordy rapping hood sounded like both new wave and hip hop and it became an immediate hit on the British charts, reaching number seven in the UK in the summer of 81." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
 
 ## curiosities
@@ -30,4 +35,4 @@
 
 ## lists
 **"Tom Tom Club" (1981) — 1001 Albums You Must Hear Before You Die** : #491.
-**"Tom Tom Club" (1981) — Pitchfork: The 200 Best Albums of the 1980s** : #187. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"Tom Tom Club" (1981) — Pitchfork: The 200 Best Albums of the 1980s** : #187.

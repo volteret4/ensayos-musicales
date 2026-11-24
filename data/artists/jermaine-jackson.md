@@ -2,6 +2,7 @@
 
 ## member of
 - The Jackson 5
+- The Jacksons
 
 ## awards
 **Order of the Republic of The Gambia** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1670454

@@ -6,4 +6,4 @@
 ## artists
 - The Platters
 - The Shirelles
-
+- James Powell

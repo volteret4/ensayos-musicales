@@ -8,6 +8,9 @@
 - Tim Burgess
 
 ## genres
+- Alternative Rock
+- Baggy Sound
+- British Rock
 - Britpop
 - Indie
 - Madchester
@@ -18,7 +21,8 @@
 - Hammond B3
 
 ## songs
-**The Only One I Know** : This song features keyboards played by Rob Collins, who spent eight months in prison on an armed robbery charge. While incarcerated, Collins heard another inmate humming this very tune to him in the shower. "Keyboards by Rob Collins, who spent eight months in prison on an armed robbery charge." ← https://www.youtube.com/watch?v=6xygY-npCr4 ← the-charlatans-uk ← the-charlatans-uk
+**The Only One I Know (1990)** : This song features keyboards played by Rob Collins, who spent eight months in prison on an armed robbery charge. While incarcerated, Collins heard another inmate humming this very tune to him in the shower. "Keyboards by Rob Collins, who spent eight months in prison on an armed robbery charge." ← https://www.youtube.com/watch?v=6xygY-npCr4 ← the-charlatans-uk ← the-charlatans-uk
+**The Only One I Know (1990)** : This song reached number 9 in the UK and number 5 on the US Modern Rock chart, highlighting the band's success during the Madchester era. "The Charlotons, known as the Charlotons UK in the States due to a band named dispute. Who took the only one I know to number 9 UK and number 5 US Modern Rock?" ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Over Again (2017)** : A new single from The Charlatans, referred to as "over game" in the transcript, is set to be released on December 1st. "sale el nuevo single de los charlatans over game." ← Music Radar Clan > Lanzamientos Diciembre 2017 | https://www.youtube.com/watch?v=zKLlsA2kSqY&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-charlatans ← the-charlatans
 
 ## curiosities
@@ -34,9 +38,10 @@
 **Madchester Longevity** : The Charlatans are noted as a band from the original Madchester era that, despite all the challenges and odds faced by the scene, were "still hanging around" and continued to "do well" and stay together. "The Charlottesons were still hanging around, although they were going to have keyboard player problems." ← https://www.youtube.com/watch?v=q_Scyr2czh8 ← the-charlatans
 **Noel Gallagher as Roadie** : Noel Gallagher worked as a roadie for The Charlatans before achieving fame with Oasis. "Do you remember him playing a roading for the crash? Yeah, I remember him." ← https://www.youtube.com/watch?v=KF_adyXf86Q ← the-charlatans
 **Relationship with Noel Gallagher** : Gazz Wheeling recalls Noel Gallagher having a falling out with Shaun Ryder but maintaining a good relationship with Clint Boon, The Charlatans' keyboard player, through whom Gazz and his wife Kelly knew Noel. "he'd fallen out with Sean because Sean had some words in his barrels, but I hadn't, because I knew Clint was okay. And me and, and Kelly knew Noll through him." ← https://www.youtube.com/watch?v=KF_adyXf86Q ← the-charlatans
+**US Name Dispute** : The Norwich quintet was known as "The Charlatans UK" in the United States due to a dispute over their band name. "Norwich Quintet the Charlotons, known as the Charlotons UK in the States due to a band named dispute." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Tellin’ Stories" (1996) — 1001 Albums You Must Hear Before You Die** : #824.
-**"Modern Nature" (2015) — AOTY Must Hear 2010s** : #536, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Some Friendly" (1990) — Scaruffi 1990s** : #521, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Tellin’ Stories" (1996) — Pitchfork: The 50 Best Britpop Albums** : #29. ← musicbrainz | https://beta.musicbrainz.org/series/cd7ebb70-d88f-4f74-b6de-3a00bf2a162c
+**"Modern Nature" (2015) — AOTY Must Hear 2010s** : #536, 80 AOTY.
+**"Some Friendly" (1990) — Scaruffi 1990s** : #521, 7.0/10 Scaruffi.
+**"Tellin’ Stories" (1996) — Pitchfork: The 50 Best Britpop Albums** : #29.

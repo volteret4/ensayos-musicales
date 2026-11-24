@@ -9,4 +9,4 @@
 **Filipino British Singer** : Beabadoobee is identified as a Filipino British singer who rose to prominence within the bedroom pop scene in the 2010s. "Biba Dubie, a Filipino British singer." ← https://www.youtube.com/watch?v=tdTs-4Irv8c ← beabadoobee
 
 ## lists
-**"Space Cadet" (2019) — Sputnikmusic Best Albums 2019** : #174, 3.79 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2019/
+**"Space Cadet" (2019) — Sputnikmusic Best Albums 2019** : #174, 3.79 Sputnik.

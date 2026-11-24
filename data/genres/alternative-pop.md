@@ -5,3 +5,5 @@
 
 ## artists
 - New Order
+- Paula Cole
+- Billie Eilish

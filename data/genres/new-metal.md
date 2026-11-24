@@ -24,6 +24,8 @@
 **Popularity in Late 90s** : This genre was prominent in the late 1990s, with bands like Limp Biscuit achieving significant sales and success. "Limp Biscuit was one of the bands of the new metal era of the late 90s." ← https://www.youtube.com/watch?v=yR3xc3ra5tE ← new-metal
 **Successor to Grunge (Late 1990s)** : After the original grunge bands died off and the genre's popularity waned in the late 1990s, New Metal emerged as a replacement, albeit described as "Dreck-like." ← https://www.youtube.com/watch?v=eqTFinLk3oU ← new-metal
 **Woodstock 99 Lineup and Crowd Demeanor** : The lineup for Woodstock 99 was heavily populated with "intense and angry new metal bands," including Limp Bizkit, Korn, Kid Rock, Rage Against the Machine, and Metallica. This concentration of aggressive music was cited as contributing to an atmosphere of "male rage and testosterone" among the 200,000 attendees, fostering the frustration and negative energy that escalated into widespread hatred and violence. "Added in the fact that the lineup was filled with intense and angry new metal bands, LeBiscuit corn, kid rocked, kid rocked, rage guns, the machine, Metallica, tons of mail rage and testosterone." ← https://www.youtube.com/watch?v=Pgchw2h87aw ← new-metal
+**Late 90s Major Trend** : New metal emerged as a major trend in the late 90s, characterized by its "combination of syncopated rhythms, metal screeching and occasional rapping," producing hits for bands like Korn, Limp Bizkit, and Deftones on both mainstream and modern rock charts. "new metal and rap rock, the other major trends of the late 90s." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Original Form of "Numb" (2004)** : Linkin Park's "Numb" was initially released in an "Emo New Metal form" and charted at number 11 before a mashup version with Jay Z charted separately. This showcases the specific genre context of the original track. "The first in its original Emo New Metal form, which reached number 11." ← Hit Parade Music History and Music Trivia > We Invented the Remix Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Three Days Grace
@@ -39,4 +41,6 @@
 - Papa Roach
 - Puddle of Mudd
 - System of a Down
-
+- Kid Rock
+- Coal Chamber
+- Deftones

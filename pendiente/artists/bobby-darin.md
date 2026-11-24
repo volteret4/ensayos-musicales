@@ -2,6 +2,7 @@
 
 ## genres
 - Jazz
+- Rock and Roll
 
 ## concerts
 - Harlem Apollo
@@ -9,6 +10,8 @@
 ## songs
 **All Away Home** : Luther Dixon co-wrote this song with Otis Blackwell for Bobby Darin. "He spent some time writing with Otis Blackwell with whom he wrote All Away Home for Bobby Daring." ← Episode 89： ＂Will You Love Me Tomorrow？＂ by the Shirelles | https://www.youtube.com/watch?v=7Kns2HGcuSg
 **Mac the Knife (1959)** : Bobby Darin's jazzy murder ballad that famously topped the Hot 100 for nine weeks in the fall of 1959. By this time, the song, originally from the 1928 German proto-musical "The Three Penny Opera," had already been recorded countless times and established itself as a pop standard. "Bobby Daren topped the Hot 100 with Mac the Knife for nine weeks in the fall of 1959" ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
+**Splish Splash (1958)** : He broke as a rock and roller with this "kitschy, catchy" song. "Bobby Daren, who broke as a rock and roller with the kitschy, catchy, splash splash." ← Hit Parade Music History and Music Trivia > The White and Nerdy Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Splish Splash (1958)** : Bobby Darin, a multi-genre singer, first gained prominence as a rock and roller with this catchy hit. "multi-genre singer Bobby DARREN, who broke as a rock and roller with the catchy, catchy splash splash." ← Hit Parade Music History and Music Trivia > The White and Nerdy Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 **Wear My Ring (1957)** : Warren Kosouto, identified as the future Bobby Darin (misspelled as "Bobby Damien" in the transcript), co-wrote the ballad "Wear My Wings." This song was released as the B-side to Gene Vincent's "Lotta Lovin'." "The B-side was a ballad called We're My Wings by Warren Kosouto, the future Bobby Damien, and Don Kershner." ← Episode 41： ＂Be-Bop-A-Lula＂ by Gene Vincent and the Bluecaps | https://www.youtube.com/watch?v=tYBQ5F7O3G0
 
 ## curiosities

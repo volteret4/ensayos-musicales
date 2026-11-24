@@ -6,10 +6,12 @@
 **Philadelphia Orchestra Members in MFSP** : The house band for Philadelphia International Records, MFSP, included members of the Philadelphia Orchestra, who contributed to the prominent and distinctive string arrangements of the Philly Sound, enjoying the opportunity to play "a little funky" music as a change from classical repertoire. "it included legit members of the Philadelphia Orchestra who got to get a little funky as a change of pace from their classical music" ← For the Record - The 70s > Ep. 37 - Philly Soul and the Sound of the 70s | https://seventies.libsyn.com/ep-37-philly-soul-and-the-sound-of-the-70s
 **Philly Soul Signature Sound** : The lush and "creamy" strings are the definitive signature element of Philadelphia soul, enveloping listeners in a rich, distinctive sound that forms a core part of its regional identity. "you can hear it in the strings of the sound of Philadelphia soul." ← For the Record - The 70s > Ep. 37 - Philly Soul and the Sound of the 70s | https://seventies.libsyn.com/ep-37-philly-soul-and-the-sound-of-the-70s
 **Remote Recording for "One Tree Hill"** : The string parts for U2's "One Tree Hill" were recorded by Toronto musicians Dick Paul and Adele Armin at Grand Avenue Studios in Hamilton. The recording session was directed remotely by Daniel N. Waw and The Edge through a six-hour trans-Atlantic phone call. "Dick Paul and Adele Armin of Toronto recorded their parts at Grand Avenue Studios in Hamilton. They were directed by Daniel and the edge over the course of a six hour, Trent Atlantic phone call." ← https://www.youtube.com/watch?v=VR5Fncdc2kQ ← strings
+**Part of Seattle Symphony Performance** : Strings were part of the Seattle Symphony Orchestra that accompanied Sir Mix-A-Lot during his 2014 performance of "Baby Got Back" in his hometown. "accompanied by the Seattle Symphony Orchestra, in addition to a conductor, Strings and Woodwinds" ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Controversial Addition to Beatles Song** : Phil Spector famously angered Paul McCartney by adding strings to The Beatles' final number one hit, "The Long and Winding Road," a production decision that highlighted Spector's auteur approach but caused friction with the artist. "He angered Paul McCartney by adding strings to the Beatles final number one hit, The Long and Winding Road." ← Hit Parade Music History and Music Trivia > Turn Around, Bright Eyes, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Charlie Rich
 - Death Grips
 - Glen Campbell
 - U2
-
+- Nat King Cole

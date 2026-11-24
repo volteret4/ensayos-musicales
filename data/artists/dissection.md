@@ -14,5 +14,5 @@
 **Suicide (Two Years After Release)** : Two years after his release from prison, Nödtveidt died by suicide. His body was discovered arranged in a ring of candles, with a book of satanic rituals found beside him. "Two years later, Nonvite was dead by his own hand." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← dissection
 
 ## lists
-**"Storm of the Light’s Bane" (1995) — AOTY Must Hear 1990s** : #209. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"The Somberlain" (1993) — Sputnikmusic Best Albums 1993** : #30, 4.19 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
+**"Storm of the Light’s Bane" (1995) — AOTY Must Hear 1990s** : #209.
+**"The Somberlain" (1993) — Sputnikmusic Best Albums 1993** : #30, 4.19 Sputnik.

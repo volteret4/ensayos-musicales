@@ -1,0 +1,4 @@
+# artist - Biddu Apaya
+
+## curiosities
+**Production of "Kung Fu Fighting" (1974)** : Biddu Apaya, an Indian-born, England-based music impresario, produced Carl Douglas's "Kung Fu Fighting." He initially believed "I Want to Give You My Everything," a light disco song he had in mind for the A-side, was the better track. He booked several hours at a London studio to record Douglas on "I Want to Give You My Everything," only asking Douglas for a quick B-side recording with 10 minutes left of studio time. Despite Biddu's view that "Kung Fu Fighting" was "just a fun thing," staff at UK Pie Records recognized it as the hit and released it as the A-side. "it was produced by a gentleman named Bidu Apaya an Indian born England-based budding music in Pissario who thought he had a much better song for the a-side." ← Hit Parade Music History and Music Trivia > Hit Parade - The B-Sides Edition | https://my.slate.com/podcasts/feeds/hit-parade/

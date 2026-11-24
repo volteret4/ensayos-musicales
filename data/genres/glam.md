@@ -31,4 +31,6 @@
 - Suzi Quatro
 - Sweet
 - The Darkness
-
+- LaBelle
+- New York Dolls
+- Bayside Boys

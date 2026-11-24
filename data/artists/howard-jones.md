@@ -5,6 +5,9 @@
 - Samplers
 - Sequencers
 
+## songs
+**No One Is To Blame (1986)** : This ballad was produced, had backup vocals, and drums played by Phil Collins. It peaked at number 4 by early July 1986. "Collins had produced sang back up and played drums on Howard Jones's ballad, No One Is To Blame." ← Hit Parade Music History and Music Trivia > The Invisible Miracle Sledgehammer Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **One-Man Band Approach** : Jones operated as a one-man band, utilizing an extensive array of keyboards, sequencers, and samplers to create his music. "Howard Jones, a one-man band, thanks to his arsenal of keyboards, sequencers and samplers." ← https://www.youtube.com/watch?v=1KF5MwJVYng ← howard-jones
 **Participant in 1985 Synthesizer Jam** : Howard Jones participated in a memorable 1985 Grammy "synthesizer shindig" with Stevie Wonder, Herbie Hancock, and Thomas Dolby, performing a "Frankenstein's monster of a pop medley" behind a bank of synths and computers. "Howard Jones standing behind a bank of synths and computers playing a Frankenstein's monster of a pop medley." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc

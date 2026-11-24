@@ -16,5 +16,5 @@
 **Madrid-Based Instrumental Rock** : Toundra is a Spanish band from Madrid renowned for their high-quality instrumental rock, which uses distortion in a melodic and non-noisy manner. They are also known for delivering excellent live concerts. "tundra que también son españoles madri leños hace una especie de rock de distorsión pero como no muy ruidoso como bastante como bastante melodico es instrumental prácticamente todo el tiempo." ← Music Radar Clan > Lanzamientos ABRIL 2018 | https://www.youtube.com/watch?v=3_SAz8OxeIA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← toundra
 
 ## lists
-**"Toundra (II)" (2010) — Sputnikmusic Best Albums 2010** : #91, 4.03 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2010/
-**"III" (2012) — Sputnikmusic Best Albums 2012** : #95. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2012/
+**"Toundra (II)" (2010) — Sputnikmusic Best Albums 2010** : #91, 4.03 Sputnik.
+**"III" (2012) — Sputnikmusic Best Albums 2012** : #95.

@@ -41,5 +41,5 @@
 **""Nights in White Satin"" — UK Singles Chart** : #3, 1973. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
 
 ## lists
-**"Days of Future Passed" (1967) — AOTY Must Hear 1960s** : #50, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"In Search Of The Lost Chord" (1968) — Scaruffi 1960s** : #172, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Days of Future Passed" (1967) — AOTY Must Hear 1960s** : #50, 83 AOTY.
+**"In Search Of The Lost Chord" (1968) — Scaruffi 1960s** : #172, 7.0/10 Scaruffi.

@@ -13,7 +13,7 @@
 **Cult Pop Punk/Garage Rock Artist** : Ty Segall was cited as an example of a "culty band" (artist) that plumbed Pop Punk styles in the 2010s, sometimes taking things harder and mixing in elements of garage rock. These artists kept the spirit of Pop Punk alive during a decade when it experienced a brief surge, though not reaching the popularity of its 90s and 2000s waves. "Some examples included waves, bass drum of death, Thai seagull and Toronto's pop." ← https://www.youtube.com/watch?v=HSvgRyGiOpE ← ty-segall
 
 ## lists
-**"Freedom's Goblin" (2018) — AOTY Must Hear 2010s** : #230, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Manipulator" (2014) — AOTY Must Hear 2010s** : #576, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Slaughterhouse" (2012) — AOTY Must Hear 2010s** : #756, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Slaughterhouse" (2012) — Scaruffi 2010s** : #336, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Freedom's Goblin" (2018) — AOTY Must Hear 2010s** : #230, 80 AOTY.
+**"Manipulator" (2014) — AOTY Must Hear 2010s** : #576, 80 AOTY.
+**"Slaughterhouse" (2012) — AOTY Must Hear 2010s** : #756, 7.0/10 Scaruffi.
+**"Slaughterhouse" (2012) — Scaruffi 2010s** : #336, 7.0/10 Scaruffi.

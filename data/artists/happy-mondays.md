@@ -9,6 +9,9 @@
 - Shaun Ryder
 
 ## genres
+- Acid House
+- Baggy
+- Baggy Sound
 - Dance Music
 - House
 - Indie
@@ -17,6 +20,8 @@
 - Manchester
 - Manchester Sound
 - Pop
+- Psychedelic Rock
+- Rave
 - Soul Music
 
 ## labels
@@ -26,6 +31,7 @@
 ## concerts
 - Brixton Academy
 - Haçienda
+- Party-like performances
 - Top of the Pops (November 23, 1989)
 
 ## albums
@@ -49,10 +55,12 @@
 **Hallelujah (1989)** : The Happy Mondays performed this single on "Top of the Pops" on November 23, 1989. This appearance was a significant moment for the band, as independent acts rarely made it onto the show, marking a breakthrough for the Madchester scene. "The Happy Mondays with hallelujah, the single they performed on top of the pops on November 23rd, 1989." ← https://www.youtube.com/watch?v=dZStbEe4Gkk ← happy-mondays ← happy-mondays
 **Judge Fudge** : This single was released to bridge the gap between "Pills, Thrills, and Bellyaches" and the subsequent album. Gazz Wheeling considers it one of his favorite Happy Mondays songs, though he was unsure if it was featured on the "Yes Please" album. "The happy Monday's with a single called judge fudge that helped bridge the gap between pills, thrills, and belly aches, and whatever came next." ← https://www.youtube.com/watch?v=q_Scyr2czh8 ← happy-mondays
 **Judge Fudge** : This single helped bridge the gap between "Pills 'n' Thrills and Bellyaches" and the band's next album. It is considered one of Gazz Wheeling's favorite songs by the band, though its exact album placement is uncertain. "The happy Mondays with a single called judge fudge that helped bridge the gap between pills, thrills, belly aches and whatever came next." ← https://www.youtube.com/watch?v=KF_adyXf86Q ← happy-mondays
+**Kinky Afro (1990)** : This trippy single hit number one on the US Modern Rock Chart in late 1990, further cementing Happy Mondays' success within the Madchester movement. "And Happy Mondays went top 10 Modern Rock with step on and even hit number one on that chart in late 1990 with the trippy, kinky afro." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Loose Fits (1990)** : This song is featured on the 1990 album "Pills 'n' Thrills and Bellyaches." "The Happy Mondays in Loose Fits from the 1990 album Pills and Thrills and Billy Eggs." ← https://www.youtube.com/watch?v=KF_adyXf86Q ← happy-mondays
 **Loose Pooch** : This song is one of the "great tunes" found on the "Yes Please" album. "Cottenham Loose Pooch, there's a couple of great tunes on it." ← https://www.youtube.com/watch?v=q_Scyr2czh8 ← happy-mondays
 **Madchester Rave On (1989)** : Released in November 1989, this single is credited with coining the term "Madchester." The British music press quickly adopted the term, turning it into a household word. "If you go back to November 1989, you'll find a Monday single called madchester rave on." ← https://www.youtube.com/watch?v=DSvoppf1dGY ← happy-mondays
-**Step On** : This song achieved significant chart success, reaching number five on the National British Singles charts, which was a substantial accomplishment for an indie band. The opening 23 seconds of the song are given more contextual meaning by the anecdote of Bez's run-in with the police during the recording of "Pills 'n' Thrills and Bellyaches." "The Happy Mondays with Step On, I saw in the reach number five on the National British Singles charts, a huge accomplishment for an indie band." ← https://www.youtube.com/watch?v=dZStbEe4Gkk ← happy-mondays ← happy-mondays
+**Step On (1990)** : This song achieved significant chart success, reaching number five on the National British Singles charts, which was a substantial accomplishment for an indie band. The opening 23 seconds of the song are given more contextual meaning by the anecdote of Bez's run-in with the police during the recording of "Pills 'n' Thrills and Bellyaches." "The Happy Mondays with Step On, I saw in the reach number five on the National British Singles charts, a huge accomplishment for an indie band." ← https://www.youtube.com/watch?v=dZStbEe4Gkk ← happy-mondays ← happy-mondays
+**Step On (1990)** : This 1990 hit was described as groovy and trippy, defining the "baggy sound" associated with the Madchester movement. It went top 10 on the US Modern Rock Chart. "And their hits, like 1990s, step on, were groovy, trippy, and defined the so-called baggy sound." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Stinking Thinking** : This song is featured on the "Yes Please" album and is described as a "great tune." "The Happy Mondays and Stinking Thinking, from the Yes Please album, the record that pretty much marked the end of whatever Madchester was." ← https://www.youtube.com/watch?v=q_Scyr2czh8 ← happy-mondays
 **Stinking Thinking** : This song is featured on the "Yes Please" album and is described as a great tune. The album it comes from is noted for marking the end of the Madchester era. "The Happy Mondays and Stinking Thinking from the Yes Please album, the record that pretty much marked the end of whatever Madchester was." ← https://www.youtube.com/watch?v=KF_adyXf86Q ← happy-mondays
 
@@ -126,9 +134,15 @@
 **Sun Lounges as Crack Den** : Band members converted sun loungers by the pool near Eddy Grant's studio in Barbados into a makeshift crack den, a place where many of them spent their time. "they turned the sun, the sun lounges... They turned and they made it cracked and out of it. It stopped open to a crack there." ← https://www.youtube.com/watch?v=KF_adyXf86Q ← happy-mondays
 **UK Reunion Tour (2010s)** : Against initial odds, the Happy Mondays reunited for a series of shows across the UK, signaling a significant return for the band known for its Madchester era excesses. The tour included a stop at Brixton Academy where Inspiral Carpets opened. "But, against all odds, the Mondays came back together for a series of shows across the UK." ← https://www.youtube.com/watch?v=hjProJd_JrM ← happy-mondays
 **US House Music Influence (Theory)** : One theory posits that the initial arrival of House music in Manchester was facilitated by one or two members of the Happy Mondays, who spent time in the United States and brought back the first LPs of Chicago House music from New York and Chicago. "tenemos también la teoría de que sería uno de los miembros o un par de miembros de los capi-mondes que pasaron un tiempo en Estados Unidos, se habrían traído en Nueva York y de Chicago los primeros LPs de música House del movimiento House de Chicago" ← Music Radar Clan > Sonido MADCHESTER | https://www.youtube.com/watch?v=SeClcq_45LE&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← happy-mondays ← happy-mondays
+**Tony Wilson's Major Discovery** : Happy Mondays were a major discovery by Factory Records owner Tony Wilson at the peak of Madchester. "Wilson's major discovery at the peak of Madchester was the shambling combo Happy Mondays, wanted by drug-fueled vocalist Sean Ryder." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Party-Oriented Performances** : Happy Mondays' performances were described as more party than rock show, notably featuring a maraca player named Bez who danced more than he played an instrument. "Happy Mondays performances were more party than Rock Show, one member a Maraca player called Bez danced more than he played." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Drug-Fueled Vocals** : The band was fronted by the "drug-fueled vocalist Shaun Ryder," suggesting a chaotic and energetic presence characteristic of the Madchester scene. "Happy Mondays, wanted by drug-fueled vocalist Sean Ryder." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Sean Ryder's Reinvention** : After the band became defunct, frontman Sean Ryder reinvented himself with a new group called Black Grape, which managed to climb higher on the charts than Happy Mondays ever had. "Sean Ryder of the now-defunct happy Mondays reinvented himself with a new group, Black Grape, that was not far removed from the old band's baggy sound." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Madchester Scene Pioneers (Late 1980s)** : Happy Mondays were an influential English rock band from Manchester during the late 1980s. They were instrumental in developing the "Baggy" or "Madchester" sound by incorporating dance beats, acid house, and rave psychedelia, proving that "rock bands and drum machines could coexist" and thereby influencing other bands, including U2. "Bands like The Stone Roses or Happy Mondays were showing how rock bands and drum machines could coexist." ← Hit Parade Music History and Music Trivia > With or Without U2 Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Held off Chart by Steinman (1990)** : The Happy Mondays' hits were held off the top of the modern rock chart for five weeks by The Sisters of Mercy's Jim Steinman-produced single "More" at the end of 1990. "and The Happy Mondays." ← Hit Parade Music History and Music Trivia > Turn Around, Bright Eyes, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Bummed" (1989) — 1001 Albums You Must Hear Before You Die** : #617, 7.0/10 Scaruffi.
 **"Pills ’n’ Thrills and Bellyaches" (1990) — 1001 Albums You Must Hear Before You Die** : #673.
-**"Bummed" (1989) — Scaruffi 1980s** : #460, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Pills ’n’ Thrills and Bellyaches" (1990) — Sputnikmusic Best Albums 1990** : #61. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
+**"Bummed" (1989) — Scaruffi 1980s** : #460, 7.0/10 Scaruffi.
+**"Pills ’n’ Thrills and Bellyaches" (1990) — Sputnikmusic Best Albums 1990** : #61.

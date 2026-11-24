@@ -8,3 +8,5 @@
 - Klaus Nomi
 - Noel Coward
 - Richard Wagner
+- Jim Steinman
+- Rosalía

@@ -7,3 +7,4 @@
 ## artists
 - Space Monkeyz
 - Talking Heads
+- Billy Joel

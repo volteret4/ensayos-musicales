@@ -5,6 +5,7 @@
 
 ## albums
 **Carry Fire (2017)** : This album is from a mythical singer and historical figure who has aged very well, making it a noteworthy release given his extensive discography of 15, 16, or 17 albums. "pues es un disco como no a tener en cuenta." ← Music Radar Clan > Lanzamientos de Octubre 2017 | https://www.youtube.com/watch?v=q1_bxi16osQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Pictures at Eleven (1982)** : Robert Plant's 1982 solo debut album, for which the former Led Zeppelin frontman called in Phil Collins to play drums. This marked Collins's growing demand as a side musician for both current pop stars and longtime rock legends. "In the Legends category, former Led Zeppelin frontman Robert Plant called in Collins to play on his 1982 Solo debut album Pictures at Eleven." ← Hit Parade Music History and Music Trivia > The Invisible Miracle Sledgehammer Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 **Raising Sand (2007)** : This Americana folk album was a big winner at the 2009 Grammys, where Robert Plant teamed with bluegrass vocalist Alison Krauss. As an "elder statesman," Plant and his new duet partner swept Album of the Year as well as Record of the Year with "Please Read The Letter," a significant achievement given Led Zeppelin's past lack of Grammy recognition. "Robert Plant and his new duet partner cleaned up, sweeping album of the Year as well as record of the Year with Please Read The Letter." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
 
 ## songs
@@ -21,6 +22,8 @@
 **Friendliness Towards The Trews** : During their tour together, Robert Plant demonstrated remarkable friendliness towards The Trews. He introduced himself and checked out their guitars at their first soundcheck, leaving a lasting positive impression on the band. "He was so friendly. I mean, he came to our first sound check to like check out our guitars and introduce himself and just be a kind dude." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← robert-plant ← robert-plant
 **Tour with The Trews** : Robert Plant embarked on a full North American tour with The Trews opening for him, spanning from Toronto to Victoria, including about a dozen dates in arenas. He was promoting his "Mighty ReArranger" album, often referred to as "strange sensation." "that was a whole tour. We did, we went from like Toronto to Victoria doing like the rinks." ← https://www.youtube.com/watch?v=3zbKOwkpkAM ← robert-plant ← robert-plant
 **Joining Lésepirín** : Robert Plan was discovered by Jimmy Page and John Paul Jones after they left The Jarpers and were seeking new members to form a band. His arrival completed the lineup that would become the legendary Lésepirín. "Empezarían a buscar a gente hasta que darían con Robert Plan y acabarían fondando el Ezepelín." ← Music Radar Clan > The Yardbirds, una banda clave para entender la historia de la música | https://www.youtube.com/watch?v=dCGrHEAqPC0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← robert-plan
+**Pop Metal Success (1988-1989)** : Robert Plant, a 40-something rocker, achieved high-charting hits during the pop metal explosion that characterized the years 1988 and 1989. "By 1988 and 89, the pop metal explosion generated some of the highest charting hits ever, for such 40-something rockers as [...] Robert Plant." ← Hit Parade Music History and Music Trivia > Hit Parade - The You Give Rock a Bad Name Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Live Aid Performance (1985)** : Phil Collins promised his friend Robert Plant he would play drums for the Led Zeppelin reunion at Live Aid. "Collins had promised his friend Robert Plant he would play." ← Hit Parade Music History and Music Trivia > The Invisible Miracle Sledgehammer Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Commander of the Order of the British Empire** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q12201477
@@ -29,7 +32,7 @@
 **Americana Award for Duo/Group of the Year (2008)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q96336843
 
 ## lists
-**"Carry Fire" (2017) — AOTY Must Hear 2010s** : #251, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Lullaby and... The Ceaseless Roar" (2014) — AOTY Must Hear 2010s** : #575, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Band of Joy" (2010) — AOTY Must Hear 2010s** : #902, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Fate of Nations" (1993) — Sputnikmusic Best Albums 1993** : #179, 3.88 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
+**"Carry Fire" (2017) — AOTY Must Hear 2010s** : #251, 81 AOTY.
+**"Lullaby and... The Ceaseless Roar" (2014) — AOTY Must Hear 2010s** : #575, 80 AOTY.
+**"Band of Joy" (2010) — AOTY Must Hear 2010s** : #902, 81 AOTY.
+**"Fate of Nations" (1993) — Sputnikmusic Best Albums 1993** : #179, 3.88 Sputnik.

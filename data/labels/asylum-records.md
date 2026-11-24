@@ -7,8 +7,9 @@
 **Home of The Eagles** : The Eagles were an Asylum Records band, noted as regulars at The Troubadour, and were the group that recorded a cover of Tom Waits' "Old 55." "Old 55, excuse me attracted the attention of another Asylum band and regulars at the Trubidor, a new group called The Eagles." ← For the Record - The 70s > Ep. 41 - The Impact of The Troubadour on 1970s Popular Culture | https://seventies.libsyn.com/ep-41-the-impact-of-the-troubadour-on-1970s-popular-culture
 **Key Artists on Roster** : Asylum Records quickly attracted a roster of prominent singer-songwriters and bands, establishing itself as a significant force in the early 1970s. Artists such as Joni Mitchell, Linda Ronstadt, J.D. Souther, and The Eagles were among those who joined the label. The founders, being fans of Bob Dylan's unique voice, were also open to signing and experimenting with artists like Tom Waits, whom they saw as a potential "Dylan." "They got Johnny Mitchell, Linda Ronstadt, JD Suther, the Eagles? They all became members of the roster." ← https://www.youtube.com/watch?v=7_ZmZxnSOnE ← asylum-records
 **Signing Tom Waits** : Tom Waits was signed to Asylum Records in 1973, and his first album, "Closing Time," was released on the label in March 1973. "He was signed to a recording contract with Asylum Records in 1973. His first album for Asylum came out in March of 1973." ← For the Record - The 70s > Ep. 41 - The Impact of The Troubadour on 1970s Popular Culture | https://seventies.libsyn.com/ep-41-the-impact-of-the-troubadour-on-1970s-popular-culture
+**David Geffen's New Label** : Asylum Records was a then-new label launched by famed music mogul David Geffen. It "courted Dillon assiduously" after his Columbia Records contract expired, successfully signing him and releasing his first chart-topping LP, "Planet Waves," in early 1974. "A silent records, a then-new label launched by famed music mogul David Geffen, courted Dillon assiduously." ← Hit Parade Music History and Music Trivia > The Freewheelin’ Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Eagles
 - Tom Waits
-
+- Bob Dylan

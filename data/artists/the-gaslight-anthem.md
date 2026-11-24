@@ -4,6 +4,7 @@
 - Brian Fallon
 
 ## genres
+- Nouveau Punk
 - Punk Rock
 
 ## concerts
@@ -25,9 +26,10 @@
 **Positive Messages in Lyrics** : Their work is noted for being "peppered" with plenty of positive messages, a characteristic identified as very "Springsteen-ish." "peppered their stuff with plenty of positive messages. Again, all very springsteenish." ← https://www.youtube.com/watch?v=2EerEOuP52I ← the-gaslight-anthem
 **Springsteen Endorsement at Glastonbury (2009)** : Bruce Springsteen personally recognized The Gaslight Anthem's work by joining them on stage during their performance at the Glastonbury Festival in 2009, an event considered a major endorsement. "In 2009, when the band was performing at Glastonbury, Springsteen joined them on stage. You cannot get a bigger endorsement than that." ← https://www.youtube.com/watch?v=2EerEOuP52I ← the-gaslight-anthem
 **Themes of Yearning and Dreams** : The band's music, infused with soulful punk rock, frequently explores themes of yearning and dreams for individuals navigating big city life or those in the heartland aspiring to reach urban centers, mirroring Springsteen's common lyrical narratives. "they're also singing about yearning and dreams from someone caught on the big city or someone who lives in the heartland in hopes to make it to the big city." ← https://www.youtube.com/watch?v=2EerEOuP52I ← the-gaslight-anthem
+**Influenced by Springsteen Sound** : The Gaslight Anthem, a nouveau punk band, is mentioned as having been influenced by Bruce Springsteen's sound. "Nouveau Punk Band, the Gaslight Anthem... the Springsteen sound has permeated bands across the radio dial." ← Hit Parade Music History and Music Trivia > Tramps Like Us, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
-**"History Books" (2023) — Kerrang! The 50 Best Albums of 2023** : #28. ← musicbrainz | https://beta.musicbrainz.org/series/f1f98ed3-f88a-4aac-bf6c-cf63b60c9e6e
-**"Sink or Swim" (2007) — Sputnikmusic Best Albums 2007** : #95, 4.05 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2007/
-**"The '59 Sound" (2008) — Sputnikmusic Best Albums 2008** : #23, 4.2 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2008/
-**"Señor and the Queen" (2008) — Sputnikmusic Best Albums 2008** : #178, 3.97 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2008/
+**"History Books" (2023) — Kerrang! The 50 Best Albums of 2023** : #28.
+**"Sink or Swim" (2007) — Sputnikmusic Best Albums 2007** : #95, 4.05 Sputnik.
+**"The '59 Sound" (2008) — Sputnikmusic Best Albums 2008** : #23, 4.2 Sputnik.
+**"Señor and the Queen" (2008) — Sputnikmusic Best Albums 2008** : #178, 3.97 Sputnik.

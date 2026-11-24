@@ -78,6 +78,8 @@
 **Two Pillars: Stylistic and Technological** : The birth of Techno is founded upon two types of pillars: stylistic and technological, with technological innovations being as crucial as musical influences. "tenemos que hablar de dos tipos de pilares. Tenemos que hablar los pilares estilísticos y los pilares tecnológicos." ← Music Radar Clan > De KRAFTWERK al TECHNO. Cómo se sentaron las bases del Techno | https://www.youtube.com/watch?v=MIG5FWLHOL4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Ubiquitous Unconscious Consumption** : People are constantly exposed to techno music in various contexts without realizing it, because its physical and psychological effects on the body are well-understood and intentionally utilized. "os ponen música techno todo el tiempo sin que os veis cuenta precisamente porque saben que hace efectos físicos sobre vuestro cuerpo." ← Music Radar Clan > De Madonna a las tiendas de ropa, el TECHNO está por todas partes | https://www.youtube.com/watch?v=qSlLE4EKtmo&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Widespread Musical Influence Post-1985** : Techno profoundly changed the understanding of music and its influences have spread across nearly all musical styles created after 1985. It led to a significant increase in the prominence of rhythmic bases across various genres. "ha tenido influencias en toda la música postura en 1985." ← Music Radar Clan > De Madonna a las tiendas de ropa, el TECHNO está por todas partes | https://www.youtube.com/watch?v=qSlLE4EKtmo&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Future of British Music (mid-90s)** : Techno was part of the "harder club rhythms" that British music was moving towards in the mid-90s, as signified by Underworld's "Born Slippy." "toward the harder club rhythms of techno drum and bass jungle and the catch all movement dubbed electronica." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Duffbunk's 80s Sound** : Duffbunk decided to record a full album, "Random Access Memories," with an "80s techno" sound, following years of developing their "robotic throwback future funk" style. "Draft Pump finally decided to record a full album with turn of the 80s techno." ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Aphex Twin
@@ -102,3 +104,6 @@
 - Underworld
 - David Bowie
 - Donna Summer
+- New Order
+- Nile Rodgers
+- Duffbunk

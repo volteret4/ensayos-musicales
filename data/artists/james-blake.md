@@ -56,7 +56,7 @@
 **Grammy Award for Best New Artist (2014)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643
 
 ## lists
-**"Overgrown" (2013) — AOTY Must Hear 2010s** : #701, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"James Blake" (2011) — AOTY Must Hear 2010s** : #874, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"James Blake" (2011) — Scaruffi 2010s** : #209, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Trying Times" (2026) — Sputnikmusic Best Albums 2026** : #44, 3.55 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2026/
+**"Overgrown" (2013) — AOTY Must Hear 2010s** : #701, 82 AOTY.
+**"James Blake" (2011) — AOTY Must Hear 2010s** : #874, 7.0/10 Scaruffi.
+**"James Blake" (2011) — Scaruffi 2010s** : #209, 7.0/10 Scaruffi.
+**"Trying Times" (2026) — Sputnikmusic Best Albums 2026** : #44, 3.55 Sputnik.

@@ -1,6 +1,11 @@
 # artist - Rob Zombie
 
+## member of
+- Puff Daddy
+- White Zombie
+
 ## genres
+- Hard Rock
 - Heavy music
 - Horror
 - Horror Metal
@@ -16,6 +21,9 @@
 **Production Assistant on Pee-wee's Playhouse (Mid-1980s)** : Before becoming known as a movie director and horror metal artist, Rob Zombie worked as a production assistant on the television show "Pee-wee's Playhouse" in the mid-1980s. Additionally, he was employed by a company responsible for producing commercials for Twizzlers. "movie director and horror metal guy Rob Zombie, was once a production assistant on Peewee's Playhouse." ← https://www.youtube.com/watch?v=-N6IM5Nm5iw ← rob-zombie
 **Tour Bus Movie Habits** : Rob Zombie mentions that while on tour, he tries to stock up on movies he hasn't seen. However, inevitably, one "ridiculous" movie, such as *Austin Powers* or *Dumb and Dumber*, becomes a communal favorite and is watched "a thousand times" by everyone on the bus, leading to repetitive quotes and inside jokes throughout the tour. "It'll be something like Austin Powers. There's always some movie that pops up that once it was dumb and dumber, that was the movie that everyone watched like a thousand times." ← https://www.youtube.com/watch?v=DgN0vBIugLc ← rob-zombie
 **`Cafe Flesh` Sample (1982)** : The distinct moaning in Rob Zombie and White Zombie's song "More Human Than Human" is sampled from the 1982 sci-fi movie `Cafe Flesh`, which depicts a post-nuclear world where most surviving humans become ill if they attempt sex, leading to live sex shows for their benefit. "The sample is taken from a 1982 sci-fi movie called Cafe Flesh. After the world is nearly annihilated in a nuclear war, they're surviving humans find that they get sick when they try to have sex. The moaning comes from someone participating in a live sex show conducted for the benefit of those humans who can't have sex anymore." ← https://www.youtube.com/watch?v=SIK2YFSmf9U ← rob-zombie
+**Career Sparked by Beavis and Butt-Head** : His career as a hard rocker was arguably sparked when the animated duo Beavis and Butt-Head endorsed his band White Zombie and their 1992 funk metal single "Thunder Kiss '65." "The animated duo arguably sparked the entire career of Hard Rocker Rob Zombie when they endorsed his band White Zombie and their 1992 Funk Metal single Thunder Kiss 65." ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Big Break with "Thunder Kiss '65"** : The belated success of White Zombie's "Thunder Kiss '65," which reached number 26 on the mainstream rock chart in late 1993, marked Rob Zombie's "big break." "It reached number 26 on the mainstream rock chart, giving Rob Zombie his big break." ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Featured on "It's All About the Benjamins" (1997) Rock Remix** : Rob Zombie was a rocker who participated in the extensive "uber posse cut" remix of Sean Combs's "It's All About the Benjamins," which was reconceived as a rock song. "But then Combs rebooted it as a rock song and uber posse cut that included all of those original rappers plus rockers Tommy Stinson, Fuzzbubble, Rob Zombie, and Androms, Foo Fighters Dave Groot." ← Hit Parade Music History and Music Trivia > We Invented the Remix Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Grammy Award for Best Metal Performance (1996)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q919095
@@ -25,4 +33,4 @@
 **Sitges Grand Honorary Award (2014)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q48781665
 
 ## lists
-**"The Great Satan" (2026) — Sputnikmusic Best Albums 2026** : #22, 3.75 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2026/
+**"The Great Satan" (2026) — Sputnikmusic Best Albums 2026** : #22, 3.75 Sputnik.

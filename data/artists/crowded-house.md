@@ -8,7 +8,9 @@
 - Sydney Opera House (1996)
 
 ## songs
-**Don't Dream It's Over** : A notable song by Crowded House, mentioned in the context of their reunion and continued existence. "Crowded house and don't dream it's over." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ ← crowded-house
+**Don't Dream It's Over (1987)** : A notable song by Crowded House, mentioned in the context of their reunion and continued existence. "Crowded house and don't dream it's over." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ ← crowded-house
+**Don't Dream It's Over (1987)** : This song scored a number 2 hit in 1987 for the band. Its success was immediately followed by another top 10 hit, securing the band's status beyond a one-hit wonder. "Crowded House, one of my favorite bands of the 1980s, scored a number 2 hit in 1987 with Don't Dream It's Over." ← Hit Parade Music History and Music Trivia > One and Done, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Something So Strong - Number 7 Hit** : Immediately following "Don't Dream It's Over," this song reached number 7 on the Hot 100. This second top 10 hit solidified Crowded House's multi-hitter status, even though they did not achieve another top 40 hit in America afterward. "And then immediately made it back to the top 10 with the number 7 hit, Something So Strong." ← Hit Parade Music History and Music Trivia > One and Done, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Farewell Concert for Charity (1996)** : Sensing their run was ending, Crowded House decided to split in grand style. On November 24, 1996, they performed a large farewell concert on the steps of the Sydney Opera House to raise money for the Sydney Children's Hospital, which was experiencing a cash crunch. "So on November 24th of 1996, Crowded house did their part by performing a giant farewell gig on the steps of the famous Sydney Opera House." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ ← crowded-house
@@ -27,5 +29,5 @@
 
 ## lists
 **"Woodface" (1991) — 1001 Albums You Must Hear Before You Die** : #686, 4.04 Sputnik.
-**"Woodface" (1991) — Sputnikmusic Best Albums 1991** : #76, 4.04 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"Together Alone" (1993) — Sputnikmusic Best Albums 1993** : #132, 3.95 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
+**"Woodface" (1991) — Sputnikmusic Best Albums 1991** : #76, 4.04 Sputnik.
+**"Together Alone" (1993) — Sputnikmusic Best Albums 1993** : #132, 3.95 Sputnik.

@@ -43,8 +43,8 @@
 
 ## lists
 **"Since I Left You" (2000) — 1001 Albums You Must Hear Before You Die** : #927, 85 AOTY.
-**"Since I Left You" (2000) — AOTY Must Hear 2000s** : #476, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Wildflower" (2016) — AOTY Must Hear 2010s** : #400, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"We Will Always Love You" (2020) — AOTY Must Hear 2020s** : #598, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Since I Left You" (2000) — Scaruffi 2000s** : #205, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Since I Left You" (2000) — Sputnikmusic Best Albums 2000** : #14, 85 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2000/
+**"Since I Left You" (2000) — AOTY Must Hear 2000s** : #476, 85 AOTY.
+**"Wildflower" (2016) — AOTY Must Hear 2010s** : #400, 81 AOTY.
+**"We Will Always Love You" (2020) — AOTY Must Hear 2020s** : #598, 81 AOTY.
+**"Since I Left You" (2000) — Scaruffi 2000s** : #205, 7.0/10 Scaruffi.
+**"Since I Left You" (2000) — Sputnikmusic Best Albums 2000** : #14, 85 AOTY.

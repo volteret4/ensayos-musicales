@@ -18,4 +18,4 @@
 **Stigmatization and Secrecy** : Due to their bassist's crimes, the remaining members of Les Rallizes Dénudés were stigmatized. They lived under constant suspicion and maintained a secretive existence throughout their careers. "The rest of Le Raleigh's denudes were stigmatized by their bass player's crimes." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← les-rallizes-dénudés
 
 ## lists
-**"'77 Live" (1991) — AOTY Must Hear 1990s** : #396, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
+**"'77 Live" (1991) — AOTY Must Hear 1990s** : #396, 85 AOTY.

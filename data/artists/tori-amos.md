@@ -5,11 +5,13 @@
 - Alternative
 - Classical
 - Dreampop
+- Ethereal Guitar-Heavy
 - Hair Metal
 - Highly emotional, very confessional, extremely powerful music
 - Pop
 - Rock
 - Singer-songwriter
+- Soulbearing Pianist-Songwriter
 
 ## labels
 - Atlantic Records
@@ -28,6 +30,7 @@
 ## songs
 **Crucify (1992)** : This song is featured on Tori Amos's 1992 debut solo album, "Little Earthquakes." Its release solidified her reputation as a highly respected female singer-songwriter, initially viewed as quirky but later revered by her audience. "Tori Amos and Crucified from her 1992 debut solo record Little Earthquakes." ← https://www.youtube.com/watch?v=rEawe_1Fqf0 ← tori-amos ← tori-amos
 **Crucify (1992)** : Featured on Tori Amos's 1992 debut solo record, *Little Earthquakes*. "Tori Amos and Crucify from her 1992 debut solo record Little Earthquakes." ← https://www.youtube.com/watch?v=clPuV7ezrIc ← tori-amos ← tori-amos
+**God (1994)** : Tori Amos, described as a "soul-bearing pianist and songwriter," topped the modern rock chart with this "ethereal guitar heavy" song. Its success demonstrated that diverse sounds, even those not typically associated with guitar rock, could achieve chart dominance during the height of alternative music. "Or Soulbearing pianist and songwriter Tori Amos, who topped the modern rock chart with the ethereal guitar heavy gop." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Professional Widow (1996)** : This 1996 track by Tori Amos, notably titled "Professional Widow," was "widely assumed to be inspired by Courtney Love." Amos has never explicitly confirmed this, but "she smiles cryptically when she's asked," adding to the intrigue. "In 1996, the Tory Amos track, Professional Widow, note that title, was widely assumed to be inspired by Courtney Love." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
 **Professional Widow (1996)** : The Armand Van Helden dance remix of "Professional Widow" became a "surprise transatlantic hit in 1997," reaching number two on the US club play chart and number one on the UK pop chart. This remix introduced the song to a wider dance audience and became one of Amos's biggest club hits. "The quirky widow became a surprise transatlantic hit in 1997, number two on the US club play chart and number one on the UK pop chart, in a dance remix by house producer Armand Van Hilton." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
 
@@ -66,26 +69,31 @@
 **Space Satellite Name** : An experimental space satellite weighing 12 kilograms was named "Tori" in her honor. This satellite was designed to explore complex issues of orbital mechanics, and Tori Amos was a significant source of inspiration for its designers. "Tori, which is what it's called, is a 12 kilogram experimental satellite designed to explore the complicated issues of orbital mechanics." ← https://www.youtube.com/watch?v=dMsEj62KFEw ← tori-amos
 **Spiritual Successor to Kate Bush** : Early alt-rock fans, familiar with Kate Bush's style, readily embraced Tori Amos as her "spiritual successor" due to her similarly highly emotional, confessional, and powerful musical output. "Back in some old school alt-rock fans remembered Kate Bush and embraced Tori as her spiritual successor." ← https://www.youtube.com/watch?v=IxJ0X9ytGgI ← tori-amos ← tori-amos
 **Ties to Comic Books** : Tori Amos has close ties to the world of comic books. Neil Gaiman is a close friend, and he was involved in a 2007 graphic novel that featured 51 different stories, all inspired by her songs. "Neil Gaiman is a close friend, and he was involved in a 2007 graphic novel featuring 51 different stories all inspired by Tori songs." ← https://www.youtube.com/watch?v=zZM9ajwYr9E ← tori-amos ← tori-amos
+**Predecessor to Alanis Morissette** : Tori Amos was included in the list of "sharp-tongued soul-bearing and impassioned young women rockers" whose cumulative impact contributed to the environment where Alanis Morissette's success could be seen as a culmination. "Alannus Morissette's blockbuster success was seen as the culmination of years of sharp-tunged soul-bearing and impassioned young women rockers from Shenato Conor to Ani DeFranco Liz Faire to Tori Amos." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Declined Lilith Fair Invitation** : Tori Amos declined an invitation to perform at Lilith Fair and even "badmouthed it in the press." She instead mounted her own double headlining tour with Alanis Morissette, indicating an alternative approach to all-female tours. "including Tori Amos, who mounted her own double headlining tour with Alanis Morissette, and carved quote, this tour isn't just about eating some chicken and hearing a few of your favorite female singers, unquote." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Bespoke Artist with Unique Voice** : Tori Amos is recognized as an artist who "broke through as a bespoke artist with a unique voice," a characteristic she shares with Lord, Kate Bush, and Fiona Apple, representing a specific type of singular female artistry. "Like Kate Bush, Torrey Amos, and Fiona Apple before her Lord broke through as a bespoke artist with a unique voice." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Musical Influence** : Tori Amos was mentioned as an artist influenced by Kate Bush, particularly in her artistic presentation and emotional depth. "From Tori Amos on down to Lord, even." ← Hit Parade Music History and Music Trivia > Music Trivia - Rock & Roll Hall of Fame Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on Modern Artists - Billie Eilish Comparison** : Tori Amos is cited as a significant artistic predecessor, with Billie Eilish being described as her "heir apparent," highlighting her unique and influential style. "I see her as the heir apparent to everybody from Kate Bush, Titori, Amos." ← Hit Parade Music History and Music Trivia > The Bridge - Farewell, Lilith Fan | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Echo Klassik – Classical Music without Borders (2012)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q113031066
 
 ## lists
 **"Little Earthquakes" (1991) — 1001 Albums You Must Hear Before You Die** : #726, 7.5/10 Scaruffi.
-**"To Venus and Back" (1999) — AOTY Must Hear 1990s** : #20, 65 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"From the Choirgirl Hotel" (1998) — AOTY Must Hear 1990s** : #80, 72 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Boys For Pele" (1996) — AOTY Must Hear 1990s** : #206, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Under The Pink" (1994) — AOTY Must Hear 1990s** : #314, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Little Earthquakes" (1991) — AOTY Must Hear 1990s** : #380, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Little Earthquakes" (1991) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #233, 7.5/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Little Earthquakes" (1991) — Scaruffi 1990s** : #345, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Under The Pink" (1994) — Scaruffi 1990s** : #346, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Boys For Pele" (1996) — Scaruffi 1990s** : #1267, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Little Earthquakes" (1991) — Pitchfork: The 150 Best Albums of the 1990s** : #124, 7.5/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Little Earthquakes" (1991) — Sputnikmusic Best Albums 1992** : #27, 7.5/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"Winter" (1992) — Sputnikmusic Best Albums 1992** : #53, 4.13 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"Crucify" (1992) — Sputnikmusic Best Albums 1992** : #137, 3.95 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"Cornflake Girl" (1994) — Sputnikmusic Best Albums 1994** : #79, 4.09 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
-**"Under The Pink" (1994) — Sputnikmusic Best Albums 1994** : #110, 7.5/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
-**"Boys For Pele" (1996) — Sputnikmusic Best Albums 1996** : #135, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
-**"From the Choirgirl Hotel" (1998) — Sputnikmusic Best Albums 1998** : #47, 72 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1998/
+**"To Venus and Back" (1999) — AOTY Must Hear 1990s** : #20, 65 AOTY.
+**"From the Choirgirl Hotel" (1998) — AOTY Must Hear 1990s** : #80, 72 AOTY.
+**"Boys For Pele" (1996) — AOTY Must Hear 1990s** : #206, 7.0/10 Scaruffi.
+**"Under The Pink" (1994) — AOTY Must Hear 1990s** : #314, 7.5/10 Scaruffi.
+**"Little Earthquakes" (1991) — AOTY Must Hear 1990s** : #380, 7.5/10 Scaruffi.
+**"Little Earthquakes" (1991) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #233, 7.5/10 Scaruffi.
+**"Little Earthquakes" (1991) — Scaruffi 1990s** : #345, 7.5/10 Scaruffi.
+**"Under The Pink" (1994) — Scaruffi 1990s** : #346, 7.5/10 Scaruffi.
+**"Boys For Pele" (1996) — Scaruffi 1990s** : #1267, 7.0/10 Scaruffi.
+**"Little Earthquakes" (1991) — Pitchfork: The 150 Best Albums of the 1990s** : #124, 7.5/10 Scaruffi.
+**"Little Earthquakes" (1991) — Sputnikmusic Best Albums 1992** : #27, 7.5/10 Scaruffi.
+**"Winter" (1992) — Sputnikmusic Best Albums 1992** : #53, 4.13 Sputnik.
+**"Crucify" (1992) — Sputnikmusic Best Albums 1992** : #137, 3.95 Sputnik.
+**"Cornflake Girl" (1994) — Sputnikmusic Best Albums 1994** : #79, 4.09 Sputnik.
+**"Under The Pink" (1994) — Sputnikmusic Best Albums 1994** : #110, 7.5/10 Scaruffi.
+**"Boys For Pele" (1996) — Sputnikmusic Best Albums 1996** : #135, 7.0/10 Scaruffi.
+**"From the Choirgirl Hotel" (1998) — Sputnikmusic Best Albums 1998** : #47, 72 AOTY.

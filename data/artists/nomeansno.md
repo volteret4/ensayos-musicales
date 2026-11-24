@@ -34,5 +34,5 @@
 **Victoria Band History** : NoMeansNo is identified as a "fine Canadian punk band" from Victoria, British Columbia, who have been active since the late 1970s. The band is known for insisting on doing things their own way, which sometimes leads them into trouble. "no means no, a fine Canadian punk band from Victoria who have been around since the late 1970s." ← https://www.youtube.com/watch?v=DgN0vBIugLc ← nomeansno
 
 ## lists
-**"Wrong" (1989) — AOTY Must Hear 1980s** : #2, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"0 + 2 = 1" (1991) — Sputnikmusic Best Albums 1991** : #121, 3.94 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
+**"Wrong" (1989) — AOTY Must Hear 1980s** : #2, 90 AOTY.
+**"0 + 2 = 1" (1991) — Sputnikmusic Best Albums 1991** : #121, 3.94 Sputnik.

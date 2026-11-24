@@ -8,4 +8,4 @@
 **Ex-Sisters of Mercy Members** : The Mission featured ex-Sisters of Mercy member Wayne Hussey, and they produced "some great records." Their work was also produced by Led Zeppelin's bassist, John Paul Jones. "There was the mission featuring Existers of Mercy, Dude Wayne Hussie, and they went on to make some great records" ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← the-mission
 
 ## lists
-**"Carved In Sand" (1990) — Sputnikmusic Best Albums 1990** : #160, 3.84 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
+**"Carved In Sand" (1990) — Sputnikmusic Best Albums 1990** : #160, 3.84 Sputnik.

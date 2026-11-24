@@ -49,9 +49,9 @@
 
 ## lists
 **"The White Room" (1991) — 1001 Albums You Must Hear Before You Die** : #702, 3.96 Sputnik.
-**"Chill Out" (1990) — AOTY Must Hear 1990s** : #430, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Chill Out" (1990) — Scaruffi 1990s** : #836, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Chill Out" (1990) — Pitchfork: The 150 Best Albums of the 1990s** : #76, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Chill Out" (1990) — Pitchfork: The 50 Best Ambient Albums of All Time** : #5, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/60daa934-58b5-44a7-937f-751ee3d2431a
-**"Chill Out" (1990) — Sputnikmusic Best Albums 1990** : #55, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"The White Room" (1991) — Sputnikmusic Best Albums 1991** : #106, 3.96 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
+**"Chill Out" (1990) — AOTY Must Hear 1990s** : #430, 7.0/10 Scaruffi.
+**"Chill Out" (1990) — Scaruffi 1990s** : #836, 7.0/10 Scaruffi.
+**"Chill Out" (1990) — Pitchfork: The 150 Best Albums of the 1990s** : #76, 7.0/10 Scaruffi.
+**"Chill Out" (1990) — Pitchfork: The 50 Best Ambient Albums of All Time** : #5, 7.0/10 Scaruffi.
+**"Chill Out" (1990) — Sputnikmusic Best Albums 1990** : #55, 7.0/10 Scaruffi.
+**"The White Room" (1991) — Sputnikmusic Best Albums 1991** : #106, 3.96 Sputnik.

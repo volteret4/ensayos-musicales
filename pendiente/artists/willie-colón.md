@@ -20,6 +20,6 @@
 
 ## lists
 **"Siembra" (1978) — 1001 Albums You Must Hear Before You Die** : #414, 100 AOTY.
-**"Siembra" (1978) — AOTY Must Hear 1970s** : #29, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Lo Mato" (1973) — AOTY Must Hear 1970s** : #147, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Vigilante" (1983) — AOTY Must Hear 1980s** : #120, 60 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
+**"Siembra" (1978) — AOTY Must Hear 1970s** : #29, 100 AOTY.
+**"Lo Mato" (1973) — AOTY Must Hear 1970s** : #147, 80 AOTY.
+**"Vigilante" (1983) — AOTY Must Hear 1980s** : #120, 60 AOTY.

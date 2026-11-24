@@ -7,3 +7,5 @@
 - Manfred Mann
 - Ramones
 - The Archies
+- Justin Bieber
+- Tommy Roe

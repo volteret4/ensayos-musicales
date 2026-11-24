@@ -17,3 +17,4 @@
 - Swans
 - The Strokes
 - Trent Reznor
+- Suzanne Vega

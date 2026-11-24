@@ -46,7 +46,7 @@
 **Teen Spirit Deodorant Connection** : Kathleen Hannah, a member of the all-girl punk band Bikini Kill, was the person who coined the phrase "Kurt smells like teen spirit," referring to the fruity-smelling deodorant brand. This deodorant was also the "deodorant of choice of Toby Vale," another member of Bikini Kill and Kurt Cobain's girlfriend. "Now, you may or may not know this, but teen spirit is a fruity smelling brand of deodorant that girls wear." ← https://www.youtube.com/watch?v=k9ok8M31-38 ← bikini-kill ← bikini-kill
 
 ## lists
-**"Revolution Girl Style Now" (1991) — Scaruffi 1990s** : #1361, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Pussy Whipped" (1993) — Scaruffi 1990s** : #1362, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The C.D. Version of the First Two Records" (1992) — Pitchfork: The 150 Best Albums of the 1990s** : #80. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Bikini Kill" (1992) — Sputnikmusic Best Albums 1992** : #154, 3.93 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"Revolution Girl Style Now" (1991) — Scaruffi 1990s** : #1361, 7.0/10 Scaruffi.
+**"Pussy Whipped" (1993) — Scaruffi 1990s** : #1362, 7.0/10 Scaruffi.
+**"The C.D. Version of the First Two Records" (1992) — Pitchfork: The 150 Best Albums of the 1990s** : #80.
+**"Bikini Kill" (1992) — Sputnikmusic Best Albums 1992** : #154, 3.93 Sputnik.

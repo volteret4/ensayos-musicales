@@ -3,6 +3,7 @@
 ## member of
 - Beastie Boys
 - Luscious Jackson
+- Lush
 
 ## genres
 - Punk rock

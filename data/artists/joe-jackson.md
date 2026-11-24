@@ -1,5 +1,8 @@
 # artist - Joe Jackson
 
+## member of
+- The Jacksons
+
 ## members
 - Dave Houghton
 - Gary Sanford
@@ -83,6 +86,7 @@
 **Concert Tour Reinterpretations** : On his concert tours, Joe Jackson famously refused to play old material as it was originally arranged on record. This approach both confounded and delighted his audiences, showcasing his artistic freedom and commitment to evolving interpretations of his work. "On his concert tours, when Jackson played old material, he refused to play the songs as they were originally arranged on record, alternately confounding and delighting his audiences." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
 **Influence on Ben Folds** : Alt Rock Piano Man Ben Folds has cited Joe Jackson as a primary influence on his hits with the band Ben Folds Five. This highlights Jackson's enduring impact on subsequent generations of musicians, especially pianists. "Alt Rock Piano Man Ben Folds has claimed Joe Jackson was a primary influence on his hits with the Ben Folds V." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
 **Graham Maby's Longevity with Jackson** : Joe Jackson's bassist, Graham Maby, has remained a member of his band for more than 40 years, demonstrating a remarkable and long-standing musical partnership. "Bassist Graham maybe, by the way, is still in Jackson's band after more than 40 years." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
+**Experimentation with Drum Machines (Early 1980s)** : Joe Jackson was one of the pop artists experimenting with primitive drum machines from companies like Roland, Korg, and Linn in 1981 and 1982, contributing to classic pop tracks during this period of technological exploration in music. "In 1981 and 82 alone, classic pop tracks would emerge from inquisitive rock stars fumbling around with gizmos by companies like Roland, Korg and Lin, artists like Phil Collins. Joe Jackson And of course, Prince." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Grammy Award for Best Male Rock Vocal Performance (1980) — Is She Really Going Out with Him?** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q953746
@@ -98,6 +102,6 @@
 **"Breaking Us in Two" — Billboard Year-End Hot 100** : #99, 1983. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Look Sharp" (1979) — Scaruffi 1970s** : #355, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Heaven And Hell" (1997) — Scaruffi 1990s** : #809, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Night and Day" (1982) — Pitchfork: The 200 Best Albums of the 1980s** : #178. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"Look Sharp" (1979) — Scaruffi 1970s** : #355, 7.0/10 Scaruffi.
+**"Heaven And Hell" (1997) — Scaruffi 1990s** : #809, 7.0/10 Scaruffi.
+**"Night and Day" (1982) — Pitchfork: The 200 Best Albums of the 1980s** : #178.

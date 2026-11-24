@@ -1,0 +1,5 @@
+# concert - The Great Shrine Auditorium Concert
+
+## curiosities
+**Landmark Gospel Event (July 1955)** : Held in Los Angeles in July 1955, this concert is still considered over 65 years later to be a landmark show in gospel history. Thousands gathered to see stars like James Cleveland and The Caravans, The Pilgrim Travelers (soon to feature Lou Rawls), and The Soul Stirrers, for whom 24-year-old Sam Cook was the main attraction. "Thousands gathered in LA in July of 55 to see such stars as the caravans James Cleveland, a budding legend in gospel choir arranging." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Pivotal for Sam Cook** : The concert proved "rather pivotal for Sam" Cook as it was where producer Robert "Bumps" Blackwell first observed his undeniable star quality, leading Blackwell to pursue Cook for a pop career. "The Great Shrine Concert turned out to be rather pivotal for Sam." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/

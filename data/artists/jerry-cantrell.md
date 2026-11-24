@@ -20,4 +20,4 @@
 **The Cable Guy Soundtrack Contribution (1996)** : Jerry Cantrell of Alice in Chains contributed to *The Cable Guy* soundtrack in 1996, an album associated with the "creepy Jim Carrey vehicle" film. The soundtrack also featured other artists like Silverchair, Porno for Pyros, and Cracker. "Silver Chair Jerry Cantrell of Allyson Chains, Porno for Pyrrho's Cracker, and primitive radio gods ended up with a hit with standing outside a broken phone booth with money in my hand." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← jerry-cantrell
 
 ## lists
-**"I Want Blood" (2024) — Sputnikmusic Best Albums 2024** : #129, 3.79 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2024/
+**"I Want Blood" (2024) — Sputnikmusic Best Albums 2024** : #129, 3.79 Sputnik.

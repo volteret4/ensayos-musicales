@@ -52,6 +52,13 @@
 **Subtle Presence in *To Pimp a Butterfly*** : *To Pimp a Butterfly* is mentioned as incorporating elements of Reggae (referred to as "Righi"). This inclusion contributes to the album's reputation for its diverse stylistic blend, showcasing a concentration of 50 years of musical genius within its runtime. "Es Righi." ← Music Radar Clan > Kendrick Lamar：  To pimp a butterfly | https://www.youtube.com/watch?v=ENmSJbhbGeo&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← reggae ← reggae
 **White Fan Base Factors** : Reggae's primary American fan base in the 1970s was predominantly white, a phenomenon attributed partly to American black audiences' preference for "elaborately costumed funk and disco" (and their desire to avoid the "stigma of primitivism" linked to African roots), alongside reggae's non-threatening, laid-back rhythms and its association with marijuana use and "mellowing out." "Perhaps at least part of the answer to this can be found in an article from Music writer Roger Stephens... American blacks, Marley's most coveted audience, remained impervious to him and his message throughout the 70s." ← For the Record - The 70s > Ep. 29 - Every Little Thing is Gonna Be All Right - The Influence of 70s Reggae | https://seventies.libsyn.com/ep-29-every-little-thing-is-gonna-be-all-right-the-influence-of-70s-reggae
 **Reggae Influence on New Wave** : The Police's sophomore LP, "Regatta de Blanc," carried the faux French title "White Reggae," a self-conscious nod to white artists' engagement with black music. The album exemplified the band's approach of integrating reggae rhythms into their New Wave rock sound. "Their sophomore LP, which arrived in October 79, was titled Regatta de Blanc, another faux French title that roughly translated to White Reggae. Rather like the Beatles' Rubber Soul LP, the title was a self-conscious riff on White People attempting black music." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
+**Grace Jones' Interpretation of "Breakdown" (1980)** : Grace Jones transformed Tom Petty's song "Breakdown" into a reggae tune on her 1980 album "Warm Leatherette." "Grace Jones, the iconic classic New Wave Club Queen, who, on her 1980 album Warm Leatherette, turned Petty's song into a reggae tune." ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Covers Tradition (All Time)** : The Reggae genre, in all its permutations, is famous for covers, with the entire genre built on Jamaican sound systems sharing and reimagining beats and songs. Jamaican artists often reconfigure the very structure of Anglo-pop songs from the ground up when covering them. "Reggae in all its permutations is famous for covers. Indeed, the whole genre is built on Jamaican sound systems, sharing and reimagining beats and songs." ← Hit Parade Music History and Music Trivia > Hit Parade - Red, Red Wine Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**US vs. UK Reception (1960s-1980s)** : Americans have a spotty history with Reggae, often treating it as a "trendlet or a fad," with small flurries of Reggae and Dancehall tracks hitting the charts in waves before receding. In contrast, in England, Reggae has been a regular part of the pop stew since the 1960s, with Jamaica-derived beats routinely charting. "Americans have a spotty history with Reggae. In England, Reggae has been a regular part of the pop stew since the 60s." ← Hit Parade Music History and Music Trivia > Hit Parade - Red, Red Wine Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Early 1970s US Boom (Early 1970s)** : The early 1970s saw a small boom of light Reggae singles topping the US Hot 100, exemplified by Johnny Nash's "I Can See Clearly Now" and Eric Clapton's cover of Bob Marley's "I Shot The Sheriff." However, reggae more or less receded on the US pop charts during the late 70s disco years. "In the early 70s, for example, we saw a small boom of light Reggae singles topping our hot 100, like Johnny Nash's classic, I Can See Clearly Now." ← Hit Parade Music History and Music Trivia > Hit Parade - Red, Red Wine Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Early 1980s US Boom (Early 1980s)** : The early 1980s experienced another small boom time for the Jamaican sound on the US charts, with various forms adapted by British new romantic acts like Culture Club, turned into reggae funk hybrids by artists like Eddy Grant, or delivered as straight-up traditional reggae by groups like Musical Youth. "The early 80s was another small boom time for the Jamaican sound on the US charts." ← Hit Parade Music History and Music Trivia > Hit Parade - Red, Red Wine Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Breakthrough via The Harder They Come (1972)** : The Reggae genre received a major breakthrough in global and American markets through the 1972 film *The Harder They Come* and its soundtrack. Despite its delayed chart impact, peaking at number 140 in 1975, the soundtrack is widely credited with helping to establish Reggae, even benefiting artists not on the album, such as Bob Marley, whose subsequent album *Rastaman Vibration* became his first top ten hit. "The Harder They Come is widely credited for helping to break Reggae as a genre." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Miami Remix Influence** : Record producer Carlos De Arza would incorporate reggae elements into pop songs for Power 96 FM, sometimes by having "Jamaican rappers" add "a few bars" to tracks like Ace of Base records, creating an "edgier, more urban, more Miami sound." "I would call my friends that would Jamaican rappers and say, hey, I have a new Ace of Base record, but it sounds like reggae." ← Hit Parade Music History and Music Trivia > One Year - Hey Macarena! | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Bad Brains
@@ -90,3 +97,19 @@
 - Bruno Mars
 - Sting
 - Shaggy
+- Billy Joel
+- Culture Club
+- Patti Smith
+- Roberta Flack
+- Donna Summer
+- Eric Clapton
+- Rihanna
+- Tony Tribe
+- Maroon 5
+- The Maytals
+- The Melodians
+- Desmond Dekker
+- Maxi Priest
+- Ace of Base
+- Sean Paul
+- Wayne Wonder

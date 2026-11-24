@@ -5,9 +5,12 @@
 
 ## genres
 - New Romantic
+- New Romantic Pop
 
 ## songs
 **Goody Two Shoes (1983)** : Adam Ant, who had been a UK teen idol and an avatar of the New Romantic movement since 1980, finally broke into the US top 40 with this "rollicking number 12 hit." "Adam Ant, who'd been a UK teen idol, and an avatar of the New Romantic movement as far back as 1980, finally cracked the US top 40 with Theroloking number 12 hit, Goodie Tushy." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
+**Puss in Boots (1983)** : One of two hits in 1983 for which flamboyant new romantic pop star Adam Ant brought in Phil Collins to produce drums, further demonstrating Collins's impact as a producer on other artists' chart success. "In a completely different vein, flamboyant new romantic pop star Adam Ant brought in Collins to produce Androm on two of his 1983 hits, Strip and Push in Boots." ← Hit Parade Music History and Music Trivia > The Invisible Miracle Sledgehammer Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Strip (1983)** : One of two hits in 1983 for which flamboyant new romantic pop star Adam Ant brought in Phil Collins to produce drums, showcasing Collins's influence on contemporary pop sounds beyond his own material. "In a completely different vein, flamboyant new romantic pop star Adam Ant brought in Collins to produce Androm on two of his 1983 hits, Strip and Push in Boots." ← Hit Parade Music History and Music Trivia > The Invisible Miracle Sledgehammer Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Bipolar Disorder** : Adam Ant is listed among musicians identified as bipolar. "Lou Reed, Axel Rose, Shenandoah Conner, Scott Wyland, rapper Chris Brown, Matthew Good, Adam Ant, Brittany Spears, Jack Irons, former drummer with the Chili Peppers, Scott Stap of Creed, Pete Wentz of Fallout Boy, Frank Sinatra." ← https://www.youtube.com/watch?v=NQgn0_mUh74 ← adam-ant ← adam-ant

@@ -48,13 +48,13 @@
 **Winona's Big Brown Ale Beer** : A beer called `Winona's Big Brown Ale` is brewed by Voodoo, possibly a reference to the band's song "Winona's Big Brown Beaver." "Today, though, there's a beer called Winona's Big Brown Ale, from a brewery called Voodoo." ← https://www.youtube.com/watch?v=I9_3EbwKPnU ← primus ← primus
 
 ## lists
-**"Pork Soda" (1993) — AOTY Must Hear 1990s** : #347, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Sailing The Seas Of Cheese" (1991) — AOTY Must Hear 1990s** : #399, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Frizzle Fry" (1990) — AOTY Must Hear 1990s** : #429, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Frizzle Fry" (1990) — Scaruffi 1990s** : #114, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Tales From The Punchbowl" (1995) — Scaruffi 1990s** : #1054, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Sailing The Seas Of Cheese" (1991) — Scaruffi 1990s** : #1055, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Pork Soda" (1993) — Scaruffi 1990s** : #1056, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Frizzle Fry" (1990) — Sputnikmusic Best Albums 1990** : #12, 8.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"Sailing The Seas Of Cheese" (1991) — Sputnikmusic Best Albums 1991** : #46, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"Pork Soda" (1993) — Sputnikmusic Best Albums 1993** : #171, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
+**"Pork Soda" (1993) — AOTY Must Hear 1990s** : #347, 7.0/10 Scaruffi.
+**"Sailing The Seas Of Cheese" (1991) — AOTY Must Hear 1990s** : #399, 7.0/10 Scaruffi.
+**"Frizzle Fry" (1990) — AOTY Must Hear 1990s** : #429, 8.0/10 Scaruffi.
+**"Frizzle Fry" (1990) — Scaruffi 1990s** : #114, 8.0/10 Scaruffi.
+**"Tales From The Punchbowl" (1995) — Scaruffi 1990s** : #1054, 7.0/10 Scaruffi.
+**"Sailing The Seas Of Cheese" (1991) — Scaruffi 1990s** : #1055, 7.0/10 Scaruffi.
+**"Pork Soda" (1993) — Scaruffi 1990s** : #1056, 7.0/10 Scaruffi.
+**"Frizzle Fry" (1990) — Sputnikmusic Best Albums 1990** : #12, 8.0/10 Scaruffi.
+**"Sailing The Seas Of Cheese" (1991) — Sputnikmusic Best Albums 1991** : #46, 7.0/10 Scaruffi.
+**"Pork Soda" (1993) — Sputnikmusic Best Albums 1993** : #171, 7.0/10 Scaruffi.

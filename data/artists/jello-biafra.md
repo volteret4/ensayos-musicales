@@ -11,4 +11,4 @@
 **Roadie for The Ravers, Co-founded Dead Kennedys** : Jello Biafra worked as a roadie for a band called The Ravers. Following this experience, he and East Bay Ray collaborated to form the iconic punk band Dead Kennedys. "Jello Biapro roadied for a band called the Ravers before he and East Bay Rae formed the dead Kennedys." ← https://www.youtube.com/watch?v=ZVGnSVfed9s ← jello-biafra ← jello-biafra
 
 ## lists
-**"Tumor Circus" (1991) — Scaruffi 1990s** : #796, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Tumor Circus" (1991) — Scaruffi 1990s** : #796, 7.0/10 Scaruffi.

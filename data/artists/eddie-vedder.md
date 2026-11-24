@@ -40,4 +40,4 @@
 **Feminist Allyship** : Eddie Vedder was noted for his "vocal feminist allyship" during the Grunge era, a factor that contributed to it being a more inclusive and "woman-friendly" period within alternative rock. "the vocal feminist allyship of Grunge stars like Kurt Cobain and Eddie Vetter." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 
 ## lists
-**"Into the Wild" (2007) — Sputnikmusic Best Albums 2007** : #164. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2007/
+**"Into the Wild" (2007) — Sputnikmusic Best Albums 2007** : #164.

@@ -28,4 +28,4 @@
 
 ## lists
 **"Live and Dangerous" (1978) — 1001 Albums You Must Hear Before You Die** : #410.
-**"Jailbreak" (1976) — AOTY Must Hear 1970s** : #84, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
+**"Jailbreak" (1976) — AOTY Must Hear 1970s** : #84, 90 AOTY.

@@ -104,31 +104,31 @@
 **Worst Career Mistake - "Love Will Tear Us Apart" Cover** : Michael Gira explicitly stated that Swans' 1988 cover of Joy Division's "Love Will Tear Us Apart" was the "worst mistake of his entire career." While it brought the band immense popularity, particularly in the US, and became their best-selling single for a time, it attracted an audience that did not align with Swans' core artistic philosophy. This commercial success ultimately led the band to sign with a major label, a decision that resulted in the critically panned album *The Burning World* and initiated a period of creative struggle and audience alienation. "el propio Michael J. Laro definió como el peor error de toda su carrera." ← Music Radar Clan > SWANS. Una visión del rock diferente | https://www.youtube.com/watch?v=sJ3HuN7woDc&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← swans
 
 ## lists
-**"Children Of God" (1987) — AOTY Must Hear 1980s** : #44, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Swans Are Dead" (1998) — AOTY Must Hear 1990s** : #93, 79 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Soundtracks For The Blind" (1996) — AOTY Must Hear 1990s** : #156, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Die Tür ist zu" (1996) — AOTY Must Hear 1990s** : #182, 57 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"The Great Annihilator" (1995) — AOTY Must Hear 1990s** : #252, 74 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"White Light From The Mouth Of Infinity" (1991) — AOTY Must Hear 1990s** : #401, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Deliquescence" (2017) — AOTY Must Hear 2010s** : #304, 91 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"The Glowing Man" (2016) — AOTY Must Hear 2010s** : #404, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"To Be Kind" (2014) — AOTY Must Hear 2010s** : #598, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"The Seer" (2012) — AOTY Must Hear 2010s** : #743, 86 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"My Father Will Guide Me Up a Rope to the Sky" (2010) — AOTY Must Hear 2010s** : #900, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Birthing" (2025) — AOTY Must Hear 2020s** : #88, 84 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Live Rope" (2024) — AOTY Must Hear 2020s** : #153, 91 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"The Beggar" (2023) — AOTY Must Hear 2020s** : #312, 77 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Children Of God" (1987) — Scaruffi 1980s** : #103, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Cop" (1984) — Scaruffi 1980s** : #104, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Filth" (1983) — Scaruffi 1980s** : #105, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Holy Money" (1986) — Scaruffi 1980s** : #204, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Greed" (1986) — Scaruffi 1980s** : #742, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Soundtracks For The Blind" (1996) — Scaruffi 1990s** : #140, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"White Light From The Mouth Of Infinity" (1991) — Scaruffi 1990s** : #336, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"White Light From The Mouth Of Infinity" (1991) — Sputnikmusic Best Albums 1991** : #31, 7.5/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"Soundtracks For The Blind" (1996) — Sputnikmusic Best Albums 1996** : #4, 8.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
-**"Die Tür ist zu" (1996) — Sputnikmusic Best Albums 1996** : #182, 57 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
-**"The Seer" (2012) — Sputnikmusic Best Albums 2012** : #13, 86 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2012/
-**"To Be Kind" (2014) — Sputnikmusic Best Albums 2014** : #6, 88 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2014/
-**"The Glowing Man" (2016) — Sputnikmusic Best Albums 2016** : #73, 80 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2016/
-**"Birthing" (2025) — Sputnikmusic Best Albums 2025** : #85, 84 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2025/
+**"Children Of God" (1987) — AOTY Must Hear 1980s** : #44, 8.0/10 Scaruffi.
+**"Swans Are Dead" (1998) — AOTY Must Hear 1990s** : #93, 79 AOTY.
+**"Soundtracks For The Blind" (1996) — AOTY Must Hear 1990s** : #156, 8.0/10 Scaruffi.
+**"Die Tür ist zu" (1996) — AOTY Must Hear 1990s** : #182, 57 AOTY.
+**"The Great Annihilator" (1995) — AOTY Must Hear 1990s** : #252, 74 AOTY.
+**"White Light From The Mouth Of Infinity" (1991) — AOTY Must Hear 1990s** : #401, 7.5/10 Scaruffi.
+**"Deliquescence" (2017) — AOTY Must Hear 2010s** : #304, 91 AOTY.
+**"The Glowing Man" (2016) — AOTY Must Hear 2010s** : #404, 80 AOTY.
+**"To Be Kind" (2014) — AOTY Must Hear 2010s** : #598, 88 AOTY.
+**"The Seer" (2012) — AOTY Must Hear 2010s** : #743, 86 AOTY.
+**"My Father Will Guide Me Up a Rope to the Sky" (2010) — AOTY Must Hear 2010s** : #900, 81 AOTY.
+**"Birthing" (2025) — AOTY Must Hear 2020s** : #88, 84 AOTY.
+**"Live Rope" (2024) — AOTY Must Hear 2020s** : #153, 91 AOTY.
+**"The Beggar" (2023) — AOTY Must Hear 2020s** : #312, 77 AOTY.
+**"Children Of God" (1987) — Scaruffi 1980s** : #103, 8.0/10 Scaruffi.
+**"Cop" (1984) — Scaruffi 1980s** : #104, 8.0/10 Scaruffi.
+**"Filth" (1983) — Scaruffi 1980s** : #105, 8.0/10 Scaruffi.
+**"Holy Money" (1986) — Scaruffi 1980s** : #204, 7.5/10 Scaruffi.
+**"Greed" (1986) — Scaruffi 1980s** : #742, 7.0/10 Scaruffi.
+**"Soundtracks For The Blind" (1996) — Scaruffi 1990s** : #140, 8.0/10 Scaruffi.
+**"White Light From The Mouth Of Infinity" (1991) — Scaruffi 1990s** : #336, 7.5/10 Scaruffi.
+**"White Light From The Mouth Of Infinity" (1991) — Sputnikmusic Best Albums 1991** : #31, 7.5/10 Scaruffi.
+**"Soundtracks For The Blind" (1996) — Sputnikmusic Best Albums 1996** : #4, 8.0/10 Scaruffi.
+**"Die Tür ist zu" (1996) — Sputnikmusic Best Albums 1996** : #182, 57 AOTY.
+**"The Seer" (2012) — Sputnikmusic Best Albums 2012** : #13, 86 AOTY.
+**"To Be Kind" (2014) — Sputnikmusic Best Albums 2014** : #6, 88 AOTY.
+**"The Glowing Man" (2016) — Sputnikmusic Best Albums 2016** : #73, 80 AOTY.
+**"Birthing" (2025) — Sputnikmusic Best Albums 2025** : #85, 84 AOTY.

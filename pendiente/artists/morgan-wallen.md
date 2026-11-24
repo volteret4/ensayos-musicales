@@ -2,6 +2,7 @@
 
 ## genres
 - Country
+- Country Pop
 
 ## instruments
 - Synthesizers
@@ -11,6 +12,7 @@
 **One Thing at a Time (2023)** : This 2023 album set a new all-time record when all 36 of its tracks simultaneously made the Hot 100, confirming Country Megastar Morgan Wallen's imperial moment. "Morgan Wallen, who set a new all-time record when all 36 tracks from his 2023 album One Thing at a Time made the Hot 100 all at once." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f03154465cd600c5379
 
 ## songs
+**I Had Some Help (2024)** : This country pop collaboration with Post Malone was, as of mid-July 2024, atop the Hot 100 for six weeks and poised to win Billboard's Song of Summer title. Wallen also had the number one song the previous summer (2023), positioning him to be the first artist since Andy Gibb in the late 1970s to achieve back-to-back Songs of the Summer. "He also had the number one song last summer." ← Hit Parade Music History and Music Trivia > Song(s) of the Summer Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Last Night (2023)** : This song was the 2023 Billboard Song of the Summer. It is a "lament" by the "country megastar" that achieved 16 weeks at number one on the Hot 100, primarily "fueled by his militant fanbase." Wallen is also mentioned as having hits in 2024. "And in 2023, country megastar Morgan Wallen dominated with his lament last night, whose 16 weeks at number one on the hot 100 were mostly fueled by his militant fanbase." ← Hit Parade Music History and Music Trivia > Song(s) of the Summer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef50c30a1408dc292e4
 **Wasted On You** : Lyrics from this song were briefly quoted when mentioning Morgan Wallen as a 2023 chart dominator at the Billboard Music Awards. "I know that life's not, we let the liquor toe. I can't remember everything we said but we said it all." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
 
@@ -18,6 +20,7 @@
 **Billboard Music Awards Dominator (2023)** : Morgan Wallen was recognized as one of the "2023 chart dominators" at the Billboard Music Awards, receiving a pile of statuettes. "the BBMAs dropped a pile of statuettes on 2023 chart dominators, Taylor Swift and Morgan Wallet." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
 **Modern Country Definition** : Morgan Wallen represents how modern country music continues to grapple with its definition, using synthesizers and trap beats, yet remaining categorized as country primarily due to his subject matter and accent. "Morgan Wallen use synthesizers, trap beats, and other sonic signifiers miles removed from traditional country." ← Hit Parade Music History and Music Trivia > Country Roads and Summer Nights Edition Part 1 | https://shows.acast.com/hit-parade/episodes/698fd3ebd6c27a06bb92e1f2
 **All-Time Record for Simultaneous Charting Tracks** : Country Megastar Morgan Wallen set a new all-time record in 2023 when all 36 tracks from his album "One Thing at a Time" made the Hot 100 simultaneously, a definitive indicator of an imperial phase in the digital era. "Morgan Wallen, who set a new all-time record when all 36 tracks from his 2023 album One Thing at a Time made the Hot 100 all at once." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f03154465cd600c5379
+**Use of Trap Beats in Country** : Morgan Wallen is cited as one of several country artists who use trap beats in their music, contributing to the normalization of this production style within the country genre. "Morgan Wall and uses trap beats Luke com's uses trap beats you know Luke Bryan uses trap beats." ← Hit Parade Music History and Music Trivia > The Bridge - Can’t Tell Me Nothin’ | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Whiskey Glasses" — Billboard Year-End Hot 100** : #52, 2019. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

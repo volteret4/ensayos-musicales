@@ -11,4 +11,4 @@
 **Academy Award for Best Original Score (2014) — Her** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q488651
 
 ## lists
-**"He Poos Clouds" (2006) — Scaruffi 2000s** : #373, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"He Poos Clouds" (2006) — Scaruffi 2000s** : #373, 7.0/10 Scaruffi.

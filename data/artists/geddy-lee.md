@@ -1,6 +1,7 @@
 # artist - Geddy Lee
 
 ## member of
+- Northern Lights
 - Rush
 
 ## instruments

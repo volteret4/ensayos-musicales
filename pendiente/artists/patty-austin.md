@@ -1,0 +1,4 @@
+# artist - Patty Austin
+
+## songs
+**Baby, Come to Me (1983)** : This 1981 duet by Patty Austin and James Ingram was initially a failed single. However, "General Hospital" music supervisor Jill Phelps selected it for a Luke-related plot on the show after Laura's character was written out. "General Hospital" single-handedly brought "Baby, Come to Me" back to the Hot 100 more than a year after its initial peak, eventually reaching number one in February 1983. "This time Phelps chose a failed 1981 single by Patty Austin, a duet she did with James Ingram called Baby Come To Me. General Hospital single handedly brought that song back to the hot 100 more than a year after it peaked and it eventually reached number one in February 1983." ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/

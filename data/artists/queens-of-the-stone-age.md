@@ -131,12 +131,12 @@
 
 ## lists
 **"Queens of the Stone Age" (1998) — 1001 Albums You Must Hear Before You Die** : #873.
-**"Songs for the Deaf" (2002) — AOTY Must Hear 2000s** : #393, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Rated R" (2000) — AOTY Must Hear 2000s** : #501, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"...Like Clockwork" (2013) — AOTY Must Hear 2010s** : #686, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Alive In The Catacombs" (2025) — AOTY Must Hear 2020s** : #82, 87 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Queens of the Stone Age" (1998) — Scaruffi 1990s** : #1063. ← Scaruffi | https://scaruffi.com/music/best.html
-**"In Times New Roman…" (2023) — Kerrang! The 50 Best Albums of 2023** : #40. ← musicbrainz | https://beta.musicbrainz.org/series/f1f98ed3-f88a-4aac-bf6c-cf63b60c9e6e
-**"Rated R" (2000) — Sputnikmusic Best Albums 2000** : #62, 82 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2000/
-**"Songs for the Deaf" (2002) — Sputnikmusic Best Albums 2002** : #11, 82 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/
-**"...Like Clockwork" (2013) — Sputnikmusic Best Albums 2013** : #14, 82 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2013/
+**"Songs for the Deaf" (2002) — AOTY Must Hear 2000s** : #393, 82 AOTY.
+**"Rated R" (2000) — AOTY Must Hear 2000s** : #501, 82 AOTY.
+**"...Like Clockwork" (2013) — AOTY Must Hear 2010s** : #686, 82 AOTY.
+**"Alive In The Catacombs" (2025) — AOTY Must Hear 2020s** : #82, 87 AOTY.
+**"Queens of the Stone Age" (1998) — Scaruffi 1990s** : #1063.
+**"In Times New Roman…" (2023) — Kerrang! The 50 Best Albums of 2023** : #40.
+**"Rated R" (2000) — Sputnikmusic Best Albums 2000** : #62, 82 AOTY.
+**"Songs for the Deaf" (2002) — Sputnikmusic Best Albums 2002** : #11, 82 AOTY.
+**"...Like Clockwork" (2013) — Sputnikmusic Best Albums 2013** : #14, 82 AOTY.

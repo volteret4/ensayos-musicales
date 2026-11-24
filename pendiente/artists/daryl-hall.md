@@ -1,8 +1,10 @@
 # artist - Daryl Hall
 
 ## member of
+- Artists United Against Apartheid
 - Daryl Hall & John Oates
 - The Temptones
+- USA for Africa
 
 ## labels
 - Arctic
@@ -10,6 +12,7 @@
 ## songs
 **Goodbye (1966)** : This soul track was recorded for the Arctic label in 1966 by The Temp-tones, co-written by Daryl Hohl (who later became Daryl Hall) and Barry Glazer, featuring Hall's distinctive high tenor voice in an early showcase of his talents. "That's goodbye by the temp tones written by Barry Glazer and Daryl Hall recorded for the Arctic label in 1966." ← For the Record - The 70s > Ep. 37 - Philly Soul and the Sound of the 70s | https://seventies.libsyn.com/ep-37-philly-soul-and-the-sound-of-the-70s
 **Sara Smile (1975)** : This song, which peaked at number four on the Billboard Hot 100 and number 23 on the Hot Soul Singles in 1975, was penned by Daryl Hall about his girlfriend, with whom he maintained a relationship for the next 30 years, reflecting a personal narrative akin to the storytelling approach favored by Gamble and Huff. "Sarah Smile is about Hall's girlfriend who he would be with for the next 30 years." ← For the Record - The 70s > Ep. 37 - Philly Soul and the Sound of the 70s | https://seventies.libsyn.com/ep-37-philly-soul-and-the-sound-of-the-70s
+**We Are the World (1985)** : Daryl Hall was part of a "one-time only trio of male soloists" in "We Are the World," performing alongside Kenny Loggins and Journey's Steve Perry. This trio was a highlight of the song's solo-packed structure. "A one-time only trio of male soloists, Kenny Loggins, Journeys Steve Perry, and Darrell Hall." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Early Songwriting in Schubert Building** : Daryl Hall and John Oates worked as songwriters in Philadelphia's Schubert building concurrently with Kenny Gamble and Leon Huff, indicating a shared early professional environment for these influential musicians. "Daryl Hall and John Oates were also working as songwriters in the Schubert building at the same time that Gamble and Huff were." ← For the Record - The 70s > Ep. 37 - Philly Soul and the Sound of the 70s | https://seventies.libsyn.com/ep-37-philly-soul-and-the-sound-of-the-70s

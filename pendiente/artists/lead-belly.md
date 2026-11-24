@@ -5,6 +5,9 @@
 - Folk
 - Folk Blues
 
+## songs
+**Good Night Irene (1933)** : This song, written by Folk Blues legend Lead Belly, was covered by The Weavers in 1950 and became folk music's first ever number one on Billboard's Bestsellers in Stores chart. "with their cover of Good Night Irene by Folk Blues legend, Lead Belly." ← Hit Parade Music History and Music Trivia > The Freewheelin’ Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **"Good Night Irene" Covered by The Weavers** : The Weavers recorded a hit version of his song, "Good Night Irene." "their version of Lead Belly's Good Night Irene, with orchestration by Gordon Jenkins." ← Episode 92： ＂The Lion Sleeps Tonight＂ by the Tokens | https://www.youtube.com/watch?v=QMP_DFyktMg
 **Central Figure in New York Folk Scene** : Lead Belly was part of a group of left-wing intellectuals and folk singers in New York, centered around Alan Lomax and Pete Seeger, which was pivotal to the Greenwich Village folk scene and the formation of The Armanac Singers and The Weavers. "he hooked up with a group of left-wing intellectuals and folk singers, centering on Alan Lomax, Pete Seeger, and Leab Belly." ← Episode 97： ＂Song to Woody＂ by Bob Dylan | https://www.youtube.com/watch?v=3DufLVcZyc4

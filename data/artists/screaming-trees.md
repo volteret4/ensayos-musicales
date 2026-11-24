@@ -35,6 +35,6 @@
 
 ## lists
 **"Dust" (1996) — 1001 Albums You Must Hear Before You Die** : #807, 7.0/10 Scaruffi.
-**"Even If And Especially When" (1987) — Scaruffi 1980s** : #703, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Dust" (1996) — Scaruffi 1990s** : #1139, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Sweet Oblivion" (1992) — Sputnikmusic Best Albums 1992** : #170, 3.89 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"Even If And Especially When" (1987) — Scaruffi 1980s** : #703, 7.0/10 Scaruffi.
+**"Dust" (1996) — Scaruffi 1990s** : #1139, 7.0/10 Scaruffi.
+**"Sweet Oblivion" (1992) — Sputnikmusic Best Albums 1992** : #170, 3.89 Sputnik.

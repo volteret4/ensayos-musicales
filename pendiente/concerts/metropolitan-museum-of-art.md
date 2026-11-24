@@ -1,0 +1,4 @@
+# concert - Metropolitan Museum of Art
+
+## curiosities
+**Met Friday's Series - Woodstock Event** : On Friday, September 13th, the Metropolitan Museum of Art hosted an event as part of its "Met Friday's series" that included a discussion about the Woodstock Festival and a screening of a restored print of the Woodstock film. This event was free with museum admission and complemented the "Play It Loud: Instruments of Rock" exhibition. "please join me tonight at 6.30pm at the Metropolitan Museum of Art. As part of their Met Friday's series and their acclaimed exhibition, play it loud, instruments of rock, which by the way I've seen and it's amazing." ← Hit Parade Music History and Music Trivia > The Bridge - Ladies of the Canyon and the Rhythm Nation | https://my.slate.com/podcasts/feeds/hit-parade/

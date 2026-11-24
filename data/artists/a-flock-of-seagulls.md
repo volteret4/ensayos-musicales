@@ -4,9 +4,11 @@
 - Mike Score
 
 ## genres
+- New Romantic
 - New Wave
 - Synth-pop
 - Technopop
+- UK Synthesizer
 
 ## albums
 **A Flock of Seagulls (1982)** : The band's self-titled debut LP hit the US top 10, went gold, and remained on the album chart for nearly a year, largely "on the strength of Iran." "On the strength of Iran, a flock of Seagulls' self-titled debut LP hit the U.S. top 10, went gold, and rode the album chart for nearly a year." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
@@ -25,6 +27,8 @@
 **Telegenic New Wave Band** : Flock of Seagulls was highlighted as one of the "Telegenic New Wave bands" that achieved stardom with the advent of music videos on MTV (1981) and MuchMusic (1983). Their visual appeal played a significant role in showcasing music in a new light during this era. "And the stars of the show were the Telegenic New Wave bands like Flocke Seagulls and the Eridmix, and of course Durand Durand." ← https://www.youtube.com/watch?v=Z8BTWo66SDI ← flock-of-seagulls
 **Infamous Haircut of the 1980s** : Frontman Mike Score had "probably the most infamous haircut of the entire 1980s." "And a Liverpool quartet whose frontman, Mike Skore, had probably the most infamous haircut of the entire 1980s." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
 **MTV's Profound US Chart Impact** : A Flock of Seagulls provided clear evidence of MTV's significant impact in the US, as they were "bigger in America than they ever were in the UK." Jonathan Bernstein, co-author of *Matt World*, noted that in the UK, they were seen as a "joke act," while American co-author Laurie Medjuski praised their videos, especially "I Ran," for being "full on resplendent technicolor." "A flock of Seagulls offered evidence of MTV's profound U.S. chart impact. They were bigger in America than they ever were in the UK." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
+**New Romantic Preening** : A Flock of Seagulls is cited as an example of leading British musicians who were "heavy into new romantic preening" in the early 1980s, contrasting with George Michael's early embrace of rapping. "leading British musicians were heavy into new romantic preening, Allah Spandau Ballet and a flock of seagulls." ← Hit Parade Music History and Music Trivia > Hit Parade - The Imperial Elton and George Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Synthesizer-Pop Success and Disdain** : A Flock of Seagulls was a UK synthesizer band that, along with The Human League, became big on the U.S. charts following the launch of MTV. This commercial success was part of a new wave trend that R.E.M.'s guitarist Peter Buck openly "scoffed at" in early interviews, highlighting the stylistic divergence within the broader new wave movement. "A Floc of Seagulls. And I'm so proud of me. However, A&M issued this form of new wave. In his earliest interviews, the opinionated Peter Buck openly scoffed at bands like The Seagulls." ← Hit Parade Music History and Music Trivia > The Deadbeat Club Edition, Part One | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"I Ran" — Billboard Year-End Hot 100** : #67, 1982. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

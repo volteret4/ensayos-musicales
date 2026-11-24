@@ -20,6 +20,6 @@
 **MTV Europe Music Award for Best Alternative (2020)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q38461
 
 ## lists
-**"Ego Death At A Bachelorette Party" (2025) — AOTY Must Hear 2020s** : #56, 92 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"EGO" (2025) — AOTY Must Hear 2020s** : #70, 93 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Petals for Armor" (2020) — AOTY Must Hear 2020s** : #656, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
+**"Ego Death At A Bachelorette Party" (2025) — AOTY Must Hear 2020s** : #56, 92 AOTY.
+**"EGO" (2025) — AOTY Must Hear 2020s** : #70, 93 AOTY.
+**"Petals for Armor" (2020) — AOTY Must Hear 2020s** : #656, 80 AOTY.

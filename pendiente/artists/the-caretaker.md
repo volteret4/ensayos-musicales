@@ -11,15 +11,15 @@
 **TikTok Challenge Phenomenon** : The *Everywhere at the End of Time* series spawned a viral trend on TikTok known as the "Kirteiker Challenge." This challenge involved users listening to all the albums in the series consecutively and posting their reactions. As a result, the artist's work inadvertently adopted a creepypasta aesthetic, with his music frequently used to accompany short videos on platforms like TikTok featuring liminal aesthetics, dreamcore, weirdcore, and analog horror, which introduced his work to a broad young audience. "En TikTok suyo al Kirteiker Challenge, que consistían escucharlosis, discos del tirón y postear tu reacción." ← El Género Musical Más Escalofriante de Internet. Hauntología | https://www.youtube.com/watch?v=2jcvyJLgYcg
 
 ## lists
-**"Everywhere at the End of Time: Stage 6" (2019) — AOTY Must Hear 2010s** : #92, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Everywhere at the end of time" (2019) — AOTY Must Hear 2010s** : #93, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Everywhere at the End of Time: Stage 4" (2018) — AOTY Must Hear 2010s** : #204, 76 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Everywhere at the End of Time: Stage 3" (2017) — AOTY Must Hear 2010s** : #258, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Everywhere at the End of Time: Stage 2" (2017) — AOTY Must Hear 2010s** : #320, 70 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Everywhere at the End of Time: Stage 1" (2016) — AOTY Must Hear 2010s** : #383, 71 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"An Empty Bliss Beyond This World" (2011) — AOTY Must Hear 2010s** : #841. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"A Stairway To The Stars" (2001) — Scaruffi 2000s** : #267, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"An Empty Bliss Beyond This World" (2011) — Pitchfork: The 50 Best Ambient Albums of All Time** : #14. ← musicbrainz | https://beta.musicbrainz.org/series/60daa934-58b5-44a7-937f-751ee3d2431a
-**"Everywhere at the end of time" (2019) — Resident Advisor: The Best Electronic Records of 2000-25** : #55, 100 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/256f2672-a51d-4824-a07f-ae79c5840268
-**"Everywhere at the End of Time: Stage 3" (2017) — Sputnikmusic Best Albums 2017** : #106, 83 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2017/
-**"Everywhere at the End of Time - Stage 6" (2019) — Sputnikmusic Best Albums 2019** : #65, 3.89 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2019/
+**"Everywhere at the End of Time: Stage 6" (2019) — AOTY Must Hear 2010s** : #92, 88 AOTY.
+**"Everywhere at the end of time" (2019) — AOTY Must Hear 2010s** : #93, 100 AOTY.
+**"Everywhere at the End of Time: Stage 4" (2018) — AOTY Must Hear 2010s** : #204, 76 AOTY.
+**"Everywhere at the End of Time: Stage 3" (2017) — AOTY Must Hear 2010s** : #258, 83 AOTY.
+**"Everywhere at the End of Time: Stage 2" (2017) — AOTY Must Hear 2010s** : #320, 70 AOTY.
+**"Everywhere at the End of Time: Stage 1" (2016) — AOTY Must Hear 2010s** : #383, 71 AOTY.
+**"An Empty Bliss Beyond This World" (2011) — AOTY Must Hear 2010s** : #841.
+**"A Stairway To The Stars" (2001) — Scaruffi 2000s** : #267, 7.0/10 Scaruffi.
+**"An Empty Bliss Beyond This World" (2011) — Pitchfork: The 50 Best Ambient Albums of All Time** : #14.
+**"Everywhere at the end of time" (2019) — Resident Advisor: The Best Electronic Records of 2000-25** : #55, 100 AOTY.
+**"Everywhere at the End of Time: Stage 3" (2017) — Sputnikmusic Best Albums 2017** : #106, 83 AOTY.
+**"Everywhere at the End of Time - Stage 6" (2019) — Sputnikmusic Best Albums 2019** : #65, 3.89 Sputnik.

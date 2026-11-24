@@ -6,10 +6,14 @@
 
 ## genres
 - Alt Rock
+- Alternative Rock
 - Blues
 - Garage Rock
+- Garage Rock Revival
 - Hip Hop
 - Indie
+- New Rock
+- Post-Punk
 - R&B
 
 ## labels
@@ -131,6 +135,9 @@
 **Resolution with Jack White** : Following a public Twitter exchange, Patrick Carney announced that he had spoken with Jack White for an hour, finding him "cool, all good." Jack White then publicly responded to Carney, saying, "From one musician to another. You have my respect, Patrick Carney," indicating a resolution to their conflict. "Talk to Jack for an hour. He's cool, all good. Jack responded from one musician to another. You have my respect, Patrick Carney." ← https://www.youtube.com/watch?v=zUr9sjWgUcw ← the-black-keys ← the-black-keys
 **Comparison to The White Stripes** : The Black Keys experienced an increase in interest and profile due to the rising popularity of The White Stripes, another garage-punk two-piece band. The greater success achieved by The White Stripes inadvertently helped to draw more attention to The Black Keys. "The bigger the white stripes got, the more interesting to grow in the black keys." ← https://www.youtube.com/watch?v=ooNAHswiT5Q ← the-black-keys
 **Twilight Soundtracks Contribution** : The Black Keys contributed to the various *Twilight* soundtracks that accompanied the film series. These soundtracks featured a nice selection of tunes, mostly album cuts and outtakes, from a range of artists spanning different genres. "The Paramore, Lincoln Park, Collective Soul, Death Cab for Cutie, Tom York, the Killers, Editors, Metric, Block Keys, Dead Weather, Beck, Vampire Weekend, Florence in the Machine." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← the-black-keys
+**Backbone of 21st Century Alternative Radio** : The Black Keys are mentioned as a male band that consistently tops the alternative chart and serves as a "backbone" of the alternative radio format in the 21st century. "Male bands are still on top most weeks, from Cage the Elephant to the Black Keys." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Critical Favorites** : The Black Keys, a band from Akron, Ohio, were mentioned as one of the critical favorites and steady album sellers of the New Rock or Garage Rock Revival era in the early 2000s, even if they generally didn't score top 40 hits. "bands like ... Akrono Hi-O's Black Keys became critical favorites and steady album sellers." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**20th Ranked Duo on Rolling Stone List (2015)** : The Black Keys were listed as the 20th ranked duo on Rolling Stone's 2015 list of the 20 greatest duos of all time. "to Rolling Stone, they didn't even rate above the 20th ranked duo The Black Keys." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **MTV Video Music Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q223703
@@ -151,5 +158,5 @@
 **Grammy Award for Best Rock Performance (2023) — Wild Child** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1542182
 
 ## lists
-**"El Camino" (2011) — Grammy Award: Album of the Year nominees** : #2013. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Rubber Factory" (2004) — Sputnikmusic Best Albums 2004** : #143, 4.01 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2004/
+**"El Camino" (2011) — Grammy Award: Album of the Year nominees** : #2013.
+**"Rubber Factory" (2004) — Sputnikmusic Best Albums 2004** : #143, 4.01 Sputnik.

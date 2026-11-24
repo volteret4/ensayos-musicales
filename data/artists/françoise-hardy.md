@@ -20,4 +20,4 @@
 **"Tous les garçons et les filles" — Spain Singles Chart** : #1, 1963. ← Wikipedia | https://en.wikipedia.org/wiki/Promusicae
 
 ## lists
-**"Françoise Hardy" (1962) — Pitchfork: The 200 Best Albums of the 1960s** : #90. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Françoise Hardy" (1962) — Pitchfork: The 200 Best Albums of the 1960s** : #90.

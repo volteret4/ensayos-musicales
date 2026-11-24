@@ -29,11 +29,11 @@
 
 ## lists
 **"D.o.A. The Third and Final Report" (1978) — 1001 Albums You Must Hear Before You Die** : #409.
-**"Second Annual Report" (1977) — Scaruffi 1970s** : #77, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"20 Jazz Funk Greats" (1979) — Scaruffi 1970s** : #530, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"D.o.A. The Third and Final Report" (1978) — Scaruffi 1970s** : #531. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Heathen Earth" (1980) — Scaruffi 1980s** : #207, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"In The Shadow Of The Sun" (1981) — Scaruffi 1980s** : #760, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Mission Of Dead Souls" (1981) — Scaruffi 1980s** : #761, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"20 Jazz Funk Greats" (1979) — Pitchfork: The 100 Best Albums of the 1970s** : #91, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"Part 2: The Endless Not" (2007) — Sputnikmusic Best Albums 2007** : #200, 3.97 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2007/
+**"Second Annual Report" (1977) — Scaruffi 1970s** : #77, 8.0/10 Scaruffi.
+**"20 Jazz Funk Greats" (1979) — Scaruffi 1970s** : #530, 7.0/10 Scaruffi.
+**"D.o.A. The Third and Final Report" (1978) — Scaruffi 1970s** : #531.
+**"Heathen Earth" (1980) — Scaruffi 1980s** : #207, 7.5/10 Scaruffi.
+**"In The Shadow Of The Sun" (1981) — Scaruffi 1980s** : #760, 7.0/10 Scaruffi.
+**"Mission Of Dead Souls" (1981) — Scaruffi 1980s** : #761, 7.0/10 Scaruffi.
+**"20 Jazz Funk Greats" (1979) — Pitchfork: The 100 Best Albums of the 1970s** : #91, 7.0/10 Scaruffi.
+**"Part 2: The Endless Not" (2007) — Sputnikmusic Best Albums 2007** : #200, 3.97 Sputnik.

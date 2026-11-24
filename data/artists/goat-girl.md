@@ -13,4 +13,4 @@
 **Sound Reminiscent of Jefferson Airplane** : The new material from Goat Girl, characterized by its alternative and retro psychedelic style, sometimes evokes the sound of Jefferson Airplane. "a veces recuerda un poco a jefer son el pleinia lo of." ← Music Radar Clan > Lanzamientos ABRIL 2018 | https://www.youtube.com/watch?v=3_SAz8OxeIA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← goat-girl
 
 ## lists
-**"On All Fours" (2021) — AOTY Must Hear 2020s** : #590, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
+**"On All Fours" (2021) — AOTY Must Hear 2020s** : #590, 80 AOTY.

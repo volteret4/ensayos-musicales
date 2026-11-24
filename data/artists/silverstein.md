@@ -11,4 +11,4 @@
 **Canadian Screamo Pioneers** : Silverstein, formed in 2000 in Burlington, Ontario, was one of two Canadian bands specifically mentioned as instrumental in pushing the Screamo genre forward during its evolution. "One was Silverstein, a group from Burlington, Ontario who formed a 2000...that really pushed Screamo forward." ← https://www.youtube.com/watch?v=_yslM5oanRo ← silverstein
 
 ## lists
-**"This Is How the Wind Shifts" (2013) — Sputnikmusic Best Albums 2013** : #151, 3.95 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2013/
+**"This Is How the Wind Shifts" (2013) — Sputnikmusic Best Albums 2013** : #151, 3.95 Sputnik.

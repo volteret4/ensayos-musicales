@@ -30,5 +30,5 @@
 
 ## lists
 **"Kollaps" (1981) — 1001 Albums You Must Hear Before You Die** : #476.
-**"½ Mensch" (1985) — AOTY Must Hear 1980s** : #90, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Kollaps" (1981) — Scaruffi 1980s** : #389. ← Scaruffi | https://scaruffi.com/music/best.html
+**"½ Mensch" (1985) — AOTY Must Hear 1980s** : #90, 90 AOTY.
+**"Kollaps" (1981) — Scaruffi 1980s** : #389.

@@ -27,4 +27,4 @@
 ## lists
 **"Tarkus" (1971) — 1001 Albums You Must Hear Before You Die** : #223.
 **"Pictures at an Exhibition" (1971) — 1001 Albums You Must Hear Before You Die** : #227.
-**"Tarkus" (1971) — Scaruffi 1970s** : #273. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Tarkus" (1971) — Scaruffi 1970s** : #273.

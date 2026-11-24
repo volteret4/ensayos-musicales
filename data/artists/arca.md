@@ -27,11 +27,11 @@
 **Early Artistic Style** : In their initial phase, Arquit Fayer was characterized as a very artistic, eccentric, and independent band. This early stage is used as a comparison point for the emerging popularity and artistic nature of King Gisart and Elisar Wysart. "Eran muy artis, muy exténtricos, muy independientes." ← Music Radar Clan > King Gizzard & The Lizard Wizard： ¿Pero que significa Murder of the Universe？ | https://www.youtube.com/watch?v=sIpG7JCrHMU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## lists
-**"Arca" (2017) — AOTY Must Hear 2010s** : #318, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Entrañas" (2016) — AOTY Must Hear 2010s** : #398, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"KicK iii" (2021) — AOTY Must Hear 2020s** : #484, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"@@@@@" (2020) — AOTY Must Hear 2020s** : #678, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Xen" (2014) — Scaruffi 2010s** : #99, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Baron Libre" (2012) — Scaruffi 2010s** : #363, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Arca" (2017) — Pitchfork: The 200 Best Albums of the 2010s** : #61, 82 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"Arca" (2017) — Resident Advisor: The Best Electronic Records of 2000-25** : #46, 82 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/256f2672-a51d-4824-a07f-ae79c5840268
+**"Arca" (2017) — AOTY Must Hear 2010s** : #318, 82 AOTY.
+**"Entrañas" (2016) — AOTY Must Hear 2010s** : #398, 82 AOTY.
+**"KicK iii" (2021) — AOTY Must Hear 2020s** : #484, 80 AOTY.
+**"@@@@@" (2020) — AOTY Must Hear 2020s** : #678, 81 AOTY.
+**"Xen" (2014) — Scaruffi 2010s** : #99, 7.0/10 Scaruffi.
+**"Baron Libre" (2012) — Scaruffi 2010s** : #363, 7.5/10 Scaruffi.
+**"Arca" (2017) — Pitchfork: The 200 Best Albums of the 2010s** : #61, 82 AOTY.
+**"Arca" (2017) — Resident Advisor: The Best Electronic Records of 2000-25** : #46, 82 AOTY.

@@ -30,6 +30,7 @@
 **You Ain't Seen Nothing Yet (1974)** : Randy Bachman initially did not believe that "You Ain't Seen Nothing Yet" would become a hit single, having written it as an internal joke and not taking it seriously. "Backman did not think that you ain't seen nothing yet would be that song." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← bachman-turner-overdrive
 **You Ain't Seen Nothing Yet (1974)** : Despite label head Charlie Fach's enthusiasm, Randy Bachman was highly reluctant to include "You Ain't Seen Nothing Yet" on the album, deeming it "nuts" because the guitars were out of tune, his vocals were stammering and sounded like "bad Van Morrison impressions," and he considered it an unfinished "blurting out lyrics" rather than a proper song. "I said, you're nuts. The guitars aren't even in tune. I'm stammering and doing bad van morse and worse in impressions. I don't know what I'm doing. This isn't even a song. I haven't even written it. I'm just blurting out lyrics." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← bachman-turner-overdrive
 **You Ain't Seen Nothing Yet (1974)** : Contrary to Randy Bachman's expectations, "You Ain't Seen Nothing Yet" became a massive international success, reaching number one in 22 countries. "They went to number one in 22 countries." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← bachman-turner-overdrive
+**You Ain't Seen Nothing Yet (1974)** : This 1974 number one hit, with its stuttering chorus hook, was initially recorded by Randy Bachman (formerly of The Guess Who) only for his brother, who had a speech impediment, and was never intended to become a national hit. "You Ain't Seen Nothing Yet with its stuttering chorus hook was a song Bachmann Turner overdrive's Randy Bachmann formerly of the guest who by the way meant only to record for his brother with a speech impediment never as the national hit it became." ← Hit Parade Music History and Music Trivia > Hit Parade - The B-Sides Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **"Car Music" Description** : Randy Bachman described Bachman-Turner Overdrive's music as "car music," meaning the kind of music specifically designed for listening to while driving. "Backman said that they make car music, the type you want to listen to while you're driving." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← bachman-turner-overdrive
@@ -70,6 +71,6 @@
 **""You Ain't Seen Nothing Yet" ‡" — UK Singles Chart** : #6, 1975. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
 
 ## lists
-**"Not Fragile" (1974) — Scaruffi 1970s** : #175, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Head On" (1975) — Juno Awards: Album of the Year** : #1977. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Best of B.T.O. (So Far)" (1976) — Juno Awards: Album of the Year** : #1977. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
+**"Not Fragile" (1974) — Scaruffi 1970s** : #175, 7.0/10 Scaruffi.
+**"Head On" (1975) — Juno Awards: Album of the Year** : #1977.
+**"Best of B.T.O. (So Far)" (1976) — Juno Awards: Album of the Year** : #1977.

@@ -16,4 +16,4 @@
 **Alternative Press Music Award for Best Live Band** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q26256407
 
 ## lists
-**"Life's Not Out To Get You" (2015) — AOTY Must Hear 2010s** : #484, 86 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
+**"Life's Not Out To Get You" (2015) — AOTY Must Hear 2010s** : #484, 86 AOTY.

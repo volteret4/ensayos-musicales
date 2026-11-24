@@ -10,4 +10,4 @@
 **Pronounced Metal Leanings** : Mudvayne was noted for having "much more intense" musical leanings due to their pronounced metal elements within the new metal genre. "Other bands were much more intense because of their pronounced metal leanings, ... mud veins." ← https://www.youtube.com/watch?v=5bQz8R0gbXc ← mudvayne
 
 ## lists
-**"L.D. 50" (2000) — Sputnikmusic Best Albums 2000** : #108, 4.03 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2000/
+**"L.D. 50" (2000) — Sputnikmusic Best Albums 2000** : #108, 4.03 Sputnik.

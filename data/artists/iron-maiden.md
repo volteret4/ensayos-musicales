@@ -7,6 +7,7 @@
 
 ## genres
 - Metal
+- New Wave of British Heavy Metal
 - Rock
 
 ## concerts
@@ -33,6 +34,8 @@
 **Seven Lead Singers; Paul Di'Anno on First Two Albums; Bruce Dickinson Returned After Blaze Bayley's Vocal Issues** : Iron Maiden's singer history begins with Paul Day (about two years), then Dennis Wilcock (a performer who would put fake blood capsules in his mouth and draw a sword across his face to "bleed" on stage), then Paul Di'Anno — who recorded the band's first two studio albums before being fired for excessive drinking and drug use. Bruce Dickinson joined in 1981 and was with the band through 1993 before leaving to focus on solo work. Blaze Bayley replaced him but ran into serious vocal difficulties; when Dickinson indicated he wanted to return in 1999, Bayley was out and Dickinson returned, remaining to the present. "Dennis Wilcock had a thing about where he'd put capsules of fake blood in his mouth." ← https://www.youtube.com/watch?v=l0F22NTnQzQ ← iron-maiden
 **Use of Mobile Studio** : Iron Maiden made use of the Rolling Stones Mobile Recording Studio for their recordings. "It was also used by bad company and simple mines and dire straits and Santana and Iron Maiden and others." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← iron-maiden ← iron-maiden
 **Youth Music Preferences** : Iron Maiden is mentioned as an artist that Humber College students include in their recent listening habits, alongside contemporary acts, illustrating the diverse musical tastes of younger generations. "And it would be Drake, Dodger Cat, Justin Bieber, ACDC Iron Maiden, Beatles, Drake, whatever." ← https://www.youtube.com/watch?v=4xxgPX-aR90 ← iron-maiden
+**New Wave of British Heavy Metal Participant** : Mentioned as part of the New Wave of British Heavy Metal movement, alongside Def Leppard and Judas Priest. "encompassing such metal bands as Judas Priest and Iron Maiden." ← Hit Parade Music History and Music Trivia > Hit Parade - The You Give Rock a Bad Name Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**New Wave of British Heavy Metal Member** : Iron Maiden was identified as one of the bands associated with the "New Wave of British Heavy Metal" movement, representing the "next wave" of metal acts. "just the next wave of bands like Judas Priest and Iron Maiden and Deaf Leopard." ← Hit Parade Music History and Music Trivia > Music Trivia - Rock & Roll Hall of Fame Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Grammy Award for Best Metal Performance (2011)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q919095
@@ -44,13 +47,13 @@
 ## lists
 **"Iron Maiden" (1980) — 1001 Albums You Must Hear Before You Die** : #467, 7.0/10 Scaruffi.
 **"The Number of the Beast" (1982) — 1001 Albums You Must Hear Before You Die** : #511, 88 AOTY.
-**"Seventh Son of a Seventh Son" (1988) — AOTY Must Hear 1980s** : #37, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Somewhere in Time" (1986) — AOTY Must Hear 1980s** : #65, 74 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Powerslave" (1984) — AOTY Must Hear 1980s** : #102, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Piece of Mind" (1983) — AOTY Must Hear 1980s** : #131, 76 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"The Number of the Beast" (1982) — AOTY Must Hear 1980s** : #151, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Senjutsu" (2021) — AOTY Must Hear 2020s** : #524, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Iron Maiden" (1980) — Scaruffi 1980s** : #477, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Number of the Beast" (1982) — Pitchfork: The 200 Best Albums of the 1980s** : #82, 88 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
-**"Brave New World" (2000) — Sputnikmusic Best Albums 2000** : #73, 4.07 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2000/
-**"Empire Of The Clouds" (2016) — Sputnikmusic Best Albums 2016** : #25, 4.1 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2016/
+**"Seventh Son of a Seventh Son" (1988) — AOTY Must Hear 1980s** : #37, 80 AOTY.
+**"Somewhere in Time" (1986) — AOTY Must Hear 1980s** : #65, 74 AOTY.
+**"Powerslave" (1984) — AOTY Must Hear 1980s** : #102, 80 AOTY.
+**"Piece of Mind" (1983) — AOTY Must Hear 1980s** : #131, 76 AOTY.
+**"The Number of the Beast" (1982) — AOTY Must Hear 1980s** : #151, 88 AOTY.
+**"Senjutsu" (2021) — AOTY Must Hear 2020s** : #524, 82 AOTY.
+**"Iron Maiden" (1980) — Scaruffi 1980s** : #477, 7.0/10 Scaruffi.
+**"The Number of the Beast" (1982) — Pitchfork: The 200 Best Albums of the 1980s** : #82, 88 AOTY.
+**"Brave New World" (2000) — Sputnikmusic Best Albums 2000** : #73, 4.07 Sputnik.
+**"Empire Of The Clouds" (2016) — Sputnikmusic Best Albums 2016** : #25, 4.1 Sputnik.

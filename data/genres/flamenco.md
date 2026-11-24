@@ -12,10 +12,12 @@
 **Origins Research and Complexity** : For over 50 years since the 1950s, extensive musical research in Spain has sought to trace the origins of flamenco, but no consensus has been reached due to its diffuse and complex beginnings. It is known to date back to the 18th century as a complex cultural mix primarily in Southern Spain (Andalusia, Murcia, Extremadura, southern Castilla-La Mancha) and also along the Moroccan coast, and even has nuclei in Latin America. "en España llevamos más de 50 años en rastreando muchísimo los origenes del flamenco. A nivel musical, a nivel de historia de la música en España es algo que ha ocupado muchísima investigación musical porque los inicios del flamenco son muy difusos, son muy complejos y se pierden en el tiempo." ← Music Radar Clan > ROSALIA. Por qué la apropiación cultural es un timo. | https://www.youtube.com/watch?v=PubYV9sbFQw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← flamenco ← flamenco
 **US Reception in the 1950s** : While there was a boom in Latin music, flamenco's reception in the US was less pronounced, possibly due to geographical distance and Spain's isolation at the time. Unlike the infectious rhythms of samba or the optimism of chachacha, flamenco was characterized by passion and soul, which contrasted with the 1950s American society's desire for fun and dancing. "El Flamenco era pasión y alma y la sociedad americana de los 50 quería divertirse y bailar." ← Cómo el Flamenco Influyó a Músicos Extranjeros (Y Quizá No Lo Notaste) | https://www.youtube.com/watch?v=9ReRvRfbHec
 **Wider Rock and Jazz Guitarist Influence** : The inherent complexity of flamenco execution has consistently captivated numerous jazz and rock guitarists, many of whom were eager to demonstrate their virtuosity by incorporating its demanding style into their playing. "La complejidad de la ejecución del flamenco ha llamado la atención de muchos guitarristas de Yassie de Rock, habidos por demostrar su virtudismo." ← Cómo el Flamenco Influyó a Músicos Extranjeros (Y Quizá No Lo Notaste) | https://www.youtube.com/watch?v=9ReRvRfbHec
+**Los del Río's Musical Background** : Los del Río were described as an "old-fashioned flamenco group" prior to the global success of "Macarena," which highlights the unexpected origin of a worldwide dance craze from a traditional Spanish genre. : "Looking back, it's remarkable that the Macarena ever became a thing that an old-fashioned flamenco group wrote a tune that took over the world." ← Hit Parade Music History and Music Trivia > One Year - Hey Macarena! | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Camarón de la Isla
 - Carmen
 - Rodrigo y Gabriela
 - Rosalía
-
+- Mason Williams
+- Los Del Rio

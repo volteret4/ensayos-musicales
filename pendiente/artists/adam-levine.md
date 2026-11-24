@@ -1,0 +1,14 @@
+# artist - Adam Levine
+
+## member of
+- Maroon 5
+
+## songs
+**Girls Like You** : This number one hit from "last year" (relative to the recording) is described as an Adam Levine showcase but was still branded as a Maroon 5 song, demonstrating his commitment to the band's brand. "girls like you, the big number one hit from last year, feel like Adam Levine showcases. They are still branded as Maroon 5." ← Hit Parade Music History and Music Trivia > The Bridge - The Give My Regards Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Moves Like Jagger** : This song, despite showcasing Adam Levine, is still branded as a Maroon 5 track, illustrating his strategy of maintaining the band's brand even when featuring prominently. "even on a song like moves like Jagger." ← Hit Parade Music History and Music Trivia > The Bridge - The Give My Regards Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## curiosities
+**Successful Persona Development** : Adam Levine has developed his own notoriety and persona, largely through his role as a "lovable smart-ass character" on NBC's The Voice, which works well for him outside of Maroon 5. "He has your absolutely right. He has his own persona, thanks largely to NBC's The Voice on which he has developed this kind of lovable smart-ass character that works for him." ← Hit Parade Music History and Music Trivia > The Bridge - The Give My Regards Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Strategic Branding with Maroon 5** : Adam Levine rarely records as a solo artist, preferring to brand his music as Maroon 5 even when he is featured prominently or when the music deviates from the band's typical sound, learning from previous artists' solo struggles. "But when he records, he pretty much always records. ... Maroon 5 is the brand. That's what I bring to the table. That's how I get on the radio." ← Hit Parade Music History and Music Trivia > The Bridge - The Give My Regards Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Vocal Credit on Gym Class Heroes Track** : There is at least one instance where Adam Levine did the vocal line on a Gym Class Heroes song and was credited under his own name. "I believe there's a Jim Class hero song where he does the vocal line. And I believe he is credited as Adam Levine." ← Hit Parade Music History and Music Trivia > The Bridge - The Give My Regards Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Cautionary Tale for Solo Career** : Adam Levine's approach of sticking to the Maroon 5 brand is viewed as a "cautionary tale for the solo career," showing a strategic choice to leverage the established band identity rather than risk a full solo departure like Mick Jagger. "Adam Levine is almost, you might say the cautionary tale for the solo career." ← Hit Parade Music History and Music Trivia > The Bridge - The Give My Regards Edition | https://my.slate.com/podcasts/feeds/hit-parade/

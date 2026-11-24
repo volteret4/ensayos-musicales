@@ -11,11 +11,12 @@
 **Band's Admiration** : Rai Cooder, identified as a "blues legend," is held in high regard by The Tragically Hip. His mention clarifies a reference in the song "At the Hundredth Meridian." "And who's Rai Kooter? A blues legend, and the band likes him very, very much." ← https://www.youtube.com/watch?v=Vs1YyXgLpTE ← rai-cooder
 **Contribution to Hawkins' Late 60s Album** : Ry Cooder, a blues musician, contributed to Dale Hawkins' late 1960s album. This recording project, centered on the Swamp Rock style, was initiated after Creedence Clearwater Revival's successful cover of "Suzy Q" reignited Hawkins' recording career. "along with a few newer blues musicians like Taj Mahal and Vaikudah." ← Episode 63： ＂Susie Q＂, by Dale Hawkins | https://www.youtube.com/watch?v=4vqj1DcXOfw
 **Influenced by Blind Willie Johnson** : Rye Cooder is cited as a rock musician whose slide guitar playing was influenced by the early 20th-century blues artist Blind Willie Johnson. "Like that, interned influence not only a billion country players, but rockers like Rye Kooter, Brian Jones and Keith Richards of the Rolling Stones and Duane Almond." ← https://www.youtube.com/watch?v=D8GU8ZpSgY8 ← rye-cooder
+**Recording Buena Vista Social Club in Havana (Late 1990s)** : In the late 1990s, guitarist Ry Cooder traveled to Havana, Cuba, in pursuit of Latin authenticity. There, he recorded a group of elderly *son* players, which he subsequently dubbed the Buena Vista Social Club, contributing to the global appreciation of traditional Cuban music. "By the late 90s, the quest for Latin authenticity had even drawn in guitarist Rae Kudir, who traveled to Havana to record a combo of elderly son players that he dubbed the Buena Vista Social Club." ← Hit Parade Music History and Music Trivia > La Vida Loca Edición | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Grammy Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q41254
 **Americana Lifetime Achievement Award for Instrumentalist (2007)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q96586469
 
 ## lists
-**"The Prodigal Son" (2018) — AOTY Must Hear 2010s** : #186, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Paradise And Lunch" (1974) — Scaruffi 1970s** : #487, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"The Prodigal Son" (2018) — AOTY Must Hear 2010s** : #186, 83 AOTY.
+**"Paradise And Lunch" (1974) — Scaruffi 1970s** : #487, 7.0/10 Scaruffi.

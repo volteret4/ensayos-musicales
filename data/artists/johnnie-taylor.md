@@ -14,10 +14,11 @@
 ## curiosities
 **Sam Cooke Sound-Alike** : Johnny Taylor was chosen to replace Sam Cooke in the Highway QC's because he was a "sounder like singer," offering insight into the group's sound during Cooke's tenure. "they replaced him with a sounder like singer, Johnny Taylor, and listening to Taylor's recordings with the group, you can get some idea of what they sounded like when Sam was a member." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
 **Successor to Sam Cooke (Soul Stirrers)** : After Sam Cooke left The Soul Stirrers to pursue his secular solo career, Johnny Taylor, who had previously replaced Cooke in the Highway QC's, was brought in to fill his shoes once again as the lead singer. "Meanwhile, the soul-sturvers got Johnny Taylor, the man who had replaced Sam in the highway Cooke's to replace him in the sturvers." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
+**The Soul Stirrers' New Vocalist** : Johnny Taylor became the new vocalist for The Soul Stirrers after they were dropped by Specialty Records in 1959. Sam Cook offered to write and produce music for him and the group under Cook's newly formed SAR Records. "Cook offered to write and produce music for them, including their new vocalist, Johnny Taylor." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"I Believe in You" — Billboard Year-End Hot 100** : #58, 1973. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 **"Disco Lady" — Billboard Year-End Hot 100** : #3, 1976. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"I’ve Been Born Again / At Night Time (My Pillow Tells a Tale on Me)" — John Peel's Record Box** : #49. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
+**"I’ve Been Born Again / At Night Time (My Pillow Tells a Tale on Me)" — John Peel's Record Box** : #49.

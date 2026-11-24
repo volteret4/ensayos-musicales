@@ -15,4 +15,4 @@
 
 ## lists
 **"Timeless" (1995) — 1001 Albums You Must Hear Before You Die** : #805, 7.0/10 Scaruffi.
-**"Timeless" (1995) — Scaruffi 1990s** : #732, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Timeless" (1995) — Scaruffi 1990s** : #732, 7.0/10 Scaruffi.

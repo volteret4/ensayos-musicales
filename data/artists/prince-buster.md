@@ -1,6 +1,10 @@
 # artist - Prince Buster
 
+## members
+- Cecil Bustemante Campbell
+
 ## genres
+- Rocksteady
 - Ska
 
 ## labels
@@ -10,6 +14,7 @@
 **Al Capone (1967)** : Cecil Bustamante Campbell — known by his stage name Prince Buster — was a pivotal figure in the creation of ska. Together with guitarist Jerry Johnson, he moved the beat emphasis from the 1 and 3 to the 2 and 4, stressing the offbeat. This change in syncopation, made in 1962, was the spark that created ska as a distinct genre. Prince Buster was also the source of the name for Madness — their name came from an old Prince Buster song. "Cecil moved the beat emphasis from the 1 and the 3 to the 2 and the 4. In other words, the off beat was stressed. This change in syncopation was the spark and SCA was born." ← https://www.youtube.com/watch?v=VxWp7HrT8oE ← prince-buster
 
 ## songs
+**Al Capone (1964)** : This 1964 single by Jamaican Ska and Rocksteady pioneer Cecil Bustemante Campbell (Prince Buster) was a hit in England. It was later "poached" and interpolated by a young Frank Farian into his mid-70s single "Baby Do You Want A Bump," which marked Farian's first hit. "Al Capone is a 1964 single from Jamaican Skah and Rocksteady Pioneer Cecil Bustemante Campbell, aka Prince Buster." ← Hit Parade Music History and Music Trivia > Blame It on the Feign, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Al Capone (1967)** : This song is presented as an excellent example of the early days of Ska, representing the "first wave." "This is Prince Buster from 1967. Prince Buster with an excellent example of the early days of Scott." ← https://www.youtube.com/watch?v=WX2GlpMNg_8 ← prince-buster ← prince-buster
 **Madness (1964)** : This original song by Prince Buster was covered by the band Madness in 1979, highlighting how second-wave Ska revived original 1960s Ska. "The original was by Jamaican Scottinger Prince Buster from 1964, showing again how second wave SCAT was a revival of the original SCAT of the 1960s." ← https://www.youtube.com/watch?v=WX2GlpMNg_8 ← prince-buster ← prince-buster
 

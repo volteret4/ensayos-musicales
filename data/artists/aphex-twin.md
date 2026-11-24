@@ -53,23 +53,23 @@
 
 ## lists
 **"Selected Ambient Works 85–92" (1992) — 1001 Albums You Must Hear Before You Die** : #708, 91 AOTY.
-**"Windowlicker" (1999) — AOTY Must Hear 1990s** : #38, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Come to Daddy" (1997) — AOTY Must Hear 1990s** : #106, 76 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Richard D. James Album" (1996) — AOTY Must Hear 1990s** : #154, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Selected Ambient Works, Volume II" (1994) — AOTY Must Hear 1990s** : #307. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Selected Ambient Works 85–92" (1992) — AOTY Must Hear 1990s** : #354, 91 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"drukQs" (2001) — AOTY Must Hear 2000s** : #431, 64 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Syro" (2014) — AOTY Must Hear 2010s** : #569, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Selected Ambient Works Volume II (Expanded Edition)" (2024) — AOTY Must Hear 2020s** : #167, 87 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"I Care Because You Do" (1995) — Scaruffi 1990s** : #411, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Syro" (2014) — Scaruffi 2010s** : #98, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Richard D. James Album" (1996) — Pitchfork: The 150 Best Albums of the 1990s** : #34, 81 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Selected Ambient Works, Volume II" (1994) — Pitchfork: The 150 Best Albums of the 1990s** : #53. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Syro" (2014) — Pitchfork: The 200 Best Albums of the 2010s** : #80, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"Selected Ambient Works, Volume II" (1994) — Pitchfork: The 50 Best Ambient Albums of All Time** : #2. ← musicbrainz | https://beta.musicbrainz.org/series/60daa934-58b5-44a7-937f-751ee3d2431a
-**"Selected Ambient Works 85–92" (1992) — Pitchfork: The 50 Best IDM Albums of All Time** : #1, 91 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/e9a6e452-f6af-431e-9984-56046b9c2e05
-**"Richard D. James Album" (1996) — Pitchfork: The 50 Best IDM Albums of All Time** : #4, 81 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/e9a6e452-f6af-431e-9984-56046b9c2e05
-**"I Care Because You Do" (1995) — Pitchfork: The 50 Best IDM Albums of All Time** : #13, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/e9a6e452-f6af-431e-9984-56046b9c2e05
-**"Selected Ambient Works 85–92" (1992) — Sputnikmusic Best Albums 1992** : #10, 91 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"Selected Ambient Works, Volume II" (1994) — Sputnikmusic Best Albums 1994** : #73. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
-**"Richard D. James Album" (1996) — Sputnikmusic Best Albums 1996** : #92, 81 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
+**"Windowlicker" (1999) — AOTY Must Hear 1990s** : #38, 88 AOTY.
+**"Come to Daddy" (1997) — AOTY Must Hear 1990s** : #106, 76 AOTY.
+**"Richard D. James Album" (1996) — AOTY Must Hear 1990s** : #154, 81 AOTY.
+**"Selected Ambient Works, Volume II" (1994) — AOTY Must Hear 1990s** : #307.
+**"Selected Ambient Works 85–92" (1992) — AOTY Must Hear 1990s** : #354, 91 AOTY.
+**"drukQs" (2001) — AOTY Must Hear 2000s** : #431, 64 AOTY.
+**"Syro" (2014) — AOTY Must Hear 2010s** : #569, 7.0/10 Scaruffi.
+**"Selected Ambient Works Volume II (Expanded Edition)" (2024) — AOTY Must Hear 2020s** : #167, 87 AOTY.
+**"I Care Because You Do" (1995) — Scaruffi 1990s** : #411, 7.0/10 Scaruffi.
+**"Syro" (2014) — Scaruffi 2010s** : #98, 7.0/10 Scaruffi.
+**"Richard D. James Album" (1996) — Pitchfork: The 150 Best Albums of the 1990s** : #34, 81 AOTY.
+**"Selected Ambient Works, Volume II" (1994) — Pitchfork: The 150 Best Albums of the 1990s** : #53.
+**"Syro" (2014) — Pitchfork: The 200 Best Albums of the 2010s** : #80, 7.0/10 Scaruffi.
+**"Selected Ambient Works, Volume II" (1994) — Pitchfork: The 50 Best Ambient Albums of All Time** : #2.
+**"Selected Ambient Works 85–92" (1992) — Pitchfork: The 50 Best IDM Albums of All Time** : #1, 91 AOTY.
+**"Richard D. James Album" (1996) — Pitchfork: The 50 Best IDM Albums of All Time** : #4, 81 AOTY.
+**"I Care Because You Do" (1995) — Pitchfork: The 50 Best IDM Albums of All Time** : #13, 7.0/10 Scaruffi.
+**"Selected Ambient Works 85–92" (1992) — Sputnikmusic Best Albums 1992** : #10, 91 AOTY.
+**"Selected Ambient Works, Volume II" (1994) — Sputnikmusic Best Albums 1994** : #73.
+**"Richard D. James Album" (1996) — Sputnikmusic Best Albums 1996** : #92, 81 AOTY.

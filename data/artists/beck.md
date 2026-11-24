@@ -3,10 +3,14 @@
 ## genres
 - Alternative Music
 - Alternative Rock
+- Americana
 - Anti-Foke
 - Antifolk
+- Folk
 - Folk Funk Alt Rock
 - Freak Folk
+- Grunge
+- Hip Hop
 - Lofi
 - Modern Rock
 - Tweetpop
@@ -33,6 +37,7 @@
 **Mellow Gold (1994)** : This album featured Beck's breakthrough song "Loser." "It's from the mellow gold album of 1994." ← https://www.youtube.com/watch?v=zT6pRGYLWhw ← beck
 **Midnight Vultures (1999)** : This album was one of Beck's "hip-hop albums" that earned him prior Grammy nominations for major prizes, though it did not secure a win. It was noted for helping "win Beck new fans." "In prior years, Beck had been nominated for much hip-hop albums like 1999's Midnight Vultures or his 1996 breakthrough Odalay." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
 **Morning Phase (2014)** : This album, Beck's twelfth studio effort, won the Album of the Year Grammy in 2015 when he was 44 years old. It had a "modest hit" chart performance, opening at number three on the Billboard 200 in early 2014 but then tumbling off the chart entirely by the following February when he won the Grammy. Unlike Bonnie Raitt's "Nick of Time," this win was not as celebrated, partly due to the "Beyoncé factor" and the perception that he was a "default choice" as the "token rock nominee" among other popular artists. His albums did not chart better after this big Grammy win, and it's "doubtful Beck won many new fans on morning phase." "Morning phase was the 12th studio album by Beck, issued as he just turned 44." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
+**Morning Phase (2014)** : This mellow album won the Album of the Year Grammy in 2015, unexpectedly triumphing over Beyoncé's self-titled album. It was notably "miles removed" from the hip-hop meets folk-derived sound Beck had cultivated earlier in his career. "His mellow album, Morning Phase, was miles removed from the hip-hop meets folk derived sound." ← Hit Parade Music History and Music Trivia > Say My Name, Say My Name, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Odelay (1996)** : This album is identified as Beck's "breakthrough" and was described as a "hip-hop album" for which he was previously nominated for a major Grammy prize, though it did not win. These earlier albums were instrumental in "won Beck new fans." "In prior years, Beck had been nominated for much hip-hop albums like 1999's Midnight Vultures or his 1996 breakthrough Odalay." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
 **Odelay (1996)** : This multi-platinum album was a strong competitor for Album of the Year at the 1997 Grammys. It was cited as an album that "sounded more like the mid-90s" than Celine Dion's "Falling Into You," which ultimately won the award. "the aforementioned Otolay by Beck". ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
 **Sea Change (2000)** : Released in 2000, "Sea Change" is described as an album that almost sounded like Bob Dylan, marking a significant shift towards a more intimate and less guitar-heavy sound for Beck. This album is presented as an example of a new generation of artists embracing more introspective music after the decline of grunge, a sound that Jeff Buckley had pioneered years earlier. "incluso ve que llegó a hacer aquel disco que casi parecía bof Dylan el sichens llamaba primero es del dos mil y el sichens." ← Music Radar Clan > Recordando a Jeff Buckley | https://www.youtube.com/watch?v=aYB4LJSFwEo&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← beck ← beck
@@ -50,6 +55,7 @@
 **Loser (1994)** : Recorded in 1993 during a six-and-a-half-hour session at friend Carl Stevenson's home, this song originated from Beck's self-deprecating comment, "man, I am the worst rapper in the world. I'm just a loser," after attempting to rap like Chuck D of Public Enemy. Carl Stevenson encouraged him to "go with that." The track was constructed by looping a guitar bit, adding a drum track, samples, and sitar playing, with Beck improvising the lyrics. Despite its solid fidelity, the performance was deliberately ragged, qualifying it as a lo-fi track by 1994 and contributing to its status as a significant low-fidelity hit. "So Beck started singing, I'm a loser baby, so why don't you kill me? Six and a half hours later, the song was done." ← https://www.youtube.com/watch?v=Jq-e-fZxXOs ← beck ← beck
 **Loser (1994)** : A very raw and unlisted demo of "Loser" was discovered buried at the end of the "Beer Can" CD single released in 1994. This track provides insight into the creative process between Beck and Carl Stevenson as they "trying to sort things out," offering a unique glimpse into the development of one of the 90s' most enduring songs. "A very raw, raw demo found buried and unlisted at the end of his Beer Can CD single of 1994." ← https://www.youtube.com/watch?v=zT6pRGYLWhw ← beck
 **Loser (1994)** : Beck's performance of rap, particularly referenced through his song "Loser," is cited by some critics as an instance of "musical intrusiveness." This concept refers to an artist temporarily engaging in a musical style outside their usual domain, without any negative connotation, and is used to discuss the fluidity and boundaries of genre. "cuando ve que en lúser le da por hacer de rapero lo consideran un intrusismo musical" ← Music Radar Clan > Diferencia entre RAP y HIP-HOP. Por qué ya no son lo mismo. | https://www.youtube.com/watch?v=bVusa5RTBoU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← beck ← beck
+**Loser (1994)** : This song was impossible to categorize, an accidental generational anthem. Its lyrics were packed with in-jokes and touched upon folk, Americana, grunge, and hip hop elements. It topped the modern rock chart near the start of 1994 and even crossed over to pop, cracking the top 10 on the Hot 100. "Bex, impossible to categorize loser, an accidental generational anthem whose lyrics were packed with in jokes and touches of folk, Americana, Grunge, and Hip Hop." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **MTV Makes Me Want A Smoke Crack (1993)** : This standalone single, released in 1993, showcases Beck's early sound, often characterized as Freak Folk and Antifolk. Released before his mainstream success with "Loser" in 1994, this track reflects the confounding and quirky indie records he produced, which often incorporated a touch of the Tweetpop aesthetic. "This is a standalone single from 1993 entitled MTV Makes Me Want A Smoke Crack." ← https://www.youtube.com/watch?v=jhgZrwtYE2g ← beck
 **MTV Makes Me Want to Smoke Crack** : This was an "obscure song" that resulted from Beck's first experiment with a newly acquired drum machine, prompting him to try another shot at recording. "That was an obscure song called MTV makes me want to smoke crack, so he decided to give it another shot." ← https://www.youtube.com/watch?v=5bQz8R0gbXc ← beck-hanson
 **Two Turntables and a Microphone (1996)** : A lyric from Beck's song "Two Turntables and a Microphone" was quoted to illustrate the importance of vinyl and turntables in DJ culture and the club scene. "As Beck sang, two turntables and a microphone." ← https://www.youtube.com/watch?v=GES0Ms_kaCI ← beck
@@ -81,6 +87,8 @@
 **Quirky Lyrics** : Beck's lyrics, specifically mentioning "loser chimpanzees and monkeys," were cited as an example of the quirky and unconventional lyrical themes prevalent in mid-90s alternative rock, which contributed to the genre's mainstream dominance. "in the case of Bex loser chimpanzees and monkeys." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 **Kanye West Grammy Interruption (2015)** : During the 2015 Grammy Awards, as music legend Prince announced Beck as the winner of Album of the Year for "Morning Phase," Kanye West briefly climbed onto the stage, threatening to protest the win. This incident echoed his earlier interruption of Taylor Swift at the MTV Video Music Awards six years prior. Although Kanye thought better of it and returned to his seat without taking the mic, his actions highlighted his strong opinion that Beck should not have won over Beyoncé. "Pretty soon, Beck Han says it all up. I need some help. Come back." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
 **Grammy Win Perception (2015)** : Beck's Album of the Year win for "Morning Phase" in 2015 was met with indifference bordering on contempt from the general public, largely due to the "Beyoncé factor" and the album's modest commercial success. The win felt like a "meh," with Beck perceived as the "default choice" and "token rock nominee" in a ballot that included more culturally relevant artists. This triumph, rather than rejuvenating his career like Bonnie Raitt's, "turned a once hip artist into a high bound veteran." "But why was there enough goodwill for Beck among Grammy voters and such indifference bordering on contempt among the general public?" ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef0154465cd600c4e3a
+**Produced by Pharrell Williams (2010s)** : In the 2010s, Pharrell Williams continued his post-Neptunes hit streak by producing hits for artists including Beck, Beyoncé, and Ariana Grande. "Ariana Grande and Beck." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Album of the Year Win Over Beyoncé (2015)** : Beck's "Morning Phase" won the Album of the Year Grammy in 2015, an outcome that sparked outrage from Kanye West, who felt Beyoncé's self-titled album was more deserving. "which perhaps explains why the 2015 album of the year went instead to Gen X icon Beck." ← Hit Parade Music History and Music Trivia > Say My Name, Say My Name, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Grammy Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q41254
@@ -94,15 +102,15 @@
 **"Odelay" (1996) — 1001 Albums You Must Hear Before You Die** : #813, 7.5/10 Scaruffi.
 **"Sea Change" (2002) — 1001 Albums You Must Hear Before You Die** : #958, 81 AOTY.
 **"Guero" (2005) — 1001 Albums You Must Hear Before You Die** : #1000, 77 AOTY.
-**"Midnite Vultures" (1999) — AOTY Must Hear 1990s** : #4, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Odelay" (1996) — AOTY Must Hear 1990s** : #181, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Sea Change" (2002) — AOTY Must Hear 2000s** : #389, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Morning Phase" (2014) — AOTY Must Hear 2010s** : #614, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Odelay" (1996) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #424, 7.5/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Odelay" (1996) — Scaruffi 1990s** : #164, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Mellow Gold" (1994) — Scaruffi 1990s** : #448, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Odelay" (1996) — Grammy Award: Album of the Year nominees** : #1997, 7.5/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Midnite Vultures" (1999) — Grammy Award: Album of the Year nominees** : #2001, 83 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Odelay" (1996) — Pitchfork: The 150 Best Albums of the 1990s** : #93, 7.5/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Odelay" (1996) — Sputnikmusic Best Albums 1996** : #82, 7.5/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
-**"Sea Change" (2002) — Sputnikmusic Best Albums 2002** : #141, 81 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/
+**"Midnite Vultures" (1999) — AOTY Must Hear 1990s** : #4, 83 AOTY.
+**"Odelay" (1996) — AOTY Must Hear 1990s** : #181, 7.5/10 Scaruffi.
+**"Sea Change" (2002) — AOTY Must Hear 2000s** : #389, 81 AOTY.
+**"Morning Phase" (2014) — AOTY Must Hear 2010s** : #614, 80 AOTY.
+**"Odelay" (1996) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #424, 7.5/10 Scaruffi.
+**"Odelay" (1996) — Scaruffi 1990s** : #164, 7.5/10 Scaruffi.
+**"Mellow Gold" (1994) — Scaruffi 1990s** : #448, 7.0/10 Scaruffi.
+**"Odelay" (1996) — Grammy Award: Album of the Year nominees** : #1997, 7.5/10 Scaruffi.
+**"Midnite Vultures" (1999) — Grammy Award: Album of the Year nominees** : #2001, 83 AOTY.
+**"Odelay" (1996) — Pitchfork: The 150 Best Albums of the 1990s** : #93, 7.5/10 Scaruffi.
+**"Odelay" (1996) — Sputnikmusic Best Albums 1996** : #82, 7.5/10 Scaruffi.
+**"Sea Change" (2002) — Sputnikmusic Best Albums 2002** : #141, 81 AOTY.

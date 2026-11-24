@@ -33,11 +33,11 @@
 **"Imperial Bedroom" (1982) — 1001 Albums You Must Hear Before You Die** : #497.
 **"Blood & Chocolate" (1986) — 1001 Albums You Must Hear Before You Die** : #563.
 **"Brutal Youth" (1994) — 1001 Albums You Must Hear Before You Die** : #764.
-**"This Year’s Model" (1978) — AOTY Must Hear 1970s** : #41, 98 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"The Boy Named If" (2022) — AOTY Must Hear 2020s** : #479, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"This Year’s Model" (1978) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #121, 98 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Armed Forces" (1979) — Scaruffi 1970s** : #269. ← Scaruffi | https://scaruffi.com/music/best.html
-**"This Year’s Model" (1978) — Scaruffi 1970s** : #270, 98 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"My Aim Is True" (1977) — Pitchfork: The 100 Best Albums of the 1970s** : #37. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"This Year’s Model" (1978) — Pitchfork: The 100 Best Albums of the 1970s** : #52, 98 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"Imperial Bedroom" (1982) — Pitchfork: The 200 Best Albums of the 1980s** : #155. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"This Year’s Model" (1978) — AOTY Must Hear 1970s** : #41, 98 AOTY.
+**"The Boy Named If" (2022) — AOTY Must Hear 2020s** : #479, 81 AOTY.
+**"This Year’s Model" (1978) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #121, 98 AOTY.
+**"Armed Forces" (1979) — Scaruffi 1970s** : #269.
+**"This Year’s Model" (1978) — Scaruffi 1970s** : #270, 98 AOTY.
+**"My Aim Is True" (1977) — Pitchfork: The 100 Best Albums of the 1970s** : #37.
+**"This Year’s Model" (1978) — Pitchfork: The 100 Best Albums of the 1970s** : #52, 98 AOTY.
+**"Imperial Bedroom" (1982) — Pitchfork: The 200 Best Albums of the 1980s** : #155.

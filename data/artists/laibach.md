@@ -10,6 +10,6 @@
 
 ## lists
 **"Opus Dei" (1987) — 1001 Albums You Must Hear Before You Die** : #601.
-**"Nova Akropola" (1985) — Scaruffi 1980s** : #514, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Macbeth" (1990) — Sputnikmusic Best Albums 1990** : #85. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"Kapital" (1992) — Sputnikmusic Best Albums 1992** : #132, 3.96 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"Nova Akropola" (1985) — Scaruffi 1980s** : #514, 7.0/10 Scaruffi.
+**"Macbeth" (1990) — Sputnikmusic Best Albums 1990** : #85.
+**"Kapital" (1992) — Sputnikmusic Best Albums 1992** : #132, 3.96 Sputnik.

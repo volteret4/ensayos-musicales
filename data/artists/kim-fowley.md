@@ -18,4 +18,4 @@
 **University High School Party Organizer** : Kim Fowley organized parties for University High School students, which he later claimed were his primary source of income. He admitted to hiring sex workers to occupy students from wealthy homes, then breaking into their houses to rearrange furniture for dancing. He also facilitated dope dealers at these parties for a cut and had friends steal from partygoers' cars. "Crowley claimed in later years that these parties were his major source of income, that he would hire sex workers to take fellow university high students who have big houses, off to a motel to have sex with them." ← Episode 86： ＂LSD-25＂ by the Gamblers | https://www.youtube.com/watch?v=UNd6UwbL1rA
 
 ## lists
-**"Outrageous" (1968) — Scaruffi 1960s** : #153, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Outrageous" (1968) — Scaruffi 1960s** : #153, 7.0/10 Scaruffi.

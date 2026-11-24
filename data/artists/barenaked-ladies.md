@@ -65,4 +65,4 @@
 **"One Week" — Billboard Year-End Hot 100** : #51, 1998. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Gordon" (1992) — Juno Awards: Album of the Year** : #1993. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
+**"Gordon" (1992) — Juno Awards: Album of the Year** : #1993.

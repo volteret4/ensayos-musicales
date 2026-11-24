@@ -1,6 +1,7 @@
 # artist - Glenn Miller
 
 ## genres
+- Big Band
 - Dancehall Swing
 
 ## labels
@@ -17,7 +18,9 @@
 **Boogie Woogie Piggy** : This song was performed by the Glenn Miller Orchestra, the biggest band of the forties, featuring a singer, possibly Tex Beneke or Ray Eberle, singing about a "Boogie Woogie Piggy." It exemplifies how Boogie Woogie music, even in its adapted big band style, was still predominantly using the swing beat. "singing about a Boogie Woogie Piggy." ← Episode 2： ＂Roll Em Pete＂ by Big Joe Turner | https://www.youtube.com/watch?v=thpMb1A_fAs
 **Chattanooga Choo Choo (1942)** : Even though this song is not directly about Boogie Woogie, it incorporates the Boogie rhythm and features nods to the generic Boogie bass line. It also contains lines like, "when you hear that whistle blowing eight to the bar, then you know that Tennessee is not very far," highlighting the pervasive influence of Boogie Woogie in popular music of the early 1940s. "when you hear that whistle blowing eight to the bar, then you know that Tennessee is not very far." ← Episode 2： ＂Roll Em Pete＂ by Big Joe Turner | https://www.youtube.com/watch?v=thpMb1A_fAs
 **Chattanooga Choo Choo (1942)** : This single was awarded the first recorded gold record in February 1942 by RCA. By that time, the song had sold an astonishing 1.2 million units, an incredible feat for the 1940s given the marketing and distribution challenges of the era. ← Music Radar Clan > Qué es un disco de ORO？    cómo se concede？ | https://www.youtube.com/watch?v=GHVIyfsZBe4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← glenn-miller ← glenn-miller
+**Chattanooga Choo Choo (from Sun Valley Serenade)** : A classic chart-topping soundtrack hit by the Glenn Miller Orchestra, featured in the film *Sun Valley Serenade*, with vocals by Tex Beneke. "the classic Chattanooga Chuchu featuring Tex Benikey on vocals." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **In the Mood** : Elements of this big band hit were incorporated into the orchestral arrangement of The Beatles' 1967 track "All You Need Is Love" by producer George Martin, leading to a legal issue. "Back in 1967, George Martin, a famous producer of most of the Beatles work, got nailed for using elements of Glenn Miller's big band hit in the mood for the orchestral arrangement of the Beatles track All You Need Is Love." ← https://www.youtube.com/watch?v=fS8V3kYXT6w ← glenn-miller ← glenn-miller
+**I've Got a Gal in Kalamazoo (from Orchestra Wives)** : This was a chart-topping soundtrack hit by the Glenn Miller Orchestra, featured in the film *Orchestra Wives*, which Glenn Miller himself co-starred in. "I've got a gal in Kalamazoo from Orchestra Wives, for example..." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **First Gold Record Award Recipient (1941)** : The Glenn Miller Orchestra received the first gold record award in 1941 for one of their million-plus selling records. This recognition initiated a lasting trend within the music industry of presenting awards for sales milestones. "The first gold record award went to the Glen Miller Orchestra in 1941 for this million plus seller." ← https://www.youtube.com/watch?v=gP3oQeYEvso ← glenn-miller-orchestra

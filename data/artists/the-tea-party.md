@@ -35,5 +35,5 @@
 **Stuart Chatwood's Video Game Soundtrack Work** : Bassist and keyboardist Stuart Chatwood became a prominent producer of music for video games, composing soundtracks for eight *Prince of Persia* games for Ubisoft, which collectively sold 10 million copies, as well as the soundtrack for *Darkest Dungeon*. This showcases his significant contributions to the gaming industry. "Basin keyboard player Stuart Chatwood is a producer of music for video games he did the soundtracks for eight prince of Persia games for Ubisoft which collectively have sold 10 million copies and he did the soundtrack for another game called Darkest Dungeon." ← https://www.youtube.com/watch?v=22SSwvfRMVg ← the-tea-party ← the-tea-party
 
 ## lists
-**"Splendor Solis" (1993) — Sputnikmusic Best Albums 1993** : #148, 3.92 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
-**"Transmission" (1997) — Sputnikmusic Best Albums 1997** : #49, 4.13 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
+**"Splendor Solis" (1993) — Sputnikmusic Best Albums 1993** : #148, 3.92 Sputnik.
+**"Transmission" (1997) — Sputnikmusic Best Albums 1997** : #49, 4.13 Sputnik.

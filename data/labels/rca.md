@@ -82,3 +82,4 @@
 - Wu-Tang Clan
 - Hootie & the Blowfish
 - John Denver
+- Sam Cook

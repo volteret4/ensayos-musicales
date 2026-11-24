@@ -5,6 +5,7 @@
 
 ## curiosities
 **Spector's Contribution to "You've Lost That Lovin' Feeling"** : Barry Mann asserted that Phil Spector contributed the middle section to the song "You've Lost That Lovin' Feeling." This statement highlights a specific, and potentially more substantial, songwriting contribution by Spector than some of his other co-writers often acknowledged. "For example, Barry Mann has said that Specter came up with the middle section for you've lost that loving feeling." ← Episode 110： ＂Be My Baby＂ by the Ronettes | https://www.youtube.com/watch?v=4BmEQRvAHAY
+**Songwriting Team** : Barry Mann was part of the classic "grill building songwriting team" with Cynthia Weil, who penned Dolly Parton's 1977 hit "Here You Come Again." "This one was penned by the classic grill building songwriting team of Barry Man and Cynthia Y." ← Hit Parade Music History and Music Trivia > Taylor’s Version of Country, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Who Put the Bomp" — Billboard Year-End Hot 100** : #32, 1961. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

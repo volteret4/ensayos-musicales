@@ -1,5 +1,8 @@
 # artist - Sean Penn
 
+## member of
+- Madonna Louise Ciccone
+
 ## curiosities
 **Marriage to Madonna (August 1985)** : Sean Penn married Madonna in August 1985 in Malibu, an event that garnered significant tabloid attention and was described as a "circus" due to the presence of helicopters overhead. "One other thing that happened to Madonna in her crazy 1985, she married actor Sean Penn." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef10c30a1408dc291b9
 **Starring in "At Close Range" (1986)** : Penn starred in the movie "At Close Range," co-starring Christopher Walken, from which Madonna's dramatic torch song "Live to Tell" was taken for the soundtrack. The film was not a major box office success. "A dramatic torch song taken from the soundtrack to a movie starring Sean Penn. The movie, co-starring Christopher Walken, was called At Close Range." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef10c30a1408dc291b9

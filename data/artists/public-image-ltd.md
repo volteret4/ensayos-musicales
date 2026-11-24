@@ -80,8 +80,8 @@
 ## lists
 **"First Issue" (1978) — 1001 Albums You Must Hear Before You Die** : #405.
 **"Metal Box" (1979) — 1001 Albums You Must Hear Before You Die** : #447, 93 AOTY.
-**"Metal Box" (1979) — AOTY Must Hear 1970s** : #3, 93 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Metal Box" (1979) — Scaruffi 1970s** : #64, 93 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"First Issue" (1978) — Scaruffi 1970s** : #460. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Flowers of Romance" (1981) — Scaruffi 1980s** : #89, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Metal Box" (1979) — Pitchfork: The 200 Best Albums of the 1980s** : #104, 93 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"Metal Box" (1979) — AOTY Must Hear 1970s** : #3, 93 AOTY.
+**"Metal Box" (1979) — Scaruffi 1970s** : #64, 93 AOTY.
+**"First Issue" (1978) — Scaruffi 1970s** : #460.
+**"Flowers of Romance" (1981) — Scaruffi 1980s** : #89, 8.0/10 Scaruffi.
+**"Metal Box" (1979) — Pitchfork: The 200 Best Albums of the 1980s** : #104, 93 AOTY.

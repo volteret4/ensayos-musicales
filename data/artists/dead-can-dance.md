@@ -7,10 +7,10 @@
 **16th Century Sound** : This band had a unique sound, described as if they were recording in the 1500s or 16th century, making them exceptionally "Gothic." "a group that sounded like they were right out of the 16th century." ← https://www.youtube.com/watch?v=evlGhfUe6QQ ← dead-condense
 
 ## lists
-**"Within the Realm of a Dying Sun" (1987) — AOTY Must Hear 1980s** : #51, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Spleen And Ideal" (1985) — Scaruffi 1980s** : #38, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Dead Can Dance" (1984) — Scaruffi 1980s** : #356, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Serpent's Egg" (1988) — Scaruffi 1980s** : #357, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Garden Of The Arcane Delights" (1984) — Scaruffi 1980s** : #854, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Aion" (1990) — Sputnikmusic Best Albums 1990** : #142, 3.88 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"Into the Labyrinth" (1993) — Sputnikmusic Best Albums 1993** : #120, 3.98 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
+**"Within the Realm of a Dying Sun" (1987) — AOTY Must Hear 1980s** : #51, 80 AOTY.
+**"Spleen And Ideal" (1985) — Scaruffi 1980s** : #38, 8.0/10 Scaruffi.
+**"Dead Can Dance" (1984) — Scaruffi 1980s** : #356, 7.0/10 Scaruffi.
+**"The Serpent's Egg" (1988) — Scaruffi 1980s** : #357, 7.0/10 Scaruffi.
+**"Garden Of The Arcane Delights" (1984) — Scaruffi 1980s** : #854, 7.0/10 Scaruffi.
+**"Aion" (1990) — Sputnikmusic Best Albums 1990** : #142, 3.88 Sputnik.
+**"Into the Labyrinth" (1993) — Sputnikmusic Best Albums 1993** : #120, 3.98 Sputnik.

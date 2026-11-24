@@ -77,4 +77,4 @@
 **Fellow of the American Academy of Arts and Sciences (2022)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q52382875
 
 ## lists
-**"Illuminations" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #66. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Illuminations" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #66.

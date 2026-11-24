@@ -24,4 +24,4 @@
 **Formation and Evolution** : Fear was formed in 1977 and continues to exist. The band started as basic punks but evolved to form the foundations of California hardcore punk, a genre deeply intertwined with the origins of moshing. "Fear was formed in 1977, still exists today, and at one point they featured a bass player named Flea." ← https://www.youtube.com/watch?v=KMx4bmq8o2Y ← fear
 
 ## lists
-**"Record" (1982) — Scaruffi 1980s** : #47, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Record" (1982) — Scaruffi 1980s** : #47, 8.0/10 Scaruffi.

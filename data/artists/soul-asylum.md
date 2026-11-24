@@ -24,5 +24,5 @@
 **"Misery" — Billboard Year-End Hot 100** : #99, 1995. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Hang Time" (1988) — Scaruffi 1980s** : #722, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Made To Be Broken" (1986) — Scaruffi 1980s** : #723, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Hang Time" (1988) — Scaruffi 1980s** : #722, 7.0/10 Scaruffi.
+**"Made To Be Broken" (1986) — Scaruffi 1980s** : #723, 7.0/10 Scaruffi.

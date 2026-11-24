@@ -25,4 +25,4 @@
 **Spasm Band Definition** : In the context of outsider music, a "Spasm band" is defined as a group that primarily uses homemade instruments and relies heavily on improvisation, with no need for coordination or being in tune. "In the world of outside of music, a Spasm band is a group that uses mostly homemade instruments." ← https://www.youtube.com/watch?v=HcK4M7-02ik ← nihilist-spasm-band
 
 ## lists
-**"No Record" (1968) — Scaruffi 1960s** : #175, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"No Record" (1968) — Scaruffi 1960s** : #175, 7.0/10 Scaruffi.

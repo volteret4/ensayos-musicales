@@ -73,6 +73,15 @@
 **Stuart Copeland's Reputation (1977)** : By 1977, after playing with Curved Air for two albums, Stuart Copeland had established a reputation as a "gregarious drummer of both power and detail," impressing Sting with his skills. "As for Stuart, by 1977, he had been playing with Curved Air for two albums and earned a reputation as a gregarious drummer of both power and detail. Sting was impressed with him right away." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
 **Bernard Purdy on Amazing Grace (1972)** : Drummer Bernard Purdy was among the rock accompanists Aretha Franklin invited to play on her *Amazing Grace* live recording sessions, contributing to the blend of genres. "and drummer Bernard Purdy" ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
 **Narada Michael Walden's Background** : Narada Michael Walden is identified as a "big drummer," indicating his instrumental proficiency and role in music production. "I'm the big drummer, vocalist, songwriter and producer, Narada Michael Walden" ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Hal Blaine's Signature Beat** : Hal Blaine, a drummer for The Wrecking Crew, created the distinctive "thump, thump, thump" beat at the opening of The Ronettes' "Be My Baby," which is considered "quite possibly the most imitated five seconds in all of pop." "led off by a thump, thump, thump, beat by wrecking crew drummer Hal Blaine, which is quite possibly the most imitated five seconds in all of pop." ← Hit Parade Music History and Music Trivia > Be My Baby-Baby-Baby Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Ashley's Roach Clip" Drum Break** : The drum break from The Soul Searchers' 1974 instrumental "Ashley's Roach clip" became a "formative beat in rap history." It was sampled on dozens of hip hop classics by Golden Age rappers and was a key element in hits by Millie Vanille, used prominently in songs like "Girl You Know It's True" and "Baby Don't Forget My Number." "The Ashley's Roach clip drum break is a formative beat in rap history." ← Hit Parade Music History and Music Trivia > Blame It on the Feign, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Dave Grohl's Saturday Night Live Performance (1994)** : Dave Grohl was invited by Tom Petty to "man the kit" (play the drums) for a performance of "Honey Bee" on Saturday Night Live in November 1994. "invited drummer Dave Grohl to man the kit." ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Brushed Drums in Revised "Shop Around"** : For the overnight rearrangement of "Shop Around" in late 1960, Barry Gordy ordered "brushed drums" to achieve a pepier sound. "It should be pepier with big sonics, a heavier bass line, and brushed drums." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Thundering Drones in "Maps"** : The Yeah Yeah Yeahs' "Maps" featured "thundering drones" as part of its unique, art-damaged ballad sound, alongside jagged guitars. "With its romantic lyrics sung gently by Karen O, combined with jagged guitars and thundering drones, Maps was the ultimate hybrid song of early Aughts in the Rock." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Phil Collins' Health-Related Retirement (early 2010s)** : In the early 2010s, Phil Collins was compelled to stop playing the drums due to a spinal operation, nerve damage, and years of bone degradation. "entering his 60s, he was compelled to stop playing the drums, citing a spinal operation, nerve damage, and years of bone degradation." ← Hit Parade Music History and Music Trivia > The Invisible Miracle Sledgehammer Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Phil Collins' Son as Tour Drummer (2017-2019)** : On recent dates of Phil Collins' "Not Dead Yet" tour, his son Nick Collins has taken over drumming duties, as Phil performs seated due to his health issues. "leaving the drumming to others, including on recent dates his son Nick Collins." ← Hit Parade Music History and Music Trivia > The Invisible Miracle Sledgehammer Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Stayin' Alive" Backing Track** : Producer Alby Galuten created the consistent and unwavering backing track of the Bee Gees' "Stayin' Alive" by borrowing and looping a drum segment from the already recorded "Night Fever." "producer Albe Galutin actually created a backing track from a drum segment he borrowed and looped from the already recorded Night Fever." ← Hit Parade Music History and Music Trivia > The Nights on Broadway Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Tony Thompson's "Four on the Floor" Beat** : Tony Thompson, an "ace session player" and Sheik's drummer, was renowned for his precise and relentless "four on the floor beat." This rhythmic foundation was expertly executed on tracks like "Everybody Dance," where Thompson "nailed" the beat, contributing significantly to Sheik's signature dance-oriented sound. "a relentless four on the floor beat that Tony Thompson nailed" ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - AJ Tomanello
@@ -234,3 +243,15 @@
 - Omar Hakim
 - Bernard Purdy
 - Narada Michael Walden
+- The Beatles
+- Timbaland
+- Billy Joel
+- Jimmy Marinos
+- The B-52s
+- Stevie Wonder
+- Hanson
+- The E Street Band
+- Mike Hughes
+- Soko Richardson
+- Nick Collins
+- Max Weinberg

@@ -5,6 +5,7 @@
 
 ## genres
 - Alternative Rock
+- American Style Punk Rock
 - Hardcore
 - Indie Rock
 - Pop
@@ -19,6 +20,7 @@
 
 ## albums
 **For Sale: Live at Maxwell's 1986 (2017)** : This is the official release of what is widely considered the most famous bootleg by The Replacements, and one of the most renowned rock bootlegs of the 1980s. "posiblemente sea el bootleg más famoso de Replacement, es uno de los bootlegs, yo creo que más famosos del rock de los 80 que tenemos y finalmente sale su edición oficial." ← Music Radar Clan > Lanzamientos de Octubre 2017 | https://www.youtube.com/watch?v=q1_bxi16osQ&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Hootenanny (1983)** : This album was listed as an option in a trivia question about influential alternative rock albums of 1983. "The Replacements, Houghton Annie." ← Hit Parade Music History and Music Trivia > Music Trivia - The MTV and Alt-Rock Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 **Sorry Ma, Forgot to Take Out the Trash (1981)** : This album represents The Replacements' early hardcore sound, capturing their initial style which was heavily influenced by punk rock pioneers. It marked their debut and showcased their roots before they evolved into a more melodic power pop band. "This is from their early days and their debut album, Sorry Ma, Forgot to Take Out the Trash." ← https://www.youtube.com/watch?v=0qigzi1j81U ← the-replacements
 
 ## songs
@@ -42,6 +44,7 @@
 **Reunion for Touring** : The Replacements were one of many bands from past decades that reunited in the 21st century, a trend largely motivated by financial incentives. With declining CD sales impacting artist revenues, returning to the touring circuit offered a lucrative way to appeal to nostalgic fan bases and fill large venues. "The list of reunions is long." ← https://www.youtube.com/watch?v=GYUuTbOvyak ← the-replacements
 **Sex Pistols Influence** : The Replacements, forming in a Minneapolis basement, honored their heroes, the Sex Pistols. They quickly became known for their unpredictable, high-energy performances in local clubs. "In honor of their heroes, the sex pistols, the replacements quickly became known for their unpredictable high-energy sets of clubs around town." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← the-replacements ← the-replacements
 **Cassette Circulation in Seattle** : The Replacements were among the indie punk bands whose music gained traction in Seattle through homemade cassette tapes circulated among local musicians and fans in the mid-1980s, influencing the developing grunge scene. "They featured indie punk bands from other parts of the country, Dead Kennedys, Huskadoo, Replacements, and of course Sonic Youth." ← https://www.youtube.com/watch?v=xdn31jMOOA4 ← replacements
+**Influence on The Goo Goo Dolls** : The Replacements were cited as an influence on The Goo Goo Dolls' sound during their first decade, where they were known for "bashing out American style punk rock." "whose sound was indebted to the replacements." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Grammy Award for Best Alternative Music Album (1990) — All Shook Down** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1542129
@@ -50,12 +53,12 @@
 
 ## lists
 **"Let It Be" (1984) — 1001 Albums You Must Hear Before You Die** : #537, 100 AOTY.
-**"Tim" (1985) — AOTY Must Hear 1980s** : #88, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Let It Be" (1984) — AOTY Must Hear 1980s** : #101, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Let It Be" (1984) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #156, 100 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Let It Be" (1984) — Scaruffi 1980s** : #92, 100 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Tim" (1985) — Scaruffi 1980s** : #93, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Hootenanny" (1983) — Scaruffi 1980s** : #669, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Pleased To Meet Me" (1987) — Scaruffi 1980s** : #670, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Let It Be" (1984) — Pitchfork: The 200 Best Albums of the 1980s** : #35, 100 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
-**"Tim" (1985) — Pitchfork: The 200 Best Albums of the 1980s** : #54, 8.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"Tim" (1985) — AOTY Must Hear 1980s** : #88, 8.0/10 Scaruffi.
+**"Let It Be" (1984) — AOTY Must Hear 1980s** : #101, 100 AOTY.
+**"Let It Be" (1984) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #156, 100 AOTY.
+**"Let It Be" (1984) — Scaruffi 1980s** : #92, 100 AOTY.
+**"Tim" (1985) — Scaruffi 1980s** : #93, 8.0/10 Scaruffi.
+**"Hootenanny" (1983) — Scaruffi 1980s** : #669, 7.0/10 Scaruffi.
+**"Pleased To Meet Me" (1987) — Scaruffi 1980s** : #670, 7.0/10 Scaruffi.
+**"Let It Be" (1984) — Pitchfork: The 200 Best Albums of the 1980s** : #35, 100 AOTY.
+**"Tim" (1985) — Pitchfork: The 200 Best Albums of the 1980s** : #54, 8.0/10 Scaruffi.

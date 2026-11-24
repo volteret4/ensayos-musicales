@@ -17,6 +17,7 @@
 ## songs
 **Dancing With Myself (1980)** : This song shares melodic similarities with The Strokes' 2020 single "Bad Decisions." Due to these resemblances, Billy Idol and Tony James, members of Generation X, received songwriting credits on "Bad Decisions." "Billy Eidle and Tony James of Generation X got songwriting credits because of the melodic similarities to the song Dancing With Myself." ← https://www.youtube.com/watch?v=jEfofyobGiI ← generation-x
 **Dancing With Myself (1980)** : This original "dancing, poppy punk song" was released in the fall of 1980 by Generation X, which was known as Gen X at the time. Its primary songwriter and performer was William Broad, who later became Billy Idol. "original version of Dancing with Myself, Billy Idol did it first when he was part of Generation X, although they were known as Gen X by the time that song came out in the fall of 1980." ← https://www.youtube.com/watch?v=tZV1lz-obQE ← generation-x
+**Dancing With Myself (1980)** : This song originated as a Generation X track before Billy Idol remixed and re-released it as a solo single. "Dancing with myself, a 1980 Generation X song that Idol remixed and re-released as a solo single in 1981 didn't make the Billboard charts that year at all." ← Hit Parade Music History and Music Trivia > At Last, My Legacy Has Come Along Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Billy Idol Witnesses The Ramones (July 4, 1976)** : A "very young Billy Isle" (Idol), then part of Generation X, was present at The Ramones' influential gig at the Roundhouse in London on July 4, 1976. He was among the many future British punk figures who were "transformed by what they saw and heard." "Generation X featuring a very young Billy Isle. They were all at these gigs and they were all transformed by what they saw and heard." ← https://www.youtube.com/watch?v=huAvyInzz3Q ← generation-x
@@ -24,4 +25,4 @@
 **Recording at Wessex Studios** : Generation X recorded at Wessex Studios, an old church hall in North London that attracted many punk and post-punk bands for its distinctive live sound. "A lot of punk bands and post punk bands, like using the place, the clash and the damned and suzy and the banshees and the pretenders and the specials and generation X and the sex pistols." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← generation-x ← generation-x
 
 ## lists
-**"Generation X" (1978) — Scaruffi 1970s** : #300, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Generation X" (1978) — Scaruffi 1970s** : #300, 7.0/10 Scaruffi.

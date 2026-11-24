@@ -46,7 +46,7 @@
 
 ## lists
 **"John Prine" (1971) — 1001 Albums You Must Hear Before You Die** : #236, 7.0/10 Scaruffi.
-**"John Prine" (1971) — AOTY Must Hear 1970s** : #199, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"John Prine" (1971) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #149, 7.0/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"John Prine" (1971) — Scaruffi 1970s** : #362, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Missing Years" (1991) — Sputnikmusic Best Albums 1991** : #11, 4.29 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
+**"John Prine" (1971) — AOTY Must Hear 1970s** : #199, 7.0/10 Scaruffi.
+**"John Prine" (1971) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #149, 7.0/10 Scaruffi.
+**"John Prine" (1971) — Scaruffi 1970s** : #362, 7.0/10 Scaruffi.
+**"The Missing Years" (1991) — Sputnikmusic Best Albums 1991** : #11, 4.29 Sputnik.

@@ -20,6 +20,7 @@
 - Indie Rock
 - Jazz
 - metal
+- Nouveau Punk
 - Psychedelic
 - Rock
 - Swing
@@ -99,6 +100,7 @@
 **Zeitgeist (2007)** : This album featured Billy Corgan and Jimmy Chamberlain, along with "random" people appearing in the lineup. From this point onwards, it became unclear to many who was officially part of The Smashing Pumpkins. "luego de repente aparecía el album say hast que también hacían Billikon en Jimmy Chamberlain con gente rando que iba apareciendo yo creo a partir de ahí ya nadie sabe quién es están dentro del mas in pankies ya es como gente rando que va entrando y saliendo." ← Music Radar Clan > Vuelven los Smashing Pumpkins... mas o menos | https://www.youtube.com/watch?v=raLN43FYo3k&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-smashing-pumpkins ← the-smashing-pumpkins
 
 ## songs
+**1979** : This new hit by The Smashing Pumpkins was released as a traditional single in the mid-90s and reached the Top 40, after frontmen like Billy Corgan began insisting on singles releases. "And new hits like Pearl Jam's Spin the Black Circle and the pumpkins 1979 were released as traditional singles and even hit the top 40." ← Hit Parade Music History and Music Trivia > Hit Parade - The Great War Against the Single Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 **Ava Adore (1997)** : This song is from the album *Adore*, which many fans consider the "dividing line" for the band's sound. "And that's Ava Adore from the 1997 album Adore." ← https://www.youtube.com/watch?v=UH3n1oQSOc0 ← smashing-pumpkins ← smashing-pumpkins
 **Bullet with Butterfly Wings (1995)** : This was a big single from the 1995 concept album *Mellon Collie and the Infinite Sadness*. The lyrics of the song are said to embody the frustrations of a teenager railing against the world. "The smashing pumpkins and bullet with butterfly wings, a big single from their 1995 album Melon Collie and the Infinite Sadness, which is, yes, a concept record." ← https://www.youtube.com/watch?v=Dm5N6yDRxXQ ← the-smashing-pumpkins
 **Bullet with Butterfly Wings (1995)** : This song is based on a popular four-chord progression (E, B, C#, A) but is played in the key of B flat, demonstrating how common musical structures can be adapted with different keys. "all these songs are constructed around those chords." ← https://www.youtube.com/watch?v=fS8V3kYXT6w ← the-smashing-pumpkins ← the-smashing-pumpkins
@@ -232,6 +234,7 @@
 **Chicago-Based** : The Smashing Pumpkins were identified as a Chicago-based band, distinguishing them from the Seattle-centric grunge movement, despite their shared musical sensibility. "Chicago-based smashing pumpkins led by Cantankerus mastermind Billy Corgan." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 **Disavowed Grunge Association** : Billy Corgan "largely disavowed any association with Grunge," even though the band appeared on the "Singles" soundtrack and their music was characterized as "plenty grungy." "Though Billy Corgan largely disavowed any association with Grunge, the pumpkins did appear on singles and their music was plenty grungy." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 **Grunge as Sensibility** : The success of The Smashing Pumpkins, a non-Seattle band with a grungy sound, reinforced the idea that Grunge was "a sensibility as much as a scene." This allowed "Grunge adjacent" bands from various locations to achieve chart dominance in 1992-93. "What the smashing pumpkins success reinforced was that Grunge was a sensibility as much as a scene." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**No Commercial Singles (1991-1994)** : The Smashing Pumpkins, along with other leading Grunge and Nouveau Punk acts, released no commercial singles in America from 1991 to 1994. "Counting crows to smashing pumpkins." ← Hit Parade Music History and Music Trivia > Hit Parade - The Great War Against the Single Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **MTV Video Music Award for Best Visual Effects (1996)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q372123
@@ -244,14 +247,14 @@
 ## lists
 **"Siamese Dream" (1993) — 1001 Albums You Must Hear Before You Die** : #735, 7.5/10 Scaruffi.
 **"Mellon Collie and the Infinite Sadness" (1995) — 1001 Albums You Must Hear Before You Die** : #790, 76 AOTY.
-**"Adore" (1998) — AOTY Must Hear 1990s** : #76, 69 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Mellon Collie and the Infinite Sadness" (1995) — AOTY Must Hear 1990s** : #218, 76 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Siamese Dream" (1993) — AOTY Must Hear 1990s** : #333, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Siamese Dream [Deluxe Edition]" (2011) — AOTY Must Hear 2010s** : #806, 91 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Siamese Dream" (1993) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #341, 7.5/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Siamese Dream" (1993) — Scaruffi 1990s** : #314, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Mellon Collie and the Infinite Sadness" (1995) — Scaruffi 1990s** : #1172, 76 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Mellon Collie and the Infinite Sadness" (1995) — Grammy Award: Album of the Year nominees** : #1997, 76 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Siamese Dream" (1993) — Pitchfork: The 150 Best Albums of the 1990s** : #98, 7.5/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Gish" (1991) — Sputnikmusic Best Albums 1991** : #179, 3.82 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"Siamese Dream" (1993) — Sputnikmusic Best Albums 1993** : #2, 7.5/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
+**"Adore" (1998) — AOTY Must Hear 1990s** : #76, 69 AOTY.
+**"Mellon Collie and the Infinite Sadness" (1995) — AOTY Must Hear 1990s** : #218, 76 AOTY.
+**"Siamese Dream" (1993) — AOTY Must Hear 1990s** : #333, 7.5/10 Scaruffi.
+**"Siamese Dream [Deluxe Edition]" (2011) — AOTY Must Hear 2010s** : #806, 91 AOTY.
+**"Siamese Dream" (1993) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #341, 7.5/10 Scaruffi.
+**"Siamese Dream" (1993) — Scaruffi 1990s** : #314, 7.5/10 Scaruffi.
+**"Mellon Collie and the Infinite Sadness" (1995) — Scaruffi 1990s** : #1172, 76 AOTY.
+**"Mellon Collie and the Infinite Sadness" (1995) — Grammy Award: Album of the Year nominees** : #1997, 76 AOTY.
+**"Siamese Dream" (1993) — Pitchfork: The 150 Best Albums of the 1990s** : #98, 7.5/10 Scaruffi.
+**"Gish" (1991) — Sputnikmusic Best Albums 1991** : #179, 3.82 Sputnik.
+**"Siamese Dream" (1993) — Sputnikmusic Best Albums 1993** : #2, 7.5/10 Scaruffi.

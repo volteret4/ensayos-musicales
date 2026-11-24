@@ -10,4 +10,4 @@
 - Merle Haggard
 - Wanda Jackson
 - Wynn Stewart
-
+- Garth Brooks

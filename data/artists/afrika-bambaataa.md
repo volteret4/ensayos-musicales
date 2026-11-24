@@ -4,6 +4,7 @@
 - Breakbeat dancing
 - Electro
 - Electro-funk
+- Electro-rap
 - Garage
 - Hip Hop
 - House
@@ -19,6 +20,8 @@
 ## songs
 **Planet Rock (1982)** : This track, released by New York DJ and MC Afrika Bambaataa, is considered "Ground Zero" for a multitude of electronic dance music genres, including house, electro, garage, and Miami bass. It also had a profound impact on the future of hip hop, notably featuring a sample from Kraftwerk's "Trans-Europe Express." "In 1982, a New York DJ and MC named Africa Bumbata released a track called Planet Rock. And this one song became Ground Zero, the source of everything from house to electro, garage and Miami bass." ← https://www.youtube.com/watch?v=OiqdZfxdBP0 ← afrika-bambaataa
 **Planet Rock (1982)** : In the Bronx, Afrika Bambaataa combined a Roland TR-808 drum machine with evocative melodies from Kraftwerk's "Trans-Europe Express" to create "Planet Rock." This track is recognized as a foundational piece of electro music and a pillar of hip-hop. "África van batada a la Báser en Ambers, a una Roll-Anterrey 808, y le metió las evocadoras melodías de transduropexpress para crear Planet Rock, el tema afundacional del electro, ya sabéis, uno de los pilares del gig-hop." ← Por qué KRAFTWERK es la banda más influyente de la historia？ | https://www.youtube.com/watch?v=wWOBez9Cqhs
+**Planet Rock (1982)** : This first-wave hip hop track was influenced by Kraftwerk's distinctive sound, specifically by Afrika Bambaataa incorporating Kraftwerk's music into his creative record. "Or for that matter, first wave hip hop, like Africa Bombadas Planet Rock." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Planet Rock (1982)** : This pioneering 1982 electro-rap smash was a groundbreaking transformation of a sample from Kraftwerk's 1977 track "Trans-Europe Express." It demonstrated hip-hop's capacity to voraciously absorb and reinvent diverse influences to craft its unique identity. "Or consider Africa Bombada, who took a sample from 1977's Trans-Europe Express by German Electronic Crout Lockers Craftvirt. And utterly transformed it into the pioneering 1982 electro-rapped smash planet rock." ← Hit Parade Music History and Music Trivia > Hit Parade - The Def Jams Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Early Hip Hop DJ** : Africa Bambaataa is mentioned as one of the first great, complex, professional DJs to emerge from the tornabilismo culture, defining the way to use turntables. "desde los DJs que definen la manera de usar los platos como africa bambata." ← Music Radar Clan > HISTORIA Y EVOLUCIÓN DEL DJ | https://www.youtube.com/watch?v=VtfJyysUI7A&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← africa-bambaataa ← africa-bambaataa
@@ -28,7 +31,8 @@
 **Instrumental Development** : Afrika Bambaataa's mixtapes, songs, and instrumental work, vital for defining music in the United States, incorporated significant influences from artists like Cerrone and Giorgio Moroder, thereby introducing these "minority influences" to the US. "toda la parte instrumental que desarrolló africa van bata que fue importantísima para definir la música en estados unidos tenía importantísimas influencias de gente como cerrone o que incluso como yorio modorier." ← Music Radar Clan > De KRAFTWERK al TECHNO. Cómo se sentaron las bases del Techno | https://www.youtube.com/watch?v=MIG5FWLHOL4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← afrika-bambaataa ← afrika-bambaataa
 **Intellectual Father of Hip Hop** : Afrika Bambaataa is recognized as one of the absolute intellectual fathers of the birth of Hip Hop music, significantly shaping its early development. "Este hombre que es uno de los padres absolutos padres intelectuales del nacimiento de la música hip hop." ← Music Radar Clan > De KRAFTWERK al TECHNO. Cómo se sentaron las bases del Techno | https://www.youtube.com/watch?v=MIG5FWLHOL4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← afrika-bambaataa ← afrika-bambaataa
 **Pioneer of Electro and Hip Hop** : Afrika Bambaataa's creation of "Planet Rock" in the Bronx, by blending Kraftwerk's melodies with a Roland TR-808, established him as a pioneer of electro and a key figure in the development of hip-hop. "el tema afundacional del electro, ya sabéis, uno de los pilares del gig-hop." ← Por qué KRAFTWERK es la banda más influyente de la historia？ | https://www.youtube.com/watch?v=wWOBez9Cqhs
+**Kraftwerk Influence** : Afrika Bambaataa's "Planet Rock" was directly influenced by Kraftwerk, with Bambaataa reportedly "reaching into a creative record and found craft work," thereby introducing millions of hip-hop fans, including Pharrell Williams, to Kraftwerk's infectious beats. "When Africa Bombada reached into a creative record and found craft work, that's when millions of hip hop fans around the world included myself, heard craft work's infectious beats for the very first time." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Planet Rock: The Album" (1986) — 1001 Albums You Must Hear Before You Die** : #564.
-**"Beware" (1986) — Scaruffi 1980s** : #118, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Beware" (1986) — Scaruffi 1980s** : #118, 7.5/10 Scaruffi.

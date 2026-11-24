@@ -17,8 +17,8 @@
 **Shoegaze Band Example** : Curve was mentioned as an example of a Shoegaze band, a style known for its performers' habit of avoiding audience contact by staring at the floor, which gave the genre its name. "There were bands like Slow Dive, Chapter House, Curve, Lush, My Bloody Valentine, Adorable, The Catherine Wheel." ← https://www.youtube.com/watch?v=amHre9ZZFkU ← curve
 
 ## lists
-**"Doppelganger" (1992) — Scaruffi 1990s** : #562, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Pubic Fruit" (1992) — Pitchfork: The 50 Best Shoegaze Albums of All Time** : #19. ← musicbrainz | https://beta.musicbrainz.org/series/cd0eaf20-0895-4745-aefe-2c5e00084827
-**"Doppelganger" (1992) — Pitchfork: The 50 Best Shoegaze Albums of All Time** : #40, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/cd0eaf20-0895-4745-aefe-2c5e00084827
-**"Doppelganger" (1992) — Sputnikmusic Best Albums 1992** : #152, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"Cuckoo" (1993) — Sputnikmusic Best Albums 1993** : #68, 4.1 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
+**"Doppelganger" (1992) — Scaruffi 1990s** : #562, 7.0/10 Scaruffi.
+**"Pubic Fruit" (1992) — Pitchfork: The 50 Best Shoegaze Albums of All Time** : #19.
+**"Doppelganger" (1992) — Pitchfork: The 50 Best Shoegaze Albums of All Time** : #40, 7.0/10 Scaruffi.
+**"Doppelganger" (1992) — Sputnikmusic Best Albums 1992** : #152, 7.0/10 Scaruffi.
+**"Cuckoo" (1993) — Sputnikmusic Best Albums 1993** : #68, 4.1 Sputnik.

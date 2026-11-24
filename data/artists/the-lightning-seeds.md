@@ -3,11 +3,15 @@
 ## members
 - Ian Broudie
 
+## genres
+- Indie Pop
+
 ## albums
 **Cloud Cuckoo Land** : The first album by The Lightning Seeds, from which their single "Pure" was released. "The album is called Cloud Cuckoo Land." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M ← the-lightning-seeds
 
 ## songs
 **Pure** : The first single ever released by Ian Broudie and The Lightning Seeds. It was one of only two songs by the band to cut through in North America, and the only one to endure over decades. It made it into the Billboard Top 40, fulfilling the standard definition of a one-hit wonder in North America. "The track from The Lightning Seeds is called Pure." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M ← the-lightning-seeds
+**(Unknown Title) (1996)** : Susanna Hoffs covered a song by this British indie pop band on her self-titled 1996 album, a sound described as "much closer to Susanna's heart." "It featured a cover of a song by British indie pop band, The Lightning Seeds, a sound much closer to Susanna's heart." ← Hit Parade Music History and Music Trivia > Be the One to Walk in the Sun, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Formation and Early Projects** : The Lightning Seeds were formed in Liverpool in 1989 by local music veteran Ian Broudie, initially as a studio project for their first two albums. "They were formed in Liverpool in 1989 by a local music vet named Ian Brody. It was originally just a studio project, and it was, for the first two albums." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M ← the-lightning-seeds

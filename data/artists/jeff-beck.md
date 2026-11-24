@@ -1,6 +1,7 @@
 # artist - Jeff Beck
 
 ## member of
+- Jeff Beck Group
 - The Yardbirds
 
 ## genres
@@ -26,7 +27,10 @@
 **Innovative Guitar Experimentation in The Jarpers** : Jet Beck replaced Eric Clapton in The Jarpers and spent nearly two years with the band, during which he began incredible experimentation with the guitar. He reinterpreted the way the guitar was played, not necessarily through virtuosity alone, but by being possibly the least orthodox guitarist of the early 60s. "Ahí empezaría a trabajar todo ese trabajo increíble de experimentación que tuvo Jet Beck con la guitarra en los casi dos años que estuvo Jet Beck en los Jarverts reinterpretaría casi la manera de tocar la guitarra." ← Music Radar Clan > The Yardbirds, una banda clave para entender la historia de la música | https://www.youtube.com/watch?v=dCGrHEAqPC0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jet-beck
 **Pioneer of Guitar Effects** : Jet Beck was a pioneer in introducing new sounds and techniques to the electric guitar. He introduced reverberation, the hammer-on technique, deep distortions, and innovative microphone placements that created "contamination" with speakers and amplifiers, revolutionizing guitar playing. "Jet Beck no se introduce a los anidos de la reverberación del hammeron de las distorsiones profundas de la colocación de todos esos micrófonos que llegan a hacer como contaminación con los altavoces y con los amplificadores." ← Music Radar Clan > The Yardbirds, una banda clave para entender la historia de la música | https://www.youtube.com/watch?v=dCGrHEAqPC0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jet-beck
 **Visionary Guitarist** : Jet Beck is considered one of the great early visionaries of the guitar, often placed alongside Jimmy Hendrix for his profound impact on the instrument. After leaving The Jarpers, he went on to form his own band. "Teníamos a grandísimo Jet Beck que posiblemente uno de los grandes visionarios primeros de la guitarra junto a Jimmy Hendrix que saldría para formar su propia banda." ← Music Radar Clan > The Yardbirds, una banda clave para entender la historia de la música | https://www.youtube.com/watch?v=dCGrHEAqPC0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jet-beck
+**Guitar Wizard (1972)** : Described as a "British guitar wizard" and "former Yard Bird's Axe Man," Jeff Beck covered one of Stevie Wonder's songs on a Jeff Beck Group album in 1972, which led to their friendship. "Stevie Wonder befriended guitarist Jeff Beck in 1972, when the former Yard Bird's Axe Man covered one of Stevie's songs on a Jeff Beck group album." ← Hit Parade Music History and Music Trivia > The Everybody Say YEAH! Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Collaborated on "Superstition" (1972)** : Beck spent several days in the studio during the recording of Wonder's "Talking Book" album. As thanks for his participation, Stevie pledged to write a funk rock song for Beck to cover, originally titled "Very Superstitious." This song was first demoed by Jeff Beck and Stevie Wonder jamming together, with the intention for Jeff Beck's group to release it first. "The song that started as very superstitious was first demoed by Jeff Beck and Stevie Wonder jamming together." ← Hit Parade Music History and Music Trivia > The Everybody Say YEAH! Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rock Hall Induction (2009)** : Guitar wizard Jeff Beck was inducted into the Rock and Roll Hall of Fame in 2009. "In 2009, Guitar Wizard Jeff Beck got into the hall." ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Truth" (1968) — 1001 Albums You Must Hear Before You Die** : #128.
-**"Blow By Blow" (1975) — Scaruffi 1970s** : #346, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Blow By Blow" (1975) — Scaruffi 1970s** : #346, 7.0/10 Scaruffi.

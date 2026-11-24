@@ -92,5 +92,5 @@
 **Juno Award for Rock Album of the Year (2000) — Beautiful Midnight** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17141499
 
 ## lists
-**"Beautiful Midnight" (1999) — Juno Awards: Album of the Year** : #2001, 4.22 Sputnik. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Beautiful Midnight" (1999) — Sputnikmusic Best Albums 1999** : #31, 4.22 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1999/
+**"Beautiful Midnight" (1999) — Juno Awards: Album of the Year** : #2001, 4.22 Sputnik.
+**"Beautiful Midnight" (1999) — Sputnikmusic Best Albums 1999** : #31, 4.22 Sputnik.

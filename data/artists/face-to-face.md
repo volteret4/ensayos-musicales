@@ -8,5 +8,5 @@
 **Success Following The Offspring** : This band was discovered by fans due to The Offspring's significant success in late 1994, marking the beginning of Skate Punk's "glory years." "And this led to fans discovering bands like Goldfinger, Lagwagon, Face to Face, MXPX, and Unwritten Law." ← https://www.youtube.com/watch?v=44dXy0StjIQ ← face-to-face
 
 ## lists
-**"Don't Turn Away" (1992) — Sputnikmusic Best Albums 1992** : #60, 4.11 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"Face to Face" (1996) — Sputnikmusic Best Albums 1996** : #146, 3.99 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
+**"Don't Turn Away" (1992) — Sputnikmusic Best Albums 1992** : #60, 4.11 Sputnik.
+**"Face to Face" (1996) — Sputnikmusic Best Albums 1996** : #146, 3.99 Sputnik.

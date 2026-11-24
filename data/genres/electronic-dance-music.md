@@ -7,6 +7,8 @@
 **First Album of the Year Win (2014)** : Electronic Dance Music (EDM) secured its first Album of the Year Grammy in 2014 with Daft Punk's "Random Access Memories." The album was also noted as the "robotic French duo's most retro sounding LP," suggesting the Academy might have favored a less cutting-edge representation of the genre. "Electronic Dance Music took its first album of the Year when Draft Punk won for their final album Random Access Memories." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
 **Invention by "I Feel Love" (1977)** : The song "I Feel Love" by Donna Summer, the brainchild of Giorgio Moroder and Pete Bellotte, is generally agreed to have single-handedly invented electronic dance music through its use of an entirely synthesized backing track. "I Feel Love is generally agreed to have single-handedly invented electronic dance music." ← Hit Parade Music History and Music Trivia > The Queen of Disco Edition Part 1 (Encore) | https://shows.acast.com/hit-parade/episodes/69d92e92fdeddc4b127158d5
 **Revival of Number One Debuts** : After a period of dormancy following the "American Idol" wave, the number one debut was revived by the growth of digital music, particularly in the age of electronic dance music. Digital hits in this genre were able to "blow up big time" through downloads and later streaming, often before accumulating a significant radio audience. "In the age of electronic dance music, these digital hits blew up big time." ← Hit Parade Music History and Music Trivia > Toppermost of the Poppermost Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef60c30a1408dc29358
+**Future of British Music (mid-90s)** : Underworld's "Born Slippy" was seen as indicative of where British music was headed next, not back to Madchester's acid house but towards "harder club rhythms of techno drum and bass jungle and the catch all movement dubbed electronica." "Underworld's Born Slippy was where British music was going next not back to the acid house of Madchester but toward the harder club rhythms of techno drum and bass jungle and the catch all movement dubbed electronica." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Invention with "I Feel Love" (1977)** : Electronic Dance Music (EDM) was "invented" with the seminal single "I Feel Love," produced by Donna Summer, Georgio Moroder, and Pete Bellotte, through its pioneering use of synthesizers. "She and her producers, Georgio Maroder, and Pete Balotti even helped invent electronic dance music with the seminal single I Feel Love." ← Hit Parade Music History and Music Trivia > The Queen of Disco Edition Part 2 (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - David Bowie
@@ -15,3 +17,6 @@
 - Murial
 - Steve Aoki
 - Daft Punk
+- Underworld
+- Donna Summer
+- Sylvester

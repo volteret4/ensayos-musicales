@@ -46,10 +46,10 @@
 
 ## lists
 **"Grace" (1994) — 1001 Albums You Must Hear Before You Die** : #779, 7.0/10 Scaruffi.
-**"Sketches for My Sweetheart The Drunk" (1998) — AOTY Must Hear 1990s** : #77, 77 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Grace" (1994) — AOTY Must Hear 1990s** : #276, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Grace" (1994) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #147, 7.0/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Grace" (1994) — Scaruffi 1990s** : #795, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Grace" (1994) — Pitchfork: The 150 Best Albums of the 1990s** : #135, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Live at Sin-é" (1993) — Sputnikmusic Best Albums 1993** : #199, 3.87 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
-**"Grace" (1994) — Sputnikmusic Best Albums 1994** : #5, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
+**"Sketches for My Sweetheart The Drunk" (1998) — AOTY Must Hear 1990s** : #77, 77 AOTY.
+**"Grace" (1994) — AOTY Must Hear 1990s** : #276, 7.0/10 Scaruffi.
+**"Grace" (1994) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #147, 7.0/10 Scaruffi.
+**"Grace" (1994) — Scaruffi 1990s** : #795, 7.0/10 Scaruffi.
+**"Grace" (1994) — Pitchfork: The 150 Best Albums of the 1990s** : #135, 7.0/10 Scaruffi.
+**"Live at Sin-é" (1993) — Sputnikmusic Best Albums 1993** : #199, 3.87 Sputnik.
+**"Grace" (1994) — Sputnikmusic Best Albums 1994** : #5, 7.0/10 Scaruffi.

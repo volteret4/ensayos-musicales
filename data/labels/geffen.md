@@ -10,6 +10,7 @@
 **Sloan's First Album Remix** : Geffen Records picked up Sloan's first record (later known as "Smeared") and remixed it for distribution. This remix cost $1,200. "The first record we made, which was on Gephin, we made with the aspirations of trying to make a thousand CDs or five hundred. And then we got picked up and remixed by Gephin." ← https://www.youtube.com/watch?v=QB3nyFH_tRU ← geffen ← geffen
 **Sloan's Major Label Deal** : Geffen Records (also referred to as DGC) signed Sloan after A&R representative Todd Sullivan was captivated by their song "Underwhelmed." The signing was a rapid and exciting event for the Halifax band. "He set it to a friend of his Todd Sullivanic Geffen who loved the song underwhelmed and then came to see his play and then he was like, do you guys want to sign to Geffen?" ← https://www.youtube.com/watch?v=mbic-70ZhpE ← geffen ← geffen
 **Conflict with Sire Over Singles (1985)** : Geffen executives bickered with Sire Records over which Madonna songs from the "Vision Quest" soundtrack could be released as singles. As a result of a compromise, Geffen issued "Crazy for You" as a 45. "They compromised, and Crazy for you was issued by Geffen as a 45." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef10c30a1408dc291b9
+**Impact of Merger (1998)** : Geffen Records was swept up into the 1998 Universal Polygram merger, which subsequently led to DGC Records being folded into Interscope Records, creating a period of "record label limbo" for artist Amy Mann and her unreleased album. "when Geffen was swept up into the 1998 Universal Polygram merger." ← Hit Parade Music History and Music Trivia > Be the One to Walk in the Sun, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Sloan
@@ -17,3 +18,4 @@
 - Veruca Salt
 - Weezer
 - Madonna
+- Amy Mann

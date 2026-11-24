@@ -10,7 +10,7 @@
 **Kettering** : This track from the album *Hospice* is named after the Sloan Kettering Cancer Center in New York. The song is part of a "beautiful but gut-wrenching" concept album centered around a dying cancer patient and her male nurse. "This is a track called Kettering as in the Sloan Kettering Cancer Center in New York." ← https://www.youtube.com/watch?v=1KyNY3zv6uc ← the-antlers
 
 ## lists
-**"Hospice" (2009) — AOTY Must Hear 2000s** : #44, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Burst Apart" (2011) — AOTY Must Hear 2010s** : #845, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Hospice" (2009) — Scaruffi 2000s** : #195, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Hospice" (2009) — Sputnikmusic Best Albums 2009** : #17, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2009/
+**"Hospice" (2009) — AOTY Must Hear 2000s** : #44, 7.0/10 Scaruffi.
+**"Burst Apart" (2011) — AOTY Must Hear 2010s** : #845, 80 AOTY.
+**"Hospice" (2009) — Scaruffi 2000s** : #195, 7.0/10 Scaruffi.
+**"Hospice" (2009) — Sputnikmusic Best Albums 2009** : #17, 7.0/10 Scaruffi.

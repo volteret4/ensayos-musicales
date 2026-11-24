@@ -1,8 +1,25 @@
 # artist - David Foster
 
+## member of
+- Northern Lights
+
+## genres
+- Film Score
+- Pop
+
+## albums
+**Northern Lights (Canada) Production** : David Foster was the man behind Canada's "Northern Lights," a charity project created half a decade earlier than his involvement with "Voices that Care" in 1991. "the man behind Canada's Northern Lights a half decade earlier." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## songs
+**Love Theme from St. Elmo's Fire (1985)** : This "dewy love letter" instrumental from the Brat Pack coming-of-age film "St. Elmo's Fire" peaked at number 15 on the Hot 100 by November 1985. The film starred Rob Lowe, Demi Moore, and Judd Nelson. "David Foster's Love Theme from the Brat Pack coming of age film St. Elmo's Fire... peaked at number 15." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Love Theme from St. Elmo's Fire (Film Theme)** : This instrumental theme from the film "St. Elmo's Fire" was one of three that successfully cracked the top 20 on the Hot 100 in less than five months during the summer and fall of 1985. "And Super Producer David Foster's Love Theme from St. Elmo's Fire." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Voices that Care (1991)** : David Foster produced the charity single "Voices that Care" in 1991, which featured prominent Michael Bolton vocals and a Kenny G sax solo. This pro-troops, if not pro-war, song was created in the run-up to the Persian Gulf War, mirroring his earlier work with Canada's Northern Lights. "Most by David Foster." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **Massive Success with Celine Dion** : David Foster has achieved immense financial success, making billions, through his production work for Celine Dion. "David Foster who's made billions producing Celine Dion records also lives in Southern California." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← david-foster
 **Southern California Residency** : David Foster lives in Southern California. "David Foster who's made billions producing Celine Dion records also lives in Southern California." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← david-foster
+**Canadian Super Producer** : David Foster is identified as a Canadian Super Producer, showcasing his influence and skill in music production and composition. "Canadian Super Producer David Foster's Love Theme from the Brat Pack coming of age film St. Elmo's Fire." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Collaboration with J. Graden** : David Foster co-wrote "Morning" by Al Jarreau with J. Graden and was described as "equally yachty." Alongside J. Graden, he was involved in writing for R&B artists such as Earth, Wind & Fire around 1979-1980, which helped kick off the "yacht soul" strain of music. "Produced by Journeyman J. Graden and co-written with the equally yachty David Foster, Morning reached the top 40 fairly late in the Yacht Rock era." ← Hit Parade Music History and Music Trivia > The Bridge - Yacht Or Nyacht | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Officer of the Order of Canada** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q15278116

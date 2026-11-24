@@ -5,6 +5,7 @@
 
 ## songs
 **For Your Eyes Only (1981)** : Sheena Easton sang "For Your Eyes Only" as the title theme for the 1981 James Bond movie. This track continued the trend of mature, adult contemporary songs performed by female vocalists for the Bond franchise during the Roger Moore period. "Gina Easton with for your eyes only in 1981." ← https://www.youtube.com/watch?v=K0pgJ7XAlpo ← sheena-easton
+**Sugar Walls (1984)** : This "lebitinus double entendre" song, written by Prince, was taken to number nine on the charts by Scottish pop singer Sheena Easton in 1984. "And Scottish pop singer, Sheila E. Stim, who took Prince's Lebitinus Double Entandra Sugar Walls to number nine." ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Grammy Award for Best New Artist (1982)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q1453643
@@ -22,4 +23,4 @@
 **"The Lover in Me" — Billboard Year-End Hot 100** : #41, 1989. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"9 To 5" — John Peel's Record Box** : #88. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
+**"9 To 5" — John Peel's Record Box** : #88.

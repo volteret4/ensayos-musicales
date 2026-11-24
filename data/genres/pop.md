@@ -108,6 +108,113 @@
 **Sample-based Pop Songs** : "Fantasy" by Mariah Carey was one of the first sample-based pop songs to top the Hot 100, marking a significant moment in the genre's evolution and chart history in September 1995. This indicated a growing trend of incorporating sampling into mainstream pop music to achieve chart success. "It was one of the first sample based pop songs to top the hot 100." ← Hit Parade Music History and Music Trivia > Toppermost of the Poppermost Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef60c30a1408dc29358
 **1984 as "Pop's Greatest Year"** : Rolling Stone magazine, in September 2014, published a feature titled "100 best singles of 1984, pop's greatest year," explicitly calling 1984 the "greatest year" for pop music. The article and broader critical consensus argued that 1984 was exceptional for pop as a centralizing force where rock, R&B, dance, country, and hip hop all found a place on the radio. "Rolling Stone boldly titled the countdown 100 best singles of 1984, pop's greatest year." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
 **The High Watermark of Contemporary Hits Radio (CHR)** : The two-year period of 1983-1984 was considered by radio consultant Sean Ross and many programmers, critics, and chart fans as the "high watermark" of contemporary hits radio (CHR). This era was seen as the peak for music that appealed broadly across genres and demographics. "Ross took it as a given that this two year duopoly was the high watermark of contemporary hits radio or CHR." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fa3
+**1955 Chart Landscape** : Months before Bill Haley's "Rock Around the Clock" went to number one in 1955, the Billboard pop charts featured songs like Bill Hayes's "The Ballad of Davy Crockett." "Bill Bord's pop charts sounded more like this." ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Pop-to-Country Crossover Difficulty** : Pop acts attempting to cross over to country charts, often referred to as "carpetbaggers," typically receive a "chillier greeting" from the country establishment compared to country artists who cross into pop. Several such attempts in the 2000s by artists like Jewel, Kid Rock, and Bon Jovi failed to achieve sustained significant chart success. "But so-called carpet baggers who go from pop to country are given generally a chillier greeting." ← Hit Parade Music History and Music Trivia > A Little Love and Some Tenderness Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Modern Pop Era Ground Zero** : The Ronettes' "Be My Baby" is described by hit songwriter Rick Knowles as "ground zero for the modern pop Ira," marking a definitive shift that rendered all preceding pop music in the "rear-view mirror" and signifying the emergence of pop music as a serious American art form. "Rick Knowles later called it, quote, ground zero for the modern pop Ira, a line in the sand that left everything that came before in the rear-view mirror. It was the beginning of pop music being a serious American art form." ← Hit Parade Music History and Music Trivia > Be My Baby-Baby-Baby Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Dominance in 1986** : In the closing months of 1986, women artists who combined rock foundations with pop sensibilities, including Tina Turner, Belinda Carlisle, Carly Simon, Aretha Franklin, The Pretenders, and Eurythmics, were experiencing significant chart success. "From Tina Turner to Blinda Carlyle, Carly Simon to Aretha Franklin, the Chrissy Hindled, Pretenders to the Annie Lennox Fronted Urythmits." ← Hit Parade Music History and Music Trivia > Be the One to Walk in the Sun, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**80s Chart Overlaps (1985)** : The mid-1980s saw significant overlapping careers among rising pop acts like Cindy Lopper, The Bangles, and Amy Mann of Till Tuesday, with artists appearing in each other's videos and tours while navigating a "meddling, often sexist music industry." "We talked about the overlapping careers of rising 80s pop acts, Cindy Lopper, The Bangles, and Amy Mann of Till Tuesday." ← Hit Parade Music History and Music Trivia > Be the One to Walk in the Sun, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Sound Direction at Turn of 1990s** : The immense popularity of Millie Vanille, despite its later infamy, provided insight into the direction of pop music at the turn of the 1990s. Their success reflected a broader shift in sound, including rap-driven metamorphoses and crossover moments. "its popularity does explain something about where the sound of pop was headed at the turn of the 1990s." ← Hit Parade Music History and Music Trivia > Blame It on the Feign, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Ballad Dominance in Summer 1989** : The summer of 1989 was heavily influenced by ballads, with "syrupy number ones" from artists like New Kids on the Block and Richard Marx. This trend impacted record label strategies, such as Arista's decision to release a ballad for Millie Vanille. "The summer of 89 in particular was a wash in ballads with syrupy number ones by everyone from New Kids on the Block, two Richard marks." ← Hit Parade Music History and Music Trivia > Blame It on the Feign, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Joni Mitchell's Thumbprint on Sound (1980s)** : Joni Mitchell's distinct sound was prevalent in pop music on college radio and MTV during the 1980s. Her lasting influence was observable even a decade after the folk and singer-songwriter movements had peaked. "But you didn't have to travel all the way to the 90s to observe Joni Mitchell's thumbprint on the sound of pop." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Shift of Women-Led Acts from Alt-Rock to Pop Smash (Late 1990s)** : By 1996 and 1997, women-led acts were significantly more likely to achieve success with a "pop smash" rather than breaking through on alt-rock radio. This indicated a changing market where pop stations became the primary avenue for major hits by female artists. "By 1996 and 97, a woman led act was much likelier to break with a pop smash." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Dominance in Late 90s/Early 2000s** : Pop music, particularly "Millennial Megapop," set new sales and chart benchmarks in 1999 and 2000, representing the peak of the music business before digital downloading impacted the industry. This era saw artists like Britney Spears achieving massive success. "Millennial Megapop was setting new sales and chart benchmarks in 1999 and 2000, the peak of the music business before downloading decimated the industry." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Lilith Performers' Challenge with Pop Radio** : By the end of the 1990s, many Lilith Fair performers, particularly folk-leaning or traditional R&B artists, found themselves in a difficult position regarding radio airplay. They were considered "too mellow for TRL," the dominant pop music video show, despite their album sales. "Too light for rock radio, too mellow for TRL." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Shift in American Youth Music** : Rock and Roll replaced jazz as America's primary youth music, influencing how artists like Vince Guraldy connected with pop audiences. "pop audiences even after Rock and Roll replaced jazz as America's primary youth music." ← Hit Parade Music History and Music Trivia > Chestnut Roasters, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**1960s Top Acts** : Chart Historian Joel Whitburn ranked the top five pop acts of the 1960s based entirely on their Hot 100 performance: The Beatles (1st), Elvis Presley (2nd), Ray Charles (3rd), Brenda Lee (4th), and The Supremes (5th). "According to Chart Historian Joel Whitburn, the top five pop acts of the decade of the 1960s based entirely around Hot 100 performance were as follows." ← Hit Parade Music History and Music Trivia > Chestnut Roasters, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Transition from Country Pop (1970s-1980s)** : Many pop artists, including John Denver and Olivia Newton-John, found success in pop music, with some transitioning from country-pop roots. Olivia Newton-John, in particular, made a significant pivot from country-flavored singles to pop, disco, and new wave rock, reinventing herself for the '80s pop trends and the MTV era. "Olivia's younger fans in the 1980s and beyond would never register she was ever a country star." ← Hit Parade Music History and Music Trivia > Country Roads and Summer Nights Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Charts as Focus** : Pop charts have been the consistent focus of the "Hit Parade" podcast over more than 100 episodes and nine years, covering various artists, genres, producers, trends, and phenomena. "The charts have always been our focus on hit parade." ← Hit Parade Music History and Music Trivia > Feet on the Ground, Reaching for the Stars Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Pop-demist Philosophy** : Casey Kasem was considered the "original pop-demist," believing that a full range of popular music, encompassing various genres, could be as important and worthy of appreciation as rock music, challenging conventional radio formatting. "I even called Kasey the original pop-dumist who believed that a full range of popular music can be as important and worthy of appreciation as rock." ← Hit Parade Music History and Music Trivia > Feet on the Ground, Reaching for the Stars Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Normalizing the Utre (General Concept)** : The history of hit music often involves initially strange or avant-garde sounds that, upon widespread acceptance, become normalized. This process is exemplified by artists like Kraftwerk, Eurythmics, and James Brown, whose groundbreaking sounds were first disruptive before becoming foundational. "This is the story of hit music in general. Stuff that at first upends our notion of what popular songs are supposed to sound like then gets normalized." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Tidewater Tick Rhythm" Sound (Early 2000s)** : Pharrell Williams, Timbaland, and Missy Elliott helped pioneer the "tidewater tick rhythm" sound, making their quirky, even cartoon-like, production elements mainstream in pop and hip-hop music. "Before these quirky geniuses, let's say it nerds, could help pioneer the so-called tidewater tick rhythm sound, they had to find a path into the music business." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Acclimation to "Whackiness" (2002)** : The public's acclimation to the "whackiness" of the Virginia Beach team (Missy Elliott and Timbaland) was affirmed by the success of Missy Elliott's "Work It" in 2002, demonstrating a growing acceptance of unconventional sounds in mainstream pop. "Work It was the ultimate affirmation that the public had acclimated to the Virginia Beach team's whackingness." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Digital Era Sales Milestone (2005)** : Gwen Stefani's "Hollaback Girl" (2005) became the first single of the digital era to sell more than a million downloads, marking a significant milestone in pop music's commercial evolution. "it was the first single of the digital era to sell more than a million downloads." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Hip-Hop Era Adaptation (2008)** : Madonna's album "Hard Candy" (2008) and its lead single "4 Minutes" represented her latest effort to keep pace with "Hip Hop era pop," showcasing how even established pop icons adapted to the evolving soundscape. "Was the lead single from Hard Candy, the chameleon-like Madonna's latest effort to keep pace with Hip Hop era pop." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Parallel Platinum Worlds** : In the 1990s, pop and country music evolved into "parallel platinum worlds," where a song could be a hit in both genres, often through different recordings (like John Michael Montgomery and All-4-One's "I Swear"). This meant that direct audience crossover by the exact same recording was not strictly necessary for success, a departure from previous eras. "A country song could be a pop song and vice versa, but unlike the Urban Cowboy era, each was succeeding in its own arena. Audience crossover by the same recording wasn't strictly necessary." ← Hit Parade Music History and Music Trivia > Friends in Low Places, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Prince's Hits in the 90s** : After his final top 10 hit in 1994, Prince continued to score occasional one-off Top 40 pop hits for the remainder of the 1990s. "He continued to score the occasional one-off top 40 pop or R&B hit for the balance of the 90s" ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Shift in Mega-Single Focus (1990s)** : The early 1990s marked a significant shift for the charity mega-single, evolving from a "resilient fad" in the 1980s to a "self-perpetuating cliche." This change was exacerbated by an "era of irony" in the 1990s, leading to the earnest superstar mega-single largely going into "hibernation and near extinction" for a decade, with subsequent re-emergences struggling for impact. "the charity mega-single had gone from resilient fad to self-perpetuating cliche." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Imperial Year** : Pop critics define an "Imperial year" for an artist as a period where they "reigned over the charts and, essentially, could do no wrong," such as George Michael's dominance in 1988 or Elton John's in 1975. "1988 was what pop critics call an Imperial year." ← Hit Parade Music History and Music Trivia > Hit Parade - The Imperial Elton and George Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Imperial Stars of Pop History** : Throughout pop history, certain artists are identified as "Imperial stars" who achieved extraordinary chart dominance, including Elvis Presley, Michael Jackson, and Justin Bieber. "There have been other Imperial stars across pop history, from Elvis Presley to Michael Jackson to Justin Bieber." ← Hit Parade Music History and Music Trivia > Hit Parade - The Imperial Elton and George Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Modern Pop Sales Record (1997)** : Elton John's "Candle in the Wind 1997" set a new benchmark by selling better than any single in modern pop history, achieving number one debuts in both the US and UK and establishing new sales records in both countries. "Candle 1997 sold better than any single in modern pop history." ← Hit Parade Music History and Music Trivia > Hit Parade - The Imperial Elton and George Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Hot 100 Chart Focus** : The pop charts, particularly the Hot 100, are described as being "all about the gold," with radio stations often playing several number 1 hits before including a number 2, despite many enduring songs peaking at the runner-up slot. "Pop charts in particular are all about the gold." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Diffuse Direction in Early 2000s** : By 2001, as America fell into recession and Teen Pop receded, the US hit parade moved in a more diffuse direction, with pop splitting into factions. The Hot 100 was largely dominated by R&B and hip hop, while rock moved post-grunge, and young stars gravitated toward hybridized pop. "But by 2001, as America fell into recession and Teen Pop receded on the charts, the US hit parade moved in a more diffuse direction, as pop split into factions." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Pendulum Swing Back to Pure Pop** : Kelly Clarkson's hit "Since U Been Gone" was seen as a pivot point for a pendulum swing back toward pure pop on the Hot 100 in the second half of the 2000s. This shift saw pop records with rock elements, many fronted by women, begin to take over the top of the charts. "Clarkson's hit was the pivot point for a pendulum swing back toward pure pop on the Hot 100." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Dominance of Teen Pop (Spring 1999)** : In the spring of 1999, the pop charts were largely "dominated by Britney Spears and Backstreet Boys," setting a youthful backdrop for the simultaneous chart success of older artists like Cher and Madonna. "at a time when the charts were otherwise dominated by Britney Spears and Backstreet Boys." ← Hit Parade Music History and Music Trivia > Hit Parade - The Veronica Electronica Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rise in Movie Soundtracks (1967)** : Pop music began to feature more in movie soundtracks from 1967 with *The Graduate*, which initiated a trend of contemporary genres, including rock, R&B, funk, and disco, appearing on the big screen. "...started a wave of contemporary rock, R&B, pop, funk, and disco on the silver screen." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Broad Definition** : Pop music is not merely a genre but is described as a "melting pot" that can encompass anything and everything, including diverse artists and styles. "To me pop is not a genre, it's a melting pop." ← Hit Parade Music History and Music Trivia > I Got Five on It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Balance and Diversity** : Pop music is considered to work best when it reflects a musical spectrum, balancing fandoms, genres, cultures, and races, as exemplified by the diverse sounds of 1971, 1984, and the early 2000s. "Ideally, this balance extends to the kinds of music that appear on the chart." ← Hit Parade Music History and Music Trivia > I Got Five on It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Global Stardom Catalyst** : Michael Jackson's album "Thriller" was instrumental in propelling him to global superstardom, making him the biggest pop star in the world. "Thriller not only made Michael Jackson the biggest pop star in the world" ← Hit Parade Music History and Music Trivia > I Wanna Rock with Q. Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Black Female Crossover Glass Ceiling** : The 1960s and 70s saw black female superstars like Aretha Franklin, Roberta Flack, and Donna Summer achieve massive crossover hits, but they often struggled to build consistent chart records on the pop side, indicating a "glass ceiling" on black female crossover achievement that would eventually begin to change in the 1980s. "This glass ceiling on black female crossover achievement would change eventually." ← Hit Parade Music History and Music Trivia > I'm Your Whitney Tonight Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Black Pop Synthesis** : Bobby Brown's 1988 "Don't Be Cruel" album was recognized for its ability to synthesize multiple strands of late 1980s black pop, which was instrumental in its broad appeal and crossover success. "Released in the summer of 1988, Bobby Brown's Don't Be Cruel album synthesized multiple strings of late 80s black pop." ← Hit Parade Music History and Music Trivia > I'm Your Whitney Tonight Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Crossover Success in the Mid-70s** : In the mid-1970s, R&B artists like Roberta Flack reinforced their "crossover type" status, while groups like The Spinners, Dionne Warwick, Labelle, and Rufus featuring Chaka Khan achieved significant crossover success, scoring number 1 and top 10 hits on the Pop charts alongside their R&B success. "Roberta Flack ... reinforcing her status as a crossover type." ← Hit Parade Music History and Music Trivia > Killing Me Softly Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Swing back to Pop in 1997** : In 1997, the radio landscape had swung back towards pop music, but the charts heavily favored teenage artists, posing a challenge for an established artist like Madonna returning to the studio. "the radio had swung back toward Peerpop." ← Hit Parade Music History and Music Trivia > Madonna - The Veronica Electronica Edition (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
+**Chart Domination by Older Artists (1999)** : In the spring of 1999, despite charts generally being dominated by teen pop acts like Britney Spears and Backstreet Boys, the biggest pop song in America was by 52-year-old Cher, and the biggest dance song was by 40-year-old Madonna, highlighting a unique moment of older artists' success. "at a time when the charts were otherwise dominated by Britney Spears and Backstreet Boys, the biggest pop song and biggest dance song in America were by a 52-year-old woman and a 40-year-old woman respectively." ← Hit Parade Music History and Music Trivia > Madonna - The Veronica Electronica Edition (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
+**Queer Art Form** : Pop music, alongside rock and roll and R&B, is identified as not only a culturally Black art form but also a proudly queer art form, with LGBTQ Americans contributing significantly to its sound and style. "rock, rhythm and blues, and indeed most of the pop music we consume is not only a culturally black art form, but a proudly queer art form." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Fluidity in the 70s** : The 1970s saw popular music become more fluid in both gender presentation and sexual identity, largely influenced by movements like Glam Rock and Disco. "Two 70s movements made popular music more fluid than ever in both gender presentation and sexual identity. Glam Rock and Disco." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Pop's Closet** : The narrative often refers to "pop's closet," a metaphorical space from which LGBTQ artists began to emerge and find success on the charts, especially towards the end of the 20th and into the 21st century. "We are now going to take a twirl through a selection of chart toppers who managed to reach number one both in and out of pop's closet." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Pop Wilderness** : The "pop wilderness" describes a period of career decline for artists, notably experienced by Elton John in the late 1970s after he first revealed his bisexuality, causing him to fall out of the top 10 altogether. "And he spent the late 70s in the pop wilderness, out of the top 10 altogether, coming out, at least the first time, decimated Elton Jean's career." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Millennial Pop Sexual Identity Speculation** : Ricky Martin's career explosion in 1999 brought with it the "most intense sexual identity speculation of any act in Millennial Pop." This period highlights the unique pressures faced by pop stars at the turn of the millennium regarding their personal lives. "R.E.M. Martin, whose career exploded in 1999 as he went from established Spanish language radio fixture to cross-cultural megastar, was also dogged by the most intense sexual identity speculation of any act in Millennial Pop." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Millennial Boy Band Moment** : The "millennial boy band moment" refers to the peak popularity of groups like NSYNC around the turn of the millennium. This era was characterized by enormous sales and widespread fandom, but eventually ended as members pursued solo careers. "And then the millennial boy band moment was over, as Justin Timberlake and other members of N.Sink went solo." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Madonna's Reign** : Madonna is recognized as "the Queen of Pop," a title reflecting her long and influential career within the genre, which has been the subject of extensive discussion and analysis. "the queen of pop turned 60." ← Hit Parade Music History and Music Trivia > Music Trivia - The Aretha Franklin Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Chart Terminology** : Pop charts, such as Billboard's Hot 100, are central to discussions of artist success, with number one hits being a key measure of an artist's reach and impact. "Aretha Franklin scored only two number one hits on Billboard's Hot 100 in her career." ← Hit Parade Music History and Music Trivia > Music Trivia - The Aretha Franklin Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Maximalist Pop** : This style of pop music was identified in the context of Britney Spears' "Baby One More Time." It was distinct from Max Martin's initial R&B vision for the song and proved to be a fitting genre for the artist. "what it is is this kind of version of maximalist pop it about this this teenager we just signed." ← Hit Parade Music History and Music Trivia > Music Trivia - The Christmas Music Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Teen Pop Renaissance (Late 1990s)** : The late 1990s witnessed a distinct "teen pop renaissance" characterized by boy bands and teen female singers dominating the Hot 100 with commercially appealing, "frothy hits." This era was profoundly shaped by Swedish pop craftsmen like Max Martin, who introduced a "new sound" and a "different approach to pop hit creation" to radio. "In the late 90s, the charts underwent a teen pop renaissance with boy bands and teen girls taking over the Hot 100, singing frothy hits mostly written by Swedish pop craftsman, foremost among them, Max Martin." ← Hit Parade Music History and Music Trivia > Music Trivia - ’90s Teen-Pop Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Digital Pop Queens Era** : The early 21st century saw the rise of a new breed of "digital pop queens" who "flooded the zone with danceable, downloadable bangers," reflecting a moment when artists like Rihanna kept a furious pace to stay ahead of the zeitgeist. "an era when a new breed of digital pop queens were flooding the zone with danceable, downloadable bangers." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rihanna's Prolific Output** : Rihanna was noted as the most prolific pop star of her era in the late 2000s, releasing albums at twice the pace of her peers, which was a key factor in her early success. "Rihanna was the most prolific pop star of her era, issuing albums at twice the pace of her pop peers." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Evolution of Pop Sound in Early 2010s** : In the early 2010s, the dominant pop sound was heavily influenced by Euro dance, electro, and EDM, with artists like Lady Gaga, Katy Perry, and Kesha leading this trend. Rihanna adapted to this shift with her album "Loud." "The pop sound of the early tens came from Lady Gaga, Katy Perry and Kesha." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Bitch Better Have My Money" Chart Performance** : Rihanna's single "Bitch Better Have My Money" was considered a "modest pop hit," reaching number 15 on the Hot 100, primarily driven by sales, streams, and video play. "As for the song, though it was only a modest pop hit, peaking at number 15 on the hot 100, thanks mostly to sales, streams and video play." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Dominant in 2023** : In 2023, pop music continues to be a dominant force, exemplified by artists like Taylor Swift who can consistently generate smash hits. The genre is also influenced by crossover trends from other genres and the re-emergence of older tracks due to various catalysts. "Unsurprisingly, because this is 2023, this smash hit is by Imperial pop deity and time magazines person of the year Taylor Swift." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Pop Radio Format (Post-1988)** : By late 1988, after the success of "Sweet Child o' Mine," Guns N' Roses were considered pop hitmakers, making it no longer "crazy" to promote their aggressive rock track "Welcome to the Jungle" to top 40 pop radio stations. This demonstrates the evolving flexibility of pop radio to embrace diverse sounds once an artist achieved mainstream recognition. "At this point, Guns were now pop hit makers, so it no longer seemed crazy to try to break that earlier demonic hit at top 40 stations." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Atlanta's Early 90s Urban Pop** : In the early 1990s, an Atlanta-based record label, which later signed OutKast, was primarily known for its urban pop releases, highlighting a significant presence of this genre in the city's music scene during that era. "Atlanta label, better known in the early 90s for its urban pop." ← Hit Parade Music History and Music Trivia > Shake It Like a Polaroid Picture Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Late 60s Singles Chart Dominance** : The singles charts in the late 1960s, post-"Sgt. Pepper," were "dominated by a mix of top-notch R&B and often frilly, sometimes forgettable pop music," often categorized as "hippie bubblegum," which was extremely catchy. "What this meant was that the late 60s singles charts were dominated by a mix of top-notch R&B and often frilly, sometimes forgettable pop music." ← Hit Parade Music History and Music Trivia > Singing Nuns and Green Tambourines Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Late 2000s and Early 2010s Digital Migration** : Pop fans, alongside rap and R&B fans, migrated to the digital realm in the late 2000s and early 2010s, impacting album sales and requiring new business models for albums aimed at young people. "As pop, rap, and R&B fans were all migrating to the digital realm." ← Hit Parade Music History and Music Trivia > Smells Like Christmas Spirit, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Broadening Definition of "Summer Song"** : The definition of a "summer song" evolved significantly at the turn of the 1980s, shifting from being explicitly about summer themes to simply signifying "punchy pop music that peaked during the summer." This broader interpretation allowed a wider array of pop hits, such as The Knack's "My Sharona," to be considered summer anthems. "it signified punchy pop music that peaked during the summer, not necessarily songs about summer itself." ← Hit Parade Music History and Music Trivia > Song(s) of the Summer Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Carole King's Broad Appeal** : Carole King's music was able to bridge the divide between "rockers and the popsters," indicating its appeal across different genre preferences. "Carol King brings everybody together, the rockers and the popsters" ← Hit Parade Music History and Music Trivia > Spirit of ’71, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**1971 Chart Dominance** : In 1971, Pop, Rock, and Soul Legends were scoring both number one singles and number one albums on the Billboard charts. "On the Billboard charts, Pop, Rock, and Soul Legends were scoring both number one singles and number one albums, including, so far, George Harrison, Janice Chaplin, and the Rolling Stones." ← Hit Parade Music History and Music Trivia > Spirit of ’71, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Evolution in the Late 1980s** : In the late 1980s, the sound of pop music, especially popular African American music, evolved rapidly. This era saw the rise of New Jack Swing, a sultry, percolating, and rap-derived trend that provided mainstream singers a way to incorporate hip-hop elements while crossing over to broader audiences. "During Janet Jackson's album Hiatus, the sound of pop, particularly the sound of popular African American music, was evolving rapidly." ← Hit Parade Music History and Music Trivia > State of the World Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Janet Jackson as Forerunner of 21st-Century Pop** : Janet Jackson's music, particularly her "techno soul hybrid" sound pioneered in the 1980s, is broadly cited by critics as the direct forerunner to 21st-century pop. Journalist Trismakhal claims this sound is now prevalent on commercial airwaves and influenced many current female pop stars. "critics broadly cite her music as the forerunner to 21st century pop." ← Hit Parade Music History and Music Trivia > State of the World Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Blended with R&B and Dance by Influenced Artists** : Britney Spears' hits often blend R&B, pop, and dance, a style directly descended from Janet Jackson's "Control" and "Rhythm Nation" albums, illustrating the enduring crossover appeal and influence of Janet's style. "many of her hits blending R&B, pop, and dance in a style descended from both control and rhythm nation." ← Hit Parade Music History and Music Trivia > State of the World Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Electronic Dominance in Early 2010s** : In the early 2010s, pop music was predominantly "electronic, not acoustic." This sound was exemplified by hits from artists like Tio Cruz, Britney Spears, and Maroon 5, many of which were produced or co-written by Max Martin, shaping the sonic landscape that Taylor Swift's evolving music would eventually embrace. "But in the early 10s, pop was mostly electronic, not acoustic." ← Hit Parade Music History and Music Trivia > Taylor’s Version of Country, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Lil Nas X's Tagging Strategy** : When Lil Nas X uploaded "Old Town Road" to streaming services, he explicitly tagged it as pop, alongside hip hop and country, influencing its initial categorization across different genre charts. "He tagged it as pop, he tagged it as hip hop and he tagged it as country." ← Hit Parade Music History and Music Trivia > The Bridge - Can’t Tell Me Nothin’ | https://my.slate.com/podcasts/feeds/hit-parade/
+**Redefined by Stevie Wonder in the 1970s** : In the 1970s, Stevie Wonder's epic commercial and critical success led to him redefining the sound of pop music, alongside funk, R&B, and rock, through his innovative approach. "redefining the sound of pop, funk, R&B, rock." ← Hit Parade Music History and Music Trivia > The Bridge - Cover Queens and The Boy Wonder | https://my.slate.com/podcasts/feeds/hit-parade/
+**Shorter Song Length Due to Streaming** : Contemporary reports indicate that, primarily due to the influence of streaming platforms, pop songs are generally becoming shorter, often around two to three minutes. This trend suggests that catchy, concise tracks that convey their message quickly have an improved chance of becoming hits. "all these reports hitting the music is now that because of streaming songs are getting short again." ← Hit Parade Music History and Music Trivia > The Bridge - Cover Queens and The Boy Wonder | https://my.slate.com/podcasts/feeds/hit-parade/
+**80s Identity** : Pop music from the 1980s served as a primary "home base" for musical identity for many who came of age during that decade, particularly through their high school and college years. "it was the first half of the 80s were high school, the second half were college. So that's the home base for me." ← Hit Parade Music History and Music Trivia > The Bridge - Ladies of the Canyon and the Rhythm Nation | https://my.slate.com/podcasts/feeds/hit-parade/
+**Socially Conscious Pop Music** : The benchmark for socially conscious pop music is considered to be Marvin Gaye's "What's Going On" album, praised for being sonically gorgeous, inventive, and not preachy, setting a high standard for the genre. "It's a very high bar when it comes to socially conscious pop music." ← Hit Parade Music History and Music Trivia > The Bridge - Rain Sounds and Moody Goths | https://my.slate.com/podcasts/feeds/hit-parade/
+**Crossover of British Alternative Rock** : British alternative rock bands, initially popular on the Modern Rock Chart, eventually achieved success on mainstream pop radio, marking a significant crossover event in US music history. "these bands were actually scoring on the pop charts." ← Hit Parade Music History and Music Trivia > The Bridge - Rain Sounds and Moody Goths | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Theater Kid" Energy in Pop Culture** : A significant trend in 2024 pop culture is the prevalence of "drama kid" or "theater kid energy" among artists, particularly younger ones, reflecting a broader cultural shift among "Zoomers." "the drama kid is is having a moment in pop culture and I think we're reflection of something that's been going on with the zoomers for a few years and that we're really seeing crystallize in that way." ← Hit Parade Music History and Music Trivia > The Bridge - Slate Music Club 2024 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Pop Chart Dynamics in 2024** : The year 2024 presented a split experience for pop music; the first half was characterized by significant energy, variety, and turnover in the top 10, with new artists connecting with audiences beyond just TikTok trends. However, the latter half of the year saw stagnation, as radio programmers tended to "run into the ground" songs that tested well, leading to less musical variety. "it really was a tale of two different years in one where the first half of the year was just full of all this energy not just energy but variety." ← Hit Parade Music History and Music Trivia > The Bridge - Slate Music Club 2024 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Identity and Protest in Pop Music (2024)** : In 2024, artists' identities often served as a form of implicit protest within pop music, with explicit protest music being less covered. This phenomenon was linked to media apprehension regarding political conflicts and the overall dominance of pop music making it harder for overtly political songs to gain traction. "twenty twenty four is a year in which identities stood in for explicit protests and honestly the political conflicts of this year have a lot of the media running scared." ← Hit Parade Music History and Music Trivia > The Bridge - Slate Music Club 2024 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Genre Blurring and Omnivorousness** : Pop music in 2025 is characterized by a "fractured" landscape where genre definitions are increasingly mocked or becoming impossible to categorize. Albums like Rosalía's "Lux" and Laufey's work demonstrate a multi-genre, polyglot approach, blending classical, jazz, flamenco, and pop. "I mean, if there's one thing I've been writing about this whole decade, it's the kind of mockery we're making of genre at this point. You know, the fact that it's getting impossible to categorize anything." ← Hit Parade Music History and Music Trivia > The Bridge - Slate’s Music Club 2025 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Shift from Anglo-American Pop Hegemony** : The year's defining albums being primarily non-English language records suggests a potential decline of "American pop" (A-Pop) hegemony, indicating that it may be becoming just one category among many, akin to J-Pop or K-Pop. This shift is linked to a new polyglot and multi-genre musical universe possibly enabled by streaming. "Dave Moore wrote earlier this year where he proposed the idea of something called A-Pop by which he meant American pop or Anglo-American pop. And the idea that that that might be becoming a category that is just one among the many." ← Hit Parade Music History and Music Trivia > The Bridge - Slate’s Music Club 2025 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Pop Chart History** : The podcast Hit Parade focuses on the history of pop chart success. "Slates Podcast of Pop Chart History." ← Hit Parade Music History and Music Trivia > The Bridge - The Give My Regards Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Broadway Influence on Pop** : In the 21st century, there is a renewed link between Broadway and broader pop culture, with Broadway film adaptations and songs that borrow from Broadway hits contributing to the sound of popular music. "There is all of the sudden a link between Broadway and a broader pop culture again." ← Hit Parade Music History and Music Trivia > The Bridge - The Give My Regards Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Broadway Tropes in Pop** : Melodic and structural tropes originating from the Broadway musical occasionally make their way into popular songs, becoming part of the collective vocabulary that pop stars might sample or use. "Those songs are part of our collective vocabulary. It's hard to grow up not knowing things like the sound of music or Annie so whether it's a pop star borrowing those and sampling them in a song or whether it's the interplay between two or three." ← Hit Parade Music History and Music Trivia > The Bridge - The Give My Regards Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Latin Pop Boom (Turn of the Millennium)** : The turn of the millennium saw a significant "Latin pop boom" on the charts, with artists like Ricky Martin, Enrique Iglesias, Jennifer Lopez, and Carlos Santana scoring number one hits on the Hot 100, though many of these hits were in English. "During the Latin pop boom on the charts at the turn of the millennium, all four of these acts scored number ones on the hot 100." ← Hit Parade Music History and Music Trivia > The Bridge - Wesley on Whitney | https://my.slate.com/podcasts/feeds/hit-parade/
+**Spanish Language Crossover (Late 2010s)** : By the late 2010s, Spanish language pop hits began to cross over into mainstream charts on their "own terms," indicating a shift where English verses were no longer a strict prerequisite for success, though they could still be helpful. "By the late tens, Spanish language pop hits were starting to cross over on their own terms and not necessarily by adding English verses, although of course that helped." ← Hit Parade Music History and Music Trivia > The Bridge - Wesley on Whitney | https://my.slate.com/podcasts/feeds/hit-parade/
+**Emerging Sound** : Pop music in the late 1970s and early 1980s saw an "emerging" sound that drew from R&B and jazz, which contributed to the rise of Yacht Rock. The collaboration of Quincy Jones and Rod Temperton notably mixed soulful, jazzy sounds with an "extreme pop mentality" to create the yacht soul strain. "There was just a sound that was emerging in pop music at the time." ← Hit Parade Music History and Music Trivia > The Bridge - Yacht Or Nyacht | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Pop-demist Moment"** : The "pop-demist moment" refers to a period in the 2000s when music critics and audiences began to appreciate that "worthy music didn't have to be played by a white guy with a guitar," extending critical approbation to diverse genres like disco and music by people of color, gay people, and women. Yacht Rock's acceptance is seen as part of this broader movement. "I call the pop-demist moment, the moment when people began to appreciate that worthy music didn't have to be played by a white guy with a guitar." ← Hit Parade Music History and Music Trivia > The Bridge - Yacht Or Nyacht | https://my.slate.com/podcasts/feeds/hit-parade/
+**Subgenre Differentiation** : A listener differentiated "Swedish pop music" (described as "female pop-iest") from the "boy band pop side" as potential podcast topics, highlighting distinct subgenres within pop. "I wondered when we'd get the boy band pop side." ← Hit Parade Music History and Music Trivia > The Bridge - Yacht Or Nyacht | https://my.slate.com/podcasts/feeds/hit-parade/
+**Revivalism and Hybridization** : Pop artists like Bruno Mars are described as revivalists and archaeologists of past pop styles, successfully grafting modern beats onto old modes to create fresh, new compositions. "He is a revivalist, an archaeologist of past pop styles, who grafts modern beats onto these old modes and makes them fresh with totally new compositions." ← Hit Parade Music History and Music Trivia > The Feat. Don’t Fail Me Now Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Swedish Pop Characteristics** : Swedish pop is recognized for its "sophisticated musical craftsmanship." However, "urban" is not typically the first adjective used to describe this genre from Sweden, which historically has punched above its weight in global pop hits. "urban is not the first adjective you might reach for to describe Swedish pop." ← Hit Parade Music History and Music Trivia > The Give Me a Sign Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Phil Collins' Influence on 80s Pop** : Phil Collins stumbled into a solo career that profoundly changed the sound of pop in the 1980s and beyond, especially through his innovative use of the gated reverb drum sound. His ability to craft melodically direct songs also began to shape Genesis's sound in a more pop-friendly direction after he became frontman. "He stumbled into a solo career that would change the sound of pop in the 80s and beyond." ← Hit Parade Music History and Music Trivia > The Invisible Miracle Sledgehammer Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Pop-Friendly Evolution of Genesis** : After Peter Gabriel's departure, Genesis, particularly under Phil Collins's influence, began to evolve towards a more pop-friendly sound. This was evident in singles like "Your Own Special Way" and "Follow You Follow Me," which incorporated catchier hooks, and albums like "Abacab" and the self-titled "Genesis" LP which adopted more uncluttered, direct pop structures. "Collins also soon found, as a singer and songwriter, that he could shape the Genesis sound in subtle, more melodically direct new ways." ← Hit Parade Music History and Music Trivia > The Invisible Miracle Sledgehammer Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Bee Gees Genre Exploration** : The Bee Gees demonstrated their versatility by trying a range of pop modes, including Country Pop Jamboree and orchestral pop, throughout their career. "They would try anything, a range of pop modes, from Country Pop Jamboree with lyrics about the American Civil War on the Battle of the Blue and the Grey." ← Hit Parade Music History and Music Trivia > The Nights on Broadway Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Dominance in Pre-SoundScan Charts** : Before the SoundScan era, pop songs, especially those by traditional pop and R&B artists, consistently held the top positions on the Billboard Hot 100. This made it difficult for rap songs to break through to number one, despite significant sales. ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**The Big Bopper's Top 10 Hit** : The Big Bopper's "Chantilly Lace" achieved pop top 10 status, peaking at number six in November 1958, highlighting its mainstream success. "It did make the pop top 10, peaking at number six in November 1958." ← Hit Parade Music History and Music Trivia > The Posthumous Hits Edition, Live from Seattle | https://my.slate.com/podcasts/feeds/hit-parade/
+**Early Incubation on Kids Television** : In the new millennium, many pop stars were incubated on Kids Television, particularly the Disney Channel, before gaining fame or appearing on MTV, as the recording industry sought new avenues for gestating talent due to MTV's reduced music video programming. "Roughly a dozen major pop stars over the next two decades would be launched to fame on Children's TV, most of them on the Disney Channel." ← Hit Parade Music History and Music Trivia > The Twerking and Chatrouletting Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mid-Aughts Career Launch Challenges** : The mid-2000s presented a challenging environment for launching pop starlet careers, as the music industry's hit-making machinery had changed significantly following the rise of Napster and iPods, and music videos were in a "critical condition" due to MTV's shift away from music programming. "The Mid-Auts was a bit of a strange time to launch a career as a pop starlet, because the machinery of hit making had changed." ← Hit Parade Music History and Music Trivia > The Twerking and Chatrouletting Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Viral & Enduring Hits** : The success of "Wrecking Ball" in 2013 demonstrated that a pop song could simultaneously be a "flash in the pan" due to its viral video and also an enduring fixture on the charts and in public consciousness. "A pop song could be both a flash in the pan and a permanent fixture." ← Hit Parade Music History and Music Trivia > The Twerking and Chatrouletting Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Old Town Road Debate (2019)** : Lil Nas X's "Old Town Road" (2019), featuring Billy Ray Cyrus, sparked a debate in the music business about its genre, with Pop being one of the categories considered alongside R&B, Rap, and Country. "the music business debated what genre Old Town Road belongs in, pop or R&B or rap or country." ← Hit Parade Music History and Music Trivia > The White and Nerdy Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Cover Versions of Springsteen Songs** : The pop genre, specifically through artist Ed Sheeran, has seen cover versions of Bruce Springsteen's songs. "and Middlebrow Pop Megastar Ed Sheeran" ← Hit Parade Music History and Music Trivia > Tramps Like Us, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Pop as Spectacle** : Jim Steinman's "Total Eclipse of the Heart" exemplified a pop music aesthetic that was "heart pounding, chest thumping, blood gargling, heavens falling, passion explosion." "Pop music as heart pounding, chest thumping, blood gargling, heavens falling, passion explosion." ← Hit Parade Music History and Music Trivia > Turn Around, Bright Eyes, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Cross-Genre Collaborations for Chart Success (2010s)** : In the 2010s, pop stars frequently engaged in "cross-genre" collaborations, particularly with rappers, as a key strategy to boost singles to number one. This tactic became weaponized, especially by white pop stars seeking "credibility enhancing" features from black performers to ensure chart-topping success. "The lead single of Katie Perry's 2010 album Teenage Dream was California Girls, a sunny pop confection with a disco and electro dance vibe." ← Hit Parade Music History and Music Trivia > We Invented the Remix Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Bubblegum Gibberish" Appreciation** : Tom Bryan of Stereo Gum notably called Hanson's "MMMBop" "perhaps the finest example of bubblegum gibberish to come along during my lifetime," suggesting that even seemingly nonsensical pop can hold significant artistic value and deeper meaning. "Stereo Gums Tom Bryan in his column the number one's called Mbop quote perhaps the finest example of bubblegum gibberish to come along during my lifetime." ← Hit Parade Music History and Music Trivia > We Want It That Way Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Doobie Brothers Transformation** : The Doobie Brothers, originally formed in San Jose, California in 1970, had successfully transformed themselves into pop stars by 1980, marking a significant evolution in their musical identity and market appeal. "transformed themselves into pop stars." ← Hit Parade Music History and Music Trivia > What a Fool Believes Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Shift After "Thriller" (1982)** : Michael Jackson's *Thriller* effectively divided 80s pop music into "before Thriller and after Thriller." It ended the post-Disco backlash and initiated a new era of "crossover black pop," moving towards more "kinetic forms" of centrist pop that appealed to both white and black audiences. "In the history of 80s pop music, you can divide the world into before Thriller and after Thriller." ← Hit Parade Music History and Music Trivia > What a Fool Believes, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**1984 as "Pop's Greatest Year"** : Many pop critics cite 1984 as "Pop's Greatest Year," attributed to a combination of dance music, power ballads, synth pop, and the chart dominance of artists like Madonna, Prince, Cyndi Lauper, Van Halen, Bruce Springsteen, and Tina Turner. "Why So Many Pop Critics Call 1984 Pops Greatest Year." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**MTV Era's Impact on American Tastes** : The success of songs like Culture Club's "Karma Chameleon" in the mid-1980s significantly reflected how American musical tastes had transformed due to the influence of the MTV era. "reflected both how much American tastes had changed in the MTV era and how British pop had reinvented American musical idioms." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**1984 Theme of Reinvention** : 1984 was a year characterized by artists reinventing themselves, with veterans like Paul McCartney thriving with new sounds and mid-tier pop stars being spurred by competition to create masterpieces, exemplified by John Waite and Billy Ocean. "One thing I like to say about 1984 was it made everybody better." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Sonic Crossover in the 1980s** : The "heavily hybridized sound" of artists like Hall & Oates, which blended rock, R&B, and club music, played a crucial role in defining the 1980s as "the decade of Sonic crossover," where diverse musical elements merged. "Daryl Hall and John Oates's heavily hybridized sound had helped define the 80s as the decade of Sonic crossover." ← Hit Parade Music History and Music Trivia > What’s 1984 Got to Do with It Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Pop Chart History** : The podcast "Hit Parade" focuses on the history of pop chart hits, exploring the specific cultural moments that allowed certain songs and artists to dominate the hit parade. "Welcome to Hit Parade, a podcast of Pop Chart History from Slate Magazine. About the hits from Coast to Coast." ← Hit Parade Music History and Music Trivia > Without The Beatles | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - NSYNC
@@ -383,3 +490,252 @@
 - Sheila E
 - Boy George
 - The Pointer Sisters
+- Jan Hammer
+- Sia
+- Herb Alpert
+- Cher
+- Phil Collins
+- Al Jarreau
+- Mike Post
+- Post Malone
+- Brandy
+- Aaliyah
+- Timbaland
+- Nelly
+- Jewel
+- Bon Jovi
+- Bob Dylan
+- Lisa Loeb
+- Garbage
+- Liz Phair
+- Goo Goo Dolls
+- Pearl Jam
+- Lord
+- Peter Gabriel
+- Dusty Springfield
+- Destiny's Child
+- The Isley Brothers
+- Selena Gomez
+- The Dixie Cups
+- TLC
+- The Ronettes
+- The Cherelles
+- The Shangri-La's
+- The Crystals
+- The Cookies
+- The Chordettes
+- The Bobbettes
+- The Chantels
+- The Exciters
+- The Angels
+- The Shaphons
+- The Blossoms
+- Vicky Carr
+- Martha Reeves and the Vandellas
+- The Supremes
+- The Honey Cone
+- LaBelle
+- Susanna Hoffs
+- Amy Mann
+- Belinda Carlisle
+- Prince
+- Carly Simon
+- Eurythmics
+- The B-52s
+- InnoJay
+- Cindy Lopper
+- Till Tuesday
+- Jules Sheer
+- Billy Steinberg & Tom Kelly
+- Celine Dion
+- Joan Osborne
+- Michael Penn
+- Wilson Phillips
+- Millie Vanille
+- Frank Farian
+- Boney M
+- Jim Steinman
+- Aerosmith
+- Bobby Brown
+- Roxette
+- Richard Marx
+- Paula Abdul
+- Millie Vanilley
+- Macklemore & Ryan Lewis
+- Blur
+- The Black Eyed Peas
+- Janis Joplin
+- Natalie Merchant
+- Sheryl Crow
+- The Cardigans
+- Missy Elliott
+- Mýa
+- Christina Aguilera
+- Doja Cat
+- The Cure
+- Lush
+- Bing Crosby
+- Isaac Hayes
+- Brenda Lee
+- Andy Williams
+- Roberta Flack
+- Chris Brown
+- Seal
+- Michael Bublé
+- Kanye West
+- Shania Twain
+- Johnny Cash
+- Little Richard
+- Sam Cook
+- Odetta
+- Rod Stewart
+- The Spinners
+- Genesis
+- Stevie Wonder
+- Kiss
+- New Edition
+- Garth Brooks
+- Casey Kasem
+- Marvin Gaye
+- Kenny Rogers
+- The Neptunes
+- Pharrell Williams
+- Clipse
+- Timbaland & Magoo
+- Kraftwerk
+- 702
+- Kelis
+- Jay-Z
+- Max Martin
+- Busta Rhymes
+- Tweet
+- Ludacris
+- Snoop Dogg
+- OneRepublic
+- Robin Thicke
+- Ciara
+- Keyshia Cole
+- Lil' Kim
+- Bruce Springsteen
+- Guns N' Roses
+- Billy Ray Cyrus
+- All-4-One
+- The Chicks
+- Lonestar
+- Rufus
+- Little Eva
+- Kylie Minogue
+- Michael Bolton
+- The Jackson 5
+- Nile Rodgers
+- Bonnie Tyler
+- Boyz II Men
+- LeAnn Rimes
+- Dionne Warwick
+- Kenny Loggins
+- Lenny Kravitz
+- Michael McDonald
+- David Foster
+- Kenny G
+- Jennifer Lopez
+- Lin-Manuel Miranda
+- Usher
+- Luis Fonsi
+- WAM
+- Dion Warwick
+- Spandau Ballet
+- Adam Lambert
+- Harold Faltermeyer
+- The Miracles
+- Smokey Robinson
+- The Silhouettes
+- Lucas Gottwald
+- Robyn
+- Hanson
+- Grand Funk Railroad
+- Edgar Winter Group
+- Olivia Rodrigo
+- Dua Lipa
+- Gotye
+- Simple Minds
+- Marilyn Martin
+- Bill Medley
+- Jennifer Warnes
+- Eric Carmen
+- Kenneth "Babyface" Edmonds
+- Idina Menzel
+- Ryan Gosling
+- Phil Spector
+- Toto
+- Glenn Medeiros
+- a-ha
+- Air Supply
+- Rod Temperton
+- Doris Troy
+- The Sweet Inspirations
+- Boy Meets Girl
+- Patti LaBelle
+- Kacey Musgraves
+- Royal Philharmonic Orchestra
+- Sade
+- Shakira
+- Kaoma
+- Jon Secada
+- Love and Rockets
+- 98 Degrees
+- Sylvester
+- Chappell Roan
+- Johnny Mathis
+- Right Said Fred
+- Frankie Goes to Hollywood
+- Scandal
+- Ace of Base
+- Troye Sivan
+- Tones and I
+- Sean Paul
+- Kesha
+- Carol King
+- Ryan Paris
+- Jonas Brothers
+- C. Lo Green
+- Lauren Bennett
+- Fun.
+- Charlie XCX
+- Icona Pop
+- Meghan Trainor
+- Rita Ora
+- Tove Lo
+- Jessie J
+- Mark Ronson
+- Wiz Khalifa
+- Charlie Puth
+- Beyoncé Knowles
+- Big Punisher
+- Captain & Tennille
+- AWOLNATION
+- Petula Clark
+- Connie Francis
+- Herman's Hermits
+- Omi
+- Rebbie Jackson
+- The Doobie Brothers
+- One Direction
+- Tio Cruz
+- Creedence Clearwater Revival
+- Ray Stevens
+- Teddy Swims
+- Rosalía
+- Cécile McLorin Salvant
+- Laufey
+- Mike + The Mechanics
+- Girls Aloud
+- Denniz Pop
+- The Big Bopper
+- Men at Work
+- C.W. McCall
+- Loanstar
+- Light Funky Ones
+- B2K
+- So Tai Chi and Boys
+- Dubie Brothers
+- Bobby Caldwell

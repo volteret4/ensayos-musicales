@@ -11,4 +11,4 @@
 **"262" — NME Chart** : 15 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
 
 ## lists
-**"I Can Hear the Grass Grow / Wave the Flag and Stop the Train" — John Peel's Record Box** : #107. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
+**"I Can Hear the Grass Grow / Wave the Flag and Stop the Train" — John Peel's Record Box** : #107.

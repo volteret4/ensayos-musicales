@@ -10,4 +10,4 @@
 **Remote Collaboration Model** : The members of Meet Me @ The Altar typically reside in three different states—Florida, Georgia, and New Jersey—and collaboratively create their songs online. "Most of the time the members are in three different states, Florida, Georgia, New Jersey, and they all collaborate on songs online." ← https://www.youtube.com/watch?v=_1NNvxgx8uA ← meet-me-the-altar ← meet-me-the-altar
 
 ## lists
-**"Past // Present // Future" (2023) — Kerrang! The 50 Best Albums of 2023** : #43. ← musicbrainz | https://beta.musicbrainz.org/series/f1f98ed3-f88a-4aac-bf6c-cf63b60c9e6e
+**"Past // Present // Future" (2023) — Kerrang! The 50 Best Albums of 2023** : #43.

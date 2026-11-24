@@ -14,5 +14,5 @@
 **Ted Nugent's Early Career** : Ted Nugent first gained attention in the mid-1960s as the lead guitarist for The Amboy Dukes, a band recognized for combining psychedelic rock with a distinct band sound. "He first gained attention in the mid 1960s as a lead guitarist of the Amboid dukes, a band that combined psychedelic rock with the band." ← For the Record - The 70s > Ep. 58 - WKRP in Cincinnati | https://www.ftr70.com
 
 ## lists
-**"Journey To The Center Of The Mind" (1968) — Scaruffi 1960s** : #73, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Marriage On The Rocks" (1970) — Scaruffi 1970s** : #161, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Journey To The Center Of The Mind" (1968) — Scaruffi 1960s** : #73, 7.0/10 Scaruffi.
+**"Marriage On The Rocks" (1970) — Scaruffi 1970s** : #161, 7.0/10 Scaruffi.

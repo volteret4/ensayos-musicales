@@ -20,6 +20,7 @@
 **Eighties (1984)** : This song from 1985, fronted and co-written by Jazz Coleman, features a guitar bit that drew significant comparisons to Nirvana's "Come As You Are" (1991). The similarities led to an ambiguous situation regarding a potential lawsuit from Killing Joke against Nirvana. "The song is from 1985 and it's called 80s." ← https://www.youtube.com/watch?v=L09R2evjyMc ← killing-joke
 **Eighties (1984)** : A 1985 song with an opening guitar riff noted for its similarity to Nirvana's "Come As You Are." Jaz Coleman, the band's singer and principal songwriter, noticed the resemblance. The status of legal action is unclear, with suggestions ranging from termination after Kurt Cobain's death in 1994 to no action being taken due to respect between the bands. "The band is killing joke and the year is 1985." ← https://www.youtube.com/watch?v=4cZfegexwwk ← killing-joke
 **Love Like Blood** : This song by Killing Joke is mentioned in the context of Jaz Coleman's apocalyptic predictions, which ultimately did not come to pass. "Killing Joke in Love Like Blood and despite senior jazzcomans predictions the planet as far as we know is still here." ← Ongoing History of New Music > Alt Rocks Craziest People | https://www.youtube.com/watch?v=CgReNKciFJo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG ← killing-joke ← killing-joke
+**Love Like Blood** : "Love Like Blood" is described as a "jam," even though Killing Joke did not have many chart hits. "although shout out to Love Like Blood, because that song's a jam." ← Hit Parade Music History and Music Trivia > I Got Five on It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **12-inch Remix Business** : Killing Joke participated in the 12-inch remix trend, a popular format in the 1980s for bands seeking to expand their presence in dance clubs, following the lead of New Order's "Blue Monday." "And so was Depeche Mode and The Cure and The Human League and Simple Minds and The Cult and Killing Joke and Erasure and Psychedelic Furs and Madness. They all got into the 12-inch business." ← https://www.youtube.com/watch?v=OiqdZfxdBP0 ← killing-joke
@@ -38,8 +39,8 @@
 
 ## lists
 **"Killing Joke" (1980) — 1001 Albums You Must Hear Before You Die** : #462, 7.0/10 Scaruffi.
-**"Killing Joke" (1980) — Scaruffi 1980s** : #506, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Extremities, Dirt & Various Repressed Emotions" (1990) — Scaruffi 1990s** : #829, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Extremities, Dirt & Various Repressed Emotions" (1990) — Sputnikmusic Best Albums 1990** : #56, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"Pandemonium" (1994) — Sputnikmusic Best Albums 1994** : #154. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
-**"Hosannas From The Basements Of Hell" (2006) — Sputnikmusic Best Albums 2006** : #166. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/
+**"Killing Joke" (1980) — Scaruffi 1980s** : #506, 7.0/10 Scaruffi.
+**"Extremities, Dirt & Various Repressed Emotions" (1990) — Scaruffi 1990s** : #829, 7.0/10 Scaruffi.
+**"Extremities, Dirt & Various Repressed Emotions" (1990) — Sputnikmusic Best Albums 1990** : #56, 7.0/10 Scaruffi.
+**"Pandemonium" (1994) — Sputnikmusic Best Albums 1994** : #154.
+**"Hosannas From The Basements Of Hell" (2006) — Sputnikmusic Best Albums 2006** : #166.

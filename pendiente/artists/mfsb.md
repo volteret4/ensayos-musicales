@@ -1,10 +1,16 @@
 # artist - MFSB
 
+## genres
+- Philly Soul
+
 ## labels
+- Philadelphia International
 - Philadelphia International Records
 
 ## songs
 **The Sound of Philadelphia (Soul Train Theme)** : The Three Degrees lent their vocals to "The Sound of Philadelphia," a song universally recognized as the iconic theme music for the popular dance television program, Soul Train. "the three degrees provide the vocals on the sound of Philadelphia better known as the theme to the great dance show Soul Train" ← For the Record - The 70s > Ep. 37 - Philly Soul and the Sound of the 70s | https://seventies.libsyn.com/ep-37-philly-soul-and-the-sound-of-the-70s
+**TSOP (The Sound of Philadelphia) (1974)** : This studio group, associated with Philadelphia International Records and the Philly Soul Sound of producers Kenny Gamble and Leon Huff, recorded the theme to "Soul Train," the premiere black music show. Named "TSOP" (The Sound of Philadelphia), it topped the Hot 100 in April 1974. It was the first TV theme to hit number one on the Hot 100, and potentially the first such number one ever, depending on how one categorizes "The Ballad of Davy Crockett." "in 1974, MFSB, the studio group associated with Philadelphia International Records, and the Philly Soul Sound of producers Kenny Gamble and Leon Huff recorded the theme to the premiere black music show Soul Train. They called it T-S-O-P for the sound of Philadelphia, and it topped the Hot 100 in April of 74." ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**TSOP (The Sound of Philadelphia) (1974)** : This "Trugging" theme song to TV's "Soul Train" soared to number one in 1974. Featuring "wordless vocalizing" from the R&B group The Three Degrees, it was simultaneously characterized as both Philly Soul and Proto Disco, further paving the way for the success of instrumental disco tracks. "The Trugging T-S-O-P, or The Sound of Philadelphia, which featured wordless vocalizing from R&B Troop the Three Degrees, was, like Love's theme, simultaneously both Philly Soul and Proto Disco." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **PIR House Band** : MFSP, an acronym for Mother, Father, Sister, Brother, functioned as the resident house band for Philadelphia International Records, laying the instrumental groundwork for many of the label's successful recordings. "The House Band for PIR was MFSP regardless of what you may have heard that stands for Mother, Father, Sister, Brother" ← For the Record - The 70s > Ep. 37 - Philly Soul and the Sound of the 70s | https://seventies.libsyn.com/ep-37-philly-soul-and-the-sound-of-the-70s

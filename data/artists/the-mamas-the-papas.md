@@ -1,10 +1,14 @@
 # artist - The Mamas & the Papas
 
+## songs
+**California Dreamin' (1966)** : This song, described as an "all-time classic," was initially claimed by Billboard in print to be the number one song of 1966, despite peaking only at number four on the Hot 100. This claim was later corrected by Billboard, which re-ranked 1966, an example of the "murky" methodology of the analog charts era. "At the end of 1966, Billboard, in print, claimed that the number one song of the year was California Dreaming by the mamas and the poppers." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **Family Connection to Wilson Phillips** : Members of The Mamas and Poppas are mothers to the members of the girl group Wilson Phillips. "All members were daughters of the Beach Boys and the Mamas and Poppas." ← https://www.youtube.com/watch?v=LYRPxtP61JM ← the-mamas-and-poppas
 **Internal Relationship Issues** : The Mamas and the Poppas were known to have various internal relationship issues within the group. "there were all kinds of issues with the Mamas and Poppas" ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← the-mamas-and-the-poppas ← the-mamas-and-the-poppas
 **Internal Relationship Issues** : The Mamas and the Poppas were known to have various internal relationship issues within the group. "there were all kinds of issues with the Mamas and Poppas" ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← the-mamas-and-the-poppas
 **Chart Comparison for Aretha Franklin (1967)** : The Mamas and the Poppas' LPs were among those sandwiching Aretha Franklin's Atlantic debut LP, "I Never Loved a Man the Way I Love You," which climbed to number two on the Billboard album chart and stayed there for three weeks in 1967. This highlights the varied artists dominating the album charts at the time. "Her LP, I Never Loved a Man the Way I Love You, climbed to number two on the Billboard album chart and stayed there three weeks, sandwiched between LPs by the monkeys, the mamas and the poppas and the Jefferson airplane." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4eef8e6dd12efb02c3c9
+**Influence on Prince's Songwriting (1986)** : Prince's song "Manic Monday," given to The Bangles, was described as a "warm, day-glo-colored Mamas and the Papas homage," indicating the influence of their style on his songwriting for other artists. "Manic Monday was a warm, day glow-colored Mama's in the Papa's Omaj, which reimagined the Bangles L.A. paisley underground scene as easy breezy pop." ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"California Dreamin'" — Billboard Year-End Hot 100** : #1, 1966. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

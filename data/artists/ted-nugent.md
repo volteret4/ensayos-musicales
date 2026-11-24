@@ -9,6 +9,7 @@
 
 ## albums
 **Cat Scratch Fever (1977)** : Released in 1977, this was Ted Nugent's second multi-platinum solo record, following his successful self-titled debut album. "He went solo in the 1970s had two multi platinum records Ted Nugent in 1975 and cat scratch fever in 1977." ← For the Record - The 70s > Ep. 58 - WKRP in Cincinnati | https://www.ftr70.com
+**Free For All (1976)** : Meat Loaf recorded vocals for this 1976 album by Ted Nugent, a project he undertook during the long delay before his own *Bat Out of Hell* album was finally released. "Meatloaf kept himself busy by recording vocals for Ted Nugens 1976 album Free For All." ← Hit Parade Music History and Music Trivia > Turn Around, Bright Eyes, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Ted Nugent (1975)** : This 1975 debut solo album launched Nugent's solo career and notably featured "Stranglehold," an eight-minute display of "masterful guitar playing." The album and its lead track were intended as a powerful statement of defiance against a music industry that had previously rejected him. "In 1975, Nugent went solo. His first album, Ted Nugent featuring Stranglehold was eight minutes of masterful guitar playing by a man looking to make a statement." ← For the Record - The 70s > Ep. 24 - Loud, Louder, Loudest - 70s Heavy Metal | https://seventies.libsyn.com/ep-24-loud-louder-loudest-70s-heavy-metal ← ted-nugent
 
 ## songs

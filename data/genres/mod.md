@@ -15,4 +15,5 @@
 - The Jam
 - The Kinks
 - The Who
-
+- Ted Leo
+- Chisel

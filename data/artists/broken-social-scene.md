@@ -22,7 +22,7 @@
 **Toronto Collective** : Broken Social Scene is described as a globally famous Toronto collective known for producing complex material with interesting textures. "A globally famous Toronto collective broken social scene, maybe not pure post-rock, but definitely post-rock adjacent, if that makes any sense." ← https://www.youtube.com/watch?v=9-v4qnOO8wY ← broken-social-scene
 
 ## lists
-**"Broken Social Scene" (2005) — AOTY Must Hear 2000s** : #230, 77 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"You Forgot It in People" (2002) — AOTY Must Hear 2000s** : #388, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"You Forgot It in People" (2002) — Scaruffi 2000s** : #256, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"You Forgot It in People" (2002) — Sputnikmusic Best Albums 2002** : #36, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/
+**"Broken Social Scene" (2005) — AOTY Must Hear 2000s** : #230, 77 AOTY.
+**"You Forgot It in People" (2002) — AOTY Must Hear 2000s** : #388, 7.0/10 Scaruffi.
+**"You Forgot It in People" (2002) — Scaruffi 2000s** : #256, 7.0/10 Scaruffi.
+**"You Forgot It in People" (2002) — Sputnikmusic Best Albums 2002** : #36, 7.0/10 Scaruffi.

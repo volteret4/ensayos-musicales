@@ -17,7 +17,7 @@
 **SOCAN Songwriting Prize (2017)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q16950344
 
 ## lists
-**"Morbid Stuff" (2019) — AOTY Must Hear 2010s** : #86, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"PUP" (2013) — Sputnikmusic Best Albums 2013** : #154, 3.95 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2013/
-**"The Dream Is Over" (2016) — Sputnikmusic Best Albums 2016** : #40, 4.03 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2016/
-**"Morbid Stuff" (2019) — Sputnikmusic Best Albums 2019** : #76, 83 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2019/
+**"Morbid Stuff" (2019) — AOTY Must Hear 2010s** : #86, 83 AOTY.
+**"PUP" (2013) — Sputnikmusic Best Albums 2013** : #154, 3.95 Sputnik.
+**"The Dream Is Over" (2016) — Sputnikmusic Best Albums 2016** : #40, 4.03 Sputnik.
+**"Morbid Stuff" (2019) — Sputnikmusic Best Albums 2019** : #76, 83 AOTY.

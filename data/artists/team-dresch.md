@@ -25,5 +25,5 @@
 **Semi-Solo Post-Riot Grrrl Supergroup** : Team Dresch was described as a "semi-solo post-Riot Grrrl supergroup" centered around Donna Dresch. The band continued the mission of the Riot Grrrl movement into a second wave of groups, maintaining its political and feminist edge. "Another group around at the same time, Slater Kinney was Team Dresh. This was a semi-soda post-Ryade girl supergroup built around Donna Dresh." ← https://www.youtube.com/watch?v=Qss5kC2FUx0 ← team-dresch
 
 ## lists
-**"Personal Best" (1995) — Sputnikmusic Best Albums 1994** : #139, 4.01 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
-**"Captain My Captain" (1996) — Sputnikmusic Best Albums 1996** : #54, 4.15 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
+**"Personal Best" (1995) — Sputnikmusic Best Albums 1994** : #139, 4.01 Sputnik.
+**"Captain My Captain" (1996) — Sputnikmusic Best Albums 1996** : #54, 4.15 Sputnik.

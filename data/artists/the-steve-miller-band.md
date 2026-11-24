@@ -15,6 +15,7 @@
 
 ## curiosities
 **Artwork Designer** : Stanley Mouse Miller's resume includes work for the Steve Miller Band. "Stanley Mous Miller's resume included the grateful dead, Journey, and the Steve Miller band." ← https://www.youtube.com/watch?v=pwebM3TfSdg ← steve-miller-band
+**Classic Rock Canon (1987)** : The Steve Miller Band was part of the "dinosaur rock acts" that comprised the 60s and 70s rock canon, frequently played on AOR radio stations like I-95 in 1987. "The Steve Miller band." ← Hit Parade Music History and Music Trivia > Feet on the Ground, Reaching for the Stars Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761

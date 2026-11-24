@@ -8,6 +8,8 @@
 **Early Top 40 Crossover (1989)** : Madonna was "ahead of the curve" in 1989 by successfully bringing a house beat onto Top 40 radio with the remixed version of "Express Yourself," predating a broader wave of house singles that would begin crossing over on the pop charts later that year. "getting a house beat on top 40 radio ahead of a wave of house singles that would begin crossing over on the pop charts later in 89." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef10c30a1408dc291b9
 **Aretha Franklin's 90s Foray** : In the early 1990s, Aretha Franklin made a deeper foray into House music with her album *What You See Is What You Sweat*, though her attempts to go "full club" on an album often resulted in commercial flops, despite some individual dance track successes. "In the early 90s, Franklin went deeper into New Jack's Swing and House music on the CD What You See is What You Sweat." ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
 **Best House Anthems** : Aretha Franklin's 1994 version of "A Deeper Love" is still recognized on lists of all-time best house anthems, highlighting its lasting impact within the genre. "and still makes lists of all time best house anthems" ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Miami Nightlife Dominance (Mid-90s)** : In the mid-1990s, house music was the dominant genre in the Miami Beach nightlife scene, serving as a connecting force for the community and providing a contrast to "cheesy pop music." "And house music was really the thing of that time. And we did not like cheesy pop music." ← Hit Parade Music History and Music Trivia > One Year - Hey Macarena! | https://my.slate.com/podcasts/feeds/hit-parade/
+**Chic's 90s Blend (1992)** : Chic's 1992 club hit "Your Love" blended their signature sound with the deep bass characteristic of 1990s house music. "Your Love, which blended the Sheik sound with the deep bass of 90s house music." ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - 808 State
@@ -15,3 +17,9 @@
 - Aretha Franklin
 - Stonebridge
 - Madonna
+- Millie Vanilley
+- Nile Rodgers
+- Bernard Edwards
+- Chic
+- Madonna Louise Ciccone
+- Shep Pettybone

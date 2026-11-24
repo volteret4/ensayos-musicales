@@ -10,6 +10,8 @@
 **Joe Jackson's MTV Staple** : Joe Jackson's "Steppin' Out" video became an MTV staple "at the peak of 80s synth pop." This success helped reinvent his career, demonstrating the genre's commercial power and its ability to elevate artists to mainstream prominence. "The video became an MTV staple at the peak of 80s synth pop." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
 **Elvis Costello's Image Re-upholstered** : The success of Elvis Costello's "Every Day I Write The Book" on MTV helped him become "conversant with MTV, re-apholstering his image for the synth pop age." This adaptation allowed him to remain relevant and achieve chart success during the genre's dominance. "It also made Costello conversant with MTV, re-apholstering his image for the synth pop age." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
 **Joe Jackson's Smooth Jazz on Radio** : At the height of synthpop in the summer of 1984, Joe Jackson successfully integrated smooth jazz elements into his music, with "You Can't Get What You Want (Till You Know What You Want)" reaching number 15. This demonstrated an interesting crossover and broadened the sonic palette heard on radio during the synthpop era. "at the height of synth pop, Joe Jackson was getting smooth jazz on the radio." ← Hit Parade Music History and Music Trivia > Angry Young Men Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f028e6dd12efb02cd32
+**Limahl's "The NeverEnding Story"** : This genre describes Limahl's classic 80s song "The NeverEnding Story," which was featured in *Stranger Things*. "The Lamal's Synthpop classic The Never Ending Story" ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**"River Famix" Remix (1993)** : Synthpop duo Fangoria, along with DJ Big Toxic, created the "River Famix" remix of "Macarena" in 1993. This remix infused the traditional flamenco song with a "pulsing electronic beat," representing a "weird idea" to appeal to a younger, more contemporary audience. "One of them was the River Famix by the DJ Big Toxic and Synthpop Duo Fangoria. They replaced the song's traditional flamenco sound with a pulsing electronic beat." ← Hit Parade Music History and Music Trivia > One Year - Hey Macarena! | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Crystal Castles
@@ -20,3 +22,5 @@
 - Eurythmics
 - Laura Branigan
 - The Pointer Sisters
+- Pet Shop Boys
+- Fangoria

@@ -1,17 +1,22 @@
 # artist - Primal Scream
 
 ## members
+- Bobby Gillespie
 - Martin Duffy
 
 ## genres
 - Acid House
 - Alternative
+- British Guitar Combo
 - Britpop
+- danceable rock
 - Eclectic Rock
 - Electronic
 - Indie
+- Progressive Rock
 - Rave
 - Rock
+- Soul
 - Tweetpop
 
 ## labels
@@ -22,9 +27,11 @@
 
 ## albums
 **Screamadelica (1991)** : Released in September 1991, "Screamadelica" is considered the best album of Primal Scream's career. It served as a perfect bridge between the English rave scene and alternative music. "Primal's scream released their brilliant Screama Delica album in September. That was the best album of their career and a perfect bridge between the English rave scene and alternative." ← https://www.youtube.com/watch?v=Rf1tFWQg51Y ← primal-scream ← primal-scream
+**Screamadelica (1991)** : This album, released in the early 1990s, fused acid house and rave with progressive rock and soul, making Primal Scream one of the most acclaimed acts of the early decade from Scotland. "Their album Screamedelica fused acid house and rave to progressive rock and soul." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **XTRMNTR (2000)** : This album by Primal Scream, already considered very powerful, features the track "Swastika Eyes," which was notably remixed by The Chemical Brothers. "sacaron el exterminator, que ya era potentísimo de porse." ← Music Radar Clan > Las mejores colaboraciones y remezclas de The Chemical Brothers | https://www.youtube.com/watch?v=UKrdhEHivO4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← primal-scream ← primal-scream
 
 ## songs
+**Moving On Up (1991)** : This 60s-style groove from Primal Scream was sitting at number 2 on the US Modern Rock chart in late 1991, right next to U2's "Mysterious Ways," indicating the continued success of British dance-inflected rock. "And when U2's mysterious ways topped the U.S. modern rock chart, sitting right next to it at number 2, was primal screams 60s style groove moving on up." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Swastika Eyes** : The Chemical Brothers remixed this track from Primal Scream's album *XTRMNTR*. Their version was lauded as "even more powerful than the original version" and "awesome." "los que Michael Brothers hacía una versión de suástica ais de los prima la escribimos que era aún más potente que la versión original y que era la caña." ← Music Radar Clan > Las mejores colaboraciones y remezclas de The Chemical Brothers | https://www.youtube.com/watch?v=UKrdhEHivO4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← primal-scream ← primal-scream
 **Velocity Girl (1986)** : This song was the first track on the legendary C86 cassette collection, which featured a compilation of power pop and jangly guitar-based songs from various UK indie labels. The track is notable for its brevity, clocking in at 81 seconds. "Primal Scream with Velocity Girl, the first track on the mythical C86 cassette collection." ← https://www.youtube.com/watch?v=VOv5mT1dJd8 ← primal-scream
 
@@ -43,12 +50,14 @@
 **Shocked by Depeche Mode's Excess (1993)** : Primal Scream served as an opening act for Depeche Mode's Devotional Tour at Dave Gahan's insistence, as he believed they shared a similar partying spirit. However, the band was reportedly so shocked by the extreme drug use they witnessed that their singer, Bobby Gillespie, was quoted saying Dave Gahan did more drugs than all of Primal Scream combined, leading them to give up drugs entirely. "The story goes that primal scream was so shocked by what they saw that they gave up drugs entirely." ← https://www.youtube.com/watch?v=Jvh8SP2QKXQ ← primal-scream ← primal-scream
 **Successor of No Wave Philosophy** : Primal Scream, an eclectic band, is difficult to understand without exploring the No Wave movement, which played a crucial role in shaping the sound and philosophies found in their music. "Incluso otros movimientos de roc muy posteriores, pues como podía ser tú, como podía ser el roc industrial de Nine Is Neys o Grim Theater, incluso bandas eclecticas como Prima de stream, yo creo que son muy difíciles entender sin adentrarse en el no wave." ← Music Radar Clan > Qué es el NO WAVE. Es mucho más que música | https://www.youtube.com/watch?v=DrK0WdodRGk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← primal-scream ← primal-scream
 **Techno Influences in Rock** : Primal Scream is cited as another rock band that exhibits techno influences, challenging the perception that rock music is entirely separate from techno. "No olvidemos a primer scream." ← Music Radar Clan > De Madonna a las tiendas de ropa, el TECHNO está por todas partes | https://www.youtube.com/watch?v=qSlLE4EKtmo&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← primal-scream ← primal-scream
+**Acclaimed Early 90s Act** : Primal Scream, led by former Jesus and Mary Chain drummer Bobby Gillespie, was the most acclaimed act of the early 1990s in Scotland, known for fusing acid house and rave with progressive rock and soul on their album "Screamadelica." "The most acclaimed act of the early decade was Scotland's primal scream, led by former Jesus and Marychain drummer Bobby Gillespie." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Contemporary Danceable Rock (November 1991)** : In November 1991, Primal Scream had a "then-current hit" on alternative radio with their danceable rock, fitting seamlessly alongside U2's "Mysterious Ways" and other Britpop bands. "it fit right in alongside the other danceable rock on alternative radio, including then-current hits by Britpop bands' primal scream and blur." ← Hit Parade Music History and Music Trivia > With or Without U2 Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Screamadelica" (1991) — 1001 Albums You Must Hear Before You Die** : #704, 7.0/10 Scaruffi.
 **"Vanishing Point" (1997) — 1001 Albums You Must Hear Before You Die** : #841.
-**"Screamadelica" (1991) — AOTY Must Hear 1990s** : #391, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Screamadelica" (1991) — Scaruffi 1990s** : #1053, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Screamadelica" (1991) — Pitchfork: The 150 Best Albums of the 1990s** : #96, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Screamadelica" (1991) — Sputnikmusic Best Albums 1991** : #81, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"XTRMNTR" (2000) — Sputnikmusic Best Albums 2000** : #143, 3.98 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2000/
+**"Screamadelica" (1991) — AOTY Must Hear 1990s** : #391, 7.0/10 Scaruffi.
+**"Screamadelica" (1991) — Scaruffi 1990s** : #1053, 7.0/10 Scaruffi.
+**"Screamadelica" (1991) — Pitchfork: The 150 Best Albums of the 1990s** : #96, 7.0/10 Scaruffi.
+**"Screamadelica" (1991) — Sputnikmusic Best Albums 1991** : #81, 7.0/10 Scaruffi.
+**"XTRMNTR" (2000) — Sputnikmusic Best Albums 2000** : #143, 3.98 Sputnik.

@@ -17,6 +17,8 @@
 **Space Rock (Early 1990s) – The Verve; Pink Floyd Update with Heavy Reverb** : Following shoegaze, a related strand labeled "space rock" featured heavy reverb, multiple layers of distorted guitars, and relaxed, almost cosmic drumming — an update on what Pink Floyd did in the late 1960s. The Verve (before the legal dispute over their name) exemplified this on their debut album A Storm in Heaven (1993). "It's kind of like an update in what Pink Floyd was about in the late 1960s." ← https://www.youtube.com/watch?v=B2ZbaaYx0MI ← psychedelic-rock
 **Spacemen 3 (UK, Mid-1980s) – "Taking Drugs to Make Music to Take Drugs To"** : Spacemen 3 were categorized as a drug band because members openly and enthusiastically discussed their regular drug use. Their early demos were released under the title Taking Drugs to Make Music to Take Drugs To, which was their stated mission. They promoted what they called "minimalist psychedelia": one or two chords often sufficed, and the drone was central to the effect. Active on the UK indie charts from the mid-to-late 1980s, they split into two projects when the band dissolved — co-frontman Jason Pierce went on to form Spiritualized. "Their early demos were issued under the title, Taking Drugs to Make Music To Take Drugs To." ← https://www.youtube.com/watch?v=B2ZbaaYx0MI ← psychedelic-rock
 **The Paisley Underground (Los Angeles) – Jangly 12-String Guitars; The Bangles, R.E.M., Tom Petty** : In Los Angeles in the early 1980s, a scene called the Paisley Underground blended classic rock (birds, Byrds, post-Beatles George Harrison), the Doors, Creedence Clearwater Revival, and post-punk alternative into jangly, 12-string guitar-driven psychedelic pop. The Bangles emerged from this scene, beginning as a mamas-and-papas-influenced pop-psych post-punk band. This jangly-guitar approach was also enormously influential on R.E.M. (their first half-dozen records) and Tom Petty. "This was a sound dominated by jangly guitars, reminiscent of the kind of music played by groups like the birds and the hallies." ← https://www.youtube.com/watch?v=B2ZbaaYx0MI ← psychedelic-rock
+**The Verve's Early Sound** : The Verve initially refined their sound from psychedelic rock and shoegaze before moving to a more accessible Britpop style. "The Verne, a band from Wigan, Greater Manchester, had refined their sound from psychedelic rock and shoegas." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Bay Area and West Coast Origins** : Psychedelic rock music began to emerge from the Bay Area and the West Coast in general, with albums like Jefferson Airplane's "Surrealistic Pillow" (1967) and songs like "She Has Funny Cars" serving as prime examples of the genre's early sound and development. "the kind of psychedelic rock that was starting to come out of the Bay Area and the West Coast in general." ← Hit Parade Music History and Music Trivia > The Bridge - Ladies of the Canyon and the Rhythm Nation | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Animal Collective
@@ -45,4 +47,11 @@
 - The Doors
 - Unknown Mortal Orchestra
 - The War on Drugs
-
+- Prince
+- Blur
+- Sly and the Family Stone
+- The Stone Roses
+- Happy Mondays
+- The Verve
+- Blue Cheer
+- Creedence Clearwater Revival

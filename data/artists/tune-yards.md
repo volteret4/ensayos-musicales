@@ -48,6 +48,6 @@
 **Unconventional Spelling and Capitalization** : Tune-Yards, the project of Merrill Garbus, is characterized by its leader's unconventional notions of spelling and capitalization, adding to the distinctiveness of her artistic presentation. "plus her notions of spelling and capitalization are unconventional." ← https://www.youtube.com/watch?v=rEawe_1Fqf0 ← tune-yards
 
 ## lists
-**"Nikki Nack" (2014) — AOTY Must Hear 2010s** : #600, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Whokill" (2011) — AOTY Must Hear 2010s** : #854, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Whokill" (2011) — Scaruffi 2010s** : #335, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Nikki Nack" (2014) — AOTY Must Hear 2010s** : #600, 82 AOTY.
+**"Whokill" (2011) — AOTY Must Hear 2010s** : #854, 7.0/10 Scaruffi.
+**"Whokill" (2011) — Scaruffi 2010s** : #335, 7.0/10 Scaruffi.

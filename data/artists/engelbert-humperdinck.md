@@ -1,5 +1,8 @@
 # artist - Engelbert Humperdinck
 
+## songs
+**Release Me (1967)** : This song was a number four hit in America in 1967. In the UK, it "infamously" became a number one hit that notably prevented The Beatles' "Penny Lane" and "Strawberry Fields Forever" from reaching the top spot. "Humberding's release me was a number four hit in America in 1967 and in the UK, infamously, Humberding's song was a number one that blocked the Beatles' penny lane and strawberry fields forever from hitting the top." ← Hit Parade Music History and Music Trivia > Singing Nuns and Green Tambourines Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **Declined Plastic Beach Participation** : Damon Albarn asked Engelbert Humperdinck to appear on the Gorillaz album "Plastic Beach," but he declined. "Damon had even asked Engelbert Humberding to appear, but Alassie declined." ← https://www.youtube.com/watch?v=iVdTCqpd798 ← engelbert-humperdinck
 

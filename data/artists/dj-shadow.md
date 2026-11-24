@@ -50,10 +50,10 @@
 
 ## lists
 **"Endtroducing....." (1996) — 1001 Albums You Must Hear Before You Die** : #815, 92 AOTY.
-**"Endtroducing....." (1996) — AOTY Must Hear 1990s** : #164, 92 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"The Private Press" (2002) — AOTY Must Hear 2000s** : #409, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Endtroducing....." (1996) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #329, 92 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Endtroducing....." (1996) — Scaruffi 1990s** : #202, 92 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Endtroducing....." (1996) — Pitchfork: The 150 Best Albums of the 1990s** : #49, 92 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"What Does Your Soul Look Like?" (1994) — Sputnikmusic Best Albums 1994** : #24, 4.25 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
-**"Endtroducing....." (1996) — Sputnikmusic Best Albums 1996** : #1, 92 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
+**"Endtroducing....." (1996) — AOTY Must Hear 1990s** : #164, 92 AOTY.
+**"The Private Press" (2002) — AOTY Must Hear 2000s** : #409, 81 AOTY.
+**"Endtroducing....." (1996) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #329, 92 AOTY.
+**"Endtroducing....." (1996) — Scaruffi 1990s** : #202, 92 AOTY.
+**"Endtroducing....." (1996) — Pitchfork: The 150 Best Albums of the 1990s** : #49, 92 AOTY.
+**"What Does Your Soul Look Like?" (1994) — Sputnikmusic Best Albums 1994** : #24, 4.25 Sputnik.
+**"Endtroducing....." (1996) — Sputnikmusic Best Albums 1996** : #1, 92 AOTY.

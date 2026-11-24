@@ -6,6 +6,9 @@
 ## labels
 - 604 Records
 
+## songs
+**Why Don't You & I (2003)** : Chad Kroeger, lead singer of Nickelback, was featured as the singer on Santana's hit "Why Don't You & I." This track illustrates Santana's continued success with prominent featured vocalists. "and Nickelback lead singer Chad Kroger." ← Hit Parade Music History and Music Trivia > The Feat. Don’t Fail Me Now Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **Future Potential** : It is suggested that if he can navigate the public criticism often directed at Nickelback, he has the potential to become as prominent, or even more so, than his Canadian superproducer predecessors. "So you watch if he can survive the Nickelback wine he could end up as big or bigger than some of his Canadian super producer predecessors." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← chad-kroeger
 **Nickelback Success** : Chad Kroeger is a member of Nickelback, a band that has sold over 10 million albums. "Nickelback has sold more than 10 million albums." ← https://www.youtube.com/watch?v=QkSKxm_U9Yc ← chad-kroeger

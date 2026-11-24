@@ -79,4 +79,4 @@
 **Undiagnosed Congenital Heart Condition (Intramural Coronary Artery)** : Joe Strummer had an extremely rare, undiagnosed congenital heart condition called an intramural coronary artery, where an errant artery grew through his heart muscle. This condition quietly worsened, eventually constricting the artery and triggering a massive heart attack; only about 100 similar cases have ever been recorded. "He had something called an intramural coronary artery, a congenital condition that quietly got worse. This errant artery grew through the heart muscle. It got bigger and bigger until the artery squeezed shut, triggering a massive heart attack." ← https://www.youtube.com/watch?v=19Z_AAEy8Bc ← joe-strummer
 
 ## lists
-**"Streetcore" (2003) — AOTY Must Hear 2000s** : #332, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
+**"Streetcore" (2003) — AOTY Must Hear 2000s** : #332, 83 AOTY.

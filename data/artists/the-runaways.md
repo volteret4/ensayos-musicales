@@ -6,10 +6,12 @@
 - Joan Jett
 - Lita Ford
 - Micki Steele
+- Mickie Steel
 - Sandy West
 
 ## genres
 - Hard Rock
+- Proto-Punk
 - Punk
 
 ## albums
@@ -35,3 +37,6 @@
 **Sandy West's Early Death** : Sandy West, the drummer for The Runaways, died in 2006 at the age of 47 from lung cancer. Her early passing marked a tragic end for a pioneering figure in hard rock drumming. "And then Sandy died in 2006 of lung cancer at the age of 47." ← https://www.youtube.com/watch?v=9GHpC0kCgHY ← the-runaways
 **Sexism and Abusive Rehearsal Tactics** : The band faced tremendous sexism throughout their career. Producer Kim Fowley was rumored to have had crew members throw objects at them during rehearsals, purportedly to accustom them to the abuse they would encounter during live performances. "Legend has it that Fowley had their crew throw stuff at them during rehearsals, so they get used to the abuse whenever they played live." ← https://www.youtube.com/watch?v=vV1APhjBt9M ← the-runaways ← the-runaways
 **Success in Japan vs. North America** : During their four years together (1975-1979), The Runaways struggled to establish a significant career in North America. However, they were a sensation in Japan, where they achieved considerable commercial success and even recorded a live album in 1977. "But in Japan, it's another story. They were quite the sensation." ← https://www.youtube.com/watch?v=vV1APhjBt9M ← the-runaways ← the-runaways
+**Mickie Steel's Membership** : Mickie Steel, later known as Michael Steel, was a member of the first version of The Runaways, an all-women band, alongside Joan Jett and Sandy West. She departed the group before their first recording was officially issued. "Mickey Steel had played in the first version of The Runaways, the legendary All-Women band. Alongside Joan Jet and Sandy West." ← Hit Parade Music History and Music Trivia > Be the One to Walk in the Sun, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**All-Female Proto-Punk Band** : Founded in 1975, The Runaways were an all-female LA proto-punk band, described as even more seminal than The Go-Go's. "Born in Pennsylvania before relocating to the West Coast, Jett was a founding member of the Runaways. Another all-female LA Proto-Punk band founded in 1975 that was even more seminal than the Go-Go's." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Breakup in 1979** : The Runaways broke up in 1979, after which Joan Jett, barely in her 20s, pursued a solo career. "When the Runaways broke up in 1979, Jett was barely in her 20s, and she quickly attached herself to the punk scene." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/

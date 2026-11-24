@@ -19,6 +19,7 @@
 **Reunion with Bill Doggett for Rhythmic Music** : In 1962, Ella Fitzgerald sought to return to making music with more rhythm, deviating from her recent albums of ballads, and specifically teamed up with Bill Doggett to achieve this goal. "In 1962, he teamed up again with LFHT's Gerald, who wanted to go back to making music with a bit more rhythm than her recent albums of balance." ← Episode 50： ＂Honky Tonk＂, by Bill Doggett | https://www.youtube.com/watch?v=H2rYnKmeZF0
 **Successor to Chick Webb's Band Leadership** : After Chick Webb's death in June 1939 at age 34, Ella Fitzgerald became the leader of his band, though it ultimately disbanded in the mid-1940s like many big bands. "He died aged 34 in June 1939, and Ella Fitzgerald became the leader of his band." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
 **Teenage Star with Chick Webb** : As a new teenage singer for Chick Webb's band, Ella Fitzgerald was already recognized as one of the great singers of her time. "His new teenage singer, Ella Fitzgerald, in particular, was already one of the great singers." ← Episode 4： ＂Choo Choo Ch'Boogie＂ by Louis Jordan | https://www.youtube.com/watch?v=DFZnwvsXGJM
+**Perennial Holiday Album Sales** : Ella Fitzgerald's holiday LPs are mentioned as examples of albums that achieve regular, long-term sales success as holiday perennials. "holiday LPs from Frank Sinatra to Ella Fitzgerald to Kenny G" ← Hit Parade Music History and Music Trivia > Make My Wish Come True Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Chevalier des Arts et des Lettres** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q13452528
@@ -36,6 +37,6 @@
 
 ## lists
 **"Ella Fitzgerald Sings the George and Ira Gershwin Song Book" (1959) — 1001 Albums You Must Hear Before You Die** : #19.
-**"Ella and Louis" (1956) — AOTY Must Hear 1950s** : #17, 75 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1950s/
-**"Ella Fitzgerald Sings the Irving Berlin Song Book" (1958) — Grammy Award: Album of the Year nominees** : #1959. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Ella and Basie!" (1963) — Pitchfork: The 200 Best Albums of the 1960s** : #175. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Ella and Louis" (1956) — AOTY Must Hear 1950s** : #17, 75 AOTY.
+**"Ella Fitzgerald Sings the Irving Berlin Song Book" (1958) — Grammy Award: Album of the Year nominees** : #1959.
+**"Ella and Basie!" (1963) — Pitchfork: The 200 Best Albums of the 1960s** : #175.

@@ -38,4 +38,4 @@
 
 ## lists
 **"Fisherman’s Blues" (1988) — 1001 Albums You Must Hear Before You Die** : #611.
-**"This Is The Sea" (1985) — Scaruffi 1980s** : #799, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"This Is The Sea" (1985) — Scaruffi 1980s** : #799, 7.0/10 Scaruffi.

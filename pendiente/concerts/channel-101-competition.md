@@ -1,0 +1,5 @@
+# concert - Channel 101 Competition
+
+## curiosities
+**Yacht Rock Web Series Debut** : The "Yacht Rock" Web TV series debuted at the Channel 101 competition in 2005, winning through 10 episodes. The competition typically discouraged cliffhangers, but the series used one at the end of its first episode to secure votes for subsequent episodes. "We made it for the channel 101 contest and we were trying to get voted back for another episode." ← Hit Parade Music History and Music Trivia > The Bridge - Yacht Or Nyacht | https://my.slate.com/podcasts/feeds/hit-parade/
+**Steely Dan vs. Eagles Episode Failure** : The "Steely Dan versus Eagles" episode of the Yacht Rock series "did poorly at channel 101 and got voted out," likely because it was a "side episode" that didn't feature the main characters, making it less accessible to new audience members who weren't already familiar with the show's narrative. "And our episode that did poorly at channel 101 and got voted out was a huge hit with this Chicago crowd." ← Hit Parade Music History and Music Trivia > The Bridge - Yacht Or Nyacht | https://my.slate.com/podcasts/feeds/hit-parade/

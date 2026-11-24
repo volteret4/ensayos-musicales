@@ -12,4 +12,4 @@
 **Part of Three 6 Mafia Mythology** : As a member of Three 6 Mafia, Koopsta Knicca was an integral part of the band's self-created mythology. Each member, including Koopsta Knicca, was depicted as if emerging from a secret horror lodge, forming a nightmarish rock'n'roll coven from the margins of Memphis. "cada miembro, cofstanica... parecía sacado de una lujia secreta de terror." ← Memphis Rap： Cuando el rap era puro terror | https://www.youtube.com/watch?v=lWBpNa-xSt4
 
 ## lists
-**"Da Devil's Playground" (1999) — Sputnikmusic Best Albums 1999** : #65, 4.13 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1999/
+**"Da Devil's Playground" (1999) — Sputnikmusic Best Albums 1999** : #65, 4.13 Sputnik.

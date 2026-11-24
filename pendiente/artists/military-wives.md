@@ -1,0 +1,7 @@
+# artist - Military Wives
+
+## songs
+**Wherever You Are (2011)** : "Wherever You Are" was the plaintive, heart-rending single by the Military Wives that became the UK Christmas number one in 2011. The song, performed by spouses of British soldiers serving in Afghanistan, sold more than half a million copies. Its proceeds were dedicated to supporting the Royal British Legion and other armed forces charities, making it a "Do Gooder Single" that broke The X-Factor's typical chart monopoly. "Proceeds of which benefited the Royal British Legion and armed forces charities sold more than a half million copies to take the Christmas 2011 UK title." ← Hit Parade Music History and Music Trivia > The Christmas is All Around Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## curiosities
+**UK Christmas Number One (2011) - Charity Single** : The Military Wives, a group comprising spouses of British soldiers fighting in the Afghanistan conflict, achieved the UK Christmas number one in 2011 with their single "Wherever You Are." This "left-field" single, created by non-professional singers, sold over half a million copies, with proceeds benefiting the Royal British Legion and other armed forces charities. Their success marked a new type of single capable of interrupting The X-Factor's dominance. "Military Wives were just that. Spouses of British soldiers off-fighting in the prolonged Afghanistan conflict." ← Hit Parade Music History and Music Trivia > The Christmas is All Around Edition | https://my.slate.com/podcasts/feeds/hit-parade/

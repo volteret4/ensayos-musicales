@@ -1,6 +1,7 @@
 # artist - Sean Lennon
 
 ## member of
+- John Lennon
 - The Claypool Lennon Delirium
 
 ## albums

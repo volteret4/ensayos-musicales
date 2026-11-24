@@ -10,6 +10,7 @@
 
 ## songs
 **To Love Somebody (2005)** : This song is a cover of a 1967 hit by the Bee Gees, included on Billy Corgan's solo album, The Future Embrace, released in the summer of 2005. "It's a cover of a 1967 Bee Gees hit called The Love Somebody." ← Ongoing History of New Music > Going Solo | https://www.youtube.com/watch?v=-f9jhqAHkQo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**To Love Somebody (2005)** : Billy Corgan was among the more than two dozen artists, many of them American, who recorded a cover version of the Bee Gees' song "To Love Somebody." "It would later be recorded by more than two dozen artists, many of them American, from Nina Simone, to Graham Parsons, to Billy Corgan." ← Hit Parade Music History and Music Trivia > The Nights on Broadway Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Dictatorial Leadership of The Smashing Pumpkins** : Corgan ran The Smashing Pumpkins as a "dictatorship," considering it "his band, his songs," which contributed to the band's eventual deterioration. "While the smashing pumpkins were together, Billy pretty much ran it as a dictatorship. It was his band, his songs." ← Ongoing History of New Music > Going Solo | https://www.youtube.com/watch?v=-f9jhqAHkQo&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG

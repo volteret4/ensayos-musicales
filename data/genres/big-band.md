@@ -12,6 +12,7 @@
 **Prominent Disappearance - Glenn Miller** : The leader of a prominent Big Band, Glenn Miller, mysteriously disappeared in December 1942 when his military plane went down over the English Channel during World War II. "No one has ever heard from Big Band leader Glenn Miller after his military plane evidently went down somewhere over the English Channel while on a mission during World War II." ← https://www.youtube.com/watch?v=sCwgvHg86Oc ← big-band
 **The King Sisters** : Win Butler's grandmother, Elvino Ray's wife, was a member of The King Sisters, a notable big band singing group. "A grandmother, Elvino's wife, was a member of the King Sisters, a big band singing group." ← https://www.youtube.com/watch?v=Q_c-m_NDznw ← big-band ← big-band
 **WWII Decline Factors** : The Big Band genre experienced a decline during World War II because many musicians were drafted, dance halls closed, and gasoline rationing hindered touring. Additionally, some ambitious musicians grew tired of the rigid structure and began to explore new styles like bebop. "When the war started, Big Band started to suffer." ← https://www.youtube.com/watch?v=V7WjNR1ujhk ← big-band
+**Chart-Topping Soundtrack Dominance (1940s)** : The Big Band era, led by legends like Glenn Miller, saw numerous chart-topping soundtrack hits in the 1940s, often from films in which the bandleaders themselves co-starred. This era saw movie music primarily sold as singles rather than full soundtrack albums on 78 RPM vinyl. "This was the era of the Big Band, led by legends like Glenn Miller." ← Hit Parade Music History and Music Trivia > Hooked to the Silver Screen Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Benny Goodman
@@ -19,4 +20,5 @@
 - Paul Whiteman
 - The Smashing Pumpkins
 - Tommy Dorsey
-
+- The Pointer Sisters
+- Glenn Miller

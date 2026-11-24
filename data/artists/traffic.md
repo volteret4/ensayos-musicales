@@ -15,11 +15,14 @@
 ## songs
 **Only You Know and I Know (1970)** : Written by Dave Mason, a founding member of Traffic. Mason had a hit with this song in 1970, and Delaney & Bonnie later released it as a single in 1971. Traffic was present at the Festival Express, leading to speculation about whether they performed this song, possibly with Delaney & Bonnie. "Only You Know and I Know was written by Dave Mason one of traffic's founding members. Now traffic was there too." ← For the Record - The 70s > Ep. 59 - Bands and Booze on the Festival Express of 1970 | https://www.ftr70.com/ ← traffic
 
+## curiosities
+**Belated Rock and Roll Hall of Fame Induction (2004)** : Traffic was among the inductees at the March 2004 Rock and Roll Hall of Fame ceremony who had been eligible for the honor for about a decade or more before being belatedly inducted. "That night in 2004, virtually all of the inductees, Jackson Brown, The Dells, Bob Seeger, Traffic, ZZ Top, had been eligible for the honor about a decade or more apiece before being belatedly let in." ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## charts
 **""Here We Go Round the Mulberry Bush" ‡" — UK Singles Chart** : #3, 1968. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
 
 ## lists
 **"Traffic" (1968) — 1001 Albums You Must Hear Before You Die** : #108.
 **"John Barleycorn Must Die" (1970) — 1001 Albums You Must Hear Before You Die** : #198, 7.0/10 Scaruffi.
-**"Mr Fantasy" (1967) — Scaruffi 1960s** : #68, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"John Barleycorn Must Die" (1970) — Scaruffi 1970s** : #538, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Mr Fantasy" (1967) — Scaruffi 1960s** : #68, 7.5/10 Scaruffi.
+**"John Barleycorn Must Die" (1970) — Scaruffi 1970s** : #538, 7.0/10 Scaruffi.

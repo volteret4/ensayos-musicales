@@ -5,4 +5,5 @@
 
 ## artists
 - The Smiths
-
+- Hootie & the Blowfish
+- The La's

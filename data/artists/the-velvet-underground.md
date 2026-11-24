@@ -157,6 +157,8 @@
 **John Cale Produced The Stooges' Debut** : John Cale of The Velvet Underground was brought in to produce The Stooges' debut record. "He found John Kale, the velvet underground to produce their debut record." ← https://www.youtube.com/watch?v=w-rihv544I8 ← velvet-underground
 **Material Dispute with Lou Reed** : During the recording of Lou Reed's solo album "Transformer," some material was used that had originated during the Velvet Underground period. According to John Kelly, a member of the Velvet Underground, Lou Reed had retained material that was partially his but not exclusively his own. "Tenemos ahí algunas frases de John Kelly, de algunos de los miembros que decía que Luric se había quedado con material que era suyo pero que no era solo suyo." ← Music Radar Clan > Tras los pasos de Lou Reed | https://www.youtube.com/watch?v=aLzyz4Ec5cU&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← velvet-underground ← velvet-underground
 **Stereo Recording Experiment (1968)** : In 1968, The Velvet Underground demonstrated cutting-edge use of stereophonic sound, allowing for distinct separation of instruments and vocals across two audio channels. "The Velvet Underground with a cutting-edge example of what you could do with this new thing called stereophonic sound back in 1968." ← https://www.youtube.com/watch?v=GES0Ms_kaCI ← velvet-underground
+**Inventors of Punk and Alternative Music** : To many musicians and music appreciators, The Velvet Underground, especially during their years fronted by Lou Reed, are considered the "true inventors of punk and alternative music," even preceding groups like The Stooges and The New York Dolls. Brian Eno famously quipped that everyone who bought their debut album formed a band. They were a key influence on both The B-52s and R.E.M. "To many musicians and music appreciators, even before the Stooges and the New York Dolls, the Velvet Underground, especially in its years fronted by Lou Reed, are the true inventors of punk and alternative music." ← Hit Parade Music History and Music Trivia > The Deadbeat Club Edition, Part One | https://my.slate.com/podcasts/feeds/hit-parade/
+**Out-of-Print Status in Late 70s** : By the late 1970s, The Velvet Underground's LPs, which had never sold particularly well, were largely out of print. R.E.M. guitarist Peter Buck often reminded fans of this in interviews, emphasizing that their music was for "crate diggers and hardcore music nerds" during that period, making it a discovery for dedicated music lovers like Buck and Michael Stipe. "By the late 70s, the Velvet's LP's, which had never sold all that well in the first place, had largely gone out of print." ← Hit Parade Music History and Music Trivia > The Deadbeat Club Edition, Part One | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Rock and Roll Hall of Fame (1996)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
@@ -167,18 +169,18 @@
 **"The Velvet Underground & Nico" (1967) — 1001 Albums You Must Hear Before You Die** : #91, 100 AOTY.
 **"White Light/White Heat" (1968) — 1001 Albums You Must Hear Before You Die** : #104, 100 AOTY.
 **"The Velvet Underground" (1969) — 1001 Albums You Must Hear Before You Die** : #152, 100 AOTY.
-**"The Velvet Underground" (1969) — AOTY Must Hear 1960s** : #30, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"White Light/White Heat" (1968) — AOTY Must Hear 1960s** : #45, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"The Velvet Underground & Nico" (1967) — AOTY Must Hear 1960s** : #58, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"Loaded" (1970) — AOTY Must Hear 1970s** : #231, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"The Velvet Underground & Nico" (1967) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #23, 100 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"The Velvet Underground" (1969) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #143, 100 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Loaded" (1970) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #242, 100 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"White Light/White Heat" (1968) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #272, 100 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"The Velvet Underground & Nico" (1967) — Scaruffi 1960s** : #8, 100 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"White Light White Heat" (1967) — Scaruffi 1960s** : #9, 9.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Live" (1974) — Scaruffi 1970s** : #79, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Loaded" (1970) — Pitchfork: The 100 Best Albums of the 1970s** : #14, 100 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"The Velvet Underground & Nico" (1967) — Pitchfork: The 200 Best Albums of the 1960s** : #1, 100 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
-**"The Velvet Underground" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #12, 100 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
-**"White Light/White Heat" (1968) — Pitchfork: The 200 Best Albums of the 1960s** : #26, 100 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"The Velvet Underground" (1969) — AOTY Must Hear 1960s** : #30, 100 AOTY.
+**"White Light/White Heat" (1968) — AOTY Must Hear 1960s** : #45, 100 AOTY.
+**"The Velvet Underground & Nico" (1967) — AOTY Must Hear 1960s** : #58, 100 AOTY.
+**"Loaded" (1970) — AOTY Must Hear 1970s** : #231, 100 AOTY.
+**"The Velvet Underground & Nico" (1967) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #23, 100 AOTY.
+**"The Velvet Underground" (1969) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #143, 100 AOTY.
+**"Loaded" (1970) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #242, 100 AOTY.
+**"White Light/White Heat" (1968) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #272, 100 AOTY.
+**"The Velvet Underground & Nico" (1967) — Scaruffi 1960s** : #8, 100 AOTY.
+**"White Light White Heat" (1967) — Scaruffi 1960s** : #9, 9.0/10 Scaruffi.
+**"Live" (1974) — Scaruffi 1970s** : #79, 8.0/10 Scaruffi.
+**"Loaded" (1970) — Pitchfork: The 100 Best Albums of the 1970s** : #14, 100 AOTY.
+**"The Velvet Underground & Nico" (1967) — Pitchfork: The 200 Best Albums of the 1960s** : #1, 100 AOTY.
+**"The Velvet Underground" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #12, 100 AOTY.
+**"White Light/White Heat" (1968) — Pitchfork: The 200 Best Albums of the 1960s** : #26, 100 AOTY.

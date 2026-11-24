@@ -3,6 +3,9 @@
 ## member of
 - Simon & Garfunkel
 
+## albums
+**Bridge Over Troubled Water (1970)** : Art Garfunkel won a Grammy for this final album with Paul Simon in the 1970s, which also received the big prize for Album of the Year. "Paul Simon took it twice, once with Art Garfunkel for their final album Bridge Over Troubled Water" ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **Early Career as "Tom"** : Art Garfunkel was the "Tom" in the duo Tom and Jerry, whose partner Jerry Landis was later revealed to be Paul Simon. "Jerry Landis went on to record under other names, like True Taylor and Paul Kane, before getting back together with Tom and deciding to work together under their real names." ← Episode 89： ＂Will You Love Me Tomorrow？＂ by the Shirelles | https://www.youtube.com/watch?v=7Kns2HGcuSg
 

@@ -21,6 +21,8 @@
 **Studying Aid for High Achievers** : Indie music was identified as the third genre listened to by students who achieved the highest grades, suggesting it is effective for studying. "and number three, indie." ← https://www.youtube.com/watch?v=KtdIMNoHqA8 ← indie ← indie
 **UK Record Charts Influence** : The UK music scene favored the term "indie" partly due to their love for record charts, with an official independent record chart existing since at least 1980, publicizing the progress of indie artists weekly. "An official independent record chart had been part of the music culture since at least 1980." ← https://www.youtube.com/watch?v=__7iEl3lH8g ← indie ← indie
 **Underground Cred and Self-Promotion** : Some artists aim to maintain "original underground cred" by avoiding traditional label structures, instead using platforms like blogs, Myspace, Facebook, YouTube, SoundCloud, and Bandcamp for promotion and distribution. "They want to keep their original underground cred and find alternate ways of promoting themselves and distributing their music." ← https://www.youtube.com/watch?v=__7iEl3lH8g ← indie ← indie
+**Roots of Seattle Music** : Punk and indie were considered the heart of first-wave Seattle music. Bands like Candlebox were criticized for having "limited connection to the punk and indie" roots. "with limited connection to the punk and indie at the heart of first wave Seattle music" ← Hit Parade Music History and Music Trivia > Madonna - The Veronica Electronica Edition (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
+**Definition Context** : Liz Phair had a "string of acclaimed 90s indie albums" before her major label career, indicating her roots in independent music. "after her string of acclaimed 90s indie albums signed to the majors in the 2000s and cracked the top 40 in 2003 with the number 32 hit Why Can't I?" ← Hit Parade Music History and Music Trivia > One and Done, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Arcade Fire
@@ -72,4 +74,6 @@
 - The Strokes
 - The White Stripes
 - Will Cullen Hart
-
+- Ted Leo
+- Chisel
+- The Promise Ring

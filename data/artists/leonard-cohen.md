@@ -18,6 +18,8 @@
 **I'm Your Man (1988)** : This album, released in 1988, represented an unexpected breakthrough for Leonard Cohen into the alternative music world, achieving significant success. "Leonard made a strange breakthrough into the alternative world in 1988 when his album I'm Your Man became a hit." ← https://www.youtube.com/watch?v=sEZ13v1LNYQ ← leonard-cohen ← leonard-cohen
 **I'm Your Man (1988)** : This album, released in 1988, marked a significant breakthrough for Leonard Cohen into the alternative music world, becoming a hit. It features the song "First We Take Manhattan," which showcases his characteristically low baritone voice. "Leonard made a strange breakthrough into the alternative world in 1988 when his album, I'm Your Man, became a hit." ← https://www.youtube.com/watch?v=7_ZmZxnSOnE ← leonard-cohen
 **I'm Your Man (1988)** : This album, released in 1988 when Cohen was 54, was strategically marketed by Columbia Records to an open-minded alternative rock audience, leading to tremendous critical and commercial success through airplay on alternative radio and producing three singles. "The album was called I'm Your Man, and it was a tremendous critical and commercial success, something that was built through airplay on alternative radio." ← https://www.youtube.com/watch?v=P45lJTdneoI ← leonard-cohen ← leonard-cohen
+**Old Ideas (2012)** : Released in 2012, this album, along with "You Want It Darker," showcased Leonard Cohen's ability to produce some of the most compelling contemporary music late in his life. The lyrics were highly regarded for their poignancy concerning themes of life and death, demonstrating that wisdom and experience can profoundly enhance the songwriting process, challenging the common trope that an artist's best work only occurs early on. "his albums, old ideas and you want it darker... were some of the most poignant lyrics about life, death." ← Hit Parade Music History and Music Trivia > The Bridge - Monster Drums Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**You Want It Darker (2016)** : This 2016 album features some of Leonard Cohen's most compelling and poignant lyrics about life, death, and spiritual themes. A representative passage includes the lines, "We killed a flame. Magnified sanctified be thy holy name. Villified, crucified in the human frame. A million candles burning for the help that never came." "You want it darker?" ← Hit Parade Music History and Music Trivia > The Bridge - Monster Drums Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## songs
 **First We Take Manhattan (1988)** : Featured on Leonard Cohen's 1988 breakthrough album *I'm Your Man*, this song demonstrates his extremely low vocal range, notably including a low B flat. Cohen's vocal style, described as more of a drone or "method acting" than traditional singing, conveys deep emotion. "And that record is this song, first we take Manhattan." ← https://www.youtube.com/watch?v=7_ZmZxnSOnE ← leonard-cohen
@@ -26,6 +28,7 @@
 **Sisters of Mercy** : This song inspired the name of the prominent goth band The Sisters of Mercy and is cited as an example of Cohen's dark material that appealed to goth fans. "And then there's his song Sisters of Mercy, from which the band took their name." ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← leonard-cohen
 **So Long, Marianne** : This older song by Leonard Cohen was turned into a hit by other artists. "A couple of his songs like Suzanne and Solon O'Marion were turned into hits by other artists." ← https://www.youtube.com/watch?v=P45lJTdneoI ← leonard-cohen ← leonard-cohen
 **Suzanne** : This older song by Leonard Cohen was turned into a hit by other artists. "A couple of his songs like Suzanne and Solon O'Marion were turned into hits by other artists." ← https://www.youtube.com/watch?v=P45lJTdneoI ← leonard-cohen ← leonard-cohen
+**That's No Way to Say Goodbye (1967)** : This song was written by Leonard Cohen in 1967. A Black singer and pianist from Washington D.C., newly signed to Atlantic Records, took this song and transformed it to kick off the 1970s before the decade had even begun. "Around this same time in 1969, a black singer and pianist from Washington, DC newly signed to the Atlantic label took this 1967 Leonard Cohen song. And that's no way to say goodbye. And she turned it into this, kicking off the 70s before the decade had even begun." ← Hit Parade Music History and Music Trivia > Killing Me Softly Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **"Second Act" Breakthrough (Age 54, 1988)** : Leonard Cohen experienced a major career resurgence, or "second act," in 1988 at age 54 with the album *I'm Your Man*. Columbia Records successfully marketed him to the alternative rock crowd, leading to global stardom that far surpassed his initial career fame. "And it all began, or began again, if you want, with a record by a 54-year-old that was marketed to 20-somethings in 1988." ← https://www.youtube.com/watch?v=P45lJTdneoI ← leonard-cohen ← leonard-cohen
@@ -102,24 +105,24 @@
 **"Songs From a Room" (1969) — 1001 Albums You Must Hear Before You Die** : #168.
 **"Songs of Love and Hate" (1971) — 1001 Albums You Must Hear Before You Die** : #228, 98 AOTY.
 **"I’m Your Man" (1988) — 1001 Albums You Must Hear Before You Die** : #610.
-**"Songs From a Room" (1969) — AOTY Must Hear 1960s** : #26. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"Songs of Leonard Cohen" (1967) — AOTY Must Hear 1960s** : #47, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"New Skin for the Old Ceremony" (1974) — AOTY Must Hear 1970s** : #118, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Songs of Love and Hate" (1971) — AOTY Must Hear 1970s** : #216, 98 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Thanks for the Dance" (2019) — AOTY Must Hear 2010s** : #3, 84 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"You Want It Darker" (2016) — AOTY Must Hear 2010s** : #367, 89 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Popular Problems" (2014) — AOTY Must Hear 2010s** : #568, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Old Ideas" (2012) — AOTY Must Hear 2010s** : #798, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Songs of Leonard Cohen" (1967) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #195, 100 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Songs of Leonard Cohen" (1967) — Scaruffi 1960s** : #12, 100 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Songs From a Room" (1969) — Scaruffi 1960s** : #159. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Songs of Love and Hate" (1971) — Scaruffi 1970s** : #390, 98 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Future" (1992) — Juno Awards: Album of the Year** : #1994. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Thanks for the Dance" (2019) — Juno Awards: Album of the Year** : #2021, 84 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Songs of Love and Hate" (1971) — Pitchfork: The 100 Best Albums of the 1970s** : #74, 98 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"Songs of Leonard Cohen" (1967) — Pitchfork: The 200 Best Albums of the 1960s** : #11, 100 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
-**"Songs From a Room" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #70. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
-**"I’m Your Man" (1988) — Pitchfork: The 200 Best Albums of the 1980s** : #34. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
-**"You Want It Darker" (2016) — Pitchfork: The 200 Best Albums of the 2010s** : #118, 89 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"Winter Lady" (1971) — Pitchfork: The 50 Best Movie Soundtracks of All Time** : #24. ← musicbrainz | https://beta.musicbrainz.org/series/24265d39-1f92-4d16-a938-ba5a8fcc1f82
-**"You Want It Darker" (2016) — Sputnikmusic Best Albums 2016** : #71, 89 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2016/
+**"Songs From a Room" (1969) — AOTY Must Hear 1960s** : #26.
+**"Songs of Leonard Cohen" (1967) — AOTY Must Hear 1960s** : #47, 100 AOTY.
+**"New Skin for the Old Ceremony" (1974) — AOTY Must Hear 1970s** : #118, 90 AOTY.
+**"Songs of Love and Hate" (1971) — AOTY Must Hear 1970s** : #216, 98 AOTY.
+**"Thanks for the Dance" (2019) — AOTY Must Hear 2010s** : #3, 84 AOTY.
+**"You Want It Darker" (2016) — AOTY Must Hear 2010s** : #367, 89 AOTY.
+**"Popular Problems" (2014) — AOTY Must Hear 2010s** : #568, 83 AOTY.
+**"Old Ideas" (2012) — AOTY Must Hear 2010s** : #798, 81 AOTY.
+**"Songs of Leonard Cohen" (1967) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #195, 100 AOTY.
+**"Songs of Leonard Cohen" (1967) — Scaruffi 1960s** : #12, 100 AOTY.
+**"Songs From a Room" (1969) — Scaruffi 1960s** : #159.
+**"Songs of Love and Hate" (1971) — Scaruffi 1970s** : #390, 98 AOTY.
+**"The Future" (1992) — Juno Awards: Album of the Year** : #1994.
+**"Thanks for the Dance" (2019) — Juno Awards: Album of the Year** : #2021, 84 AOTY.
+**"Songs of Love and Hate" (1971) — Pitchfork: The 100 Best Albums of the 1970s** : #74, 98 AOTY.
+**"Songs of Leonard Cohen" (1967) — Pitchfork: The 200 Best Albums of the 1960s** : #11, 100 AOTY.
+**"Songs From a Room" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #70.
+**"I’m Your Man" (1988) — Pitchfork: The 200 Best Albums of the 1980s** : #34.
+**"You Want It Darker" (2016) — Pitchfork: The 200 Best Albums of the 2010s** : #118, 89 AOTY.
+**"Winter Lady" (1971) — Pitchfork: The 50 Best Movie Soundtracks of All Time** : #24.
+**"You Want It Darker" (2016) — Sputnikmusic Best Albums 2016** : #71, 89 AOTY.

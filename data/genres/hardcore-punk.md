@@ -37,6 +37,9 @@
 **Subgenres of Hardcore Punk** : Hardcore punk itself encompasses several distinct subgenres, including bandage, death core, pornogrind, screamo, power violence, positive hardcore, nard core, and Nintendo core. "Just looking at hardcore punk, that includes bandage, death core, pornogrines, screamo, power violence, positive hardcore, nard core, Nintendo core." ← Ongoing History of New Music > History of Pop Punk： Part 1 | https://www.youtube.com/watch?v=tZV1lz-obQE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Topic of "Alt Rock" Chapter 8** : American hardcore punk is a specific focus of "Chapter 8" in the history of Alt Rock series. "And here in Chapter 8, we're going to talk about American hardcore punk." ← Ongoing History of New Music > The History of Alt-Rock： Chapter 8 | https://www.youtube.com/watch?v=XjTWcy8RHEs&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **US Variant and Characteristics** : In the United States, hardcore punk became the most popular variant of punk, continuing its energetic and anti-establishment premise but making it faster, heavier, and more aggressive. This genre has maintained a cult following and remains deeply rooted in the underground scene. "En Estados Unidos, la variante más popular fue la hardcore punk, lo que continuaba con la premisa enérgica y antisistema del punk, pero lo hizo más rápido, más pesado y más agresivo." ← Egg Punk： Explorando el lado más raro del punk | https://www.youtube.com/watch?v=ZvQCffRFhHQ
+**Root of Alternative Rock** : Hardcore punk was identified as being "at the root of alternative rock all along." Kurt Cobain himself was described more accurately as a hardcore punk fan, and Dave Grohl earned his stripes in the Washington D.C. hardcore scene. "Punk had been at the root of alternative rock all along." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Godfathers of Hardcore** : Black Flag is often called the "godfathers of hardcore," representing a relentless, defiantly uncommercial sound that laid groundwork for later punk forms. "The relentless rock of black flag often called the godfathers of hardcore." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**DC Scene Lineage** : Dave Grohl earned his stripes in the same Washington D.C. hardcore scene that spawned Fugazi, linking Nirvana directly to this punk subgenre. "drummer Dave Grohl had earned his stripes in the same DC hard-core singing that spawned Fugazi." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Bad Brains
@@ -57,4 +60,4 @@
 - Slint
 - Sonic Youth
 - The Conjets
-
+- Fall Out Boy

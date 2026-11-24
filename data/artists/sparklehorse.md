@@ -31,8 +31,8 @@
 **Tragic Suicide** : Mark Linkous's battle with depression persisted despite his continued musical work. While in the process of divorcing his wife of 19 years, he took his own life in Knoxville, Tennessee. He used a rifle, aiming it at his heart, and at the time of his death, he had a blood alcohol level of .43, with various antidepressants and anti-anxiety medications found in his system. "Then, while on the process of a divorce from his wife of 19 years, he took a rifle, went for a walk, sat down on an alley in Knoxville, Tennessee, aimed the gun at his heart and pulled the trigger." ← https://www.youtube.com/watch?v=SOAL0GODN3M ← sparklehorse
 
 ## lists
-**"It's a Wonderful Life" (2001) — AOTY Must Hear 2000s** : #449, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Vivadixiesubmarinetransmissionplot" (1995) — Scaruffi 1990s** : #1190, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"It's A Wonderful Life" (2001) — Scaruffi 2000s** : #651, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Good Morning Spider" (1998) — Pitchfork: The 150 Best Albums of the 1990s** : #141, 4.09 Sputnik. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Good Morning Spider" (1998) — Sputnikmusic Best Albums 1999** : #82, 4.09 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1999/
+**"It's a Wonderful Life" (2001) — AOTY Must Hear 2000s** : #449, 80 AOTY.
+**"Vivadixiesubmarinetransmissionplot" (1995) — Scaruffi 1990s** : #1190, 7.0/10 Scaruffi.
+**"It's A Wonderful Life" (2001) — Scaruffi 2000s** : #651, 7.0/10 Scaruffi.
+**"Good Morning Spider" (1998) — Pitchfork: The 150 Best Albums of the 1990s** : #141, 4.09 Sputnik.
+**"Good Morning Spider" (1998) — Sputnikmusic Best Albums 1999** : #82, 4.09 Sputnik.

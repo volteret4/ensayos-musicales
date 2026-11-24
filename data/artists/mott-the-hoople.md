@@ -15,4 +15,4 @@
 
 ## lists
 **"Mott" (1973) — 1001 Albums You Must Hear Before You Die** : #285.
-**"Mott" (1973) — Scaruffi 1970s** : #419. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Mott" (1973) — Scaruffi 1970s** : #419.

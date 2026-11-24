@@ -1,0 +1,14 @@
+# artist - Trisha Yearwood
+
+## genres
+- Country
+
+## songs
+**In Another's Eyes (1997)** : A duet with Garth Brooks, recorded for Yearwood's greatest hits album in 1997. The track reached number two on Hot Country Singles and marked Brooks' return to the charts after months of absence. This collaboration predated their eventual romantic relationship and marriage. "One of those was, in another's eyes, a duet with Garth Brooks, who had to date remained a platonic friend of hers." ← Hit Parade Music History and Music Trivia > Friends in Low Places, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Shallow (upcoming)** : A cover of the Lady Gaga and Bradley Cooper song, announced as the first single from Garth Brooks' upcoming album *Fun*. Yearwood and Brooks performed this duet on Good Morning America during the COVID-19 lockdown. "would be a duet with his wife, Trisha Yearwood, a cover of the Lady Gaga Bradley Cooper song, Shallow, that he and Yearwood performed on Good Morning America." ← Hit Parade Music History and Music Trivia > Friends in Low Places, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**She's in Love with the Boy (1991)** : Yearwood's debut single and a chart-topping smash hit in 1991, launched partly due to Garth Brooks' mentorship. "Yearwood launched her career with a chart-topper, the 1991 No.1 smash she's in love with the ball." ← Hit Parade Music History and Music Trivia > Friends in Low Places, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## curiosities
+**Backup Vocalist for Garth Brooks (Late 1980s)** : Yearwood sang backup vocals on Garth Brooks' debut album, where they first met in Nashville at the end of the 1980s. "They met in Nashville at the end of the 80s when she sang back up for Garth's debut album." ← Hit Parade Music History and Music Trivia > Friends in Low Places, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Early Career Success (by 1997)** : By the summer of 1997, Trisha Yearwood had accumulated a dozen Top 10 country hits, including four number ones, solidifying her presence on the country charts alongside Garth Brooks throughout the 1990s. "By the summer of 1997, Trisha Yearwood had racked up a dozen top 10 country hits, including four No.1's." ← Hit Parade Music History and Music Trivia > Friends in Low Places, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Marriage to Garth Brooks (2005)** : After divorcing their respective spouses, Yearwood and Brooks began dating five years after their 1997 duet "In Another's Eyes," and married three years later in 2005. "Five years later, after Yearwood and Brooks had each divorced their respective spouses, they began dating, and three years after that, they would marry." ← Hit Parade Music History and Music Trivia > Friends in Low Places, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/

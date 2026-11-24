@@ -5,6 +5,7 @@
 
 ## genres
 - Alt Rock
+- Jangle Pop
 - Power Pop
 - Powerpop
 
@@ -40,14 +41,15 @@
 **Precursors to Other Powerpop Bands** : Big Star predated other successful Powerpop bands of the 1970s, such as Badfinger, Todd Rundgren, The Raspberries, Cheap Trick, and The Knack, establishing the genre's foundation before its wider recognition. "There were other Powerpop bands in the 70s who had hits. There was Bad Finger and Todd Rungren. We had the raspberries, Cheap Trick, the Nack, but Big Star was there before all of them." ← https://www.youtube.com/watch?v=Cy5SCQV0HAY ← big-star
 **Reunion and Alex Chilton's Death** : The band reunited in 1993 and remained active until singer Alex Chilton passed away from a heart attack, marking the end of their second phase. "A cult following built, and in 1993, the group reunited and stayed together until singer Alex Chilton died of a heart attack." ← https://www.youtube.com/watch?v=Cy5SCQV0HAY ← big-star
 **Undiscovered Cult Favorite** : After their breakup due to commercial struggles, Big Star remained an undiscovered cult favorite for approximately two decades. They were later "discovered" by a number of 90s-era alt-rock bands, who recognized that Big Star's sound from 1971 was significantly ahead of its time. "Big Star remained an undiscovered cult favorite for a couple of decades. But then they were discovered by a number of 90s era alt rock bands who realized that whatever Big Star was doing back in 1971, they were way, way ahead of their time." ← https://www.youtube.com/watch?v=hstJ8M2laho ← big-star
+**Jangle Sound Influence** : Alex Chilton's Memphis band Big Star was a 70s power pop act cited by Peter Buck as one of the places he picked up his signature "jangle" guitar sound. This connection highlights a lineage of influential guitar styles that contributed to the sound of R.E.M. "such 70s power pop acts as the Alex Chiltson fronted Memphis band Big Star." ← Hit Parade Music History and Music Trivia > The Deadbeat Club Edition, Part One | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"#1 Record" (1972) — 1001 Albums You Must Hear Before You Die** : #242.
 **"3rd" (1978) — 1001 Albums You Must Hear Before You Die** : #403.
-**"Keep an Eye on the Sky" (2009) — AOTY Must Hear 2000s** : #17, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"3rd" (1978) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #285. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Radio City" (1974) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #359, 7.0/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"#1 Record" (1972) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #474. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Radio City" (1974) — Scaruffi 1970s** : #180, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Third" (1978) — Scaruffi 1970s** : #181, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"3rd" (1978) — Pitchfork: The 100 Best Albums of the 1970s** : #66. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
+**"Keep an Eye on the Sky" (2009) — AOTY Must Hear 2000s** : #17, 90 AOTY.
+**"3rd" (1978) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #285.
+**"Radio City" (1974) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #359, 7.0/10 Scaruffi.
+**"#1 Record" (1972) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #474.
+**"Radio City" (1974) — Scaruffi 1970s** : #180, 7.0/10 Scaruffi.
+**"Third" (1978) — Scaruffi 1970s** : #181, 7.0/10 Scaruffi.
+**"3rd" (1978) — Pitchfork: The 100 Best Albums of the 1970s** : #66.

@@ -5,6 +5,7 @@
 - Ian McDonald
 - Peter Sinfield
 - Robert Fripp
+- Tony Levin
 
 ## genres
 - Progressive Rock
@@ -32,20 +33,21 @@
 **Rights Management Disputes** : The band's history is marked by extensive legal battles over music rights, primarily led by Robert Fripp. These disputes have resulted in "enormous enmities" among former members and against record labels, particularly concerning early material initially signed with Island Records, shaping the legal landscape of the music industry. "enormes enemistas de centreyos a lo largo de toda su carrera por este tema de derechos." ← Music Radar Clan > King Crimson, derechos y Spotify | https://www.youtube.com/watch?v=Xg0XR9r95cc&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← king-crimson ← king-crimson
 **Stadium-Filling Popularity (1975)** : In 1975, King Crimson was one of the progressive rock bands capable of filling stadiums, indicating the genre's significant popularity in the market at that time. "King Crimson llena a bastadios." ← Music Radar Clan > GENESIS con Peter Gabriel VS. Phil Collins | https://www.youtube.com/watch?v=hWxH0fcqTig&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← king-crimson ← king-crimson
 **Terribly Complex Sound** : King Crimson is characterized by albums that are incredibly intricate and complex, representing the baroque and elaborate nature of progressive rock. "Los discos de King Chris son terriblemente complejos." ← Music Radar Clan > Qué es el NO WAVE. Es mucho más que música | https://www.youtube.com/watch?v=DrK0WdodRGk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← king-crimson ← king-crimson
+**Bassist on Darryl Hall's "Sacred Songs" (1977)** : Tony Levin, the bassist for King Crimson, was invited by Robert Fripp to perform on Darryl Hall's solo album, "Sacred Songs," recorded in 1977. "on which Fritt invited such musicians as Brian Enoch and bassist Tony Levin of King Crimson to perform." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"In the Court of the Crimson King" (1969) — 1001 Albums You Must Hear Before You Die** : #167, 90 AOTY.
 **"Larks’ Tongues in Aspic" (1973) — 1001 Albums You Must Hear Before You Die** : #273.
-**"In the Court of the Crimson King" (1969) — AOTY Must Hear 1960s** : #9, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"Red" (1974) — AOTY Must Hear 1970s** : #116, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Larks’ Tongues in Aspic" (1973) — AOTY Must Hear 1970s** : #156. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Islands" (1971) — AOTY Must Hear 1970s** : #190, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Discipline" (1981) — AOTY Must Hear 1980s** : #162, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"In The Court Of The Crimson King" (1969) — Scaruffi 1960s** : #11, 8.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Red" (1974) — Scaruffi 1970s** : #112, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Islands" (1971) — Scaruffi 1970s** : #376, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Lark's Tongues In Aspic" (1973) — Scaruffi 1970s** : #377, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Discipline" (1981) — Scaruffi 1980s** : #508, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Red" (1974) — Pitchfork: The 100 Best Albums of the 1970s** : #72, 7.5/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"Starless and Bible Black" (1974) — Pitchfork: The 100 Best Albums of the 1970s** : #94. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"In the Court of the Crimson King" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #56, 90 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"In the Court of the Crimson King" (1969) — AOTY Must Hear 1960s** : #9, 90 AOTY.
+**"Red" (1974) — AOTY Must Hear 1970s** : #116, 7.5/10 Scaruffi.
+**"Larks’ Tongues in Aspic" (1973) — AOTY Must Hear 1970s** : #156.
+**"Islands" (1971) — AOTY Must Hear 1970s** : #190, 7.0/10 Scaruffi.
+**"Discipline" (1981) — AOTY Must Hear 1980s** : #162, 7.0/10 Scaruffi.
+**"In The Court Of The Crimson King" (1969) — Scaruffi 1960s** : #11, 8.5/10 Scaruffi.
+**"Red" (1974) — Scaruffi 1970s** : #112, 7.5/10 Scaruffi.
+**"Islands" (1971) — Scaruffi 1970s** : #376, 7.0/10 Scaruffi.
+**"Lark's Tongues In Aspic" (1973) — Scaruffi 1970s** : #377, 7.0/10 Scaruffi.
+**"Discipline" (1981) — Scaruffi 1980s** : #508, 7.0/10 Scaruffi.
+**"Red" (1974) — Pitchfork: The 100 Best Albums of the 1970s** : #72, 7.5/10 Scaruffi.
+**"Starless and Bible Black" (1974) — Pitchfork: The 100 Best Albums of the 1970s** : #94.
+**"In the Court of the Crimson King" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #56, 90 AOTY.

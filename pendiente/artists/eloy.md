@@ -10,4 +10,4 @@
 **Prominent German Progressive Rock Band** : Eloy was one of the significant progressive rock bands of the 1970s from Germany, highlighting that progressive rock talent extended beyond the more commonly recognized British scene to other parts of Europe. "una de las grandes bandas del robo progresivo de los 70 alemana que siempre pensamos en el robo progresivo británico pero otros nombres en el resto de Europa incluso fuera de Europa y kaya que eran alemanes eran muy interesantes." ← Music Radar Clan > Lanzamientos Enero 2018 | https://www.youtube.com/watch?v=m0uzqiwh7Tw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## lists
-**"Ocean" (1977) — Scaruffi 1970s** : #268, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Ocean" (1977) — Scaruffi 1970s** : #268, 7.0/10 Scaruffi.

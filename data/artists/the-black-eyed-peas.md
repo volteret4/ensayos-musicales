@@ -6,8 +6,11 @@
 
 ## genres
 - Alt-Rap
+- Club Rapper
 - EDM Dance Pop
+- Hip-Hop
 - Hip-Pop
+- Pop
 
 ## labels
 - Virgin Blue
@@ -15,9 +18,13 @@
 ## songs
 **Boom Boom Pow (2009)** : This song was the Billboard year-end number one for 2009, spending 12 weeks at number one on the Hot 100. It was one of two consecutive number ones for the group, led by will.i.am and Fergie, and was followed by "I Gotta Feeling" (14 weeks at #1). "Boom Boom Pow" captured a pivotal moment as 2000s hip hop transitioned into 2010s EDM dance pop. "Boom boom pow not only spent 12 big weeks at number one in 2009 it was one of two consecutive number ones by the Black Eyed Peas the Altrap turned hip pop hit makers led by Will I am and Fergie." ← Hit Parade Music History and Music Trivia > Hits of the Year Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce81
 **Boom Boom Pow (2009)** : This chart-topper in 2009 was succeeded at number one by The Black Eyed Peas' even bigger hit, "I Gotta Feeling," signaling their imperial peak. "The Black Eyed Peas were at their Imperial Peak in 2009, when their chart-topper, Boom Boom Pow, gave way to their even bigger number one smash, I got a feeling." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f03154465cd600c5379
+**Feel The Beat (2020)** : This collaboration with reggaeton superstar Maluma interpolated Lisa Lisa and Cult Jam's "Can You Feel The Beat," but was otherwise sonically unrelated to freestyle. "Black Eyed Peas 2020 collaboration with reggaeton superstar Maluma called Feel The Beat." ← Hit Parade Music History and Music Trivia > Point of No Return Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **I Gotta Feeling (2009)** : "I Gotta Feeling" by the Black Eyed Peas was the most purchased digital track of the 2010s, with over 9 million downloads. This demonstrates a significant commercial success for the track in the early part of the digital sales era before the market shifted predominantly to streaming. "The most purchased digital track of the decade was, I got a feeling by the Black Eyed Peas, which was bought and downloaded a little over 9 million times." ← https://www.youtube.com/watch?v=mNqqLDpUuZY ← black-eyed-peas ← black-eyed-peas
 **I Gotta Feeling (2009)** : This song was the winner of the 2009 Billboard Song of the Summer. It is acknowledged as a "legitimately big hit" that earned the summer title. "I can't deny that it was a legitimately big hit and earned the 2009 song of summer title." ← Hit Parade Music History and Music Trivia > Song(s) of the Summer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef50c30a1408dc292e4
 **I Gotta Feeling (2009)** : This number one smash hit followed and replaced "Boom Boom Pow" at the top of the charts in 2009, demonstrating The Black Eyed Peas' imperial peak. "Boom Boom Pow, gave way to their even bigger number one smash, I got a feeling." ← Hit Parade Music History and Music Trivia > Material Girl in an Imperial World Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f03154465cd600c5379
+**I Gotta Feeling (2009)** : This 2009 hit was once the biggest digital download of all time, eventually surpassed by Adele's "Rolling in the Deep" which became the second biggest of the 2010s. "behind only the Black Eyed Peas 2009 hit I Got A Feeling." ← Hit Parade Music History and Music Trivia > Rolling in God’s Royal Uptown Road Edition. | https://my.slate.com/podcasts/feeds/hit-parade/
+**I Gotta Feeling (2009)** : This song was a "juggernaut hit" that topped the charts for 14 weeks, preventing Miley Cyrus's "Party in the USA" from reaching number one, which peaked at number two. "If the song hadn't gotten stuck behind the Black Eyed Peas juggernaut hit, the 14 week chart topper I got a feeling Cyrus would have scored her first ever number 1 pop hit." ← Hit Parade Music History and Music Trivia > The Twerking and Chatrouletting Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**I Gotta Feeling (2009)** : This song was the Song of the Summer winner in 2009. It is presented as a quintessential example of a ubiquitous summer hit that, while immensely popular and "everywhere" at the time, some listeners may later express a desire to never hear again. "Or what about the 2009 summer winner I got a feeling?" ← Hit Parade Music History and Music Trivia > Song(s) of the Summer Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Union (Featuring Sting) - Sting Sample and Credit** : The Black Eyed Peas' track "Union" used so much of Sting's "Englishman in New York" that they were compelled to add a "featuring Sting" artist credit on the track. "Or the Black Eyed Peas Track Union, which used so much of Englishmen in New York, they were compelled to add a featuring Sting artist credit on the track." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef30c30a1408dc2922b
 
 ## curiosities
@@ -26,6 +33,7 @@
 **Songs About Jeffrey Dahmer** : The Black Eyed Peas are included in the list of artists who have written songs about the serial killer Jeffrey Dahmer. "Jeffrey Dahmer seems to have the most songs written about him with about 50 Pearl Jam, Slayer, Black Eyed Peas, Katy Perry, Eminem, Dr. Dre, Violent Femmes, J. Cole and many more." ← https://www.youtube.com/watch?v=FtGJHhqXcDI ← black-eyed-peas
 **Highest Concert Record (2009)** : On September 8, 2009, The Black Eyed Peas achieved a new record for the highest concert. They performed aboard a Virgin Blue Boeing 737, flying from Melbourne, Australia, to Perth, reaching an altitude of 41,000 feet during their mid-flight performance. "On September 8, 2009, the Black Eyed P's got aboard a Virgin Blue 737 in Melbourne, Australia, and flew to an altitude of 41,000 feet on their way to Perth. They played during the flight, giving them the record." ← https://www.youtube.com/watch?v=3eGBnwPWRGo ← the-black-eyed-peas
 **Highest Concert Record (2009)** : On September 8, 2009, The Black Eyed Peas broke Jamiroquai's record for the highest concert. They boarded a Virgin Blue 737 in Melbourne, Australia, and performed during the flight as it reached an altitude of 41,000 feet on its way to Perth. "On September 8, 2009, the Black Eyed P's got aboard a Virgin Blue 737 in Melbourne, Australia, and flew to an altitude of 41,000 feet on their way to Perth." ← https://www.youtube.com/watch?v=hmnMG6f80Sg ← the-black-eyed-peas
+**21st Century Club Rapper** : The Black Eyed Peas are identified as one of the "kingpin club rappers" of the 21st century, whose music exemplifies the subgenre of hip-hop aimed more at the dance floor than the street, a concept institutionalized by Frank Farian. "the Black Eyed Peas, I got to feel it. That tonight's gonna be a good night." ← Hit Parade Music History and Music Trivia > Blame It on the Feign, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Where Is the Love?" — Billboard Year-End Hot 100** : #26, 2003. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
@@ -51,4 +59,4 @@
 **""The Time (Dirty Bit)" ‡" — UK Singles Chart** : #8, 2011. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
 
 ## lists
-**"The E•N•D" (2009) — Grammy Award: Album of the Year nominees** : #2010. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
+**"The E•N•D" (2009) — Grammy Award: Album of the Year nominees** : #2010.

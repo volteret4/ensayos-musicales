@@ -18,4 +18,4 @@
 **Financial Support for Blink-182 Tour** : When Blink-182 received an invitation to tour Australia but lacked the financial means to go, the members of Pennywise generously purchased their plane tickets. "So the guys in the band Pennywise bought them their tickets." ← https://www.youtube.com/watch?v=eljIIqCu5gU ← pennywise
 
 ## lists
-**"Pennywise" (1991) — Scaruffi 1990s** : #1026, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Pennywise" (1991) — Scaruffi 1990s** : #1026, 7.0/10 Scaruffi.

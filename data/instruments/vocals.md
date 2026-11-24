@@ -23,3 +23,7 @@
 - Thundercat
 - Chris Cornell
 - Sting
+- Nat King Cole
+- Donna Summer
+- Chaka Khan
+- Donald Fagen

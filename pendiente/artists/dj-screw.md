@@ -15,5 +15,5 @@
 **Legendary Mixtapes and Local Scene Growth** : His now-legendary mixtapes on cassette began circulating, with people sharing and re-recording them. This dense, heavy sound quickly spread throughout Houston, fostering a vibrant local scene comprising rappers, producers, and a distinctive aesthetic characterized by gold chains, vintage cars, and even its own associated substance, "lean" or "purple drunk"—a mixture of cough syrup with codeine and soda—which amplified the hypnotic and narcotic effect of the slowed mixes. "Empezaron a circular sus ahora legendarios mixtapes en cassette, la gente se pasaba y regravaba esas cintas, y pronto, ese sonido denso y pesado se extendió por todo Houston." ← ¿Por qué el Slowed & Reverb y los Speed Up están rompiendo YT y TikTok？ | https://www.youtube.com/watch?v=0WWra85DsCo
 
 ## lists
-**"Bigtyme Vol II: All Screwed Up" (1995) — AOTY Must Hear 1990s** : #253, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"3 ‘n the Mornin’, Part Two" (1995) — Pitchfork: The 150 Best Albums of the 1990s** : #87. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
+**"Bigtyme Vol II: All Screwed Up" (1995) — AOTY Must Hear 1990s** : #253, 82 AOTY.
+**"3 ‘n the Mornin’, Part Two" (1995) — Pitchfork: The 150 Best Albums of the 1990s** : #87.

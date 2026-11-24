@@ -16,5 +16,5 @@
 
 ## lists
 **"Felt Mountain" (2000) — 1001 Albums You Must Hear Before You Die** : #921, 73 AOTY.
-**"Felt Mountain" (2000) — AOTY Must Hear 2000s** : #491, 73 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Felt Mountain" (2000) — Sputnikmusic Best Albums 2000** : #114, 73 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2000/
+**"Felt Mountain" (2000) — AOTY Must Hear 2000s** : #491, 73 AOTY.
+**"Felt Mountain" (2000) — Sputnikmusic Best Albums 2000** : #114, 73 AOTY.

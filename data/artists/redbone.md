@@ -3,6 +3,9 @@
 ## concerts
 - Dick Clark's In Concert (February 1974, Aquarius Theater, Los Angeles)
 
+## songs
+**Come and Get Your Love (1974)** : This 1974 hit was interpolated into Cindy Lopper's 1994 reboot of "Girls Just Want to Have Fun," retitled "Hey Now (Girls Just Want to Have Fun)." "Built around an interpolation of the 1974 Redbone hit, Come and Get Your Love." ← Hit Parade Music History and Music Trivia > Be the One to Walk in the Sun, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **1970s Hit Series** : Redbone had a series of popular songs throughout the 1970s, making a significant impact on the music scene during that decade. "A band called Redbone had a series of hits in the 1970s." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← redbone
 **Mixed Native American Origin** : The two brothers who formed the group Redbone were of mixed Native American origin. The band achieved a series of hits during the 1970s. "The two brothers in the group were of mixed Native American origin." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← redbone

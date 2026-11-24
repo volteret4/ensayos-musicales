@@ -17,4 +17,4 @@
 **From Chauffeur to Soul Star** : Fitty Boy, Little Richard's chauffeur, recorded a single with Richard on piano during the "Keep a-Knockin'" session, and later found significant success as a soul singer and songwriter under the name Don Covay. "That session also produced a single for Richard's chauffeur, with Richard on the piano, released under the name Fitty Boy." ← Episode 54： Keep A Knockin | https://www.youtube.com/watch?v=oA4Y_K9E5Y4
 
 ## lists
-**"It's Better to Have / Leave Him, Part 2" — John Peel's Record Box** : #24. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
+**"It's Better to Have / Leave Him, Part 2" — John Peel's Record Box** : #24.

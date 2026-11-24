@@ -30,3 +30,11 @@
 - Vangelis
 - Sting
 - Yani
+- Billy Joel
+- The Pointer Sisters
+- Ray Manzarek
+- Billy Preston
+- Michael Sembello
+- Liam Howlett
+- Mike Hughes
+- Tony Banks

@@ -38,5 +38,5 @@
 **Americana Lifetime Achievement Award for Instrumentalist (2018)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q96586469
 
 ## lists
-**"Damn Right, I've Got the Blues" (1991) — Sputnikmusic Best Albums 1991** : #13, 4.29 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"Living Proof" (2010) — Sputnikmusic Best Albums 2010** : #93, 4.03 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2010/
+**"Damn Right, I've Got the Blues" (1991) — Sputnikmusic Best Albums 1991** : #13, 4.29 Sputnik.
+**"Living Proof" (2010) — Sputnikmusic Best Albums 2010** : #93, 4.03 Sputnik.

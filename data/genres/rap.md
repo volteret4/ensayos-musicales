@@ -70,6 +70,53 @@
 **Vocal Expression Controversy** : Rappers were among the artists whose new forms of vocal expression, facilitated by microphones, generated decades of strong criticism from purists. Their singing styles were considered by some to be "degenerate forms of singing," challenging the established vocal norms of earlier generations. "R&B acts, Elvis, The Beatles, Dylan, Jagger, New Waivers, rappers all the way up to and beyond death medillars." ← https://www.youtube.com/watch?v=L0j9iDuHQVA ← rap
 **White American Society's Reaction** : The rise of a more violent and combative rap generation, exemplified by artists directly attacking the police and advocating for popular uprising, intensified the existing tensions between white American society and rap music. This escalation occurred even as dominant American society appeared to be beginning to assimilate and show a degree of respect for rap music, generating significant discomfort, including within law enforcement. "Cuando parecía que la sociedad americana dominante empezaba a similar y hasta cierto modo respetar la música rap apareció una nueva generación mucho más violenta, mucho más combativa, que atacaba directamente contra la policía, que atacaba directamente llamando a la sublevación popular generó bastante incómodida, incluso en la propia policía." ← Music Radar Clan > NWA y el inicio del Gangsta Rap. Las letras polémicas no son nuevas. | https://www.youtube.com/watch?v=uDNhX_fP3vM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← rap ← rap
 **Run DMC's Remake of "Walk This Way"** : The rap trio Run DMC famously remade Aerosmith's "Walk This Way" in 1986, a collaboration that became the highest-charting version of the song and contributed to its multi-decade resurgence. "Famously in 1986, as we chronicled in our Death Jam's edition of Hit Parade, Walk This Way was remade by Raptrio Run DMC, featuring Steven Tyler and Joe Perry of Aerosmith." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c42e
+**Rap-Driven Metamorphosis of Charts (Late 80s)** : In the late 1980s, the music charts were undergoing a "rap driven metamorphosis," with some acts sounding "authentic to the streets" while others, like Millie Vanille, "dabbled in rap" in more pop-oriented songs. This period was characterized by rap's growing influence and crossover appeal. "Millie Vanille caught lightning in a bottle showing up when the charts were undergoing a rap driven metamorphosis." ← Hit Parade Music History and Music Trivia > Blame It on the Feign, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Movement Towards Dance Moves** : Even "harder-edged, more street-savvy rap" began incorporating dance elements by the late 1980s. This was evident in tracks like Eric B. and Rock him's "Paid in Full," especially with the Coldcut remix, demonstrating the genre's adaptability and commercial appeal. "And even the harder-edged, more street-savvy rap was moving toward dance moves." ← Hit Parade Music History and Music Trivia > Blame It on the Feign, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Billboard's First Hot Rap Singles Chart (March 1989)** : Billboard launched its first-ever Hot Rap Singles chart in March 1989, based on sales reports from retailers. Millie Vanille's "Girl You Know It's True" appeared on this chart in its very first week, alongside artists like Kid 'n Play and Rob Base and DJ E-Z Rock, indicating the growing commercial segmentation of rap music. "One month before it peaked, Billboard launched its first ever Hot Rap singles chart based on sales reports from retailers of their top selling rap singles." ← Hit Parade Music History and Music Trivia > Blame It on the Feign, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**First Golden Age and Coastal Rivalry (Late 1980s)** : The charity mega-single format had an impact on rap's first golden age, influencing its first coastal rivalry between East Coast and West Coast artists. This manifested in anti-violence singles like "Self Destruction" and "We Are All in the Same Gang." "The charity mega-single even went on to have an impact on rap's first golden age, and its first coastal rivalry." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Sales Under-reporting (Late 1980s)** : During the late 1980s, when rap's first golden age was occurring, retailers were "still under-reporting rap sales to Billboard." This meant that certified gold sales for rap singles like "Self Destruction" and "We Are All in the Same Gang" likely understated their true commercial success. "Both Self Destruction and Same Gang were certified gold at a time when retailers were still under-reporting rap sales to Billboard" ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Unprecedented Sales Milestones (1986)** : Run DMC's *Raising Hell* became the first rap album to achieve Platinum, Double Platinum, and Triple Platinum sales certifications, setting new precedents for the genre. "All sales milestones that no rap album had ever seen." ← Hit Parade Music History and Music Trivia > Hit Parade - The Def Jams Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**First Hit Ballad (1987)** : LL Cool J's "I Need Love" was rap's first-ever hit ballad, demonstrating emotional vulnerability in a romantic context and pushing the boundaries of what was expected from the genre. "He scored Raps first ever hit Ballad, with the succinct and schmupy title, I Need Love." ← Hit Parade Music History and Music Trivia > Hit Parade - The Def Jams Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**First Chart-Topping Single (1987)** : LL Cool J's "I Need Love" gave rap its first chart-topping single, reaching number one on Billboard's Hot Black singles chart and number 14 on the Hot 100. "And most unprecedented, it gave rap its first chart topping single." ← Hit Parade Music History and Music Trivia > Hit Parade - The Def Jams Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Radio Caution and "Trojan Horse" (Mid-1980s)** : Through the mid-1980s, Def Jam and other rap labels struggled against radio stations' caution in playing rap, with even black radio stations preferring smoother pop-friendly sounds. LL Cool J's "kinder gentler" "I Need Love" acted as a "Trojan horse" to overcome this resistance. "Right through the mid-1980s, Death Jam profile and the other rap labels had battled radio stations caution at playing rap, and not just at pop stations, even black radio stations preferred the smoother or pop-friendly or sounds of Freddie Jackson, Whitney Houston, and Janet Jackson." ← Hit Parade Music History and Music Trivia > Hit Parade - The Def Jams Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Second Wave vs. Third Wave (1988)** : The year 1988 saw an influx of "third-wave" rap acts debuting (N.W.A, Slick Rick, MC Lyte, EPMD, Big Daddy Kane, Biz Markie), signaling a shifting landscape that would challenge "second-wave" artists like Run DMC, Beastie Boys, and LL Cool J. "Run DMC were the only one of the major second-wave rap acts to issue an album in the fabled hip-hop year of 1988, a year that saw debuts by third-wavors from NWA to Slick Rick to MC Light to EPMD to Big Daddy Kane to Bismarkey." ← Hit Parade Music History and Music Trivia > Hit Parade - The Def Jams Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Inauguration of Golden Age (1988)** : Public Enemy's album *It Takes a Nation of Millions to Hold Us Back*, released in June 1988, unofficially inaugurated rap's "Golden Age" by elevating its sonic complexity, political militancy, and Afro-centrism. "When it dropped in June of 1988, nation of millions unofficially inaugurated rap's Golden Age, upping the anti-onsonic omnivoresness, political militancy, and afro-centrism of rap at the turn of the 90s." ← Hit Parade Music History and Music Trivia > Hit Parade - The Def Jams Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Sea Change in Hip Hop Sound (Late 1980s-Early 1990s)** : Public Enemy's second album and the emergence of conscious and gangster rappers represented a significant shift in the sound of hip hop, comparable to Run DMC's impact in 1984 and Nirvana's influence on rock in 1991. This forced established acts like Run DMC, the Beastie Boys, and LL Cool J to adapt. "public enemy second album, and the conscious and gangster rappers that would emerge in their wake would represent a similar sea change in the sound of hip hop, not unlike the shift run DMC brought about in 1984." ← Hit Parade Music History and Music Trivia > Hit Parade - The Def Jams Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Under-reporting and Under-playing** : In the late 1980s, the charts were not accurately capturing the magnitude of hip-hop's popularity because rap sales were under-reported by music retailers and rap music was under-played by pop and even R&B radio programs. "rap sales were under-reported by music retailers and rap music was being under-played by pop and even R&B radio programs." ← Hit Parade Music History and Music Trivia > I Got Five on It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Post-Soundscan Integration** : After the creation of Soundscan, rap began topping the Hot 100 and infused itself into other forms of pop, redefining how people listened to popular music over the next three decades with rap production and hip-hop vocal styles. "After the creation of Soundscan, rap started topping the Hot 100, and infusing itself into other forms of pop." ← Hit Parade Music History and Music Trivia > I Got Five on It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rise and Impact on Instrumental Music (mid-1980s)** : The rise of rap, characterized as a "most verbose popular music form," in the mid-1980s contributed to instrumentals falling out of favor, as pop songs became more lyrics-forward following early rap hits. "By the mid-80s, it could be argued that instrumental were falling out of favor thanks to the rise of that most verbose popular music form, Ralph." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Early Chart Appearance on Hot 100 (1980s)** : Rap songs began appearing on the Hot 100 charts in the 1980s, but it took until the 1990s for an all-rap song by a rapper to reach the number one position. "Rap songs started appearing on the hot 100 in the 1980s. But it took until the 1990s for an all-wrap song by a rapper to top the hot 100." ← Hit Parade Music History and Music Trivia > Music Trivia - The '90s Hip-Hop Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**First All-Rap Number One (Fall 1990)** : Prior to the fall of 1990, no full-on rap song had achieved the number one spot on the Hot 100. This milestone was reached by Vanilla Ice with "Ice Ice Baby." "before the fall of 1990 when ice ice baby went all the way, no full-on rap song had gone to number one on the hot 100." ← Hit Parade Music History and Music Trivia > Music Trivia - The '90s Hip-Hop Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Boost from SoundScan (1991)** : The conversion of Billboard's flagship charts to the new, more accurate SoundScan system in 1991 provided a significant boost to rap's presence and success on the charts, better reflecting actual sales and airplay. "Billboard converted its flagship charts to the new more accurate sound scan system, and it gave a huge boost to rap on the charts." ← Hit Parade Music History and Music Trivia > Music Trivia - The '90s Hip-Hop Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Dominance in the 1990s** : The 1990s proved to be a "great" decade for rap and hip hop on the charts, largely due to the more accurate data provided by the SoundScan system, which effectively captured what people were truly buying and listening to. "the 90s were a decade that was great for rap, great for hip hop on the charts." ← Hit Parade Music History and Music Trivia > Music Trivia - The '90s Hip-Hop Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Top 40 Breakthrough** : In the late 1980s, rap music experienced a significant rise on Top 40 radio, a development directly linked to the influence of MTV after years of operating outside mainstream pop. "The late 80s rise of rap on top 40 radio after years in the pop wilderness can basically be attributed directly to MTV." ← Hit Parade Music History and Music Trivia > Music Trivia - The MTV and Alt-Rock Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Crossover on Pop Charts (Turn of 1990s)** : The turn of the 1990s marked a period of significant crossover for rap music onto the mainstream pop charts, a trend that was further propelled by the more accurate sales data provided by SoundScan. "rap's crossover on the pop charts at the turn of the 1990s." ← Hit Parade Music History and Music Trivia > Music Trivia - ’90s Teen-Pop Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Old School and Golden Age Eras** : Rap music is historically segmented into distinct periods, including the "old school" and "golden age." Artists like KRS-One are recognized for their role in bridging these foundational eras, influencing the genre's evolution. "KRS1... was himself a bridge between rap's old school and its golden age." ← Hit Parade Music History and Music Trivia > Music Trivia - ’90s Teen-Pop Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Early 90s Sampling Techniques** : Early 1990s rap hits frequently incorporated prominent samples from existing songs, demonstrating a widespread production technique. Examples include Vanilla Ice's "Ice Ice Baby" (sampling Queen and David Bowie), PM Dawn's "Set Adrift on Memory Bliss" (sampling Spandau Ballet), and Kris Kross's "Jump" (sampling The Jackson Five). "big early 90s rap hits that were built around prominent samples of earlier hits." ← Hit Parade Music History and Music Trivia > Music Trivia - ’90s Teen-Pop Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Benefit from SoundScan (Early 1990s)** : Rap, particularly early 90s hip-hop, experienced a substantial boost from the precise sales data provided by SoundScan. This technology helped to rectify a "built in bias" prevalent in the music industry and among record retailers, who had historically underreported rap sales in favor of rock and pop titles. "rap in particular... benefited more than any other genre from more accurate data because it got past the sort of built in bias that the industry had." ← Hit Parade Music History and Music Trivia > Music Trivia - ’90s Teen-Pop Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Gangsta Rap Dominance (1994)** : In 1994, Gangsta Rap, featuring influential artists such as Snoop Dogg and Warren G, was identified as a primary genre driving the American music charts. This dominance shaped the year's musical landscape alongside alternative rock. "Gangsta Rap from the likes of Snoop Dogg and Warren G." ← Hit Parade Music History and Music Trivia > Music Trivia - ’90s Teen-Pop Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rihanna's Early Collaborations** : In the late 2000s, Rihanna quickly became a sought-after artist for melodic hooks on high-profile rap songs, working with artists such as Ti, Jay-Z, and Kanye West. "Chris Brown was not the only R&B or rap star Rihanna was collaborating with in the late aughts. She was rapidly emerging as the go-to melodic hook de ployer on top tier rap songs." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Chart Shifts in the Early 2010s** : As the early 2010s began, the pop charts saw a notable pivot away from hip hop, shifting instead towards sounds characterized by Euro dance, electro, and EDM. "While she'd been wallowing in the doldrums of Russian roulette and love the way you lie, the charts had pivoted away from hip hop toward Euro dance, electro and EDM." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Bitch Better Have My Money" Chart Performance** : Rihanna's single "Bitch Better Have My Money" topped Billboard's R&B Hip Hop Airplay Chart, showcasing its strong appeal within the genre. "It topped both Billboard's Dance Club Play Chart and R&B Hip Hop Airplay Chart, indicating that Rihanna's edgy experiment found its audience." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Soundscan Chart Breakthrough (1990s)** : The implementation of Soundscan in 1991 by Billboard charts was instrumental in helping the rap genre achieve more accurate chart representation, leading to a better understanding of its sales performance and increased chart visibility. "Lastly, that helped the genres of rap and country chart better." ← Hit Parade Music History and Music Trivia > Smells Like Christmas Spirit, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Dominance in Holiday Sales Patterns (Late 1990s)** : By the end of the 1990s, acts from the world of rap were particularly adept at utilizing the new Christmas sales patterns, especially for albums purchased for personal enjoyment in the post-Christmas period, as revealed by more accurate sales data. "But by the end of the 90s, the acts taking the most advantage of the new Christmas sales patterns were from the world of rap." ← Hit Parade Music History and Music Trivia > Smells Like Christmas Spirit, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Star-Making Performances** : Rap collaborations can provide platforms for "star-making performances," as seen with Drake on DJ Khaled's "I'm on one" and Nicki Minaj on Kanye West's "Monster." "Drake turned in a star making performance, not that he wasn't already very popular by 2011, but on I'm on one, the then young Drake held his own, wrapping alongside an estimable crew of Rick Ross and Lil Wayne." ← Hit Parade Music History and Music Trivia > The Feat. Don’t Fail Me Now Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rise in the 1980s** : Rap music was on the ascendancy throughout the 1980s, steadily gaining ground on the charts and nearing the Top 10 by the dawn of the 1990s. ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Difficulty Achieving Number One Pre-SoundScan** : Despite its growing popularity in the late 1980s and early 1990s, rap faced significant challenges in hitting number one on Billboard's Hot 100 and album charts under the old manual tabulation system. Cross-over success often required songs to be "danceable, light, even white." ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Pop Crossover Growing Pains** : After SoundScan in 1991 revealed the true popularity of rap, particularly independent and underground acts, the genre experienced its first chart-topping successes alongside "pop crossover growing pains." This led rappers to question how mainstream-friendly they needed to be. ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Disdain for Pop Crossover by Purists** : Die-hard hip hop heads often "disdained pop crossover," reflecting an internal tension within the genre regarding commercial success versus maintaining artistic integrity and underground credibility. ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**First Number One Song to Include Rapping** : Blondie's "Rapture," released in March 1981, holds the distinction of being the first number one song on the Hot 100 to include rapping, although it was not a full-blown rap song. ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**1980s Crossover Pattern for White Acts** : Throughout the 1980s, a pattern emerged where white rock and pop acts would borrow from rap on a string of hits, including several Hot 100 number ones from artists like Falco and the Pet Shop Boys. Generally, the closer a song was to "pure rap," the farther it peaked from the top. ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Chart Disadvantage Due to Old Methodology** : Under Billboard's pre-SoundScan manual tabulation system, rap (and country) titles were underreported by retailers and radio DJs, whether intentionally or unconsciously. This made it "mathematically impossible" for some best-selling rap records to reach number one and generally made it "difficult for rap to get a fair shake." ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Broadening Ambitions by 1990** : By 1990, rap had significantly broadened its artistic ambitions, moving beyond its initial identity as merely "party music." Several subgenres emerged, adding scope and depth to the music. ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Racial Disparity in Crossover** : The success of white rappers like Vanilla Ice and Marky Mark Wahlberg in topping the charts highlighted that "the hurdles for crossover for white rappers were simply lower than they were for black rappers," a fact that did not go unnoticed by rap purists. ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Hot 100 SoundScan Reboot Boost** : Following the Hot 100's relaunch with SoundScan data on November 30, 1991, rap generally received a "sizable boost," allowing songs like those by Geto Boys and Naughty By Nature to achieve new chart peaks. ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Sampling Levels the Playing Field** : The Hot 100 SoundScan reboot demonstrated that all rappers, regardless of race, could achieve crossover success by employing prominent melodic samples. This leveled the playing field, making it harder for rap purists to dismiss crossover hip hop solely as the work of "white pop interlopers." ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Crossover Wars and Internal Conflict** : Despite the chart success of rap artists after SoundScan, not everyone was pleased, especially conscious and gangster rappers who had underperformed earlier. This fueled an "internecine hip hop culture war" between "rap's true believers vs crossover achievers." ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**First Full Year After Soundscan (1992)** : 1992 is highlighted as rap's first full year after Soundscan, which provided more accurate chart tracking and revealed rap's true place in the pop universe, enabling cross-cultural smashes like "Tennessee." "But if you want a window into the breadth of hip hop in 1992, rap's first full year after Soundscan, you should focus on two big hits." ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Evolution of Modern Rap Sound** : Modern rap is noted to sound distinctly different from both Arrested Development and Sir Mix-A-Lot, indicating a significant evolution in its sonic landscape. "If Modern Rap doesn't sound much like a RESTED development, it also doesn't sound much like Sir Mixelot." ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**History Skirting Novelty Line** : The history of rap music, from "Rapper's Delight" to "Baby Got Back", is "littered with songs that skirt the line of novelty". Many formative tracks, such as Doug E. Fresh and Slick Rick's "The Show", Biz Markie's "Just a Friend", and Digital Underground's "The Humpty Dance", were built as de facto comedy records. "the history of rap from rapper's delight to baby got back is littered with songs that skirt the line of novelty." ← Hit Parade Music History and Music Trivia > The White and Nerdy Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Evolution to Rock Crossover** : Puffy's 1997 track "It's All About the Benjamins" initially started as a rap posse cut before being fundamentally rebooted as a rock song and "uber posse cut," demonstrating a significant genre crossover. "1997's It's All About the Benjamin's started as a rap posse cut with Puffy, Biggie, Lil Kim, and rap troupe Vellux." ← Hit Parade Music History and Music Trivia > We Invented the Remix Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Afrika Bambaataa
@@ -121,3 +168,88 @@
 - Silentó
 - I Love Friday
 - Nucleus
+- Drake
+- MC Hammer
+- The Pointer Sisters
+- Millie Vanille
+- Boney M
+- Tone Lōc
+- Macklemore & Ryan Lewis
+- P.M. Dawn
+- Naughty by Nature
+- Beyoncé
+- Doja Cat
+- Nicki Minaj
+- Megan Thee Stallion
+- Puff Daddy
+- Chris Brown
+- Kanye West
+- De La Soul
+- Young MC
+- Casey Kasem
+- Clipse
+- Timbaland & Magoo
+- Teddy Riley
+- Rex N Effect
+- Noreaga
+- Mystikal
+- UGK
+- Ludacris
+- LL Cool J
+- Bubba Sparxxx
+- Rihanna
+- Lil' Kim
+- Lizzo
+- Chaka Khan
+- Meli Mel
+- Lil Wayne
+- Heavy D
+- Flavor Flav
+- Kurtis Blow
+- KRS-One
+- T. LaRock
+- Houdini
+- The Fearless Four
+- Vanilla Ice
+- Method Man
+- Luniz
+- Travis Scott
+- Machine Gun Kelly
+- Melle Mel
+- Dream Warriors
+- The Roots
+- Lil Nas X
+- Fugees
+- LaCray
+- Mellow Man Ace
+- Cardi B
+- Childish Gambino
+- OutKast
+- Falco
+- Arrested Development
+- Kris Kross
+- Sir Mix-A-Lot
+- Biz Markie
+- Marky Mark Wahlberg
+- Lil Uzi Vert
+- Migos
+- T.I.
+- Kesha
+- Afrika Bambaataa & Soulsonic Force
+- Full Force
+- Sean Brown
+- Cowboy Troy
+- Eric B & Raquim
+- will-I-am
+- B-O-B
+- Wiz Khalifa
+- Desiigner
+- 21 Savage
+- BlockBoy JB
+- Lil Baby
+- XXXTentacion
+- Future
+- D4L
+- Doechii
+- Third Bass
+- Latto

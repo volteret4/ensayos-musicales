@@ -12,6 +12,10 @@
 ## instruments
 - (Not mentioned)
 
+## songs
+**I'm the One (2017)** : Chance the Rapper is one of the five credited artists on DJ Khaled's 2017 summer smash "I'm the One." This multi-artist hit is presented as an example of a modern mega-single that differs from traditional charity singles by being about the performers themselves. "himself, chance the rapper." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**I'm the One (2017)** : Chance the Rapper was one of the vocalists featured on this number one track by DJ Khaled, alongside Justin Bieber, Quavo of Migos, and Lil Wayne. "rounded up not only Bieber but also Chance the Rapper, Quavo of Migos and Lil Wayne." ← Hit Parade Music History and Music Trivia > Rolling in God’s Royal Uptown Road Edition. | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **Collaborated with James Blake** : Chance the Rapper has collaborated with James Blake. "Ha colaborado con Chensea Rapper." ← Music Radar Clan > JAMES BLAKE. El mago del sonido. | https://www.youtube.com/watch?v=dLsLxcMVZFM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← chance-the-rapper ← chance-the-rapper
 **Continuous Publication Strategy** : Instead of releasing traditional album packages after long waits, Chance the Rapper continuously publishes content, including videos on YouTube and new material on Spotify. This ongoing release process, characterized by "doing things and uploading them or doing things and publishing them," has made him one of the richest artists globally. "publicando todo el tiempo un video en su plataforma de YouTube, publicando en Spotify, subiendo material, haciendo cosas y ese proceso de algo cosas la subo o algo cosas las público. Y no espero tener un paquete de 12 canciones, espero un año y medio, 2 años, se lo he hecho a la gente de golpe y este proceso de lanzamiento continuado lo ha permitido ser uno de los dinartistas más ricos del mundo." ← Music Radar Clan > Artistas que no están en Spotify y por qué | https://www.youtube.com/watch?v=RQYV60lqU8Y&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← chance-the-rapper ← chance-the-rapper
@@ -28,7 +32,7 @@
 **Grammy Award for Best Rap Album (2017) — Coloring Book** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1367988
 
 ## lists
-**"Coloring Book" (2016) — AOTY Must Hear 2010s** : #413, 86 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Acid Rap" (2013) — AOTY Must Hear 2010s** : #696, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Acid Rap" (2013) — Scaruffi 2010s** : #132, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Acid Rap" (2013) — Pitchfork: The 200 Best Albums of the 2010s** : #84, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
+**"Coloring Book" (2016) — AOTY Must Hear 2010s** : #413, 86 AOTY.
+**"Acid Rap" (2013) — AOTY Must Hear 2010s** : #696, 7.0/10 Scaruffi.
+**"Acid Rap" (2013) — Scaruffi 2010s** : #132, 7.0/10 Scaruffi.
+**"Acid Rap" (2013) — Pitchfork: The 200 Best Albums of the 2010s** : #84, 7.0/10 Scaruffi.

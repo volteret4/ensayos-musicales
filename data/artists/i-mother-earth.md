@@ -41,4 +41,4 @@
 **Vocalist Change (Post-Scenery and Fish)** : Following the release of their second album, original vocalist Edwin decided to depart from the band and was replaced by Brian Byrne. "Edwin decided he didn't want to be part of the band anymore, so he was replaced by Brian Burn." ← https://www.youtube.com/watch?v=P0pOgz3ZobE ← i-mother-earth
 
 ## lists
-**"Scenery & Fish" (1996) — Sputnikmusic Best Albums 1996** : #152, 3.98 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
+**"Scenery & Fish" (1996) — Sputnikmusic Best Albums 1996** : #152, 3.98 Sputnik.

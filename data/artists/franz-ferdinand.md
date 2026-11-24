@@ -79,4 +79,4 @@
 
 ## lists
 **"Franz Ferdinand" (2004) — 1001 Albums You Must Hear Before You Die** : #985, 85 AOTY.
-**"Franz Ferdinand" (2004) — AOTY Must Hear 2000s** : #319, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
+**"Franz Ferdinand" (2004) — AOTY Must Hear 2000s** : #319, 85 AOTY.

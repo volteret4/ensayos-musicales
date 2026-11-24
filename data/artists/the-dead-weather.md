@@ -15,4 +15,4 @@
 **Twilight Soundtracks Contribution** : The Dead Weather contributed to the various *Twilight* soundtracks that accompanied the film series. These soundtracks featured a nice selection of tunes, mostly album cuts and outtakes, from a range of artists spanning different genres. "The Paramore, Lincoln Park, Collective Soul, Death Cab for Cutie, Tom York, the Killers, Editors, Metric, Block Keys, Dead Weather, Beck, Vampire Weekend, Florence in the Machine." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← the-dead-weather
 
 ## lists
-**"Horehound" (2009) — Scaruffi 2000s** : #319, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Horehound" (2009) — Scaruffi 2000s** : #319, 7.0/10 Scaruffi.

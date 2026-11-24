@@ -32,4 +32,4 @@
 **Violent Gig Incidents (Early 1993)** : At a gig in early 1993, Allin knocked out a photographer and then ran through a glass door while being pursued by an angry mob. He was described as a genuine barbaric psychopath. "At a gig in early 1993, he knocked out a photographer and then ran through a glass door while being pursued by an angry mob." ← https://www.youtube.com/watch?v=5vKSjpvVQa8 ← gg-allin
 
 ## lists
-**"Freaks, Faggots, Drunks & Junkies" (1988) — Scaruffi 1980s** : #440, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Freaks, Faggots, Drunks & Junkies" (1988) — Scaruffi 1980s** : #440, 7.0/10 Scaruffi.

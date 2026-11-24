@@ -20,4 +20,4 @@
 **Origin from Sago** : Anberlin, hailing from Orlando, evolved out of a Christian punk band known as Sago. Sago was an acronym for "Servants After God's Own Heart." "This is a group from the Tooth and Nail Stable called Anne Berlin. They're originally from Orlando and morphed out of a Christian punk band called Sago, which was short for Servants After God's Own Heart." ← https://www.youtube.com/watch?v=6cbL0zLQeIs ← anberlin ← anberlin
 
 ## lists
-**"Cities" (2007) — Sputnikmusic Best Albums 2007** : #91, 4.06 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2007/
+**"Cities" (2007) — Sputnikmusic Best Albums 2007** : #91, 4.06 Sputnik.

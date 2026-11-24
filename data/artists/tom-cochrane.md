@@ -40,5 +40,5 @@
 **"Life Is a Highway" — Billboard Year-End Hot 100** : #18, 1992. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Victory Day" (1988) — Juno Awards: Album of the Year** : #1990. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Ragged Ass Road" (1995) — Juno Awards: Album of the Year** : #1996. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
+**"Victory Day" (1988) — Juno Awards: Album of the Year** : #1990.
+**"Ragged Ass Road" (1995) — Juno Awards: Album of the Year** : #1996.

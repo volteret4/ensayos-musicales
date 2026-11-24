@@ -3,6 +3,9 @@
 ## member of
 - The xx
 
+## songs
+**On Hold (2016)** : This single by Jamie XX, producer and remixer for British indie pop band The XX, transformed Hall and Oates' "I Can't Go For That" into a track that topped the UK Indie Chart and cracked Billboard's Rock and Alternative Chart, demonstrating the enduring influence of Hall and Oates' music on contemporary artists. "And in 2016, Jamie Smith, aka Jamie XX, producer and remixer for British Indy Pop band The XX, transformed Hall and Oates' I Can't Go For That into the single On Hold, which topped the UK Indy Chart and cracked Billboard's Rock and Alternative Chart." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **Boiler Room Regular** : Jamie XX became a regular artist on Boiler Room as the platform expanded its reach beyond British borders, extending to Berlin and other global cities, and incorporating new styles. "Artistas como Jamie XX, Hudson Mojaco y James Blake se convirtieron en habituales." ← De Tiny Desk a Boiler Room： El Boom de los Conciertos en YouTube | https://www.youtube.com/watch?v=QPTMemJ4ZUA
 **Primary Producer of New DXX Album** : Jamie XX was the principal producer for DXX's latest album, receiving some assistance from Roda y McDonald. His contribution to the album's background sound is noted for its enormous evolutionary progression. "este disco está producido prácticamente por Jamie XX en solitario porque al final le ayuda a Roda y McDonald que es el productor que hace otros grupos sin dismuy importantes como Ben Per Weekend." ← Music Radar Clan > I see you - The XX. ¿Un buen disco o un mal disco？ | https://www.youtube.com/watch?v=pO7VZUvkCqs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jamie-xx ← jamie-xx
@@ -11,7 +14,7 @@
 **Solo Career Success** : During DXX's five-year period of silence, Jamie XX cultivated a highly successful solo professional career. This personal evolution has significantly influenced the current sound of DXX's music, becoming a prominent element in their recent work. "Jamie XX se ha ido durante esos cinco años de silencio, ha tenido toda su evolución profesional en solitario con la que ha tenido muchísimo éxito y dentro de toda la música que tiene DXX hoy en día se ve muchísimo de toda la evolución que ha tenido Jamie XX durante todos estos años." ← Music Radar Clan > I see you - The XX. ¿Un buen disco o un mal disco？ | https://www.youtube.com/watch?v=pO7VZUvkCqs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← jamie-xx
 
 ## lists
-**"In Colour" (2015) — AOTY Must Hear 2010s** : #502, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"In Waves" (2024) — AOTY Must Hear 2020s** : #176, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"In Colour" (2015) — Pitchfork: The 200 Best Albums of the 2010s** : #25, 83 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"Girl/Sleep Sound" (2014) — Sputnikmusic Best Albums 2014** : #121, 3.97 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2014/
+**"In Colour" (2015) — AOTY Must Hear 2010s** : #502, 83 AOTY.
+**"In Waves" (2024) — AOTY Must Hear 2020s** : #176, 83 AOTY.
+**"In Colour" (2015) — Pitchfork: The 200 Best Albums of the 2010s** : #25, 83 AOTY.
+**"Girl/Sleep Sound" (2014) — Sputnikmusic Best Albums 2014** : #121, 3.97 Sputnik.

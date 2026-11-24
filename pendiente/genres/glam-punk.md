@@ -5,4 +5,5 @@
 
 ## artists
 - Caca de Lux
-
+- New York Dolls
+- The B-52s

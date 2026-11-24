@@ -9,7 +9,7 @@
 
 ## lists
 **"Southern Rock Opera" (2001) — 1001 Albums You Must Hear Before You Die** : #942.
-**"American Band" (2016) — AOTY Must Hear 2010s** : #375, 86 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"The Southern Rock Opera" (2001) — Scaruffi 2000s** : #340, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Southern Rock Opera" (2001) — Sputnikmusic Best Albums 2002** : #38. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/
-**"The Dirty South" (2004) — Sputnikmusic Best Albums 2004** : #18, 4.23 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2004/
+**"American Band" (2016) — AOTY Must Hear 2010s** : #375, 86 AOTY.
+**"The Southern Rock Opera" (2001) — Scaruffi 2000s** : #340, 7.0/10 Scaruffi.
+**"Southern Rock Opera" (2001) — Sputnikmusic Best Albums 2002** : #38.
+**"The Dirty South" (2004) — Sputnikmusic Best Albums 2004** : #18, 4.23 Sputnik.

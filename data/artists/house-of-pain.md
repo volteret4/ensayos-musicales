@@ -28,4 +28,4 @@
 **"Jump Around" — Billboard Year-End Hot 100** : #24, 1992. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"House of Pain" (1992) — Sputnikmusic Best Albums 1992** : #185, 3.87 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"House of Pain" (1992) — Sputnikmusic Best Albums 1992** : #185, 3.87 Sputnik.

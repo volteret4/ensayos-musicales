@@ -3,10 +3,13 @@
 ## member of
 - Wu-Tang Clan
 
+## curiosities
+**Debut Album (1994-1997)** : Raekwon released a major label debut album between 1994 and 1997, contributing to the vibrant hip-hop scene of that time. "These are all artists who had debut major label albums during that time besides Biggie, Nas, Outcast, Method Man, The Roots, Ray Kwan, Olderity Bastard, GZ, Ghostface, Killa, and Missy Elliott." ← Hit Parade Music History and Music Trivia > The Posthumous Hits Edition, Live from Seattle | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## lists
 **"Only Built 4 Cuban Linx…" (1995) — 1001 Albums You Must Hear Before You Die** : #789.
-**"Only Built 4 Cuban Linx…" (1995) — AOTY Must Hear 1990s** : #226. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Only Built 4 Cuban Linx... Pt. II" (2009) — AOTY Must Hear 2000s** : #20, 86 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Only Built 4 Cuban Linx…" (1995) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #219. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Only Built 4 Cuban Linx…" (1995) — Pitchfork: The 150 Best Albums of the 1990s** : #41. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Only Built 4 Cuban Linx... Pt. II" (2009) — Sputnikmusic Best Albums 2009** : #66, 86 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2009/
+**"Only Built 4 Cuban Linx…" (1995) — AOTY Must Hear 1990s** : #226.
+**"Only Built 4 Cuban Linx... Pt. II" (2009) — AOTY Must Hear 2000s** : #20, 86 AOTY.
+**"Only Built 4 Cuban Linx…" (1995) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #219.
+**"Only Built 4 Cuban Linx…" (1995) — Pitchfork: The 150 Best Albums of the 1990s** : #41.
+**"Only Built 4 Cuban Linx... Pt. II" (2009) — Sputnikmusic Best Albums 2009** : #66, 86 AOTY.

@@ -25,5 +25,5 @@
 **Rock and Roll Hall of Fame (1991)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
 
 ## lists
-**"Moanin’ in the Moonlight" (1959) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #477. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Howlin’ Wolf" (1962) — Pitchfork: The 200 Best Albums of the 1960s** : #96. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Moanin’ in the Moonlight" (1959) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #477.
+**"Howlin’ Wolf" (1962) — Pitchfork: The 200 Best Albums of the 1960s** : #96.

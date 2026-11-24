@@ -9,6 +9,7 @@
 ## curiosities
 **Backmasking Use (70s/80s)** : Styx utilized backmasking effects during the 1970s and 1980s, a period when the use of such recording tricks reached its height. "Tons of artists used back masking effects in the 70s and 80s. That seems to be when things reached their peak. Iron Maiden, Pink Floyd, Sticks, Prince B-52s, Weird Al, they were all into it." ← https://www.youtube.com/watch?v=_YjwRApoJhA ← styx
 **Uncool 1980s Concept Albums** : Styx was mentioned as one of the bands doing concept albums in the 1980s, a period when the format was considered "pretty uncool" in alternative music circles. "I mean, when you have bands like Sticks and Queenswright doing them, that's pretty uncool." ← https://www.youtube.com/watch?v=Dm5N6yDRxXQ ← styx
+**Billboard Top 10 LP (February 1981)** : In mid-February 1981, Styx had an album riding high and dominating the Billboard album chart, taking up a significant portion of the top 10 LPs. "billboards album chart was dominated by rock groups. They took up half of that week's top 10 LPs by the police, blondie, sticks, and aureo speed wagon were all riding high." ← Hit Parade Music History and Music Trivia > The ACDC Rule, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Lady" — Billboard Year-End Hot 100** : #61, 1975. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
@@ -22,5 +23,5 @@
 **"Show Me the Way" — Billboard Year-End Hot 100** : #68, 1991. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"The Grand Illusion" (1977) — Scaruffi 1970s** : #512, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Crash Of The Crown" (2021) — Sputnikmusic Best Albums 2021** : #102, 3.83 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2021/
+**"The Grand Illusion" (1977) — Scaruffi 1970s** : #512, 7.0/10 Scaruffi.
+**"Crash Of The Crown" (2021) — Sputnikmusic Best Albums 2021** : #102, 3.83 Sputnik.

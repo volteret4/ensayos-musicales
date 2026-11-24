@@ -31,3 +31,29 @@
 - P!nk
 - C+C Music Factory
 - The Pointer Sisters
+- Madonna
+- Billy Joel
+- Barbra Streisand
+- Whitney Houston
+- LaBelle
+- Vanity 6
+- The B-52s
+- Cindy Lopper
+- Celine Dion
+- Britney Spears
+- Ariana Grande
+- George Michael
+- Justin Timberlake
+- Beastie Boys
+- Adam Lambert
+- Madonna Louise Ciccone
+- Robert Miles
+- Darude
+- Tiësto
+- Skrillex
+- Lil Nas X
+- Miami Sound Machine
+- Kaoma
+- Sylvester
+- Debbie Harry
+- Everything But The Girl

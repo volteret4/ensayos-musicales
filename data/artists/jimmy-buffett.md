@@ -4,6 +4,8 @@
 - Country music
 - Country-ish island songs
 - Novelty song
+- Tropical Vacation Vibe
+- Yacht Rock
 
 ## labels
 - Pan Am
@@ -40,6 +42,9 @@
 **Pilot and Plane Owner in Jamaican Shooting (1996)** : On January 16, 1996, Jimmy Buffett was at the controls of his Grumman HU-16C plane, "Hemisphere Dancer," while taxing at Negril airport in Jamaica, with Bono and his family onboard. The plane was mistakenly fired upon by Jamaican police who believed it was involved in drug running. Following the incident, Buffett penned the song "Jamaica Mistaica" about the event. "He's talking about his family. It was very scary. Let me tell you." ← https://www.youtube.com/watch?v=hmnMG6f80Sg ← jimmy-buffett
 **Pilot and Songwriter** : Jimmy Buffett is an accomplished pilot who owned the Grumman HU-16 C plane, "Hemisphere Dancer." He was at the controls when the plane, carrying Bono and his family, was mistakenly fired upon by Jamaican police at Negril airport in 1996. Following this incident, Buffett wrote a song about the experience, "Jamaica Mistaica." "Buffett was at the controls. He's also a pilot." ← https://www.youtube.com/watch?v=3eGBnwPWRGo ← jimmy-buffett
 **Tropical Lifestyle Authenticity** : Buffett genuinely lived the tropical sun-and-booze lifestyle that formed the core subject matter of his songs. This authenticity meant that when he sang about laid-back living and drinking, he truly meant it, rather than simply adopting a persona for commercial purposes. "It doesn't seem that Buffett was playing up the idea of drinking and living the laid-back lifestyle Just to sell his records, he was living that lifestyle as much as he could anyway So, when he sang songs like this, I think he really meant it." ← For the Record - The 70s > Ep. 44 - Streaking, Werewolves, Sharks, & Drinking - 70s Novelty Songs | https://traffic.libsyn.com/seventies/334334714-44100-2-e5ed6adac25ea.m4a
+**Polarizing Opinion** : The host expresses personal dislike for Jimmy Buffett, indicating that "pop-demism" does not require liking every artist. "And by the way, I'm still not a fan of Jimmy Buffett either." ← Hit Parade Music History and Music Trivia > I Got Five on It Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Literal Interpretation of Yacht Rock** : Jimmy Buffett's music was often mistakenly associated with Yacht Rock by people who took the genre's name literally, believing it had to be about boats or seafaring. This highlights a common misinterpretation that the creators had to clarify. "They thought, oh, it's got to be music about boats. It's got to be music, you know, related to sea faring and Jimmy Buffett counts." ← Hit Parade Music History and Music Trivia > The Bridge - Yacht Or Nyacht | https://my.slate.com/podcasts/feeds/hit-parade/
+**Anti-Yacht Rock Aesthetic** : Jimmy Buffett, often called "The King of the Parrotheads," was described as "strenuously showy mellow," contrasting with the effortlessly smooth quality of Yacht Rock. His music, with its "laid back faux tropical vacation vibe," was the opposite of what Yacht Rockers were striving for. "The king of the parrots was strenuously showly mellow Not effortlessly smooth he was the anti-yellow." ← Hit Parade Music History and Music Trivia > What a Fool Believes, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Florida Artists Hall of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5461189
@@ -49,4 +54,4 @@
 **"Margaritaville" — Billboard Year-End Hot 100** : #14, 1977. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"A White Sport Coat & A Pink Crustacean" (1973) — Scaruffi 1970s** : #352, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"A White Sport Coat & A Pink Crustacean" (1973) — Scaruffi 1970s** : #352, 7.0/10 Scaruffi.

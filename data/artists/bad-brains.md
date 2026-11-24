@@ -11,12 +11,15 @@
 - Hardcore Punk
 - Hip Hop
 - Jazz Fusion
+- Punk
 - Punk Rock
 - Reggae
 - Soul
 
 ## concerts
 - CBGB
+- CBGBs
+- Maxis Kansas City
 
 ## songs
 **Big Takeover (1986)** : A guitar sample from this Bad Brains song was used as a foundational element for the Beastie Boys' track "Pass the Mic" from "Check Your Head." "was built around a guitar sample from a bad brain song called Big Takeover." ← https://www.youtube.com/watch?v=9_BTe15NooI ← bad-brains
@@ -50,10 +53,11 @@
 **Role in "Mosh" Terminology Origin** : The DC band Bad Brains initially encouraged their fans to "mash" during shows, a term derived from the Jamaican phrase "mash it up." This term later mutated into "mosh" because the band's senior HR (likely referring to singer H.R.) had a Jamaican accent and pronounced "mash" as "mosh." "The originally encouraged fans to mash, which is their word, derived from the Jamaican phrase, mash it up against each other during their shows." ← https://www.youtube.com/watch?v=bferkEWvJg0 ← bad-brains
 **Dave Grohl's All-Time Favorite** : The Bad Brains are identified as a legendary DC band and one of Dave Grohl's all-time favorites. Their influence is evident as they appeared as guest musicians on the Foo Fighters' song "Feast or Famine," recorded near Grohl's childhood home in Arlington, Virginia. "Dave Grohl had to have this legendary DC band in one of his all-time favorites on at least one song." ← https://www.youtube.com/watch?v=Mh-qg1izM98 ← the-bad-brains
 **Funk Basslines in Early Alt-Rock** : The Bad Brains are listed as an example of an early punk rock band whose bass lines incorporated "funk sounds," illustrating how these elements were part of alt-rock from its inception and paved the way for rap and hip hop integration. "Just go back and listen to the bass lines of songs from bands like The Slits or Publicly Wage Limited, Gang of Four, The Bad Brains, Early Red Hot Chili Peppers." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← the-bad-brains ← the-bad-brains
+**Early Beastie Boys Support** : Bad Brains were among the "punk luminaries" that the Beastie Boys opened for in 1982 at New York clubs like Maxis Kansas City and CBGBs. This occurred during the Beastie Boys' early phase as a hardcore punk trio. "By 82, the Beastie Boys were playing support gigs for such punk luminaries as Bad Brains and The Dead Kennedies." ← Hit Parade Music History and Music Trivia > Hit Parade - The Def Jams Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"I Against I" (1986) — 1001 Albums You Must Hear Before You Die** : #580, 7.0/10 Scaruffi.
-**"Bad Brains" (1982) — AOTY Must Hear 1980s** : #155, 93 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Rock For Light" (1982) — Scaruffi 1980s** : #22, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"I Against I" (1986) — Scaruffi 1980s** : #252, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Bad Brains" (1982) — Pitchfork: The 200 Best Albums of the 1980s** : #41, 93 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"Bad Brains" (1982) — AOTY Must Hear 1980s** : #155, 93 AOTY.
+**"Rock For Light" (1982) — Scaruffi 1980s** : #22, 8.0/10 Scaruffi.
+**"I Against I" (1986) — Scaruffi 1980s** : #252, 7.0/10 Scaruffi.
+**"Bad Brains" (1982) — Pitchfork: The 200 Best Albums of the 1980s** : #41, 93 AOTY.

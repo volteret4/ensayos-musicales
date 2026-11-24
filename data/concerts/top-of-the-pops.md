@@ -14,6 +14,7 @@
 **Street Band's Performance of "Toast"** : Street Band performed their hit song "Toast" live on the weekly British chart show "Top of the Pops." "They even performed the song live on the weekly British chart show Top of the Pops." ← https://www.youtube.com/watch?v=zUQ2vZzmRiI ← top-of-the-pops
 **T. Rex Performance (1971)** : T. Rex's appearance on Top of the Pops in 1971, featuring Mark Bolan in glitter and satin pants, is widely credited with initiating the glam rock craze. The performance was memorable for its sexually heightened androgyny. "T. Rex appeared on top of the pops. It was kind of like the British version of American bandstand." ← For the Record - The 70s > Ep. 26 - Starmen - Glam Rock of the 70s | https://seventies.libsyn.com/026-glam-11820-6-34-pm
 **The Four Tops Miss Flight (1988)** : The R&B group The Four Tops had seats booked on Pan Am Flight 103 on December 21, 1988, but missed the fateful flight due to oversleeping. They had performed on BBC's Top of the Pops the night before, leading to them missing their flight by minutes and inadvertently escaping the Lockerbie bombing. "The four tops, the R&B group, had seats but they overslept after performing on BBC's top of the pops the night before." ← https://www.youtube.com/watch?v=hmnMG6f80Sg ← top-of-the-pops
+**Platform for Early Music Performances (1960s)** : In the 1960s, popular bands like The Monkees frequently appeared on live television shows such as Top of the Pops in the UK. These appearances served as a vital platform for artists to perform and connect with audiences. However, as bands' popularity and touring demands increased, they often found it necessary to record pre-shot, lip-synced performances on sound stages to accommodate their schedules and satisfy the public's desire to see their favorite stars. "bands would often appear on live TV shows like American bandstand in the US, or top of the pops in the UK." ← Hit Parade Music History and Music Trivia > Introducing History Daily - The Launch of MTV | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - David Bowie
@@ -23,4 +24,3 @@
 - T. Rex
 - The Rolling Stones
 - The Who
-

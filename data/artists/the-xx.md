@@ -57,5 +57,5 @@
 **Slow Release Frequency** : DXX maintains a release schedule of one album approximately every 4-5 years, a pace considered to be a very long wait compared to the majority of bands. This infrequent output cultivates heightened expectations for significant evolution and exceptional quality in their music. "va a ritmo de un disco de 4-5 años, yo creo que se ha hecho muchísimo esperar." ← Music Radar Clan > I see you - The XX. ¿Un buen disco o un mal disco？ | https://www.youtube.com/watch?v=pO7VZUvkCqs&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← dxx
 
 ## lists
-**"xx" (2009) — AOTY Must Hear 2000s** : #23, 84 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"I See You" (2017) — AOTY Must Hear 2010s** : #351, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
+**"xx" (2009) — AOTY Must Hear 2000s** : #23, 84 AOTY.
+**"I See You" (2017) — AOTY Must Hear 2010s** : #351, 81 AOTY.

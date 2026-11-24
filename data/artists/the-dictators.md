@@ -23,4 +23,4 @@
 
 ## lists
 **"Go Girl Crazy" (1975) — 1001 Albums You Must Hear Before You Die** : #327.
-**"Go Girl Crazy" (1975) — Scaruffi 1970s** : #250. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Go Girl Crazy" (1975) — Scaruffi 1970s** : #250.

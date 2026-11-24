@@ -19,5 +19,5 @@
 **John S. Hall's Poetry Background** : King Missile is led by John S. Hall, who emerged from the poetry scene of Greenwich Village in New York. He formed the band after finding poetry readings to be unfulfilling. "They're led by poet John S. Hall, who came out of the poetry scene of Greenwich Village in New York. But reading poems got boring, so John formed a band." ← https://www.youtube.com/watch?v=I9_3EbwKPnU ← king-missile
 
 ## lists
-**"They" (1988) — Scaruffi 1980s** : #509, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Happy Hour" (1992) — Sputnikmusic Best Albums 1992** : #145, 3.94 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"They" (1988) — Scaruffi 1980s** : #509, 7.0/10 Scaruffi.
+**"Happy Hour" (1992) — Sputnikmusic Best Albums 1992** : #145, 3.94 Sputnik.

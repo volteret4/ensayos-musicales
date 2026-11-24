@@ -33,6 +33,6 @@
 **Preis für Popkultur (2017)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q55853656
 
 ## lists
-**"Reise, Reise" (2004) — AOTY Must Hear 2000s** : #290, 75 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Mutter" (2001) — AOTY Must Hear 2000s** : #466, 77 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Zeit" (2022) — Kerrang! The 50 Best Albums of 2022** : #7. ← musicbrainz | https://beta.musicbrainz.org/series/bba4a66d-575e-4b6e-8447-233ad23a8f51
+**"Reise, Reise" (2004) — AOTY Must Hear 2000s** : #290, 75 AOTY.
+**"Mutter" (2001) — AOTY Must Hear 2000s** : #466, 77 AOTY.
+**"Zeit" (2022) — Kerrang! The 50 Best Albums of 2022** : #7.

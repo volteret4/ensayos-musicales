@@ -5,6 +5,7 @@
 - Pop
 
 ## songs
+**I Can't Stop Loving You (1958)** : This song was a number three hit for the "Nashville legend" Kitty Wells in 1958, demonstrating its familiarity within the country music landscape before Ray Charles's genre-crossing cover. "In 1958 alone, it had already been a number three hit for Nashville legend Kitty Wells." ← Hit Parade Music History and Music Trivia > Ride ’til I Can’t No More Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **It Wasn't God Who Made Honky Tonk Angels (1952)** : This historic 1952 country single was the first answer record—and arguably the first diss record—to immediately follow and knock the song it was targeting out of the number one spot. It served as a direct rejoinder to Hank Thompson's "The Wild Side of Life," laying blame for societal decay on "faithless cheating men." The song, also a parody borrowing Thompson's melody, spent six weeks at number one on Billboard's country best-sellers chart after Thompson's 15-week run, and even crossed over to the pop charts, reaching number 27. It is regarded as an unprecedented proto-feminist smash and foreshadowed the dynamic of rap music's first major 1980s beef war, with a sassy female vocalist challenging a condescending man. "It wasn't God who made honkytunk angels was not only an unprecedented proto-feminist smash." ← Hit Parade Music History and Music Trivia > Here’s the Beef Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef3154465cd600c4ef5
 
 ## curiosities

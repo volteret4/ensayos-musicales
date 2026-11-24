@@ -24,4 +24,4 @@
 **XRCO Hall of Fame (2023)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q947606
 
 ## lists
-**"Xpander EP" (1999) — Sputnikmusic Best Albums 1999** : #50, 4.17 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1999/
+**"Xpander EP" (1999) — Sputnikmusic Best Albums 1999** : #50, 4.17 Sputnik.

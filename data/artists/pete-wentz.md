@@ -2,6 +2,7 @@
 
 ## member of
 - Fall Out Boy
+- Fallout Boy
 
 ## instruments
 - Fender Precision Bass

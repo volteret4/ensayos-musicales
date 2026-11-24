@@ -41,6 +41,8 @@
 **Sting's Early Learning Technique** : As a teenager, Gordon Sumner (Sting) would speed up records to 45 RPM or 78 RPM to better hear and learn the bass lines played by virtuosos like Paul McCartney, James Jamerson, and Jack Bruce. "Sting later told stories of speeding up his records, playing 33 RPM records at 45 RPM, or 45s at 78. So he could better hear and learn the bass lines, whether it was by Paul McCartney playing virtuosic bass with the Beatles." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
 **Sting's Routine Ranking** : Sting "routinely makes polls of the best bass players of all time," highlighting his recognized skill and impact on the instrument. "a legitimately talented songwriter and bassist. By the way, he routinely makes polls of the best bass players of all time." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef88e6dd12efb02c671
 **Chuck Rainey on Amazing Grace (1972)** : Bassist Chuck Rainey was among the rock accompanists Aretha Franklin invited to play on her *Amazing Grace* live recording sessions, integrating rock elements into the gospel sound. "including bassist Chuck Rainey" ← Hit Parade Music History and Music Trivia > Say a Little Prayer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eec154465cd600c4d67
+**Louis Johnson's Iconic Groove** : The propulsive groove of Michael Jackson's "Billie Jean" was notably played by Louis Johnson, the bassist for the Brothers Johnson. "It's propulsive groove played by the brother's Johnson bassist, Lewis Johnson." ← Hit Parade Music History and Music Trivia > I Wanna Rock with Q. Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Bernard Edwards' "Chucking" Style** : Bernard Edwards developed a highly distinctive "fleet-fingered, chucking approach on the bass." This patented style became a foundational element of Sheik's sound, and Nile Rogers believed it was so unique that "nobody but Edwards could play" the intricate bass part of "Everybody Dance." "What set him apart was his distinctive, fleet-fingered, chucking approach on the bass." ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Adam Clayton
@@ -134,3 +136,8 @@
 - Sting
 - Darryl Jones
 - Chuck Rainey
+- Stevie Wonder
+- Bernard Edwards
+- Walter Becker
+- Alex Spanador Mosley
+- Mike Rutherford

@@ -23,6 +23,7 @@
 - No Wave
 - Noise Rock
 - Non-mainstream rock
+- post-punk
 - Punk
 - Rock
 
@@ -73,6 +74,7 @@
 **Cool Thing (1990)** : Written by Kim Gordon for the 1990 album "Goo" following a negative encounter with LL Cool J, whose attitude towards women she disapproved of. The song features guest vocals from Chuck D of Public Enemy to enhance its message. "Kim wrote it after she had a run-in with LL Cool J. She didn't think much of his attitude towards women, and help her out. Chuck D, a public enemy, came in for some guest vocals." ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← sonic-youth
 **Eliminator Jr. (1988)** : This track from the 1988 album "Daydream Nation" was the first song by any band to address the murder of 18-year-old Jennifer Levin by Robert Chambers in New York's Central Park on August 26, 1986. "The first band to write a song about the case was Sonic Youth. There's a track called Eliminator Jr. on their 1988 album Daydream Nation." ← https://www.youtube.com/watch?v=FtGJHhqXcDI ← sonic-youth
 **Expressway to Your Skull (1985)** : This song from 1985 is an example of Sonic Youth's music, embodying their characteristic sound and experimental edge. "This is called Expressway to Your Skull." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← sonic-youth ← sonic-youth
+**Superstar** : Sonic Youth's cover of "Superstar" on *If I Were a Carpenter* was part of a "dour reassessment" of Carpenters songs in the 90s, but it was personally disliked by one critic for not aligning with the spirit of the original. "Sonic Youth's cover being of superstar being one of them... Sorry folks, the Sonic Youth version of superstar, I'm not into it." ← Hit Parade Music History and Music Trivia > The Posthumous Hits Edition, Live from Seattle | https://my.slate.com/podcasts/feeds/hit-parade/
 **Teenage Ride (1988)** : This song is mentioned as being from their 1988 double album, Daydream Nation. "This is called Teenage Ride." ← https://www.youtube.com/watch?v=sCtQqVBtCaI ← sonic-youth
 
 ## curiosities
@@ -151,6 +153,8 @@
 **New York Experimentalism** : Sonic Youth, a band from New York, was known for their "experimental noise rock." Their regional movement contributed to the broader adoption of "alternative" as a music descriptor by the early 90s. "the experimental noise rock of New York's Sonic Youth." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 **Influence on Tin Machine (1989)** : The rising art punk sound of bands like Sonic Youth influenced David Bowie's decision to form Tin Machine, and their metallic, feedback-laden sound was a direct response to this genre. "It was his response to the rising art punk sound of bands like the Pixies or Sonic Youth." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 2 | https://shows.acast.com/hit-parade/episodes/696aa4d936ab0b5268aab02b
 **50th Birthday Concert Appearance (1997)** : Sonic Youth joined David Bowie on stage at his 50th birthday concert at Madison Square Garden, demonstrating their connection and mutual respect within the alternative rock scene. "joined on stage by such alt rockers as Sonic Youth, Foo Fighters, The Cures Robert Smith and Old Friend and Alt Rock Godfather Lou Reed." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 2 | https://shows.acast.com/hit-parade/episodes/696aa4d936ab0b5268aab02b
+**Member Joins Nirvana Performance** : Kim Gordon, a member of Sonic Youth, joined Nirvana as a guest vocalist for their Rock and Roll Hall of Fame induction performance in 2014, and again at the 2025 Fire Aid Benefit. "For their Rock Hall performance, original members Chris Novicellich and Dave Grohl and later Nirvana member Pat Smir were joined on stage for their four song set by four woman guest vocalists, Joan Jett, Kim Gordon of Sonic Youth, St Vincent, and for the finale of the set, Lord, who sang the final Nirvana Modern Rock number one of Kurt Cobain's lifetime, All Apologies." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Post-Punk Predecessor Without Chart Hits** : Sonic Youth is identified as an American post-punk predecessor that, despite its influence, had not managed to achieve actual chart hits, thus emphasizing the unprecedented mainstream breakthrough of Nirvana. "None of the American punk or post punk predecessors that laid the groundwork for Nirvana had had actual chart hits. Not Black Flag or Husker Dude or Sonic Youth or even Boston's Pixies..." ← Hit Parade Music History and Music Trivia > Smells Like Christmas Spirit, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"EVOL" (1986) — 1001 Albums You Must Hear Before You Die** : #573, 88 AOTY.
@@ -158,22 +162,22 @@
 **"Daydream Nation" (1988) — 1001 Albums You Must Hear Before You Die** : #630, 8.0/10 Scaruffi.
 **"Goo" (1990) — 1001 Albums You Must Hear Before You Die** : #682, 81 AOTY.
 **"Dirty" (1992) — 1001 Albums You Must Hear Before You Die** : #723, 7.0/10 Scaruffi.
-**"Daydream Nation" (1988) — AOTY Must Hear 1980s** : #23, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Sister" (1987) — AOTY Must Hear 1980s** : #53, 7.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"EVOL" (1986) — AOTY Must Hear 1980s** : #74, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Washing Machine" (1995) — AOTY Must Hear 1990s** : #223, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Dirty" (1992) — AOTY Must Hear 1990s** : #368, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Goo" (1990) — AOTY Must Hear 1990s** : #420, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Daydream Nation" (1988) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #171, 8.0/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Bad Moon Rising" (1985) — Scaruffi 1980s** : #98, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Daydream Nation" (1988) — Scaruffi 1980s** : #99, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Confusion Is Sex" (1983) — Scaruffi 1980s** : #198, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Sister" (1987) — Scaruffi 1980s** : #199, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"EVOL" (1986) — Scaruffi 1980s** : #721, 88 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Sonic Youth" (1982) — Scaruffi 1980s** : #877, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Dirty" (1992) — Scaruffi 1990s** : #1178, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Washing Machine" (1995) — Scaruffi 1990s** : #1179, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Goo" (1990) — Pitchfork: The 150 Best Albums of the 1990s** : #88, 81 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Daydream Nation" (1988) — Pitchfork: The 200 Best Albums of the 1980s** : #7, 8.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
-**"EVOL" (1986) — Pitchfork: The 200 Best Albums of the 1980s** : #51, 88 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
-**"Goo" (1990) — Sputnikmusic Best Albums 1990** : #133, 81 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
+**"Daydream Nation" (1988) — AOTY Must Hear 1980s** : #23, 8.0/10 Scaruffi.
+**"Sister" (1987) — AOTY Must Hear 1980s** : #53, 7.5/10 Scaruffi.
+**"EVOL" (1986) — AOTY Must Hear 1980s** : #74, 88 AOTY.
+**"Washing Machine" (1995) — AOTY Must Hear 1990s** : #223, 7.0/10 Scaruffi.
+**"Dirty" (1992) — AOTY Must Hear 1990s** : #368, 7.0/10 Scaruffi.
+**"Goo" (1990) — AOTY Must Hear 1990s** : #420, 81 AOTY.
+**"Daydream Nation" (1988) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #171, 8.0/10 Scaruffi.
+**"Bad Moon Rising" (1985) — Scaruffi 1980s** : #98, 8.0/10 Scaruffi.
+**"Daydream Nation" (1988) — Scaruffi 1980s** : #99, 8.0/10 Scaruffi.
+**"Confusion Is Sex" (1983) — Scaruffi 1980s** : #198, 7.5/10 Scaruffi.
+**"Sister" (1987) — Scaruffi 1980s** : #199, 7.5/10 Scaruffi.
+**"EVOL" (1986) — Scaruffi 1980s** : #721, 88 AOTY.
+**"Sonic Youth" (1982) — Scaruffi 1980s** : #877, 7.0/10 Scaruffi.
+**"Dirty" (1992) — Scaruffi 1990s** : #1178, 7.0/10 Scaruffi.
+**"Washing Machine" (1995) — Scaruffi 1990s** : #1179, 7.0/10 Scaruffi.
+**"Goo" (1990) — Pitchfork: The 150 Best Albums of the 1990s** : #88, 81 AOTY.
+**"Daydream Nation" (1988) — Pitchfork: The 200 Best Albums of the 1980s** : #7, 8.0/10 Scaruffi.
+**"EVOL" (1986) — Pitchfork: The 200 Best Albums of the 1980s** : #51, 88 AOTY.
+**"Goo" (1990) — Sputnikmusic Best Albums 1990** : #133, 81 AOTY.

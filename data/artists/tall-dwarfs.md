@@ -9,4 +9,4 @@
 **The Brain That Wouldn't Die (1985)** : This track, from the New Zealand band Tall Dwarfs' EP "Slug Bucket Hairy Breath Monster," exemplifies the deliberate lo-fi sound that emerged in the mid-1980s. The song was intentionally made to sound sonically inferior compared to the mainstream rock records of the time, highlighting an artistic choice for a raw and unpolished aesthetic. "Now I know a lot of today's music has that same sort of sound and vibe and feel as that one from Tall Dwarfs in 1985." ← https://www.youtube.com/watch?v=Jq-e-fZxXOs ← tall-dwarfs
 
 ## lists
-**"Throw A Sickie" (1986) — Scaruffi 1980s** : #878, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Throw A Sickie" (1986) — Scaruffi 1980s** : #878, 7.0/10 Scaruffi.

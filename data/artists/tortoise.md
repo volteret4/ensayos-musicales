@@ -25,11 +25,11 @@
 
 ## lists
 **"Millions Now Living Will Never Die" (1996) — 1001 Albums You Must Hear Before You Die** : #812, 8.5/10 Scaruffi.
-**"TNT" (1998) — AOTY Must Hear 1990s** : #87, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Millions Now Living Will Never Die" (1996) — AOTY Must Hear 1990s** : #205, 8.5/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Millions Now Living Will Never Die" (1996) — Scaruffi 1990s** : #23, 8.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"TNT" (1998) — Scaruffi 1990s** : #145, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Tortoise" (1994) — Scaruffi 1990s** : #347, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"TNT" (1998) — Pitchfork: The 150 Best Albums of the 1990s** : #106, 8.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Millions Now Living Will Never Die" (1996) — Sputnikmusic Best Albums 1996** : #150, 8.5/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
-**"TNT" (1998) — Sputnikmusic Best Albums 1998** : #131, 8.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1998/
+**"TNT" (1998) — AOTY Must Hear 1990s** : #87, 8.0/10 Scaruffi.
+**"Millions Now Living Will Never Die" (1996) — AOTY Must Hear 1990s** : #205, 8.5/10 Scaruffi.
+**"Millions Now Living Will Never Die" (1996) — Scaruffi 1990s** : #23, 8.5/10 Scaruffi.
+**"TNT" (1998) — Scaruffi 1990s** : #145, 8.0/10 Scaruffi.
+**"Tortoise" (1994) — Scaruffi 1990s** : #347, 7.5/10 Scaruffi.
+**"TNT" (1998) — Pitchfork: The 150 Best Albums of the 1990s** : #106, 8.0/10 Scaruffi.
+**"Millions Now Living Will Never Die" (1996) — Sputnikmusic Best Albums 1996** : #150, 8.5/10 Scaruffi.
+**"TNT" (1998) — Sputnikmusic Best Albums 1998** : #131, 8.0/10 Scaruffi.

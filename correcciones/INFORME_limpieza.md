@@ -1,14 +1,14 @@
 # Informe de limpieza de artistas
 
-- Fichas de entrada: 7129 (data + pendiente)
-- Artistas resultantes: 7129
+- Fichas de entrada: 9000 (data + pendiente)
+- Artistas resultantes: 8986
 - Eliminados por decisión: 0
 - Fusionados/renombrados: 0
-- Eliminados por quedar vacíos (R5): 0
-- Con charts recalculados: 1221; con listas: 1489
-- Relaciones miembro↔grupo: 3175
+- Eliminados por quedar vacíos (R5): 14
+- Con charts recalculados: 1633; con listas: 1596
+- Relaciones miembro↔grupo: 4155
 
-## Decisiones que no encontraron nada (8136)
+## Decisiones que no encontraron nada (8120)
 - `Two Chains => 2 Chainz`
 - `Two Chainz => 2 Chainz`
 - `Phil Specter => Phil Spector`
@@ -1039,7 +1039,6 @@
 - `Beastie Boys :: albums :: Aglio Iolio => Aglio e Olio (1995)`
 - `Beastie Boys :: albums :: Il Communication => Ill Communication (1994)`
 - `Beastie Boys :: albums :: iCombination => Ill Communication (1994)`
-- `Beastie Boys :: albums :: License to Ill => Licensed to Ill (1986)`
 - `Beastie Boys :: albums :: License-stuil => Licensed to Ill (1986)`
 - `Beastie Boys :: albums :: Licensed to Ill (First Album) => Licensed to Ill (1986)`
 - `Beastie Boys :: albums :: Paul Sputik => Paul's Boutique (1989)`
@@ -1223,7 +1222,6 @@
 - `Blur :: songs :: Park Life (1994) - Title Track => Parklife (1994)`
 - `Blur :: songs :: Parklife (1993) – Demo Version => Parklife (1994)`
 - `Blur :: songs :: Boys & Girls (1994) => Girls & Boys (1994)`
-- `Blur :: songs :: Girls and Boys => Girls & Boys (1994)`
 - `Blur :: songs :: Beagle II (2002) => Beagle 2 Theme (2003)`
 - `Blur :: songs :: Beagle II Signature Tune => Beagle 2 Theme (2003)`
 - `Blur :: curiosities :: Alex James's Award-Winning Cheese Production => -`
@@ -1725,7 +1723,6 @@
 - `The Cure :: curiosities :: The Crow Soundtrack Contribution (March 1994) => -`
 - `The Cure :: curiosities :: Future Discussion Topic => -`
 - `The Cure :: curiosities :: Robert Smith's Influences => -`
-- `Curtis Mayfield :: albums :: Superfly Soundtrack (1972) => Superfly (1972)`
 - `Cybotron :: albums :: Alleys of Your Mind (1971) => Alleys of Your Mind (1981)`
 - `Cypress Hill :: curiosities :: Be Real Audition for Post-Rage Project => -`
 - `D-A-F => DAF`
@@ -1861,7 +1858,6 @@
 - `David Bowie :: albums :: 25 Albums Recorded Before 1990 => -`
 - `David Bowie :: albums :: Albums Released in 2010s => -`
 - `David Bowie :: albums :: Number One Records in 2010s => -`
-- `David Bowie :: albums :: Berlin Trilogy => -`
 - `David Bowie :: albums :: Chart Success of Albums and Singles => -`
 - `David Bowie :: albums :: Early Albums (Late 1960s) => -`
 - `David Bowie :: albums :: Entire Catalog Released on CD => -`
@@ -1875,7 +1871,6 @@
 - `David Bowie :: albums :: Pinnups (1973) => Pin Ups (1973)`
 - `David Bowie :: albums :: Pinups (1972) => Pin Ups (1973)`
 - `David Bowie :: albums :: The Man Who Sold the World (1971) => The Man Who Sold the World (1970)`
-- `David Bowie :: albums :: Ziggy Stardust => The Rise and Fall of Ziggy Stardust and the Spiders from Mars (1972)`
 - `David Bowie :: albums :: The Rise and Fall of Ziggy Stardust, and The Spiders from Mars (1972) => The Rise and Fall of Ziggy Stardust and the Spiders from Mars (1972)`
 - `David Byrne :: curiosities :: Self-Characterized Asperger Syndrome => -`
 - `David Byrne :: curiosities :: Suspected Asperger Syndrome => -`
@@ -2651,7 +2646,6 @@
 - `Glenn Gold :: songs :: El Clave bien Temperado => The Well-Tempered Clavier (Johann Sebastian Bach)`
 - `Glenn Miller Orchestra => Glenn Miller`
 - `Gloria Jones :: curiosities :: Involvement in Mark Bolan's Death => -`
-- `Gloria Jones :: songs :: Tainted Love (1965) => Tainted Love (1964)`
 - `Glorvia Gunter => Shirley Gunter`
 - `Ruben Huzenga => Ruben Huizenga`
 - `Glüleg :: albums :: Heroic Dosis => Heroic Doses (1995)`
@@ -3618,7 +3612,6 @@
 - `Liam Gallagher :: albums :: Previous Solo Album => -`
 - `The Libertines :: albums :: Liberty and Stabby Welvent (2002) => Up the Bracket (2002)`
 - `The Liberty's => The Libertines`
-- `Lil Nas X :: songs :: Old Town Road (2019) => Old Town Road (2018)`
 - `Lila Glimain => -`
 - `Limewire (Toronto band) => Limewire`
 - `Limp Biscuit :: albums :: Massive Sales for Early Albums => -`
@@ -3953,7 +3946,6 @@
 - `Michael Jackson :: curiosities :: Artwork for Dead Silence => -`
 - `Michael Jackson :: songs :: Beat It (1983) => Beat It (1982)`
 - `Michael Jackson :: songs :: Beat It (1982) (Guitar Riff Mentions) => Beat It (1982)`
-- `Michael Jackson :: songs :: Off the Wall (1980) => Off the Wall (1979)`
 - `Michael Jackson :: songs :: Off the Wall (Year not specified) => Off the Wall (1979)`
 - `Michael Jackson :: songs :: Smooth Criminal (Year not given) => Smooth Criminal (1987)`
 - `Michael Jackson :: songs :: Thriller (Year not specified) => Thriller (1983)`
@@ -5008,7 +5000,6 @@
 - `Quixonic => -`
 - `R => -`
 - `Rabbi Shankar => Ravi Shankar`
-- `Radiators from Space => The Radiators from Space`
 - `The Radio 4 :: songs :: What You Gonna Do (Year?) => -`
 - `The Radio Dept. :: albums :: Teach Me How To Forget (EP) (October 13) => Teach Me to Forget (2017)`
 - `Radio Stars :: songs :: Buy Shizuak Records (1977) => Buy Chiswick Records (1977)`
@@ -5149,7 +5140,6 @@
 - `[Headstones] Randy Kwan => -`
 - `Randy Meisner (former bassist) => Randy Meisner`
 - `The Eagles => Eagles`
-- `Randy Newman :: songs :: Mama Told Me Not To Come => Mama Told Me (Not to Come) (1966)`
 - `Randy Newman :: songs :: You Got A Friend In Me => You've Got a Friend in Me (1995)`
 - `Randy N.S. => -`
 - `Randy Rhoads (guitarist) => Randy Rhoads`
@@ -5477,7 +5467,6 @@
 - `The Rolling Stones :: albums :: Beggar's Banquet (1968) - Swift Production => Beggars Banquet (1968)`
 - `The Rolling Stones :: albums :: Beggar's Banquet (1968) - White Album Coincidence => Beggars Banquet (1968)`
 - `The Rolling Stones :: albums :: Beggars Banquet (1967) => Beggars Banquet (1968)`
-- `The Rolling Stones :: albums :: Exile on Main Street => Exile on Main St. (1972)`
 - `The Rolling Stones :: albums :: Six Consecutive Albums (1966-1972) => -`
 - `The Rolling Stones :: albums :: Sun City (Artists Against Apartheid) (1985) => -`
 - `The Rolling Stones :: albums :: Their Satanic Majesties Request (Year Unspecified) - Re-edition => Their Satanic Majesties Request (1967)`
@@ -5493,7 +5482,6 @@
 - `[The Ronettes] Ronnie Bennett => Ronnie Spector`
 - `Ronnie Bennett => Ronnie Spector`
 - `Ronnie Spector (lead singer) => Ronnie Spector`
-- `The Ronettes :: songs :: Baby I Love You => Baby, I Love You (1963)`
 - `The Ronettes :: songs :: (unnamed 1966 single) => -`
 - `The Ronettes :: songs :: Sleigh Ride (Unknown Year) => Sleigh Ride (1963)`
 - `The Ronettes :: songs :: The Twist (cover) => -`
@@ -6775,8 +6763,6 @@
 - `The Three Degrees :: songs :: The Sound of Philadelphia (Soul Train Theme) (N/A) => @MFSB`
 - `[Three Dog Night] Corey Wells => Cory Wells`
 - `[Three Dog Night] Other two unnamed lead singers => -`
-- `Three Dog Night :: songs :: Joy To The World (1971) => Joy to the World (1970)`
-- `Three Dog Night :: songs :: Mama Told Me Not To Come => Mama Told Me (Not to Come) (1970)`
 - `Three Dog Night :: songs :: Old Fashioned Love Song => An Old Fashioned Love Song (1971)`
 - `Three Doors Down => 3 Doors Down`
 - `[3 Doors Down] Todd Harrell (bass player) => Todd Harrell`
@@ -7371,7 +7357,6 @@
 - `[Victoria and Albert] Alex Kapranos (as Danny) => Alex Kapranos`
 - `Victoria and Albert :: albums :: Album by Alex Kapranos (as Danny) => -`
 - `The Vile Tones => The Viletones`
-- `Village People :: songs :: YMCA => Y.M.C.A. (1978)`
 - `Village People :: songs :: YMCA (1978) => Y.M.C.A. (1978)`
 - `Villasfer => -`
 - `Vimo Galman => -`
@@ -8075,7 +8060,6 @@
 - `Robert Hood :: curiosities :: Second Wave Techno Artist => Second Wave Detroit Techno Artist`
 - `The Rolling Stones :: curiosities :: Influence on Early Tragically Hip => Early Influence on The Tragically Hip`
 - `The Rolling Stones :: curiosities :: Tongue and Lips Logo => Iconic Lips and Tongue Logo (1971)`
-- `Sarah McLachlan :: curiosities :: Lilith Fair Founder => Founder of Lilith Fair`
 - `Scott Weiland :: curiosities :: Undiagnosed Bipolar Disorder => Bipolar Disorder`
 - `Scott Weiland :: curiosities :: Death (December 3, 2015) => Death on Tour Bus (December 3, 2015)`
 - `Scott Weiland :: curiosities :: Discovery of Death on Tour Bus (December 3, 2015) => Death on Tour Bus (December 3, 2015)`
@@ -8153,4 +8137,18 @@
 ## Eliminados
 
 ## Eliminados por vacíos (R5)
+- Aaron Hall
+- Abel Tesfaye
+- Brian Williams
+- Don Cherry
+- Dél Amitri
+- Jenny Han
+- Jerry Goffin
+- Jimmy Vaughan
+- Montero Lamar Hill
+- Moon Unit Zappa
+- Patrick Brown
+- Rick Ross
+- Ronald Williams
+- Samuel Barber
 

@@ -6,6 +6,8 @@
 ## genres
 - Alt Rock
 - Alternative
+- Art Pop
+- Art Rock
 - Classical
 - Dreampop
 - Ethereal
@@ -13,6 +15,7 @@
 - Folk Music
 - Glam Rock
 - Prog Rock
+- UK Art Rock
 
 ## labels
 - EMI
@@ -28,12 +31,20 @@
 - Violin
 
 ## albums
+**Hounds of Love (1985)** : This was Kate Bush's best-selling studio album, from which "Running Up That Hill" was the first single. "Running Up That Hill" was released in the summer of 1985. "Running Up That Hill" was Bush's future hit from TV's Stranger Things, and it was cracking the top 40 at number 39 the week ending November 9, 1985, which was the same week the Miami Vice soundtrack was number one on the album chart. "37 years ago, in the summer of 1985, British Art Rock Goddess Kate Bush issued the first single from what would become her best-selling studio album, Hounds of Love." ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **The Kick Inside (1978)** : This was Kate Bush's debut album, recorded around her 19th birthday in the summer of 1977. Its first single, "Wuthering Heights," was released in January 1978. "The first single came out in January 1978." ← https://www.youtube.com/watch?v=clPuV7ezrIc ← kate-bush ← kate-bush
 **The Kick Inside (1978)** : Kate Bush's debut album was recorded around the time of her 19th birthday, in the summer of 1977. Its first single, "Wuthering Heights," was released in January 1978. "And during the period around her 19th birthday, a debut album was recorded." ← https://www.youtube.com/watch?v=rEawe_1Fqf0 ← kate-bush ← kate-bush
 **The Red Shoes (1993)** : This album was supported by a few appearances by Kate Bush in 1993, which included screenings of a short film that she introduced. "Then in 1993, she made a few appearances in support of her album The Red Shoes, which came with a short film that she introduced at Screenings." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← kate-bush ← kate-bush
 
 ## songs
 **A Deal With God (Running Up That Hill)** : This song was featured as part of Kate Bush's 2014 "Before the Dawn" residency at the Apollo Hammersmith. A live version was subsequently released on CD and vinyl, capturing the essence of her rare stage return. "Here's one of the songs recorded live and later released on CD and vinyl. And it's only cold. I think a deal with God." ← https://www.youtube.com/watch?v=GYUuTbOvyak ← kate-bush
+**Love and Anger (1989)** : This single became a number one hit on the Modern Rock chart in the fall of 1989. This success was significant as her prior singles had largely missed the Hot 100 and Album Rock charts in America, indicating the Modern Rock chart's ability to provide a platform for veteran female artists. "At Modern Rock, her fall 1989 single Love and Anger was a number one hit." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Running Up That Hill (1985)** : Kate Bush's "most famous hit" prior to her later Modern Rock success, this single "barely scraped the top 30" on charts like the Hot 100 and Album Rock chart. Its modest performance contrasted sharply with her later Modern Rock achievements. "Her most famous hit, Running Up That Hill, barely scraped the top 30." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Running Up That Hill (A Deal with God) (1985)** : This song was the first single from Kate Bush's best-selling studio album, "Hounds of Love," issued in the summer of 1985. It is described as a cross between an intimate meditation and a thunderous anthem. By the fall of 1985, it cracked the top 40 on Billboard's Hot 100, reaching No. 30 by November 1985, unable to surpass hits by Dire Straits, Sting, and The Cars at the time. In June 2022, the song re-debuted on the Hot 100 at No. 8 and then leaped to No. 4, becoming Kate Bush's first American Top 10 and Top 5 hit at age 63. Its comeback was catalyzed by its placement in the TV show "Stranger Things," single-handedly making it a top five hit. The full title of the song is "Running Up That Hill (A Deal with God)." "the Song, a cross between an intimate meditation and a thunderous anthem was called Running Up That Hill." ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Running Up That Hill (A Deal With God) (1985)** : In its first run in 1985, this song topped out at number 30 on the Hot 100, marking Kate Bush's only American Top 40 hit at the time, ironically peaking alongside *Miami Vice* hits. Featured in *Stranger Things* Season 4, it became a 2022 mega-hit, reaching number one download in America, most streamed song (29M+ streams), and gaining significant Top 40 radio airplay (2.4M audience). "in its first run in 1985, running up that hill topped out at number 30 on the Hot 100, Kate Bush's only American top 40 hit ever." ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Running Up That Hill (A Deal with God) (1985)** : This song re-entered the top ten of the charts, prompting Chris Malanfi to write about it for his "Why Is This Song Number One" column, an example of "cheating" his usual rule of only writing about songs that are currently number one. "When running up that hill by Kate Bush went back into the top ten, we cheated, and I wrote about that." ← Hit Parade Music History and Music Trivia > The Bridge - Can’t Tell Me Nothin’ | https://my.slate.com/podcasts/feeds/hit-parade/
+**Running Up That Hill (A Deal with God) (2022)** : The song experienced a significant comeback in June 2022, 37 years after its initial release. It re-debuted on the Hot 100 at No. 8 and then ascended to No. 4, marking Kate Bush's first American Top 10 and Top 5 hit at the age of 63. This resurgence was directly catalyzed by its prominent placement in the TV series "Stranger Things." "as I speak in June 2022, Running Up That Hill is back on the Hot 100. Only this time, it's doing considerably better. Just before we recorded this episode, Running Up That Hill not only redebued on the Hot 100 all the way up at No. 8, this week it leaps to No. 4." ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Running Up That Hill (A Deal With God) (2022)** : As a 2022 mega-hit, largely due to *Stranger Things* Season 4, the song became the number one download in America and the most streamed song in the country (over 29 million streams), also generating substantial airplay on current Top 40 stations with a radio audience of 2.4 million, matching the success of hits from *Grey's Anatomy*. "Kate Bush's 1985 hit is a 2022 mega hit thanks largely to TV and the way the charts have evolved in the last half century." ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Wuthering Heights (1978)** : This was the first single released from Kate Bush's debut album, *The Kick Inside*, in January 1978, when she was barely 19. It was considered highly unusual for the punk era due to her distinctive singing style and vocal range, and especially because it was a hit song based on an Emily Brontë novel. "Kate Bush and Wuthering Heights, the first single from her album, The Kick Inside, recorded when she was barely 19." ← https://www.youtube.com/watch?v=clPuV7ezrIc ← kate-bush ← kate-bush
 **Wuthering Heights (1978)** : Released in January 1978, "Wuthering Heights" was Kate Bush's first single from her debut album, "The Kick Inside," recorded when she was barely 19. It stood out as unusual even during the punk years due to her unique singing style and range, its lyrical basis on an Emily Brontë novel, and her distinct vocal delivery, described as "howled." "Kate Bush and Wuthering Heights, the first single from her album, The Kick Inside, recorded when she was barely 19." ← https://www.youtube.com/watch?v=rEawe_1Fqf0 ← kate-bush ← kate-bush
 
@@ -64,6 +75,14 @@
 **Recording at Air Lyndhurst Hall** : Kate Bush was a client at Air Lyndhurst Hall, George Martin's studio in North London, known for its large, hexagonal Studio One, suitable for orchestral and choir recordings. "Clients have included you too, Adele, Kate Bush, Liam Gallagher, Coldplay Muse, and Mumford and Sons." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← kate-bush ← kate-bush
 **Unconventionality and Reception** : Kate Bush's music, particularly her debut single "Wuthering Heights," was considered highly unusual even during the punk years due to her singing style, range, and the literary basis of her hit song. She was adored by those who appreciated her "ethereal quirkiness," consistently refusing to conform to conventional or traditional music practices. "Nothing Kate did was conventional or traditional." ← https://www.youtube.com/watch?v=clPuV7ezrIc ← kate-bush ← kate-bush
 **Unique and Ethereal Style** : Kate Bush's style, characterized by her distinct singing, vocal range, and the unconventional nature of her hit songs, was not universally understood but deeply appreciated by those who "got her." Her appeal was often described as "ethereal quirkiness." "Not everyone got Kate Bush, of course, but those who did love her for her, well, let's just call it her ethereal cuckiness." ← https://www.youtube.com/watch?v=rEawe_1Fqf0 ← kate-bush ← kate-bush
+**Early Career Success (UK)** : Prior to 1985, Kate Bush had already achieved a string of hit singles and albums in her UK homeland, starting from the late 1970s. "In a career that had already generated a string of hit singles and albums in her UK homeland since the late 70s, Bush had, as of 85, yet to score a major pop hit in America." ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**First American Top 5 Hit at 63** : In June 2022, at the age of 63, Kate Bush achieved her first-ever American Top 10 and Top 5 hit with "Running Up That Hill," 37 years after its original release. "At age 63, Kate Bush has her first ever American top 10 hit, Top 5." ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Catalyzed by Television** : The major comeback of "Running Up That Hill" in 2022, propelling it into the American Top 5, was primarily catalyzed by its inclusion in the television series "Stranger Things." "But the main thing that catalyzed this comeback was the screen that's flickering in your living room or den. Television." ← Hit Parade Music History and Music Trivia > A Deal with the TV God Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Veteran Female Artist Gaining American Chart Success (1989)** : Kate Bush, an "Iconoclastic UK Art Rocker," found unprecedented American chart success through the Modern Rock chart in 1989. Her singles had largely missed the Hot 100 and Album Rock charts in the preceding decade, making her Modern Rock number one hit "Love and Anger" a significant career breakthrough in the US. "And the chart was giving a leg up to female veterans who had never charted so well in America, such as Iconoclastic UK Art Rocker Heat Bush." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Bespoke Artist with Unique Voice** : Kate Bush is cited as an artist who "broke through as a bespoke artist with a unique voice," a characteristic she shares with Lord, Tori Amos, and Fiona Apple. This highlights a particular archetype of distinctive female artistry. "Like Kate Bush, Torrey Amos, and Fiona Apple before her Lord broke through as a bespoke artist with a unique voice." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rock and Roll Hall of Fame Nomination & Influence** : Kate Bush was nominated for the Rock and Roll Hall of Fame and is considered deeply influential, particularly on artists like Tori Amos and Lord, in terms of "the art" and "depth of emotion and depth of feeling." There is an expressed desire for her continued nomination until her induction. "I already voted for Kate Bush on this most recent rock haul ballot. I was delighted that they finally put her on the ballot. I think she is deeply influential." ← Hit Parade Music History and Music Trivia > Music Trivia - Rock & Roll Hall of Fame Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on Modern Artists - Billie Eilish Comparison** : Kate Bush is cited as a significant artistic predecessor, with Billie Eilish being described as her "heir apparent," highlighting her unique and influential style. "I see her as the heir apparent to everybody from Kate Bush." ← Hit Parade Music History and Music Trivia > The Bridge - Farewell, Lilith Fan | https://my.slate.com/podcasts/feeds/hit-parade/
+**Collaborator on Peter Gabriel's "So" (1986)** : Kate Bush was one of the singers Peter Gabriel reached out to for collaborations on his album *So*. "From singers like Kate Bush, Laurie Anderson and Yusu Endor." ← Hit Parade Music History and Music Trivia > The Invisible Miracle Sledgehammer Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Ivor Novello Awards (2002)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q61116
@@ -79,17 +98,17 @@
 **"The Dreaming" (1982) — 1001 Albums You Must Hear Before You Die** : #504, 7.0/10 Scaruffi.
 **"Hounds of Love" (1985) — 1001 Albums You Must Hear Before You Die** : #555, 94 AOTY.
 **"The Sensual World" (1989) — 1001 Albums You Must Hear Before You Die** : #649, 86 AOTY.
-**"Kick Inside" (1978) — AOTY Must Hear 1970s** : #43, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"The Sensual World" (1989) — AOTY Must Hear 1980s** : #4, 86 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Hounds of Love" (1985) — AOTY Must Hear 1980s** : #89, 94 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"The Dreaming" (1982) — AOTY Must Hear 1980s** : #144, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Never for Ever" (1980) — AOTY Must Hear 1980s** : #187, 72 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Aerial" (2005) — AOTY Must Hear 2000s** : #222, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Before the Dawn" (2016) — AOTY Must Hear 2010s** : #359, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"50 Words for Snow" (2011) — AOTY Must Hear 2010s** : #808, 86 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Hounds of Love" (1985) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #68, 94 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Kick Inside" (1978) — Scaruffi 1970s** : #373, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Dreaming" (1982) — Scaruffi 1980s** : #499, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Hounds of Love" (1985) — Pitchfork: The 200 Best Albums of the 1980s** : #4, 94 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
-**"The Sensual World" (1989) — Pitchfork: The 200 Best Albums of the 1980s** : #59, 86 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
-**"50 Words for Snow" (2011) — Pitchfork: The 200 Best Albums of the 2010s** : #191, 86 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
+**"Kick Inside" (1978) — AOTY Must Hear 1970s** : #43, 7.0/10 Scaruffi.
+**"The Sensual World" (1989) — AOTY Must Hear 1980s** : #4, 86 AOTY.
+**"Hounds of Love" (1985) — AOTY Must Hear 1980s** : #89, 94 AOTY.
+**"The Dreaming" (1982) — AOTY Must Hear 1980s** : #144, 7.0/10 Scaruffi.
+**"Never for Ever" (1980) — AOTY Must Hear 1980s** : #187, 72 AOTY.
+**"Aerial" (2005) — AOTY Must Hear 2000s** : #222, 83 AOTY.
+**"Before the Dawn" (2016) — AOTY Must Hear 2010s** : #359, 81 AOTY.
+**"50 Words for Snow" (2011) — AOTY Must Hear 2010s** : #808, 86 AOTY.
+**"Hounds of Love" (1985) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #68, 94 AOTY.
+**"Kick Inside" (1978) — Scaruffi 1970s** : #373, 7.0/10 Scaruffi.
+**"The Dreaming" (1982) — Scaruffi 1980s** : #499, 7.0/10 Scaruffi.
+**"Hounds of Love" (1985) — Pitchfork: The 200 Best Albums of the 1980s** : #4, 94 AOTY.
+**"The Sensual World" (1989) — Pitchfork: The 200 Best Albums of the 1980s** : #59, 86 AOTY.
+**"50 Words for Snow" (2011) — Pitchfork: The 200 Best Albums of the 2010s** : #191, 86 AOTY.

@@ -26,6 +26,13 @@
 **Scene Over by Early 90s** : The Madchester scene, featuring bands like The Stone Roses and Happy Mondays, was "pretty much over" by the early 1990s, contributing to a "big void in British music" that Britpop later helped to fill. "The madchester scene featuring the stone roses and the happy Mondays was pretty much over." ← https://www.youtube.com/watch?v=5q5EnZj1FwE ← madchester
 **Sound Formation - Late 1980s** : The Madchester sound emerged from young Manchester musicians combining the attitude of acid house raves with proper guitars. This resulted in a clash of jangly guitars, swirling organs, and indie rock aesthetics set to a danceable beat, discovered by the British music press by late 1989. "And by late 1989, the British music press had discovered it and were calling the sound madchester." ← https://www.youtube.com/watch?v=DSvoppf1dGY ← madchester
 **UK Resurgence (Early 1990s)** : Madchester swept through the UK in the early 1990s, following an explosion of dance culture throughout the 1980s, indicating early signs of musical shifts. "Madchester had swept through the UK following an explosion of dance culture through the 1980s." ← https://www.youtube.com/watch?v=Rf1tFWQg51Y ← madchester ← madchester
+**Blend of Psychedelic Rock and Acid House** : Madchester was a blend of psychedelic rock and acid house dance beats, which inspired many drug-fueled raves in England's northern provinces and lit up UK pop at the turn of the 80s into the 90s. "Let's talk for a bit about Manchester or more to the point, Madchester, the blend of psychedelic rock and acid house dance beats that inspired many a drug-fueled rave in England's northern provinces and lit up UK pop at the turn of the 80s into the 90s." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Manchester as Epicenter** : The fact that the Madchester scene flourished in Manchester, not London, was significant, with the club The Hacienda serving as its epicenter. "The fact that this scene was flowering in Manchester, not London, was significant." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Decent US Charting on Modern Rock** : Madchester bands charted decently in America, not on the Hot 100 where they never reached the Pop Top 40, but on Billboard's Modern Rock Chart. "Notably, these Madchester bands charted decently in America, not on the Hot 100 where they never came close to the Pop Top 40, but on Billboard's Modern Rock Chart." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**"Baggy Sound"** : The Madchester movement, particularly Happy Mondays, defined the "baggy sound," characterized by groovy, trippy, and funky elements. "And their hits, like 1990s, step on, were groovy, trippy, and defined the so-called baggy sound." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Waning Trend by Late 1991** : By late 1991, the Madchester sound had been fully mainstreamed, with even U2 adopting elements for their "Achtung Baby" album, signaling its decline as a cutting-edge movement for bands like Blur. "By late 91, the Mad Chester sound had been fully mainstreamed." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Precursor to Britpop** : A wave of Madchester, along with UK indie and Shoegaze rock, eventually coalesced into Britpop. "a wave of UK indie, madchester, and shugaz rock eventually coalesced into Britpop through the hits of Swade, Alastica, pulp, and of course, Blur and Oasis." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Distinction from Britpop's Future** : Underworld's "Born Slippy" showed where British music was going next: "not back to the acid house of Madchester but toward the harder club rhythms of techno drum and bass jungle and the catch all movement dubbed electronica." "not back to the acid house of Madchester but toward the harder club rhythms of techno drum and bass jungle and the catch all movement dubbed electronica." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Blur
@@ -33,4 +40,8 @@
 - Inspiral Carpets
 - The Stone Roses
 - The Charlatans
-
+- Oasis
+- The Soup Dragons
+- The Farm
+- U2
+- New Order

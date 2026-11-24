@@ -16,6 +16,6 @@
 **Source of Rage** : Against Me! is noted for being a "good source of rage" in their musical expression, suggesting their songs frequently embody strong anger and rebellious sentiment. "So is against me." ← https://www.youtube.com/watch?v=0ARYt4sYT90 ← against-me
 
 ## lists
-**"Transgender Dysphoria Blues" (2014) — AOTY Must Hear 2010s** : #627, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Reinventing Axl Rose" (2002) — Sputnikmusic Best Albums 2002** : #41, 4.14 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/
-**"The Disco Before the Breakdown" (2002) — Sputnikmusic Best Albums 2002** : #96, 4.04 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/
+**"Transgender Dysphoria Blues" (2014) — AOTY Must Hear 2010s** : #627, 80 AOTY.
+**"Reinventing Axl Rose" (2002) — Sputnikmusic Best Albums 2002** : #41, 4.14 Sputnik.
+**"The Disco Before the Breakdown" (2002) — Sputnikmusic Best Albums 2002** : #96, 4.04 Sputnik.

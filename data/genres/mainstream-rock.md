@@ -7,4 +7,4 @@
 ## artists
 - Beastie Boys
 - Imagine Dragons
-
+- Silverchair

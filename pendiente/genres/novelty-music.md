@@ -1,0 +1,5 @@
+# genre - Novelty Music
+
+## curiosities
+**Ephemeral Nature of the Genre** : Novelty music is generally considered ephemeral, meaning it is expected to be short-lived in popularity. However, artists like Weird Al Yankovic have managed to build lasting careers by transcending this expectation, showcasing a unique longevity in the field. "by alchemizing all these different things, he's been able to create a blasting career in a field where everything is supposed to be ephemeral." ← Hit Parade Music History and Music Trivia > The Bridge - Living in an Amish Paradise | https://my.slate.com/podcasts/feeds/hit-parade/
+**History on the Charts** : The history of novelty music on the charts is a significant part of popular music history, with various pioneers contributing to its evolution. Artists like Weird Al Yankovic synthesized the best elements from his antecedents to create a unique and enduring style within the genre. "really to talk about the history of novelty music on the charts in general." ← Hit Parade Music History and Music Trivia > The Bridge - Living in an Amish Paradise | https://my.slate.com/podcasts/feeds/hit-parade/

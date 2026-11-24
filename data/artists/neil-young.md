@@ -2,6 +2,7 @@
 
 ## member of
 - Crosby, Stills, Nash & Young
+- Northern Lights
 
 ## genres
 - Folk
@@ -17,6 +18,8 @@
 - Farm Aid
 - Glastonbury
 - Live 8 (Canadian show)
+- The Last Waltz
+- Woodstock Festival (1969)
 
 ## instruments
 - Overdriven guitar
@@ -36,6 +39,7 @@
 **Southern Man (1970)** : Released in 1970, this song directly called out the American South for its racism, history of slavery, and the use of religion (specifically the Bible, referred to as "your good book") as a justification for these practices. The lyrics included "Don't forget what your good book says / Southern change gonna come at last / Now your Southern man / Will you know when freedom comes? / Well I heard screaming and the whole world is clapping and I don't know." The song was highly upsetting to many white people in the South, who felt it painted them in broad, racist strokes. Years later, Young himself reflected on the song in his biography, stating he deserved to be called out for it. "Young called out the South for its racism its history of slavery and he also calls out their use of religion. The Bible and religion was used as a justification for slavery and he uses it here in Southern man he says don't forget about your Bible he specifically adds your when he says your good book which of course is the Bible." ← For the Record - The 70s > Ep. 3 - Nostalgia, Race, and Rebels in 70s Southern Rock | https://seventies.libsyn.com/03-bittersweet-home-alabama
 **Southern Man (1970)** : Released in the fall of 1970, this song directly challenged the South's history of racism and slavery, with lyrics urging listeners to "not forget about your Bible or your good book." The song provoked anger among many white southerners who felt it broadly condemned the entire white population of the South. Years later, in his 2012 biography, Young reflected on the song, admitting that he disliked his own words, finding them "accusatory and condescending." "Southern man released in the fall of nineteen seventy. This song was upsetting to many white southerners." ← For the Record - The 70s > Ep. 3 - Nostalgia, Race, and Rebels in 70s Southern Rock (Encore) | https://seventies.libsyn.com/ep-3-nostalgia-race-and-rebels-in-70s-southern-rock-encore
 **Southern Man (1970)** : This song is described as belittling people from the American South, which prompted a response from Leonard Skinnerd in their hit "Sweet Home Alabama." Neil Young later acknowledged that "Southern Man" was "simplistic and condescending." "Neil Young even said he was honored to be name checked in the Leonard Skinnerd hit." ← Hit Parade Music History and Music Trivia > Here’s the Beef Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef3154465cd600c4ef5
+**Tears Are Not Enough (1985)** : Neil Young took a verse in the Canadian famine relief single "Tears Are Not Enough" by Northern Lights. His inclusion was noted as one of the "greater surprises" among the participants. "Neil Young, Joni Mitchell and Russia's Getty Lee all took a verse." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **"Every Junkie Has a Setting Sun" Quote** : Ash Boo Shultz quoted Neil Young's phrase "as every junkie has a setting sun" when describing the end of his eight-month drug bender in 2013, which severely impacted the completion of USS's "Advanced Basics" album. "Of course as every junkie has a setting sun, thank you Neil Young. The party ended in November, December and I was lights out for a while." ← https://www.youtube.com/watch?v=N-3eddy4J7g ← neil-young
@@ -61,6 +65,7 @@
 **Self-Criticism of "Southern Man"** : Years after its release, Neil Young expressed regret and self-criticism regarding "Southern Man." In his biography, he acknowledged that he deserved to be called out for the song, describing his own words as "accusatory and condescending," and "not fully thought out and too easy to misconstrue." "he thought he deserved to be called out for Southern Man He wrote in his biography I don't like my words when I listen to it They are accusatory and condescending Not fully thought out and too easy to misconstrue." ← For the Record - The 70s > Ep. 3 - Nostalgia, Race, and Rebels in 70s Southern Rock | https://seventies.libsyn.com/03-bittersweet-home-alabama
 **Transition to Electric Sounds (1960s)** : Neil Young is noted for abandoning acoustic folk music in the 1960s to incorporate electric guitars and more contemporary sounds. This shift mirrored Marc Bolan's own evolution from acoustic folk towards more electric and current music. "también a gente como Neil Yound durante los años 60 estaba abandonando el álbum de música acústico para incorporar guitarras eléctricas y para incorporar sonidos más eléctricos y más actuales, un poco a lo que era la música folk de los años 60." ← Music Radar Clan > EL PIONERO DEL GLAM： MARC BOLAN Y T REX | https://www.youtube.com/watch?v=Mw_HxfX8iBA&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← neil-young ← neil-young
 **Post-Diss Handshake with Lynyrd Skynyrd (Year Unknown)** : Neil Young and Lynyrd Skynyrd famously resolved their differences with a handshake after Lynyrd Skynyrd's diss track, setting an example that "it's still possible for kindness to prevail" in the music industry. This demonstrated a peaceful way to conclude a lyrical beef. "Maybe 50 years after Neil Young heard Leonard Skinner's dis and shook hands with them" ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+**Refusal to be Filmed at Woodstock** : Neil Young, a member of Crosby, Stills, Nash & Young, explicitly refused to be filmed during his performance at the Woodstock Festival in August 1969. This decision meant he did not appear in the Woodstock film, unlike his bandmates. "Neil Young, by the way, also refused to be filmed." ← Hit Parade Music History and Music Trivia > The Bridge - Ladies of the Canyon and the Rhythm Nation | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Officer of the Order of Canada** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q15278116
@@ -133,34 +138,34 @@
 **"Tonight’s the Night" (1975) — 1001 Albums You Must Hear Before You Die** : #339.
 **"Rust Never Sleeps" (1979) — 1001 Albums You Must Hear Before You Die** : #442, 100 AOTY.
 **"Ragged Glory" (1990) — 1001 Albums You Must Hear Before You Die** : #675.
-**"Rust Never Sleeps" (1979) — AOTY Must Hear 1970s** : #11, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Zuma" (1975) — AOTY Must Hear 1970s** : #95, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Tonight’s the Night" (1975) — AOTY Must Hear 1970s** : #103. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"On the Beach" (1974) — AOTY Must Hear 1970s** : #121, 95 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Harvest" (1972) — AOTY Must Hear 1970s** : #182, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"After the Gold Rush" (1970) — AOTY Must Hear 1970s** : #237, 92 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Harvest Moon" (1992) — AOTY Must Hear 1990s** : #356, 77 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Neil Young Archives, Vol. I (1963-1972)" (2009) — AOTY Must Hear 2000s** : #30, 86 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Sugar Mountain: Live at Canterbury House 1968" (2008) — AOTY Must Hear 2000s** : #56, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Hitchhiker" (2017) — AOTY Must Hear 2010s** : #273, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Live at the Cellar Door" (2013) — AOTY Must Hear 2010s** : #633, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Homegrown" (2020) — AOTY Must Hear 2020s** : #644, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Harvest" (1972) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #72, 7.0/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"After the Gold Rush" (1970) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #90, 92 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Rust Never Sleeps" (1979) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #296, 100 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Tonight’s the Night" (1975) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #302. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"On the Beach" (1974) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #311, 95 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Tonight’s the Night" (1975) — Scaruffi 1970s** : #57. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Rust Never Sleeps" (1979) — Scaruffi 1970s** : #122, 100 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"After the Gold Rush" (1970) — Scaruffi 1970s** : #426, 92 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Harvest" (1972) — Scaruffi 1970s** : #427, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"On the Beach" (1974) — Scaruffi 1970s** : #428, 95 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Zuma" (1975) — Scaruffi 1970s** : #429, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Sleeps With Angels" (1994) — Scaruffi 1990s** : #971, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Arc" (1991) — Scaruffi 1990s** : #972, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Psychedelic Pill" (2012) — Scaruffi 2010s** : #271, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"On the Beach" (1974) — Pitchfork: The 100 Best Albums of the 1970s** : #65, 95 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"After the Gold Rush" (1970) — Pitchfork: The 100 Best Albums of the 1970s** : #99, 92 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"Ragged Glory" (1990) — Sputnikmusic Best Albums 1990** : #80. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"Harvest Moon" (1992) — Sputnikmusic Best Albums 1992** : #173, 77 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"Chrome Dreams" (2023) — Sputnikmusic Best Albums 2023** : #2, 4.14 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2023/
+**"Rust Never Sleeps" (1979) — AOTY Must Hear 1970s** : #11, 100 AOTY.
+**"Zuma" (1975) — AOTY Must Hear 1970s** : #95, 7.0/10 Scaruffi.
+**"Tonight’s the Night" (1975) — AOTY Must Hear 1970s** : #103.
+**"On the Beach" (1974) — AOTY Must Hear 1970s** : #121, 95 AOTY.
+**"Harvest" (1972) — AOTY Must Hear 1970s** : #182, 7.0/10 Scaruffi.
+**"After the Gold Rush" (1970) — AOTY Must Hear 1970s** : #237, 92 AOTY.
+**"Harvest Moon" (1992) — AOTY Must Hear 1990s** : #356, 77 AOTY.
+**"Neil Young Archives, Vol. I (1963-1972)" (2009) — AOTY Must Hear 2000s** : #30, 86 AOTY.
+**"Sugar Mountain: Live at Canterbury House 1968" (2008) — AOTY Must Hear 2000s** : #56, 80 AOTY.
+**"Hitchhiker" (2017) — AOTY Must Hear 2010s** : #273, 82 AOTY.
+**"Live at the Cellar Door" (2013) — AOTY Must Hear 2010s** : #633, 81 AOTY.
+**"Homegrown" (2020) — AOTY Must Hear 2020s** : #644, 83 AOTY.
+**"Harvest" (1972) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #72, 7.0/10 Scaruffi.
+**"After the Gold Rush" (1970) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #90, 92 AOTY.
+**"Rust Never Sleeps" (1979) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #296, 100 AOTY.
+**"Tonight’s the Night" (1975) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #302.
+**"On the Beach" (1974) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #311, 95 AOTY.
+**"Tonight’s the Night" (1975) — Scaruffi 1970s** : #57.
+**"Rust Never Sleeps" (1979) — Scaruffi 1970s** : #122, 100 AOTY.
+**"After the Gold Rush" (1970) — Scaruffi 1970s** : #426, 92 AOTY.
+**"Harvest" (1972) — Scaruffi 1970s** : #427, 7.0/10 Scaruffi.
+**"On the Beach" (1974) — Scaruffi 1970s** : #428, 95 AOTY.
+**"Zuma" (1975) — Scaruffi 1970s** : #429, 7.0/10 Scaruffi.
+**"Sleeps With Angels" (1994) — Scaruffi 1990s** : #971, 7.0/10 Scaruffi.
+**"Arc" (1991) — Scaruffi 1990s** : #972, 7.0/10 Scaruffi.
+**"Psychedelic Pill" (2012) — Scaruffi 2010s** : #271, 7.0/10 Scaruffi.
+**"On the Beach" (1974) — Pitchfork: The 100 Best Albums of the 1970s** : #65, 95 AOTY.
+**"After the Gold Rush" (1970) — Pitchfork: The 100 Best Albums of the 1970s** : #99, 92 AOTY.
+**"Ragged Glory" (1990) — Sputnikmusic Best Albums 1990** : #80.
+**"Harvest Moon" (1992) — Sputnikmusic Best Albums 1992** : #173, 77 AOTY.
+**"Chrome Dreams" (2023) — Sputnikmusic Best Albums 2023** : #2, 4.14 Sputnik.

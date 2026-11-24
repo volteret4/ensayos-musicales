@@ -14,4 +14,4 @@
 **"Every Day of the Week" — Billboard Year-End Hot 100** : #74, 1995. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"THAT'S SHOWBIZ BABY! THE ENCORE" (2025) — AOTY Must Hear 2020s** : #11, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
+**"THAT'S SHOWBIZ BABY! THE ENCORE" (2025) — AOTY Must Hear 2020s** : #11, 80 AOTY.

@@ -2,9 +2,18 @@
 
 ## members
 - Alan Vega
+- Martin Rev
 
 ## genres
+- Electropunk
 - No Wave
+- Synth rock
+
+## albums
+**Suicide (1977)** : This "cutting-edge synth rockers" album "powerfully moved Springsteen" when he heard it, particularly the track "Frankie Teardrop," which greatly influenced his own work on *Nebraska*. "Cutting-edge synth rockers suicide, the musical art project of vocalist Alan Vega and keyboardist Martin Rev, powerfully moved Springsteen when he heard their self-titled 1977 debut, especially Vega's blood-curdling screams on the Vietnam PTSD story, Frankie Teardrop." ← Hit Parade Music History and Music Trivia > Tramps Like Us, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## songs
+**Frankie Teardrop (1977)** : A "Vietnam PTSD story" from Suicide's 1977 self-titled debut, featuring Alan Vega's "blood-curdling screams," which had a powerful impact on Bruce Springsteen and inspired the harrowing shrieks in his own song "State Trooper." "especially Vega's blood-curdling screams on the Vietnam PTSD story, Frankie Teardrop." ← Hit Parade Music History and Music Trivia > Tramps Like Us, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **"Punk Masses" Gigs** : Inspired by Lester Bangs' December 1970 reference to Iggy Pop as a "stooge punk" in Cream Magazine, Alan Vega and his band Suicide began calling their gigs "punk masses," an early adoption of the term "punk" in a performance context. "He was in a band called Suicide, and they took that cream reference and started calling their gig punk masses." ← https://www.youtube.com/watch?v=VYi3r0G-ne4 ← suicide
@@ -19,10 +28,11 @@
 **New York Underground Focus** : Suicide, along with DNA, never aimed to leave the New York suburbs, existing exclusively in the city's deep garages and sometimes performing in contemporary art museums, highlighting their status as an artistic movement beyond just music. "No hubiese gesto New York, casi solo vivió New York y vivió en los garajes de New York, pero no en el civil y vía en los profundos garajes de New York." ← Music Radar Clan > Qué es el NO WAVE. Es mucho más que música | https://www.youtube.com/watch?v=DrK0WdodRGk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← suicide ← suicide
 **Shared Performances at CBGB (1976)** : By 1976, The Cramps were regulars at CBGB and it was common to see them sharing performance bills with Suicide. "serán normal verles de lo neando a Suiza y Torramones." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
 **Struggles for Livelihood** : Despite giving concerts, bands like Suicide, DNA, and de Jesus and the Jerks struggled financially due to their underground nature and lack of mainstream repercussions. "esta gente pues no tener una gran repercusión, pues evidentemente malamente podía vivir de ello y aunque gente como los suicide o los DNA o como de Jesus and the jerks, daban sus concertos y todo pues malamente podían vivir de ello." ← Music Radar Clan > Qué es el NO WAVE. Es mucho más que música | https://www.youtube.com/watch?v=DrK0WdodRGk&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← suicide ← suicide
+**Acclaimed but Low-Selling Duo Ranking (2015)** : Suicide, an electropunk duo, was included in Rolling Stone's 2015 ranking of the 20 greatest duos of all time, noted for being acclaimed but having low sales. "but also acclaimed but low-selling pairs like electropunk duo Suicide." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Suicide" (1977) — 1001 Albums You Must Hear Before You Die** : #384, 9.0/10 Scaruffi.
-**"Suicide" (1977) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #498, 9.0/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Suicide" (1977) — Scaruffi 1970s** : #12, 9.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Alan Vega Martin Rev" (1980) — Scaruffi 1980s** : #740, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Suicide" (1977) — Pitchfork: The 100 Best Albums of the 1970s** : #39, 9.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
+**"Suicide" (1977) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #498, 9.0/10 Scaruffi.
+**"Suicide" (1977) — Scaruffi 1970s** : #12, 9.0/10 Scaruffi.
+**"Alan Vega Martin Rev" (1980) — Scaruffi 1980s** : #740, 7.0/10 Scaruffi.
+**"Suicide" (1977) — Pitchfork: The 100 Best Albums of the 1970s** : #39, 9.0/10 Scaruffi.

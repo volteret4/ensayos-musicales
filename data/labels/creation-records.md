@@ -25,6 +25,7 @@
 **Signing of Oasis** : Creation Records, headed by Alan McGee, signed Oasis after McGee accidentally witnessed their four-song set at King Tut's Wawa Hut in Glasgow on May 31, 1993. "This was the night Alan McGee, the head of creation records, accidentally showed up early and inadvertently against his will, caught the Oasis set. But it was enough for him to sign the band." ← https://www.youtube.com/watch?v=IhG-WJH9om8 ← creation-records ← creation-records
 **Sony Bankrolling (1993)** : In 1993, Sony was reportedly "bankroll[ing] Creation" Records, and the label's executives wanted to observe Oasis perform before officially signing the band. This led to Oasis performing at a Sony convention that year. "Because I think at the time Sony were a bankroll in creation and I think they wanted to have a look at us." ← https://www.youtube.com/watch?v=dMsEj62KFEw ← creation-records
 **Subdirector's Nervous Breakdown During "Loveless" Production** : During the chaotic and financially draining production of "Loveless," Dick Green, the subdirector of Creation Records, suffered a nervous breakdown so severe that his hair turned white overnight, illustrating the immense stress and despair within the label's offices. "Mientras tanto, las oficinas de Creation, De Crisidil, su subdirector, sufrió una crisis nerviosa, tan intensa que se le pone el pelo blanco de la noche a la mañana." ← El disco imposible： La historia de Loveless y My Bloody Valentine | https://www.youtube.com/watch?v=q_SHNe_Ce9A
+**Oasis's Influential Label** : Oasis signed to the "influential creation label" before debuting their single "Supersonic," indicating the label's importance in launching a major Britpop act. "After signing to the influential creation label, Oasis debuted single Super Sonic, cracked the UK Top 40 immediately in April 1994." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - The Jesus and Mary Chain
@@ -34,4 +35,3 @@
 - Ride
 - Slowdive
 - The Legend
-

@@ -1,13 +1,30 @@
 # artist - Bubba Sparxxx
 
+## members
+- Warren Mathis
+
 ## genres
 - Country Rap
+- Hick Hop
 - Hip Hop
+- Rap
+
+## albums
+**Dark Days Bright Nights (2001)** : His debut album, released in 2001, which All Music described him as "the redneck version of Eminem." The album blended Hick Hop lyrics with "thumping beats" provided by a black production team, including Timothy "Timbaland" Mosley and Organized Noise. "In 2001, Warren Mathis, a white man from Lagrange, Georgia, released his debut album, Dark Days Bright Nights, under the name Bubba Sparks." ← Hit Parade Music History and Music Trivia > Ride ’til I Can’t No More Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Deliverance (2003)** : His follow-up album in 2003, on which Bubba Sparxxx made the country tropes more pronounced. Despite strong reviews, the album achieved lower sales, and none of its singles managed to break into the top 40 on either the pop or R&B Hip Hop charts. "so on his follow up album Deliverance in 2003, Bubba made the country tropes more overt." ← Hit Parade Music History and Music Trivia > Ride ’til I Can’t No More Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## songs
+**Coming Round (2003)** : The most acclaimed track from the album "Deliverance," in which Bubba Sparxxx sampled the banjo and fiddle-led "Two See Coming Round the Bend" by the Yonder Mountain String Band and transformed it into a "banger." "on the album's most acclaimed track, Bubba sampled the banjo and fiddle-led two-seew coming round the bend by the Yonder Mountain string band." ← Hit Parade Music History and Music Trivia > Ride ’til I Can’t No More Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Deliverance (2003)** : The title track from his 2003 album, where Bubba Sparxxx rapped over acoustic guitar licks, indicating a more direct integration of country sounds. "The album's title track found Bubba wrapping over acoustic guitar licks." ← Hit Parade Music History and Music Trivia > Ride ’til I Can’t No More Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Ms. New Booty (2006)** : A "dirty South Jam" that became a breakthrough three years after "Deliverance," bringing Bubba Sparxxx into the top 10. Featuring a guest refrain from Atlanta Crunk Kings, the Ying Yang Twins, this catchy single hit number 7 on both the pop and R&B charts, yet contained "scarcely any country in it" beyond minor lyrical references. "Three years later, what finally brought Bubba Sparks into the top 10 was a dirty South Jam called Misnue booty." ← Hit Parade Music History and Music Trivia > Ride ’til I Can’t No More Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Ugly (2001)** : Produced by Timbaland, this song's video famously depicted Bubba and his crew, both white and black, splashing in a muddy pig pen with actual pigs. It charted well at pop and hip hop radio, reaching number 15 on the Hot 100 and number 6 on the R&B Hip Hop chart, but did not chart on country radio. "The video for Bubba Sparks' Ugly, produced by Timbaland, featured Bubba and his crew, White and Black, splashing around in a muddy pig pen with actual pigs." ← Hit Parade Music History and Music Trivia > Ride ’til I Can’t No More Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Pioneer in Genre Mixing** : Bubba Sparxxx was among the artists who, decades prior to Lil Nas X's "Old Town Road," were mixing country music with R&B and Rap, contributing to a cross-genre tradition. "everyone from Ray Charles and the Rappen Duke to Bubba Sparks and Jason Aldine were mixing country music with R&B and Rapp." ← Hit Parade Music History and Music Trivia > Ride ’til I Can’t No More Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce88
 **Collaborations with Country Artists** : Bubba Sparxxx collaborated with other country rap artists, including Colt Ford, on songs that explored the commonalities between rap and country audiences. He is considered a "white country rap forebear." "He dropped bars alongside everyone from Country Mainstays, Jake Owen and Jason Aldin to his white country rap forebear, Bubba Sparks." ← Hit Parade Music History and Music Trivia > Ride ’til I Can’t No More Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce88
 **Country Folks (2013) - Rap and Country Audience Commonality** : In 2013, Bubba Sparxxx released a posse cut with Colt Ford titled "Country Folks." This track explicitly highlighted the shared ground and commonality they perceived between rap and country music audiences. "A 2013 posse cut by Bubba and Colt called Country Folks laid bare the commonality they saw in rap and country audiences." ← Hit Parade Music History and Music Trivia > Ride ’til I Can’t No More Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f078e6dd12efb02ce88
+**Timbaland's "Wilderness Period" (2004-2006)** : During Timbaland's two-year "wilderness period" where his tracks largely missed the top 10 or 40, he kept busy working on albums for artists like Bubba Sparxxx, Brandy, and LL Cool J. "Tim kept himself busy working on albums for artists ranging from Brandy to LL Cool J to Bubba Sparks." ← Hit Parade Music History and Music Trivia > Flip It and Reverse It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Connection to Colt Ford** : Bubba Sparxxx had an "arm's length connection" to Colt Ford through Ford's producer, Shannon Hootchens (Fat Sean), who had previously worked with Timbaland on Bubba's debut album. "Interestingly, Ford had an arm's length connection to the last major white rapper who'd attempted Hick Hop. Bubba Sparks." ← Hit Parade Music History and Music Trivia > Ride ’til I Can’t No More Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Ms. New Booty" — Billboard Year-End Hot 100** : #36, 2006. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

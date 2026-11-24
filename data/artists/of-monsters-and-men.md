@@ -10,4 +10,4 @@
 **"Little Talks" — Billboard Year-End Hot 100** : #65, 2013. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"All Is Love and Pain in the Mouse Parade" (2025) — Sputnikmusic Best Albums 2025** : #39, 3.93 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2025/
+**"All Is Love and Pain in the Mouse Parade" (2025) — Sputnikmusic Best Albums 2025** : #39, 3.93 Sputnik.

@@ -34,21 +34,21 @@
 **Libera Award for Record of the Year** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q96387381
 
 ## lists
-**"Souvlaki" (1993) — AOTY Must Hear 1990s** : #341, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Just For A Day" (1991) — AOTY Must Hear 1990s** : #394, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Slowdive" (1990) — AOTY Must Hear 1990s** : #409, 78 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Slowdive" (1990) — AOTY Must Hear 2010s** : #310, 78 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"everything is alive" (2023) — AOTY Must Hear 2020s** : #294, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Just For A Day" (1991) — Scaruffi 1990s** : #130, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Souvlaki" (1993) — Scaruffi 1990s** : #1171, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Souvlaki" (1993) — Pitchfork: The 150 Best Albums of the 1990s** : #58, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Souvlaki" (1993) — Pitchfork: The 50 Best Shoegaze Albums of All Time** : #2, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/cd0eaf20-0895-4745-aefe-2c5e00084827
-**"Just For A Day" (1991) — Pitchfork: The 50 Best Shoegaze Albums of All Time** : #7, 8.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/cd0eaf20-0895-4745-aefe-2c5e00084827
-**"Pygmalion" (1995) — Pitchfork: The 50 Best Shoegaze Albums of All Time** : #12. ← musicbrainz | https://beta.musicbrainz.org/series/cd0eaf20-0895-4745-aefe-2c5e00084827
-**"Slowdive" (1990) — Sputnikmusic Best Albums 1990** : #24, 78 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"Morningrise" (1991) — Sputnikmusic Best Albums 1991** : #68, 4.07 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"Just For A Day" (1991) — Sputnikmusic Best Albums 1991** : #152, 8.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"Souvlaki" (1993) — Sputnikmusic Best Albums 1993** : #5, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
-**"Outside Your Room" (1993) — Sputnikmusic Best Albums 1993** : #62, 4.11 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
-**"5" (1993) — Sputnikmusic Best Albums 1993** : #176, 3.89 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
-**"Slowdive" (1990) — Sputnikmusic Best Albums 2017** : #121, 78 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2017/
+**"Souvlaki" (1993) — AOTY Must Hear 1990s** : #341, 7.0/10 Scaruffi.
+**"Just For A Day" (1991) — AOTY Must Hear 1990s** : #394, 8.0/10 Scaruffi.
+**"Slowdive" (1990) — AOTY Must Hear 1990s** : #409, 78 AOTY.
+**"Slowdive" (1990) — AOTY Must Hear 2010s** : #310, 78 AOTY.
+**"everything is alive" (2023) — AOTY Must Hear 2020s** : #294, 82 AOTY.
+**"Just For A Day" (1991) — Scaruffi 1990s** : #130, 8.0/10 Scaruffi.
+**"Souvlaki" (1993) — Scaruffi 1990s** : #1171, 7.0/10 Scaruffi.
+**"Souvlaki" (1993) — Pitchfork: The 150 Best Albums of the 1990s** : #58, 7.0/10 Scaruffi.
+**"Souvlaki" (1993) — Pitchfork: The 50 Best Shoegaze Albums of All Time** : #2, 7.0/10 Scaruffi.
+**"Just For A Day" (1991) — Pitchfork: The 50 Best Shoegaze Albums of All Time** : #7, 8.0/10 Scaruffi.
+**"Pygmalion" (1995) — Pitchfork: The 50 Best Shoegaze Albums of All Time** : #12.
+**"Slowdive" (1990) — Sputnikmusic Best Albums 1990** : #24, 78 AOTY.
+**"Morningrise" (1991) — Sputnikmusic Best Albums 1991** : #68, 4.07 Sputnik.
+**"Just For A Day" (1991) — Sputnikmusic Best Albums 1991** : #152, 8.0/10 Scaruffi.
+**"Souvlaki" (1993) — Sputnikmusic Best Albums 1993** : #5, 7.0/10 Scaruffi.
+**"Outside Your Room" (1993) — Sputnikmusic Best Albums 1993** : #62, 4.11 Sputnik.
+**"5" (1993) — Sputnikmusic Best Albums 1993** : #176, 3.89 Sputnik.
+**"Slowdive" (1990) — Sputnikmusic Best Albums 2017** : #121, 78 AOTY.

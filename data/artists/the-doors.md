@@ -2,6 +2,7 @@
 
 ## members
 - Jim Morrison
+- Ray Manzarek
 - Robby Krieger
 
 ## genres
@@ -9,6 +10,10 @@
 - Blues Rock
 - Gothic rock
 - Psychedelic Rock
+- Rock
+
+## labels
+- Elektra Records
 
 ## concerts
 - University of Michigan - October 20, 1967
@@ -16,12 +21,17 @@
 ## albums
 **The Doors (1967)** : This album was the first modern music to be described as "gothic," noted for its dark, mysterious, and even violent qualities, influencing the nascent goth sound. "As far as we can tell, the first use of the word gothic to describe modern music was used in relation to the doors, first album." ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← the-doors
 **The Doors (1967)** : The Doors made history in 1967 by being the first band ever to advertise the release of a new album on a billboard. This promotional billboard was erected in Los Angeles to announce their self-titled debut record. "The doors were the first band to ever advertise the release of a new album on a billboard. It was erected in Los Angeles in 1967 for their self title debut record." ← https://www.youtube.com/watch?v=GO0K_N7Ys7I ← the-doors
+**L.A. Woman (1971)** : This was The Doors' final album with Jim Morrison, reaching number nine in the summer of 1971. After Morrison was found dead in Paris in July, the album rose back into the top 20. "His band The Doors took LA Woman, their final album with Morrison, to number nine in the summer of 71." ← Hit Parade Music History and Music Trivia > Spirit of ’71, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Live at The Matrix Part 2** : This is a live album, presented as "Part 2," indicating a previous "Part 1" existed. "también un directo de Leaf and the Matrix part 2 porque ya tenemos un part 1." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-doors ← the-doors
 **Spanish Caravan (1968)** : Recorded in Los Angeles the year after *Forever Changes*, this track showcases guitarist Robby Krieger applying his flamenco training. The song commences with the style of a "granaina" before transitioning to the rhythm of Isaac Albéniz's "Asturias." "También en los ángeles al año siguiente la banda de dos graban Espaniscaraban, donde el guitarrista Robby Kriger pone en práctica su formación en flamenco." ← Cómo el Flamenco Influyó a Músicos Extranjeros (Y Quizá No Lo Notaste) | https://www.youtube.com/watch?v=9ReRvRfbHec
 **Strange Days (1967)** : A new 50th-anniversary edition of this "greatest album" by The Doors is being released. "el grandísimo disco del Dores, pedazo de edición, tenemos un montón pues una nueva, la vez 50 aniversario." ← Music Radar Clan > Lanzamientos Noviembre 2017 | https://www.youtube.com/watch?v=kA9T4DfQ0j8&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 
 ## songs
 **Light My Fire (1967)** : This song was the official 1967 Billboard Song of the Summer. It reached number one during the "Summer of Love," effectively evoking "sweltering romance" and featuring "fire" directly in its title. The track is regarded as the band's signature hit. "The official 1967 song of the summer, the doors light my fire." ← Hit Parade Music History and Music Trivia > Song(s) of the Summer Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef50c30a1408dc292e4
+**Light My Fire (1967)** : The Doors took this song to number one on the charts in 1967. José Feliciano's cover of the song brought it back to the Hot 100 a year later. "One year after the doors took the song to number one, Feliciano brought light my fire back to the hot 100 where his version peaked at a remarkable number three." ← Hit Parade Music History and Music Trivia > Chestnut Roasters, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Light My Fire (1967)** : This song became a number one hit in July 1967. The original recording on The Doors' debut album was nearly seven minutes long, considered too long for a 45 single or pop radio play. Elektra Records edited it down to a trim 2 minutes 52 seconds by cutting out Ray Manzarek's "long keyboard freak out." Ironically, many radio stations were playing the full-length album cut by the time the song topped the Hot 100. "The quirk of light my fire is in the original recording on the doors debut album. It was nearly seven minutes long, too long to fit on one side of a 45 or it was thought to be played on pop radio." ← Hit Parade Music History and Music Trivia > Hit Parade - The B-Sides Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Light My Fire (1967)** : This 1967 number one hit is explicitly identified as a song that did *not* start out as the B-side to another song. "C, the Doors like my Fire. He got it everybody. The correct answer is C, like my Fire." ← Hit Parade Music History and Music Trivia > I Got Five on It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Light My Fire (1967)** : This song was a number one hit that held Stevie Wonder's "I Was Made to Love Her" from reaching the top spot on the Hot 100 during the peak of the Summer of Love. "Only held back from the top spot by the doors number one hit, Light My Fire." ← Hit Parade Music History and Music Trivia > The Everybody Say YEAH! Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Annual Platinum Sales in Past Era** : In earlier decades, every single album by The Doors consistently achieved platinum status every year, indicating sustained popularity and sales over time. "For example, every single album by the doors used to go platinum every year." ← https://www.youtube.com/watch?v=Z7glrAoXtkA ← the-doors
@@ -42,6 +52,8 @@
 **Signed by Danny Fields** : Danny Fields, a talent scout for Elektra Records, was the person responsible for signing The Doors to the label. "He, for example, was the guy who signed the doors." ← https://www.youtube.com/watch?v=w-rihv544I8 ← the-doors
 **The Doors – 1960s Precursor to Gothic Rock's Dark Aesthetic** : The Doors are cited as a 1960s predecessor through which the dark Gothic aesthetic, rooted in literature and cinema, was filtered into rock music, paving the way for the gothic rock movement of the late 1970s. "The Doors in the 1960s filtered the Gothic dark aesthetic into rock, paving the way for gothic rock." ← https://www.youtube.com/watch?v=f2KA97T4u08 ← the-doors
 **Visual Deception in 1970** : By 1970, The Doors' public image was complicated by Jim Morrison's severe physical and mental deterioration. To avoid revealing his unkempt appearance (characterized by a beard, disheveled look, and the guise of a "ragged hippie"), photographs used for singles, album covers, and interviews during this period were often older archival images from 1968 and 1969. "Muchas fotografías de singles y muchas fotografías deportadas y de entrevistas que se usan donde los Ors, que se usan a fotografías de archivo anteriores del 68 y del 69, para no dejar ver la situación actual en la que estaba Jim Morrison." ← Music Radar Clan > Repasando la vida de Jim Morrison | https://www.youtube.com/watch?v=ta-5dBjK0Us&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← the-doors ← the-doors
+**Historical Comparison for Song of the Summer Ranking** : The Doors are mentioned in a hypothetical scenario for ranking the best Songs of the Summer by decade, positioned as a comparison against The Supremes. "What happens when the doors go head to head with the Supremes?" ← Hit Parade Music History and Music Trivia > Song(s) of the Summer Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Los Angeles, California Origin** : The Doors are noted to be from Los Angeles, California, differentiating their origins from other California-based bands like The Beach Boys (Hawthorne) and Van Halen (Pasadena). "The Beach Boys Van Halen and the Doors are also from the Golden State, but hailing from Hawthorne, Pasadena and Los Angeles, California respectively." ← Hit Parade Music History and Music Trivia > The Bridge - R. Kelly and Music's #MeToo Reckoning | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **star on Hollywood Walk of Fame** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q17985761
@@ -59,14 +71,14 @@
 **"The Doors" (1967) — 1001 Albums You Must Hear Before You Die** : #93, 100 AOTY.
 **"Morrison Hotel" (1970) — 1001 Albums You Must Hear Before You Die** : #179, 85 AOTY.
 **"L.A. Woman" (1971) — 1001 Albums You Must Hear Before You Die** : #218, 88 AOTY.
-**"Strange Days" (1967) — AOTY Must Hear 1960s** : #52, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"The Doors" (1967) — AOTY Must Hear 1960s** : #60, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"L.A. Woman" (1971) — AOTY Must Hear 1970s** : #214, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Morrison Hotel" (1970) — AOTY Must Hear 1970s** : #254, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"The Doors" (1967) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #86, 100 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"The Doors" (1967) — Scaruffi 1960s** : #4, 9.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Strange Days" (1967) — Scaruffi 1960s** : #19, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Waiting For The Sun" (1968) — Scaruffi 1960s** : #113, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Absolutely Live" (1970) — Scaruffi 1970s** : #254, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"L.A. Woman" (1971) — Scaruffi 1970s** : #255, 88 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Doors" (1967) — Pitchfork: The 200 Best Albums of the 1960s** : #95, 100 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Strange Days" (1967) — AOTY Must Hear 1960s** : #52, 8.0/10 Scaruffi.
+**"The Doors" (1967) — AOTY Must Hear 1960s** : #60, 100 AOTY.
+**"L.A. Woman" (1971) — AOTY Must Hear 1970s** : #214, 88 AOTY.
+**"Morrison Hotel" (1970) — AOTY Must Hear 1970s** : #254, 85 AOTY.
+**"The Doors" (1967) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #86, 100 AOTY.
+**"The Doors" (1967) — Scaruffi 1960s** : #4, 9.0/10 Scaruffi.
+**"Strange Days" (1967) — Scaruffi 1960s** : #19, 8.0/10 Scaruffi.
+**"Waiting For The Sun" (1968) — Scaruffi 1960s** : #113, 7.0/10 Scaruffi.
+**"Absolutely Live" (1970) — Scaruffi 1970s** : #254, 7.0/10 Scaruffi.
+**"L.A. Woman" (1971) — Scaruffi 1970s** : #255, 88 AOTY.
+**"The Doors" (1967) — Pitchfork: The 200 Best Albums of the 1960s** : #95, 100 AOTY.

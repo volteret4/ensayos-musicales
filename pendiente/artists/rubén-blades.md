@@ -1,11 +1,15 @@
 # artist - Rubén Blades
 
+## member of
+- Artists United Against Apartheid
+
 ## albums
 **Metiendo Mano (1977)** : This album marked Rubén Blades' first collaboration with Willie Colón, serving as his debut for the Fania label and signaling a new direction for salsa music. Blades worked for several years in Fania's offices before getting this opportunity to record. "En 1977 viola la lucha el de buen de Rubén Blades, metiendo mano." ← LA FANIA. El imperio que creó la salsa | https://www.youtube.com/watch?v=UXx3AvorG-k
 **Siembra (1978)** : Blades' subsequent collaboration with Willie Colón, *Siembra*, released in 1978, proved to be a groundbreaking work that redefined salsa. It became Fania Records' best-selling album and was instrumental in bringing salsa to global audiences who had not yet encountered it. "Pero fue su siguiente trabajo, siempre, lanzado en 1978, el que llevó a la salsa hacia un nuevo rumbo... El álbum no solo se convirtió en el disco más vendido del selo, sino que fue el impulsor definitivo que necesitaba la salsa para llegar en conis del mundo donde aún no había sonado." ← LA FANIA. El imperio que creó la salsa | https://www.youtube.com/watch?v=UXx3AvorG-k
 
 ## songs
 **El Cantante (1978)** : Blades composed "El Cantante" at the request of Jerry Masucci, specifically for Héctor Lavoe, who was struggling with addiction. Inspired by Lavoe's life, the song not only revitalized Lavoe's career but also became his enduring anthem and earned him the nickname "El Cantante." "Masuchi, encargó a su nueva estrella Rubén Blades que compusiera una canción especial para Puerto Riqueño. Asinación el cantante, inspirada en la vida del laboe, que no solo relazó su carrera, sino que acabó convirtiéndose su hindo." ← LA FANIA. El imperio que creó la salsa | https://www.youtube.com/watch?v=UXx3AvorG-k
+**Sun City (1985)** : Rubén Blades was among the diverse array of music stars, including jazz greats, who contributed to "Sun City" by Artists United Against Apartheid. His involvement showcased the wide range of genres represented in the project. "from Rundi MC to Rubin Bladis" ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Arrival in New York and Fania Office Job** : In the mid-1970s, Rubén Blades, a young Panamanian, arrived in New York City seeking any job. Through his persistence, he eventually secured a position in the offices of Fania Records. "A mediados de los años 70, cuando un joven panameño llegó a Nueva York, pidiendo trabajo más uxid de lo que fuera. Al final, por insistencia, le acabaron dando un puesto en las oficinas del selo." ← LA FANIA. El imperio que creó la salsa | https://www.youtube.com/watch?v=UXx3AvorG-k

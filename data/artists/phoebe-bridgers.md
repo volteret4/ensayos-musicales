@@ -25,7 +25,7 @@
 **Grammy Award for Best Pop Duo/Group Performance (2024) — Ghost in the Machine** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1027880
 
 ## lists
-**"Stranger in the Alps" (2017) — AOTY Must Hear 2010s** : #265, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Punisher" (2020) — AOTY Must Hear 2020s** : #646, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Stranger in the Alps" (2017) — Sputnikmusic Best Albums 2017** : #60, 80 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2017/
-**"Punisher" (2020) — Sputnikmusic Best Albums 2020** : #139, 88 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2020/
+**"Stranger in the Alps" (2017) — AOTY Must Hear 2010s** : #265, 80 AOTY.
+**"Punisher" (2020) — AOTY Must Hear 2020s** : #646, 88 AOTY.
+**"Stranger in the Alps" (2017) — Sputnikmusic Best Albums 2017** : #60, 80 AOTY.
+**"Punisher" (2020) — Sputnikmusic Best Albums 2020** : #139, 88 AOTY.

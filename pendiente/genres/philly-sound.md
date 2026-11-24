@@ -7,4 +7,4 @@
 ## artists
 - First Choice
 - The Spinners
-
+- Daryl Hall & John Oates

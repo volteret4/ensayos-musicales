@@ -16,4 +16,4 @@
 **Singer's Solo Career** : After his time with Wall of Voodoo, singer Stan Ridgway embarked on a solo career, achieving a few minor alt-rock hits. These included "Drive, She Said," "Go On Southbound," "The Big Heat," "I Want to Be a Boss," and "Camouflage." "Singer-Stand Ridgeway would later go solo and have a couple of minor alt-rock hits of his own, including drive, she said, go on Southbound, the big heats, I want to be a boss and camouflage." ← https://www.youtube.com/watch?v=_qxdftwrX3E ← wall-of-voodoo
 
 ## lists
-**"Call Of The West" (1982) — Scaruffi 1980s** : #797, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Call Of The West" (1982) — Scaruffi 1980s** : #797, 7.0/10 Scaruffi.

@@ -10,6 +10,7 @@
 ## curiosities
 **Childhood Obsession** : Nora Jones was "obsessed with Saravan" (Sarah Vaughan) during her formative years. While she admired Vaughan, she later understood the importance of developing her own unique vocal style rather than imitating others. "I loved Saravan. I was obsessed with Saravan." ← Hit Parade Music History and Music Trivia > Introducing Broken Record - Norah Jones Begins Again | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cbc
 **Jazz Favorite on Sound Systems** : Sarah Vaughan was a particularly favored jazz artist whose recordings were played on early Jamaican sound systems, alongside Duke Ellington. "They would also play jazz, physical aspects, Duke Arlington and Sarah Vaughan were particular favourites." ← Episode 114： ＂My Boy Lollipop＂ by Millie | https://www.youtube.com/watch?v=kf-DtqoOsRI
+**Jazz Great on "Back on the Block"** : Sarah Vaughan, a celebrated "jazz great," was featured on Quincy Jones's 1989 album "Back on the Block," where her artistry was combined with performances by rappers such as Kool Moe Dee and Big Daddy Kane. "Sarah Vaughn with rappers Cool Modee and Big Daddy Kane." ← Hit Parade Music History and Music Trivia > I Wanna Rock with Q. Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Broken Hearted Melody" — Billboard Year-End Hot 100** : #51, 1959. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

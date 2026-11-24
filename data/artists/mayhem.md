@@ -27,5 +27,5 @@
 **Rockheim Hall of Fame (2021)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q16159205
 
 ## lists
-**"De Mysteriis Dom Sathanas" (1994) — Sputnikmusic Best Albums 1994** : #63, 4.12 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
-**"Liturgy of Death" (2026) — Sputnikmusic Best Albums 2026** : #66, 3.23 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2026/
+**"De Mysteriis Dom Sathanas" (1994) — Sputnikmusic Best Albums 1994** : #63, 4.12 Sputnik.
+**"Liturgy of Death" (2026) — Sputnikmusic Best Albums 2026** : #66, 3.23 Sputnik.

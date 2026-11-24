@@ -1,5 +1,9 @@
 # artist - Matthew Sweet
 
+## member of
+- Ming Tea
+- Oh-OK
+
 ## genres
 - Alt Rock
 - Powerpop
@@ -22,5 +26,5 @@
 **Career Trajectory and Influences** : Originally from Nebraska, Matthew Sweet relocated to Athens, Georgia, where he was involved in a band with Michael Stipe's sister. His career took some time to gain momentum, but it found its footing with his third album, "Girlfriend," in 1991. He exemplified the "Beatlesque" approach of 90s alt-rock, paying close attention to pre-Sgt. Pepper influences. "Matthew Sweet, a dude originally from Nebraska who ended up in Athens, Georgia in a band with Michael Steibes' sister." ← https://www.youtube.com/watch?v=hstJ8M2laho ← matthew-sweet
 
 ## lists
-**"Earth" (1989) — Scaruffi 1980s** : #553, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Girlfriend" (1991) — Scaruffi 1990s** : #912, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Earth" (1989) — Scaruffi 1980s** : #553, 7.0/10 Scaruffi.
+**"Girlfriend" (1991) — Scaruffi 1990s** : #912, 7.0/10 Scaruffi.

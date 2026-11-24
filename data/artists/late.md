@@ -10,4 +10,4 @@
 **Color Pictures of a Merrigold (1990)** : This song, originally from Late's "Pocket Watch" cassette, was recorded in late 1990 before Dave Grohl joined Nirvana. It later became "Merrigold" and was the only Dave Grohl song to be included in the Nirvana catalog, with Grohl performing most of the instruments and vocals. "And it was recorded just before Christmas of 1990, about 10 months before Dave joined Nirvana." ← Ongoing History of New Music > Mysterious Lost Albums | https://www.youtube.com/watch?v=gdWLtMy4TBU&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 
 ## lists
-**"Pocketwatch" (1992) — Sputnikmusic Best Albums 1992** : #158, 3.92 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"Pocketwatch" (1992) — Sputnikmusic Best Albums 1992** : #158, 3.92 Sputnik.

@@ -5,12 +5,14 @@
 - Pete Shelley
 
 ## genres
+- Catchy Punk
 - New Wave
 - Pop
 - Powerpop
 - Punk
 - Punk Rock
 - Soul Music
+- UK Punk
 
 ## labels
 - (Self-produced)
@@ -22,6 +24,7 @@
 
 ## albums
 **Singles Going Steady (1979)** : Released in 1979, this album was a compilation of some previously released singles. It is considered a masterclass in how a band could effectively combine punk aggression with pop sensibilities. "This was a compilation of some previously released singles and it's a masterclass on how you can be punk and pop at the same time." ← https://www.youtube.com/watch?v=tZV1lz-obQE ← the-buzzcocks
+**Singles Going Steady (1979)** : The Buzzcocks, described as UK punkers, titled their classic compilation album *Singles Going Steady*, which is cited as evidence that punk has always had catchy pop hooks. "Not for nothing did UK punkers the buzz cocks. Title their classic compilation album singles going steady." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Spiral Scratch (1977)** : This album is noted as a pioneering self-produced, independently released record by a Manchester punk band. "probably the first to release a self-produced album independently, and that would be the spiral scratch album." ← https://www.youtube.com/watch?v=LgJ7ww2AgF4 ← buzzcocks
 **Spiral Scratch (1977)** : This EP was the first punk record to be self-released, entirely by the Buzzcocks themselves, without any outside help. Released on January 29, 1977, it cost them 500 pounds to record and release it on their self-established label, New Hormones. It was a revelation to young musicians, proving that anyone could release a record on their own. "On January 29, 1977, they released an EP called Spiral Scratch. This was the first punk record to be self-released that did everything by themselves with no outside help." ← https://www.youtube.com/watch?v=VOv5mT1dJd8 ← buzzcocks
 **Spiral Scratch (1977)** : Released on January 29, 1977, this four-track EP was the first "fully independent British punk rock record." Howard Devoto borrowed money from his father to finance it, and the band financed and distributed it themselves on a label they formed. This radical "do it yourself" approach proved to everyone that independent recording was possible. "So for Trackey P called Spiral Scratch and it came out on January 29th, 1977." ← https://www.youtube.com/watch?v=wYuNolSDLFM ← buzzcocks ← buzzcocks
@@ -46,9 +49,11 @@
 **Manchester Punk Pioneer** : The Buzzcocks originated from Manchester and were recognized as one of the city's original punk bands, pioneering the expert blend of punk energy with pop melodies. "one of Manchester's original punk bands." ← https://www.youtube.com/watch?v=tZV1lz-obQE ← the-buzzcocks
 **New Wave Powerpop with Punk Influence** : The Buzzcocks are cited as a band that incorporated elements of punk into the new wave brand of Powerpop. Their sound, along with contemporaries like Elvis Costello and Joe Jackson, helped define the integration of Powerpop into the alternative rock world. "We had the cars, the shoes, the records, the buzz cocks, Elvis Costello and Joe Jackson." ← https://www.youtube.com/watch?v=hstJ8M2laho ← the-buzzcocks ← the-buzzcocks
 **Origins from Sex Pistols Promotion** : The Buzzcocks initially formed when a couple of individuals in Manchester began promoting Sex Pistols shows, leading to their own band's inception. "The buzz cocks began as a couple of guys promoting sex pistols shows in Manchester." ← https://www.youtube.com/watch?v=gKrAXMG8sTc ← the-buzzcocks
+**Short Sharp Pop Influence** : The Buzzcocks' "short sharp pop" from the punk movement provided cues for Britpop, indicating a lineage of concise, catchy songwriting. "From the punk movement, Britpop took cues from the short sharp pop of the Buzzcox." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Punk Cover Repertoire** : The Hype (early U2) included covers of Buzzcocks' songs in their repertoire after punk rock emerged in 1977, embracing the idea that technical skill was not a primary requirement. "adding punk covers to their repertoire, from bands like The Stranglers, Buzzcocks, and The Ramones." ← Hit Parade Music History and Music Trivia > With or Without U2 Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Another Music in a Different Kitchen" (1978) — 1001 Albums You Must Hear Before You Die** : #412.
-**"Singles Going Steady" (1979) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #250. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Ever Fallen in Love (With Someone You Shouldn’t’ve?)" — John Peel's Record Box** : #100. ← musicbrainz | https://beta.musicbrainz.org/series/ce5a352d-c904-466c-b561-993fe3a5f0dd
-**"Singles Going Steady" (1979) — Pitchfork: The 100 Best Albums of the 1970s** : #16. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
+**"Singles Going Steady" (1979) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #250.
+**"Ever Fallen in Love (With Someone You Shouldn’t’ve?)" — John Peel's Record Box** : #100.
+**"Singles Going Steady" (1979) — Pitchfork: The 100 Best Albums of the 1970s** : #16.

@@ -5,4 +5,6 @@
 
 ## artists
 - Sly and the Family Stone
-
+- Curtis Mayfield
+- George Clinton
+- Funkadelic

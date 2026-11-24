@@ -15,5 +15,5 @@
 
 ## lists
 **"Movies" (1979) — 1001 Albums You Must Hear Before You Die** : #430.
-**"Canaxis 5" (1969) — Scaruffi 1960s** : #26, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Plight And Premonition" (1988) — Scaruffi 1980s** : #468, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Canaxis 5" (1969) — Scaruffi 1960s** : #26, 8.0/10 Scaruffi.
+**"Plight And Premonition" (1988) — Scaruffi 1980s** : #468, 7.0/10 Scaruffi.

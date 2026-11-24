@@ -24,4 +24,4 @@
 **Shift to Acting and Limited New Music** : Over the past two decades, Mary Margaret O'Hara has increasingly focused on acting roles in theater, film, and musicals. She has also continued to contribute to songs by other artists, such as Bob Wiseman of Blue Rodeo, with only one new song released under her own name in 2014. "In fact, Mary Margaret O'Hara has focused on acting over the last couple of decades, theater, film, musicals and so on, as well as contributing to songs of other artists such as Bob Weissman of Blue Rodeo. There was one new song in 2014, but that's been it." ← https://www.youtube.com/watch?v=rrkmfJQBpHQ ← mary-margaret-ohara
 
 ## lists
-**"Miss America" (1988) — Scaruffi 1980s** : #72, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Miss America" (1988) — Scaruffi 1980s** : #72, 8.0/10 Scaruffi.

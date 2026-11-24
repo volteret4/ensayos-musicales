@@ -22,8 +22,8 @@
 
 ## lists
 **"Entertainment!" (1979) — 1001 Albums You Must Hear Before You Die** : #443, 93 AOTY.
-**"Entertainment!" (1979) — AOTY Must Hear 1970s** : #5, 93 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Entertainment!" (1979) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #273, 93 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Entertainment!" (1979) — Scaruffi 1970s** : #98, 93 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Songs of the Free" (1982) — Scaruffi 1980s** : #435, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Entertainment!" (1979) — Pitchfork: The 100 Best Albums of the 1970s** : #8, 93 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
+**"Entertainment!" (1979) — AOTY Must Hear 1970s** : #5, 93 AOTY.
+**"Entertainment!" (1979) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #273, 93 AOTY.
+**"Entertainment!" (1979) — Scaruffi 1970s** : #98, 93 AOTY.
+**"Songs of the Free" (1982) — Scaruffi 1980s** : #435, 7.0/10 Scaruffi.
+**"Entertainment!" (1979) — Pitchfork: The 100 Best Albums of the 1970s** : #8, 93 AOTY.

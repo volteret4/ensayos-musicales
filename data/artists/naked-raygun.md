@@ -14,6 +14,6 @@
 **Swingo** : An early version of this track was performed by Naked Ray Gun at the Cubby Bear in Chicago, during what was Dave Grohl's first-ever live concert experience. The song is cited as emblematic of the music that drew Dave Grohl into punk. "This is Naked Ray Gun with a track called Swingo." ← https://www.youtube.com/watch?v=8ynrwaUi-sA ← naked-ray-gun
 
 ## lists
-**"Jettison" (1988) — Scaruffi 1980s** : #176, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Throb Throb" (1985) — Scaruffi 1980s** : #586, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Understand" (1989) — Scaruffi 1980s** : #587, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Jettison" (1988) — Scaruffi 1980s** : #176, 7.5/10 Scaruffi.
+**"Throb Throb" (1985) — Scaruffi 1980s** : #586, 7.0/10 Scaruffi.
+**"Understand" (1989) — Scaruffi 1980s** : #587, 7.0/10 Scaruffi.

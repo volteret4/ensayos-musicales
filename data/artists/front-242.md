@@ -29,7 +29,7 @@
 **Pioneering Electronic Body Music (EBM) (1981)** : As early as 1981, Belgium's Front 242 was creating what they termed "electronic body music" (EBM), defining a new subgenre with their distinct sound and approach. "They had been creating what they called electronic body music as early as 1981." ← https://www.youtube.com/watch?v=zSFhhEaiYwE ← front-242 ← front-242
 
 ## lists
-**"Geography" (1982) — Scaruffi 1980s** : #429, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Front by Front" (1988) — Scaruffi 1980s** : #430, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Tyranny (For You)" (1991) — Sputnikmusic Best Albums 1991** : #60, 4.09 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"06:21:03:11 Up Evil" (1993) — Sputnikmusic Best Albums 1993** : #118, 3.99 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
+**"Geography" (1982) — Scaruffi 1980s** : #429, 7.0/10 Scaruffi.
+**"Front by Front" (1988) — Scaruffi 1980s** : #430, 7.0/10 Scaruffi.
+**"Tyranny (For You)" (1991) — Sputnikmusic Best Albums 1991** : #60, 4.09 Sputnik.
+**"06:21:03:11 Up Evil" (1993) — Sputnikmusic Best Albums 1993** : #118, 3.99 Sputnik.

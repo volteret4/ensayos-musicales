@@ -16,6 +16,9 @@
 **The Animals' New Label** : After their departure from Mickey Most due to artistic differences, The Animals signed with Decca Records and began working with producer Tom Wilson. "They signed to a new label, Decker, and got a new producer, Tom Wilson" ← Episode 115： ＂House of the Rising Sun＂ by the Animals | https://www.youtube.com/watch?v=34aIGCnb4X4
 **The King Bees Promotion** : Decca Records promoted "Liza Jane," the only single released by Davy Jones with The King Bees. Despite the backing of a major label, the single sold poorly, leading Jones to leave the band after only a few weeks. "Though promoted by major label Deca Records, Liza Jane sold poorly, and Jones left after a few weeks to join a new combo, the Manish Boys." ← Hit Parade Music History and Music Trivia > Starman to Blackstar Edition Part 1 | https://shows.acast.com/hit-parade/episodes/696aa42a4796fcbb571adba7
 **Understanding Changing Music Business** : Of all the major labels, Decca was notable for genuinely understanding the evolving music business, leading them to acquire specialty jazz label founders like Milt Gabler and Bob Thiele. "Decker, which of all the major labels was the only one that really understood the way that the music business was changing." ← Episode Sixty-One： ＂That'll Be the Day＂, by the Crickets | https://www.youtube.com/watch?v=KVJMKLc54O0
+**Brenda Lee's Signing** : Brenda Lee was signed to Decca Records at age 11. "By age 11, Brenda was signed to Deco Records" ← Hit Parade Music History and Music Trivia > Chestnut Roasters, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Strategic Re-release of Rockin' Around the Christmas Tree** : Decca Records strategically re-released Brenda Lee's "Rockin' Around the Christmas Tree" in late 1960, after it had previously flopped in 1958 and 1959. They capitalized on Lee's newfound fame to ensure its success, which led to it cracking the Top 40. "Striking while the iron was hot, Deca Records chose late 1960 to re-release a single, Brenda Lee had recorded back when she was 13, and that had flopped during the holiday seasons of both 1958 and 1959." ← Hit Parade Music History and Music Trivia > Chestnut Roasters, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Former UK Label for The Rolling Stones** : Decca Records was the UK label that previously issued The Rolling Stones' studio albums. The band's decision to move to their own label marked a significant contractual change at the dawn of the 1970s. "The next Stones studio album would be the first not to be issued by the UK's Deca Records" ← Hit Parade Music History and Music Trivia > Spirit of ’71, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Billy Ward and His Dominoes
@@ -33,4 +36,6 @@
 - The Shirelles
 - Tommy Steele
 - Wanda Jackson
-
+- The Who
+- The Rolling Stones
+- Brenda Lee

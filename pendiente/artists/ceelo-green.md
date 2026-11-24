@@ -1,5 +1,8 @@
 # artist - CeeLo Green
 
+## member of
+- Gnarls Barkley
+
 ## genres
 - Modern Motown
 
@@ -15,4 +18,4 @@
 
 ## lists
 **"Cee‐Lo Green… Is the Soul Machine" (2004) — 1001 Albums You Must Hear Before You Die** : #991.
-**"The Lady Killer" (2010) — AOTY Must Hear 2010s** : #892, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
+**"The Lady Killer" (2010) — AOTY Must Hear 2010s** : #892, 81 AOTY.

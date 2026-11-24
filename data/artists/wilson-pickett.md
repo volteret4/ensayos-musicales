@@ -23,4 +23,4 @@
 **"Don't Knock My Love" — Billboard Year-End Hot 100** : #93, 1971. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"The Exciting Wilson Pickett" (1966) — Pitchfork: The 200 Best Albums of the 1960s** : #180. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"The Exciting Wilson Pickett" (1966) — Pitchfork: The 200 Best Albums of the 1960s** : #180.

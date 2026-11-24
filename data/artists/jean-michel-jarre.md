@@ -27,7 +27,7 @@
 **Commander of the Legion of Honour (2019)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q10855212
 
 ## lists
-**"Equinoxe" (1978) — Scaruffi 1970s** : #105, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Oxygene" (1976) — Scaruffi 1970s** : #345, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Les Chants Magnetiques" (1981) — Scaruffi 1980s** : #486, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Oxygène 7–13" (1997) — Sputnikmusic Best Albums 1997** : #178, 3.94 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
+**"Equinoxe" (1978) — Scaruffi 1970s** : #105, 7.5/10 Scaruffi.
+**"Oxygene" (1976) — Scaruffi 1970s** : #345, 7.0/10 Scaruffi.
+**"Les Chants Magnetiques" (1981) — Scaruffi 1980s** : #486, 7.0/10 Scaruffi.
+**"Oxygène 7–13" (1997) — Sputnikmusic Best Albums 1997** : #178, 3.94 Sputnik.

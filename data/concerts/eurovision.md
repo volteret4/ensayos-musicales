@@ -6,3 +6,5 @@
 **International Singing Competition** : Eurovision is an international singing competition that dates back to the 1950s, described as an early version of shows like "American Idol" or "The Voice." Mocedades, a Spanish group, were contestants in 1973. "It dates back to the 1950s. It's kind of like an early version of American idol or the voice or something like that." ← For the Record - The 70s > Ep. 25 - The Hispanic Influence on 70s Popular Music | https://seventies.libsyn.com/ep-25-the-hispanic-influence-on-70s-popular-music
 **Måneskin's Rock Victory (2021)** : In 2021, Italy's Måneskin delivered a surprising victory at Eurovision, bringing the title home for rock after years of it being won by pop bands or unconventional acts. This win propelled the band to global fame, marking a significant moment for rock's international visibility and proving the contest could launch global careers beyond pop. "Manaskin brought the title home for rock. Not only that, they parlayed their Eurovision win into a global career." ← https://www.youtube.com/watch?v=GYUuTbOvyak ← eurovision
 
+## artists
+- Julio Iglesias

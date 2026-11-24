@@ -15,6 +15,9 @@
 - Guitar
 - Piano
 
+## songs
+**Lola (1970)** : Ray Davies wrote this "incredibly catchy" 1970 Number Nine hit, which is considered one of the earliest and most earnest songs about trans love. "Dave's brother and King's leader Ray Davies wrote one of the earliest and most earnest songs about trans love." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## curiosities
 **Bipolar Disorder** : Ray Davies is noted as being bipolar. "Ray Davies of the Kinks by polar" ← https://www.youtube.com/watch?v=NQgn0_mUh74 ← ray-davies ← ray-davies
 **Influenced by Tommy Steele's Style** : Ray Davies's musical style, particularly his "cockney archness," is noted as an evolution of the "overly manored, musical inspired, cocknified impression of an American singing style" pioneered by Tommy Steele. "as we can also hear a style that will be taken up by ... Ray Davis." ← Episode 48： ＂Rock With the Caveman＂ by Tommy Steele | https://www.youtube.com/watch?v=scDLm48u2yc

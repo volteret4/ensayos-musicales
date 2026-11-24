@@ -11,5 +11,5 @@
 **Early Goth Scene Inspiration** : The Virgin Prunes, an Irish performance art group, was mentioned as contributing dark music that attracted punk refugees and helped coalesce the early Goth scene. "That would include David Bowie and joint-evision, the first version of Ultravox, and an Irish performance art group called The Virgin Proons." ← https://www.youtube.com/watch?v=gd9sO7c3N1s ← the-virgin-prunes
 
 ## lists
-**"A New Form Of Beauty" (1981) — Scaruffi 1980s** : #788, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"If I Die I Die" (1982) — Scaruffi 1980s** : #789, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"A New Form Of Beauty" (1981) — Scaruffi 1980s** : #788, 7.0/10 Scaruffi.
+**"If I Die I Die" (1982) — Scaruffi 1980s** : #789, 7.0/10 Scaruffi.

@@ -73,10 +73,10 @@
 **Rock and Roll Hall of Fame (2021)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
 
 ## lists
-**"I'll Sleep When You're Dead" (2007) — AOTY Must Hear 2000s** : #151, 78 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Fantastic Damage" (2002) — AOTY Must Hear 2000s** : #413, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Cancer 4 Cure" (2012) — AOTY Must Hear 2010s** : #768, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Fantastic Damage" (2002) — Scaruffi 2000s** : #348, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Fantastic Damage" (2002) — Sputnikmusic Best Albums 2002** : #15, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/
-**"I'll Sleep When You're Dead" (2007) — Sputnikmusic Best Albums 2007** : #65, 78 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2007/
-**"Cancer 4 Cure" (2012) — Sputnikmusic Best Albums 2012** : #164, 82 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2012/
+**"I'll Sleep When You're Dead" (2007) — AOTY Must Hear 2000s** : #151, 78 AOTY.
+**"Fantastic Damage" (2002) — AOTY Must Hear 2000s** : #413, 7.0/10 Scaruffi.
+**"Cancer 4 Cure" (2012) — AOTY Must Hear 2010s** : #768, 82 AOTY.
+**"Fantastic Damage" (2002) — Scaruffi 2000s** : #348, 7.0/10 Scaruffi.
+**"Fantastic Damage" (2002) — Sputnikmusic Best Albums 2002** : #15, 7.0/10 Scaruffi.
+**"I'll Sleep When You're Dead" (2007) — Sputnikmusic Best Albums 2007** : #65, 78 AOTY.
+**"Cancer 4 Cure" (2012) — Sputnikmusic Best Albums 2012** : #164, 82 AOTY.

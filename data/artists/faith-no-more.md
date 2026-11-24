@@ -13,6 +13,7 @@
 - Alternative Hard Rock
 - Alternative Metal
 - crunchy metallic guitars
+- Grunge
 - hard rock
 - heavy beats
 - Heavy guitars mixed with rap style vocals
@@ -36,6 +37,8 @@
 ## songs
 **Epic (1990)** : A well-known song by Faith No More, which resonated with a new generation of fans after the band's reunion. "Faith No More with Epic." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ ← faith-no-more
 **Epic (1990)** : Released in January 1990 as the third single from "The Real Thing," this song was a "stomping mix of hard rock, metal, and rap." Its accompanying video, featuring a poor little fish, was shown extensively on MTV, turning it into a massive hit, reaching the Top 10/Top 40 in America and introducing rap to white kids in the suburbs. "It was a stomping mix of hard rock, metal, and rap." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← faith-no-more ← faith-no-more
+**Epic (1990)** : This song was a number nine hit in 1990, representing the band's peak chart success. "Faith no more never came close to the top 40 again after their number nine hit epic in 1990." ← Hit Parade Music History and Music Trivia > One and Done, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Falling to Pieces (1990)** : This catchy follow-up single to "Epic" managed to reach number 92 on the Hot 100. "But their catchy follow up single falling to pieces did manage to creep to number 92." ← Hit Parade Music History and Music Trivia > One and Done, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **We Care A Lot (1987)** : This song was featured on Faith No More's first two albums, _We Care A Lot_ (1985) and _Introduce Yourself_ (1987), during Chuck Mosley's tenure as lead singer. "There's Faith No More from 1987 with We Care A Lot featuring singer Chuck Mosley." ← https://www.youtube.com/watch?v=vLZla5h4xKQ ← faith-no-more
 **We Care A Lot (1987)** : This single was released early in Faith No More's career, featuring singer Chuck Mosley. Its unique sound, characterized by crunchy metallic guitars, heavy beats, and a rap-style vocal delivery, stood out significantly in 1985, as nobody else was doing that kind of music at the time. "Early Faith No More featuring singer Chuck Mosley and We Care A Lot." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← faith-no-more ← faith-no-more
 
@@ -63,16 +66,17 @@
 **Reunion for Touring** : Faith No More was one of many bands from past decades that reunited in the 21st century, a trend largely motivated by financial incentives. With declining CD sales impacting artist revenues, returning to the touring circuit offered a lucrative way to appeal to nostalgic fan bases and fill large venues. "The list of reunions is long." ← https://www.youtube.com/watch?v=GYUuTbOvyak ← faith-no-more
 **Suburban Rap Introduction** : Along with the Beastie Boys, Faith No More played a key role in making rap accessible to white suburban kids through their successful crossover songs like "Epic." "And just as we saw with the Beastie Boys, it found purchase with white kids in the suburbs." ← https://www.youtube.com/watch?v=PqOJ3YiFgYE ← faith-no-more ← faith-no-more
 **Successful European Tour and New Generation's Interest (2009)** : A summer tour of Europe proved "amazingly successful" for the reunited band, coinciding with a new generation of fans discovering their music. "A summer tour of Europe was amazingly successful. And in the interim, a new generation got into this song." ← https://www.youtube.com/watch?v=DJGFUlQTUhQ ← faith-no-more
+**No Top 40 Return** : After their number nine hit "Epic" in 1990, Faith No More never again came close to the Top 40, despite their follow-up single "Falling to Pieces" charting at number 92. "Faith no more never came close to the top 40 again after their number nine hit epic in 1990." ← Hit Parade Music History and Music Trivia > One and Done, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Epic" — Billboard Year-End Hot 100** : #75, 1990. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
 **"The Real Thing" (1989) — 1001 Albums You Must Hear Before You Die** : #635, 78 AOTY.
-**"The Real Thing" (1989) — AOTY Must Hear 1980s** : #10, 78 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"King for a Day, Fool for a Lifetime" (1995) — AOTY Must Hear 1990s** : #241, 49 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Angel Dust" (1992) — AOTY Must Hear 1990s** : #372, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Introduce Yourself" (1987) — Scaruffi 1980s** : #46, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Real Thing" (1989) — Scaruffi 1980s** : #403, 78 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Angel Dust" (1992) — Scaruffi 1990s** : #670, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Angel Dust" (1992) — Sputnikmusic Best Albums 1992** : #4, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"The Real Thing" (1989) — AOTY Must Hear 1980s** : #10, 78 AOTY.
+**"King for a Day, Fool for a Lifetime" (1995) — AOTY Must Hear 1990s** : #241, 49 AOTY.
+**"Angel Dust" (1992) — AOTY Must Hear 1990s** : #372, 7.0/10 Scaruffi.
+**"Introduce Yourself" (1987) — Scaruffi 1980s** : #46, 8.0/10 Scaruffi.
+**"The Real Thing" (1989) — Scaruffi 1980s** : #403, 78 AOTY.
+**"Angel Dust" (1992) — Scaruffi 1990s** : #670, 7.0/10 Scaruffi.
+**"Angel Dust" (1992) — Sputnikmusic Best Albums 1992** : #4, 7.0/10 Scaruffi.

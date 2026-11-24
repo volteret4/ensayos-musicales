@@ -12,4 +12,4 @@
 **Southern California Origins** : This band originated from Southern California, a key region in the development of skate punk culture. "We can throw in bands like The Adolescence, also from Southern California." ← https://www.youtube.com/watch?v=44dXy0StjIQ ← the-adolescents
 
 ## lists
-**"Adolescents" (1981) — Scaruffi 1980s** : #226, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Adolescents" (1981) — Scaruffi 1980s** : #226, 7.0/10 Scaruffi.

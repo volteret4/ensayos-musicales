@@ -9,7 +9,10 @@
 - William DuVall
 
 ## genres
+- Album Rock
+- Alternative Rock
 - Grunge
+- Hard Rock
 - Heavy Metal
 
 ## labels
@@ -21,7 +24,11 @@
 **Facelift (1990)** : Alice in Chains' 1990 debut album, it was a pivotal release for the Seattle scene, going gold by September 1991, making it the first 90s Seattle scene album to do so. The album generated two Album Rock Chart hits: "Man in the Box" and "Sea of Sorrow." "By September, the Facelift album had gone gold, the first 90s Seattle scene album to do so." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 
 ## songs
+**Check My Brain (2009)** : Following their reformation mid-decade with original member Jerry Cantrell and new addition William DuVall sharing vocals, Alice in Chains scored an alternative number one song with this track. "The band reformed mid-decade with original member Jerry Cantrell and new addition William DuVal sharing vocals, and they even scored an alternative number one song in 2009 with Check My Brain." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Man in the Box (1990)** : This "menacing" song was the first single from "Facelift" and became a significant radio hit for Alice in Chains. It broke into Billboard's Album Rock Chart in spring 1991, peaking at number 18 by July 1991, and served as an important ambassador for the emerging Grunge sound and the Seattle scene. "the menacing Man in the Box." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Man in the Box (1990)** : This early Grunge radio hit charted as a promotional single on rock charts but did not appear on the Hot 100, which was typical for fledgling hard rock bands at the time. "Early Grunge radio hits like Alice's Man in the Box charted as promotional singles on the rock charts, but not on the Hot 100." ← Hit Parade Music History and Music Trivia > Hit Parade - The Great War Against the Single Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Man in the Box (1990)** : This song broke into the top 20 on Billboard's Album Rock Chart in July 1991, signaling that Seattle-based rock was beginning to gain traction on the charts even before Nirvana's major breakthrough. "Their man in the box made the top 20 on Billboard's album Rock Chart in July." ← Hit Parade Music History and Music Trivia > Smells Like Christmas Spirit, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**No Excuses (1994)** : This song demonstrated how the first wave of American grunge bands continued to evolve and move closer to the center of pop music. "Non-American acts started imitating and adapting the US grunge aesthetic." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Sea of Sorrow (1990)** : A minor second hit from the "Facelift" album, this song reached number 27 on the Album Rock Chart. Its success further solidified the band's presence on traditional rock radio. "it even generated a minor second hit, Sea of Sorrow, which reached number 27 on the album Rock Chart." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 
 ## curiosities
@@ -33,15 +40,17 @@
 **Embraced by Traditional Rock Fans** : A distinguishing characteristic of Alice in Chains was their strong appeal to traditional rock fans, even more so than alternative rock fans. Their songs often charted on the Album Rock Chart before making significant headway on the Modern Rock Chart. "They were embraced by traditional rock fans, more than alternative rock fans." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 **Ambassadors for Grunge** : With their hit "Man in the Box," Alice in Chains "proved to be ambassadors for the Grunge sound and the Seattle scene" by mid-1991, helping to introduce the new sound to a wider audience. "Man in the Box and Alice in Shains proved to be ambassadors for the Grunge sound and the Seattle scene." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 **First Gold Seattle Album** : Their debut album "Facelift" achieved gold status by September 1991, marking it as the first Seattle scene album of the 1990s to reach this sales milestone. "By September, the Facelift album had gone gold, the first 90s Seattle scene album to do so." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Untimely Loss of Vocalist** : Along with Soundgarden, Alice in Chains suffered the untimely loss of their original vocalist, Layne Staley, who was found dead from a drug overdose in 2002. "Alice's Lane Staley was found dead from a drug overdose in 2002." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mid-Decade Reformation** : The band reformed in the mid-2000s, with original member Jerry Cantrell and new addition William DuVall sharing vocal duties, successfully scoring an alternative number one song in 2009. "The band reformed mid-decade with original member Jerry Cantrell and new addition William DuVal sharing vocals, and they even scored an alternative number one song in 2009 with Check My Brain." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Dirt" (1992) — 1001 Albums You Must Hear Before You Die** : #729, 86 AOTY.
-**"Unplugged" (1996) — AOTY Must Hear 1990s** : #173, 50 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Alice in Chains" (1995) — AOTY Must Hear 1990s** : #216, 57 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Jar of Flies" (1994) — AOTY Must Hear 1990s** : #315, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Dirt" (1992) — AOTY Must Hear 1990s** : #362, 86 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Facelift" (1990) — AOTY Must Hear 1990s** : #416, 70 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Dirt" (1992) — Scaruffi 1990s** : #391, 86 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Facelift" (1990) — Sputnikmusic Best Albums 1990** : #134, 70 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"Dirt" (1992) — Sputnikmusic Best Albums 1992** : #2, 86 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
-**"Jar of Flies" (1994) — Sputnikmusic Best Albums 1994** : #15, 85 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
+**"Unplugged" (1996) — AOTY Must Hear 1990s** : #173, 50 AOTY.
+**"Alice in Chains" (1995) — AOTY Must Hear 1990s** : #216, 57 AOTY.
+**"Jar of Flies" (1994) — AOTY Must Hear 1990s** : #315, 85 AOTY.
+**"Dirt" (1992) — AOTY Must Hear 1990s** : #362, 86 AOTY.
+**"Facelift" (1990) — AOTY Must Hear 1990s** : #416, 70 AOTY.
+**"Dirt" (1992) — Scaruffi 1990s** : #391, 86 AOTY.
+**"Facelift" (1990) — Sputnikmusic Best Albums 1990** : #134, 70 AOTY.
+**"Dirt" (1992) — Sputnikmusic Best Albums 1992** : #2, 86 AOTY.
+**"Jar of Flies" (1994) — Sputnikmusic Best Albums 1994** : #15, 85 AOTY.

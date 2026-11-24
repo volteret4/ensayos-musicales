@@ -5,6 +5,7 @@
 - Rodrigo Sanchez
 
 ## genres
+- Adult Album Alternative
 - Classical
 - Flamenco
 - Fused Material
@@ -13,6 +14,7 @@
 - Acoustic guitar
 
 ## albums
+**Mettavolution (2019)** : This album featured wordless hits that could be found on alternative charts like Billboard's Adult Album Alternative (Triple A) chart in 2019, highlighting where instrumental success can still be found. "Rodrigo E. Gabriela's Met Evolution in 2019." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Nine Dead Alive (2014)** : This album features the song "Soundmaker" and is cited as an example of wonderfully produced and engineered acoustic music by Chris Berkett. "Here's a sample from the 2014 album, Nine Dead Alive. This is called Soundmaker." ← https://www.youtube.com/watch?v=mjQBaX_3oL4 ← rodrigo-y-gabriela ← rodrigo-y-gabriela
 
 ## curiosities
@@ -20,4 +22,4 @@
 **Mexico City Duo** : Rodrigo y Gabriela are a duo from Mexico City, known for their fusion of classical and flamenco music with a strong ability to "rock out." "She's one half of the duo Rodrigo E. Gabriella, the from Mexico City. ... Yes, they are primarily into classical and fused material with a big dollop of flamenco, but they can also rock out." ← https://www.youtube.com/watch?v=oLC49nCf0ZM ← rodrigo-y-gabriela
 
 ## lists
-**"11:11" (2009) — Sputnikmusic Best Albums 2009** : #90, 4.04 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2009/
+**"11:11" (2009) — Sputnikmusic Best Albums 2009** : #90, 4.04 Sputnik.

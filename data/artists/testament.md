@@ -15,5 +15,5 @@
 **Songs Inspired by Indigenous Heritage** : The band features more than a few songs inspired by frontman Chuck Billy's Native American heritage, reflecting his Pomo tribal background in their music. "If you're familiar with the band, you'll know that there are more than a few songs inspired by Chuck's heritage." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← testament
 
 ## lists
-**"The Gathering" (1999) — Sputnikmusic Best Albums 1999** : #104, 4.05 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1999/
-**"Para Bellum" (2025) — Sputnikmusic Best Albums 2025** : #135, 3.79 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2025/
+**"The Gathering" (1999) — Sputnikmusic Best Albums 1999** : #104, 4.05 Sputnik.
+**"Para Bellum" (2025) — Sputnikmusic Best Albums 2025** : #135, 3.79 Sputnik.

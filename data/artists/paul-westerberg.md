@@ -8,4 +8,4 @@
 **Anguished Confessional Lyrics** : Paul Westerberg, leader of The Replacements, was known for his deeply personal, "anguished confessional lyrics." This lyrical style offered a sensitive counterpoint to the band's loud and raw musical delivery. "And then there was leader Paul Westberg's anguished confessional lyrics." ← https://www.youtube.com/watch?v=XjTWcy8RHEs ← paul-westerberg ← paul-westerberg
 
 ## lists
-**"14 Songs" (1993) — Sputnikmusic Best Albums 1993** : #144, 3.93 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
+**"14 Songs" (1993) — Sputnikmusic Best Albums 1993** : #144, 3.93 Sputnik.

@@ -12,4 +12,4 @@
 **Mercury Prize (2021)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q501876
 
 ## lists
-**"Collapsed In Sunbeams" (2021) — AOTY Must Hear 2020s** : #591, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
+**"Collapsed In Sunbeams" (2021) — AOTY Must Hear 2020s** : #591, 83 AOTY.

@@ -1,6 +1,7 @@
 # artist - Joey Ramone
 
 ## member of
+- Artists United Against Apartheid
 - Ramones
 - Sniper
 
@@ -21,6 +22,7 @@
 **Blitzkrieg Bop (1976)** : Joey Ramone sang the iconic "Hey Ho, Let's Go" part in "Blitzkrieg Bop," which was inspired by The Bay City Rollers' "Saturday Night." "And that is in fact Joey Ramone singing out that, hey, oh, part..." ← For the Record - The 70s > Ep. 30 - The Sweet Sound of 70s Bubblegum Music | https://seventies.libsyn.com/030-bubblegum ← joey-ramone
 **Judy is a Punk (1974)** : This song was written by Joey Ramone when he was still playing drums for The Ramones, in early 1974. It is cited as evidence of his early contributions to the band's songwriting before he became their frontman. "Oh Judy is a punk by the Ramones a song written by Joey Ramon when he was still playing drums for the group in early 1974." ← https://www.youtube.com/watch?v=gsSTJWN6cUo ← joey-ramone
 **Maria Bartiromo (2002)** : A song from his 2002 solo album "Don't Worry About Me," named after his favorite stock market analyst on CNBC. Joey Ramone had planned to perform this song on her show but died before the opportunity arose. "The song is named after this anchor. Her name is Maria Barker Romo." ← https://www.youtube.com/watch?v=CTZ4FfDVFfE ← joey-ramone ← joey-ramone
+**Sun City (1985)** : Joey Ramone, representing punk artists, was among the diverse array of music stars who contributed to "Sun City" by Artists United Against Apartheid. His participation broadened the project's genre representation. "Joey Ramone to Darling Love" ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Admiration for Charles Manson** : Joey Ramone expressed admiration for Charles Manson, with his brother quoting him as saying, "He's like Hitler, only cooler." "He was an admirer of Charles Manson. Here's a quote. He's like Hitler, only cooler. This is according to Joey's brother, by the way." ← https://www.youtube.com/watch?v=0D4wGWI-_z8 ← joey-ramone

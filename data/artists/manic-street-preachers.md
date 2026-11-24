@@ -8,6 +8,7 @@
 
 ## genres
 - British Standard Pop
+- Britpop
 - Guitar Rock
 - Indie
 - Punk lock
@@ -27,6 +28,7 @@
 - Norwich Art Center
 
 ## albums
+**Everything Must Go (1996)** : This album was a smash, filled with soaring anthems that fit alongside the Britpop hits of the day. The band changed their sound for this album due to the disappearance and presumed death of guitarist Richie Edwards. "The album was nonetheless a smash filled with soaring anthems that fit right alongside the Britpop hits of the day." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Generation Terrorists (1992)** : This 18-track, 73-minute album was released on February 10, 1992. Richie Edwards, despite being a prominent member, did not play a single note on the record, fulfilling other roles within the band. The band signed with Columbia Records just six days after Richie's infamous "for real" self-mutilation incident. "It was released on February 10th, 1992, and Richie didn't play a single note on the record, but that was okay because he had other roles to perform." ← https://www.youtube.com/watch?v=sCwgvHg86Oc ← manic-street-preachers
 **Gold Against the Soul (1993)** : Released in the summer of 1993, the artwork for this album was inspired by a painting by Yukio Mishima, the leader of a radical Japanese political group who committed ritual suicide. The album itself explored themes of loneliness and despair. "A second album entitled Gold Against the Soul came out in the summer of 1993. The artwork for that one was based on a painting by Yukio Mishima, the leader of a radical Japanese political group." ← https://www.youtube.com/watch?v=sCwgvHg86Oc ← manic-street-preachers
 **The Holy Bible (1994)** : This album is the last Manic Street Preachers album to feature Richie Edwards. "This is from the last Manic Street Preachers album to feature Richie. It's the Holy Bible, and this song is faster." ← https://www.youtube.com/watch?v=oGscVtrdER0 ← manic-street-preachers ← manic-street-preachers
@@ -77,6 +79,7 @@
 **Richie Edwards' Role as "Minister of Propaganda"** : In the spring of 1989, Richie Edwards was adopted as the fourth member and spokesman for the band, referred to as their "Minister of Propaganda." Despite having "zero musical ability" and mostly miming on stage with his amp turned down, his primary role was to attract attention, write lyrics, and contribute intellectually to the band's image and sound. "In the spring of 1989, the Manic Street Preachers adopted Richie as a fourth member of the band and spokesman. He was referred to as their Minister of Propaganda." ← https://www.youtube.com/watch?v=sCwgvHg86Oc ← manic-street-preachers
 **Richie's Declining Mental and Physical Health** : As the band's career took off, Richie's personal struggles intensified, marked by insomnia, alcohol abuse leading to rehab, and increasing isolation. His weight plummeted, and his self-harm escalated, including slashing his chest in Amsterdam and using a meat cleaver (allegedly to avoid performing) and cutting himself on stage in Bangkok. "Even as the manic's career started to take off, things were not good for Richie. He had always suffered from insomnia and used alcohol to get to sleep. That resulted in a trip to rehab." ← https://www.youtube.com/watch?v=sCwgvHg86Oc ← manic-street-preachers
 **Unique Rock and Roll Philosophy** : In the early 1990s, the Manics distinguished themselves by professing to have more in common with American hard rock bands like Guns N' Roses and Motley Crue than with bands from Manchester or the emerging Britpop scene. They openly bragged about wanting to sell millions of records, a desire uncommon among indie bands of that era, and readily signed with a major label. "The Manics were different for the early 1990s. They professed to have more in common with guns and roses in Motley Crew than anything from Manchester or early Britpop, saying that real rock and roll came from America." ← https://www.youtube.com/watch?v=sCwgvHg86Oc ← manic-street-preachers
+**Britpop Loathing** : The Welsh band actively loathed Britpop and only changed their sound on their 1996 album "Everything Must Go" due to the disappearance and presumed death of guitarist Richie Edwards. "Welsh band Manic Street Preachers actively loathed Britpop and only changed their sound on 1996's Everything Must Go album due to the disappearance and presumed death of guitarist Richie Edwards." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **MOJO Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3319330
@@ -84,10 +87,10 @@
 ## lists
 **"The Holy Bible" (1994) — 1001 Albums You Must Hear Before You Die** : #776, 90 AOTY.
 **"Everything Must Go" (1996) — 1001 Albums You Must Hear Before You Die** : #825, 4.05 Sputnik.
-**"The Holy Bible" (1994) — AOTY Must Hear 1990s** : #274, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Journal For Plague Lovers" (2009) — AOTY Must Hear 2000s** : #34, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Futurology" (2014) — AOTY Must Hear 2010s** : #588, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Everything Must Go" (1996) — Pitchfork: The 50 Best Britpop Albums** : #32, 4.05 Sputnik. ← musicbrainz | https://beta.musicbrainz.org/series/cd7ebb70-d88f-4f74-b6de-3a00bf2a162c
-**"The Holy Bible" (1994) — Sputnikmusic Best Albums 1994** : #12, 90 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
-**"Everything Must Go" (1996) — Sputnikmusic Best Albums 1996** : #114, 4.05 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
-**"Journal For Plague Lovers" (2009) — Sputnikmusic Best Albums 2009** : #171, 80 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2009/
+**"The Holy Bible" (1994) — AOTY Must Hear 1990s** : #274, 90 AOTY.
+**"Journal For Plague Lovers" (2009) — AOTY Must Hear 2000s** : #34, 80 AOTY.
+**"Futurology" (2014) — AOTY Must Hear 2010s** : #588, 81 AOTY.
+**"Everything Must Go" (1996) — Pitchfork: The 50 Best Britpop Albums** : #32, 4.05 Sputnik.
+**"The Holy Bible" (1994) — Sputnikmusic Best Albums 1994** : #12, 90 AOTY.
+**"Everything Must Go" (1996) — Sputnikmusic Best Albums 1996** : #114, 4.05 Sputnik.
+**"Journal For Plague Lovers" (2009) — Sputnikmusic Best Albums 2009** : #171, 80 AOTY.

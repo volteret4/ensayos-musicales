@@ -116,9 +116,9 @@
 **Uncredited Collaborations and Extensive Work** : During his post-rehab creative surge, John Frusciante collaborated with numerous other bands and artists. Many of these contributions, however, went uncredited, making it difficult to fully ascertain the extent of his involvement in various projects. This pattern of being uncredited was also notably present in his significant role in the creative development and recording process for The Mars Volta, where he often only received credit for specific guitar solos despite his integral part. "ha hecho muchísimas cosas que nunca estuvieron 100% confirmadas porque no ha parecido a un grupo de los rejos chílipéperes." ← Music Radar Clan > La historia de John Frusciante： Talento, creatividad y guitarras. | https://www.youtube.com/watch?v=KhJ07oD7iXI&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← john-frusciante ← john-frusciante
 
 ## lists
-**"Niandra Lades And Usually Just A T-Shirt" (1994) — Scaruffi 1990s** : #243, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Niandra Lades And Usually Just A T-Shirt" (1994) — Sputnikmusic Best Albums 1994** : #157, 7.5/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
-**"Shadows Collide with People" (2004) — Sputnikmusic Best Albums 2004** : #59, 4.13 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2004/
-**"The Will to Death" (2004) — Sputnikmusic Best Albums 2004** : #163. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2004/
-**"Curtains" (2005) — Sputnikmusic Best Albums 2005** : #50, 4.13 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2005/
-**"The Empyrean" (2009) — Sputnikmusic Best Albums 2009** : #43, 4.13 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2009/
+**"Niandra Lades And Usually Just A T-Shirt" (1994) — Scaruffi 1990s** : #243, 7.5/10 Scaruffi.
+**"Niandra Lades And Usually Just A T-Shirt" (1994) — Sputnikmusic Best Albums 1994** : #157, 7.5/10 Scaruffi.
+**"Shadows Collide with People" (2004) — Sputnikmusic Best Albums 2004** : #59, 4.13 Sputnik.
+**"The Will to Death" (2004) — Sputnikmusic Best Albums 2004** : #163.
+**"Curtains" (2005) — Sputnikmusic Best Albums 2005** : #50, 4.13 Sputnik.
+**"The Empyrean" (2009) — Sputnikmusic Best Albums 2009** : #43, 4.13 Sputnik.

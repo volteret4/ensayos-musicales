@@ -16,6 +16,8 @@
 **Use in Blink 182 Recording** : For their self-titled 2003 album, Blink 182 incorporated turntables into their recording process for scratching and looping. "They used Polynesian Camel and Bals, turntables for scratching and looping, and old organs and cellos." ← https://www.youtube.com/watch?v=_tkLRJiOBu0 ← turntables
 **Use in Early Hip-hop Sampling** : Turntables became essential tools for DJs in the early days of hip-hop, who used them to loop drum breaks from funk and soul records. This technique was a precursor to digital sampling and was crucial in shaping the genre's sound. "DJs were looking for drum breaks that they could loop on their turntables, the funkier or the break, the better." ← https://www.youtube.com/watch?v=VnXBJqKwkrw ← turntables
 **Yeop Barrow's Unorthodox Mastery** : Yeop Barrow, creative leader of PortiGer, is considered a "messiah of the plato" (turntable) for his unorthodox and completely new methods of working with scratching. He achieved complex sounds with just a turntable and a mixing console, challenging the perceived limits of the instrument. "el mesías del plato y sobre todo el mesías del plato por ortodoxo él inventa una manera completamente nueva de trabajar el Scratchin." ← Music Radar Clan > 5 Momentos increíbles de Scratching experimental | https://www.youtube.com/watch?v=IBprDpCEn_k&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← turntables ← turntables
+**Infiltration of Clubs and Pop Charts (1987-88)** : Between 1987 and 1988, turntableism, alongside hip-hop sampling, infiltrated both club music and the pop charts. This technique, central to DJing, was a key element in the evolving sound of popular music and was exemplified by tracks like M|A|R|R|S' "Pump Up the Volume." "hip-hop sampling and turn tableism were infiltrating the clubs and, in turn, the pop charts, as on the seminal smash by Mars pump up the volume." ← Hit Parade Music History and Music Trivia > Blame It on the Feign, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Hijacked During PM Dawn Confrontation** : In January 1992 at New York's Sound Factory, KRS-One and Boogie Down Productions physically hijacked the turntables during PM Dawn's set, pushing them off stage as part of their onstage confrontation. ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Blink 182
@@ -23,4 +25,4 @@
 - Jason Parsons
 - Joe Hahn
 - USS
-
+- Run-DMC

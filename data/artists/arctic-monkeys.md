@@ -16,6 +16,7 @@
 - Rock clásico
 - Rock de vieja escuela
 - Rock Revival
+- UK Indy Rock
 
 ## labels
 - Domino
@@ -102,6 +103,7 @@
 **Worst Offenders in Loudness Wars** : The Arctic Monkeys are specifically named as one of the "worst offenders" among bands whose recent albums suffer from excessive compression, leading to an unrelenting loudness that causes listener fatigue. "The worst offenders that I found are the Arctic monkeys, the chili peppers, the killers, mues, queens of the Stone Age, and of course Metallica." ← https://www.youtube.com/watch?v=Yl2poVWguu0 ← arctic-monkeys
 **Legendary Albums at Olympic** : The Arctic Monkeys, among a host of other artists, recorded legendary albums at Olympic Studios. "Oasis, U2, the Arctic Monkeys, the Killers, the Pesh Mode, Moracy, Pink Floyd, Massive Attack, the Spice Girls, Adele and dozens and dozens of others made legendary albums at Olympic." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← the-arctic-monkeys ← the-arctic-monkeys
 **Legendary Albums at Olympic** : The Arctic Monkeys, among a host of other artists, recorded legendary albums at Olympic Studios. "Oasis, U2, the Arctic Monkeys, the Killers, the Pesh Mode, Moracy, Pink Floyd, Massive Attack, the Spice Girls, Adele and dozens and dozens of others made legendary albums at Olympic." ← https://www.youtube.com/watch?v=QEkGSpxeuMk ← the-arctic-monkeys
+**Mid-Aughts Breakthrough** : By the mid-Aughts, acts descended from Britpop like the Arctic Monkeys began making "landfall" again, signifying a resurgence of British music influence. "by the mid-Aughts acts that were descended from Britpop began making landfall again, whether the latter hits of Damon Alborn's Gorillas or the UK Indy Rock breakthrough of Arctic monkeys." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Libera Award for Record of the Year** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q96387381
@@ -149,14 +151,14 @@
 **"Teddy Picker" — UK Indie Singles Chart** : 2007. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Indie_Chart
 
 ## lists
-**"Favourite Worst Nightmare" (2007) — AOTY Must Hear 2000s** : #143, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Whatever People Say I Am, That's What I'm Not" (2006) — AOTY Must Hear 2000s** : #212, 83 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"AM" (2013) — AOTY Must Hear 2010s** : #662, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"The Car" (2022) — AOTY Must Hear 2020s** : #385, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"AM" (2013) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #346, 81 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"AM" (2013) — Pitchfork: The 200 Best Albums of the 2010s** : #152, 81 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"When The Sun Goes Down" (2006) — Sputnikmusic Best Albums 2006** : #45, 4.15 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/
-**"I Bet You Look Good On The Dancefloor" (2006) — Sputnikmusic Best Albums 2006** : #171. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/
-**"Leave Before The Lights Come On" (2006) — Sputnikmusic Best Albums 2006** : #173. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/
-**"Whatever People Say I Am, That's What I'm Not" (2006) — Sputnikmusic Best Albums 2006** : #195, 83 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2006/
-**"Brianstorm" (2007) — Sputnikmusic Best Albums 2007** : #115, 4.03 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2007/
+**"Favourite Worst Nightmare" (2007) — AOTY Must Hear 2000s** : #143, 80 AOTY.
+**"Whatever People Say I Am, That's What I'm Not" (2006) — AOTY Must Hear 2000s** : #212, 83 AOTY.
+**"AM" (2013) — AOTY Must Hear 2010s** : #662, 81 AOTY.
+**"The Car" (2022) — AOTY Must Hear 2020s** : #385, 80 AOTY.
+**"AM" (2013) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #346, 81 AOTY.
+**"AM" (2013) — Pitchfork: The 200 Best Albums of the 2010s** : #152, 81 AOTY.
+**"When The Sun Goes Down" (2006) — Sputnikmusic Best Albums 2006** : #45, 4.15 Sputnik.
+**"I Bet You Look Good On The Dancefloor" (2006) — Sputnikmusic Best Albums 2006** : #171.
+**"Leave Before The Lights Come On" (2006) — Sputnikmusic Best Albums 2006** : #173.
+**"Whatever People Say I Am, That's What I'm Not" (2006) — Sputnikmusic Best Albums 2006** : #195, 83 AOTY.
+**"Brianstorm" (2007) — Sputnikmusic Best Albums 2007** : #115, 4.03 Sputnik.

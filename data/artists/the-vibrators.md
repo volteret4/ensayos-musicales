@@ -12,4 +12,4 @@
 **Sex Toy Line (Unspecified Year)** : The Vibrators, an English punk band, released their own line of sex toys, with their name being noted as "appropriately" related to the product. "and appropriately the English punk band, the vibrators." ← https://www.youtube.com/watch?v=DA2iJsu3GRY ← the-vibrators ← the-vibrators
 
 ## lists
-**"Pure Mania" (1977) — Scaruffi 1970s** : #553, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Pure Mania" (1977) — Scaruffi 1970s** : #553, 7.0/10 Scaruffi.

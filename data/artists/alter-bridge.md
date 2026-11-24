@@ -5,5 +5,5 @@
 **Underwhelming Post-Creed Project** : This group, formed by the former bandmates of Scott Stapp after Creed, was described as "underwhelming." "Their post-crede group is called Alter Bridge. And well, underwhelming, you know." ← https://www.youtube.com/watch?v=-f9jhqAHkQo ← alter-bridge
 
 ## lists
-**"Fortress" (2013) — Sputnikmusic Best Albums 2013** : #149, 3.95 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2013/
-**"Alter Bridge" (2026) — Sputnikmusic Best Albums 2026** : #71, 3.13 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2026/
+**"Fortress" (2013) — Sputnikmusic Best Albums 2013** : #149, 3.95 Sputnik.
+**"Alter Bridge" (2026) — Sputnikmusic Best Albums 2026** : #71, 3.13 Sputnik.

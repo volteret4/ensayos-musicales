@@ -11,5 +11,5 @@
 
 ## lists
 **"Black Monk Time" (1966) — 1001 Albums You Must Hear Before You Die** : #65.
-**"Black Monk Time" (1966) — Scaruffi 1960s** : #171. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Black Monk Time" (1966) — Pitchfork: The 200 Best Albums of the 1960s** : #127. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Black Monk Time" (1966) — Scaruffi 1960s** : #171.
+**"Black Monk Time" (1966) — Pitchfork: The 200 Best Albums of the 1960s** : #127.

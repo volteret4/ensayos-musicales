@@ -6,9 +6,14 @@
 - Sid Vicious
 - Siouxsie Sioux
 - Steve Severin
+- Susan Janet Ballion
 
 ## genres
+- Alternative rock
+- British Alt Rock
+- British Goth
 - Dark Wave
+- Doomy Rock
 - Goth
 - Goth culture
 - Goth music
@@ -18,6 +23,7 @@
 - Neo-Psych
 - New Wave
 - Post-Punk
+- Postpunk
 - Punk
 - Rock Psicodélico
 
@@ -28,16 +34,23 @@
 - Lollapalooza (1991)
 
 ## albums
+**Juju (1981)** : This album reached the UK top 10 in 1981, further demonstrating the increasing commercial viability of goth music. "Two straight Susie albums, kaleidoscope and juju, went top 10 in the UK in 1980 and 81." ← Hit Parade Music History and Music Trivia > Lost and Lonely Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Kaleidoscope (1980)** : This album reached the UK top 10 in 1980, contributing to the commercial growth of goth music. "Two straight Susie albums, kaleidoscope and juju, went top 10 in the UK in 1980 and 81." ← Hit Parade Music History and Music Trivia > Lost and Lonely Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 **The Scream (1978)** : This album established Siouxsie and the Banshees as one of the first-generation goth bands, characterized by their dark aesthetic and influence on the burgeoning genre. "This is from 1978. Susie in the Banshees, one of the first of the first generation Goth bands." ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← siouxsie-and-the-banshees
 
 ## songs
 **Christine (1980)** : "Christine," released in 1980 by Siouxsie and the Banshees, is presented as an example from the extensive world of Gothic rock, a genre that began to flourish in the late 1970s and early 1980s. "Something from the fantastically large world of Gothic rock, Susie in the Banshees with Christine from 1980." ← https://www.youtube.com/watch?v=mAlc-N2wn5s ← siouxsie-and-the-banshees ← siouxsie-and-the-banshees
 **Cities in Dust (1985)** : This song is about the eruption of Mount Vesuvius in 79 AD, an event that buried and preserved the ancient Roman cities of Pompeii and Herculaneum. "Both Pompeii by Bastille and cities and dust from Suzy and the Banshees are about the eruption of Mount Vesuvius in 79 AD." ← https://www.youtube.com/watch?v=4PlieAEthSg ← siouxsie-and-the-banshees
 **Cities in Dust (1985)** : This song is inspired by the eruption of Mount Vesuvius in 79 AD, which famously destroyed the Roman city of Pompeii. "Both Pompey by Bastille and City's Indust from Suzy and the Banshee's are about the eruption of Mount Vesuvius in 79 AD." ← https://www.youtube.com/watch?v=cM3-tINKdvo ← siouxsie-and-the-banshees
+**Cities in Dust (1986)** : This song was regarded as the band's most irresistible single, maintaining Siouxsie's edgy, goth persona but packaged with a skittering club beat. It scraped the top 20 in the UK and reached number 17 on the US Club Play Chart, becoming Siouxsie's biggest American dance single to date. "Cities Indust maintained Susie's edgy, goth persona, but packaged it in a skittering club beat." ← Hit Parade Music History and Music Trivia > Lost and Lonely Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 **Hong Kong Garden (1977)** : This song is identified as Siouxsie and the Banshees' very first single and is considered "the very first post punk single," appearing in a British magazine called Sounds in 1977. While not punk rock, its existence was contingent on punk having come first. "It's Susie in the Banshees with Hong Kong Garden." ← https://www.youtube.com/watch?v=__7iEl3lH8g ← siouxsie-and-the-banshees ← siouxsie-and-the-banshees
 **Hong Kong Garden (1977)** : An early live recording of this song was made at the BBC, predating its official studio recording and release as the band's first single. "That was recorded live at the BBC long before it was properly recorded and released as the band's first single." ← https://www.youtube.com/watch?v=oPgeSCy93bo ← siouxsie-and-the-banshees
 **The Passenger** : Siouxsie and the Banshees covered Iggy Pop's song "The Passenger," originally from his 1977 album Lust for Life. "The passenger, a song later covered by and performed by Susie in the Banshee's and Baw House." ← https://www.youtube.com/watch?v=OxctiPr0l-8 ← siouxsie-and-the-banshees ← siouxsie-and-the-banshees
+**Peek-a-Boo (1988)** : This goth-tinged song, fronted by Siouxsie Sioux, became the first Modern Rock number 1 song when the Billboard chart launched in September 1988. Its success was remarkable for being both a goth song and one led by a woman topping a Billboard chart. "when the chart launched in September 1988, Susie and the Banshees had the first Modern Rock number 1 song with Peekaboo." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Peek-a-Boo (1988)** : This song achieved the distinction of being the first number one song on Billboard's Modern Rock Tracks chart when it was founded in 1988. The chart is now known as the Alternative chart. "the first number one song on billboards, you know, alternative music chart was Susie in the Banshee's peekaboo." ← Hit Parade Music History and Music Trivia > The Bridge - Farewell, Lilith Fan | https://my.slate.com/podcasts/feeds/hit-parade/
 **Peekaboo (1988)** : This single was the first number one on Billboard's Modern Rock Chart, which debuted on September 10, 1988. It was noted for sounding distinctly "alternative" compared to mainstream rock acts like Van Halen. "the first number one on Billboard's modern rock chart was this Suzy and the Banshee single, Peekaboo." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
+**Peekaboo (1988)** : This catchy goth pop song was the first-ever number one song on Billboard's newly launched Modern Rock Tracks chart in September 1988. It was an alternative dance record fronted by a woman, providing a true alternative to the more male-fronted songs dominating mainstream rock stations at the time. "On the Modern Rock Chart, the first-ever number one song was Peekaboo, a catchy golf pop song by Suzy and the Banshees." ← Hit Parade Music History and Music Trivia > The Deadbeat Club Edition, Part Two | https://my.slate.com/podcasts/feeds/hit-parade/
+**Spellbound (1981)** : As the band's recordings became more ghoulish and goth, this song reached number 22 in the UK in 1981. "Spellbound reached number 22 in the UK in 1981." ← Hit Parade Music History and Music Trivia > Lost and Lonely Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Association with Goth Culture** : The band is recognized as one of the founders of modern goth culture, a label they reportedly disliked but from which they are inseparable within the scene. Siouxsie Sue is frequently considered the "queen of Goth" by many fans. "The bandsheets were one of the founders of modern goth culture. And even though they hated that tag, they are inseparable from that scene. Susie is still considered to be the queen of Goth by many fans" ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← siouxsie-and-the-bandsheets ← siouxsie-and-the-bandsheets
@@ -83,6 +96,14 @@
 **Formation and Personnel Crisis** : Siouxsie and the bandsheets were formed around 1977. In 1979, during a significant personnel crisis that resulted in the group splitting into two, Budgie joined the band as drummer, approximately two years after its initial formation. "Budgie joined the band in 1979. About two years after the bandsheets were formed and during a personnel crisis that saw the group split in two." ← https://www.youtube.com/watch?v=5Dhh5_PDhd0 ← siouxsie-and-the-bandsheets
 **Debut at 100 Club (1976)** : This new group made its debut at the 100 Club Punk Rock Festival on September 20, 1976. On the first night, their drummer savagely beat up a well-known music journalist, and on the second night, the same individual was arrested for throwing a beer glass, blinding a girl in one eye. This drummer was Sid Vicious, who would later join the Sex Pistols. "The lineup featured a new group called The Clash, a group making their debut called Susie in the Band Sheets, the Buzzcocks were there around a few others." ← https://www.youtube.com/watch?v=wYuNolSDLFM ← susie-in-the-band-sheets
 **Lollapalooza Performance (1991)** : Suzy and the Banshees were part of the diverse roster of bands performing at the first Lollapalooza festival in 1991, an event designed to introduce a broad range of alternative music to a wider American audience. "It featured Jane's Addiction as the headliners along with up and coming bands like Nine Inch Nails and the Rollins Band along with Ice Tea and Body Counts and the Butthole Surfers and Suzy and the Banshees and more." ← https://www.youtube.com/watch?v=xdn31jMOOA4 ← suzy-and-the-banshees
+**First Modern Rock #1 by a Woman (1988)** : Siouxsie Sioux, as the frontwoman of Siouxsie and the Banshees, achieved the distinction of having the first Modern Rock number 1 song with "Peek-a-Boo" when the chart debuted in September 1988. This was significant not only for its goth sound but for being led by a woman, contrasting with the few women-led acts that topped the Album Rock Tracks chart previously. "This in itself was remarkable, not only a goth-tinged song topping a Billboard chart, but one fronted by a woman, Susie Sue." ← Hit Parade Music History and Music Trivia > Building a Herstory Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Chart Transition of Post-Punk/Goth** : Siouxsie and the Banshees are identified as one of a generation of post-punk, goth, and "doomy rock" bands that successfully transitioned from underground punk clubs and "alienated teen bedrooms" to mainstream chart success. "a generation of post-punk Goth and just plain doomy rock bands... Susie and the banshee's, Bauhaus, The Smiths, Depeche Mode, Joy Division and New Order, transitioned from punk clubs and alienated teen bedrooms to the top of the charts." ← Hit Parade Music History and Music Trivia > I Got Five on It Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on Punk and Goth** : This London group, fronted by Susan Janet Ballion (Siouxsie Sioux), had the energy of punk but incorporated tribal drumming and sinister vocals that anticipated the sound of Gothic rock. Pitchfork magazine later stated, "without Susie Sue, Goth might never have taken root." "The London group, fronted by Susan Janet Ballion, aka Susie Sue, had the energy of punk, but from the start layered in tribal drumming and sinister vocals that would anticipate the sound of Gothic rock." ← Hit Parade Music History and Music Trivia > Lost and Lonely Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Goth Look** : Siouxsie Sioux embraced a spiky-haired goth look and befriended Robert Smith of The Cure, who also adopted a similar style. "He had befriended Susie Sue of Susie and and the Banshees, who also embraced the spiky-haired goth look." ← Hit Parade Music History and Music Trivia > Lost and Lonely Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Modern Rock Tracks Chart Debut (1988)** : Siouxsie and the Banshees, a post-punk and goth rock veteran, had the number one song, "Peek-a-Boo," in the very first week of the Billboard Modern Rock Tracks chart launch in September 1988. "It's very first week, the number one song was by a post-punk and goth rock veteran, Suzy and the Banshee's." ← Hit Parade Music History and Music Trivia > Lost and Lonely Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Biggest US Hit (1991)** : Siouxsie and the Banshees scored their biggest hit in America in 1991. "this 90s post-mortem doesn't even include Susie and the Banshees, who scored their biggest hit in America in 1991." ← Hit Parade Music History and Music Trivia > Lost and Lonely Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on Goth Fashion** : Siouxsie (with The Cure and Bauhaus) is credited with largely defining the look of Hot Topic stores in malls. "One could argue that the cure, Susie Sue and Bauhaus all but invented the look of your local mall's hot topic store." ← Hit Parade Music History and Music Trivia > Lost and Lonely Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Producer Steve Lillywhite** : Steve Lillywhite, who produced U2's debut album *Boy*, had previously produced hits for Siouxsie and the Banshees. "They were paired with producer Steve Lillewight, who had produced hits for Suzie and the Banshees and XTC." ← Hit Parade Music History and Music Trivia > With or Without U2 Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **MTV Video Music Award for Best Alternative Video (1989)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q821010
@@ -90,8 +111,8 @@
 ## lists
 **"The Scream" (1978) — 1001 Albums You Must Hear Before You Die** : #424.
 **"Juju" (1981) — 1001 Albums You Must Hear Before You Die** : #477, 84 AOTY.
-**"Tinderbox" (1986) — AOTY Must Hear 1980s** : #75, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"A Kiss in the Dreamhouse" (1982) — AOTY Must Hear 1980s** : #139, 75 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Juju" (1981) — AOTY Must Hear 1980s** : #169, 84 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Kaleidoscope" (1980) — AOTY Must Hear 1980s** : #189, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Juju" (1981) — Pitchfork: The 200 Best Albums of the 1980s** : #75, 84 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"Tinderbox" (1986) — AOTY Must Hear 1980s** : #75, 80 AOTY.
+**"A Kiss in the Dreamhouse" (1982) — AOTY Must Hear 1980s** : #139, 75 AOTY.
+**"Juju" (1981) — AOTY Must Hear 1980s** : #169, 84 AOTY.
+**"Kaleidoscope" (1980) — AOTY Must Hear 1980s** : #189, 80 AOTY.
+**"Juju" (1981) — Pitchfork: The 200 Best Albums of the 1980s** : #75, 84 AOTY.

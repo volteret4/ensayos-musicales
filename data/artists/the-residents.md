@@ -36,12 +36,12 @@
 
 ## lists
 **"Duck Stab / Buster & Glen" (1978) — 1001 Albums You Must Hear Before You Die** : #404.
-**"Not Available" (1978) — Scaruffi 1970s** : #10, 9.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Meet The Residents" (1974) — Scaruffi 1970s** : #19, 8.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Eskimo" (1979) — Scaruffi 1970s** : #66, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Fingerprince" (1976) — Scaruffi 1970s** : #469, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Big Bubble" (1985) — Scaruffi 1980s** : #671, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Census Taker" (1985) — Scaruffi 1980s** : #672, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"God In Three Persons" (1988) — Scaruffi 1980s** : #673, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Mark Of The Mole" (1981) — Scaruffi 1980s** : #674, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Demons Dance Alone" (2002) — Sputnikmusic Best Albums 2002** : #133. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2002/
+**"Not Available" (1978) — Scaruffi 1970s** : #10, 9.0/10 Scaruffi.
+**"Meet The Residents" (1974) — Scaruffi 1970s** : #19, 8.5/10 Scaruffi.
+**"Eskimo" (1979) — Scaruffi 1970s** : #66, 8.0/10 Scaruffi.
+**"Fingerprince" (1976) — Scaruffi 1970s** : #469, 7.0/10 Scaruffi.
+**"Big Bubble" (1985) — Scaruffi 1980s** : #671, 7.0/10 Scaruffi.
+**"Census Taker" (1985) — Scaruffi 1980s** : #672, 7.0/10 Scaruffi.
+**"God In Three Persons" (1988) — Scaruffi 1980s** : #673, 7.0/10 Scaruffi.
+**"Mark Of The Mole" (1981) — Scaruffi 1980s** : #674, 7.0/10 Scaruffi.
+**"Demons Dance Alone" (2002) — Sputnikmusic Best Albums 2002** : #133.

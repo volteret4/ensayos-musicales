@@ -6,10 +6,16 @@
 **Definition** : Post-hardcore is a derivative of hardcore punk, characterized by a greater emphasis on melody and experimentation with song structure. "Post-hardcore is hardcore punk, but with more emphasis on melody and experimentation with song structure." ← Ongoing History of New Music > What Exactly is Post Rock？ Part 2 | https://www.youtube.com/watch?v=9-v4qnOO8wY&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **Developed from Hardcore Punk** : Post-hardcore is listed as one of the genres whose development was fundamentally influenced by hardcore punk. "el post hardcore." ← Egg Punk： Explorando el lado más raro del punk | https://www.youtube.com/watch?v=ZvQCffRFhHQ
 **Evolution from Hardcore** : Post-hardcore was identified as a progression from hardcore in the lineage of aggressive music that Alexis on Fire explored and contributed to, eventually leading into screamo. "You have punk, which turns into hardcore, which turns into post-hardcore, which becomes screamo and all that sort of weirdness, right?" ← Ongoing History of New Music > Alexisonfire - In Their Own Words Podcast | https://www.youtube.com/watch?v=nEPT8ZVZ0so&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Spearheaded by Fugazi** : The "so-called post-hardcore" of the mid-80s was spearheaded by "uncompromising Washington DC avatars Fugazi," who, despite their influence, rarely charted. "So-called post-hardcore of the mid 80s spearheaded by uncompromising Washington DC avatars Fugazi." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Kurt Cobain's Influence** : Post-hardcore bands like The Melvins, Scratch Acid, and The Jesus Lizard were among Kurt Cobain's favorites, demonstrating the influence of this genre on Nirvana's sound. "Flipper was one of his favorite groups as were such post-hardcore and noise rock bands as the Melvins, Scratch Acid and the Jesus Lizard" ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Alexisonfire
 - Fugazi
 - Pianos Become The Teeth
 - Touché Amoré
-
+- The Melvins
+- Flipper
+- Scratch Acid
+- The Jesus Lizard
+- My Chemical Romance

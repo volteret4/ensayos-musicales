@@ -33,5 +33,5 @@
 **Juno Award for Instrumental Album of the Year (1994)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q6314081
 
 ## lists
-**"Dim The Lights Chill The Ham" (1992) — Scaruffi 1990s** : #126, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Sport Fishin'" (1993) — Scaruffi 1990s** : #1150, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Dim The Lights Chill The Ham" (1992) — Scaruffi 1990s** : #126, 8.0/10 Scaruffi.
+**"Sport Fishin'" (1993) — Scaruffi 1990s** : #1150, 7.0/10 Scaruffi.

@@ -9,9 +9,13 @@
 - Sylvain Sylvain
 
 ## genres
+- Campy Punk
+- Glam
+- Glam Punk
 - Glam rock
 - Glitter Rock
 - New Wave
+- Post-punk
 - Pre-punk
 - Pre-punk era
 - Proto-punk
@@ -25,10 +29,13 @@
 
 ## albums
 **Because I said so** : This was another studio album released by the New York Dolls after their reunion. "There has been a live album and another studio album called Because I said so." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← new-york-dolls ← new-york-dolls
+**New York Dolls (1973)** : This album, released in 1973, is now considered legendary. It featured the lead track "Personality Crisis." The Dolls, along with Iggy and the Stooges, were playing punk before the genre had a name. "The Dolls, like Iggy and the Stooges before them, were punk before anybody knew what to call this music." ← Hit Parade Music History and Music Trivia > The Deadbeat Club Edition, Part One | https://my.slate.com/podcasts/feeds/hit-parade/
+**New York Dolls (1973)** : This self-titled debut LP, released toward the end of 1973, reached number 116 on the Billboard album chart. The band was considered the progenitors of punk before the genre had a name, known for their outrageousness and cross-dressing style. "took their self-titled debut LP to number 116 on the Billboard album chart." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **One Day, it will please us to remember even this (2006)** : This studio album was recorded by David Johansen and Sylvain Sylvain after Arthur Kane's death, and featured guest appearances by Iggy Pop and Michael Stipe of R.E.M. "They decided to carry on and record an album. And you know something was a pretty good record. It was called One Day, it will please us to remember even this." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← new-york-dolls ← new-york-dolls
 
 ## songs
 **Personality Crisis (1973)** : This song features Johnny Thunders on guitar. It is mentioned in the context of his possible murder in April 1991. "New's Johnny with the New York Dolls have personality crisis." ← https://www.youtube.com/watch?v=ZcYKZ5ovoy4 ← new-york-dolls
+**Personality Crisis (1973)** : This song was the lead track on the New York Dolls' self-titled debut album from 1973, which is now considered legendary. "That's proto-punkers, the New York Dolls, with personality crisis." ← Hit Parade Music History and Music Trivia > The Deadbeat Club Edition, Part One | https://my.slate.com/podcasts/feeds/hit-parade/
 **Running Around (2006)** : This song is from the 2006 album "One Day, it will please us to remember even this," recorded by the resurrected New York Dolls. "This is called Running Around. Resurrected New York Dolls from 2006." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← new-york-dolls ← new-york-dolls
 **Teenage News** : This unreleased song was the initial preferred choice for the name of the fanzine created by Legs McNeil and his friend. They eventually decided against it in favor of a name more directly related to The Dictators, which ultimately became "Punk." "And their first choice for the name of their fanzine was Teenage News after an unreleased song by the New York Dolls." ← https://www.youtube.com/watch?v=1y2UuU-me_s ← new-york-dolls ← new-york-dolls
 
@@ -66,8 +73,16 @@
 **Stephen Patrick Morrissey's Fanaticism** : The legend of the New York Dolls grew to "mythic proportions," captivating Stephen Patrick Morrissey (singer for The Smiths) from a young age, who wrote letters to British music magazines praising them and founded their British fan club. "One of their biggest all-time fans was Stephen Patrick Morrissey. Yes, the same guy who sang for the Smiths." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← new-york-dolls ← new-york-dolls
 **Sylvain Sylvain's Post-Breakup Career** : Guitarist Sylvain Sylvain worked in David Johansen's band, formed his own group, then became a New York City cab driver before moving to Los Angeles to resume his music career. "Guitar, Sylvain Sylvain worked in David's band, formed his own group, and then got a job as a New York City cab driver." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← new-york-dolls ← new-york-dolls
 **Heroin Decimation** : Heroin tragically decimated and brought death to the band members of The New York Dolls. "Heroin decimated and brought death to the New York dolls." ← Ongoing History of New Music > RockNRoll Drugs | https://www.youtube.com/watch?v=i5lR8zz7_ZE&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
+**Influence on Blue Angel** : The sound of retro crossed with new wave, characteristic of Blue Angel, was considered "very entrant" in the early 1980s, emerging in the wake of campy punk and post-punk bands such as the New York Dolls. "And in the wake of such campy punk and post punk bands as the New York Dolls and the B-52s, the sound of retro crossed with new wave was very entrant." ← Hit Parade Music History and Music Trivia > Be the One to Walk in the Sun, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Early CBGB Scene Diversity** : The New York Dolls, known for their cross-dressing, represented the diverse interpretations of punk in the early CBGB scene between 1973 and 1975. "punk could mean anything from the cross dressing New York dolls to the equally androgynous poet turned rocker patty Smith." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Darryl Hall's Influence** : Darryl Hall recounted attending shows at the Mercer Arts Center and seeing bands like The New York Dolls, which directly influenced him to write songs that reflected the "chaos of that scene." "I was going to the Mercer Arts Center and seeing the New York dolls and those kinds of bands. I wrote a bunch of songs that reflected the chaos of that scene." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Todd Rundgren Production** : Todd Rundgren, who later produced Hall and Oates' "War Babies" album, had previously produced the first album for The New York Dolls, linking the two bands through a common producer. "had just produced the first New York dolls album, the iconic classic Todd Rungram." ← Hit Parade Music History and Music Trivia > Rock ’n Soul, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Pioneering Gender Presentation** : The New York Dolls performed in drag, complete with platform heels and bouffant wigs, four years before The B-52s would adopt similar aesthetics. This performance style earned them the label "Glam Punk" and positioned them as pioneers in playing with gender presentation and identity, influencing generations of rock and pop acts, even as their music sounded like a classic form of "tough-minded punk rock" to modern ears. "the Dolls performed in drag, complete with platform heels and bufant wigs, four years before the B-52s would do the same." ← Hit Parade Music History and Music Trivia > The Deadbeat Club Edition, Part One | https://my.slate.com/podcasts/feeds/hit-parade/
+**Progenitors of Punk** : The New York Dolls were widely considered the progenitors of punk before it had a name, known for their outrageous and cross-dressing style. They were leading lights of the downtown New York scene, commanding the stage at the Mercer Arts Center. "widely considered the progenitors of punk before it had a name." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mercer Arts Center Collapse** : The New York Dolls were commanding the stage at the Mercer Arts Center until the building literally collapsed in the summer of 1973, necessitating downtown bands to find new venues. "But when that building collapsed, literally, in the summer of 73, downtown bands needed to find a new place to play." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence from Jobriath** : The New York Dolls were a contemporaneous glam act whose flared style echoed the work of Jobriath. "And his flared style echoed in the work of other contemporaneous glam acts like The New York Dolls and Queen." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"New York Dolls" (1973) — 1001 Albums You Must Hear Before You Die** : #299, 8.0/10 Scaruffi.
-**"New York Dolls" (1973) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #301, 8.0/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"New York Dolls" (1973) — Scaruffi 1970s** : #58, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"New York Dolls" (1973) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #301, 8.0/10 Scaruffi.
+**"New York Dolls" (1973) — Scaruffi 1970s** : #58, 8.0/10 Scaruffi.

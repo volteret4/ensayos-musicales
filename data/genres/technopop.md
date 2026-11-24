@@ -34,6 +34,7 @@
 **Soft Cell's Genre** : This genre describes the two-piece British band Soft Cell, which was active from 1978 to 1984. "Soft Cell, the two-piece British technopop band." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← technopop ← technopop
 **Subgenre of New Wave** : Technopop was characterized as one of the many "flavors" of music encapsulated by the New Wave umbrella. It specifically referred to "all those groups who threw away their guitars and favor of synthesizers," emphasizing its electronic and synthetic sound. Telegenic bands like Flock of Seagulls, Eurythmics, and Duran Duran became prominent stars of this genre, especially with the rise of music videos. "There was Power Pop, which could include everyone from Elvis Costello to Tom Petty, a new Scott Seen, a specials English beat and so on, and all of the flavors of Technopop, all those groups who threw away their guitars and favor of synthesizers." ← https://www.youtube.com/watch?v=Z8BTWo66SDI ← technopop ← technopop
 **TVT Records' Expectation for Nine Inch Nails** : TVT Records founder Steve Gottlieb initially signed Trent Reznor, believing he had found "the next Depeche Mode," a "dancing technopop band capable of turning out hit singles." This expectation clashed with the heavier, darker music of "Pretty Hate Machine." "Steve heard Trent's demos and thought he had the next depeche moan on his hands, a dancing technopop band capable of turning out hit singles." ← https://www.youtube.com/watch?v=DKdF8NgF5Bw ← technopop
+**Bee Gees' 1989 Album "One"** : The Bee Gees' 1989 album "One," released after Andy Gibb's death, was described as a "solid 80s technopop hit." It subtly hinted at their 70s disco sound but was a savvy record that adapted to the contemporary musical environment, marking a successful comeback for the band. "One was a solid 80s technopop hit with subtle hints of their 70s disco sound." ← Hit Parade Music History and Music Trivia > The Nights on Broadway Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - A Flock of Seagulls
@@ -60,4 +61,4 @@
 - The Human League
 - When in Rome
 - Zola Jesus
-
+- Bee Gees

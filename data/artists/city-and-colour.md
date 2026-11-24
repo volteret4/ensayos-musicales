@@ -11,4 +11,4 @@
 **CASBY Award** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q5008850
 
 ## lists
-**"The MySpace Transmissions" (2008) — Sputnikmusic Best Albums 2008** : #42, 4.13 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2008/
+**"The MySpace Transmissions" (2008) — Sputnikmusic Best Albums 2008** : #42, 4.13 Sputnik.

@@ -6,6 +6,7 @@
 ## songs
 **If You Could Read My Mind** : This song was a hit for Gordon Lightfoot. "If you could read my mind, which was a hit by Gordon Lightfoot." ← For the Record - The 70s > Ep. 40 - Honestly Loving Olivia Newton-John | https://seventies.libsyn.com/ep-40-honestly-loving-olivia-newton-john
 **Me and Bobby McGee** : Gordon Lightfoot successfully cracked the Canadian charts with his rendition of "Me and Bobby McGee," a song written by Kris Kristofferson. "Gordon Lightfoot, who'd cracked the Canadian charts with it." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
+**Me and Bobby McGee** : Gordon Lightfoot achieved a Canadian hit with "Me and Bobby McGee" in the two years after its 1969 composition, before Janis Joplin's famous recording. Bob Neuwirth learned the song directly from Lightfoot playing it in Albert Grossman's office and then introduced it to Joplin. "a Canadian hit for Gordon Lightfoot." ← Hit Parade Music History and Music Trivia > The Posthumous Hits Edition, Live from Seattle | https://my.slate.com/podcasts/feeds/hit-parade/
 **Sundown (1974)** : Gordon Lightfoot released the song "Sundown" in 1974. "Gordon Lightfoot, Sundown released in 1974." ← For the Record - The 70s > Ep. 45 - Oh, Canada! Canada's Rock Music Industry in the 70s | https://www.ftr70.com/ ← gordon-lightfoot
 
 ## curiosities
@@ -57,6 +58,6 @@
 **"Sundown" — Billboard Year-End Hot 100** : #27, 1974. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"If You Could Read My Mind" (1970) — Scaruffi 1970s** : #310, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Summertime Dream" (1976) — Juno Awards: Album of the Year** : #1977. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
-**"Endless Wire" (1978) — Juno Awards: Album of the Year** : #1979. ← musicbrainz | https://beta.musicbrainz.org/series/57d5a6d5-c1e0-4529-9009-4be7fae82a6f
+**"If You Could Read My Mind" (1970) — Scaruffi 1970s** : #310, 7.0/10 Scaruffi.
+**"Summertime Dream" (1976) — Juno Awards: Album of the Year** : #1977.
+**"Endless Wire" (1978) — Juno Awards: Album of the Year** : #1979.

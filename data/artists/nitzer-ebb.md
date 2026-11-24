@@ -19,4 +19,4 @@
 **Key Artist in Spook Factory's Electronic Shift** : Nitzer Ebb's music was central to the evolution of Spook Factory's sound, as DJs Fran Lenaers and Tete steered the club's musical direction towards techno and EBM. This selection, alongside artists like Front 242, diversified the Ruta's offerings and drew in a new demographic interested in more electronic and avant-garde music. "Junto a su colaborador DJ Tete, Lenaers se inclinó a la balanza musical de la discoteca y de rebote de la ruta, a sonidos más cercanos al técno y al FM de Fran 2.4.2 o Nietzsche Rep." ← Cuando Valencia fue la capital mundial del Clubbing | https://www.youtube.com/watch?v=ckJgog8P_og
 
 ## lists
-**"Showtime" (1990) — Sputnikmusic Best Albums 1990** : #194, 3.76 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
+**"Showtime" (1990) — Sputnikmusic Best Albums 1990** : #194, 3.76 Sputnik.

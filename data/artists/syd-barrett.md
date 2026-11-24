@@ -52,5 +52,5 @@
 
 ## lists
 **"The Madcap Laughs" (1970) — 1001 Albums You Must Hear Before You Die** : #203.
-**"Barrett" (1970) — Scaruffi 1970s** : #22, 8.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Madcap Laughs" (1970) — Scaruffi 1970s** : #136. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Barrett" (1970) — Scaruffi 1970s** : #22, 8.5/10 Scaruffi.
+**"The Madcap Laughs" (1970) — Scaruffi 1970s** : #136.

@@ -7,6 +7,6 @@
 **Grand Cross of the Order of Polonia Restituta** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q15715257
 
 ## lists
-**"Danzig" (1988) — Scaruffi 1980s** : #344, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Danzig II: Lucifuge" (1990) — Sputnikmusic Best Albums 1990** : #21, 4.21 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"Danzig III: How The Gods Kill" (1992) — Sputnikmusic Best Albums 1992** : #59, 4.11 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"Danzig" (1988) — Scaruffi 1980s** : #344, 7.0/10 Scaruffi.
+**"Danzig II: Lucifuge" (1990) — Sputnikmusic Best Albums 1990** : #21, 4.21 Sputnik.
+**"Danzig III: How The Gods Kill" (1992) — Sputnikmusic Best Albums 1992** : #59, 4.11 Sputnik.

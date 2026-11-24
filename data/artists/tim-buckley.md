@@ -30,10 +30,10 @@
 **"Goodbye and Hello" (1967) — 1001 Albums You Must Hear Before You Die** : #86.
 **"Happy Sad" (1969) — 1001 Albums You Must Hear Before You Die** : #160, 8.0/10 Scaruffi.
 **"Greetings From L.A." (1972) — 1001 Albums You Must Hear Before You Die** : #260.
-**"Happy Sad" (1969) — AOTY Must Hear 1960s** : #17, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"Happy Sad" (1969) — Scaruffi 1960s** : #41, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Blue Afternoon" (1969) — Scaruffi 1960s** : #66, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Goodbye and Hello" (1967) — Scaruffi 1960s** : #67. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Lorca" (1970) — Scaruffi 1970s** : #14, 9.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Starsailor" (1970) — Scaruffi 1970s** : #24, 8.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Starsailor" (1970) — Pitchfork: The 100 Best Albums of the 1970s** : #50, 8.5/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
+**"Happy Sad" (1969) — AOTY Must Hear 1960s** : #17, 8.0/10 Scaruffi.
+**"Happy Sad" (1969) — Scaruffi 1960s** : #41, 8.0/10 Scaruffi.
+**"Blue Afternoon" (1969) — Scaruffi 1960s** : #66, 7.5/10 Scaruffi.
+**"Goodbye and Hello" (1967) — Scaruffi 1960s** : #67.
+**"Lorca" (1970) — Scaruffi 1970s** : #14, 9.0/10 Scaruffi.
+**"Starsailor" (1970) — Scaruffi 1970s** : #24, 8.5/10 Scaruffi.
+**"Starsailor" (1970) — Pitchfork: The 100 Best Albums of the 1970s** : #50, 8.5/10 Scaruffi.

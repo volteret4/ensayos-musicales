@@ -1,6 +1,8 @@
 # artist - Adam Clayton
 
 ## member of
+- Automatic Baby
+- Passengers
 - U2
 
 ## instruments
@@ -10,6 +12,7 @@
 **Anger at Bono Post-Live Aid (July 13, 1985)** : Adam Clayton expressed anger towards Bono after U2's Live Aid set due to Bono's "grandstanding" and inability to stick to the performance plan, which caused them to miss playing one of their songs. "The Edge, Larry and Adam were furious with Bono's grandstanding and his inability to stick with the plan." ← https://www.youtube.com/watch?v=2RKchFW42Jc ← adam-clayton
 **Inability to Perform in Sydney (1993)** : On November 26, 1993, Adam Clayton was scheduled to play the first of two nights at Sydney Football Stadium, a show intended as a rehearsal for a globally broadcast event. However, he was too intoxicated to take the stage, necessitating his bass tech, Edward Morgan, to fill in for him. "But Adam was way too drunk to be on stage." ← https://www.youtube.com/watch?v=ZVGnSVfed9s ← adam-clayton ← adam-clayton
 **Personal Struggles on Zoo TV Tour (1993)** : During U2's 1993 Zoo TV tour in Australia, bassist Adam Clayton was in distress following a breakup with model Naomi Campbell. His emotional state led to a three-day bender, which he later admitted to having little memory of after an initial two glasses of wine. "This player Adam Clayton was not doing well. He just broken up with model Naomi Campbell over the phone and was not in good shape." ← https://www.youtube.com/watch?v=ZVGnSVfed9s ← adam-clayton ← adam-clayton
+**U2 Rhythm Section's "Mission: Impossible Theme" (1996)** : As the bassist for U2, Adam Clayton, along with drummer Larry Mullen, covered Lalo Schifrin's "Mission: Impossible Theme," which became a top 10 instrumental hit in 1996. "bassist Adam Clayton and drummer Larry Mullin, helped launch Tom Cruise's Mission Impossible movie franchise." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Officer of the Order of Liberty** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q67155276

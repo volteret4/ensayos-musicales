@@ -18,6 +18,7 @@
 **Non-Stop Erotic Cabaret (1981)** : This album was released in 1981 and featured "Tainted Love" as a single. "They released it as a single from their non-stop erotic cabaret album in 1981." ← https://www.youtube.com/watch?v=yuA9Xor8vfw ← soft-cell
 
 ## songs
+**Say Hello, Wave Goodbye / Tainted Love (1981)** : Soft Cell's success exemplified a British Invasion principle of reimagining American music, specifically by mashing up an old Gloria Jones single with another old Supremes single. "Sabes Softsell, mashing up an old Gloria Jones single with another old Supreme's single." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Tainted Love (1981)** : A cover version of Gloria Jones's 1964 song, which became a massive global hit for the British duo in the 1980s. "Now, in the 80s, the British man Soft Sell had a massive global hit with their cover version." ← https://www.youtube.com/watch?v=dnQ1pNbIUjw ← soft-cell ← soft-cell
 **Tainted Love (1981)** : Released as a single from their album *Non-Stop Erotic Cabaret*, this cover became a massive hit, entering the charts on four different occasions over the next decade and selling millions of copies. The recording itself was completed relatively quickly, in just a day and a half. "It sold millions, which is not bad for recording that they banged off for a day and a half." ← https://www.youtube.com/watch?v=yuA9Xor8vfw ← soft-cell
 **Tainted Love (1981)** : A song considered a one-hit wonder under the standard top 40 definition. However, for fans, Soft Cell has many other songs popular on alt rock radio and live performances. "For example, we could look at soft sell and tainted love. That is considered to be a one-hit wonder under the standard top 40 definition." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M ← soft-cell
@@ -26,6 +27,9 @@
 **Tainted Love (1981)** : Ed Cobb wrote the song "Tainted Love" in just 15 minutes back in 1964, and he became the real financial winner from its enduring success, making a decent amount of money. "The real winner was a guy named Ed Cobb. Who's Ed Cobb? Well, he wrote the song in 15 minutes back in 1964." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← soft-cell ← soft-cell
 **Tainted Love (1981)** : The British duo Soft Cell's synth-pop classic, which was a cover of Gloria Jones's obscure 1964 Northern Soul B-side. Their 1981 version climbed to number eight on the Hot 100 in 1982 and notably became Soft Cell's only US hit. "Soft Cell's 1981 cover of Tainted Love climbed all the way to number eight on the Hot 100 in 1982. Soft Cell's only US hit." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
 **Tainted Love (1981)** : This synth-pop hit climbed into the top 10 by the end of summer 1982, after a slow, steady, six-month chart run, around the same time The Human League's "Don't You Want Me" was at number one. "While don't you want me to spend its three weeks at number one on the Hot 100, another synth pop hit climbed into the top 10 after a slow, steady, six-month chart run. Soft Cells aforementioned Tainted Love." ← Hit Parade Music History and Music Trivia > The British Are Charting Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f7a154465cd600c7ae7
+**Tainted Love (1982)** : This song, a cover of a Gloria Jones single, peaked at number eight in the summer of 1982. It was a substantial sleeper hit, maintaining a presence on the Hot 100 for 43 weeks, setting an all-time longevity record for the chart at that date. "Soft Cell's Tainted Love peaked at number eight in the summer of 1982, and it was a huge sleeper hit, spending 43 weeks on the Hot 100." ← Hit Parade Music History and Music Trivia > One and Done, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Tainted Love (1982)** : A technopop jam that became a one-hit wonder in America, reaching number eight on the Hot 100 in 1982. This song is itself a remake of Gloria Jones's 1965 Northern Soul classic, and its recording was sampled as the backbone for Rihanna's "SOS." "Soft Cells Smash, a one-hit wonder in America several times on Hit Parade. To recap, Soft Cells Technopop Jam is itself a remake of a 1965 Northern Soul classic by Gloria Jones." ← Hit Parade Music History and Music Trivia > Only Girl in the World Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**What? (1982)** : This was Soft Cell's next US single, which bubbled under the Hot 100, peaking at number 101 in the fall of 1982. It fell off Billboard's bubbling under chart even before "Tainted Love" departed the Hot 100. "Bubbled under the Hot 100, peaking at number 101 in the fall of 82." ← Hit Parade Music History and Music Trivia > One and Done, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Breakup Reason - Tainted Love's Shadow** : The immense success of "Tainted Love" became a burden, overshadowing all their other creative efforts and ultimately leading them to "give up" rather than continuously fight against its dominance. "It was such a big hit that it overshadowed everything else they tried to do. So rather than fight it, they just gave up." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← soft-cell ← soft-cell
@@ -41,6 +45,8 @@
 **Reunion Concert** : Soft Cell is currently experiencing renewed popularity due to an upcoming reunion concert, their first together in many years. Mark Almond has announced his return specifically for this performance, a factor that is likely being leveraged by this re-edition. "ahora finales este año van a dar su primer concierto juntos en mil años, desde que Mark Almond ha dicho que va a volver con un software para dar solo este concierto." ← Music Radar Clan > Record Store Day 2018. Resumen de lanzamientos. | https://www.youtube.com/watch?v=9xo1BWPOGk0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← soft-cell ← soft-cell
 **Reunion for Nightclub Opening (2001)** : The duo reunited on February 1, 2001, to mark the grand opening of a London nightclub named Ocean, after an interval of 17 years, eight months, and one day since their breakup. "On February 1st, 2001, they just gave up and announced a reunion to mark the grand opening of a nightclub in London called Ocean." ← https://www.youtube.com/watch?v=0hnBC0y59QA ← soft-cell ← soft-cell
 **Only US Hit** : "Tainted Love" (1981) was Soft Cell's sole US hit, an obscure 1964 Northern Soul B-side they transformed into a synth-pop classic, reaching number eight on the Hot 100 in 1982. "Soft Cell's only US hit." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4f1d64fe6d21276e0fab
+**US Chart Absence After "What?"** : After their single "What?" flopped, Soft Cell never again appeared on the US singles charts. "After What? Flopped, Soft Cell never returned to the US single's charts again." ← Hit Parade Music History and Music Trivia > One and Done, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Pure One-Hit Wonder Status** : Soft Cell is categorized as a "pure one-hit wonder" because they appeared on the Billboard Hot 100 only once with their hit "Tainted Love" and never charted again, making them part of a relatively short list of artists on VH1's countdown that fit this strict definition. "Gary newman and his fellow British synth pop act soft sell or what I like to call pure one hit wonders each of them hit the hot 100 just one time then never again." ← Hit Parade Music History and Music Trivia > One and Done, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Tainted Love" — Billboard Year-End Hot 100** : #11, 1982. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
@@ -50,15 +56,15 @@
 **"Third" (1970) — 1001 Albums You Must Hear Before You Die** : #193, 85 AOTY.
 **"Underwater Moonlight" (1980) — 1001 Albums You Must Hear Before You Die** : #458.
 **"Non‐Stop Erotic Cabaret" (1981) — 1001 Albums You Must Hear Before You Die** : #481.
-**"Third" (1970) — AOTY Must Hear 1970s** : #245, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Why Do The Heathen Rage?" (2014) — AOTY Must Hear 2010s** : #592, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Volume Two" (1969) — Scaruffi 1960s** : #195, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"3" (1970) — Scaruffi 1970s** : #11, 9.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"6" (1972) — Scaruffi 1970s** : #134, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"4" (1971) — Scaruffi 1970s** : #498, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Underwater Moonlight" (1980) — Scaruffi 1980s** : #19. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Soft Moon" (2010) — Scaruffi 2010s** : #78, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Heavy Jelly" (2024) — Kerrang! The 50 Best Albums of 2024** : #17. ← musicbrainz | https://beta.musicbrainz.org/series/bdba3ef9-ad91-42ef-a023-f5a2b552c74c
-**"The Soft Machine" (1968) — Pitchfork: The 200 Best Albums of the 1960s** : #182. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
-**"Dead Kids R.I.P. City" (2020) — Sputnikmusic Best Albums 2020** : #157, 3.81 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2020/
-**"Love Lives in the Body" (2022) — Sputnikmusic Best Albums 2022** : #141, 3.8 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2022/
+**"Third" (1970) — AOTY Must Hear 1970s** : #245, 85 AOTY.
+**"Why Do The Heathen Rage?" (2014) — AOTY Must Hear 2010s** : #592, 81 AOTY.
+**"Volume Two" (1969) — Scaruffi 1960s** : #195, 7.0/10 Scaruffi.
+**"3" (1970) — Scaruffi 1970s** : #11, 9.0/10 Scaruffi.
+**"6" (1972) — Scaruffi 1970s** : #134, 7.5/10 Scaruffi.
+**"4" (1971) — Scaruffi 1970s** : #498, 7.0/10 Scaruffi.
+**"Underwater Moonlight" (1980) — Scaruffi 1980s** : #19.
+**"The Soft Moon" (2010) — Scaruffi 2010s** : #78, 7.5/10 Scaruffi.
+**"Heavy Jelly" (2024) — Kerrang! The 50 Best Albums of 2024** : #17.
+**"The Soft Machine" (1968) — Pitchfork: The 200 Best Albums of the 1960s** : #182.
+**"Dead Kids R.I.P. City" (2020) — Sputnikmusic Best Albums 2020** : #157, 3.81 Sputnik.
+**"Love Lives in the Body" (2022) — Sputnikmusic Best Albums 2022** : #141, 3.8 Sputnik.

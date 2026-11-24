@@ -54,5 +54,5 @@
 **"Call Me When You're Sober" — Billboard Year-End Hot 100** : #77, 2006. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Origin" (2000) — Scaruffi 2000s** : #358, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Fallen" (2003) — Grammy Award: Album of the Year nominees** : #2004. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
+**"Origin" (2000) — Scaruffi 2000s** : #358, 7.0/10 Scaruffi.
+**"Fallen" (2003) — Grammy Award: Album of the Year nominees** : #2004.

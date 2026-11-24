@@ -27,4 +27,4 @@
 **"Spill the Wine" — Billboard Year-End Hot 100** : #20, 1970. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Twain Shall Meet" (1968) — Scaruffi 1960s** : #50, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Twain Shall Meet" (1968) — Scaruffi 1960s** : #50, 7.5/10 Scaruffi.

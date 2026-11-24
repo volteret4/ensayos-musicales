@@ -2,8 +2,10 @@
 
 ## member of
 - N.W.A
+- West Coast Rap All-Stars
 
 ## genres
+- Gangster Rap
 - Hip Hop
 - Rap
 
@@ -12,10 +14,16 @@
 
 ## albums
 **The Chronic (1992)** : This multi-platinum album was released in 1992 by Death Row Records after Dr. Dre left N.W.A. "over money." It became a landmark album that reshaped West Coast hip hop and featured the prominent diss track "Dre Day," aimed at Eazy-E. "Death Row Records, which issued his multi-platinum 1992 album The Chronic." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+**The Chronic (1992)** : Dr. Dre's album was a watershed moment in gangster rap, maintaining the edginess of his former group N.W.A. while sweetening tales of South Central LA with melodic keyboards and samples of smoky 1970s R&B. It also featured the inimitable flow of a then-teenager, Snoop Dogg. "Dr. Dre's album The Chronic was a watershed in gangster rap." ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## songs
+**California Love (1995)** : Dr. Dre and Tupac invited Zapp's Roger Troutman to add vocoder-style talk box to this smash hit, demonstrating an embrace of vocal manipulation within hip-hop. "Tupac and Dr. Dre invited Zap's Roger Troutman to throw some Vicoder-style talk box over their smash California love." ← Hit Parade Music History and Music Trivia > Say My Name, Say My Name, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**California Love (1995)** : Dr. Dre collaborated with Tupac on this chart-topping gangster rap track in the 1990s. "Tupac and Dre." ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 **Dre Day (1992)** : Featured on his 1992 album "The Chronic," this track was a direct diss aimed at Eazy-E after Dr. Dre left N.W.A. Its full title on the CD is "Fuck Wit Dre Day (And Everybody's Celebratin')." This menacing track achieved historic chart success, making it the first rap diss record to reach the pop top 10. "In response, Dre took aim at EZ on the Chronic Track Dre Day, whose full title on the Chronic CD, by the way, is, ehem, fuck with Dre Day and everybody's celebrating." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
 **Dre Day (1993)** : This was a hit beef record released in 1993, specifically targeting Dr. Dre's former NWA bandmate, Eazy-E. Snoop Dogg is mentioned as using the word "diss" in the song. "Dr. Dre's hit 1993 beef record against his former NWA bandmate Easy." ← Hit Parade Music History and Music Trivia > Here’s the Beef Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef3154465cd600c4ef5
+**No Diggity (1996)** : Dr. Dre was featured on Blackstreet's 1996 hit "No Diggity." This track is an example of the "featured bridge rapper" model, where a rapper's contribution serves as extra spice on the record. "Black Streets 1996 hit No Diggity featuring Dr. Dre and Queen Penn." ← Hit Parade Music History and Music Trivia > The Feat. Don’t Fail Me Now Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Nuthin' but a 'G' Thang (1992)** : Dr. Dre's breakthrough hit reached number two on pop charts and number one on R&B charts in the spring of 1993. Sonically, it differed significantly from the sounds of Arrested Development and Sir Mix-A-Lot but was part of the trend where gangster rap, following acts that opened up top 40 playlists, could top charts without compromising its sound or subject matter. "Sonicly, Dr. Dre's breakthrough hit Nothing But A G-Thang, a number two pop, number one R&B hit in the spring of 1993, had little to do with the sound of either arrested development or surmix a lot." ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**We Are All in the Same Gang (1990)** : Dr. Dre of N.W.A. produced "We Are All in the Same Gang," the anti-violence record by the West Coast Rap All-Stars. His production was key to the success of this project in the East Coast vs. West Coast charity single competition. "N.W.A.'s Dr. Dre produced his own anti-violence record." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **New Generation of Hip Hop Artists** : As a member of a new generation of hip hop artists emerging in the late 1980s, doctor Dree, then around 22 years old, sought to express and vindicate the real-life situations experienced in Afro-American suburbs. This generation appeared approximately 10 years after the initial hip hop recordings, signifying a notable generational shift from older, more established artists. "Esas nuevas generaciones que aparecen, ya valen 22 años, que tenían, pues, que tenían Dr. Dreodilla y Heila." ← Music Radar Clan > NWA y el inicio del Gangsta Rap. Las letras polémicas no son nuevas. | https://www.youtube.com/watch?v=uDNhX_fP3vM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← doctor-dree ← doctor-dree
@@ -32,6 +40,10 @@
 **New Generation of Hip Hop Artists** : As a member of a new generation of hip hop artists emerging in the late 1980s, doctor Dree, then around 22 years old, sought to express and vindicate the real-life situations experienced in Afro-American suburbs. This generation appeared approximately 10 years after the initial hip hop recordings, signifying a notable generational shift from older, more established artists. "Esas nuevas generaciones que aparecen, ya valen 22 años, que tenían, pues, que tenían Dr. Dreodilla y Heila." ← Music Radar Clan > NWA y el inicio del Gangsta Rap. Las letras polémicas no son nuevas. | https://www.youtube.com/watch?v=uDNhX_fP3vM&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← doctor-dree
 **Early 90s Grammy Winner** : Dr. Dre was among the early 90s rap artists who received Grammys, indicating a gradual improvement in the Recording Academy's recognition of rap music. "Early 90s winners included LL Cool J, Dr. Dre, and Queen Latifa." ← Hit Parade Music History and Music Trivia > And the Grammy Goes to… Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4eef154465cd600c4ddc
 **Departure from N.W.A. (Year Unknown)** : Dr. Dre "left N.W.A., also over money," following a path similar to Ice Cube's. He subsequently signed with Death Row Records, which released his seminal 1992 album, "The Chronic," marking a new chapter in his career and fueling further conflict with Eazy-E. "Eventually, Dr. Dre also left NWA, also over money, and signed to Death Row Records, which issued his multi-platinum 1992 album The Chronic." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+**Chart Competition with Prince (1990s)** : Prince found it difficult to compete "toe-to-toe on the charts" with artists like Dr. Dre during the 1990s, amidst the rise of hip-hop and gangster rap in Top 40 radio. "Perhaps Prince would not be able to go toe-to-toe on the charts with the gangster likes of Ice Cube and Dr. Dre" ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Career Launch (1992)** : Dr. Dre's rapping career was launched through his appearance on the soundtrack to 1992's "Deep Cover," which also featured reggae fusion artists like Shabba Ranks and presented gangsta rap alongside modernized dancehall. "The album that launched the rapping careers of Dr. Dre and Snoop Doggie Dog." ← Hit Parade Music History and Music Trivia > Say My Name, Say My Name, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Hardcore Rap Crossover (Post-The Chronic)** : Following the success of "The Chronic" and its breakthrough hit, hardcore rap no longer needed to compromise its sound or subject matter to achieve crossover appeal. "After Dr. Dre, hardcore rap no longer needed to compromise its sound, or even its subject matter to crossover." ← Hit Parade Music History and Music Trivia > The Oh. My. God. Becky Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Connection to Warren G** : Dr. Dre is mentioned as the "gangster superstar" stepbrother of Warren G, establishing a familial link between prominent West Coast hip-hop figures. This provides context for Warren G's musical background. "West Coast rapper Warren G, a stepbrother of gangster superstar Dr. Dre" ← Hit Parade Music History and Music Trivia > What a Fool Believes, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **American Music Award for Favorite Rap/Hip-Hop Artist (2001)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q19858088
@@ -47,9 +59,9 @@
 
 ## lists
 **"The Chronic" (1992) — 1001 Albums You Must Hear Before You Die** : #717, 96 AOTY.
-**"2001" (1999) — AOTY Must Hear 1990s** : #5, 79 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"The Chronic" (1992) — AOTY Must Hear 1990s** : #352, 96 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"The Chronic" (1992) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #37, 96 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"The Chronic" (1992) — Scaruffi 1990s** : #624, 96 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Chronic" (1992) — Pitchfork: The 150 Best Albums of the 1990s** : #24, 96 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"The Chronic" (1992) — Sputnikmusic Best Albums 1992** : #37, 96 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"2001" (1999) — AOTY Must Hear 1990s** : #5, 79 AOTY.
+**"The Chronic" (1992) — AOTY Must Hear 1990s** : #352, 96 AOTY.
+**"The Chronic" (1992) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #37, 96 AOTY.
+**"The Chronic" (1992) — Scaruffi 1990s** : #624, 96 AOTY.
+**"The Chronic" (1992) — Pitchfork: The 150 Best Albums of the 1990s** : #24, 96 AOTY.
+**"The Chronic" (1992) — Sputnikmusic Best Albums 1992** : #37, 96 AOTY.

@@ -34,4 +34,4 @@
 **Peak Period (Late 80s/Early 90s)** : Their most successful period occurred in the late 1980s and early 1990s. "Their best days were in the late 80s and early 90s." ← https://www.youtube.com/watch?v=EE8U4yyKtd0 ← the-pursuit-of-happiness
 
 ## lists
-**"The Downward Road" (1993) — Scaruffi 1990s** : #1062, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"The Downward Road" (1993) — Scaruffi 1990s** : #1062, 7.0/10 Scaruffi.

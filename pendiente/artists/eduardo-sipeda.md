@@ -1,0 +1,6 @@
+# artist - Eduardo Sipeda
+
+## curiosities
+**Professional Roles** : Eduardo Sipeda is a Mexican American writer and the music editor at the Latin media site, Rameshla. He spent years as a touring musician and DJ. "Eduardo Sipeda, a Mexican American writer and the music editor at the Latin media site, Rameshla." ← Hit Parade Music History and Music Trivia > The Bridge - Hits Don’t Lie | https://my.slate.com/podcasts/feeds/hit-parade/
+**Entrepreneurial Ventures** : He founded Mother of Pearl, which began as a record store and later expanded to become a label, a music festival, and a marketing agency. "Eduardo spent years as a touring musician and DJ and eventually founded Mother of Pearl, a record store that went on to become a label, a music festival and a marketing agency." ← Hit Parade Music History and Music Trivia > The Bridge - Hits Don’t Lie | https://my.slate.com/podcasts/feeds/hit-parade/
+**Personal Life and Geography** : Eduardo splits his time between Brooklyn and Brookline and has a five-year-old child who enjoys dancing to "La Romana." "He splits his time between Brooklyn and Brookline and has a five-year-old who loves dancing to La Romana." ← Hit Parade Music History and Music Trivia > The Bridge - Hits Don’t Lie | https://my.slate.com/podcasts/feeds/hit-parade/

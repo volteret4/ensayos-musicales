@@ -11,5 +11,5 @@
 **"523" — NME Chart** : 2 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
 
 ## lists
-**"Il buono, il brutto, il cattivo" (1966) — Pitchfork: The 200 Best Albums of the 1960s** : #200. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
-**"The Mission Soundtrack" (1992) — Sputnikmusic Best Albums 1992** : #43, 4.17 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"Il buono, il brutto, il cattivo" (1966) — Pitchfork: The 200 Best Albums of the 1960s** : #200.
+**"The Mission Soundtrack" (1992) — Sputnikmusic Best Albums 1992** : #43, 4.17 Sputnik.

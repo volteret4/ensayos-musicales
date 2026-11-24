@@ -1,5 +1,8 @@
 # artist - Miles Davis
 
+## member of
+- Artists United Against Apartheid
+
 ## genres
 - Bebop
 - Jazz
@@ -14,6 +17,7 @@
 
 ## songs
 **Flamenco Sketches (1959)** : This track closes Miles Davis's revolutionary 1959 album *Kind of Blue*, demonstrating an early incorporation of flamenco elements into his jazz work. "el cual cierra con un tema titulado Flamenco Esqueches." ← Cómo el Flamenco Influyó a Músicos Extranjeros (Y Quizá No Lo Notaste) | https://www.youtube.com/watch?v=9ReRvRfbHec
+**Sun City (1985)** : Miles Davis, a jazz great, was among the diverse array of music stars who contributed to "Sun City" by Artists United Against Apartheid. His inclusion underscored the project's broad appeal across genres. "Lou Reed to Miles Davis" ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Artistic Consistency and Evolution** : Don Was used Miles Davis as an example of an artist who maintained his core identity while constantly evolving his sound. He noted that whether Miles played with an electric band, on "Kind of Blue," or with Herbie, Wayne, Tony, and Ron, "he always sounded like Miles." This approach of changing textures to keep things interesting for himself was compared to Nora Jones' own artistic development. "You know, if you listen to Miles, whether it's with an electric band or whether it's on kind of blue or in the Herbie Wayne Tony Ron band, you know, he always sounded like Miles." ← Hit Parade Music History and Music Trivia > Introducing Broken Record - Norah Jones Begins Again | https://shows.acast.com/hit-parade/episodes/695d4f1264fe6d21276e0cbc
@@ -22,6 +26,8 @@
 **Influence on German Music** : The modern jazz of artists like Miles Davis had an impact on the developing German music scene, which was integrating elements of jazz and rock with avant-garde and psychedelic sounds. "the modern jazz of artists like Miles Davis." ← https://www.youtube.com/watch?v=ePZDkqLM_gw ← miles-davis ← miles-davis
 **Personal Friend of Sy Kravitz** : Miles Davis was listed among the personal friends of Sy Kravitz, Lenny Kravitz's father, who was a jazz promoter. "And a sometimes jazz promoter who listed Elefits Gerald, Miles Davis, and Duke Ellington as personal friends." ← https://www.youtube.com/watch?v=PdCAjFW04Oc ← miles-davis
 **Pioneer of Bebop Jazz** : Miles Davis was a significant figure in the bebop movement, a challenging and highly virtuosic form of jazz that emphasized improvisation among musicians. Bebop's complex nature moved jazz in a new direction, away from the more structured, dance-oriented big band sound. "Charlie Parker, Sonny Rollins, Dexter Gordon, Miles Davis, Dizzy Gillespie, Thelonius Monk. Their work helped put the nail in the coffin of the big bands." ← https://www.youtube.com/watch?v=V7WjNR1ujhk ← miles-davis
+**Cover of "Time After Time"** : Jazz legend Miles Davis began incorporating Cyndi Lauper and Rob Hyman's song "Time After Time" into his sets as early as 1985, underscoring its rapid recognition as a new standard. "Jazz Legend Miles Davis, who was including it in his sets as early as 1985." ← Hit Parade Music History and Music Trivia > Be the One to Walk in the Sun, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Jazz Great on "Back on the Block"** : Miles Davis, a revered "jazz great," was featured on Quincy Jones's 1989 album "Back on the Block," where his contributions were innovatively mixed with those of rappers like Kool Moe Dee and Big Daddy Kane. "One track found him mixing jazz grates like Miles Davis and Sarah Vaughn with rappers Cool Modee and Big Daddy Kane." ← Hit Parade Music History and Music Trivia > I Wanna Rock with Q. Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **MOJO Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3319330
@@ -39,23 +45,23 @@
 **"Kind of Blue" (1959) — 1001 Albums You Must Hear Before You Die** : #21, 100 AOTY.
 **"In a Silent Way" (1969) — 1001 Albums You Must Hear Before You Die** : #145, 100 AOTY.
 **"Bitches Brew" (1970) — 1001 Albums You Must Hear Before You Die** : #176, 100 AOTY.
-**"Workin' With The Miles Davis Quintet" (1959) — AOTY Must Hear 1950s** : #2, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1950s/
-**"Kind of Blue" (1959) — AOTY Must Hear 1950s** : #6, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1950s/
-**"Milestones" (1958) — AOTY Must Hear 1950s** : #10, 90 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1950s/
-**"'Round About Midnight" (1957) — AOTY Must Hear 1950s** : #15, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1950s/
-**"Birth of the Cool" (1957) — AOTY Must Hear 1950s** : #16, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1950s/
-**"In a Silent Way" (1969) — AOTY Must Hear 1960s** : #16, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"Sketches of Spain" (1960) — AOTY Must Hear 1960s** : #97, 96 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"Get Up With It" (1974) — AOTY Must Hear 1970s** : #112, 89 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"On the Corner" (1972) — AOTY Must Hear 1970s** : #167, 85 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Jack Johnson (Original Soundtrack Recording)" (1971) — AOTY Must Hear 1970s** : #219, 98 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Bitches Brew" (1970) — AOTY Must Hear 1970s** : #249, 100 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Kind of Blue" (1959) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #31, 100 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Bitches Brew" (1970) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #87, 100 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Bitches Brew" (1970) — Pitchfork: The 100 Best Albums of the 1970s** : #18, 100 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"On the Corner" (1972) — Pitchfork: The 100 Best Albums of the 1970s** : #30, 85 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"Live‐Evil" (1971) — Pitchfork: The 100 Best Albums of the 1970s** : #48. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"Jack Johnson" (1971) — Pitchfork: The 100 Best Albums of the 1970s** : #58. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"In a Silent Way" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #9, 100 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
-**"Sketches of Spain" (1960) — Pitchfork: The 200 Best Albums of the 1960s** : #43, 96 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
-**"Nefertiti" (1968) — Pitchfork: The 200 Best Albums of the 1960s** : #116. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Workin' With The Miles Davis Quintet" (1959) — AOTY Must Hear 1950s** : #2, 100 AOTY.
+**"Kind of Blue" (1959) — AOTY Must Hear 1950s** : #6, 100 AOTY.
+**"Milestones" (1958) — AOTY Must Hear 1950s** : #10, 90 AOTY.
+**"'Round About Midnight" (1957) — AOTY Must Hear 1950s** : #15, 100 AOTY.
+**"Birth of the Cool" (1957) — AOTY Must Hear 1950s** : #16, 100 AOTY.
+**"In a Silent Way" (1969) — AOTY Must Hear 1960s** : #16, 100 AOTY.
+**"Sketches of Spain" (1960) — AOTY Must Hear 1960s** : #97, 96 AOTY.
+**"Get Up With It" (1974) — AOTY Must Hear 1970s** : #112, 89 AOTY.
+**"On the Corner" (1972) — AOTY Must Hear 1970s** : #167, 85 AOTY.
+**"Jack Johnson (Original Soundtrack Recording)" (1971) — AOTY Must Hear 1970s** : #219, 98 AOTY.
+**"Bitches Brew" (1970) — AOTY Must Hear 1970s** : #249, 100 AOTY.
+**"Kind of Blue" (1959) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #31, 100 AOTY.
+**"Bitches Brew" (1970) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #87, 100 AOTY.
+**"Bitches Brew" (1970) — Pitchfork: The 100 Best Albums of the 1970s** : #18, 100 AOTY.
+**"On the Corner" (1972) — Pitchfork: The 100 Best Albums of the 1970s** : #30, 85 AOTY.
+**"Live‐Evil" (1971) — Pitchfork: The 100 Best Albums of the 1970s** : #48.
+**"Jack Johnson" (1971) — Pitchfork: The 100 Best Albums of the 1970s** : #58.
+**"In a Silent Way" (1969) — Pitchfork: The 200 Best Albums of the 1960s** : #9, 100 AOTY.
+**"Sketches of Spain" (1960) — Pitchfork: The 200 Best Albums of the 1960s** : #43, 96 AOTY.
+**"Nefertiti" (1968) — Pitchfork: The 200 Best Albums of the 1960s** : #116.

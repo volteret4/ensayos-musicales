@@ -27,12 +27,12 @@
 ## lists
 **"McCartney" (1970) — 1001 Albums You Must Hear Before You Die** : #201.
 **"Band on the Run" (1973) — 1001 Albums You Must Hear Before You Die** : #294.
-**"Band on the Run" (1973) — AOTY Must Hear 1970s** : #131. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Ram" (1971) — AOTY Must Hear 1970s** : #211, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Chaos and Creation in the Backyard" (2005) — AOTY Must Hear 2000s** : #236, 74 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Band on the Run" (1973) — Grammy Award: Album of the Year nominees** : #1975. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Tug of War" (1982) — Grammy Award: Album of the Year nominees** : #1983. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Flaming Pie" (1997) — Grammy Award: Album of the Year nominees** : #1998, 3.94 Sputnik. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Chaos and Creation in the Backyard" (2005) — Grammy Award: Album of the Year nominees** : #2006, 74 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"McCartney II" (1980) — Pitchfork: The 200 Best Albums of the 1980s** : #186. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
-**"Flaming Pie" (1997) — Sputnikmusic Best Albums 1997** : #184, 3.94 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
+**"Band on the Run" (1973) — AOTY Must Hear 1970s** : #131.
+**"Ram" (1971) — AOTY Must Hear 1970s** : #211, 80 AOTY.
+**"Chaos and Creation in the Backyard" (2005) — AOTY Must Hear 2000s** : #236, 74 AOTY.
+**"Band on the Run" (1973) — Grammy Award: Album of the Year nominees** : #1975.
+**"Tug of War" (1982) — Grammy Award: Album of the Year nominees** : #1983.
+**"Flaming Pie" (1997) — Grammy Award: Album of the Year nominees** : #1998, 3.94 Sputnik.
+**"Chaos and Creation in the Backyard" (2005) — Grammy Award: Album of the Year nominees** : #2006, 74 AOTY.
+**"McCartney II" (1980) — Pitchfork: The 200 Best Albums of the 1980s** : #186.
+**"Flaming Pie" (1997) — Sputnikmusic Best Albums 1997** : #184, 3.94 Sputnik.

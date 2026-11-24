@@ -13,4 +13,4 @@
 **Self-Described Genre** : The Nova Twins categorize their distinctive musical style as "urban punk." "and they call what they do, urban punk." ← https://www.youtube.com/watch?v=_1NNvxgx8uA ← nova-twins ← nova-twins
 
 ## lists
-**"Supernova" (2022) — Kerrang! The 50 Best Albums of 2022** : #1. ← musicbrainz | https://beta.musicbrainz.org/series/bba4a66d-575e-4b6e-8447-233ad23a8f51
+**"Supernova" (2022) — Kerrang! The 50 Best Albums of 2022** : #1.

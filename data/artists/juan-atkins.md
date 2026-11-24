@@ -45,4 +45,4 @@
 **Metroplex Founding (1985)** : In 1985, Juan Atkins established Metroplex, the first record label dedicated to techno music. "él hizo la primera discográfica de música de techno en 1985 Metroplex." ← Music Radar Clan > La historia del TECHNO en DETROIT. Cómo la música salvó a una ciudad atrapada | https://www.youtube.com/watch?v=fUSnylLtzig&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← juan-atkins
 
 ## lists
-**"Deep Space" (1995) — Scaruffi 1990s** : #817, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Deep Space" (1995) — Scaruffi 1990s** : #817, 7.0/10 Scaruffi.

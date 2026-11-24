@@ -1,8 +1,15 @@
 # artist - The Vapors
 
+## members
+- David Fenton
+
 ## genres
 - New Wave
 - Powerpop
+- Pub rock
+
+## instruments
+- Guitar
 
 ## albums
 **Magnets (1981)** : The front cover of this album by The Vapors features early artwork by Martin Hanford, the creator of the *Where's Waldo* books, and is said to contain a hidden assassin. "track down an album called Magnets by the Vapers. See if you can find the hidden assassin on the front cover." ← https://www.youtube.com/watch?v=72Lei7uug8c ← the-vapors
@@ -10,7 +17,9 @@
 
 ## songs
 **Turning Japanese (1980)** : Released in spring 1980 from the album "New Clear Days." The song tells the story of songwriter David Fenton's infatuation with a photo of his girlfriend. John Weller, father and manager of Paul Weller of The Jam, pushed for The Vapors to record it, which happened after several rejections. It became a global hit, reaching number 36 on the Billboard Top 40, number one in Australia, number three in the UK, and number six in Canada. Its music video was one of the first 200 videos played on MTV when it launched on August 1, 1981. It has been covered by Kirsten Dunst and a lounge-style version was performed by Rick Moranis as his character Tom and Rowe on "Second City TV." As of February 2026, it had 50.7 million Spotify plays and 8.5 million YouTube views, totaling 59.2 million, with a One Hit Wonder Power Ranking of 4.33 out of 10. "It tells the story of songwriter David Fenton getting all gushy over a photo of his girlfriend." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M ← the-vapors
+**Turning Japanese (1980)** : This song reached number 36 in 1980 and was led by guitarist David Fenton. It was described as a "purportedly lurid and politically incorrect" track. "reached number 36 in 1980 with the purportedly lured and politically incorrect turning Japanese." ← Hit Parade Music History and Music Trivia > One and Done, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **New Wave Powerpop** : The Vapors are mentioned as a band contributing to the new wave iteration of Powerpop. Their sound, like other contemporaries, demonstrated how Powerpop's core elements were adopted and adapted within the burgeoning alternative rock scene. "We can probably include the jam, the smiths, XTC, squeeze, and the vapors." ← https://www.youtube.com/watch?v=hstJ8M2laho ← the-vapors ← the-vapors
 **Post-Breakup Reformation** : The Vapors broke up in 1982 but reformed in 2016 and were still playing gigs as of the transcript's date, without achieving any further significant hits. "Well they broke up in 1982, but reformed in 2016 and are still playing gigs." ← https://www.youtube.com/watch?v=ZcF5JMhBj2M ← the-vapors
+**Lurid and Politically Incorrect Reputation** : "Turning Japanese" by The Vapors was noted for being a "purportedly lurid and politically incorrect" song. "reached number 36 in 1980 with the purportedly lured and politically incorrect turning Japanese." ← Hit Parade Music History and Music Trivia > One and Done, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/

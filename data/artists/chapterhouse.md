@@ -17,5 +17,5 @@
 **Genre Blending** : The band's music is noted for blending elements of both shoegaze and dreampop, making it possible for individual songs to be categorized in either genre depending on critical interpretation. "my blood y balanta y en action sugar y hacia dreampop, pues yo creo que hacían los dos, dependiendo del diario, dependiendo de la canción podemos meterla en un lado." ← Music Radar Clan > DREAM POP y SHOEGAZE. Diferencias entre ellos. | https://www.youtube.com/watch?v=75cEjgxTR3U&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← chapterhouse ← chapterhouse
 
 ## lists
-**"Whirlpool" (1991) — AOTY Must Hear 1990s** : #402, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Whirlpool" (1991) — Pitchfork: The 50 Best Shoegaze Albums of All Time** : #17, 80 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/cd0eaf20-0895-4745-aefe-2c5e00084827
+**"Whirlpool" (1991) — AOTY Must Hear 1990s** : #402, 80 AOTY.
+**"Whirlpool" (1991) — Pitchfork: The 50 Best Shoegaze Albums of All Time** : #17, 80 AOTY.

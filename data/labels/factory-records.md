@@ -36,6 +36,7 @@
 **The Haçienda Management and Serial Numbers (1982-1997)** : Factory Records, headed by Tony Wilson, was the label behind New Order and the concept originator for The Haçienda nightclub. Like all its projects, the club was given a serial number, FAC51, underscoring its integrated role within the label's artistic and business ventures. "Anyway, like all factory projects and record releases, it had a serial number. FAC51, FAC51." ← https://www.youtube.com/watch?v=2RKchFW42Jc ← factory-records
 **Tony Wilson's Character** : Tony Wilson, the head of Factory Records, was described as more of an artist and a supporter of artists than a shrewd businessman. "Tony wasn't the greatest businessman. He was, he was an artist and a supporter of the artist." ← https://www.youtube.com/watch?v=KF_adyXf86Q ← factory-records
 **Tony Wilson's Role** : Tony Wilson, associated with Factory Records, was a proponent of the theory that rock and pop music are engaged in a death struggle, playing out in cycles. His involvement lends credibility to historical observations about the cyclical nature of music trends. "That theory contends that rock and pop music are locked in a death struggle that plays itself out like clockwork every 13 years." ← https://www.youtube.com/watch?v=-CT7yYXonIk ← factory-records
+**Madchester Influence** : Tony Wilson, owner of Factory Records, co-founded The Hacienda, the epicenter of the Madchester scene, and discovered Happy Mondays, demonstrating the label's pivotal role in the movement. "The epicenter of the Madchester scene was the club The Hacienda, co-founded by factory records owner Tony Wilson and Manchester band New Order." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Cabaret Voltaire
@@ -45,4 +46,3 @@
 - Joy Division
 - New Order
 - Orchestral Manoeuvres in the Dark
-

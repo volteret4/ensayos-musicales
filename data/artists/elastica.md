@@ -7,10 +7,20 @@
 - Justine Frischmann
 
 ## genres
+- Alternative Rock
+- Art Punk
 - Britpop
 - New Wave of New Wave
+- Post-Punk
+- Punk
+- UK indie
+
+## labels
+- Deceptive Records
+- Geffen Records
 
 ## concerts
+- Lollapalooza Festival (1995)
 - Trainspotting
 
 ## albums
@@ -19,15 +29,22 @@
 **Elastica (1995)** : Released in 1995, this album quickly became the fastest-selling debut record since the first Oasis album released the previous year. "When that first record came out, it became the fastest-selling debut record since the first oasis album the year before." ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← elastica
 **Elastica (1995)** : This self-titled debut album was described as "fresh, fun, and very good," contributing to Elastica becoming a favorite target of coverage for the British music media. "And it didn't hurt that elastic as debut album was also fresh, fun, and very good." ← https://www.youtube.com/watch?v=5q5EnZj1FwE ← elastica
 **Elastica (1995)** : Elastica's debut album, released in March 1995, was characterized as fresh, fun, good, and familiar-sounding. It contributed significantly to the Britpop movement, with a single from the album having been released in November 1994. "Elastica's debut album was also fresh, very fun, and very good, and also familiar soundings." ← https://www.youtube.com/watch?v=vzyMSSlD7Yg ← elastica
+**Elastica (1995)** : This self-titled debut album was released after the single "Waking Up" and entered the British album chart at number one. Its opening sales eclipsed Oasis's "Definitely Maybe" as the fastest-selling British debut album in history to that date. It also went gold in America, propelled by the success of "Connection." "Elastica, like Park Life and Definitely Maybe before it, entered the British album chart at number 1." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Elastica (1995)** : This acclaimed debut album was followed by a significant hiatus due to drug addictions affecting multiple members, including Justine Frischmann. "Elastica took more than half a decade to follow their acclaimed 1995 debut, as drug addictions racked multiple members of the group, including Justine Fischman." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **The Menace (2000)** : This album was released in the spring of 2000 after a long wait from fans, but by then Britpop had faded, the songs were perceived as lacking, and sales were dismal. The band announced an amicable breakup shortly after. "Finally, a record called The Menace showed up in the spring of 2000." ← https://www.youtube.com/watch?v=7jMfH9xAOpI ← elastica
+**Second Album (2000)** : A revamped lineup eventually released their second album in 2000, which received respectful reviews but achieved much lower sales compared to their debut. "A revamped elastic lineup finally released a second album in 2000 to respectful reviews and much lower sales." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## songs
 **Connection (1994)** : Released in 1994, this song sounded notably similar to Wire's 1977 track "Three Girl Rumba." Elastica's leader, Justine Frieshmund, admitted to deliberately "nicking" elements of Wire's song, leading to a settlement where Elastica surrendered a portion of their first album's royalties to Wire. "Elastica with connection from 1994, which sounded awfully similar to Three Girl Rumbaw from Wire, which was recorded in 1977." ← https://www.youtube.com/watch?v=L09R2evjyMc ← elastica
+**Connection (1995)** : Released in May 1995, this single rose to number two on Billboard's Modern Rock Tracks Chart and was ubiquitous on US alternative radio, even crossing over to top 40 pop stations. It featured a danceable beat and punk attitude and was considered a cheeky homage to previous waves of British art punk, borrowing its rhythmic hook from Wire's "3-Girl Rumba." "Connection by the band Elastica, rose to number two on Billboard's Modern Rock Tracks Chart." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Line Up (1994)** : Released in the winter of 1994, this follow-up single cracked the UK Top 20. It showcased the band's distinctive sound, which heavily borrowed from late 70s post-punk bands like Wire and The Stranglers, leading to feverish excitement for their debut album. "Line Up cracked the UK Top 20 and prompted feverish excitement for an Elastica debut album." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Stutter (1993)** : Released in late 1993, this song showcased similarities to original 1970s new wave music. Elastica's strong admiration for earlier new wave sounds led them to be sued twice for appropriating parts of old songs. "Elastica from late 1993 with Stutter, note the similarities between that song and some of the original 70s new wave." ← https://www.youtube.com/watch?v=9CNNsqXiL6U ← elastica
 **Stutter (1993)** : A single from Elastica's self-titled debut album, released in January 1994, more than a year before the album itself. "A single by elastica from their self-titled debut album, the song came out in January 1994, more than a year before the album came out." ← https://www.youtube.com/watch?v=5q5EnZj1FwE ← elastica
 **Stutter (1993)** : This song is featured on Elastica's 1995 debut record, showcasing the band's signature sound led by Justine Frischmann. "Elastica led by Justine Friesman and that stutter from their 1995 debut record." ← https://www.youtube.com/watch?v=Eo32mAZd8DI ← elastica
+**Stutter (1993)** : This punky debut single was released in the fall of 1993 to near instant acclaim, marking Elastica's first major release. "The Punky Stutter arrived in the fall of 1993 to near instant acclaim." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Waking Up (1995)** : This song from Elastica's debut album was found to sound very similar to The Stranglers' 1977 song "No More Heroes." As a result, The Stranglers were awarded a piece of the royalties from Elastica's first album. "The Stranglers... noticed that the Elastica song Waking Up sounded awfully like one of their songs from 1977 called No More Heroes." ← https://www.youtube.com/watch?v=L09R2evjyMc ← elastica
 **Waking Up (1995)** : This Elastica song sounded "awfully like" The Stranglers' 1977 song "No More Heroes." The similarity resulted in "a piece of that first Elastica album" being awarded to The Stranglers, described as a case of "well-intentioned theft." "The Stranglers, a British band that was formed in 1974, noticed that the Elastica song waking up sounded awfully like one of their songs from 1977 called No More Heroes." ← https://www.youtube.com/watch?v=rfObVld9rIE ← elastica
+**Waking Up (1995)** : This single became Elastica's biggest UK hit to date, reaching number 13. Its success paved the way for the release of their highly anticipated debut album shortly thereafter. "Faring much better in early 95 was Elastica, whose single Waking Up became their biggest UK hit to date at number 13." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Admission of "Nicking" Wire's "Three Girl Rumba"** : Justine Frieshmund, the leader of Elastica, openly admitted to being a big fan of Wire and deliberately taking elements from their 1977 song "Three Girl Rumba" for Elastica's song "Connection." This admission led to a settlement without a court case. "In fact, she admitted to being such a big fan that she deliberately nicked some of Three Girl Rumbaw for one of her songs." ← https://www.youtube.com/watch?v=L09R2evjyMc ← elastica
@@ -52,11 +69,14 @@
 **Similar to Oasis** : Elastica was among the bands that started to appear, sounding similar to Oasis, demonstrating the latter's popularity and influence within the Britpop scene. "The Oasis approach proved to be so popular that they started to hear and see similar bands." ← https://www.youtube.com/watch?v=DSvoppf1dGY ← elastica
 **Subsumed by Britpop** : Elastica, along with many other bands tagged with the "new wave of new wave" label, was eventually integrated into the larger Britpop movement. "many of the bands tagged with that label were soon subsumed into something bigger that we call Brit Pop." ← https://www.youtube.com/watch?v=9CNNsqXiL6U ← elastica
 **Trainspotting Soundtrack Contribution (1996)** : Elastica contributed to the first *Trainspotting* soundtrack in 1996. This soundtrack gained widespread acclaim and is often listed among the best movie soundtracks of all time, known for its mix of old and new rock and electronic music that captured the film's desperate yet uplifting tone. "New Order, Pulp, Blur, Underworld, Elastica, Lou Reed." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← elastica
+**Musical Power Couple with Damon Albarn** : Justine Frischmann, Elastica's frontwoman, was dating Damon Albarn of Blur in the early 90s, becoming an object of fascination in the British tabloids and being dubbed "Britpop's It Couple." "Blur's Damon Alborn and Elastica's Justine Frischman, who had been dating since the early 90s, became an object of Fleet Street fascination, Britpop's It Couple." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Acknowledged Influence from Wire** : Elastica's hit song "Connection" borrowed its rhythmic hook from the 70s art punk band Wire's song "3-Girl Rumba," a resemblance that Justine Frischmann did not deny. "Elastica's Justine Freshman did not deny the resemblance." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Drug Addiction Impact** : Drug addictions plagued multiple members of the group, including Justine Frischmann, causing a significant delay in the release of their second album. "as drug addictions racked multiple members of the group, including Justine Fischman." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Brit Award for British Breakthrough Act (1996)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q16985318
 
 ## lists
 **"Elastica" (1995) — 1001 Albums You Must Hear Before You Die** : #794.
-**"Elastica" (1995) — Pitchfork: The 150 Best Albums of the 1990s** : #109. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Elastica" (1995) — Pitchfork: The 50 Best Britpop Albums** : #6. ← musicbrainz | https://beta.musicbrainz.org/series/cd7ebb70-d88f-4f74-b6de-3a00bf2a162c
+**"Elastica" (1995) — Pitchfork: The 150 Best Albums of the 1990s** : #109.
+**"Elastica" (1995) — Pitchfork: The 50 Best Britpop Albums** : #6.

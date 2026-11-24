@@ -16,6 +16,7 @@
 **Singles Club Innovation** : By mid-1988, Subpop was a "pretty cool little label." To enhance its profile, the company launched the Subpop Singles Club, offering subscribers a new, limited-edition indie single by mail every month for an annual fee. The very first single, released in November 1988, was from Nirvana. "And as an added touch, the company started the Subpop Singles Club. For an annual fee, subscribers received a brand new limited edition indie single in the mail every single month." ← https://www.youtube.com/watch?v=sCtQqVBtCaI ← subpop
 **Subpop 100 Compilation (July 1986)** : In July 1986, Subpop released a collection titled "Subpop 100," subtitled "To K-Tell with Love." Although it only featured two local acts, it marked a significant beginning for the label. "Enough bands eventually submitted tapes by July of 1986 for the company to release a collection called the Subpop 100, subtitled To K-Tell with Love. And although the album only featured two local acts, it was at least a start." ← https://www.youtube.com/watch?v=sCtQqVBtCaI ← subpop
 **Subpop Singles Club (1988)** : To enhance its appeal, Subpop launched the "Subpop Singles Club," which, for an annual fee, provided subscribers with a new limited edition seven-inch single every month. Nirvana's very first single was the inaugural release in November 1988. "And as an added touch, the company started the Subpop singles club for an annual fee. Subscribers received a brand new limited edition seven inch single in the mail every single month." ← https://www.youtube.com/watch?v=xdn31jMOOA4 ← subpop ← subpop
+**Nirvana's First Label** : Subpop, a Seattle-based independent label, signed Nirvana in November 1988, subsequently releasing the band's 1989 debut album, "Bleach." "signed to Seattle-based independent label Subpop in November 1988." ← Hit Parade Music History and Music Trivia > Smells Like Christmas Spirit, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Green River
@@ -24,4 +25,3 @@
 - Screaming Trees
 - Soundgarden
 - The Thermals
-

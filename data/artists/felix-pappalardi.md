@@ -1,5 +1,8 @@
 # artist - Felix Pappalardi
 
+## member of
+- Mountain
+
 ## instruments
 - Bass
 

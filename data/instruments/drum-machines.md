@@ -25,3 +25,4 @@
 - The Human League
 - Trent Reznor
 - Joe Jackson
+- U2

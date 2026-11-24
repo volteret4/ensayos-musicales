@@ -15,6 +15,7 @@
 
 ## songs
 **Rumble (1958)** : This was Link Wray's first single, released in 1958, and was a fuzzy, distorted instrumental, highly unique for its era, predating fuzz pedals. Wray achieved its "dirty and dangerous sound" by poking holes in his amplifier's speaker, after initially experimenting with a composition titled "Oddball." "In 1958, he released his first single, which was a fuzzy, distorted instrumental, very unique for its day because it was recorded years before there was such a thing as a fuzz pedal for the guitar." ← https://www.youtube.com/watch?v=YFv6Ln00XjA ← link-wray
+**Rumble (1958)** : This classic instrumental, characterized by its "Chorus Gating" effect, reached number 16 on the Best Sellers chart in 1958. Its chart success was notable given that "rougher" rock instrumentals were generally less likely to top the charts. "Although looking at the glass as half full, it is remarkable that guitar legend Link Ray got all the way to number 16 on the bestseller's chart in 1958 with his classic Chorus Gating Rumble." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Band Influence for The Cramps** : Link Wray was mentioned as an influence for The Cramps, among other rockabilly and early rock and roll artists, reflecting their interest in the raw, primitive sounds of the 1950s. "También eran influencias para la banda Ricky Nelson, Roy Orbson, Jassie Latkins o Lingray." ← Amor, Terror y Psychobilly： La Historia de The Cramps | https://www.youtube.com/watch?v=tBVTzVQDQeQ
@@ -27,4 +28,4 @@
 **Speaker Cone Alteration** : In 1958, Link Wray, inspired by messing around with a damaged amplifier, started intentionally poking holes in the speaker cones of his own amp. This technique was used to achieve a raspy, loved sound for his instrumental track "Rumble." "He started poking holes in the speaker cones of his amp to make them sound all raspy." ← https://www.youtube.com/watch?v=iGav9uJwA_w ← link-wray
 
 ## lists
-**"Link Wray & the Wraymen" (1960) — Pitchfork: The 200 Best Albums of the 1960s** : #192. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Link Wray & the Wraymen" (1960) — Pitchfork: The 200 Best Albums of the 1960s** : #192.

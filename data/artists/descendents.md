@@ -3,6 +3,8 @@
 ## genres
 - Hardcore
 - Hardcore punk
+- Hook-y Punk
+- LA Hardcore
 - Punk
 
 ## concerts
@@ -20,7 +22,8 @@
 **Influence on Major Artists** : The Descendents are noted as being very important to the musical education of musicians like Eddie Vedder and Dave Grohl. "Talk to Eddie Vetter or Dave Grohl, and they'll tell you how some of these bands were really, really important to their musical education." ← https://www.youtube.com/watch?v=PEHkKfmmDiI ← descendents
 **Origin and Evolution to Melody** : Hailing from Manhattan Beach in the southwest part of Los Angeles, The Descendents initially played very hardcore music but eventually evolved into a unique sound. Their distinctiveness stemmed from incorporating more melody into their music, a strategy that helped them stand out from the crowd. "They were very hardcore at first, but eventually evolved into something unique." ← https://www.youtube.com/watch?v=tZV1lz-obQE ← descendents
 **California Origins** : This band originated from California, a key region in the development of skate punk culture. "The Descendants, California again." ← https://www.youtube.com/watch?v=44dXy0StjIQ ← the-descendants
+**American Hook-y Punk** : The Descendents, an LA hardcore band, are noted for writing hook-y songs during the 80s, representing an American strain of punk that emphasized classic songwriting but did not achieve American radio hits or best-selling LPs. "during the 80s American punk bands were also writing hook-y songs, most notably the LA hardcore band The Descendants." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
-**"Milo Goes To College" (1982) — Scaruffi 1980s** : #364, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Milo Goes To College" (1982) — Pitchfork: The 200 Best Albums of the 1980s** : #143, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"Milo Goes To College" (1982) — Scaruffi 1980s** : #364, 7.0/10 Scaruffi.
+**"Milo Goes To College" (1982) — Pitchfork: The 200 Best Albums of the 1980s** : #143, 7.0/10 Scaruffi.

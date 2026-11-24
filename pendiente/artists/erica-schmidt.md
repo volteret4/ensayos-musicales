@@ -1,0 +1,5 @@
+# artist - Erica Schmidt
+
+## curiosities
+**Tribeca Festival Live Episode Taping (June 10th, New York City)** : Erica Schmidt, a director, screenwriter, and playwright, will be featured alongside her husband, Peter Dinklage, in a live episode taping at the Tribeca Festival. The event, hosted by Anna Sail of "Death, Sex, and Money," will explore how they make art separately and in collaboration, and how they've built their life around that. It marks their first joint interview ever. The show is scheduled for June 10th in New York City at the SVA Theatre at 5:30 PM. "It's their first joint interview they've done ever together." ← Hit Parade Music History and Music Trivia > Hit Parade - Le Petty Prince Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**First Joint Interview** : Erica Schmidt, a director, screenwriter, and playwright, participated in her first-ever joint interview with her husband, Peter Dinklage. "It's their first joint interview they've done ever together." ← Hit Parade Music History and Music Trivia > Hit Parade - The Great War Against the Single Edition | https://my.slate.com/podcasts/feeds/hit-parade/

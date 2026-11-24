@@ -10,4 +10,4 @@
 ## lists
 **"Want One" (2003) — 1001 Albums You Must Hear Before You Die** : #975.
 **"Want Two" (2004) — 1001 Albums You Must Hear Before You Die** : #995.
-**"Rufus Wainwright" (1998) — Scaruffi 1990s** : #1115, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Rufus Wainwright" (1998) — Scaruffi 1990s** : #1115, 7.0/10 Scaruffi.

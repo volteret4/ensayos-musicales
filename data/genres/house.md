@@ -25,6 +25,7 @@
 **Second Wave of Club Culture** : House music is listed as one of the key genres in the "second wave of club culture" that took hold in the mid-1990s, alongside Techno, Acid House, Progressive, and Euro Trance. "el techno, el Aisid House, el House, el Progressive." ← Music Radar Clan > HISTORIA Y EVOLUCIÓN DEL DJ | https://www.youtube.com/watch?v=VtfJyysUI7A&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← house ← house
 **Shared Early Identity with Techno** : At its inception, House music in Chicago was very similar to Techno in Detroit, making them difficult to distinguish. Many anthems were considered part of both genres. "Cuando nacieron la música jausa en Chicago y la música en Detroit eran muy parecidos, eran movimientos muy hermanos y nos cuesta muchísimo marcar las diferencias entre uno y otros los inicios." ← Music Radar Clan > De KRAFTWERK al TECHNO. Cómo se sentaron las bases del Techno | https://www.youtube.com/watch?v=MIG5FWLHOL4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← house ← house
 **Simultaneous Birth with Techno** : House music was created in Chicago practically at the same time as Techno in Detroit, evolving in two "sister cities." It might have originated a few years earlier but emerged almost simultaneously. "a la vez que estaban haciendo la música techno en Detroit estaban haciendo la música jausa en Chicago." ← Music Radar Clan > De KRAFTWERK al TECHNO. Cómo se sentaron las bases del Techno | https://www.youtube.com/watch?v=MIG5FWLHOL4&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← house ← house
+**1999 Club Hit** : Donna Summer's 1999 house cover of Andrea Bocelli's "Con Te Partirò" became one of the five biggest club hits of 1999, selling a quarter million copies in the U.S. alone, showcasing the genre's commercial viability and Summer's continued relevance in dance music. "It was one of the five biggest club hits of 1999 and sold a quarter million copies in the U.S. alone." ← Hit Parade Music History and Music Trivia > Hit Parade - The Queen of Disco Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Afrika Bambaataa
@@ -40,3 +41,6 @@
 - Aretha Franklin
 - Armand Van Helden
 - Donna Summer
+- The Pointer Sisters
+- Black Box
+- Marc Anthony

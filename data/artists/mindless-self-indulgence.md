@@ -16,4 +16,4 @@
 **Reversed Message in "Back Mask Warning"** : In their song "Back Mask Warning," singer Jimmy Euren delivers a backward message that translates to: "Respect your parents, clean your room. Do your homework. Don't stay out too late and eat your vegetables." This message was included to playfully challenge the notion of satanic messages in backmasked recordings. "Singer Jimmy Euren, yes, I did say Euren, says these words backwards. Respect your parents, clean your room. Do your homework. Don't stay out too late and eat your vegetables." ← https://www.youtube.com/watch?v=_YjwRApoJhA ← mindless-self-indulgence
 
 ## lists
-**"Frankenstein Girls Will Seem Strangely Sexy" (1999) — Scaruffi 1990s** : #935, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Frankenstein Girls Will Seem Strangely Sexy" (1999) — Scaruffi 1990s** : #935, 7.0/10 Scaruffi.

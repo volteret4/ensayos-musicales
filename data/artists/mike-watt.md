@@ -13,4 +13,4 @@
 **Played Bass on *The Weirdness*** : Punk stalwart Mike Watt joined The Stooges to play bass on their reunion album, *The Weirdness*, released in 2007. "On base was punk stalwart Mike Watt." ← https://www.youtube.com/watch?v=w-rihv544I8 ← mike-watt
 
 ## lists
-**"Ball-Hog Or Tugboat" (1994) — Scaruffi 1990s** : #933, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Ball-Hog Or Tugboat" (1994) — Scaruffi 1990s** : #933, 7.0/10 Scaruffi.

@@ -46,3 +46,10 @@
 - Wendy Carlos
 - Wolfgang Amadeus Mozart
 - Sting
+- Billy Joel
+- Roberta Flack
+- Josh Groban
+- James Horner
+- Royal Philharmonic Orchestra
+- Rosalía
+- Laufey

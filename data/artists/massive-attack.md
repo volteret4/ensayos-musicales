@@ -26,6 +26,7 @@
 - Soul
 - Techno
 - Trip Hop
+- TripHop
 
 ## albums
 **Blue Lines (1991)** : Massive Attack released their "Blue Lines album" in 1991, contributing to a period of intense musical activity. "Massive Attacks Blue Lines album." ← https://www.youtube.com/watch?v=Rf1tFWQg51Y ← massive-attack ← massive-attack
@@ -74,15 +75,17 @@
 **Trip Hop Originators** : Massive Attack is widely acknowledged as the "parents" of trip hop, a genre that blends pop and electronic music. Their debut album, *Blue Lines*, released in 1991, is recognized as the definitive starting point for this new style, a rare instance of a genre having a clear inaugural record. "ellos fueron los padres del trip hop." ← Music Radar Clan > Massive Attack - Blue Lines. Un antes y un después en la música. | https://www.youtube.com/watch?v=Ik7PQ2X1o3M&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← massive-attack ← massive-attack
 **Trip Hop Pioneer** : Massive Attack is cited as a key artist in Trip Hop, a genre that fused a wide array of influences including black music, funk, jazz, and classical music during the 90s. Their music was described as baroque and elaborate. ← Music Radar Clan > Daft Punk： Como el Homework revolucionó la electrónica | https://www.youtube.com/watch?v=myhlWJ6DQpw&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← massive-attack ← massive-attack
 **Zero DB Initiative Signatory** : Massive Attack is among the groups that signed the Zero DB petition, an initiative launched in 2008 by the charity Reprieve. This initiative aims to condemn the use of music as torture and to advocate for governments to enforce the Convention Against Torture and other related treaties. "Here's another group that signed the Zero DB petition. Massive attack." ← https://www.youtube.com/watch?v=R1wdsGt07Gg ← massive-attack ← massive-attack
+**Influential Trip Hop Pioneers** : Massive Attack were described as "influential Trip Hop Pioneers" with whom British producer Nellee Hooper helped forge the brooding, spacey "Bristol sound." They were also brought in by Nellee Hooper and co-credited as artists on Madonna's 1995 remake of Marvin Gaye's "I Want You," showcasing their direct influence on Madonna's dabbling in trip hop. "first with Nuvo R&B act Soul to Soul, and more importantly with the influential Trip Hop Pioneers massive attack." ← Hit Parade Music History and Music Trivia > Madonna - The Veronica Electronica Edition (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
+**Collaboration with Madonna (Pre-Ray of Light)** : Madonna had fruitful experiments on singles with Massive Attack prior to "Ray of Light," though these electronic singles did not make a significant dent on the pop charts. "after her fruitful experiments on singles with Nelly Hooper and Massive Attack." ← Hit Parade Music History and Music Trivia > Madonna - The Veronica Electronica Edition (Encore) | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Blue Lines" (1991) — 1001 Albums You Must Hear Before You Die** : #703, 96 AOTY.
 **"Protection" (1994) — 1001 Albums You Must Hear Before You Die** : #775, 77 AOTY.
-**"Mezzanine" (1998) — AOTY Must Hear 1990s** : #83, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Blue Lines" (1991) — AOTY Must Hear 1990s** : #404, 96 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Blue Lines" (1991) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #241, 96 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Mezzanine" (1998) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #383, 7.0/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Mezzanine" (1998) — Scaruffi 1990s** : #909, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Blue Lines" (1991) — Pitchfork: The 150 Best Albums of the 1990s** : #61, 96 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Blue Lines" (1991) — Sputnikmusic Best Albums 1991** : #75, 96 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
-**"Mezzanine" (1998) — Sputnikmusic Best Albums 1998** : #6, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1998/
+**"Mezzanine" (1998) — AOTY Must Hear 1990s** : #83, 7.0/10 Scaruffi.
+**"Blue Lines" (1991) — AOTY Must Hear 1990s** : #404, 96 AOTY.
+**"Blue Lines" (1991) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #241, 96 AOTY.
+**"Mezzanine" (1998) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #383, 7.0/10 Scaruffi.
+**"Mezzanine" (1998) — Scaruffi 1990s** : #909, 7.0/10 Scaruffi.
+**"Blue Lines" (1991) — Pitchfork: The 150 Best Albums of the 1990s** : #61, 96 AOTY.
+**"Blue Lines" (1991) — Sputnikmusic Best Albums 1991** : #75, 96 AOTY.
+**"Mezzanine" (1998) — Sputnikmusic Best Albums 1998** : #6, 7.0/10 Scaruffi.

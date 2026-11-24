@@ -6,4 +6,5 @@
 ## artists
 - The Beatles
 - The Yardbirds
-
+- Gerry and the Pacemakers
+- The Dave Clark 5

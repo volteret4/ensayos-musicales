@@ -23,6 +23,7 @@
 **Shift of Artists Away from Genre** : As Big Beat's popularity waned, even creative bands like The Chemical Brothers were unable to bring new innovations to the genre and eventually transitioned to other musical styles. "Incluso bandas tan creativas como de chemical Brothers no supieron aportar nada nuevo, y acabaron de cantándose hacia otros generos." ← Por qué el cine de los 2000 sonaba así？ Big Beat | https://www.youtube.com/watch?v=UOFTiKXruFQ
 **Stylistic Contrast with The Prodigy** : Despite often being grouped together, The Prodigy's "The Fat of the Land" (1997) is considered difficult to classify within Big Beat culture. Unlike Big Beat artists who mixed DJ electronics with classic rock and indie, The Prodigy's sound originated from hardcore techno, industrial music, sampling, and punk, exhibiting distinct stylistic, visual, aesthetic, and philosophical differences. "Big Beat artists like Groove Armada or The Chemical Brothers or Fatboy Slim, they were DJs who had mixed with rock and with indie culture, with British classic rock bands and had made that symbiosis of electronic DJ and rock." ← Music Radar Clan > The Prodigy： Electrónica y rabia que hizo historia | https://www.youtube.com/watch?v=WWj6hkbXHGY&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
 **Three Defining Characteristics** : The Big Beat movement, largely defined by The Chemical Brothers, incorporated three key characteristics: significantly slower tempos compared to the overdriven European rave music; a more classic, simpler sampling process derived from American hip hop; and the inclusion of samples and synthesizers that emulated real musical instruments like guitars and drums, making the music more palatable to rock and indie audiences. "estos tres puntos yo creo que son los que vendrían a definir la cultura del BigPid que luego se asentaría a mitad de los 90." ← Music Radar Clan > The Chemical Brothers. Padres de la cultura BIG BEAT | https://www.youtube.com/watch?v=EMyp_PMItXg&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc
+**Fat Boy Slim's US Top 40 Success** : The big beat genre gained significant mainstream traction in America by late 1998 and early 1999, notably through Fat Boy Slim (formerly Norman Cook) scoring actual top 40 hits. "Fat Boy Slim, was scoring actual top 40 hits in America." ← Hit Parade Music History and Music Trivia > Hit Parade - The Veronica Electronica Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Fatboy Slim
@@ -31,4 +32,4 @@
 - The Chemical Brothers
 - The Crystal Method
 - The Prodigy
-
+- Fat Boy Slim

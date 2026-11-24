@@ -12,6 +12,6 @@
 
 ## lists
 **"Central Reservation" (1999) — 1001 Albums You Must Hear Before You Die** : #887, 7.0/10 Scaruffi.
-**"Weather Alive" (2022) — AOTY Must Hear 2020s** : #399, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Central Reservation" (1999) — Scaruffi 1990s** : #461, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Weather Alive" (2022) — Scaruffi 2020s** : #26, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Weather Alive" (2022) — AOTY Must Hear 2020s** : #399, 7.0/10 Scaruffi.
+**"Central Reservation" (1999) — Scaruffi 1990s** : #461, 7.0/10 Scaruffi.
+**"Weather Alive" (2022) — Scaruffi 2020s** : #26, 7.0/10 Scaruffi.

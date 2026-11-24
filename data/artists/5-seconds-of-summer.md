@@ -2,10 +2,18 @@
 
 ## genres
 - Pop Punk
+- Rock
+
+## albums
+**Five Seconds of Summer (2014)** : The band's self-titled debut album reached number one on the Billboard album chart, largely due to their connection with One Direction, for whom they had opened on tour. "The One Direction connection got five seconds of summer or five SOS pronounced five-sauce to number one on the Billboard album chart with their self-titled debut album." ← Hit Parade Music History and Music Trivia > We Want It That Way Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## songs
+**She Looks So Perfect (2014)** : This "frothy rock song" marked the Australian band's debut in 2014. It evoked "What Makes You Beautiful" vibes and was released after they had opened for One Direction on tour, benefiting from that connection. "In 2014, an Australian band that opened for One D on tour five seconds of summer made their debut with the single, She Looks So Perfect, a frothy rock song that gave What Makes You Beautiful vibes." ← Hit Parade Music History and Music Trivia > We Want It That Way Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **New Generation Band** : 5 Seconds of Summer is highlighted as one of the bands representing a "new generation of pop punk" that emerged after 2010. "For example, five seconds of summer." ← https://www.youtube.com/watch?v=pE7TaWSUa-o ← 5-seconds-of-summer
 **Social Media Origin** : Five Seconds of Summer is cited as an artist who rose to prominence and built their career through the use of social media platforms. "five seconds of summer." ← https://www.youtube.com/watch?v=nX8uAFDzDYM ← five-seconds-of-summer
+**One Direction Connection** : As an Australian band that opened for One Direction on tour, Five Seconds of Summer benefited significantly from this connection, which helped their debut album reach number one on the Billboard chart. "In 2014, an Australian band that opened for One D on tour five seconds of summer made their debut with the single, She Looks So Perfect, a frothy rock song that gave What Makes You Beautiful vibes." ← Hit Parade Music History and Music Trivia > We Want It That Way Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **American Music Award for New Artist of the Year** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1527196

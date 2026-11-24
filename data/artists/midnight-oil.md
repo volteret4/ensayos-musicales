@@ -28,4 +28,4 @@
 **Sydney Peace Prize (2020)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1975046
 
 ## lists
-**"Blue Sky Mining" (1990) — Sputnikmusic Best Albums 1990** : #139, 3.89 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
+**"Blue Sky Mining" (1990) — Sputnikmusic Best Albums 1990** : #139, 3.89 Sputnik.

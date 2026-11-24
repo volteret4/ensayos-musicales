@@ -5,4 +5,4 @@
 
 ## lists
 **"In‐A‐Gadda‐Da‐Vida" (1968) — 1001 Albums You Must Hear Before You Die** : #123.
-**"In‐A‐Gadda‐Da‐Vida" (1968) — Scaruffi 1960s** : #137. ← Scaruffi | https://scaruffi.com/music/best.html
+**"In‐A‐Gadda‐Da‐Vida" (1968) — Scaruffi 1960s** : #137.

@@ -6,7 +6,7 @@
 
 ## lists
 **"Fire of Love" (1981) — 1001 Albums You Must Hear Before You Die** : #488.
-**"Fire Of Love" (1981) — Scaruffi 1980s** : #4, 9.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Miami" (1982) — Scaruffi 1980s** : #157, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Las Vegas Story" (1984) — Scaruffi 1980s** : #454, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Death Party" (1986) — Scaruffi 1980s** : #830, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Fire Of Love" (1981) — Scaruffi 1980s** : #4, 9.0/10 Scaruffi.
+**"Miami" (1982) — Scaruffi 1980s** : #157, 7.5/10 Scaruffi.
+**"Las Vegas Story" (1984) — Scaruffi 1980s** : #454, 7.0/10 Scaruffi.
+**"Death Party" (1986) — Scaruffi 1980s** : #830, 8.0/10 Scaruffi.

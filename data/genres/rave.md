@@ -12,6 +12,8 @@
 **Prominence in the UK** : Rave culture was highly popular and significant in the UK during the late 1980s, providing a receptive environment for bands whose sound incorporated elements of modern dance, like The Stone Roses. "It was the perfect combination for the times, especially since Rave and House were so big in the UK." ← https://www.youtube.com/watch?v=CVPPymc_qrk ← rave
 **Target of New York City Cabaret Law (1980s)** : During the 1980s, New York City's cabaret law was invoked by Rudy Giuliani to target rave events. This led to dance parties being pushed into unsafe, unlicensed underground warehouses and basements, as the law prohibited dancing in establishments serving alcohol without a special license. "In the 1980s Rudy Giuliani used this law to crack down on hip-hop venues and raves, forcing dance parties into dangerous underground unlicensed warehouse and basements." ← https://www.youtube.com/watch?v=aSk1XQHNkd8 ← rave
 **UK Scene and Techno/House Popularity** : The rave scene in the United Kingdom played a crucial role in popularizing both techno and house music. Derrick May's "Strings of Life" achieved "in-done" status within this scene, and British record agents actively sought to export these sounds to European discos. "La Terra, donde estaban haciendo la escena Rafe... en la nueva escena Rafe, se habían convertido en estrellas." ← Cómo Detroit Reinventó la Música Electrónica ｜ Pioneros del Techno | https://www.youtube.com/watch?v=H4AtVFOVtUw
+**British Rave Influence on Pop Charts (1991)** : In 1991, the pop charts began to actively reflect the sounds of British rave, indie dance, and baggy music, with examples such as EMF's number one hit "Unbelievable," and even established artists like U2 adopting Manchester-style rave beats on their album "Achtung Baby." "The pop charts were also starting to reflect the sounds of British rave, indie dance, and baggy music, such as the number one smash Unbleievable by UK band EMF." ← Hit Parade Music History and Music Trivia > Smells Like Christmas Spirit, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Miami Culture in the 90s** : Miami, Florida, was a hub for rave culture in the 1990s, with festivals like Ultra Music Festival serving as key venues for the scene. Artists who were influential in the electronica genre often headlined these events. "I'm from Miami, Florida, and I totally dabbled in the rave culture that was happening there." ← Hit Parade Music History and Music Trivia > The Bridge - Ladies of the Canyon and the Rhythm Nation | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Moby
@@ -19,4 +21,5 @@
 - Primal Scream
 - The Prodigy
 - The Stone Roses
-
+- Madonna
+- Happy Mondays

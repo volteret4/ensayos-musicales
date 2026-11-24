@@ -6,6 +6,7 @@
 ## curiosities
 **Fascination for Young Trent Reznor** : As a child, Trent Reznor was fascinated by Supertramp, among other bands, contributing to his early musical interests and development. "He was fascinated by super tramp Pink Floyd and anything that had to do with the Antichrist." ← https://www.youtube.com/watch?v=M3nUQtja0qc ← supertramp
 **Pushing for Better Sound** : Supertramp was among the bands, including David Bowie and Yes, who actively pushed sound companies to improve their live audio. They considered "getting concert sound right was very, very important," thereby influencing the advancement of concert sound systems and techniques. "But to performers like David Bowie and Yes and Super Tramp, getting concert sound right was very, very important, so they pushed sound companies to get better." ← https://www.youtube.com/watch?v=qrrwqdpCjpQ ← supertramp
+**Chorus Sampled by Gym Class Heroes (2007)** : An old Supertramp song had its chorus borrowed and incorporated into Gym Class Heroes' 2007 hit single "Cupid's Chokehold." This interpolation contributed to the song's widespread appeal, pushing it to number four on the Hot 100 in March 2007. "the single which borrowed its chorus from an old super tramp song to number four on the hot one hundred in march 2007." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## charts
 **"Give a Little Bit" — Billboard Year-End Hot 100** : #78, 1977. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
@@ -14,7 +15,7 @@
 
 ## lists
 **"Crime of the Century" (1974) — 1001 Albums You Must Hear Before You Die** : #313, 73 AOTY.
-**"Breakfast in America" (1979) — AOTY Must Hear 1970s** : #20, 75 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Crime of the Century" (1974) — AOTY Must Hear 1970s** : #115, 73 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Breakfast In America" (1979) — Scaruffi 1970s** : #513, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Breakfast in America" (1979) — Grammy Award: Album of the Year nominees** : #1980, 75 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
+**"Breakfast in America" (1979) — AOTY Must Hear 1970s** : #20, 75 AOTY.
+**"Crime of the Century" (1974) — AOTY Must Hear 1970s** : #115, 73 AOTY.
+**"Breakfast In America" (1979) — Scaruffi 1970s** : #513, 7.0/10 Scaruffi.
+**"Breakfast in America" (1979) — Grammy Award: Album of the Year nominees** : #1980, 75 AOTY.

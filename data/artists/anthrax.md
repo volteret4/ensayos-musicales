@@ -27,5 +27,5 @@
 
 ## lists
 **"Among the Living" (1987) — 1001 Albums You Must Hear Before You Die** : #584.
-**"Spreading the Disease" (1985) — Scaruffi 1980s** : #242, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Persistence Of Time" (1990) — Sputnikmusic Best Albums 1990** : #157, 3.84 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
+**"Spreading the Disease" (1985) — Scaruffi 1980s** : #242, 7.0/10 Scaruffi.
+**"Persistence Of Time" (1990) — Sputnikmusic Best Albums 1990** : #157, 3.84 Sputnik.

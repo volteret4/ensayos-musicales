@@ -1,15 +1,18 @@
 # artist - Television
 
 ## members
+- Billy Ficka
 - Richard Hell
 - Richard Lloyd
 - Tom Verlaine
 
 ## genres
+- Art Punk
 - Art rock
 - Jazz
 - New Wave
 - Post-punk
+- Progressive Rock
 - Punk
 - Rock
 - Surf
@@ -17,6 +20,8 @@
 ## labels
 - (No labels explicitly mentioned for Television in the provided text.)
 - Arista Records
+- Elektra Records
+- Island Records
 
 ## concerts
 - CBGB
@@ -25,14 +30,18 @@
 
 ## albums
 **Adventure (1978)** : Released the year after *Marquee Moon*, this album was generally considered a commercial "flop" and failed to match the critical and artistic impact of its predecessor. "The following year they released Adventure which was considered a flop by most but honestly was never going to equal Marche Moon." ← For the Record - The 70s > Ep. 57 - Punk and New Wave at New York's CBGB | https://www.ftr70.com/
+**Adventure (1978)** : Television's second LP, released in 1978. It "bubbled under the top LP's chart" in America, just missing at number 201, making it their only appearance in Billboard in the US. "In America, television only appeared in Billboard on their second LP, 1978's Adventure, and even then, the album bubbled under the top LP's chart, just missing at number 201." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Dream Time (1981)** : Tom Verlaine's 1981 solo album that "actually cracked the Billboard chart." It also produced a "minor rock radio hit" with the song "Always," indicating his quiet influence on the emerging new wave sound. "And Verlane's own 1981 album Dream Time actually cracked the Billboard chart and produced a minor rock radio hit with always." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
 **Marquee Moon (1977)** : Released in February 1977, this album marked a significant progression from the band's earlier "raw noise" and showcased Tom Verlaine's jazz influences. It features intricate guitar interplay between Verlaine and Richard Lloyd, described as "fencing politely," and is recommended for headphone listening to fully appreciate its depth. While not a huge commercial hit, it was critically acclaimed and influenced bands like R.E.M. and The Strokes. "Marche Moon from February 1977 I really recommend listening to that with headphones or your preferred personal listening device so that you can fully absorb the guitar interplay between Verlaine and Lloyd who are almost having this conversation with their guitars." ← For the Record - The 70s > Ep. 57 - Punk and New Wave at New York's CBGB | https://www.ftr70.com/
+**Marquee Moon (1977)** : Released in 1977 after signing with Elektra Records, this LP is considered a "punk era masterpiece," despite debates over its genre (post punk, progressive rock, art punk, new wave). It is universally acclaimed, anchored by its nearly 10-minute title track. It failed to chart on Billboard's top LPs chart but reached number 28 on the UK album chart. "Tom Verlane's quartet eventually signed with electoral records, and in 1977, put out an LP still considered a punk era masterpiece, even if it is not exactly punk. Marki Mu, anchored by its nearly 10 minute title track, still engenders debate over what genre it belongs to." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Television (1992)** : This was Television's first studio album in 14 years, released after the band reformed in 1992. Although the Tom Verlaine-led band had never achieved any American chart hits previously, the track "Call Mr. Lee" reached number 27 on the modern rock chart. "That same year, Television, the most seminal CBGB band of all, reformed and put out their first studio album in 14 years." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
 
 ## songs
 **Always (1981)** : A "minor rock radio hit" from Tom Verlaine's 1981 solo album *Dream Time*, contributing to the album's success on the Billboard chart. "And Verlane's own 1981 album Dream Time actually cracked the Billboard chart and produced a minor rock radio hit with always." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
 **Call Mr. Lee (1992)** : This track from Television's 1992 reunion album reached number 27 on the modern rock chart. This marked the band's first appearance on any American chart, demonstrating the modern rock chart's receptiveness to their seminal sound. "but on the modern rock chart, Hall Mr. Lee reached number 27 in 1992." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
 **Kingdom Come** : A track from Tom Verlaine's solo debut album. It was notably covered "immediately" by David Bowie on his number 12 hit album *Scary Monsters*, highlighting Verlaine's quiet influence on the emerging new wave sound. "Kingdom Come, a track from his solo debut was covered immediately by David Bowie on his number 12 hit album Scary Monsters." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
+**Marquee Moon (1977)** : The nearly 10-minute title track from their 1977 album, which was a number 30 single in the UK. Critics praised the intricate guitar interplay of Tom Verlaine and Richard Lloyd on the album. "The title track was a number 30 single." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Prove It (1977)** : The second track from *Marquee Moon*, described as catchier and more radio-friendly. It reached number 25 as a single in the UK. "The Catchier and More Radio Friendly Proof It, got as high as number 25." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Artsy Style** : Television's sound was considerably more artistic and experimental compared to the louder, faster punk bands like the Ramones. "But not all of New York punk was loud and fast. Maybe you'd catch a set by television, which of course was a lot more artsy." ← https://www.youtube.com/watch?v=YaYaFW2q6qI ← television
@@ -63,12 +72,16 @@
 **Underground Impact** : Television were pioneers in the New York underground scene, performing at venues like CBGB. Although they did not achieve immediate widespread financial success and couldn't live solely from music, their work had a significant and lasting impact on music history. "Tuvieron mucha repercusión en el largo plazo, han sido como muy importantes para la historia de la música, pero en su día pues tampoco lo fuera." ← Music Radar Clan > El PUNK como movimiento estético | https://www.youtube.com/watch?v=m6wiAVLkXa0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← television ← television
 **Breakup and Tom Verlaine's Solo Career (1980s)** : Television, described as "CBGB peers" of Patty Smith, "sat out the 1980s" as a band, breaking up after their second album. Frontman Tom Verlaine then shifted to a solo career, where he proved "quietly influential" on the emerging new wave sound. "The band broke up after their second album and Tom Verlane shifted gears to a solo career." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
 **Reformation (1992)** : Television reformed in 1992, putting out their first studio album in 14 years. This marked the return of one of the "most seminal CBGB bands of all." "That same year, Television, the most seminal CBGB band of all, reformed and put out their first studio album in 14 years." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4f6b39d31c85883dc9de
+**Early Punk Evolution** : Television is noted as a band that contributed to punk's evolution into post-punk and new wave almost instantly within its first year. "It was evolving almost instantly within its first year. Into post punk and new wave with bands like television talking heads and blonding." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Catalyst for CBGB's Rock Shift** : Television, an angular improvisatory four-piece, played sprawling, jamming, almost jazzy music that convinced Hilly Crystal to transform CBGB into a rock venue. Their "no-frill style and DIY attitude" made them punk, despite their sound differing significantly from the Ramones or Talking Heads. "Television, the angular improvisatory four piece, that finally convinced Hilly Crystal to make CBGB a rock venue, played sprawling, jamming, almost jazzy music." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**CBGB Debut and Residency** : Around spring 1974, Hilly Crystal was persuaded to allow Television to play at CBGB. Their stripped-down yet intricate sound quickly became a "center of gravity" for the downtown New York scene, and they settled into a significant Sunday night residency. "Sometime around the spring of 74, Hilly Crystal was persuaded to allow a scruffy rock-for-some who called themselves Television...to take the CBGB stage." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rejected by Island Records** : In 1975, Television recorded a demo for Island Records with producer Brian Eno, but the label ultimately decided not to sign them due to their "sprawling jams" that resisted initial label interest. "The band even recorded a demo for island records, with producer Brian Eno in 1975, yet the label decided not to sign television." ← Hit Parade Music History and Music Trivia > This Ain’t No Party! Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
 **"Marquee Moon" (1977) — 1001 Albums You Must Hear Before You Die** : #387, 8.0/10 Scaruffi.
-**"Marquee Moon" (1977) — AOTY Must Hear 1970s** : #65, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Marquee Moon" (1977) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #107, 8.0/10 Scaruffi. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Marquee Moon" (1977) — Scaruffi 1970s** : #75, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Adventure" (1978) — Scaruffi 1970s** : #526, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Television" (1992) — Scaruffi 1990s** : #1234, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Marquee Moon" (1977) — Pitchfork: The 100 Best Albums of the 1970s** : #3, 8.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
+**"Marquee Moon" (1977) — AOTY Must Hear 1970s** : #65, 8.0/10 Scaruffi.
+**"Marquee Moon" (1977) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #107, 8.0/10 Scaruffi.
+**"Marquee Moon" (1977) — Scaruffi 1970s** : #75, 8.0/10 Scaruffi.
+**"Adventure" (1978) — Scaruffi 1970s** : #526, 7.0/10 Scaruffi.
+**"Television" (1992) — Scaruffi 1990s** : #1234, 7.0/10 Scaruffi.
+**"Marquee Moon" (1977) — Pitchfork: The 100 Best Albums of the 1970s** : #3, 8.0/10 Scaruffi.

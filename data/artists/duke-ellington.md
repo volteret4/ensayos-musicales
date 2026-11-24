@@ -41,5 +41,5 @@
 
 ## lists
 **"Ellington at Newport" (1956) — 1001 Albums You Must Hear Before You Die** : #6.
-**"Duke Ellington & John Coltrane" (1963) — AOTY Must Hear 1960s** : #89, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1960s/
-**"The Far East Suite" (1967) — Pitchfork: The 200 Best Albums of the 1960s** : #173. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Duke Ellington & John Coltrane" (1963) — AOTY Must Hear 1960s** : #89, 80 AOTY.
+**"The Far East Suite" (1967) — Pitchfork: The 200 Best Albums of the 1960s** : #173.

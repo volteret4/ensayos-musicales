@@ -13,4 +13,4 @@
 **Second Wave Detroit Techno Artist** : Robert Hood is noted as part of the "second scene of techno" that originated from the influential Music Institute club in Detroit. "Robert Hood, Carl Craig, desea eso el club solo estuvo abierto un año y medio." ← Cómo Detroit Reinventó la Música Electrónica ｜ Pioneros del Techno | https://www.youtube.com/watch?v=H4AtVFOVtUw
 
 ## lists
-**"Minimal Nation" (1994) — Sputnikmusic Best Albums 1994** : #193, 3.94 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
+**"Minimal Nation" (1994) — Sputnikmusic Best Albums 1994** : #193, 3.94 Sputnik.

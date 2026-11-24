@@ -3,6 +3,7 @@
 ## genres
 - Electronic
 - Instrumental
+- New Age
 - New Age Music
 
 ## labels
@@ -13,6 +14,7 @@
 
 ## instruments
 - Keyboard
+- Keyboards
 
 ## albums
 **Live at the Acropolis (1994)** : Released simultaneously with the PBS pledge drive airing of the concert special. Within three weeks of the drive's start, this instrumental new age live album incredibly shot to number five on the Billboard album charts, an unprecedented achievement for the genre and for Yani's career up to that point. His back catalog also began to chart as a result of the special's success. "Within three weeks of the start of the pledge drive, it shot to number five on the Billboard album charts." ← Hit Parade Music History and Music Trivia > Decoder Ring - The New Age Hit Machine | https://shows.acast.com/hit-parade/episodes/695d4ee88e6dd12efb02c1d2
@@ -28,3 +30,5 @@
 **Unprecedented PBS Success** : After PBS stations began airing "Yani at the Acropolis" during their March 1994 pledge drive, its popularity rapidly escalated. Stations repeatedly scheduled the special, sometimes "back-to-back in a single night," because it consistently generated significant donations, proving an extraordinary success for an instrumental new age artist. "And over the course of the drive, it just gathered more and more momentum." ← Hit Parade Music History and Music Trivia > Decoder Ring - The New Age Hit Machine | https://shows.acast.com/hit-parade/episodes/695d4ee88e6dd12efb02c1d2
 **Impact of the PBS Special on Career** : The PBS special was absolutely critical to Yani's rise, as it allowed his music to reach a massive audience previously inaccessible to him. His subsequent tour numbers went "off the charts," and he achieved worldwide recognition, demonstrating that the pledge drive was indispensable to his stardom. "I don't believe about the PBS special. It would have happened. Absolutely not." ← Hit Parade Music History and Music Trivia > Decoder Ring - The New Age Hit Machine | https://shows.acast.com/hit-parade/episodes/695d4ee88e6dd12efb02c1d2
 **Later Public Perception** : Despite achieving global stardom, Yani's name, along with John Tesh's, later became "shorthand for bad music" for many people, who sometimes derided his style and concert productions. "But for a lot of people, those names became shorthand for bad music." ← Hit Parade Music History and Music Trivia > Decoder Ring - The New Age Hit Machine | https://shows.acast.com/hit-parade/episodes/695d4ee88e6dd12efb02c1d2
+**Imitator of Kenny G's Business Model** : Yani, described as a Greek New Age keyboardist and "instrumental Schlockmeister," successfully adopted a business model similar to Kenny G's, which combined accessible pseudo-pop with a virtuosic gloss and high-energy live shows, leading to best-selling albums. "this approach led to best-selling albums by Greek New Age Keyboardist Yani." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Collaboration with Kenny G** : Yani contributed keyboards to Kenny G's "Millennium Mix" cover of "Auld Lang Syne" in 1999. "a cover of the New Year's standard Oddlang Zine featuring keyboards from fellow instrumental Schlockmeister Yani." ← Hit Parade Music History and Music Trivia > Insert Lyrics Here Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/

@@ -3,6 +3,9 @@
 ## songs
 **I'm So Happy I Can't Stop Crying (1997)** : One year after Sting's original minor hit, country star Toby Keith decided to cover "I'm So Happy I Can't Stop Crying" and invited Sting to join him. This version, recorded in Nashville with country instrumentalists, became an "actual country hit," peaking at number two on Billboard's Hot Country Songs chart. "But one year later, actual country star Toby Keith decided to take a crack at it and invited Sting to join him." ← Hit Parade Music History and Music Trivia > If You Love Sting, Set Him Free Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef30c30a1408dc2922b
 
+## curiosities
+**Top Tier Country Hitmaker** : Toby Keith was identified as one of the "top tier of country hitmakers" alongside whom Darius Rucker established himself in his early 40s after launching his country career. "Darius Rucker had established himself among the top tier of country hitmakers alongside the likes of Kenny Chesney, Toby Keith, and Rascal Flats." ← Hit Parade Music History and Music Trivia > A Little Love and Some Tenderness Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## charts
 **"How Do You Like Me Now?!" — Billboard Year-End Hot 100** : #82, 2000. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 **"You Shouldn't Kiss Me Like This" — Billboard Year-End Hot 100** : #91, 2001. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of

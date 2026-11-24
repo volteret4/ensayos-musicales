@@ -6,9 +6,10 @@
 **Rejection of The Kinks** : Decca Records, under Dick Rowe, turned down the opportunity to sign The Ravens (The Kinks), a decision noted for demonstrating "the same judgement he had shown over the Beatles," famously rejecting both future legendary bands. "Rowe, showing the same judgement he had shown over the Beatles, turned down the opportunity to sign the Ravens to Decker." ← Episode 119： ＂You Really Got Me＂ by the Kinks | https://www.youtube.com/watch?v=_XNJ6Qwmh_c
 **Request for William Shatner Album (1968)** : Decca Records approached William Shatner, then a young actor gaining success from Star Trek, to record an album. This request led to Shatner creating "The Transformed Man" in 1968. "Well, Deca asked me to make an album." ← https://www.youtube.com/watch?v=hjProJd_JrM ← decca
 **Signing of William Shatner** : Decca Records approached William Shatner, then a young actor experiencing success with *Star Trek*, to make an album in 1968. This invitation led to *The Transformed Man*, Shatner's debut musical work, which explored linking literature with music. "Well, Deca asked me to make an album. I'm a young actor. I'm getting him having some success in the Star Trek." ← https://www.youtube.com/watch?v=c8CD_FcWcg8 ← decca ← decca
+**Infamous Rejection of The Beatles** : Decca famously turned down The Beatles after an audition in a London studio on New Year's Day 1962. Their A&R head, Dick Row, dismissed the band with the now immortal line, "groups with guitars are on the way out." This decision became one of the most infamous blunders in music history, later satirized in "The Ruttles" TV movie. "The cruelest tease was the Deca label, whose artists and repertoire team schlepped the band into a London studio on New Year's Day 1962, recorded their audition, dithered about it for a few weeks, and then turned them down." ← Hit Parade Music History and Music Trivia > Hit Parade - The Fab Four Sweep Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Roy Hall
 - Sister Rosetta Tharpe
 - William Shatner
-
+- The Tornados

@@ -1,7 +1,10 @@
 # artist - Bono
 
 ## member of
+- Artists United Against Apartheid
+- Automatic Baby
 - Band Aid
+- Passengers
 - U2
 
 ## labels
@@ -16,6 +19,8 @@
 
 ## songs
 **Beautiful Day** : In recent U2 concerts (over the last 15 years), this song is often performed in a lower key due to Bono's vocal adaptations. Depending on the night, he might sing the chorus with less gusto and in a lower range, relying on The Edge's background vocals for added impact. "if you have seen you two in concert over the last, I don't know, 15 years or so, you may notice that a song like this is performed in a lower key." ← https://www.youtube.com/watch?v=_YjwRApoJhA ← bono
+**Do They Know It's Christmas? (1984)** : Bono, from U2, was among the leading British pop stars enlisted by Bob Geldof for Band-Aid's "Do They Know It's Christmas?" He delivered a "star is born" solo with a now-infamous lyric that Geldof insisted he deliver as written, which became one of the song's "outsized moments." "U2's Bono" ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Sun City (1985)** : Bono offered a "politically pointed, rageful solo showcase" on the song "Sun City" by Artists United Against Apartheid. His performance on this track was seen as an effort to "neutralize his infamous thank god it's them star-turn" from the earlier Band-Aid single, adopting a more overtly political stance. "Bono, a year past bandaid. Looking to neutralize his infamous thank god it's them star-turn, Bono offered a more politically pointed, rageful solo showcase." ← Hit Parade Music History and Music Trivia > Hit Parade - The Charity Megasingle Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **360 Tour Postponement and Financial Impact (2010)** : Due to Bono's back injury, 16 scheduled North American dates on U2's massive 360 world tour had to be postponed for a year. This resulted in an estimated loss of $100 million in ticket sales, marking the largest insurance claim in the history of canceled concerts. "The 16 canceled dates represented a loss of about $100 million in ticket sales. It was the biggest insurance claim in the history of canceled concerts." ← https://www.youtube.com/watch?v=NQgn0_mUh74 ← bono ← bono

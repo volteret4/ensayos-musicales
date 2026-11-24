@@ -12,4 +12,4 @@
 **Lucie Award (2010)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q16661472
 
 ## lists
-**"The Piano" (1993) — Sputnikmusic Best Albums 1993** : #22, 4.22 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
+**"The Piano" (1993) — Sputnikmusic Best Albums 1993** : #22, 4.22 Sputnik.

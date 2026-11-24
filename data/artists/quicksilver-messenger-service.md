@@ -5,4 +5,4 @@
 
 ## lists
 **"Happy Trails" (1969) — 1001 Albums You Must Hear Before You Die** : #153, 7.0/10 Scaruffi.
-**"Happy Trails" (1969) — Scaruffi 1960s** : #181, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Happy Trails" (1969) — Scaruffi 1960s** : #181, 7.0/10 Scaruffi.

@@ -6,6 +6,7 @@
 - Jello Biafra
 
 ## genres
+- Agit Prop Punk
 - American Hardcore punk
 - California Hardcore
 - Hardcore
@@ -20,6 +21,7 @@
 
 ## albums
 **Fresh Fruit for Rotting Vegetables (1980)** : This album features the song "California Über Alles" and was released in 1980, with D.H. Peligro playing drums. "Here's Pellegros playing with the Dead Kennedys on the 1980 album Fresh Fruit for Rodding Vegetables." ← https://www.youtube.com/watch?v=sdPeii-8Ysw ← dead-kennedys
+**Fresh Fruit for Rotting Vegetables (1980)** : This debut album bubbled under the Top LPs chart, reaching number 204, indicating that most of this type of punk music, considered "agit prop," rarely approached the Billboard charts. "Dead Kennedys 1980 debut fresh fruit for rotting vegetables bubbled under the top LPs chart number 204" ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **In God We Trust Inc. (1981)** : This EP, released in 1981, uniquely featured all its music on side one of the cassette. Side two was intentionally left blank with the instructions: "Home Taping Is Killing Record Industry Profits. We left this side blank so you can help." This was a satirical jab at the music industry's anti-taping campaign. `"In 1981, the dead candidates released an EP called In God We Trust Inc. All the music was on side one of the cassette, and the other side was left blank with the instructions, Home Tapping Is Killing Record Industry Profits. We left this side blank so you can help."` ← https://www.youtube.com/watch?v=OuFvfZJKcpc ← dead-kennedys
 **In God We Trust Inc. (1981)** : This EP by the punk band The Dead Kennedys was released in a cassette version. The band notably left the entire B-side of the cassette blank, using it as a statement against home taping and its impact on record industry profits. "when the punk band, the Dead Kennedys released the cassette version of their In God we trust Inc. EP. They left the B side blank with this note." ← https://www.youtube.com/watch?v=QBCEmZ4Jheo ← dead-kennedys
 
@@ -59,8 +61,8 @@
 
 ## lists
 **"Fresh Fruit for Rotting Vegetables" (1980) — 1001 Albums You Must Hear Before You Die** : #456, 88 AOTY.
-**"Plastic Surgery Disasters" (1982) — AOTY Must Hear 1980s** : #140, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"In God We Trust, Inc." (1981) — AOTY Must Hear 1980s** : #158, 67 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Fresh Fruit for Rotting Vegetables" (1980) — AOTY Must Hear 1980s** : #188, 88 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Fresh Fruit for Rotting Vegetables" (1980) — Scaruffi 1980s** : #11, 88 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Plastic Surgery Disasters" (1982) — Scaruffi 1980s** : #358, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Plastic Surgery Disasters" (1982) — AOTY Must Hear 1980s** : #140, 7.0/10 Scaruffi.
+**"In God We Trust, Inc." (1981) — AOTY Must Hear 1980s** : #158, 67 AOTY.
+**"Fresh Fruit for Rotting Vegetables" (1980) — AOTY Must Hear 1980s** : #188, 88 AOTY.
+**"Fresh Fruit for Rotting Vegetables" (1980) — Scaruffi 1980s** : #11, 88 AOTY.
+**"Plastic Surgery Disasters" (1982) — Scaruffi 1980s** : #358, 7.0/10 Scaruffi.

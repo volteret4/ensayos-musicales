@@ -14,8 +14,8 @@
 **Shortlist Music Prize (2005) — Picaresque** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q7502207
 
 ## lists
-**"The Crane Wife" (2006) — AOTY Must Hear 2000s** : #173, 79 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Picaresque" (2005) — AOTY Must Hear 2000s** : #265, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Castaways and Cutouts" (2002) — Scaruffi 2000s** : #322, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Picaresque" (2005) — Scaruffi 2000s** : #323, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Tain" (2004) — Scaruffi 2000s** : #735, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"The Crane Wife" (2006) — AOTY Must Hear 2000s** : #173, 79 AOTY.
+**"Picaresque" (2005) — AOTY Must Hear 2000s** : #265, 7.0/10 Scaruffi.
+**"Castaways and Cutouts" (2002) — Scaruffi 2000s** : #322, 7.0/10 Scaruffi.
+**"Picaresque" (2005) — Scaruffi 2000s** : #323, 7.0/10 Scaruffi.
+**"The Tain" (2004) — Scaruffi 2000s** : #735, 7.5/10 Scaruffi.

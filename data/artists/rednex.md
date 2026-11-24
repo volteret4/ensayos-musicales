@@ -1,7 +1,13 @@
 # artist - Rednex
 
+## genres
+- Swedish Pop
+
 ## songs
 **Sex & Violins (1995)** : This single, released in 1995 by the Swedish band Rednex, holds the distinction of having the world's longest song title, comprising 52 words. "That distinction seems to belong to a Swedish band called Rednecks. Ready? Okay. They released a single in 1995 called The Sad but True Story of Ray Mingus, the lumberjack of Bulk Rock City, and his never-slacking strive in exploiting the so far undiscovered areas of the intention to bodily intercourse from the opposite species of his kind during intake of all the mental condition that could be derived from fermentation. That's the title, 52 words." ← https://www.youtube.com/watch?v=T1XSJIm0Nh4 ← rednex
+
+## curiosities
+**1994 Chart Context** : Rednex was listed as a Swedish pop act active during 1994, illustrating the diversity within the Swedish pop scene during the year Ace of Base achieved significant chart dominance. "A. Ace of Base, B. Rockset, C. Rednecks, or D. The A-teens." ← Hit Parade Music History and Music Trivia > Music Trivia - ’90s Teen-Pop Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Echo Pop Award for the Hit of the Year (2001)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q113080784

@@ -21,8 +21,9 @@
 ## curiosities
 **Big Boi's Solo Album Output** : Big Boi has released three solo albums, all of which achieved "modest sales" but garnered "very strong critical acclaim," contrasting with Andre 3000's lack of an official solo album. "For his part, Big Boy has issued three solo albums, all of which have earned modest sales, but very strong critical acclaim." ← Hit Parade Music History and Music Trivia > Shake It Like a Polaroid Picture Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ee9d1ba84fb8f044632
 **Kate Busch as Influence** : Despite his reputation as Outcast's more "rap centric member," Big Boi cited iconoclastic British singer-songwriter Kate Busch as one of his all-time favorites and biggest sonic influences. Her "ethereal work" reportedly found its way into "the more cerebral material Big Boy was working on for Outcast's next album." "In later interviews, Big Boy would cite iconoclastic British singer songwriter Kate Busch as one of his all-time favorites and biggest sonic influences." ← Hit Parade Music History and Music Trivia > Shake It Like a Polaroid Picture Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ee9d1ba84fb8f044632
+**Lyrical Reference to Atlanta Lore** : Big Boi, alongside Andre Benjamin, contributed to the lyrical narrative of "Aquemini," addressing the multifaceted lore of Atlanta (ATL), which includes both its positive aspects and the tragic legacy of the unsolved Atlanta murders. "Andre and Big Boy wrap about in Aquemina." ← Hit Parade Music History and Music Trivia > The Bridge - Many Ways to be OutKasted | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## lists
-**"Sir Lucious Left Foot" (2010) — AOTY Must Hear 2010s** : #912, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Sir Lucious Left Foot" (2010) — Scaruffi 2010s** : #106, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Sir Lucious Left Foot" (2010) — Sputnikmusic Best Albums 2010** : #141, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2010/
+**"Sir Lucious Left Foot" (2010) — AOTY Must Hear 2010s** : #912, 7.0/10 Scaruffi.
+**"Sir Lucious Left Foot" (2010) — Scaruffi 2010s** : #106, 7.0/10 Scaruffi.
+**"Sir Lucious Left Foot" (2010) — Sputnikmusic Best Albums 2010** : #141, 7.0/10 Scaruffi.

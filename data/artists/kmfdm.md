@@ -11,8 +11,8 @@
 **Sampling of Amen Break** : KMFDM is mentioned as one of the artists who have employed the "Amen Break" sample in their music. "And it's been employed by such artists as Slipknot, Primal Scream, Oasis, Nightingale, KMFDM and Literary Thousands more." ← https://www.youtube.com/watch?v=VnXBJqKwkrw ← kmfdm
 
 ## lists
-**"Angst" (1993) — Scaruffi 1990s** : #837, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Naive" (1990) — Scaruffi 1990s** : #838, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Nihil" (1995) — Scaruffi 1990s** : #839, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Naive" (1990) — Sputnikmusic Best Albums 1990** : #182, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
-**"Angst" (1993) — Sputnikmusic Best Albums 1993** : #182, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1993/
+**"Angst" (1993) — Scaruffi 1990s** : #837, 7.0/10 Scaruffi.
+**"Naive" (1990) — Scaruffi 1990s** : #838, 7.0/10 Scaruffi.
+**"Nihil" (1995) — Scaruffi 1990s** : #839, 7.0/10 Scaruffi.
+**"Naive" (1990) — Sputnikmusic Best Albums 1990** : #182, 7.0/10 Scaruffi.
+**"Angst" (1993) — Sputnikmusic Best Albums 1993** : #182, 7.0/10 Scaruffi.

@@ -9,6 +9,9 @@
 **Shift from Gospel to Secular Music** : The label, initially known for its gospel releases, began refocusing towards more secular styles of black music after Lloyd Price's "Lordy Miss Claude" became its biggest hit, recognizing the greater commercial potential. "maybe he should refocus the label away from gospel and towards more secular styles of music." ← Episode Sixty： ＂You Send Me＂ by Sam Cooke | https://www.youtube.com/watch?v=92tD5qJR-yY
 **Sonny Bono's Early Career** : Sonny Bono worked as a young songwriter for Specialty Records, writing songs for artists such as Sam Cooke, Larry Williams, and Dillon Di. "Sonny Barrow was a young songwriter who had written songs its specialty records for people like Sam Cook, Larry Williams and Dolan Jui." ← Episode 113： ＂Needles and Pins＂ by The Searchers | https://www.youtube.com/watch?v=izC9ZBI0UHM
 **Source of R&B Influence** : This label was known for recording artists such as Little Richard and Larry Williams, whose R&B music significantly influenced Richie Valens' early musical interests. "Valens' big interest in school was music, especially R&B, and especially the music of Little Richard and Larry Williams, and other people who had recorded for specialty records." ← Episode 73： ＂La Bamba＂ by Ritchie Valens | https://www.youtube.com/watch?v=1v9iSCWnLsc
+**Founded by Art Rupe** : Specialty Records was founded in Los Angeles by Art Rupe, who was described as a "budding music impresario and Black Music efficient auto." "By this time, the Sturs were signed to a label, specialty records, founded in Los Angeles by budding music in Pricario and Black Music Efficient Auto, Art Group." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**First Non-Gospel Act** : Robert "Bumps" Blackwell, a producer for Specialty, branched out from gospel to produce Little Richard later in 1955, marking one of the label's first non-gospel acts. "Later that year he would produce Little Richard, one of specialty's first non-gospel acts." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Desired "Little Richard Sound" from Sam Cooke** : Specialty Records president Art Rupe instructed producer Bumps Blackwell to try and give Sam Cooke a version of Little Richard's "fierce, gritty rock and roll sound," a direction Cooke resisted. "And Roup gave specific instructions to producer Bumps Blackwell to give Sam a version of the Little Richard sound." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Art Rupe
@@ -21,4 +24,3 @@
 - Sam Cooke
 - The Pilgrim Travelers
 - The Soul Stirrers
-

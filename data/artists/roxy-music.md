@@ -1,14 +1,19 @@
 # artist - Roxy Music
 
 ## members
+- Amanda Lear
 - Brian Eno
 - Bryan Ferry
+- Marilyn Cole
 
 ## genres
 - Art Rock
 - Avant-Garde
+- British art rock
+- disco rock hybrid
 - Experimental Rock
 - Glam Rock
+- glam style
 - New Wave
 - Punk
 
@@ -24,13 +29,16 @@
 
 ## albums
 **Avalon (1982)** : This album was recorded under analog conditions at Compass Point Studios in the Bahamas, utilizing two-inch tape likely running at 30 inches per second, before being transferred to vinyl. The vinyl version is described as exquisite and is considered an excellent record for testing audio equipment. "a vinyl version of Roxy Music's Avalon album sounds absolutely exquisite." ← https://www.youtube.com/watch?v=B2g4QSREzpw ← roxy-music
+**For Your Pleasure (1973)** : The cover of this album featured glamorous model Amanda Lear, whose appearance served as a direct inspiration for Nile Rogers' concept of Sheik's "faceless" album covers, which would feature models rather than band members. "glamorous models, like for your pleasure's cover girl Amanda Lear" ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Roxy Music (1972)** : This self-titled debut album was released on June 16, 1972. It was characterized by its fashionable, glamorous, and artsy approach, incorporating film and cultural references, and venturing into the avant-garde with futuristic and retro, sexy and standoffish, silly and serious elements. Its experimental nature, particularly its heavy reliance on synthesizer on Side Two as noted by a Cream Magazine review in 1973, divided critics but appealed to a segment of British music fans, including future punks. "Their cell titled debut album was released on June 16th, 1972." ← https://www.youtube.com/watch?v=blDNqVFheAw ← roxy-music ← roxy-music
+**Stranded (1973)** : This LP's cover featured Playboy model Marilyn Cole. Her appearance was another key inspiration for Nile Rogers' vision for Sheik's album art, where band members would remain unseen, replaced by glamorous models to maintain an aura of mystique. "Playboy model Marilyn Cole, who appeared on the cover of Roxy's LP Stranding." ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## songs
 **Avalon (1982)** : This is the title track from their 1982 album, *Avalon*. It is frequently recommended as a quality record for use when testing audio equipment due to its exquisite sound on vinyl. "There's Roxy Music with a title track of their 1982 Avalon album, a great record to use. When testing out audio equipment." ← https://www.youtube.com/watch?v=B2g4QSREzpw ← roxy-music
 **Dance Away (1979)** : The Roland CR-78 drum machine can be heard contributing to the rhythm track of Roxy Music's song "Dance Away." "Roxy Music, it's in the song Dance Away" ← https://www.youtube.com/watch?v=dablAKDOOV0 ← roxy-music ← roxy-music
 **Love Is the Drug (1975)** : A song that captures the essence of glam, with lyrics like "love is the drug for me." "love is the drug for me." ← https://www.youtube.com/watch?v=blDNqVFheAw ← roxy-music ← roxy-music
 **Love Is the Drug (1975)** : This song by Roxy Music featuring Brian Ferry was implied to be played after a discussion about Brian Ferry's son, Otis. The lyrics mention, "Love is the drug and I need to score. So we're not showing our hit and run. Boy meets girl with a beat goes on. Stitch up tight, can't she beat? Love is the drug and we're going to meet." "Love is the drug and I need to score." ← https://www.youtube.com/watch?v=U40hOYy_94E ← roxy-music ← roxy-music
+**Love Is the Drug (1975)** : Released in 1975, this was Roxy Music's first American hit. It was described as a "Disco Rock Hybrid," indicating the band's incorporation of R&B rhythms by 1976, a stylistic evolution that influenced Nile Rogers' musical approach for Sheik. "By 1976, even Nile's beloved Roxy Music, were recording Roque with an R&B rhythm, like their first American hit, The Disco Rock Hybrid Love Is The Drug." ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Virginia Plain (1972)** : This song, released as a standalone single in the UK and part of the North American release of their debut album, notably served as a single about a brand of cigarettes, reflecting the band's unique and often peculiar approach. "Roxy Music and Virginia Plane, part of the North American release of their debut album, and a standalone single on the UK." ← https://www.youtube.com/watch?v=blDNqVFheAw ← roxy-music ← roxy-music
 
 ## curiosities
@@ -53,6 +61,11 @@
 **Influence on Suede** : Roxy Music was celebrated by Suede as an influence, representing the great eccentric English rock of the 1970s and 1980s that Suede sought to revive. "Instead, Swade celebrated the great eccentric English rock of the 70s and 80s. David Bowie, Roxy Music, T-Rex, Smiths, Morrissey, British Psych, Jagger Swagger, Glam guitars..." ← https://www.youtube.com/watch?v=5q5EnZj1FwE ← roxy-music
 **Theatrics as Entertainment** : Brian Ferry echoed the sentiments of Alice Cooper and Mark Bolan regarding the band's hair, makeup, and theatrics, stating that these elements were merely an "exciting part of the show" and a form of entertainment, not the entirety of their artistic output. "He essentially said that it was just an exciting part of the show, that it wasn't everything but that it was entertainment." ← For the Record - The 70s > Ep. 26 - Starmen - Glam Rock of the 70s | https://seventies.libsyn.com/026-glam-11820-6-34-pm
 **Times Square Soundtrack Contribution (1980)** : Roxy Music was among the artists featured on the soundtrack for the 1980 movie *Time Square*. This soundtrack was significant for being one of the first to highlight the burgeoning alternative music scene, including punk and new wave, to a broader audience. "The soundtrack featured the pretenders, Roxy music, Gary Newman, XTC, Joe Jackson." ← https://www.youtube.com/watch?v=zIkjd1OjCXM ← roxy-music
+**Stylistic Debt** : Bands leading the post-punk and goth-rock movements owed a stylistic debt to the stylistically bold glam rock combo Roxy Music. "And the stylistically bold glam rock combo rock-seeing music." ← Hit Parade Music History and Music Trivia > Lost and Lonely Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on New Romantic** : New Romantic music was a descendant of glam rock bands like Roxy Music, combining their theatricality and moodiness. "Like Goth, New Romantic music was also a descendant of both 70s punk and the glam rock of bands like Roxy Music." ← Hit Parade Music History and Music Trivia > Lost and Lonely Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mostly Straight Members** : The members of Roxy Music were noted as being mostly straight, despite the androgynous or gender-bending aesthetic common in Glam Rock. "Two The Members of Roxy Music." ← Hit Parade Music History and Music Trivia > Mighty Real Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Rock and Roll Hall of Fame Inductee (2019)** : Roxy Music is being inducted into the Rock and Roll Hall of Fame in 2019. "Roxy Music...are being inducted into the Rock and Roll Hall of Fame this year." ← Hit Parade Music History and Music Trivia > The Bridge - Cover Queens and The Boy Wonder | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on Sheik's Image** : Nile Rogers was deeply impressed by British art rockers Roxy Music's intricate musicianship and distinctive glam style, particularly that of their debonair lead singer, Brian Ferry, during a London club gig in the early 1970s. Their innovative use of glamorous models, such as Amanda Lear and Marilyn Cole, on their album covers instead of band members, directly inspired Rogers' concept for Sheik's "faceless" mystique. "Nile was wowed, not only by their intricate musicians, but by their glam style, especially Debenair Leedsinger Brian Ferry." ← Hit Parade Music History and Music Trivia > These Are the Good Times, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Rock and Roll Hall of Fame (2019)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q179191
@@ -66,10 +79,10 @@
 **"Roxy Music" (1972) — 1001 Albums You Must Hear Before You Die** : #263, 8.0/10 Scaruffi.
 **"For Your Pleasure" (1973) — 1001 Albums You Must Hear Before You Die** : #282, 7.0/10 Scaruffi.
 **"Country Life" (1974) — 1001 Albums You Must Hear Before You Die** : #310.
-**"For Your Pleasure" (1973) — AOTY Must Hear 1970s** : #157, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1970s/
-**"Avalon" (1982) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #336. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Roxy Music" (1972) — Scaruffi 1970s** : #71, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"For Your Pleasure" (1973) — Scaruffi 1970s** : #482, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Stranded" (1973) — Scaruffi 1970s** : #483, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"For Your Pleasure" (1973) — Pitchfork: The 100 Best Albums of the 1970s** : #87, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/f2e5e744-d9a7-41f5-bc95-6ee787122bc1
-**"Avalon" (1982) — Pitchfork: The 200 Best Albums of the 1980s** : #111. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"For Your Pleasure" (1973) — AOTY Must Hear 1970s** : #157, 7.0/10 Scaruffi.
+**"Avalon" (1982) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #336.
+**"Roxy Music" (1972) — Scaruffi 1970s** : #71, 8.0/10 Scaruffi.
+**"For Your Pleasure" (1973) — Scaruffi 1970s** : #482, 7.0/10 Scaruffi.
+**"Stranded" (1973) — Scaruffi 1970s** : #483, 7.0/10 Scaruffi.
+**"For Your Pleasure" (1973) — Pitchfork: The 100 Best Albums of the 1970s** : #87, 7.0/10 Scaruffi.
+**"Avalon" (1982) — Pitchfork: The 200 Best Albums of the 1980s** : #111.

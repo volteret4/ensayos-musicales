@@ -1,7 +1,12 @@
 # artist - Selena Gomez
 
 ## genres
+- Pop
 - Whisper Pop
+
+## songs
+**Bad Liar (2017)** : This acclaimed Top 20 Hit memorably sampled Tina Weymouth's baseline from Talking Heads' "Psycho Killer." "Selena Gomez's acclaimed 2017 Top 20 Hit Bad Lier." ← Hit Parade Music History and Music Trivia > At Last, My Legacy Has Come Along Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Lose You to Love Me (2019)** : This "aching ballad" by actress and "longtime pop deity" Selena Gomez topped the Hot 100, further demonstrating the chart's wide-ranging nature in late 2019. "actress and longtime pop deity Selena Gomez with her aching ballad lose you to love me." ← Hit Parade Music History and Music Trivia > Rolling in God’s Royal Uptown Road Edition. | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Smartphone Music Video Production** : Selena Gomez was one of the artists who, by the end of the 2010s, utilized smartphones like the iPhone 11 to produce high-definition music videos, showcasing how advanced mobile technology allowed for professional productions with significantly reduced budgets. "people could create pro-level productions, especially after the debut of the iPhone 11. By the end of the decade, thousands of people were making music videos in HD and 4K with just their phones that included people like Lady Gaga and Selena Gomez." ← https://www.youtube.com/watch?v=mNqqLDpUuZY ← selena-gomez ← selena-gomez

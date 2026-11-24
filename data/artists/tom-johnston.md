@@ -1,6 +1,7 @@
 # artist - Tom Johnston
 
 ## member of
+- Dubie Brothers
 - The Doobie Brothers
 
 ## curiosities

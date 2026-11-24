@@ -10,3 +10,4 @@
 - Noel Coward
 - PJ Harvey
 - Elvis Costello
+- Lady Gaga

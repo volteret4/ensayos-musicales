@@ -12,21 +12,21 @@
 **Experimental and Abstract Approach** : Their musical output delves into experimental and abstract territories, characterized by an intense obsession with geometry evident in both their sound design and overall aesthetic. Their work is described as one of the most radical and least "human" propositions within Warp Records' catalog. "Probablemente será propuesta más radical y menos humana, dentro de todo lo que Guard publicará." ← Qué fue el IDM y por qué cambió la música electrónica | https://www.youtube.com/watch?v=RTwn3hP1XTg
 
 ## lists
-**"LP5" (1998) — AOTY Must Hear 1990s** : #72, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Tri Repetae" (1996) — AOTY Must Hear 1990s** : #215, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Confield" (2001) — AOTY Must Hear 2000s** : #463, 72 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
-**"Chiastic Slide" (1997) — Scaruffi 1990s** : #31, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Incunabula" (1993) — Scaruffi 1990s** : #32, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Amber" (1995) — Scaruffi 1990s** : #427, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Tri Repetae" (1996) — Scaruffi 1990s** : #428, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Envane" (1997) — Scaruffi 1990s** : #1358, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Amber" (1995) — Pitchfork: The 150 Best Albums of the 1990s** : #92, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Tri Repetae" (1996) — Pitchfork: The 50 Best IDM Albums of All Time** : #3, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/e9a6e452-f6af-431e-9984-56046b9c2e05
-**"LP5" (1998) — Pitchfork: The 50 Best IDM Albums of All Time** : #8, 81 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/e9a6e452-f6af-431e-9984-56046b9c2e05
-**"Amber" (1995) — Pitchfork: The 50 Best IDM Albums of All Time** : #16, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/e9a6e452-f6af-431e-9984-56046b9c2e05
-**"Amber" (1995) — Sputnikmusic Best Albums 1994** : #170, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1994/
-**"LP5" (1998) — Sputnikmusic Best Albums 1998** : #148, 81 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1998/
-**"elseq 1-5" (2016) — Sputnikmusic Best Albums 2016** : #88, 3.93 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2016/
-**"NTS Sessions 1-4" (2018) — Sputnikmusic Best Albums 2018** : #62, 3.94 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2018/
-**"NTS Session 3" (2018) — Sputnikmusic Best Albums 2018** : #83, 3.92 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2018/
-**"NTS Session 2" (2018) — Sputnikmusic Best Albums 2018** : #191, 3.83 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2018/
+**"LP5" (1998) — AOTY Must Hear 1990s** : #72, 81 AOTY.
+**"Tri Repetae" (1996) — AOTY Must Hear 1990s** : #215, 7.0/10 Scaruffi.
+**"Confield" (2001) — AOTY Must Hear 2000s** : #463, 72 AOTY.
+**"Chiastic Slide" (1997) — Scaruffi 1990s** : #31, 8.0/10 Scaruffi.
+**"Incunabula" (1993) — Scaruffi 1990s** : #32, 8.0/10 Scaruffi.
+**"Amber" (1995) — Scaruffi 1990s** : #427, 7.0/10 Scaruffi.
+**"Tri Repetae" (1996) — Scaruffi 1990s** : #428, 7.0/10 Scaruffi.
+**"Envane" (1997) — Scaruffi 1990s** : #1358, 7.0/10 Scaruffi.
+**"Amber" (1995) — Pitchfork: The 150 Best Albums of the 1990s** : #92, 7.0/10 Scaruffi.
+**"Tri Repetae" (1996) — Pitchfork: The 50 Best IDM Albums of All Time** : #3, 7.0/10 Scaruffi.
+**"LP5" (1998) — Pitchfork: The 50 Best IDM Albums of All Time** : #8, 81 AOTY.
+**"Amber" (1995) — Pitchfork: The 50 Best IDM Albums of All Time** : #16, 7.0/10 Scaruffi.
+**"Amber" (1995) — Sputnikmusic Best Albums 1994** : #170, 7.0/10 Scaruffi.
+**"LP5" (1998) — Sputnikmusic Best Albums 1998** : #148, 81 AOTY.
+**"elseq 1-5" (2016) — Sputnikmusic Best Albums 2016** : #88, 3.93 Sputnik.
+**"NTS Sessions 1-4" (2018) — Sputnikmusic Best Albums 2018** : #62, 3.94 Sputnik.
+**"NTS Session 3" (2018) — Sputnikmusic Best Albums 2018** : #83, 3.92 Sputnik.
+**"NTS Session 2" (2018) — Sputnikmusic Best Albums 2018** : #191, 3.83 Sputnik.

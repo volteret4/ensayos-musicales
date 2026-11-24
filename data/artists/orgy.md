@@ -4,7 +4,9 @@
 - Jay Gordon
 
 ## genres
+- Alt Metal
 - New Metal
+- Rap Rock
 
 ## curiosities
 **Donna's Domain Review** : The guitarist from Orgy was rated "average" in terms of sexual ability and penis size on Donna's Domain. The review also noted he had "some specific kinks," was "a good kisser," but possessed "the personality of a corpse." "The guitarist is average. Although he has some specific kinks that I really can't get into here. He's also a good kisser, but he has the personality of a corpse." ← https://www.youtube.com/watch?v=dMsEj62KFEw ← orgy
@@ -12,3 +14,4 @@
 **Jay Gordon's Contribution to Linkin Park Remix** : Jay Gordon, the singer for the San Francisco band Orgy, provided a new vocal track for the reinterpreted mix of Linkin Park's song "Points of Authority," featured on Linkin Park's 2002 remix album, Reanimation. "The new voice in the track is from Jay Gordon, the singer for San Francisco band called Orgy." ← https://www.youtube.com/watch?v=cUqdY_T7luM ← orgy
 **Members in Dead by Sunrise** : Friends from the band Orgy were featured as members in Chester Bennington's side project, Dead by Sunrise, helping to form the group's lineup. "created this new group featuring some friends from bands called Julian K and Orgy." ← https://www.youtube.com/watch?v=zIlCaKCvylI ← orgy ← orgy
 **New Metal Follower** : Orgy was listed as one of the groups that emerged in the wake of successful new metal bands, indicating their association with the genre's sound and popularity. "Others followed. Stained. Orgy." ← https://www.youtube.com/watch?v=hBQE4t72i3o ← orgy ← orgy
+**New Metal/Rap Rock Trendsetters** : Orgy was mentioned as a band that produced hits contributing to the new metal and rap rock trends of the late 90s, which combined syncopated rhythms, metal screeching, and occasional rapping, and charted on both mainstream and modern rock lists. "Corn, limp biscuit, coal chamber, orgy, the death tones, even kid rock at the time was aligned with new metal's combination of syncopated rhythms, metal screeching and occasional rapping." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/

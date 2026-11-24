@@ -45,6 +45,8 @@
 **Touring Underserved Cities** : The north-south touring flow of punk and hardcore bands meant they frequently played in underserved cities and towns, including the Seattle area, where major touring acts were infrequent. This created opportunities for local scenes to flourish and for unique cross-pollination of musical styles. "The North South flow of punk and hardcore bands meant that these groups played a lot of underserved cities and towns when it came to tours. They had to play somewhere so they would play anywhere. And that included the Seattle area. At the time, the Pacific Northwest was sort of off the grid when it came to major touring acts. So if you wanted to see live music, it was much easier to catch a punk show than anything else." ← https://www.youtube.com/watch?v=0qigzi1j81U ← hardcore
 **UK Hardcore and D-Beat** : The UK developed its own hardcore derivative called D-Beat, characterized by a distinctive drum pattern. UK Hardcore was a fusion of British punk (like the Sex Pistols) and the New Wave of British Heavy Metal (NWOBHM) bands that emerged in the early 1980s, with Motörhead being a major influence. "Then we have the UK, home of a hardcore derivative called Debeat, which referred to a distinctive sort of drum pattern that went with a lot of the songs. UK Hardcore was an amalgamation of British punk, especially the Sex Bistels, and the new wave of British heavy metal bands that appeared at the beginning of the 1980s. The biggest influence from that scene was Motorhead." ← https://www.youtube.com/watch?v=0qigzi1j81U ← hardcore
 **Vancouver's Historic Scene** : In the 1970s and 1980s, Vancouver was predominantly known for its hardcore music scene. Bands like No Means No, DOA, and Adversity emerged from this era, contributing to the city's distinctive and influential musical "edge" that Matthew Good believes has since been lost. "If you look at the city's music history, I mean, we're predominantly known for hardcore in the 80s and the 70s, 80s, that kind of thing." ← https://www.youtube.com/watch?v=--g0gugy3ZE ← hardcore ← hardcore
+**LA Punk Scene Subgenre** : The late 1970s LA punk scene spawned a wide range of bands, including hardcore acts like Black Flag and The Germs. "The Go-Go's grew out of a late 70s LA punk scene that spawned a wide range of bands, from hardcore acts like Black Flag and the Germs." ← Hit Parade Music History and Music Trivia > Hit Parade - The Silver Medalists Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Origin of Emo Roots** : The roots of emo, an offshoot of punk, can be traced back at least a decade before its commercial emergence, specifically to the peak of 80s hardcore. This foundational connection shows how the aggressive energy of hardcore was infused with new lyrical and melodic dimensions to create emo. "the roots of the punk offshoot known as Emo went back at least a decade before its commercial emergence to the peak of 80s hardcore." ← Hit Parade Music History and Music Trivia > I Write Sins, Not Tragedies, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Adversity
@@ -102,4 +104,6 @@
 - Tin Machine
 - Turnstile
 - Wretched
-
+- Ted Leo
+- Citizens Arrest
+- The Germs

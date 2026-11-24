@@ -8,4 +8,4 @@
 **Polaris Music Prize (2011)** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q685954
 
 ## lists
-**"Hometowns" (2008) — Sputnikmusic Best Albums 2008** : #54, 4.12 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2008/
+**"Hometowns" (2008) — Sputnikmusic Best Albums 2008** : #54, 4.12 Sputnik.

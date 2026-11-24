@@ -10,12 +10,12 @@
 **Lopatin's Anagogic Filter - Unique Artistic Process** : Juanitri Expon-Never's soundtrack for *Good Time* was notably "molded through Lopatin's anagogic filter." This artistic process, drawing inspiration from artists such as Tangier Indrimi and Vanjelly, enabled the creation of a score that features both serene beauty and unsettling intensity, contributing to its unique and unconventional character. "La banda sonora influenciada por figuras como Tangier Indrimi Vanjelly se molde a través del filtro inagógico de Lopatín." ← Las Bandas Sonoras Más Atípicas y Revolucionarias del Cine | https://www.youtube.com/watch?v=fiSrdUP3YXY
 
 ## lists
-**"Garden of Delete" (2015) — AOTY Must Hear 2010s** : #454, 78 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"R Plus Seven" (2013) — AOTY Must Hear 2010s** : #653, 80 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Replica" (2011) — AOTY Must Hear 2010s** : #811, 79 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Tranquilizer" (2025) — AOTY Must Hear 2020s** : #16, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Replica" (2011) — Pitchfork: The 200 Best Albums of the 2010s** : #49, 79 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"Replica" (2011) — Pitchfork: The 50 Best Ambient Albums of All Time** : #20, 79 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/60daa934-58b5-44a7-937f-751ee3d2431a
-**"Rifts" (2009) — Pitchfork: The 50 Best Ambient Albums of All Time** : #27. ← musicbrainz | https://beta.musicbrainz.org/series/60daa934-58b5-44a7-937f-751ee3d2431a
-**"Replica" (2011) — Sputnikmusic Best Albums 2011** : #178, 79 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2011/
-**"Tranquilizer" (2025) — Sputnikmusic Best Albums 2025** : #75, 82 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2025/
+**"Garden of Delete" (2015) — AOTY Must Hear 2010s** : #454, 78 AOTY.
+**"R Plus Seven" (2013) — AOTY Must Hear 2010s** : #653, 80 AOTY.
+**"Replica" (2011) — AOTY Must Hear 2010s** : #811, 79 AOTY.
+**"Tranquilizer" (2025) — AOTY Must Hear 2020s** : #16, 82 AOTY.
+**"Replica" (2011) — Pitchfork: The 200 Best Albums of the 2010s** : #49, 79 AOTY.
+**"Replica" (2011) — Pitchfork: The 50 Best Ambient Albums of All Time** : #20, 79 AOTY.
+**"Rifts" (2009) — Pitchfork: The 50 Best Ambient Albums of All Time** : #27.
+**"Replica" (2011) — Sputnikmusic Best Albums 2011** : #178, 79 AOTY.
+**"Tranquilizer" (2025) — Sputnikmusic Best Albums 2025** : #75, 82 AOTY.

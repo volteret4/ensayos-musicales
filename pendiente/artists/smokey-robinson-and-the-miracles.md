@@ -1,9 +1,14 @@
 # artist - Smokey Robinson and The Miracles
 
+## genres
+- Motown
+- R&B
+
 ## albums
 **Make It Happen (1967)** : This LP was released by Smokey Robinson and The Miracles in 1967 and contained several potential hits. Motown initially pulled two singles, "The Love I Saw in You Was Just a Mirage" and "More Love," but the iconic "The Tears of a Clown" was buried at the end of Side 2. "When Smokey Robinson and The Miracles delivered their 1967 LP Make It Happen, it came packed with potential hits." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c42e
 
 ## songs
+**I Heard It Through the Grapevine (1966)** : This was the first version of "I Heard It Through the Grapevine" to be recorded, in 1966. "I heard it through the grapevine was first recorded by Smokey Robinson and the Miracles in 1966, then Marvin Gaye tried it, more on him in a moment." ← Hit Parade Music History and Music Trivia > Gotcha Covered Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 **The Love I Saw in You Was Just a Mirage (1967)** : Released as a single from their 1967 LP "Make It Happen," this song reached number 20 on the charts. "The love I saw in you was just a mirage, reached number 20." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c42e
 **More Love (1967)** : Also pulled as a single from the "Make It Happen" LP, "More Love" achieved a chart position of number 23. "and more love reached number 23." ← Hit Parade Music History and Music Trivia > Second-Chance Hits Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef18e6dd12efb02c42e
 **The Tears of a Clown (1967)** : This song was written by Stevie Wonder. "tears of a clown for smokey robins in the miracles. He wrote that." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
@@ -17,4 +22,4 @@
 **"294" — NME Chart** : 26 semanas. ← Wikipedia | https://en.wikipedia.org/wiki/NME
 
 ## lists
-**"Going to a Go‐Go" (1965) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #412. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
+**"Going to a Go‐Go" (1965) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #412.

@@ -5,4 +5,5 @@
 
 ## artists
 - David Bowie
-
+- Curtis Maldunor
+- Curtis Maldun

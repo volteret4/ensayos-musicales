@@ -1,5 +1,8 @@
 # artist - Lorde
 
+## members
+- Ella Yelich O'Connor
+
 ## genres
 - Alternative
 - Indie
@@ -26,6 +29,8 @@
 **Royals (2013)** : Featured on *The Love Club* EP, this song sold over 10 million units worldwide, becoming one of the rare songs in the last 20 years to be certified Diamond in the United States. It achieved number one status in several countries and earned Lorde a couple of Grammy Awards. "It included a song called Royals. It has since sold more than 10 million units worldwide, making it one of the very few songs at the last 20 years to be certified diamond in the United States. It was a number one single in several countries and it won a couple of Grammy Awards." ← https://www.youtube.com/watch?v=11UsTJQyQds ← lorde ← lorde
 **Royals (2013)** : This song, released by Lorde when she was 17, became a worldwide hit in 2013 and served as an anthem for millennials. It was the success of this song that led to her signing with Universal. "And over 2013, it became a worldwide monster, and an anthem for millennials everywhere." ← https://www.youtube.com/watch?v=sOU54d8mr5k ← lorde
 **Royals (2013)** : This single, which became a worldwide hit and millennial anthem, sold 10 million units. "The single sold 10 million units." ← https://www.youtube.com/watch?v=sOU54d8mr5k ← lorde
+**Royals (2013)** : This "left field" nine-week number one hit from a New Zealand teenager offered a "Rorschach test" for listeners, with interpretations ranging from a contemptuous rant against hip-hop culture, a dubious yearning for pre-rap musical values, or a clever embrace and critique of hip-hop tropes. The song, about aspirational wealth, deepened the Hot 100's skew toward white faces in 2013. "Prokosis New Zealand teenager, Lord, with her left field nine week number one hit Royalts." ← Hit Parade Music History and Music Trivia > Rolling in God’s Royal Uptown Road Edition. | https://my.slate.com/podcasts/feeds/hit-parade/
+**Royals (2013)** : This smash hit took over the number one spot on the Billboard Hot 100 from Miley Cyrus in early October 2013, following Cyrus's two-week reign with "Wrecking Ball." Its video was minimalist, featuring the then-16-year-old Lorde singing directly to the camera while young male actors lounged and boxed in a nearly empty apartment, but it wasn't a viral "water cooler" video like "Wrecking Ball." "Royals 2 had a fairly popular video, a minimalist clip of the then 16 year old, singing dead on to the camera while a pair of young male actors lays about and box each other in a near empty apartment." ← Hit Parade Music History and Music Trivia > The Twerking and Chatrouletting Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Age Conspiracy Theory** : Upon the release of *Pure Heroine* in 2013, some believed Lorde, then 16, was actually 45 years old, arguing that her music's maturity could only come from an "old soul." This theory was fueled by alleged old interviews where she supposedly preferred the name "Ella" and stated her age as 45. The TV show *South Park* even incorporated this theory into a story arc, portraying Lorde as a 45-year-old geologist named Randy Marsh. "The people who believe in this theory point to some old interviews allegedly given by Lord, where she says she prefers to go by the name of Ella and that she's actually 45 years old." ← https://www.youtube.com/watch?v=pmKjZzypzvg ← lorde
@@ -43,6 +48,9 @@
 **Philanthropic and Social Responsibility** : Lorde has actively engaged in social responsibility, assisting victims of a typhoon in the Philippines and contributing funds to an organization dedicated to raising awareness of Batten disease, a fatal neurodegenerative disorder. She also raised money for the Free Tibet movement and has made various other contributions to health causes, particularly in her home country of New Zealand. "Lord has helped out victims of a typhoon in the Philippines. She's contributed funds to an organization that raises awareness of a fatal neurodegenerative disorder called Baton disease. She's raised money for the free Tibet movement and she's made other contributions to various health causes, especially at home in New Zealand." ← https://www.youtube.com/watch?v=11UsTJQyQds ← lorde ← lorde
 **Streaming Success with Pop-Leaning Rock Sound** : Lorde is cited as an artist whose songs achieved hundreds of millions, and sometimes billions, of streams throughout the 2010s. Her sound was characterized as leaning towards the pop end of rock, indicating a successful adaptation to the changing music consumption landscape. "There was the luminaires, Lorde, Imagine Dragons, Coldplay, Mumford and Sons. They all had songs that streamed hundreds of millions, and in some cases billions of times through the decade." ← https://www.youtube.com/watch?v=5Y6nHw5xx88 ← lorde
 **Target of Charli XCX's "Girl So Confusing" (2024)** : New Zealand pop star Lorde was correctly identified by fans as the target of Charli XCX's 2024 apparent diss track "Girl So Confusing." The song described a female pop star who "kind of looked like her, with similar curly hair," and with whom Charli had "seemingly fallen out," setting the stage for a unique resolution. "fans correctly guessed that Charlie's target on the song was New Zealand pop star, Lord." ← Hit Parade Music History and Music Trivia > Here's The Beef Edition Part 2 | https://shows.acast.com/hit-parade/episodes/695d4ef8154465cd600c50df
+**Commentary on Black Culture Appropriation (2013)** : "Royals" was identified as perhaps the "sliest commentary on white appropriation of black culture" in 2013, functioning as a "Rorschach test" for listeners due to its complex lyrical themes about wealth, aspiration, and hip-hop culture. "Perhaps the year's sliest commentary on white appropriation of black culture and 2013's unlikely chart topper came from Prokosis New Zealand teenager, Lord, with her left field nine week number one hit Royalts." ← Hit Parade Music History and Music Trivia > Rolling in God’s Royal Uptown Road Edition. | https://my.slate.com/podcasts/feeds/hit-parade/
+**Influence on Modern Artists - Billie Eilish Comparison** : Lorde is cited as a significant artistic predecessor, with Billie Eilish being described as her "heir apparent," highlighting her unique and influential style. "I see her as the heir apparent to everybody from Kate Bush, Titori, Amos to Lord." ← Hit Parade Music History and Music Trivia > The Bridge - Farewell, Lilith Fan | https://my.slate.com/podcasts/feeds/hit-parade/
+**Chart Competition for "Applause"** : Lorde was one of the artists whose "bigger late 2013 hits" overshadowed Lady Gaga's single "Applause" on the Hot 100, despite "Applause" achieving a respectable peak at number four. ← Hit Parade Music History and Music Trivia > The Gaga is Born Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Aotearoa Music Award for Best Solo Artist** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q28183066
@@ -54,11 +62,11 @@
 **"Royals" — Billboard Year-End Hot 100** : #20, 2014. ← Wikipedia | https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of
 
 ## lists
-**"Melodrama" (2017) — AOTY Must Hear 2010s** : #291, 91 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Pure Heroine" (2013) — AOTY Must Hear 2010s** : #656, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/2010s/
-**"Virgin" (2025) — AOTY Must Hear 2020s** : #78, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2020s/
-**"Melodrama" (2017) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #460, 91 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"Pure Heroine" (2013) — Scaruffi 2010s** : #245, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Melodrama" (2017) — Grammy Award: Album of the Year nominees** : #2018, 91 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Melodrama" (2017) — Pitchfork: The 200 Best Albums of the 2010s** : #14, 91 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/ecae5db8-a33e-45d3-a345-9acab6d5c559
-**"Melodrama" (2017) — Sputnikmusic Best Albums 2017** : #178, 91 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2017/
+**"Melodrama" (2017) — AOTY Must Hear 2010s** : #291, 91 AOTY.
+**"Pure Heroine" (2013) — AOTY Must Hear 2010s** : #656, 7.0/10 Scaruffi.
+**"Virgin" (2025) — AOTY Must Hear 2020s** : #78, 81 AOTY.
+**"Melodrama" (2017) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #460, 91 AOTY.
+**"Pure Heroine" (2013) — Scaruffi 2010s** : #245, 7.0/10 Scaruffi.
+**"Melodrama" (2017) — Grammy Award: Album of the Year nominees** : #2018, 91 AOTY.
+**"Melodrama" (2017) — Pitchfork: The 200 Best Albums of the 2010s** : #14, 91 AOTY.
+**"Melodrama" (2017) — Sputnikmusic Best Albums 2017** : #178, 91 AOTY.

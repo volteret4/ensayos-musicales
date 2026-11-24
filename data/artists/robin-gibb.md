@@ -6,6 +6,9 @@
 ## concerts
 - Time Square
 
+## albums
+**Boys Do Fall in Love (1984)** : Robin Gibb issued this album in 1984 as part of an attempt to toughen up and modernize his sound away from the Bee Gees. The single from the album, "Boys Do Fall in Love," peaked at number 37 on the Hot 100. "Robin offered boys do fall in love" ← Hit Parade Music History and Music Trivia > The Nights on Broadway Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
 ## songs
 **Saved by the Bell (1969)** : This solo record by Robin Gibb, a member of the Bee Gees, released in 1969, is recognized as the first successful pop song to prominently feature a drum machine. "The first successful pop song to feature a drum machine was saved by the bell, a solo record by Robin Gibb, one of the Bee Gees, which was 1969." ← https://www.youtube.com/watch?v=dablAKDOOV0 ← robin-gibb ← robin-gibb
 

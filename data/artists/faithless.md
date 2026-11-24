@@ -31,4 +31,4 @@
 **Politically Driven Music** : Faithless's music was predominantly political, with Maxi Jazz's lyrical directness ensuring that their stance on issues was always clear and unmistakable. "Their stuff was mostly political and with Maxi's way with words, you never, ever didn't know where they stood. They were very clear." ← https://www.youtube.com/watch?v=_1NNvxgx8uA ← faithless
 
 ## lists
-**"Reverence" (1996) — Scaruffi 1990s** : #671, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Reverence" (1996) — Scaruffi 1990s** : #671, 7.0/10 Scaruffi.

@@ -18,4 +18,4 @@
 **Top-Grossing Tours** : Roger Waters is noted as an artist, with an average age of 45 and above, whose tours are among the highest-grossing of all time. This highlights the sustained demand for performances by legacy artists, fueled by fan nostalgia and willingness to pay to revisit musical memories from their youth. ← https://www.youtube.com/watch?v=m7MbV-eCLyE ← roger-waters
 
 ## lists
-**"Amused to Death" (1992) — Sputnikmusic Best Albums 1992** : #166, 3.9 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1992/
+**"Amused to Death" (1992) — Sputnikmusic Best Albums 1992** : #166, 3.9 Sputnik.

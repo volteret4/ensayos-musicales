@@ -19,6 +19,7 @@
 ## songs
 **How Blue Can You Get** : A sample of B.B. King singing this song was prominently featured in Primitive Radio Gods' hit track "Standing Outside a Broken Phone Booth with Money in My Hand." This use of sampling contributed to the unique sound that gained traction in the music industry at the time. "It was a piano track featuring a sampled BB King singing a song called How Blue Can You Get." ← Ongoing History of New Music > Great Alt-Rock One-Hit Wonders of the 90s： Part 2 | https://www.youtube.com/watch?v=SOAL0GODN3M&list=PLM8bxV0E1Gse5C3n1u-mkVSTZLL5AJICG
 **The Thrill Is Gone (1970)** : This song, the last track on his 1969 album "Completely Well," became B.B. King's breakthrough pop hit at the age of 45, reaching number 15 on the Billboard Hot 100 in 1970. Instantly recognizable by its opening notes from his guitar, Lucille, it earned him a Grammy for Best R&B Male Vocal in 1970 and was inducted into the Grammy Hall of Fame in 1998. It was a highlight of his eight-song set at Zaire 74, captivating the crowd including Muhammad Ali. "The thrill is gone made it to number 15 on the Billboard Hot 100 in 1970." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
+**When Love Comes to Town (1988)** : A duet with U2 featured on their *Rattle and Hum* album, representing U2's incorporation of American R&B influences. "including a duet with blues legend BB King called When Love Comes to Town." ← Hit Parade Music History and Music Trivia > With or Without U2 Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Career Decline & Crossover (Late 1960s)** : In the late 1960s, B.B. King's career stalled as younger black music fans gravitated towards soul music, viewing the blues as outdated. His career revived dramatically when he played to a predominantly white, "hippie" audience at the Fillmore West in San Francisco in 1967, receiving a standing ovation before even playing. This resurgence was further aided by rock stars like Eric Clapton publicly acknowledging his profound influence on rock music. "By the late 1960s, BB King's career was grinding to a halt." ← For the Record - The 70s > Ep. 33 - Zaire '74, Muhammad Ali, and The Rumble in the Jungle | https://seventies.libsyn.com/ep-33-zaire-74-muhammad-ali-and-the-rumble-in-the-jungle
@@ -44,5 +45,5 @@
 
 ## lists
 **"Live at the Regal" (1965) — 1001 Albums You Must Hear Before You Die** : #54.
-**"Live at the Regal" (1965) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #299. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"One Kind Favor" (2008) — Sputnikmusic Best Albums 2008** : #147, 3.99 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/2008/
+**"Live at the Regal" (1965) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #299.
+**"One Kind Favor" (2008) — Sputnikmusic Best Albums 2008** : #147, 3.99 Sputnik.

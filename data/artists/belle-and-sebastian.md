@@ -27,16 +27,16 @@
 ## lists
 **"Tigermilk" (1996) — 1001 Albums You Must Hear Before You Die** : #814, 81 AOTY.
 **"If You’re Feeling Sinister" (1996) — 1001 Albums You Must Hear Before You Die** : #835.
-**"The Boy with the Arab Strap" (1998) — AOTY Must Hear 1990s** : #64, 84 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"If You’re Feeling Sinister" (1996) — AOTY Must Hear 1990s** : #150. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Tigermilk" (1996) — AOTY Must Hear 1990s** : #184, 81 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"If You’re Feeling Sinister" (1996) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #481. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"If You’re Feeling Sinister" (1996) — Scaruffi 1990s** : #165. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Tigermilk" (1996) — Scaruffi 1990s** : #454, 81 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"If You’re Feeling Sinister" (1996) — Pitchfork: The 150 Best Albums of the 1990s** : #25. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"If You’re Feeling Sinister" (1996) — Sputnikmusic Best Albums 1996** : #32. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
-**"Tigermilk" (1996) — Sputnikmusic Best Albums 1996** : #125, 81 AOTY. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1996/
-**"Lazy Line Painter Jane" (1997) — Sputnikmusic Best Albums 1997** : #65, 4.1 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
-**"3.. 6.. 9 Seconds Of Light" (1997) — Sputnikmusic Best Albums 1997** : #70, 4.09 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
-**"Dog on Wheels" (1997) — Sputnikmusic Best Albums 1997** : #98, 4.05 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1997/
-**"This Is Just A Modern Rock Song" (1998) — Sputnikmusic Best Albums 1998** : #153, 3.99 Sputnik. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1998/
+**"The Boy with the Arab Strap" (1998) — AOTY Must Hear 1990s** : #64, 84 AOTY.
+**"If You’re Feeling Sinister" (1996) — AOTY Must Hear 1990s** : #150.
+**"Tigermilk" (1996) — AOTY Must Hear 1990s** : #184, 81 AOTY.
+**"If You’re Feeling Sinister" (1996) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #481.
+**"If You’re Feeling Sinister" (1996) — Scaruffi 1990s** : #165.
+**"Tigermilk" (1996) — Scaruffi 1990s** : #454, 81 AOTY.
+**"If You’re Feeling Sinister" (1996) — Pitchfork: The 150 Best Albums of the 1990s** : #25.
+**"If You’re Feeling Sinister" (1996) — Sputnikmusic Best Albums 1996** : #32.
+**"Tigermilk" (1996) — Sputnikmusic Best Albums 1996** : #125, 81 AOTY.
+**"Lazy Line Painter Jane" (1997) — Sputnikmusic Best Albums 1997** : #65, 4.1 Sputnik.
+**"3.. 6.. 9 Seconds Of Light" (1997) — Sputnikmusic Best Albums 1997** : #70, 4.09 Sputnik.
+**"Dog on Wheels" (1997) — Sputnikmusic Best Albums 1997** : #98, 4.05 Sputnik.
+**"This Is Just A Modern Rock Song" (1998) — Sputnikmusic Best Albums 1998** : #153, 3.99 Sputnik.

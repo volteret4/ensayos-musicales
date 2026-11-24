@@ -33,5 +33,5 @@
 **Velvet Underground Fanatic** : Jonathan Richman was a "hardcore velvet underground fan," directly inspired by their music to pursue a career in music himself. "Jonathan Richmond was inspired to get into music because, like I said, of the Velvet Underground." ← https://www.youtube.com/watch?v=Cy5SCQV0HAY ← jonathan-richman-the-modern-lovers
 
 ## lists
-**"Jonathan Richman & The Modern Lovers" (1977) — Scaruffi 1970s** : #364, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"I, Jonathan" (1992) — Pitchfork: The 150 Best Albums of the 1990s** : #133. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
+**"Jonathan Richman & The Modern Lovers" (1977) — Scaruffi 1970s** : #364, 7.0/10 Scaruffi.
+**"I, Jonathan" (1992) — Pitchfork: The 150 Best Albums of the 1990s** : #133.

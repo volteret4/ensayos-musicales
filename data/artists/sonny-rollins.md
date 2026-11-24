@@ -17,5 +17,5 @@
 **National Medal of Arts (2010)** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q1789030
 
 ## lists
-**"Saxophone Colossus" (1957) — AOTY Must Hear 1950s** : #14, 93 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1950s/
-**"The Bridge" (1962) — Pitchfork: The 200 Best Albums of the 1960s** : #165. ← musicbrainz | https://beta.musicbrainz.org/series/efbe4c84-5f83-470f-be53-ef4089ef3010
+**"Saxophone Colossus" (1957) — AOTY Must Hear 1950s** : #14, 93 AOTY.
+**"The Bridge" (1962) — Pitchfork: The 200 Best Albums of the 1960s** : #165.

@@ -1,10 +1,20 @@
 # artist - Harry Belafonte
 
+## genres
+- Calypso
+
 ## albums
+**Calypso (1956)** : Harry Belafonte's 1956 LP, which became a phenomenal crossover success. It spent approximately eight months at number one on the charts and sold millions of copies to both white and black audiences. Sam Cooke took notice of its success. "whose 1956 LP, Calipso, spent some eight months at number one, purchased by white and black audiences in the millions." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Calypso (1957)** : Harry Belafonte was the recipient of the first official gold album award in 1957. This was in recognition of his album "Calypso" selling one million copies. This event predated the Recording Industry Association of America's (RIAA) formalization of sales awards. "The following year, Harry Belafonte was the recipient of the first gold album for selling a million copies of something called Calypso." ← https://www.youtube.com/watch?v=gP3oQeYEvso ← harry-belafonte
 
 ## songs
 **Island in the Sun** : This song is noted as the inspiration for the name "Island Records," which was founded on July 4th, 1959. "taking the name from the Harry Belafonte song Island in the Sun." ← https://www.youtube.com/watch?v=dDcD8kg0wEk ← harry-belafonte
+**Mary's Boy Child (1957)** : Harry Belafonte made this Calypso Christmas classic famous in the 1950s. Decades later, Boney M released a hugely successful cover of the song, which became Britain's official Christmas number one in 1978. "Bony M's cover of the Calypso Christmas Classic, made famous in the 50s by Harry Belafonte, was Britain's official Christmas number one of 1978." ← Hit Parade Music History and Music Trivia > Blame It on the Feign, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Mary's Boy Child (1957)** : This classic Calypso song, recorded by global legend Harry Belafonte, topped the UK chart in 1957. Later, in 1978, the German-Jamaican vocal group Boney M issued a cover transforming it into a Caribbean-style Euro disco track, which also shot to number one. "Harry Belafonte, who topped the UK chart in 1957." ← Hit Parade Music History and Music Trivia > The Christmas is All Around Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+
+## curiosities
+**King of Calypso** : Harry Belafonte was known as the "King of Calypso." "of Harry Belafonte, the so-called King of Calipso, whose 1956 LP, Calipso, spent some eight months at number one, purchased by white and black audiences in the millions." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Phenomenal Crossover Success (1956)** : His 1956 album "Calypso" was a huge crossover hit, staying at number one for about eight months and selling millions of copies to both white and black audiences, which Sam Cooke observed as a model for secular success. "Cook himself had taken notice of the phenomenal crossover success of Harry Belafonte, the so-called King of Calipso, whose 1956 LP, Calipso, spent some eight months at number one, purchased by white and black audiences in the millions." ← Hit Parade Music History and Music Trivia > Don’t Know Much About History, Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **Order of the Companions of O. R. Tambo** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q727815
@@ -32,5 +42,5 @@
 **""Mary's Boy Child" ‡" — UK Singles Chart** : #9, 1958. ← Wikipedia | https://en.wikipedia.org/wiki/UK_Singles_Chart
 
 ## lists
-**"Belafonte at Carnegie Hall" (1959) — Grammy Award: Album of the Year nominees** : #1960. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
-**"Belafonte Returns to Carnegie Hall" (1960) — Grammy Award: Album of the Year nominees** : #1961. ← musicbrainz | https://beta.musicbrainz.org/series/64249380-b076-4a9d-aa41-e617d81fa1c9
+**"Belafonte at Carnegie Hall" (1959) — Grammy Award: Album of the Year nominees** : #1960.
+**"Belafonte Returns to Carnegie Hall" (1960) — Grammy Award: Album of the Year nominees** : #1961.

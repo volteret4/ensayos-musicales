@@ -8,6 +8,8 @@
 **Pet Preference (Dogs)** : Motown music is considered too energetic for dogs because its tempo does not match their resting heartbeat. "Motown to energetic." ← https://www.youtube.com/watch?v=KtdIMNoHqA8 ← motown ← motown
 **Relaxed Rhythms** : Motown music is characterized by its "relaxed rhythms," which can influence drummers like Chad Smith and contribute to their playing style. "Chad Smith, a big hard-hitting dude from Detroit who grew up listening to the relaxed rhythms of Motown." ← https://www.youtube.com/watch?v=CVPPymc_qrk ← motown
 **Resistance to Political Messages** : Berry Gordy, the founder and president of Motown, was strongly opposed to the inclusion of overt political messages in Motown songs, famously resisting Marvin Gaye's desire to release "What's Going On." "Barry Gordy, whose Motowns founder and president was also very resistant to political messages in Motown songs." ← For the Record - The 70s > Ep. 37 - Philly Soul and the Sound of the 70s | https://seventies.libsyn.com/ep-37-philly-soul-and-the-sound-of-the-70s
+**Classic Examples** : Martha and the Vandellas' 1963 hit "Heatwave" is cited as a "Motown chestnut," exemplifying the genre's characteristic themes of passionate love and building vocal harmonies. "Martha and the Vandela's 1963 hit Heatwave. In this Motown chestnut, Martha Reeves sings about a passion that utterly overcomes her and uncontrollable burning whenever the object of her desire so much as calls her name." ← Hit Parade Music History and Music Trivia > Point of No Return Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Inspiration for Modernization** : The sound of vintage Motown, particularly party anthems like Martha and the Vandellas' "Nowhere to Run," served as an inspiration for Jimmy Jam and Terry Lewis when crafting Janet Jackson's "Escapade." They aimed to modernize this classic sound, incorporating contemporary production techniques while retaining a celebratory feel. "crafted by the trio in an attempt to modernize the sound of vintage motowning." ← Hit Parade Music History and Music Trivia > State of the World Edition | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## artists
 - Bobbye Hall
@@ -15,3 +17,16 @@
 - The English Beat
 - U2
 - The Pointer Sisters
+- Phil Collins
+- Billy Joel
+- The Supremes
+- Motown
+- Stevie Wonder
+- Marvin Gaye
+- Smokey Robinson and The Miracles
+- Gladys Knight & The Pips
+- Smokey Robinson
+- Gladys Knight
+- The Pips
+- Martha and the Vandellas
+- Planet Patrol

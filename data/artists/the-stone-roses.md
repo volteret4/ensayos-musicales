@@ -1,6 +1,7 @@
 # artist - The Stone Roses
 
 ## members
+- Gary "Mani" Mounfield
 - Ian Brown
 - John Squire
 - Mani
@@ -11,9 +12,12 @@
 - 60s Pop
 - 60s Psychedelia
 - Acid House
+- Baggy
+- Blues Rock
 - British indie music
 - British Rock
 - Britpop
+- Dance Beats
 - House
 - Indie
 - Indie music
@@ -24,6 +28,7 @@
 - Modern Dance
 - Pop
 - Psychedelic
+- Psychedelic Rock
 - Rave
 - Rock
 
@@ -45,20 +50,26 @@
 - Guitar
 
 ## albums
+**Second Coming (1994)** : After a five-year absence, the Stone Roses reinvented themselves as a blues rock combo for the age of Britpop with this comeback album. Despite the success of the single "Love Spreads," the album underperformed, and the band struggled to live up to the hype of their rebirth, eventually breaking up two years later. "The Stone Roses come back album Second Coming, underperformed, and the band found it could not live up to the hype of their own rebirth." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **The Stone Roses (1989)** : Released in May 1989, this album "breathed new life into British Rock," making The Stone Roses the biggest band in Britain through 1989 and 1990, seen as "England's greatest hope for the future," with records, concert tickets, and t-shirts selling "like crazy." "Under debut album, which had come out in May of 1989, had breathed new life into British Rock." ← https://www.youtube.com/watch?v=MN97R6cxQVw ← the-stone-roses ← the-stone-roses
 **The Stone Roses (1989)** : The first album by The Stone Roses is considered one of three essential albums to take to Mars, indicating its high regard. "and the first Stone Roses album." ← https://www.youtube.com/watch?v=Yl2poVWguu0 ← the-stone-roses
 **The Stone Roses (1989)** : Released in May 1989, this album was instrumental in establishing The Stone Roses as the biggest indie band in the UK at the beginning of the 1990s. It notably yielded five major hit singles. "Their self title debut record which you come out in May of 1989 had given up five major hit singles." ← https://www.youtube.com/watch?v=qC0Ee4-dpnI ← the-stone-roses
 **The Stone Roses (1989)** : Released on March 13, 1989, this self-titled debut is consistently ranked as one of the greatest British rock records ever. It was a seminal work of the Madchester movement. "one of the many singles from their self-titled debut record, which was released on March 13, 1989. It is still ranked as one of the greatest British rock records ever." ← https://www.youtube.com/watch?v=DSvoppf1dGY ← the-stone-roses
 **The Stone Roses (1989)** : Released on May 2, 1989, this record was described as astounding, marking a significant early career milestone for the band. "they released a self-titled debut album on May 2, 1989, and this record was astounding." ← https://www.youtube.com/watch?v=Q4dEV1yn3OY ← the-stone-roses ← the-stone-roses
 **The Stone Roses (1989)** : Released in May 1989, this self-titled debut established The Stone Roses as the biggest indie band in the UK at the beginning of the 1990s. It produced five major hit singles and was instrumental in the popularity of the "Madchester Sound." "Their self-titled debut record, which had come out in May of 1989, had given up five major hit singles." ← https://www.youtube.com/watch?v=huAvyInzz3Q ← the-stone-roses
+**The Stone Roses (1989)** : This self-titled debut album galvanized the Madchester scene, showcasing the band's versatility. It featured tracks ranging from traditional British rock with pop songs to psychedelic funk and club-oriented beats, especially with drummer Gary Mounfield. "The Stone Roses, a four piece combo led by vocalist Ian Brown and guitarist John Squire galvanized the Madchester scene with their 1989 self-titled debut." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## songs
+**Elephant Stone (1989)** : Featured on their debut album, this song demonstrated The Stone Roses' ability to create indelible pop songs within a traditional British rock combo format. "On several tracks, they were more or less a traditional British rock combo with a knack for writing indelible pop songs like Elephant Stone or Shebangs the Drums." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Fools Gold (1989)** : This track is considered one of The Stone Roses' finest works, showcasing the dance groove established by Reni on drums and Mani on bass. Released in 1989, it embodies the band's distinctive sound. "From 1989, the Stone Roses with Fools Gold." ← https://www.youtube.com/watch?v=CVPPymc_qrk ← the-stone-roses
+**Fools Gold (1989)** : A hit from their debut album, this song highlighted The Stone Roses' psychedelic funk side, leaning heavily on drummer Gary Mounfield, making them sound like they belonged in a nightclub. It also became a top 10 hit on the US Modern Rock Chart. "But when they turned up the psychedelic funk and leaned on drummer Gary Moundfield, a manny, as on their hit Fools Gold, the Stone Roses sounded like they belonged in a night club." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **I Am the Resurrection (1989)** : This song by The Stone Roses was covered by Scott Weiland on his album "A Compilation of Scott Weiland Cover Songs." A portion of its lyrics was quoted: "I look away and you've been watching, right? To death. It's not me. Why can't you see me?" "Well, the Stone Roses song was rich. What was it? I am the resurrection. I look away and you've been watching, right? To death. It's not me. Why can't you see me?" ← https://www.youtube.com/watch?v=WfTq9d2YadY ← the-stone-roses ← the-stone-roses
+**Love Spreads (1994)** : This single marked the Stone Roses' long-awaited return after a five-year absence, reaching number 2 on both the US Modern Rock Chart and the UK pop chart. It was the lead single from their blues-rock-oriented comeback album, "Second Coming." "Though Love's spreads reached number 2 on the US modern rock chart and number 2 on the UK pop chart, the Stone Roses come back album Second Coming, underperformed." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 **Sally Cinnamon (1987)** : The character "Sally" in Oasis' "Don't Look Back In Anger" might be an intentional or unintentional nod to The Stone Roses' song "Sally Cinnamon." "No one in particular, although it might be a nod to the Stone Rose's song, Sally Cinnamon." ← https://www.youtube.com/watch?v=IhG-WJH9om8 ← the-stone-roses ← the-stone-roses
 **Sally Cinnamon (1987)** : This song's 12-inch single was controversially re-released by their former indie label, FM Revolver, in late 1989, complete with a "rather tacky video," all without the band's permission, which ultimately led to the band's grudge attack on the label's offices. "So in late 1989, they re-released the 12-inch for a song called Sally Cinnamon and produced a rather tacky video for it without the permission of the group." ← https://www.youtube.com/watch?v=MN97R6cxQVw ← the-stone-roses ← the-stone-roses
 **She Bangs the Drums (1989)** : Released in 1989, this track is identified as one of the "great songs" of the so-called Madchester era in the late 1980s and early 1990s. "That's Shebangs the Drum, it's one of the great songs of the so-called Madchester era in Manchester, England in the late 80s and early 90s." ← https://www.youtube.com/watch?v=dZStbEe4Gkk ← the-stone-roses ← the-stone-roses
 **She Bangs the Drums (1989)** : This was one of the singles from their self-titled debut record, released on March 13, 1989. It is representative of the Madchester sound. "Those are the stone roses with she bangs the drums." ← https://www.youtube.com/watch?v=DSvoppf1dGY ← the-stone-roses
+**She Bangs the Drums (1989)** : This track from their debut album showcased their traditional British rock sound and became a top 10 hit on the US Modern Rock Chart. "The Stone Roses scored top 10 hits on the Modern Rock Chart with she bangs the drums and fools gold." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## curiosities
 **Decline of Manchester Sound (Early 1993)** : The Manchester Sound, exemplified by the Stone Roses, was "on the way out" by February 1993, coinciding with the spread of American Grunge causing a crisis in British music. "the Manchester Sound of the Stone Roses and the Happy Mondays was on the way out" ← https://www.youtube.com/watch?v=ua93Ui1u6UI ← stone-roses ← stone-roses
@@ -105,14 +116,17 @@
 **Spike Island Concert (May 27, 1990)** : On May 27, 1990, The Stone Roses, hailed as one of the most important British rock bands, played their biggest gig at Spike Island, near Liverpool, on the Mersey River. The event attracted 30,000 "ecstasy field fans" to what was colloquially known as a toxic dump due to a nearby chemical factory causing chemical burns (mistaken for sunburn) and greasy residue in fans' hair. The Stone Roses headlined, coming on at 8 PM to a hero's welcome, marking a significant milestone as 30,000 people attended a concert by an indie band, an unprecedented achievement at the time. "Spike Island, the height of Madchester, the height of ecstasy mania, and the greatest moments in the career of one of the most important British rock bands of all time, the Stone Roses, playing Spike Islands, May 27, 1990." ← https://www.youtube.com/watch?v=AymMybE33zU ← the-stone-roses ← the-stone-roses
 **Rejection by Multinationals** : Bands like "estos russos" (Stone Roses is implied by context of Manchester movement bands rejected by multinationals) ended up on independent labels after being rejected by many multinational corporations. "Vandas como los estos russos acabaron en discográficas independientes después de haber sido rechazadas por muchas multinacionales." ← Music Radar Clan > El BRIT POP como negocio discográfico | https://www.youtube.com/watch?v=uIx0P0TssZ0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← stone-roses-implied ← stone-roses-implied
 **Rejection by Multinationals** : Bands like "estos russos" (Stone Roses is implied by context of Manchester movement bands rejected by multinationals) ended up on independent labels after being rejected by many multinational corporations. "Vandas como los estos russos acabaron en discográficas independientes después de haber sido rechazadas por muchas multinacionales." ← Music Radar Clan > El BRIT POP como negocio discográfico | https://www.youtube.com/watch?v=uIx0P0TssZ0&list=PLBFijugu0fhAAIR-Ibh59aaU8VWg-SkLc ← stone-roses-implied
+**Madchester Pioneers** : The Stone Roses were leading figures in the Madchester scene, galvanizing it with their 1989 self-titled debut and defining a sound that blended psychedelic rock and acid house dance beats. "The Stone Roses, a four piece combo led by vocalist Ian Brown and guitarist John Squire galvanized the Madchester scene with their 1989 self-titled debut." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Protracted Absence and Underperformance** : After their debut, The Stone Roses had a five-year absence before releasing "Second Coming." Despite the success of "Love Spreads," the album underperformed, and the band broke up two years later, unable to live up to the immense hype. "After a protracted five-year absence, had reinvented themselves as a kind of blues rock combo for the age of Britpile." ← Hit Parade Music History and Music Trivia > Champagne Supernova Edition Part 1 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Madchester Scene Pioneers (Late 1980s)** : The Stone Roses were a key English rock band, originating from Manchester, that played a significant role in the late 1980s trend of adopting dance beats, acid house, and rave psychedelia into the "Baggy" or "Madchester" style. They, alongside bands like Happy Mondays, demonstrated how "rock bands and drum machines could coexist," influencing U2's subsequent exploration of electronic sounds. "Bands like The Stone Roses or Happy Mondays were showing how rock bands and drum machines could coexist." ← Hit Parade Music History and Music Trivia > With or Without U2 Edition Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
 
 ## awards
 **MOJO Awards** : Won. ← Wikidata | https://www.wikidata.org/wiki/Q3319330
 
 ## lists
 **"The Stone Roses" (1989) — 1001 Albums You Must Hear Before You Die** : #646, 82 AOTY.
-**"The Stone Roses" (1989) — AOTY Must Hear 1980s** : #12, 82 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"The Stone Roses" (1989) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #319, 82 AOTY. ← Rolling Stone | https://beta.musicbrainz.org/series/bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3
-**"The Stone Roses" (1989) — Scaruffi 1980s** : #202, 82 AOTY. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Second Coming" (1994) — Scaruffi 1990s** : #1209, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"The Stone Roses" (1989) — Pitchfork: The 200 Best Albums of the 1980s** : #88, 82 AOTY. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
+**"The Stone Roses" (1989) — AOTY Must Hear 1980s** : #12, 82 AOTY.
+**"The Stone Roses" (1989) — Rolling Stone 500 Greatest Albums Of All Time 2023 Edition** : #319, 82 AOTY.
+**"The Stone Roses" (1989) — Scaruffi 1980s** : #202, 82 AOTY.
+**"Second Coming" (1994) — Scaruffi 1990s** : #1209, 7.0/10 Scaruffi.
+**"The Stone Roses" (1989) — Pitchfork: The 200 Best Albums of the 1980s** : #88, 82 AOTY.

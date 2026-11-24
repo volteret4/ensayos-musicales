@@ -57,8 +57,8 @@
 **Grammy Award for Best Boxed or Special Limited Edition Package (2023) — Book** : Nominated. ← Wikidata | https://www.wikidata.org/wiki/Q5593754
 
 ## lists
-**"Lincoln" (1988) — AOTY Must Hear 1980s** : #26, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"They Might Be Giants" (1986) — Scaruffi 1980s** : #206, 7.5/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Lincoln" (1988) — Scaruffi 1980s** : #756, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Flood" (1990) — Scaruffi 1990s** : #1240, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Flood" (1990) — Sputnikmusic Best Albums 1990** : #63, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1990/
+**"Lincoln" (1988) — AOTY Must Hear 1980s** : #26, 7.0/10 Scaruffi.
+**"They Might Be Giants" (1986) — Scaruffi 1980s** : #206, 7.5/10 Scaruffi.
+**"Lincoln" (1988) — Scaruffi 1980s** : #756, 7.0/10 Scaruffi.
+**"Flood" (1990) — Scaruffi 1990s** : #1240, 7.0/10 Scaruffi.
+**"Flood" (1990) — Sputnikmusic Best Albums 1990** : #63, 7.0/10 Scaruffi.

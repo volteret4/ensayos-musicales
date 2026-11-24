@@ -18,4 +18,4 @@
 **Success at 36** : Amanda Palmer found widespread success when she was 36 years old, after years of performing and building a cult following. "it took until she was just 36 for everything to start falling into place." ← https://www.youtube.com/watch?v=P45lJTdneoI ← amanda-palmer
 
 ## lists
-**"Theatre Is Evil" (2012) — Scaruffi 2010s** : #95, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Theatre Is Evil" (2012) — Scaruffi 2010s** : #95, 7.0/10 Scaruffi.

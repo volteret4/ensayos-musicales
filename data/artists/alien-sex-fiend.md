@@ -15,4 +15,4 @@
 **Prominent Goth Band (1983-1984)** : Identified as one of the numerous goth bands that rose to prominence during the significant expansion of the scene in 1983-1984. "Alien Sex Fiend" ← https://www.youtube.com/watch?v=XaLsZFLrMnI ← alien-sex-fiend
 
 ## lists
-**"Who's Been Sleeping In My Brain" (1983) — Scaruffi 1980s** : #236, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Who's Been Sleeping In My Brain" (1983) — Scaruffi 1980s** : #236, 7.0/10 Scaruffi.

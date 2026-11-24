@@ -1,0 +1,6 @@
+# artist - Nate Dogg
+
+## songs
+**21 Questions (2003)** : Nate Dogg handled most of the melodic hooks on 50 Cent's number one smash, a ballad featuring strong melodic elements. "While singer Nate Dogg handled most of the melodic hooks on 21 questions, Fiddy himself did try his hand at singing too, however modestly." ← Hit Parade Music History and Music Trivia > Say My Name, Say My Name, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/
+**Regulate (1994)** : Nate Dogg supported Warren G on his 1994 song "Regulate." This collaboration showcases the "featured hook singer" model, where a singer provides a melodic hook for a rap track. "Later in 1994, Warren G’s Regulate was supported by singer Nate Dogg." ← Hit Parade Music History and Music Trivia > The Feat. Don’t Fail Me Now Edition | https://my.slate.com/podcasts/feeds/hit-parade/
+**Regulate (1994)** : This duet with Warren G reached No. 2 on the Hot 100 in summer 1994, significantly sampling Michael McDonald's "I Keep Forgettin'." Its chart success surpassed that of the sampled original, demonstrating the lasting impact of yacht-soul on subsequent genres. "took his hit with Nate Dogg, regulate to number two on the hot 100." ← Hit Parade Music History and Music Trivia > What a Fool Believes, Part 2 | https://my.slate.com/podcasts/feeds/hit-parade/

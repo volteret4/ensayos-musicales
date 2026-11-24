@@ -19,11 +19,11 @@
 
 ## lists
 **"The Colour of Spring" (1986) — 1001 Albums You Must Hear Before You Die** : #570, 63 AOTY.
-**"Spirit Of Eden" (1988) — AOTY Must Hear 1980s** : #29, 8.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"The Colour of Spring" (1986) — AOTY Must Hear 1980s** : #79, 63 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/1980s/
-**"Laughing Stock" (1991) — AOTY Must Hear 1990s** : #393, 7.0/10 Scaruffi. ← AOTY | https://www.albumoftheyear.org/must-hear/1990s/
-**"Spirit Of Eden" (1988) — Scaruffi 1980s** : #107, 8.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Laughing Stock" (1991) — Scaruffi 1990s** : #1230, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
-**"Laughing Stock" (1991) — Pitchfork: The 150 Best Albums of the 1990s** : #33, 7.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/4d544556-8519-4a20-b854-af57256d9717
-**"Spirit Of Eden" (1988) — Pitchfork: The 200 Best Albums of the 1980s** : #24, 8.0/10 Scaruffi. ← musicbrainz | https://beta.musicbrainz.org/series/2d7fadbe-6e29-471c-adb9-1d5f78c26b63
-**"Laughing Stock" (1991) — Sputnikmusic Best Albums 1991** : #3, 7.0/10 Scaruffi. ← sputnikmusic | https://www.sputnikmusic.com/best/albums/1991/
+**"Spirit Of Eden" (1988) — AOTY Must Hear 1980s** : #29, 8.0/10 Scaruffi.
+**"The Colour of Spring" (1986) — AOTY Must Hear 1980s** : #79, 63 AOTY.
+**"Laughing Stock" (1991) — AOTY Must Hear 1990s** : #393, 7.0/10 Scaruffi.
+**"Spirit Of Eden" (1988) — Scaruffi 1980s** : #107, 8.0/10 Scaruffi.
+**"Laughing Stock" (1991) — Scaruffi 1990s** : #1230, 7.0/10 Scaruffi.
+**"Laughing Stock" (1991) — Pitchfork: The 150 Best Albums of the 1990s** : #33, 7.0/10 Scaruffi.
+**"Spirit Of Eden" (1988) — Pitchfork: The 200 Best Albums of the 1980s** : #24, 8.0/10 Scaruffi.
+**"Laughing Stock" (1991) — Sputnikmusic Best Albums 1991** : #3, 7.0/10 Scaruffi.

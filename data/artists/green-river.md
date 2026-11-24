@@ -33,4 +33,4 @@
 **Grunge Pioneers** : Formed around the same time as Soundgarden but recording first, Green River pioneered the grunge sound by building a template of "metal sludge plus punk speed" that became intrinsically linked with the Pacific Northwest. "Gene River, another Seattle band formed around the same time, but who started recording first, built a template of metal sludge plus punk speed that became associated with the Pacific Northwest Sound." ← Hit Parade Music History and Music Trivia > All Apologies Edition Part 1 | https://shows.acast.com/hit-parade/episodes/695d4ef5154465cd600c4fb2
 
 ## lists
-**"Rehab Doll" (1988) — Scaruffi 1980s** : #452, 7.0/10 Scaruffi. ← Scaruffi | https://scaruffi.com/music/best.html
+**"Rehab Doll" (1988) — Scaruffi 1980s** : #452, 7.0/10 Scaruffi.

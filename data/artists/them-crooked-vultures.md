@@ -21,4 +21,4 @@
 **Supergroup Formation (Years Ago)** : The band formed after years of casual discussions among Dave Grohl (Foo Fighters), Josh Homme (Queens of the Stone Age), and John Paul Jones (Led Zeppelin) about creating music together. They finally decided to make it a reality. "After years of joking about forming a band together, Dave Grohl of the Fung Fighters, Josh Hommie of Queens of the Stone Age, and Led Zeppelin's John Paul Jones decided to make it happen with them crooked vultures." ← https://www.youtube.com/watch?v=hjProJd_JrM ← them-crooked-vultures
 
 ## lists
-**"Them Crooked Vultures" (2009) — AOTY Must Hear 2000s** : #6, 75 AOTY. ← AOTY | https://www.albumoftheyear.org/must-hear/2000s/
+**"Them Crooked Vultures" (2009) — AOTY Must Hear 2000s** : #6, 75 AOTY.
